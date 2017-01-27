@@ -4,13 +4,17 @@ description: "파트너 가격과 함께 클라우드 솔루션 공급자 프로
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 442d93092accd4458f749eb91a006576913fb941
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
 
 ---
 
 # 제품 및 가격 참조
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 파트너 가격과 함께 클라우드 솔루션 공급자 프로그램에서 사용할 수 있는 제품 목록을 보려면 대시보드 메뉴로 이동하여 **가격 및 제품**을 선택합니다.
 
@@ -39,6 +43,6 @@ CSP 파트너는 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM �
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

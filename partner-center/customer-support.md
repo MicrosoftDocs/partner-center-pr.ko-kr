@@ -4,13 +4,17 @@ description: "귀하는 고객에 대해 첫 번째 연락처 역할을 하며 �
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 8be0016bb5a2d3c383e58847f60762933b382bc4
-ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
 
 ---
 
 # 고객 지원 센터
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 고객을 대면하는 첫 번째 접촉 지점이므로 고객에게 다음과 같은 기술 및 계정 지원 서비스를 제공해야 합니다.
 
@@ -53,6 +57,6 @@ ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ Description: "고객에게 해결할 수 없는 서비스 문제가 발생하고
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
 ---
 
 # 고객 대신 문제 보고
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 고객에게 해결할 수 없는 서비스 문제가 발생하고 [Microsoft로 문제 에스컬레이션](escalate-problems-to-microsoft.md)에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다. 이 프로세스는 청구 문제나 분쟁을 에스컬레이션하고 사기 문제를 해결하는 데에도 유용합니다.
 
@@ -20,7 +24,7 @@ ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
 
 2.  고객 메뉴에서 **서비스 관리**를 선택합니다.
 
-3.  문제가 있는 서비스에서 **서비스 요청 만들기 또는 보기**를 선택합니다. Microsoft Azure 포털 또는 Office 365 관리 센터로 리디렉션됩니다.
+3.  문제가 있는 서비스에서 **서비스 요청 만들기 또는 보기**를 선택합니다. Microsoft Azure Portal 또는 Office 365 관리 센터로 리디렉션됩니다.
 
     **Microsoft Azure**
 
@@ -29,7 +33,7 @@ ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
         -   지원 요청의 **기본 사항** 섹션에 있는 **지원 계획** 필드에서 **클라우드 솔루션 공급자**를 선택해야 합니다.
         -   지원 요청의 **연락처** 정보 섹션에 고객 정보가 아니라 귀하의 정보를 입력합니다.
 
-    3.  나중에 **지원 요청 관리**를 선택하여 Microsoft Azure 포털 내에서 고객의 서비스 요청을 검토합니다.
+    3.  나중에 **지원 요청 관리**를 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토합니다.
 
     **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
@@ -69,9 +73,9 @@ ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
 
 아니요, 이 프로그램에 대한 전화 지원은 제공되지 않습니다.
 
-**Azure 포털에 로그인하고 파트너 센터를 우회하면 어떻게 되나요?**
+**Azure Portal에 로그인하고 파트너 센터를 우회하면 어떻게 되나요?**
 
-Microsoft Azure 포털에 직접 로그인하면 고객 컨텍스트가 아니라 귀하의 컨텍스트에서 센터가 표시됩니다. 따라서 고유한 구독에 대한 서비스 요청을 만들 때 Microsoft Azure 포털에 직접 서명해야만 합니다.
+Microsoft Azure Portal에 직접 로그인하면 고객 컨텍스트가 아니라 귀하의 컨텍스트에서 센터가 표시됩니다. 따라서 고유한 구독에 대한 서비스 요청을 만들 때 Microsoft Azure Portal에 직접 서명해야만 합니다.
 
 CSP 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제공하지 않으므로 고유한 파트너 구독과 관련된 서비스 요청을 만드는 경우 유효한 지원 계획 권리 유형을 제공해야 합니다. 예를 들어 MPN 계약 ID, 프리미어, Azure 지원 계획 등이 있습니다. [Azure 지원 FAQ](http://go.microsoft.com/fwlink/?LinkId=717532)를 참조하세요.
 
@@ -88,6 +92,6 @@ Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

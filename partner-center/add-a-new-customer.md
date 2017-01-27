@@ -4,13 +4,17 @@ description: "구독을 판매하거나, 청구를 관리하거나, 지원을 �
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
 ---
 
 # 새 고객 추가
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 구독을 판매하거나, 청구를 관리하거나, 지원을 제공하려면 먼저 파트너 센터에서 고객 기록을 만들어야 합니다. 여기에는 연락처 정보 및 Azure AD 도메인이 포함됩니다.
 
@@ -35,6 +39,6 @@ ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

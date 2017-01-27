@@ -4,17 +4,32 @@ description: "Microsoft는 매년 당사 웹 속성에 적합한 수백만 명�
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1b1eb67c279511fa8cff391140e00145b186601d
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
 
 ---
 
 # 마케팅 프로필 만들기
 
+**적용 대상**
+
+-  파트너 센터
 
 Microsoft는 매년 당사 웹 속성에 적합한 수백만 명의 잠재 고객을 유치하고 있습니다. 당사는 고객에게 귀하의 솔루션을 판매하여 시장에서 성장하는 데 도움을 드릴 수 있습니다. Microsoft의 추천을 통해 각각의 비즈니스 요구 사항을 처리할 고유한 솔루션을 찾고 있는 고객과 귀하를 연결해 드릴 수 있습니다.  참여하려면 파트너 센터에서 마케팅 프로필을 만드세요.
 
 Pinpoint 계정이 있는 경우 [Pinpoint 마케팅 프로필을 파트너 센터로 가져올 수 있습니다](importing-pinpoint-profiles-into-partner-center.md).
+
+**Pinpoint에서 파트너가 프로필을 관리하기 위한 중요 정보**
+
+아시다시피, Microsoft는 파트너가 프로필을 게시하고 유지 관리할 수 있는 새롭고 향상된 환경을 만들기 위해 열심히 노력하고 있습니다. 최종적으로 모든 파트너 프로필은 이 새 환경으로 마이그레이션되며, Pinpoint는 2017 후반에 오프라인 상태가 됩니다.
+
+흥미로운 이 업그레이드를 완료하는 동안 기다려 주셔서 감사합니다. 절차가 진행되는 동안 업데이트와 지침을 제공할 것입니다. 이 기간 동안 다음을 유의해 주세요.
+
+-   프로필이 [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399)에 나열되고 이를 수정하려면 이 도구에 [로그인](https://go.microsoft.com/fwlink/?linkid=838394)하십시오.
+-   Microsoft의 [클라우드 서비스 공급자](https://go.microsoft.com/fwlink/?linkid=838395)(CSP) 프로그램에 등록되어 있다면 [파트너 센터](https://go.microsoft.com/fwlink/?linkid=838396)에 로그인하십시오. 새 프로필을 만들거나 기존 Pinpoint 프로필을 가져올 수 있습니다. 프로필을 가져오기 전에 모든 변경 사항을 적용해야 합니다. 자세한 내용은 아래 정보를 참조하십시오.
+-   프로필을 수정할 수 없는 경우 [지역 서비스 센터](https://go.microsoft.com/fwlink/?linkid=838398)에 문의하십시오. 
+
+**고객 리뷰:** Pinpoint에서 파트너 센터로의 계획된 전환의 일부로, 이전 고객 리뷰 목록 기능이 사용 중지되어 파트너는 고객 리뷰에 액세스할 수 없게 됩니다. 기능과 관련된 리뷰를 제거하기 전에 영향을 받는 모든 파트너에게 지정된 전자 메일 연락처를 통해 알림이 발송됩니다. 현재의 계획은 이 기능을 향후 더 견고하고 안정적인 시스템으로 대체하는 것입니다.
 
 **마케팅 프로필 만들기**
 
@@ -76,6 +91,6 @@ Pinpoint 계정이 있는 경우 [Pinpoint 마케팅 프로필을 파트너 센�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

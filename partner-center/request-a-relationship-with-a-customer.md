@@ -1,16 +1,20 @@
 ---
 title: "고객과의 관계 요청 | 파트너 센터"
-description: "관계 요청은 다중 파트너 및 다중 채널 시나리오에서 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다."
+description: "관계 요청은 다중 파트너 및 다중 채널 시나리오에서 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다"
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: c438e5ba3589ce93e46f6bab688a9e2a634dcabe
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
 ---
 
 # 고객과의 관계 요청
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 관계 요청은 [다중 파트너](multipartner.md) 및 [다중 채널](multichannel.md) 시나리오에서 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다.
 
@@ -41,6 +45,6 @@ ms.openlocfilehash: c438e5ba3589ce93e46f6bab688a9e2a634dcabe
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

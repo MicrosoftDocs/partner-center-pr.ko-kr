@@ -1,18 +1,22 @@
 ---
 title: "미결제, 사기 또는 오용 | 파트너 센터"
-description: "고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 컨트롤을 구현하는 것이 좋습니다."
+description: "고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: f54d9f51b8aa61ebc2207d43857143eb42d54eb6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 ---
 
 # 미결제, 사기 또는 오용
 
+**적용 대상**
 
-고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 컨트롤을 구현하는 것이 좋습니다. 귀하에게는 고객의 크레딧 확대 여부를 결정할 책임이 있습니다.
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
+
+고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다. 귀하에게는 고객의 크레딧 확대 여부를 결정할 책임이 있습니다.
 
 ## 이 섹션의 내용
 
@@ -62,6 +66,6 @@ Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 �
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

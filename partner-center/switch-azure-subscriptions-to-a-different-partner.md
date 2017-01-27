@@ -4,13 +4,16 @@ description: "고객은 Microsoft Azure 서비스에 사용할 클라우드 솔�
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 ---
 
 # Azure 구독을 다른 파트너로 전환
 
+**적용 대상**
+
+-  파트너 센터
 
 고객은 Microsoft Azure 서비스에 사용할 클라우드 솔루션 공급자 프로그램의 파트너를 변경할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다.
 
@@ -28,7 +31,7 @@ ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
 
     -   파트너 센터 대시보드 메뉴에서 **고객**을 선택하고 목록에서 해당 고객을 선택한 다음 **서비스 관리**를 선택합니다. **지원 티켓** 섹션에서 **새 티켓** 드롭다운을 선택하고 **Microsoft Azure**를 선택합니다.
 
-    -   Azure 포털에서 **새 지원 요청**을 선택합니다.
+    -   Azure Portal에서 **새 지원 요청**을 선택합니다.
 
         1단계에서 **구독 관리**를 문제 유형으로 선택하고 이전하려는 구독 ID를 지정한 다음 **클라우드 솔루션 공급자**를 지원 계획으로 선택합니다.
 
@@ -79,6 +82,6 @@ ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

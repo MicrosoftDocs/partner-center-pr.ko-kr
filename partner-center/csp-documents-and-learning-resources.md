@@ -4,13 +4,17 @@ description: "Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
 # CSP 계약, 가격표 및 제품
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부를 결정하고, 새 고객을 등록하며, 고객에게 Microsoft 제품 및 서비스를 판매하고, 청구서를 조정하는 데 필요한 여러 문서를 게시합니다.
 
@@ -23,7 +27,7 @@ Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부를 결정하�
 
 -   [고객 계약 템플릿](#customeragreementtemplate)
 
--   [가격](#pricing)
+-   [가격 책정](#pricing)
 
 -   [제품](#offers)
 
@@ -51,12 +55,14 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [Microsoft 클라우드 재판매인 계약 - 대만](http://go.microsoft.com/fwlink/p/?LinkId=617099)
 
+[Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](https://go.microsoft.com/fwlink/p/?linkid=831385)
+
 ## <a href="" id="customeragreementtemplate"></a>고객 계약 템플릿
 
 
-파트너는 고객이 Microsoft 계약조건(Microsoft 제품 및 서비스의 사용 제한 포함)을 이해하고 이에 동의하도록 할 책임이 있습니다. Microsoft는 파트너가 새 고객을 등록할 때 처리해야 자료용 템플릿을 파트너에게 제공합니다.
+파트너는 고객이 Microsoft 계약조건(Microsoft 제품 및 서비스의 사용 제한 포함)을 이해하고 이에 동의하도록 할 책임이 있습니다. Microsoft는 파트너가 새 고객을 등록할 때 처리할 자료용 템플릿을 파트너에게 제공합니다.
 
-[고객 계약 템플릿](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[고객 계약 템플릿](agreements.md)
 
 ## 가격 책정
 
@@ -83,6 +89,6 @@ CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

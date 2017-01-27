@@ -1,18 +1,22 @@
 ---
 title: "청구 지원 제공 | 파트너 센터"
-description: "고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다."
+description: "귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
 
 ---
 
 # 청구 지원 제공
 
+**적용 대상**
 
-고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다.
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
+
+귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다.
 
 ## <a href="" id="microsoftresources"></a>Microsoft 리소스
 
@@ -49,6 +53,6 @@ ms.openlocfilehash: a442cb3b47303fd5a03999b9a22f4ab33aa8a15b
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

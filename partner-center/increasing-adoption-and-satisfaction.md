@@ -4,13 +4,16 @@ description: "당사 파트너는 비즈니스 성장 여부와 투자 중점 �
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 ---
 
 # 채택률 및 만족도 높이기
 
+**적용 대상**
+
+-  파트너 센터
 
 당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다. 이 정보는 Office 제품(비즈니스용 OneDrive 포함, SharePoint와 함께 계산됨)에서 사용할 수 있습니다.
 
@@ -83,6 +86,6 @@ ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
