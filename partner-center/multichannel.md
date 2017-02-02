@@ -4,13 +4,17 @@ description: "클라우드 솔루션 공급자 프로그램의 한 가지 옵션
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 
 ---
 
 # 다중 채널
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 클라우드 솔루션 공급자 프로그램의 한 가지 옵션은 파트너가 판매, 프로비전, 지원, 갱신 등 고객 구독의 전체 수명 주기를 처리하는 것입니다. 하지만 대부분의 경우 고객은 귀하가 프로비전 또는 지원하는 데 필요한 구독 및 이전에 다른 채널에서 구매한 구독을 이미 보유하고 있습니다.
 
@@ -61,6 +65,6 @@ ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

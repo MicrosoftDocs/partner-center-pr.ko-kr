@@ -4,13 +4,17 @@ Description: "클라우드 솔루션 공급자 파트너는 고객의 라이선�
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 ---
 
 # 청구
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 클라우드 솔루션 공급자 파트너는 고객의 라이선스 기반 구독 및 사용량 기준 구독에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
@@ -195,6 +199,6 @@ Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

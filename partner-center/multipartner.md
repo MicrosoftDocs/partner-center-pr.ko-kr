@@ -4,13 +4,17 @@ description: "고객이 클라우드 솔루션 공급자 프로그램에서 각�
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9680b98863cd10d314e05941572ca46a8388ef3d
 
 ---
 
 # 다중 파트너
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 고객이 클라우드 솔루션 공급자 프로그램에서 각기 다른 서비스를 전문적으로 제공하는 여러 파트너와 작업하려고 할 수도 있습니다. 예를 들어 Office 365와 Microsoft Azure에 대해 각기 다른 파트너와 작업할 수 있습니다. 또는 단일 Office 365 구독 내에서 Exchange Online과 SharePoint Online에 대해 각기 다른 파트너와 작업할 수 있습니다.
 
@@ -35,6 +39,6 @@ ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

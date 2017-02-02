@@ -4,13 +4,16 @@ description: "쉼표로 구분된 값 파일 형식(.csv)의 데이터 파일을
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# 고객 계정에 대한 다수의 사용자 만들기
+# 고객 계정에 여러 사용자 추가
 
+**적용 대상**
+
+-  파트너 센터
 
 쉼표로 구분된 값 파일 형식(.csv)의 데이터 파일을 파트너 센터에 업로드하여 한 번에 고객 계정에 다수의 사용자를 추가할 수 있습니다. 파트너 센터에서 샘플 데이터 파일을 다운로드한 다음 용도에 맞게 편집하거나 아래 정의된 데이터 모델을 사용하여 새 데이터 파일을 만들 수 있습니다.
 
@@ -69,6 +72,6 @@ ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "이 항목에서는 새 구독을 추가하거나, 구독에서 �
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 ---
 
 # 일반적인 청구 시나리오
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 이 항목에서는 새 구독을 추가하거나, 구독에서 실제 사용자 수를 조정하거나, 구독을 취소한 후에 청구서에 표시될 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
 
@@ -139,6 +143,6 @@ ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

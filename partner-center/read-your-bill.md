@@ -1,16 +1,20 @@
 ---
 title: "청구서 읽기 | 파트너 센터"
 description: "송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다."
-ms.assetid: 
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # 청구서 읽기
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다.
 
@@ -39,7 +43,7 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 </tr>
 <tr class="even">
 <td>청구지</td>
-<td>송장을 보내는 주소입니다. (회사 자격 심사와 연결된 법적 회사 주소이며 변경할 수 없습니다.)</td>
+<td>송장을 보내는 주소입니다. 이 주소를 변경하려면 파트너 센터 계정 프로필을 편집하세요.</td>
 </tr>
 <tr class="odd">
 <td>반복 청구 요금</td>
@@ -98,8 +102,8 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 <td>고객 서비스에 액세스하기 위한 웹 사이트 주소입니다.</td>
 </tr>
 <tr class="even">
-<td>서비스 수령인 주소</td>
-<td>서비스가 사용되는 주소입니다. 이 주소를 변경하려면 파트너 센터 계정 프로필을 편집하세요.</td>
+<td>서비스 수령인</td>
+<td>서비스가 사용되는 주소입니다. (회사 자격 심사와 연결된 법적 회사 주소이며 변경할 수 없습니다.)</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

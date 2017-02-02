@@ -4,15 +4,21 @@ description: "클라우드 솔루션 공급자 프로그램에 등록하기 전�
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
 ---
 
-# CSP 프로그램 등록
+# 클라우드 솔루션 공급자 프로그램에 등록
 
+**적용 대상**
 
-클라우드 솔루션 공급자 프로그램에 등록하기 전에 [CSP 프로그램 요구 사항]( http://go.microsoft.com/fwlink/p/?LinkId=617116)에 대해 자세히 알아보세요.
+-  파트너 센터
+
+>**참고**<br>
+Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램 등록에 대한 자세한 내용은 [Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록](enroll-in-csp-for-microsoft-cloud-germany.md) 및 [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)를 참조하세요.
+
+CSP(클라우드 솔루션 공급자) 프로그램에 등록하기 전에 [CSP 프로그램 요구 사항]( http://go.microsoft.com/fwlink/p/?LinkId=617116)에 대해 자세히 알아보세요.
 
 파트너 계약 및 다른 프로그램 요구 사항에 대한 자세한 내용은 [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)을 참조하세요.
 
@@ -59,6 +65,6 @@ CSP 프로그램 인센티브를 받을 자격을 갖추고 인센티브 플랫�
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "활동 로그는 고객에 대한 거래 및 파트너 관리 작�
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
 # 고객 활동 로그 보기
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다. 거래에 대한 로그는 구매한 구독을 비롯하여 거래에 대한 자세한 정보를 제공합니다. 활동 로그를 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수도 있습니다.
 
@@ -42,6 +46,6 @@ ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

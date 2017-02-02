@@ -4,13 +4,16 @@ description: "CSP에서 Office 365 Enterprise E5 Single SKU를 사용할 수 있
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: fcf1f8e1b783291658ec6e0b43e6d3ced9dca63e
-ms.openlocfilehash: e29ac5ae1cb977b64f863b33f4cc67ff7b8ea2c2
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 ---
 
 # Office 365 파트너 공지: CSP의 Office 365 E5 Single SKU 가용성
 
+**적용 대상**
+
+-  파트너 센터
 
 2016년 10월 5일 현재, CSP에서 Office 365 Enterprise E5 Single SKU를 사용할 수 있습니다. 이 변경의 일부로, Office 365 Enterprise E5 SKU는 PSTN 회의(여기서 PSTN 회의 서비스를 사용할 수 있음)를 포함합니다.
 
@@ -213,6 +216,6 @@ CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

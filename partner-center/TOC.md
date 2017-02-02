@@ -1,13 +1,12 @@
-
 # [CSP 프로그램 등록](enrolling-in-the-csp-program.md)
-## [Pinpoint에서 파트너 센터로 전환](importing-pinpoint-profiles-into-partner-center.md)
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
 # [파트너 센터 계정 관리](partner-center-account-setup.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
+## [Pinpoint에서 파트너 센터로 전환](importing-pinpoint-profiles-into-partner-center.md)
+## [마케팅 프로필 만들기](create-a-marketing-profile.md)
 ## [사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
-## [사용자 암호 재설정](reset-a-user-password.md)
-## [마케팅 프로필 만들기](create-a-marketing-profile.md)
+## [사용자 암호 다시 설정](reset-a-user-password.md)
 ## [제품 및 가격 참조](see-offers-and-pricing.md)
 ## [카탈로그 사용자 지정](customize-the-catalog.md)
 # [청구](billing.md)
@@ -50,8 +49,12 @@
 ## [고객 자가 지원](customer-self-support.md)
 ## [Microsoft로 문제 에스컬레이션](escalate-problems-to-microsoft.md)
 # [고객 계약 템플릿](agreements.md)
+# [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
+## [Microsoft 클라우드 독일 파트너 센터에 등록](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

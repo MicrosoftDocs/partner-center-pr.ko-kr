@@ -1,18 +1,22 @@
 ---
 title: "구독 일시 중단 | 파트너 센터"
-description: "고객이 요청하거나, 사기 또는 미결제 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다."
+description: "고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다."
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a8987c51c4abff165a5fd7fb529fb9066ce48bdd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c77f1fb97f3951182e3bf50fd9b037603e6106b8
 
 ---
 
 # 구독 일시 중단
 
+**적용 대상**
 
-고객이 요청하거나, 사기 또는 미결제 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
+
+고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다
 
 구독 상태를 **일시 중단됨**으로 변경하면 사용자가 로그인하거나 서비스에 액세스할 수 없습니다. 관리자는 계속 로그인하고 데이터에 액세스할 수 있습니다.
 
@@ -25,6 +29,6 @@ ms.openlocfilehash: a8987c51c4abff165a5fd7fb529fb9066ce48bdd
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,16 @@ Description: "Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8dba4037c4d9703922b05a9d52eef93c914f49bc
+ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
+ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
 
 ---
 
 # 제품 특별 가격 가져오기
 
+**적용 대상**
+
+-  파트너 센터
 
 Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 선택된 고객 그룹을 위한 특별 할인 가격을 제공합니다. 재판매인이 이 가격에 액세스하려면 먼저 인증을 받아야 합니다. 또한 고객은 특별 가격에 대한 자격을 갖추어야 합니다.
 
@@ -56,6 +59,6 @@ Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

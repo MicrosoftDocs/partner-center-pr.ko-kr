@@ -4,13 +4,16 @@ description: "고객을 위한 새 구독을 구입한 후 특정 사용자에�
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
 ---
 
 # 고객 계정에 대한 사용자 관리 작업
 
+**적용 대상**
+
+-  파트너 센터
 
 이 항목에서는 다음과 같은 고객 계정 관리 작업에 대한 지침을 제공합니다.
 
@@ -87,6 +90,6 @@ ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -1,16 +1,20 @@
 ---
 title: "고객 계정 | 파트너 센터"
-Description: "재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. "
+Description: "재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다."
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 738ecefeb1bbcc2b98157fdeba60b7bdaae85d51
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
 
 ---
 
 # 고객 계정
 
+**적용 대상**
+
+-  파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
 재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. 
 
@@ -33,6 +37,6 @@ ms.openlocfilehash: 738ecefeb1bbcc2b98157fdeba60b7bdaae85d51
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 
