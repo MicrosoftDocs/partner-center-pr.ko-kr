@@ -53,8 +53,3 @@
 ## [Microsoft 클라우드 독일 파트너 센터에 등록](enroll-in-csp-for-microsoft-cloud-germany.md)
 ## [Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-

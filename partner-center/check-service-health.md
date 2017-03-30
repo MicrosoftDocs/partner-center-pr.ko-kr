@@ -3,13 +3,11 @@ title: "서비스 상태 확인 | 파트너 센터"
 description: "고객 서비스에 문제가 발생하는 경우 할 수 있는 첫 번째 작업 중 하나가 서비스 상태를 확인하는 것입니다."
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 서비스 상태 확인
+# <a name="check-service-health"></a>서비스 상태 확인
 
 **적용 대상**
 
@@ -33,11 +31,5 @@ ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

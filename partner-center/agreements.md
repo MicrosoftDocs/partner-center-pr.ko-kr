@@ -2,15 +2,14 @@
 title: "파트너 센터 고객 계약 템플릿 | 파트너 센터"
 description: "파트너 센터에서 시장별 고객 계약 템플릿 다운로드"
 author: John Miller
-translationtype: Human Translation
-ms.sourcegitcommit: fd3b8984043843932b2eff460e73b9a36acf87e2
-ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
-
+ms.openlocfilehash: 7b48417afec9a83edcb194fb9c53d112de882cf7
+ms.sourcegitcommit: 23c0c3f85ef98e810cd0b9d953d3215f87daedbb
+translationtype: HT
 ---
-#파트너 센터 고객 계약 템플릿
+#<a name="partner-center-customer-agreement-templates"></a>파트너 센터 고객 계약 템플릿
 파트너 센터 고객 계약 템플릿 리포지토리입니다.  여기에는 적용 가능한 모든 고객 계약이 들어 있습니다.  이용하기 쉽도록 지역 및 국가별로 나열되어 있습니다.  고객의 위치에 따라 올바른 계약을 고객에게 제공하는 것이 중요합니다.  일부 위치에는 고객의 언어 기본 설정에 따라 여러 가지 언어 버전으로 계약이 제공됩니다.
 
-##북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해
+##<a name="north-america-central-america-south-america-and-the-caribbean"></a>북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해
 
 - 아르헨티나: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [스페인어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - 바하마: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf)
@@ -42,7 +41,7 @@ ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
 - 베네수엘라: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_ENG_Jul2016_CR_.pdf), [스페인어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_LatAm_ExBRA_SPA_Jul2016_CR.pdf)
 - 미국령 버진 아일랜드: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_NA_ENG_Jul2016_CR_.pdf)
 
-##유럽
+##<a name="europe"></a>유럽
 - 알바니아: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - 아르메니아: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 - 오스트리아: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [독일어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_GER_Jul2016_CR_.pdf)
@@ -87,10 +86,11 @@ ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
 - 우크라이나: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [우크라이나어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_UKR_Jul2016_CR_.pdf) 
 - 영국: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##Microsoft 클라우드 독일
-- 모든 EU/EFTA: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_CFG_EMEA__ENG__Jul2016__CR_.pdf)
+##<a name="microsoft-cloud-germany"></a>Microsoft 클라우드 독일
+- 모든 EU/EFTA: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_ENG_Mar2017_CR_for_German_Cloud.pdf)
+- 모든 EU/EFTA: [독일어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_GER_Mar2017_CR_for_German_Cloud.pdf)
 
-##중동 및 아프리카
+##<a name="middle-east-and-africa"></a>중동 및 아프리카
 - 알제리: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [프랑스어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_FRE_Jul2016_CR_.pdf), [아랍어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
 - 앙골라: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [포르투갈어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_PTE_Jul2016_CR_.pdf)     
 - 바레인: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [아랍어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)     
@@ -123,7 +123,7 @@ ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
 - 예멘: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf), [아랍어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ARA_Jul2016_CR_.pdf)
 - 짐바브웨: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_ENG_Jul2016_CR_.pdf)
 
-##아시아 및 태평양
+##<a name="asia-and-pacific"></a>아시아 및 태평양
 - 오스트레일리아: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - 방글라데시: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf)    
 - 브루나이: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [말레이어(공용어)](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_MSL_Jul2016_CR_.pdf)  
@@ -147,11 +147,5 @@ ms.openlocfilehash: 21e298d9ba368c98744418f2a745b2ec6773ab9d
 - 우즈베키스탄: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [러시아어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_EMEA_RUS_Jul2016_CR_.pdf) 
 - 베트남: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_ENG_Jul2016_CR_.pdf), [베트남어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2016Agr_Asia_ExJPN,KOR,TAI_VIT_Jul2016_CR_.pdf) 
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

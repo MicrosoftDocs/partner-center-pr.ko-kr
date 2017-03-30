@@ -3,13 +3,11 @@ title: "Azure 구독을 다른 파트너로 전환 | 파트너 센터"
 description: "고객은 Microsoft Azure 서비스에 사용할 클라우드 솔루션 공급자 프로그램의 파트너를 변경할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Azure 구독을 다른 파트너로 전환
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Azure 구독을 다른 파트너로 전환
 
 **적용 대상**
 
@@ -77,11 +75,5 @@ ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

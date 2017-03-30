@@ -3,13 +3,11 @@ title: "CSP의 Office 365 E5 Single SKU 가용성 | 파트너 센터"
 description: "CSP에서 Office 365 Enterprise E5 Single SKU를 사용할 수 있으며 이 SKU는 PSTN 회의를 포함합니다."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Office 365 파트너 공지: CSP의 Office 365 E5 Single SKU 가용성
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 파트너 공지: CSP의 Office 365 E5 Single SKU 가용성
 
 **적용 대상**
 
@@ -17,24 +15,24 @@ ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 2016년 10월 5일 현재, CSP에서 Office 365 Enterprise E5 Single SKU를 사용할 수 있습니다. 이 변경의 일부로, Office 365 Enterprise E5 SKU는 PSTN 회의(여기서 PSTN 회의 서비스를 사용할 수 있음)를 포함합니다.
 
-## 요약
+## <a name="summary"></a>요약
 
 
 이 Office 365 Enterprise E5 제품은 생산성 및 통신을 위한 가장 포괄적인 보안 클라우드 제품군 구매를 간소화합니다. 이제 여러 가격을 관리하기 위한 추가 기능을 사용하지 않고도 Skype 회의 서비스를 포함할 수 있습니다.
 
 위에서 언급한 변경 내용은 파트너 주문 및 송장 작성에 영향을 줍니다. 또한 일부 국가에서 PSTN 서비스는 특별세 및 규제 요구 사항의 적용을 받습니다.
 
-## 파트너 권장 사항
+## <a name="partner-recommendations"></a>파트너 권장 사항
 
 
 세금 및 법률 변호인에게 상담하여 PSTN 서비스 규제, 세금 및 수수료 및 기타 잠재적 책임과 관련한 조직의 책임을 이해합니다.
 
-## 세부 정보
+## <a name="details"></a>세부 정보
 
 
 미국 및 푸에르토리코에서 비즈니스용 Skype PSTN 서비스는 특별세 및 규제 요구 사항의 적용을 받습니다. Microsoft에서는 세금을 포함한 형태로 PSTN 서비스의 가격을 책정합니다. 고유한 PSTN 세금 및 규제는 새 통합 Office 365 E5 제품을 거래하는 Office 365 파트너에게 영향을 줍니다. 파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
 
-## 가격표 및 카탈로그 가용성
+## <a name="price-list-and-catalog-availability"></a>가격표 및 카탈로그 가용성
 
 
 많은 CSP 파트너는 API를 통해 해당 주문 관리 시스템과 Microsoft 상거래 플랫폼을 통합하는 데 긴 리드 타임이 필요합니다. 파트너가 해당 시스템이 Office 365 Enterprise E5 Single SKU를 거래할 준비를 하기 전에 E5 기회를 마감할 수 있도록 다음 SKU는 2017년 7월 1일까지 CSP 가격표에 유지됩니다.
@@ -46,7 +44,7 @@ ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 10월 5일 출시 후 일부 SKU는 같은 제품 표시 이름을 표시하지만, PSTN 가용성과 관계없이 Single SKU는 전 세계적으로 같은 가격이 책정됨에 따라 다른 가격을 표시합니다. 파트너는 가격표(아래 표에서 회색으로 강조 표시되어 있고 제품 ID로 식별됨)에서 그리고 파트너 센터 카탈로그 페이지에서 표시된 제품 이름으로 Single SKU를 프로비전해야 합니다. 앞으로 몇 주 후 제품 표시 이름 텍스트는 2017년 7월 1일에 EOL이 될 SKU를 정의합니다.
 
-### CSP 가격표에 날짜 및 PSTN 가용성을 기준으로 표시되는 SKU
+### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>CSP 가격표에 날짜 및 PSTN 가용성을 기준으로 표시되는 SKU
 
 **단일 Office 365 Ent. E5 Single SKU 출시 이전**
 
@@ -196,7 +194,7 @@ CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 
 
  
 
-## 추가 리소스
+## <a name="additional-resources"></a>추가 리소스
 
 
 자세한 내용은 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 사이트를 참조하세요. Office 365 Enterprise E5 관련 리소스는 **Market and Sell**(마케팅 및 판매) 탭의 [Office 365 E5 페이지](https://drumbeat.office.com/partner/pages/e5.aspx)에 있습니다.
@@ -211,11 +209,5 @@ CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

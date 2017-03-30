@@ -3,13 +3,11 @@ title: "Microsoft로 문제 에스컬레이션 | 파트너 센터"
 description: "고객을 대신하여 문제를 해결하는 것이 좋습니다."
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft로 문제 에스컬레이션
+# <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
 **적용 대상**
 
@@ -36,11 +34,5 @@ Microsoft의 지원을 받으려면 파트너 센터에서 지원 요청을 제�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

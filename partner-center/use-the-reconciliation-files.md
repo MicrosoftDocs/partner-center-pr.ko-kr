@@ -3,13 +3,11 @@ title: "조정 파일 사용 | 파트너 센터"
 description: "청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 조정 파일 사용
+# <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
 **적용 대상**
 
@@ -18,17 +16,10 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
-## 이 섹션의 내용
-
-
--   [파트너를 기준으로 항목별로 구분](#itemizebypartner)
--   [라이선스 기준 조정 파일](#licencebasedfiles)
--   [사용량 기준 조정 파일](#usagebasedfiles)
-
 ## <a href="" id="itemizebypartner"></a>파트너를 기준으로 항목별로 구분
 
 
-간접 모델의 파트너는 라이선스 기준 및 사용량 기준 조정 파일에서 모두 이러한 추가 필드를 사용하여 재판매인을 기준으로 항목별로 구분할 수 있습니다.
+간접 모델의 파트너는 라이선스 기준 및 사용량 기준 조정 파일에서 이러한 추가 필드를 사용하여 재판매인을 기준으로 항목별로 구분할 수 있습니다.
 
 <table>
 <colgroup>
@@ -44,7 +35,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <tbody>
 <tr class="odd">
 <td>MPN ID</td>
-<td><p>CSP 파트너(직접 또는 간접)의 MPN ID입니다.</p></td>
+<td><p>CSP 파트너(직접 또는 간접)의 MPN(Microsoft 파트너 네트워크) ID.</p></td>
 </tr>
 <tr class="even">
 <td>재판매인 MPN ID</td>
@@ -83,9 +74,9 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Microsoft 청구 플랫폼에서 고객의 고유 식별자. 지원 센터에 문의할 때 고객을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>고객을 식별하는 데 사용되는 GUID 형식의 고유한 Microsoft ID.</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>고유 제품 ID. 가격표에 따른 표준 제품 ID.</p></td>
-<td>306855</td>
+<td><p>고유 제품 ID. 가격표에 따른 표준 제품 ID.</p>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치하지 않습니다. 아래의 DurableOfferID를 참조하세요.</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>고유 지속형 제품 ID(가격표에 정의됨).</p></td>
+<td><p>고유 지속형 제품 ID(가격표에 정의됨).</p>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치합니다.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>요금 또는 조정 유형.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Charges:</td>
-<td><ul>
-<li>PURCHASE_FEE: 구독에 대한 초기 충전</li>
-<li>CYCLE_FEE: 구독에 대한 정기 요금</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: 현재 청구 기간 중 미지불된 사용에 대한 취소 시 액세스 사용 요금</li>
-<li>CYCLE_USAGEFEE: 현재 청구 기간에 대한 액세스 사용 요금</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Prorations:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: 구매 시 비례 배분 방식 요금</li>
-<li>CANCEL_PRORATE: 취소 시 사용하지 않은 서비스 부분에 대한 비례 배분 방식 환불</li>
-<li>ACTIVATION_PRORATE: 활성화부터 청구 기간 끝까지의 비례 배분 방식 요금</li>
-<li>RENEW_PRORATE: 구독 갱신 시 비례 배분 방식 요금</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: 연결된 실제 사용자 수가 변경될 때 고객에게 환불되는 비례 배분 방식 요금</li>
-<li>CYCLE_INSTANCEPRORATE: 연결된 실제 사용자 수가 변경될 때 고객이 평가한 비례 배분 방식 요금</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Credits:</td>
-<td><ul>
-<li>CREDIT: 결제 방법에 적용되는 신용</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Offsets:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: 품목에 대한 부분 또는 전체 환불</li>
-<li>ONE_TIME_REFUND: 고객에 대해 처리된 일회성 환불</li>
-<li>TAX_REFUND: 세금 제외 인증서의 유효성으로 인한 환불</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Discounts:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: 구독이 활성화될 때 적용되는 할인</li>
-<li>CYCLE_DISCOUNT: 정기 요금에 적용되는 할인</li>
-<li>RENEW_DISCOUNT: 구독이 갱신될 때 적용되는 할인</li>
-<li>CANCEL_DISCOUNT: 할인이 취소될 때 적용되는 요금</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>요금 또는 조정 유형. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
+<td><p><a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. [파트너를 기준으로 항목별로 구분](#itemizebypartner)을 참조하세요.</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름.</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>구독 애칭. 애칭을 지정하지 않으면 파트너 센터에서 OfferName을 사용합니다.</p></td>
+<td>프로젝트 온라인</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>고객이 구매한 서비스 제품의 이름(가격표에 정의됨). (제품 이름과 동일한 필드).</p></td>
+<td>프로젝트 클라이언트 없는 프로젝트 온라인 프리미엄</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>사용량 기준 파일 필드
 
@@ -347,7 +292,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>서비스 제품의 이름</p></td>
+<td><p>서비스의 애칭.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -455,8 +400,8 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>품목 유형에 대한 설명</p></td>
-<td>현재 주기에 대한 액세스 사용 요금</td>
+<td><p>요금 또는 조정 유형. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
+<td><p><a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>지정일에 프로비전 및 사용된 ServiceBus 연결 수</p></td>
 <td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 25팩 ServiceBus 연결 하나를 프로비전하고 해당 날짜에 연결 1개를 사용한 경우 해당 날짜의 일일 사용 내역서는 "25개 연결/30일 - 사용됨: 1.000000"으로 표시됩니다.</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>고객을 식별하는 데 사용되는 GUID 형식의 고유한 Microsoft ID.</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름.</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types">송장과 조정 파일 간 요금 매핑</a>
+
+송장은 요금 요약 정보를 제공하는 반면 조정 파일은 요금 종류를 비롯한 거래 품목의 구체적인 분류 정보를 제공합니다.
+
+송장과 조정 파일의 요금을 교차 참조하려면 Microsoft Excel의 필터 옵션을 통해 조정 파일을 요금 종류별로 필터링하여 송장 요금을 조정 파일의 요금 분류 집합에 매핑하면 됩니다.
+
+아래는 송장 섹션과 조정 파일에 표시될 수 있는 관련 요금 종류 간의 매핑을 보여주는 표입니다. 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>송장 요금 설명</strong></p>
+</td>
+<td>
+<p><strong>조정 파일 요금 설명(ChargeType 열)</strong></p>
+</td>
+<td>
+<p><strong>이 요금은 무엇인가요?</strong></p>
+</td>
+<td>
+<p><strong>ChargeTypes를 송장에 매핑하려면 어떻게 해야 하나요?</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>반복 청구 요금</strong></p>
+</td>
+<td>
+<p>취소 인스턴스 비례 배분</p>
+</td>
+<td>
+<p>연결된 실제 사용자 수가 변경될 때 고객에게 환불되는 비례 배분 방식 요금</p>
+</td>
+<td rowspan="8">
+<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>주기 수수료</p>
+</td>
+<td>
+<p>구독에 대한 정기 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>주기 인스턴스 비례 배분</p>
+</td>
+<td>
+<p>연결된 실제 사용자 수가 변경될 때 고객이 평가한 비례 배분 방식 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>취소 시 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>취소 시 사용하지 않은 서비스 부분에 대한 비례 배분 방식 환불</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>구매 시 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>구매 시 비례 배분 방식 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>구매 요금</p>
+</td>
+<td>
+<p>구독의 초기 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>갱신 시 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>구독 갱신 시 비례 배분 방식 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>갱신 요금</p>
+</td>
+<td>
+<p>구독 갱신에 대한 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>기타 제품 및 서비스</strong></p>
+</td>
+<td>
+<p>활성화 시 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>활성화 시점부터 청구 기간 마지막 날까지의 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>사용 요금</strong></p>
+</td>
+<td>
+<p>취소 시 사용 요금 계산</p>
+</td>
+<td>
+<p>현재 청구 기간 중 결제되지 않은 사용량에 대해 취소 시 사용 요금 계산</p>
+</td>
+<td rowspan="2">
+<p>사용량 기반 파일에서 <strong>PretaxCharges</strong> 열을 모두 합산</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>현재 주기의 사용 요금 계산</p>
+</td>
+<td>
+<p>현재 청구 기간의 사용 요금 계산</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>크레딧 및 조정</strong></p>
+</td>
+<td>
+<p>품목 오프셋</p>
+</td>
+<td>
+<p>세금을 포함하여 품목의 전액 또는 일부 금액 환불</p>
+</td>
+<td>
+<p>라이선스 기반 파일에서 <strong>TotalForCustomer</strong> 열을 모두 합산</p>
+<p>사용량 기반 파일에서 <strong>PostTaxTotal</strong> 열을 모두 합산</p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>기타 할인</strong></br>
+<em>(사용량 기반)</em></p>
+</td>
+<td>
+<p>활성화 할인</p>
+</td>
+<td>
+<p>구독을 활성화할 때 적용되는 할인</p>
+</td>
+<td rowspan="4">
+<p>사용량 기반 파일에서 <strong>PretaxCharges</strong> 열을 모두 합산</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>주기 할인</p>
+</td>
+<td>
+<p>정기 요금에 적용되는 할인</p>
+</td>
+</tr><tr>
+<td>
+<p>갱신 할인</p>
+</td>
+<td>
+<p>구독을 갱신할 때 적용되는 할인</p>
+</td>
+</tr><tr>
+<td>
+<p>취소 할인</p>
+</td>
+<td>
+<p>할인이 취소될 때 적용되는 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>기타 할인</strong></br>
+<em>(라이선스 기반)</em></p>
+</td>
+<td>
+<p><em>여러 종류의 요금에 적용될 수 있음</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>라이선스 기반 파일에서 <strong>TotalOtherDiscount</strong> 열을 모두 합산</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>세금</strong>&nbsp;또는&nbsp;<strong>VAT</strong></p>
+</td>
+<td>
+<p><em>여러 종류의 요금에 적용될 수 있음</em></p>
+<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧 및 조정을 참조하세요.</em></p>
+</td>
+<td>
+<p>세금 또는 VAT(부가가치세)</p>
+</td>
+<td>
+<p>라이선스 기반 파일에서 <strong>Tax</strong> 열을 모두 합산</p>
+<p>사용량 기반 파일에서 <strong>TaxAmount</strong> 열을 모두 합산</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

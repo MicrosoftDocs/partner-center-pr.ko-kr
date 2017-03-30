@@ -3,13 +3,11 @@ title: "CSP 계약, 가격표 및 제품 | 파트너 센터"
 description: "Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부를 결정하고, 새 고객을 등록하며, 고객에게 Microsoft 제품 및 서비스를 판매하고, 청구서를 조정하는 데 필요한 여러 문서를 게시합니다."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP 계약, 가격표 및 제품
+# <a name="csp-agreements-price-lists-and-offers"></a>CSP 계약, 가격표 및 제품
 
 **적용 대상**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부를 결정하고, 새 고객을 등록하며, 고객에게 Microsoft 제품 및 서비스를 판매하고, 청구서를 조정하는 데 필요한 여러 문서를 게시합니다.
 
-## 이 섹션의 내용
+## <a name="in-this-section"></a>이 섹션의 내용
 
 
 -   [프로그램 가이드](#programguide)
@@ -64,7 +62,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [고객 계약 템플릿](agreements.md)
 
-## 가격 책정
+## <a name="pricing"></a>가격 책정
 
 
 **영업** 페이지에서 파트너용 가격 책정 세부 정보를 다운로드할 수 있습니다. 두 개의 가격표가 있습니다. 하나는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM을 비롯한 라이선스 기준 서비스용 가격표이고 다른 하나는 Microsoft Azure를 비롯한 사용량 기준 서비스용 가격표입니다.
@@ -73,7 +71,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 사용량 기준 가격 책정은 동적이며 지속적으로 변합니다.
 
-## 제공
+## <a name="offers"></a>제공
 
 
 CSP 파트너는 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure를 판매할 수 있습니다. 이러한 제품군 내에서 판매할 수 있는 SKU 및 제품 번들에 대한 자세한 내용을 참조할 수 있도록 Microsoft는 **영업** 페이지에 클라우드 재판매인 제품표를 게시합니다. 이 문서는 매달 업데이트됩니다.
@@ -84,11 +82,5 @@ CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

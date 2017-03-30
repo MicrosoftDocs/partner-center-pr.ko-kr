@@ -3,13 +3,11 @@ title: "고객 목록 관리 | 파트너 센터"
 description: "고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
-
+ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객 목록 관리
+# <a name="manage-your-customer-list"></a>고객 목록 관리
 
 **적용 대상**
 
@@ -18,23 +16,17 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다. 고객 계정 데이터베이스를 검색하고 전체 고객 데이터베이스나 하위 집합을 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수 있습니다. 고객의 구독 정보를 .csv 파일로 내보낼 수도 있습니다.
 
-또한 활동 로그는 고객에 대한 거래 및 관리 작업과 관련된 내보낼 수 있는 데이터를 제공합니다. 자세한 내용은 [고객 활동 로그 보기](#pc-cloud-sltn-provider-activity-logs)를 참조하세요.
+또한 활동 로그는 고객에 대한 거래 및 관리 작업과 관련된 내보낼 수 있는 데이터를 제공합니다. 자세한 내용은 [고객 활동 로그 보기](activity-logs.md)를 참조하세요.
 
-자세한 내용은 다음 섹션을 참조하십시오.
 
--   [고객 검색](#see-your-customer-list-viewcustomerlist)
--   [고객 목록 내보내기](#see-your-customer-list-exportcustomerlist)
--   [고객의 구독 목록 내보내기](#see-your-customer-list-exportsubscriptions)
-
-<a href="" id="viewcustomerlist"></a>
-**고객 검색**
+## <a name="search-for-a-customer"></a>고객 검색
 
 1.  **대시보드** 메뉴에서 **고객**을 선택합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
 
-<a href="" id="exportcustomerlist"></a>
-**고객 목록 내보내기**
+
+## <a name="export-your-customer-list"></a>고객 목록 내보내기
 
 1.  **대시보드** 메뉴에서 **고객**을 선택합니다.
 2.  **고객 내보내기**를 선택합니다.
@@ -48,10 +40,10 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
     기본적으로 파트너 센터는 길이와 관계없이 전체 고객 목록을 내보냅니다. 회사 이름 또는 도메인으로 고객 목록을 검색하고 해당 데이터의 하위 집합을 내보낼 수도 있습니다.
 
-3.  간접 공급자인 경우 간접 재판매인을 기준으로 고객 목록을 필터링할 수 있습니다. **간접 재판매인으로 필터링** 드롭다운을 선택하고 목록에서 재판매인을 선택합니다.
+3.  간접 공급자인 경우 간접 재판매인을 기준으로 고객 목록을 필터링할 수 있습니다. 목록에서 **간접 재판매인으로 필터링**을 선택하고 재판매인을 선택합니다.
 
-<a href="" id="exportsubscriptions"></a>
-**고객의 구독 내보내기**
+
+## <a name="export-customer-subscription-information"></a>고객 구독 정보 내보내기
 
 1.  **대시보드** 메뉴에서 **고객**을 선택합니다.
 2.  고객의 **회사 이름**을 선택합니다. 고객의 **구독** 페이지가 열리고 전체 제품 구독 목록이 표시됩니다.
@@ -62,8 +54,8 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
     -   **상태**
     -   **재판매인** - 구독을 소유하고 관리하는 재판매인의 ID
 
-    **참고**  
-    구독 관리에 대한 자세한 내용은 [고객 구독 관리](#pc-cloud-sltn-provider-adding-and-managing-customers--subscriptions)를 참조하세요.
+>**참고**<br>
+구독 관리에 대한 자세한 내용은 [고객 구독](customer-subscriptions.md)을 참조하세요.
 
      
 
@@ -71,11 +63,5 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

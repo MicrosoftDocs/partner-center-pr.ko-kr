@@ -3,13 +3,11 @@ title: "Microsoft의 고객 커뮤니케이션 | 파트너 센터"
 description: "일반적으로 Microsoft는 클라우드 솔루션 공급자 파트너를 통해 고객과 모든 연락을 주고받을 것으로 예상됩니다."
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft의 고객 커뮤니케이션
+# <a name="customer-communication-from-microsoft"></a>Microsoft의 고객 커뮤니케이션
 
 **적용 대상**
 
@@ -26,11 +24,5 @@ Microsoft와 이미 기존의 상업적 관계를 맺고 있는 고객의 경우
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

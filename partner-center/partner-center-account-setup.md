@@ -3,13 +3,11 @@ title: "파트너 센터 계정 관리 | 파트너 센터"
 description: "클라우드 솔루션 공급자 프로그램에 대한 가입이 받아들여지면 귀사 또는 귀사의 관리자는 파트너 센터에서 회사 계정을 설정해야 합니다."
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 파트너 센터 계정 관리
+# <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 
 **적용 대상**
 
@@ -35,11 +33,5 @@ ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

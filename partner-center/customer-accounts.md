@@ -3,13 +3,11 @@ title: "고객 계정 | 파트너 센터"
 Description: "재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다."
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객 계정
+# <a name="customer-accounts"></a>고객 계정
 
 **적용 대상**
 
@@ -32,11 +30,5 @@ ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "사용자 계정 만들기 및 권한 설정 | 파트너 센터"
 description: "관리자는 파트너 센터에 액세스해야 하는 각 파트너 직원을 위한 사용자 계정을 만듭니다."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 사용자 계정 만들기 및 권한 설정
+# <a name="create-user-accounts-and-set-permissions"></a>사용자 계정 만들기 및 권한 설정
 
 **적용 대상**
 
@@ -148,11 +146,5 @@ ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

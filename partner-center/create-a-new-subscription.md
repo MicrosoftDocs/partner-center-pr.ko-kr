@@ -3,13 +3,11 @@ title: "새 구독 만들기 | 파트너 센터"
 description: "파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 새 구독 만들기
+# <a name="create-a-new-subscription"></a>새 구독 만들기
 
 **적용 대상**
 
@@ -38,11 +36,5 @@ ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

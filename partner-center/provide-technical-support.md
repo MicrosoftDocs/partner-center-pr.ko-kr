@@ -3,13 +3,11 @@ title: "기술 지원 제공 | 파트너 센터"
 description: "클라우드 솔루션 공급자 파트너에게는 고객 환경에 액세스할 수 있는 위임된 관리자 권한이 있습니다."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 기술 지원 제공
+# <a name="provide-technical-support"></a>기술 지원 제공
 
 **적용 대상**
 
@@ -42,11 +40,5 @@ ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

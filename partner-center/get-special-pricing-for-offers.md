@@ -3,13 +3,11 @@ title: "제품 특별 가격 가져오기 | 파트너 센터"
 Description: "Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 선택된 고객 그룹을 위한 특별 할인 가격을 제공합니다."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
 ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 제품 특별 가격 가져오기
+# <a name="get-special-pricing-for-offers"></a>제품 특별 가격 가져오기
 
 **적용 대상**
 
@@ -54,11 +52,5 @@ Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "Pinpoint에서 파트너 센터로 전환 | 파트너 센터"
 Description: "이 페이지가 표시되는 경우 여기에 포함된 정보는 Pinpoint에서 파트너 센터로 전환하는 방법을 설명합니다."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Pinpoint에서 파트너 센터로 전환
+# <a name="transition-from-pinpoint-to-partner-center"></a>Pinpoint에서 파트너 센터로 전환
 
 **적용 대상**
 
@@ -46,7 +44,7 @@ Pinpoint 프로필을 가져오면 Pinpoint 계정이 사용 중지되고 마케
 
 파트너 센터 마케팅 프로필에 대한 자세한 내용과 Pinpoint 프로필 가져오기 결과를 보려면 [기본 파트너 센터 프로필 페이지로 이동](https://partnercenter.microsoft.com/pcv/publishing)하세요. Pinpoint에서 마케팅 프로필 만들기에 대한 자세한 내용은 [회사 마케팅 프로필 만들기](create-a-marketing-profile.md)를 참조하세요.
 
-## 관련 항목
+## <a name="related-topics"></a>관련 항목
 
 
 [회사 마케팅 프로필 만들기](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ Pinpoint 프로필을 가져오면 Pinpoint 계정이 사용 중지되고 마케
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

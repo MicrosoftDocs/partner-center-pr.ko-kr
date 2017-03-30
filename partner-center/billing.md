@@ -3,13 +3,11 @@ title: "청구 | 파트너 센터"
 Description: "클라우드 솔루션 공급자 파트너는 고객의 라이선스 기반 구독 및 사용량 기준 구독에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 청구
+# <a name="billing"></a>청구
 
 **적용 대상**
 
@@ -25,7 +23,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 -   제공하는 서비스 및 제품에 대해 자체 수수료 및 요금을 추가합니다.
 -   고객에게 모든 요금에 대한 단일 청구서를 보냅니다.
 
-## 청구
+## <a name="billing"></a>청구
 
 
 [청구서 읽기](read-your-bill.md)
@@ -42,7 +40,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 [PSTN 서비스](o365-e5-in-csp-advisory.md)
 
-## 이 섹션의 내용
+## <a name="in-this-section"></a>이 섹션의 내용
 
 
 -   [청구 기본 사항](#billingbasics)
@@ -194,11 +192,5 @@ Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

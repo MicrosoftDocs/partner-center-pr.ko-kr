@@ -3,13 +3,11 @@ title: "고객 대신 문제 보고 | 파트너 센터"
 Description: "고객에게 해결할 수 없는 서비스 문제가 발생하고 Microsoft로 문제 에스컬레이션에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다."
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객 대신 문제 보고
+# <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
 **적용 대상**
 
@@ -45,7 +43,7 @@ ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
     3.  나중에 Office 365 관리 센터로 이동한 후 **모든 지원 티켓 보기**를 선택하여 고객의 서비스 요청을 검토합니다.
 
-## FAQ
+## <a name="faq"></a>FAQ
 
 
 **지원 권리 유형의 일부로 포함되는 사항은 무엇인가요?**
@@ -87,11 +85,5 @@ Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

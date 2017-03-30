@@ -3,13 +3,11 @@ title: "일반적인 청구 시나리오 | 파트너 센터"
 description: "이 항목에서는 새 구독을 추가하거나, 구독에서 실제 사용자 수를 조정하거나, 구독을 취소한 후에 청구서에 표시될 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 일반적인 청구 시나리오
+# <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 
 **적용 대상**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 이 항목에서는 새 구독을 추가하거나, 구독에서 실제 사용자 수를 조정하거나, 구독을 취소한 후에 청구서에 표시될 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
 
-## 이 섹션의 내용
+## <a name="in-this-section"></a>이 섹션의 내용
 
 
 -   [사용량 기준 청구](#usagebased)
@@ -138,11 +136,5 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

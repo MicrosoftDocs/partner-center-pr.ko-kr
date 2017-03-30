@@ -3,13 +3,11 @@ title: "CSP 지역 권한 설정 테넌트 통합 | 파트너 센터"
 description: "다양한 국가/지역에 대한 테넌트를 통합하려면 다음 지침을 사용하세요."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP 지역 권한 설정 테넌트 통합
+# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 설정 테넌트 통합
 
 **적용 대상**
 
@@ -24,14 +22,14 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
  
 
-## 마이그레이션 준비
+## <a name="prepare-for-migration"></a>마이그레이션 준비
 
 
 -   전환(기존) 계정으로 <https://partnercenter.microsoft.com>에 로그온하고 모든 고객 및 해당 고객에 대해 프로비전된 모든 서비스를 기록해 둡니다.
 
 ![지역 고객 목록](images/regionalcustomer1.png)
 
-## 고객 계정 마이그레이션
+## <a name="migrate-customer-accounts"></a>고객 계정 마이그레이션
 
 
 1.  전환(새) 계정으로 <https://partnercenter.microsoft.com>에 로그온하고 파트너 센터 대시보드에서 고객 목록으로 이동합니다.
@@ -46,7 +44,7 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 고객이 동의를 제출하고 나면 고객이 하나씩 파트너의 고객 목록에 나타납니다.
 
-## Office 365 및 비 Azure 사용량 기준 구독 마이그레이션
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Office 365 및 비 Azure 사용량 기준 구독 마이그레이션
 
 
 1.  고객이 계약에 서명하고 나면, 중앙 집중식 파트너 테넌트에서 해당 구독을 다시 만들 수 있습니다.
@@ -73,7 +71,7 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
  
 
-## 전환 원본 파트너 계정에서 Office 365 구독을 사용하지 않도록 설정
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>전환 원본 파트너 계정에서 Office 365 구독을 사용하지 않도록 설정
 
 
 **전환 원본** 파트너 계정에서 CSP 구독을 사용하지 않도록 설정하면 이후 청구가 중지됩니다. Azure 구독은 마이그레이션 프로세스 동안 자동으로 사용하지 않도록 설정되므로 수동으로 Azure 구독을 사용하지 않도록 설정할 필요가 없습니다.
@@ -93,7 +91,7 @@ ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 5.  목록에서 다음 고객을 선택하고 모든 구독을 사용하지 않도록 설정하는 프로세스를 반복합니다.
 
-## Azure 사용량 기준 구독 마이그레이션
+## <a name="migrating-azure-usage-based-subscriptions"></a>Azure 사용량 기준 구독 마이그레이션
 
 
 Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP 구독은 수동으로 마이그레이션할 필요가 없습니다. Microsoft Azure 지원에서는 **전환 원본** CSP 재판매인 계정의 모든 배포된 서비스 또는 리소스뿐만 아니라 Azure 구독을 **전환 대상** CSP 재판매인 계정으로 마이그레이션할 수 있습니다. 이 전환 동안 고객에게 서비스 중단이 발생하지 않습니다.
@@ -110,7 +108,7 @@ Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP �
 
 6.  모든 고객의 모든 구독에 대해 이러한 단계를 반복하여 이후 **전환 원본** 계정에 요금이 청구되지 않도록 합니다. 파트너는 취소일과 청구 기간의 마지막 날 사이에 사용되지 않은 일수에 대한 크레딧이 포함된 최종 송장을 하나 받게 됩니다. 해당 최종 청구 기간 이후 더는 송장이 생성되지 않습니다.
 
-### 참고
+### <a name="notes"></a>참고
 
 -   **전환 원본** CSP 계정의 구독을 사용하지 않도록 설정해도, 이렇게 사용하지 않도록 설정하기 전에 서비스가 **전환 대상** CSP 계정에서 프로비전된 경우 최종 고객의 서비스에는 영향을 주지 않습니다.
 
@@ -122,7 +120,7 @@ Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP �
 
      
 
-### 내보내기를 사용하여 마이그레이션 간소화
+### <a name="simplify-migration-using-export"></a>내보내기를 사용하여 마이그레이션 간소화
 
 **내보내기 기능**을 사용하여 새 통합 구조에서 사용해야 하는 구독을 캡처할 수 있습니다.
 
@@ -134,11 +132,11 @@ Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP �
 
 4.  이 목록을 사용하여 새 통합 테넌트에서 구독을 다시 만듭니다.
 
-### API 등록
+### <a name="api-registration"></a>API 등록
 
 API 등록에 대한 자세한 내용은 [이 페이지를 참조](https://msdn.microsoft.com/en-us/library/partnercenter/mt267552.aspx)하세요.
 
-## 파트너 센터 활동 로그
+## <a name="partner-center-activity-log"></a>파트너 센터 활동 로그
 
 
 활동 로그를 사용하여 파트너는 해당 테넌트에서 수행된, 고객에게 영향을 미치는 모든 변경 내용 레코드를 볼 수 있습니다. 이 기능을 통해 파트너는 고객 테넌트의 변경 내용을 추적할 수 있습니다.
@@ -158,11 +156,5 @@ API 등록에 대한 자세한 내용은 [이 페이지를 참조](https://msdn.
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

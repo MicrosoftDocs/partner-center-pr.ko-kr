@@ -3,13 +3,11 @@ title: "CSP 프로그램 등록 | 파트너 센터"
 description: "클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 클라우드 솔루션 공급자 프로그램에 등록
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
 **적용 대상**
 
@@ -18,11 +16,12 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 >**참고**<br>
 Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램 등록에 대한 자세한 내용은 [Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록](enroll-in-csp-for-microsoft-cloud-germany.md) 및 [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)를 참조하세요.
 
-CSP(클라우드 솔루션 공급자) 프로그램에 등록하기 전에 [CSP 프로그램 요구 사항]( http://go.microsoft.com/fwlink/p/?LinkId=617116)에 대해 자세히 알아보세요.
+CSP(클라우드 솔루션 공급자) 프로그램에 등록하기 전에 [CSP 프로그램 요구 사항]( http://go.microsoft.com/fwlink/p/?LinkId=617116)에 대해 자세히 알아보세요. 파트너 계약 및 다른 프로그램 요구 사항에 대한 자세한 내용은 [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)을 참조하세요. 
 
-파트너 계약 및 다른 프로그램 요구 사항에 대한 자세한 내용은 [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)을 참조하세요.
+>**중요**<br>
+현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대한 모든 발표는 파트너 센터를 포함한 일반적인 통신 채널을 통해 공개될 것입니다.  
 
-CSP 프로그램 인센티브를 받을 자격을 갖추고 인센티브 플랫폼을 등록하고 인센티브 자금을 획득하는 방법을 알아봅니다. [프로그램 세부 정보](https://go.microsoft.com/fwlink/?linkid=831533)를 참조하세요.
+CSP 프로그램 인센티브를 받을 자격을 갖추고, 인센티브 플랫폼을 등록하고, 인센티브 자금을 획득하는 방법을 알아보세요. [프로그램 세부 정보](https://go.microsoft.com/fwlink/?linkid=831533)를 참조하세요.
 
 ## <a href="" id="markets"></a>사용 가능성
 
@@ -49,7 +48,7 @@ CSP 프로그램 인센티브를 받을 자격을 갖추고 인센티브 플랫�
 
  
 
-## 파트너 센터 계정
+## <a name="partner-center-account"></a>파트너 센터 계정
 
 
 파트너 센터를 사용하려면 회사 관리자에게 Azure AD에서 인증받은 메일 주소가 있어야 합니다. 관리자는 Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services 등 Microsoft 클라우드 서비스의 기존 업무용 전자 메일 계정 중 무엇이든 사용할 수 있습니다. 재판매인이 되는 프로세스에서는 이 전자 메일 주소를 재판매인 계정의 관리자 전자 메일로 바꿉니다.
@@ -60,11 +59,5 @@ CSP 프로그램 인센티브를 받을 자격을 갖추고 인센티브 플랫�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

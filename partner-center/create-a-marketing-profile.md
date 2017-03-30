@@ -3,13 +3,11 @@ title: "마케팅 프로필 만들기 | 파트너 센터"
 description: "Microsoft는 매년 당사 웹 속성에 적합한 수백만 명의 잠재 고객을 유치하고 있습니다."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 마케팅 프로필 만들기
+# <a name="create-a-marketing-profile"></a>마케팅 프로필 만들기
 
 **적용 대상**
 
@@ -37,7 +35,7 @@ Pinpoint 계정이 있는 경우 [Pinpoint 마케팅 프로필을 파트너 센�
 2.  **프로필** 탭에서 **마케팅 프로필 추가**를 선택합니다.
 3.  연락처 정보, 비즈니스 전문 지식을 강조하는 특성, 아래의 *프로필 지침*을 충족하는 설명 등 회사에 대한 정보를 업데이트합니다.
 
-## 프로필 지침
+## <a name="profile-guidelines"></a>프로필 지침
 
 
 -   프로필에는 2,500자까지 사용할 수 있지만, 간단명료한 프로필이 더욱 효과적인 경우가 많습니다.
@@ -54,7 +52,7 @@ Pinpoint 계정이 있는 경우 [Pinpoint 마케팅 프로필을 파트너 센�
 
 -   고객이 검색하는 데 입력하는 키워드에 가장 중점을 둡니다. 비즈니스 제품뿐만 아니라 고객이 솔루션을 검색하는 데 사용할 수 있는 업계 용어를 정확하게 설명하는 키워드를 포함합니다.
 
-## 멋진 프로필을 만드는 10가지 팁
+## <a name="ten-tips-for-a-great-profile"></a>멋진 프로필을 만드는 10가지 팁
 
 
 1.  **대상 그룹 파악** 내부 팀이나 Microsoft가 아닌 고객에게 이야기하는 것처럼 씁니다.
@@ -77,7 +75,7 @@ Pinpoint 계정이 있는 경우 [Pinpoint 마케팅 프로필을 파트너 센�
 
 10. **프로필을 최신 상태로 유지** 프로필을 회사 웹상의 정보와 동기화된 상태로 유지합니다. 각 소프트웨어 또는 서비스 릴리스 때 마다 귀사 프로필과 사이트를 업데이트하여 원활한 고객 환경을 보장합니다.
 
-## 관련 항목
+## <a name="related-topics"></a>관련 항목
 
 
 [Pinpoint에서 파트너 센터로 전환](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Pinpoint 계정이 있는 경우 [Pinpoint 마케팅 프로필을 파트너 센�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "청구서 읽기 | 파트너 센터"
 description: "송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 청구서 읽기
+# <a name="read-your-bill"></a>청구서 읽기
 
 **적용 대상**
 
@@ -20,7 +18,7 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 부과되는 요금에 대한 항목별 세부 정보를 보려면 함께 제공되는 조정 파일을 참조하세요. 조정 파일에는 고객 송장을 만드는 데 사용하는 고객 ID와 구독 ID가 포함되어 있습니다. 자세한 내용은 [조정 파일 사용 방법](use-the-reconciliation-files.md)을 참조하세요.
 
-## 송장 파일 정의
+## <a name="invoice-file-definitions"></a>송장 파일 정의
 
 
 <table>
@@ -114,11 +112,5 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "고객을 위한 Azure 지출 예산 설정 | 파트너 센터"
 description: "파트너 센터에서 월말에 Azure 청구서에 놀라지 않도록 고객별로 월별 예산을 설정할 수 있습니다."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객을 위한 Azure 지출 예산 설정
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>고객을 위한 Azure 지출 예산 설정
 
 **적용 대상**
 
@@ -61,11 +59,5 @@ Azure 지출 데이터는 예상 수치이며 실제 청구 금액은 이와 다
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

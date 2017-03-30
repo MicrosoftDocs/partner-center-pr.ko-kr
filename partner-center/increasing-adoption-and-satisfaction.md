@@ -3,13 +3,11 @@ title: "채택률 및 만족도 높이기 | 파트너 센터"
 description: "당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 채택률 및 만족도 높이기
+# <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
 **적용 대상**
 
@@ -19,7 +17,7 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 클라우드 솔루션 공급자 프로그램을 통해 모든 고객의 데이터를 볼 수 있습니다. 일부 고객은 다른 파트너를 통해 또는 Microsoft에서 직접 라이선스를 구입할 수 있습니다. 이 경우 모든 파트너에 대한 전체 라이선스가 표시됩니다. 귀하의 라이선스만 보려면 대신 고객의 구독으로 이동합니다.
 
-## 라이선스 및 사용자 데이터 찾기
+## <a name="find-license-and-user-data"></a>라이선스 및 사용자 데이터 찾기
 
 
 **단일 고객**
@@ -51,7 +49,7 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
     -   일부 고객이 자신의 라이선스에 의해 자격이 부여된 것보다 훨씬 더 많은 Yammer를 사용하는 경우 데이터를 상당히 왜곡할 수 있습니다.
 
-## 다음 단계
+## <a name="next-steps"></a>다음 단계
 
 
 많은 도움말 및 방법 관련 질문을 처리하지만 계정의 채택 수치가 낮거나 상향 판매 기회를 찾는 경우 교육 과정의 제공을 고려할 수 있습니다. 고객에게 구매한 클라우드 솔루션 소프트웨어를 더 잘 사용하는 방법을 알려주면 생산성 및 만족도가 증가하고 지원 요구가 감소합니다.
@@ -81,11 +79,5 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

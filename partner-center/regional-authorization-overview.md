@@ -3,13 +3,11 @@ title: "CSP 지역 권한 설정 | 파트너 센터"
 description: "이제 국제 비즈니스를 하는 파트너는 지역 권한 설정을 통해 전 세계 다양한 지역 및 국가에 있는 고객을 더 쉽게 관리할 수 있습니다."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP 지역 권한 설정
+# <a name="csp-regional-authorization"></a>CSP 지역 권한 설정
 
 
 \[일부 정보는 상업용으로 출시되기 전에 상당 부분 수정될 수 있는 시험판 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보에 대해 명시적 또는 묵시적 보증을 하지 않습니다.\]
@@ -20,11 +18,11 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 >**참고**<br> [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
 
-## 계획
+## <a name="planning"></a>계획
 
 아래에 설명된 것처럼 파트너는 지역 테넌트를 통합하는 여러 옵션을 이용할 수 있습니다.
 
-### 단일 지역 또는 국가에 대한 별도 테넌트
+### <a name="separate-tenants-for-single-regions-or-countries"></a>단일 지역 또는 국가에 대한 별도 테넌트
 
 테넌트 통합은 옵션입니다. 다음 표에 표시된 것처럼 파트너는 별도 테넌트가 있는 국제 고객을 계속 관리할 수 있습니다.
 
@@ -67,7 +65,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 여러 지역 또는 국가 대한 하나의 테넌트
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>여러 지역 또는 국가 대한 하나의 테넌트
 
 
 파트너는 여러 CSP 테넌트에서 단일 CSP 테넌트로의 작업을 통합하도록 선택할 수 있습니다.
@@ -99,7 +97,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 일부 지역 또는 국가에 대한 일부 테넌트
+## <a name="some-tenants-for-some-regions-or-countries"></a>일부 지역 또는 국가에 대한 일부 테넌트
 
 
 파트너는 여러 CSP 테넌트에서 소수의 CSP 테넌트로의 작업을 통합하도록 선택할 수 있습니다.
@@ -135,7 +133,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 테넌트 통합
+## <a name="consolidating-tenants"></a>테넌트 통합
 
 
 테넌트를 통합하려는 경우 다음과 같이 하는 것이 좋습니다.
@@ -145,7 +143,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 -   **여러 국가/지역, 하나의 거래.** 여러 국가/지역에서 거래하는 경우 최대 실제 사용자 수가 포함된 테넌트로 중앙 집중화하는 것이 좋습니다. 실제 사용자 수가 적은 국가/지역의 구독을 취소해야 합니다.
 
 
-## 국가/지역 정보
+## <a name="countryregion-information"></a>국가/지역 정보
 
 
 테넌트 통합을 시작하기 전에 다음을 고려하세요.
@@ -187,11 +185,5 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

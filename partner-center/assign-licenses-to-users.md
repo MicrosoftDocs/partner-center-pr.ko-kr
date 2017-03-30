@@ -3,13 +3,11 @@ title: "고객 계정에 대한 사용자 관리 작업 | 파트너 센터"
 description: "고객을 위한 새 구독을 구입한 후 특정 사용자에게 라이선스를 할당할 수 있습니다."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객 계정에 대한 사용자 관리 작업
+# <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
 **적용 대상**
 
@@ -74,7 +72,7 @@ ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
     선택한 모든 사용자 계정이 **사용자 및 라이선스** 페이지에 다시 나타납니다.
 
-## 관련 항목
+## <a name="related-topics"></a>관련 항목
 
 
 [다수의 사용자에게 라이선스 할당 및 해지](bulk-license-provisioning-for-multiple-users.md)
@@ -85,11 +83,5 @@ ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

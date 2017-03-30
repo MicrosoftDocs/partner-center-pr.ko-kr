@@ -3,13 +3,11 @@ title: "고객 활동 로그 보기 | 파트너 센터"
 description: "활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
-
+ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객 활동 로그 보기
+# <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
 **적용 대상**
 
@@ -18,7 +16,6 @@ ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다. 거래에 대한 로그는 구매한 구독을 비롯하여 거래에 대한 자세한 정보를 제공합니다. 활동 로그를 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수도 있습니다.
 
-<a href="" id="activitylogs"></a>
 활동 로그는 고객 계정 및 제품 거래에 대한 파트너 작업 레코드를 제공합니다. 활동 로그를 .csv 파일로 내보낼 수도 있습니다.
 
 **활동 로그 보기 및 내보내기**
@@ -41,11 +38,5 @@ ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

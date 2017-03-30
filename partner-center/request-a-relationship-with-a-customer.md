@@ -1,24 +1,22 @@
 ---
 title: "고객과의 관계 요청 | 파트너 센터"
-description: "관계 요청은 다중 파트너 및 다중 채널 시나리오에서 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다"
+description: "관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 귀사의 위임된 관리자 권한을 제거했기 때문에 귀사에서 프로비전 또는 지원을 제공하려면 위임된 관리자 권한을 복원해야 하는 경우에도 유용합니다."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객과의 관계 요청
+# <a name="request-a-relationship-with-a-customer"></a>고객과의 관계 요청
 
 **적용 대상**
 
 -  파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-관계 요청은 [다중 파트너](multipartner.md) 및 [다중 채널](multichannel.md) 시나리오에서 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다.
+관계 요청은 [다중 파트너](multipartner.md) 및 [다중 채널](multichannel.md) 시나리오에 사용됩니다. 고객이 귀사의 위임된 관리자 권한을 제거했기 때문에 귀사에서 프로비전 또는 지원을 제공하려면 위임된 관리자 권한을 복원해야 하는 경우에도 유용합니다.
 
-이 프로세스에서는 위임된 관리자 권한만 추가됩니다. 파트너가 구독에 대한 원래 CSP 재판매인이 아닌 경우 이러한 구독에 대한 청구서를 받지 않으며 실제 사용자 수를 추가 또는 제거하거나, 추가 기능을 주문하거나, 구독을 전환 또는 마이그레이션하거나, POR(Partner of Record)을 변경할 수도 없습니다.
+이 프로세스에서는 위임된 관리자 권한만 추가됩니다. 파트너가 구독의 원래 CSP(클라우드 솔루션 공급자) 재판매인이 아닌 경우 파트너는 구독에 대한 청구서를 받지 않으며 실제 사용자 수를 추가 또는 제거하거나, 추가 기능을 주문하거나, 구독을 전환 또는 마이그레이션하거나, POR(Partner of Record)을 변경할 수 없습니다.
 
 <a href="" id="requestarelationship"></a>
 **관계 요청**
@@ -40,11 +38,5 @@ ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

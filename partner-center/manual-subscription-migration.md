@@ -3,13 +3,11 @@ title: "Dynamics AX 구독을 Dynamics 365로 마이그레이션 | 파트너 센
 description: "Microsoft에서는 조직이 성장, 발전 및 변혁을 통해 고객의 요구 사항을 충족하고 새로운 기회를 포착할 수 있게 해주는 차세대 지능형 비즈니스 응용 프로그램인 Dynamics 365를 소개합니다."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Dynamics AX 구독을 Dynamics 365로 마이그레이션
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX 구독을 Dynamics 365로 마이그레이션
 
 **적용 대상**
 
@@ -59,7 +57,7 @@ Microsoft Dynamics AX 제품군은 2016년 11월 1일부터 사용 중지됩니�
 
 현재 Microsoft Dynamics CRM Online 계획은 2016년 11월 1일부터 사용 중지될 예정입니다. 새 라이선싱 옵션에 대한 자세한 내용은 [Important information for CRM Online customers](https://go.microsoft.com/fwlink/?linkid=831667)(CRM Online 고객에 대한 중요 정보)를 참조하세요.
 
-## 새 제품 계획으로 고객 전환
+## <a name="transition-customers-to-new-product-plans"></a>새 제품 계획으로 고객 전환
 
 
 Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비스를 제공합니다. 이러한 경우 재판매인은 고객을 새 서비스로 업그레이드하거나 결국 종료될 SKU의 구독을 마이그레이션해야 할 수 있습니다. 이전 SKU에서 새 SKU로 고객을 마이그레이션하려면 다음 순서가 필요합니다.
@@ -70,8 +68,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 다음 절차에서는 Dynamics AX7 Enterprise에서 Dynamics 365 for Operations로 고객을 이동합니다.
 
-<a href="" id="purchasenewsubsc"></a>
-재판매인은 Dynamics AX Enterprise에 대한 기존 구독이 있는 고객을 Dynamics 365 for Operations로 이동해야 합니다. 첫 번째 단계는 Dynamics 365 for Operations를 구매하는 것입니다.
+<a href="" id="purchasenewsubsc"></a>재판매인은 Dynamics AX Enterprise에 대한 기존 구독이 있는 고객을 Dynamics 365 for Operations로 이동해야 합니다. 첫 번째 단계는 Dynamics 365 for Operations를 구매하는 것입니다.
 
 **새 구독 구매**
 
@@ -80,8 +77,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
     이제 고객은 이전 구독과 새 구독이 둘 다 있어야 합니다. 이 예제에서는 이전 Dynamics AX Enterprise와 새 '대상' 구독인 Dynamics 365 for Operations, Enterprise Edition이 있습니다.
 
-<a href="" id="reassignlicenses"></a>
-다음 단계는 새 구독에 모든 기존 사용자 라이선스를 다시 할당하는 것입니다.
+<a href="" id="reassignlicenses"></a> 다음 단계는 새 구독에 모든 기존 사용자 라이선스를 다시 할당하는 것입니다.
 
 **사용자 라이선스 다시 할당**
 
@@ -91,8 +87,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 4.  **제출**을 선택합니다. 확인 페이지에 새 라이선스 할당이 나열됩니다.
 5.  라이선스 다시 할당이 필요한 다른 모든 고객 사용자에 대해 같은 단계를 계속합니다.
 
-<a href="" id="cancelsubscriptions"></a>
-사용자 라이선스를 새 서비스로 이동한 후 최상위 고객 수준에서 이전 구독을 안전하게 취소할 수 있습니다.
+<a href="" id="cancelsubscriptions"></a> 사용자 라이선스를 새 서비스로 이동한 후 최상위 고객 수준에서 이전 구독을 안전하게 취소할 수 있습니다.
 
 **이전 구독 취소**
 
@@ -102,7 +97,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 이전 구독이 일시 중단되고 새 구독이 활성화됩니다. 일시 중단된 구독은 자동으로 120일 후 프로비전이 해제됩니다. 이전 구독에 대해서는 고객에게 추가 비용이 발생하지 않습니다.
 
-## 추가 고려 사항
+## <a name="additional-considerations"></a>추가 고려 사항
 
 
 이후 구독 프로비전을 위해 고객이 개방형 채널에서 클라우드 서비스 프로그램으로 이전하는 경우 기존 구독도 마이그레이션해야 합니다.
@@ -116,11 +111,5 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

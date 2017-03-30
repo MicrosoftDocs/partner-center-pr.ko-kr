@@ -3,13 +3,11 @@ title: "다수의 사용자에게 라이선스 할당 및 해지 | 파트너 센
 description: "고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다."
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 다수의 사용자에게 라이선스 할당 및 해지
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
 **적용 대상**
 
@@ -19,7 +17,7 @@ ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 
 파트너 센터는 고객이 소유한 모든 라이선스 권리 유형을 추적하여 보여 줍니다.
 
-## 이 섹션의 내용
+## <a name="in-this-section"></a>이 섹션의 내용
 
 
 -   [다수의 사용자에게 라이선스 할당](#assign-licenses-to-groups)
@@ -74,7 +72,7 @@ ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 6.  **라이선스 할당 및 해지**에서 사용자에게 할당된 제품의 확인란을 선택 취소합니다. 예를 들어 선택한 사용자가 모두 Office 365 Enterprise 라이선스가 있고 이러한 라이선스를 해지하려는 경우 확인란을 선택하여 선택 취소합니다.
 7.  **저장**을 선택합니다.
 
-## 관련 항목
+## <a name="related-topics"></a>관련 항목
 
 
 [사용자 한 명에게 라이선스 할당](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

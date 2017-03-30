@@ -3,13 +3,11 @@ title: "고객 계정 정보 업데이트 | 파트너 센터"
 description: "파트너 센터에서 고객의 청구 정보와 기타 회사 세부 정보를 업데이트할 수 있습니다."
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 고객 계정 정보 업데이트
+# <a name="update-customer-account-info"></a>고객 계정 정보 업데이트
 
 **적용 대상**
 
@@ -28,11 +26,5 @@ ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

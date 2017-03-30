@@ -3,13 +3,11 @@ title: "세금 및 면세 | 파트너 센터"
 description: "클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 세금 및 면세
+# <a name="tax-and-tax-exemptions"></a>세금 및 면세
 
 **적용 대상**
 
@@ -26,7 +24,7 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 4.  양식을 작성합니다. **문제 유형**에서 **내 프로필을 관리할 수 없음**을 선택합니다. 설명에 MPN ID와 Microsoft ID를 포함합니다.
 5.  티켓을 제출하면 Microsoft에서 전자 메일을 보내 자세한 정보를 요청할 것입니다. 회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.
 
-## 국가/지역별 세부 정보
+## <a name="details-by-countryregion"></a>국가/지역별 세부 정보
 
 
 <table>
@@ -74,11 +72,5 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

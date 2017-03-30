@@ -2,13 +2,11 @@
 title: "Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리 | Microsoft 클라우드 독일 파트너 센터"
 description: "개인 정보의 수집 및 사용에 대한 국가별, 지역별, 산업별 요구 사항을 준수하기 위해 Microsoft 클라우드 독일 파트너 센터에는 사용자 관리 기능이 제공되지 않습니다. 그 대신 Microsoft 클라우드 독일 Azure 포털에서 사용자를 추가하고 관리할 수 있습니다."
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
-
+ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
 **적용 대상**
 
@@ -26,7 +24,7 @@ ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
 >**참고**<br>
 이 문서가 게시된 시점에는 Azure 관리자 포털 또는 Office 365 관리자 포털에서 고객 사용자 라이선스를 관리하는 방법에 대한 문서가 제공되지 않았습니다.
 
-## Microsoft 클라우드 독일 Azure 포털에서 사용자를 관리하는 방법 
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 Azure 포털에서 사용자를 관리하는 방법 
 
 Microsoft 클라우드 독일 파트너 센터에 로그인하면 다시 로그인할 필요 없이 Microsoft 클라우드 독일 Azure 포털을 열 수 있습니다. 그러나 Microsoft 클라우드 독일 Azure 포털에 바로 로그인해야 하는 경우 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)로 이동합니다. 
 
@@ -46,9 +44,3 @@ Microsoft 클라우드 독일 Azure 포털에 로그인한 후 Azure AD(Azure Ac
 -  [**Microsoft 클라우드 독일 파트너 센터**](partner-center-for-microsoft-cloud-germany.md)
 
 -  [**Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록**](enroll-in-csp-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-
