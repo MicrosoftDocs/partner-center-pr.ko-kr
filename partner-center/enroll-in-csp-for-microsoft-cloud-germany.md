@@ -68,7 +68,7 @@ Microsoft 클라우드 독일은 별도의 Microsoft Azure 인스턴스를 제�
 >**참고**<br>
 사용자에게 관리자 에이전트 역할을 할당하면 대시보드 메뉴에 **고객** 메뉴가 나타나며, 사용자는 고객 목록에 액세스하여 [새 고객을 추가](add-a-new-customer.md)할 수 있습니다.   
 
-1.  https://portal.microsoftazure.de/에서 Azure 독일 포털에 로그인합니다.
+1.  https://portal.microsoftazure.de/ 에서 Azure 독일 포털에 로그인합니다.
 
 2.  조직 내 적절한 사용자에게 관리자 에이전트 역할을 할당합니다. 이렇게 하려면 해당 사용자를 기본 제공 **AdminAgent** 그룹에 추가해야 합니다. 자세한 방법은 [Azure Active Directory에서 그룹의 구성원 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)를 참조하세요.
  
