@@ -3,15 +3,17 @@ title: "미결제, 사기 또는 오용 | 파트너 센터"
 description: "고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
-ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다. 귀하에게는 고객의 크레딧 확대 여부를 결정할 책임이 있습니다.

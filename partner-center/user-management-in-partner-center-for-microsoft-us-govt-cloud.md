@@ -2,9 +2,10 @@
 title: "미국 정부용 Microsoft 클라우드 파트너 센터에서 사용자 및 라이선스 관리 | 미국 정부용 Microsoft 클라우드 파트너 센터"
 description: "개인 정보의 수집 및 사용에 대한 국가별, 지역별, 산업별 요구 사항을 준수하기 위해 미국 정부용 Microsoft 클라우드 파트너 센터에는 사용자 관리 기능이 제공되지 않습니다. 그 대신 미국 정부용 Microsoft 클라우드 Azure Portal에서 사용자를 추가하고 관리할 수 있습니다."
 author: MaggiePucciEvans
-ms.openlocfilehash: 656f670433207aefc0762db6fd968c4423bb56c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
+ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -14,11 +15,12 @@ translationtype: HT
 
 다음 파트너 센터 작업은 미국 정부용 Microsoft 클라우드의 Azure 관리 포털을 사용하여 관리됩니다.
 
-파트너 사용자 관리
+- 파트너 사용자 관리
 
-고객 사용자 및 라이선스 관리
+- 고객 사용자 및 라이선스 관리
 
-사용자 암호 다시 설정
+- 사용자 암호 다시 설정
+
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 Azure Portal에서 사용자를 관리하는 방법
 

@@ -3,9 +3,10 @@ title: "일시 중단된 파트너 센터 계정 복원 | 파트너 센터"
 description: "일시 중단된 파트너 센터 계정을 복원하는 방법, 파트너 계정이 일시 중단되는 이유 및 일시 중단 동안 계정을 사용하는 방법을 알아봅니다."
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>일시 중단된 파트너 센터 계정 복원
 
@@ -14,6 +15,7 @@ translationtype: HT
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 >**중요**<br>

@@ -3,15 +3,17 @@ title: "고객 지원 | 파트너 센터"
 description: "귀하는 고객에 대해 첫 번째 연락처 역할을 하며 고객에게 청구 및 구독 지원, 프로비전/배포 도움말, 소프트웨어 구성, 성능 문제 해결, 서비스 가용성 문제, 클라이언트 연결 문제, 누락되거나 잘못 구성된 설정으로 인한 클라이언트 데스크톱 문제, 불완전한 소프트웨어 통합, 권한 문제 또는 기타 배포 문제와 같은 기술 및 계정 지원 서비스를 제공하게 됩니다.서비스 및 소프트웨어에 대한 업데이트 관리사용 질문에 대한 대답클라우드 솔루션 공급자는 고객에게 지원을 받는 방법을 명확히 설명해 주어야 합니다. 24시간 내내 전화 지원을 제공하지 않는 경우 고객에게 옵션을 설명하는 서비스 수준 계약을 제공해야 합니다. Microsoft는 CSP 고객에게 지원을 제공하지 않습니다."
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="customer-support"></a>고객 지원 센터
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객을 대면하는 첫 번째 접촉 지점이므로 고객에게 다음과 같은 기술 및 계정 지원 서비스를 제공해야 합니다.

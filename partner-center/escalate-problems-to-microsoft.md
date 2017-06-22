@@ -3,15 +3,17 @@ title: "Microsoft로 문제 에스컬레이션 | 파트너 센터"
 description: "고객을 대신하여 문제를 해결하는 것이 좋습니다."
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객을 대신하여 문제를 해결하는 것이 좋습니다. 첫 번째 단계로 문서화된 기존 문제에서 [서비스 상태를 확인](check-service-health.md)해야 합니다. 이 단계에서 고객 문제를 해결하지 못한 경우 관리자 권한을 사용하여 소프트웨어, 설정 및 구성 문제를 해결할 수 있습니다.

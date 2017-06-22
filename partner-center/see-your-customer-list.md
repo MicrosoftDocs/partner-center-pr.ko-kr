@@ -3,15 +3,17 @@ title: "고객 목록 관리 | 파트너 센터"
 description: "고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다. 고객 계정 데이터베이스를 검색하고 전체 고객 데이터베이스나 하위 집합을 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수 있습니다. 고객의 구독 정보를 .csv 파일로 내보낼 수도 있습니다.

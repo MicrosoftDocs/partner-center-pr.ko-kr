@@ -2,9 +2,10 @@
 title: "Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록 | Microsoft 클라우드 독일 파트너 센터"
 description: "Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요."
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -32,7 +33,7 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너는 Mic
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>1단계 - Microsoft 클라우드 독일 파트너 센터 계정 만들기 
 
-1.  등록 프로세스를 시작합니다. 
+1.  Microsoft 클라우드 독일 CSP에 등록하려면 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)로 이동하여 **로그인**을 선택합니다. 
 
 2.  Office 365, Microsoft Azure, Microsoft Dynamics에 대한 회사의 Microsoft 클라우드 독일 계정의 글로벌 관리자 자격 증명으로 로그인합니다. 회사에 이러한 포털 계정이 없는 경우 **계정 만들기**를 선택하여 계정을 등록합니다.
 

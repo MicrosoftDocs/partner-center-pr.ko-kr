@@ -3,15 +3,17 @@ title: "제품 및 가격 참조 | 파트너 센터"
 description: "파트너 가격과 함께 클라우드 솔루션 공급자 프로그램에서 사용할 수 있는 제품 목록을 보려면 대시보드 메뉴로 이동하여 가격 및 제품을 선택합니다."
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
-ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: e4217e8cef7067a6917beb86299f9eee9ea6490c
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="see-offers-and-pricing"></a>제품 및 가격 참조
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 파트너 가격과 함께 클라우드 솔루션 공급자 프로그램에서 사용할 수 있는 제품 목록을 보려면 대시보드 메뉴로 이동하여 **가격 및 제품**을 선택합니다.

@@ -1,45 +1,36 @@
 ---
 title: "CSP 계약, 가격표 및 제품 | 파트너 센터"
-description: "Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부를 결정하고, 새 고객을 등록하며, 고객에게 Microsoft 제품 및 서비스를 판매하고, 청구서를 조정하는 데 필요한 여러 문서를 게시합니다."
+description: "이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 17e792f550f54a74e29c82f8eee4fbd58311d362
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 06/09/2017
 ---
-# <a name="csp-agreements-price-lists-and-offers"></a>CSP 계약, 가격표 및 제품
+# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 계약, 가격 목록 및 제품
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-Microsoft는 CSP 파트너가 프로그램에 대한 등록 여부를 결정하고, 새 고객을 등록하며, 고객에게 Microsoft 제품 및 서비스를 판매하고, 청구서를 조정하는 데 필요한 여러 문서를 게시합니다.
 
-## <a name="in-this-section"></a>이 섹션의 내용
+이 문서의 정보를 검토하여 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 참여하기 위한 요구 사항을 이해하세요. 
 
-
--   [프로그램 가이드](#programguide)
-
--   [클라우드 솔루션 공급자 - 파트너 계약](#partneragreement)
-
--   [고객 계약 템플릿](#customeragreementtemplate)
-
--   [가격 책정](#pricing)
-
--   [제품](#offers)
-
-## <a href="" id="programguide"></a>프로그램 가이드
+## <a href="" id="programguide"></a>클라우드 솔루션 공급자 프로그램 가이드
 
 
-이 가이드는 클라우드 솔루션 공급자 파트너로서 고객에게 제품을 재판매하기 위한 요구 사항을 정의합니다.
+클라우드 솔루션 공급자 프로그램에서 파트너가 되기 위한 요구 사항을 검토하세요.
 
 [클라우드 솔루션 공급자 파트너용 프로그램 가이드](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-## <a href="" id="partneragreement"></a>클라우드 솔루션 공급자 - 파트너 계약
+## <a href="" id="partneragreement"></a>클라우드 솔루션 공급자 파트너 계약
 
 
-Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다. 판매하려는 지역/국가에 적합한 가이드를 선택해야 합니다.
+Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다. 제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.
 
 [Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해](http://go.microsoft.com/fwlink/p/?LinkId=617094)
 
@@ -55,32 +46,30 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](https://go.microsoft.com/fwlink/p/?linkid=831385)
 
+[Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](https://go.microsoft.com/fwlink/p/?linkid=843364)
+
 ## <a href="" id="customeragreementtemplate"></a>고객 계약 템플릿
 
 
-파트너는 고객이 Microsoft 계약조건(Microsoft 제품 및 서비스의 사용 제한 포함)을 이해하고 이에 동의하도록 할 책임이 있습니다. Microsoft는 파트너가 새 고객을 등록할 때 처리할 자료용 템플릿을 파트너에게 제공합니다.
+귀하는 CSP 파트너로서 고객과 함께 Microsoft 제품 및 서비스의 사용 제한을 포함하여 Microsoft 사용 약관을 검토할 책임이 있습니다. 아래 링크를 따라 이동하여 신규 고객과 함께 검토해야 할 고객 계약을 찾아 보세요. 
 
 [고객 계약 템플릿](agreements.md)
 
 ## <a name="pricing"></a>가격 책정
 
 
-**영업** 페이지에서 파트너용 가격 책정 세부 정보를 다운로드할 수 있습니다. 두 개의 가격표가 있습니다. 하나는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM을 비롯한 라이선스 기준 서비스용 가격표이고 다른 하나는 Microsoft Azure를 비롯한 사용량 기준 서비스용 가격표입니다.
+**대시보드** 메뉴에 제공되는 **가격 및 제품** 페이지에서 라이선스 기준 및 사용량 기준 서비스에 대한 가격 책정 세부 정보를 다운로드합니다. 
 
-라이선스 기준 가격표는 매달 업데이트되며, Microsoft는 적용 30일 전에 새 가격 책정을 릴리스합니다.
+라이선스 기준 가격표는 매달 업데이트되며, Microsoft는 적용 30일 전에 새 가격 책정을 릴리스합니다. 라이선스 기준 서비스의 예로는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM이 있습니다. 
 
-사용량 기준 가격 책정은 동적이며 지속적으로 변합니다.
-
-## <a name="offers"></a>제공
+사용량 기준 가격 책정은 동적이며 자주 바뀝니다. 사용량 기준 서비스의 예로는 Microsoft Azure가 있습니다.
 
 
-CSP 파트너는 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure를 판매할 수 있습니다. 이러한 제품군 내에서 판매할 수 있는 SKU 및 제품 번들에 대한 자세한 내용을 참조할 수 있도록 Microsoft는 **영업** 페이지에 클라우드 재판매인 제품표를 게시합니다. 이 문서는 매달 업데이트됩니다.
+## <a name="offers"></a>제품
 
-CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 **영업** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
- 
+귀하는 CSP 파트너로서 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure를 판매할 수 있습니다. 이러한 제품군 내에서 판매할 수 있는 제품 번들에 대한 자세한 내용은 **대시보드** 메뉴에 제공되는 **가격 및 제품** 페이지의 CSP 제품표를 참조하세요. 이 문서는 매달 업데이트됩니다.
 
- 
-
+CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
 

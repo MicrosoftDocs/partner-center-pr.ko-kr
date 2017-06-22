@@ -3,15 +3,17 @@ title: "청구 지원 제공 | 파트너 센터"
 description: "귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다.

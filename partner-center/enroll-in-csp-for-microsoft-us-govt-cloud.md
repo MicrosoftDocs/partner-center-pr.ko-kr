@@ -2,9 +2,11 @@
 title: "미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록 | 미국 정부용 Microsoft 클라우드 파트너 센터"
 description: "미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요."
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -18,7 +20,7 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너는 미
 
 자세한 내용은 [미국 정부용 Microsoft 클라우드 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)를 참조하세요.
 
-CSP(클라우드 솔루션 공급자) 프로그램에 등록하려면 먼저 새 Microsoft Azure Government 계정을 만들어야 합니다. 이 계정을 만들려면 [Microsoft 정부 클라우드 검사 양식](https://aka.ms/azgovcspreq)을 작성하여 <azgovcsp@microsoft.com>으로 이메일을 보내주세요.
+CSP(클라우드 솔루션 공급자) 프로그램에 등록하려면 먼저 새 Microsoft Azure Government 계정을 만들어야 합니다. 이 계정을 만들려면 [Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 작성하여 <azgovcsp@microsoft.com>으로 이메일을 보내주세요.
 
 >**중요**<br>
 기존 파트너 센터 계정이 있고 미국 정부용 Microsoft 클라우드의 CSP에 등록하려는 경우 미국 정부용 Microsoft 클라우드 파트너 센터에 대한 별도의 계정을 새로 만들어야 합니다.<Government></Government>
@@ -35,7 +37,7 @@ CSP(클라우드 솔루션 공급자) 프로그램에 등록하려면 먼저 새
 
 1.  등록 프로세스를 시작합니다. 
 
-2.  Microsoft Azure에 사용할 조직의 미국 정부용 Microsoft 클라우드 계정에 대한 전역 관리자 자격 증명으로 로그인합니다. 이 포털의 조직 계정이 없는 경우 [Microsoft 정부 클라우드 검사 양식](https://aka.ms/azgovcspreq)을 작성하여 <azgovcsp@microsoft.com>으로 이메일을 보내면 계정을 만들 수 있습니다.
+2.  Microsoft Azure에 사용할 조직의 미국 정부용 Microsoft 클라우드 계정에 대한 전역 관리자 자격 증명으로 로그인합니다. 이 포털의 조직 계정이 없는 경우 [Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 작성하여 계정을 만들 수 있습니다.
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>2단계 - 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 파트너 지원 신청

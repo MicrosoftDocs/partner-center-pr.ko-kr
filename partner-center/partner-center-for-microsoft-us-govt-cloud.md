@@ -2,9 +2,11 @@
 title: "미국 정부용 Microsoft 클라우드 파트너 센터 | 미국 정부용 Microsoft 클라우드 파트너 센터"
 description: "미국 정부용 Microsoft 클라우드 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다."
 author: MaggiePucciEvans
-ms.openlocfilehash: 38bdfa4ca862dc2cfb6854505c43d83cc4a252bd
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 2eac70334691c353310d21168c2f48e3bea452c5
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터
 
@@ -34,7 +36,7 @@ translationtype: HT
 - 파트너 찾기
 - 마케팅 프로필
 - 조회
-- 기존 고객(다중 채널, 다중 파트너)과의 관계 요청
+- 고객과 재판매인 관계 요청(다중 채널, 다중 파트너)
 - 라이선스 분석
 - 고객 정보
 - 간접 재판매인/공급자 모델 및 설정

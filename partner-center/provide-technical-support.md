@@ -3,15 +3,17 @@ title: "기술 지원 제공 | 파트너 센터"
 description: "클라우드 솔루션 공급자 파트너에게는 고객 환경에 액세스할 수 있는 위임된 관리자 권한이 있습니다."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
 ---
 # <a name="provide-technical-support"></a>기술 지원 제공
 
 **적용 대상**
 
 -  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 클라우드 솔루션 공급자 파트너에게는 고객 환경에 액세스할 수 있는 위임된 관리자 권한이 있습니다. 이러한 권한에 따라 고객 구독을 직접 지원, 구성, 관리할 수 있습니다.
