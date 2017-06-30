@@ -3,11 +3,11 @@ title: "사용자 계정 만들기 및 권한 설정 | 파트너 센터"
 description: "관리자는 파트너 센터에 액세스해야 하는 각 파트너 직원을 위한 사용자 계정을 만듭니다."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 권한 할당
 
@@ -65,6 +65,8 @@ ms.lasthandoff: 05/25/2017
 <td><p><strong>관리자 에이전트</strong></p></td>
 <td><ul>
 <li><p>고객 관리</p></li>
+<li><p>파트너 센터에 디바이스 목록 추가</p></li>
+<p><li>프로필을 만들고 디바이스에 적용</p></li>
 <li><p>구독 관리</p></li>
 <li><p>고객의 서비스 상태 및 서비스 요청</p></li>
 <li><p>위임된 관리자 권한 요청</p></li>
@@ -82,6 +84,7 @@ ms.lasthandoff: 05/25/2017
 <td><p><strong>영업 에이전트</strong></p></td>
 <td><ul>
 <li><p>고객 관리</p></li>
+<li><p>파트너 센터에 디바이스 목록 추가</p></li>
 <li><p>구독 관리</p></li>
 <li><p>지원 티켓 보기</p></li>
 <li><p>고객과의 관계 요청</p></li>

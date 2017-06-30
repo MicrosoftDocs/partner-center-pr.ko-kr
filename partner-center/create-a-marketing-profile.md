@@ -3,11 +3,11 @@ title: "마케팅 프로필 만들기 | 파트너 센터"
 description: "파트너 센터에서 마케팅 프로필을 만들어 더 많은 잠재 고객을 모집하세요."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>마케팅 프로필 만들기
 
@@ -30,7 +30,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 
 1.  [파트너 센터](http://go.microsoft.com/fwlink/p/?LinkId=808956)의 **대시보드** 메뉴에서 **조회** &gt; **마케팅 프로필** &gt; **[마케팅 프로필 추가](https://partnercenter.microsoft.com/pcv/publishing)**를 선택합니다.
 
-2.    **마케팅 프로필 만들기** 페이지에서 지역을 선택한 다음 파트너 정보 및 전문 분야를 포함하여 프로필 정보를 입력합니다.
+2.  **마케팅 프로필 만들기** 페이지에서 지역을 선택한 다음 파트너 정보 및 전문 분야를 포함하여 프로필 정보를 입력합니다.
 
     첫 번째 프로필을 완료한 후 나중에 **기존 프로필에서 복사**를 선택하여 이 프로필을 기반으로 추가 프로필을 만들 수 있습니다.
 
@@ -83,11 +83,9 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 #### <a href="" id="#target_size"></a>대상 규모
 
-파트너가 수신하는 조회 유형을 조정할 수 있도록 파트너는 특정 규모의 회사하고만 협력하도록 기본 설정을 추가할 수 있습니다. 이러한 기본 설정을 추가하면 대상 규모와 맞지 않는 회사의 조회는 옵트아웃됩니다.
+대상 고객 크기를 충족하지 않은 회사의 조회를 옵트아웃할 수 있습니다.
 
-고객 검색 결과에서는 파트너의 응답성을 인수로 사용합니다. 들어오는 고객 요청에 신속하게 응답하면 향후 검색에서 회사의 가시성을 높이는 데 도움이 됩니다.
-
-대상 고객 규모에 맞지 않는 고객의 조회를 옵트아웃하면 전체적인 응답성을 높이는 데 도움이 됩니다.
+이렇게 하면 함께 일하고 싶은 회사와 일치하는 회사에 더 많은 시간을 투자할 수 있습니다.
 
 ### <a href="" id="#locations"></a> 위치
 

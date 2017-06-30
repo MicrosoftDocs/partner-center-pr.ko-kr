@@ -3,11 +3,11 @@ title: "고객과의 관계 요청 | 파트너 센터"
 description: "관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 귀사의 위임된 관리자 권한을 제거했기 때문에 귀사에서 프로비전 또는 지원을 제공하려면 위임된 관리자 권한을 복원해야 하는 경우에도 유용합니다."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -40,13 +40,6 @@ ms.lasthandoff: 06/09/2017
 >**중요**<br>
 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 요청하면 파트너는 고객 대신 Microsoft 지원 센터로 전화를 걸어 서비스 요청을 열 수 있습니다.
 
+## <a name="related-topics"></a>관련 항목
 
-
-
-
- 
-
- 
-
-
-
+[관계 제거](remove-a-relationship.md)

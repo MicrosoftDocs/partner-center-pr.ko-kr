@@ -2,10 +2,11 @@
 title: "미국 정부용 Microsoft 클라우드 파트너 센터에서 사용자 및 라이선스 관리 | 미국 정부용 Microsoft 클라우드 파트너 센터"
 description: "개인 정보의 수집 및 사용에 대한 국가별, 지역별, 산업별 요구 사항을 준수하기 위해 미국 정부용 Microsoft 클라우드 파트너 센터에는 사용자 관리 기능이 제공되지 않습니다. 그 대신 미국 정부용 Microsoft 클라우드 Azure Portal에서 사용자를 추가하고 관리할 수 있습니다."
 author: MaggiePucciEvans
-ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
-ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.openlocfilehash: 96b6bc85a1b6d136814792a2cf138d51a263ef0a
+ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 06/15/2017
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -13,7 +14,7 @@ ms.contentlocale: ko-KR
 
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 
-다음 파트너 센터 작업은 미국 정부용 Microsoft 클라우드의 Azure 관리 포털을 사용하여 관리됩니다.
+다음 작업은 미국 정부용 Microsoft 클라우드의 Azure 관리 포털에서 관리됩니다.
 
 - 파트너 사용자 관리
 
@@ -24,7 +25,7 @@ ms.contentlocale: ko-KR
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 Azure Portal에서 사용자를 관리하는 방법
 
-미국 정부용 Microsoft 클라우드 파트너 센터에 로그인하면 다시 로그인할 필요 없이 미국 정부용 Microsoft 클라우드 Azure Portal을 열 수 있습니다. 그러나 미국 정부용 Microsoft 클라우드 Azure Portal에 바로 로그인해야 하는 경우 https://portal.microsoftazure.de로 이동하세요. 
+미국 정부용 Microsoft 클라우드 파트너 센터에 로그인하면 다시 로그인할 필요 없이 미국 정부용 Microsoft 클라우드 Azure Portal을 열 수 있습니다. 그러나 미국 정부용 Microsoft 클라우드의 Azure Portal에 직접 로그인해야 하는 경우 (https://portal.azure.us/)로 이동하여 미국 정부용 Microsoft 클라우드의 Azure AD 테넌트에 대한 전역 관리자 자격 증명을 사용하여 로그인하세요.
 
 미국 정부용 Microsoft 클라우드 Azure Portal에 로그인한 후 Azure AD(Azure Active Directory) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.
 
