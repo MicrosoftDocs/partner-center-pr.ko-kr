@@ -3,11 +3,11 @@ title: "조회에 응답 | 파트너 센터"
 description: "파트너 센터를 통해 조회를 평가하고, 협상하고, 응답하세요."
 author: KPacquer
 keywords: "조회, RFI, 파트너 찾기"
-ms.openlocfilehash: ec859a9cac94b3e4b3571ba95e2acc0de9a842b1
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>파트너 센터에서 조회에 응답
 
@@ -23,7 +23,7 @@ ms.lasthandoff: 05/19/2017
 
 *  Microsoft 마케팅 활동
 *  Microsoft 내부 영업 및 서비스 에이전트
-*  고객이 **파트너 찾기** 도구를 사용하여 검색합니다.
+*  고객이 **[파트너 찾기](https://partnercenter.microsoft.com/pcv/search)** 도구를 사용하여 검색합니다.
 
 고객이 귀사에 관심이 있다면 RFI(정보 요청서)를 제출할 것입니다. 
 

@@ -1,30 +1,30 @@
 ---
-title: "제로 터치 배포 프로필을 추가하여 Windows Autopilot으로 간단하게 디바이스 설치 | 파트너 센터"
-description: "파트너 센터에서 제로 터치 배포 프로필을 추가하여 Windows Autopilot으로 간단하게 디바이스 설치"
+title: "Windows Autopilot으로 디바이스 설치 간소화 | 파트너 센터"
+description: "파트너 센터에서 Windows AutoPilot 배포 프로필을 추가하여 Windows Autopilot으로 간단하게 디바이스 설치"
 author: KPacquer
-keywords: "autopilot, windows autopilot, microsoft autopilot, 제로 터치, 제로 터치 배포, oobe, 로그인 화면"
+keywords: "autopilot, windows autopilot, microsoft autopilot, 제로 터치 배포, oobe, 로그인 화면"
 robots: NOINDEX,NOFOLLOW
-ms.openlocfilehash: c51d9204b352b548a4095e96944aacdbcde97fa2
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: aa650ee5f2848694fe44d4751d52f8014e0d22a8
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 07/01/2017
 ---
-# <a name="add-a-zero-touch-deployment-profile-to-simplify-device-setup-with-windows-autopilot"></a>제로 터치 배포 프로필을 추가하여 Windows Autopilot으로 간단하게 디바이스 설치
+# <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot으로 디바이스 설치 간소화 
 
-Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows 10 Pro 디바이스의 설치를 간소화하고 보호할 수 있습니다. 
+Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows 10 Pro 디바이스의 설치를 간소화하고 보호합니다. 자세한 내용은 [Windows AutoPilot 개요](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)를 참조하세요.
 
 ## <a name="features"></a>기능
 
 *  디바이스를 설치하는 최종 사용자에 대해 **로컬 관리자 권한 해제**
 *  **조직의 로그인 페이지 표시**. 조직에서는 디바이스를 회사 디바이스로 추가하고 Azure Active Directory에 가입하는 로그온 페이지를 미리 정의할 수 있습니다.
-*  OOBE가 완료된 후 Microsoft Intune 같은 **MDM에 디바이스 등록**.
-*  꼭 필요한 단계와 의사 결정 항목만 사용하도록 ZTD(제로 터치 배포) 프로필을 사용하여 **OOBE(첫 실행 경험) 간소화**. 
+*  OOBE가 완료된 후 Microsoft Intune 같은 **MDM(Mobile Device Manager)에 디바이스 등록**.
+*  꼭 필요한 단계와 의사 결정 항목만 사용하도록 Windows AutoPilot 배포 프로필을 사용하여 **OOBE(첫 실행 경험) 간소화**. 
 
 ## <a name="requirements"></a>요구 사항
 
 *  Windows 10 Pro 크리에이터스 업데이트(1703 이상)가 미리 설치된 디바이스
-*  하드웨어 해시로 알려진 디바이스 식별자(128 HWH 또는 4k HWH). 일반적으로 OEM에서 제공합니다. 식별자를 사용하여 파트너 센터에서 조직 프로필을 할당할 것입니다.
+*  하드웨어 해시로 알려진 디바이스 식별자(128 HWH 또는 4k HWH). 일반적으로 OEM에서 제공합니다. 식별자를 사용하여 파트너 센터에서 조직 프로필을 할당할 것입니다. 2017년 8월 이후부터는 더 이상 하드웨어 해시가 필요 없습니다. 
 *  디바이스가 인터넷에 액세스할 수 있어야 합니다. 디바이스를 연결할 수 없는 경우 기본 Windows OOBE(첫 실행 경험) 화면이 표시됩니다.
 *  디바이스를 MDM에 등록하려면 Azure Active Directory Premium이 필요합니다.
 
@@ -33,9 +33,9 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 조직 관련 페이지를 추가하려면 디바이스를 조직의 [Azure AD 디렉터리](https://go.microsoft.com/fwlink/?linkid=848958)에 추가하고 로그인 페이지를 만듭니다.
 
 
-## <a name="remove--windows-pages-from-oobe-with-a-zero-touch-deployment-ztd-profile"></a>ZTD(제로 터치 배포) 프로필을 사용하여 OOBE에서 Windows 페이지 제거
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 배포 프로필을 사용하여 OOBE에서 Windows 페이지 제거
 
-### <a name="examples-of-settings-in-a-ztd-profile"></a>ZTD 프로필의 설정 예
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 배포 프로필의 설정 예
 *  설치 시 개인 정보 설정 건너뛰기
 *  설치 시 로컬 관리자 계정 비활성화
 *  설치 시 자동으로 페이지 건너뛰기
@@ -44,19 +44,21 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 
 ### <a name="add-devices-and-apply-a-profile"></a>디바이스를 추가하고 프로필 적용
 
-파트너 센터에서 ZTD 프로필을 만들어 디바이스 목록에 적용할 수 있습니다.
+파트너 센터에서 Windows AutoPilot 배포 프로필을 만들어 디바이스 목록에 적용할 수 있습니다.
 
 디바이스를 구성하려면 디바이스 목록을 파트너 센터에 업로드하고, 해당 디바이스에 적용되는 프로필을 만들어서 적용합니다.
 
 1.  디바이스 목록을 파트너 센터에 추가합니다. (영업 에이전트와 관리자 에이전트는 디바이스 목록을 파트너 센터에 추가할 수 있는 권한을 갖습니다.)
 
-    a.  새 디바이스를 보여주는 .csv 파일을 OEM에 요청합니다. 이 파일에는 일련 번호, 제품 ID, OEM Activation 3.0 도구에서 생성된 디바이스 식별자가 포함되어 있습니다. 
+    a.  [Windows AutoPilot 개요](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot) 항목의 PowerShell 스크립트를 사용하여 .csv 파일을 만듭니다. 이 .csv 파일에는 일련 번호, OEM 이름, 모델 이름, 제품 ID, 디바이스 식별자를 포함한 디바이스 정보가 포함되어 있습니다. 
 
     b.  파트너 센터 대시보드에서 **고객** > select the customer that’s receiving the devices > **장치 > 장치 추가**로 이동합니다.
 
     c.  디바이스의 일괄 처리 이름을 지정합니다(예: “Contoso 영업 부서 PC – 2017년 4월 주문”). 
 
     d.  **찾아보기** > 장치 정보 파일 선택 > **유효성 검사**를 클릭합니다.
+
+    **참고:** .csv 파일을 업로드한 후 오류 메시지가 나타나면 파일 형식을 확인합니다. 8월 이후에는 하드웨어 해시만 사용하거나 OEM 이름, 일련 번호 및 모델을 해당 열의 순서대로 사용하거나 Windows 제품 ID를 사용할 수 있습니다. **장치 추가** 옆에 있는 링크에서 제공하는 샘플 .csv 파일을 사용할 수도 있습니다.
 
 2.  디바이스에 적용할 수 있는 프로필을 만듭니다. (오직 관리자 에이전트만이 파트너 센터에서 프로필을 만들고 적용할 수 있습니다.)
 
@@ -94,6 +96,4 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 
 3. 제거하려는 프로필로 이동하여 해당 프로필을 삭제합니다. 모든 디바이스에서 해당 프로필이 삭제됩니다.
 
-
 **장치**에서 해당 프로필을 선택합니다. 여기서 기존 설정을 수정할 수 있습니다.
-

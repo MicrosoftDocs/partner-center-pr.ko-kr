@@ -3,12 +3,21 @@ title: "마케팅 프로필 만들기 | 파트너 센터"
 description: "파트너 센터에서 마케팅 프로필을 만들어 더 많은 잠재 고객을 모집하세요."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>마케팅 프로필 만들기
 
 **적용 대상**
@@ -24,15 +33,19 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 *  **[파트너 찾기](https://partnercenter.microsoft.com/pcv/search) 검색 환경**. 잠재 고객이 파트너 목록을 직접 검색하여 검색 조건을 충족하는 파트너를 찾을 수 있습니다. 
 *  **Microsoft 영업 및 서비스 직원의 소개**. 클라우드 기반 기술 솔루션을 배포하는 데 관심이 있는 잠재 고객은 비즈니스 요구 사항을 충족할 수 있는 전문가를 찾기 위해 Microsoft에 도움을 요청합니다. 그러면 Microsoft 전문가가 잠재 고객을 파트너에게 소개할 수 있습니다.
 
+**Pinpoint, C2PC 및 Sales Connect 사용자**: 이러한 도구를 파트너 센터에 통합할 것입니다. 과거에 이러한 도구를 사용한 경우 계속해서 잠재 고객을 생성하고 관리하려면 파트너 센터에서 새 마케팅 프로필을 만드세요. 이전 사이트에서 프로필 가져오기는 현재 지원되지 않습니다. 
+
 ## <a name="create-a-profile"></a>프로필 만들기
 
-사업 허가를 받은 각 국가에 대한 프로필을 만듭니다.
+사업 허가를 받은 각 지역에 대한 프로필을 만듭니다. 
 
-1.  [파트너 센터](http://go.microsoft.com/fwlink/p/?LinkId=808956)의 **대시보드** 메뉴에서 **조회** &gt; **마케팅 프로필** &gt; **[마케팅 프로필 추가](https://partnercenter.microsoft.com/pcv/publishing)**를 선택합니다.
+1.  [전역 관리자 또는 관리자 에이전트 계정](create-user-accounts-and-set-permissions.md)을 사용하여 [파트너 센터](http://go.microsoft.com/fwlink/p/?LinkId=808956)에 로그인합니다.
 
-2.  **마케팅 프로필 만들기** 페이지에서 지역을 선택한 다음 파트너 정보 및 전문 분야를 포함하여 프로필 정보를 입력합니다.
+2.  **대시보드** 메뉴에서 **조회** &gt; **마케팅 프로필** &gt; **[마케팅 프로필 추가](https://partnercenter.microsoft.com/pcv/publishing)**를 선택합니다.
 
-    첫 번째 프로필을 완료한 후 나중에 **기존 프로필에서 복사**를 선택하여 이 프로필을 기반으로 추가 프로필을 만들 수 있습니다.
+3.  **마케팅 프로필 만들기** 페이지에서 지역을 선택한 다음 파트너 정보 및 전문 분야를 포함하여 프로필 정보를 입력합니다.
+    
+    파트너 센터에서 여러 언어를 지원하지만 이 항목에 언급된 것처럼 설명, 자유 형식 태그 등의 일부 요소는 여러 언어의 텍스트를 포함해야 할 수도 있습니다.
 
 ### <a href="" id="partner_info"></a>파트너 정보
 
@@ -49,6 +62,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 *  **설명을 검색 키워드로 채울 필요가 없습니다**. 고객 검색 도구는 설명이 아닌 파트너 전문 분야 섹션에서 생성된 키워드를 검색합니다.
 *  **프로필을 최신 상태로 유지합니다**. 소프트웨어 또는 서비스가 출시될 때마다 프로필을 업데이트하여 회사 웹 사이트와 동기화 상태를 유지합니다.
 *  다른 Microsoft 파트너 회사가 귀사의 자회사 또는 계열사이거나, 귀사가 해당 파트너 회사와 파트너 관계로 행동하거나, 공유 작업 기회를 얻기 위해 서로 홍보하기로 한 현재 계약이 있는 경우 외에는 **이름으로 다른 Microsoft 파트너 회사를 지칭하지 않습니다**.
+*  **여러 언어가 있는 지역의 경우** 설명에 여러 언어의 텍스트를 포함하는 방안을 고려합니다.
 
 #### <a href="" id="linkedin"></a> LinkedIn 회사 페이지: 더 많은 연결 방법
 
@@ -70,7 +84,7 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 *  **솔루션, 기술 및 기능**. 이러한 태그는 자유 형식이며, 각 파트너의 기능에 맞는 고유한 검색 키워드를 추가할 수 있는 기능을 제공합니다.
 
 검색에 사용되는 기타 태그:
-*  **[역량 태그](https://partner.microsoft.com/membership/competencies)**는 파트너가 획득한 명칭으로써 회사의 능력을 보여 줍니다.
+*  **역량 태그**는 파트너가 획득한 명칭으로써 회사의 능력을 보여 줍니다.
 *  **보증 태그**는 Microsoft 또는 파트너와 함께 일한 고객이 파트너의 실력을 보증할 때 획득할 수 있습니다.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
@@ -93,11 +107,17 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 확인 가능한 공식 회사 위치를 사용하세요. 사업을 진행하고 있는 지역/국가의 중심부에 위치하고 있고 회사의 역량을 가장 잘 나타내는 위치를 선택하세요.
 
+추가하는 각 위치는 별도 프로필 페이지가 됩니다. 프로필 페이지를 업데이트할 때 반드시 각 위치에 대해 프로필 페이지를 업데이트해야 합니다.
+
+## <a name="review-your-profile"></a>프로필 검토
+
+프로필을 게시한 후 24시간 내에 [파트너 찾기](https://partnercenter.microsoft.com/pcv/search) 검색에 업데이트가 나타납니다. 
+
 ## <a name="improve-the-visibility-of-your-profile"></a>프로필의 가시성 향상 
 
 *  **[요청에 신속하게 응답하세요](responding-to-referrals.md)**. 고객 조회를 받은 후 신속하게 응답할수록 향후 고객의 검색 페이지에서 보다 좋은 결과를 얻을 수 있습니다.
 *  **태그를 신중하게 선택하세요**.  회사의 제품, 솔루션, 가치 제안 및 일관적으로 성공을 보여줄 수 있는 고유의 포지션을 가장 잘 나타내는 태그를 되도록이면 적게 사용하는 것이 좋습니다.  이렇게 하면 향후 검색 결과에서 좋은 성과를 얻을 수 있습니다.
-*  Microsoft를 통해 **[역량 태그](https://partner.microsoft.com/membership/competencies)를 획득**하여 Microsoft 제품에 대한 숙련도를 보여줍니다.
+*  Microsoft를 통해 **역량 태그를 획득하여** Microsoft 제품에 대한 숙련도를 보여줍니다.
 *  협력에 만족한 고객으로부터 **보증 태그를 획득합니다**.
 
 ## <a name="related-topics"></a>관련 항목

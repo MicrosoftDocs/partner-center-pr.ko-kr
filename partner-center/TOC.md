@@ -37,7 +37,6 @@
 ## [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ## [다수의 사용자에게 라이선스 할당 및 해지](bulk-license-provisioning-for-multiple-users.md)
 ## [구독 일시 중단](suspend-a-subscription.md)
-## [재판매인 또는 고객과의 관계 제거](remove-a-relationship.md)
 ## [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
 ## [Dynamics AX 구독을 Dynamics 365로 마이그레이션](manual-subscription-migration.md)
 ## [Office 365 Enterprise E4 구독을 최신 Office 365 버전으로 마이그레이션](migrate-office365-e4-subscriptions-to-newer-versions.md)

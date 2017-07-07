@@ -3,9 +3,11 @@ title: "CSP의 Office 365 E5 Single SKU 가용성 | 파트너 센터"
 description: "CSP에서 Office 365 Enterprise E5 Single SKU를 사용할 수 있으며 이 SKU는 PSTN 회의를 포함합니다."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 파트너 공지: CSP의 Office 365 E5 Single SKU 가용성
 
@@ -30,12 +32,12 @@ translationtype: HT
 ## <a name="details"></a>세부 정보
 
 
-미국 및 푸에르토리코에서 비즈니스용 Skype PSTN 서비스는 특별세 및 규제 요구 사항의 적용을 받습니다. Microsoft에서는 세금을 포함한 형태로 PSTN 서비스의 가격을 책정합니다. 고유한 PSTN 세금 및 규제는 새 통합 Office 365 E5 제품을 거래하는 Office 365 파트너에게 영향을 줍니다. 파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
+미국, 푸에르토리코 및 캐나다에서 비즈니스용 Skype PSTN 서비스는 특별세 및 규제 요구 사항의 적용을 받습니다. Microsoft에서는 세금을 포함한 형태로 PSTN 서비스의 가격을 책정합니다. 고유한 PSTN 세금 및 규제는 새 통합 Office 365 E5 제품을 거래하는 Office 365 파트너에게 영향을 줍니다. 파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
 
 ## <a name="price-list-and-catalog-availability"></a>가격표 및 카탈로그 가용성
 
 
-많은 CSP 파트너는 API를 통해 해당 주문 관리 시스템과 Microsoft 상거래 플랫폼을 통합하는 데 긴 리드 타임이 필요합니다. 파트너가 해당 시스템이 Office 365 Enterprise E5 Single SKU를 거래할 준비를 하기 전에 E5 기회를 마감할 수 있도록 다음 SKU는 2017년 7월 1일까지 CSP 가격표에 유지됩니다.
+많은 CSP 파트너는 API를 통해 해당 주문 관리 시스템과 Microsoft 상거래 플랫폼을 통합하는 데 긴 리드 타임이 필요합니다. 파트너가 해당 시스템이 Office 365 Enterprise E5 Single SKU를 거래할 준비를 하기 전에 E5 기회를 마감할 수 있도록 다음 SKU는 2017년 7월 1일까지 CSP 가격표에 유지됩니다. 
 
 -   Office 365 Enterprise E5(PSTN 회의 제외)
 -   PSTN 회의 추가 기능 SKU(PSTN 지원 지역/국가에서)
@@ -53,6 +55,7 @@ translationtype: HT
 **제품 ID**
 
 **단가**
+
 
 **ERP**
 
