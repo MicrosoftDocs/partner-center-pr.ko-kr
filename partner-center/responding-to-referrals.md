@@ -1,72 +1,72 @@
 ---
-title: "조회에 응답 | 파트너 센터"
-description: "파트너 센터를 통해 조회를 평가하고, 협상하고, 응답하세요."
+title: Responding to referrals | Partner Center
+description: Evaluate, negotiate, and respond to referrals through Partner Center.
 author: KPacquer
-keywords: "조회, RFI, 파트너 찾기"
-ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+keywords: referral, RFI, Find a Partner
+ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>파트너 센터에서 조회에 응답
+# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
 
-**적용 대상**
+**Applies to**
 
--  파트너 센터
+-  Partner Center
 
-자격을 갖춘 Microsoft 파트너는 파트너 센터 조회를 통해 잠재 고객 정보를 받을 수 있습니다. 들어오는 잠재 고객을 관리하고, 회사와 잘 맞는 잠재 고객에게는 신속하게 응답하고, 그렇지 않은 잠재 고객은 건너뛰거나 거절합니다. 들어오는 잠재 고객 유형을 검토합니다. 
+As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
 
-## <a name="referral-management"></a>조회 관리
+## <a name="referral-management"></a>Referral management
 
-가장 먼저 사업을 하고 있는 각 지역의 [마케팅 프로필](create-a-marketing-profile.md)을 설정합니다. 프로필이 활성화되면 다음을 통해 고객을 귀사로 안내해 드릴 수 있습니다.
+Start by setting up a [marketing profile](create-a-marketing-profile.md) for each region where you do business. Once your profile is active, we’ll be able to direct customers to your business, through:
 
-*  Microsoft 마케팅 활동
-*  Microsoft 내부 영업 및 서비스 에이전트
-*  고객이 **[파트너 찾기](https://partnercenter.microsoft.com/pcv/search)** 도구를 사용하여 검색합니다.
+*  Microsoft marketing activities
+*  Internal Microsoft sales and service agents
+*  Customer searches, using the **[Find a partner](https://partnercenter.microsoft.com/pcv/search)** tool.
 
-고객이 귀사에 관심이 있다면 RFI(정보 요청서)를 제출할 것입니다. 
+When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
 
-고객이 정보 요청서를 제출하면 선택하신 지역 및 위치의 [마케팅 프로필](create-a-marketing-profile.md)에 표시된 연락처로 전자 메일이 발송됩니다. 파트너 센터에서 **대시보드 > 조회 > 고객 조회**로 이동하여 들어오는 RFI를 볼 수도 있습니다.
+When that happens, we’ll send email to the contact listed in your [marketing profile](create-a-marketing-profile.md) specific to the region and location selected. You can also see incoming RFIs in Partner Center: go to **Dashboard > Referrals > Customer referrals**.
 
-고객이 동시에 여러 회사에 동일한 RFI를 보내는 경우도 종종 있습니다. 성공 확률을 높이려면 24시간 내에 새 조회에 응답하고 수락 또는 거절하는 것이 좋습니다.
+Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
 
-### <a name="new-referrals"></a>새 조회
+### <a name="new-referrals"></a>New referrals
 
-RFI의 개요를 보여 드리겠습니다. 여기서 조회에 대해 좀 더 자세히 알아볼 것인지 여부를 결정할 수 있습니다. 
+We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
 
-*  **관심 있음**: 해당 조회가 **평가**로 이동되고, 해당 고객과 제품에 대한 모든 세부 정보를 볼 수 있습니다. 
-*  **관심 없음**: 해당 조회가 **건너뜀**으로 보관됩니다. 고객에게 다른 파트너를 선택하라는 안내문이 전달됩니다.
-*  72시간 내에 응답하지 않으면 해당 조회는 **누락됨**으로 보관됩니다. 고객에게 다른 파트너를 선택하라는 안내문이 전달됩니다.
+*  **I’m interested**: We’ll move the referral to **Evaluating**, and you’ll see the full details about the customer and the offer. 
+*  **No thanks**: We’ll archive it as **Skipped**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 72 hours, we’ll archive it as **Missed**. We’ll notify the customer to choose a different partner.
 
-### <a name="evaluating-referrals"></a>조회 평가
+### <a name="evaluating-referrals"></a>Evaluating referrals
 
-세부 정보를 검토하고 고객에게 연락합니다. 고객의 비즈니스 요구 사항에 대해 이야기를 나누고, 고객의 요구 사항을 해결할 수 있는 제품이 있는지 확인합니다. 조회를 수락 또는 거절: 
+Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
 
-*  **수락**: 예상 거래 금액, 예상 완료 날짜를 입력하고 **수락**을 선택합니다. 이 정보는 비슷한 거래를 검색하는 데 사용됩니다. 해당 조회가 **협상 중**으로 이동됩니다. 이는 귀사가 고객의 요구 사항을 해결하기 위해 고객과 적극적으로 소통할 계획이라는 뜻입니다.
-*  **거절**: 해당 조회가 **거절됨**으로 보관됩니다. 고객에게 다른 파트너를 선택하라는 안내문이 전달됩니다.
-*  7일 내에 응답하지 않으면 해당 조회가 **만료됨**으로 보관됩니다. 고객에게 다른 파트너를 선택하라는 안내문이 전달됩니다.
+*  **Accept**: Enter the estimated deal value, the estimated closing date, and select **Accept**. We’ll use this information to help you find similar deals. We’ll move the referral to **Negotiating**. This tells us that you plan to actively engage with the customer to address their need.
+*  **Decline**: We’ll archive it as **Declined**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 7 days, we’ll archive it as **Expired**. We’ll notify the customer to choose a different partner.
 
-### <a name="negotiating-referrals"></a>협상 중인 조회
+### <a name="negotiating-referrals"></a>Negotiating referrals
 
-고객과 협력하여 거래를 완료하세요. 거래에 성공 또는 실패하면 저희에게 알려주시고, 해당 거래를 **성공** 또는 **실패**로 보관하세요. 
+Work to close the deal with the customer. Let us know if you won or lost the deal, and archive it as **Won** or **Lost**. 
 
-### <a name="archived-referrals"></a>보관된 조회
+### <a name="archived-referrals"></a>Archived referrals
 
-언제든지 지난 조회(**성공, 실패, 건너뜀, 거절됨** 또는 **만료됨**)를 검토할 수 있습니다. 
+Review your past referrals (**won, lost, skipped, missed, declined** or **expired**) at any time. 
 
-## <a name="getting-more-referrals"></a>더 많은 조회 받기
+## <a name="getting-more-referrals"></a>Getting more referrals
 
-다음은 귀사에 적합한 조회를 더 많이 받을 수 있는 몇 가지 팁입니다.
+Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
 
-*  **팀이 들어오는 알림을 받을 수 있도록 각 지역의 [마케팅 프로필](create-a-marketing-profile.md)**에서 연락처 정보를 검토합니다.
+*  **Review your contact information in your [marketing profile](create-a-marketing-profile.md)** for each location to make sure that your team gets incoming alerts.
 
-*  [마케팅 프로필](create-a-marketing-profile.md)에서 **귀사의 고유한 전문 지식과 비즈니스 모델을 잘 나타내는 키워드 및 기본 설정을 선택합니다**. 귀사가 관심 없는 조회를 생성할 수 있는 키워드를 제거합니다. 특정 규모의 회사와 거래하는 데 관심이 없는 경우 이 기본 설정을 업데이트합니다.
+*  **Choose keywords and preferences that represent your unique expertise and business model** in your [marketing profile](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
 
-*  **조회에 신속하게 응답합니다**. 들어오는 요청에 적시에 응답하면 향후 고객 검색 결과에서 가시성이 향상됩니다. 팀이 귀사의 의도를 반영하여 신속하게 응답하도록 합니다.
+*  **Respond quickly to referrals**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
 
-*  **거래를 신중하게 수락합니다**. 파트너가 수락 및 거절하는 거래 유형이 모니터링되며, 이 정보는 비슷한 거래를 찾는 데 사용됩니다. 
+*  **Be choosy with the deals you accept**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
 
-   잘 맞지 않는 거래를 수락하면 검색 결과가 향상되지 않을 뿐 아니라 제공되는 잠재 고객 정보의 품질에도 영향을 줄 수 있습니다.
+   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
 
-*  **예상 거래 규모, 완료 날짜, 최종 거래 상태(성공 또는 실패)를 보고합니다**. 이 정보는 계속해서 파트너에게 우수한 조회를 제공하기 위해 사용됩니다.
+*  **Report back the estimated deal sizes, closing dates, and the final status of your deals** (won or lost). We’ll use this info to continue to provide you with quality referrals.

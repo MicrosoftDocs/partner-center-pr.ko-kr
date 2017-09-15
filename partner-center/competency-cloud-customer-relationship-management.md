@@ -1,68 +1,77 @@
 ---
-title: "클라우드 고객 관계 관리 역량"
-description: "클라우드 고객 관계 관리 역량을 획득하여 Microsoft Dynamics CRM Online 또는 Dynamics 365 프리미엄 공급자로서 명성을 얻으세요."
+title: Cloud Customer Relationship Management Competency
+description: Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 author: Daniel Simpson
-keywords: "역량, 역량, 클라우드 고객 관계 관리"
-robots: noindex,nofollow
-ms.openlocfilehash: e02f3cdb3000d70986c496b603bad20b2cf81a57
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Cloud Customer Relationship Management
+ms.openlocfilehash: 08feb30386219b11a2fd471d66db4cedb5cd680d
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="cloud-customer-relationship-management"></a>클라우드 고객 관계 관리
-클라우드 고객 관계 관리 역량을 획득하여 Microsoft Dynamics CRM Online 또는 Dynamics 365 프리미엄 공급자로서 명성을 얻으세요.
+#<a name="cloud-customer-relationship-management"></a>Cloud Customer Relationship Management
+Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 
-##<a name="cloud-crm-reseller-option"></a>클라우드 CRM 재판매인 옵션
+##<a name="cloud-crm-reseller-option"></a>Cloud CRM Reseller option
 
-클라우드 고객 관계 관리 옵션은 수익 임계값 및 시험 요구 사항을 충족하여 능력을 증명하려는 파트너에게 적합합니다. 
+The Cloud Customer Relationship Management option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. 
 
-###<a name="silver"></a>실버
+###<a name="silver"></a>Silver
 
-1. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
+1. Your organization must meet the performance thresholds.
 
-    **선진국 시장**
-    - 파트너는 TTM 기간에 CRM Online 또는 Dynamics 365 요금제 1 순 신규 수익 US$100,000 이상을 거둔 실적이 있어야 합니다.
+    - **Developed Markets**
+        - Partner must have earned at least US$100,000 in CRM Online or Dynamics 365 Plan 1 Net New Revenue in the TTM period
+
+    - **개발 도상국 시장**
+        - 파트너는 TTM 기간에 CRM Online 또는 Dynamics 365 요금제 1 순 신규 수익 US$50,000 이상을 거둔 실적이 있어야 합니다.
+
     - 이러한 고객과 Microsoft CRM Online 또는 Dynamics 365 공식 디지털 파트너로 제휴 관계를 맺어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).  
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 조직의 직원 **2명**이 시험을 통과해야 합니다.
+2. Your organization must have **2** individuals pass the exam requirements.
 
-    - **1명**이 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2 714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM 고객 서비스
-        - [MB2 713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 판매
-        - [MB2 709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM 마케팅 
+    - **1** individual must pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
+        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing 
 
-    - 또한 같은 직원이 다음 시험 중 하나를 통과해야 합니다.
-        - [시험 MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online 배포(2015)
-        - [시험 MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online 배포
+    - The same individual also must pass one of the following exams:
+        - [Exam MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [Exam MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
         
-    - 다른 직원이 다음 시험 중 하나를 통과해야 합니다.
-        - [시험 MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성
-        - [시험 MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성
+    - The other individual must pass one of the following exams:
+        - [Exam MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [Exam MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
 
 
-###<a name="gold"></a>골드
+###<a name="gold"></a>Gold
 
-1. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
+1. Your organization must meet the performance thresholds.
 
-    **선진국 시장**
+    - **Developed Markets**
     
-    - 파트너는 TTM 기간에 CRM Online 또는 Dynamics 365 요금제 1 순 신규 수익 US$300,000 이상을 거둔 실적이 있어야 합니다.
+        - 파트너는 TTM 기간에 CRM Online 또는 Dynamics 365 요금제 1 순 신규 수익 US$300,000 이상을 거둔 실적이 있어야 합니다.
+     
+    - **개발 도상국 시장**
+
+        - 파트너는 TTM 기간에 CRM Online 또는 Dynamics 365 요금제 1 순 신규 수익 US$300,000 이상을 거둔 실적이 있어야 합니다.
+
     - 이러한 고객과 Microsoft CRM Online 또는 Dynamics 365 공식 디지털 파트너로 제휴 관계를 맺어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).  
-  
-2. 조직의 직원 **4명**이 시험을 통과해야 합니다.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
-    - **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2 714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM 고객 서비스
-        - [MB2 713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 판매
-        - [MB2 709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM 마케팅 
 
-    - 또한 같은 직원 **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
-        - [시험 MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online 배포(2015)
-        - [시험 MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online 배포
+2. Your organization must have **4** individuals pass the exam requirements.
 
-    - 다른 직원 **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
-        - [시험 MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성
-        - [시험 MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성
+    - **2** individuals must each pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
+        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing 
+
+    - The same **2** individuals also must each pass one of the following exams:
+        - [Exam MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [Exam MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+
+    - The other **2** individuals must each pass one of the following exams:
+        - [Exam MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [Exam MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration

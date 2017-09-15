@@ -1,82 +1,82 @@
 ---
-title: "CSP 프로그램 등록 | 파트너 센터"
-description: "클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요."
+title: Enroll in the CSP program | Partner Center
+description: Before you enroll in the Cloud Solution Provider program, learn more about the CSP program requirements.
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-ms.openlocfilehash: f5e4f345ed3bdf33022e135f17f2f9e908b67457
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 36adc9c4b35f5d64dbb3e5f84a03e9348a773384
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program
 
-**적용 대상**
+**Applies to**
 
--  파트너 센터
+-  Partner Center
 
->**참고**<br>
-Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램 등록에 대한 자세한 내용은 [Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록](enroll-in-csp-for-microsoft-cloud-germany.md) 및 [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)를 참조하세요.
+>**Note**<br>
+For information about enrolling in the Cloud Solution Provider program for Microsoft Cloud Germany, see [Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) and [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
 
-CSP(클라우드 솔루션 공급자) 프로그램에 등록하기 전에 [CSP 프로그램 요구 사항]( http://go.microsoft.com/fwlink/p/?LinkId=617116)에 대해 자세히 알아보세요. 파트너 계약 및 다른 프로그램 요구 사항에 대한 자세한 내용은 [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)을 참조하세요. 
+Before you enroll in the Cloud Solution Provider (CSP) program, learn more about the [CSP program requirements]( http://go.microsoft.com/fwlink/p/?LinkId=617116). For more information about the partner agreement and other program requirements, see [CSP agreements, price lists, and offers](csp-documents-and-learning-resources.md). 
 
->**중요**<br>
-현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 거래 수행에 사용되는 테넌트에만 적용됩니다. 회사용으로 CSP가 아닌 테넌트를 사용하는 CSP 파트너는 다른 CSP에서 온라인 서비스를 구입할 수 있습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대한 모든 발표는 파트너 센터를 포함한 일반적인 통신 채널을 통해 공개될 것입니다.  
+>**Important**<br>
+A CSP partner cannot resell online services to another CSP partner currently. This restriction only applies to the tenant used for conducting CSP transactions. CSP partners that use a non-CSP tenant for their corporate usage can purchase online services from another CSP. Microsoft continuously reviews policies and capabilities of all programs. Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.  
 
-CSP 프로그램 인센티브를 받을 자격을 갖추고, 인센티브 플랫폼을 등록하고, 인센티브 자금을 획득하는 방법을 알아보세요. [프로그램 세부 정보](https://go.microsoft.com/fwlink/?linkid=831533)를 참조하세요.
+Learn how to qualify for CSP program incentives, onboard to the incentives platform, and earn incentives funds. See [Program Details](https://go.microsoft.com/fwlink/?linkid=831533).
 
-## <a href="" id="markets"></a>사용 가능성
+## <a href="" id="markets"></a>Availability
 
 
-클라우드 솔루션 공급자 프로그램은 다음 국가/지역에 사무실이 있는 회사에서 사용할 수 있습니다. 시장별로 그룹화되어 있습니다. CSP 프로그램의 파트너는 이러한 위치에 사무실이 없다 하더라도 동일한 시장 내 다른 국가에 판매할 수 있습니다.
+The Cloud Solution Provider program is available to companies with offices in the following countries/regions. These are grouped by market. Partners in the CSP program can sell to other countries within the same market even if they don't have an office in those locations.
 
-| 시장별 사용 가능성                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Availability by market                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 브라질                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 캐나다                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 인도                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 일본                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 한국                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 뉴질랜드                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 러시아                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 대만                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 미국                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 오스트레일리아, 피지                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 앵귈라, 앤티가 바부다, 아르헨티나, 아루바, 바하마, 바베이도스, 벨리즈, 버뮤다, 볼리비아, 보네르, 케이맨 제도, 칠레, 콜롬비아, 코스타리카, 쿠라사오, 도미니카 공화국, 에콰도르, 엘살바도르, 프랑스령 기아나, 과들루프, 과테말라, 온두라스, 자메이카, 마르티니크, 멕시코, 니카라과, 파나마, 파라과이, 페루, 푸에르토리코, 세인트 크리스토퍼 네비스, 세인트 루시아, 생 마르탱, 세인트 빈센트 그레나딘, 신트마르텐, 수리남, 트리니다드 토바고, 터크스 케이커스 제도, 우루과이, 베네수엘라, 미국령 버전 아일랜드                                                                                                           |
+| Brazil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Canada                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| India                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Japan                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Korea                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| New Zealand                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Russia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| United States                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Australia, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Cayman Islands, Chile, Colombia, Costa Rica, Curacao, Dominican Republic, Ecuador, El Salvador, French Guiana, Guadeloupe, Guatemala, Honduras, Jamaica, Martinique, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Sint Maarten, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, U.S. Virgin Islands                                                                                                           |
 | 안도라, 오스트리아, 벨기에, 불가리아, 크로아티아, 키프로스, 체코 공화국, 덴마크, 에스토니아, 핀란드, 프랑스, 독일, 그리스, 그린란드, 헝가리, 아이슬란드, 아일랜드, 맨 섬, 이탈리아, 저지, 라트비아, 리히텐슈타인, 리투아니아, 룩셈부르크, 마다가스카르, 말라위, 말리, 몰타, 마요트, 모나코, 네덜란드, 뉴칼레도니아, 노르웨이, 폴란드, 포르투갈, 루마니아, 산마리노, 슬로바키아, 슬로베니아, 스페인, 스웨덴, 스위스, 영국, 바티칸, 페로 제도                                                                                          |
 | 아프가니스탄, 알바니아, 알제리, 아르메니아, 아제르바이잔, 바레인, 벨라루스, 베냉, 보스니아 헤르체고비나, 부룬디, 코모로, 이집트, 프랑스령 폴리네시아, 조지아, 이라크, 이스라엘, 요르단, 카자흐스탄, 쿠웨이트, 키르기스스탄, 레바논, 리비아, 마케도니아(FYROM), 몰도바, 몽골, 몬테네그로, 모로코, 모잠비크, 오만, 파키스탄, 팔레스타인 자치 정부, 카타르, 리유니언, 세르비아, 세이셸, 타지키스탄, 토고, 튀니지, 투르크메니스탄, 우크라이나, 아랍에미리트, 우즈베키스탄, 사우디아라비아, 남아프리카 공화국, 터키, 예멘, 짐바브웨 |
-| 앙골라, 보츠와나, 카메룬, 카보베르데, 코트디부아르, 에티오피아, 가나, 케냐, 모리셔스, 나미비아, 나이지리아, 르완다, 세네갈, 탄자니아, 우간다, 잠비아                                                                                                                                                                                                                                                                                  |
-| 방글라데시, 부탄, 브루나이, 캄보디아, 홍콩 특별 행정구, 인도네시아, 라오스, 말레이시아, 몰디브, 마샬 제도, 미얀마, 네팔, 파푸아뉴기니, 필리핀, 싱가포르, 스리랑카, 태국, 통가, 베트남, 마카오 특별 행정구                                                                                                                                                                                                                                                                                           |
-## <a name="billing-currencies-by-country"></a>국가별 청구 통화
+| Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
+| Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Tonga, Vietnam, Macao SAR                                                                                                                                                                                                                                                                                           |
+## <a name="billing-currencies-by-country"></a>Billing currencies by country
 
-다음 표와 같이 지리적 위치에 따라 청구 통화가 결정됩니다. 
+Your geographic location determines the currency in which you are billed, as shown in the following table. 
 
-| 통화 | 국가 |
+| Currency | Country |
 | ---- | ---- |
-| USD | 알바니아, 앵귈라, 앤티가 바부다, 아르헨티나, 아르메니아, 아루바, 아제르바이잔, 바하마, 바레인, 방글라데시, 바베이도스, 벨로루시, 벨리즈, 베냉, 버뮤다, 볼리비아, 보네르, 브라질, 브루나이, 부룬디, 카메룬, 케이맨 제도, 칠레, 콜롬비아, 코모로, 코스타리카, 퀴라소, 도미니카 공화국, 에콰도르, 이집트, 엘살바도르, 피지, 프랑스령 기아나, 프랑스령 폴리네시아, 조지아, 가나, 과테말라, 온두라스, 홍콩 특별 행정구, 인도네시아, 이라크, 이스라엘, 자메이카, 카자흐스탄, 케냐, 쿠웨이트, 키르기스스탄, 레바논, 마카오 특별 행정구, 마다가스카르, 말라위, 말레이시아, 말리, 모리셔스, 마요트, 멕시코, 모로코, 나미비아, 뉴칼레도니아, 니카라과, 나이지리아, 오만, 파키스탄, 파나마, 파라과이, 페루, 필리핀, 푸에르토리코, 카타르, 리유니언, 르완다, 세인트 루시아, 생 마르탱, 세인트 빈센트 그레나딘, 사우디아라비아, 세르비아, 세이셸, 싱가포르, 신트마르텐, 남아프리카 공화국, 스리랑카, 수리남, 탄자니아, 태국, 동티모르, 토고, 트리니다드 토바고, 튀니지, 터키, 터크스 케이커스 제도, 미국령 버전 아일랜드, 우크라이나 아랍에미리트, 미국, 우루과이, 베네수엘라, 베트남  | 
-| TWD | 대만 |
-| SEK | 스웨덴 |
-| INR | 인도 |
-| RUB | 러시아 |
-| NZD | 뉴질랜드 |
-| NOK | 노르웨이 |
-| KRW | 한국 |
-| JPY | 일본 |
-| GBP | 맨 섬, 저지, 영국 |
-| EUR | 안도라, 오스트리아, 벨기에, 크로아티아, 체코 공화국, 에스토니아, 페로 제도, 핀란드, 프랑스, 독일, 그리스, 헝가리, 아이슬란드, 아일랜드, 이탈리아, 라트비아, 리히텐슈타인, 리투아니아, 룩셈부르크/벨기에, 네덜란드, 폴란드, 포르투갈, 루마니아, 산마리노, 슬로바키아, 슬로베니아, 스페인 |
-| DKK | 덴마크 |
-| CHF | 스위스 |
-| CAD | 캐나다 |
-| AUD | 오스트레일리아, 마샬 제도, 파푸아뉴기니, 통가 |
+| USD | Albania, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brazil, Brunei, Burundi, Cameroon, Cayman Islands, Chile, Colombia, Comoros, Costa Rica, Curaçao, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, French Guiana, French Polynesia, Georgia, Ghana, Guatemala, Honduras, Hong Kong SAR, Indonesia, Iraq, Israel, Jamaica, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Macao SAR, Madagascar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexico, Morocco, Namibia, New Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Puerto Rico, Qatar, Reunion, Rwanda, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Saudi Arabia, Serbia, Seychelles, Singapore, Sint Maarten, South Africa, Sri Lanka, Suriname, Tanzania, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Islands, U.S. Virgin Islands, Ukraine, United Arab Emirates, United States, Uruguay, Venezuela, Vietnam  | 
+| TWD | Taiwan |
+| SEK | Sweden |
+| INR | India |
+| RUB | Russia |
+| NZD | New Zealand |
+| NOK | Norway |
+| KRW | Korea |
+| JPY | Japan |
+| GBP | Isle of Man, Jersey, United Kingdom |
+| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
+| DKK | Denmark |
+| CHF | Switzerland |
+| CAD | Canada |
+| AUD | Australia, Marshall Islands, Papua New Guinea, Tonga |
 
  
 
-## <a name="partner-center-account"></a>파트너 센터 계정
+## <a name="partner-center-account"></a>Partner Center account
 
 
-파트너 센터를 사용하려면 회사 관리자에게 Azure AD에서 인증받은 메일 주소가 있어야 합니다. 관리자는 Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services 등 Microsoft 클라우드 서비스의 기존 업무용 전자 메일 계정 중 무엇이든 사용할 수 있습니다. 재판매인이 되는 프로세스에서는 이 전자 메일 주소를 재판매인 계정의 관리자 전자 메일로 바꿉니다.
+Partner Center requires that the admin for your company has an email address that is authenticated by Azure AD. The admin can use any of their existing work email accounts from a Microsoft cloud service, including Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services, etc. The process of becoming a reseller will turn this email address into the admin email for a reseller account.
 
-기존 Azure AD 인증 전자 메일 주소는 이미 특정 시장에 등록되어 있습니다. 다른 시장 또는 여러 시장에서 판매하려는 경우 각 시장에 등록된 별도의 전자 메일 주소를 만들고 해당 전자 메일 주소를 사용하여 등록해야 합니다.
+Note that your existing Azure AD-authenticated email address is already registered in a certain market. If you want to sell in a different market, or in multiple markets, you must create a separate email address registered in each market, and use those email addresses to enroll.
 
  
 
