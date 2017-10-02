@@ -3,11 +3,11 @@ title: Simplify device setup with Windows Autopilot | Partner Center
 description: Add a Windows AutoPilot deployment profile in Partner Center to simplify device setup with Windows Autopilot
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, zero-touch deployment, oobe, login screens
-ms.openlocfilehash: a307a1e8f46137ba0f796b2ad2fb059c1d602eac
-ms.sourcegitcommit: 493122887ab9a5524590be12f5e1fedf4a004682
+ms.openlocfilehash: 72cf8a8361a12c545501a452788d231f930c4928
+ms.sourcegitcommit: d9f3e4e8115c0ad44f97041d352b703cda7ba9e5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/28/2017
+ms.lasthandoff: 09/28/2017
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Simplify device setup with Windows Autopilot 
 
@@ -22,8 +22,8 @@ Windows Autopilot streamlines and secures device setup for new Windows 10 Pro de
 
 ## <a name="requirements"></a>Requirements
 
-*  Windows 10 Pro 크리에이터스 업데이트(버전 1703 이상) 또는 Windows 10 Pro for Advanced PC가 미리 설치된 디바이스.
-*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. 2017년 8월 이후부터는 더 이상 하드웨어 해시가 필요 없습니다. 
+*  Devices pre-installed with Windows 10 Pro Creators Update (version 1703 or later) or Windows 10 Pro for Advanced PCs.
+*  Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM. You'll use identifiers to assign organization profiles in Partner Center. After September 2017 you will no longer need the hardware hash. 
 *  The devices must have access to the internet. When the device can’t connect, it shows the default Windows out-of-box experience (OOBE) screens.
 *  Enrolling the device into an MDM requires Azure Active Directory Premium.
 
@@ -49,9 +49,9 @@ To configure devices, upload a list of the devices into Partner Center, create a
 
 1.  Add the list of devices into Partner Center.
 
-    (영업 에이전트와 관리자 에이전트는 디바이스 목록을 파트너 센터에 추가할 수 있는 권한을 갖습니다.)
+    Sales agents and admin agents have access to add the list of devices into Partner Center.
     
-    간접 재판매인은 간접 공급자와 협력하여 디바이스 목록을 추가할 수 있습니다.
+    Indirect resellers can work with their indirect provider to add this.
 
     a.  Create a .csv file using the PowerShell script from the topic: [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier. 
 
@@ -100,4 +100,11 @@ Once you’ve assigned a profile to a device, you can update it, even if you’v
 3. Go to the profile you want to remove and delete it. The profile will be deleted from all devices.
 
 From **Devices**, select the profile. From here, you can modify the existing settings.
+
+## <a name="windows-autopilot-eula-dismissal--important-information"></a>Windows Autopilot EULA 철회 – 중요한 정보
+
+이 도구를 사용하면 고객을 위해 관리하는 장치에서 Windows 개별 설치를 구성할 수 있습니다. 고객이 승인한 경우 EULA 동의 화면 등 Windows를 설정할 때 일반적으로 사용자에게 제시되는 일부 설정 화면을 표시하지 않거나 숨길 수 있습니다. 
+
+이 기능을 사용함으로써 귀하는 약관의 고지 또는 동의를 사용자에게 제공하도록 고안된 화면을 표시하지 않거나 숨기는 데 동의합니다. 이는 약관을 숨기기 위해 고객으로부터 충분한 동의와 승인을 얻었으며 고객(경우에 따라 조직 또는 개별 사용자)을 대신하여 고지에 동의하고 고객에게 적용되는 약관에 동의함을 의미합니다. 여기에는 이 도구를 사용하여 표시하거나 숨기지 않는 경우, 사용자에게 제시되는 라이선스 약관 또는 고지에 대한 동의가 포함됩니다. 귀하의 고객이 Microsoft 또는 사용권이 허용된 배포자로부터 유효하게 소프트웨어 라이선스를 취득하지 않은 경우, 고객은 이러한 장치에서 Windows 소프트웨어를 사용할 수 없습니다.
+
 
