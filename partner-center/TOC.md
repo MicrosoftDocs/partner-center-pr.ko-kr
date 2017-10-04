@@ -22,7 +22,7 @@
 ## [Customize the catalog](customize-the-catalog.md)
 # [Referrals](referrals.md)
 ## [Create a marketing profile](create-a-marketing-profile.md)
-## [조회 응답](responding-to-referrals.md)
+## [추천 응답](responding-to-referrals.md)
 # [파트너 인센티브](manage-your-incentives-in-partner-center.md)
 ## [사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)
 ## [사용자 암호 다시 설정](reset-a-user-password.md)
