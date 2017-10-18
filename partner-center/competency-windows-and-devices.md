@@ -1,136 +1,136 @@
 ---
-title: Windows and Devices Competency
-description: Share our goal of having Windows 10 on 1 billion devices. The opportunity spans services, applications, and devices. This competency provides you with tools, content and resources to help you build and grow your profitable Windows 10 practice.
+title: "Windows 및 디바이스 역량"
+description: "10억 대의 디바이스에 Windows 10을 배포하려는 Microsoft의 목표를 공유하세요. 서비스, 응용 프로그램, 디바이스에 걸쳐 기회가 있습니다. 이 역량은 수익성 높은 Windows 10 관행을 구축하고 확장하는 데 도움이 되는 도구, 콘텐츠 및 리소스를 제공합니다."
 author: Daniel Simpson
 robots: noindex,nofollow
-keywords: competency,competencies,Windows and Devices
-ms.openlocfilehash: 707b30ac580927d53bffff79ad92d671fd18acdf
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+keywords: "역량, 역량, Windows 및 디바이스"
+ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
-#<a name="windows-and-devices"></a>Windows and Devices 
-Share our goal of having Windows 10 on 1 billion devices. The opportunity spans services, applications, and devices. This competency provides you with tools, content and resources to help you build and grow your profitable Windows 10 practice.
+#<a name="windows-and-devices"></a>Windows 및 디바이스 
+10억 대의 디바이스에 Windows 10을 배포하려는 Microsoft의 목표를 공유하세요. 서비스, 응용 프로그램, 디바이스에 걸쳐 기회가 있습니다. 이 역량은 수익성 높은 Windows 10 관행을 구축하고 확장하는 데 도움이 되는 도구, 콘텐츠 및 리소스를 제공합니다.
 
-- [Service Partner option](#service-partner-option)
-- [Device Partner option](#device-partner-option)
-- [Surface Hub option](#surface-hub-option)
+- [서비스 파트너 옵션](#service-partner-option)
+- [디바이스 파트너 옵션](#device-partner-option)
+- [Surface Hub 옵션](#surface-hub-option)
 
-##<a name="service-partner-option"></a>Service Partner option
-The Service Partner option is ideal if you prefer to prove your skills by passing assessments or exams related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
+##<a name="service-partner-option"></a>서비스 파트너 옵션
+서비스 파트너 옵션은 관행/기간 업무와 관련된 평가 또는 시험을 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 Windows 및 디바이스 역량을 획득하세요.
 
-###<a name="silver"></a>Silver
-1. Your organization must have **2** individuals pass the required exams or assessments.
+###<a name="silver"></a>실버
+1. 조직의 직원 **2명**이 필수 시험 또는 평가를 통과해야 합니다.
 
-    - **2** individuals must each pass one of the following exams:
+    - **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
 
-        - **Application Builders** focus area
+        - **응용 프로그램 개발자** 핵심 영역
 
-            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
-            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
-            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
+            - [시험 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): 유니버설 Windows 플랫폼 - 앱 아키텍처 및 UI/UX
+            - [시험 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): 유니버설 Windows 플랫폼 - 앱 데이터, 서비스 및 코딩 패턴
+            - [시험 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): 모바일 앱 개발
 
-    **OR**
+    **또는**
 
-    - **2** individuals must each pass the following assessment:
+    - **2명**이 각각 다음 평가를 통과해야 합니다.
 
-        - **Deployment Partner** focus area
+        - **배포 파트너** 핵심 영역
 
-            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+            - [Windows 10 배포, 보안 및 관리 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-*Retiring September 30, 2017
+*2017년 9월 30일부터 사용 중지
 
-###<a name="gold"></a>Gold
-1. Your organization must have **4** individuals pass the required exams or assessments.
-    - **4** individuals must each pass one of the following exams:
-        - **Application Builders** focus area
+###<a name="gold"></a>골드
+1. 조직의 직원 **4명**이 필수 시험 또는 평가를 통과해야 합니다.
+    - **4명**이 각각 다음 시험 중 하나를 통과해야 합니다.
+        - **응용 프로그램 개발자** 핵심 영역
 
-            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
-            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
-            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
+            - [시험 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): 유니버설 Windows 플랫폼 - 앱 아키텍처 및 UI/UX
+            - [시험 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): 유니버설 Windows 플랫폼 - 앱 데이터, 서비스 및 코딩 패턴
+            - [시험 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): 모바일 앱 개발
 
-    **OR**
+    **또는**
 
-    - **4** individuals must each pass the following assessment:
+    - **4명**이 각각 다음 평가를 통과해야 합니다.
 
-        - **Deployment Partner** focus area
+        - **배포 파트너** 핵심 영역
 
-            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+            - [Windows 10 배포, 보안 및 관리 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-*Retiring September 30, 2017
+*2017년 9월 30일부터 사용 중지
 
-##<a name="device-partner-option"></a>Device Partner option
-The Device Partner option is ideal if you prefer to prove your skills by passing exam/assessment related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
+##<a name="device-partner-option"></a>디바이스 파트너 옵션
+디바이스 파트너 옵션은 관행/기간 업무와 관련된 시험/평가를 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 Windows 및 디바이스 역량을 획득하세요.
 
-###<a name="silver"></a>Silver
-1. Your organization must have **2** individuals pass the required exams or assessments.
+###<a name="silver"></a>실버
+1. 조직의 직원 **2명**이 필수 시험 또는 평가를 통과해야 합니다.
 
-    - **2** individuals must each pass the following exam:
+    - **2명**이 각각 다음 시험을 통과해야 합니다.
 
-        - **System Builder** focus area
+        - **시스템 개발자** 핵심 영역
 
-            - [Exam 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): OEM pre-installation for Windows 10
+            - [시험 70 735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Windows 10용 OEM 제조 및 배포
 
-    **OR**
+    **또는**
 
-    - **2** individuals must each pass the following assessment:
+    - **2명**이 각각 다음 평가를 통과해야 합니다.
 
-        - **IoT Device Builder** focus area
+        - **IoT 디바이스 개발자** 핵심 영역
 
-            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+            - [Windows 10용 IoT 디바이스 개발자 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-###<a name="gold"></a>Gold
-1. Your organization must have **4** individuals pass the required exams or assessments.
+###<a name="gold"></a>골드
+1. 조직의 직원 **4명**이 필수 시험 또는 평가를 통과해야 합니다.
 
-    - **4** individuals must each pass the following exam:
+    - **4명**이 각각 다음 시험을 통과해야 합니다.
 
-        - **System Builder** focus area
+        - **시스템 개발자** 핵심 영역
 
-            - [Exam 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): OEM pre-installation for Windows 10
+            - [시험 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): Windows 10에 대한 OEM 사전 설치
 
-    **OR**
+    **또는**
 
-    - **4** individuals must each pass the following assessment:
+    - **4명**이 각각 다음 평가를 통과해야 합니다.
 
-        - **IoT Device Builder** focus area
+        - **IoT 디바이스 개발자** 핵심 영역
         
-            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+            - [Windows 10용 IoT 디바이스 개발자 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-##<a name="surface-hub-option"></a>Surface Hub option
-The Surface Hub option is ideal if you are an authorized Surface Hub ADR and prefer to attain competency through Surface Hub sales. Complete all the steps within the option to attain the Windows and Devices competency.
+##<a name="surface-hub-option"></a>Surface Hub 옵션
+Surface Hub 옵션은 공인 Surface Hub ADR이고 Surface Hub 판매를 통한 역량 획득을 선호하는 경우 적합합니다. 옵션 내의 모든 단계를 완료하여 Windows 및 디바이스 역량을 획득하세요.
 
-###<a name="silver"></a>Silver
-1. Your organization must meet the performance thresholds.
+###<a name="silver"></a>실버
+1. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
 
-    - Partner must have shipped 12 devices in the TTM period with an average of 1 unit a month.
-    - Partner must also be an authorized Surface Hub ADR.
+    - 파트너는 TTM 기간에 월 평균 1개 단위로 12개의 디바이스를 출하했어야 합니다.
+    - 또한 파트너는 공인 Surface Hub ADR이어야 합니다.
 
-2. Your organization must have **2** individuals pass an assessment.
+2. 조직의 직원 **2명**이 필수 평가를 통과해야 합니다.
 
-    - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+    - [Surface Hub 평가](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
 
 
-###<a name="gold"></a>Gold
-1. Your organization must meet the performance thresholds.
+###<a name="gold"></a>골드
+1. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
 
-    - Partner must have shipped 52 devices in the TTM period with an average of 4 units a month.
-    - Partner must also be an authorized Surface Hub ADR.
+    - 파트너는 TTM 기간에 월 평균 4개 단위로 52개의 디바이스를 출하했어야 합니다.
+    - 또한 파트너는 공인 Surface Hub ADR이어야 합니다.
 
-2. Your organization must have **4** individuals pass the required exams and assessment.
+2. 조직의 직원 **4명**이 필수 시험 또는 평가를 통과해야 합니다.
 
-    - **All** individuals must pass the following assessment:
+    - **4명**이 다음 평가를 통과해야 합니다.
     
-        - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+        - [Surface Hub 평가](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
     
-    **AND**
+    **그리고**
 
-    - **All** individuals must each pass one of the following exams:
+    - **4명**이 각각 다음 시험 중 하나를 통과해야 합니다.
 
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
-        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
-        - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
-        - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
+        - [시험 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Office 365 서비스 지원
+        - [시험 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): 비즈니스용 Skype 2015의 핵심 솔루션 
+        - [시험 70 398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): 엔터프라이즈의 디바이스 계획 및 관리
+        - [시험 70 697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Windows 디바이스 구성 
 
 
 

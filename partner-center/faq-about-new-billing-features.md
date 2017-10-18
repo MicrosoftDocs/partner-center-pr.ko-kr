@@ -3,18 +3,18 @@ title: "새 청구 기능에 대한 FAQ | 파트너 센터"
 Description: "다음은 파트너 센터의 연간 청구, 무료 평가판 및 청구 조정에 대한 자주 묻는 질문입니다."
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 
 **적용 대상**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 다음은 파트너 센터의 연간 청구, 무료 평가판 및 청구 조정에 대한 자주 묻는 질문입니다. 
@@ -247,7 +247,7 @@ FY18 1분기에 이 기능이 출시되면 변경 내용을 적용할 수 있도
 
 **Q:** 언제부터 사용할 수 있나요?
 
-**A:** 2018년 9월부터 제공될 예정입니다.
+**A:** 2017년 10월 17일부터 제공될 예정입니다.
 
 **Q:** 누가 참여할 수 있나요?
 
