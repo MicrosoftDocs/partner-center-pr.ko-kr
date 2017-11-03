@@ -4,11 +4,11 @@ description: "10억 대의 디바이스에 Windows 10을 배포하려는 Microso
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: "역량, 역량, Windows 및 디바이스"
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows 및 디바이스 
 10억 대의 디바이스에 Windows 10을 배포하려는 Microsoft의 목표를 공유하세요. 서비스, 응용 프로그램, 디바이스에 걸쳐 기회가 있습니다. 이 역량은 수익성 높은 Windows 10 관행을 구축하고 확장하는 데 도움이 되는 도구, 콘텐츠 및 리소스를 제공합니다.
@@ -87,7 +87,7 @@ ms.lasthandoff: 09/29/2017
 
         - **시스템 개발자** 핵심 영역
 
-            - [시험 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): Windows 10에 대한 OEM 사전 설치
+            - [시험 70 735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): Windows 10용 OEM 제조 및 배포
 
     **또는**
 

@@ -3,11 +3,11 @@ title: "회사 계정 및 파트너 센터 | 파트너 센터"
 description: "파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다."
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>회사 계정 및 파트너 센터  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
-테넌트 사용자가 자신의 Azure AD(회사 계정) 사용자 이름 및 암호를 사용하여 파트너 센터에 로그인 할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결해야 합니다.
+계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용하여 파트너 센터에 로그인할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결해야 합니다.
 
 회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
 
@@ -25,9 +25,9 @@ ms.lasthandoff: 09/29/2017
 
 회사에 아직 회사 계정이 없는 경우 등록 과정에서 무료 테넌트를 만들 수 있습니다. **Azure Active Directory에 로그인** 페이지에서 **새 테넌트 만들기**를 선택합니다. 새 Azure Active Directory 테넌트를 만들면 새 회사 계정이 만들어집니다. Azure Active Directory는 Microsoft의 단일 로그인 ID 관리 솔루션입니다.
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>회사에 Azure 회사 계정이 있는지 확실하지 않은가요?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>회사에 회사 계정이 있는지 확실하지 않은가요?
 
-회사에 Azure 회사 계정이 있는지 확실하지 않은 경우 다음 단계에 따라 확인할 수 있습니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 회사는 이미 Azure 회사 계정을 갖고 있습니다.
+회사에 회사 계정이 있는지 확실하지 않은 경우, 다음 단계에 따라 확인할 수 있습니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 회사는 이미 회사 계정을 갖고 있습니다.
 1.  https://ms.portal.azure.com에서 Azure 관리 포털에 로그인합니다.
 2.  메뉴에서 Azure Active Directory를 선택한 다음 도메인 이름을 선택합니다.
 3.  이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
@@ -36,7 +36,7 @@ ms.lasthandoff: 09/29/2017
 
 기존 회사 계정을 사용하고 싶지만 로그인하는 데 문제가 있는 경우 아래 다이어그램에서 현재 상황과 가장 잘 맞는 시나리오를 찾아 권장 단계를 수행합니다. 
 
-![Azure 회사 계정이 있나요 아니면 새로 만들어야 하나요?](images/onboardingAADFlow.png)
+![회사 계정이 있나요 아니면 새로 만들어야 하나요?](images/onboardingAADFlow.png)
 
 Azure AD에서 도메인 추가에 대한 자세한 내용은 [Azure Active Directory에 사용자 지정 도메인 이름 추가](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)를 참조하세요.
 
