@@ -3,21 +3,28 @@ title: "청구서 읽기 | 파트너 센터"
 description: "송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: "구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치"
+ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다.
+청구의 경우 **대시보드** 메뉴로 이동한 다음 **청구**를 선택하면 청구 내역과 추세, 송장 및 조정 파일의 링크, 최근 결제가 표시됩니다.
+
+월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
+
+>**참고**<br>
+송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
+
 
 부과되는 요금에 대한 항목별 세부 정보를 보려면 함께 제공되는 조정 파일을 참조하세요. 조정 파일에는 고객 송장을 만드는 데 사용하는 고객 ID와 구독 ID가 포함되어 있습니다. 자세한 내용은 [조정 파일 사용 방법](use-the-reconciliation-files.md)을 참조하세요.
 
@@ -44,7 +51,7 @@ ms.lasthandoff: 07/01/2017
 </tr>
 <tr class="even">
 <td>청구지</td>
-<td>송장을 보내는 주소입니다. 이 주소를 변경하려면 파트너 센터 계정 프로필을 편집하세요.</td>
+<td>송장을 보내는 주소입니다. 이 주소를 변경하려면 계정 설정 > 파트너 청구 프로필로 이동합니다. </td>
 </tr>
 <tr class="odd">
 <td>반복 청구 요금</td>

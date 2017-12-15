@@ -1,33 +1,28 @@
 ---
 title: "고객 계정 | 파트너 센터"
-Description: "재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다."
+Description: As a reseller partner, you should make an account for each of your customers in Partner Center. The customer account will be your starting point for selling subscriptions, billing, and providing support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
-author: MaggiePucciEvans
-ms.openlocfilehash: b2d2565031d0377bdeeca62e32910240e96b4b61
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+author: labrenne
+ms.openlocfilehash: 1eadf2749eeba07edd37c52660dd1f47e0de3fd0
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="customer-accounts"></a>고객 계정
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. 
+재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. 파트너 센터로 이동하기 전에 이전에 보유한 고객을 포함하여 각 고객에 대한 파트너 센터 계정을 만들어야 합니다.
 
-[고객 목록 참조](see-your-customer-list.md)
+### <a name="resources-for-working-with-your-customers-on-partner-center"></a>파트너 센터에서 고객과 작업하기 위한 리소스
 
-[새 고객 추가](add-a-new-customer.md)
-
-[관계 제거](remove-a-relationship.md)
-
-[Azure 구독을 다른 파트너로 전환](switch-azure-subscriptions-to-a-different-partner.md)
-
-[고객 계정 정보 업데이트](update-customer-account-info.md)
-
-[고객 계정에 여러 사용자 추가](adding-multiple-users-to-a-customer-account.md)
-
+|**수행할 작업**   |**방법에 대해 이 글 읽기**   |**적용 대상**|
+|-----------------|:----------------------------|:--------------|
+|신규 고객 유치|간접 재판매인은 고객에게 귀하를 추천할 [간접 공급자](indirect-reseller-tasks-in-partner-center.md)와 연결합니다. [비즈니스 프로필](create-a-marketing-profile.md)을 최신 상태로 유지해야 합니다. 귀하와 고객이 [공동 작업](responding-to-referrals.md)하기로 협의한 경우 고객을 귀하의 계정에 [추가](add-a-new-customer.md)합니다.|CSP 파트너|
+|계정에 기존 고객 추가   | Office 365와 같은 다른 포털에서 거래하는 고객은 파트너 센터의 [고객 목록](see-your-customer-list.md)에 표시됩니다. 다른 기존 고객과 [재판매인 관계를 수립](indirect-reseller-tasks-in-partner-center.md)해야 합니다. 이렇게 하려면 파트너 센터에서 관계를 맺도록 고객에게 [전자 메일 초대장](responding-to-referrals.md)을 보냅니다.   | CSP 파트너   |
+|모든 고객 정보 관리   | 고객 추가 또는 제거 또는 [고객 관계 종료](remove-a-relationship.md)|   CSP 파트너 |

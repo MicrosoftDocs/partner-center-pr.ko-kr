@@ -1,32 +1,42 @@
 ---
-title: Microsoft Partner Center
+title: "Microsoft 파트너 센터에 오신 것을 환영합니다."
 description: "Microsoft 파트너 센터"
 author: labrenne
-ms.openlocfilehash: 85c1c7670e52cec5cdce03d7092eae22c0b0ef09
-ms.sourcegitcommit: ed19af64e654c8d7c672c29dff1929c6dc7f8a7a
+ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/21/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="increase-your-productivity-with-partner-center"></a>파트너 센터로 생산성 증대
+# <a name="welcome-to-the-microsoft-partner-center"></a>Microsoft 파트너 센터에 오신 것을 환영합니다.
 
-Microsoft 파트너 센터에 오신 것을 환영합니다. 신규 고객을 유치하고 기존 고객을 지원하고 비즈니스를 성장시키기 위한 주요 작업을 완료하는 방법을 알아보세요.
+Microsoft 파트너 센터 사이트에서 Microsoft의 커머셜 파트너는 비즈니스를 빌드, 관리하고, 성장시킬 수 있습니다. (이 페이지에서 논의된 모든 사항이 모든 파트너에게 적용되지는 않습니다. 일부 기능은 단계적으로 출시되고 있습니다.)
 
-**적용 대상**
+## <a name="create-an-account-on-partner-center-to"></a>파트너 센터 계정을 만들면 다음을 수행할 수 있습니다.
 
--  파트너 센터 
+-   Microsoft 파트너십 관리
+    -   Microsoft Action Pack 구입 및 기타 내부용 권한 멤버십 혜택 
+    -   Microsoft 제품 및 서비스에 대한 회사의 전문 지식 구축
+    -   실버 및 골드 멤버십 상태를 위한 자격 갖추기
 
+-   직원을 계정에 추가하고 이들에게 적절한 수준의 액세스 할당
 
-## <a name="whats-new"></a>새로운 기능
+-   Microsoft에서 자격을 갖춘 잠재 고객 가져오기 
+    -   수천의 잠재 고객에게 회사의 제품 출시
+    -   거래 종료를 위해 초기 연락처에서 잠재 고객 관리 
 
- 새로운 기능 확인 
+-   클라우드 솔루션 공급자 프로그램 가입
+    -   Microsoft 클라우드 서비스 및 솔루션에 대한 구독 판매 및 관리       
+    -   고객과 연결 및 고객 관리
+    -   간접 공급자 - 재판매인과 연결하여 재판매인 관리    
+    -   고객에게 개인 전용 Microsoft 국가별 클라우드에서 판매 
+    -   Microsoft의 송장 및 결제 관리
+    -   고객에게 청구할 금액을 결정하기 위해 송장 조정
+   
 
-- [Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
-- [마케팅 프로필을 만들어 Microsoft에서 잠재 고객 받기](referrals.md)
-- [인센티브 프로그램 관리](manage-your-incentives-in-partner-center.md)
-- [고객에게 구독 할인 제공](promotions.md)
-- [Windows AutoPilot](autopilot.md)
-- [Power BI용 파트너 센터 분석 앱](power-bi-app-for-direct-partners.md)
+>**중요**<br>
+파트너 센터는 더 많은 기능을 포함하도록 지속적으로 개선되고 있습니다. [새 소식](whats-new-in-pc.md)을 알아보세요.
+
 
 ## <a name="get-started"></a>시작
 
@@ -34,11 +44,11 @@ Microsoft 파트너 센터에 오신 것을 환영합니다. 신규 고객을 �
 
 | **여기로 이동**  | **자세히 알아보기**  |
 |------------|:-------------|
-|[파트너 프로그램에 등록](enrolling-in-the-csp-program.md)|여러 지리적 위치와 전용 국가별 클라우드를 통해 제공되는 CSP(클라우드 솔루션 공급자) 프로그램에 등록하세요.|
-|[Azure Active Directory 테넌트 및 파트너 센터 이해](azure-active-directory-tenants-and-partner-center.md)|Azure AD 테넌트가 필요한 이유와 테넌트 관리 방법에 대해 알아보세요.|
-|[파트너 센터 계정 설정](partner-center-account-setup.md)|계정을 만들고 프로필을 관리하고 암호를 관리하고 제품 카탈로그를 사용자 지정합니다.|
-|[고객 계정 설정](customer-accounts.md)|사용자를 추가하고 새 계정을 만들고 고객 목록을 봅니다.|
-|[다른 파트너와 협력](work-with-other-partners.md)|귀사를 보완하는 전문 지식을 갖춘 파트너를 찾습니다.|
+|[Microsoft 파트너 네트워크 가입](mpn-overview.md)|Microsoft와 협업하여 내부용 권한 소프트웨어 및 서비스, Microsoft Action Pack을 얻고 실버 및 골드 역량 획득 |
+|[클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매](csp-overview.md) | 적합한 CSP 모델, CSP를 통해 판매할 수 있는 위치, CSP를 통해 판매할 수 있는 제품 |
+|[파트너 센터 계정 설정](partner-center-account-setup.md)|계정을 만들기, 프로필 관리, 암호 관리, 제품 카탈로그 사용자 지정 |
+|[고객 계정 설정](customer-accounts.md)|사용자 추가, 새 계정 만들기, 고객 목록 보기 |
+|[다른 파트너와 협력](work-with-other-partners.md)|귀사를 보완하는 전문 지식을 갖춘 파트너를 찾기 |
 
 ## <a name="manage-your-reseller-business"></a>재판매인 비즈니스 관리
 
@@ -46,12 +56,11 @@ Microsoft 파트너 센터에 오신 것을 환영합니다. 신규 고객을 �
 
 | **여기로 이동**  |**자세히 알아보기**   |
 |------------|:-------------|
-|[Microsoft의 조회를 통한 비즈니스 성장](referrals.md)|고객에 대한 마케팅 프로필을 만든 다음 조회를 받고 대응|
+|[Microsoft의 추천을 통해 비즈니스 성장](referrals.md)|고객에 대한 비즈니스 프로필을 만들어 추천을 받고 이에 응답|
 |[Power BI용 파트너 센터 분석 앱](power-bi-app-for-direct-partners.md)| 익숙한 Microsoft Power BI 대시보드를 사용하여 회사 실적에 대한 통찰력 확보|
-|[인센티브 프로그램 관리](manage-your-incentives-in-partner-center.md)|인센티브 사용자 관리, 등록, 수익 및 지급 검토|
 |[고객의 구독 관리](customer-subscriptions.md)|신규 구독, 평가판 구독, 라이선스 할당, 프로모션 및 할인|
-|[마케팅 프로필에 역량 추가](learn-about-competencies.md)|전문 지식 입증, 역량 옵션에 대해 알아보기|
-|[청구](billing.md)|청구 시나리오, 세금 및 VAT, Azure 지출 예산 검토|
+|[비즈니스 프로필에 역량 추가](learn-about-competencies.md)|전문 지식 입증, 역량 옵션에 대해 알아보기|
+|[청구](billing.md)|청구 시나리오, 세금 및 VAT, Azure 지출 예산 검토 |
 
 ## <a name="understand-your-support-options"></a>지원 옵션 이해
 
@@ -61,5 +70,5 @@ Microsoft 서비스 또는 파트너 센터와 관련하여 도움이 필요한 
 
 | **여기로 이동**  | **자세히 알아보기**  |
 |------------|:-------------|
-|[고객 지원 센터](customer-support.md)|기술 지원, 청구 관련 도움, 에스컬레이션 및 사용자 스스로 문제를 해결하도록 지원 제공|
-|[Microsoft에서 제공하는 지원](support-from-microsoft--.md)|파트너 센터 관련 문제 보고, 고객을 대신하여 문제 보고|
+|[고객 지원 센터](customer-support.md)|기술 지원 제공, 청구 지원, 에스컬레이션 처리, 고객 스스로 문제를 해결하도록 지원|
+|[Microsoft에서 제공하는 지원](support-from-microsoft.md)|파트너 센터 관련 문제 보고, 고객을 대신하여 문제 보고|

@@ -2,11 +2,11 @@
 title: "Action Pack 구입 또는 갱신 | 파트너 센터"
 description: "Microsoft Action Pack 구독을 구입 또는 갱신하는 방법을 알아보세요."
 author: MaggiePucciEvans
-ms.openlocfilehash: 6302cb1322933d7d35ac9ceba9cbbf642ba8a2c6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입 또는 갱신
 
@@ -44,7 +44,7 @@ Microsoft Action Pack에 포함된 혜택에 대한 자세한 내용은 [Microso
 
 7. 주문이 확인됩니다. **닫기**를 선택합니다.
 
-매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. 언제든지 구입한 제품 목록에서 자동 갱신을 끌 수 있지만, 구독을 다시 갱신할 때까지는 자동 구독 갱신을 다시 켤 수 없습니다. 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>Action Pack 구독 갱신
@@ -67,7 +67,7 @@ Microsoft Action Pack에 포함된 혜택에 대한 자세한 내용은 [Microso
 
 9. 주문이 확인됩니다. **닫기**를 선택합니다.
 
-매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. 언제든지 구입한 제품 목록에서 자동 갱신을 끌 수 있지만, 구독을 다시 갱신할 때까지는 자동 구독 갱신을 다시 켤 수 없습니다. 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack 구독 자동 갱신 끄기
@@ -79,12 +79,12 @@ Microsoft Action Pack에 포함된 혜택에 대한 자세한 내용은 [Microso
 3. 매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다. 
 
     >**참고**<br>
-    If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. 구독이 만료되기 전에 갱신하라고 알려 드립니다.
+    구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다. 구독이 만료되기 전에 갱신하라고 알려 드립니다.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Action Pack 구독 취소
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문의해야 합니다.
 
 1. https://partnercenter.microsoft.com/partner/support로 이동합니다.
 
@@ -106,9 +106,7 @@ To cancel your Microsoft Action Pack subscription, you must contact Partner Cent
 
 [사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
 
-[골드 및 실버 멤버십을 위한 역량 요구 사항에 대해 알아보기](learn-about-competencies.md)
-
-[마케팅 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
+[비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
 
 
 

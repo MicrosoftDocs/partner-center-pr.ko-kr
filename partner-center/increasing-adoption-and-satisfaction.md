@@ -3,9 +3,11 @@ title: "채택률 및 만족도 높이기 | 파트너 센터"
 description: "당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -16,6 +18,8 @@ translationtype: HT
 당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다. 이 정보는 Office 제품(비즈니스용 OneDrive 포함, SharePoint와 함께 계산됨)에서 사용할 수 있습니다.
 
 클라우드 솔루션 공급자 프로그램을 통해 모든 고객의 데이터를 볼 수 있습니다. 일부 고객은 다른 파트너를 통해 또는 Microsoft에서 직접 라이선스를 구입할 수 있습니다. 이 경우 모든 파트너에 대한 전체 라이선스가 표시됩니다. 귀하의 라이선스만 보려면 대신 고객의 구독으로 이동합니다.
+
+>**참고**<br> 현재 Office 365 및 Dynamics 365에 대한 데이터만 표시됩니다. 추후에 추가 제품에 대한 데이터를 제공할 예정입니다.
 
 ## <a name="find-license-and-user-data"></a>라이선스 및 사용자 데이터 찾기
 

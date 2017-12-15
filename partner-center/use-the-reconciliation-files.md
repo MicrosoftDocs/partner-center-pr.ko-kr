@@ -1,28 +1,28 @@
 ---
-title: Use the reconciliation files | Partner Center
-description: For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard.
+title: "조정 파일 사용 | 파트너 센터"
+description: "청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 551afa2468e2bd79f1779a82e6ece3725b33237b
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
+ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 11/04/2017
 ---
-# <a name="use-the-reconciliation-files"></a>Use the reconciliation files
+# <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
-**Applies to**
+**적용 대상**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
+-  파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
+-  Microsoft 클라우드 독일 파트너 센터
 
-For a detailed line-item view of each charge in a billing cycle, download the reconciliation files from the Partner Center dashboard. The details include charges for each customer's subscriptions, and detailed events (such as a mid-term addition of seats to a subscription).
+청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
-## <a href="" id="itemizebypartner"></a>Itemize by partner
+## <a href="" id="itemizebypartner"></a>파트너를 기준으로 항목별로 구분
 
 
-Partners in the indirect model can use these additional fields in both license-based and usage-based reconciliation files to itemize by reseller.
+간접 모델의 파트너는 라이선스 기준 및 사용량 기준 조정 파일에서 이러한 추가 필드를 사용하여 재판매인을 기준으로 항목별로 구분할 수 있습니다.
 
 <table>
 <colgroup>
@@ -32,32 +32,32 @@ Partners in the indirect model can use these additional fields in both license-b
 <thead>
 <tr class="header">
 <th>MPN ID</th>
-<th>Description</th>
+<th>설명</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>MPN ID</td>
-<td><p>The Microsoft Partner Network (MPN) ID of the CSP partner (direct or indirect).</p></td>
+<td><p>CSP 파트너(직접 또는 간접)의 MPN(Microsoft 파트너 네트워크) ID.</p></td>
 </tr>
 <tr class="even">
-<td>Reseller MPN ID</td>
-<td><p>Only appears on reconciliation files for partners in the indirect model.</p>
-<p>The MPN ID of the reseller of record for the subscription. This corresponds to the reseller ID listed for the specific subscription in Partner Center.</p>
-<p>eTo view or update the reseller, in the Partner Center menu, select <strong>Customers</strong>, then choose the customer from the list. In the customer menu, select <strong>Subscriptions</strong>, choose the subscription from the list. Select <strong>update</strong> to change the <strong>Reseller (MPN ID)</strong>.</p>
-<p>If a CSP partner sold the subscription directly to the customer, their MPN ID is listed twice, as both the MPN ID and the Reseller MPN ID.</p>
-<p>If a CSP partner has a reseller with no MPN ID, this value is set to the partner’s MPN ID instead.</p>
-<p>If the CSP partner removes a reseller ID, this value will be set to -1.</p></td>
+<td>재판매인 MPN ID</td>
+<td><p>간접 모델의 파트너를 위한 조정 파일에만 나타납니다.</p>
+<p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 파트너 센터에서 특정 구독에 대해 나열된 재판매인 ID에 해당합니다.</p>
+<p>재판매인을 보거나 업데이트하려면 파트너 센터 메뉴에서 <strong>고객</strong>을 선택한 다음 목록에서 고객을 선택합니다. 고객 메뉴에서 <strong>구독</strong>을 선택한 다음 목록에서 구독을 선택합니다. <strong>업데이트</strong>를 선택하여 <strong>재판매인(MPN ID)</strong>을 변경합니다.</p>
+<p>CSP 파트너가 고객에게 직접 구독을 판매하는 경우 해당 MPN ID가 두 번 나열됩니다(MPN ID와 재판매인 MPN ID 모두).</p>
+<p>CSP 파트너에게 MPN ID가 없는 재판매인이 있는 경우 이 값은 대신 파트너의 MPN ID로 설정됩니다.</p>
+<p>CSP 파트너가 재판매인 ID를 제거하는 경우 이 값은 -1로 설정됩니다.</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a href="" id="licensebasedfiles"></a> License-based file fields
+## <a href="" id="licensebasedfiles"></a> 라이선스 기준 파일 필드
 
 
-To reconcile your charges against your customer's orders, compare the Syndication\_Partner\_Subscription\_Number from the reconciliation file against the Subscription ID from Partner Center.
+고객의 주문에 따라 요금을 조정하려면 조정 파일의 Syndication\_Partner\_Subscription\_Number와 파트너 센터의 구독 ID를 비교합니다.
 
 <table>
 <colgroup>
@@ -67,166 +67,166 @@ To reconcile your charges against your customer's orders, compare the Syndicatio
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Sample Value</strong></td>
+<td><strong>열</strong></td>
+<td><strong>설명</strong></td>
+<td><strong>샘플 값</strong></td>
 </tr>
 <tr class="even">
-<td>PartnerId</td>
-<td><p>Unique identifier for a specific billing entity, in GUID format. Not required for reconciliation, however may be useful information. Same in all rows.</p></td>
+<td>PartnerID</td>
+<td><p>특정 청구 엔터티의 고유 식별자(GUID 형식). 조정에는 필요하지 않지만 유용한 정보일 수 있습니다. 모든 행에서 같습니다.</p></td>
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>고객을 식별하는 데 사용되는 GUID 형식의 고유한 Microsoft ID.</p></td>
 <td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the order when contacting support but not for reconciliation.</p></td>
+<td><p>Microsoft 청구 플랫폼에서 주문의 고유 식별자. 지원 센터에 문의할 때 주문을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console. Please see Syndication_Partner_Subscription_Number.</p></td>
+<td><p>Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p>
+<p>이 ID는 파트너 관리 콘솔의 구독 ID와 다릅니다. Syndication_Partner_Subscription_Number를 참조하세요.</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SyndicationPartnerSubscriptionNumber</td>
-<td><p>Unique identifier for subscriptions. A customer can have multiple subscriptions for the same plan, so this is important for reconciliation file analysis.</p>
-<p>This field maps to the Subscription ID in the Partner Admin Console.</p></td>
+<td><p>구독의 고유 식별자. 고객은 같은 계획으로 여러 구독을 사용할 수 있으므로 이 식별자는 조정 파일 분석에 중요합니다.</p>
+<p>이 필드는 파트너 관리 콘솔에서 구독 ID에 매핑됩니다.</p></td>
 <td>fb977ab5-test-test-test-24c8d9591708</td>
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>Unique offer ID. Standard offer ID as per price list.</p>
-<p><b>Note</b>: This value does not match Offer ID from the price list. See DurableOfferID below.</p></td>
+<td><p>고유 제품 ID. 가격표에 따른 표준 제품 ID.</p>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치하지 않습니다. 아래의 DurableOfferID를 참조하세요.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Unique durable offer ID, as defined in the price list.</p>
-<p><b>Note</b>: This value matches the Offer ID from the price list.</p></td>
+<td><p>고유 지속형 제품 ID(가격표에 정의됨).</p>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치합니다.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
 <td>OfferName</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list.</p></td>
-<td>Microsoft Office 365 (Plan E3)</td>
+<td><p>고객이 구매한 서비스 제품의 이름(가격표에 정의됨).</p></td>
+<td>Microsoft Office 365(계획 E3)</td>
 </tr>
 <tr class="even">
 <td>SubscriptionStartDate</td>
-<td><p>The subscription start date, set to the day after the order is submitted. By looking at the subscription start date in conjunction with the end date, you can determine if the customer is still within the first year of the subscription or if the subscription has been renewed for the following year.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>구독 시작 날짜(주문이 제출된 다음 날로 설정됨). 구독 시작 날짜와 함께 종료 날짜를 살펴보면 고객이 아직 구독의 첫 번째 해에 속하는지 아니면 구독이 다음 연도에 대해 갱신되었는지를 확인할 수 있습니다.</p>
+<p>시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>The subscription end date: 12 months + x days after start date (to align with partner billing date) or 12 months from renewal date.</p>
-<p>At renewal, prices are updated to the current price list. Customer communication may be required in advance of automated renewal.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>구독 종료 날짜: 12개월 + 시작 날짜 이후 x일(파트너 청구 날짜에 맞추기 위해) 또는 갱신 날짜로부터 12개월.</p>
+<p>갱신 시 가격은 현재 가격표로 업데이트됩니다. 자동 갱신에 앞서 고객과 연락해야 할 수 있습니다.</p>
+<p>시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeStartDate</td>
-<td><p>Start day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>요금 시작일.</p>
+<p>고객이 실제 사용자 수를 변경하면 이 사용자 수는 요금을 일별로 부과(비례하는 계산)하는 데 사용됩니다.</p>
+<p>시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
 <td>2/1/2015 0:00</td>
 </tr>
 <tr class="odd">
 <td>ChargeEndDate</td>
-<td><p>End day of the charges.</p>
-<p>When a customer changes seat numbers, this number is used to calculate per-day (pro-rata) charges.</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>요금 종료일.</p>
+<p>고객이 실제 사용자 수를 변경하면 이 사용자 수는 요금을 일별로 부과(비례하는 계산)하는 데 사용됩니다.</p>
+<p>시간은 항상 해당 일의 마지막인 23:59입니다.</p></td>
 <td>2/28/2015 23:59</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>요금 또는 조정 유형. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
+<td><p><a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Price per seat. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>실제 사용자 수당 가격. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
 <td>Quantity</td>
-<td><p>Number of seats. Ensure this matches the information stored in your billing system during reconciliation.</p></td>
+<td><p>실제 사용자 수. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>Amount</td>
-<td><p>Total of price for quantity. Useful to check that the amount calculation matches how you calculate this for your customers.</p></td>
+<td><p>수량의 가격 합계. 금액 계산이 귀하가 고객에 대해 이 값을 계산하는 방법과 일치하는지를 확인하는 데 유용합니다.</p></td>
 <td>13.32</td>
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Amount of discount applied to these charges. IUR or new subscriptions eligible for an incentive will also contain a discount amount in this column.</p></td>
+<td><p>이러한 요금에 적용된 할인 금액. 인센티브를 받을 수 있는 새 구독 또는 IUR도 이 열에 할인 금액을 포함합니다.</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
 <td>Subtotal</td>
-<td><p>Total before tax. Checks that your subtotal matches your expected total, in case of a discount.</p></td>
+<td><p>세금을 적용하기 전의 총액. 할인이 있을 경우 소계가 예상 총액과 일치하는지 확인합니다.</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>해당 지역/국가의 세금 규칙 및 특정 상황에 따른 세액 요금.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
 <td>TotalForCustomer</td>
-<td><p>Total after tax. Checks if you are charged tax in the invoice.</p></td>
+<td><p>세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다.</p></td>
 <td>11</td>
 </tr>
 <tr class="even">
 <td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td><p>통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 통화가 첫 번째 송장과 일치하는지 확인한 다음 주요 청구 플랫폼 업데이트 후에 다시 확인합니다.</p></td>
 <td>EUR</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
-<td>Test Customer A</td>
+<td><p>파트너 센터에 보고된 고객의 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td>테스트 고객 A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner</p></td>
+<td><p>CSP 파트너의 MPN ID</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. [파트너를 기준으로 항목별로 구분](#itemizebypartner)을 참조하세요.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionName</td>
-<td><p>Subscription nickname. If no nickname is specified, Partner Center uses the OfferName.</p></td>
-<td>PROJECT ONLINE</td>
+<td><p>구독 애칭. 애칭을 지정하지 않으면 파트너 센터에서 OfferName을 사용합니다.</p></td>
+<td>프로젝트 온라인</td>
 </tr>
 <tr class="even">
 <td>SubscriptionDescription</td>
-<td><p>The name of the service offering purchased by the customer, as defined in the price list. (This is an identical field to Offer name).</p></td>
-<td>PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT</td>
+<td><p>고객이 구매한 서비스 제품의 이름(가격표에 정의됨). (제품 이름과 동일한 필드).</p></td>
+<td>프로젝트 클라이언트 없는 프로젝트 온라인 프리미엄</td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>Usage-based file fields
+## <a href="" id="usagebasedfiles"></a>사용량 기준 파일 필드
 
 
-To reconcile your charges against your customer's usage, compare the ResellerID/ResellerName/ResellerBillableAccount from the reconciliation file, the customer name, and the Subscription ID from Partner Center.
+고객의 사용량에 따라 요금을 조정하려면 조정 파일의 ResellerID/ResellerName/ResellerBillableAccount, 파트너 센터의 구독 ID 및 고객 이름을 비교합니다.
 
-The following fields explain which services were used and the rate.
+다음 필드에서는 사용된 서비스와 요금을 설명합니다.
 
 <table>
 <colgroup>
@@ -236,219 +236,219 @@ The following fields explain which services were used and the rate.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Sample value</strong></td>
+<td><strong>열</strong></td>
+<td><strong>설명</strong></td>
+<td><strong>샘플 값</strong></td>
 </tr>
 <tr class="even">
 <td>PartnerID</td>
-<td><p>Partner ID, in GUID format.</p></td>
+<td><p>GUID 형식의 파트너 ID</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="odd">
 <td>PartnerName</td>
-<td><p>Partner Name.</p></td>
+<td><p>파트너 이름</p></td>
 <td>Acme Incorporated</td>
 </tr>
 <tr class="even">
 <td>PartnerBillableAccountID</td>
-<td><p>Partner Account ID.</p></td>
+<td><p>파트너 계정 ID</p></td>
 <td>1010578050</td>
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Customer's organization name as reported in Partner Center. This is very important for reconciling the invoice with your system information.</p></td>
-<td>Test Customer A</td>
+<td><p>파트너 센터에 보고된 고객의 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td>테스트 고객 A</td>
 </tr>
 <tr class="even">
 <td>MPNID</td>
-<td><p>MPN ID of the CSP partner.</p></td>
+<td><p>CSP 파트너의 MPN ID입니다.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN ID of the reseller of record for the subscription. See [Itemize by partner](#itemizebypartner).</p></td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. [파트너를 기준으로 항목별로 구분](#itemizebypartner)을 참조하세요.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>InvoiceNumber</td>
-<td><p>Invoice number where the specified transaction appears.</p></td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호</p></td>
 <td>D020001IVK</td>
 </tr>
 <tr class="odd">
 <td>ChargeStartDate</td>
-<td><p>Start date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the beginning of the day, 0:00.</p></td>
+<td><p>이전 청구 주기에서 이전에 요금이 청구되지 않은 숨은 사용 데이터의 날짜를 표시하는 경우를 제외하고 청구 주기의 시작 날짜.</p>
+<p>시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="even">
 <td>ChargeEndDate</td>
-<td><p>End date of billing cycle except when presenting dates of previously uncharged latent usage data (from previous bill cycle).</p>
-<p>The time is always the end of the day, 23:59.</p></td>
+<td><p>이전 청구 주기에서 이전에 요금이 청구되지 않은 숨은 사용 데이터의 날짜를 표시하는 경우를 제외하고 청구 주기의 종료 날짜.</p>
+<p>시간은 항상 해당 일의 마지막인 23:59입니다.</p></td>
 <td>2/28/2014 23:59</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionID</td>
-<td><p>Unique identifier for a subscription in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p>
-<p>This is not the same as the Subscription ID on the Partner Admin Console.</p></td>
+<td><p>Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p>
+<p>이 ID는 파트너 관리 콘솔의 구독 ID와 다릅니다.</p></td>
 <td>usCBMgAAAAAAAAIA</td>
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nickname of the service offering.</p></td>
+<td><p>서비스의 애칭.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionDescription</td>
-<td><p>Line of business of the service offering</p></td>
+<td><p>서비스 제품의 LOB(기간 업무)</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Unique identifier for an order in the Microsoft billing platform. May be useful to identify the subscription when contacting support but not for reconciliation.</p></td>
+<td><p>Microsoft 청구 플랫폼에서 주문의 고유 식별자. 지원 센터에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
 <td>ServiceName</td>
-<td><p>The name of the Azure service in question.</p></td>
+<td><p>해당 Azure 서비스의 이름</p></td>
 <td>VIRTUAL MACHINES</td>
 </tr>
 <tr class="even">
 <td>ServiceType</td>
-<td><p>The specific type of Windows Azure service.</p></td>
+<td><p>Microsoft Azure 서비스의 특정 유형</p></td>
 <td><ul>
-<li>Service Bus – Individual or Pack</li>
-<li>SQL Azure database – Business or Web Edition</li>
+<li>서비스 버스 - 개별 또는 팩</li>
+<li>SQL Azure 데이터베이스 - Business 또는 Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>ResourceGUID</td>
-<td><p>Specific unique identifier for all the service data and pricing structure.</p></td>
+<td><p>모든 서비스 데이터 및 가격 책정 구조에 대한 특정 고유 식별자</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
 <td>Resource Name</td>
-<td><p>The name of the Azure resource.</p></td>
+<td><p>Azure 리소스의 이름</p></td>
 <td><ul>
-<li>Data Transfer In (GB)</li>
-<li>Data Transfer Out (GB)</li>
+<li>데이터 수신(GB)</li>
+<li>데이터 발신(GB)</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Region</td>
-<td><p>The region the usage applies to. Primarily used to assign rates to data transfers, as rates vary by region.</p></td>
-<td>Asia Pacific, Europe, Latin America, North America</td>
+<td><p>사용이 적용되는 지역입니다. 요금이 지역별로 다르므로 주로 데이터 전송에 요금을 할당하는 데 사용됩니다.</p></td>
+<td>아시아 태평양, 유럽, 라틴 아메리카, 북아메리카</td>
 </tr>
 <tr class="even">
 <td>SKU</td>
-<td><p>MSFT unique identifier for offer</p></td>
+<td><p>제품에 대한 MSFT 고유 식별자</p></td>
 <td>7UD-00001</td>
 </tr>
 <tr class="odd">
 <td><p>DetailLineItemId</p></td>
-<td><p>An ID and quantity for itemizing the different rates for a service or resource in a given billing period. For Azure tiered rating, there may be one rate up to a certain quantity of billable units, then a different rate after that.</p></td>
+<td><p>지정된 청구 기간의 서비스 또는 리소스에 대한 다양한 요금을 항목별로 구분하기 위한 ID 및 수량. Azure 계층형 등급의 경우 특정 수량의 청구 가능 단위까지 한 등급이고 그 후에는 다른 등급이 지정될 수 있습니다.</p></td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>ConsumedQuantity</td>
-<td><p>The amount of service consumed (hours, GB, etc.) during the reporting period.</p>
-<p>Also includes any unbilled usage from previous reporting periods.</p></td>
+<td><p>보고 기간 중 소비된 서비스 양(시간, GB 등).</p>
+<p>이전 보고 기간의 미청구 사용량도 포함됩니다.</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>IncludedQuantity</td>
-<td><p>Units included as part of the offer. Not typically present in CSP.</p></td>
+<td><p>제품의 일부로 포함된 단위. 일반적으로 CSP에는 없습니다.</p></td>
 <td>0</td>
 </tr>
 <tr class="even">
 <td><p>OverageQuantity</p></td>
-<td><p>Units not included as part of the offer, that must be paid for by the partner.</p>
-<p>Equal to the ConsumedQuantity - IncludedQuantity.</p></td>
+<td><p>제품의 일부로 포함되지 않고 파트너가 요금을 지불해야 하는 단위.</p>
+<p>ConsumedQuantity에서 IncludedQuantity를 뺀 값입니다.</p></td>
 <td>11</td>
 </tr>
 <tr class="odd">
 <td>ListPrice</td>
-<td><p>Offer price in effect at subscription start date.</p></td>
+<td><p>구독 시작 날짜에 유효한 제품 가격</p></td>
 <td>$0.0808</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
-<td><p>ListPrist times OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>ListPrice에 OverageQuantity를 곱한 값으로, 가장 가까운 센트로 반올림됩니다.</p></td>
 <td>$0.085</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Tax amount charge, based on your market's tax rules and specific circumstances.</p></td>
+<td><p>해당 지역/국가의 세금 규칙 및 특정 상황에 따른 세액 요금.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
-<td><p>Total after tax, when tax is applicable.</p></td>
+<td><p>세금을 적용할 수 있는 경우 세금을 적용한 후의 총액</p></td>
 <td>$0.93</td>
 </tr>
 <tr class="odd">
 <td>Currency</td>
-<td><p>Currency type. Each billing entity has only one currency. Check that it matches your first invoice and then after any major billing platform update.</p></td>
+<td><p>통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 통화가 첫 번째 송장과 일치하는지 확인한 다음 주요 청구 플랫폼 업데이트 후에 다시 확인합니다.</p></td>
 <td>EUR</td>
 </tr>
 <tr class="even">
 <td>PretaxEffectiveRate</td>
-<td><p>Pretax price per unit. Equal to PretaxCharges / OverageQuantity, rounded to the nearest cent.</p></td>
+<td><p>세전 단가. PretaxCharges를 OverageQuantity로 나눈 값으로, 가장 가까운 센트로 반올림됩니다.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
-<td><p>Post tax price per unit. Equal to PostTaxTotal / OverageQuantity, or PretaxEffectiveRate + tax rate per unit amoun, rounded to the nearest cent.</p></td>
+<td><p>세후 단가. PostTaxTotal을 OverageQuantity로 나눈 값 또는 PretaxEffectiveRate에 단위 금액당 세율을 더한 값으로, 가장 가까운 센트로 반올림됩니다.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>The type of charge or adjustment. See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
-<td><p>See <a href="#charge_types">Mapping charges between an invoice and the reconciliation file</a></p></td>
+<td><p>요금 또는 조정 유형. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
+<td><p><a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
-<td><p>Unique account ID in the MSFT billing platform.</p></td>
+<td><p>MSFT 청구 플랫폼에서 고유한 계정 ID</p></td>
 <td>1280018095</td>
 </tr>
 <tr class="even">
 <td>UsageDate</td>
-<td><p>Date of service deployment.</p></td>
+<td><p>서비스 배포 날짜</p></td>
 <td>2/1/2014 0:00</td>
 </tr>
 <tr class="odd">
 <td>MeteredRegion</td>
-<td><p>This column identifies the location of a data center within the region for services where this is applicable and populated.</p></td>
-<td>East Asia, South East Asia, North Europe, West Europe, North Central US, South Central US</td>
+<td><p>이 열은 이 열이 적용 가능하고 채워진 서비스 지역 내에 있는 데이터 센터의 위치를 식별합니다.</p></td>
+<td>동아시아, 동남 아시아, 북유럽, 서유럽, 미국 중북부, 미국 중남부</td>
 </tr>
 <tr class="even">
 <td>MeteredService</td>
-<td><p>This column is utilized to track the individual Microsoft Azure service that may not be specifically identified in the Service Name column. For example, data transfers are reported as &quot;Microsoft Azure - All Services&quot; in the Service Name column. This MeteredService column will indicate to which specific service the usage pertains.</p></td>
-<td>AccessControl, CDN, Compute, Database, ServiceBus, Storage</td>
+<td><p>이 열은 Service_Name 열에서 구체적으로 식별할 수 없는 개별 Microsoft Azure 서비스를 추적하는 데 사용됩니다. 예를 들어 Service_Name 열에서 데이터 전송이 &quot;Microsoft Azure - 전체 서비스&quot;로 보고됩니다. 이 MeteredService 열은 사용이 관련된 특정 서비스를 나타냅니다.</p></td>
+<td>AccessControl, CDN, 계산, 데이터베이스, ServiceBus, 저장소</td>
 </tr>
 <tr class="odd">
 <td>MeteredServiceType</td>
-<td><p>A subheading that further clarifies the individual Microsoft Azure service beyond the level provided by the MeteredService field.</p></td>
+<td><p>개별 Microsoft Azure 서비스를 MeteredService 필드에 제공된 수준보다 자세히 설명하는 부제목</p></td>
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
 <td>Project</td>
-<td><p>Customer-defined name for their service instance</p></td>
+<td><p>해당 서비스 인스턴스에 대한 고객 정의 이름</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
-<td><p>The number of ServiceBus connections that were provisioned and utilized on a given day.</p></td>
-<td>For example: if you had an individually provisioned connection during a 30 day month, Service Info 1 would read “1.000000 Connections / 30 days”. If you had a 25 pack of ServiceBus connections provisioned and you had utilized 1 during that day, your daily usage statement for that day would indicate “25 Connections / 30 Days – Used: 1.000000”.</td>
+<td><p>지정일에 프로비전 및 사용된 ServiceBus 연결 수</p></td>
+<td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 25팩 ServiceBus 연결 하나를 프로비전하고 해당 날짜에 연결 1개를 사용한 경우 해당 날짜의 일일 사용 내역서는 "25개 연결/30일 - 사용됨: 1.000000"으로 표시됩니다.</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
-<td><p>Unique Microsoft ID, in GUID format, used to identify the customer.</p></td>
+<td><p>고객을 식별하는 데 사용되는 GUID 형식의 고유한 Microsoft ID.</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Customer's domain name, used to help identify the customer.</p></td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -463,217 +463,219 @@ The following fields explain which services were used and the rate.
 
 ## <a href="" id="charge_types"></a>송장과 조정 파일 간 요금 매핑
 
-Your invoice provides a summary of charges, while your reconciliation file provides a detailed breakdown of line-item transactions, including charge types.
+송장은 요금 요약 정보를 제공하는 반면 조정 파일은 요금 종류를 비롯한 거래 품목의 구체적인 분류 정보를 제공합니다.
 
-To cross-reference charge amounts between the invoice and reconciliation file, you can use Microsoft Excel's filter options to filter by charge types on the reconciliation file to map the invoice charges to a set of charge breakdowns on reconciliation file.
+송장과 조정 파일의 요금을 교차 참조하려면 Microsoft Excel의 필터 옵션을 통해 조정 파일을 요금 종류별로 필터링하여 송장 요금을 조정 파일의 요금 분류 집합에 매핑하면 됩니다.
 
-The table below shows the mappings between an invoice section and associated charge types that might show up on the reconciliation files. 
+사용량 기준 및 라이선스 기준 모두 조정 파일은 사용량 관련 거래 및 요금만 표시합니다(사용 및 관련 요금 단위). 송장에 "조정"으로 표시되는 크레딧, 할인, 또는 환불 내역은 조정 파일에 표시되지 않습니다.
+
+아래는 송장 섹션과 조정 파일에 표시될 수 있는 관련 요금 종류 간의 매핑을 보여주는 표입니다. 
 
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Invoice charge description</strong></p>
+<p><strong>송장 요금 설명</strong></p>
 </td>
 <td>
-<p><strong>Reconciliation file charge description (ChargeType column)</strong></p>
+<p><strong>조정 파일 요금 설명(ChargeType 열)</strong></p>
 </td>
 <td>
-<p><strong>What is this charge?</strong></p>
+<p><strong>이 요금은 무엇인가요?</strong></p>
 </td>
 <td>
-<p><strong>How do I map these ChargeTypes to the invoice?</strong></p>
+<p><strong>ChargeTypes를 송장에 매핑하려면 어떻게 해야 하나요?</strong></p>
 </td>
 </tr>
 <tr>
 <td rowspan="8">
-<p><strong>Recurring Charges</strong></p>
+<p><strong>반복 청구 요금</strong></p>
 </td>
 <td>
-<p>Cancel instance prorate</p>
+<p>취소 인스턴스 비례 배분</p>
 </td>
 <td>
-<p>Prorated charges refunded to the customer when associated seats are changed</p>
+<p>연결된 실제 사용자 수가 변경될 때 고객에게 환불되는 비례 배분 방식 요금</p>
 </td>
 <td rowspan="8">
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Cycle fee</p>
+<p>주기 수수료</p>
 </td>
 <td>
-<p>Periodic charges for a subscription</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Cycle instance prorate</p>
-</td>
-<td>
-<p>Prorated charges assessed from the customer when associated seats are changed</p>
+<p>구독에 대한 정기 요금</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Prorate fees when cancel</p>
+<p>주기 인스턴스 비례 배분</p>
 </td>
 <td>
-<p>Prorated refund for unused portion of service upon cancellation</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Prorate fees when purchase</p>
-</td>
-<td>
-<p>Prorated fees upon purchase</p>
+<p>연결된 실제 사용자 수가 변경될 때 고객이 평가한 비례 배분 방식 요금</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Purchase fee</p>
+<p>취소 시 비례 배분 방식 요금</p>
 </td>
 <td>
-<p>Initial charge for a subscription</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Prorate fee when renew</p>
-</td>
-<td>
-<p>Prorated fees upon subscription renewal</p>
+<p>취소 시 사용하지 않은 서비스 부분에 대한 비례 배분 방식 환불</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Renew fee</p>
+<p>구매 시 비례 배분 방식 요금</p>
 </td>
 <td>
-<p>Charge for renewing a subscription</p>
+<p>구매 시 비례 배분 방식 요금</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Products and Services</strong></p>
+<p>구매 요금</p>
 </td>
 <td>
-<p>Prorate fees when activate</p>
+<p>구독의 초기 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>갱신 시 비례 배분 방식 요금</p>
 </td>
 <td>
-<p>Prorated fees from activation until end of billing period</p>
+<p>구독 갱신 시 비례 배분 방식 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>갱신 요금</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Amount</strong> column</p>
+<p>구독 갱신에 대한 요금</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>기타 제품 및 서비스</strong></p>
+</td>
+<td>
+<p>활성화 시 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>활성화 시점부터 청구 기간 마지막 날까지의 비례 배분 방식 요금</p>
+</td>
+<td>
+<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>Usage Charges</strong></p>
+<p><strong>사용 요금</strong></p>
 </td>
 <td>
-<p>Assess usage fee when cancel</p>
+<p>취소 시 사용 요금 계산</p>
 </td>
 <td>
-<p>Access usage fee upon cancellation for unpaid usage during the current billing period</p>
+<p>현재 청구 기간 중 결제되지 않은 사용량에 대해 취소 시 사용 요금 계산</p>
 </td>
 <td rowspan="2">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>사용량 기반 파일에서 <strong>PretaxCharges</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Assess usage fee for current cycle</p>
+<p>현재 주기의 사용 요금 계산</p>
 </td>
 <td>
-<p>Access usage fee for the current billing period</p>
+<p>현재 청구 기간의 사용 요금 계산</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Credits &amp; Adjustments</strong></p>
+<p><strong>크레딧 및 조정</strong></p>
 </td>
 <td>
-<p>Offset a line item</p>
+<p>품목 오프셋</p>
 </td>
 <td>
-<p>Partial or whole refund to a line item, including taxes</p>
+<p>세금을 포함하여 품목의 전액 또는 일부 금액 환불</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalForCustomer</strong> column</p>
-<p>From usage-based file, sum the <strong>PostTaxTotal</strong> column</p>
+<p>라이선스 기반 파일에서 <strong>TotalForCustomer</strong> 열을 모두 합산</p>
+<p>사용량 기반 파일에서 <strong>PostTaxTotal</strong> 열을 모두 합산</p>
 </td>
 </tr>
 
 
 <tr>
 <td rowspan="4">
-<p><strong>Other Discounts</strong></br>
-<em>(usage-based)</em></p>
+<p><strong>기타 할인</strong></br>
+<em>(사용량 기반)</em></p>
 </td>
 <td>
-<p>Activation discount</p>
+<p>활성화 할인</p>
 </td>
 <td>
-<p>Discount applied when subscription activated</p>
+<p>구독을 활성화할 때 적용되는 할인</p>
 </td>
 <td rowspan="4">
-<p>From usage-based file, sum the <strong>PretaxCharges</strong> column</p>
+<p>사용량 기반 파일에서 <strong>PretaxCharges</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Cycle discount</p>
+<p>주기 할인</p>
 </td>
 <td>
-<p>Discount applied on periodic charges</p>
-</td>
-</tr><tr>
-<td>
-<p>Renew discount</p>
-</td>
-<td>
-<p>Discount applied when subscription renewed</p>
+<p>정기 요금에 적용되는 할인</p>
 </td>
 </tr><tr>
 <td>
-<p>Cancel discount</p>
+<p>갱신 할인</p>
 </td>
 <td>
-<p>Charges applied when discounts cancelled</p>
+<p>구독을 갱신할 때 적용되는 할인</p>
+</td>
+</tr><tr>
+<td>
+<p>취소 할인</p>
+</td>
+<td>
+<p>할인이 취소될 때 적용되는 요금</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Other Discounts</strong></br>
-<em>(license-based)</em></p>
+<p><strong>기타 할인</strong></br>
+<em>(라이선스 기반)</em></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
+<p><em>여러 종류의 요금에 적용될 수 있음</em></p>
 </td>
 <td>
 <p>&nbsp;</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>TotalOtherDiscount</strong> column</p>
+<p>라이선스 기반 파일에서 <strong>TotalOtherDiscount</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Taxes</strong>&nbsp;or&nbsp;<strong>VAT</strong></p>
+<p><strong>세금</strong>&nbsp;또는&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>May be applied to multiple charge types</em></p>
-<p><em>Exception: "Offset a line item" already includes taxes. See Credits &amp; Adjustments, above.</em></p>
+<p><em>여러 종류의 요금에 적용될 수 있음</em></p>
+<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧 및 조정을 참조하세요.</em></p>
 </td>
 <td>
-<p>Taxes or value-added taxes (VAT)</p>
+<p>세금 또는 VAT(부가가치세)</p>
 </td>
 <td>
-<p>From license-based file, sum the <strong>Tax</strong> column</p>
-<p>From usage-based file, sum the <strong>TaxAmount</strong> column</p>
+<p>라이선스 기반 파일에서 <strong>Tax</strong> 열을 모두 합산</p>
+<p>사용량 기반 파일에서 <strong>TaxAmount</strong> 열을 모두 합산</p>
 </td>
 </tr>
 </tbody>

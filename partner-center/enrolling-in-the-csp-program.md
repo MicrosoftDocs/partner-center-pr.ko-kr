@@ -1,86 +1,52 @@
 ---
-title: Enroll in the CSP program | Partner Center
-description: Before you enroll in the Cloud Solution Provider program, learn more about the CSP program requirements.
-ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
-author: MaggiePucciEvans
-ms.openlocfilehash: 779fa79977798de717a05e1188b9a32ce029e19e
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+title: "클라우드 솔루션 공급자 프로그램에 등록 | 파트너 센터"
+description: "CSP에서 판매하기 위한 다양한 모델을 파악하고 비즈니스에 가장 잘 맞는 모델 결정"
+author: labrenne
+ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
+ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 11/20/2017
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program"></a>Enroll in the Cloud Solution Provider program
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
-**Applies to**
+**적용 대상**---
 
--  Partner Center
-
->**Note**<br>
-For information about enrolling in the Cloud Solution Provider program for Microsoft Cloud Germany, see [Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany](enroll-in-csp-for-microsoft-cloud-germany.md) and [Partner Center for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md).
-
-Before you enroll in the Cloud Solution Provider (CSP) program, learn more about the [CSP program requirements]( http://go.microsoft.com/fwlink/p/?LinkId=617116). For more information about the partner agreement and other program requirements, see [CSP agreements, price lists, and offers](csp-documents-and-learning-resources.md). 
-
->**Important**<br>
-A CSP partner cannot resell online services to another CSP partner currently. This restriction only applies to the tenant used for conducting CSP transactions. CSP partners that use a non-CSP tenant for their corporate usage can purchase online services from another CSP. Microsoft continuously reviews policies and capabilities of all programs. Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.  
-
-Learn how to qualify for CSP program incentives, onboard to the incentives platform, and earn incentives funds. See [Program Details](https://go.microsoft.com/fwlink/?linkid=831533).
-
-## <a href="" id="markets"></a>Availability
+-  파트너 센터
 
 
-The Cloud Solution Provider program is available to companies with offices in the following countries/regions. These are grouped by market. Partners in the CSP program can sell to other countries within the same market even if they don't have an office in those locations.
+## <a name="get-started"></a>시작
 
-| Availability by market                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Brazil                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Canada                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| India                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Japan                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Korea                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| New Zealand                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Russia                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| United States                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Australia, Fiji                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 앵귈라, 앤티가 바부다, 아르헨티나, 아루바, 바하마, 바베이도스, 벨리즈, 버뮤다, 볼리비아, 보네르, 사바 및 세인트외수타티우스, 케이맨 제도, 칠레, 콜롬비아, 코스타리카, 쿠라사오, 도미니카 공화국, 에콰도르, 엘살바도르, 프랑스령 기아나, 과들루프, 과테말라, 온두라스, 자메이카, 마르티니크, 멕시코, 니카라과, 파나마, 파라과이, 페루, 푸에르토리코, 세인트 크리스토퍼 네비스, 세인트 루시아, 생 마르탱, 세인트 빈센트 그레나딘, 신트마르텐, 수리남, 트리니다드 토바고, 터크스 케이커스 제도, 우루과이, 베네수엘라, 미국령 버전 아일랜드                                                                                                           |
-| Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Vatican City, Faroe Islands                                                                                          |
-| Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burundi, Comoros, Egypt, French Polynesia, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Libya, Macedonia (FYROM), Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Morocco, Mozambique, New Caledonia, Oman, Pakistan, Palestinian Authority, Qatar, Reunion, Serbia, Seychelles, Tajikistan, Togo, Tunisia, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Saudi Arabia, South Africa, Turkey, Yemen, Zimbabwe |
-| Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia                                                                                                                                                                                                                                                                                  |
-| Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Tonga, Vietnam, Macao SAR                                                                                                                                                                                                                                                                                           |
-## <a name="billing-currencies-by-country"></a>Billing currencies by country
+클라우드 솔루션 공급자 프로그램에 등록하려먼 MPN ID가 필요합니다. 기존에 가지고 있지 않으면 [여기](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)에서 가입합니다.
 
-Your geographic location determines the currency in which you are billed, as shown in the following table. 
+CSP 응용 프로그램에서 항목을 입력할 때 MPN ID가 필요하며, 근무처 주소, 은행 정보, 파트너 센터에 대한 관리자 역할을 할 직원의 업무용 메일을 입력합니다.
 
-| Currency | Country |
-| ---- | ---- |
-| USD | 알바니아, 앵귈라, 앤티가 바부다, 아르헨티나, 아르메니아, 아루바, 아제르바이잔, 바하마, 바레인, 방글라데시, 바베이도스, 벨로루시, 벨리즈, 베냉, 버뮤다, 볼리비아, 보네르, 사바 및 세인트외수타티우스, 브라질, 브루나이, 부룬디, 카메룬, 케이맨 제도, 칠레, 콜롬비아, 코모로, 코스타리카, 퀴라소, 도미니카 공화국, 에콰도르, 이집트, 엘살바도르, 프랑스령 기아나, 프랑스령 폴리네시아, 조지아, 가나, 과테말라, 온두라스, 홍콩 특별 행정구, 인도네시아, 이라크, 이스라엘, 자메이카, 카자흐스탄, 케냐, 쿠웨이트, 키르기스스탄, 레바논, 마카오 특별 행정구, 마다가스카르, 말라위, 말레이시아, 말리, 모리셔스, 마요트, 멕시코, 모로코, 나미비아, 뉴칼레도니아, 니카라과, 나이지리아, 오만, 파키스탄, 파나마, 파라과이, 페루, 필리핀, 푸에르토리코, 카타르, 리유니언, 르완다, 세인트 루시아, 생 마르탱, 세인트 빈센트 그레나딘, 사우디아라비아, 세르비아, 세이셸, 싱가포르, 신트마르텐, 남아프리카 공화국, 스리랑카, 수리남, 탄자니아, 태국, 동티모르, 토고, 트리니다드 토바고, 튀니지, 터키, 터크스 케이커스 제도, 미국령 버전 아일랜드, 우크라이나 아랍에미리트, 미국, 우루과이, 베네수엘라, 베트남  | 
-| TWD | Taiwan |
-| SEK | Sweden |
-| INR | India |
-| RUB | Russia |
-| NZD | New Zealand |
-| NOK | Norway |
-| KRW | Korea |
-| JPY | Japan |
-| GBP | Isle of Man, Jersey, United Kingdom |
-| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
-| DKK | Denmark |
-| CHF | Switzerland |
-| CAD | Canada |
-| AUD | Australia, Marshall Islands, Papua New Guinea, Tonga |
+어떤 [CSP 모델이 적합한지](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) 결정하고 응용 프로그램을 완료합니다. 
 
- 
+제공한 정보를 검토하고 확인하는 데 며칠 정도 걸릴 수 있습니다. 검토가 완료되면 전자 메일이 전송됩니다.
 
-## <a name="partner-center-account"></a>Partner Center account
+>**중요**<br> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 거래 수행에 사용되는 테넌트에만 적용됩니다. 회사용으로 CSP가 아닌 테넌트를 사용하는 CSP 파트너는 다른 CSP 파트너에게서 온라인 서비스를 구입할 수 있습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 모든 새로운 기능 릴리스는 파트너 센터를 포함한 일반적인 통신 채널을 통해 안내될 것입니다.
+
+### <a name="enroll-as-an-indirect-reseller"></a>간접 재판매인으로 등록
+
+1. 간접 재판매인으로 등록했으면 함께 작업할 [간접 공급자를 찾아야](https://partnercenter.microsoft.com/partner/find-a-provider) 합니다. 협력 공급자는 고객과 귀하를 연결하며, 판매할 수 있는 소프트웨어 구매를 관리하고, 고객 청구 및 지원을 처리하여 재판매인 비즈니스 구축에 집중할 수 있도록 돕습니다.
+
+2. 귀하의 전역 관리자가 파트너 센터에서 계정을 설정해야 합니다. 전역 관리자는 파트너 센터에 작업할 조직의 직원을 추가하고 담당할 업무에 따라 이들에게 역할과 권한을 할당하고 조직 프로필을 설정할 수 있습니다.
+
+3. 직원은 임시 암호가 포함된 이메일을 받게 됩니다. 직원은 파트너 센터에 로그인하여 암호를 변경해야 합니다. 암호를 변경하고 나면 작업을 시작할 수 있습니다.
+
+4. 비즈니스 프로필 관리자 역할을 할당받은 직원은 고객에 대한 추천을 받을 수 있도록 비즈니스 프로필을 설정해야 합니다.
+
+### <a name="enroll-as-a-direct-partner"></a>직접 파트너로 등록
+
+직접 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다.
+
+- 직접 파트너로 등록하고 수용 조건을 충족하면 전역 관리자가 귀하의 계정을 설정하고, 직원을 추가하고, 직원들에게 업무에 따라 역할 및 권한을 할당하고, 조직 프로필을 설정할 수 있습니다. 
+
+- 계속 함께 협업해 온 고객과 파트너 센터를 통해 계속 작업하고자 하는 경우 고객을 파트너 센터의 귀하의 계정에 [연결](request-a-relationship-with-a-customer.md)해야 합니다.  그러면 Microsoft는 청구 및 송장 작성을 이들에게 연결할 수 있습니다. 
 
 
-Partner Center requires that the admin for your company has an email address that is authenticated by Azure AD. The admin can use any of their existing work email accounts from a Microsoft cloud service, including Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services, etc. The process of becoming a reseller will turn this email address into the admin email for a reseller account.
 
-Note that your existing Azure AD-authenticated email address is already registered in a certain market. If you want to sell in a different market, or in multiple markets, you must create a separate email address registered in each market, and use those email addresses to enroll.
-
- 
-
- 
 
 
 

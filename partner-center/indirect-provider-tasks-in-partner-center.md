@@ -1,33 +1,31 @@
 ---
-title: Partner with indirect resellers in CSP | Partner Center
-description: As an indirect provider, or distributor, you can partner with indirect resellers to expand your reach.
+title: "CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터"
+description: "간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다."
 author: MaggiePucciEvans
-ms.openlocfilehash: 85dd503529bda8ef5fa5d67ea04a7aafd85debe1
-ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
+ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/16/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner with indirect resellers in the Cloud Solution Provider program
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
-With such a complex and rapidly changing technology marketplace, customers want the competitive edge that technology solutions can give them. In such a climate, it makes sense for partners to invest in partner-to-partner engagement to extend offerings and enable customers to do even more.
+기술 시장이 매우 복잡하고 빠르게 변화하기 때문에 고객은 기술 솔루션이 제공할 수 있는 경쟁 우위를 원합니다. 이러한 환경에서 파트너는 파트너 간 협력에 투자하여 제품을 확장하고 고객이 더 많은 일을 할 수 있도록 지원하는 것이 중요합니다.
 
-New resellers are entering the market and seeking ways to offer their solutions to customers outside of their markets and locales. As an established technology provider, you're well-positioned to be their route to market. Partner with indirect resellers in the Cloud Solution Provider (CSP) program to connect with other partners, bring new solutions to the market, and advance customers’ adoption of cloud services.
+새로운 재판매인이 시장에 진입하여 그들의 시장 및 지역 외부에 있는 고객에게 솔루션을 제공할 방법을 찾고 있습니다. 견고하게 자리를 잡은 기술 공급자로서 귀사는 재판매인의 시장 진출 경로 역할을 하기에 좋은 위치에 있습니다. CSP(클라우드 솔루션 공급자) 프로그램에서 간접 재판매인과 파트너가 되어 다른 파트너와 연결하고, 시장에 새로운 솔루션을 제공하고, 고객의 클라우드 서비스 도입을 촉진하세요.
 
-In the indirect provider-reseller (two-tier) model, you partner with indirect resellers to offer Microsoft cloud solutions to customers. You purchase products and subscriptions directly from Microsoft and then offer these solutions to customers through your resellers. 
+간접 공급자-재판매인(2계층) 모델에서 간접 공급자는 간접 재판매인과 파트너가 되어 고객에게 Microsoft 클라우드 솔루션을 제공합니다. 간접 공급자는 Microsoft에서 직접 제품 및 구독을 구매한 후 재판매인을 통해 고객에게 솔루션을 제공합니다. 
 
-As an indirect provider, you use Partner Center to:
+간접 공급자는 파트너 센터를 사용하여 다음과 같은 일을 합니다.
 
--   Connect with indirect resellers who can help expand your reach and customer base
--   Establish partnerships with indirect resellers that allow you both to serve common customers
--   Designate indirect resellers to manage specific customers and subscriptions 
--   Manage your relationships with Microsoft, customers, and indirect resellers all in one place
--   [Microsoft의 공식 간접 공급자 목록](https://partnercenter.microsoft.com/en-us/partner/find-a-provider)에 포함 
-
+-   고객 범위 및 고객 기반 확장에 도움을 줄 수 있는 간접 재판매인과 연결
+-   간접 공급자도 공통 고객에게 서비스를 제공하도록 허용하는 재판매인과 파트너 되기
+-   특정 고객 및 구독을 관리할 간접 재판매인 지정 
+-   Microsoft, 고객 및 간접 재판매인과의 관계를 한 곳에서 관리
 
 CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트워크 웹 사이트]( https://partner.microsoft.com)의 [간접 모델 살펴보기](https://partner.microsoft.com/cloud-solution-provider/indirect)를 참조하세요. 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Indirect provider tasks on Partner Center
+## <a name="indirect-provider-tasks-on-partner-center"></a>파트너 센터에서 간접 공급자가 하는 일
 
 다음 단계에 따라 파트너 센터에서 간접 재판매인 및 고객과 파트너가 되어 파트너십을 관리합니다. 2단계 및 3단계에 대해서는 아래에 더 자세히 설명되어 있습니다.
 
@@ -37,95 +35,95 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 2.  간접 재판매인과의 관계 구축
 
-    - Before you can interact and transact with resellers, you must establish partnerships with them in Partner Center. <br>
+    - 재판매인과 상호 작용 및 거개를 시작하려면 먼저 파트너 센터에서 파트너 관계를 설정해야 합니다. <br>
 
-3.  Connect with customers
+3.  고객과의 관계 구축
 
-    - Associate new customers and subscriptions to resellers
-    - Establish reseller relationships with existing customers <br>
+    - 새 고객 및 구독을 재판매인에 연결
+    - 기존 고객과 재판매인 관계 수립 <br>
 
-After you complete these steps, you can manage your reseller partnerships on the **Indirect resellers** page from your **Dashboard** menu.
+이러한 단계를 완료한 후에는 **대시보드** 메뉴의 **간접 재판매인** 페이지에서 재판매인 관계를 관리할 수 있습니다.
 
->**Important**<br> Before you can start working with resellers on Partner Center, they must be enrolled as indirect resellers in the CSP program and have Partner Center accounts. Point your resellers to [Partner with indirect providers in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) for information about enrolling in CSP. 
+>**중요**<br> 파트너 센터에서 재판매인과 협력을 시작하려면 재판매인이 CSP 프로그램에 간접 재판매인으로 등록하고 파트너 센터 계정이 있어야 합니다. CSP 등록에 대한 자세한 내용은 [CSP에서 간접 공급자와 파트너 되기](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)를 참조하라고 재판매인에게 알려주세요. 
 
-## <a name="connect-with-indirect-resellers"></a>Connect with indirect resellers
+## <a name="connect-with-indirect-resellers"></a>간접 재판매인과의 관계 구축
 
-To interact and transact with indirect resellers in Partner Center, you must establish a partnership with them. Having a partnership with an indirect reseller allows you and the reseller to both serve common customers.
+파트너 센터에서 간접 재판매인과 상호 작용 및 거래를 시작하려면 먼저 간접 재판매인과 파트너 관계를 설정해야 합니다. 간접 재판매인과 파트너가 되면 귀사와 재판매인 모두 공통 고객에게 서비스를 제공할 수 있게 됩니다.
 
-To establish a partnership, email a partnership request to the reseller. Be sure to have the reseller’s email address on hand before you get started. 
+파트너 관계를 설정하려면 재판매인에게 파트너 관계 요청 전자 메일을 보냅니다. 시작하기 전에 재판매인의 전자 메일 주소를 준비해 두세요. 
 
-1. Select **Indirect resellers** from your **Dashboard** menu. 
+1. **대시보드** 메뉴에서 **간접 재판매인**을 선택합니다. 
 
-2. On the **Indirect resellers** page, select **Request a partnership**. A draft email message appears.
+2. **간접 재판매인** 페이지에서 **파트너 관계 요청**을 선택합니다. 임시 전자 메일 메시지가 표시됩니다.
 
-3. Select **Open in email** to open the message in your default email application, or select **Copy to clipboard** to copy and then paste the message into an email. Select **Done** when finished.
+3. **전자 메일에서 열기**를 선택하여 기본 전자 메일 응용 프로그램에서 메시지를 열거나 **클립보드에 복사**를 선택하여 메시지를 복사한 다음 전자 메일에 붙여 넣습니다. 작업을 마쳤으면 **완료**를 선택합니다.
 
-   >**Important** You can edit the text in the email message, but be sure to include the link as it is personalized for your Partner Center account.
+   >**중요** 전자 메일 메시지에서 텍스트를 편집할 수 있지만, 링크를 포함하는 것을 잊지 마세요. 이 링크는 파트너 센터 계정에 맞게 개인화된 링크입니다.
 
-4. After the reseller accepts your partnership request, they’ll appear in your indirect resellers list, and you’ll be able to: 
+4. 재판매인이 파트너 관계 요청을 수락하면 간접 재판매인 목록에 해당 재판매인이 표시되고, 귀사는 다음과 같은 일을 할 수 있습니다. 
 
-    -   Add new customers on their behalf
-    -   Submit orders on behalf of their customers 
-    -   Associate them with a subscription so they can manage it on behalf of the customer who purchased it
-    -   Designate them as the customer’s support contact for specific subscriptions
+    -   간접 재판매인을 대신하여 새 고객 추가
+    -   간접 재판매인의 고객을 대신하여 주문 제출 
+    -   간접 재판매인이 구독을 구입한 고객을 대신하여 구독을 관리할 수 있도록 간접 재판매인을 구독과 연결
+    -   간접 재판매인을 특정 구독의 고객 지원 담당자로 지정
 
-Depending on the level of access and involvement you want the reseller to have, you may want to take one or more of the actions described below.
+간접 재판매인에게 허용하려는 액세스 및 개입 수준에 따라 아래에 설명된 작업 중 하나 이상을 수행합니다.
 
-| **To accomplish this** | **Do this** | **Where** |
+| **이렇게 하려면** | **할 일** | **위치** |
 |   ------------------   |   -------   |   -----   |
-| Enable the reseller to manage a customer’s account and have administrator permissions to manage their subscriptions | Associate a reseller to a customer account when adding a new customer | On the **New customer** page |
-| Give the reseller credit for incentives | Associate the reseller to the subscription (new or existing) | On the **New subscription** page |
-| Delegate customer support for specific subscriptions to the reseller | Select the reseller from the **Designated support contact** list | On the subscription’s detail page: Select the customer from your **Customers** page, then select the subscription from the customer’s **Subscriptions** page |
+| 재판매인이 고객의 계정을 관리하도록 허용하고 재판매인에게 고객의 구독을 관리할 관리자 권한 부여 | 새 고객을 추가할 때 재판매인을 고객 계정에 연결 | **새 고객** 페이지 |
+| 재판매인에게 인센티브 크레딧 제공 | 재판매인을 구독(새 구독 또는 기존 구독)에 연결 | **새 구독** 페이지 |
+| 특정 구독의 고객 지원을 재판매인에게 위임 | **지정된 지원 담당자** 목록에서 재판매인 선택 | 구독의 세부 정보 페이지: **고객** 페이지에서 고객을 선택한 다음 해당 고객의 **구독** 페이지에서 구독 선택 |
 
 
-## <a name="connect-with-customers"></a>Connect with customers
+## <a name="connect-with-customers"></a>고객과의 관계 구축
 
-When you get new customers, you need to create accounts for them in Partner Center. When you add a new customer account, you can designate a specific reseller to manage the account and administer the customers’ subscriptions and services on their behalf. 
+새 고객을 모집한 경우 파트너 센터에서 새 고객에 대한 계정을 만들어야 합니다. 새 고객 계정을 추가할 때 계정을 관리하고 고객을 대신하여 구독 및 서비스를 관리할 특정 재판매인을 지정할 수 있습니다. 
 
-When you associate a reseller with a new customer account, you are delegating account and subscription management to the reseller. This means that the reseller has administrator access to the customer’s subscriptions and services and can manage them on behalf of the customer.
+재판매인을 새 고객 계정과 연결하는 것은 계정 및 구독 관리를 재판매인에게 위임하는 것입니다. 즉, 재판매인이 고객의 구독에 대한 관리자 액세스 권한을 갖게 되어 고객 대신 구독을 관리할 수 있습니다.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Add new customers and associate them with indirect resellers
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>새 고객을 추가하고 간접 재판매인과 연결
 
-1.  Select **Indirect resellers** from your **Dashboard** menu. 
+1.  **대시보드** 메뉴에서 **간접 재판매인**을 선택합니다. 
 
-2.  Find the indirect reseller that you want to assign new customers to and then select **Add new customer**. Note that the indirect reseller is already selected for you on the customer detail form. Provide the customer’s details and then select **Next: Subscriptions** . 
-3.  On the **New subscription** page, select the subscription(s) the customer wants to buy and then enter the number of licenses the customer needs. 
+2.  새 고객을 할당할 간접 재판매인을 찾은 후 **새 고객 추가**를 선택합니다. 고객 세부 정보 양식에서 간접 재판매인이 이미 선택되어 있습니다. 고객의 세부 정보를 제공하고 **다음: 구독**을 선택합니다. 
+3.  **새 구독** 페이지에서 고객이 구입하려는 구독을 선택한 다음 고객에게 필요한 라이선스 수를 입력합니다. 
 
-4.  Select **Next: Review**.
+4.  **다음: 검토**를 선택합니다.
 
-5.  If the order is correct, select **Submit**. 주문이 올바르지 않으면 **취소**를 선택하여 전체 작업을 취소하고 다시 시작합니다.
+5.  주문이 올바르면 **제출**을 선택합니다. 주문이 올바르지 않으면 **취소**를 선택하여 전체 작업을 취소하고 다시 시작합니다.
 
-6.  주문을 제출하면 **확인** 페이지가 나타납니다. **설정 정보** 아래에 관리 사용자 계정 이름 및 임시 암호가 표시됩니다. Copy down the user account name and password information so you can send it on to the new customer. 
+6.  주문을 제출하면 **확인** 페이지가 나타납니다. **설정 정보** 아래에 관리 사용자 계정 이름 및 임시 암호가 표시됩니다. 새 고객에게 보낼 수 있도록 사용자 계정 이름 및 암호 정보를 복사해 둡니다. 
 
-    >**Important**  Be sure to make a note of the user account name and password as you won’t be able to access this information again after you close this page.
+    >**중요** 이 페이지를 닫은 후에는 이 정보에 다시 액세스할 수 없으므로 반드시 사용자 계정 이름 및 암호를 기록해 두세요.
 
-7.  Select **Done**. The new customer appears in your customer list, associated with the indirect reseller. The reseller now has admin access to the customer’s account information and subscriptions and can manage the subscriptions on the customer’s behalf.
+7.  **완료**를 선택합니다. 새 고객이 고객 목록에 표시되고, 간접 재판매인과 연결되어 있습니다. 이제 재판매인은 고객의 계정 정보 및 구독에 관리자 권한으로 액세스할 수 있으며 고객을 대신하여 구독을 관리할 수 있습니다.
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Add new subscriptions to customer accounts
+### <a name="add-new-subscriptions-to-customer-accounts"></a>고객 계정에 새 구독 추가
 
-When customers want to buy new subscriptions, upgrade existing ones, or buy additional licenses, you make these changes in the customer’s account. 
+고객이 새 구독을 구입하거나 기존 구독을 업그레이드하거나 추가 라이선스를 구입하려는 경우 간접 공급자는 고객 계정에서 이러한 변경 작업을 수행할 수 있습니다. 
 
-1.  Select **Customers** from your **Dashboard** menu. 
+1.  **대시보드** 메뉴에서 **고객**을 선택합니다. 
 
-2.  Find the customer whose account you want to change. You can filter the list by indirect reseller to narrow your choices. Expand the customer’s record by selecting the down arrow, and then selecting **Add subscription**.
+2.  계정을 변경할 고객을 찾습니다. 간접 재판매인을 기준으로 목록을 필터링하면 선택 범위를 좁힐 수 있습니다. 아래쪽 화살표를 선택하여 고객의 기록을 확장한 다음 **구독 추가**를 선택합니다.
 
-3.  On the **New subscription** page, select the subscription(s) and enter the number of licenses the customer wants to purchase. 
+3.  **새 구독** 페이지에서 구독을 선택하고 고객이 구입하려는 라이선스 수를 입력합니다. 
 
-4.  To associate the subscription with a reseller, select the reseller’s name from the list and then select **Submit**. Associating the reseller with the subscription enables them to earn incentives, if applicable.
+4.  구독을 재판매인과 연결하려면 목록에서 재판매인 이름을 선택한 다음 **제출**을 선택합니다. 재판매인을 구독과 연결하면 재판매인이 인센티브를 획득할 수 있습니다(해당하는 경우).
 
-5.  The new subscription(s) appears in the customer’s subscriptions list. 
+5.  고객의 구독 목록에 새 구독이 표시됩니다. 
 
-6.  If you want the reseller to handle customer support requests for the new subscription, select the subscription and then select the reseller from the **Designated support contact** list.
+6.  새 구독에 대한 고객 지원 요청을 재판매인이 처리하게 하려면 구독을 선택한 다음 **지정된 지원 담당자** 목록에서 재판매인을 선택합니다.
 
-7.  Select **Submit** when finished. 
+7.  작업을 마쳤으면 **제출**을 선택합니다. 
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>참고 항목
 
-For more information about managing customer accounts and subscriptions, see:
+고객 계정 및 구독 관리에 대한 자세한 내용은 다음을 참조하세요.
 
-[Customer accounts](customer-accounts.md)
+[고객 계정](customer-accounts.md)
 
-[Customer subscriptions](customer-subscriptions.md)
+[고객 구독](customer-subscriptions.md)
 
 
 

@@ -1,25 +1,30 @@
 ---
 title: "청구 | 파트너 센터"
-Description: "클라우드 솔루션 공급자 파트너는 고객의 라이선스 기반 구독 및 사용량 기준 구독에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다."
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>청구
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-클라우드 솔루션 공급자 파트너는 고객의 라이선스 기반 구독 및 사용량 기준 구독에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
+청구의 경우 **대시보드** 메뉴로 이동한 다음 **청구**를 선택하면 청구 내역과 추세, 송장 및 조정 파일의 링크, 최근 결제가 표시됩니다.
 
-청구서를 보려면 **대시보드** 메뉴로 이동한 다음 **청구**를 선택합니다. 이 청구 페이지에는 청구 내역과 추세, 청구서 및 조정 파일의 링크, 최근 결제가 표시됩니다.
+월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
+
+>**참고**<br>
+송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
+
+고객에 대한 요금 청구에 대해 알아야 할 주요 정보는 다음과 같습니다.
 
 -   귀하가 송장 작성을 처리하는 방식에 대해 Microsoft는 어떠한 요구 사항이나 조건도 적용하지 않습니다.
 -   고객의 사용량을 확인하려면 조정 파일 내에 고객 ID/이름 및 기타 관련 필드를 사용합니다.
@@ -89,7 +94,7 @@ ms.lasthandoff: 10/18/2017
 <tr class="even">
 <td>송장 가용성</td>
 <td><ul>
-<li>파트너 센터의 청구 페이지에서 송장 및 조정 파일을 보고 다운로드할 수 있습니다.</li>
+<li>파트너 센터의 청구 페이지에서 송장 및 조정 파일을 보고 다운로드할 수 있습니다. 월별 송장은 파트너 센터에서 선택한 청구 날짜 4일 이내에 제공됩니다.</li>
 </ul></td>
 </tr>
 <tr class="odd">

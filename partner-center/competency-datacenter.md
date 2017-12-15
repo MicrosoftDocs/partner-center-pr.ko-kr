@@ -3,11 +3,11 @@ title: "데이터 센터 역량"
 description: "데이터 센터 역량은 데이터 센터를 보다 유연하고 확장 가능하고 비용 효율적인 솔루션으로 전환하는 파트너를 인증하는 역량입니다."
 author: Daniel Simpson
 keywords: "역량, 역량, 데이터 센터"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>데이터 센터
 데이터 센터 역량은 데이터 센터를 보다 유연하고 확장 가능하고 비용 효율적인 솔루션으로 전환하는 파트너를 인증하는 역량입니다.
@@ -18,14 +18,16 @@ ms.lasthandoff: 09/29/2017
 
     - **System Center** 2012 핵심 영역
 
-        - [시험 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012를 사용하여 사설 클라우드 모니터링 및 운영
-        - [시험 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012를 사용하여 사설 클라우드 구성 및 배포
+        - [시험 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012를 사용하여 사설 클라우드 모니터링 및 운영*
+        - [시험 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012를 사용하여 사설 클라우드 구성 및 배포*
 
-    - **가상화** 핵심 영역
+\* 2017년 12월 31일부터 사용 중지. 이러한 시험은 2018년 12월 31일까지 역량 자격으로 계속 인정됩니다. 2017년 11월 30일까지 이 시험에 등록할 수 있습니다.
+
+   - **가상화** 핵심 영역
 
         - [시험 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Windows Server Virtualization Hyper-V 및 System Center를 사용하여 서버 가상화
 
-    - **Windows Server 2012** 핵심 영역
+   - **Windows Server 2012** 핵심 영역
 
         - [시험 70 410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Windows Server 2012 설치 및 구성
         - [시험 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Windows Server 2012 관리
@@ -34,7 +36,7 @@ ms.lasthandoff: 09/29/2017
         - [시험 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): 고급 서버 인프라 구현
         - [시험 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): 기술을 MCSA Windows Server 2012로 업그레이드
 
-    - **Windows Server** 2016 핵심 영역
+   - **Windows Server** 2016 핵심 영역
         - [시험 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016을 사용하여 설치 저장 및 계산
         - [시험 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016으로 네트워킹
         - [시험 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016으로 신원 확인
