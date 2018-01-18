@@ -1,37 +1,38 @@
 ---
 title: "파트너 센터 계정 만들기 | 파트너 센터"
-description: "파트너 센터에서 Microsoft 파트너 네트워크 멤버십, 제품 및 혜택을 관리하는 방법을 알아봅니다."
+description: "Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다."
 author: MaggiePucciEvans
-ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
 **적용 대상**
 
 -   파트너 센터
+-   Microsoft 파트너 네트워크 구성원
 
 
 이 문서는 파트너 센터 계정을 만드는 방법을 설명하며 Partner Membership Center에서 파트너 센터로 파트너 네트워크 멤버십 정보를 이동하는 파트너를 대상으로 합니다. 
 
 파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 회원이어야 합니다. 네트워크 회원이 아닌 경우 [지금 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)할 수 있습니다. Microsoft 파트너 네트워크의 멤버십에 대한 [자세한 내용](https://partner.microsoft.com/membership)을 알아보세요.  
 
->**참고**<br> 이러한 링크는 Microsoft 파트너 네트워크 웹 사이트로 연결됩니다. 다시 이 사이트, 즉 [파트너 센터](https://partnercenter.microsoft.com/partner/home)로 돌아와서 Action Pack 구독 혜택을 활성화하세요.
-
 파트너 센터 계정을 만들면 다음을 수행할 수 있습니다.
 
--   Microsoft Action Pack을 포함한 멤버십 혜택 구입 
+-   [Microsoft Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
 
--   네트워크 멤버십 혜택 활성화 및 관리
+-   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
+
+-   [Microsoft에서 잠재 고객 가져오기 및 관리](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
 파트너 센터에서 계정을 만들고 Microsoft 파트너 네트워크 멤버십을 갱신하려면 다음 정보를 준비해야 합니다. 시작하기 전에 다음 항목을 수집하는 데 몇 분 정도 걸릴 수 있습니다.
 
--   전역 관리자는 이메일로 작업합니다. 회사 계정이 무엇인지 여부가 확실하지 않은 경우 [Azure Active Directory 테넌트 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.
+-   전역 관리자는 이메일로 작업합니다. 회사 계정이 무엇인지 여부가 확실하지 않은 경우 [귀사의 회사 계정 테넌트 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.
 
     회사에 아직 회사 계정이 없는 경우 계정 생성 프로세스를 통해 만들 수 있습니다. 
 
@@ -47,11 +48,11 @@ ms.lasthandoff: 11/01/2017
 
 1.  **시작** 페이지의 정보를 검토한 후 **다음**을 선택합니다.
 
-2.  전역 관리자로 회사 이메일을 사용하여 로그인합니다. 회사 계정이 무엇인지 여부가 확실하지 않은 경우 [Azure Active Directory 테넌트 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.
+2.  회사의 회사 계정에 전역 관리자로 로그인합니다. 회사 계정이 무엇인지 여부가 확실하지 않은 경우 [귀사의 회사 계정 테넌트 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.
 
-    조직에 회사 이메일 계정이 있으면 **Azure AD에 로그인**을 선택합니다. 다음 페이지에서 테넌트의 전역 관리자 자격 증명을 입력합니다. 
+    조직에 회사 이메일 계정이 있으면 **로그인**을 선택합니다. 다음 페이지에서 회사 계정의 전역 관리자 자격 증명을 입력합니다. 
 
-    조직에 회사 계정이 없으면 **새 테넌트 만들기**를 선택하여 하나 만듭니다. Azure AD 테넌트(회사 계정)를 설정한 후 새 회사 메일 계정에 전역 관리자 자격 증명을 사용하여 로그인합니다.
+    조직에 회사 계정이 없으면 **계정 만들기**를 선택하여 하나 만듭니다. 회사 계정을 만든 후 방금 만든 회사 계정에 전역 관리자 자격 증명을 사용하여 로그인합니다.
 
 3.  조직의 법적 회사 프로필 및 기본 연락처 정보를 제공하거나 업데이트한 후 **지금 등록**을 선택합니다. 
 
@@ -69,12 +70,12 @@ ms.lasthandoff: 11/01/2017
 
 ## <a name="next-steps"></a>다음 단계
 
-[사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
+-   [사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
 
-[Microsoft Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
+-   [Microsoft Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
 
-[Microsoft 파트너 네트워크 멤버십 혜택 관리](manage-your-partner-network-benefits.md)
+-   [Microsoft 파트너 네트워크 멤버십 혜택 관리](manage-your-partner-network-benefits.md)
 
-[골드 및 실버 멤버십을 위한 역량 요구 사항에 대해 알아보기](learn-about-competencies.md)
+-   [골드 및 실버 멤버십을 위한 역량 요구 사항에 대해 알아보기](learn-about-competencies.md)
 
-[마케팅 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
+-   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)

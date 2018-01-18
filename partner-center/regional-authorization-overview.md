@@ -1,76 +1,33 @@
 ---
-title: CSP regional authorization | Partner Center
-description: With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world.
+title: "CSP 지역 권한 설정 | 파트너 센터"
+description: "이제 국제 비즈니스를 하는 파트너는 지역 권한 설정을 통해 전 세계 다양한 지역 및 국가에 있는 고객을 더 쉽게 관리할 수 있습니다."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: b1875f5a814a2432a757dc5619b408041659eb26
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+keywords: "Azure AD 테넌트, 사용자 테넌트 통합, CSP의 테넌트, CSP의 파트너 계정, CSP 시장 및 지역, CSP를 통해 어디에서 판매할 수 있나요?"
+ms.openlocfilehash: 096f8421a9ccb95c00c79929124ed3c9adaf6933
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 12/08/2017
 ---
-# <a name="csp-regional-authorization"></a>CSP regional authorization
+# <a name="tenant-consolidation-strategies-in-csp"></a>CSP의 테넌트 통합 전략
 
 
-\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
+\[일부 정보는 상업용으로 출시되기 전에 상당 부분 수정될 수 있는 시험판 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보에 대해 명시적 또는 묵시적 보증을 하지 않습니다.\]
 
-With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world. This reduces the number of tenants that partners need to manage, reduces the billing dates that partners have to handle, and gives partners a more consolidated view of their sales.
+이제 국제 비즈니스를 하는 파트너는 지역 권한 설정을 통해 전 세계 다양한 지역 및 국가에 있는 고객을 더 쉽게 관리할 수 있습니다. 따라서 파트너가 관리해야 하는 테넌트 수가 줄어들고, 파트너가 처리해야 하는 청구 날짜가 줄어들며, 파트너가 영업에 대한 더 통합된 보기를 이용할 수 있습니다.
 
-In the past, with the exception of the European Union/EFTA, partners needed to have a physical entity in each country where they wanted to transact. This meant that partners needed to have multiple tenants set up in Partner Center, with multiple billing dates and other settings. In regions such as Latin America, partners were not able to easily work with customers in a neighboring region or country, and in some cases, they were restricted completely.
+과거에는 유럽 연합/EFTA를 제외하고는 파트너가 거래하기를 원하는 각 국가에 실제 업체가 있어야 했습니다. 즉, 파트너가 파트너 센터에서 청구 날짜와 기타 설정이 여러 개인 다중 테넌트를 설정해야 했습니다. 라틴 아메리카와 같은 지역에서는 파트너가 인접 지역 또는 국가에 있는 고객과 쉽게 작업할 수 없었으며, 일부 경우 완전히 제한되었습니다.
 
->**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
+>**참고**<br> [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
 
-## <a name="planning"></a>Planning
+## <a name="planning"></a>계획
 
-Partners have multiple options for consolidating their regional tenants, as outlined below.
+아래에 설명된 것처럼 파트너는 지역 테넌트를 통합하는 여러 옵션을 이용할 수 있습니다.
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a>Separate tenants for single regions or countries
+### <a name="separate-tenants-for-single-regions-or-countries"></a>단일 지역 또는 국가에 대한 별도 테넌트
 
-Tenant consolidation is optional. Partners can continue to manage their international customers with separate tenants, as shown in the following table.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Partner location(s)</th>
-<th>Billing Date(s)</th>
-<th>Customer location(s)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Colombia</p></td>
-<td><p>Billing date 10th</p></td>
-<td><p>Colombia</p></td>
-</tr>
-<tr class="even">
-<td><p>Chile</p></td>
-<td><p>Billing date 15th</p></td>
-<td><p>Chile</p></td>
-</tr>
-<tr class="odd">
-<td><p>Paraguay</p></td>
-<td><p>Billing date 5th</p></td>
-<td><p>Paraguay</p></td>
-</tr>
-<tr class="even">
-<td><p>Peru</p></td>
-<td><p>Billing date 2nd</p></td>
-<td><p>Peru</p></td>
-</tr>
-</tbody>
-</table>
-
- 
-
-## <a name="one-tenant-for-multiple-regions-or-countries"></a>One tenant for multiple regions or countries
-
-
-Partners can choose to consolidate their operations from multiple CSP tenants to a single CSP tenant.
+테넌트 통합은 옵션입니다. 다음 표에 표시된 것처럼 파트너는 별도 테넌트가 있는 국제 고객을 계속 관리할 수 있습니다.
 
 <table>
 <colgroup>
@@ -80,29 +37,41 @@ Partners can choose to consolidate their operations from multiple CSP tenants to
 </colgroup>
 <thead>
 <tr class="header">
-<th>Partner location</th>
-<th>Billing Date</th>
-<th>Customer location(s)</th>
+<th>파트너 위치</th>
+<th>청구 날짜</th>
+<th>고객 위치</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Colombia</p></td>
-<td><p>Billing date 10th</p></td>
-<td><p>Colombia</p>
-<p>Chile</p>
-<p>Paraguay</p>
-<p>Peru</p></td>
+<td><p>콜롬비아</p></td>
+<td><p>청구 날짜 10일</p></td>
+<td><p>콜롬비아</p></td>
+</tr>
+<tr class="even">
+<td><p>칠레</p></td>
+<td><p>청구 날짜 15일</p></td>
+<td><p>칠레</p></td>
+</tr>
+<tr class="odd">
+<td><p>파라과이</p></td>
+<td><p>청구 날짜 5일</p></td>
+<td><p>파라과이</p></td>
+</tr>
+<tr class="even">
+<td><p>페루</p></td>
+<td><p>청구 날짜 2일</p></td>
+<td><p>페루</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="some-tenants-for-some-regions-or-countries"></a>Some tenants for some regions or countries
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>여러 지역 또는 국가 대한 하나의 테넌트
 
 
-Partners can choose to consolidate their operations from multiple CSP tenants to fewer CSP tenants.
+파트너는 여러 CSP 테넌트에서 단일 CSP 테넌트로의 작업을 통합하도록 선택할 수 있습니다.
 
 <table>
 <colgroup>
@@ -112,98 +81,130 @@ Partners can choose to consolidate their operations from multiple CSP tenants to
 </colgroup>
 <thead>
 <tr class="header">
-<th>Partner location(s)</th>
-<th>Billing Date(s)</th>
-<th>Customer location(s)</th>
+<th>파트너 위치</th>
+<th>청구 날짜</th>
+<th>고객 위치</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Colombia</p></td>
-<td><p>Billing date 10th</p></td>
-<td><p>Colombia</p>
-<p>Chile</p></td>
-</tr>
-<tr class="even">
-<td><p>Paraguay</p></td>
-<td><p>Billing date 5th</p></td>
-<td><p>Paraguay</p>
-<p>Peru</p></td>
+<td><p>콜롬비아</p></td>
+<td><p>청구 날짜 10일</p></td>
+<td><p>콜롬비아</p>
+<p>칠레</p>
+<p>파라과이</p>
+<p>페루</p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="consolidating-tenants"></a>Consolidating tenants
+## <a name="some-tenants-for-some-regions-or-countries"></a>일부 지역 또는 국가에 대한 일부 테넌트
 
 
-If you want to consolidate tenants, we recommend the following:
+파트너는 여러 CSP 테넌트에서 소수의 CSP 테넌트로의 작업을 통합하도록 선택할 수 있습니다.
 
--   **Multiple regions/countries but only one transacting**. If you are only transacting in one country/region, but have a number of other tenants set up, use the transacting tenant as your new centralized tenant for that region and cancel your other tenants.
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>파트너 위치</th>
+<th>청구 날짜</th>
+<th>고객 위치</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>콜롬비아</p></td>
+<td><p>청구 날짜 10일</p></td>
+<td><p>콜롬비아</p>
+<p>칠레</p></td>
+</tr>
+<tr class="even">
+<td><p>파라과이</p></td>
+<td><p>청구 날짜 5일</p></td>
+<td><p>파라과이</p>
+<p>페루</p></td>
+</tr>
+</tbody>
+</table>
 
--   **Multiple countries/regions but only one Transacting.** If you are transacting in a number of countries/regions, we recommend that you centralize to the tenant with the largest number of seats. You should cancel the subscriptions in the countries/regions where you have smaller amounts of seats.
+ 
+
+## <a name="consolidating-tenants"></a>테넌트 통합
 
 
-## <a name="countryregion-information"></a>Country/region information
+테넌트를 통합하려는 경우 다음과 같이 하는 것이 좋습니다.
+
+-   **여러 지역/국가, 하나의 거래**. 한 국가/지역에서만 거래하지만 설정된 다른 테넌트가 여러 개인 경우 거래 테넌트를 해당 지역에 대한 새 중앙 집중식 테넌트로 사용하고 다른 테넌트를 취소합니다.
+
+-   **여러 국가/지역, 하나의 거래.** 여러 국가/지역에서 거래하는 경우 최대 실제 사용자 수가 포함된 테넌트로 중앙 집중화하는 것이 좋습니다. 실제 사용자 수가 적은 국가/지역의 구독을 취소해야 합니다.
 
 
-Consider the following before beginning consolidating tenants:
+## <a name="countryregion-information"></a>국가/지역 정보
 
--   **If your Microsoft sell-to location is the United States**, your Territory includes customers located in the United States.
 
--   **If your Microsoft sell-to location is Canada**, your Territory includes customers located in Canada.
+테넌트 통합을 시작하기 전에 다음을 고려하세요.
 
--   **If your Microsoft sell-to location is Brazil**, your Territory includes customers located in Brazil.
+-   **Microsoft 판매 대상 위치가 미국인 경우** 지역은 미국에 있는 고객을 포함합니다.
+
+-   **Microsoft 판매 대상 위치가 캐나다인 경우** 지역은 캐나다에 있는 고객을 포함합니다.
+
+-   **Microsoft 판매 대상 위치가 브라질인 경우** 지역은 브라질에 있는 고객을 포함합니다.
 
 -   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 앵귈라, 앤티가 바부다, 아르헨티나, 아루바, 바하마, 바베이도스, 벨리즈, 버뮤다, 볼리비아, 보네르, 사바 및 세인트외수타티우스, 케이맨 제도, 칠레, 콜롬비아, 코스타리카, 쿠라사오, 도미니카 공화국, 에콰도르, 엘살바도르, 프랑스령 기아나, 과들루프, 과테말라, 온두라스, 자메이카, 마르티니크, 멕시코, 니카라과, 파나마, 파라과이, 페루, 푸에르토리코, 세인트 크리스토퍼 네비스, 세인트 루시아, 생 마르탱, 세인트 빈센트 그레나딘, 신트마르텐, 수리남, 트리니다드 토바고, 터크스 케이커스 제도, 우루과이, 베네수엘라, 미국령 버전 아일랜드.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Mayotte, Monaco, Netherlands, New Caledonia, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Vatican City.
+-   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 안도라, 오스트리아, 벨기에, 불가리아, 크로아티아, 키프로스, 체코 공화국, 덴마크, 에스토니아, 페로 제도, 핀란드, 프랑스, 독일, 그리스, 그린란드, 헝가리, 아이슬란드, 아일랜드, 맨 섬, 이탈리아, 저지, 라트비아, 리히텐슈타인, 리투아니아, 룩셈부르크, 마다가스카르, 말라위, 말리, 몰타, 마요트, 모나코, 네덜란드, 뉴칼레도니아, 노르웨이, 폴란드, 포르투갈, 루마니아, 산마리노, 슬로바키아, 슬로베니아, 스페인, 스웨덴, 스위스, 영국, 바티칸.
 
-    >**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
+    >**참고**<br> [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
 
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burundi, Comoros, Egypt, French Polynesia, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Libya, Republic of Macedonia (FYROM), Moldova, Mongolia, Montenegro, Morocco, Mozambique, Oman, Pakistan, Palestinian Authority, Qatar, Reunion, Saudi Arabia, Serbia, Seychelles, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe.
+-   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 아프가니스탄, 알바니아, 알제리, 아르메니아, 아제르바이잔, 바레인, 벨라루스, 베냉, 보스니아 헤르체고비나, 부룬디, 코모로, 이집트, 프랑스령 폴리네시아, 조지아, 이라크, 이스라엘, 요르단, 카자흐스탄, 쿠웨이트, 키르기스스탄, 레바논, 리비아, 마케도니아(FYROM), 몰도바, 몽골, 몬테네그로, 모로코, 모잠비크, 오만, 파키스탄, 팔레스타인 자치 정부, 카타르, 리유니언, 사우디아라비아, 세르비아, 세이셸, 남아프리카 공화국, 타지키스탄, 토고, 튀니지, 터키, 투르크메니스탄, 우크라이나, 아랍에미리트연합국, 우즈베키스탄, 예멘, 짐바브웨.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia.
+-   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 앙골라, 보츠와나, 카메룬, 카보베르데, 코트디부아르, 에티오피아, 가나, 케냐, 모리셔스, 나미비아, 나이지리아, 르완다, 세네갈, 탄자니아, 우간다, 잠비아.
 
--   **If your Microsoft sell-to location is Russia**, your Territory includes customers located in Russia.
+-   **Microsoft 판매 대상 위치가 러시아인 경우** 지역은 러시아에 있는 고객을 포함합니다.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Macao SAR, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Timor-Leste, Tonga, Vietnam.
+-   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 방글라데시, 부탄, 브루나이, 캄보디아, 홍콩 특별 행정구, 인도네시아, 라오스, 마카오 특별 행정구, 말레이시아, 몰디브, 마샬 제도, 미얀마, 네팔, 파푸아뉴기니, 필리핀, 싱가포르, 스리랑카, 태국, 동티모르, 통가, 베트남.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Australia or Fiji.
+-   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 오스트레일리아 또는 피지.
 
--   **If your Microsoft sell-to location is New Zealand**, your Territory includes customers located in New Zealand.
+-   **Microsoft 판매 대상 위치가 뉴질랜드인 경우** 지역은 뉴질랜드에 있는 고객을 포함합니다.
 
--   **If your Microsoft sell-to location is India**, your Territory includes customers located in India.
+-   **Microsoft 판매 대상 위치가 인도인 경우** 지역은 인도에 있는 고객을 포함합니다.
 
--   **If your Microsoft sell-to location is Japan**, your Territory includes customers located in Japan.
+-   **Microsoft 판매 대상 위치가 일본인 경우** 지역은 일본에 있는 고객을 포함합니다.
 
--   **If your Microsoft sell-to location is Korea**, your Territory includes customers located in Korea.
+-   **Microsoft 판매 대상 위치가 한국인 경우** 지역은 한국에 있는 고객을 포함합니다.
 
--   **If your Microsoft sell-to location is Taiwan**, your Territory includes customers located in Taiwan.
+-   **Microsoft 판매 대상 위치가 대만인 경우** 지역은 대만에 있는 고객을 포함합니다.
 
-## <a name="billing-currencies-by-country"></a>Billing currencies by country
+## <a name="billing-currencies-by-country"></a>국가별 청구 통화
 
-Your geographic location determines the currency in which you are billed, as shown in the following table. Note that due to tax and legal implications, if you want to use a different billing currency, you'll need to create a new tenant and specify that currency. 
+다음 표와 같이 지리적 위치에 따라 청구 통화가 결정됩니다. 다른 청구 통화를 사용하려는 경우 세금 및 법적 책임 때문에 새로운 테넌트를 만들고 해당 통화를 지정해야 합니다. 
 
-| Currency | Country |
+| 통화 | 국가 |
 | ---- | ---- |
 | USD | 알바니아, 앵귈라, 앤티가 바부다, 아르헨티나, 아르메니아, 아루바, 아제르바이잔, 바하마, 바레인, 방글라데시, 바베이도스, 벨로루시, 벨리즈, 베냉, 버뮤다, 볼리비아, 보네르, 사바 및 세인트외수타티우스, 브라질, 브루나이, 부룬디, 카메룬, 케이맨 제도, 칠레, 콜롬비아, 코모로, 코스타리카, 퀴라소, 도미니카 공화국, 에콰도르, 이집트, 엘살바도르, 프랑스령 기아나, 프랑스령 폴리네시아, 조지아, 가나, 과테말라, 온두라스, 홍콩 특별 행정구, 인도네시아, 이라크, 이스라엘, 자메이카, 카자흐스탄, 케냐, 쿠웨이트, 키르기스스탄, 레바논, 마카오 특별 행정구, 마다가스카르, 말라위, 말레이시아, 말리, 모리셔스, 마요트, 멕시코, 모로코, 나미비아, 뉴칼레도니아, 니카라과, 나이지리아, 오만, 파키스탄, 파나마, 파라과이, 페루, 필리핀, 푸에르토리코, 카타르, 리유니언, 르완다, 세인트 루시아, 생 마르탱, 세인트 빈센트 그레나딘, 사우디아라비아, 세르비아, 세이셸, 싱가포르, 신트마르텐, 남아프리카 공화국, 스리랑카, 수리남, 탄자니아, 태국, 동티모르, 토고, 트리니다드 토바고, 튀니지, 터키, 터크스 케이커스 제도, 미국령 버전 아일랜드, 우크라이나 아랍에미리트, 미국, 우루과이, 베네수엘라, 베트남  | 
-| TWD | Taiwan |
-| SEK | Sweden |
-| INR | India |
-| RUB | Russia |
-| NZD | New Zealand |
-| NOK | Norway |
-| KRW | Korea |
-| JPY | Japan |
-| GBP | Isle of Man, Jersey, United Kingdom |
-| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
-| DKK | Denmark |
-| CHF | Switzerland |
-| CAD | Canada |
-| AUD | Australia, Fiji, Marshall Islands, Papua New Guinea, Tonga |
+| TWD | 대만 |
+| SEK | 스웨덴 |
+| INR | 인도 |
+| RUB | 러시아 |
+| NZD | 뉴질랜드 |
+| NOK | 노르웨이 |
+| KRW | 한국 |
+| JPY | 일본 |
+| GBP | 맨 섬, 저지, 영국 |
+| EUR | 안도라, 오스트리아, 벨기에, 크로아티아, 체코 공화국, 에스토니아, 페로 제도, 핀란드, 프랑스, 독일, 그리스, 헝가리, 아이슬란드, 아일랜드, 이탈리아, 라트비아, 리히텐슈타인, 리투아니아, 룩셈부르크/벨기에, 네덜란드, 폴란드, 포르투갈, 루마니아, 산마리노, 슬로바키아, 슬로베니아, 스페인 |
+| DKK | 덴마크 |
+| CHF | 스위스 |
+| CAD | 캐나다 |
+| AUD | 오스트레일리아, 피지, 마샬 제도, 파푸아뉴기니, 통가 |
 
 
  

@@ -1,13 +1,14 @@
 ---
 title: "기존 구독에 라이선스 또는 서비스 추가 | 파트너 센터"
-description: "고객이 현재 구독에서 제공하는 것보다 많은 사용자 수를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다."
+description: "고객이 현재 구독에서 제공하는 것보다 많은 사용자 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입"
+ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
 

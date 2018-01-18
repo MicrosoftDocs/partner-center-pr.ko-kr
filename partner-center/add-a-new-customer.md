@@ -3,18 +3,19 @@ title: "새 고객 추가 | 파트너 센터"
 description: "구독을 판매하거나, 청구를 관리하거나, 지원을 제공하려면 먼저 파트너 센터에서 고객 기록을 만들어야 합니다. 여기에는 연락처 정보 및 Azure AD 도메인이 포함됩니다."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기"
+ms.openlocfilehash: 222fe2acb5abd09061b83a8ee67540666413d04d
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 

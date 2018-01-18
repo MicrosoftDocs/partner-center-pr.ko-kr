@@ -3,11 +3,11 @@ title: "조정 파일 사용 | 파트너 센터"
 description: "청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -149,7 +149,7 @@ ms.lasthandoff: 11/04/2017
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>실제 사용자 수당 가격. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+<td><p>실제 사용자 수당 가격. 구매 시 가격표에 게시된 바와 같음. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ ms.lasthandoff: 11/04/2017
 <p><strong>반복 청구 요금</strong></p>
 </td>
 <td>
+<p>승인 수수료</p>
+</td>
+<td>
+<p>고객이 구독을 구매한 후 구독을 사용할 때 고객에게 청구되는 요금</p>
+</td>
+<td rowspan="8">
+<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>취소 인스턴스 비례 배분</p>
 </td>
 <td>
 <p>연결된 실제 사용자 수가 변경될 때 고객에게 환불되는 비례 배분 방식 요금</p>
-</td>
-<td rowspan="8">
-<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>

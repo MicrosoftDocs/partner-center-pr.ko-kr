@@ -3,11 +3,11 @@ title: "교육 고객에게 Minecraft: Education Edition 구독 판매"
 description: "교육 고객에게 Minecraft: Education Edition 구독 판매"
 author: KPacquer
 keywords: "공인 교육 파트너"
-ms.openlocfilehash: e5d9b276e89e9a506948a4cb1f905d53fca57e25
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>교육 고객에게 Minecraft: Education Edition 구독 판매
 
@@ -20,15 +20,15 @@ ms.lasthandoff: 08/23/2017
 ## <a name="purchase-through-partner-center-portal"></a>파트너 센터 포털을 통해 구입 
 파트너 센터 포털을 통해 교육 고객을 위한 Minecraft: Education Edition 구입: 
 
-  1.  새 구독을 추가할 때 파트너 센터에서 교육 고객의 계정을 새로 만들거나 기존 계정을 선택한 후 교육 탭으로 이동합니다.  Minecraft: Education Edition 구독을 선택하고 고객에게 필요한 만큼 라이선스를 구입합니다. Minecraft: Education Edition 구독은 현재 CSP의 다른 기존 Education 제품과 똑같이 표시됩니다. 구독을 추가하는 방법은 [새 구독 만들기](create-a-new-subscription.md)를 참조하세요. 이러한 라이선스는 파트너 센터에 표시되며 교육 고객의 [Minecraft 세부 정보 페이지](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) 아래의 [비즈니스용 Microsoft 스토어](https://www.microsoft.com/business-store) 인벤토리에도 표시됩니다(세부 정보 페이지를 보려면 비즈니스용 스토어에 로그인해야 함). 
+  1.  새 구독을 추가할 때 파트너 센터에서 교육 고객의 계정을 새로 만들거나 기존 계정을 선택한 후 교육 탭으로 이동합니다.  Minecraft: Education Edition 구독을 선택하고 고객에게 필요한 만큼 라이선스를 구입합니다. Minecraft: Education Edition 구독은 현재 CSP의 다른 기존 Education 제품과 똑같이 표시됩니다. 구독을 추가하는 방법은 [새 구독 만들기](create-a-new-subscription.md)를 참조하세요. 이러한 라이선스는 파트너 센터에 표시되며 교육 고객의 [Minecraft 세부 정보 페이지](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) 아래의 [교육용 Microsoft Store](https://educationstore.microsoft.com/en-us/store) 인벤토리에도 표시됩니다(세부 정보 페이지를 보려면 교육용 Microsoft Store에 로그인해야 함). 
 
-  2.  교육 고객은 비즈니스용 Microsoft 스토어 [Minecraft 세부 정보 페이지](https://businessstore.microsoft. com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)를 통해 Minecraft 앱을 설치하고 앱을 다른 사용자에게 할당하고 배포를 위해 앱을 다운로드할 수 있습니다. (현재 파트너 센터에서는 이러한 작업을 지원하지 않습니다.)
+  2.  교육 고객은 교육용 Microsoft Store [Minecraft 세부 정보 페이지](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)를 통해 Minecraft 앱을 설치하고 앱을 다른 사용자에게 할당하고 배포를 위해 앱을 다운로드할 수 있습니다. 
 
       a. 아직 비즈니스용 Microsoft 스토어 서비스 계약에 동의하지 않은 학교의 IT 관리자는 서비스 계약에 동의합니다. 
 
-      b. 관리자는 [Minecraft 세부 정보 페이지](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)로 이동하여 앱을 다운로드하고 사용자에게 앱을 배포합니다. 자세한 지침은 [IT 관리자용 - Minecraft: Education Edition 획득: Minecraft 배포](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)를 참조하세요.
+      b. 관리자는 [Minecraft 세부 정보 페이지](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)로 이동하여 앱을 다운로드하고 사용자에게 앱을 배포합니다. 자세한 지침은 [IT 관리자용 - Minecraft: Education Edition 획득: Minecraft 배포](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)를 참조하세요.
     
-  학교의 IT 관리자가 비즈니스용 Microsoft 스토어에 익숙하지 않은 경우 [비즈니스용 Microsoft 스토어 개요](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)를 알려주세요. 
+  학교의 IT 관리자가 비즈니스용 Microsoft 스토어에 익숙하지 않은 경우 [비즈니스용 Microsoft Store 및 교육용 Microsoft Store 개요](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)를 알려주세요. 
 
 <!-- ## Purchase through Partner Center API 
 

@@ -3,11 +3,12 @@ title: "새 구독 만들기 | 파트너 센터"
 description: "파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+Keywords: subscription, create new, add subscription,
+ms.openlocfilehash: 19bc20920cc2bfcdf3f39f8c1b8fcf207d51004d
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="create-a-new-subscription"></a>새 구독 만들기
 
@@ -19,7 +20,7 @@ ms.lasthandoff: 10/17/2017
 
 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
 
-일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 및 제품 페이지를 방문하여 제품표를 연 다음 Office_Dynamics_Windows_Intune 탭 Column I을 선택합니다. 
+일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 책정 및 제품 페이지를 방문하세요. 
 
 
 **새 구독 만들기**

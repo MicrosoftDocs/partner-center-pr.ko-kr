@@ -1,19 +1,20 @@
 ---
-title: User management tasks for customer accounts | Partner Center
-description: After you buy a new subscription for a customer, you can assign licenses to specific users.
+title: "고객 계정에 대한 사용자 관리 작업 | 파트너 센터"
+description: "고객을 위한 새 구독을 구입한 후 특정 사용자에게 라이선스를 할당할 수 있습니다."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-ms.openlocfilehash: 9bd854b4abd8c916e98cc0e771c711e40a9d71ff
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>User management tasks for customer accounts
+# <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
-**Applies to**
+**적용 대상**
 
--  Partner Center
+-  파트너 센터
 
 
 
@@ -45,7 +46,7 @@ ms.lasthandoff: 07/07/2017
 
 2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다.
 
-3.  목록에서 한 명 이상의 사용자를 선택합니다. If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.
+3.  목록에서 한 명 이상의 사용자를 선택합니다. 예를 들어 고객이 새 라이선스를 방금 구매한 후 아직 라이선스가 없는 사람에게 할당하려고 하는 경우 **사용자 필터링 기준...** 옵션을 사용하여 알맞은 그룹을 찾을 수 있습니다.
 
 4.  **라이선스 관리**를 선택합니다. 필요한 사항을 변경한 다음 **저장**을 선택합니다.
 
@@ -63,9 +64,9 @@ ms.lasthandoff: 07/07/2017
 <a href="" id="deleteuseraccounts"></a>
 **고객용 사용자 계정 삭제**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택합니다. Choose the customer from the list.
+1.  **대시보드** 메뉴에서 **고객**을 선택합니다. 목록에서 고객을 선택합니다.
 
-2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다. Choose the user from the list.
+2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다. 목록에서 사용자를 선택합니다.
 
 3.  화면 맨 아래에서 **사용자 계정 삭제**를 선택합니다.
 
@@ -87,9 +88,9 @@ ms.lasthandoff: 07/07/2017
 ## <a name="related-topics"></a>관련 항목
 
 
-[Assign or revoke licenses to multiple users](bulk-license-provisioning-for-multiple-users.md)
+[다수의 사용자에게 라이선스 할당 및 해지](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[고객 계정에 대한 다수의 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 
  
 

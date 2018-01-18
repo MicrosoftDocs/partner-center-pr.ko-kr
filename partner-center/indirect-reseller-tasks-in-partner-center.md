@@ -3,11 +3,12 @@ title: "CSP에서 간접 공급자와 파트너 되기 | 파트너 센터"
 description: "CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객 지원 및 청구를 제공할 수 있는 간접 공급자(배포자라고도 함)와 협력합니다. 다시 말해서 간접 재판매인은 혼자 시작하는 대신 성공을 도와주는 경험 많은 기술 공급자와 협력할 수 있습니다. 공급자 재판매인(2계층) 모델에서는 공급자가 Microsoft로부터 클라우드 솔루션 및 서비스를 구입하고 간접 재판매인이 고객에게 재판매합니다."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: "간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2"
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 
@@ -184,7 +185,7 @@ Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 로그인하는 데
 
 3.  공급자와의 파트너 관계를 확인하려면 확인란을 선택한 다음 **간접 공급자 승인**을 선택합니다. 이제 해당 공급자는 귀사의 **간접 공급자** 페이지에 표시되고 귀사는 공급자의 **간접 재판매인** 페이지에 표시됩니다.
 
-    >**참고** 간접 공급자와 파트너 관계를 맺는다는 것은 간접 공급자가 귀사의 고객을 대신하여 주문을 제출하고 구독을 추가할 수 있도록 권한을 부여하고 간접 공급자에게 귀사의 Azure AD 테넌트에 대한 액세스 권한을 부여한다는 의미입니다.
+    >**참고** 간접 공급자와 파트너 관계를 맺는다는 것은 간접 공급자가 귀사의 고객을 대신하여 주문을 제출하고 구독을 추가할 수 있도록 권한을 부여하고 간접 공급자에게 귀사의 회사 계정에 대한 액세스 권한을 부여한다는 의미입니다. 공급자와 파트너 관계를 수립한 후에 Office 365 포털에서 회사 계정에 대한 공급자의 관리자 액세스를 제거할 수 있습니다. 
 
 4.  파트너 관계를 맺은 공급자 목록을 보려면 **대시보드** 메뉴에서 사용자 **간접 공급자**를 선택합니다. 
 

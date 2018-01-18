@@ -2,11 +2,11 @@
 title: "Microsoft 파트너 네트워크 가입 | 파트너 센터"
 description: "파트너 센터에서 Microsoft Action Pack을 구입하고 역량 획득"
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft 파트너 네트워크 가입(MPN)
 
@@ -18,6 +18,8 @@ ms.lasthandoff: 11/22/2017
 ## <a name="new-to-partner-center"></a>파트너 센터의 새로운 내용
 
  Microsoft와 협력하면 비즈니스를 혁신할 새로운 기회에 액세스할 수 있습니다. 파트너 센터에서 Microsoft Action Pack을 구입 및 갱신할 수 있고 역량 정보와 이를 달성하는 방법에 대해 쉽게 액세스할 수 있습니다.
+
+ 우리는 MAPS 또는 역량 연주기일에 또한 주요 파트너 센터 기능을 제공하여 그들의 비즈니스 요구를 충족함을 입증할 수 있을 때 파트너가 파트너 센터에서 멤버십을 관리할 수 있도록 점차 파트너를 초대하고 있습니다.  지금은 새로운 전환으로의 초대를 받기 전까지 Partner Membership Center(PMC)에서 멤버십 갱신을 계획하고 관리하세요.
 
 ## <a name="get-your-mpn-id"></a>MPN ID 받기
 

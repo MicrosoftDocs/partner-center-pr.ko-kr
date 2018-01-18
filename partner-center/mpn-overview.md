@@ -3,11 +3,11 @@ title: "Microsoft 파트너 네트워크 멤버십 | 파트너 센터"
 description: "Microsoft 파트너 네트워크 가입의 혜택에 대해 알아보세요."
 author: MaggiePucciEvans
 keywords: "파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십"
-ms.openlocfilehash: f429908c69f154e9a25af3c2688011491d7b4125
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
+ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
@@ -17,15 +17,15 @@ Microsoft 파트너 네트워크는 세 가지 유형의 멤버십을 제공합�
 
 -   **네트워크 회원** 이 무료의 기본 수준에 가입하면 시간과 비용을 절약할 수 있는 일련의 [핵심 내부용 권한 혜택](https://partner.microsoft.com/membership/core-benefits)이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다.
 
-    [Microsoft 파트너 네트워크에 대한 자세한 정보](https://partner.microsoft.com/membership/how-it-works)
+    -   [Microsoft 파트너 네트워크에 대한 자세한 정보](https://partner.microsoft.com/membership/how-it-works)
 
-    [지금 Microsoft 파트너 네트워크에 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+    -   [지금 Microsoft 파트너 네트워크에 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
 
 -   **Action Pack** 경제적인 연간 구독인 Action Pack을 구매하면 개발자 도구, 지원, 교육 및 소프트웨어를 포함한 추가 네트워크 혜택을 이용할 수 있습니다. 이 수준에서는 전문 지식을 향상시키고 새로운 기술을 개발할 수 있습니다.
 
-    [Microsoft Action Pack에 대한 자세한 정보](https://partner.microsoft.com/membership/action-pack)
+    -   [Microsoft Action Pack에 대한 자세한 정보](https://partner.microsoft.com/membership/action-pack)
 
-    [지금 Action Pack 구독](mpn-get-action-pack.md)
+    -   [지금 Action Pack 구독](mpn-get-action-pack.md)
 
 -   **역량** 하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요. Microsoft 역량은 고객의 요구 사항을 충족하고 잠재 고객에게 역량을 알릴 수 있도록 준비하는 것을 돕기 위해 설계되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 

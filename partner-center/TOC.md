@@ -18,11 +18,13 @@
 ## [회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
-## [사용자 암호 다시 설정](reset-a-user-password.md)
 ## [사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)
+## [사용자 암호 다시 설정](reset-a-user-password.md)
 ## [Azure Partner Shared Services 추가](shared-services.md)
 ## [가격 책정 및 제품](pricing-and-offers.md)
 ## [카탈로그 사용자 지정](customize-the-catalog.md)
+
+# [비즈니스 확장](grow-your-business.md)
 
 # [추천](referrals.md)
 ## [비즈니스 프로필 만들기](create-a-marketing-profile.md)
@@ -76,13 +78,13 @@
 ## [다중 채널](multichannel.md)
 ## [다중 파트너](multipartner.md)
 
-# [Microsoft에서 제공하는 지원](support-from-microsoft.md)
-## [서비스 상태 확인](check-service-health.md)
+# [Microsoft에서 지원 받기](support-from-microsoft.md)
 ## [파트너 센터에서 문제 보고](report-problems-with-partner-center.md)
 ## [고객 대신 문제 보고](report-problems-on-behalf-of-a-customer.md)
 ## [API를 사용하여 자동화된 서비스 알림 가져오기](get-automated-service-notifications-with-our-apis.md)
 
-# [고객 지원 센터](customer-support.md)
+# [고객에게 지원 제공](customer-support.md)
+## [서비스 상태 확인](check-service-health.md)
 ## [청구 지원 제공](provide-billing-support.md)
 ## [기술 지원 제공](provide-technical-support.md)
 ## [Microsoft의 고객 커뮤니케이션](customer-communication-from-microsoft.md)

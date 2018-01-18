@@ -2,12 +2,12 @@
 title: "파트너 센터에서 Azure 구독 할당 | 파트너 센터"
 description: "이제 파트너 센터의 고객에게 Azure 구독을 할당할 수 있습니다."
 author: Labrenne
-keywords: "Azure, Azure 구독"
-ms.openlocfilehash: b5a2e1afbd0d0fe5941c22cf67d192cec004559e
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+keywords: "Azure, Azure 구독, 구독, 구독 할당"
+ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>파트너 센터에서 Azure 구독 할당
 

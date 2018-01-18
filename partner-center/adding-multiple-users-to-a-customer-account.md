@@ -3,9 +3,12 @@ title: "고객 계정에 대한 다수의 사용자 만들기 | 파트너 센터
 description: "쉼표로 구분된 값 파일 형식(.csv)의 데이터 파일을 파트너 센터에 업로드하여 한 번에 고객 계정에 다수의 사용자를 추가할 수 있습니다."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "대량 업로드, 고객 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 사용자 대량 업로드, 고객 계정, 고객 사용자, 사용자"
+ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>고객 계정에 여러 사용자 추가
 
