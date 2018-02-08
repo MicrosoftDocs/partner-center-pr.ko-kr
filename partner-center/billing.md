@@ -4,11 +4,11 @@ Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 day
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: "청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일"
-ms.openlocfilehash: c719ac667f7aae55dab78ad7facf25ca0d2d66b7
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: de85fbe8c09fc4901eab60d4daf561d156634a25
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="billing"></a>청구
 
@@ -28,171 +28,38 @@ ms.lasthandoff: 12/21/2017
 고객에 대한 요금 청구에 대해 알아야 할 주요 정보는 다음과 같습니다.
 
 -   귀하가 송장 작성을 처리하는 방식에 대해 Microsoft는 어떠한 요구 사항이나 조건도 적용하지 않습니다.
--   고객의 사용량을 확인하려면 조정 파일 내에 고객 ID/이름 및 기타 관련 필드를 사용합니다.
+-   고객의 사용량을 확인하려면 조정 파일 내의 고객 ID/이름 및 기타 관련 필드를 사용합니다.
 -   제공하는 서비스 및 제품에 대해 자체 수수료 및 요금을 추가합니다.
 -   고객에게 모든 요금에 대한 단일 청구서를 보냅니다.
 
-## <a name="billing"></a>청구
-
-[새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)
-
-[청구서 읽기](read-your-bill.md)
-
-[조정 파일 사용](use-the-reconciliation-files.md)
-
-[세금 및 면세](tax-and-tax-exemptions.md)
-
-[고객을 위한 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
-
-[일반적인 청구 시나리오](common-billing-scenarios.md)
-
-[미결제, 사기 또는 오용](non-payment--fraud--or-misuse.md)
-
-[PSTN 서비스](o365-e5-in-csp-advisory.md)
-
-## <a name="in-this-section"></a>이 섹션의 내용
+## <a name="billing-resources"></a>청구 리소스
+|**정보용**   |**이 글 읽기**    |
+|:-----------------------------|:-----------------|
+|청구, 결제, 송장 등의 기본 사항   |[청구 기본 사항](billing-basics.md)
+|연간 청구 등 여러 새로운 청구 기능   |[새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)|
+|청구서 읽기의 핵심   |[청구서 읽기](read-your-bill.md)   |
+|조정 파일을 읽고 사용하는 방법   |[조정 파일 사용](use-the-reconciliation-files.md)|
+|일반적인 청구 시나리오(추가적인 청구 시나리오는 [새로운 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)에서 확인)|[일반적인 청구 시나리오](common-billing-scenarios.md)|
+|납세 책임   | [세금 및 면세](tax-and-tax-exemptions.md)|
+|사용량 기준 예산 설정    |[고객을 위한 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)|
+|미결제, 사기 또는 오용 시 조치   |[미결제, 사기 또는 오용](non-payment--fraud--or-misuse.md)|
 
 
--   [청구 기본 사항](#billingbasics)
-
--   [라이선스 기준 청구](#licensebasedbilling)
-
--   [사용량 기준 청구](#usagebasedbilling)
-
-## <a href="" id="billingbasics"></a>청구 기본 사항
 
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>날짜</td>
-<td><ul>
-<li>월별 청구 날짜는 등록 중에 선택한 날짜입니다. Microsoft는 청구 날짜가 포함된 확인 메일을 보내 드립니다.</li>
-<li>가격표는 매달 업데이트되므로 한 달 전에 확인할 수 있습니다. 라이선스 기준 가격은 구독 기간(일반적으로 구매 날짜부터 12개월) 동안 보장됩니다. 사용량 기준 가격은 월 단위로 변경될 수 있습니다. 모든 가격 변경에 대한 정보는 파트너 가격표 게시를 통해 30일 앞서 알립니다.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>지급 조건</td>
-<td><ul>
-<li>지급 조건 - 60일 이내입니다.</li>
-<li>송장 기한(청구 날짜 후 60일)까지 지급해야 하며, 그렇지 않으면 계정이 연체됩니다.</li>
-<li>연체 계정은 클라우드 솔루션 공급자 프로그램에서 일시 중단 및/또는 종료될 수 있습니다. 일시 중단된 계정은 새 고객 또는 주문을 만들고, 재판매인 관계를 요청하며, 구독 수량을 늘리거나 줄이고, 추가 기능 구독을 주문하며, 구독을 변환 또는 전환할 수 없습니다. 또한 계정이 최신 상태가 될 때까지 기존 고객과 구독, 리소스를 관리하는 데 제한을 받습니다.  파트너는 미지불 청구 금액을 결제하면 일시 중단된 계정의 모든 기능을 다시 얻을 수 있습니다.</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>청구 규칙</td>
-<td><ul>
-<li>매달 CSP 프로그램에 대한 송장을 하나 받게 됩니다.</li>
-<li>라이선스 기준 구독은 사용한 라이선스가 아니라 구매한 라이선스를 기준으로 청구됩니다.</li>
-<li>Azure(사용량 기준 구독)는 소비량을 기준으로 데이터 통신 요금에 따라 청구됩니다.</li>
-<li>가격은 구독 기간 동안 보장됩니다. 구독 갱신 시 가격이 변경될 수 있습니다.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>송장 가용성</td>
-<td><ul>
-<li>파트너 센터의 청구 페이지에서 송장 및 조정 파일을 보고 다운로드할 수 있습니다. 월별 송장은 파트너 센터에서 선택한 청구 날짜 4일 이내에 제공됩니다.</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>조정/크레딧/취소</td>
-<td><ul>
-<li>테스트 계정 및 통합 테스트에 대한 크레딧은 권한이 부여되지 않습니다. 테스트를 수행할 때 구독 요금이나 조기 종료 수수료가 부과되는 것을 방지하려면 "무료 기간" 동안 구독을 취소하면 됩니다. Azure 서비스에 대한 모든 소비 사용 요금은 귀하의 책임입니다.</li>
-<li>크레딧 또는 조정은 적용된 후 다음 청구 송장에 조정 및 크레딧이 후불로 표시됩니다.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>세금</td>
-<td><ul>
-<li>청구 관계는 Microsoft와 귀하 사이에 성립하는 것이므로 세금은 고객이 아니라 귀하의 세부 정보를 기준으로 부과됩니다.</li>
-<li>등록 중에 또는 서비스 요청을 통해 세금 ID를 제출할 수 있습니다. 다음 청구 주기에 변경 내용이 반영된 것을 확인할 수 있습니다.</li>
-<li><strong>원천징수세 및 판매세 면세</strong>의 경우 서비스 요청을 통해 세금 관련 서류를 제출해야 합니다. 다음 청구 주기에 변경 내용 및 적절한 환불을 확인할 수 있습니다.</li>
-<li><strong>VAT(부가가치세) 면세</strong>의 경우 서비스 요청을 통해 VAT ID(Microsoft에서 확인함)를 제출해야 합니다. 다음 청구 주기에 변경 내용 및 적절한 환불을 확인할 수 있습니다.</li>
-<li>현지 세무서 또는 세금 고문에게 추가 세금 정보를 확인하세요.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
- 
-
-## <a href="" id="licensebasedbilling"></a>라이선스 기준 청구
 
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>최대 1개월의 무료 인센티브</td>
-<td><ul>
-<li>구독 시작 날짜부터 다음 통합 청구 날짜까지 초기 기간(최대 한 달) 동안은 실제 사용자 수와 관계없이 아무런 요금도 청구되지 않습니다.</li>
-<li>따라서 청구 조정이 더 간단해 집니다.</li>
-<li>적절한 계약에 따라 구독이 취소되지 않은 경우 모든 구독은 12개월분의 요금이 사전 청구된 상태로 새로운 12개월 기간 동안 자동 갱신됩니다.</li>
-<li>사용량 기준 서비스에는 무료 기간이 적용되지 않습니다.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>청구 규칙</td>
-<td><ul>
-<li>구독은 연간 단위로 이루어지며 자동 갱신됩니다.</li>
-<li>청구는 연간 구독당 12번의 월간 결제로 이루어집니다.</li>
-<li>라이선스 기준 서비스의 경우 이전 청구 기간 종료 시 라이선스의 수에 따라 다음 청구 기간에 대한 요금이 사전 청구됩니다.</li>
-<li>라이선스 수 변경 시 후불로 청구/입금됩니다(라이선스-일수를 기준으로 비례하는 계산). 비례하는 계산에서는 [ROUND((ROUND(단가 * 수량 / 비례하는 달의 일수, 2) * 비례하는 일수) / 수량, 2) * 수량] 수식을 사용합니다.</li>
-<li>결제는 프로비전된 실제 사용자 수가 아니라 판매된 실제 사용자 수에 대해 청구됩니다.</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>조정/크레딧/취소</td>
-<td><ul>
-<li>라이선스 기준 서비스를 취소할 경우 현재 조기 종료 수수료가 부과되지 않습니다.</li>
-<li>라이선스 기준 서비스의 취소 크레딧은 중도 취소에 사용되지 않은 일수(와 위의 수식에 따른 라이선스 감소)에 비례합니다.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
- 
-
-## <a href="" id="usagebasedbilling"></a>사용량 기준 청구
 
 
-Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모델로 운영됩니다.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>청구 규칙</td>
-<td><ul>
-<li>청구는 구독 시작 날짜에 시작됩니다. 사용량 기준 청구에 대한 "무료 기간"은 없습니다.</li>
-<li>구독은 매달 청구되며 새로운 데이터 통신 요금으로 자동 갱신됩니다.  청구는 사용량을 기준으로 매달 후불 처리됩니다.</li>
-<li>데이터 통신 서비스 요금은 송장 주기 내에서 변경할 수 있습니다.
-<ul>
-<li>가격 상승: 30일 알림이 제공됩니다.</li>
-<li>가격 하락: 변동 기간(일)을 반영합니다.</li>
-<li>기존 구독은 청구서 주기 시작 시 유효한 요금을 사용합니다.</li>
-<li>새 구독(청구 주기 내에 만들어진 경우)은 만든 날짜에 유효한 요금을 사용합니다.</li>
-</ul></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>조정/크레딧/취소</td>
-<td><ul>
-<li>다음 월별 청구 송장에 조정이 있는 결제가 표시됩니다.</li>
-<li>사용량 기준 서비스의 취소에 대해서는 현재 조기 종료 수수료가 부과되지 않습니다.</li>
-<li>다음 월별 청구 송장에 SLA 크레딧을 비롯한 모든 유형의 크레딧이 표시됩니다.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+
+
+
+
+
+
+
+
+
+
 

@@ -3,10 +3,11 @@ title: "구독 일시 중단 | 파트너 센터"
 description: "고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다."
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
+ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="suspend-a-subscription"></a>구독 일시 중단
 
@@ -26,3 +27,5 @@ ms.contentlocale: ko-KR
 2.  관리할 구독을 선택합니다.
 3.  **상태** 섹션에서 **일시 중단**을 선택합니다. 그런 다음 변경 내용을 **제출**합니다.
 4.  90일 이내에 또는 90일에 계정이 개설된 시간과 첫 번째 청구 기간 사이의 일 수를 더한 기간(최대 120일) 이내에 구독을 다시 활성화하지 않으면 모든 데이터가 삭제됩니다.
+
+구독을 일시 중단할 경우, **일시 중단** 버튼 아래에 표시된 날짜는 구독을 다시 활성화하지 않을 경우 자동으로 구독이 만료되는 시점을 나타냅니다. 

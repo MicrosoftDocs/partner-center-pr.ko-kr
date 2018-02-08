@@ -70,6 +70,7 @@
 ## [Windows Autopilot으로 디바이스 설치 간소화](autopilot.md)
 
 # 파트너 센터 데이터 및 분석
+## [데이터 수집과 비즈니스 분석](data-analysis-lp.md)
 ## [Microsoft Power BI를 위한 파트너 센터 분석 앱](power-bi-app-for-direct-partners.md)
 
 # [다른 파트너와 협력](work-with-other-partners.md)

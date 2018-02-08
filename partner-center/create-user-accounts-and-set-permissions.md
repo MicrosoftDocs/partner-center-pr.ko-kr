@@ -4,11 +4,11 @@ description: "관리자는 파트너 센터에 액세스해야 하는 각 파트
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 권한 할당
 
@@ -38,7 +38,7 @@ ms.lasthandoff: 12/21/2017
 
 사용자는 사용자 이름 및 임시 암호를 사용하여 파트너 센터에 로그인해야 합니다. 사용자가 파트너 센터에 처음으로 로그인하면 암호를 변경하라는 메시지가 표시됩니다. 
 
-
+>**참고**<br> 글로벌 관리자가 퇴사를 하거나 직책이 바뀌어서 새 글로벌 관리자를 추가해야 하는 경우, [MPN 포털](https://partner.microsoft.com/support)에서 서비스 요청을 로깅해야 합니다. 요청자가 필수적인 개인 신원 정보와 조직에 대한 추가 정보를 제공하면 지원 상담원이 글로벌 관리자에게 사용자의 권한 상승을 요청할 수 있습니다.
 
 ## <a name="assign-user-permissions"></a>사용자 권한 할당
 
@@ -61,7 +61,7 @@ ms.lasthandoff: 12/21/2017
 
 >**중요** 사용자에게 특정 역할이 필요하지 않은 경우 기본 설정인 **조직의 계정을 다음으로 관리**로 둡니다. 사용자가 파트너 센터에서 작업할 수 있도록 하나 이상의 역할이 할당되어야 합니다.
 
-다음 표에는 각 역할이 파트너 센터에서 수행할 수 있는 작업에 대해 설명되어 있습니다. 역할을 지정하는 방법에 대해 생각할 때 조직에서 사용자의 업무를 고려해야 합니다. 예를 들어 전역 관리자가 관리자 에이전트가 되기를 원할 수 있습니다. 마케팅을 담당하는 직원은 비즈니스 프로필 또한 관리해야 할 수도 있습니다.
+다음 표에는 각 역할이 파트너 센터에서 수행할 수 있는 작업에 대해 설명되어 있습니다. 역할을 할당하는 방법을 결정할 때는 조직에서 사용자의 업무를 고려해야 합니다. 예를 들어 글로벌 관리자를 관리자 에이전트로 할당하고 싶을 수 있습니다. 마케팅을 담당하는 직원이 비즈니스 프로필도 관리해야 하는 경우도 있습니다.
 
 <table>
 <colgroup>
@@ -122,13 +122,6 @@ ms.lasthandoff: 12/21/2017
 <li><p>혜택 보기 및 관리</p></li>
 <li><p>MPN 제품 보기 및 구매</p></li>
 <li><p>MPN 제품 주문 내역 및 송장 보기</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>사용자 관리 관리자</strong></p></td>
-<td><ul>
-<li><p>사용자 보기, 생성 및 관리</p></li>
-<li><p>모든 파트너 프로필 보기</p></li>
 </ul></td>
 </tr>
 <tr class="even">

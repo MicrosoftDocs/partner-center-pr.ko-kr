@@ -3,17 +3,19 @@ title: "고객 자가 지원 | 파트너 센터"
 description: "고객 자가 지원"
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-ms.openlocfilehash: 87dfdd4e3a56c60282f5a386011a23d3445b3001
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+keywords: "고객 자가 지원, 자가 지원,"
+ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="customer-self-support"></a>고객 자가 지원
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객은 고유한 Microsoft Office 365 관리 센터 또는 Azure 관리 포털에 로그인하고, 자신의 계정을 관리할 수 있습니다.

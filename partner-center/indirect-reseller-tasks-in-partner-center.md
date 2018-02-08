@@ -4,11 +4,11 @@ description: "CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고
 ms.prod: 
 author: MaggiePucciEvans
 keywords: "간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2"
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 
@@ -102,74 +102,8 @@ Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 로그인하는 데
 
 ## <a name="assign-user-permissions"></a>사용자 권한 할당
 
-파트너 센터 액세스는 역할 기반이므로 사용자가 특정 작업을 완료하는 데 필요한 기능만 표시하도록 사용자의 보기를 사용자 지정하는 권한을 할당할 수 있습니다. 
+파트너 센터 액세스는 역할 기반이므로 사용자가 특정 작업을 완료하는 데 필요한 기능만 표시하도록 사용자의 보기를 사용자 지정하는 권한을 할당할 수 있습니다. 역할을 할당하는 가장 좋은 방법은 [사용자 계정 만들기 및 권한 설정](Create-user-accounts-and-set-permissions.md)을 참조하세요.
 
-각 사용자에 대해 두 가지 권한 수준을 선택하거나 **관리자가 아님** 또는 **에이전트가 아님**을 선택합니다.
-
--   에이전트 권한은 사용자가 보고 변경할 수 있는 고객 데이터 및 계정 정보 종류를 제어합니다.
-
--   관리자 권한은 파트너 센터 기능에 대한 사용자의 액세스 수준을 제어합니다. 이 설정은 파트너 센터 외부에 영향을 줍니다. 즉, 청구 관리자는 모든 Microsoft 서비스(CSP와 관련되지 않은 서비스도 포함)에 대한 청구서에 액세스할 수 있으며 전역 관리자는 CSP뿐 아니라 사용자 계정 및 고객 계정에도 액세스할 수 있습니다.
-
-다음 표에는 각 역할이 파트너 센터에서 수행할 수 있는 작업에 대해 설명되어 있습니다.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>파트너 센터의 역할</strong></p></td>
-<td><p><strong>수행할 수 있는 작업</strong></p></td>
-<td><p><strong>수행할 수 없는 작업</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>관리자 에이전트</strong></p></td>
-<td><ul>
-<li><p>고객의 서비스 상태 및 서비스 요청</p></li>
-<li><p>위임된 관리자 권한 요청</p></li>
-<li><p>고객을 대신하여 관리</p></li>
-</ul></td>
-<td><ul>
-<li><p>사용자 관리</p></li>
-<li><p>파트너 센터에 대한 서비스 요청</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>기술 지원팀 에이전트</strong></p></td>
-<td><ul>
-<li><p>고객 검색 및 보기</p></li>
-<li><p>서비스 상태</p></li>
-<li><p>고객을 대신하여 지원 요청(참고: Office 365 구독에 대해 이 작업을 완료하려면 관리자 에이전트여야 함)</p></li>
-<li><p>고객을 대신하여 구독 및 서비스 관리(참고: Office 365 구독에 대해 이 작업을 완료하려면 관리자 에이전트여야 함)</p></li>
-</ul></td>
-<td><ul>
-<li><p>파트너 프로필 보기</p></li>
-<li><p>고객과의 관계 요청</p></li>
-<li><p>잠재 고객 관리</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>전역 관리자</strong></p></td>
-<td><ul>
-<li><p>전체 권한으로 모든 Microsoft 계정/서비스에 액세스할 수 있음</p></li>
-<li><p>파트너 센터에 대한 지원 티켓 만들기</p></li>
-<li><p>파트너 사용자 보기, 생성 및 관리</p></li>
-<li><p>간접 공급자의 파트너 관계 요청 수락</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>사용자 관리 관리자</strong></p></td>
-<td><ul>
-<li><p>사용자 보기, 생성 및 관리</p></li>
-<li><p>모든 파트너 프로필 보기</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>간접 공급자와의 관계 구축
 
@@ -197,13 +131,13 @@ Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 로그인하는 데
  
 ## <a name="connect-with-customers"></a>고객과의 관계 구축
 
-파트너 센터에서 고객과 거래하려면 고객에게 파트너 센터 계정이 있어야 하며 귀사는 해당 고객과 재판매인 관계를 설정해야 합니다. 또한 간접 공급자가 귀사의 고객을 대신하여 구독 및 서비스를 구매하도록 허용하려면 공급자가 귀사의 고객과 재판매인 관계를 맺어야 합니다. 
+ 파트너 센터에서 고객과 거래하려면 고객에게 파트너 센터 계정이 있어야 하며 귀사는 해당 고객과 재판매인 관계를 설정해야 합니다. 또한 간접 공급자가 귀사의 고객을 대신하여 구독 및 서비스를 구매하도록 허용하려면 공급자가 귀사의 고객과 재판매인 관계를 맺어야 합니다. 
 
 ### <a name="connect-with-existing-customers"></a>고객과의 관계 구축
 
 Office 365 파트너 관리 센터 또는 Microsoft Azure 관리자 포털과 같은 다른 포털을 통해 이미 거래한 고객은 귀사가 간접 재판매인으로 등록한 후 파트너 센터의 고객 목록에 표시됩니다. 고객 목록을 보려면 **대시보드**, **고객**을 차례로 선택합니다. 
 
-기존 고객이 고객 목록에 없는 경우 해당 고객과 재판매인 관계를 맺어야 할 수 있습니다. 이렇게 하려면 아래 설명에 따라 고객에게 파트너 센터에서 관계를 맺도록 전자 메일 초대장을 보냅니다.
+간접 공급자를 연결한다고 간접 공급자의 고객이 자동으로 확보되지는 않습니다. 마찬가지로 자체적으로, 또는 파트너 센터가 아닌 간접 공급자를 통해 거래하는 고객은 파트너 센터에 등록할 때 고객 목록에 자동으로 표시되지 않습니다. 파트너 센터에서 거래를 하려면 고객과 재판매인 관계를 설정해야 합니다.  이를 위해 아래 설명에 따라 고객에게 파트너 센터에서 관계를 맺도록 전자 메일 초대장을 보냅니다.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
 
