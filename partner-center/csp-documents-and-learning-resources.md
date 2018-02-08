@@ -1,75 +1,76 @@
 ---
-title: CSP agreements, price lists, and offers | Partner Center
-description: This article includes links to Cloud Solution Provider program guides, partner agreements, customer agreements, price lists, and offers.
+title: "CSP 계약, 가격표 및 제품 | 파트너 센터"
+description: "이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-ms.openlocfilehash: 239d4834b1699336f73fdd67a1423cb826415cf6
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+keywords: "csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품"
+ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 01/17/2018
 ---
-# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a><span data-ttu-id="beea1-103">Cloud Solution Provider agreements, price lists, and offers</span><span class="sxs-lookup"><span data-stu-id="beea1-103">Cloud Solution Provider agreements, price lists, and offers</span></span>
+# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a><span data-ttu-id="be566-104">클라우드 솔루션 공급자 계약, 가격 목록 및 제품</span><span class="sxs-lookup"><span data-stu-id="be566-104">Cloud Solution Provider agreements, price lists, and offers</span></span>
 
-**<span data-ttu-id="beea1-104">Applies to</span><span class="sxs-lookup"><span data-stu-id="beea1-104">Applies to</span></span>**
+**<span data-ttu-id="be566-105">적용 대상</span><span class="sxs-lookup"><span data-stu-id="be566-105">Applies to</span></span>**
 
--  <span data-ttu-id="beea1-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="beea1-105">Partner Center</span></span>
--  <span data-ttu-id="beea1-106">Partner Center for Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="beea1-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="beea1-107">Partner Center for Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="beea1-107">Partner Center for Microsoft Cloud Germany</span></span>
-
-
-<span data-ttu-id="beea1-108">Review the information in this article to understand the requirements for participating in Microsoft's Cloud Solution Provider (CSP) program.</span><span class="sxs-lookup"><span data-stu-id="beea1-108">Review the information in this article to understand the requirements for participating in Microsoft's Cloud Solution Provider (CSP) program.</span></span> 
-
-## <span data-ttu-id="beea1-109"><a href="" id="programguide"></a>Cloud Solution Provider program guide</span><span class="sxs-lookup"><span data-stu-id="beea1-109"><a href="" id="programguide"></a>Cloud Solution Provider program guide</span></span>
+-  <span data-ttu-id="be566-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="be566-106">Partner Center</span></span>
+-  <span data-ttu-id="be566-107">Microsoft Cloud for US Government용 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="be566-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="be566-108">Microsoft 클라우드 독일 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="be566-108">Partner Center for Microsoft Cloud Germany</span></span>
 
 
-<span data-ttu-id="beea1-110">Review requirements for becoming a partner in the Cloud Solution Provider program.</span><span class="sxs-lookup"><span data-stu-id="beea1-110">Review requirements for becoming a partner in the Cloud Solution Provider program.</span></span>
+<span data-ttu-id="be566-109">이 문서의 정보를 검토하여 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 참여하기 위한 요구 사항을 이해하세요.</span><span class="sxs-lookup"><span data-stu-id="be566-109">Review the information in this article to understand the requirements for participating in Microsoft's Cloud Solution Provider (CSP) program.</span></span> 
 
-[<span data-ttu-id="beea1-111">Program guide for Cloud Solution Provider partners</span><span class="sxs-lookup"><span data-stu-id="beea1-111">Program guide for Cloud Solution Provider partners</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=617100)
-
-## <span data-ttu-id="beea1-112"><a href="" id="partneragreement"></a>Cloud Solution Provider partner agreement</span><span class="sxs-lookup"><span data-stu-id="beea1-112"><a href="" id="partneragreement"></a>Cloud Solution Provider partner agreement</span></span>
+## <a href="" id="programguide"></a><span data-ttu-id="be566-110">클라우드 솔루션 공급자 프로그램 가이드</span><span class="sxs-lookup"><span data-stu-id="be566-110">Cloud Solution Provider program guide</span></span>
 
 
-<span data-ttu-id="beea1-113">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span><span class="sxs-lookup"><span data-stu-id="beea1-113">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span></span> <span data-ttu-id="beea1-114">Review the guide for the market or national cloud in which you plan to sell.</span><span class="sxs-lookup"><span data-stu-id="beea1-114">Review the guide for the market or national cloud in which you plan to sell.</span></span>
+<span data-ttu-id="be566-111">클라우드 솔루션 공급자 프로그램에서 파트너가 되기 위한 요구 사항을 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="be566-111">Review requirements for becoming a partner in the Cloud Solution Provider program.</span></span>
 
-[<span data-ttu-id="beea1-115">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span><span class="sxs-lookup"><span data-stu-id="beea1-115">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
+[<span data-ttu-id="be566-112">클라우드 솔루션 공급자 파트너용 프로그램 가이드</span><span class="sxs-lookup"><span data-stu-id="be566-112">Program guide for Cloud Solution Provider partners</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-[<span data-ttu-id="beea1-116">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span><span class="sxs-lookup"><span data-stu-id="beea1-116">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
-
-[<span data-ttu-id="beea1-117">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span><span class="sxs-lookup"><span data-stu-id="beea1-117">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
-
-[<span data-ttu-id="beea1-118">Microsoft Cloud Reseller agreement – Japan</span><span class="sxs-lookup"><span data-stu-id="beea1-118">Microsoft Cloud Reseller agreement – Japan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
-
-[<span data-ttu-id="beea1-119">Microsoft Cloud Reseller agreement – Korea</span><span class="sxs-lookup"><span data-stu-id="beea1-119">Microsoft Cloud Reseller agreement – Korea</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
-
-[<span data-ttu-id="beea1-120">Microsoft Cloud Reseller agreement – Taiwan</span><span class="sxs-lookup"><span data-stu-id="beea1-120">Microsoft Cloud Reseller agreement – Taiwan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
-
-[<span data-ttu-id="beea1-121">Microsoft Cloud Reseller agreement - Microsoft Cloud Germany</span><span class="sxs-lookup"><span data-stu-id="beea1-121">Microsoft Cloud Reseller agreement - Microsoft Cloud Germany</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
-
-[<span data-ttu-id="beea1-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="beea1-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
-
-## <span data-ttu-id="beea1-123"><a href="" id="customeragreementtemplate"></a>Customer agreement templates</span><span class="sxs-lookup"><span data-stu-id="beea1-123"><a href="" id="customeragreementtemplate"></a>Customer agreement templates</span></span>
+## <a href="" id="partneragreement"></a><span data-ttu-id="be566-113">클라우드 솔루션 공급자 파트너 계약</span><span class="sxs-lookup"><span data-stu-id="be566-113">Cloud Solution Provider partner agreement</span></span>
 
 
-<span data-ttu-id="beea1-124">As a partner in CSP, you're responsible for reviewing Microsoft’s terms and conditions, including the acceptable use of Microsoft products and services, with your customers.</span><span class="sxs-lookup"><span data-stu-id="beea1-124">As a partner in CSP, you're responsible for reviewing Microsoft’s terms and conditions, including the acceptable use of Microsoft products and services, with your customers.</span></span> <span data-ttu-id="beea1-125">Follow the link below to find the customer agreement(s) you'll need to review with new customers.</span><span class="sxs-lookup"><span data-stu-id="beea1-125">Follow the link below to find the customer agreement(s) you'll need to review with new customers.</span></span> 
+<span data-ttu-id="be566-114">Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다.</span><span class="sxs-lookup"><span data-stu-id="be566-114">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span></span> <span data-ttu-id="be566-115">제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="be566-115">Review the guide for the market or national cloud in which you plan to sell.</span></span>
 
-[<span data-ttu-id="beea1-126">Customer agreement templates</span><span class="sxs-lookup"><span data-stu-id="beea1-126">Customer agreement templates</span></span>](agreements.md)
+[<span data-ttu-id="be566-116">Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해</span><span class="sxs-lookup"><span data-stu-id="be566-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
 
-## <a name="pricing"></a><span data-ttu-id="beea1-127">Pricing</span><span class="sxs-lookup"><span data-stu-id="beea1-127">Pricing</span></span>
+[<span data-ttu-id="be566-117">Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양</span><span class="sxs-lookup"><span data-stu-id="be566-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+
+[<span data-ttu-id="be566-118">Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카</span><span class="sxs-lookup"><span data-stu-id="be566-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+
+[<span data-ttu-id="be566-119">Microsoft 클라우드 재판매인 계약 - 일본</span><span class="sxs-lookup"><span data-stu-id="be566-119">Microsoft Cloud Reseller agreement – Japan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+
+[<span data-ttu-id="be566-120">Microsoft 클라우드 재판매인 계약 - 대한민국</span><span class="sxs-lookup"><span data-stu-id="be566-120">Microsoft Cloud Reseller agreement – Korea</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+
+[<span data-ttu-id="be566-121">Microsoft 클라우드 재판매인 계약 - 대만</span><span class="sxs-lookup"><span data-stu-id="be566-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+
+[<span data-ttu-id="be566-122">Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일</span><span class="sxs-lookup"><span data-stu-id="be566-122">Microsoft Cloud Reseller agreement - Microsoft Cloud Germany</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+
+[<span data-ttu-id="be566-123">Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드</span><span class="sxs-lookup"><span data-stu-id="be566-123">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+
+## <a href="" id="customeragreementtemplate"></a><span data-ttu-id="be566-124">고객 계약 템플릿</span><span class="sxs-lookup"><span data-stu-id="be566-124">Customer agreement templates</span></span>
 
 
-<span data-ttu-id="beea1-128">Download pricing details for both license-based and usage-based services from the **Pricing and offers** page, available from your **Dashboard** menu.</span><span class="sxs-lookup"><span data-stu-id="beea1-128">Download pricing details for both license-based and usage-based services from the **Pricing and offers** page, available from your **Dashboard** menu.</span></span> 
+<span data-ttu-id="be566-125">귀하는 CSP 파트너로서 고객과 함께 Microsoft 제품 및 서비스의 사용 제한을 포함하여 Microsoft 사용 약관을 검토할 책임이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="be566-125">As a partner in CSP, you're responsible for reviewing Microsoft’s terms and conditions, including the acceptable use of Microsoft products and services, with your customers.</span></span> <span data-ttu-id="be566-126">아래 링크를 따라 이동하여 신규 고객과 함께 검토해야 할 고객 계약을 찾아 보세요.</span><span class="sxs-lookup"><span data-stu-id="be566-126">Follow the link below to find the customer agreement(s) you'll need to review with new customers.</span></span> 
 
-<span data-ttu-id="beea1-129">The license-based price list is updated monthly, and Microsoft releases new pricing 30 days before it takes effect.</span><span class="sxs-lookup"><span data-stu-id="beea1-129">The license-based price list is updated monthly, and Microsoft releases new pricing 30 days before it takes effect.</span></span> <span data-ttu-id="beea1-130">Examples of license-based services include Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM.</span><span class="sxs-lookup"><span data-stu-id="beea1-130">Examples of license-based services include Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM.</span></span> 
+[<span data-ttu-id="be566-127">고객 계약 템플릿</span><span class="sxs-lookup"><span data-stu-id="be566-127">Customer agreement templates</span></span>](agreements.md)
 
-<span data-ttu-id="beea1-131">Usage-based pricing is dynamic and changes frequently.</span><span class="sxs-lookup"><span data-stu-id="beea1-131">Usage-based pricing is dynamic and changes frequently.</span></span> <span data-ttu-id="beea1-132">Examples of usage-based services include Microsoft Azure.</span><span class="sxs-lookup"><span data-stu-id="beea1-132">Examples of usage-based services include Microsoft Azure.</span></span>
-
-
-## <a name="offers"></a><span data-ttu-id="beea1-133">Offers</span><span class="sxs-lookup"><span data-stu-id="beea1-133">Offers</span></span>
+## <a name="pricing"></a><span data-ttu-id="be566-128">가격 책정</span><span class="sxs-lookup"><span data-stu-id="be566-128">Pricing</span></span>
 
 
-<span data-ttu-id="beea1-134">As a partner in CSP, you can sell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM, and Microsoft Azure to customers.</span><span class="sxs-lookup"><span data-stu-id="beea1-134">As a partner in CSP, you can sell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM, and Microsoft Azure to customers.</span></span> <span data-ttu-id="beea1-135">For more information about which offers and product bundles are available to sell within these product families, see the CSP offer matrix on the **Pricing and offers** page, available from your **Dashboard** menu.</span><span class="sxs-lookup"><span data-stu-id="beea1-135">For more information about which offers and product bundles are available to sell within these product families, see the CSP offer matrix on the **Pricing and offers** page, available from your **Dashboard** menu.</span></span> <span data-ttu-id="beea1-136">This document is updated monthly.</span><span class="sxs-lookup"><span data-stu-id="beea1-136">This document is updated monthly.</span></span>
+<span data-ttu-id="be566-129">**대시보드** 메뉴에 제공되는 **가격 및 제품** 페이지에서 라이선스 기준 및 사용량 기준 서비스에 대한 가격 책정 세부 정보를 다운로드합니다.</span><span class="sxs-lookup"><span data-stu-id="be566-129">Download pricing details for both license-based and usage-based services from the **Pricing and offers** page, available from your **Dashboard** menu.</span></span> 
 
-<span data-ttu-id="beea1-137">For CSP partners who use the Crest Usage Record API, Microsoft also publishes a list of the Azure Services in CSP on the **Pricing and offers** page.</span><span class="sxs-lookup"><span data-stu-id="beea1-137">For CSP partners who use the Crest Usage Record API, Microsoft also publishes a list of the Azure Services in CSP on the **Pricing and offers** page.</span></span>
+<span data-ttu-id="be566-130">라이선스 기준 가격표는 매달 업데이트되며, Microsoft는 적용 30일 전에 새 가격 책정을 릴리스합니다.</span><span class="sxs-lookup"><span data-stu-id="be566-130">The license-based price list is updated monthly, and Microsoft releases new pricing 30 days before it takes effect.</span></span> <span data-ttu-id="be566-131">라이선스 기준 서비스의 예로는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="be566-131">Examples of license-based services include Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM.</span></span> 
+
+<span data-ttu-id="be566-132">사용량 기준 가격 책정은 동적이며 자주 바뀝니다.</span><span class="sxs-lookup"><span data-stu-id="be566-132">Usage-based pricing is dynamic and changes frequently.</span></span> <span data-ttu-id="be566-133">사용량 기준 서비스의 예로는 Microsoft Azure가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="be566-133">Examples of usage-based services include Microsoft Azure.</span></span>
+
+
+## <a name="offers"></a><span data-ttu-id="be566-134">제품</span><span class="sxs-lookup"><span data-stu-id="be566-134">Offers</span></span>
+
+
+<span data-ttu-id="be566-135">귀하는 CSP 파트너로서 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure를 판매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="be566-135">As a partner in CSP, you can sell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM, and Microsoft Azure to customers.</span></span> <span data-ttu-id="be566-136">이러한 제품군 내에서 판매할 수 있는 제품 번들에 대한 자세한 내용은 **대시보드** 메뉴에 제공되는 **가격 및 제품** 페이지의 CSP 제품표를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="be566-136">For more information about which offers and product bundles are available to sell within these product families, see the CSP offer matrix on the **Pricing and offers** page, available from your **Dashboard** menu.</span></span> <span data-ttu-id="be566-137">이 문서는 매달 업데이트됩니다.</span><span class="sxs-lookup"><span data-stu-id="be566-137">This document is updated monthly.</span></span>
+
+<span data-ttu-id="be566-138">CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.</span><span class="sxs-lookup"><span data-stu-id="be566-138">For CSP partners who use the Crest Usage Record API, Microsoft also publishes a list of the Azure Services in CSP on the **Pricing and offers** page.</span></span>
 
 
