@@ -1,61 +1,79 @@
 ---
 title: "미결제, 사기 또는 오용 | 파트너 센터"
-description: "고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다."
+description: "고객의 제품 및 서비스 미결제와 부정한 활동 또는 오용을 포함하여 온라인 트랜잭션의 위험을 관리하기 위한 전략입니다."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
+keywords: "사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단"
 author: MaggiePucciEvans
-ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 02/01/2018
 ---
-# <a name="non-payment-fraud-or-misuse"></a><span data-ttu-id="eeff7-103">미결제, 사기 또는 오용</span><span class="sxs-lookup"><span data-stu-id="eeff7-103">Non-payment, fraud, or misuse</span></span>
+# <a name="non-payment-fraud-or-misuse"></a><span data-ttu-id="bbcba-104">미결제, 사기 또는 오용</span><span class="sxs-lookup"><span data-stu-id="bbcba-104">Non-payment, fraud, or misuse</span></span>
 
-**<span data-ttu-id="eeff7-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="eeff7-104">Applies to</span></span>**
+**<span data-ttu-id="bbcba-105">적용 대상</span><span class="sxs-lookup"><span data-stu-id="bbcba-105">Applies to</span></span>**
 
--  <span data-ttu-id="eeff7-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="eeff7-105">Partner Center</span></span>
--  <span data-ttu-id="eeff7-106">미국 정부용 Microsoft 클라우드 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="eeff7-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="eeff7-107">Microsoft 클라우드 독일 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="eeff7-107">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="bbcba-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="bbcba-106">Partner Center</span></span>
+-  <span data-ttu-id="bbcba-107">Microsoft Cloud for US Government용 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="bbcba-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="bbcba-108">Microsoft 클라우드 독일 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="bbcba-108">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="eeff7-108">고객의 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적으로 책임져야 하므로, 사기 방지 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-108">You are financially responsible for fraudulent purchases by your customers and/or customer’s non-payment of purchased services; therefore, we recommend that you implement fraud prevention and detection risk mitigation controls.</span></span> <span data-ttu-id="eeff7-109">귀하에게는 고객의 크레딧 확대 여부를 결정할 책임이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-109">You are responsible for deciding whether to extend credit to a customer.</span></span>
+<span data-ttu-id="bbcba-109">사용자는 귀하의 고객에 의한 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적인 책임을 집니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-109">You are financially responsible for fraudulent purchases by your customers and/or customers' non-payment of purchased services.</span></span> <span data-ttu-id="bbcba-110">그러므로 사기 예방 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-110">Therefore, we strongly recommend that you put in place fraud prevention and detection risk mitigation controls.</span></span>
 
-## <a name="in-this-section"></a><span data-ttu-id="eeff7-110">이 섹션의 내용</span><span class="sxs-lookup"><span data-stu-id="eeff7-110">In this section</span></span>
+## <a name="types-of-online-risk"></a><span data-ttu-id="bbcba-111">온라인 위험의 유형</span><span class="sxs-lookup"><span data-stu-id="bbcba-111">Types of online risk</span></span>
 
+<span data-ttu-id="bbcba-112">사기성 활동 또는 남용을 방지 또는/및 처리하기 위해 잠재적인 위험을 이해하고 노출의 줄일 수 있는 정책과 모범 사례를 구축하는 것이 중요합니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-112">To avoid and/or address fraudulent activity or misuse, it's important to understand potential risks and to develop policies and practices that can reduce your exposure.</span></span>
 
--   [<span data-ttu-id="eeff7-111">미결제</span><span class="sxs-lookup"><span data-stu-id="eeff7-111">Non-payment</span></span>](#nonpayment)
+#### <a name="risk-exposure-to-be-mitigated"></a><span data-ttu-id="bbcba-113">완화해야 할 위험 노출</span><span class="sxs-lookup"><span data-stu-id="bbcba-113">Risk exposure to be mitigated</span></span>
 
--   [<span data-ttu-id="eeff7-112">사기 또는 오용 완화</span><span class="sxs-lookup"><span data-stu-id="eeff7-112">Fraud or misuse mitigation</span></span>](#fraudmisusemitigation)
+- <span data-ttu-id="bbcba-114">**서비스의 도용** 고객이 도난된 결제 방법을 사용하거나, 거짓 결제 정보를 제공하거나, 또는 미결제 잔액을 지불하지 않음으로 인해 사용한 서비스에 대한 대가를 지불할 의도가 없는 경우</span><span class="sxs-lookup"><span data-stu-id="bbcba-114">**Theft of service** Customers who have no intention of paying for consumed services by using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances</span></span>
 
-## <span data-ttu-id="eeff7-113"><a href="" id="nonpayment"></a>미결제</span><span class="sxs-lookup"><span data-stu-id="eeff7-113"><a href="" id="nonpayment"></a>Non-payment</span></span>
+- <span data-ttu-id="bbcba-115">**서비스의 남용** 고객이 Microsoft의 사용 제한 정책을 위반하는 클라우드 서비스를 이용하는 경우</span><span class="sxs-lookup"><span data-stu-id="bbcba-115">**Abuse of service** Customers who use cloud services in violation of Microsoft’s acceptable use policy</span></span>
 
+#### <a name="examples-of-possible-fraud-or-service-abuse"></a><span data-ttu-id="bbcba-116">가능한 사기 또는 남용 서비스의 예</span><span class="sxs-lookup"><span data-stu-id="bbcba-116">Examples of possible fraud or service abuse</span></span>
+- <span data-ttu-id="bbcba-117">스팸</span><span class="sxs-lookup"><span data-stu-id="bbcba-117">Spamming</span></span>
+- <span data-ttu-id="bbcba-118">해킹</span><span class="sxs-lookup"><span data-stu-id="bbcba-118">Hacking</span></span>
+- <span data-ttu-id="bbcba-119">DDOS 공격</span><span class="sxs-lookup"><span data-stu-id="bbcba-119">DDOS attacks</span></span>
+- <span data-ttu-id="bbcba-120">비트코인 마이닝</span><span class="sxs-lookup"><span data-stu-id="bbcba-120">Bitcoin mining</span></span>
+- <span data-ttu-id="bbcba-121">맬웨어 배포</span><span class="sxs-lookup"><span data-stu-id="bbcba-121">Malware distribution</span></span>
+- <span data-ttu-id="bbcba-122">불법 복제 구독 재판매</span><span class="sxs-lookup"><span data-stu-id="bbcba-122">Resale of pirated subscriptions</span></span> 
 
--   <span data-ttu-id="eeff7-114">구독에 대한 액세스가 영향을 받는 시기와 컬렉션 프로세스를 자세히 설명하는 명확한 컬렉션 정책을 고객과 함께 설정하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-114">We recommend establishing a clear collections policy with customers that details your collections process and when access to the subscription will be impacted.</span></span>
--   <span data-ttu-id="eeff7-115">미결제 시 액세스를 사용하지 않도록 설정하거나 고객의 구독을 완전히 취소할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-115">You can disable access or outright cancel your customers' subscriptions for non-payment.</span></span>
+#### <a name="examples-of-online-transaction-risk"></a><span data-ttu-id="bbcba-123">온라인 트랜잭션 위험의 예</span><span class="sxs-lookup"><span data-stu-id="bbcba-123">Examples of online transaction risk</span></span>
+- <span data-ttu-id="bbcba-124">"신용 카드 없는" 거래. 즉, 직접 거래가 발생하지 않음</span><span class="sxs-lookup"><span data-stu-id="bbcba-124">"Credit card not present" transactions, i.e., transactions do not occur in person</span></span>
+- <span data-ttu-id="bbcba-125">잘못된 신원</span><span class="sxs-lookup"><span data-stu-id="bbcba-125">Misrepresented identities</span></span>
+- <span data-ttu-id="bbcba-126">초기 결제 이전에 제공 및 사용된 서비스를 받음</span><span class="sxs-lookup"><span data-stu-id="bbcba-126">Services provisioned and used before initial payment are received</span></span>
+- <span data-ttu-id="bbcba-127">신흥 온라인 사기 위험 시장/고위험 지역</span><span class="sxs-lookup"><span data-stu-id="bbcba-127">Emerging markets/high-risk regions for online fraud</span></span>
+- <span data-ttu-id="bbcba-128">범죄자가 계정 생성 및 구매를 자동화할 수 있도록 하는 기능</span><span class="sxs-lookup"><span data-stu-id="bbcba-128">The ability for bad actors to automate account creation and purchasing</span></span>
 
-## <span data-ttu-id="eeff7-116"><a href="" id="fraudmisusemitigation"></a>사기 또는 오용 완화</span><span class="sxs-lookup"><span data-stu-id="eeff7-116"><a href="" id="fraudmisusemitigation"></a>Fraud or misuse mitigation</span></span>
+## <a name="strategies-for-managing-online-risk"></a><span data-ttu-id="bbcba-129">온라인 위험 관리 전략</span><span class="sxs-lookup"><span data-stu-id="bbcba-129">Strategies for managing online risk</span></span>
 
+<span data-ttu-id="bbcba-130">이러한 권장 사항은 고객과의 관계 수명주기 전체에서 온라인 트랜잭션 위험에 대한 노출을 줄일 수 있는 정책 및 모범 사례를 개발하는 데 도움이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-130">These recommendations can help you develop policies and practices that can reduce your exposure to online transaction risk through the lifecycle of your relationships with your customers.</span></span>  
 
-<span data-ttu-id="eeff7-117">사기 활동 또는 오용 문제를 해결하려면 다음 옵션을 사용합니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-117">To address fraudulent activity or misuse, you have the following options:</span></span>
+#### <a name="when-onboarding-new-customers"></a><span data-ttu-id="bbcba-131">새 고객을 유치할 때</span><span class="sxs-lookup"><span data-stu-id="bbcba-131">When onboarding new customers</span></span>
+- <span data-ttu-id="bbcba-132">가능한 경우 전화와 같은 연락처를 사용하여 고객과 개인적인 관계 설립</span><span class="sxs-lookup"><span data-stu-id="bbcba-132">Establish personal relationships with customers when possible, e.g. contact by phone</span></span>
+- <span data-ttu-id="bbcba-133">고객의 자격 증명 및 배경을 확인할 보다 나은 방법 모색(신용 조사 기관/비즈니스 상용 보고서 기관)</span><span class="sxs-lookup"><span data-stu-id="bbcba-133">Look for better ways to verify customers' credentials & background (credit bureaus/business commercial report agencies)</span></span> 
+- <span data-ttu-id="bbcba-134">로봇 계정 생성 및 구매에 대한 노출을 최소화하기 위해 등록 시 SMS 인증을 사용</span><span class="sxs-lookup"><span data-stu-id="bbcba-134">Use SMS verification during sign-up to minimize exposure to robotic account creation and purchasing</span></span>
+- <span data-ttu-id="bbcba-135">디지털 ID 서비스와 같은 서비스를 사용하여 ID 관리 및 추적</span><span class="sxs-lookup"><span data-stu-id="bbcba-135">Identity management and tracking using services such as digital identity services</span></span>
+- <span data-ttu-id="bbcba-136">고객의 금융 상태를 평가하는 엄격한 신용 카드 사기 탐지 시스템</span><span class="sxs-lookup"><span data-stu-id="bbcba-136">Rigorous credit card fraud detection systems to assess customer financial strength</span></span>
+- <span data-ttu-id="bbcba-137">컬렉션 처리 및 구독에 대한 액세스에 영향을 미치는 경우를 상기한 뚜렷한 컬렉션 정책 수립(미결제에 대해 액세스를 비활성화하거나 [고객의 구독을 일시 중단](suspend-a-subscription.md)할 수 있음)</span><span class="sxs-lookup"><span data-stu-id="bbcba-137">Establish a clear collections policy that details your collections process and when access to subscriptions will be impacted (you can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment)</span></span>
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span data-ttu-id="eeff7-118">구독 일시 중단</span><span class="sxs-lookup"><span data-stu-id="eeff7-118">Suspend subscriptions</span></span></td>
-<td><p><span data-ttu-id="eeff7-119">문제를 조사하는 동안 파트너 센터에서 직접 구독을 일시 중단할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-119">You can suspend subscriptions yourself from Partner Center while you investigate the problem.</span></span> <span data-ttu-id="eeff7-120">[구독 일시 중단](suspend-a-subscription.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="eeff7-120">See [Suspend a subscription](suspend-a-subscription.md).</span></span></p></td>
-</tr>
-<tr class="even">
-<td><span data-ttu-id="eeff7-121">서비스 티켓 만들기</span><span class="sxs-lookup"><span data-stu-id="eeff7-121">Create a service ticket</span></span></td>
-<td><p><span data-ttu-id="eeff7-122">의심스러운 활동에 대해 추가 질문이나 우려 사항이 있는 경우 파트너 센터에서 서비스 요청을 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-122">Create a service request in the Partner Center if you have additional questions or concerns about suspicious activity.</span></span> <span data-ttu-id="eeff7-123">[고객 대신 문제 보고](report-problems-on-behalf-of-a-customer.md)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="eeff7-123">See [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span></p></td>
-</tr>
-</tbody>
-</table>
+#### <a name="post-purchase-customer-account-management"></a><span data-ttu-id="bbcba-138">구매 후 고객 계정 관리</span><span class="sxs-lookup"><span data-stu-id="bbcba-138">Post-purchase customer account management</span></span>
+- <span data-ttu-id="bbcba-139">고객과 협력하여 적절한 모니터링 임계값을 설정하는 동시에 클라우드 사용 비즈니스 요구를 이해</span><span class="sxs-lookup"><span data-stu-id="bbcba-139">Work with customers to understand their cloud usage business needs while setting appropriate monitoring thresholds</span></span>
+    ><span data-ttu-id="bbcba-140">**참고** 파트너 센터에서 [월별 Azure 지출 예산을 설정](set-an-azure-spending-budget-for-your-customers.md)하여 한 달 동안의 고객 사용량을 모니터링하고 고객의 예산이 소진되어갈 때 알림을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-140">**Note** You can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center to monitor customer usage during the month and be notified when customers are close to their budget.</span></span>
+- <span data-ttu-id="bbcba-141">[고객 활동 로그](activity-logs.md)를 정기적으로 모니터링하여 초기에 사기를 감지</span><span class="sxs-lookup"><span data-stu-id="bbcba-141">Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early</span></span>
+- <span data-ttu-id="bbcba-142">의심스러운 활동이 감지되면 빠른 초치 시행</span><span class="sxs-lookup"><span data-stu-id="bbcba-142">Take quick action when suspicious activities are detected</span></span>
+- <span data-ttu-id="bbcba-143">위험 완화 컨트롤을 구현하지 않은 경우 고객에게 구독에 대한 전체 관리자 액세스 권한을 부여하지 않도록 함</span><span class="sxs-lookup"><span data-stu-id="bbcba-143">Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls</span></span>
+- <span data-ttu-id="bbcba-144">Microsoft 알림을 신속하게 받고, 검토하고, 이에 응답하고 조치를 취하는 프로세스를 구현</span><span class="sxs-lookup"><span data-stu-id="bbcba-144">Implement a process to quickly receive, review, act on, and respond to Microsoft notifications</span></span>
 
- 
+#### <a name="post-purchase-customer-billing-management"></a><span data-ttu-id="bbcba-145">구매 후 고객 청구 관리</span><span class="sxs-lookup"><span data-stu-id="bbcba-145">Post-purchase customer billing management</span></span>
+- <span data-ttu-id="bbcba-146">처음 거래 및 청구 전에 예약 결제 요청</span><span class="sxs-lookup"><span data-stu-id="bbcba-146">Request pre-payments prior to initial transactions and billing</span></span> 
+- <span data-ttu-id="bbcba-147">위험한 결제 기기(예: 선불 또는 가치 저장 카드)를 받지 않음</span><span class="sxs-lookup"><span data-stu-id="bbcba-147">Don't accept high-risk payment instruments, e.g. pre-paid or stored-value cards</span></span>
+- <span data-ttu-id="bbcba-148">고객 결제 및 오래된 계정 미수금을 받을 수 있는지 모니터링하고 늦은 결제 또는 미결제에 대한 표준화된 재촉 프로세스를 적극적으로 적용</span><span class="sxs-lookup"><span data-stu-id="bbcba-148">Monitor customer payments and aging accounts receivables and aggressively enforce standardized dunning processes for late or non-payment</span></span>
 
-<span data-ttu-id="eeff7-124">Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 파트너 또는 고객 활동을 감지한 경우 적용 단계를 진행합니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-124">If Microsoft detects partner or customer activity which we confirm or suspect violates the Acceptable Use Policy, we will take enforcement steps.</span></span> <span data-ttu-id="eeff7-125">고객 활동은 즉시 일시 중단될 수 있습니다. 또한 요청 시 Microsoft에서 적용 작업에 대해 알리거나 업데이트할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="eeff7-125">The customer could be immediately suspended, and you'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
+<span data-ttu-id="bbcba-149">온라인 위험을 완화하는 전략에 대한 자세한 내용은 [온라인 트랜잭션 위험 관리 가이드](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="bbcba-149">For more detailed strategies for mitigating online risk, see the [Online transaction risk management guide.](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)</span></span>
+
+>**<span data-ttu-id="bbcba-150">중요</span><span class="sxs-lookup"><span data-stu-id="bbcba-150">Important</span></span>**<br>
+<span data-ttu-id="bbcba-151">Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 파트너 또는 고객 활동을 감지한 경우 적용 단계를 진행합니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-151">If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use policy, we will take enforcement steps.</span></span> <span data-ttu-id="bbcba-152">고객 활동은 즉시 일시 중단될 수 있습니다. 또한 요청 시 Microsoft에서 적용 작업에 대해 알리거나 업데이트할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="bbcba-152">The customer could be immediately suspended, and you'll be notified of enforcement actions or updated on your requests by Microsoft.</span></span>
 
  
 
