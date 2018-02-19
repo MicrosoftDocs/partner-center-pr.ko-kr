@@ -4,11 +4,11 @@ description: "이 문서에는 클라우드 솔루션 공급자 프로그램 가
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: "csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품"
-ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: df704239dfc51f756405e0da19a64bca709b0035
+ms.sourcegitcommit: bd389c848158d41d1a012e246f57eefacec2ea2b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 01/29/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 계약, 가격 목록 및 제품
 
@@ -45,7 +45,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [Microsoft 클라우드 재판매인 계약 - 대만](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+[Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)
 
 [Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
 

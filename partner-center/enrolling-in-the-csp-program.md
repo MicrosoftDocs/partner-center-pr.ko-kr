@@ -2,11 +2,11 @@
 title: "클라우드 솔루션 공급자 프로그램에 등록 | 파트너 센터"
 description: "CSP에서 판매하기 위한 다양한 모델을 파악하고 비즈니스에 가장 잘 맞는 모델 결정"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -38,6 +38,8 @@ CSP 응용 프로그램에서 항목을 입력할 때 MPN ID가 필요하며, �
 4. 비즈니스 프로필 관리자 역할을 할당받은 직원은 고객에 대한 추천을 받을 수 있도록 비즈니스 프로필을 설정해야 합니다.
 
 ### <a name="enroll-as-a-direct-partner"></a>직접 파트너로 등록
+
+>**참고**<br> 직접 파트너 등록 요구 사항을 업데이트하고 있으며 현재 새로운 신청을 허용하지 않고 있습니다. CY18 Q2부터 신청 절차를 다시 재개할 예정입니다. 간접 재판매인으로 등록하는 것을 고려해 보시기 바랍니다.
 
 직접 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다.
 

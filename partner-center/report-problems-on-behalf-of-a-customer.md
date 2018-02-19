@@ -1,19 +1,21 @@
 ---
 title: "고객 대신 문제 보고 | 파트너 센터"
-Description: "고객에게 해결할 수 없는 서비스 문제가 발생하고 Microsoft로 문제 에스컬레이션에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다."
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객에게 해결할 수 없는 서비스 문제가 발생하고 [Microsoft로 문제 에스컬레이션](escalate-problems-to-microsoft.md)에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다. 이 프로세스는 청구 문제나 분쟁을 에스컬레이션하고 사기 문제를 해결하는 데에도 유용합니다.
@@ -26,24 +28,25 @@ ms.contentlocale: ko-KR
 
 3.  문제가 있는 서비스에서 **서비스 요청 만들기 또는 보기**를 선택합니다. Microsoft Azure Portal 또는 Office 365 관리 센터로 리디렉션됩니다.
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  **새 지원 요청**을 선택합니다.
-    2.  적절한 정보를 사용하여 지원 요청을 작성한 다음 **만들기**를 선택합니다.
+**참고** Azure에서 고객을 대신해 서비스 요청을 만들려면 귀하의 간접 공급자가 귀하에게 고객의 Azure 계정에 대한 액세스 권한을 부여해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다.   
+
+1.  **새 지원 요청**을 선택합니다.
+2.  적절한 정보를 사용하여 지원 요청을 작성한 다음 **만들기**를 선택합니다.
         -   지원 요청의 **기본 사항** 섹션에 있는 **지원 계획** 필드에서 **클라우드 솔루션 공급자**를 선택해야 합니다.
         -   지원 요청의 **연락처** 정보 섹션에 고객 정보가 아니라 귀하의 정보를 입력합니다.
 
-    3.  나중에 **지원 요청 관리**를 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토합니다.
+3.  나중에 **지원 요청 관리**를 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토합니다.
 
-    **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    1.  **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...**를 선택해야 할 수도 있습니다.
-    2.  서비스 요청 양식을 작성하고 **제출**을 선택합니다.
-        **참고** 고객의 연락처 정보가 아니라 귀하의 연락처 정보를 포함해야 합니다.
 
-         
+**Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    3.  나중에 Office 365 관리 센터로 이동한 후 **모든 지원 티켓 보기**를 선택하여 고객의 서비스 요청을 검토합니다.
+1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...**를 선택해야 할 수도 있습니다.    
+2. 서비스 요청 양식을 작성하고 **제출**을 선택합니다.
+    **참고** 고객의 연락처 정보가 아니라 귀하의 연락처 정보를 포함해야 합니다.
+3. 나중에 Office 365 관리 센터로 이동한 후 **모든 지원 티켓 보기**를 선택하여 고객의 서비스 요청을 검토합니다.
 
 ## <a name="faq"></a>FAQ
 

@@ -3,10 +3,11 @@ title: "청구 지원 제공 | 파트너 센터"
 description: "귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다."
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 
@@ -36,17 +37,15 @@ ms.contentlocale: ko-KR
 ## <a href="" id="billingdisputes"></a>청구 분쟁
 
 
--   [고객 대신 문제를 보고](report-problems-on-behalf-of-a-customer.md)하여 청구 질문 또는 분쟁을 제기합니다.
+-   [문제를 보고](report-problems-with-partner-center.md)하여 청구 질문 또는 분쟁을 제기합니다.
 
 ## <a href="" id="escalatingissues"></a>문제 에스컬레이션
 
 
 -   지원이 필요한 경우 고객 대신 파트너 지원 채널을 통해 [Microsoft로 문제를 에스컬레이션](escalate-problems-to-microsoft.md)합니다.
--   문제가 해결되면 고객에게 해결 사실을 알려 Microsoft와 고객을 연계해야 합니다.
+-   문제가 해결되면 고객에게 해결 사실을 알려 Microsoft와 고객을 연계해야 합니다. 
 
  
-
- 
-
+청구 분쟁 모든 청구 관련 질문 또는 분쟁 문제를 보고합니다(https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center).
 
 

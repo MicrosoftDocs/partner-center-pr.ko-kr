@@ -3,9 +3,12 @@ title: "Azure 구독을 다른 파트너로 전환 | 파트너 센터"
 description: "고객은 Microsoft Azure 서비스에 사용할 클라우드 솔루션 공급자 프로그램의 파트너를 변경할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너"
+ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="switch-azure-subscriptions-to-a-different-partner"></a>Azure 구독을 다른 파트너로 전환
 
@@ -17,13 +20,16 @@ translationtype: HT
 
 **참고** 현재 Azure 고객이 EA, 오픈 또는 기타 라이선싱 프로그램에서 CSP로 전환하는 자동 프로세스는 없습니다. 이 작업은 파트너와 고객의 조치가 필요한 수동 프로세스입니다. 또한 Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대한 클라우드 솔루션 공급자 구독의 파트너는 현재 변경할 수 없습니다.
 
+
  
 
 **Azure 구독에 대한 파트너 전환**
 
-1.  Azure 구독을 새 파트너로 이전하려면 고객이 프로세스를 시작하고 현재 POR(Partner of Record) CSP 파트너에 서면으로 연락해야 합니다.
+1.  Azure 구독을 새 파트너로 이전하려면 고객이 프로세스를 시작하고 현재 POR(Partner of Record) CSP 파트너에 서면으로 연락해야 합니다. 
 
-2.  구독의 CSP는 다음 작업을 수행해야 합니다.
+    >**참고**<br> 전환 프로세스를 시작하는 서비스 티켓을 만드는 것은 현재 파트너의 책임입니다. Microsoft는 고객이나 새로운 파트너를 대신할 수 없습니다. 원활하게 전환하도록 고객은 현재 파트너와 긴밀히 공조하여 계획해야 합니다.
+
+2.  구독에 대한 CSP 파트너는 다음 작업을 수행해야 합니다.
 
     파트너 센터에서 구독 이전을 요청하는 Azure 서비스 티켓을 만듭니다.
 
@@ -69,7 +75,12 @@ translationtype: HT
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
-    Azure 포털에서 구독을 관리하여 구독 및 리소스에 대한 오래된 액세스 권한을 제거합니다. 파트너 센터 메뉴에서 **고객**을 선택합니다. 고객 목록을 확장하고 **구독 보기**를 선택합니다. 고객 메뉴에서 **서비스 관리**를 선택합니다. **Microsoft Azure** 아래에서 **Microsoft Azure 관리 포털**로 이동하는 링크를 클릭합니다.
+7. 오래된 액세스 권한 제거
+
+    -  파트너 센터 메뉴에서 **고객**을 선택합니다. 
+    -  고객 목록을 확장하고 **구독 보기**를 선택합니다. 
+    -  고객 메뉴에서 **서비스 관리**를 선택합니다. 
+    -  **Microsoft Azure** 아래에서 **Microsoft Azure 관리 포털**로 이동하는 링크를 클릭합니다.
 
  
 

@@ -3,11 +3,11 @@ title: "클라우드 비즈니스 응용 프로그램 역량"
 description: "클라우드 비즈니스 응용 프로그램 역량은 고객을 대신하여 Microsoft Dynamics 365를 전문적으로 배포 및 관리하는 파트너를 위한 역량입니다."
 author: Daniel Simpson
 keywords: "역량, 역량, 클라우드 비즈니스 응용 프로그램"
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>클라우드 비즈니스 응용 프로그램 
 
@@ -51,7 +51,7 @@ ms.lasthandoff: 11/16/2017
     
     **그리고**
     
-    - 같은 직원 **5명**이 다음 기능 시험 중 하나를 통과해야 합니다.
+    - 동일 직원 또는 다른 직원 **5명**이 다음 기능 시험 중 하나를 통과해야 합니다.
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *2017년 12월부터 이용 가능한 신규 시험
