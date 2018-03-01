@@ -1,48 +1,46 @@
 ---
-title: "골드 및 실버 멤버십을 위한 향후 Microsoft 역량 요구 사항에 대해 알아보기 | 파트너 센터"
-description: "골드 및 실버 멤버십 수준으로 업그레이드하기 위해 필요한 사항을 알아보세요."
+title: "골드 및 실버 멤버십을 위한 Microsoft 역량 요구 사항 | 파트너 센터"
+description: "골드 및 실버 멤버십 레벨 획득을 위한 역량 요구 사항에 대해 알아보기"
 author: Maggiepuccievans
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency, Microsoft Partner Network, network membership
-ms.openlocfilehash: da6bb2cef3b28681075854136415bc5b01acd2bd
-ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
+keywords: "역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십"
+ms.openlocfilehash: a922e579706b1c859ee6e645f814feaa7dd0d2e3
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="upcoming-microsoft-competency-requirements-for-gold-and-silver-membership"></a>향후 적용될 골드 및 실버 멤버십을 위한 Microsoft 역량 요구 사항
+# <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>골드 및 실버 멤버십을 위한 Microsoft 역량 요구 사항
 
-**Applies to**
+**적용 대상**
 
--  Partner Center
+-  파트너 센터
 
-Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business. Microsoft competencies are designed to prepare you to meet your customers’ needs, and to help you attract new customers who are looking for Microsoft-certified solution providers.
-
-다음 실버 및 골드 멤버십 요구 사항이 곧 적용됩니다. 
+하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 
 - **실버 멤버십**을 획득하면 일관된 역량, 전문 지식 및 노력을 입증할 수 있습니다.
 
-- Earn a **Gold membership** to demonstrate your best-in-class capability within a specific Microsoft solution area.
+- **골드 멤버십**을 획득하면 특정 Microsoft 솔루션 영역 내에서 동급 최고의 역량을 입증할 수 있습니다.
 
-Read about what's required to earn Silver and Gold membership in the following areas of expertise:
+다음 전문 지식 영역에서 실버 및 골드 멤버십을 획득하기 위해 필요한 항목에 대해 읽어보세요.
 
 
-| Competencies  | Technologies |
+| 역량  | 기술 |
 |   ------------------   |   -------   |
-| [Application Development competency](competency-application-development.md) | HTML5, C#, ASP.NET, UWP, Microsoft Azure apps |
-| [Application Integration competency](competency-application-integration.md) | Windows Server, SQL server/database, C#, Azure, BizTalk Server 2013|
-| [Cloud Business Applications competency](competency-cloud-business-applications.md)| Microsoft Dynamics 365/Enterprise/Operations/AX, SQL database |
-| [Cloud Customer Relationship Management competency](competency-cloud-customer-relationship-management.md)| Dynamics 365/Dynamics CRM |
-| [Cloud Platform competency](competency-cloud-platform.md)| Azure, Linux on Azure |
-| [Cloud Productivity competency](competency-cloud-productivity.md)| Microsoft Office 365 services (Exchange Online, SharePoint Online, Skype for Business, or Yammer)|
-| [Collaboration and Content competency](competency-collaboration-and-content.md)| Office 365, SharePoint Server 2016, App Builder |
-| [Communications competency](competency-communications.md)| Skype for Business, Enterprise Voice Skype for Business 2015 |
-| [Data Analytics competency](competency-data-analytics.md)| SQL databases, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
-| [Data Platform competency](competency-data-platform.md)| SQL databases, SQL Server 2016, Azure Data Warehouse, Azure Data Services, Transact-SQL |
-| [Data Center competency](competency-datacenter.md)| System Center 2012, Windows Server virtualization and Hyper-V, Windows Server 2012/2016 |
-| [DevOps competency](competency-devops.md)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, software lifecycle, scrum certifications |
-| [Enterprise Mobility Management competency](competency-enterprise-mobility-management.md)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Mobile Device Management, identity & access management, info protection, cloud app security |
-| [Enterprise Resource Planning competency](competency-enterprise-resource-planning.md)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQL Server 2012 databases  |
-| [Messaging competency](competency-messaging.md)| Office 365, Exchange Server 2016 |
-| [Project and Portfolio Management competency](competency-project-and-portfolio-management.md)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
-| [Small and Midmarket Cloud Solutions competency](competency-small-and-midmarket-cloud-solutions.md)| Office 365 |
-| [Windows and Devices competency](competency-windows-and-devices.md)| Windows 10, Windows 10 IoT, Universal Windows Platform, Surface Hub, Office 365, Skype for Business 2015, enterprise deployment |
+| [응용 프로그램 개발 역량](https://partner.microsoft.com/membership/application-development-competency) | HTML5, C#, ASP.NET, UWP, Microsoft Azure 앱 |
+| [응용 프로그램 통합 역량](https://partner.microsoft.com/membership/application-integration-competency) | Windows Server, SQL 서버/데이터베이스, C#, Azure, BizTalk Server 2013|
+| [클라우드 비즈니스 응용 프로그램 역량](https://partner.microsoft.com/membership/cloud-business-applications-competency)| Microsoft Dynamics 365/Enterprise/Operations/AX, SQL 데이터베이스 |
+| [클라우드 고객 관계 관리 역량](https://partner.microsoft.com/membership/cloud-customer-relationship-management-competency)| Dynamics 365/Dynamics CRM |
+| [클라우드 플랫폼 역량](https://partner.microsoft.com/membership/cloud-platform-competency)| Azure, Azure 기반 Linux |
+| [클라우드 생산성 역량](https://partner.microsoft.com/membership/cloud-productivity-competency)| Microsoft Office 365 서비스(Exchange Online, SharePoint Online, 비즈니스용 Skype 또는 Yammer)|
+| [협업 및 콘텐츠 역량](https://partner.microsoft.com/membership/collaboration-and-content-competency)| Office 365, SharePoint Server 2016, App Builder |
+| [통신 역량](https://partner.microsoft.com/membership/communications-competency)| 비즈니스용 Skype, 엔터프라이즈 음성 비즈니스용 Skype 2015 |
+| [데이터 분석 역량](https://partner.microsoft.com/membership/data-analytics-competency)| SQL 데이터베이스, Azure, Microsoft R Server, Microsoft HD Insight, Power BI |
+| [데이터 플랫폼 역량](https://partner.microsoft.com/membership/data-platform-competency)| SQL 데이터베이스, SQL Server 2016, Azure Data Warehouse, Azure Data Services, Transact-SQL |
+| [데이터 센터 역량](https://partner.microsoft.com/membership/datacenter-competency)| System Center 2012, Windows Server 가상화 및 Hyper-V, Windows Server 2012/2016 |
+| [DevOps 역량](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio TFS(Team Foundation Server) 2012, 소프트웨어 수명 주기, 스크럼 인증 |
+| [Enterprise Mobility 관리 역량](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + 보안(EMS), Microsoft Intune, Azure Information Protection, AADP(Azure Active Directory Premium), 모바일 장치 관리, ID 및 액세스 관리, 정보 보호, 클라우드 앱 보안 |
+| [엔터프라이즈 리소스 계획 역량](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, ERP(전사적 자원 관리), SQL Server 2012 데이터베이스  |
+| [메시지 역량](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
+| [프로젝트 및 포트폴리오 관리 역량](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, PPM(Project and Portfolio Management), SharePoint Server 2016|
+| [중소기업 클라우드 솔루션 역량](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
+| [Windows 및 디바이스 역량](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10, Windows 10 IoT, 유니버설 Windows 플랫폼, Surface Hub, Office 365, 비즈니스용 Skype 2015, 엔터프라이즈 배포 |

@@ -1,14 +1,14 @@
 ---
-title: "라이선스 서비스 고객을 파트너 센터의 클라우드 서비스 프로그램으로 이동 | 파트너 센터"
+title: "라이선스 기반 서비스 고객을 파트너 센터의 클라우드 솔루션 공급자 프로그램으로 이동 | 파트너 센터"
 description: "고객 및 해당 고객의 구독을 자동으로 파트너 센터로 이동할 수 없지만 수동으로 이동할 수 있습니다."
 author: labrenne
-ms.openlocfilehash: bc115ad57614dc48ca8d75e4347f1cd2dbcd9d50
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="moving-license-based-services-customers-to-the-cloud-service-program-on-partner-center"></a>라이선스 기반 서비스 고객을 파트너 센터의 클라우드 서비스 프로그램으로 이동
+# <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>라이선스 기반 서비스 고객을 파트너 센터의 클라우드 솔루션 공급자 프로그램으로 이동
 
 **적용 대상**
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 08/23/2017
 
 현재 파트너 센터에서는 고객 및 해당 고객의 구독을 라이선싱 프로그램에서 다른 프로그램으로 자동으로 이동할 수 없습니다. 그러나 파트너 센터의 다중 채널 및 다중 파트너 기능을 사용하여 수동으로 개별 고객을 이동할 수 있습니다. [CSP 다중 채널 및 다중 파트너 기능](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871)에 대해 자세히 알아보세요. 
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-service-program-csp"></a>고객의 라이선스 기반 구독을 CSP(클라우드 서비스 프로그램)로 이동
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>고객의 라이선스 기반 구독을 CSP(클라우드 솔루션 공급자 프로그램)로 이동
 
 1. **대시보드** 메뉴에서 고객을 선택한 다음 **재판매인 관계 요청**을 선택합니다.
 
