@@ -1,6 +1,6 @@
 ---
-title: Migrate Dynamics AX subscriptions to Dynamics 365 | Partner Center
-description: Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.
+title: "Dynamics AX 구독을 Dynamics 365로 마이그레이션 | 파트너 센터"
+description: "Microsoft에서는 조직이 성장, 발전 및 변혁을 통해 고객의 요구 사항을 충족하고 새로운 기회를 포착할 수 있게 해주는 차세대 지능형 비즈니스 응용 프로그램인 Dynamics 365를 소개합니다."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
@@ -9,15 +9,15 @@ ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/24/2017
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrate Dynamics AX subscriptions to Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX 구독을 Dynamics 365로 마이그레이션
 
-**Applies to**
+**적용 대상**
 
--  Partner Center
+-  파트너 센터
 
-Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities. 새 제품의 일부로 Microsoft에서는 2016년 11월 1일 고객을 위한 새로운 Microsoft Dynamics 구독 계획을 소개합니다. 이 계획은 현재 계획과 유사하지만 같지는 않습니다.
+Microsoft에서는 조직이 성장, 발전 및 변혁을 통해 고객의 요구 사항을 충족하고 새로운 기회를 포착할 수 있게 해주는 차세대 지능형 비즈니스 응용 프로그램인 Dynamics 365를 소개합니다. 새 제품의 일부로 Microsoft에서는 2016년 11월 1일 고객을 위한 새로운 Microsoft Dynamics 구독 계획을 소개합니다. 이 계획은 현재 계획과 유사하지만 같지는 않습니다.
 
-이 문서의 지침에서는 간접 공급자가 고객의 기존 Microsoft Dynamics AX 구독 및 Microsoft Dymanics CRM Online 구독을 새 Microsoft Dynamics 365로 전환하는 방법을 설명합니다. The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.
+이 문서의 지침에서는 간접 공급자가 고객의 기존 Microsoft Dynamics AX 구독 및 Microsoft Dymanics CRM Online 구독을 새 Microsoft Dynamics 365로 전환하는 방법을 설명합니다. 이 지침은 공급자가 고객의 구독을 새 SKU로 마이그레이션해야 하는 새 버전으로 업데이트하는 다른 Microsoft 제품에도 적용됩니다.
 
 Microsoft Dynamics CRM Online 및 AX 계획은 사용 중지되었습니다.  2017년 7월 1일부터 더 이상 예전 계획으로 갱신할 수 없으며 기존 E4 구독은 만료될 때 자동으로 갱신되지 않습니다.
 
@@ -62,10 +62,10 @@ Microsoft Dynamics AX 제품군은 2016년 11월 1일부터 사용 중지됩니�
 ## <a name="transition-customers-to-new-product-plans"></a>새 제품 요금제로 고객 전환
 
 
-Microsoft continuously offers new products and services to resellers and providers. In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down. Migrating customers from old SKUs to newer ones requires the following sequence:
+Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비스를 제공합니다. 이러한 경우 재판매인은 고객을 새 서비스로 업그레이드하거나 결국 종료될 SKU의 구독을 마이그레이션해야 할 수 있습니다. 이전 SKU에서 새 SKU로 고객을 마이그레이션하려면 다음 순서가 필요합니다.
 
--   [Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);
--   [Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);
+-   [새 구독 구매](#manual-subscription-migration-purchasenewsubsc)
+-   [현재 사용자 라이선스 다시 할당](#manual-subscription-migration-reassignlicenses)
 -   [이전 구독 취소](#manual-subscription-migration-cancelsubscriptions).
 
 다음 절차에서는 Microsoft Dynamics AX 또는 CRM Online에서 Dynamics 365로 고객을 이동합니다.
@@ -76,40 +76,40 @@ Microsoft continuously offers new products and services to resellers and provide
 
 **새 구독 구매**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.
-2.  Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.
+1.  **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **구독 추가**를 선택합니다.
+2.  카탈로그에서 구매할 구독을 선택하고(이 경우 Dynamics 365 for Operations, Enterprise Edition) 라이선스 수를 입력한 다음 **제출**을 선택합니다.
 
-    Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.
+    이제 고객은 이전 구독과 새 구독이 둘 다 있어야 합니다. 이 예제에서는 이전 Dynamics AX Enterprise와 새 '대상' 구독인 Dynamics 365 for Operations, Enterprise Edition이 있습니다.
 
-<a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.
+<a href="" id="reassignlicenses"></a> 다음 단계는 새 구독에 모든 기존 사용자 라이선스를 다시 할당하는 것입니다.
 
-**Reassign user licenses**
+**사용자 라이선스 다시 할당**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**. The customer’s Users and Licenses page opens.
-2.  To re-assign user licenses, select the user to reassign and then select **Manage licenses**.
-3.  On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.
-4.  Select **Submit**. A confirmation page lists the new license assignments.
-5.  Continue the same steps with any other customer users that need license reassignment.
+1.  **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **사용자 및 라이선스**를 선택합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+2.  사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
+3.  **라이선스 관리** 페이지에서 **Dynamics AX Enterprise** 라이선스 확인란을 선택 취소하고 **Dynamics 365 for Operations** 라이선스를 선택합니다.
+4.  **제출**을 선택합니다. 확인 페이지에 새 라이선스 할당이 나열됩니다.
+5.  라이선스 다시 할당이 필요한 다른 모든 고객 사용자에 대해 같은 단계를 계속합니다.
 
-<a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.
+<a href="" id="cancelsubscriptions"></a> 사용자 라이선스를 새 서비스로 이동한 후 최상위 고객 수준에서 이전 구독을 안전하게 취소할 수 있습니다.
 
-**Cancel the old subscription**
+**이전 구독 취소**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.
-2.  In the subscription details page, set the subscription **Status** to **Suspended**.
-3.  Select **Submit**.
+1.  **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 취소할 구독을 선택합니다.
+2.  구독 세부 정보 페이지에서 구독 **상태**를 **일시 중단됨**으로 설정합니다.
+3.  **제출**을 선택합니다.
 
-The old subscription is suspended, and the new subscription is active. The suspended subscription will automatically be de-provisioned after 120 days. The customer incurs no additional costs for the old subscription.
+이전 구독이 일시 중단되고 새 구독이 활성화됩니다. 일시 중단된 구독은 자동으로 120일 후 프로비전이 해제됩니다. 이전 구독에 대해서는 고객에게 추가 비용이 발생하지 않습니다.
 
-## <a name="additional-considerations"></a>Additional considerations
+## <a name="additional-considerations"></a>추가 고려 사항
 
 
-If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:
+이후 구독 프로비전을 위해 고객이 개방형 채널에서 클라우드 서비스 프로그램으로 이전하는 경우 기존 구독도 마이그레이션해야 합니다.
 
--   If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.
--   If the customer is not yet established as your customer, you can invite them. For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.
+-   고객이 개방형 채널을 통해 이전 구독을 받은 경우 새 SKU의 CSP로 이동하는 작업은 간단합니다.
+-   고객이 귀하의 고객으로 아직 설정되지 않은 경우 고객을 초대할 수 있습니다. 자세한 내용은 [고객과의 관계 요청](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) 도움말 항목을 참조하세요.
 
-After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses. The only difference involves cancellation of old subscription(s). A new provider cannot cancel suspend/cancel subscriptions acquired via other channels. If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.
+고객이 귀하를 간접 공급자로 수락한 후 프로비전 단계는 대개 위에 설명된 내용과 같습니다. 즉, 새 구독을 구매한 다음 사용자 라이선스를 할당합니다. 유일한 차이점은 이전 구독 취소가 수반된다는 점입니다. 새 공급자는 다른 채널을 통해 취득한 구독을 일시 중단/취소할 수 없습니다. 고객이 다른 판매 채널(예: 개방형 채널)을 통해 이전 구독을 취득한 경우 고객은 해당 채널을 통해 이전 구독을 직접 취소해야 합니다.
 
  
 

@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: "인센티브 지급액에 대한 이해 | 파트너 센터"
 description: "인센티브 프로그램의 수익 및 지급액을 보세요."
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>인센티브 지급액에 대한 이해
 
-**Applies to**
+**적용 대상**
 
 -  파트너 센터
 
 인센티브 관리자 및 사용자는 인센티브 프로그램을 통해 수령했거나 곧 수령할 예정인 수익 및 지급액에 대한 개요를 파악할 수 있습니다.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>수익 및 지급액에 대한 요약 정보
 
 인센티브 사용자 및 인센티브 관리자인 CSP 파트너는 **지급액 요약**에서 현재 참가 중인 인센티브 프로그램에서 자신의 현재 재무 상태를 볼 수 있습니다. 필요에 따라 요약 정보의 각 영역을 드릴다운할 수 있습니다. 
 
@@ -49,7 +49,7 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="analyze-incentives-earnings"></a>인센티브 수익 분석
 
-인센티브 프로그램을 통해 더 많은 수익을 거둘 수 있는 영역과 이미 결제된 영역을 살펴보세요. This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. 각 프로그램 및 수익 유형마다 요구 사항과 시작 및 종료 날짜가 다릅니다. 
+인센티브 프로그램을 통해 더 많은 수익을 거둘 수 있는 영역과 이미 결제된 영역을 살펴보세요. 이 데이터를 보면 수익을 올렸지만 아직 결제되지 않은 영역을 확실하게 알 수 있습니다.  어떤 프로그램과 활동이 가장 성공적이었는지 파악하고 어떤 위치에서 수익이 나고 있는지 확인하세요. 프로그램별로 총 잠재 수익, 프로그램에 참가할 수 있는 기간, 프로그램이 만료되는 시간을 볼 수 있습니다. 각 프로그램 및 수익 유형마다 요구 사항과 시작 및 종료 날짜가 다릅니다. 
 
 ## <a name="earning-trends"></a>수익 추세 
 
@@ -96,12 +96,12 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="downloading-earnings-transactions"></a>수익 거래 다운로드 
 
-|**필드**        |**Definition**     |
+|**필드**        |**정의**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |각 수익 품목에 대해 생성된 고유 식별자 |               
 |파트너 이름   | 파트너 센터에 등록된 파트너 이름                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | 파트너 MPN V-Org ID의 국가/지역|
+|MPN/PCN        |MPN ID(파트너의 Microsoft 파트너 네트워크 ID)/공용 고객 번호|
+|위치       | 파트너 MPN V-Org ID의 국가/지역|
 |프로그램 이름   |인센티브 프로그램 이름 |
 |고객 이름  |   고객의 이름 |
 |고객 위치  | 고객이 위치한 국가  |
@@ -113,11 +113,11 @@ ms.lasthandoff: 07/10/2017
 |계약 종료 날짜 |갱신 및 연장을 포함한 사용권 계약의 종료 날짜 |
 |구독 시작 날짜    |구독의 시작 날짜|
 |구독 종료 날짜  |구독의 종료 날짜|
-|Product SKU    |제품의 SKU 번호|
+|제품 SKU    |제품의 SKU 번호|
 |제품 이름   |Microsoft 제품의 이름|
 |거래 날짜   |거래가 발생한 날짜 및 시간(UTC).|
 |라이선스 수  |판매된 라이선스 수 |
-|Quantity   |판매된 단위 수| 
+|수량   |판매된 단위 수| 
 |이전 수량 |마지막 수익 기간의 단위 수량 |
 |단가 |판매된 단가| 
 |거래 금액 |계산율에 이 금액을 곱하여 인센티브 수익을 계산|
@@ -128,7 +128,7 @@ ms.lasthandoff: 07/10/2017
 |수익 기간     |프로그램을 기준으로 하는 수익 기간 |
 |수익 기간 시작   |프로그램의 수익 기간 시작(UTC) |
 |수익 기간 종료 |프로그램의 수익 기간 종료(UTC)|
-|Calculation Date   |수익이 계산되는 시간(UTC)|
+|계산 날짜   |수익이 계산되는 시간(UTC)|
 |수익 통화   |수익 금액의 통화 |
 |수익 환율|거래 통화에서 수익 통화로 변환하는 데 사용되는 환율|
 |보고서 통화|보고서에 사용되는 통화|
@@ -145,8 +145,8 @@ ms.lasthandoff: 07/10/2017
 |**열 이름**   |**설명**   |
 |-------------------|:--------------------|
 |파트너 이름|파트너 센터에 등록된 파트너 이름|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |MPN ID(파트너의 Microsoft 파트너 네트워크 ID)/공용 고객 번호|
+|위치       | 파트너 MPN V-Org ID의 국가/지역|
 |프로그램 이름   |인센티브 프로그램 이름 |
 |수익 유형   |수익 유형(리베이트, 조정) |
 |지급액 통화|   지급에 사용되는 통화 유형|
