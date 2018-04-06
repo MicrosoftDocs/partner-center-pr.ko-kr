@@ -1,13 +1,13 @@
 ---
-title: "교육 고객에게 Minecraft: Education Edition 구독 판매"
-description: "교육 고객에게 Minecraft: Education Edition 구독 판매"
+title: '교육 고객에게 Minecraft: Education Edition 구독 판매'
+description: '교육 고객에게 Minecraft: Education Edition 구독 판매'
 author: KPacquer
-keywords: "공인 교육 파트너"
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+keywords: 공인 교육 파트너
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>교육 고객에게 Minecraft: Education Edition 구독 판매
 
@@ -29,6 +29,37 @@ ms.lasthandoff: 12/02/2017
       b. 관리자는 [Minecraft 세부 정보 페이지](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)로 이동하여 앱을 다운로드하고 사용자에게 앱을 배포합니다. 자세한 지침은 [IT 관리자용 - Minecraft: Education Edition 획득: Minecraft 배포](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)를 참조하세요.
     
   학교의 IT 관리자가 비즈니스용 Microsoft 스토어에 익숙하지 않은 경우 [비즈니스용 Microsoft Store 및 교육용 Microsoft Store 개요](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)를 알려주세요. 
+
+## <a name="special-pricing-for-education-offers"></a>교육용 제품 특별 가격
+
+Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 선택된 고객 그룹을 위한 특별 할인 가격을 제공합니다. 재판매인이 이 가격에 액세스하려면 먼저 인증을 받아야 합니다. 또한 고객은 특별 가격에 대한 자격을 갖추어야 합니다.
+
+**재판매인 자격 확인**
+
+1.  **대시보드** 메뉴에서 **계정 설정**을 선택합니다.
+2.  **파트너 프로필**의 **CSP 프로그램 정보** 섹션에서 **재판매인 자격**을 찾습니다.
+3.  **재판매인 자격**이 표시되지 않으면 아직 특별 제품을 구매할 수 있는 권한을 부여받지 않은 것입니다.
+
+**고객 자격 확인**
+
+1.  **대시보드** 메뉴에서 **고객**을 선택합니다. 목록에서 고객을 선택합니다.
+2.  고객 메뉴에서 **계정**을 선택합니다. **정보 회사** 섹션에서 **특별 자격**을 찾습니다.
+3.  **특별 자격**이 **없음**으로 설정되어 있지만 고객이 실제로 자격을 충족하는 경우 이를 포함하도록 고객 세부 정보를 **업데이트**할 수 있습니다.
+
+## <a name="access-education-offers"></a>교육 제품 액세스 
+
+CSP에서 교육 제품에 액세스할 수 있도록 [공인 교육 파트너가 됩니다](http://go.microsoft.com/fwlink/p/?LinkId=808781)(AEP).
+
+### <a name="purchase-offers-at-education-pricing"></a>교육 가격의 제품 구매
+
+1. 귀하가 [공인 교육 파트너](http://go.microsoft.com/fwlink/p/?LinkId=808781)여야 합니다.
+고객이 해당 [적격 교육 사용자](http://go.microsoft.com/fwlink/p/?LinkId=808795) 시장의 정의를 충족해야 합니다.
+2. 표준 단계에 따라 [새 구독을 만듭니다](create-a-new-subscription.md). 그러나 카탈로그에서 제품을 선택하는 경우 교육 탭에서 선택합니다.
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

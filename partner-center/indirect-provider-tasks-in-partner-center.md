@@ -1,12 +1,12 @@
 ---
-title: "CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터"
-description: "간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다."
+title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
+description: 간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -72,6 +72,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 | **이렇게 하려면** | **할 일** | **위치** |
 |   ------------------   |   -------   |   -----   |
 | 재판매인이 고객의 계정을 관리하도록 허용하고 재판매인에게 고객의 구독을 관리할 관리자 권한 부여 | 새 고객을 추가할 때 재판매인을 고객 계정에 연결 | **새 고객** 페이지 |
+|재판매인이 Azure 고객의 계정을 관리하도록 설정|새 고객을 추가할 때 재판매인을 Azure 고객 계정에 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)을 선택하여 간접 재판매인에게 **테넌트 소유자** 사용 권한 부여|
 | 재판매인에게 인센티브 크레딧 제공 | 재판매인을 구독(새 구독 또는 기존 구독)에 연결 | **새 구독** 페이지 |
 | 특정 구독의 고객 지원을 재판매인에게 위임 | **지정된 지원 담당자** 목록에서 재판매인 선택 | 구독의 세부 정보 페이지: **고객** 페이지에서 고객을 선택한 다음 해당 고객의 **구독** 페이지에서 구독 선택 |
 

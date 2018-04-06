@@ -1,14 +1,14 @@
 ---
-title: "CSP 계약, 가격표 및 제품 | 파트너 센터"
-description: "이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다."
+title: CSP 계약, 가격표 및 제품 | 파트너 센터
+description: 이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-keywords: "csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품"
+keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 계약, 가격 목록 및 제품
 

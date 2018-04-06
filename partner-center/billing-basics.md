@@ -1,13 +1,13 @@
 ---
-title: "청구 기본 사항 | 파트너 센터"
+title: 청구 기본 사항 | 파트너 센터
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>청구 기본 사항
 
@@ -59,7 +59,6 @@ ms.lasthandoff: 01/17/2018
 <tr class="odd">
 <td>조정/크레딧/취소</td>
 <td><ul>
-<li>테스트 계정 및 통합 테스트에 대한 크레딧은 권한이 부여되지 않습니다. 테스트를 수행할 때 구독 요금이나 조기 종료 수수료가 부과되는 것을 방지하려면 "무료 기간" 동안 구독을 취소하면 됩니다. Azure 서비스에 대한 모든 소비 사용 요금은 귀하의 책임입니다.</li>
 <li>크레딧 또는 조정은 적용된 후 다음 청구 송장에 조정 및 크레딧이 후불로 표시됩니다.</li>
 </ul></td>
 </tr>
@@ -89,15 +88,6 @@ ms.lasthandoff: 01/17/2018
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>최대 1개월의 무료 인센티브</td>
-<td><ul>
-<li>월별 청구를 통한 새 구독에는 계속해서 무료 기간이 제공되고 파트너 청구 날짜로 조정됩니다.</li>
-<LI> 연간 구독을 통한 구독에는 무료 기간이 제공되지 않고 구매 날짜로 조정됩니다. 파트너는 계속해서 월별 청구 날짜에 송장 및 조정 파일을 받게 되며, 조정 파일에는 월별 및 연간 구독에 대한 청구 내역이 포함됩니다.
-<li>적절한 계약에 따라 구독이 취소되지 않은 경우 모든 구독은 12개월분의 요금이 사전 청구된 상태로 새로운 12개월 기간 동안 자동 갱신됩니다.</li>
-<li>사용량 기준 서비스에는 무료 기간이 적용되지 않습니다.</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>청구 규칙</td>
 <td><ul>
 <li>구독은 연간 단위로 이루어지며 자동 갱신됩니다.</li>
@@ -107,7 +97,7 @@ ms.lasthandoff: 01/17/2018
 <li>결제는 프로비전된 실제 사용자 수가 아니라 판매된 실제 사용자 수에 대해 청구됩니다.</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>조정/크레딧/취소</td>
 <td><ul>
 <li>라이선스 기준 서비스를 취소할 경우 현재 조기 종료 수수료가 부과되지 않습니다.</li>
@@ -133,7 +123,6 @@ Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모
 <tr class="odd">
 <td>청구 규칙</td>
 <td><ul>
-<li>청구는 구독 시작 날짜에 시작됩니다. 사용량 기준 청구에 대한 "무료 기간"은 없습니다.</li>
 <li>구독은 매달 청구되며 새로운 데이터 통신 요금으로 자동 갱신됩니다. 청구는 사용량을 기준으로 매달 후불 처리됩니다.</li>
 <li>데이터 통신 서비스 요금은 송장 주기 내에서 변경할 수 있습니다.
 <ul>

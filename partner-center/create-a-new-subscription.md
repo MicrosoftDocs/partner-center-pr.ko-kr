@@ -1,16 +1,16 @@
 ---
-title: "새 구독 만들기 | 파트너 센터"
-description: "파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다."
+title: 고객 구독 만들기, 일시 중단, 또는 취소 | 파트너 센터
+description: 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>새 구독 만들기
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
 **적용 대상**
 
@@ -42,18 +42,23 @@ ms.lasthandoff: 01/03/2018
 
 7.  편집 페이지에서 라이선스 수량을 변경하거나 구독을 일시 중단할 수도 있습니다.
 
+## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중지 또는 취소
 
-**고객이 Azure 구독을 관리할 수 있도록 허용**
+고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
 
-고객을 위해 Microsoft Azure 구독을 만든 후, 고객이 구독을 관리하도록 허용할 수 있습니다. 이렇게 하려면 고객의 Microsoft Azure 관리 포털에 로그인합니다. 
+구독 상태를 **일시 중단됨**으로 변경하면 사용자가 로그인하거나 서비스에 액세스할 수 없습니다. 관리자는 계속 로그인하고 데이터에 액세스할 수 있습니다.
 
-1.  고객의 Azure Portal을 열려면 고객 목록에서 원하는 고객의 목록을 확장하거나 고객의 이름을 선택하고 **Microsoft Azure 관리 포털**을 선택합니다.
-    
- >**참고** <br> Azure Portal에 로그인하라는 메시지가 표시되면 관리자 권한을 위임받지 않은 것일 수 있습니다. 자신을 고객의 POR(Partner of Record)로 지정하려면 **관계 요청**을 선택하여 고객을 초대합니다. 고객이 초대를 수락하면 위임된 관리자 권한이 자동으로 허용됩니다. 
+**구독 일시 중단**
 
-2.  Azure Portal에서 고객의 구독 목록을 열고 고객의 Azure 구독을 선택합니다.
+1.  **대시보드** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택합니다.
+2.  관리할 구독을 선택합니다.
+3.  **상태** 섹션에서 **일시 중단**을 선택합니다. 그런 다음 변경 내용을 **제출**합니다.
+4.  90일 이내에 또는 90일에 계정이 개설된 시간과 첫 번째 청구 기간 사이의 일 수를 더한 기간(최대 120일) 이내에 구독을 다시 활성화하지 않으면 모든 데이터가 삭제됩니다.
 
-3.  자신의 구독에서 리소스를 만들고 관리할 수 있도록 고객의 사용자에게 역할을 할당합니다.
+구독을 일시 중단할 경우, **일시 중단** 버튼 아래에 표시된 날짜는 구독을 다시 활성화하지 않을 경우 자동으로 구독이 만료되는 시점을 나타냅니다. 
+
+
+
 
  
 

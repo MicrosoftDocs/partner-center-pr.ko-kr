@@ -1,12 +1,12 @@
 ---
-title: "Action Pack 구입 또는 갱신 | 파트너 센터"
-description: "Microsoft Action Pack 구독을 구입 또는 갱신하는 방법을 알아보세요."
+title: Action Pack 구입 또는 갱신 | 파트너 센터
+description: Microsoft Action Pack 구독을 구입 또는 갱신하는 방법을 알아보세요.
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입 또는 갱신
 
@@ -96,6 +96,14 @@ Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문�
 
 서비스 요청 상태를 확인하려면 **서비스 요청 > 파트너 센터 요청**을 선택한 다음 **열기**를 선택합니다. 목록에서 적절한 서비스 요청을 선택합니다.  
 
+## <a name="how-to-get-your-maps-invoice"></a>MAPS 송장을 다운로드하는 방법
+
+Microsoft Action Pack 구독 송장의 복사본을 다운로드하려면 아래에 설명된 단계를 수행해야 합니다.
+
+1. [partnercenter.microsoft.com](https://partnercenter.microsoft.com)에 로그인합니다. 
+2. 파트너 관계를 클릭합니다. 
+3. 제품을 선택한 다음 구매 완료를 클릭합니다. 
+4. 송장 다운로드를 클릭합니다.
  
 ## <a name="next-steps"></a>다음 단계
 

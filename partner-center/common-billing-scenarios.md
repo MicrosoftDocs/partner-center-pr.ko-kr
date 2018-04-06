@@ -1,14 +1,14 @@
 ---
-title: "일반적인 청구 시나리오 | 파트너 센터"
-description: "이 항목에서는 새 구독을 추가한 후, 구독의 라이선스 수를 조정한 후 또는 구독을 취소한 후 청구서에 표시되는 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다."
+title: 일반적인 청구 시나리오 | 파트너 센터
+description: 이 항목에서는 새 구독을 추가한 후, 구독의 라이선스 수를 조정한 후 또는 구독을 취소한 후 청구서에 표시되는 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 
@@ -42,8 +42,6 @@ ms.lasthandoff: 02/09/2018
 **청구:** 라이선스 기준 구독은 구독 연주기일에 사전 청구됩니다.
 
 **연주기일:** 월별 청구를 통한 구독은 파트너 청구 날짜로 설정되고, 연간 청구를 통한 구독은 구매 날짜로 설정됩니다.
-
-**무료 기간:** 월별 청구를 통한 구독은 구매 날짜로부터 다음 파트너 청구 날짜까지의 무료 기간이 제공됩니다.
 
 **기간:** 모든 라이선스 기준 구독의 결제 기간은 12개월입니다. 연간 청구의 결제 기간은 구매 날짜부터 시작되고, 월별 청구의 결제 기간은 구매 날짜 이후의 청구 날짜부터 시작됩니다.
 

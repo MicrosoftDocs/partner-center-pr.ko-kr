@@ -1,19 +1,28 @@
 ---
-title: "제품 특별 가격 가져오기 | 파트너 센터"
-Description: "Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 선택된 고객 그룹을 위한 특별 할인 가격을 제공합니다."
+title: 특수 산업을 대상으로 판매 | 파트너 센터
+Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/09/2018
 ---
-# <a name="get-special-pricing-for-offers"></a>제품 특별 가격 가져오기
+# <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 
 **적용 대상**
 
 -  파트너 센터
 
-Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 선택된 고객 그룹을 위한 특별 할인 가격을 제공합니다. 재판매인이 이 가격에 액세스하려면 먼저 인증을 받아야 합니다. 또한 고객은 특별 가격에 대한 자격을 갖추어야 합니다.
+Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 선택된 고객 그룹을 위한 특별 할인 가격을 제공합니다. 재판매인이 이 가격을 제공하려면 먼저 인증을 받아야 합니다. 또한 고객은 특별 가격에 대한 자격을 갖추어야 합니다.
+
+|**특별 가격**   |**재판매인 필수 자격**   |**고객 필수 자격**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|교육   |[공인 교육 판매자](https://www.mepn.com/MEPN/AEPHome.aspx)여야 함   | [적격 Education 사용자](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)여야 함   |
+|정부   |[Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 사용하여 등록해야 함|   없음|
+|비영리  |없음   |자격을 갖추기 위해 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register)을 통해 등록   |
+
 
 **재판매인 자격 확인**
 
@@ -27,24 +36,10 @@ Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 
 2.  고객 메뉴에서 **계정**을 선택합니다. **정보 회사** 섹션에서 **특별 자격**을 찾습니다.
 3.  **특별 자격**이 **없음**으로 설정되어 있지만 고객이 실제로 자격을 충족하는 경우 이를 포함하도록 고객 세부 정보를 **업데이트**할 수 있습니다.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>교육 제품</p></td>
-<td><p>CSP에서 교육 제품에 액세스할 수 있도록 [공인 교육 파트너가 됩니다](http://go.microsoft.com/fwlink/p/?LinkId=808781)(AEP).</p>
-<p>교육 가격의 제품 구매</strong></p>
-<ol>
-<li>귀하가 [공인 교육 파트너](http://go.microsoft.com/fwlink/p/?LinkId=808781)여야 합니다.</li>
-<li>고객이 해당 [적격 교육 사용자](http://go.microsoft.com/fwlink/p/?LinkId=808795) 시장의 정의를 충족해야 합니다.</li>
-<li>일반적인 단계에 따라 [새 구독을 만듭니다](create-a-new-subscription.md). 그러나 카탈로그에서 제품을 선택하는 경우 <strong>교육</strong> 탭에서 선택합니다.</li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+**특별 혜택을 찾을 수 있는 위치**
+
+귀하와 고객이 특별 혜택 프로그램에 대한 자격을 갖추게 되면 일반 단계에 따라 [새 구독 만듭니다](create-a-new-subscription.md). 카탈로그에는 **교육**과 같이 판매할 수 있는 특별 혜택에 대한 탭이 있습니다. 
+
 
  
 
