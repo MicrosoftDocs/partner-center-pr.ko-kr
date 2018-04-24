@@ -4,11 +4,11 @@ description: 파트너 센터에서 고객 기록을 만들면 카탈로그에�
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
+파트너 대시보드에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
 
-일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 책정 및 제품 페이지를 방문하세요. 
+일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 대시보드 가격 책정 및 제품 페이지를 방문하세요. 
 
 
 **새 구독 만들기**

@@ -1,13 +1,13 @@
 ---
-title: "파트너 센터에서 제공되는 타사 소프트웨어 | 파트너 센터"
-description: "이제 고객에게 제공하는 포트폴리오에 추가할 타사 소프트웨어를 검색하여 구입할 수 있습니다."
+title: 파트너 센터에서 제공되는 타사 소프트웨어 | 파트너 센터
+description: 이제 고객에게 제공하는 포트폴리오에 추가할 타사 소프트웨어를 검색하여 구입할 수 있습니다.
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: ebf84fa0851bd1255a770a8ce00be3d06d45bca5
-ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
+ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
+ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2018
+ms.lasthandoff: 03/28/2018
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>타사 소프트웨어를 포트폴리오에 추가
 
@@ -23,7 +23,7 @@ ms.lasthandoff: 01/18/2018
 ## <a name="discover-the-products-you-want-to-sell"></a>판매할 제품 검색
 
 자신의 포트폴리오에 잘 맞는 제품 유형을 손쉽게 검색할 수 있습니다. 
-1.  왼쪽 탐색 모음에서 타사 제품을 선택합니다. 
+1.  왼쪽 탐색 창에서 타사 제품을 선택합니다. 
 2.  기본 보기에 사용 가능한 모든 제품이 표시됩니다. 
 3.  필터링 기준:
 

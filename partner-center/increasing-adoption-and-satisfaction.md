@@ -1,13 +1,13 @@
 ---
-title: "채택률 및 만족도 높이기 | 파트너 센터"
-description: "당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다."
+title: 채택률 및 만족도 높이기 | 파트너 센터
+description: 당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -26,11 +26,11 @@ ms.lasthandoff: 12/02/2017
 
 **단일 고객**
 
--   파트너 센터 메뉴에서 **고객**을 선택하고, 고객을 선택한 다음 **고객 정보**를 선택합니다.
+-   **대시보드**에서 **고객**을 선택하고 원하는 고객을 선택한 다음, **Customer insights**를 선택합니다.
 
 **전체 포트폴리오**
 
-1.  파트너 센터에서 **대시보드**에서 **Office 라이선스 분석** 섹션의 아래로 스크롤합니다.
+1.  **대시보드**에서 **분석**을 선택합니다.
 2.  **내보내기** 옵션을 선택하여 전체 고객 집합에서 배포 및 사용 현황 데이터를 다운로드합니다.
 
 용어:

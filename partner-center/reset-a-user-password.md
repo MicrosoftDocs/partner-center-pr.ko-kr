@@ -1,11 +1,13 @@
 ---
-title: "사용자 암호 다시 설정 | 파트너 센터"
-description: "사용자가 암호를 잊은 경우 새 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다."
+title: 사용자 암호 다시 설정 | 파트너 센터
+description: 사용자가 암호를 잊은 경우 새 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>사용자 암호 다시 설정
 
@@ -19,7 +21,7 @@ translationtype: HT
 
 **관리자로 사용자 암호 다시 설정**
 
-1.  파트너 센터에서 대시보드 메뉴 &gt; **계정 설정** &gt; **사용자 관리**로 이동합니다.
+1.  **설정** &gt; **사용자 관리**로 이동합니다.
 2.  목록에서 사용자를 선택합니다.
 
 3.  페이지 맨 아래에 있는 **암호 다시 설정**을 선택합니다.

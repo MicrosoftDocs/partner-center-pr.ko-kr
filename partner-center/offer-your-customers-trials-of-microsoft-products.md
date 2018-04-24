@@ -1,12 +1,12 @@
 ---
-title: "고객에게 Microsoft 제품 평가판 제공 | 파트너 센터"
-description: "고객은 30일 동안 Microsoft 구독 제품을 시험 사용할 수 있습니다."
+title: 고객에게 Microsoft 제품 평가판 제공 | 파트너 센터
+description: 고객은 30일 동안 Microsoft 구독 제품을 시험 사용할 수 있습니다.
 author: labrenne
-ms.openlocfilehash: a35a4e1c1aca22df6b262bd2f7d64a4d234d33ed
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+ms.openlocfilehash: 238681a6b19fa4f021ef9882aa477a1a8937d462
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 평가판 제공
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 10/17/2017
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>고객을 평가판에 등록
 
-1.  **계정 설정**에서 **카탈로그**로 이동합니다. 
+1.  대시보드의 **판매**에서 **카탈로그**로 이동합니다. 
 2.  카탈로그에서 **청구 주기**에 있는 **평가판 제품**을 클릭합니다. 이렇게 하면 무료 평가판만 표시되고 무료가 아닌 제품은 표시되지 않습니다. 평가판은 카탈로그의 **평가판** 탭에 표시됩니다.
 3.  제공할 무료 평가판을 선택한 다음 **제출**을 선택합니다. 모든 평가판은 30일 동안 요금이 청구되지 않습니다. 또한 평가판 기간 중 언제든지 유료 구독으로 변환할 수 있습니다.
 

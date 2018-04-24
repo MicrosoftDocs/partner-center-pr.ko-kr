@@ -1,14 +1,14 @@
 ---
-title: "고객 대신 문제 보고 | 파트너 센터"
+title: 고객 대신 문제 보고 | 파트너 센터
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
-ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
+ms.openlocfilehash: 5e1cbd1a6db707ddb2cecb7c9e8d59bfa828f6be
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -22,11 +22,11 @@ ms.lasthandoff: 02/01/2018
 
 **고객 서비스 요청을 제출합니다.**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택합니다. 목록에서 고객을 선택합니다.
+1.  **대시보드** 메뉴에서 **서비스 요청**과 **고객 요청**을 차례로 선택합니다. 
 
-2.  고객 메뉴에서 **서비스 관리**를 선택합니다.
+2.  고객 요청 페이지에서 원하는 고객을 검색합니다.
 
-3.  문제가 있는 서비스에서 **서비스 요청 만들기 또는 보기**를 선택합니다. Microsoft Azure Portal 또는 Office 365 관리 센터로 리디렉션됩니다.
+3.  **새 요청** 드롭다운 메뉴에서 **Azure** 또는 **Office 365, Dynamics 365, Enterprise Mobility Suite**를 선택합니다. Microsoft Azure Portal 또는 Office 365 관리 센터로 리디렉션됩니다.
 
 **Microsoft Azure**
 
@@ -43,7 +43,7 @@ ms.lasthandoff: 02/01/2018
 
 **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...**를 선택해야 할 수도 있습니다.    
+1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...** 를 선택해야 할 수도 있습니다.    
 2. 서비스 요청 양식을 작성하고 **제출**을 선택합니다.
     **참고** 고객의 연락처 정보가 아니라 귀하의 연락처 정보를 포함해야 합니다.
 3. 나중에 Office 365 관리 센터로 이동한 후 **모든 지원 티켓 보기**를 선택하여 고객의 서비스 요청을 검토합니다.

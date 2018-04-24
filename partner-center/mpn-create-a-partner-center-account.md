@@ -1,12 +1,12 @@
 ---
-title: "파트너 센터 계정 만들기 | 파트너 센터"
-description: "Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다."
+title: 파트너 센터 계정 만들기 | 파트너 센터
+description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 11/28/2017
 
 이 문서는 파트너 센터 계정을 만드는 방법을 설명하며 Partner Membership Center에서 파트너 센터로 파트너 네트워크 멤버십 정보를 이동하는 파트너를 대상으로 합니다. 
 
-파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 회원이어야 합니다. 네트워크 회원이 아닌 경우 [지금 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)할 수 있습니다. Microsoft 파트너 네트워크의 멤버십에 대한 [자세한 내용](https://partner.microsoft.com/membership)을 알아보세요.  
+파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 회원이어야 합니다. 네트워크 회원이 아닌 경우 [지금 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)할 수 있습니다.  Microsoft 파트너 네트워크의 멤버십에 대한 [자세한 내용](https://partner.microsoft.com/membership)을 알아보세요.  
 
 파트너 센터 계정을 만들면 다음을 수행할 수 있습니다.
 
@@ -64,9 +64,9 @@ ms.lasthandoff: 11/28/2017
 
 5.  귀하가 관리자 에이전트 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리자 에이전트 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
-    a. **대시보드** 메뉴에서 **계정 설정 > 사용자 관리**를 선택하고 사용자 목록에서 귀하의 이름을 선택합니다. 
+    a. **대시보드**에서 **설정** 아이콘을 선택한 다음 **사용자 관리**를 선택합니다.  
 
-    b. 관리자 에이전트가 선택되지 않았으면 **관리자 에이전트**를 선택하고 **업데이트**를 선택합니다. 
+    b. 사용자 목록에서 이름을 선택한 다음 관리자 에이전트가 선택되지 않았으면 **관리자 에이전트**를 선택합니다. **업데이트**를 선택합니다.  
 
 ## <a name="next-steps"></a>다음 단계
 

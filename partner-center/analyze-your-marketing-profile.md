@@ -1,13 +1,13 @@
 ---
-title: "비즈니스 프로필의 효과 분석 | 파트너 센터"
-description: "파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요."
+title: 비즈니스 프로필의 효과 분석 | 파트너 센터
+description: 파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요.
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 508d1ec16a1b58a9bf98dd5bfba013d2d3e04c57
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>비즈니스 프로필의 효과 분석
 <!-- 
@@ -24,7 +24,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 [이러한 추천에 응답하기 시작하면](responding-to-referrals.md) 이러한 RFI가 얼만큼 비즈니스 거래 성사로 이어졌는지에 대한 데이터를 받기 시작합니다.
 
-더 많은 잠재 고객 및 관련 잠재 고객을 생성하기 위해 비즈니스 프로필을 조정할 때 이러한 보고서를 사용하세요. 데이터는 프로필 실적을 보여주고 추세를 분석하고 조치가 필요한 영역을 식별합니다. 파트너 센터 대시보드에서 **추천 > 마케팅 페이지**로 이동합니다.
+더 많은 잠재 고객 및 관련 잠재 고객을 생성하기 위해 비즈니스 프로필을 조정할 때 이러한 보고서를 사용하세요. 데이터는 프로필 실적을 보여주고 추세를 분석하고 조치가 필요한 영역을 식별합니다. 파트너 대시보드에서 **추천 > 마케팅 페이지**로 이동합니다.
 
 이 보고서에는 모든 지역에 대한 비즈니스 프로필의 실적이 표시됩니다. 보고서는 지난 90일 동안의 데이터를 주 단위로 묶어 표시합니다.
 

@@ -3,11 +3,11 @@ title: 특수 산업을 대상으로 판매 | 파트너 센터
 Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: ba11aba6b0d687a8e8fd9680595004769a75ad01
+ms.sourcegitcommit: 83e71b6146e66689cc833090836cf9f4e47341ab
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/04/2018
 ---
 # <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 
@@ -20,9 +20,9 @@ Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 
 |**특별 가격**   |**재판매인 필수 자격**   |**고객 필수 자격**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |교육   |[공인 교육 판매자](https://www.mepn.com/MEPN/AEPHome.aspx)여야 함   | [적격 Education 사용자](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)여야 함   |
-|정부   |[Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 사용하여 등록해야 함|   없음|
+|정부   |모든 Azure를 판매하려면 [Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 사용하여 동록을 합니다. 정부에 대한 라이선스 기반 구독을 판매하는 데는 자격이 필요하지 않습니다.|   없음|
 |비영리  |없음   |자격을 갖추기 위해 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register)을 통해 등록   |
-
+[비영리 특별 혜택](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)에 대한 자세한 정보
 
 **재판매인 자격 확인**
 

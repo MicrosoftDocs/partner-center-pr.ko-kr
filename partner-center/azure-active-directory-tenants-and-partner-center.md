@@ -1,16 +1,16 @@
 ---
-title: "회사 계정 및 파트너 센터 | 파트너 센터"
-description: "파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다."
+title: 회사 계정 및 파트너 센터 | 파트너 센터
+description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다.
 author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
-robots: 
-ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 347a884c1ea752b892c64d2c1bf9bb40629f8f6e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="your-company-work-account-and-partner-center"></a>조직의 회사 계정 및 파트너 센터  
+# <a name="your-company-work-account-and-the-partner-dashboard"></a>조직의 회사 계정 및 파트너 대시보드  
 
 **적용 대상**
 
@@ -18,18 +18,18 @@ ms.lasthandoff: 12/21/2017
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
-계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용하여 파트너 센터에 로그인할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결해야 합니다.
+계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용하여 파트너 대시보드에 로그인할 수 있도록 조직의 회사 계정을 새 파트너 대시보드에 연결해야 합니다.
 
-회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
+조직에 이미 회사 계정이 있는 경우 이를 파트너 대시보드 계정에 연결할 수 있습니다. 
 
->**참고** 기존 회사 계정을 사용하기로 결정하기 전에 계정의 사용자 중 파트너 센터에서 작업해야 하는 인원이 몇 명인지 생각해 보세요. 파트너 센터에서 작업할 필요가 없는 사용자가 계정에 포함된 경우 파트너 센터에서 작업해야 하는 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
+>**참고** 기존 회사 계정을 사용하기로 결정하기 전에 계정의 사용자 중 파트너 대시보드에서 작업해야 하는 인원이 몇 명인지 생각해 보세요. 파트너 대시보드에서 작업할 필요가 없는 사용자가 계정에 포함된 경우 파트너 대시보드에서 작업해야 하는 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
 
 회사에 아직 회사 계정이 없는 경우 등록 과정에서 테넌트를 만들 수 있습니다. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>회사에 회사 계정이 있는지 확실하지 않은가요?
 
 회사에 회사 계정이 있는지 확실하지 않은 경우, 다음 단계에 따라 확인할 수 있습니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 회사는 이미 회사 계정을 갖고 있습니다.
-1.  https://ms.portal.azure.com에서 Azure 관리 포털에 로그인합니다.
+1.  https://ms.portal.azure.com에서 Azure 포털에 로그인합니다.
 2.  메뉴에서 Azure Active Directory를 선택한 다음 도메인 이름을 선택합니다.
 3.  이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
 

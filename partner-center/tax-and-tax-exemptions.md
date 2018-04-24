@@ -1,13 +1,13 @@
 ---
-title: "세금 및 면세 | 파트너 센터"
-description: "클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다."
+title: 세금 및 면세 | 파트너 센터
+description: 클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="tax-and-tax-exemptions"></a>세금 및 면세
 
@@ -23,7 +23,7 @@ ms.lasthandoff: 11/10/2017
 
 1.  대시보드 메뉴 &gt; **계정 설정** &gt; **조직 프로필**에서 **Microsoft ID**를 조회합니다.
 2.  대시보드 메뉴 &gt; **계정 설정** &gt; **파트너 프로필**에서 **MPN ID**를 조회합니다.
-3.  새 지원 티켓을 만듭니다. 대시보드 메뉴에서 **지원 티켓** &gt; **파트너 센터 티켓** &gt; **새 티켓**을 선택합니다.
+3.  새 지원 티켓을 만듭니다. 대시보드 메뉴에서 **서비스 요청** &gt; **파트너 센터 요청** &gt; **새 요청**을 선택합니다.
 4.  양식을 작성합니다. **문제 유형**에서 **내 프로필을 관리할 수 없음**을 선택합니다. 설명에 MPN ID와 Microsoft ID를 포함합니다.
 5.  티켓을 제출하면 Microsoft에서 전자 메일을 보내 자세한 정보를 요청할 것입니다. 회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.
 

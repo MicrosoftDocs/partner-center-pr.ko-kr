@@ -3,11 +3,11 @@ title: '교육 고객에게 Minecraft: Education Edition 구독 판매'
 description: '교육 고객에게 Minecraft: Education Edition 구독 판매'
 author: KPacquer
 keywords: 공인 교육 파트너
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>교육 고객에게 Minecraft: Education Edition 구독 판매
 
@@ -36,7 +36,7 @@ Microsoft는 교육, 비영리, 정부용 또는 대규모 고객 집합용 등 
 
 **재판매인 자격 확인**
 
-1.  **대시보드** 메뉴에서 **계정 설정**을 선택합니다.
+1.  **대시보드** 오른쪽 위에서 **설정**을 선택한 다음 **모든 설정 보기**를 선택합니다.
 2.  **파트너 프로필**의 **CSP 프로그램 정보** 섹션에서 **재판매인 자격**을 찾습니다.
 3.  **재판매인 자격**이 표시되지 않으면 아직 특별 제품을 구매할 수 있는 권한을 부여받지 않은 것입니다.
 

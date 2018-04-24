@@ -1,14 +1,14 @@
 ---
-title: "고객 활동 로그 보기 | 파트너 센터"
-description: "활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다."
+title: 고객 활동 로그 보기 | 파트너 센터
+description: 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 12/21/2017
 
     기록된 작업에 대한 세부 정보를 보려면 활동 로그에 대한 아래쪽 화살표를 선택합니다. 단일 활동 로그에는 여러 제품의 순서 지정과 같은 상당한 양의 데이터가 표시될 수 있습니다.
 
-3.  **로그 내보내기**를 선택합니다. 파트너 센터는 고객의 구독 데이터를 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 데이터 열은 다음과 같습니다.
+3.  **로그 내보내기**를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다. 데이터 열에는 다음과 같은 내용이 포함됩니다.
     -   **영향을 받은 고객** - 고객의 회사 이름
     -   **작업** - 구독의 제품 이름
     -   **파트너 사용자** - 활동과 연관된 파트너

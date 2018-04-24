@@ -1,12 +1,12 @@
 ---
-title: "Microsoft 파트너 네트워크 혜택 관리 | 파트너 센터"
-description: "귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 받을 자격이 있습니다. 파트너 센터에서 멤버십 혜택을 활성화하고 관리하는 방법을 설명합니다."
+title: Microsoft 파트너 네트워크 혜택 관리 | 파트너 센터
+description: 귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 받을 자격이 있습니다. 파트너 센터에서 멤버십 혜택을 활성화하고 관리하는 방법을 설명합니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -23,11 +23,11 @@ Microsoft 파트너 네트워크에서 멤버십에 가입하거나 갱신한 �
 
 ## <a name="manage-your-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
-혜택 패키지 구입 후 라이선스, 구독 및 기타 혜택을 직원에게 할당하여 사용을 시작하세요. 
+혜택 패키지 구입 후 라이선스, 구독 및 기타 혜택을 직원에게 할당하여 사용을 시작해야 합니다. 
 
 혜택 패키지에는 내부 사용 권한 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. 
 
-받은 모든 멤버십 혜택을 보고 관리하려면 **대시보드** 메뉴로 이동한 다음 **파트너십 > 혜택**을 선택하세요. **혜택** 페이지가 열립니다. 
+멤버십 혜택을 보고 관리하려면 **대시보드** 메뉴에서 **혜택**을 선택합니다. **혜택** 페이지가 열립니다. 
 
 #### <a name="manage-software-benefits"></a>소프트웨어 혜택 관리
 

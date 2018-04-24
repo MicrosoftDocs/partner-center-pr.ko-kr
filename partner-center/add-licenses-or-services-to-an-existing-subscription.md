@@ -1,14 +1,14 @@
 ---
-title: "기존 구독에 라이선스 또는 서비스 추가 | 파트너 센터"
-description: "고객이 현재 구독에서 제공하는 것보다 많은 사용자 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다."
+title: 기존 구독에 라이선스 또는 서비스 추가 | 파트너 센터
+description: 고객이 현재 구독에서 제공하는 것보다 많은 사용자 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-keywords: "기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입"
-ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
+ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
 
@@ -88,7 +88,7 @@ ms.lasthandoff: 12/08/2017
 1.  구독을 업그레이드할 자격이 있는지 확인하려면 고객을 선택한 다음 구독 목록을 엽니다.
 2.  구독을 업그레이드할 수 있는 경우 구독 이름 바로 뒤에 정보 아이콘이 표시됩니다. 이 아이콘을 마우스로 가리킨 다음 **지금 업그레이드**를 선택합니다.
 3.  새 제품을 선택하고 **제출**을 선택합니다.
-4.  특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다. 이 경우 파트너 센터에서 영향을 받은 계정 및 서비스 목록을 제공합니다. 도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](http://go.microsoft.com/fwlink/p/?LinkId=723576)을 참조하세요.
+4.  특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다. 이 경우 파트너 대시보드에서 영향을 받은 계정 및 서비스 목록을 제공합니다. 도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](http://go.microsoft.com/fwlink/p/?LinkId=723576)을 참조하세요.
 
  
 

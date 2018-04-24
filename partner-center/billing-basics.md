@@ -3,11 +3,11 @@ title: 청구 기본 사항 | 파트너 센터
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>청구 기본 사항
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 02/28/2018
 <tr class="even">
 <td>송장 가용성</td>
 <td><ul>
-<li>파트너 센터의 청구 페이지에서 송장 및 조정 파일을 보고 다운로드할 수 있습니다. 월별 송장은 파트너 센터에서 선택한 청구 날짜 4일 이내에 제공됩니다.</li>
+<li>파트너 대시보드의 청구 페이지에서 송장 및 조정 파일을 보고 다운로드할 수 있습니다. 월별 송장은 선택한 청구 날짜로부터 4일 이내에 파트너 대시보드에서 제공됩니다.</li>
 </ul></td>
 </tr>
 <tr class="odd">

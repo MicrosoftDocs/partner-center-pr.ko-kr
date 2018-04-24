@@ -1,18 +1,18 @@
 ---
-title: "Microsoft 파트너 센터에 오신 것을 환영합니다."
-description: "Microsoft 파트너 센터"
+title: Microsoft 파트너 센터에 오신 것을 환영합니다.
+description: Microsoft 파트너 센터
 author: labrenne
-ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="welcome-to-the-microsoft-partner-center"></a>Microsoft 파트너 센터에 오신 것을 환영합니다.
+# <a name="welcome-to-your-partner-dashboard"></a>파트너 대시보드 시작
 
-Microsoft 파트너 센터 사이트에서 Microsoft의 커머셜 파트너는 비즈니스를 빌드, 관리하고, 성장시킬 수 있습니다. (이 페이지에서 논의된 모든 사항이 모든 파트너에게 적용되지는 않습니다. 일부 기능은 단계적으로 출시되고 있습니다.)
+Microsoft 파트너 대시보드에서 Microsoft의 커머셜 파트너는 비즈니스를 빌드, 관리하고, 성장시킬 수 있습니다. (이 페이지에서 논의된 모든 사항이 모든 파트너에게 적용되지는 않습니다. 일부 기능은 단계적으로 출시되고 있습니다.)
 
-## <a name="create-an-account-on-partner-center-to"></a>파트너 센터 계정을 만들면 다음을 수행할 수 있습니다.
+## <a name="create-a-partner-dashboard-account-to"></a>다음을 위해 파트너 대시보드 계정을 만듭니다.
 
 -   Microsoft 파트너십 관리
     -   Microsoft Action Pack 구입 및 기타 내부용 권한 멤버십 혜택 
@@ -35,7 +35,7 @@ Microsoft 파트너 센터 사이트에서 Microsoft의 커머셜 파트너는 �
    
 
 >**중요**<br>
-파트너 센터는 더 많은 기능을 포함하도록 지속적으로 개선되고 있습니다. [새 소식](whats-new-in-pc.md)을 알아보세요.
+파트너 대시보드는 더 많은 기능을 포함하도록 지속적으로 개선되고 있습니다. [새 소식](whats-new-in-pc.md)을 알아보세요.
 
 
 ## <a name="get-started"></a>시작
@@ -46,7 +46,7 @@ Microsoft 파트너 센터 사이트에서 Microsoft의 커머셜 파트너는 �
 |------------|:-------------|
 |[Microsoft 파트너 네트워크 가입](mpn-overview.md)|Microsoft와 협업하여 내부용 권한 소프트웨어 및 서비스, Microsoft Action Pack을 얻고 실버 및 골드 역량 획득 |
 |[클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매](csp-overview.md) | 적합한 CSP 모델, CSP를 통해 판매할 수 있는 위치, CSP를 통해 판매할 수 있는 제품 |
-|[파트너 센터 계정 설정](partner-center-account-setup.md)|계정을 만들기, 프로필 관리, 암호 관리, 제품 카탈로그 사용자 지정 |
+|[파트너 대시보드 계정 설정](partner-center-account-setup.md)|계정을 만들기, 프로필 관리, 암호 관리, 제품 카탈로그 사용자 지정 |
 |[고객 계정 설정](customer-accounts.md)|사용자 추가, 새 계정 만들기, 고객 목록 보기 |
 |[다른 파트너와 협력](work-with-other-partners.md)|귀사를 보완하는 전문 지식을 갖춘 파트너를 찾기 |
 
@@ -57,7 +57,7 @@ Microsoft 파트너 센터 사이트에서 Microsoft의 커머셜 파트너는 �
 | **여기로 이동**  |**자세히 알아보기**   |
 |------------|:-------------|
 |[Microsoft의 추천을 통해 비즈니스 성장](referrals.md)|고객에 대한 비즈니스 프로필을 만들어 추천을 받고 이에 응답|
-|[Power BI용 파트너 센터 분석 앱](power-bi-app-for-direct-partners.md)| 익숙한 Microsoft Power BI 대시보드를 사용하여 회사 실적에 대한 통찰력 확보|
+|[Power BI용 파트너 분석 앱](power-bi-app-for-direct-partners.md)| 익숙한 Microsoft Power BI 대시보드를 사용하여 회사 실적에 대한 통찰력 확보|
 |[고객의 구독 관리](customer-subscriptions.md)|신규 구독, 평가판 구독, 라이선스 할당, 프로모션 및 할인|
 |[비즈니스 프로필에 역량 추가](learn-about-competencies.md)|전문 지식 입증, 역량 옵션에 대해 알아보기|
 |[청구](billing.md)|청구 시나리오, 세금 및 VAT, Azure 지출 예산 검토 |

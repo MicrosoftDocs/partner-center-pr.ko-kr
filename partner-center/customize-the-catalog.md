@@ -1,12 +1,13 @@
 ---
-title: "카탈로그 사용자 지정 | 파트너 센터"
-description: "카탈로그에는 파트너가 판매할 수 있는 모든 Microsoft 제품과 추가 기능이 나열됩니다."
+title: 카탈로그 사용자 지정 | 파트너 센터
+description: 카탈로그에는 파트너가 판매할 수 있는 모든 Microsoft 제품과 추가 기능이 나열됩니다.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 3599d41e754e5602fbd2d82bf2c47f6e1964160a
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: a0a8cf983abdbcd08f0c7f75307ea265092182d8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="customize-the-catalog"></a>카탈로그 사용자 지정
 
@@ -20,7 +21,7 @@ ms.contentlocale: ko-KR
 
 **카탈로그 사용자 지정**
 
-1.  파트너 센터에서 대시보드 메뉴 &gt; **계정 설정** &gt; **카탈로그**로 이동합니다.
+1.  대시보드 메뉴에서 &gt; **판매** &gt; **카탈로그**로 이동합니다.
 2.  카탈로그의 맨 위에 표시할 제품을 최대 5개 선택합니다.
 
  

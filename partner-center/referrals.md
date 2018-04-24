@@ -1,13 +1,13 @@
 ---
-title: "Microsoft의 추천을 통해 비즈니스 확장 | 파트너 센터"
-description: "잠재 고객을 생성하고 Microsoft 제품 및 솔루션 구현에 도움이 필요한 고객과 관계를 구축하세요."
+title: Microsoft의 추천을 통해 비즈니스 확장 | 파트너 센터
+description: 잠재 고객을 생성하고 Microsoft 제품 및 솔루션 구현에 도움이 필요한 고객과 관계를 구축하세요.
 author: KPacquer
-keywords: "추천, 비즈니스 프로필, 파트너 찾기"
-ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+keywords: 추천, 비즈니스 프로필, 파트너 찾기
+ms.openlocfilehash: b73feb1df95e7ed7cea4c8a39d9be6d986309f84
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -21,7 +21,7 @@ ms.lasthandoff: 11/16/2017
 
 솔루션 및 전문 지식이 필요한 고객과 연결하려고 합니다. Microsoft에서 잠재 고객을 가져오기 위해 취할 수 있는 가장 중요한 단계는 [비즈니스 프로필을 만들어](create-a-marketing-profile.md) 회사의 제품, 솔루션 및 전문 지식을 소개하는 것입니다. 비즈니스 프로필은 고객 및 내부 Microsoft 영업 에이전트가 자격을 갖춘 파트너를 검색하는 모든 위치에 나열됩니다. 
 
- 비즈니스 프로필을 게시하고 나면 파트너 센터에서 추천 기능을 통해 잠재 고객을 받기 시작할 수 있습니다. 이러한 잠재 고객을 계속해서 가져오고 무엇보다도 거래를 성사시키려면 필요한 기간 내에 추천에 응답하는 것이 중요합니다. 파트너 센터에서 잠재 고객을 관리하는 방법에 대한 자세한 내용은 [추천에 응답](responding-to-referrals.md)을 참조하세요.  
+ 비즈니스 프로필을 게시하고 나면 파트너 대시보드에서 추천 기능을 통해 잠재 고객을 받기 시작할 수 있습니다. 이러한 잠재 고객을 계속해서 가져오고 무엇보다도 거래를 성사시키려면 필요한 기간 내에 추천에 응답하는 것이 중요합니다. 파트너 대시보드에서 잠재 고객을 관리하는 방법에 대한 자세한 내용은 [추천에 응답](responding-to-referrals.md)을 참조하세요.  
 
 행운을 빕니다!
 

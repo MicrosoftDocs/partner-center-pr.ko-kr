@@ -1,12 +1,12 @@
 ---
-title: "가격 책정 및 제품 | 파트너 센터"
-description: 
+title: 가격 책정 및 제품 | 파트너 센터
+description: ''
 author: labrenne
-ms.openlocfilehash: 64a7b6c3f23a2597bd04398fb553f6049e038925
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 6ab870da8008d72751956c2f2a103c638ed393f7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="pricing-and-offers"></a>가격 책정 및 제품
 
@@ -14,15 +14,15 @@ ms.lasthandoff: 11/01/2017
 
 -  파트너 센터
 
-최신 클라우드 솔루션 공급자 프로그램 가격표를 보려면 **대시보드 > 가격 책정 및 제품**으로 이동합니다. Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite와 같은 라이선스 기준 서비스와 Azure와 같은 사용량 기준 서비스에 대해 개별 가격표를 찾아볼 수 있습니다. 
+최신 클라우드 솔루션 공급자의 프로그램 가격표를 보려면 **판매 > 가격 및 제품**으로 이동합니다. Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite와 같은 라이선스 기준 서비스와 Azure와 같은 사용량 기준 서비스에 대해 개별 가격표를 찾아볼 수 있습니다. 
 
-제품 목록에는 파트너 센터를 통해 구입할 수 있는 여러 제품군이 포함됩니다. 이러한 제품군에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure가 있습니다. 목록에 항목이 추가될 예정입니다.
+제품 목록에는 파트너 대시보드를 통해 구입할 수 있는 여러 제품군이 포함됩니다. 이러한 제품군에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure가 있습니다. 목록에 항목이 추가될 예정입니다.
 
 각 제품군에는 비즈니스에 따라 판매할 수 있는 여러 SKU 및 제품 번들이 제공됩니다. 언제든지 가격 책정 및 제품 페이지에서 제공되는 클라우드 재판매인 제품표를 사용하여 이러한 각 제품에 대한 최신 정보에 액세스할 수 있습니다.
 
 ## <a name="pricelist-preview-and-change-frequency"></a>가격표 미리 보기 및 변경 빈도 
 
-라이선스 기준 서비스에는 어떠한 변경 이전에 30일 동안 제공되는 가격표 미리 보기가 포함됩니다. 가격표 미리 보기를 보려면 **대시보드 > 가격 책정 및 제품**으로 이동합니다. 사용량 기준 서비스는 동적 서비스이므로 가격표 미리 보기가 제공되지 않습니다. 다음 표에서 가격표 테이블을 읽는 방법을 설명합니다.
+라이선스 기준 서비스에는 어떠한 변경 이전에 30일 동안 제공되는 가격표 미리 보기가 포함됩니다. 가격표 미리 보기를 보려면 **판매 > 가격 및 제품**으로 이동합니다. 사용량 기준 서비스는 동적 서비스이므로 가격표 미리 보기가 제공되지 않습니다. 다음 표에서 가격표 테이블을 읽는 방법을 설명합니다.
 
 |**항목**        |**정의**      |
 |:-----------   |:-----------   |
@@ -45,8 +45,8 @@ ms.lasthandoff: 11/01/2017
 
 가격 책정 및 제품 페이지의 클라우드 재판매인 제품표에서 제공되는 다양한 SKU 및 제품 번들에 대해 읽어보세요. 제품표에는 지역에 따라 사용 가능한 제품이 포함됩니다. 항목이 가격표에 나와 있지만 아직 제품표에 나열되지 않은 경우 제품을 아직 주문할 수 없습니다. 제품을 주문할 수 있게 되면 즉시 제품표에 업데이트됩니다.
 
-파트너 센터 SDK(소프트웨어 개발 키트)를 사용하는 CSP 파트너용입니다. 또한 Microsoft는 가격 책정 및 제품 페이지에서 CSP의 Azure 서비스 목록을 게시합니다.
+파트너 대비소드 SDK(소프트웨어 개발 키트)를 사용하는 CSP 파트너용입니다. 또한 Microsoft는 가격 책정 및 제품 페이지에서 CSP의 Azure 서비스 목록을 게시합니다.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>제품표 및 가격표 관련 질문
 
-가격표 또는 제품표에 대한 질문이 있으면 파트너 센터를 통해 서비스 요청을 제출하세요.
+가격표 또는 제품표에 대한 질문이 있으면 파트너 대시보드를 통해 서비스 요청을 제출하세요.

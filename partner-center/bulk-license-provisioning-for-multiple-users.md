@@ -1,14 +1,14 @@
 ---
-title: "다수의 사용자에게 라이선스 할당 및 해지 | 파트너 센터"
-description: "고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다."
+title: 다수의 사용자에게 라이선스 할당 및 해지 | 파트너 센터
+description: 고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다.
 
-파트너 센터는 고객이 소유한 모든 라이선스 권리 유형을 추적하여 보여 줍니다.
+파트너 대시보드는 고객이 소유한 모든 라이선스 권리 유형을 추적하여 보여 줍니다.
 
 ## <a name="in-this-section"></a>이 섹션의 내용
 
@@ -55,7 +55,7 @@ ms.lasthandoff: 12/21/2017
 7.  각 제품의 확인란을 선택하여 사용자에 대한 둘 이상의 제품을 선택합니다.
     -   사용자에게 필요한 서비스 계획을 보고 선택하려면 원하는 제품에 대해 **서비스 계획 보기**를 선택합니다.
 
-8.  **저장**을 선택합니다. 파트너 센터에서 사용자 및 해당 새 라이선스가 나열된 **라이선스가 업데이트됨** 확인 페이지가 열립니다.
+8.  **저장**을 선택합니다. 파트너 대시보드에서 사용자 및 해당 새 라이선스가 나열된 **라이선스가 업데이트됨** 확인 페이지가 열립니다.
 
 **참고** 특정 지역에서는 일부 Microsoft 제품을 사용하지 못할 수 있습니다. 다른 제품은 다른 제품 또는 서비스에 종속되거나 같은 사용자에게 함께 할당될 수 없습니다. 저장한 후 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과와 라이선스 할당의 모든 오류가 나열됩니다.
 
