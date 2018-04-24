@@ -1,48 +1,42 @@
 ---
-title: "사용자 암호 다시 설정 | 파트너 센터"
-description: "사용자가 암호를 잊은 경우 새 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다."
+title: 사용자 암호 다시 설정 | 파트너 센터
+description: 사용자가 암호를 잊은 경우 새 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/08/2018
 ---
+# <a name="reset-a-user-password"></a><span data-ttu-id="e0910-104">사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="e0910-104">Reset a user password</span></span>
 
-# 사용자 암호 다시 설정
+**<span data-ttu-id="e0910-105">적용 대상</span><span class="sxs-lookup"><span data-stu-id="e0910-105">Applies to</span></span>**
 
-**적용 대상**
-
--  파트너 센터
+-  <span data-ttu-id="e0910-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="e0910-106">Partner Center</span></span>
    
->**참고** Microsoft 클라우드 독일의 CSP(클라우드 솔루션 공급자) 프로그램에 등록한 경우 사용자 암호를 다시 설정하는 방법은 [Microsoft 클라우드 독일 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md)를 참조하세요.
+><span data-ttu-id="e0910-107">**참고** Microsoft 클라우드 독일의 CSP(클라우드 솔루션 공급자) 프로그램에 등록한 경우 사용자 암호를 다시 설정하는 방법은 [Microsoft 클라우드 독일 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="e0910-107">**Note** If you're enrolled in the Cloud Solution Provider (CSP) program in Microsoft Cloud Germany, see [User management in Partner Center for Microsoft Cloud Germany](user-management-in-partner-center-for-microsoft-cloud-germany.md) for information about resetting a user's password.</span></span>
 
-사용자가 암호를 잊은 경우 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.
+<span data-ttu-id="e0910-108">사용자가 암호를 잊은 경우 임시 암호를 할당할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-108">If users forget their passwords, assign them a temporary password.</span></span> <span data-ttu-id="e0910-109">사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-109">They can use it the next time they sign in to Partner Center.</span></span>
 
-**관리자로 사용자 암호 다시 설정**
+**<span data-ttu-id="e0910-110">관리자로 사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="e0910-110">Reset a user password as an admin</span></span>**
 
-1.  파트너 센터에서 대시보드 메뉴 &gt; **계정 설정** &gt; **사용자 관리**로 이동합니다.
-2.  목록에서 사용자를 선택합니다.
+1.  <span data-ttu-id="e0910-111">**설정** &gt; **사용자 관리**로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-111">Go to **Settings** &gt; **User management**.</span></span>
+2.  <span data-ttu-id="e0910-112">목록에서 사용자를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-112">Select the user from the list.</span></span>
 
-3.  페이지 맨 아래에 있는 **암호 다시 설정**을 선택합니다.
+3.  <span data-ttu-id="e0910-113">페이지 맨 아래에 있는 **암호 다시 설정**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-113">Choose **Reset password**, at the bottom of the page.</span></span>
 
-4.  새 로그인에 대한 임시 암호가 있는 확인 화면이 표시됩니다. 이 암호를 복사하여 새 사용자에게 보내야 합니다. 화면을 종료하면 액세스할 수 없습니다. 해당 사용자가 맨 처음 로그인할 때 암호를 업데이트하라는 메시지가 표시됩니다.
+4.  <span data-ttu-id="e0910-114">새 로그인에 대한 임시 암호가 있는 확인 화면이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-114">You will see a confirmation screen with a temporary password for the new login.</span></span> <span data-ttu-id="e0910-115">이 암호를 복사하여 새 사용자에게 보내야 합니다. 화면을 종료하면 액세스할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-115">You must copy this and send it to the new user – it is not accessible after you leave the screen.</span></span> <span data-ttu-id="e0910-116">해당 사용자가 맨 처음 로그인할 때 암호를 업데이트하라는 메시지가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-116">When they first sign in, they will be prompted to update their password.</span></span>
 
-**사용자 암호 다시 설정**
+**<span data-ttu-id="e0910-117">사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="e0910-117">Reset your own password</span></span>**
 
-1.  파트너 센터에 로그인합니다. 그런 다음 화면 맨 위에 있는 사용자 이름을 선택하고 **내 프로필**을 선택합니다.
+1.  <span data-ttu-id="e0910-118">파트너 센터에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-118">Sign into Partner Center.</span></span> <span data-ttu-id="e0910-119">그런 다음 화면 맨 위에 있는 사용자 이름을 선택하고 **내 프로필**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e0910-119">Then select your name at the top of the screen and select **My profile**.</span></span>
 
-2.  고유한 역할을 확인할 수 있습니다. 암호 변경 지침을 참조하세요.
-
- 
+2.  <span data-ttu-id="e0910-120">고유한 역할을 확인할 수 있습니다. 암호 변경 지침을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="e0910-120">You can see your own roles, and see instructions for changing your password.</span></span>
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
