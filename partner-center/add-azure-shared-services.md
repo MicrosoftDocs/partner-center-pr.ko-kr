@@ -1,8 +1,8 @@
 ---
-title: "Azure Partner Shared Services 추가 | 파트너 센터"
-description: "이제 CSP 파트너는 자신이 사용할 Azure 구독을 구매할 수 있습니다."
+title: Azure Partner Shared Services 추가 | 파트너 센터
+description: 이제 CSP 파트너는 자신이 사용할 Azure 구독을 구매할 수 있습니다.
 author: labrenne
-Keywords: "Azure, 공유 서비스, 테넌트"
+Keywords: Azure, 공유 서비스, 테넌트
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
