@@ -1,12 +1,12 @@
 ---
-title: "Microsoft Cloud for US Government용 파트너 센터 | Microsoft Cloud for US Government용 파트너 센터"
-description: "Microsoft Cloud for US Government용 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다."
+title: Microsoft Cloud for US Government용 파트너 센터 | Microsoft Cloud for US Government용 파트너 센터
+description: Microsoft Cloud for US Government용 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
+ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/18/2018
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government용 파트너 센터
 
@@ -51,3 +51,5 @@ Microsoft Cloud for US Government의 CSP(클라우드 솔루션 공급자) 프�
 사용자 및 라이선스 관리에 대한 자세한 내용은 [Microsoft Cloud for US Government용 파트너 센터에서 사용자 및 라이선스 관리](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)를 참조하세요.
 
 Microsoft Cloud for US Government CSP에 등록하는 방법은 [Microsoft Cloud for US Government용 CSP에 등록](enroll-in-csp-for-microsoft-us-govt-cloud.md)을 참조하세요.
+
+FAQ는 [Microsoft Cloud for US Government를 위한 CSP 프로그램에 대한 FAQ](faq-for-us-govt-cloud.md)를 참조하세요.

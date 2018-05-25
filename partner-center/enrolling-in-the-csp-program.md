@@ -2,11 +2,11 @@
 title: 클라우드 솔루션 공급자 프로그램에 등록 | 파트너 센터
 description: CSP에서 판매하기 위한 다양한 모델을 파악하고 비즈니스에 가장 잘 맞는 모델 결정
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -29,6 +29,7 @@ CSP 응용 프로그램에서 항목을 입력할 때 MPN ID가 필요하며, �
 
 ### <a name="enroll-as-an-indirect-reseller"></a>간접 재판매인으로 등록
 
+
 1. 간접 재판매인으로 등록했으면 함께 작업할 [간접 공급자를 찾아야](https://partnercenter.microsoft.com/partner/find-a-provider) 합니다. 협력 공급자는 고객과 귀하를 연결하며, 판매할 수 있는 소프트웨어 구매를 관리하고, 고객 청구 및 지원을 처리하여 재판매인 비즈니스 구축에 집중할 수 있도록 돕습니다.
 
 2. 귀하의 전역 관리자가 파트너 대시보드에서 계정을 설정해야 합니다. 전역 관리자는 파트너 대시에 작업할 조직의 직원을 추가하고 담당할 업무에 따라 이들에게 역할과 권한을 할당하고 조직 프로필을 설정할 수 있습니다.
@@ -39,7 +40,7 @@ CSP 응용 프로그램에서 항목을 입력할 때 MPN ID가 필요하며, �
 
 ### <a name="enroll-as-a-direct-partner"></a>직접 파트너로 등록
 
->**참고**<br> 직접 파트너 등록 요구 사항을 업데이트하고 있으며 현재 새로운 신청을 허용하지 않고 있습니다. CY18 Q2부터 신청 절차를 다시 재개할 예정입니다. 간접 재판매인으로 등록하는 것을 고려해 보시기 바랍니다.
+>**참고**<br> 직접 파트너 등록 요구 사항을 업데이트하고 있으며 현재 새로운 신청을 허용하지 않고 있습니다. 8월 31일부터 응용 프로그램 프로세스가 재개될 예정입니다. 간접 재판매인으로 등록하는 것을 고려해 보시기 바랍니다. 
 
 직접 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다.
 

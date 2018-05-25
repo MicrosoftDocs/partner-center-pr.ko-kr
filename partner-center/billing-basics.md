@@ -3,11 +3,11 @@ title: 청구 기본 사항 | 파트너 센터
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>청구 기본 사항
 
@@ -144,3 +144,32 @@ Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>일회성 청구
+
+클라우드 솔루션 공급자(CSP) 프로그램의 파트너는 이제 Microsoft Azure 가상 컴퓨터에서 고객에게 예약한 인스턴스를 제공할 수 있습니다. 고객은 1년 또는 3년의 기간 동안 미리 가상 컴퓨터를 예약하여 Azure 사용량을 상당 부분 절약할 수 있습니다.   
+
+고객은 Azure Reserved VM Instances에 대한 비용을 미리 지불합니다. 고객을 대신하여 Azure Reserved VM Instances를 구입하면 이러한 일회성 요금에 대한 송장 및 조정 파일을 받게 됩니다. 
+
+>[!IMPORTANT]
+>다른 통화를 사용하는 시장의 고객을 위해 Azure Reserved VM Instances를 구입한 경우에는 여러분의 위치가 아니라 고객의 시장을 기준으로 기본 청구 통화가 결정됩니다. 여러 시장의 고객을 확보하고 있는 경우에는 해당 통화로 고객에게 청구를 할 수 있도록 비용이 청구되는 각 통화에 대해 별도의 송장과 조정 파일을 받게 됩니다. 
+
+일회성 요금 송장 및 조정 파일에 액세스하려면 파트너 대시보드에서 **청구**를 선택한 다음 **일회성**을 선택합니다. 
+
+### <a name="manage-your-one-time-billing"></a>일회성 청구 관리
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>현재 청구 상태, 송장 및 조정 파일 보기
+
+1.  파트너 대시보드에서 **청구**와 **일회성**을 차례로 선택하여 청구 상태를 확인합니다. 
+2.  자세한 정보를 보려면 송장 또는 조정 파일을 선택합니다. 
+
+#### <a name="view-a-customers-order-history"></a>고객의 주문 내역 보기
+
+1.  대시보드 메뉴에서 **고객**을 선택합니다.
+2.  **고객** 페이지에서 주문 내역을 확인하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 기록을 펼쳐봅니다. 
+3.  **주문 보기**를 선택하여 주문 내역을 표시합니다.
+
+#### <a name="create-a-credit-or-void-note"></a>크레딧 또는 빈 어음 만들기
+
+송장을 취소한 다음 새 송장을 발행해야 하는 상황이 발생할 수 있습니다. 예를 들어, 고객이 기업 이름을 변경했는데 기존 이름으로 송장을 수신하는 경우입니다. 
+
+송장을 취소하고 새 송장을 발급 받으려면 조정 아래 청구 페이지에서 양식을 다운로드합니다.

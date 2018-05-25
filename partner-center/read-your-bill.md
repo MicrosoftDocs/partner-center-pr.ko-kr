@@ -1,14 +1,14 @@
 ---
-title: "청구서 읽기 | 파트너 센터"
-description: "송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다."
+title: 청구서 읽기 | 파트너 센터
+description: 송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -97,29 +97,44 @@ ms.lasthandoff: 11/10/2017
 <td>송장 날짜</td>
 <td>송장을 받는 날짜입니다.</td>
 </tr>
+
 <tr class="odd">
+<td>지급 조건</td>
+<td>일회성 구매에 대해서는 항상 60일 이내입니다.</td>
+</tr>
+
+
+<tr class="even">
 <td>결제 기한</td>
 <td>이 날짜에 결제 금액이 들어와야 합니다.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>고객 PO</td>
 <td>구매 주문 번호입니다.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>고객 서비스</td>
 <td>고객 서비스에 액세스하기 위한 웹 사이트 주소입니다.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>서비스 수령인</td>
 <td>서비스가 사용되는 주소입니다. (회사 자격 심사와 연결된 법적 회사 주소이며 변경할 수 없습니다.)</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>일회성 요금의 항목별 목록
 
- 
-
+|**필드** |**정의**|
+|:----------------|:-----------------------------|
+|날짜 |구매 날짜입니다. |
+|설명 |제품 이름입니다. |
+|수량 |구입한 제품(예: 예약)의 수입니다. |
+|단가 |각 제품(예: 예약)의 가격입니다. |
+|할인 |적용 가능한 모든 할인 혜택입니다. |
+|세전 금액 |세금 부과 전 구입액의 소계입니다. |
+|판매세 |세금 액수입니다. |
+|총액 |지불해야 할 총액입니다. |
  
 
 
