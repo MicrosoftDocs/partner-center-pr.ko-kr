@@ -4,6 +4,7 @@
 ## [Microsoft Action Pack 구입](mpn-get-action-pack.md)
 ## [실버 또는 골드 멤버십 획득](learn-about-competencies.md)
 ## [멤버십 혜택 받기](manage-your-partner-network-benefits.md)
+## [MPN 혜택 갱신](renew-mpn-offers.md)
 
 
 # [클라우드 솔루션 공급자](csp-overview.md)
