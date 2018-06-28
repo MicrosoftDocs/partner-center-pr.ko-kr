@@ -3,11 +3,12 @@ title: Microsoft Azure VM 예약 개요 | 파트너 센터
 Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
 author: v-petand
 keywords: azure, 예약, vm, 관리, 청구, 구입, Azure RI, Azure Reserved VM Instances
-ms.openlocfilehash: 9fac5749fda6106772d8fed28a320432206d528c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
+ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/05/2018
+ms.locfileid: "1978570"
 ---
 # <a name="sell-microsoft-azure-reserved-vm-instances"></a>Microsoft Azure Reserved VM Instances 판매 
 
@@ -25,6 +26,15 @@ ms.lasthandoff: 05/11/2018
 -   조직 또는 개인 부서 수준에서 예약된 인스턴스 사용량 관리 
 
 Azure Reserved VM Instances에 대한 자세한 내용은 Microsoft Azure 웹 사이트의 [Azure Reserved VM Instances 제품군](https://azure.microsoft.com/pricing/reserved-vm-instances/)과 [시너지 효과: Azure Reserved VM Instances 및 서버 가입](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/)을 참조하세요.
+
+> [!NOTE]  
+> Azure Reserved VM Instances는 다음과 같은 지역/국가에서는 사용할 수 없습니다.  
+> * 브라질  
+> * 중국  
+> * 인도  
+> * 러시아  
+> * 대한민국  
+> * 대만  
 
 Azure Reserved VM Instances의 가용성은 다음과 같은 방법으로 고객의 관심을 끌 것입니다.
 

@@ -3,18 +3,19 @@ title: 새 청구 기능에 대한 FAQ | 파트너 센터
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936232"
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 다음은 파트너 센터의 연간 청구 및 무료 평가판에 대한 자주 묻는 질문입니다. 
@@ -661,6 +662,6 @@ ms.lasthandoff: 03/15/2018
 
 |**청구 시작**   |**청구 종료**   |**단가**   |**수량**   |**금액**   |**청구 유형** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|2018/6/1   | 2018/6/30   |$30   |1   |$30  |구매 시 비례 배분 방식 요금 |
+|2018/5/29   | 2018/6/30   |$30   |1   |$30  |구매 시 비례 배분 방식 요금 |
 
 구독은 2019년 6월 1일에 자동 갱신됩니다.
