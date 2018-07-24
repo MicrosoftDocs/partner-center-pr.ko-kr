@@ -1,52 +1,52 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
-description: Microsoft 파트너 네트워크 가입의 혜택에 대해 알아보세요.
+description: Microsoft 파트너의 혜택에 대해 알아보세요.
 author: MaggiePucciEvans
-keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십
-ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
+ms.openlocfilehash: 23ae139d9f03b74c71f1c64cc298a0600a65f4da
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207223"
 ---
-# <a name="partner-with-microsoft"></a><span data-ttu-id="df014-104">Microsoft와 파트너 되기</span><span class="sxs-lookup"><span data-stu-id="df014-104">Partner with Microsoft</span></span>
+# <a name="partner-with-microsoft"></a><span data-ttu-id="7d440-104">Microsoft와 파트너 되기</span><span class="sxs-lookup"><span data-stu-id="7d440-104">Partner with Microsoft</span></span>
 
-## <a name="join-the-microsoft-partner-network"></a><span data-ttu-id="df014-105">Microsoft 파트너 네트워크 가입</span><span class="sxs-lookup"><span data-stu-id="df014-105">Join the Microsoft Partner Network</span></span>
+<span data-ttu-id="7d440-105">Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-105">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span> 
 
-<span data-ttu-id="df014-106">Microsoft 파트너 네트워크는 세 가지 유형의 멤버십을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="df014-106">The Microsoft Partner Network provides three types of membership.</span></span> <span data-ttu-id="df014-107">각 유형은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="df014-107">Each type provides a set of benefits to help your business grow.</span></span> <span data-ttu-id="df014-108">목표를 달성함에 따라 귀사의 고유한 비즈니스 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.</span><span class="sxs-lookup"><span data-stu-id="df014-108">As you achieve your goals, participate in the program at the level that suits your unique business needs to access more benefits and develop your relationship with us and other partners in the network.</span></span>
+<span data-ttu-id="7d440-106">Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하는 이유](https://partner.microsoft.com/business-opportunities/why-microsoft)를 참조하십시오.</span><span class="sxs-lookup"><span data-stu-id="7d440-106">See [Why Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) for more information about the benefits of partnering with Microsoft.</span></span> 
 
--   <span data-ttu-id="df014-109">**네트워크 회원** 이 무료의 기본 수준에 가입하면 시간과 비용을 절약할 수 있는 일련의 [핵심 내부용 권한 혜택](https://partner.microsoft.com/membership/core-benefits)이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-109">**Network member** When you join at this no-cost, basic level, you receive a set of [core internal-use rights benefits](https://partner.microsoft.com/membership/core-benefits) that can help you save time and money while you strengthen your capabilities, better serve customers, and build connections to reach your full business potential.</span></span>
 
-    -   [<span data-ttu-id="df014-110">Microsoft 파트너 네트워크에 대한 자세한 정보</span><span class="sxs-lookup"><span data-stu-id="df014-110">Learn more about the Microsoft Partner Network</span></span>](https://partner.microsoft.com/membership/how-it-works)
+## <a name="the-microsoft-partner-program-works-for-you"></a><span data-ttu-id="7d440-107">귀사를 위한 Microsoft 파트너 프로그램</span><span class="sxs-lookup"><span data-stu-id="7d440-107">The Microsoft partner program works for you</span></span>
 
-    -   [<span data-ttu-id="df014-111">지금 Microsoft 파트너 네트워크에 가입</span><span class="sxs-lookup"><span data-stu-id="df014-111">Join the Microsoft Partner Network now</span></span>](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+<span data-ttu-id="7d440-108">Microsoft 파트너 네트워크는 세 가지 수준의 멤버십을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-108">The Microsoft Partner Network provides three levels of membership.</span></span> <span data-ttu-id="7d440-109">각 수준은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-109">Each level provides a set of benefits to help your business grow.</span></span> <span data-ttu-id="7d440-110">목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-110">As you achieve your goals, participate in the program at the level that suits your unique needs to access more benefits and develop your relationship with us and other partners in the network.</span></span> 
 
--   <span data-ttu-id="df014-112">**Action Pack** 경제적인 연간 구독인 Action Pack을 구매하면 개발자 도구, 지원, 교육 및 소프트웨어를 포함한 추가 네트워크 혜택을 이용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-112">**Action Pack** Purchase Action Pack, an affordable yearly subscription, for additional network benefits, including access to developer tools, support, training, and software.</span></span> <span data-ttu-id="df014-113">이 수준에서는 전문 지식을 향상시키고 새로운 기술을 개발할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-113">At this level you can enhance your expertise and develop new skills.</span></span>
+<span data-ttu-id="7d440-111">파트너 네트워크에 대한 자세한 내용은 [파트너 네트워크 사이트](https://partner.microsoft.com)의 [멤버십 개요](https://partner.microsoft.com/membership)를 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-111">For more information about the partner network, review the [membership overview](https://partner.microsoft.com/membership) on the [partner network site](https://partner.microsoft.com).</span></span> 
 
-    -   [<span data-ttu-id="df014-114">Microsoft Action Pack에 대한 자세한 정보</span><span class="sxs-lookup"><span data-stu-id="df014-114">Learn more about the Microsoft Action Pack</span></span>](https://partner.microsoft.com/membership/action-pack)
+<span data-ttu-id="7d440-112"> [파트너 네트워크 사이트](https://partner.microsoft.com)에서 멤버십 수준 및 [내부 사용 권한 소프트웨어 혜택](https://partner.microsoft.com/membership/internal-use-software)에 대해 읽어 보세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-112">Read about membership levels and [internal-use rights software benefits](https://partner.microsoft.com/membership/internal-use-software) on the [partner network site](https://partner.microsoft.com).</span></span> 
 
-    -   [<span data-ttu-id="df014-115">지금 Action Pack 구독</span><span class="sxs-lookup"><span data-stu-id="df014-115">Subscribe to the Action Pack now</span></span>](mpn-get-action-pack.md)
+### <a name="level-1---get-started-with-the-action-pack"></a><span data-ttu-id="7d440-113">수준 1 - Action Pack 시작</span><span class="sxs-lookup"><span data-stu-id="7d440-113">Level 1 - Get started with the Action Pack</span></span> 
 
--   <span data-ttu-id="df014-116">**역량** 하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요.</span><span class="sxs-lookup"><span data-stu-id="df014-116">**Competency** Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business.</span></span> <span data-ttu-id="df014-117">Microsoft 역량은 고객의 요구 사항을 충족하고 잠재 고객에게 역량을 알릴 수 있도록 준비하는 것을 돕기 위해 설계되었습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-117">Microsoft competencies are designed to prepare you to meet your customers’ needs and be recognizable to prospective customers.</span></span> <span data-ttu-id="df014-118">Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.</span><span class="sxs-lookup"><span data-stu-id="df014-118">Join the elite tier of Microsoft partners and stand out from your peers.</span></span>
+<span data-ttu-id="7d440-114">Microsoft Action Pack에 대한 연간 구독을 구입하면 클라우드 중심 세상에서 Microsoft 영업을 구축하는 데 도움이 되는 개발자 도구, 지원, 교육 및 소프트웨어에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-114">When you buy a yearly subscription to the Microsoft Action Pack, you gain access to developer tools, support, training, and software that can help you build your Microsoft practice in a cloud-first world.</span></span> <span data-ttu-id="7d440-115">이 멤버십 수준에서는 전문 지식을 향상시키고 새로운 기술을 개발할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-115">At this level of membership, you can enhance your expertise and develop new skills.</span></span>
 
-    -   <span data-ttu-id="df014-119">실버 역량을 획득하면 일관된 역량, 전문 지식 및 노력을 입증할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-119">Earn Silver competencies to demonstrate your consistent capability, expertise, and commitment</span></span>
+<span data-ttu-id="7d440-116">처음 구입하거나 이 회원 혜택을 갱신하는 방법에 대한 자세한 내용은 [Action Pack 얻기](mpn-get-action-pack.md)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-116">See [Get the Action Pack](mpn-get-action-pack.md) for more information about how to buy for the first time or renew this membership benefit.</span></span>  
 
-    -   <span data-ttu-id="df014-120">골드 역량을 획득하면 특정 Microsoft 솔루션 영역 내에서 동급 최고의 역량을 입증할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-120">Earn Gold competencies to demonstrate your best-in-class capability within a specific Microsoft solution area</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="7d440-117">현재 시점과 연말 시점 사이에 Action Pack 구독 관리를 Partner Membership Center(PMC)에서 파트너 대시보드로 옮길 예정입니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-117">Between now and the end of the calendar year, we are moving Action Pack subscription management from Partner Membership Center (PMC) to the partner dashboard.</span></span> <span data-ttu-id="7d440-118">Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 [Action Pack 얻기](mpn-get-action-pack.md)에 나온 정보를 주의 깊게 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-118">Renewing your Action Pack subscription may vary between now and then, so please review the information in [Get the Action Pack](mpn-get-action-pack.md) carefully.</span></span>  
 
-    [<span data-ttu-id="df014-121">실버 및 골드 역량 획득에 대해 자세히 알아보기</span><span class="sxs-lookup"><span data-stu-id="df014-121">Learn more about earning Silver and Gold competencies</span></span>](https://partner.microsoft.com/membership/competencies)
 
-   
-## <a name="get-started-with-the-partner-dashboard"></a><span data-ttu-id="df014-122">파트너 대시보드 시작</span><span class="sxs-lookup"><span data-stu-id="df014-122">Get started with the Partner Dashboard</span></span>
+### <a name="level-2---take-the-next-step"></a><span data-ttu-id="7d440-119">수준 2 - 한 단계 높이기</span><span class="sxs-lookup"><span data-stu-id="7d440-119">Level 2 - Take the next step</span></span>
 
-<span data-ttu-id="df014-123">Microsoft와 파트너십을 맺고 시간과 비용을 절약하기 위해 현재 여러 웹 사이트 및 도구에 분산된 여러 기능과 워크플로를 이 파트너 대시보드에 이동하기 위해 보이지 않는 곳에서 노력하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-123">To make it easier to partner with Microsoft and to help save you time and money, we're working behind the scenes to move capabilities, features, and workflows that are currently spread across several websites and tools to the Partner Dashboard, this site.</span></span> 
+<span data-ttu-id="7d440-120">**실버 역량**를 획득하여 전문 지식, 기술 및 전략적 사고를 소개하세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-120">Earn **Silver competencies** to showcase your specialized expertise, skills, and strategic thinking.</span></span> 
+    
+<span data-ttu-id="7d440-121">하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-121">Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business.</span></span> <span data-ttu-id="7d440-122">Microsoft 역량은 고객의 요구 사항을 충족하고 잠재 고객에게 역량을 알릴 수 있도록 준비하는 것을 돕기 위해 설계되었습니다.</span><span class="sxs-lookup"><span data-stu-id="7d440-122">Microsoft competencies are designed to prepare you to meet your customers’ needs and be recognizable to prospective customers.</span></span> 
 
-<span data-ttu-id="df014-124">파트너 대시보드로 이동한 특정 기능들의 경우 이 기능들을 사용하는 기존 사이트들의 사용을 중단하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-124">As we move specific capabilities to the Partner Dashboard, we're retiring the legacy sites that used to house them.</span></span> <span data-ttu-id="df014-125">이러한 기능을 계속해서 활용하려면 이 파트너 대시보드 사이트에서 계정을 만들어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df014-125">To continue to take advantage of these features, you'll need to create an account on this site, the Partner Dashboard.</span></span> 
+[<span data-ttu-id="7d440-123">실버 역량 획득에 대해 자세히 알아보기</span><span class="sxs-lookup"><span data-stu-id="7d440-123">Learn more about earning Silver competencies</span></span>](https://partner.microsoft.com/membership/competencies)
 
-<span data-ttu-id="df014-126">예를 들어 Pinpoint에서 추천을 받고 관리했던 경우 해당 사이트는 중단되었으며 모든 추천 관련 기능은 이제 파트너 대시보드에서 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df014-126">For example, if you used to get and manage referrals in Pinpoint, that site has been retired and all referral-related capabilities are now on the Partner Dashboard.</span></span> <span data-ttu-id="df014-127">파트너 대시보드에서 시작하려면 다음 단계를 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="df014-127">Take the following steps to get started on the Partner Dashboard:</span></span>   
 
--   [<span data-ttu-id="df014-128">다음을 위해 파트너 대시보드 계정을 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="df014-128">Create a Partner Dashboard account</span></span>](mpn-create-a-partner-center-account.md)
+### <a name="level-3---join-the-elite-tier"></a><span data-ttu-id="7d440-124">수준 3 - 엘리트 계층에 참여하기</span><span class="sxs-lookup"><span data-stu-id="7d440-124">Level 3 - Join the elite tier</span></span>
 
--   [<span data-ttu-id="df014-129">비즈니스 프로필을 만들어 고객 추천 받기</span><span class="sxs-lookup"><span data-stu-id="df014-129">Create a business profile to get customer referrals</span></span>](create-a-marketing-profile.md)
+<span data-ttu-id="7d440-125">**골드 역량**을 획득하여 고객 요구사항을 충족할 수 있는 가장 높은 수준의 특별한 기능을 보여 주세요.</span><span class="sxs-lookup"><span data-stu-id="7d440-125">Earn **Gold competencies** to demonstrate the highest, most specialized capability to meet customer needs.</span></span> 
 
--   [<span data-ttu-id="df014-130">Microsoft 파트너 네트워크 멤버십 혜택 관리</span><span class="sxs-lookup"><span data-stu-id="df014-130">Manage your Microsoft Partner Network membership benefits</span></span>](manage-your-partner-network-benefits.md)
+[<span data-ttu-id="7d440-126">골드 역량 획득에 대해 자세히 알아보기</span><span class="sxs-lookup"><span data-stu-id="7d440-126">Learn more about earning Gold competencies</span></span>](https://partner.microsoft.com/membership/competencies)
 

@@ -1,127 +1,119 @@
 ---
-title: Action Pack 구입 또는 갱신 | 파트너 센터
-description: Microsoft Action Pack 구독을 구입 또는 갱신하는 방법을 알아보세요.
+title: Microsoft Action Pack 구입 또는 갱신 | 파트너 센터
+description: 처음 구입하는 것이든 갱신하는 것이든 관계없이 Microsoft Action Pack을 얻는 방법에 대해 알아보세요.
 author: MaggiePucciEvans
-ms.openlocfilehash: 07a5591b154d77542a97a93ea2e99741542f2ec6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
+ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207263"
 ---
-# <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="2727d-103">Microsoft Action Pack 구독 구입 또는 갱신</span><span class="sxs-lookup"><span data-stu-id="2727d-103">Purchase or renew a Microsoft Action Pack subscription</span></span>
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="28d3f-104">Microsoft Action Pack 구독의 최초 구입 또는 갱신</span><span class="sxs-lookup"><span data-stu-id="28d3f-104">Buy for the first time or renew a Microsoft Action Pack subscription</span></span>
 
-**<span data-ttu-id="2727d-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="2727d-104">Applies to</span></span>**
+**<span data-ttu-id="28d3f-105">적용 대상</span><span class="sxs-lookup"><span data-stu-id="28d3f-105">Applies to</span></span>**
 
--  <span data-ttu-id="2727d-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="2727d-105">Partner Center</span></span>
+-  <span data-ttu-id="28d3f-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="28d3f-106">Partner Center</span></span>
+-  <span data-ttu-id="28d3f-107">Partner Membership Center</span><span class="sxs-lookup"><span data-stu-id="28d3f-107">Partner Membership Center</span></span>
 
+<span data-ttu-id="28d3f-108">Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영업을 구축하고 확장하려는 기업을 위해 준비된 소프트웨어, 지원 및 혜택을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-108">Action Pack offers software, support, and benefits for businesses that want to build and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span> <span data-ttu-id="28d3f-109">Action Pack을 구입하면 다음과 같은 강력한 소프트웨어 세트를 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-109">When you buy Action Pack, you get a robust set of software that offers:</span></span> 
 
-<span data-ttu-id="2727d-106">Action Pack은 서비스, 소프트웨어 및 지원에 대한 경제적인 연간 구독입니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-106">Action Pack is an affordable yearly subscription to services, software, and support.</span></span> <span data-ttu-id="2727d-107">Action Pack을 구독하면 다음과 같은 혜택이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-107">Subscribe to Action Pack to:</span></span>
+- <span data-ttu-id="28d3f-110">고객의 요구에 따라 자신 있게 서비스를 제공할 수 있는 전용 지원</span><span class="sxs-lookup"><span data-stu-id="28d3f-110">Dedicated support so you can confidently serve your customers’ needs</span></span> 
+- <span data-ttu-id="28d3f-111">즉시 사용 가능한 캠페인 및 지침을 제공하는 마케팅 리소스</span><span class="sxs-lookup"><span data-stu-id="28d3f-111">Marketing resources that provide ready-to-go campaigns and guidance</span></span> 
+- <span data-ttu-id="28d3f-112">포괄적인 통찰력과 비즈니스 계획 도구</span><span class="sxs-lookup"><span data-stu-id="28d3f-112">Comprehensive insights and business planning tools</span></span> 
+- <span data-ttu-id="28d3f-113">클라우드 중심 교육</span><span class="sxs-lookup"><span data-stu-id="28d3f-113">Cloud-focused training</span></span> 
 
-- <span data-ttu-id="2727d-108">세계적 수준의 개발자 도구를 사용하여 고객을 위한 응용 프로그램 및 솔루션을 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-108">Create applications and solutions for your customers using world-class developer tools.</span></span> <span data-ttu-id="2727d-109">iOS, Android, Linux 및 Windows에서 응용 프로그램 및 솔루션 만들기</span><span class="sxs-lookup"><span data-stu-id="2727d-109">Create applications and solutions on iOS, Android, Linux, and Windows</span></span> 
+<span data-ttu-id="28d3f-114">[Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) 사이트에서 Action Pack 구독에 대한 세부 정보를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-114">You can find more details about Action Pack on the [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) site.</span></span>
 
-- <span data-ttu-id="2727d-110">Windows 10 Enterprise(업그레이드) 라이선스, Visual Studio Professional 라이선스, 무료 Visual Studio Team Services 계정 제공</span><span class="sxs-lookup"><span data-stu-id="2727d-110">Get Windows 10 Enterprise (upgrade) licenses, Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account</span></span> 
+## <a name="buy-microsoft-action-pack-for-the-first-time"></a><span data-ttu-id="28d3f-115">처음으로 Microsoft Action Pack 구입</span><span class="sxs-lookup"><span data-stu-id="28d3f-115">Buy Microsoft Action Pack for the first time</span></span>
 
-- <span data-ttu-id="2727d-111">Office 365(E3) 라이선스와 Enterprise Mobility Suite 및 Microsoft Dynamics에 대한 라이선스 받기</span><span class="sxs-lookup"><span data-stu-id="2727d-111">Get Office 365 (E3) licenses, plus licenses for Enterprise Mobility Suite and Microsoft Dynamics</span></span> 
+<span data-ttu-id="28d3f-116">Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft 파트너 네트워크에 가입하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-116">If you're new to partnering with Microsoft, the first step is to join the Microsoft Partner Network.</span></span> <span data-ttu-id="28d3f-117">파트너 네트워크의 구성원이 아닌 경우 파트너 네트워크 사이트의 [멤버십 페이지](https://partner.microsoft.com/membership)로 이동하고 가입할 준비가 된 경우 **지금 등록**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-117">If you're not already a member of the partner network, go to [the membership page](https://partner.microsoft.com/membership) on the partner network site and select **Enroll now** when you're ready to sign up.</span></span> 
 
-- <span data-ttu-id="2727d-112">매달 Microsoft Azure 사용 크레딧 받기</span><span class="sxs-lookup"><span data-stu-id="2727d-112">Receive Microsoft Azure usage credits every month</span></span>
+<span data-ttu-id="28d3f-118">파트너 네트워크에 성공적으로 가입한 후 [파트너 네트워크 사이트의 지침](https://partner.microsoft.com/membership/action-pack)에 따라 첫 번째 Action Pack 구독을 구입합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-118">After you've successfully joined the partner network, follow the [instructions on the partner network site](https://partner.microsoft.com/membership/action-pack) to buy your first Action Pack subscription.</span></span> 
 
-<span data-ttu-id="2727d-113">Action Pack에 대한 정보는 Microsoft 파트너 네트워크 사이트에서 아래 페이지를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="2727d-113">For information about Action Pack, visit these pages on the Microsoft Partner Network site:</span></span> 
+## <a name="renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="28d3f-119">Microsoft Action Pack 구독 갱신</span><span class="sxs-lookup"><span data-stu-id="28d3f-119">Renew a Microsoft Action Pack subscription</span></span>
 
--   [<span data-ttu-id="2727d-114">Microsoft Action Pack은 어떤 제품입니까?</span><span class="sxs-lookup"><span data-stu-id="2727d-114">What is the Microsoft Action Pack?</span></span>](https://partner.microsoft.com/membership/action-pack)
+>[!IMPORTANT]
+><span data-ttu-id="28d3f-120">현재 시점과 연말 시점 사이에 Action Pack 구독 관리를 Partner Membership Center(PMC)에서 파트너 대시보드(이 사이트)로 옮길 예정입니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-120">Between now and the end of the calendar year, we're moving Action Pack subscription management from Partner Membership Center (PMC) to the partner dashboard - this site.</span></span> <span data-ttu-id="28d3f-121">Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 아래 정보를 주의 깊게 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="28d3f-121">Renewing your Action Pack subscription may vary between now and then, so please review the information below carefully.</span></span>  
 
--   [<span data-ttu-id="2727d-115">Action Pack에 포함된 이점</span><span class="sxs-lookup"><span data-stu-id="2727d-115">Benefits included with Action Pack</span></span>](https://partner.microsoft.com/membership/core-benefits)
+### <a name="check-your-renewal-eligibility"></a><span data-ttu-id="28d3f-122">갱신 자격 확인</span><span class="sxs-lookup"><span data-stu-id="28d3f-122">Check your renewal eligibility</span></span>
 
+1. <span data-ttu-id="28d3f-123">[Partner Membership Center(PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-123">Sign in to the [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).</span></span>
 
+2. <span data-ttu-id="28d3f-124">성공적으로 로그인하면 다음 중 하나를 수행하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-124">After you sign in successfully, you will either:</span></span>
 
-## <a name="purchase-a-microsoft-action-pack-subscription"></a><span data-ttu-id="2727d-116">Microsoft Action Pack 구독 구입</span><span class="sxs-lookup"><span data-stu-id="2727d-116">Purchase a Microsoft Action Pack subscription</span></span>
+    - <span data-ttu-id="28d3f-125">PMC에서 구독을 갱신하는 단계를 따를 수 있음</span><span class="sxs-lookup"><span data-stu-id="28d3f-125">Be able to follow the steps to renew your subscription in PMC, or</span></span>
 
-1. <span data-ttu-id="2727d-117">**대시보드** 메뉴에서 **파트너십 옵션**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-117">On the **Dashboard** menu, select **Membership offers**.</span></span> <span data-ttu-id="2727d-118">**사용 가능한 제품** 아래에 Microsoft Action Pack이 나열됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-118">Microsoft Action Pack is listed under **Available offers**.</span></span> 
+    - <span data-ttu-id="28d3f-126">파트너 대시보드(이 사이트)에서 구독을 갱신하도록 초대하는 메시지 받기</span><span class="sxs-lookup"><span data-stu-id="28d3f-126">Get a message inviting you to renew your subscription in the partner dashboard - this site</span></span>
 
-2. <span data-ttu-id="2727d-119">**지금 구독**을 선택하고 결제 방법을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-119">Select **Subscribe now** and then select your payment method.</span></span> <span data-ttu-id="2727d-120">신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-120">You can pay using a credit card or an electronic bank transfer.</span></span> 
-
-    >**<span data-ttu-id="2727d-121">중요</span><span class="sxs-lookup"><span data-stu-id="2727d-121">Important</span></span>**<br> <span data-ttu-id="2727d-122">결제를 제출하면 Microsoft가 부여한 내부 사용 권한에 대한 [사용 약관](https://go.microsoft.com/fwlink/?linkid=842232)에 동의하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-122">When you submit your payment, you are also agreeing to the [Terms and Conditions](https://go.microsoft.com/fwlink/?linkid=842232) for internal use rights granted by Microsoft.</span></span> 
-
-3. <span data-ttu-id="2727d-123">신용 카드로 결제를 하는 경우, 지침에 따라 신용 카드 정보를 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-123">If paying by credit card, follow the instructinos for adding your credit card information.</span></span> 
-
-    <span data-ttu-id="2727d-124">전자 계좌 이제로 결제를 하는 경우에는 연락처 이름, 전화 번호 및 메일 주소를 입력하고 **제출**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-124">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span>  
-4. <span data-ttu-id="2727d-125">주문 세부 정보를 검토하고 Action Pack을 구입할 준비가 완료되면 **구입**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-125">Review your order details and then select **Buy** when you’re ready to purchase Action Pack.</span></span> <span data-ttu-id="2727d-126">즉시 신용 카드로 청구됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-126">Your credit card will be charged immediately.</span></span>
-
-5. <span data-ttu-id="2727d-127">주문이 확인됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-127">Your order is confirmed.</span></span> <span data-ttu-id="2727d-128">**닫기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-128">Select **Close**.</span></span>
-
-<span data-ttu-id="2727d-129">매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-129">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="2727d-130">언제든지 구입한 제품 목록에서 자동 갱신을 끌 수 있지만, 구독을 다시 갱신할 때까지는 자동 구독 갱신을 다시 켤 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-130">You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
-
-
-## <a name="renew-your-action-pack-subscription"></a><span data-ttu-id="2727d-131">Action Pack 구독 갱신</span><span class="sxs-lookup"><span data-stu-id="2727d-131">Renew your Action Pack subscription</span></span>
-
-1. <span data-ttu-id="2727d-132">**대시보드** 메뉴에서 **파트너십 옵션**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-132">On the **Dashboard** menu, select **Membership offers**.</span></span>  
-
-2. <span data-ttu-id="2727d-133">**구매**를 선택하고 Action Pack 타일을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-133">Select **Purchased** and locate the Action Pack tile.</span></span>  
-
-3. <span data-ttu-id="2727d-134">**구독 갱신**을 선택하고 결제 방법을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-134">Select **Renew subscription** and then select your payment method.</span></span> <span data-ttu-id="2727d-135">신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-135">You can pay using a credit card or an electronic bank transfer.</span></span> 
-
-    >**<span data-ttu-id="2727d-136">중요</span><span class="sxs-lookup"><span data-stu-id="2727d-136">Important</span></span>**<br> <span data-ttu-id="2727d-137">결제를 제출하면 Microsoft가 부여한 내부 사용 권한에 대한 [사용 약관](https://go.microsoft.com/fwlink/?linkid=842232)에 동의하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-137">When you submit your payment, you are also agreeing to the [Terms and Conditions](https://go.microsoft.com/fwlink/?linkid=842232) for internal use rights granted by Microsoft.</span></span> 
-
-3. <span data-ttu-id="2727d-138">신용 카드로 결제를 하는 경우, 지침에 따라 신용 카드 정보를 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-138">If paying by credit card, follow the instructions for adding your credit card information.</span></span> 
-
-    <span data-ttu-id="2727d-139">전자 계좌 이제로 결제를 하는 경우에는 연락처 이름, 전화 번호 및 메일 주소를 입력하고 **제출**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-139">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span> 
-
- 4. <span data-ttu-id="2727d-140">주문 세부 정보를 검토하고 Action Pack을 구입할 준비가 완료되면 **구입**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-140">Review your order details and then select **Buy** when you’re ready to purchase Action Pack.</span></span> <span data-ttu-id="2727d-141">즉시 신용 카드로 청구됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-141">Your credit card will be charged immediately.</span></span>
-
-5. <span data-ttu-id="2727d-142">주문이 확인됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-142">Your order is confirmed.</span></span> <span data-ttu-id="2727d-143">**닫기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-143">Select **Close**.</span></span>
-
-<span data-ttu-id="2727d-144">매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-144">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="2727d-145">언제든지 구입한 제품 목록에서 자동 갱신을 끌 수 있지만, 구독을 다시 갱신할 때까지는 자동 구독 갱신을 다시 켤 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-145">You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
+>[!IMPORTANT]
+><span data-ttu-id="28d3f-127">파트너 대시보드에서 구독을 갱신하도록 초대받은 경우, 갱신 기간 정책이 변경되었으므로 구독 기간이 만료된 후에만 구독을 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-127">If you are invited to renew your subscription in the partner dashboard, please note that we've changed our renewal window policy and you can renew your subscription only after it expires.</span></span> <span data-ttu-id="28d3f-128">예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-128">For example, if your subscription expires on June 22, you can renew it starting June 23 and for 30 days after.</span></span>       
+><span data-ttu-id="28d3f-129">[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-129">You can find your subscription's expiration date on your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page (sign-in required).</span></span> <span data-ttu-id="28d3f-130">파트너 대시보드에서 갱신할 자격이 있는 경우 아래 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-130">If or when you are eligible to renew in the partner dashboard, follow the steps below.</span></span>  
 
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a><span data-ttu-id="2727d-146">Action Pack 구독 자동 갱신 끄기</span><span class="sxs-lookup"><span data-stu-id="2727d-146">Turn off automatic Action Pack subscription renewal</span></span>
 
-1. <span data-ttu-id="2727d-147">**대시보드** 메뉴에서 **파트너십 옵션**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-147">On the **Dashboard** menu, select **Membership offers**.</span></span> 
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a><span data-ttu-id="28d3f-131">파트너 대시보드에서 Microsoft Action Pack 구독을 갱신하려면</span><span class="sxs-lookup"><span data-stu-id="28d3f-131">To renew a Microsoft Action Pack subscription in the partner dashboard</span></span>
 
-2. <span data-ttu-id="2727d-148">구독 세부 정보를 보려면 **구매**를 선택한 다음 **Microsoft Action Pack 구독**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-148">Select **Purchased** and then select **Microsoft Action Pack subscription** to view the subscription details.</span></span> 
+1. <span data-ttu-id="28d3f-132">[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-132">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="28d3f-133">**Microsost Action Pack 구독** 타일을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-133">Locate the **Microsost Action Pack Subscription** tile.</span></span>  
 
-3. <span data-ttu-id="2727d-149">매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-149">Select **Turn off automatic renewal** if you don't want your Action Pack subscription to renew automatically each year.</span></span> 
+2. <span data-ttu-id="28d3f-134">**구독 갱신**을 선택하고 결제 방법을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-134">Select **Renew subscription** and then select your payment method.</span></span> <span data-ttu-id="28d3f-135">신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-135">You can pay using a credit card or an electronic bank transfer.</span></span>
 
-    >**<span data-ttu-id="2727d-150">참고</span><span class="sxs-lookup"><span data-stu-id="2727d-150">Note</span></span>**<br>
-    <span data-ttu-id="2727d-151">구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-151">If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again.</span></span> <span data-ttu-id="2727d-152">구독이 만료되기 전에 갱신하라고 알려 드립니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-152">We’ll remind you to renew before your subscription expires.</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="28d3f-136">**구독 갱신**이 표시되지 않거나 회색으로 표시되는 경우 아직 Action Pack 구독을 갱신할 자격이 없는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-136">If **Renew subscription** isn't displayed or is greyed out, you're not yet eligible to renew your Action Pack subscription.</span></span> <span data-ttu-id="28d3f-137">갱신 기간 정책이 변경되었으며 이제 만료된 후에만 구독을 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-137">We've changed our renewal window policy and you can renew your subscription only after it expires.</span></span> <span data-ttu-id="28d3f-138">예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-138">For example, if your subscription expires on June 22, you can renew it starting June 23 and for 30 days after.</span></span>  
+
+3. <span data-ttu-id="28d3f-139">신용 카드로 결제를 하는 경우, 지침에 따라 신용 카드 정보를 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-139">If paying by credit card, follow the instructions for adding your credit card information.</span></span> <span data-ttu-id="28d3f-140">전자 계좌 이제로 결제를 하는 경우에는 연락처 이름, 전화 번호 및 메일 주소를 입력하고 **제출**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-140">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span> 
+     
+4. <span data-ttu-id="28d3f-141">주문 세부 정보를 검토하고 Action Pack을 구입할 준비가 완료되면 **구입**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-141">Review your order details and then select **Buy** when you’re ready to buy Action Pack.</span></span> <span data-ttu-id="28d3f-142">즉시 신용 카드로 청구됩니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-142">Your credit card is charged immediately.</span></span>
+
+5. <span data-ttu-id="28d3f-143">주문이 확인됩니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-143">Your order is confirmed.</span></span> <span data-ttu-id="28d3f-144">**닫기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-144">Select **Close**.</span></span>
+
+<span data-ttu-id="28d3f-145">매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-145">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="28d3f-146">언제든지 **구입 완료** 제품 목록에서 자동 갱신을 끌 수 있지만, 구독을 다시 갱신할 때까지는 자동 구독 갱신을 다시 켤 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-146">You can turn off automatic renewal at any time from your **Purchased** offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
 
 
-## <a name="cancel-your-action-pack-subscription"></a><span data-ttu-id="2727d-153">Action Pack 구독 취소</span><span class="sxs-lookup"><span data-stu-id="2727d-153">Cancel your Action Pack subscription</span></span>
+## <a name="turn-off-automatic-action-pack-subscription-renewal"></a><span data-ttu-id="28d3f-147">Action Pack 구독 자동 갱신 끄기</span><span class="sxs-lookup"><span data-stu-id="28d3f-147">Turn off automatic Action Pack subscription renewal</span></span>
 
-<span data-ttu-id="2727d-154">Microsoft Action Pack 구독을 취소하려면 파트너 지원 팀에 문의해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-154">To cancel your Microsoft Action Pack subscription, you may need to contact Partner Support.</span></span>
+1. <span data-ttu-id="28d3f-148">[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-148">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="28d3f-149">**Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-149">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
 
-1. <span data-ttu-id="2727d-155">**대시보드** 메뉴에서 **파트너십 옵션**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-155">On the **Dashboard** menu, select **Membership offers**.</span></span> 
+2. <span data-ttu-id="28d3f-150">매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-150">Select **Turn off automatic renewal** if you don't want your Action Pack subscription to renew automatically each year.</span></span> 
 
-2. <span data-ttu-id="2727d-156">**구매**를 선택하고 Action Pack 타일을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-156">Select **Purchased** and then find the Action Pack tile.</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="28d3f-151">구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-151">If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again.</span></span> <span data-ttu-id="28d3f-152">구독이 만료되기 전에 갱신하라고 알려 드립니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-152">We’ll remind you to renew before your subscription expires.</span></span>
 
-3. <span data-ttu-id="2727d-157">**구독 취소**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-157">Select **Cancel subscription**.</span></span> <span data-ttu-id="2727d-158">지침에 따라 지원 요청을 생성합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-158">Follow the instructions for creating a support request.</span></span> 
 
-4. <span data-ttu-id="2727d-159">지원 요청 양식에서 요청을 적절하게 라우팅할 수 있도록 다음 값을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-159">On the support request form, select the following values to properly route your request:</span></span>
+## <a name="cancel-your-action-pack-subscription"></a><span data-ttu-id="28d3f-153">Action Pack 구독 취소</span><span class="sxs-lookup"><span data-stu-id="28d3f-153">Cancel your Action Pack subscription</span></span>
 
-    -  <span data-ttu-id="2727d-160">**파트너 대시보드에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-160">Select **Report problems with the Partner Dashboard**, and then select **New request** on the next page.</span></span>
+<span data-ttu-id="28d3f-154">Microsoft Action Pack 구독을 취소하려면 파트너 지원 팀에 문의해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-154">To cancel your Microsoft Action Pack subscription, you may need to contact Partner Support.</span></span>
 
-    -  <span data-ttu-id="2727d-161">**문제 유형** 목록을 확장하고 **파트너 청구서, 결제 또는 조정 파일을 통한 도움**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-161">Expand the **Type of problem** list and select **Help with partner invoice, payment, or reconciliation file**.</span></span> 
+1. <span data-ttu-id="28d3f-155">[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-155">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="28d3f-156">**Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-156">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
 
-5. <span data-ttu-id="2727d-162">필수 정보를 입력한 다음 **제출**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-162">Finish filling in the required information and then select **Submit**.</span></span> <span data-ttu-id="2727d-163">파트너 대시보드 지원 팀에서 연락하여 구독 취소를 도와드릴 것입니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-163">The Partner Dashboard Support team will contact you to help you cancel your subscription.</span></span>
+3. <span data-ttu-id="28d3f-157">**구독 취소**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-157">Select **Cancel subscription**.</span></span> <span data-ttu-id="28d3f-158">지침에 따라 지원 요청을 생성합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-158">Follow the instructions for creating a support request.</span></span> 
 
-<span data-ttu-id="2727d-164">서비스 요청 상태를 확인하려면 **계정 선택** 메뉴에서 **파트너 센터 요청**을 선택하고 **열기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-164">To check on the status of your service request, select **Partner Center requests** from your **Account settings** menu, and then select **Open**.</span></span> <span data-ttu-id="2727d-165">목록에서 적절한 서비스 요청을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-165">Choose the appropriate service request from the list.</span></span>  
+4. <span data-ttu-id="28d3f-159">지원 요청 양식에서 요청을 적절하게 라우팅할 수 있도록 다음 값을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-159">On the support request form, select the following values to properly route your request:</span></span>
 
-## <a name="download-your-action-pack-invoice"></a><span data-ttu-id="2727d-166">Action Pack 청구서 다운로드</span><span class="sxs-lookup"><span data-stu-id="2727d-166">Download your Action Pack invoice</span></span>
+    -  <span data-ttu-id="28d3f-160">**파트너 센터에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-160">Select **Report problems with Partner Center**, and then select **New request** on the next page.</span></span>
 
-1. <span data-ttu-id="2727d-167">**대시보드** 메뉴에서 **파트너십 옵션**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-167">On the **Dashboard** menu, select **Membership offers**.</span></span>  
+    -  <span data-ttu-id="28d3f-161">**문제 유형** 목록을 확장하고 **Help with partner invoice, payment, or reconciliation file**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-161">Expand the **Type of problem** list and select **Help with partner invoice, payment, or reconciliation file**.</span></span> 
 
-2. <span data-ttu-id="2727d-168">**구매**를 선택하고 Action Pack 타일을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-168">Select **Purchased** and then find the Action Pack tile.</span></span> 
+5. <span data-ttu-id="28d3f-162">필수 정보를 입력한 다음 **제출**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-162">Finish filling in the required information and then select **Submit**.</span></span> <span data-ttu-id="28d3f-163">파트너 센터 지원 팀에서 연락하여 구독 취소를 도와드릴 것입니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-163">The Partner Center Support team will contact you to help you cancel your subscription.</span></span>
 
-3. <span data-ttu-id="2727d-169">**송장 다운로드**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2727d-169">Select **Download invoice**.</span></span>
+<span data-ttu-id="28d3f-164">서비스 요청 상태를 확인하려면 **지원**에서 **파트너 센터 요청**을 선택한 다음 **열기**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-164">To check on the status of your service request, select **Partner Center requests** from **Support**, and then select **Open**.</span></span> <span data-ttu-id="28d3f-165">목록에서 적절한 서비스 요청을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-165">Choose the appropriate service request from the list.</span></span>  
+
+## <a name="download-your-action-pack-invoice"></a><span data-ttu-id="28d3f-166">Action Pack 청구서 다운로드</span><span class="sxs-lookup"><span data-stu-id="28d3f-166">Download your Action Pack invoice</span></span>
+
+1. <span data-ttu-id="28d3f-167">[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-167">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="28d3f-168">**Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-168">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
+
+3. <span data-ttu-id="28d3f-169">**송장 다운로드**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="28d3f-169">Select **Download invoice**.</span></span>
  
-## <a name="next-steps"></a><span data-ttu-id="2727d-170">다음 단계</span><span class="sxs-lookup"><span data-stu-id="2727d-170">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="28d3f-170">다음 단계</span><span class="sxs-lookup"><span data-stu-id="28d3f-170">Next steps</span></span>
 
-[<span data-ttu-id="2727d-171">Action Pack 혜택 사용 시작</span><span class="sxs-lookup"><span data-stu-id="2727d-171">Start using your Action Pack benefits</span></span>](manage-your-partner-network-benefits.md)
+-   [<span data-ttu-id="28d3f-171">Action Pack 혜택 사용 시작</span><span class="sxs-lookup"><span data-stu-id="28d3f-171">Start using your Action Pack benefits</span></span>](manage-your-partner-network-benefits.md)
 
+-   [<span data-ttu-id="28d3f-172">실버 및 골드 역량 멤버십 수준에 대해 알아보기</span><span class="sxs-lookup"><span data-stu-id="28d3f-172">Learn about Silver and Gold competency membership levels</span></span>](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
-## <a name="see-also"></a><span data-ttu-id="2727d-172">참고 항목</span><span class="sxs-lookup"><span data-stu-id="2727d-172">See also</span></span>
+-   [<span data-ttu-id="28d3f-173">사용자 추가 및 권한 할당</span><span class="sxs-lookup"><span data-stu-id="28d3f-173">Add users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
 
-[<span data-ttu-id="2727d-173">사용자 추가 및 권한 할당</span><span class="sxs-lookup"><span data-stu-id="2727d-173">Add users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
-
-[<span data-ttu-id="2727d-174">비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기</span><span class="sxs-lookup"><span data-stu-id="2727d-174">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
+-   [<span data-ttu-id="28d3f-174">비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기</span><span class="sxs-lookup"><span data-stu-id="28d3f-174">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
 
 
 

@@ -4,7 +4,7 @@
 ## [Microsoft Action Pack 구입](mpn-get-action-pack.md)
 ## [실버 또는 골드 멤버십 획득](learn-about-competencies.md)
 ## [멤버십 혜택 받기](manage-your-partner-network-benefits.md)
-## [MPN 혜택 갱신](renew-mpn-offers.md)
+
 
 
 # [클라우드 솔루션 공급자](csp-overview.md)
@@ -15,8 +15,8 @@
 ## [고객 계약 템플릿](agreements.md)
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
-### [미국 정부를 위한 Microsoft Cloud용 파트너 대시보드](partner-center-for-microsoft-us-govt-cloud.md)
-### [Microsoft Cloud의 독일 파트너를 위한 대시보드](partner-center-for-microsoft-cloud-germany.md)
+### [Microsoft Cloud for US Government용 파트너 대시보드](partner-center-for-microsoft-us-govt-cloud.md)
+### [Microsoft 클라우드의 독일 파트너를 위한 대시보드](partner-center-for-microsoft-cloud-germany.md)
 
 # [파트너 대시보드 계정 관리](partner-center-account-setup.md)
 ## [회사 계정 및 파트너 대시보드](azure-active-directory-tenants-and-partner-center.md)
@@ -71,14 +71,17 @@
 ### [라이선스 기반 서비스 고객을 클라우드 서비스 공급자 프로그램으로 이동](transition-seat-based-services.md)
 ### [Dynamics AX 구독을 Dynamics 365로 업그레이드](manual-subscription-migration.md)
 ### [Office 365 Enterprise E4 구독을 최신 Office 365 버전으로 마이그레이션](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [비즈니스용 Skype Online 플랜 1을 새로운 Office 365 버전으로 마이그레이션](skype-retiring.md)
 ### [Azure 구독 이전](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Minecraft: Education Edition 구독 판매](minecraft-subscriptions.md)
+### [특수 산업을 대상으로 판매](Get-special-pricing-for-offers.md)
 ### [채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot으로 디바이스 설치 간소화](autopilot.md)
 
 # 파트너 대시보드 데이터 및 분석
 ## [비즈니스 데이터 수집 및 분석](data-analysis-lp.md)
 ## [Microsoft Power BI용 파트너 분석 앱](power-bi-app-for-direct-partners.md)
+## [CSP 비즈니스를 다른 파트너와 비교](partner-contributions.md)
 
 # [다른 파트너와 협력](work-with-other-partners.md)
 ## [파트너 대시보드에서 간접 공급자가 하는 일](indirect-provider-tasks-in-partner-center.md)
