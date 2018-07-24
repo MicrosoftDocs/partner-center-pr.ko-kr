@@ -2,11 +2,12 @@
 title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
 description: 간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 9b0d644698676a28236c37b3cef5f5fbd905b602
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 295dfa22feb6864697d8ffd94708f0868479b52a
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919893"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -125,6 +126,9 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 [고객 계정](customer-accounts.md)
 
 [고객 구독](customer-subscriptions.md)
+
+
+
 
 
 

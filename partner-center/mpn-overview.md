@@ -1,52 +1,52 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
-description: Microsoft 파트너 네트워크 가입의 혜택에 대해 알아보세요.
+description: Microsoft 파트너의 혜택에 대해 알아보세요.
 author: MaggiePucciEvans
-keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십
-ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
+ms.openlocfilehash: 23ae139d9f03b74c71f1c64cc298a0600a65f4da
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207223"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
-## <a name="join-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크 가입
+Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다. 
 
-Microsoft 파트너 네트워크는 세 가지 유형의 멤버십을 제공합니다. 각 유형은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다. 목표를 달성함에 따라 귀사의 고유한 비즈니스 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.
+Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하는 이유](https://partner.microsoft.com/business-opportunities/why-microsoft)를 참조하십시오. 
 
--   **네트워크 회원** 이 무료의 기본 수준에 가입하면 시간과 비용을 절약할 수 있는 일련의 [핵심 내부용 권한 혜택](https://partner.microsoft.com/membership/core-benefits)이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다.
 
-    -   [Microsoft 파트너 네트워크에 대한 자세한 정보](https://partner.microsoft.com/membership/how-it-works)
+## <a name="the-microsoft-partner-program-works-for-you"></a>귀사를 위한 Microsoft 파트너 프로그램
 
-    -   [지금 Microsoft 파트너 네트워크에 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+Microsoft 파트너 네트워크는 세 가지 수준의 멤버십을 제공합니다. 각 수준은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다. 목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요. 
 
--   **Action Pack** 경제적인 연간 구독인 Action Pack을 구매하면 개발자 도구, 지원, 교육 및 소프트웨어를 포함한 추가 네트워크 혜택을 이용할 수 있습니다. 이 수준에서는 전문 지식을 향상시키고 새로운 기술을 개발할 수 있습니다.
+파트너 네트워크에 대한 자세한 내용은 [파트너 네트워크 사이트](https://partner.microsoft.com)의 [멤버십 개요](https://partner.microsoft.com/membership)를 검토하세요. 
 
-    -   [Microsoft Action Pack에 대한 자세한 정보](https://partner.microsoft.com/membership/action-pack)
+ [파트너 네트워크 사이트](https://partner.microsoft.com)에서 멤버십 수준 및 [내부 사용 권한 소프트웨어 혜택](https://partner.microsoft.com/membership/internal-use-software)에 대해 읽어 보세요. 
 
-    -   [지금 Action Pack 구독](mpn-get-action-pack.md)
+### <a name="level-1---get-started-with-the-action-pack"></a>수준 1 - Action Pack 시작 
 
--   **역량** 하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요. Microsoft 역량은 고객의 요구 사항을 충족하고 잠재 고객에게 역량을 알릴 수 있도록 준비하는 것을 돕기 위해 설계되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
+Microsoft Action Pack에 대한 연간 구독을 구입하면 클라우드 중심 세상에서 Microsoft 영업을 구축하는 데 도움이 되는 개발자 도구, 지원, 교육 및 소프트웨어에 액세스할 수 있습니다. 이 멤버십 수준에서는 전문 지식을 향상시키고 새로운 기술을 개발할 수 있습니다.
 
-    -   실버 역량을 획득하면 일관된 역량, 전문 지식 및 노력을 입증할 수 있습니다.
+처음 구입하거나 이 회원 혜택을 갱신하는 방법에 대한 자세한 내용은 [Action Pack 얻기](mpn-get-action-pack.md)를 참조하세요.  
 
-    -   골드 역량을 획득하면 특정 Microsoft 솔루션 영역 내에서 동급 최고의 역량을 입증할 수 있습니다.
+>[!IMPORTANT]
+>현재 시점과 연말 시점 사이에 Action Pack 구독 관리를 Partner Membership Center(PMC)에서 파트너 대시보드로 옮길 예정입니다. Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 [Action Pack 얻기](mpn-get-action-pack.md)에 나온 정보를 주의 깊게 검토하세요.  
 
-    [실버 및 골드 역량 획득에 대해 자세히 알아보기](https://partner.microsoft.com/membership/competencies)
 
-   
-## <a name="get-started-with-the-partner-dashboard"></a>파트너 대시보드 시작
+### <a name="level-2---take-the-next-step"></a>수준 2 - 한 단계 높이기
 
-Microsoft와 파트너십을 맺고 시간과 비용을 절약하기 위해 현재 여러 웹 사이트 및 도구에 분산된 여러 기능과 워크플로를 이 파트너 대시보드에 이동하기 위해 보이지 않는 곳에서 노력하고 있습니다. 
+**실버 역량**를 획득하여 전문 지식, 기술 및 전략적 사고를 소개하세요. 
+    
+하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요. Microsoft 역량은 고객의 요구 사항을 충족하고 잠재 고객에게 역량을 알릴 수 있도록 준비하는 것을 돕기 위해 설계되었습니다. 
 
-파트너 대시보드로 이동한 특정 기능들의 경우 이 기능들을 사용하는 기존 사이트들의 사용을 중단하고 있습니다. 이러한 기능을 계속해서 활용하려면 이 파트너 대시보드 사이트에서 계정을 만들어야 합니다. 
+[실버 역량 획득에 대해 자세히 알아보기](https://partner.microsoft.com/membership/competencies)
 
-예를 들어 Pinpoint에서 추천을 받고 관리했던 경우 해당 사이트는 중단되었으며 모든 추천 관련 기능은 이제 파트너 대시보드에서 얻을 수 있습니다. 파트너 대시보드에서 시작하려면 다음 단계를 수행합니다.   
 
--   [다음을 위해 파트너 대시보드 계정을 만듭니다.](mpn-create-a-partner-center-account.md)
+### <a name="level-3---join-the-elite-tier"></a>수준 3 - 엘리트 계층에 참여하기
 
--   [비즈니스 프로필을 만들어 고객 추천 받기](create-a-marketing-profile.md)
+**골드 역량**을 획득하여 고객 요구사항을 충족할 수 있는 가장 높은 수준의 특별한 기능을 보여 주세요. 
 
--   [Microsoft 파트너 네트워크 멤버십 혜택 관리](manage-your-partner-network-benefits.md)
+[골드 역량 획득에 대해 자세히 알아보기](https://partner.microsoft.com/membership/competencies)
 

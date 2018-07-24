@@ -2,11 +2,12 @@
 title: 파트너 센터 계정 만들기 | 파트너 센터
 description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207273"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
@@ -76,6 +77,6 @@ ms.lasthandoff: 04/08/2018
 
 -   [Microsoft 파트너 네트워크 멤버십 혜택 관리](manage-your-partner-network-benefits.md)
 
--   [골드 및 실버 멤버십을 위한 역량 요구 사항에 대해 알아보기](learn-about-competencies.md)
+-   [골드 및 실버 멤버십을 위한 역량 요구 사항에 대해 알아보기](https://partner.microsoft.com/membership/competencies)
 
 -   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)

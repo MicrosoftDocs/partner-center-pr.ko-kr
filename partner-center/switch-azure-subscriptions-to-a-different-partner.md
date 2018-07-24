@@ -4,11 +4,12 @@ description: 고객은 Microsoft Azure 서비스에 사용할 클라우드 솔�
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
-ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
-ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
+ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088960"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 이전 
 
@@ -50,8 +51,8 @@ ms.lasthandoff: 03/30/2018
 
     -   이전할 구독 ID. 확장된 고객 목록에서 **구독 보기**를 선택한 다음 선택한 구독을 확장하여 **구독 ID**를 확인합니다.
 
-    >**참고**<br> 구독을 이전하면 전송된 구독의 **구독 편집** 페이지에 두 개의 구독 ID가 표시됩니다. **1**- 파트너 센터 구독 ID는 요금 청구를 위해 사용됩니다. 이 ID는 사용자의 조정 파일에 나타납니다. 
-    **2**- 원래 Azure 구독 ID는 유지되며 Azure 관리 포털뿐만 아니라 파트너 센터에도 표시됩니다. **지원 티켓을 로깅할 때 두 ID를 모두 사용해야 합니다.**
+    >**참고**<br> 구독을 이전하면 전송된 구독의 **구독 편집** 페이지에 두 개의 구독 ID가 표시됩니다. **1**- 파트너 센터 구독 ID는 요금 청구를 위해 사용됩니다. 
+    **2**- 원래 Azure 구독 ID는 유지되며 Azure 관리 포털뿐만 아니라 파트너 센터에도 표시됩니다. 이 ID는 사용자의 조정 파일에 나타납니다.  **지원 티켓을 로깅할 때 두 ID를 모두 사용해야 합니다.**
 
 4.  구독의 고객 및 새 파트너:
 

@@ -3,12 +3,12 @@ title: MPN 혜택 갱신 | 파트너 센터
 description: 파트너 대시보드에서 MPN 혜택 갱신
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
-ms.openlocfilehash: ed037f6445d18a57033da51bc87d8f61d58370c3
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
+ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991716"
+ms.lasthandoff: 06/11/2018
+ms.locfileid: "2018224"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN 혜택 갱신
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991716"
 
 1주년 날짜 이후에 30일 이내에 갱신할 수 있습니다. 이 시간 동안 혜택은 계속됩니다. 1주년 날짜 15일 이전에 Microsoft는 다가오는 1주년을 미리 알립니다. 1주년 날짜 23일 이후에 다른 알림을 받게 됩니다. 1주년에서 30일 이내에 갱신하면 혜택이 그대로 유지됩니다. 갱신 기간 이내에 갱신하지 않으면 혜택 및 역량이 손실됩니다.
 
-갱신 기간 동안 갱신하면 새 1주년 날짜는 갱신 365일 후가 됩니다.
+갱신 기간 동안 갱신하면 새 1주년 날짜는 현재 1주년 날짜 후가 됩니다.
 
 ## <a name="manage-auto-renewal"></a>자동 갱신 관리
 

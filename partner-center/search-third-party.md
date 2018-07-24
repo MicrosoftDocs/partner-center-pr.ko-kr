@@ -3,12 +3,12 @@ title: 판매할 타사 제품 검색 | 파트너 센터
 description: 자신의 포트폴리오에 잘 맞는 타사 제품 유형을 검색하여 찾습니다.
 author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어, 타사 검색
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991717"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204957"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>판매할 타사 제품 검색
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991717"
 
 자세한 내용을 보려면 제품을 선택합니다. 이렇게 하면 수행 기능, Microsoft 제품과의 연동 방법, 제품 판매를 위한 영업 직원 교육, 효과적인 제품 마케팅을 위한 팁 등을 포함하여 제품에 대한 자세한 정보를 제공하는 세부 정보 페이지로 연결됩니다. 
 
-ISV의 웹 사이트, 연락처 정보, 제품의 비디오 데모를 연결하는 링크가 나타납니다. 
+또한 ISV의 웹 사이트, 연락처 정보, 제품의 비디오 데모를 연결하는 링크가 나타납니다. 
 
 ## <a name="add-the-product-to-your-portfolio"></a>포트폴리오에 제품 추가
 

@@ -3,11 +3,12 @@ title: 파트너 관리 센터에서 파트너 센터로 이동 준비 | 파트�
 description: Office 365 파트너 관리 센터 기능이 파트너 센터로 이동됩니다.
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911297"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>파트너 관리 센터에서 파트너 대시보드로 이동
 
@@ -27,7 +28,7 @@ Microsoft 파트너 대시보드를 Microsoft 및 고객과의 파트너 관계�
 
 **클라우드 솔루션 공급자 파트너** CSP 파트너인 경우 2018년 4월부터 자동으로 파트너 대시보드로 리디렉션됩니다. 
 
-**관리자 파트너** 관리자 파트너인 경우 2018년 5월 중으로 자동으로 파트너 대시보드로 리디렉션됩니다.
+**관리자 파트너**(CSP를 통해 거래하지 않고 PAC를 사용하여 고객에게 평가판/견적을 제공하는 경우) 타임라인에서 파트너 센터에 자동으로 리디렉션하는 일정을 결정하는 즉시 여기에 공지할 예정입니다. 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>지금 Microsoft 파트너 대시보드를 시작하세요!

@@ -3,11 +3,12 @@ title: 최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 | 파�
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883104"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 
 
@@ -119,7 +120,7 @@ Azure 활용률 API를 통해 예약 사용량 데이터를 얻어서 고객이 
 -   consumptionMeter는 예약 할인이 적용되는 VM의 MeterId입니다.
 -   예약 할인이 적용되었기 때문에 ReservationMeter는 0달러로 표시됩니다. 
 
-자세한 내용은 [파트너 대시보드 API](https://docs.microsoft.com/partner-center/develop/)의 [Azure에 대한 고객 사용률 기록 얻기](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)를 참조하세요.
+자세한 내용은 [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/)의 [Azure에 대한 고객 사용률 기록 얻기](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)를 참조하세요.
 
 >[!IMPORTANT]
 >Microsoft Windows Server 등의 소프트웨어 비용은 현재 VM 예약 가격에 포함되어 있지 않으며, 주문 기록 및 송장에 개별 품목으로 표시됩니다. 그러나 고객이 Azure 하이브리드 사용 혜택을 이용하고 있는 경우에는 소프트웨어 비용이 적용되지 않습니다. 자세한 내용은 [예약 인스턴스에 포함되어 있지 않은 Windows 소프트웨어 비용](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)을 참조하세요.  
