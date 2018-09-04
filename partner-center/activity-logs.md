@@ -4,11 +4,13 @@ description: 활동 로그는 고객에 대한 거래 및 파트너 관리 작�
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875903"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 

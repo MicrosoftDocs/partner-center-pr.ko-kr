@@ -4,11 +4,13 @@ description: 고객이 현재 구독에서 제공하는 것보다 많은 사용�
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
-ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874873"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
 

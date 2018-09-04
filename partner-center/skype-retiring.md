@@ -3,12 +3,13 @@ title: 비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버�
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: 비즈니스용 Skype 플랜, Skype 사용 중지, Office 365
-ms.openlocfilehash: 7f728f3173095e3391f9cacea6378bdfcceb2d2a
-ms.sourcegitcommit: e6de41b2cc8b2307eae2ddb1a3c51a56653b5463
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/26/2018
-ms.locfileid: "2186716"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875463"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션
 

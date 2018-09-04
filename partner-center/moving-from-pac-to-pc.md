@@ -3,11 +3,13 @@ title: 파트너 관리 센터에서 파트너 센터로 이동
 description: 파트너 센터에서 파트너 관리 센터에서 익숙하게 사용했던 기능 찾기
 author: labrenne
 keywords: PAC, Office 365 관리자, PAC 기능
-ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876253"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>파트너 관리 센터(PAC)에서 파트너 대시보드로 이동
 

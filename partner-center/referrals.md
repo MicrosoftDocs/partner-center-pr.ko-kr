@@ -3,11 +3,13 @@ title: Microsoft의 추천을 통해 비즈니스 확장 | 파트너 센터
 description: 잠재 고객을 생성하고 Microsoft 제품 및 솔루션 구현에 도움이 필요한 고객과 관계를 구축하세요.
 author: KPacquer
 keywords: 추천, 비즈니스 프로필, 파트너 찾기
-ms.openlocfilehash: b73feb1df95e7ed7cea4c8a39d9be6d986309f84
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ce9879cd727fd65ae3db1a7ee78b59556662ad53
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874613"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

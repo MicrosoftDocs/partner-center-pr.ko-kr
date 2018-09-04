@@ -1,83 +1,91 @@
 ---
-title: "데이터 플랫폼 역량"
-description: "데이터 플랫폼 역량은 비즈니스를 실행할 강력한 다용도 데이터베이스 플랫폼을 설계 및 개발하려는 파트너를 인증하는 역량입니다."
+title: 데이터 플랫폼 역량
+description: 데이터 플랫폼 역량은 비즈니스를 실행할 강력한 다용도 데이터베이스 플랫폼을 설계 및 개발하려는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
-keywords: "역량, 역량, 데이터 플랫폼"
-ms.openlocfilehash: c415e79d831ccb742f39915574014f1d939c5821
-ms.sourcegitcommit: 6c5a1ce9da7ee313ef88ef584dbf4ecb4dc0d12c
-ms.translationtype: HT
+keywords: 역량, 역량, 데이터 플랫폼
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875653"
 ---
-#<a name="data-platform"></a>데이터 플랫폼
-데이터 플랫폼 역량은 비즈니스를 실행할 강력한 다용도 데이터베이스 플랫폼을 설계 및 개발하려는 파트너를 인증하는 역량입니다.
+>[!IMPORTANT]
+>이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
 
-- [빅 데이터 옵션](#big-data-option) 
-- [SQL Server 전문가 옵션](#sql-server-specialist-option)
+<!--
 
-##<a name="big-data-option"></a>빅 데이터 옵션
-빅 데이터 옵션은 평가를 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 데이터 플랫폼 역량을 획득하세요.
+#Data Platform
+The Data Platform competency recognizes partners who are looking to design and develop powerful and versatile database platforms to run their business.
 
-###<a name="silver"></a>실버
-1. 조직의 직원 **2명**이 필수 평가를 통과해야 합니다.
+- [Big Data option](#big-data-option) 
+- [SQL Server Specialist option](#sql-server-specialist-option)
 
-    - **2명**이 다음 평가를 통과해야 합니다.
-        - [데이터 플랫폼 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+##Big Data option
+The Big Data option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Platform competency.
 
-    **그리고**
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    - 같은 직원 **2명**이 다음 평가 중 하나를 통과해야 합니다.
-        - [SQL Server 2016 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
-        - [Azure 데이터 웨어하우스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Azure 데이터 서비스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-###<a name="gold"></a>골드
-1. 조직의 직원 **4명**이 필수 평가를 통과해야 합니다.
+    **AND**
 
-    - **4명**이 다음 평가를 통과해야 합니다.
-        - [데이터 플랫폼 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
+        - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-    **그리고**
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    - 같은 직원 **4명**이 다음 평가 중 하나를 통과해야 합니다.
-        - [SQL Server 2016 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
-        - [Azure 데이터 웨어하우스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Azure 데이터 서비스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-##<a name="sql-server-specialist-option"></a>SQL Server 전문가 옵션
-SQL Server 전문가 옵션은 특정 전문 영역의 시험을 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 데이터 플랫폼 역량을 획득하세요.
+    **AND**
 
-###<a name="silver"></a>실버
-1. 조직의 직원 **1명**이 핵심 영역 **데이터베이스 관리** 또는 **데이터베이스 개발** 중 하나의 모든 시험을 통과하고, 평가를 통과해야 합니다.
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
+        - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-    - **데이터베이스 관리** 핵심 영역
-        - [시험 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): SQL 데이터베이스 인프라 관리 
-        - [시험 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): SQL 데이터베이스 프로비전
+##SQL Server Specialist option
+The SQL Server Specialist option is ideal if you prefer to prove your skills by passing exams within a particular area of specialization. Complete all the steps within the option to attain the Data Platform competency.
 
-    - **데이터베이스 개발** 핵심 영역
-        - [시험 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): SQL 데이터베이스 개발
-        - [시험 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Transact-SQL을 사용하여 데이터 쿼리
-        - [시험 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): 클라우드 데이터 플랫폼 솔루션 설계 및 구현
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individual must pass an assessment.
 
-    **그리고**
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - [데이터 플랫폼 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
-###<a name="gold"></a>골드
-1. 조직의 직원 2명이 핵심 영역 **데이터베이스 관리** 또는 **데이터베이스 개발** 중 하나의 모든 시험을 통과하고, 평가를 통과해야 합니다.
+    **AND**
 
-    - **데이터베이스 관리** 핵심 영역
-        - [시험 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): SQL 데이터베이스 인프라 관리 
-        - [시험 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): SQL 데이터베이스 프로비전
+    - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    - **데이터베이스 개발** 핵심 영역
-        - [시험 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): SQL 데이터베이스 개발
-        - [시험 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Transact-SQL을 사용하여 데이터 쿼리
-        - [시험 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): 클라우드 데이터 플랫폼 솔루션 설계 및 구현
+###Gold
+1. Your organization must have 2 individuals pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individuals must pass an assessment.
 
-    **그리고**
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - [데이터 플랫폼 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
+    **AND**
+
+    - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+-->
 
 

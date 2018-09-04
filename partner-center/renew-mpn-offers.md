@@ -3,12 +3,13 @@ title: MPN 혜택 갱신 | 파트너 센터
 description: 파트너 대시보드에서 MPN 혜택 갱신
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
-ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
-ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2018
-ms.locfileid: "2018224"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875483"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN 혜택 갱신
 

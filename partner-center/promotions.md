@@ -1,12 +1,14 @@
 ---
-title: "프로모션을 사용하여 신규 고객 유치 | 파트너 센터"
-description: "클라우드 솔루션 공급자 프로그램의 Microsoft 파트너는 프로모션 가격으로 구독을 구입하여 그 절감 혜택을 고객에게 전달할 수 있습니다."
+title: 프로모션을 사용하여 신규 고객 유치 | 파트너 센터
+description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트너는 프로모션 가격으로 구독을 구입하여 그 절감 혜택을 고객에게 전달할 수 있습니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
-ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875383"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>프로모션을 사용하여 신규 고객 유치  
 

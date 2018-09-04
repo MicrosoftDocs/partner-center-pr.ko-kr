@@ -1,66 +1,73 @@
 ---
-title: "클라우드 생산성 역량"
-description: "클라우드 생산성 역량은 엔터프라이즈 Office 365 배포를 전문으로 하는 파트너를 위한 역량입니다. 이 역량을 획득하여 전문 클라우드 솔루션 파트너를 찾는 고객을 위한 검증된 클라우드 솔루션 파트너로서 경쟁업체와 차별화하세요."
+title: 클라우드 생산성 역량
+description: 클라우드 생산성 역량은 엔터프라이즈 Office 365 배포를 전문으로 하는 파트너를 위한 역량입니다. 이 역량을 획득하여 전문 클라우드 솔루션 파트너를 찾는 고객을 위한 검증된 클라우드 솔루션 파트너로서 경쟁업체와 차별화하세요.
 author: Daniel Simpson
-keywords: "역량, 역량, 클라우드 생산성"
-ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: 역량, 역량, 클라우드 생산성
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874943"
 ---
-# <a name="cloud-productivity-competency"></a>클라우드 생산성 역량
+>[!IMPORTANT]
+>이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
 
-클라우드 생산성 역량은 엔터프라이즈 Office 365 배포를 전문으로 하는 파트너를 위한 역량입니다. 이 역량을 획득하여 전문 클라우드 솔루션 파트너를 찾는 고객을 위한 검증된 클라우드 솔루션 파트너로서 경쟁업체와 차별화하세요.
+<!--
+# Cloud Productivity competency
 
-## <a name="managed-service-partner-option"></a>관리되는 서비스 파트너 옵션
-관리되는 서비스 파트너 옵션은 고객을 대신하여 Office 365 환경을 관리하고 배포 서비스를 제공하는 파트너에게 적합합니다. 옵션 내의 모든 단계를 완료하여 클라우드 생산성 역량을 획득하세요.
-### <a name="silver"></a>실버
-1.  조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
-    - **선진국 시장** 
-        - 파트너가 활성 권리 유형(활성 사용자) 2,000개를 배포한 실적이 있어야 합니다.
-    - **개발 도상국 시장**
-        -  파트너가 활성 권리 유형(활성 사용자) 1,000개를 배포한 실적이 있어야 합니다.
+The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+
+## Managed Service Partner option
+The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
+### Silver
+1.  Your organization must meet the performance thresholds:
+    - **Developed markets** 
+        - Partners must have deployed 2,000 active entitlements (active users)
+    - **Developing markets**
+        -  Partners must have deployed 1,000 active entitlements (active users)
     
-    - 배포에는 모든 Microsoft Office 365 워크로드(Exchange Online, SharePoint Online, 비즈니스용 Skype, Yammer 또는 ProPlus)가 포함됩니다. 평가판 SKU는 포함되지 않습니다.     
-    - 참고: 활성 권리 유형은 특정 워크로드의 활성 사용자 수를 계산합니다. 
-    - 이러한 고객과 Office 365 위임 관리자 또는 공식 거래 파트너/디지털 파트너로 제휴 관계를 맺어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.     
+    - Note: Active entitlements measures the count of active users on a specific workload 
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. 조직의 직원 **1명**이 시험을 통과해야 합니다.
+2. Your organization must have **1** individual pass the exam requirements.
 
-    - **1명**이 다음 시험을 모두 통과해야 합니다.
+    - **1** individual must pass all the following exams:
 
-        - [시험 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Office 365 ID 및 요구 사항 관리  
-        - [시험 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Office 365 서비스 지원
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
-    **또는**
+    **OR**
 
-    - **1명**이 다음 인증을 획득해야 합니다.  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
-### <a name="gold"></a>골드
+### Gold
 
-1.  조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다. 
+1.  Your organization must meet the performance thresholds. 
 
-    - 파트너는 활성 권리 유형(활성 사용자) 4,000개를 배포한 실적이 있어야 합니다.
-    - 배포에는 모든 Microsoft Office 365 워크로드(Exchange Online, SharePoint Online, 비즈니스용 Skype, Yammer 또는 ProPlus)가 포함됩니다. 평가판 SKU는 포함되지 않습니다.
-    - 참고: 활성 권리 유형은 특정 워크로드의 활성 사용자 수를 계산합니다.
-    - 이러한 고객과 Office 365 위임 관리자 또는 공식 거래 파트너/디지털 파트너로 제휴 관계를 맺어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).
+    - Partners must have deployed 4,000 active entitlements (active users).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
+    - Note: Active entitlements measures the count of active users on a specific workload
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2.  조직의 직원 **2명**이 시험을 통과해야 합니다.
+2.  Your organization must have **2** individuals pass the exam requirements.
 
-    - **2명**이 다음 시험을 모두 통과해야 합니다.
+    - **2** individuals must pass all the following exams:
 
-        - [시험 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Office 365 ID 및 요구 사항 관리  
-        - [시험 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Office 365 서비스 지원
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
-    **또는**
+    **OR**
     
-    - **2명**이 다음 인증을 획득해야 합니다.
+    - **2** individuals must obtain the following certification:
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
-
+-->
 
 
 

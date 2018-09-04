@@ -1,21 +1,23 @@
 ---
-title: "고객 자가 지원 | 파트너 센터"
-description: "고객 자가 지원"
+title: 고객 자가 지원 | 파트너 센터
+description: 고객 자가 지원
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-keywords: "고객 자가 지원, 자가 지원,"
-ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
-ms.translationtype: HT
+keywords: 고객 자가 지원, 자가 지원,
+ms.localizationpriority: medium
+ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874583"
 ---
 # <a name="customer-self-support"></a>고객 자가 지원
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 고객은 고유한 Microsoft Office 365 관리 센터 또는 Azure 관리 포털에 로그인하고, 자신의 계정을 관리할 수 있습니다.
@@ -26,7 +28,7 @@ ms.lasthandoff: 01/17/2018
 
 추가 구독을 구매하거나 구독을 취소하려면 고객이 해당 클라우드 솔루션 공급자 파트너에게 문의해야 합니다. 고객이 Microsoft에서 직접 자신의 구독을 변경할 수는 없습니다.
 
-고객은 온라인 관리 센터, TechNet 또는 Microsoft Office 365 커뮤니티를 통해 도움말 및 사용 방법 관련 질문에 대한 셀프 서비스 대답을 찾을 수 있습니다. 제품 리소스 목록은 파트너 센터의 [지원](https://partnercenter.microsoft.com/partner/support) 페이지에서 확인할 수 있습니다. 파트너는 고객에게 이러한 리소스를 첫 번째 단계로 안내하는 것이 좋습니다.
+고객이 제품을 사용 하 여 도움이 필요한 경우 [지원](https://partnercenter.microsoft.com/partner/support)에 대 제품 리소스를 찾을 수 있습니다. 파트너는 고객에게 이러한 리소스를 첫 번째 단계로 안내하는 것이 좋습니다.
 
  
 

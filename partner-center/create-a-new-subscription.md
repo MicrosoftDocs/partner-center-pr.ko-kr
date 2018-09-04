@@ -4,11 +4,13 @@ description: 파트너 센터에서 고객 기록을 만들면 카탈로그에�
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874853"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
@@ -17,6 +19,7 @@ ms.lasthandoff: 04/08/2018
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
+-  CSP 파트너
 
 파트너 대시보드에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
 
@@ -31,10 +34,11 @@ ms.lasthandoff: 04/08/2018
 
 3.  사용할 구독 청구 유형을 선택합니다.  월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
  
- >**참고**<br> 고객에게 특정 제품에 대한 무료 평가판을 제공하는 옵션도 제공되고 있습니다. 평가판으로 제공되는 제품은 카탈로그의 평가판 탭에서 확인할 수 있습니다. [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
+ >[!Note]
+ >고객에 게 평가판 구독을 제공할 수 있습니다. 평가판에 사용할 수 있는 제품은 카탈로그의 평가판 탭입니다. [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
 
  
-4. 청구 주기를 선택한 후에 카탈로그에서 구독하고 싶은 제품을 선택합니다. 제품의 사용 가능성은 선택한 고객 유형(교육, 정부 등)과 청구 주기에 따라 다릅니다. 제품을 사용할 수 없는 경우에는 고객이 해당 제품을 이미 구독하여 이미 사용이 허용된 상태일 수 있습니다. 또는 새로 제품을 구입하지 않고 다시 정품 인증을 할 수 있도록 구독을 일시 중지한 경우일 수 있습니다.
+4. 청구 주기를 선택한 후 카탈로그에서 구독 하 고 싶은 제품을 선택 합니다. 제품의 사용 가능성은 선택한 고객 유형(교육, 정부 등)과 청구 주기에 따라 다릅니다. 제품을 사용할 수 없는 경우에는 고객이 해당 제품을 이미 구독하여 이미 사용이 허용된 상태일 수 있습니다. 또는 새로 제품을 구입하지 않고 다시 정품 인증을 할 수 있도록 구독을 일시 중지한 경우일 수 있습니다.
 
 5. 추가할 구독을 확인하고 라이선스 수를 입력합니다. 그런 다음 주문을 **제출**합니다.
 

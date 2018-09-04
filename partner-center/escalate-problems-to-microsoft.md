@@ -1,12 +1,15 @@
 ---
-title: "Microsoft로 문제 에스컬레이션 | 파트너 센터"
-description: "고객을 대신하여 문제를 해결하는 것이 좋습니다."
+title: Microsoft로 문제 에스컬레이션 | 파트너 센터
+description: 고객을 대신하여 문제를 해결하는 것이 좋습니다.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876463"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
@@ -30,7 +33,21 @@ ms.contentlocale: ko-KR
 
 -   다중 테넌트 영향이 있는 지역 문제
 
-Microsoft의 지원을 받으려면 파트너 센터에서 지원 요청을 제출합니다. 문제가 해결되면 고객에게 해결 사실을 알려 Microsoft와 고객을 연계해야 합니다. [고객 대신 문제 보고](report-problems-on-behalf-of-a-customer.md)를 참조하세요.
+## <a name="submit-a-support-request"></a>지원 요청 제출
+
+1. 대시보드에서 **고객**을 선택 합니다.
+2. 지원이 필요한 고객을 선택 합니다.
+3. **서비스 관리** 를 선택 하 고 **서비스 요청**을 선택 합니다.
+4. **새 요청** 을 선택 하 고 **Microsoft Office 365**를 선택 합니다.
+5. 파트너 대시보드 자격 증명을 사용 하 여 로그인 해야 하는 Office 365 포털에 연결 됩니다.
+6. **지원**, 왼쪽 메뉴에서 **새로운 서비스 요청** 선택 합니다.
+7. 지원 항목을 선택 합니다.
+
+>[!NOTE]
+>파트너와 고객 간의 관계는 유지 되도록 대시보드에서 시작 하는 것이 이기도 합니다. 
+
+
+고객 대신 문제 보고에 대해서 [는 고객 대신 문제 보고를](report-problems-on-behalf-of-a-customer.md)참조 하세요.
 
  
 

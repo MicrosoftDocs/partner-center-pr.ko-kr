@@ -1,90 +1,98 @@
 ---
-title: "클라우드 고객 관계 관리 역량"
-description: "클라우드 고객 관계 관리 역량을 획득하여 Microsoft Dynamics CRM Online 또는 Dynamics 365 프리미엄 공급자로서 명성을 얻으세요."
+title: 클라우드 고객 관계 관리 역량
+description: 클라우드 고객 관계 관리 역량을 획득하여 Microsoft Dynamics CRM Online 또는 Dynamics 365 프리미엄 공급자로서 명성을 얻으세요.
 author: Daniel Simpson
-keywords: "역량, 역량, 클라우드 고객 관계 관리"
-ms.openlocfilehash: 42d2080f953d336687de355acd17f639fff23990
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: 역량, 역량, 클라우드 고객 관계 관리
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874823"
 ---
-#<a name="cloud-customer-relationship-management"></a>클라우드 고객 관계 관리
-클라우드 고객 관계 관리 역량을 획득하여 Microsoft Dynamics CRM Online 또는 Dynamics 365 프리미엄 공급자로서 명성을 얻으세요.
+>[!IMPORTANT]
+>이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
 
-##<a name="cloud-crm-reseller-option"></a>클라우드 CRM 재판매인 옵션
+<!--
+#Cloud Customer Relationship Management
+Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
 
-클라우드 고객 관계 관리 옵션은 수익 임계값 및 시험 요구 사항을 충족하여 능력을 증명하려는 파트너에게 적합합니다. 
+##Cloud CRM Reseller option
 
-###<a name="silver"></a>실버
+The Cloud Customer Relationship Management option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. 
 
-1. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
+###Silver
 
-    - **선진국 시장**
-        - 파트너는 TTM 기간에 순 신규 수익 US$100,000 이상의 CRM Online 또는 Dynamics 365 Customer Engagement(이전의 Plan 1) 클라우드 수익을 거둔 실적이 있어야 합니다.
+1. Your organization must meet the performance thresholds.
 
-    - **개발 도상국 시장**
-        - 파트너는 TTM 기간에 순 신규 수익 US$50,000 이상의 CRM Online 또는 Dynamics 365 Customer Engagement(이전의 Plan 1) 클라우드 수익을 거둔 실적이 있어야 합니다.
+    - **Developed Markets**
+        - Partner must have earned at least US$100,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period
 
-    - 이러한 고객과 공식 디지털 파트너로 제휴 관계를 맺어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).  
+    - **Developing Markets**
+        - Partner must have earned at least US$50,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period
+
+    - For these customers, you must be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 조직에서 **2**명 이상의 직원이 시험에 통과해야 합니다.
+2. Your organization must have at least **2** individuals pass the exam requirements.
 
-    - **1명**이 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2 714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM 고객 서비스
-        - [MB2 713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 판매
-        - [MB2 709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
+    - **1** individual must pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
+        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service(2018년 1월에 이용 가능)
+        - MB2-877: Microsoft Dynamics 365 for Field Service (Available January 2018)
 
-    - 또한 같은 직원이 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online 배포(2015)
-        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online 배포
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 Customer Engagement Online 배포
+    - The same individual also must pass one of the following exams:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
         
-    - 다른 직원이 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성
-        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성
-        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 사용자 지정 및 구성
+    - The other individual must pass one of the following exams:
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
-\* 2017년 12월 31일부터 사용 중지. 이러한 시험은 2018년 12월 31일까지 역량 자격으로 계속 인정됩니다. 
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. 
 
-###<a name="gold"></a>골드
+###Gold
 
-1. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
+1. Your organization must meet the performance thresholds.
 
-    - **선진국 시장**
+    - **Developed Markets**
     
-        - 파트너는 TTM 기간에 순 신규 수익 US$300,000 이상의 CRM Online 또는 Dynamics 365 Customer Engagement(이전의 Plan 1) 클라우드 수익을 거둔 실적이 있어야 합니다.
+        - Partner must have earned at least US$300,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period.
      
-    - **개발 도상국 시장**
+    - **Developing Markets**
 
-        - 파트너는 TTM 기간에 순 신규 수익 US$150,000 이상의 CRM Online 또는 Dynamics 365 Customer Engagement(이전의 Plan 1) 클라우드 수익을 거둔 실적이 있어야 합니다.
+        - Partner must have earned at least US$150,000 Cloud Revenue of CRM Online or Dynamics 365 Customer Engagement (formerly Plan 1) - Net New Revenue in the TTM period.
 
-    - 이러한 고객과 공식 디지털 파트너로 제휴 관계를 맺어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).  
+    - For these customers, you must be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
 
-2. 조직에서 **4**명 이상의 직원이 시험에 통과해야 합니다.
+2. Your organization must have at least **4** individuals pass the exam requirements.
 
-    - **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2 714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM 고객 서비스
-        - [MB2 713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
-        - [MB2 709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
+    - **2** individuals must each pass one of the following exams:
+        - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
+        - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
+        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service(2018년 1월에 이용 가능)
+        - MB2-877: Microsoft Dynamics 365 for Field Service (Available January 2018)
         
-        - 또한 같은 직원 **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online 배포(2015)
-        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online 배포
-        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 Customer Engagement Online 배포
+        - The same **2** individuals also must each pass one of the following exams:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
 
-    - 다른 직원 **2명**이 각각 다음 시험 중 하나를 통과해야 합니다.
-        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성
-        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성
-        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 사용자 지정 및 구성
+    - The other **2** individuals must each pass one of the following exams:
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
-\* 2017년 12월 31일부터 사용 중지. 이러한 시험은 2018년 12월 31일까지 역량 자격으로 계속 인정됩니다. 
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. 
+-->

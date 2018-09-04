@@ -4,18 +4,20 @@ description: 다양한 국가/지역에 대한 테넌트를 통합하려면 다�
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: 고객 마이그레이션, 프로비저닝, 테넌트 계정, 테넌트 통합
-ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875983"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 \[일부 정보는 상업용으로 출시되기 전에 상당 부분 수정될 수 있는 시험판 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보에 대해 명시적 또는 묵시적 보증을 하지 않습니다.\]

@@ -2,11 +2,13 @@
 title: 고객에게 Microsoft 제품 평가판 제공 | 파트너 센터
 description: 고객은 30일 동안 Microsoft 구독 제품을 시험 사용할 수 있습니다.
 author: labrenne
-ms.openlocfilehash: 238681a6b19fa4f021ef9882aa477a1a8937d462
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0babc2c529008d7b76250323b5c4ab5f2f18ada1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875313"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 평가판 제공
 

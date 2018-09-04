@@ -2,17 +2,19 @@
 title: Microsoft Cloud for US Government용 파트너 센터 | Microsoft Cloud for US Government용 파트너 센터
 description: Microsoft Cloud for US Government용 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 4f2fb444b3d0fe47b53b58429f5afb14bf00ed3b
-ms.sourcegitcommit: 089bdaa35976caf347bece5b890c32dcd074d85a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875643"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government용 파트너 센터
+# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터
 
 **적용 대상**
 
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: 데이터 보호 요구 사항 충족 
 

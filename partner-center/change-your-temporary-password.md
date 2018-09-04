@@ -3,11 +3,13 @@ title: 임시 암호 변경 | 파트너 센터
 description: 임시 암호를 받는 즉시 파트너 센터에 로그온하여 임시 암호를 변경하세요.
 author: labrenne
 Keywords: temporary password, change password, reset password
-ms.openlocfilehash: df87be5dfa7a2b1680addb5b832ac2a17324d4e8
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 67cea6b454e5af42469a527076a3585e4fa7600d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874973"
 ---
 # <a name="change-your-temporary-password"></a>임시 암호 변경
 

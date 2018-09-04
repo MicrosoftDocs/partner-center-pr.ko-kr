@@ -4,18 +4,20 @@ description: 이 문서에는 클라우드 솔루션 공급자 프로그램 가�
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
-ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876433"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 계약, 가격 목록 및 제품
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 
@@ -33,21 +35,21 @@ ms.lasthandoff: 03/09/2018
 
 Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다. 제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.
 
-[Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 일본](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 일본](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 대한민국](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 대한민국](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 대만](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 대만](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+[Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 ## <a href="" id="customeragreementtemplate"></a>고객 계약 템플릿
 
@@ -59,11 +61,13 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 ## <a name="pricing"></a>가격 책정
 
 
-**대시보드** 메뉴에 제공되는 **가격 및 제품** 페이지에서 라이선스 기준 및 사용량 기준 서비스에 대한 가격 책정 세부 정보를 다운로드합니다. 
+가격 책정 **대시보드** 메뉴에서 사용할 수 있는 **가격 책정 및 제품** 페이지에서 라이선스 기반, 사용량 기준 및 일회성 구매에 대 한 세부 정보를 다운로드 합니다. 
 
 라이선스 기준 가격표는 매달 업데이트되며, Microsoft는 적용 30일 전에 새 가격 책정을 릴리스합니다. 라이선스 기준 서비스의 예로는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM이 있습니다. 
 
 사용량 기준 가격 책정은 동적이며 자주 바뀝니다. 사용량 기준 서비스의 예로는 Microsoft Azure가 있습니다.
+
+일회성 구매 가격 동적 이기도합니다. 일회성 구매의 예로 Microsoft Azure reserved VM instances 합니다. 
 
 
 ## <a name="offers"></a>제품

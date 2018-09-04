@@ -3,18 +3,20 @@ title: 청구 기본 사항 | 파트너 센터
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876393"
 ---
 # <a name="billing-basics"></a>청구 기본 사항
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 ## <a name="overview-of-billing"></a>청구 개요
@@ -168,8 +170,8 @@ Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모
 2.  **고객** 페이지에서 주문 내역을 확인하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 기록을 펼쳐봅니다. 
 3.  **주문 보기**를 선택하여 주문 내역을 표시합니다.
 
-#### <a name="create-a-credit-or-void-note"></a>크레딧 또는 빈 어음 만들기
+#### <a name="download-a-credit-note"></a>신용 메모를 다운로드 합니다.
 
-송장을 취소한 다음 새 송장을 발행해야 하는 상황이 발생할 수 있습니다. 예를 들어, 고객이 기업 이름을 변경했는데 기존 이름으로 송장을 수신하는 경우입니다. 
-
-송장을 취소하고 새 송장을 발급 받으려면 조정 아래 청구 페이지에서 양식을 다운로드합니다.
+(Void 송장) 전체 환불 액과 재 청구를 실습는 신용 메모 취소 원래 송장 및 전체 새 문서를 제공 해 드리겠습니다. 다음과 같은 이유로 신용/재 청구 금액을 요청할 수 있습니다.
+-   주소 또는 구매 주문 수정
+-   송장이 생성 하 고 세금 환불 적용 합니다. 원래 송장에 다시 끌어온 세금 환불을 가져오려면 신용/있으면 요청할 수 있습니다. 원래 송장 및 다음 환불에서 풀의 신용/있으면을 요청 하는 대로도, 환불에 대 한 마찬가지입니다.

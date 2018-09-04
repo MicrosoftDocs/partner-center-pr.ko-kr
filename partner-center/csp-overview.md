@@ -3,11 +3,13 @@ title: 클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 �
 description: 클라우드 솔루션 공급자 프로그램을 통해 신규 고객 및 새로운 전문 지식으로 비즈니스를 성장시킬 수 있습니다.
 author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875753"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 
 
@@ -26,11 +28,22 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판
 
 ### <a name="direct-bill-model"></a>직접 청구 모델
 
- 직접 청구 모델에서는 파트너는 Microsoft 제품 및 구독을 Microsoft에서 직접 구매하여 사내 영업 담당자를 통해 고객에게 직접 판매합니다. 이미 적절한 판매, 청구 및 지원 인프라를 운영하고 있거나 개발하려고 하는 파트너는 CSP 직접 모델을 선택할 수 있습니다. 직접 CSP 모델에 적합한 파트너는 다음 필수 요건을 충족해야 합니다.
+ 직접 청구 모델에서는 파트너는 Microsoft 제품 및 구독을 Microsoft에서 직접 구매하여 사내 영업 담당자를 통해 고객에게 직접 판매합니다. 이미 적절한 판매, 청구 및 지원 인프라를 운영하고 있거나 개발하려고 하는 파트너는 CSP 직접 모델을 선택할 수 있습니다. 직접 파트너를 요구 사항 최근에 변경 하 고 2018 년 8 월 31 일 기준으로 적용 됩니다. 직접 파트너는 다음 등록 기간 2018 년 8 월 31 일 이후 부터는 새 요구 사항을 충족 해야 합니다.
+
+
+#### <a name="new-expanded-requirements"></a>새 확장 된 요구 사항:
+
+지원
+- Microsoft 파트너 패키지에 대 한 지원 고급 일대일, 우선 순위가 지정 된 클라우드 지원을 구매 하 여 지원 기능을 확장 합니다. 또는 자동 관리 서비스의 전체 카탈로그에 액세스 하려면 파트너 패키지에 대 한 Microsoft 프리미어 지원, 선택 24/7 관리자 권한 중단/수정 지원 및 기술 계정 관리 클라우드, 하이브리드, 및 온-프레미스에서 합니다. 
+
+서비스
+
+- 하나 이상의 관리 서비스, IP 서비스 또는 고객 솔루션 응용 프로그램을 제공 하는 방법을 보여 줍니다. 관리 되는 서비스를 추가 하는 방법에 대 한 자세한 정보
+
+- 최소 인프라 기능 청구 프로 비전 등을 충족 해야 합니다.
+이러한 요구 사항을 충족 하는 직접 청구 파트너는 계속 비즈니스 성장을 보여 주는 것인지 연간 성능 모니터링 하는 것. 현재 위치에 없는 특정 성능 목표 가지가 있지만 Microsoft 바 나중에 성능 구현할 수 있습니다. 
+
 - 판매하기 원하는 위치에 대한 활성 MPN(Microsoft 파트너 네트워크) ID
-- 기존 고객 지원 인프라
-- 기존 고객 청구 인프라
-- 기술 통합 및 지원 준비에 투자할 자금
 
 
 ### <a name="indirect-model"></a>간접 모델

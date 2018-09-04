@@ -3,11 +3,13 @@ title: 카탈로그 사용자 지정 | 파트너 센터
 description: 카탈로그에는 파트너가 판매할 수 있는 모든 Microsoft 제품과 추가 기능이 나열됩니다.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: a0a8cf983abdbcd08f0c7f75307ea265092182d8
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874933"
 ---
 # <a name="customize-the-catalog"></a>카탈로그 사용자 지정
 

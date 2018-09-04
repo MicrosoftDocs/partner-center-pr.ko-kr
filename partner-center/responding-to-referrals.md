@@ -1,13 +1,15 @@
 ---
-title: "추천에 응답 | 파트너 센터"
-description: "파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요."
+title: 추천에 응답 | 파트너 센터
+description: 파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요.
 author: KPacquer
-keywords: "추천, RFI, 파트너 찾기"
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+keywords: 추천, RFI, 파트너 찾기
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875423"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>파트너 센터에서 추천에 응답
 
@@ -59,7 +61,7 @@ RFI의 개요를 보여 드리겠습니다. 여기서 추천에 대해 좀 더 �
 
 다음은 귀사에 적합한 추천을 더 많이 받을 수 있는 몇 가지 팁입니다.
 
-*  **팀이 들어오는 알림을 받을 수 있도록 각 지역의 [비즈니스 프로필](create-a-marketing-profile.md)**에서 연락처 정보를 검토합니다.
+*  **팀이 들어오는 알림을 받을 수 있도록 각 지역의 [비즈니스 프로필](create-a-marketing-profile.md)** 에서 연락처 정보를 검토합니다.
 
 *  [비즈니스 프로필](create-a-marketing-profile.md)에서 **귀사의 고유한 전문 지식과 비즈니스 모델을 잘 나타내는 키워드 및 기본 설정을 선택합니다**. 귀사가 관심 없는 추천을 생성할 수 있는 키워드를 제거합니다. 특정 규모의 회사와 거래하는 데 관심이 없는 경우 이 기본 설정을 업데이트합니다.
 

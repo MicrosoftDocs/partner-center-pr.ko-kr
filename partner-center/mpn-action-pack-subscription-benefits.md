@@ -3,12 +3,13 @@ title: Microsoft Action Pack 구독 혜택 | 파트너 센터
 description: 이 페이지의 정보가 https://partner.microsoft.com/membership/internal-use-software로 이동했습니다.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 1a8b654ef72aa6114cb05ace6d6f99171a684dd2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8967965341981161e6818b870198465913b9d3ab
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207213"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876833"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>[Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 세부 정보를 확인하세요. 
 

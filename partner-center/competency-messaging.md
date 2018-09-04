@@ -1,42 +1,49 @@
 ---
-title: "메시지 역량"
-description: "메시지 역량은 검증된 Microsoft Exchange 솔루션 공급자임을 홍보하여 경쟁 우위를 획득하고, 영업 주기를 단축하고, 비즈니스를 성장시키는 파트너를 인증하는 역량입니다."
+title: 메시지 역량
+description: 메시지 역량은 검증된 Microsoft Exchange 솔루션 공급자임을 홍보하여 경쟁 우위를 획득하고, 영업 주기를 단축하고, 비즈니스를 성장시키는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
-keywords: "역량, 역량, 메시지"
-ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: 역량, 역량, 메시지
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875683"
 ---
-#<a name="messaging"></a>메시지
-메시지 역량은 검증된 Microsoft Exchange 솔루션 공급자임을 홍보하여 경쟁 우위를 획득하고, 영업 주기를 단축하고, 비즈니스를 성장시키는 파트너를 인증하는 역량입니다.
+>[!IMPORTANT]
+>이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
 
-##<a name="hybrid-services-partner-option"></a>하이브리드 서비스 파트너 옵션
-시험 또는 인증을 통과하여 제품 지식을 테스트하세요.
+<!--
+#Messaging
+The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
 
-###<a name="silver"></a>실버
-1. 조직의 직원 **2명**이 시험 또는 인증 요구 사항을 통과해야 합니다.
+##Hybrid Services Partner option
+Put your product knowledge to the test by passing exams or certifications.
+
+###Silver
+1. Your organization must have **2** individuals pass the exam or certification requirements.
     
-    - **2명**이 각각 다음 시험을 모두 통과해야 합니다.
-        - [시험 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Microsoft Office 365 서비스 지원
-        - [시험 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Microsoft Exchange Server 2016 설계 및 배포
+    - **2** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **또는**
+    **OR**
 
-     - **2명**이 다음 인증을 통과해야 합니다.
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): 생산성
+     - **2** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a>골드
-1. 조직의 직원 **4명**이 시험 또는 인증 요구 사항을 통과해야 합니다.
+###Gold
+1. Your organization must have **4** individuals pass the exam or certification requirements.
 
-    - **4명**이 각각 다음 시험을 모두 통과해야 합니다.
-        - [시험 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Microsoft Office 365 서비스 지원
-        - [시험 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Microsoft Exchange Server 2016 설계 및 배포
+    - **4** individuals must each pass all the following exams:
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
+        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **또는**
+    **OR**
 
-    - **4명**이 다음 인증을 통과해야 합니다.
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): 생산성
-
+    - **4** individuals must pass the following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+-->
 

@@ -3,12 +3,13 @@ title: 타사 소프트웨어를 포트폴리오에 추가 | 파트너 센터
 description: Microsoft 제품을 사용하는 타사 소프트웨어 구입
 author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어
-ms.openlocfilehash: 5b2e06b026f1ab9c9e1dfbe14d22aef9af83fa7d
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991720"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875523"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>타사 소프트웨어를 포트폴리오에 추가
 

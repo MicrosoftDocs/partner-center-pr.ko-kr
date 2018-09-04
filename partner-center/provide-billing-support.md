@@ -1,13 +1,15 @@
 ---
-title: "청구 지원 제공 | 파트너 센터"
-description: "귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다."
+title: 청구 지원 제공 | 파트너 센터
+description: 귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
-ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4108d46428c4b64c98ab87064e20b6d0c2626840
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874523"
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 
@@ -17,35 +19,34 @@ ms.lasthandoff: 01/25/2018
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다.
+자체 고객와 청구 관계 경우 고객의 청구 관련 질문에 대답을 담당 합니다.
 
-## <a href="" id="microsoftresources"></a>Microsoft 리소스
+-   Microsoft 시간 내에 지급에 책임이 있습니다.
+-   고객 세부 정보 컬렉션 처리 및 고객의 구독, 서비스 또는 소프트웨어에 액세스 하는 경우 영향는 명확한 컬렉션 정책을 설정 하는 것이 좋습니다.
+-   필요한 경우 미결제에 대 한 제품에 대 한 고객의 액세스를 해제할 수 있습니다.
 
+## <a name="microsoft-partner-support-guidance"></a>Microsoft 파트너 지원 지침
 
--   CIE(고객 몰입 환경) 실습 교육에 대한 액세스를 비롯하여 MPN을 통해 제품 교육 및 문제 해결 교육을 받습니다.
--   vKB(가상 기술 자료)를 통해 설명서에 액세스합니다.
--   TechNet에 게시된 기술 솔루션을 찾고, MPN 멤버십의 일부로 파트너별 지원에 액세스합니다.
--   프리미어 지원을 구매하여 증분 지원 혜택을 받을 수 있습니다.
+CSP 모델에서 거래 파트너에 게 고객에 게 신뢰할 수 있는 관리자 되며는 관계를 종단 간, 고객에 질문 또는 문제가 지원을 포함 하 여 소유 합니다. 지원 터치를 통해 포인트 파트너는 고객 및 비즈니스, 새로운 서비스 및 솔루션을 원하는 값 드라이브를 식별 하는 방법에 대 한 자세히 알아볼 수 있습니다.
 
-## <a href="" id="delinquentcustomeraccounts"></a>체납 고객 계정
+지원 요구 사항을 충족 하려면 파트너 지원 다른 엔터티에서 재판매할 수, 전부 또는 일부는 지원 구조를 아웃소싱 할 수 및/또는 직접 지원을 제공 하는 구조를 설정할 수 있습니다.  파트너가 고객에 게 제공 하는 지원의 일부 또는 전체 청구할 수 있습니다. 파트너가 고객에 게 서비스 시간을 제공 되며 (지원에 대 한 충전) 하는 경우 가격 뿐만 아니라 메서드 문의 지원을 아이콘만 해야 합니다. 
 
+파트너는 고객의 지원 요청을 수신 파트너의는 최선을 다 해 문제를 진단 하 고 다음 범위의 기준 지원 범위 내에 있는 문제를 해결 합니다. 파트너는 문제를 해결할 수 없는 경우 다음 지원 수단을 통해 Microsoft로 문제 에스컬레이션 수 있습니다.:
 
--   Microsoft에 대금을 결제해야 합니다.
--   구독에 대한 액세스가 영향을 받는 시기와 컬렉션 프로세스를 자세히 설명하는 명확한 컬렉션 정책을 고객과 설정하는 것이 좋습니다.
--   필요한 경우 미결제 고객이 구독에 액세스하지 못하도록 설정할 수 있습니다.
+- **상용** 문제 지원은 CSP 프로그램의 모든 파트너에 게 사용할 수 있습니다.
+-   **기술** 문제 지원은 통해 사용할 수 있습니다.
+    -   파트너 (기본 수수료)에 대 한 프리미어 지원
+    -   파트너 (기본 수수료) 위한 고급 지원
+    -   시그니처 클라우드 지원 (골드/실버 역량 포함)
 
-## <a href="" id="billingdisputes"></a>청구 분쟁
+### <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
+각 온라인 서비스에 고객에 게 청구, 구독 관리 및 기술 지원 제공 하기 위한 특정 및 자세한 요구 사항이 있습니다. 자세한 내용은 다음 문서를 참조 하세요.
 
--   [문제를 보고](report-problems-with-partner-center.md)하여 청구 질문 또는 분쟁을 제기합니다.
+-   [CSP를 통해 Dynamics 365 구독 판매](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-## <a href="" id="escalatingissues"></a>문제 에스컬레이션
+-   [Azure 구독을 CSP를 통해 판매](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-
--   지원이 필요한 경우 고객 대신 파트너 지원 채널을 통해 [Microsoft로 문제를 에스컬레이션](escalate-problems-to-microsoft.md)합니다.
--   문제가 해결되면 고객에게 해결 사실을 알려 Microsoft와 고객을 연계해야 합니다. 
-
+-   [CSP를 통해 office 365 구독 판매](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-청구 분쟁 모든 청구 관련 질문 또는 분쟁 문제를 보고합니다(https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center).
-
 

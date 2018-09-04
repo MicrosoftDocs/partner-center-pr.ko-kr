@@ -1,10 +1,14 @@
 ---
-title: "새로운 파트너 센터 기능 시험 사용"
-description: "새로운 파트너 센터 기능이 출시되기 전에 시험 사용해 보시고 여러분의 생각을 알려주세요. 파트너 센터를 더욱 개선하려면 여러분의 도움이 필요합니다!"
+title: 새로운 파트너 센터 기능 시험 사용
+description: 새로운 파트너 센터 기능이 출시되기 전에 시험 사용해 보시고 여러분의 생각을 알려주세요. 파트너 센터를 더욱 개선하려면 여러분의 도움이 필요합니다!
 author: MaggiePucciEvans
-ms.openlocfilehash: 61c8188ec08ed8fb22c4e3eade24e7273e2dd6ed
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876663"
 ---
 # <a name="test-drive-new-partner-center-features"></a>새로운 파트너 센터 기능 시험 사용
 

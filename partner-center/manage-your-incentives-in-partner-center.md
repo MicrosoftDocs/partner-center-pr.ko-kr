@@ -1,12 +1,14 @@
 ---
-title: "파트너 센터 계정 관리 | 파트너 센터"
-description: "파트너의 수익과 성장을 도와주는 Microsoft 파트너 인센티브 프로그램"
+title: 파트너 센터 계정 관리 | 파트너 센터
+description: 파트너의 수익과 성장을 도와주는 Microsoft 파트너 인센티브 프로그램
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875883"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>파트너 센터에서 인센티브 관리 
 
@@ -50,3 +52,4 @@ ms.lasthandoff: 07/07/2017
 
 [인센티브 지급액에 대한 이해](understand-incentive-payouts.md)
 
+자세한 내용은 [파트너 인센티브 게임이 협동 Guidebook](https://assets.microsoft.com/coop-guidebook.pdf) 을 참조 하세요.

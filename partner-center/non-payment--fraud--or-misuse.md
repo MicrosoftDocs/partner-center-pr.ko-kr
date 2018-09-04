@@ -1,21 +1,23 @@
 ---
-title: "미결제, 사기 또는 오용 | 파트너 센터"
-description: "고객의 제품 및 서비스 미결제와 부정한 활동 또는 오용을 포함하여 온라인 트랜잭션의 위험을 관리하기 위한 전략입니다."
+title: 미결제, 사기 또는 오용 | 파트너 센터
+description: 고객의 제품 및 서비스 미결제와 부정한 활동 또는 오용을 포함하여 온라인 트랜잭션의 위험을 관리하기 위한 전략입니다.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단"
+keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876283"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 사용자는 귀하의 고객에 의한 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적인 책임을 집니다. 그러므로 사기 예방 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다.

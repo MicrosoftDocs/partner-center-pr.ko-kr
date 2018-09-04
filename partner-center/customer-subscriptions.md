@@ -3,11 +3,13 @@ title: 고객 구독 | 파트너 센터
 description: 파트너는 고객에게 구독을 판매하고 파트너 센터를 통해 관리할 수 있습니다.
 author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
-ms.openlocfilehash: 95210c91a49c54eb28984ce74b2685af7d164131
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3c051f0fbf627c7e7478e18c0b685eb7a45cf879
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876493"
 ---
 # <a name="customer-subscriptions"></a>고객 구독
 

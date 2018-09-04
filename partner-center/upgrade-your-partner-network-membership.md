@@ -1,13 +1,15 @@
 ---
-title: "Microsoft 파트너 네트워크 멤버십 업그레이드 | 파트너 센터"
-description: "Microsoft 파트너 네트워크 멤버십을 업그레이드하면 독점적 회원 혜택을 이용할 수 있는 자격이 부여됩니다. 제공되는 제품을 찾아서 구입하는 방법을 알아보세요."
+title: Microsoft 파트너 네트워크 멤버십 업그레이드 | 파트너 센터
+description: Microsoft 파트너 네트워크 멤버십을 업그레이드하면 독점적 회원 혜택을 이용할 수 있는 자격이 부여됩니다. 제공되는 제품을 찾아서 구입하는 방법을 알아보세요.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875713"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -27,7 +29,7 @@ Microsoft의 파트너 프로그램은 비즈니스 목표 달성을 도와주�
 
   - 골드 역량 - 특정 Microsoft 솔루션 영역 내에서 최고의 능력
 
-Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. Microsoft 파트너 네트워크의 멤버십에 대한 자세한 내용을 보려면 [https://partner.microsoft.com](https://partner.microsoft.com)을 방문하세요.
+Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. 으로 Microsoft 파트너 네트워크의 멤버십에에서 대 한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입
@@ -42,7 +44,7 @@ Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영�
 
 - 매달 미화 100달러의 Microsoft Azure 크레딧 제공
 
-Microsoft Action Pack에 대한 자세한 내용을 보려면 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)으로 이동하세요. 
+로 Microsoft Action Pack에 대 한 자세한 내용은 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 >**참고** 이 링크를 따라가면 다른 웹 사이트로 이동됩니다. 다시 이 사이트, 즉 파트너 센터로 돌아와서 Action Pack을 구독하세요.
 
@@ -55,7 +57,7 @@ Microsoft Action Pack에 대한 자세한 내용을 보려면 [https://partner.m
 
 3. **다음**을 선택하여 결제 정보를 추가합니다. 
 
-4. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)**를 선택합니다. 
+4. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)** 를 선택합니다. 
 
 5. 결제 정보를 입력하고 **다음**을 선택합니다.
 
@@ -89,7 +91,7 @@ Microsoft Action Pack에 대한 자세한 내용을 보려면 [https://partner.m
 
 5. **다음**을 선택하여 결제 정보를 추가합니다. 
 
-6. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)**를 선택합니다. 
+6. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)** 를 선택합니다. 
 
 7. 결제 정보를 입력하고 **다음**을 선택합니다.
 
@@ -104,7 +106,7 @@ Microsoft Action Pack에 대한 자세한 내용을 보려면 [https://partner.m
 
 Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문의해야 합니다.
 
-1. https://partnercenter.microsoft.com/partner/support로 이동합니다.
+1. 이동 하려면 https://partnercenter.microsoft.com/partner/support.
 
 2. **파트너 센터에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.
 

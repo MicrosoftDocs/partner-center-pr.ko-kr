@@ -1,13 +1,15 @@
 ---
 title: 파트너 센터 계정 관리 | 파트너 센터
-description: 클라우드 솔루션 공급자 프로그램에 대한 가입이 받아들여지면 귀사 또는 귀사의 관리자는 파트너 센터에서 회사 계정을 설정해야 합니다.
+description: 귀사의 프로필, 은행 및 세금 정보 및 사용자를 관리 합니다.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: eee73df917d894fa780e15eedb61b7180b511047
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 225e2e6ea5bb9d0f5527974edc488707aa46989a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875963"
 ---
 # <a name="manage-your-partner-dashboard-account"></a>파트너 대시보드 계정 관리
 
@@ -15,9 +17,12 @@ ms.lasthandoff: 04/08/2018
 
 -  파트너 센터
 
-등록 시 파트너 대시보드에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 대시보드에서 계정이 생성되고 나면 사용자나 사용자의 관리자가 지원 세부 사항, 파일 세금 면제(해당되는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필을 설정해야 합니다. 
+등록 시 파트너 대시보드에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 대시보드에서 계정을 만든 사용자나 사용자의 관리자가 지원 세부 사항, 파일 세금 면제 해당 하는 경우 및 기본 연락처 정보를 포함 하 여 회사의 전체 프로필 설정 완료 해야 합니다. 
 
-또한 관리자는 고객의 추가 또는 관리, 구독 판매, 청구서 및 청구서 발부, 비즈니스 프로필 생성, 추천 관리 및 지원 제공을 위해 파트너 대시보드를 사용하는 모든 직원에 대해 사용자 계정을 생성해야 합니다.
+사용자나 사용자의 관리자도 사용자 계정을 만들 고객, 구독 판매, 추가 또는 관리에 대 한 파트너 대시보드를 사용 하는 모든 사용자에 대 한 인센티브 협력 청구 및 청구서 발부, 비즈니스 프로필 생성, 추천 관리 작업 프로그램 및 지원을 제공 합니다.
+
+>[!NOTE]
+>계정 설정은 대시보드의 오른쪽 위 모서리에 있습니다. 아이콘을 선택 하면 관리를 선택 수 있습니다. 예를 들어 **계정 아이콘**선택 하 고 **사용자 관리**를 선택 합니다. 사용자 관리 페이지로 이동 하 고 모든 **계정 설정** 옵션을 포함 하는 추가 창이 열립니다.
 
 
 ## <a name="resources-to-help-you-manage-your-partner-dashboard-account"></a>파트너 대시보드 계정을 관리하는 데 도움이 되는 리소스

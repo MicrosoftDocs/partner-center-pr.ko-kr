@@ -4,11 +4,13 @@ description: 이제 국제 비즈니스를 하는 파트너는 지역 권한 설
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Azure AD 테넌트, 사용자 테넌트 통합, CSP의 테넌트, CSP의 파트너 계정, CSP 시장 및 지역, CSP를 통해 어디에서 판매할 수 있나요?
-ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876383"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>CSP의 테넌트 통합 전략
 

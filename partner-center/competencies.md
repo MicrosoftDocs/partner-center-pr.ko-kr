@@ -4,11 +4,13 @@ description: 실버 및 골드 Microsoft 역량을 획득하여 특수한 비즈
 author: KPacquer
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, 혜택, 성과 목표, 기술 목표
 robots: noindex,nofollow
-ms.openlocfilehash: 0e1fc6639888c67f6ce420106e9a0e41a267ac36
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1702a5ebca4ee33a32d2a30bb55c9a4b6520b8e2
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876653"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

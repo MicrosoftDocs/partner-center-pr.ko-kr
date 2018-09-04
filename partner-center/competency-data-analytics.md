@@ -1,112 +1,119 @@
 ---
-title: "데이터 분석 역량"
-description: "데이터 분석 역량은 고객이 보다 심층적인 정보를 발견하고 미래를 예측하고 권장 사항을 생성할 수 있도록 도와주는 데이터 검사 비즈니스를 영위하는 조직에게 조직의 능력을 쌓고 증명할 수 있는 플랫폼을 제공합니다."
+title: 데이터 분석 역량
+description: 데이터 분석 역량은 고객이 보다 심층적인 정보를 발견하고 미래를 예측하고 권장 사항을 생성할 수 있도록 도와주는 데이터 검사 비즈니스를 영위하는 조직에게 조직의 능력을 쌓고 증명할 수 있는 플랫폼을 제공합니다.
 author: Daniel Simpson
-keywords: "역량, 역량, 데이터 분석"
-ms.openlocfilehash: 369bf2e35270a5c7eeb7b1db2c50bac4922580aa
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: 역량, 역량, 데이터 분석
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875303"
 ---
-#<a name="data-analytics"></a>데이터 분석
-데이터 분석 역량은 고객이 보다 심층적인 정보를 발견하고 미래를 예측하고 권장 사항을 생성할 수 있도록 도와주는 데이터 검사 비즈니스를 영위하는 조직에게 조직의 능력을 쌓고 증명할 수 있는 플랫폼을 제공합니다.
+>[!IMPORTANT]
+>이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
 
-- [데이터 분석 전문가 옵션](#data-analytics-specialist-option)
-- [데이터 분석 초보자 옵션](#data-analytics-beginners-option)
-- [Power BI 옵션](#power-bi-option)
+<!--
+#Data Analytics
+If your organization is into the business of examining the data that helps customers to discover deeper insights, make predictions, or generate recommendations, then the Data Analytics competency gives you a platform to build and prove your capabilities.
 
-##<a name="data-analytics-specialist-option"></a>데이터 분석 전문가 옵션
-데이터 분석 전문가 옵션은 특정 전문 영역의 시험을 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 데이터 분석 역량을 획득하세요.
+- [Data Analytics Specialist option](#data-analytics-specialist-option)
+- [Data Analytics Beginners option](#data-analytics-beginners-option)
+- [Power BI option](#power-bi-option)
 
-###<a name="silver"></a>실버
-1. 조직의 직원 **1명**이 세 가지 핵심 영역 **비즈니스 인텔리전스**, **고급 분석**, **빅 데이터** 중 하나의 시험을 통과하고 평가를 통과해야 합니다.
+##Data Analytics Specialist option
+The Data Analytics Specialist option is ideal if you prefer to prove your skills by passing exams within a particular Area of Specialization. Complete all the steps within the option to attain the Data Analytics competency.
 
-    - **비즈니스 인텔리전스** 핵심 영역
-        - [시험 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): SQL Data Warehouse 구현 
-        - [시험 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): SQL 데이터 모델(베타) 개발
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individual must pass an assessment.
 
-    - **고급 분석** 핵심 영역
-        - [시험 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Microsoft R로 빅 데이터 분석
-        - [시험 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Azure 기계 학습을 통해 클라우드 데이터 과학 수행
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - **빅 데이터** 핵심 영역
-        - [시험 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): 빅 데이터 분석 솔루션 설계 및 구현
-        - [시험 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Microsoft HD Insight에서 데이터 엔지니어링 수행
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **그리고**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - 같은 직원이 다음 평가를 통과해야 합니다.
-        - [데이터 분석 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-###<a name="gold"></a>골드
-1. 조직의 직원 **2명**이 세 가지 핵심 영역 **비즈니스 인텔리전스**, **고급 분석**, **빅 데이터** 중 하나의 시험을 통과하고 평가를 통과해야 합니다.
+    - The same individual must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - **비즈니스 인텔리전스** 핵심 영역
-        - [시험 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): SQL Data Warehouse 구현 
-        - [시험 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): SQL 데이터 모델(베타) 개발
+###Gold
+1. Your organization must have **2** individuals pass all of the exams in any one of the three focus areas: **Business Intelligence**, **Advanced Analytics**, OR **Big Data**, and the individuals must pass an assessment.
 
-    - **고급 분석** 핵심 영역
-        - [시험 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Microsoft R로 빅 데이터 분석
-        - [시험 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Azure 기계 학습을 통해 클라우드 데이터 과학 수행
+    - **Business Intelligence** focus area
+        - [Exam 70-767](https://www.microsoft.com/en-us/learning/exam-70-767.aspx): Implementing a SQL Data Warehouse 
+        - [Exam 70-768](https://www.microsoft.com/en-us/learning/exam-70-768.aspx): Developing SQL Data Models (Beta)
 
-    - **빅 데이터** 핵심 영역
-        - [시험 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): 빅 데이터 분석 솔루션 설계 및 구현
-        - [시험 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Microsoft HD Insight에서 데이터 엔지니어링 수행
+    - **Advanced Analytics** focus area
+        - [Exam 70-773](https://www.microsoft.com/en-us/learning/exam-70-773.aspx): Analyzing Big Data with Microsoft R
+        - [Exam 70-774](https://www.microsoft.com/en-us/learning/exam-70-774.aspx): Perform Cloud Data Science with Azure Machine Learning
 
-    **그리고**
+    - **Big Data** focus area
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [Exam 70-775](https://www.microsoft.com/en-us/learning/exam-70-775.aspx): Perform Data Engineering on Microsoft HD Insight
 
-    - 두 직원 모두 다음 평가를 통과해야 합니다. 
-        - [데이터 분석 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+    **AND**
 
-##<a name="data-analytics-beginners-option"></a>데이터 분석 초보자 옵션
-데이터 분석 초보자 옵션은 평가를 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 데이터 분석 역량을 획득하세요.
+    - Both the individuals must pass the following assessment: 
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-###<a name="silver"></a>실버
-1. 조직의 직원 **2명**이 필수 평가를 통과해야 합니다.
+##Data Analytics Beginners option
+The Data Analytics Beginners option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Analytics competency.
 
-    - **2명**이 다음 평가를 통과해야 합니다.
-        - [데이터 분석 기본 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    **그리고**
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - 같은 직원 **2명**이 다음 평가 중 하나를 통과해야 합니다.
-        - [데이터 분석을 위한 비즈니스 인텔리전스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [데이터 분석을 위한 고급 분석 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [데이터 분석을 위한 빅 데이터 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-###<a name="gold"></a>골드
-1. 조직의 직원 **4명**이 필수 평가를 통과해야 합니다.
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-    - **4명**이 다음 평가를 통과해야 합니다.
-        - [데이터 분석 기본 기술 평가 ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    **그리고**
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment Data Analytics Foundational ](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14356&scoId=w5Ubm2ygB_4304778676)
 
-    - 같은 직원 **4명**이 다음 평가 중 하나를 통과해야 합니다.
-        - [데이터 분석을 위한 비즈니스 인텔리전스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
-        - [데이터 분석을 위한 고급 분석 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
-        - [데이터 분석을 위한 빅 데이터 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
+    **AND**
 
-##<a name="power-bi-option"></a>Power BI 옵션
-Power BI 옵션은 Power BI 실제 사용자를 배포하고 평가를 통과하여 기술을 증명하려는 경우에 적합합니다. 옵션 내의 모든 단계를 완료하여 데이터 분석 역량을 획득하세요.
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+        - [Technical Assessment Advanced Analytics for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=10275&scoId=bweuuySgB_3904778676)
+        - [Technical Assessment Big Data for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14349&scoId=qb5OGFigB_6604778676)
 
-###<a name="silver"></a>실버
+##Power BI option
+The Power BI option is ideal for you if you prefer to prove your skills by deploying Power BI seats as well as passing an assessment. Complete all the steps within to attain the Data Analytics competency.
 
-1. 조직의 직원 **1명**이 필수 평가를 통과해야 합니다.
+###Silver
 
-    - [데이터 분석을 위한 비즈니스 인텔리전스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+1. Your organization must have **1** individual pass the required assessment.
+
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
+2. Your organization must meet the performance thresholds.
 
-    - 자격을 얻으려면 Power BI 실제 사용자 250개를 배포하고 Power BI 구독의 공식 파트너로 지정되어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).
+    - Deploy 250 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-###<a name="gold"></a>골드
-1. 조직의 직원 **2명**이 필수 평가를 통과해야 합니다.
-    - [데이터 분석을 위한 비즈니스 인텔리전스 기술 평가](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
+###Gold
+1. Your organization must have **2** individuals pass the required assessment.
+    - [Technical Assessment Business Intelligence for Data Analytics](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14350&scoId=u5YzfgigB_1504778676)
   
-2. 조직에서 다음과 같은 성과 요구 사항을 충족해야 합니다.
-    - 자격을 얻으려면 Power BI 실제 사용자 1000개를 배포하고 Power BI 구독의 공식 파트너로 지정되어야 합니다.
-    - 제휴에 대해 [자세히 알아보세요](https://partner.microsoft.com/en-us/membership/digital-partner-of-record).
-
+2. Your organization must meet the performance thresholds.
+    - Deploy 1,000 seats of Power BI and be attached as Partner of Record for Power BI subscriptions to qualify.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
+-->

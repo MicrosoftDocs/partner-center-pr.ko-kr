@@ -1,85 +1,93 @@
 ---
-title: "응용 프로그램 통합 역량"
-description: "응용 프로그램 통합 역량은 고유의 응용 프로그램과 솔루션을 Microsoft 에코시스템의 다양한 제품과 통합하는 파트너 및 개발자를 인증하는 역량입니다."
+title: 응용 프로그램 통합 역량
+description: 응용 프로그램 통합 역량은 고유의 응용 프로그램과 솔루션을 Microsoft 에코시스템의 다양한 제품과 통합하는 파트너 및 개발자를 인증하는 역량입니다.
 author: Daniel Simpson
-keywords: "역량, 역량, 응용 프로그램 통합"
-ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: 역량, 역량, 응용 프로그램 통합
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876693"
 ---
-# <a name="application-integration"></a>응용 프로그램 통합 
-응용 프로그램 통합 역량은 고유의 응용 프로그램과 솔루션을 Microsoft 에코시스템의 다양한 제품과 통합하는 파트너 및 개발자를 인증하는 역량입니다. 
+>[!IMPORTANT]
+>이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
 
-## <a name="application-integrator-option"></a>응용 프로그램 통합자 옵션
+<!--
 
-응용 프로그램 통합자 옵션은 시험 또는 인증을 통과하여 기술을 증명하려는 경우에 적합합니다. 원하는 핵심 영역에서 시험을 선택하세요. 옵션 내의 모든 단계를 완료하여 응용 프로그램 개발 역량을 획득하세요.
+# Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-###<a name="silver"></a>실버
-1. 조직의 직원 **4명**이 시험과 평가를 모두 통과해야 합니다.
+## Application Integrator option
 
-    - **2명**이 다음 시험 중 하나를 통과해야 합니다.
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Complete all the steps within to attain the Application Integration competency.
 
-        - **Windows Server** 핵심 영역
-            - [시험 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 고급 Windows Server 2012 서비스 구성
-            - [시험 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016을 사용하여 설치 저장 및 계산
-            - [시험 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016으로 네트워킹
-            - [시험 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016으로 신원 확인
+###Silver
+1. Your organization must have **2** individuals pass both exams and assessments.
 
-        - **SQL Server** 핵심 영역
+    - **2** individuals must pass any one of the following exams:
 
-            - [시험 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Microsoft SQL Server 2012 데이터베이스 관리
-            - [시험 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Microsoft SQL Server 2012 데이터베이스 개발
-            - [시험 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): SQL 데이터베이스 개발
-            - [시험 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): SQL 데이터베이스 인프라 관리
+        - **Windows Server** focus area
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - **C#** 핵심 영역 
+        - **SQL Server** focus area
 
-            - [시험 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): C# 프로그래밍
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - **Azure** 핵심 영역
+        - **C#** focus area 
 
-            - [시험 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Windows Azure 및 웹 서비스 개발
-            - [시험 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Microsoft Azure 솔루션 개발
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **그리고**
+        - **Azure** focus area
 
-    - **2명**이 다음 평가를 통과해야 합니다.
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [응용 프로그램 통합에 대한 BizTalk 기술 역량 평가(BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
-###<a name="gold"></a>골드
-1. 조직의 직원 **4명**이 시험과 평가를 모두 통과해야 합니다.
+    - **2** individuals must pass the following assessment:
 
-    - **4명**이 다음 시험 중 하나를 통과해야 합니다.
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 
-        - **Windows Server** 핵심 영역
+###Gold
+1. Your organization must have **4** individuals pass both exams and assessments.
 
-            - [시험 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 고급 Windows Server 2012 서비스 구성
-            - [시험 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016을 사용하여 설치 저장 및 계산
-            - [시험 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016으로 네트워킹
-            - [시험 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016으로 신원 확인
+    - **4** individuals must pass any one of the following exams:
 
-        - **SQL Server** 핵심 영역
+        - **Windows Server** focus area
 
-            - [시험 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Microsoft SQL Server 2012 데이터베이스 관리
-            - [시험 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Microsoft SQL Server 2012 데이터베이스 개발
-            - [시험 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): SQL 데이터베이스 개발
-            - [시험 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): SQL 데이터베이스 인프라 관리
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-        - **C#** 핵심 영역 
+        - **SQL Server** focus area
 
-            - [시험 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): C# 프로그래밍
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-        - **Azure** 핵심 영역
+        - **C#** focus area 
 
-            - [시험 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Windows Azure 및 웹 서비스 개발
-            - [시험 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Microsoft Azure 솔루션 개발
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-        **그리고**
+        - **Azure** focus area
 
-    - **4명**이 다음 평가를 통과해야 합니다. 위 시험을 통과한 4명이 이 평가를 완료해도 됩니다. :
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        - [응용 프로그램 통합에 대한 BizTalk 기술 역량 평가(BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+        **AND**
 
+    - **4** individuals must pass the following assessment. This may be completed by the same 4 individuals who passed the exam above. :
+
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+-->

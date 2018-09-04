@@ -3,11 +3,13 @@ title: 다중 채널 | 파트너 센터
 description: 경우에 따라 고객이 다른 곳에서 구입한 구독을 프로비전 및 지원하기 위해 귀사를 고용하려 할 수도 있습니다.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875843"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 

@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: 여기에서 파트너 대시보드에 대한 도움말 얻기
-description: 계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? 파트너 대시보드 도움말 라이브러리를 통해 답변을 찾아보세요.
+description: 계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든이 대시보드 도움말 라이브러리를 통해 답변을 찾아보세요.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919903"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876373"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>여기에서 파트너 센터 대시보드에 대한 도움말 얻기
+# <a name="start-here-for-help-with-partner-dashboard"></a>여기에서 파트너 대시보드에 대한 도움말 얻기
 
-계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? 파트너 센터 대시보드 도움말 라이브러리를 통해 답변을 찾아보세요.
+계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든이 대시보드 도움말 라이브러리를 통해 답변을 찾아보세요.
 
 이미 대시보드에 익숙한 경우 [새 소식](/partner-center/whats-new-in-pc)을 알아보세요.
 

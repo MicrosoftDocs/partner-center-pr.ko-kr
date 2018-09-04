@@ -1,13 +1,15 @@
 ---
-title: "Dynamics AX 구독을 Dynamics 365로 마이그레이션 | 파트너 센터"
-description: "Microsoft에서는 조직이 성장, 발전 및 변혁을 통해 고객의 요구 사항을 충족하고 새로운 기회를 포착할 수 있게 해주는 차세대 지능형 비즈니스 응용 프로그램인 Dynamics 365를 소개합니다."
+title: Dynamics AX 구독을 Dynamics 365로 마이그레이션 | 파트너 센터
+description: Microsoft에서는 조직이 성장, 발전 및 변혁을 통해 고객의 요구 사항을 충족하고 새로운 기회를 포착할 수 있게 해주는 차세대 지능형 비즈니스 응용 프로그램인 Dynamics 365를 소개합니다.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
-ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876303"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX 구독을 Dynamics 365로 마이그레이션
 
