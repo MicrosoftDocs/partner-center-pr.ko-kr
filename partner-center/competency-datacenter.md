@@ -1,52 +1,60 @@
 ---
-title: "데이터 센터 역량"
-description: "데이터 센터 역량은 데이터 센터를 보다 유연하고 확장 가능하고 비용 효율적인 솔루션으로 전환하는 파트너를 인증하는 역량입니다."
+title: 데이터 센터 역량
+description: 데이터 센터 역량은 데이터 센터를 보다 유연하고 확장 가능하고 비용 효율적인 솔루션으로 전환하는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
-keywords: "역량, 역량, 데이터 센터"
-ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
-ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
-ms.translationtype: HT
+keywords: 역량, 역량, 데이터 센터
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876243"
 ---
-#<a name="datacenter"></a><span data-ttu-id="364be-104">데이터 센터</span><span class="sxs-lookup"><span data-stu-id="364be-104">Datacenter</span></span>
-<span data-ttu-id="364be-105">데이터 센터 역량은 데이터 센터를 보다 유연하고 확장 가능하고 비용 효율적인 솔루션으로 전환하는 파트너를 인증하는 역량입니다.</span><span class="sxs-lookup"><span data-stu-id="364be-105">The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.</span></span>
-##<a name="datacenter-solutions-option"></a><span data-ttu-id="364be-106">데이터 센터 솔루션 옵션</span><span class="sxs-lookup"><span data-stu-id="364be-106">Datacenter Solutions option</span></span>
-<span data-ttu-id="364be-107">데이터 센터 솔루션 옵션은 시험 또는 인증을 통과하여 기술을 증명하려는 경우에 적합합니다.</span><span class="sxs-lookup"><span data-stu-id="364be-107">The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications.</span></span> <span data-ttu-id="364be-108">원하는 핵심 영역에서 시험을 선택하여 데이터 센터 역량을 획득하세요.</span><span class="sxs-lookup"><span data-stu-id="364be-108">Choose exams from the focus area of your choice to attain the Datacenter competency.</span></span>
-###<a name="silver"></a><span data-ttu-id="364be-109">실버</span><span class="sxs-lookup"><span data-stu-id="364be-109">Silver</span></span>
-1. <span data-ttu-id="364be-110">조직의 직원 **2명**이 시험 중 하나를 통과해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="364be-110">Your organization must have **2** individuals pass any one of the exams.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="4f7ad-104">이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="4f7ad-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-    - <span data-ttu-id="364be-111">**System Center** 2012 핵심 영역</span><span class="sxs-lookup"><span data-stu-id="364be-111">**System Center** 2012 focus area</span></span>
+<!--
+#Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+###Silver
+1. Your organization must have **2** individuals pass any one of the exams.
 
-        - <span data-ttu-id="364be-112">[시험 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): System Center 2012를 사용하여 사설 클라우드 모니터링 및 운영*</span><span class="sxs-lookup"><span data-stu-id="364be-112">[Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012*</span></span>
-        - <span data-ttu-id="364be-113">[시험 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): System Center 2012를 사용하여 사설 클라우드 구성 및 배포*</span><span class="sxs-lookup"><span data-stu-id="364be-113">[Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012*</span></span>
+    - **System Center** 2012 focus area
 
-<span data-ttu-id="364be-114">\* 2017년 12월 31일부터 사용 중지.</span><span class="sxs-lookup"><span data-stu-id="364be-114">\* Retiring December 31, 2017.</span></span> <span data-ttu-id="364be-115">이러한 시험은 2018년 12월 31일까지 역량 자격으로 계속 인정됩니다.</span><span class="sxs-lookup"><span data-stu-id="364be-115">This exam will continue to be accepted for competency qualification until December 31, 2018.</span></span> <span data-ttu-id="364be-116">2017년 11월 30일까지 이 시험에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="364be-116">You may register for this exam until November 30, 2017.</span></span>
+        - [Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012*
+        - [Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012*
 
-   - <span data-ttu-id="364be-117">**가상화** 핵심 영역</span><span class="sxs-lookup"><span data-stu-id="364be-117">**Virtualization** focus area</span></span>
+\* Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-        - <span data-ttu-id="364be-118">[시험 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Windows Server Virtualization Hyper-V 및 System Center를 사용하여 서버 가상화</span><span class="sxs-lookup"><span data-stu-id="364be-118">[Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center</span></span>
+   - **Virtualization** focus area
 
-   - <span data-ttu-id="364be-119">**Windows Server 2012** 핵심 영역</span><span class="sxs-lookup"><span data-stu-id="364be-119">**Windows Server 2012** focus area</span></span>
+        - [Exam 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-        - <span data-ttu-id="364be-120">[시험 70 410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Windows Server 2012 설치 및 구성</span><span class="sxs-lookup"><span data-stu-id="364be-120">[Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012</span></span>
-        - <span data-ttu-id="364be-121">[시험 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Windows Server 2012 관리</span><span class="sxs-lookup"><span data-stu-id="364be-121">[Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012</span></span>
-        - <span data-ttu-id="364be-122">[시험 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): 고급 Windows Server 2012 서비스 구성</span><span class="sxs-lookup"><span data-stu-id="364be-122">[Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services</span></span>
-        - <span data-ttu-id="364be-123">[시험 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): 서버 인프라 설계 및 구현</span><span class="sxs-lookup"><span data-stu-id="364be-123">[Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure</span></span>
-        - <span data-ttu-id="364be-124">[시험 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): 고급 서버 인프라 구현</span><span class="sxs-lookup"><span data-stu-id="364be-124">[Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure</span></span>
-        - <span data-ttu-id="364be-125">[시험 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): 기술을 MCSA Windows Server 2012로 업그레이드</span><span class="sxs-lookup"><span data-stu-id="364be-125">[Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012</span></span>
+   - **Windows Server 2012** focus area
 
-   - <span data-ttu-id="364be-126">**Windows Server** 2016 핵심 영역</span><span class="sxs-lookup"><span data-stu-id="364be-126">**Windows Server** 2016 focus area</span></span>
-        - <span data-ttu-id="364be-127">[시험 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Windows Server 2016을 사용하여 설치 저장 및 계산</span><span class="sxs-lookup"><span data-stu-id="364be-127">[Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016</span></span>
-        - <span data-ttu-id="364be-128">[시험 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Windows Server 2016으로 네트워킹</span><span class="sxs-lookup"><span data-stu-id="364be-128">[Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016</span></span>
-        - <span data-ttu-id="364be-129">[시험 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Windows Server 2016으로 신원 확인</span><span class="sxs-lookup"><span data-stu-id="364be-129">[Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016</span></span>
-        - <span data-ttu-id="364be-130">[시험 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): 기술을 MCSA로 업그레이드: Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="364be-130">[Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016</span></span>
-        - <span data-ttu-id="364be-131">[시험 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Windows Server 2016 보안</span><span class="sxs-lookup"><span data-stu-id="364be-131">[Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016</span></span>
+        - [Exam 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
+        - [Exam 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
+        - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+        - [Exam 70-413](https://www.microsoft.com/en-us/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure
+        - [Exam 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
+        - [Exam 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
 
-###<a name="gold"></a><span data-ttu-id="364be-132">골드</span><span class="sxs-lookup"><span data-stu-id="364be-132">Gold</span></span>
-1. <span data-ttu-id="364be-133">조직의 직원 **4명**이 필수 인증을 통과해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="364be-133">Your organization must have **4** individuals pass the required certification.</span></span>
+   - **Windows Server** 2016 focus area
+        - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
+        - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+        - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+        - [Exam 70-743](https://www.microsoft.com/en-us/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016
+        - [Exam 70-744](https://www.microsoft.com/en-us/learning/exam-70-744.aspx): Securing Windows Server 2016
 
-    - <span data-ttu-id="364be-134">**4명**이 다음 시험 중 하나를 통과해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="364be-134">**4** individuals must pass one of the following exams:</span></span>
+###Gold
+1. Your organization must have **4** individuals pass the required certification.
 
-        - <span data-ttu-id="364be-135">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012</span><span class="sxs-lookup"><span data-stu-id="364be-135">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012</span></span>
-        - <span data-ttu-id="364be-136">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016</span><span class="sxs-lookup"><span data-stu-id="364be-136">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016</span></span>
+    - **4** individuals must pass one of the following exams:
+
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-certification.aspx): Windows Server 2012
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-windows-server-2016-certification.aspx): Windows Server 2016
+-->
