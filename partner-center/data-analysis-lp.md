@@ -1,13 +1,15 @@
 ---
-title: "파트너 센터의 데이터 및 분석 | 파트너 센터"
-description: "파트너 센터에서 데이터 기능을 사용하면 고객의 비즈니스를 더 잘 이해할 수 있습니다."
+title: 파트너 센터의 데이터 및 분석 | 파트너 센터
+description: 파트너 센터에서 데이터 기능을 사용하면 고객의 비즈니스를 더 잘 이해할 수 있습니다.
 author: labrenne
-keywords: "데이터, 분석, 데이터 분석, Power BI"
-ms.openlocfilehash: 81e10c649fa3ab0f7662db915b7f891671b48bbe
-ms.sourcegitcommit: dcaa831710115ac0852131605115b9b6cc67c5d5
-ms.translationtype: HT
+keywords: 데이터, 분석, 데이터 분석, Power BI
+ms.localizationpriority: medium
+ms.openlocfilehash: e76fc54712628808599d63a799d009821c81343b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877163"
 ---
 # <a name="get-data-and-analyze-your-business"></a>데이터 수집과 비즈니스 분석 
 

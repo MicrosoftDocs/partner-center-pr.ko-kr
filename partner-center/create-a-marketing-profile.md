@@ -4,11 +4,13 @@ description: Microsoft에서 영업 잠재 고객을 가져오기 위해 파트�
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877628"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기
@@ -58,7 +60,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 
 로고는 GIF, JPG 또는 PNG 파일이어야 하며 최대 너비는 300픽셀입니다. 사각형 또는 좌우로 긴 로고를 사용하는 것이 좋습니다. 상하로 긴 로고는 권장하지 않습니다.
 
-설명은 최대 1000자까지 입력할 수 있습니다. 멋진 설명을 만드는 팁: 
+설명은은 2500 characters 수 있습니다. 멋진 설명을 만드는 팁: 
 
 *  **간단명료**하게 맨 처음에 나오는 한두 문장에 중요한 내용을 넣습니다. 제목이 고객의 관심을 끌어야 합니다. 파트너 찾기 검색 환경에서 처음 한두 줄이 검색 결과 미리 보기에 표시됩니다.
 *  **Microsoft 관련 제품에 대한 회사의 경험에 집중합니다**. 추천을 검색하는 고객은 일반적으로 Microsoft 관련 경험이 있는 파트너를 찾습니다.

@@ -4,11 +4,13 @@ description: Cloudyn의 Azure 비용 관리를 사용하려면 파트너 센터 
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
-ms.openlocfilehash: 1b778dee20e449f778b9a67ea681a9ee9a430c8c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877453"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 

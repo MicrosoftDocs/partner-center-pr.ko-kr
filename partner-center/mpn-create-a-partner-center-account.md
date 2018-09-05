@@ -2,12 +2,13 @@
 title: 파트너 센터 계정 만들기 | 파트너 센터
 description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
 author: MaggiePucciEvans
-ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207273"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876783"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 

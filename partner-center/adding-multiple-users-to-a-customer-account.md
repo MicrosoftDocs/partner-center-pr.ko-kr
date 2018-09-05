@@ -4,11 +4,13 @@ description: 쉼표로 구분된 값 파일 형식(.csv)의 데이터 파일을 
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: 대량 업로드, 고객 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 사용자 대량 업로드, 고객 계정, 고객 사용자, 사용자
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876973"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>고객 계정에 여러 사용자 추가
 
@@ -54,15 +56,13 @@ ms.lasthandoff: 04/08/2018
 
     **참고** 대부분의 계정 만들기 오류는 누락된 정보, 잘못되거나 중복된 메일 주소 또는 파일에 너무 많은 레코드가 있는 등 데이터 파일 문제로 인해 발생합니다.
 
-     
-
 7.  파트너 대시보드에서 파일의 유효성을 검사한 후 새 사용자의 지리적 **위치**를 선택합니다.
 8.  **저장**을 선택합니다.
 9.  사용자의 임시 암호 정보를 다운로드합니다.
 
 **중요:** 나중에는 할 수 없으므로 지금 임시 암호를 사용하여 파일을 다운로드해야 합니다. 새 사용자는 새 계정의 임시 암호를 사용하여 새 계정에 로그인해야 합니다.
 
-파트너 대시보드에서 새 사용자에게 **라이선스 및 서비스 사용 가능** 권한을 자동 할당합니다.
+10. 새 사용자에 게 **라이선스 및 서비스를** 사용할 수 있는 권한은 자동 할당 됩니다. 
 
  
 

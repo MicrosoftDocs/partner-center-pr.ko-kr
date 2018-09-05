@@ -1,12 +1,15 @@
 ---
-title: "일시 중단된 파트너 센터 계정 복원 | 파트너 센터"
-description: "일시 중단된 파트너 센터 계정을 복원하는 방법, 파트너 계정이 일시 중단되는 이유 및 일시 중단 동안 계정을 사용하는 방법을 알아봅니다."
+title: 일시 중단된 파트너 센터 계정 복원 | 파트너 센터
+description: 일시 중단된 파트너 센터 계정을 복원하는 방법, 파트너 계정이 일시 중단되는 이유 및 일시 중단 동안 계정을 사용하는 방법을 알아봅니다.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877033"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>일시 중단된 파트너 센터 계정 복원
 
@@ -39,9 +42,9 @@ Microsoft는 다음 중 하나에 해당하는 경우 파트너 센터 계정을
 
 **지원 요청을 제출하려면**
 
-1.    **대시보드** 메뉴에서 **지원 요청 > 파트너 센터 요청**을 선택합니다.
-2.    **새 요청**을 선택합니다. 
-3.    양식을 작성한 후 **제출**을 선택합니다. 계정이 일시 중단된 이유와 계정을 복원하는 방법을 설명하기 위해 파트너 센터 지원 담당자가 연락을 드릴 수 있습니다.
+1.  **대시보드** 메뉴에서 **지원 요청 > 파트너 센터 요청**을 선택합니다.
+2.  **새 요청**을 선택합니다. 
+3.  양식을 작성한 후 **제출**을 선택합니다. 계정이 일시 중단된 이유와 계정을 복원하는 방법을 설명하기 위해 파트너 센터 지원 담당자가 연락을 드릴 수 있습니다.
 
 
 

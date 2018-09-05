@@ -1,12 +1,14 @@
 ---
-title: "Office 365 파트너 관리 센터 고객: 비즈니스 운영이 파트너 센터로 이동됨 | 파트너 센터"
-description: "파트너 센터로 이동할 때 Office 365 파트너 관리 센터 고객이 고려해야 할 주요 사항"
+title: 'Office 365 파트너 관리 센터 고객: 비즈니스 운영이 파트너 센터로 이동됨 | 파트너 센터'
+description: 파트너 센터로 이동할 때 Office 365 파트너 관리 센터 고객이 고려해야 할 주요 사항
 author: KPacquer
-ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876893"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 고객: 비즈니스 운영을 파트너 센터로 이동하기 위한 준비
 

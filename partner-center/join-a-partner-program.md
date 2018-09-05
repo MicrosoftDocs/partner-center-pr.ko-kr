@@ -2,11 +2,13 @@
 title: Microsoft 파트너 네트워크 가입 | 파트너 센터
 description: 파트너 센터에서 Microsoft Action Pack을 구입하고 역량 획득
 author: labrenne
-ms.openlocfilehash: e4a6ecccb4831075ee7d2852eb9998b0a1eaa3f1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877113"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft 파트너 네트워크 가입(MPN)
 

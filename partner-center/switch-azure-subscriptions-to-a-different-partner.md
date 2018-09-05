@@ -4,12 +4,13 @@ description: 고객은 Microsoft Azure 서비스에 사용할 클라우드 솔�
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088960"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877563"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 이전 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088960"
 -  파트너 센터
 
 고객은 Microsoft Azure 서비스에 대해 클라우드 솔루션 공급자 파트너 또는 다른 파트너로 이전할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다.
+
+**참고**  이 이번에 직접 또는 간접 공급자 구독을 전송할 수 있습니다.
 
 **참고** Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대한 클라우드 솔루션 공급자 구독의 파트너는 현재 변경할 수 없습니다.
 

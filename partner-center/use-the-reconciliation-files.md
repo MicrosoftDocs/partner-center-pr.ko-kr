@@ -3,18 +3,20 @@ title: 조정 파일 사용 | 파트너 센터
 description: 청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877553"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Cloud for US Government용 파트너 센터
+-  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
 청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
@@ -204,7 +206,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -516,8 +518,8 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>반복 청구 요금</strong></p>
+<td rowspan="10">
+<p><strong>라이선스 기준 청구</strong></p>
 </td>
 <td>
 <p>승인 수수료</p>
@@ -525,7 +527,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>고객이 구독을 구매한 후 구독을 사용할 때 고객에게 청구되는 요금</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
+
 <td>
 <p>갱신 요금</p>
 </td>
@@ -595,16 +598,10 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>기타 제품 및 서비스</strong></p>
-</td>
-<td>
 <p>활성화 시 비례 배분 방식 요금</p>
 </td>
 <td>
 <p>활성화 시점부터 청구 기간 마지막 날까지의 비례 배분 방식 요금</p>
-</td>
-<td>
-<p>라이선스 기반 파일에서 <strong>Amount</strong> 열을 모두 합산</p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>크레딧 및 조정</strong></p>
+<p><strong>크레딧</strong></p>
 </td>
 <td>
 <p>품목 오프셋</p>
@@ -644,12 +641,9 @@ ms.lasthandoff: 05/10/2018
 <p>사용량 기반 파일에서 <strong>PostTaxTotal</strong> 열을 모두 합산</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>기타 할인</strong></br>
-<em>(사용량 기반)</em></p>
+<p><strong>사용량 기준 할인</strong></p>
 </td>
 <td>
 <p>활성화 할인</p>
@@ -657,6 +651,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>구독을 활성화할 때 적용되는 할인</p>
 </td>
+
 <td rowspan="4">
 <p>사용량 기반 파일에서 <strong>PretaxCharges</strong> 열을 모두 합산</p>
 </td>
@@ -668,14 +663,16 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>정기 요금에 적용되는 할인</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>갱신 할인</p>
 </td>
 <td>
 <p>구독을 갱신할 때 적용되는 할인</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>취소 할인</p>
 </td>
@@ -683,16 +680,17 @@ ms.lasthandoff: 05/10/2018
 <p>할인이 취소될 때 적용되는 요금</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>기타 할인</strong></br>
-<em>(라이선스 기반)</em></p>
+<p><strong>라이선스 기반 할인</strong></p>
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>라이선스 기반 파일에서 <strong>TotalOtherDiscount</strong> 열을 모두 합산</p>
@@ -704,7 +702,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
-<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧 및 조정을 참조하세요.</em></p>
+<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧를 참조 하세요.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>

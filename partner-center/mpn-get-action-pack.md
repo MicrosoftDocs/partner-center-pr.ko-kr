@@ -3,12 +3,13 @@ title: Microsoft Action Pack 구입 또는 갱신 | 파트너 센터
 description: 처음 구입하는 것이든 갱신하는 것이든 관계없이 Microsoft Action Pack을 얻는 방법에 대해 알아보세요.
 author: MaggiePucciEvans
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207263"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876713"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독의 최초 구입 또는 갱신
 
@@ -55,7 +56,7 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>파트너 대시보드에서 Microsoft Action Pack 구독을 갱신하려면
 
-1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsost Action Pack 구독** 타일을 찾습니다.  
+1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack** 타일을 찾습니다.  
 
 2. **구독 갱신**을 선택하고 결제 방법을 선택합니다. 신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.
 

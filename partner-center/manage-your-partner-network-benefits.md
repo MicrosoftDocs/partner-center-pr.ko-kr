@@ -3,12 +3,13 @@ title: Microsoft 파트너 네트워크 혜택 관리 | 파트너 센터
 description: 귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 구매할 자격이 있습니다. 파트너 대시보드에서 멤버십 혜택을 활성화하고 관리하는 방법을 설명합니다.
 author: MaggiePucciEvans
 keywords: MPN, 멤버십 혜택, 멤버십
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207283"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876913"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -25,6 +26,9 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>대시보드에서 멤버십 혜택 관리
 
 멤버십 혜택 패키지 구입 후 소프트웨어 키를 얻고 라이선스, 구독 및 기타 혜택을 직원에게 할당하여 사용을 시작해야 합니다. 
+
+>[!IMPORTANT]
+>혜택을 구입 하 여 조직의 전역 관리자 여야 필요가 있는 동안 혜택을 직원에 게 할당 하려면 전역 관리자 여야 필요가 없습니다.  [ **혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits) 의 지침에 따라 전역 관리자를 될 수 있습니다 (로그인 필요). 또한 조직 팀 있는지 확인 해야 하는 전역 관리자 이미 있을 수 있습니다.
 
 혜택 패키지에는 내부 사용 권한 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 세부 정보를 확인할 수 있습니다.  
 

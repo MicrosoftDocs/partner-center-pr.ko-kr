@@ -3,12 +3,13 @@ title: 고객이 파트너에게 관리 권한을 위임하는 경우 | 파트�
 description: 재판매인 파트너는 고객을 관리자로 위임할 수 있으며 권한을 제거할 수도 있습니다.
 author: labrenne
 keywords: 위임된 관리자 권한, 대신 관리, 권한 제거
-ms.openlocfilehash: 7f1bd81f40892f851e1582a7a842a64c55e4ff63
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7209917a92eb2cd9ae86c31f3126bdbac402a04e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1913953"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877173"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>고객이 파트너에게 관리 권한을 위임하는 경우
 

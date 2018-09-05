@@ -1,13 +1,15 @@
 ---
-title: "고객과의 관계 요청 | 파트너 센터"
-description: "관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 귀사의 위임된 관리자 권한을 제거했기 때문에 귀사에서 프로비전 또는 지원을 제공하려면 위임된 관리자 권한을 복원해야 하는 경우에도 유용합니다."
+title: 고객과의 관계 요청 | 파트너 센터
+description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 귀사의 위임된 관리자 권한을 제거했기 때문에 귀사에서 프로비전 또는 지원을 제공하려면 위임된 관리자 권한을 복원해야 하는 경우에도 유용합니다.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877223"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -31,9 +33,7 @@ ms.lasthandoff: 07/19/2017
 
 4.  고객이 초대를 수락하면 **고객** 페이지에 고객이 표시되고, 귀사는 여기서 해당 고객의 서비스를 프로비전하고 관리할 수 있습니다.
 
- >**참고**<br>
-    다중 채널 시나리오에서는 오직 한 파트너만 관리자 권한을 얻어 고객 대신 서비스를 관리할 수 있습니다. 
-
+ 
 5.  고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.
 
 

@@ -1,12 +1,14 @@
 ---
-title: "인센티브 지급액에 대한 이해 | 파트너 센터"
-description: "인센티브 수익 및 지급액 일정은 향후 계획에 도움이 됩니다."
+title: 인센티브 지급액에 대한 이해 | 파트너 센터
+description: 인센티브 수익 및 지급액 일정은 향후 계획에 도움이 됩니다.
 author: labrenne
-ms.openlocfilehash: 1ebbe803587e04a8e394941bc2cec040fcc6a6f1
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4fcfed49df579ef952fa152b14645c09f8766c84
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876793"
 ---
 #<a name="understand-your-incentives-payouts"></a>인센티브 지급액에 대한 이해
 

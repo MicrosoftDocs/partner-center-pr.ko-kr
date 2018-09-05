@@ -1,12 +1,14 @@
 ---
-title: "다른 파트너와 협력 | 파트너 센터"
-description: "귀사가 공유하는 고객의 요구 사항을 충족할 수 있도록 CSP의 다른 파트너와 협력하세요."
+title: 다른 파트너와 협력 | 파트너 센터
+description: 귀사가 공유하는 고객의 요구 사항을 충족할 수 있도록 CSP의 다른 파트너와 협력하세요.
 author: MaggiePucciEvans
-ms.openlocfilehash: 04c5c4c9c9add663865add92bbcc527169ec44a8
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877103"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 

@@ -1,12 +1,14 @@
 ---
-title: "미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록 | 미국 정부용 Microsoft 클라우드 파트너 센터"
-description: "미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요."
+title: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록 | 미국 정부용 Microsoft 클라우드 파트너 센터
+description: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877203"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -64,7 +66,7 @@ ms.lasthandoff: 06/19/2017
 >**참고**<br>
 관리자 에이전트 역할에 사용자를 할당하면 해당 사용자는 **고객** 페이지의 고객 목록에 액세스하고 [새 고객을 추가](add-a-new-customer.md)할 수 있게 됩니다.   
 
-1.  https://portal.azure.us/에서 Microsoft Azure 관리 포털에 로그인합니다.
+1.  Microsoft Azure 관리 포털에 로그인 합니다. https://portal.azure.us/.
 
 2.  조직 내 적절한 사용자에게 관리자 에이전트 역할을 할당합니다. 이렇게 하려면 해당 사용자를 기본 제공 **AdminAgent** 그룹에 추가해야 합니다. 자세한 방법은 [Azure Active Directory에서 그룹의 구성원 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)를 참조하세요.
  
