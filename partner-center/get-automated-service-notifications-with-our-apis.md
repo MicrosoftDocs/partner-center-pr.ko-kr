@@ -1,37 +1,33 @@
 ---
-title: "API를 사용하여 자동화된 서비스 알림 가져오기 | 파트너 센터"
-description: "Office 365 및 Microsoft Azure는 각각 파트너가 실시간 서비스 상태, 메시지 센터 통신 및 계획된 유지 관리 이벤트를 검색하는 데 사용할 수 있는 API를 제공합니다."
+title: API를 사용하여 자동화된 서비스 알림 가져오기 | 파트너 센터
+description: Office 365 및 Microsoft Azure는 각각 파트너가 실시간 서비스 상태, 메시지 센터 통신 및 계획된 유지 관리 이벤트를 검색하는 데 사용할 수 있는 API를 제공합니다.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
-ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
-
+ms.localizationpriority: medium
+ms.openlocfilehash: 02a478aa0822eb0709424623a9fa2822e6cbe935
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877313"
 ---
+# <a name="get-automated-service-notifications-with-our-apis"></a><span data-ttu-id="425d9-103">API를 사용하여 자동화된 서비스 알림 가져오기</span><span class="sxs-lookup"><span data-stu-id="425d9-103">Get automated service notifications with our APIs</span></span>
 
-# API를 사용하여 자동화된 서비스 알림 가져오기
+**<span data-ttu-id="425d9-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="425d9-104">Applies to</span></span>**
 
-**적용 대상**
+-  <span data-ttu-id="425d9-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="425d9-105">Partner Center</span></span>
 
--  파트너 센터
+<span data-ttu-id="425d9-106">Office 365 및 Microsoft Azure는 각각 파트너가 실시간 서비스 상태, 메시지 센터 통신 및 계획된 유지 관리 이벤트를 검색하는 데 사용할 수 있는 API를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="425d9-106">Office 365 and Microsoft Azure each provide an API that partners can use to retrieve real-time service health, message center communications, and planned maintenance events.</span></span> <span data-ttu-id="425d9-107">이러한 API는 공개적으로 사용할 수 있으며, 파트너는 해당 관리자 권한을 위임받았으므로 고객 대신 이러한 API를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="425d9-107">These APIs are publicly available, and partners can use them on behalf of their customers because of their delegated admin privileges.</span></span>
 
-Office 365 및 Microsoft Azure는 각각 파트너가 실시간 서비스 상태, 메시지 센터 통신 및 계획된 유지 관리 이벤트를 검색하는 데 사용할 수 있는 API를 제공합니다. 이러한 API는 공개적으로 사용할 수 있으며, 파트너는 해당 관리자 권한을 위임받았으므로 고객 대신 이러한 API를 사용할 수 있습니다.
+<span data-ttu-id="425d9-108">개발자가 사용할 수 있는 API는 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="425d9-108">These APIs are available for your developers:</span></span>
 
-개발자가 사용할 수 있는 API는 다음과 같습니다.
+[<span data-ttu-id="425d9-109">Office 365 서비스 통신 API</span><span class="sxs-lookup"><span data-stu-id="425d9-109">Office 365 service communications API</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=616899)
 
-[Office 365 서비스 통신 API](http://go.microsoft.com/fwlink/p/?LinkId=616899)
-
-Azure Insights REST API: [코드](http://go.microsoft.com/fwlink/p/?LinkId=617299) 및 [API 참조](http://go.microsoft.com/fwlink/p/?LinkId=617300)
-
- 
+<span data-ttu-id="425d9-110">Azure Insights REST API: [코드](http://go.microsoft.com/fwlink/p/?LinkId=617299) 및 [API 참조](http://go.microsoft.com/fwlink/p/?LinkId=617300)</span><span class="sxs-lookup"><span data-stu-id="425d9-110">Azure Insights REST API: [code](http://go.microsoft.com/fwlink/p/?LinkId=617299) and [API reference](http://go.microsoft.com/fwlink/p/?LinkId=617300)</span></span>
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -1,22 +1,24 @@
 ---
-title: "Pinpoint에서 파트너 센터로 전환 | 파트너 센터"
-Description: "이 페이지가 표시되는 경우 여기에 포함된 정보는 Pinpoint에서 파트너 센터로 전환하는 방법을 설명합니다."
+title: Pinpoint에서 파트너 센터로 전환 | 파트너 센터
+Description: If you see this page, the information here describes how to transition from Pinpoint to Partner Center.
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-ms.openlocfilehash: fce2dda35269a0071fd03317d111e769c26204fc
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b4250f0a1e8cc438bf4b61bfec5d0661511aef86
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877393"
 ---
-# <a name="transition-from-pinpoint-to-partner-center"></a><span data-ttu-id="80d09-103">Pinpoint에서 파트너 센터로 전환</span><span class="sxs-lookup"><span data-stu-id="80d09-103">Transition from Pinpoint to Partner Center</span></span>
+# <a name="transition-from-pinpoint-to-partner-center"></a><span data-ttu-id="e80ba-102">Pinpoint에서 파트너 센터로 전환</span><span class="sxs-lookup"><span data-stu-id="e80ba-102">Transition from Pinpoint to Partner Center</span></span>
 
-**<span data-ttu-id="80d09-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="80d09-104">Applies to</span></span>**
+**<span data-ttu-id="e80ba-103">적용 대상</span><span class="sxs-lookup"><span data-stu-id="e80ba-103">Applies to</span></span>**
 
--  <span data-ttu-id="80d09-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="80d09-105">Partner Center</span></span>
+-  <span data-ttu-id="e80ba-104">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="e80ba-104">Partner Center</span></span>
 
-<span data-ttu-id="80d09-106">모든 Microsoft Pinpoint 파트너 프로필은 궁극적으로 파트너 센터로 마이그레이션되며, Pinpoint는 2017 후반에 오프라인 상태가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="80d09-106">All Microsoft Pinpoint partner profiles will eventually be migrated to Partner Center, and Pinpoint will be taken offline later in 2017.</span></span> 
+<span data-ttu-id="e80ba-105">모든 Microsoft Pinpoint 파트너 프로필은 궁극적으로 파트너 센터로 마이그레이션되며, Pinpoint는 2017 후반에 오프라인 상태가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e80ba-105">All Microsoft Pinpoint partner profiles will eventually be migrated to Partner Center, and Pinpoint will be taken offline later in 2017.</span></span> 
 
-<span data-ttu-id="80d09-107">기존 Pinpoint 비즈니스 프로필을 갖고 있는 경우 파트너 센터에서 [새 비즈니스 프로필을 만들어서](create-a-marketing-profile.md) 바로 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="80d09-107">If you have an existing Pinpoint business profile, you can get started right away by [creating a new business profile](create-a-marketing-profile.md) in Partner Center.</span></span>
+<span data-ttu-id="e80ba-106">기존 Pinpoint 비즈니스 프로필을 갖고 있는 경우 파트너 센터에서 [새 비즈니스 프로필을 만들어서](create-a-marketing-profile.md) 바로 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e80ba-106">If you have an existing Pinpoint business profile, you can get started right away by [creating a new business profile](create-a-marketing-profile.md) in Partner Center.</span></span>
 
-<span data-ttu-id="80d09-108">파트너 센터 프로필을 만들면 Pinpoint 계정이 사용 중지되고 비즈니스 프로필 및 고객 추천을 관리하기 위해 파트너 센터만 사용하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="80d09-108">When you create your Partner Center profile, your Pinpoint account will be retired and you will exclusively use Partner Center for managing your business profiles and customer referrals.</span></span>
+<span data-ttu-id="e80ba-107">파트너 센터 프로필을 만들면 Pinpoint 계정이 사용 중지되고 비즈니스 프로필 및 고객 추천을 관리하기 위해 파트너 센터만 사용하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e80ba-107">When you create your Partner Center profile, your Pinpoint account will be retired and you will exclusively use Partner Center for managing your business profiles and customer referrals.</span></span>
