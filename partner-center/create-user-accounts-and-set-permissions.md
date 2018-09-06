@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874573"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405435"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 권한 할당
 
@@ -61,6 +61,12 @@ ms.locfileid: "2874573"
 
 >[!Important]
 >사용자가 파트너 대시보드에서 작업할 수 있도록 하나 이상의 역할이 할당되어야 합니다.
+
+
+### <a name="find-your-global-admin"></a>귀하의 전역 관리자 찾기
+
+경우에 따라 사용자가 해당 역할을 변경 해야 할 수 또는 새 사용자를 특정 역할 할당을 할 수 있습니다.  
+전역 관리자 권한이 있는 역할 변경 또는 역할 할당 새 사용자에 게 상단에서 **설정 아이콘** 에서 대시보드의 오른쪽을 찾으려면 **사용자 관리** 및 전역 관리자에 대 한 필터 선택 
 
 역할 및 각 역할이 수행할 수 있는 작업에 대 한 자세한 내용은 [사용자 권한 할당](permissions-overview.md)을 참조 하세요.
 
