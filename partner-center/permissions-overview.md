@@ -4,12 +4,12 @@ description: 파트너 대시보드에서 작업 해야 하는 모든 직원에 
 author: labrenne
 keywords: 역할, 권한, 관리자 에이전트
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875993"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630614"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
@@ -62,6 +62,7 @@ ms.locfileid: "2875993"
 <td><ul>
 <li><p>사용자 보기, 생성 및 관리</p></li>
 <li><p>모든 파트너 프로필 보기</p></li>
+<li><p>파트너 사용자 보기, 생성 및 관리</p></li>
 </ul></td>
 </tr>
 <tr class="even">
