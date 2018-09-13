@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877563"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966160"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 이전 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877563"
 
 고객은 Microsoft Azure 서비스에 대해 클라우드 솔루션 공급자 파트너 또는 다른 파트너로 이전할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다.
 
-**참고**  이 이번에 직접 또는 간접 공급자 구독을 전송할 수 있습니다.
+>[!Note]  
+>이 이번에 직접 또는 간접 공급자 구독을 전송할 수 있습니다.
 
-**참고** Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대한 클라우드 솔루션 공급자 구독의 파트너는 현재 변경할 수 없습니다.
+>[!Note] 
+>현재 Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대 한 클라우드 솔루션 공급자 구독의 파트너를 변경할 수는 없습니다.
 
 
 
@@ -30,7 +32,8 @@ ms.locfileid: "2877563"
 
 1.  Azure 구독을 새 파트너로 이전하려면 고객이 프로세스를 시작하고 현재 POR(Partner of Record)에 서면으로 연락해야 합니다. 
 
-    >**참고**<br> 전환 프로세스를 시작하는 서비스 티켓을 만드는 것은 현재 파트너의 책임입니다. Microsoft는 고객이나 새로운 파트너를 대신할 수 없습니다. 원활하게 전환하도록 고객은 현재 파트너와 긴밀히 공조하여 계획해야 합니다.
+    >[!Note]
+    >전환 프로세스를 시작하는 서비스 티켓을 만드는 것은 현재 파트너의 책임입니다. Microsoft는 고객이나 새로운 파트너를 대신할 수 없습니다. 원활하게 전환하도록 고객은 현재 파트너와 긴밀히 공조하여 계획해야 합니다.
 
 2.  구독에 대한 파트너는 다음 작업을 수행해야 합니다.
 
@@ -54,7 +57,8 @@ ms.locfileid: "2877563"
 
     -   이전할 구독 ID. 확장된 고객 목록에서 **구독 보기**를 선택한 다음 선택한 구독을 확장하여 **구독 ID**를 확인합니다.
 
-    >**참고**<br> 구독을 이전하면 전송된 구독의 **구독 편집** 페이지에 두 개의 구독 ID가 표시됩니다. **1**- 파트너 센터 구독 ID는 요금 청구를 위해 사용됩니다. 
+     >[!Note]
+     >구독을 이전하면 전송된 구독의 **구독 편집** 페이지에 두 개의 구독 ID가 표시됩니다. **1**- 파트너 센터 구독 ID는 요금 청구를 위해 사용됩니다. 
     **2**- 원래 Azure 구독 ID는 유지되며 Azure 관리 포털뿐만 아니라 파트너 센터에도 표시됩니다. 이 ID는 사용자의 조정 파일에 나타납니다.  **지원 티켓을 로깅할 때 두 ID를 모두 사용해야 합니다.**
 
 4.  구독의 고객 및 새 파트너:
@@ -62,6 +66,9 @@ ms.locfileid: "2877563"
     양식을 검토하고 새 파트너에 대한 정보를 입력한 다음 서명합니다. 새 고객에게 계약 협약서가 있는지 확인합니다. 현재 POR(Partner of Record)에게 양식을 다시 보냅니다.
 
     *중요*: 새 CSP 파트너가 고객과의 재판매인 관계가 없으면 구독을 이전하기 전에 재판매인 관계를 설정해야 합니다. [여기서 이 작업을 수행하는 방법에 대한 자세한 내용을 확인할 수 있습니다](request-a-relationship-with-a-customer.md).
+
+    >[!Note]
+    >새 CSP 파트너와 고객 테 넌 트 같은 영역에 있어야 합니다. 
 
 5.  현재 파트너:
 
