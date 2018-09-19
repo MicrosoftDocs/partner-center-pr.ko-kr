@@ -4,12 +4,12 @@ description: Microsoft 제품을 사용하는 타사 소프트웨어 구입
 author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875523"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062165"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>타사 소프트웨어를 포트폴리오에 추가
 
@@ -21,7 +21,7 @@ ms.locfileid: "2875523"
 
 현재 파트너 센터에서는 Azure, Office 365 및 Dynamics와 통합되는 타사 제품이 제공되고 있습니다. 
 
-## <a name="connecting-with-third-party-partners"></a>타사 파트너와 연결
+## <a name="connect-with-third-party-partners"></a>타사 파트너와 연결
  
 CSP 파트너는 타사 소프트웨어 서비스를 통해 검색할 수 있습니다. ISV 파트너와 연결하여 제품의 카탈로그를 빌드할 수 있습니다. ISV 파트너는 함께 작업할 CSP 파트너를 검색할 수도 있습니다. 또한 귀하가 판매하는 Microsoft 제품의 종류를 검색하고 귀하의 비즈니스 프로필을 검토할 수 있습니다. 따라서 비즈니스 프로필을 최신 상태로 유지해야 합니다. 제품 식별자의 관심 있음 버튼을 클릭하고 나타나는 팝업 양식을 작성하여 ISV 파트너에게 제품에 관심이 있음을 알립니다. Microsoft는 이를 ISV 파트너에게 전달합니다. 그들의 응답은 파트너 센터에서 유지됩니다. 마찬가지로, ISV 파트너가 귀하와의 작업에 관심을 표하면 파트너 센터를 통해 알림이 표시됩니다. 48시간 내 응답을 목표로 합니다.
 
