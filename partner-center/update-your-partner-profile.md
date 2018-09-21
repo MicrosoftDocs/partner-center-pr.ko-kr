@@ -4,12 +4,12 @@ description: 관리자로 처음 로그인하는 경우 지원 세부 정보가 
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 739def78e0b6893fe71b754277d97f63684789c2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1ce6ba69f39bd23e9c7a8275e5d619881419dc3d
+ms.sourcegitcommit: 602f29fb7c1ec054f6f7ddac2e7d85a6f1657f8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877353"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "4095885"
 ---
 # <a name="update-your-partner-profile"></a>파트너 프로필 업데이트
 
@@ -21,7 +21,22 @@ ms.locfileid: "2877353"
 
 관리자로 파트너 센터에 처음 로그인하는 경우 지원 세부 정보가 정확한지 확인하고, 해당하는 경우 면세 정보를 제출하고, 프로필의 연락처 정보를 검토합니다.
 
-**지원 세부 정보 업데이트**
+
+**MPN ID 파트너 대시보드 계정에 연결**
+
+인센티브, 멤버십 혜택 및 역량을 관리 하 고 사용자를 관리할 수, MPN 위치 파트너 대시보드 계정에 연결 해야 합니다.
+
+**MPN ID 파트너 대시보드 계정에 연결 되어**, 화면에서 파트너 대시보드에 등록할 때 검색 상자에 MPN ID를 입력 합니다. 이렇게 하면 사용자의 위치에 해당 MPN ID를 연결할 수 있습니다.
+
+1. 파트너 대시보드에 로그인도 수 **설정** 으로 이동 &gt; **모든 설정 보기** &gt; **파트너 프로필**합니다.
+
+2. 파트너 프로필에는 위치 목록에서 검색 상자에 MPN ID를 입력 하거나 해당 MPN ID와 연결 하려는 위치를 선택 합니다.
+
+>[!Note]
+>MPN 위치는 Azure AD 테 넌 트와 동일한 국가 또는 지역에 위치 해야 합니다. 
+
+
+**지원 세부 정보 업데이트** 
 
 1.  **설정** &gt; **모든 설정 보기** &gt;**파트너 프로필**로 이동합니다.
 2.  **지원** 섹션에서 **업데이트**를 선택합니다.
@@ -35,7 +50,7 @@ ms.locfileid: "2877353"
 
 1.  **설정** &gt;**모든 설정 보기**로 이동합니다. 
 2.  **파트너 프로필**, **파트너 청구 프로필** 및 **조직 프로필**을 검토합니다.
-3.  법적 주소 세부 정보를 변경 해야 하는 경우 확인을 위해 회사에 연결할 수 있습니다. 법적 세부 정보를 변경 하는 경우에 세금 정보를 영향 수 있습니다. 세금 정보를 정확 하 게 유지 해야 합니다. 질문을 사용 하 여 [지원](https://partner.microsoft.com/support/contact-support) 에 문의 합니다.
+3.  법적 근무처 주소의 세부 정보를 변경 해야 하는 경우 확인을 위해 회사에 연결할 수 있습니다. 법적 정보를 변경할 경우에 세금 정보를 영향 될 수 있습니다. 세금 정보 정확성을 유지 하는지 확인 합니다. 질문을 사용 하 여 [지원](https://partner.microsoft.com/support/contact-support) 에 문의 하세요.
 
  
 
