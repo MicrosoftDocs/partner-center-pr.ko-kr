@@ -3,12 +3,12 @@ title: 조직의 세금 정보 | 파트너 센터
 description: 적절한 경우 VAT ID를 조직의 정보에 추가해야 함
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
+ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874643"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4381763"
 ---
 # <a name="organization-tax-information"></a>조직의 세금 정보
 
@@ -20,9 +20,9 @@ ms.locfileid: "2874643"
 
 ### <a name="add-your-vat-id"></a>VAT ID 추가
 
-1.  **대시보드**에서 **파트너십**-> **제품**으로 이동
-2.  **VAT ID 추가** 클릭
-3.  조직의 VAT ID를 입력한 후 **다음** 클릭
+1.  **대시보드에서** **멤버십 혜택**로 이동-> **가능**
+2.  **VAT ID 추가** 선택 합니다.
+3.  조직의 VAT ID를 입력 하 고 **추가** 선택한 **다음**을 선택 합니다.
 
 
 
