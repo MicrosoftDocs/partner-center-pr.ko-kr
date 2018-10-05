@@ -3,12 +3,12 @@ title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
 description: 간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876773"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377765"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -46,7 +46,8 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 이러한 단계를 완료한 후에는 **대시보드** 메뉴의 **간접 재판매인** 페이지에서 재판매인 관계를 관리할 수 있습니다.
 
->**중요**<br> 재판매인과 협력을 시작하려면 재판매인이 CSP 프로그램에 간접 재판매인으로 등록하고 파트너 대시보드 계정이 있어야 합니다. CSP 등록에 대한 자세한 내용은 [CSP에서 간접 공급자와 파트너 되기](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)를 참조하라고 재판매인에게 알려주세요. 
+> [!IMPORTANT]   
+> 재판매인과 협력을 시작하려면 재판매인이 CSP 프로그램에 간접 재판매인으로 등록하고 파트너 대시보드 계정이 있어야 합니다. CSP 등록에 대한 자세한 내용은 [CSP에서 간접 공급자와 파트너 되기](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)를 참조하라고 재판매인에게 알려주세요. 
 
 ## <a name="connect-with-indirect-resellers"></a>간접 재판매인과의 관계 구축
 
@@ -59,8 +60,8 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 2. **간접 재판매인** 페이지에서 **파트너 관계 요청**을 선택합니다. 임시 전자 메일 메시지가 표시됩니다.
 
 3. **전자 메일에서 열기**를 선택하여 기본 전자 메일 응용 프로그램에서 메시지를 열거나 **클립보드에 복사**를 선택하여 메시지를 복사한 다음 전자 메일에 붙여 넣습니다. 작업을 마쳤으면 **완료**를 선택합니다.
-
-   >**중요** 전자 메일 메시지에서 텍스트를 편집할 수 있지만, 링크를 포함하는 것을 잊지 마세요. 이 링크는 파트너 대시보드 계정에 맞게 개인화된 링크입니다.
+    > [!IMPORTANT]  
+    >  전자 메일 메시지에서 텍스트를 편집할 수 있지만 파트너 대시보드 계정에 맞게 개인화 링크를 포함 해야 합니다.
 
 4. 재판매인이 파트너 관계 요청을 수락하면 간접 재판매인 목록에 해당 재판매인이 표시되고, 귀사는 다음과 같은 일을 할 수 있습니다. 
 
@@ -97,8 +98,8 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 5.  주문이 올바르면 **제출**을 선택합니다. 주문이 올바르지 않으면 **취소**를 선택하여 전체 작업을 취소하고 다시 시작합니다.
 
 6.  주문을 제출하면 **확인** 페이지가 나타납니다. **설정 정보** 아래에 관리 사용자 계정 이름 및 임시 암호가 표시됩니다. 새 고객에게 보낼 수 있도록 사용자 계정 이름 및 암호 정보를 복사해 둡니다. 
-
-    >**중요** 이 페이지를 닫은 후에는 이 정보에 다시 액세스할 수 없으므로 반드시 사용자 계정 이름 및 암호를 기록해 두세요.
+    > [!IMPORTANT]  
+    > 이 페이지를 닫은 후에이 정보에 다시 액세스할 수 없습니다를 사용자 계정 이름 및 암호의 기록해 해야 합니다.
 
 7.  **완료**를 선택합니다. 새 고객이 고객 목록에 표시되고, 간접 재판매인과 연결되어 있습니다. 이제 재판매인은 고객의 계정 정보 및 구독에 관리자 권한으로 액세스할 수 있으며 고객을 대신하여 구독을 관리할 수 있습니다.
 

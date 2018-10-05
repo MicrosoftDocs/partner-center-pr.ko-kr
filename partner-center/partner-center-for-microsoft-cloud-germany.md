@@ -3,12 +3,12 @@ title: Microsoft 클라우드 독일 파트너 센터 | Microsoft 클라우드 �
 description: Microsoft 클라우드 독일 파트너 센터는 EU 및 EFTA 국가에 거주하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다. Microsoft 클라우드 독일은 고객 데이터가 독일에 상주하게 하고 지정된 독일 데이터 수탁자가 데이터 액세스를 제어하도록 관리하는 일을 합니다. 유럽 연합(EU) 및 유럽 자유 무역 연합(EFTA)에 소속된 상용 고객은 적용되는 독일 법률 및 규정과 주요 국제 표준에 따라 고객 데이터를 저장하고 관리할 수 있습니다. Microsoft는 독일 데이터 수탁자 또는 고객의 승인과 감독 없이는 고객 데이터에 액세스할 수 없습니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876343"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377585"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터
 
@@ -28,8 +28,8 @@ Microsoft 클라우드 독일은 독일의 데이터 센터를 통해 별도의 
 
 Microsoft 클라우드 독일 프로그램의 CSP(클라우드 솔루션 공급자)로 등록하면 파트너 센터를 사용하여 EU 및 EFTA 국가/지역의 고객에게 독일 클라우드 솔루션 및 서비스를 판매할 수 있습니다. 
 
->**참고**<br>
-이 문서가 게시된 시점에는 Microsoft 클라우드 독일 파트너 센터에 다음과 같은 파트너 센터 기능이 제공되지 않았습니다(문서가 게시된 후 일부 기능이 파트너 센터에 추가되었을 수 있으며 이 목록이 최신 상태가 아닐 수 있음).
+> [!NOTE]  
+> 이 문서가 게시된 시점에는 Microsoft 클라우드 독일 파트너 센터에 다음과 같은 파트너 센터 기능이 제공되지 않았습니다(문서가 게시된 후 일부 기능이 파트너 센터에 추가되었을 수 있으며 이 목록이 최신 상태가 아닐 수 있음).
 
 - 파트너 찾기
 - 비즈니스 프로필

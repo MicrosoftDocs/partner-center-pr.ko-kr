@@ -3,12 +3,12 @@ title: Office 365 E4 구독을 Office 365 최신 버전으로 마이그레이션
 description: Microsoft Office 365 Enterprise E4 버전은 2017년 4월 7일부로 사용 중지되었습니다. 고객 구독을 Office 365 최신 버전으로 마이그레이션하는 방법을 알아보세요.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876933"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377715"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 Enterprise E4 구독을 Office 365 최신 버전으로 마이그레이션
 
@@ -20,7 +20,8 @@ Office 365 Enterprise E4 요금제가 2017년 4월 7일부로 사용 중지되�
 
 E4 구독이 만료되면 구독이 취소됩니다. 고객에게 연속성을 보장하기 위해, E4 구독이 곧 만료되는 고객을 아래에 나열된 지원되는 SKU 옵션으로 전환해야 합니다. 고객 서비스가 중단되는 일이 없도록 구독의 만료 날짜 전에 고객을 새 구독으로 이동하는 것이 좋습니다. 
 
->**참고** Office 365 Enterprise E4 상업용 및 정부용 SKU 모두 사용 중지되었습니다.
+> [!NOTE]  
+>  Office 365 Enterprise E4 상업용 및 정부용 Sku 모두 사용 중지 됩니다.
  
 구독의 세부 정보 페이지에서 E4 구독 상태가 "[날짜]에 자동 갱신"에서 "[날짜]에 만료"로 변경되었습니다. 
 

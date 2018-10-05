@@ -3,12 +3,12 @@ title: Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로�
 description: Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877503"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377655"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -24,8 +24,8 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너는 Mic
 
 기존 파트너 센터 계정이 있고 Microsoft 클라우드 독일의 CSP에 등록하려는 경우 Microsoft 클라우드 독일 파트너 센터에 대한 별도 계정을 새로 만들어야 합니다.
 
->**중요**<br>
-이미 CSP 프로그램에 등록되어 있으며 Microsoft 클라우드 독일 국가/지역 내의 고객 및 파트너에게도 판매하려는 경우, 이 특정 지역/국가에 대한 파트너 센터 계정을 새로 만들어야 합니다.  
+> [!IMPORTANT]  
+> 이미 CSP 프로그램에 등록되어 있으며 Microsoft 클라우드 독일 국가/지역 내의 고객 및 파트너에게도 판매하려는 경우, 이 특정 지역/국가에 대한 파트너 센터 계정을 새로 만들어야 합니다.  
 
 파트너 센터 계정을 만들고 Microsoft 클라우드 독일 CSP에 등록하려면 다음 정보를 제공해야 합니다(등록 프로세스를 시작하기 전에 이 정보를 수집해야 할 수 있음).
 
@@ -36,7 +36,7 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너는 Mic
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>1단계 - Microsoft 클라우드 독일 파트너 센터 계정 만들기 
 
-1.  Microsoft 클라우드 독일 csp에 등록 하려면 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) 하 고 **로그인**을 선택 합니다. 
+1.  Microsoft 클라우드 독일 CSP에 등록을 보려면 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) **로그인**을 선택 합니다. 
 
 2.  Office 365, Microsoft Azure, Microsoft Dynamics에 대한 회사의 Microsoft 클라우드 독일 계정의 글로벌 관리자 자격 증명으로 로그인합니다. 회사에 이러한 포털 계정이 없는 경우 **계정 만들기**를 선택하여 계정을 등록합니다.
 
@@ -56,8 +56,8 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너는 Mic
 
 2.  **동의 및 계속**을 선택합니다. 신청서를 검토하는 데 며칠이 걸릴 수 있습니다. 검토가 완료되면 전자 메일을 보내 드립니다.
 
-    >**중요**<br>
-    **동의 및 계속**을 선택하면, 귀하는 귀하의 회사를 대리할 수 있는 권한을 받았으며, 회사의 클라우드 솔루션 공급자 신청서를 검토하기 전에 Microsoft가 배경 신용 검사를 실시하는 것에 동의하는 것이 됩니다.
+> [!IMPORTANT]  
+> **동의 및 계속**을 선택하면, 귀하는 귀하의 회사를 대리할 수 있는 권한을 받았으며, 회사의 클라우드 솔루션 공급자 신청서를 검토하기 전에 Microsoft가 배경 신용 검사를 실시하는 것에 동의하는 것이 됩니다.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>3단계 - Microsoft 클라우드 독일 재판매인 계약 로그인 
 
@@ -69,10 +69,10 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너는 Mic
 
 Microsoft 클라우드 독일은 별도의 Microsoft Azure 인스턴스를 제공합니다. 이 인스턴스는 독일 내에서 전용 네트워크를 운영 중인 독일 데이터 센터에서 제공하는 것입니다. 관리자가 Azure 독일 포털에서 사용자 및 라이선스를 관리하도록 허용하려면 수동으로 관리자에게 관리자 에이전트 역할을 할당해야 합니다.
 
->**참고**<br>
-사용자에게 관리자 에이전트 역할을 할당하면 대시보드 메뉴에 **고객** 메뉴가 나타나며, 사용자는 고객 목록에 액세스하여 [새 고객을 추가](add-a-new-customer.md)할 수 있습니다.   
+> [!NOTE]  
+> 사용자에게 관리자 에이전트 역할을 할당하면 대시보드 메뉴에 **고객** 메뉴가 나타나며, 사용자는 고객 목록에 액세스하여 [새 고객을 추가](add-a-new-customer.md)할 수 있습니다.   
 
-1.  Azure 독일 포털에 로그인 합니다. https://portal.microsoftazure.de/.
+1.  Azure 독일 포털에 로그인 https://portal.microsoftazure.de/.
 
 2.  조직 내 적절한 사용자에게 관리자 에이전트 역할을 할당합니다. 이렇게 하려면 해당 사용자를 기본 제공 **AdminAgent** 그룹에 추가해야 합니다. 자세한 방법은 [Azure Active Directory에서 그룹의 구성원 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)를 참조하세요.
  

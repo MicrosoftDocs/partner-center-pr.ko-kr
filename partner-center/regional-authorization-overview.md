@@ -5,12 +5,12 @@ ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Azure AD 테넌트, 사용자 테넌트 통합, CSP의 테넌트, CSP의 파트너 계정, CSP 시장 및 지역, CSP를 통해 어디에서 판매할 수 있나요?
 ms.localizationpriority: medium
-ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876383"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377635"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>CSP의 테넌트 통합 전략
 
@@ -21,7 +21,8 @@ ms.locfileid: "2876383"
 
 과거에는 유럽 연합/EFTA를 제외하고는 파트너가 거래하기를 원하는 각 국가에 실제 업체가 있어야 했습니다. 즉, 파트너가 파트너 센터에서 청구 날짜와 기타 설정이 여러 개인 다중 테넌트를 설정해야 했습니다. 라틴 아메리카와 같은 지역에서는 파트너가 인접 지역 또는 국가에 있는 고객과 쉽게 작업할 수 없었으며, 일부 경우 완전히 제한되었습니다.
 
->**참고**<br> [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
+> [!NOTE]  
+>  [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
 
 ## <a name="planning"></a>계획
 
@@ -163,10 +164,11 @@ ms.locfileid: "2876383"
 
 -   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 올란드 제도, 안도라, 오스트리아, 벨기에, 부베섬, 불가리아, 크로아티아, 키프로스, 체코 공화국, 덴마크, 에스토니아, 페로 제도, 핀란드, 프랑스, 독일, 그리스, 지브롤터, 그린란드, 건지, 헝가리, 아이슬란드, 아일랜드, 맨 섬, 이탈리아, 저지, 얀마웬, 라트비아, 리히텐슈타인, 리투아니아, 룩셈부르크, 몰타, 모나코, 네덜란드, 노르웨이, 폴란드, 포르투갈, 루마니아, 산마리노, 슬로바키아, 슬로베니아, 스페인, 스발바르, 스웨덴, 스위스, 영국, 바티칸 
 
-    >**참고**<br> [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
+    > [!NOTE]  
+>  [Microsoft 클라우드 독일 CSP](partner-center-for-microsoft-cloud-germany.md)에 등록되어 있고 EU 및 EFTA 국가/지역의 고객에게 판매하는 경우 Microsoft 클라우드 독일 파트너 센터의 테넌트를 다른 테넌트와 통합할 수 없습니다.  
 
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burkina Faso, Burundi, Central African Republic, Chad, Comoros, Congo (DRC), Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, French Polynesia, Gabon, Gambia, Georgia, Guinea, Guinea-Bissau, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Liberia, Libya, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Morocco, New Caledonia, Niger, Oman, Pakistan, Palestinian Authority, Qatar, Republic of Macedonia (FYROM), Réunion, Saudi Arabia, Serbia, Seychelles, Sierra Leone, Somalia, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe. 
+-   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 아프가니스탄, 알바니아, 알제리, 아르메니아, 아제르바이잔, 바레인, 벨라루스, 베냉, 보스니아 헤르체고비나, 부르키나파소, 부룬디, 중앙 아프리카 공화국, 차드, 코모로, 콩고민주공화국, 콩고 공화국, 지부티, 이집트, 적도 기니, 에리트리아, 프랑스령 폴리네시아, 가봉, 감비아, 조지아, 기니, 기니비사우, 이라크, 이스라엘, 요르단, 카자흐스탄, 쿠웨이트, 키르기스스탄, 레바논, 라이베리아, 리비아, 마다가스카르, 말라위, 말리, 마요트, 몰도바, 몽골, 몬테네그로, 모로코, 뉴칼레도니아, 니제르, 오만, 파키스탄, 팔레스타인 자치 정부, 카타르, 마케도니아(FYROM), 리유니언, 사우디아라비아, 세르비아, 세이셸, 시에라리온, 소말리아, 남아프리카 공화국, 타지키스탄, 토고, 튀니지, 터키, 투르크메니스탄, 우크라이나, 아랍에미리트연합국, 우즈베키스탄, 예멘, 짐바브웨. 
 
 -   **Microsoft 판매 대상 위치가 다음 목록에 있는 국가/지역인 경우** 귀사의 지역에는 다음 목록에 있는 모든 국가/지역의 고객이 포함됩니다. 국가/지역: 앙골라, 보츠와나, 영국령 인도양 식민지, 카보베르데, 카메룬, 코트디부아르, 에티오피아, 가나, 케냐, 코소보, 레소토, 모리타니, 모리셔스, 모잠비크, 나미비아, 나이지리아, 르완다, 세네갈, 스와질랜드, 탄자니아, 우간다, 예멘, 잠비아. 
 

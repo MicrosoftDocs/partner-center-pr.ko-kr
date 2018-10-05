@@ -4,12 +4,12 @@ description: Microsoft 파트너 비즈니스를 성장시키는 데 도움을 �
 keywords: 추천, 추천에 응답, 잠재 고객, 영업 잠재 고객, 마케팅, 마케팅 프로필, 비즈니스 프로필, 비즈니스 성장, 비즈니스 기회, 역량, 실버 멤버십, 골드 멤버십, 평가판 제품, 시장 확장, 국가별 클라우드
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e84d24f398fb63e6fe8749ff4112866c4cf75b26
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876453"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377445"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft 파트너 비즈니스 성장 
 
@@ -23,7 +23,8 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 -   Microsoft 제품에 프로모션 가격 제공(CSP 파트너)
 -   추가 시장에서 판매(CSP 파트너)
 
->**참고** 이러한 기능을 활용하려면 회사는 Microsoft 파트너 네트워크에 등록해야 하며 파트너 센터 계정이 있어야 합니다. 네트워크에 가입하는 것에 대한 내용은 [Microsoft 파트너 네트워크 가입](mpn-overview.md)을 참조하세요. 일부 기능의 경우 클라우드 솔루션 공급자(CSP) 프로그램에서 재판매인이어야 합니다. 이 프로그램을 통한 판매에 대한 내용은 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.
+> [!NOTE]  
+>  회사는 Microsoft 파트너 네트워크에 등록 하 고 이러한 기능을 활용 하려면 파트너 센터 계정이 있어야 합니다. 네트워크에 가입하는 것에 대한 내용은 [Microsoft 파트너 네트워크 가입](mpn-overview.md)을 참조하세요. 일부 기능의 경우 클라우드 솔루션 공급자(CSP) 프로그램에서 재판매인이어야 합니다. 이 프로그램을 통한 판매에 대한 내용은 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.
 
 ## <a name="resources-to-help-your-business-grow"></a>비즈니스가 성장하는 데 도움이 되는 리소스
 
@@ -34,9 +35,9 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 | 고객에게 Microsoft 제품에 대한 평가판 구독 제공 | 고객 기반에게 더 많은 제품을 판매하기 위해 평가판 구독을 사용하는 방법을 알아보려면 [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 읽어보세요.| CSP 파트너 |
 | 고객에게 Microsoft 구독에 대한 프로모션 가격 제공 | Microsoft에서는 가끔 라이선스 기반 구독에 대한 프로모션을 제공하므로 이를 통해 비용을 절감하여 그 혜택을 고객에게 전달하고 비즈니스를 성장시킬 수 있습니다. 이러한 방법은 [고객에게 Microsoft 구독에 대한 프로모션 가격 제공](promotions.md)을 읽어보세요. | CSP 파트너 |
 | 추가 시장에서 판매 | 클라우드 솔루션 공급자 판매 채널은 여러 국가 및 지역에서 사용할 수 있습니다. 목록을 검토하려면 [클라우드 솔루션 공급자 시장](agreements.md)을 참조하세요. 클라우드 솔루션 공급자 채널에 대한 소개는 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.  | CSP 파트너 |
-비영리 조직 교육 등 특수 산업을 대상으로 판매|[특수 산업을 대상으로 판매](get-special-pricing-for-offers.md)|CSP 파트너|
+비영리 조직 및 교육와 같은 특수 산업을 대상으로 판매|[특수 산업을 대상으로 판매](get-special-pricing-for-offers.md)|CSP 파트너|
 |게임이 협동 인센티브 프로그램에서 사용할 수 있는 많은 활동을 통해 비즈니스를 성장 합니다. 대시보드를 통해 활동에 대 한 클레임 파일입니다.| [만들기 및 인센티브 청구 관리](create-incentives-claims.md)|CSP 파트너|
-|이미 판매는 Microsoft 소프트웨어와 함께 작동 하는 타사 제품을 포함 하 여 소프트웨어의 새 번들을 빌드|[타사 제품 검색](third-party-offers.md)|CSP 파트너|
+|이미 판매 하는 Microsoft 소프트웨어와 함께 작동 하는 타사 제품을 포함 하 여 소프트웨어의 새 번들을 빌드|[타사 제품 검색](third-party-offers.md)|CSP 파트너|
 
 ## <a name="see-also"></a>참고 항목
 

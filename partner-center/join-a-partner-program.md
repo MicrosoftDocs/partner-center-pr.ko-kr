@@ -3,12 +3,12 @@ title: Microsoft 파트너 네트워크 가입 | 파트너 센터
 description: 파트너 센터에서 Microsoft Action Pack을 구입하고 역량 획득
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877113"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377795"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft 파트너 네트워크 가입(MPN)
 
@@ -37,7 +37,8 @@ Microsoft 파트너로서 비즈니스를 수행하려면 MPN ID 번호가 필�
 
 4.  기존 조직을 통해 등록하는 경우 조직의 이름 및 주소를 입력해야 합니다.
 
->**참고**<br> 판매할 각각의 위치에 있는 조직의 본사의 주소를 제공해야 합니다.
+> [!NOTE]  
+>  판매할 각각의 위치에 있는 조직의 본사의 주소를 제공해야 합니다.
 
 네트워크 회원으로 무료로 제공되는 이 기본 수준에 참여하면 비즈니스를 구축하고 다음 단계로 나아가는 데 도움이 되는 일련의 [핵심 내부용 권리 혜택](https://partner.microsoft.com/membership/core-benefits)을 받게 됩니다. 
 

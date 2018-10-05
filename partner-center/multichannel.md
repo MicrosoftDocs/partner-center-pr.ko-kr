@@ -4,12 +4,12 @@ description: 경우에 따라 고객이 다른 곳에서 구입한 구독을 프
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875843"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377485"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
@@ -46,8 +46,8 @@ ms.locfileid: "2875843"
 </tbody>
 </table>
 
->**중요**<br>
-현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대한 모든 발표는 파트너 대시보드를 포함한 일반적인 통신 채널을 통해 공개될 것입니다. 
+> [!IMPORTANT]  
+> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대한 모든 발표는 파트너 대시보드를 포함한 일반적인 통신 채널을 통해 공개될 것입니다. 
 
 ## <a name="see-also"></a>참고 항목
 

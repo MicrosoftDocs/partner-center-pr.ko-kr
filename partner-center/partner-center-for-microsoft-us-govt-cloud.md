@@ -3,12 +3,12 @@ title: Microsoft Cloud for US Government용 파트너 센터 | Microsoft Cloud f
 description: Microsoft Cloud for US Government용 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e17f2211e72501fdc72fe077b53d855fc2119759
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875643"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377525"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터
 
@@ -30,8 +30,8 @@ Microsoft Cloud for US Government는 정부 보안, 프라이버시 및 규정 �
 
 Microsoft Cloud for US Government의 CSP(클라우드 솔루션 공급자) 프로그램에 등록하면 파트너 센터를 사용하여 미국 정부 고객에게 클라우드 솔루션 및 서비스를 판매할 수 있습니다. 
 
->**참고**<br>
-이 문서가 게시된 시점에는 Microsoft Cloud for US Government용 파트너 센터에 다음과 같은 파트너 센터 기능이 제공되지 않았습니다(문서가 게시된 후 일부 기능이 파트너 센터에 추가되었을 수 있으며 이 목록이 최신 상태가 아닐 수 있음).
+> [!NOTE]  
+> 이 문서가 게시된 시점에는 Microsoft Cloud for US Government용 파트너 센터에 다음과 같은 파트너 센터 기능이 제공되지 않았습니다(문서가 게시된 후 일부 기능이 파트너 센터에 추가되었을 수 있으며 이 목록이 최신 상태가 아닐 수 있음).
 
 - 파트너 찾기
 - 비즈니스 프로필

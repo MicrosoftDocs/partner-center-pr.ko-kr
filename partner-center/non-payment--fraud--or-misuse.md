@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876283"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377705"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
@@ -61,7 +61,8 @@ ms.locfileid: "2876283"
 
 #### <a name="post-purchase-customer-account-management"></a>구매 후 고객 계정 관리
 - 고객과 협력하여 적절한 모니터링 임계값을 설정하는 동시에 클라우드 사용 비즈니스 요구를 이해
-    >**참고** 파트너 센터에서 [월별 Azure 지출 예산을 설정](set-an-azure-spending-budget-for-your-customers.md)하여 한 달 동안의 고객 사용량을 모니터링하고 고객의 예산이 소진되어갈 때 알림을 받을 수 있습니다.
+    > [!NOTE]  
+    >  달 동안 고객 사용량을 모니터링 하 고 고객의 예산이 소진 되어 갈 때 알림을 받도록 하려면 파트너 센터에서 [월별 Azure 지출 예산을 설정할](set-an-azure-spending-budget-for-your-customers.md) 수 있습니다.
 - [고객 활동 로그](activity-logs.md)를 정기적으로 모니터링하여 초기에 사기를 감지
 - 의심스러운 활동이 감지되면 빠른 초치 시행
 - 위험 완화 컨트롤을 구현하지 않은 경우 고객에게 구독에 대한 전체 관리자 액세스 권한을 부여하지 않도록 함
@@ -74,8 +75,8 @@ ms.locfileid: "2876283"
 
 온라인 위험을 완화하는 전략에 대한 자세한 내용은 [온라인 트랜잭션 위험 관리 가이드](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)를 참조하세요.
 
->**중요**<br>
-Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 파트너 또는 고객 활동을 감지한 경우 적용 단계를 진행합니다. 고객 활동은 즉시 일시 중단될 수 있습니다. 또한 요청 시 Microsoft에서 적용 작업에 대해 알리거나 업데이트할 수 있습니다.
+> [!IMPORTANT]  
+> Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 파트너 또는 고객 활동을 감지한 경우 적용 단계를 진행합니다. 고객 활동은 즉시 일시 중단될 수 있습니다. 또한 요청 시 Microsoft에서 적용 작업에 대해 알리거나 업데이트할 수 있습니다.
 
  
 

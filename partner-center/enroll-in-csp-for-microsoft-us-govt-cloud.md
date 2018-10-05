@@ -3,12 +3,12 @@ title: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급�
 description: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877203"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377665"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -30,8 +30,8 @@ ms.locfileid: "2877203"
 -  조직의 Microsoft 파트너 네트워크(MPN) ID 
 -  미국 내 회사 주소
 
->**중요**<br>
-기존 파트너 센터 계정이 있고 미국 정부용 Microsoft 클라우드의 CSP에 등록하려는 경우 미국 정부 시장을 위한 별도의 계정을 새로 만들어야 합니다.
+> [!IMPORTANT]  
+> 기존 파트너 센터 계정이 있고 미국 정부용 Microsoft 클라우드의 CSP에 등록하려는 경우 미국 정부 시장을 위한 별도의 계정을 새로 만들어야 합니다.
 
 ## <a name="how-to-enroll"></a>등록 방법 
 
@@ -48,8 +48,8 @@ ms.locfileid: "2877203"
 
 2.  **동의 및 계속**을 선택합니다. 신청서를 검토하는 데 며칠이 걸릴 수 있습니다. 검토가 완료되면 전자 메일을 보내 드립니다.
 
-    >**중요**<br>
-    **동의 및 계속**을 선택하면 귀하는 귀하의 조직을 대리할 수 있는 권한을 받았으며, 조직의 클라우드 솔루션 공급자 신청서를 검토하기 전에 Microsoft가 배경 신용 검사를 실시하는 것에 동의하는 것이 됩니다.
+    > [!IMPORTANT]  
+    > **동의 및 계속**을 선택하면 귀하는 귀하의 조직을 대리할 수 있는 권한을 받았으며, 조직의 클라우드 솔루션 공급자 신청서를 검토하기 전에 Microsoft가 배경 신용 검사를 실시하는 것에 동의하는 것이 됩니다.
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>3단계 - 미국 정부용 Microsoft 클라우드 재판매인 계약에 서명
@@ -63,10 +63,10 @@ ms.locfileid: "2877203"
 
 미국 정부용 Microsoft 클라우드는 정부 규정, 보안 및 프라이버시 표준을 충족하는 별도의 Microsoft Azure 인스턴스를 제공합니다. 관리자가 Microsoft Azure Portal에서 사용자 및 라이선스를 관리하도록 허용하려면 수동으로 관리자에게 관리자 에이전트 역할을 할당해야 합니다.
 
->**참고**<br>
-관리자 에이전트 역할에 사용자를 할당하면 해당 사용자는 **고객** 페이지의 고객 목록에 액세스하고 [새 고객을 추가](add-a-new-customer.md)할 수 있게 됩니다.   
+> [!NOTE]  
+> 관리자 에이전트 역할에 사용자를 할당하면 해당 사용자는 **고객** 페이지의 고객 목록에 액세스하고 [새 고객을 추가](add-a-new-customer.md)할 수 있게 됩니다.   
 
-1.  Microsoft Azure 관리 포털에 로그인 합니다. https://portal.azure.us/.
+1.  Microsoft Azure 관리 포털에 로그인 https://portal.azure.us/.
 
 2.  조직 내 적절한 사용자에게 관리자 에이전트 역할을 할당합니다. 이렇게 하려면 해당 사용자를 기본 제공 **AdminAgent** 그룹에 추가해야 합니다. 자세한 방법은 [Azure Active Directory에서 그룹의 구성원 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)를 참조하세요.
  

@@ -4,12 +4,12 @@ description: Office 365 파트너 관리 센터 기능이 파트너 센터로 �
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dd0b3e73939f9992e32aa64571ef3fd99a61ef37
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875593"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377595"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>파트너 관리 센터에서 파트너 대시보드로 이동
 
@@ -17,7 +17,8 @@ ms.locfileid: "2875593"
 
 -  파트너 센터
 
->**참고** 이 문서의 처음 게시 이후에 모든 날짜가 업데이트되었습니다.
+> [!NOTE]  
+>  이 문서의 처음 게시 이후에 모든 날짜가 업데이트 되었습니다.
 
 Office 365 파트너 관리 센터(PAC)가 Microsoft 파트너 대시보드로 이동됩니다.
 
@@ -36,7 +37,8 @@ Microsoft 파트너 대시보드를 Microsoft 및 고객과의 파트너 관계�
 
 PAC에서 이동하기 위해 [Microsoft 파트너 대시보드](https://partnercenter.microsoft.com/)를 사용하여 지금 시작하세요.  PAC에 대해 사용하는 것과 동일한 자격 증명을 파트너 대시보드에 대해 사용합니다. 
 
->**중요** PAC에서 사용했던 일부 기능 및 기능은 파트너 대비소드에서 사용할 수 없습니다.
+> [!IMPORTANT]  
+> 일부 기능 및 기능은 PAC에서 사용할 수 있는 파트너 대시보드에서 제공 되지 않습니다.
 
  [나란히 비교](moving-from-pac-to-pc.md)를 읽고 이러한 변경 내용에 대해 이해하고 잘 알고 있어야 합니다.  [Microsoft 파트너 대시보드 도움말](https://partnercenter.microsoft.com/partner/help)에서 계정 관리, 고객 관리, 라이선스 및 구독, 가격 및 제품 등에 대한 추가 정보를 볼 수 있습니다.
 

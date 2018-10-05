@@ -4,12 +4,12 @@ description: 자신의 포트폴리오에 잘 맞는 타사 제품 유형을 검
 author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어, 타사 검색
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876723"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377505"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>판매할 타사 제품 검색
 
@@ -51,7 +51,8 @@ ms.locfileid: "2876723"
 7.  구독을 추가한 후 구독 목록에서 구독 이름을 클릭하여 엽니다. 
 8.  **구독 편집** 페이지에서 라이선스 수량을 변경하거나 구독을 일시 중단할 수도 있습니다.
 
->**참고**<br> 타사 관리자 사이트에서 고객에게 라이선스를 할당합니다.
+> [!NOTE]  
+>  타사 관리자 사이트에서 고객에게 라이선스를 할당합니다.
 
     
 

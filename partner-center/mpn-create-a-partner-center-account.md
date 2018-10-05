@@ -3,12 +3,12 @@ title: 파트너 센터 계정 만들기 | 파트너 센터
 description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876783"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377775"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
@@ -60,7 +60,8 @@ ms.locfileid: "2876783"
 
     기본 연락처는 응용 프로그램과 관련하여 저희 쪽에서 연락을 취할 수 있는 조직 내 사람이어야 합니다(귀하 또는 조직 내 다른 사람도 가능). 또한 이 정보는 이 사람이 귀하의 조직에서 일하고 있으며 파트너 센터 계정에 등록되었는지 여부를 확인하는 데 사용됩니다.
 
-    >**중요**<br> 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 전자 메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 등록했는지, (2) 이 전자 메일 주소가 귀사의 전자 메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 전자 메일 주소를 확인하면 귀하가 제공하신 정보 검토가 계속 진행됩니다.
+    > [!IMPORTANT]  
+    > 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 전자 메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 등록했는지, (2) 이 전자 메일 주소가 귀사의 전자 메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 전자 메일 주소를 확인하면 귀하가 제공하신 정보 검토가 계속 진행됩니다.
 
 4.  Microsoft 파트너 네트워크 계약의 약관을 읽고 동의합니다. 
 

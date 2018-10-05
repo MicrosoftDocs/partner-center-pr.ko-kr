@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875183"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377545"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -24,8 +24,8 @@ ms.locfileid: "2875183"
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
->**참고**<br>
-송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
+> [!NOTE]  
+> 송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
 
 일회성 (Azure reserved VM instances)에 대 한 별도 송장과 라이선스 기준 (Office365) 및 사용량 기준 (Azure) 요금에 대 한 송장을 하나 받게 됩니다 요금.
 
@@ -75,7 +75,7 @@ ms.locfileid: "2875183"
 <tr class="even">
 <tr class="even">
 <td>소계</td>
-<td>세금 및 세금 전용 요금 크레딧 하기 전의 총액.</td>
+<td>세금 및 세금 단독 요금 및 크레딧이 하기 전의 총액.</td>
 </tr>
 <td>세금</td>
 <td>송장 2페이지의 시작 부분에 있는 세부 정보 섹션에 합산되어 있는 현재 요금의 총 세금입니다. 이 숫자의 다음 열에 있는 모든 요금의 합계입니다.
@@ -86,7 +86,7 @@ ms.locfileid: "2875183"
 </tr>
 <tr class="odd">
 <td>다른 크레딧</td>
-<td>세금 전용 크레딧입니다.</td>
+<td>세금 단독 크레딧입니다.</td>
 </tr>
 <tr class="even">
 <td>현재 총 요금</td>

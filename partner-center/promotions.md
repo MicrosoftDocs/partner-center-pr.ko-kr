@@ -3,12 +3,12 @@ title: 프로모션을 사용하여 신규 고객 유치 | 파트너 센터
 description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트너는 프로모션 가격으로 구독을 구입하여 그 절감 혜택을 고객에게 전달할 수 있습니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875383"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377685"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>프로모션을 사용하여 신규 고객 유치  
 
@@ -34,8 +34,8 @@ Microsoft에서는 두 가지 프로모션을 제공합니다. 하나는 CSP(클
 
 사용 가능한 프로모션이 있는 경우 **프로모션** 페이지에서 확인할 수 있습니다. **대시보드** 메뉴에서 **프로모션**을 선택하여 할인, 프로모션 종류, 해당 구독의 프로모션 시작 및 종료 날짜와 함께 현재 프로모션 목록을 볼 수 있습니다. 사용 가능한 프로모션이 없는 경우 프로모션이 없다는 메시지가 표시됩니다. 
 
->**참고**<br>
-구매할 때에도 프로모션을 확인할 수 있습니다. 구독을 선택하면 **검토** 페이지에 할인율이 표시됩니다.
+> [!NOTE]  
+> 구매할 때에도 프로모션을 확인할 수 있습니다. 구독을 선택하면 **검토** 페이지에 할인율이 표시됩니다.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>할인된 가격으로 구독 구입
 

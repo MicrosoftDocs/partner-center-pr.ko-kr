@@ -4,12 +4,12 @@ description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877223"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377535"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -37,8 +37,8 @@ ms.locfileid: "2877223"
 5.  고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.
 
 
->**중요**<br>
-고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 요청하면 파트너는 고객 대신 Microsoft 지원 센터로 전화를 걸어 서비스 요청을 열 수 있습니다.
+> [!IMPORTANT]  
+> 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 요청하면 파트너는 고객 대신 Microsoft 지원 센터로 전화를 걸어 서비스 요청을 열 수 있습니다.
 
 ## <a name="related-topics"></a>관련 항목
 

@@ -4,12 +4,12 @@ description: 당사 파트너는 비즈니스 성장 여부와 투자 중점 분
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875613"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377615"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -21,7 +21,8 @@ ms.locfileid: "2875613"
 
 클라우드 솔루션 공급자 프로그램을 통해 모든 고객의 데이터를 볼 수 있습니다. 일부 고객은 다른 파트너를 통해 또는 Microsoft에서 직접 라이선스를 구입할 수 있습니다. 이 경우 모든 파트너에 대한 전체 라이선스가 표시됩니다. 귀하의 라이선스만 보려면 대신 고객의 구독으로 이동합니다.
 
->**참고**<br> 현재 Office 365 및 Dynamics 365에 대한 데이터만 표시됩니다. 추후에 추가 제품에 대한 데이터를 제공할 예정입니다.
+> [!NOTE]  
+>  현재 Office 365 및 Dynamics 365에 대한 데이터만 표시됩니다. 추후에 추가 제품에 대한 데이터를 제공할 예정입니다.
 
 ## <a name="find-license-and-user-data"></a>라이선스 및 사용자 데이터 찾기
 

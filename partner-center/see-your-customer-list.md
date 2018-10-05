@@ -4,12 +4,12 @@ description: 고객 레코드는 파트너 센터에서 가장 중요한 정보 
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876823"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377465"
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 
@@ -35,7 +35,7 @@ ms.locfileid: "2876823"
 **대시보드** 메뉴에서 **고객**을 선택합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
-4.  정보 **에 대 한 청구서** 고객의 회사 이름을 업데이트 합니다. 새 값을 저장할 때 고객 목록에 반영 됩니다. 청구서에 회사 이름 및 고객 목록 값만 변경 됩니다. 이 반영 되지 않습니다 아무 곳 이나 다른 합니다.
+4.  고객의 **청구서를** 정보에서 회사 이름을 업데이트 합니다. 새 값을 저장할 때 고객 목록에 반영 됩니다. 청구서에 회사 이름 및 고객 목록 값만 변경 됩니다. 이 반영 되지 않습니다 아무 곳 이나 다른 합니다.
 
 ## <a name="export-your-customer-list"></a>고객 목록 내보내기
 
@@ -65,8 +65,8 @@ ms.locfileid: "2876823"
     -   **상태**
     -   **재판매인** - 구독을 소유하고 관리하는 재판매인의 ID
 
->**참고**<br>
-구독 관리에 대한 자세한 내용은 [고객 구독](customer-subscriptions.md)을 참조하세요.
+> [!NOTE]  
+> 구독 관리에 대한 자세한 내용은 [고객 구독](customer-subscriptions.md)을 참조하세요.
 
      
 

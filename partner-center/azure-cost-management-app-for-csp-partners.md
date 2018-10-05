@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877453"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377805"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 
@@ -41,8 +41,9 @@ Cloudyn의 Azure 비용 관리는 고객이 Azure를 사용하는 정도와 사�
 ## <a name="add-a-secret-key-to-your-app"></a>앱에 비밀 키를 추가합니다.
 1.  **Add key** 버튼 옆에 있는 드롭다운 목록에서 기간을 1년 또는 2년으로 선택합니다.
 2.  **Add key**를 클릭합니다. 
-3.  비밀 키 값을 복사하고 저장합니다. 30일 무료 평가판을 사용하려면 이 키가 필요합니다.
-<br>**참고**: 응용 프로그램 비밀 키는 만료 날짜가 더 긴 암호와 같습니다. 나중에 사용할 수 있도록 키 값을 안전한 위치에 저장하십시오.
+3.  비밀 키 값을 복사하고 저장합니다. 30일 무료 평가판을 사용하려면 이 키가 필요합니다.<br>
+> [!NOTE]  
+> 응용 프로그램 비밀 키는 만료 날짜가 더 긴 암호와 같습니다. 나중에 사용할 수 있도록 키 값을 안전한 위치에 저장하십시오.
 
 ## <a name="next-steps"></a>다음 단계
 [30일 무료 평가판](https://go.microsoft.com/fwlink/?linkid=857895)을 시작합니다.

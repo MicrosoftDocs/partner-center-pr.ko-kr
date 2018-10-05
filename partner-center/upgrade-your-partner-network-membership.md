@@ -4,12 +4,12 @@ description: Microsoft 파트너 네트워크 멤버십을 업그레이드하면
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875713"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377785"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -29,7 +29,7 @@ Microsoft의 파트너 프로그램은 비즈니스 목표 달성을 도와주�
 
   - 골드 역량 - 특정 Microsoft 솔루션 영역 내에서 최고의 능력
 
-Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. 으로 Microsoft 파트너 네트워크의 멤버십에에서 대 한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com).
+Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. 이동 Microsoft 파트너 네트워크의 멤버십에에서 대 한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입
@@ -44,9 +44,10 @@ Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영�
 
 - 매달 미화 100달러의 Microsoft Azure 크레딧 제공
 
-로 Microsoft Action Pack에 대 한 자세한 내용은 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Microsoft Action Pack에 대 한 자세한 정보를 보려면 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**참고** 이 링크를 따라가면 다른 웹 사이트로 이동됩니다. 다시 이 사이트, 즉 파트너 센터로 돌아와서 Action Pack을 구독하세요.
+> [!NOTE]  
+> 이 링크를 따라 다른 웹 사이트를 이동 됩니다. 다시 이 사이트, 즉 파트너 센터로 돌아와서 Action Pack을 구독하세요.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack 구독
@@ -75,8 +76,8 @@ Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영�
 
 3. 매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다. 
 
-    >**참고**<br>
-구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다. 구독이 만료되기 전에 갱신하라고 알려 드립니다.
+   > [!NOTE]  
+> 구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다. 구독이 만료되기 전에 갱신하라고 알려 드립니다.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack 구독 갱신
@@ -106,7 +107,7 @@ Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영�
 
 Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문의해야 합니다.
 
-1. 이동 하려면 https://partnercenter.microsoft.com/partner/support.
+1. 이동 https://partnercenter.microsoft.com/partner/support.
 
 2. **파트너 센터에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.
 

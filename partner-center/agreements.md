@@ -4,12 +4,12 @@ description: 파트너 센터에서 시장 및 언어별 고객 계약서 템플
 author: Maggie Evans
 keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북미 지역, CSP 중앙 아메리카, CSP 남미, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft 클라우드 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877513"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377815"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft 클라우드 솔루션 공급자 시장 및 고객 계약
 
@@ -17,8 +17,8 @@ ms.locfileid: "2877513"
 
 일부 지역의 경우 고객의 선호 언어에 따라 여러 언어 버전으로 계약서가 제공됩니다. 고객에게 선호하는 언어로 된 버전을 제공하세요.
 
->**참고**<br>
-아래에 나열된 Microsoft 클라우드 계약서 고객 템플릿은 모든 지역 및 언어에 대해 2017년 9월 1일부터 유효합니다.
+> [!NOTE]  
+> 아래에 나열된 Microsoft 클라우드 계약서 고객 템플릿은 모든 지역 및 언어에 대해 2017년 9월 1일부터 유효합니다.
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해
@@ -180,7 +180,7 @@ ms.locfileid: "2877513"
 - 이스라엘: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [히브리어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_HEB_Sep20172_CR.pdf)  
 - 요르단: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [아랍어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - 케냐: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- 코소보: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - 쿠웨이트: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [아랍어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - 레바논: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [아랍어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - 레소토: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)

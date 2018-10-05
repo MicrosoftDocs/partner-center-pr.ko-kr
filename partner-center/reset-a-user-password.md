@@ -4,12 +4,12 @@ description: 사용자가 암호를 잊은 경우 새 임시 암호를 할당할
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876843"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377425"
 ---
 # <a name="reset-a-user-password"></a>사용자 암호 다시 설정
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876843"
 
 -  파트너 센터
    
->**참고** Microsoft 클라우드 독일의 CSP(클라우드 솔루션 공급자) 프로그램에 등록한 경우 사용자 암호를 다시 설정하는 방법은 [Microsoft 클라우드 독일 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md)를 참조하세요.
+> [!NOTE]  
+>  Microsoft 클라우드 독일의 클라우드 솔루션 공급자 (CSP) 프로그램에 등록 한 경우 사용자의 암호를 다시 설정에 대 한 내용은 [Microsoft 클라우드 독일 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md) 를 참조 하세요.
 
 사용자가 암호를 잊은 경우 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.
 

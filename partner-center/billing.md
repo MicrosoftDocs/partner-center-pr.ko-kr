@@ -5,12 +5,12 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: 2bf56f90a6a49184ea2992adf534fde3d2043e7b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9e66f9c4060a155f4099f28ef29559d5a6f628ba
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876363"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377745"
 ---
 # <a name="billing"></a>청구
 
@@ -24,8 +24,8 @@ ms.locfileid: "2876363"
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
->**참고**<br>
-송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
+> [!NOTE]  
+> 송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
 
 고객에 대한 요금 청구에 대해 알아야 할 주요 정보는 다음과 같습니다.
 
