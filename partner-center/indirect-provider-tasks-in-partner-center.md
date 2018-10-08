@@ -3,12 +3,12 @@ title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
 description: 간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377765"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445465"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -33,7 +33,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 1.  [Microsoft 공식 간접 공급자 목록](https://partnercenter.microsoft.com/partner/find-a-provider)에서 귀사의 프로필을 검토합니다. 
 
-    -   회사의 간접 공급자 프로필을 변경하려면 파트너 대시보드 지원 요청을 제출하고 이 요청에 회사 이름, 로고 및 각 위치에 대한 대상 URL을 포함합니다. 프로필은 2~3주 내에 업데이트됩니다.<br>
+    -   회사의 간접 공급자 프로필을 변경 하려면 Microsoft 담당자에 게 문의 합니다.<br>
 
 2.  간접 재판매인과의 관계 구축
 
