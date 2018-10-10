@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: 여기에서 파트너 대시보드에 대한 도움말 얻기
-description: 계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든이 대시보드 도움말 라이브러리를 통해 답변을 찾아보세요.
+title: 파트너 센터에 대 한 도움말 여기에서 시작
+description: 계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? 이 파트너 센터에서 답 CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든 라이브러리를 찾습니다.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876373"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489679"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>여기에서 파트너 대시보드에 대한 도움말 얻기
+# <a name="start-here-for-help-with-partner-center"></a>파트너 센터에 대 한 도움말 여기에서 시작
 
-계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든이 대시보드 도움말 라이브러리를 통해 답변을 찾아보세요.
+계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? 이 파트너 센터에서 답 CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든 라이브러리를 찾습니다.
 
-이미 대시보드에 익숙한 경우 [새 소식](/partner-center/whats-new-in-pc)을 알아보세요.
+이미 파트너 센터에 익숙한 경우 [새로운](/partner-center/whats-new-in-pc)참조 하세요.
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ ms.locfileid: "2876373"
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">파트너 대시보드 둘러보기</a>(로그인 필요)</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">파트너 센터 둘러보기</a> (로그인 필요)</h3>
                     </div>
                 </div>
             </div>

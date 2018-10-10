@@ -4,27 +4,27 @@ description: 카탈로그에는 파트너가 판매할 수 있는 모든 Microso
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874933"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488549"
 ---
-# <a name="customize-the-catalog"></a><span data-ttu-id="2a0cc-103">카탈로그 사용자 지정</span><span class="sxs-lookup"><span data-stu-id="2a0cc-103">Customize the catalog</span></span>
+# <a name="customize-the-catalog"></a><span data-ttu-id="52878-103">카탈로그 사용자 지정</span><span class="sxs-lookup"><span data-stu-id="52878-103">Customize the catalog</span></span>
 
-**<span data-ttu-id="2a0cc-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="2a0cc-104">Applies to</span></span>**
+**<span data-ttu-id="52878-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="52878-104">Applies to</span></span>**
 
--  <span data-ttu-id="2a0cc-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="2a0cc-105">Partner Center</span></span>
--  <span data-ttu-id="2a0cc-106">미국 정부용 Microsoft 클라우드 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="2a0cc-106">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="2a0cc-107">Microsoft 클라우드 독일 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="2a0cc-107">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="52878-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="52878-105">Partner Center</span></span>
+-  <span data-ttu-id="52878-106">미국 정부용 Microsoft 클라우드 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="52878-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="52878-107">Microsoft 클라우드 독일 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="52878-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="2a0cc-108">카탈로그에 고객에게 제공할 수 있는 Microsoft 제품 및 추가 기능이 나열되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2a0cc-108">The catalog lists Microsoft products and add-ons available for you to offer to customers.</span></span> <span data-ttu-id="2a0cc-109">이러한 제품은 고객 세그먼트(엔터프라이즈, 중소기업, 정부 등)별로 그룹화됩니다.</span><span class="sxs-lookup"><span data-stu-id="2a0cc-109">These offers are grouped by customer segment, including enterprise, small business, and government.</span></span> <span data-ttu-id="2a0cc-110">조직이 가장 많이 사용하는 제품에 쉽게 액세스하거나 새로운 제품을 판매 에이전트에게 쉽게 소개할 수 있도록 카탈로그 목록의 위쪽에 최대 5개의 제품을 고정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2a0cc-110">To make it easier to access the offers that your organization uses the most or to showcase new offers to your sales agents, you can pin up to five offers to the top of the catalog list.</span></span>
+<span data-ttu-id="52878-108">카탈로그에 고객에게 제공할 수 있는 Microsoft 제품 및 추가 기능이 나열되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="52878-108">The catalog lists Microsoft products and add-ons available for you to offer to customers.</span></span> <span data-ttu-id="52878-109">이러한 제품은 고객 세그먼트(엔터프라이즈, 중소기업, 정부 등)별로 그룹화됩니다.</span><span class="sxs-lookup"><span data-stu-id="52878-109">These offers are grouped by customer segment, including enterprise, small business, and government.</span></span> <span data-ttu-id="52878-110">조직이 가장 많이 사용하는 제품에 쉽게 액세스하거나 새로운 제품을 판매 에이전트에게 쉽게 소개할 수 있도록 카탈로그 목록의 위쪽에 최대 5개의 제품을 고정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="52878-110">To make it easier to access the offers that your organization uses the most or to showcase new offers to your sales agents, you can pin up to five offers to the top of the catalog list.</span></span>
 
-**<span data-ttu-id="2a0cc-111">카탈로그 사용자 지정</span><span class="sxs-lookup"><span data-stu-id="2a0cc-111">Customize the catalog</span></span>**
+**<span data-ttu-id="52878-111">카탈로그 사용자 지정</span><span class="sxs-lookup"><span data-stu-id="52878-111">Customize the catalog</span></span>**
 
-1.  <span data-ttu-id="2a0cc-112">대시보드 메뉴에서 &gt; **판매** &gt; **카탈로그**로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="2a0cc-112">Go to the Dashboard menu &gt; **Sell** &gt; **Catalog**.</span></span>
-2.  <span data-ttu-id="2a0cc-113">카탈로그의 맨 위에 표시할 제품을 최대 5개 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2a0cc-113">Choose up to five offers to show at the top of the catalog.</span></span>
+1.  <span data-ttu-id="52878-112">파트너 센터 메뉴로 이동 &gt; **판매** &gt; **카탈로그**.</span><span class="sxs-lookup"><span data-stu-id="52878-112">Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.</span></span>
+2.  <span data-ttu-id="52878-113">카탈로그의 맨 위에 표시할 제품을 최대 5개 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="52878-113">Choose up to five offers to show at the top of the catalog.</span></span>
 
  
 
