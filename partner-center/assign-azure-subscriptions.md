@@ -4,22 +4,22 @@ description: 이제 파트너 센터에서 고객에게 Azure 계정을 할당�
 author: Labrenne
 keywords: Azure, Azure 구독, 구독, 구독 할당, azure 구독 관리
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377565"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489029"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>파트너 대시보드에서 Azure 구독
+# <a name="assign-azure-subscriptions-in-partner-center"></a>파트너 센터에서 Azure 구독 할당
 
 **적용 대상**
 
 -  파트너 센터
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>파트너 대시보드의 고객에게 Azure 구독 할당
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>파트너 센터의 고객에게 Azure 구독 할당
 
-1. **대시보드** 메뉴에서 **고객**을 선택하고 관리하려는 고객을 찾습니다.
+1. **파트너 센터** 메뉴에서 **고객** 을 선택 하 고 관리 하려는 고객을 찾습니다.
 
 2.  행의 끝에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장한 다음, **Microsoft Azure 관리 포털**을 선택합니다. 그러면 고객의 구독을 관리할 수 있는 Azure Portal로 이동됩니다. 
 

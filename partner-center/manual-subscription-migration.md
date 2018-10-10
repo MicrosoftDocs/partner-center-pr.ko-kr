@@ -4,12 +4,12 @@ description: Microsoft에서는 조직이 성장, 발전 및 변혁을 통해 �
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876303"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489789"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX 구독을 Dynamics 365로 마이그레이션
 
@@ -78,7 +78,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 **새 구독 구매**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **구독 추가**를 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택한 **구독 추가**선택 합니다.
 2.  카탈로그에서 구매할 구독을 선택하고(이 경우 Dynamics 365 for Operations, Enterprise Edition) 라이선스 수를 입력한 다음 **제출**을 선택합니다.
 
     이제 고객은 이전 구독과 새 구독이 둘 다 있어야 합니다. 이 예제에서는 이전 Dynamics AX Enterprise와 새 '대상' 구독인 Dynamics 365 for Operations, Enterprise Edition이 있습니다.
@@ -87,7 +87,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 **사용자 라이선스 다시 할당**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **사용자 및 라이선스**를 선택합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택한 **사용자 및 라이선스를**선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
 2.  사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
 3.  **라이선스 관리** 페이지에서 **Dynamics AX Enterprise** 라이선스 확인란을 선택 취소하고 **Dynamics 365 for Operations** 라이선스를 선택합니다.
 4.  **제출**을 선택합니다. 확인 페이지에 새 라이선스 할당이 나열됩니다.
@@ -97,7 +97,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 **이전 구독 취소**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 취소할 구독을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택 취소할 구독을 선택 합니다.
 2.  구독 세부 정보 페이지에서 구독 **상태**를 **일시 중단됨**으로 설정합니다.
 3.  **제출**을 선택합니다.
 

@@ -1,15 +1,15 @@
 ---
 title: MPN 혜택 갱신 | 파트너 센터
-description: 파트너 대시보드에서 MPN 혜택 갱신
+description: 파트너 센터에서 MPN 혜택 갱신
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875483"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489349"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN 혜택 갱신
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875483"
 
 - 파트너 센터
 
-사용자 MPN 혜택 구독 갱신 기간이 구매일 1주년 다음날에 시작됩니다. 예를 들어, 2018년 9월 1일에 Microsoft Action Pack을 구입한 경우 갱신이 2019년 9월 2일에 시작됩니다. 파트너 대시보드에서 구독을 갱신할 수 있습니다.
+사용자 MPN 혜택 구독 갱신 기간이 구매일 1주년 다음날에 시작됩니다. 예를 들어, 2018년 9월 1일에 Microsoft Action Pack을 구입한 경우 갱신이 2019년 9월 2일에 시작됩니다. 파트너 센터에서 구독을 갱신할 수 있습니다.
 
-**대시보드**에서 **멤버십 혜택**을 선택합니다.
+**파트너 센터**에서 **멤버십 혜택**을 선택 합니다.
 **구매 완료** 탭에서 구매한 각 혜택에 대해 다음 사항이 표시됩니다.
 
 - 만료 날짜

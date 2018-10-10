@@ -3,12 +3,12 @@ title: 파트너 센터 계정 만들기 | 파트너 센터
 description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377775"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488949"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
@@ -67,7 +67,7 @@ ms.locfileid: "4377775"
 
 5.  귀하가 관리자 에이전트 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리자 에이전트 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
-    a. **대시보드**에서 **설정** 아이콘을 선택한 다음 **사용자 관리**를 선택합니다.  
+    a. **파트너 센터**에서 **설정** 아이콘을 선택 하 고 **사용자 관리**를 선택 합니다.  
 
     b. 사용자 목록에서 이름을 선택한 다음 관리자 에이전트가 선택되지 않았으면 **관리자 에이전트**를 선택합니다. **업데이트**를 선택합니다.  
 

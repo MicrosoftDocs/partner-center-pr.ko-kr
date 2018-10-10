@@ -3,12 +3,12 @@ title: 새로운 파트너 센터 기능 시험 사용
 description: 새로운 파트너 센터 기능이 출시되기 전에 시험 사용해 보시고 여러분의 생각을 알려주세요. 파트너 센터를 더욱 개선하려면 여러분의 도움이 필요합니다!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377575"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489469"
 ---
 # <a name="test-drive-new-partner-center-features"></a>새로운 파트너 센터 기능 시험 사용
 
@@ -49,7 +49,7 @@ ms.locfileid: "4377575"
 
 -   파트너 센터 창의 오른쪽 하단 모서리에 있는 피드백 양식을 사용하여 저희에게 직접 의견을 보낼 수 있습니다. 
 
--   기능 미리 보기와 관련하여 문제가 발생하는 경우 지원을 요청하세요. 지원 요청을 작성하려면 **대시보드** 메뉴에서 **지원 요청 > 파트너 센터 요청**을 선택한 다음 **파트너 센터 요청** 페이지에서 **새 요청**을 선택하세요.
+-   기능 미리 보기와 관련하여 문제가 발생하는 경우 지원을 요청하세요. 지원 요청을 만들려면 선택 **지원 요청 > 파트너 센터 요청** **파트너 센터** 메뉴 및 **파트너 센터 요청** 페이지에서 다음 선택 **새 요청** 합니다.
 
 여러분의 도움이 필요합니다!
 

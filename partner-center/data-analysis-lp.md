@@ -4,12 +4,12 @@ description: 파트너 센터에서 데이터 기능을 사용하면 고객의 �
 author: labrenne
 keywords: 데이터, 분석, 데이터 분석, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: e76fc54712628808599d63a799d009821c81343b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 472fea265a29b457bb29ac0545a69e5dd87c160d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877163"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489699"
 ---
 # <a name="get-data-and-analyze-your-business"></a>데이터 수집과 비즈니스 분석 
 
@@ -25,7 +25,7 @@ CSP 비즈니스를 개발하기 위한 계획 과정에서 Microsoft 제품을 
 
 |**데이터에 액세스하려면**   |**이 글 다운로드**   |**이 글 읽기**   | **적용 대상**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|구객이 구입한 라이선스를 사용하는 방법   |대시보드에서 배포 및 사용량 데이터 수집 => 제품 분석   |[채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)|CSP 파트너|
+|구객이 구입한 라이선스를 사용하는 방법   |파트너 센터에서 배포 및 사용 현황 데이터 = > 제품 분석   |[채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)|CSP 파트너|
 |구독과 관련된 고객 활동   |활동 로그   |[고객 활동 로그 보기](activity-logs.md)|CSP 파트너   |
 |고객 기반, 사용량, Azure 소비 등의 증가   |Power BI용 파트너 센터 앱   |[Power BI용 파트너 센터 분석 앱(CSP의 직접 파트너)](power-bi-app-for-direct-partners.md)|CSP 직접 파트너|
 

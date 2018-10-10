@@ -4,12 +4,12 @@ Description: Skype for Business Online Plan 1 subscriptions is retiring.
 Author: labrenne
 keywords: 비즈니스용 Skype 플랜, Skype 사용 중지, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 82bafe918ba56fd834b1b468d6b787d52d2b90cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875463"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489809"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션
 
@@ -51,13 +51,13 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 ### <a name="migrate-your-customers-to-new-plans"></a>고객을 새 플랜으로 마이그레이션
 
-1. 새 구독을 구입하려면 **대시보드 메뉴**에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **구독 추가**를 선택합니다.
+1. **파트너 센터 메뉴**에서 새 구독을 구매 하려면 **고객**을 선택 하 고 이동 하려는 고객을 선택한 다음 **구독 추가**선택 합니다.
 
 2. 카탈로그에서 구매할 구독을 선택하고(이 경우 아래 옵션 중 하나), 라이선스 수를 입력한 다음 **제출**을 선택합니다. 
 
 이제 고객은 기존 구독과 새 구독, 다시 말해서 기존 비즈니스용 Skype Online 플랜 1 구독과 새로운 '대상' 구독(예: 옵션 1 - Office 365 Enterprise F1)을 모두 갖고 있습니다.
 
-3. 고객의 사용자 라이선스를 재할당하려면 **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **라이선스 및 사용자**를 선택합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+3. **파트너 센터** 메뉴에서 고객의 사용자 라이선스를 할당 하는 **고객**을 선택, 선택한 **사용자 및 라이선스**이동 하려는 고객을 선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
 
 4. 사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
 
@@ -67,7 +67,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 사용자 라이선스를 새 서비스로 이동한 후 고객 수준에서 사용 중지된 구독을 안전하게 취소할 수 있습니다.
 
-7. **대시보드** 메뉴에서 **고객**을 선택합니다. 구독 취소 중인 고객을 선택합니다.
+7. **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 구독 취소 중인 고객을 선택합니다.
 
 8. 구독 세부 정보 페이지에서 구독을 **일시 중단됨**으로 설정합니다.
 

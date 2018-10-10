@@ -4,12 +4,12 @@ description: 파트너 센터에서 Windows AutoPilot 배포 프로필을 추가
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, 제로 터치 배포, oobe, 로그인 화면
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877583"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489399"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot으로 디바이스 설치 간소화 
 
@@ -25,7 +25,7 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 ## <a name="requirements"></a>요구 사항
 
 *  Windows 10 Pro 크리에이터스 업데이트(버전 1703 이상) 또는 Windows 10 Pro for Advanced PC가 미리 설치된 디바이스.
-*  하드웨어 해시로 알려진 디바이스 식별자(128 HWH 또는 4k HWH). 일반적으로 OEM에서 제공합니다. 식별자를 사용하여 파트너 대시보드에서 조직 프로필을 할당할 것입니다. 
+*  하드웨어 해시로 알려진 디바이스 식별자(128 HWH 또는 4k HWH). 일반적으로 OEM에서 제공합니다. 식별자를 사용 하 여 파트너 센터에서 조직 프로필을 할당 합니다. 
 *  디바이스가 인터넷에 액세스할 수 있어야 합니다. 디바이스를 연결할 수 없는 경우 기본 Windows OOBE(첫 실행 경험) 화면이 표시됩니다.
 *  디바이스를 MDM에 등록하려면 Azure Active Directory Premium이 필요합니다.
 
@@ -45,19 +45,19 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 
 ### <a name="add-devices-and-apply-a-profile"></a>디바이스를 추가하고 프로필 적용
 
-대시보드에서 Windows AutoPilot 배포 프로필을 만들어 디바이스 목록에 적용할 수 있습니다.
+파트너 센터에서 Windows AutoPilot 배포 프로필을 만들고 디바이스의 목록에 적용 합니다.
 
 디바이스를 구성하려면 디바이스 목록을 업로드하고, 해당 디바이스에 적용되는 프로필을 만들어서 적용합니다.
 
 1.  디바이스 목록을 추가합니다.
 
-    영업 에이전트와 관리자 에이전트는 디바이스 목록을 파트너 대시보드에 추가할 수 있는 권한을 갖습니다.
+    (영업 에이전트와 관리자 에이전트는 디바이스 목록을 파트너 센터에 추가할 수 있는 권한을 갖습니다.)
     
     간접 재판매인은 간접 공급자와 협력하여 디바이스 목록을 추가할 수 있습니다.
 
     a.  [Windows AutoPilot 개요](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot) 항목의 PowerShell 스크립트를 사용하여 .csv 파일을 만듭니다. 이 .csv 파일에는 일련 번호, OEM 이름, 모델 이름, 제품 ID, 디바이스 식별자를 포함한 디바이스 정보가 포함되어 있습니다. 
 
-    b.  대시보드에서 **고객** > 디바이스를 수신할 고객 선택 > **디바이스 > 디바이스 추가**로 이동합니다.
+    b.  파트너 센터에서 **고객** 에 게 이동 > 's receiving the devices 고객 선택 > **장치 > 장치 추가**.
 
     c.  디바이스의 일괄 처리 이름을 지정합니다(예: “Contoso 영업 부서 PC – 2017년 4월 주문”). 
 
@@ -65,7 +65,7 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 
     **참고:** .csv 파일을 업로드한 후 오류 메시지가 나타나면 파일 형식을 확인합니다. 8월 이후에는 하드웨어 해시만 사용하거나 OEM 이름, 일련 번호 및 모델을 해당 열의 순서대로 사용하거나 Windows 제품 ID를 사용할 수 있습니다. **장치 추가** 옆에 있는 링크에서 제공하는 샘플 .csv 파일을 사용할 수도 있습니다.
 
-2.  디바이스에 적용할 수 있는 프로필을 만듭니다. (오직 관리자 에이전트만이 파트너 대시보드에서 프로필을 만들고 적용할 수 있습니다.)
+2.  디바이스에 적용할 수 있는 프로필을 만듭니다. (오직 관리자 에이전트만 만들어 파트너 센터에서 프로필을 적용 하.)
 
     a.  **장치**에서 **새 프로필 추가**를 클릭합니다.
 

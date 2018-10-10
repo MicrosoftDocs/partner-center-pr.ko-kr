@@ -5,12 +5,12 @@ author: KPacquer
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, 혜택, 성과 목표, 기술 목표
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1702a5ebca4ee33a32d2a30bb55c9a4b6520b8e2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876653"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490159"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -55,15 +55,15 @@ Microsoft 역량 도전 과제는 검증된 고품질 솔루션 제공 경험을
 
 일부 역량의 경우 다양한 방법으로 실버 또는 골드 등급을 획득할 수 있습니다.
 
-역량 진행 상황을 확인하려면 파트너 센터 대시보드에서 **파트너십 > 역량**으로 이동하세요. 
+파트너 센터 파트너 센터에서 역량 진행 상황을 확인 하려면로 이동 합니다 **파트너십 > 역량**. 
 
 ### <a href="" id="associating_achievements"></a>직원을 완전한 기술 기준 목표에 연결
 
-1.  조직 내 직원의 사용자 계정을 추가합니다. [파트너 대시보드](http://partnercenter.microsoft.com)에서 **계정 설정 > 사용자 추가**로 이동합니다. (PMC 사용자는 **PMC 데이터를 사용하여 사용자 추가**를 선택하여 동시에 여러 사용자를 추가할 수 있습니다.)
+1.  조직 내 직원의 사용자 계정을 추가합니다. [파트너 센터](http://partnercenter.microsoft.com)에서 이동 **계정 설정 > 사용자 추가**. (PMC 사용자는 **PMC 데이터를 사용하여 사용자 추가**를 선택하여 동시에 여러 사용자를 추가할 수 있습니다.)
 
     사용자 계정을 만든 후에는 해당 사용자에게 새로운 사용자 이름 및 암호가 전송되고, 사용자 이름 및 암호를 재설정하는 데 도움이 되는 정보가 포함된 로그 파일을 다운로드하라는 메시지가 나타납니다. 또한 [사용자가 직접 암호를 다시 설정할 수 있도록 사용자 계정을 설정](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)할 수 있습니다.
 
-2. 조직 내 직원에게 MSA(Microsoft 계정)에 로그인하여 자신의 사용자 계정과 연결하라고 합니다. ([파트너 대시보드](http://partnercenter.microsoft.com)에서 **계정 설정**으로 이동합니다.) 직원은 동일한 MSA 또는 다른 MSA를 사용하여 Microsoft 파트너 대학교를 통해 자신의 Microsoft 기술 시험 및 인증을 자신의 계정과 연결할 수 있습니다.
+2. 조직 내 직원에게 MSA(Microsoft 계정)에 로그인하여 자신의 사용자 계정과 연결하라고 합니다. **( [파트너 센터](http://partnercenter.microsoft.com)에서 계정 설정**으로 이동 합니다.) 직원은 자신의 Microsoft 기술 시험 및 인증을 자신의 계정과 Microsoft 파트너 대학교를 통해 연결 하는 동일한 msa 또는 다른 Msa를 사용할 수 있습니다.
 
 3.  직원이 자신의 계정을 연결하거나 기술 기준 목표를 완료한 후 **24시간 동안 기다립니다**. 이 시간이 지나면 **역량** 섹션에 진행 상황이 표시됩니다.
 

@@ -5,12 +5,12 @@ ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: 도움말 에이전트, 지원 담당자 할당, 지정된 지원 연락처
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a1ae3f22193f2d59266c289c4c2a924c323b86a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877543"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489449"
 ---
 # <a name="assign-support-contacts"></a>지원 담당자 할당
 
@@ -29,7 +29,7 @@ ms.locfileid: "2877543"
 
 1.  먼저 지정된 제품 재판매인에게 [관계를 요청](request-a-relationship-with-a-customer.md)합니다. 기술 지원 처리에 대한 지원 계약을 협상합니다.
 
-2.  파트너 대시보드에서 **고객**을 선택한 다음 구독(예: Office 365 Business Premium)을 선택합니다.
+2.  **파트너 센터** 메뉴에서 **고객에 게**다음 선택한 고객을 선택 합니다. 예를 들어 Office 365 Business Premium 구독을 선택 합니다.
 
 3.  **지정된 지원 담당자**에서 지정된 제품 재판매인을 선택한 다음 **제출**을 클릭합니다. 
 

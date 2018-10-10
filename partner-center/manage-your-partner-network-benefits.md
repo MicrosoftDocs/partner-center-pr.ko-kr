@@ -1,15 +1,15 @@
 ---
 title: Microsoft 파트너 네트워크 혜택 관리 | 파트너 센터
-description: 귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 구매할 자격이 있습니다. 파트너 대시보드에서 멤버십 혜택을 활성화하고 관리하는 방법을 설명합니다.
+description: 귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 구매할 자격이 있습니다. 활성화 하 고 파트너 센터에서 멤버십 혜택을 관리 하는 방법을 설명 합니다.
 author: MaggiePucciEvans
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377725"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489799"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377725"
 -  파트너 센터
 
 >[!IMPORTANT]
->이 문서에서는 파트너 대시보드(이전에는 파트너 센터로 알려짐)에서 Microsoft 파트너 네트워크(MPN) 멤버십 혜택을 사용하는 방법에 대해 설명합니다. 회사 정보를 Partner Membership Center(PMC)에서 파트너 대시보드로 옮길 수 있는 초대를 받지 못한 경우 PMC에서 계속 MPN 멤버쉽 혜택을 관리해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)하세요.   
+>이 문서에서는 Microsoft 파트너 네트워크 (MPN)를 사용 하 여 시작 하는 방법을 설명이 사이트 (이전의 파트너 센터)-파트너 센터에서 멤버십 혜택. 파트너 센터에 회사 정보를 Partner Membership Center (PMC)에서 이동 하 라는 초대를 받지 못한, PMC에서 MPN 멤버십 혜택 관리 계속 해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)하세요.   
 
 Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하고 성장시키는 데 도움이 되는 멤버십원 혜택에 액세스할 수 있습니다. MPN 회원이 아닌 경우 [MPN 사이트](https://partner.microsoft.com/membership)에서 가입할 수 있습니다.
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>대시보드에서 멤버십 혜택 관리
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>파트너 센터에서 멤버십 혜택 관리
 
 멤버십 혜택 패키지 구입 후 소프트웨어 키를 얻고 라이선스, 구독 및 기타 혜택을 직원에게 할당하여 사용을 시작해야 합니다. 
 
@@ -89,9 +89,9 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
    
     a.  목록에서 사용자를 선택합니다. 할당하려는 사용자가 목록에 없는 경우 **계정 설정**에서 [새 사용자를 추가](create-user-accounts-and-set-permissions.md)할 수 있습니다.
 
-    b.  파트너 대시보드 계정과 연결된 전자 메일 주소와 다른 사용자 전자 메일 주소를 입력합니다. 
+    b.  파트너 센터 계정과 연결된 전자 메일 주소와 다른 사용자 전자 메일 주소를 입력합니다. 
     
-    보안 조치로, 사용자의 파트너 대시보드 계정 전자 메일 외에도 이 전자 메일 주소로 Microsoft 기술 지원 액세스에 대한 지침을 전자 메일로 보내 드립니다. 이 혜택을 활성화하고 할당된 사용자에게 전자 메일로 지침이 발송될 때까지 며칠이 걸릴 수 있습니다.    
+    보안 조치로, 사용자의 파트너 센터 계정 전자 메일 외에도 이 전자 메일 주소로 Microsoft 기술 지원 액세스에 대한 지침을 전자 메일로 보내 드립니다. 이 혜택을 활성화하고 할당된 사용자에게 전자 메일로 지침이 발송될 때까지 며칠이 걸릴 수 있습니다.    
     
     c.  대체 전자 메일 주소를 입력했으면 **사용자 할당**을 선택합니다. 
 

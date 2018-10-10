@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877493"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489589"
 ---
 # <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 
@@ -36,7 +36,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 기관을 
 
 ## <a name="check-the-customer-qualifications"></a>고객 자격 확인
 
-1.  **대시보드** 메뉴에서 **고객**을 선택합니다. 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 목록에서 고객을 선택합니다.
 2.  고객 메뉴에서 **계정**을 선택합니다. **정보 회사** 섹션에서 **특별 자격**을 찾습니다.
 3.  **특별 자격**이 **없음**으로 설정되어 있지만 고객이 실제로 자격을 충족하는 경우 이를 포함하도록 고객 세부 정보를 **업데이트**할 수 있습니다.
 

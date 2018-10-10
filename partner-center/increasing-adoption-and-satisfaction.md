@@ -4,12 +4,12 @@ description: 당사 파트너는 비즈니스 성장 여부와 투자 중점 분
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377615"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489599"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -29,11 +29,11 @@ ms.locfileid: "4377615"
 
 **단일 고객**
 
--   **대시보드**에서 **고객**을 선택하고 원하는 고객을 선택한 다음, **Customer insights**를 선택합니다.
+-   **파트너 센터**에서 **고객** 을 선택 하는 고객을 선택한 **고객 정보**를 선택 합니다.
 
 **전체 포트폴리오**
 
-1.  **대시보드**에서 **분석**을 선택합니다.
+1.  **파트너 센터** **분석**을 선택 합니다.
 2.  **내보내기** 옵션을 선택하여 전체 고객 집합에서 배포 및 사용 현황 데이터를 다운로드합니다.
 
 용어:

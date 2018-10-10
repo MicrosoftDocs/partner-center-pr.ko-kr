@@ -4,12 +4,12 @@ description: 자신의 포트폴리오에 잘 맞는 타사 제품 유형을 검
 author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어, 타사 검색
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377505"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488589"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>판매할 타사 제품 검색
 
@@ -42,7 +42,7 @@ ms.locfileid: "4377505"
 
 타사 소프트웨어 구입은 자사 소프트웨어 구입과 같은 방식으로 이루어집니다. 
 
-1. **대시보드**에서 **고객**을 선택합니다.
+1. **파트너 센터**에서 **고객** 을 선택합니다
 2. **새 구독**을 선택합니다.
 3. 자세한 방법은 [고객 구독 만들기, 일시 중단 또는 취소](create-a-new-subscription.md)를 참조합니다.
 4.  타사 소프트웨어에 대한 월간 청구를 선택합니다. 현재 연간 및 평가판 청구는 타사에 대해 지원되지 않고 있습니다.

@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875863"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490079"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>MPN 멤버십을 Partner Membership Center에서 파트너 센터로 전환
 
@@ -31,7 +31,7 @@ MPN에 다시 등록하는 경우 새 멤버십이 즉시 시작됩니다. 하�
 
 조직의 관리자는 직원을 개별적으로 추가하거나 PMC 데이터를 사용하여 여러 사용자를 동시에 만들어서 직원을 파트너 센터 계정에 추가해야 합니다.
 
-1.  파트너 센터 대시보드에서 **새 사용자 추가**를 선택하여 개별 사용자를 추가하거나 **팀 설정**(또는 PMC 데이터를 사용하여 사용자 추가)을 선택하여 여러 사용자를 한꺼번에 추가합니다.
+1.  파트너 센터에서 **새 사용자 추가** , 개별 또는 **팀 설정** 추가 (또는 PMC 데이터를 사용 하 여 사용자 추가)를 선택 한 번에 여러 사용자를 추가 합니다.
     
     화면에 표시되는 지침에 따라 설정을 완료합니다.
 
@@ -45,16 +45,16 @@ MPN에 다시 등록하는 경우 새 멤버십이 즉시 시작됩니다. 하�
 
 ## <a href="" id="nonadmin_tasks"></a> 직원이 할 일: 계정 업데이트
 
-1.  Microsoft 파트너 센터에서 또는 관리자에 로그인 정보를 가져옵니다. 로그인 정보를 받지 못한 경우 조직의 관리자 수에 게 직접 전달 해 달라고 요청에 문의 하세요. 
+1.  Microsoft 파트너 센터에서 또는 관리자에 로그인 정보를 가져옵니다. 로그인 정보를 받지 못한 경우 조직의 관리자 해 자신에 게 직접 달라고 요청에 문의 합니다. 
 
-2.  Microsoft 파트너 대학교 계정을 연결합니다. 파트너 센터 대시보드에서 **프로필 업데이트** > **Get Partner University access**를 선택합니다.  계정이 연결되면 파트너 대학교에 다시 액세스할 수 있습니다.
+2.  Microsoft 파트너 대학교 계정을 연결합니다. 파트너 센터에서 선택 **프로필을 업데이트** > **Get Partner University access**합니다.  계정이 연결되면 파트너 대학교에 다시 액세스할 수 있습니다.
 
-3.  Microsoft 기술 시험 및 인증을 연결합니다. 파트너 센터 대시보드에서 **프로필 업데이트** > **시험 및 인증 연결**을 선택합니다. 
+3.  Microsoft 기술 시험 및 인증을 연결합니다. 파트너 센터에서 선택 **프로필을 업데이트** > **시험 및 인증 연결**합니다. 
 
 4.  선택 사항: [암호를 재설정 셀프 서비스를 설정](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)합니다.
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>팀 상태 확인 및 역량 도전 과제 받기
 
-1.  직원 중 누가 Microsoft 파트너 대학교 계정과 시험 및 인증을 연결했는지 살펴봅니다. 파트너 센터 대시보드에서 **팀 상태 확인**을 선택합니다.
+1.  조직에서 직원에 게 어떤 자신의 Microsoft 파트너 대학교 계정과 연결 되어 있고 시험 및 인증 참조: 파트너 센터에서 **팀 상태 확인**을 선택 합니다.
 
 2.  직원이 자신의 계정을 연결하거나 기술 기준 목표를 완료한 후 **24시간 동안 기다립니다**. 이 시간이 지나면 **파트너십 > 역량** 섹션에 진행 상황이 표시됩니다.

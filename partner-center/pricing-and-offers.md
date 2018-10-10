@@ -3,12 +3,12 @@ title: 가격 책정 및 제품 | 파트너 센터
 description: ''
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2a971f5d4ac812ff6067be2dcab9f533282d4ebf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875083"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490199"
 ---
 # <a name="pricing-and-offers"></a>가격 책정 및 제품
 
@@ -18,7 +18,7 @@ ms.locfileid: "2875083"
 
 최신 클라우드 솔루션 공급자의 프로그램 가격표를 보려면 **판매 > 가격 및 제품**으로 이동합니다. Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite와 같은 라이선스 기준 서비스와 Azure와 같은 사용량 기준 서비스에 대해 개별 가격표를 찾아볼 수 있습니다. 
 
-제품 목록에는 파트너 대시보드를 통해 구입할 수 있는 여러 제품군이 포함됩니다. 이러한 제품군에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure가 있습니다. 목록에 항목이 추가될 예정입니다.
+제품 목록에는 파트너 센터를 통해 구입할 수 있는 여러 제품군이 포함 됩니다. 이러한 제품군에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure가 있습니다. 목록에 항목이 추가될 예정입니다.
 
 각 제품군에는 비즈니스에 따라 판매할 수 있는 여러 SKU 및 제품 번들이 제공됩니다. 언제든지 가격 책정 및 제품 페이지에서 제공되는 클라우드 재판매인 제품표를 사용하여 이러한 각 제품에 대한 최신 정보에 액세스할 수 있습니다.
 
@@ -47,8 +47,8 @@ ms.locfileid: "2875083"
 
 가격 책정 및 제품 페이지의 클라우드 재판매인 제품표에서 제공되는 다양한 SKU 및 제품 번들에 대해 읽어보세요. 제품표에는 지역에 따라 사용 가능한 제품이 포함됩니다. 항목이 가격표에 나와 있지만 아직 제품표에 나열되지 않은 경우 제품을 아직 주문할 수 없습니다. 제품을 주문할 수 있게 되면 즉시 제품표에 업데이트됩니다.
 
-파트너 대비소드 SDK(소프트웨어 개발 키트)를 사용하는 CSP 파트너용입니다. 또한 Microsoft는 가격 책정 및 제품 페이지에서 CSP의 Azure 서비스 목록을 게시합니다.
+사용 하는 CSP 파트너는 파트너 센터 소프트웨어 개발 키트 (Sdk). 또한 Microsoft는 가격 책정 및 제품 페이지에서 CSP의 Azure 서비스 목록을 게시합니다.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>제품표 및 가격표 관련 질문
 
-가격표 또는 제품표에 대한 질문이 있으면 파트너 대시보드를 통해 서비스 요청을 제출하세요.
+가격표 또는 제품 표에 대 한 질문이 있으면 파트너 센터를 통해 서비스 요청을 제출 합니다.

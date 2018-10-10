@@ -5,14 +5,14 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377495"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489749"
 ---
-# <a name="your-company-work-account-and-the-partner-dashboard"></a>조직의 회사 계정 및 파트너 대시보드  
+# <a name="your-company-work-account-and-the-partner-center"></a>조직의 회사 계정 및 파트너 센터  
 
 **적용 대상**
 
@@ -20,12 +20,12 @@ ms.locfileid: "4377495"
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
-계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용하여 파트너 대시보드에 로그인할 수 있도록 조직의 회사 계정을 새 파트너 대시보드에 연결해야 합니다.
+계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용 하 여 파트너 센터에 로그인 할 수 있도록 귀사의 회사 계정을 새 파트너 센터 계정에 연결 해야 합니다.
 
-조직에 이미 회사 계정이 있는 경우 이를 파트너 대시보드 계정에 연결할 수 있습니다. 
+회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
 
 > [!NOTE]  
->  기존 회사 계정을 사용 하기로 결정 하기 전에 상상해 보세요 얼마나 많은 사용자 계정에 대 한 파트너 대시보드에서 작업 해야 합니다. 파트너 대시보드에서 작업할 필요가 없는 사용자가 계정에 포함된 경우 파트너 대시보드에서 작업해야 하는 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
+>  기존 회사 계정을 사용 하기로 결정 하기 전에 상상해 보세요 얼마나 많은 사용자 계정에 대 한 파트너 센터에서 작동 하도록 해야 합니다. 파트너 센터에서 작업할 필요가 없습니다 계정 사용자가 있는 경우 파트너 센터에서 작업 해야 하는 사용자만을 위한 새 계정을 만드는 것이 좋습니다.
 
 회사에 아직 회사 계정이 없는 경우 등록 과정에서 테넌트를 만들 수 있습니다. 
 

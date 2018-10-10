@@ -4,12 +4,12 @@ description: Microsoft 제품을 사용하는 타사 소프트웨어 구입
 author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062165"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489849"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>타사 소프트웨어를 포트폴리오에 추가
 
@@ -53,7 +53,7 @@ ISV 파트너는 언제든지 제품에 대한 권한이 필요한지 여부를 
 
 타사 소프트웨어 구입은 자사 소프트웨어 구입과 같은 방식으로 이루어집니다. 
 
-1. **대시보드**에서 **고객**을 선택합니다.
+1. **파트너 센터**에서 **고객** 을 선택합니다
 2. **새 구독**을 선택합니다.
 3. 타사 소프트웨어에 대한 월간 청구를 선택합니다. 현재 연간 및 평가판 청구는 타사에 대해 지원되지 않고 있습니다.
 4. 타사 탭에서 구입하려는 제품을 선택합니다.

@@ -4,12 +4,12 @@ description: 파트너 센터에서 월말에 Azure 청구서에 놀라지 않�
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377475"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488959"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>고객을 위한 Azure 지출 예산 설정
 
@@ -33,23 +33,23 @@ Azure 지출 데이터는 예상 수치이며 실제 청구 금액은 이와 다
 > 이 기능은 샌드박스 또는 테스트 TIP (프로덕션) 계정에서 사용할 수 없습니다.
 
 **전자 메일 알림 사용**
-1.  대시보드 메뉴에서 **Azure 지출**을 선택합니다.
+1.  파트너 센터 메뉴에서 **Azure 지출**를 선택 합니다.
 2.  **전자 메일 받기** 옵션을 설정하여 고객이 해당 예산 중 80% 이상을 사용하는 경우 알림을 받습니다. 그러면 Azure 청구서를 주시하는 데 도움을 받을 수 있습니다. 알림을 받을 개인의 기본 전자 메일 주소 또는 다른 전자 메일을 변경할 수 있습니다.
 
 **예산 설정**
-1.  대시보드 메뉴에서 **Azure 지출**을 선택합니다.
+1.  파트너 센터 메뉴에서 **Azure 지출**를 선택 합니다.
 2.  예산을 설정하려는 고객을 선택합니다. 
 3. **월별 예산** 상자에 값을 입력하고 **적용**을 선택합니다.
 4.  현재 지출을 확인하려면 이 페이지로 돌아갑니다.
 5.  고객 관리 페이지의 **사용량 기준 구독** 아래에서 개별 예산을 설정할 수도 있습니다.
 
 **예산 제거**
-1.  대시보드 메뉴에서 **Azure 지출**을 선택합니다.
+1.  파트너 센터 메뉴에서 **Azure 지출**를 선택 합니다.
 2.  목록에서 고객을 선택합니다.
 3.  **예산 제거**를 선택합니다.
 
 **항목별로 구분한 비용 확인**
-1.  대시보드 메뉴에서 **고객**을 선택합니다.
+1.  파트너 센터 메뉴에서 **고객**을 선택 합니다.
 2.  고객 목록에서 고객을 선택합니다.
 3.  해당 고객 관리 페이지의 **사용량 기준 구독** 아래에서 구독을 선택합니다. 현재 예상 사용량 및 서비스 항목별로 구분한 비용 목록을 봅니다.
 

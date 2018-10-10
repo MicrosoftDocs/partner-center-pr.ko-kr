@@ -5,12 +5,12 @@ ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874853"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489109"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
@@ -21,14 +21,14 @@ ms.locfileid: "2874853"
 -  Microsoft 클라우드 독일 파트너 센터
 -  CSP 파트너
 
-파트너 대시보드에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
+파트너 센터에서 고객 기록을 만들면 판매할 수 있습니다 제품 카탈로그에서 구독을 합니다.
 
-일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 대시보드 가격 책정 및 제품 페이지를 방문하세요. 
+일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 책정 및 제품 페이지를 방문하세요. 
 
 
 **새 구독 만들기**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
 
 2.  **새 구독**을 선택합니다.
 
@@ -54,7 +54,7 @@ ms.locfileid: "2874853"
 
 **구독 일시 중단**
 
-1.  **대시보드** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
 2.  관리할 구독을 선택합니다.
 3.  **상태** 섹션에서 **일시 중단**을 선택합니다. 그런 다음 변경 내용을 **제출**합니다.
 4.  90일 이내에 또는 90일에 계정이 개설된 시간과 첫 번째 청구 기간 사이의 일 수를 더한 기간(최대 120일) 이내에 구독을 다시 활성화하지 않으면 모든 데이터가 삭제됩니다.

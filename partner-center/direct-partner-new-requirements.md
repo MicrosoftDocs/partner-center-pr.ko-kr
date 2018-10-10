@@ -4,18 +4,18 @@ Description: Fulfill the new requirements to be a direct partner in CSP
 author: labrenne
 keywords: CSP, 직접 파트너, 직접 청구, 요구 사항
 ms.localizationpriority: medium
-ms.openlocfilehash: 6df493e50bf225b3a37e0fbdad61baaf944ebe46
-ms.sourcegitcommit: d7fffbb88740a25b3c2e5c9e21e0d36a4493df50
+ms.openlocfilehash: cd2a5e582e982e105bfcf757ca5f02944b316e9d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "4349752"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488699"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>CSP 직접 파트너 새 요구 사항
 
 **적용 대상**
 
-- 파트너 대시보드
+- 파트너 센터
 
 디지털 혁신 고객 비즈니스를 수행 하는 방법은 변하고 있습니다. 따라갈을 계속 하려면 특별 한 서비스를 제공 해야 발전 시켜야, 너무 합니다. CSP 프로그램에 참여 하는 모든 파트너를 위해 진행 중인 작업의 일환으로 성공 및 성장, 직접 파트너 등록 요구 사항을 업데이트 했습니다. 새 이러한 요구 사항을 강화는 비즈니스 및 기술 관계 있는 인프라를, 지원, 기능 및 작업 크기를 조정 하는 파트너와 고객 평균 보다 높은 속도로 기본 증가 됩니다.
 

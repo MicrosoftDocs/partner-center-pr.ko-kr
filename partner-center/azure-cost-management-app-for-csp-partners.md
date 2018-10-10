@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377805"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489389"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 
@@ -33,7 +33,7 @@ Cloudyn의 Azure 비용 관리는 고객이 Azure를 사용하는 정도와 사�
 ## <a name="register-your-web-app-in-the-partner-center"></a>파트너 센터에서 웹 앱 등록
 파트너 센터에서 Azure Active Directory 웹 앱을 등록하면 파트너 센터 API에 액세스할 수 있습니다. 
 1.  [전역 관리자 또는 관리자 에이전트 계정](create-user-accounts-and-set-permissions.md)을 사용하여 [파트너 센터](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)에 로그인합니다.
-2.  **대시보드**에서 **계정 설정** &gt; **[앱 관리](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** 를 선택합니다.
+2.  **파트너 센터**에서 **계정 설정** 선택 &gt; **[앱 관리](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** 합니다.
 3.  **Web App** 섹션에서 **Add new web app**를 클릭합니다.
 <br> **참고**: 이전에 웹 앱을 만든 경우 3단계를 건너뛸 수 있습니다.
 4.  웹 앱의 **Commerce ID** GUID 및 **App ID** GUID를 복사하고 저장합니다. 30일 무료 평가판 Azure 비용 관리 앱을 사용하려면 두 ID가 모두 필요합니다.

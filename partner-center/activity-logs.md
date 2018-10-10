@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875903"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488649"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
@@ -27,7 +27,7 @@ ms.locfileid: "2875903"
 
 **활동 로그 보기 및 내보내기**
 
-1.  **대시보드** 메뉴에서 **활동 로그**를 선택합니다.
+1.  **파트너 센터** 메뉴에서 **활동 로그**를 선택 합니다.
 2.  **시작일** 및 **종료일** 필드에서 활동 로그 기간을 선택합니다. 활동 로그 내보내기는 기본적으로 최근의 달로 설정됩니다.
 
     각 활동 로그는 나열된 고객의 **구독** 페이지에 대한 링크를 제공합니다.

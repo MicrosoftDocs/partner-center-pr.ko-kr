@@ -4,12 +4,12 @@ description: 경우에 따라 고객이 다른 곳에서 구입한 구독을 프
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377485"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489419"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
@@ -19,7 +19,7 @@ ms.locfileid: "4377485"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-파트너 대시보드의 다중 채널 기능은 고객이 다른 곳에서 구입한 구독을 관리하고 지원할 파트너를 고용하려는 시나리오를 지원합니다. 다중 채널 지원은 고객이 다음 조건에 해당하는 경우에 적용됩니다.
+파트너 센터의 다중 채널 기능은 고객이 다른 곳에서 구입한 구독을 지원 하 고 관리 파트너를 고용 하려는 시나리오를 지원 합니다. 다중 채널 지원은 고객이 다음 조건에 해당하는 경우에 적용됩니다.
 
 -   Microsoft에서 직접 또는 Advisor, Open 또는 EA 프로그램을 통해 구독을 이미 구입한 경우
 
@@ -47,7 +47,7 @@ ms.locfileid: "4377485"
 </table>
 
 > [!IMPORTANT]  
-> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대한 모든 발표는 파트너 대시보드를 포함한 일반적인 통신 채널을 통해 공개될 것입니다. 
+> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대 한 모든 발표는 파트너 센터를 포함 한 일반적인 통신 채널을 통해 발표 될 예정입니다. 
 
 ## <a name="see-also"></a>참고 항목
 

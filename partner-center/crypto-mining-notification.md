@@ -1,25 +1,25 @@
 ---
-title: 암호화 마이닝 활동에 대한 파트너 대시보드 알림 | 파트너 대시보드
+title: 암호화 마이닝 활동에 대 한 알림을 파트너 센터 | 파트너 센터
 description: 진행 중인 잠재적인 암호화 마이닝에 대한 알림입니다.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876233"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488929"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>암호화 마이닝 활동에 대한 파트너 대시보드 알림
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>암호화 마이닝 활동에 대 한 알림을 파트너 센터
 
 **적용 대상**
 
--  파트너 대시보드
+-  파트너 센터
 -  CSP 파트너
 
-암호화 마이닝에 대해 다음과 같은 파트너 대시보드 알림을 수신할 수 있습니다.
+암호화 마이닝에 대해 다음과 같은 파트너 센터 알림을 수신할 수 있습니다.
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ ms.locfileid: "2876233"
 
 2.  리소스가 처음에 어떻게 생성되었는지를 이해합니다. 이를 위해서는 리소스 프로비저닝 활동에 대한 Azure Resource Management 로그를 검토해야 합니다.
 
-3.  구독을 생성한 사람을 찾아야 하는 경우에는 파트너 대시보드 활동 로그를 검토합니다.
+3.  확인 하는 경우 구독을 만든 사람, 파트너 센터 활동 로그를 검토 합니다.
 
 암호화 마이닝 활동의 감지는 추론을 기반으로 하기 때문에 100%의 정확성이 보장되지 않을 수 있습니다. 사기 활동이나 기타 허락되지 않은 활동을 막기 위한 거버넌스 및 모니터링 시스템이 구축되어 있어야 합니다. 자세한 내용은 [비결제, 사기 또는 남용](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)을 참조하세요.
 
 알림에 대한 질문 또는 우려 사항이 있는 경우 다음 절차를 따라 지원 요청을 시작할 수 있습니다.
 
-1.  대시보드에서 **지원**, **파트너 센터 요청**을 차례로 선택합니다.
+1.  파트너 센터에서 **지원** 을 선택 하 고 **파트너 센터 요청**을 선택 합니다.
 3.  **새 요청**을 선택합니다. 
 4.  **문제 유형** 드롭다운 메뉴에서 **고객 추가 또는 관리**를 선택합니다.
 5.  **영향** 드롭다운 메뉴에서 **보통**을 선택합니다.

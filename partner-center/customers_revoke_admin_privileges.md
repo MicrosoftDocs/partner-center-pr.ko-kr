@@ -4,18 +4,18 @@ description: 재판매인 파트너는 고객에 게 위임할 수 수 있으며
 author: labrenne
 keywords: 위임 된 관리자 권한, 대신 관리, AOBO, DAP, 권한 제거
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377435"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489879"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>고객이 파트너에게 관리 권한을 위임하는 경우
 
 **적용 대상**
 
--  파트너 대시보드
+-  파트너 센터
 
 고객을 대신하여 고객 서비스 또는 구독을 관리하려면 고객이 해당 서비스에 대한 관리자 권한을 부여해야 합니다. 고객으로부터 관리자 권한을 얻으려면 고객에게 전자 메일로 재판매인 관계 요청을 보내야 합니다. 고객이 요청을 승인하면 해당 서비스의 관리 포털에 로그인하여 고객 대신 서비스를 관리할 수 있습니다. 
 
@@ -89,7 +89,7 @@ ms.locfileid: "4377435"
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-파트너 대시보드에서 CSP 파트너는 위임 된 관리자 권한 없이 고객의 Autopilot 프로필을 관리할 수 있습니다. [Windows Autopilot으로 디바이스 설정 간소화](https://docs.microsoft.com/partner-center/autopilot)하는 방법을 알아보세요.
+파트너 센터에서 CSP 파트너는 위임 된 관리자 권한 없이 고객의 Autopilot 프로필을 관리할 수 있습니다. [Windows Autopilot으로 디바이스 설정 간소화](https://docs.microsoft.com/partner-center/autopilot)하는 방법을 알아보세요.
 
 수행할 수 있는 작업에 등록 CSP 모델에 따라 달라 집니다.
 
@@ -110,7 +110,7 @@ ms.locfileid: "4377435"
 - 비즈니스용 Microsoft 스토어, 교육용 Microsoft Store 또는 Microsoft Intune 포털을 통해 고객에 게가 추가 하는 장치를 관리할 수 없습니다.
 
 > [!IMPORTANT]  
-> 대시보드에서 현재 Autopilot 관리 환경은 계속 변경할 수 있습니다. 이 문서가 게시 시간에 다음과 같은 변경 내용은 고려 중인 기능:
+> 파트너 센터의 현재 Autopilot 관리 환경은 계속 변경할 수 있습니다. 이 문서가 게시 시간에 다음과 같은 변경 내용은 고려 중인 기능:
 
   - 파트너가 프로필을 추가/업데이트/제거하고 고객 테넌트의 모든 장치에서 프로필을 적용/제거하려면 파트너가 위임된 관리 권한을 고객에게 부여 받아야 합니다.
 

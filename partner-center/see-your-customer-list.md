@@ -4,12 +4,12 @@ description: 고객 레코드는 파트너 센터에서 가장 중요한 정보 
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377465"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490169"
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 
@@ -26,20 +26,20 @@ ms.locfileid: "4377465"
 
 ## <a name="search-for-a-customer"></a>고객 검색
 
-1.  **대시보드** 메뉴에서 **고객**을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
 
 ## <a name="update-a-customers-company-name"></a>고객의 회사 이름 업데이트
 
-**대시보드** 메뉴에서 **고객**을 선택합니다.
+**파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
 4.  고객의 **청구서를** 정보에서 회사 이름을 업데이트 합니다. 새 값을 저장할 때 고객 목록에 반영 됩니다. 청구서에 회사 이름 및 고객 목록 값만 변경 됩니다. 이 반영 되지 않습니다 아무 곳 이나 다른 합니다.
 
 ## <a name="export-your-customer-list"></a>고객 목록 내보내기
 
-1.  **대시보드** 메뉴에서 **고객**을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  **고객 내보내기**를 선택합니다.
 
     파트너 센터는 전체 고객 목록을 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 고객 데이터의 하위 집합을 내보낼 수도 있습니다. 데이터 열은 다음과 같습니다.
@@ -56,7 +56,7 @@ ms.locfileid: "4377465"
 
 ## <a name="export-customer-subscription-information"></a>고객 구독 정보 내보내기
 
-1.  **대시보드** 메뉴에서 **고객**을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객의 **회사 이름**을 선택합니다. 고객의 **구독** 페이지가 열리고 전체 제품 구독 목록이 표시됩니다.
 3.  **구독 내보내기**를 선택합니다. 파트너 센터는 고객의 구독 데이터를 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 데이터 열은 다음과 같습니다.
     -   **구독 ID**

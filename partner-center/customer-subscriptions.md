@@ -4,12 +4,12 @@ description: 파트너는 고객에게 구독을 판매하고 파트너 센터�
 author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c051f0fbf627c7e7478e18c0b685eb7a45cf879
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3f39ea37669839f26dbd72894544fddce61e6462
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876493"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489829"
 ---
 # <a name="customer-subscriptions"></a>고객 구독
 
@@ -17,16 +17,16 @@ ms.locfileid: "2876493"
 
 -  파트너 센터
 
-CSP 파트너가 수행하는 중요한 역할 중 하나는 Microsoft 제품에 대한 구독을 고객에게 제공하는 것입니다. 파트너 대시보드에서 각 고객에 대한 모든 구독을 손쉽게 관리할 수 있습니다. 또한 구독을 추가하고 기존 구독에 라이선스를 추가하며, 소프트웨어를 시험 사용하고 싶어하는 고객들에게 평가판 구독을 제공할 수 있습니다. 뿐만 아니라 고객들의 소프트웨어 사용 방식을 이해하기 위해 파트너 대시보드가 제공하는 분석 결과를 사용하여 더 나은 지원을 제공할 수 있습니다.
+CSP 파트너가 수행하는 중요한 역할 중 하나는 Microsoft 제품에 대한 구독을 고객에게 제공하는 것입니다. 파트너 센터에서 각 고객에 대 한 모든 구독을 관리할 수 있습니다. 또한 구독을 추가하고 기존 구독에 라이선스를 추가하며, 소프트웨어를 시험 사용하고 싶어하는 고객들에게 평가판 구독을 제공할 수 있습니다. 또한 파트너 센터 분석을 사용 하 여 고객에 게 소프트웨어를 사용 하는 방식을 이해 하기 위해 제공 지 수 더 합니다.
 
 |**수행할 작업**   |**이 글 읽기**   |
 |----------------------|:----------------------|
-|파트너 대시보드에서 기존 고객을 위한 새 구독을 생성하거나 새 고객을 추가한 다음, 구독을 생성|[새 구독 생성](create-a-new-subscription.md)|
+|파트너 센터에서 기존 고객을 위한 새 구독을 생성 하거나 새 고객을 다음, 구독을 생성|[새 구독 생성](create-a-new-subscription.md)|
 |구독을 추가하고 나면 고객의 직원에게 라이선스를 할당하는 것이 가능  |[사용자에게 라이선스 할당](assign-licenses-to-users.md)|
 |대량 라이선스 업데이트를 관리하는 것이 가능   |[다수의 사용자에게 라이선스 할당 및 해지](bulk-license-provisioning-for-multiple-users.md)|
 |고객이 새 직원을 추가하면 기존 구독에 라이선스를 추가하는 것이 가능   |[기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)|
 |고객이 커밋 전에 소프트웨어를 체험할 수 있도록 평가판 구독을 제공    |[고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)|
-|파트너 대시보드 내에서 Azure 구독 프로세스를 바로 시작   |[파트너 대시보드에서 Azure 구독](assign-azure-subscriptions.md)|
+|이제 파트너 센터 내에서 Azure 구독 프로세스를 시작할 수 있습니다.   |[파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)|
 |제품 특별 가격 확인하기   |[제품 특별 가격 가져오기](get-special-pricing-for-offers.md)|
 |고객을 효과적으로 지원하려면 고객이 해당 소프트웨어를 어떻게 사용하고 있는지 확인하세요.   | [채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)   | 
 

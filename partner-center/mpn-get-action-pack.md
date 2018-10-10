@@ -4,12 +4,12 @@ description: 처음 구입하는 것이든 갱신하는 것이든 관계없이 M
 author: MaggiePucciEvans
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: medium
-ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876713"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490129"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독의 최초 구입 또는 갱신
 
@@ -36,7 +36,7 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 갱신
 
 >[!IMPORTANT]
->현재 시점과 연말 시점 사이에 Action Pack 구독 관리를 Partner Membership Center(PMC)에서 파트너 대시보드(이 사이트)로 옮길 예정입니다. Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 아래 정보를 주의 깊게 검토하세요.  
+>이제 일정 연도의 끝 사이 시점과 연말 Action Pack 구독 관리 Partner Membership Center (PMC)에서 파트너 센터로-이 사이트입니다. Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 아래 정보를 주의 깊게 검토하세요.  
 
 ### <a name="check-your-renewal-eligibility"></a>갱신 자격 확인
 
@@ -46,17 +46,17 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 
     - PMC에서 구독을 갱신하는 단계를 따를 수 있음
 
-    - 파트너 대시보드(이 사이트)에서 구독을 갱신하도록 초대하는 메시지 받기
+    - 파트너 센터-이 사이트에서에서 구독을 갱신 하도록 메시지 받기
 
 >[!IMPORTANT]
->파트너 대시보드에서 구독을 갱신하도록 초대받은 경우, 갱신 기간 정책이 변경되었으므로 구독 기간이 만료된 후에만 구독을 갱신할 수 있습니다. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.       
->[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다. 파트너 대시보드에서 갱신할 자격이 있는 경우 아래 단계를 따릅니다.  
+>파트너 센터에서 구독을 갱신 하도록 초대 하는 경우에 갱신 기간 정책이 변경 하 고 만료 된 후에 구독을 갱신할 수 note 하십시오. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.       
+>[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다. 하는 경우 또는 파트너 센터에서 갱신할 자격이 되 면 다음 단계를 따릅니다.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>파트너 대시보드에서 Microsoft Action Pack 구독을 갱신하려면
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>파트너 센터에서 Microsoft Action Pack 구독을 갱신 하려면
 
-1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack** 타일을 찾습니다.  
+1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독** 타일을 찾습니다.  
 
 2. **구독 갱신**을 선택하고 결제 방법을 선택합니다. 신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.
 

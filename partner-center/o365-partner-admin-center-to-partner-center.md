@@ -3,12 +3,12 @@ title: 'Office 365 파트너 관리 센터 고객: 비즈니스 운영이 파트
 description: 파트너 센터로 이동할 때 Office 365 파트너 관리 센터 고객이 고려해야 할 주요 사항
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c482565f51ae42b0735832f0c305fc55150032b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876893"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489329"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 고객: 비즈니스 운영을 파트너 센터로 이동하기 위한 준비
 
@@ -36,10 +36,10 @@ ms.locfileid: "2876893"
 | Office 365 파트너 관리 센터 기능                       | 파트너 센터에서의 위치 | 
 |   -----------------------------------------------  | -------------- |
 | 비즈니스 구축: 구매 제안 만들기 | 공급자와 협력하여 고객에게 제품 판매 |
-| 비즈니스 구축: 위임 관리자 권한 요청 | 대시보드: 고객 > 재판매인 관계 요청 |
+| 비즈니스 구축: 위임 관리자 권한 요청 | 파트너 센터: 고객 > 재판매인 관계 요청 |
 | 비즈니스 구축: 평가판 초대 만들기 | 사용할 수 없습니다. 이 기능을 위해 Office 365 파트너 관리 센터를 계속 사용할 수 있습니다. |
-| 서비스 요청: 클라이언트 목록: Office 365 관리자 센터 | 대시보드: 고객 > 관리자 서비스 |
-| 서비스 요청: 클라이언트 목록: 서비스 요청 | 대시보드: 서비스 요청 > 고객 요청 |
+| 서비스 요청: 클라이언트 목록: Office 365 관리자 센터 | 파트너 센터: 고객 > 서비스 관리 |
+| 서비스 요청: 클라이언트 목록: 서비스 요청 | 파트너 센터: 서비스 요청 > 고객 요청 |
 | 서비스 요청: 플래그 지정됨 | 대시보드: 고객: 회사 이름 옆 별표 선택 |
-| 서비스 요청 > 클라이언트 관리 > AOBO(대신 관리) | 대시보드: 고객 > 고객 선택 > 구독 선택 > 지정된 제품 재판매인 선택 |
+| 서비스 요청 > 클라이언트 관리 > AOBO(대신 관리) | 파트너 센터: 고객 > 고객 선택 > 구독 선택 > 지정 된 제품 재판매인 선택 |
 

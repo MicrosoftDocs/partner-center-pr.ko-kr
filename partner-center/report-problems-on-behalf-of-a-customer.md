@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197691"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490049"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -24,7 +24,7 @@ ms.locfileid: "4197691"
 
 **고객 서비스 요청을 제출합니다.**
 
-1.  **대시보드** 메뉴에서 **서비스 요청**과 **고객 요청**을 차례로 선택합니다. 
+1.  **파트너 센터** 메뉴에서 **서비스 요청** 및 **고객 요청**을 선택 합니다. 
 
 2.  고객 요청 페이지에서 원하는 고객을 검색합니다.
 
@@ -92,9 +92,9 @@ CSP 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제�
 
 Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니라 귀하의 컨텍스트에서 센터가 표시됩니다. 따라서 고유한 구독에 대한 서비스 요청을 만들 때 Office 365 관리 센터에 직접 서명해야만 합니다.
 
-**Dynamics 365 지원을 추가 가져오기**
+**Dynamics 365 지원 추가 가져오기**
 
- 관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, 청구, 재무 및 작업, IURs 기술 지원 추가로 필요 합니다.
+ 관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, 청구, 재무 및 작업 이나 IURs 기술 지원 추가로 필요 합니다.
  
 [Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support) 팀에 문의
 

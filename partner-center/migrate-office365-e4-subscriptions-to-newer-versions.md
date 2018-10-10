@@ -3,12 +3,12 @@ title: Office 365 E4 구독을 Office 365 최신 버전으로 마이그레이션
 description: Microsoft Office 365 Enterprise E4 버전은 2017년 4월 7일부로 사용 중지되었습니다. 고객 구독을 Office 365 최신 버전으로 마이그레이션하는 방법을 알아보세요.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377715"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490179"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 Enterprise E4 구독을 Office 365 최신 버전으로 마이그레이션
 
@@ -65,7 +65,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 ### <a name="step-1---purchase-the-new-subscription"></a>1단계 - 새 구독 구매
 
-1. **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **구독 추가**를 선택합니다.
+1. **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객 선택한 다음 **추가 구독**을 선택 합니다.
 
 2. 카탈로그에서 구매할 구독을 선택하고(이 경우 아래 옵션 중 하나), 라이선스 수를 입력한 다음 **제출**을 선택합니다.
 
@@ -73,7 +73,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>2단계 - 고객의 사용자 라이선스 다시 할당
 
-1. **대시보드** 메뉴에서 **고객**을 선택하고 이동하려는 고객을 선택한 다음 **사용자 및 라이선스**를 선택합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+1. **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택한 다음 **사용자 및 라이선스를**선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
 
 2. 사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
 
@@ -87,7 +87,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 ### <a name="step-3---cancel-the-old-subscription"></a>3단계 - 이전 구독 취소
 
-1. **대시보드** 메뉴에서 **고객**을 선택합니다. 이동하려는 고객을 선택하고, 취소할 구독을 선택합니다.
+1. **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 이동하려는 고객을 선택하고, 취소할 구독을 선택합니다.
 
 2. 구독 세부 정보 페이지에서 구독 상태를 **일시 중단됨**으로 설정합니다.
 

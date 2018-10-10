@@ -1,16 +1,16 @@
 ---
 title: 청구서 읽기 | 파트너 센터
-description: 송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 송장은 파트너 센터 대시보드에서 확인할 수 있습니다.
+description: 송장은 현재 월별 기간의 모든 요금(프로그램, 제품 및 고객 전체)에 대한 요약입니다. 이 파트너 센터에서 사용할 수 있습니다.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377545"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489409"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377545"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-청구의 경우 **대시보드** 메뉴로 이동한 다음 **청구**를 선택하면 청구 내역과 추세, 송장 및 조정 파일의 링크, 최근 결제가 표시됩니다.
+청구서를 **파트너 센터** 메뉴 이동한 다음 **청구** 확인 하면 청구 내역과 추세, 송장 및 조정 파일, 최근 결제가 표시 링크를 선택 합니다.
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 

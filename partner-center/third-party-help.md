@@ -4,12 +4,12 @@ description: 이제 고객에게 제공하는 포트폴리오에 추가할 타�
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877443"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489999"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>타사 소프트웨어를 포트폴리오에 추가
 
@@ -48,7 +48,7 @@ ISV의 웹 사이트, 연락처 정보, 제품의 비디오 데모를 연결하�
 
 타사 소프트웨어 구입은 자사 소프트웨어 구입과 같은 방식으로 이루어집니다. 
 
-1.  **대시보드**에서 **고객**을 선택합니다.
+1.  **파트너 센터**에서 **고객**을 선택 합니다.
 2.  **새 구독**을 선택합니다.
 3.  타사 소프트웨어에 대한 월간 청구를 선택합니다. 현재 연간 및 평가판 청구는 타사에 대해 지원되지 않고 있습니다.
 4.  **타사** 탭에서 구입하려는 제품을 선택합니다.

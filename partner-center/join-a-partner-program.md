@@ -3,12 +3,12 @@ title: Microsoft 파트너 네트워크 가입 | 파트너 센터
 description: 파트너 센터에서 Microsoft Action Pack을 구입하고 역량 획득
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377795"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489719"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft 파트너 네트워크 가입(MPN)
 
@@ -17,11 +17,11 @@ ms.locfileid: "4377795"
 -  파트너 센터
 -  Microsoft 파트너 네트워크
 
-## <a name="new-to-the-partner-dashboard"></a>파트너 대시보드를 처음 사용하는 경우
+## <a name="new-to-the-partner-center"></a>파트너 센터의 새로운
 
- Microsoft와 협력하면 비즈니스를 혁신할 새로운 기회에 액세스할 수 있습니다. 파트너 대시보드에서 Microsoft Action Pack을 구입 및 갱신할 수 있고 역량 정보와 이를 달성하는 방법에 대해 쉽게 액세스할 수 있습니다.
+ Microsoft와 협력하면 비즈니스를 혁신할 새로운 기회에 액세스할 수 있습니다. 파트너 센터에서 구입 하는 Microsoft Action Pack 갱신 및 역량 정보와를 달성 하는 방법에 대 한 정보에 쉽게 액세스할 수 있습니다.
 
- 우리는 MAPS 또는 역량 연주기일에 또한 주요 파트너 대시보드 기능을 제공하여 그들의 비즈니스 요구를 충족함을 입증할 수 있을 때 파트너가 파트너 대시보드에서 멤버십을 관리할 수 있도록 점차 파트너를 초대하고 있습니다.  지금은 새로운 전환으로의 초대를 받기 전까지 Partner Membership Center(PMC)에서 멤버십 갱신을 계획하고 관리하세요.
+ 파트너는 MAPS 또는 역량 파트너 센터에서 멤버십을 관리할 수 있도록 점차 고 우리가 연주기 일에 또한 주요 파트너 센터 기능을 사용할 수 있고 그들의 비즈니스 요구를 충족 하도록 검증 된 경우 있을 합니다.  지금은 새로운 전환으로의 초대를 받기 전까지 Partner Membership Center(PMC)에서 멤버십 갱신을 계획하고 관리하세요.
 
 ## <a name="get-your-mpn-id"></a>MPN ID 받기
 
@@ -54,7 +54,7 @@ Microsoft 파트너로서 비즈니스를 수행하려면 MPN ID 번호가 필�
 |**수행할 작업**   |**이 글 읽기**   |
 |------------------|:---------------|
 |Microsoft 파트너 되기|[멤버십: 적용 방식](https://partner.microsoft.com/membership/how-it-works)|
-파트너 대시보드에서 Microsoft 파트너 네트워크 멤버십 관리   |[Microsoft 파트너 네트워크 멤버십 관리](mpn-overview.md)
+파트너 센터에서 Microsoft 파트너 네트워크 멤버십 관리   |[Microsoft 파트너 네트워크 멤버십 관리](mpn-overview.md)
 |Action Pack 구입   |[Microsoft Action Pack 구입 또는 갱신](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
 |실버 또는 골드 역량 획득   |[실버 및 골드 멤버십을 위한 역량 요구 사항](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
 |클라우드 솔루션 공급자 프로그램에 가입하는 것을 고려하세요|[클라우드 솔루션 공급자 - 주문형 클라우드 솔루션 판매](csp-overview.md)|

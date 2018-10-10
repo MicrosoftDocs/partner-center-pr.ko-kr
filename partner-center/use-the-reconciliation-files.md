@@ -1,15 +1,15 @@
 ---
 title: 조정 파일 사용 | 파트너 센터
-description: 청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다.
+description: 청구 주기에서 각 요금의 자세한 품목 보기, 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877553"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489959"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -19,7 +19,7 @@ ms.locfileid: "2877553"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-청구 주기에서 각 요금 항목의 세부 정보를 보려면 파트너 센터 대시보드에서 조정 파일을 다운로드합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
+청구 주기에서 각 요금의 자세한 품목 보기, 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
 ## <a href="" id="itemizebypartner"></a>파트너를 기준으로 항목별로 구분
 
@@ -46,7 +46,7 @@ ms.locfileid: "2877553"
 <td>재판매인 MPN ID</td>
 <td><p>간접 모델의 파트너를 위한 조정 파일에만 나타납니다.</p>
 <p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 파트너 센터에서 특정 구독에 대해 나열된 재판매인 ID에 해당합니다.</p>
-<p>재판매인을 보거나 업데이트하려면 파트너 센터 메뉴에서 <strong>고객</strong>을 선택한 다음 목록에서 고객을 선택합니다. 고객 메뉴에서 <strong>구독</strong>을 선택한 다음 목록에서 구독을 선택합니다. <strong>업데이트</strong>를 선택하여 <strong>재판매인(MPN ID)</strong>을 변경합니다.</p>
+<p>보거나 업데이트 파트너 센터 메뉴에서 재판매인을 <strong>고객</strong>을 선택한 다음 목록에서 고객을 선택 합니다. 고객 메뉴에서 <strong>구독</strong>을 선택한 다음 목록에서 구독을 선택합니다. <strong>업데이트</strong>를 선택하여 <strong>재판매인(MPN ID)</strong>을 변경합니다.</p>
 <p>CSP 파트너가 고객에게 직접 구독을 판매하는 경우 해당 MPN ID가 두 번 나열됩니다(MPN ID와 재판매인 MPN ID 모두).</p>
 <p>CSP 파트너에게 MPN ID가 없는 재판매인이 있는 경우 이 값은 대신 파트너의 MPN ID로 설정됩니다.</p>
 <p>CSP 파트너가 재판매인 ID를 제거하는 경우 이 값은 -1로 설정됩니다.</p></td>
@@ -702,7 +702,7 @@ ms.locfileid: "2877553"
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
-<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧를 참조 하세요.</em></p>
+<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧, 참조 하십시오.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>

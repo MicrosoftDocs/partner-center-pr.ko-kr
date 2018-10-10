@@ -4,12 +4,12 @@ description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 28dc6bddd50b52d06652e731545fddf15156c738
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377535"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489509"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -23,7 +23,7 @@ ms.locfileid: "4377535"
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
 
-1.  **대시보드** 메뉴에서 **고객**을 선택한 다음 **재판매인 관계 요청**을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객** 을 선택 하 고 **재판매인 관계 요청**을 선택 합니다.
 
 2.  다음 페이지에서 임시 전자 메일 메시지를 검토합니다. 기본 전자 메일 응용 프로그램에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 전자 메일에 붙여 넣을 수 있습니다. 
 

@@ -4,12 +4,12 @@ description: 카탈로그에는 파트너가 판매할 수 있는 모든 Microso
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874933"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488549"
 ---
 # <a name="customize-the-catalog"></a>카탈로그 사용자 지정
 
@@ -23,7 +23,7 @@ ms.locfileid: "2874933"
 
 **카탈로그 사용자 지정**
 
-1.  대시보드 메뉴에서 &gt; **판매** &gt; **카탈로그**로 이동합니다.
+1.  파트너 센터 메뉴로 이동 &gt; **판매** &gt; **카탈로그**.
 2.  카탈로그의 맨 위에 표시할 제품을 최대 5개 선택합니다.
 
  
