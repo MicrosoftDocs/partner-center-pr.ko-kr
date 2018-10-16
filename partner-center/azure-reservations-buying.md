@@ -4,14 +4,14 @@ Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: e318331f779052dedb9fe7ee25351dc66b14b463
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488769"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658109"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
 **적용 대상**
 
@@ -26,29 +26,38 @@ ms.locfileid: "4488769"
 2. **고객** 페이지에서 Azure 예약을 구입하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 행을 펼쳐봅니다.  
 
 3. **추가 제품** 을 선택 하 고 **Azure**를 선택 합니다. 
-    
-4. Azure 예약을 위해서는 반드시 Azure 구독 상태여야 합니다. Azure 예약을 추가하려는 고객의 구독을 선택합니다. 사용 가능한 Azure reserved instances의 목록이 표시 됩니다. 
+
+    a. **세그먼트** 목록에서 고객의 지역/국가 세그먼트를 선택 합니다.
+
+    b. 제품 **유형** 목록에서 **예약** 을 선택 합니다.
+
+    c. **예약 유형** 목록에서 고객이 예약 유형을 선택 합니다.
+
+4. Azure 예약을 위해서는 반드시 Azure 구독 상태여야 합니다. **고객 구독** 목록에서 Azure 예약을 추가 하려는 고객의 구독을 선택 합니다. 
 
     >[!IMPORTANT] 
-    >고객이 Azure 구독 없으면 하나를 추가 이제 **온라인 서비스** 선택 합니다. 
+    >고객이 이미 Azure 구독 상태를 없으면 하나를 추가 이제 **온라인 서비스** 선택 합니다. 
 
 5. 필터를 사용 하 여 고객의 요구 사항을 충족 하는 예약 된 인스턴스를 찾습니다.  
 
-6. 예약 된 인스턴스를 구입, 예약 된 인스턴스의 수를 입력 한 후 고객 되며 **수량** 에 필요한 다음 **카트에 추가**선택 합니다.  
+6. 구입, 예약 된 인스턴스의 수를 입력 하려면 reservation(s) 찾은 후 고객 되며 **수량** 에 필요한 다음 **카트에 추가**선택 합니다.  
 
 7. 필요한 모든 항목을 주문에 추가할 때까지 5단계와 6단계를 반복합니다. **검토**를 선택하여 주문이 올바른지 확인합니다.  
 
 8. **주문 검토** 페이지에서 다음을 수행할 수 있습니다. 
 
-    a. 예약 된 인스턴스 수량을 변경 또는 확인 합니다.
+    a. 예약 된 인스턴스 수량을 변경할 또는 확인 합니다.
 
-    b. 예약의 범위를 선택 합니다. 예약 범위는 단일 또는 다중 구독(공유 범위)을 지원할 수 있습니다. 단일 구독을 선택 하는 경우에이 구독에 예약 할인이 적용 됩니다. 선택 하는 경우 공유, 고객의 청구 한 상황에서 모든 구독에 예약 할인이 적용 됩니다. 
+    b. 예약의 범위를 선택 합니다. 예약 범위는 단일 또는 다중 구독(공유 범위)을 지원할 수 있습니다. 단일 구독에 대 한 예약, 범위 지정 하는 경우만이 구독에 예약 할인이 적용 됩니다. 선택 하는 경우 공유, 고객의 청구 한 상황에서 모든 구독에 예약 할인이 적용 됩니다. 
+
+     >[!NOTE]
+    >예약의 범위를 단일 Azure 구독을 제한 하기로 선택한 경우 구독의 vCPU 할당량을 강화 하기 위해 할 수도 있습니다. 구독의 vCPU 할당량을 향상 시키기 위해 Azure portal에서 지원 요청을 작성 해야 합니다. 수행 하는 지침에서은 [이 항목의](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 요청을 만듭니다.    
 
     c. 공급자 파트너 인 경우 제품을 사용 하 여 연결 하려는 재판매인을 선택 합니다.
 
-9. **구입**을 선택하여 주문품을 구입합니다. 
-
-    주문 번호를 포함하여 주문 세부 정보는 다음 페이지에 표시됩니다. **완료**를 선택하여 **주문 내역** 페이지로 이동합니다. 
+9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보 **확인** 페이지에 표시 됩니다.    
+     
+     **완료**를 선택하여 **주문 내역** 페이지로 이동합니다. 
 
 >[!IMPORTANT]
 >이미 않았다면 **고객** 페이지에서 고객을 찾고 하 고 고객의 행을 펼쳐를 아래쪽 화살표를 선택 합니다. **Microsoft Azure 관리 포털**을 선택하여 Azure Portal에서 고객의 기록을 엽니다.
