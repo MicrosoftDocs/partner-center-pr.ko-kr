@@ -1,15 +1,15 @@
 ---
 title: 사용자 역할 및 권한을 할당 | 파트너 센터
-description: 파트너 센터에서 작업 해야 하는 경우 모든 직원 역할을 할당 해야 합니다.
+description: 파트너 센터에서 작업 해야 하는 경우 모든 직원 역할을 할당 합니다.
 author: labrenne
 keywords: 역할, 권한, 관리자 에이전트
 ms.localizationpriority: medium
-ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
-ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
+ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "4528370"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541478"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
@@ -21,15 +21,15 @@ ms.locfileid: "4528370"
 
 조직의 규모에 따라 일부 사용자 위치에 걸쳐 또는 한 위치에 대 한 작동할 수 있습니다. 
 
-예를 들면 다음과 같습니다.
+예:
 
-- 전역 관리자는 법적 비즈니스 및; 특정 위치에 대 한 관리자 수 있습니다. 또는 전역 관리자는 관리자는 비즈니스 위치 중 하나만 될 수 있습니다. 
-- 하나 또는 여러 위치에 대 한 인센티브 관리자를 관리할 수 있지만 이러한 위치를 지정 해야 합니다.
+- 전역 관리자는 법적 비즈니스 및; 특정 위치에 대 한 관리자 될 수 있습니다. 또는 전역 관리자는 관리자는 비즈니스 위치 중 하나만 될 수 있습니다. 
+- 하나 이상의 위치에 대 한 인센티브 관리자를 관리할 수 있지만 이러한 위치를 지정 해야 합니다.
 
 
 다음 표에서 각 역할이 파트너 센터에서 수행할 수 있는 작업을 설명 합니다. 역할을 할당하는 방법을 결정할 때는 조직에서 사용자의 업무를 고려해야 합니다. 예를 들어 글로벌 관리자를 관리자 에이전트로 할당하고 싶을 수 있습니다. 마케팅을 담당하는 직원이 비즈니스 프로필도 관리해야 하는 경우도 있습니다.
 
-[사용자 계정 만들기 및 사용 권한을 설정](create-user-accounts-and-set-permissions.md)의 역할 및 권한 개요를 참조 하세요.
+[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)의 역할 및 권한 개요를 참조 하세요.
 
 <table>
 <colgroup>
@@ -99,14 +99,13 @@ ms.locfileid: "4528370"
 <li><p>새 위치를 만들기</p></li>
 <li><p>위치 (예외로 간접 재판매인 프로그램과 CSP) 프로그램에 등록</p></li>
 <li><p>프로필을 관리 하는 위치 계정과 관련 된 관리</p></li>
-<li><p>사용자에 게 MPN 관리자, 비즈니스 프로필 관리자, 관리자 추천, 인센티브 관리자, 인센티브 사용자 역할 할당</p></li>
+<li><p>사용자에 게 다른 계정 관리자, MPN 관리자, 비즈니스 프로필 관리자, 추천 관리자, 인센티브 관리자 및 인센티브 사용자 역할 할당</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>인센티브 관리자</strong></p></td>
 <td><ul>
-<li><p>인센티브 역할을 할당할 수 있습니다.</p></li>
-<li><p>시작 하 고 인센티브 청구 관리</p></li>
+<li><p>시작 하 고 인센티브 클레임을 관리 합니다.</p></li>
 <li><p>보고 인센티브 프로그램의 모든 측면을 편집할 수 있습니다.</p></li>
 <li><p>보고 은행 및 세금 세부 정보를 편집할 수 있습니다.</p></li>
 <LI><p>보기 리베이트 및 협동 수익</p></li>
@@ -130,7 +129,7 @@ ms.locfileid: "4528370"
 <td><p><strong>관리자 에이전트</strong></p></td>
 <td><ul>
 <li><p>고객 관리</p></li>
-<li><p>디바이스 목록을 파트너 센터에 추가 <</p></li>
+<li><p>파트너 센터에 디바이스 목록 추가 <</p></li>
 <p><li>프로필을 만들고 디바이스에 적용</p></li>
 <li><p>구독 관리</p></li>
 <li><p>고객의 서비스 상태 및 서비스 요청</p></li>
