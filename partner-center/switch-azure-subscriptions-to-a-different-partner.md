@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488969"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511394"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 이전 
 
@@ -21,10 +21,9 @@ ms.locfileid: "4488969"
 고객은 Microsoft Azure 서비스에 대해 클라우드 솔루션 공급자 파트너 또는 다른 파트너로 이전할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다.
 
 >[!Note]  
->이 이번에 직접 또는 간접 공급자만 구독을 전송할 수 있습니다.
+>이 이번에 직접 또는 간접 공급자 구독을 전송할 수 있습니다.
 
->[!Note] 
->현재 Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대 한 클라우드 솔루션 공급자 구독의 파트너를 변경할 수는 없습니다.
+>[!Note]현재 Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대 한 클라우드 솔루션 공급자 구독의 파트너를 변경할 수는 없습니다.
 
 
 
@@ -68,7 +67,7 @@ ms.locfileid: "4488969"
     *중요*: 새 CSP 파트너가 고객과의 재판매인 관계가 없으면 구독을 이전하기 전에 재판매인 관계를 설정해야 합니다. [여기서 이 작업을 수행하는 방법에 대한 자세한 내용을 확인할 수 있습니다](request-a-relationship-with-a-customer.md).
 
     >[!Note]
-    >새 CSP 파트너와 고객 테 넌 트 같은 영역에 있어야 합니다. 
+    >새 CSP 파트너와 고객 테 넌 트와 동일한 국가에 있어야 합니다. 
 
 5.  현재 파트너:
 
@@ -95,9 +94,9 @@ ms.locfileid: "4488969"
     -  고객 메뉴에서 **서비스 관리**를 선택합니다. 
     -  **Microsoft Azure** 아래에서 **Microsoft Azure 관리 포털**로 이동하는 링크를 클릭합니다.
 
- 
+ 
 
- 
+ 
 
 
 
