@@ -4,12 +4,12 @@ description: Microsoft는 Azure RI와 서버 구독을 CSP 프로그램에 연�
 author: v-petand
 keywords: Azure, 구독, VM, 예약, 예약 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: a29e9b5b6de186f44a9e4c79baf8bfab4e47018a
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
+ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460088"
+ms.lasthandoff: 10/26/2018
+ms.locfileid: "5591919"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -65,12 +65,10 @@ Azure Reservations 및 서버 구독을 CSP 프로그램으로 가져와, Micros
 
 **영업 준비**
 
-- [Azure 하이브리드 혜택 개요와 서버 구독](https://www.yammer.com/cloudpartnercommunity/#/files/141644181) 업데이트
-- [판매 시트](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure VM RI + 서버 구독 FAQ (업데이트)](https://www.yammer.com/cloudpartnercommunity/)
-- [Azure 예약 및 SQL DB에 대 한 파트너 FAQ](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure 예약 이나 Azure 하이브리드 혜택 개요 (업데이트)를 사용 하 여 서버 구독](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [판매 시트](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Azure 예약 (업데이트)에 대 한 파트너 FAQ](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure 예약 및 SQL DB에 대 한 파트너 FAQ](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure 개요 (신규)에서 SQL DB](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Azure 가격 개요](https://azure.microsoft.com/pricing/#explore-cost)
 - [계산기 가격 계산기](https://azure.microsoft.com/pricing/calculator/)
