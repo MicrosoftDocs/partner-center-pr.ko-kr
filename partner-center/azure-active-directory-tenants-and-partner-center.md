@@ -1,16 +1,19 @@
 ---
 title: 회사 계정 및 파트너 센터 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다.
 author: labrenne
+ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489749"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796396"
 ---
 # <a name="your-company-work-account-and-the-partner-center"></a>조직의 회사 계정 및 파트너 센터  
 
@@ -20,7 +23,7 @@ ms.locfileid: "4489749"
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
-계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용 하 여 파트너 센터에 로그인 할 수 있도록 귀사의 회사 계정을 새 파트너 센터 계정에 연결 해야 합니다.
+계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용 하 여 파트너 센터에 로그인 할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결 해야 합니다.
 
 회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
 

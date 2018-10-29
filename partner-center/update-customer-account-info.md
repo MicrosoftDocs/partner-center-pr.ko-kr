@@ -1,15 +1,18 @@
 ---
 title: 고객 계정 정보 업데이트 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 고객의 청구 정보와 기타 회사 세부 정보를 업데이트할 수 있습니다.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8cb75e8fbfd4ba8119cd5a01f3ad8766d1296618
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 54dda52acddff804c2bd3b4017d6041aa0a34720
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488759"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795086"
 ---
 # <a name="update-customer-account-info"></a>고객 계정 정보 업데이트
 
@@ -27,9 +30,9 @@ ms.locfileid: "4488759"
 2.  고객 메뉴에서 **계정**과 **업데이트**를 차례로 선택합니다.
 3.  내용을 변경한 후 **제출**을 선택합니다.
 
- 
+ 
 
- 
+ 
 
 
 

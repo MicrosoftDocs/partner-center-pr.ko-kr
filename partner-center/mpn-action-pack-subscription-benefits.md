@@ -1,15 +1,18 @@
 ---
 title: Microsoft Action Pack 구독 혜택 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 이 페이지의 정보가 https://partner.microsoft.com/membership/internal-use-software로 이동했습니다.
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0c1f62b1980601bb6c97b9075689638ad9e350f3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: bd5b12c4cf8eaa24cd322f98ab1054e6786a42a3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489229"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795486"
 ---
 # <a name="get-action-pack-subscription-details-on-the-microsoft-partner-networkhttpspartnermicrosoftcommembershipinternal-use-software-site"></a>[Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 세부 정보를 확인하세요. 
 
@@ -17,6 +20,6 @@ Microsoft Action Pack 구독 혜택에는 비즈니스를 운영하고 솔루션
 
 Microsoft 파트너 네트워크 사이트의 [비즈니스 가속화](https://partner.microsoft.com/membership/internal-use-software)에서 Action Pack 구독에 포함된 혜택 세부 정보를 확인하세요.   
 
-자세한 내용은 처음으로 Action Pack 구독 구입 또는 Action Pack 구독 갱신에 대 한 이전에 구입한 경우, 참조이 사이트의-에서 [Action Pack 얻기](mpn-get-action-pack.md) 파트너 센터 사이트에서 도움말 라이브러리.
+내용은 처음으로 Action Pack 구독 구입 또는 Action Pack 구독 갱신에 대 한 이전에 구입한 [Action Pack 얻기](mpn-get-action-pack.md) 이 사이트의-파트너 센터 사이트에서 도움말 라이브러리 참조.
 
 

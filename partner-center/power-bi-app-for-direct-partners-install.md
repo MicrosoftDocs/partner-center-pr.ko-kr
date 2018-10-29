@@ -1,15 +1,18 @@
 ---
 title: Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 아래 단계에 따라 Power BI용 파트너 센터 분석 앱을 미리 봅니다(CSP의 직접 파트너용).b
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377515"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795536"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기
 

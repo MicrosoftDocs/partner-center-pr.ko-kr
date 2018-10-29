@@ -1,16 +1,19 @@
 ---
 title: 기존 구독에 라이선스 또는 서비스 추가 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객이 현재 구독에서 제공하는 것보다 많은 사용자 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489729"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795976"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
 
@@ -38,7 +41,7 @@ ms.locfileid: "4489729"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -47,14 +50,14 @@ ms.locfileid: "4489729"
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -64,12 +67,12 @@ ms.locfileid: "4489729"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India 및 Office 365 Business Essentials India는 Office 365 Business Premium이 아니라 Office 365 Business Premium India로 업그레이드할 수 있습니다.</p></td>
+<td><p>¹ Office365BusinessIndia 및 Office365BusinessEssentialsIndia Office365BusinessPremium 필요가 Office365BusinessPremiumIndia로 업그레이드할 수 있습니다.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 이러한 조건이 적용되는 경우 구독을 업그레이드할 수 있습니다.
 
@@ -92,9 +95,9 @@ ms.locfileid: "4489729"
 3.  새 제품을 선택하고 **제출**을 선택합니다.
 4.  특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다. 그렇다면 파트너 센터 계정 및 영향을 받은 서비스 목록을 제공 합니다. 도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](http://go.microsoft.com/fwlink/p/?LinkId=723576)을 참조하세요.
 
- 
+ 
 
- 
+ 
 
 
 

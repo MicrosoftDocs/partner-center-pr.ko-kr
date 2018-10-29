@@ -1,15 +1,18 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 클라우드 솔루션 공급자 프로그램을 통해 신규 고객 및 새로운 전문 지식으로 비즈니스를 성장시킬 수 있습니다.
 author: labrenne
+ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 ms.localizationpriority: medium
-ms.openlocfilehash: 62cfa7e131f22ed5d7c3ac0e26ff14f71ac047f3
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488749"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795216"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 
 
@@ -18,7 +21,7 @@ ms.locfileid: "4488749"
 -  파트너 센터
 
 CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판매를 넘어 고객의 비즈니스에 더 많이 관여할 수 있습니다.
- 
+ 
 - 고객에게 보다 긴밀하게 관여 – 고객과 정기적으로 만남을 가지면 고객의 비스니스와 요구 사항에 대해 더 잘 이해할 수 있습니다.
 - 수익 증대 – 직접 또는 간접 공급자를 통해 향상된 지원 및 청구 서비스를 제공하여 새로운 수익 창출 기회를 모색할 수 있습니다.  
 - 가치 추가 – Microsoft 제품과 함께 번들로 제공되는 특정 산업별 솔루션을 고객에게 제공할 수 있습니다.
@@ -38,10 +41,10 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판
 
 서비스
 
-- 하나 이상의 관리 서비스, IP 서비스 또는 고객 솔루션 응용 프로그램을 제공 하는 방법을 보여 줍니다. 관리 되는 서비스를 추가 하는 방법에 대 한 자세한 정보
+- 하나 이상의 관리 서비스, IP 서비스 또는 고객이 솔루션 응용 프로그램을 제공 하는 방법을 보여 줍니다. 관리 되는 서비스를 추가 하는 방법에 대 한 자세한 정보
 
 - 청구 및 프로 비전 등의 최소 인프라 기능을 충족 해야 합니다.
-이러한 요구 사항을 충족 하는 직접 청구 파트너는 계속 비즈니스 성장을 보여 주는 것인지 연간 성능을 모니터링 하는 것. 이때 장소에 없는 특정 성능 목표는 있으 Microsoft 바 나중에 성능 구현할 수 있습니다. 
+이러한 요구 사항을 충족 하는 직접 청구 파트너는 계속 비즈니스 성장을 보여 주는 것인지 연간 성능을 모니터링 하는 것입니다. 이때 장소에 없는 특정 성능 목표는 있으 Microsoft 바 나중에 성능 구현할 수 있습니다. 
 
 - 판매하기 원하는 위치에 대한 활성 MPN(Microsoft 파트너 네트워크) ID
 

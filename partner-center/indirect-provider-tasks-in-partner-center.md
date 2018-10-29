@@ -1,14 +1,17 @@
 ---
 title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490139"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795196"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -18,7 +21,7 @@ ms.locfileid: "4490139"
 
 간접 공급자-재판매인(2계층) 모델에서 간접 공급자는 간접 재판매인과 파트너가 되어 고객에게 Microsoft 클라우드 솔루션을 제공합니다. 간접 공급자는 Microsoft에서 직접 제품 및 구독을 구매한 후 재판매인을 통해 고객에게 솔루션을 제공합니다. 
 
-간접 공급자는 파트너 센터를 사용할 수 있습니다.
+간접 공급자는 파트너 센터를 사용합니다.
 
 -   고객 범위 및 고객 기반 확장에 도움을 줄 수 있는 간접 재판매인과 연결
 -   간접 공급자도 공통 고객에게 서비스를 제공하도록 허용하는 재판매인과 파트너 되기
@@ -37,7 +40,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 2.  간접 재판매인과의 관계 구축
 
-    - 상호 작용 및 거래 하는 재판매인 수, 파트너 센터에서 고객과 파트너 관계를 설정 해야 합니다. <br>
+    - 상호 작용할 수 있으며 재판매인 거래 하는 경우, 파트너 센터에서 고객과 파트너 관계를 설정 해야 합니다. <br>
 
 3.  고객과의 관계 구축
 
@@ -51,7 +54,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 ## <a name="connect-with-indirect-resellers"></a>간접 재판매인과의 관계 구축
 
-조작 하 고 파트너 센터에서 간접 재판매인으로 거래를 하려면 고객과 파트너 관계를 설정 해야 합니다. 간접 재판매인과 파트너가 되면 귀사와 재판매인 모두 공통 고객에게 서비스를 제공할 수 있게 됩니다.
+상호 작용 및 거래 하는 파트너 센터에서 간접 재판매인을 재판매인과 파트너 관계를 설정 해야 합니다. 간접 재판매인과 파트너가 되면 귀사와 재판매인 모두 공통 고객에게 서비스를 제공할 수 있게 됩니다.
 
 파트너 관계를 설정하려면 재판매인에게 파트너 관계 요청 전자 메일을 보냅니다. 시작하기 전에 재판매인의 전자 메일 주소를 준비해 두세요. 
 

@@ -1,15 +1,18 @@
 ---
 title: 다중 파트너 지원 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객이 클라우드 솔루션 공급자 프로그램에서 각기 다른 서비스를 전문적으로 제공하는 여러 파트너와 작업하려고 할 수도 있습니다.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ba0d69eb1e46d4aa75f57514fe5626ae522c5eb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09b915d7cb2cd36ffabc5f4336cb78f37e9b262c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489429"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795176"
 ---
 # <a name="multi-partner-support"></a>다중 파트너 지원
 
@@ -34,9 +37,9 @@ ms.locfileid: "4489429"
 -   구독의 공식 파트너를 변경하지 않습니다.
 
 > [!IMPORTANT]  
-> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대 한 모든 발표는 파트너 센터를 포함 한 일반적인 통신 채널을 통해 발표 될 예정입니다.  
+> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대 한 모든 발표는 파트너 센터를 포함 한 일반적인 통신 채널을 통해 발표 될 예정입니다.  
 
- 
+ 
 
 
 

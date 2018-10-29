@@ -1,15 +1,18 @@
 ---
 title: 최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
+ms.author: v-petand
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
-ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489619"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795926"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 
 
@@ -45,7 +48,7 @@ ms.locfileid: "4489619"
 
 **Microsoft Azure Portal을 이용해 VM 크기 조정 정보 얻기**
 
-1.  파트너 센터에서 **고객** 페이지로 이동 합니다.
+1.  파트너 센터에서 **고객에 게** 페이지로 이동 합니다.
 
 2.  VM 예약을 구입하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 정보를 펼쳐봅니다. **Microsoft Azure 관리 포털**을 선택하여 Azure Portal에서 고객의 기록을 엽니다. 
 
@@ -89,7 +92,7 @@ ms.locfileid: "4489619"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure Portal에서 고객의 예약 사용량 확인
 
-1.  파트너 센터에서 **고객** 페이지로 이동 합니다.
+1.  파트너 센터에서 **고객에 게** 페이지로 이동 합니다.
 
 2.  예약 할인 및 사용률을 확인하고 싶은 고객을 찾고 아래쪽 화살표를 선택하여 고객의 정보를 펼쳐봅니다. **Microsoft Azure 관리 포털**을 선택하여 Azure Portal에서 고객의 기록을 엽니다. 
 

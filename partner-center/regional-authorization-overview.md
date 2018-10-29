@@ -1,16 +1,19 @@
 ---
 title: CSP 지역 권한 설정 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 이제 국제 비즈니스를 하는 파트너는 지역 권한 설정을 통해 전 세계 다양한 지역 및 국가에 있는 고객을 더 쉽게 관리할 수 있습니다.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Azure AD 테넌트, 사용자 테넌트 통합, CSP의 테넌트, CSP의 파트너 계정, CSP 시장 및 지역, CSP를 통해 어디에서 판매할 수 있나요?
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377635"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796636"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>CSP의 테넌트 통합 전략
 
@@ -69,7 +72,7 @@ ms.locfileid: "4377635"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>여러 지역 또는 국가 대한 하나의 테넌트
 
@@ -101,7 +104,7 @@ ms.locfileid: "4377635"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>일부 지역 또는 국가에 대한 일부 테넌트
 
@@ -137,7 +140,7 @@ ms.locfileid: "4377635"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>테넌트 통합
 
@@ -211,7 +214,7 @@ ms.locfileid: "4377635"
 | AUD | 오스트레일리아, 크리스마스섬, 코코스 제도, 쿡 제도, 피지, 허드 맥도널드 제도, 키리바시, 마샬 제도, 나우루, 니우에, 노퍽 섬, 북마리아나 제도, 팔라우, 파푸아뉴기니, 핏케언 제도, 솔로몬 제도, 토켈라우, 통가, 투발루, 왈리스-푸투나 제도 |
 
 
- 
+ 
 
 
 

@@ -1,16 +1,19 @@
 ---
 title: CSP 파트너 | 파트너 센터용 Cloudyn의 Azure 비용 관리
+ms.topic: article
+ms.date: 10/29/2018
 description: Cloudyn의 Azure 비용 관리를 사용하려면 파트너 센터 API에 프로비전된 액세스가 필요합니다.
 author: Janet
+ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489389"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796096"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 

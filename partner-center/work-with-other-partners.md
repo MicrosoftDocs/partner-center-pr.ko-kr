@@ -1,14 +1,17 @@
 ---
 title: 다른 파트너와 협력 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 귀사가 공유하는 고객의 요구 사항을 충족할 수 있도록 CSP의 다른 파트너와 협력하세요.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377695"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794886"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 

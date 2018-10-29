@@ -1,15 +1,18 @@
 ---
 title: 파트너 센터에서 문제 보고 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 문제를 보고하고 지원 팀에 제출할 진단 정보를 수집하는 방법
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489279"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795326"
 ---
 # <a name="report-problems-with-partner-center"></a>파트너 센터에서 문제 보고
 
@@ -31,14 +34,14 @@ ms.locfileid: "4489279"
 
 **진단 보내기**
 
-파트너 센터 페이지에 있는 동안 오류가 발생하는 경우 로그 정보를 수집하라는 메시지가 표시될 수 있습니다. 클라이언트 진단 도구를 엽니다 페이지 상단의 드롭다운 링크에서 **추가 정보 수집** 을 선택 합니다. 이 도구는 파트너 지원 팀에서 오류 원인을 파악 하는 데 필요한 정보를 수집 합니다. 
+파트너 센터 페이지에 있는 동안 오류가 발생하는 경우 로그 정보를 수집하라는 메시지가 표시될 수 있습니다. 클라이언트 진단 도구를 열려면 페이지 상단의 드롭다운 링크에서 **추가 정보 수집** 을 선택 합니다. 이 도구는 파트너 지원 팀에서 오류 원인을 파악 하는 데 필요한 정보를 수집 합니다. 
 
 >[!NOTE]
 >URL에 **/pcv/** 가 포함된 파트너 센터 페이지에서 도구를 수동으로 열고 이 정보를 수집할 수 있습니다.
 
 1.  문제가 있는 페이지로 이동합니다.
 
-2.  **Ctrl + Alt + D** 키를 눌러 클라이언트 진단 도구를 엽니다.
+2.  키를 눌러 **Ctrl + Alt + D** 클라이언트 진단 도구를 엽니다.
 
 진단 정보를 미리 살펴본 후 지원 요청에 첨부 가능한 파일에 저장할 수 있습니다. 정보를 보내려면:
 
@@ -51,5 +54,5 @@ ms.locfileid: "4489279"
 
 5.  지원 요청에 파일을 첨부 합니다.
 
-파트너 지원 최신 정보를 얻을 수 있도록이 도구를 여러 번 실행 하도록 요청할 수도 있습니다.
+파트너 지원 최신 정보를 가져올 수 있으므로이 도구를 여러 번 실행 하도록 요청할 수도 있습니다.
 

@@ -1,16 +1,19 @@
 ---
 title: 고객 활동 로그 보기 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488649"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794856"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
@@ -41,9 +44,9 @@ ms.locfileid: "4488649"
     -   **상태** - 활동과 연관된 데이터(예: 주문 ID)를 제공합니다. 작업 유형에 따라 달라집니다.
     -   **추가 정보** - 활동 로그에 대한 거래 데이터입니다. 예를 들어 작업이 고객 주문인 경우 이 필드에는 구매에 대한 콘텐츠가 나열됩니다.
 
- 
+ 
 
- 
+ 
 
 
 

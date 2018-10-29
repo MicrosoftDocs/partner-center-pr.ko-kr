@@ -1,14 +1,17 @@
 ---
 title: 프로모션을 사용하여 신규 고객 유치 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트너는 프로모션 가격으로 구독을 구입하여 그 절감 혜택을 고객에게 전달할 수 있습니다.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488989"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795056"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>프로모션을 사용하여 신규 고객 유치  
 
@@ -32,14 +35,14 @@ Microsoft에서는 두 가지 프로모션을 제공합니다. 하나는 CSP(클
 
 ## <a name="see-available-promotions"></a>사용 가능한 프로모션 보기
 
-사용 가능한 프로모션이 있는 경우 **프로모션** 페이지에서 확인할 수 있습니다. **프로 모션** 할인, 프로 모션 종류 및 구독에 대 한 시작 및 종료 날짜와 함께 현재 프로 모션 목록을 보려면 **파트너 센터** 메뉴에서 선택 합니다. 사용 가능한 프로모션이 없는 경우 프로모션이 없다는 메시지가 표시됩니다. 
+사용 가능한 프로모션이 있는 경우 **프로모션** 페이지에서 확인할 수 있습니다. **프로 모션** 할인, 프로 모션 유형 및 구독에 대 한 시작 및 종료 날짜와 함께 현재 프로 모션 목록을 보려면 **파트너 센터** 메뉴에서 선택 합니다. 사용 가능한 프로모션이 없는 경우 프로모션이 없다는 메시지가 표시됩니다. 
 
 > [!NOTE]  
 > 구매할 때에도 프로모션을 확인할 수 있습니다. 구독을 선택하면 **검토** 페이지에 할인율이 표시됩니다.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>할인된 가격으로 구독 구입
 
-1. **파트너 센터** 메뉴에서 **고객** 을 선택 하 고 구독을 구입 하는 고객을 선택 합니다. 
+1. **파트너 센터** 메뉴 **고객** 을 선택 하 고 구독을 구입 하는 고객을 선택 합니다. 
 
 2. **구독 추가**를 선택합니다.
 

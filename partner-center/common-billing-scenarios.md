@@ -1,16 +1,19 @@
 ---
 title: 일반적인 청구 시나리오 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 이 항목에서는 새 구독을 추가한 후, 구독의 라이선스 수를 조정한 후 또는 구독을 취소한 후 청구서에 표시되는 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
-ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
+ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "4121118"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795636"
 ---
 # <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 

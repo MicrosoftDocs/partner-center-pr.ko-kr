@@ -1,15 +1,18 @@
 ---
 title: 사용자 암호 다시 설정 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 사용자가 암호를 잊은 경우 새 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377425"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794896"
 ---
 # <a name="reset-a-user-password"></a>사용자 암호 다시 설정
 
@@ -37,9 +40,9 @@ ms.locfileid: "4377425"
 
 2.  고유한 역할을 확인할 수 있습니다. 암호 변경 지침을 참조하세요.
 
- 
+ 
 
- 
+ 
 
 
 

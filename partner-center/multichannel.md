@@ -1,15 +1,18 @@
 ---
 title: 다중 채널 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 경우에 따라 고객이 다른 곳에서 구입한 구독을 프로비전 및 지원하기 위해 귀사를 고용하려 할 수도 있습니다.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489419"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795746"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
@@ -55,11 +58,11 @@ ms.locfileid: "4489419"
 
 간접 재판매인인 경우 [간접 공급자와 파트너 되기](indirect-reseller-tasks-in-partner-center.md)를 참조하세요.
 
-간접 공급자인 경우 [간접 판매자와 파트너 되기](indirect-provider-tasks-in-partner-center.md)를 참조하세요. 
+간접 공급자인 경우 [간접 판매자와 파트너 되기](indirect-provider-tasks-in-partner-center.md)를 참조하세요. 
 
- 
+ 
 
- 
+ 
 
 
 
