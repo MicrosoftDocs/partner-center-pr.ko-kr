@@ -1,15 +1,18 @@
 ---
 title: 구독 일시 중단 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f01e9dc05366376946e7aff256bd643810c6fa59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 041dc7e1849f0dfd9334159a57a9714396358df9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488879"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796126"
 ---
 # <a name="suspend-a-subscription"></a>구독 일시 중단
 

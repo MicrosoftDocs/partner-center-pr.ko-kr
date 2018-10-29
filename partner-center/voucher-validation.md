@@ -1,15 +1,18 @@
 ---
 title: 파트너 센터에서 증명서 유효성 검사 도구를 사용 하 여 교육 상품권 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 유효성 검사 및 파트너 센터에서 교육 상품권 예약
 author: labrenne
+ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance 상품권, 예약 증명서의 유효성을 검사합니다
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c9c2d7cda9d61510cb277074589e798762528f6
-ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
+ms.openlocfilehash: 73f488a63e5089dec9462125cb4de79ba6bc5fc9
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "5460105"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797096"
 ---
 # <a name="use-the-voucher-validation-tool-in-partner-center-for-training-vouchers"></a>파트너 센터에서 증명서 유효성 검사 도구를 사용 하 여 교육 상품권
 

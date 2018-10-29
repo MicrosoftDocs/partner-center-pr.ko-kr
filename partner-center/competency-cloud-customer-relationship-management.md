@@ -1,19 +1,22 @@
 ---
 title: 클라우드 고객 관계 관리 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 클라우드 고객 관계 관리 역량을 획득하여 Microsoft Dynamics CRM Online 또는 Dynamics 365 프리미엄 공급자로서 명성을 얻으세요.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 클라우드 고객 관계 관리
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874823"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796286"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 #Cloud Customer Relationship Management

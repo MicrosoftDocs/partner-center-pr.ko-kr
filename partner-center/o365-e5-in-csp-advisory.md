@@ -1,15 +1,18 @@
 ---
 title: CSP의 Office 365 E5 Single SKU 가용성 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: CSP에서 Office 365 Enterprise E5 Single SKU를 사용할 수 있으며 이 SKU는 PSTN 회의를 포함합니다.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876293"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795657"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 파트너 공지: CSP의 Office 365 E5 Single SKU 가용성
 
@@ -89,7 +92,7 @@ E5(PSTN 제외) 회의
 
 PSTN 추가 기능
 
- 
+ 
 
 **단일 Office 365 Ent. E5 Single SKU 출시 이후**
 
@@ -143,7 +146,7 @@ E5(PSTN 제외) 회의 고객을 위한 비즈니스용 Skype PSTN 회의
 
 PSTN 추가 기능
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>송장 및 파트너 조정 파일
 
@@ -197,7 +200,7 @@ CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>추가 리소스
 
@@ -210,9 +213,9 @@ CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 
 
 -   **Office 365 E5 및 비즈니스용 Skype 라이선싱 FAQ**
 
- 
+ 
 
- 
+ 
 
 
 

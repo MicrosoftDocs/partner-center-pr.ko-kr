@@ -1,16 +1,19 @@
 ---
 title: 고객 계정에 대한 사용자 관리 작업 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객을 위한 새 구독을 구입한 후 특정 사용자에게 라이선스를 할당할 수 있습니다.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489819"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797246"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
@@ -94,9 +97,9 @@ ms.locfileid: "4489819"
 
 [고객 계정에 대한 다수의 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 
- 
+ 
 
- 
+ 
 
 
 

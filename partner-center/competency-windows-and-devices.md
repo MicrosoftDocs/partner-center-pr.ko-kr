@@ -1,19 +1,22 @@
 ---
 title: Windows 및 디바이스 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 10억 대의 디바이스에 Windows 10을 배포하려는 Microsoft의 목표를 공유하세요. 서비스, 응용 프로그램, 디바이스에 걸쳐 기회가 있습니다. 이 역량은 수익성 높은 Windows 10 관행을 구축하고 확장하는 데 도움이 되는 도구, 콘텐츠 및 리소스를 제공합니다.
 author: Daniel Simpson
+ms.author: dansimp
 robots: noindex,nofollow
 keywords: 역량, 역량, Windows 및 디바이스
 ms.localizationpriority: medium
-ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875743"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795586"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 
@@ -135,7 +138,7 @@ The Surface Hub option is ideal if you are an authorized Surface Hub ADR and pre
     - **All** individuals must each pass one of the following exams:
 
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
-        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
         - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
         - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
 -->

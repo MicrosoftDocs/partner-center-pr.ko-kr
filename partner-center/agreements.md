@@ -1,15 +1,17 @@
 ---
 title: Microsoft 클라우드 솔루션 공급자 시장 및 고객 계약 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 시장 및 언어별 고객 계약서 템플릿 다운로드
 author: Maggie Evans
 keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북미 지역, CSP 중앙 아메리카, CSP 남미, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft 클라우드 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 629d15b8a233168420147b8324d85bbee385b170
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377815"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797326"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft 클라우드 솔루션 공급자 시장 및 고객 계약
 

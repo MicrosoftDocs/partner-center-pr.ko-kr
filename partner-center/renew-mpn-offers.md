@@ -1,15 +1,18 @@
 ---
 title: MPN 혜택 갱신 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 MPN 혜택 갱신
 author: labrenne
+ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
 ms.localizationpriority: medium
-ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8f611a01118449a1247764d0dcee0de8ba820c00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489349"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796146"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN 혜택 갱신
 

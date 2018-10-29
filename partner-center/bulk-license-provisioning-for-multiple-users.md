@@ -1,16 +1,19 @@
 ---
 title: 다수의 사용자에게 라이선스 할당 및 해지 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490009"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795356"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
@@ -59,9 +62,9 @@ ms.locfileid: "4490009"
 
 8.  **저장**을 선택합니다. 파트너 센터 사용자 및 해당 새 라이선스가 나열 하는 **라이선스 업데이트** 확인 페이지가 열립니다.
 
-**참고** 특정 지역에서는 일부 Microsoft 제품을 사용하지 못할 수 있습니다. 다른 제품은 다른 제품 또는 서비스에 종속되거나 같은 사용자에게 함께 할당될 수 없습니다. 저장한 후 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과와 라이선스 할당의 모든 오류가 나열됩니다.
+**참고**특정 지역에서는 인해 일부 Microsoft 제품을 사용할 수 있습니다. 다른 제품은 다른 제품 또는 서비스에 종속되거나 같은 사용자에게 함께 할당될 수 없습니다. 저장한 후 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과와 라이선스 할당의 모든 오류가 나열됩니다.
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **사용자의 라이선스 할당 해지**
@@ -82,9 +85,9 @@ ms.locfileid: "4490009"
 
 [사용자 한 명에게 라이선스 할당](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

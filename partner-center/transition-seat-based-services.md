@@ -1,14 +1,17 @@
 ---
 title: 라이선스 기반 서비스 고객을 파트너 센터의 클라우드 솔루션 공급자 프로그램으로 이동 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 다른 파트너 또는 다른 채널에서 고객 및 고객의 구독을 CSP 프로그램 이동 합니다.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fd2b98de57be3ddbc56c1e96d7a37fa81d5f7b0
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62c85a7ff33e9dd11fa867074c53cd19b4015139
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488609"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795316"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>다른 파트너 또는 다른 채널에서 라이선스 기반 서비스 고객을 클라우드 솔루션 공급자 프로그램 전송
 
@@ -29,7 +32,7 @@ ms.locfileid: "4488609"
 4. 그러면 고객은 귀하가 프로비전한 구독을 중단 없이 계속 진행할 수 있습니다.
 
 
-고객이 사용해온 것과 동일한 제품을 프로비전하는 경우 라이선스를 재할당할 필요가 없으며 최종 사용자에게 제공되는 서비스가 중단되는 일도 없습니다. 제품은 데이터 손실 되지 않도록 동일 해야 합니다. 라이선스의 총 수는 동일 하 고 제품은 해당 하는 고객에 게 영향을 주지 않습니다 느낌 됩니다.
+고객이 사용해온 것과 동일한 제품을 프로비전하는 경우 라이선스를 재할당할 필요가 없으며 최종 사용자에게 제공되는 서비스가 중단되는 일도 없습니다. 제품은 데이터 손실 되지 않도록 동일 해야 합니다. 라이선스의 총 동일 하 게 유지 하 고 제품 같습니다 고객에 게 영향을 주지 느낌 됩니다.
 
 중단 된 제품에 있는 고객을 전송 하는 경우 데이터 손실을 방지 하려면 해당 제품을 찾으려면 해야 합니다. 고객을 다른 제품으로 이동하는 경우 고객의 라이선스 계약을 업데이트해야 합니다.
 

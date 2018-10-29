@@ -1,14 +1,17 @@
 ---
 title: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록 | 미국 정부용 Microsoft 클라우드 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377665"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796336"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록
 

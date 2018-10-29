@@ -1,16 +1,19 @@
 ---
 title: 지원 담당자 할당 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 재판매인 파트너는 재판매인을 지원 담당자로 지정할 수 있습니다.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
+ms.author: kenpacq
 keywords: 도움말 에이전트, 지원 담당자 할당, 지정된 지원 연락처
 ms.localizationpriority: medium
-ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489449"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795296"
 ---
 # <a name="assign-support-contacts"></a>지원 담당자 할당
 

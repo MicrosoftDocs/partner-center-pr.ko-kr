@@ -1,14 +1,17 @@
 ---
 title: 조직의 세금 정보 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 적절한 경우 VAT ID를 조직의 정보에 추가해야 함
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 84e85e54f9098c7cae57e1bd7f5415b0389b409d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 94cee559de16e10c23cc1d85aff7f661859373be
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488659"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797146"
 ---
 # <a name="organization-tax-information"></a>조직의 세금 정보
 
@@ -28,7 +31,7 @@ ms.locfileid: "4488659"
 
 
 
- 
+ 
 
 
 

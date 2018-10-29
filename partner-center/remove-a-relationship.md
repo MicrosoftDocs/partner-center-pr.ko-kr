@@ -1,14 +1,17 @@
 ---
 title: 재판매인 또는 고객과의 관계 제거 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 관계를 제거하면 파트너 센터의 보기에서 완료된 비즈니스 관계가 모두 제거됩니다.
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489739"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797076"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>재판매인 또는 고객과의 관계 제거
 
@@ -30,7 +33,7 @@ ms.locfileid: "4489739"
 
    활성 구독마다 이 작업을 반복합니다.
 
-2.  파트너 센터에서 관계 제거:에서 파트너 센터 **고객** 에 게 go > 고객 선택 > **계정** > **재판매인 관계를 제거**합니다.
+2.  파트너 센터에서 관계 제거:에서 the 파트너 센터 **고객** 에 게 go > 고객 선택 > **계정** > **재판매인 관계를 제거**합니다.
 
     활성 구독이 남아 있으면 **재판매인 관계 제거** 링크가 비활성화됩니다. 
 

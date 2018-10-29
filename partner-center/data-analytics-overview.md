@@ -1,15 +1,18 @@
 ---
 title: 파트너 센터의 데이터 및 분석 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 데이터 기능을 사용하면 고객의 요구를 더 잘 이해할 수 있습니다.
 author: labrenne
+ms.author: labrenne
 Keywords: data, analytics, usage, skills
 ms.localizationpriority: medium
-ms.openlocfilehash: 031afa51f0ca3f3c6d9de34f55e58af1e96e229f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dae8988cf47d68c84258fcdde665d2c6258cf3bd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874533"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795626"
 ---
 # <a name="data-and-analytics-in-partner-center"></a>파트너 센터의 데이터 및 분석
 

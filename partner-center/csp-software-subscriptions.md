@@ -1,23 +1,26 @@
 ---
 title: CSP 통해 소프트웨어 구독을 판매 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: CSP 통해 소프트웨어 구독을 판매 합니다.
-author: maggiepuccievans
+author: MaggiePucciEvans
+ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bce2288f21398483719dab27e2f91040bc3abd2
-ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
+ms.openlocfilehash: 3f3881b77c4d4852afc522b9866eabab18ff0c54
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "4197681"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795166"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP 통해 소프트웨어 구독 판매
 
-Azure reserved instances 및 Windows Server 및 SQL Server 구독 Microsoft CSP 프로그램을 가져와, Microsoft는 파트너 들이 뛰어난 지원 하기 위해 더 많은 비용 효과적인 솔루션에 대 한 빠르게 성장 하는 고객 요구를 해결 하기 위해 더 나은 영구적인 클라우드 워크 로드 하 고 있습니다. 
+Microsoft는 파트너 들이 뛰어난 지원 하기 위해 더 많은 비용 효과적인 솔루션에 대 한 빠르게 성장 고객 요구를 해결 하기 위해 더 나은 Microsoft CSP 프로그램에 Azure reserved instances 및 Windows Server 및 SQL Server 구독을 가져와, 영구적인 클라우드 워크 로드 하 고 있습니다. 
 
-취득 하 고 프로 비전 다음 Azure 하이브리드 혜택을 활용 하 여 Azure reserved instances 및 서버 구독 Microsoft 파트너 센터 및 Azure Portal을 통해 상용 고객을 대신 하 여 관리 이제 있습니다. 
+취득 하 고 프로 비전 다음 Azure 하이브리드 혜택을 이용 하 여 Azure reserved instances 및 서버 구독 Microsoft 파트너 센터 및 Azure Portal을 통해 상용 고객을 대신 하 여 관리 이제 있습니다. 
 
-Azure 하이브리드 혜택을 사용 하 여 Windows Server 라이선스에서 더 많은 가치를 가져오고 가상 컴퓨터에서 최대 40%를 저장할 수 있습니다. Software Assurance에서 적용되는 Windows Server Datacenter 및 Standard 버전 라이선스를 통해 이 혜택을 이용할 수 있습니다. 버전에 따라 라이선스를 변환하거나 재사용하여 Azure에서 Windows Server 가상 컴퓨터를 실행하고 더 낮은 기본 컴퓨팅 요금(Linux 가상 컴퓨터 요금)을 지불할 수 있습니다.
+Azure 하이브리드 혜택을 사용 하면 Windows Server 라이선스에서 더 많은 가치를 가져오고 가상 컴퓨터에서 최대 40%를 저장할 수 있습니다. Software Assurance에서 적용되는 Windows Server Datacenter 및 Standard 버전 라이선스를 통해 이 혜택을 이용할 수 있습니다. 버전에 따라 라이선스를 변환하거나 재사용하여 Azure에서 Windows Server 가상 컴퓨터를 실행하고 더 낮은 기본 컴퓨팅 요금(Linux 가상 컴퓨터 요금)을 지불할 수 있습니다.
 
 > [!NOTE]  
 > Azure 예약 된 인스턴스는 다음 지역/국가에서 사용할 수 없습니다.  
@@ -42,7 +45,7 @@ Azure 하이브리드 혜택을 사용 하 여 Windows Server 라이선스에서
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>고객을 대신 하 여 소프트웨어 구독을 구매
 
-고객을 대신 하 여 소프트웨어 구독을 구입 하려면 **추가 제품**을 선택한 다음 고객의 세부 정보 페이지로 이동은 화면의 만들고 주문에 대 한 요금을 지불 하는 지침입니다. 모든 상용 가격 오스트레일리아 및 브라질 제외 하 고 세금을 제외합니다. 오스트레일리아, 브라질에 대 한 가격 세금을 포함합니다.
+고객을 대신 하 여 소프트웨어 구독을 구입 하려면 이동 **추가 제품**을 선택한 다음 고객의 세부 정보 페이지에는 화면의 만들고 주문에 대 한 요금을 지불 하는 지침. 모든 상용 가격 오스트레일리아 및 브라질 제외 하 고 세금을 제외합니다. 오스트레일리아, 브라질에 대 한 가격 세금을 포함합니다.
 
 
 ## <a name="activate-and-manage-software-subscriptions"></a>활성화 하 고 소프트웨어 구독 관리
@@ -53,10 +56,10 @@ Azure 하이브리드 혜택을 사용 하 여 Windows Server 라이선스에서
 >키와 다운로드 하려면 관리자 에이전트 여야 합니다. 
 
 1. 고객의 세부 정보 페이지로 이동한 다음 **소프트웨어**를 선택 합니다. 고객을 대신 하 여 구입한 모든 소프트웨어의 목록이 표시 됩니다. 
-2.  다운로드 하려는 제품을 확장 합니다. **제품 선택** 필드에서 **버전**, **언어**및 원하는 **파일 형식/OS** 를 선택 합니다. 
-3.  **제출** 특정 제품을 표시 하도록 선택 합니다. 
+2.  다운로드 하려는 제품을 확장 합니다. **제품을 선택** 필드에서 **버전**, **언어**및 원하는 **파일 형식/OS** 를 선택 합니다. 
+3.  특정 제품을 표시 하려면 **제출** 선택 합니다. 
 4.  선택 **키 및 다운로드를 가져옵니다**. 
-5.  다운로드를 시작 하려면 **다운로드** 또는 링크를 복사 하 고 고객에 게 보내기에 대 한 **복사 링크** 를 선택 합니다. 
+5.  다운로드를 시작 하려면 **다운로드** 또는 **연결 복사** 링크를 복사 하 고 고객에 게 보낼를 선택 합니다. 
 
 >[!NOTE]
 >이 링크 2 주 후에 만료 됩니다 또는 만료 되 면 먼저 50이 다운로드 합니다. 링크 만료 되 면이 페이지로 돌아와서 하 고 다른 2 주 또는 50 다운로드를 활성화 하려면 다시 **다운로드 및 키** 를 선택 합니다. 필요한 만큼 설정할 수 있습니다. 
@@ -77,7 +80,7 @@ Azure 하이브리드 혜택을 사용 하 여 Windows Server 라이선스에서
     -   환불 이유
     -   요청 된 금액
 
-2.  고객의 세부 정보 페이지에서 **소프트웨어**를 선택 합니다. 구매한 모든 소프트웨어의 목록이 표시 됩니다. 
+2.  고객의 세부 정보 페이지에서 **소프트웨어**를 선택 합니다. 구입한 모든 소프트웨어의 목록이 표시 됩니다. 
 
 3.  취소할 소프트웨어를 찾아 선택 **취소**합니다. **파트너 센터에 문제 보고서** 페이지가 열립니다. 
 

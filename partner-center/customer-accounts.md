@@ -1,15 +1,18 @@
 ---
 title: 고객 계정 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: As a reseller partner, you should make an account for each of your customers in Partner Center. The customer account will be your starting point for selling subscriptions, billing, and providing support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a754b170923f90fed6ca05e6f005c05e8f52917
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9c50791c224834dffd0b113e5f3d4a5bca3aad9a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489499"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796886"
 ---
 # <a name="customer-accounts"></a>고객 계정
 
@@ -19,7 +22,7 @@ ms.locfileid: "4489499"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-재판매인 파트너는 파트너 센터에서 고객의 각각에 대 한 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. 각 파트너 센터로 이동 하기 전에 이전에 보유 한 고객을 포함 하 여 고객에 대 한 파트너 센터 계정을 확인 해야 합니다.
+재판매인 파트너는 파트너 센터에서 고객에 게 각각에 대 한 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. 각 파트너 센터로 이동 하기 전에 이전에 보유 한 고객을 포함 하 여 고객에 대 한 파트너 센터 계정을 확인 해야 합니다.
 
 ### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>파트너 센터에서 고객과 작업 하기 위한 리소스
 

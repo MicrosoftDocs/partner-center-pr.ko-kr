@@ -1,16 +1,19 @@
 ---
 title: Microsoft 역량 획득 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 실버 및 골드 Microsoft 역량을 획득하여 특수한 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요.
 author: KPacquer
+ms.author: kenpacq
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, 혜택, 성과 목표, 기술 목표
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490159"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796896"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page

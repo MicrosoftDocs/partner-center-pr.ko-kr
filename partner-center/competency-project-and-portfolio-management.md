@@ -1,19 +1,22 @@
 ---
 title: 프로젝트 및 포트폴리오 관리 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 프로젝트 및 포트폴리오 관리 역량은 고객에게 엔터프라이즈 프로젝트 관리 솔루션을 제공하는 능력을 증명하는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876033"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795476"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 

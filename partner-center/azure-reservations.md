@@ -1,15 +1,18 @@
 ---
 title: Microsoft Azure 예약 개요 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: azure, 예약, 관리, 청구, 구입, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658119"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797236"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>판매 Microsoft Azure 예약 인스턴스 
 
@@ -22,7 +25,7 @@ ms.locfileid: "4658119"
 클라우드 솔루션 공급자 (CSP) 프로그램의 파트너는 고객에 게 제공할 수의 Microsoft Azure 인스턴스를 예약 합니다. 고객이 미리 예약 하면 상당한 절약 효과 거둘 수 있습니다. Azure Reserved Instances 유연성을 제공 단순성 다음과 같은 방식:
 
 -   1년 또는 3년 예약 조건 
--   시작 하기 설치를 완료 했습니다 (초) 
+-   쉽게 시작할 수 설치를 완료 했습니다 (초) 
 -   환불 조정을 위해 언제라도 예약된 인스턴스를 취소 또는 교환 
 -   조직 또는 개인 부서 수준에서 예약된 인스턴스 사용량 관리 
 
@@ -48,12 +51,12 @@ ms.locfileid: "4658119"
 > * 터키
 > * 우크라이나
 
-Azure Reserved Instances의 가용성 같은 방법으로 고객에 게의 제기 합니다.
+Azure Reserved Instances의 가용성은 다음과 같은 방법으로 고객에 대해서는:
 
 -   예약된 인스턴스는 종량제(PAYG) 요금에 비해 상당한 절약 효과를 제공할 수 있습니다.
 -   1년 또는 3년 예약 조건으로 비용을 미리 지불하여 보다 효과적으로 예산 설정 및 예측 
 -   사무실에서 가장 가까운 Azure 지역을 우선하여 컴퓨팅 용량 할당  
--   Azure 예약은 Microsoft Windows Server 및 Azure SQL 데이터베이스 같은 소프트웨어와 함께 사용 하면 종단 간 인프라 솔루션에 대 한 기초를 제공 합니다.   
+-   Azure 예약은 Microsoft Windows Server 및 Azure SQL 데이터베이스 같은 소프트웨어와 함께 사용 하면 종단 간 인프라 솔루션을 위한 제공 합니다.   
 
 ## <a name="before-you-begin"></a>시작하기 전에
 

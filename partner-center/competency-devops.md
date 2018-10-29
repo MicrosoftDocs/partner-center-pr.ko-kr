@@ -1,19 +1,22 @@
 ---
 title: DevOps 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 개발 플랫폼의 DevOps 기능을 활용하여 회사의 소프트웨어 수명 주기 관리를 도와준 경험이 풍부하다면 DevOps 역량을 통해 Microsoft 파트너로서 조직의 지위를 확고히 할 수 있습니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 893022074c375c51e7fa21c17cc2e4fab888b132
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875723"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794806"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 

@@ -1,15 +1,18 @@
 ---
 title: 고객 구독 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너는 고객에게 구독을 판매하고 파트너 센터를 통해 관리할 수 있습니다.
 author: labrenne
+ms.author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f39ea37669839f26dbd72894544fddce61e6462
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b6f8d22a620fee619d864cc13cc5d110ddfc5c47
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489829"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795466"
 ---
 # <a name="customer-subscriptions"></a>고객 구독
 
@@ -17,7 +20,7 @@ ms.locfileid: "4489829"
 
 -  파트너 센터
 
-CSP 파트너가 수행하는 중요한 역할 중 하나는 Microsoft 제품에 대한 구독을 고객에게 제공하는 것입니다. 파트너 센터에서 각 고객에 대 한 모든 구독을 관리할 수 있습니다. 또한 구독을 추가하고 기존 구독에 라이선스를 추가하며, 소프트웨어를 시험 사용하고 싶어하는 고객들에게 평가판 구독을 제공할 수 있습니다. 또한 파트너 센터 분석을 사용 하 여 고객에 게 소프트웨어를 사용 하는 방식을 이해 하기 위해 제공 지 수 더 합니다.
+CSP 파트너가 수행하는 중요한 역할 중 하나는 Microsoft 제품에 대한 구독을 고객에게 제공하는 것입니다. 파트너 센터에서 각 고객에 대 한 모든 구독을 관리할 수 있습니다. 또한 구독을 추가하고 기존 구독에 라이선스를 추가하며, 소프트웨어를 시험 사용하고 싶어하는 고객들에게 평가판 구독을 제공할 수 있습니다. 또한 고객 들의 소프트웨어를 사용 하는 방법을 이해 하기 위해 제공 파트너 센터 분석을 사용 하 여 지 원하는 데 수 더 합니다.
 
 |**수행할 작업**   |**이 글 읽기**   |
 |----------------------|:----------------------|
@@ -62,9 +65,9 @@ CSP 파트너가 수행하는 중요한 역할 중 하나는 Microsoft 제품에
 
 
 
- 
+ 
 
- 
+ 
 
 
 

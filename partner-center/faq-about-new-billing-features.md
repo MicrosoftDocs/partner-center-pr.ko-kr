@@ -1,15 +1,18 @@
 ---
 title: 새 청구 기능에 대한 FAQ | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d24baa9a177ff985c89bd4c48b007f9d043f007a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877573"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795597"
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 

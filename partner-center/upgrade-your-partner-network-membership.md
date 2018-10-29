@@ -1,15 +1,18 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 업그레이드 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 파트너 네트워크 멤버십을 업그레이드하면 독점적 회원 혜택을 이용할 수 있는 자격이 부여됩니다. 제공되는 제품을 찾아서 구입하는 방법을 알아보세요.
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489709"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795716"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -29,7 +32,7 @@ Microsoft의 파트너 프로그램은 비즈니스 목표 달성을 도와주�
 
   - 골드 역량 - 특정 Microsoft 솔루션 영역 내에서 최고의 능력
 
-Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. 이동 Microsoft 파트너 네트워크의 멤버십에에서 대 한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com).
+Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. Microsoft 파트너 네트워크의 멤버십에 대 한 자세한 정보로 이동 [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입
@@ -47,7 +50,7 @@ Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영�
 Microsoft Action Pack에 대 한 자세한 정보를 보려면 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> 이 링크를 따라 다른 웹 사이트를 이동 됩니다. 이 사이트, 즉 파트너 센터 사이트 Action Pack 구독을 반환 합니다.
+> 이 링크를 따라 다른 웹 사이트를 이동 됩니다. 이 사이트, 파트너 센터 사이트에서 Action Pack 구독을 반환 합니다.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack 구독

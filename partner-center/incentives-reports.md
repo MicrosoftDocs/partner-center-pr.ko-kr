@@ -1,14 +1,17 @@
 ---
 title: 라이브 데이터 보고는 일부 인센티브 프로그램에 대해 월별 보고 대체 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: OSA 판매 및 온라인 서비스 사용 인센티브 프로그램에서 이제 라이브 데이터 보고를 받을 수 있습니다.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877133"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796186"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>라이브 데이터 보고는 일부 인센티브 프로그램에 대해 월별 보고 대체
 
@@ -45,9 +48,9 @@ Microsoft는 PIRA(파트너 인센티브 보고 및 분석) 사이트 사용을 
 6. 기본 보기인 **조정**에는 데이터가 없을 수 있습니다.  이 경우 **수익** 또는 **지급** 보기를 선택합니다.
 
 
- 
+ 
 
- 
+ 
 
 
 

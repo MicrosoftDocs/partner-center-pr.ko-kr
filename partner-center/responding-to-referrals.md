@@ -1,15 +1,18 @@
 ---
 title: 추천에 응답 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요.
 author: KPacquer
+ms.author: kenpacq
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
-ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489459"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796176"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>파트너 센터에서 추천에 응답
 

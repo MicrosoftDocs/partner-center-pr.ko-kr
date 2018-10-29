@@ -1,19 +1,22 @@
 ---
 title: 중소기업 클라우드 솔루션 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 중소기업 클라우드 솔루션 역량은 중소기업에 Office 365 솔루션을 판매 및 배포하는 전문 파트너로서 회사 브랜드를 만드는 데 도움이 됩니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 중소기업 클라우드 솔루션
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8034f7d779d2dae13b916f01efa8c10be224bb2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876193"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796856"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 # Small and Midmarket Cloud Solutions 

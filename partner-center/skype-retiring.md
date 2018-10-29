@@ -1,15 +1,18 @@
 ---
 title: 비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: 비즈니스용 Skype 플랜, Skype 사용 중지, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489809"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797166"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션
 
@@ -51,7 +54,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 ### <a name="migrate-your-customers-to-new-plans"></a>고객을 새 플랜으로 마이그레이션
 
-1. **파트너 센터 메뉴**에서 새 구독을 구매 하려면 **고객**을 선택 하 고 이동 하려는 고객을 선택한 다음 **구독 추가**선택 합니다.
+1. **파트너 센터 메뉴**에서 새 구독을 구매, **고객**을 선택 하 고 이동 하려는 고객을 선택한 다음 **구독 추가**선택 합니다.
 
 2. 카탈로그에서 구매할 구독을 선택하고(이 경우 아래 옵션 중 하나), 라이선스 수를 입력한 다음 **제출**을 선택합니다. 
 

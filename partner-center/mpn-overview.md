@@ -1,15 +1,18 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 파트너의 혜택에 대해 알아보세요.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: medium
-ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9726297ff1a6b921ec848778f41df701afb8c49a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489649"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797086"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
@@ -26,7 +29,7 @@ Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하
 
 |**수행할 작업**   |**이 글 읽기**   |
 |-----------------|:---------------------------|
-|액세스 하려면 개발자 도구, 지원, 교육, Microsoft Action Pack에 대 한 연간 구독을 구입 하 고 클라우드 중심 세상에서 Microsoft 영업을 구축 하는 데 도움이 되는 소프트웨어. | [Action Pack 얻기](mpn-get-action-pack.md)|
+|액세스 하려면 개발자 도구, 지원, 교육, Microsoft Action Pack에 대 한 연간 구독을 구입 하 고 도움이 될 수 있는 소프트웨어 클라우드 중심 세상에서 Microsoft 영업을 구축 합니다. | [Action Pack 얻기](mpn-get-action-pack.md)|
 |Action Pack 구독 갱신   |[MPN 혜택 갱신](renew-mpn-offers.md)|
 |**실버 역량**를 획득하여 전문 지식, 기술 및 전략적 사고를 소개하세요.|[실버 역량 획득에 대해 자세히 알아보기](https://partner.microsoft.com/membership/competencies)|
 |**골드 역량**을 획득하여 고객 요구사항을 충족할 수 있는 가장 높은 수준의 특별한 기능을 보여 주세요. |[골드 역량 획득에 대해 자세히 알아보기](https://partner.microsoft.com/membership/competencies)|

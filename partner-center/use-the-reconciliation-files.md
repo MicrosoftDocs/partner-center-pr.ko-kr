@@ -1,15 +1,18 @@
 ---
 title: 조정 파일 사용 | 파트너 센터
-description: 청구 주기에서 각 요금의 자세한 품목 보기, 파트너 센터에서 조정 파일을 다운로드 합니다.
+ms.topic: article
+ms.date: 10/29/2018
+description: 청구 주기에서 각 요금의 자세한 품목 보기에 대 한 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489959"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797296"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -19,7 +22,7 @@ ms.locfileid: "4489959"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-청구 주기에서 각 요금의 자세한 품목 보기, 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
+청구 주기에서 각 요금의 자세한 품목 보기에 대 한 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
 ## <a href="" id="itemizebypartner"></a>파트너를 기준으로 항목별로 구분
 
@@ -54,7 +57,7 @@ ms.locfileid: "4489959"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> 라이선스 기준 파일 필드
 
@@ -684,7 +687,7 @@ ms.locfileid: "4489959"
 
 <tr>
 <td>
-<p><strong>라이선스 기반 할인</strong></p>
+<p><strong>라이선스 기준 할인</strong></p>
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>

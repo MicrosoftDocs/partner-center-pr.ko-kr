@@ -1,15 +1,18 @@
 ---
 title: Microsoft에서 제공하는 지원 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 서비스 또는 파트너 센터에서 문제가 발생하면 Microsoft에 에스컬레이션하여 도움을 받고 해결될 때까지 문제를 추적할 수 있습니다.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ec944f86dc8011ca753d475d66096b093610d4c3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3b69825b95009ea2eaada2b59dc2f59869771191
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876473"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796136"
 ---
 # <a name="support-from-microsoft"></a>Microsoft에서 제공하는 지원
 
@@ -31,9 +34,9 @@ Microsoft 서비스 또는 파트너 센터에서 문제가 발생하면 Microso
 
 [Microsoft 혜택 지원](https://partner.microsoft.com/support/contact-support)
 
- 
+ 
 
- 
+ 
 
 
 

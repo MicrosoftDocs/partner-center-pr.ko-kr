@@ -1,16 +1,19 @@
 ---
 title: 고객 대신 문제 보고 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490049"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795616"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -32,7 +35,7 @@ ms.locfileid: "4490049"
 
 **Microsoft Azure**
 
-**참고** Azure에서 고객에 대 한 서비스 요청을 만드는 데 필요한 때 다음 고려해 야 합니다.
+**참고** Azure에서 고객에 대 한 서비스 요청을 만드는 데 필요한 경우 다음 고려해 야.
 
 - Azure에서 고객에 대 한 서비스 요청을 만들 수 있는 순서로 간접 공급자는 고객의 Azure 계정에 대 한 액세스 부여 해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다. 
 
@@ -92,9 +95,9 @@ CSP 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제�
 
 Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니라 귀하의 컨텍스트에서 센터가 표시됩니다. 따라서 고유한 구독에 대한 서비스 요청을 만들 때 Office 365 관리 센터에 직접 서명해야만 합니다.
 
-**Dynamics 365 지원 추가 가져오기**
+**Dynamics 365 지원을 추가 가져오기**
 
- 관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, 청구, 재무 및 작업 이나 IURs 기술 지원 추가로 필요 합니다.
+ 관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, 청구, 재무 및 작업, IURs 기술 지원 추가로 필요 합니다.
  
 [Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support) 팀에 문의
 

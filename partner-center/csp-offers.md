@@ -1,15 +1,18 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램의 파트너 제품 | 파트너 센터
-description: 클라우드 솔루션 공급자 프로그램을 통해 판매 하는 파트너를 사용할 수 있는 제품에 알아봅니다.
-author: maggiepuccievans
-keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP 제품을 추가, 고객, 파트너 제공, CSP 제품, 클라우드 기반 서비스를 판매 Azure reserved 가상 컴퓨터 인스턴스, Azure, Azure, Office 365, Dynamics, CSP 파트너, Azure RI, CSP에서 판매 예약, 온라인 서비스, 구독 소프트웨어 AHUB, SQL Server azure, Azure, 고객이 구독에 대 한 Windows Server
+ms.topic: article
+ms.date: 10/29/2018
+description: 클라우드 솔루션 공급자 프로그램을 통해 판매 하는 파트너에 게 사용할 수 있는 제품에 알아봅니다.
+author: MaggiePucciEvans
+ms.author: evansma
+keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램 CSP 제품을 추가, 고객, 파트너 제공, CSP 제품, 클라우드 기반 서비스를 판매 Azure, Office 365, Dynamics, CSP 파트너, Azure RI, CSP에서 판매, Azure 가상 컴퓨터의 경우 Azure 예약 예약, 온라인 서비스, 구독 소프트웨어 AHUB, SQL Server azure, Azure, 고객이 구독에 대 한 Windows Server
 ms.localizationpriority: medium
-ms.openlocfilehash: cdc2e3a4b86724c3403c112c03b3e407ee45fb42
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5d707ea8330b5b5edd3229218a8a2efb0004a3d5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488909"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796686"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 제공 
 
@@ -23,31 +26,31 @@ ms.locfileid: "4488909"
 
 ## <a name="what-you-can-sell-through-csp"></a>CSP를 통해 판매할 수 있습니다.
 
-현재, CSP 고객에 게 다음과 같은 유형의 제품 및 서비스를 판매할 수 있습니다.
+현재 CSP 고객에 게 다음과 같은 유형의 제품 및 서비스를 판매할 수 있습니다.
 
-- Azure 예약<br> 
+- Azure Reservations<br> 
 
-    고객에 게는 1 년 또는 3 년 기간에 대 한 미리 Azure 가상 컴퓨터에서 공간을 예약할 수 있습니다.<br>
+    고객에 게는 1 년 또는 3 년 기간에 대해 미리 Azure 가상 컴퓨터에서 공간을 예약할 수 있습니다.<br>
     
     Azure 예약에 대 한 자세한 내용은 [판매 Microsoft Azure Reserved VM Instances](azure-reservations.md)를 참조 하세요.
 
 - 소프트웨어<br>
 
-    고객 (Windows Server 및 SQL Server, Azure reserved VM instances에서 실행 하는 1 년 또는 3 년 용어)에 대 한 소프트웨어 구독을 구입할 수 있습니다.<br>
+    고객이는 Windows Server 및 SQL Server Azure reserved VM instances에서 실행 하는 1 년 또는 3 년 기간에 대해) (에 대 한 소프트웨어 구독을 구입할 수 있습니다.<br>
  
   소프트웨어 구독에 대 한 자세한 내용은 [CSP 통해 소프트웨어 구독을 판매](csp-software-subscriptions.md)를 참조 하세요.  
 
 - 온라인 서비스<br>
 
-     *온라인 서비스* 에 현재 *구독*으로 알려진에 대 한 새 이름입니다. 주문 하 고 여러 유형의 한곳에서 제품에 대 한 지급을 쉽게 "제품 추가" 작업 흐름에 "구독 추가" 작업 흐름을 통합 했습니다 했습니다. 
+     *온라인 서비스* 에 현재 *구독*으로 알려진에 대 한 새 이름입니다. 주문 하 고 여러 유형의 한곳에서 제품에 대 한 요금을 지불 쉽게 "제품 추가" 작업 흐름에 "구독 추가" 작업 흐름을 통합 했습니다 했습니다. 
 
-## <a name="buy-csp-offers"></a>CSP 제품을 구입
+## <a name="buy-csp-offers"></a>CSP 제품을 구입 합니다.
 
-CSP 고객을 대신 하 여 제품 및 서비스를 구입, 검토 및 순서에 대 한 요금을 지불 고객이 원하는 순서를 만드는 카트에 추가 항목을 선택 합니다. 자세한 단계는 다음과 같습니다.
+CSP 고객을 대신 하 여 제품 및 서비스를 구입할 검토 및 순서에 대 한 요금을 지불 고객이 원하는 주문할 카트에 추가 항목을 선택 합니다. 자세한 단계는 다음과 같습니다.
 
-1. 파트너 센터 메뉴에서 **고객** 을 선택 하 고에서 구입 하려는 고객을 찾습니다. 
+1. 파트너 센터 메뉴에서 **고객** 을 선택 하 고 싶습니다 구입 하려는 고객을 찾습니다. 
 
-2. 고객의 기록을 확장 하 여 고객의 행의 끝에 있는 아래쪽 화살표를 선택 하 고 **추가 제품**을 선택 합니다. 로그 아웃 하면 여기서에서 만드는 주문 합니다. 주문 다른 형식의 여러 항목을 포함할 수 있지만 모든 같은 고객에 대 한 되지는 해야 합니다.
+2. 고객의 기록을 확장 하 여 고객의 행의 끝에 있는 아래쪽 화살표를 선택 하 고 **추가 제품**을 선택 합니다. 로그 아웃 하면 여기서에서 만드는 주문을 합니다. 주문을 다른 형식의 여러 항목을 포함할 수 있지만 모든 같은 고객에 대 한 되지는 해야 합니다.
 
 3. **추가 제품** 페이지에서 **Azure**, **온라인 서비스**또는 **소프트웨어**에서 선택 합니다.
 
@@ -55,7 +58,7 @@ CSP 고객을 대신 하 여 제품 및 서비스를 구입, 검토 및 순서�
 
 5. 고객이 원하는 원하는 수량을 입력 한 다음 **카트에 추가**선택 하는 제품을 선택 합니다.
 
-6. 4 및 5 단계를 반복 하 여 카트에 필요한 모든 항목을 추가 했습니다. **검토**를 선택하여 주문이 올바른지 확인합니다.  
+6. 카트에 필요한 항목을 모두 추가한 후 4, 5 단계를 반복 합니다. **검토**를 선택하여 주문이 올바른지 확인합니다.  
 
 7. **주문 검토** 페이지에서 확인 또는 제품 및 수량을 변경 하 고 구매 주문 **구입** 을 선택 합니다. 
 
@@ -68,7 +71,7 @@ CSP 고객을 대신 하 여 제품 및 서비스를 구입, 검토 및 순서�
 
 |**이에 대해 자세히 알아보려면**   |**이 글 읽기**   |
 |:---------------------------|:--------------------|
-|Azure 예약 |[**Microsoft Azure Reserved VM Instances 판매**]( https://docs.microsoft.com/en-us/partner-center/azure-reservations) |
+|Azure Reservations |[**Microsoft Azure Reserved VM Instances 판매**]( https://docs.microsoft.com/en-us/partner-center/azure-reservations) |
 |SQL Server 및 Windows Server의 소프트웨어 구독 |[**소프트웨어 구독**]( https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions) |
 |온라인 서비스 |[**고객 구독**](https://docs.microsoft.com/en-us/partner-center/customer-subscriptions) |
 |청구 |[**청구 기본 사항**]( https://docs.microsoft.com/en-us/partner-center/billing-basics) |

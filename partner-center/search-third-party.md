@@ -1,15 +1,18 @@
 ---
 title: 판매할 타사 제품 검색 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 자신의 포트폴리오에 잘 맞는 타사 제품 유형을 검색하여 찾습니다.
 author: labrenne
+ms.author: labrenne
 keywords: 타사 제품, 구입할 소프트웨어, 타사 검색
 ms.localizationpriority: medium
-ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488589"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796966"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>판매할 타사 제품 검색
 

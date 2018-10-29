@@ -1,16 +1,19 @@
 ---
 title: Azure 구독 이전 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객은 Microsoft Azure 서비스에 사용할 클라우드 솔루션 공급자 프로그램의 파트너를 변경할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
-ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
+ms.openlocfilehash: f91716aa6ebf2c2b8f2867f1bad61947ad3776e0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5511394"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796697"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 이전 
 

@@ -1,15 +1,18 @@
 ---
 title: Windows Autopilot으로 디바이스 설치 간소화 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 Windows AutoPilot 배포 프로필을 추가하여 Windows Autopilot으로 간단하게 디바이스 설치
 author: KPacquer
+ms.author: kenpacq
 keywords: autopilot, windows autopilot, microsoft autopilot, 제로 터치 배포, oobe, 로그인 화면
 ms.localizationpriority: medium
-ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2c8e8953fbb79493a3704c9c8ea6982928c3fe92
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489399"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796656"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Windows Autopilot으로 디바이스 설치 간소화 
 
@@ -45,7 +48,7 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 
 ### <a name="add-devices-and-apply-a-profile"></a>디바이스를 추가하고 프로필 적용
 
-파트너 센터에서 Windows AutoPilot 배포 프로필을 만들고 디바이스의 목록에 적용 합니다.
+파트너 센터에서 Windows AutoPilot 배포 프로필을 만들고 디바이스 목록을에 적용 합니다.
 
 디바이스를 구성하려면 디바이스 목록을 업로드하고, 해당 디바이스에 적용되는 프로필을 만들어서 적용합니다.
 
@@ -57,7 +60,7 @@ Windows Autopilot은 몇 단계만 거치면 첫 번째 부팅에서 새 Windows
 
     a.  [Windows AutoPilot 개요](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot) 항목의 PowerShell 스크립트를 사용하여 .csv 파일을 만듭니다. 이 .csv 파일에는 일련 번호, OEM 이름, 모델 이름, 제품 ID, 디바이스 식별자를 포함한 디바이스 정보가 포함되어 있습니다. 
 
-    b.  파트너 센터에서 **고객** 에 게 이동 > 's receiving the devices 고객 선택 > **장치 > 장치 추가**.
+    b.  파트너 센터에서 **고객** 에 게 이동 > 's receiving the devices 고객 선택 > **디바이스 > 디바이스 추가**.
 
     c.  디바이스의 일괄 처리 이름을 지정합니다(예: “Contoso 영업 부서 PC – 2017년 4월 주문”). 
 

@@ -1,15 +1,18 @@
 ---
 title: 청구 기본 사항 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490069"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797106"
 ---
 # <a name="billing-basics"></a>청구 기본 사항
 
@@ -77,7 +80,7 @@ ms.locfileid: "4490069"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>라이선스 기준 청구
 
@@ -109,7 +112,7 @@ ms.locfileid: "4490069"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>사용량 기준 청구
 
@@ -174,4 +177,4 @@ Azure는 사용된 Azure 서비스 한해 요금이 청구되는 "종량제" 모
 
 (Void 송장) 전체 환불 액과 재 청구를 실습는 신용 메모 원래 송장 및 전체 새 문서를 취소를 제공 해 드리겠습니다. 다음과 같은 이유로 신용/재 청구 금액을 요청할 수 있습니다.
 -   주소 또는 구매 주문 수정
--   송장이 생성 하 고 세금 환불 적용 합니다. 신용/재 청구 가져오려면 원래 송장에 다시 끌어온 세금 환불을 요청할 수 있습니다. 신용/재 청구 원래 송장 및 다음 환불에서 끌어오기 요청 수, 환불에 대 한도 그렇습니다.
+-   송장이 생성 하 고 세금 환불 적용 합니다. 원래 송장에 다시 끌어온 세금 환불을 가져오려면 신용/있으면 요청할 수 있습니다. 원래 송장 및 다음 환불에서 풀의 신용/있으면을 요청 하는 대로도, 환불에 대 한 마찬가지입니다.

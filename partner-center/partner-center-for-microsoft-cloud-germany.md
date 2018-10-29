@@ -1,14 +1,17 @@
 ---
 title: Microsoft 클라우드 독일 파트너 센터 | Microsoft 클라우드 독일 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 클라우드 독일 파트너 센터는 EU 및 EFTA 국가에 거주하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다. Microsoft 클라우드 독일은 고객 데이터가 독일에 상주하게 하고 지정된 독일 데이터 수탁자가 데이터 액세스를 제어하도록 관리하는 일을 합니다. 유럽 연합(EU) 및 유럽 자유 무역 연합(EFTA)에 소속된 상용 고객은 적용되는 독일 법률 및 규정과 주요 국제 표준에 따라 고객 데이터를 저장하고 관리할 수 있습니다. Microsoft는 독일 데이터 수탁자 또는 고객의 승인과 감독 없이는 고객 데이터에 액세스할 수 없습니다.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0e7ae56351ab68a6883bdc647851e7e30ecec611
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377585"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797266"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터
 

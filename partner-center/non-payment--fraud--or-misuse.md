@@ -1,16 +1,19 @@
 ---
 title: 미결제, 사기 또는 오용 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객의 제품 및 서비스 미결제와 부정한 활동 또는 오용을 포함하여 온라인 트랜잭션의 위험을 관리하기 위한 전략입니다.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377705"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795426"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
@@ -78,9 +81,9 @@ ms.locfileid: "4377705"
 > [!IMPORTANT]  
 > Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 파트너 또는 고객 활동을 감지한 경우 적용 단계를 진행합니다. 고객 활동은 즉시 일시 중단될 수 있습니다. 또한 요청 시 Microsoft에서 적용 작업에 대해 알리거나 업데이트할 수 있습니다.
 
- 
+ 
 
- 
+ 
 
 
 

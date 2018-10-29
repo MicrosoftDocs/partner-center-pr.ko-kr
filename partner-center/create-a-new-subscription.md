@@ -1,16 +1,19 @@
 ---
 title: 고객 구독 만들기, 일시 중단, 또는 취소 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489109"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796406"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489109"
 -  Microsoft 클라우드 독일 파트너 센터
 -  CSP 파트너
 
-파트너 센터에서 고객 기록을 만들면 판매할 수 있습니다 제품 카탈로그에서 구독을 합니다.
+파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품에 대 한 구독 판매 수 있습니다.
 
 일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 책정 및 제품 페이지를 방문하세요. 
 
@@ -35,7 +38,7 @@ ms.locfileid: "4489109"
 3.  사용할 구독 청구 유형을 선택합니다.  월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
  
  >[!Note]
- >고객에 게 평가판 구독을 제공할 수 있습니다. 평가판에 사용할 수 있는 제품은 카탈로그의 평가판 탭입니다. [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
+ >고객에 게 평가판 구독을 제공할 수 있습니다. 평가판에 사용할 수 있는 제품 카탈로그의 평가판 탭 됩니다. [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
 
  
 4. 청구 주기를 선택한 후 카탈로그에서 구독 하 고 싶은 제품을 선택 합니다. 제품의 사용 가능성은 선택한 고객 유형(교육, 정부 등)과 청구 주기에 따라 다릅니다. 제품을 사용할 수 없는 경우에는 고객이 해당 제품을 이미 구독하여 이미 사용이 허용된 상태일 수 있습니다. 또는 새로 제품을 구입하지 않고 다시 정품 인증을 할 수 있도록 구독을 일시 중지한 경우일 수 있습니다.
@@ -64,7 +67,7 @@ ms.locfileid: "4489109"
 
 
 
- 
+ 
 
 
 

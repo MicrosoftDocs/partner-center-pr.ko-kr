@@ -1,15 +1,18 @@
 ---
 title: Azure Reserved VM Instances(RI) + Azure에 대한 서버 구독 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft는 Azure RI와 서버 구독을 CSP 프로그램에 연결하여 파트너들이 보다 비용 효과적인 솔루션에 대한 고객의 급증하는 요구를 충족하여 예측성이 뛰어난 영구적인 클라우드 워크로드를 지원하도록 적극 돕고 있습니다. CSP 프로그램을 통해 파트너는 상용 고객을 대신하여 Microsoft 파트너 센터 및 Azure Portal을 통해 Azure RI 및 서버 구독을 획득, 프로비저닝 및 관리할 수 있습니다.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, 구독, VM, 예약, 예약 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
-ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
+ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/26/2018
-ms.locfileid: "5591919"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797036"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 

@@ -1,16 +1,19 @@
 ---
 title: Microsoft Cloud for US Government를 위한 파트너 센터에 대한 FAQ | Microsoft Cloud for US Government를 위한 파트너 센터에 대한 FAQ
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP) 프로그램에 대한 자세한 내용은 FAQ를 참조하세요. 추가 정보는 고객 담당 관리자에게 문의하시기 바랍니다.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490219"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797186"
 ---
-# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터에 대 한 대답 질문과
+# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터 질문과
 
 **적용 대상**
 
@@ -23,11 +26,11 @@ Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP
 ### <a name="common"></a>일반
 **미국 정부용 Microsoft 클라우드란 무엇인가요?**
 
-미국에서 공공 부문 고객 수 있도록 정부용 Microsoft 클라우드를 처음부터 미국 정부를 위해 설계 된-소규모 지방 정부 대규모 연방 기관에서-다양 한 클라우드 컴퓨팅 서비스에서에서 선택 합니다. 고객의 특정 요구 사항을 완벽하게 해결하기 위해 Microsoft는 데이터 센터에 막대한 투자를 했으며 미국의 연방 정책 및 주 정책, 명령, 요구 사항을 충족하기 위해 최선을 다하고 있습니다. 
+정부용 Microsoft 클라우드를 처음부터 미국 정부를 위해 설계 된 미국에서 공공 부문 고객 수-소규모 지방 정부 대규모 연방 기관에서-다양 한 클라우드 컴퓨팅 서비스에서에서 선택할 수 있습니다. 고객의 특정 요구 사항을 완벽하게 해결하기 위해 Microsoft는 데이터 센터에 막대한 투자를 했으며 미국의 연방 정책 및 주 정책, 명령, 요구 사항을 충족하기 위해 최선을 다하고 있습니다. 
 
 **미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램의 자격 대상은 누구인가요?**
 
-미국 연방, 제공 하는 파트너 및 정부 기관에서 지방 정부 기관 Microsoft 정부 클라우드를 위한 CSP 프로그램에 대 한 자격이 있습니다. Microsoft는 엄격한 인증 프로그램을 통해 자격을 확인한 후 파트너에게 Microsoft 정부 클라우드 액세스를 허가합니다. 자격 요구 사항을 충족하려면 정부가 당사 고객임을 증명해야 합니다. 미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램 등록 프로세스를 보강하여 추가 데이터를 캡처해 인증을 실행합니다. 증명 유형에는 정부 계약 번호와 정부 고객의 후원 서신이 포함될 수 있으나 이에 국한되지는 않습니다.
+미국 연방, 제공 하는 파트너 및 정부 기관에서 지방 정부 기관에는 Microsoft 정부 클라우드를 위한 CSP 프로그램에 대 한 자격이 합니다. Microsoft는 엄격한 인증 프로그램을 통해 자격을 확인한 후 파트너에게 Microsoft 정부 클라우드 액세스를 허가합니다. 자격 요구 사항을 충족하려면 정부가 당사 고객임을 증명해야 합니다. 미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램 등록 프로세스를 보강하여 추가 데이터를 캡처해 인증을 실행합니다. 증명 유형에는 정부 계약 번호와 정부 고객의 후원 서신이 포함될 수 있으나 이에 국한되지는 않습니다.
 
 **고객 제시 가격은 CSP Commercial과 동일한가요?**
 
@@ -105,18 +108,18 @@ Microsoft 정부 클라우드를 위한 CSP 프로그램 판매에 요구되는 
 
 **상용 데이터 센터에서 호스트되는 데이터는 미국 정부용 Microsoft 클라우드로 변경할 수 있나요?**
 
-미국 정부용 Microsoft 클라우드의 격리 무결성을 유지 및 촉진, 하기 위해 없는 메커니즘은 고객의 기존 서비스를 미국 정부용 Microsoft 클라우드로 이동할 수 있습니다. 고객이나 파트너가 Azure를 보유한 경우, 미국 정부용 Microsoft 클라우드 내 새로운 환경으로 데이터를 이동하는 것은 전적으로 고객 또는 파트너의 책임입니다.
+미국 정부용 Microsoft 클라우드의 격리 무결성을 유지 및 촉진, 하기 위해 고객의 기존 서비스를 미국 정부용 Microsoft 클라우드로 이동 하는 메커니즘 있습니다. 고객이나 파트너가 Azure를 보유한 경우, 미국 정부용 Microsoft 클라우드 내 새로운 환경으로 데이터를 이동하는 것은 전적으로 고객 또는 파트너의 책임입니다.
 
 
 ### <a name="microsoft-cloud-for-us-government-for-azure"></a>Azure에 대 한 미국 정부용 Microsoft 클라우드
 
-**Azure에 대 한 미국 정부용 Microsoft 클라우드 란?**
+**Azure에 대 한 미국 정부용 Microsoft 클라우드 란 무엇 인가요?**
 
 Azure Government 클라우드는 보안, 개인 정보와 통제, 준수, 투명성이라는 기본 원칙을 기반으로 구축된 클라우드 플랫폼을 제공합니다. 공공 부문 조직은 물리적으로 격리된 Microsoft Azure 인스턴스를 제공받아, 이 아키텍처를 기반으로 미국 정부의 모든 시스템 및 응용 프로그램에 필수적인 세계적 수준의 보안과 준수 서비스를 이용할 수 있습니다. 이러한 서비스에는 FedRAMP 및 DoD 준수 인증, CJIS 국가 수준 계약, HIPAA 동업자 계약 체결 능력, IRS 1075 지원이 포함됩니다. 엄선된 미국 사용자가 운용하는 Azure Government는 솔루션을 온-프레미스 또는 클라우드를 통해 구축 및 배포할 여러 하이브리드 시나리오를 지원합니다. 하이퍼스케일 클라우드 서비스를 통해 공공 부문 조직의 클라우드에 즉각적인 확장이 가능해지고 가동 시간이 보장됩니다.
 
 **미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램에서 모든 Azure 서비스가 제공되나요?**
 
-현재 IaaS 및 기본 플랫폼과 데이터 상품이 제공되고 있습니다. 로드맵을 지속적으로 업데이트는 및 파트너 센터 (인증 필요) 내의 CSP commercial 문서와 유사한 문서를 제공 합니다. 현재 사용 가능한 Azure Government 서비스를 검토할 수는 있지만 클래식 계산, 네트워킹, 저장소, 클라우드 서비스 등 일부 서비스는 CSP용으로 설계되거나 작동하지 않습니다.
+현재 IaaS 및 기본 플랫폼과 데이터 상품이 제공되고 있습니다. 로드맵을 지속적으로 업데이트 하 고 파트너 센터 (인증 필요) 내의 CSP commercial 문서와 유사한 문서를 제공 합니다. 현재 사용 가능한 Azure Government 서비스를 검토할 수는 있지만 클래식 계산, 네트워킹, 저장소, 클라우드 서비스 등 일부 서비스는 CSP용으로 설계되거나 작동하지 않습니다.
 
 **미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램을 통해 개발하려면 무엇이 필요한가요?**
 
@@ -173,7 +176,7 @@ Azure Government 클라우드는 보안, 개인 정보와 통제, 준수, 투명
 
 **다른 질문이 있는 경우 어디로 문의해야 하나요?**
 
-추가 정보에 대 한 계정 관리자에 게 문의 합니다. 또한 Yammer 그룹에 가입해 [Azure Government를 위한 CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all)에 해당하는 정보를 확인할 수도 있습니다.
+자세한 내용은 계정 관리자에 게 문의 합니다. 또한 Yammer 그룹에 가입해 [Azure Government를 위한 CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all)에 해당하는 정보를 확인할 수도 있습니다.
 
 
 

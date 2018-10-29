@@ -1,14 +1,17 @@
 ---
 title: Microsoft 파트너 네트워크 가입 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 Microsoft Action Pack을 구입하고 역량 획득
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489719"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796996"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft 파트너 네트워크 가입(MPN)
 
@@ -19,9 +22,9 @@ ms.locfileid: "4489719"
 
 ## <a name="new-to-the-partner-center"></a>파트너 센터의 새로운
 
- Microsoft와 협력하면 비즈니스를 혁신할 새로운 기회에 액세스할 수 있습니다. 파트너 센터에서 구입 하는 Microsoft Action Pack 갱신 및 역량 정보와를 달성 하는 방법에 대 한 정보에 쉽게 액세스할 수 있습니다.
+ Microsoft와 협력하면 비즈니스를 혁신할 새로운 기회에 액세스할 수 있습니다. 파트너 센터에서 구입 하는 Microsoft Action Pack 갱신 및 역량 정보와를 달성 하는 방법에 대 한 정보에 쉽게 액세스할 수 있는 합니다.
 
- 파트너는 MAPS 또는 역량 파트너 센터에서 멤버십을 관리할 수 있도록 점차 고 우리가 연주기 일에 또한 주요 파트너 센터 기능을 사용할 수 있고 그들의 비즈니스 요구를 충족 하도록 검증 된 경우 있을 합니다.  지금은 새로운 전환으로의 초대를 받기 전까지 Partner Membership Center(PMC)에서 멤버십 갱신을 계획하고 관리하세요.
+ 파트너는 MAPS 또는 역량 파트너 센터에서 멤버십을 관리할 수 있도록 점차 고에서는 주요 파트너 센터 기능을 사용할 수 있고 그들의 비즈니스 요구를 충족 하도록 검증 된 경우 뿐만 아니라 1 주년 날짜입니다.  지금은 새로운 전환으로의 초대를 받기 전까지 Partner Membership Center(PMC)에서 멤버십 갱신을 계획하고 관리하세요.
 
 ## <a name="get-your-mpn-id"></a>MPN ID 받기
 

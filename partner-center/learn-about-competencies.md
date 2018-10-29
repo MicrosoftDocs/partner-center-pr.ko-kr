@@ -1,15 +1,18 @@
 ---
 title: 골드 및 실버 멤버십을 위한 Microsoft 역량 요구 사항 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 골드 및 실버 멤버십 레벨 획득을 위한 역량 요구 사항에 대해 알아보기
-author: Maggiepuccievans
+author: MaggiePucciEvans
+ms.author: evansma
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십
 ms.localizationpriority: medium
-ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875733"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796826"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>골드 및 실버 멤버십을 위한 Microsoft 역량 요구 사항
 

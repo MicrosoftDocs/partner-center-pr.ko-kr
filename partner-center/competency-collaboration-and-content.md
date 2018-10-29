@@ -1,19 +1,22 @@
 ---
 title: 협업 및 콘텐츠 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 협업 및 콘텐츠 역량은 회사의 콘텐츠 공유, 협업 및 생산성 향상을 돕는 SharePoint 솔루션을 제공하는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 협업 및 콘텐츠
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: efe413c3aec78d0f1b01f22e3db73cdb1122b2e9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877073"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795966"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 

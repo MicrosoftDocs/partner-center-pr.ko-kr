@@ -1,15 +1,18 @@
 ---
 title: Microsoft로 문제 에스컬레이션 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 고객을 대신하여 문제를 해결하는 것이 좋습니다.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489379"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797226"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
@@ -33,7 +36,7 @@ ms.locfileid: "4489379"
 
 -   다중 테넌트 영향이 있는 지역 문제
 
-## <a name="submit-a-support-request"></a>지원 요청 제출
+## <a name="submit-a-support-request"></a>지원 요청을 제출 합니다.
 
 1. 파트너 센터에서 **고객**을 선택 합니다.
 2. 지원이 필요한 고객을 선택 합니다.
@@ -44,14 +47,14 @@ ms.locfileid: "4489379"
 7. 지원 항목을 선택 합니다.
 
 >[!NOTE]
->것은 파트너와 고객 간의 관계를 유지 되도록 파트너 센터에서 시작 하는 것이 중요 합니다. 
+>파트너와 고객 간의 관계에 유지 되도록 파트너 센터에서 시작을 고려해 야 합니다. 
 
 
 고객 대신 문제 보고에 대 한 정보, [고객 대신 문제 보고를](report-problems-on-behalf-of-a-customer.md)참조 하세요.
 
- 
+ 
 
- 
+ 
 
 
 

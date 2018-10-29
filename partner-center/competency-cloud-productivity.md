@@ -1,19 +1,22 @@
 ---
 title: 클라우드 생산성 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 클라우드 생산성 역량은 엔터프라이즈 Office 365 배포를 전문으로 하는 파트너를 위한 역량입니다. 이 역량을 획득하여 전문 클라우드 솔루션 파트너를 찾는 고객을 위한 검증된 클라우드 솔루션 파트너로서 경쟁업체와 차별화하세요.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 클라우드 생산성
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874943"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794646"
 ---
 >[!IMPORTANT]
->이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.
+>이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
 
 <!--
 # Cloud Productivity competency
@@ -38,12 +41,12 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **1** individual must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
     **OR**
 
-    - **1** individual must obtain the following certification:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 ### Gold
@@ -60,7 +63,7 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **2** individuals must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
     **OR**

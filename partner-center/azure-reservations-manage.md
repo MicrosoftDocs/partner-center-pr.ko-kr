@@ -1,15 +1,18 @@
 ---
 title: 고객을 대신하여 Azure 예약 구입 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
+ms.author: v-petand
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
-ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
+ms.openlocfilehash: 20286d269a3074f89ca1368c26992feb03f9d182
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "4562275"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795456"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신하여 Microsoft Azure 예약 관리
 
@@ -19,11 +22,11 @@ ms.locfileid: "4562275"
 -  Microsoft Azure Portal
 -  CSP 파트너
 
-고객의 Azure 예약 구매 후를 관리 하려면 고객 및 파트너 센터에서 관리 하 고 예약을 선택 하 고 Azure portal에서 예약을 변경 합니다. 
+고객의 Azure 예약 구매 후를 관리 하려면 고객 및 파트너 센터에서 관리 하 고 싶은 예약을 선택 하 고 Azure portal에서 예약을 변경 합니다. 
 
 1. 시작 하려면 파트너 센터 메뉴에서 **고객** 을 선택 하 고 예약 관리 하려는 고객을 선택 합니다. 
 
-2. 고객의 세부 정보 페이지 메뉴에서 **Azure 예약** 을 선택 하 고 관리 하 고 싶은 특정 예약을 선택 합니다.  
+2. 고객의 세부 정보 페이지 메뉴에서 **Azure 예약** 을 선택 하 고 관리 하려는 특정 예약을 선택 합니다.  
 
 3. **작업** 아래에서 **관리**를 선택하여 Azure Portal의 고객의 예약 기록으로 이동합니다. 예약 세부 정보 페이지에서 작업을 완료 하려면 다음 단계를 수행합니다.  
 
@@ -46,10 +49,10 @@ ms.locfileid: "4562275"
 
 |**취소 날짜**<br> (일)   |**사용**    |**크레딧**  |**조기 종료**<br> 요금    |**환불 상한** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 개                       | 아니요          | 100%       | 아니요                              | $50000 USD   |
-|5 개                       | 예         | 비례 배분  | 아니요                              | $50000 USD   |
-|5 개 이상                        | 아니요          | 비례 배분  | 12%                             | $50000 USD   |
-|5 개 이상                        | 예         | 비례 배분  | 12%                             | $50000 USD   |
+|5 개 이하로                       | 아니요          | 100%       | 아니요                              | 미화 50, 000 달러   |
+|5 개 이하로                       | 예         | 비례 배분  | 아니요                              | 미화 50, 000 달러   |
+|5 개                        | 아니요          | 비례 배분  | 12%                             | 미화 50, 000 달러   |
+|5 개                        | 예         | 비례 배분  | 12%                             | 미화 50, 000 달러   |
 
 
 **교환이 처리되는 방법** 
@@ -67,7 +70,7 @@ ms.locfileid: "4562275"
 
 2. 고객의 세부 정보 페이지에서 **Azure 예약**을 선택하고 고객이 환불하고자 하는 특정 예약을 선택합니다.  
 
-3. **작업**Azure portal에서 고객의 예약 기록으로 이동 하 여 지원 요청을 시작할 **환불** 을를 선택 합니다.  
+3. **작업**Azure portal에서 고객의 예약 기록으로 이동 하 여 지원 요청을 시작할 **환불** 을 선택 합니다.  
 
 4. **새 지원 요청** 페이지에서 다음 단계에 따라 환불을 요청합니다. 각 단계를 수행한 후 **다음**을 선택합니다. 
 

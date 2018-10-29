@@ -1,16 +1,19 @@
 ---
 title: Microsoft의 고객 커뮤니케이션 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 일반적으로 Microsoft는 클라우드 솔루션 공급자 파트너를 통해 고객과 모든 연락을 주고받을 것으로 예상됩니다.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 커뮤니케이션, 고객 커뮤니케이션, Microsoft와 연락
 ms.localizationpriority: medium
-ms.openlocfilehash: 3906c4c304c123bbc3332e7ad0be1bd70c3a9efa
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b0e9dde7596ea980a44c3df6d6291c4db248240f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875603"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797206"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft의 고객 커뮤니케이션
 
@@ -26,9 +29,9 @@ ms.locfileid: "2875603"
 
 Microsoft와 이미 기존의 상업적 관계를 맺고 있는 고객의 경우, Microsoft는 CSP가 아닌 제품 및 서비스에 대해 해당 고객과 계속해서 직접 연락할 계획입니다.
 
- 
+ 
 
- 
+ 
 
 
 

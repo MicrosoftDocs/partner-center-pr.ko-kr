@@ -1,16 +1,19 @@
 ---
 title: 청구 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: 0407d176dcf7b7cc7f33403c4575a8a59b15b02d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489299"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796366"
 ---
 # <a name="billing"></a>청구
 
@@ -20,7 +23,7 @@ ms.locfileid: "4489299"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  Microsoft 클라우드 독일 파트너 센터
 
-청구서를 **파트너 센터** 메뉴 이동한 다음 **청구** 확인 하면 청구 내역과 추세, 송장 및 조정 파일, 최근 결제가 표시 링크를 선택 합니다.
+청구서를 **파트너 센터** 메뉴로 이동 하 고 하면 청구 내역과 추세, 송장 및 조정 파일, 최근 결제가 표시 링크를 보려면 **청구** 를 선택 합니다.
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
