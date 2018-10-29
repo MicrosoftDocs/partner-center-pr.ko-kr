@@ -1,19 +1,22 @@
 ---
 title: 데이터 센터 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 데이터 센터 역량은 데이터 센터를 보다 유연하고 확장 가능하고 비용 효율적인 솔루션으로 전환하는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 데이터 센터
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876243"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795566"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="4f7ad-104">이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="4f7ad-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="45626-104">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="45626-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter

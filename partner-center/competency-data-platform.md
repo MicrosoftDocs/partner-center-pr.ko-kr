@@ -1,19 +1,22 @@
 ---
 title: 데이터 플랫폼 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 데이터 플랫폼 역량은 비즈니스를 실행할 강력한 다용도 데이터베이스 플랫폼을 설계 및 개발하려는 파트너를 인증하는 역량입니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 데이터 플랫폼
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875653"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797276"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="d3f58-104">이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="d3f58-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="00600-104">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="00600-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

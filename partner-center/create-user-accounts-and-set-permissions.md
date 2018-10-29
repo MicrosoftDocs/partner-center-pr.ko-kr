@@ -1,16 +1,19 @@
 ---
 title: 사용자 계정 만들기 및 권한 설정 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 관리자는 파트너 센터에 액세스해야 하는 각 파트너 직원을 위한 사용자 계정을 만듭니다.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541477"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796606"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a><span data-ttu-id="3d7cd-103">사용자 계정 만들기 및 권한 할당</span><span class="sxs-lookup"><span data-stu-id="3d7cd-103">Create user accounts and assign permissions</span></span>
 

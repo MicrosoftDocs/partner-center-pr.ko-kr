@@ -1,19 +1,22 @@
 ---
 title: 클라우드 비즈니스 응용 프로그램 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 클라우드 비즈니스 응용 프로그램 역량은 고객을 대신하여 Microsoft Dynamics 365를 전문적으로 배포 및 관리하는 파트너를 위한 역량입니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 클라우드 비즈니스 응용 프로그램
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 217f988b6a7003cc1cdabeb3f8663eeaa619b362
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876703"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794576"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a4bf0-104">이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="a4bf0-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="529b1-104">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="529b1-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
