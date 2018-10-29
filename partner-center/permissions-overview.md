@@ -1,15 +1,18 @@
 ---
 title: 사용자 역할 및 권한을 할당 | 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
 description: 파트너 센터에서 작업 해야 하는 경우 모든 직원 역할을 할당 합니다.
 author: labrenne
+ms.author: labrenne
 keywords: 역할, 권한, 관리자 에이전트
 ms.localizationpriority: medium
-ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541478"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795106"
 ---
 # <a name="assign-users-roles-and-permissions"></a><span data-ttu-id="12aa0-104">사용자 역할 및 권한 할당</span><span class="sxs-lookup"><span data-stu-id="12aa0-104">Assign users roles and permissions</span></span>
 

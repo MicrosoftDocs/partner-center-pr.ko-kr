@@ -1,19 +1,22 @@
 ---
 title: 데이터 분석 역량
+ms.topic: article
+ms.date: 10/29/2018
 description: 데이터 분석 역량은 고객이 보다 심층적인 정보를 발견하고 미래를 예측하고 권장 사항을 생성할 수 있도록 도와주는 데이터 검사 비즈니스를 영위하는 조직에게 조직의 능력을 쌓고 증명할 수 있는 플랫폼을 제공합니다.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 역량, 역량, 데이터 분석
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875303"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796226"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="9eee4-104">이 역량 서 명성을 얻으세요에 대 한 요구 사항에 대 한 자세한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="9eee4-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="82c34-104">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="82c34-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Data Analytics
