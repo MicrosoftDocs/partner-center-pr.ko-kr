@@ -1,7 +1,7 @@
-# [Microsoft 파트너 대시보드 정보](index.md)
+# [Microsoft 파트너 센터 정보](index.md)
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
-## [파트너 대시보드 계정 만들기](mpn-create-a-partner-center-account.md)
+## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
 ## 멤버십 혜택
 ### [Action Pack](mpn-get-action-pack.md)
 ### [혜택 갱신](renew-mpn-offers.md)
@@ -18,13 +18,13 @@
 ## [고객 계약 템플릿](agreements.md)
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
-### [Microsoft Cloud for US Government용 파트너 대시보드](partner-center-for-microsoft-us-govt-cloud.md)
-### [Microsoft 클라우드의 독일 파트너를 위한 대시보드](partner-center-for-microsoft-cloud-germany.md)
+### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
+### [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
 
-# [파트너 대시보드 계정 관리](partner-center-account-setup.md)
-## [회사 계정 및 파트너 대시보드](azure-active-directory-tenants-and-partner-center.md)
+# [파트너 센터 계정 관리](partner-center-account-setup.md)
+## [회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
-## [일시 중단된 파트너 대시보드 계정 복원](suspended-partner-center-account.md)
+## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
 ## [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
 ## [사용자 역할 및 권한 할당](permissions-overview.md)
 ## [도메인 소유권 확인](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [온라인 서비스(구독)](customer-subscriptions.md)
 ### [고객 구독 생성, 일시 중단 또는 취소](create-a-new-subscription.md)
 ### [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)
-### [파트너 대시보드에서 Azure 구독](assign-azure-subscriptions.md)
+### [파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)
 ### [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ### [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
 ### [다수의 사용자에게 라이선스 할당 및 해지](bulk-license-provisioning-for-multiple-users.md)
@@ -88,7 +88,7 @@
 ### [비즈니스용 Skype Online 플랜 1을 새로운 Office 365 버전으로 마이그레이션](skype-retiring.md)
 ### [Azure 구독 이전](switch-azure-subscriptions-to-a-different-partner.md)
 
-# 파트너 대시보드 데이터 및 분석
+# 파트너 센터 데이터 및 분석
 ## [비즈니스 데이터 수집 및 분석](data-analysis-lp.md)
 ## [Microsoft Power BI용 파트너 분석 앱](power-bi-app-for-direct-partners.md)
 ## [파트너 기여: 성과 지표의 최고 수준 유지](partner-contributions.md)
@@ -97,12 +97,12 @@
 ## [구독 및 라이선스 분석](analyze-subscriptions-licenses.md)
 
 # [다른 파트너와 협력](work-with-other-partners.md)
-## [파트너 대시보드에서 간접 공급자가 하는 일](indirect-provider-tasks-in-partner-center.md)
-## [파트너 대시보드에서 간접 재판매인이 하는 일](indirect-reseller-tasks-in-partner-center.md)
+## [파트너 센터에서 간접 공급자가 하는 일](indirect-provider-tasks-in-partner-center.md)
+## [파트너 센터에서 간접 재판매인이 하는 일](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [Microsoft에서 지원 받기](support-from-microsoft.md)
-## [파트너 대시보드에서 문제 보고](report-problems-with-partner-center.md)
+## [파트너 센터에서 문제 보고](report-problems-with-partner-center.md)
 ## [고객 대신 문제 보고](report-problems-on-behalf-of-a-customer.md)
 ## [API를 사용하여 자동화된 서비스 알림 가져오기](get-automated-service-notifications-with-our-apis.md)
 
