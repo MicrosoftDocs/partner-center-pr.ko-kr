@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797296"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022236"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -209,7 +209,7 @@ ms.locfileid: "5797296"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 고유 하 게 식별 고객와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 없는 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -687,7 +687,7 @@ ms.locfileid: "5797296"
 
 <tr>
 <td>
-<p><strong>라이선스 기준 할인</strong></p>
+<p><strong>라이선스 기반 할인</strong></p>
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
@@ -705,7 +705,7 @@ ms.locfileid: "5797296"
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
-<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧, 참조 하십시오.</em></p>
+<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧를 참조 하세요.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>
