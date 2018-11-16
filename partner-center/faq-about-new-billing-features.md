@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795597"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012606"
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 
@@ -144,7 +144,7 @@ ms.locfileid: "5795597"
 
 **Q:** 구독 청구 주기를 월간에서 연간으로 또는 그 반대로 전환할 수 있나요? 
 
--   **A:** 아니요. 청구 주기를 선택한 다음에는 변경할 수 없습니다. 
+-   **A:** 예. **온라인 서비스의 청구 주기를 변경 하려면** [청구의 기본 사항에서](https://docs.microsoft.com/en-us/partner-center/billing-basics)참조 하세요.
 
 **Q:** 추가 기능 제품에도 연간 청구가 제공되나요?   
 
