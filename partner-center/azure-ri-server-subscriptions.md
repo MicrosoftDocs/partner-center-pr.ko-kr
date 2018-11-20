@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure, 구독, VM, 예약, 예약 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 40df0686cc0a7227360d8f77f09a30d9d6520d45
+ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797036"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "7331035"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,24 +24,24 @@ ms.locfileid: "5797036"
  
 ## <a name="what-are-azure-reservations"></a>Azure 예약 이란 무엇 인가요?
 
-Azure 예약 1 년 또는 3 년의 가상 컴퓨터, 컴퓨팅 용량을 SQL 데이터베이스, Azure Cosmos DB 처리량 또는 기타 Azure 리소스에 대 한 사전 지불 하 여 비용을 절감할 수 있습니다. 미리 지불를 사용 하는 리소스에서 할인을 얻을 수 있도록 합니다. 예약 가상 컴퓨터, SQL 데이터베이스 컴퓨팅, Azure Cosmos DB 크게 줄일 수 및 기타 리소스 량 가격에 비해 72%까지 비용. 예약 청구 할인을 제공 하 고 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 참조 [Azure 예약 무엇 인가요?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure 예약을 사용 하 여 1 년 또는 3 년의 가상 컴퓨터, 컴퓨팅 용량을 SQL 데이터베이스, Azure Cosmos DB 처리량 또는 기타 Azure 리소스에 대 한 사전 지불 하 여 비용을 절약할 수 있습니다. 미리 지불를 사용 하는 리소스에서 할인을 얻을 수 있도록 합니다. 예약 가상 컴퓨터, SQL 데이터베이스 컴퓨팅, Azure Cosmos DB 크게 줄일 수 및 기타 리소스 량 가격에 비해 72%까지 비용. 예약 청구 할인을 제공 하 고 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 참조 [Azure 예약 무엇 인가요?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
-## <a name="why-should-customers-buy-a-reservation"></a>고객에 게 예약을 구입 이유
+## <a name="why-should-customers-buy-a-reservation"></a>고객 예약을 구입 이유
 
-가상 컴퓨터, Azure Cosmos DB 또는 오랜 시간 동안 실행 되는 SQL 데이터베이스 고객 있으면 예약을 구입 드리 가장 효과적인 옵션입니다. 예를 들어 고객이 예약 없이 서비스의 네 가지 인스턴스를 지속적으로 실행은 종 속도로 청구 됩니다. 이러한 리소스에 대 한 예약을 구입할 경우 즉시 번씩 예약 할인이. 리소스는 더 이상 량 속도로 청구 됩니다.
+고객 가상 컴퓨터, Azure Cosmos DB 또는 오랜 시간 동안 실행 되는 SQL 데이터베이스 있으면 예약을 구입 하는 가장 효과적인 옵션이 제공 됩니다. 예를 들어 고객이 예약 없이 서비스의 네 가지 인스턴스를 지속적으로 실행은 종 속도로 청구 됩니다. 이러한 리소스에 대 한 예약을 구입할 경우 즉시 번씩 예약 할인이. 리소스는 더 이상 량 속도로 청구 됩니다.
 
  
 ### <a name="compelling-new-azure-offer-in-csp"></a>CSP에서 멋진 새 Azure 제공 
 
-Azure Reservations 및 서버 구독을 CSP 프로그램으로 가져와, Microsoft 파트너 들이 뛰어난 영구적인 클라우드 워크 로드를 지원 하기 위해 효과적인 솔루션에 대 한 빠르게 성장 고객 요구를 해결 하기 위해 사용 하도록 설정 더 잘 됩니다. CSP 프로그램 파트너를을 획득, 프로비저닝 및 Microsoft 파트너 센터 및 Azure Portal을 통해 상용 고객을 대신 하 여 Azure Reservations 및 서버 구독을 관리할 수 있습니다. Azure 예약 고객에 게 다양 한 컴퓨팅 솔루션, 개발 및 테스트를 실행 중인 응용 프로그램 데이터 센터 확장의 가상화의 유연성을 제공 합니다. 
+Azure Reservations 및 서버 구독을 CSP 프로그램으로 가져와, Microsoft 파트너 들이 뛰어난 영구적인 클라우드 워크 로드를 지원 하기 위해 효과적인 솔루션에 대 한 빠르게 성장 고객 요구를 해결 하기 위해 사용 하도록 설정 더 잘 됩니다. CSP 프로그램 파트너를을 획득, 프로비저닝 및 Microsoft 파트너 센터 및 Azure Portal을 통해 상용 고객을 대신 하 여 Azure Reservations 및 서버 구독을 관리할 수 있습니다. Azure 예약 고객의 컴퓨팅 솔루션, 개발 및 테스트를 실행 중인 응용 프로그램 데이터 센터 확장 다양 한 가상화의 유연성을 제공 합니다. 
 
-[Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) 예를 들어 상용 고객 수 절감할 최대 72 종 량 %까지 Azure VM 구입 또는 "예약" – 1 년 또는 3 년 기간에 대 한 가상 컴퓨터에서 하기만 하면 됩니다. Azure 하이브리드 혜택, Software Assurance와 함께 사용 하는 Windows Server 고객 최대 80%까지 량 가격을 저장할 수 없게 됩니다. 
+[Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) 예를 들어 상용 고객 수 절감할 최대 72 종 량 %까지 Azure VM 구입 또는 "예약"-1 년 또는 3 년 기간에 대 한 가상 컴퓨터에서 하기만 하면 됩니다. Azure 하이브리드 혜택, Software Assurance와 함께 사용 하는 Windows Server 고객 최대 80 종 량 %까지 저장할 수 없게 됩니다. 
 
-가격과 뛰어난된 배포 유연성을 하나로 결합 하 여 고객에 게 Azure 예약을 선택할 때 최고의 가치를 나타납니다. 
+가격과 뛰어난된 배포 유연성을 하나로 결합 하 여 고객이 Azure 예약을 선택할 때 최고의 가치를 표시 됩니다. 
 
 - [Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [서버 구독](https://www.microsoft.com/Licensing/news/windows-sql-server-through-csp) 
-- [원격 데스크톱 서비스 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 출시 예정입니다!
+- [서버 구독](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
+- [원격 데스크톱 서비스 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 출시 예정!
 - [SQL DB 예약](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
@@ -80,15 +80,15 @@ Azure Reservations 및 서버 구독을 CSP 프로그램으로 가져와, Micros
 
 **교육**
 
-- [2018 년 11 월 상용 라이선싱 준비 웨](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) 온라인 서비스 CSP, CSP Azure 및 Azure 등 일반적인 라이선스 업데이트
-- [8 월 SQL DB 예약 용량 및 인스턴스 크기 유연성-웨 비 나 라이선싱](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
-- [2018 년 7 월 CSP 웨 비 나 서버 구독](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
+- [2018 년 11 월 Commercial 라이선스 준비 웨](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) 온라인 서비스 CSP, CSP Azure 및 Azure 등 일반적인 라이선스 업데이트
+- [8 월 SQL DB 예약 용량 및 인스턴스 크기 유연성-웨 비 나 라이선스](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
+- [2018 년 7 월 서버 구독에서 CSP 웨 비 나](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
 - [2018 년 5 월 Azure Reservations 개요 웨 비 나](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 - [파트너 대학의 Azure 라이선싱 모듈](https://aka.ms/azure_partner_licensing)
 
 **작업**
 
-- [현대 상거래 운영 가이드](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트): 계약, 파트너 센터를 통한 주문, 송장, 같은 가격 목록 세부 정보, 인센티브, 조정 파일, API/SDK, 샌드박스 및 Azure Partner Shared Services 포괄적인 가이드 커버 주요 정책 및 운영 측면입니다.
+- [현대 상거래 운영 가이드](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트): 계약, 파트너 센터를 통한 주문, 송장, 같은 가격 목록 세부 정보, 인센티브, 조정 파일, API/SDK, 샌드박스, 및 Azure Partner Shared Services 포괄적인 가이드 커버 주요 정책 및 운영 측면입니다.
 - [최신 제품 사용 가능 국가 및 고객 통화표](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [판매 Microsoft Azure 예약 인스턴스](https://go.microsoft.com/fwlink/?linkid=872806)
 - [고객을 대신하여 Microsoft Azure 예약 구입](https://go.microsoft.com/fwlink/?linkid=872807)
