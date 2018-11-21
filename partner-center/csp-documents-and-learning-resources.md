@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796066"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460960"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격표 및 제품
 
@@ -49,20 +49,18 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [Microsoft 클라우드 재판매인 계약 - 대만](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - Microsoft 클라우드 독일](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft 클라우드 계약 템플릿
 
-귀하는 CSP 파트너로서 고객과 함께 Microsoft 제품 및 서비스의 사용 제한을 포함하여 Microsoft 사용 약관을 검토할 책임이 있습니다. 신규 고객과 함께 검토 해야 합니다. Microsoft 클라우드 계약을 확인 하려면 아래의 링크를 따르세요. 
+귀하는 CSP 파트너로서 고객과 함께 Microsoft 제품 및 서비스의 사용 제한을 포함하여 Microsoft 사용 약관을 검토할 책임이 있습니다. 찾는 신규 고객과 함께 검토 해야 합니다. Microsoft 클라우드 계약 아래 링크를 따라 합니다. 
 
 Microsoft 클라우드 계약 [고객 템플릿](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft 클라우드 계약 (독일)의 전문적인 완전 보안 수정
 
-독일에서는 범죄자 코드 (섹션 203) 및 사항 전문 코드 필요한 특정 클라이언트 관계가 예: 환자의 의료 해당 의사 간의 관계와의 관계 기밀을 유지 하 변호사와 해당 클라이언트 합니다. 이러한 해당 그룹 전문 비밀 확인 해야 합니다. 이러한 및 클라우드 솔루션 공급자에서 클라우드 기반 서비스를 구입 하려면 다른 직업 클라우드 서비스 공급자 전문 완전 보안을 보장 하는 고객과 서 면된 계약을 종료 해야 합니다. 
+독일에서는 범죄자 코드 (섹션 203) 및 사항 전문 코드가 필요 특정 클라이언트 관계가 예, 환자의 의료 해당 의사 간의 관계 및 간의 관계에 대 한 기밀을 유지 하 변호사와 해당 클라이언트입니다. 이러한 해당 그룹 전문 비밀 확인 해야 합니다. 이러한 및 클라우드 솔루션 공급자에서 클라우드 기반 서비스를 구입 하려면 다른 직업에 대 한 클라우드 서비스 공급자 전문 완전 보안을 보장 하는 고객과 서 면된 계약을 종료 해야 합니다. 
 
 독일에서 사업 전문 비밀 개정안 Microsoft 클라우드 계약 외에도 있는 고객에 게 제공 해야 합니다.
 
