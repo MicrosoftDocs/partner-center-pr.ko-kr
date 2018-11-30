@@ -1,4 +1,4 @@
-# [Microsoft 파트너 센터 정보](index.md)
+# [Microsoft 파트너 센터에 대해 알아보기](index.md)
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
 ## [CSP 직접 파트너 새 요구 사항](direct-partner-new-requirements.md) 
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
-## [CSP 지역 권한 부여 개요](regional-authorization-overview.md)
-## [CSP 지역 권한 설정 테넌트 통합](csp-regional-authorization-tenant-consolidation.md)
-## [고객 계약 템플릿](agreements.md)
+## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
+## [지역 및 언어별 Microsoft 클라우드 계약](agreements.md)
 
-## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
+## [국가별 클라우드](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [청구 및 세금](billing.md)
+## [CSP 청구 개요](billing-basics.md)
 ## [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)
 ## [청구서 읽기](read-your-bill.md)
 ## [조정 파일 사용](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [라이선스 기반 서비스 고객을 클라우드 서비스 공급자 프로그램으로 전환](transition-seat-based-services.md)
 ### [Minecraft: Education Edition 구독 판매](minecraft-subscriptions.md)
 ### [특수 산업을 대상으로 판매](Get-special-pricing-for-offers.md)
+### [자격이 있는 정부 고객에게 Office 365 Government GCC 판매](csp-gcc-overview.md)
 ### [채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot으로 장치 설치 간소화](autopilot.md)
 ##  최신 버전으로의 업그레이드 또는 이전 혜택
