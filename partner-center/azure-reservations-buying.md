@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: 2022018629bd54140a3d9aeca93a4523102c366e
-ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
+ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
+ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "6075264"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "8382949"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
@@ -30,7 +30,7 @@ ms.locfileid: "6075264"
   
 -   SQL 데이터베이스 또는 SUSE Linux 소프트웨어와 같은 소프트웨어 구독 비용은 Azure 예약 가격에 포함 되지 않습니다.
 
--   에 Microsoft의 상용 가격 사용자의 위치는 오스트레일리아 또는 브라질 하지 않는 한 세금을 포함 되지 않습니다. 상용 가격을 적절 한 세금을 포함 오스트레일리아 또는 브라질 위치에 있으면 
+-   에 Microsoft의 상용 가격 위치가 브라질 하지 않는 한 세금을 포함 되지 않습니다. 상용 가격을 적절 한 세금을 포함 위치 브라질 인 경우 
  
 -   판매 및 헬프 데스크 직원들이 고객을 대신하여 교환 및 환불을 포함하여 Azure Portal 및 파일 지원 요청 시 이를 구입 또는 관리할 수 있으려면 Azure 구독에 명시적으로 액세스해야 합니다.  
 
@@ -43,7 +43,7 @@ ms.locfileid: "6075264"
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 예약 사용할 수 없는 지역/국가
 
 >[!IMPORTANT] 
->Azure 예약은 *되지* 사용할 수 있는 다음 지역/국가에서 다음과 같습니다.  
+>Azure 예약 *되지* 사용할 수 있는 다음 지역/국가에서.  
 >  
 > | 사용할 수 없는 지역/국가 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
@@ -90,7 +90,7 @@ ms.locfileid: "6075264"
 
 ## <a name="purchase-azure-reservations"></a>Azure 예약 구입
 
-파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약을 구입 하려면 다음 단계를 수행 합니다.
+파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약을 구입 하려면 다음 단계를 따릅니다.
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택 합니다.  
 
@@ -119,12 +119,12 @@ ms.locfileid: "6075264"
 
     - 예약 된 인스턴스 수량을 변경 또는 확인 합니다.
 
-    - 예약의 범위를 선택 합니다. 예약 범위는 단일 또는 다중 구독(공유 범위)을 지원할 수 있습니다. 단일 구독에 대 한 예약 범위 하는 경우에이 구독에 예약 할인이 적용 됩니다. 선택 하는 경우 공유, 고객의 청구 한 상황에서 모든 구독에 예약 할인이 적용 됩니다. 
+    - 예약의 범위를 선택 합니다. 예약 범위는 단일 또는 다중 구독(공유 범위)을 지원할 수 있습니다. 단일 구독에 대 한 예약의 범위를 지정 하면 하는 경우에이 구독에 예약 할인이 적용 됩니다. 선택 하는 경우 공유, 고객의 청구 한 상황에서 모든 구독에 예약 할인이 적용 됩니다. 
 
       >[!NOTE] 
-      >예약의 범위를 단일 Azure 구독을 제한 하기로 선택한 경우 구독의 vCPU 할당량 증가 해야 합니다. 구독의 vCPU 할당량을 향상 시키기 위해 Azure portal에서 지원 요청을 작성 해야 합니다. 따라의 지침에서은 [이 항목의](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 요청을 만듭니다.    
+      >예약의 범위를 단일 Azure 구독을 제한 하기로 선택한 경우 구독의 vCPU 할당량을 강화 하기 위해 할 수도 있습니다. 구독의 vCPU 할당량을 향상 시키기 위해 Azure portal에서 지원 요청을 작성 해야 합니다. 수행 하는 지침에서은 [이 항목의](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 요청을 만듭니다.    
 
-    - 공급자 파트너 라면 제품과 함께 연결 하려는 재판매인을 선택 합니다.
+    - 공급자 파트너 인 경우 제품을 사용 하 여 연결 하려는 재판매인을 선택 합니다.
 
 9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 내역** 페이지로 이동합니다. 
 
