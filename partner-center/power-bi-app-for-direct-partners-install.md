@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795536"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131702"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기
 
 **적용 대상**
 
--   파트너 센터
+- 파트너 센터
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
+사용 가능한 Power BI 앱의 다음 목록에서 비즈니스에 가장 관련 된 응용 프로그램을 선택 합니다.
+- [직접 파트너](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [간접 파트너](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [간접 재판매인](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 파트너 센터 분석 앱 미리 보기 버전을 설치하기 전에 다음 요구 사항을 충족하는지 확인하세요.
 
--   클라우드 솔루션 공급자 프로그램과 파트너 센터의 직접 파트너입니다. Microsoft 및 고객과 직접 비즈니스를 수행하는 경우 직접 파트너입니다.
+- 비즈니스에 대 한 올바른 Power BI 앱을 선택합니다.
 
--   Microsoft Power BI Professional 또는 Microsoft Power BI Premium 중 하나에 활성 구독이 있습니다.
+- Microsoft Power BI Professional 또는 Microsoft Power BI Premium 중 하나에 활성 구독이 있습니다.
 
--   Power BI에 로그인할 수 있습니다.
+- Power BI에 로그인할 수 있습니다.
 
--   전역 관리자, 관리자 에이전트, 또는 청구 관리자로 [회사의 Azure AD(Azure Active Directory) 테넌트](azure-active-directory-tenants-and-partner-center.md)에 로그인할 수 있습니다.
+- 전역 관리자, 관리자 에이전트, 또는 청구 관리자로 [회사의 Azure AD(Azure Active Directory) 테넌트](azure-active-directory-tenants-and-partner-center.md)에 로그인할 수 있습니다.
 
 ## <a name="to-install-the-app"></a>앱을 설치하려면
 
