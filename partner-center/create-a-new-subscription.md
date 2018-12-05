@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796406"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683722"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
@@ -21,7 +21,6 @@ ms.locfileid: "5796406"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
 -  CSP 파트너
 
 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품에 대 한 구독 판매 수 있습니다.

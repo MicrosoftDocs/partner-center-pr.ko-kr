@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객 자가 지원, 자가 지원,
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794776"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683482"
 ---
 # <a name="customer-self-support"></a>고객 자가 지원
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794776"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 고객은 고유한 Microsoft Office 365 관리 센터 또는 Azure 관리 포털에 로그인하고, 자신의 계정을 관리할 수 있습니다.
 

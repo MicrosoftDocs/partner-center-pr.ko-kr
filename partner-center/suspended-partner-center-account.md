@@ -7,12 +7,12 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796196"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683472"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>일시 중단된 파트너 센터 계정 복원
 
@@ -22,7 +22,7 @@ ms.locfileid: "5796196"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 > [!IMPORTANT]  
 > 파트너 센터 계정이 일시 중단되더라도 기존 배포, 라이선스 및 서비스를 계속 관리할 수 있습니다. 그러나 계정이 다시 양호한 상태가 될 때까지 새로운 라이선스 또는 서비스를 승인하거나 재판매할 수 없습니다.
@@ -45,7 +45,7 @@ Microsoft는 다음 중 하나에 해당하는 경우 파트너 센터 계정을
 
 **지원 요청을 제출하려면**
 
-1.  **파트너 센터** 메뉴에서 선택 **지원 요청 > 파트너 센터 요청**.
+1.  **파트너 센터** 메뉴에서 **지원 요청 > 파트너 센터 요청**합니다.
 2.  **새 요청**을 선택합니다. 
 3.  양식을 작성한 후 **제출**을 선택합니다. 계정이 일시 중단된 이유와 계정을 복원하는 방법을 설명하기 위해 파트너 센터 지원 담당자가 연락을 드릴 수 있습니다.
 

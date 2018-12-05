@@ -7,12 +7,12 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797226"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683552"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
@@ -20,7 +20,7 @@ ms.locfileid: "5797226"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 고객을 대신하여 문제를 해결하는 것이 좋습니다. 첫 번째 단계로 문서화된 기존 문제에서 [서비스 상태를 확인](check-service-health.md)해야 합니다. 이 단계에서 고객 문제를 해결하지 못한 경우 관리자 권한을 사용하여 소프트웨어, 설정 및 구성 문제를 해결할 수 있습니다.
 
@@ -47,10 +47,10 @@ ms.locfileid: "5797226"
 7. 지원 항목을 선택 합니다.
 
 >[!NOTE]
->파트너와 고객 간의 관계에 유지 되도록 파트너 센터에서 시작을 고려해 야 합니다. 
+>파트너와 고객 간의 관계 유지 되도록 파트너 센터에서 시작을 고려해 야 합니다. 
 
 
-고객 대신 문제 보고에 대 한 정보, [고객 대신 문제 보고를](report-problems-on-behalf-of-a-customer.md)참조 하세요.
+고객 대신 문제 보고에 대 한 정보를 [고객 대신 문제 보고를](report-problems-on-behalf-of-a-customer.md)참조 하세요.
 
  
 

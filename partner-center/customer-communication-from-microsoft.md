@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 커뮤니케이션, 고객 커뮤니케이션, Microsoft와 연락
 ms.localizationpriority: medium
-ms.openlocfilehash: b0e9dde7596ea980a44c3df6d6291c4db248240f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797206"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683462"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft의 고객 커뮤니케이션
 
@@ -21,7 +21,7 @@ ms.locfileid: "5797206"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 일반적으로 Microsoft는 클라우드 솔루션 공급자 파트너를 통해 고객과 모든 연락을 주고받을 것으로 예상됩니다. 파트너가 고객과 청구 관계를 맺고 있으므로 Microsoft는 해당 구독과 관련하여 고객에게 직접 연락하지는 않습니다.
 

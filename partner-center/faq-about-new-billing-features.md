@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012606"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683812"
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012606"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 다음은 파트너 센터의 연간 청구 및 무료 평가판에 대한 자주 묻는 질문입니다. 
 

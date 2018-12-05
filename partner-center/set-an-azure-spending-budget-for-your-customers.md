@@ -7,12 +7,12 @@ ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794986"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683442"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>고객을 위한 Azure 지출 예산 설정
 
@@ -20,7 +20,6 @@ ms.locfileid: "5794986"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
 
 고객이 자신의 Azure 지출을 관리할 수 있도록 돕기 위해, 월별 지출 예산을 설정하여 Azure 청구액이 예상보다 높지 않게 유지할 수 있습니다. Azure 지출을 예산을 설정하면 해당 달 동안 고객의 Azure 지출을 예산과 비교할 수 있습니다. 이 기능을 사용하면 다음을 할 수 있습니다. 
 

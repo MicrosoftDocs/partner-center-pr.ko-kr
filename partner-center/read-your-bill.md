@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795696"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683792"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -21,9 +21,9 @@ ms.locfileid: "5795696"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
 
-청구서를 **파트너 센터** 메뉴로 이동 하 고 하면 청구 내역과 추세, 송장 및 조정 파일, 최근 결제가 표시 링크를 보려면 **청구** 를 선택 합니다.
+
+청구서를 **파트너 센터** 메뉴로 이동 하 고 하면 청구 내역과 추세, 송장 및 조정 파일에 가장 최근 지급 링크를 보려면 **청구** 를 선택 합니다.
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
@@ -78,7 +78,7 @@ ms.locfileid: "5795696"
 <tr class="even">
 <tr class="even">
 <td>소계</td>
-<td>세금 및 세금 단독 요금 및 크레딧이 하기 전의 총액.</td>
+<td>세금 및 세금 전용 요금 및 크레딧이 하기 전의 총액.</td>
 </tr>
 <td>세금</td>
 <td>송장 2페이지의 시작 부분에 있는 세부 정보 섹션에 합산되어 있는 현재 요금의 총 세금입니다. 이 숫자의 다음 열에 있는 모든 요금의 합계입니다.
@@ -89,7 +89,7 @@ ms.locfileid: "5795696"
 </tr>
 <tr class="odd">
 <td>다른 크레딧</td>
-<td>세금 단독 크레딧입니다.</td>
+<td>세금 전용 크레딧입니다.</td>
 </tr>
 <tr class="even">
 <td>현재 총 요금</td>

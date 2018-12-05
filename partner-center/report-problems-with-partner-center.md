@@ -7,12 +7,12 @@ ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795326"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683682"
 ---
 # <a name="report-problems-with-partner-center"></a>파트너 센터에서 문제 보고
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795326"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 버그를 포함 하 여 파트너 센터를 사용 하 여 문제 또는 중단을 서비스 하는 경우 파트너 센터 지원 합니다.
 
@@ -41,7 +41,7 @@ ms.locfileid: "5795326"
 
 1.  문제가 있는 페이지로 이동합니다.
 
-2.  키를 눌러 **Ctrl + Alt + D** 클라이언트 진단 도구를 엽니다.
+2.  **Ctrl + Alt + D** 키를 눌러 클라이언트 진단 도구를 엽니다.
 
 진단 정보를 미리 살펴본 후 지원 요청에 첨부 가능한 파일에 저장할 수 있습니다. 정보를 보내려면:
 
@@ -54,5 +54,5 @@ ms.locfileid: "5795326"
 
 5.  지원 요청에 파일을 첨부 합니다.
 
-파트너 지원 최신 정보를 가져올 수 있으므로이 도구를 여러 번 실행 하도록 요청할 수도 있습니다.
+파트너 지원 최신 정보 수 있도록이 도구를 여러 번 실행 하도록 요청할 수도 있습니다.
 

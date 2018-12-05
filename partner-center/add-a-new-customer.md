@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794846"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683692"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가
 
@@ -21,10 +21,10 @@ ms.locfileid: "5794846"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
 
 
-구독을 판매 하, 청구를 관리 하거나 지원을 제공 수, 파트너 센터에서 고객 계정이 생성 해야 합니다. 여기에는 연락처 정보 및 Azure AD 도메인이 포함됩니다.
+
+구독을 판매 하거나 청구를 관리 지원을 제공할 수 있습니다, 파트너 센터의 고객 계정이 생성 해야 합니다. 여기에는 연락처 정보 및 Azure AD 도메인이 포함됩니다.
 
 [다중 채널](multichannel.md) 또는 [다중 파트너](multipartner.md) 시나리오를 통해 고객 계정과 구독을 이미 갖고 있는 고객은 여기에 나와 있는 다음 절차 대신 [고객과의 관계를 요청](request-a-relationship-with-a-customer.md)할 수 있습니다.
 

@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796116"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683702"
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796116"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다. 고객 계정 데이터베이스를 검색하고 전체 고객 데이터베이스나 하위 집합을 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수 있습니다. 고객의 구독 정보를 .csv 파일로 내보낼 수도 있습니다.
 
@@ -38,7 +38,7 @@ ms.locfileid: "5796116"
 **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
-4.  고객의 **청구서를** 정보에서 회사 이름을 업데이트 합니다. 새 값을 저장할 때 고객 목록에 반영 됩니다. 청구서에 회사 이름 및 고객 목록 값만 변경 됩니다. 이 반영 되지 않습니다 아무 곳 이나 다른 합니다.
+4.  고객의 **청구지** 정보에서 회사 이름을 업데이트 합니다. 새 값을 저장할 때 고객 목록에 반영 됩니다. 청구서에 회사 이름 및 고객 목록 값만 변경 됩니다. 이 반영 되지 않습니다 아무 곳 이나 다른 합니다.
 
 ## <a name="export-your-customer-list"></a>고객 목록 내보내기
 

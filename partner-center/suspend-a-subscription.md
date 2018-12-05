@@ -7,12 +7,12 @@ ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 041dc7e1849f0dfd9334159a57a9714396358df9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796126"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683522"
 ---
 # <a name="suspend-a-subscription"></a>구독 일시 중단
 
@@ -20,9 +20,9 @@ ms.locfileid: "5796126"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
 
-고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다
+
+고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
 
 구독 상태를 **일시 중단됨**으로 변경하면 사용자가 로그인하거나 서비스에 액세스할 수 없습니다. 관리자는 계속 로그인하고 데이터에 액세스할 수 있습니다.
 

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022236"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683822"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -20,7 +20,7 @@ ms.locfileid: "6022236"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
 
 청구 주기에서 각 요금의 자세한 품목 보기에 대 한 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
@@ -209,7 +209,7 @@ ms.locfileid: "6022236"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 고유 하 게 식별 고객와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 없는 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 있는 고객을 고유 하 게 식별 하 하지 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -705,7 +705,7 @@ ms.locfileid: "6022236"
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
-<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧를 참조 하세요.</em></p>
+<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧, 참조 하십시오.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794856"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683762"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794856"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+-  
 
 
 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다. 거래에 대한 로그는 구매한 구독을 비롯하여 거래에 대한 자세한 정보를 제공합니다. 활동 로그를 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수도 있습니다.
