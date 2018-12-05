@@ -8,26 +8,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 커뮤니케이션, 고객 커뮤니케이션, Microsoft와 연락
 ms.localizationpriority: medium
-ms.openlocfilehash: b0e9dde7596ea980a44c3df6d6291c4db248240f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fbb5e9fab5ae9a92218988f0ff1465443d9a4eac
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797206"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683462"
 ---
-# <a name="customer-communication-from-microsoft"></a><span data-ttu-id="476c6-104">Microsoft의 고객 커뮤니케이션</span><span class="sxs-lookup"><span data-stu-id="476c6-104">Customer communication from Microsoft</span></span>
+# <a name="customer-communication-from-microsoft"></a><span data-ttu-id="982c4-104">Microsoft의 고객 커뮤니케이션</span><span class="sxs-lookup"><span data-stu-id="982c4-104">Customer communication from Microsoft</span></span>
 
-**<span data-ttu-id="476c6-105">적용 대상</span><span class="sxs-lookup"><span data-stu-id="476c6-105">Applies to</span></span>**
+**<span data-ttu-id="982c4-105">적용 대상</span><span class="sxs-lookup"><span data-stu-id="982c4-105">Applies to</span></span>**
 
--  <span data-ttu-id="476c6-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="476c6-106">Partner Center</span></span>
--  <span data-ttu-id="476c6-107">미국 정부용 Microsoft 클라우드 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="476c6-107">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="476c6-108">Microsoft 클라우드 독일 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="476c6-108">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="982c4-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="982c4-106">Partner Center</span></span>
+-  <span data-ttu-id="982c4-107">미국 정부용 Microsoft 클라우드 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="982c4-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="476c6-109">일반적으로 Microsoft는 클라우드 솔루션 공급자 파트너를 통해 고객과 모든 연락을 주고받을 것으로 예상됩니다.</span><span class="sxs-lookup"><span data-stu-id="476c6-109">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="476c6-110">파트너가 고객과 청구 관계를 맺고 있으므로 Microsoft는 해당 구독과 관련하여 고객에게 직접 연락하지는 않습니다.</span><span class="sxs-lookup"><span data-stu-id="476c6-110">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
 
-<span data-ttu-id="476c6-111">그러나 Microsoft는 고객 서비스 문제 또는 기타 작업 정보에 대해서는 고객과 직접 연락할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="476c6-111">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
+<span data-ttu-id="982c4-108">일반적으로 Microsoft는 클라우드 솔루션 공급자 파트너를 통해 고객과 모든 연락을 주고받을 것으로 예상됩니다.</span><span class="sxs-lookup"><span data-stu-id="982c4-108">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="982c4-109">파트너가 고객과 청구 관계를 맺고 있으므로 Microsoft는 해당 구독과 관련하여 고객에게 직접 연락하지는 않습니다.</span><span class="sxs-lookup"><span data-stu-id="982c4-109">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
 
-<span data-ttu-id="476c6-112">Microsoft와 이미 기존의 상업적 관계를 맺고 있는 고객의 경우, Microsoft는 CSP가 아닌 제품 및 서비스에 대해 해당 고객과 계속해서 직접 연락할 계획입니다.</span><span class="sxs-lookup"><span data-stu-id="476c6-112">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
+<span data-ttu-id="982c4-110">그러나 Microsoft는 고객 서비스 문제 또는 기타 작업 정보에 대해서는 고객과 직접 연락할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="982c4-110">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
+
+<span data-ttu-id="982c4-111">Microsoft와 이미 기존의 상업적 관계를 맺고 있는 고객의 경우, Microsoft는 CSP가 아닌 제품 및 서비스에 대해 해당 고객과 계속해서 직접 연락할 계획입니다.</span><span class="sxs-lookup"><span data-stu-id="982c4-111">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
 
  
 
