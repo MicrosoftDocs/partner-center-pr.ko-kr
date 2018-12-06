@@ -2,31 +2,32 @@
 title: Microsoft 클라우드 계약서 고객 템플릿은 | 파트너 센터
 ms.topic: article
 ms.date: 11/03/2018
-description: 찾기 및 고객과 함께 검토 하 고 Microsoft 클라우드 계약의 지역 및 언어 관련 버전을 다운로드 합니다.
+description: 찾기 및 고객 참여를 검토 하 고 Microsoft 클라우드 계약 지역 및 언어 관련 버전을 다운로드 합니다.
 author: Maggie Evans
+ms.author: evensma
 keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북미 지역, CSP 중앙 아메리카, CSP 남미, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft 클라우드 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 670c3657b3865eac97eff4b07b1a333d119b382e
-ms.sourcegitcommit: deea6667687f1c15b1f56ae71c0600533ad63c77
+ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "6715284"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776537"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>지역 및 언어에 따라 Microsoft 클라우드 계약
+# <a name="microsoft-cloud-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 클라우드 계약
 
 **적용 대상**
 
 - CSP 파트너
 
-고객 대신 하 여 주문을 넣으면 전에 고객 수락 하 고 Microsoft 클라우드 계약서에 서명 해야 합니다.
+고객 대신 하 여 주문을 넣으면 전에 고객을 수락 하 고 Microsoft 클라우드 계약서에 서명 해야 합니다.
 
 >[!IMPORTANT]
 > 2018 년 11 월 7부터 고객이 서명한 사람에 대 한 정보를 제공 하 여 Microsoft 클라우드 계약서를 수락한 있는지 확인 해야 합니다. 자세한 내용은 [Microsoft 클라우드 계약 고객의 동의 확인](confirm-consent.md) 을 참조 하세요.
 
 Microsoft 클라우드 계약은 지역별 및 여러 언어에서 사용할 수 있습니다. 올바른 계약을 다운로드 하려면 아래 목록 중 하나에서 고객의 위치 및 기본 설정된 언어를 찾습니다.
 
-지역 및 지역/국가에 판매할 수 있는이 목록에 회사의 위치를 찾으려면 확실 하지 않은 경우: [클라우드 솔루션 공급자 프로그램에 대 한 지역 시장 및 통화](regional-authorization-overview.md)입니다.
+지역 및 지역/국가에 판매할 수 있는이 목록에 회사의 위치를 찾으려면 확실 하지 않은 경우: [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)입니다.
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -119,9 +120,9 @@ Microsoft 클라우드 계약은 지역별 및 여러 언어에서 사용할 수
 - 조지아: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 독일: [영어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [독일어](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    독일에서는 범죄자 코드 (섹션 203) 및 사항 전문 코드가 필요 특정 클라이언트 관계가 예, 환자의 의료 해당 의사 간의 관계 및 간의 관계에 대 한 기밀을 유지 하 변호사와 해당 클라이언트입니다. 이러한 해당 그룹 전문 비밀 확인 해야 합니다. 이러한 및 클라우드 솔루션 공급자에서 클라우드 기반 서비스를 구입 하려면 다른 직업에 대 한 클라우드 서비스 공급자 전문 완전 보안을 보장 하는 고객과 서 면된 계약을 종료 해야 합니다.
+    독일에서는 범죄자 코드 (섹션 203) 및 사항 전문 코드가 필요 특정 클라이언트 관계가 예: 환자의 의료 해당 의사 간의 관계와의 관계에 대 한 기밀을 유지 하 변호사와 해당 클라이언트입니다. 이러한 해당 그룹 전문 비밀 확인 해야 합니다. 이 되며 다른 직업 클라우드 솔루션 공급자의 클라우드 기반 서비스를 구입에 대 한 클라우드 서비스 공급자 전문 완전 보안을 보장 하는 고객과 서 면된 계약을 종료 해야 합니다.
 
-    독일에서 사업 전문 비밀 개정안 Microsoft 클라우드 계약 외에도 있는 고객에 게 제공 해야 합니다.
+    독일에서 사업 전문 비밀 개정안 Microsoft 클라우드 계약 외에 있는 고객에 게 제공 해야 합니다.
 
     - [Microsoft 클라우드 독일 (EN) 계약 전문 비밀 개정안](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 

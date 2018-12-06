@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795716"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776477"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -32,7 +32,7 @@ Microsoft의 파트너 프로그램은 비즈니스 목표 달성을 도와주�
 
   - 골드 역량 - 특정 Microsoft 솔루션 영역 내에서 최고의 능력
 
-Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. Microsoft 파트너 네트워크의 멤버십에 대 한 자세한 정보로 이동 [https://partner.microsoft.com](https://partner.microsoft.com).
+Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. 로 Microsoft 파트너 네트워크의 멤버십에에서 대 한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입
@@ -55,7 +55,7 @@ Microsoft Action Pack에 대 한 자세한 정보를 보려면 [https://partner.
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack 구독
 
-1. **파트너 센터** 메뉴에서 선택 **파트너십 > 제품**. **사용 가능한 제품** 아래에 Microsoft Action Pack이 나열됩니다. **지금 구독**을 선택합니다. 
+1. **파트너 센터** 메뉴에서 선택 **파트너십 > 제품**합니다. **사용 가능한 제품** 아래에 Microsoft Action Pack이 나열됩니다. **지금 구독**을 선택합니다. 
 
 2. **다음**을 선택하여 Microsoft 파트너 네트워크에서 부여한 내부 사용 권한의 [약관](https://go.microsoft.com/fwlink/?linkid=842232)에 동의합니다.  
 
@@ -73,19 +73,19 @@ Microsoft Action Pack에 대 한 자세한 정보를 보려면 [https://partner.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack 구독 자동 갱신 끄기
 
-1. **파트너 센터** 메뉴에서 선택 **파트너십 > 제품**. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
+1. **파트너 센터** 메뉴에서 선택 **파트너십 > 제품**합니다. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
 
 2. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
 
 3. 매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다. 
 
-   > [!NOTE]  
+> [!NOTE]  
 > 구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다. 구독이 만료되기 전에 갱신하라고 알려 드립니다.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack 구독 갱신
 
-1. **파트너 센터** 메뉴에서 선택 **파트너십 > 제품**. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
+1. **파트너 센터** 메뉴에서 선택 **파트너십 > 제품**합니다. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
 
 2. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 본 후 **작업** 아래에서 **구독 갱신**을 선택합니다.  
 

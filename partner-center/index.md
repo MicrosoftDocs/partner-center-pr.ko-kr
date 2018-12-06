@@ -5,15 +5,16 @@ title: 파트너 센터에 대 한 도움말 여기에서 시작
 ms.topic: landing-page
 ms.date: 10/29/2018
 description: 계정 설정, 고객과의 연락 또는 Action Pack 구매에 대한 도움이 필요하세요? 이 파트너 센터에서 답 CSP 및 MPN 프로그램의 파트너를 위해 특별히 만든 라이브러리를 찾습니다. 
-author: v-chmccl
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795916"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776527"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>파트너 센터에 대 한 도움말 여기에서 시작
 

@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5211d68b79a1a67cd17c8974edd360999c10fb8d
-ms.sourcegitcommit: 6b781672d91f7ede942a9044a41e785dcf63f807
+ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "5962396"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776547"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -20,11 +20,11 @@ ms.locfileid: "5962396"
 
 -  파트너 센터
 
-고객의 서비스 또는 대신 하 여 구독을 관리 하려는 경우 해당 서비스 또는 구독에 대 한 관리자 권한을 고객에 부여 해야 합니다. 아래 절차 메일로이 권한을 요청 하는 방법을 보여 줍니다. 고객이 요청을 승인한 후에 서비스의 관리 포털 로그인 하 고객 대신 서비스를 관리할 수 있게 됩니다. 
+고객의 서비스 또는 대신 하 여 구독을 관리 하려면 해당 서비스 또는 구독에 대 한 관리자 권한을 고객에 부여 해야 합니다. 다음 절차에 전자 메일로이 권한을 요청 하는 방법을 보여 줍니다. 고객이 요청을 승인하면 해당 서비스의 관리 포털에 로그인하여 고객 대신 서비스를 관리할 수 있습니다.
 
-만 고객과 재판매인 관계를 설정 하 고 프로 비전 하는 CSP의 Azure 구독을 관리 하려는 경우 관리자 권한을 얻으려면 필요는 없습니다.
+고객과 재판매인 관계를 설정 하 고 Azure 구독 프로 비전 하는 관리 하려는 경우 관리자 권한을 얻으려면 필요는 없습니다.
 
-Note 하지 권한을 요청 하는 옵션을 미국 정부용 Microsoft 클라우드 독일의 Microsoft 클라우드를 운영 하는 파트너에 게 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)참조 하세요.
+Note 하지 권한을 요청 하는 옵션을 미국 정부 또는 Microsoft 클라우드 독일에 대 한 Microsoft 클라우드를 운영 하는 파트너에 게 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)참조 하세요.
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
@@ -46,19 +46,20 @@ Note 하지 권한을 요청 하는 옵션을 미국 정부용 Microsoft 클라�
 
 
 > [!IMPORTANT]  
-> 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 요청하면 파트너는 고객 대신 Microsoft 지원 센터로 전화를 걸어 서비스 요청을 열 수 있습니다.
+> 고객에 게 다시 할당 하거나 서비스의 관리 포털에서 관리자 권한을 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 요청하면 파트너는 고객 대신 Microsoft 지원 센터로 전화를 걸어 서비스 요청을 열 수 있습니다.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>고객이 초대 경험 변경 내용
-클라우드 솔루션 공급자 파트너 로부터 재판매인 관계 요청을 수락 하는 것에 대 한 고객 경험 2018 년 11 월 1 일 변경 됩니다. 변경 내용은 아래 표를 참조 하세요. 비즈니스용 Microsoft 스토어에서 새로운 경험에 대 한 세부 정보를 [비즈니스용 Microsoft 스토어의 솔루션 공급자를 사용 하 여 작업](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)을 참조 하세요.
 
-|  | 고객이 2018 년 11 월 1 일 전에 생성 하는 재판매인 초대를 수락 하는 위치 | 고객이 2018 년 11 월 1 일 전에 생성 하는 재판매인 초대를 수락 하는 위치 |
+클라우드 솔루션 공급자 파트너 로부터 재판매인 관계 요청을 수락 하는 것에 대 한 고객 만족도 2018 년 11 월 1 일 변경 됩니다. 변경 내용은 아래 표를 참조 하세요. 비즈니스용 Microsoft 스토어에서 새로운 경험에 대 한 세부 정보를 [비즈니스용 Microsoft 스토어의 솔루션 공급자를 사용 하 여 작업](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)을 참조 하세요.
+
+|  | 고객 들이 곧 발송 2018 년 11 월 1 일 전에 재판매인 초대를 수락 하는 위치 | 고객 들이 곧 발송 2018 년 11 월 1 일, 재판매인 초대를 수락 하는 위치 |
 |---------|---------|---------
 | 공용 클라우드 내에 고객 | Microsoft Office 관리자 포털 | 비즈니스용 Microsoft Store |
 | Microsoft 파트너 센터에서 고객에 게 독일 클라우드 | Microsoft Office 관리자 포털 | Microsoft Office 관리자 포털 |
 | 미국 정부용 Microsoft 클라우드 파트너 센터의 고객 | Microsoft Office 관리자 포털 | Microsoft Office 관리자 포털 |
+|
 
+## <a name="see-also"></a>참고 항목
 
-## <a name="related-topics"></a>관련 항목
-
-[지원 연락처 할당](assign-support-contacts.md)
-[고객과의 관계 제거](remove-a-relationship.md)
+- [지원 담당자 할당](assign-support-contacts.md)
+- [재판매인 또는 고객과의 관계 제거](remove-a-relationship.md)

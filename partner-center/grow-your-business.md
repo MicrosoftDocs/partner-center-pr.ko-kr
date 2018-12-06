@@ -7,27 +7,27 @@ keywords: 추천, 추천에 응답, 잠재 고객, 영업 잠재 고객, 마케�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fa537dbb170412385080b17cf3a52e8a7a784ea
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796426"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776487"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft 파트너 비즈니스 성장 
 
-Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제공합니다. 이 Microsoft 파트너 센터 사이트에서 새로운 고객을 모집하고 더 많은 수익을 얻도록 돕는 방법에 대해 알아봅니다. 
+Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제공합니다. 알아봅니다 어떻게이 사이트를 Microsoft 파트너 센터에서 새 고객을 유치 하 고 더 많은 수익을 확보할 수 있습니다.
 
 파트너 센터 활용 방안:
 
--   잠재 고객 가져오기(모든 파트너)
--   회사를 실버 또는 골드 파트너 상태로 설정(모든 파트너)
--   Microsoft 제품에 대한 평가판 구독 제공(CSP 파트너)
--   Microsoft 제품에 프로모션 가격 제공(CSP 파트너)
--   추가 시장에서 판매(CSP 파트너)
+- 잠재 고객 가져오기(모든 파트너)
+- 회사를 실버 또는 골드 파트너 상태로 설정(모든 파트너)
+- Microsoft 제품에 대한 평가판 구독 제공(CSP 파트너)
+- Microsoft 제품에 프로모션 가격 제공(CSP 파트너)
+- 추가 시장에서 판매(CSP 파트너)
 
 > [!NOTE]  
->  회사는 Microsoft 파트너 네트워크에 등록 하 고 이러한 기능을 활용 하려면 파트너 센터 계정이 있어야 합니다. 네트워크에 가입하는 것에 대한 내용은 [Microsoft 파트너 네트워크 가입](mpn-overview.md)을 참조하세요. 일부 기능의 경우 클라우드 솔루션 공급자(CSP) 프로그램에서 재판매인이어야 합니다. 이 프로그램을 통한 판매에 대한 내용은 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.
+> 회사는 Microsoft 파트너 네트워크에 등록 하 고 이러한 기능을 활용 하려면 파트너 센터 계정이 있어야 합니다. 네트워크에 가입하는 것에 대한 내용은 [Microsoft 파트너 네트워크 가입](mpn-overview.md)을 참조하세요. 일부 기능의 경우 클라우드 솔루션 공급자(CSP) 프로그램에서 재판매인이어야 합니다. 이 프로그램을 통한 판매에 대한 내용은 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.
 
 ## <a name="resources-to-help-your-business-grow"></a>비즈니스가 성장하는 데 도움이 되는 리소스
 
@@ -40,9 +40,5 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 | 추가 시장에서 판매 | 클라우드 솔루션 공급자 판매 채널은 여러 국가 및 지역에서 사용할 수 있습니다. 목록을 검토하려면 [클라우드 솔루션 공급자 시장](agreements.md)을 참조하세요. 클라우드 솔루션 공급자 채널에 대한 소개는 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.  | CSP 파트너 |
 비영리 조직 및 교육와 같은 특수 산업을 대상으로 판매|[특수 산업을 대상으로 판매](get-special-pricing-for-offers.md)|CSP 파트너|
 |게임이 협동 인센티브 프로그램에서 사용할 수 있는 많은 활동을 통해 비즈니스를 성장 합니다. 파트너 센터를 통해 활동에 대 한 클레임 파일.| [인센티브 클레임 생성 및 관리](create-incentives-claims.md)|CSP 파트너|
-|이미 판매 하는 Microsoft 소프트웨어와 함께 작동 하는 타사 제품을 포함 하 여 소프트웨어의 새 번들을 빌드|[타사 제품 검색](third-party-offers.md)|CSP 파트너|
-
-## <a name="see-also"></a>참고 항목
-
-새 Microsoft 파트너이거나 또는 이 문서의 용어에 친숙하지 않은 경우 [Microsoft 파트너 네트워크](https://partner.microsoft.com) 사이트 및 [파트너 센터 홈 페이지](https://partnercenter.microsoft.com/partner/home).
-
+|이미 판매 하는 Microsoft 소프트웨어와 함께 작동 하는 타사 제품을 포함 하 여 소프트웨어의 새 번들 빌드|[타사 제품 검색](third-party-offers.md)|CSP 파트너|
+|
