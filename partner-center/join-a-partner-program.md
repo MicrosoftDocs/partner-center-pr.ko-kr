@@ -1,63 +1,78 @@
 ---
 title: Microsoft 파트너 네트워크 가입 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: 파트너 센터에서 Microsoft Action Pack을 구입하고 역량 획득
-author: labrenne
-ms.author: labrenne
+author: maggiepuccievans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796996"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776447"
 ---
-# <a name="join-the-microsoft-partner-network-mpn"></a><span data-ttu-id="6a06e-103">Microsoft 파트너 네트워크 가입(MPN)</span><span class="sxs-lookup"><span data-stu-id="6a06e-103">Join the Microsoft Partner Network (MPN)</span></span>
+<!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
+-->
 
-**<span data-ttu-id="6a06e-104">적용 대상</span><span class="sxs-lookup"><span data-stu-id="6a06e-104">Applies to</span></span>**
+# <a name="partner-with-microsoft"></a><span data-ttu-id="f4520-103">Microsoft와 파트너 되기</span><span class="sxs-lookup"><span data-stu-id="f4520-103">Partner with Microsoft</span></span>
 
--  <span data-ttu-id="6a06e-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="6a06e-105">Partner Center</span></span>
--  <span data-ttu-id="6a06e-106">Microsoft 파트너 네트워크</span><span class="sxs-lookup"><span data-stu-id="6a06e-106">Microsoft Partner Network</span></span>
+<span data-ttu-id="f4520-104">Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-104">When you join a Microsoft partner program, you become part of a global community that connects you to the relationships, insights, tools, resources, and programs you need to amaze your customers and drive business growth.</span></span>
 
-## <a name="new-to-the-partner-center"></a><span data-ttu-id="6a06e-107">파트너 센터의 새로운</span><span class="sxs-lookup"><span data-stu-id="6a06e-107">New to the Partner Center</span></span>
+<span data-ttu-id="f4520-105">Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하는 이유](https://partner.microsoft.com/business-opportunities/why-microsoft)를 참조하십시오.</span><span class="sxs-lookup"><span data-stu-id="f4520-105">See [Why Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft) for more information about the benefits of partnering with Microsoft.</span></span> 
 
- <span data-ttu-id="6a06e-108">Microsoft와 협력하면 비즈니스를 혁신할 새로운 기회에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-108">Partnering with Microsoft gives you access to new opportunities to transform your business.</span></span> <span data-ttu-id="6a06e-109">파트너 센터에서 구입 하는 Microsoft Action Pack 갱신 및 역량 정보와를 달성 하는 방법에 대 한 정보에 쉽게 액세스할 수 있는 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-109">On the Partner Center you can purchase and renew the Microsoft Action Pack and you have easy access to information about competencies and how to achieve them.</span></span>
+## <a name="join-the-microsoft-partner-network"></a><span data-ttu-id="f4520-106">Microsoft 파트너 네트워크 가입</span><span class="sxs-lookup"><span data-stu-id="f4520-106">Join the Microsoft Partner Network</span></span>
 
- <span data-ttu-id="6a06e-110">파트너는 MAPS 또는 역량 파트너 센터에서 멤버십을 관리할 수 있도록 점차 고에서는 주요 파트너 센터 기능을 사용할 수 있고 그들의 비즈니스 요구를 충족 하도록 검증 된 경우 뿐만 아니라 1 주년 날짜입니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-110">We're gradually inviting partners to manage their membership in the Partner Center at their MAPS or Competency anniversary date, as well as when key Partner Center capabilities are available and proven to meet the needs of their business.</span></span>  <span data-ttu-id="6a06e-111">지금은 새로운 전환으로의 초대를 받기 전까지 Partner Membership Center(PMC)에서 멤버십 갱신을 계획하고 관리하세요.</span><span class="sxs-lookup"><span data-stu-id="6a06e-111">For now, plan to renew and manage your membership in Partner Membership Center (PMC) until you receive an invitation to move.</span></span>
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-## <a name="get-your-mpn-id"></a><span data-ttu-id="6a06e-112">MPN ID 받기</span><span class="sxs-lookup"><span data-stu-id="6a06e-112">Get your MPN ID</span></span>
+<span data-ttu-id="f4520-107">회사의 차별화 하 옵션 하면 광범위 한 제품 프로그램 뿐만 아니라 업계에 Microsoft 파트너 네트워크 제공 지역/국가 이동한 솔루션을 판매 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-107">The Microsoft Partner Network gives you the widest range of products in the industry as well as program options to differentiate your business, go to market, and sell your solutions.</span></span> <span data-ttu-id="f4520-108">비용 없이 가입한 다음 Microsoft action pack, 시작 키트 또는 역량와의 파트너 관계에 투자 하는 방법을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-108">Join at no cost, then choose how to invest in your partnership with a Microsoft action pack, starter kit, or competency.</span></span>
 
-<span data-ttu-id="6a06e-113">Microsoft 파트너로서 비즈니스를 수행하려면 MPN ID 번호가 필요합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-113">To do business as a Microsoft partner, you need an MPN ID number.</span></span> <span data-ttu-id="6a06e-114">이는 이전에 공식적으로 Microsoft 파트너 네트워크에서 Microsoft 파트너로 등록한 적이 있음을 나타냅니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-114">This indicates that you have formally enrolled with Microsoft in the Microsoft Partner Network.</span></span> <span data-ttu-id="6a06e-115">또한 클라우드 솔루션 공급자 프로그램 및 기타 파트너 프로그램에 등록하기 위해 MPN ID를 사용합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-115">Also, you use your MPN ID to enroll in the Cloud Solution Provider program and other partner programs as well.</span></span>  
+<span data-ttu-id="f4520-109">Action pack 또는 시작 키트는 소프트웨어 및 지원 Microsoft 기반 솔루션을 빌드할 수 하며 역량 고객 및 다른 파트너에 게 검증 된 전문 지식을 보여 줍니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-109">An action pack or starter kit provides software and support to build Microsoft-based solutions and a competency demonstrates your proven expertise to customers and other partners.</span></span>
 
-## <a name="become-a-microsoft-partner"></a><span data-ttu-id="6a06e-116">Microsoft 파트너 되기</span><span class="sxs-lookup"><span data-stu-id="6a06e-116">Become a Microsoft partner</span></span>
+<span data-ttu-id="f4520-110">Microsoft 파트너 네트워크 (MPN)에 대 한 자세한 내용은 [MPN 웹 사이트](https://partner.microsoft.com/commercial)를 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="f4520-110">For more information about the Microsoft Partner Network (MPN), visit the [MPN website](https://partner.microsoft.com/commercial).</span></span>
 
-1.  <span data-ttu-id="6a06e-117">[Microsoft 파트너 네트워크](https://partner.microsoft.com/en-us/membership) 사이트에서 **멤버십** 탭에 있는 **등록**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-117">On the [Microsoft Partner Network](https://partner.microsoft.com/en-us/membership) site, on the **Membership** tab, select **Enroll**.</span></span> 
+### <a name="how-to-join"></a><span data-ttu-id="f4520-111">가입 하는 방법</span><span class="sxs-lookup"><span data-stu-id="f4520-111">How to join</span></span>
 
-2.  <span data-ttu-id="6a06e-118">새 조직으로 등록하거나 기존 조직에 가입합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-118">Enroll either as a new organization or join an existing organization.</span></span>
+<span data-ttu-id="f4520-112">Microsoft 파트너 네트워크에 가입 하려면 MPN 웹 사이트에서 [ **멤버십** 페이지](https://partner.microsoft.com/membership) 를 방문 하 고 **등록** 또는 **지금 가입**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-112">To join the Microsoft Partner Network, go to the [**Membership** page](https://partner.microsoft.com/membership) on the MPN website and select **Enroll** or **Join now**.</span></span>
 
-3.  <span data-ttu-id="6a06e-119">새로운 조직으로 등록하려면 조직과 조직의 비즈니스 유형에 대해 요청하는 양식을 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-119">As a new organization, fill out the form that will ask you about your organization and the type of business you do.</span></span>
+## <a name="microsoft-partner-network-membership-types"></a><span data-ttu-id="f4520-113">Microsoft 파트너 네트워크 멤버십 유형</span><span class="sxs-lookup"><span data-stu-id="f4520-113">Microsoft Partner Network membership types</span></span>
 
-4.  <span data-ttu-id="6a06e-120">기존 조직을 통해 등록하는 경우 조직의 이름 및 주소를 입력해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-120">If you are enrolling through an existing organization, you will be asked for the name and address of the organization.</span></span>
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-> [!NOTE]  
->  <span data-ttu-id="6a06e-121">판매할 각각의 위치에 있는 조직의 본사의 주소를 제공해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-121">You will need to provide the address for your organization's headquarters for each location where you sell.</span></span>
+<span data-ttu-id="f4520-114">Microsoft 파트너 네트워크는 아래 설명 된 대로 세 가지 유형의 구성원을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-114">The Microsoft Partner Network provides three types of memberships, as described below.</span></span> <span data-ttu-id="f4520-115">각 유형은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-115">Each type provides a set of benefits to help your business grow.</span></span> <span data-ttu-id="f4520-116">목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.</span><span class="sxs-lookup"><span data-stu-id="f4520-116">As you achieve your goals, participate in the program at the level that suits your unique needs to access more benefits and develop your relationship with us and other partners in the network.</span></span>
 
-<span data-ttu-id="6a06e-122">네트워크 회원으로 무료로 제공되는 이 기본 수준에 참여하면 비즈니스를 구축하고 다음 단계로 나아가는 데 도움이 되는 일련의 [핵심 내부용 권리 혜택](https://partner.microsoft.com/membership/core-benefits)을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-122">As a Network member at this no-cost, basic level, you receive a set of [core internal-use rights benefits](https://partner.microsoft.com/membership/core-benefits) to help you build your business and take the next step.</span></span> 
+### <a name="action-pack"></a><span data-ttu-id="f4520-117">Action Pack</span><span class="sxs-lookup"><span data-stu-id="f4520-117">Action Pack</span></span>
 
-### <a name="add-additional-benefits-to-your-business"></a><span data-ttu-id="6a06e-123">비즈니스에 추가 혜택을 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-123">Add additional benefits to your business:</span></span> 
+<span data-ttu-id="f4520-118">Action Pack 소프트웨어, 지원 및 혜택을 시작 하려는 기업을 위해 빌드 및 클라우드 중심, 모바일 중심 세상에서 Microsoft 영업을 확장을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-118">Action Pack offers software, support, and benefits for businesses that want to begin, build, and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span> 
 
-<span data-ttu-id="6a06e-124">**Action Pack**.</span><span class="sxs-lookup"><span data-stu-id="6a06e-124">**Action Pack**.</span></span> <span data-ttu-id="6a06e-125">이 경제적인 연간 구독을 구매하면 개발자 도구, 지원, 교육 및 소프트웨어를 포함한 추가 혜택을 이용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-125">Purchase this affordable yearly subscription, for additional benefits, including access to developer tools, support, training, and software.</span></span>
+<span data-ttu-id="f4520-119">Action Pack에 대 한 자세한 내용은 다음 리소스를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-119">Review the resources below to learn more about Action Pack:</span></span>
 
-<span data-ttu-id="6a06e-126">**역량**.</span><span class="sxs-lookup"><span data-stu-id="6a06e-126">**Competency**.</span></span> <span data-ttu-id="6a06e-127">하나 이상의 전문 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요.</span><span class="sxs-lookup"><span data-stu-id="6a06e-127">Demonstrate your proven expertise in delivering quality solutions in one or more specialized areas of business.</span></span> <span data-ttu-id="6a06e-128">Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-128">Microsoft competencies are designed to prepare you to meet your customers’ needs, and to help you attract new customers who are looking for Microsoft-certified solution providers.</span></span> 
+- [<span data-ttu-id="f4520-120">앞으로 Microsoft Action Pack을 사용 하 여 클라우드 비즈니스를 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-120">Move your cloud business forward with Microsoft Action Pack</span></span>](https://partner.microsoft.com/membership/action-pack)
+- [<span data-ttu-id="f4520-121">Action Pack 얻기</span><span class="sxs-lookup"><span data-stu-id="f4520-121">Get the Action Pack</span></span>](mpn-get-action-pack.md)
+  
+    >[!IMPORTANT]
+    ><span data-ttu-id="f4520-122">현재 시점과 Action Pack 구독 관리 Partner Membership Center (PMC)에서 파트너 센터로입니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-122">We are moving Action Pack subscription management from Partner Membership Center (PMC) to Partner Center.</span></span> <span data-ttu-id="f4520-123">향후 몇 개월 동안이 이동이 수행 됩니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-123">This move will take place over the next several months.</span></span> <span data-ttu-id="f4520-124">[Action Pack 얻기](mpn-get-action-pack.md) 정보 주의 깊게 검토 하세요 방법 및 위치를 알 수 있도록 갱신 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-124">Please review the information in [Get the Action Pack](mpn-get-action-pack.md) carefully so that you know how and where to renew.</span></span>  
 
-- <span data-ttu-id="6a06e-129">실버 멤버십을 획득하면 일관된 역량, 전문 지식 및 노력을 입증할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-129">Earn Silver membership to demonstrate your consistent capability, expertise, and commitment</span></span>
-- <span data-ttu-id="6a06e-130">골드 멤버십을 획득하면 특정 Microsoft 솔루션 영역 내에서 동급 최고의 역량을 입증할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="6a06e-130">Earn Gold membership to demonstrate your best-in-class capability within a specific Microsoft solution area</span></span>
+- [<span data-ttu-id="f4520-125">MPN 혜택 갱신</span><span class="sxs-lookup"><span data-stu-id="f4520-125">Renew your MPN offers</span></span>](renew-mpn-offers.md)
 
-|**<span data-ttu-id="6a06e-131">수행할 작업</span><span class="sxs-lookup"><span data-stu-id="6a06e-131">To do this</span></span>**   |**<span data-ttu-id="6a06e-132">이 글 읽기</span><span class="sxs-lookup"><span data-stu-id="6a06e-132">Read this</span></span>**   |
-|------------------|:---------------|
-|<span data-ttu-id="6a06e-133">Microsoft 파트너 되기</span><span class="sxs-lookup"><span data-stu-id="6a06e-133">Become a Microsoft Partner</span></span>|[<span data-ttu-id="6a06e-134">멤버십: 적용 방식</span><span class="sxs-lookup"><span data-stu-id="6a06e-134">Membership: How it works</span></span>](https://partner.microsoft.com/membership/how-it-works)|
-<span data-ttu-id="6a06e-135">파트너 센터에서 Microsoft 파트너 네트워크 멤버십 관리</span><span class="sxs-lookup"><span data-stu-id="6a06e-135">Manage your Microsoft Partner Network membership on the Partner Center</span></span>   |[<span data-ttu-id="6a06e-136">Microsoft 파트너 네트워크 멤버십 관리</span><span class="sxs-lookup"><span data-stu-id="6a06e-136">Manage your Microsoft Partner Network membership</span></span>](mpn-overview.md)
-|<span data-ttu-id="6a06e-137">Action Pack 구입</span><span class="sxs-lookup"><span data-stu-id="6a06e-137">Purchase the Action Pack</span></span>   |[<span data-ttu-id="6a06e-138">Microsoft Action Pack 구입 또는 갱신</span><span class="sxs-lookup"><span data-stu-id="6a06e-138">Purchase or renew the Microsoft Action Pack</span></span>](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
-|<span data-ttu-id="6a06e-139">실버 또는 골드 역량 획득</span><span class="sxs-lookup"><span data-stu-id="6a06e-139">Earn silver or gold competencies</span></span>   |[<span data-ttu-id="6a06e-140">실버 및 골드 멤버십을 위한 역량 요구 사항</span><span class="sxs-lookup"><span data-stu-id="6a06e-140">Competency requirements for silver and gold membership</span></span>](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
-|<span data-ttu-id="6a06e-141">클라우드 솔루션 공급자 프로그램에 가입하는 것을 고려하세요</span><span class="sxs-lookup"><span data-stu-id="6a06e-141">Consider joining the Cloud Solution Provider program</span></span>|[<span data-ttu-id="6a06e-142">클라우드 솔루션 공급자 - 주문형 클라우드 솔루션 판매</span><span class="sxs-lookup"><span data-stu-id="6a06e-142">Cloud Solution Provider - selling in-demand cloud solutions</span></span>](csp-overview.md)|
+### <a name="competencies"></a><span data-ttu-id="f4520-126">역량</span><span class="sxs-lookup"><span data-stu-id="f4520-126">Competencies</span></span>
+
+<span data-ttu-id="f4520-127">특수 한 비즈니스 영역에 고품질 솔루션 제공 검증 된 전문 지식을 보여 주세요.</span><span class="sxs-lookup"><span data-stu-id="f4520-127">Demonstrate your proven expertise in delivering quality solutions in a specialized area of business.</span></span> <span data-ttu-id="f4520-128">Microsoft 역량은 현재 고객의 요구 사항을 충족 하 고 잠재 알릴 수 있도록 설계 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-128">Microsoft competencies are designed to meet your current customers’ needs and be recognizable to prospective ones.</span></span> <span data-ttu-id="f4520-129">Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.</span><span class="sxs-lookup"><span data-stu-id="f4520-129">Join the elite tier of Microsoft partners and stand out from your peers.</span></span>
+
+<span data-ttu-id="f4520-130">역량 획득에 대해 자세히 알아보려면 아래 리소스를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-130">Review the resources below to learn more about competencies:</span></span>
+
+- [<span data-ttu-id="f4520-131">역량 파트너</span><span class="sxs-lookup"><span data-stu-id="f4520-131">Competency partners</span></span>](https://partner.microsoft.com/membership/competencies)
+
+## <a name="microsoft-partner-network-benefits-and-requirements"></a><span data-ttu-id="f4520-132">Microsoft 파트너 네트워크 혜택 및 요구 사항</span><span class="sxs-lookup"><span data-stu-id="f4520-132">Microsoft Partner Network benefits and requirements</span></span>
+
+<span data-ttu-id="f4520-133">Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 수 있는 일련의 핵심 혜택이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-133">When you join the Microsoft Partner Network, you receive a set of core benefits that can help you save time and money while you strengthen your capabilities, better serve customers, and build connections to reach your full business potential.</span></span>
+
+<span data-ttu-id="f4520-134">네트워크 혜택 및 요구 사항에 대해 자세히 알아보려면 아래 리소스를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="f4520-134">Review the resources below to learn more about network benefits and requirements:</span></span>
+
+- [<span data-ttu-id="f4520-135">핵심 혜택</span><span class="sxs-lookup"><span data-stu-id="f4520-135">Core benefits</span></span>](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [<span data-ttu-id="f4520-136">파트너 센터에서 MPN 혜택 관리</span><span class="sxs-lookup"><span data-stu-id="f4520-136">Manage your MPN benefits on Partner Center</span></span>](manage-your-partner-network-benefits.md)
+- [<span data-ttu-id="f4520-137">핵심 요구 사항</span><span class="sxs-lookup"><span data-stu-id="f4520-137">Core requirements</span></span>](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+
+## <a name="see-also"></a><span data-ttu-id="f4520-138">참고 항목</span><span class="sxs-lookup"><span data-stu-id="f4520-138">See also</span></span>
+- [<span data-ttu-id="f4520-139">Microsoft 파트너 비즈니스 성장</span><span class="sxs-lookup"><span data-stu-id="f4520-139">Grow your Microsoft partner business</span></span>](grow-your-business.md)
