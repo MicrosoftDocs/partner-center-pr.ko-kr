@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 국가별 클라우드, Microsoft 클라우드 독일, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 중국
 ms.localizationpriority: medium
-ms.openlocfilehash: cf2d126fa7d9c5e62313309b8ff89c7abaa2887b
-ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
+ms.openlocfilehash: 851b8695b6cb409ef9f70f8b2acf2504bc7b16f5
+ms.sourcegitcommit: 13a9a1cb7c810479998353d969bc15e0654d8ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2018
-ms.locfileid: "7460920"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8962375"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft 국가별 클라우드 판매에 적용
 
@@ -36,9 +36,10 @@ Microsoft는 다음 서비스를 국가별 클라우드에서 제공합니다.
 
 -   [**Microsoft 클라우드 독일**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft 클라우드 독일은 독일 데이터 센터에서 고유한 모델로 Azure, Office 365, Dynamics 365를 제공합니다. 이 모델에서 고객 데이터에 대한 액세스는 독일 법률에 따라 운영되는 독립 독일 데이터 수탁자에 의해 제어됩니다. Deutsche Telecom의 자회사인 TT-Systems International GmbH는 Microsoft 클라우드 독일의 독립 데이터 수탁자 역할을 합니다. 
 
-    >[!IMPORTANT] 고객의 요구의 발전 단계에 따라, 독일 클라우드 전략에 중점을 둡니다 영역의 새 클라우드 독일의 우리의 글로벌 클라우드과 일치 하는 배달 제공 합니다. 이 포커스를 사용 하 여에서는 더 이상 새 고객을 수락 되거나 될 현재 사용 가능한 Microsoft 클라우드 독일에서 모든 새 서비스 배포 합니다. 기존 고객 계속 현재 클라우드 서비스를 현재 사용할 수 있는 필요한 보안 업데이트와 유지는 사용할 수 있습니다.
-
-    >앞으로 이동, 새 고객은 사용할 수 있을 때 현재 사용 가능한 유럽 지역 또는 독일의 새 영역을 사용 하 여 옵션입니다. 자세한 내용은 [독일의 새로운 데이터 센터의 클라우드 서비스를 제공 하는 Microsoft](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)를 참조 하세요.
+    > [!IMPORTANT]  
+    > 고객의 요구의 발전 단계에 따라, 독일 클라우드 전략에 중점을 둡니다 체계는 글로벌 클라우드 독일의 새로운 클라우드 지역의 배포를 제공 합니다. 이 포커스를 사용 하 여는 더 이상 수 신규 고객을 수락 또는 현재 사용 가능한 Microsoft 클라우드 독일에서 새로운 모든 서비스를 배포 합니다. 기존 고객에 게 계속 현재 클라우드 서비스를 현재 사용할 수 있는 필요한 보안 업데이트를 사용 하 여 유지 하는 사용할 수 있습니다.
+    >  
+    > 새 고객에 사용할 수 있을 때 현재 사용 가능한 유럽 지역 또는 독일의 새 영역을 사용 하는 옵션은 등 있습니다. 자세한 내용은 [독일의 새로운 데이터 센터의 클라우드 서비스를 제공 하는 Microsoft](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)를 참조 하세요.
 
     
 -   [**중국의 21Vianet에서 운영하는 Azure 및 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft는 Beijing 21Vianet Broadband Data Center Co., Ltd.의 완전 출자 자회사인 Shanghai Blue Cloud Technology Co., Ltd.(21Vianet)와의 고유한 파트너십을 통해 중국에 클라우드 서비스를 제공합니다. 21Vianet는 중국 내 데이터 센터, 호스팅, 관리되는 네트워크, 클라우드 컴퓨팅 인프라 서비스의 최대 통신사 중립 인터넷 공급자입니다. 
