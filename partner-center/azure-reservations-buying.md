@@ -2,17 +2,18 @@
 title: 고객을 대신하여 Microsoft Azure 예약 구입 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382949"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917555"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
@@ -43,7 +44,7 @@ ms.locfileid: "8382949"
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 예약 사용할 수 없는 지역/국가
 
 >[!IMPORTANT] 
->Azure 예약 *되지* 사용할 수 있는 다음 지역/국가에서.  
+>Azure 예약 *되지* 제공 다음 지역/국가.  
 >  
 > | 사용할 수 없는 지역/국가 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
@@ -90,7 +91,7 @@ ms.locfileid: "8382949"
 
 ## <a name="purchase-azure-reservations"></a>Azure 예약 구입
 
-파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약을 구입 하려면 다음 단계를 따릅니다.
+파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약을 구입 하려면 다음 단계를 수행 합니다.
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택 합니다.  
 
@@ -107,11 +108,11 @@ ms.locfileid: "8382949"
 4. Azure 예약을 위해서는 반드시 Azure 구독 상태여야 합니다. **고객 구독** 목록에서 Azure 예약을 추가 하려는 고객의 구독을 선택 합니다. 
 
    >[!IMPORTANT]
-   >고객이 Azure 구독 상태 없으면 하나를 추가 이제 **온라인 서비스** 선택 합니다. 
+   >고객이 Azure 구독 상태 없으면 지금 추가 **온라인 서비스** 선택 합니다. 
 
 5. 필터를 사용 하 여 고객의 요구 사항을 충족 하는 가상 컴퓨터에서 Azure 예약을 찾을 수 있습니다.  
 
-6. 구입, 예약 된 인스턴스의 수를 입력 하려면 reservation(s)를 찾은 후 고객 되며 **수량** 에 필요한 다음 **카트에 추가**선택 합니다.  
+6. 구입, 예약 된 인스턴스의 수를 입력 하려면 reservation(s)를 찾은 후 고객 되며 **수량에서** 필요한 다음 **카트에 추가**선택 합니다.  
 
 7. 필요한 모든 항목을 주문에 추가할 때까지 5단계와 6단계를 반복합니다. **검토**를 선택하여 주문이 올바른지 확인합니다.  
 
@@ -119,10 +120,10 @@ ms.locfileid: "8382949"
 
     - 예약 된 인스턴스 수량을 변경 또는 확인 합니다.
 
-    - 예약의 범위를 선택 합니다. 예약 범위는 단일 또는 다중 구독(공유 범위)을 지원할 수 있습니다. 단일 구독에 대 한 예약의 범위를 지정 하면 하는 경우에이 구독에 예약 할인이 적용 됩니다. 선택 하는 경우 공유, 고객의 청구 한 상황에서 모든 구독에 예약 할인이 적용 됩니다. 
+    - 예약의 범위를 선택 합니다. 예약 범위는 단일 또는 다중 구독(공유 범위)을 지원할 수 있습니다. 단일 구독에 대 한 예약의 범위를 지정 하면만이 구독에 예약 할인이 적용 됩니다. 선택 하는 경우 공유, 고객의 청구 한 상황에서 모든 구독에 예약 할인이 적용 됩니다. 
 
       >[!NOTE] 
-      >예약의 범위를 단일 Azure 구독을 제한 하기로 선택한 경우 구독의 vCPU 할당량을 강화 하기 위해 할 수도 있습니다. 구독의 vCPU 할당량을 향상 시키기 위해 Azure portal에서 지원 요청을 작성 해야 합니다. 수행 하는 지침에서은 [이 항목의](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 요청을 만듭니다.    
+      >예약 범위는 단일 Azure 구독을 제한 하기로 선택한 경우 구독의 vCPU 할당량 증가 해야 합니다. 구독의 vCPU 할당량을 강화 하기 위해 Azure portal에서 지원 요청을 작성 해야 합니다. 수행 하는 지침에서은 [이 항목의](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 요청을 만듭니다.    
 
     - 공급자 파트너 인 경우 제품을 사용 하 여 연결 하려는 재판매인을 선택 합니다.
 

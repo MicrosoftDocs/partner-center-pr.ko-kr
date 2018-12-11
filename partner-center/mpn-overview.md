@@ -2,17 +2,18 @@
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: Microsoft 파트너의 혜택에 대해 알아보세요.
+description: Microsoft 파트너의 혜택에 대해 알아보세요. 회사의 차별화 하 옵션 하면 광범위 한 제품 프로그램 뿐만 아니라 업계에 Microsoft 파트너 네트워크 제공 지역/국가 이동한 솔루션을 판매 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: medium
-ms.openlocfilehash: 06a8460e2703bffccd4a214fdd3256e859c31937
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.custom: seodec18
+ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776467"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917575"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 

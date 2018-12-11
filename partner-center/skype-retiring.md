@@ -2,17 +2,18 @@
 title: 비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-Description: Skype for Business Online Plan 1 subscriptions is retiring.
+Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
 author: labrenne
 ms.author: labrenne
 keywords: 비즈니스용 Skype 플랜, Skype 사용 중지, Office 365
 ms.localizationpriority: medium
-ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797166"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917625"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션
 
@@ -60,7 +61,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 이제 고객은 기존 구독과 새 구독, 다시 말해서 기존 비즈니스용 Skype Online 플랜 1 구독과 새로운 '대상' 구독(예: 옵션 1 - Office 365 Enterprise F1)을 모두 갖고 있습니다.
 
-3. **파트너 센터** 메뉴에서 고객의 사용자 라이선스를 할당 하는 **고객**을 선택, 선택한 **사용자 및 라이선스**이동 하려는 고객을 선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+3. **파트너 센터** 메뉴에서 고객의 사용자 라이선스를 할당 하는 **고객**을 선택, 이동, 하 고 **사용자 및 라이선스를**선택 하면 고객을 선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
 
 4. 사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
 

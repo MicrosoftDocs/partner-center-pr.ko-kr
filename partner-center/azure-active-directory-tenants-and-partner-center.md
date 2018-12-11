@@ -2,20 +2,21 @@
 title: 회사 계정 및 파트너 센터 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다.
+description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 경우 회사 계정이 이미 있습니다.
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796396"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917525"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>조직의 회사 계정 및 파트너 센터  
+# <a name="your-company-work-account-and-partner-center"></a>조직의 회사 계정 및 파트너 센터  
 
 **적용 대상**
 
@@ -23,12 +24,12 @@ ms.locfileid: "5796396"
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
-계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용 하 여 파트너 센터에 로그인 할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결 해야 합니다.
+계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용하여 파트너 센터에 로그인할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결해야 합니다.
 
 회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
 
 > [!NOTE]  
->  기존 회사 계정을 사용 하기로 결정 하기 전에 상상해 보세요 얼마나 많은 사용자 계정에 대 한 파트너 센터에서 작동 하도록 해야 합니다. 파트너 센터에서 작업할 필요가 없습니다 계정 사용자가 있는 경우 파트너 센터에서 작업 해야 하는 사용자만을 위한 새 계정을 만드는 것이 좋습니다.
+>  기존 회사 계정을 사용 하기로 결정 하기 전에 상상해 보세요 얼마나 많은 사용자 계정에 대 한 파트너 센터에서 작동 하도록 해야 합니다. 파트너 센터에서 작업 하는 계정에 사용자가 있는 경우 파트너 센터에서 작업 해야 하는 사용자만을 위한 새 계정을 만드는 것이 좋습니다.
 
 회사에 아직 회사 계정이 없는 경우 등록 과정에서 테넌트를 만들 수 있습니다. 
 
@@ -47,7 +48,7 @@ ms.locfileid: "5796396"
 
 Azure AD에서 도메인 추가에 대한 자세한 내용은 [Azure Active Directory에 사용자 지정 도메인 이름 추가](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)를 참조하세요.
 
-# <a name="about-microsoft-azure"></a>Microsoft Azure에 대한 정보
+## <a name="about-microsoft-azure"></a>Microsoft Azure에 대한 정보
 
 Microsoft Azure는 Microsoft에서 관리하는 전체 데이터 센터 네트워크에서 응용 프로그램을 빌드, 구축 및 관리하는 데 사용할 수 있는 공개 클라우드 플랫폼입니다. 회사에서는 Azure를 사용하여 실제 컴퓨터 대신 가상 기능 또는 서비스를 통해 가상 IT 인프라를 구축할 수 있습니다. 
 

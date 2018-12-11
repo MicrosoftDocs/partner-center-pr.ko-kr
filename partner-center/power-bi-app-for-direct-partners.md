@@ -2,17 +2,18 @@
 title: Power BI를 위한 파트너 센터 분석 앱 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 파트너 센터 Power BI 앱을 설치합니다.
+description: Power BI용 파트너 센터 분석 앱으로 비즈니스 데이터를 시각적으로 볼 수 있습니다.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7da056ed927c511de37d853f481c5a898d417dcc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: fe82e88bab3c654cbdc5d7b704dc2a9526ba38cb
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796156"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917455"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI용 파트너 센터 분석 앱(CSP의 직접 파트너)
 

@@ -8,12 +8,13 @@ keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795426"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917595"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795426"
 
 -  파트너 센터
 -  미국 정부용 Microsoft 클라우드 파트너 센터
--  Microsoft 클라우드 독일 파트너 센터
+
+
 
 사용자는 귀하의 고객에 의한 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적인 책임을 집니다. 그러므로 사기 예방 및 검색 위험 완화 제어 기능을 구현하는 것이 좋습니다.
 

@@ -2,17 +2,18 @@
 title: 추천에 응답 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요.
+description: 자격을 갖춘 Microsoft 파트너를 평가, 협상 및 파트너 센터를 통해 추천에 응답 수 있습니다.
 author: KPacquer
 ms.author: kenpacq
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
-ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796176"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917615"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>파트너 센터에서 추천에 응답
 
@@ -32,7 +33,7 @@ ms.locfileid: "5796176"
 
 고객이 귀사에 관심이 있다면 RFI(정보 요청서)를 제출할 것입니다. 
 
-고객이 정보 요청서를 제출하면 선택하신 지역 및 위치의 [비즈니스 프로필](create-a-marketing-profile.md)에 표시된 연락처로 전자 메일이 발송됩니다. 파트너 센터에서 들어오는 Rfi를 볼 수도 있습니다:로 이동 **파트너 센터 > 추천 > 고객 추천**.
+고객이 정보 요청서를 제출하면 선택하신 지역 및 위치의 [비즈니스 프로필](create-a-marketing-profile.md)에 표시된 연락처로 전자 메일이 발송됩니다. 파트너 센터에서 들어오는 Rfi를 볼 수도 있습니다:로 이동 **파트너 센터 > 추천 > 고객 추천**합니다.
 
 고객이 동시에 여러 회사에 동일한 RFI를 보내는 경우도 종종 있습니다. 성공 확률을 높이려면 24시간 내에 새 추천에 응답하고 수락 또는 거절하는 것이 좋습니다.
 

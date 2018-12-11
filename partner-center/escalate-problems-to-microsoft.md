@@ -2,17 +2,18 @@
 title: Microsoft로 문제 에스컬레이션 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 고객을 대신하여 문제를 해결하는 것이 좋습니다.
+description: 고객을 대신하여 문제를 해결하는 것이 좋습니다. 그러나 문제를 해결 하려면 Microsoft 해야 하는 몇 가지 범주가 있습니다.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d759001b2cbaf8cab5f5b6e501dd0635b7adb11b
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683552"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917355"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 

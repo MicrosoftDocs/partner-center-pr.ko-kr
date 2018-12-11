@@ -2,17 +2,18 @@
 title: 최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information on purchasing and managing Azure reservations
+Description: When buying Microsoft Azure reservations on behalf of your customers, you’ll need to choose a virtual machine (VM) sized to meet the customer’s computing needs.
 author: v-petand
 ms.author: v-petand
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
-ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795926"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917545"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 
 
@@ -56,13 +57,13 @@ ms.locfileid: "5795926"
 
 4.  VM의 세부 정보 페이지에서 아래 그림에서와 같이 크기 및 지역 정보를 찾고 이 정보를 이용해 파트너 센터에서 예약을 구입합니다.  
 
-    ![](images/usage1.png)
+    ![세부 정보 페이지에 대 한 크기 및 지역 정보](images/usage1.png)
 
 **Microsoft Azure PowerShell을 이용해 VM 크기 조정 정보 얻기**
 
 아래 이미지에서 이 정보를 사용하여 예약을 구입하고 싶은 VM의 크기와 위치를 파악합니다. 
 
-![](images/usage2.png)
+![VM 위치와 크기](images/usage2.png)
 
 **Azure Resource Manager(ARM) API를 이용해 VM 크기 조정 정보 얻기**
 
@@ -72,8 +73,8 @@ ms.locfileid: "5795926"
 
 3.  호출을 하면 아래 그림에서와 같이 **vmSize** 및 **location**에 대한 값이 반환됩니다.
 
-    ![](images/usage3.png)
-    ![](images/usage4.png)
+    ![vmSize 값](images/usage3.png)
+    ![위치 값](images/usage4.png)
  
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM 사용량 및 예약 할인 확인
@@ -118,7 +119,7 @@ ms.locfileid: "5795926"
 
 Azure 활용률 API를 통해 예약 사용량 데이터를 얻어서 고객이 예약 할인을 받고 있는지 확인하고 할인이 적용되는 가상 컴퓨터(VM)를 확인할 수 있습니다. 예제 A와 예제 B를 비교하여 고객의 예약 사용량을 확인하는 방법을 확인하세요. 
 
-![](images\usage5.png)
+![예약 사용 예제](images\usage5.png)
 
 -   reservationId는 VM에 할인을 적용하는 데 사용된 Azure 예약을 식별합니다.
 -   consumptionMeter는 예약 할인이 적용되는 VM의 MeterId입니다.
@@ -134,7 +135,7 @@ Azure 활용률 API를 통해 예약 사용량 데이터를 얻어서 고객이 
 |:-----------------------------|:-----------------|
 |CSP의 Azure 예약 개요  | [Microsoft Azure Reserved VM Instances 판매](azure-reservations.md)
 |파트너 센터에서 고객을 위한 Azure 예약 구입   |[Azure 예약 구입](azure-reservations-buying.md)
-| 파트너 센터에서 Azure 예약 관리 | [파트너 센터에서 Azure 예약 관리](azure-reservations-manage.md)
+|파트너 센터에서 Azure 예약 관리 | [파트너 센터에서 Azure 예약 관리](azure-reservations-manage.md)
 |Azure Portal에서 Azure 예약 구입 | Azure 도움말의 [Azure Reserved VM Instances에서 가상 컴퓨터에 대한 사전 지불](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)을 참조하세요. |
 |Azure Portal에서 Azure 예약 관리   |Azure 도움말의 [예약된 VM 인스턴스 관리](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)를 참조하세요.  |
 |파트너 센터 API를 사용하여 Azure 예약 구입 | 파트너 센터 개발자 설명서의 [Azure Reserved VM Instances 구입](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)을 참조하세요.

@@ -2,17 +2,18 @@
 title: Azure Partner Shared Services 추가 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 이제 CSP 파트너는 자신이 사용할 Azure 구독을 구매할 수 있습니다.
+description: Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너는 자신이 사용하기 위해 Azure 구독을 구매할 수 있습니다.
 author: labrenne
 ms.author: labrenne
 Keywords: Azure, shared services, tenant
 ms.localizationpriority: medium
-ms.openlocfilehash: c663ffe58575acc02663492bf14f5ae3a3c8b43e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795726"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917635"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services 추가
 

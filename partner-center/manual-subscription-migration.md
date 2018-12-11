@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797136"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917295"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Dynamics AX 구독을 Dynamics 365로 마이그레이션
 
@@ -69,9 +70,9 @@ Microsoft Dynamics AX 제품군은 2016년 11월 1일부터 사용 중지됩니�
 
 Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비스를 제공합니다. 이러한 경우 재판매인은 고객을 새 서비스로 업그레이드하거나 결국 종료될 SKU의 구독을 마이그레이션해야 할 수 있습니다. 이전 SKU에서 새 SKU로 고객을 마이그레이션하려면 다음 순서가 필요합니다.
 
--   [새 구독 구매](#manual-subscription-migration-purchasenewsubsc)
--   [현재 사용자 라이선스 다시 할당](#manual-subscription-migration-reassignlicenses)
--   [이전 구독 취소](#manual-subscription-migration-cancelsubscriptions).
+-   [새 구독 구매](#purchase-the-new-subscription)
+-   [현재 사용자 라이선스 다시 할당](#reassign-user-license)
+-   [이전 구독 취소](#cancel-the-old-subscription).
 
 다음 절차에서는 Microsoft Dynamics AX 또는 CRM Online에서 Dynamics 365로 고객을 이동합니다.
 
@@ -79,18 +80,18 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 <a href="" id="purchasenewsubsc"></a>
 
-**새 구독 구매**
+### <a name="purchase-the-new-subscription"></a>새 구독 구매
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객 선택한 **구독 추가**선택 합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택한 **구독 추가**선택 합니다.
 2.  카탈로그에서 구매할 구독을 선택하고(이 경우 Dynamics 365 for Operations, Enterprise Edition) 라이선스 수를 입력한 다음 **제출**을 선택합니다.
 
     이제 고객은 이전 구독과 새 구독이 둘 다 있어야 합니다. 이 예제에서는 이전 Dynamics AX Enterprise와 새 '대상' 구독인 Dynamics 365 for Operations, Enterprise Edition이 있습니다.
 
 <a href="" id="reassignlicenses"></a> 다음 단계는 새 구독에 모든 기존 사용자 라이선스를 다시 할당하는 것입니다.
 
-**사용자 라이선스 다시 할당**
+### <a name="reassign-user-licenses"></a>사용자 라이선스 다시 할당
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객 선택한 **사용자 및 라이선스를**선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택한 **사용자 및 라이선스를**선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
 2.  사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
 3.  **라이선스 관리** 페이지에서 **Dynamics AX Enterprise** 라이선스 확인란을 선택 취소하고 **Dynamics 365 for Operations** 라이선스를 선택합니다.
 4.  **제출**을 선택합니다. 확인 페이지에 새 라이선스 할당이 나열됩니다.
@@ -98,7 +99,7 @@ Microsoft는 지속적으로 재판매인 및 공급자에 새 제품 및 서비
 
 <a href="" id="cancelsubscriptions"></a> 사용자 라이선스를 새 서비스로 이동한 후 최상위 고객 수준에서 이전 구독을 안전하게 취소할 수 있습니다.
 
-**이전 구독 취소**
+### <a name="cancel-the-old-subscription"></a>이전 구독 취소
 
 1.  **파트너 센터** 메뉴에서 **고객**을 선택 하 고 이동 하려는 고객을 선택 취소할 구독을 선택 합니다.
 2.  구독 세부 정보 페이지에서 구독 **상태**를 **일시 중단됨**으로 설정합니다.
