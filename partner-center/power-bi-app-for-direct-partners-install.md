@@ -31,7 +31,7 @@ ms.locfileid: "6131702"
 
 파트너 센터 분석 앱 미리 보기 버전을 설치하기 전에 다음 요구 사항을 충족하는지 확인하세요.
 
-- 비즈니스에 대 한 올바른 Power BI 앱을 선택합니다.
+- 비즈니스에 대 한 올바른 Power BI 응용 프로그램을 선택합니다.
 
 - Microsoft Power BI Professional 또는 Microsoft Power BI Premium 중 하나에 활성 구독이 있습니다.
 
