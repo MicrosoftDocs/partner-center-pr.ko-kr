@@ -1,6 +1,7 @@
 # [Microsoft 파트너 센터에 대해 알아보기](index.md)
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
+## [PMC에서 파트너 센터로 전환](pmc-to-partner-center.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
 ## 멤버십 혜택
 ### [Action Pack](mpn-get-action-pack.md)
