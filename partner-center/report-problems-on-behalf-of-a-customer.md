@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683772"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973903"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -35,7 +35,7 @@ ms.locfileid: "8683772"
 
 **Microsoft Azure**
 
-**참고** Azure에서 고객에 대 한 서비스 요청을 만드는 데 필요한 때 다음 고려해 야 합니다.
+**참고** Azure에서 고객에 대 한 서비스 요청을 만들어야 할 때 다음 고려해 야 합니다.
 
 - Azure에서 고객에 대 한 서비스 요청을 만들 수 있는 순서로 간접 공급자는 고객의 Azure 계정에 대 한 액세스 부여 해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다. 
 
@@ -48,8 +48,22 @@ ms.locfileid: "8683772"
 
 3.  나중에 **지원 요청 관리**를 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토합니다.
 
+해당 고객에 대 한 관리자 권한이 없는 경우 고객 지원 요청을 작성 해야 할 수 있습니다. 이 두 가지 시나리오 중 하나에서 발생할 수 있습니다. 
+ 
+-   먼저 관계를 구축할 때 관리자 권한 요청 하지 않은 합니다.
+-   고객의 Azure 구독 및 아니요 관리 다른 관리자 권한이 필요는 없습니다.
+ 
+두이 경우 모두에서 지원 요청을 만들려면 다음 절차를 사용할 수 있습니다. 
 
+1.  파트너 센터의 계정 페이지에서 고객의 도메인 이름에 복사 합니다.
 
+2.  이동 https://portal.azure.com/[customerdomainname]. 
+
+3.  지원 해야 하는 Azure 구독을 선택 합니다.
+
+4.  **새 지원 요청을**선택 하 고 지시에 따라 요청을 만듭니다. 
+
+ 
 **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
 1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...** 를 선택해야 할 수도 있습니다.    
@@ -95,9 +109,9 @@ CSP 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제�
 
 Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니라 귀하의 컨텍스트에서 센터가 표시됩니다. 따라서 고유한 구독에 대한 서비스 요청을 만들 때 Office 365 관리 센터에 직접 서명해야만 합니다.
 
-**추가 Dynamics 365 지원 어떻게 하나요?**
+**Dynamics 365 지원을 추가 가져오기**
 
- 관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, 청구, 재무 및 작업 이나 IURs 필요한 기술 지원을 추가 합니다.
+ 관련 된 문제가 발생 하는 경우: Dynamics 365 요금제 구독, 라이선스, 청구, 재무 및 작업, IURs 기술 지원 추가로 필요 합니다.
  
 [Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support) 팀에 문의
 
