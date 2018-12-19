@@ -1,18 +1,18 @@
 ---
 title: 고객이 파트너에게 관리 권한을 위임하는 경우 | 파트너 센터
 ms.topic: article
-ms.date: 12/7/2018
-description: 재판매인 파트너는 고객에 게 위임할 수 수 있으며 해당 관리자 권한을 제거할 수도 있습니다.
+ms.date: 12/18/2018
+description: 재판매인 파트너는 고객에 게 위임할 수 관리자가 될 수 있습니다. 권한을 제거할 수도 있습니다.
 author: labrenne
 ms.author: labrenne
 keywords: 위임 된 관리자 권한, 대신 관리, AOBO, DAP, 권한 제거
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917505"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976820"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>고객이 파트너에게 관리 권한을 위임하는 경우
 
@@ -42,7 +42,7 @@ ms.locfileid: "8917505"
 >[!IMPORTANT]  
 >고객에 게 다시 할당 하거나 서비스의 관리 포털에서 관리자 권한을 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 필요로 하는 경우 지원 팀에 문의 Microsoft 고객 대신 서비스 요청을 엽니다.
 
-고객이 파트너를 Office 365 관리자 포털에서 테 넌 트 관리자 권한을 가진 찾을 수 있습니다. 이렇게 하려면 다음을 수행합니다.
+고객이는 파트너 관리자 권한을 가진 Office 365 관리자 포털에서 테 넌 트를 찾을 수 있습니다. 이렇게 하려면 다음을 수행합니다.
 
 1. 전역 관리자로 Office 365 관리자 포털에 로그인 해야 합니다.
 
@@ -95,17 +95,17 @@ ms.locfileid: "8917505"
 
 파트너 센터에서 CSP 파트너는 이러한 상황에서 위임 된 관리자 권한 없이 고객의 Autopilot 프로필을 관리할 수 있습니다. 
 
-- 고객이 위임 된 관리 권한을 하지만와 재판매인 관계를 유지 하는 경우 해당 Autopilot 프로필 관리 계속 수 있습니다.
+- 고객이 위임 된 관리 권한을 하지만와 재판매인 관계를 유지 하는 경우에 Autopilot 프로필 관리 계속 수 있습니다.
 
-- 또는 다른 파트너로 추가 고객 장치를 관리할 수 있습니다. 
+- 또는 다른 파트너가 추가한 고객 장치를 관리할 수 있습니다. 
 
 - 비즈니스용 Microsoft 스토어, 교육용 Microsoft Store 또는 Microsoft Intune 포털을 통해 고객에 게가 추가 하는 장치를 관리할 수 없습니다.
 
-Autopilot에 대 한 자세한 내용은 [Windows Autopilot으로 디바이스 설치를 단순화를](https://docs.microsoft.com/partner-center/autopilot)참조 하세요.
+Autopilot에 대 한 자세한 내용은 [Windows Autopilot으로 장치 설치를 단순화를](https://docs.microsoft.com/partner-center/autopilot)참조 하세요.
 
 >[!IMPORTANT]  
 >파트너 센터의 현재 Autopilot 관리 환경은 계속 변경할 수 있습니다. 이 문서가 게시 시간에 다음과 같은 변경 내용은 고려 중인 기능:
 
 - 파트너가 프로필을 추가/업데이트/제거하고 고객 테넌트의 모든 장치에서 프로필을 적용/제거하려면 파트너가 위임된 관리 권한을 고객에게 부여 받아야 합니다.
 
-- 파트너가 수 위임 된 관리 권한을 부여 고객이 파트너 트에서 다른 파트너 또는 고객 테 넌 트에 있는 고객을 추가한 장치만 제거할 수 있습니다. 그렇지 않으면 파트너는 이전에 동일한 파트너가 추가한 장치만 제거할 수 있습니다.
+- 파트너가 수 위임 된 관리 권한을 부여 고객이 전에 파트너가 트에서 다른 파트너 또는 고객 테 넌 트에 있는 고객을 추가한 장치만 제거할 수 있습니다. 그렇지 않으면 파트너는 이전에 동일한 파트너가 추가한 장치만 제거할 수 있습니다.
