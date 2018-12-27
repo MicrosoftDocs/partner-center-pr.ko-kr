@@ -12,7 +12,8 @@
 
 # [클라우드 솔루션 공급자](csp-overview.md)
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
-## [CSP 직접 파트너 새 요구 사항](direct-partner-new-requirements.md) 
+## [CSP 직접 파트너의 새로운 요구 사항](direct-partner-new-requirements.md) 
+## [제어판 공급업체로 등록](enroll-as-cpv.md)
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [지역 및 언어별 Microsoft 클라우드 계약](agreements.md)
@@ -84,9 +85,10 @@
 ### [자격이 있는 정부 고객에게 Office 365 Government GCC 판매](csp-gcc-overview.md)
 ### [채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot으로 장치 설치 간소화](autopilot.md)
-##  최신 버전으로의 업그레이드 또는 이전 혜택
-### [Dynamics AX 구독을 Dynamics 365로 업그레이드](manual-subscription-migration.md)
-### [Office 365 Enterprise E4 구독을 최신 Office 365 버전으로 마이그레이션](migrate-office365-e4-subscriptions-to-newer-versions.md)
+##  최신 버전으로 제안을 업그레이드 또는 전송
+### [Dynamics 365 및 Customer Engagement Plan을 기본 (정규화된 제안)에서 새 버전으로 마이그레이션](manual-subscription-migration.md)
+### [Dynamics 365 Business Edition 제안을 최신 버전으로 마이그레이션](migrate-dynamics-365-to-new.md)
+### [Office 365 Enterprise E4 구독을 Office 365 최신 버전으로 마이그레이션](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [비즈니스용 Skype Online 플랜 1을 새로운 Office 365 버전으로 마이그레이션](skype-retiring.md)
 ### [Azure 구독 이전](switch-azure-subscriptions-to-a-different-partner.md)
 
