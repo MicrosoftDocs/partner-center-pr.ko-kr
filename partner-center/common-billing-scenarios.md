@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795636"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990965"
 ---
 # <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 
@@ -33,7 +33,9 @@ ms.locfileid: "5795636"
 
 사용량 기준 구독은 구독 연주기일에 매월 후불로 요금이 청구됩니다. 예를 들어, 구독 연주기일이 15일이면 12월 15일부터 1월 14일까지의 서비스 기간에 대한 1월 15일에 요금이 부과됩니다. 1월 15일부터 2월 14일까지의 서비스 기간에 대한 요금은 2월 15일에 다시 청구됩니다. 구독 연주기일에 발생한 요금은 다음 송장 및 조정 파일에 표시됩니다.
 
-사용량 기준 구독은 언제든지 일시 중단될 수 있습니다. 
+일부 사용 요금은 송장에서 누락 또는 이전 달의 해당 사용 현재 달의 송장에 청구 되는 경우에 따라 볼 수 있습니다. 이 오류가 발생 합니다. 간단 하 게 서비스 발생 한 후 서비스 타임 스탬프는 되었음을 의미 합니다. 청구 주기의 끝의 24 시간 내에 보고 사용 다음 달의 청구서에 표시 됩니다. 
+
+사용량 기준 구독은 언제 든 지 일시 중단 될 수 있습니다. 
 
 Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격 책정 및 제품 페이지에서 확인할 수 있습니다. 가격은 매일 변경이 가능하며 가격 목록의 변경 기록 탭에 반영됩니다.
 

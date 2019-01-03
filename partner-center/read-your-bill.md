@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683792"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990935"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683792"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 
 
-청구서를 **파트너 센터** 메뉴로 이동 하 고 하면 청구 내역과 추세, 송장 및 조정 파일에 가장 최근 지급 링크를 보려면 **청구** 를 선택 합니다.
+청구서를 **파트너 센터** 메뉴로 이동 하 고 하면 청구 내역과 추세, 송장 및 조정 파일, 최근 결제가 표시 링크를 보려면 **청구** 를 선택 합니다.
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
@@ -57,7 +57,7 @@ ms.locfileid: "8683792"
 </tr>
 <tr class="even">
 <td>청구지</td>
-<td>송장을 보내는 주소입니다. 이 주소를 변경하려면 계정 설정 > 파트너 청구 프로필로 이동합니다. </td>
+<td>송장을 보내는 주소입니다. 회사 이름 또는 주소를 변경 하려면 해당 파트너 센터 청구 프로필을 편집 합니다. </td>
 </tr>
 <tr class="odd">
 <td>라이선스 기준 청구</td>
@@ -78,7 +78,7 @@ ms.locfileid: "8683792"
 <tr class="even">
 <tr class="even">
 <td>소계</td>
-<td>세금 및 세금 전용 요금 및 크레딧이 하기 전의 총액.</td>
+<td>세금 및 세금 단독 요금 및 크레딧이 하기 전의 총액.</td>
 </tr>
 <td>세금</td>
 <td>송장 2페이지의 시작 부분에 있는 세부 정보 섹션에 합산되어 있는 현재 요금의 총 세금입니다. 이 숫자의 다음 열에 있는 모든 요금의 합계입니다.
@@ -89,7 +89,7 @@ ms.locfileid: "8683792"
 </tr>
 <tr class="odd">
 <td>다른 크레딧</td>
-<td>세금 전용 크레딧입니다.</td>
+<td>세금 단독 크레딧입니다.</td>
 </tr>
 <tr class="even">
 <td>현재 총 요금</td>
@@ -105,11 +105,11 @@ ms.locfileid: "8683792"
 </tr>
 <tr class="odd">
 <td>청구 기간</td>
-<td>CSP 파트너는 매월 또는 매년 요금이 청구됩니다.</td>
+<td>송장 날짜에 이르는 월별 기간입니다. 이는 사용량 기준 서비스를 사용 하 고 라이선스 기반 서비스는 모든 신용 조정 또는 라이선스 수의 변경에 대 한 조정 기간입니다.</td>
 </tr>
 <tr class="even">
 <td>송장 날짜</td>
-<td>송장을 받는 날짜입니다.</td>
+<td>청구 날짜 또는 1 주년 날짜는 송장 매달 생성 됩니다.</td>
 </tr>
 <tr class="odd">
 <td>지급 조건</td>
@@ -129,7 +129,7 @@ ms.locfileid: "8683792"
 </tr>
 <tr class="odd">
 <td>서비스 수령인</td>
-<td>서비스가 사용되는 주소입니다. (회사 자격 심사와 연결된 법적 회사 주소이며 변경할 수 없습니다.)</td>
+<td>서비스가 사용되는 주소입니다. (회사 자격 심사와 연결 된 법적 회사 주소입니다.)</td>
 </tr>
 </tbody>
 </table>

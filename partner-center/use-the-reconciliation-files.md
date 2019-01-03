@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683822"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990995"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -571,7 +571,7 @@ ms.locfileid: "8683822"
 <p>구매 시 비례 배분 방식 요금</p>
 </td>
 <td>
-<p>구매 시 비례 배분 방식 요금</p>
+<p>연간 청구를 사용 하는 경우 구독에 대 한 청구 유형</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ ms.locfileid: "8683822"
 <p>구매 요금</p>
 </td>
 <td>
-<p>구독의 초기 요금</p>
+<p>월별 청구를 사용 하는 경우 구독에 대 한 청구 유형</p>
 </td>
 </tr>
 <tr>
