@@ -14,6 +14,7 @@
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
 ## [CSP 직접 파트너의 새로운 요구 사항](direct-partner-new-requirements.md) 
 ## [제어판 공급업체로 등록](enroll-as-cpv.md)
+###[이 페이지에 액세스하여 테넌트에서 다단계 인증(MFA)을 사용하도록 설정해야 합니다.](enable-mfa.md)
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [지역 및 언어별 Microsoft 클라우드 계약](agreements.md)
