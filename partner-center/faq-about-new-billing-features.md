@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683812"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996017"
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 
@@ -138,7 +138,7 @@ ms.locfileid: "8683812"
 
 -   **A:** 예. 언제든지 구독의 라이선스 수량을 변경할 수 있습니다. 추가적인 라이선스 추가는 대금 청구 주기에 영향을 주지 않습니다. 
 
-**Q:** 연간 청구를 사용하는 기존 구독에 월간 청구를 사용하는 라이선스를 추가할 수 있나요? 
+**Q:** 연간 청구는 기존 구독에 월간 청구 라이선스를 추가할 수 있습니까? 
 
 -   **A:** 고객이 연간 청구를 사용하는 구독을 구매하고 하면 추가 라이선스는 동일한 청구 주기를 따릅니다. 월별 구독을 사용하는 라이선스를 구매해야 하는 경우 새 구독을 구매해야 합니다.
 
@@ -242,17 +242,17 @@ ms.locfileid: "8683812"
 
 **Q:** 인센티브에 대해 질문이 있는 경우 어디로 연락해야 합니까?
 
--   **A:** 해당 지역 인센티브 지원 팀으로 문의하세요.
+- **A:** 해당 지역 인센티브 지원 팀으로 문의하세요.
 
-    - 북아메리카: ocina@microsoft.com
+  - 북아메리카: ocina@microsoft.com
 
-    - 라틴 아메리카 및 브라질: ocilatam@microsoft.com
+  - 라틴 아메리카 및 브라질: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC(일본 제외): ociapgc@microsoft.com
+  - APOAC(일본 제외): ociapgc@microsoft.com
 
-    - 일본: ocijp@microsoft.com
+  - 일본: ocijp@microsoft.com
 
 
 **Q:** 구독을 일시 중지하는 경우 어떻게 되나요? 

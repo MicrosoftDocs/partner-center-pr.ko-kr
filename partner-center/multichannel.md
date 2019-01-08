@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683672"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995607"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
@@ -37,20 +37,20 @@ ms.locfileid: "8683672"
 <tbody>
 <tr class="odd">
 <td><p><strong>라이선스 기준 서비스</strong></p></td>
-<td><p>다중 채널 계정을 지원하려면 고객에게 구독 관리 권한을 요청해야 합니다. 자세한 방법은 [고객과 재판매인 관계 요청](request-a-relationship-with-a-customer.md)을 참조하세요.</p></td>
+<td><p>다중 채널 계정을 지원하려면 고객에게 구독 관리 권한을 요청해야 합니다. 자세한 방법은 <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">고객과 재판매인 관계 요청</a>을 참조하세요.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>사용량 기준 서비스</strong></p></td>
 <td>
-<p>Advisor, Open, EA 등의 다른 채널에서 이미 Microsoft Azure 구독을 구입한 고객의 경우 파트너 센터에서 새 Azure 구독을 만들고, 수동으로 구독 세부 정보를 입력한 다음 개별 서비스 또는 전체 구독을 취소해야 합니다.</p>
-<p>다른 파트너로부터 이미 Microsoft Azure 구독을 구입한 고객의 경우 Azure 서비스를 다른 파트너로 전환할 수 있습니다. 자세한 내용은 [Azure 구독을 다른 파트너로 전환](switch-azure-subscriptions-to-a-different-partner.md)을 참조하세요.</p>
+<p>Advisor, Open 또는 EA, 사용자 & #39; 등의 다른 채널에서 하기 위해 Microsoft Azure 구독을 이미 갖고 있는 고객에 대 한 항목이 필요 파트너 센터에서 새 Azure 구독을 만들고 수동으로 구독 세부 정보를 입력 한 다음 개별 취소 서비스 또는 전체 구독 합니다.</p>
+<p>다른 파트너로부터 이미 Microsoft Azure 구독을 구입한 고객의 경우 Azure 서비스를 다른 파트너로 전환할 수 있습니다. 자세한 내용은 <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure 구독을 다른 파트너로 전환</a>을 참조하세요.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대 한 모든 발표는 파트너 센터를 포함 한 일반적인 통신 채널을 통해 공개 될 것입니다. 
+> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대 한 모든 발표는 파트너 센터를 포함 한 일반적인 통신 채널을 통해 발표 될 예정입니다. 
 
 ## <a name="see-also"></a>참고 항목
 
@@ -60,9 +60,9 @@ ms.locfileid: "8683672"
 
 간접 공급자인 경우 [간접 판매자와 파트너 되기](indirect-provider-tasks-in-partner-center.md)를 참조하세요. 
 
- 
+ 
 
- 
+ 
 
 
 

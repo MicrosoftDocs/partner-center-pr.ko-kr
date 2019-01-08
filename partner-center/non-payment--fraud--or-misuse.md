@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917595"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995907"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
@@ -83,9 +83,9 @@ ms.locfileid: "8917595"
 > [!IMPORTANT]  
 > Microsoft에서 사용 제한 정책의 위반을 확인하거나 의심하는 파트너 또는 고객 활동을 감지한 경우 적용 단계를 진행합니다. 고객 활동은 즉시 일시 중단될 수 있습니다. 또한 요청 시 Microsoft에서 적용 작업에 대해 알리거나 업데이트할 수 있습니다.
 
- 
+ 
 
- 
+ 
 
 
 

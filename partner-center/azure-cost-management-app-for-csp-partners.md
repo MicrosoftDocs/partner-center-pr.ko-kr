@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796096"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995797"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 
@@ -42,11 +42,11 @@ Cloudyn의 Azure 비용 관리는 고객이 Azure를 사용하는 정도와 사�
 4.  웹 앱의 **Commerce ID** GUID 및 **App ID** GUID를 복사하고 저장합니다. 30일 무료 평가판 Azure 비용 관리 앱을 사용하려면 두 ID가 모두 필요합니다.
 
 ## <a name="add-a-secret-key-to-your-app"></a>앱에 비밀 키를 추가합니다.
-1.  **Add key** 버튼 옆에 있는 드롭다운 목록에서 기간을 1년 또는 2년으로 선택합니다.
-2.  **Add key**를 클릭합니다. 
-3.  비밀 키 값을 복사하고 저장합니다. 30일 무료 평가판을 사용하려면 이 키가 필요합니다.<br>
-> [!NOTE]  
-> 응용 프로그램 비밀 키는 만료 날짜가 더 긴 암호와 같습니다. 나중에 사용할 수 있도록 키 값을 안전한 위치에 저장하십시오.
+1. **Add key** 버튼 옆에 있는 드롭다운 목록에서 기간을 1년 또는 2년으로 선택합니다.
+2. **Add key**를 클릭합니다. 
+3. 비밀 키 값을 복사하고 저장합니다. 30일 무료 평가판을 사용하려면 이 키가 필요합니다.<br>
+   > [!NOTE]  
+   > 응용 프로그램 비밀 키는 만료 날짜가 더 긴 암호와 같습니다. 나중에 사용할 수 있도록 키 값을 안전한 위치에 저장하십시오.
 
 ## <a name="next-steps"></a>다음 단계
 [30일 무료 평가판](https://go.microsoft.com/fwlink/?linkid=857895)을 시작합니다.

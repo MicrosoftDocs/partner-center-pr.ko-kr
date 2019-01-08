@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990935"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995877"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990935"
 |세전 금액 |세금 부과 전 구입액의 소계입니다. |
 |판매세 |세금 액수입니다. |
 |총액 |지불해야 할 총액입니다. |
- 
+ 
 
 
 

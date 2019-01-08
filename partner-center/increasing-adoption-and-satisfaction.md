@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795256"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995837"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -70,24 +70,24 @@ ms.locfileid: "5795256"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>문제:</strong> 사용자 채택률이 낮고 많은 라이선스가 사용되지 않고 있습니다.</p>
+<td><p><strong>문제:</strong> 사용자 채택 률이 낮을 수록 및 여러 라이선스 않았지만 & #39; t 사용 합니다.</p>
 <p><strong>고려할 사항:</strong> 고객이 소프트웨어가 제공할 수 있는 가치를 이해하지 못한 것일 수 있습니다. 해당 소프트웨어를 일상적인 업무에 통합하여 이미 수행 중인 작업을 단순화하거나 새로운 종류의 생산성을 가능하게 할 수 있는 방법을 구상하는 데 도움이 필요합니다.</p>
 <p><strong>해결 방법:</strong> 사례 연구, 특정 시나리오에 대한 사용자 추천, 자습서 블로그 또는 동영상을 이용합니다.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>문제:</strong> 도움말 및 방법 관련 질문을 하기 위한 지원 전화가 많습니다.</p>
 <p><strong>고려할 사항:</strong> 고객이 소프트웨어, 제품 버전 또는 해당 작업을 처음 접하는 것일 수 있습니다.</p>
-<p><strong>해결 방법:</strong> 교육을 제공(직접 또는 온라인)하여 고객의 전반적인 전문 지식을 향상시키는 한편 고객에게 사용할 수 있는 셀프 서비스 옵션을 홍보하는 이중 전략을 사용할 수 있습니다.</p>
-<p>지원 연락처 정보 외에 [고객 자가 지원](customer-self-support.md) 항목에 설명된 셀프 서비스 옵션도 포함하도록 지원 사이트를 다시 디자인할 수 있습니다.</p></td>
+<p><strong>지식을:</strong> (직접 또는 온라인) 교육을 제공 하는 이중 전략을 사용 하 여 고객 & #39; 증가 s 고객에 게 사용할 수 있는 셀프 서비스 옵션 시키는 한편 전반적인 전문 지식.</p>
+<p>지원 연락처 정보 외에 <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">고객 자가 지원</a> 항목에 설명된 셀프 서비스 옵션도 포함하도록 지원 사이트를 다시 디자인할 수 있습니다.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

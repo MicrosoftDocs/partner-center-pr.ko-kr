@@ -6,14 +6,14 @@ description: 인센티브 프로그램의 수익 및 지급액을 보세요.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795946"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995957"
 ---
-#<a name="incentive-payouts-overview"></a>인센티브 지급액 개요
+# <a name="incentive-payouts-overview"></a>인센티브 지급액 개요
 
 **적용 대상**
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795946"
 
 인센티브 관리자 및 사용자는 인센티브 프로그램을 통해 수령했거나 곧 수령할 예정인 수익 및 지급액에 대한 개요를 파악할 수 있습니다.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>수익 및 지급액에 대한 요약 정보
+## <a name="summary-information-on-earnings-and-payout"></a>수익 및 지급액에 대한 요약 정보
 
 인센티브 사용자 및 인센티브 관리자인 CSP 파트너는 **지급액 요약**에서 현재 참가 중인 인센티브 프로그램에서 자신의 현재 재무 상태를 볼 수 있습니다. 필요에 따라 요약 정보의 각 영역을 드릴다운할 수 있습니다. 
 

@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683742"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995807"
 ---
 # <a name="tax-and-tax-exemptions"></a>세금 및 면세
 
@@ -26,8 +26,8 @@ ms.locfileid: "8683742"
 
 **면세 정보 제출**
 
-1.  파트너 센터에서 **Microsoft ID** 조회 &gt; **계정 설정** &gt; **조직 프로필**입니다.
-2.  파트너 센터에서 **MPN ID** 를 조회 &gt; **계정 설정** &gt; **파트너 프로필**입니다.
+1.  파트너 센터에서 **Microsoft ID** 를 조회 &gt; **계정 설정** &gt; **조직 프로필**합니다.
+2.  파트너 센터에서 사용자 **MPN ID** 를 조회 &gt; **계정 설정** &gt; **파트너 프로필**합니다.
 3.  새 지원 티켓을 만듭니다. 파트너 센터 메뉴에서 **서비스 요청** 을 선택 &gt; **파트너 센터 요청** &gt; **새 요청**합니다.
 4.  양식을 작성합니다. **문제 유형**에서 **내 프로필을 관리할 수 없음**을 선택합니다. 설명에 MPN ID와 Microsoft ID를 포함합니다.
 5.  티켓을 제출하면 Microsoft에서 전자 메일을 보내 자세한 정보를 요청할 것입니다. 회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.
@@ -48,11 +48,11 @@ ms.locfileid: "8683742"
 </tr>
 <tr class="even">
 <td>유럽 연합</td>
-<td><p>유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다. VAT 번호는 [유효한 상태로 수락](http://go.microsoft.com/fwlink/p/?LinkId=808160)되어야 합니다.</p>
+<td><p>유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다. VAT 번호는 <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">유효한 상태로 수락</a>되어야 합니다.</p>
 <p>Microsoft는 파트너 센터에 크레딧과 재청구를 지원하지 않으므로 구독을 판매하기 전에 파트너 센터에서 VAT ID 번호를 등록해야 합니다.</p>
 <p>Microsoft에 VAT ID 번호 보내기</strong></p>
 <ol>
-<li>파트너 센터에서 파트너 센터 메뉴로 이동 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>입니다.</li>
+<li>파트너 센터에서 메뉴로 이동 하 여 파트너 센터 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>합니다.</li>
 <li><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</li>
 <li><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</li>
 </ol></td>
@@ -74,11 +74,11 @@ ms.locfileid: "8683742"
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

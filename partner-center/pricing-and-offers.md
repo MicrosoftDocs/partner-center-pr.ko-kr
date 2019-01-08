@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f8b1b700433feaaf1427b90868aa0180fa665e0e
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917705"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995757"
 ---
 # <a name="pricing-and-offers"></a>가격 책정 및 제품
 
@@ -55,4 +55,4 @@ ms.locfileid: "8917705"
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>제품표 및 가격표 관련 질문
 
-가격표 또는 제품 표에 대 한 질문이 있으면 파트너 센터를 통해 서비스 요청을 제출 합니다.
+가격표 또는 제품 표에 대 한 질문이 있는 경우 파트너 센터를 통해 서비스 요청을 제출 합니다.

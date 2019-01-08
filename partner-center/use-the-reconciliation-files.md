@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990995"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995947"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -57,7 +57,7 @@ ms.locfileid: "8990995"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> 라이선스 기준 파일 필드
 
@@ -179,7 +179,7 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>해당 지역/국가의 세금 규칙 및 특정 상황에 따른 세액 요금.</p></td>
+<td><p>세 액 요금, 시장 & #39; s 세금 규칙 및 특정 상황에 따라.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>파트너 센터에 보고된 고객의 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td><p>고객 & #39; 파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
 <td>테스트 고객 A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. [파트너를 기준으로 항목별로 구분](#itemizebypartner)을 참조하세요.</p></td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">파트너를 기준으로 항목별로 구분</a>을 참조하세요.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 있는 고객을 고유 하 게 식별 하 하지 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객 & #39; s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 있는 고객을 고유 하 게 식별 하 하지 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>파트너 센터에 보고된 고객의 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td><p>고객 & #39; 파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
 <td>테스트 고객 A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. [파트너를 기준으로 항목별로 구분](#itemizebypartner)을 참조하세요.</p></td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">파트너를 기준으로 항목별로 구분</a>을 참조하세요.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>해당 지역/국가의 세금 규칙 및 특정 상황에 따른 세액 요금.</p></td>
+<td><p>세 액 요금, 시장 & #39; s 세금 규칙 및 특정 상황에 따라.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ ms.locfileid: "8990995"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객 & #39; s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ ms.locfileid: "8990995"
 </td>
 <td>
 <p><em>여러 종류의 요금에 적용될 수 있음</em></p>
-<p><em>예외: "품목 오프셋"에는 이미 세금이 포함되어 있습니다. 위의 크레딧, 참조 하십시오.</em></p>
+<p><em>예외: &quot;품목 오프셋&quot; 이미 세금이 포함 되어 있습니다. 위의 크레딧, 참조 하십시오.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>

@@ -6,12 +6,12 @@ description: 새로운 마케팅 기술, 제품 교육 등을 개발하는 것�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797306"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995637"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>파트너 센터에서 파트너 인센티브를 사용할 수 있습니다. 
 
@@ -27,18 +27,18 @@ ms.locfileid: "5797306"
 
 재판매인으로 활발하게 참여하는 CSP 파트너라면 Microsoft 파트너 인센티브 프로그램의 혜택을 받을 수 있습니다.
 프로그램에 참여하면 리베이트 및 협동 수익을 얻을 수 있는 자격을 얻게 됩니다. 인센티브 프로그램에 등록하려면 다음이 필요합니다. 
--   활성 MPN(Microsoft 파트너 네트워크) 계약.  
--   간접 공급자가 유효한 클라우드 배포자 계약을 지녀야 함.
--   직접 재판매인이 재판매 계약이 있어야 함.
--   간접 재판매인 파트너인 경우 MPN에 속해야 합니다. 간접 재판매인은 첫 거래를 완료한 후 인센티브 프로그램에 대한 초대장을 받게 됩니다. 
--   Microsoft 역량 중 하나 이상 보유. 현재 [Microsoft 역량] 목록을 확인하세요(competencies.md).
+- 활성 MPN(Microsoft 파트너 네트워크) 계약.  
+- 간접 공급자가 유효한 클라우드 배포자 계약을 지녀야 함.
+- 직접 재판매인이 재판매 계약이 있어야 함.
+- 간접 재판매인 파트너인 경우 MPN에 속해야 합니다. 간접 재판매인은 첫 거래를 완료한 후 인센티브 프로그램에 대한 초대장을 받게 됩니다. 
+- Microsoft 역량 중 하나 이상 보유. 현재 [Microsoft 역량](competencies.md)의 목록을 봅니다.
 
 ## <a name="one-site-one-log-on"></a>한 사이트, 한 번의 로그인
 
-Microsoft 파트너 인센티브 프로그램이 파트너 센터로 이동되었으며, 이제 사용자 관리, 고객 대신 업무 수행, 인증서 및 인센티브 등록, 인센티브 수익 보고, 지급 받기 등의 모든 관리자 업무를 할 수 있습니다. 모든 인센티브 데이터는 인센티브 **파트너 센터**에서 사용할 수 있습니다. 인센티브 데이터는 매일 새로 고쳐집니다.
- 
+Microsoft 파트너 인센티브 프로그램이 파트너 센터로 이동 되었으며, 이제는 사용자 관리 관리자 작업 등 모든 작업, 작업을 하기 위해 고객을 대신 하 여, 인증 및 인센티브, 인센티브 수익 보고, 등록 지급 받기 수 있습니다. 모든 인센티브 데이터는 인센티브 **파트너 센터**에서 사용할 수 있습니다. 인센티브 데이터는 매일 새로 고쳐집니다.
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>파트너 센터에서 사용자 설정
- 
+ 
 첫 번째 단계는 파트너 센터에서 인센티브 사용자를 설정하여 파트너 센터 인센티브 계정을 완료하는 것입니다. 조직의 인센티브 사용자 목록이 들어 있는 이메일이 귀하에게 전송되었습니다. 조직에 대 한 인센티브 관리자가 사용자 설정을 완료 되 면 모든 인센티브 데이터가 인센티브 **파트너 센터**에 표시 됩니다.
 
 **참고 항목**

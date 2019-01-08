@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683722"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995867"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단, 또는 취소
 
@@ -23,30 +23,30 @@ ms.locfileid: "8683722"
 -  미국 정부용 Microsoft 클라우드 파트너 센터
 -  CSP 파트너
 
-파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품에 대 한 구독 판매 수 있습니다.
+파트너 센터에서 고객 기록을 만들면 제품 카탈로그의 구독을 판매 수 있습니다.
 
 일부 제품은 고객당 구독 하나로 제한됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 책정 및 제품 페이지를 방문하세요. 
 
 
 **새 구독 만들기**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
+1. **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
 
-2.  **새 구독**을 선택합니다.
+2. **새 구독**을 선택합니다.
 
-3.  사용할 구독 청구 유형을 선택합니다.  월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
+3. 사용할 구독 청구 유형을 선택합니다.  월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
  
- >[!Note]
- >고객에 게 평가판 구독을 제공할 수 있습니다. 평가판에 사용할 수 있는 제품 카탈로그의 평가판 탭 됩니다. [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
+>[!Note]
+>고객에 게 평가판 구독 제공할 수 있습니다. 평가판에 사용할 수 있는 제품 카탈로그의 평가판 탭 됩니다. [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
 
  
 4. 청구 주기를 선택한 후 카탈로그에서 구독 하 고 싶은 제품을 선택 합니다. 제품의 사용 가능성은 선택한 고객 유형(교육, 정부 등)과 청구 주기에 따라 다릅니다. 제품을 사용할 수 없는 경우에는 고객이 해당 제품을 이미 구독하여 이미 사용이 허용된 상태일 수 있습니다. 또는 새로 제품을 구입하지 않고 다시 정품 인증을 할 수 있도록 구독을 일시 중지한 경우일 수 있습니다.
 
 5. 추가할 구독을 확인하고 라이선스 수를 입력합니다. 그런 다음 주문을 **제출**합니다.
 
-6.  구독을 추가한 후 구독 목록에서 구독 이름을 클릭하여 엽니다. 이 편집 페이지에서 사용 가능한 경우 추가 기능 라이선스를 선택할 수 있습니다.
+6. 구독을 추가한 후 구독 목록에서 구독 이름을 클릭하여 엽니다. 이 편집 페이지에서 사용 가능한 경우 추가 기능 라이선스를 선택할 수 있습니다.
 
-7.  편집 페이지에서 라이선스 수량을 변경하거나 구독을 일시 중단할 수도 있습니다.
+7. 편집 페이지에서 라이선스 수량을 변경하거나 구독을 일시 중단할 수도 있습니다.
 
 ## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중지 또는 취소
 
@@ -66,7 +66,7 @@ ms.locfileid: "8683722"
 
 
 
- 
+ 
 
 
 

@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131702"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995557"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기
 
@@ -45,16 +45,16 @@ ms.locfileid: "6131702"
 
 2. **이미 계정이 있으십니까?** 아래에서 **로그인**을 선택합니다. 
 
-3.  다음 페이지에서 Power BI 사용자 이름 및 암호를 입력한 다음 **로그인**을 선택합니다. 
+3. 다음 페이지에서 Power BI 사용자 이름 및 암호를 입력한 다음 **로그인**을 선택합니다. 
 
-4.  **파트너 센터 분석에 연결** 팝업 창에서 **인증 방법**이 **oAuth2**로 설정되었는지 확인하고, 설정되어 있지 않을 경우 목록에서 **oAuth2**를 선택합니다. 
+4. **파트너 센터 분석에 연결** 팝업 창에서 **인증 방법**이 **oAuth2**로 설정되었는지 확인하고, 설정되어 있지 않을 경우 목록에서 **oAuth2**를 선택합니다. 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  이 창이 표시되는 데 몇 분 정도 걸릴 수 있습니다.
 
-5.  **파트너 센터 분석 커넥터** 페이지에서 회사의 Azure AD 테넌트에 대한 전역 관리자, 관리자 에이전트 또는 청구 관리자 자격 증명을 사용하여 로그인한 다음 **로그인**을 선택합니다.
+5. **파트너 센터 분석 커넥터** 페이지에서 회사의 Azure AD 테넌트에 대한 전역 관리자, 관리자 에이전트 또는 청구 관리자 자격 증명을 사용하여 로그인한 다음 **로그인**을 선택합니다.
  
-6.  액세스에 대한 메시지가 표시되면 **수락**을 선택합니다. 
+6. 액세스에 대한 메시지가 표시되면 **수락**을 선택합니다. 
 
 파트너 센터 분석 서비스가 Power BI에 연결되면 데이터가 로드되기 시작합니다. 데이터의 양에 따라 이 작업에는 최대 10분이 걸릴 수 있습니다. 
 
