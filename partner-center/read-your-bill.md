@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995877"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997342"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
@@ -28,7 +28,7 @@ ms.locfileid: "8995877"
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
 > [!NOTE]  
-> 송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 4일 이내에 제공됩니다.
+> 송장 모든 요금 요약 송장은 프로그램, 제품 및 고객-현재 청구 기간에 대 한 이며 UTC 시간에 선택한 청구 날짜 2 일에 제공 됩니다. 예를 들어가 경우 9 월 12 청구 날짜 송장 생성 프로세스는 13에 오전 12 시 UTC에서 시작 하 고는 14th에서 오전 12 시 UTC에 의해 완료 합니다. 15 일에 송장을 오후 11시 59분 utc 표시 되지 않으면, 서비스 수준 계약 부재 및 파일 서비스 요청을 해야 합니다. 
 
 일회성 (Azure reserved VM instances)에 대 한 별도 송장과 라이선스 기준 (Office365) 및 사용량 기준 (Azure) 요금에 대 한 송장을 하나 받게 됩니다 요금.
 
