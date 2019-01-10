@@ -7,16 +7,16 @@ keywords: 추천, 추천에 응답, 잠재 고객, 영업 잠재 고객, 마케�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776487"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000043"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft 파트너 비즈니스 성장 
 
-Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제공합니다. 알아봅니다 어떻게이 사이트를 Microsoft 파트너 센터에서 새 고객을 유치 하 고 더 많은 수익을 확보할 수 있습니다.
+Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제공합니다. 이 사이트를 Microsoft 파트너 센터에서 돕는 방법 신규 고객 유치 및 더 많은 수익을 확보할 수에 대해 알아봅니다.
 
 파트너 센터 활용 방안:
 
@@ -41,4 +41,4 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 비영리 조직 및 교육와 같은 특수 산업을 대상으로 판매|[특수 산업을 대상으로 판매](get-special-pricing-for-offers.md)|CSP 파트너|
 |게임이 협동 인센티브 프로그램에서 사용할 수 있는 많은 활동을 통해 비즈니스를 성장 합니다. 파트너 센터를 통해 활동에 대 한 클레임 파일.| [인센티브 클레임 생성 및 관리](create-incentives-claims.md)|CSP 파트너|
 |이미 판매 하는 Microsoft 소프트웨어와 함께 작동 하는 타사 제품을 포함 하 여 소프트웨어의 새 번들 빌드|[타사 제품 검색](third-party-offers.md)|CSP 파트너|
-|
+|회사에서 판매 하 고 Azure 관리 수퍼 인지 확인 합니다. Azure 전문가 Microsoft 서비스 공급자 프로그램에 등록에 적용|[Azure 전문가 Microsoft 서비스 공급자 프로그램](azure-expert-msp.md)|CSP 파트너|
