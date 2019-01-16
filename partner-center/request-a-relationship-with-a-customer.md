@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 21f94c78227c75124a1835b463aac3ad8fc38eb5
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776547"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011100"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -20,14 +20,16 @@ ms.locfileid: "8776547"
 
 -  파트너 센터
 
-고객의 서비스 또는 대신 하 여 구독을 관리 하려면 해당 서비스 또는 구독에 대 한 관리자 권한을 고객에 부여 해야 합니다. 다음 절차에 전자 메일로이 권한을 요청 하는 방법을 보여 줍니다. 고객이 요청을 승인하면 해당 서비스의 관리 포털에 로그인하여 고객 대신 서비스를 관리할 수 있습니다.
+고객의 서비스 또는 대신 하 여 구독을 관리 하려는 경우 해당 서비스 또는 구독에 대 한 관리자 권한을 고객에 부여 해야 합니다. 다음 절차에 전자 메일로이 권한을 요청 하는 방법을 보여 줍니다. 고객이 요청을 승인하면 해당 서비스의 관리 포털에 로그인하여 고객 대신 서비스를 관리할 수 있습니다.
 
 고객과 재판매인 관계를 설정 하 고 Azure 구독 프로 비전 하는 관리 하려는 경우 관리자 권한을 얻으려면 필요는 없습니다.
 
-Note 하지 권한을 요청 하는 옵션을 미국 정부 또는 Microsoft 클라우드 독일에 대 한 Microsoft 클라우드를 운영 하는 파트너에 게 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)참조 하세요.
+Note 하지 사용 권한을 요청 하는 옵션을 Microsoft 클라우드 미국 정부 또는 Microsoft 클라우드 독일에 대해 작동 하는 파트너에 게 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)참조 하세요.
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
+
+Note 국가 또는 동일한 지역 내에서 고객과 재판매인 관계를 요청할 수 있습니다.
 
 1.  **파트너 센터** 메뉴에서 **고객** 을 선택 하 고 **재판매인 관계 요청**을 선택 합니다.
 
@@ -50,7 +52,7 @@ Note 하지 권한을 요청 하는 옵션을 미국 정부 또는 Microsoft 클
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>고객이 초대 경험 변경 내용
 
-클라우드 솔루션 공급자 파트너 로부터 재판매인 관계 요청을 수락 하는 것에 대 한 고객 만족도 2018 년 11 월 1 일 변경 됩니다. 변경 내용은 아래 표를 참조 하세요. 비즈니스용 Microsoft 스토어에서 새로운 경험에 대 한 세부 정보를 [비즈니스용 Microsoft 스토어의 솔루션 공급자를 사용 하 여 작업](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)을 참조 하세요.
+클라우드 솔루션 공급자 파트너 로부터 재판매인 관계 요청을 수락 하는 것에 대 한 사용자 환경 2018 년 11 월 1 일 변경 됩니다. 변경 내용은 아래 표를 참조 하세요. 비즈니스용 Microsoft 스토어에서 새로운 경험에 대 한 세부 정보를 [비즈니스용 Microsoft Store 솔루션 공급자와 협력](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business)을 참조 하세요.
 
 |  | 고객 들이 곧 발송 2018 년 11 월 1 일 전에 재판매인 초대를 수락 하는 위치 | 고객 들이 곧 발송 2018 년 11 월 1 일, 재판매인 초대를 수락 하는 위치 |
 |---------|---------|---------

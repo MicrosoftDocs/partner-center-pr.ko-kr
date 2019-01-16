@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004629"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011110"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>클라우드 솔루션 공급자 (CSP) 직접 파트너에서 CSP 간접 재판매인으로 전환 
 
@@ -156,3 +156,5 @@ ms.locfileid: "9004629"
 직접 청구 파트너 테 넌 기존에 간접 재판매인으로 등록 성공적으로, 후 30 일 이내에 간접 재판매인 인센티브 등록 초대를 받게 됩니다. 초대는 현재 CSP 파트너 테 넌 트와 연결 된 MPN 계정 파트너를 기준으로 합니다. 초대는 MPN 계정 파트너와 연결 된 전자 메일 주소로 전송 됩니다. 
 
 또한 동일한 해당 파트너 테 넌 트를 사용 하 여 직접 청구 인센티브 프로그램에 등록 자격이 있습니다. 프로그램을 별도로 관리 해야 합니다.
+
+[간접 재판매인 되 고 대 한 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 를 참조 하세요.와 [간접 재판매인을 직접 청구 fAQ](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)합니다.
