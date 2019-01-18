@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917545"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014820"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 
 
@@ -49,7 +49,7 @@ ms.locfileid: "8917545"
 
 **Microsoft Azure Portal을 이용해 VM 크기 조정 정보 얻기**
 
-1.  파트너 센터에서 **고객에 게** 페이지로 이동 합니다.
+1.  파트너 센터에서 **고객** 페이지로 이동 합니다.
 
 2.  VM 예약을 구입하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 정보를 펼쳐봅니다. **Microsoft Azure 관리 포털**을 선택하여 Azure Portal에서 고객의 기록을 엽니다. 
 
@@ -57,7 +57,7 @@ ms.locfileid: "8917545"
 
 4.  VM의 세부 정보 페이지에서 아래 그림에서와 같이 크기 및 지역 정보를 찾고 이 정보를 이용해 파트너 센터에서 예약을 구입합니다.  
 
-    ![세부 정보 페이지에 대 한 크기 및 지역 정보](images/usage1.png)
+    ![세부 정보 페이지에서 크기 및 지역 정보](images/usage1.png)
 
 **Microsoft Azure PowerShell을 이용해 VM 크기 조정 정보 얻기**
 
@@ -93,7 +93,7 @@ ms.locfileid: "8917545"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Microsoft Azure Portal에서 고객의 예약 사용량 확인
 
-1.  파트너 센터에서 **고객에 게** 페이지로 이동 합니다.
+1.  파트너 센터에서 **고객** 페이지로 이동 합니다.
 
 2.  예약 할인 및 사용률을 확인하고 싶은 고객을 찾고 아래쪽 화살표를 선택하여 고객의 정보를 펼쳐봅니다. **Microsoft Azure 관리 포털**을 선택하여 Azure Portal에서 고객의 기록을 엽니다. 
 
@@ -119,7 +119,7 @@ ms.locfileid: "8917545"
 
 Azure 활용률 API를 통해 예약 사용량 데이터를 얻어서 고객이 예약 할인을 받고 있는지 확인하고 할인이 적용되는 가상 컴퓨터(VM)를 확인할 수 있습니다. 예제 A와 예제 B를 비교하여 고객의 예약 사용량을 확인하는 방법을 확인하세요. 
 
-![예약 사용 예제](images\usage5.png)
+![예약 사용 예제](images/usage5.png)
 
 -   reservationId는 VM에 할인을 적용하는 데 사용된 Azure 예약을 식별합니다.
 -   consumptionMeter는 예약 할인이 적용되는 VM의 MeterId입니다.

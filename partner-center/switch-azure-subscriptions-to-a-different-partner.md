@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: d66e24d831aa3ea9d84138d1ca06e5e9be51742b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f9df7ac6c1e30f9e0d9d62c5e0c18aae529c472a
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995897"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014810"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 이전 
 
@@ -25,8 +25,7 @@ ms.locfileid: "8995897"
 
 >[!Note]  
 >이 이번에 직접 또는 간접 공급자만 구독을 전송할 수 있습니다.
-
->[!Note]현재 Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대 한 클라우드 솔루션 공급자 구독의 파트너를 변경할 수는 없습니다.
+>현재 Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독에 대 한 클라우드 솔루션 공급자 구독의 파트너를 변경할 수는 없습니다.
 
 
 
