@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011110"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015729"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>클라우드 솔루션 공급자 (CSP) 직접 파트너에서 CSP 간접 재판매인으로 전환 
 
@@ -39,7 +39,7 @@ ms.locfileid: "9011110"
 4. 지금 등록을 선택합니다. 간접 재판매인 비즈니스 직접 비즈니스를 위해 사용 하 여 동일한 AAD 테 넌 트를 사용 합니다.
 
 >[!Note]
->직접 청구서 AAD 테 넌 트를 사용 하 여 간접 재판매인으로 등록 하는 옵션 직접 직접 청구 등록 취소에 대 한 확인 된 청구서 파트너만 나와 있습니다. 
+>처음에이 새로운 전환 기능 년 12 월 1 주년 날짜 9 월 있는 파트너를 사용할 수 됩니다. "T 년 12 월 9 월 사이의 1 주년 날짜가 있습니까,이 이번에는 기능이 표시 되지 않습니다 않는 경우. 2018 년 12 월 1 주년 날짜와 함께 파트너는 파트너에 대 한 기능을 사용 하도록 설정한 나중에 알림을 받게 됩니다.
 
 
 5. 사용자 등록 승인 되 면 파트너 센터에 다시 로그인 합니다.
@@ -54,7 +54,7 @@ ms.locfileid: "9011110"
 ![간접 재판매인 계약](images/direct/direct3.png)
 
 >[!Important] 
->성공적으로 기존 직접 청구 파트너 테 넌 트를 사용 하 여 간접 재판매인으로 등록, 했으면 간접 재판매인 기능을 제거 하려면 롤백 옵션이 없을 합니다. 등록을 사용 하 여 계속 진행 하기 전에 반드시 하려는 경우 간접 재판매인으로 전환 합니다.
+>새로운 기능을 사용 하 여 간접 재판매인으로 등록 되 면 직접 청구서-유일한 테 넌 트 롤백할 수 있는 옵션이 있습니다. 간접 재판매인으로 등록 하기 전에 비즈니스 요구 사항을 완벽 하 게 평가 하 고 있는지 확인 하십시오.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>직접에서 간접 재판매인으로 전환 하는 동안
 
