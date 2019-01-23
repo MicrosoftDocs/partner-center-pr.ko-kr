@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance 상품권, 예약 증명서 유효성 검사
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ca745281ed0e37ee6ec2e72df4ede4def17bcc7
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015368"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024875"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: 증명서 유효성 검사 및 교환 도구를 사용 하 여 
 
@@ -33,12 +33,12 @@ ms.locfileid: "9015368"
 
 **PMC에서 회사를 마이그레이션한 하지만 지난 18 개월 동안에서 DP/SATV 프로그램을 사용 하지 않은 했습니다.**
 
-- [PMC 지원 팀](proghelp@microsoft.com)에 문의 합니다. 
+- [PMC 지원 팀](mailto:proghelp@microsoft.com)에 문의 합니다. 
 
 
 **내 회사 PMC에서 파트너 센터로 마이그레이션 했습니다. VVR에서 작동 하도록 특별히 수행 해야 합니까?** 
 
-- VVR 파트너 센터에서 사용할 수 있게 됩니다.  VVR를 사용 하려면 MPN 파트너 관리자가 회사 계정 전자 메일을 사용 하 여 파트너 센터에 로그인 수 있습니다. 새 사용자를 추가 하려는 경우 전역 관리자 또는 MPN 관리자 수이 작업을 수행 합니다. 파트너 센터에 액세스할 수 있는 경우 **사용자가**선택한 **MPN 관리자**필터링 **액세스 관리**이동 합니다. 이렇게 하면 회사의 MPN 관리자의 목록입니다.  
+- VVR 파트너 센터에서 사용할 수 있게 됩니다.  VVR를 사용 하려면 MPN 파트너 관리자가 회사 계정 전자 메일을 사용 하 여 파트너 센터에 로그인 수 있습니다. 새 사용자를 추가 하려면 전역 관리자 설정할 수 있습니다. 파트너 센터에 액세스할 수 있는 경우 **사용자**를 선택한 **MPN 관리자** **전역 관리자**의 필터링 **액세스 관리**이동 합니다. 이렇게 하면 회사의 MPN 및 전역 관리자의 목록입니다.  
 
 **일부 사용자만 VVR 액세스할 수 있어야 합니다.**
 
@@ -49,5 +49,5 @@ ms.locfileid: "9015368"
 - 파트너 센터 (AAD)는 회사 계정으로 로그인을 해야합니다.  칩은 현재 로그인 (MSA 또는 Live ID)에 대 한 개인 계정을 사용합니다.  파트너 센터에서 VVR 칩을 탐색할 때 MSA 또는 칩을 사용 하 여 등록 된 Live ID를 사용 하 여 칩에 로그인 해야 합니다.
 
 [파트너 센터에서 소프트웨어 보증 교육 상품권 (SATV) 프로그램](software-assurance-satv.md)SATV에 등록 하는 방법에 대 한 정보를 참조 하세요.
-
-[파트너 센터에서 Software Assurance 프로그램](software-assurance-dps.md)소프트웨어 보증 DP 프로그램에 등록 하는 방법에 대 한 정보를 참조 하세요.
+ <!--
+For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
