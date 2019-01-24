@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015369"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025337"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>파트너 센터에서 증명서 유효성 검사 및 교환 도구를 사용 하 여 유효성 검사, 예약, 및 상품권 교환 
 
@@ -47,11 +47,13 @@ ms.locfileid: "9015369"
 ## <a name="redeem-a-voucher"></a>증명서 교환
 
 있는 상품권을 예약한 후에 교환할 수 있습니다. 
+
 1. 예약 된 상품권의 목록에서 교환 하려는 voucher(s)를 선택 합니다. 
-2. 필요한 경우 참석자 목록을 업데이트 하 고 **업데이트**를 선택 합니다.
-3. 이제 **구원** 상품권 목록이 표시 됩니다.
+2. 이제 **구원** 상품권 목록이 표시 됩니다.
+
 4. 클레임을 만들려면 **클레임 만들기**, 선택 또는 증명서 세부 정보 페이지에서 **클레임 만들기**를 선택 합니다.
-5. **요청 만들기** 를 선택 하면 Microsoft 송장 하기 위해 온라인 결제 소프트웨어 보증 증명서 혜택 (SAVB) 도구를 이동 합니다.
+
+5. **작성 한 클레임을** 선택 하려면 Microsoft 송장 [소프트웨어 보증 증명서 혜택 (SAVB) 온라인 결제 도구](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) 를 이동 합니다.
 
 
 ### <a name="cancel-a-voucher"></a>취소는 증명서
