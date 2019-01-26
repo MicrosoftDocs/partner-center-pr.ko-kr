@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025337"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030073"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>파트너 센터에서 증명서 유효성 검사 및 교환 도구를 사용 하 여 유효성 검사, 예약, 및 상품권 교환 
 
@@ -60,7 +60,7 @@ ms.locfileid: "9025337"
 
 다음과 같이 몇 가지 방법으로 증명서 예약을 취소 해야 할 수도 있습니다.
 
-- boucher 원래 예약 된 제품 또는 프로그램에서 변경 되었습니다.
+- 제품 또는 프로그램의 증명서 원래 예약 된에서 변경 되었습니다.
 
 - 참여 아무것도 하지 않습니다.
 
