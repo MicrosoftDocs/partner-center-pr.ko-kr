@@ -6,12 +6,12 @@ description: CSP에서 판매하기 위한 다양한 모델을 파악하고 비�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001703"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042587"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -71,6 +71,15 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 |**미수금** |고객 청구 및 프로 비전을 관리 하에서는 조직 인프라. 
 
 
+최소 요구 사항을 검토 한 후에 자격을 확인 하는 빠른 유효성 검사 설문지를 완료 해야 합니다. 
+
+[클라우드 솔루션 공급자 평가](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- 직접 파트너로 등록하고 수용 조건을 충족하면 전역 관리자가 귀하의 계정을 설정하고, 직원을 추가하고, 직원들에게 업무에 따라 역할 및 권한을 할당하고, 조직 프로필을 설정할 수 있습니다.
+
+- 파트너 센터를 통해 계속 작동 하도록 하고자 하는 고객과 함께 협업 해, 경우 해야 [연결](request-a-relationship-with-a-customer.md) 파트너 센터에서 계정에 합니다. 그러면 Microsoft는 청구 및 송장 작성을 이들에게 연결할 수 있습니다. 
+
+직접 청구 파트너에서 간접 재판매인으로 전환 하는 방법에 대 한 내용은 [CSP 간접 재판매인을 직접 청구 파트너 클라우드 솔루션 공급자 (CSP)에서 전환](transition-direct-to-indirect.md) 하세요
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 지역 시장 및 통화
 
