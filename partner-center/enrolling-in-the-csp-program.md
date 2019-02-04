@@ -6,12 +6,12 @@ description: CSP에서 판매하기 위한 다양한 모델을 파악하고 비�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042587"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043512"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -56,28 +56,26 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>직접 파트너로 등록
+### <a name="enroll-as-a-direct-bill-partner"></a>직접 청구 파트너로 등록
 
-직접 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다. 2018 년 8 월 31 일 기준으로 직접 청구 파트너 등록 요구 사항을 업데이트 했습니다. 이러한 새 요구 사항을 오른쪽 CSP 등록 모델에 비즈니스 성장을 가속화 부가 가치 서비스 및 지원에 고객 관계를 강화 하는 데 도움이 됩니다. 
+직접 청구 파트너는 Microsoft 및 고객과 종단 간 관계를 소유 합니다. 2018 년 8 월 31 일 기준으로 직접 청구 파트너 등록 요구 사항을 업데이트 했습니다. 이러한 새 요구 사항을 오른쪽 CSP 등록 모델에 비즈니스 성장을 가속화 부가 가치 서비스 및 지원에 고객 관계를 강화 하는 데 도움이 됩니다. 
 
 ### <a name="minimum-requirements"></a>최소 요구 사항
 
 |**요구 사항**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN ID**   |비즈니스 위치에 대 한 활성 Microsoft 파트너 네트워크 (MPN) ID입니다.   |
+|**MPN ID**   |비즈니스 위치에 대 한 활성 Microsoft 파트너 네트워크 (MPN) ID입니다.    |
 |**승인**   |수락 하 고 조직 대신 하 여 법적 계약에 서명 하는 권한을 합니다.|
-|**지원**   |첫 번째 수준의 클라우드 제품을 제공 하는 기능 고객에 게 지원 합니다.|
+|**지원**   |첫 번째 수준의 클라우드 제품을 제공 하는 기능 고객에 게 지원 합니다. 두 고급 지원 (ASfP) 파트너는 Microsoft 지원 계획 또는 필요에 따라 파트너 (PSfP)에 대 한 프리미어 지원 합니다. [비교 지원 계획](https://partner.microsoft.com/en-US/support/partnersupport)합니다. |
 |**관리 서비스**   |하나 이상의 관리 서비스, IP 서비스 또는 고객 솔루션 응용 프로그램. [관리 되는 서비스](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)를 추가 하는 방법에 대 한 자세히 알아보세요.|
 |**미수금** |고객 청구 및 프로 비전을 관리 하에서는 조직 인프라. 
 
 
-최소 요구 사항을 검토 한 후에 자격을 확인 하는 빠른 유효성 검사 설문지를 완료 해야 합니다. 
+위의 최소 요구 사항을 검토 한 후에 자격을 확인 하는 빠른 유효성 검사 설문지를 완료 해야 합니다. 
 
-[클라우드 솔루션 공급자 평가](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[클라우드 솔루션 공급자 설문지](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- 직접 파트너로 등록하고 수용 조건을 충족하면 전역 관리자가 귀하의 계정을 설정하고, 직원을 추가하고, 직원들에게 업무에 따라 역할 및 권한을 할당하고, 조직 프로필을 설정할 수 있습니다.
-
-- 파트너 센터를 통해 계속 작동 하도록 하고자 하는 고객과 함께 협업 해, 경우 해야 [연결](request-a-relationship-with-a-customer.md) 파트너 센터에서 계정에 합니다. 그러면 Microsoft는 청구 및 송장 작성을 이들에게 연결할 수 있습니다. 
+설문지의 평가 CSP 직접 청구 프로그램에 등록 하 여 자격을 결정 합니다. 직접 청구 기준을 충족 하 고 등록 양식 제출한 설문지를 통해 확인 한 후 신용 검사를 포함 하 여 회사의 비즈니스 검토를 수행 합니다. 승인 신용 인 경우 ASfP 또는 PSfP 계획의 구매를 확인 하 고 마지막으로, 직접 청구 파트너는 고객과 거래 하려면 직접 청구 용어 계약에 동의 해야 합니다.
 
 직접 청구 파트너에서 간접 재판매인으로 전환 하는 방법에 대 한 내용은 [CSP 간접 재판매인을 직접 청구 파트너 클라우드 솔루션 공급자 (CSP)에서 전환](transition-direct-to-indirect.md) 하세요
 
