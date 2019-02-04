@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance SATV, SATV에 등록
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015361"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043590"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터에서 소프트웨어 보증 교육 상품권 (SATV) 프로그램
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터의 SATV (Software Assurance Training Voucher) 프로그램
 
 Software Assurance 파트너 프로그램에 등록 하 여 비즈니스를 성장 합니다. Microsoft 보상 파트너 Software Assurance가 있는 엔터프라이즈 고객에 게 교육, 계획, 및 기타 서비스를 제공 합니다. 
 
@@ -72,7 +72,7 @@ SATV 프로그램에 등록을 적극적으로 반영 하도록 시스템에 대
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>예약 하 고 교육 상품권 교환
 
-예약 상품권 교환 및 교육 고객에 게 시작 됩니다. 회사의 MPN 관리자 파트너 센터에서 증명서 유효성 검사 및 교환 도구 (VVR)에 액세스할 수 있고 도구에서 작업 해야 하는 사용자를 추가할 수 있습니다. VVR에 대 한 자세한 내용은 [관리 상품권 증명서 유효성 검사 및 교환 도구에서](voucher-validation-tool)참조 하세요.
+예약 상품권 교환 및 교육 고객에 게 시작 됩니다. 회사의 MPN 관리자 파트너 센터에서 증명서 유효성 검사 및 교환 도구 (VVR)에 액세스할 수 있고 도구에서 작업 해야 하는 사용자를 추가할 수 있습니다. VVR에 대 한 자세한 내용은 [관리 상품권 증명서 유효성 검사 및 교환 도구에서](voucher-validation-tool.md)참조 하세요.
 
 >[!Note]
 >VVR 도구를 파트너 센터로 이동 했습니다. 2019 년 3 월 부터는 이전 VVR 도구 사이트 사용 중지 됩니다.
