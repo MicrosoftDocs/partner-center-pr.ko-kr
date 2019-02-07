@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 청구 주기에서 각 요금의 자세한 품목 보기에 대 한 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995947"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062381"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -179,7 +179,7 @@ ms.locfileid: "8995947"
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>세 액 요금, 시장 & #39; s 세금 규칙 및 특정 상황에 따라.</p></td>
+<td><p>세 액 요금 market& #39; s 세금 규칙 및 특정 상황에 따라 합니다.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ ms.locfileid: "8995947"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>고객 & #39; 파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td><p>Customer& #39; 파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
 <td>테스트 고객 A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ ms.locfileid: "8995947"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>고객 & #39; s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 있는 고객을 고유 하 게 식별 하 하지 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>Customer& #39; s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 있는 고객을 고유 하 게 식별 하 하지 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "8995947"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>고객 & #39; 파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td><p>Customer& #39; 파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
 <td>테스트 고객 A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ ms.locfileid: "8995947"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>세 액 요금, 시장 & #39; s 세금 규칙 및 특정 상황에 따라.</p></td>
+<td><p>세 액 요금 market& #39; s 세금 규칙 및 특정 상황에 따라 합니다.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ ms.locfileid: "8995947"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>고객 & #39; s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>Customer& #39; s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">

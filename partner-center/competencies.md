@@ -3,17 +3,17 @@ title: Microsoft 역량 획득 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
 description: 실버 및 골드 Microsoft 역량을 획득하여 특수한 비즈니스 영역에 고품질 솔루션을 제공하는 귀사의 검증된 전문 지식을 보여 주세요.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, 혜택, 성과 목표, 기술 목표
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796896"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062341"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -58,11 +58,11 @@ Microsoft 역량 도전 과제는 검증된 고품질 솔루션 제공 경험을
 
 일부 역량의 경우 다양한 방법으로 실버 또는 골드 등급을 획득할 수 있습니다.
 
-파트너 센터 파트너 센터에서 역량 진행 상황을 확인 하려면로 이동 합니다 **파트너십 > 역량**. 
+파트너 센터 파트너 센터에서 역량 진행 상황을 확인 하려면 **파트너 관계 gt_ 역량으로**이동 합니다. 
 
 ### <a href="" id="associating_achievements"></a>직원을 완전한 기술 기준 목표에 연결
 
-1.  조직 내 직원의 사용자 계정을 추가합니다. [파트너 센터](http://partnercenter.microsoft.com)에서 이동 **계정 설정 > 사용자 추가**. (PMC 사용자는 **PMC 데이터를 사용하여 사용자 추가**를 선택하여 동시에 여러 사용자를 추가할 수 있습니다.)
+1.  조직 내 직원의 사용자 계정을 추가합니다. [파트너 센터](http://partnercenter.microsoft.com)에서 **사용자 계정 설정 gt_ 추가**으로 이동 합니다. (PMC 사용자는 **PMC 데이터를 사용하여 사용자 추가**를 선택하여 동시에 여러 사용자를 추가할 수 있습니다.)
 
     사용자 계정을 만든 후에는 해당 사용자에게 새로운 사용자 이름 및 암호가 전송되고, 사용자 이름 및 암호를 재설정하는 데 도움이 되는 정보가 포함된 로그 파일을 다운로드하라는 메시지가 나타납니다. 또한 [사용자가 직접 암호를 다시 설정할 수 있도록 사용자 계정을 설정](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)할 수 있습니다.
 

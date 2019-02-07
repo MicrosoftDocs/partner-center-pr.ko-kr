@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Microsoft에서 영업 잠재 고객을 가져오기 위해 파트너 센터에서 비즈니스 프로필을 만듭니다.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797256"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062361"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,7 +43,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 *  **Microsoft 영업 및 서비스 직원의 소개**. 클라우드 기반 기술 솔루션을 배포하는 데 관심이 있는 잠재 고객은 비즈니스 요구 사항을 충족할 수 있는 전문가를 찾기 위해 Microsoft에 도움을 요청합니다. 그러면 Microsoft 전문가가 잠재 고객을 파트너에게 소개할 수 있습니다.
 
 > [!IMPORTANT]  
-> 파트너의 비즈니스 운영 간소화를 위해 파트너 센터이 사이트에 여러 도구 및 웹 사이트에 걸쳐 분산 되어 있었던 기능을 통합 하 했습니다. 해당 노력의 일환으로으로 모든 추천 관련 기능이 파트너 센터로 이동 하 고 Pinpoint 및 C2PC 사이트의 사용을 중지 합니다. 가져오기 및 Microsoft의 추천을 관리 하려면 이전에 Pinpoint 또는 C2PC를 사용한 경우 계속 추천을 받기 하려면 파트너 센터에서 새로운 비즈니스 프로필을 만들려면 해야 합니다. 더 이상 해당 사이트에서 프로필 가져오기를 지원하지 않습니다. 
+> 파트너 비즈니스 운영 간소화를 위해 파트너 센터이 사이트에 여러 도구 및 웹 사이트에 걸쳐 분산 하는 데 사용 하는 기능과 특징을 통합 하 했습니다. 해당 노력의 일환으로 모든 추천 관련 기능이 파트너 센터로 이동 내용이 및 Pinpoint 및 C2PC 사이트의 사용을 중지 합니다. 가져오기 및 Microsoft에서 추천을 관리 하려면 이전에 Pinpoint 또는 C2PC를 사용 하는 경우 계속 추천을 받기을 파트너 센터에서 새로운 비즈니스 프로필을 만들려면 해야 합니다. 더 이상 해당 사이트에서 프로필 가져오기를 지원하지 않습니다. 
 
 ## <a name="create-a-profile"></a>프로필 만들기
 
@@ -52,11 +52,11 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 
 사업 허가를 받은 각 지역에 대한 프로필을 만듭니다. 
 
-1.  **파트너 센터** 메뉴에서 **추천** 선택 &gt; **비즈니스 프로필** &gt; 국가/지역 선택 > **[비즈니스 프로필 만들기](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  **파트너 센터** 메뉴에서 **추천** 선택 &gt; **비즈니스 프로필** &gt; 국가/지역 gt_ **[비즈니스 프로필 만들기](https://partnercenter.microsoft.com/pcv/publishing)** 를 선택 합니다.
 
 2.  **비즈니스 프로필 만들기** 페이지에서 지역을 선택한 다음 파트너 정보 및 전문 분야를 포함하여 프로필 정보를 입력합니다.
     > [!NOTE]  
-    >  파트너 센터에서 여러 언어를 지 원하는 동안 설명, 자유 형식 태그 등의 일부 요소가이 항목에 언급 된 것 처럼 다른 언어의 텍스트를 포함 해야 합니다.
+    >  파트너 센터에서 여러 언어를 지 원하는 동안 설명, 자유 형식 태그 등의 일부 요소를이 항목에 언급 된 것 처럼 다른 언어의 텍스트를 포함 해야 합니다.
 
 ### <a href="" id="partner_info"></a>파트너 정보
 
@@ -102,7 +102,7 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 이 설정을 선택하는 것이 좋습니다. 
 
-파트너 센터를 통해 고객과 성공을 보여줄 또는 다른 Microsoft 인증 또는 프로그램에 참여, 서비스 및 산업 성공에 기여한 특정 제품에 대 한 보증 자동으로 추가 됩니다. 보증은 검색 결과에서 중요한 요소입니다.
+파트너 센터를 통해 고객과 성공을 보여줄 또는 다른 Microsoft 인증 또는 프로그램에 참여, 보증, 서비스 및 산업 성공에 기여한 특정 제품에 대 한 자동으로 추가 됩니다. 보증은 검색 결과에서 중요한 요소입니다.
 
 그러나 서비스를 제공하고 있지만 프로필에 표시하고 싶지 않은 제품이 있는 경우 이 확인란의 선택을 취소하고 프로필을 수동으로 관리할 수 있습니다. 이러한 보증은 고객 보기에서 표시되지 않지만 나중에 언제든지 프로필에 다시 추가할 수 있습니다.
 

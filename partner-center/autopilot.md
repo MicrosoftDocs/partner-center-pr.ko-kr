@@ -1,15 +1,18 @@
 ---
 title: Windows Autopilot 프로필을 사용 하 여 디바이스의 기본 제공 환경을 사용자 지정 | 파트너 센터
 description: Autopilot 프로필을 사용 하 여 디바이스의 기본 제공 경험 미리 구성 합니다.
+ms.topic: article
+ms.date: 2/6/19
 author: maggiepuccievans
+ms.author: evansma
 keywords: autopilot, windows autopilot, microsoft autopilot, 제로 터치 배포, oobe, 로그인 화면, 기본 제공
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 62e83c63bb10c041549f5a09bc32bdae979d462d
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995937"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062281"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 디바이스의 기본 제공 환경을 사용자 지정
 
