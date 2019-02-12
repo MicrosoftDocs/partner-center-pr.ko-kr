@@ -2,30 +2,30 @@
 title: 파트너 센터에서 서비스 소프트웨어 보증 계획 | 파트너 센터
 ms.topic: article
 ms.date: 1/21/19
-description: 기업 고객에 대 한 사전 배포 계획을 제공 하는 서비스 계획에 등록
+description: 기업 고객에 대 한 사전 배포 계획을 제공 하기 위해 서비스 계획에 등록
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 98527a89422ff30638c4d6ecc44efac5c147a7f6
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
+ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9028506"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066020"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software assurance가 파트너 센터에서 서비스 계획
+# <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance의 계획 서버
 
-Software Assurance 파트너 프로그램에 등록 하 여 비즈니스를 성장 합니다. Microsoft 보상 파트너 Software Assurance가 있는 엔터프라이즈 고객에 게 교육, 계획, 및 기타 서비스를 제공 합니다.
+Software Assurance 계획 Services 프로그램에 등록 하 여 비즈니스를 성장 합니다. Microsoft 보상 파트너 Software Assurance가 있는 엔터프라이즈 고객에 게 교육, 계획, 및 기타 서비스를 제공 합니다.
 
 파트너 서비스 승인 된 계획 대로 Microsoft 기업 고객에 대 한 사전 배포 계획 계약을 제공 하기 위한 보완 합니다. 이 프로그램에 참여 하 고 많은 고객을 유치가 신뢰할 수 있는 계획 협력 하 고 추가 고객 응대 시킬 수 있습니다.
 
-Software Assurance 계획 서비스에 익숙하지 [서비스 계획을 사용 하 여 비즈니스 성장](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)확인 합니다.
+Software Assurance 계획 Services 모르는 경우 [서비스 계획을 사용 하 여 비즈니스 성장](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)를 참조 하세요.
 
 
 ## <a name="get-started"></a>시작
 
-Software Assurance 계획 서비스를 처음 접하는 경우 아래의 모든 단계를 수행 합니다. 단계 4 개의 아래에서 시작 하는 계획 서비스 프로그램에서 활성화 이미 있는 경우 파트너 계정 정보를 파트너 센터로 이동 되었습니다. 
+소프트웨어 보증 서비스 계획을 처음 접하는 경우 아래의 모든 단계를 수행 합니다. 활성 서비스 계획 프로그램에 이미 있는 경우 파트너 계정 정보를 파트너 센터로 이동 되었습니다 단계 4 개의 아래에서 시작 됩니다. 
 
 1. 프로그램 자격 확인 
 2. 계획 서비스 프로그램에 등록
@@ -39,7 +39,7 @@ Software Assurance 계획 서비스를 처음 접하는 경우 아래의 모든 
 
 ## <a name="confirm-eligibility"></a>자격을 확인 합니다.
 
-계획 서비스 프로그램에 등록 하려면, 회사 역량 및 규정 준수 교육 요구 사항을 충족 해야 하 고 고객 참여 선행 컨설턴트 기술 교육 및 시험 요구 사항을 충족 해야 합니다. 
+서비스 계획 프로그램에 등록 하려면, 회사 역량 및 규정 준수 교육 요구 사항을 충족 해야 하 고 고객 참여 선행 컨설턴트 기술 교육 및 시험 요구 사항을 충족 해야 합니다. 
 
 각 계획 서비스 프로그램에는 고유한 자격 요구 사항이 있습니다. 서비스 자격 요구 사항 계획 하는 방법에 대 한 자세한 내용은 [확인 자격](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) 을 참조 하세요.
 
@@ -59,9 +59,9 @@ Software Assurance 계획 서비스를 처음 접하는 경우 아래의 모든 
 
 5. 회사의 프로그램 참가자 필수 교육 과정을 완료 한 후 [등록 페이지로](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) 돌아가서 Microsoft 계획 서비스 프로그램 공급자 계약에 서명 합니다. 
 
-## <a name="enroll-in-a-planning-service-program"></a>계획 서비스 프로그램에 등록
+## <a name="enroll-in-the-planning-services-program"></a>서비스 계획 프로그램에 등록
 
-회사는 계획 서비스 프로그램에 대 한 자격 요구 사항을 충족 하 고 프로그램 참가자 준수 교육 과정을 통과 한 후 등록 준비가 되었습니다. 
+회사에 서비스 계획 프로그램에 대 한 자격 요구 사항을 충족 하 고 프로그램 참가자 준수 교육 과정을 통과 한 후 등록 준비가 되었습니다. 
 
 계획 서비스 프로그램에 등록 하려면 다음이 단계를 따릅니다.
 
@@ -69,7 +69,7 @@ Software Assurance 계획 서비스를 처음 접하는 경우 아래의 모든 
 2. 계획 서비스 탭을 열려면 서비스 계획을 선택 합니다.
 3. 프로그램에 등록 하 고 선택 하 고 싶은 선택 **등록.**
 
-이 프로세스를 완료 하면 때 회사 loations에 등록 한 제품을 제공 하도록 승인 됩니다. MPN에 모든 승인 된 위치에 대 한 연락처 역할을 나열 하는 조직의 직원 관리 해당 위치를 대신 하 여 서비스 계획 상품권 VVR 도구에 액세스 하려면 자격이 됩니다. 
+이 프로세스를 완료 하면 때 회사 위치에 등록 한 제품을 제공 하도록 승인 됩니다. 회사의 직원에 게 MPN 파트너 관리자 나열 된 모든 위치를 대신 하 여 서비스 계획 상품권 관리 VVR 도구에 액세스 하려면 해당 됩니다.
 >[!Note]
 > 요구 사항 갱신 하 고 매년을 서비스 계획 프로그램에 다시 등록 해야 합니다.
 
@@ -92,7 +92,6 @@ Software Assurance 계획 서비스를 처음 접하는 경우 아래의 모든 
 >[!NOTE]
 > 이 단계에서 결과물 고객 참여의 복사본을 업로드 해야 합니다. 
 
-완료 하 고 완료 보고서 제출 파일을 저장할 결과 제출 영수증 (형태로.xml) 장치에 대로 증명서 교환 되 게 해야 합니다.
 
 [관리 상품권 증명서 유효성 검사 및 교환 도구 (VVR)](voucher-validation-tool.md)의 단계를 수행 합니다.
 
@@ -102,7 +101,12 @@ Software Assurance 계획 서비스를 처음 접하는 경우 아래의 모든 
 
 1. 예약 된 상품권의 목록에서 교환 하려는 voucher(s)를 선택 합니다. 
 2. 이제 **구원** 상품권 목록이 표시 됩니다.
+3. 원하는 voucher(s) 옆에 있는 확인란을 선택한 다음 **교환 선택한 상품권**누릅니다.
+4. 확인 증명서 상환 페이지에서 증명서 정확도 대 한 정보를 검토 다음 **예** 는 증명서 교환를 선택 합니다.
 
-4. 클레임을 만들려면 **클레임 만들기**, 선택 또는 증명서 세부 정보 페이지에서 **클레임 만들기**를 선택 합니다.
+5. 클레임을 만들려면 **클레임 만들기**, 선택 또는 증명서 세부 정보 페이지에서 **클레임 만들기**를 선택 합니다.
 
-5. **작성 한 클레임을** 선택 하려면 Microsoft 송장 [소프트웨어 보증 증명서 혜택 (SAVB) 온라인 결제 도구](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) 를 이동 합니다.
+6. **작성 한 클레임을** 선택 하려면 Microsoft 송장 [소프트웨어 보증 증명서 혜택 (SAVB) 온라인 결제 도구](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) 를 이동 합니다.
+
+
+
