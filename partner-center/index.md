@@ -9,12 +9,12 @@ author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
-ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
+ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
+ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043570"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066053"
 ---
 # <a name="welcome-to-partner-center"></a>파트너 센터 시작
 
@@ -86,8 +86,8 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>소프트웨어 보증 프로그램</h3>
-                        <p>이제 소프트웨어 보증 교육 및 파트너 센터에서 사전 배포 서비스에 등록할 수 있습니다.</p></a>
+                        <h3>Software Assurance 프로그램</h3>
+                        <p>이제 Software Assurance 교육 및 파트너 센터에서 배포 서비스에 등록할 수 있습니다.</p></a>
                     </div>
                 </div>
             </div>
