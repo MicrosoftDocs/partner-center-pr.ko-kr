@@ -330,7 +330,7 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  이스라엘         |   USD    |
 |  요르단         |          |
 |  카자흐스탄     |   USD    |
-|  코소보         |   USD    |
+|  Kosovo         |   USD    |
 |  쿠웨이트         |   USD    |
 |  키르기스스탄     |   USD    |
 |  레바논        |   USD    |
@@ -345,7 +345,7 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  모잠비크     |          |
 |  오만           |   USD    |
 |  파키스탄       |   USD    |
-|  팔레스타인 자치 |        |
+|  Palestinian Territory, Occupied |        |
 |  카타르          |   USD    |
 |  사우디아라비아   |   USD    |
 |  세르비아         |   USD    |
@@ -383,9 +383,9 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  러시아         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>대만 지역 및 지역/국가
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-회사의 위치가 대만, 대만에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  국가/지역 | 통화 |
 |  -------------- |:--------:|
