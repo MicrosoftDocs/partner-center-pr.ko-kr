@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079261"
+ms.locfileid: "9079732"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격표 및 제품
 
@@ -43,6 +43,8 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft 클라우드 재판매인 계약 - 일본](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -57,6 +59,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft 클라우드 계약 템플릿
 
 귀하는 CSP 파트너로서 고객과 함께 Microsoft 제품 및 서비스의 사용 제한을 포함하여 Microsoft 사용 약관을 검토할 책임이 있습니다. Microsoft 클라우드 계약서 [고객 템플릿](agreements.md) 은를 찾는 신규 고객과 함께 검토 해야 하 고 Microsoft 클라우드 계약으로 이동 합니다. 
+
 
 
 
