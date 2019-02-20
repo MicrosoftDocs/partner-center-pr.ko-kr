@@ -1,18 +1,18 @@
 ---
 title: 파트너 센터에서 서비스 소프트웨어 보증 계획 | 파트너 센터
 ms.topic: article
-ms.date: 1/21/19
+ms.date: 01/21/19
 description: 기업 고객에 대 한 사전 배포 계획을 제공 하기 위해 서비스 계획에 등록
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066020"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083416"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance의 계획 서버
 
@@ -23,7 +23,7 @@ Software Assurance 계획 Services 프로그램에 등록 하 여 비즈니스�
 Software Assurance 계획 Services 모르는 경우 [서비스 계획을 사용 하 여 비즈니스 성장](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)를 참조 하세요.
 
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 소프트웨어 보증 서비스 계획을 처음 접하는 경우 아래의 모든 단계를 수행 합니다. 활성 서비스 계획 프로그램에 이미 있는 경우 파트너 계정 정보를 파트너 센터로 이동 되었습니다 단계 4 개의 아래에서 시작 됩니다. 
 

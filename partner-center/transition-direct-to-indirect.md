@@ -7,24 +7,24 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024915"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083376"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>클라우드 솔루션 공급자 (CSP)에서 전환 직접 CSP 간접 재판매인 파트너 청구서 
-
 **적용 대상:**
  - CSP 파트너
+
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>클라우드 솔루션 공급자 (CSP) 직접 청구 파트너에서 CSP 간접 리셀러로 전환 
 
 >[!Note] 
 >이 문서는 간접 재판매인으로 전환 하지 않기로 직접 청구 파트너를 위한 것입니다. 
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다. 
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 1. 파트너 프로필 파트너 센터에서와 확인 MPN ID는 현재 합니다.
 

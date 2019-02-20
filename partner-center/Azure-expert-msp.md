@@ -1,19 +1,19 @@
 ---
 title: Azure 전문가 관리 서비스 공급자 프로그램 | 파트너 센터
 ms.topic: article
-ms.date: 12/3/2018
+ms.date: 12/03/2018
 description: 판매 및 Azure 지원 전문가 Azure 전문가 MSP에 적용할 수 있습니다.
 author: labrenne
 ms.author: labrenne
 Keywords: Azure sales, expert programs, partner programs
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: cbad9db99833a3f05dbc732e4c2b1bf6cd1f0dba
-ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
+ms.openlocfilehash: 07ef1925313599981f69e7885bc4515243dd2af9
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "9014800"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083364"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure 전문가 관리 서비스 공급자 프로그램
 
