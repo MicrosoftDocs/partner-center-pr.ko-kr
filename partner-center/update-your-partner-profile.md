@@ -1,14 +1,17 @@
 ---
 title: 파트너 프로필 업데이트 | 파트너 센터
 description: 관리자로 처음 로그인하는 경우 지원 세부 정보가 정확한지 확인하고, 해당하는 경우 면세 정보를 제출하고, 프로필의 연락처 정보를 검토합니다.
+MS.Topic: article
+Date: 02/19/29
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: 5fb7852cfb393793dee00127d5397bd1dc55ef11
-ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
+MS.Author: evansma
+ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043502"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083386"
 ---
 # <a name="update-your-partner-profile"></a><span data-ttu-id="5555d-103">파트너 프로필 업데이트</span><span class="sxs-lookup"><span data-stu-id="5555d-103">Update your partner profile</span></span>
 
