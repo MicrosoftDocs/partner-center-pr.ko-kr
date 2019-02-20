@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079732"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083146"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격표 및 제품
 
@@ -27,13 +27,12 @@ ms.locfileid: "9079732"
 
 ## <a name="cloud-solution-provider-program-guide"></a>클라우드 솔루션 공급자 프로그램 가이드
 
-
 클라우드 솔루션 공급자 프로그램에서 파트너가 되기 위한 요구 사항을 검토하세요.
 
 [클라우드 솔루션 공급자 파트너용 프로그램 가이드](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->인증 또는 확인 상태 문자, 필요한 경우 [지원에 문의](https://partner.microsoft.com/pcv/servicerequests/create)하 여 요청할 수 있습니다.
+>비즈니스 문자를 확인 하거나 상태 [지원](https://partner.microsoft.com/pcv/servicerequests/create) 요청을 클라우드 솔루션 공급자 프로그램에서 Microsoft 파트너로 승인 된 인증 필요 합니다.
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>클라우드 솔루션 공급자 파트너 계약
 
@@ -42,8 +41,6 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 [Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 클라우드 계약 고객 템플릿
 
-## <a name="microsoft-cloud-agreement-templates"></a>Microsoft 클라우드 계약 템플릿
+고객의를 대신 하 여 주문을 할 수, 전에 고객 수락 하 고 해당 Microsoft 클라우드 계약서에 서명 해야 합니다. Microsoft 클라우드 계약은 지역별 및 여러 언어에서 사용할 수 있습니다. Microsoft 클라우드 계약서 [고객 템플릿](agreements.md) 은를 찾는 신규 고객과 함께 검토 해야 하 고 Microsoft 클라우드 계약으로 이동 합니다.
 
-귀하는 CSP 파트너로서 고객과 함께 Microsoft 제품 및 서비스의 사용 제한을 포함하여 Microsoft 사용 약관을 검토할 책임이 있습니다. Microsoft 클라우드 계약서 [고객 템플릿](agreements.md) 은를 찾는 신규 고객과 함께 검토 해야 하 고 Microsoft 클라우드 계약으로 이동 합니다. 
-
-
-
+>[!IMPORTANT]
+>고객이 서명한 사람에 대 한 정보를 제공 하 여 Microsoft 클라우드 계약을 수락 했습니다 있는지 확인 해야 합니다. 자세한 내용은 [Microsoft 클라우드 계약의 고객의 동의 확인](confirm-consent.md) 하 고 [Microsoft 클라우드 계약 고객 수락 확인 질문과 대답](confirm-consent-faq.md) 을 참조 하세요.
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft 클라우드 계약 (독일)의 전문적인 비밀 수정
 

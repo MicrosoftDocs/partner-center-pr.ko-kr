@@ -5,14 +5,14 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: 고객, 고객, 동의
+keywords: 고객, 고객에 게 동의 MCA, Microsoft 클라우드 계약, 고객 계약 템플릿
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000033"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083196"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Microsoft 클라우드 계약 고객의 동을 확인 합니다.
 
@@ -31,7 +31,7 @@ ms.locfileid: "9000033"
 
 -   승인 날짜
 
-자세한 내용은 [Microsoft 클라우드 계약 고객 수락 확인 질문과 대답](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)을 참조 하세요.
+자세한 내용은 Microsoft 클라우드 계약 고객 수락 확인 [질문과 대답](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)을 참조 하세요.
 
 ## <a name="schedule"></a>일정
 
@@ -63,7 +63,8 @@ ms.locfileid: "9000033"
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>새 고객에 대 한 고객의 동을 확인 합니다.
 
-파트너 센터에서 새 고객 테 넌 트를 만드는 동안 고객의 동의 확인 하려면 다음 절차를 사용 합니다. 참고 이렇게 하려면 관리자 에이전트 또는 판매 에이전트 여야 합니다. 
+파트너 센터에서 새 고객 테 넌 트를 만드는 동안 고객의 동의 확인 하려면 다음 절차를 사용 합니다. 참고 이렇게 하려면 관리자 에이전트 또는 판매 에이전트 여야 합니다.
+ 
 1.  **고객**및 **새 고객** 을 선택 하 고 **계정 정보**를 선택 합니다.
 
 2.  **회사** 및 **기본 연락처**에 대 한 정보를 입력 합니다.
@@ -80,7 +81,6 @@ ms.locfileid: "9000033"
 
 기본적으로 기본 연락처 사용자 정보가 표시 됩니다. 올바르지 않으면 **업데이트** 를 선택 하 고 다음 **이름**, **성**, **메일 주소**입력 하 고 **전화 번호* (선택 사항) 계약 동의 사람의 합니다.
 
-
 6.  **다음** 나머지 고객 테 넌 트를 만드는 단계를 계속 하려면 선택 합니다.
 
 ### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>기존 고객에 대 한 고객의 동을 확인 합니다.
@@ -93,7 +93,7 @@ ms.locfileid: "9000033"
 
 3.  **Microsoft 클라우드 계약**따라 **업데이트**를 선택 합니다.
 
-![업데이트](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4.  **이름**, **성**, **메일 주소**및 **전화 번호** (선택 사항) 계약 동의 사용자의 입력 합니다.
 
