@@ -4,18 +4,13 @@ hide_bc: true
 title: 파트너 센터에 대 한 도움말 여기에서 시작
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: 파트너 센터 Microsoft 클라우드 솔루션 공급자 (CSP) 프로그램의 비즈니스를 성장 시킬 수 있습니다. 계정 설정, 고객과 관계 구축, Action Pack 구독을 구입 및 CSP 및 MPN 프로그램의 파트너에 대 한 자세한 정보를 찾습니다. 
+description: "파트너 센터 Microsoft 클라우드 솔루션 공급자 (CSP) 프로그램의 비즈니스를 성장 시킬 수 있습니다. 계정 설정, 고객과 관계 구축, Action Pack 구독을 구입 및 CSP 및 MPN 프로그램의 파트너에 대 한 자세한 정보를 찾습니다.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066053"
 ---
+
 # <a name="welcome-to-partner-center"></a>파트너 센터 시작
 
 Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하기 위한 원스톱 위치입니다. 도구 및 멤버십 옵션, 고객 추천 및 클라우드 솔루션 공급자 (CSP) 프로그램을 포함 하 여 비즈니스를 성장 하 고 거래 할 수 있도록 리소스 있습니다. 사용자 계정 관리, 고객 연결, Action Pack 구독을 구입 및 파트너 센터 도움말 라이브러리의 인센티브 프로그램에 등록 하기 위한 모범 사례에 대해 알아봅니다.
@@ -28,7 +23,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
