@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995997"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086751"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 
-클라우드 기반 솔루션 및 서비스에 대한 수요가 빠르게 늘어남에 따라 크고 작은 Microsoft 파트너가 수익성 높은 클라우드 솔루션 비즈니스를 할 수 있는 여러 기회가 생겨나고 있습니다. 시장에 진입할 준비가 되었지만 여러 공급업체를 관리하기를 원하지 않거나 종합적인 고객 관계 관리 인프라를 갖추지 못한 파트너는 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 간접 재판매인으로 등록할 수 있습니다.
+클라우드 기반 솔루션 및 서비스에 대한 수요가 빠르게 늘어남에 따라 크고 작은 Microsoft 파트너가 수익성 높은 클라우드 솔루션 비즈니스를 할 수 있는 여러 기회가 생겨나고 있습니다. 파트너에 게 진입할 준비가 시장 그 하지만 여러 공급 업체를 관리 하기 원하지는 또는 없을 수는 종단 간 고객 관계 관리 인프라 배치, 간접으로 Microsoft의 클라우드 솔루션 공급자 (CSP) 프로그램에 등록할 수 있습니다. 재판매인 합니다.
 
 CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객 지원 및 청구를 제공할 수 있는 간접 공급자(배포자라고도 함)와 협력합니다. 다시 말해서 간접 재판매인은 혼자 시작하는 대신 성공을 도와주는 경험 많은 기술 공급자와 협력할 수 있습니다. 공급자 재판매인(2계층) 모델에서는 공급자가 Microsoft로부터 클라우드 솔루션 및 서비스를 구입하고 간접 재판매인이 고객에게 재판매합니다.
 
