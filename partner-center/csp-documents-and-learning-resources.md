@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083146"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098770"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a><span data-ttu-id="fa6bc-104">클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격표 및 제품</span><span class="sxs-lookup"><span data-stu-id="fa6bc-104">Cloud Solution Provider program guide, agreements, price lists, and offers</span></span>
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083146"
 
 <span data-ttu-id="fa6bc-110">클라우드 솔루션 공급자 프로그램에서 파트너가 되기 위한 요구 사항을 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="fa6bc-110">Review requirements for becoming a partner in the Cloud Solution Provider program.</span></span>
 
-[<span data-ttu-id="fa6bc-111">클라우드 솔루션 공급자 파트너용 프로그램 가이드</span><span class="sxs-lookup"><span data-stu-id="fa6bc-111">Program guide for Cloud Solution Provider partners</span></span>](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[<span data-ttu-id="fa6bc-111">클라우드 솔루션 공급자 파트너용 프로그램 가이드</span><span class="sxs-lookup"><span data-stu-id="fa6bc-111">Program guide for Cloud Solution Provider partners</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 ><span data-ttu-id="fa6bc-112">비즈니스 문자를 확인 하거나 상태 [지원](https://partner.microsoft.com/pcv/servicerequests/create) 요청을 클라우드 솔루션 공급자 프로그램에서 Microsoft 파트너로 승인 된 인증 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa6bc-112">If you require a business letter confirming or certifying your status as an approved Microsoft partner in the Cloud Solution Provider program, [contact support](https://partner.microsoft.com/pcv/servicerequests/create) to request one.</span></span>
@@ -38,19 +38,19 @@ ms.locfileid: "9083146"
 
 <span data-ttu-id="fa6bc-114">Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다.</span><span class="sxs-lookup"><span data-stu-id="fa6bc-114">Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program.</span></span> <span data-ttu-id="fa6bc-115">제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.</span><span class="sxs-lookup"><span data-stu-id="fa6bc-115">Review the guide for the market or national cloud in which you plan to sell.</span></span>
 
-[<span data-ttu-id="fa6bc-116">Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해</span><span class="sxs-lookup"><span data-stu-id="fa6bc-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="fa6bc-116">Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해</span><span class="sxs-lookup"><span data-stu-id="fa6bc-116">Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="fa6bc-117">Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양</span><span class="sxs-lookup"><span data-stu-id="fa6bc-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[<span data-ttu-id="fa6bc-117">Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양</span><span class="sxs-lookup"><span data-stu-id="fa6bc-117">Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[<span data-ttu-id="fa6bc-118">Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카</span><span class="sxs-lookup"><span data-stu-id="fa6bc-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="fa6bc-118">Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카</span><span class="sxs-lookup"><span data-stu-id="fa6bc-118">Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="fa6bc-119">Microsoft 클라우드 재판매인 계약 - 일본</span><span class="sxs-lookup"><span data-stu-id="fa6bc-119">Microsoft Cloud Reseller agreement – Japan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="fa6bc-119">Microsoft 클라우드 재판매인 계약 - 일본</span><span class="sxs-lookup"><span data-stu-id="fa6bc-119">Microsoft Cloud Reseller agreement – Japan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="fa6bc-120">Microsoft 클라우드 재판매인 계약 - 대한민국</span><span class="sxs-lookup"><span data-stu-id="fa6bc-120">Microsoft Cloud Reseller agreement – Korea</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="fa6bc-120">Microsoft 클라우드 재판매인 계약 - 대한민국</span><span class="sxs-lookup"><span data-stu-id="fa6bc-120">Microsoft Cloud Reseller agreement – Korea</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="fa6bc-121">Microsoft 클라우드 재판매인 계약 - 대만</span><span class="sxs-lookup"><span data-stu-id="fa6bc-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[<span data-ttu-id="fa6bc-121">Microsoft 클라우드 재판매인 계약 - 대만</span><span class="sxs-lookup"><span data-stu-id="fa6bc-121">Microsoft Cloud Reseller agreement – Taiwan</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[<span data-ttu-id="fa6bc-122">Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드</span><span class="sxs-lookup"><span data-stu-id="fa6bc-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[<span data-ttu-id="fa6bc-122">Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드</span><span class="sxs-lookup"><span data-stu-id="fa6bc-122">Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government</span></span>](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a><span data-ttu-id="fa6bc-123">Microsoft 클라우드 계약 고객 템플릿</span><span class="sxs-lookup"><span data-stu-id="fa6bc-123">Microsoft Cloud Agreement customer templates</span></span>
 
