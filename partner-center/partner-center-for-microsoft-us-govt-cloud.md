@@ -6,14 +6,14 @@ description: Microsoft Cloud for US Government용 파트너 센터는 미국 내
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796716"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098750"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드 파트너 센터
+# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 파트너 센터
 
 **적용 대상**
 
@@ -27,7 +27,7 @@ ms.locfileid: "5796716"
 
 Microsoft Cloud for US Government는 정부 보안, 프라이버시 및 규정 준수 요구 사항의 데이터 보호 항목을 충족하는 별도의 [Microsoft Azure](https://azure.microsoft.com/en-us/overview/clouds/government/) 인스턴스를 제공합니다. 
 
-자세한 내용은 [Microsoft Cloud for US Government 데이터 시트](http://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)를 참조하세요.
+자세한 내용은 [Microsoft Cloud for US Government 데이터 시트](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)를 참조하세요.
 
 ## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Microsoft Cloud for US Government용 파트너 센터: 미국 정부 기관에 클라우드 솔루션 판매
 

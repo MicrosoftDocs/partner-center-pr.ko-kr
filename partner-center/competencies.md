@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, 혜택, 성과 목표, 기술 목표
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062341"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098790"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,11 +62,11 @@ Microsoft 역량 도전 과제는 검증된 고품질 솔루션 제공 경험을
 
 ### <a href="" id="associating_achievements"></a>직원을 완전한 기술 기준 목표에 연결
 
-1.  조직 내 직원의 사용자 계정을 추가합니다. [파트너 센터](http://partnercenter.microsoft.com)에서 **사용자 계정 설정 gt_ 추가**으로 이동 합니다. (PMC 사용자는 **PMC 데이터를 사용하여 사용자 추가**를 선택하여 동시에 여러 사용자를 추가할 수 있습니다.)
+1.  조직 내 직원의 사용자 계정을 추가합니다. [파트너 센터](https://partnercenter.microsoft.com)에서 **사용자 계정 설정 gt_ 추가**으로 이동 합니다. (PMC 사용자는 **PMC 데이터를 사용하여 사용자 추가**를 선택하여 동시에 여러 사용자를 추가할 수 있습니다.)
 
     사용자 계정을 만든 후에는 해당 사용자에게 새로운 사용자 이름 및 암호가 전송되고, 사용자 이름 및 암호를 재설정하는 데 도움이 되는 정보가 포함된 로그 파일을 다운로드하라는 메시지가 나타납니다. 또한 [사용자가 직접 암호를 다시 설정할 수 있도록 사용자 계정을 설정](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)할 수 있습니다.
 
-2. 조직 내 직원에게 MSA(Microsoft 계정)에 로그인하여 자신의 사용자 계정과 연결하라고 합니다. **( [파트너 센터](http://partnercenter.microsoft.com)에서 계정 설정**으로 이동 합니다.) 직원은 자신의 Microsoft 기술 시험 및 인증을 자신의 계정과 Microsoft 파트너 대학교를 통해 연결 하는 동일한 msa 또는 다른 Msa를 사용할 수 있습니다.
+2. 조직 내 직원에게 MSA(Microsoft 계정)에 로그인하여 자신의 사용자 계정과 연결하라고 합니다. **( [파트너 센터](https://partnercenter.microsoft.com)에서 계정 설정**으로 이동 합니다.) 직원은 자신의 Microsoft 기술 시험 및 인증을 자신의 계정과 Microsoft 파트너 대학교를 통해 연결 하는 동일한 msa 또는 다른 Msa를 사용할 수 있습니다.
 
 3.  직원이 자신의 계정을 연결하거나 기술 기준 목표를 완료한 후 **24시간 동안 기다립니다**. 이 시간이 지나면 **역량** 섹션에 진행 상황이 표시됩니다.
 

@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 공인된 교육 파트너, 교육, 교육, 학교를 판매
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062331"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098760"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>교육 고객에게 Minecraft: Education Edition 구독 판매
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062331"
 교육 기관과 협력하는 파트너는 **Minecraft: Education Edition** 구독을 제공할 수 있습니다. 파트너 센터에서 고객 대신에 구독을 구매 하 고 고객이 [교육용 Microsoft 스토어](https://educationstore.microsoft.com)에서 소프트웨어를 다운로드 합니다. 
 
 >[!IMPORTANT]
->교육 고객에게 교육 제품을 판매하려면 귀하가 CSP(클라우드 솔루션 공급자) 프로그램에 등록되어 있어야 하며 [공인 교육 판매자(AEP)](https://www.mepn.com)여야 합니다. 또한 고객은 [적격한 교육 사용자](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.  
+>교육 고객에게 교육 제품을 판매하려면 귀하가 CSP(클라우드 솔루션 공급자) 프로그램에 등록되어 있어야 하며 [공인 교육 판매자(AEP)](https://www.mepn.com)여야 합니다. 또한 고객은 [적격한 교육 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>고객을 대신하여 **Minecraft: Education Edition** 구입

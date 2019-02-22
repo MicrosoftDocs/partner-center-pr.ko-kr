@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995967"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098850"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -105,7 +105,7 @@ ms.locfileid: "8995967"
 
 Microsoft Azure Portal에 직접 로그인하면 고객 컨텍스트가 아니라 귀하의 컨텍스트에서 센터가 표시됩니다. 따라서 고유한 구독에 대한 서비스 요청을 만들 때 Microsoft Azure Portal에 직접 서명해야만 합니다.
 
-CSP 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제공하지 않으므로 고유한 파트너 구독과 관련된 서비스 요청을 만드는 경우 유효한 지원 계획 권리 유형을 제공해야 합니다. 예를 들어 MPN 계약 ID, 프리미어, Azure 지원 계획 등이 있습니다. [Azure 지원 FAQ](http://go.microsoft.com/fwlink/?LinkId=717532)를 참조하세요.
+CSP 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제공하지 않으므로 고유한 파트너 구독과 관련된 서비스 요청을 만드는 경우 유효한 지원 계획 권리 유형을 제공해야 합니다. 예를 들어 MPN 계약 ID, 프리미어, Azure 지원 계획 등이 있습니다. [Azure 지원 FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)를 참조하세요.
 
 **Office 365 관리 센터 포털에 로그인하고 파트너 센터를 우회하면 어떻게 되나요?**
 
@@ -113,7 +113,7 @@ Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니
 
 **Dynamics 365 지원 추가 어떻게 하나요?**
 
-관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, 청구, 재무 및 작업, IURs 기술 지원 추가로 필요 합니다.
+관련 된 문제가 발생 하는 경우: Dynamics 365 계획 구독, 라이선스, & 작업을 IURs 재무 청구, 또는 기술 지원을 추가 해야 합니다.
  
 [Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support) 팀에 문의
 

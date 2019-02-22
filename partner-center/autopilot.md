@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot, windows autopilot, microsoft autopilot, 제로 터치 배포, oobe, 로그인 화면, 기본 제공
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083406"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098830"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 디바이스의 기본 제공 환경을 사용자 지정
 
@@ -25,7 +25,7 @@ ms.locfileid: "9083406"
 수 없는 경우 이미 익숙한 autopilot,이 문서의 정보를 검토:
 
 - [Windows Autopilot 개요](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Autopilot 배포 참조 가이드](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Autopilot 배포 참조 가이드](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>개요
 

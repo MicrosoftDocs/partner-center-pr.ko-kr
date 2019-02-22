@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083146"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098770"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격표 및 제품
 
@@ -29,7 +29,7 @@ ms.locfileid: "9083146"
 
 클라우드 솔루션 공급자 프로그램에서 파트너가 되기 위한 요구 사항을 검토하세요.
 
-[클라우드 솔루션 공급자 파트너용 프로그램 가이드](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[클라우드 솔루션 공급자 파트너용 프로그램 가이드](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 >비즈니스 문자를 확인 하거나 상태 [지원](https://partner.microsoft.com/pcv/servicerequests/create) 요청을 클라우드 솔루션 공급자 프로그램에서 Microsoft 파트너로 승인 된 인증 필요 합니다.
@@ -38,19 +38,19 @@ ms.locfileid: "9083146"
 
 Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다. 제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.
 
-[Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 일본](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 일본](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 대한민국](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 대한민국](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 대만](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 대만](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft 클라우드 재판매인 계약 - 미국 정부용 Microsoft 클라우드](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 클라우드 계약 고객 템플릿
 

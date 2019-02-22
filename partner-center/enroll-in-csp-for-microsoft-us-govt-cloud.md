@@ -6,18 +6,18 @@ description: 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796336"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098820"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 등록
 
 **적용 대상**
 
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government용 파트너 센터
 
 이제 Microsoft 파트너는 미국 정부용 Microsoft 클라우드의 CSP(클라우드 솔루션 공급자) 프로그램을 통해 미국 연방 정부, 주 정부, 지방 정부 및 인디언 단체에 Microsoft의 클라우드 솔루션과 서비스를 판매할 수 있습니다. 
 
@@ -25,7 +25,7 @@ ms.locfileid: "5796336"
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
-미국 정부용 Microsoft 클라우드의 CSP 프로그램에 등록하려면 회사가 미국 정부 기관에 제품을 판매하기 위한 요구 사항을 충족하는지 확인하는 절차가 필요합니다. 등록 프로세스를 시작하시기 전에, 귀사의 자격을 확인할 수 있도록 [Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 작성해 주세요. 자격이 있는 것으로 확인되면 미국 정부용 Microsoft 클라우드와 관련된 Azure AD(Azure Active Directory) 테넌트를 제공해 드립니다.  
+미국 정부용 Microsoft 클라우드의 CSP 프로그램에 등록하려면 회사가 미국 정부 기관에 제품을 판매하기 위한 요구 사항을 충족하는지 확인하는 절차가 필요합니다. 등록 프로세스를 시작하시기 전에, 귀사의 자격을 확인할 수 있도록 [Microsoft 정부 클라우드 검사 양식](https://azuregov.microsoft.com/csp)을 작성해 주세요. 자격이 있는 것으로 확인되면 미국 정부용 Microsoft 클라우드와 관련된 Azure AD(Azure Active Directory) 테넌트를 제공해 드립니다.  
 
 파트너 센터 계정을 만들고 미국 정부용 Microsoft 클라우드 CSP에 등록하려면 다음 정보를 제공해야 합니다(등록 프로세스를 시작하기 전에 이 정보를 수집해야 할 수 있음).
 
@@ -42,7 +42,7 @@ ms.locfileid: "5796336"
 
 1.  [여기](https://partnercenter.microsoft.com/register/resellerusgjoinnow)서 등록 과정을 시작합니다. 
 
-2.  미국 정부용 Microsoft 클라우드에 대한 조직의 Azure AD 테넌트 전역 관리자 자격 증명으로 로그인합니다. 이 포털의 조직 계정이 없는 경우 [Microsoft 정부 클라우드 검사 양식](http://azuregov.microsoft.com/csp)을 작성하여 계정을 요청할 수 있습니다.
+2.  미국 정부용 Microsoft 클라우드에 대한 조직의 Azure AD 테넌트 전역 관리자 자격 증명으로 로그인합니다. 이 포털의 조직 계정이 없는 경우 [Microsoft 정부 클라우드 검사 양식](https://azuregov.microsoft.com/csp)을 작성하여 계정을 요청할 수 있습니다.
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>2단계 - 미국 정부용 Microsoft 클라우드의 클라우드 솔루션 공급자 프로그램에 참여 신청

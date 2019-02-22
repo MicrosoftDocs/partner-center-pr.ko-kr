@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995807"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098810"
 ---
 # <a name="tax-and-tax-exemptions"></a>세금 및 면세
 
@@ -48,7 +48,7 @@ ms.locfileid: "8995807"
 </tr>
 <tr class="even">
 <td>유럽 연합</td>
-<td><p>유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다. VAT 번호는 <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">유효한 상태로 수락</a>되어야 합니다.</p>
+<td><p>유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다. VAT 번호는 <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">유효한 상태로 수락</a>되어야 합니다.</p>
 <p>Microsoft는 파트너 센터에 크레딧과 재청구를 지원하지 않으므로 구독을 판매하기 전에 파트너 센터에서 VAT ID 번호를 등록해야 합니다.</p>
 <p>Microsoft에 VAT ID 번호 보내기</strong></p>
 <ol>

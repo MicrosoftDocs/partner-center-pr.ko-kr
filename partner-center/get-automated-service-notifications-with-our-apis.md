@@ -7,12 +7,12 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7315e875af8c161e725f5eebba1cb2517490795
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb0dcdf12a59842ebf1400f4a5e917ad64fbb14f
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796956"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098730"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>API를 사용하여 자동화된 서비스 알림 가져오기
 
@@ -24,9 +24,9 @@ Office 365 및 Microsoft Azure는 각각 파트너가 실시간 서비스 상태
 
 개발자가 사용할 수 있는 API는 다음과 같습니다.
 
-[Office 365 서비스 통신 API](http://go.microsoft.com/fwlink/p/?LinkId=616899)
+[Office 365 서비스 통신 API](https://go.microsoft.com/fwlink/p/?LinkId=616899)
 
-Azure Insights REST API: [코드](http://go.microsoft.com/fwlink/p/?LinkId=617299) 및 [API 참조](http://go.microsoft.com/fwlink/p/?LinkId=617300)
+Azure Insights REST API: [코드](https://go.microsoft.com/fwlink/p/?LinkId=617299) 및 [API 참조](https://go.microsoft.com/fwlink/p/?LinkId=617300)
 
  
 

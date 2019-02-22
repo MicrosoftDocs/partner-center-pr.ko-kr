@@ -6,12 +6,12 @@ description: OSA 판매 및 온라인 서비스 사용 인센티브 프로그램
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796186"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098720"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>라이브 데이터 보고는 일부 인센티브 프로그램에 대해 월별 보고 대체
 
@@ -35,7 +35,7 @@ Microsoft는 PIRA(파트너 인센티브 보고 및 분석) 사이트 사용을 
  
 ## <a name="start-using-the-new-reporting-functionality"></a>새 보고 기능을 사용하세요. 
 
-1. MPN [Partner Incentives Reporting on Partner Incentives Experience](http://aka.ms/osareadiness )(파트너 인센티브 환경의 파트너 인센티브 보고)에서 준비 자산을 다운로드하고 검토하세요.
+1. MPN [Partner Incentives Reporting on Partner Incentives Experience](https://aka.ms/osareadiness )(파트너 인센티브 환경의 파트너 인센티브 보고)에서 준비 자산을 다운로드하고 검토하세요.
 
 2. [PIE](https://partnerincentives.microsoft.com/)로 이동
 
