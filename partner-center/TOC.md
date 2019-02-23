@@ -15,12 +15,12 @@
 
 # [클라우드 솔루션 공급자](csp-overview.md)
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
-## [CSP 직접 파트너 새로운 요구 사항](direct-partner-new-requirements.md) 
+## [CSP 직접 파트너 새로운 요구 사항](direct-partner-new-requirements.md)
+## [지역 및 언어별 Microsoft 클라우드 계약](agreements.md)
 ##[클라우드 솔루션 공급자 (CSP) 직접 청구 파트너에서 CSP 간접 리셀러로 전환](transition-direct-to-indirect.md)
 ## [CSP 계약, 가격표 및 제안](csp-documents-and-learning-resources.md)
 ## [CSP 지역 권한 부여 개요](regional-authorization-overview.md)
 ## [CSP 지역 권한 설정 테넌트 통합](csp-regional-authorization-tenant-consolidation.md)
-## [고객 계약 템플릿](agreements.md)
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
