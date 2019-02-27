@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 역할, 권한, 관리자 에이전트
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086731"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117216"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
@@ -74,7 +74,7 @@ CPVs는 사용할 클라우드 솔루션 공급자 (CSP) 파트너가 파트너 
 
 |**역할** | **수행할 수 있는 작업**|
 |----------------------------|:----------------------------|
-|MPN 관리자|•Can 아닌 테 넌 트 사용자 추가
+|MPN 파트너 관리자|•Can 아닌 테 넌 트 사용자 추가
 ||• 보기, 생성 및 관리 파트너 서비스 요청
 ||• 보기 법률, 조직, 비즈니스 및 MPN 프로필
 ||• 사용자 세부 정보 보기 및 해당 기술 데이터
@@ -82,8 +82,9 @@ CPVs는 사용할 클라우드 솔루션 공급자 (CSP) 파트너가 파트너 
 ||• 혜택 보기 및 관리
 ||• 보기 및 구매 MPN 혜택
 ||• 보기 MPN 제품 주문 내역 및 송장
-||•는 파트너 기여 데이터를 볼 수 있습니다.
+||• 파트너 기여 데이터 보기
 ||•는 증명서 유효성 검사 도구에서 작동할 수 있습니다.|
+||-고객 데이터 분석 보기
 |계정 관리| • 비 테 넌 트 사용자를 추가할 수 있습니다.
 ||• 추가 또는 삭제 위치
 ||-프로필에 대 한 관리자는 계정과 관련 된 관리 
