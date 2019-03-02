@@ -1,19 +1,19 @@
 ---
 title: 고객 대신 문제 보고 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
-Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
+ms.date: 03/01/2019
+Description: 고객에게 해결할 수 없는 서비스 문제가 발생하고 Microsoft로 문제 에스컬레이션에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+Keywords: 서비스 요청을 서비스 티켓 지원, 권리, aobo, Azure aobo 지원
 ms.localizationpriority: medium
-ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098850"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122200"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -25,7 +25,7 @@ ms.locfileid: "9098850"
 
 고객에게 해결할 수 없는 서비스 문제가 발생하고 [Microsoft로 문제 에스컬레이션](escalate-problems-to-microsoft.md)에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다. 이 프로세스는 청구 문제나 분쟁을 에스컬레이션하고 사기 문제를 해결하는 데에도 유용합니다.
 
-**고객 서비스 요청을 제출합니다.**
+## <a name="submit-a-service-request-for-a-customer"></a>고객 서비스 요청을 제출합니다.
 
 1.  **파트너 센터** 메뉴에서 **서비스 요청** 및 **고객 요청**을 선택 합니다. 
 
@@ -33,13 +33,14 @@ ms.locfileid: "9098850"
 
 3.  **새 요청** 드롭다운 메뉴에서 **Azure** 또는 **Office 365, Dynamics 365, Enterprise Mobility Suite**를 선택합니다. Microsoft Azure Portal 또는 Office 365 관리 센터로 리디렉션됩니다.
 
-**Microsoft Azure**
+### <a name="microsoft-azure"></a>Microsoft Azure
 
-**참고** Azure에서 고객에 대 한 서비스 요청을 만들어야 할 때 다음 고려해 야 합니다.
-
-- Azure에서 고객에 대 한 서비스 요청을 만들 수 있는 순서로 간접 공급자는 고객의 Azure 계정에 대 한 액세스 부여 해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다. 
-
-- 파트너 센터에서 기술 지원팀 관리자는 Azure 서비스 포털에서 서비스 요청을 만들 수는 없습니다, 수행할 수 있는 이지만 Azure 서비스 포털에서 지원 그룹을 만들고 지원 요청을 기록 하는 그룹에 권한을 부여 합니다.
+> [!IMPORTANT]
+> Azure에서 고객에 대 한 서비스 요청을 만들어야 할 때 다음 고려해 야 합니다.
+>
+>- Azure에서 고객에 대 한 서비스 요청을 만들 수 있는 순서로 간접 공급자는 고객의 Azure 계정에 대 한 액세스 부여 해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다. 
+>
+>- 파트너 센터에서 기술 지원팀 관리자는 Azure 서비스 포털에서 서비스 요청을 만들 수는 없습니다, 수행할 수 있는 이지만 Azure 서비스 포털에서 지원 그룹을 만들고 지원 요청을 기록 하는 그룹에 권한을 부여 합니다.
 
 1. **새 지원 요청**을 선택합니다.
 2. 적절한 정보를 사용하여 지원 요청을 작성한 다음 **만들기**를 선택합니다.
@@ -64,17 +65,29 @@ ms.locfileid: "9098850"
 4. **새 지원 요청을**선택 하 고 지시에 따라 요청을 만듭니다. 
 
  
-**Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...** 를 선택해야 할 수도 있습니다.    
 2. 서비스 요청 양식을 작성하고 **제출**을 선택합니다.
 
->[**참고**]  연락처 정보, 하지 고객의 포함 해야 합니다.
+   > [!TIP]
+   > 연락처 정보, 하지 고객의 포함 해야 합니다.
 
 3. 나중에 Office 365 관리 센터로 이동한 후 **모든 지원 티켓 보기**를 선택하여 고객의 서비스 요청을 검토합니다.
 
-## <a name="faq"></a>FAQ
+### <a name="support-for-azure-marketplace-products"></a>Azure Marketplace 제품에 대 한 지원
 
+Microsoft은 Azure 마켓플레이스 제품에 대 한 기술 지원 서비스를 제공 하지 않습니다. 독립 소프트웨어 공급 업체 (ISV) 지원을 받기 위해 제품을 게시 하는 문의 해야 합니다.
+
+ISV의 연락처 정보를 검색:
+
+1.  Marketplace 페이지에서 도움이 필요한 제품을 선택 합니다.
+2.  제품의 페이지에서 지원 연락처 정보를 찾을 수 있습니다. 다음 중 하나 이상을 수 있습니다.
+    - ISV의 웹 사이트는 지원 진입점에 대 한 링크
+    - 지원 메일 
+    - 지원 담당자 전화 번호
+
+## <a name="faq"></a>FAQ
 
 **지원 권리 유형의 일부로 포함되는 사항은 무엇인가요?**
 

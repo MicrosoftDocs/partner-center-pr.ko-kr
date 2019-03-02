@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062381"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122280"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -464,34 +464,428 @@ ms.locfileid: "9062381"
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>일회성구입 파일 필드
+## <a href="" id="marketplacefilefields"></a>일회성 및 되풀이 파일 필드
 
-|**필드** |**정의**|
-|:----------------|:-----------------------------|
-|PartnerId |GUID 형식의 파트너 ID입니다. |
-|CustomerId |고객을 식별하는 데 사용되는 GUID 형식의 고유한 Microsoft ID입니다. |
-|CustomerName |파트너 센터에 보고된 고객의 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다. |
-|CustomerDomainName |고객의 도메인 이름입니다. |
-|CustomerCountry |고객이 위치한 국가입니다. |
-|InvoiceNumber |지정한 트랜잭션이 표시되는 송장 번호입니다. |
-|MpnId |CSP 파트너(직접 또는 간접)의 MPN ID입니다. |
-|재판매인 MPN ID |간접 모델의 파트너를 위한 조정 파일에만 나타납니다. 예약에 대한 ROR(Reseller of Record)의 MPN ID입니다. 파트너 센터에서 특정 예약에 대해 나열된 재판매인 ID에 해당합니다. CSP 파트너가 고객에게 직접 예약을 판매하는 경우 해당 MPN ID가 두 번 나열됩니다(MPN ID와 재판매인 MPN ID 모두). CSP 파트너에게 MPN ID가 없는 재판매인이 있는 경우 이 값은 대신 파트너의 MPN ID로 설정됩니다. CSP 파트너가 재판매인 ID를 제거하는 경우 이 값은 -1로 설정됩니다. |
-|OrderId |Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원 팀에 문의할 때는 Azure 예약을 식별하는 것이 유용할 수 있지만, 조정에서는 아닙니다. |
-|OrderDate |주문이 이루어진 날짜입니다. |
-|ProductId |제품의 ID입니다. |
-|SkuId  |특정 SKU의 ID입니다. |
-|AvailabilityId |특정 가용성에 대한 ID입니다. "가용성"이란 주어진 국가, 통화, 산업 분류 등에서 특정 SKU의 구입이 가능한지 여부를 말합니다. |
-|SkuName  |특정 SKU의 제목입니다. |
-|ProductName |제품 이름입니다. |
-|ChargeType |요금 또는 조정 유형입니다. |
-|UnitPrice |주문한 각 제품의 가격입니다. |
-|수량 |주문한 제품의 수입니다. |
-|소계 |세금을 적용하기 전의 총액. 할인이 있을 경우 소계가 예상 총액과 일치하는지 확인합니다. |
-|TaxTotal |적용 가능한 모든 세금의 총액입니다. |
-|총액 |총 구입 금액입니다. |
-|통화 |통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 통화가 첫 번째 송장과 일치하는지 확인한 다음 주요 청구 플랫폼 업데이트 후에 다시 확인합니다. |
-|DiscountDetails |모든 관련 할인에 대한 상세 목록입니다. |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>열</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>특정 청구 엔터티의 GUID 형식의 고유한 Microsoft Azure Active Directory 테 넌 트 식별자입니다. 조정에는 필요하지 않지만 유용한 정보일 수 있습니다. 모든 행에서 같습니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>고객 번호</td>
+<td><p>고유한 Microsoft Azure Active Directory 테 넌 트 ID, GUID 형식의 고객을 식별 하는 데 사용 합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>고객 이름</td>
+<td><p>파트너 센터에 보고된 고객의 조직 이름.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 와 고객/파트너 O365 포털을 통해 베 니 티/기본 도메인을 업데이트할 수 있는 고객을 고유 하 게 식별 하 하지 사용 해야 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>고객 국가</td>
+<td><p>고객이 위치한 국가입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>송장 번호</td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>CSP 파트너의 MPN ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>재판매인 MpnId</td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>주문 ID</td>
+<td><p>Microsoft 상거래 플랫폼에서 주문의 고유 식별자입니다. 지원 센터에 문의할 때 주문을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>주문 날짜</td>
+<td><p>주문이 이루어진 날짜입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>제품의 ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>특정 SKU의 ID입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>특정 가용성에 대한 ID입니다. "가용성"이란 주어진 국가, 통화, 산업 분류 등에서 특정 SKU의 구입이 가능한지 여부를 말합니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>SKU 이름</td>
+<td><p>특정 SKU의 제목입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>제품 이름</td>
+<td><p>제품 이름입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>제품의 게시자의 이름입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>이 게시자에 대 한 고유 ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>구독 설명</td>
+<td><p>구독의 이름입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>구독 ID</td>
+<td><p>Microsoft 상거래 플랫폼에서 구독의 고유 식별자입니다. 지원에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다. 이 ID는 파트너 관리 콘솔의 구독 ID와 다릅니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>요금 시작일. 시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>요금 종료일. 시간은 항상 해당 일의 마지막인 23:59입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>용어 및 Billingcycle</td>
+<td><p>용어 길이 및 구매에 대 한 청구 주기. 예를 들어 "1 년, 월별."</p></td>
+</tr>
+
+<tr class="odd">
+<td>청구 유형</td>
+<td><p>요금 또는 조정 유형입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>단가</td>
+<td><p>가격 구매 시 가격표에 게시 합니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>유효 단가</td>
+<td><p>조정을 만든 후 단위 가격입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>수량</td>
+<td><p>단위 수입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>장치 유형</td>
+<td><p>유형 구매 단위입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>적용 가능한 할인 설명 합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>소계</td>
+<td><p>세금을 적용하기 전의 총액. 할인이 있을 경우 소계가 예상 총액과 일치하는지 확인합니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>세금 요약</td>
+<td><p>해당 지역/국가의 세금 규칙 및 특정 상황에 따른 세액 요금.</p></td>
+</tr>
+
+<tr class="odd">
+<td>총액</td>
+<td><p>세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>통화</td>
+<td><p>통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 통화가 첫 번째 송장과 일치하는지 확인한 다음 주요 청구 플랫폼 업데이트 후에 다시 확인합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>Id 대체 식별자</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>매일 비례 하는 사용량 파일 필드
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>열</th>
+<th>설명</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>GUID 형식의 파트너 ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>파트너 이름</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>고객을 식별하는 데 사용되는 GUID 형식의 고유한 Microsoft ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>파트너 센터에 보고된 고객의 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>고객의 도메인 이름입니다. 현재 활동에 대 한 사용할 수 없습니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>고객 국가</td>
+<td><p>고객이 위치한 국가입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>CSP 파트너의 MPN ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>재판매인 MPNID</td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 현재 활동에 대 한 사용할 수 없습니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호입니다. 현재 활동에 대 한 사용할 수 없습니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>제품의 ID입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>특정 SKU의 ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>특정 가용성에 대한 ID입니다. "가용성"이란 주어진 국가, 통화, 산업 분류 등에서 특정 SKU의 구입이 가능한지 여부를 말합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SKU 이름</td>
+<td><p>특정 SKU의 제목입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>게시자의 이름입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>GUID 형식의 게시자의 ID입니다. 현재 활동에 대 한 사용할 수 없습니다.</p></td>
+</tr>
+
+<tr class=”even">
+<td>구독 설명</td>
+<td><p>고객이 구매한 서비스 제품의 이름(가격표에 정의됨). (제품 이름과 동일한 필드).</p></td>
+</tr>
+
+<tr class="odd">
+<td>구독 ID</td>
+<td><p>Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다. 이 ID는 파트너 관리 콘솔의 구독 ID와 다릅니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>이전 청구 주기에서 이전에 요금이 청구되지 않은 숨은 사용 데이터의 날짜를 표시하는 경우를 제외하고 청구 주기의 시작 날짜. 시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>이전 청구 주기에서 이전에 요금이 청구되지 않은 숨은 사용 데이터의 날짜를 표시하는 경우를 제외하고 청구 주기의 종료 날짜. 시간은 항상 해당 일의 마지막인 23:59입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>사용 날짜</td>
+<td><p>서비스 사용 현황의 날짜입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>측정기 종류</td>
+<td><p>미터의 형식입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>측정기 범주</td>
+<td><p>최상위 서비스를 사용 합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>수준 Id</td>
+<td><p>사용 중인 측정기에 대 한 ID입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>측정기 하위 범주</td>
+<td><p>속도 영향을 줄 수 있는 Azure 서비스의 형식입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>측정기 이름</td>
+<td><p>사용 중인 측정기에 대 한 측정 단위입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>측정기 지역</td>
+<td><p>이 열은 이 열이 적용 가능하고 채워진 서비스 지역 내에 있는 데이터 센터의 위치를 식별합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Unit</td>
+<td><p>리소스 이름의 단위입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>소비 된 수량</td>
+<td><p>보고 기간 중 소비된 서비스 양(시간, GB 등). 이전 보고 기간의 미청구 사용량도 포함됩니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>리소스 위치</td>
+<td><p>측정기 실행 되 고 있는 데이터 센터입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>소비 된 서비스</td>
+<td><p>Azure 플랫폼 서비스를 사용 합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>리소스 그룹</td>
+<td><p>배포 된 측정기 실행 되 고 있는 리소스 그룹.</p></td>
+</tr>
+
+<tr class="even">
+<td>리소스 URI</td>
+<td><p>사용 중인 리소스 URI입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>청구 유형</td>
+<td><p>요금 또는 조정 유형입니다. 현재 활동에 대 한 사용할 수 없습니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>단가</td>
+<td><p>라이선스를 구매 시 가격표에 게시 하는 대로 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>수량</td>
+<td><p>라이선스의 수입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>장치 유형</td>
+<td><p>측정기 단위의 종류에 청구 됩니다. 현재 활동에 대 한 사용할 수 없습니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>이전 세금을 대금 청구</td>
+<td><p>세금 부과 전 총 금액입니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>청구 통화</td>
+<td><p>고객의 지역에 통화</p></td>
+</tr>
+
+<tr class="odd">
+<td>Pretax 총 가격</td>
+<td><p>가격 전에 세금이 추가 됩니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>통화 가격</td>
+<td><p>가격표에 통화입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>서비스 정보를 1</td>
+<td><p>지정일에 프로비전 및 사용된 ServiceBus 연결 수</p></td>
+</tr>
+
+<tr class="even">
+<td>서비스 정보를 2</td>
+<td><p>선택적 서비스 관련 메타 데이터를 캡처하는 레거시 필드입니다.</p></td>
+</tr>
+
+<tr class="odd">
+<td>태그</td>
+<td><p>청구 레코드를 그룹화 하기 위해에서 측정기를 할당 한 태그입니다. 예를 들어 측정기를 사용 하는 부서에서 비용을 배포 하려면 태그를 사용할 수 있습니다.</p></td>
+</tr>
+
+<tr class="even">
+<td>추가 정보</td>
+<td><p>다른 열에서 다루지 않은 모든 추가 정보입니다.</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>송장과 조정 파일 간 요금 매핑

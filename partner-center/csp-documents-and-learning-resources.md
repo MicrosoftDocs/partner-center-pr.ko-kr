@@ -1,19 +1,19 @@
 ---
 title: CSP 계약, 가격표 및 제품 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: 이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098770"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122240"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격표 및 제품
 
@@ -81,6 +81,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 일회성 구매 가격 동적 이기도합니다. 일회성 구매의 예로 Microsoft Azure 예약 및 해당 구독을 Windows Server 및 SQL 소프트웨어를 들 수 있습니다. 
 
+Azure Marketplace 제품에 대 한 정보, 가격에 대 한 파트너 센터 왼쪽된 탐색 메뉴에서 **시장** 으로 이동 합니다. 게시자, Sku에 대 한 정보를 보려면 제품을 선택 하 고 가격입니다. 이러한 Azure Marketplace 제품에 대 한 가격을 자주 변경할 수 있습니다. 출시 예정 매우, 모든 가격 데이터는 매일 업데이트의 목록을 내보낼 수 있는 옵션이 제공 합니다. 것 합니다도 사용 하는 현재 Api 통해 가격 데이터에 액세스 합니다. 이러한 옵션을 사용할 수 없는 되 면이 페이지 사용 하는 방법에 대 한 자세한 정보를 사용 하 여 업데이트 됩니다.
 
 ## <a name="offers"></a>제품
 
@@ -88,5 +89,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 CSP의 파트너는 Microsoft 제품, 서비스 및 솔루션을 Office 365, Enterprise Mobility Suite, Microsoft Dynamics 및 Microsoft Azure를 비롯 한 다양 한을 판매할 수 있습니다. 이러한 제품군 내에서 판매할 수 있는 제품 대 한 자세한 내용은 **파트너 센터** 메뉴에서 사용할 수 있는 **가격 책정 및 제품** 페이지에서 CSP 제품 표를 참조 하세요. 이 문서는 매달 업데이트됩니다.
 
 CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
+
+독립 소프트웨어 공급 업체 (Isv)에서 게시 Azure Marketplace 제품에 대 한 자세한, 왼쪽된 탐색 메뉴에서 **Marketplace** 페이지를 방문 하세요. 현재 파트너 센터에서 제품 형식만 SaaS (소프트웨어를 서비스로)를 구입할 수 있습니다. 다른 유형의 Azure 마켓플레이스에서 제품을 취득 하려면 Azure 포털을 방문 해야 합니다.
 
 

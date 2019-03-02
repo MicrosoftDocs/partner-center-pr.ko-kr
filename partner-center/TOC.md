@@ -49,7 +49,9 @@
 
 
 # [청구 및 세금](billing.md)
-## [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)
+## [청구 FAQ](faq-about-new-billing-features.md)
+## [청구 기본 사항](billing-basics.md)
+## [파트너 센터에서 청구의 종류 이해](billing-different-types.md)
 ## [청구서 읽기](read-your-bill.md)
 ## [조정 파일 사용](use-the-reconciliation-files.md)
 ## [세금 및 면세](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [온라인 서비스(구독)](customer-subscriptions.md)
 ### [고객 구독 생성, 일시 중단 또는 취소](create-a-new-subscription.md)
 ### [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)
+### [Azure Marketplace 제품에 대 한 구독 판매](sell-marketplace-products.md)
 ### [파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)
 ### [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ### [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
