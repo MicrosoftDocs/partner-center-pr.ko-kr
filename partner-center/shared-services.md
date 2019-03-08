@@ -2,18 +2,18 @@
 title: Azure Partner Shared Services 추가 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너는 자신이 사용하기 위해 Azure 구독을 구매할 수 있습니다.
-author: labrenne
+description: Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너가 자신이 사용하기 위한 Azure 구독을 구매할 수 있습니다.
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, 공유 서비스, 테넌트
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917635"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586986"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services 추가
 
@@ -21,7 +21,7 @@ ms.locfileid: "8917635"
 
 -  파트너 센터
 
-Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너는 자신이 사용하기 위해 Azure 구독을 구매할 수 있습니다.  이 제품을 통해 파트너는 Microsoft와의 Azure 라이선스 계약과 재판매 계약을 통합할 수 있을 뿐 아니라 Azure 구매, 추적 및 관리에 일관된 방법을 사용할 수 있습니다. Azure Partner Shared Services 파트너는 이제 CSP에서 Azure 구독을 사용하는 데 Microsoft Enterprise Agreement 및 Web Direct 프로그램에서와 동일한 유연성을 가지며 개발 및 테스트 환경 구축, 내부 워크로드 배치 및 공유 서비스나 다중 테넌트 응용 프로그램 보유와 같은 시나리오를 수행할 수 있습니다.  
+Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너가 자신이 사용하기 위한 Azure 구독을 구매할 수 있습니다.  구입, 추적 및 기능 외에도 Azure 관리에 대 한 균일 한 메서드를 사용 하 여 Azure 라이선스 및 재판매를 Microsoft와 통합 하는 파트너에 대 한 영업 기회를 만듭니다. Azure Partner Shared Services 파트너는 이제 CSP에서 Azure 구독을 사용하는 데 Microsoft Enterprise Agreement 및 Web Direct 프로그램에서와 동일한 유연성을 가지며 개발 및 테스트 환경 구축, 내부 워크로드 배치 및 공유 서비스나 다중 테넌트 응용 프로그램 보유와 같은 시나리오를 수행할 수 있습니다.  
 
 ## <a name="create-the-shared-services-tenant"></a>공유 서비스 테넌트 만들기
 

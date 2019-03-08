@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796206"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587596"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
@@ -29,9 +29,9 @@ ms.locfileid: "5796206"
 
 -   [Microsoft Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
 
--   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
+-   [Microsoft에서 영업 리드 확보를 위해 비즈니스 프로필 만들기](create-a-marketing-profile.md)
 
--   [Microsoft에서 잠재 고객 가져오기 및 관리](responding-to-referrals.md)
+-   [가져오기 및 microsoft에서 판매 잠재 고객 관리](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
@@ -70,18 +70,18 @@ ms.locfileid: "5796206"
 
 5.  귀하가 관리자 에이전트 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리자 에이전트 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
-    a. **파트너 센터**에서 **설정** 아이콘을 선택 하 고 **사용자 관리**를 선택 합니다.  
+    a. 프로그램 **파트너 센터**를 선택 합니다 **설정** 아이콘을 선택 합니다 **사용자 관리**.  
 
     b. 사용자 목록에서 이름을 선택한 다음 관리자 에이전트가 선택되지 않았으면 **관리자 에이전트**를 선택합니다. **업데이트**를 선택합니다.  
 
 ## <a name="next-steps"></a>다음 단계
 
--   [사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
+-   [계정 사용자를 추가 하 고 여기에 할당할 권한](create-user-accounts-and-set-permissions.md)
 
--   [Microsoft Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
+-   [Microsoft Action pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
 
--   [Microsoft 파트너 네트워크 멤버십 혜택 관리](manage-your-partner-network-benefits.md)
+-   [멤버 자격 혜택 관리](manage-your-partner-network-benefits.md)
 
--   [골드 및 실버 멤버십을 위한 역량 요구 사항에 대해 알아보기](https://partner.microsoft.com/membership/competencies)
+-   [골드 및 실버 멤버 자격에 대 한 역량 요구 사항 알아보기](https://partner.microsoft.com/membership/competencies)
 
--   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
+-   [Microsoft에서 영업 리드 확보를 위해 비즈니스 프로필 만들기](create-a-marketing-profile.md)

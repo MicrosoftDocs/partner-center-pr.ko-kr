@@ -1,47 +1,47 @@
 ---
-title: 글로벌 시장에서 CSP | 파트너 센터
+title: CSP 글로벌 시장 | 파트너 센터
 ms.topic: article
 ms.date: 11/03/2018
-description: 참조 국가 및 지역 회사의 위치에 따라 CSP 제품을 판매할 수 있습니다.
+description: 국가 살펴보고 지역 회사 위치에 따라 CSP 제품을 판매할 수 있습니다.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: CSP 지역/국가, 지역, 수 i 통해 어디에서 판매할 CSP, CSP 제품, 지역, 글로벌 CSP, 클라우드 솔루션 판매
+keywords: 전체 CSP 클라우드 솔루션을 판매 하는 CSP 시장, 지역, 위치 i 판매할 수 CSP를 통해 CSP 제공 지역
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9065610"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588076"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>클라우드 솔루션 공급자 프로그램 지역 시장 및 통화
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>클라우드 솔루션 공급자 프로그램에 대 한 지역 시장 및 통화
 
-회사의 위치에 지역/국가 결정합니다. CSP 제품을 판매할 수 있는 국가 및 지역 / 시장에 포함 됩니다.
+회사 위치에 시장을 결정합니다. 시장에는 지역 및/또는 CSP 제품을 판매할 수 있는 국가 포함 합니다.
 
-예를 들어, 회사, 미국에 있는 경우 미국 소수 외부 제도 미국에서 고객에 게 CSP 제품을 판매할 수 있습니다. 회사, 브라질에 있는 경우 브라질에만 고객에 게 CSP 제품을 판매할 수 있습니다. 회사, 아프리카 지역에 있는 경우 아프리카 지역에서 18 모든 국가에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+예를 들어 회사를 미국에 있는 경우 판매할 수 있습니다 CSP 제품 미국에 미국 고객에 게 소수 외부 제도입니다. 회사 브라질 있으면 브라질 에서만에서 고객에 게 CSP 제품을 판매할 수 있습니다. 회사를 아프리카 지역에 있는 경우에 아프리카 지역의 모든 18 개 국가에 거주 하는 CSP 제품을 판매할 수 있습니다.
 
-CSP 고객을 대신 하 여 제품을 주문할 수 전에 고객 Microsoft 클라우드 계약에 서명 해야 합니다. 지역/국가 대 한 해당 Microsoft 클라우드 계약을 찾을 수 [다음과 같습니다](agreements.md).
+CSP 고객을 대신 하 여 제공을 주문할 수 있습니다, 전에 고객은 Microsoft Cloud 계약 서명 해야 합니다. 지역/국가 대 한 해당 Microsoft Cloud 계약을 찾을 수 있습니다 [여기](agreements.md)합니다.
 
 >[!IMPORTANT]
-> 2018 년 11 월 7부터 고객이 서명한 사람에 대 한 정보를 제공 하 여 Microsoft 클라우드 계약을 수락 했습니다 있는지 확인 해야 합니다. 자세한 내용은 [Microsoft 클라우드 계약의 고객의 동의 확인](confirm-consent.md) 을 참조 하세요.
+> 2018 년 11 월 7 일에 시작 해야 고객 서명 사람에 대 한 정보를 제공 하 여 Microsoft 클라우드 계약을 받아들인 있는지 확인 합니다. 참조 [Microsoft Cloud 계약의 고객 동의 확인](confirm-consent.md) 대 한 자세한 내용은 합니다.
 
-CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에서 회사의 위치를 찾습니다. 판매 하기 원하는 위치에 대 한 활성 Microsoft 파트너 네트워크 (MPN) ID 있어야 합니다.  
+CSP 제품을 판매할 수 있습니다 위치를 확인 하려면 아래 목록 중 하나에서 회사의 위치를 찾습니다. 활성 Microsoft 파트너 네트워크 (MPN) ID에서 판매 하려면 원하는 위치에 있어야 합니다.  
 
 ## <a name="for-unsupported-countries"></a>지원 되지 않는 국가 대 한
 
-국가 지원 되지 않는 경우 고객이 Office 관리자 URL을 사용 하 여 CSP 관계를 설정 합니다. 
+해당 국가 지원 되지 않는 경우 고객 Office 관리 URL을 사용 하 여 CSP 관계를 설정 합니다. 
 
-- 직접 청구 파트너는 다음 url을 사용: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. 테 넌 트 id **partnertenantguid** 바꾸기 
+- 다음 url을 사용 하는 직접 청구 파트너: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0합니다. 바꿉니다 **partnertenantguid** 테 넌 트 ID를 사용 하 여 
 
-- 간접 재판매인에 대 한 URL은: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. 테 넌 트 id **IRtenantguid** 대체 MPN ID를 사용 하 여 **IRMPNID** 바꾸고 **IPtenantguid** 간접 공급자 테 넌 트 id로 바꿉니다.
+- 간접 대리점에 대 한 URL은: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid합니다. 바꿉니다 **IRtenantguid** 테 넌 트 ID를 사용 하 여 바꿉니다 **IRMPNID** MPN ID와 대체 **IPtenantguid** 간접 공급자 테 넌 트 id를 사용 하 여 합니다.
 
-## <a name="africa-region-and-market"></a>아프리카 지역 및 지역/국가
+## <a name="africa-region-and-market"></a>아프리카 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-| 국가/지역           | 통화 |
+| 국가/지역           | Currency |
 | ------------------------ |:--------:|
 | 앙골라                   |          |
 | 베냉                    |   USD    |
@@ -58,7 +58,7 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 | 코트디부아르            |          |
 | 지부티                 |   USD    |
 | 적도 기니        |   USD    |
-| 에리트리아                  |   USD    |
+| 에리트레아                  |   USD    |
 | 에티오피아                 |          |
 | 프랑스령 폴리네시아         |   USD    |
 | 가봉                    |   USD    |
@@ -78,25 +78,25 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 | 니제르                    |   USD    |
 | 나이지리아                  |   USD    |
 | 리유니언                  |   USD    |
-| 르완다                   |   USD    |
+| Rwanda                   |   USD    |
 | 상투메 프린시페    |   USD    |
 | 세네갈                  |          |
 | 세이셸               |   USD    |
 | 시에라리온             |   USD    |
 | 소말리아                  |   USD    |
 | 남수단              |   USD    |
-| 세인트헬레나 어센션 트리스탄다쿠냐|    USD   |
+| 세인트 헬레나, 어센션, 트리스탄 다 쿠나|    USD   |
 | 탄자니아                 |   USD    |
 | 토고                     |   USD    |
 | 우간다                   |          |
 | 잠비아                   |          |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>아시아 및 태평양 지역 및 지역/국가
+## <a name="asia-and-pacific-region-and-market"></a>아시아 및 태평양 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-| 국가/지역     | 통화 |
+| 국가/지역     | Currency |
 | --------------     |:--------:|
 |  방글라데시        |   USD    |
 |  부탄            |          |
@@ -118,11 +118,11 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  베트남           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>오스트레일리아 국가 및 지역/국가
+## <a name="australia-region-and-market"></a>오스트레일리아 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역        | 통화 |
+|  국가/지역        | Currency |
 |  --------------        |:--------:|
 |  오스트레일리아             |   AUD    |
 |  크리스마스 섬      |   AUD    |
@@ -149,30 +149,30 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  월리스 푸투나     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>브라질 국가 및 지역/국가
+## <a name="brazil-region-and-market"></a>브라질 지역 및 시장
 
-회사의 위치가 브라질, 브라질에 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치 브라질 이면 브라질의 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  브라질         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>캐나다 지역 및 지역/국가
+## <a name="canada-region-and-market"></a>캐나다 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  캐나다         |   CAD    |
 |  생피에르앤드미클롱|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>유럽 국가 및 지역/국가
+## <a name="europe-region-and-market"></a>유럽 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화  |
+|  국가/지역 | Currency  |
 |  -------------- |:--------:|
 |  올란드 제도  |   EUR    |
 |  안도라        |   EUR    |
@@ -218,41 +218,41 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  스웨덴         |   SEK    |
 |  스위스    |   CHF    |
 |  영국             |   GBP    |
-|  바티칸시국   |          |
+|  바티칸   |          |
 |
 
-## <a name="india-region-and-market"></a>인도 지역 및 지역/국가
+## <a name="india-region-and-market"></a>인도 지역 및 시장
 
-회사의 위치를 경우 인도, 인도에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치 인도 인 경우에 인도에 거주 하는 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  인도          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>일본 지역 및 지역/국가
+## <a name="japan-region-and-market"></a>일본 지역 및 시장
 
-회사의 위치 (일본 포함) 이면 (일본 포함)의 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사의 위치는 일본 인 경우 일본의 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  일본          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>한국, 지역 및 지역/국가 공화국
+## <a name="korea-republic-of-region-and-market"></a>한국, 지역 및 시장 공화국
 
-회사의 위치가 한국인 경우, 공화국, 공화국, 한국에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+경우 회사의 위치는 한국, 한국에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역    | 통화 |
+|  국가/지역    | Currency |
 |  --------------    |:--------:|
-|  한국, 공화국|   KRW    |
+|  한국|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>라틴 아메리카 및 카리브 해 지역 및 지역/국가
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>라틴 아메리카 및 카리브 해 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  앵귈라       |   USD    |
 |  남극     |   USD    |
@@ -300,7 +300,7 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  세인트 빈센트 그레나딘| USD |
 |  신트외스타티우스 |   USD    |
 |  신트마르텐   |   USD    |
-|  사우스조지아 사우스샌드위치 제도| USD|
+|  사우스 조지아 및 사우스 샌드위치 제도| USD|
 |  수리남       |   USD    |
 |  트리니다드 토바고|USD   |
 |  터크스 케이커스 제도| USD|
@@ -309,11 +309,11 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  미국령 버진 아일랜드| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>중동, 중앙 유럽 및 서유럽 지역 및 지역/국가
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>중동, 중 유럽 및 동부 유럽 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  아프가니스탄    |          |
 |  알바니아        |   USD    |
@@ -336,7 +336,7 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  레바논        |   USD    |
 |  레소토        |   USD    |
 |  리비아          |          |
-|  마케도니아 공화국|   |
+|  공화국|   |
 |  모리타니     |   USD    |
 |  몰도바        |          |
 |  몽골       |          |
@@ -345,7 +345,7 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  모잠비크     |          |
 |  오만           |   USD    |
 |  파키스탄       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  팔레스타인 |        |
 |  카타르          |   USD    |
 |  사우디아라비아   |   USD    |
 |  세르비아         |   USD    |
@@ -362,11 +362,11 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  짐바브웨       |          |
 |
 
-## <a name="new-zealand-region-and-market"></a>뉴질랜드 국가 및 지역/국가
+## <a name="new-zealand-region-and-market"></a>뉴질랜드 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  미국령 사모아 |   NZD    |
 |  뉴질랜드    |   NZD    |
@@ -374,30 +374,30 @@ CSP 제품을 판매할 수 있는 확인 하려면 아래 목록 중 하나에�
 |  바누아투        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>러시아 국가 및 지역/국가
+## <a name="russia-region-and-market"></a>러시아 지역 및 시장
 
-회사의 위치를 경우 러시아, 러시아에 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치가 러시아 인 경우에 러시아에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  러시아         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>대만 지역 및 시장
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+회사 위치에 대만 있으면 대만에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역 | 통화 |
+|  국가/지역 | Currency |
 |  -------------- |:--------:|
 |  대만         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>미국 지역 및 지역/국가
+## <a name="united-states-region-and-market"></a>미국 지역 및 시장
 
-회사의 위치 아래 목록에 있으면 목록에서 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
+회사 위치에 있는 경우 아래 목록에 목록의 모든 위치에서 고객에 게 CSP 제품을 판매할 수 있습니다.
 
-|  국가/지역       | 통화 |
+|  국가/지역       | Currency |
 |  -------------        |:--------:|
 |  미국        |   USD    |
-|  미국령 해외 제도|   USD    |
+|  미국 소수 외부 제도|   USD    |
 |
