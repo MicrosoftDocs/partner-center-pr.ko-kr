@@ -8,21 +8,21 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995607"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587086"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
 
 
-파트너 센터의 다중 채널 기능은 고객이 다른 곳에서 구입한 구독을 지원 하 고 관리 파트너를 고용 하려는 시나리오를 지원 합니다. 다중 채널 지원은 고객이 다음 조건에 해당하는 경우에 적용됩니다.
+파트너 센터의 다중 채널 기능은 고객을 관리 하 고 다른 곳에서 구매한 구독을 지 원하는 파트너를 고용 하려고 할 때 시나리오를 지원 합니다. 다중 채널 지원은 고객이 다음 조건에 해당하는 경우에 적용됩니다.
 
 -   Microsoft에서 직접 또는 Advisor, Open 또는 EA 프로그램을 통해 구독을 이미 구입한 경우
 
@@ -36,13 +36,13 @@ ms.locfileid: "8995607"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>라이선스 기준 서비스</strong></p></td>
+<td><p><strong>라이선스 기반 서비스</strong></p></td>
 <td><p>다중 채널 계정을 지원하려면 고객에게 구독 관리 권한을 요청해야 합니다. 자세한 방법은 <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">고객과 재판매인 관계 요청</a>을 참조하세요.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>사용량 기준 서비스</strong></p></td>
+<td><p><strong>사용량 기반 서비스</strong></p></td>
 <td>
-<p>Advisor, Open 또는 EA, 사용자 & #39; 등의 다른 채널에서 하기 위해 Microsoft Azure 구독을 이미 갖고 있는 고객에 대 한 항목이 필요 파트너 센터에서 새 Azure 구독을 만들고 수동으로 구독 세부 정보를 입력 한 다음 개별 취소 서비스 또는 전체 구독 합니다.</p>
+<p>이미 관리자, Open 또는 EA와 같은 다른 채널에서 Microsoft azure 구독을 보유 하는 고객에 대 한 있습니다&#39;ll 필요 파트너 센터에서 새 Azure 구독을 만들려면 구독 세부 정보를 수동으로 입력 하 고 개별 취소 한 다음 서비스 또는 전체 구독 합니다.</p>
 <p>다른 파트너로부터 이미 Microsoft Azure 구독을 구입한 고객의 경우 Azure 서비스를 다른 파트너로 전환할 수 있습니다. 자세한 내용은 <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure 구독을 다른 파트너로 전환</a>을 참조하세요.</p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ ms.locfileid: "8995607"
 </table>
 
 > [!IMPORTANT]  
-> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대 한 모든 발표는 파트너 센터를 포함 한 일반적인 통신 채널을 통해 발표 될 예정입니다. 
+> 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 파트너 센터를 포함 하 여 일반적인 통신 채널을 통해 기능 릴리스에 대 한 모든 공지를 발표 될 예정입니다. 
 
 ## <a name="see-also"></a>참고 항목
 

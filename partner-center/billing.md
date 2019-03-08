@@ -9,21 +9,21 @@ ms.author: evansma
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
 ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122180"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586386"
 ---
 # <a name="billing"></a>청구
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
  
  
-청구서를 **파트너 센터** 메뉴로 이동 하 고 하면 청구 내역과 추세, 송장 및 조정 파일, 최근 결제가 표시 링크를 보려면 **청구** 를 선택 합니다.
+청구서로 이동 합니다 **파트너 센터** 메뉴를 선택 합니다 **청구** 추세를 확인 하 고 청구 내역을 보려는 청구서 및 조정 파일, 가장 최근 결제를 연결 합니다.
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
@@ -38,17 +38,17 @@ ms.locfileid: "9122180"
 -   고객에게 모든 요금에 대한 단일 청구서를 보냅니다.
 
 ## <a name="billing-resources"></a>청구 리소스
-|**정보용**   |**이 글 읽기**    |
+|**에 대 한 내용은**   |**이 읽기**    |
 |:-----------------------------|:-----------------|
 |청구, 결제, 송장 등의 기본 사항   |[청구 기본 사항](billing-basics.md)
-|연간 청구 등 여러 새로운 청구 기능   |[새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)|
-|청구 유형   |[파트너 센터에서 청구의 종류 이해](billing-different-types.md)   |
+|연간 청구 등 여러 새로운 청구 기능   |[새 청구 기능에 대 한 FAQ](faq-about-new-billing-features.md)|
+|청구 유형   |[파트너 센터에서 청구 유형 이해](billing-different-types.md)   |
 |청구서 읽기의 핵심   |[청구서 읽기](read-your-bill.md)   |
 |조정 파일을 읽고 사용하는 방법   |[조정 파일 사용](use-the-reconciliation-files.md)|
 |일반적인 청구 시나리오(추가적인 청구 시나리오는 [새로운 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)에서 확인)|[일반적인 청구 시나리오](common-billing-scenarios.md)|
-|납세 책임   | [세금 및 면세](tax-and-tax-exemptions.md)|
-|사용량 기준 예산 설정    |[고객을 위한 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)|
-|미결제, 사기 또는 오용 시 조치   |[미결제, 사기 또는 오용](non-payment--fraud--or-misuse.md)|
+|납세 책임   | [세금 및 거래 세 면제](tax-and-tax-exemptions.md)|
+|사용량 기준 예산 설정    |[Azure 고객에 대 한 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)|
+|미결제, 사기 또는 오용 시 조치   |[비 지불, 사기 또는 오용](non-payment--fraud--or-misuse.md)|
 
 
 

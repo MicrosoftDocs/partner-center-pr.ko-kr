@@ -3,20 +3,20 @@ title: 데이터 플랫폼 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: 데이터 플랫폼 역량은 비즈니스를 실행할 강력한 다용도 데이터베이스 플랫폼을 설계 및 개발하려는 파트너를 인증하는 역량입니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, 데이터 플랫폼
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b2c85185910c859ed69706fb7ab2778ab0e47cbb
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797276"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586446"
 ---
 >[!IMPORTANT]
->이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
+>이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.
 
 <!--
 

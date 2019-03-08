@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995837"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586726"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -30,13 +30,13 @@ ms.locfileid: "8995837"
 ## <a name="find-license-and-user-data"></a>라이선스 및 사용자 데이터 찾기
 
 
-**단일 고객**
+**단일 고객을 위한**
 
--   **파트너 센터**에서 **고객** 을 선택 하는 고객을 선택한 **고객 정보**를 선택 합니다.
+-   선택 **고객** 에서 합니다 **파트너 센터**고객을 선택한 선택 **Customer insights**합니다.
 
-**전체 포트폴리오**
+**포트폴리오에서**
 
-1.  **파트너 센터** **분석**을 선택 합니다.
+1.  에 **파트너 센터**를 선택 **분석**합니다.
 2.  **내보내기** 옵션을 선택하여 전체 고객 집합에서 배포 및 사용 현황 데이터를 다운로드합니다.
 
 용어:
@@ -70,14 +70,14 @@ ms.locfileid: "8995837"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>문제:</strong> 사용자 채택 률이 낮을 수록 및 여러 라이선스 않았지만 & #39; t 사용 합니다.</p>
-<p><strong>고려할 사항:</strong> 고객이 소프트웨어가 제공할 수 있는 가치를 이해하지 못한 것일 수 있습니다. 해당 소프트웨어를 일상적인 업무에 통합하여 이미 수행 중인 작업을 단순화하거나 새로운 종류의 생산성을 가능하게 할 수 있는 방법을 구상하는 데 도움이 필요합니다.</p>
-<p><strong>해결 방법:</strong> 사례 연구, 특정 시나리오에 대한 사용자 추천, 자습서 블로그 또는 동영상을 이용합니다.</p></td>
+<td><p><strong>문제:</strong> 사용자 도입 률이, 저가 및 여러 라이선스 유효 하지&#39;t를 사용 합니다.</p>
+<p><strong>고려해 야 할 사항:</strong> 고객에 게 소프트웨어를 제공할 수 있는 값을 이해 하지 않을 수 있습니다. 해당 소프트웨어를 일상적인 업무에 통합하여 이미 수행 중인 작업을 단순화하거나 새로운 종류의 생산성을 가능하게 할 수 있는 방법을 구상하는 데 도움이 필요합니다.</p>
+<p><strong>해결 방법:</strong> 사례 연구, 특정 시나리오, 자습서 블로그를 읽거나 비디오에 대 한 사용자 의견</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>문제:</strong> 도움말 및 방법 관련 질문을 하기 위한 지원 전화가 많습니다.</p>
-<p><strong>고려할 사항:</strong> 고객이 소프트웨어, 제품 버전 또는 해당 작업을 처음 접하는 것일 수 있습니다.</p>
-<p><strong>지식을:</strong> (직접 또는 온라인) 교육을 제공 하는 이중 전략을 사용 하 여 고객 & #39; 증가 s 고객에 게 사용할 수 있는 셀프 서비스 옵션 시키는 한편 전반적인 전문 지식.</p>
+<td><p><strong>문제:</strong> 도움말 및 방법 질문에 대 한 지원 통화 상당히 많은 방법이 있습니다.</p>
+<p><strong>고려해 야 할 사항:</strong> 고객은 소프트웨어, 제품 버전, 또는 해당 작업에 새 수 있습니다.</p>
+<p><strong>해결 방법:</strong> 고객을 높이기 위해 학습 (직접에서 또는 온라인) 제품에 대 한 이중 전략을 사용할 수 있습니다&#39;s도 고객에 게 제공 되는 셀프 서비스 옵션 중 일부를 승격 하는 동안 전체 전문 지식.</p>
 <p>지원 연락처 정보 외에 <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">고객 자가 지원</a> 항목에 설명된 셀프 서비스 옵션도 포함하도록 지원 사이트를 다시 디자인할 수 있습니다.</p></td>
 </tr>
 </tbody>

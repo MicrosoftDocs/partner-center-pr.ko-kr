@@ -2,18 +2,18 @@
 title: CSP 직접 파트너 새 요구 사항 | 파트너 센터
 ms.topic: article
 ms.date: 01/14/2018
-Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
+Description: 현재 직접 파트너는 CSP 프로그램에 등록 된 경우 이러한 업데이트 된 지원 및 서비스 요구 사항에 맞게 준비 해야 합니다.
 program.author: labrenne
 ms.author: labrenne
 keywords: CSP, 직접 파트너, 직접 청구, 요구 사항
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 58b0bd8fbbdafcd7a6070b691b78800382d8e290
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098700"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586506"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>CSP 직접 파트너 새로운 요구 사항
 
@@ -23,26 +23,26 @@ ms.locfileid: "9098700"
 
 ## <a name="enroll-as-a-direct-partner"></a>직접 파트너로 등록
 
-직접 청구 파트너는 Microsoft 및 고객과 종단 간 관계를 소유 합니다. 2018 년 8 월 31 일 기준으로 직접 청구 파트너 등록 요구 사항을 업데이트 했습니다. 이러한 새 요구 사항을 오른쪽 CSP 등록 모델에 비즈니스 성장을 가속화 부가 가치 서비스 및 지원에 고객 관계를 강화 하는 데 도움이 됩니다. 
+직접 청구 파트너는 고객과 및 Microsoft와 종단 간 관계를 소유 합니다. 2018 년 8 월 31 일을 기준으로 직접 청구 파트너에 대 한 등록 요구 사항을 업데이트 했습니다. 이러한 새 요구 사항은 올바른 CSP 등록 모델로 비즈니스 성장을 가속화하고 부가 가치 서비스와 지원으로 고객과의 관계를 굳건하게 하는 데 도움이 됩니다. 
 
 ### <a name="minimum-requirements"></a>최소 요구 사항
 
 |**요구 사항**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN ID**   |비즈니스 위치에 대 한 활성 Microsoft 파트너 네트워크 (MPN) ID입니다.   |
-|**승인**   |수락 하 고 조직 대신 하 여 법적 계약에 서명 하는 권한을 합니다.|
-|**지원**  |첫 번째 수준의 클라우드 제품을 제공 하는 기능 고객에 게 지원 합니다. 두 고급 지원 (ASfP) 파트너는 Microsoft 지원 계획 또는 필요에 따라 파트너 (PSfP)에 대 한 프리미어 지원 합니다. [비교 지원 계획](https://partner.microsoft.com/en-US/support/partnersupport)합니다. |
-|**관리 서비스**   |하나 이상의 관리 서비스, IP 서비스 또는 고객 솔루션 응용 프로그램. [관리 되는 서비스](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)를 추가 하는 방법에 대 한 자세히 알아보세요.|
-|**미수금** |고객 청구 및 프로 비전을 관리 하에서는 조직 인프라. 
+|**MPN ID**   |비즈니스 위치에 대한 활성 MPN(Microsoft 파트너 네트워크) ID입니다.   |
+|**인증**   |조직 대신 법적 계약서를 수락하고 서명할 수 있는 권한입니다.|
+|**지원**  |첫 번째 수준의 클라우드 제품을 제공할 수는 고객에 게 지원 합니다. Microsoft 지원 플랜이며, 요구 사항에 따라 파트너에 대한 고급 지원(ASfP) 또는 파트너에 대한 프리미어 지원(PSfP)입니다. [지원 플랜을 비교](https://partner.microsoft.com/en-US/support/partnersupport)해 보세요. |
+|**Managed Service**   |하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 응용 프로그램입니다. [관리 서비스](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)를 추가하는 방법에 대해 자세히 알아보세요.|
+|**미수금** |고객 청구와 프로비전을 관리하기 위한 조직 인프라입니다. 
 
-위의 최소 요구 사항을 검토 한 후에 자격을 확인 하는 빠른 유효성 검사 설문지를 완료 해야 합니다. 
+위의 최소 요구 사항을 검토 한 후 적용 자격 여부를 확인 하려면 질문 서 빠른 유효성 검사를 완료 해야 합니다. 
 
-[클라우드 솔루션 공급자 설문지](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[클라우드 솔루션 공급자 질문 서](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-설문지의 평가 CSP 직접 청구 프로그램에 등록 하 여 자격을 결정 합니다. 직접 청구 기준을 충족 하 고 등록 양식 제출한 설문지를 통해 확인 한 후 신용 검사를 포함 하 여 회사의 비즈니스 검토를 수행 합니다. 승인 신용 인 경우 ASfP 또는 PSfP 계획의 구매를 확인 하 고 마지막으로, 직접 청구 파트너는 고객과 거래 하려면 직접 청구 용어 계약에 동의 해야 합니다.
+질문 서의 평가 CSP 직접 청구 프로그램에 등록 하려면 자격을 결정 합니다. 확인 하면 설문을 통해 직접 청구 조건과 일치 하는 등록 양식을 제출, 신용 검사를 포함 하 여 회사의 비즈니스 검토를 수행 합니다. 신용 승인 라면 ASfP 또는 PSfP 계획 구매를 확인 하 고 마지막으로 직접 청구 파트너로 고객과 구속력 있는 하려면 직접 청구 약관 계약에 동의 해야 합니다.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>간접를 직접 재판매인에서 전환
+## <a name="transition-from-direct-to-indirect-reseller"></a>직접에 간접 재판매인 으로부터 전환
 
-직접 청구 비즈니스에서 간접 재판매인 비즈니스로 이동 하려는 경우 몇 가지 단계가 방법으로 수행 해야 합니다. 전환에 대 한 자세한 내용을 보려면 읽기 [CSP 간접 재판매인을 직접 파트너 클라우드 솔루션 공급자 (CSP)에서 전환](transition-direct-to-indirect.md)합니다. 
+간접 대리점 사업 직접 청구 비즈니스에서 이동 하려는 경우 몇 가지 단계를 수행 해야 합니다. 전환에 대 한 자세한 내용은 [전환 클라우드 솔루션 공급자 (CSP)에서 직접 CSP 간접 재판매인 파트너](transition-direct-to-indirect.md)합니다. 
 
-[간접 재판매인 되 고 대 한 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 를 참조 하세요.와 [간접 재판매인을 직접 청구 fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)합니다.
+참고 항목 [간접 재판매자 점점 대 한 자세한 내용은](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 하며 [간접 재판매자 직접 청구 fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

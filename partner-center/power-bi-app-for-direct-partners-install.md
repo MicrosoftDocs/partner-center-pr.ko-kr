@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 아래 단계에 따라 Power BI용 파트너 센터 분석 앱을 미리 봅니다(CSP의 직접 파트너용).b
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995557"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585866"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기
 
@@ -22,16 +22,16 @@ ms.locfileid: "8995557"
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
-사용 가능한 Power BI 앱의 다음 목록에서 비즈니스에 가장 관련 된 응용 프로그램을 선택 합니다.
+다음과 같은 사용할 수 있는 Power BI 앱에서에서 비즈니스에 가장 관련 있는 응용 프로그램을 선택 합니다.
 - [직접 파트너](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [간접 파트너](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [간접 재판매인](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [간접 재판매자](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 파트너 센터 분석 앱 미리 보기 버전을 설치하기 전에 다음 요구 사항을 충족하는지 확인하세요.
 
-- 비즈니스에 대 한 올바른 Power BI 응용 프로그램을 선택합니다.
+- 비즈니스에 대 한 올바른 Power BI 앱을 선택합니다.
 
 - Microsoft Power BI Professional 또는 Microsoft Power BI Premium 중 하나에 활성 구독이 있습니다.
 
@@ -62,4 +62,4 @@ ms.locfileid: "8995557"
 
 ## <a name="next-steps"></a>다음 단계
 
-[Microsoft Power BI용 파트너 센터 분석 앱으로 비즈니스 데이터 보기](power-bi-app-for-direct-partners-use.md)
+[Microsoft Power BI에 대 한 파트너 센터 분석 앱을 사용 하 여 비즈니스 데이터 보기](power-bi-app-for-direct-partners-use.md)

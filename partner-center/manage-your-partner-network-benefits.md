@@ -2,17 +2,17 @@
 title: Microsoft 파트너 네트워크 혜택 관리 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 구매할 자격이 있습니다. 활성화 하 고 파트너 센터에서 멤버십 혜택을 관리 하는 방법을 설명 합니다.
+description: 귀사는 Microsoft 파트너 네트워크 회원으로서 특정 멤버십 혜택을 구매할 자격이 있습니다. 활성화 하 고 파트너 센터에서 멤버 자격 혜택을 관리 하는 방법에 설명 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: medium
 ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796386"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584706"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -21,17 +21,17 @@ ms.locfileid: "5796386"
 -  파트너 센터
 
 >[!IMPORTANT]
->이 문서에서는 Microsoft 파트너 네트워크 (MPN)를 사용 하 여 시작 하는 방법을 설명이 사이트 (이전의 파트너 센터)-파트너 센터에서 멤버십 혜택. 회사 정보 Partner Membership Center (PMC)에서 파트너 센터로 이동 하기 위한 초대를 받지 못한, PMC에서 MPN 멤버십 혜택 관리 계속 해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)하세요.   
+>이 문서에서는 Microsoft 파트너 네트워크 (MPN)를 사용 하 여 시작 하는 방법 설명. 멤버 자격 혜택 (이전의 파트너 센터)-파트너 센터에서이 사이트입니다. 회사 정보 파트너 멤버 자격 Center (PMC)에서 파트너 센터로 이동 하는 초대를 받은 하지 않은 경우에 PMC에서 MPN 멤버 자격 혜택을 관리 하려면 계속 해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)하세요.   
 
 Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하고 성장시키는 데 도움이 되는 멤버십원 혜택에 액세스할 수 있습니다. MPN 회원이 아닌 경우 [MPN 사이트](https://partner.microsoft.com/membership)에서 가입할 수 있습니다.
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>파트너 센터에서 멤버십 혜택 관리
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>파트너 센터에서 멤버 자격 혜택 관리
 
 멤버십 혜택 패키지 구입 후 소프트웨어 키를 얻고 라이선스, 구독 및 기타 혜택을 직원에게 할당하여 사용을 시작해야 합니다. 
 
 >[!IMPORTANT]
->혜택을 구입 하려면 조직에서 전역 관리자 여야 필요가 있는 동안 혜택을 직원에 게 할당 하려면 전역 관리자 여야 필요가 없습니다.  원한다 면 [ **혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits) 의 지침에 따라 전역 관리자 될 수 있습니다 (로그인 필요). 또한 조직 팀을 사용 하 여 확인 해야 하는 전역 관리자를 이미 있을 수 있습니다.
+>조직의 전역 관리자가 아니어도 혜택을 구입할 수는 있지만, 직원에게 혜택을 할당하기 위해서는 반드시 전역 관리자여야 합니다.  원하는 경우 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)(로그인 필요)의 지침에 따라 전역 관리자가 될 수 있습니다. 또한 조직에 이미 전역 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
 
 혜택 패키지에는 내부 사용 권한 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 세부 정보를 확인할 수 있습니다.  
 
@@ -102,10 +102,10 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
 )을 작성한 다음 **요청 제출**을 선택합니다.
 
 
-#### <a name="see-also"></a>기타 참조
+#### <a name="see-also"></a>참고 항목
 
-[사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
+[사용자를 추가 하 고 여기에 할당할 권한](create-user-accounts-and-set-permissions.md)
 
-[Microsoft Action Pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
+[Microsoft Action pack 구독 구입 또는 갱신](mpn-get-action-pack.md)
 
 

@@ -6,21 +6,21 @@ description: 활동 로그는 고객에 대한 거래 및 파트너 관리 작�
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+Keywords: 활동 로그, 구독, 구독 및 결제, 청구, 트랜잭션
 ms.localizationpriority: medium
 ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683762"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586066"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
 -  
 
 
@@ -28,16 +28,16 @@ ms.locfileid: "8683762"
 
 활동 로그는 고객 계정 및 제품 거래에 대한 파트너 작업 레코드를 제공합니다. 활동 로그를 .csv 파일로 내보낼 수도 있습니다.
 
-**활동 로그 보기 및 내보내기**
+**보기 및 활동 로그 내보내기**
 
-1.  **파트너 센터** 메뉴에서 **활동 로그**를 선택 합니다.
+1.  **파트너 센터** 메뉴에서 **활동 로그**합니다.
 2.  **시작일** 및 **종료일** 필드에서 활동 로그 기간을 선택합니다. 활동 로그 내보내기는 기본적으로 최근의 달로 설정됩니다.
 
     각 활동 로그는 나열된 고객의 **구독** 페이지에 대한 링크를 제공합니다.
 
     기록된 작업에 대한 세부 정보를 보려면 활동 로그에 대한 아래쪽 화살표를 선택합니다. 단일 활동 로그에는 여러 제품의 순서 지정과 같은 상당한 양의 데이터가 표시될 수 있습니다.
 
-3.  **로그 내보내기**를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다. 데이터 열에는 다음과 같은 내용이 포함됩니다.
+3.  **로그 내보내기**를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다. 데이터 열은 다음과 같습니다.
     -   **영향을 받은 고객** - 고객의 회사 이름
     -   **작업** - 구독의 제품 이름
     -   **파트너 사용자** - 활동과 연관된 파트너

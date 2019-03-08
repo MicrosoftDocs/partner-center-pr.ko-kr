@@ -2,19 +2,19 @@
 title: 회사 계정 및 파트너 센터 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 경우 회사 계정이 이미 있습니다.
-author: labrenne
+description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다. 활성 구독을 Microsoft Azure 또는 Office 365가 이미 있는 경우 작업 계정입니다.
+author: LauraBrenner
 ms.author: labrenne
-Keywords: work account, email, tenant, Azure tenant, create account, domain name
+Keywords: Azure 테 넌 트, 테 넌 트, 전자 메일, 계정, 계정, 도메인 이름 만들기
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917525"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584686"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>조직의 회사 계정 및 파트너 센터  
 
@@ -29,7 +29,7 @@ ms.locfileid: "8917525"
 회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
 
 > [!NOTE]  
->  기존 회사 계정을 사용 하기로 결정 하기 전에 상상해 보세요 얼마나 많은 사용자 계정에 대 한 파트너 센터에서 작동 하도록 해야 합니다. 파트너 센터에서 작업 하는 계정에 사용자가 있는 경우 파트너 센터에서 작업 해야 하는 사용자만을 위한 새 계정을 만드는 것이 좋습니다.
+>  기존 작업 계정을 사용 하도록 결정 하기 전에 계정에 얼마나 많은 사용자에 대 한 파트너 센터에서 작업에 필요한 생각 합니다. 사용자가 파트너 센터에서 작업할 필요가 있는 사용자 계정에 있는 경우 파트너 센터에서 작동 하는 데 필요한 사용자만을 위한 새 계정을 만드십시오.
 
 회사에 아직 회사 계정이 없는 경우 등록 과정에서 테넌트를 만들 수 있습니다. 
 

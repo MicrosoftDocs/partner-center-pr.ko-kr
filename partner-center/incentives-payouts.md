@@ -1,17 +1,17 @@
 ---
-title: 인센티브 지급액에 대 한 이해 | 파트너 센터
+title: 인센티브 지급에 이해 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
 description: 인센티브 수익 및 지급액 일정은 향후 계획에 도움이 됩니다.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: bcac1e3fbeefc2186881ba9403263daa2832f618
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995704"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587356"
 ---
 # <a name="understand-your-incentive-payouts"></a>인센티브 지급액에 대한 이해
 
@@ -29,7 +29,7 @@ ms.locfileid: "8995704"
 각 인센티브 프로그램의 수익 및 지급액을 드릴다운할 수 있습니다. 수익과 지급액 사이의 타임라인을 추적하면 향후 필요한 리소스 등을 계획하는 데 도움이 됩니다. 또한 어떤 위치에서 수익이 많이 발생했는지 또는 인센티브 프로그램에서 활동이 좀 더 활발했는지 찾을 수 있습니다. 
 
 ## <a name="drill-down-on-incentives-earnings"></a>인센티브 수익 드릴다운
-인센티브 프로그램을 통해 더 많은 수익을 거둘 수 있는 영역과 이미 결제된 영역을 살펴보세요. 이 데이터를 보면 수익을 올렸지만 아직 결제되지 않은 영역을 확실하게 알 수 있습니다.  어떤 프로그램과 활동이 가장 성공적이었는지 파악하고 어떤 위치에서 수익이 나고 있는지 확인하세요. 프로그램별로 총 잠재 수익, 프로그램에 참가할 수 있는 기간, 프로그램이 만료되는 시간을 볼 수 있습니다. 각 프로그램 및 수익 유형 마다 요구 사항, 날짜 및 최대 수익 임계값 생깁니다. 
+인센티브 프로그램을 통해 더 많은 수익을 거둘 수 있는 영역과 이미 결제된 영역을 살펴보세요. 이 데이터를 보면 수익을 올렸지만 아직 결제되지 않은 영역을 확실하게 알 수 있습니다.  어떤 프로그램과 활동이 가장 성공적이었는지 파악하고 어떤 위치에서 수익이 나고 있는지 확인하세요. 프로그램별로 총 잠재 수익, 프로그램에 참가할 수 있는 기간, 프로그램이 만료되는 시간을 볼 수 있습니다. 각 프로그램 및 획득 유형의 다른 요구 사항, 날짜 및 최대 수익 임계값 해야 합니다. 
 
 ## <a name="drill-down-on-incentive-payouts"></a>인센티브 지급액 드릴다운
 인센티브 수입을 다른 관점에서 볼 수 있도록 지급액에는 결제된 항목과 향후 결제될 항목의 세부 정보가 표시됩니다. 보류된 세금 등의 거래 세부 정보를 확인할 수 있는 결제된 각 프로그램에 대한 명세서를 가져올 수 있습니다. 거래별 연간 및 월간 결제 내역을 자세히 살펴볼 수 있습니다.

@@ -1,42 +1,42 @@
 ---
-title: 인센티브 게임이 협동 클레임 | 파트너 센터
+title: 인센티브 co-op 클레임 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 먼저 검토 계획 작업을 하지 않고 인센티브 클레임을 제출 합니다.
-author: labrenne
+description: 먼저 활동 계획을 검토할 필요 없이 인센티브 클레임을 제출하세요.
+author: LauraBrenner
 ms.author: labrenne
-keywords: 인센티브 클레임, 게임이 협동 클레임, 게임이 협동 자금
+keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a77d4655a938d1c95503629b093bb44ae5681f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bb750b740280d7ee66132b999c1cc24707cd2885
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797156"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584186"
 ---
-# <a name="incentives-co-op-claims-overview"></a>인센티브 게임이 협동 클레임 개요
+# <a name="incentives-co-op-claims-overview"></a>인센티브 협력 클레임 개요
 
 **적용 대상**
 
 - 파트너 센터
 
-전환할 않은 활동에 대 한 명칭 자금을 청구 파트너 인센티브 협력 마케팅 자금 (게임이 협동) 프로그램에 참여 하는 경우 지 원하는 Microsoft 제품 인식 합니다. 파트너 센터에서 직접 요청을 제출 합니다. 요청을 제출 하기 전에 Microsoft가 검토 활동 계획 있이 필요가 없습니다. 클레임 및 필수 문서를 이전 청구 기간 기한 사용 기간이 끝나고 45 일 이후에에 제출 합니다. 
+파트너 인센티브 협력 마케팅 펀드(Co-op) 프로그램에 참여하면 Microsoft 제품의 인지도 향상을 위해 수행한 활동에 대해 획득한 펀드의 상환을 요청할 수 있습니다. 파트너 센터에서 직접 클레임을 제출합니다. 더 이상 클레임 제출 전에 활동 계획에 대해 Microsoft의 검토를 거칠 필요가 없습니다. 클레임 기한(사용 기간이 종료된 후 45일) 내에 클레임과 필요한 문서를 제출하세요. 
 
-성공적인 클레임에는 다음이 포함 됩니다.
+성공적인 클레임을 위해서는 다음을 포함해야 합니다.
 
-- 해당 활동에 대 한 핵심 요구 사항이 충족 하는 방법을 보여 주는 설명서
-- 협력 하는 타사 공급 업체의 송장
-- 인증 문과 사내 작업 완료에 대 한 보고서 (Csr)
-- 증명 하면 적절 한 설명서 (실행 증명) 작업 완료 
+- 해당 활동에 대한 핵심 요구 사항을 만족했음을 입증하는 문서
+- 협력 중인 타사 공급업체의 송장
+- 사내 작업이 완료되었음을 나타내는 인증 문 및 보고서(CSR)
+- 해당 활동을 완료했음을 증명하는 문서(실행 증명) 
 
 >[!NOTE]
->Microsoft은 원래 증명서 실행 (POE) 문서를 요청할 수 있는 권리를 보유 합니다. 활동 날짜 로부터 24 개월 동안 모든 원래 문서를 유지 합니다. 
+>Microsoft는 실행 증명(POE) 문서 원본을 요청할 수 있는 권리를 보유합니다. 모든 원본 문서는 활동 날짜로부터 24개월 동안 유지합니다. 
 
-|**수행할 작업**   |**이 글 읽기**   |
+|**이렇게 하려면**   |**이 읽기**   |
 |-----------------|:--------------------------------------|
-|요청을 제출 하 고 올바른 설명서를 포함 합니다.|[만들기 및 관리는 인센티브 프로그램 활동 청구](create-incentives-claims.md)|
-|클레임 sumitted 했다면 되 면 추가 documetation 요청을 관리 합니다.|[만들기 및 관리는 인센티브 프로그램 활동 청구](create-incentives-claims.md)  |
-|활동 클레임에 대 한 핵심 요구 사항을 알고 있는지 확인|[인센티브 클레임 핵심 요구 사항을 알아야 합니다.](core-requirements.md)   |
-|전체 인센티브 프로그램 세부 정보에 알아봅니다|[파트너 인센티브 게임이 협동 Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
+|클레임을 제출하고 올바른 문서 포함|[인센티브 프로그램 작업 클레임을 만들고 설정 합니다.](create-incentives-claims.md)|
+|클레임을 제출한 후에는 추가 문서 요청을 관리|[인센티브 프로그램 작업 클레임을 만들고 설정 합니다.](create-incentives-claims.md)  |
+|활동 클레임을 위한 핵심 요구 사항을 숙지|[인센티브 클레임 핵심 요구 사항을 알으십시오](core-requirements.md)   |
+|인센티브 프로그램의 모든 세부 정보 숙지|[파트너 인센티브 Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
                                                                                  
                                    

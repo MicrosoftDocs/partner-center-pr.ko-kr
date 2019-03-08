@@ -2,17 +2,17 @@
 title: 가격 책정 및 제품 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-description: 제품 목록에는 파트너 센터 및 가격 정보를 통해 구입할 수 있는 여러 제품군이 포함 됩니다.
-author: labrenne
+description: 제품 목록은 파트너 센터 및 해당 가격 책정 정보를 통해 구입할 수 있는 다양 한 제품군입니다.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995757"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586736"
 ---
 # <a name="pricing-and-offers"></a>가격 책정 및 제품
 
@@ -22,7 +22,7 @@ ms.locfileid: "8995757"
 
 최신 클라우드 솔루션 공급자의 프로그램 가격표를 보려면 **판매 > 가격 및 제품**으로 이동합니다. Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite와 같은 라이선스 기준 서비스와 Azure와 같은 사용량 기준 서비스에 대해 개별 가격표를 찾아볼 수 있습니다. 
 
-제품 목록에는 파트너 센터를 통해 구입할 수 있는 여러 제품군이 포함 됩니다. 이러한 제품군에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure가 있습니다. 목록에 항목이 추가될 예정입니다.
+제품 목록은 파트너 센터를 통해 구입할 수 있는 다양 한 제품군입니다. 이러한 제품군에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure가 있습니다. 목록에 항목이 추가될 예정입니다.
 
 각 제품군에는 비즈니스에 따라 판매할 수 있는 여러 SKU 및 제품 번들이 제공됩니다. 언제든지 가격 책정 및 제품 페이지에서 제공되는 클라우드 재판매인 제품표를 사용하여 이러한 각 제품에 대한 최신 정보에 액세스할 수 있습니다.
 
@@ -32,7 +32,7 @@ ms.locfileid: "8995757"
 
 |**항목**        |**정의**      |
 |:-----------   |:-----------   |
-|ADD   |가격표에 추가된 새 항목|
+|추가   |가격표에 추가된 새 항목|
 |CHG   |가격표에서 변경된 내용. 예: SKU 설명 변경|
 |DEL   |가격표에서 제거된 항목|
 |UNC   |이전 달의 가격표에서 변경되지 않은 항목   |
@@ -55,4 +55,4 @@ ms.locfileid: "8995757"
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>제품표 및 가격표 관련 질문
 
-가격표 또는 제품 표에 대 한 질문이 있는 경우 파트너 센터를 통해 서비스 요청을 제출 합니다.
+가격표 또는 제품 행렬에 대 한 질문이 있으면 파트너 센터를 통해 서비스 요청을 제출 합니다.

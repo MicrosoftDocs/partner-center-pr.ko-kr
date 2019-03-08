@@ -3,20 +3,20 @@ title: 통신 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: 통신 역량은 혁신적인 사용자 지정 비즈니스용 Skype 솔루션을 제공하는 파트너를 인증하는 역량입니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, 통신
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a537ec778cf2c9b482dda1d733ac89ec76a69800
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794636"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586166"
 ---
 >[!IMPORTANT]
->이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
+>이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.
 
 <!--
 #Communications

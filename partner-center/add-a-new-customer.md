@@ -9,32 +9,32 @@ ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
 ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683692"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586246"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
 
 
 
-구독을 판매 하거나 청구를 관리 지원을 제공할 수 있습니다, 파트너 센터의 고객 계정이 생성 해야 합니다. 여기에는 연락처 정보 및 Azure AD 도메인이 포함됩니다.
+구독 판매, 대금 청구를 관리 하거나 지원을 제공, 전에 파트너 센터에서 고객을 위해 계정을 만들 필요가 있습니다. 여기에는 연락처 정보 및 Azure AD 도메인이 포함됩니다.
 
 [다중 채널](multichannel.md) 또는 [다중 파트너](multipartner.md) 시나리오를 통해 고객 계정과 구독을 이미 갖고 있는 고객은 여기에 나와 있는 다음 절차 대신 [고객과의 관계를 요청](request-a-relationship-with-a-customer.md)할 수 있습니다.
 
 **새 고객 추가**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 그런 다음 **고객 추가**를 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**합니다. 그런 다음 **고객 추가**를 선택합니다.
 
-2.  **계정 정보** 페이지에서 회사 세부 정보와 기본 연락처 정보를 입력한 후 **다음: 구독**을 선택합니다.
+2.  에 **계정 정보** 페이지에서 회사 정보 및 기본 연락처 정보를 완료 하 고 선택한 **다음: 구독**합니다.
 
-3.  **구독** 페이지에서 올바른 제품을 선택하고 라이선스 수를 입력한 후 **다음: 검토**를 선택합니다.
+3.  에 **구독** 페이지, 올바른 제품을 선택 하 고, 라이선스 수를 입력 하 고 선택한 **다음: 검토**합니다.
 
 4.  **검토** 페이지에서 입력한 내용이 정확한지 확인하고 계정 또는 제품을 변경해야 하는 경우 **편집**을 선택한 후 **제출**을 클릭합니다.
 

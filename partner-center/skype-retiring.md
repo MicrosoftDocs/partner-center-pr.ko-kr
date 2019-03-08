@@ -2,18 +2,18 @@
 title: 비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
-Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
-author: labrenne
+Description: 지원 되는 SKU 옵션 Business Online 요금제 1 구독은 만료 Skype 사용 하 여 고객에 게 전환 합니다. 구독의 연간 종료 날짜 전에 새 구독에 고객을 이동 하는 것이 좋습니다.
+author: LauraBrenner
 ms.author: labrenne
 keywords: 비즈니스용 Skype 플랜, Skype 사용 중지, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917625"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586106"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션
 
@@ -36,7 +36,7 @@ API(CREST 또는 파트너 센터)를 사용하는 경우 auto renew = False 속
 
 - 옵션 1: Office 365 Enterprise F1
 - 옵션 2: Microsoft 365 Enterprise F1
-- 옵션 3: Other Office 365 플랜
+- 옵션 3: 다른 Office 365 계획
 
 |**기능**    |**옵션 1**   |**옵션 2**   |**옵션 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
@@ -45,7 +45,7 @@ API(CREST 또는 파트너 센터)를 사용하는 경우 auto renew = False 속
 |IP를 통한 피어 투 피어 오디오 및 비디오|예   |예   |예   
 |인증된 사용자로 회의 참여| 예   |예   |예   |
 
-## <a name="transition-customers-to-new-product-plans"></a>새 제품 요금제로 고객 전환
+## <a name="transition-customers-to-new-product-plans"></a>새 제품 계획으로 고객 전환
 
 Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공합니다. 다음과 같은 경우 파트너는 고객을 새 서비스로 업그레이드하거나 결국 종료될 SKU의 구독을 마이그레이션해야 할 수 있습니다. 사용 중지된 SKU에서 새 SKU로 고객을 마이그레이션하려면 다음 단계를 따라야 합니다.
 
@@ -55,13 +55,13 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 ### <a name="migrate-your-customers-to-new-plans"></a>고객을 새 플랜으로 마이그레이션
 
-1. **파트너 센터 메뉴**에서 새 구독을 구매, **고객**을 선택 하 고 이동 하려는 고객을 선택한 다음 **구독 추가**선택 합니다.
+1. 새 구독을 구매 하는 **파트너 센터 메뉴**를 선택 **고객**, 이동 및 선택 하려는 고객을 선택 **구독 추가**합니다.
 
 2. 카탈로그에서 구매할 구독을 선택하고(이 경우 아래 옵션 중 하나), 라이선스 수를 입력한 다음 **제출**을 선택합니다. 
 
 이제 고객은 기존 구독과 새 구독, 다시 말해서 기존 비즈니스용 Skype Online 플랜 1 구독과 새로운 '대상' 구독(예: 옵션 1 - Office 365 Enterprise F1)을 모두 갖고 있습니다.
 
-3. **파트너 센터** 메뉴에서 고객의 사용자 라이선스를 할당 하는 **고객**을 선택, 이동, 하 고 **사용자 및 라이선스를**선택 하면 고객을 선택 합니다. 고객의 사용자 및 라이선스 페이지가 열립니다.
+3. 고객의 사용자 라이선스를 할당할 합니다 **파트너 센터** 메뉴에서 **고객**를 이동 하는 고객을 선택 하 고 선택한 **사용자 및 라이선스** . 고객의 사용자 및 라이선스 페이지가 열립니다.
 
 4. 사용자 라이선스를 다시 할당하려면 다시 할당할 사용자를 선택한 다음 **라이선스 관리**를 선택합니다.
 
@@ -71,7 +71,7 @@ Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공�
 
 사용자 라이선스를 새 서비스로 이동한 후 고객 수준에서 사용 중지된 구독을 안전하게 취소할 수 있습니다.
 
-7. **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 구독 취소 중인 고객을 선택합니다.
+7. **파트너 센터** 메뉴에서 **고객**합니다. 구독 취소 중인 고객을 선택합니다.
 
 8. 구독 세부 정보 페이지에서 구독을 **일시 중단됨**으로 설정합니다.
 

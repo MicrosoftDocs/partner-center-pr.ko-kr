@@ -6,12 +6,12 @@ description: 새로운 파트너 센터 기능이 출시되기 전에 시험 사
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995737"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585886"
 ---
 # <a name="test-drive-new-partner-center-features"></a>새로운 파트너 센터 기능 시험 사용
 
@@ -34,7 +34,7 @@ ms.locfileid: "8995737"
 
 - 기능을 시험 사용하는 방법에 대한 지침 검색
 
-- 기능을 제공 하기 위한 미리 보기 및 우리의 대상 예정일에 대 한 전 세계 파트너 센터 커뮤니티에 기능이 출시 예정일 우리의 목표 날짜를 참조 하세요.
+- 전 세계 파트너 센터 커뮤니티 기능을 출시할 예정 때 기능을 미리 보기에는 대상 라이브 날짜를 사용할 수 있도록 우리의 목표 날짜를 참조 하세요.
 
 > [!NOTE]  
 >  *정식 출시 예정일*이란 전 세계 파트너 센터 사용자에게 기능을 제공하기로 계획된 날짜를 말합니다. 그러나 기능 개선을 위한 피드백 반영 결정을 포함한 여러 요소가 정식 출시 예정일에 영향을 줄 수 있으며 정식 출시 예정일이 변경되거나 상용 버전 기능이 출시되지 않을 수도 있습니다.  
@@ -52,7 +52,7 @@ ms.locfileid: "8995737"
 
 -   파트너 센터 창의 오른쪽 하단 모서리에 있는 피드백 양식을 사용하여 저희에게 직접 의견을 보낼 수 있습니다. 
 
--   기능 미리 보기와 관련하여 문제가 발생하는 경우 지원을 요청하세요. 지원 요청을 만들려면 선택 **지원 요청 > 파트너 센터 요청** **파트너 센터** 메뉴 및 **파트너 센터 요청** 페이지에서 다음 선택 **새 요청** 합니다.
+-   기능 미리 보기와 관련하여 문제가 발생하는 경우 지원을 요청하세요. 지원 요청을 만들려면 선택 **지원 요청 > 파트너 센터 요청** 에서 합니다 **파트너 센터** 메뉴를 선택 합니다 **새 요청** 합니다 에**파트너 센터 요청** 페이지입니다.
 
 여러분의 도움이 필요합니다!
 

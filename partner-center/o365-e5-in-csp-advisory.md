@@ -8,13 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795657"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585336"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 파트너 공지: CSP의 Office 365 E5 Single SKU 가용성
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 파트너 권고: CSP에서 office 365 E5 단일 SKU 가용성
 
 **적용 대상**
 
@@ -53,7 +53,7 @@ ms.locfileid: "5795657"
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>CSP 가격표에 날짜 및 PSTN 가용성을 기준으로 표시되는 SKU
 
-**단일 Office 365 Ent. E5 Single SKU 출시 이전**
+**단일 Office 365 Ent 하기 전에 합니다. E5 단일 SKU 시작**
 
 **제품 표시 이름**
 
@@ -94,7 +94,7 @@ PSTN 추가 기능
 
  
 
-**단일 Office 365 Ent. E5 Single SKU 출시 이후**
+**단일 Office 365 Ent의 릴리스 후 E5 단일 SKU 시작**
 
 **제품 표시 이름**
 
@@ -114,9 +114,9 @@ PSTN 추가 기능
 
 **35.00**
 
-**새 Single SKU**
+**새로운 단일 SKU**
 
-**Office 365 Enterprise E5(PSTN 회의 제외)**
+**PSTN 컨퍼런스 없이 office 365 Enterprise E5**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
@@ -124,7 +124,7 @@ PSTN 추가 기능
 
 **35.00**
 
-**비 PSTN 구성원을 위한 새 Single SKU**
+**PSTN이 아닌 멤버에 대 한 새로운 단일 SKU**
 
 Office 365 Enterprise E5(PSTN 회의 제외)
 
@@ -148,7 +148,7 @@ PSTN 추가 기능
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>송장 및 파트너 조정 파일
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>청구서 및 조정 파일 파트너
 
 
 CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 및 비 PSTN 구성 요소에 대한 별도의 품목을 제공합니다. 두 품목은 이름과 ID가 같지만, 각 품목의 단가는 고유합니다(예: 28.40달러 및 2.00달러). 따라서 Office 365 제품의 비즈니스용 Skype PSTN 회의 구성 요소가 분리되므로 세금을 올바르게 적용할 수 있습니다.
@@ -207,11 +207,11 @@ CSP 조정 파일 및 CSP 송장은 Office 365 Enterprise E5 Single SKU의 PSTN 
 
 자세한 내용은 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 사이트를 참조하세요. Office 365 Enterprise E5 관련 리소스는 **Market and Sell**(마케팅 및 판매) 탭의 [Office 365 E5 페이지](https://drumbeat.office.com/partner/pages/e5.aspx)에 있습니다.
 
--   **Office 365 Enterprise E5 라이선싱**
+-   **Office 365 Enterprise E5 라이선스**
 
--   **비즈니스용 Skype PSTN 서비스 라이선싱 개요**
+-   **PSTN 비즈니스용 Skype 서비스 라이선스 개요**
 
--   **Office 365 E5 및 비즈니스용 Skype 라이선싱 FAQ**
+-   **Office 365 E5 및 라이선스 FAQ 비즈니스용 Skype**
 
  
 

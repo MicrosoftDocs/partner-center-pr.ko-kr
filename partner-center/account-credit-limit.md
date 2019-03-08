@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: CSP 프로그램의 파트너가 되면 고객이 비용이 지불할 때까지 기다리는 동안 고객에게 판매할 소프트웨어를 구입할 수 있는 크레딧 제한이 제공됩니다.
 ms.assetid: ''
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-keywords: 크레딧 제한, 구매, 제한 증가 크레딧
+keywords: 크레딧 한도, 구매, 제한 증가 신용 줄
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917395"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586186"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>클라우드 솔루션 공급자(CSP) 계정 크레딧 제한
 

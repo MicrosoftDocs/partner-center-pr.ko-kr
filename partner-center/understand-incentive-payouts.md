@@ -3,17 +3,17 @@ title: 인센티브 지급액에 대한 이해 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
 description: 인센티브 프로그램의 수익 및 지급액을 보세요.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995957"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585386"
 ---
-# <a name="incentive-payouts-overview"></a>인센티브 지급액 개요
+# <a name="incentive-payouts-overview"></a>인센티브 지급 개요
 
 **적용 대상**
 
@@ -29,7 +29,7 @@ ms.locfileid: "8995957"
 
 요약 페이지에 사용되는 세 가지 주요 지표는 다음과 같습니다.
 
-|**주요 지표**   |**정의**   |
+|**핵심 지표**   |**정의**   |
 |---------------------|:-----------------|
 |현재까지 지급된 총액|Microsoft가 귀하에게 지급한 금액|
 |미지급 수익|수익으로 얻었지만 아직 지급 일정이 정해지지 않은 금액|
@@ -120,7 +120,7 @@ ms.locfileid: "8995957"
 |구독 종료 날짜  |구독의 종료 날짜|
 |제품 SKU    |제품의 SKU 번호|
 |제품 이름   |Microsoft 제품의 이름|
-|거래 날짜   |거래가 발생한 날짜 및 시간(UTC).|
+|거래 날짜   |거래가 발생한 날짜 및 시간(UTC)입니다.|
 |라이선스 수  |판매된 라이선스 수 |
 |수량   |판매된 단위 수| 
 |이전 수량 |마지막 수익 기간의 단위 수량 |
@@ -163,7 +163,7 @@ ms.locfileid: "8995957"
 |지급 날짜|  지급된 날짜 |
 |지급 회계 월|  지급 회계 월|
 |지급 회계 연도|   지급 회계 연도|
-|지급 방법 |지급 모드, 즉 신용 메모/전신 송금/ 수표 등. |
+|결제 방법 |지급 모드, 즉 신용 메모/전신 송금/ 수표 등. |
 |지급 상태|    현재 지급의 프로세스 진행 위치| 
 |환율 날짜|    환율 변환에 사용되는 환율의 날짜|
 |USD 통화 지급 변환 |지급 통화를 USD로 변환 |

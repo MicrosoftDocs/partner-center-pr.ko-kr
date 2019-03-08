@@ -3,20 +3,20 @@ title: Enterprise Mobility 관리 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: Enterprise Mobility 관리 역량은 대기업을 위한 강력하고 안전한 이동성 관리 솔루션 전문 업체로서 우수한 능력을 갖춘 파트너를 위한 역량입니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, Enterprise Mobility 관리
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9ef0fbf3531916c081a495c140f550c0428d2462
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796246"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584046"
 ---
 >[!IMPORTANT]
->이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
+>이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.
 
 <!--
 

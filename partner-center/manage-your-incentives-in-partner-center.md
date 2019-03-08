@@ -3,15 +3,15 @@ title: 파트너 센터 계정 관리 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
 description: 파트너의 수익과 성장을 도와주는 Microsoft 파트너 인센티브 프로그램
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995647"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586996"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>파트너 센터에서 인센티브 관리 
 
@@ -49,10 +49,10 @@ ms.locfileid: "8995647"
 인센티브 관리자는 자격 증명을 받으면 조직의 마이그레이션을 완료할 수 있습니다. 그러면 조직이 파트너 센터에서 인센티브를 관리할 수 있게 됩니다.
 
 
-[사용자 계정 만들기 및 권한 할당](create-user-accounts-and-set-permissions.md)
+[사용자 계정을 만들고 권한을 할당합니다](create-user-accounts-and-set-permissions.md)
 
-[사용자 암호 다시 설정](reset-a-user-password.md)
+[사용자 암호 재설정](reset-a-user-password.md)
 
-[인센티브 지급액에 대한 이해](understand-incentive-payouts.md)
+[인센티브 지급에 이해](understand-incentive-payouts.md)
 
-자세한 내용은 [파트너 인센티브 게임이 협동 Guidebook](https://assets.microsoft.com/coop-guidebook.pdf) 을 참조 하세요.
+자세한 내용은 [파트너 인센티브 협력 가이드북](https://assets.microsoft.com/coop-guidebook.pdf)을 참조하세요.

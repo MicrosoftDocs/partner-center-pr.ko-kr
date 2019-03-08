@@ -8,27 +8,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098810"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585306"
 ---
 # <a name="tax-and-tax-exemptions"></a>세금 및 면세
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
 
 
 클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다. 이 규칙은 국가/지역에 따라 다릅니다. 파트너는 세금 고문에게 문의하여 파트너 위치와 해당 고객의 근거지를 기준으로 해당하는 면세 정보를 제출해야 합니다 Microsoft 재판매인 계정을 비과세로 표시하려면 파트너가 Microsoft에 해당 면제 인증서를 보내야 합니다.
 
-**면세 정보 제출**
+**세금 면제 파일**
 
-1.  파트너 센터에서 **Microsoft ID** 를 조회 &gt; **계정 설정** &gt; **조직 프로필**합니다.
-2.  파트너 센터에서 사용자 **MPN ID** 를 조회 &gt; **계정 설정** &gt; **파트너 프로필**합니다.
-3.  새 지원 티켓을 만듭니다. 파트너 센터 메뉴에서 **서비스 요청** 을 선택 &gt; **파트너 센터 요청** &gt; **새 요청**합니다.
+1.  조회 하 **Microsoft ID** 파트너 센터에서 &gt; **계정 설정** &gt; **조직 프로필**합니다.
+2.  조회 하 **MPN ID** 파트너 센터에서 &gt; **계정 설정** &gt; **파트너 프로필**합니다.
+3.  새 지원 티켓을 만듭니다. 파트너 센터 메뉴에서 선택 **서비스 요청** &gt; **파트너 센터 요청** &gt; **새 요청**합니다.
 4.  양식을 작성합니다. **문제 유형**에서 **내 프로필을 관리할 수 없음**을 선택합니다. 설명에 MPN ID와 Microsoft ID를 포함합니다.
 5.  티켓을 제출하면 Microsoft에서 전자 메일을 보내 자세한 정보를 요청할 것입니다. 회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.
 
@@ -52,7 +52,7 @@ ms.locfileid: "9098810"
 <p>Microsoft는 파트너 센터에 크레딧과 재청구를 지원하지 않으므로 구독을 판매하기 전에 파트너 센터에서 VAT ID 번호를 등록해야 합니다.</p>
 <p>Microsoft에 VAT ID 번호 보내기</strong></p>
 <ol>
-<li>파트너 센터에서 메뉴로 이동 하 여 파트너 센터 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>합니다.</li>
+<li>파트너 센터에서 파트너 센터 메뉴로 이동 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>합니다.</li>
 <li><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</li>
 <li><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</li>
 </ol></td>

@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683472"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584466"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>일시 중단된 파트너 센터 계정 복원
 
@@ -21,7 +21,7 @@ ms.locfileid: "8683472"
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
 
 
 > [!IMPORTANT]  
@@ -39,13 +39,13 @@ Microsoft는 다음 중 하나에 해당하는 경우 파트너 센터 계정을
 
 현재 계정이 최신 상태라면 파트너 센터 지원을 통해 지원 요청을 제출하여 계정이 일시 중단된 이유를 확인합니다. 
 
-현재 계정 인지 확실 하지 않은 경우 청구서를 확인 하려면 **파트너 센터** 메뉴에서 **청구** 를 선택 합니다. 청구 페이지에는 청구 내역과 추세, 이번 달 미지급액, 청구서 및 조정 파일의 링크, 최근 결제가 표시됩니다.
+계정의 현재 인지 확실 하지 않은 경우 선택 **청구** 에서 합니다 **파트너 센터** 청구서를 확인 하려면 메뉴. 청구 페이지에는 청구 내역과 추세, 이번 달 미지급액, 청구서 및 조정 파일의 링크, 최근 결제가 표시됩니다.
 
 계정이 연체된 경우 청구서의 지침에 따라 미지급액을 결제한 후 계정을 복원해 달라는 지원 요청을 제출합니다. 
 
-**지원 요청을 제출하려면**
+**지원 요청을 제출 하려면**
 
-1.  **파트너 센터** 메뉴에서 **지원 요청 > 파트너 센터 요청**합니다.
+1.  **파트너 센터** 메뉴에서 **요청을 지 원하는 > 파트너 센터 요청**합니다.
 2.  **새 요청**을 선택합니다. 
 3.  양식을 작성한 후 **제출**을 선택합니다. 계정이 일시 중단된 이유와 계정을 복원하는 방법을 설명하기 위해 파트너 센터 지원 담당자가 연락을 드릴 수 있습니다.
 

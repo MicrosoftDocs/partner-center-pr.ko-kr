@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995907"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584386"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
 **적용 대상**
 
 -  파트너 센터
--  미국 정부용 Microsoft 클라우드 파트너 센터
+-  Microsoft Cloud for US Government 파트너 센터
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "8995907"
 #### <a name="post-purchase-customer-account-management"></a>구매 후 고객 계정 관리
 - 고객과 협력하여 적절한 모니터링 임계값을 설정하는 동시에 클라우드 사용 비즈니스 요구를 이해
     > [!NOTE]  
-    >  달 동안 고객 사용량을 모니터링 하 고 고객의 예산이 소진 되어 갈 때 알림을 받도록 하려면 파트너 센터에서 [월별 Azure 지출 예산을 설정할](set-an-azure-spending-budget-for-your-customers.md) 수 있습니다.
+    >  할 수 있습니다 [월별 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md) 기간 동안 고객 사용량을 모니터링 하 고 고객에 게 해당 예산에 가까워질 때 알림을 받을 파트너 센터에서.
 - [고객 활동 로그](activity-logs.md)를 정기적으로 모니터링하여 초기에 사기를 감지
 - 의심스러운 활동이 감지되면 빠른 초치 시행
 - 위험 완화 컨트롤을 구현하지 않은 경우 고객에게 구독에 대한 전체 관리자 액세스 권한을 부여하지 않도록 함

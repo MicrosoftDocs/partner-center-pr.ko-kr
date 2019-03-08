@@ -6,14 +6,14 @@ description: 고객을 위한 새 구독을 구입한 후 특정 사용자에게
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+Keywords: 고객 관리, 계정, 계정에 라이선스를 만들기, 라이선스, 사용자 관리, 암호를 할당, 암호 재설정, 암호 변경
 ms.localizationpriority: medium
 ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797246"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586756"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
@@ -30,9 +30,9 @@ ms.locfileid: "5797246"
 [Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용하여 한 번에 [여러 사용자에게 구독을 할당](bulk-license-provisioning-for-multiple-users.md)할 수 있습니다.
 
 <a href="" id="createuseraccounts"></a>
-**고객용 사용자 계정 만들기**
+**고객에 대 한 사용자 계정 만들기**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**합니다. 목록에서 고객을 선택합니다.
 
 2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다.
 
@@ -45,9 +45,9 @@ ms.locfileid: "5797246"
 6. [Excel 호환 .csv 스프레드시트 파일을 가져와서](adding-multiple-users-to-a-customer-account.md) 한 번에 여러 사용자를 추가할 수도 있습니다. 다른 사용자 추가를 사용하거나 Excel과 호환되는 .csv 스프레드시트 파일로 가져와 한 번에 다수의 사용자를 추가하는 경우 전체 집합을 완료할 때까지 기다려야 확인 화면에서 이러한 이름과 암호를 메일로 보내거나 인쇄할 수 있습니다.
 
 <a href="" id="userlicensing"></a>
-**고객용 사용자 라이선스 추가 또는 제거**
+**추가 하거나 고객에 대 한 사용자 라이선스를 제거 합니다.**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**합니다. 목록에서 고객을 선택합니다.
 
 2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다.
 
@@ -56,9 +56,9 @@ ms.locfileid: "5797246"
 4.  **라이선스 관리**를 선택합니다. 필요한 사항을 변경한 다음 **저장**을 선택합니다.
 
 <a href="" id="resetpassword"></a>
-**고객용 사용자 암호 재설정**
+**고객에 대 한 사용자의 암호를 재설정 합니다.**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**합니다. 목록에서 고객을 선택합니다.
 
 2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다. 목록에서 사용자를 선택합니다.
 
@@ -67,9 +67,9 @@ ms.locfileid: "5797246"
 4.  사용자에게 새 임시 암호를 보냅니다.
 
 <a href="" id="deleteuseraccounts"></a>
-**고객용 사용자 계정 삭제**
+**고객에 대 한 사용자 계정 삭제**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 목록에서 고객을 선택합니다.
+1.  **파트너 센터** 메뉴에서 **고객**합니다. 목록에서 고객을 선택합니다.
 
 2.  고객 메뉴에서 **사용자 및 라이선스**를 선택합니다. 목록에서 사용자를 선택합니다.
 
@@ -78,9 +78,9 @@ ms.locfileid: "5797246"
 이 계정을 30일 이내에 복원해야 할 경우 고객 **사용자 및 라이선스** 목록의 **삭제된 사용자** 탭에서 이 계정을 찾을 수 있습니다. 삭제된 사용자는 30일 이내에 복원할 수 있습니다.
 
 <a href="" id="restoreuseraccounts"></a>
-**삭제된 사용자 계정 복원**
+**삭제 된 사용자 계정 복원**
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
+1.  **파트너 센터** 메뉴에서 **고객**, 다음 목록에서 고객을 선택 합니다.
 
 2.  **사용자 및 라이선스**를 선택합니다.
 
@@ -93,9 +93,9 @@ ms.locfileid: "5797246"
 ## <a name="related-topics"></a>관련 항목
 
 
-[다수의 사용자에게 라이선스 할당 및 해지](bulk-license-provisioning-for-multiple-users.md)
+[할당 하거나 여러 사용자에 게 라이선스를 해지](bulk-license-provisioning-for-multiple-users.md)
 
-[고객 계정에 대한 다수의 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
+[고객 계정에 대 한 여러 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 
  
 

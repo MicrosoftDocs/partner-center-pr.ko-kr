@@ -3,20 +3,20 @@ title: 메시지 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: 메시지 역량은 검증된 Microsoft Exchange 솔루션 공급자임을 홍보하여 경쟁 우위를 획득하고, 영업 주기를 단축하고, 비즈니스를 성장시키는 파트너를 인증하는 역량입니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, 메시지
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 886a12c6e9ce4783e465e8562428f01ab5f51a7e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796936"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586426"
 ---
 >[!IMPORTANT]
->이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.
+>이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.
 
 <!--
 #Messaging

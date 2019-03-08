@@ -5,15 +5,15 @@ ms.date: 10/29/2018
 description: Cloudyn의 Azure 비용 관리를 사용하려면 파트너 센터 API에 프로비전된 액세스가 필요합니다.
 author: Janet
 ms.author: janet
-Keywords: Azure cost management app, manage costs, web apps
+Keywords: Azure 비용 관리 앱에 비용을 관리, 웹 앱
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995797"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586086"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 
@@ -21,7 +21,7 @@ ms.locfileid: "8995797"
 
 -  파트너 센터
 
-[Azure 비용 관리에 대한 자세한 정보 얻기](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[Azure Cost Management에 대 한 자세한 정보](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
 ## <a name="before-you-begin"></a>시작하기 전에
 Azure 비용 관리를 사용하려면 먼저 다음 요구 사항을 충족해야 합니다.
@@ -36,9 +36,9 @@ Cloudyn의 Azure 비용 관리는 고객이 Azure를 사용하는 정도와 사�
 ## <a name="register-your-web-app-in-the-partner-center"></a>파트너 센터에서 웹 앱 등록
 파트너 센터에서 Azure Active Directory 웹 앱을 등록하면 파트너 센터 API에 액세스할 수 있습니다. 
 1.  [전역 관리자 또는 관리자 에이전트 계정](create-user-accounts-and-set-permissions.md)을 사용하여 [파트너 센터](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)에 로그인합니다.
-2.  **파트너 센터**에서 **계정 설정** 선택 &gt; **[앱 관리](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** 합니다.
+2.  **파트너 센터**를 선택 **계정 설정** &gt;  **[앱 관리](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** 합니다.
 3.  **Web App** 섹션에서 **Add new web app**를 클릭합니다.
-<br> **참고**: 이전에 웹 앱을 만든 경우 3단계를 건너뛸 수 있습니다.
+<br> **참고**: 웹 앱을 이전에 만든 경우 3 단계를 건너뛸 수 있습니다.
 4.  웹 앱의 **Commerce ID** GUID 및 **App ID** GUID를 복사하고 저장합니다. 30일 무료 평가판 Azure 비용 관리 앱을 사용하려면 두 ID가 모두 필요합니다.
 
 ## <a name="add-a-secret-key-to-your-app"></a>앱에 비밀 키를 추가합니다.
@@ -46,7 +46,7 @@ Cloudyn의 Azure 비용 관리는 고객이 Azure를 사용하는 정도와 사�
 2. **Add key**를 클릭합니다. 
 3. 비밀 키 값을 복사하고 저장합니다. 30일 무료 평가판을 사용하려면 이 키가 필요합니다.<br>
    > [!NOTE]  
-   > 응용 프로그램 비밀 키는 만료 날짜가 더 긴 암호와 같습니다. 나중에 사용할 수 있도록 키 값을 안전한 위치에 저장하십시오.
+   > 응용 프로그램 비밀 키 긴 만료 날짜를 사용 하 여 암호와 같습니다. 나중에 사용할 수 있도록 키 값을 안전한 위치에 저장하십시오.
 
 ## <a name="next-steps"></a>다음 단계
 [30일 무료 평가판](https://go.microsoft.com/fwlink/?linkid=857895)을 시작합니다.

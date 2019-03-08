@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794896"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587706"
 ---
 # <a name="reset-a-user-password"></a>사용자 암호 다시 설정
 
@@ -21,20 +21,20 @@ ms.locfileid: "5794896"
 -  파트너 센터
    
 > [!NOTE]  
->  Microsoft 클라우드 독일의 클라우드 솔루션 공급자 (CSP) 프로그램에 등록 한 경우 사용자의 암호를 다시 설정에 대 한 내용은 [Microsoft 클라우드 독일 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md) 를 참조 하세요.
+>  Microsoft Cloud 독일의 클라우드 솔루션 공급자 (CSP) 프로그램에 등록 하는 경우 참조 [Microsoft Cloud Germany에 대 한 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md) 사용자의 암호를 재설정 하는 방법에 대 한 정보에 대 한 합니다.
 
 사용자가 암호를 잊은 경우 임시 암호를 할당할 수 있습니다. 사용자는 다음번에 파트너 센터에 로그인할 때 이 임시 암호를 사용할 수 있습니다.
 
-**관리자로 사용자 암호 다시 설정**
+**관리자 사용자 암호 재설정**
 
-1.  **설정** &gt; **사용자 관리**로 이동합니다.
+1.  로 이동 **설정을** &gt; **사용자 관리**합니다.
 2.  목록에서 사용자를 선택합니다.
 
-3.  페이지 맨 아래에 있는 **암호 다시 설정**을 선택합니다.
+3.  페이지 맨 아래에 있는 **암호 재설정**을 선택합니다.
 
 4.  새 로그인에 대한 임시 암호가 있는 확인 화면이 표시됩니다. 이 암호를 복사하여 새 사용자에게 보내야 합니다. 화면을 종료하면 액세스할 수 없습니다. 해당 사용자가 맨 처음 로그인할 때 암호를 업데이트하라는 메시지가 표시됩니다.
 
-**사용자 암호 다시 설정**
+**사용자 고유의 암호를 다시 설정**
 
 1.  파트너 센터에 로그인합니다. 그런 다음 화면 맨 위에 있는 사용자 이름을 선택하고 **내 프로필**을 선택합니다.
 

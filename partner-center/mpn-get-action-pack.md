@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795046"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587886"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독의 최초 구입 또는 갱신
 
@@ -39,7 +39,7 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 갱신
 
 >[!IMPORTANT]
->지금은 예정 끝 사이 시점과 연말 Action Pack 구독 관리 Partner Membership Center (PMC)에서 파트너 센터로-이 사이트입니다. Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 아래 정보를 주의 깊게 검토하세요.  
+>현재 연도의 끝 사이 이동 Action Pack 구독 관리 파트너 멤버 자격 Center (PMC)에서 파트너 센터-이 사이트입니다. Action Pack 구독 갱신은 현재 및 해당 시점에 따라 다를 수 있으므로 아래 정보를 주의 깊게 검토하세요.  
 
 ### <a name="check-your-renewal-eligibility"></a>갱신 자격 확인
 
@@ -49,17 +49,17 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 
     - PMC에서 구독을 갱신하는 단계를 따를 수 있음
 
-    - 파트너 센터-이 사이트에서에서 구독을 갱신 하도록 메시지 받기
+    - 파트너 센터-이 사이트에서에서 구독을 갱신 하려면 사용자를 초대 하는 메시지가
 
 >[!IMPORTANT]
->파트너 센터에서 구독을 갱신 하도록 초대 하는 경우에 갱신 기간 정책이 변경 하 고 만료 된 후에 구독을 갱신할 수 note 하세요. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.       
->[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다. 하는 경우 또는 파트너 센터 갱신할 자격이 되 면 다음 단계를 따릅니다.  
+>파트너 센터에서 구독을 갱신 하려면 초대 하는 경우에 갱신 창 정책 변경한 것을 만료 된 후에 구독을 갱신할 수 있습니다 note 하십시오. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.       
+>[  **멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다. 아니면을 파트너 센터에서 갱신할 수 있으면, 다음 단계를 수행 합니다.  
 
 
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>파트너 센터에서 Microsoft Action Pack 구독을 갱신 하려면
 
-1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독** 타일을 찾습니다.  
+1. [  **멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독** 타일을 찾습니다.  
 
 2. **구독 갱신**을 선택하고 결제 방법을 선택합니다. 신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.
 
@@ -77,7 +77,7 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack 구독 자동 갱신 끄기
 
-1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
+1. [  **멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
 
 2. 매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다. 
 
@@ -89,7 +89,7 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 단계는 Microsoft �
 
 Microsoft Action Pack 구독을 취소하려면 파트너 지원 팀에 문의해야 합니다.
 
-1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
+1. [  **멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
 
 3. **구독 취소**를 선택합니다. 지침에 따라 지원 요청을 생성합니다. 
 
@@ -97,7 +97,7 @@ Microsoft Action Pack 구독을 취소하려면 파트너 지원 팀에 문의�
 
     -  **파트너 센터에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.
 
-    -  **문제 유형** 목록을 확장하고 **Help with partner invoice, payment, or reconciliation file**을 선택합니다. 
+    -  **문제 유형** 목록을 확장하고 **파트너 청구서, 결제 또는 조정 파일을 통한 도움**을 선택합니다. 
 
 5. 필수 정보를 입력한 다음 **제출**을 선택합니다. 파트너 센터 지원 팀에서 연락하여 구독 취소를 도와드릴 것입니다.
 
@@ -105,19 +105,19 @@ Microsoft Action Pack 구독을 취소하려면 파트너 지원 팀에 문의�
 
 ## <a name="download-your-action-pack-invoice"></a>Action Pack 청구서 다운로드
 
-1. [**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
+1. [  **멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지로 이동한 다음 **구매 완료**를 선택합니다. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
 
 3. **송장 다운로드**를 선택합니다.
  
 ## <a name="next-steps"></a>다음 단계
 
--   [Action Pack 혜택 사용 시작](manage-your-partner-network-benefits.md)
+-   [Action Pack 혜택을 사용 하 여 시작](manage-your-partner-network-benefits.md)
 
--   [실버 및 골드 역량 멤버십 수준에 대해 알아보기](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [실버 및 골드 역량 멤버 자격 수준에 알아봅니다](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
--   [사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
+-   [사용자를 추가 하 고 여기에 할당할 권한](create-user-accounts-and-set-permissions.md)
 
--   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
+-   [Microsoft에서 영업 리드 확보를 위해 비즈니스 프로필 만들기](create-a-marketing-profile.md)
 
 
 
