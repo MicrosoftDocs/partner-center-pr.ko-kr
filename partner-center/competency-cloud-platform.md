@@ -3,20 +3,20 @@ title: 클라우드 플랫폼 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: 클라우드 플랫폼 역량은 수요가 계속 증가하고 있는 Microsoft Azure 기반 IaaS(Infrastructure as a Service) 및 SaaS(Software as a Service)로 수익을 창출하는 파트너를 위해 설계되었습니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, 클라우드 플랫폼
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795756"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586236"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="ce17a-104">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="ce17a-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="80c0c-104">이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="80c0c-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Platform
