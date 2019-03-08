@@ -1,22 +1,22 @@
 ---
-title: Windows 및 디바이스 역량
+title: Windows 및 장치 역량
 ms.topic: article
 ms.date: 10/29/2018
-description: 10억 대의 디바이스에 Windows 10을 배포하려는 Microsoft의 목표를 공유하세요. 서비스, 응용 프로그램, 디바이스에 걸쳐 기회가 있습니다. 이 역량은 수익성 높은 Windows 10 관행을 구축하고 확장하는 데 도움이 되는 도구, 콘텐츠 및 리소스를 제공합니다.
-author: Daniel Simpson
+description: 10억 대의 장치에 Windows 10을 배포하려는 Microsoft의 목표를 공유하세요. 서비스, 응용 프로그램, 장치에 걸쳐 기회가 있습니다. 이 역량은 수익성 높은 Windows 10 관행을 구축하고 확장하는 데 도움이 되는 도구, 콘텐츠 및 리소스를 제공합니다.
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
-keywords: 역량, 역량, Windows 및 디바이스
+keywords: 역량, 역량, Windows 및 장치
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795586"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584616"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="cd461-106">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="cd461-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="f26ce-106">이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f26ce-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

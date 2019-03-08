@@ -3,20 +3,20 @@ title: 응용 프로그램 통합 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: 응용 프로그램 통합 역량은 고유의 응용 프로그램과 솔루션을 Microsoft 에코시스템의 다양한 제품과 통합하는 파트너 및 개발자를 인증하는 역량입니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, 응용 프로그램 통합
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 988274508a65bafdf3789e71fa2bd3ad278c7065
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797316"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584066"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="24991-104">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="24991-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="1508f-104">이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="1508f-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

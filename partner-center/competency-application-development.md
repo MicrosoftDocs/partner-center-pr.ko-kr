@@ -3,20 +3,20 @@ title: 응용 프로그램 개발 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: 소프트웨어를 보다 빠르게 제공하고 지속적으로 개선하세요. 60000개 이상의 개발자 파트너에 참여하여 비즈니스를 차별화하고 응용 프로그램 개발 역량을 획득하여 Microsoft 파트너의 지위를 확보하세요.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, 클라우드 비즈니스 응용 프로그램, 응용 프로그램 개발
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795036"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583896"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="0c891-105">이 역량을 얻을 수에 대 한 요구 사항에 대 한 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="0c891-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="e90fa-105">이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="e90fa-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

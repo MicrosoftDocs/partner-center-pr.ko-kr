@@ -3,20 +3,20 @@ title: DevOps 역량
 ms.topic: article
 ms.date: 10/29/2018
 description: Microsoft 개발 플랫폼의 DevOps 기능을 활용하여 회사의 소프트웨어 수명 주기 관리를 도와준 경험이 풍부하다면 DevOps 역량을 통해 Microsoft 파트너로서 조직의 지위를 확고히 할 수 있습니다.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 역량, 역량, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 6c617358b097517258ed9f83aef9a3a9e9ab6d77
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098890"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585736"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="12c80-104">이 역량을 얻을 수에 대 한 요구 사항에 대해 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 방문 합니다.</span><span class="sxs-lookup"><span data-stu-id="12c80-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="75131-104">이러한 역량을 달성하기 위한 요구 사항에 대한 내용은 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/competencies)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="75131-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
