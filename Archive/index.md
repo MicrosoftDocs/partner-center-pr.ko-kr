@@ -1,0 +1,28 @@
+---
+title: 21Vianet에서 운영하는 파트너 센터
+ms.topic: article
+ms.date: 10/29/2018
+description: 중국에서 CSP 서비스를 재판매하려면 21Vianet에서 운영하는 파트너 센터를 사용하세요.
+---
+   
+# <a name="partner-center-operated-by-21vianet"></a><span data-ttu-id="d4ba3-103">21Vianet에서 운영하는 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="d4ba3-103">Partner Center operated by 21Vianet</span></span>
+
+<span data-ttu-id="d4ba3-104">21Vianet에서 운영하는 파트너 센터에 오신 것을 환영합니다. 이 포털은 중국 내 21Vianet의 CSP(클라우드 솔루션 공급자) 서비스 재판매인을 위한 비즈니스 포털입니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-104">Welcome to Partner Center operated by 21Vianet, the business portal for resellers of 21Vianet's Cloud Solution Provider (CSP) services in China.</span></span> 
+
+<span data-ttu-id="d4ba3-105">이 포털은 Microsoft가 21Vianet에 라이선스를 부여한 기술을 기반으로 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-105">This portal is powered by technology that Microsoft has licensed to 21Vianet.</span></span> <span data-ttu-id="d4ba3-106">Microsoft는 서비스 자체를 운영하지는 않습니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-106">Microsoft does not operate the service itself.</span></span> <span data-ttu-id="d4ba3-107">서비스의 운영, 제공 및 관리는 21Vianet에서 담당합니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-107">21Vianet operates, provides, and manages delivery of the service.</span></span> <span data-ttu-id="d4ba3-108">21Vianet는 중국 최대의 통신사 중립 인터넷 데이터 센터 서비스 공급 기업으로서 호스팅, 관리형 네트워크 서비스 및 클라우드 컴퓨팅 인프라 서비스를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-108">21Vianet is the largest carrier-neutral Internet data center services provider in China, providing hosting, managed network services, and cloud computing infrastructure services.</span></span> 
+
+<span data-ttu-id="d4ba3-109">사용이 허가된 Microsoft 기술을 사용하는 21Vianet는 데이터를 중국 내에 유지하면서도 21Vianet의 CSP 서비스를 재판매하는 기능을 제공하기 위해 로컬 데이터 센터를 운영합니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-109">Using licensed Microsoft technologies, 21Vianet operates local datacenters to provide you the ability to resell 21Vianet's CSP services while keeping your data within China.</span></span> <span data-ttu-id="d4ba3-110">21Vianet는 청구 서비스 및 고객 지원 채널도 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-110">21Vianet also provides your billing services and customer support channels.</span></span> <span data-ttu-id="d4ba3-111">이러한 서비스는 중국 법률을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-111">These services are subject to Chinese laws.</span></span>
+
+<span data-ttu-id="d4ba3-112">중국에서 21Vianet CSP 서비스를 재판매하려면 21Vianet CSP 프로그램에 등록해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-112">To resell 21Vianet CSP services in China, you need to be enrolled in the 21Vianet CSP program.</span></span> <span data-ttu-id="d4ba3-113">아직 프로그램에 등록하지 않은 경우 [중국 CSP 재판매인 프로그램 가이드 및 계약](csp-program-guide-and-agreements.md)을 검토하여 등록 요청이 승인될 때 얻게 되는 권한 및 책임에 대해 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-113">If you are not yet enrolled in the program, review the [China CSP reseller program guide and agreement](csp-program-guide-and-agreements.md) for information about your rights and responsibilities if your request to enroll is approved.</span></span> <span data-ttu-id="d4ba3-114">등록 준비가 완료되면 [21Vianet 중국 CSP 프로그램에 등록](enrolling-in-the-csp-program.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-114">When you are ready to enroll, see [Enroll in the 21Vianet China CSP program](enrolling-in-the-csp-program.md).</span></span>
+
+<span data-ttu-id="d4ba3-115">중국 CSP 프로그램에 등록한 후에는 파트너 센터에 로그인하고, 다음 문서를 사용하여 비즈니스 성장을 시작하세요.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-115">After you enroll in the China CSP program, sign in to Partner Center and use the following articles to start growing your business.</span></span>  
+   
+-   [<span data-ttu-id="d4ba3-116">파트너 센터 계정 관리</span><span class="sxs-lookup"><span data-stu-id="d4ba3-116">Manage your Partner Center account</span></span>](partner-center-account-setup.md)
+-   [<span data-ttu-id="d4ba3-117">가격 책정 및 제품</span><span class="sxs-lookup"><span data-stu-id="d4ba3-117">Pricing and offers</span></span>](see-offers-and-pricing.md)
+-   [<span data-ttu-id="d4ba3-118">청구</span><span class="sxs-lookup"><span data-stu-id="d4ba3-118">Billing</span></span>](billing.md)
+-   [<span data-ttu-id="d4ba3-119">고객 계정</span><span class="sxs-lookup"><span data-stu-id="d4ba3-119">Customer accounts</span></span>](customer-accounts.md)
+-   [<span data-ttu-id="d4ba3-120">고객 구독</span><span class="sxs-lookup"><span data-stu-id="d4ba3-120">Customer subscriptions</span></span>](customer-subscriptions.md)
+-   [<span data-ttu-id="d4ba3-121">다른 파트너와 협력</span><span class="sxs-lookup"><span data-stu-id="d4ba3-121">Work with other partners</span></span>](work-with-other-partners.md)
+-   [<span data-ttu-id="d4ba3-122"> 고객 지원</span><span class="sxs-lookup"><span data-stu-id="d4ba3-122">Customer support</span></span>](customer-support.md)
+
+<span data-ttu-id="d4ba3-123">개발자는 21Vianet에서 운영하는 파트너 센터용 SDK를 사용하여 고객, 청구 및 기타 항목을 관리하는 자체 애플리케이션을 빌드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-123">Developers can use the SDK for Partner Center operated by 21Vianet to build their own applications to manage their customers, billing, and other items.</span></span> <span data-ttu-id="d4ba3-124">[21Vianet에서 운영하는 파트너 센터용 애플리케이션 개발](develop-for-partner-center.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d4ba3-124">See [Develop for Partner Center operated by 21Vianet](develop-for-partner-center.md).</span></span>
