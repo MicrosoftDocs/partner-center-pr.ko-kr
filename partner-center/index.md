@@ -1,11 +1,11 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: 파트너 센터에 대 한 도움말 여기에서 시작
+title: 파트너 센터에 대한 도움을 받으려면 여기서 시작
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "파트너 센터 Microsoft 클라우드 솔루션 공급자 (CSP) 프로그램의 비즈니스를 성장 시킬 수 있습니다. 계정 설정, 고객과 관계 구축, Action Pack 구독을 구입 및 CSP 및 MPN 프로그램의 파트너에 대 한 자세한 정보를 찾습니다.\_"
-author: labrenne
+description: "파트너 센터는 Microsoft CSP(클라우드 솔루션 공급자) 프로그램을 통해 비즈니스를 성장시킬 수 있게 도와줍니다. 계정을 설정하고, 고객과 연결하고, Action Pack 구독을 구입하고, CSP 및 MPN 프로그램의 파트너에 대해 자세히 알아보세요.\_"
+author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # <a name="welcome-to-partner-center"></a>파트너 센터 시작
 
-Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하기 위한 원스톱 위치입니다. 도구 및 멤버십 옵션, 고객 추천 및 클라우드 솔루션 공급자 (CSP) 프로그램을 포함 하 여 비즈니스를 성장 하 고 거래 할 수 있도록 리소스 있습니다. 사용자 계정 관리, 고객 연결, Action Pack 구독을 구입 및 파트너 센터 도움말 라이브러리의 인센티브 프로그램에 등록 하기 위한 모범 사례에 대해 알아봅니다.
+Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리할 수 있는 원스톱 위치입니다. 멤버십 옵션, 고객 조회 및 CSP(클라우드 솔루션 공급자) 프로그램을 포함하여 거래 및 비즈니스 성장을 도와주는 도구와 리소스를 제공합니다. 계정을 관리하고, 고객과 연결하고, Action Pack 구독을 구입하고, 파트너 센터 도움말 라이브러리에서 인센티브 프로그램에 등록하는 모범 사례를 알아보세요.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -28,7 +28,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                     </div>
                     <div class="cardText">
                         <h3>공지</h3>
-                        <p>런타임에 주요 변경 및 뉴스 파트너 센터 대시보드에 로그인 합니다.</p>
+                        <p>파트너 센터 대시보드에 로그인하여 최근의 주요 변경 내용 및 뉴스를 검색해 보세요.</p>
                         <p><a href="https://partner.microsoft.com/pcv/announcements"><b>지금 로그인</b></a></p>
                     </div>
                 </div>
@@ -46,7 +46,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                     </div>
                     <div class="cardText">
                         <h3>Yammer</h3>
-                        <p>Yammer 커뮤니티를 통해 터치에 남아 있습니다.</p>
+                        <p>Yammer 커뮤니티를 통해 계속 소식을 받아 보세요.</p>
                         <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>커뮤니티 가입</b></a></p>
                     </div>
                 </div>
@@ -63,8 +63,8 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>API 및 SDK 얼 리어 답 터 프로그램</h3>
-                        <p>워크샵, 새로운 기능에 대 한 액세스를 가져오고 실무 전문가 지원 합니다.</p>
+                        <h3>API 및 SDK 얼리어답터 프로그램</h3>
+                        <p>워크숍, 새로운 기능, 실무 전문가의 지원을 이용해 보세요.</p>
                         <p><a href="/partner-center/develop/early-adopter-program"><b>시작</b></a></p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
 </ul>
 
 <h2>새로운 기능</h2>
-<p>새로운 기능, 혜택, 제품 및 비즈니스를 성장 시킬 수 있는 기회에 대 한 최신 정보를 가져옵니다.</p>
+<p>비즈니스 성장을 위한 새로운 기능, 혜택, 제품 및 기회에 대한 최신 정보를 확인하세요.</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
@@ -82,7 +82,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
                         <h3>Software Assurance 프로그램</h3>
-                        <p>이제 Software Assurance 교육 및 파트너 센터에서 배포 서비스에 등록할 수 있습니다.</p></a>
+                        <p>이제 파트너 센터에서 Software Assurance 훈련 및 배포 서비스에 등록할 수 있습니다.</p></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>증명서 유효성 검사 및 교환 도구</h3>
-                        <p>클레임 및 고객의 비즈니스 및 개발 요구 사항을 지 상품권 교환 합니다.</p></a>
+                        <h3>바우처 유효성 검사 및 사용 도구</h3>
+                        <p>고객의 비즈니스 및 개발 요구 사항을 지원하는 바우처를 요청하고 사용하세요.</p></a>
                     </div>
                 </div>
             </div>
@@ -105,8 +105,8 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
-                        <h3>참조를 보다 효율적으로 관리</h3>
-                        <p>어떻게 하면 조회 RFI를 검토 하 고 수락 또는 거절 하 향상 되었습니다.</p></a>
+                        <h3>보다 효율적으로 추천 관리</h3>
+                        <p>추천 RFI를 검토하고 수락 또는 거절하는 방법을 개선했습니다.</p></a>
                     </div>
                 </div>
             </div>
@@ -163,7 +163,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                     </div>
                     <div class="cardText">
                         <h3>비즈니스 확장</h3>
-                        <p><a href="/partner-center/referrals">비즈니스 프로필/추천</a><br /><a href="/partner-center/promotions">홍보 행사</a><br /><a href="/partner-center/get-special-pricing-for-offers">특수 산업을 대상으로 판매</a></p>
+                        <p><a href="/partner-center/referrals">비즈니스 프로필/추천</a><br /><a href="/partner-center/promotions">프로모션</a><br /><a href="/partner-center/get-special-pricing-for-offers">특수 산업을 대상으로 판매</a></p>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@ Microsoft 파트너 센터에는 Microsoft와의 종단 간 관계를 관리 하
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">파트너 하지? 지금 Microsoft 파트너 네트워크를 가입 합니다.</a></h3>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">파트너가 아닌가요? 지금 Microsoft 파트너 네트워크에 가입하세요.</a></h3>
                     </div>
                 </div>
             </div>
