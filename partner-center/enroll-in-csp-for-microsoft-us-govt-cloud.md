@@ -69,7 +69,7 @@ Microsoft Cloud for US Government는 정부 규정, 보안 및 프라이버시 �
 > [!NOTE]  
 > 관리자 에이전트 역할에 사용자를 할당하면 해당 사용자는 **고객** 페이지의 고객 목록에 액세스하고 [새 고객을 추가](add-a-new-customer.md)할 수 있게 됩니다.   
 
-1.  https://portal.azure.us/에서 Microsoft Azure 관리자 포털에 로그인합니다.
+1.  [https://portal.azure.us/](https://portal.azure.us/)에서 Microsoft Azure 관리자 포털에 로그인합니다.
 
 2.  조직 내 적절한 사용자에게 관리자 에이전트 역할을 할당합니다. 이렇게 하려면 해당 사용자를 기본 제공 **AdminAgent** 그룹에 추가해야 합니다. 자세한 방법은 [Azure Active Directory에서 그룹의 구성원 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)를 참조하세요.
  
