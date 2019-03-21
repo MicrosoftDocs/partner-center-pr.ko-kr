@@ -110,7 +110,7 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 
 Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문의해야 합니다.
 
-1. https://partnercenter.microsoft.com/partner/support로 이동하세요.
+1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)로 이동하세요.
 
 2. **파트너 센터에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.
 
