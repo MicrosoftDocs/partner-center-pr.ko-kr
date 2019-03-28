@@ -36,7 +36,7 @@ ms.locfileid: "57584686"
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>회사에 회사 계정이 있는지 확실하지 않은가요?
 
 회사에 회사 계정이 있는지 확실하지 않은 경우, 다음 단계에 따라 확인할 수 있습니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 회사는 이미 회사 계정을 갖고 있습니다.
-1.  https://ms.portal.azure.com 에서 Azure 포털에 로그인합니다.
+1.  에 Azure 관리 포털에 로그인 https://ms.portal.azure.com
 2.  메뉴에서 Azure Active Directory를 선택한 다음 도메인 이름을 선택합니다.
 3.  이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
 
