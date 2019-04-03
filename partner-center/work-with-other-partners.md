@@ -6,12 +6,12 @@ description: 귀사가 공유하는 고객의 요구 사항을 충족할 수 있
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a1fcf2a9121a53b6c2b299ac7ad484cd9f552c9e
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583966"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320726"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 
@@ -25,7 +25,7 @@ Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램은 파트너들�
 
 2계층 모델이라고도 하는 이 모델에서는 간접 공급자와 간접 재판매인이 서로 협력하여 여러 지역, 수직 시장 및 산업의 조직에게 Microsoft 클라우드 기반 서비스를 판매합니다. 
 
-### <a name="indirect-providers"></a>간접 공급자 
+### <a name="indirect-providers"></a>간접 공급자
 
 간접 공급자(배포자라고도 함)는 Microsoft에서 직접 제품 및 구독을 구매한 다음 재판매인을 통해 고객에게 이러한 솔루션을 제공합니다. 간접 재판매인과 협력하면 공급자는 시장 범위와 고객 기반을 확장할 수 있습니다. 
 
@@ -52,5 +52,4 @@ CSP에 간접 재판매인으로 등록해야 하는지 아니면 직접 파트�
 다중 채널 지원은 Microsoft의 국가별 클라우드 제품에서도 사용할 수 있습니다.
 
 > [!IMPORTANT]  
-> 현재 CSP의 파트너는 CSP의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 향후 릴리스에 대한 모든 발표는 파트너 센터를 포함한 일반적인 통신 채널을 통해 공개될 것입니다. 
-
+> CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에 게 현재 온라인 서비스를 재판매 수 없습니다. Microsoft는 정책 및 모든 프로그램의 기능에 지속적으로 검토합니다. 기능 릴리스 또는 정책 변경 내용에 대 한 모든 뉴스를 포함 하 여 일반적인 통신 채널을 통해 발표 될 예정 [파트너 센터 공지](https://partner.microsoft.com/en-us/pcv/announcements)합니다.

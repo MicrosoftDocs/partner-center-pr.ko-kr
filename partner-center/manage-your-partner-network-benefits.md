@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584706"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988217"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584706"
 -  파트너 센터
 
 >[!IMPORTANT]
->이 문서에서는 Microsoft 파트너 네트워크 (MPN)를 사용 하 여 시작 하는 방법 설명. 멤버 자격 혜택 (이전의 파트너 센터)-파트너 센터에서이 사이트입니다. 회사 정보 파트너 멤버 자격 Center (PMC)에서 파트너 센터로 이동 하는 초대를 받은 하지 않은 경우에 PMC에서 MPN 멤버 자격 혜택을 관리 하려면 계속 해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)하세요.   
+>이 문서에서는 Microsoft 파트너 네트워크 (MPN) 멤버 자격 혜택을 사용 하 여 파트너 센터-이 사이트에서에서 시작 하는 방법에 설명 합니다. 회사 정보 파트너 멤버 자격 Center (PMC)에서 파트너 센터로 이동 하는 초대를 받은 하지 않은 경우에 PMC에서 MPN 멤버 자격 혜택을 관리 하려면 계속 해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)하세요.   
 
 Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하고 성장시키는 데 도움이 되는 멤버십원 혜택에 액세스할 수 있습니다. MPN 회원이 아닌 경우 [MPN 사이트](https://partner.microsoft.com/membership)에서 가입할 수 있습니다.
 
@@ -49,7 +49,7 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
 
     b. 제품을 표시할 언어를 선택합니다.
 
-    c. 소프트웨어를 설치할 컴퓨터의 OS(운영 체제) 종류를 선택합니다.
+    다. 소프트웨어를 설치할 컴퓨터의 OS(운영 체제) 종류를 선택합니다.
 
     d. 링크를 따라가서 소프트웨어 설치 패키지를 다운로드하여 설치합니다.
 
@@ -96,13 +96,13 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
     
     보안 조치로, 사용자의 파트너 센터 계정 전자 메일 외에도 이 전자 메일 주소로 Microsoft 기술 지원 액세스에 대한 지침을 전자 메일로 보내 드립니다. 이 혜택을 활성화하고 할당된 사용자에게 전자 메일로 지침이 발송될 때까지 며칠이 걸릴 수 있습니다.    
     
-    c.  대체 전자 메일 주소를 입력했으면 **사용자 할당**을 선택합니다. 
+    다.  대체 전자 메일 주소를 입력했으면 **사용자 할당**을 선택합니다. 
 
 4. 클라우드 및 하이브리드 솔루션의 사전 판매, 디자인, 배포 및 앱 개발 단계에서 기술 사전 판매 지원 또는 자문 시간 혜택을 사용하여 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 [요청 양식](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 )을 작성한 다음 **요청 제출**을 선택합니다.
 
 
-#### <a name="see-also"></a>참고 항목
+#### <a name="see-also"></a>참조
 
 [사용자를 추가 하 고 여기에 할당할 권한](create-user-accounts-and-set-permissions.md)
 

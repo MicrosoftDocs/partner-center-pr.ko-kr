@@ -1,18 +1,18 @@
 ---
 title: 구독 일시 중단 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: 고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585316"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756890"
 ---
 # <a name="suspend-a-subscription"></a>구독 일시 중단
 
@@ -24,9 +24,9 @@ ms.locfileid: "57585316"
 
 고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
 
-구독 상태를 **일시 중단됨**으로 변경하면 사용자가 로그인하거나 서비스에 액세스할 수 없습니다. 관리자는 계속 로그인하고 데이터에 액세스할 수 있습니다.
+구독 상태를 **일시 중단됨**으로 변경하면 사용자가 로그인하거나 서비스에 액세스할 수 없습니다.
 
-**구독을 일시 중단**
+**구독 일시 중단**
 
 1.  **파트너 센터** 메뉴에서 **고객**를 목록에서 고객을 선택 합니다.
 2.  관리할 구독을 선택합니다.

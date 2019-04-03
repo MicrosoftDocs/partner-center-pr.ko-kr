@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585136"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682511"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -163,7 +163,7 @@ ms.locfileid: "57585136"
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>합계</td>
+<td>Amount</td>
 <td><p>수량의 가격 합계. 금액 계산이 귀하가 고객에 대해 이 값을 계산하는 방법과 일치하는지를 확인하는 데 유용합니다.</p></td>
 <td>13.32</td>
 </tr>
@@ -437,7 +437,7 @@ ms.locfileid: "57585136"
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>Project</td>
+<td>프로젝트</td>
 <td><p>해당 서비스 인스턴스에 대한 고객 정의 이름</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
@@ -486,7 +486,7 @@ ms.locfileid: "57585136"
 </tr>
 
 <tr class="even">
-<td>고객 Id</td>
+<td>Customer Id</td>
 <td><p>고유한 Microsoft Azure Active Directory 테 넌 트 ID를 GUID 형식으로 고객을 식별 하는 데 사용 합니다.</p></td>
 </tr>
 
@@ -596,7 +596,7 @@ ms.locfileid: "57585136"
 </tr>
 
 <tr class="even">
-<td>단가</td>
+<td>Unit Price</td>
 <td><p>구매 시 게시 된 가격표의 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 </tr>
 
@@ -642,7 +642,7 @@ ms.locfileid: "57585136"
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>대체 식별자는 id와 같습니다.</p></td>
+<td><p>대체 식별자에는 주문 id입니다.</p></td>
 </tr>
 </tbody>
 </table>
@@ -875,7 +875,7 @@ ms.locfileid: "57585136"
 </tr>
 
 <tr class="odd">
-<td>태그</td>
+<td>Tags</td>
 <td><p>청구 레코드를 그룹화 하려면 측정기에 할당 하는 태그입니다. 예를 들어를 측정기를 사용 하는 부서에서 비용을 배분 하는데 태그를 사용할 수 있습니다.</p></td>
 </tr>
 

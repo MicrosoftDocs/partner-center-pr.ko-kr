@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evensma
 keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft Cloud 계약, MCA, CSP, CSP를 통해 판매할 수는 여기서?, CSP 국가 및 지역에 여러 언어를 CSP North America, CSP 중앙 아메리카 CSP 남부에서 CSP MCAs America, CSP 카리브 해, 미국 정부 기관, CSP Microsoft Cloud 독일, CSP 중동, 아프리카 CSP, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCAs CSP Microsoft 클라우드
 ms.localizationpriority: medium
-ms.openlocfilehash: 443d881a8a11149366680cb7378aad350ea19aa1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585726"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320756"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 클라우드 계약
 
@@ -52,7 +52,7 @@ Microsoft 클라우드 계약 되며 지역별 여러 언어에서 사용할 수
 - 보네르, 사바, 및 신트외스타티우스: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - 브라질: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [포르투갈어 (브라질)](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_BRA_PTB_Sep20172_CR.pdf)
 - 영국령 버진 아일랜드: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
-- 캐나다: [English](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [French](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_FRE_Sep20172_CR.pdf)
+- 캐나다: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_ENG_Sep20172_CR.pdf), [French](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_FRE_Sep20172_CR.pdf)
 - 케이맨 제도: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - 칠레: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [스페인어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)
 - 콜롬비아: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf), [스페인어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_SPA_Sep20172_CR.pdf)
@@ -99,7 +99,7 @@ Microsoft 클라우드 계약 되며 지역별 여러 언어에서 사용할 수
 ## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government
  - 미국: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
 
-## <a name="europe"></a>유럽
+## <a name="europe"></a>Europe
 - 앨 란 드 제도: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 알바니아: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 안도라: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)

@@ -2,17 +2,17 @@
 title: Windows Autopilot 프로필을 사용 하 여 장치의 기본 제공 환경을 사용자 지정 | 파트너 센터
 description: Autopilot 프로필을 사용 하 여 장치의 기본 제공 환경을 미리 구성 합니다.
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot, windows autopilot, microsoft autopilot, 제로 터치 배포, oobe, 로그인 화면, 기본 제공
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586916"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162223"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치의 기본 제공 환경을 사용자 지정
 
@@ -45,7 +45,7 @@ ms.locfileid: "57586916"
 
 - CSP 파트너 계속 고객은 파트너의 위임 된 관리 권한을 제거 하는 경우에 기존 고객에 게 부여한를 사용 하 여 대리점 관계를 갖습니다 Autopilot 프로필을 관리할 수 있습니다.
 
-- 추가한 사용자 또는 다른 CSP 파트너가 고객에 게 기존 장치를 관리할 수 있습니다.
+- 추가한 고객에 게 기존 장치를 관리할 수 있습니다.
 
 - 고객에 게는 비즈니스용 Microsoft Store 또는 Microsoft Intune 포털에 업로드 하는 장치를 관리할 수 없습니다.
 
@@ -98,7 +98,7 @@ ms.locfileid: "57586916"
 
     b.  적절한 OOBE 화면(있는 경우)이 표시되는지 확인합니다.
 
-    c.  OOBE 프로세스가 중지 되 면 새 사용자에 대 한 준비를 공장 기본 설정으로 장치를 재설정 합니다.
+    다.  OOBE 프로세스가 중지 되 면 새 사용자에 대 한 준비를 공장 기본 설정으로 장치를 재설정 합니다.
 
 ### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>고객의 장치에서 Autopilot 프로필을 제거 합니다.
 

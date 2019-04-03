@@ -1,18 +1,18 @@
 ---
 title: 사용자 역할 및 권한 할당 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: 파트너 센터에서 작동 해야 하는 모든 직원에 게를 할당 되어야 합니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587746"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682491"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
@@ -37,6 +37,7 @@ ms.locfileid: "57587746"
 |사용자 관리자   | • 뷰를 만들고 사용자 관리
 ||• 모든 파트너 프로필 보기
 ||• 뷰를 만들고 파트너 사용자 관리  |
+|청구 관리자 | -보기, 만들기 및 대금 청구, 송장 및 여러 파일 관리|
 |기본 사용자|  내 프로필 보기   |
 |관리자 에이전트 | • 고객 관리
 ||• 파트너 센터에 장치 목록을 추가 <
@@ -61,7 +62,7 @@ ms.locfileid: "57587746"
 ||• 도움말 고객 관련 문제를 해결 대금 청구 또는 구독 관리
 ||• 고객을 대신해 서 지원을 요청 (참고: Office 365 구독에 대 한이 작업을 완료 하려면 관리 에이전트 여야 함)
 ||• 구독 관리 및 고객을 대신해 서 문제를 청구 합니다. (참고: Office 365 구독에 대 한이 작업을 완료 하려면 관리 에이전트 여야 함)|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>컨트롤 패널 공급 업체 (CPV)입니다. (CSP 역할 및 AAD가 아닌 역할)
 CPVs는 파트너 센터 Api를 사용 하 여 해당 시스템을 통합할 수 있도록 클라우드 솔루션 공급자 (CSP) 파트너에서 사용할 앱을 개발 합니다. 
 
@@ -90,6 +91,17 @@ CPVs는 파트너 센터 Api를 사용 하 여 해당 시스템을 통합할 수
 ||--관리자는 계정과 관련 하 여 프로필을 관리 하는 중 
 ||• 사용자 아닌 AAD 역할을 테 넌 트에 대 한 역할 할당 
 ||• 프로그램에 대 한 위치를 등록 합니다.
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>게스트 사용자 (AAD 테 넌 트에 추가 해야 합니다)
+
+|**게스트 사용자**   | **Roles**|
+|---------------------------|:--------------------|
+||MPN 파트너 관리자|
+||계정 관리|
+||인센티브 관리자|
+||비즈니스 프로필 관리자|
+||조회 관리자|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>조회 (AAD가 아닌 역할)를 관리 합니다.
 

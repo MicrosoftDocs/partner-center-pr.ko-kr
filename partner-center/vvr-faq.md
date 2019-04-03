@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance 바우처를 예약 바우처의 유효성을 검사합니다
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584456"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863991"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>자주 묻는 질문(FAQ): 바우처 유효성 검사 및 상환 도구를 사용 하 여 
 
@@ -48,6 +48,9 @@ ms.locfileid: "57584456"
 
 - 파트너 센터 작업 계정 (AAD)를 사용 하 여 로그인 해야합니다.  칩 현재 사용 하 여 개인 계정 (MSA 또는 Live ID)에 로그인 합니다.  파트너 센터에서 VVR에서 칩을 탐색 하는 경우에 칩에 MSA 또는 칩과 함께 등록 되어 있는 Live ID를 사용 하 여에 로그인 해야 합니다.
 
+**회사가는 VVR 도구를 액세스 하는 어떻게 하나요?**
+
+- VVR 도구에 액세스 하려면 회사 SATV 프로그램 또는 SA DPS 프로그램에 등록 해야 합니다.
 SATV에 등록 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 Software Assurance 교육 상품권 (SATV) 프로그램](software-assurance-satv.md)합니다.
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

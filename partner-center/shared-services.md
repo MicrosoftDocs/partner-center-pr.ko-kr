@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, 공유 서비스, 테넌트
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586986"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682471"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services 추가
 
@@ -57,4 +57,19 @@ Azure 소비는 CSP 송장과 조정 파일에서 볼 수 있습니다. 이 정�
 
 Azure Partner Shared Services의 새 가격 파일을 보려면 **판매** > **가격 및 제품**으로 이동하여 당월 가격 목록을 선택합니다. 몇 주 내로 구체적인 요율표 api도 릴리스될 예정입니다.
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 제품 및 Azure 파트너 공유 서비스
+
+2019 년 3 월 1 일을 기준으로 Azure 파트너 공유 서비스 (APSS) Marketplace 제품을 더 이상 지원합니다.   
+
+|**Marketplace 지원**   |**APSS 2019 년 3 월 1 일 이전에 지원**|**2019 년 3 월 1 일 후**|
+|---------------------------|:----------------------------|:-------------------|
+|사용자 고유의 (BYOL) 라이선스 및 무료 서비스를 제공 합니다.   | 예   | 아니요|
+|다른 제 3 자 marketplace 제품   | 아니요   |아니요|
+
+
+무료 또는 BYOL 파트너 APSS를 사용 하 여 배포 된 서비스에는 영향이 없습니다. 그러나 2019 년 3 월 1 일 후 이러한 됩니다 새 BYOL 또는 무료 서비스를 구매할 수 있습니다. 
+
+활용 하기 위해 사용할 수 있는 Marketplace 제품의 전체 카탈로그 (BYOL 및 무료 서비스 뿐 아니라) CSP 파트너 웹 직접 Azure 구독을 사용 하 여 공유 서비스를 배포 하는 것이 좋습니다.  타사 BYOL 배포한 하 고 사용 가능한 CSP 파트너가 Marketplace에서 리소스를 이전에 서비스 계속 사용 하려면 및 웹 직접 APSS 구독을 마이그레이션하는 것이 좋습니다 제품 보다 제 3 자 배포 [마이그레이션 기존 Azure 구독](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)합니다.
+
+2019 년 3 월 1 일 후에 APSS 구독을 사용 하 여 계속 하 고 새 타사 배포할 계획인 파트너 [BYOL 서비스](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) 또는 무료 서비스로, APSS 구독에 배포 하는 Isv에서 지침을 따를 수 있습니다.
 

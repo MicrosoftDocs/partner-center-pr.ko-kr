@@ -1,18 +1,18 @@
 ---
 title: Azure Marketplace 제품에 대 한 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: 파트너 센터를 사용 하 여 고객에 게 소프트웨어에 대 한 구독 (SaaS) 서비스로 판매 독립 소프트웨어 공급 업체 (Isv)에서 Azure Marketplace에 제품 게시 합니다.
 author: JnHs
 ms.author: jenhayes
 keywords: ISV, 제 3 자 Marketplace 구독
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587716"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508960"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Azure Marketplace 제품에 대 한 구독 판매
 
@@ -32,5 +32,4 @@ ms.locfileid: "57587716"
 
 Azure Marketplace SaaS 제품에 대 한 구독을 구입 Microsoft 제품에 대 한 구독을 구입 하는 프로그램과 동일한 프로세스를 따릅니다. 자세한 내용은 [새 구독을 만들](create-a-new-subscription.md)합니다. 참고 일부 제공 되지 않을 수 있음을 ISV는 고객의 청구 국가/지역에서 지원 하는지 여부에 따라 또는 다른 요인으로 인해 특정 고객에 게 제공 합니다.
 
-곧 파트너 센터 Api를 사용 하 여 고객에 게 Azure Marketplace 구독을 관리할 수 있게 될 것 했습니다. 
-
+사용할 수도 있습니다 [파트너 센터 Api](https://docs.microsoft.com/en-us/partner-center/develop/) 고객에 게 Azure Marketplace 구독을 관리 합니다.

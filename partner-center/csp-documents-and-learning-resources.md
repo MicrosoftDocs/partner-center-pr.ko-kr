@@ -1,19 +1,19 @@
 ---
 title: CSP 계약, 가격표 및 제품 | 파트너 센터
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: 이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585816"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508970"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585816"
 -  Microsoft Cloud for US Government 파트너 센터
 
 
-이 문서의 정보를 검토하여 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 참여하기 위한 요구 사항을 이해하세요. 
+이 문서의 정보를 검토하여 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 참여하기 위한 요구 사항을 이해하세요.
 
 ## <a name="cloud-solution-provider-program-guide"></a>클라우드 솔루션 공급자 프로그램 가이드
 
@@ -61,7 +61,7 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 계약 (독일)의 전문 Secrecy 수정
 
-독일 Criminal 코드 (섹션 203) 및 규정의 전문 코드 필요 특정 클라이언트 관계 예: 해당 의료 의사 및 환자 간의 관계 및 관계에 대 한 기밀을 유지 해야 하는 변호사와 해당 클라이언트입니다. 이러한 직업 그룹 전문 secrecy 확인 해야 합니다. 이러한 및 클라우드 솔루션 공급자의 클라우드 기반 서비스를 구입 하려면 다른 직업에 대 한 클라우드 서비스 공급자 전문 기밀성을 보장 하는 고객에 게 서 면 계약을 종료 해야 합니다. 
+독일 Criminal 코드 (섹션 203) 및 규정의 전문 코드 필요 특정 클라이언트 관계 예: 해당 의료 의사 및 환자 간의 관계 및 관계에 대 한 기밀을 유지 해야 하는 변호사와 해당 클라이언트입니다. 이러한 직업 그룹 전문 secrecy 확인 해야 합니다. 이러한 및 클라우드 솔루션 공급자의 클라우드 기반 서비스를 구입 하려면 다른 직업에 대 한 클라우드 서비스 공급자 전문 기밀성을 보장 하는 고객에 게 서 면 계약을 종료 해야 합니다.
 
 독일의 비즈니스를 수행 하는 경우 Microsoft 클라우드 계약 외에도 있는 고객에 게 전문 secrecy 본 수 있도록 해야 합니다.
 
@@ -69,27 +69,22 @@ Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에
 
 [독일 (DE)에 대 한 Microsoft 클라우드 계약 전문 Secrecy 수정](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-
 ## <a name="pricing"></a>가격 책정
 
-
-가격에서 라이선스 기반, 사용량 기준 및 일회성 구매에 대 한 정보를 다운로드 합니다 **가격 책정 및 제품** 페이지에서 사용할 수 있는 프로그램 **파트너 센터** 메뉴. 
+가격에서 라이선스 기반, 사용량 기준 및 일회성 구매에 대 한 정보를 다운로드 합니다 **가격 책정 및 제품** 페이지에서 사용할 수 있는 프로그램 **파트너 센터** 메뉴.
 
 라이선스 기준 가격표는 매달 업데이트되며, Microsoft는 적용 30일 전에 새 가격 책정을 릴리스합니다. 라이선스 기준 서비스의 예로는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM이 있습니다. 
 
 사용량 기준 가격 책정은 동적이며 자주 바뀝니다. 사용량 기준 서비스의 예로는 Microsoft Azure가 있습니다.
 
-일회성 구입 가격은 동적이기도 합니다. 일회성 구매의 예로 Microsoft Azure 예약 및 Windows Server 및 SQL 소프트웨어에 대 한 해당 구독을 들 수 있습니다. 
+일회성 구입 가격은 동적이기도 합니다. 일회성 구매의 예로 Microsoft Azure 예약 및 Windows Server 및 SQL 소프트웨어에 대 한 해당 구독을 들 수 있습니다.
 
-Azure Marketplace 제품에 대 한 정보를 가격에 대 한 이동 **Marketplace** 파트너 센터 왼쪽된 탐색 메뉴에서. 게시자, Sku에 대 한 정보를 보려면 제품을 선택 하 고 가격 책정 합니다. 이러한 Azure Marketplace 제품에 대 한 가격은 자주 변경할 수 있습니다. 곧 제공 될 예정을 내보내려면 옵션을 모든 가격 책정 데이터를 매일 업데이트의 목록을 제공 합니다. 에서는 또한 사용할 수 있게 됩니다 가격 데이터 Api 통해 현재 액세스 합니다. 이러한 옵션을 사용할 수 있는 면이 페이지 사용 방법에 대 한 자세한 정보를 사용 하 여 업데이트 됩니다.
+Azure Marketplace 제품에 대 한 정보를 가격에 대 한 이동 **Marketplace** 파트너 센터 왼쪽된 탐색 메뉴에서. 게시자, Sku에 대 한 정보를 보려면 제품을 선택 하 고 가격 책정 합니다. 이러한 Azure Marketplace 제품에 대 한 가격은 자주 변경할 수 있습니다. 모든 Marketplace 제품에 대 한 현재 가격 책정 정보를 가져오려는 선택 **내보내기 가격표** 모든 가격 책정 데이터를 사용 하 여 스프레드시트를 생성 합니다. 원하는 만큼 자주 확인할 수 있습니다이 정보는 매일 업데이트 됩니다.
 
 ## <a name="offers"></a>제품
-
 
 CSP의 파트너는 다양 한 Microsoft 제품, 서비스 및 Office 365, Enterprise Mobility Suite, Microsoft Dynamics 및 Microsoft Azure를 비롯 한 솔루션을 판매할 수 있습니다. 이러한 제품군 내에서 판매 하에 사용할 수 있는 제품에 대 한 자세한 내용은 CSP 제품 매트릭스를 보려면 합니다 **가격 책정 및 제품** 페이지에서 사용할 수 있는 프로그램 **파트너 센터** 메뉴. 이 문서는 매달 업데이트됩니다.
 
 CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
 독립 소프트웨어 공급 업체 (Isv)에서 게시 하는 Azure Marketplace 제품에 대 한 자세한 내용은 참조는 **Marketplace** 페이지 왼쪽된 탐색 메뉴. 현재 파트너 센터에서 SaaS (software-as-a-service) 제품 형식만 구입할 수 있습니다. 다른 유형의 Azure Marketplace 제품을 획득 하려면 Azure portal을 방문 해야 합니다.
-
-

@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure 비용 관리 앱에 비용을 관리, 웹 앱
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
+ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586086"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58490345"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure CSP 파트너용 Azure 비용 관리 앱  
 
@@ -23,7 +23,7 @@ ms.locfileid: "57586086"
 
 [Azure Cost Management에 대 한 자세한 정보](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
-## <a name="before-you-begin"></a>시작하기 전에
+## <a name="before-you-begin"></a>시작하기 전 주의 사항
 Azure 비용 관리를 사용하려면 먼저 다음 요구 사항을 충족해야 합니다.
 
 - 클라우드 솔루션 공급자 프로그램의 파트너여야 합니다.
@@ -31,7 +31,7 @@ Azure 비용 관리를 사용하려면 먼저 다음 요구 사항을 충족해�
 
 ## <a name="overview"></a>개요
 
-Cloudyn의 Azure 비용 관리는 고객이 Azure를 사용하는 정도와 사용 비용을 추적하고 관리할 수 있는 웹 앱입니다. 파트너 센터 API를 통해 사용합니다.
+Cloudyn은 추적 하 고 얼마나 고객에 게는 및 사용 하 여 Azure 사용량 비용을 관리할 수 있는 웹 앱. 파트너 센터 API를 통해 사용합니다.
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>파트너 센터에서 웹 앱 등록
 파트너 센터에서 Azure Active Directory 웹 앱을 등록하면 파트너 센터 API에 액세스할 수 있습니다. 

@@ -1,30 +1,27 @@
 ---
-title: 추천에 응답 | 파트너 센터
+title: 조회에 응답 | 파트너 센터
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: 정규화 된 Microsoft 파트너는 평가, 협상, 및 파트너 센터를 통해 조회에 응답 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585856"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756900"
 ---
-# <a name="responding-to-referrals"></a>추천에 응답
+# <a name="respond-to-referrals"></a>조회 응답
 
 **적용 대상**
 
 -  파트너 센터
 
 정규화 된 Microsoft 파트너는 조회를 통해 잠재적인 비즈니스 잠재 고객을 받을 수 있습니다. 파트너 센터에서 수 들어오는 잠재 고객 관리, 잘 맞지 않는에 신속히 대응 및 건너뛸 또는 거부 되지 않은 합니다. 
-
-> [!IMPORTANT]
-> 일부 업데이트를 만들었고는 조회 관리 경험이 있고 모든 파트너에 게 배포 하는 과정입니다. 계정의 새 환경을 사용할 수 있도록 설정는 때까지 몇 가지 약간 다르게 작동할 수 있습니다. 이러한 차이점은 아래 명시 되어 있습니다. 
 
 ## <a name="referral-management"></a>추천 관리
 
@@ -48,9 +45,6 @@ ms.locfileid: "57585856"
 *  **거부**: 에서는 그대로 보관 됩니다 **거절** 다른 파트너를 선택 하는 고객에 게 알립니다.
 
 (14 일 현재) 할당 된 시간 안에 응답 하지 않으면, 그대로 보관 됩니다 것 **만료 됨** 다른 파트너를 선택 하는 고객에 게 알립니다.
-
-> [!NOTE]
-> 위에서 설명한 프로세스에는 새로운 환경을 반영 합니다. 계정에이 환경을 사용 하지 않는 아직 볼 수는 **새로 만들기** 대신 섹션 **수신함**합니다. 새 조회 해야 72 시간 중 하나를 선택 **관심이** (별도의 조회를 이동 하는 **평가** 섹션 및 세부 정보를 표시) 또는 **아니요**(하는 조회를 보관 함). 선택 하는 경우 **관심이**, 조회를 허용 하려면 7 일을 해야 합니다.
 
 ### <a name="active-referrals"></a>활성 조회
 

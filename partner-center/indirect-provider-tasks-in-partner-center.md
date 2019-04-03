@@ -1,17 +1,17 @@
 ---
 title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: 간접 공급자 또는 배포자는 간접 재판매인과 파트너가 되어 고객 범위를 확장할 수 있습니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584376"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656394"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -86,16 +86,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 | 재판매인에게 인센티브 크레딧 제공 | 재판매인을 구독(새 구독 또는 기존 구독)에 연결 | **새 구독** 페이지 |
 | 특정 구독의 고객 지원을 재판매인에게 위임 | **지정된 지원 담당자** 목록에서 재판매인 선택 | 구독 세부 정보 페이지에서: 고객을 선택 하면 **고객이** 페이지를 다음에서 고객의 구독을 선택 **구독** 페이지 |
 
-현재 간접 공급자 파트너 센터 대시보드를 사용 하 여 주문 하 고 필요에 따라는 PartnerOnRecord로 간접 재판매자를 선택 하 수 있습니다. 간접 재판매자를 선택할 수 없는 경우 1 계층 트랜잭션으로이 처리 하 고 incentivize 같이 간접 공급자. 이러한 수행 하나를 선택 순서 2 계층 트랜잭션으로 간주 하 고에서는 incentivize 간접 공급자와 간접 재판매자 적절 하 게 합니다.
 
- 
-
-환경은는 간접 공급자는 기존 구독에 대 한 PartnerOnRecord 업데이트할 수도 있습니다.
-
- 
-
-알고 공급자는 PartnerOnRecord를 관리 해야 기존 설명서에 어떻게 간접 있다면 설정 하세요?
-이 이유 이므로 매우 중요 한 잘못 된 인센티브 지급에 간접 공급자가 올바르게 구성 되지 않은 2 계층 트랜잭션 집합 것 같습니다. 시간이 지남에 따라 파트너가이 실현 하 고 microsoft 인센티브를 backpay 로그온에 연락 시작 합니다. 이 영역의 설명서 검사에서는 없으면 하나를 함께 배치 하 여 도움말을 보려면 싶습니다.
 
 
 
@@ -177,7 +168,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 7.  작업을 마쳤으면 **제출**을 선택합니다. 
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 
 고객 계정 및 구독 관리에 대한 자세한 내용은 다음을 참조하세요.
 
