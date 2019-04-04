@@ -3,13 +3,18 @@ layout: HubPage
 hide_bc: true
 title: 개발자와 파트너 센터 서비스에 대한 설명서
 ms.date: 10/29/2018
-description: '파트너 센터에 로그인하여 앱을 게시하고, 데스크톱 애플리케이션에서 데이터를 가져오고, 하드웨어 인증을 받고, Windows 업데이트에 드라이버를 게시하고, 재판매인으로 거래하는 경우 이 설명서가 도움이 됩니다.'
+description: 파트너 센터에 로그인하여 앱을 게시하고, 데스크톱 애플리케이션에서 데이터를 가져오고, 하드웨어 인증을 받고, Windows 업데이트에 드라이버를 게시하고, 재판매인으로 거래하는 경우 이 설명서가 도움이 됩니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
+ms.openlocfilehash: 47e8208ec2609e6591d617f2431a635e81112767
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588296"
 ---
-
 <div id="main" class="v2">
     <div class="container">
         <h1>파트너 센터 서비스에 대한 설명서</h1>
