@@ -17,10 +17,10 @@
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
 ## [CSP 직접 파트너 새로운 요구 사항](direct-partner-new-requirements.md)
 ## [지역 및 언어별 Microsoft 클라우드 계약](agreements.md)
-##[CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](transition-direct-to-indirect.md)
+## [CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](transition-direct-to-indirect.md)
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
-## [CSP 지역 권한 부여 개요](regional-authorization-overview.md)
-## [CSP 지역 권한 부여 테넌트 통합](csp-regional-authorization-tenant-consolidation.md)
+## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
+
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [파트너 센터 계정 관리](partner-center-account-setup.md)
 ## [회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
+## [위치](manage-locations.md)
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
 ## [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
 ## [사용자 역할 및 권한 할당](permissions-overview.md)
