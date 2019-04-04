@@ -4,13 +4,18 @@ hide_bc: true
 title: 파트너 센터에 대한 도움을 받으려면 여기서 시작
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "파트너 센터는 Microsoft CSP(클라우드 솔루션 공급자) 프로그램을 통해 비즈니스를 성장시킬 수 있게 도와줍니다. 계정을 설정하고, 고객과 연결하고, Action Pack 구독을 구입하고, CSP 및 MPN 프로그램의 파트너에 대해 자세히 알아보세요.\_"
+description: 파트너 센터는 Microsoft CSP(클라우드 솔루션 공급자) 프로그램을 통해 비즈니스를 성장시킬 수 있게 도와줍니다. 계정을 설정하고, 고객과 연결하고, Action Pack 구독을 구입하고, CSP 및 MPN 프로그램의 파트너에 대해 자세히 알아보세요. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588326"
 ---
-
 # <a name="welcome-to-partner-center"></a>파트너 센터 시작
 
 Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리할 수 있는 원스톱 위치입니다. 멤버십 옵션, 고객 조회 및 CSP(클라우드 솔루션 공급자) 프로그램을 포함하여 거래 및 비즈니스 성장을 도와주는 도구와 리소스를 제공합니다. 계정을 관리하고, 고객과 연결하고, Action Pack 구독을 구입하고, 파트너 센터 도움말 라이브러리에서 인센티브 프로그램에 등록하는 모범 사례를 알아보세요.

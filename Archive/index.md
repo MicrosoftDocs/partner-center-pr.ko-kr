@@ -3,8 +3,13 @@ title: 21Vianet에서 운영하는 파트너 센터
 ms.topic: article
 ms.date: 10/29/2018
 description: 중국에서 CSP 서비스를 재판매하려면 21Vianet에서 운영하는 파트너 센터를 사용하세요.
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588266"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a>21Vianet에서 운영하는 파트너 센터
 
 21Vianet에서 운영하는 파트너 센터에 오신 것을 환영합니다. 이 포털은 중국 내 21Vianet의 CSP(클라우드 솔루션 공급자) 서비스 재판매인을 위한 비즈니스 포털입니다. 
