@@ -1,18 +1,18 @@
 ---
 title: 고객의 Microsoft 클라우드 계약 동의 확인 | 파트너 센터
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 클라우드 계약에 대한 고객 동의를 받아야 합니다. 보다 잘 파트너 규정 준수 요구 사항을 충족 Microsoft 파트너 요청 규약 동의 사용자에 대 한 특정 세부 정보를 제공 하 여 동의 확인 합니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: 고객, 고객, 고객 계약 템플릿 MCA, Microsoft Cloud 계약 동의
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587566"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430132"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>고객의 Microsoft 클라우드 계약 동의 확인
 
@@ -33,58 +33,26 @@ ms.locfileid: "57587566"
 
 자세한 내용은 Microsoft 클라우드 계약 고객 승인 확인을 참조 하세요 [Frequently Asked Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)합니다.
 
-## <a name="schedule"></a>일정
+직접 청구 파트너 및 간접 공급자는 파트너 센터 또는 파트너 센터 API를 통해 구속력 있는 경우 Microsoft 클라우드 계약의 고객 승인을 확인 해야 합니다. 확인이 *필수 사항*입니다.
 
-**2018 년 8 월 7 일**
+해당 고객에 대해 확인 여부가 제공되지 않으면 다음과 같은 결과가 초래됩니다.
 
--   직접 청구 파트너와 간접 공급자는 Microsoft 클라우드 계약에 고객이 동의하는지 확인할 수 있습니다. 확인이 *선택 사항*입니다.
+-   이 고객에 대해 새로운 주문을 생성할 수 없습니다.
 
--   파트너 센터 또는 파트너 센터 API를 통해 고객 승인의 확인을 수행할 수 있습니다.
+-   이 고객에 대해 기존의 사용자 수 기준 구독의 사용자 수를 변경할 수 없습니다.
 
--   고객의 동의 여부 확인은 Microsoft 공용 클라우드에서만 지원됩니다.
+파트너 센터 또는 파트너 센터 API를 통해 고객 승인의 확인을 수행할 수 있습니다. 파트너 센터 API를 통해이 작업을 수행 하려면 다음 항목을 참조 합니다. 
 
+-   [가져오기의 고객 동의 확인](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**2018 년 11 월 7 일**
+-   [계약 메타 데이터 가져오기](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   직접 청구 파트너 및 간접 공급자 **해야** 파트너 센터 대시보드를 통해 구속력 있는 경우 Microsoft 클라우드 계약의 고객 동의 확인 합니다. 확인이 *필수 사항*입니다.
-
--   해당 고객에 대해 확인 여부가 제공되지 않으면 다음과 같은 결과가 초래됩니다.
-
-    -   이 고객에 대해 새로운 주문을 생성할 수 없습니다.
-
-    -   이 고객에 대해 기존의 사용자 수 기준 구독의 사용자 수를 변경할 수 없습니다.
-
--   파트너 센터 또는 파트너 센터 API를 통해 고객 승인의 확인을 수행할 수 있습니다.
-
--   고객의 동의 여부 확인은 Microsoft 공용 클라우드에서만 지원됩니다.
-
--   이 프로덕션 및 샌드박스 환경 모두에 적용 됩니다.
-
-**2018 년 3 월 11 일**
-
-- 직접 청구 파트너 및 간접 Providersmust 파트너 센터 API를 통해 구속력 있는 경우 CSP 샌드박스 환경에서 Microsoft Cloud 계약의 고객 동의 확인 합니다.
-- 해당 고객에 대해 확인 여부가 제공되지 않으면 다음과 같은 결과가 초래됩니다.
-
-    - 파트너 센터 API를 사용 하 여이 고객에 대 한 새 주문을 만들 수 없습니다.
- 
-    - 파트너 센터 API를 사용 하 여이 고객에 대 한 기존 사용자 단위 구독 사용자 수를 변경할 수 없습니다.
-- 고객의 동의 여부 확인은 Microsoft 공용 클라우드에서만 지원됩니다. 
-
-**12018 년 3 월 22 일**
-
-- 직접 청구 파트너 및 간접 Providersmust 파트너 센터 API를 통해 구속력 있는 경우 CSP 프로덕션 환경에서 Microsoft Cloud 계약의 고객 동의 확인 합니다.
-
-- 해당 고객에 대해 확인 여부가 제공되지 않으면 다음과 같은 결과가 초래됩니다.
-  - 파트너 센터 API를 사용 하 여이 고객에 대 한 새 주문을 만들 수 없습니다.
-
-  - 파트너 센터 API를 사용 하 여이 고객에 대 한 기존 사용자 단위 구독 사용자 수를 변경할 수 없습니다.
--  고객의 동의 여부 확인은 Microsoft 공용 클라우드에서만 지원됩니다.
+-   [고객 동의 확인](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+고객의 동의 여부 확인은 Microsoft 공용 클라우드에서만 지원됩니다.
 
-
-
-
+이 프로덕션 및 샌드박스 환경 모두에 적용 됩니다.
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>파트너 센터에서 고객 승인 확인
 
@@ -120,7 +88,7 @@ ms.locfileid: "57587566"
 
 3.  **Microsoft 클라우드 계약**에서 **업데이트**를 선택합니다.
 
-![업데이트](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4.  계약에 동의한 사용자의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다.
 

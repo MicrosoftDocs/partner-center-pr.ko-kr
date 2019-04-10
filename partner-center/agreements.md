@@ -1,18 +1,18 @@
 ---
 title: Microsoft Cloud 계약 고객 템플릿 | 파트너 센터
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: 확인 하 고 고객과 상의 하 여 검토를 Microsoft 클라우드 규약의 지역 및 언어별 버전을 다운로드 합니다.
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft Cloud 계약, MCA, CSP, CSP를 통해 판매할 수는 여기서?, CSP 국가 및 지역에 여러 언어를 CSP North America, CSP 중앙 아메리카 CSP 남부에서 CSP MCAs America, CSP 카리브 해, 미국 정부 기관, CSP Microsoft Cloud 독일, CSP 중동, 아프리카 CSP, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCAs CSP Microsoft 클라우드
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320756"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430222"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 클라우드 계약
 

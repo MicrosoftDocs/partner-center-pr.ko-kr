@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585346"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430182"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 
@@ -31,11 +31,13 @@ ms.locfileid: "57585346"
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>파트너 센터 계정을 관리하는 데 도움이 되는 리소스
 
-|**이렇게 하려면**   |**이 읽기**   |
+|**수행 작업**   |**이 글 읽기**   |
 |-----------------------|:-----------------------|
 |회사 프로필을 최신 상태로 유지   |[파트너 프로필 업데이트](update-your-partner-profile.md)|
-|역할 할당 되어야 합니다 파트너 센터에서 작동 해야 하는 회사의 모든 사용자. 역할마다 고유의 권한을 가지며 접근이 가능한 작업이 있습니다.|[사용자 계정 만들기 및 사용 권한 설정](create-user-accounts-and-set-permissions.md)|
-|직원이 암호를 잊었거나 암호를 다시 설정해야 하는 경우  |[사용자 암호 재설정](reset-a-user-password.md)|
+|역할 할당 되어야 합니다 파트너 센터에서 작동 해야 하는 회사의 모든 사용자. 역할마다 고유의 권한을 가지며 접근이 가능한 작업이 있습니다.|[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)|
+|각 역할을 수반 하 고 사용 권한을 검토합니다|[사용자 역할 및 권한 할당](permissions-overview.md)
+|회사 위치 관리|[파트너 계정을 관리 합니다. 위치](manage-locations.md)
+|직원이 암호를 잊었거나 암호를 다시 설정해야 하는 경우  |[사용자 암호 다시 설정](reset-a-user-password.md)|
 |고객이 찾을 수 있도록 회사 홍보   |[비즈니스 프로필 만들기](create-a-marketing-profile.md)|
 |가장 중요한 제품이 목록 맨 위에 오도록 카탈로그 정리   |[카탈로그 사용자 지정](customize-the-catalog.md)|
 |현재 가격 및 제품에 대한 정보 업데이트   |[가격 책정 및 제품](pricing-and-offers.md)|

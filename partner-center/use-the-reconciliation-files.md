@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682511"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430202"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -23,6 +23,22 @@ ms.locfileid: "57682511"
 
 
 각 요금 청구 주기에서 보려면 자세한 품목을 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
+
+## <a name="formatting-issues"></a>서식 지정 문제
+
+경우에 따라 여러 파일에 서식 지정 문제 있을 수 있습니다. (이 경우 발생할 수 있습니다, 예를 들어 EN-US 로캘을 사용 되지 않습니다.) 이러한 문제를 해결 하려면 다음 단계를 수행 합니다. 
+
+<ol>
+<li>Excel에서.csv 파일을 열고 첫 번째 열을 선택 합니다. 리본에서 선택 <strong>데이터</strong>를 선택한 후 <strong>열에 텍스트</strong>합니다.</li>
+
+<li>텍스트 변환 마법사에서에서 선택 <strong>파일 형식을 구분</strong>를 선택한 후 <strong>다음</strong>합니다.</li> 
+
+<li>구분 기호 필드에서 선택 <strong>쉼표로</strong>합니다. 하는 경우 <strong>탭</strong> 은 이미 선택 상태로 남겨둘 수 있습니다. <strong>다음</strong>을 선택합니다.</li>
+
+<li>열 데이터 형식 필드에서 선택 <strong>날짜: MDY</strong>를 선택한 후 <strong>다음</strong>합니다.</li> 
+
+<li>열 데이터 형식 필드에서 선택 <strong>텍스트</strong> 열을 선택한 후 모든 금액에 대 한 <strong>마침</strong>합니다.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>파트너가 항목별로 정리
 
@@ -72,7 +88,7 @@ ms.locfileid: "57682511"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>열</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>설명</strong></td>
 <td><strong>샘플 값</strong></td>
 </tr>
@@ -241,7 +257,7 @@ ms.locfileid: "57682511"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>열</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>설명</strong></td>
 <td><strong>샘플 값</strong></td>
 </tr>
@@ -902,16 +918,16 @@ ms.locfileid: "57682511"
 <tbody>
 <tr>
 <td>
-<p><strong>청구서 금액 충전 설명</strong></p>
+<p><strong>송장 요금 설명</strong></p>
 </td>
 <td>
-<p><strong>조정 파일 금액 설명 (ChargeType 열)</strong></p>
+<p><strong>조정 파일 요금 설명(ChargeType 열)</strong></p>
 </td>
 <td>
-<p><strong>이 요금 이란 무엇 인가요?</strong></p>
+<p><strong>이 요금은 무엇인가요?</strong></p>
 </td>
 <td>
-<p><strong>이러한 ChargeTypes를 청구서에 매핑하려면 어떻게 하나요?</strong></p>
+<p><strong>ChargeTypes를 송장에 매핑하려면 어떻게 해야 하나요?</strong></p>
 </td>
 </tr>
 <tr>
@@ -1084,7 +1100,7 @@ ms.locfileid: "57682511"
 <p><strong>라이선스 기반 할인</strong></p>
 </td>
 <td>
-<p><em>여러 요금 유형에 적용할 수 있습니다.</em></p>
+<p><em>여러 종류의 요금에 적용될 수 있음</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ ms.locfileid: "57682511"
 <p><strong>세금</strong>&nbsp;또는&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>여러 요금 유형에 적용할 수 있습니다.</em></p>
-<p><em>예외: &quot;품목 요금 차감&quot; 이미 세금이 포함 되어 있습니다. 위의 크레딧을 참조 하세요.</em></p>
+<p><em>여러 종류의 요금에 적용될 수 있음</em></p>
+<p><em>예외: &quot;품목 요금 차감&quot; 이미 세금이 포함 되어 있습니다. 위의 크레딧을 참조하세요.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>
