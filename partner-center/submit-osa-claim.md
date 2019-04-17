@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 클레임 co-op co-op 금액을 OSA, ISV, 수익 연결
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430645"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619309"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>파트너 센터에서 사용자 OSA 클레임을 제출 합니다.
+# <a name="submit-your-osa-claims-in-partner-center"></a>파트너 센터에서 OSA 클레임 제출
 
 **적용 대상**
 
@@ -28,17 +28,17 @@ OSA 파트너 또는 Dynamics ISV 파트너 센터에서 사용자 클레임을 
 -   **은행 및 세금 정보를 사용 하 여** 파트너 센터에 입력 합니다. 
 -   **OSA 판매 자격 인증 및 수익 요구 사항을 충족**합니다. (자세한 내용은 aka.ms/partnerincentives OSA 섹션 아래에 있는 OSA 판매 가이드를 참조). 수익 연결에만 검색 하는 Isv에는 적용 되지 않습니다. 
 
-##<a name="submitting-your-claim"></a>사용자 클레임을 제출합니다.
+## <a name="submitting-your-claim"></a>사용자 클레임을 제출합니다.
 
 사용자 클레임을 전송할 트랜잭션의 날짜 로부터 90 일을 해야 합니다. 트랜잭션 후 90 일 이상에 사용자 클레임을 제출 하면 해당 할인 판매로 판매 인센티브를 킥 있습니다. 
 
 ISV 파트너 및 고객 Microsoft Dynamics 365 솔루션 선택에 영향을 통해 솔루션을 라면 자격이 수익 연결 클레임 합니다.   
 
-##<a name="payment-schedule"></a>지불 일정
+## <a name="payment-schedule"></a>지불 일정
 
 획득 기간 종료 후 45 일 이내에 승인된 인센티브 클레임에 대 한 지불을 받게 됩니다. 지불 분쟁을 획득 기간 종료 후 90 일을 해야 합니다. 지불 계산 및 메서드에 대 한 자세한 내용은 aka.ms/partnerincentives OSA 섹션 아래에 있는 OSA 판매 가이드를 참조 합니다.
 
-##<a name="maintaining-your-program-eligibility"></a>프로그램 자격을 유지 관리
+## <a name="maintaining-your-program-eligibility"></a>프로그램 자격을 유지 관리
 
 Microsoft는 온라인 서비스 관리자 판매 인센티브를 획득, 계산 및 결제에 대 한 월별 자격을 평가합니다. Microsoft에서 승인 하 고 인센티브 지불 릴리스 전에 특정 자격 조건을 충족 해야 합니다. 자세한 내용은 aka.ms/partnerincentives OSA 섹션 아래에 있는 OSA 판매 가이드를 참조 합니다.
 
@@ -60,7 +60,9 @@ Microsoft는 온라인 서비스 관리자 판매 인센티브를 획득, 계산
 
 5.  이 클레임에 연결 하 고 선택 하려는 구독을 선택 **계속**합니다.
 
->[! 정보] 구독을 선택 하기 전에 이름 및 지리적 지역 모두 정확한 지 확인 합니다. 
+>[! 참고 사항]
+
+>구독을 선택 하기 전에 이름 및 지리적 지역 모두 정확한 지 확인 합니다. 
 
 >다른 온라인 서비스 관리자와 연관 된 구독 노란색 삼각형이 표시 됩니다. 여전히 상호 연결할 수 있습니다. 
 
@@ -76,7 +78,7 @@ Microsoft는 온라인 서비스 관리자 판매 인센티브를 획득, 계산
 
 수입 및 지불 데이터를 보려면 지급 및 보고를 참조 하세요. 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>ISV 수익 연결 클레임을 제출 합니다.
+# <a name="submit-an-isv-revenue-association-claim"></a>ISV 수익 연결 클레임을 제출 합니다.
 
 1.  개요 페이지에서 아래 **인센티브 프로그램을 모두**를 선택 **OSA**합니다.
 
@@ -86,7 +88,9 @@ Microsoft는 온라인 서비스 관리자 판매 인센티브를 획득, 계산
 
 4.  이 클레임을 사용 하 여 연결 하 고 선택 하려는 구독을 선택 **계속**합니다.
 
->[! 정보] 구독을 선택 하기 전에 이름 및 지리적 지역 모두 정확한 지 확인 합니다. 
+>[! 참고 사항]
+
+>구독을 선택 하기 전에 이름 및 지리적 지역 모두 정확한 지 확인 합니다. 
 
 >회사와 이미 연결 된 구독 다시 연결할 수 없습니다.  
 
