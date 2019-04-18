@@ -1,23 +1,29 @@
 ---
 title: 고객의 Microsoft 클라우드 계약 동의 확인 | 파트너 센터
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 클라우드 계약에 대한 고객 동의를 받아야 합니다. 보다 잘 파트너 규정 준수 요구 사항을 충족 Microsoft 파트너 요청 규약 동의 사용자에 대 한 특정 세부 정보를 제공 하 여 동의 확인 합니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: 고객, 고객, 고객 계약 템플릿 MCA, Microsoft Cloud 계약 동의
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430132"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652255"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>고객의 Microsoft 클라우드 계약 동의 확인
 
 **적용 대상**
 -  파트너 센터
+
+> [!NOTE]
+> 계약 리소스는 현재 Microsoft 공용 클라우드만 파트너 센터에서 지원 됩니다. 에 적용 되지 않습니다.
+> * 21Vianet에서 운영하는 파트너 센터
+> * Microsoft 클라우드 독일 파트너 센터
+> * Microsoft Cloud for US Government 파트너 센터
 
 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 클라우드 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정 준수 요구 사항을 충족하도록 돕기 위해 Microsoft는 계약에 동의한 사람과 관련해 다음과 같은 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다. 
 
@@ -27,7 +33,7 @@ ms.locfileid: "59430132"
 
 -   메일 주소
 
--   전화 번호
+-   전화 번호(선택 사항)
 
 -   동의 날짜
 
@@ -49,8 +55,6 @@ ms.locfileid: "59430132"
 
 -   [고객 동의 확인](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-고객의 동의 여부 확인은 Microsoft 공용 클라우드에서만 지원됩니다.
 
 이 프로덕션 및 샌드박스 환경 모두에 적용 됩니다.
 
