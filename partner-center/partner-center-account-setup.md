@@ -9,10 +9,10 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430182"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
@@ -31,7 +31,7 @@ ms.locfileid: "59430182"
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>파트너 센터 계정을 관리하는 데 도움이 되는 리소스
 
-|**수행 작업**   |**이 글 읽기**   |
+|**이렇게 하려면**   |**이 읽기**   |
 |-----------------------|:-----------------------|
 |회사 프로필을 최신 상태로 유지   |[파트너 프로필 업데이트](update-your-partner-profile.md)|
 |역할 할당 되어야 합니다 파트너 센터에서 작동 해야 하는 회사의 모든 사용자. 역할마다 고유의 권한을 가지며 접근이 가능한 작업이 있습니다.|[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)|

@@ -8,10 +8,10 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430172"
 ---
 # <a name="tax-and-tax-exemptions"></a>세금 및 면세
@@ -24,7 +24,7 @@ ms.locfileid: "59430172"
 
 클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다. 이 규칙은 국가/지역에 따라 다릅니다. 파트너는 세금 고문에게 문의하여 파트너 위치와 해당 고객의 근거지를 기준으로 해당하는 면세 정보를 제출해야 합니다 Microsoft 재판매인 계정을 비과세로 표시하려면 파트너가 Microsoft에 해당 면제 인증서를 보내야 합니다.
 
-**면세 정보 제출**
+**세금 면제 파일**
 
 1.  조회 하 **Microsoft ID** 파트너 센터에서 &gt; **계정 설정** &gt; **조직 프로필**합니다.
 2.  조회 하 **MPN ID** 파트너 센터에서 &gt; **계정 설정** &gt; **파트너 프로필**합니다.

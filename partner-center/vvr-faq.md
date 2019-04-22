@@ -8,13 +8,13 @@ ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance 바우처를 예약 바우처의 유효성을 검사합니다
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863991"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>자주 묻는 질문(FAQ): 바우처 유효성 검사 및 상환 도구를 사용 하 여 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: 바우처 유효성 검사 및 사용 도구 사용 
 
 **적용 대상**
 

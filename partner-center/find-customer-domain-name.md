@@ -8,10 +8,10 @@ ms.author: labrenne
 keywords: 인센티브 클레임, 클레임 co-op co-op 금액을 OSA, ISV, 수익 연결, 도메인 이름, 디렉터리 ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430646"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>고객의 도메인 이름 및 디렉터리 ID 찾기
