@@ -1,17 +1,17 @@
 ---
 title: Microsoft Cloud for US Government의 클라우드 솔루션 공급자 프로그램에 등록 | Microsoft Cloud for US Government 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Cloud for US Government의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585646"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135583"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585646"
 
 Microsoft Cloud for US Government는 미국 정부의 데이터 보안, 프라이버시 및 규정 준수 요구 사항을 충족하는 별도의 전용 Microsoft Azure 인스턴스를 제공합니다. Microsoft Cloud for US Government의 CSP 프로그램에 참여하려는 회사는 Microsoft의 자격 요구 사항을 충족해야 합니다. 자세한 내용은 [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)를 참조하세요.
 
-## <a name="before-you-begin"></a>시작하기 전에
+## <a name="before-you-begin"></a>시작하기 전 주의 사항
 
 Microsoft Cloud for US Government의 CSP 프로그램에 등록하려면 회사가 미국 정부 기관에 제품을 판매하기 위한 요구 사항을 충족하는지 확인하는 절차가 필요합니다. 등록 프로세스를 시작하시기 전에, 귀사의 자격을 확인할 수 있도록 [Microsoft 정부 클라우드 검사 양식](https://azuregov.microsoft.com/csp)을 작성해 주세요. 자격이 있는 것으로 확인되면 Microsoft Cloud for US Government와 관련된 Azure AD(Azure Active Directory) 테넌트를 제공해 드립니다.  
 
@@ -81,7 +81,7 @@ Microsoft Cloud for US Government는 정부 규정, 보안 및 프라이버시 �
 
 ## <a name="related-topics"></a>관련 항목
 
--  [미국 정부용 Microsoft Cloud에 대 한 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [미국 정부용 Microsoft Cloud에 대 한 파트너 센터에서 사용자 및 라이선스 관리](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
