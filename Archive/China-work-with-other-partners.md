@@ -6,11 +6,11 @@ description: 동일한 고객에 게 서비스를 제공 하도록 다른 CSP �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 751dee92243e5956849cf07dcdc680566660c5f3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132058"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 
@@ -23,6 +23,6 @@ ms.locfileid: "57583866"
 
 파트너 센터에서 다중 채널 및 multipartner 지원을 사용 하 여이 고객에 게 계속 서비스 및 솔루션을 판매할 수 있습니다.
 
--   [Multipartner](multipartner.md)
--   [Multichannel](multichannel.md)
+-   [다중 파트너](multipartner.md)
+-   [다중 채널](multichannel.md)
 -   [고객과 재판매인 관계 요청](request-a-relationship-with-a-customer.md)

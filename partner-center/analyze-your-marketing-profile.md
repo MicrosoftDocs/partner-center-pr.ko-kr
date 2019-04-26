@@ -1,18 +1,18 @@
 ---
 title: 비즈니스 프로필의 효과 분석 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너 센터를 통해 추천을 평가하고, 협상하고, 응답하세요.
 author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584516"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134913"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>비즈니스 프로필의 효과 분석
 <!-- 
@@ -48,6 +48,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 *  **키워드**(전체적인 상위 검색 키워드) 
 *  **업계**
-*  **제품**
+*  **Product**
 *  **서비스 유형**
 

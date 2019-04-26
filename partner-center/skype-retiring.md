@@ -1,19 +1,19 @@
 ---
 title: 비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 지원 되는 SKU 옵션 Business Online 요금제 1 구독은 만료 Skype 사용 하 여 고객에 게 전환 합니다. 구독의 연간 종료 날짜 전에 새 구독에 고객을 이동 하는 것이 좋습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 비즈니스용 Skype 플랜, Skype 사용 중지, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586106"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133931"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 플랜 1 구독을 새로운 Office 365 버전으로 마이그레이션
 

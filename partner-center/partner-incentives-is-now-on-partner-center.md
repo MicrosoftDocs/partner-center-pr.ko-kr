@@ -1,17 +1,17 @@
 ---
 title: 파트너 센터에서 파트너 인센티브를 사용할 수 있음 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 새로운 마케팅 기술, 제품 교육 등을 개발하는 것을 촉진하는 인센티브 프로그램
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587516"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134179"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>파트너 센터에서 파트너 인센티브를 사용할 수 있습니다. 
 
@@ -43,7 +43,7 @@ Microsoft 파트너 인센티브 프로그램에 파트너 센터로 이동 했�
 
 **참고 항목**
 
-[사용자 계정 만들기 및 사용 권한 설정](create-user-accounts-and-set-permissions.md)
+[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)
 
 [임시 암호를 변경 합니다.](change-your-temporary-password.md)
 

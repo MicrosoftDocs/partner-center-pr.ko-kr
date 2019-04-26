@@ -1,18 +1,18 @@
 ---
 title: 조정 파일 사용 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 각 요금 청구 주기에서 보려면 자세한 품목을 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430202"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132783"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 

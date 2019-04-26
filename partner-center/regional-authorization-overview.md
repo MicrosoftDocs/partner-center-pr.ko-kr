@@ -10,11 +10,11 @@ keywords: 전체 CSP 클라우드 솔루션을 판매 하는 CSP 시장, 지역,
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57588076"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134053"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>클라우드 솔루션 공급자 프로그램에 대 한 지역 시장 및 통화
 
@@ -356,7 +356,7 @@ CSP 제품을 판매할 수 있습니다 위치를 확인 하려면 아래 목�
 |  터키         |   USD    |
 |  투르크메니스탄   |          |
 |  우크라이나        |   USD    |
-|  아랍에미리트| USD |
+|  아랍 에미리트 연합국| USD |
 |  우즈베키스탄     |          |
 |  예멘          |   USD    |
 |  짐바브웨       |          |

@@ -1,7 +1,7 @@
 ---
 title: 회사 계정 및 파트너 센터 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다. 활성 구독을 Microsoft Azure 또는 Office 365가 이미 있는 경우 작업 계정입니다.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +9,12 @@ Keywords: Azure 테 넌 트, 테 넌 트, 전자 메일, 계정, 계정, 도메�
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584686"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134735"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>조직의 회사 계정 및 파트너 센터  
 

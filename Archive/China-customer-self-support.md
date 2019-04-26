@@ -6,11 +6,11 @@ description: 고객 자가 지원
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 0e0dc8401b29e16cd936f73a732ae58fb179942d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584096"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132303"
 ---
 # <a name="customer-self-support"></a>고객 자가 지원
 
@@ -18,7 +18,7 @@ ms.locfileid: "57584096"
 
 -   21Vianet에서 운영하는 파트너 센터
 
-고객은 21Vianet에서 운영 하는 Office 365 관리 센터에서 해당 계정의 일부 측면을 관리할 수 있습니다. 수행할 수 있습니다.
+고객은 21Vianet에서 운영 하는 Office 365 관리 센터에서 해당 계정의 일부 측면을 관리할 수 있습니다. 다음 작업을 수행할 수 있습니다.
 
 -   메시지 센터에서 서비스 상태 정보와 같은 제품 내 통신 및 알림을 볼 수 있습니다.
 -   소프트웨어 공급 업체에서 직접 제품을 구매 했다는 것 처럼 모든 서비스 구성 및 관리 작업을 수행 합니다. 
@@ -29,7 +29,7 @@ ms.locfileid: "57584096"
 
 **참고 항목**
 
--   [고객 지원](customer-support.md)
+-   [ 고객 지원](customer-support.md)
 
 
 

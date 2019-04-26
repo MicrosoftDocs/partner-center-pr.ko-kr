@@ -6,11 +6,11 @@ description: 클라우드 솔루션 공급자 프로그램 가격, 대리점과 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 0da6894c3455c9a044f8d8555ee16929e5e69030
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583956"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132353"
 ---
 # <a name="pricing-and-offers"></a>가격 책정 및 제품
 

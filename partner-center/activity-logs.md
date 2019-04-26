@@ -1,19 +1,19 @@
 ---
 title: 고객 활동 로그 보기 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 활동 로그, 구독, 구독 및 결제, 청구, 트랜잭션
 ms.localizationpriority: medium
-ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 21a67e40fb012247849ccc28fd9b7c9009b4a770
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586066"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134503"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 

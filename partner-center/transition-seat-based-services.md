@@ -1,17 +1,17 @@
 ---
 title: 라이선스 기반 서비스 고객을 파트너 센터의 클라우드 솔루션 공급자 프로그램으로 이동 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 고객과 고객의 구독을 다른 채널이나 다른 파트너에서 CSP 프로그램으로 이동합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7277802d5e2aec6118a8334520be89602f15632a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587776"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132923"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>라이선스 기반 서비스 고객을 다른 채널에서 클라우드 솔루션 공급자 프로그램으로, 또는 한 파트너에서 다른 파트너로 이동
 

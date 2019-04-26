@@ -1,18 +1,18 @@
 ---
 title: 고객에게 지원 제공 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너는 고객에게서 받은 지원 요청을 접수하고 자신의 능력을 최대한 발휘하여 문제를 진단한 다음, 기준이 되는 지원 경계의 범위 내에서 문제를 해결해야 합니다.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5050e4269de15d1f0fabe37e297e440fcfbd73d8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586116"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135483"
 ---
 # <a name="providing-support-to-your-customers"></a>고객에게 지원 제공
 

@@ -8,11 +8,11 @@ ms.author: jenhayes
 keywords: ISV, 제 3 자 Marketplace 구독
 ms.localizationpriority: medium
 ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: 41b6e677db10ef8e5d12f9240d3450f085ee6d91
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "60124274"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133833"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Azure Marketplace 제품에 대한 구독 판매
 

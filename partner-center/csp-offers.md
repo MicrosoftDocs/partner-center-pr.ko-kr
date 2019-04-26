@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586716"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134813"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 
 

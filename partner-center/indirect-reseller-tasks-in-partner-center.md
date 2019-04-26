@@ -1,7 +1,7 @@
 ---
 title: CSP에서 간접 공급자와 파트너 되기 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객 지원 및 청구를 제공할 수 있는 간접 공급자(배포자라고도 함)와 협력합니다.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587786"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134453"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 
@@ -39,7 +39,7 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 > [!NOTE]  
 > 유일한 고객 지원을 제공 해야 사용자는 이미 등록 된 경우 CSP, 파트너 센터는 리셀러가 계정을 만드는 데 필요한 정보를 문의 하십시오. 
 
-### <a name="before-you-begin"></a>시작하기 전에
+### <a name="before-you-begin"></a>시작하기 전 주의 사항
 
 CSP를 처음 접하는 경우 파트너 센터 계정을 만들고 간접 재판매자를 프로그램에 등록 해야 합니다. 이렇게 하려면 등록 과정에서 다음 정보를 제공해야 합니다. 시작하기 전에 다음 항목을 수집하는 데 몇 분 정도 걸릴 수 있습니다.
 
@@ -71,7 +71,7 @@ Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 로그인하는 데
 
 6.  Partner Membership Center 계정의 암호를 입력한 다음 **로그인**을 선택합니다.
 
-7.  인센티브, 멤버십 혜택 및 역량과 연결된 MPN ID를 사용하여 조직 프로필을 선택합니다. 그러면 Microsoft에서 이 정보를 파트너 센터 계정으로 이동할 수 있습니다. **계속**을 선택합니다.
+7.  인센티브, 멤버십 혜택 및 역량과 연결된 MPN ID를 사용하여 조직 프로필을 선택합니다. 그러면 Microsoft에서 이 정보를 파트너 센터 계정으로 이동할 수 있습니다. 선택 **계속**합니다.
 
 사용하려는 MPN ID가 이 페이지에 나열되지 않는 경우 **취소**를 선택하고 사용하려는 조직 프로필의 사용자 이름 및 암호를 사용하여 다시 로그인합니다. 
 > [!IMPORTANT]  

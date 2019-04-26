@@ -1,18 +1,18 @@
 ---
 title: 고객 계정 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 재판매인 파트너는 파트너 센터에서 각 고객의 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c426f55ac22a1ea497ce6f886874587dcbfcdc6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 41cedac945f71ab0b381f4aa5b22a86a07e97173
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585776"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134693"
 ---
 # <a name="customer-accounts"></a>고객 계정
 

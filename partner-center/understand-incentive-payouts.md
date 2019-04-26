@@ -1,17 +1,17 @@
 ---
 title: 인센티브 지급액에 대한 이해 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 인센티브 프로그램의 수익 및 지급액을 보세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585386"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132903"
 ---
 # <a name="incentive-payouts-overview"></a>인센티브 지급 개요
 
@@ -106,7 +106,7 @@ ms.locfileid: "57585386"
 |EarningID      |각 수익 품목에 대해 생성된 고유 식별자 |               
 |파트너 이름   | 파트너 센터에 등록된 파트너 이름                    |
 |MPN/PCN        |MPN ID(파트너의 Microsoft 파트너 네트워크 ID)/공용 고객 번호|
-|위치       | 파트너 MPN V-Org ID의 국가/지역|
+|Location       | 파트너 MPN V-Org ID의 국가/지역|
 |프로그램 이름   |인센티브 프로그램 이름 |
 |고객 이름  |   고객의 이름 |
 |고객 위치  | 고객이 위치한 국가  |
@@ -151,7 +151,7 @@ ms.locfileid: "57585386"
 |-------------------|:--------------------|
 |파트너 이름|파트너 센터에 등록된 파트너 이름|
 |MPN/PCN        |MPN ID(파트너의 Microsoft 파트너 네트워크 ID)/공용 고객 번호|
-|위치       | 파트너 MPN V-Org ID의 국가/지역|
+|Location       | 파트너 MPN V-Org ID의 국가/지역|
 |프로그램 이름   |인센티브 프로그램 이름 |
 |수익 유형   |수익 유형(리베이트, 조정) |
 |지급액 통화|   지급에 사용되는 통화 유형|

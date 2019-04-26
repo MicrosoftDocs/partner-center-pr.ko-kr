@@ -1,17 +1,17 @@
 ---
 title: 재판매인 또는 고객과의 관계 제거 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 관계를 제거하면 파트너 센터의 보기에서 완료된 비즈니스 관계가 모두 제거됩니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 0d5548a2784b7952174165df80516758e58ab633
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587906"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134103"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>재판매인 또는 고객과의 관계 제거
 

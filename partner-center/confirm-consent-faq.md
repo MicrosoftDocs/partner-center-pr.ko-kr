@@ -1,22 +1,22 @@
 ---
 title: Microsoft 클라우드 계약에 대한 고객의 동의 여부 확인 FAQ | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 고객 승인 확인에 대 한 FAQ
 author: LauraBrenner
 ms.author: v-petand
 keywords: 고객, 고객, 동의 FAQ, MCA, Microsoft Cloud 계약
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587406"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135013"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft 클라우드 계약에 대한 고객의 동의 여부 확인 FAQ
 
--   [프로세스](##processfaq)
+-   [처리](##processfaq)
 
 -   [정책](#policyfaq)
 
@@ -57,7 +57,7 @@ Microsoft는 제공 된 고객 전자 메일 주소가 올바른 형식 인지 �
 
 **Microsoft 고객은 Microsoft Cloud 계약에 동의한 있는지 확인 하는 파트너를 요구 하는 이유는?** 
 
-Microsoft Cloud 계약 고객의 사용 권한, 약관 및 Microsoft 클라우드 제품 및 서비스 주문에 대 한 부여 조건을 제공 하 여 파트너, 고객 및 Microsoft를 보호 합니다. 
+Microsoft 클라우드 계약은 Microsoft 클라우드 제품과 서비스 주문에 대해 부여되는 고객의 사용 권한, 사용 약관과 조건을 제공함으로써 파트너, 고객 및 Microsoft를 보호합니다. 
 
 Microsoft Cloud 계약의 올바른 실행 파트너, 고객 및 Microsoft를 비롯 한 여러 중요 한 항목에 상호 맞춤 함으로써 보호 보안, 개인 정보 및 데이터 보호에 제한 되지 않음. 확인 프로세스 투명도 및 맞춤을 확인 하 고 더 신속 하 게 규정 질문에 응답 해야 하는 고객을 지원 하기 위해 Microsoft를 허용 합니다.
 
@@ -91,7 +91,7 @@ CSP 파트너 트랜잭션은 확인 하려는 경우 Microsoft 클라우드 계
 
 **해당 새 구매에서 별도 기존 고객에 대 한 동의 확인 하거나 추가 사용자 수 있나요?**
 
-예. Microsoft 클라우드 계약에서 설명 하는 모든 고객에 대 한 고객의 동의 확인할 수 있습니다.
+예 Microsoft 클라우드 계약에서 설명 하는 모든 고객에 대 한 고객의 동의 확인할 수 있습니다.
 
 **여러 CSP 파트너는 고객에 대 한 요구 사항은 무엇입니까?**
 

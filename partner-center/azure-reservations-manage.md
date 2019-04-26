@@ -1,19 +1,19 @@
 ---
 title: 고객을 대신하여 Azure 예약 구입 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 고객의 Azure 예약 구매 후 관리 하려면 고객 및 파트너 센터에서 관리 하려는 예약을 선택 하 고 Azure portal에서 예약 하 고 변경 됩니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, 예약, 관리, 결제, 구입, 취소, exchange, 조기 종료 수수료
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584506"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134793"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신하여 Microsoft Azure Reservations 관리
 
@@ -31,12 +31,12 @@ ms.locfileid: "57584506"
 
 3. **작업** 아래에서 **관리**를 선택하여 Azure Portal의 고객의 예약 기록으로 이동합니다. 예약 세부 정보 페이지에서 작업을 완료 하려면 다음 단계를 수행합니다.  
 
-    | **선택**   | **To**    |
+    | **Select**   | **대상**    |
     |:-----------------------------|:-----------------|
     | **개요**   | 만료 날짜, 범위 및 사용 데이터를 포함하여 고객 예약에 대한 세부 정보를 확인합니다. **참고** **환불**을 선택하여 비례 배분 방식 환불을 위한 지원 요청을 만듭니다. **교환**을 선택하여 예약 기간 중 미사용 부분을 교환하기 위한 지원 요청을 만듭니다.  
     | **액세스 제어 (IAM)**   | 고객의 예약 정보에 대한 액세스를 관리합니다.|
-    | **구성**   | 예약의 범위와 예약이 연결된 Azure 구독을 변경합니다.    |
-    | **속성**   | 예약 속성을 확인하고 클립보드에 예약 ID와 예약 주문 ID를 복사합니다. **참고** 고객을 대신하여 지원을 요청하면 지원 팀에서 예약 ID 및 예약 주문 ID를 물어볼 것입니다.    |
+    | **Configuration**   | 예약의 범위와 예약이 연결된 Azure 구독을 변경합니다.    |
+    | **Properties**   | 예약 속성을 확인하고 클립보드에 예약 ID와 예약 주문 ID를 복사합니다. **참고** 고객을 대신하여 지원을 요청하면 지원 팀에서 예약 ID 및 예약 주문 ID를 물어볼 것입니다.    |
     | **새 지원 요청**    | Microsoft 지원 팀에 도움을 요청합니다.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>예약 취소 또는 교환 
@@ -55,7 +55,7 @@ ms.locfileid: "57584506"
 
 |**취소 날짜**<br> (일)   |**Usage**    |**크레딧**  |**조기 종료**<br> 요금    |**환불 단면** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 개 이하의                         | 아니오          | 100%       | 아니오                              | 50,000 USD   |
+|5 개 이하의                         | 아니오          | 100%       | 아니요                              | 50,000 USD   |
 |5 개 이하의                         | 예         | 비례 배분  | 아니오                              | 50,000 USD   |
 |5 개                        | 아니오          | 비례 배분  | 12%                             | 50,000 USD   |
 |5 개                        | 예         | 비례 배분  | 12%                             | 50,000 USD   |

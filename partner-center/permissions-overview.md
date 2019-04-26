@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: medium
 ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682491"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133903"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 

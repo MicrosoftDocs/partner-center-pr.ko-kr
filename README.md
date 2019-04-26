@@ -1,5 +1,13 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132943"
+---
 # <a name="youve-added-your-first-readme-file"></a>첫 번째 추가 정보 파일을 추가 했습니다.
-README.md 파일을 프로젝트에 수행할 수 있는 판독기를 신속 하 게 것입니다.  Markdown이 신 가요? [자세한 내용](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
+README.md 파일을 프로젝트에 수행할 수 있는 판독기를 신속 하 게 것입니다.  Markdown이 신 가요? [자세히 알아보기](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
 ## <a name="edit-this-readme-and-commit-your-change-to-a-topic-branch"></a>이 추가 정보를 편집 하 고 토픽 분기에 변경 내용을 커밋합니다
 Git에서 분기는 저렴 합니다.  리포지토리에 변경 내용을 변경 하려는 때마다 하를 사용 해야 합니다.  편집 아이콘을 클릭 하 여이 파일을 편집 합니다.
@@ -17,7 +25,7 @@ Git에서 분기는 저렴 합니다.  리포지토리에 변경 내용을 변�
 
 추가 세부 정보, 마쳤으면 "만들기 끌어오기 요청"을 클릭 합니다. 끌어오기 요청을 보낸 후 검토자 수 변경 사항을 확인, 수정, 권장 또는 후속 커밋을 푸시합니다
 
-처음으로 끌어오기 요청을 만드는?  [자세한 내용](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
+처음으로 끌어오기 요청을 만드는?  [자세히 알아보기](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
 ### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>축하합니다. 코드 허브 그랜드 둘러보기를 완료 했습니다.
 

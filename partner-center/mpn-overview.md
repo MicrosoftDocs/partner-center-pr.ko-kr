@@ -1,19 +1,19 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft 파트너의 혜택에 대해 알아보세요. 시장으로 이동 하 및 솔루션을 판매 하는 옵션, 비즈니스를 차별화을 광범위 한 업계 뿐만 아니라 프로그램의 제품 수 Microsoft 파트너 네트워크 제공 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584106"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134343"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
@@ -73,5 +73,5 @@ Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 �
 - [파트너 센터에서 MPN 혜택 관리](manage-your-partner-network-benefits.md)
 - [핵심 요구 사항](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 - [Microsoft 파트너 비즈니스 성장](grow-your-business.md)

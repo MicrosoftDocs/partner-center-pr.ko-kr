@@ -6,11 +6,11 @@ description: 모범 사례 및 요구 사항을 지원 고객에 게 제공 합�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585786"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132543"
 ---
 # <a name="customer-support"></a>고객 지원 센터
 
@@ -50,7 +50,7 @@ ms.locfileid: "57585786"
 
 -   [기술 지원 제공](provide-technical-support.md)
 -   [청구 지원 제공](provide-billing-support.md)
--   [고객 셀프 서비스 지원](customer-self-support.md)
+-   [고객 자가 지원](customer-self-support.md)
 
  
 ### <a name="escalate-a-customer-issue-to-21vianet"></a>21Vianet 고객 문제를 에스컬레이션 

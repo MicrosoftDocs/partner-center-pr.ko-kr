@@ -1,18 +1,18 @@
 ---
 title: 파트너 센터의 데이터 및 분석 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너 센터에서 데이터 기능을 사용하면 고객의 비즈니스를 더 잘 이해할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 데이터, 분석, 데이터 분석, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587076"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135603"
 ---
 # <a name="get-data-and-analyze-your-business"></a>데이터 수집과 비즈니스 분석 
 
@@ -36,7 +36,7 @@ CSP 비즈니스를 개발하기 위한 계획 과정에서 Microsoft 제품을 
 
 |**데이터를 가져오려면**   |**이 다운로드**   |**이 읽기**   | **적용 대상**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|구객이 구입한 라이선스를 사용하는 방법   |파트너 센터에서 배포 및 사용 현황 데이터 = > 제품 분석   |[채택 및 만족도 증가](increasing-adoption-and-satisfaction.md)|CSP 파트너|
+|구객이 구입한 라이선스를 사용하는 방법   |파트너 센터에서 배포 및 사용 현황 데이터 = > 제품 분석   |[채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)|CSP 파트너|
 |구독과 관련된 고객 활동   |활동 로그   |[고객 활동 로그 보기](activity-logs.md)|CSP 파트너   |
 |고객 기반, 사용량, Azure 소비 등의 증가   |Power BI용 파트너 센터 앱   |[Power BI (in CSP 직접 파트너)에 대 한 파트너 센터 분석 앱](power-bi-app-for-direct-partners.md)|CSP 직접 파트너|
 

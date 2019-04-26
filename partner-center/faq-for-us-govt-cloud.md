@@ -1,17 +1,17 @@
 ---
 title: Microsoft Cloud for US Government를 위한 파트너 센터에 대한 FAQ | Microsoft Cloud for US Government를 위한 파트너 센터에 대한 FAQ
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP) 프로그램에 대한 자세한 내용은 FAQ를 참조하세요. 추가 정보는 고객 담당 관리자에게 문의하시기 바랍니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3738ea042532e4479f60203b3ca58cd902a29435
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 1f8d5f39c2ac00049c9e63de21f18afa6bed8b18
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586146"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135443"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government용 파트너 센터에 대한 FAQ
 
@@ -31,7 +31,7 @@ Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP
 
 **미국 정부용 Microsoft Cloud에 대 한 CSP 프로그램에 대 한 적격 사람은 누구 인가요?**
 
-미국의 연방, 주 및 지방 정부 기관에 종사하며 행정 기능을 지닌 미국 파트너는 Microsoft 정부 클라우드를 위한 CSP 프로그램 자격 대상에 해당합니다. Microsoft는 엄격한 인증 프로그램을 통해 자격을 확인한 후 파트너에게 Microsoft 정부 클라우드 액세스를 허가합니다. 자격 요구 사항을 충족하려면 정부가 당사 고객임을 증명해야 합니다. Microsoft Cloud for US Government를 위한 CSP 프로그램 등록 프로세스를 보강하여 추가 데이터를 캡처해 인증을 실행합니다. 증명 유형에는 정부 계약 번호와 정부 고객의 후원 서신이 포함될 수 있으나 이에 국한되지는 않습니다.
+미국의 연방, 주 및 지방 정부 기관에 종사하며 행정 기능을 지닌 미국 파트너는 Microsoft 정부 클라우드를 위한 CSP 프로그램 자격 대상에 해당합니다. Microsoft는 엄격한 인증 프로그램을 통해 자격을 확인한 후 파트너에게 Microsoft 정부 클라우드 액세스를 허가합니다. 자격 요구 사항을 충족하려면 정부가 당사 고객임을 증명해야 합니다. 미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램 등록 프로세스를 보강하여 추가 데이터를 캡처해 인증을 실행합니다. 증명 유형에는 정부 계약 번호와 정부 고객의 후원 서신이 포함될 수 있으나 이에 국한되지는 않습니다.
 
 **고객은 가격이 동일 CSP 상용?**
 
@@ -39,7 +39,7 @@ Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP
 
 **같은 파트너 할인이 모델 입니까?**
 
-예. 미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램에 대한 파트너 할인 모델은 CSP Commercial과 동일합니다.
+예 미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램에 대한 파트너 할인 모델은 CSP Commercial과 동일합니다.
 
 **상용 CSP는 기존 파트너 프로그램입니다. 다른 Microsoft Government 클라우드 용 CSP 프로그램은 어떻게?**
 
@@ -97,7 +97,7 @@ Microsoft 정부 클라우드를 위한 CSP 프로그램 판매에 요구되는 
 
 **저는 기존 파트너입니다. 미국 정부용 Microsoft 클라우드를 판매 하기 위해 수행 하나요?**
 
-파트너는 규정 및 준수 요구 사항 충족을 위해 Microsoft Cloud for US Government를 위한 CSP 프로그램에 등록해야 합니다. (Microsoft Cloud for US Government와 CSP Commercial 등록은 별도입니다) 등록 후에는 Microsoft Cloud for US Government 내에서 고객을 작성하고 제공되는 상품을 거래할 수 있습니다. API를 사용하는 경우 [Microsoft 국가 클라우드를 위한 파트너 센터 개발](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)을 참조하세요.
+파트너는 규정 및 준수 요구 사항 충족을 위해 Microsoft Cloud for US Government를 위한 CSP 프로그램에 등록해야 합니다. (미국 정부용 Microsoft 클라우드와 CSP Commercial 등록은 별도입니다) 등록 후에는 미국 정부용 Microsoft 클라우드 내에서 고객을 작성하고 제공되는 상품을 거래할 수 있습니다. API를 사용하는 경우 [Microsoft 국가 클라우드를 위한 파트너 센터 개발](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)을 참조하세요.
 
 **파트너 인센티브 간 차이?**
 

@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: 역량, 실버 멤버십, 골드 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십
 ms.localizationpriority: medium
 ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585876"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134413"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>골드 및 실버 멤버십을 위한 Microsoft 역량 요구 사항
 

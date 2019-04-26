@@ -6,11 +6,11 @@ description: 파트너 센터에서 파트너 프로필을 업데이트 하는 �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 4b7090ba6692627c5f2532b3231c818c8bc51453
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586206"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132223"
 ---
 # <a name="update-your-partner-profile"></a>파트너 프로필 업데이트
 

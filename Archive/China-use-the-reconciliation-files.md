@@ -7,11 +7,11 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.openlocfilehash: 30e3b7a7933678c4af079bb86aa1439559387f2b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584986"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132083"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -161,7 +161,7 @@ ms.locfileid: "57584986"
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>합계</td>
+<td>Amount</td>
 <td><p>수량의 가격 합계. 금액 계산이 귀하가 고객에 대해 이 값을 계산하는 방법과 일치하는지를 확인하는 데 유용합니다.</p></td>
 <td>13.32</td>
 </tr>
@@ -435,7 +435,7 @@ ms.locfileid: "57584986"
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>Project</td>
+<td>프로젝트</td>
 <td><p>해당 서비스 인스턴스에 대한 고객 정의 이름</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>

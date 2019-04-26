@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 사전 배포를 계획, software assurance가 포함
 ms.localizationpriority: medium
 ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587926"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133843"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance의 계획 서버
 

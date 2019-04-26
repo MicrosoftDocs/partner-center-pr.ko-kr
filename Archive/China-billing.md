@@ -6,11 +6,11 @@ description: 중국 재판매인은 어떻게 청구에 대해 설명 고객에 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: dc47dbe46be30b2306e242f14b98b19435264863
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584316"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131383"
 ---
 # <a name="billing"></a>청구
 
@@ -68,6 +68,6 @@ ms.locfileid: "57584316"
 **참고 항목** 
 -   [청구서 읽기](read-your-bill.md)
 -   [조정 파일 사용](use-the-reconciliation-files.md)
--   [비 지불, 사기 또는 오용](non-payment-fraud-or-misuse.md)
+-   [미결제, 사기 또는 오용](non-payment-fraud-or-misuse.md)
 -   [중국 CSP 가격 책정 및 제품](see-offers-and-pricing.md)
 

@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 인센티브 클레임, 클레임 co-op co-op 금액을 OSA, ISV, 수익 연결
 ms.localizationpriority: medium
 ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2019
-ms.locfileid: "59619309"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133942"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>파트너 센터에서 OSA 클레임 제출
 

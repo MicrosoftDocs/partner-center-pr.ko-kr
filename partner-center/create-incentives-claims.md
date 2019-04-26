@@ -1,19 +1,19 @@
 ---
 title: 인센티브 클레임을 만들고 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너 센터에서 시작 인센티브 co-op 클레임입니다. 검색 기록에서 클레임 형성에 해당되는 모든 활동을 볼 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586416"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134963"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>인센티브 클레임 생성 및 관리
 

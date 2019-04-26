@@ -1,18 +1,18 @@
 ---
 title: Power BI를 위한 파트너 센터 분석 앱 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Power BI용 파트너 센터 분석 앱을 사용하세요(CSP의 직접 파트너용).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 59e5ce944429a74ab9090952eb877187b169ce08
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587486"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134573"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱으로 비즈니스 데이터 보기
 
@@ -160,7 +160,7 @@ Power BI용 파트너 센터 분석 앱으로 다음을 포함한 비즈니스 �
 
 - **선택한 기간에 대 한 Azure 리소스의 사용량 비용을 예상**: 계량 된 각 리소스는 지난 60 일 동안 선택한 기간에 대 한 각 사용량 기반 구독에 대 한 최신 요금 카드에 따라 예상된 비용입니다. 
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 
 [Power BI 앱 개요에 대 한 파트너 센터 분석](power-bi-app-for-direct-partners.md)
 

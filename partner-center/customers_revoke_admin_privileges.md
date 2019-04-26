@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 위임 된 관리자 권한으로 대신해 서 관리자 권한 DAP, AOBO 제거
 ms.localizationpriority: medium
 ms.openlocfilehash: 9253bcca2d93d9f0d62d6d7241132f0c0c9bf5ec
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586156"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135453"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>고객이 파트너에게 관리 권한을 위임하는 경우
 
@@ -42,7 +42,7 @@ ms.locfileid: "57586156"
 >[!IMPORTANT]  
 >고객에 게 다시 할당 하거나 서비스의 관리 포털에서 관리자 권한을 제거 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이 경우 도움을 받아야 하는 고객을 Microsoft 지원에 문의 고객 대신 서비스 요청을 열려면 합니다.
 
-Office 365 관리 포털 내에서 테 넌 트에 관리자 권한이 있는 파트너가 고객에 게 확인할 수 있습니다. 이렇게 하려면 다음을 수행합니다.
+Office 365 관리 포털 내에서 테 넌 트에 관리자 권한이 있는 파트너가 고객에 게 확인할 수 있습니다. 가상 하드 디스크 파일에 대한 중요 정보를 제공하려면
 
 1. 전역 관리자로 Office 365 관리 포털에 로그인 해야 합니다.
 
@@ -81,7 +81,7 @@ Office 365 관리 포털 내에서 테 넌 트에 관리자 권한이 있는 파
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure 구독 및 리소스 관리
 
-각 Azure 구독에는 고유한 리소스 관리 역할 세트가 있습니다. CSP 파트너가 고객의 Azure 구독을 관리하려면 해당 파트너는 Azure 구독에 대해 하나 이상의 역할에 할당되어야 합니다. 특히 다음 사항에 주의하세요.
+각 Azure 구독에는 고유한 리소스 관리 역할 세트가 있습니다. CSP 파트너가 고객의 Azure 구독을 관리하려면 해당 파트너는 Azure 구독에 대해 하나 이상의 역할에 할당되어야 합니다. 특히 다음에 대한 내용을 설명합니다.
 
 - 고객이 재판매인 초대를 수락하고 파트너에게 위임된 관리 권한을 부여하면 파트너는 고객 테넌트의 기존 Azure 구독에 자동으로 액세스하지 않습니다.
 

@@ -1,18 +1,18 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 업그레이드 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft 파트너 네트워크 멤버십을 업그레이드하면 독점적 회원 혜택을 이용할 수 있는 자격이 부여됩니다. 제공되는 제품을 찾아서 구입하는 방법을 알아보세요.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587676"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132863"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 

@@ -1,18 +1,18 @@
 ---
 title: 고객과의 관계 요청 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585196"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133984"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -61,7 +61,7 @@ Note 국가 또는 동일한 지역 내에서 고객과 대리점 관계를 요�
 | 미국 정부용 Microsoft Cloud에 대 한 파트너 센터 고객 | Microsoft Office 관리자 포털 | Microsoft Office 관리자 포털 |
 |
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 
-- [지원 연락처를 할당 합니다.](assign-support-contacts.md)
+- [지원 담당자 할당](assign-support-contacts.md)
 - [고객과 관계를 제거 합니다.](remove-a-relationship.md)

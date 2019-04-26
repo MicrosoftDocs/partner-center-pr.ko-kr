@@ -1,19 +1,19 @@
 ---
 title: Azure Partner Shared Services 추가 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너가 자신이 사용하기 위한 Azure 구독을 구매할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, 공유 서비스, 테넌트
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
-ms.translationtype: MT
+ms.openlocfilehash: bfdb82d0698f2e0aba3f5284a53fe22010efc0da
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682471"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134953"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services 추가
 
@@ -63,8 +63,8 @@ Azure Partner Shared Services의 새 가격 파일을 보려면 **판매** > **�
 
 |**Marketplace 지원**   |**APSS 2019 년 3 월 1 일 이전에 지원**|**2019 년 3 월 1 일 후**|
 |---------------------------|:----------------------------|:-------------------|
-|사용자 고유의 (BYOL) 라이선스 및 무료 서비스를 제공 합니다.   | 예   | 아니요|
-|다른 제 3 자 marketplace 제품   | 아니요   |아니요|
+|사용자 고유의 (BYOL) 라이선스 및 무료 서비스를 제공 합니다.   | 예   | 아니오|
+|다른 제 3 자 marketplace 제품   | 아니오   |아니오|
 
 
 무료 또는 BYOL 파트너 APSS를 사용 하 여 배포 된 서비스에는 영향이 없습니다. 그러나 2019 년 3 월 1 일 후 이러한 됩니다 새 BYOL 또는 무료 서비스를 구매할 수 있습니다. 

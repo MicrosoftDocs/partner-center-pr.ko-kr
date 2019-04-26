@@ -6,11 +6,11 @@ description: 고객의 사기성 구매 및/또는 구매한 서비스에 대한
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583856"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132553"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
@@ -47,7 +47,7 @@ ms.locfileid: "57583856"
 **참고 항목**
 
 -   [청구 지원 제공](provide-billing-support.md)
--   [고객 지원](customer-support.md) 
+-   [ 고객 지원](customer-support.md) 
 
  
 

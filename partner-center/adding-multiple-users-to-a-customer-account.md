@@ -1,19 +1,19 @@
 ---
 title: 고객 계정에 대한 다수의 사용자 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 쉼표로 구분된 값 파일 형식(.csv)의 데이터 파일을 파트너 센터에 업로드하여 한 번에 고객 계정에 다수의 사용자를 추가할 수 있습니다.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 대량 업로드, 고객 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 사용자 대량 업로드, 고객 계정, 고객 사용자, 사용자
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584246"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134533"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>고객 계정에 여러 사용자 추가
 
@@ -42,7 +42,7 @@ ms.locfileid: "57584246"
 | 이름      | 사용자의 이름(선택적 필드)                                           | 50자 제한                         |
 | 성       | 사용자의 성(선택적 필드)                                            | 50자 제한                         |
 | 표시 이름    | 파트너 센터 (필수 필드)에 표시 된 이름                            | 50자 제한                         |
-| 메일           | 고객 회사의 사용자 회사 메일 주소(필수 필드)           | 각 사용자는 고유한 메일 주소가 있어야 함 |
+| EMail           | 고객 회사의 사용자 회사 메일 주소(필수 필드)           | 각 사용자는 고유한 메일 주소가 있어야 함 |
 | 상태 업데이트   | 새 사용자 레코드가 만들어졌는지를 나타내는 데 사용됨 | \*\*비워 둡니다\*\*                        |
 
  

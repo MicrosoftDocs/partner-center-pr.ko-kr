@@ -1,17 +1,17 @@
 ---
 title: 파트너 센터 계정 관리 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너의 수익과 성장을 도와주는 Microsoft 파트너 인센티브 프로그램
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 6f2f50ac3d965b20b1ee40983c624bde9b04ed5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586996"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134450"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>파트너 센터에서 인센티브 관리 
 
@@ -51,7 +51,7 @@ ms.locfileid: "57586996"
 
 [사용자 계정을 만들고 권한을 할당합니다](create-user-accounts-and-set-permissions.md)
 
-[사용자 암호 재설정](reset-a-user-password.md)
+[사용자 암호 다시 설정](reset-a-user-password.md)
 
 [인센티브 지급에 이해](understand-incentive-payouts.md)
 

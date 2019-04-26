@@ -1,20 +1,20 @@
 ---
 title: '교육 고객에게 Minecraft: Education Edition 구독 판매'
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: '적격한 교육 고객에게 Minecraft: Education Edition 구독을 판매하세요.'
 author: LauraBrenner
 ms.author: labrenne
 keywords: 인증 된 교육 파트너, 교육, 교육, 학교용 판매
 ms.localizationpriority: medium
-ms.openlocfilehash: ad5ebefb3ca745e81790af5cfb60de2df91887e5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584896"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134363"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft를 판매 합니다. 교육 고객에 게 교육 버전 구독
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft 판매: 교육 고객에 게 교육 버전 구독
 
 **적용 대상**
 

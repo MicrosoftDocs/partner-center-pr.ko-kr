@@ -1,17 +1,17 @@
 ---
 title: 'Office 365 파트너 관리 센터 고객: 비즈니스 운영이 파트너 센터로 이동됨 | 파트너 센터'
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 파트너 센터로 이동할 때 Office 365 파트너 관리 센터 고객이 고려해야 할 주요 사항
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e2a63828c7fd875c737a650633439a43ab325ed
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587376"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134263"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 고객의 경우: 파트너 센터 비즈니스 작업을 이동할 준비
 
@@ -40,7 +40,7 @@ ms.locfileid: "57587376"
 |   -----------------------------------------------  | -------------- |
 | 비즈니스를 구축 합니다. 구매 제안 만들기 | 공급자와 협력하여 고객에게 제품 판매 |
 | 비즈니스를 구축 합니다. 위임 된 관리자 권한을 요청합니다 | 파트너 센터: 고객 > 대리점 관계 요청 |
-| 비즈니스를 구축 합니다. 평가판 초대 만들기 | 사용할 수 없음. 이 기능을 위해 Office 365 파트너 관리 센터를 계속 사용할 수 있습니다. |
+| 비즈니스를 구축 합니다. 평가판 초대 만들기 | 사용할 수 없습니다. 이 기능을 위해 Office 365 파트너 관리 센터를 계속 사용할 수 있습니다. |
 | 서비스 요청: 클라이언트 목록: Office 365 관리 센터 | 파트너 센터: 고객 > 서비스 관리 |
 | 서비스 요청: 클라이언트 목록: 서비스 요청 | 파트너 센터: 서비스 요청 > 고객 요청 |
 | 서비스 요청: 플래그가 지정 | Dasbhoard: 회사 이름 옆에 있는 별표를 선택 하는 고객의 경우: |

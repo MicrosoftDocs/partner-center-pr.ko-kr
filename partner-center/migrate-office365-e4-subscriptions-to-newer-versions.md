@@ -1,17 +1,17 @@
 ---
 title: Office 365 E4 구독을 Office 365 최신 버전으로 마이그레이션 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft Office 365 Enterprise E4 버전은 2017년 4월 7일부로 사용 중지되었습니다. 고객 구독을 Office 365 최신 버전으로 마이그레이션하는 방법을 알아보세요.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587796"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134383"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 구독을 Office 365 최신 버전으로 마이그레이션
 
@@ -51,10 +51,10 @@ E4와 같은 기능을 그대로 유지할 수도 있고 고객이 Office 365 �
 | 전화 번호를 Office 365에서 관리하나요? | 예 | 예 | 아니오 | 아니오 |
 | 전화 번호를 온-프레미스와 Office 365 모두에서 관리하나요(하이브리드 배포)? | 예 | 예 | 아니오 | 아니오 |
 | PSTN 음성 통화 요금제를 추가할 수 있나요? | 예 | 예 | 아니오 | 아니오 |
-| PSTN 회의가 가능한가요? | 예 | 아니오 | 아니오 | 아니오 |
-| 공동 작업, 분석 및 보안을 위한 고급 도구가 제공되나요? | 예 | 아니오 | 아니오 | 아니오 |
-| 대화형 보고서, 대시보드 및 데이터 시각화가 제공되나요? | 예 | 아니오 | 아니오 | 아니오 | 
-| 기본 프라이버시, 투명성 및 정교한 사용자 컨트롤로 데이터 보안과 규정 준수를 보다 철저하게 제어할 수 있나요? | 예 | 아니오 | 아니오 | 아니오 | 
+| PSTN 회의가 가능한가요? | 예 | 아니오 | 아니요 | 아니오 |
+| 공동 작업, 분석 및 보안을 위한 고급 도구가 제공되나요? | 예 | 아니오 | 아니요 | 아니요 |
+| 대화형 보고서, 대시보드 및 데이터 시각화가 제공되나요? | 예 | 아니오 | 아니요 | 아니오 | 
+| 기본 프라이버시, 투명성 및 정교한 사용자 컨트롤로 데이터 보안과 규정 준수를 보다 철저하게 제어할 수 있나요? | 예 | 아니오 | 아니요 | 아니요 | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>새 제품 계획으로 고객 전환
 

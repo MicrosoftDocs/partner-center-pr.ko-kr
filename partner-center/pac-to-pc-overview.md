@@ -1,18 +1,18 @@
 ---
 title: 파트너 관리 센터에서 파트너 센터로 이동 준비 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 파트너 관리 센터 기능이 파트너 센터로 이동됩니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 관리자, 관리자, 신디케이션 파트너 PAC 사용 중지, PAC 사용 중지
 ms.localizationpriority: medium
-ms.openlocfilehash: d96eca0fcaccc58745f77963e664dc830fcbfe97
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 738e8a87ae75c61c32f571db1c5af529c3d3d216
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587426"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134213"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 센터로 이동 하는 파트너 관리 센터
 

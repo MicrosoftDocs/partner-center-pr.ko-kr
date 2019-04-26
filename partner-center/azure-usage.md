@@ -1,19 +1,19 @@
 ---
 title: 최대 예약 사용량에 대 한 Microsoft Azure VM 크기 조정 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 고객을 대신하여 Microsoft Azure 예약을 구입하는 경우에는 고객의 컴퓨팅 요구를 충족하도록 크기가 조정된 가상 컴퓨터(VM)를 선택해야 합니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cbe24b3da0b9cadf1ed9e8d9f06b5b575bf16d22
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586966"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135543"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용량에 맞게 Microsoft Azure VM 크기 조정 
 
@@ -108,7 +108,7 @@ ms.locfileid: "57586966"
     
     b.  예약 사용률이 0%인 경우에는 어떤 가상 컴퓨터에도 할인이 적용되지 않습니다. 
     
-    c.  예약의 사용률이 1% ~ 99%인 경우에는 미사용 혜택이 존재합니다. 
+    다.  예약의 사용률이 1% ~ 99%인 경우에는 미사용 혜택이 존재합니다. 
 
 5.  이런 상황을 방지하려면 구입에 앞서 고객의 컴퓨팅 요구를 지원할 수 있는 올바른 크기의 VM을 결정해야 합니다.
 

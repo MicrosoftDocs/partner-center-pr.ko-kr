@@ -6,11 +6,11 @@ description: 기대할 수 있는 21Vianet 중국 클라우드 솔루션 공급�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 915db47a21e2fd4f3f484c7bfc82eb3fb35ae1f0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584426"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132183"
 ---
 # <a name="enroll-in-the-21vianet-china-csp-reseller-program"></a>21Vianet 중국 CSP 재판매인 프로그램에 등록
 
@@ -22,7 +22,7 @@ ms.locfileid: "57584426"
 
 >**중요**<br>21Vianet 중국 CSP 프로그램에 등록 하는 동안 등록 요청 검토, 신용 확인을 실행 하 고 파트너 센터 계정 만들기를 완료 하려면 몇 주가 걸릴 수 있습니다 다중 단계 프로세스입니다.
 
-## <a name="before-you-begin"></a>시작하기 전에
+## <a name="before-you-begin"></a>시작하기 전 주의 사항
 
 등록 과정에서 다음 정보를 제공 해야 합니다. 등록 프로세스를 시작 하기 전에 이러한 항목을 한편가 좋습니다. 
 
@@ -37,7 +37,7 @@ ms.locfileid: "57584426"
 
 2. 선택 또는 조직의 회사 또는 학교 계정에 대 한 전역 관리자 자격 증명을 로그인 **만드십시오** 새 회사 또는 학교 계정을 만들려면.
 
-3. 에 **파트너 센터 계정을 만들** 페이지에서 조직 세부 정보를 입력 하 고 다음 전역 관리자 권한이 있고 파트너 센터에 액세스 하려면 조직에서 사용자에 대 한 세부 정보를 입력 합니다. **계속**을 선택합니다.
+3. 에 **파트너 센터 계정을 만들** 페이지에서 조직 세부 정보를 입력 하 고 다음 전역 관리자 권한이 있고 파트너 센터에 액세스 하려면 조직에서 사용자에 대 한 세부 정보를 입력 합니다. 선택 **계속**합니다.
 
     >**참고**<br>만든 첫 번째 파트너 센터 계정을 전역 관리자 계정이 됩니다. 전역 관리자가 파트너 센터의 모든 관리 기능에 액세스할 수 되며 관리자만 다른 관리자 역할을 할당할 수 있습니다. 조직에서 둘 이상의 전역 관리자를 사용할 수 있습니다, 소수의 사용자만 회사의 비즈니스 위험을 줄이기 위해이 역할이 있는지를 켜는 것이 좋습니다.
     

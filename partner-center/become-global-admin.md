@@ -1,17 +1,17 @@
 ---
 title: 회사에 대 한 전역 관리자가 될 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 다양 한 파트너 센터에서 작업을 하려면 먼저 도메인의 소유권을 확인 해야 합니다. 파트너 센터에서 많은 작업에는 전역 관리자 필요 작성할 수 있게 될 경우 회사에 하나 아직 하나입니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 도메인에 도메인 확인, 도메인, 전역 관리자, 사용자 역할, 권한 확인
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584116"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135413"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
 

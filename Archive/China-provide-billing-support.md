@@ -6,11 +6,11 @@ description: 귀사는 고객과 청구 관계를 맺고 있으므로 고객의 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585766"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132453"
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 
@@ -31,7 +31,7 @@ ms.locfileid: "57585766"
 
 **참고 항목**
 
--   [비 지불, 사기 또는 오용](non-payment-fraud-or-misuse.md)
+-   [미결제, 사기 또는 오용](non-payment-fraud-or-misuse.md)
 -   [기술 지원 제공](provide-technical-support.md)
--   [고객 지원](customer-support.md)
+-   [ 고객 지원](customer-support.md)
 

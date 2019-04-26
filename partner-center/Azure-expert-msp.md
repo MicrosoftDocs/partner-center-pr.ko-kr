@@ -9,11 +9,11 @@ Keywords: Azure 영업, 프로그램 전문가, 파트너 프로그램
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584216"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134553"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure 전문가 관리 서비스 공급자 프로그램
 

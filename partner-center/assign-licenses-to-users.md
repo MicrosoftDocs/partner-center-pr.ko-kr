@@ -1,19 +1,19 @@
 ---
 title: 고객 계정에 대한 사용자 관리 작업 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 고객을 위한 새 구독을 구입한 후 특정 사용자에게 라이선스를 할당할 수 있습니다.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 고객 관리, 계정, 계정에 라이선스를 만들기, 라이선스, 사용자 관리, 암호를 할당, 암호 재설정, 암호 변경
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586756"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134873"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
@@ -93,7 +93,7 @@ ms.locfileid: "57586756"
 ## <a name="related-topics"></a>관련 항목
 
 
-[할당 하거나 여러 사용자에 게 라이선스를 해지](bulk-license-provisioning-for-multiple-users.md)
+[여러 사용자에게 라이선스 할당 또는 해지](bulk-license-provisioning-for-multiple-users.md)
 
 [고객 계정에 대 한 여러 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 

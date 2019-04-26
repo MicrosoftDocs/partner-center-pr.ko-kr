@@ -6,11 +6,11 @@ description: 중국 클라우드 솔루션 공급자 대리점 고객에 게 기
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d3e32af7f96f2261e3e03550dd5519258a58dec6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584296"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132633"
 ---
 # <a name="provide-technical-support"></a>기술 지원 제공
 
@@ -52,8 +52,8 @@ ms.locfileid: "57584296"
 **참고 항목**
 
 -   [청구 지원 제공](provide-billing-support.md)
--   [고객 셀프 서비스 지원](customer-self-support.md)
--   [고객 지원](customer-support.md)
+-   [고객 자가 지원](customer-self-support.md)
+-   [ 고객 지원](customer-support.md)
 
 
  

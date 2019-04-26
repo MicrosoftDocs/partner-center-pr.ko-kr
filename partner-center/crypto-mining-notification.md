@@ -1,19 +1,19 @@
 ---
 title: Crypto 마이닝 작업에 대 한 파트너 센터 알림을 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 진행 중인 잠재적인 암호화 마이닝에 대한 알림입니다.
 author: LauraBrenner
 ms.author: v-petand
 Keywords: 암호화-마이닝 가상 통화 마이닝, 보안
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587496"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135062"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>가상 통화 마이닝 작업에 대 한 파트너 센터 알림
 

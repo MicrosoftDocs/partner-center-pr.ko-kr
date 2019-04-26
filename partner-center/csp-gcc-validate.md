@@ -1,17 +1,17 @@
 ---
 title: Office 365 Government GCC 파트너 및 고객 자격 기준 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: CSP용 Office 365 Government GCC에 대해 파트너 및 고객을 검증하기 위한 절차입니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586956"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134853"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP용 Office 365 Government GCC 파트너 및 고객 자격 기준
 
@@ -40,7 +40,7 @@ CSP용 Office 365 Government GCC 파트너 및 고객은 아래에 설명된 특
 2.  GSA 또는 기타 계약 수단을 통해 미국 정부 고객 지원
 
 **고객 기준**
-1.  정부 산하 단체. 예를 들어 다음과 같은 가치를 제공해야 합니다.
+1.  정부 산하 단체. 이는 아래와 같이 함수의 반환값을 데이터 프레임으로 바로 변환하는 데 사용할 수 있음을 나타냅니다.
  
     -  연방 정부 기관(예: 미국 정부의 국, 부서, 부처 또는 기타 단체)
     -   주/지방 단체 

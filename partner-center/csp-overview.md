@@ -1,18 +1,18 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 클라우드 솔루션 공급자 프로그램을 통해 신규 고객 및 새로운 전문 지식으로 비즈니스를 성장시킬 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584196"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134753"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 
 
@@ -68,13 +68,13 @@ CSP 고객을 대신 하 여 제공을 주문할 수 있습니다, 전에 고객
 
 [Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 이번 달에 CSP 제공을 확인 하려면 파트너 센터에 로그인 하 고 다음으로 이동 합니다 [ **가격 책정 및 제품** ](https://partnercenter.microsoft.com/pcv/sales) 페이지입니다.
 
-## <a name="see-also"></a>참고 항목 
+## <a name="see-also"></a>참조 
 
 
 |**이 자세히 알아보려면**   |**이 읽기**   |
 |:---------------------------|:--------------------|
 |각 CSP 모델에 대한 요구 사항   | [클라우드 솔루션 공급자 프로그램](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |Microsoft의 국가별 클라우드에서 판매   | [국가 클라우드에서 Microsoft 판매에 적용](csp-national-clouds-overview.md)|
-|Microsoft Cloud 계약 고객 템플릿   |[지역 및 언어에 따라 Microsoft Cloud 계약](agreements.md)|
+|Microsoft Cloud 계약 고객 템플릿   |[지역 및 언어별 Microsoft 클라우드 계약](agreements.md)|
 |파트너 센터에서 간접 공급자 작업  |[과 클라우드 솔루션 공급자 프로그램에 간접 재판매인과 거래 파트너](indirect-provider-tasks-in-partner-center.md)|
 |파트너 센터에 있는 간접 재판매자 작업   |[클라우드 솔루션 공급자 프로그램에 대 한 간접 공급자를 사용 하 여 파트너](indirect-reseller-tasks-in-partner-center.md)|

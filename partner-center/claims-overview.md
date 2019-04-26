@@ -1,18 +1,18 @@
 ---
 title: 인센티브 co-op 클레임 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 먼저 활동 계획을 검토할 필요 없이 인센티브 클레임을 제출하세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430112"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135353"
 ---
 # <a name="incentives-co-op-claims-overview"></a>인센티브 협력 클레임 개요
 
@@ -38,6 +38,6 @@ ms.locfileid: "59430112"
 |클레임을 제출한 후에는 추가 문서 요청을 관리|[인센티브 프로그램 작업 클레임을 만들고 설정 합니다.](create-incentives-claims.md)  |
 |활동 클레임을 위한 핵심 요구 사항을 숙지|[인센티브 클레임 핵심 요구 사항을 알으십시오](core-requirements.md)   |
 |인센티브 프로그램의 모든 세부 정보 숙지|[파트너 인센티브 Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
-|OSA 판매 요금 청구 또는 ISV 수익 연결 클레임을 제출 합니다. |[파트너 센터에서 사용자 OSA 클레임을 제출 합니다.](submit-osa-claim.md)|
+|OSA 판매 요금 청구 또는 ISV 수익 연결 클레임을 제출 합니다. |[파트너 센터에서 OSA 클레임 제출](submit-osa-claim.md)|
                                                                                  
                                    

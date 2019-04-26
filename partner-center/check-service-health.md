@@ -1,19 +1,19 @@
 ---
 title: 서비스 상태 확인 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 고객 서비스에 문제가 발생하는 경우 할 수 있는 첫 번째 작업 중 하나가 서비스 상태를 확인하는 것입니다.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 상태, 서비스 상태, 서비스 문제
 ms.localizationpriority: medium
-ms.openlocfilehash: 81e4cb9ed1d866f52767a4fe2a5065d0e595d79d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8557073973b59ebe8129cc0dcf58999b43186aed
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584526"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135333"
 ---
 # <a name="check-service-health"></a>서비스 상태 확인
 
@@ -23,7 +23,7 @@ ms.locfileid: "57584526"
 
 고객 서비스에 문제가 발생하는 경우 할 수 있는 첫 번째 작업 중 하나가 서비스 상태를 확인하는 것입니다.
 
-**Service health 확인**
+**서비스 상태 검사**
 
 1.  **파트너 센터** 메뉴에서 **서비스 상태**합니다. 
 

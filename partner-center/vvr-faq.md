@@ -1,18 +1,18 @@
 ---
 title: 바우처 유효성 검사 도구 FAQ | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 유효성 검사 및 파트너 센터에는 바우처를 예약 합니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance 바우처를 예약 바우처의 유효성을 검사합니다
 ms.localizationpriority: medium
-ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "58863991"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132589"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: 바우처 유효성 검사 및 사용 도구 사용 
 

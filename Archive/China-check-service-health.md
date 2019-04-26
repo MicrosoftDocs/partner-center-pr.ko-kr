@@ -6,11 +6,11 @@ description: 고객 서비스에 문제가 발생하는 경우 할 수 있는 �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d2f17918f6679cbfb6c299dccec2f84855f1140d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584146"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132003"
 ---
 # <a name="check-service-health"></a>서비스 상태 확인
 
@@ -31,5 +31,5 @@ ms.locfileid: "57584146"
 
 **참고 항목**
 
--   [고객 셀프 서비스 지원](customer-self-support.md)
--   [고객 지원](customer-support.md)
+-   [고객 자가 지원](customer-self-support.md)
+-   [ 고객 지원](customer-support.md)

@@ -1,18 +1,18 @@
 ---
 title: 다중 채널 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 경우에 따라 고객이 다른 곳에서 구입한 구독을 프로비전 및 지원하기 위해 귀사를 고용하려 할 수도 있습니다.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587086"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134283"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
@@ -52,7 +52,7 @@ ms.locfileid: "57587086"
 > [!IMPORTANT]  
 > 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 파트너 센터를 포함 하 여 일반적인 통신 채널을 통해 기능 릴리스에 대 한 모든 공지를 발표 될 예정입니다. 
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 
 [다른 파트너와 협력](work-with-other-partners.md)
 

@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: 서비스 요청을 서비스 티켓 지원, 권한, aobo Azure aobo를 지원 합니다.
 ms.localizationpriority: medium
 ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584496"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134063"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 

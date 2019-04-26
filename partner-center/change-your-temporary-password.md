@@ -1,18 +1,18 @@
 ---
 title: 임시 암호 변경 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 임시 암호를 받는 즉시 파트너 센터에 로그온하여 임시 암호를 변경하세요.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 임시 암호, 암호 변경, 암호 재설정
 ms.localizationpriority: medium
-ms.openlocfilehash: 85f222a22b779a19c776f5c11e18e532311fa3f3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 7f2eb404182919091d28a8b18be5239acbcc90ee
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584486"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135363"
 ---
 # <a name="change-your-temporary-password"></a>임시 암호 변경
 

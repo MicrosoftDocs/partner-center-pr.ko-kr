@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 제품의 제품에 새 Dynamics 365 Sku 갱신
 ms.openlocfilehash: ca1823c4055e2d89edc5c49e900a1c255a94f59a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584626"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134373"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition 제안을 최신 버전으로 마이그레이션 
 

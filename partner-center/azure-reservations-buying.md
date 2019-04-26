@@ -1,19 +1,19 @@
 ---
 title: 고객을 대신하여 Microsoft Azure 예약 구입 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입할 수 있습니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8ee2fcf44d66001d3c8a7323467bda22bc5b2b6b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584716"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134683"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
@@ -23,7 +23,7 @@ ms.locfileid: "57584716"
 -  Microsoft Azure portal
 -  CSP 파트너
 
-## <a name="before-you-begin"></a>시작하기 전에
+## <a name="before-you-begin"></a>시작하기 전 주의 사항
 
 고객을 대신해 Azure 예약을 구입 하기 전에 아래 중요 한 정보를 검토 합니다.
 
@@ -103,7 +103,7 @@ ms.locfileid: "57584716"
 
     b. 선택할 **예약** 제품에서 **형식** 목록입니다.
 
-    c. 예약에서 고객이 원하는 유형을 선택 합니다 **예약 유형** 목록입니다.
+    다. 예약에서 고객이 원하는 유형을 선택 합니다 **예약 유형** 목록입니다.
 
 4. Azure 예약을 위해서는 반드시 Azure 구독 상태여야 합니다. 고객 구독에서 Azure 예약을 추가 하려면 선택 합니다 **고객 구독** 목록입니다. 
 

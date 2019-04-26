@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587616"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133862"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Software Assurance 프로그램에 참여
 
@@ -20,7 +20,7 @@ Software Assurance 교육 과정 수 강권 (SATV) 및 서비스 계획을 비�
 |**에 대해 자세히 알아보려면**   |**이 읽기**   |
 |--------------------------|:------------------|
 |Software Assurance 교육 과정 수 강권 (SATV) 프로그램에 등록|[파트너 센터에서 software Assurance 교육 과정 수 강권 (SATV) 프로그램](software-assurance-satv.md)|
-|바우처 유효성 검사 및 상환 도구를 사용 하 여|[파트너 센터에서 무료 수 강권 유효성 검사 및 상환 도구를 사용 하 여 유효성 검사, 예약 및 바우처 상환](voucher-validation-tool.md)|
+|바우처 유효성 검사 및 사용 도구 사용|[파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)|
 |Software Assurance 서비스 계획에 등록|[파트너 센터에서 software Assurance 계획 서비스](software-assurance-dps.md) 
 
 

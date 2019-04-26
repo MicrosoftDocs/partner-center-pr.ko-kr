@@ -1,19 +1,19 @@
 ---
 title: 다수의 사용자에게 라이선스 할당 및 해지 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 라이선스 할당, 라이선스를 해지 하 고, 여러 사용자에 게 할당
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584256"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135343"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
@@ -25,7 +25,7 @@ ms.locfileid: "57584256"
 
 파트너 센터를 추적 하 고 모든 고객이 소유한 라이선스 자격을 보여 줍니다.
 
-## <a name="in-this-section"></a>이 섹션의 내용
+## <a name="in-this-section"></a>단원 내용
 
 
 -   [여러 사용자에 게 라이선스를 할당 합니다.](#assign-licenses-to-groups)

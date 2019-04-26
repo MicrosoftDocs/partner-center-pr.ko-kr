@@ -10,11 +10,11 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587106"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134629"
 ---
 # <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>파트너 센터에 Partner Membership Center에서 파트너 멤버 자격 계정을 전환합니다
 
@@ -56,7 +56,7 @@ ms.locfileid: "57587106"
 
   Partner University에 대 한 지속적인된 액세스를 확인 하 고 역량에 대 한 정규화를 비즈니스 프로필에 직원의 학습 자격 증명을 연결 합니다.
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 
 PMC에서 계정으로 전환 했습니다. 한 후 파트너 센터에 더욱 익숙해지려면 다음이 문서를 검토 합니다.
 

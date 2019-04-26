@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533856"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135095"
 ---
 # <a name="consolidate-your-company-accounts"></a>회사 계정 통합
 
@@ -35,4 +35,4 @@ PMC에서 자체 역량, 자체 MAPs 및 기타 혜택 특정 위치에 있는 �
 
 파트너 센터에서 모든 위치 계정을 하나의 계정으로 통합 하기 때문에 장점과 역량 통합 됩니다도 합니다. 
 
-PMC 및 파트너 센터의 차이점에 대 한 정보 읽기에 대 한 [PMC에서 파트너 센터로 이동](pmc-pc-map.md)
+PMC 및 파트너 센터의 차이점에 대 한 정보 읽기에 대 한 [PMC에서 파트너 센터로 이동](pmc-to-partner-center.md)

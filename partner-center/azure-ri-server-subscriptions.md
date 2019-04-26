@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Azure, 구독, 예약 VM 인스턴스를 예약
 ms.localizationpriority: medium
 ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586406"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135403"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,7 +24,7 @@ ms.locfileid: "57586406"
  
 ## <a name="what-are-azure-reservations"></a>Azure 예약 이란?
 
-가상 머신, SQL Database 3 년 계산 용량, Azure Cosmos DB 처리량 또는 다른 Azure 리소스 또는 azure 예약 1 년에 대 한 사전 지불 하 여 비용을 절감할 수 있습니다. 사전 지불 사용 하는 리소스에서 할인을 받을 수 있습니다. 예약 가상 컴퓨터, SQL database 계산, Azure Cosmos DB를 크게 줄일 수 있습니다 하 고 다른 리소스에는 종 량 제 가격에 비해 최대 72% 비용입니다. 예약 청구 할인을 제공 하 고 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 참조 하세요. [Azure 예약 이란?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+가상 머신, SQL Database 3 년 계산 용량, Azure Cosmos DB 처리량 또는 다른 Azure 리소스 또는 azure 예약 1 년에 대 한 사전 지불 하 여 비용을 절감할 수 있습니다. 사전 지불을 통해 사용하는 리소스에 대한 할인을 받을 수 있습니다. Azure Reservations를 통해 가상 컴퓨터, SQL 데이터베이스 컴퓨팅, Azure Cosmos DB 및 기타 리소스 비용을 종량제 요금에 비해 최대 72% 절감할 수 있습니다. 예약 청구 할인을 제공 하 고 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 참조 하세요. [Azure 예약 이란?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>고객이 예약을 구매 하는 이유는?
 
@@ -65,12 +65,12 @@ ms.locfileid: "57586406"
 
 **판매 준비**
 
-- [Azure 예약 및 Azure 하이브리드 혜택 개요 (업데이트)를 사용 하 여 서버 구독](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Azure 하이브리드 혜택을 통한 Azure Reservations 및 서버 구독에 대한 개요(업데이트됨)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [판매 시트](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure 예약 (업데이트)에 대 한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Azure 예약 및 SQL DB에 대 한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Azure 개요 (신규)에서 SQL DB](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Azure 가격 책정 개요](https://azure.microsoft.com/pricing/#explore-cost)
+- [Azure Reservations에 대한 파트너 FAQ(업데이트됨)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure Reservations 및 SQL DB에 대한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure에서의 SQL DB 개요(새로 추가됨)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Azure 가격 개요](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 가격 계산기](https://azure.microsoft.com/pricing/calculator/)
 - Azure 예약 가격 목록-파트너 센터에서 Microsoft Azure Reserved Instances 가격 목록을 보려면 [가격 책정 및 제품](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) 페이지입니다.
 - 서버 구독 가격 목록-파트너 센터에서 소프트웨어 구독 가격 목록을 보려면 [가격 책정 및 제품](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) 페이지입니다.
@@ -86,12 +86,12 @@ ms.locfileid: "57586406"
 **작업**
 
 - [상거래 작업 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트):  포괄적인 가이드 키 정책 및 규약과 같은 운영 측면을 다루는 파트너 센터, 송장, 가격 목록 정보, 인센티브, 조정 파일, API/SDK, 샌드박스 및 Azure 파트너 공유 서비스를 통해 순서입니다.
-- [최신 제품 국가 및 고객 통화 매트릭스](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [최신 제품 사용 가능 국가 및 고객 통화표](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [판매 Reserved Instances를 Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=872806)
-- [고객을 대신해 Microsoft Azure 예약 구입](https://go.microsoft.com/fwlink/?linkid=872807)
+- [고객을 대신하여 Microsoft Azure 예약 구입](https://go.microsoft.com/fwlink/?linkid=872807)
 - [Azure 예약에 게 고객 대신 관리](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure 예약에 대 한 청구](https://go.microsoft.com/fwlink/?linkid=872809)
-- [최대 예약 사용량에 대 한 VM 크기 조정](https://go.microsoft.com/fwlink/?linkid=872810)
+- [최대 예약 사용량에 맞게 VM 크기 조정](https://go.microsoft.com/fwlink/?linkid=872810)
 - [파트너 센터 API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="azure-hybrid-benefit"></a>Azure 하이브리드 혜택

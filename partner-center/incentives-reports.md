@@ -1,17 +1,17 @@
 ---
 title: 라이브 데이터 보고는 일부 인센티브 프로그램에 대해 월별 보고 대체 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: OSA 판매 및 온라인 서비스 사용 인센티브 프로그램에서 이제 라이브 데이터 보고를 받을 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 13e904e229ccaadd11e13a278f23ea1aa5088f71
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583846"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134473"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>라이브 데이터 보고는 일부 인센티브 프로그램에 대해 월별 보고 대체
 

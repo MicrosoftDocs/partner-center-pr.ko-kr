@@ -6,11 +6,11 @@ description: 이 항목에서는 새 구독을 추가하거나, 구독에서 실
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 0da5bbf6a5c3259589973e25f592457da7e3e42e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586336"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132343"
 ---
 # <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 
@@ -37,7 +37,7 @@ ms.locfileid: "57586336"
 <tr class="odd">
 <td>시나리오</td>
 <td>설명</td>
-<td>예</td>
+<td>예제</td>
 </tr>
 <tr class="even">
 <td>새 구독</td>

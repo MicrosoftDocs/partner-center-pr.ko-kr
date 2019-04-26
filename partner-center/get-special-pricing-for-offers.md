@@ -1,18 +1,18 @@
 ---
 title: 특수 산업을 대상으로 판매 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft 교육 기관 고객은, 비영리 고객 및 정부 사용자를 포함 하 여 고객의 선택 그룹에 대 한 특수 고 줄어든 가격을 제공 합니다.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585756"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135663"
 ---
 # <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 
@@ -26,7 +26,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 기관을 
 
 |**특별 가격**   |**필요한 대리점 자격**   |**필요한 고객 자격**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|교육   |[공인 교육 판매자](https://www.mepn.com)여야 합니다.   | [적격 Education 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
+|Education   |[공인 교육 판매자](https://www.mepn.com)여야 합니다.   | [적격 Education 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
 |정부   |모든 Azure를 판매하려면 [Microsoft 정부 클라우드 검사 양식](https://azuregov.microsoft.com/csp)을 사용하여 동록을 합니다. 정부에 대한 라이선스 기반 구독을 판매하는 데는 자격이 필요하지 않습니다.|   없음|
 |비영리  |없음<br>비영리 Azure Active Directory 테넌트가 있어야 합니다.<br>[비영리 특별 혜택](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)에 대한 자세한 정보를 알아보세요.   |자격을 갖추기 위해 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register)을 통해 등록하세요.   |
 
@@ -47,9 +47,9 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 기관을 
 
 귀하와 고객이 특별 혜택 프로그램에 대한 자격을 갖추게 되면 단계에 따라 [구독을 추가](create-a-new-subscription.md)합니다. **새 구독** 페이지의 **카탈로그**의 섹션에서 특수 산업을 선택하여 판매할 수 있는 특별한 제품을 확인하세요.
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참조
 
-[Minecraft를 판매 합니다. 교육 고객에 게 교육 버전 구독](minecraft-subscriptions.md)
+[Minecraft: 교육 고객에 게 교육 버전 구독](minecraft-subscriptions.md)
 
 
  

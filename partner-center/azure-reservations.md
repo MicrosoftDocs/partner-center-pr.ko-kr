@@ -9,11 +9,11 @@ keywords: azure, 예약, 관리, 청구, 구입, Azure RI, Azure Reserved Instan
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: e08d83ea931b879bdf4f0b45558a696e166503d3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583876"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134893"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>파트너 센터-Microsoft Azure 판매 예약
 

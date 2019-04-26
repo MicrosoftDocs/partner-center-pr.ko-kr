@@ -1,18 +1,18 @@
 ---
 title: 파트너 기여 - 성과 지표의 최고 수준 유지 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 파트너 참여 데이터를 사용 하 여 비즈니스 성장 및 성공 하는 방법을 이해 하려면
 author: LauraBrenner
 ms.author: labrenne
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
-ms.openlocfilehash: 765f37a031098d65460e2cc603eb3d4efb8e4ea3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587366"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134183"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>파트너 기여: 성과 지표의 최고 수준 유지
 
@@ -62,7 +62,7 @@ ms.locfileid: "57587366"
 1. 왜 파트너 기여 페이지가 보이지 않을까요?
     - 파트너 기여는 현재 MPN 또는 CSP 계정으로 Dynamics 365를 판매하는 파트너에게만 제공되고 있습니다. 중국과 독일에서는 이 기능을 아직 사용할 수 없습니다.
 2. 저는 Dynamics 365 파트너인데, 왜 파트너 기여 데이터가 보이지 않을까요?
-    - MPN 또는 CSP 계정 역할이 없어서 일 수 있습니다. 예를 들어 다음과 같은 가치를 제공해야 합니다. 관리자 및 DAP 아직 사용 되지 않습니다.  
+    - MPN 또는 CSP 계정 역할이 없어서 일 수 있습니다. 이는 아래와 같이 함수의 반환값을 데이터 프레임으로 바로 변환하는 데 사용할 수 있음을 나타냅니다. 관리자 및 DAP 아직 사용 되지 않습니다.  
     - 이 페이지를 볼 수 있도록 조직에서 적절한 사용자 역할이 없어서 일 수 있습니다. 전역 관리자에게 문의하세요.
     - 귀하의 조직은 중국이나 독일에 있습니다.
 

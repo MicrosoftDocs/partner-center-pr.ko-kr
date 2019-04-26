@@ -9,11 +9,11 @@ ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: medium
 ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
-ms.sourcegitcommit: a7b7cd2d436003eed7fc9136146d061342b4677d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "58462517"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134973"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

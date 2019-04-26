@@ -1,18 +1,18 @@
 ---
 title: 채택률 및 만족도 높이기 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586726"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134493"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 

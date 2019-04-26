@@ -1,18 +1,18 @@
 ---
 title: 조직의 세금 정보 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 비즈니스용 Windows 스토어에서 구매한 항목에 대한 세금은 근무처 주소에 따라 결정됩니다. 다음 국가에 있는 사업장에서는 VAT 번호나 이에 상응하는 현지 번호를 제공할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 68473522176eba2bc3afdfe8625428da117c9f33
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584076"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134233"
 ---
 # <a name="organization-tax-information"></a>조직의 세금 정보
 

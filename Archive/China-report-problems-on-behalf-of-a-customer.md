@@ -6,11 +6,11 @@ description: 고객에 게 21Vianet에서 설정 된 조건을 만족 하 고 �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585806"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132624"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -33,8 +33,8 @@ ms.locfileid: "57585806"
 
 **참고 항목**
 
--   [고객 셀프 서비스 지원](customer-self-support.md)
+-   [고객 자가 지원](customer-self-support.md)
 -   [기술 지원 제공](provide-technical-support.md)
--   [Service health 확인](check-service-health.md)
+-   [서비스 상태 검사](check-service-health.md)
 -   [청구 지원 제공](provide-billing-support.md)
--   [고객 지원](customer-support.md)
+-   [ 고객 지원](customer-support.md)

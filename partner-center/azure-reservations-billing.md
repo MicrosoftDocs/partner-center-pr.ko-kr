@@ -1,19 +1,19 @@
 ---
 title: Azure 예약에 대한 청구 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Azure 예약에 대 한 청구에 대 한 정보를 제공 합니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, azure reserved instances, 예약, vm, 관리, 청구, 구입
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586906"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135423"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances 청구
 
@@ -58,7 +58,7 @@ ms.locfileid: "57586906"
 
 |**필드** |**정의**|
 |:----------------|:-----------------------------|
-|날짜 |구매 날짜입니다. |
+|Date |구매 날짜입니다. |
 |설명 |제품 이름 |
 |수량 |구입한 제품(예: 예약)의 수입니다. |
 |단가 |각 제품(예: 예약)의 가격입니다. |

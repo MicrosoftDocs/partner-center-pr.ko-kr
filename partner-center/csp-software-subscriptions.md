@@ -9,11 +9,11 @@ keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, 
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: d7dbf7169864141b1cd5e3a75f0759c7da03a01e
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58307034"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134743"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
 

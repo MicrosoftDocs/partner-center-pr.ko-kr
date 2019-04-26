@@ -6,11 +6,11 @@ description: 파트너 센터에 버그를 비롯 한 관련 문제 또는 서�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 5725767af49c4cdba6bad7fba3d0da3328a8e94a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584916"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132643"
 ---
 # <a name="report-a-problem-with-partner-center"></a>파트너 센터에 문제 보고 
 
@@ -33,7 +33,7 @@ ms.locfileid: "57584916"
 **참고 항목**
 
 -   [파트너 센터 계정 관리](partner-center-account-setup.md)
--   [고객 지원](customer-support.md)
+-   [ 고객 지원](customer-support.md)
 
  
 

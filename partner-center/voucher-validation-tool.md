@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 바우처 도구, 바우처의 유효성을 검사 교육, software assurance가 클레임, DPS, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587836"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132653"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>바우처의 유효성을 확인, 예약 및 교환하려면 파트너 센터의 쿠폰 유효성 검사 및 사용 도구를 사용하십시오. 
 

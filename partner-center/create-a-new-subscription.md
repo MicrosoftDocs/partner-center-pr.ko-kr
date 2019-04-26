@@ -9,11 +9,11 @@ ms.author: labrenne
 Keywords: 구독 새로 만들기, 구독을 추가, 일시 중단, 일시 중단 작업을 취소
 ms.localizationpriority: medium
 ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
-ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2019
-ms.locfileid: "57756920"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135023"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 생성, 일시 중단 또는 취소
 

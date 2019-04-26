@@ -9,11 +9,11 @@ ms.author: labrenne
 Keywords: 상태, 서비스 상태, 서비스 문제
 ms.localizationpriority: medium
 ms.openlocfilehash: b04440e11f3f04ca68e56e440585bb9da55f8a27
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586586"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135573"
 ---
 # <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>파트너 센터에 대 한 액세스 권한을 얻으려고 테 넌 트에 Multi-factor Authentication (MFA)을 사용 해야 합니다.
 
