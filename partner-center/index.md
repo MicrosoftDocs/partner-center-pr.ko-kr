@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134613"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035523"
 ---
 # <a name="welcome-to-partner-center"></a>파트너 센터 시작
 
@@ -85,9 +85,9 @@ Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리�
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Software Assurance 프로그램</h3>
-                        <p>이제 파트너 센터에서 Software Assurance 훈련 및 배포 서비스에 등록할 수 있습니다.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>PMC에서 PC로 이동</h3>
+                        <p>파트너 센터로 이동하기 위한 회사 준비 방법 알아보기</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리�
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>바우처 유효성 검사 및 사용 도구</h3>
-                        <p>고객의 비즈니스 및 개발 요구 사항을 지원하는 바우처를 요청하고 사용하세요.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Azure Expert Manage Services 공급자 프로그램</h3>
+                        <p>회사는 Azure를 판매하고 지원하는 슈퍼스타인가요? Azure Expert MSP 프로그램에 등록하는 방법 참조</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리�
                     </div>
                     <div class="cardText">
                         <h3>등록</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">계정 만들기</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">테넌트 및 위치 관리</a></p>
+                        <p><a href="/partner-center/manage-locations">위치 관리</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">테넌트 관리</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리�
                     </div>
                     <div class="cardText">
                         <h3>고객과의 관계 구축</h3>
-                        <p><a href="/partner-center/customer-accounts">고객 계정</a><br /><a href="/partner-center/customer-subscriptions">구독 판매</a><br /><a href="/partner-center/assign-licenses-to-users">라이선스 관리</a><br /><a href="/partner-center/billing">청구</a></p>
+                        <p><a href="/partner-center/csp-offers">고객을 위한 제품 구매</a><br /><a href="/partner-center/customer-subscriptions">구독 판매</a><br /><a href="/partner-center/assign-licenses-to-users">라이선스 관리</a><br /><a href="/partner-center/billing">청구</a></p>
                     </div>
                 </div>
             </div>
