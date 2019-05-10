@@ -2,6 +2,11 @@
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
+## PMC에서 파트너 센터로 이동
+### [PMC에서 파트너 센터로 이동하기 위한 가이드](guide-to-migration.md)
+### [PMC와 PC의 차이점에 대한 빠른 보기](move-pmc-pc-map.md)
+### [여러 회사를 파트너 센터로 이동하기 위한 가이드](move-multiple-companies.md)
+### [회사 통합](consolidate-accounts.md)
 ## 멤버십 제품
 ### [Action Pack](mpn-get-action-pack.md)
 ### [제품 갱신](renew-mpn-offers.md)
@@ -46,7 +51,7 @@
 ## [인센티브 클레임](claims-overview.md)
 ### [인센티브 클레임 생성 및 관리](create-incentives-claims.md)
 ### [인센티브 클레임의 핵심 요구 사항](core-requirements.md)
-### [인센티브 클레임 지급 개요](incentives-payouts.md)
+### [인센티브 지급액에 대한 이해](understand-incentive-payouts.md)
 ### [파트너 센터에서 OSA 클레임 제출](submit-osa-claim.md)
 
 
@@ -58,7 +63,6 @@
 ## [조정 파일 사용](use-the-reconciliation-files.md)
 ## [세금 및 면세](tax-and-tax-exemptions.md)
 ## [조직 VAT 정보](organization-tax-info.md)
-## [클라우드 솔루션 공급자 계정 크레딧 제한](account-credit-limit.md)
 ## [고객의 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
 ## [일반적인 청구 시나리오](common-billing-scenarios.md)
 ## [미결제, 사기 또는 오용](non-payment--fraud--or-misuse.md)
