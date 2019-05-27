@@ -1,18 +1,18 @@
 ---
 title: 특수 산업을 대상으로 판매 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft 교육 기관 고객은, 비영리 고객 및 정부 사용자를 포함 하 여 고객의 선택 그룹에 대 한 특수 고 줄어든 가격을 제공 합니다.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135663"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623807"
 ---
 # <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 
@@ -32,6 +32,8 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 기관을 
 
 
 ## <a name="check-your-reseller-qualifications"></a>재판매인 자격 확인
+
+다음 단계를 간접 공급자에만 적용 되며 청구서 파트너를 직접. 간접 대리점 academic 가격이 제공 정규화 된 교육 사용자에 게 제공 하는 간접 공급자와 연결 해야 합니다. 
 
 1.  파트너 대시보드에서 창의 오른쪽 위 모서리에 있는 기어 아이콘을 선택하고 **계정 설정**을 엽니다.
 2.  **파트너 프로필**의 **프로그램 정보** 섹션에서 **재판매인 자격**을 찾습니다.

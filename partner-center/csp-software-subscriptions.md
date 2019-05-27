@@ -1,25 +1,25 @@
 ---
 title: CSP를 통해 소프트웨어 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: 따라서 이제 Azure 하이브리드 혜택을 활용하여 Microsoft 파트너 센터 및 Azure Portal을 통해 상업 고객을 대신하여 Azure Reserved Instances 및 서버 구독을 획득, 프로비전 및 관리할 수 있게 되었습니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134743"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176191"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
 
-Azure 예약 및 Windows Server 및 SQL Server 구독 Microsoft CSP 프로그램으로 가져와, Microsoft는 더 잘 수 있도록 예측 가능한 지원 하기 위해 더 많은 비용 효율적인 솔루션 대 한 고객 수요가 빠르게 증가 해결 하기 위해 해당 파트너 및 영구 클라우드 워크 로드입니다. 
+Azure 예약 하 고 서버 구독 (Windows Server 및 SQL Server 구독)를 사용 하 여 CSP 프로그램 있습니다 파트너는 주소 항상 예측 가능 하 고 영구 지원 하기 위해 더 많은 비용 효율적인 솔루션에 대 한 고객 수요가 빠르게 성장 하 향상 클라우드 워크 로드입니다. 
 
-획득 하 고 프로 비전 하 고, Azure 하이브리드 혜택을 활용 하 여 Azure 예약 및 Microsoft 파트너 센터 및 Azure Portal을 통해 상업용 고객을 대신해 서 서버 구독을 관리 이제 합니다. 
+획득 하 고 프로 비전 하 고, Azure 하이브리드 혜택을 활용 하 여 Azure 예약 및 파트너 센터 및 Azure Portal을 통해 상업용 고객을 대신해 서 서버 구독을 관리 이제 합니다. 
 
 Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가치를 창출하고 가상 컴퓨터에서 최대 40%의 비용을 절감할 수 있도록 도와줍니다. Software Assurance에서 적용되는 Windows Server Datacenter 및 Standard 버전 라이선스를 통해 이 혜택을 이용할 수 있습니다. 버전에 따라 변환 하거나 Azure에서 Windows Server virtual machines를 실행 하는 더 낮은 기본 계산 요금을 지불 하면 라이선스를 다시 사용할 수 있습니다 (Linux 가상 머신 속도, 예:).
 
@@ -59,6 +59,16 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 >[!NOTE]
 >이 링크는 2주 후 또는 다운로드 50회 이후(둘 중 빠른 시간 기준)에 만료됩니다. 링크가 만료될 때 이 페이지로 돌아가서 **키 및 다운로드 받기**를 다시 선택하면 또 한 번 2주 또는 다운로드 50회의 기간이 주어집니다. 필요한 횟수 만큼 이러한 작업을 수행할 수 있습니다. 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>소프트웨어 키 액세스 및 소프트웨어 다운로드에 대 한 활동 보기
+감사 또는 호환성을 위해 서버 구독 소프트웨어 키를 액세스 하거나 서버 구독 소프트웨어를 다운로드 하는 사용자의 목록을 확인 해야 합니다. 이 정보에 액세스 하려면 다음 절차를 따르십시오. 
+
+>[!NOTE]
+>전역 관리자, 계정 관리자, 조회 관리자 또는 마케팅 콘텐츠 관리자 이러한 활동 로그를 확인 해야 합니다. 
+
+1.  파트너 센터에서 오른쪽 위 모퉁이에서 기어 아이콘을 선택 합니다. 
+2.  메뉴에서 선택 **활동 로그**합니다.
+3.  확인 하려는 작업에 대 한 날짜 범위를 입력 합니다. 활동 로그에는 소프트웨어 키를 액세스 하거나 지정한 시간 동안 소프트웨어를 다운로드 하는 사용자의 목록이 표시 됩니다. 
 
 ## <a name="cancel-a-purchase"></a>구입 취소
 
