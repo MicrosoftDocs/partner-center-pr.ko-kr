@@ -17,6 +17,9 @@
 ### [파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)
 ### [FAQ: 바우처 유효성 검사 및 사용 도구 사용](vvr-faq.md)
 ### [파트너 센터의 Software Assurance 계획 서비스](software-assurance-dps.md)
+## 송장 및 세금
+### [IMicrosoft 파트너 네트워크의 송장 및 세금](mpn-view-print-maps-invoice.md)
+
 
 # [클라우드 솔루션 공급자](csp-overview.md)
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
