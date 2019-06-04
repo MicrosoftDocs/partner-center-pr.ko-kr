@@ -2,6 +2,7 @@
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
+## [파트너 센터의 계정 구조](account-structure.md)
 ## PMC에서 파트너 센터로 이동
 ### [PMC에서 파트너 센터로 이동하기 위한 가이드](guide-to-migration.md)
 ### [PMC와 PC의 차이점에 대한 빠른 보기](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [청구서 읽기](read-your-bill.md)
 ## [조정 파일 사용](use-the-reconciliation-files.md)
 ## [세금 및 면세](tax-and-tax-exemptions.md)
+## [원천징수세액 환급 대상 여부 확인](withholding-tax-credit-form.md)
 ## [조직 VAT 정보](organization-tax-info.md)
 ## [고객의 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
 ## [일반적인 청구 시나리오](common-billing-scenarios.md)
