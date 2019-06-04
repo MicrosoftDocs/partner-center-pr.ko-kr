@@ -7,6 +7,7 @@
 ### [PMC와 PC의 차이점에 대한 빠른 보기](move-pmc-pc-map.md)
 ### [여러 회사를 파트너 센터로 이동하기 위한 가이드](move-multiple-companies.md)
 ### [회사 통합](consolidate-accounts.md)
+
 ## 멤버십 제품
 ### [Action Pack](mpn-get-action-pack.md)
 ### [제품 갱신](renew-mpn-offers.md)
@@ -36,6 +37,7 @@
 
 # [파트너 센터 계정 관리](partner-center-account-setup.md)
 ## [회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)
+## [파트너 센터의 계정 구조](account-structure.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
 ## [위치](manage-locations.md)
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
