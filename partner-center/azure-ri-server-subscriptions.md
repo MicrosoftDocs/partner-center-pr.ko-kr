@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances(RI) + Azure에 대한 서버 구독 | 파트너 센터
 ms.topic: article
-ms.date: 11/30/2018
+ms.date: 6/5/2019
 description: Microsoft는 Azure RI와 서버 구독을 CSP 프로그램에 연결하여 파트너들이 보다 비용 효과적인 솔루션에 대한 고객의 급증하는 요구를 충족하여 예측성이 뛰어난 영구적인 클라우드 워크로드를 지원하도록 적극 돕고 있습니다. CSP 프로그램을 통해 파트너는 상용 고객을 대신하여 Microsoft 파트너 센터 및 Azure Portal을 통해 Azure RI 및 서버 구독을 획득, 프로비저닝 및 관리할 수 있습니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, 구독, 예약 VM 인스턴스를 예약
 ms.localizationpriority: medium
-ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
+ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135403"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "66736057"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -37,15 +37,23 @@ ms.locfileid: "62135403"
 
 사용 하 여 [Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) 예를 들어, 상용 고객과 구입-"예약"-1 년 또는 3 년 동안 가상 컴퓨터 또는 하면 종 량 제 Azure VM 가격 및 최대 72%까지 저장 이제 수 있습니다. Software Assurance와 함께 제공되는 Azure 하이브리드 혜택을 통해 Windows Server 고객은 종량제 요금에 비해 최대 80%까지 비용을 절감할 수 있습니다. 
 
-조합 하 여는 일치 하지 않는 매력적인 가격 책정 및 일치 하지 않는 배포 유연성, Azure 예약을 선택할 때 고객에 게 최상의 전체 값에 표시 됩니다. 
+조합 하 여는 일치 하지 않는 매력적인 가격 책정 및 일치 하지 않는 배포 유연성, Azure 예약을 선택할 때 고객에 게 최상의 전체 값에 표시 됩니다.
 
-- [Azure 예약된 VM 인스턴스](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [서버 구독](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
-- [원격 데스크톱 서비스 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) 달력 2018 년이 끝나기 전에 사용할 수 있는
-- [SQL DB 예약](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [SQL 관리 되는 인스턴스](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+#### <a name="azure-reservations"></a>Azure Reservations
+-   Azure 예약된 VM 인스턴스
+-   SQL DB 예약
+-   SQL 관리 되는 인스턴스
+-   Azure Cosmos DB
+-   Azure SQL 데이터 웨어하우스
+
+#### <a name="server-subscriptions"></a>서버 구독
+-   Windows Server
+-   원격 데스크톱 서비스 Cal (RDS)
+-   SQL Server
+
+#### <a name="linux-isv-annual-subscriptions"></a>Linux ISV 연간 구독
+-   SUSE Linux
+-   Red Hat Enterprise Linux
 
 ## <a name="getting-started"></a>시작
 
@@ -65,15 +73,25 @@ ms.locfileid: "62135403"
 
 **판매 준비**
 
-- [Azure 하이브리드 혜택을 통한 Azure Reservations 및 서버 구독에 대한 개요(업데이트됨)](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Azure 예약 및 Azure 하이브리드 혜택 개요를 사용 하 여 서버 구독](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [판매 시트](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Azure Reservations에 대한 파트너 FAQ(업데이트됨)](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [Azure 예약에 대 한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Azure Reservations 및 SQL DB에 대한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Azure에서의 SQL DB 개요(새로 추가됨)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [Azure 가격 개요](https://azure.microsoft.com/pricing/#explore-cost)
-- [Azure 가격 계산기](https://azure.microsoft.com/pricing/calculator/)
-- Azure 예약 가격 목록-파트너 센터에서 Microsoft Azure Reserved Instances 가격 목록을 보려면 [가격 책정 및 제품](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) 페이지입니다.
-- 서버 구독 가격 목록-파트너 센터에서 소프트웨어 구독 가격 목록을 보려면 [가격 책정 및 제품](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) 페이지입니다.
+- [원격 데스크톱 서비스 (RDS) Cal (알림)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Azure 예약된 VM 인스턴스 (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [서버 구독](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
+- [SQL DB에 Azure 개요](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [SQL DB 예약 (Azure Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [SQL 관리 되는 인스턴스 (Azure Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
+- [SUSE 및 Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Azure에서 Red Hat Linux](https://azure.com/redhat)
+- [Azure의 SUSE Linux](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
+- [Azure의 Linux](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
+- [Azure 가격 개요](https://azure.microsoft.com/en-us/pricing/)
+- [Azure 가격 계산기](https://azure.microsoft.com/en-us/pricing/calculator/)
+- CSP 가격 목록:  합니다 **Microsoft Azure Reserved Instances** 하 고 **소프트웨어 구독** 가격 목록 둘 다 파트너 센터에 있는 [가격 책정 및 제품](https://partner.microsoft.com/en-us/pcv/sales) 페이지입니다.
+
 
 **교육**
 
@@ -93,6 +111,7 @@ ms.locfileid: "62135403"
 - [Azure 예약에 대 한 청구](https://go.microsoft.com/fwlink/?linkid=872809)
 - [최대 예약 사용량에 맞게 VM 크기 조정](https://go.microsoft.com/fwlink/?linkid=872810)
 - [파트너 센터 API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [원격 데스크톱 서비스](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure 하이브리드 혜택
 
