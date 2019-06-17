@@ -1,18 +1,18 @@
 ---
 title: Azure Marketplace 제품에 대 한 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: 파트너 센터를 사용 하 여 고객에 게 소프트웨어에 대 한 구독 (SaaS) 서비스로 판매 독립 소프트웨어 공급 업체 (Isv)에서 Azure Marketplace에 제품 게시 합니다.
 author: JnHs
 ms.author: jenhayes
 keywords: ISV, 제 3 자 Marketplace 구독
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133833"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045075"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Azure Marketplace 제품에 대한 구독 판매
 
@@ -46,6 +46,9 @@ Azure Marketplace SaaS 제품에 대 한 구독을 구입 Microsoft 제품에 �
 > 사용할 수도 있습니다 [파트너 센터 Api](https://docs.microsoft.com/partner-center/develop/) 고객에 게 Azure Marketplace 구독을 만들려고 합니다. 자세한 내용은 참조 하세요. [Azure Marketplace 제품에 대 한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)합니다.
 
 수 있는 Azure Marketplace 제품에 대 한 구독을 사용 하 여 [구독을 취소할](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription) (월간 구독 또는 연간 구독에 대 한 일 동안 24 시간) 취소 기간입니다. 할 수도 있습니다 [자동으로 구독을 갱신 하려면 여부를 선택할](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)합니다.
+
+> [!NOTE]
+> 에 대 한 [Azure Marketplace 제품](sell-marketplace-products.md), 라이선스 할당 및 활성화를 통해 독립 소프트웨어 공급 업체 (ISV) 제품을 게시 한 관리 됩니다.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Marketplace 제품에 대 한 청구 정보에 액세스
 

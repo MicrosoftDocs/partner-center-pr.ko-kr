@@ -4,6 +4,7 @@
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
 ## [파트너 센터의 계정 구조](account-structure.md)
 ## PMC에서 파트너 센터로 이동
+### [Partner Membership Center에서 파트너 센터로 이동 준비](prepare-pmc-pc-migration.md)
 ### [PMC에서 파트너 센터로 이동하기 위한 가이드](guide-to-migration.md)
 ### [PMC와 PC의 차이점에 대한 빠른 보기](move-pmc-pc-map.md)
 ### [여러 회사를 파트너 센터로 이동하기 위한 가이드](move-multiple-companies.md)

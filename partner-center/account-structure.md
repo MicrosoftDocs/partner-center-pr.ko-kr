@@ -1,18 +1,18 @@
 ---
 title: 파트너 센터에서 계정 구조 | 파트너 센터
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: 회사에 파트너 센터에서 계정의 두 가지 수준이 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458884"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131714"
 ---
 # <a name="the-account-structure-in-partner-center"></a>파트너 센터에서 계정 구조
 
@@ -28,7 +28,7 @@ ms.locfileid: "66458884"
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>두 번째 수준의 계정에 파트너 위치 계정 (PLA) 이라는 위치 계정이입니다.
 
-프로그램 PGA 아래 추가 비즈니스 위치에 있을 수 있습니다. 각 위치에는 자체 MPN ID가 있습니다.  DPOR, 클라우드 솔루션 공급자 프로그램을 같은 트랜잭션 비즈니스에 대 한 위치 MPN ID를 사용 하 여 인센티브 프로그램을 등록 하려면 추가 하 고 비용을 지급 합니다. 
+프로그램 PGA 아래 추가 비즈니스 위치에 있을 수 있습니다. 각 위치에는 자체 MPN ID 또는 파트너 위치 계정 (PLA). MPN ID 위치를 사용 하 여 트랜잭션 비즈니스 및 인센티브 프로그램에 등록 합니다.
 
 - 각 파트너 위치 계정 자체 법적 주소 및 기본 연락처 있을 수 있습니다. 위치는 전역 계정을 사용 하 여 또는 다른 위치를 사용 하 여 올바른 주소를 공유할 수도 있습니다.
 - 파트너 설정에서 위치 계정 파트너 목록 보기-> 위치 합니다.

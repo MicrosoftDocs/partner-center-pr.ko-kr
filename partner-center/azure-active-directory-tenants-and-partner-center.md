@@ -9,12 +9,12 @@ Keywords: Azure 테 넌 트, 테 넌 트, 전자 메일, 계정, 계정, 도메�
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134735"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131703"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>조직의 회사 계정 및 파트너 센터  
 
@@ -26,23 +26,32 @@ ms.locfileid: "62134735"
 
 계정 사용자가 자신의 회사 계정 사용자 이름 및 암호를 사용하여 파트너 센터에 로그인할 수 있도록 조직의 회사 계정을 새 파트너 센터 계정에 연결해야 합니다.
 
-회사에 이미 회사 계정이 있는 경우 해당 테넌트를 파트너 센터 계정에 연결할 수 있습니다. 
+## <a name="the-work-account-email-address"></a>작업 계정 전자 메일 주소
+
+작업 계정 또는 회사 전자 메일에 회사에서 제공한 전자 메일 주소입니다. 작업 계정 전자 메일은 일반적으로 형식 you@yourcompany.com합니다. Hotmail과 같은 개인 전자 메일 주소, Gmail 등 회사 전자 메일 되지 않으며 파트너 센터 계정에 대해 사용할 수 없습니다. 
+
+국가별 부서 대신에 회사 본사에 연결 된 것을 사용 하 여 둘 이상의 유효한 회사 메일 주소에 있는 경우에 contoso.uk 주소가 아니라 contoso.com 전자 메일 사용 예를 들어, 합니다.
 
 > [!NOTE]  
 >  기존 작업 계정을 사용 하도록 결정 하기 전에 계정에 얼마나 많은 사용자에 대 한 파트너 센터에서 작업에 필요한 생각 합니다. 사용자가 파트너 센터에서 작업할 필요가 있는 사용자 계정에 있는 경우 파트너 센터에서 작동 하는 데 필요한 사용자만을 위한 새 계정을 만드십시오.
 
-회사에 아직 회사 계정이 없는 경우 등록 과정에서 테넌트를 만들 수 있습니다. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>회사에 회사 계정이 있는지 확실하지 않은가요?
 
 회사에 회사 계정이 있는지 확실하지 않은 경우, 다음 단계에 따라 확인할 수 있습니다. Microsoft Azure 또는 Office 365의 활성 구독이 있는 회사는 이미 회사 계정을 갖고 있습니다.
+
 1.  에 Azure 관리 포털에 로그인 https://ms.portal.azure.com
 2.  메뉴에서 Azure Active Directory를 선택한 다음 도메인 이름을 선택합니다.
 3.  이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
 
-## <a name="using-an-existing-work-account"></a>기존 회사 계정 사용
+회사에 아직 회사 계정이 없는 경우 등록 과정에서 테넌트를 만들 수 있습니다.
 
-기존 회사 계정을 사용하고 싶지만 로그인하는 데 문제가 있는 경우 아래 다이어그램에서 현재 상황과 가장 잘 맞는 시나리오를 찾아 권장 단계를 수행합니다. 
+아래 다이어그램은 몇 가지 일반적인 시나리오에 대 한 단계를 제공 합니다.
+
+- 회사 계정이 있는지 확인 
+- 작업 계정에 로그인 하는 방법 결정 
+- 새 작업 계정을 생성 해야 하는 경우 확인
+
 
 ![회사 계정이 있나요 아니면 새로 만들어야 하나요?](images/onboardingAADFlow.png)
 
