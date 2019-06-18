@@ -1,0 +1,38 @@
+---
+title: 계정 정보를 확인 합니다. | 파트너 센터
+ms.topic: article
+ms.date: 06/12/2019
+description: Microsoft에서 확인 업데이트 요청에 응답 하는 방법
+author: LauraBrenner
+ms.author: labrenne
+Keywords: 인증 거부를 확인, 파트너 프로필 업데이트
+ms.localizationpriority: medium
+ms.openlocfilehash: 6b9f52b55048bd6d3173469e1e1a45f94ca004e6
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67160609"
+---
+# <a name="verify-your-account-information"></a><span data-ttu-id="30fcf-104">계정 정보를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-104">Verify your account information</span></span>
+
+<span data-ttu-id="30fcf-105">첫 번째 파트너 센터에서 계정을 만들면 Microsoft 비즈니스 주소, 기본 연락처 세부 정보 등과 같은 계정 정보를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-105">When your first create your account in partner center, Microsoft verifies your account information such as your business address and primary contact details.</span></span> <span data-ttu-id="30fcf-106">이 과정에서 Microsoft에 알리는 상태 및 요청 추가 확인 문서의 주 담당자에 게 전자 메일을 보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-106">During this process Microsoft may send email to your primary contact to inform them of the status and request additional verification documentation.</span></span> 
+
+>[!Note]
+><span data-ttu-id="30fcf-107">전자 메일을 받았는지 되도록 해야 전자 메일 도메인을 "안전한"으로 Microsoft.com에서 플래그를 정크 메일 폴더를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-107">To ensure that the email is received, be sure to flag email from Microsoft.com as a "safe" domain, and check Junk email folders.</span></span>
+
+<span data-ttu-id="30fcf-108">대시보드에서 파트너 프로필 페이지에서 확인 프로세스의 진행 상태를 따르면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-108">You can follow the ongoing status of the verification process on your Partner profile page in your Dashboard.</span></span> <span data-ttu-id="30fcf-109">**설정** 아이콘을 선택 **설정 파트너**를 선택한 후 **파트너 프로필.**</span><span class="sxs-lookup"><span data-stu-id="30fcf-109">From the **Settings** icon, select **Partner settings**, and then select **Partner profile.**</span></span>
+
+## <a name="what-is-verified-and-how-to-respond"></a><span data-ttu-id="30fcf-110">어떤 확인 되 고 응답 하는 방법</span><span class="sxs-lookup"><span data-stu-id="30fcf-110">What is verified and how to respond</span></span>
+
+|<span data-ttu-id="30fcf-111">**형식 확인**</span><span class="sxs-lookup"><span data-stu-id="30fcf-111">**Type of verification**</span></span>   |<span data-ttu-id="30fcf-112">**확인 항목의 설명 및 방법**</span><span class="sxs-lookup"><span data-stu-id="30fcf-112">**Description of what is verified and how**</span></span>   |<span data-ttu-id="30fcf-113">**거부 된 경우 수행할 작업**</span><span class="sxs-lookup"><span data-stu-id="30fcf-113">**What to do if rejected**</span></span>   |
+|----------------------------|:-----------------------------------|:--------------------------------------|
+|<span data-ttu-id="30fcf-114">전자 메일 소유권</span><span class="sxs-lookup"><span data-stu-id="30fcf-114">Email ownership</span></span>   |<span data-ttu-id="30fcf-115">전자 메일 소유권 기본 연락처 전자 메일 주소가 올바른지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-115">Email ownership verifies that the primary contact email address is valid.</span></span>  <span data-ttu-id="30fcf-116">기본 연락처 전자 메일 주소는 모니터링 되 고 있습니다 송신/수신 전자 메일 작업 계정 이어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-116">The primary contact email address must be a work account that is monitored and can send/receive email.</span></span>  <span data-ttu-id="30fcf-117">파트너를 사용 하지 않아야 합니다. (회사 도메인에 연결 되지 않은 1) 개인 전자 메일 주소입니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-117">Partners should not use: (1) a personal email address not associated with the company domain.</span></span> <span data-ttu-id="30fcf-118">(2) 테 넌 트 사용자 로그인을 예를 들어 전자 메일에 연결 되지 않은 jsmith@testcompany.onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="30fcf-118">(2) a tenant user sign-in not associated to email for example, jsmith@testcompany.onmicrosoft.com</span></span>   |<span data-ttu-id="30fcf-119">영업일 기준 1 일 내 전자 메일 소유권 확인 메시지를 수신 하지 않습니다 하는 경우에 메시지를 다시 전송 하거나 지원에 문의 하 여 파트너 프로필 페이지의 링크를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-119">If you don’t receive the email ownership verification message within one business day, click the link on the Partner profile page to have the message resent, or contact Support.</span></span>|
+|<span data-ttu-id="30fcf-120">고용</span><span class="sxs-lookup"><span data-stu-id="30fcf-120">Employment</span></span> |<span data-ttu-id="30fcf-121">기본 연락처 회사에서 소유 하는 전자 메일 도메인에서 활성 전자 메일 주소를 유지 하므로 등록할 회사의 직원 인지 확인 하는 고용 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-121">Employment verification confirms that the primary contact is an employee of the enrolling company by virtue of having an active email address on an email domain owned by the company.</span></span>|<span data-ttu-id="30fcf-122">고용 확인 거부 되 면 기본 연락처 문서나 연락처의 전자 메일 도메인이 고용주에 게의 소유권이 임을 확인 온라인 소스를 제공할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-122">If employment verification is rejected, the primary contact can provide documentation or an online source confirming that the contact’s email domain is under the ownership of their employer.</span></span>|
+|<span data-ttu-id="30fcf-123">Business</span><span class="sxs-lookup"><span data-stu-id="30fcf-123">Business</span></span>   |<span data-ttu-id="30fcf-124">비즈니스 확인 등록 회사 얻게 비즈니스 엔터티 인지를 확인 및 등록을 위해 사용 되는 주소입니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-124">Business verification confirms that the enrolling company is a bona fide business entity and at the address used for the enrollment.</span></span>|<span data-ttu-id="30fcf-125">기본 연락처 회사 국가 홈 또는 회사 인지 확인 하는 지방 자치 체 공식 설명서 (예: 비즈니스 등록 또는 세금 등록 인증서 또는 수신)를 제공 하 라는 메시지가 나타납니다 비즈니스 확인에 실패할 경우 등록 주소에 위치한 및 해당 엔터티 이름으로 비즈니스를 수행할 수 있는 권한이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-125">If business verification fails, the primary contact will be asked to provide official documentation (such as a business registration or tax registration certificate or receipt)from the company’s home country or municipality confirming that the company is authorized to do business under that entity name and is located at the enrollment address.</span></span>|
+
+## <a name="when-verification-concludes"></a><span data-ttu-id="30fcf-126">확인 완료 하는 경우</span><span class="sxs-lookup"><span data-stu-id="30fcf-126">When verification concludes</span></span>
+
+<span data-ttu-id="30fcf-127">확인 프로세스가 완료 되 면 파트너 프로필 페이지에서 테 넌 트의 확인에 대 한 상태를 "승인" 및 해당 페이지에 표시 되는 상태를 사용 하 여 단계 사라집니다 프로세스에 "pending"에서 변경 됩니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-127">Once the verification process is complete, the status for verification of your tenant on your partner profile page will change from “pending” to “authorized,” and the process steps with status displayed on that page will disappear.</span></span>
+
+<span data-ttu-id="30fcf-128">기본 연락처를 Microsoft에서 전자 메일 몇 일 이내 등록의 신용 검토 단계와 관련 된 재무 정보를 요청 하는 확인이 끝났으면 수신 게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="30fcf-128">The primary contact will likely receive an email from Microsoft within a few business days after the verification is completed requesting financial information related to the credit-review stage of enrollment.</span></span>
