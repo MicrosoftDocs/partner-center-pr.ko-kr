@@ -6,12 +6,12 @@ description: PMC에서 파트너 센터 비즈니스를 이동 하기 전에 고
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145350"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157333"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 센터에서 파트너 멤버 자격 Center (PMC)을 이동에 대 한 준비
 
@@ -116,11 +116,13 @@ PMC에서 모든 사용자는 MPN 전역 관리자 또는 마이그레이션을 
 
  **Visual Studio 혜택 할당 된이 Microsoft 계정을 적용 됩니다.**
 
- 예 Msa에 할당 된 Wisual Studio 혜택 적용 되어 유지 됩니다. 파트너 센터에서 새로 만든 후도 유지 됩니다. 그러나 제거 하는 경우 MSA 할당 한 번 마이그레이션된 파트너 센터에서, 파트너 센터에 다시 추가할 수 없습니다.
 
-MPN 관리자만 계정 회사 Azure AD 테 넌 트에서 작동 하도록 Visual Studio 혜택 할당을 추가할 수 있습니다.
+ 예 Msa에 할당 된 visual Studio 혜택 적용 되어 유지 됩니다. 파트너 센터에서 새로 만든 후도 유지 됩니다. 그러나 제거 하는 경우 MSA 할당 한 번 마이그레이션된 파트너 센터에서, 파트너 센터에 다시 추가할 수 없습니다.
 
-여러 AAD 테 넌 트의 경우 모든 테 넌 트에 동일한 파트너 센터 계정에 연결 된 전역 관리자는 Visual Studio 혜택 및 Azure 사용량 기반 할당에 이러한 모든 테이 넌 트에서 사용자를 추가할 수 있습니다. 
+파트너 센터에서 파트너 작업 계정과 MSA 동일한 테 넌 트에서 여기서 파트너는 MPN 관리자 Azure AD 테 넌 트에서 게스트 사용자 계정을 추가할 수 있습니다. 파트너는 여러 Azure AD 테 넌 트의 전역 관리자와 동일한 파트너 센터 계정에 연결 된 이러한 모든 테 넌이 트, 경우에 Visual Studio 혜택 및 Azure 사용량 기반 할당에 이러한 모든 테이 넌 트에서 사용자를 추가 하려면 파트너 허용 됩니다.
+
+게스트 사용자에 게 할당할 수 있는 Visual Studio의 사용량 기반 구독 MPN 관리자 또는 전역 관리자, 있지만 게스트 사용자 로그인 수 없습니다 파트너 센터에는 MSA를 사용 하 여. 그러나 게스트 사용자를의 유효성을 검사 하 고 할당 된 혜택을 사용 하는 Visual Studio 및 Azure에 로그인 합니다.
+
 
  **우리의 MCP 연결과 Partner University 액세스는 어떻게 관리 해야 합니까?**
 

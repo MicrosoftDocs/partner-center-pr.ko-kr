@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC를 마이그레이션 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b300f2d5251fb22b903444324c037c5f03e554c
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145369"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157341"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
 
@@ -64,7 +64,7 @@ ms.locfileid: "67145369"
 |-----------------|:-----------------|
 |MSA Visual Studio 혜택 할당|Msa에 할당 된 visual Studio 혜택 적용 되어 유지 됩니다.|
 ||파트너 센터에서 새로 만든 후 Visual Studio의 MSA 할당이 유지 됩니다.|
-||MPN 관리자만 계정 회사 Azure AD 테 넌 트에서 작동 하도록 Visual Studio 혜택 할당을 추가할 수 있습니다. 여러 AAD 테 넌 트 동일한 파트너 센터 계정에 연결 된 경우 전역 관리자는 Visual Studio 혜택 및 Azure 사용량 기반 할당에 사용자를 이러한 모든 테이 넌 트에서 추가할 수 있습니다. |
+||파트너 센터에서 파트너 작업 계정과 MSA 동일한 테 넌 트에서 여기서 파트너는 MPN 관리자 Azure AD 테 넌 트에서 게스트 사용자 계정을 추가할 수 있습니다. 파트너는 여러 Azure AD 테 넌 트의 전역 관리자와 동일한 파트너 센터 계정에 연결 된 이러한 모든 테 넌이 트, 경우에 Visual Studio 혜택 및 Azure 사용량 기반 할당에 이러한 모든 테이 넌 트에서 사용자를 추가 하려면 파트너 허용 됩니다. 게스트 사용자에 게 할당할 수 있는 Visual Studio의 사용량 기반 구독 MPN 관리자 또는 전역 관리자, 있지만 게스트 사용자 로그인 수 없습니다 파트너 센터에는 MSA를 사용 하 여. 그러나 게스트 사용자를의 유효성을 검사 하 고 할당 된 혜택을 사용 하는 Visual Studio 및 Azure에 로그인 합니다. |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>이제 있고 파트너 센터에서 관리 되는 프로그램 
 
@@ -77,3 +77,8 @@ ms.locfileid: "67145369"
 |바우처 유효성 검사 및 사용 도구| VVR |
 |           |클라우드 솔루션 공급자 프로그램|
 
+예 Msa에 할당 된 visual Studio 혜택 적용 되어 유지 됩니다. 파트너 센터에서 새로 만든 후도 유지 됩니다. 그러나 제거 하는 경우 MSA 할당 한 번 마이그레이션된 파트너 센터에서, 파트너 센터에 다시 추가할 수 없습니다.
+
+파트너 센터에서 파트너는 작업 계정 및는 MSA 동일한 테 넌 트에서 여기서 파트너는 MPN 관리자 Azure AD 테 넌 트에서 게스트 사용자 계정을 추가할 수 있습니다. 파트너는 여러 Azure AD 테 넌 트의 전역 관리자와 동일한 파트너 센터 계정에 연결 된 이러한 모든 테 넌이 트, 경우에 Visual Studio 혜택 및 Azure 사용량 기반 할당에 이러한 모든 테이 넌 트에서 사용자를 추가 하려면 파트너 허용 됩니다.
+
+게스트 사용자에 게 할당할 수 있는 Visual Studio의 사용량 기반 구독 MPN 관리자 또는 전역 관리자, 있지만 게스트 사용자 로그인 수 없습니다 파트너 센터에는 MSA를 사용 하 여. 그러나 게스트 사용자를의 유효성을 검사 하 고 할당 된 혜택을 사용 하는 Visual Studio 및 Azure에 로그인 합니다.
