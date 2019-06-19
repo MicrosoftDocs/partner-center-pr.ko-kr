@@ -2,7 +2,7 @@
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
-## [파트너 센터의 계정 구조](account-structure.md)
+## [회사 이메일 주소를 가져오는 방법](buy-email-domain.md)
 ## PMC에서 파트너 센터로 이동
 ### [Partner Membership Center에서 파트너 센터로 이동 준비](prepare-pmc-pc-migration.md)
 ### [PMC에서 파트너 센터로 이동하기 위한 가이드](guide-to-migration.md)
@@ -40,6 +40,7 @@
 # [파트너 센터 계정 관리](partner-center-account-setup.md)
 ## [회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)
 ## [파트너 센터의 계정 구조](account-structure.md)
+## [계정 정보 확인](verification-responses.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
 ## [위치](manage-locations.md)
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
