@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132783"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193417"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -39,6 +39,10 @@ ms.locfileid: "62132783"
 
 <li>열 데이터 형식 필드에서 선택 <strong>텍스트</strong> 열을 선택한 후 모든 금액에 대 한 <strong>마침</strong>합니다.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>여러 큰 파일 다운로드
+
+모두 정찰 파일 크기가 매우 커질 수 및 다운로드 하기 어려운 경우도 있습니다. 여러 큰 파일을 다운로드 하는 데 PowerShell 스크립트를 참조 하세요 [청구서 줄 항목 가져오기](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)합니다.
 
 ## <a href="" id="itemizebypartner"></a>파트너가 항목별로 정리
 
@@ -453,7 +457,7 @@ ms.locfileid: "62132783"
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>프로젝트</td>
+<td>Project</td>
 <td><p>해당 서비스 인스턴스에 대한 고객 정의 이름</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
@@ -1017,6 +1021,8 @@ ms.locfileid: "62132783"
 <p>활성화 시점부터 청구 기간 마지막 날까지의 비례 배분 방식 요금</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>사용 요금</strong></p>
@@ -1039,6 +1045,7 @@ ms.locfileid: "62132783"
 <p>현재 청구 기간의 사용 요금 계산</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>크레딧</strong></p>

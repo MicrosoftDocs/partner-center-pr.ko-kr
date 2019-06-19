@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134393"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198313"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -49,7 +49,7 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
 
     b. 제품을 표시할 언어를 선택합니다.
 
-    다. 소프트웨어를 설치할 컴퓨터의 OS(운영 체제) 종류를 선택합니다.
+    c. 소프트웨어를 설치할 컴퓨터의 OS(운영 체제) 종류를 선택합니다.
 
     d. 링크를 따라가서 소프트웨어 설치 패키지를 다운로드하여 설치합니다.
 
@@ -96,10 +96,14 @@ Microsoft 파트너 네트워크(MPN)에 가입하면 비즈니스를 구축하�
     
     보안 조치로, 사용자의 파트너 센터 계정 전자 메일 외에도 이 전자 메일 주소로 Microsoft 기술 지원 액세스에 대한 지침을 전자 메일로 보내 드립니다. 이 혜택을 활성화하고 할당된 사용자에게 전자 메일로 지침이 발송될 때까지 며칠이 걸릴 수 있습니다.    
     
-    다.  대체 전자 메일 주소를 입력했으면 **사용자 할당**을 선택합니다. 
+    c.  대체 전자 메일 주소를 입력했으면 **사용자 할당**을 선택합니다. 
 
 4. 클라우드 및 하이브리드 솔루션의 사전 판매, 디자인, 배포 및 앱 개발 단계에서 기술 사전 판매 지원 또는 자문 시간 혜택을 사용하여 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 [요청 양식](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 )을 작성한 다음 **요청 제출**을 선택합니다.
+
+## <a name="cancel-a-membership-benefit"></a>멤버 자격 혜택 취소
+
+혜택을 취소 하 고 환불을 받을 하기 위해 구매의 30 일 내 요청을 확인 해야 하 고 소프트웨어 혜택 활성화 되지 않습니다. 서비스 요청을 통해 취소를 요청 합니다.
 
 
 #### <a name="see-also"></a>참조

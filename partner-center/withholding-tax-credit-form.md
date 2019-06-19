@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 1,442.03 크레딧, 세금 크레딧, 독일 세금 신용 폼, 폼 세금 크레딧
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410975"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207571"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>1,442.03에 대 한 과정은 있는지 확인
 
@@ -49,7 +49,8 @@ ms.locfileid: "66410975"
 2. 선택 **파트너 지원 요청**합니다.
 3. 선택 **새 요청** 한 다음 **세부 정보**선택, **파트너 청구서 지불, 조정 파일을 사용 하 여 도움말입니다.**
 4. 서비스 요청을 제출할 때 세금 신용 양식과 디지털 세금 인증서 복사본을 연결 해야 합니다.
-5. 연락 드리겠습니다 전자 메일 또는 전화에서 직접.
+5. 영어 서비스 요청을 통해 영어가 아닌 세금 인증서를 제출 하는 경우에 세금 인증서의 번역 필요 합니다.
+6. 연락 드리겠습니다 전자 메일 또는 전화에서 직접.
 
 사용 하는 **청구서 지불 결제** 메서드, 세금 인증서를 수신 하 고 성공적으로 유효성이 검사 되 면 청구서에서 남은 잔액과 약 1 주일 후에서 삭제 됩니다. 
 
