@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134233"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262971"
 ---
 # <a name="organization-tax-information"></a>조직의 세금 정보
 
@@ -24,11 +24,9 @@ ms.locfileid: "62134233"
 
 ### <a name="add-your-vat-id"></a>VAT ID 추가
 
-1.  **파트너 센터** 으로 이동 **멤버 자격은 제공**-> **사용 가능**
-2.  선택 **VAT ID를 추가**
-3.  선택에 조직의 VAT ID를 입력 **추가** 선택한 후 **다음**합니다.
-
-
+1.  **파트너 센터** 으로 이동 **계정 설정**-> **파트너 청구 프로필**합니다.
+2.  **재무 데이터** 섹션에서 **업데이트**를 선택합니다.
+3.  에 **회사 세금 ID** 필드, VAT ID 번호를 입력 합니다.
 
 
 
