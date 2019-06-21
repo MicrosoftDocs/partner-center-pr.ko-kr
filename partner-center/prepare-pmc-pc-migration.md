@@ -6,12 +6,12 @@ description: PMC에서 파트너 센터 비즈니스를 이동 하기 전에 고
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157333"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279881"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 센터에서 파트너 멤버 자격 Center (PMC)을 이동에 대 한 준비
 
@@ -136,17 +136,22 @@ PMC에서 모든 사용자는 MPN 전역 관리자 또는 마이그레이션을 
 
  예, Partner of Record를 변하지가 않습니다. 자세히 알아보세요 [고객에 게 파트너 ID 연결](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)합니다.
 
-**영향을 미치는 인센티브는 무엇입니까?**
+**파트너 센터로 이동으로 인해 영향을 미치는 인센티브 없습니다?**
 
-인센티브에 영향은 없습니다. 또한 비즈니스 PMC에 대 한 여러 계정 및 파트너 센터로 이동 이러한 계정이 글로벌 계정으로 통합 됩니다, 경우 레코드 기반 인센티브의 파트너에 게 영향을 주지 않습니다.
+아니요, 계정 통합 위치 없이 이동한 경우 인센티브 영향을 주지 않고 있습니다. 비즈니스 PMC에 대 한 여러 계정 및 전역 계정에 통합 하려는 파트너 센터로 이동 하는 경우, 인센티브를 손실이 됩니다 되지만 인센티브 지급이 지연 될 수 있습니다. 인센티브 프로그램에서 관련 있는 모든 PMC 계정 이동 하지 않습니다, 해당 계정에 연결 된 인센티브를 받았다는 것을 중지할 수 있습니다.
+
 
 **파트너 센터에서 인센티브 사용자 역할은 무엇입니까?** 
 
 파트너 센터에서 인센티브 역할 위치 기반 있으며 인센티브 관리자 및 인센티브 사용자를 포함 합니다. 이러한 역할에서 수행할 수 있는 작업에 대 한 자세한 내용은 참조 하세요. [사용자 역할 및 사용 권한을 할당할](permissions-overview.md)합니다.
 
-**전역 및 위치 수준의 인센티브를 관리할 수 있습니까?**
+**전역 및 위치 수준에서 인센티브 사용자를 할당할 수 있습니까?**
 
  예 모든 위치에 대 한 인센티브 관리자 인센티브 관리자를 할당할 수 있습니다. 있습니다 또는 각 위치에는 자체 인센티브 관리자 수
+
+ **전역 또는 위치 수준에서 인센티브를 유료 수 있습니까?**
+
+ 인센티브 위치 수준 에서만 지급 됩니다.
 
 **조회에 대 한 개수 비즈니스 프로필에서는 만들 수 있나요?**
 
