@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193417"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343465"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -1022,6 +1022,61 @@ ms.locfileid: "67193417"
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>일회성 요금</strong></p>
+
+</td>
+<td>
+<p>단추를 사용하여 새</p>
+</td>
+<td>
+<p>새 구매를 만들 때 사용</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>증가 한 후 원래 구매 및 새 수량은 환불이 적용 모두 사용</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>감소 후 원래 구매 및 새 수량은 환불이 적용 모두 사용</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancel</p>
+</td>
+<td>
+<p>구독 취소 되 면 사용</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>변환</p>
+</td>
+<td>
+<p>라이선스를 업그레이드 하지만 좌석 수 그대로 유지 하는 경우에 사용</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">
