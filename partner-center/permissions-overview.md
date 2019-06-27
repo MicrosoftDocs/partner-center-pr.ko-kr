@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133903"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396734"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
@@ -24,7 +24,7 @@ ms.locfileid: "62133903"
 사용자는 역할 및 사용 권한을 제공 하 여 파트너 센터 해야 하는 액세스 형식을 확인할 수 있습니다. 역할 업무에 관련 되어 있으면 관련 되어 있습니다. 예를 들어 비즈니스 클라우드 솔루션 공급자 (CSP) 비즈니스 이면 없습니다만 해야 표준 Azure AD 테 넌 트 전역 관리자와 같은 관리 역할 있지만 CSP 프로그램에 특정 역할을 해야 합니다. 각 프로그램에는 특정 역할이 있습니다.
 
 >[!Note]
-> Azure Active Directory (AAD) 테 넌 트 역할 전역 관리자, 사용자 관리자 및 CSP 역할을 포함 합니다. MPN 관리, 비즈니스 프로필 관리, 조회 관리자, 인센티브 관리자 및 인센티브 사용자 비 AAD 역할에 포함 됩니다. 
+> Azure Active Directory (AAD) 테 넌 트 역할 전역 관리자, 사용자 관리자 및 CSP 역할을 포함 합니다. 비-AAD 역할은 테 넌 트를 관리 하지 않는 해당 역할 등이 MPN 관리, 비즈니스 프로필 관리, 조회 관리자, 인센티브 관리자 인센티브 사용자입니다. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>파트너 센터에서 상업용 트랜잭션 관리 (Azure AD 및 CSP 역할)
 
@@ -52,6 +52,7 @@ ms.locfileid: "62133903"
 |영업 에이전트 | • 고객 관리
 ||• 파트너 센터에 장치 목록을 추가
 ||• 구독 관리
+||• 보기 가격을 나열 하며
 ||• 뷰 지원 티켓
 ||• 요청 고객과 관계
 ||• 잠재 고객 관리
@@ -71,7 +72,18 @@ CPVs는 파트너 센터 Api를 사용 하 여 해당 시스템을 통합할 수
 |전역 관리자| 보기 및 CPV 프로필 관리|
 ||보기 및 CPV 기능에 대 한 액세스가 필요한 사용자 관리|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>MPN 멤버 자격 및 회사 (AAD가 아닌 역할)를 관리 합니다.
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>게스트 사용자 (AAD 테 넌 트에 추가 해야 합니다)
+
+|**게스트 사용자**   | **Roles**|
+|---------------------------|:--------------------|
+||MPN 파트너 관리자|
+||계정 관리|
+||인센티브 관리자|
+||비즈니스 프로필 관리자|
+||조회 관리자|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>MPN 멤버 자격 및 회사 관리 (비 AAD 역할: 이러한 역할을 테 넌 트 대신 회사 비즈니스 관리)
 
 |**역할** | **수행할 수 있는 작업**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs는 파트너 센터 Api를 사용 하 여 해당 시스템을 통합할 수
 ||• 사용자 아닌 AAD 역할을 테 넌 트에 대 한 역할 할당 
 ||• 프로그램에 대 한 위치를 등록 합니다.
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>게스트 사용자 (AAD 테 넌 트에 추가 해야 합니다)
 
-|**게스트 사용자**   | **Roles**|
-|---------------------------|:--------------------|
-||MPN 파트너 관리자|
-||계정 관리|
-||인센티브 관리자|
-||비즈니스 프로필 관리자|
-||조회 관리자|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>조회 (AAD가 아닌 역할)를 관리 합니다.
+## <a name="manage-referrals"></a>조회를 관리 합니다. 
 
 |**역할**|**수행할 수 있는 작업**|
 |-----------------------------|:------------------------|
 |조회 관리자       |• 뷰를 만들고 비즈니스 프로필 관리
 ||• 받기 및 조회를 관리 합니다.
-||• 뷰를 만들고 파트너 서비스 요청 관리|
-|비즈니스 프로필 관리자   |•View를 만들고 비즈니스 프로필 관리 
+||• 뷰를 만들고 공동 판매 조회를 관리 합니다.|
+||• 뷰를 만들고 파트너 서비스 요청 관리
+|비즈니스 프로필 관리자   |• 뷰를 만들고 비즈니스 프로필 관리 
 ||• 뷰를 만들고 파트너 서비스 요청 관리|
 
-## <a name="manage-incentives--non-aad-roles"></a>인센티브 (AAD가 아닌 역할)를 관리 합니다.
+## <a name="manage-incentives"></a>인센티브를 관리 합니다. 
 
 |**역할** | **수행할 수 있는 작업**|
 |------------------------------|:-------------------------|

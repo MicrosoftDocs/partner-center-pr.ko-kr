@@ -1,22 +1,22 @@
 ---
 title: 내 암호 재설정 | 파트너 센터
 ms.topic: article
-ms.date: 06/20/2019
+ms.date: 06/24/2019
 description: 암호를 잊은 경우에이 재설정할 수 있습니다.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e9e863711e6d42b3fcc978ba110b8f855e8576
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: f0d2d9908af1d976f67048257cf7f8e267eba29e
+ms.sourcegitcommit: 9eb047f6858dae3e356dc39b535c4e3744483f2c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333975"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67406019"
 ---
 # <a name="reset-my-password"></a>내 암호 재설정
 
-파트너 센터 암호를 기억할 수 없는 경우 쉽게 초기화할 수 있습니다.
+파트너 센터 암호를 기억할 수 없는 경우에이 재설정할 수 있습니다.
 
 ### <a name="to-reset-your-password-to-partner-center"></a>파트너 센터에 암호를 재설정 하려면
 

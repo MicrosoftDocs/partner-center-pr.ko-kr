@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67334004"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407867"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Microsoft에서는 SLA 크레딧 요청 
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 주-Yammer Enterprise
 
 월-포털 오류
+
+## <a name="submit-a-request"></a>요청 제출
+
+파트너 센터의 크레딧 요청을 제출 합니다.
+
+1. 파트너 센터 대시보드에서 선택 **지원** 왼쪽된 탐색에서
+
+2. 선택 **파트너 지원 요청** 선택한 후 **CSP 고객, 주문 및 구독/고객 서비스 크레딧 요청**합니다.
+
+3. SLA 크레딧 요청을 제출 합니다.
+
 
 
 
