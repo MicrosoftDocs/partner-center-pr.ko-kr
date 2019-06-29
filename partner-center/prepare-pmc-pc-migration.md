@@ -6,12 +6,12 @@ description: PMC에서 파트너 센터 비즈니스를 이동 하기 전에 고
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279881"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468022"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 센터에서 파트너 멤버 자격 Center (PMC)을 이동에 대 한 준비
 
@@ -58,9 +58,11 @@ PMC에서 MPN 전역 관리자 역할 다음을 수행할 수 있습니다.
 
 역할은 파트너 센터 전역 관리자 보다 작업과 다른 권한 있는 MPN 파트너 관리자 라고 MPN 전역 관리자가 파트너 센터를 이동할 때 에 대 한 자세한 내용은 파트너 센터에서 역할 및 권한을, [사용자 역할 및 사용 권한 할당](permissions-overview.md)
 
-**파트너 센터에서 사용자 역할**
+**게스트 사용자 역할을 포함 하 여 파트너 센터에서 사용자 역할**
 
 파트너 센터에 수행 해야 하는 데 필요한 작업의 형식에 따라 역할의 다른 형식이 있습니다. Azure AD 역할이 전역 관리자와 같은 역할 수 있습니다. 역할의 일부는 클라우드 서비스 공급자 프로그램 등 인센티브 프로그램에 특정 되며 MPN에 관련 된 역할입니다. 모든 파트너 센터 역할 이란를 찾으려면 읽을 [사용자 역할 및 사용 권한을 할당할](permissions-overview.md)합니다.
+
+
 
 **파트너 센터 PMC에서 이동 하면 사용자의 역할에 됩니까?**
 
@@ -84,6 +86,9 @@ PMC에서 모든 사용자는 MPN 전역 관리자 또는 마이그레이션을 
 예, 파트너 센터에서 Azure AD 테 넌 트를 여러 단일 파트너 센터 계정에 연결할 수 있습니다.
 여기에서 알아보세요. 
 
+**단일 파트너 센터 계정에 여러 Azure AD 테 넌 트를 추가 하는 데 제한 사항이 있습니까?**
+
+Azure AD 테 넌 트가 이미 기존 파트너 센터 계정에 연결 하는 경우에 다중 테 넌 트 기능을 사용 하 여 새 파트너 센터 계정에 연결할 수 없습니다. Azure AD 테 넌 트를 하나의 파트너 센터 계정에 연결할 수만 있지만 파트너 센터 계정을 연결 하는 여러 테 넌 트가 있습니다 생각 하는 다른 방법은 것입니다.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Microsoft 파트너 네트워크 (MPN) 멤버 자격 마이그레이션 
 
