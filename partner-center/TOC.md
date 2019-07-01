@@ -48,6 +48,7 @@
 ## [사용자 역할 및 권한 할당](permissions-overview.md)
 ## [도메인 소유권 확인](become-global-admin.md)
 ## [사용자 암호 다시 설정](reset-a-user-password.md)
+## [암호 다시 설정하기](reset-my-pasword.md)
 ## [Azure Partner Shared Services 추가](shared-services.md)
 ## [가격 책정 및 제품](pricing-and-offers.md)
 ## [카탈로그 사용자 지정](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [조정 파일 사용](use-the-reconciliation-files.md)
 ## [세금 및 면세](tax-and-tax-exemptions.md)
 ## [원천징수세액 환급 대상 여부 확인](withholding-tax-credit-form.md)
+## [Microsoft로부터 SLA 크레딧 요청](request-credit.md)
 ## [조직 VAT 정보](organization-tax-info.md)
 ## [고객의 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
 ## [일반적인 청구 시나리오](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [고객 자가 지원](customer-self-support.md)
 ## [Microsoft로 문제 에스컬레이션](escalate-problems-to-microsoft.md)
 
+# 보안
+## [파트너 보안 요구 사항](partner-security-requirements.md)
 
+# 자습서
+## [파트너 보안 요구 사항 구현](tutorials/partner-security-requirements.yml)
