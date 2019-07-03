@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances(RI) + Azure에 대한 서버 구독 | 파트너 센터
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: Microsoft는 Azure RI와 서버 구독을 CSP 프로그램에 연결하여 파트너들이 보다 비용 효과적인 솔루션에 대한 고객의 급증하는 요구를 충족하여 예측성이 뛰어난 영구적인 클라우드 워크로드를 지원하도록 적극 돕고 있습니다. CSP 프로그램을 통해 파트너는 상용 고객을 대신하여 Microsoft 파트너 센터 및 Azure Portal을 통해 Azure RI 및 서버 구독을 획득, 프로비저닝 및 관리할 수 있습니다.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, 구독, 예약 VM 인스턴스를 예약
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736057"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509960"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ ms.locfileid: "66736057"
 -   SQL 관리 되는 인스턴스
 -   Azure Cosmos DB
 -   Azure SQL 데이터 웨어하우스
+-   App Services
 
 #### <a name="server-subscriptions"></a>서버 구독
 -   Windows Server
@@ -54,6 +55,10 @@ ms.locfileid: "66736057"
 #### <a name="linux-isv-annual-subscriptions"></a>Linux ISV 연간 구독
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>ISV 연간 구독
+-   CloudSimple 하 여 azure의 VMware 솔루션
 
 ## <a name="getting-started"></a>시작
 
@@ -119,4 +124,4 @@ ms.locfileid: "66736057"
 
 [Azure 하이브리드 혜택 FAQ](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)를 참조하세요.
 
-* 실제 절감 액은 지역, 인스턴스 유형 또는 사용량에 따라 달라질 수 있습니다.
+\* 실제 절감 액은 지역, 인스턴스 유형 또는 사용량에 따라 달라질 수 있습니다.
