@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133973"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549501"
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 
@@ -33,6 +33,9 @@ ms.locfileid: "62133973"
 CSP 모델에서 거래 중인 파트너는 고객에게 신뢰할 수 있는 조언자로서, 고객의 질문 또는 문제에 대한 지원을 포함해 종합적인 관계를 소유합니다. 파트너는 지원 터치 포인트를 통해 고객과 그들의 비즈니스에 대해 자세하게 파악하여 가치를 창출하는 새로운 서비스 및 솔루션을 식별할 수 있습니다.
 
 파트너는 지원 요구 사항을 충족하기 위해 다른 엔터티의 지원을 재판매하거나, 지원 구조의 전부 또는 일부를 아웃소싱하거나, 지원을 직접 제공하도록 구조를 설정할 수 있습니다.  파트너는 고객에게 제공된 지원의 전체 또는 일부에 대해 비용을 청구할 수 있습니다. 파트너는 제공되는 지원, 서비스 시간 및 연락 방법을 비롯해 가격 책정(지원 비용이 청구되는 경우)에 대해 고객에게 명확하게 알려야 합니다. 
+
+>[!Note]
+>CSP 없는 하 고 고객 청구에 대 한 질문이 있는 경우 적절 한 제품 또는 서비스에 대 한 특정 포털을 참조 하세요.
 
 파트너는 고객에게서 받은 지원 요청을 접수하고 자신의 능력을 최대한 발휘하여 문제를 진단한 다음, 기준이 되는 지원 경계의 범위 내에서 문제를 해결해야 합니다. 파트너는 문제를 해결할 수 없는 경우 다음과 같은 지원 수단을 통해 Microsoft에 문제를 에스컬레이션할 수 있습니다.
 
