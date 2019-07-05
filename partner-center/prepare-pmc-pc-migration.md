@@ -6,12 +6,12 @@ description: PMC에서 파트너 센터 비즈니스를 이동 하기 전에 고
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468022"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563036"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 센터에서 파트너 멤버 자격 Center (PMC)을 이동에 대 한 준비
 
@@ -132,6 +132,11 @@ Azure AD 테 넌 트가 이미 기존 파트너 센터 계정에 연결 하는 �
  **우리의 MCP 연결과 Partner University 액세스는 어떻게 관리 해야 합니까?**
 
  PMC에서 이동 하는 MCP 연결 변경이 있습니다. 그러나 모든 새 파트너 센터로 이동한 후의 새 직원 파트너 센터에 연결 해야 합니다. 기존 사용자에 대 한 모든 Partner University 권한을 상태로 유지 되지만 새 직원이 한 명도로 이동 해야 [교육 센터](https://partner.microsoft.com/training) Partner University에 대 한 액세스 권한을 얻으려고 하는 방법에 대 한 정보에 대 한 합니다.
+
+ **보는 방법 MCP 정보 파트너 센터로 이동 하나요?**
+
+선택 **역량** 대시보드에서 왼쪽된 탐색 창에서. **역량** 페이지 기술을 보고서를 다운로드할 수 있습니다. 기술 보고서는 사용자에 게 하 고 역량 파트너 센터에서 프로그램 관련 기술을 확보 나열 됩니다. 사용자에 게 기술 작업해왔으며 하지만 이러한 기술을 방향으로 현재 작업 중인 한 역량에 관련 되지 않은 경우는 나열 되지 않습니다 보고서에서입니다.
+
 
  **파트너 센터에서 고객 참조 사용 됩니까?**
 
