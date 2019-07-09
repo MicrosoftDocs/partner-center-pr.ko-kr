@@ -120,6 +120,7 @@
 ## [고객의 Azure 구독 사용량에 대한 데이터 가져오기](analyze-azure-usage.md)
 ## [간접 재판매인 성과 분석](analyze-indirect-resellers.md)
 ## [구독 및 라이선스 분석](analyze-subscriptions-licenses.md)
+## [Microsoft Learn 분석](ms-learn-analytics.md)
 
 # [다른 파트너와 협력](work-with-other-partners.md)
 ## [파트너 센터에서 간접 공급자가 하는 일](indirect-provider-tasks-in-partner-center.md)
