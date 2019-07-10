@@ -1,19 +1,19 @@
 ---
 title: 사용자 계정 만들기 및 권한 설정 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: 관리자는 파트너 센터에 액세스해야 하는 각 파트너 직원을 위한 사용자 계정을 만듭니다.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 사용자, 역할 할당, 관리, 에이전트, 역할, 권한 추가
 ms.localizationpriority: medium
-ms.openlocfilehash: 3829a18a78cb50797b7ca2bfd862c82d93d92248
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de8b4e793f50d00a1d528d44b8dece7b9f7c9263
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134983"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674232"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 권한 할당
 
@@ -28,7 +28,7 @@ ms.locfileid: "62134983"
 
 3.  사용자의 전체 이름과 고유의 전자 메일 주소를 입력합니다.
 
-4.  에이전트 유형 및/또는 사용자에게 할당할 관리자 유형을 선택합니다. 파트너 센터 액세스는 역할 기반이므로 사용자가 특정 작업을 완료하는 데 필요한 기능만 표시하도록 사용자의 보기를 사용자 지정하는 권한을 할당할 수 있습니다.  역할 할당을 원하는 사용자는 **사용자 관리**로 이동하여 계정 관리자에 대한 필터링을 수행하여 연락할 계정 관리자를 찾을 수 있습니다.
+4.  에이전트 유형 및/또는 사용자에게 할당할 관리자 유형을 선택합니다. 파트너 센터 액세스는 역할 기반이므로 사용자가 특정 작업을 완료하는 데 필요한 기능만 표시하도록 사용자의 보기를 사용자 지정하는 권한을 할당할 수 있습니다.  으로 이동 하 여 연결할 전역 관리자 역할 할당은 사용자가 원하는 경우 확인할 수 있습니다 **사용자 관리** 및 전역 관리자의 필터링
 
 5.  **추가**를 선택하여 사용자 계정을 만듭니다. 다음 페이지에서 사용자의 세부 정보를 확인합니다.
 
@@ -39,6 +39,11 @@ ms.locfileid: "62134983"
 
 > [!NOTE]  
 >  글로벌 관리자가 퇴사를 하거나 직책이 바뀌어서 새 글로벌 관리자를 추가해야 하는 경우, [MPN 포털](https://partner.microsoft.com/support)에서 서비스 요청을 로깅해야 합니다. 요청자가 필수적인 개인 신원 정보와 조직에 대한 추가 정보를 제공하면 지원 상담원이 글로벌 관리자에게 사용자의 권한 상승을 요청할 수 있습니다.
+
+### <a name="find-your-global-admin"></a>전역 관리자 찾기
+
+경우에 따라 사용자 역할이 변경 해야 합니다. 또는 새 사용자를 특정 역할 할당을 사용할 수 있습니다.  
+역할 변경 하거나에서 새 사용자에 게 역할을 할당할 수 있는 전역 관리자를 찾을 수 합니다 **설정 아이콘** 맨 위에 있는 파트너 센터의 오른쪽 선택 **사용자 관리** 및 전역 관리자에 대 한 필터 
 
 ## <a name="assign-user-roles"></a>사용자 역할 할당
 
@@ -72,12 +77,16 @@ ms.locfileid: "62134983"
 
 역할과 각 역할이 수행할 수 있는 작업에 대한 자세한 내용은 [사용자 권한 할당](permissions-overview.md)을 참조하세요.
 
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>파트너 센터에서 사용자의 Microsoft 알아보기 계정을 연결합니다
 
+교육 및 학습에 사용자가 역량 방향으로 수행 하는 경로를 볼 일 하기 위해 파트너 센터 계정에 해당 MCP ID에 연결 해야 합니다. 전역 관리자로 새 사용자를 추가할 때 사용할 해당 MCP ID 계정에 연결 하도록 알리는 해야 합니다. 
 
-### <a name="find-your-global-admin"></a>전역 관리자 찾기
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>MCP ID 파트너 센터 계정에 연결 하는 방법
 
-경우에 따라 사용자 역할이 변경 해야 합니다. 또는 새 사용자를 특정 역할 할당을 사용할 수 있습니다.  
-역할 변경 하거나에서 새 사용자에 게 역할을 할당할 수 있는 전역 관리자를 찾을 수 합니다 **설정 아이콘** 맨 위에 있는 파트너 센터의 오른쪽 선택 **사용자 관리** 및 전역 관리자에 대 한 필터 
+1. 파트너 센터 대시보드를 선택 합니다 **계정의** 대시보드와 선택의 오른쪽 위에 있는 아이콘 **내 프로필**합니다.
+
+2. 아래 **학습** Partner University Microsoft 계정과 연결할 수도 및 Microsoft Learning 계정에 연결 하는 일을 할 수 있습니다.
+
 
 
 

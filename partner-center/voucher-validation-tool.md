@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 바우처 도구, 바우처의 유효성을 검사 교육, software assurance가 클레임, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132653"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674257"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>바우처의 유효성을 확인, 예약 및 교환하려면 파트너 센터의 쿠폰 유효성 검사 및 사용 도구를 사용하십시오. 
 
@@ -23,6 +23,15 @@ ms.locfileid: "62132653"
 학습 또는 배포 계획 서비스에 대 한 정규화 된 Software Assurance 파트너는 Microsoft Software Assurance를 시작 하는 바우처 대가로 엔터프라이즈 고객에 게 제공 하는이 서비스에 대 한 보정 합니다.
 
 고객에 게는 바우처를 받으면의 유효성을 검사 하 고 예약 해야 합니다. 이전에 무료 수 강권 유효성 검사 및 상환 (VVR) 도구에서이 작업을 수행 했을 수 있습니다. 오늘 우리는 결합-파트너 센터-한 사이트에 모든 도구와 VVR 도구를 간편 하 고 더 효율적인 작업을 만드는 것을 목적으로 Microsoft 사용 하 여 비즈니스를 위해 방문 해야 하는 데 사용 하는 파트너를 비롯 하 여 사이트입니다.
+
+이 문서를 확인 하 고 바우처를 예약 하는 방법의 개요를 제공 합니다. 완전 무료 수 강권 유효성 검사 워크플로 및 정책에 대 한 전체 내용은 다음을 읽어보세요. 
+
+- [Software assurance 교육 상품권 워크플로](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [Software assurance 교육 바우처 faq](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [Software assurance 교육 상품권 정책](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>유효성을 검사 하 고 바우처를 예약 합니다.
 

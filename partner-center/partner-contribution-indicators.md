@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622561"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674270"
 ---
 ## <a name="partner-contribution-indicators"></a>파트너 기여 표시기
 
@@ -56,9 +56,9 @@ PCI는 100 점의 확장을 사용 하 여 Dynamics 365 customer engagement 또�
 |새 대규모 deploments|20|에 대 한 **Customer Engagement**유료 구독이 250을 초과 하는 경우 지난 12 개월의 월간 활성 사용자 임계값, 연결 된 파트너 가져옵니다 신용 인스턴스에 대 한 모든 고객 프로덕션 (조직)에서 해당 테 넌 트입니다. 에 대 한 **Finance and Operations**유료 구독 임계값 100 월간 활성 사용자 지난 12 개월 동안에서, 연결 된 파트너 신용 모든 재무를 가져와 작업 프로덕션 인스턴스 (조직)에 있는 경우 해당 테 넌 트. 월간 활성 사용자는 구독 수준에서 계산 하 고 유료 구독에만 간주 됩니다. 월간 활성 사용자는 매월 끝에서 계산 됩니다. 13 개월 전 지정된 된 임계값 미만 고 후행 12 개월에 한 번 이상 임계값을 초과 하는 경우 월간 활성 사용자 임계값을 통과 하는 구독 간주 됩니다. 테 넌 트에 여러 구독을 다른 파트너와 연결 된 각 모든 파트너 학점이 해당 제품 범주에는 테 넌 트 아래에 있는 모든 프로덕션 인스턴스에 대 한 필수 연결 된 유료 구독 간으로 월간 활성 사용자 임계값입니다.|후행 12 개월|
 |월간 활성 사용자 증가|25|현재 비교 개수 월간 활성 사용자 vs 월간 활성 사용자 수 13 개월 전 합니다. 월간 활성 사용자는 구독 수준에서 계산 하 고 유료 구독에만 간주 됩니다. 월간 활성 사용자는 매월 끝에서 계산 됩니다. 에 대 한 **Customer Engagement**, 개발된 출시 파트너는 프로덕션 환경에서 적어도 250 월간 활성 사용자 기준 있어야 하며 새로운 시장 파트너 150 개 이상 월간 활성 사용자는 전체 고객층에서 13 개월 모든 지점에 대 한 자격이 되려면 전 합니다. 에 대 한 **Finance and Operations**, 개발된 출시 파트너는 프로덕션 환경에서 100 개 이상의 월간 활성 사용자 기준 있어야 하며 새로운 시장 파트너 최소 50 개의 월간 활성 사용자는 전체 고객층에서 13 개월 모든 지점에 대 한 자격이 되려면 전 합니다.|후행 12 개월|
 
-## <a name="customer-to-partner-association"></a>파트너 연결에는 고객
+## <a name="customer-to-partner-association"></a>고객-파트너 연결
 
-Net 새로운 수익에 대 한 크레딧이, Net 고객을 새 대규모 배포의 경우 및 메트릭 정의의 범위 내에서 지정된 된 고객의 월간 활성 사용자 증가 하는 경우 및 추가 요청 파트너의 레코드 (CPOR) 또는 Digital Partner of Record (경우에 DPOR) 유료 고객의 테 넌 트에 속하는 구독에 대 한 합니다.
+Net 새로운 수익에 대 한 크레딧이 순 고객, 추가, 새 대규모 배포 되었으며, 메트릭 정의의 범위 내에서 지정된 된 고객의 월간 활성 사용자 증가 요청 파트너의 레코드 (CPOR) 또는 디지털 레코드 파트너 (DPOR) 경우에 에 대 한 고객의 테 넌 트에 속하는 유료 구독 합니다.
 
 파트너는 고객을 Dynamics 365 솔루션 관리자 OSA (온라인) 인센티브를 통해 구독 수준에서 연결을 설정 해야만 CPOR 됩니다.
 

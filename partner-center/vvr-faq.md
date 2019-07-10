@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 교육 상품권, 교육, software assurance 바우처를 예약 바우처의 유효성을 검사합니다
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132589"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674226"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: 바우처 유효성 검사 및 사용 도구 사용 
 
@@ -51,6 +51,9 @@ ms.locfileid: "62132589"
 **회사가는 VVR 도구를 액세스 하는 어떻게 하나요?**
 
 - VVR 도구에 액세스 하려면 회사 SATV 프로그램 또는 SA DPS 프로그램에 등록 해야 합니다.
+
+자세한 FAQ 읽기를 [바우처 유효성 검사 도구 워크플로](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)합니다.
+
 SATV에 등록 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 Software Assurance 교육 상품권 (SATV) 프로그램](software-assurance-satv.md)합니다.
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Software Assurance DPS 프로그램에 등록 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 Software Assurance 프로그램](software-assurance-dps.md)합니다.

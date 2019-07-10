@@ -1,18 +1,18 @@
 ---
 title: 조정 파일 사용 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: 각 요금 청구 주기에서 보려면 자세한 품목을 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343465"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694931"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -834,10 +834,6 @@ ms.locfileid: "67343465"
 <td><p>사용한 Azure 플랫폼 서비스입니다.</p></td>
 </tr>
 
-<tr class="odd">
-<td>리소스 그룹</td>
-<td><p>배포 된 측정기 실행 되는 리소스 그룹입니다.</p></td>
-</tr>
 
 <tr class="even">
 <td>리소스 URI</td>
@@ -892,11 +888,6 @@ ms.locfileid: "67343465"
 <tr class="even">
 <td>서비스 정보 2</td>
 <td><p>선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다.</p></td>
-</tr>
-
-<tr class="odd">
-<td>Tags</td>
-<td><p>청구 레코드를 그룹화 하려면 측정기에 할당 하는 태그입니다. 예를 들어를 측정기를 사용 하는 부서에서 비용을 배분 하는데 태그를 사용할 수 있습니다.</p></td>
 </tr>
 
 <tr class="even">
