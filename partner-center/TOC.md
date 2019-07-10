@@ -46,6 +46,7 @@
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
 ## [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
 ## [사용자 역할 및 권한 할당](permissions-overview.md)
+## [Microsoft Learn 계정을 파트너 센터에 연결](ms-learn-associate.md)
 ## [도메인 소유권 확인](become-global-admin.md)
 ## [사용자 암호 다시 설정](reset-a-user-password.md)
 ## [암호 다시 설정하기](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # 파트너 센터 데이터 및 분석
 ## [비즈니스 데이터 수집 및 분석](data-analysis-lp.md)
 ## [Microsoft Power BI용 파트너 분석 앱](power-bi-app-for-direct-partners.md)
-## [파트너 기여: 성과 지표의 최고 수준 유지](partner-contributions.md)
+## [파트너 기여 표시기](partner-contribution-indicators.md)
 ## [고객의 Azure 구독 사용량에 대한 데이터 가져오기](analyze-azure-usage.md)
 ## [간접 재판매인 성과 분석](analyze-indirect-resellers.md)
 ## [구독 및 라이선스 분석](analyze-subscriptions-licenses.md)
