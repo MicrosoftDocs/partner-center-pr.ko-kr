@@ -2,17 +2,17 @@
 title: 조정 파일 사용 | 파트너 센터
 ms.topic: article
 ms.date: 07/08/2019
-description: 각 요금 청구 주기에서 보려면 자세한 품목을 파트너 센터에서 조정 파일을 다운로드 합니다.
+description: 청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 보려면 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
-ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
+ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67694931"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818975"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -22,29 +22,29 @@ ms.locfileid: "67694931"
 -  Microsoft Cloud for US Government 파트너 센터
 
 
-각 요금 청구 주기에서 보려면 자세한 품목을 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
+청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 보려면 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
 ## <a name="formatting-issues"></a>서식 지정 문제
 
-경우에 따라 여러 파일에 서식 지정 문제 있을 수 있습니다. (이 경우 발생할 수 있습니다, 예를 들어 EN-US 로캘을 사용 되지 않습니다.) 이러한 문제를 해결 하려면 다음 단계를 수행 합니다. 
+경우에 따라 정찰 파일에 서식 문제가 있을 수 있습니다. 이는 예를 들어 EN-US 로캘이 사용 되지 않는 경우에 발생할 수 있습니다. 이러한 문제를 해결 하려면 아래 단계를 따르세요. 
 
 <ol>
-<li>Excel에서.csv 파일을 열고 첫 번째 열을 선택 합니다. 리본에서 선택 <strong>데이터</strong>를 선택한 후 <strong>열에 텍스트</strong>합니다.</li>
+<li>Excel에서 .csv 파일을 열고 첫 번째 열을 선택 합니다. 리본 메뉴에서 <strong>데이터</strong>를 선택 하 고 <strong>열 텍스트를</strong>선택 합니다.</li>
 
-<li>텍스트 변환 마법사에서에서 선택 <strong>파일 형식을 구분</strong>를 선택한 후 <strong>다음</strong>합니다.</li> 
+<li>텍스트를 열로 변환 마법사에서 구분 된 <strong>파일 형식</strong>을 선택 하 고 <strong>다음</strong>을 선택 합니다.</li> 
 
-<li>구분 기호 필드에서 선택 <strong>쉼표로</strong>합니다. 하는 경우 <strong>탭</strong> 은 이미 선택 상태로 남겨둘 수 있습니다. <strong>다음</strong>을 선택합니다.</li>
+<li>구분 기호 필드에서 <strong>쉼표</strong>를 선택 합니다. <strong>탭</strong> 이 이미 선택 되어 있으면 그대로 둘 수 있습니다. <strong>다음</strong>을 선택합니다.</li>
 
-<li>열 데이터 형식 필드에서 선택 <strong>날짜: MDY</strong>를 선택한 후 <strong>다음</strong>합니다.</li> 
+<li>열 데이터 형식 필드에서 날짜를 선택 <strong>합니다. MDY</strong>을 선택한 후 <strong>다음</strong>을 선택 합니다.</li> 
 
-<li>열 데이터 형식 필드에서 선택 <strong>텍스트</strong> 열을 선택한 후 모든 금액에 대 한 <strong>마침</strong>합니다.</li>
+<li>열 데이터 형식 필드에서 모든 금액 열에 대해 <strong>텍스트</strong> 를 선택한 다음 <strong>마침</strong>을 선택 합니다.</li>
 </ol>
 
-## <a name="downloading-a-large-recon-file"></a>여러 큰 파일 다운로드
+## <a name="downloading-a-large-recon-file"></a>Large 정찰 파일 다운로드
 
-모두 정찰 파일 크기가 매우 커질 수 및 다운로드 하기 어려운 경우도 있습니다. 여러 큰 파일을 다운로드 하는 데 PowerShell 스크립트를 참조 하세요 [청구서 줄 항목 가져오기](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)합니다.
+정찰 파일은 매우 커질 수 있으며 다운로드 하기도 어렵습니다. 대량 정찰 파일을 다운로드 하는 데 도움이 되는 PowerShell 스크립트는 [청구서 품목 가져오기 항목](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)을 참조 하세요.
 
-## <a href="" id="itemizebypartner"></a>파트너가 항목별로 정리
+## <a href="" id="itemizebypartner"></a>파트너 기준 항목별로
 
 
 간접 모델의 파트너는 라이선스 기준 및 사용량 기준 조정 파일에서 모두 이러한 추가 필드를 사용하여 재판매인을 기준으로 항목별로 구분할 수 있습니다.
@@ -69,7 +69,7 @@ ms.locfileid: "67694931"
 <td>재판매인 MPN ID</td>
 <td><p>간접 모델의 파트너를 위한 조정 파일에만 나타납니다.</p>
 <p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 파트너 센터에서 특정 구독에 대해 나열된 재판매인 ID에 해당합니다.</p>
-<p>eTo 확인 하거나 업데이트 대리점에서 파트너 센터 메뉴에서 선택 <strong>고객</strong>, 다음 목록에서 고객을 선택 합니다. 고객 메뉴에서 <strong>구독</strong>을 선택한 다음 목록에서 구독을 선택합니다. <strong>업데이트</strong>를 선택하여 <strong>재판매인(MPN ID)</strong>을 변경합니다.</p>
+<p>eTo를 보거나 업데이트 하려면 파트너 센터 메뉴에서 <strong>고객</strong>을 선택한 다음, 목록에서 고객을 선택 합니다. 고객 메뉴에서 <strong>구독</strong>을 선택한 다음 목록에서 구독을 선택합니다. <strong>업데이트</strong>를 선택하여 <strong>재판매인(MPN ID)</strong>을 변경합니다.</p>
 <p>CSP 파트너가 고객에게 직접 구독을 판매하는 경우 해당 MPN ID가 두 번 나열됩니다(MPN ID와 재판매인 MPN ID 모두).</p>
 <p>CSP 파트너에게 MPN ID가 없는 재판매인이 있는 경우 이 값은 대신 파트너의 MPN ID로 설정됩니다.</p>
 <p>CSP 파트너가 재판매인 ID를 제거하는 경우 이 값은 -1로 설정됩니다.</p></td>
@@ -79,7 +79,7 @@ ms.locfileid: "67694931"
 
  
 
-## <a href="" id="licensebasedfiles"></a> 라이선스 기반 파일 필드
+## <a href="" id="licensebasedfiles"></a>라이선스 기반 파일 필드
 
 
 고객의 주문에 따라 요금을 조정하려면 조정 파일의 Syndication\_Partner\_Subscription\_Number와 파트너 센터의 구독 ID를 비교합니다.
@@ -126,13 +126,13 @@ ms.locfileid: "67694931"
 <tr class="odd">
 <td>OfferID</td>
 <td><p>고유 제품 ID. 가격표에 따른 표준 제품 ID.</p>
-<p><b>참고</b>: 이 값은 가격 목록에서 제품 ID를 일치 하지 않습니다. 아래의 DurableOfferID를 참조하세요.</p></td>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치 하지 않습니다. 아래의 DurableOfferID를 참조하세요.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>고유 지속형 제품 ID(가격표에 정의됨).</p>
-<p><b>참고</b>: 이 값에는 가격 목록에서 제품 ID와 일치합니다.</p></td>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치 합니다.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>구독 종료 날짜: 12 개월 + x 일 후 시작 날짜 (종료 날짜를 청구 하는 파트너와 맞춤) 또는 갱신 날짜 로부터 12 개월입니다.</p>
+<td><p>구독 종료 날짜: 시작 날짜 이후 12 개월 + x 일 (파트너 청구 날짜에 맞추기) 또는 갱신 날짜 로부터 12 개월</p>
 <p>갱신 시 가격은 현재 가격표로 업데이트됩니다. 자동 갱신에 앞서 고객과 연락해야 할 수 있습니다.</p>
 <p>시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
 <td>2/1/2015 0:00</td>
@@ -189,7 +189,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>이러한 요금에 적용된 할인 금액. 인센티브를 받을 수 있는 새 구독 또는 IUR도 이 열에 할인 금액을 포함합니다.</p></td>
+<td><p>이러한 요금에 적용된 할인 금액. 역량 또는 맵과 함께 제공 되는 제품 라이선스 또는 동기에 적합 한 새 구독은이 열에 할인 금액을 포함 합니다.</p></td>
 <td>2.32</td>
 </tr>
 <tr class="odd">
@@ -199,7 +199,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="even">
 <td>Tax</td>
-<td><p>세 금액 요금을 시장에 따라&#39;s 세금 규칙 및 특정 한 상황입니다.</p></td>
+<td><p>시장의&#39;세금 규칙 및 특정 상황에 따라 세금 청구 금액입니다.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -214,7 +214,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>고객&#39;파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td><p>파트너&#39;센터에 보고 된 고객의 조직 이름입니다. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
 <td>테스트 고객 A</td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>고객&#39;s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 이렇게 해서는 안으로 고객/파트너 수 O365 포털을 통해 베 니 티/기본 도메인을 업데이트 하는 고객을 고유 하 게 식별 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객&#39;을 식별 하는 데 사용 되는 고객의 도메인 이름입니다. 고객/파트너가 O365 포털을 통해 베 니 티/default 도메인을 업데이트할 수 있으므로 고객을 고유 하 게 식별 하는 데 사용 하면 안 됩니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -246,7 +246,7 @@ ms.locfileid: "67694931"
 </table>
 
 
-## <a href="" id="usagebasedfiles"></a>사용량 기반 파일 필드
+## <a href="" id="usagebasedfiles"></a>사용 기반 파일 필드
 
 
 고객의 사용량에 따라 요금을 조정하려면 조정 파일의 ResellerID/ResellerName/ResellerBillableAccount, 파트너 센터의 구독 ID 및 고객 이름을 비교합니다.
@@ -282,7 +282,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>고객&#39;파트너 센터에 보고 된 s 조직 이름. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
+<td><p>파트너&#39;센터에 보고 된 고객의 조직 이름입니다. 시스템 정보로 송장을 조정할 때 매우 중요합니다.</p></td>
 <td>테스트 고객 A</td>
 </tr>
 <tr class="even">
@@ -403,7 +403,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>세 금액 요금을 시장에 따라&#39;s 세금 규칙 및 특정 한 상황입니다.</p></td>
+<td><p>시장의&#39;세금 규칙 및 특정 상황에 따라 세금 청구 금액입니다.</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -457,14 +457,14 @@ ms.locfileid: "67694931"
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>Project</td>
+<td>프로젝트</td>
 <td><p>해당 서비스 인스턴스에 대한 고객 정의 이름</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>지정일에 프로비전 및 사용된 ServiceBus 연결 수</p></td>
-<td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 해당 날짜에 대 한 일일 사용량 명세서 477860 경우 프로 비전 하는 service Bus 연결 25 팩 있고 해당 일 동안 1을 사용 하면, "25 개 연결 / 30 일 – 사용: 1.000000”.</td>
+<td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 25 개의 ServiceBus 연결이 프로 비전 되 고 해당 일 중에 1을 사용한 경우 해당 일에 대 한 일일 사용 명세서는 "25 개의 연결/30 일 – 사용 됨"을 표시 합니다. 1.000000 ".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -473,7 +473,7 @@ ms.locfileid: "67694931"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>고객&#39;s 도메인 이름, 고객을 식별 하는 데 사용 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객&#39;을 식별 하는 데 사용 되는 고객의 도메인 이름입니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -502,12 +502,12 @@ ms.locfileid: "67694931"
 
 <tr class="odd">
 <td>PartnerId</td>
-<td><p>특정 청구 엔터티 GUID 형식에서에 대 한 고유한 Microsoft Azure Active Directory 테 넌 트 식별자입니다. 조정에는 필요하지 않지만 유용한 정보일 수 있습니다. 모든 행에서 같습니다.</p></td>
+<td><p>특정 청구 엔터티에 대 한 고유 Microsoft Azure Active Directory 테 넌 트 식별자 (GUID 형식)입니다. 조정에는 필요하지 않지만 유용한 정보일 수 있습니다. 모든 행에서 같습니다.</p></td>
 </tr>
 
 <tr class="even">
 <td>Customer Id</td>
-<td><p>고유한 Microsoft Azure Active Directory 테 넌 트 ID를 GUID 형식으로 고객을 식별 하는 데 사용 합니다.</p></td>
+<td><p>사용자를 식별 하는 데 사용 되는 GUID 형식의 고유한 Microsoft Azure Active Directory 테 넌 트 ID입니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -517,7 +517,7 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 이렇게 해서는 안으로 고객/파트너 수 O365 포털을 통해 베 니 티/기본 도메인을 업데이트 하는 고객을 고유 하 게 식별 합니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
+<td><p>고객을 식별하는 데 사용되는 고객의 도메인 이름입니다. 고객/파트너가 O365 포털을 통해 베 니 티/default 도메인을 업데이트할 수 있으므로 고객을 고유 하 게 식별 하는 데 사용 하면 안 됩니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -536,13 +536,13 @@ ms.locfileid: "67694931"
 </tr>
 
 <tr class="even">
-<td>Reseller MpnId</td>
+<td>대리점 MpnId</td>
 <td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>주문 ID</td>
-<td><p>Microsoft commerce platform은 주문에 대 한 고유 식별자입니다. 지원 센터에 문의할 때 주문을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
+<td><p>Microsoft commerce platform의 주문에 대 한 고유 식별자입니다. 지원 센터에 문의할 때 주문을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -577,7 +577,7 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>제품의 게시자의 이름입니다.</p></td>
+<td><p>제품 게시자의 이름입니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -592,7 +592,7 @@ ms.locfileid: "67694931"
 
 <tr class="odd">
 <td>구독 ID</td>
-<td><p>Microsoft commerce platform은 구독에 대 한 고유 식별자입니다. 지원 센터에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다. 이 ID는 파트너 관리 콘솔의 구독 ID와 다릅니다.</p></td>
+<td><p>Microsoft commerce platform의 구독에 대 한 고유 식별자입니다. 지원 센터에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다. 이 ID는 파트너 관리 콘솔의 구독 ID와 다릅니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -607,7 +607,7 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>용어 및 Billingcycle</td>
-<td><p>기간 및 구매에 대 한 청구 주기입니다. 예를 들어, "1 년, 월."</p></td>
+<td><p>구매를 위한 용어 길이와 청구 주기입니다. 예: "1 년, 월"</p></td>
 </tr>
 
 <tr class="odd">
@@ -617,12 +617,12 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>Unit Price</td>
-<td><p>구매 시 게시 된 가격표의 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+<td><p>구매 시 가격표에 게시 된 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 </tr>
 
 <tr class="odd">
-<td>효과적인 단가</td>
-<td><p>단위 가격 조정을 만든 후입니다.</p></td>
+<td>유효 단가</td>
+<td><p>조정을 수행한 후 단가입니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -632,16 +632,16 @@ ms.locfileid: "67694931"
 
 <tr class="odd">
 <td>단위 형식</td>
-<td><p>구매 되는 단위의 형식입니다.</p></td>
+<td><p>구입할 단위의 유형입니다.</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>적용 가능한 할인을 설명 합니다.</p></td>
+<td><p>해당 할인에 대 한 설명입니다.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Sub Total</td>
+<td>하위 합계</td>
 <td><p>세금을 적용하기 전의 총액. 할인이 있을 경우 소계가 예상 총액과 일치하는지 확인합니다.</p></td>
 </tr>
 
@@ -662,13 +662,13 @@ ms.locfileid: "67694931"
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>대체 식별자에는 주문 id입니다.</p></td>
+<td><p>주문 ID에 대 한 대체 식별자입니다.</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>매일 배분 사용 현황 파일 필드
+## <a href="" id="dailyratedusagefields"></a>매일 등급 사용 파일 필드
 
 
 <table>
@@ -706,7 +706,7 @@ ms.locfileid: "67694931"
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>고객의 도메인 이름입니다. 현재 작업에 사용할 수 없습니다.</p></td>
+<td><p>고객의 도메인 이름입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -720,13 +720,13 @@ ms.locfileid: "67694931"
 </tr>
 
 <tr class="even">
-<td>Reseller MPNID</td>
-<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 현재 작업에 사용할 수 없습니다.</p></td>
+<td>대리점 MPNID</td>
+<td><p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>InvoiceNumber</td>
-<td><p>지정한 트랜잭션이 표시되는 송장 번호 현재 작업에 사용할 수 없습니다.</p></td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -756,7 +756,7 @@ ms.locfileid: "67694931"
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>GUID 형식으로 게시자의 ID입니다. 현재 작업에 사용할 수 없습니다.</p></td>
+<td><p>GUID 형식의 게시자 ID입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class=”even">
@@ -781,12 +781,12 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>사용 날짜</td>
-<td><p>서비스 사용의 날짜입니다.</p></td>
+<td><p>서비스 사용 날짜입니다.</p></td>
 </tr>
 
 <tr class="odd">
-<td>미터 종류</td>
-<td><p>측정기의 형식입니다.</p></td>
+<td>측정기 유형</td>
+<td><p>측정기의 유형입니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -795,59 +795,59 @@ ms.locfileid: "67694931"
 </tr>
 
 <tr class="odd">
-<td>미터 Id</td>
-<td><p>사용 중인 미터에 대 한 ID입니다.</p></td>
+<td>측정기 Id</td>
+<td><p>사용 되는 측정기의 ID입니다.</p></td>
 </tr>
 
 <tr class="even">
 <td>미터 하위 범주</td>
-<td><p>속도 영향을 줄 수 있는 Azure 서비스의 형식입니다.</p></td>
+<td><p>요금에 영향을 줄 수 있는 Azure 서비스의 유형입니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>미터 이름</td>
-<td><p>사용 중인 미터에 대 한 측정 단위입니다.</p></td>
+<td><p>사용 되는 측정기에 대 한 측정 단위입니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>요금제 지역</td>
+<td>측정기 지역</td>
 <td><p>이 열은 이 열이 적용 가능하고 채워진 서비스 지역 내에 있는 데이터 센터의 위치를 식별합니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>단위</td>
-<td><p>단위 리소스 이름입니다.</p></td>
+<td><p>리소스 이름의 단위입니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>사용한 수량</td>
+<td>소비 된 수량</td>
 <td><p>보고 기간 중 소비된 서비스 양(시간, GB 등). 이전 보고 기간의 미청구 사용량도 포함됩니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>리소스 위치</td>
-<td><p>측정기 실행 되 고 있는 데이터 센터입니다.</p></td>
+<td><p>측정기가 실행 되 고 있는 데이터 센터입니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>사용 되는 서비스</td>
+<td>사용 된 서비스</td>
 <td><p>사용한 Azure 플랫폼 서비스입니다.</p></td>
 </tr>
 
 
 <tr class="even">
 <td>리소스 URI</td>
-<td><p>사용 중인 리소스의 URI입니다.</p></td>
+<td><p>사용 되는 리소스의 URI입니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>청구 유형</td>
-<td><p>요금 또는 조정 유형. 현재 작업에 사용할 수 없습니다.</p></td>
+<td><p>요금 또는 조정 유형. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="even">
 <td>단가</td>
-<td><p>라이선스를 구매 시 가격표를 게시 하는 대로 당 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
+<td><p>구매 시 가격표에 게시 된 라이선스 당 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -857,27 +857,27 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>단위 형식</td>
-<td><p>측정기 요금이 청구 되는 단위의 형식입니다. 현재 작업에 사용할 수 없습니다.</p></td>
+<td><p>미터의 요금이 청구 되는 단위 유형입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="odd">
 <td>청구 전 세금</td>
-<td><p>세금 전에 총 공간입니다.</p></td>
+<td><p>세금 전 총 금액입니다.</p></td>
 </tr>
 
 <tr class="even">
 <td>청구 통화</td>
-<td><p>고객의 지리적 지역에 통화</p></td>
+<td><p>고객 지역의 통화</p></td>
 </tr>
 
 <tr class="odd">
-<td>세금 공제 전 가격 책정 요약</td>
-<td><p>가격 책정 세금 추가 되기 전에 합니다.</p></td>
+<td>가격 책정 pretax 합계</td>
+<td><p>세금이 추가 되기 전의 가격 책정입니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>통화 가격 책정</td>
-<td><p>가격표에서 통화입니다.</p></td>
+<td>가격 책정 통화</td>
+<td><p>가격표의 통화입니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -892,14 +892,14 @@ ms.locfileid: "67694931"
 
 <tr class="even">
 <td>추가 정보</td>
-<td><p>다른 열에서 다루지 않는 추가 정보.</p></td>
+<td><p>다른 열에서 다루지 않는 추가 정보입니다.</p></td>
 </tr>
 
 </tbody>
 </table>
 
 
-## <a href="" id="charge_types"></a>청구서 및 조정 파일 간 요금 매핑
+## <a href="" id="charge_types"></a>청구서와 조정 파일 간 요금 매핑
 
 송장은 요금 요약 정보를 제공하는 반면 조정 파일은 요금 종류를 비롯한 거래 품목의 구체적인 분류 정보를 제공합니다.
 
@@ -913,16 +913,16 @@ ms.locfileid: "67694931"
 <tbody>
 <tr>
 <td>
-<p><strong>청구서 금액 충전 설명</strong></p>
+<p><strong>송장 청구 설명</strong></p>
 </td>
 <td>
-<p><strong>조정 파일 금액 설명 (ChargeType 열)</strong></p>
+<p><strong>조정 파일 요금 설명 (Chargetcharcolumn)</strong></p>
 </td>
 <td>
-<p><strong>이 요금 이란 무엇 인가요?</strong></p>
+<p><strong>이 요금은 어떻게 청구 되나요?</strong></p>
 </td>
 <td>
-<p><strong>이러한 ChargeTypes를 청구서에 매핑하려면 어떻게 하나요?</strong></p>
+<p><strong>이러한 ChargeTypes을 청구서에 어떻게 할까요? 지도?</strong></p>
 </td>
 </tr>
 <tr>
@@ -976,7 +976,7 @@ ms.locfileid: "67694931"
 <p>구매 시 비례 배분 방식 요금</p>
 </td>
 <td>
-<p>연간 청구를 사용 하는 경우 구독에 대 한 요금 유형</p>
+<p>연간 청구를 사용 하는 경우 구독에 대 한 요금 청구 유형</p>
 </td>
 </tr>
 <tr>
@@ -984,7 +984,7 @@ ms.locfileid: "67694931"
 <p>구매 요금</p>
 </td>
 <td>
-<p>월 청구 비용은 사용 하는 경우 구독에 대 한 요금 유형</p>
+<p>월간 청구를 사용 하는 경우 구독에 대 한 요금 청구 유형</p>
 </td>
 </tr>
 <tr>
@@ -1024,7 +1024,7 @@ ms.locfileid: "67694931"
 <p>단추를 사용하여 새</p>
 </td>
 <td>
-<p>새 구매를 만들 때 사용</p>
+<p>새 구매가 생성 될 때 사용 됩니다.</p>
 </td>
 
 <p></p>
@@ -1035,27 +1035,27 @@ ms.locfileid: "67694931"
 <p>addQuantity</p>
 </td>
 <td>
-<p>증가 한 후 원래 구매 및 새 수량은 환불이 적용 모두 사용</p>
+<p>원래 구매 환불 및 증가 후 새로운 수량 모두에 사용 됨</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>removeQuantity</p>
+<p>remov</p>
 </td>
 <td>
-<p>감소 후 원래 구매 및 새 수량은 환불이 적용 모두 사용</p>
+<p>원래 구매 환불 및 감소 후 새로운 수량 모두에 사용 됨</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>Cancel</p>
+<p>취소</p>
 </td>
 <td>
-<p>구독 취소 되 면 사용</p>
+<p>구독이 취소 될 때 사용 됩니다.</p>
 </td>
 </tr>
 
@@ -1065,7 +1065,7 @@ ms.locfileid: "67694931"
 <p>변환</p>
 </td>
 <td>
-<p>라이선스를 업그레이드 하지만 좌석 수 그대로 유지 하는 경우에 사용</p>
+<p>라이선스가 업그레이드 될 때 사용 되지만 사용자의 수는 변경 되지 않은 상태로 유지 됩니다.</p>
 </td>
 </tr>
 
@@ -1153,7 +1153,7 @@ ms.locfileid: "67694931"
 <p><strong>라이선스 기반 할인</strong></p>
 </td>
 <td>
-<p><em>여러 요금 유형에 적용할 수 있습니다.</em></p>
+<p><em>여러 요금 유형에 적용 될 수 있습니다.</em></p>
 </td>
 <td>
 <p></p>
@@ -1167,8 +1167,8 @@ ms.locfileid: "67694931"
 <p><strong>세금</strong>&nbsp;또는&nbsp;<strong>VAT</strong></p>
 </td>
 <td>
-<p><em>여러 요금 유형에 적용할 수 있습니다.</em></p>
-<p><em>예외: &quot;품목 요금 차감&quot; 이미 세금이 포함 되어 있습니다. 위의 크레딧을 참조 하세요.</em></p>
+<p><em>여러 요금 유형에 적용 될 수 있습니다.</em></p>
+<p><em>예외: &quot;Offset 품목&quot; 에 이미 세금이 포함 되어 있습니다. 위의 크레딧을 참조 하세요.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>
