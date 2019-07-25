@@ -1,108 +1,107 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="dafca-101">파트너 보안 요구 사항을 구현</span><span class="sxs-lookup"><span data-stu-id="dafca-101">Implementing the partner security requirements</span></span>
+title: <span data-ttu-id="dc9af-101">파트너 보안 요구 사항 구현</span><span class="sxs-lookup"><span data-stu-id="dc9af-101">Implementing the partner security requirements</span></span>
 metadata:
-  title: 파트너 보안 요구 사항을 구현
-  description: 이 자습서에서는 하에 대 한 파트너 보안 요구 사항을 충족 하는 방법을 배웁니다.
+  title: 파트너 보안 요구 사항 구현
+  description: 이 자습서에서는 파트너 보안 요구 사항 및이를 수행 하는 방법에 대해 알아봅니다.
   audience: Partners
   level: Beginner
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
-  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
+  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 06/24/2019
-  ms.locfileid: "67347012"
+  ms.lasthandoff: 07/18/2019
+  ms.locfileid: "68313956"
 items:
-- title: <span data-ttu-id="dafca-104">소개</span><span class="sxs-lookup"><span data-stu-id="dafca-104">Introduction</span></span>
+- title: <span data-ttu-id="dc9af-104">소개</span><span class="sxs-lookup"><span data-stu-id="dc9af-104">Introduction</span></span>
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="dafca-105">보안 및 개인 고객 및 파트너의 Microsoft에 대 한 최상위 우선 순위 이며</span><span class="sxs-lookup"><span data-stu-id="dafca-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="dafca-106">주로 손상 된 id와 관련 된 보다 복잡 한 보안 공격의 증가를 계속 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="dafca-107">보안 공격을 막기 위해 전체 방어 전략에서 키 역할을 수행 하는 예방적 컨트롤에 따라 다양 한 파트너 및 고객을 보호 하기 위해 필수 보안 요구 사항 적용 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    <span data-ttu-id="dc9af-105">고객과 파트너의 보안 및 개인 정보는 Microsoft의 최우선 순위입니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="dc9af-106">주로 손상 된 id와 관련 하 여 더 복잡 한 보안 공격을 계속 해 서 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="dc9af-107">예방 제어는 보안 공격을 방지 하기 위해 전반적인 방어 전략에서 주요 역할을 수행 하므로 파트너와 고객을 보호 하기 위한 필수 보안 요구 사항 집합을 적용 하기 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
 
 
-    <span data-ttu-id="dafca-108">이 자습서를 통해 배웁니다 파트너 보안 요구 사항에 대 한 자세한 정보 및 파트너 디렉터리의 사용자에 게 미치는 영향을 달성 하는 방법입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="dafca-109">파트너 보안 요구 사항은 무엇입니까?</span><span class="sxs-lookup"><span data-stu-id="dafca-109">What are the partner security requirements?</span></span>
+    <span data-ttu-id="dc9af-108">이 자습서에서는 파트너 보안 요구 사항,이를 수행 하는 방법 및 파트너 디렉터리의 사용자에 게 미치는 영향에 대해 자세히 설명 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
+- title: <span data-ttu-id="dc9af-109">파트너 보안 요구 사항은 무엇 인가요?</span><span class="sxs-lookup"><span data-stu-id="dc9af-109">What are the partner security requirements?</span></span>
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="dafca-110">클라우드 솔루션 공급자 프로그램, 컨트롤 패널 공급 업체 및 관리자 파트너에 있는 모든 파트너가 참여 하는 각 사용자가 파트너 테 넌 트에 대 한 Multi-factor Authentication (MFA)을 적용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="dafca-111">두 개를 사용 하 여 이렇게 [Azure Active Directory 기준 정책을](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="dafca-112">기본 정책은 조직에서는 여러 일반적인 공격 으로부터 보호 하는 미리 정의 된 정책 집합.</span><span class="sxs-lookup"><span data-stu-id="dafca-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="dafca-113">이러한 일반적인 공격 암호 스프레이, 재생 및 피싱에 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="dafca-114">기본 정책은 Azure Active Directory의 모든 버전에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="dafca-115">Microsoft 기본 보호 정책은 이러한에서 제공 하 모든 사용자에 게 id를 기반으로 공격 지난 몇 년간 점점 증가 하 고 되었기 때문입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    <span data-ttu-id="dc9af-110">클라우드 솔루션 공급자 프로그램, 제어판 공급 업체 및 Advisor 파트너에 참여 하는 모든 파트너는 파트너 테 넌 트의 각 사용자에 대해 MFA (Multi-factor Authentication)를 적용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="dc9af-111">이러한 작업은 두 가지 [Azure Active Directory 기준 정책을](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)사용 하 여 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="dc9af-112">기준 정책은 여러 일반적인 공격 으로부터 조직을 보호 하는 데 도움이 되는 미리 정의 된 정책 집합입니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="dc9af-113">이러한 일반적인 공격은 암호 스프레이, 재생 및 피싱을 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="dc9af-114">기본 정책은 모든 버전의 Azure Active Directory에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="dc9af-115">Microsoft는 id 기반 공격이 지난 몇 년 동안 증가 하 여 모든 사용자에 게 이러한 기본 보호 정책을 사용할 수 있도록 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
 
 
-    <span data-ttu-id="dafca-116">두 기준 정책은 활성화 해야 하는 아래 표에 설명 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    <span data-ttu-id="dc9af-116">사용 하도록 설정 해야 하는 두 가지 기본 정책은 아래 표에 설명 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-116">The two baseline policies that should be enabled are described in the table below.</span></span>
 
 
-    |<span data-ttu-id="dafca-117">**정책**</span><span class="sxs-lookup"><span data-stu-id="dafca-117">**Policy**</span></span>| |
+    |<span data-ttu-id="dc9af-117">**정책**</span><span class="sxs-lookup"><span data-stu-id="dc9af-117">**Policy**</span></span>| |
 
     |-----|-----|
 
-    |<span data-ttu-id="dafca-118">**관리자에 대해 MFA 요구**</span><span class="sxs-lookup"><span data-stu-id="dafca-118">**Require MFA for admins**</span></span>|<span data-ttu-id="dafca-119">관리자 정책에 대 한 필요한 MFA를 사용 하도록 설정한 관리자 역할의 사용자를 Authenticator 앱을 사용 하 여 MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="dafca-120">MFA 등록이 완료 되 면 관리자가 MFA를 수행할 때마다 로그인 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |<span data-ttu-id="dc9af-118">**관리자 용 MFA 필요**</span><span class="sxs-lookup"><span data-stu-id="dc9af-118">**Require MFA for admins**</span></span>|<span data-ttu-id="dc9af-119">관리자에 대해 MFA 필요 정책을 사용 하도록 설정 하면 관리자 역할의 사용자가 Authenticator 앱을 사용 하 여 MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="dc9af-120">MFA 등록이 완료 되 면 관리자가 로그인 할 때마다 MFA를 수행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
 
-    |<span data-ttu-id="dafca-121">**최종 사용자 보호**</span><span class="sxs-lookup"><span data-stu-id="dafca-121">**End user protection**</span></span>|<span data-ttu-id="dafca-122">최종 사용자 보호는 디렉터리의 모든 사용자를 보호 하는 위험 기반 MFA 기본 정책입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="dafca-123">이 정책을 사용 하면 Authenticator 앱을 사용 하 여 MFA에 등록 하는 모든 사용자가 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="dafca-124">사용자는 차단 됩니다 MFA에 등록 될 때까지 로그인에서 14 일간 MFA 등록 프롬프트를 무시할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="dafca-125">MFA에 등록 되 면 위험한 로그인 시도 하는 동안에 사용자 MFA에 대 한 메시지가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="dafca-126">손상 된 사용자 계정 암호 다시 설정 되 고 위험 이벤트 해제 된 될 때까지 차단 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |<span data-ttu-id="dc9af-121">**최종 사용자 보호**</span><span class="sxs-lookup"><span data-stu-id="dc9af-121">**End user protection**</span></span>|<span data-ttu-id="dc9af-122">최종 사용자 보호는 디렉터리의 모든 사용자를 보호 하는 위험 기반 MFA 기준 정책입니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="dc9af-123">이 정책을 사용 하도록 설정 하려면 모든 사용자가 Authenticator 앱을 사용 하 여 MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="dc9af-124">사용자는 mfa 등록 프롬프트를 14 일 동안 무시할 수 있으며 그 후에는 MFA에 등록 하기 전까지 로그인이 차단 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="dc9af-125">MFA에 등록 되 면 사용자에 게 위험한 로그인 시도 중에만 MFA를 묻는 메시지가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="dc9af-126">손상 된 사용자 계정은 해당 암호를 다시 설정 하 고 위험 이벤트를 해제할 때까지 차단 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
 
 
-    <span data-ttu-id="dafca-127">이러한 정책을 사용할 경우 각 사용자를 추가 비용 없이 Azure MFA를 사용할 수 있게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="dafca-128">타사 솔루션을 사용 하는 경우 Microsoft 상용 클라우드 서비스에 액세스 하는 경우 각 사용자에 대 한 MFA를 적용할 필요가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    <span data-ttu-id="dc9af-127">이러한 정책을 사용 하도록 설정 하면 각 사용자는 추가 비용 없이 Azure MFA를 활용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="dc9af-128">타사 솔루션을 사용 하는 경우 Microsoft 상용 클라우드 서비스에 액세스할 때 각 사용자에 대해 MFA를 적용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="dafca-129">파트너 디렉터리에 모든 사용자에 대 한 MFA를 적용 하므로 모든 자동화 및 사용자 자격 증명을 활용 하는 통합에 영향을 미칠이 됩니다 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="dafca-130">하는 방법을 수정 해야 합니다.이 영향을 해결 하 여 자동화 및 통합 Microsoft 상용 클라우드 서비스에 연결 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="dafca-131">구현 하는 것이 좋습니다. 경우에 연결 하는 서비스는 토큰 기반된 인증을 지원 합니다 [응용 프로그램 모델 보안 프레임 워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="dafca-132">관리자 기본 정책에 대 한 필요한 MFA를 어떻게 사용 합니까?</span><span class="sxs-lookup"><span data-stu-id="dafca-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > <span data-ttu-id="dc9af-129">MFA는 파트너 디렉터리의 모든 사용자에 게 적용 되므로 사용자 자격 증명을 활용 하는 모든 자동화 또는 통합에 영향을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="dc9af-130">이러한 영향을 해결 하려면 automation 또는 통합이 Microsoft 상용 클라우드 서비스에 연결 하는 방법을 수정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="dc9af-131">연결 중인 서비스에서 토큰 기반 인증을 지 원하는 경우 [보안 응용 프로그램 모델 프레임 워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)를 구현 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
+- title: <span data-ttu-id="dc9af-132">관리자 기준 정책에 대해 MFA 필요를 사용 하도록 설정 어떻게 할까요??</span><span class="sxs-lookup"><span data-stu-id="dc9af-132">How do I enable the Require MFA for admins baseline policy?</span></span>
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="dafca-133">합니다 *관리자에 대 한 MFA를 요구* 기준 정책 간주 가장 권한이 있는 Azure AD 역할은 다음 디렉터리 역할에 대 한 MFA를 요구 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+    <span data-ttu-id="dc9af-133">*관리 기준에 Mfa 필요* 정책에는 다음 디렉터리 역할에 대 한 mfa가 필요 하며, 가장 권한 있는 Azure AD 역할로 간주 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
 
 
-    - <span data-ttu-id="dafca-134">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-134">Global administrator</span></span>
+    - <span data-ttu-id="dc9af-134">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-134">Global administrator</span></span>
 
-    - <span data-ttu-id="dafca-135">SharePoint 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-135">SharePoint administrator</span></span>
+    - <span data-ttu-id="dc9af-135">SharePoint 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-135">SharePoint administrator</span></span>
 
-    - <span data-ttu-id="dafca-136">Exchange 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-136">Exchange administrator</span></span>
+    - <span data-ttu-id="dc9af-136">Exchange 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-136">Exchange administrator</span></span>
 
-    - <span data-ttu-id="dafca-137">조건부 액세스 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-137">Conditional access administrator</span></span>
+    - <span data-ttu-id="dc9af-137">조건부 액세스 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-137">Conditional access administrator</span></span>
 
-    - <span data-ttu-id="dafca-138">보안 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-138">Security administrator</span></span>
+    - <span data-ttu-id="dc9af-138">보안 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-138">Security administrator</span></span>
 
-    - <span data-ttu-id="dafca-139">기술 지원팀 관리자 / 암호 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-139">Helpdesk administrator / Password administrator</span></span>
+    - <span data-ttu-id="dc9af-139">기술 지원팀 관리자/암호 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-139">Helpdesk administrator / Password administrator</span></span>
 
-    - <span data-ttu-id="dafca-140">대금 청구 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-140">Billing administrator</span></span>
+    - <span data-ttu-id="dc9af-140">대금 청구 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-140">Billing administrator</span></span>
 
-    - <span data-ttu-id="dafca-141">사용자 관리자</span><span class="sxs-lookup"><span data-stu-id="dafca-141">User administrator</span></span>
-
-
-    <span data-ttu-id="dafca-142">관리자 정책에 대 한 필요한 MFA를 사용 하도록 설정 하면, 위의 9 관리자 역할에 Authenticator 앱을 사용 하 여 MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="dafca-143">MFA 등록 완료 되 면 관리자에 로그인 할 때마다 MFA를 수행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+    - <span data-ttu-id="dc9af-141">사용자 관리자</span><span class="sxs-lookup"><span data-stu-id="dc9af-141">User administrator</span></span>
 
 
-    <span data-ttu-id="dafca-144">조직에 이러한 계정은 스크립트 또는 코드에서 사용 중인 경우 대체 하 여 고려해 야 [identities 관리](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+    <span data-ttu-id="dc9af-142">관리자에 대해 MFA 필요 정책을 사용 하도록 설정 하면 위의 9 개 관리자 역할이 인증 앱을 사용 하 여 MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="dc9af-143">MFA 등록이 완료 되 면 관리자는 로그인 할 때마다 MFA를 수행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
 
 
-    <span data-ttu-id="dafca-145">이 정책을 사용 하도록 설정 및 관리자에 게 보호 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-145">To enable this policy and protect your administrators:</span></span>
+    <span data-ttu-id="dc9af-144">조직에서 스크립트나 코드에 이러한 계정을 사용 하는 경우 [관리 되는 id](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)로 대체 하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
 
 
-    1. <span data-ttu-id="dafca-146">에 로그인 합니다 **Azure portal** 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    <span data-ttu-id="dc9af-145">이 정책을 사용 하도록 설정 하 고 관리자를 보호 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-145">To enable this policy and protect your administrators:</span></span>
 
-    2. <span data-ttu-id="dafca-147">이동할 **Azure Active Directory** > **조건부 액세스**합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="dafca-148">정책 목록에서 선택 **기준 정책: 관리자에 대 한 MFA를 요구할**합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+    1. <span data-ttu-id="dc9af-146">전역 관리자, 보안 관리자 또는 조건부 액세스 관리자 권한으로 **Azure Portal** 에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
 
-    4. <span data-ttu-id="dafca-149">설정할 **정책을 사용 하도록 설정** 하 **즉시 정책을 사용 하 여**입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+    2. <span data-ttu-id="dc9af-147">**Azure Active Directory** > **조건부 액세스**로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    5. <span data-ttu-id="dafca-150">클릭 **저장할**합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-150">Click **Save**.</span></span>
+    3. <span data-ttu-id="dc9af-148">정책 목록에서 기준 정책을 선택 **합니다. 관리자**용 MFA를 요구 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
 
-      ![관리자에 대해 MFA 요구](../images/security/baseline-policy-require-mfa-for-admins.png)
+    4. <span data-ttu-id="dc9af-149">정책 \*\*\*\* **사용을 즉시 정책**사용으로 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+
+    5. <span data-ttu-id="dc9af-150"> *\*저장*\*을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-150">Click **Save**.</span></span>
+
 
     > [!WARNING]
 
-    > <span data-ttu-id="dafca-152">이 정책은 사용 하기 전에 사용자가 레거시 인증 프로토콜을 사용 하지 않는 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-152">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="dafca-153">문서를 참조 [방법: Azure ad 조건부 액세스를 사용 하 여 레거시 인증 블록](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) 자세한 내용은 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-153">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > <span data-ttu-id="dc9af-151">이 정책을 사용 하도록 설정 하기 전에 사용자가 레거시 인증 프로토콜을 사용 하 고 있지 않은지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="dc9af-152">[자세한 내용은 다음을 참조 하세요. 자세한 내용은 조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) 를 사용 하 여 Azure AD에 대 한 레거시 인증을 차단 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="dafca-154">관리 권한을 위임 받았는지 MFA 적용 되는 경우 Exchange Online PowerShell에 연결을 활용 하는 능력에 영향을 주는 알려진된 문제는 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-154">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="dafca-155">참조 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 자세한 내용은 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-155">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+    > <span data-ttu-id="dc9af-153">MFA를 적용 하는 경우 위임 된 관리 권한을 활용 하 여 Exchange Online PowerShell에 연결 하는 기능에 영향을 주는 알려진 문제가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="dc9af-154">자세한 내용은 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="dc9af-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
 
 
-    <span data-ttu-id="dafca-156">사용 하도록 설정 했으면 합니다 *관리자에 대 한 MFA를 요구* 기본 정책에 로그인 할 때 위의 관리자 역할의 멤버인 사용자는 새로운 환경을 발생할 수 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-156">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="dafca-157">다음 그림은 경험할이 정책에 의해 영향을 받는 사용자</span><span class="sxs-lookup"><span data-stu-id="dafca-157">The following figures are what users impacted by this policy will experience</span></span>
+    <span data-ttu-id="dc9af-155">관리자 기준 정책 *에 대해 MFA 필요* 를 사용 하도록 설정 하면 위의 관리자 역할에 속한 사용자가 로그인 할 때 새로운 환경을 경험할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="dc9af-156">다음 그림은이 정책의 영향을 받는 사용자의 영향을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-156">The following figures are what users impacted by this policy will experience</span></span>
 
-      ![자세한 정보에 대 한 프롬프트](../images/security/baseline-require-more-info.png)
+      ![자세한 정보 확인](../images/security/baseline-require-more-info.png)
 
       ![추가 보안 유효성 검사](../images/security/baseline-security-verification-setup.png)
 
@@ -112,44 +111,43 @@ items:
 
       ![추가 보안 유효성 검사 확인](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="dafca-163">사용자가 위의 단계를 완료 한 후 로그인 Microsoft 클라우드 서비스에 액세스 하 려 했던 것을 볼 수 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-163">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="dafca-164">최종 사용자 보호 기준 정책을 사용 하도록 설정 하는 방법</span><span class="sxs-lookup"><span data-stu-id="dafca-164">How do I enable the End user protection baseline policy?</span></span>
+    <span data-ttu-id="dc9af-162">사용자가 위의 단계를 완료 하면 액세스를 시도 하는 Microsoft 클라우드 서비스에 로그인 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
+- title: <span data-ttu-id="dc9af-163">최종 사용자 보호 기준 정책을 사용 하도록 설정 어떻게 할까요? 시겠습니까?</span><span class="sxs-lookup"><span data-stu-id="dc9af-163">How do I enable the End user protection baseline policy?</span></span>
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="dafca-165">최종 사용자 보호 기준 정책을 디렉터리의 모든 사용자를 보호합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-165">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="dafca-166">이 정책을 사용 하면 모든 사용자가 14 일 이내에 Azure MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-166">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="dafca-167">사용자에 게 메시지가 등록 되 면 위험한 로그인 시도 하는 동안에 MFA에 대 한이 문제는 파트너 테 넌 트에 대 한 향후 변경 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-167">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="dafca-168">손상 된 사용자 계정 암호 다시 설정 하 고 사건의 위험이 될 때까지 차단 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-168">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    <span data-ttu-id="dc9af-164">최종 사용자 보호 기준 정책은 디렉터리의 모든 사용자를 보호 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="dc9af-165">이 정책을 사용 하도록 설정 하려면 모든 사용자가 14 일 내에 Azure MFA에 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="dc9af-166">등록 한 후에는 위험한 로그인을 시도 하는 동안에만 사용자에 게 MFA를 요청 하는 메시지가 표시 됩니다 .이 동작은 나중에 파트너 테 넌 트에 대해 변경 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="dc9af-167">손상 된 사용자 계정은 암호 재설정 및 위험 해제 될 때까지 차단 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
 
 
-    <span data-ttu-id="dafca-169">정책 **기준 정책: 최종 사용자 보호** 미리 구성 되어 및 Azure portal에서 조건부 액세스 블레이드로 이동 하면 위쪽에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-169">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    <span data-ttu-id="dc9af-168">정책 **기준 정책: 최종 사용자 보호** 는 미리 구성 되어 있으며 Azure Portal의 조건부 액세스 블레이드로 이동 하면 위쪽에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
 
 
-    <span data-ttu-id="dafca-170">이 정책을 사용 하도록 설정 및 사용자를 보호 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-170">To enable this policy and protect your users:</span></span>
+    <span data-ttu-id="dc9af-169">이 정책을 사용 하도록 설정 하 고 사용자를 보호 하려면:</span><span class="sxs-lookup"><span data-stu-id="dc9af-169">To enable this policy and protect your users:</span></span>
 
 
-    1. <span data-ttu-id="dafca-171">에 로그인 합니다 **Azure portal** 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-171">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. <span data-ttu-id="dc9af-170">전역 관리자, 보안 관리자 또는 조건부 액세스 관리자 권한으로 **Azure Portal** 에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
 
-    2. <span data-ttu-id="dafca-172">이동할 **Azure Active Directory** > **조건부 액세스**합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-172">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. <span data-ttu-id="dc9af-171">**Azure Active Directory** > **조건부 액세스**로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="dafca-173">정책 목록에서 선택 **기준 정책: 최종 사용자 보호 (미리 보기)** 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-173">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. <span data-ttu-id="dc9af-172">정책 목록에서 기준 정책을 선택 **합니다. 최종 사용자 보호 (미리 보기**).</span><span class="sxs-lookup"><span data-stu-id="dc9af-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
 
-    4. <span data-ttu-id="dafca-174">설정할 **정책을 사용 하도록 설정** 하 **즉시 정책을 사용 하 여**입니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-174">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. <span data-ttu-id="dc9af-173">정책 \*\*\*\* **사용을 즉시 정책**사용으로 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-173">Set **Enable policy** to **Use policy immediately**.</span></span>
 
-    5. <span data-ttu-id="dafca-175">클릭 **저장할**합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-175">Click **Save**.</span></span>
+    5. <span data-ttu-id="dc9af-174"> *\*저장*\*을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-174">Click **Save**.</span></span>
 
-      ![최종 사용자 보호](../images/security/baseline-policy-end-user-protection.png)
 
     > [!WARNING]
 
-    > <span data-ttu-id="dafca-177">이 정책은 사용 하기 전에 사용자가 레거시 인증 프로토콜을 사용 하지 않는 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-177">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="dafca-178">문서를 참조 [방법: Azure ad 조건부 액세스를 사용 하 여 레거시 인증 블록](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) 자세한 내용은 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-178">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > <span data-ttu-id="dc9af-175">이 정책을 사용 하도록 설정 하기 전에 사용자가 레거시 인증 프로토콜을 사용 하 고 있지 않은지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="dc9af-176">[자세한 내용은 다음을 참조 하세요. 자세한 내용은 조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) 를 사용 하 여 Azure AD에 대 한 레거시 인증을 차단 합니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="dafca-179">관리 권한을 위임 받았는지 MFA 적용 되는 경우 Exchange Online PowerShell에 연결을 활용 하는 능력에 영향을 주는 알려진된 문제는 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-179">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="dafca-180">참조 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 자세한 내용은 합니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-180">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+    > <span data-ttu-id="dc9af-177">MFA를 적용 하는 경우 위임 된 관리 권한을 활용 하 여 Exchange Online PowerShell에 연결 하는 기능에 영향을 주는 알려진 문제가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="dc9af-178">자세한 내용은 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 을 참조 하십시오.</span><span class="sxs-lookup"><span data-stu-id="dc9af-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
 
 
-    <span data-ttu-id="dafca-181">사용 하도록 설정 하는 *최종 사용자 보호* 기준 정책에 로그인 할 때 모든 사용자에 게 새로운 환경을 발생 수는 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-181">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="dafca-182">다음 그림은 사용자가 경험할 내용</span><span class="sxs-lookup"><span data-stu-id="dafca-182">The following figures are what users will experience</span></span>
+    <span data-ttu-id="dc9af-179">*최종 사용자 보호* 기준 정책을 사용 하도록 설정 하면 모든 사용자가 로그인 할 때 새 환경을 경험할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="dc9af-180">다음 그림은 사용자가 경험할 수 있는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-180">The following figures are what users will experience</span></span>
 
-      ![자세한 정보에 대 한 프롬프트](../images/security/baseline-require-more-info.png)
+      ![자세한 정보 확인](../images/security/baseline-require-more-info.png)
 
       ![추가 보안 유효성 검사](../images/security/baseline-security-verification-setup.png)
 
@@ -159,4 +157,4 @@ items:
 
       ![추가 보안 유효성 검사 확인](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="dafca-188">사용자가 위의 단계를 완료 한 후 로그인 Microsoft 클라우드 서비스에 액세스 하 려 했던 것을 볼 수 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-188">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="dafca-189">파트너 보안 요구 사항이 적용 될 때까지 참고에서 다루지 않는 사용자를 *관리자에 대 한 MFA를 요구* 위험에 따라 MFA에 대 한 기본 정책 개만 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dafca-189">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    <span data-ttu-id="dc9af-186">사용자가 위의 단계를 완료 하면 액세스 하려는 Microsoft 클라우드 서비스에 로그인 할 수 있게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="dc9af-187">참고 파트너 보안 요구 사항이 적용 될 때까지 *관리자에 대 한 Mfa 필요* 기준 정책에 포함 되지 않은 사용자에 게는 위험에 따라 mfa를 묻는 메시지만 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dc9af-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
