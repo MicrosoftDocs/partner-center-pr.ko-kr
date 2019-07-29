@@ -3,7 +3,8 @@
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
 ## [회사 이메일 주소를 가져오는 방법](buy-email-domain.md)
-## PMC에서 파트너 센터로 이동
+## [파트너 관리 센터가 파트너 센터로 이동](pac-to-pc-overview.md)
+## Partner Membership Center에서 파트너 센터로 이동
 ### [Partner Membership Center에서 파트너 센터로 이동 준비](prepare-pmc-pc-migration.md)
 ### [PMC에서 파트너 센터로 이동하기 위한 가이드](guide-to-migration.md)
 ### [PMC와 PC의 차이점에 대한 빠른 보기](move-pmc-pc-map.md)
@@ -123,6 +124,7 @@
 ### [Windows Autopilot으로 디바이스 설정 간소화](autopilot.md)
 ##  제품을 최신 버전으로 업그레이드 또는 이전
 ### [Dynamics AX 구독을 Dynamics 365로 업그레이드](manual-subscription-migration.md)
+### [Dynamics 365 Business Edition 제품을 최신 버전으로 마이그레이션](migrate-dynamics-365-to-new.md)
 ### [Office 365 Enterprise E4 구독을 Office 365 최신 버전으로 마이그레이션](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [비즈니스용 Skype Online 플랜 1을 Office 365 최신 버전으로 마이그레이션](skype-retiring.md)
 ### [Azure 구독 이전](switch-azure-subscriptions-to-a-different-partner.md)
