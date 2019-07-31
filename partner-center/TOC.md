@@ -107,6 +107,7 @@
 ### [최대 예약 사용량에 맞게 VM 크기 조정](azure-usage.md)
 ### [고객을 대신하여 Microsoft Azure 예약 구입](azure-reservations-buying.md)
 ### [고객을 대신하여 Microsoft Azure 예약 관리](azure-reservations-manage.md)
+### [Azure Reserved VM Instances(RI) 및 서버 구독](azure-ri-server-subscriptions.md)
 ## [소프트웨어 구독](csp-software-subscriptions.md)
 ## [온라인 서비스(구독)](customer-subscriptions.md)
 ### [고객 구독 만들기, 일시 중단 또는 취소](create-a-new-subscription.md)
