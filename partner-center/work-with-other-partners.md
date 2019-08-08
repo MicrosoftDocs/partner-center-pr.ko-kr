@@ -6,12 +6,12 @@ description: 귀사가 공유하는 고객의 요구 사항을 충족할 수 있
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132963"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820540"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 
@@ -52,4 +52,4 @@ CSP에 간접 재판매인으로 등록해야 하는지 아니면 직접 파트�
 다중 채널 지원은 Microsoft의 국가별 클라우드 제품에서도 사용할 수 있습니다.
 
 > [!IMPORTANT]  
-> CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에 게 현재 온라인 서비스를 재판매 수 없습니다. Microsoft는 정책 및 모든 프로그램의 기능에 지속적으로 검토합니다. 기능 릴리스 또는 정책 변경 내용에 대 한 모든 뉴스를 포함 하 여 일반적인 통신 채널을 통해 발표 될 예정 [파트너 센터 공지](https://partner.microsoft.com/en-us/pcv/announcements)합니다.
+> CSP 프로그램의 파트너가 현재 CSP 프로그램의 다른 파트너에 온라인 서비스을 재판매 수 없습니다. Microsoft는 모든 프로그램의 정책 및 기능을 지속적으로 검토 합니다. 기능 릴리스 또는 정책 변경에 대 한 모든 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 비롯 한 일반적인 통신 채널을 통해 발표 됩니다.

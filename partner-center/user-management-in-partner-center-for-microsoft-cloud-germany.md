@@ -6,12 +6,12 @@ description: 개인 정보의 수집 및 사용에 대한 국가별, 지역별, 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132693"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820536"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -40,17 +40,17 @@ Microsoft 클라우드 독일 파트너 센터에 로그인하면 다시 로그�
 Microsoft 클라우드 독일 Azure 포털에 로그인한 후 Azure AD(Azure Active Directory) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.
 
 > [!NOTE]  
-> 아래 링크를 선택 하면 다른 웹 사이트로 이동 됩니다. 
+> 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다. 
 
 -  [Azure Active Directory에 새 사용자 추가](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Azure Active Directory에서 관리자 역할에 사용자 할당](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Azure Active Directory에서 사용자 암호 다시 설정](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory에서 사용자의 암호를 다시 설정 합니다.](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**관련된 항목**
+**관련 항목**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure 독일](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
 

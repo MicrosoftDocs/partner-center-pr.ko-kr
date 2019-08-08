@@ -2,18 +2,18 @@
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
-description: Microsoft 파트너의 혜택에 대해 알아보세요. 시장으로 이동 하 및 솔루션을 판매 하는 옵션, 비즈니스를 차별화을 광범위 한 업계 뿐만 아니라 프로그램의 제품 수 Microsoft 파트너 네트워크 제공 합니다.
+description: Microsoft 파트너의 혜택에 대해 알아보세요. Microsoft 파트너 네트워크은 업계에서 가장 넓은 범위의 제품을 제공 하 고, 비즈니스를 구분 하 고, 시장으로 이동 하 고, 솔루션을 판매 하기 위한 프로그램 옵션을 제공 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134343"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820626"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
@@ -23,55 +23,55 @@ Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크 가입
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
 
-시장으로 이동 하 및 솔루션을 판매 하는 옵션, 비즈니스를 차별화을 광범위 한 업계 뿐만 아니라 프로그램의 제품 수 Microsoft 파트너 네트워크 제공 합니다. 무료로 가입한 하 다음 Microsoft 작업 팩, 키트, 또는 역량 파트너 관계에 투자 하는 방법을 선택 합니다.
+Microsoft 파트너 네트워크은 업계에서 가장 넓은 범위의 제품을 제공 하 고, 비즈니스를 구분 하 고, 시장으로 이동 하 고, 솔루션을 판매 하기 위한 프로그램 옵션을 제공 합니다. 무료로 참여 하 고 Microsoft 작업 팩, 시작 키트 또는 역량을 사용 하 여 파트너 관계에 투자 하는 방법을 선택 합니다.
 
-작업 팩 또는 시작 키트는 소프트웨어 및 Microsoft 기반 솔루션을 구축 하는 지원을 제공 하 고 역량을 고객 및 다른 파트너에 게 전문 지식을 입증 된 방법을 보여 줍니다.
+작업 팩 또는 시작 키트는 Microsoft 기반 솔루션을 빌드하기 위한 소프트웨어 및 지원을 제공 하 고 역량은 고객과 기타 파트너에 게 입증 된 전문 지식을 보여 줍니다.
 
-자세한 내용은 Microsoft 파트너 네트워크 (MPN)에 대 한 참조를 [MPN 웹 사이트](https://partner.microsoft.com/commercial)합니다.
+Microsoft 파트너 네트워크 (MPN)에 대 한 자세한 내용은 [MPN 웹 사이트](https://partner.microsoft.com/commercial)를 참조 하세요.
 
-### <a name="how-to-join"></a>조인 하는 방법
+### <a name="how-to-join"></a>조인 방법
 
-Microsoft 파트너 네트워크에 조인 하려면로 이동 합니다 [ **멤버 자격** 페이지](https://partner.microsoft.com/membership) MPN 웹 사이트를 선택 **등록** 하거나 **지금 가입**.
+Microsoft 파트너 네트워크에 조인 하려면 MPN 웹 사이트의 [ **멤버 자격** 페이지로](https://partner.microsoft.com/membership) 이동 하 여 **등록** 또는 **지금 가입**을 선택 합니다.
 
-## <a name="microsoft-partner-network-membership-types"></a>Microsoft 파트너 네트워크 멤버 자격 유형
+## <a name="microsoft-partner-network-membership-types"></a>멤버 자격 형식 Microsoft 파트너 네트워크
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
 
-Microsoft 파트너 네트워크에는 아래 설명 된 대로 세 가지 유형의 멤버 자격을 제공 합니다. 각 유형은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다. 목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.
+이 Microsoft 파트너 네트워크에서는 아래에 설명 된 것 처럼 세 가지 유형의 멤버 자격을 제공 합니다. 각 유형은 비즈니스 성장에 도움이 되는 혜택 집합을 제공합니다. 목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack 빌드 및 클라우드 우선, 모바일 우선 세계에서 해당 Microsoft practice 증가 소프트웨어, 지원 및 시작 하려는 기업에 대 한 혜택을 제공 합니다. 
+Action Pack은 클라우드 우선, 모바일 우선 환경에서 Microsoft 사례를 시작, 빌드 및 확장 하려는 비즈니스에 대 한 소프트웨어, 지원 및 혜택을 제공 합니다. 
 
-Action Pack에 자세히 알아보려면 아래 리소스를 검토 합니다.
+Action Pack에 대 한 자세한 내용은 아래 리소스를 검토 하세요.
 
-- [클라우드 비즈니스를 앞으로 Microsoft Action Pack을 사용 하 여 이동](https://partner.microsoft.com/membership/action-pack)
+- [Microsoft Action Pack를 사용 하 여 클라우드 비즈니스 전환](https://partner.microsoft.com/membership/action-pack)
 - [Action Pack 가져오기](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Action Pack 구독 관리 파트너 멤버 자격 Center (PMC)에서 파트너 센터로 이동 하 했습니다. 이러한 이관 작업은 앞으로 몇 개월 동안에 걸쳐 이루어질 것입니다. 갱신 방법과 위치를 알려면 [Action Pack 얻기](mpn-get-action-pack.md)의 정보를 꼼꼼히 검토하세요.  
+    >PMC (파트너 구성원 센터)에서 파트너 센터로 Action Pack 구독 관리를 이동 하 고 있습니다. 이러한 이관 작업은 앞으로 몇 개월 동안에 걸쳐 이루어질 것입니다. 갱신 방법과 위치를 알려면 [Action Pack 얻기](mpn-get-action-pack.md)의 정보를 꼼꼼히 검토하세요.  
 
-- [MPN 제품 갱신](renew-mpn-offers.md)
+- [MPN 제안 갱신](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>역량
 
-비즈니스의 특수 영역에 솔루션 품질을 제공할 전문 지식을 입증 된 방법을 보여 줍니다. Microsoft 역량 잠재 것을 인식할 수 및 현재 고객의 요구를 충족 하도록 설계 되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
+전문 비즈니스 분야에서 품질 솔루션 제공에 대 한 검증 된 전문 지식을 보여 줍니다. Microsoft 역량은 현재 고객의 요구를 충족 하 고 예상 대로 인식할 수 있도록 설계 되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 
-역량에 자세히 알아보려면 아래 리소스를 검토 합니다.
+아래 리소스를 검토 하 여 역량에 대해 자세히 알아보세요.
 
 - [역량 파트너](https://partner.microsoft.com/membership/competencies)
 
-## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft 파트너 네트워크 혜택 및 요구 사항
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft 파트너 네트워크 이점 및 요구 사항
 
 Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 수 있는 일련의 핵심 혜택이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다.
 
-네트워크 혜택 및 요구 사항에 자세히 알아보려면 아래 리소스를 검토 합니다.
+네트워크 이점 및 요구 사항에 대해 자세히 알아보려면 아래 리소스를 검토 하세요.
 
-- [주요 이점](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [주요 이점](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
 - [파트너 센터에서 MPN 혜택 관리](manage-your-partner-network-benefits.md)
-- [핵심 요구 사항](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+- [핵심 요구 사항](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>참조
 - [Microsoft 파트너 비즈니스 성장](grow-your-business.md)

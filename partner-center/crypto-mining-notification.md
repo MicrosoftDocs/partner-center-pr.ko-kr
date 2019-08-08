@@ -1,30 +1,30 @@
 ---
-title: Crypto 마이닝 작업에 대 한 파트너 센터 알림을 | 파트너 센터
+title: 암호화-마이닝 작업에 대 한 파트너 센터 알림 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
 description: 진행 중인 잠재적인 암호화 마이닝에 대한 알림입니다.
 author: LauraBrenner
-ms.author: v-petand
-Keywords: 암호화-마이닝 가상 통화 마이닝, 보안
+ms.author: labrenne
+Keywords: 암호화-마이닝, 이용 마이닝, 보안
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135062"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708843"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>가상 통화 마이닝 작업에 대 한 파트너 센터 알림
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>이용 마이닝 작업에 대 한 파트너 센터 알림
 
 **적용 대상**
 
 -  파트너 센터
 -  CSP 파트너
 
-가상 통화 마이닝에 대 한 다음 파트너 센터 알림을 받을 수 있습니다.
+다음 파트너 센터에서 이용 마이닝 알림을 받았을 수 있습니다.
  
-![파트너 센터에서 보안 알림 이미지](images/crypto1.png)
+![파트너 센터의 보안 알림 이미지](images/crypto1.png)
 
 지난 주 동안 하나 이상의 Azure 구독에 대해 암호화 마이닝을 감지했다는 것을 알리는 것이 이 알림의 목적입니다. 암호화 마이닝은 반드시 사기 활동과 같은 의미는 아닙니다. 그러나 Azure에서 실행 중인 암호화 마이닝의 비용이 잠재적인 금융 보상을 뛰어 넘기 때문에 이것이 비정상적인 것은 아닙니다. 여러분과 여러분의 고객에게 영향을 미칠 수 있는 금융 사기를 차단하려면 다음과 같은 단계를 고려합니다.
 
@@ -37,7 +37,7 @@ ms.locfileid: "62135062"
 활동이 예상된 것이면 고객의 Azure 구독 세부 정보 페이지로 돌아가서 암호화 마이닝이 합법인지 확인합니다. 
 
 
-![고객의 Azure 구독 세부 정보 페이지의 이미지](images/crypto2.png)
+![고객의 Azure 구독 세부 정보 페이지 이미지](images/crypto2.png)
 
 예기치 않은 활동인 경우에는 다음을 고려합니다.
 
@@ -45,13 +45,13 @@ ms.locfileid: "62135062"
 
 2.  리소스가 처음에 어떻게 생성되었는지를 이해합니다. 이를 위해서는 리소스 프로비저닝 활동에 대한 Azure Resource Management 로그를 검토해야 합니다.
 
-3.  확인 하려는 구독을 만든 경우 파트너 센터 작업 로그를 검토 합니다.
+3.  구독을 만든 사용자를 확인 해야 하는 경우 파트너 센터 활동 로그를 검토 합니다.
 
 암호화 마이닝 활동의 감지는 추론을 기반으로 하기 때문에 100%의 정확성이 보장되지 않을 수 있습니다. 사기 활동이나 기타 허락되지 않은 활동을 막기 위한 거버넌스 및 모니터링 시스템이 구축되어 있어야 합니다. 자세한 내용은 [비결제, 사기 또는 남용](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)을 참조하세요.
 
 알림에 대한 질문 또는 우려 사항이 있는 경우 다음 절차를 따라 지원 요청을 시작할 수 있습니다.
 
-1.  파트너 센터에서 선택 **지원** 선택한 후 **파트너 센터 요청**합니다.
+1.  파트너 센터에서 **지원** 을 선택 하 고 **파트너 센터 요청**을 선택 합니다.
 3.  **새 요청**을 선택합니다. 
 4.  **문제 유형** 드롭다운 메뉴에서 **고객 추가 또는 관리**를 선택합니다.
 5.  **영향** 드롭다운 메뉴에서 **보통**을 선택합니다.

@@ -1,26 +1,26 @@
 ---
-title: Software Assurance 프로그램 | 파트너 센터
+title: 소프트웨어 보증 프로그램 | 파트너 센터
 ms.topic: article
-ms.date: 01/14/19
-description: 등록 하 고 파트너 센터에서 Software Assurance 프로그램 관리
+ms.date: 01/14/2019
+description: 파트너 센터에서 소프트웨어 보증 프로그램 등록 및 관리
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ad6ac1d360e958ae75b3c14467928d77ec1b547d
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133862"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708852"
 ---
-# <a name="participate-in-software-assurance-programs"></a>Software Assurance 프로그램에 참여
+# <a name="participate-in-software-assurance-programs"></a>소프트웨어 보증 프로그램 참여
 
-Software Assurance 교육 과정 수 강권 (SATV) 및 서비스 계획을 비롯 한 Software Assurance 프로그램 참여 Microsoft 엔터프라이즈 고객을 사용 하 여 비즈니스 성장 기회를 제공 합니다. Software Assurance 트레이닝 바우처 파트너는 Microsoft 전문가 개발한 강사, 기술 강의 교육을 제공할 수 있습니다 Microsoft 보정 됩니다. 계획 서비스 파트너로 참여를 계획 하는 미리 정의 된 구현 될 수 있습니다 Microsoft 보정 됩니다. 두 프로그램을 통해 경쟁사와는 별도로 비즈니스 설정, 되는 신뢰할 수 있는 관리자를 후속 서비스 고객에 게 제공할 기회를 얻을 수 있습니다. 등록 프로그램 및 관련된 Software Assurance 바우처의 관리는 파트너 센터를 통해 수행 됩니다.
+SATV (Software 바우처 교육) 및 계획 서비스를 비롯 한 소프트웨어 보증 프로그램 참여는 Microsoft 기업 고객에 게 비즈니스를 성장 시킬 수 있는 기회를 제공 합니다. 소프트웨어 보증 교육 바우처 파트너 인 microsoft는 Microsoft 전문가가 개발한 강사 중심의 기술 교실 교육을 제공 하도록 보정 합니다. Microsoft는 계획 서비스 파트너와 같이 미리 정의 된 구현 계획의 구현에 대 한 고객의 보상을 보상 합니다. 두 프로그램을 통해 경쟁에서 비즈니스를 설정 하 고, 신뢰할 수 있는 관리자가 될 수 있으며, 고객에 게 후속 서비스를 제공할 기회를 얻을 수 있습니다. 파트너 센터를 통해 관련 소프트웨어 보증 바우처 프로그램 및 관리의 등록을 수행할 수 있습니다.
 
-|**에 대해 자세히 알아보려면**   |**이 읽기**   |
+|**자세한 정보**   |**이 내용을 읽으십시오.**   |
 |--------------------------|:------------------|
-|Software Assurance 교육 과정 수 강권 (SATV) 프로그램에 등록|[파트너 센터에서 software Assurance 교육 과정 수 강권 (SATV) 프로그램](software-assurance-satv.md)|
+|SATV (Software 바우처 교육) 프로그램에서 등록|[파트너 센터의 SATV (Software 바우처 교육) 프로그램](software-assurance-satv.md)|
 |바우처 유효성 검사 및 사용 도구 사용|[파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)|
-|Software Assurance 서비스 계획에 등록|[파트너 센터에서 software Assurance 계획 서비스](software-assurance-dps.md) 
+|소프트웨어 보증 계획 서비스에 등록|[파트너 센터의 소프트웨어 보증 계획 서비스](software-assurance-dps.md) 
 
 

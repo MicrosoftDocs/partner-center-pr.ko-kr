@@ -6,12 +6,12 @@ description: 비즈니스를 PMC에서 파트너 센터로 전환 하기 전에 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854527"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820576"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 구성원 센터 (PMC)에서 파트너 센터로의 이동 준비
 
@@ -29,7 +29,7 @@ PMC (파트너 구성원 센터)에서 파트너 센터 (Microsoft와의 비즈�
 - 회사 계정:john@contoso.com
 - 개인 계정:John@outlook.com
 
-회사 전자 메일은 Azure active directory 테 넌 트의 일부입니다. 파트너 센터에 계정을 포함 하려면 AAD 테 넌 트가 있어야 합니다. Azure Active Directory에 대 한 자세한 내용은 [AZURE AD에서 디렉터리 만들기](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조 하세요.
+회사 전자 메일은 Azure active directory 테 넌 트의 일부입니다. 파트너 센터에 계정을 포함 하려면 AAD 테 넌 트가 있어야 합니다. Azure Active Directory에 대 한 자세한 내용은 [AZURE AD에서 디렉터리 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조 하세요.
 
 **PMC에서 파트너 센터로 이동 하는 경우 Microsoft에 AAD 테 넌 트 (예: Office 365 용)가 있고 CSP 비즈니스에 대 한 테 넌 트가 있는 경우 파트너 센터에 로그인 해야 하는 계정은 무엇 인가요?**
 
@@ -66,7 +66,7 @@ MPN 전역 관리자가 파트너 센터로 이동 하면 역할은 파트너 �
 
 **PMC에서 파트너 센터로 이동 하는 경우 사용자의 역할은 어떻게 되나요?**
 
-마이그레이션을 수행 하는 MPN 전역 관리자 또는 기본 프로그램 담당자를 제외 하 고, PMC의 모든 사용자는 자신의 관리자 역할을 잃게 됩니다. 마이그레이션을 완료 하는 개인은 파트너 센터에서 역할을 할당 해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대 한 자세한 내용은 [사용자 할당 역할 및 사용 권한 할당] (사용 권한-overview.md 및 [PMC에서 파트너 센터로 이동)을](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) 참조 하세요.
+마이그레이션을 수행 하는 MPN 전역 관리자 또는 기본 프로그램 담당자를 제외 하 고, PMC의 모든 사용자는 자신의 관리자 역할을 잃게 됩니다. 마이그레이션을 완료 하는 개인은 파트너 센터에서 역할을 할당 해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대 한 자세한 내용은 [사용자 할당 역할 및 사용 권한 할당] (사용 권한-overview.md 및 [PMC에서 파트너 센터로 이동)을](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) 참조 하세요.
 
 
 **회사 프로필과 내 비즈니스 프로필 간의 차이점은 무엇 인가요?**
@@ -135,7 +135,7 @@ Microsoft는 현재 역량, 혜택, 위치 정보, 성과급을 위한 은행/�
 
  **파트너 센터로 이동 하면 어떻게 할까요? MCP 정보가 표시 되나요?**
 
-대시보드의 왼쪽 탐색 모음에서 역량 **을 선택 합니다** . 역량 페이지 **에서** 기술 보고서를 다운로드할 수 있습니다. 기술 보고서에는 파트너 센터의 역량 및 프로그램과 관련 된 기술을 획득 한 사용자가 나열 됩니다. 사용자에 게 기술이 있지만 이러한 기술이 작업 중인 역량에 해당 하지 않는 경우 보고서에 나열 되지 않습니다.
+대시보드의 왼쪽 탐색 모음에서 역량을 선택 합니다. 역량 페이지 에서 기술 보고서를 다운로드할 수 있습니다. 기술 보고서에는 파트너 센터의 역량 및 프로그램과 관련 된 기술을 획득 한 사용자가 나열 됩니다. 사용자에 게 기술이 있지만 이러한 기술이 작업 중인 역량에 해당 하지 않는 경우 보고서에 나열 되지 않습니다.
 
 
  **파트너 센터에서 고객 참조를 사용 하나요?**

@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376433"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820497"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -24,7 +24,7 @@ ms.locfileid: "68376433"
 
 고객과 재판매인 관계를 설정 하 고 프로 비전 하는 Azure 구독만 관리 하려면 관리자 권한을 얻을 필요가 없습니다.
 
-미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드에서 작동 하는 파트너는 사용 권한을 요청 하지 않는 옵션을 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)하는 방법을 참조 하세요.
+미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드에서 작동 하는 파트너는 사용 권한을 요청 하지 않는 옵션을 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)하는 방법을 참조 하세요.
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대

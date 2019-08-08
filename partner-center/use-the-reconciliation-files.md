@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
-ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67818975"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820559"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -42,7 +42,7 @@ ms.locfileid: "67818975"
 
 ## <a name="downloading-a-large-recon-file"></a>Large 정찰 파일 다운로드
 
-정찰 파일은 매우 커질 수 있으며 다운로드 하기도 어렵습니다. 대량 정찰 파일을 다운로드 하는 데 도움이 되는 PowerShell 스크립트는 [청구서 품목 가져오기 항목](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)을 참조 하세요.
+정찰 파일은 매우 커질 수 있으며 다운로드 하기도 어렵습니다. 대량 정찰 파일을 다운로드 하는 데 도움이 되는 PowerShell 스크립트는 [청구서 품목 가져오기 항목](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items)을 참조 하세요.
 
 ## <a href="" id="itemizebypartner"></a>파트너 기준 항목별로
 

@@ -2,18 +2,18 @@
 title: Azure 예약에 대한 청구 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
-Description: Azure 예약에 대 한 청구에 대 한 정보를 제공 합니다.
+Description: Azure 예약 요금 청구에 대 한 정보입니다.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure RI, azure reserved instances, 예약, vm, 관리, 청구, 구입
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: a3edec135f6636429551f21a1125e68ed5a9cfa3
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135423"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708705"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances 청구
 
@@ -30,7 +30,7 @@ ms.locfileid: "62135423"
 >[!IMPORTANT]
 >다른 통화를 사용하는 시장의 고객을 위해 Azure Reserved VM Instances를 구입한 경우에는 여러분의 위치가 아니라 고객의 시장을 기준으로 기본 청구 통화가 결정됩니다. 여러 시장의 고객을 확보하고 있는 경우에는 해당 통화로 고객에게 청구를 할 수 있도록 비용이 청구되는 각 통화에 대해 별도의 송장과 조정 파일을 받게 됩니다. 
 
-일회성 요금 청구서와 조정 파일에 액세스 하려면 **청구** 파트너 센터를 선택 합니다 **번**합니다. 
+일회성 요금 청구서 및 조정 파일에 액세스 하려면 파트너 센터에서 **청구** 를 선택한 다음 **한 번**을 선택 합니다. 
 
 클라우드 솔루션 공급자 프로그램의 청구에 대한 자세한 내용은 [청구의 기본 사항](billing-basics.md)을 참조하세요.
 
@@ -54,7 +54,7 @@ ms.locfileid: "62135423"
 |결제 기한 |이 날짜에 결제 금액이 들어와야 합니다. |
 
 
-**항목별로 구분한 목록을 일회성 요금**
+**일회성 요금에 대 한 항목별 목록**
 
 |**필드** |**정의**|
 |:----------------|:-----------------------------|
@@ -101,12 +101,12 @@ ms.locfileid: "62135423"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>현재 청구 상태, 송장 및 조정 파일 보기
 
-1.  파트너 센터에서 선택 **청구** 차례로 **번** 청구 상태를 볼 수 있습니다. 
+1.  파트너 센터에서 **청구** 를 선택 하 고 **한 번** 클릭 하 여 청구 상태를 확인 합니다. 
 2.  자세한 정보를 보려면 송장 또는 조정 파일을 선택합니다. 
 
 ### <a name="view-a-customers-order-history"></a>고객의 주문 내역 보기
 
-1.  선택 **고객** 파트너 센터 메뉴에서.
+1.  파트너 센터 메뉴에서 **고객** 을 선택 합니다.
 2.  **고객** 페이지에서 주문 내역을 확인하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 기록을 펼쳐봅니다. 
 3.  **주문 보기**를 선택하여 주문 내역을 표시합니다.
 
@@ -117,10 +117,10 @@ ms.locfileid: "62135423"
 송장을 취소하고 새 송장을 발급 받으려면 조정 아래 청구 페이지에서 양식을 다운로드합니다.
 
 ## <a name="azure-reservations-resources"></a>Azure 예약 리소스
-|**에 대 한 내용은**   |**이 읽기**    |
+|**에 대 한 자세한 내용**   |**이 내용을 읽으십시오.**    |
 |:-----------------------------|:-----------------|
-|CSP의 Azure 예약 개요  | [Microsoft Azure 예약된 VM 인스턴스를 판매 합니다.](azure-reservations.md)
-|파트너 센터에서 고객을 위해 Azure 예약 구매   |[Azure 예약 구입](azure-reservations-buying.md)
+|CSP의 Azure 예약 개요  | [Microsoft Azure 예약 VM 인스턴스 판매](azure-reservations.md)
+|파트너 센터에서 고객에 대 한 Azure 예약 구매   |[Azure 예약 구입](azure-reservations-buying.md)
 | 파트너 센터에서 Azure 예약 관리 | [파트너 센터에서 Azure 예약 관리](azure-reservations-manage.md)
 |Azure Portal에서 Azure 예약 구입 | Azure 도움말의 [Azure Reserved VM Instances에서 가상 컴퓨터에 대한 사전 지불](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)을 참조하세요. |
 |Azure Portal에서 Azure 예약 관리   |Azure 도움말의 [예약된 VM 인스턴스 관리](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)를 참조하세요.  |

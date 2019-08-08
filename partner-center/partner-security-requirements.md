@@ -1,18 +1,18 @@
 ---
 title: 파트너 보안 요구 사항 | 파트너 센터
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: 클라우드 솔루션 공급자 프로그램에 참여 하는 관리자 및 파트너에 대 한 보안 요구 사항에 대해 알아봅니다.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급 업체, CPV, multi-factor authentication, MFA, 보안 응용 프로그램 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313931"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787252"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 
@@ -57,9 +57,22 @@ ms.locfileid: "68313931"
 
 MFA 레거시 인증을 적용 하는 경우 이러한 프로토콜이 MFA를 지원 하지 않으므로 IMAP, POP3, SMTP 등의 프로토콜을 사용 하는 것이 차단 됩니다. 이러한 제한을 해결 하기 위해 [앱 암호](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) 라고 하는 기능을 사용 하 여 응용 프로그램 또는 장치에서 인증을 받을 수 있는지 확인할 수 있습니다. 환경에서 사용할 수 있는지 확인 하려면 [여기](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) 에 설명 된 앱 암호 사용에 대 한 고려 사항을 검토 해야 합니다.
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>파트너 테 넌 트와 연결 된 라이선스에서 제공 하는 Office 365를 사용 하는 사용자가 있나요?
+
+솔루션을 구현 하기 전에 파트너 테 넌 트의 사용자가 Microsoft Office 버전을 사용 하는 이유를 확인 하는 것이 좋습니다. 작업을 수행 하기 전에 [Office 365 배포에 대 한 multi-factor authentication 계획을](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa) 검토 합니다. 사용자가 Outlook과 같은 응용 프로그램의 연결 문제를 경험 하 게 될 가능성이 있습니다. MFA를 적용 하기 전에 Outlook 2013 SP1 이상을 사용 하 고 조직에서 최신 인증을 사용 하도록 설정 했는지 확인 해야 합니다. 자세한 내용은 [Exchange Online에서 최신 인증 사용](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 을 참조 하세요.
+
+Microsoft Office 2013가 설치 된 Windows를 실행 하는 모든 장치에 대 한 최신 인증을 사용 하도록 설정 하려면 두 개의 레지스트리 키를 만들어야 합니다. [Windows 장치에서 Office 2013에 대 한 최신 인증 사용](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)을 참조 하세요.
+
+> [!IMPORTANT]
+> 사용자에 게 Azure AD MFA를 사용 하도록 설정 하 고 최신 인증을 사용 하도록 설정 되지 않은 Office 2013를 실행 하는 장치가 있는 경우 해당 장치에서 앱 암호를 사용 해야 합니다. 앱 암호에 대 한 자세한 내용 및 사용 해야 하는 경우/위치 및 사용 방법에 대 한 자세한 내용은 다음을 참조 하세요. [Azure Multi-factor Authentication을 사용 하는 앱 암호](https://go.microsoft.com/fwlink/p/?LinkId=528178).
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>작업 하는 동안 사용자가 모바일 장치를 사용할 수 없도록 하는 정책이 있나요?
 
-직원이 모바일 장치를 사용 하지 못하도록 하는 회사 정책을 식별 하는 것은 구현 하는 MFA 솔루션에 영향을 주므로 회사 정책을 식별 하는 것이 중요 합니다. 인증을 위한 인증 앱 사용만 허용 하는 [기본 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)구현을 통해 제공 되는 것과 같은 MFA 솔루션이 있습니다. 회사에서 모바일 장치를 사용할 수 없도록 하는 정책이 있는 경우 영향을 받는 사용자에 대 한 [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) 구매를 확인 하거나 가장 적합 한 인증을 제공 하는 타사 솔루션을 구현할 수 있습니다. option.
+직원이 모바일 장치를 사용 하지 못하도록 하는 회사 정책을 식별 하는 것은 구현 하는 MFA 솔루션에 영향을 주므로 회사 정책을 식별 하는 것이 중요 합니다. 인증을 위해 인증 앱을 사용 하도록 허용 하는 [기본 보호 정책의](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)구현을 통해 제공 되는 것과 같은 MFA 솔루션이 있습니다. 조직의 모바일 장치 사용을 방해 하는 정책이 있는 경우 다음 옵션 중 하나를 고려해 야 합니다.
+
+- Authenticator 앱을 설치할 수 있는 가상화 된 Android 장치 배포
+- 가장 적절 한 인증 옵션을 제공 하는 파트너 테 넌 트의 각 사용자에 대해 MFA를 적용 하는 타사 솔루션을 구현 합니다.
+- 영향을 받는 사용자에 대 한 [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) 라이선스 구매
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>인증을 위해 사용자 자격 증명을 활용 하는 자동화 또는 통합은 무엇 인가요?
 
@@ -128,7 +141,7 @@ SSPR (셀프 서비스 암호 재설정)는 사용자가 지원 팀에 문의할
 1. 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자 권한으로 **Azure Portal** 에 로그인 합니다.
 2. **Azure Active Directory** > **조건부 액세스**로 이동 합니다.
 3. 정책 목록에서 기준 정책을 선택 **합니다. 관리자**용 MFA를 요구 합니다.
-4. 정책  **사용을 즉시 정책**사용으로 설정 합니다.
+4. 정책 **사용을 즉시 정책**사용으로 설정 합니다.
 5.  **저장**을 클릭 합니다.
 
 > [!WARNING]
@@ -148,7 +161,7 @@ SSPR (셀프 서비스 암호 재설정)는 사용자가 지원 팀에 문의할
 1. 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자 권한으로 **Azure Portal** 에 로그인 합니다.
 2. **Azure Active Directory** > **조건부 액세스**로 이동 합니다.
 3. 정책 목록에서 기준 정책을 선택 **합니다. 최종 사용자 보호 (미리 보기**).
-4. 정책  **사용을 즉시 정책**사용으로 설정 합니다.
+4. 정책 **사용을 즉시 정책**사용으로 설정 합니다.
 5.  **저장**을 클릭 합니다.
 
 > [!WARNING]
@@ -204,8 +217,31 @@ Microsoft의 누출 자격 증명 서비스는 고객을 보호 하기 위해 �
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-MFA를 사용 하는 경우 파트너는 Exchange Online PowerShell을 통해 위임 된 관리 권한을 활용 하 여 고객에 대 한 작업을 수행할 수 없습니다. 이러한 제한 사항에 대 한 자세한 내용은 [다단계 인증을 사용 하 여 Exchange Online PowerShell에 연결을](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) 참조 하세요.
+MFA가 적용 되 면 파트너는 Exchange Online PowerShell을 통해 위임 된 관리 권한을 활용 하 여 고객에 대 한 작업을 수행할 수 없습니다. 이러한 제한 사항에 대 한 자세한 내용은 [다단계 인증을 사용 하 여 Exchange Online PowerShell에 연결을](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) 참조 하세요.
+
+새 계정을 만들고 대화형 인증을 수행 하는 데이 계정을 사용 하지 않으면이 제한을 해결할 수 있습니다. [AZURE AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/) 을 활용 하 여 새 계정을 만들고 초기 구성을 수행 하는 것이 좋습니다. 다음 PowerShell을 사용 하 여 계정을 만들고 구성할 수 있습니다.
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+다음에 PowerShell을 통해 Exchange Online에 연결 하는 경우이 계정을 사용 하 여 예상 대로 작동 합니다.
+
+> [!IMPORTANT]
+> 사용자가 MFA를 적용할 때 Exchange Online PowerShell에서 위임 된 관리 권한을 활용 하 여 고객에 대 한 작업을 수행할 수 있는 기능은 나중에 제공 될 예정입니다. 그때까지이 문제를 해결 해야 합니다.
 
 ## <a name="resources-and-support"></a>리소스 및 지원
 
-[파트너 센터 보안 지침 그룹 커뮤니티](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) 를 통해 추가 리소스를 찾고 기술 사무실 시간 등의 예정 된 이벤트에 대해 알아볼 수 있습니다. 요구 사항에 대해 자세히 알아보려면 질문과 [대답](http://assetsprod.microsoft.com/security-requirements-faq.pdf) 문서를 참조 하세요.
+[파트너 센터 보안 지침 그룹 커뮤니티](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) 를 통해 추가 리소스를 찾고 기술 사무실 시간 등의 예정 된 이벤트에 대해 알아볼 수 있습니다. 요구 사항에 대해 자세히 알아보려면 질문과 [대답](partner-security-requirements-faq.md) 문서를 참조 하세요.
