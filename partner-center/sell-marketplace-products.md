@@ -1,18 +1,18 @@
 ---
-title: Azure Marketplace 제품에 구독 판매 | 파트너 센터
+title: Azure Marketplace 제품에 대한 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 07/12/2019
-description: 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 Azure Marketplace에 게시 된 SaaS (Software as a Service) 제품에 고객 구독을 판매할 수 있습니다.
+ms.date: 08/07/2019
+description: 파트너 센터를 사용하여 ISV(Independent Software Vendor)가 Azure Marketplace에 게시한 SaaS(Software as a Service) 제품에 대한 구독을 고객에게 판매할 수 있습니다.
 author: JnHs
 ms.author: jenhayes
-keywords: 구독, Marketplace, 제 3 자, ISV
+keywords: 구독, Marketplace, 타사, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dda776e7ebdece3a8a15c3576b64d93d3e4158c
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: MT
+ms.openlocfilehash: 204a0638399034c753474bb0ce92434ca318f5bb
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854511"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860953"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Azure Marketplace 제품에 대한 구독 판매
 
@@ -20,56 +20,58 @@ ms.locfileid: "67854511"
 
 - 파트너 센터
 
-파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) 에 게시 된 SaaS (software As a Service) 제품에 고객 구독을 판매할 수 있습니다. 이를 통해 비즈니스를 차별화 하 고 고객에 게 특정 비즈니스 요구 사항을 충족 하는 소프트웨어 번들을 제공할 수 있습니다. 이러한 Azure Marketplace SaaS 제품에 대 한 라이선스 및 구독은 Microsoft 제품에서와 동일 하 게 관리 합니다.
+파트너 센터를 사용하여 ISV(Independent Software Vendor)가 [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)에 게시한 SaaS(Software as a Service) 제품에 대한 구독을 고객에게 판매할 수 있습니다. 이는 비즈니스를 차별화하고 고객 고유의 비즈니스 요구를 충족하는 소프트웨어 번들을 제공하는 데 도움이 될 수 있습니다. 이러한 Azure Marketplace SaaS 제품의 라이선스 및 구독은 Microsoft 제품과 동일하게 관리합니다.
 
-Azure Marketplace에 대 한 자세한 내용은 [Azure Marketplace faq](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)를 참조 하십시오.
+Azure Marketplace에 대한 자세한 내용은 [Azure Marketplace FAQ](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)를 참조하세요.
 
 ## <a name="view-marketplace-offers-and-pricing"></a>Marketplace 제품 및 가격 책정 보기
 
-사용 가능한 모든 제품을 보려면 왼쪽 탐색 메뉴에서 **Marketplace** 를 선택 합니다. 기본적으로 모든 형식 및 범주의 제품을 볼 수 있습니다. 유형 및/또는 범주를 기준으로 필터링 하거나 검색 상자를 사용 하 여 특정 키워드를 검색할 수 있습니다. 제품을 선택 하 여 무료 평가 기간이 제공 되는지 여부를 포함 하 여 게시자 및 사용 가능한 Sku에 대 한 정보를 확인 합니다.
+제공되는 모든 제품을 보려면 왼쪽 탐색 메뉴에서 **Marketplace**를 선택합니다. 기본적으로 모든 유형 및 범주의 제품을 볼 수 있습니다. 유형 및/또는 범주를 기준으로 필터링하거나 검색 상자를 사용하여 특정 키워드를 검색할 수 있습니다. 제품을 선택하여 평가판 기간이 제공되는지 여부를 포함하여 게시자 및 사용 가능한 SKU에 대한 정보를 볼 수 있습니다.
 
 > [!NOTE]
-> Azure Marketplace에서 사용할 수 있는 일부 제품은 여기에 표시 되지 않을 수 있습니다. Isv는 파트너 센터에서 CSP (클라우드 솔루션 공급자) 파트너에 게 제품을 제공할지 여부를 결정할 수 있습니다. 파트너 센터를 통해 고객에 게 제공 하려는 Azure Marketplace 제품이 표시 되는 경우 Azure Marketplace에서 게시자의 연락처 정보를 찾아 관심 있는 정보를 알려 드리겠습니다.
+> Azure Marketplace에 제공되는 일부 제품이 여기에 표시되지 않을 수 있습니다. ISV는 파트너 센터에서 CSP(클라우드 솔루션 공급자) 파트너에게 제품을 제공할지 여부를 결정할 수 있습니다. 파트너 센터를 통해 고객에게 제공하려는 제품이 Azure Marketplace에 표시되는 경우 Azure Marketplace에서 게시자의 연락처 정보를 보고 관심 있는 정보를 문의하세요.
 
-Azure Marketplace 제품 가격은 자주 변경 될 수 있습니다. 모든 Marketplace 제품에 대 한 현재 가격 정보를 얻으려면 **marketplace** 페이지의 오른쪽 위 모서리에 있는 **가격 목록 내보내기** 를 선택 합니다. 그러면 모든 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 가격 정보는 매일 업데이트 되므로 현재 가격을 가져올 때마다 자주 확인할 수 있습니다.
+Azure Marketplace 제품 가격은 자주 변동될 수 있습니다. 모든 Marketplace 제품의 현재 가격 정보를 확인하려면 **Marketplace** 페이지의 오른쪽 위 모서리에 있는 **가격 목록 내보내기**를 선택합니다. 그러면 모든 가격 책정 데이터가 포함된 스프레드시트가 생성됩니다. 가격 책정 정보는 매일 업데이트되므로 현재 가격을 확인하고 싶을 때마다 확인할 수 있습니다.
 
 > [!TIP]
-> 이 목록의 제품이 무료 평가판을 제공 하는 경우 스프레드시트에는 해당 제품에 대 한 두 개의 행이 포함 됩니다. 한 행에는 가격 0이 표시 되며,이는 무료 평가판을 사용할 수 있음을 나타냅니다. 다른 행에는 평가 기간이 끝난 후에 적용 되는 가격 및 기간이 포함 됩니다.
+> 이 목록의 제품이 평가판으로 제공되는 경우 스프레드시트에 해당 제품에 대한 두 개의 행이 포함됩니다. 한 행에는 가격이 0으로 표시되며, 이는 평가판을 사용할 수 있음을 나타냅니다. 다른 행에는 평가 기간이 끝난 후에 적용되는 가격 및 기간이 포함됩니다.
+>
+> 이 목록의 제품이 [데이터 요금제](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)를 사용하는 경우에는 기간 필드의 값이 비어 있게 됩니다.
 
-## <a name="purchase-marketplace-products-for-your-customers"></a>고객을 위한 마켓플레이스 제품 구매
+## <a name="purchase-marketplace-products-for-your-customers"></a>고객을 위한 Marketplace 제품 구매
 
-Azure Marketplace SaaS 제품에 대 한 구독 구매는 Microsoft 제품에 대 한 구독과 동일한 프로세스를 따릅니다. 고객에 대 한 구독을 추가할 때 **게시자** 필터에서 **파트너** 를 선택 하 여 isv의 Marketplace 제공만 표시 하도록 선택할 수 있습니다. 자세한 내용은 [새 구독 만들기](create-a-new-subscription.md)를 참조 하세요.
+Azure Marketplace SaaS 제품에 대한 구독 구매는 Microsoft 제품에 대 한 구독 구매와 동일한 프로세스를 따릅니다. 고객용 구독을 추가할 때는 **게시자** 필터에서 **파트너**를 선택하여 ISV에서 제공하는 Marketplace 제품만 표시하도록 선택할 수 있습니다. 자세한 내용은 [새 구독 만들기](create-a-new-subscription.md)를 참조하세요.
 
 > [!IMPORTANT]
-> 파트너 센터에서 SaaS (Software as a Service) 제품 구독만 구매할 수 있습니다. 다른 제공 유형 (예: Azure 응용 프로그램, 컨테이너 또는 Vm)은 Azure Portal를 통해 관리 되며 소비에 따라 비용이 청구 됩니다. Azure Portal를 통해 종 량 제 솔루션을 사용 하도록 설정 하려면 기존 Azure 구독이 필요 합니다.
+> 파트너 센터에서 SaaS(Software as a Service) 제품 구독만 구매할 수 있습니다. 다른 제품 유형(예: Azure 애플리케이션, 컨테이너 또는 VM)은 Azure Portal을 통해 관리되며 소비량에 따라 요금이 청구됩니다. Azure Portal를 통해 종량제 솔루션을 사용하도록 설정하려면 기존 Azure 구독이 필요합니다.
 
-**Marketplace** 페이지에 표시 되는 일부 제안은 특정 고객에 게 제공 되지 않을 수 있습니다. 가용성은 ISV가 고객의 청구 국가/지역을 지원 하는지 여부를 비롯 하 여 여러 가지 요인의 영향을 받을 수 있습니다.
+**Marketplace** 페이지에 표시되는 일부 제품은 특정 고객에게 제공되지 않을 수 있습니다. 제품 제공 여부는 ISV가 고객의 청구 국가/지역을 지원하는지 여부를 포함한 여러 가지 요인의 영향을 받을 수 있습니다.
 
 > [!TIP]
-> [파트너 센터 api](https://docs.microsoft.com/partner-center/develop/) 를 사용 하 여 고객에 대 한 Azure Marketplace 구독을 만들 수도 있습니다. 자세한 내용은 [Azure Marketplace 제품에 대 한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
+> 또한 [Partner Center API](https://docs.microsoft.com/partner-center/develop/)를 사용하여 고객을 위한 Azure Marketplace 구독을 만들 수도 있습니다. 자세한 내용은 [Azure Marketplace 제품에 대한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)를 참조하세요.
 
-Azure Marketplace 제품에 대 한 구독을 통해 취소 기간 내에 [구독을 취소할](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription) 수 있습니다 (월간 구독의 경우 24 시간, 연간 구독의 경우 14 일). [구독을 자동으로 갱신할 지 여부를 선택할](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)수도 있습니다.
+Azure Marketplace 제품에 대한 구독은 취소 기간(월간 구독의 경우 24시간, 연간 구독의 경우 14일) 내에 [취소](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription)할 수 있습니다. 또한 [구독을 자동으로 갱신할지 여부를 선택](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)할 수도 있습니다.
 
-## <a name="license-activation-for-marketplace-products"></a>Marketplace 제품에 대 한 라이선스 활성화
+## <a name="license-activation-for-marketplace-products"></a>Marketplace 제품에 대한 라이선스 활성화
 
-SaaS (Software as a Service) 제품 유형의 경우 라이선스 할당 및 활성화는 제품을 게시 한 ISV (독립 소프트웨어 공급 업체)를 통해 관리 됩니다. 이 프로세스를 완료 하려면 게시자가 특정 구매를 식별할 수 있도록 하는 인증 코드와 함께 개인 설정 된 링크를 사용 하 여 게시자 사이트를 방문 해야 합니다. SaaS 제품을 구매한 후에 표시 되는 확인 페이지와 해당 제품에 대 한 행의 **구독** 페이지에서이 링크를 찾을 수 있습니다. [파트너 센터 api를 사용 하 여이 링크를 검색할](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)수도 있습니다.
+SaaS(Software as a Service) 제품 유형의 경우 제품을 게시한 ISV(Independent Software Vendor)를 통해 라이선스 할당 및 활성화가 관리됩니다. 이 프로세스를 완료하려면 게시자가 특정 구매를 식별할 수 있게 해주는 인증 코드가 포함된 맞춤형 링크를 사용하여 게시자 사이트를 방문해야 합니다. SaaS 제품을 구매한 후에 표시되는 확인 페이지와 해당 제품에 대 한 행의 **구독** 페이지에서 이 링크를 찾을 수 있습니다. [Partner Center API를 사용하여 이 링크를 검색](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)할 수도 있습니다.
 
-이 링크를 사용 하 여 게시자 사이트를 방문 하면 라이선스를 프로 비전 및 할당 하거나 설치 프로세스를 완료 하기 위해 필요한 추가 정보나 조치가 표시 됩니다. 필요한 단계는 게시자 및 제품에 따라 달라질 수 있습니다. 사용자는 필요한 정보를 제출 하거나 고객에 게 URL을 전송 하 여이 정보를 직접 제공할 책임이 있습니다. 필요한 정보가 제공 되 면 게시자가 적절 한 라이선스를 프로 비전 하 고 할당 합니다. 구독 요금은 라이선스가 성공적으로 할당 된 후에만 시작 됩니다.
+이 링크를 사용하여 게시자 사이트를 방문하면 라이선스를 프로비저닝 및 할당하거나 설치 프로세스를 완료하기 위해 필요한 추가 정보나 조치가 표시됩니다. 필요한 단계는 게시자 및 제품에 따라 달라질 수 있습니다. 사용자는 필요한 정보를 제출하거나 고객에게 이 정보를 직접 입력할 수 있는 URL을 전송할 책임이 있습니다. 필요한 정보가 제공되면 게시자가 적절한 라이선스를 프로비저닝하고 할당합니다. 라이선스가 성공적으로 할당된 후에만 구독 요금 청구가 시작됩니다.
 
-## <a name="access-billing-info-for-marketplace-products"></a>Marketplace 제품에 대 한 청구 정보 액세스
+## <a name="access-billing-info-for-marketplace-products"></a>Marketplace 제품의 청구 정보 액세스
 
-Marketplace 제품의 경우 청구 기간은 해당 월의 첫 번째 날부터 시작 하 여 월의 마지막 날에 끝납니다. 다음 달의 여덟 번째 날에 청구서를 사용할 수 있게 됩니다. 파트너 센터에서 또는 파트너 센터 Api를 사용 하 여 이러한 청구서에 액세스할 수 있습니다.
+Marketplace 제품의 경우 청구 기간이 해당 월의 1일에 시작하여 말일에 끝납니다. 다음 달의 8일에 청구서를 볼 수 있습니다. 파트너 센터에서 또는 파트너 센터 API를 사용하여 이러한 청구서에 액세스할 수 있습니다.
 
-자세한 내용은 [파트너 센터에서 청구 유형 이해](https://docs.microsoft.com/partner-center/billing-different-types#billing-for-one-time-and-select-recurring-charges)를 참조 하세요.
+자세한 내용은 [파트너 센터의 청구 유형 이해](https://docs.microsoft.com/partner-center/billing-different-types#billing-for-one-time-and-select-recurring-charges)를 참조하세요.
 
-## <a name="provide-support-for-customers-using-marketplace-products"></a>Marketplace 제품을 사용 하는 고객 지원 제공
+## <a name="provide-support-for-customers-using-marketplace-products"></a>Marketplace 제품을 사용하는 고객에게 지원 제공
 
-Microsoft 제품과 마찬가지로 대금 청구 및 구독 관리에 대 한 질문은 고객의 첫 번째 연락 지점 이어야 합니다. 기술 지원을 받을 수 있도록 게시자에 게 문의 해야 합니다. Microsoft는 Marketplace 제품에 대 한 지원을 제공 하지 않지만 사용자에 게 게시자의 지원 연락처 정보를 제공 합니다.
+귀사는 Microsoft 제품과 마찬가지로 Marketplace 제품의 청구 및 구독 관리에 대한 고객 문의를 담당하는 최초 연락 지점 역할을 해야 합니다. 기술 지원을 받으려면 게시자에게 문의해야 합니다. Microsoft는 Marketplace 제품에 대한 지원을 제공하지 않지만 귀사에게 게시자의 지원 연락처 정보를 제공합니다.
 
-자세한 내용은 [Azure Marketplace 제품 지원](https://docs.microsoft.com/partner-center/report-problems-on-behalf-of-a-customer#support-for-azure-marketplace-products) 및 [고객에 게 지원 제공](https://docs.microsoft.com/partner-center/customer-support)을 참조 하세요.
+자세한 내용은 [Azure Marketplace 제품 지원](https://docs.microsoft.com/partner-center/report-problems-on-behalf-of-a-customer#support-for-azure-marketplace-products) 및 [고객에게 지원 제공](https://docs.microsoft.com/partner-center/customer-support)을 참조하세요.
 
-## <a name="manage-subscriptions-using-partner-center-apis"></a>파트너 센터 Api를 사용 하 여 구독 관리
+## <a name="manage-subscriptions-using-partner-center-apis"></a>파트너 센터 API를 사용하여 구독 관리
 
-시장에 대 한 제품 목록을 가져오고, Azure Marketplace 구독에 대 한 주문을 만들고 제출한 다음, 활성화 링크를 검색 하 여 파트너 센터 Api를 사용 하 여 Azure Marketplace 제품에 대 한 구독을 만들 수 있습니다. 파트너 센터 Api를 사용 하 여 수명 주기 관리를 수행 하 고 이러한 구독에 대 한 송장을 관리할 수도 있습니다.
+시장의 제품 목록을 가져오고, Azure Marketplace 구독에 대한 주문을 만들고 제출한 다음, 활성화 링크를 검색하여 파트너 센터 API를 통해 Azure Marketplace 제품에 대한 구독을 만들 수 있습니다. 또한 파트너 센터 API를 사용하여 수명 주기 관리를 수행하고 이러한 구독의 청구서를 관리할 수도 있습니다.
 
-자세한 내용은 [Azure Marketplace 제품에 대 한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
+자세한 내용은 [Azure Marketplace 제품에 대한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)를 참조하세요.
