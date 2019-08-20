@@ -1,54 +1,60 @@
 ---
-title: 파트너 프로필 업데이트 | 파트너 센터
+title: 파트너 프로필 확인 | 파트너 센터
 description: 관리자로 처음 로그인하는 경우 지원 세부 정보가 정확한지 확인하고, 해당하는 경우 면세 정보를 제출하고, 프로필의 연락처 정보를 검토합니다.
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642333"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860963"
 ---
-# <a name="update-your-partner-profile"></a><span data-ttu-id="e5274-103">파트너 프로필 업데이트</span><span class="sxs-lookup"><span data-stu-id="e5274-103">Update your partner profile</span></span>
+# <a name="verify-your-partner-profile"></a><span data-ttu-id="49374-103">파트너 프로필 확인</span><span class="sxs-lookup"><span data-stu-id="49374-103">Verify your partner profile</span></span>
 
+<span data-ttu-id="49374-104">파트너 센터에 전역 관리자로 처음 로그인하는 경우 기본 연락처, 법적 회사 이름 및 주소, 프로그램 정보 같은 모든 회사 세부 정보가 정확하게 추가되었는지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-104">The first time you sign into Partner Center as  global admin, make sure all your company details such as primary contact, legal business name and address, and program information is correctly added.</span></span> <span data-ttu-id="49374-105">회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-105">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="49374-106">전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-106">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span> 
 
-<span data-ttu-id="e5274-104">관리자로 파트너 센터에 처음 로그인하는 경우 지원 세부 정보가 정확한지 확인하고, 해당하는 경우 면세 정보를 제출하고, 프로필의 연락처 정보를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-104">The first time you sign into Partner Center as an admin, make sure your support details are correct, file tax exemptions if appropriate, and review the contact information in your profiles.</span></span> <span data-ttu-id="e5274-105">조직에 둘 이상의 위치가 있는 경우 정확한 위치 데이터를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-105">If your organization has more than one location, review your location data for accuracy.</span></span>
+<span data-ttu-id="49374-107">**파트너 프로필 정보 확인**</span><span class="sxs-lookup"><span data-stu-id="49374-107">**Verify your partner profile information**</span></span>
 
-<span data-ttu-id="e5274-106">**지원 세부 정보 업데이트**</span><span class="sxs-lookup"><span data-stu-id="e5274-106">**Update your support details**</span></span>
+<span data-ttu-id="49374-108">파트너 프로필은 법적 회사 정보, 기본 연락처 이름 및 이메일, 회사가 참여하는 프로그램, 법적 회사에 현재 합병된 다른 회사(해당하는 경우)로 구성됩니다.</span><span class="sxs-lookup"><span data-stu-id="49374-108">Your partner profile consists of your legal business information, primary contact name and email, the programs which your company participates in, and if relevant, your other companies that are now merged under your legal business.</span></span>
 
-1.  <span data-ttu-id="e5274-107">**설정** 으로 이동 하 여 **파트너 프로필**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-107">Go to **Settings** and select **Partner profile**.</span></span>
-2.  <span data-ttu-id="e5274-108">**지원** 섹션에서 **업데이트**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-108">In the **Support** section, select **Update**.</span></span>
-3.  <span data-ttu-id="e5274-109">귀하 고객이 Microsoft에서 지원을 요청하는 전화를 할 경우 Microsoft는 귀하의 지원 프로필에 나와 있는 웹 사이트, 전자 메일, 전화 연락처 정보를 다시 안내합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-109">If any of your customers call Microsoft looking for support, Microsoft will point them back to the website, email, and phone contact info that you list in your support profile.</span></span>
+1.  <span data-ttu-id="49374-109">**설정**으로 이동하고 **파트너 프로필**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-109">Go to **Settings** and select **Partner profile**.</span></span>
 
-<span data-ttu-id="e5274-110">**파일 세금 면제**</span><span class="sxs-lookup"><span data-stu-id="e5274-110">**File tax exemptions**</span></span>
+2.  <span data-ttu-id="49374-110">**법적 비즈니스 프로필**, **기본 연락처 정보** 및 **프로그램 정보**를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-110">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
 
--   <span data-ttu-id="e5274-111">면세가 귀하에게 적용되는지 확인하고, 적용되는 경우 고객이나 구독을 추가하기 전에 면세 정보를 제출합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-111">Decide whether tax exemptions apply to you, and if so file them before you add any customers or subscriptions.</span></span> <span data-ttu-id="e5274-112">[세금 및 면세](tax-and-tax-exemptions.md)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="e5274-112">See [Tax and tax exemptions](tax-and-tax-exemptions.md).</span></span>
+<span data-ttu-id="49374-111">법적 회사에 합병된 다른 회사가 있는 경우 이 페이지에서 해당 정보도 검토할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-111">If you have merged your other companies under your legal business, you can review their information as well on this page.</span></span>
 
-<span data-ttu-id="e5274-113">**프로필 정보 확인**</span><span class="sxs-lookup"><span data-stu-id="e5274-113">**Verify your profile information**</span></span>
+## <a name="update-your-legal-address"></a><span data-ttu-id="49374-112">법적 주소 업데이트</span><span class="sxs-lookup"><span data-stu-id="49374-112">Update your legal address</span></span>
 
-1.  <span data-ttu-id="e5274-114">**설정** 으로 이동 하 여 **파트너 프로필**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-114">Go to **Settings** and select **Partner profile**.</span></span> 
-2.  <span data-ttu-id="e5274-115">**파트너 프로필**, **파트너 청구 프로필** 및 **조직 프로필**을 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-115">Review your **Partner profile**, **Partner billing profile**, and **Organizational profile**.</span></span>
+<span data-ttu-id="49374-113">이제 파트너 센터에서 법적 주소를 업데이트할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-113">You can now update your legal address on Partner Center.</span></span>
 
-## <a name="manage-your-partner-profile"></a><span data-ttu-id="e5274-116">파트너 프로필 관리</span><span class="sxs-lookup"><span data-stu-id="e5274-116">Manage your Partner profile</span></span> 
+1. <span data-ttu-id="49374-114">**설정**으로 이동하고 **파트너 프로필**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-114">Go to **Settings** and select **Partner profile**.</span></span> 
 
-<span data-ttu-id="e5274-117">이제 파트너 센터에서 법적 주소를 업데이트할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-117">You can now update your legal address on Partner Center.</span></span>
-
-1. <span data-ttu-id="e5274-118">**설정** nd **파트너 프로필**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-118">Go to **Settings** nd select **Partner profile**.</span></span> 
-2. <span data-ttu-id="e5274-119">법적 주소 옆의 **업데이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-119">Select **Update** next to Legal address.</span></span> 
+2. <span data-ttu-id="49374-115">법적 주소 옆에 있는 **업데이트**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-115">Select **Update** next to Legal address.</span></span> 
 
 >[!Important]
-><span data-ttu-id="e5274-120">법적 주소와 관련 된 국가를 변경할 수 없습니다. 사용자의 법률 주소는 테 넌 트 및 서비스에 연결 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-120">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services.</span></span> <span data-ttu-id="e5274-121">자세한 내용은 [법적 주소 변경](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="e5274-121">For details, read [Change your legal address](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).</span></span>
+><span data-ttu-id="49374-116">법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 귀사의 테넌트 및 서비스와 귀사가 거래 시 사용하는 통화와 연관이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-116">You can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> 
 
-3. <span data-ttu-id="e5274-122">**제출**을 선택 하면 법적 id가 다시 평가 되 고 동의 해야 하는 다른 전자 메일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="e5274-122">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
+3. <span data-ttu-id="49374-117">**제출**을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.</span><span class="sxs-lookup"><span data-stu-id="49374-117">When you select **Submit**, your legal identity will be re-assessed, and you will receive another email which you will need to accept.</span></span>
 
+## <a name="update-legal-business"></a><span data-ttu-id="49374-118">법적 회사 업데이트</span><span class="sxs-lookup"><span data-stu-id="49374-118">Update legal business</span></span>
 
+<span data-ttu-id="49374-119">Partner Membership Center에서 파트너 센터로 마이그레이션하는 동안 잘못된 회사가 법적 회사로 식별된 경우 올바른 회사로 변경할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-119">If, during your migration from Partner Membership Center to Partner Center, the wrong business was identified as the legal business, you can change it to the correct business.</span></span>
+
+1. <span data-ttu-id="49374-120">**계정 설정**에서 **위치**로 이동하고 법적 회사로 원하는 회사가 목록에 있는지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-120">From **Account settings** go to **Locations** and make sure the business you want as your legal business is in the list.</span></span> <span data-ttu-id="49374-121">목록에 없으면 추가할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-121">If it isn't, you can add it.</span></span> <span data-ttu-id="49374-122">**위치 추가**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-122">Select **Add location**.</span></span>
+
+2.  <span data-ttu-id="49374-123">그런 다음, **파트너 프로필**로 이동하고 **법적 비즈니스 프로필 업데이트**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-123">Next go to **Partner profile** and select **Update legal business profile**.</span></span>
+
+3.  <span data-ttu-id="49374-124">법적 회사로 사용할 회사와 위치를 선택한 후 **저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="49374-124">Select the location and business you want to use as your legal business and then select **Save**.</span></span>
+
+## <a name="update-your-billing-address"></a><span data-ttu-id="49374-125">청구 주소 업데이트</span><span class="sxs-lookup"><span data-stu-id="49374-125">Update your billing address</span></span>
+
+<span data-ttu-id="49374-126">전역 관리자, 청구 관리자 또는 관리 담당자일 경우 **청구 프로필**에서 청구서에 표시되는 주소를 변경할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-126">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Billing profile**.</span></span> <span data-ttu-id="49374-127">그러나 청구서 시스템의 제한으로 인해 청구서의 회사 이름을 변경할 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="49374-127">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
 
  
-
 
 
