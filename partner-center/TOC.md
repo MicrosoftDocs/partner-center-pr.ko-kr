@@ -115,7 +115,7 @@
 ### [고객 구독 만들기, 일시 중단 또는 취소](create-a-new-subscription.md)
 ### [프로모션을 사용하여 신규 고객 유치](promotions.md)
 ### [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)
-### [Azure Marketplace 제품에 대한 구독 판매](sell-marketplace-products.md)
+### [마켓플레이스 시판 제품 구독 판매](sell-marketplace-products.md)
 ### [파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)
 ### [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ### [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
