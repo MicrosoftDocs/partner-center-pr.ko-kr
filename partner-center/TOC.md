@@ -4,6 +4,8 @@
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
 ## [회사 이메일 주소를 가져오는 방법](buy-email-domain.md)
 ## [파트너 관리 센터가 파트너 센터로 이동](pac-to-pc-overview.md)
+### [파트너 관리 센터(PAC)에서 파트너 센터로 이동](moving-from-pac-to-pc.md)
+## [Office 365 파트너 관리 센터 파트너: 비즈니스 운영이 파트너 센터로 이동됨](o365-partner-admin-center-to-partner-center.md)
 ## Partner Membership Center에서 파트너 센터로 이동
 ### [Partner Membership Center에서 파트너 센터로 이동 준비](prepare-pmc-pc-migration.md)
 ### [PMC에서 파트너 센터로 이동하기 위한 가이드](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [파트너 센터의 Software Assurance 계획 서비스](software-assurance-dps.md)
 ## 송장 및 세금
 ### [IMicrosoft 파트너 네트워크의 송장 및 세금](mpn-view-print-maps-invoice.md)
+## [새 기능 시험 사용](test-drive-new-features.md)
 
 
 # [클라우드 솔루션 공급자](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [인센티브 클레임의 핵심 요구 사항](core-requirements.md)
 ### [인센티브 지급액에 대한 이해](understand-incentive-payouts.md)
 ### [파트너 센터에서 OSA 클레임 제출](submit-osa-claim.md)
+### [고객의 도메인 이름 및 인센티브 클레임을 위한 디렉터리 ID 찾기](find-customer-domain-name.md)
 
 
 # [청구 및 세금](billing.md)
@@ -100,6 +104,7 @@
 ## [고객과 재판매인의 관계 제거](remove-a-relationship.md)
 ## [고객이 파트너에게 관리 권한을 위임 또는 취소하는 경우](customers_revoke_admin_privileges.md) 
 ## [고객 목록 참조](see-your-customer-list.md)
+## [고객 활동 로그 보기](activity-logs.md)
 ## [고객 계정 정보 업데이트](update-customer-account-info.md)
 ## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
