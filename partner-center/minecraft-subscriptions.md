@@ -9,7 +9,7 @@ keywords: 공인 교육 파트너, 교육, 교육에 판매, 학교
 ms.localizationpriority: medium
 ms.openlocfilehash: 712b36badfc43c5c62d4c8e74c231076e88d44a4
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820630"
@@ -28,7 +28,7 @@ ms.locfileid: "68820630"
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Minecraft **구입: 고객을** 대신 하 여 교육용 버전
 
-Minecraft를 구입 **하려면 아래 단계를 따르세요. 파트너센터[** 의교육버전구독(](https://partnercenter.microsoft.com/pcv/dashboard/overview
+Minecraft를 구입 **하려면 아래 단계를 따르세요. 파트너센터** [의교육버전구독(](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) 로그인 필요):
 
   1.  파트너 센터 메뉴에서 **고객** 을 선택 합니다.
