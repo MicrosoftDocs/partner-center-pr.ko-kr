@@ -72,6 +72,7 @@
 ## [추천](referrals.md)
 ### [비즈니스 프로필 만들기](create-a-marketing-profile.md)
 ### [조회 응답](responding-to-referrals.md)
+### [거래 등록](register-deals.md)
 ### [Microsoft와 공동 판매](co-sell-with-microsoft.md)
 ### [추천 인사이트 얻기](referral-insights.md)
 ### [비즈니스 프로필 분석](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [고객의 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
 ## [일반적인 청구 시나리오](common-billing-scenarios.md)
 ## [미결제, 사기 또는 오용](non-payment--fraud--or-misuse.md)
-## [PSTN 서비스](o365-e5-in-csp-advisory.md)
 
 # [고객과의 관계 구축](customer-accounts.md)
 ## [새 고객 추가](add-a-new-customer.md)
