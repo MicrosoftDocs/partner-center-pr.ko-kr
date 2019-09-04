@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
-ms.translationtype: MT
+ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468015"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993981"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -29,62 +29,62 @@ ms.locfileid: "67468015"
 
 클라우드 솔루션 공급자 프로그램에서 파트너가 되기 위한 요구 사항을 검토하세요.
 
-[클라우드 솔루션 공급자 파트너를 위한 프로그램 가이드](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[클라우드 솔루션 공급자 파트너용 프로그램 가이드](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->비즈니스 문자 확인 또는 클라우드 솔루션 공급자 프로그램에는 승인 된 Microsoft 파트너로 신분을 인증 해야 하는 경우 [지원에 문의](https://partner.microsoft.com/pcv/servicerequests/create) 요청 하나.
+>클라우드 솔루션 공급자 프로그램의 승인된 Microsoft 파트너로서 상태를 확인하거나 인증하는 비즈니스 레터가 필요한 경우 [지원](https://partner.microsoft.com/pcv/servicerequests/create) 담당자에게 문의하여 요청하세요.
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>클라우드 솔루션 공급자 파트너 계약
 
 Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다. 제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.
 
-[Microsoft 클라우드 재판매인 계약 – North America, 중앙 아메리카, 남부 아메리카 및 카리브 해](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
+[Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙아메리카, 남아메리카 및 카리브 해](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
 
-[Microsoft 클라우드 재판매인 계약 – 아시아, 오스트레일리아 및 태평양](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
+[Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Microsoft 클라우드 재판매인 계약 – 유럽, 중동 및 아프리카](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
+[Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Microsoft 클라우드 재판매인 계약-일본](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
+[Microsoft 클라우드 재판매인 계약 - 일본](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
 
-[Microsoft 클라우드 재판매인 계약 – 한국어](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
+[Microsoft 클라우드 재판매인 계약 - 한국](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
 
-[Microsoft 클라우드 재판매인 계약 – 대만](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
+[Microsoft 클라우드 재판매인 계약 - 대만](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
 
-[Microsoft 클라우드 재판매인 계약-미국 정부용 Microsoft 클라우드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
+[Microsoft 클라우드 재판매인 계약 - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 계약 고객 템플릿
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 클라우드 계약 고객 템플릿
 
-고객 대신 하 여 주문을 배치할 수 있습니다, 전에 고객에 동의 하 고 해당 Microsoft 클라우드 계약서에 서명 해야 합니다. Microsoft 클라우드 계약 지역별 및 여러 언어로 제공 됩니다. Microsoft Cloud 계약으로 이동 [고객 템플릿](agreements.md) 신규 고객에 게 검토 해야 하는 Microsoft 클라우드 계약을 찾을 수 있습니다.
+고객이 해당 Microsoft 클라우드 계약에 동의하고 서명해야 고객을 대신하여 주문할 수 있습니다. Microsoft 클라우드 계약은 지역별로 다르며 여러 언어로 제공됩니다. Microsoft 클라우드 계약 [고객 템플릿](agreements.md)으로 이동하여 새로운 고객과 함께 검토해야 하는 Microsoft 클라우드 계약을 찾습니다.
 
 >[!IMPORTANT]
->고객에 서명 사람에 대 한 정보를 제공 하 여 Microsoft Cloud 계약을 수락 했다는 확인 해야 합니다. 참조 [Microsoft Cloud 계약의 고객 동의 확인](confirm-consent.md) 하 고 [Microsoft Cloud 계약 고객 승인 확인 Frequently Asked Questions](confirm-consent-faq.md) 대 한 자세한 내용은 합니다.
+>고객이 서명한 사람에 대한 정보를 제공하여 Microsoft 클라우드 계약에 동의했는지 확인해야 합니다. [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md) 참조 
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 계약 (독일)의 전문 Secrecy 수정
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft 클라우드 계약에 대한 전문 비밀 유지 수정본(독일)
 
-독일 Criminal 코드 (섹션 203) 및 규정의 전문 코드 필요 특정 클라이언트 관계 예: 해당 의료 의사 및 환자 간의 관계 및 관계에 대 한 기밀을 유지 해야 하는 변호사와 해당 클라이언트입니다. 이러한 직업 그룹 전문 secrecy 확인 해야 합니다. 이러한 및 클라우드 솔루션 공급자의 클라우드 기반 서비스를 구입 하려면 다른 직업에 대 한 클라우드 서비스 공급자 전문 기밀성을 보장 하는 고객에 게 서 면 계약을 종료 해야 합니다.
+독일에서 Criminal Code(203항) 및 전문 행동 수칙에 따르면 환자와 의사의 관계, 변호사와 고객의 관계와 같은 특정 클라이언트 관계는 기밀로 유지해야 합니다. 이러한 직업 그룹은 전문 비밀 유지를 보장해야 합니다. 이러한 전문직 및 기타 전문직에서 클라우드 솔루션 공급자로부터 클라우드 기반 서비스를 구입하려면 클라우드 서비스 공급자가 고객과 전문 비밀 유지를 보장하는 서면 계약을 해야 합니다.
 
-독일의 비즈니스를 수행 하는 경우 Microsoft 클라우드 계약 외에도 있는 고객에 게 전문 secrecy 본 수 있도록 해야 합니다.
+독일에서 비즈니스를 수행하는 경우 Microsoft 클라우드 계약 외에도 이 전문 비밀 유지 수정본을 고객에게 제공해야 할 수 있습니다.
 
-[독일 (EN)에 대 한 Microsoft 클라우드 계약 전문 Secrecy 수정](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[독일 (DE)에 대 한 Microsoft 클라우드 계약 전문 Secrecy 수정](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>가격 책정
 
-가격에서 라이선스 기반, 사용량 기준 및 일회성 구매에 대 한 정보를 다운로드 합니다 **가격 책정 및 제품** 페이지에서 사용할 수 있는 프로그램 **파트너 센터** 메뉴.
+**파트너 센터** 메뉴에 제공되는 **가격 책정 및 제품** 페이지에서 라이선스 기준, 사용량 기준 및 일회성 구매에 대한 가격 책정 세부 정보를 다운로드합니다.
 
 라이선스 기준 가격표는 매달 업데이트되며, Microsoft는 적용 30일 전에 새 가격 책정을 릴리스합니다. 라이선스 기준 서비스의 예로는 Office 365, Enterprise Mobility Suite 및 Microsoft Dynamics CRM이 있습니다. 
 
 사용량 기준 가격 책정은 동적이며 자주 바뀝니다. 사용량 기준 서비스의 예로는 Microsoft Azure가 있습니다.
 
-일회성 구입 가격은 동적이기도 합니다. 일회성 구매의 예로 Microsoft Azure 예약 및 Windows Server 및 SQL 소프트웨어에 대 한 해당 구독을 들 수 있습니다.
+일회성 구매 가격 책정은 동적이기도 합니다. 일회성 구매의 예로는 Microsoft Azure 예약 및 Windows Server 및 SQL 소프트웨어에 대한 해당 구독이 있습니다.
 
-Azure Marketplace 제품에 대 한 정보를 가격에 대 한 이동 **Marketplace** 파트너 센터 왼쪽된 탐색 메뉴에서. 게시자, Sku에 대 한 정보를 보려면 제품을 선택 하 고 가격 책정 합니다. 이러한 Azure Marketplace 제품에 대 한 가격은 자주 변경할 수 있습니다. 모든 Marketplace 제품에 대 한 현재 가격 책정 정보를 가져오려는 선택 **내보내기 가격표** 모든 가격 책정 데이터를 사용 하 여 스프레드시트를 생성 합니다. 원하는 만큼 자주 확인할 수 있습니다이 정보는 매일 업데이트 됩니다.
+Azure Marketplace 제품에 대한 가격 책정 정보를 보려면 파트너 센터 왼쪽 탐색 메뉴의 **Marketplace**로 이동합니다. 제품을 선택하여 게시자, SKU 및 가격 책정에 대한 정보를 확인합니다. 이러한 Azure Marketplace 제품 가격은 자주 변동될 수 있습니다. 모든 Marketplace 제품에 대한 현재 가격 정보를 확인하려면 **가격 목록 내보내기**를 선택하여 모든 가격 책정 데이터가 포함된 스프레드시트를 생성하세요. 이 정보는 매일 업데이트되므로 원하는 만큼 자주 확인할 수 있습니다.
 
 ## <a name="offers"></a>제품
 
-CSP의 파트너는 다양 한 Microsoft 제품, 서비스 및 Office 365, Enterprise Mobility Suite, Microsoft Dynamics 및 Microsoft Azure를 비롯 한 솔루션을 판매할 수 있습니다. 이러한 제품군 내에서 판매 하에 사용할 수 있는 제품에 대 한 자세한 내용은 CSP 제품 매트릭스를 보려면 합니다 **가격 책정 및 제품** 페이지에서 사용할 수 있는 프로그램 **파트너 센터** 메뉴. 이 문서는 매달 업데이트됩니다.
+CSP의 파트너로서 Office 365, Enterprise Mobility Suite, Microsoft Dynamics 및 Microsoft Azure를 포함하여 광범위한 Microsoft 제품, 서비스 및 솔루션을 판매할 수 있습니다. 이러한 제품군 내에서 판매할 수 있는 제품에 대한 자세한 내용은 **파트너 센터** 메뉴에 제공되는 **가격 및 제품** 페이지에서 CSP 제품표를 참조하세요. 이 문서는 매달 업데이트됩니다.
 
-CREST 사용 레코드 API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
+Crest Usage Record API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
-독립 소프트웨어 공급 업체 (Isv)에서 게시 하는 Azure Marketplace 제품에 대 한 자세한 내용은 참조는 **Marketplace** 페이지 왼쪽된 탐색 메뉴. 현재 파트너 센터에서 SaaS (software-as-a-service) 제품 형식만 구입할 수 있습니다. 다른 유형의 Azure Marketplace 제품을 획득 하려면 Azure portal을 방문 해야 합니다.
+ISV(Independent Software Vendors)에서 게시한 Azure Marketplace 제품에 대해 알아보려면 왼쪽 탐색 메뉴에서 **Marketplace** 페이지를 방문하세요. 현재 SaaS(Software as a Service) 제품 유형만 파트너 센터에서 구매할 수 있습니다. 다른 유형의 Azure Marketplace 제품을 구하려면 Azure Portal을 방문해야 합니다.
