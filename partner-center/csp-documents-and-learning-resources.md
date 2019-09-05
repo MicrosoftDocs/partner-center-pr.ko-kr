@@ -1,19 +1,19 @@
 ---
 title: CSP 계약, 가격표 및 제품 | 파트너 센터
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: 이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993981"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259912"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -33,24 +33,6 @@ ms.locfileid: "69993981"
 
 >[!Note]
 >클라우드 솔루션 공급자 프로그램의 승인된 Microsoft 파트너로서 상태를 확인하거나 인증하는 비즈니스 레터가 필요한 경우 [지원](https://partner.microsoft.com/pcv/servicerequests/create) 담당자에게 문의하여 요청하세요.
-
-## <a name="cloud-solution-provider-partner-agreement"></a>클라우드 솔루션 공급자 파트너 계약
-
-Microsoft에서는 파트너가 클라우드 솔루션 공급자 프로그램에 가입하기 위해서는 이 계약에 서명하도록 요구합니다. 제품을 판매하려는 시장 또는 국가 클라우드에 대한 가이드를 검토하세요.
-
-[Microsoft 클라우드 재판매인 계약 - 북아메리카, 중앙아메리카, 남아메리카 및 카리브 해](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Microsoft 클라우드 재판매인 계약 - 아시아, 오스트레일리아 및 태평양](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft 클라우드 재판매인 계약 - 유럽, 중동 및 아프리카](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft 클라우드 재판매인 계약 - 일본](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Microsoft 클라우드 재판매인 계약 - 한국](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Microsoft 클라우드 재판매인 계약 - 대만](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Microsoft 클라우드 재판매인 계약 - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 클라우드 계약 고객 템플릿
 
