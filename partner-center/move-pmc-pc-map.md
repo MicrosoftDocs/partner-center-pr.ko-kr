@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
-ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69999658"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259925"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
 
@@ -57,7 +57,13 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 ||MAPS가 아직 없는 경우 구매할 수 있습니다. MAPS 소유권은 역량에 연결되지 않습니다.  
 |혜택이 PDD(Partner Digital Download)에서 액세스됨 |모든 혜택이 파트너 센터에서 액세스됨|
 |역량 및 혜택이 여러 위치에 분산되고 구분됨|모든 위치의 역량 및 혜택이 회사(PGA) 수준에서 통합되며 갱신일까지 유지됩니다. 이때 회사 수준에서 구매하거나 갱신해야 합니다. 역량뿐만 아니라 성능과 기술이 전체적으로 집계됨|
-|Software Assurance 바우처 클레임이 VVR(Voucher Valication and Redmption) 도구에서 수행됨|이제 파트너 센터 내에서 SATV(Software Assurance Training Voucher) 및/또는 DPS(Deployed Planning Services)에 액세스하고 관리할 수 있습니다.  레거시 VVR 도구는 2019년 10월 1일부터 서비스 해제됩니다.  |
+|Software Assurance 바우처 클레임이 VVR(Voucher Validation and Redemption) 도구에서 수행됨|이제 파트너 센터 내에서 SATV(Software Assurance Training Voucher) 및/또는 DPS(Deployed Planning Services)에 액세스하고 관리할 수 있습니다.  레거시 VVR 도구는 2019년 10월 1일부터 서비스 해제됩니다.  |
+
+## <a name="associating-mcp-ids-to-partner-center"></a>파트너 센터에 MCP ID 연결
+
+|**PMC**   |**파트너 센터**   |
+|-------------------------|:-------------------|
+|동일한 MCP ID를 여러 회사에 연결할 수 있습니다.| 한 MCP ID를 하나의 파트너 센터 계정에만 연결할 수 있습니다. 수동으로 연결해야 합니다. 파트너 센터 대시보드에서, 대시보드 오른쪽 모서리에 있는 **계정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다. **학습** 아래에서 Microsoft Learning 계정을 연결할 수 있으며, 또한 Microsoft 계정을 파트너 대학에 연결할 수 있습니다.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 혜택 및 MSA
 
@@ -78,7 +84,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 |바우처 유효성 검사 및 사용 도구| 바우처 유효성 검사 및 사용 도구|
 |           |클라우드 솔루션 공급자 프로그램|
 
-예. MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 다음 MSA 할당을 제거하면 파트너 센터에 다시 추가할 수 없습니다.
+MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 다음 MSA 할당을 제거하면 파트너 센터에 다시 추가할 수 없습니다.
 
 파트너 센터에서 파트너는 동일한 테넌트(여기서 파트너는 Azure AD 테넌트의 MPN 관리자임)의 MSA인 회사 계정 및 게스트 사용자 계정을 추가할 수 있습니다. 파트너가 여러 Azure AD 테넌트에서 전역 관리자이고 이러한 모든 테넌트가 동일한 파트너 센터 계정과 연결된 경우 파트너는 이러한 모든 테넌트의 사용자를 Visual Studio 혜택 및 Azure 사용량 기반 할당에 추가할 수 있습니다.
 

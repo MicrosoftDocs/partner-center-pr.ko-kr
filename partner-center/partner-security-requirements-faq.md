@@ -1,18 +1,18 @@
 ---
 title: 파트너 보안 요구 사항 FAQ | 파트너 센터
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 08/30/2019
 description: 파트너 보안 요구 사항에 대해 자주 묻는 질문
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: 54ac919aeadec85b941e0dce9b1556df843e5fcb
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "70020540"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215660"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -85,8 +85,8 @@ CSP 프로그램(직접 청구, 간접 공급자 및 간접 재판매인)의 모
 
     - 간접 공급자는 간접 재판매인과 협력하여 파트너 센터에 아직 온보딩하지 않은 경우 온보딩하고 재판매인이 요구 사항을 충족하도록 해야 합니다.
     - Azure MFA는 [Microsoft Authenticator 앱](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview) 사용이라는 유일한 검증 방법으로 기준 정책을 통해 무료로 파트너 테넌트의 모든 사용자가 사용할 수 있습니다.
-    - SMS나 메일과 같은 다른 방법이 필요한 경우 추가 검증 방법은 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU를 통해 사용할 수 있습니다.
-    - 또한 파트너는 Microsoft 상용 클라우드 서비스에 액세스할 때 사용자별로 타사 MFA 솔루션을 활용할 수 있습니다.
+    - 전화 통화나 문자 메시지 같은 다른 방법이 필요한 경우 추가 검증 방법은 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU를 통해 사용할 수 있습니다.
+    - 또한 파트너는 Microsoft 상용 클라우드 서비스에 액세스할 때 계정마다 타사 MFA 솔루션을 활용할 수 있습니다.
 
 2. **보안 애플리케이션 모델 프레임워크 채택**
 
@@ -94,10 +94,10 @@ CSP 프로그램(직접 청구, 간접 공급자 및 간접 재판매인)의 모
 
     - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
     - [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+    - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
     제어판을 사용하는 경우 보안 애플리케이션 모델 프레임워크 채택과 관련하여 공급업체에 문의해야 합니다.
 
@@ -122,7 +122,7 @@ MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통�
 
 ### <a name="what-baseline-policies-must-i-enable"></a>어떤 기준 정책을 사용해야 하나요?
 
-현재 기준 보호 정책을 활용하여 파트너 테넌트의 각 사용자에 대해 MFA를 제공하려는 경우 [관리자용 MFA 필요](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 및 [최종 사용자 보호](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) 기준 정책을 사용해야 합니다. 이러한 기준 보호 정책은 모바일 디바이스를 통해 Microsoft Authenticator 앱을 사용하고 있는 파트너에 대해서만 무료로 파트너 테넌트의 각 사용자에 대한 MFA 요구 사항을 충족합니다.
+현재 기준 보호 정책을 활용하여 파트너 테넌트의 각 계정에 MFA를 제공하려는 경우 [관리자용 MFA 필요](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 및 [최종 사용자 보호](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) 기준 정책을 사용해야 합니다. 이러한 기준 보호 정책은 모바일 디바이스를 통해 Microsoft Authenticator 앱을 사용하고 있는 파트너에 대해서만 무료로 파트너 테넌트의 각 사용자에 대한 MFA 요구 사항을 충족합니다.
 
 [관리자용 MFA 필요 기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)은 파트너 디렉터리의 관리 사용자에게 활용하고, [최종 사용자 보호](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) 기준 정책은 파트너 테넌트의 관리자가 아닌 사용자를 보호하는 데 활용합니다. 이러한 정책을 사용하려면 사용자가 MFA에 등록해야 합니다. 사용자가 성공적으로 등록되면 정책의 기준을 기반으로 한 로그인 시도 중 MFA를 묻는 메시지가 표시됩니다. 끊임없이 변화하는 보안 위협으로부터 파트너와 고객을 보호하기 위해 기준 정책에서 제공하는 기능은 계속 개선될 것입니다. 따라서 [기준 정책 설명서](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)를 검토하여 자세한 내용을 확인해야 합니다.
 
@@ -246,10 +246,10 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 제어판을 사용하는 경우 보안 애플리케이션 모델 프레임워크 채택과 관련하여 공급업체에 문의해야 합니다.
 
@@ -333,10 +333,10 @@ CPV는 CPV로서 등록과 연관된 테넌트에 Azure Active Directory 애플�
 
 - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>지원
 
@@ -353,6 +353,10 @@ CPV는 CPV로서 등록과 연관된 테넌트에 Azure Active Directory 애플�
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>보안 애플리케이션 모델 프레임워크를 채택하는 데 도움이 되는 기술 정보 및 지원을 받으려면 어떻게 해야 하나요?
 
 Azure Active Directory에 대한 기술 제품 지원 옵션은 MPN 혜택을 통해 사용할 수 있습니다. 활성 ASfP 또는 PSfP 구독에 대한 액세스 권한이 있는 파트너는 연관된 계정 관리자(SAM/TAM)와 협력하여 사용 가능한 옵션을 가장 잘 파악할 수 있습니다.
+
+### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>파트너 센터에 대한 액세스 권한이 손실된 경우 지원 담당자에게 어떻게 연락해야 하나요?
+
+[Microsoft 파트너 지원](https://partner.microsoft.com/support)으로 이동한 다음, **모든 지원 옵션 표시**를 선택합니다. 그러면 Microsoft 파트너 지원에 연락할 수 있는 옵션이 표시될 것입니다. 여기에는 지원을 요청하는 전화 번호 및 고객 지원 팀과 채팅하는 옵션이 포함됩니다. 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>일반적인 기술 문제에 대한 자세한 내용은 어디에서 확인할 수 있나요?
 
