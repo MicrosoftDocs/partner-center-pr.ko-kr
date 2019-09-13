@@ -9,7 +9,7 @@ keywords: MPN, 송장, 지도, 세금 면제, VAT, VAT ID
 ms.localizationpriority: medium
 ms.openlocfilehash: a9ccc3a2e26d362ccd1a10372d160bc801addb3b
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708894"
