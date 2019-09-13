@@ -9,7 +9,7 @@ keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, 고객 계
 ms.localizationpriority: medium
 ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820524"

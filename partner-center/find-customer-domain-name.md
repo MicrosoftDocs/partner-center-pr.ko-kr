@@ -9,7 +9,7 @@ keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금, OSA, ISV,
 ms.localizationpriority: medium
 ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
 ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/22/2019
 ms.locfileid: "68376412"

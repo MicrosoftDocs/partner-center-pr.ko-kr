@@ -9,7 +9,7 @@ keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
 ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708914"

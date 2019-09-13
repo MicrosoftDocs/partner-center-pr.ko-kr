@@ -9,7 +9,7 @@ keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: medium
 ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
 ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/27/2019
 ms.locfileid: "67407874"

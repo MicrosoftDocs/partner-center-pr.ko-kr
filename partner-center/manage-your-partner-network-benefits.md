@@ -9,7 +9,7 @@ keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: medium
 ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
 ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/18/2019
 ms.locfileid: "67198313"
