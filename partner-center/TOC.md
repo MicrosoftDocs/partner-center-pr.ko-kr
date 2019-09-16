@@ -31,6 +31,7 @@
 
 # [클라우드 솔루션 공급자](csp-overview.md)
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
+## [CSP 파트너를 위한 Microsoft 파트너 계약](microsoft-partner-agreement.md)
 ## [CSP 직접 파트너 새로운 요구 사항](direct-partner-new-requirements.md)
 ## [지역 및 언어별 Microsoft 클라우드 계약](agreements.md)
 ## [CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](transition-direct-to-indirect.md)
