@@ -171,6 +171,7 @@
 # 보안
 ## [파트너 보안 요구 사항](partner-security-requirements.md)
 ## [파트너 보안 요구 사항 FAQ](partner-security-requirements-faq.md)
+## [파트너 보안 준수 상태](partner-security-compliance.md)
 
 # 자습서
 ## [파트너 보안 요구 사항 구현](tutorials/partner-security-requirements.yml)
