@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: 파트너 센터에 대한 도움을 받으려면 여기서 시작
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: 파트너 센터는 Microsoft CSP(클라우드 솔루션 공급자) 프로그램을 통해 비즈니스를 성장시킬 수 있게 도와줍니다. 계정을 설정하고, 고객과 연결하고, Action Pack 구독을 구입하고, CSP 및 MPN 프로그램의 파트너에 대해 자세히 알아보세요. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035523"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318882"
 ---
 # <a name="welcome-to-partner-center"></a>파트너 센터 시작
 
@@ -87,7 +87,7 @@ Microsoft 파트너 센터는 Microsoft와의 엔드투엔드 관계를 관리�
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>PMC에서 PC로 이동</h3>
-                        <p>파트너 센터로 이동하기 위한 회사 준비 방법 알아보기</p></a>
+                        <p>파트너 센터로 이동하기 위한 회사 준비</p></a>
                     </div>
                 </div>
             </div>
