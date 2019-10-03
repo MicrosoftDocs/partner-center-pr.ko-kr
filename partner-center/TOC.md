@@ -28,7 +28,6 @@
 ### [IMicrosoft 파트너 네트워크의 송장 및 세금](mpn-view-print-maps-invoice.md)
 ## [새 기능 시험 사용](test-drive-new-features.md)
 
-
 # [클라우드 솔루션 공급자](csp-overview.md)
 ## [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
 ## [CSP 파트너를 위한 Microsoft 파트너 계약](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md)
 ## [고객의 Microsoft 고객 계약 동의 확인(미리 보기)](confirm-customer-agreement.md)
-
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [인센티브 지급액에 대한 이해](understand-incentive-payouts.md)
 ### [파트너 센터에서 OSA 클레임 제출](submit-osa-claim.md)
 ### [고객의 도메인 이름 및 인센티브 클레임을 위한 디렉터리 ID 찾기](find-customer-domain-name.md)
-
 
 # [청구 및 세금](billing.md)
 ## [청구 FAQ](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [고객 자가 지원](customer-self-support.md)
 ## [Microsoft로 문제 에스컬레이션](escalate-problems-to-microsoft.md)
 
-# 보안
-## [파트너 보안 요구 사항](partner-security-requirements.md)
-## [파트너 보안 요구 사항 FAQ](partner-security-requirements-faq.md)
-## [파트너 보안 준수 상태](partner-security-compliance.md)
+# 보안 요구 사항
+## [개요](partner-security-requirements.md)
+## [규정 준수 상태](partner-security-compliance.md)
+## [질문과 대답](partner-security-requirements-faq.md)
 
 # 자습서
 ## [파트너 보안 요구 사항 구현](tutorials/partner-security-requirements.yml)
