@@ -78,10 +78,12 @@
 ## [인센티브 클레임](claims-overview.md)
 ### [인센티브 클레임 생성 및 관리](create-incentives-claims.md)
 ### [인센티브 클레임의 핵심 요구 사항](core-requirements.md)
+
+
 ### [지급액 정보에 대한 이해](incentives-unified-user-guide.md)
-### [인센티브 지급액에 대한 이해](understand-incentive-payouts.md)
-### [파트너 센터에서 OSA 클레임 제출](submit-osa-claim.md)
-### [고객의 도메인 이름 및 인센티브 클레임을 위한 디렉터리 ID 찾기](find-customer-domain-name.md)
+
+### [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)
+
 
 # [청구 및 세금](billing.md)
 ## [청구 FAQ](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # 보안 요구 사항
 ## [개요](partner-security-requirements.md)
-## [규정 준수 상태](partner-security-compliance.md)
+## [요구 사항 상태](partner-security-compliance.md)
 ## [질문과 대답](partner-security-requirements-faq.md)
 
 # 자습서
