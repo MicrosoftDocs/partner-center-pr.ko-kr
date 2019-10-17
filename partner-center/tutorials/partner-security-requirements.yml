@@ -1,5 +1,5 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="f08f2-101">파트너 보안 요구 사항 구현</span><span class="sxs-lookup"><span data-stu-id="f08f2-101">Implementing the partner security requirements</span></span>
+title: 파트너 보안 요구 사항 구현
 metadata:
   title: 파트너 보안 요구 사항 구현
   description: 이 자습서에서는 파트너 보안 요구 사항 및 요구 사항 이행 방법에 대해 알아봅니다.
@@ -8,98 +8,93 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313956"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425215"
 items:
-- title: <span data-ttu-id="f08f2-104">소개</span><span class="sxs-lookup"><span data-stu-id="f08f2-104">Introduction</span></span>
+- title: 소개
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="f08f2-105">고객과 파트너의 보안 및 프라이버시는 Microsoft의 최우선 순위입니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="f08f2-106">주로 ID 손상과 관련된 보안 공격이 더욱 정교해 지고 있으며 그 수도 증가하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="f08f2-107">예방적 관리는 보안 공격을 방지하기 위한 전반적인 방어 전략에서 매우 중요한 역할을 하므로, Microsoft에서는 파트너 및 고객을 보호하기 위한 일련의 필수 보안 요구 사항을 적용하기 시작할 예정입니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    고객과 파트너의 보안 및 프라이버시는 Microsoft의 최우선 순위입니다. 주로 ID 손상과 관련된 보안 공격이 더욱 정교해 지고 있으며 그 수도 증가하고 있습니다. 예방적 관리는 보안 공격을 방지하기 위한 전반적인 방어 전략에서 매우 중요한 역할을 하므로, Microsoft에서는 파트너 및 고객을 보호하기 위한 일련의 필수 보안 요구 사항을 적용하기 시작할 예정입니다.
 
 
-    <span data-ttu-id="f08f2-108">이 자습서에서는 파트너 보안 요구 사항, 요구 사항 이행 방법 및 파트너 디렉터리의 사용자에게 미치는 영향에 대해 자세히 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="f08f2-109">파트너 보안 요구 사항이 무엇인가요?</span><span class="sxs-lookup"><span data-stu-id="f08f2-109">What are the partner security requirements?</span></span>
+    이 자습서에서는 파트너 보안 요구 사항, 요구 사항 이행 방법 및 파트너 디렉터리의 사용자에게 미치는 영향에 대해 자세히 알아봅니다.
+- title: 파트너 보안 요구 사항이 무엇인가요?
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="f08f2-110">클라우드 솔루션 공급자 프로그램에 참가하는 모든 파트너, 제어판 공급업체 및 Advisor 파트너는 파트너 테넌트의 각 사용자에게 MFA(Multi-Factor Authentication)를 적용해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="f08f2-111">이 작업은 두 가지 [Azure Active Directory 기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)을 사용하여 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="f08f2-112">기준 정책은 여러 일반적인 공격으로부터 조직을 보호하는 데 도움이 되는 미리 정의된 정책 세트입니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="f08f2-113">이러한 일반적인 공격은 암호 스프레이, 재생 및 피싱을 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="f08f2-114">기준 정책은 모든 버전의 Azure Active Directory에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="f08f2-115">지난 몇 년 동안 ID 기반 공격이 증가해 왔기 때문에 Microsoft는 이러한 기준 보호 정책을 모든 사용자에게 제공하고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    클라우드 솔루션 공급자 프로그램에 참가하는 모든 파트너, 제어판 공급업체 및 Advisor 파트너는 파트너 테넌트의 각 사용자에게 MFA(Multi-Factor Authentication)를 적용해야 합니다. 이 작업은 두 가지 [Azure Active Directory 기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)을 사용하여 수행할 수 있습니다. 기준 정책은 여러 일반적인 공격으로부터 조직을 보호하는 데 도움이 되는 미리 정의된 정책 세트입니다. 이러한 일반적인 공격은 암호 스프레이, 재생 및 피싱을 포함할 수 있습니다. 기준 정책은 모든 버전의 Azure Active Directory에서 사용할 수 있습니다. 지난 몇 년 동안 ID 기반 공격이 증가해 왔기 때문에 Microsoft는 이러한 기준 보호 정책을 모든 사용자에게 제공하고 있습니다.
 
 
-    <span data-ttu-id="f08f2-116">사용하도록 설정해야 하는 두 가지 기준 정책은 아래 표에 설명되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    사용하도록 설정해야 하는 두 가지 기준 정책은 아래 표에 설명되어 있습니다.
 
 
-    |<span data-ttu-id="f08f2-117">**정책**</span><span class="sxs-lookup"><span data-stu-id="f08f2-117">**Policy**</span></span>| |
+    |**정책**| |
 
     |-----|-----|
 
-    |<span data-ttu-id="f08f2-118">**관리자용 MFA 필요**</span><span class="sxs-lookup"><span data-stu-id="f08f2-118">**Require MFA for admins**</span></span>|<span data-ttu-id="f08f2-119">관리자용 MFA 필요 정책이 사용하도록 설정되면 관리자 역할의 사용자가 인증자 앱을 사용하여 MFA에 등록해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="f08f2-120">MFA 등록이 완료되면 관리자가 로그인할 때마다 MFA를 수행해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |**관리자용 MFA 필요**|관리자용 MFA 필요 정책이 사용하도록 설정되면 관리자 역할의 사용자가 인증자 앱을 사용하여 MFA에 등록해야 합니다. MFA 등록이 완료되면 관리자가 로그인할 때마다 MFA를 수행해야 합니다.|
 
-    |<span data-ttu-id="f08f2-121">**최종 사용자 보호**</span><span class="sxs-lookup"><span data-stu-id="f08f2-121">**End user protection**</span></span>|<span data-ttu-id="f08f2-122">최종 사용자 보호는 디렉터리의 모든 사용자를 보호하는 위험 기반 MFA 기준 정책입니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="f08f2-123">이 정책이 사용하도록 설정되면 모든 사용자가 인증자 앱을 사용하여 MFA에 등록해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="f08f2-124">사용자는 MFA 등록 프롬프트를 14일 동안 무시할 수 있으며 그 후에는 MFA에 등록하기 전까지 로그인이 차단됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="f08f2-125">MFA에 등록된 사용자에게는 위험한 로그인 시도 중에만 MFA를 묻는 메시지가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="f08f2-126">손상된 사용자 계정은 해당 암호를 다시 설정하고 위험 이벤트를 해제할 때까지 차단됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |**최종 사용자 보호**|최종 사용자 보호는 디렉터리의 모든 사용자를 보호하는 위험 기반 MFA 기준 정책입니다. 이 정책이 사용하도록 설정되면 모든 사용자가 인증자 앱을 사용하여 MFA에 등록해야 합니다. 사용자는 MFA 등록 프롬프트를 14일 동안 무시할 수 있으며 그 후에는 MFA에 등록하기 전까지 로그인이 차단됩니다. MFA에 등록된 사용자에게는 위험한 로그인 시도 중에만 MFA를 묻는 메시지가 표시됩니다. 손상된 사용자 계정은 해당 암호를 다시 설정하고 위험 이벤트를 해제할 때까지 차단됩니다.|
 
 
-    <span data-ttu-id="f08f2-127">이러한 정책이 설정되어 있으면 각 사용자는 추가 비용 없이 Azure MFA를 활용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="f08f2-128">타사 솔루션을 사용 중인 경우 Microsoft 상용 클라우드 서비스에 액세스할 때 각 사용자에게 MFA를 적용해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    이러한 정책이 설정되어 있으면 각 사용자는 추가 비용 없이 Azure MFA를 활용할 수 있습니다. 타사 솔루션을 사용 중인 경우 Microsoft 상용 클라우드 서비스에 액세스할 때 각 사용자에게 MFA를 적용해야 합니다.
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="f08f2-129">MFA는 파트너 디렉터리의 모든 사용자에게 적용되므로 사용자 자격 증명을 활용하는 모든 자동화 또는 통합에 영향을 줍니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="f08f2-130">이러한 영향을 해결하려면 자동화 또는 통합이 Microsoft 상용 클라우드 서비스에 연결하는 방법을 수정해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="f08f2-131">연결하는 서비스에서 토큰 기반 인증을 지원하는 경우 [보안 애플리케이션 모델 프레임워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)를 구현하는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="f08f2-132">관리자용 MFA 필요 기준 정책을 사용하려면 어떻게 해야 하나요?</span><span class="sxs-lookup"><span data-stu-id="f08f2-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > MFA는 파트너 디렉터리의 모든 사용자에게 적용되므로 사용자 자격 증명을 활용하는 모든 자동화 또는 통합에 영향을 줍니다. 이러한 영향을 해결하려면 자동화 또는 통합이 Microsoft 상용 클라우드 서비스에 연결하는 방법을 수정해야 합니다. 연결하는 서비스에서 토큰 기반 인증을 지원하는 경우 [보안 애플리케이션 모델 프레임워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)를 구현하는 것이 좋습니다.
+- title: 관리자용 MFA 필요 기준 정책을 사용하려면 어떻게 해야 하나요?
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="f08f2-133">*관리자용 MFA 필요* 기준 정책은 가장 높은 권한을 가진 Azure AD 역할로 간주되는 다음과 같은 디렉터리 역할에 MFA를 요구합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+    *관리자용 MFA 필요* 기준 정책은 가장 높은 권한을 가진 Azure AD 역할로 간주되는 다음과 같은 디렉터리 역할에 MFA를 요구합니다.
 
 
-    - <span data-ttu-id="f08f2-134">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-134">Global administrator</span></span>
+    - 전역 관리자
 
-    - <span data-ttu-id="f08f2-135">SharePoint 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-135">SharePoint administrator</span></span>
+    - SharePoint 관리자
 
-    - <span data-ttu-id="f08f2-136">Exchange 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-136">Exchange administrator</span></span>
+    - Exchange 관리자
 
-    - <span data-ttu-id="f08f2-137">조건부 액세스 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-137">Conditional access administrator</span></span>
+    - 조건부 액세스 관리자
 
-    - <span data-ttu-id="f08f2-138">보안 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-138">Security administrator</span></span>
+    - 보안 관리자
 
-    - <span data-ttu-id="f08f2-139">기술 지원팀 관리자/암호 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-139">Helpdesk administrator / Password administrator</span></span>
+    - 기술 지원팀 관리자/암호 관리자
 
-    - <span data-ttu-id="f08f2-140">대금 청구 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-140">Billing administrator</span></span>
+    - 대금 청구 관리자
 
-    - <span data-ttu-id="f08f2-141">사용자 관리자</span><span class="sxs-lookup"><span data-stu-id="f08f2-141">User administrator</span></span>
-
-
-    <span data-ttu-id="f08f2-142">관리자용 MFA 필요 정책이 사용하도록 설정되면 위의 관리자 역할 9개가 인증자 앱을 사용하여 MFA에 등록해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="f08f2-143">MFA 등록이 완료되면 관리자가 로그인할 때마다 MFA를 수행해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+    - 사용자 관리자
 
 
-    <span data-ttu-id="f08f2-144">조직에서 스크립트 또는 코드에 이러한 계정을 사용 중인 경우 이를  [관리 ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)로 바꾸는 것이 좋습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+    관리자용 MFA 필요 정책이 사용하도록 설정되면 위의 관리자 역할 9개가 인증자 앱을 사용하여 MFA에 등록해야 합니다. MFA 등록이 완료되면 관리자가 로그인할 때마다 MFA를 수행해야 합니다.
 
 
-    <span data-ttu-id="f08f2-145">이 정책을 사용하도록 설정하고 관리자를 보호하려면 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-145">To enable this policy and protect your administrators:</span></span>
+    조직에서 스크립트 또는 코드에 이러한 계정을 사용 중인 경우 이를  [관리 ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)로 바꾸는 것이 좋습니다.
 
 
-    1. <span data-ttu-id="f08f2-146">전역 관리자, 보안 관리자 또는 조건부 액세스 관리자로  **Azure Portal** 에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    이 정책을 사용하도록 설정하고 관리자를 보호하려면 다음을 수행합니다.
 
-    2. <span data-ttu-id="f08f2-147">**Azure Active Directory** > **조건부 액세스**로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="f08f2-148">정책 목록에서 **기준 정책: 관리자용 MFA 필요**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+    1. 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자로  **Azure Portal** 에 로그인합니다.
 
-    4. <span data-ttu-id="f08f2-149">**정책 사용**을 **즉시 정책 사용**으로 설정합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+    2. **Azure Active Directory** > **조건부 액세스**로 이동합니다.
 
-    5. <span data-ttu-id="f08f2-150"> *\*저장*\*을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-150">Click **Save**.</span></span>
+    3. 정책 목록에서 **기준 정책: 관리자용 MFA 필요**를 선택합니다.
+
+    4. **정책 사용**을 **즉시 정책 사용**으로 설정합니다.
+
+    5.  **저장**을 클릭합니다.
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="f08f2-151">이 정책을 사용하도록 설정하기 전에 사용자가 레거시 인증 프로토콜을 사용하고 있지 않은지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="f08f2-152">자세한 내용은 [방법: 조건부 액세스를 사용하여 Azure AD에 대한 레거시 인증 차단](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f08f2-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > 이 정책을 사용하도록 설정하기 전에 사용자가 레거시 인증 프로토콜을 사용하고 있지 않은지 확인합니다. 자세한 내용은 [방법: 조건부 액세스를 사용하여 Azure AD에 대한 레거시 인증 차단](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)을 참조하세요.
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="f08f2-153">MFA를 적용하면 위임된 관리 권한을 사용하여 Exchange Online PowerShell에 연결하는 기능에 영향을 주는 알려진 이슈가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="f08f2-154">자세한 내용은 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f08f2-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="f08f2-155">*관리자용 MFA 필요* 기준 정책을 적용하면 위에서 언급한 관리자 역할의 멤버인 사용자가 로그인할 때 새로운 환경을 경험하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="f08f2-156">다음 그림은 이 정책의 영향을 받는 사용자가 무엇을 경험하게 되는지 보여줍니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-156">The following figures are what users impacted by this policy will experience</span></span>
+    *관리자용 MFA 필요* 기준 정책을 적용하면 위에서 언급한 관리자 역할의 멤버인 사용자가 로그인할 때 새로운 환경을 경험하게 됩니다. 다음 그림은 이 정책의 영향을 받는 사용자가 무엇을 경험하게 되는지 보여줍니다.
 
       ![더 많은 정보 요청](../images/security/baseline-require-more-info.png)
 
@@ -111,41 +106,36 @@ items:
 
       ![추가 보안 유효성 검사 확인](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="f08f2-162">사용자가 위의 단계를 완료하면 액세스하려는 Microsoft 클라우드 서비스에 로그인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="f08f2-163">최종 사용자 보호 기준 정책을 사용하려면 어떻게 해야 하나요?</span><span class="sxs-lookup"><span data-stu-id="f08f2-163">How do I enable the End user protection baseline policy?</span></span>
+    사용자가 위의 단계를 완료하면 액세스하려는 Microsoft 클라우드 서비스에 로그인할 수 있습니다.
+- title: 최종 사용자 보호 기준 정책을 사용하려면 어떻게 해야 하나요?
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="f08f2-164">최종 사용자 보호 기준 정책은 디렉터리의 모든 사용자를 보호합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="f08f2-165">이 정책이 사용하도록 설정되면 모든 사용자가 14일 내에 Azure MFA에 등록해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="f08f2-166">등록하면 위험한 로그인을 시도하는 동안에만 사용자에게 MFA를 요청하는 메시지가 표시되며, 이 동작은 나중에 파트너 테넌트에 적용되도록 변경될 것입니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="f08f2-167">손상된 사용자 계정은 암호를 다시 설정하고 위험을 해제할 때까지 차단됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    최종 사용자 보호 기준 정책은 디렉터리의 모든 사용자를 보호합니다. 이 정책이 사용하도록 설정되면 모든 사용자가 14일 내에 Azure MFA에 등록해야 합니다. 등록하면 위험한 로그인을 시도하는 동안에만 사용자에게 MFA를 요청하는 메시지가 표시되며, 이 동작은 나중에 파트너 테넌트에 적용되도록 변경될 것입니다. 손상된 사용자 계정은 암호를 다시 설정하고 위험을 해제할 때까지 차단됩니다.
 
 
-    <span data-ttu-id="f08f2-168">**기준 정책: 최종 사용자 보호** 정책은 미리 구성된 상태로 제공되며 Azure Portal의 조건부 액세스 블레이드로 이동하면 위쪽에 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    **기준 정책: 최종 사용자 보호** 정책은 미리 구성된 상태로 제공되며 Azure Portal의 조건부 액세스 블레이드로 이동하면 위쪽에 표시됩니다.
 
 
-    <span data-ttu-id="f08f2-169">이 정책을 사용하도록 설정하고 사용자를 보호하려면 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-169">To enable this policy and protect your users:</span></span>
+    이 정책을 사용하도록 설정하고 사용자를 보호하려면 다음을 수행합니다.
 
 
-    1. <span data-ttu-id="f08f2-170">전역 관리자, 보안 관리자 또는 조건부 액세스 관리자로  **Azure Portal** 에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자로  **Azure Portal** 에 로그인합니다.
 
-    2. <span data-ttu-id="f08f2-171">**Azure Active Directory** > **조건부 액세스**로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. **Azure Active Directory** > **조건부 액세스**로 이동합니다.
 
-    3. <span data-ttu-id="f08f2-172">정책 목록에서 **기준 정책: 최종 사용자 보호(미리 보기)** 를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. 정책 목록에서 **기준 정책: 최종 사용자 보호(미리 보기)** 를 선택합니다.
 
-    4. <span data-ttu-id="f08f2-173">**정책 사용**을 **즉시 정책 사용**으로 설정합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-173">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. **정책 사용**을 **즉시 정책 사용**으로 설정합니다.
 
-    5. <span data-ttu-id="f08f2-174"> *\*저장*\*을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-174">Click **Save**.</span></span>
+    5.  **저장**을 클릭합니다.
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="f08f2-175">이 정책을 사용하도록 설정하기 전에 사용자가 레거시 인증 프로토콜을 사용하고 있지 않은지 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="f08f2-176">자세한 내용은 [방법: 조건부 액세스를 사용하여 Azure AD에 대한 레거시 인증 차단](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f08f2-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > 이 정책을 사용하도록 설정하기 전에 사용자가 레거시 인증 프로토콜을 사용하고 있지 않은지 확인합니다. 자세한 내용은 [방법: 조건부 액세스를 사용하여 Azure AD에 대한 레거시 인증 차단](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)을 참조하세요.
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="f08f2-177">MFA를 적용하면 위임된 관리 권한을 사용하여 Exchange Online PowerShell에 연결하는 기능에 영향을 주는 알려진 이슈가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="f08f2-178">자세한 내용은 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="f08f2-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="f08f2-179">*최종 사용자 보호* 기준 정책을 설정하면 모든 사용자가 로그인할 때 새로운 환경을 경험하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="f08f2-180">다음 그림은 사용자가 무엇을 경험하게 되는지 보여줍니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-180">The following figures are what users will experience</span></span>
+    *최종 사용자 보호* 기준 정책을 설정하면 모든 사용자가 로그인할 때 새로운 환경을 경험하게 됩니다. 다음 그림은 사용자가 무엇을 경험하게 되는지 보여줍니다.
 
       ![더 많은 정보 요청](../images/security/baseline-require-more-info.png)
 
@@ -157,4 +147,4 @@ items:
 
       ![추가 보안 유효성 검사 확인](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="f08f2-186">사용자가 위의 단계를 완료하면 액세스하려는 Microsoft 클라우드 서비스에 로그인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="f08f2-187">파트너 보안 요구 사항이 적용되기 전에는, *관리자용 MFA 필요* 기준 정책에 포함되지 않는 사용자에게 위험에 따라 MFA를 요청하는 메시지만 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="f08f2-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    사용자가 위의 단계를 완료하면 액세스하려는 Microsoft 클라우드 서비스에 로그인할 수 있습니다. 파트너 보안 요구 사항이 적용되기 전에는, *관리자용 MFA 필요* 기준 정책에 포함되지 않는 사용자에게 위험에 따라 MFA를 요청하는 메시지만 표시됩니다.
