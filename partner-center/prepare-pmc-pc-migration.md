@@ -6,12 +6,12 @@ description: 비즈니스를 PMC에서 파트너 센터로 전환 하기 전에 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
+ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820576"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "71060499"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 구성원 센터 (PMC)에서 파트너 센터로의 이동 준비
 
@@ -26,14 +26,19 @@ PMC (파트너 구성원 센터)에서 파트너 센터 (Microsoft와의 비즈�
 회사 계정은 Azure AD 사용자와 해당 사용자에 대 한 정보 (전자 메일, 암호, 프로필 데이터, 권한 등)를 호스트 합니다. 회사 계정에는 회사 및 보안과 관련 된 그룹, 응용 프로그램 및 기타 정보도 포함 됩니다. 자세한 내용은 다음을 참조 하세요.
 
 파트너 센터에서 회사 전자 메일을 사용 하 여 개인 이메일이 아닌 계정에 로그인 합니다.
-- 회사 계정:john@contoso.com
-- 개인 계정:John@outlook.com
+- 회사 계정: john@contoso.com
+- 개인 계정: John@outlook.com
 
 회사 전자 메일은 Azure active directory 테 넌 트의 일부입니다. 파트너 센터에 계정을 포함 하려면 AAD 테 넌 트가 있어야 합니다. Azure Active Directory에 대 한 자세한 내용은 [AZURE AD에서 디렉터리 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조 하세요.
 
 **PMC에서 파트너 센터로 이동 하는 경우 Microsoft에 AAD 테 넌 트 (예: Office 365 용)가 있고 CSP 비즈니스에 대 한 테 넌 트가 있는 경우 파트너 센터에 로그인 해야 하는 계정은 무엇 인가요?**
 
 CSP 계정 또는 MPN work 전자 메일 계정을 사용 하 여 파트너 센터에 로그인 할 수 있습니다. CSP 회사 전자 메일을 사용 하 여 로그인 하도록 선택 하는 경우 대시보드의 왼쪽 탐색은 MPN 및 CSP 프로그램 정보를 모두 표시 합니다. MPN Azure AD 테 넌 트 회사 전자 메일을 사용 하 여 로그인 하는 경우에는 MPN 프로그램 정보만 표시 됩니다. MPN와 CSP의 사용자 역할은 서로 다르므로, MPN 및 CSP 비즈니스 모두에 동일한 계정을 사용 하는 경우에는 그에 따라 사용자 역할을 할당 해야 합니다. 사용자 역할에 대 한 자세한 내용은 [사용자 역할 및 사용 권한 할당](permissions-overview.md)을 참조 하세요.
+
+**파트너 센터에 기존 Office 365 Azure AD 테 넌 트를 사용 하지 않으려는 경우 PMC에서 마이그레이션하기 전에 새 테 넌 트를 만들 수 있습니다.**
+
+기존 Azure AD 테 넌 트를 사용 하 여 파트너 센터 계정을 설정 하지 않으려는 이유는 여러 가지가 있을 수 있습니다. 파트너 센터로 마이그레이션을 시작 하기 전에 [Azure Portal](https://ms.portal.azure.com/#home) 으로 이동 하 여 새 Azure AD 테 넌 트를 만듭니다. [Azure Active Directory에서 새 테 넌 트 만들기](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 테 넌 트를 만든 후에는이 AAD 테 넌 트를 사용 하 여 PMC에서 파트너 센터로 이동할 때 파트너 센터 계정을 설정 합니다. 테 넌 트를 만들려면 전역 관리자 여야 합니다. 이 새 디렉터리를 사용 하 여 파트너 센터로 마이그레이션합니다.
+
 
 **AAD 전역 관리자 역할과 PMC MPN 전역 관리자 역할의 차이점은 무엇 인가요?**
 
@@ -122,11 +127,11 @@ Microsoft는 현재 역량, 혜택, 위치 정보, 성과급을 위한 은행/�
  **Visual Studio 혜택 할당을 보유 하 고 있는 Microsoft 계정을 사용할 수 있나요?**
 
 
- 예 MSAs 할당 된 Visual Studio 혜택은 적용 되 고 유지 됩니다. 파트너 센터에서 갱신 한 후에도 유지 됩니다. 그러나 파트너 센터에서 마이그레이션된 MSA 할당을 제거 하는 경우 파트너 센터에 다시 추가할 수 없습니다.
+ 그렇습니다. MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 다음 MSA 할당을 제거하면 파트너 센터에 다시 추가할 수 없습니다.
 
-파트너 센터에서 파트너는 Azure AD 테 넌 트에서 파트너가 MPN 하는 동일한 테 넌 트의 MSA 인 작업 계정 및 게스트 사용자 계정을 추가할 수 있습니다. 파트너가 여러 Azure AD 테 넌 트의 전역 관리자이 고 이러한 모든 테 넌 트가 동일한 파트너 센터 계정에 연결 된 경우 파트너는 이러한 모든 테 넌 트의 사용자를 Visual Studio 혜택 및 Azure 사용 기반 할당에 추가할 수 있습니다.
+파트너 센터에서 파트너는 동일한 테넌트(여기서 파트너는 Azure AD 테넌트의 MPN 관리자임)의 MSA인 회사 계정 및 게스트 사용자 계정을 추가할 수 있습니다. 파트너가 여러 Azure AD 테넌트에서 전역 관리자이고 이러한 모든 테넌트가 동일한 파트너 센터 계정과 연결된 경우 파트너는 이러한 모든 테넌트의 사용자를 Visual Studio 혜택 및 Azure 사용량 기반 할당에 추가할 수 있습니다.
 
-게스트 사용자는 MPN 관리자 또는 전역 관리자가 Visual Studio의 사용량 기반 구독을 할당할 수 있지만, 게스트 사용자는 MSA를 사용 하 여 파트너 센터에 로그인 할 수 없습니다. 그러나 게스트 사용자는 Azure 및 Visual Studio에 로그인 하 여 할당 된 혜택의 유효성을 검사 하 고 사용할 수 있습니다.
+MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독을 게스트 사용자에게 할당할 수 있지만 게스트 사용자는 해당 MSA를 사용하여 파트너 센터에 로그인할 수 없습니다. 그러나 게스트 사용자는 Azure 및 Visual Studio에 로그인하여 할당된 혜택을 확인하고 사용할 수 있습니다.
 
 
  **MCP 연결 및 파트너 대학 액세스를 어떻게 관리 해야 하나요?**
@@ -135,7 +140,7 @@ Microsoft는 현재 역량, 혜택, 위치 정보, 성과급을 위한 은행/�
 
  **파트너 센터로 이동 하면 어떻게 할까요? MCP 정보가 표시 되나요?**
 
-대시보드의 왼쪽 탐색 모음에서 역량을 선택 합니다. 역량 페이지 에서 기술 보고서를 다운로드할 수 있습니다. 기술 보고서에는 파트너 센터의 역량 및 프로그램과 관련 된 기술을 획득 한 사용자가 나열 됩니다. 사용자에 게 기술이 있지만 이러한 기술이 작업 중인 역량에 해당 하지 않는 경우 보고서에 나열 되지 않습니다.
+대시보드의 왼쪽 탐색 모음에서 역량 **을 선택 합니다** . 역량 페이지 **에서** 기술 보고서를 다운로드할 수 있습니다. 기술 보고서에는 파트너 센터의 역량 및 프로그램과 관련 된 기술을 획득 한 사용자가 나열 됩니다. 사용자에 게 기술이 있지만 이러한 기술이 작업 중인 역량에 해당 하지 않는 경우 보고서에 나열 되지 않습니다.
 
 
  **파트너 센터에서 고객 참조를 사용 하나요?**
@@ -157,7 +162,7 @@ Microsoft는 현재 역량, 혜택, 위치 정보, 성과급을 위한 은행/�
 
 **사용자가 전역 및 위치 수준에서 할당 될 수 있나요?**
 
- 예 모든 위치에 대 한 성과급 관리자가 되도록 성과급 관리자를 할당 하거나 각 위치에 고유한 성과급 관리자를 사용할 수 있습니다.
+ 그렇습니다. 모든 위치에 대 한 성과급 관리자가 되도록 성과급 관리자를 할당 하거나 각 위치에 고유한 성과급 관리자를 사용할 수 있습니다.
 
  **전역 또는 위치 수준에서 성과급을 지불할 수 있나요?**
 

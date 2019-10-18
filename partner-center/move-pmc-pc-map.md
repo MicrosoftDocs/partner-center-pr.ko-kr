@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259925"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921470"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
 
 Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트너 센터)를 도입하여 보다 쉽게 비즈니스를 수행할 수 있도록 합니다. PMC(Partner Membership Center)에서 수행한 모든 작업을 파트너 센터의 대시보드에서 수행할 수 있습니다. 
 
-또한 한 웹 사이트에서 나가지 않고도 훨씬 더 많은 작업을 모두 수행할 수 있습니다. 일부 용어 및 기능은 다르게 표시될 수 있습니다. 어디에 무엇이 있는지에 대한 걱정을 덜어내려면 대시보드의 사이트 둘러보기를 이용하세요.
+또한 한 웹 사이트에서 나가지 않고도 훨씬 더 많은 작업을 모두 수행할 수 있습니다. 일부 용어 및 기능은 다르게 표시될 수 있습니다. 어디에 있는지와 그에 대 한 초기 문제를 완화 하려면 대시보드의 사이트 둘러보기를 수행 해야 합니다.
 
 다음 표에서는 PMC와 파트너 센터 간의 몇 가지 차이점을 보여 줍니다.
 
@@ -79,7 +79,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 |----------------------|:-----------------------------|
 |PDD  |장점|
 |CHIP, ICP, PIE | 인센티브|
-||조회|
+||추천|
 |파트너 인사이트| 분석|
 |바우처 유효성 검사 및 사용 도구| 바우처 유효성 검사 및 사용 도구|
 |           |클라우드 솔루션 공급자 프로그램|

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
+ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820559"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "71931574"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -35,7 +35,7 @@ ms.locfileid: "68820559"
 
 <li>구분 기호 필드에서 <strong>쉼표</strong>를 선택 합니다. <strong>탭</strong> 이 이미 선택 되어 있으면 그대로 둘 수 있습니다. <strong>다음</strong>을 선택합니다.</li>
 
-<li>열 데이터 형식 필드에서 날짜를 선택 <strong>합니다. MDY</strong>을 선택한 후 <strong>다음</strong>을 선택 합니다.</li> 
+<li>열 데이터 형식 필드에서 <strong>Date: MDY</strong>를 선택 하 고 <strong>다음</strong>을 선택 합니다.</li> 
 
 <li>열 데이터 형식 필드에서 모든 금액 열에 대해 <strong>텍스트</strong> 를 선택한 다음 <strong>마침</strong>을 선택 합니다.</li>
 </ol>
@@ -47,7 +47,7 @@ ms.locfileid: "68820559"
 ## <a href="" id="itemizebypartner"></a>파트너 기준 항목별로
 
 
-간접 모델의 파트너는 라이선스 기준 및 사용량 기준 조정 파일에서 모두 이러한 추가 필드를 사용하여 재판매인을 기준으로 항목별로 구분할 수 있습니다.
+간접 모델의 파트너는 라이선스 기준 및 사용량 기준 조정 파일에서 이러한 추가 필드를 사용하여 재판매인을 기준으로 항목별로 구분할 수 있습니다.
 
 <table>
 <colgroup>
@@ -92,7 +92,7 @@ ms.locfileid: "68820559"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>열</strong></td>
+<td><strong>열의</strong></td>
 <td><strong>설명</strong></td>
 <td><strong>샘플 값</strong></td>
 </tr>
@@ -108,7 +108,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Microsoft 청구 플랫폼에서 주문의 고유 식별자. 지원 센터에 문의할 때 주문을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
+<td><p>Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원 센터에 문의할 때 주문을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
@@ -126,13 +126,13 @@ ms.locfileid: "68820559"
 <tr class="odd">
 <td>OfferID</td>
 <td><p>고유 제품 ID. 가격표에 따른 표준 제품 ID.</p>
-<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치 하지 않습니다. 아래의 DurableOfferID를 참조하세요.</p></td>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치하지 않습니다. 아래의 DurableOfferID를 참조하세요.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>고유 지속형 제품 ID(가격표에 정의됨).</p>
-<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치 합니다.</p></td>
+<p><b>참고</b>: 이 값은 가격 목록의 제품 ID와 일치합니다.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>구독 종료 날짜: 시작 날짜 이후 12 개월 + x 일 (파트너 청구 날짜에 맞추기) 또는 갱신 날짜 로부터 12 개월</p>
+<td><p>구독 종료 날짜: 12개월 + 시작 날짜 이후 x일(파트너 청구 날짜에 맞추기 위해) 또는 갱신 날짜로부터 12개월.</p>
 <p>갱신 시 가격은 현재 가격표로 업데이트됩니다. 자동 갱신에 앞서 고객과 연락해야 할 수 있습니다.</p>
 <p>시간은 항상 해당하는 날의 시작인 0:00입니다.</p></td>
 <td>2/1/2015 0:00</td>
@@ -169,7 +169,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>요금 또는 조정 유형. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
+<td><p>요금 또는 조정 유형입니다. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 <td><p><a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 </tr>
 <tr class="odd">
@@ -178,12 +178,12 @@ ms.locfileid: "68820559"
 <td>6.82</td>
 </tr>
 <tr class="even">
-<td>수량</td>
+<td>Quantity</td>
 <td><p>실제 사용자 수. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 <td>2</td>
 </tr>
 <tr class="odd">
-<td>Amount</td>
+<td>합계</td>
 <td><p>수량의 가격 합계. 금액 계산이 귀하가 고객에 대해 이 값을 계산하는 방법과 일치하는지를 확인하는 데 유용합니다.</p></td>
 <td>13.32</td>
 </tr>
@@ -261,7 +261,7 @@ ms.locfileid: "68820559"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>열</strong></td>
+<td><strong>열의</strong></td>
 <td><strong>설명</strong></td>
 <td><strong>샘플 값</strong></td>
 </tr>
@@ -297,7 +297,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="even">
 <td>InvoiceNumber</td>
-<td><p>지정한 트랜잭션이 표시되는 송장 번호</p></td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호입니다.</p></td>
 <td>D020001IVK</td>
 </tr>
 <tr class="odd">
@@ -330,7 +330,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="even">
 <td>OrderID</td>
-<td><p>Microsoft 청구 플랫폼에서 주문의 고유 식별자. 지원 센터에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
+<td><p>Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원 센터에 문의할 때 구독을 식별하는 데 유용할 수 있지만 조정에 필요한 것은 아닙니다.</p></td>
 <td>566890604832738111</td>
 </tr>
 <tr class="odd">
@@ -348,7 +348,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="odd">
 <td>ResourceGUID</td>
-<td><p>모든 서비스 데이터 및 가격 구조에 대 한 특정 고유 식별자</p></td>
+<td><p>모든 서비스 데이터 및 가격 책정 구조에 대한 특정 고유 식별자</p></td>
 <td>DA41BC5F-C52D-4464-8A8D-8C8DCC43503B</td>
 </tr>
 <tr class="even">
@@ -360,7 +360,7 @@ ms.locfileid: "68820559"
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Region</td>
+<td>국가</td>
 <td><p>사용이 적용되는 지역입니다. 요금이 지역별로 다르므로 주로 데이터 전송에 요금을 할당하는 데 사용됩니다.</p></td>
 <td>아시아 태평양, 유럽, 라틴 아메리카, 북아메리카</td>
 </tr>
@@ -428,7 +428,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>요금 또는 조정 유형. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
+<td><p>요금 또는 조정 유형입니다. <a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 <td><p><a href="#charge_types">송장과 조정 파일 간 요금 매핑</a>을 참조하세요.</p></td>
 </tr>
 <tr class="odd">
@@ -457,14 +457,14 @@ ms.locfileid: "68820559"
 <td>EXTERNAL</td>
 </tr>
 <tr class="even">
-<td>프로젝트</td>
+<td>Project</td>
 <td><p>해당 서비스 인스턴스에 대한 고객 정의 이름</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>지정일에 프로비전 및 사용된 ServiceBus 연결 수</p></td>
-<td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 25 개의 ServiceBus 연결이 프로 비전 되 고 해당 일 중에 1을 사용한 경우 해당 일에 대 한 일일 사용 명세서는 "25 개의 연결/30 일 – 사용 됨"을 표시 합니다. 1.000000 ".</td>
+<td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 25팩 ServiceBus 연결 하나를 프로비전하고 해당 날짜에 연결 1개를 사용한 경우 해당 날짜의 일일 사용 내역서는 "25개 연결/30일 - 사용됨: 1.000000"으로 표시됩니다.</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -477,7 +477,7 @@ ms.locfileid: "68820559"
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
-<td>단위</td>
+<td>Unit</td>
 <td><p>리소스 이름의 단위</p></td>
 <td>GB 또는 시간</td>
 </tr>
@@ -499,14 +499,13 @@ ms.locfileid: "68820559"
 </thead>
 <tbody>
 
-
 <tr class="odd">
 <td>PartnerId</td>
 <td><p>특정 청구 엔터티에 대 한 고유 Microsoft Azure Active Directory 테 넌 트 식별자 (GUID 형식)입니다. 조정에는 필요하지 않지만 유용한 정보일 수 있습니다. 모든 행에서 같습니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>Customer Id</td>
+<td>고객 Id</td>
 <td><p>사용자를 식별 하는 데 사용 되는 GUID 형식의 고유한 Microsoft Azure Active Directory 테 넌 트 ID입니다.</p></td>
 </tr>
 
@@ -527,7 +526,7 @@ ms.locfileid: "68820559"
 
 <tr class="even">
 <td>송장 번호</td>
-<td><p>지정한 트랜잭션이 표시되는 송장 번호</p></td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호입니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -612,11 +611,11 @@ ms.locfileid: "68820559"
 
 <tr class="odd">
 <td>청구 유형</td>
-<td><p>요금 또는 조정 유형.</p></td>
+<td><p>요금 또는 조정 유형입니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>Unit Price</td>
+<td>단가</td>
 <td><p>구매 시 가격표에 게시 된 가격입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 </tr>
 
@@ -626,12 +625,12 @@ ms.locfileid: "68820559"
 </tr>
 
 <tr class="even">
-<td>수량</td>
+<td>Quantity</td>
 <td><p>단위 수입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 </tr>
 
 <tr class="odd">
-<td>단위 형식</td>
+<td>단위 유형</td>
 <td><p>구입할 단위의 유형입니다.</p></td>
 </tr>
 
@@ -651,7 +650,7 @@ ms.locfileid: "68820559"
 </tr>
 
 <tr class="odd">
-<td>Total</td>
+<td>총액</td>
 <td><p>세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다.</p></td>
 </tr>
 
@@ -664,6 +663,12 @@ ms.locfileid: "68820559"
 <td>AlternateID</td>
 <td><p>주문 ID에 대 한 대체 식별자입니다.</p></td>
 </tr>
+
+<tr class="even">
+<td>BillingFrequency</td>
+<td><p> 월간 청구를 사용 하는 경우 매월 표시 됩니다. 그렇지 않으면 빈 값입니다. </p></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -726,7 +731,7 @@ ms.locfileid: "68820559"
 
 <tr class="odd">
 <td>InvoiceNumber</td>
-<td><p>지정한 트랜잭션이 표시되는 송장 번호 현재 활동에 사용할 수 없습니다.</p></td>
+<td><p>지정한 트랜잭션이 표시되는 송장 번호입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -815,7 +820,7 @@ ms.locfileid: "68820559"
 </tr>
 
 <tr class="odd">
-<td>단위</td>
+<td>Unit</td>
 <td><p>리소스 이름의 단위입니다.</p></td>
 </tr>
 
@@ -842,7 +847,7 @@ ms.locfileid: "68820559"
 
 <tr class="odd">
 <td>청구 유형</td>
-<td><p>요금 또는 조정 유형. 현재 활동에 사용할 수 없습니다.</p></td>
+<td><p>요금 또는 조정 유형입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -851,12 +856,12 @@ ms.locfileid: "68820559"
 </tr>
 
 <tr class="odd">
-<td>수량</td>
+<td>Quantity</td>
 <td><p>라이선스의 수입니다. 조정 중에 대금 청구 시스템에 저장된 정보와 일치하는지 확인합니다.</p></td>
 </tr>
 
 <tr class="even">
-<td>단위 형식</td>
+<td>단위 유형</td>
 <td><p>미터의 요금이 청구 되는 단위 유형입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
@@ -1021,7 +1026,7 @@ ms.locfileid: "68820559"
 
 </td>
 <td>
-<p>단추를 사용하여 새</p>
+<p>신규 항목</p>
 </td>
 <td>
 <p>새 구매가 생성 될 때 사용 됩니다.</p>
@@ -1042,7 +1047,7 @@ ms.locfileid: "68820559"
 </tr>
 <tr>
 <td>
-<p>remov</p>
+<p>removeQuantity</p>
 </td>
 <td>
 <p>원래 구매 환불 및 감소 후 새로운 수량 모두에 사용 됨</p>
@@ -1168,7 +1173,7 @@ ms.locfileid: "68820559"
 </td>
 <td>
 <p><em>여러 요금 유형에 적용 될 수 있습니다.</em></p>
-<p><em>예외: &quot;Offset 품목&quot; 에 이미 세금이 포함 되어 있습니다. 위의 크레딧을 참조 하세요.</em></p>
+<p><em>예외: 줄 항목 &quot;에 세금이 이미 포함 되어 &quot;Offset. 위의 크레딧을 참조 하세요.</em></p>
 </td>
 <td>
 <p>세금 또는 VAT(부가가치세)</p>
