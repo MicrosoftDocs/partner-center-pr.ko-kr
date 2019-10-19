@@ -1,18 +1,18 @@
 ---
 title: 성과급 지급 페이지 액세스 | 파트너 센터
 ms.topic: article
-ms.date: 09/19/19
+ms.date: 10/17/2019
 description: 지급 정보 이해
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 성과급, 지급
 ms.localizationpriority: medium
-ms.openlocfilehash: b2cf78be2a15db74e1f68224076f43872f997466
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
+ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425114"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "72584242"
 ---
 # <a name="access-your-incentives-payouts-page"></a>성과급 지급 페이지 액세스
 
@@ -22,4 +22,4 @@ ms.locfileid: "72425114"
 
 - MPN (Microsoft 파트너 네트워크) 동기 지급의 경우 MPN 성과급 설명서에서 [동기 지불 정보 보기](understand-incentive-payouts.md) 를 참조 하세요.
 
-- Isv (독립 소프트웨어 공급 업체)에 대 한 상업적 Marketplace 지불액은 유료 준비를 참조 하세요.
+- Isv (독립 소프트웨어 공급 업체)를 위한 상업적 마켓플레이스 지불 정보가 곧 추가 될 예정입니다.
