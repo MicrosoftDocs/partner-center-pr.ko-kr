@@ -1,19 +1,19 @@
 ---
 title: 비즈니스 프로필 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 03/26/2019
+ms.date: 10/04/2019
 description: Microsoft에서 영업 잠재 고객을 가져오기 위해 파트너 센터에서 비즈니스 프로필을 만듭니다.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
-ms.localizationpriority: medium
-ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.localizationpriority: high
+ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134973"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997855"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -32,31 +32,31 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -  Microsoft 파트너 네트워크 파트너
 -  클라우드 솔루션 공급자 프로그램 파트너
 
-자격을 갖춘 Microsoft 파트너는 비즈니스 요구 사항을 해결하는 고유한 솔루션과 전문 지식을 찾는 고객에게 여러분의 회사를 소개하는 비즈니스 프로필을 만들 수 있습니다.
+자격을 갖춘 Microsoft 파트너는 비즈니스 요구 사항을 해결하는 고유한 솔루션과 전문 지식을 찾는 고객에게 회사를 소개하는 비즈니스 프로필을 만들 수 있습니다.
 
 Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 명의 고객과 소통합니다. 대부분의 경우 이러한 소통을 통해 파트너에게 잠재 고객의 형태로 추천을 제공합니다. 
 
-이러한 잠재 고객을 얻기 위한 첫 번째 단계는 비즈니스 프로필 만들기입니다. Microsoft는 다음을 통해 Microsoft 제품 및 솔루션 구현을 지원하는 파트너를 찾고 있는 고객에게 이러한 프로필을 보여 줍니다.
+이러한 잠재 고객을 얻기 위한 첫 번째 단계는 비즈니스 프로필 만들기입니다. Microsoft는 다음을 통해 Microsoft 제품 및 솔루션 구현을 지원하는 파트너를 찾고 있는 고객에게 이러한 프로필을 보여줍니다.
 
 - **[솔루션 공급자 찾기](https://www.microsoft.com/solution-providers/home) 검색 환경**. 잠재 고객이 파트너 목록을 직접 검색하여 검색 조건을 충족하는 파트너를 찾을 수 있습니다.
 
 - **Microsoft 영업 및 서비스 직원의 소개**. 클라우드 기반 기술 솔루션을 배포하는 데 관심이 있는 잠재 고객은 비즈니스 요구 사항을 충족할 수 있는 전문가를 찾기 위해 Microsoft에 도움을 요청합니다. 그러면 Microsoft 전문가가 잠재 고객을 파트너에게 소개할 수 있습니다.
 
 > [!IMPORTANT]  
-> 파트너의 비즈니스 운영 간소화를 돕기 위해 이 파트너 센터 사이트에서 여러 도구 및 웹 사이트에 걸쳐 분산되어 있었던 기능들이 통합되었습니다. 해당 노력의 일환으로 모든 추천 관련 기능이 파트너 센터로 이동되었으며 Pinpoint 및 C2PC 사이트의 서비스가 중단되었습니다. Microsoft에서 추천을 가져오고 이름 관리하기 위해 이전에 Pinpoint 또는 C2PC를 사용했다면 계속 추천을 받기 위해서 파트너 센터에서 새로운 비즈니스 프로필을 만들어야 합니다. 더 이상 해당 사이트에서 프로필 가져오기를 지원하지 않습니다. 
+> 파트너의 비즈니스 운영 간소화를 돕기 위해 이 파트너 센터 사이트에서 여러 도구 및 웹 사이트에 걸쳐 분산되어 있었던 기능들이 통합되었습니다. 해당 노력의 일환으로 모든 추천 관련 기능이 파트너 센터로 이동되었으며 Pinpoint 및 C2PC 사이트의 서비스가 중단되었습니다. Microsoft에서 추천을 가져오고 이를 관리하기 위해 이전에 Pinpoint 또는 C2PC를 사용했다면, 계속 추천을 받기 위해서 파트너 센터에서 새로운 비즈니스 프로필을 만들어야 합니다. 더 이상 해당 사이트에서 프로필 가져오기를 지원하지 않습니다. 
 
 ## <a name="create-a-profile"></a>프로필 만들기
 
 > [!NOTE]  
-> 비즈니스 프로필을 만들려면 먼저 파트너 센터 계정이 있어야 합니다. 파트너 센터 계정이 없는 경우 [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)를 참조하여 계정을 만드세요. 
+> 비즈니스 프로필을 만들려면 파트너 센터 계정이 있어야 합니다. 파트너 센터 계정이 없는 경우 [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)를 참조하여 계정을 만드세요. 
 
 사업 허가를 받은 각 지역에 대한 프로필을 만듭니다. 
 
-1. **파트너 센터** 메뉴에서 **조회** &gt; **비즈니스 프로필** &gt; 국가/지역 선택 >  **[ 비즈니스 프로필을 만드는](https://partnercenter.microsoft.com/pcv/publishing)** 합니다.
+1. **파트너 센터** 메뉴에서 **추천** &gt; **비즈니스 프로필** &gt; 국가/지역 선택 > **[비즈니스 프로필 만들기](https://partnercenter.microsoft.com/pcv/publishing)** 를 선택합니다.
 
-2. **비즈니스 프로필 만들기** 페이지에서 지역을 선택한 다음 파트너 정보 및 전문 분야를 포함하여 프로필 정보를 입력합니다.
+2. **비즈니스 프로필 만들기** 페이지에서 지역을 선택한 다음, 프로필 정보를 입력합니다.
    > [!NOTE]  
-   >  파트너 센터에서 여러 언어를 지원 하지만 자유 형식 태그 및 설명과 같은 일부 요소에이 항목에서 설명한 것 처럼 다른 언어의 텍스트를 포함 해야 합니다.
+   >  파트너 센터에서 여러 언어를 지원하지만 이 항목에 언급된 것처럼 설명, 자유 형식 태그 등의 일부 요소는 여러 언어의 텍스트를 포함해야 할 수도 있습니다.
 
 ### <a href="" id="partner_info"></a>파트너 정보
 
@@ -75,7 +75,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 -  다른 Microsoft 파트너 회사가 귀사의 자회사 또는 계열사이거나, 귀사가 해당 파트너 회사와 파트너 관계로 행동하거나, 공유 작업 기회를 얻기 위해 서로 홍보하기로 한 현재 계약이 있는 경우 외에는 **이름으로 다른 Microsoft 파트너 회사를 지칭하지 않습니다**.
 -  **여러 언어가 있는 지역의 경우** 설명에 여러 언어의 텍스트를 포함하는 방안을 고려합니다.
 
-#### <a href="" id="linkedin"></a> LinkedIn 회사 페이지:에 연결 하는 자세한 방법
+#### <a href="" id="linkedin"></a> LinkedIn 회사 페이지: 더 많은 연결 방법
 
 LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강화하세요. 
 
@@ -89,16 +89,16 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 먼저 파트너 전문 분야 섹션에 고유의 태그를 추가합니다. 추가할 수 있는 태그: 
 
--  **업계 포커스 태그**
+-  **산업 포커스 태그**.
 -  **제품**. Microsoft 제품으로 제한
--  **서비스 유형**
+-  **서비스 종류**
 -  **솔루션, 기술 및 기능**. 이러한 태그는 자유 형식이며, 각 파트너의 기능에 맞는 고유한 검색 키워드를 추가할 수 있는 기능을 제공합니다.
 
 검색에 사용되는 기타 태그:
--  **역량 태그**는 파트너가 획득한 명칭으로써 회사의 능력을 보여 줍니다.
+-  **역량 태그**는 파트너가 획득한 명칭으로써 회사의 능력을 보여줍니다.
 -  **보증 태그**는 Microsoft 또는 파트너와 함께 일한 고객이 파트너의 실력을 보증할 때 획득할 수 있습니다.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft가 내 영역의 전문 지식 보증 하도록 허용
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
 
 이 설정을 선택하는 것이 좋습니다. 
 
@@ -130,14 +130,14 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 ## <a name="review-your-profile"></a>프로필 검토
 
-프로필을 게시 한 후 업데이트에 표시 된 [솔루션 공급자 찾기](https://www.microsoft.com/solution-providers/home) 24 시간 내에서 검색 합니다.
+프로필을 게시한 후 24시간 내에 [파트너 찾기](https://www.microsoft.com/solution-providers/home) 검색에 업데이트가 나타납니다.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>프로필의 가시성 향상 
 
-- **[요청에 신속 하 게 응답할](responding-to-referrals.md)** 합니다. 고객 추천을 받은 후 신속하게 응답할수록 향후 고객의 검색 페이지에서 보다 좋은 결과를 얻을 수 있습니다.
+- **[요청에 신속하게 응답하세요](responding-to-referrals.md)** . 고객 추천을 받은 후 신속하게 응답할수록 향후 고객의 검색 페이지에서 보다 좋은 결과를 얻을 수 있습니다.
 - **태그를 신중하게 선택하세요**.  회사의 제품, 솔루션, 가치 제안 및 일관적으로 성공을 보여줄 수 있는 고유의 포지션을 가장 잘 나타내는 태그를 되도록이면 적게 사용하는 것이 좋습니다.  이렇게 하면 향후 검색 결과에서 좋은 성과를 얻을 수 있습니다.
 - Microsoft를 통해 **역량 태그를 획득하여** Microsoft 제품에 대한 숙련도를 보여줍니다.
 - 협력에 만족한 고객으로부터 **보증 태그를 획득합니다**.
 
 ## <a name="related-topics"></a>관련 항목
-[조회에 응답](responding-to-referrals.md)
+[추천에 응답](responding-to-referrals.md)

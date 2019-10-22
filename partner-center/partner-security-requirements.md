@@ -1,18 +1,18 @@
 ---
 title: 파트너 보안 요구 사항 | 파트너 센터
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: 클라우드 솔루션 공급자 프로그램에 참여하는 관리자 및 파트너에 대한 보안 요구 사항에 대해 알아봅니다.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215644"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318484"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 
@@ -136,15 +136,15 @@ SSPR(셀프 서비스 암호 재설정)은 사용자가 지원 팀에 문의할 
 
 관리자용 MFA 필요 정책이 사용하도록 설정되면 위의 관리자 역할 9개가 인증자 앱을 사용하여 MFA에 등록해야 합니다. MFA 등록이 완료되면 관리자가 로그인할 때마다 MFA를 수행해야 합니다.
 
-조직에서 스크립트 또는 코드에 이러한 계정을 사용 중인 경우 이를  [관리 ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)로 바꾸는 것이 좋습니다.
+조직에서 스크립트 또는 코드에 이러한 계정을 사용 중인 경우 이를 [관리 ID](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)로 바꾸는 것이 좋습니다.
 
 이 정책을 사용하도록 설정하고 관리자를 보호하려면 다음을 수행합니다.
 
-1. 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자로  **Azure Portal** 에 로그인합니다.
+1. 글로벌 관리자, 보안 관리자 또는 조건부 액세스 관리자로 **Azure Portal**에 로그인합니다.
 2. **Azure Active Directory** > **조건부 액세스**로 이동합니다.
 3. 정책 목록에서 **기준 정책: 관리자용 MFA 필요**를 선택합니다.
 4. **정책 사용**을 **즉시 정책 사용**으로 설정합니다.
-5.  **저장**을 클릭합니다.
+5. **Save**을 클릭합니다.
 
 > [!WARNING]
 > 이 정책을 사용하도록 설정하기 전에 사용자가 레거시 인증 프로토콜을 사용하고 있지 않은지 확인합니다. 이 정책이 구현되면 레거시 인증이 차단됩니다.
@@ -160,11 +160,11 @@ SSPR(셀프 서비스 암호 재설정)은 사용자가 지원 팀에 문의할 
 
 이 정책을 사용하도록 설정하고 사용자를 보호하려면 다음을 수행합니다.
 
-1. 전역 관리자, 보안 관리자 또는 조건부 액세스 관리자로  **Azure Portal** 에 로그인합니다.
+1. 글로벌 관리자, 보안 관리자 또는 조건부 액세스 관리자로 **Azure Portal**에 로그인합니다.
 2. **Azure Active Directory** > **조건부 액세스**로 이동합니다.
 3. 정책 목록에서 **기준 정책: 최종 사용자 보호(미리 보기)** 를 선택합니다.
 4. **정책 사용**을 **즉시 정책 사용**으로 설정합니다.
-5.  **저장**을 클릭합니다.
+5. **Save**을 클릭합니다.
 
 > [!WARNING]
 > 이 정책을 사용하도록 설정하기 전에 사용자가 레거시 인증 프로토콜을 사용하고 있지 않은지 확인합니다. 이 정책이 구현되면 레거시 인증이 차단됩니다.

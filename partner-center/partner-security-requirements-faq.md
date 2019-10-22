@@ -1,18 +1,18 @@
 ---
 title: 파트너 보안 요구 사항 FAQ | 파트너 센터
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: 파트너 보안 요구 사항에 대해 자주 묻는 질문
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215660"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678299"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -145,6 +145,9 @@ Microsoft는 [관리자용 MFA 필요](https://docs.microsoft.com/azure/active-d
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>MFA 솔루션이 이미 있는 경우 어떤 조치를 취해야 하나요?
 
 이러한 보안 요구 사항을 통해 파트너 테넌트의 사용자는 Microsoft 상용 클라우드 서비스에 액세스할 때 MFA를 사용하여 인증해야 합니다. 타사 솔루션을 사용하여 이러한 요구 사항을 충족할 수 있습니다. Microsoft는 Azure Active Directory와의 호환성을 위해 독립 ID 공급자에 대한 유효성 검사 테스트를 더 이상 제공하지 않습니다. 제품의 상호 운용성을 테스트하려면 [지침](https://www.microsoft.com/download/details.aspx?id=56843)을 참조하세요.
+
+> [!IMPORTANT]
+> 타사 솔루션을 사용하는 경우 해당 솔루션 때문에 MFA 값을 포함하는 AMR(인증 방법 참조) 클레임이 발생하는지 확인해야 합니다. 타사 솔루션에서 예상 클레임을 발급하고 있는지 확인하는 자세한 방법은 [파트너 센터 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)를 참조하세요.
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>MFA를 인증하는 데 사용할 수 있는 검증 방법은 무엇인가요?
 
@@ -314,6 +317,18 @@ CPV는 CPV로서 등록과 연관된 테넌트에 Azure Active Directory 애플�
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>CPV는 앱 전용 인증 스타일을 활용하여 액세스 토큰을 받을 수 있나요?
 
 아니요, 제어판 공급업체 파트너는 앱 전용 인증 스타일을 활용하여 파트너 대신 액세스 토큰을 요청할 수 없습니다. 보안 애플리케이션 모델을 구현하여 앱 + 사용자 인증 스타일을 활용해야 합니다.
+
+## <a name="enforcement"></a>적용
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>타사 MFA 솔루션을 사용 중인데 차단되었습니다. 어떻게 해야 하나요?
+
+리소스에 액세스하는 계정에서 다단계 인증이 필요한지 확인하기 위해, Microsoft에서는 [인증 방법 참조](https://tools.ietf.org/html/rfc8176) 클레임을 확인하여 MFA가 나열되어 있는지 확인할 것입니다. 일부 타사 솔루션은 이 클레임을 발급하거나 MFA 값을 포함하고 있지 않습니다. 클레임이 없거나 MFA 값이 나열되지 않은 경우 인증된 계정에 다단계 인증이 필요한지 확인할 수 있는 방법이 없습니다. 타사 솔루션의 공급업체와 협력하여 솔루션에서 인증 방법 참조 클레임을 발급하는 데 필요한 작업을 확인해야 합니다.
+
+타사 솔루션에서 예상 클레임을 발급하고 있는지 잘 모르는 경우 [파트너 보안 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)를 참조하세요.
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO를 사용하여 고객을 지원하지 못하게 MFA가 차단하고 있습니다. 어떻게 해야 하나요?
+
+파트너 보안 요구 사항을 충족하기 위한 기술을 적용할 때 인증된 계정에 다단계 인증이 필요한지 확인하는 작업이 수행됩니다. 필요 없으면 로그인 페이지로 리디렉션되고 다시 인증하라는 메시지가 표시됩니다. 도메인이 페더레이션되지 않은 경우 인증에 성공하면 다단계 인증을 설정하라는 메시지가 표시됩니다. 이 작업이 완료되면 AOBO를 사용하여 고객을 관리할 수 있습니다. 도메인이 페더레이션된 경우 계정에 다단계 인증이 필요한지 확인해야 합니다.
 
 ## <a name="key-resources"></a>주요 리소스
 
