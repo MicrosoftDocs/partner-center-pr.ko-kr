@@ -1,32 +1,35 @@
 ---
 title: 파트너 보안 요구 사항 상태 | 파트너 센터
-ms.date: 10/04/2019
+ms.date: 10/11/2019
 description: 회사의 MFA 요구 사항 준수 정보를 최신 상태로 유지하세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: eb9ed967dd67469f1e119a9e8a973be9b6d2f530
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
+ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997807"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "72425106"
 ---
-# <a name="partner-security-compliance-status"></a>파트너 보안 규정 준수 상태
+# <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
 
 **적용 대상**
 
-- 파트너 센터
-- 모든 클라우드 솔루션 공급자 파트너
+- 클라우드 솔루션 공급자 프로그램의 모든 파트너
+  - 직접 청구
+  - 간접 공급자
+  - 간접 재판매인
+- 모든 제어판 공급업체
 - 모든 관리자
-
 
 개인 정보 보호 및 보안 강화는 최우선 순위입니다. 최선의 방어는 예방이며, 가장 약한 링크를 강화해야 한다는 것을 알고 있습니다. 따라서 에코시스템의 모든 사람이 조치를 취하고, 적절한 보안 기능을 마련해야 합니다. Microsoft에서는 파트너와 고객을 보호하기 위해 클라우드 솔루션 공급자 프로그램에 참여하는 관리자, 제어판 공급업체 및 파트너에 대한 일련의 필수 보안 요구 사항을 도입하고 있습니다.
 
 2019년 8월 1일부터 모든 파트너는 서비스 계정을 비롯한 모든 사용자의 파트너 테넌트에 다단계 인증을 적용해야 합니다. 새로운 보안 정책에 대한 자세한 내용은 [파트너 보안 요구 사항](partner-security-requirements.md)을 참조하세요.
 
 각 사용자가 인증할 때마다 MFA가 필요한지 확인하려고 합니다. 이 작업은 다음 방법 중 하나를 통해 수행할 수 있습니다.
+
 - Azure AD Premium을 구현하여 MFA가 각 사용자에게 적용되는지 확인
 - 기준 보호 정책 구현
 - 타사 솔루션을 구현하여 MFA가 각 사용자에게 적용되는지 확인
@@ -60,52 +63,52 @@ ms.locfileid: "71997807"
 이 메트릭은 앱+사용자 인증을 사용하여 작성된 파트너 센터 API 사용 요청과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 - Fabrikam은 CSP 파트너이며 앱+사용자 인증과 앱 전용 인증 방법을 혼합해서 사용하는 CSP 애플리케이션을 보유하고 있습니다.
-
 - 첫 번째 날에 애플리케이션에서 API 요청을 3개 만들었고, 이 요청은 MFA 확인 없이 앱+사용자 인증 방법을 통해 얻은 액세스 토큰을 통해 지원됩니다.
-
 - 두 번째 날에 애플리케이션에서 API 요청을 5개 만들었고, 이 요청은 앱 전용 인증을 사용하여 얻은 액세스 토큰을 통해 지원됩니다.
-
 - 세 번째 날에 애플리케이션에서 API 요청을 2개 만들었고, 이 요청은 MFA 확인이 포함된 앱+사용자 인증 방법을 통해 얻은 액세스 토큰을 통해 지원됩니다.
-
 - 나머지 4일 동안은 두 에이전트가 어떤 작업도 수행하지 않았습니다.
-
 - 앱 전용 인증을 통해 얻은 액세스 토큰에 의해 지원되는 두 번째 날의 API 요청 5개는 사용자 자격 증명을 사용하지 않기 때문에 메트릭에서 생략되었습니다. 나머지 5개 작업 중 2개는 MFA 확인으로 얻은 액세스 토큰을 통해 지원됩니다. 따라서 메트릭은 40%를 표시합니다.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>MFA 보고서의 메트릭이 100%가 아닌 경우 어떻게 해야 하나요?
+
 MFA를 구현한 파트너의 경우 파트너 센터 MFA 보고서의 메트릭이 100%가 아닐 수 있습니다. 이유를 이해하려면 몇 가지 요소를 고려해야 합니다.
 
->[!NOTE]
->파트너 테넌트의 ID 관리 및 MFA 구현에 익숙한 조직 내 직원과 협력해야 합니다.
+> [!NOTE]
+> 파트너 테넌트의 ID 관리 및 MFA 구현에 익숙한 조직 내 직원과 협력해야 합니다.
 
 ### <a name="have-you-implemented-mfa-for-your-partner-tenant"></a>파트너 테넌트에 대한 MFA를 구현했습니까?
+
 구현하지 않은 경우 먼저 파트너 테넌트에 대한 MFA를 구현해야 합니다. MFA를 구현하는 방법에 대한 자세한 내용은 [파트너 보안 요구 사항](partner-security-requirements.md) 문서를 참조하세요.
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>최근에 MFA 구현을 완료했습니까?
+
 메트릭은 매일 계산되며 지난 7일 동안 수행된 작업을 계산에 포함합니다. 파트너 테넌트에 대한 MFA 구현을 최근에 완료한 경우 메트릭은 100%가 아닐 수 있습니다.
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>일부 사용자 계정이 MFA 구현에서 제외되었습니까?
+
 현재 MFA 구현에 모든 사용자 계정이 포함되는지 아니면 일부만 포함되는지 확인하세요. 어떤 MFA 솔루션은 정책 기반이며 사용자 제외를 지원하고, 어떤 솔루션은 사용자마다 명시적으로 MFA를 사용하도록 요구할 수 있습니다. 현재 MFA 구현에서 사용자를 제외하지 않았는지 확인하세요. 제외된 후 CSP 관련 활동을 수행하기 위해 파트너 센터에 로그인하는 사용자 계정 때문에 메트릭이 100%가 아닐 수 있습니다.
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>MFA는 특정 조건이 충족되는 경우에만 필요한가요?
+
 현재 구현이 특정 조건 하에서만 MFA를 적용하는지 확인하세요. 일부 MFA 솔루션은 특정 조건이 충족될 때만 MFA를 적용하도록 유연성을 제공합니다. 사용자가 알 수 없는 디바이스 또는 알 수 없는 위치에서 액세스하는 경우를 예로 들 수 있습니다. MFA를 사용하도록 설정되었지만 파트너 센터에 액세스할 때 꼭 MFA 확인을 완료하지 않아도 되는 사용자 때문에 메트릭이 100%가 아닐 수 있습니다.
 
 >[!NOTE]
 >Azure AD 최종 사용자 보호 기준 정책을 사용하여 MFA를 구현한 파트너의 경우 최종 사용자 보호가 위험 기반 정책임을 기억해야 합니다. 정책이 적용되는 사용자는 위험한 로그인을 시도하는 경우에만(예: 사용자가 다른 위치에서 로그인) MFA를 요청하는 메시지가 표시됩니다. 또한 정책이 적용되는 사용자는 최대 14일 동안 MFA에 등록할 수 있습니다. MFA 등록을 완료하지 않은 사용자는 14일 동안 MFA 확인을 요청하는 문제가 발생하지 않습니다. 따라서 Azure AD 최종 사용자 보호 기준 정책을 사용하여 MFA를 구현한 파트너의 경우 메트릭이 100%가 아닐 수 있습니다.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>타사 MFA 솔루션을 사용하고 있나요?
+
 타사 MFA 솔루션을 사용하는 경우 Azure AD와 통합하는 방법을 확인하세요. 일반적으로 페더레이션 및 사용자 지정 컨트롤을 포함한 두 가지 방법이 있습니다.
 
 * **ID 페더레이션** – Azure AD가 인증 요청을 수신하면 Azure AD는 인증을 위해 사용자를 페더레이션된 ID 공급자로 리디렉션합니다. 성공적으로 인증되면 페더레이션된 ID 공급자는 SAML 토큰을 사용하여 사용자를 Azure AD로 다시 리디렉션합니다. 사용자가 페더레이션된 ID 공급자에 인증할 때 MFA 확인을 완료한 것으로 Azure AD에서 인식하려면 SAML 토큰에 *authenticationmethodsreferences* 클레임(값은 *multipleauthn*)이 포함되어야 합니다. 페더레이션된 ID 공급자가 이러한 클레임 발급을 지원하는지 확인하세요. 지원한다면 페더레이션된 ID 공급자가 이러한 클레임 발급을 지원하도록 구성되었는지 확인하세요. 클레임이 없는 경우 Azure AD(따라서 파트너 센터)는 사용자가 MFA 확인을 완료한 것을 알 수 없으며, 이로 인해 메트릭이 100%가 아닐 수 있습니다.
 
-* **사용자 지정 컨트롤** – Azure AD 사용자 지정 컨트롤을 사용하여 사용자가 타사 MFA 솔루션을 통해 MFA 확인을 완료했는지 여부를 확인할 수 없습니다. 따라서 사용자 지정 컨트롤을 통해 MFA 확인을 완료한 사용자는 항상 Azure AD에(그리고 파트너 센터에) MFA 확인을 완료하지 않는 것으로 나타납니다. 가능하다면 Azure AD와 통합할 때 사용자 지정 컨트롤과 반대로 ID 페더레이션을 사용하도록 전환하는 것이 좋습니다.   
+* **사용자 지정 컨트롤** – Azure AD 사용자 지정 컨트롤을 사용하여 사용자가 타사 MFA 솔루션을 통해 MFA 확인을 완료했는지 여부를 확인할 수 없습니다. 따라서 사용자 지정 컨트롤을 통해 MFA 확인을 완료한 사용자는 항상 Azure AD에(그리고 파트너 센터에) MFA 확인을 완료하지 않는 것으로 나타납니다. 가능하다면 Azure AD와 통합할 때 사용자 지정 컨트롤과 반대로 ID 페더레이션을 사용하도록 전환하는 것이 좋습니다.
 
 ### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>MFA를 사용하지 않고 파트너 센터에 로그인한 사용자 확인
+
 MFA 확인 없이 파트너 센터에 로그인한 사용자를 파악하여 현재 MFA 구현과 대조한다면 도움이 될 수 있습니다. [Azure AD 로그인 보고서](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)를 사용하여 사용자가 MFA 확인을 완료했는지 확인할 수 있습니다. Azure AD 로그인 보고서는 현재 Azure AD Premium 또는 Azure AD Premium이 포함된 O365 SKU(예: EMS)를 구독한 파트너만 사용할 수 있습니다.
 
 **자세한 내용**
 
 - [파트너 센터 보안 지침 그룹 커뮤니티](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
-
 - [파트너 센터 보안 요구 사항](partner-security-requirements.md)
-
 - [파트너 센터 보안 요구 사항 FAQ](partner-security-requirements-faq.md)
