@@ -1,5 +1,5 @@
 ---
-title: 고객을 대신하여 Azure 예약 구입 | 파트너 센터
+title: 고객을 대신 하 여 Azure 예약 관리 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
 Description: 고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다.
@@ -8,36 +8,36 @@ ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매, 취소, 교환, 조기 종료 요금
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 56802383a363afabc84932afd099bdb4c0a85a66
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
+ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708764"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "71704154"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신하여 Microsoft Azure Reservations 관리
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신 하 여 Microsoft Azure 예약 관리       
 
 **적용 대상**
 
 -  파트너 센터
--  Microsoft Azure portal
--  CSP 파트너
+-  Microsoft Azure Portal 
+-  CSP의 파트너
 
 고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다. 
 
 1. 시작 하려면 파트너 센터 메뉴에서 **고객** 을 선택 하 고 해당 예약을 관리 하려는 고객을 선택 합니다. 
 
-2. 고객의 세부 정보 페이지 메뉴에서 **Azure 예약**을 선택하고 관리하고 싶은 특정 예약을 선택합니다.  
+2. 고객의 세부 정보 페이지 메뉴에서 **Azure 예약** 을 선택 하 고 관리 하려는 특정 예약을 선택 합니다.  
 
-3. **작업** 아래에서 **관리**를 선택하여 Azure Portal의 고객의 예약 기록으로 이동합니다. 예약 세부 정보 페이지에서 작업을 완료 하려면 다음 단계를 수행합니다.  
+3. **작업**아래에서 **관리** 를 선택 하 여 Azure Portal에서 고객의 예약 레코드로 이동 합니다. 예약 세부 정보 페이지에서 다음 단계를 수행 하 여 작업을 완료 합니다.  
 
-    | **Select**   | **수행할 작업**    |
+    | **Select**   | **To**    |
     |:-----------------------------|:-----------------|
-    | **개요**   | 만료 날짜, 범위 및 사용 데이터를 포함하여 고객 예약에 대한 세부 정보를 확인합니다. **참고** **환불**을 선택하여 비례 배분 방식 환불을 위한 지원 요청을 만듭니다. **교환**을 선택하여 예약 기간 중 미사용 부분을 교환하기 위한 지원 요청을 만듭니다.  
-    | **Access Control (IAM)**   | 고객의 예약 정보에 대한 액세스를 관리합니다.|
-    | **Configuration**   | 예약의 범위와 예약이 연결된 Azure 구독을 변경합니다.    |
-    | **Properties**   | 예약 속성을 확인하고 클립보드에 예약 ID와 예약 주문 ID를 복사합니다. **참고** 고객을 대신하여 지원을 요청하면 지원 팀에서 예약 ID 및 예약 주문 ID를 물어볼 것입니다.    |
-    | **새 지원 요청**    | Microsoft 지원 팀에 도움을 요청합니다.   |
+    | **개요**   | 만료 날짜, 범위 및 사용률 데이터를 포함 하 여 고객 예약의 세부 정보를 봅니다. **참고** **환불** 을 선택 하 여 등급이 지정 된 환불에 대 한 지원 요청을 만듭니다. 예약 기간 중 사용 되지 않은 부분을 교환 하는 지원 요청을 만들려면 **exchange** 를 선택 합니다.  
+    | **Access Control (IAM)**   | 고객의 예약 정보에 대 한 액세스를 관리 합니다.|
+    | **구성**   | 예약의 범위 및/또는 예약에 연결 된 Azure 구독을 변경 합니다.    |
+    | **속성**   | 예약의 속성을 보고 예약 ID 및 예약 주문 ID를 클립보드로 복사 합니다. **참고** 고객을 대신 하 여 지원을 요청할 때 지원에서 예약 ID 및 예약 주문 ID를 요청할 수 있습니다.    |
+    | **새 지원 요청**    | Microsoft 지원에서 도움을 요청 합니다.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>예약 취소 또는 교환 
 
@@ -53,7 +53,7 @@ ms.locfileid: "68708764"
 취소 세부 정보 및 수수료는 아래를 참조 하세요.
 
 
-|**취소 날짜**<br> 일별로   |**Usage**    |**한도액**  |**조기 종료**<br> 요금    |**환불 캡** | 
+|**취소 날짜**<br> 일별로   |**사용 현황**    |**한도액**  |**조기 종료**<br> 수수료    |**환불 캡** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 개 미만                         | 아니요          | 100%       | 아니요                              | $5만 USD   |
 |5 개 미만                         | 예         | 전문 등급  | 아니요                              | $5만 USD   |
@@ -68,34 +68,34 @@ ms.locfileid: "68708764"
 고객에 게 exchange를 제공할 수 있도록 비례 하는 환불 금액은 계정에 제공한 됩니다.
 
 
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>고객을 대신하여 환불 또는 교환 요청 
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>고객을 대신 하 여 환불 또는 교환 요청 
 
 고객을 대신 하 여 환불 또는 교환에 대 한 지원 요청을 파일 하려면 파트너 센터에서 고객 및 예약을 선택한 후 Azure Portal에서 지원 요청을 만듭니다. 
 
 >[!NOTE]
->Microsoft 지원 상담원이 예약 ID와 예약 주문 ID를 물어볼 수 있습니다. Azure Portal의 예약 **속성** 페이지에서 이 정보를 확인할 수 있습니다. 
+>Microsoft 지원 에이전트에서 예약 ID 및 예약 주문 ID를 제공 하도록 요청할 수 있습니다. 이 정보는 Azure Portal의 예약 **속성** 페이지에서 찾을 수 있습니다. 
 
 1. 시작 하려면 파트너 센터 메뉴에서 **고객** 을 선택한 다음 환불 하려는 고객을 선택 합니다. 
 
-2. 고객의 세부 정보 페이지에서 **Azure 예약**을 선택하고 고객이 환불하고자 하는 특정 예약을 선택합니다.  
+2. 고객의 세부 정보 페이지에서 **Azure 예약** 을 선택한 후 고객이 환불 하려는 특정 예약을 선택 합니다.  
 
-3. **작업** 아래에서 **환불**을 선택하여 Azure Portal에서 고객의 예약 기록으로 이동하면 지원 요청이 시작됩니다.  
+3. **작업**에서 **환불** 을 선택 하 여 Azure Portal에서 고객의 예약 레코드로 이동 하 고 지원 요청을 시작 합니다.  
 
-4. **새 지원 요청** 페이지에서 다음 단계에 따라 환불을 요청합니다. 각 단계를 수행한 후 **다음**을 선택합니다. 
+4. **새 지원 요청** 페이지에서 아래 단계를 수행 하 여 환불을 요청 합니다. 각 단계 후에 **다음** 을 선택 합니다. 
 
     |**Step**                    |**선택할**    |
     |:---------------------------|:-----------------|
-    |**1 기본 사항**                |문제 유형: 결제.  |
+    |**1 기본 사항**                |문제 유형: 청구  |
     |**2 문제**               |문제 유형: 예약 관리. 범주: 교환 및 환불. |
-    |**3 연락처 정보**   |기본 설정을 선택하고 필요한 정보를 입력합니다. 
+    |**3 연락처 정보**   |기본 설정을 선택 하 고 필요한 정보를 입력 합니다. 
 
-5.  입력을 마쳤으면 **생성**을 선택합니다.
+5.  완료되면 **만들기**를 선택합니다.
 
 ## <a name="azure-reservations-resources"></a>Azure 예약 리소스
 |**에 대 한 자세한 내용**   |**이 내용을 읽으십시오.**    |
 |:-----------------------------|:-----------------|
 |CSP의 Azure 예약 개요  | [Microsoft Azure 예약 인스턴스 판매](azure-reservations.md) |
 |파트너 센터에서 고객에 대 한 Azure 예약 구매   |[Azure 예약 구입](azure-reservations-buying.md) |
-|올바른 VM 크기를 확인하고 고객 VM 사용량 확인   |[최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |
-|파트너 센터 API를 사용하여 Azure 예약 구입 | 파트너 센터 개발자 설명서의 [Azure Reserved VM Instances 구입](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)을 참조하세요.
+|올바른 VM 크기를 확인 하 고 고객 VM 사용 확인   |[최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |
+|파트너 센터 API를 사용 하 여 Azure 예약 구매 | 파트너 센터 개발자 설명서에서 [Azure Reserved VM Instances 구매](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 
