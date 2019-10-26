@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 양식 세금 크레딧
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921461"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892403"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
 
@@ -46,15 +46,20 @@ ms.locfileid: "70921461"
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>세금 크레딧 양식과 인증서를 제출 하는 방법
 
 1. 파트너 센터에서 대시보드의 uppor 오른쪽 모서리에 있는 **물음표** **(?)** 를 선택 합니다.
-2. **파트너 지원 요청**을 선택 합니다.
-3. **새 요청** 을 선택한 다음 **세부 정보**에서 **파트너 송장, 지불 또는 조정 파일을 사용 하 여 도움말을 선택 합니다.**
+
+2. **CSP**를 선택 합니다.
+
+3. **CSP – 청구 및 지불**아래에서 문제 유형- **원천 세금** 을 선택 하 고 **예**를 선택 합니다. 
+
 4. 서비스 요청을 제출할 때 세금 신용 양식 및 세금 인증서의 디지털 복사본을 첨부 해야 합니다.
+
 5. 영어 서비스 요청을 통해 영어가 아닌 세금 인증서를 제출 하는 경우 세금 인증서를 번역 해야 합니다.
+
 6. 전자 메일 이나 전화를 통해 직접 연락을 드리겠습니다.
 
 **청구서 지불** 방법을 사용 하면 세금 인증서를 받고 성공적으로 유효성을 검사 한 후 청구서의 남은 잔액은 약 1 주일 동안 지워집니다. 
 
-세금 인증서는 Microsoft 청구서에만 해당 됩니다. 인증서에 포함 되는 다른 회사가 있는 경우 내부 처리에서 크기를 제외할 수 있도록 용량을 지정 하 고, 전체 인증서에 포함 되는 항목에 대 한 완전 한 가시성을 제공 하세요. 
+세금 인증서는 Microsoft 청구서에만 해당 됩니다. 인증서에 다른 회사가 포함 되어 있는 경우 내부 처리에서 제외할 수 있도록 용량을 지정 하세요. 하지만 전체 인증서에 포함 되는 것에 대 한 전체 표시는 그대로 있습니다. 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>독일의 원천 세금 신용 양식을 완료 하는 방법에 대 한 지침
 
