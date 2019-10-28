@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134053"
@@ -33,9 +33,9 @@ CSP 제품을 판매할 수 있습니다 위치를 확인 하려면 아래 목�
 
 해당 국가 지원 되지 않는 경우 고객 Office 관리 URL을 사용 하 여 CSP 관계를 설정 합니다. 
 
-- 다음 url을 사용 하는 직접 청구 파트너: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0합니다. 바꿉니다 **partnertenantguid** 테 넌 트 ID를 사용 하 여 
+- 다음 url을 사용 하는 직접 청구 파트너: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 합니다. 바꿉니다 **partnertenantguid** 테 넌 트 ID를 사용 하 여 
 
-- 간접 대리점에 대 한 URL은: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid합니다. 바꿉니다 **IRtenantguid** 테 넌 트 ID를 사용 하 여 바꿉니다 **IRMPNID** MPN ID와 대체 **IPtenantguid** 간접 공급자 테 넌 트 id를 사용 하 여 합니다.
+- 간접 대리점에 대 한 URL은: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 합니다. 바꿉니다 **IRtenantguid** 테 넌 트 ID를 사용 하 여 바꿉니다 **IRMPNID** MPN ID와 대체 **IPtenantguid** 간접 공급자 테 넌 트 id를 사용 하 여 합니다.
 
 ## <a name="africa-region-and-market"></a>아프리카 지역 및 시장
 
@@ -129,7 +129,7 @@ CSP 제품을 판매할 수 있습니다 위치를 확인 하려면 아래 목�
 |  코코스 제도|   AUD   |
 |  쿡 제도          |   AUD    |
 |  피지                  |   AUD    |
-|  프랑스 남쪽 영역| AUD |
+|  프랑스 남부 지방| AUD |
 |  괌                  |  AUD     |
 |  허드 섬 및 맥도널드 제도| AUD |
 |  키리바시              |   AUD    |
@@ -218,7 +218,7 @@ CSP 제품을 판매할 수 있습니다 위치를 확인 하려면 아래 목�
 |  스웨덴         |   SEK    |
 |  스위스    |   CHF    |
 |  영국             |   GBP    |
-|  바티칸   |          |
+|  바티칸 시국   |          |
 |
 
 ## <a name="india-region-and-market"></a>인도 지역 및 시장
