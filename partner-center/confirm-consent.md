@@ -2,17 +2,17 @@
 title: 고객의 Microsoft 클라우드 계약 동의 확인 | 파트너 센터
 ms.topic: article
 ms.date: 04/16/2019
-Description: 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 클라우드 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정 준수 요구 사항을 충족 하는 데 도움이 되도록 Microsoft는 계약에 동의한 사용자에 대 한 특정 세부 정보를 제공 하 여 파트너에 게 동의를 확인 하도록 요청 합니다.
+Description: 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 클라우드 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정 준수 요구 사항을 충족하도록 돕기 위해 Microsoft는 계약에 동의한 사람과 관련해 특정 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, 고객 계약 템플릿
 ms.localizationpriority: medium
-ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820524"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045645"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>고객의 Microsoft 클라우드 계약 동의 확인
 
@@ -25,13 +25,16 @@ ms.locfileid: "68820524"
 > * Microsoft 클라우드 독일 파트너 센터
 > * Microsoft Cloud for US Government 파트너 센터
 
+>[!NOTE]
+>이 계약은 2020 년 1 월 31 일까 지 유효 합니다. 이 날짜 이후에는 모든 고객 (기존 및 신규)이 새 Microsoft 고객 계약에 서명 해야 합니다. 자세히 알아보려면 [Microsoft 고객 계약의 고객 승인 확인](confirm-customer-agreement.md)을 참조 하세요.
+
 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 클라우드 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정 준수 요구 사항을 충족하도록 돕기 위해 Microsoft는 계약에 동의한 사람과 관련해 다음과 같은 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다. 
 
 -   이름
 
 -   성
 
--   전자 메일 주소
+-   이메일 주소
 
 -   전화 번호(선택 사항)
 
@@ -77,17 +80,17 @@ ms.locfileid: "68820524"
 
 기본적으로 기본 연락처의 고객 정보가 표시됩니다. 이 정보가 틀린 경우에는 **업데이트**를 선택하고 계약에 동의한 사람의 **이름**, **성**, **이메일 주소** 및 **전화 번호*(선택 사항)를 입력합니다.
 
-6. 고객 테넌트를 생성하기 위한 나머지 단계들을 계속하려면 **다음**을 선택합니다.
+6. 고객 테넌트를 생성하기 위한 나머지 단계를 계속하려면 **다음**을 선택합니다.
 
 ### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>기존 고객에 대한 고객의 동의 여부를 확인
 
-관리자 에이전트 또는 판매 에이전트만 이러한 확인이 가능합니다.
+관리 담당자 또는 판매 담당자만 이러한 확인이 가능합니다.
 
 1. **고객**을 선택한 다음, 확인하려는 고객을 찾아서 선택합니다.
-2. **계정 정보**를 선택 합니다.
+2. **계정 정보**를 선택합니다.
 3. **Microsoft 클라우드 계약**에서 **업데이트**를 선택합니다.
 
-![Update](images/mca/mca4.png)
+![탭을](images/mca/mca4.png)
 
 4. 계약에 동의한 사용자의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다.
 5. **계약 동의 날짜**에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
@@ -95,7 +98,7 @@ ms.locfileid: "68820524"
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>기존 고객에 대해 새로운 주문을 만드는 동안 고객의 동의 여부를 확인
 
-앞서 동의 여부를 확인하지 않은 기존 고객에 대해 새로운 주문을 생성하려고 하면 확인을 완료하라는 메시지를 받게 됩니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
+앞서 동의 여부를 확인하지 않은 기존 고객에 대해 새로운 주문을 생성하려고 하면 확인을 완료하라는 메시지를 받게 됩니다. 다음 절차를 사용하여 이 작업을 수행합니다.
 
 1. 계약에 동의한 사용자의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다.
 2. **계약 동의 날짜**에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
@@ -103,8 +106,8 @@ ms.locfileid: "68820524"
 
 ### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>기존 고객에 대해 고객의 동의 여부를 확인
 
-아래 절차를 사용하여 이전에 제공한 기존 고객에 대한 고객의 동의 여부를 확인할 수 있습니다. 관리자 에이전트 또는 판매 에이전트만 이러한 확인이 가능합니다.
+아래 절차를 사용하여 이전에 제공한 기존 고객에 대한 고객의 동의 여부를 확인할 수 있습니다. 관리 담당자 또는 판매 담당자만 이러한 확인이 가능합니다.
 
 1. **고객**을 선택한 다음, 확인하려는 고객을 찾아서 선택합니다.
-2. **계정 정보**를 선택 합니다.
+2. **계정 정보**를 선택합니다.
 3. **Microsoft 클라우드 계약**에서 이 고객에 대해 확인이 제공되었는지 여부를 볼 수 있습니다.
