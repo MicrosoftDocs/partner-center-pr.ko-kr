@@ -1,18 +1,18 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램의 파트너 옵션 | 파트너 센터
 ms.topic: article
-ms.date: 05/01/2019
+ms.date: 10/28/2019
 description: 클라우드 솔루션 공급자 프로그램을 통해 판매하는 파트너에게 제공되는 옵션에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: high
-ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318449"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045634"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 
 
@@ -23,6 +23,9 @@ ms.locfileid: "71318449"
 CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 제공되는 옵션의 카탈로그가 계속 확장되고 있습니다. [Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 이번 달의 CSP 제품을 보려면 파트너 센터에 로그인한 다음, [**가격 책정 및 제품**](https://partnercenter.microsoft.com/pcv/sales) 페이지로 이동합니다.  
 
 클라우드 솔루션 공급자 프로그램에 아직 등록하지 않으셨나요? 등록 방법에 대한 자세한 내용은 [클라우드 솔루션 공급자](https://partner.microsoft.com/cloud-solution-provider)를 참조하세요. 
+
+>[!NOTE]
+>2020년 1월 31일부터 모든 고객은 Microsoft 고객 계약에 서명해야 합니다. 여기에는 기존 고객과 신규 고객 모두 포함됩니다. 자세한 내용은 [Microsoft 고객 계약에 대한 고객 동의 확인](confirm-customer-agreement.md)을 참조하세요.
 
 ## <a name="what-you-can-sell-through-csp"></a>CSP를 통해 판매할 수 있는 제품
 

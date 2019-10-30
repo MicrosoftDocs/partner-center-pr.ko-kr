@@ -1,18 +1,18 @@
 ---
 title: 혜택 제품 구입 또는 갱신 | 파트너 센터
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Microsoft Action Pack을 처음으로 구입하는 방법 또는 갱신하는 방법에 대해 알아보세요.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318851"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978740"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버/골드 역량을 처음으로 구입 또는 갱신
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318851"
 -  파트너 센터
 -  Partner Membership Center
 
-이제 파트너 센터 대시보드에서 Microsoft Action Pack 구독과 실버 및 골드 역량을 비롯한 혜택 제품을 구입하거나 갱신할 수 있습니다. 
+이제 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에서 Microsoft Action Pack 구독과 실버 및 골드 역량을 비롯한 혜택 제품을 구입하거나 갱신할 수 있습니다. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>처음으로 Microsoft Action Pack 구입
 
@@ -36,23 +36,13 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 번째 단계는 Micro
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 갱신
 
 >[!IMPORTANT]
->이제 파트너 센터(이 사이트)에서 Action Pack 구독을 관리합니다. 
+>이제 파트너 센터에서 Action Pack 구독을 관리합니다.
 
 ### <a name="check-your-renewal-eligibility"></a>갱신 자격 확인
 
-1. [PMC(Partner Membership Center)](https://partner.microsoft.com/_login?authType=OpenIdConnect)에 로그인합니다.
-
-2. 성공적으로 로그인하면 다음 중 하나를 수행하게 됩니다.
-
-    - PMC에서 구독 갱신 단계를 수행할 수 있습니다.
-
-    - 파트너 센터(이 사이트)에서 구독을 갱신하라는 초대 메시지를 받습니다.
-
 >[!IMPORTANT]
 >파트너 센터에서 구독을 갱신하라는 초대를 받은 경우 갱신 기간 정책이 변경되었으므로 구독 기간이 만료된 후에만 구독을 갱신할 수 있습니다. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.       
->[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다. 파트너 센터에서 구독을 갱신할 자격이 있는 경우 아래 단계를 따릅니다.  
-
-
+>[**멤버십 혜택**](https://partnercenter.microsoft.com/pcv/partnership/offers) 페이지(로그인 필요)에서 구독의 만료 날짜를 확인할 수 있습니다. 파트너 센터에서 갱신할 자격이 있는 경우 다음 단계를 수행합니다.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>파트너 센터에서 Microsoft Action Pack 구독을 갱신하려면
 
