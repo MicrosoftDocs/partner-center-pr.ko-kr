@@ -1,101 +1,95 @@
 ---
-title: 파트너 센터에서 OSA 클레임 제출 | 파트너 센터
+title: CPOR 모델을 사용 하 여 고객 연결 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 10/04/2019
-description: OSA 판매 요금 청구 또는 ISV 수익 연결 클레임을 제출 합니다.
+ms.date: 10/29/2019
+description: CPOR 모델을 사용 하 여 고객 연결 만들기
 author: LauraBrenner
 ms.author: labrenne
-keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금, OSA, ISV, 수익 연결
+keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금, OSU, OSA, ISV, 수익 연결
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425169"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083863"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a><span data-ttu-id="44cf7-104">파트너 센터에서 OSA 클레임 제출</span><span class="sxs-lookup"><span data-stu-id="44cf7-104">Submit your OSA claims in Partner Center</span></span>
+<span data-ttu-id="00684-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="00684-104">**Applies to**</span></span>
 
-<span data-ttu-id="44cf7-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="44cf7-105">**Applies to**</span></span>
+-  <span data-ttu-id="00684-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="00684-105">Partner Center</span></span>
 
--  <span data-ttu-id="44cf7-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="44cf7-106">Partner Center</span></span>
+# <a name="create-a-customer-association-using-the-cpor-model"></a><span data-ttu-id="00684-106">CPOR 모델을 사용 하 여 고객 연결 만들기</span><span class="sxs-lookup"><span data-stu-id="00684-106">Create a customer association using the CPOR model</span></span>
 
-<span data-ttu-id="44cf7-107">OSA 파트너 또는 Dynamics ISV는 파트너 센터에서 클레임을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-107">As an OSA partner or Dynamics ISV, you can submit your claims in Partner Center.</span></span> 
+<span data-ttu-id="00684-107">2019 년 10 월 1 일부 터 Microsoft는 Microsoft에서 Microsoft의 Microsoft 서비스 자문 (온라인 서비스 자문) 판매, OSU (온라인 서비스 사용)와 관련 하 여 Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 하기 위해 CPOR (Record Partner of Record) 모델을 사용 하기 시작 했습니다. Microsoft 365 및 OSU-비즈니스 응용 프로그램의 성과급입니다.</span><span class="sxs-lookup"><span data-stu-id="00684-107">On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.</span></span>
 
-<span data-ttu-id="44cf7-108">클레임을 만들고 제출 하려면 먼저 다음 요구 사항을 충족 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-108">Before you can create and submit a claim, you’ll need to meet the following requirements:</span></span> 
--   <span data-ttu-id="44cf7-109">**Microsoft 파트너 네트워크에 등록 되어**있고 활성 MPN 계약이 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-109">**Be enrolled in the Microsoft Partner Network**, and have an active MPN Agreement.</span></span> <span data-ttu-id="44cf7-110">Microsoft 파트너 네트워크에 등록 하려면 파트너 사이트를 방문 하세요.</span><span class="sxs-lookup"><span data-stu-id="44cf7-110">To enroll in the Microsoft Partner Network, visit the partner site.</span></span> 
--   <span data-ttu-id="44cf7-111">활성 Microsoft Dynamics 인증 소프트웨어 관리자 계약 (CSA)이 포함 된 **인증 된 Microsoft dynamics software Advisor 여야** 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-111">**Be a certified Microsoft Dynamics software advisor** with an active Microsoft Dynamics Certified Software Advisor Agreement (CSA).</span></span> 
--   <span data-ttu-id="44cf7-112">파트너 센터에서 **은행 및 세금 정보** 를 입력 해 둘 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-112">**Have your bank and tax information** entered in Partner Center.</span></span> 
--   <span data-ttu-id="44cf7-113">**OSA 판매 자격 인증 및 수익 요구 사항을 충족**합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-113">**Meet OSA Sell eligibility certification and revenue requirements**.</span></span> <span data-ttu-id="44cf7-114">자세한 내용은 aka.ms/partnerincentives의 OSA 섹션 아래에 있는 OSA 판매 가이드를 참조 하세요. 이는 Isv가 수익 연결만을 검색 하는 경우에는 적용 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-114">(For details, see the OSA Sell guide, located under the OSA section on aka.ms/partnerincentives.) This does not apply to ISVs seeking revenue association only.</span></span> 
+<span data-ttu-id="00684-108">클레임을 제출 하면 Microsoft에서 유효성을 검사 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-108">When you submit your claim, Microsoft validates it.</span></span> <span data-ttu-id="00684-109">이 시점에서 추가 정보를 요청할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="00684-109">We may ask you for more information at this point.</span></span> <span data-ttu-id="00684-110">또한 고객의 연결 요청에 대해 알려줍니다.</span><span class="sxs-lookup"><span data-stu-id="00684-110">We’ll also notify the customer of your association request.</span></span> <span data-ttu-id="00684-111">고객은 옵트아웃 (opt out)을 5 영업일 이내에 사용할 수 있습니다. 옵트아웃 (opt out) 하지 않으면이 특정 테 넌 트 및 워크 로드와의 연결이 공식적으로 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="00684-111">Customers have five business days to opt out. If they don’t opt out, your association with this specific tenant and workload will be official.</span></span> <span data-ttu-id="00684-112">이 시점에서 고객의 사용 현황 데이터에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="00684-112">At this point you’ll have access to the customer’s usage data.</span></span> 
 
-## <a name="submitting-your-claim"></a><span data-ttu-id="44cf7-115">클레임 제출</span><span class="sxs-lookup"><span data-stu-id="44cf7-115">Submitting your claim</span></span>
+<span data-ttu-id="00684-113">클레임을 완료 하려면 다음 정보가 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-113">You’ll need the following information to complete a claim:</span></span>
 
-<span data-ttu-id="44cf7-116">클레임을 제출 하려면 트랜잭션 날짜 로부터 90 일이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-116">You’ll have 90 days from the date of the transaction to submit your claim.</span></span> <span data-ttu-id="44cf7-117">거래 후 90 일 넘게 클레임을 제출 하는 경우 해당 판매에서 판매 동기를 얻을 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-117">If you submit your claim more than 90 days after a transaction, you won’t earn the sell incentive from that sale.</span></span> 
+- <span data-ttu-id="00684-114">클레임을 만드는 엔터티의 **MPN ID**</span><span class="sxs-lookup"><span data-stu-id="00684-114">The **MPN ID** for your entity that makes the claim</span></span>
 
-<span data-ttu-id="44cf7-118">ISV 파트너 이며 고객이 Microsoft Dynamics 365 솔루션을 선택할 수 있는 영향을 줄 수 있는 경우 수익 연결을 요청할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-118">If you’re an ISV partner and your solutions helped influence the customer to choose a Microsoft Dynamics 365 solution, you’re also eligible to claim revenue association.</span></span>   
+- <span data-ttu-id="00684-115">고객의 **도메인 이름** [이를 찾습니다](https://docs.microsoft.com/partner-center/find-customer-domain-name) .</span><span class="sxs-lookup"><span data-stu-id="00684-115">Customer’s **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)</span></span>
 
-## <a name="payment-schedule"></a><span data-ttu-id="44cf7-119">지불 일정</span><span class="sxs-lookup"><span data-stu-id="44cf7-119">Payment schedule</span></span>
+- <span data-ttu-id="00684-116">고객의 **디렉터리 id** 또는 **테 넌 트 id** 를 [찾습니다](https://docs.microsoft.com/partner-center/find-customer-domain-name) .</span><span class="sxs-lookup"><span data-stu-id="00684-116">Customer’s **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)</span></span>
 
-<span data-ttu-id="44cf7-120">획득 기간이 끝난 후 45 일 이내에 승인 된 성과급 청구에 대 한 지불을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-120">You’ll receive payment for approved incentives claims within 45 days after the end of the earning period.</span></span> <span data-ttu-id="44cf7-121">지불 기간이 끝난 후 90 일이 지나면 지불이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-121">You have 90 days after the end of the earning period to dispute a payment.</span></span> <span data-ttu-id="44cf7-122">지불 계산 및 방법에 대 한 자세한 내용은 aka.ms/partnerincentives의 OSA 섹션 아래에 있는 OSA 판매 가이드를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="44cf7-122">For information about payment calculations and methods, see the OSA Sell guide, located under the OSA section on aka.ms/partnerincentives.</span></span>
+- <span data-ttu-id="00684-117">Business Applications 또는 Microsoft 365와 같은 **솔루션 영역**</span><span class="sxs-lookup"><span data-stu-id="00684-117">The **Solution area**, such as Business Applications or Microsoft 365</span></span>
 
-## <a name="maintaining-your-program-eligibility"></a><span data-ttu-id="44cf7-123">프로그램 자격 유지 관리</span><span class="sxs-lookup"><span data-stu-id="44cf7-123">Maintaining your program eligibility</span></span>
+- <span data-ttu-id="00684-118">수행 된 **작업** 및 수행 하려는 클레임 유형 (예: 판매 전, 사용량 또는 수입 연결)</span><span class="sxs-lookup"><span data-stu-id="00684-118">The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association</span></span>
 
-<span data-ttu-id="44cf7-124">Microsoft는 온라인 서비스 관리자가 획득, 계산 및 지불을 위해 동기를 지불 하는 것에 대해 매월 자격을 평가 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-124">Microsoft assesses eligibility monthly for the Online Services Advisor Sell Incentive for earning, calculation, and payment.</span></span> <span data-ttu-id="44cf7-125">Microsoft에서 동기 지불액을 승인 하 고 릴리스할 수 있으려면 먼저 특정 자격 조건을 충족 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-125">You must meet specific eligibility criteria before Microsoft can approve and release incentive payments.</span></span> <span data-ttu-id="44cf7-126">자세한 내용은 aka.ms/partnerincentives의 OSA 섹션 아래에 있는 OSA 판매 가이드를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="44cf7-126">For details, see the OSA Sell guide, located under the OSA section on aka.ms/partnerincentives.</span></span>
+- <span data-ttu-id="00684-119">고객의 **연락처 이름**, 제목 및 전자 메일 주소</span><span class="sxs-lookup"><span data-stu-id="00684-119">Your customer’s **Contact name**, title, and email address</span></span>
 
-## <a name="submit-an-osa-sell-fee-claim"></a><span data-ttu-id="44cf7-127">OSA 판매 요금 청구 제출</span><span class="sxs-lookup"><span data-stu-id="44cf7-127">Submit an OSA sell fee claim</span></span>
+- <span data-ttu-id="00684-120">Dynamics 365의 경우 고객의 **기술 담당자** 이름, 제목 및 전자 메일 주소도 제공 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-120">For Dynamics 365, you also need to provide your customer’s **Technical contact** name, title, and email address</span></span>
 
-<span data-ttu-id="44cf7-128">파트너 센터에서 동기 클레임을 제출 하려면 다음 단계를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-128">Complete the following steps to submit an incentive claim in Partner Center.</span></span>  
+- <span data-ttu-id="00684-121">회사의 **연락처 이름** 및 전자 메일 주소</span><span class="sxs-lookup"><span data-stu-id="00684-121">Your own company’s **Contact name** and email address</span></span>
 
->[!NOTE]
+- <span data-ttu-id="00684-122">이 클레임에 대 한 **이름을** 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="00684-122">You’ll create a **Name** for this claim</span></span>
 
-><span data-ttu-id="44cf7-129">회사에 여러 위치가 있는 경우 고객과 동일한 지역에 있는 사무실에 대 한 MPN ID를 사용 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-129">If your company has multiple locations, be sure to use the MPN ID for the office located in the same geographic region as your customer.</span></span> 
+- <span data-ttu-id="00684-123">주장 하는 **제품** 또는 워크 로드</span><span class="sxs-lookup"><span data-stu-id="00684-123">The **Product(s)** or workload(s) you’re claiming</span></span>
 
-1.  <span data-ttu-id="44cf7-130">개요 페이지의 **모든 동기 프로그램**에서 **OSA**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-130">On the Overview page, under **All incentive programs**, select **OSA**.</span></span>
+- <span data-ttu-id="00684-124">**POE (실행 증명) (** 예: 고객이 서명한 작업의 문)</span><span class="sxs-lookup"><span data-stu-id="00684-124">**Proof of execution (POE)**, such as a statement of work signed by the customer.</span></span> <span data-ttu-id="00684-125">POE 템플릿을 다운로드 하 여 사용할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="00684-125">You can also download a POE template to use.</span></span>
 
-2.  <span data-ttu-id="44cf7-131">OSA 페이지에서 **클레임 ...** 을 선택한 다음, **동기 요금**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-131">On the OSA page, select **Claim…**, and then select **Incentive fee**.</span></span>
+- <span data-ttu-id="00684-126">수익 연결만을 주장 하는 파트너의 경우: **Dynamics solution 판매자 이름**, **고객 이름**및 **ISV 제품/솔루션의 이름**입니다.</span><span class="sxs-lookup"><span data-stu-id="00684-126">For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**.</span></span> 
 
-3.  <span data-ttu-id="44cf7-132">고객의 도메인 이름 및 디렉터리 ID를 입력 하 고 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-132">Enter your customer’s domain name and directory ID, and then select **Continue**.</span></span> 
+<span data-ttu-id="00684-127">또한 다음 사항을 이해 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-127">You should also understand the following points:</span></span>
+- <span data-ttu-id="00684-128">기존 Microsoft 365 고객이 있는 경우이 프로세스를 사용 하 여 계속 해 서 OSU의 성과급을 얻을 수 있도록 다시 연결 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-128">If you have existing Microsoft 365 customers, you’ll need to re-associate with those you want to continue to earn OSU incentives by using this process.</span></span>
+- <span data-ttu-id="00684-129">Dynamics 365 또는 Power BI 고객에 대 한 기존 연결이 있는 경우 구독이 만료 될 때까지 이러한 연결은 유효한 상태로 유지 됩니다.</span><span class="sxs-lookup"><span data-stu-id="00684-129">If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.</span></span>
+- <span data-ttu-id="00684-130">고객은 여러 파트너를 가질 수 있지만 각 워크 로드 (OSU Microsoft 365의 경우) 또는 구독 (OSA-판매 및 OSU-Business Applications)은 한 파트너에만 연결 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="00684-130">A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.</span></span>
 
-4.  <span data-ttu-id="44cf7-133">고객이 구매한 제품을 선택 하 고 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-133">Select the product the customer purchased, and then select **Continue**.</span></span> 
+## <a name="create-a-customer-association"></a><span data-ttu-id="00684-131">고객 연결 만들기</span><span class="sxs-lookup"><span data-stu-id="00684-131">Create a customer association</span></span>
+1.  <span data-ttu-id="00684-132">파트너 센터 대시보드의 **성과급**아래에서 **개요**를 선택한 다음, **고객 연결**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-132">In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**.</span></span> 
 
-5.  <span data-ttu-id="44cf7-134">이 클레임에 연결할 구독을 선택 하 고 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-134">Select the subscription you want to associate with this claim, and then select **Continue**.</span></span>
+2.  <span data-ttu-id="00684-133">고객 연결 페이지의 맨 위에서 **+ 고객 연결**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-133">At the top of the Customer associations page, select **+ Customer association**.</span></span>
 
->[!NOTE]
+3.  <span data-ttu-id="00684-134">고객과 연결할 파트너 위치의 **MPN id** 를 선택 하 고 고객의 도메인 이름과 디렉터리 id를 추가 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-134">Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer’s domain name and Directory ID.</span></span> [<span data-ttu-id="00684-135">어디에 있나요?</span><span class="sxs-lookup"><span data-stu-id="00684-135">Where are these?</span></span>](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-><span data-ttu-id="44cf7-135">구독을 선택 하기 전에 이름과 지역이 모두 올바른지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-135">Verify that both the name and geographic region are correct before you select a subscription.</span></span> 
+<span data-ttu-id="00684-136">**계속**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-136">Select **Continue**.</span></span>
 
-><span data-ttu-id="44cf7-136">다른 온라인 서비스 관리자와 연결 된 구독은 노란색 삼각형으로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-136">Subscriptions that are associated with other online service advisors are marked with a yellow triangle.</span></span> <span data-ttu-id="44cf7-137">계속 해 서 연결 하도록 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-137">You can still choose to associate with them.</span></span> 
+4.  <span data-ttu-id="00684-137">**솔루션 영역** 및 **활동**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-137">Select the **Solution area** and **Activity**.</span></span> 
 
-><span data-ttu-id="44cf7-138">회사와 이미 연결 된 구독은 다시 연결할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-138">Subscriptions already associated with your company can’t be associated again.</span></span>  
+>[!Note]
 
-6.  <span data-ttu-id="44cf7-139">고객과 회사에 대 한 연락처 정보를 입력 하 고 클레임의 이름을 지정한 다음 **클레임 만들기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-139">Enter the contact information for both your customer and your company, name the claim, and then select **Create claim**.</span></span> 
+><span data-ttu-id="00684-138">Business Applications를 선택 하는 경우 **사용량 및/또는 판매 전**또는 **수입 연결**중 하나를 선택한 다음 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-138">If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**.</span></span> 
 
-7.  <span data-ttu-id="44cf7-140">구독 페이지에서 실행 **증명** 상자에 POE (실행 증명) 설명서를 업로드 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-140">On the Subscription page, upload your Proof of Execution (POE) documentation to the **Proof of Execution** box.</span></span> <span data-ttu-id="44cf7-141">POE 템플릿 또는 사전 판매 프로세스의 POE 문서를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-141">You can use the POE template or POE documents from the pre-sales process.</span></span> 
+><span data-ttu-id="00684-139">수익 연결을 선택 하는 경우 아래 나열 된 것과 약간 다른 정보를 묻는 메시지가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="00684-139">If you select Revenue association, you’ll be prompted for slightly different information than what’s listed below.</span></span> 
 
-8.  <span data-ttu-id="44cf7-142">**클레임 제출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-142">Select **Submit claim**.</span></span>    
+5.  <span data-ttu-id="00684-140">**고객 연결** 페이지에 적절 한 정보를 입력 하 고 **클레임 만들기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-140">Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.</span></span>
 
-<span data-ttu-id="44cf7-143">구독 페이지의 상태 상자에서 클레임 상태를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-143">You can see the status of your claim in the status box of the Subscription page.</span></span> <span data-ttu-id="44cf7-144">추가 정보가 필요한 경우에도 알림이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-144">If additional information is required, you will be notified there as well.</span></span>
+6.  <span data-ttu-id="00684-141">이 고객 연결과 관련 된 제품을 선택 하 고 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-141">Select the product(s) associated with this customer association, and then select **Continue**.</span></span>
 
-<span data-ttu-id="44cf7-145">수익 및 지불 데이터를 보려면 지급 및 보고를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="44cf7-145">To view your earnings and payments data, see Payouts and reporting.</span></span> 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a><span data-ttu-id="44cf7-146">ISV 수익 연결 클레임 제출</span><span class="sxs-lookup"><span data-stu-id="44cf7-146">Submit an ISV revenue association claim</span></span>
+7.  <span data-ttu-id="00684-142">고객 연락처 정보 및 회사의 연락처 정보를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-142">Complete the customer contact information and your company’s contact information.</span></span> <span data-ttu-id="00684-143">모든 필드가 필수 필드입니다.</span><span class="sxs-lookup"><span data-stu-id="00684-143">All fields are required.</span></span> 
 
-1.  <span data-ttu-id="44cf7-147">개요 페이지의 **모든 동기 프로그램**에서 **OSA**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-147">On the Overview page, under **All incentive programs**, select **OSA**.</span></span>
+>[!Note]
 
-2.  <span data-ttu-id="44cf7-148">OSA 페이지에서 **클레임 ...** 을 선택한 다음 **ISV 수익 연결**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-148">On the OSA page, select **Claim…**, and then select **ISV revenue association**.</span></span>
+<span data-ttu-id="00684-144">제품이 Dynamics 365이 고 선택한 제품에이 특정 고객에 대 한 구독이 여러 개 있는 경우 구독 ID도 입력 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-144">If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you’ll also need to enter the subscription ID.</span></span>
 
-3.  <span data-ttu-id="44cf7-149">고객의 도메인 이름 및 디렉터리 ID를 입력 하 고 고객이 구매한 제품 또는 제품을 선택한 다음 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-149">Enter your customer’s domain name and directory ID, select the product or products the customer purchased, and then select **Continue**.</span></span> 
+8.  <span data-ttu-id="00684-145">실행 증명 (POE)을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-145">Supply your proof of execution (POE).</span></span> <span data-ttu-id="00684-146">이 상자를 상자로 끌거나, 고유한 지원 설명서를 찾아보거나, **템플릿 다운로드**를 선택 하 여 템플릿을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="00684-146">You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**.</span></span> 
 
-4.  <span data-ttu-id="44cf7-150">이 클레임에 연결할 구독을 선택한 다음 **계속**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-150">Select the subscriptions you want to associate with this claim and then select **Continue**.</span></span>
+9.  <span data-ttu-id="00684-147">원하는 경우 주석을 추가 하 고 저장 한 다음 **클레임 제출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="00684-147">Add and save comments if you like, and then select **Submit claim**.</span></span> <span data-ttu-id="00684-148">고객 연결에 대 한 승인을 요청 하는 고객에 게 전자 메일을 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="00684-148">We’ll send an email to the customer requesting approval of your customer association.</span></span> 
 
 >[!NOTE]
 
-><span data-ttu-id="44cf7-151">구독을 선택 하기 전에 이름과 지역이 모두 올바른지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-151">Verify that both the name and geographic region are correct before you select a subscription.</span></span> 
+><span data-ttu-id="00684-149">고객 연결을 제출한 후에는 편집할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="00684-149">Once you submit your customer association, you can’t edit it.</span></span> 
 
-><span data-ttu-id="44cf7-152">회사와 이미 연결 된 구독은 다시 연결할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-152">Subscriptions already associated with your company can’t be associated again.</span></span>  
+<span data-ttu-id="00684-150">고객 연결의 상태가 **상태** 필드에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="00684-150">The status of your customer association appears in the **Status** field.</span></span> 
 
-5.  <span data-ttu-id="44cf7-153">**Dynamics 솔루션 판매자 이름**, **고객 이름**및 **ISV 제품/솔루션 이름**에 대 한 정보를 입력 한 다음 클레임의 이름을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-153">Enter the information for the **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**, and then enter a name for the claim.</span></span> 
-
-6.  <span data-ttu-id="44cf7-154">**클레임 만들기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-154">Select **Create claim**.</span></span> 
-
-<span data-ttu-id="44cf7-155">구독 페이지의 상태 상자에서 클레임 상태를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-155">You can see the status of your claim in the status box of the Subscription page.</span></span> <span data-ttu-id="44cf7-156">추가 정보가 필요한 경우에도 알림이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="44cf7-156">If additional information is required, you will be notified there as well.</span></span>
+<span data-ttu-id="00684-151">**기록** 을 선택 하 여 고객 연결 기록을 봅니다.</span><span class="sxs-lookup"><span data-stu-id="00684-151">Select **History** to view the history of a customer association.</span></span>
