@@ -6,12 +6,12 @@ description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978764"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141961"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
@@ -59,7 +59,7 @@ ms.locfileid: "72978764"
 
 5.  귀하가 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
-    a. 파트너 센터 [대시보드에서](https://partner.microsoft.com/en-us/dashboard/home**) **설정** 아이콘을 선택 하 고 **사용자 관리**를 선택 합니다.  
+    a. 파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard/home**) **설정** 아이콘을 선택 하 고 **사용자 관리**를 선택 합니다.  
 
     b. 사용자 목록에서 이름을 선택한 다음, 관리 담당자가 선택되지 않았으면 **관리 담당자**를 선택합니다. **업데이트**를 선택합니다.  
 

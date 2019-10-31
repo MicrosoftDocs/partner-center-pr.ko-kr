@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, 송장, 지도, 세금 면제, VAT, VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978769"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141995"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크의 송장 및 세금
 
@@ -26,7 +26,7 @@ ms.locfileid: "72978769"
 
 이 절차를 수행 하려면 전역 관리자 또는 MPN 파트너 관리자 여야 합니다. 
 
-1.  회사 계정을 사용 하 여 [파트너 센터](https://partner.microsoft.com/en-us/dashboard/home) 에 로그인 하 고 왼쪽 메뉴에서 **MPN** 를 선택 합니다.
+1.  회사 계정을 사용 하 여 [파트너 센터](https://partner.microsoft.com/dashboard/home) 에 로그인 하 고 왼쪽 메뉴에서 **MPN** 를 선택 합니다.
 
 4.  드롭다운 목록에서 **회원 혜택** 을 선택 하 여 구매할 수 있는 제품 및 현재 등록 연도에 사용할 수 있는 청구서를 확인 합니다. 이전 연도의 송장을 보려면 **만료 됨**을 선택 합니다.
 
@@ -45,7 +45,7 @@ ms.locfileid: "72978769"
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Microsoft에 VAT ID 번호 보내기
 
-1.  파트너 센터 [대시보드에서](https://partner.microsoft.com/en-us/dashboard/home) **멤버 자격 제안**을 선택 하 고 **사용 가능**을 선택 합니다. 
+1.  파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard/home) **멤버 자격 제안**을 선택 하 고 **사용 가능**을 선택 합니다. 
 
 2.  **VAT ID 추가를**선택 합니다. 
 

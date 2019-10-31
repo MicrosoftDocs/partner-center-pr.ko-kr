@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 교육 상품권, software assurance, 교육, SATV에 등록, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425179"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142020"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램
 
@@ -37,7 +37,7 @@ Software Assurance 교육 서비스를 처음 접하는 경우 다음의 모든 
 
 ## <a name="confirm-program-eligibility"></a>프로그램 적격성 확인
 
-SATV 프로그램에 등록하려면 먼저 Microsoft Learning 역량을 대체하는 Microsoft 파트너 네트워크 학습 옵션에 대한 요구 사항을 완료해야 합니다. [학습 옵션](https://partner.microsoft.com/en-us/membership/learning-partners)에서 시작하는 방법을 알아보세요.
+SATV 프로그램에 등록하려면 먼저 Microsoft Learning 역량을 대체하는 Microsoft 파트너 네트워크 학습 옵션에 대한 요구 사항을 완료해야 합니다. [학습 옵션](https://partner.microsoft.com/membership/learning-partners)에서 시작하는 방법을 알아보세요.
 
 파트너 센터에서 적용 가능한 역량 및 평가 요구 사항 등 귀사의 적격성을 확인할 수 있습니다. 자세한 내용과 스크린 샷을 보려면 SATV 워크플로의 [1 단계](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) 에 있는 지침을 따르세요.
 
