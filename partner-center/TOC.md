@@ -37,7 +37,7 @@
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md)
-## [Microsoft 고객 계약(confirm-customer-agreement.md)의 고객 수락 확인
+## [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
