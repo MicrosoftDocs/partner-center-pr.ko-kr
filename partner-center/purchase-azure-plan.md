@@ -1,22 +1,22 @@
 ---
 title: Azure 플랜 구매 | 파트너 센터
 ms.topic: article
-ms.date: 10/01/2019
-description: 구독마다 주문을 제출하지 않고 여러 Azure 구독 구입
+ms.date: 11/01/2019
+description: Azure 플랜에서 여러 Azure 구독을 구입합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171205"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428519"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure 플랜 구매
 
-Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 Azure 플랜 하나에 여러 Azure 구독을 보유할 수 있습니다. 
+Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 하나의 Azure 플랜에서 여러 Azure 구독을 가질 수 있습니다. 
 
 ## <a name="countryregion-availability"></a>국가/지역 가용성
 Azure용 CSP의 새로운 상거래 환경은 현재 139개 국가에 제공될 예정입니다. [국가/지역](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 전체 목록을 참조하세요. 
@@ -30,9 +30,10 @@ Azure 플랜을 구입하는 방법은 다른 구독을 구매하는 방법과 �
 
 ![구매](images/azure/Azurepurchase1.png)
 
-파트너는 고객이 Microsoft 고객 계약을 검토하고 동의했는지 확인해야 합니다. 자세한 방법은 [고객의 Microsoft 고객 계약 동의 확인](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement)을 참조하세요. 다른 리소스는 [리소스 갤러리](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)에서 사용할 수 있습니다.
+파트너는 고객이 Microsoft 고객 계약을 검토하고 동의했는지 확인해야 합니다. 자세한 방법은 [고객의 Microsoft 고객 계약 동의 확인](https://docs.microsoft.com/partner-center/confirm-customer-agreement)을 참조하세요. 다른 리소스는 [리소스 갤러리](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)에서 사용할 수 있습니다.
 
-1. 확인
+**확인하려면 다음 중 하나를 수행합니다.**
+1. 디지털 방식으로 확인하거나,
 2. Microsoft와 직접 Microsoft 고객 계약에 서명하도록 고객을 초대합니다. 
 
 ### <a name="to-confirm"></a>확인 방법 
@@ -66,7 +67,7 @@ Azure 예약이 활성 Azure 플랜과 연결되어야 합니다. 고객 구독 
 
 현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 
 
-![scopeshared](images/azure/scopeshared.png)
+![scopeshared](images/azure/addprods1.png)
 
 Azure Portal에서 고객의 예약을 관리하는 방법은 다음과 같습니다. 
 
@@ -78,7 +79,7 @@ Azure Portal에서 고객의 예약을 관리하는 방법은 다음과 같습�
 
 **구독** 페이지의 사용량 기반 섹션에서 **Azure 플랜**을 확장하여 Azure 플랜 하에서 연결된 Azure 구독을 확인합니다.
 
-![Viewlist](images/azure/viewlist.png)
+![Viewlist](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>구독 추가 및 리소스 구성

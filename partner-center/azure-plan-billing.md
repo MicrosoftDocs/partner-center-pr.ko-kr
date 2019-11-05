@@ -1,23 +1,24 @@
 ---
 title: Azure 플랜 - 청구 | 파트너 센터
 ms.topic: article
-ms.date: 10/04/2019
-description: 청구서 및 조정 파일 구조에 대해 설명
+ms.date: 11/01/2019
+description: Azure 플랜에 대한 청구서 및 조정 파일 구조에 대해 설명합니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 28e670635ca7fcff60041fcb5c93b3ddd5e4069d
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171296"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428490"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
-Azure 플랜 하에서는 잘 조정된 단일 청구 날짜와 월 기반 청구 기간을 사용하여 간편하게 청구할 수 있습니다. 청구 플랫폼에 대한 자세한 내용은 [파트너 센터 최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)를 참조하세요.
+
+Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다. 청구 플랫폼에 대한 자세한 내용은 [파트너 센터 최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)를 참조하세요.
 
 ## <a name="summary-of-billing-essentials"></a>청구 기본 정보 요약
 
@@ -33,23 +34,60 @@ Azure 플랜 하에서는 잘 조정된 단일 청구 날짜와 월 기반 청�
 
 - **파트너 인센티브**: 청구 월이 끝나고 45일 후에 결제됩니다.
 
-##  <a name="access-your-invoices-and-recon-files"></a>청구서 및 조정 파일 액세스
+##  <a name="access-your-invoices-and-reconciliation-files"></a>청구서 및 조정 파일 액세스
 
 청구서를 볼 수 있게 되면 회사의 글로벌 관리자 또는 대금 청구 관리자에게 이메일을 전송됩니다. 
 
 **청구서 및 조정 파일에 액세스하려면**
 
-1. 파트너 센터에 로그인합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/en-us/dashboard/)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **청구**를 선택합니다.
 
-3. 원하는 **달력 기반**  및 통화에 대한 탭을 선택합니다.
+3. **되풀이** 및 **일회성** 탭과 관심 있는 통화를 선택합니다.
 
 ![청구](images/azure/billing1.png)
 
-4. **청구서 및 조정 파일**을 선택합니다.  
+4. **청구서** 또는 **조정 파일**을 선택합니다.  
 
 과거의 청구서 및 조정 파일을 보려면 아래쪽에서 청구 기록 행을 확장합니다.
+
+
+## <a name="understanding-usage-data"></a>사용량 데이터 이해 
+
+1. Azure 플랜은 사용량에 대한 루트 또는 최상위 컨테이너입니다. 모든 사용량은 단일 Azure 플랜에 다시 연결됩니다. 
+
+2. 플랜 내에는 하나 이상의 Azure 구독이 있습니다. 이러한 구독은 리소스 관리 및 배포에 사용되는 컨테이너입니다. 
+
+3. 구독 내에서 리소스 그룹은 그룹 리소스에 추가됩니다. 모든 리소스는 하나의 리소스 그룹에 배포됩니다. 
+
+4. 리소스의 예로 가상 머신 및 스토리지 계정이 있습니다. 
+
+5. 리소스 내보내기 측정기: 측정기는 리소스의 사용량을 측정하며, 하나의 리소스에서 여러 측정기의 사용량을 내보낼 수 있습니다. 측정기는 ProductId, SKUId 및 AvailabilityId로 식별됩니다. 
+
+### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>구독 리소스 그룹 및 계량의 계층 구조
+
+**Azure 계정(테넌트)**
+
+- 구독 A
+    - ResourceGroup 1
+        - 가상 머신(리소스)
+            - 컴퓨팅 측정기
+        - 가상 네트워크(리소스)
+            - 청구 측정기 없음
+
+    - ResourceGroup 2
+        - 가상 머신(리소스)
+            - 컴퓨터 측정기
+        - 프리미엄 SSD 관리 디스크(리소스)
+            - 스토리지 용량 측정기
+            - 스토리지 작업 수 측정기
+
+- 구독 B   -ResourceGroup 1       - Azure SQL(리소스)           - DTU 측정기       - VPN Gateway(리소스)           - VPN Gateway 측정기
+
+    - ResourceGroup 2
+        - Virtual Network 인터페이스(리소스)
+            - 청구 측정기 없음
 
 ## <a name="read-the-invoice"></a>청구서 읽기
 
@@ -65,15 +103,15 @@ Azure 플랜 하에서는 잘 조정된 단일 청구 날짜와 월 기반 청�
 
 ![청구서](images/azure/invoice1.png)
 
-## <a name="read-the-recon-file"></a>조정 파일 읽기
+## <a name="read-the-invoice-reconciliation-file"></a>청구서 조정 파일 읽기
 
-1. 각 Azure 구독 미터의 조정 파일에 최대 2개의 청구 항목이 있을 수 있습니다.
+1. 각 Azure 플랜과 측정기의 조합은 조정 파일에 최대 두 개의 청구 줄을 포함할 수 있습니다.
 
-2. 미터가 월 전체에 걸쳐 할인 또는 크레딧 자격을 획득한 경우(예: 계층 1 할인 또는 관리형 서비스에 대한 파트너 획득 크레딧) 조정 파일에는 청구 항목이 하나만 포함됩니다. **PriceAdjusmentDescription** 열은 할인 또는 획득한 크레딧을 참조합니다. 유효 단가는 소매 가격에서 파트너가 획득한 크레딧 또는 기타 할인을 뺀 금액입니다.
+2. 측정기가 한 달 전체에 걸쳐 모든 유형의 할인 또는 크레딧(예: 계층화된 할인 또는 관리형 서비스에 대한 파트너 획득 크레딧)에 적합한 경우 조정 파일에는 하나의 청구 줄만 포함됩니다. **PriceAdjusmentDescription** 열은 할인 또는 획득 크레딧을 참조합니다.
 
-3. 미터가 월 전체에 걸쳐 관리형 서비스에 대한 파트너 획득 크레딧 자격을 얻지 못하면 조정 파일에는 청구 항목이 하나만 포함되고 유효 단가는 소매 가격(단가)이 됩니다.
+3. 할인 또는 파트너 획득 크레딧에 적합한 특정 측정기에 대한 리소스가 없으면, 조정 파일에 하나의 청구 줄만 포함되며 유효 단가는 소매 가격(단가)이 됩니다.
 
-4. 미터가 월의 일부 기간에 대해 **관리형 서비스에 대한 파트너 획득 크레딧** 자격을 획득한 경우에는 조정 파일에 두 개의 청구 항목이 포함됩니다. 하나는 미터가 자격을 획득한 날을 표시하고 다른 하나는 미터가 자격을 획득하지 못한 날을 나타냅니다. 
+4. 측정기 또는 해당 측정기를 내보내는 리소스가 월의 일부 동안 **관리형 서비스에 대한 파트너 획득 크레딧**에 적합한 경우 조정 파일에는 두 줄의 청구가 포함됩니다. 하나는 미터가 자격을 획득한 날을 표시하고 다른 하나는 미터가 자격을 획득하지 못한 날을 나타냅니다. 
 
 ## <a name="read-the-daily-usage-file"></a>일일 사용량 파일 읽기
 
@@ -91,49 +129,36 @@ Azure 플랜 하에서는 잘 조정된 단일 청구 날짜와 월 기반 청�
 
     - 미터가 7/8 – 7/31에 **관리형 서비스에 대한 파트너 획득 크레딧** 자격을 획득했습니다(유효 단가는 소매 가격에서 파트너 획득 크레딧을 뺀 가격).
 
-![recon2](images/azure/billing2.png) 
+![recon2](images/azure/pecfinal.png) 
 
 ## <a name="invoice-in-customer-currency"></a>고객 통화로 작성된 청구서 
 
-Azure 플랜을 통한 Azure 서비스는 USD로 가격이 책정되며 고객의 국가에 할당된 통화 요금이 청구됩니다. 청구 통화가 USD가 아니면 사용되는 환율이 청구서의 마지막 페이지에 표시됩니다. 환율은 매월 결정되며 다음 청구서부터 적용됩니다. 국가 통화의 전체 목록은 [최신 상거래 제품 사용 가능 국가 및 고객 통화표](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)를 참조하세요. 
+Azure 플랜을 통한 Azure 서비스는 USD로 가격이 책정되며 고객의 국가에 할당된 통화 요금이 청구됩니다. 청구 통화가 USD가 아닌 경우 사용되는 환율은 청구서의 마지막 페이지에 표시됩니다. 환율은 매월 결정되며 다음 청구서부터 적용됩니다. 국가 통화의 전체 목록은 [최신 상거래 제품 사용 가능 국가 및 고객 통화표](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)를 참조하세요. 
 
-Microsoft는 [톰슨 로이터](https://developers.thomsonreuters.com/content/wm-company)의 환율을 사용하여 청구서 통화 전환에 사용할 가격 책정 통화를 결정합니다. 환율은 매월 1일의 전날에 갱신되어 1일부터 적용됩니다.
+Microsoft는 [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company)를 사용하여 가격 책정 통화를 청구 통화로 변환하는 데 사용되는 환율을 결정합니다. 환율은 적용되는 월의 첫 번째 날짜 이전에 새로 고쳐지고 사용할 수 있습니다.
 
-**예**:  서비스 기간 8월 1일 – 8월 31일의 사용 요금은 8월 1일에 게시된 환율로 청구됩니다. 이 요금은 9월 청구서에 표시되며, 청구서의 마지막 페이지에 환율이 표시됩니다. 
+**예**:  8월 1일 – 8월 31일의 서비스 기간에 대한 사용량 요금은 7월 31일에 게시된 환율을 사용하여 청구됩니다. 이 요금은 9월 청구서에 표시되며, 청구서의 마지막 페이지에 환율이 표시됩니다. 
 
-파트너 테넌트 사용자는 청구 통화에 관계없이 모든 고객과 모든 주문에 대한 역할 관련 정보를 계속 볼 수 있습니다. 또한 사용자는 모든 청구서를 모든 통화로 볼 수 있습니다.  
  
 ## <a name="azure-reservations"></a>Azure Reservations 
 
 Azure 플랜을 통해 [Azure 예약](https://docs.microsoft.com/partner-center/azure-reservations)을 구매하는 경우 파트너 센터에서 일회성 청구를 선택할 수 있습니다. 월별 청구는 Azure Portal에서 사용할 수 있습니다. 파트너 센터에서도 향후 월별 청구를 제공할 예정입니다. 
 
-## <a name="azure-cost-management"></a>Azure Cost Management 
-
-조직에서는 Azure Cost Management 도구를 사용하여 Microsoft Azure의 비용을 시각화하고 관리하고 최적화할 수 있습니다. 이 기능은 Azure Portal에서 사용할 수 있습니다. 파트너는 다음과 같은 기능을 제공하는 상시 사용 가능하고 대기 시간이 짧은 솔루션을 사용할 수 있게 될 것입니다. 
-
-- 풍부한 분석 및 예산 경고 
-- API 및 Power BI 커넥터 
-- 다중 고객 보기 
-- 무료로 Azure 비용 관리 
-- 역할/사용자 확장 
-
-이 기능에 대한 자세한 내용은 2019년 2월부터 기업 계약에 사용할 수 있게 된 [Azure Cost Management](https://azure.microsoft.com/services/cost-management)를 참조하세요. 이 도구는 CSP에서 새 Azure 상거래 환경의 일부로 구매한 Azure 서비스에만 제공됩니다. 
- 
 ## <a name="azure-spending"></a>Azure 지출 
 
-조만간 CSP의 새로운 상거래 환경을 위한 파트너 센터에서 Azure 지출 도구를 사용할 수 있습니다. 이 기능이 적용되면 파트너는 다음 정보를 볼 수 있습니다.  
+기존의 Azure 지출 환경이 파트너 센터에서 새 Azure 플랜 청구서를 지원하도록 업데이트되었습니다. 이를 통해 파트너는 다음을 수행할 수 있습니다.
 
-- 고객의 총 예산 
-- 기존 Azure 플랜의 총 예상 지출 
-- 각 청구 기간의 고객 사용 백분율 
+- 고객 수준에서 설정된 예산에 대한 경고 보기, 관리 및 받기 
 
-Azure 플랜을 통한 Azure 서비스의 청구 모델은 종량제이므로, 청구 금액이 예상을 초과하지 않도록 파트너는 월별 예산을 적용하고 사용량 비율을 추적할 수 있습니다. 예산을 한 고객에게 또는 동시에 여러 고객에게 적용할 수 있습니다. 
+- Azure 플랜에 대한 총 예상 지출 보기(리소스 및 측정기 수준별로 세분화됨)
+
+Azure 플랜을 통한 Azure 서비스의 청구 모델은 후불 사용량 요금제이므로 청구 금액이 예상 금액을 초과하지 않도록 파트너는 월별 예산을 적용하고 사용률을 추적할 수 있습니다. 예산을 한 고객에게 또는 동시에 여러 고객에게 적용할 수 있습니다. 
 
 ![Azure 지출](images/azure/azurespend.png)
 
 **자세한 내용**
 
--  PEC(파트너 획득 크레딧) 계산 방식은 파트너 센터 대시보드를 통해 사용할 수 있는 가격표에서 확인할 수 있습니다. 
+-  PEC(파트너 획득 크레딧)를 계산하는 방법은 파트너 센터 [대시보드](https://partner.microsoft.com/en-us/dashboard/)(로그인 필요)를 통해 사용할 수 있는 가격표에서 확인할 수 있습니다. 
    
 -  [Azure 플랜 구매](purchase-azure-plan.md)
 

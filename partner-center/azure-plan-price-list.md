@@ -1,19 +1,19 @@
 ---
 title: Azure 플랜 가격표 | 파트너 센터
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: Azure 플랜이 적용되는 구독의 가격표를 보는 방법
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171281"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428545"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표 
 
@@ -54,10 +54,9 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 
     - **환율**: 환율은 매월 1일의 전날 6pm PST에 다운로드할 수 있습니다. 예를 들어 11월 환율을 원하는 경우 10월 31일의 환율을 다운로드합니다. 이전 달의 환율도 사용할 수 있습니다.
 
-    - **적격 서비스**: 파트너 획득 크레딧은 파트너가 Azure 플랜 가격 책정 페이지에서 내보낼 수 있는 **Azure 플랜 사용량 가격 책정**에 나열된 서비스에 적용됩니다. 타사 및 Azure Reservations을 포함하여(이에 국한되지 않음) 예외가 있습니다.
-
 - 가격표의 가격은 직접 가격입니다. 일부 파트너는 파트너 획득 크레딧을 받을 수 있습니다. 파트너 획득 크레딧을 계산하는 방법에 대한 자세한 내용은 [파트너 획득 크레딧을 계산 및 지불하는 방법](partner-earned-credit-explanation.md)을 참조하세요.
 
+- **적격 서비스**: 파트너 획득 크레딧은 파트너가 [Azure 플랜 가격 책정](https://partner.microsoft.com/commerce/sales) 페이지에서 내보낼 수 있는 **Azure 플랜 사용량 가격 책정**에 나열된 서비스에 적용됩니다. 참고: Azure 플랜 사용량 가격표 및 Azure 플랜 예약의 태그 열에서 "타사"로 식별된 타사 제품을 포함하지만 이에 국한되지 않는 예외가 있습니다.
 
 ## <a name="price-list-data"></a>가격표 데이터
 

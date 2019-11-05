@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678299"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142025"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -67,6 +67,17 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 아니요, MFA를 적용해야 한다는 요구 사항에서는 어떠한 계정도 제외할 수 없습니다. 파트너가 되려면 매우 높은 권한이 필요하다는 가정하에 [Program Guide for the Cloud Solution Provider program](https://go.microsoft.com/fwlink/p/?LinkId=617100)(클라우드 솔루션 공급자 프로그램에 대한 프로그램 가이드)에서는 파트너 테넌트의 각 계정에 대해 MFA를 적용하도록 합니다.
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>파트너 보안 요구 사항을 충족했는지 확인하려면 어떻게 해야 하나요?
+
+아래 단계를 완료해야 합니다.
+
+- [파트너 보안 요구 사항](https://docs.microsoft.com/partner-center/partner-security-requirements)에 설명된 모든 요구 사항을 충족해야 합니다.
+- 파트너 테넌트의 모든 사용자 계정에 다단계 인증이 적용되어 있는지 확인해야 합니다.
+
+작업을 수행할 수 있는 주요 영역을 식별하는 데 도움이 되도록 파트너 센터를 통해 사용할 수 있는 [보안 요구 사항 상태](https://partner.microsoft.com/pcv/security/compliance) 보고서를 제공합니다.
+
+상태 보고서에 대한 자세한 내용은 [파트너 보안 요구 사항 상태](https://docs.microsoft.com/partner-center/partner-security-compliance)를 참조하세요.
+
 ## <a name="required-actions"></a>필요한 작업
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>요구 사항을 충족하기 위해 수행해야 하는 주요 작업은 무엇인가요?
@@ -93,7 +104,7 @@ CSP 프로그램(직접 청구, 간접 공급자 및 간접 재판매인)의 모
     모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다. 이렇게 하지 않으면 MFA 배포로 인해 중단될 수 있습니다. 다음은 이 모델을 채택하는 방법에 대한 개요 및 지침을 제공하는 리소스입니다.
 
     - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ CSP 프로그램(직접 청구, 간접 공급자 및 간접 재판매인)의 모
 
     제어판을 사용하는 경우 보안 애플리케이션 모델 프레임워크 채택과 관련하여 공급업체에 문의해야 합니다.
 
-    제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](https://docs.microsoft.com/partner-center/enroll-as-cpv)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
+    제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](https://docs.microsoft.com/partner-center/enroll-as-cpv)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
@@ -237,18 +248,18 @@ Azure AD 테넌트가 실수로 잠기지 않도록 하려면 하나 또는 두 
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>요구 사항을 충족하려면 누가 보안 애플리케이션 모델을 채택해야 하나요?
 
-Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다.
+Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다.
 
 ### <a name="what-is-the-secure-application-model"></a>보안 애플리케이션 모델이란 무엇인가요?
 
-Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요.  
+Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요.  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>보안 애플리케이션 모델을 구현하려면 어떻게 하나요?
 
 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다. 이렇게 하지 않으면 MFA 배포로 인해 중단될 수 있습니다. 다음은 이 모델을 채택하는 방법에 대한 개요 및 지침을 제공하는 리소스입니다.
 
 - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 제어판을 사용하는 경우 보안 애플리케이션 모델 프레임워크 채택과 관련하여 공급업체에 문의해야 합니다.
 
-제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](https://docs.microsoft.com/partner-center/enroll-as-cpv)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
+제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](https://docs.microsoft.com/partner-center/enroll-as-cpv)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>CPV(제어판 공급업체)는 누구인가요?
 
-제어판 공급업체는 CSP 파트너가 파트너 센터 API와 통합하는 데 사용할 앱을 개발하는 독립 소프트웨어 공급업체입니다. 제어판 공급업체는 파트너 센터 대시보드 또는 API에 직접 액세스할 수 있는 CSP 파트너가 아닙니다. 자세한 설명은 [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) 내에서 제공됩니다.
+제어판 공급업체는 CSP 파트너가 파트너 센터 API와 통합하는 데 사용할 앱을 개발하는 독립 소프트웨어 공급업체입니다. 제어판 공급업체는 파트너 센터 대시보드 또는 API에 직접 액세스할 수 있는 CSP 파트너가 아닙니다. 자세한 설명은 [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) 내에서 제공됩니다.
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>파트너 센터 API/SDK에 대해서만 보안 애플리케이션 모델을 구현해야 하나요?
 
@@ -296,7 +307,7 @@ CPV는 등록 링크를 받기 위해 [CPVHelp@microsoft.com](mailto:CPVHelp@mic
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>파트너 센터 SDK를 사용하고 있습니다. SDK에서 보안 애플리케이션 모델을 자동으로 채택하나요?
 
-아니요, [Secure Application Model guide](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 가이드)에 제공된 지침을 따라야 합니다.
+아니요, [Secure Application Model guide](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 가이드)에 제공된 지침을 따라야 합니다.
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>MFA를 사용하도록 설정하지 않은 계정으로 보안 애플리케이션 모델에 대한 새로 고침 토큰을 생성할 수 있나요?
 
@@ -304,7 +315,7 @@ CPV는 등록 링크를 받기 위해 [CPVHelp@microsoft.com](mailto:CPVHelp@mic
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>MFA를 사용하는 경우 애플리케이션에서 액세스 토큰을 가져오려면 어떻게 해야 하나요?
 
-새 보안 요구 사항을 준수하면서 이 작업을 수행하는 방법에 대한 정보를 제공하는 [Secure Application Model guide](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 가이드)를 따라야 합니다. .NET 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)에서 확인하고 Java 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)에서 확인할 수 있습니다.
+새 보안 요구 사항을 준수하면서 이 작업을 수행하는 방법에 대한 정보를 제공하는 [Secure Application Model guide](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 가이드)를 따라야 합니다. .NET 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)에서 확인하고 Java 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)에서 확인할 수 있습니다.
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>CPV로서 CPV 테넌트 또는 CSP 파트너의 테넌트에 Azure AD 애플리케이션을 만들어야 하나요?
 
@@ -312,7 +323,7 @@ CPV는 CPV로서 등록과 연관된 테넌트에 Azure Active Directory 애플�
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>앱 전용 인증을 사용하고 있는 CSP입니다. 변경해야 하나요?
 
-액세스 토큰을 요청하는 데 사용자 자격 증명이 사용되고 있지 않으므로 앱 전용 인증은 영향을 받지 않습니다. 사용자 자격 증명이 공유되고 있는 경우 CPV(제어판 공급업체)는 [Secure Application Model framework](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 프레임워크)를 채택하고 보유하고 있는 기존 파트너 자격 증명을 모두 제거해야 합니다.
+액세스 토큰을 요청하는 데 사용자 자격 증명이 사용되고 있지 않으므로 앱 전용 인증은 영향을 받지 않습니다. 사용자 자격 증명이 공유되고 있는 경우 CPV(제어판 공급업체)는 [Secure Application Model framework](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 프레임워크)를 채택하고 보유하고 있는 기존 파트너 자격 증명을 모두 제거해야 합니다.
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>CPV는 앱 전용 인증 스타일을 활용하여 액세스 토큰을 받을 수 있나요?
 
@@ -347,7 +358,7 @@ CPV는 CPV로서 등록과 연관된 테넌트에 Azure Active Directory 애플�
 ### <a name="resources-for-adopting-secure-application-model"></a>보안 애플리케이션 모델 채택에 대한 리소스
 
 - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [파트너 센터: 보안 애플리케이션 모델 가이드](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)

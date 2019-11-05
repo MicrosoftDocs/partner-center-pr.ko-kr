@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425207"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141976"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 
@@ -80,44 +80,7 @@ Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스�
 
 ## <a name="accessing-your-environment"></a>환경 액세스
 
-다단계 인증을 요구받지 않고 인증하는 주체를 정확하게 파악하려면 Azure Active Directory 감사 로그를 쿼리하는 것이 좋습니다. 이러한 작업은 [Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) 모듈과 아래의 스크립트를 사용하여 수행할 수 있습니다. 전날에 다단계 인증을 요구받지 않고 발생한 인증 시도에 대한 인사이트를 제공하는 보고서가 생성됩니다.
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-위의 스크립트를 실행한 후에는 report.csv 파일에서 세부 정보를 볼 수 있습니다. 여기에는 사용자에게 MFA 챌린지에 대한 메시지가 표시되지 않았던 전날에 발생한 인증 시도 목록이 포함됩니다. 각 항목을 검토하여 올바른 동작인지 확인하고 필요한 경우 작동하는지 확인해야 합니다.
-
-![평가 도구](images/security/assessment-report.png)
+다단계 인증을 수행하지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 활용할 수 있습니다. 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 보고서를 가져오는 방법을 찾고 있으면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 활용해야 합니다.
 
 ## <a name="how-the-requirements-will-be-enforced"></a>요구 사항이 적용되는 방식
 

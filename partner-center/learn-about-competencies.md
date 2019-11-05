@@ -1,18 +1,18 @@
 ---
 title: Gold 및 Silver 멤버십을 위한 Microsoft 역량 요구 사항 | 파트너 센터
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Gold 및 Silver 멤버십 레벨 획득을 위한 역량 요구 사항에 대해 알아보기
 author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318858"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413361"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft Gold 및 Silver 역량과 고급 전문 분야에 대한 정보
 
@@ -24,6 +24,8 @@ ms.locfileid: "71318858"
 - **Gold 멤버십**을 획득하면 특정 Microsoft 솔루션 영역 내에서 동급 최고의 역량을 입증할 수 있습니다.
 
 - Gold 파트너 구성원으로서 포트폴리오에 고급 전문 분야를 추가할 수도 있습니다.
+
+**Silver 멤버 자격** 또는**Gold 멤버 자격** 역량을 획득하면 비즈니스를 확장하고 성장시키는 데 도움이 되는 강력한 [시장 진출](mpn-learn-about-go-to-market-benefits.md) 마케팅 및 판매 혜택을 얻을 수 있습니다.
 
 ## <a name="competency-areas"></a>역량 영역
 
@@ -40,6 +42,8 @@ Silver 및 Gold 역량 수준은 각 영역에 대한 요구 사항이 다릅니
 
 
 [Silver 및 Gold 멤버십을 획득하기 위한 요구 사항](https://partner.microsoft.com/membership/competencies)을 알아보세요.
+
+[Silver 및 Gold 멤버 자격에서 사용할 수 있는 특정 시장 진출 혜택](mpn-learn-about-go-to-market-benefits.md)을 알아보세요. 
 
 [역량의 청구서 및 세금](mpn-view-print-maps-invoice.md)에 대해 알아보세요.
 

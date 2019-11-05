@@ -1,23 +1,23 @@
 ---
 title: Azure 플랜으로 이동 - 시작| 파트너 센터
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Azure의 새로운 상거래 환경에서 구독을 구입합니다.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, Azure 플랜, 구독 구입, 구독
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171273"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428447"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure 플랜으로 이동 - 시작
 
-Microsoft는 Microsoft 파트너 계약에 서명한 Azure 파트너를 위해 CSP에 새로운 상거래 환경을 도입했습니다. 이 새로운 상거래 환경을 통해 파트너는 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다. 
+Microsoft는 새로운 상거래 환경을 파트너 센터에 도입했습니다.  이 새로운 상거래 환경을 통해 파트너는 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다. 
 
 이 플랜은 구매 환경을 단순화합니다. Azure 플랜 하나로 여러 Azure 구독을 사용할 수 있습니다. 더 이상 Azure 구독마다 별도의 주문을 제출할 필요가 없습니다. 그리고 Azure를 위한 이 새로운 상거래 환경에서는 단일 글로벌 가격 책정 원칙이 적용되므로 CSP 파트너는 게시된 가격으로 Azure를 제공할 수 있습니다. 
 
@@ -25,7 +25,7 @@ Microsoft는 Microsoft 파트너 계약에 서명한 Azure 파트너를 위해 C
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>고객이 Microsoft 고객 계약에 서명했는지 확인
 
-2019년 10월 1일부터 고객은 완전 디지털 프로세스를 통해 고객 구매 환경을 간소화 및 효율화하는 영구적 계약인 Microsoft 고객 계약에 디지털로 서명할 수 있습니다. Azure용 CSP의 새로운 상거래 환경을 활용하려는 모든 고객은 Microsoft 고객 계약에 서명해야 합니다.
+2019년 10월 1일부터 고객은 완전한 디지털 프로세스를 사용하여 고객 구매 환경을 간소화하고 능률화하는 영구 계약인 Microsoft 고객 계약을 통해 디지털 방식으로 서명할 수 있습니다. Azure용 CSP의 새로운 상거래 환경을 활용하려는 모든 고객은 Microsoft 고객 계약에 서명해야 합니다.
 
 전체 내용은 [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)을 참조하세요.
 
