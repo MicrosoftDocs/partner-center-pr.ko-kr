@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot, windows autopilot, microsoft autopilot, zero touch 배포, oobe, 로그인 화면, 기본
 ms.localizationpriority: medium
-ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
+ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708749"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "73544047"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치의 기본 제공 경험을 사용자 지정
 
@@ -68,7 +68,7 @@ Autopilot에 익숙하지 않은 경우 다음 문서의 정보를 검토 하세
 
 3. **Windows Autopilot 프로필** 에서 **추가 새 프로필**을 선택 합니다.
 
-4. 프로필의 이름과 설명을 입력 하 고 OOBE 설정을 구성 합니다. 다음 중에서 선택합니다.  
+4. 프로필의 이름과 설명을 입력 하 고 OOBE 설정을 구성 합니다. 다음 중에서 선택 합니다.  
 
    - 설치에서 개인 정보 설정 건너뛰기
 
@@ -158,6 +158,27 @@ OEM 이름, 일련 번호 및 모델 조합을 사용할 계획인 경우 다음
 5. .Csv 파일을 업로드 하 고 **저장**을 선택 합니다.
 
 .Csv 파일을 업로드 하는 동안 오류 메시지가 나타나면 파일의 형식을 확인 합니다. 하드웨어 해시만 또는 OEM 이름, 일련 번호 및 모델 (해당 열 순서 대로) 또는 Windows 제품 ID를 사용할 수 있습니다. 장치 **추가** 옆에 있는 링크에서 제공 된 샘플 .csv 파일을 사용 하 여 장치 목록을 만들 수도 있습니다.
+
+.Csv 파일의 모양은 다음과 같습니다.
+
+> **장치 일련 번호, Windows 제품 ID, 하드웨어 해시, 제조업체 이름, 장치 모델**
+
+> **{,,,) Microsoft Corporation, Surface 노트북**
+
+"제조업체 이름" 및 "장치 모델"은 대/소문자를 구분 합니다.
+
+제조업체 이름 및 장치 모델에 넣을 값을 모르는 경우 장치에서이를 실행 하 여 올바른 값을 수집할 수 있습니다.
+
+<pre><code>md c:\\HWID
+
+Set-Location c:\\HWID
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted
+
+Install-Script -Name Get-WindowsAutoPilotInfo
+
+Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
+</code></pre>
 
 ## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA 해제
 
