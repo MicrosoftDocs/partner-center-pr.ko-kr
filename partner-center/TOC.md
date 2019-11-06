@@ -100,6 +100,7 @@
 ## [고객의 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
 ## [일반적인 청구 시나리오](common-billing-scenarios.md)
 ## [미결제, 사기 또는 오용](non-payment--fraud--or-misuse.md)
+## [Office 365 파트너 자문: CSP의 Microsoft 365 Voice](o365-partner-advisory.md)
 
 # [고객과의 관계 구축](customer-accounts.md)
 ## [새 고객 추가](add-a-new-customer.md)
@@ -122,7 +123,7 @@
 ### [Azure 플랜 구매](purchase-azure-plan.md)
 ### [Azure 제품 비교](compare-azure-offers.md)
 ### [고객을 Azure 플랜으로 전환](azure-plan-transition.md)
-### [파트너 획득 크레딧 - 개요](partner-earned-credit-overview.md)
+### [파트너 획득 크레딧 - 개요](partner-earned-credit.md)
 ### [파트너 획득 크레딧을 계산 및 지불하는 방법](partner-earned-credit-explanation.md)
 ### [CSP의 새로운 상거래 환경 - Azure 청구](azure-plan-billing.md) 
 ### [Azure용 CSP의 새로운 상거래 환경에 대한 가격표](azure-plan-price-list.md)
