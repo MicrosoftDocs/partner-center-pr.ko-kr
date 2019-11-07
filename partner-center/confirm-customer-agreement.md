@@ -2,23 +2,25 @@
 title: 고객의 Microsoft 고객 계약 동의 확인 | 파트너 센터
 ms.topic: article
 ms.date: 09/30/2019
-Description: 파트너는 해당 고객에 대해 Microsoft 제품 및 서비스를 주문하기 전에 Microsoft 고객 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정 준수 요구 사항을 충족하도록 돕기 위해 Microsoft는 계약에 동의한 사람과 관련해 특정 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: 파트너는 해당 고객에 대 한 Microsoft 제품 및 서비스를 주문 하기 전에 고객이 Microsoft 고객 계약에 동의 해야 합니다. 파트너가 규정 준수 요구 사항을 충족하도록 돕기 위해 Microsoft는 계약에 동의한 사람과 관련해 특정 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704181"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653649"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약의 고객 승인 확인
 
-현재는 고객이 해당 **Microsoft 클라우드 계약**에 동의하고 서명해야 CSP 파트너가 고객을 대신하여 주문할 수 있습니다. 그러면 파트너가 Microsoft에 서명자에 대한 정보를 제공하여 고객의 동의 여부를 확인해야 합니다. 확인이 제공되지 않는 경우:
-- 이 고객에 대해 새로운 주문을 생성할 수 없습니다.
-- 이 고객에 대해 기존의 사용자 수 기준 구독의 사용자 수를 변경할 수 없습니다.
+현재는 CSP 파트너가 고객을 대신 하 여 주문할 수 있기 전에 해당 하는 **Microsoft 클라우드 계약**에 동의 하 고 서명 해야 합니다. 그러면 파트너가 Microsoft에 서명자에 대한 정보를 제공하여 고객의 동의 여부를 확인해야 합니다. 확인이 제공되지 않는 경우:
+- 이 고객에 대 한 새 주문을 만들 수 없습니다.
+- 이 고객에 대 한 기존 사용자 기반 구독의 좌석 수를 변경할 수 없습니다.
 
 파트너 센터 대시보드 또는 API를 사용하여 고객의 Microsoft 클라우드 계약 동의 여부를 확인하는 방법에 대한 자세한 내용은 [Microsoft 클라우드 계약에 대한 고객 동의 여부 확인](confirm-consent.md)을 참조하세요.
 

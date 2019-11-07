@@ -2,17 +2,19 @@
 title: PMC에서 파트너 센터로 이동 | 파트너 센터
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: PMC와 파트너 센터의 차이점과 유사점 이해
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921470"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653274"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
 
@@ -32,7 +34,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|본사 및 위치 - 각각 별도로 평가됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](https://docs.microsoft.com/partner-center/account-structure.md)를 참조하세요.|
+|본사 plus 위치-각각 별도로 평가 됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](https://docs.microsoft.com/partner-center/account-structure.md)를 참조하세요.|
 
 ## <a name="sign-in"></a>로그인
 
@@ -84,7 +86,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 |바우처 유효성 검사 및 사용 도구| 바우처 유효성 검사 및 사용 도구|
 |           |클라우드 솔루션 공급자 프로그램|
 
-MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 다음 MSA 할당을 제거하면 파트너 센터에 다시 추가할 수 없습니다.
+MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 MSA 할당을 제거 하는 경우 파트너 센터에 다시 추가할 수 없습니다.
 
 파트너 센터에서 파트너는 동일한 테넌트(여기서 파트너는 Azure AD 테넌트의 MPN 관리자임)의 MSA인 회사 계정 및 게스트 사용자 계정을 추가할 수 있습니다. 파트너가 여러 Azure AD 테넌트에서 전역 관리자이고 이러한 모든 테넌트가 동일한 파트너 센터 계정과 연결된 경우 파트너는 이러한 모든 테넌트의 사용자를 Visual Studio 혜택 및 Azure 사용량 기반 할당에 추가할 수 있습니다.
 

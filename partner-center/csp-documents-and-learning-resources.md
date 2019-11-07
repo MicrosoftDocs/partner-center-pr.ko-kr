@@ -2,18 +2,20 @@
 title: CSP 계약, 가격표 및 제품 | 파트너 센터
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 이 문서에는 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크가 포함되어 있습니다.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204636"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653566"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -73,4 +75,4 @@ CSP의 파트너로서 Office 365, Enterprise Mobility Suite, Microsoft Dynamics
 
 Crest Usage Record API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
-ISV(Independent Software Vendors)에서 게시한 Azure Marketplace 제품에 대해 알아보려면 왼쪽 탐색 메뉴에서 **Marketplace** 페이지를 방문하세요. 현재 SaaS(Software as a Service) 제품 유형만 파트너 센터에서 구매할 수 있습니다. 다른 유형의 Azure Marketplace 제품을 구하려면 Azure Portal을 방문해야 합니다.
+ISV(Independent Software Vendors)에서 게시한 Azure Marketplace 제품에 대해 알아보려면 왼쪽 탐색 메뉴에서 **Marketplace** 페이지를 방문하세요. 현재 SaaS(Software as a Service) 제품 유형만 파트너 센터에서 구매할 수 있습니다. Azure Portal를 방문 하 여 다른 유형의 Azure Marketplace 제안을 획득 해야 합니다.

@@ -2,17 +2,19 @@
 title: 채택률 및 만족도 높이기 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 당사 파트너는 비즈니스 성장 여부와 투자 중점 분야를 평가하기 위해 많은 메트릭을 사용합니다. 파트너 센터에서는 고객이 구매한 라이선스를 사용하는 경우와 그 방법에 대한 데이터를 제공하여 도움을 드릴 수 있습니다.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134493"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653344"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -30,13 +32,13 @@ ms.locfileid: "62134493"
 ## <a name="find-license-and-user-data"></a>라이선스 및 사용자 데이터 찾기
 
 
-**단일 고객을 위한**
+**단일 고객의 경우**
 
--   선택 **고객** 에서 합니다 **파트너 센터**고객을 선택한 선택 **Customer insights**합니다.
+-   **파트너 센터** **에서 고객을 선택 하** 고 고객을 선택한 다음 **customer insights**를 선택 합니다.
 
 **포트폴리오에서**
 
-1.  에 **파트너 센터**를 선택 **분석**합니다.
+1.  **파트너 센터**에서 **분석**을 선택 합니다.
 2.  **내보내기** 옵션을 선택하여 전체 고객 집합에서 배포 및 사용 현황 데이터를 다운로드합니다.
 
 용어:
@@ -62,7 +64,7 @@ ms.locfileid: "62134493"
 ## <a name="next-steps"></a>다음 단계
 
 
-많은 도움말 및 방법 관련 질문을 처리하지만 계정의 채택 수치가 낮거나 상향 판매 기회를 찾는 경우 교육 과정의 제공을 고려할 수 있습니다. 고객에게 구매한 클라우드 솔루션 소프트웨어를 더 잘 사용하는 방법을 알려주면 생산성 및 만족도가 증가하고 지원 요구가 감소합니다.
+많은 도움말과 방법에 대 한 질문을 fielding은, 계정에 도입 번호가 낮거나 상향 판매 기회를 찾고 있는 경우 교육 과정을 제공 하는 것이 좋습니다. 구매한 클라우드 솔루션 소프트웨어를 보다 효율적으로 사용 하는 방법을 고객에 게 교육 함으로써 생산성과 만족도가 증가 하는 것을 확인할 수 있으며 지원 요구가 감소 합니다.
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ ms.locfileid: "62134493"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>문제:</strong> 사용자 도입 률이, 저가 및 여러 라이선스 유효 하지&#39;t를 사용 합니다.</p>
-<p><strong>고려해 야 할 사항:</strong> 고객에 게 소프트웨어를 제공할 수 있는 값을 이해 하지 않을 수 있습니다. 해당 소프트웨어를 일상적인 업무에 통합하여 이미 수행 중인 작업을 단순화하거나 새로운 종류의 생산성을 가능하게 할 수 있는 방법을 구상하는 데 도움이 필요합니다.</p>
-<p><strong>해결 방법:</strong> 사례 연구, 특정 시나리오, 자습서 블로그를 읽거나 비디오에 대 한 사용자 의견</p></td>
+<td><p><strong>문제:</strong> 사용자 채택 속도가 낮고 많은 라이선스&#39;를 사용 하지 않습니다.</p>
+<p><strong>고려할 사항:</strong> 고객이 소프트웨어가 제공할 수 있는 가치를 이해하지 못한 것일 수 있습니다. 사용자가 이미 수행 하 고 있는 작업을 간소화 하거나 새로운 종류의 생산성을 설정 하기 위해 해당 날짜에 통합할 수 있는 방법을 구상 하는 데 도움이 필요 합니다.</p>
+<p><strong>해결 방법:</strong> 사례 연구, 특정 시나리오에 대한 사용자 추천, 자습서 블로그 또는 동영상을 이용합니다.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>문제:</strong> 도움말 및 방법 질문에 대 한 지원 통화 상당히 많은 방법이 있습니다.</p>
-<p><strong>고려해 야 할 사항:</strong> 고객은 소프트웨어, 제품 버전, 또는 해당 작업에 새 수 있습니다.</p>
-<p><strong>해결 방법:</strong> 고객을 높이기 위해 학습 (직접에서 또는 온라인) 제품에 대 한 이중 전략을 사용할 수 있습니다&#39;s도 고객에 게 제공 되는 셀프 서비스 옵션 중 일부를 승격 하는 동안 전체 전문 지식.</p>
+<td><p><strong>문제:</strong> 도움말 및 방법 관련 질문을 하기 위한 지원 전화가 많습니다.</p>
+<p><strong>고려할 사항:</strong> 고객이 소프트웨어, 제품 버전 또는 해당 작업을 처음 접하는 것일 수 있습니다.</p>
+<p><strong>시도 하는 작업:</strong> 직원 또는 온라인 교육을 제공 하는 이중 전략을 사용 하 여 고객&#39;의 전반적인 전문 지식을 높이고 고객에 게 제공 되는 셀프 서비스 옵션 중 일부를 승격 시킬 수 있습니다.</p>
 <p>지원 연락처 정보 외에 <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">고객 자가 지원</a> 항목에 설명된 셀프 서비스 옵션도 포함하도록 지원 사이트를 다시 디자인할 수 있습니다.</p></td>
 </tr>
 </tbody>

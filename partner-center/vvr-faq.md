@@ -2,19 +2,21 @@
 title: 증명서 유효성 검사 도구 FAQ | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 파트너 센터에서 바우처 유효성 검사 및 예약
 author: LauraBrenner
 ms.author: labrenne
 keywords: 바우처 교육, 소프트웨어 보증, 교육, 바우처 유효성 검사, 예비 상품권
 ms.localizationpriority: medium
-ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820505"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651059"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: 바우처 유효성 검사 및 사용 도구 사용 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : 바우처 유효성 검사 및 사용 도구 사용 
 
 **적용 대상**
 

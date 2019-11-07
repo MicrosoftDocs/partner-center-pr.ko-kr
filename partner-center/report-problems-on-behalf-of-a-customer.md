@@ -2,18 +2,20 @@
 title: 고객 대신 문제 보고 | 파트너 센터
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 고객에게 해결할 수 없는 서비스 문제가 발생하고 Microsoft로 문제 에스컬레이션에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 서비스 요청, 서비스 티켓, 지원, 지원 권한, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f01713dcafd0a24c8b7fb5d8a8af33bdf5ff781
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578779"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654120"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -52,11 +54,11 @@ ms.locfileid: "69578779"
 해당 고객에 대한 관리자 권한이 없는 경우 고객에 대한 지원 요청을 만들어야 할 수 있습니다. 이는 다음과 같은 두 시나리오 중 하나에 해당할 수 있습니다. 
  
 -   처음 관계를 설정할 때 관리자 권한을 요청하지 않은 경우
--   한 고객의 Azure 구독을 관리하고, 다른 고객은 관리하지 않아서 관리 권한이 필요 없는 경우
+-   고객의 Azure 구독을 관리 하 고 다른 사용자는 관리 권한이 없어도 됩니다.
  
 이러한 경우 다음 절차에 따라 지원 요청을 만들 수 있습니다. 
 
-1. 파트너 센터의 계정 페이지에서 고객의 도메인 이름을 복사합니다.
+1. 파트너 센터의 계정 페이지에서 고객의 도메인 이름을 복사 합니다.
 
 2. https://portal.azure.com/ [customerdomainname]으로 이동합니다. 
 
@@ -67,7 +69,7 @@ ms.locfileid: "69578779"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 **자세히...** 를 선택해야 할 수도 있습니다.    
+1. **서비스 요청 만들기** 섹션에서 해당하는 지원 항목 범주를 선택합니다. 추가 항목을 보려면 추가 **...** 를 선택 해야 할 수도 있습니다.    
 2. 서비스 요청 양식을 작성하고 **제출**을 선택합니다.
 
    > [!TIP]
@@ -77,7 +79,7 @@ ms.locfileid: "69578779"
 
 ### <a name="support-for-commercial-marketplace-products"></a>상업용 마켓플레이스 제품에 대한 지원
 
-Microsoft는 상업적 마켓플레이스 제품에 대한 지원을 제공하지 않습니다. 지원을 받으려면 제품을 게시한 ISV(Independent Software Vendor)에 문의해야 합니다.
+Microsoft는 상업적 마켓플레이스 제품에 대한 지원을 제공하지 않습니다. 지원을 받으려면 제품을 게시 한 ISV (독립 소프트웨어 공급 업체)에 문의 해야 합니다.
 
 ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
@@ -126,7 +128,7 @@ Office 365 관리 센터에 직접 로그인하면 고객 컨텍스트가 아니
 
 **추가적인 Dynamics 365 지원을 받는 방법**
 
-Dynamics 365 계획 구독, 라이선싱, 청구, 재무 및 운영, Dynamics 365 제품 라이선스와 관련해 문제가 발생한 경우에는 추가적인 기술 지원이 필요합니다.
+Dynamics 365 계획 구독, 라이선스, 청구, 재무 & 작업, Dynamics 365 제품 라이선스와 관련 된 문제가 발생 하거나 추가 기술 지원이 필요 합니다.
  
 [Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)에 문의
 

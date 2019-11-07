@@ -2,17 +2,19 @@
 title: 파트너의 획득 크레딧을 계산 하는 방법 | 파트너 센터
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure 계획의 파트너 획득 크레딧 측면을 계산 하는 방법
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eb0dd5ef22632a85ca0227cc9e988a88263e9ddf
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318776"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653716"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>파트너 획득 신용 (PEC)를 계산 하는 방법
 
@@ -44,4 +46,4 @@ Azure 구독 관리에 대 한 액세스 권한을 얻는 방법 및 MPN ID를 R
 
 - [Azure 계획-청구](azure-plan-billing.md)
 
-- [CSP의 새로운 상거래 환경에 대 한 가격 목록](azure-plan-price-list.md)
+- [CSP의 새로운 상거래 환경에 대한 가격표](azure-plan-price-list.md)

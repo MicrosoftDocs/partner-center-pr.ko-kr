@@ -2,16 +2,18 @@
 title: 다른 파트너와 협력 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 귀사가 공유하는 고객의 요구 사항을 충족할 수 있도록 CSP의 다른 파트너와 협력하세요.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820540"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651153"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 
@@ -19,7 +21,7 @@ ms.locfileid: "68820540"
 
 -  파트너 센터
 
-Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램은 파트너들이 다음과 같은 방법으로 협력할 수 있는 기회를 제공합니다.
+Microsoft의 CSP (클라우드 솔루션 공급자) 프로그램은 파트너가 이러한 방식으로 함께 작업할 수 있는 기회를 제공 합니다.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>간접 공급자-간접 재판매인 모델
 
@@ -41,15 +43,15 @@ CSP에 간접 재판매인으로 등록해야 하는지 아니면 직접 파트�
 
 ## <a name="multi-partner-support"></a>다중 파트너 지원
 
-파트너 센터의 다중 파트너 기능은 고객이 둘 이상의 파트너와 협력해야 하는 시나리오를 지원합니다. 예를 들어 고객이 Office 365 전문 파트너 한 곳과 Microsoft Azure 전문 파트너 한 곳을 고용하려 할 수 있습니다. 자세한 내용은 [다중 파트너 지원](multipartner.md)을 참조하세요.
+파트너 센터의 다중 파트너 기능은 고객이 둘 이상의 파트너와 함께 작업 해야 하는 경우의 시나리오를 지원 합니다. 예를 들어 고객이 Office 365 전문 파트너 한 곳과 Microsoft Azure 전문 파트너 한 곳을 고용하려 할 수 있습니다. 자세한 내용은 [다중 파트너 지원](multipartner.md)을 참조하세요.
 
 다중 파트너 지원은 Microsoft의 국가별 클라우드 제품에서도 사용할 수 있습니다. 
 
 ## <a name="multi-channel-support"></a>다중 채널 지원
 
-파트너 센터의 다중 채널 기능은 고객이 다른 곳에서 구입한 구독을 프로비전하고 지원할 파트너를 고용하려는 시나리오를 지원합니다. 자세한 내용은 [다중 채널 지원](multichannel.md)을 참조하세요.
+파트너 센터의 다중 채널 기능은 고객이 다른 곳에서 구매한 구독을 프로 비전 하 고 지원 하기 위해 파트너를 고용 하려는 경우의 시나리오를 지원 합니다. 자세한 내용은 [다중 채널 지원](multichannel.md)을 참조하세요.
 
 다중 채널 지원은 Microsoft의 국가별 클라우드 제품에서도 사용할 수 있습니다.
 
 > [!IMPORTANT]  
-> CSP 프로그램의 파트너가 현재 CSP 프로그램의 다른 파트너에 온라인 서비스을 재판매 수 없습니다. Microsoft는 모든 프로그램의 정책 및 기능을 지속적으로 검토 합니다. 기능 릴리스 또는 정책 변경에 대 한 모든 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 비롯 한 일반적인 통신 채널을 통해 발표 됩니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.

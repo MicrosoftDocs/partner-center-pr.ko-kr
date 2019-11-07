@@ -2,17 +2,19 @@
 title: Azure Reserved VM Instances(RI) + Azure에 대한 서버 구독 | 파트너 센터
 ms.topic: article
 ms.date: 7/30/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft는 Azure RI와 서버 구독을 CSP 프로그램에 연결하여 파트너들이 보다 비용 효과적인 솔루션에 대한 고객의 급증하는 요구를 충족하여 예측성이 뛰어난 영구적인 클라우드 워크로드를 지원하도록 적극 돕고 있습니다. CSP 프로그램을 통해 파트너는 상용 고객을 대신하여 Microsoft 파트너 센터 및 Azure Portal을 통해 Azure RI 및 서버 구독을 획득, 프로비저닝 및 관리할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820336"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653795"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -35,7 +37,7 @@ Azure Reservations 1 년 또는 3 년간의 가상 머신에 대해 사전 지�
 
 Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을 제공 하 여 높은 예측 가능 하 고 지속적인 클라우드 워크 로드를 지원 하기 위해 더 비용 효율적인 솔루션에 대해 신속 하 게 성장 하는 고객의 요구를 해결 하는 데 도움이 됩니다. CSP 프로그램을 통해 파트너는 Microsoft 파트너 센터 및 Azure Portal을 통해 상용 고객을 대신 하 여 Azure Reservations 및 서버 구독을 얻고 프로 비전 하 고 관리할 수 있습니다. Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이터 센터 확장을 비롯 한 광범위 한 컴퓨팅 솔루션을 위한 유연성을 고객에 게 제공 합니다. 
 
-예를 들어, 상용 고객은 이제 1 년 또는 3 년 동안 가상 머신을 구매 하거나 "예약" 하는 방법으로 간단 하 게 최대 72% 및 종 량 제 Azure VM 가격 책정을 절감할 수 있습니다. [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) Software Assurance와 함께 제공되는 Azure 하이브리드 혜택을 통해 Windows Server 고객은 종량제 요금에 비해 최대 80%까지 비용을 절감할 수 있습니다. 
+예를 들어, 상용 고객은 이제 1 년 또는 3 년 동안 가상 머신을 구매 하거나 "예약" 하 여 간단 하 게 최대 72% 및 종 량 제 Azure VM 가격 책정을 절감할 수 있습니다. [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) Software Assurance와 함께 제공되는 Azure 하이브리드 혜택을 통해 Windows Server 고객은 종량제 요금에 비해 최대 80%까지 비용을 절감할 수 있습니다. 
 
 뛰어난 가격과 일치 하지 않는 배포 유연성의 조합을 사용 하 여 고객은 Azure Reservations 선택 하는 경우 가장 적합 한 전체 값을 볼 수 있습니다.
 
@@ -44,7 +46,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 -   SQL DB 예약
 -   SQL Managed Instance
 -   Azure Cosmos DB
--   Azure SQL 데이터 웨어하우스
+-   Azure SQL Data Warehouse
 -   App Services
 -   Azure Databricks 단위 예약
 
@@ -61,7 +63,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 #### <a name="isv-annual-subscriptions"></a>ISV 연간 구독
 -   CloudSimple의 Azure VMware 솔루션
 
-## <a name="getting-started"></a>시작
+## <a name="getting-started"></a>시작하기
 
 고객을 대상으로 Azure Reservations를 포지셔닝하고 가능한 빠르게 작동을 시작하고 실행하는 방법을 이해하려면 다음과 같은 접근 방식으로 준비 자료를 검토하는 것이 좋습니다.
 
@@ -97,7 +99,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 - [Azure 가격 개요](https://azure.microsoft.com/pricing/)
 - [Azure 가격 계산기](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks 단위 예약](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
-- CSP 가격 목록:  **Microsoft Azure Reserved Instances** 및 **Software Subscription** Price 목록은 파트너 센터 [가격 책정 & 제품](https://partner.microsoft.com/pcv/sales) 페이지에 모두 있습니다.
+- CSP 가격 목록: **Microsoft Azure 예약 인스턴스** 및 **소프트웨어 구독** 가격표는 파트너 센터 [가격 책정 & 제품](https://partner.microsoft.com/pcv/sales) 페이지에 모두 있습니다.
 
 
 **교육이**
@@ -110,7 +112,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 
 **작업**
 
-- [최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트 됨):  규약, 파트너 센터의 주문, 송장, 가격 목록 정보, 성과급, 조정 파일, API/SDK, 샌드박스, Azure 파트너 공유 서비스 등의 주요 정책 및 운영 측면을 다루는 포괄적인 가이드입니다.
+- [최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트 됨): 계약, 파트너 센터의 주문, 청구서, 가격 목록 정보, 성과급, 조정 파일, API/SDK, 샌드박스 및와 같은 운영 측면을 다루는 포괄적인 가이드입니다. Azure 파트너 공유 서비스.
 - [최신 제품 사용 가능 국가 및 고객 통화표](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Microsoft Azure 예약 인스턴스 판매](https://go.microsoft.com/fwlink/?linkid=872806)
 - [고객을 대신하여 Microsoft Azure 예약 구입](https://go.microsoft.com/fwlink/?linkid=872807)

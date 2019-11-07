@@ -2,17 +2,19 @@
 title: Microsoft 파트너 네트워크 멤버십 업그레이드 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft 파트너 네트워크 멤버십을 업그레이드하면 독점적 회원 혜택을 이용할 수 있는 자격이 부여됩니다. 제공되는 제품을 찾아서 구입하는 방법을 알아보세요.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132863"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651170"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -20,19 +22,19 @@ ms.locfileid: "62132863"
 
 -  파트너 센터
 
-Microsoft의 파트너 프로그램은 비즈니스 목표 달성을 도와주는 여러 혜택과 함께 다음과 같은 세 가지 멤버십 옵션을 제공합니다.
+Microsoft의 파트너 프로그램은 비즈니스 목표를 달성 하는 데 도움이 되는 증분 이점을 제공 하는 다음과 같은 세 가지 멤버 자격 옵션을 제공 합니다.
 
-- **멤버 자격을 네트워크입니다.** 교육, 지원 및 고객 연결에 대한 기본 혜택을 제공하는 핵심 멤버십 수준입니다. 멤버십을 업그레이드하려면 네트워크 회원이어야 합니다.
+- **네트워크 구성원 자격.** 교육, 지원 및 고객 연결에 대한 기본 혜택을 제공하는 핵심 멤버십 수준입니다. 멤버십을 업그레이드하려면 네트워크 회원이어야 합니다.
 
-- **Microsoft Action Pack 구독 멤버 자격입니다.** 중소규모 파트너 회사에 서비스를 제공하는 저렴한 연간 구독입니다. 기본 네트워크 멤버십에 제공되는 혜택 외에도 내부 사용 권한 서비스 구독, 소프트웨어 라이선스 및 지원 할당이 포함되어 있습니다.
+- **Microsoft Action Pack 구독 구성원 자격.** 중소규모 파트너 회사에 서비스를 제공하는 저렴한 연간 구독입니다. 기본 네트워크 멤버십에 제공되는 혜택 외에도 내부 사용 권한 서비스 구독, 소프트웨어 라이선스 및 지원 할당이 포함되어 있습니다.
 
-- **Microsoft 역량입니다.** 파트너가 획득한 명칭으로써 회사의 능력을 보여 줍니다. 기본 혜택, 추가 내부 사용 권한, 파트너 인센티브 자격 및 추가 지원과 자문 시간이 포함되어 있습니다.
+- **Microsoft 역량.** 획득 지정은 회사의 기능을 보여주는 합니다. 기본 혜택, 추가 내부 사용 권한, 파트너 인센티브 자격 및 추가 지원과 자문 시간이 포함되어 있습니다.
 
-  - 실버 역량 - 일관적인 능력, 전문 지식 및 약속
+  - 실버 역량-일관 된 기능, 전문 지식 및 약정
 
-  - 골드 역량 - 특정 Microsoft 솔루션 영역 내에서 최고의 능력
+  - 특정 Microsoft 솔루션 영역 내의 골드 역량-최고 수준의 기능
 
-Microsoft 파트너 네트워크에 가입하면 멤버십을 업그레이드하고 독점적 회원 혜택 제품을 구입할 수 있는 자격이 부여됩니다. Microsoft 파트너 네트워크의 멤버십에 대한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com)을 참조하세요.
+Microsoft 파트너 네트워크에 가입한 후에는 구성원 자격을 업그레이드 하 고 독점적 멤버 자격 혜택 혜택을 구매할 수 있습니다. Microsoft 파트너 네트워크의 멤버십에 대한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com)을 참조하세요.
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입
@@ -50,22 +52,22 @@ Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영�
 Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)을 참조하세요. 
 
 > [!NOTE]  
-> 이 링크를 따라 다른 웹 사이트로 이동 됩니다. 이 사이트, Action Pack 구독 파트너 센터 사이트에 반환 합니다.
+> 이 링크를 따라 이동 하면 다른 웹 사이트로 이동 합니다. 이 사이트인 파트너 센터 사이트인로 돌아가서 Action Pack를 구독 합니다.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Microsoft Action Pack 구독
 
-1. 에 **파트너 센터** 메뉴에서 **파트너 관계 > 제공**합니다. **사용 가능한 제품** 아래에 Microsoft Action Pack이 나열됩니다. **지금 구독**을 선택합니다. 
+1. **파트너 센터** 메뉴에서 **파트너 관계 > 제품**을 선택 합니다. **사용 가능한 제품** 아래에 Microsoft Action Pack이 나열됩니다. **지금 구독**을 선택합니다. 
 
 2. **다음**을 선택하여 Microsoft 파트너 네트워크에서 부여한 내부 사용 권한의 [약관](https://go.microsoft.com/fwlink/?linkid=842232)에 동의합니다.  
 
 3. **다음**을 선택하여 결제 정보를 추가합니다. 
 
-4. 선택 **시작! 지불 방법을 추가** payment 세부 정보를 입력 해야 할 경우. 
+4. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)** 를 선택합니다. 
 
 5. 결제 정보를 입력하고 **다음**을 선택합니다.
 
-6. 주문 세부 정보를 검토하고 Action Pack을 구입할 준비가 완료되면 **구입**을 선택합니다. 즉시 신용 카드로 청구됩니다.
+6. 주문 정보를 검토 한 다음 Action Pack를 구입할 준비가 되 면 **구매** 를 선택 합니다. 즉시 신용 카드로 청구됩니다.
 
 7. 주문이 확인됩니다. **닫기**를 선택합니다.
 
@@ -73,19 +75,19 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack 구독 자동 갱신 끄기
 
-1. 에 **파트너 센터** 메뉴에서 **파트너 관계 > 제공**합니다. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
+1. **파트너 센터** 메뉴에서 **파트너 관계 > 제품**을 선택 합니다. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
 
 2. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 봅니다. 
 
 3. 매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다. 
 
 > [!NOTE]  
-> 구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다. 구독이 만료되기 전에 갱신하라고 알려 드립니다.
+> 자동 구독 갱신을 해제 하면 구독을 다시 갱신할 때까지 다시 설정할 수 없습니다. 구독이 만료 되기 전에 갱신 하 라는 메시지가 표시 됩니다.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack 구독 갱신
 
-1. 에 **파트너 센터** 메뉴에서 **파트너 관계 > 제공**합니다. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
+1. **파트너 센터** 메뉴에서 **파트너 관계 > 제품**을 선택 합니다. **구입한 제품** 아래에 Microsoft Action Pack이 나열됩니다.
 
 2. **Microsoft Action Pack 구독**을 선택하여 구독 세부 정보를 본 후 **작업** 아래에서 **구독 갱신**을 선택합니다.  
 
@@ -95,11 +97,11 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 
 5. **다음**을 선택하여 결제 정보를 추가합니다. 
 
-6. 선택 **시작! 지불 방법을 추가** payment 세부 정보를 입력 해야 할 경우. 
+6. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)** 를 선택합니다. 
 
 7. 결제 정보를 입력하고 **다음**을 선택합니다.
 
-8. 주문 세부 정보를 검토하고 Action Pack을 구입할 준비가 완료되면 **구입**을 선택합니다. 즉시 신용 카드로 청구됩니다.
+8. 주문 정보를 검토 한 다음 Action Pack를 구입할 준비가 되 면 **구매** 를 선택 합니다. 즉시 신용 카드로 청구됩니다.
 
 9. 주문이 확인됩니다. **닫기**를 선택합니다.
 
@@ -110,25 +112,25 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 
 Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문의해야 합니다.
 
-1. [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)로 이동하세요.
+1. https://partnercenter.microsoft.com/partner/support 로 이동하세요.
 
-2. **파트너 센터에서 문제 보고**를 선택한 후 다음 페이지에서 **새 요청**을 선택합니다.
+2. **파트너 센터에서 문제 보고**를 선택하고, 다음 페이지에서 **새 요청**을 선택합니다.
 
-3. **문제 유형** 목록을 확장하고 **파트너 청구서, 결제 또는 조정 파일을 통한 도움**을 선택합니다. 
+3. **문제 유형** 목록을 확장하고, **파트너 청구서, 결제 또는 조정 파일을 통한 도움**을 선택합니다. 
 
-4. 필수 정보를 입력한 다음 **제출**을 선택합니다. 파트너 센터 지원 팀에서 연락하여 구독 취소를 도와드릴 것입니다.
+4. 필수 정보를 입력한 다음, **제출**을 선택합니다. 파트너 센터 지원 팀에서 연락하여 구독 취소를 도와드릴 것입니다.
 
     서비스 요청 상태를 확인하려면 **서비스 요청 > 파트너 센터 요청**을 선택한 다음 **열기**를 선택합니다. 목록에서 적절한 서비스 요청을 선택합니다.  
 
  
 ### <a name="next-steps"></a>다음 단계
 
-[Action Pack subscription 활성화](manage-your-partner-network-benefits.md)
+[Action Pack 구독 활성화](manage-your-partner-network-benefits.md)
 
 
 ### <a name="related-topics"></a>관련 항목
 
-[사용자를 추가 하 고 여기에 할당할 권한](create-user-accounts-and-set-permissions.md)
+[사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
 
 
 

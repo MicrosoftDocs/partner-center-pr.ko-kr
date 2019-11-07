@@ -2,6 +2,8 @@
 title: 고객 자가 지원 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 고객은 자신의 Microsoft Office 365 관리 센터 또는 Azure 관리 포털에 로그인 하 고 자신의 계정을 관리할 수 있습니다. 추가 구독을 구매하거나 구독을 취소하려면 고객이 해당 클라우드 솔루션 공급자 파트너에게 문의해야 합니다.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
@@ -9,12 +11,12 @@ ms.author: evansma
 keywords: 고객 자가 지원, 자가 지원,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3576ad8729449a857cf9fdcbed056a4bb602fe23
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135473"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653460"
 ---
 # <a name="customer-self-support"></a>고객 자가 지원
 

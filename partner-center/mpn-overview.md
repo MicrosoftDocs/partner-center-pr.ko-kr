@@ -2,18 +2,20 @@
 title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Microsoft 파트너의 혜택에 대해 알아보세요. Microsoft 파트너 네트워크은 업계에서 가장 넓은 범위의 제품을 제공 하 고, 비즈니스를 구분 하 고, 시장으로 이동 하 고, 솔루션을 판매 하기 위한 프로그램 옵션을 제공 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978746"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661153"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
@@ -52,7 +54,7 @@ Action Pack에 대 한 자세한 내용은 아래 리소스를 검토 하세요.
 - [Action Pack 가져오기](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >파트너 센터에서 Action Pack 구독을 관리 합니다. 파트너가 파트너 구성원 센터에서 파트너 센터로 아직 이동 하지 않은 경우 [파트너 센터로 전환 준비](partner-center/prepare-pmc-pc-migration.md) 를 참조 하세요.  
+    >파트너 센터에서 Action Pack 구독을 관리 합니다. 파트너가 파트너 구성원 센터에서 파트너 센터로 아직 이동 하지 않은 경우 [파트너 센터로 전환 준비](prepare-pmc-pc-migration.md) 를 참조 하세요.  
 
 - [MPN 제안 갱신](renew-mpn-offers.md)
 

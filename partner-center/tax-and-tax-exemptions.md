@@ -2,17 +2,19 @@
 title: 세금 및 면세 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262977"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654017"
 ---
 # <a name="tax-and-tax-exemptions"></a>세금 및 면세
 
@@ -26,9 +28,9 @@ ms.locfileid: "67262977"
 
 **세금 면제 파일**
 
-1.  조회 하 **Microsoft ID** 파트너 센터에서 &gt; **계정 설정** &gt; **조직 프로필**합니다.
-2.  조회 하 **MPN ID** 파트너 센터에서 &gt; **계정 설정** &gt; **파트너 프로필**합니다.
-3.  새 지원 티켓을 만듭니다. 파트너 센터 메뉴에서 선택 **서비스 요청** &gt; **파트너 센터 요청** &gt; **새 요청**합니다.
+1.  파트너 센터 &gt; **계정 설정** &gt; **조직 프로필**에서 **Microsoft ID** 를 조회 합니다.
+2.  파트너 센터 &gt; **계정 설정** &gt; **파트너 프로필**에서 **MPN ID** 를 조회 합니다.
+3.  새 지원 티켓을 만듭니다. 파트너 센터 메뉴에서 **서비스 요청** &gt; **파트너 센터 요청** &gt; **새 요청**을 선택 합니다.
 4.  양식을 작성합니다. **문제 유형**에서 **내 프로필을 관리할 수 없음**을 선택합니다. 설명에 MPN ID와 Microsoft ID를 포함합니다.
 5.  티켓을 제출하면 Microsoft에서 전자 메일을 보내 자세한 정보를 요청할 것입니다. 회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.
 
@@ -51,7 +53,7 @@ ms.locfileid: "67262977"
 <p>Microsoft는 파트너 센터에 크레딧과 재청구를 지원하지 않으므로 구독을 판매하기 전에 파트너 센터에서 VAT ID 번호를 등록해야 합니다.</p>
 <p>Microsoft에 VAT ID 번호 보내기</strong></p>
 <ol>
-<li>파트너 센터에서 파트너 센터 메뉴로 이동 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>합니다.</li>
+<li>파트너 센터에서 파트너 센터 메뉴로 이동 하 여 <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>&gt; 합니다.</li>
 <li><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</li>
 <li><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</li>
 </ol></td>
@@ -59,11 +61,11 @@ ms.locfileid: "67262977"
 <tr class="odd">
 <td>남아프리카 공화국</td>
 <td><p>
-Microsoft는 이제 디지털 콘텐츠 및 남아프리카 공화국에서 파트너가 구매 하는 서비스에는 표준 부가가치세 (부가가치세)을 적용 합니다. 청구서에서 VAT를 제외 하 고이 직접 관리 하려면 파트너 청구 프로필을 업데이트 하려면 다음 절차를 따르십시오.
+이제 Microsoft는 디지털 콘텐츠 및 남부 아프리카의 파트너가 구매한 서비스에 표준 부가 VAT (세금)를 적용 합니다. 청구서에서 VAT를 제외 하 고 직접 관리 하려면 다음 절차를 사용 하 여 파트너 청구 프로필을 업데이트 합니다.
 </p>
 <p>Microsoft에 VAT ID 번호 보내기</strong></p>
 <ol>
-<li>파트너 센터에서 파트너 센터 메뉴로 이동 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>합니다.</li>
+<li>파트너 센터에서 파트너 센터 메뉴로 이동 하 여 <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>&gt; 합니다.</li>
 <li><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</li>
 <li><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</li>
 </ol></td>
@@ -72,11 +74,11 @@ Microsoft는 이제 디지털 콘텐츠 및 남아프리카 공화국에서 파�
 <td>터키</td>
 <td>
 <p>
-Microsoft는 이제 디지털 콘텐츠 및 터키에서 파트너가 구매 하는 서비스에는 표준 부가가치세 (부가가치세)을 적용 합니다. 청구서에서 VAT를 제외 하 고이 직접 관리 하려면 파트너 청구 프로필을 업데이트 하려면 다음 절차를 따르십시오.
+이제 Microsoft에서 디지털 콘텐츠 및 서비스에서 구입한 서비스에 대 한 표준 부가 VAT (세금)를 적용 합니다. 청구서에서 VAT를 제외 하 고 직접 관리 하려면 다음 절차를 사용 하 여 파트너 청구 프로필을 업데이트 합니다.
 </p>
 <p>Microsoft에 VAT ID 번호 보내기</strong></p>
 <ol>
-<li>파트너 센터에서 파트너 센터 메뉴로 이동 &gt; <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>합니다.</li>
+<li>파트너 센터에서 파트너 센터 메뉴로 이동 하 여 <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>&gt; 합니다.</li>
 <li><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</li>
 <li><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</li>
 </ol></td>

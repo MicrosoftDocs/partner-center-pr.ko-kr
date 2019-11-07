@@ -2,17 +2,19 @@
 title: 공동 op 클레임 성과급 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 먼저 활동 계획을 검토할 필요 없이 인센티브 클레임을 제출하세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
 ms.localizationpriority: medium
-ms.openlocfilehash: 27210ea58352259152c0922aa3a1e1c3c6d95e4d
-ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.openlocfilehash: 9f389f57051f49163e9c08d67391e374bbc87d67
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73083875"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653691"
 ---
 # <a name="incentives-co-op-claims-overview"></a>인센티브 협력 클레임 개요
 

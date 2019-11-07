@@ -2,17 +2,19 @@
 title: 파트너 테 넌 트에 대 한 재조정 MFA | 파트너 센터
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 파트너 테 넌 트 보안 요구 사항에 대 한 재조정 MFA에 대 한 세부 정보
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68d4628bd6212b800ea926c6c3b9f412e3d5cc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997784"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652514"
 ---
 # <a name="mandating-mfa-for-your-partner-tenant"></a>파트너 테 넌 트에 대 한 재조정 MFA
 
@@ -36,7 +38,7 @@ ms.locfileid: "71997784"
 파트너 센터 대시보드의 특정 페이지는 다음을 포함 하 여 MFA로 보호 됩니다.
 
 * **고객** 탭의 모든 페이지
-* **지원 → 고객 요청** 탭의 모든 페이지
+* **지원 > 고객 요청** 탭의 모든 페이지
 
 이러한 페이지에 액세스 하려고 시도 했지만 이전에 MFA 확인을 완료 하지 않은 경우에는이 작업을 수행 해야 합니다.
 
@@ -122,7 +124,7 @@ Azure Active Directory에서 그러한 인증 요청을 수신 하는 경우 MFA
 
 - 파트너 계정이 **페더레이션** id 인 경우 환경은 파트너 관리자가 Azure Active Directory에서 페더레이션을 구성 하는 방법에 따라 달라 집니다. Azure Active Directory에서 페더레이션을 설정할 때 파트너 관리자는 페더레이션 id 공급자가 MFA를 지원 하는지 여부를 Azure Active Directory를 나타낼 수 있습니다. 이 경우 Azure Active Directory은 사용자를 페더레이션된 id 공급자로 리디렉션하여 MFA 확인을 완료 합니다. 그렇지 않으면 사용자에 게 MFA 확인을 완료 하 라는 메시지를 직접 표시 하는 Azure Active Directory. 파트너 계정이 이전에 Azure Active Directory MFA에 등록 되지 않은 경우 사용자에 게 먼저 [mfa 등록을 완료](#mfa-registration-experience) 하 라는 메시지가 표시 됩니다.
 
-전반적인 환경은 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어, 고객 테 넌 트는 [AZURE AD 기준 정책-관리자에 대 한 mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)를 사용 하도록 설정 합니다 .이 경우 관리 권한이 있는 모든 계정에는 관리 권한이 있는 모든 계정에서 관리자 에이전트 및 기술 지원팀 에이전트를 포함 하 여 mfa 확인을 통해 고객 테스트를 위해 파트너는 고객 테 넌 트의 [관리자 정책에 대해 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 를 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 고객 테 넌 트에 액세스할 수 있습니다.
+전반적인 환경은 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어, 고객 테 넌 트는 관리자 [에 게 AZURE AD 기준 정책-mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)를 사용 하도록 설정 했습니다 .이 경우 관리 권한이 있는 모든 계정에 관리 권한이 있는 모든 계정에서 관리자 에이전트 및 기술 지원팀 에이전트를 비롯 한 mfa 확인을 통해 고객 테 넌 트 테스트를 위해 파트너는 고객 테 넌 트의 [관리자 정책에 대해 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 를 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 고객 테 넌 트에 액세스할 수 있습니다.
 
 > [!NOTE]
 > 파트너 위임 된 관리자 권한을 사용 하 여 고객 리소스에 액세스할 때 모든 Microsoft Online Service 포털에는 파트너 계정이 고객 테 넌 트에 로그인 하는 데 필요 하지 않습니다. 대신 파트너 테 넌 트에 로그인 하는 데 파트너 계정만 필요 합니다. Exchange 관리 센터를 예로 들 수 있습니다. 시간이 지남에 따라 파트너 위임 된 관리자 권한을 사용 하는 경우 이러한 포털이 파트너 계정이 고객 테 넌 트에 로그인 하는 데 필요 합니다.
@@ -136,7 +138,7 @@ Azure AD가 인증 요청 등을 수신 하는 경우 Azure AD에서 MFA 확인�
 
 - 파트너는 액세스 토큰을 가져오기 위해 Azure AD에서 비 대화형 사용자 인증 방법을 사용 하지 않도록 해야 합니다. [암호 흐름과](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)같은 비 대화형 사용자 인증 방법을 사용 하는 경우 Azure AD는 사용자에 게 MFA 확인을 완료 하 라는 메시지를 표시할 수 없습니다. 파트너는 대신 [Openid connect Connect flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) 와 같은 대화형 사용자 인증 방법을 사용 하도록 전환 해야 합니다.
 - 대화형 사용자 인증 방법 중에는 파트너가 이미 MFA에 대해 사용 하도록 설정 된 파트너 사용자 계정을 사용 해야 합니다. 또는 Azure AD에서 메시지가 표시 되 면 파트너는 로그인 중에 MFA 등록 및 MFA 확인을 완료할 수 있습니다.
-- 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어 고객 테 넌 트가 [AZURE AD 기준 정책 – 관리자에 대해 mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)를 사용 하도록 설정 하 고, 관리 권한이 있는 모든 사용자 계정에 관리 권한이 있는 모든 사용자 계정에 관리자 에이전트 및 기술 지원팀 에이전트를 비롯 한 mfa 확인을 사용 하 여 로그인 합니다. 테스트를 위해 파트너는 고객 테 넌 트의 [관리자 정책에 대해 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 를 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 프로그래밍 방식으로 고객 테 넌 트에 액세스할 수 있습니다.
+- 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어 고객 테 넌 트는 관리자 [에 게 AZURE AD 기준 정책-mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)를 사용 하도록 설정 했습니다 .이 경우 관리 권한이 있는 모든 사용자 계정에 관리 권한이 있는 사용자 계정으로 관리자 에이전트 및 기술 지원팀 에이전트를 포함 하 여 mfa 확인이 있는 고객 테 넌 트 테스트를 위해 파트너는 고객 테 넌 트의 [관리자 정책에 대해 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 를 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 프로그래밍 방식으로 고객 테 넌 트에 액세스할 수 있습니다.
 
 ### <a name="mfa-registration-experience"></a>MFA 등록 환경
 MFA 확인 중에 파트너 계정이 MFA에 등록 되지 않은 경우 Azure AD는 먼저 MFA 등록을 완료 하 라는 메시지를 표시 합니다.
@@ -212,7 +214,7 @@ Microsoft Online Services에 대 한 기술적인 문제가 발생 하 고 적�
 기술 예외에 대 한 요청을 제출 하려면:
 
 1. 전역 관리자 또는 관리 에이전트로 파트너 센터에 로그인 합니다.
-2. **지원** → **파트너 지원 요청** 으로 이동 하 고 **새 요청**을 클릭 하 여 새 파트너 서비스 요청을 만듭니다.
+2.  > **파트너 지원 요청** **지원** 으로 이동한 다음 **새 요청**을 클릭 하 여 새 파트너 서비스 요청을 만듭니다.
 4. **MFA 및 보안 응용 프로그램 모델** 항목 아래에서 문제 유형으로 **기술 예외에 대 한 선택 (제출 요청을 제출** 합니다.
 6. 기술 예외에 대 한 서비스 요청을 제출 하는 데 필요한 세부 정보를 제공 하 고 **제출**을 클릭 합니다.
 

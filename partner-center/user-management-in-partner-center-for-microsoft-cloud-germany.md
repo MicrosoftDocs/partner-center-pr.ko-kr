@@ -2,16 +2,18 @@
 title: Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리 | Microsoft 클라우드 독일 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 개인 정보의 수집 및 사용에 대한 국가별, 지역별, 산업별 요구 사항을 준수하기 위해 Microsoft 클라우드 독일 파트너 센터에는 사용자 관리 기능이 제공되지 않습니다. 그 대신 Microsoft 클라우드 독일 Azure 포털에서 사용자를 추가하고 관리할 수 있습니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820536"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651136"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -20,7 +22,7 @@ ms.locfileid: "68820536"
 -  Microsoft 클라우드 독일 파트너 센터
 
 > [!IMPORTANT]
-> 고객 요구가 진화함에 따라 독일의 클라우드 전략은 글로벌 클라우드 제품과 일관되는 새로운 클라우드 지역을 독일에 제공하는 데 초점을 둡니다. 이로 인해 현재 이용 가능한 Microsoft 클라우드 독일에서 새로운 고객을 수용하거나 새로운 서비스를 배포하지 않을 것입니다. 기존 고객은 현재 이용 가능한 클라우드 서비스를 계속해서 사용할 수 있으며 Microsoft는 필요한 보안 업데이트를 유지 관리할 것입니다.
+> 독일에 대 한 클라우드 전략은 고객의 요구에 따른 혁신을 기반으로 하 여 글로벌 클라우드 제품과 일치 하는 독일에서 새로운 클라우드 지역 제공에 초점을 맞춥니다. 이로 인해 현재 이용 가능한 Microsoft 클라우드 독일에서 새로운 고객을 수용하거나 새로운 서비스를 배포하지 않을 것입니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 관리할 수 있습니다.
 >  
 > 앞으로 새로운 고객은 현재 이용 가능한 유럽 지역 또는 독일 내 새로운 지역(이용 가능한 경우)을 사용하는 옵션을 선택할 수 있습니다. 자세한 내용은 [Microsoft, 독일 내 새로운 데이터 센터에서 클라우드 서비스 제공](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)을 참조하세요.
 

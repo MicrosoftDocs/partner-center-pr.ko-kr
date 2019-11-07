@@ -2,18 +2,20 @@
 title: Microsoft와 공동 판매 파트너 센터
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 이러한 공동 작업을 통해 시장에 대 한 솔루션을 사용 하 고, 공동 수익을 추진 하 고, 고객의 성공을 보장 합니다.
 author: JnHs
 ms.author: jenhayes
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856488"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653674"
 ---
 # <a name="co-sell-with-microsoft"></a>Microsoft와 공동 판매
 
@@ -46,16 +48,16 @@ Microsoft가 engagement에 공동 작업 하도록 초대 하려면 **> > 전달
 다음 화면에서는 Microsoft와 공동 판매 하려는 engagement에 대 한 세부 정보를 제공 해야 합니다.
 
 **Engagement 정보** 섹션에서 다음을 입력 합니다.
-- **Engagement 이름**: 이 고객 및 참여를 설명 하는 이름을 입력 합니다. Microsoft 팀은 engagement 세부 정보를 검토할 때이 이름을 표시 하므로 clear 및 professional 언어를 사용 해야 합니다.
-- **CRM ID**: 원하는 경우 CRM 시스템에서 사용 중인 ID 번호를 입력 합니다.
-- **예상 종료 날짜**: 이 거래를 종료할 것으로 예상 되는 대략적인 날짜입니다.
-- **예상 값**: Engagement에 대해 예상 되는 총 값입니다. 적절 한 통화를 선택 해야 합니다.
+- **Engagement 이름**:이 고객 및 참여를 설명 하는 이름을 입력 합니다. Microsoft 팀은 engagement 세부 정보를 검토할 때이 이름을 표시 하므로 clear 및 professional 언어를 사용 해야 합니다.
+- **CRM id**: 원하는 경우 crm 시스템에서 사용 중인 ID 번호를 입력 합니다.
+- **예상 종료 날짜**:이 거래를 종료할 것으로 예상 되는 대략적인 날짜입니다.
+- **예상 값**: engagement에 대해 예상 되는 총 값입니다. 적절한 통화를 선택해야 합니다.
 
 **참고** 필드에서 고객이 관심 있는 내용과 솔루션이 어떤 도움을 주는 지 설명 합니다.
 
  그런 다음 **파트너 연락처** 섹션에서이 engagement에 대해 작업 하는 회사의 주 연락처에 대 한 이름, 전화 번호 및 전자 메일을 입력 합니다.
 
-마지막으로 **솔루션 추가** 섹션에서 참여에 사용 될 솔루션을 선택 합니다. 적절 한 솔루션이 나열 되지 않으면 지원 담당자에 게 문의 하세요.
+마지막으로 **솔루션 추가** 섹션에서 참여에 사용 될 솔루션을 선택 합니다. 적절한 솔루션이 나열되지 않으면 지원 담당자에게 문의하세요.
 
 다음 **을 선택 하** 여 다음 단계로 이동 합니다.
 

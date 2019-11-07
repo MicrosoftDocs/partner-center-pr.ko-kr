@@ -2,18 +2,20 @@
 title: 재판매인 또는 고객과의 관계 제거 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 관계를 제거하면 파트너 센터의 보기에서 완료된 비즈니스 관계가 모두 제거됩니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d5548a2784b7952174165df80516758e58ab633
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134103"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651973"
 ---
-# <a name="remove-a-reseller-relationship-with-a-customer"></a>재판매인 또는 고객과의 관계 제거
+# <a name="remove-a-reseller-relationship-with-a-customer"></a>고객과 재판매인의 관계 제거
 
 **적용 대상**
 
@@ -28,11 +30,11 @@ ms.locfileid: "62134103"
 *  고객을 대신하여 구입할 수 있는 기능 제거
 
 관계를 제거하려면 Azure RI 예약, 소프트웨어 구입을 취소하고 나머지 활성 구독을 먼저 중단해야 합니다.
-1. 활성 구독을 일시 중단합니다. 파트너 센터에서 이동할 **고객** > 고객을 선택 > **구독** > 구독 선택 > **Suspended**합니다. 
+1. 활성 구독을 일시 중단합니다. 파트너 센터에서 **고객 > >** **구독** 을 선택 하 > 구독 > **일시 중단 됨**을 선택 합니다. 
 
    활성 구독마다 이 작업을 반복합니다.
 
-2. 파트너 센터에서 관계를 제거 합니다. 파트너 센터에서 이동할 **고객** > 고객 선택 > **계정** > **대리점 관계를 제거**합니다.
+2. 파트너 센터에서 관계 제거: 파트너 센터에서 **고객 > 이동** 하 여 고객 > **계정을** 선택 하 > **재판매인 관계 제거**를 선택 합니다.
 
    활성 구독이 남아 있으면 **재판매인 관계 제거** 링크가 비활성화됩니다. 
 

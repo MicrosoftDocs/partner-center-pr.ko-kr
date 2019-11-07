@@ -2,17 +2,19 @@
 title: PMC에서 파트너 센터로 여러 회사를 마이그레이션하는 방법에 대한 가이드 | 파트너 센터
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: PMC에서 파트너 센터로 여러 회사를 마이그레이션할 때 알아야 할 사항
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958761"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654342"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>여러 회사를 파트너 센터로 이동
 
@@ -20,7 +22,7 @@ ms.locfileid: "68958761"
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>파트너 센터로 추가 계정 이동 
 
-회사 계정을 이미 PC로 이동했기 때문에 로그인할 때 파트너 센터에 이미 있는 계정을 알려 드리겠습니다. 
+회사 계정을 이미 PC로 이동 했기 때문에 로그인 할 때 파트너 센터에 이미 있는 계정을 알려 드리겠습니다. 
 
 
 마이그레이션한 후 잘못된 회사 계정이 법적 비즈니스로 지정된 것을 발견하면 이를 변경할 수 있습니다.

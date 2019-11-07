@@ -2,18 +2,20 @@
 title: 파트너 센터-Microsoft Azure 예약 개요 | 파트너 센터
 ms.topic: article
 ms.date: 11/05/2018
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: CSP (클라우드 솔루션 공급자 프로그램)의 파트너는 고객에 게 Microsoft Azure 예약을 제공할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구입, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a16726127705acde1bfcee23a5fe2b8c5ccafee7
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708799"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653804"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>파트너 센터-판매 Microsoft Azure 예약
 
@@ -44,7 +46,7 @@ Azure 예약은 다음과 같은 방식으로 고객에 게 더욱 매력적인 
 
 ## <a name="azure-reservations-resources"></a>Azure 예약 리소스
 
-|**에 대 한 자세한 내용**   |**이 내용을 읽으십시오.**    |
+|**에 대 한 자세한 내용**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
 | 고객을 위한 Azure 예약 설명서 | [Azure 예약은 무엇 인가요?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |파트너 센터에서 고객에 대 한 Azure 예약 구매   |[Azure 예약 구입](azure-reservations-buying.md)

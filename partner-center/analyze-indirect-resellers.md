@@ -1,6 +1,8 @@
 ---
 title: 간접 재판매인 성과 분석 | 파트너 센터
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 간접 대리점의 성능에 대 한 데이터를 가져와 성공 및 더 많은 주의가 필요한 영역을 식별 합니다.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781986"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653923"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>간접 재판매인 성과 분석 
 
@@ -29,10 +31,10 @@ ms.locfileid: "68781986"
 다음과 같은 메트릭을 추적 중입니다.
 
 **요약**  
- - **총 대리점**: 구독의 마지막 날에 활성화 된 대리점 수  
- - **새 대리점**: 지정 된 기간에 대 한 새 간접 대리점 수  
- - **활성 대리점**: MPNID이 하나 이상의 구독이 고 구독 상태가 프로 비전 해제이 아닌 간접 대리점의 수  
- - **거래 대리점**: 지정 된 기간 동안 구독이 판매 된 간접 대리점의 수  
+ - **총 재판매인**: 구독 마지막 날의 활성 재판매인 수  
+ - **신규 재판매인**: 지정된 기간 동안의 신규 간접 재판매인 수  
+ - **활성 재판매인**: MPNID가 최소 1 구독이고 구독 상태가 프로비전 해제가 아닌 간접 재판매인 수  
+ - **거래 재판매인**: 지정된 기간 동안 구독이 판매된 간접 재판매인 수  
 
 **시장의 대리점**  
  - 지리적 위치 기준 총 재판매인  
@@ -41,22 +43,22 @@ ms.locfileid: "68781986"
  - 판매한 구독 수를 기준으로 정렬된 재판매인 목록  
 
 **구독 수 별 상위 제품**  
- - **Dynamics 365**: 판매 된 구독 별로 정렬 된 Dynamics 365 제품  
- - **EMS**: 판매 된 엔터프라이즈 관리 서비스 구독 수  
- - **Microsoft 365**: 판매 된 Microsoft 365 구독 수  
- - **Office 365**: 판매 된 구독을 기준으로 정렬 된 Office 365 제품  
+ - **Dynamics 365**: 판매된 구독 수를 기준으로 정렬된 Dynamics 365 제품  
+ - **EMS**: 판매된 엔터프라이즈 관리 서비스 구독 수  
+ - **Microsoft 365**: 판매된 Microsoft 365 구독 수  
+ - **Office 365**: 판매된 구독 수를 기준으로 정렬된 Office 365 제품  
 
 **새 구독**  
  - 날짜 기준으로 추가된 신규 구독 수  
 
 **구독 변동**  
- - **새 구독**: 날짜별로 추가 된 새 구독 수  
- - **프로 비전 해제 구독**: 프로 비전 해제 또는 날짜에 따라 일시 중단 된 구독 수  
+ - **신규 구독**: 날짜 기준으로 추가된 신규 구독 수  
+ - **프로비전 해제 구독**: 날짜 기준의 프로비전 해제 또는 일시 중단된 구독 수  
 
 **새 대리점 세부 정보**  
- - **대리점 이름**: 간접 대리점 이름  
- - **위치**: 간접 대리점이 작동 하는 시장  
- - **구독**: 대리점에서 판매 된 구독 수  
- - **라이선스**: 재판매인이 모든 구독에서 판매 하는 총 라이선스 수  
+ - **재판매인 이름**: 간접 재판매인 이름  
+ - **위치**: 간접 재판매인이 활동하고 있는 시장  
+ - **구독**: 재판매인이 판매한 구독 수  
+ - **라이선스**: 모든 구독에 대해 재판매인이 판매한 라이선스의 총 수  
   
   

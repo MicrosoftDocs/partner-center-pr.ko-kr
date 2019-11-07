@@ -2,18 +2,20 @@
 title: 청구 개요 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 기본 청구 시나리오에 대 한 정보 및 라이선스 기반 및 사용량 기반 청구의 차이점
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820370"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653754"
 ---
 # <a name="billing-overview"></a>청구 개요
 
@@ -92,7 +94,7 @@ Microsoft와 사용자 사이에서 청구 관계가 taxed 사용자의 세부 �
 
 3.  세부 정보 페이지의 **청구 빈도**에서 **월별** 또는 **연도별**를 선택 합니다. 청구 빈도를 변경 하는 방법에 대 한 중요 정보가 포함 된 확인 페이지 및 변경 될 구독 목록이 표시 됩니다. 
 
-4.  **확인** 을 선택 하 여 변경 하거나 취소 를 선택 합니다. 
+4.  **확인** 을 선택 하 여 **변경 하거나 취소** 를 선택 합니다. 
 
 ### <a name="adjustmentscreditscancellations"></a>조정/크레딧/취소
 
@@ -109,7 +111,7 @@ Microsoft는 라이선스 기반 서비스의 취소에 대 한 조기 종료 �
 
 -   데이터 통신 서비스 요금은 송장 주기 내에서 변경할 수 있습니다. 
 
-    -   가격은 다음과 같이 늘어납니다. 30 일의 알림이 제공 됩니다.
+    -   가격 인상: 30일 동안 공지가 제공됩니다.
 
     -   가격 하락: 변동 기간(일)을 반영합니다.
 
@@ -144,7 +146,7 @@ Microsoft는 사용량 기반 서비스의 취소에 대 한 조기 종료 요�
 
 1.  파트너 센터 메뉴에서 **고객** 을 선택 합니다.
 
-2.  **고객** 페이지에서 주문 내역을 확인하려는 고객을 찾고 아래쪽 화살표를 선택하여 고객의 기록을 펼쳐봅니다. 
+2.  **고객** 페이지에서 주문 기록을 보려는 고객을 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 합니다. 
 
 3.  **주문 보기**를 선택하여 주문 내역을 표시합니다.
 

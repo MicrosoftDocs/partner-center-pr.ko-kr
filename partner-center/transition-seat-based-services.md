@@ -2,16 +2,18 @@
 title: 라이선스 기반 서비스 고객을 파트너 센터의 클라우드 솔루션 공급자 프로그램으로 이동 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 고객과 고객의 구독을 다른 채널이나 다른 파트너에서 CSP 프로그램으로 이동합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 12d382c043c6f1fbfa0348b17b25f12e0f306ee9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132923"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654010"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>라이선스 기반 서비스 고객을 다른 채널에서 클라우드 솔루션 공급자 프로그램으로, 또는 한 파트너에서 다른 파트너로 이동
 
@@ -19,15 +21,15 @@ ms.locfileid: "62132923"
 
 -  파트너 센터
 
-고객이 여러 파트너를 고용하거나 구독을 다른 파트너에게 이전하거나 다른 곳에서 구입한 구독을 관리하려는 경우 수동으로 이동할 수 있습니다. 또한 다른 채널에서 고객은 파트너 센터에 이동할 수 있습니다.
+고객이 여러 파트너를 고용하거나 구독을 다른 파트너에게 이전하거나 다른 곳에서 구입한 구독을 관리하려는 경우 수동으로 이동할 수 있습니다. 다른 채널에서 파트너 센터로 고객을 이동할 수도 있습니다.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>고객의 라이선스 기반 구독을 클라우드 솔루션 공급자(CSP) 프로그램으로 이동
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>고객의 라이선스 기반 구독을 클라우드 솔루션 공급자 프로그램 (CSP)으로 이동
 
-1. 선택 **고객이** 파트너 센터 메뉴 선택에서 **대리점 관계 요청**합니다. 다중 채널 계정을 지원할 때도 똑같이 하세요.
+1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **대리점 관계 요청**을 선택 합니다. 다중 채널 계정을 지원할 때도 똑같이 하세요.
 
-2.  고객이 초대를 수락하면 고객에 대해 원하는 구독 및 사용자 수를 프로비전할 수 있게 됩니다(예를 들어 고객이 이전에 구입한 것과 동일한 Office 365 제품).
+2.  고객이 초대를 수락 하면 고객이 원하는 구독과 사용자를 프로 비전 할 수 있습니다 (예: 이전에 고객이 구매한 것과 동일한 Office 365 제품).
 
-3. 고객은 원래 구독이 만료되도록 허용하거나 취소할 수 있습니다. 그러나 취소된 구독에 대해서는 환불이 되지 않으므로 고객의 구독이 원래 만료 날짜에 근접해질 때까지 기다리는 것이 가장 좋습니다.
+3. 고객은 원래 구독이 만료되도록 허용하거나 취소할 수 있습니다. 그러나 취소 된 구독에 대 한 환불 없기 때문에 고객의 구독이 자연 만료 날짜에 근접 하 게 될 때까지 대기 하는 것이 가장 좋습니다.
 
 4. 그러면 고객은 귀하가 프로비전한 구독을 중단 없이 계속 진행할 수 있습니다.
 
@@ -37,7 +39,7 @@ ms.locfileid: "62132923"
 서비스가 중단된 고객들을 이전하는 경우에는 데이터 손실을 방지하기 위해 같은 서비스를 찾아야 합니다. 고객을 다른 제품으로 이동하는 경우 고객의 라이선스 계약을 업데이트해야 합니다.
 
 >[!NOTE]
->CSP 파트너에 해야 할 고객을 전환 하려면 고객 테 넌 트와 동일한 지역에서 합니다. 
+>CSP 파트너는 고객을 사용자에 게 전환 하기 위해 고객 테 넌 트와 동일한 지역에 있어야 합니다. 
 
 
 

@@ -2,6 +2,8 @@
 title: 미결제, 사기 또는 오용 | 파트너 센터
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 고객의 제품 및 서비스 미결제와 부정한 활동 또는 오용을 포함하여 온라인 트랜잭션의 위험을 관리하기 위한 전략입니다.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978731"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652971"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>미결제, 사기 또는 오용
 
@@ -35,7 +37,7 @@ ms.locfileid: "72978731"
 
 - **서비스의 도용** 고객이 도난된 결제 방법을 사용하거나, 거짓 결제 정보를 제공하거나, 또는 미결제 잔액을 지불하지 않음으로 인해 사용한 서비스에 대한 대가를 지불할 의도가 없는 경우
 
-- **서비스의 남용** 고객이 Microsoft의 사용 제한 정책을 위반하는 클라우드 서비스를 이용하는 경우
+- **서비스 남용** Microsoft의 적절 한 사용 정책을 위반 하 여 클라우드 서비스를 사용 하는 고객
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>가능한 사기 또는 남용 서비스의 예
 - 스팸

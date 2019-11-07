@@ -2,17 +2,19 @@
 title: 고객 목록 관리 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 34adc4f39e98b2d8d033c792367c5c062f985ed2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3a7a295477f8d5a19601e3321cf02b20263affe6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133993"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654072"
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 
@@ -29,23 +31,23 @@ ms.locfileid: "62133993"
 
 ## <a name="search-for-a-customer"></a>고객 검색
 
-1.  **파트너 센터** 메뉴에서 **고객**합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
 
 ## <a name="update-a-customers-company-name"></a>고객의 회사 이름 업데이트
 
-**파트너 센터** 메뉴에서 **고객**합니다.
+**파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
 4.  고객의 **청구지** 정보에서 회사 이름을 업데이트합니다. 저장된 새 이름은 고객 목록에 적용됩니다. 이때 청구지 회사 이름과 고객 목록 값만 변경되고, 다른 정보는 변경되지 않습니다.
 
 ## <a name="export-your-customer-list"></a>고객 목록 내보내기
 
-1.  **파트너 센터** 메뉴에서 **고객**합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  **고객 내보내기**를 선택합니다.
 
-    파트너 센터는 전체 고객 목록을 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 고객 데이터의 하위 집합을 내보낼 수도 있습니다. 데이터 열은 다음과 같습니다.
+    파트너 센터는 전체 고객 목록을 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 고객 데이터의 하위 집합을 내보낼 수도 있습니다. 데이터 열에는 다음과 같은 내용이 포함됩니다.
 
     -   **Microsoft ID**
     -   **회사 이름**
@@ -59,9 +61,9 @@ ms.locfileid: "62133993"
 
 ## <a name="export-customer-subscription-information"></a>고객 구독 정보 내보내기
 
-1.  **파트너 센터** 메뉴에서 **고객**합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객의 **회사 이름**을 선택합니다. 고객의 **구독** 페이지가 열리고 전체 제품 구독 목록이 표시됩니다.
-3.  **구독 내보내기**를 선택합니다. 파트너 센터는 고객의 구독 데이터를 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 데이터 열은 다음과 같습니다.
+3.  **구독 내보내기**를 선택합니다. 파트너 센터는 고객의 구독 데이터를 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 데이터 열에는 다음과 같은 내용이 포함됩니다.
     -   **구독 ID**
     -   **구독** - 구독의 제품 이름
     -   **수량** - 구매한 라이선스 수

@@ -2,16 +2,18 @@
 title: Microsoft Cloud for US Government용 파트너 센터 | Microsoft Cloud for US Government용 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft Cloud for US Government용 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 971591037f37242550029b0eb908a076559359a9
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820602"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652689"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 파트너 센터
 
@@ -19,9 +21,9 @@ ms.locfileid: "68820602"
 
 -  Microsoft Cloud for US Government 파트너 센터
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>미국 정부에 대 한 Microsoft 클라우드: 데이터 보호 요구 사항 충족 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: 데이터 보호 요구 사항 충족 
 
-처음부터 미국 정부를 위해 설계된 Microsoft Cloud for US Government를 사용하면 미국 연방 정부, 주 정부, 지방 정부 또는 인디언 단체가 Microsoft의 다양한 클라우드 컴퓨팅 서비스 중에 선택할 수 있습니다. 공공 부문 고객의 특정 요구 사항을 완벽하게 해결하기 위해 Microsoft는 데이터 센터에 막대한 투자를 했으며 미국 연방 정책 및 주 정책, 명령, 요구 사항의 데이터 보호 규정을 충족하기 위해 최선을 다하고 있습니다. 파트너는 Microsoft Cloud for US Government용 파트너 센터를 통해 이러한 고객에게 Microsoft 클라우드 서비스를 재판매할 수 있습니다.
+처음부터 미국 정부를 위해 설계된 Microsoft Cloud for US Government를 사용하면 미국 연방 정부, 주 정부, 지방 정부 또는 인디언 단체가 Microsoft의 다양한 클라우드 컴퓨팅 서비스 중에 선택할 수 있습니다. 공공 부문 고객의 특정 요구를 가장 잘 해결 하기 위해 Microsoft는 데이터 센터에 상당한 투자를 했으며 미국 연방 및 주 정책, 요구 사항 및 요구 사항에 따라 데이터 보호 규정 준수를 전담 합니다. 파트너는 Microsoft Cloud for US Government용 파트너 센터를 통해 이러한 고객에게 Microsoft 클라우드 서비스를 재판매할 수 있습니다.
 
 아직은 파트너 센터에 제공되는 기능 중 일부가 Microsoft Cloud for US Government에 제공되지 않을 수 있습니다.
 
@@ -29,7 +31,7 @@ Microsoft Cloud for US Government는 정부 보안, 프라이버시 및 규정 �
 
 자세한 내용은 [Microsoft Cloud for US Government 데이터 시트](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)를 참조하세요.
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>미국 정부에 대 한 파트너 센터 Microsoft 클라우드: 미국 정부 기관에 클라우드 솔루션 판매
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Microsoft Cloud for US Government용 파트너 센터: 미국 정부 기관에 클라우드 솔루션 판매
 
 Microsoft Cloud for US Government의 CSP(클라우드 솔루션 공급자) 프로그램에 등록하면 파트너 센터를 사용하여 미국 정부 고객에게 클라우드 솔루션 및 서비스를 판매할 수 있습니다. 
 
@@ -38,7 +40,7 @@ Microsoft Cloud for US Government의 CSP(클라우드 솔루션 공급자) 프�
 
 - 파트너 찾기
 - 비즈니스 프로필
-- 조회
+- 추천
 - 고객과 재판매인 관계 요청(다중 채널, 다중 파트너)
 - 라이선스 분석
 - 고객 정보

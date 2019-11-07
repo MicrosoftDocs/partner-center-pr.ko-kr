@@ -2,17 +2,19 @@
 title: 조정 파일 사용 | 파트너 센터
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 보려면 파트너 센터에서 조정 파일을 다운로드 합니다.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931574"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653981"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -71,7 +73,7 @@ ms.locfileid: "71931574"
 <p>구독에 대한 ROR(Reseller of Record)의 MPN ID입니다. 파트너 센터에서 특정 구독에 대해 나열된 재판매인 ID에 해당합니다.</p>
 <p>eTo를 보거나 업데이트 하려면 파트너 센터 메뉴에서 <strong>고객</strong>을 선택한 다음, 목록에서 고객을 선택 합니다. 고객 메뉴에서 <strong>구독</strong>을 선택한 다음 목록에서 구독을 선택합니다. <strong>업데이트</strong>를 선택하여 <strong>재판매인(MPN ID)</strong>을 변경합니다.</p>
 <p>CSP 파트너가 고객에게 직접 구독을 판매하는 경우 해당 MPN ID가 두 번 나열됩니다(MPN ID와 재판매인 MPN ID 모두).</p>
-<p>CSP 파트너에게 MPN ID가 없는 재판매인이 있는 경우 이 값은 대신 파트너의 MPN ID로 설정됩니다.</p>
+<p>CSP 파트너에 MPN ID가 없는 재판매인이 있는 경우이 값은 파트너의 MPN ID로 대신 설정 됩니다.</p>
 <p>CSP 파트너가 재판매인 ID를 제거하는 경우 이 값은 -1로 설정됩니다.</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ ms.locfileid: "71931574"
 <td>ServiceType</td>
 <td><p>Microsoft Azure 서비스의 특정 유형</p></td>
 <td><ul>
-<li>서비스 버스 - 개별 또는 팩</li>
-<li>SQL Azure 데이터베이스 - Business 또는 Web Edition</li>
+<li>Service Bus 개인 또는 팩</li>
+<li>SQL Azure database-Business 또는 Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ ms.locfileid: "71931574"
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>지정일에 프로비전 및 사용된 ServiceBus 연결 수</p></td>
-<td>예: 일수가 30일인 달에 개별적으로 연결을 프로비전한 경우 ServiceInfo1은 "1.000000개 연결/30일"이 됩니다. 25팩 ServiceBus 연결 하나를 프로비전하고 해당 날짜에 연결 1개를 사용한 경우 해당 날짜의 일일 사용 내역서는 "25개 연결/30일 - 사용됨: 1.000000"으로 표시됩니다.</td>
+<td>예를 들어 30 일 동안 개별적으로 프로 비전 된 연결이 있는 경우 서비스 정보 1은 "1.000000 연결/30 일"을 읽습니다. 프로 비전 된 ServiceBus 연결의 25 개가 있고 해당 일 동안 1을 사용한 경우 해당 일에 대 한 일일 사용 문은 "25 개의 연결/30 일 사용: 1.000000"을 표시 합니다.</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ ms.locfileid: "71931574"
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>특정 가용성에 대한 ID입니다. "가용성"이란 주어진 국가, 통화, 산업 분류 등에서 특정 SKU의 구입이 가능한지 여부를 말합니다.</p></td>
+<td><p>특정 가용성에 대한 ID입니다. "가용성"은 특정 SKU를 특정 국가, 통화, 산업 부문 등에 구매할 수 있는지 여부를 나타냅니다.</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ ms.locfileid: "71931574"
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>특정 가용성에 대한 ID입니다. "가용성"이란 주어진 국가, 통화, 산업 분류 등에서 특정 SKU의 구입이 가능한지 여부를 말합니다.</p></td>
+<td><p>특정 가용성에 대한 ID입니다. "가용성"은 특정 SKU를 특정 국가, 통화, 산업 부문 등에 구매할 수 있는지 여부를 나타냅니다.</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ ms.locfileid: "71931574"
 <td><p>GUID 형식의 게시자 ID입니다. 현재 활동에 사용할 수 없습니다.</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>구독 설명</td>
 <td><p>고객이 구매한 서비스 제품의 이름(가격표에 정의됨). (제품 이름과 동일한 필드).</p></td>
 </tr>
@@ -910,7 +912,7 @@ ms.locfileid: "71931574"
 
 송장과 조정 파일의 요금을 교차 참조하려면 Microsoft Excel의 필터 옵션을 통해 조정 파일을 요금 종류별로 필터링하여 송장 요금을 조정 파일의 요금 분류 집합에 매핑하면 됩니다.
 
-사용량 기준 및 라이선스 기준 모두 조정 파일은 사용량 관련 거래 및 요금만 표시합니다(사용 및 관련 요금 단위). 송장에 "조정"으로 표시되는 크레딧, 할인, 또는 환불 내역은 조정 파일에 표시되지 않습니다.
+사용량 기준 및 라이선스 기준 모두 조정 파일은 사용량 관련 거래 및 요금만 표시합니다(사용 및 관련 요금 단위). 청구서에 "조정"으로 표시 되는 일회용 크레딧, 할인율 또는 환불 조정 파일에 표시 되지 않습니다.
 
 아래는 송장 섹션과 조정 파일에 표시될 수 있는 관련 요금 종류 간의 매핑을 보여주는 표입니다. 
 
@@ -935,7 +937,7 @@ ms.locfileid: "71931574"
 <p><strong>라이선스 기반 요금</strong></p>
 </td>
 <td>
-<p>활성화 수수료</p>
+<p>활성화 요금</p>
 </td>
 <td>
 <p>고객이 구독을 구매한 후 구독을 사용할 때 고객에게 청구되는 요금</p>
@@ -946,7 +948,7 @@ ms.locfileid: "71931574"
 </tr>
 <tr>
 <td>
-<p>취소 수수료</p>
+<p>취소 요금</p>
 </td>
 <td>
 <p>연결된 실제 사용자 수가 변경될 때 고객에게 환불되는 비례 배분 방식 요금</p>

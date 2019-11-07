@@ -2,16 +2,18 @@
 title: 프로모션을 사용하여 신규 고객 유치 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트너는 프로모션 가격으로 구독을 구입하여 그 절감 혜택을 고객에게 전달할 수 있습니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134663"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652142"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>프로모션을 사용하여 신규 고객 유치  
 
@@ -27,7 +29,7 @@ Microsoft에서는 두 가지 프로모션을 제공합니다. 하나는 CSP(클
 
 잠시 시간을 내어 프로모션에 대한 중요 사항을 검토하세요.
 
--   구독의 할인 가격은 구독 기간에만 적용됩니다. 할인된 구독이 만료되면 갱신 구독의 가격은 정가로 돌아갑니다. 즉, 자동 갱신이 설정된 구독은 일반 가격으로 갱신됩니다. 정가는 **가격 및 제품** 페이지에서 확인할 수 있습니다. 
+-   구독의 프로 모션 가격은 구독 기간에만 적용 됩니다. 프로 모션 가격으로 구매한 구독이 만료 되 면 갱신 구독의 가격은 가격 목록에 있는 가격으로 되돌아갑니다. 즉, 자동 갱신이 설정된 구독은 일반 가격으로 갱신됩니다. 정가는 **가격 및 제품** 페이지에서 확인할 수 있습니다. 
 
 -   구독이 여러 프로모션 자격을 충족하는 경우 가장 할인 비율이 높은 프로모션이 자동으로 적용됩니다.
 
@@ -35,14 +37,14 @@ Microsoft에서는 두 가지 프로모션을 제공합니다. 하나는 CSP(클
 
 ## <a name="see-available-promotions"></a>사용 가능한 프로모션 보기
 
-사용 가능한 프로모션이 있는 경우 **프로모션** 페이지에서 확인할 수 있습니다. 선택 **승격** 에서 프로그램 **파트너 센터** 할인, 프로 모션 유형 및 구독에 대 한 시작 및 종료 날짜와 함께 현재 프로 모션의 목록을 보려면 메뉴. 사용 가능한 프로모션이 없는 경우 프로모션이 없다는 메시지가 표시됩니다. 
+**프로 모션** 페이지에서 적합 한 프로 모션 (있는 경우)을 확인할 수 있습니다. **파트너 센터** 메뉴에서 **프로 모션** 을 선택 하 여 구독에 대 한 할인, 프로 모션 유형, 시작 및 종료 날짜와 함께 현재 홍보 행사 목록을 표시 합니다. 사용 가능한 프로모션이 없는 경우 프로모션이 없다는 메시지가 표시됩니다. 
 
 > [!NOTE]  
 > 구매할 때에도 프로모션을 확인할 수 있습니다. 구독을 선택하면 **검토** 페이지에 할인율이 표시됩니다.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>할인된 가격으로 구독 구입
 
-1. 사용자 **파트너 센터** 메뉴에서 **고객** 를 선택한 다음 구독을 구입 하는 고객. 
+1. **파트너 센터** 메뉴에서 **고객** 을 선택한 다음 구독을 구매 하는 고객을 선택 합니다. 
 
 2. **구독 추가**를 선택합니다.
 

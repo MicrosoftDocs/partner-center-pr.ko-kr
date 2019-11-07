@@ -2,18 +2,20 @@
 title: 고객 구독 만들기, 일시 중단, 또는 취소 | 파트너 센터
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578784"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653593"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -35,9 +37,9 @@ ms.locfileid: "69578784"
 2. **구독 추가**를 선택합니다.
 
 3. 특정 유형의 구독만 표시하려면 사용 가능한 필터 중에서 원하는 필터를 선택합니다.
-   - **게시자**: Microsoft에서 제공하는 제품만 표시하려면 **Microsoft**를 선택하고, ISV에서 게시한 상업용 마켓플레이스 제품만 표시하려면 **파트너**를 선택합니다.
-   - **청구 유형**: 사용할 구독 청구 유형을 선택합니다 (**라이선스** 또는 **사용량**). 월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
-   - **범주**: **Enterprise**, **Small Business** 또는 **평가판**을 선택합니다. 평가판 구독에 대한 자세한 내용은 [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
+   - **게시자** **: microsoft를 선택 하** 여 isv가 게시 한 상용 마켓플레이스 **제품을 볼 수 있습니다** .
+   - **청구 유형**: 사용 하려는 구독 청구 유형 ( **라이선스** 또는 **사용**)을 선택 합니다. 월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
+   - **범주**: **Enterprise**, **Small business**또는 **평가판**을 선택 합니다. 평가판 구독에 대한 자세한 내용은 [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
 
 4. 구독을 구매할 제품을 선택합니다. 표시되는 제품은 고객 세그먼트 유형(교육, 정부 등) 및 적용한 필터에 따라 달라집니다. 제품을 사용할 수 없는 경우에는 고객이 해당 제품을 이미 구독하여 이미 사용이 허용된 상태일 수 있습니다. 또는 새로 제품을 구매하지 않고 다시 정품 인증을 할 수 있도록 구독을 일시 중지한 경우일 수 있습니다.
 

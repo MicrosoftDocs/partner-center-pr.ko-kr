@@ -2,17 +2,19 @@
 title: 파트너 센터에서 문제 보고 | 파트너 센터
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 파트너 센터에서 문제를 보고하고 지원 팀에 제출할 진단 정보를 수집하는 방법
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425194"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651720"
 ---
 # <a name="report-problems-with-partner-center"></a>파트너 센터에서 문제 보고
 
@@ -39,7 +41,7 @@ ms.locfileid: "72425194"
 
 **진단 보내기**
 
-파트너 센터 페이지에 있는 동안 오류가 발생하는 경우 로그 정보를 수집하라는 메시지가 표시될 수 있습니다. 페이지 상단의 드롭다운 링크에서 **추가 정보 수집**을 선택하여 클라이언트 진단 도구를 엽니다. 이 도구는 파트너 지원 팀에서 오류 원인을 파악하는 데 필요한 정보를 수집합니다. 
+파트너 센터 페이지에 있는 동안 오류가 발생 하는 경우 로그 정보를 수집 하 라는 메시지가 표시 될 수 있습니다. 페이지 상단의 드롭다운 링크에서 **추가 정보 수집**을 선택하여 클라이언트 진단 도구를 엽니다. 이 도구는 파트너 지원 팀에서 오류 원인을 파악하는 데 필요한 정보를 수집합니다. 
 
 >[!NOTE]
 >URL에 **/pcv/** 가 포함된 파트너 센터 페이지에서 도구를 수동으로 열고 이 정보를 수집할 수 있습니다.

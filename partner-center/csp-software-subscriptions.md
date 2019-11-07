@@ -2,18 +2,20 @@
 title: CSP를 통해 소프트웨어 구독 판매 | 파트너 센터
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 따라서 이제 Azure 하이브리드 혜택을 활용하여 Microsoft 파트너 센터 및 Azure Portal을 통해 상업 고객을 대신하여 Azure Reserved Instances 및 서버 구독을 획득, 프로비전 및 관리할 수 있게 되었습니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376417"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653482"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
 
@@ -52,7 +54,7 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 >[!NOTE]
 >소프트웨어를 다운로드 하 고 정품 인증 키를 받으려면 관리 에이전트 여야 합니다.
 
-1. 고객의 세부 정보 페이지로 이동하여 **소프트웨어**를 선택합니다. 고객을 대신하여 구입한 모든 소프트웨어의 목록이 표시됩니다. 
+1. 고객의 세부 정보 페이지로 이동하여 **소프트웨어**를 선택합니다. 고객을 대신 하 여 구매한 모든 소프트웨어 목록이 표시 됩니다. 
 2.  다운로드할 제품을 펼칩니다. **제품 선택** 필드에서 원하는 **버전**, **언어** 및 **파일 유형/OS**를 선택합니다. 
 3.  **제출**을 선택하여 특정 제품을 표시합니다. 
 4.  **키 및 다운로드 받기**를 선택합니다. 
@@ -106,4 +108,4 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 8.  어떤 이유로든 파일을 첨부해야 하는 경우에는 **파일 추가**를 선택합니다. 이 단계는 선택 사항입니다. 
 
-9.  완료되면 **제출**을 선택합니다.
+9.  작업이 완료 되 면 **제출**을 선택 합니다.

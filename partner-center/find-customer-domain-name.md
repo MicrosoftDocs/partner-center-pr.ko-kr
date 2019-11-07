@@ -2,17 +2,19 @@
 title: 고객의 도메인 이름 및 디렉터리 ID 찾기 | 파트너 센터
 ms.topic: article
 ms.date: 3/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 클레임을 제출할 때 고객의 도메인 이름 및 디렉터리 ID를 확인 하는 방법
 author: LauraBrenner
 ms.author: labrenne
 keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금, OSA, ISV, 수익 연결, 도메인 이름, 디렉터리 ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 6e9f78ff41783a1cd49790288d20c8ccdfd78192
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376412"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653105"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id"></a>고객의 도메인 이름 및 디렉터리 ID 찾기
 

@@ -2,17 +2,19 @@
 title: CSP 파트너를 위한 Microsoft 파트너 계약 | 파트너 센터
 ms.topic: article
 ms.date: 09/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 간단하고 통합된 디지털 승인 파트너 계약입니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3eb6879e1681ec46d445b6f5ea3791ae8f022ad4
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921485"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654330"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>CSP 파트너를 위한 Microsoft 파트너 계약 
 

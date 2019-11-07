@@ -2,17 +2,19 @@
 title: 클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램을 통해 신규 고객 및 새로운 전문 지식으로 비즈니스를 성장시킬 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134753"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653513"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 
 
@@ -20,12 +22,12 @@ ms.locfileid: "62134753"
 
 -  파트너 센터
 
-CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판매를 넘어 고객의 비즈니스에 더 많이 관여할 수 있습니다.
+CSP (클라우드 솔루션 공급자 프로그램)는 재판매 라이선스를 벗어나 고객의 비즈니스에 더 많은 관여를 주는 데 도움이 됩니다.
  
-- 고객에게 보다 긴밀하게 관여 – 고객과 정기적으로 만남을 가지면 고객의 비스니스와 요구 사항에 대해 더 잘 이해할 수 있습니다.
-- 수익 증대 – 직접 또는 간접 공급자를 통해 향상된 지원 및 청구 서비스를 제공하여 새로운 수익 창출 기회를 모색할 수 있습니다.  
-- 가치 추가 – Microsoft 제품과 함께 번들로 제공되는 특정 산업별 솔루션을 고객에게 제공할 수 있습니다.
-- 관리 서비스 제공 – 관리되는 서비스에 대한 고객의 요구 사항에 맞추어 위치를 적절하게 설정할 수 있습니다. 
+- 고객에 게 정기적으로 고객에 게 참여 하는 것이 고객에 게 더 심층적으로 참여 하는 것을 의미 합니다.
+- 사용자가 직접 또는 간접 공급자를 통해 제공 된 지원 및 청구 서비스를 제공 하는 수익 증대를 통해 새로운 수익 스트림을 엽니다.  
+- 값 추가-Microsoft 제품과 함께 제공 되는 고객의 업계 특정 솔루션을 제공할 수 있습니다.
+- 관리 서비스 제공-관리 되는 서비스에 대 한 고객 수요를 충족 하는 데 적합 합니다. 
 
 ## <a name="which-csp-model-is-best-for-me"></a>어떤 CSP 모델이 나에게 가장 적합한가요?
 
@@ -60,21 +62,21 @@ Microsoft는 이러한 요구 사항을 충족하는 직접 청구 파트너가 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>CSP 프로그램을 통해 어디에서 판매할 수 있나요?
 
-회사 위치에 시장을 결정합니다. 시장에는 지역 및/또는 CSP 제품을 판매할 수 있는 국가 포함 합니다. 참조 [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md) CSP 시장 및 통화의 목록은 합니다.
+회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP 제품을 판매할 수 있는 지역 및/또는 국가가 포함됩니다. CSP 시장 및 통화의 전체 목록은 [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md) 를 참조 하세요.
 
-CSP 고객을 대신 하 여 제공을 주문할 수 있습니다, 전에 고객은 Microsoft Cloud 계약 서명 해야 합니다. 고객의 위치에 대 한 해당 Microsoft Cloud 계약을 찾을 수 있습니다 [여기](agreements.md)합니다.  
+고객을 대신 하 여 CSP 제품을 주문 하려면 먼저 고객이 Microsoft 클라우드 계약에 서명 해야 합니다. [여기](agreements.md)에서 고객의 위치에 대해 적용 가능한 Microsoft 클라우드 규약을 찾을 수 있습니다.  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>CSP 프로그램을 통해 무엇을 판매할 수 있나요?
 
-[Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 이번 달에 CSP 제공을 확인 하려면 파트너 센터에 로그인 하 고 다음으로 이동 합니다 [ **가격 책정 및 제품** ](https://partnercenter.microsoft.com/pcv/sales) 페이지입니다.
+[Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 현재 달에 대 한 CSP 제품을 확인 하려면 파트너 센터에 로그인 한 다음 [**가격 책정 및 제품**](https://partnercenter.microsoft.com/pcv/sales) 페이지로 이동 합니다.
 
-## <a name="see-also"></a>참조 
+## <a name="see-also"></a>참고 항목 
 
 
-|**이 자세히 알아보려면**   |**이 읽기**   |
+|**이에 대해 알아보려면**   |**이 글 읽기**   |
 |:---------------------------|:--------------------|
 |각 CSP 모델에 대한 요구 사항   | [클라우드 솔루션 공급자 프로그램](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-|Microsoft의 국가별 클라우드에서 판매   | [국가 클라우드에서 Microsoft 판매에 적용](csp-national-clouds-overview.md)|
-|Microsoft Cloud 계약 고객 템플릿   |[지역 및 언어별 Microsoft 클라우드 계약](agreements.md)|
-|파트너 센터에서 간접 공급자 작업  |[과 클라우드 솔루션 공급자 프로그램에 간접 재판매인과 거래 파트너](indirect-provider-tasks-in-partner-center.md)|
-|파트너 센터에 있는 간접 재판매자 작업   |[클라우드 솔루션 공급자 프로그램에 대 한 간접 공급자를 사용 하 여 파트너](indirect-reseller-tasks-in-partner-center.md)|
+|Microsoft의 국가별 클라우드에서 판매   | [Microsoft 국가별 클라우드의 판매에 적용](csp-national-clouds-overview.md)|
+|Microsoft 클라우드 계약 고객 템플릿   |[지역 및 언어별 Microsoft 클라우드 계약](agreements.md)|
+|파트너 센터의 간접 공급자 작업  |[클라우드 솔루션 공급자 프로그램에서 간접 대리점을 사용 하는 파트너](indirect-provider-tasks-in-partner-center.md)|
+|파트너 센터의 간접 재판매인 작업   |[클라우드 솔루션 공급자 프로그램에서 간접 공급자를 사용 하는 파트너](indirect-reseller-tasks-in-partner-center.md)|

@@ -2,16 +2,18 @@
 title: 파트너 구성원 센터에서 파트너 센터로의 이동 준비 | 파트너 센터
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 비즈니스를 PMC에서 파트너 센터로 전환 하기 전에 고려해 야 할 사항
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060499"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652187"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 구성원 센터 (PMC)에서 파트너 센터로의 이동 준비
 
@@ -42,7 +44,7 @@ CSP 계정 또는 MPN work 전자 메일 계정을 사용 하 여 파트너 센�
 
 **AAD 전역 관리자 역할과 PMC MPN 전역 관리자 역할의 차이점은 무엇 인가요?**
 
-이러한 역할은 사용 권한이 서로 다른 두 개의 완전히 다른 역할입니다. 파트너 센터의 AAD 테 넌 트 전역 관리자는 테 넌 트를 관리 합니다.-사용자를 추가 또는 제거 하 고, 암호, 역할 및 권한을 제공 하 고 관리 하며, 파트너 센터의 모든 회사 프로그램에 액세스할 수 있습니다. 
+이러한 역할은 사용 권한이 서로 다른 두 개의 완전히 다른 역할입니다. 파트너 센터의 AAD 테 넌 트 전역 관리자는 테 넌 트를 관리 하 고, 사용자를 추가 또는 제거 하 고, 암호, 역할 및 권한을 제공 하 고 관리 하며, 파트너 센터의 모든 회사 프로그램에 액세스할 수 있습니다. 
 
 PMC의 MPN 전역 관리자 역할은 다음과 같은 작업을 수행할 수 있습니다.
 
@@ -127,7 +129,7 @@ Microsoft는 현재 역량, 혜택, 위치 정보, 성과급을 위한 은행/�
  **Visual Studio 혜택 할당을 보유 하 고 있는 Microsoft 계정을 사용할 수 있나요?**
 
 
- 그렇습니다. MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 다음 MSA 할당을 제거하면 파트너 센터에 다시 추가할 수 없습니다.
+ 그렇습니다. MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 MSA 할당을 제거 하는 경우 파트너 센터에 다시 추가할 수 없습니다.
 
 파트너 센터에서 파트너는 동일한 테넌트(여기서 파트너는 Azure AD 테넌트의 MPN 관리자임)의 MSA인 회사 계정 및 게스트 사용자 계정을 추가할 수 있습니다. 파트너가 여러 Azure AD 테넌트에서 전역 관리자이고 이러한 모든 테넌트가 동일한 파트너 센터 계정과 연결된 경우 파트너는 이러한 모든 테넌트의 사용자를 Visual Studio 혜택 및 Azure 사용량 기반 할당에 추가할 수 있습니다.
 

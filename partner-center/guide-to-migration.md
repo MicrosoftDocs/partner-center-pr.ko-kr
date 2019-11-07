@@ -2,17 +2,19 @@
 title: PMC에서 파트너 센터로의 마이그레이션 가이드 | 파트너 센터
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: PMC에서 파트너 센터로 회사를 마이그레이션할 때 알아야 할 사항
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708914"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653095"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로의 마이그레이션 가이드
 
@@ -23,7 +25,7 @@ PMC (파트너 구성원 센터)를 서비스 해제 하 고 있습니다. 회�
 >[!Note]
 >회사에 계정이 나 위치가 둘 이상 있는 경우에도 파트너 센터로 이동은 먼저 (첫 번째) 계정을 파트너 센터로 이동 하 여 시작 합니다.
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 PMC에서 이동이 시작 됩니다. 전역 관리자는 이동을 시작 하 라는 초대를 받게 됩니다. 
 
@@ -37,7 +39,7 @@ PMC에서 이동이 시작 됩니다. 전역 관리자는 이동을 시작 하 �
 
 초대에서 **시작** 을 선택 합니다. 파트너 센터 로그인 페이지로 이동 됩니다.
 
-![시작](images/migration/getstarted.jpg)
+![시작하기](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>회사 전자 메일을 사용 하 여 시작
 
@@ -92,11 +94,11 @@ AAD 테 넌 트가 새로운 경우 전역 관리자의 역할이 할당 되지 
 ## <a name="next-steps"></a>다음 단계
 
 - [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
-- [사용자 역할 및 사용 권한 할당](permissions-overview.md)
-- [멤버 자격 프로그램 관리](renew-mpn-offers.md)
+- [사용자 역할 및 권한 할당](permissions-overview.md)
+- [멤버십 프로그램 관리](renew-mpn-offers.md)
 - [회사의 비즈니스 프로필 만들기](create-a-marketing-profile.md)
-- [조회를 통해 고객과 연결](responding-to-referrals.md)
+- [추천을 통해 고객과 연결](responding-to-referrals.md)
 
-## <a name="see-also"></a>참조
+## <a name="see-also"></a>참고 항목
 
 - [PMC에서 파트너 센터로 여러 회사를 마이그레이션하는 방법에 대 한 가이드](move-multiple-companies.md)

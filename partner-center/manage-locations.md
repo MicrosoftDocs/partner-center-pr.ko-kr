@@ -2,17 +2,19 @@
 title: 파트너 계정 관리-위치 | 파트너 센터
 ms.topic: article
 ms.date: 03/27/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 파트너 센터에서 회사의 위치 관리
 author: LauraBrenner
 ms.author: labrenne
 keywords: 파트너 계정, 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171254"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653352"
 ---
 # <a name="manage-your-partner-account-locations"></a>파트너 계정 관리: 위치
 

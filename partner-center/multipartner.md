@@ -2,17 +2,19 @@
 title: 다중 파트너 지원 | 파트너 센터
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 고객이 클라우드 솔루션 공급자 프로그램에서 각기 다른 서비스를 전문적으로 제공하는 여러 파트너와 작업하려고 할 수도 있습니다.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 583400695e7aede57d4e8d63f03e63177815b56d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820615"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654255"
 ---
 # <a name="multi-partner-support"></a>다중 파트너 지원
 
@@ -27,13 +29,13 @@ ms.locfileid: "68820615"
 
 다중 파트너 기능은 다음을 수행하지 않습니다.
 
-- 고객의 기존 구독을 변경하지 않습니다.
+- 고객의 기존 구독 변경
 
-- 고객의 기존 구독이나 계정 소유권을 전환하지 않습니다.
+- 고객의 기존 구독 또는 계정 소유권 전환
 
-- 기존 구독에 대한 조건이나 고객의 의무를 변경하지 않습니다.
+- 기존 구독에 대 한 용어 또는 고객의 의무 변경
 
 - 구독의 공식 파트너를 변경하지 않습니다.
 
 > [!IMPORTANT]  
-> CSP 프로그램의 파트너가 현재 CSP 프로그램의 다른 파트너에 온라인 서비스을 재판매 수 없습니다. Microsoft는 모든 프로그램의 정책 및 기능을 지속적으로 검토 합니다. 기능 릴리스 또는 정책 변경에 대 한 모든 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 비롯 한 일반적인 통신 채널을 통해 발표 됩니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.

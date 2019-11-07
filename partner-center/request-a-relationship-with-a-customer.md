@@ -2,17 +2,19 @@
 title: 고객과의 관계 요청 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
-description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 귀사의 위임된 관리자 권한을 제거했기 때문에 귀사에서 프로비전 또는 지원을 제공하려면 위임된 관리자 권한을 복원해야 하는 경우에도 유용합니다.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820497"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654106"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
 
@@ -31,20 +33,20 @@ ms.locfileid: "68820497"
 
 국가 또는 동일한 지역에 있는 고객과 대리점 관계를 요청할 수 있습니다.
 
-1.  **파트너 센터** 메뉴에서 **고객** 을 선택한 다음 **대리점 관계 요청**을 선택 합니다.
+1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음, **재판매인 관계 요청**을 선택합니다.
 
 2.  이 고객의 관리자 권한을 요청 하려면 **Azure Active Directory 및 Office 365에 대 한 위임 된 관리 권한 포함**을 선택 합니다. 관리자 권한을 요청 하지 않고 관계를 설정 하려면이 옵션의 선택을 취소 합니다. 
 
-3.  다음 페이지에서 임시 전자 메일 메시지를 검토합니다. 기본 전자 메일 응용 프로그램에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 전자 메일에 붙여 넣을 수 있습니다. 
+3.  다음 페이지에서 임시 이메일 메시지를 검토합니다. 기본 전자 메일 응용 프로그램에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 전자 메일에 붙여 넣을 수 있습니다. 
 
-    전자 메일에서 텍스트를 편집할 수 있지만, 전자 메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하도록 개인화된 링크입니다. 이 단계를 마쳤으면 **완료**를 선택합니다.
+    이메일에서 텍스트를 편집할 수 있지만, 이메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하는 맞춤형 링크입니다. 이 단계를 완료 하면 **완료** 를 선택 합니다.
 
-3.  고객에게 전자 메일을 보냅니다.
+3.  고객에게 이메일을 보냅니다.
 
 5.  고객이 초대를 수락하면 **고객** 페이지에 고객이 표시되고, 귀사는 여기서 해당 고객의 서비스를 프로비전하고 관리할 수 있습니다.
 
  
-6.  고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.
+6.  고객의 계정, 서비스, 사용자 및 라이선스를 관리 하려면 해당 이름 옆에 있는 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 합니다.
 
 
 > [!IMPORTANT]  
@@ -61,7 +63,7 @@ ms.locfileid: "68820497"
 | 미국 정부에 대 한 Microsoft 클라우드 파트너 센터의 고객 | Microsoft Office 관리 포털 |
 |
 
-## <a name="see-also"></a>참조
+## <a name="see-also"></a>참고 항목
 
 - [지원 담당자 할당](assign-support-contacts.md)
 - [고객과의 관계 제거](remove-a-relationship.md)

@@ -2,17 +2,19 @@
 title: CPOR 모델을 사용 하 여 고객 연결 만들기 | 파트너 센터
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: CPOR 모델을 사용 하 여 고객 연결 만들기
 author: LauraBrenner
 ms.author: labrenne
 keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금, OSU, OSA, ISV, 수익 연결
 ms.localizationpriority: medium
-ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
-ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.openlocfilehash: 052e41e1d61a1287550147530371c7e558a6ee69
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73083863"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654038"
 ---
 **적용 대상**
 

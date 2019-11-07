@@ -2,17 +2,19 @@
 title: CSP용 Office 365 Government GCC 판매 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: CSP 프로그램의 Microsoft 파트너는 CSP용 Office 365 Government GCC 구독을 적격 고객에게 판매할 수 있습니다. CSP 용 Office 365 정부 GCC는 미국 정부 및 정부 계약자를 위해 설계 된 클라우드 생산성 서비스 제품군입니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
-ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.openlocfilehash: 193cc10b02e0bee75799e5c64e59e3a3abe04a30
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73168567"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653554"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>적격 고객에게 CSP용 Office 365 Government GCC 구독 판매
 

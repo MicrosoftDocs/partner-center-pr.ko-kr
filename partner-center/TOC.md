@@ -1,4 +1,4 @@
-# [Microsoft 파트너 센터 정보](index.md)
+# [Microsoft 파트너 센터 정보](index.yml)
 
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)

@@ -2,17 +2,19 @@
 title: 고객에게 지원 제공 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
-description: 파트너는 고객에게서 받은 지원 요청을 접수하고 자신의 능력을 최대한 발휘하여 문제를 진단한 다음, 기준이 되는 지원 경계의 범위 내에서 문제를 해결해야 합니다.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 파트너는 고객 으로부터 들어오는 지원 요청을 받고, 파트너의 가장 적합 한 기능에 대 한 문제를 진단 하 고, 기준 지원 범위 범위 내에 있는 문제를 해결 하는 데 필요 합니다.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135483"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653445"
 ---
 # <a name="providing-support-to-your-customers"></a>고객에게 지원 제공
 
@@ -28,7 +30,7 @@ CSP 모델에서 거래 중인 파트너는 고객에게 신뢰할 수 있는 �
 
 파트너는 지원 요구 사항을 충족하기 위해 다른 엔터티의 지원을 재판매하거나, 지원 구조의 전부 또는 일부를 아웃소싱하거나, 지원을 직접 제공하도록 구조를 설정할 수 있습니다.  파트너는 고객에게 제공된 지원의 전체 또는 일부에 대해 비용을 청구할 수 있습니다. 파트너는 제공되는 지원, 서비스 시간 및 연락 방법을 비롯해 가격 책정(지원 비용이 청구되는 경우)에 대해 고객에게 명확하게 알려야 합니다. 
 
-파트너는 고객에게서 받은 지원 요청을 접수하고 자신의 능력을 최대한 발휘하여 문제를 진단한 다음, 기준이 되는 지원 경계의 범위 내에서 문제를 해결해야 합니다. 파트너는 문제를 해결할 수 없는 경우 다음과 같은 지원 수단을 통해 Microsoft에 문제를 에스컬레이션할 수 있습니다.
+파트너는 고객 으로부터 들어오는 지원 요청을 받고, 파트너의 가장 적합 한 기능에 대 한 문제를 진단 하 고, 기준 지원 범위 범위 내에 있는 문제를 해결 하는 데 필요 합니다. 파트너는 문제를 해결할 수 없는 경우 다음과 같은 지원 수단을 통해 Microsoft에 문제를 에스컬레이션할 수 있습니다.
 
 - **상용** 문제 지원은 CSP 프로그램의 모든 파트너에게 제공됩니다.
 -   **기술** 문제 지원은 다음을 통해 제공됩니다.
@@ -40,11 +42,11 @@ CSP 모델에서 거래 중인 파트너는 고객에게 신뢰할 수 있는 �
 
 각 온라인 서비스는 고객에게 청구, 구독 관리 및 기술 지원을 제공하기 위한 구체적이고 상세한 요구 사항이 있습니다. 자세한 내용은 아래 문서를 참조하세요.
 
--   [Dynamics 365 구독을 CSP를 통해 판매](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [CSP를 통해 판매 되는 azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [CSP를 통해 판매 되는 office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [CSP를 통해 판매 되는 Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

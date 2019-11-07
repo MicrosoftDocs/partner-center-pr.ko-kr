@@ -1,6 +1,8 @@
 ---
 title: Azure 사용량 분석 | 파트너 센터
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 파트너 센터를 사용 하 여 고객의 Azure 구독 사용에 대 한 데이터를 가져옵니다.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781980"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653372"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>고객의 Azure 구독 사용량에 대한 데이터 가져오기
 
@@ -31,9 +33,9 @@ ms.locfileid: "68781980"
 
 ## <a name="summary"></a>요약
 
-- **판매 되는 총 Azure 구독**: 지정 된 기간에 판매 된 구독 수  
-- **사용 중인 고객**: 지정 된 기간 동안 Azure 사용량이 있는 고객 수  
-- **사용 하지 않는 고객**: 지정 된 기간 동안 Azure 사용량이 없는 고객 수  
+- **총 Azure 구독 판매**: 지정된 기간에 판매된 구독 수  
+- **사용량이 있는 고객**: 지정된 기간에 Azure 사용량이 있는 고객 수  
+- **사용량이 없는 고객**: 지정된 기간에 Azure 사용량이 없는 고객 수  
 
 ## <a name="top-5-customers-in-category"></a>해당 범주의 상위 5개 고객
 
@@ -49,8 +51,8 @@ ms.locfileid: "68781980"
 
 ## <a name="azure-subscription-churn"></a>Azure 구독 변동률
 
-- **활성 구독**: 날짜별 활성 구독 수  
-- **프로 비전 해제 구독**: 프로 비전 해제 또는 날짜에 따라 일시 중단 된 구독 수  
+- **활성 구독**: 날짜 기준 활성 구독의 수  
+- **프로비전 해제 구독**: 날짜 기준의 프로비전 해제 또는 일시 중단된 구독 수  
 
 ## <a name="customer-count"></a>고객 수
 

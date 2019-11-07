@@ -2,18 +2,20 @@
 title: 원천 세금을 제공한 하는지 확인 합니다. 파트너 센터
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 서비스 요청을 열려면 원천 세금 크레딧 양식과 원천 세금 인증서가 모두 필요 합니다.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 양식 세금 크레딧
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892403"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653943"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
 
@@ -49,7 +51,7 @@ ms.locfileid: "72892403"
 
 2. **CSP**를 선택 합니다.
 
-3. **CSP – 청구 및 지불**아래에서 문제 유형- **원천 세금** 을 선택 하 고 **예**를 선택 합니다. 
+3. **CSP-청구 및 지불**아래에서 문제 유형- **원천 세금** 을 선택 하 고 **예**를 선택 합니다. 
 
 4. 서비스 요청을 제출할 때 세금 신용 양식 및 세금 인증서의 디지털 복사본을 첨부 해야 합니다.
 

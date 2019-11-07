@@ -2,17 +2,19 @@
 title: Microsoft 파트너 네트워크 시장 출시 혜택에 대 한 자세한 정보 | 파트너 센터
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 회원은 특정 시장 출시 혜택에 대 한 자격이 있을 수 있습니다. 사용 가능한 다양 한 시장 출시 혜택 및 파트너 센터에서 활성화 하 고 관리 하는 방법에 대해 알아봅니다.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, 멤버 자격 혜택, 멤버 자격, 시장 출시 혜택, 시장 출시, 시장으로 이동, GTM, 골드 구성원 자격, 실버 멤버 자격
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413592"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653260"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>GTM (MPN) 회원 혜택 살펴보기
 
@@ -41,7 +43,7 @@ GTM 혜택은 특정 수준의 MPN 멤버 자격, 특수화 [및 사용자가 �
 모든 MPN 멤버는 특정 표준 GTM 혜택에 액세스할 수 있습니다. 여기에는 준비 된 마케팅 자산, 판매 사용 플랫폼과 주문형 디지털 마케팅에 대 한 액세스가 포함 됩니다. 실버 또는 골드 역량을 획득 하는 파트너에 게 더 많은 GTM 혜택을 제공할 수 있습니다.
 
 >[!NOTE]
->GTM 이점은 추가 및 변경 될 수 있습니다. Microsoft 파트너 네트워크 [시장으로 이동 페이지로](https://partner.microsoft.com/en-us/membership/go-to-market) 이동 하 여 역량 수준에서 사용할 수 있는 최신 GTM 혜택에 대해 알아보세요.
+>GTM 이점은 추가 및 변경 될 수 있습니다. Microsoft 파트너 네트워크 [시장으로 이동 페이지로](https://partner.microsoft.com/membership/go-to-market) 이동 하 여 역량 수준에서 사용할 수 있는 최신 GTM 혜택에 대해 알아보세요.
 
 **실버** 역량 수준에서 사용할 수 있는 추가 GTM 혜택:
 
@@ -63,7 +65,7 @@ GTM 혜택은 특정 수준의 MPN 멤버 자격, 특수화 [및 사용자가 �
 
 GTM 혜택을 보려면 다음을 수행 합니다.
 
-1. 파트너 센터 [대시보드에]( https://docs.microsoft.com/en-us/partner-center/)로그인 합니다.
+1. 파트너 센터 [대시보드에]( https://docs.microsoft.com/partner-center/)로그인 합니다.
 
 2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 다음, 다음 중 하나를 수행 합니다.
 

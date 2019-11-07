@@ -2,28 +2,30 @@
 title: 파트너 센터의 소프트웨어 보증 계획 서비스 | 파트너 센터
 ms.topic: article
 ms.date: 01/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 기업 고객을 위한 배포 전 계획을 제공 하도록 계획 서비스에 등록
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 배포 전, 계획, 소프트웨어 보증
 ms.localizationpriority: medium
-ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708890"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651626"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance의 계획 서버
+# <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
-소프트웨어 보증 계획 서비스 프로그램에 등록 하 여 비즈니스를 성장 시킵니다. Microsoft는 소프트웨어 보증이 있는 기업 고객에 게 교육, 계획 및 기타 서비스를 제공 하기 위한 파트너를 보정 합니다.
+소프트웨어 보증 계획 서비스 프로그램에 등록 하 여 비즈니스를 성장 시킵니다. Microsoft는 Software Assurance를 보유한 기업 고객에게 교육, 계획 및 기타 서비스를 제공하는 파트너에게 보상을 제공합니다.
 
 Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위한 배포 전 계획을 제공 하는 것을 보상 합니다. 이 프로그램에 참여 하면 더 많은 고객을 확보 하 고, 신뢰할 수 있는 계획 파트너가 되며, 추가 고객의 도움을 받을 수 있습니다.
 
 소프트웨어 보증 계획 서비스에 대해 잘 모르는 경우 [계획 서비스를 사용 하 여 비즈니스 성장](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)을 참조 하세요.
 
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다. 계획 서비스 프로그램에서 이미 활성화 되어 있고 파트너 계정 정보가 파트너 센터로 이동 된 경우 아래 4 단계 (4)에서 시작 합니다. 
 
@@ -32,10 +34,10 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 3. 파트너 디렉터리에서 회사 프로필 업데이트
 4. 고객 증명서 예약 
 5. 완료 참여 및 제출 완료 보고서
-6. 무료 증명서 
-7. Microsoft에서 지불 요청
+6. 상품권 사용 
+7. Microsoft의 결제 요청
 
-이 문서에서는 각 단계를 완료 하는 방법을 설명 합니다.
+이 문서에서는 각 단계를 완료하는 방법을 설명합니다.
 
 ## <a name="confirm-eligibility"></a>자격 확인
 

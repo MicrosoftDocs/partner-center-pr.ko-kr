@@ -2,16 +2,18 @@
 title: 비즈니스 프로필 분석 | 파트너 센터
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 대상 고객의 주의 사항을 캡처하고 조회를 생성 하는 방법을 확인 하세요.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: 7eff3b7f27a12111fe0a48b95c2346ee5d9cf98d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854492"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653934"
 ---
 # <a name="analyze-your-business-profile"></a>비즈니스 프로필 분석
 <!-- 

@@ -2,16 +2,18 @@
 title: 성과급 상환 정보 보기 | 파트너 센터
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: 인센티브 프로그램의 수익 및 지급액을 보세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093059"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653993"
 ---
 # <a name="view-your-incentives-payments-information"></a>성과급 상환 정보 보기
 
@@ -33,7 +35,7 @@ ms.locfileid: "71093059"
 ## <a name="payments-page"></a>지불 페이지
 이 페이지의 합계는 사용 하는 모든 MPN Id를 나타냅니다. 참가자 ID, 프로그램, 지불 ID 및 획득 유형을 기준으로 필터링 할 수 있습니다. 금액은 미국 달러 단위로 제공 됩니다. 유료 값은 지불 금액에도 표시 됩니다. 
 
-|**면적**   |**설명**    |
+|**영역**   |**설명**    |
 |------------------|:-------------------------------------|
 |올해 총 지불 금액        |모든 MPN Id에 대해 미국 달러 단위로이 연도에 대해 지급 된 총 합계입니다.                                      |
 |다음 예상 지불      |곧 귀하에 게 제공 되는 한 번의 지불 (다른 사용자가 곧 제공 되는 경우에도)은 미국 달러입니다.                                     |
@@ -44,7 +46,7 @@ ms.locfileid: "71093059"
 이 페이지에서 데이터를 내보내려면 **내보내기** 를 선택한 다음 데이터 내보내기 페이지의 지시를 따릅니다. 
 
 ## <a name="transaction-history-page"></a>트랜잭션 기록 페이지
-이 페이지에는 각각에 대 한 날짜, 유형 및 획득을 포함 하 여 개별 소득이 모두 표시 됩니다. 보려는 기간을 선택할 수 있으며 등록 ID, 프로그램, 지불 ID, 획득 유형, 레버 및 상태별로 필터링 할 수도 있습니다. 현재 회계 연도 (7 월 1 일 – 6 월 30 일)와 이전 두 회계 연도에 대해 데이터를 사용할 수 있습니다. 
+이 페이지에는 각각에 대 한 날짜, 유형 및 획득을 포함 하 여 개별 소득이 모두 표시 됩니다. 보려는 기간을 선택할 수 있으며 등록 ID, 프로그램, 지불 ID, 획득 유형, 레버 및 상태별로 필터링 할 수도 있습니다. 현재 회계 연도 (7 월 1 일-6 월 30 일)와 이전 두 회계 연도에 대해 데이터를 사용할 수 있습니다. 
 
 획득에 대 한 자세한 내용을 보려면 페이지의 오른쪽에 있는 아래쪽 화살표를 선택 합니다. 그러면 레버, 수익 금액, 제품 및 고객이 표시 됩니다. 어떤 이유로 든이 데이터를 사용할 수 없지만 액세스 권한이 필요한 경우 지원 담당자에 게 문의 하세요. 트랜잭션이 아닌 조정 결과가 발생 하는 경우에는 Product 및 Customer 필드가 표시 되지 않습니다. 
 
