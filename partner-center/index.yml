@@ -1,0 +1,140 @@
+### YamlMime:Hub
+title: 파트너 센터 설명서
+summary: 파트너 센터는 Microsoft 파트너 네트워크(MPN), 클라우드 솔루션 공급자(CSP) 프로그램 등을 통해 비즈니스를 성장시키도록 도움을 줍니다.
+brand: windows
+metadata:
+  title: 파트너 센터 설명서
+  description: 파트너 센터는 Microsoft 파트너 네트워크(MPN), 클라우드 솔루션 공급자(CSP) 프로그램 등을 통해 비즈니스를 성장시키도록 도움을 줍니다.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  manager: evansma
+  ms.date: 11/05/2019
+  ms.openlocfilehash: 66e35332bc8deaa4357c1b6c4296707fd5f0c67a
+  ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+  ms.translationtype: HT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 11/06/2019
+  ms.locfileid: "73654409"
+highlightedContent:
+  items:
+  - title: 로그인하여 최신 공지 사항을 확인하세요.
+    itemType: whats-new
+    url: https://partner.microsoft.com/pcv/announcements
+  - title: 아직 파트너가 아닌가요? 지금 Microsoft 파트너 네트워크에 가입하세요.
+    itemType: get-started
+    url: https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx
+  - title: API 및 SDK 얼리어답터 프로그램 참여
+    itemType: deploy
+    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+  - title: 새 Microsoft 고객 계약
+    itemType: concept
+    url: confirm-customer-agreement.md
+  - title: 다단계 인증 및 보안 모범 사례
+    itemType: overview
+    url: partner-security-requirements.md
+  - title: 파트너 센터의 새로운 상거래 환경 - Azure 플랜
+    itemType: whats-new
+    url: azure-plan-get-started.md
+conceptualContent:
+  title: 파트너 센터에서 작업
+  items:
+  - title: 계정 등록 및 관리
+    links:
+    - url: mpn-create-a-partner-center-account.md
+      itemType: how-to-guide
+      text: 파트너 센터 계정 만들기
+    - url: manage-locations.md
+      itemType: how-to-guide
+      text: 위치 관리
+    - url: azure-active-directory-tenants-and-partner-center.md
+      itemType: how-to-guide
+      text: 테넌트 관리
+    footerLink:
+      url: partner-center-account-setup.md
+      text: 자세한 내용
+  - title: 고객과의 관계 구축
+    links:
+    - url: csp-offers.md
+      itemType: how-to-guide
+      text: 제품 및 서비스 판매
+    - url: assign-licenses-to-users.md
+      itemType: how-to-guide
+      text: 고객 라이선스 관리
+    - url: see-your-customer-list.md
+      itemType: how-to-guide
+      text: 고객 목록 참조
+    footerLink:
+      url: customer-accounts.md
+      text: 자세한 내용
+  - title: 비즈니스 확장
+    links:
+    - url: referrals.md
+      itemType: how-to-guide
+      text: 추천 및 비즈니스 프로필
+    - url: promotions.md
+      itemType: how-to-guide
+      text: 프로모션 활용
+    - url: get-special-pricing-for-offers.md
+      itemType: how-to-guide
+      text: 특수 산업을 대상으로 판매
+    footerLink:
+      url: grow-your-business.md
+      text: 자세한 내용
+  - title: 청구 및 세금 이해
+    links:
+    - url: billing-basics.md
+      itemType: how-to-guide
+      text: 청구 기본 사항
+    - url: read-your-bill.md
+      itemType: how-to-guide
+      text: 청구서 읽기
+    - url: tax-and-tax-exemptions.md
+      itemType: how-to-guide
+      text: 세금 및 면세
+    footerLink:
+      url: billing.md
+      text: 자세한 내용
+  - title: 비즈니스 데이터 분석
+    links:
+    - url: partner-contribution-indicators.md
+      itemType: how-to-guide
+      text: 파트너 기여 지표
+    - url: analyze-azure-usage.md
+      itemType: how-to-guide
+      text: 고객 Azure 사용 데이터
+    - url: analyze-indirect-resellers.md
+      itemType: how-to-guide
+      text: 간접 재판매인 보고서
+    footerLink:
+      url: data-analysis-lp.md
+      text: 자세한 내용
+  - title: 지원 얻기 및 제공
+    links:
+    - url: customer-support.md
+      itemType: how-to-guide
+      text: 고객에게 지원 제공
+    - url: check-service-health.md
+      itemType: how-to-guide
+      text: 서비스 상태 확인
+    - url: report-problems-with-partner-center.md
+      itemType: how-to-guide
+      text: 파트너 센터 문제 보고
+    footerLink:
+      url: support-from-microsoft.md
+      text: 자세한 내용
+additionalContent:
+  sections:
+  - title: 주요 작업 및 도구
+  - items:
+    - title: Microsoft Action Pack(MAPS) 얻기
+      summary: Microsoft Action Pack 구독을 포함하여 혜택을 구입하거나 갱신하세요.
+      url: mpn-get-action-pack.md
+    - title: 파트너 센터 API 및 SDK 참조
+      summary: 파트너 센터 SDK를 사용하여 고객, 구독 및 주문 데이터를 관리하세요.
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: 연결 유지하기
+      summary: CSP Yammer 커뮤니티에 가입하세요.
+      url: https://go.microsoft.com/fwlink/p/?linkid=851605

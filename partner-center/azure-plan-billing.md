@@ -1,24 +1,30 @@
 ---
 title: Azure 플랜 - 청구 | 파트너 센터
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Azure 플랜에 대한 청구서 및 조정 파일 구조에 대해 설명합니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428490"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595935"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
+**적절한 역할:**
 
-Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다. 청구 플랫폼에 대한 자세한 내용은 [파트너 센터 최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)를 참조하세요.
+- 청구 관리자
+- 관리자 에이전트
+- 전역 관리자
+
+
+Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다. 청구 플랫폼에 대한 자세한 내용은 [청구 개요](billing-basics.md)를 참조하세요.
 
 ## <a name="summary-of-billing-essentials"></a>청구 기본 정보 요약
 

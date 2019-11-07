@@ -1,18 +1,18 @@
 ---
 title: Azure 플랜 구매 | 파트너 센터
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Azure 플랜에서 여러 Azure 구독을 구입합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428519"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595926"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure 플랜 구매
 
@@ -53,7 +53,7 @@ Azure 플랜이 추가된 것을 볼 수 있는 **제품 추가** 페이지로 �
   
 파트너 센터에서 고객을 대신하여 Azure 플랜 하에서 Microsoft Azure 예약을 구매할 수도 있습니다.
 
-1. 대시보드의 파트너 센터 메뉴에서 **고객**을 선택합니다. Azure 예약을 구입하려는 고객을 찾은 다음, 아래쪽 화살표를 선택하여 고객의 행을 확장합니다. 
+1. [대시보드](https://partner.microsoft.com/dashboard/)의 파트너 센터 메뉴에서 **고객**을 선택합니다. Azure 예약을 구입하려는 고객을 찾은 다음, 아래쪽 화살표를 선택하여 고객의 행을 확장합니다. 
 
 2. **제품 추가**를 선택한 다음, **Azure**를 선택합니다. 
 - **세그먼트** 목록에서 고객의 시장 세그먼트를 선택합니다. 
