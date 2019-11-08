@@ -1,7 +1,7 @@
 ---
 title: 조정 파일 사용 | 파트너 센터
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 보려면 파트너 센터에서 조정 파일을 다운로드 합니다.
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653981"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753855"
 ---
 # <a name="use-the-reconciliation-files"></a>조정 파일 사용
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653981"
 -  파트너 센터
 -  Microsoft Cloud for US Government 파트너 센터
 
+**적절 한 역할**
+
+- 청구 관리자
+- 전역 관리자
 
 청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 보려면 파트너 센터에서 조정 파일을 다운로드 합니다. 세부 정보에는 각 고객 구독에 대한 요금 및 자세한 이벤트(예: 중간에 사용자를 구독에 추가)가 포함됩니다.
 
@@ -637,7 +641,7 @@ ms.locfileid: "73653981"
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>해당 할인에 대 한 설명입니다.</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ ms.locfileid: "73653981"
 <td>BillingFrequency</td>
 <td><p> 월간 청구를 사용 하는 경우 매월 표시 됩니다. 그렇지 않으면 빈 값입니다. </p></td>
 </tr>
-
+<tr class="odd">
+<td>BillableQuantity</td>
+<td><p> 구입 하거나 사용한 총 단위를 나타냅니다. </p></td>
+</tr>
+<tr class="even">
+<td>pricingCurrency</td>
+<td><p> 리소스 또는 제품 가격을 나열 합니다.</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> 가격 책정 통화에 적용 된 환율 통화 (고객) 청구 통화</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> 요금 청구 통화 환율이 결정 되는 날짜입니다.</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> 소비 라인 항목에 대 한 측정기 설명</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ ms.locfileid: "73653981"
 <td><p>선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다.</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>추가 정보</td>
 <td><p>다른 열에서 다루지 않는 추가 정보입니다.</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> 단위당 청구 되는 실제 값 (할인, 획득 크레딧 등 포함)입니다.</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>가격 책정 통화에 대해 (고객) 청구 통화로 적용 되는 환율입니다.</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>청구 통화 환율에 대 한 가격 책정 통화를 결정 하는 날짜입니다.</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>Azure subscriptionID를 나타냅니다.</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>Azure 구독의 이름을 나타냅니다.</p></td>
 </tr>
 
 </tbody>
