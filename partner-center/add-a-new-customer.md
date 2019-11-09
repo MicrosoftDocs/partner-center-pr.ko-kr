@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653400"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840209"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가
 
@@ -35,9 +35,9 @@ ms.locfileid: "73653400"
 
 2. **계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 하 고 고객이 최신 [Microsoft 클라우드 계약](agreements.md)에 동의 하 고 서명 했는지 확인 합니다.
 
-    >[!IMPORTANT]
-      > 2018년 11월 7일부터, 계약서에 서명한 사람에 대한 정보를 제공하여 고객이 Microsoft 클라우드 계약에 동의했다는 것을 확인해야 합니다. 자세한 내용은 [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md)을 참조하세요.
-
+>[!IMPORTANT] 
+> 2019 년 10 월 1 일에 Microsoft는 CSP 프로그램에 **Microsoft 고객 계약** 을 도입 하 여 Microsoft 클라우드 계약을 대체 했습니다. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 2020년 1월 31일까지 현재 Microsoft 클라우드 계약이 CSP 프로그램에서 지원될 예정입니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-consent.md) 에 대해 읽어 보세요.
+  
 3. 간접 공급자 인 경우 목록에서이 고객의 구독과 연결 하려는 간접 재판매인을 선택 합니다.
 
 4. 필요한 모든 정보를 입력 했으면 **다음: 구독** 을 선택 합니다.
