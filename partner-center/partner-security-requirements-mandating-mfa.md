@@ -1,22 +1,22 @@
 ---
 title: 파트너 테 넌 트에 대 한 재조정 MFA | 파트너 센터
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 테 넌 트 보안 요구 사항에 대 한 재조정 MFA에 대 한 세부 정보
+description: 파트너 테 넌 트 보안 요구 사항에 대 한 재조정 MFA (Multi-factor authentication)에 대 한 세부 정보
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652514"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983346"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>파트너 테 넌 트에 대 한 재조정 MFA
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테 넌 트에 대 한 MFA (재조정 Multi-factor Authentication)
 
 **적용 대상**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652514"
 
 이러한 파트너는 다음 영역에 대 한 MFA 확인을 완료 해야 합니다.
 
-- [파트너 센터 대시보드](#partner-center-dashboard)
-- [파트너 센터 API](#partner-center-api)
-- [파트너 위임 된 관리](#partner-delegated-administration)
+- [파트너 센터 대시보드](#partner-center-dashboard) (대상 H1 CY2020)
+- [파트너 센터 API](#partner-center-api) (대상 H1 CY2020)
+- [파트너 위임 된 관리](#partner-delegated-administration) (2019 년 11 월 18 일부 터)
 
 이 기능의 목적은 파트너가 자격 증명을 손상 시 키 지 못하도록 고객 리소스에 대 한 액세스를 보호 하는 데 도움을 주는 것입니다.
 
