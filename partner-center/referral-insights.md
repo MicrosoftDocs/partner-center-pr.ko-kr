@@ -2,17 +2,19 @@
 title: 조회 인사이트 얻기 | 파트너 센터
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 조회 인사이트 데이터를 정기적으로 검토하여 주의가 필요한 추세 또는 영역을 파악하고, 비즈니스 목표를 달성하세요.
 author: JnHs
 ms.author: jenhayes
 keywords: 조회, 분석, 분석 정보, 메트릭, 전환
 ms.localizationpriority: high
-ms.openlocfilehash: 027fcfb3dbd9b2a8f9c2f53fbfd2e765f15eff53
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318752"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654122"
 ---
 # <a name="get-referral-insights"></a>조회 인사이트 얻기
 

@@ -2,17 +2,19 @@
 title: 사용자 역할 및 권한 할당 | 파트너 센터
 ms.topic: article
 ms.date: 10/10/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 파트너 센터에서 작업을 해야 하는 모든 직원에게 역할을 할당해야 합니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: high
-ms.openlocfilehash: 0bbc9af84b8a1464f255c17147fdc10a7504eb43
-ms.sourcegitcommit: 1ccc27092949deb6f6404e64fd6a628fd7b5fd5c
+ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "72276094"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652427"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
