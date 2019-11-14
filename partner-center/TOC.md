@@ -184,6 +184,7 @@
 # 보안 요구 사항
 ## [개요](partner-security-requirements.md)
 ## [요구 사항 상태](partner-security-compliance.md)
+## [파트너 테넌트 사용자를 대상으로 MFA 의무화](partner-security-requirements-mandating-mfa.md)
 ## [질문과 대답](partner-security-requirements-faq.md)
 
 # 자습서
