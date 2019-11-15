@@ -135,6 +135,7 @@
 ### [프로모션을 사용하여 신규 고객 유치](promotions.md)
 ### [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)
 ### [마켓플레이스 시판 제품 구독 판매](sell-marketplace-products.md)
+### [Marketplace 특별 혜택](isv-opt-in.md)
 ### [파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)
 ### [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ### [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # 보안 요구 사항
 ## [개요](partner-security-requirements.md)
+## [파트너 테넌트 사용자를 대상으로 MFA 의무화](partner-security-requirements-mandating-mfa.md) 
 ## [요구 사항 상태](partner-security-compliance.md)
 ## [파트너 테넌트 사용자를 대상으로 MFA 의무화](partner-security-requirements-mandating-mfa.md)
 ## [질문과 대답](partner-security-requirements-faq.md)
