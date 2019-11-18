@@ -2,16 +2,18 @@
 title: 클라우드 솔루션 공급자 프로그램에 등록 | 파트너 센터
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: CSP에서 판매하기 위한 다양한 모델을 파악하고 비즈니스에 가장 잘 맞는 모델 결정
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318843"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653196"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -30,7 +32,7 @@ CSP 신청을 완료하려면 회사의 MPN ID가 필요하며, 근무지 주소
 1. 회사 이메일(즉, Azure AD 테넌트 자격 증명)을 사용하여 파트너 센터에 로그인합니다.
 
 2. 파트너 프로필을 만들고 MPN ID를 프로필에 연결합니다.
-제공한 정보를 검토하고 확인하는 데 며칠 정도 걸릴 수 있습니다. 검토가 완료되면 이메일을 보내 드립니다.
+제공한 정보를 검토하고 확인하는 데 며칠 정도 걸릴 수 있습니다. 검토가 완료되면 전자 메일을 보내 드립니다.
 
 3. 정보 확인이 완료되면 Microsoft 간접 재판매인 계약조건에 동의합니다.
 

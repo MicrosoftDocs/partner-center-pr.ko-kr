@@ -2,18 +2,20 @@
 title: 회사 계정 통합 | 파트너 센터
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 회사에서 파트너 센터로 이동하면 모든 계정이 하나의 계정으로 통합됩니다.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9aaab99a89fea5239b2296a8374b1d03515445d5
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318668"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653625"
 ---
 # <a name="consolidate-your-company-accounts"></a>회사 계정 통합
 

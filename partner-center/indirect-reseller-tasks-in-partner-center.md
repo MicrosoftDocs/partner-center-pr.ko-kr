@@ -2,6 +2,8 @@
 title: CSP에서 간접 공급자와 파트너 되기 | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객 지원 및 청구를 제공할 수 있는 간접 공급자(배포자라고도 함)와 협력합니다.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +11,12 @@ ms.author: evansma
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318877"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654334"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 
@@ -81,7 +83,7 @@ Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 로그인하는 데
 
 기본 연락처는 애플리케이션과 관련하여 저희 쪽에서 연락을 취할 수 있는 조직 내 사람이어야 합니다(귀하 또는 조직 내 다른 사람도 가능). Gmail, Yahoo! Mail, iCloud Mail, AOL Mail 또는 Outlook Mail과 같은 웹 기반 이메일 서비스의 이메일 주소는 사용할 수 없습니다. 
 > [!IMPORTANT]  
-> 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 이메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 등록했는지, (2) 이 이메일 주소가 귀사의 이메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 이메일 주소를 확인하면 귀하가 제공하신 정보 검토가 계속 진행됩니다. 기본 연락처로 등록 상태 업데이트 이메일을 보내드릴 것입니다.
+> 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 이메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 등록했는지, (2) 이 이메일 주소가 귀사의 이메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 이메일 주소를 확인하면 귀하가 제공한 정보 검토가 계속 진행됩니다. 기본 연락처로 등록 상태 업데이트 이메일을 보내드릴 것입니다.
 
 9.  파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 

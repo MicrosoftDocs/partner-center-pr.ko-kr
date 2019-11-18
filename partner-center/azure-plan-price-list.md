@@ -2,18 +2,20 @@
 title: Azure 플랜 가격표 | 파트너 센터
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure 플랜이 적용되는 구독의 가격표를 보는 방법
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428545"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710144"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표 
 
@@ -23,22 +25,16 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 
 1. 왼쪽의 파트너 센터 메뉴에서 **판매**를 선택한 다음, **Marketplace**를 선택합니다.
 
-2. **내보내기 형식** 옆에서 **Azure 플랜 사용 가격**을 선택합니다.
+2. Azure 플랜 가격 책정에서 가격을 책정하려는 국가를 선택합니다.
 
-3. **날짜 가격 책정** 옆에서 원하는 날짜를 선택합니다(예: **현재**). 참고: **환율**을 선택하여 현재 환율을 내보낼 수도 있습니다.
+3. **내보내기 유형** 옆에서 **Azure 플랜 사용 가격**, **Azure 플랜 예약 가격 책정** 또는 **환율**을 선택합니다. 참고: **환율**은 국가별로 다릅니다.
 
-![azure 가격 책정 2](images/azure/pricelist2.jpg)
-
-4. **Marketplace**에서 제품의 **유형** 및 **범주**를 선택하거나 제품을 검색합니다. 검색 내용에 따라 사용 가능한 제품이 표시됩니다.
-
-![pricing](images/azure/Azurepricelist1.jpg)
-
-5. **Azure 플랜 가격표 내보내기**를 선택하여 선택한 제품의 Azure 플랜 가격을 다운로드합니다.
+3. **날짜 가격 책정** 옆에서 원하는 날짜를 선택합니다(예: **현재**). 
 
 
-![가격표 내보내기](images/azure/pricelist1.png)
+![국가별](images/azure/pricingnew.png)
 
-
+참고: Azure 플랜 가격 책정과 마켓플레이스 타사 가격 책정이라는 두 가지 가격표를 내보낼 수 있습니다. 
 
 ## <a name="azure-price-list-specifics"></a>Azure 가격표 세부 정보
 

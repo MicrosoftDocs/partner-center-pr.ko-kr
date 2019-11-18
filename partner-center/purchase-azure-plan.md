@@ -2,17 +2,19 @@
 title: Azure 플랜 구매 | 파트너 센터
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure 플랜에서 여러 Azure 구독을 구입합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595926"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654170"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure 플랜 구매
 

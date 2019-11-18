@@ -2,17 +2,19 @@
 title: Azure CSP 구독에 대한 관리자 권한 복구 - 파트너 센터
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 이 문서에서는 고객이 파트너의 관리자 권한을 복구하는 데 도움이 되는 방법을 설명합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433726"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651709"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Azure CSP 구독에 대한 관리자 권한 복구  
 

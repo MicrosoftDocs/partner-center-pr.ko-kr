@@ -2,18 +2,20 @@
 title: MPN 제품 갱신 | 파트너 센터
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 사용자 MPN 제품 구독 갱신 기간은 구매 1주년 다음날에 시작됩니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ab5774ebf58f91edb002e0ef56a1a545e3d7b4b8
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318690"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651957"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN 제품 갱신
 

@@ -2,17 +2,19 @@
 title: 클라우드 솔루션 공급자 프로그램의 파트너 옵션 | 파트너 센터
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램을 통해 판매하는 파트너에게 제공되는 옵션에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045634"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799209"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 
 
@@ -79,6 +81,9 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 
 
 CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원하는 항목을 선택하고 카트에 추가하여 주문을 생성한 다음, 주문을 검토하고 제출합니다. 일반적인 프로세스는 아래와 같습니다. (특정 제품 유형의 주문에 대한 자세한 내용은 위의 링크를 참조하세요.)
 
+>[참고] CSP 제품은 테넌트 국가와 고객의 테넌트 국가 모두에서 사용할 수 있어야 합니다. 
+>예를 들어, 테넌트가 슬로바키아에 있고 고객의 테넌트가 독일에 있는 경우, 현재 슬로바키아에서 이 제품을 사용할 수 없기 때문에 해당 고객에게는 Dynamics 365 Business Central Premium을 판매할 수 없습니다.
+
 1. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 귀사에서 제품을 구매하려는 고객을 찾습니다. 
 
 2. 고객 행의 끝에 있는 아래쪽 화살표를 선택하여 고객의 기록을 펼친 다음, **제품 추가**를 선택합니다. 이제부터 주문을 작성합니다. 주문에 여러 유형의 항목을 여러 개 포함해도 되지만, 모두 동일한 고객의 주문이어야 합니다.
@@ -95,7 +100,12 @@ CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원
 
 8. 주문 번호를 비롯한 주문 세부 정보는 다음 페이지에 표시됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다. 
 
-> [!NOTE]
-> 청구 프로세스의 작동 방식에 대한 자세한 내용은 [**청구 기본 사항**](https://docs.microsoft.com/partner-center/billing-basics)을 참조하세요.
+**자세한 내용** 
+
+청구 프로세스의 작동 방식에 대한 자세한 내용은 [청구 기본 사항](https://docs.microsoft.com/partner-center/billing-basics)을 참조하세요.
+
+Azure 플랜에서 구입에 대한 자세한 내용은 [Azure 플랜 구매](purchase-azure-plan)를 참조하세요.
+
+
 
 

@@ -1,17 +1,19 @@
 ---
 title: 파트너 보안 요구 사항 상태 | 파트너 센터
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 회사의 MFA 요구 사항 준수 정보를 최신 상태로 유지하세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425106"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661109"
 ---
 # <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
 
@@ -31,7 +33,7 @@ ms.locfileid: "72425106"
 각 사용자가 인증할 때마다 MFA가 필요한지 확인하려고 합니다. 이 작업은 다음 방법 중 하나를 통해 수행할 수 있습니다.
 
 - Azure AD Premium을 구현하여 MFA가 각 사용자에게 적용되는지 확인
-- 기준 보호 정책 구현
+- [Azure AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
 - 타사 솔루션을 구현하여 MFA가 각 사용자에게 적용되는지 확인
 
 ## <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
@@ -39,7 +41,7 @@ ms.locfileid: "72425106"
 이 보고서는 보안이 약한 위치를 파악하는 방법을 제공하여 보안 요구 사항 상태를 확인하는 데 도움이 됩니다. 추적이 정기적으로 업데이트됩니다.
 
 >[!NOTE]
->파트너 보안 요구 사항 상태 보고서는 파트너 센터에서만 지원됩니다. Microsoft Cloud for US Government 또는 Microsoft 클라우드 독일에서는 사용할 수 없습니다. 소버린 클라우드(21Vianet, 미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 채택할 것을 강력하게 권장합니다. 그러나 이러한 파트너는 2019년 8월 1일부터 적용되는 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다. 
+>파트너 보안 요구 사항 상태 보고서는 파트너 센터에서만 지원됩니다. Microsoft Cloud for US Government 또는 Microsoft 클라우드 독일에서는 사용할 수 없습니다. 소버린 클라우드(21Vianet, 미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 채택할 것을 강력하게 권장합니다. 그러나 이러한 파트너는 2019년 8월 1일부터 적용되는 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
 
 직원이 파트너 센터에 로그인하여 작업하거나 API를 통해 파트너 센터에서 데이터를 가져오거나 전송할 때마다 보안 상태가 검사 및 추적됩니다. 또한 보안 상태 추적에는 파트너의 애플리케이션과 제어판 공급업체 애플리케이션이 포함됩니다. 이전 7일의 상태가 표시됩니다.
 
@@ -93,7 +95,7 @@ MFA를 구현한 파트너의 경우 파트너 센터 MFA 보고서의 메트릭
 현재 구현이 특정 조건 하에서만 MFA를 적용하는지 확인하세요. 일부 MFA 솔루션은 특정 조건이 충족될 때만 MFA를 적용하도록 유연성을 제공합니다. 사용자가 알 수 없는 디바이스 또는 알 수 없는 위치에서 액세스하는 경우를 예로 들 수 있습니다. MFA를 사용하도록 설정되었지만 파트너 센터에 액세스할 때 꼭 MFA 확인을 완료하지 않아도 되는 사용자 때문에 메트릭이 100%가 아닐 수 있습니다.
 
 >[!NOTE]
->Azure AD 최종 사용자 보호 기준 정책을 사용하여 MFA를 구현한 파트너의 경우 최종 사용자 보호가 위험 기반 정책임을 기억해야 합니다. 정책이 적용되는 사용자는 위험한 로그인을 시도하는 경우에만(예: 사용자가 다른 위치에서 로그인) MFA를 요청하는 메시지가 표시됩니다. 또한 정책이 적용되는 사용자는 최대 14일 동안 MFA에 등록할 수 있습니다. MFA 등록을 완료하지 않은 사용자는 14일 동안 MFA 확인을 요청하는 문제가 발생하지 않습니다. 따라서 Azure AD 최종 사용자 보호 기준 정책을 사용하여 MFA를 구현한 파트너의 경우 메트릭이 100%가 아닐 수 있습니다.
+>Azure AD 보안 기본값을 사용하여 MFA를 구현한 파트너의 경우, 관리 사용자 계정이 없으면 위험에 따라 다단계 인증이 적용됩니다. 위험한 로그인을 시도하는 경우에만 MFA가 적용된다는 메시지가 표시됩니다(예: 다른 위치에서 로그인하는 경우). 또한 사용자는 최대 14일 동안 MFA에 등록할 수 있습니다. MFA 등록을 완료하지 않은 사용자는 14일 동안 MFA 확인을 요청하는 문제가 발생하지 않습니다. 따라서 Azure AD 보안 기본값을 사용하여 MFA를 구현한 파트너의 경우 메트릭이 100%가 아닐 수 있습니다.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>타사 MFA 솔루션을 사용하고 있나요?
 

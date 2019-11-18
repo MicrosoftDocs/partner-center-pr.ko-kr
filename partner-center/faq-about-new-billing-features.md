@@ -2,17 +2,19 @@
 title: 새 청구 기능에 대한 FAQ | 파트너 센터
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 다음은 파트너 센터의 연간 청구 및 평가판에 대해 자주 묻는 질문입니다.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: db43e1904e5299ca552cb4f294f801e2cb94da24
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318819"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653125"
 ---
 # <a name="faq-about-new-billing-features"></a>새 청구 기능에 대한 FAQ
 

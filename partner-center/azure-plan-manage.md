@@ -2,17 +2,19 @@
 title: Azure 플랜에서 구독 및 리소스 관리 | 파트너 센터
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure 플랜에서 여러 Azure 구독을 구입합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428492"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653860"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 
