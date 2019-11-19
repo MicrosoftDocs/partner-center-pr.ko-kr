@@ -2,18 +2,20 @@
 title: Azure 플랜으로 고객 전환 | 파트너 센터
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 고객을 Azure 플랜으로 쉽게 이동합니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: d19648053fefdcd998ad47bde2d68b289f15a10c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428535"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653837"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>고객을 Azure 플랜으로 전환
 
