@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 관리자로 처음 로그인하는 경우 지원 세부 정보가 정확한지 확인하고, 해당하는 경우 면세 정보를 제출하고, 프로필의 연락처 정보를 검토합니다.
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653985"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189061"
 ---
-ms. 서비스: 파트너-대시보드 ms. 하위 항목: 기본 센터-csp 설명: 관리자로 처음 서명 하는 경우 지원 세부 정보가 올바른지 확인 하 고, 필요한 경우 파일 세금 면제를 확인 하 고, 프로필의 연락처 정보를 검토 합니다.
-밀리초. 토픽: 문서 날짜: 08/06/2019 assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E author: LauraBrenner: localizationpriority: 중형
----
-
 # <a name="verify-your-partner-profile"></a>파트너 프로필 확인
 
 파트너 센터에 전역 관리자로 처음 로그인하는 경우 기본 연락처, 법적 회사 이름 및 주소, 프로그램 정보 같은 모든 회사 세부 정보가 정확하게 추가되었는지 확인합니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다. 
