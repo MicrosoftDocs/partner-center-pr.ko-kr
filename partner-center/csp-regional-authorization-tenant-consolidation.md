@@ -1,22 +1,22 @@
 ---
 title: CSP 지역 권한 설정 테넌트 통합 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 다양한 국가/지역에 대한 테넌트를 통합하려면 다음 지침을 사용하세요.
+description: 다양한 국가/지역에 대한 테넌트를 통합하려면 다음 지침을 사용하세요. This includes steps to migrate customer accounts and customer subscriptions.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객 마이그레이션, 프로비저닝, 테넌트 계정, 테넌트 통합
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 1a48c8ef8d4f3fd7348a80899253c8071235c317
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653500"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253597"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합
 
@@ -26,7 +26,7 @@ ms.locfileid: "73653500"
 -  Microsoft Cloud for US Government 파트너 센터
 
 
-\[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft에서는 여기에 제공 된 정보에 대해 어떠한 명시적 또는 묵시적 보증도 하지 않습니다.\]
+\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
 
 다양한 국가/지역에 대한 테넌트를 통합하려면 다음 지침을 사용하세요.
 
@@ -37,14 +37,14 @@ ms.locfileid: "73653500"
 ## <a name="prepare-for-migration"></a>마이그레이션 준비
 
 
--   **전환 (기존** ) 계정 (기존 계정)을 사용 하 여 **파트너 센터** 에 로그인 하 고 해당 고객에 대해 프로 비전 된 모든 고객 및 모든 서비스를 기록해 둡니다.
+-   Sign in to your **Partner Center**  with the **Transitioning** (existing) account (the one you will transition)  and take note of all customers and all of the services provisioned for those customers.
 
 ![지역 고객 목록](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>고객 계정 마이그레이션
 
 
-1.  **전환 (신규** ) 계정 (전환 하려는 계정)을 사용 하 여 **파트너 센터** 에 로그인 하 고 **고객**목록으로 이동 합니다.
+1.  Sign in to your **Partner Center**  with the **Transitioning** (new) account (the one you are transitioning into) and navigate to the Customers list from **Customers**.
 
 2.  고객을 선택합니다.
 
@@ -54,14 +54,14 @@ ms.locfileid: "73653500"
 
 5.  로그인한 후 고객 계정의 전역 관리자에게 새 CSP 계정에 위임된 관리 권한을 부여하는 것에 대한 동의를 제출하라는 메시지가 표시됩니다. 동의하는 경우 고객은 확인란을 선택하고 관계에 권한을 부여하는 것에 동의합니다.
 
-고객은 계약을 제출한 후 파트너의 고객 목록에 표시 됩니다.
+The customers will appear in the partner's customer list after they have submitted the agreement, one by one.
 
 ## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a>Office 365 및 비 Azure 사용량 기준 구독 마이그레이션
 
 
 1.  고객이 계약에 서명하고 나면, 중앙 집중식 파트너 테넌트에서 해당 구독을 다시 만들 수 있습니다.
 
-2.  **파트너 센터** 에서 **고객**을 선택 합니다.
+2.  From the **Partner Center** select **Customers**.
 
 3.  마이그레이션할 고객의 회사 이름을 엽니다.
 
@@ -69,7 +69,7 @@ ms.locfileid: "73653500"
 
 5.  카탈로그에서 올바른 구독 및 실제 사용자 수를 추가합니다. **전환 원본** 파트너 계정에 제공된 정보로 확인합니다.
 
-![고객 목록](images/regionalcustomer2.png)
+![customer list](images/regionalcustomer2.png)
 
 6.  **제출**을 클릭합니다.
 
@@ -88,12 +88,12 @@ ms.locfileid: "73653500"
 
 **전환 원본** 파트너 계정에서 CSP 구독을 사용하지 않도록 설정하면 이후 청구가 중지됩니다. Azure 구독은 마이그레이션 프로세스 동안 자동으로 사용하지 않도록 설정되므로 수동으로 Azure 구독을 사용하지 않도록 설정할 필요가 없습니다.
 
-1.  CSP 계정 **에서 전환** 하 여 **파트너 센터** 에 로그인 하 고 고객 목록으로 이동 합니다.
+1.  Sign in to the **Partner Center** with the **Transitioning From** CSP account and navigate to the customer list.
 
 2.  사용하지 않도록 설정할 구독이 포함된 고객을 연 다음 사용하지 않도록 설정할 첫 번째 제품을 선택합니다.
 3.  구독을 **일시 중단됨**으로 설정한 다음 **제출**을 클릭합니다.
 
- >[! **참고**] 구독을 일시 중단 하면 이중 청구가 발생 하지 않습니다.
+ >[!**Note**] Suspending the subscription ensures double billing does not occur.
 
 
 
@@ -111,12 +111,12 @@ The Subscription shows **suspended** on the subscriptions list.
 Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP 구독은 수동으로 마이그레이션할 필요가 없습니다. Microsoft Azure 지원에서는 **전환 원본** CSP 재판매인 계정의 모든 배포된 서비스 또는 리소스뿐만 아니라 Azure 구독을 **전환 대상** CSP 재판매인 계정으로 마이그레이션할 수 있습니다. 이 전환 동안 고객에게 서비스 중단이 발생하지 않습니다.
 
 1.  Azure 구독을 마이그레이션해야 하는 고객 계정이 새 **전환 대상** CSP 계정과 연결하기 위한 계약에 동의했는지 확인합니다.
-2.  파트너는 Azure 구독을 보유 하 고 있는 고객 계정에 대해 Microsoft에 알리고 해당 고객의 회사 이름을 제공 합니다.
+2.  Partners notify Microsoft which customer accounts that have Azure subscriptions are ready to migrate, and provides those customer's company names.
 3.  Microsoft는 Azure 사용량 기준 구독을 마이그레이션하고 마이그레이션이 완료되면 파트너에게 알립니다.
 4.  파트너는 **전환 원본** CSP 재판매인 계정의 Azure 구독이 이제 파트너 센터의 고객 구독 섹션에서 일시 중단됨으로 표시되는지 확인합니다.
 5.  파트너는 **전환 대상** CSP 재판매인 계정의 Azure 구독이 이제 파트너 센터의 고객 구독 섹션에서 **활성** 상태로 표시되는지 확인합니다.
 
->[! **참고**] 고객에서 구독을 사용 하지 않도록 설정 해도 고객 목록에 있는 고객의 모양은 변경 되지 않습니다. 현재 목록에서 고객을 제거하는 옵션은 없습니다. 파트너는 나중에 **전환 원본** 계정에서 이러한 고객에 구독을 다시 추가하지 않아야 합니다.
+>[!**Note**] Disabling the subscriptions under the customer does not change the appearance of the customer in the Customers list. 현재 목록에서 고객을 제거하는 옵션은 없습니다. 파트너는 나중에 **전환 원본** 계정에서 이러한 고객에 구독을 다시 추가하지 않아야 합니다.
 
 
 
@@ -124,7 +124,7 @@ Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP �
 
 ### <a name="notes"></a>참고
 
--   서비스를 사용 하지 않도록 설정 하기 전에 csp 계정 **으로 전환** 하 여 서비스를 프로 비전 했으므로 Csp 계정 **에서 전환** 에서 구독을 사용 하지 않도록 설정 해도 최종 고객의 서비스에 영향을 주지 않습니다.
+-   Disabling the subscription from the **Transitioning From** CSP account does not impact end customer's service provided the service was provisioned from the **Transitioning To** CSP account prior to the disable.
 
 -   고객은 구독을 사용할 수 없으며 구독이 일시 중단되거나 취소된 경우 청구 요금이 발생하지 않습니다.
 
@@ -138,7 +138,7 @@ Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP �
 
 **내보내기 기능**을 사용하여 새 통합 구조에서 사용해야 하는 구독을 캡처할 수 있습니다.
 
-1.  파트너 센터에서 **고객** 을 클릭 하 여 기존 구조에 있는 고객 목록을 표시 합니다.
+1.  Click **Customers** on Partner Center to see the list of customers in your existing structure.
 
 2.  원하는 고객 이름을 엽니다.
 

@@ -1,22 +1,22 @@
 ---
 title: 지원 담당자 할당 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객의 Microsoft 서비스 구독을 설정할 때 직접 지원을 제공하는 대신 이러한 제품의 기술 지원을 지정된 제품 재판매인에게 할당할 수 있습니다.
+description: Learn how to assign a reseller as a technical support contact for customers with subscriptions to Microsoft services.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: 도움말 에이전트, 지원 담당자 할당, 지정된 지원 연락처
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d5318bd9cc33db50d2cc78fc4e31d10e2dbabd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653919"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253341"
 ---
 # <a name="assign-support-contacts"></a>지원 담당자 할당
 
@@ -35,7 +35,7 @@ ms.locfileid: "73653919"
 
 1.  먼저 지정된 제품 재판매인에게 [관계를 요청](request-a-relationship-with-a-customer.md)합니다. 기술 지원 처리에 대한 지원 계약을 협상합니다.
 
-2.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음, 고객을 선택 하 고 구독을 선택 합니다 (예: Office 365 Business Premium).
+2.  From the **Partner Center** menu, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.
 
 3.  **지정된 지원 담당자**에서 지정된 제품 재판매인을 선택한 다음 **제출**을 클릭합니다. 
 
@@ -49,4 +49,4 @@ ms.locfileid: "73653919"
 
 ## <a name="related-topics"></a>관련 항목
 
-[고객과의 관계 제거](remove-a-relationship.md)
+[Remove a relationship with a customer](remove-a-relationship.md)

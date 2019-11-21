@@ -1,21 +1,21 @@
 ---
 title: 다수의 사용자에게 라이선스 할당 및 해지 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다.
+description: Learn how to use a customer account to assign or revoke licenses and services to one user or to multiple users at once.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: 라이선스 할당, 라이선스 해지, 여러 사용자에 게 할당,
+Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: d55a73e295210df7527b2b29fd0a70d4b976f930
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653731"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253043"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
@@ -25,18 +25,18 @@ ms.locfileid: "73653731"
 
 고객 계정에서 사용자 한 명이나 한 번에 다수의 사용자에게 라이선스 및 서비스를 할당하고 사용자에 대한 라이선스 할당을 해지할 수 있습니다.
 
-파트너 센터는 고객 소유 라이선스 자격을 모두 추적 하 고 표시 합니다.
+The Partner Center tracks and shows all customer-owned license entitlements.
 
 ## <a name="in-this-section"></a>이 섹션의 내용
 
 
--   [여러 사용자에 게 라이선스 할당](#assign-licenses-to-groups)
--   [사용자의 라이선스 할당 취소](#revoking-licenses)
+-   [Assign licenses to multiple users](#assign-licenses-to-groups)
+-   [Revoking users' license assignments](#revoking-licenses)
 
-<a href="" id="assign-licenses-to-groups"></a>**여러 사용자에 게 라이선스 할당** 
+<a href="" id="assign-licenses-to-groups"></a>
+**Assign licenses to multiple users**
 
-
-1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
+1.  From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.
 2.  **사용자 및 라이선스**를 선택합니다.
 3.  목록에서 둘 이상의 사용자에 대한 확인란을 선택합니다. (현재 페이지에 있는 모든 사용자를 선택하려면 **사용자** 열의 맨 위에 있는 확인란을 선택합니다.)
 
@@ -62,16 +62,16 @@ ms.locfileid: "73653731"
 7.  각 제품의 확인란을 선택하여 사용자에 대한 둘 이상의 제품을 선택합니다.
     -   사용자에게 필요한 서비스 계획을 보고 선택하려면 원하는 제품에 대해 **서비스 계획 보기**를 선택합니다.
 
-8.  **저장**을 선택합니다. 파트너 센터는 사용자 및 새 라이선스가 나열 된 **라이선스 업데이트** 확인 페이지를 엽니다.
+8.  **저장**을 선택합니다. The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.
 
-일부 Microsoft 제품은 특정 위치에서 사용 하지 못할 **수  .** 다른 제품은 다른 제품 또는 서비스에 종속되거나 같은 사용자에게 함께 할당될 수 없습니다. 저장한 후 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과와 라이선스 할당의 모든 오류가 나열됩니다.
+**Note**  Some Microsoft products may not be available in certain locations. 다른 제품은 다른 제품 또는 서비스에 종속되거나 같은 사용자에게 함께 할당될 수 없습니다. 저장한 후 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과와 라이선스 할당의 모든 오류가 나열됩니다.
 
  
 
-<a href="" id="revoking-licenses"></a>**사용자의 라이선스 할당** 을 취소 
+<a href="" id="revoking-licenses"></a>
+**Revoking users' license assignments**
 
-
-1.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
+1.  From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.
 2.  **사용자 및 라이선스**를 선택합니다.
 3.  목록에서 둘 이상의 사용자에 대한 확인란을 선택합니다. (현재 페이지에 있는 모든 사용자를 선택하려면 **사용자** 열의 맨 위에 있는 확인란을 선택합니다.)
 

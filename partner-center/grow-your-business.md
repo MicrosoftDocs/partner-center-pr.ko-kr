@@ -1,20 +1,20 @@
 ---
 title: Microsoft 파트너 비즈니스 성장 | 파트너 센터
 ms.topic: article
-ms.date: 05/23/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 파트너 비즈니스를 성장시키는 데 도움을 주는 리소스입니다. Microsoft에서 영업 잠재 고객(추천)을 가져오는 방법이 포함됩니다.
+description: Learn about resources for growing your Microsoft partner business. This includes how to get sales leads (referrals) from Microsoft.
 keywords: 추천, 추천에 응답, 잠재 고객, 영업 잠재 고객, 마케팅, 마케팅 프로필, 비즈니스 프로필, 비즈니스 성장, 비즈니스 기회, 역량, 실버 멤버십, 골드 멤버십, 평가판 제품, 시장 확장, 국가별 클라우드
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7f3841271f0259bda35826737b8d40460247aaf4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653043"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253510"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Microsoft 파트너 비즈니스 성장 
 
@@ -42,5 +42,5 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 | 추가 시장에서 판매 | 클라우드 솔루션 공급자 판매 채널은 여러 국가 및 지역에서 사용할 수 있습니다. 목록을 검토하려면 [클라우드 솔루션 공급자 시장](agreements.md)을 참조하세요. 클라우드 솔루션 공급자 채널에 대한 소개는 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.  | CSP 파트너 |
 비영리 조직 및 교육 기관 같은 특수 산업을 대상으로 판매|[특수 산업을 대상으로 판매](get-special-pricing-for-offers.md)|CSP 파트너|
 |인센티브 협력 프로그램에서 지원되는 다양한 활동들을 통해 비즈니스를 성장시키세요. 파트너 센터를 통해 활동에 대한 클레임 제출| [인센티브 클레임 생성 및 관리](create-incentives-claims.md)|CSP 파트너|
-|Azure Marketplace 제품에 대한 구독 판매|[Azure Marketplace 제품에 대한 구독 판매](sell-marketplace-products.md)|CSP 파트너|
+|상업용 마켓플레이스 제품 구독 판매|[Undertand CSP commercial marketplace activities](csp-commercial-marketplace-overview.md)|CSP 파트너|
 |회사가 Azure를 판매하고 관리하는 회사로 매우 유명한가요? Azure 전문가 Microsoft 서비스 공급자 프로그램 등록 신청|[Azure 전문가 Microsoft 서비스 공급자 프로그램](azure-expert-msp.md)|CSP 파트너|

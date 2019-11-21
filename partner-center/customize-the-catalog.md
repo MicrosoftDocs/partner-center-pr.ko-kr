@@ -1,20 +1,20 @@
 ---
 title: 카탈로그 사용자 지정 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 카탈로그에는 파트너가 판매할 수 있는 모든 Microsoft 제품과 추가 기능이 나열됩니다.
+description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65770b397e613c47cb01f86d97c47e6eb9bf9dac
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653414"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252123"
 ---
 # <a name="customize-the-catalog"></a>카탈로그 사용자 지정
 
@@ -28,7 +28,7 @@ ms.locfileid: "73653414"
 
 **카탈로그 사용자 지정**
 
-1.  파트너 센터 메뉴로 이동 하 여 &gt; **카탈로그**를 **판매** &gt; 합니다.
+1.  Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.
 2.  카탈로그의 맨 위에 표시할 제품을 최대 5개 선택합니다.
 
  

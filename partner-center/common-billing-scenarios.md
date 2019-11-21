@@ -1,49 +1,49 @@
 ---
 title: 일반적인 청구 시나리오 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 이 항목에서는 새 구독을 추가한 후, 구독의 라이선스 수를 조정한 후 또는 구독을 취소한 후 청구서에 표시되는 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
+description: Learn what you will see on your bill after you add new subscriptions, adjust the number of licenses in a subscription, or cancel a subscription.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: 청구, 지불, 주문, 사용량, 라이선스 기반 청구, 기념일 날짜, 용어, 취소, 갱신, 가격 수식, 조정 파일, 정찰 파일
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: a4a152719f20c82ff338e6f577ea83fa9eb5e4f6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d8afffa1dd11e386b03548c8f10e5490e6db5894
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653663"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253402"
 ---
 # <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 
 **적용 대상**
 
--   클라우드 솔루션 공급자 프로그램 청구
+-   Cloud Solution Provider program billing
 
 이 항목에서는 새 구독을 추가한 후, 구독의 라이선스 수를 조정한 후 또는 구독을 취소한 후 청구서에 표시되는 내용에 대해 설명합니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
 
 ## <a name="in-this-section"></a>이 섹션의 내용
 
--   [사용량 기반 청구](#usagebased)
+-   [Usage-based billing](#usagebased)
 
--   [라이선스 기반 청구](#licensebased)
+-   [License-based billing](#licensebased)
 
-## <a href="" id="usagebased"></a>사용량 기반 청구
+## <a href="" id="usagebased"></a>Usage-based billing
 
-사용량 기준 구독은 구독 연주기일에 매월 후불로 요금이 청구됩니다. 예를 들어 구독 예정일 날짜가 15 인 경우 서비스 기간 12 월 15 일 – 1 월 14 일에 대해 1 월 15 일에 대 한 요금이 청구 됩니다. 1 월 15 일-2 월 14 일 등의 서비스 기간에 대해 2 월 15 일에 다시 청구 됩니다. 구독 기념일 일에 생성 되는 요금은 다음 청구서 및 조정 파일에 표시 됩니다.
+사용량 기준 구독은 구독 연주기일에 매월 후불로 요금이 청구됩니다. For example, if the subscription anniversary date is the 15th, you will be charged on January 15 for the service period December 15 - January 14. You will be charged again on February 15 for the service period January 15 - February 14, etc. The charges that are generated on the subscription anniversary day will appear on the following invoice and reconciliation file.
 
-청구서에서 사용 요금이 누락 되거나 이전 달의 사용량이 현재 월의 청구서에 부과 되는 경우도 있습니다. 이는 오류가 아닙니다. 서비스가 발생 한 후 서비스가 타임 스탬프 되었음을 의미 합니다. 청구 주기가 끝날 때 24 시간 이내에 보고 된 사용량은 다음 달의 청구서에 표시 됩니다. 
+You may occasionally notice that some usage charges are missing from your invoice, or that usage from a previous month is charged in the current month's invoice. This is not an error; it simply means that the service was timestamped after the services occurred. Usage reported within 24 hours of the end of the billing cycle will appear on the next month's bill. 
 
-언제 든 지 사용 기반 구독이 일시 중단 될 수 있습니다. 
+Usage-based subscriptions may be suspended at any time. 
 
 Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격 책정 및 제품 페이지에서 확인할 수 있습니다. 가격은 매일 변경이 가능하며 가격 목록의 변경 기록 탭에 반영됩니다.
 
 사용 요금은 일일 가격을 기준으로 합니다. 서비스 기간 동안 가격이 변경되면 각 비례 배분 방식 서비스 기간에 대한 청구 항목과 해당 가격이 표시됩니다.
 
-## <a href="" id="licensebased"></a>라이선스 기반 청구
+## <a href="" id="licensebased"></a>License-based billing
 
 **청구:** 라이선스 기준 구독은 구독 연주기일에 사전 청구됩니다.
 
@@ -55,9 +55,9 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 
 **갱신:** 모든 라이선스 기준 구독은 결제 기간 시작 12개월 이후 자동 갱신됩니다.
 
-## <a href="" id="licensebasedmonthly"></a>월간 청구 시나리오
+## <a href="" id="licensebasedmonthly"></a>Monthly billing scenarios
 
-**시나리오 1: 새 구독**
+**Scenario 1: New subscription**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 월별 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -71,7 +71,7 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |2018년 2월 13일         |2018년 3월 12일    |주기 수수료   |4.00       |1        |4.00    
 
-**시나리오 2: 라이선스 수량 변경**
+**Scenario 2: Change license quantity**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 월별 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -88,19 +88,19 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |2018년 2월 1일         |2018년 2월 12일    | 주기 인스턴스 비례 배분   |1.55       |2        |3.10    
 |2018년 2월 13일         |2018년 3월 12일    | 주기 인스턴스 비례 배분   |4.00       |2        |8.00    
 
-**단가 수식:**
+**Unit Price Formulas:**
 
-월 가격은 4.00이 고 서비스 기간 1/13/2018-2/12/2018에는 31 일이 있습니다. 따라서 일별 가격은 0.129달러입니다(4월 31일).
+The monthly price is 4.00 and there are 31 days in the service period 1/13/2018 - 2/12/2018. 따라서 일별 가격은 0.129달러입니다(4월 31일).
 
-배분을 기간 1/13/2018-1/31/2018에는 19 일이 있습니다.
+There are 19 days in the proration period 1/13/2018 - 1/31/2018.
 
 배분 단가 = 2.451 = 19 x 0.129
 
-배분을 기간 2/1/2018-2/12/2018에는 12 일이 있습니다.
+There are 12 days in the proration period 2/1/2018 - 2/12/2018.
 
 배분 단가 = 1.54 = 12 x 0.129
 
-**시나리오 3:30 일 전 일시 중단**
+**Scenario 3: Suspend before 30 days**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 월별 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -108,13 +108,13 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2018년 2월 12일    |주기 수수료   |4.00       |1        |4.00    
 
-2 월 1 일에 구독을 일시 중단 합니다. 2월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
+On February 1 you suspend a subscription. 2월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
 |청구 시작 날짜 |청구 종료 날짜 |청구 유형 |단가 |Quantity |합계 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2018년 2월 12일|취소 요금|-4.00|1|-4.00
 
-**시나리오 4:30 일 후 일시 중단**
+**Scenario 4: Suspend after 30 days**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 월별 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -134,19 +134,19 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2018년 3월 1일|2018년 3월 12일|취소 요금|-1.72|1|-1.72
 
-**단가 수식:**
+**Unit Price Formulas:**
 
-월 가격은 4.00이 고 서비스 기간 2/13/2018-3/12/2018에 28 일이 있습니다. 따라서 일별 가격은 0.143달러입니다(4월 28일).
+The monthly price is 4.00 and there are 28 days in the service period 2/13/2018 - 3/12/2018. 따라서 일별 가격은 0.143달러입니다(4월 28일).
 
 단가는 서비스 기간의 일 수 x 일별 가격 x 라이선스 수입니다.
 
-12 일은 취소 기간 3/1/2018-3/12/2018에 있습니다. 
+There are 12 days in the cancellation period 3/1/2018 - 3/12/2018. 
 
-따라서 단가 =-1.716 (12 x 0.143 x (-1))입니다.
+Therefore, the unit price = -1.716 (12 x 0.143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>연간 청구 시나리오
 
-**시나리오 1: 새 구독**
+**Scenario 1: New subscription**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 연간 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -154,11 +154,11 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|구매 시 비례 배분 방식 요금|48.00|1|48.00
 
-**시나리오 2: 구독 기념일 이후 라이선스 추가 (지불 날짜 이전)**
+**Scenario 2: Add license after subscription anniversary date but before billing date**
 
 귀하가 17/2/11에 $211.20/년에 대한 라이선스 1개와 함께 새 구독을 구입합니다. 구독 연주기일은 매월 11일로 설정됩니다. Microsoft 청구 시스템에서 다음 청구 항목을 생성합니다. 
 
--   $211.20 기간 2/11/17-2/10/18 
+-   $211.20 charge for period 2/11/17 - 2/10/18. 
 
 17/2/12에 두 번째 라이선스를 구입합니다. 청구 날짜는 17/2/14입니다. 송장 및 조정 파일이 생성됩니다. 조정 파일에 다음 청구 항목이 포함됩니다. 
 
@@ -167,10 +167,10 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |2017/2/11 |2018/2/10 |구매 시 비례 배분 방식 요금 |211.20 |1 | 211.20 |
 
 구독 연주기일인 17/3/11에 Microsoft 청구 시스템은 17/2/12에 라이선스 증대에 대한 다음 청구 줄을 생성합니다. 
--   -$211.20 기간 2/11/17-2/10/18의 크레딧 
--   $0.58 기간 2/11/17-2/11/17에 라이선스 1 개에 대 한 라이선스 당 청구 요금 
--   $15.62 기간 2/12/17-3/10/2017의 라이선스 2 개에 대 한 라이선스 당 비용이 청구 됩니다. 
--   $195.00 기간 3/11/2017-2/10/2018의 라이선스 2 개에 대 한 라이선스 당 비용이 청구 됩니다. 
+-   -$211.20 credit for period 2/11/17 - 2/10/18. 
+-   $0.58 prorated charge per license for 1 license for period 2/11/17 - 2/11/17. 
+-   $15.62 prorated charge per license for 2 licenses for period 2/12/17 - 3/10/2017. 
+-   $195.00 prorated charge per license for 2 licenses for period 3/11/2017 - 2/10/2018. 
 
 귀하가 17/2/11에 구독을 구입합니다. 17/2/12에 라이선스를 추가합니다. 청구 날짜는 17/2/14입니다. 18/2/11에 구독 갱신합니다.
 
@@ -186,7 +186,7 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 18/2/11에는 구독이 12개월 더 갱신됩니다.
 
 
-**시나리오 3: 라이선스 수량 변경**
+**Scenario 3: Change license quantity**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 연간 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -202,21 +202,21 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 1/13/2018|1/31/2018|주기 인스턴스 비례 배분|2.47|1|2.47
 2018년 2월 1일|1/12/2019|주기 인스턴스 비례 배분|44.98|2|89.96
 
-**단가 수식:**
+**Unit Price Formulas:**
 
 연간 가격이 48.00이므로 일별 가격은 0.13(48.00/365)입니다.
 
 단가는 서비스 기간의 일 수 x 일별 가격 x 라이선스 수입니다.
 
-서비스 기간 1/13/2018-1/31/2018에는 19 일이 있습니다. 
+There are 19 days in service period 1/13/2018 - 1/31/2018. 
 
 따라서 단위 가격 = 2.47 (19x0.13x1)입니다.
 
-346 일은 서비스 기간 2/1/2018-1/12/2019에 있습니다. 
+There are 346 days in service period 2/1/2018 - 1/12/2019. 
 
 따라서 단위 가격 = 44.98 (346x0.13x2)입니다.
 
-**시나리오 4:30 일 전 일시 중단**
+**Scenario 4: Suspend before 30 days**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 연간 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -230,7 +230,7 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|취소 요금|-48.00|1|-48.00
 
-**시나리오 5:30 일 후 일시 중단**
+**Scenario 5: Suspend after 30 days**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 연간 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -245,17 +245,17 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2018년 3월 1일|1/12/2019|취소 요금|-41.34|1|-41.34
 
-**단가 수식:**
+**Unit Price Formulas:**
 
 연간 가격이 48.00이므로 일별 가격은 0.13(48.00/365)입니다.
 
 단가는 서비스 기간의 일 수 x 일별 가격 x 라이선스 수입니다.
 
-318 일은 서비스 기간 3/1/2018-1/12/2019에 있습니다. 
+There are 318 days in service period 3/1/2018 - 1/12/2019. 
 
 따라서 단위 가격 = 41.34 (318x0.13x1)입니다. 이는 환불이므로 단가는 -41.34입니다.
 
-**시나리오 6: 일시 중단 및 다시 활성화**
+**Scenario 6: Suspend and reactivate**
 
 청구 날짜는 매월 15일입니다. 1월 13일에 $4/월에 라이선스가 하나인 새 구독을 구매하고, 연간 청구를 선택합니다. 1월 15일 라이선스 기준 조정 파일은 다음 청구 항목을 포함합니다.
 
@@ -275,12 +275,12 @@ Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 2018년 3월 1일|1/12/2019|구매 시 비례 배분 방식 요금|41.34|1|41.34
 
-**단가 수식:**
+**Unit Price Formulas:**
 
 연간 가격이 48.00이므로 일별 가격은 0.13(48.00/365)입니다.
 
 단가는 서비스 기간의 일 수 x 일별 가격 x 라이선스 수입니다.
 
-318 일은 서비스 기간 3/1/2018-1/12/2019에 있습니다. 
+There are 318 days in service period 3/1/2018 - 1/12/2019. 
 
 따라서 단위 가격 = 41.34 (318x0.13x1)입니다.
