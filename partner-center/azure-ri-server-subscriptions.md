@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft는 Azure RI와 서버 구독을 CSP 프로그램에 연결하여 파트너들이 보다 비용 효과적인 솔루션에 대한 고객의 급증하는 요구를 충족하여 예측성이 뛰어난 영구적인 클라우드 워크로드를 지원하도록 적극 돕고 있습니다. CSP 프로그램을 통해 파트너는 상용 고객을 대신하여 Microsoft 파트너 센터 및 Azure Portal을 통해 Azure RI 및 서버 구독을 획득, 프로비저닝 및 관리할 수 있습니다.
+description: 고객에 대 한 Azure 예약 및 서버 구독을 획득, 프로 비전 및 관리 하기 위한 클라우드 솔루션 공급자 기회에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653795"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253226"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -46,7 +46,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 -   SQL DB 예약
 -   SQL Managed Instance
 -   Azure Cosmos DB
--   Azure SQL Data Warehouse
+-   Azure SQL 데이터 웨어하우스
 -   App Services
 -   Azure Databricks 단위 예약
 
@@ -63,7 +63,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 #### <a name="isv-annual-subscriptions"></a>ISV 연간 구독
 -   CloudSimple의 Azure VMware 솔루션
 
-## <a name="getting-started"></a>시작하기
+## <a name="getting-started"></a>시작
 
 고객을 대상으로 Azure Reservations를 포지셔닝하고 가능한 빠르게 작동을 시작하고 실행하는 방법을 이해하려면 다음과 같은 접근 방식으로 준비 자료를 검토하는 것이 좋습니다.
 
@@ -112,7 +112,7 @@ Microsoft는 CSP 프로그램에 대 한 Azure Reservations 및 서버 구독을
 
 **작업**
 
-- [최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트 됨): 계약, 파트너 센터의 주문, 청구서, 가격 목록 정보, 성과급, 조정 파일, API/SDK, 샌드박스 및와 같은 운영 측면을 다루는 포괄적인 가이드입니다. Azure 파트너 공유 서비스.
+- [최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트 됨): 규약, 파트너 센터의 주문, 송장, 가격 목록 정보, 성과급, 조정 파일, API/SDK, 샌드박스 및 Azure 파트너 공유 서비스와 같은 주요 정책 및 운영 측면을 다루는 포괄적인 가이드입니다.
 - [최신 제품 사용 가능 국가 및 고객 통화표](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Microsoft Azure 예약 인스턴스 판매](https://go.microsoft.com/fwlink/?linkid=872806)
 - [고객을 대신하여 Microsoft Azure 예약 구입](https://go.microsoft.com/fwlink/?linkid=872807)

@@ -1,21 +1,21 @@
 ---
 title: CSP를 통해 소프트웨어 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 05/13/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 따라서 이제 Azure 하이브리드 혜택을 활용하여 Microsoft 파트너 센터 및 Azure Portal을 통해 상업 고객을 대신하여 Azure Reserved Instances 및 서버 구독을 획득, 프로비전 및 관리할 수 있게 되었습니다.
+description: CSP 프로그램의 파트너가 파트너 센터를 사용 하 여 고객에 대 한 Azure 예약 인스턴스 및 서버 구독을 구매, 관리, 판매 및 취소 하는 방법을 알아봅니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653482"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253547"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
 

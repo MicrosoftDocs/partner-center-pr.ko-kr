@@ -1,21 +1,21 @@
 ---
 title: 고객을 대신하여 Microsoft Azure 예약 구입 | 파트너 센터
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구매할 수 있습니다.
+Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653822"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253236"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
@@ -84,7 +84,7 @@ ms.locfileid: "73653822"
 > | 에리트레아     | 미얀마어     | 투발루   |
 > | 포클랜드 제도     | 나우루     | 미국령 해외 제도   |
 > | 프랑스령 기아나     | 뉴칼레도니아     | 바누아투   |
-> | 프랑스령 폴리네시아     | 니제르     | 바티칸시국   |
+> | 프랑스령 폴리네시아     | 니제르     | 바티칸 시국   |
 > | 프랑스 남부 지방     | 니우에     | 월리스 푸투나   |
 > | 가봉     | 노퍽 섬     | 예멘   |
 > | 감비아     | 북마리아나 제도     |    |
@@ -98,7 +98,7 @@ ms.locfileid: "73653822"
 
 2. **고객** 페이지에서 Azure 예약을 구매 하려는 고객을 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다.  
 
-3. **제품 추가**를 선택한 다음, **Azure**를 선택합니다. 
+3. **제품 추가**를 선택한 다음 **Azure**를 선택합니다. 
 
     a. **세그먼트** 목록에서 고객의 시장 세그먼트를 선택합니다.
 
@@ -134,7 +134,7 @@ ms.locfileid: "73653822"
     - Azure 예약에서 청구 계획 옵션을 지 원하는 경우 드롭다운 메뉴에서 월별 청구 빈도를 선택할 수 있습니다. 
     - Azure 예약에서 청구 계획 옵션을 지원 하지 않는 경우 청구 주기는 기본적으로 일회성 청구로 설정 됩니다. 
 
-9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다. 
+9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 내역** 페이지로 이동합니다. 
 
 10. Azure Portal에서 고객의 예약을 관리 하려면 **고객 페이지에서 고객을** 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다. **Microsoft Azure 관리 포털** 를 선택 하 여 Azure Portal에서 고객의 레코드를 엽니다.
 

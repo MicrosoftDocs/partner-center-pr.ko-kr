@@ -1,20 +1,20 @@
 ---
 title: 파트너의 획득 크레딧을 계산 하는 방법 | 파트너 센터
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure 계획의 파트너 획득 크레딧 측면을 계산 하는 방법
+description: Azure 계획의 PEC (파트너 획득 크레딧) 측면이 계산 되는 방법에 대해 알아봅니다. 여기에는 파트너 및 간접 공급자에 대 한 자격 요구 사항이 포함 됩니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653716"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253415"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>파트너 획득 신용 (PEC)를 계산 하는 방법
 
@@ -36,7 +36,7 @@ IT의 연중 무휴 IT 운영 관리 나 CSP에서 고객의 전체 Azure 환경
 
 - PEC는 매일 계산 되며 일일 정찰 파일에서 볼 수 있습니다. 파트너 (공급자를 통해)는 전체 영업일 (연중 무휴)에 대 한 액세스 권한이 있어야 PEC를 받을 수 있습니다.
 
-- PEC는 Azure 리소스 수준까지 획득 됩니다. 파트너에 게 구독 또는 리소스 그룹 수준에서 유효한 액세스 권한이 있는 경우 해당 역할이 상위 엔터티에 속하는 각 리소스는 PEC를 얻게 됩니다. 
+- PEC는 Azure 리소스 수준에서 획득됩니다. 파트너에 게 구독 또는 리소스 그룹 수준에서 유효한 액세스 권한이 있는 경우 해당 역할이 상위 엔터티에 속하는 각 리소스는 PEC를 얻게 됩니다. 
 
 - PEC는 파트너의 월간 청구서에 포함 됩니다. 청구서에는 요금이 부과 됩니다. 세부 정보는 invoice 정찰 파일에 표시 됩니다.
 

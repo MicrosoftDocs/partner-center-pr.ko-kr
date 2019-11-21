@@ -1,26 +1,27 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 클라우드 솔루션 공급자 프로그램을 통해 신규 고객 및 새로운 전문 지식으로 비즈니스를 성장시킬 수 있습니다.
+description: 클라우드 솔루션 공급자 프로그램의 이점과 다른 모델에 대해 자세히 알아보고 새 고객과 새로운 전문 지식을 활용 하 여 비즈니스를 확장 하는 데 도움을 받을 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653513"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252826"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
+- CSP 프로그램의 파트너
 
 CSP (클라우드 솔루션 공급자 프로그램)는 재판매 라이선스를 벗어나 고객의 비즈니스에 더 많은 관여를 주는 데 도움이 됩니다.
  

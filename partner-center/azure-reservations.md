@@ -1,21 +1,21 @@
 ---
 title: 파트너 센터-Microsoft Azure 예약 개요 | 파트너 센터
 ms.topic: article
-ms.date: 11/05/2018
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: CSP (클라우드 솔루션 공급자 프로그램)의 파트너는 고객에 게 Microsoft Azure 예약을 제공할 수 있습니다.
+Description: 클라우드 솔루션 공급자가 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 하 여 고객에 대 한 Azure 예약을 구입, 판매 또는 관리 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구입, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39511095447138ffbed701fd07d5f592bba9ef33
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653804"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253117"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>파트너 센터-판매 Microsoft Azure 예약
 

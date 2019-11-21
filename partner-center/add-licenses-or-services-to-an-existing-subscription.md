@@ -1,21 +1,21 @@
 ---
 title: 기존 구독에 라이선스 또는 서비스 추가 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객이 현재 구독에서 제공하는 것보다 많은 사용자 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다.
+description: 라이선스를 추가 하거나 다른 서비스를 사용 하 여 다른 버전으로 이동 하는 등 고객의 구독을 업그레이드 하거나 수정 하는 방법에 대해 알아봅니다.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654364"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253137"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
 
@@ -37,7 +37,7 @@ ms.locfileid: "73654364"
 </colgroup>
 <thead>
 <tr class="header">
-<th>제품</th>
+<th>제안</th>
 <th>가능한 업그레이드</th>
 </tr>
 </thead>

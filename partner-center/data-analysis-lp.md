@@ -1,22 +1,32 @@
 ---
 title: 파트너 센터의 데이터 및 분석 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 데이터 기능을 사용하면 고객의 비즈니스를 더 잘 이해할 수 있습니다.
+description: 파트너 센터에서 분석을 사용 하 여 비즈니스와 고객이 구매한 라이선스를 사용 하는 방법을 더 잘 이해 하는 방법을 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 데이터, 분석, 데이터 분석, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 8817cc372ab2fbefce51f047f81b410c38003966
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653240"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252269"
 ---
-# <a name="get-data-and-analyze-your-business"></a>데이터 수집과 비즈니스 분석 
+**적용 대상**
+
+- 파트너 센터
+- MPN 파트너
+- CSP 프로그램의 파트너
+
+**적절 한 역할**
+
+- MPN 파트너 관리자
+
+# <a name="get-data-and-analyze-your-business"></a>데이터 수집과 비즈니스 분석
 
 CSP 비즈니스를 개발하기 위한 계획 과정에서 Microsoft 제품을 사용하는 방식을 이해해야 합니다. 파트너 센터에서 데이터를 수집할 수 있는 몇 가지 옵션이 제공되며, 고객의 비즈니스에 대한 데이터와 고객이 구입한 라이선스를 사용하는 방법에 대한 데이터를 모두 수집할 수 있습니다. CSP 직접 모델을 채택하면 Power BI용 파트너 센터 분석 앱을 설치 및 사용하여 추가 데이터를 수집할 수 있습니다.
 
@@ -29,7 +39,9 @@ CSP 비즈니스를 개발하기 위한 계획 과정에서 Microsoft 제품을 
 
 **파트너 센터에서 사용자 분석에 대 한 액세스 권한 부여** 
 
-1.  파트너 센터 **사용자 관리** 페이지에서 검색 상자를 사용 하 여 액세스 해야 하는 사용자를 찾습니다.
+1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+
+2. 파트너 센터 메뉴의 파트너 센터 **사용자 관리** 페이지에서 검색 상자를 사용 하 여 액세스 해야 하는 사용자를 찾습니다.
 2.  검색 결과에서 사용자의 이름을 선택 하 여 **사용자 세부 정보** 페이지를 엽니다.
 3.  **역할 및 권한**에서 **MPN partner admin** 을 선택 하 고 **업데이트**를 선택 합니다.
 

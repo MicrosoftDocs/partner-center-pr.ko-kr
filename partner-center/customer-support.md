@@ -1,20 +1,20 @@
 ---
 title: 고객에게 지원 제공 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너는 고객 으로부터 들어오는 지원 요청을 받고, 파트너의 가장 적합 한 기능에 대 한 문제를 진단 하 고, 기준 지원 범위 범위 내에 있는 문제를 해결 하는 데 필요 합니다.
+description: CSP 프로그램의 파트너에 대 한 고객 지원 책임에 대해 알아봅니다.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f6c6afbe59424cf3ca38186b66490bbf695cfee1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653445"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253485"
 ---
 # <a name="providing-support-to-your-customers"></a>고객에게 지원 제공
 

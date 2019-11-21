@@ -1,9 +1,9 @@
 ---
 title: 간접 재판매인 성과 분석 | 파트너 센터
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 간접 대리점의 성능에 대 한 데이터를 가져와 성공 및 더 많은 주의가 필요한 영역을 식별 합니다.
+Description: Analytics를 사용 하 여 간접 재판매인이 수행 하는 방법을 파악 하는 방법을 알아보고 성공 및 영역에서 더 많은 주의가 필요할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -11,16 +11,17 @@ ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653923"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253383"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>간접 재판매인 성과 분석 
 
 **적용 대상**
+
 - 파트너 센터
 
 데이터는 비즈니스 결정을 주도합니다. **재판매인 분석** 페이지의 메트릭을 사용하여 귀사의 성공 상태, 간접 재판매인의 성공 상태 및 더 많은 관심이 필요한 분야를 파악하세요. 이 정보를 사용하여 새로운 비즈니스 목표를 계획하세요.

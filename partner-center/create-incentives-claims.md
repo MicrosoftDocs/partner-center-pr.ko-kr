@@ -1,21 +1,21 @@
 ---
 title: 성과급 클레임 만들기 및 관리 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 파트너 센터에서 공동 op 클레임을 시작 합니다. 검색 기록에서 클레임 형성에 해당되는 모든 활동을 볼 수 있습니다.
+description: 파트너 센터에서 공동 op 클레임의 성과급을 시작 하는 방법을 알아봅니다. 검색 기록에서 클레임 형성에 해당되는 모든 활동을 볼 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f9656b510bc063674a4d237f9e26506036528fe1
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653586"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253465"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>인센티브 클레임 생성 및 관리
 

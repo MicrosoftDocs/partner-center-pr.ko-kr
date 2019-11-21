@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 기본 청구 시나리오에 대 한 정보 및 라이선스 기반 및 사용량 기반 청구의 차이점
+Description: 파트너 센터에서 Azure 구독 및 예약에 대 한 기본 청구 시나리오와 라이선스 기반 청구와 사용량 기반 청구 간의 차이점에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653754"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253209"
 ---
 # <a name="billing-overview"></a>청구 개요
 
