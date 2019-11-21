@@ -114,6 +114,14 @@
 ## [지원 담당자 할당](assign-support-contacts.md)
 
 # [CSP 혜택](csp-offers.md)
+## 상용 마켓플레이스
+### [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)
+### [마켓플레이스 제품 검색](csp-commercial-marketplace-discover.md)
+### [마켓플레이스 제품 구매](csp-commercial-marketplace-purchase.md)
+### [마켓플레이스 제품 관리](csp-commercial-marketplace-manage.md)
+### [마켓플레이스 제품 비용 청구](csp-commercial-marketplace-billing.md)
+### [마켓플레이스 제품 지원](csp-commercial-marketplace-support.md)
+### [마켓플레이스 구매 계약](csp-commercial-marketplace-contracting.md) 
 ## [Azure Reservations](azure-reservations.md)
 ### [최대 예약 사용량에 맞게 VM 크기 조정](azure-usage.md)
 ### [고객을 대신하여 Microsoft Azure 예약 구입](azure-reservations-buying.md)
@@ -135,7 +143,6 @@
 ### [프로모션을 사용하여 신규 고객 유치](promotions.md)
 ### [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)
 ### [마켓플레이스 시판 제품 구독 판매](sell-marketplace-products.md)
-### [Marketplace 특별 혜택](isv-opt-in.md)
 ### [파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)
 ### [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ### [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
