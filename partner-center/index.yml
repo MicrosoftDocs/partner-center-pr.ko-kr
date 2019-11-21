@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/05/2019
-  ms.openlocfilehash: 4976296092b1c40e3b1ac77c8591a620a1c5c43c
-  ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
+  ms.date: 11/20/2019
+  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
+  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/07/2019
-  ms.locfileid: "73753867"
+  ms.lasthandoff: 11/20/2019
+  ms.locfileid: "74253693"
 highlightedContent:
   items:
   - title: 로그인하여 최신 공지 사항을 확인하세요.
@@ -29,9 +29,9 @@ highlightedContent:
   - title: API 및 SDK 얼리어답터 프로그램 참여
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: 새 Microsoft 고객 계약
-    itemType: concept
-    url: confirm-customer-agreement.md
+  - title: 상용 Marketplace 개요
+    itemType: whats-new
+    url: csp-commercial-marketplace-overview.md
   - title: 다단계 인증 및 보안 모범 사례
     itemType: overview
     url: partner-security-requirements.md
@@ -57,9 +57,9 @@ conceptualContent:
       text: 자세한 내용
   - title: 고객과의 관계 구축
     links:
-    - url: csp-offers.md
+    - url: confirm-customer-agreement.md
       itemType: how-to-guide
-      text: 제품 및 서비스 판매
+      text: 새 Microsoft 고객 계약
     - url: assign-licenses-to-users.md
       itemType: how-to-guide
       text: 고객 라이선스 관리
