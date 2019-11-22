@@ -1,73 +1,75 @@
 ---
-title: 응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외 | 파트너 센터
+title: One-time exam requirements exemption for the Application Development competency | Partner Center
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 이전 ISV 역량을 갖춘 파트너의 경우 응용 프로그램 개발 역량에 대해 일회성 시험 요구 사항 예외를 얻는 방법을 알아보세요.
+description: For partners with a prior ISV competency, learn how to gain a one-time exam requirements exemption for the Application Development competency
 author: LauraBrenner
 ms.author: labrenne
-keywords: 역량, ISV, 응용 프로그램 개발
+keywords: competencies, ISV, application development
 ms.localizationpriority: medium
-ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
-ms.translationtype: HT
+ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253362"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295231"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>One-time exam requirements exemption for the Application Development competency
 
 **적용 가능한 역할**
 
 - 전역 관리자
 - MPN 파트너 관리자
 
-지금까지 사용이 중지 된 ISV 역량을 획득 하 고 다음 시나리오 중 하나가 사용자에 게 적용 되는 경우 microsoft는 골드 또는 실버 [응용 프로그램 개발 역량](https://partner.microsoft.com/membership/application-development-competency)에 대해 일회성 시험 요구 사항 면제를 회사에 제공 합니다. 
+If you attained the now-retired ISV competency and one of the following scenarios applies to you, we are offering your company a one-time exam requirements exemption for the gold or silver [Application Development competency](https://partner.microsoft.com/membership/application-development-competency). 
 
-ISV 역량을 갖춘 파트너:
+Partners with an ISV competency:
 
-- **ISV 역량은 만료 되었습니다** . 일회성 시험 요구 사항은 2019 년 11 월 22 일에 시작 되는 파트너 센터에서 사용할 수 있습니다. 제품을 활용 하는 데 30 일이 있습니다. 
+- **Your ISV competency has expired** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
 
-- **역량 멤버 자격은 갱신 기간에** 있습니다. 일회성 시험 요구 사항은 2019 년 11 월 22 일에 시작 되는 파트너 센터에서 사용할 수 있습니다. 제품을 활용 하는 데 30 일이 있습니다. 
+- **Your competency membership is in its renewal window** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
 
-- **역량 멤버 자격은 향후 몇 개월 내에 갱신 될 예정** 입니다. 갱신할 때 일회성 시험 요구 사항 예외를 사용할 수 있습니다. 이 시점에서 제품을 30 일 동안 제공 합니다.
+- **Your competency membership is due for renewal in the coming months** – your one-time exam requirements exemption will be available to you when it’s time to renew. At that time, you will have 30 days to get the offer.
 
-인증서 IP 경로를 통해 응용 프로그램 개발 역량을 획득 한 파트너:
+Partners with an Application Development competency attained via the cert IP path:
 
-- **Microsoft 상업적 marketplace 목록이 있는 경우**역량 갱신 시 일회성 시험 요구 사항 면제를 사용할 수 있습니다. 이 경우 제품을 활용 하는 데 30 일이 소요 됩니다.
+- **If you have a Microsoft commercial marketplace listing**, your one-time exam requirements exemption will be available at the time of your competency renewal. At that time, you will have 30 days to take advantage of the offer.
 
-- **[Microsoft 상업적 marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) 목록이 없는 경우**일회성 시험 요구 사항 면제를 위해 2020 년 2 월로 솔루션을 게시 합니다.
+- **If you do not have a [Microsoft commercial marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) listing**, publish your solution by February 2020 to be eligible for the one-time exam requirements exemption.
 
-## <a name="how-to-take-advantage-of-your-offer"></a>제품을 활용 하는 방법
+## <a name="how-to-take-advantage-of-your-offer"></a>How to take advantage of your offer
 
-1. 대시보드의 파트너 센터 메뉴에서 역량 **을 선택 합니다**.
-2. 사용할 수 있는 역량 목록에서 응용 프로그램 개발이 **완료**로 표시 됩니다.
+1. From the Partner Center menu on your dashboard, select **Competencies**.
+2. In the list of competencies that are available, Application Development is marked **Complete**.
 
-![isv에서 appdev로](images/appdev.png)
+![isv to appdev](images/appdev.png)
 
-3. **응용 프로그램 개발**을 선택 합니다. 시험 요구 사항을 충족 하지 못하도록 회사를 제외 하는 재정의가 제공 되었다는 알림이 표시 됩니다. 
+3. Select **Application Development**. You will see the notice that you have been given an override that exempts your company from meeting the exam requirements. 
 
-4. 이 제품을 활용 하려면 **회원 혜택**으로 이동 하세요. 역량 구매 또는 갱신 상태에 따라 프로세스를 완료 하려면 역량 요금을 지불 해야 할 수 있습니다. 
+4. To take advantage of this offer, go to **Membership offers**. You may need to pay the competency fee to complete the process depending on your competency purchase or renewal status. 
 
-이 제품은 파트너 센터를 통해 사용할 수 있습니다.
+This offer is available through Partner Center.
 
-제품을 제공 하는 데 도움이 필요 하거나이 제품에 대 한 자격에 대 한 질문이 있는 경우 [파트너 지원](https://partner.microsoft.com/Support)담당자에 게 문의 하세요. 
+If you need assistance getting your offer, or have questions about your eligibility for this offer, contact [partner support](https://partner.microsoft.com/Support). 
 
 ## <a name="frequently-asked-questions"></a>질문과 대답
 
-**회사에서이 제품에 대 한 자격이 있는지 여부를 확인 어떻게 할까요?**
+**How do I know whether my company is eligible for this offer?**
 
-이 제품에 대 한 자격이 있는 파트너 회사는 전자 메일 및 파트너 센터에서 제품을 얻는 방법에 대 한 정보를 통해 통보 받았습니다. 적격 파트너에는 현재 사용이 중지 된 ISV 역량을 획득 한 사용자 및 인증서 IP 경로를 통해 응용 프로그램 개발 역량을 획득 한 사용자가 포함 됩니다. 
+Partner companies eligible for this offer were notified via email and in Partner Center, with information about how to get the offer. Eligible partners include those who attained the now-retired ISV competency and those who attained the Application Development competency through the cert IP path. 
 
-**응용 프로그램 개발 역량의 이점은 무엇 인가요?**
+**What are the benefits of the Application Development competency?**
 
-Microsoft 파트너 웹 사이트에서 응용 프로그램 개발 역량 혜택을 검토할 수 있습니다. 
+You can review the Application Development competency benefits on the Microsoft partner website. 
 
-**이 제품을 받을 때 역량을 갱신 하는 데 시간이 면 어떻게 되나요?** Isv를 위한 요금제에 대 한 자세한 정보를 제공 하 고이 제품의 결과로 응용 프로그램 개발 역량을 보유 하 고 있는 파트너에 대 한 지침을 제공 합니다. * *  
+**What happens when it’s time for me to renew my competency when I get this offer?** 
 
-**회사에서 ISV 역량을 보유 하지 않은 경우이 제품을 받으려면 어떻게 해야 하나요?**
+We will share more information about our plans for ISVs soon and provide guidance for partners that have the Application Development competency as a result of this offer.**  
 
-이 제품은 적격 파트너만 사용할 수 있습니다. ISV 역량을 보유 하거나 응용 프로그램 개발은 인증서 IP 경로를 통해 역량을 보유 하 고 있습니다. Isv를 제공 하기 위해 거의 모든 단기 및 장기적인 종합적인 솔루션을 고려 하 고 있으며 곧 더 자세한 정보를 공유 합니다. 
+**How can I get this offer if my company did not have the ISV competency?**
+
+This offer is available only to eligible partners – those who had the ISV competency or the Application Development competency through the cert IP path. We are actively considering near-term and long-term comprehensive solutions for serving ISVs and will share more details soon. 
 
 
