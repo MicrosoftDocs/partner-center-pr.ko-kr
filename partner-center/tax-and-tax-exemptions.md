@@ -1,109 +1,102 @@
 ---
-title: 세금 및 면세 | 파트너 센터
+title: Taxes and tax exemptions | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+keywords: tax, tax exemption, vat, reseller, billing
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654017"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384878"
 ---
-# <a name="tax-and-tax-exemptions"></a><span data-ttu-id="2cfb8-103">세금 및 면세</span><span class="sxs-lookup"><span data-stu-id="2cfb8-103">Tax and tax exemptions</span></span>
+# <a name="taxes-and-tax-exemptions"></a><span data-ttu-id="cded0-104">세금 및 면세</span><span class="sxs-lookup"><span data-stu-id="cded0-104">Taxes and tax exemptions</span></span>
 
-<span data-ttu-id="2cfb8-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="2cfb8-104">**Applies to**</span></span>
+<span data-ttu-id="cded0-105">적용 대상:</span><span class="sxs-lookup"><span data-stu-id="cded0-105">Applies to:</span></span>
 
--  <span data-ttu-id="2cfb8-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="2cfb8-105">Partner Center</span></span>
--  <span data-ttu-id="2cfb8-106">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="2cfb8-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="cded0-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="cded0-106">Partner Center</span></span>
+- <span data-ttu-id="cded0-107">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="cded0-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
+<span data-ttu-id="cded0-108">The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products.</span><span class="sxs-lookup"><span data-stu-id="cded0-108">The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products.</span></span> <span data-ttu-id="cded0-109">As a result, Microsoft is not always required to charge sales tax on partner invoices.</span><span class="sxs-lookup"><span data-stu-id="cded0-109">As a result, Microsoft is not always required to charge sales tax on partner invoices.</span></span> <span data-ttu-id="cded0-110">The rules vary by country and/or region.</span><span class="sxs-lookup"><span data-stu-id="cded0-110">The rules vary by country and/or region.</span></span> <span data-ttu-id="cded0-111">You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).</span><span class="sxs-lookup"><span data-stu-id="cded0-111">You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).</span></span>
 
-<span data-ttu-id="2cfb8-107">클라우드 솔루션 공급자는 파트너 재판매 제품에 초점을 맞춘 판매 채널이기 때문에 Microsoft가 파트너 송장에 판매세를 부과하도록 항상 요구하지는 않습니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-107">Because Cloud Solution Provider is a sales channel focused on partner resale of products, Microsoft is not always required to charge sales tax on partner invoices.</span></span> <span data-ttu-id="2cfb8-108">이 규칙은 국가/지역에 따라 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-108">The rules vary by country/region.</span></span> <span data-ttu-id="2cfb8-109">파트너는 세금 고문에게 문의하여 파트너 위치와 해당 고객의 근거지를 기준으로 해당하는 면세 정보를 제출해야 합니다</span><span class="sxs-lookup"><span data-stu-id="2cfb8-109">Partners should work with their tax advisor to file the appropriate tax exemptions based on their locations and where their customers are based.</span></span> <span data-ttu-id="2cfb8-110">Microsoft 재판매인 계정을 비과세로 표시하려면 파트너가 Microsoft에 해당 면제 인증서를 보내야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-110">To mark their Microsoft reseller account as not taxable, the partner should send those exemption certificates to Microsoft.</span></span>
+<span data-ttu-id="cded0-112">Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.</span><span class="sxs-lookup"><span data-stu-id="cded0-112">Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.</span></span>
 
-<span data-ttu-id="2cfb8-111">**세금 면제 파일**</span><span class="sxs-lookup"><span data-stu-id="2cfb8-111">**File a tax exemption**</span></span>
+## <a name="country-and-region-tax-details"></a><span data-ttu-id="cded0-113">Country and region tax details</span><span class="sxs-lookup"><span data-stu-id="cded0-113">Country and region tax details</span></span>
 
-1.  <span data-ttu-id="2cfb8-112">파트너 센터 &gt; **계정 설정** &gt; **조직 프로필**에서 **Microsoft ID** 를 조회 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-112">Look up your **Microsoft ID** in Partner Center &gt; **Account settings** &gt; **Organization profile**.</span></span>
-2.  <span data-ttu-id="2cfb8-113">파트너 센터 &gt; **계정 설정** &gt; **파트너 프로필**에서 **MPN ID** 를 조회 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-113">Look up your **MPN ID** in Partner Center &gt; **Account settings** &gt; **Partner profile**.</span></span>
-3.  <span data-ttu-id="2cfb8-114">새 지원 티켓을 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-114">Create a new support ticket.</span></span> <span data-ttu-id="2cfb8-115">파트너 센터 메뉴에서 **서비스 요청** &gt; **파트너 센터 요청** &gt; **새 요청**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-115">From the Partner Center menu, select **Service requests** &gt; **Partner Center requests** &gt; **New request**.</span></span>
-4.  <span data-ttu-id="2cfb8-116">양식을 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-116">Fill out the form.</span></span> <span data-ttu-id="2cfb8-117">**문제 유형**에서 **내 프로필을 관리할 수 없음**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-117">For the **Type of problem**, choose **Cannot manage my profile**.</span></span> <span data-ttu-id="2cfb8-118">설명에 MPN ID와 Microsoft ID를 포함합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-118">In the description, include your MPN ID and your Microsoft ID.</span></span>
-5.  <span data-ttu-id="2cfb8-119">티켓을 제출하면 Microsoft에서 전자 메일을 보내 자세한 정보를 요청할 것입니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-119">After you submit the ticket, Microsoft will email you to get more information.</span></span> <span data-ttu-id="2cfb8-120">회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-120">When you reply, attach the appropriate supporting documentation for your tax exemption certificates.</span></span>
+<span data-ttu-id="cded0-114">Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states).</span><span class="sxs-lookup"><span data-stu-id="cded0-114">Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states).</span></span> <span data-ttu-id="cded0-115">For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).</span><span class="sxs-lookup"><span data-stu-id="cded0-115">For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).</span></span>
 
-## <a name="details-by-countryregion"></a><span data-ttu-id="2cfb8-121">국가/지역별 세부 정보</span><span class="sxs-lookup"><span data-stu-id="2cfb8-121">Details by country/region</span></span>
+<span data-ttu-id="cded0-116">If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).</span><span class="sxs-lookup"><span data-stu-id="cded0-116">If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).</span></span>
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><span data-ttu-id="2cfb8-122">캐나다</span><span class="sxs-lookup"><span data-stu-id="2cfb8-122">Canada</span></span></td>
-<td><p><span data-ttu-id="2cfb8-123">대부분의 재판매인이 QST/HST/GST에서 면제되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-123">Most resellers are not exempt from GST/HST/QST.</span></span> <span data-ttu-id="2cfb8-124">면제 자격 여부를 확인하고, 해당하는 경우 Microsoft에 어떤 서류를 제공해야 하는지 알아보려면 담당 세금 고문에게 문의하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-124">To determine whether you are qualified for exemption, and if so which documentation to provide to Microsoft, please consult your tax advisor.</span></span></p>
-<p><span data-ttu-id="2cfb8-125">BC PST 면세의 경우 위에 설명된 대로 면세 정보를 제출하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-125">For a BC PST Exemption, file a tax exemption as described above.</span></span> <span data-ttu-id="2cfb8-126">BC PST#을 입력하거나 <em>Certificate of Exemption General</em>에 서명하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-126">Provide your BC PST#, or a completed and signed <em>Certificate of Exemption General</em>.</span></span></p></td>
-</tr>
-<tr class="even">
-<td><span data-ttu-id="2cfb8-127">유럽 연합</span><span class="sxs-lookup"><span data-stu-id="2cfb8-127">European Union</span></span></td>
-<td><p><span data-ttu-id="2cfb8-128">유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-128">In the member states of the European Union, partners must provide their valid VAT ID number for reverse charge and proper billing.</span></span> <span data-ttu-id="2cfb8-129">VAT 번호는 <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">유효한 상태로 수락</a>되어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-129">The VAT number must be <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">accepted as valid</a>.</span></span></p>
-<p><span data-ttu-id="2cfb8-130">Microsoft는 파트너 센터에 크레딧과 재청구를 지원하지 않으므로 구독을 판매하기 전에 파트너 센터에서 VAT ID 번호를 등록해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-130">Microsoft does not support credit and re-bill, so before you sell any subscriptions you must register your VAT ID number in Partner Center.</span></span></p>
-<p><span data-ttu-id="2cfb8-131">Microsoft에 VAT ID 번호 보내기</span><span class="sxs-lookup"><span data-stu-id="2cfb8-131">Send Microsoft your VAT ID number</span></span></strong></p>
-<ol>
-<li><span data-ttu-id="2cfb8-132">파트너 센터에서 파트너 센터 메뉴로 이동 하 여 <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>&gt; 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-132">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
-<li><span data-ttu-id="2cfb8-133"><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-133">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
-<li><span data-ttu-id="2cfb8-134"><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-134">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td><span data-ttu-id="2cfb8-135">남아프리카 공화국</span><span class="sxs-lookup"><span data-stu-id="2cfb8-135">South Africa</span></span></td>
-<td><p>
-<span data-ttu-id="2cfb8-136">이제 Microsoft는 디지털 콘텐츠 및 남부 아프리카의 파트너가 구매한 서비스에 표준 부가 VAT (세금)를 적용 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-136">Microsoft now applies the standard value-added tax (VAT) on digital content and services purchased by partners in South Africa.</span></span> <span data-ttu-id="2cfb8-137">청구서에서 VAT를 제외 하 고 직접 관리 하려면 다음 절차를 사용 하 여 파트너 청구 프로필을 업데이트 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-137">To exclude the VAT from your invoices and manage this yourself, use the following procedure to update your partner billing profile.</span></span>
-</p>
-<p><span data-ttu-id="2cfb8-138">Microsoft에 VAT ID 번호 보내기</span><span class="sxs-lookup"><span data-stu-id="2cfb8-138">Send Microsoft your VAT ID number</span></span></strong></p>
-<ol>
-<li><span data-ttu-id="2cfb8-139">파트너 센터에서 파트너 센터 메뉴로 이동 하 여 <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>&gt; 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-139">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
-<li><span data-ttu-id="2cfb8-140"><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-140">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
-<li><span data-ttu-id="2cfb8-141"><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-141">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td><span data-ttu-id="2cfb8-142">터키</span><span class="sxs-lookup"><span data-stu-id="2cfb8-142">Turkey</span></span></td>
-<td>
-<p>
-<span data-ttu-id="2cfb8-143">이제 Microsoft에서 디지털 콘텐츠 및 서비스에서 구입한 서비스에 대 한 표준 부가 VAT (세금)를 적용 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-143">Microsoft now applies the standard value-added tax (VAT) on digital content and services purchased by partners in Turkey.</span></span> <span data-ttu-id="2cfb8-144">청구서에서 VAT를 제외 하 고 직접 관리 하려면 다음 절차를 사용 하 여 파트너 청구 프로필을 업데이트 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-144">To exclude the VAT from your invoices and manage this yourself, use the following procedure to update your partner billing profile.</span></span>
-</p>
-<p><span data-ttu-id="2cfb8-145">Microsoft에 VAT ID 번호 보내기</span><span class="sxs-lookup"><span data-stu-id="2cfb8-145">Send Microsoft your VAT ID number</span></span></strong></p>
-<ol>
-<li><span data-ttu-id="2cfb8-146">파트너 센터에서 파트너 센터 메뉴로 이동 하 여 <strong>계정 설정</strong> &gt; <strong>파트너 청구 프로필</strong>&gt; 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-146">In Partner Center, go to the Partner Center menu &gt; <strong>Account settings</strong> &gt; <strong>Partner billing profile</strong>.</span></span></li>
-<li><span data-ttu-id="2cfb8-147"><strong>재무 데이터</strong> 섹션에서 <strong>업데이트</strong>를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-147">In the <strong>Financial data</strong> section, select <strong>Update</strong>.</span></span></li>
-<li><span data-ttu-id="2cfb8-148"><strong>회사 세금 ID</strong>에 VAT ID 번호를 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-148">In the <strong>Company Tax ID</strong>, specify your VAT ID number.</span></span></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td><span data-ttu-id="2cfb8-149">미국</span><span class="sxs-lookup"><span data-stu-id="2cfb8-149">United States</span></span></td>
-<td><p><span data-ttu-id="2cfb8-150">미국의 모든 재판매인은 Microsoft 재판매인 계약에서 동의한 30 일 내에 판매 면세 서류를 제공해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-150">All resellers in the United States are expected to provide sales tax exemption documentation within 30 days of accepting the Microsoft Reseller Agreement.</span></span> <span data-ttu-id="2cfb8-151">주마다 각기 다른 재판매 면제 인증서를 마련해 두고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-151">Each state has different exemption certificates for resale.</span></span> <span data-ttu-id="2cfb8-152">등기부상 주소 및 등록 주와 관련된 인증서를 확인하려면 담당 세금 고문에게 문의하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-152">Please work with your tax advisor to determine what is relevant for your legal address and registered states.</span></span></p>
-<p><span data-ttu-id="2cfb8-153">여기에는 <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> 또는 <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>와 같은 여러 주에서 작용하는 재판매 면세 인증서가 포함될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-153">This may include resale exemption certificates that work across multiple states such as the <em>Streamline Sales and Use Tax Agreement Certificate of Exemption</em> or the <em>MTC Uniform Sales &amp; Use Tax Exemption Certificate</em>.</span></span></p></td>
-</tr>
-<tr class="even">
-<td><span data-ttu-id="2cfb8-154">세금을 부과하는 기타 국가/지역</span><span class="sxs-lookup"><span data-stu-id="2cfb8-154">Other country/regions that charge tax</span></span></td>
-<td><p><span data-ttu-id="2cfb8-155">면세/환불 지원에 대한 다른 문의 사항은 파트너 센터에서 지원을 요청하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-155">For other questions about tax exemption/refund support, request support in Partner Center.</span></span> <span data-ttu-id="2cfb8-156">Microsoft가 연락을 드려 문제를 해결하려면 2주가 걸릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-156">Please allow two weeks for Microsoft to contact you and resolve the issue.</span></span></p></td>
-</tr>
-<tr class="odd">
-<td><span data-ttu-id="2cfb8-157">기타 세금 서류</span><span class="sxs-lookup"><span data-stu-id="2cfb8-157">Other tax documentation</span></span></td>
-<td><p><span data-ttu-id="2cfb8-158">세금 영수증(대만 또는 대한민국)이나 DAF는 일반적으로 송장 발행 후 2주의 회송 시간이 필요합니다.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-158">Tax receipts (for Taiwan or Korea) or DAF generally require two weeks turn-around time after invoice generation.</span></span></p>
-<p><span data-ttu-id="2cfb8-159">그 외 세금 관련 서류에 대한 요구 사항은 파트너 센터에서 서비스를 요청하세요.</span><span class="sxs-lookup"><span data-stu-id="2cfb8-159">For other tax-related documentation needs, request service from Partner Center.</span></span></p></td>
-</tr>
-</tbody>
-</table>
- 
+<span data-ttu-id="cded0-117">For additional questions, [request support in Partner Center](#support).</span><span class="sxs-lookup"><span data-stu-id="cded0-117">For additional questions, [request support in Partner Center](#support).</span></span>
 
- 
+### <a name="canada"></a><span data-ttu-id="cded0-118">캐나다</span><span class="sxs-lookup"><span data-stu-id="cded0-118">Canada</span></span>
 
- 
+<span data-ttu-id="cded0-119">대부분의 재판매인이 QST/HST/GST에서 면제되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="cded0-119">Most resellers are not exempt from GST/HST/QST.</span></span> <span data-ttu-id="cded0-120">Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.</span><span class="sxs-lookup"><span data-stu-id="cded0-120">Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.</span></span>
 
+<span data-ttu-id="cded0-121">For a BC PST Exemption, file a tax exemption as described.</span><span class="sxs-lookup"><span data-stu-id="cded0-121">For a BC PST Exemption, file a tax exemption as described.</span></span> <span data-ttu-id="cded0-122">BC PST#을 입력하거나 *Certificate of Exemption General*에 서명하세요.</span><span class="sxs-lookup"><span data-stu-id="cded0-122">Provide your BC PST#, or a completed and signed *Certificate of Exemption General*.</span></span>
 
+### <a name="european-union"></a><span data-ttu-id="cded0-123">유럽 연합</span><span class="sxs-lookup"><span data-stu-id="cded0-123">European Union</span></span>
 
+<span data-ttu-id="cded0-124">유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="cded0-124">In the member states of the European Union, partners must provide their valid VAT ID number for reverse charge and proper billing.</span></span> <span data-ttu-id="cded0-125">The VAT number must be accepted as valid.</span><span class="sxs-lookup"><span data-stu-id="cded0-125">The VAT number must be accepted as valid.</span></span>
+
+<span data-ttu-id="cded0-126">Microsoft does not support credit and re-bill.</span><span class="sxs-lookup"><span data-stu-id="cded0-126">Microsoft does not support credit and re-bill.</span></span> <span data-ttu-id="cded0-127">Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="cded0-127">Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.</span></span>
+
+### <a name="south-africa"></a><span data-ttu-id="cded0-128">남아프리카 공화국</span><span class="sxs-lookup"><span data-stu-id="cded0-128">South Africa</span></span>
+
+<span data-ttu-id="cded0-129">Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa.</span><span class="sxs-lookup"><span data-stu-id="cded0-129">Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa.</span></span> <span data-ttu-id="cded0-130">To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).</span><span class="sxs-lookup"><span data-stu-id="cded0-130">To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).</span></span>
+
+### <a name="turkey"></a><span data-ttu-id="cded0-131">터키</span><span class="sxs-lookup"><span data-stu-id="cded0-131">Turkey</span></span>
+
+<span data-ttu-id="cded0-132">Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey.</span><span class="sxs-lookup"><span data-stu-id="cded0-132">Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey.</span></span> <span data-ttu-id="cded0-133">To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).</span><span class="sxs-lookup"><span data-stu-id="cded0-133">To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).</span></span>
+
+### <a name="united-states"></a><span data-ttu-id="cded0-134">미국</span><span class="sxs-lookup"><span data-stu-id="cded0-134">United States</span></span>
+
+<span data-ttu-id="cded0-135">미국의 모든 재판매인은 Microsoft 재판매인 계약에서 동의한 30 일 내에 판매 면세 서류를 제공해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="cded0-135">All resellers in the United States are expected to provide sales tax exemption documentation within 30 days of accepting the Microsoft Reseller Agreement.</span></span> <span data-ttu-id="cded0-136">주마다 각기 다른 재판매 면제 인증서를 마련해 두고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cded0-136">Each state has different exemption certificates for resale.</span></span> <span data-ttu-id="cded0-137">등기부상 주소 및 등록 주와 관련된 인증서를 확인하려면 담당 세금 고문에게 문의하세요.</span><span class="sxs-lookup"><span data-stu-id="cded0-137">Please work with your tax advisor to determine what is relevant for your legal address and registered states.</span></span>
+
+<span data-ttu-id="cded0-138">This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.</span><span class="sxs-lookup"><span data-stu-id="cded0-138">This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.</span></span>
+
+### <a name="other-regions"></a><span data-ttu-id="cded0-139">다른 지역</span><span class="sxs-lookup"><span data-stu-id="cded0-139">Other regions</span></span>
+
+<span data-ttu-id="cded0-140">If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.</span><span class="sxs-lookup"><span data-stu-id="cded0-140">If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.</span></span>
+
+## <a name="tax-receipts-and-daf"></a><span data-ttu-id="cded0-141">Tax receipts and DAF</span><span class="sxs-lookup"><span data-stu-id="cded0-141">Tax receipts and DAF</span></span>
+
+<span data-ttu-id="cded0-142">세금 영수증(대만 또는 대한민국)이나 DAF는 일반적으로 송장 발행 후 2주의 회송 시간이 필요합니다.</span><span class="sxs-lookup"><span data-stu-id="cded0-142">Tax receipts (for Taiwan or Korea) or DAF generally require two weeks turn-around time after invoice generation.</span></span>
+
+## <a name="file-tax-exemptions"></a><span data-ttu-id="cded0-143">면세 정보 제출</span><span class="sxs-lookup"><span data-stu-id="cded0-143">File tax exemptions</span></span>
+
+<span data-ttu-id="cded0-144">Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:</span><span class="sxs-lookup"><span data-stu-id="cded0-144">Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:</span></span>
+
+1. <span data-ttu-id="cded0-145">Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span><span class="sxs-lookup"><span data-stu-id="cded0-145">Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+2. <span data-ttu-id="cded0-146">In the **Settings** menu (gear icon), choose **Partner Settings**.</span><span class="sxs-lookup"><span data-stu-id="cded0-146">In the **Settings** menu (gear icon), choose **Partner Settings**.</span></span>
+3. <span data-ttu-id="cded0-147">On the **Account settings** page, choose **Organization profile** in the dashboard menu.</span><span class="sxs-lookup"><span data-stu-id="cded0-147">On the **Account settings** page, choose **Organization profile** in the dashboard menu.</span></span>
+4. <span data-ttu-id="cded0-148">Note your **Microsoft ID**.</span><span class="sxs-lookup"><span data-stu-id="cded0-148">Note your **Microsoft ID**.</span></span>
+5. <span data-ttu-id="cded0-149">On the same page, choose **Partner profile** in the dashboard menu.</span><span class="sxs-lookup"><span data-stu-id="cded0-149">On the same page, choose **Partner profile** in the dashboard menu.</span></span>
+6. <span data-ttu-id="cded0-150">Note your **MPN ID**.</span><span class="sxs-lookup"><span data-stu-id="cded0-150">Note your **MPN ID**.</span></span>
+
+<span data-ttu-id="cded0-151">Then, create a support ticket for Microsoft with your tax exemption information:</span><span class="sxs-lookup"><span data-stu-id="cded0-151">Then, create a support ticket for Microsoft with your tax exemption information:</span></span>
+
+1. <span data-ttu-id="cded0-152">In the dashboard menu, under **Support**, choose **Partner support requests**.</span><span class="sxs-lookup"><span data-stu-id="cded0-152">In the dashboard menu, under **Support**, choose **Partner support requests**.</span></span>
+2. <span data-ttu-id="cded0-153">On the **Partner request** page, choose **New request**.</span><span class="sxs-lookup"><span data-stu-id="cded0-153">On the **Partner request** page, choose **New request**.</span></span> <span data-ttu-id="cded0-154">(You can also view your open and closed support requests later on this page.)</span><span class="sxs-lookup"><span data-stu-id="cded0-154">(You can also view your open and closed support requests later on this page.)</span></span>
+3. <span data-ttu-id="cded0-155">On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.</span><span class="sxs-lookup"><span data-stu-id="cded0-155">On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.</span></span>
+4. <span data-ttu-id="cded0-156">On the **Solutions** step, under **Do you need more help?** , choose **Yes**.</span><span class="sxs-lookup"><span data-stu-id="cded0-156">On the **Solutions** step, under **Do you need more help?**, choose **Yes**.</span></span>
+5. <span data-ttu-id="cded0-157">On the **Details** step, fill out the **Issue details** form.</span><span class="sxs-lookup"><span data-stu-id="cded0-157">On the **Details** step, fill out the **Issue details** form.</span></span> <span data-ttu-id="cded0-158">Be sure to:</span><span class="sxs-lookup"><span data-stu-id="cded0-158">Be sure to:</span></span>
+
+    - <span data-ttu-id="cded0-159">Fill out all required fields.</span><span class="sxs-lookup"><span data-stu-id="cded0-159">Fill out all required fields.</span></span>
+    - <span data-ttu-id="cded0-160">Include your **Microsoft ID** and **MPN ID** in the **Details** field.</span><span class="sxs-lookup"><span data-stu-id="cded0-160">Include your **Microsoft ID** and **MPN ID** in the **Details** field.</span></span>
+    - <span data-ttu-id="cded0-161">Include any supporting documentation to your ticket in the attachments field.</span><span class="sxs-lookup"><span data-stu-id="cded0-161">Include any supporting documentation to your ticket in the attachments field.</span></span>
+
+6. <span data-ttu-id="cded0-162">Choose **Submit** to send in your support request.</span><span class="sxs-lookup"><span data-stu-id="cded0-162">Choose **Submit** to send in your support request.</span></span> <span data-ttu-id="cded0-163">Microsoft will email you back for more information.</span><span class="sxs-lookup"><span data-stu-id="cded0-163">Microsoft will email you back for more information.</span></span>
+
+## <a name="support"></a><span data-ttu-id="cded0-164">지원</span><span class="sxs-lookup"><span data-stu-id="cded0-164">Support</span></span>
+
+<span data-ttu-id="cded0-165">For other questions about tax exemptions and refunds, request support in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="cded0-165">For other questions about tax exemptions and refunds, request support in Partner Center.</span></span> <span data-ttu-id="cded0-166">Microsoft가 연락을 드려 문제를 해결하려면 2주가 걸릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cded0-166">Please allow two weeks for Microsoft to contact you and resolve the issue.</span></span>
+
+<span data-ttu-id="cded0-167">For other tax-related documentation needs, please also request service in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="cded0-167">For other tax-related documentation needs, please also request service in Partner Center.</span></span>
