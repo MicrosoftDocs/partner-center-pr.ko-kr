@@ -1,184 +1,36 @@
 ---
-title: 파트너 센터의 청구 유형 이해 | 파트너 센터
+title: Types of billing in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터에서 볼 수 있는 다양 한 청구 유형, 청구 기간 및 청구 날짜에 대해 알아봅니다.
+Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 청구, 결제, 주문, 조정 파일, 조정파일
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 539d3150e571c33114feee2d316611d7ac324f24
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253197"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384857"
 ---
-# <a name="understanding-the-types-of-billing-in-partner-center"></a>파트너 센터의 청구 유형 이해
+# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
 
-**적용 대상**
+적용 대상:
 
--  파트너 센터
--  CSP 프로그램의 파트너
+- 파트너 센터
+- CSP 프로그램의 파트너
 
-고객 대신 구매하는 제품의 유형에 따라 청구 기간이 다를 수 있으며, 같은 달의 다른 날짜에 요금이 청구될 수 있습니다. 이 문서에서는 2019년 3월 1일부터 변경된 내용과 변경 내용이 미치는 영향에 대해 설명합니다.
+You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
 
-## <a name="billing-for-recurring-charges"></a>반복 요금 청구
+- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
+- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
+- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
+- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
 
-라이선스 기반 및 사용량 기반 구독의 반복 요금 청구 환경은 변경되지 않습니다. 청구 날짜로 선택한 월의 일을 계속 청구 하며, 청구 기간은 해당 날짜 이전 달로 계속 청구 됩니다. 청구 날짜에 해당 월의 15 일을 선택한 경우 한 달의 15 일에 해당 하는 모든 작업에 대해 다음 달의 14 일 요금이 청구 됩니다. 청구서 및 조정 파일은 청구 날짜로부터 2-4일 후에 일반적으로 이용 가능합니다.
+고객 대신 구매하는 제품의 유형에 따라 청구 기간이 다를 수 있으며, 같은 달의 다른 날짜에 요금이 청구될 수 있습니다.
 
-이전 처럼 제품을 판매 하는 고객의 위치에 관계 없이 이러한 제품에 대 한 통화를에 있는 국가/지역에 대 한 비용을 청구 합니다.
-
-## <a name="billing-for-one-time-and-select-recurring-charges"></a>일회성 요금 및 선택적 반복 요금 청구
-
-2019년 3월 1일부터 Microsoft 및 타사 ISV 제품의 반복 요금 및 일회성 요금에 대한 새로운 청구 환경이 도입되었습니다.
-
-이러한 제품의 경우 청구 기간이 해당 월의 1일에 시작하여 말일에 끝납니다. 다음 달의 여덟 번째 날에 청구서를 사용할 수 있게 됩니다. 
-
-즉, 2019년 5월 1일부터 5월 31일 사이에 만드는 모든 트랜잭션은 6월 8일 청구서에 표시됩니다. 2019년 6월 1일부터 6월 30일 사이에 만드는 모든 트랜잭션은 7월 8일 청구서에 표시됩니다. 반복 구매 및 일회성 구매의 요금이 동일한 청구서에 청구될 수 있습니다. 
-
-청구서를 기다릴 필요 없이 언제든지 원하는 기간의 계정 잔액/청구서를 확인하고(예: 5월 1일부터 6월 7일 사이) 최신 계정 활동을 볼 수 있습니다. 8일에 청구서가 게시될 때 세금과 기타 요금 및 크레딧이 청구서에 포함되므로 최종 금액은 청구 기간 중에 표시되는 금액과 다를 수 있습니다. 
-
-파트너 센터 또는 API에서 현재와 동일한 방식으로 청구서에 액세스할 수 있습니다. 해당 월의 8 일에 UTC 자정 이전에 표시 됩니다. 
-
-|**청구 환경**|**제품 유형**|**청구 날짜**|**청구 기간**|**청구 통화**|**현재 가능한 활동 보기**|
-|:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|라이선스 기반 및 사용량 기반 구독의 반복 요금 |[온라인 서비스 카탈로그](https://partner.microsoft.com/commerce/preferredoffers/list)의 모든 제품. Office 365, Microsoft 365, Azure Active Directory, Azure(종량제), Dynamics 365, PowerBI Pro 등이 있습니다. |파트너 센터 계정을 만들 때 선택한 날짜 |청구 날짜 이전의 월. |거주 하는 국가/지역의 통화입니다. 예를 들어 회사가 영국에 있는 경우 영국 파운드 (GBP)로 요금이 청구 됩니다. 회사에서 인도를 사용할 경우에는 INR (인도 루피)에 대해 요금이 청구 됩니다.  |아니요 |
-|Microsoft 및 타사 ISV 제품의 반복 요금 및 일회성 요금 |Microsoft 및 타사 ISV가 제공하는 모든 SaaS 구독, Azure 예약 및 소프트웨어(영구 및 구독 기반) 제품. 사용 가능한 제품은 [Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)에서 확인하세요. SUSE Linux 소프트웨어(소프트웨어 구독), Windows Server 2019 Essentials(영구 소프트웨어), Azure ISV SaaS 제품 구독 등이 있습니다. |매월 8일 |매월 1일부터 말일까지 |고객이 위치한 국가/지역의 통화. 즉, 청구 기간에 판매 하는 각 고객의 국가/지역 통화에서 별도의 청구서 및 조정 파일을 받게 됩니다. |예 |
-
-## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>일회성 및 반복 구매의 요금 청구 시나리오
-### <a name="scenario-1---purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>시나리오 1-구독을 구매한 다음 같은 날에 사용자를 추가 합니다.
-
-시나리오 1에서 6월 11일에 단가 $4로 구독을 하나 구매합니다. 이후에 같은 날짜에 같은 구독을 같은 가격으로 하나 더 구매합니다. 
-
-조정 파일에는 다음 정보가 포함됩니다. 
--   $4 청구 서비스 기간 6 월 10 일-7 월 9 일 
--   $-4.00 서비스 기간 6 월 11 일-6 월 11 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 1개 있습니다. 계산 = (월 가격/총 서비스 기간 일 수) x 비례 배분 서비스 기간 일 수 x 라이선스 수량 = (4/30) x 30 x 1 = 4.00.
--   $8.00 서비스 기간 6 월 10 일-7 월 9 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 2개 있습니다. 계산 = (4/30) x 30 x 2 = 8.00.
-
-|**구매 날짜**   |**청구 시작**  |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|2019/6/11      |2019/6/10   |2019/7/09         |$4                |1                 |$4            |새로 만들기         |
-|2019/6/11     | 2019/6/10    |2019/7/09        |$4        |1        | -$4       |addQuantity           |
-|2019/6/11     | 2019/6/10    |2019/7/09        |$4        | 2      |$8         |addQuantity           |
-
-### <a name="scenario-2---purchase-a-subscription-and-then-add-more-later"></a>시나리오 2-구독 구매 후 나중에 추가
-
-시나리오 2에서는 6월 11일에 단가 $4로 구독을 하나 구매하고, 6월 12일에 같은 제품의 구독을 같은 가격으로 하나 더 구매합니다. 
-
-조정 파일에는 다음 정보가 포함됩니다. 
--   $4 청구 서비스 기간 6 월 10 일-7 월 9 일 
--   $-3.87 서비스 기간 6 월 11 일-6 월 12 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 1개 있습니다. 계산 = (월 가격/총 서비스 기간 일 수) x 비례 배분 서비스 기간 일 수 x 라이선스 수량 = (4/30) x 29 x 1 = 3.87.
--   $7.74 서비스 기간 6 월 12 일-7 월 9 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 2개 있습니다. 계산 = (4/30) x 29 x 2 = 7.74.
-
-|**구매 날짜**   |**청구 시작**  |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|2019/6/11(라이선스 1개)     |2019/6/10   |2019/7/09         |$4         |1        |$4            |새로 만들기         |
-|2019/6/12     | 2019/6/10    |2019/7/09        |$4        |1        | -$3.87       |addQuantity           |
-|2019/6/12     | 2019/6/10    |2019/7/09        |$4        | 2      |$7.74       |addQuantity           |
-
-### <a name="scenario-3---purchase-a-subscription-and-then-remove-a-seat-on-the-same-day"></a>시나리오 3-구독을 구매한 다음 같은 날에 사용자를 제거 합니다.
-
-시나리오 3에서는 6월 11일에 동일한 제품의 구독 2개를 단가 $4에 구매합니다. 이후에 같은 날짜에 시트 중 하나를 제거합니다.  
-
-조정 파일에는 다음 정보가 포함됩니다. 
--   $8 년 6 월 10 일의 두 라이선스에 대 한 요금 청구 
--   $-8.00 서비스 기간 6 월 11 일-6 월 11 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 2개 있습니다. 계산 = (월 가격/총 서비스 기간 일 수) x 비례 배분 서비스 기간 일 수 x 라이선스 수량 = (4/30) x 30 x 2 = 8.00.
--   $4.00 6 월 11 일-7 월 9 일 서비스 기간에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 1개 있습니다. 계산 = (4/30) x 30 x 1 = 4.00.
-
-|**구매 날짜**   |**청구 시작**  |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|2019/6/11      |2019/6/10   |2019/7/09         |$4                |2                 |$8            |새로 만들기         |
-|2019/6/11     | 2019/6/10    |2019/7/09        |$4        |2        | -$8       |removeQuantity           |
-|2019/6/11     | 2019/6/10    |2019/7/09        |$4        | 1      |$4         |removeQuantity           |
-
-### <a name="scenario-4---purchase-a-subscription-and-then-remove-seats-later"></a>시나리오 4-구독 구매 후 나중에 사용자 제거
-
-시나리오 4에서는 6월 11일에 구독 2개를 단가 $4에 구매하고, 6월 12일에 시트 중 하나를 제거합니다. 
-
-조정 파일에는 다음 정보가 포함됩니다. 
--   $8 청구 서비스 기간 6 월 10 일-7 월 9 일 
--   $-7.74 서비스 기간 6 월 11 일-6 월 12 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 2개 있습니다. 계산 = (월 가격/총 서비스 기간 일 수) x 비례 배분 서비스 기간 일 수 x 라이선스 수량 = (4/30) x 29 x 2 = 7.74.
--   $3.87 서비스 기간 6 월 12 일-7 월 9 일에 대 한 비용을 지불 합니다. 이 기간에는 라이선스가 1개 있습니다. 계산 = (4/30) x 29 x 1 = 3.87.
-
-|**구매 날짜**   |**청구 시작**  |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|2019/6/11(라이선스 2개)     |2019/6/10   |2019/7/09         |$4         |2        |$8       |새로 만들기       |
-|2019/6/12     | 2019/6/10    |2019/7/09        |$4        |2        | -$7.74       |removeQuantity           |
-|2019/6/12(라이선스 1개)    | 2019/6/10    |2019/7/09   |$4    |1      |$3.87    |removeQuantity |
-
-## <a name="billing-scenarios-for-free-trial-license-based-saas-transactions"></a>평가판 라이선스 기반 SaaS 거래의 청구 시나리오
-### <a name="scenario-5---renew-a-license-based-free-trial-saas-subscription-to-a-paid-subscription-at-the-end-of-the-free-trial-period"></a>시나리오 5-무료 평가판 기간이 끝날 때 유료 구독에 대 한 라이선스 기반 무료 평가판 SaaS 구독 갱신
-
-이 시나리오에서는 6월 10일에 평가판 라이선스 기반 SaaS(software as a service) 구독을 구매하고, 평가판 기간이 종료되면 유료 구독으로 자동 갱신됩니다. 
-
-조정 파일에는 다음 정보가 포함됩니다. 
-- $0 청구 서비스 기간 6 월 10 일-7 월 9 일 
-- $2 년 7 월 10 일-서비스 청구 기간
-
-|**구매 날짜**   |**청구 시작**  |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|2019/6/10(라이선스 1개)      |2019/6/10   |2019/7/09         |$0                |1                 |$0            |새로 만들기         |
-|2019/7/10(라이선스 1개)     | 2019/7/10    |2019/8/09        |$2        |1        | $2       |갱신           |
-
-### <a name="scenario-6---cancel-a-license-based-free-trial-saas-subscription"></a>시나리오 6-라이선스 기반 무료 평가판 SaaS 구독 취소
-
-평가판 기간을 포함하여 언제든지 라이선스 기반 평가판 SaaS(software as a service) 구독을 취소할 수 있습니다. 
-
-이 시나리오에서는 7월 1일에 라이선스 기반 평가판 SaaS 구독을 구매한 후 파트너 센터에서 즉시 취소합니다. 
-
-조정 파일에는 다음 정보가 포함됩니다. 
-- $0 서비스 기간 6 월 10 일-새 구매의 경우 7 월 9 일 청구서
-- $0 서비스 기간 7 월 10 일-취소에 대 한 7 월 9 일
-
-|**구매 날짜**   |**청구 시작**  |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|2019/6/10(라이선스 11개)      |2019/6/10   |2019/7/09         |$0                |11                |$0            |새로 만들기         |
-|2019/6/10(라이선스 0개)     | 2019/6/10    |2019/7/09        |$0        |11       | $0       |취소           |
-
-### <a name="scenario-7---convert-a-custom-meter-saas-subscription-from-one-sku-to-another-for-the-same-product-on-the-same-day"></a>시나리오 7-동일한 날짜에 동일한 제품의 사용자 지정 측정기 SaaS 구독을 한 SKU에서 다른 SKU로 변환
-
-이 시나리오에서는 한 제품의 SKU(Silver)를 하나 구매하고, 같은 날짜에 이 제품의 다른 SKU(Bronze)로 변환합니다. 
-
-조정 파일에는 다음 정보가 포함됩니다. 
-- $20 서비스 기간 6 월 10 일, 2019-7 월 9 2020 일의 실버
-- $20 년 6 월 10 일, 2019-7 월 2020 9 일에 대 한 실버의 실버에 대해
-- $10 년 6 월 10 일, 2019-7 월 9 2020 일에 대 한 청구서 청구서
-
-|**구매 날짜**   |**SKU**   |**청구 시작**   |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|2019/6/10(라이선스 1개) |Silver     |2019/6/10   |2019/6/10         |$20        |1         |$20            |새로 만들기      |
-|2019/6/10(라이선스 1개) |Silver    | 2019/6/10    |2019/6/10        |$20        |1       | $-20       |변환           |
-|2019/6/10(라이선스 1개) |Bronze    | 2019/6/10    |2019/6/10        |$10        |1       | $10       |변환           |
-
-### <a name="scenario-8---purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>시나리오 8-같은 날에 Azure Portal에서 사용자 지정 측정기 SaaS 구독 구입 및 취소 
-
-이 시나리오에서는 Azure Portal에서 사용자 지정 측정기 SaaS 구독을 구매한 다음, 같은 날에 구독을 취소합니다. 
-
-|**구매 날짜**   |**SKU**   |**청구 시작**   |**청구 종료**  |**단가**  |**수량**  |**합계** |**청구 유형** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|2019/6/10(라이선스 1개) |Bronze     |2019/6/10   |2019/6/10         |$10        |1         |$10            |새로 만들기      |
-|2019/6/10(라이선스 0개) |Bronze    | 2019/6/10    |2019/6/10        |$10        |1       | $-10       |CancelImmediate  |
-
-## <a name="billing-under-the-azure-plan"></a>Azure 요금제에서 청구
-
-- **청구서 날짜**: 청구서 및 조정 파일은 파트너 센터 대시보드/API에서 여덟 번째 (UTC 자정)로 제공 됩니다.
-
-- **청구서 청구 기간**: 청구서 청구 기간이 달력 월 (예: 10/1-10/31, 11/1-11/30)에 정렬 됩니다.
-
-- 요금 청구 **서비스 기간**: 요금은 달력 월에 정렬 됩니다. 예를 들어 청구 파트너가 10/15에 Azure 플랜을 통해 Azure 서비스를 추가하고 고객이 10/15에 Azure 서비스 사용을 시작하는 경우 청구 파트너는 서비스 기간 10/15 - 10/31에 고객이 사용한 요금에 대한 청구서/조정 파일을 11/8에 받게 됩니다. 12/8에 생성 될 다음 달의 청구서에는 서비스 기간 11/1-11/31에 대 한 모든 요금이 포함 됩니다.
-
-- **청구서 지불 기간**: 순 60 일.
-
-- **송장 통화**: 파트너는 고객의 country's 할당 된 통화로 계속 청구 됩니다. 예를 들어 청구 파트너가 아일랜드에 있고 고객은 영국, 노르웨이 및 독일에 있는 경우 청구 파트너는 GBP, NOK 및 EUR 청구서/조정 파일을 받습니다.
-
-- **파트너 성과급**: 청구서 월 말부터 45 일을 지불 합니다.
-
-Azure 계획에 대 한 자세한 내용은 다음을 참조 하세요.
-
-- [Azure 계획-개요](azure-plan-get-started.md)
-
-- [Azure 계획-청구](azure-plan-billing.md)
+If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.

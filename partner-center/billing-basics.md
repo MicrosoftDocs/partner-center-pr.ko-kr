@@ -1,159 +1,177 @@
 ---
-title: 청구 개요 | 파트너 센터
+title: Billing overview | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Basic billing and invoice information for Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터에서 Azure 구독 및 예약에 대 한 기본 청구 시나리오와 라이선스 기반 청구와 사용량 기반 청구 간의 차이점에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253209"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384542"
 ---
-# <a name="billing-overview"></a>청구 개요
+# <a name="billing-overview"></a>Billing overview
 
-**적용 대상**
+적용 대상:
 
--  파트너 센터
--  CSP 프로그램의 파트너
+- 파트너 센터
+- Partners in the Cloud Solution Provider (CSP) program
 
-고객을 대신 하 여 구매한 제품, 솔루션 및 서비스에 따라 다음 방법 중 하나 이상으로 이러한 구매에 대 한 요금이 청구 됩니다.
--   [라이선스 기반 청구](#licensebasedbilling)
+## <a name="find-your-bill"></a>Find your bill
 
-    라이선스를 요구 하는 제품이 나 온라인 서비스를 구매 하는 경우 구입한 각 라이선스 (라이선스 사용이 아님)에 대해 요금이 청구 됩니다. 한 달에 한 번 또는 한 번만 요금이 청구 되는지 여부를 선택할 수 있습니다. 비즈니스 요구 사항이 변경 된 경우에는 간에 전환 하 여 다시 되돌릴 수 있습니다. 
-    
-    월별 및 연간 요금 청구에 대 한 자세한 내용은 청구 [FAQ](https://docs.microsoft.com/partner-center/faq-about-new-billing-features)를 참조 하십시오.
+To find your bill:
 
--   [사용량 기반 청구](#usagebasedbilling)
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. In the left-hand menu, choose **Billing**.
+3. On the **Billing** page, you can download your latest bill or download previous bills in the **Billing history** section.
 
-    Azure 구독과 같은 온라인 서비스를 구매 하는 경우 월간 사용 요금에 대 한 요금이 청구 됩니다. 월간 청구는 사용량 기반 제품에만 사용할 수 있습니다. Azure와 같은 사용량 기반 서비스는 사용량을 기준으로 계량 요금에 따라 청구 됩니다.
+## <a name="bill-your-customers"></a>Bill your customers
 
--   [일회성 청구](#onetimebilling)
+Microsoft has no requirements or conditions about how you handle your own invoicing.
 
-    Azure 예약 또는 기타 소프트웨어 구독을 구매할 때 사전 설정 된 용어에 대해 미리 지불 합니다. 앞서 지불 하기 때문에 하나의 총액으로 요금이 청구 됩니다. 
-    
-매월 청구 하도록 선택 했거나 매월 청구 되는 사용량 기반 제품을 구매한 경우 파트너 센터에서 CSP 계정을 만들 때 월별 청구 날짜는 선택한 월의 날짜입니다. CSP 계정을 성공적으로 만들었으면 Microsoft에서 청구 날짜를 포함 하는 확인 전자 메일을 보냅니다. 이 날짜를 만든 후에는 변경할 수 없습니다. 
+To determine a customer's usage, [see your reconciliation files](#find-your-bill). You can use the customer name and other relevant fields to determine usage.
 
-## <a name="pricing-and-invoicing"></a>가격 책정 및 청구
-가격표는 매달 업데이트되므로 한 달 전에 확인할 수 있습니다. 라이선스 기준 가격은 구독 기간(일반적으로 구매 날짜부터 12개월) 동안 보장됩니다. 사용량 기준 가격은 월 단위로 변경될 수 있습니다. 
+Next, you can add your own fees and charges for services and products that you provide. Then, you can send a single bill for all charges to your customer.
 
-제품, 서비스 및 소프트웨어 구독의 가격은 구독 기간을 통해 보장 되지만, 갱신할 때 가격은 변경 될 수 있습니다.
+### <a name="billing-types"></a>Billing types
 
-크레딧 또는 조정은 적용된 후 다음 청구 송장에 조정 및 크레딧이 후불로 표시됩니다.
+Billing types in Partner Center include **license-based billing**, **usage-based billing**, and **one-time billign**. For more information, see the full explanation of [billing types in Partner Center](billing-different-types.md).
 
-파트너 센터의 청구 페이지에서 송장 및 조정 파일을 보고 다운로드할 수 있습니다. 월별 송장은 파트너 센터에서 선택한 청구 날짜 4일 이내에 제공됩니다.
+### <a name="billing-currency"></a>Billing currency
+
+You'll be billed for product(s) in the currency of the country or region in which you're located. You're billed the same regardless of the location of the customer to whom you sold the product(s).
+
+## <a name="invoices"></a>송장
+
+Your invoice is a summary of all charges for the current billing period. This includes charges across the program, all products, and all customers. For examples of monthly and annual billing scenarios, see [common billing scenarios](common-billing-scenarios.md)
+
+Your invoice is available within two (2) days of your selected billing date in UTC time. For example, if you have a September 12th billing date, the invoice generation process will begin at 12:00AM UTC on the 13th and complete by 12:00AM UTC on the 14th. If you do not see your invoice by 11:59PM UTC on the 15th, you’re out of your Service Level Agreement and should file a service request.
+
+Partners in the Cloud Solution Provider (CSP) program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).
+
+## <a name="price-lists"></a>Price lists
+
+Price lists are updated monthly. Preview price lists are available one (1) month in advance.
+
+To view price lists:
+
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. In the left-hand menu, choose **Sell**, then select **Pricing and offers**.
+3. On the **Pricing and offers** page, you can see 6 months of price lists (including the current month) and preview price lists (where applicable).
+
+**License-based** prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. 
+
+**Usage-based prices** can change on a monthly basis.
+
+**Prices for products, services, and software subscriptions** are guaranteed through the subscription duration. However, prices may change when you renew.
+
+You'll see **adjustments** and **credits** in arrears on your next billing invoice after the credit or adjustment is applied.
 
 ## <a name="payment-terms"></a>지급 조건
 
-지불 조건은 순 60 일입니다. 청구서는 청구 기한 (60 일 후 일)에 의해 지불 되어야 합니다. 그렇지 않으면 사용자의 계정이 연체 CSP의 등록에 영향을 줄 수 있습니다. 과거 요금을 지불할 때 일시 중단 된 계정의 전체 기능을 다시 사용할 수 있습니다.
+Payment terms are net 60 days. Invoices must be paid by the invoice due date (60 days after the billing date), or your account will be delinquent, which may impact your enrollment in CSP. 
 
-### <a name="tax"></a>Tax
+You can regain full functionality of your suspended accounts when you pay the past due amount.
 
-Microsoft와 사용자 사이에서 청구 관계가 taxed 사용자의 세부 정보 (고객 아님)를 기반으로 합니다. 계정 설정 프로세스 중에 또는 나중에 지원 요청을 제출 하 여 세금 ID를 제출할 수 있습니다. 다음 청구 주기에 변경 내용이 반영된 것을 확인할 수 있습니다.
+### <a name="taxes-and-vat"></a>Taxes and VAT
 
--   원천 및 sales 세금 면제의 경우 지원 요청을 통해 세금 설명서를 제출 해야 합니다. 다음 청구 주기에 변경 내용 및 적절한 환불을 확인할 수 있습니다.
+You are taxed based on your details (not your customers' details) because the billing relationship is between Microsoft and you. You can submit your tax identifier during the account setup process or through a support request later. 다음 청구 주기에 변경 내용이 반영된 것을 확인할 수 있습니다.
 
--   값 추가 세금 (VAT) 예외에 대해 서비스 요청을 통해 VAT ID (Microsoft에서 검증)를 제출 해야 합니다. 다음 청구 주기에 변경 내용 및 적절한 환불을 확인할 수 있습니다.
+For **withholding and sales tax exemption**, you must submit tax documentation through a support request. 다음 청구 주기에 변경 내용 및 적절한 환불을 확인할 수 있습니다.
 
-현지 세금 사무소 또는 세금 advisor에서 추가 세금 정보를 찾을 수 있습니다.
+For **value-added tax (VAT) exemption**, you must submit your VAT ID (validated by Microsoft) through a service request. 다음 청구 주기에 변경 내용 및 적절한 환불을 확인할 수 있습니다.
 
-## <a href="" id="licensebasedbilling"></a>라이선스 기반 청구
+You can find further tax details from your local tax office or tax advisor.
 
-고객을 대신 하 여 라이선스 기반 제품을 구입 하는 경우 월별 또는 매년 요금이 청구 되도록 선택할 수 있습니다. 나중에 청구 빈도를 변경 하려면 아래 절차를 사용 합니다. 
+### <a name="annual-billing-rules"></a>Annual billing rules
 
-월간 청구에서 연간 요금 청구로 전환 하는 것은 매월 청구 되 고 일반적인 청구 날짜에 정렬 하려는 경우에 유용 합니다. 연간 청구를 월간 청구로 전환 하는 것은 개별 고객의 청구 날짜를 조정 하는 데 유용 합니다. 
+구독은 연간 단위로 이루어지며 자동 갱신됩니다.
 
-청구 주기를 변경 하면 청구 빈도를 변경한 날짜를 반영 하 여 연간 조건이 업데이트 되 고 새 갱신 날짜가 설정 됩니다. 
+청구는 연간 구독당 월간 결제 12회 또는 연간 결제 1회입니다.
 
-비즈니스 요구 사항이 변경 될 때마다 청구 주기를 변경할 수 있습니다. 
+라이선스 기준 서비스의 경우 이전 청구 기간 종료 시 라이선스의 수에 따라 다음 청구 기간에 대한 요금이 사전 청구됩니다.
 
-### <a name="billing-rules-for-annual-billing"></a>연간 요금 청구 규칙
+라이선스 수 변경 시 후불로 청구/입금됩니다(라이선스-일수를 기준으로 비례하는 계산). Pro-rata calculation uses the following formula:
 
--   구독은 연간 단위로 이루어지며 자동 갱신됩니다.
+`[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
--   청구는 연간 구독당 월간 결제 12회 또는 연간 결제 1회입니다.
+Payments are billed for licenses sold, not licenses provisioned.
 
--   라이선스 기준 서비스의 경우 이전 청구 기간 종료 시 라이선스의 수에 따라 다음 청구 기간에 대한 요금이 사전 청구됩니다.
+### <a name="change-billing-frequency"></a>Change billing frequency
 
--   라이선스 수 변경 시 후불로 청구/입금됩니다(라이선스-일수를 기준으로 비례하는 계산). 비례하는 계산에서는 [ROUND((ROUND(단가 * 수량 / 비례하는 달의 일수, 2) * 비례하는 일수) / 수량, 2) * 수량] 수식을 사용합니다.
+To change the billing frequency of an online service for a customer:
 
--   요금은 판매 된 라이선스 (프로 비전 되지 않음)에 대해 요금이 청구 됩니다.
-
-### <a name="to-change-the-billing-frequency-of-an-online-service"></a>온라인 서비스의 청구 빈도를 변경 하려면
-
-1.  파트너 센터 메뉴에서 **고객** 을 선택 하 고 변경 하려는 구독이 있는 고객을 선택 합니다. 
-
-2.  고객의 구독 페이지에서 변경 하려는 구독을 선택 합니다. 
-
-3.  세부 정보 페이지의 **청구 빈도**에서 **월별** 또는 **연도별**를 선택 합니다. 청구 빈도를 변경 하는 방법에 대 한 중요 정보가 포함 된 확인 페이지 및 변경 될 구독 목록이 표시 됩니다. 
-
-4.  **확인** 을 선택 하 여 **변경 하거나 취소** 를 선택 합니다. 
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. In the left-hand menu, choose **Customers**.
+3. Select the customer whose subscription billing frequency you want to change.
+4. On the customer's **Subscriptions** page, select the subscription that you want to change.
+5. On the **Details** page, under **Billing frequency**, select **Monthly** or **Annual**. You’ll see a confirmation page with important information about changing billing frequency, as well as a list of the subscriptions about to be changed.
+6. Choose **OK** to make the change (or **Cancel** to undo it).
 
 ### <a name="adjustmentscreditscancellations"></a>조정/크레딧/취소
 
-Microsoft는 라이선스 기반 서비스의 취소에 대 한 조기 종료 요금을 청구 하지 않습니다. 
+Microsoft does not charge early termination fees for cancellation of license-based services.
 
-라이선스 기준 서비스의 취소 크레딧은 중도 취소에 사용되지 않은 일수(와 위의 수식에 따른 라이선스 감소)에 비례합니다.
-
-## <a href="" id="usagebasedbilling"></a>사용량 기반 청구
-
-일부 Microsoft 제품 및 서비스에서는 사용 되는 서비스에 대해서만 요금이 청구 되는 "종 량 제" 청구 모델을 사용 합니다. 예를 들어 Microsoft Azure은이 모델을 사용 합니다. 
+Cancellation credits for licensed-based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases according to the formula above).
 
 ### <a name="billing-rules"></a>청구 규칙
--   구독은 매월 이며 새로운 요금제 서비스 요금으로 자동 갱신 됩니다. 지난 달의 사용에 대해 매달 요금이 청구 됩니다.
 
--   데이터 통신 서비스 요금은 송장 주기 내에서 변경할 수 있습니다. 
+Subscriptions are month-to-month and automatically renew at the new metered service rates. You're billed each month for the previous month's usage.
 
-    -   가격 인상: 30일 동안 공지가 제공됩니다.
+데이터 통신 서비스 요금은 송장 주기 내에서 변경할 수 있습니다.
 
-    -   가격 하락: 변동 기간(일)을 반영합니다.
+#### <a name="price-changes"></a>Price changes
 
-    -   기존 구독은 청구서 주기 시작 시 유효한 요금을 사용합니다.
+For **price increases**, 30 days' notice is provided.
 
-    -   새 구독은 동일한 청구 주기 내에서 생성 되는 경우 만든 날짜에 적용 되는 요금을 사용 합니다. 
+**Price decreases** are reflected on the day of change.
+
+**Existing subscriptions** use the rate in effect at the beginning of the bill cycle.
+
+**New subscriptions**, when created within the same billing cycle, use the rate in effect on the date you create them. 
 
 ### <a name="adjustmentscreditscancellations"></a>조정/크레딧/취소
 
 다음 월별 청구 송장에 조정이 있는 결제가 표시됩니다.
 
-Microsoft는 사용량 기반 서비스의 취소에 대 한 조기 종료 요금을 청구 하지 않습니다. 
+Microsoft does not charge early termination fees for cancellation of usage-based services. 
 
 다음 월별 청구 송장에 SLA 크레딧을 비롯한 모든 유형의 크레딧이 표시됩니다.
 
-## <a href="" id="onetimebilling"></a>일회성 청구
-
-1 년 또는 3 년 동안 소프트웨어 구독과 Azure 예약을 미리 구매할 수 있습니다. 사전에 구매 하는 경우 전체 비용에 대해 1-총액을 기준으로 요금이 청구 됩니다. 이 유형의 청구는 일회성 청구 라고 합니다.
-
 >[!IMPORTANT]
->다른 통화로 통화를 사용 하는 위치에서 고객에 대 한 Azure 예약 및/또는 소프트웨어 구독을 구매 하는 경우 기본 청구 통화는 사용자의 위치가 아니라 고객의 위치를 기준으로 합니다. 여러 위치에 고객이 있는 경우 고객이 요금을 지불 해야 하는 각 통화에 대 한 별도의 청구서 및 조정 파일을 받을 수 있으므로 고객에 게 적절 한 통화로 송장을 보낼 수 있습니다. 
+>If you purchase Azure reservations and/or software subscriptions for a customer in a location with a currency different from yours, the default billing currency is based on the customer’s location, not your location. If you have customers in multiple locations, you’ll receive separate invoices and reconciliation files for each currency customers need to be billed in, allowing you to invoice your customers in the appropriate currency.
 
-### <a name="manage-your-one-time-billing"></a>일회성 청구 관리
+## <a name="manage-one-time-billing"></a>Manage one-time billing
 
-**현재 청구 상태, 송장 및 정찰 파일 보기**
+### <a name="billing-status-invoices-and-reconciliation-files"></a>Billing status, invoices and reconciliation files
 
-1.  파트너 센터에서 **청구** 를 선택 하 고 **한 번** 클릭 하 여 청구 상태를 확인 합니다. 
+To view your current billing status, invoices, and reconciliation files:
 
-2.  자세한 정보를 보려면 송장 또는 조정 파일을 선택합니다. 
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. On the left-hand menu, choose **Billing**, then select **One time**.
+3. On the billing status page, select an invoice or reconciliation file to view more detailed information.
 
-**고객 주문 기록 보기**
+### <a name="customer-order-history"></a>Customer order history
 
-1.  파트너 센터 메뉴에서 **고객** 을 선택 합니다.
+To view a customer's order history:
 
-2.  **고객** 페이지에서 주문 기록을 보려는 고객을 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 합니다. 
+1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
+2. On the left-hand menu, choose **Customers**.
+3. On the **Customers** page, find the customer whose order history you want to view. Select the down arrow to expand the customer's record.
+4. Choose **View orders** to display the customer's order history.
 
-3.  **주문 보기**를 선택하여 주문 내역을 표시합니다.
+### <a name="credit-notes"></a>Credit notes
 
-**신용 메모 다운로드**
+You might need to request a credit or rebill for the following reasons:
 
-크레딧 또는 재 청구서를 요청 해야 하는 경우 원래 청구서를 취소 하는 크레딧 메모를 제공 합니다. 다음과 같은 이유로 크레딧/rebill를 요청할 수 있습니다.
+- You need to make address or purchase order corrections.
+- A tax refund was applied after the invoice was generated. You can request a credit or rebill to get the tax refund pulled back into the original invoice. The same is also true for refunds. You can request a credit or rebill of the original invoice, then pull in a refund.
 
--   주문 수정 처리 또는 구입
-
--   송장이 생성되고 세금 환불이 적용되었습니다. 원래 송장에 세금 환불이 다시 적용되도록 크레딧/재청구를 요청할 수 있습니다. 환불에 대해서도 마찬가지로 원래 송장에 대한 크레딧/재청구를 요청하고 환불을 적용할 수 있습니다.
+If you request a credit or rebill, we'll give you a **credit note** to cancel the original invoice.

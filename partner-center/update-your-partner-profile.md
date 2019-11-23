@@ -1,7 +1,5 @@
 ---
-title: Verify your partner profile  | Partner Center
-MS.Topic: article
-Date: 08/06/2019
+title: 파트너 프로필 확인
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 관리자로 처음 로그인하는 경우 지원 세부 정보가 정확한지 확인하고, 해당하는 경우 면세 정보를 제출하고, 프로필의 연락처 정보를 검토합니다.
@@ -9,12 +7,12 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189061"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384782"
 ---
 # <a name="verify-your-partner-profile"></a>파트너 프로필 확인
 

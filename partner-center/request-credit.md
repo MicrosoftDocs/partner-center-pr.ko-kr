@@ -1,70 +1,66 @@
 ---
-title: Microsoft에서 SLA 크레딧 요청 | 파트너 센터
+title: Request an SLA credit from Microsoft | Partner Center
 ms.topic: article
-ms.date: 06/21/2019
+ms.date: 11/21/2019
+description: Request an SLA credit from Microsoft if they experience a service outage.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 서비스에서 가동 중단이 발생 하는 경우 고객에 대 한 SLA 크레딧을 요청할 수 있습니다.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a04d8e179f48f60c71b2e0e5c723c9d821de797
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651695"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384906"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Microsoft에서 SLA 크레딧 요청 
+# <a name="request-an-sla-credit-from-microsoft"></a>Request an SLA credit from Microsoft 
 
-고객을 위해 제공 하는 서비스의 작동이 중단 되는 경우 Microsoft에서 크레딧을 요청할 수 있습니다. SLA (Service Level Agreement(서비스 수준 약정)) 크레딧을 영향을 받는 서비스에 따라 결정 됩니다. 즉, 고객이 O365 제품군을 보유 하 고 있고 SharePoint만 다운 된 경우에는 전체 계획이 아닌 SharePoint에 대해서만 SLA 크레딧을 승인 합니다.
+You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.
 
-크레딧은 영향을 받는 서비스 및 가동 중단 기간을 기준으로 비례 배분 됩니다. SLA 크레딧을 충족 하는 시나리오의 유형을 확인 하려면 [온라인 서비스 통합 SLA 문서](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)를 참조 하세요. 이 정보는 클라우드 솔루션 공급자 프로그램을 통해 판매 되는 서비스에도 적용 됩니다.
+## <a name="sla-credit-calculation"></a>SLA credit calculation
 
->[!Note]
->**매우 중요 합니다.** CSP 파트너 (간접 공급자 또는 직접 청구 파트너 (최종 고객 또는 간접 재판매인 아님))는 인시던트가 발생 한 월 뒤의 월 끝에 클레임 및 모든 필수 정보를 제출 해야 합니다. 예를 들어 인시던트가 2 월 15 일에 발생 한 경우 클레임 및 모든 필수 정보를 3 월 31 일까 지 받아야 합니다. 
+SLA credits from Microsoft are determined based on which service(s) were impacted. For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.
 
-## <a name="required-information"></a>필요한 정보
+*Credits are pro-rated based on the service affected and the duration of the outage.* To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). This information applies to services sold through the Cloud Solution Provider program, too.
 
+## <a name="request-an-sla-credit"></a>Request an SLA credit
 
-SLA 크레딧을 요청 하려면 다음 정보를 제공 해야 합니다. 
+*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.* For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st. End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.
 
-- 고객 테 넌 트 GUID: 
+### <a name="required-information"></a>Required information
 
-- 중단 인시던트 #: (아래 참조)
+Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:
 
-- CSP를 통해 구매한 영향을 받는 구독이 있나요? 예/아니요
+- The customer tenant's GUID
+- The [outage incident identifier](#outage-incident-identifier)?
+- Were the impacted subscriptions purchased through CSP? (*yes* or *no*)
 
-중단 인시던트 ID (예: EX25194)는 Microsoft 365 관리 센터의 Service Health 페이지에서 찾을 수 있습니다. 인시던트 번호 앞에는 다음의 영향을 받는 서비스를 나타내는 2 자로 된 약어가 있습니다.
+#### <a name="outage-incident-identifier"></a>Outage incident identifier
 
-예: Exchange Online
+You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center. The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage). The follow table describes common service abbreviations:
 
-Exchange Online 보호
+| Two-letter abbreviation | Microsoft service |
+| ----------------------- | ----------------- |
+| EX | Exchange Online |
+| FO | Exchange Online Protection |
+| SB | Skype for Business Online (formerly Lync Online) |
+| OS | Office 구독 |
+| PB | Power BI for Office 365 |
+| SP | SharePoint Online |
+| YA | Yammer Enterprise |
+| MO | Portal error |
 
-SB-비즈니스용 Skype Online (공식 Lync Online)
+### <a name="submit-sla-credit-request"></a>Submit SLA credit request
 
-OS-Office 구독
+To submit your SLA credit request to Microsoft through the Partner Center dashboard:
 
-PB-Office 365용 Power BI
-
-SP-SharePoint Online
-
-인 Yammer 엔터프라이즈
-
-MO-포털 오류
-
-## <a name="submit-a-request"></a>요청 제출
-
-파트너 센터에서 신용 요청을 제출 합니다.
-
-1. 파트너 센터 대시보드의 왼쪽 탐색 창에서 **지원** 을 선택 합니다.
-
-2. **파트너 지원 요청** 을 선택한 다음 **CSP-고객, 주문 및 구독/고객 서비스 신용 요청**을 선택 합니다.
-
-3. SLA 신용 요청을 제출 합니다.
-
-
-
-
-
+1. Sign in to the Partner Center dashboard.
+2. In the left-hand menu, choose **Service requests**, then select **Partner support requests**.
+3. On the **Partner request** page, choose **New request**.
+4. On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**. In this section, choose **Select an issue type**, then select **Customer services credit requests**.
+5. On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes**.
+6. On the **Details** page, fill out the **Issue details** section. In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.
+7. Choose **Submit** to send in your SLA credit request.
