@@ -9,13 +9,13 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
-ms.localizationpriority: medium
-ms.openlocfilehash: dad4cffbd03e7e6ea811e5bf954a46a1566196f0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653740"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096463"
 ---
 # <a name="billing"></a>청구
 
@@ -25,12 +25,12 @@ ms.locfileid: "73653740"
 -  Microsoft Cloud for US Government 파트너 센터
  
  
-청구서의 경우 **파트너 센터** 메뉴로 이동 하 고 **청구** 를 선택 하 여 청구 기록과 추세, 청구서 및 조정 파일에 대 한 링크 및 가장 최근의 지불을 확인 합니다.
+청구의 경우 **파트너 센터** 메뉴로 이동한 다음, **청구**를 선택하면 청구 내역과 추세, 송장 및 조정 파일의 링크, 최근 결제가 표시됩니다.
 
 월별 청구를 선택한 클라우드 솔루션 공급자 프로그램의 파트너는 고객의 구독(라이선스 및 사용량 기준 모두)에 대해 60일 후불제 방식으로 Microsoft에 결제하게 됩니다.
 
 > [!NOTE]  
-> 청구서는 프로그램, 제품 및 고객에 대 한 모든 요금에 대 한 요약으로, 현재 청구 기간에 대 한 것 이며 UTC 시간에 선택한 청구 날짜의 2 일 이내에 사용할 수 있습니다. 예를 들어 9 월 12 일의 청구 날짜가 있는 경우 청구서 생성 프로세스는 13 분 오전 12 시에 시작 되 고 14 일에서 오전 12 시에 오전 12 시에 완료 됩니다. 15:59PM UTC로 청구서가 표시 되지 않는 경우에는 Service Level Agreement(서비스 수준 약정)를 제외 하 고 서비스 요청을 파일에 써야 합니다. 
+> 송장은 프로그램, 제품, 고객을 아우르는 현재 청구 기간에 대한 모든 요금에 대한 요약이며 선택한 청구 날짜 2일(UTC 시간) 이내에 제공됩니다. 예를 들어 청구 날짜가 9월 12일인 경우 청구서 생성 프로세스가 13일 오전 12:00(UTC)에 시작되고 14일 오전 12:00(UTC)까지 완료됩니다. 15일 오후 11:59(UTC)까지 청구서가 보이지 않는 경우 서비스 수준 계약 대상이 아니며 서비스 요청을 정식으로 제출해야 합니다. 
 
 고객에 대한 요금 청구에 대해 알아야 할 주요 정보는 다음과 같습니다.
 
@@ -40,10 +40,10 @@ ms.locfileid: "73653740"
 -   고객에게 모든 요금에 대한 단일 청구서를 보냅니다.
 
 ## <a name="billing-resources"></a>청구 리소스
-|**에 대 한 자세한 내용**   |**이 글 읽기**    |
+|**정보가 필요한 항목**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
 |청구, 결제, 송장 등의 기본 사항   |[청구 기본 사항](billing-basics.md)
-|연간 청구 등 여러 새로운 청구 기능   |[새로운 청구 기능에 대 한 FAQ](faq-about-new-billing-features.md)|
+|연간 청구 등 여러 새로운 청구 기능   |[새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)|
 |청구 유형   |[파트너 센터의 청구 유형 이해](billing-different-types.md)   |
 |청구서 읽기의 핵심   |[청구서 읽기](read-your-bill.md)   |
 |조정 파일을 읽고 사용하는 방법   |[조정 파일 사용](use-the-reconciliation-files.md)|
