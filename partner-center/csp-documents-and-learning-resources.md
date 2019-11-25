@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653566"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096517"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -36,9 +36,9 @@ ms.locfileid: "73653566"
 >[!Note]
 >클라우드 솔루션 공급자 프로그램의 승인된 Microsoft 파트너로서 상태를 확인하거나 인증하는 비즈니스 레터가 필요한 경우 [지원](https://partner.microsoft.com/pcv/servicerequests/create) 담당자에게 문의하여 요청하세요.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Microsoft 파트너 계약에 대 한 추가 제안 조건
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Microsoft 파트너 계약에 대한 추가 제품 약관
 
-[온라인 서비스 구독 및 소프트웨어 채널 권한 부여에 대 한 추가 제안 조건 가이드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[온라인 서비스 구독 및 소프트웨어 채널 권한 부여에 대한 추가 제품 약관 가이드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 클라우드 계약 고객 템플릿
 
@@ -75,4 +75,4 @@ CSP의 파트너로서 Office 365, Enterprise Mobility Suite, Microsoft Dynamics
 
 Crest Usage Record API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
-ISV(Independent Software Vendors)에서 게시한 Azure Marketplace 제품에 대해 알아보려면 왼쪽 탐색 메뉴에서 **Marketplace** 페이지를 방문하세요. 현재 SaaS(Software as a Service) 제품 유형만 파트너 센터에서 구매할 수 있습니다. Azure Portal를 방문 하 여 다른 유형의 Azure Marketplace 제안을 획득 해야 합니다.
+ISV(Independent Software Vendors)에서 게시한 Azure Marketplace 제품에 대해 알아보려면 왼쪽 탐색 메뉴에서 **Marketplace** 페이지를 방문하세요. 현재 SaaS(Software as a Service) 제품 유형만 파트너 센터에서 구매할 수 있습니다. 다른 유형의 Azure Marketplace 제품을 구하려면 Azure Portal을 방문해야 합니다.
