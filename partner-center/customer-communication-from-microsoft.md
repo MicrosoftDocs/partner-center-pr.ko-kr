@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how Microsoft expects customer communications to occur between customers and partners in the Cloud Solution Provider program.
+description: Microsoft에서 고객의 통신이 클라우드 솔루션 공급자 프로그램의 고객과 파트너 사이에서 발생 하는 방식을 알아보세요.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma

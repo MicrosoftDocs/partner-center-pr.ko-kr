@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to assign a reseller as a technical support contact for customers with subscriptions to Microsoft services.
+description: Microsoft 서비스에 대 한 구독이 있는 고객에 대 한 기술 지원 담당자에 게 재판매인을 할당 하는 방법에 대해 알아봅니다.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
@@ -35,7 +35,7 @@ ms.locfileid: "74253341"
 
 1.  먼저 지정된 제품 재판매인에게 [관계를 요청](request-a-relationship-with-a-customer.md)합니다. 기술 지원 처리에 대한 지원 계약을 협상합니다.
 
-2.  From the **Partner Center** menu, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.
+2.  **파트너 센터** 메뉴에서 **고객**을 선택한 다음, 고객을 선택 하 고 구독을 선택 합니다 (예: Office 365 Business Premium).
 
 3.  **지정된 지원 담당자**에서 지정된 제품 재판매인을 선택한 다음 **제출**을 클릭합니다. 
 
@@ -49,4 +49,4 @@ ms.locfileid: "74253341"
 
 ## <a name="related-topics"></a>관련 항목
 
-[Remove a relationship with a customer](remove-a-relationship.md)
+[고객과의 관계 제거](remove-a-relationship.md)

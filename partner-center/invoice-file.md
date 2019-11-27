@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: 청구서 파일 | 파트너 센터
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: 청구, 송장
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389841"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>청구서 파일
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+다음 표를 사용 하 여 파트너 센터 청구서 파일의 필드를 이해할 수 있습니다.
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>송장 파일 필드
 
-The following fields appear on your invoice files.
+청구서 파일에 다음 필드가 표시 됩니다.
 
 | 필드 | 정의 |
 | ----- | ---------- |
-| US FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| US FEIN | 사용자의 연방 고용주 Id 번호 (FEIN) 미국 연방 세금 id 번호입니다. |
 | 고객 번호 | 고객 번호입니다. |
-| 청구지 | 송장을 보내는 주소입니다. You can change your company name and/or address in your Partner Center billing profile. |
-| 라이선스 기반 요금 | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| 사용량 기반 청구 | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| 할인 | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| 크레딧 | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| 청구지 | 송장을 보내는 주소입니다. 파트너 센터 청구 프로필에서 회사 이름 및/또는 주소를 변경할 수 있습니다. |
+| 라이선스 기반 요금 | 구매한 사용 기반 라이선스에 대 한 월별 월별 또는 연간 요금으로, 서비스를 미리 청구 합니다. 이 숫자는 라이선스 기반 조정 파일의 **부분합** 열 (열 **T**)에 있는 모든 요금 합계입니다. |
+| 사용량 기반 청구 | Azure 사용량입니다. 여기에는 청구 기간 동안 사용 및 사용 되는 새 서비스 또는 응용 프로그램이 포함 됩니다. 이 수는 사용량 기반 조정 파일의 **PretaxCharges** 열 (열 **Z**)에 있는 모든 요금 합계입니다. |
+| 할인 | 고객이 구독의 일반 가격에서 받는 할인입니다. 이 숫자는 단가 또는 라이선스 당 가격이 아니라 *평평한 양만큼*표시 됩니다. |
+| 크레딧 | 구독에 대 한 변경 내용에 대 한 크레딧 또는 조정 (예: 사용자의 늘어나거나 감소). |
 | Subtotal | 세금 및 세금이 포함되지 않은 요금 및 크레딧 이전의 총계입니다. |
-| Tax | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| Tax | 청구서의 2 페이지에서 시작 하는 **세부 정보** 섹션에서 요약 된 현재 요금에 대 한 총 세금입니다. 이 숫자는 사용 빈도 기반 조정 파일의 **taxationitem.taxamount** 열 (열 **AA**)에 있는 모든 요금 합계와 라이선스 기반 조정 파일의 **세금** 열 (열 **U**)입니다. |
 | 다른 크레딧 | 세금이 포함되지 않은 크레딧입니다. |
-| 현재 총 요금 | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| 결제 관련 지침 | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| 현재 총 요금 | 청구 기간에 대 한 청구 통화로 인 한 금액입니다. 이러한 요금은 지불 기한 기한입니다. |
+| 결제 관련 지침 | 지역을 기준으로 청구서를 지불 하는 방법에 대 한 설명입니다. *지불 시 청구서 번호를 반드시 포함 해야 합니다.* |
 | 송장 번호 | 송장의 번호입니다. |
-| 청구 기간 | The monthly period leading up to the invoice date. This is the period during which usage-based services are consumed and license-based services are reconciled for any credit adjustments or changes in license count. |
-| 송장 날짜 | The billing date or anniversary date on which your invoice is generated each month. |
-| 지급 조건 | The payment term. 일회성 구매에 대해서는 항상 60일 이내입니다. |
-| 결제 기한 | The date by which your payment must be received. |
-| 고객 PO | Your purchase number order. |
-| 고객 서비스 | The website address where you can access customer service. |
-| 서비스 수령인 | The address where the service is being used. (This is the legal company address associated with company vetting.) |
+| 청구 기간 | 매월 청구서 날짜로 계산 되는 기간입니다. 사용 빈도 기반 서비스가 사용 되는 기간으로, 라이선스 기반 서비스는 크레딧 조정 또는 라이선스 수 변화에 맞게 조정 됩니다. |
+| 송장 날짜 | 송장이 매월 생성 되는 청구 날짜 또는 기념일입니다. |
+| 지급 조건 | 지불 조건입니다. 일회성 구매에 대해서는 항상 60일 이내입니다. |
+| 결제 기한 | 지불을 받아야 하는 날짜입니다. |
+| 고객 PO | 구매 번호 주문입니다. |
+| 고객 서비스 | 고객 서비스에 액세스할 수 있는 웹 사이트 주소입니다. |
+| 서비스 수령인 | 서비스를 사용 하는 주소입니다. (회사 심사와 연결 된 법적 회사 주소입니다.) |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>일회성 요금 필드
 
-The following fields only apply to **one-time charges** in Partner Center:
+다음 필드는 파트너 센터에서 **일회성 요금** 에만 적용 됩니다.
 
 | 필드 | 정의 |
 | ----- | ---------- |
-| 날짜 | 구매 날짜입니다. |
-| 설명 | 제품 이름입니다. |
-| Quantity | The number of products (such as reservations) purchased. |
-| 단가 | Price per product (such as a reservation). |
+| Date | 구매 날짜입니다. |
+| 설명 | 제품 이름 |
+| 수량 | 구매한 제품 (예: 예약)의 수입니다. |
+| 단가 | 제품별 가격 (예: 예약). |
 | 할인 | 적용 가능한 모든 할인 혜택입니다. |
 | 세전 금액 | 세금 부과 전 구입액의 소계입니다. |
 | 판매세 | 세금 액수입니다. |
-| 총액 | Total amount to be paid. |
+| Total | 총 지불 금액입니다. |

@@ -39,7 +39,7 @@ ms.locfileid: "74252384"
 -   CSP용 Office 365 Government GCC 구독을 판매하기 위한 단계별 가이드는 [여기](https://go.microsoft.com/fwlink/?linkid=2007323)를 참조하세요.  
 
 
-## <a name="additional-resources"></a>추가 리소스
+## <a name="additional-resources"></a>추가 자료
 
 파트너 사이트용 Microsoft 365에서 [미국 정부의 파트너 기회](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)에 대한 정보를 액세스하세요.
 

@@ -1,8 +1,8 @@
 ---
-title: Reconciliation file charge types | Partner Center
+title: 조정 파일 요금 유형 | 파트너 센터
 ms.topic: article
 ms.date: 08/26/2019
-description: Types of charges (license-based, usage-based and one-time), credits and discounts on Partner Center reconciliation files.
+description: 파트너 센터 조정 파일의 요금 유형 (라이선스 기반, 사용량 기반 및 일회성), 크레딧 및 할인.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,86 +14,86 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389811"
 ---
-# <a name="understand-charge-types"></a>Understand charge types
+# <a name="understand-charge-types"></a>요금 청구 유형 이해
 
 적용 대상:
 
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-This topic describes the mappings between an invoice section and associated charge types that might be on your reconciliation file. Your invoice provides a summary of charges. Your reconciliation file provides a detailed breakdown of line-item transactions, including charge types. For more information on reconciliation files, see [how to use reconciliation files](use-the-reconciliation-files.md).
+이 항목에서는 청구서 섹션과 조정 파일에 있을 수 있는 관련 요금 유형 간의 매핑에 대해 설명 합니다. 청구서는 요금 요약을 제공 합니다. 조정 파일은 요금 유형을 포함 하 여 품목 트랜잭션에 대 한 자세한 분석을 제공 합니다. 조정 파일에 대 한 자세한 내용은 [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md)을 참조 하세요.
 
-Both [usage-based reconciliation files](usage-based-recon-files.md) and [license-based reconciliation files](license-based-recon-files.md) only show usage-related transactions and charges (units consumed and related charges).
+[사용 빈도 기반 조정 파일과](usage-based-recon-files.md) [라이선스 기반 조정 파일](license-based-recon-files.md) 은 모두 사용량 관련 트랜잭션과 요금 (사용한 단위 및 관련 요금)만 표시 합니다.
 
 > [!NOTE]
-> One-off credits, discounts or refunds that appear on the invoice as **Adjustments** are not shown in the reconciliation file.
+> 송장에 표시 되는 일회용 크레딧, 할인 또는 **환불 조정 파일** 에 표시 되지 않습니다.
 
-## <a name="map-charge-types-to-invoice-charges"></a>Map charge types to invoice charges
+## <a name="map-charge-types-to-invoice-charges"></a>청구 요금을 청구서 요금에 매핑
 
-To cross-reference charge amounts between your invoice and reconciliation file, use the filter options in Microsoft Excel. Filter by charge types on your reconciliation file to map the invoice charges to a set of charge breakdowns on the reconciliation file.
+청구서와 조정 파일 간 요금을 상호 참조 하려면 Microsoft Excel의 필터 옵션을 사용 합니다. 조정 파일에서 요금을 기준으로 필터링 하 여 청구서 요금을 조정 파일의 요금 분석 집합에 매핑합니다.
 
 ## <a name="license-based-charges"></a>라이선스 기반 요금
 
-To map these license-based charges to your invoice, sum the **Amount** column from the license-based file.
+이러한 라이선스 기반 요금을 청구서에 매핑하려면 라이선스 기반 파일의 **Amount** 열 합계를 계산 합니다.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 활성화 요금 | The amount charged to the customer when they use the subscription after purchase. |
-| 취소 요금 | Prorated charges refunded to the customer when associated seats are changed. |
-| 주기 수수료 | Periodic charges for a subscription. |
-| 주기 인스턴스 비례 배분 | Prorated charges assessed from the customer when associated seats are changed. |
-| 취소 시 비례 배분 방식 요금 | Prorated refund for unused portion of service upon cancellation. |
-| 구매 시 비례 배분 방식 요금 | The charge type for a subscription when using annual billing. |
-| 구매 요금 | The charge type for a subscription when using monthly billing. |
-| 갱신 시 비례 배분 방식 요금 | Prorated fees upon subscription renewal. |
+| 활성화 수수료 | 구매 후 구독을 사용할 때 고객에 게 청구 되는 금액입니다. |
+| 취소 수수료 | 연결 된 사용자가 변경 되 면 고객에 게 비례 하는 요금이 환불 됩니다. |
+| 주기 수수료 | 구독에 대 한 정기 요금입니다. |
+| 주기 인스턴스 비례 배분 | 관련 된 사용자가 변경 되 면 고객 으로부터 평가 된 비례 청구 금액입니다. |
+| 취소 시 비례 배분 방식 요금 | 취소 시 서비스의 사용 되지 않는 부분에 대해 비례 하는 환불 |
+| 구매 시 비례 배분 방식 요금 | 연간 청구를 사용 하는 경우 구독에 대 한 요금 청구 유형입니다. |
+| 구매 요금 | 월간 청구를 사용 하는 경우 구독에 대 한 요금 청구 유형입니다. |
+| 갱신 시 비례 배분 방식 요금 | 구독 갱신 시 요금을 계산 합니다. |
 | 갱신 요금 | 구독 갱신에 대한 요금 |
-| 활성화 시 비례 배분 방식 요금 | >Prorated fees from activation until end of billing period. |
+| 활성화 시 비례 배분 방식 요금 | 청구 기간이 끝날 때까지 정품 인증에 대 한 > 비례 요금입니다. |
 
-## <a name="one-time-charges"></a>One-time charges
+## <a name="one-time-charges"></a>일회성 요금
 
-To map these one-time charges to your invoice, sum the **Amount** column from the license-based file.
+이러한 일회성 요금을 청구서에 매핑하려면 라이선스 기반 파일의 **Amount** 열 합계를 계산 합니다.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 신규 항목 | Used when a new purchase is created. |
-| addQuantity | Used in both the refund of the original purchase and the new quantity after an increase. |
-| removeQuantity | Used in both the refund of the original purchase and the new quantity after a decrease. |
-| 취소 | Used when a subscription is cancelled. |
-| 변환 | Used when a license is upgraded but the number of seats remains unchanged. |
+| 단추를 사용하여 새 | 새 구매가 생성 될 때 사용 됩니다. |
+| addQuantity | 원래 구매 환불 및 증가 후의 새로운 수량 모두에 사용 됩니다. |
+| removeQuantity | 원래 구매 환불 및 감소 후의 새 수량 모두에 사용 됩니다. |
+| 취소 | 구독이 취소 될 때 사용 됩니다. |
+| 변환 | 라이선스가 업그레이드 될 때 사용 되지만 사용자의 수는 변경 되지 않습니다. |
 
 ## <a name="usage-charges"></a>사용 요금
 
-To map these usage charges to your invoice, sum the **PretaxCharges** column from the usage-based file.
+이러한 사용 요금을 청구서에 매핑하려면 사용량 기반 파일에서 **PretaxCharges** 열의 합계를 계산 합니다.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 취소 시 사용 요금 계산 | Access usage fee upon cancellation for unpaid usage during the current billing period. |
-| 현재 주기의 사용 요금 계산 | Access usage fee for the current billing period. |
+| 취소 시 사용 요금 계산 | 현재 청구 기간 동안 미지불 사용 취소 시 사용 요금에 액세스 합니다. |
+| 현재 주기의 사용 요금 계산 | 현재 청구 기간에 대 한 사용 요금에 액세스 합니다. |
 
 ### <a name="credits"></a>크레딧
 
-To map these credits to your invoice:
+이러한 크레딧을 청구서에 매핑하려면 다음을 수행 합니다.
 
-- Sum the **TotalForCustomer** from the license-based file.
-- Sum the **PostTaxTotal** column from the usage-based file.
+- 라이선스 기반 파일에서 **Totalforcustomer** 의 합계를 계산 합니다.
+- 사용량 기반 파일에서 **PostTaxTotal** 열의 합계를 계산 합니다.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 품목 오프셋 | Partial or whole refund to a line item, including taxes. |
+| 품목 오프셋 | 세금을 포함 하 여 품목을 부분적으로 또는 전체적으로 환불 합니다. |
 
 ### <a name="usage-based-discounts"></a>사용량 기반 할인
 
-To map these usage-based discounts to your invoice, sum the **PretaxCharges** column from the usage-based file.
+이러한 사용량 기반 할인을 청구서에 매핑하려면 사용량 기반 파일에서 **PretaxCharges** 열의 합계를 계산 합니다.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 활성화 할인 | Discount applied when subscription activated. |
-| 주기 할인 | Discount applied on periodic charges. |
-| 갱신 할인 | Discount applied when subscription renewed. |
-| 취소 할인 | Charges applied when discounts cancelled. |
+| 활성화 할인 | 구독이 활성화 될 때 적용 되는 할인입니다. |
+| 주기 할인 | 정기 요금에 적용 되는 할인입니다. |
+| 갱신 할인 | 구독이 갱신 될 때 적용 되는 할인입니다. |
+| 취소 할인 | 할인이 취소 된 경우 적용 되는 요금입니다. |
 
 ### <a name="license-based-discounts"></a>라이선스 기반 할인
 
-To map license-based discounts to your invoice, sum the **TotalOtherDiscount** column from the license-based file.
+라이선스 기반 할인을 청구서에 매핑하려면 라이선스 기반 파일에서 **TotalOtherDiscount** 열의 합계를 계산 합니다.
 
-*License-based discounts may be applied to multiple charge types.*
+*라이선스 기반 할인은 여러 요금 유형에 적용 될 수 있습니다.*

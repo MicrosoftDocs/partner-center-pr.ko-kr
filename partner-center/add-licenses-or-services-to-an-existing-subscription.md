@@ -37,7 +37,7 @@ ms.locfileid: "74253137"
 </colgroup>
 <thead>
 <tr class="header">
-<th>제안</th>
+<th>제품</th>
 <th>가능한 업그레이드</th>
 </tr>
 </thead>

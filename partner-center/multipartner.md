@@ -23,19 +23,19 @@ ms.locfileid: "74189084"
 -  파트너 센터
 -  Microsoft Cloud for US Government 파트너 센터
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. 예를 들어 고객이 Office 365 전문 파트너 한 곳과 Microsoft Azure 전문 파트너 한 곳을 고용하려 할 수 있습니다. 
+파트너 센터의 다중 파트너 기능은 고객이 둘 이상의 파트너와 함께 작업 하려는 경우의 시나리오를 지원 합니다. 예를 들어 고객이 Office 365 전문 파트너 한 곳과 Microsoft Azure 전문 파트너 한 곳을 고용하려 할 수 있습니다. 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Azure CSP 테 넌 트는 다른 CSP 파트너의 추가 Azure 구독을 포함할 수 있습니다.
 
-To use the multi-partner feature in the Partner Center, invite the customer to give you delegated administration privileges. 이미 파트너와 협력 중인 고객과 관계를 맺는 방법에 대한 자세한 내용은 [고객과의 관계 요청](request-a-relationship-with-a-customer.md)을 참조하세요.
+파트너 센터에서 다중 파트너 기능을 사용 하려면 위임 된 관리 권한을 제공 하도록 고객에 게 초대 합니다. 이미 파트너와 협력 중인 고객과 관계를 맺는 방법에 대한 자세한 내용은 [고객과의 관계 요청](request-a-relationship-with-a-customer.md)을 참조하세요.
 
 다중 파트너 기능은 다음을 수행하지 않습니다.
 
-- Change any of the customer's existing subscriptions
+- 고객의 기존 구독 변경
 
-- Transition the customer's existing subscriptions or account ownership
+- 고객의 기존 구독 또는 계정 소유권 전환
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- 기존 구독에 대 한 용어 또는 고객의 의무 변경
 
 - 구독의 공식 파트너를 변경하지 않습니다.
 

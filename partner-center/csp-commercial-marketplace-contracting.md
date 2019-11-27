@@ -47,7 +47,7 @@ ms.locfileid: "74253781"
   
 Microsoft는 거래 당사자 간의 서비스 제공에 대 한 법적 책임을 인정 하지 않으며, 거래 파트너가 상거래 플랫폼을 통해 약관을 설정 하는 메커니즘을 제공 하지 않습니다. 거래 파트너에 게 추가 약관을 요구 하는 경우 규약을 직접 실행 해야 합니다.
 
-## <a name="see-also"></a>참고 항목
+## <a name="see-also"></a>참고자료
 
 - [상업적 marketplace 제품에 대 한 지원](csp-commercial-marketplace-support.md)
 - [CSP 상업적 marketplace 활동 개요](csp-commercial-marketplace-overview.md)

@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
+description: 직접 청구 파트너 (direct 재판매인, 간접 공급자)에 게 Office 365 정부 GCC for CSP에 대 한 파트너 및 고객의 유효성을 검사 하는 단계를 알아봅니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
@@ -29,7 +29,7 @@ ms.locfileid: "74253530"
 
 귀하가 미국 연방, 주, 지방 또는 자치 정부 단체에 협력하고 있는 파트너인 경우에는 승인을 받았을 수 있습니다. 귀하의 조직이 자격 검증을 받도록 하려면 [여기](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)에 나와 있는 간단한 양식을 기입해 주세요.
 
-귀하의 고객이 정부 통제 데이터를 처리하는 조직이거나 미국 연방, 주, 지방 또는 자치 정부 단체인 경우에는 승인을 받았을 수 있습니다. To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+귀하의 고객이 정부 통제 데이터를 처리하는 조직이거나 미국 연방, 주, 지방 또는 자치 정부 단체인 경우에는 승인을 받았을 수 있습니다. 고객의 조직 자격에 대 한 유효성을 검사 하려면 [여기](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)에 있는 간단한 양식을 작성 하세요. 
 
 -   CSP용 Office 365 Government GCC에 대해 승인을 받기 위해서는 먼저 귀하의 조직이 클라우드 솔루션 공급자 프로그램에 [등록](https://partnercenter.microsoft.com/partner/cloud-solution-provider)이 되어야 합니다.
 -   CSP용 Office 365 Government GCC에 대한 단계별 검증 프로세스 가이드는 [여기](https://go.microsoft.com/fwlink/?linkid=2007323)를 참조하세요.
@@ -37,11 +37,11 @@ ms.locfileid: "74253530"
 
 CSP용 Office 365 Government GCC 파트너 및 고객은 아래에 설명된 특정 기준을 토대로 자격을 검증 받게 됩니다.
 
-**Partner Criteria**
+**파트너 기준**
 1.  직접 또는 간접 계약을 통해 미국 정부 고객에게 서비스 또는 솔루션 제공
 2.  GSA 또는 기타 계약 수단을 통해 미국 정부 고객 지원
 
-**Customer Criteria**
+**고객 기준**
 1.  정부 산하 단체. 예를 들어 다음과 같은 가치를 제공해야 합니다.
  
     -  연방 정부 기관(예: 미국 정부의 국, 부서, 부처 또는 기타 단체)
@@ -50,7 +50,7 @@ CSP용 Office 365 Government GCC 파트너 및 고객은 아래에 설명된 특
     -   지역 또는 주 간 정부 단계(국제 단체는 제외)
     -   연방 자금 지원 연구 개발 센터(FERDC)
 
-2.  Commercial private entity with data that's subject to regulations. 허용된 정부 데이터 형식은 다음과 같습니다. 
+2.  규정이 적용 되는 데이터를 포함 하는 상업적 개인 엔터티입니다. 허용된 정부 데이터 형식은 다음과 같습니다. 
     -   국제 무기 거래 규정(ITAR)
     -   통제되는 미분류 정보(CUI)
     -   국방부(DoD) 미분류 통제 원자력 정보(UCNI)

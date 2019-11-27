@@ -75,7 +75,7 @@ MCRA는 CSP를 이용한 재판매 권한을 파트너에게 부여합니다. �
 
 *MCRA에서 공시물 A로 제공 되는 Microsoft 클라우드 규약 (Microsoft 클라우드 계약)*
 
-CSP는 CSP와 Microsoft Cloud for US Government 구매 고객 간의 정부 계약에 별첨 A를 포함해야 합니다. 계약서는 파트너 센터에서 영어로 발행합니다.
+CSP는 CSP와 미국 정부용 Microsoft 클라우드 구매 고객 간의 정부 계약에 별첨 A를 포함해야 합니다. 계약서는 파트너 센터에서 영어로 발행합니다.
 
 미국 정부 클라우드용 Microsoft 클라우드 계약은 다음 두 가지 면에서 표준 Microsoft 클라우드 계약과 다릅니다.
 
@@ -130,10 +130,10 @@ Azure Government 클라우드는 보안, 개인 정보 및 통제, 준수, 투�
 
 **Api에 차이가 있나요?**
 
-Microsoft Cloud for US Government를 위한 CSP 프로그램의 API 및 통합 요구 사항은 CSP Commercial과 동일합니다. 미국 정부용 Microsoft 클라우드의 끝점에 대한 자세한 정보는 [파트너 센터 REST URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)에서 확인할 수 있습니다.
+미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램의 API 및 통합 요구 사항은 CSP Commercial과 동일합니다. 미국 정부용 Microsoft 클라우드의 끝점에 대한 자세한 정보는 [파트너 센터 REST URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)에서 확인할 수 있습니다.
 
 >[!NOTE]
->Microsoft Cloud for US Government를 위한 CSP 프로그램에서는 CREST API를 사용할 수 없습니다. 이러한 API는 CSP에서 사용이 중단되며 Microsoft Cloud for US Government에 대해 사용할 수 없습니다. 규정 및 준수 요구 사항 충족을 위해, 다음의 API는 Microsoft Cloud for US Government를 위한 CSP 프로그램에서 사용할 수 없습니다.
+>Microsoft Cloud for US Government를 위한 CSP 프로그램에서는 CREST API를 사용할 수 없습니다. 이러한 API는 CSP에서 사용이 중단되며 미국 정부용 Microsoft 클라우드에 대해 사용할 수 없습니다. 규정 및 준수 요구 사항 충족을 위해, 다음의 API는 미국 정부용 Microsoft 클라우드를 위한 CSP 프로그램에서 사용할 수 없습니다.
 
 **사용자 계정 관리** 
 

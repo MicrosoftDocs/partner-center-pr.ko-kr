@@ -4,10 +4,10 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to ask customers to delegate administrator permissions to a reseller or remove the same permissions and how to use the permissions.
+description: 고객에 게 재판매인에 게 관리자 권한을 위임 하도록 요청 하거나, 동일한 권한을 제거 하 고, 사용 권한을 사용 하는 방법을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: delegated admin privileges, admin on behalf of, remove privileges, DAP, AOBO
+keywords: 위임 된 관리자 권한, 관리자를 대신 하 여 관리자, 권한 제거, DAP, AOBO
 ms.localizationpriority: medium
 ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -26,39 +26,39 @@ ms.locfileid: "74253479"
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
 
-1.  Select **Customers** and then select **Request a reseller relationship**.
+1.  **고객** 을 선택 하 고 **대리점 관계 요청**을 선택 합니다.
 
-2.  다음 페이지에서 임시 이메일 메시지를 검토합니다. 기본 전자 메일 응용 프로그램에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 전자 메일에 붙여 넣을 수 있습니다. 
+2.  다음 페이지에서 임시 전자 메일 메시지를 검토합니다. 기본 전자 메일 응용 프로그램에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 전자 메일에 붙여 넣을 수 있습니다. 
 
     >[!IMPORTANT]
-    >이메일에서 텍스트를 편집할 수 있지만, 이메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하는 맞춤형 링크입니다. 
+    >전자 메일에서 텍스트를 편집할 수 있지만, 전자 메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하도록 개인화된 링크입니다. 
     
-3.  Select **Done** when you've completed this step.
+3.  이 단계를 마쳤으면 **완료**를 선택합니다.
 
-4.  고객에게 이메일을 보냅니다.
+4.  고객에게 전자 메일을 보냅니다.
 
 5.  고객이 초대를 수락하면 **고객** 페이지에 고객이 표시되고, 귀사는 여기서 해당 고객의 서비스를 프로비전하고 관리할 수 있습니다.
 
-6.  To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name and then select the admin portal for the service you want to manage.
+6.  고객의 계정, 서비스, 사용자 및 라이선스를 관리 하려면 해당 이름 옆에 있는 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 한 다음 관리 하려는 서비스에 대 한 관리 포털을 선택 합니다.
 
 >[!IMPORTANT]  
->Customers can reassign or remove administrator permissions in a service's admin portal. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. In this situation, if the customer requires help, contact Microsoft support to open a service request on behalf of the customer.
+>고객은 서비스의 관리 포털에서 관리자 권한을 다시 할당 하거나 제거할 수 있습니다. 그러나 고객이 관리자 권한을 다시 할당하거나 제거하더라도 고객과 계약을 다시 협상할 때까지는 계속해서 고객 지원을 제공하고 클라우드 재판매인 계약의 약관을 준수할 책임이 있습니다. 이러한 상황에서 고객이 도움을 받아야 하는 경우 Microsoft 지원에 문의 하 여 고객을 대신 하 여 서비스 요청을 여세요.
 
-Your customers can find out which of their partners have admin privileges to their tenant from within the Office 365 admin portal. 이렇게 하려면 다음을 수행합니다.
+고객은 Office 365 관리 포털 내에서 테 넌 트에 대 한 관리자 권한이 있는 파트너를 찾을 수 있습니다. 가상 하드 디스크 파일에 대한 중요 정보를 제공하려면
 
-1. The customer needs to sign in to the Office 365 admin portal as a Global admin.
+1. 고객은 전역 관리자로 Office 365 관리 포털에 로그인 해야 합니다.
 
-2. Select **Settings** > **Partner relationships**.
+2. **설정** > **파트너 관계**를 선택 합니다.
 
-3. On the **Partner relationships** page, the customer will see a list of the partners with whom they work and those that have been granted delegated administration privileges to their tenant.
+3. **파트너 관계** 페이지에서 고객은 자신이 작업 하는 파트너 목록 및 해당 테 넌 트에 위임 된 관리 권한을 부여 받은 파트너의 목록이 표시 됩니다.
 
-## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Customers can manage a partner's delegated admin privileges 
+## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>고객은 파트너의 위임 된 관리자 권한을 관리할 수 있습니다. 
 
-Your customer may decide to remove your delegated admin privileges from their tenant but retain the relationship with you for subscription and license renewal purposes. 고객은 Office 365 관리 센터의 **파트너 관계** 페이지에서 Office 365 계정에 대한 권한 및 사용 권한을 관리합니다. 이 페이지에서 고객은 다음을 수행할 수 있습니다.
+고객은 테 넌 트에서 위임 된 관리자 권한을 제거 하도록 결정할 수 있지만 구독 및 라이선스 갱신 목적으로 귀하와의 관계를 유지 합니다. 고객은 Office 365 관리 센터의 **파트너 관계** 페이지에서 Office 365 계정에 대한 권한 및 사용 권한을 관리합니다. 이 페이지에서 고객은 다음을 수행할 수 있습니다.
 
 - 관계를 맺고 있는 파트너 및 관리자 권한이 위임된 파트너 확인
 
-- Remove a partner's delegated administration privileges from the tenant
+- 테 넌 트에서 파트너의 위임 된 관리 권한을 제거 합니다.
 
 파트너에게 위임된 관리 권한을 제거하려면 다음을 수행합니다.
 
@@ -71,43 +71,43 @@ Your customer may decide to remove your delegated admin privileges from their te
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Azure AD의 위임된 관리자 권한 
 
-There are two security groups, Admin Agents and Helpdesk Agents, in the partner's Azure AD tenant that are used for delegated administration. 고객이 파트너에게 위임된 관리 권한을 부여한 경우:
+파트너의 Azure AD 테 넌 트에는 위임 된 관리에 사용 되는 두 개의 보안 그룹, 즉 관리 에이전트와 기술 지원팀 에이전트가 있습니다. 고객이 파트너에게 위임된 관리 권한을 부여한 경우:
 
-- The Admin Agent group is assigned to the Global Administrator role in the customer's Azure AD tenant.
+- 관리 에이전트 그룹은 고객의 Azure AD 테 넌 트에서 전역 관리자 역할에 할당 됩니다.
 
-- The Helpdesk Agent group is assigned to the Helpdesk Administrator role in the customer's Azure AD tenant.
+- 기술 지원팀 에이전트 그룹은 고객의 Azure AD 테 넌 트에서 기술 지원팀 관리자 역할에 할당 됩니다.
 
-Based on the directory roles assigned, members of both groups can sign in to the customer's Azure AD tenant and O365 services using their partner credentials and administrator on behalf of the customer.
+할당 된 디렉터리 역할에 따라 두 그룹의 구성원은 고객 대신 파트너 자격 증명 및 관리자를 사용 하 여 고객의 Azure AD 테 넌 트 및 O365 서비스에 로그인 할 수 있습니다.
 
-If your customer removes delegated admin privileges, the Azure AD role assignments are removed, and you will no longer be able to manage the customer's Azure AD tenant.
+고객이 위임 된 관리자 권한을 제거 하면 Azure AD 역할 할당이 제거 되 고 고객의 Azure AD 테 넌 트를 더 이상 관리할 수 없게 됩니다.
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure 구독 및 리소스 관리
 
-각 Azure 구독에는 고유한 리소스 관리 역할 세트가 있습니다. Before a CSP partner can manage a customer's Azure subscription, the partner must be assigned to one or more roles under the Azure subscription. 특히 다음 사항에 주의하세요.
+각 Azure 구독에는 고유한 리소스 관리 역할 세트가 있습니다. CSP 파트너는 고객의 Azure 구독을 관리할 수 있기 전에 Azure 구독에서 하나 이상의 역할에 파트너를 할당 해야 합니다. 구체적으로는 다음과 같습니다.
 
 - 고객이 재판매인 초대를 수락하고 파트너에게 위임된 관리 권한을 부여하면 파트너는 고객 테넌트의 기존 Azure 구독에 자동으로 액세스하지 않습니다.
 
 - CSP 파트너가 고객에게 새로운 Azure 구독을 제공하면 CSP 파트너 테넌트의 관리자 에이전트 그룹에 구독에 대한 소유자 역할이 자동으로 할당됩니다. 이 역할 할당을 기반으로 그룹 구성원은 구독에 따라 리소스에 액세스하고 이를 관리할 수 있습니다.
 
-- When a customer removes delegated administration privileges from a partner using Office 365 Portal, the partner can still manage the customer's Azure subscription as long as the partner is still assigned to one or more roles under the subscription. 파트너의 Azure 구독 관리를 중지하려면 고객이 해당 역할 할당을 제거해야 합니다.
+- 고객이 Office 365 포털을 사용 하 여 파트너에 게 위임 된 관리 권한을 제거 하는 경우 파트너는 아직 구독에서 하나 이상의 역할에 할당 된 경우에도 고객의 Azure 구독을 관리할 수 있습니다. 파트너의 Azure 구독 관리를 중지하려면 고객이 해당 역할 할당을 제거해야 합니다.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
 <!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-From Partner Center, CSP partners can manage Autopilot profiles for their customers without delegated admin privileges under these circumstances: 
+파트너 센터에서 CSP 파트너는 다음과 같은 상황에서 위임 된 관리자 권한 없이 고객에 대 한 Autopilot 프로필을 관리할 수 있습니다. 
 
-- If a customer removes delegated administration privileges but retains a reseller relationship with you, you can continue to manage Autopilot profiles for them.
+- 고객이 위임 된 관리 권한을 제거 하지만 재판매인 관계를 유지 하는 경우 해당 관리자에 대 한 Autopilot 프로필을 계속 관리할 수 있습니다.
 
-- You can manage customer devices that you or another partner have added. 
+- 사용자 또는 다른 파트너가 추가한 고객 장치를 관리할 수 있습니다. 
 
-- You can't manage devices your customer has added through the Microsoft Store for Business, Microsoft Store for Education, or Microsoft Intune Portal.
+- 비즈니스 Microsoft Store, 교육용 Microsoft Store 또는 Microsoft Intune 포털을 통해 고객이 추가한 장치를 관리할 수 없습니다.
 
-For more information about Autopilot, see [Simplify device setup with Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Autopilot에 대 한 자세한 내용은 [Windows Autopilot를 사용 하 여 장치 설정 단순화](https://docs.microsoft.com/partner-center/autopilot)를 참조 하세요.
 
 >[!IMPORTANT]  
->The current Autopilot management experience in Partner Center might continue to change. At the time this article was published, the following changes are being considered:
+>파트너 센터의 현재 Autopilot 관리 환경은 계속 변경 될 수 있습니다. 이 문서를 게시할 때 다음 변경 내용을 고려 합니다.
 
 - 파트너가 프로필을 추가/업데이트/제거하고 고객 테넌트의 모든 장치에서 프로필을 적용/제거하려면 파트너가 위임된 관리 권한을 고객에게 부여 받아야 합니다.
 
-- Partner must be granted delegated administration privilege by the customer before the partner can remove devices added by other partners or by the customer in the customer tenant. Otherwise, the partner can remove only devices added previously by the same partner.
+- 파트너가 다른 파트너 또는 고객 테 넌 트의 고객에 의해 추가 된 장치를 제거 하려면 먼저 파트너에 게 위임 된 관리 권한을 부여 해야 합니다. 그렇지 않으면 파트너가 동일한 파트너에 의해 이전에 추가 된 장치만 제거할 수 있습니다.

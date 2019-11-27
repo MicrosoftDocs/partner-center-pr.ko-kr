@@ -20,65 +20,65 @@ ms.locfileid: "74391662"
 ---
 # <a name="partner-contribution-indicators"></a>파트너 기여 지표
 
-Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365. Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.  Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities. 
+PCI (파트너 기여 지표)는 Dynamics 365에 대 한 성공적인 고객 결과를 추진 하는 파트너의 영향을 전체적으로 측정 합니다. 파트너는 클라우드 Business Applications 역량을 확보 하 고 유지 관리 하는 시장에서 더 많은 차별화를 받습니다.  파트너는 성공적인 배포 및 사용량 증가로 인 한 고객 성공의 주요 측정을 위해 크레딧을 받고, 기술 기능을 계속 투자 하 고 확장할 수 있는 보상을 받습니다. 
 
 ## <a name="scoring"></a>점수 매기기
 
-PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance. PCI measures your company’s prior-year performance across seven key indicators:
+PCI는 회사의 기술 기능에 대 한 정교 하 고 전체적인 보기를 제공 하며 고객 성공 및 판매 실적을 추진 하는 기능을 제공 합니다. PCI는 7 개의 주요 표시기에서 회사의 이전 연도 성능을 측정 합니다.
 
-1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
-2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
-3. **Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.
-4. **Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.
-5. **Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.
-6. **New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.
-7. **Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.
+1. Microsoft Dynamics 365 제품에 대 한 모든 판매 채널의 순 **새 수익.**
+2. **Net customer** 는 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net customer를 추가 합니다.
+3. **함수형 컨설턴트** -현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다.
+4. **함수형 컨설턴트 성장** -2020 년 3 월 31 일 이후 기능 컨설턴트의 수가 증가 합니다.
+5. **개발자** -현재 활성 개발자를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다.
+6. **새로운 대규모 배포** -지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수
+7. **월간 활성 사용자 성장** -지난 12 개월 동안 모든 고객의 월별 활성 사용자 성장
 
-Points are granted for each achieved indicator, resulting in a single-number PCI score. 100 maximum points are possible. PCI score determines competency eligibility:
+점수는 획득 된 각 표시기에 대해 부여 되며,이로 인해 단일 숫자 PCI 점수가 발생 합니다. 100 최대 점수를 사용할 수 있습니다. PCI 점수는 역량 자격을 결정 합니다.
 
-![PCI scores](images/pcinew1.png)
+![PCI 점수](images/pcinew1.png)
 
-Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
+각 표시기는 합계에 추가 되는 점수를 가져옵니다. 각 표시기의 최대 점수는 다음과 같습니다.
 
 
-![pci performance 2](images/pci1.png)
+![pci 성능 2](images/pci1.png)
 
 ### <a name="thresholds"></a>임계값
 
-각 PCI 메트릭에는 회사 최대 포인트를 얻을 수 있는 Microsoft 설정 임계값이 있습니다. 이러한 임계값은 Customer Engagement 및 Finance & Operations에 따라 다릅니다. 또한 임계값은 선진 시장에서 운영되는 파트너와 신흥 시장에서 독점적으로 운영되는 파트너에 따라 다릅니다. 파트너가 선진 시장에서 하나 이상의 고객을 보유하고 있는 경우 선진 시장 임계값이 적용됩니다. The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+각 PCI 메트릭에는 회사 최대 포인트를 얻을 수 있는 Microsoft 설정 임계값이 있습니다. 이러한 임계값은 Customer Engagement 및 Finance & Operations에 따라 다릅니다. 또한 임계값은 선진 시장에서 운영되는 파트너와 신흥 시장에서 독점적으로 운영되는 파트너에 따라 다릅니다. 파트너가 선진 시장에서 하나 이상의 고객을 보유하고 있는 경우 선진 시장 임계값이 적용됩니다. 국가에서 개발 되거나 새로운 시장 분류는 [Microsoft 파트너 네트워크 정의](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)를 기준으로 합니다.
 
-Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.
+각 메트릭의 요소는 고객 참여 및 재무 & 작업에 대 한 별도의 PCI 점수를 생성 하 여 매월 업데이트 되는 것으로 계산 됩니다.
 
 파트너는 아래 표시된 임계값을 충족하거나 초과하는 경우 지정된 메트릭에 대한 최대 포인트를 얻을 수 있습니다. 기능 컨설턴트 증가를 제외한 모든 메트릭에 대해 부분 포인트를 얻을 수 있습니다. 예를 들어 신규 순수익이 $150,000인 선진 시장 파트너는 최대 10포인트의 절반($150,000/$300,000)을 얻게 됩니다.
 
-![customer engagement](images/pci/table_1.png)
+![고객 참여](images/pci/table_1.png)
 
-![금융](images/pci/TABLE_2.png)
+![재무](images/pci/TABLE_2.png)
 
-![consultant](images/pci/table_3.png)
+![다루는](images/pci/table_3.png)
 
-## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
+## <a name="detailed-definitions-of-pci-metrics"></a>PCI 메트릭에 대 한 자세한 정의
 
-![net new revenue](images/net_new1.png)
+![새 넷 수익](images/net_new1.png)
 
-![net customer adds](images/netcustomer.png)
+![net customer 추가](images/netcustomer.png)
 
-![Functional Consultant](images/pci/functional_consultants.png)
+![함수형 컨설턴트](images/pci/functional_consultants.png)
 
 ![증가](images/pci/functional_consultant_growth.png)
 
 ![개발자](images/pci/developers.png)
 
-![New deployments](images/pci/new_large_deployments.png)
+![새 배포](images/pci/new_large_deployments.png)
 
-![active users](images/pci/monthly_active_user_growth.png)
+![활성 사용자](images/pci/monthly_active_user_growth.png)
 
 
 ## <a name="customer-to-partner-association"></a>고객과 파트너 간 연결
 
-You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.
+메트릭 정의의 범위 내에서 지정 된 고객에 대 한 Net new 수익, Net customer 추가, 새로운 대량 배포 및 월별 활성 사용자 성장을 위한 크레딧을 받을 수 있습니다 .이는 CSP (클라우드 솔루션 공급자) 인 경우에만, (CPOR) 클레임 파트너 인 경우에만 해당 됩니다. 또는 고객의 테 넌 트에 속한 유료 구독의 경우에는 DPOR (Digital Partner of Record)를 사용할 수 있습니다.
 
-A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.
+파트너는 CPOR 또는 Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) 동기 또는 Dynamics 365 [online Services 사용](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (osu) 동기를 통해 구독 수준에서 고객과의 연결을 설정한 경우에는이 됩니다.
 
 파트너는 제품 내 구독 수준에서 고객과 연결을 설정한 경우 DPOR이 됩니다.
 
@@ -88,9 +88,9 @@ A partner becomes the CPOR if they have established association with a customer 
 
 ![차트를 읽는 방법](images/pci2.png)
 
-## <a name="additional-resources"></a>추가 리소스
+## <a name="additional-resources"></a>추가 자료
 
-Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
+자세한 교육 비디오, 프레젠테이션, Faq 및 팩트 시트를 찾을 수 있는 [파트너 기여 지표 리소스 컬렉션](https://partner.microsoft.com/asset/collection/pci-learn#/) 을 방문 하세요. 
 
 
 

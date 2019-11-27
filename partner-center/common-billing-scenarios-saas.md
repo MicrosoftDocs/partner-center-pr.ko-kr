@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for license-based SaaS transactions | Partner Center
+title: 라이선스 기반 SaaS 트랜잭션에 대 한 일반적인 청구 시나리오 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for license-based SaaS transactions.
+description: 파트너 센터에서 라이선스 기반 SaaS 트랜잭션에 대 한 일반적인 청구 시나리오입니다.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: 청구, 지불, 일회성 구매, 되풀이 구매, 구독, 사용자
 ms.localizationpriority: medium
 ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,58 +15,58 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389611"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Billing scenarios for license-based SaaS transactions
+# <a name="billing-scenarios-for-license-based-saas-transactions"></a>라이선스 기반 SaaS 트랜잭션에 대 한 청구 시나리오
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to license-based software as a service (SaaS) subscriptions in Partner Center.
+이러한 예제 [일반적인 청구 시나리오](common-billing-scenarios.md) 는 파트너 센터의 라이선스 기반 SaaS (software as a service) 구독에 적용 됩니다.
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Convert a free trial SaaS subscription to a paid subscription
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>무료 평가판 SaaS 구독을 유료 구독으로 변환
 
-This scenario describes billing for the renewal of a license-based free trial SaaS subscription. The renewal converts the free trial to a paid subscription at the end of the free trial period.
+이 시나리오에서는 라이선스 기반 무료 평가판 SaaS 구독의 갱신에 대 한 요금 청구를 설명 합니다. 갱신은 무료 평가판 기간이 끝날 때 무료 평가판을 유료 구독으로 변환 합니다.
 
-In this example, you purchased a free trial of a license-based SaaS (software as a service) subscription on June 10th. This free trial automatically renewed as a paid subscription when the free trial period ends.
+이 예에서는 6 월 10 일에 라이선스 기반 SaaS (software as a service) 구독의 무료 평가판을 구매 했습니다. 이 무료 평가판은 무료 평가판 기간이 종료 되 면 유료 구독으로 자동 갱신 됩니다.
 
-The recon files will include the following charges:
+정찰 파일에는 다음 요금이 포함 됩니다.
 
-| 구매 날짜 | Charge start date | Charge end date | 단가 | Unit quantity | Total amount | 청구 유형 | Subscription description |
+| 구매 날짜 | 요금 청구 시작 날짜 | 청구 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 청구 유형 | 구독 설명 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | 신규 항목 | 무료 평가판 |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | 갱신을 | Paid subscription |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | 단추를 사용하여 새 | 무료 평가판 |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | 갱신을 | 유료 구독 |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>Cancel a free trial SaaS subscription
+## <a name="cancel-a-free-trial-saas-subscription"></a>무료 평가판 SaaS 구독 취소
 
 > [!TIP]
-> You can cancel a license-based free trial SaaS subscription any time, even during the free trial period.
+> 무료 평가 기간 동안에도 언제 든 지 라이선스 기반 무료 평가판 SaaS 구독을 취소할 수 있습니다.
 
-In this scenario, you purchased a license-based free trial SaaS subscription on July 1st, and then canceled it immediately in Partner Center. 
+이 시나리오에서는 7 월 1 일에 라이선스 기반 무료 평가판 SaaS 구독을 구매한 후 파트너 센터에서 즉시 취소 했습니다. 
 
-The recon file will include the following charges:
+정찰 파일에는 다음 요금이 포함 됩니다.
 
-| 구매 날짜 | Charge start date | Charge end date | 단가 | Unit quantity | Total amount | 청구 유형 | Subscription description |
+| 구매 날짜 | 요금 청구 시작 날짜 | 청구 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 청구 유형 | 구독 설명 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 신규 항목 | 무료 평가판 |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 단추를 사용하여 새 | 무료 평가판 |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 취소 | 무료 평가판 |
 
-## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convert custom meter SaaS subscription to another SKU
+## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>사용자 지정 측정기 SaaS 구독을 다른 SKU로 변환
 
-This scenario describes how to convert a custom meter SaaS subscription from one stock keeping unit (SKU) to another SKU for the same product, on the same date.
+이 시나리오에서는 동일한 날짜에 동일한 제품에 대 한 단일 SKU (재고 보존 유닛)에서 다른 SKU로 사용자 지정 측정기 SaaS 구독을 변환 하는 방법을 설명 합니다.
 
-In this scenario, you purchased one SKU (Silver) under a product and converted it to another available SKU (Bronze) under this product on the same date.
+이 시나리오에서는 한 제품에서 하나의 SKU (실버)를 구매 하 고 동일한 날짜에이 제품의 다른 사용 가능한 SKU (브론즈)로 변환 했습니다.
 
-The recon file will include the following charges:
+정찰 파일에는 다음 요금이 포함 됩니다.
 
-| 구매 날짜 | Charge start date | Charge end date | 단가 | Unit quantity | Total amount | 청구 유형 | Subscription description |
+| 구매 날짜 | 요금 청구 시작 날짜 | 청구 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 청구 유형 | 구독 설명 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 실버 | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | 신규 항목 | Custom meter SaaS subscription |
-| 06/10/2019 | 실버 | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | 변환 | Prorated rebill for custom meter SaaS subscription |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 변환 | Custom meter SaaS subscription |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | 단추를 사용하여 새 | 사용자 지정 측정기 SaaS 구독 |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | 변환 | 사용자 지정 측정기 SaaS 구독의 비례 재조정 |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 변환 | 사용자 지정 측정기 SaaS 구독 |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Purchase and cancel a customer meter SaaS subscription on same date
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>동일한 날짜에 고객 측정기 SaaS 구독 구매 및 취소
 
-This scenario describes billing for a customer meter SaaS subscription that you purchased and cancelled through the Azure portal on the same date.
+이 시나리오에서는 동일한 날짜에 Azure Portal을 통해 구입 하 고 취소 한 고객 측정기 SaaS 구독에 대 한 요금 청구를 설명 합니다.
 
-In this scenario, you purchased a custom meter SaaS subscription on the Azure portal. Then, you canceled the subscription on the same date.
+이 시나리오에서는 Azure Portal에 대 한 사용자 지정 측정기 SaaS 구독을 구매 했습니다. 그런 다음 같은 날짜에 구독을 취소 했습니다.
 
-| 구매 날짜 | Charge start date | Charge end date | 단가 | Unit quantity | Total amount | 청구 유형 | Subscription description |
+| 구매 날짜 | 요금 청구 시작 날짜 | 청구 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 청구 유형 | 구독 설명 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 신규 항목 | Custom meter SaaS subscription |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | Custom meter SaaS subscription |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 단추를 사용하여 새 | 사용자 지정 측정기 SaaS 구독 |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | 사용자 지정 측정기 SaaS 구독 |

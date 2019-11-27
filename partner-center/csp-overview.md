@@ -71,7 +71,7 @@ Microsoft는 이러한 요구 사항을 충족하는 직접 청구 파트너가 
 
 [Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 현재 달에 대 한 CSP 제품을 확인 하려면 파트너 센터에 로그인 한 다음 [**가격 책정 및 제품**](https://partnercenter.microsoft.com/pcv/sales) 페이지로 이동 합니다.
 
-## <a name="see-also"></a>참고 항목 
+## <a name="see-also"></a>참고자료 
 
 
 |**이에 대해 알아보려면**   |**이 글 읽기**   |

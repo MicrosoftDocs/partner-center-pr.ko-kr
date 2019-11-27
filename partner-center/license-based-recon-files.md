@@ -1,8 +1,8 @@
 ---
-title: License-based reconciliation files | Partner Center
+title: 라이선스 기반 조정 파일 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand license-based reconciliation files in Partner Center.
+description: 파트너 센터의 라이선스 기반 조정 파일을 이해 합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -21,36 +21,36 @@ ms.locfileid: "74389821"
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-To reconcile your changes against a customer's orders, compare the **Syndication_Partner_Subscription_Number** from the reconciliation file against the **Subscription ID** from Partner Center.
+고객의 주문에 대 한 변경 내용을 조정 하려면 조정 파일의 **Syndication_Partner_Subscription_Number** 파트너 센터의 **구독 ID** 와 비교 합니다.
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Fields in license-based reconciliation files
+## <a name="fields-in-license-based-reconciliation-files"></a>라이선스 기반 조정 파일의 필드
 
 | Column | 설명 | 샘플 값 |
 | ------ | ----------- | ------------ |
-| PartnerId | Unique identifier in GUID format for a specific billing entity. Not required for reconciliation. 모든 행에서 같습니다. | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerID | Unique Microsoft identifier for the customer in GUID format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. May be useful to identify the order when contacting support. Not used for reconciliation. | *566890604832738111* |
-| SubscriptionID | Microsoft 청구 플랫폼에서 구독의 고유 식별자. May be useful to identify the subscription when contacting support. Not used for reconciliation. *This value is not the same as the **Subscription ID** on the Partner Admin Console. Please see **SyndicationPartnerSubscriptionNumber** instead.* | *usCBMgAAAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | 구독의 고유 식별자. A customer can have multiple subscriptions for the same plan. This column is important for reconciliation file analysis. This field maps to the **Subscription ID** in the Partner Admin Console. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferID | Unique offer identifier. Standard offer identifier, as defined in the price list. *This value does not match **Offer ID** from the price list. See **DurableOfferID** instead.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | Unique durable offer identifier, as defined in the price list. *This value matches the **Offer ID** from the price list.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | The subscription start date. 시간은 항상 해당하는 날의 시작인 0:00입니다. This field is set to the day after the order was submitted. Used in conjunction with the **SubscriptionEndDate** to determine: if the customer is still within the first year of the subscription, or if the subscription has been renewed for the following year. | *2/1/2019 0:00* |
-| SubscriptionEndDate | The subscription end date. 시간은 항상 해당하는 날의 시작인 0:00입니다. Either *12 months plus **x** days after the start date* to align with the partner's billing date or *12 months from the renewal date*. 갱신 시 가격은 현재 가격표로 업데이트됩니다. 자동 갱신에 앞서 고객과 연락해야 할 수 있습니다. | *2/1/2019 0:00* |
-| ChargeStartDate | 요금 시작일. 시간은 항상 해당하는 날의 시작인 0:00입니다. Used to calculate daily charges (*pro rata* charges) when a customer changes seat numbers. | *2/1/2019 0:00* |
-| ChargeEndDate | 요금 종료일. 시간은 항상 해당 일의 마지막인 23:59입니다. Used to calculate daily charges (*pro rata* charges) when a customer changes seat numbers. | *2/28/2019 23:59* |
-| ChargeType | The [type of charge](recon-file-charge-types.md) or adjustment. | See [charge types](recon-file-charge-types.md). |
-| UnitPrice | 실제 사용자 수당 가격. 구매 시 가격표에 게시된 바와 같음. Be sure this matches the information stored in your billing system during reconciliation. | *6.82* |
-| Quantity | 실제 사용자 수. Be sure this matches the information stored in your billing system during reconciliation. | *2* |
-| 합계 | 수량의 가격 합계. Used to check if the amount calculation matches how you calculate this value for your customers. | *13.32* |
-| TotalOtherDiscount | 이러한 요금에 적용된 할인 금액. Product licenses included with a competency or MAPS, or new subscriptions eligible for an incentive, will also contain a discount amount in this column. | *2.32* |
-| Subtotal | 세금을 적용하기 전의 총액. Checks if your subtotal matches your expected total, in case of a discount. | *11* |
-| Tax | Tax amount charge. Based on your market's tax rules and specific circumstances. | *0* |
-| TotalForCustomer | 세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다. | *11* |
-| Currency | 통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. Check if it matches your first invoice. Check again after any major billing platform updates. | *EUR* |
-| CustomerName | Customer's organization name, as reported in Partner Center. *Very important field for reconciling the invoice with your system information.* | *Test Customer A* |
-| MPNID | MPN identifier of the CSP partner. See [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMPNID | MPN identifier of the reseller of record for the subscription. See [how to itemize by partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| DomainName | Customer's domain name. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다. *Don't use this field as a unique identifier for the customer. The customer/partner can update the vanity or default domain through the  Office 365 portal.* | *example.onmicrosoft.com* |
-| SubscriptionName | 구독 애칭. If no nickname is specified, Partner Center uses the **OfferName**. | *PROJECT ONLINE* |
-| SubscriptionDescription | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). (This is an identical field to **OfferName**.) | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |
+| PartnerId | 특정 청구 엔터티에 대 한 GUID 형식의 고유 식별자입니다. 조정에는 필요 하지 않습니다. 모든 행에서 같습니다. | *8ddd03642-테스트-테스트* |
+| CustomerID | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| OrderID | Microsoft 청구 플랫폼에서 주문의 고유 식별자. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
+| SubscriptionID | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. *이 값은 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다. 대신 **SyndicationPartnerSubscriptionNumber** 를 참조 하세요.* | *usCBMgAAAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | 구독의 고유 식별자. 고객은 동일한 계획에 대해 여러 구독을 가질 수 있습니다. 이 열은 조정 파일 분석에 중요 합니다. 이 필드는 파트너 관리 콘솔의 **구독 ID** 에 매핑됩니다. | *fb977ab5-24c8d9591708* |
+| OfferID | 고유 제품 식별자입니다. 가격 목록에 정의 된 표준 제품 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 하지 않습니다. 대신 **DurableOfferID** 를 참조 하세요.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferID | 가격 목록에 정의 된 고유한 지 속성 제공 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 합니다.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). | *Microsoft Office 365 (E3 계획)* |
+| SubscriptionStartDate | 구독 시작 날짜입니다. 시간은 항상 해당하는 날의 시작인 0:00입니다. 이 필드는 주문이 제출 된 후의 일로 설정 됩니다. **Subscription.subscriptionenddate** 와 함께 사용 되어 고객이 아직 구독의 첫 번째 연도 내에 있는지 또는 구독이 다음 연도에 대해 갱신 되었는지 여부를 확인 합니다. | *2/1/2019 0:00* |
+| SubscriptionEndDate | 구독 종료 날짜입니다. 시간은 항상 해당하는 날의 시작인 0:00입니다. *시작 날짜 로부터 12 개월 + **x** 일을 더한* 날짜에서 파트너의 청구 날짜 또는 *12 개월을 기준*으로 합니다. 갱신 시 가격은 현재 가격표로 업데이트됩니다. 자동 갱신에 앞서 고객과 연락해야 할 수 있습니다. | *2/1/2019 0:00* |
+| ChargeStartDate | 요금 시작일. 시간은 항상 해당하는 날의 시작인 0:00입니다. 고객이 전화 번호를 변경 하는 경우 일별 요금 (*pro 게 유리 하도록* 요금)을 계산 하는 데 사용 됩니다. | *2/1/2019 0:00* |
+| ChargeEndDate | 요금 종료일. 시간은 항상 해당 일의 마지막인 23:59입니다. 고객이 전화 번호를 변경 하는 경우 일별 요금 (*pro 게 유리 하도록* 요금)을 계산 하는 데 사용 됩니다. | *2/28/2019 23:59* |
+| ChargeType | 요금 또는 조정 [의 유형](recon-file-charge-types.md) 입니다. | [요금 청구 유형](recon-file-charge-types.md)을 참조 하세요. |
+| UnitPrice | 실제 사용자 수당 가격. 구매 시 가격표에 게시된 바와 같음. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *6.82* |
+| 수량 | 실제 사용자 수. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *2* |
+| Amount | 수량의 가격 합계. 금액 계산이 고객에 대해이 값을 계산 하는 방법과 일치 하는지 확인 하는 데 사용 됩니다. | *13.32* |
+| TotalOtherDiscount | 이러한 요금에 적용된 할인 금액. 역량 또는 맵과 함께 제공 되는 제품 라이선스 또는 동기에 적합 한 새 구독은이 열에 할인 금액을 포함 합니다. | *2.32* |
+| Subtotal | 세금을 적용하기 전의 총액. 할인이 예상 합계와 일치 하는지 확인 합니다. | *pt* |
+| Tax | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |
+| TotalForCustomer | 세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다. | *pt* |
+| Currency | 통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 첫 번째 청구서와 일치 하는지 확인 합니다. 주요 청구 플랫폼을 업데이트 한 후에 다시 확인 합니다. | *EUR* |
+| CustomerName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하기 위한 매우 중요 한 필드입니다.* | *고객 A 테스트* |
+| MPNID | CSP 파트너의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
+| ResellerMPNID | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
+| DomainName | 고객의 도메인 이름입니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다. *이 필드를 고객에 대 한 고유 식별자로 사용 하지 마세요. 고객/파트너는 Office 365 포털을 통해 베 니 티 또는 기본 도메인을 업데이트할 수 있습니다.* | *example.onmicrosoft.com* |
+| SubscriptionName | 구독 애칭. 애칭을 지정 하지 않으면 파트너 센터는 **OfferName**을 사용 합니다. | *PROJECT ONLINE* |
+| SubscriptionDescription | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). 이는 **OfferName**에 대 한 동일한 필드입니다. | *PROJECT CLIENT가 없는 PROJECT ONLINE PREMIUM* |
