@@ -1,7 +1,7 @@
 ---
 title: 응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이전 ISV 역량을 갖춘 파트너의 경우 응용 프로그램 개발 역량에 대해 일회성 시험 요구 사항 예외를 얻는 방법을 알아보세요.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, ISV, 응용 프로그램 개발
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295231"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559499"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
 
@@ -27,9 +27,9 @@ ms.locfileid: "74295231"
 
 ISV 역량을 갖춘 파트너:
 
-- **ISV 역량은 만료 되었습니다** . 일회성 시험 요구 사항은 2019 년 11 월 22 일에 시작 되는 파트너 센터에서 사용할 수 있습니다. 제품을 활용 하는 데 30 일이 있습니다. 
+- **ISV 역량이 만료 되었습니다** . 일회성 시험 요구 사항은 2019 년 11 월 22 일에 시작 되는 파트너 센터에서 사용할 수 있습니다. 제품을 이용 하는 데 30 일이 있습니다. 파트너 센터에 로그인 하 여 회사와 관련 한 세부 정보를 확인 합니다.
 
-- **역량 멤버 자격은 갱신 기간에** 있습니다. 일회성 시험 요구 사항은 2019 년 11 월 22 일에 시작 되는 파트너 센터에서 사용할 수 있습니다. 제품을 활용 하는 데 30 일이 있습니다. 
+- **역량 멤버 자격은 갱신 창에** 있습니다. 일회성 시험 요구 사항은 2019 년 11 월 22 일에 시작 되는 파트너 센터에서 사용할 수 있습니다. 제품을 이용 하는 데 30 일이 있습니다. 파트너 센터에 로그인 하 여 회사와 관련 한 세부 정보를 확인 합니다.
 
 - **역량 멤버 자격은 향후 몇 개월 내에 갱신 될 예정** 입니다. 갱신할 때 일회성 시험 요구 사항 예외를 사용할 수 있습니다. 이 시점에서 제품을 30 일 동안 제공 합니다.
 

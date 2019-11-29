@@ -103,6 +103,7 @@
 ## [Microsoft로부터 SLA 크레딧 요청](request-credit.md)
 ## [고객의 Azure 지출 예산 설정](set-an-azure-spending-budget-for-your-customers.md)
 ## [미결제, 사기 또는 오용 관리](non-payment--fraud--or-misuse.md)
+## [할당되지 않은 결제 관리](unallocated-payment.md)
 
 # [고객과의 관계 구축](customer-accounts.md)
 ## [새 고객 추가](add-a-new-customer.md)

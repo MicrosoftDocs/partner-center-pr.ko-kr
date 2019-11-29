@@ -4,10 +4,10 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to manage Azure reservations on behalf of a customer, including how to cancel a reservation, exchange a reservation, or request a refund.
+Description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객을 대신 하 여 Azure 예약을 관리 하는 방법을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: azure, reservations, manage, billing, buying, cancel, exchange, early termination fee
+keywords: azure, 예약, 관리, 청구, 구매, 취소, 교환, 조기 종료 요금
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
@@ -25,79 +25,79 @@ ms.locfileid: "74252635"
 -  Microsoft Azure portal 
 -  CSP 파트너
 
-To manage your customers' Azure reservations post-purchase, you'll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal. 
+고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다. 
 
-1. To get started, select **Customers** from the Partner Center menu and then select the customer whose reservations you want to manage. 
+1. 시작 하려면 파트너 센터 메뉴에서 **고객** 을 선택 하 고 해당 예약을 관리 하려는 고객을 선택 합니다. 
 
-2. On the customer's detail page menu, select **Azure reservations** and then select the specific reservation you want to manage.  
+2. 고객의 세부 정보 페이지 메뉴에서 **Azure 예약** 을 선택 하 고 관리 하려는 특정 예약을 선택 합니다.  
 
-3. Under **Actions**, select **Manage** to go to the customer's reservation record in the Azure portal. 예약 세부 정보 페이지에서 작업을 완료 하려면 다음 단계를 수행합니다.  
+3. **작업**아래에서 **관리** 를 선택 하 여 Azure Portal에서 고객의 예약 레코드로 이동 합니다. 예약 세부 정보 페이지에서 작업을 완료 하려면 다음 단계를 수행합니다.  
 
-    | **Select**   | **To**    |
+    | <bpt id="p1">**</bpt>Select<ept id="p1">**</ept>   | **받는 사람**    |
     |:-----------------------------|:-----------------|
-    | **개요**   | View details of a customer's reservation, including expiration date, scope, and utilization data. **참고** **환불**을 선택하여 비례 배분 방식 환불을 위한 지원 요청을 만듭니다. **교환**을 선택하여 예약 기간 중 미사용 부분을 교환하기 위한 지원 요청을 만듭니다.  
-    | **Access Control (IAM)**   | Manage access to the customer's reservation information.|
-    | **구성**   | Change the reservation's scope and/or the Azure subscription the reservation is associated with.    |
-    | **속성**   | View the reservation's properties and copy to the clipboard the reservation ID and reservation order ID. **참고** 고객을 대신하여 지원을 요청하면 지원 팀에서 예약 ID 및 예약 주문 ID를 물어볼 것입니다.    |
-    | **New support request**    | Microsoft 지원 팀에 도움을 요청합니다.   |
+    | **개요**   | 만료 날짜, 범위 및 사용률 데이터를 포함 하 여 고객 예약의 세부 정보를 봅니다. **참고** **환불**을 선택하여 비례 배분 방식 환불을 위한 지원 요청을 만듭니다. **교환**을 선택하여 예약 기간 중 미사용 부분을 교환하기 위한 지원 요청을 만듭니다.  
+    | **Access Control (IAM)**   | 고객의 예약 정보에 대 한 액세스를 관리 합니다.|
+    | **구성**   | 예약의 범위 및/또는 예약에 연결 된 Azure 구독을 변경 합니다.    |
+    | **속성**   | 예약의 속성을 보고 예약 ID 및 예약 주문 ID를 클립보드로 복사 합니다. **참고** 고객을 대신하여 지원을 요청하면 지원 팀에서 예약 ID 및 예약 주문 ID를 물어볼 것입니다.    |
+    | **새 지원 요청**    | Microsoft 지원 팀에 도움을 요청합니다.   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>예약 취소 또는 교환 
 
-If at any point a customer's business needs change, they may want to cancel a reservation and get a refund or exchange a reservation's prorated refund amount to be used toward the price of a new reservation.
+언제 든 지 고객의 비즈니스 요구 사항이 변경 되 면 예약을 취소 하 고 환불을 받을 수 있으며 새 예약 가격에 사용 될 예약의 비례 상환 금액을 교환할 수 있습니다.
 
-In both of these scenarios, Microsoft refunds the amount to you so that you can then manage the resulting financial transactions with your customers. Microsoft does not contact customers directly about billing, cancellations, or refunds.   
+이러한 두 시나리오에서 Microsoft는 고객에 게 환불 된 재무 거래를 관리할 수 있도록 용량을 자동으로 계산 합니다. Microsoft는 대금 청구, 취소 또는 환불에 대해 직접 고객에 게 연락 하지 않습니다.   
  
 
-**How cancellations work**
+**취소 작업 방법**
 
-Customers can request to cancel a reservation at any time (refund amount capped at $50,000 per year). Cancelling a reservation allows the customer to return the amount of the remaining months of an Azure reservation for an early termination fee. The remaining prorated balance, minus the early termination fee, is refunded to your account so that you can refund the customer's account. 
+고객은 언제 든 지 예약을 취소 하도록 요청할 수 있습니다 (환불 금액은 연간 $5만). 예약을 취소 하면 고객이 조기 종료 요금으로 Azure 예약의 남은 개월 수를 반환할 수 있습니다. 초기 종료 수수료를 제외 하 고 남은 비례 잔액은 사용자 계정에 환불 고객의 계정을 환불 받을 수 있습니다. 
 
-See below for cancellation details and fees.
+취소 세부 정보 및 수수료는 아래를 참조 하세요.
 
 
-|**Cancellation date**<br> (days)   |**Usage**    |**Credit**  |**Early termination**<br> 요금    |**Refund cap** | 
+|**취소 날짜**<br> 일별로   |**보려면**    |**한도액**  |**조기 종료**<br> 요금    |**환불 캡** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 or fewer                         | 아니요          | 100%       | 아니요                              | $50,000 USD   |
-|5 or fewer                         | 예         | Pro-rated  | 아니요                              | $50,000 USD   |
-|More than 5                        | 아니요          | Pro-rated  | 12%                             | $50,000 USD   |
-|More than 5                        | 예         | Pro-rated  | 12%                             | $50,000 USD   |
+|5 개 미만                         | 아니요          | 100%       | 아니요                              | $5만 USD   |
+|5 개 미만                         | 예         | 전문 등급  | 아니요                              | $5만 USD   |
+|5 개 이상                        | 아니요          | 전문 등급  | 10                             | $5만 USD   |
+|5 개 이상                        | 예         | 전문 등급  | 10                             | $5만 USD   |
 
 
-**How exchanges work** 
+**교환 작동 방법** 
 
-If a customer wants to buy a different reservation than the one they originally bought from you, they can request an exchange. Exchanging a reservation can be an attractive alternative to cancelling a reservation because it allows the customer to use the prorated refund amount toward the price of the new reservation. 
+고객이 원래 구매한 사용자와 다른 예약을 구입 하려는 경우 exchange를 요청할 수 있습니다. 예약을 교환 하면 고객이 새 예약 가격에 비례하여 비례 하는 환불 금액을 사용할 수 있으므로 예약을 취소 하는 것이 좋은 대안이 될 수 있습니다. 
 
-The prorated refund amount is credited to your account so that you can offer the customer an exchange.
+고객에 게 exchange를 제공할 수 있도록 비례 하는 환불 금액은 계정에 제공한 됩니다.
 
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>고객을 대신하여 환불 또는 교환 요청 
 
-To file a support request for a refund or exchange on behalf of your customers, you'll select the customer and reservation in Partner Center, and then create the support request in the Azure portal. 
+고객을 대신 하 여 환불 또는 교환에 대 한 지원 요청을 파일 하려면 파트너 센터에서 고객 및 예약을 선택한 후 Azure Portal에서 지원 요청을 만듭니다. 
 
 >[!NOTE]
->Microsoft 지원 상담원이 예약 ID와 예약 주문 ID를 물어볼 수 있습니다. You can find this information on the reservation's **Properties** page in the Azure portal. 
+>Microsoft 지원 상담원이 예약 ID와 예약 주문 ID를 물어볼 수 있습니다. 이 정보는 Azure Portal의 예약 **속성** 페이지에서 찾을 수 있습니다. 
 
-1. To get started, select **Customers** from the Partner Center menu and then select the customer who wants a refund. 
+1. 시작 하려면 파트너 센터 메뉴에서 **고객** 을 선택한 다음 환불 하려는 고객을 선택 합니다. 
 
-2. On the customer's detail page, select **Azure reservations** and then select the specific reservation the customer wants refunded.  
+2. 고객의 세부 정보 페이지에서 **Azure 예약** 을 선택한 후 고객이 환불 하려는 특정 예약을 선택 합니다.  
 
-3. Under **Actions**, select **Refund** to go to the customer's reservation record in the Azure portal and initiate a support request.  
+3. **작업**에서 **환불** 을 선택 하 여 Azure Portal에서 고객의 예약 레코드로 이동 하 고 지원 요청을 시작 합니다.  
 
 4. **새 지원 요청** 페이지에서 다음 단계에 따라 환불을 요청합니다. 각 단계를 수행한 후 **다음**을 선택합니다. 
 
-    |**Step**                    |**Selections**    |
+    |**이동**                    |**선택할**    |
     |:---------------------------|:-----------------|
-    |**1 Basics**                |발행 유형: 청구  |
-    |**2 Problem**               |문제 유형: 예약 관리 범주: 교환 및 환불 |
-    |**3 Contact information**   |기본 설정을 선택하고 필요한 정보를 입력합니다. 
+    |**1 기본 사항**                |발행 유형: 청구  |
+    |**2 문제**               |문제 유형: 예약 관리 범주: 교환 및 환불 |
+    |**3 연락처 정보**   |기본 설정을 선택하고 필요한 정보를 입력합니다. 
 
 5.  입력을 마쳤으면 **생성**을 선택합니다.
 
 ## <a name="azure-reservations-resources"></a>Azure 예약 리소스
-|**For information about**   |**이 글 읽기**    |
+|**에 대 한 자세한 내용**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
-|CSP의 Azure 예약 개요  | [Sell Microsoft Azure Reserved Instances](azure-reservations.md) |
-|Purchasing Azure reservations for your customers in Partner Center   |[Buy Azure reservations](azure-reservations-buying.md) |
-|올바른 VM 크기를 확인하고 고객 VM 사용량 확인   |[VM sizing for maximum Azure reservation usage](azure-usage.md)   |
+|CSP의 Azure 예약 개요  | [Microsoft Azure 예약 인스턴스 판매](azure-reservations.md) |
+|파트너 센터에서 고객에 대 한 Azure 예약 구매   |[Azure 예약 구입](azure-reservations-buying.md) |
+|올바른 VM 크기를 확인하고 고객 VM 사용량 확인   |[최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |
 |파트너 센터 API를 사용하여 Azure 예약 구입 | 파트너 센터 개발자 설명서의 [Azure Reserved VM Instances 구입](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)을 참조하세요.
 

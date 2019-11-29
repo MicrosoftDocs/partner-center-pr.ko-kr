@@ -8,12 +8,12 @@ description: 인센티브 프로그램의 수익 및 지급액을 보세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653993"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559746"
 ---
 # <a name="view-your-incentives-payments-information"></a>성과급 상환 정보 보기
 
@@ -91,6 +91,7 @@ ms.locfileid: "73653993"
 |Ened Usd   |프로그램/참가자 ID의 획득 금액 (USD)      |
 |withheldTax   |Program/participantID에 대 한 종 량 제 보안상 이유로의 세금      |
 |salesTax   |Program/participantID에 대 한 종 량의 총 판매 세금      |
+|serviceFeeTax  |프로그램/participantID에 대 한 유료 통화의 총 serviceFeeTax 크기 |
 |totalPayment   |Program/participantID에 대 한 판매 세금 (해당 하는 경우)을 포함 하 여 원천 세금을 제외한 현지 통화의 총 지불액      |
 |currencyCode   |통화 코드 요금 지불      |
 |paymentMethod   |파트너를 지불 하는 데 사용 되는 방법 (전자 은행 전송, 크레딧 메모)      |
