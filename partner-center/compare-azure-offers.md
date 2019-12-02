@@ -1,20 +1,20 @@
 ---
 title: Azure 제품 비교 | 파트너 센터
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 사용 가능한 Azure 제품 비교
+description: CSP(클라우드 솔루션 공급자) 프로그램의 파트너에 대한 새로운 Microsoft 상거래 환경의 제품 간의 주요 차이점을 비교합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 585a2214e6efa202d688ba4d42c5f23596484110
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653639"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253443"
 ---
 # <a name="compare-azure-offers"></a>Azure 제품 비교
 

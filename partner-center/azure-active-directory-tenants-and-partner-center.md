@@ -1,21 +1,21 @@
 ---
 title: 회사 계정 및 파트너 센터 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터 계정을 만들려면 회사 계정이 있어야 합니다. Microsoft Azure 또는 Office 365에 대한 활성 구독이 있는 경우 회사 계정이 이미 있는 것입니다.
+description: 파트너 센터 계정을 만들기 위해 회사 계정이 필요한 이유와 회사 계정이 이미 있는지 여부를 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 회사 계정, 이메일, 테넌트, Azure 테넌트, 계정 만들기, 도메인 이름
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096547"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253314"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>회사 계정 및 파트너 센터  
 

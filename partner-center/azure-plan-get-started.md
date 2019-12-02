@@ -1,21 +1,21 @@
 ---
 title: Azure 플랜으로 이동 - 시작| 파트너 센터
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure의 새로운 상거래 환경에서 구독을 구입합니다.
+description: 고객을 위한 종량제 요금으로 Azure 서비스를 구입하는 Azure 플랜 상거래 환경에 대해 알아봅니다. 새 보안 요구 사항에 대해서도 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Azure 플랜, 구독 구입, 구독
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661131"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253289"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure 플랜으로 이동 - 시작
 

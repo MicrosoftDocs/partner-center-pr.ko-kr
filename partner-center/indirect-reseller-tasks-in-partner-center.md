@@ -1,22 +1,22 @@
 ---
 title: CSP에서 간접 공급자와 파트너 되기 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객 지원 및 청구를 제공할 수 있는 간접 공급자(배포자라고도 함)와 협력합니다.
+description: CSP 프로그램의 간접 재판매인이 고객 지원 및 요금 청구에 도움을 주는 Microsoft 간접 공급자(또는 배포자)와 함께 작동하는 방법에 대해 알아봅니다.
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654334"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253660"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 

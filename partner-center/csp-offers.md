@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램의 파트너 옵션 | 파트너 센터
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램을 통해 판매하는 파트너에게 제공되는 옵션에 대해 알아보세요.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799209"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252904"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 
 
@@ -57,7 +57,7 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 
     
     **Marketplace** 페이지에서 이러한 제품에 대한 정보를 찾을 수 있습니다. 이 페이지에는 파트너 센터가 아닌 Azure Portal에서 구입해야 하는 다른 유형의 제품에 대한 정보도 포함되어 있습니다.<br>
 
-    자세한 내용은 [Azure Marketplace 제품에 대한 구독 판매](sell-marketplace-products.md)를 참조하세요.
+    자세한 내용은 [CSP 상용 마켓플레이스의 개요](CSP-commercial-marketplace-overview.md)를 참조하세요.
 
 ## <a name="add-products-page-details"></a>제품 추가 페이지 세부 정보
 
@@ -104,8 +104,8 @@ CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원
 
 청구 프로세스의 작동 방식에 대한 자세한 내용은 [청구 기본 사항](https://docs.microsoft.com/partner-center/billing-basics)을 참조하세요.
 
-Azure 플랜에서 구입에 대한 자세한 내용은 [Azure 플랜 구매](purchase-azure-plan)를 참조하세요.
+Azure 플랜에서 구입에 대한 자세한 내용은 [Azure 플랜 구매](purchase-azure-plan.md)를 참조하세요.
 
+## <a name="see-also"></a>참고 항목
 
-
-
+[CSP 상용 마켓플레이스의 개요](csp-commercial-marketplace-overview.md)

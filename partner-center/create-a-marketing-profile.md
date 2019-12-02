@@ -1,21 +1,21 @@
 ---
 title: 비즈니스 프로필 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft에서 영업 잠재 고객을 가져오기 위해 파트너 센터에서 비즈니스 프로필을 만듭니다.
+description: Microsoft에서 판매 잠재 고객을 얻는 방법에 대해 알아보세요. 한 가지 중요한 단계는 파트너 센터에서 비즈니스 프로필을 만들어 고객이 찾을 수 있도록 하는 것입니다.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: high
-ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653606"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252656"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

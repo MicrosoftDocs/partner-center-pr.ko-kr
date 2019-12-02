@@ -1,21 +1,21 @@
 ---
-title: Azure 플랜 - 청구 | 파트너 센터
+title: Azure 요금제 청구 | 파트너 센터
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure 플랜에 대한 청구서 및 조정 파일 구조에 대해 설명합니다.
+description: Azure 요금제에 대한 청구와 관련된 청구서 및 조정 파일 구조에 액세스하고 이해하는 방법을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661161"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536445"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
@@ -42,7 +42,7 @@ Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 �
 
 - **파트너 인센티브**: 청구 월이 끝나고 45일 후에 결제됩니다.
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>청구서 및 조정 파일 액세스
+## <a name="access-your-invoices-and-reconciliation-files"></a>청구서 및 조정 파일 액세스
 
 청구서를 볼 수 있게 되면 회사의 글로벌 관리자 또는 대금 청구 관리자에게 이메일을 전송됩니다. 
 
@@ -141,7 +141,7 @@ Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 �
 
 ## <a name="invoice-in-customer-currency"></a>고객 통화로 작성된 청구서 
 
-Azure 플랜을 통한 Azure 서비스는 USD로 가격이 책정되며 고객의 국가에 할당된 통화 요금이 청구됩니다. 청구 통화가 USD가 아닌 경우 사용되는 환율은 청구서의 마지막 페이지에 표시됩니다. 환율은 매월 결정되며 다음 청구서부터 적용됩니다. 국가 통화의 전체 목록은 [최신 상거래 제품 사용 가능 국가 및 고객 통화표](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)를 참조하세요. 
+Azure 플랜을 통한 Azure 서비스는 USD로 가격이 책정되며 고객의 국가에 할당된 통화 요금이 청구됩니다. 청구 통화가 USD가 아닌 경우 사용되는 환율은 청구서의 마지막 페이지에 표시됩니다. 환율은 매월 결정되며 다음 청구서부터 적용됩니다. 국가 통화의 전체 목록은 [최신 상거래 제품 사용 가능 국가 및 고객 통화표](https://go.microsoft.com/fwlink/?linkid=2112354)를 참조하세요. 
 
 Microsoft는 [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company)를 사용하여 가격 책정 통화를 청구 통화로 변환하는 데 사용되는 환율을 결정합니다. 환율은 적용되는 월의 첫 번째 날짜 이전에 새로 고쳐지고 사용할 수 있습니다.
 

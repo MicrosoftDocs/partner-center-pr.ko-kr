@@ -1,21 +1,21 @@
 ---
 title: 회사 계정 통합 | 파트너 센터
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 회사에서 파트너 센터로 이동하면 모든 계정이 하나의 계정으로 통합됩니다.
+description: PMC(Partner Membership Center) 계정을 파트너 센터의 계정 하나로 통합하는 방법에 대해 알아봅니다. PMC에서 파트너 센터로 마이그레이션할 때입니다.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653625"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252068"
 ---
 # <a name="consolidate-your-company-accounts"></a>회사 계정 통합
 

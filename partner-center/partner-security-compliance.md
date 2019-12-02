@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661109"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295259"
 ---
 # <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
 
@@ -95,7 +95,7 @@ MFA를 구현한 파트너의 경우 파트너 센터 MFA 보고서의 메트릭
 현재 구현이 특정 조건 하에서만 MFA를 적용하는지 확인하세요. 일부 MFA 솔루션은 특정 조건이 충족될 때만 MFA를 적용하도록 유연성을 제공합니다. 사용자가 알 수 없는 디바이스 또는 알 수 없는 위치에서 액세스하는 경우를 예로 들 수 있습니다. MFA를 사용하도록 설정되었지만 파트너 센터에 액세스할 때 꼭 MFA 확인을 완료하지 않아도 되는 사용자 때문에 메트릭이 100%가 아닐 수 있습니다.
 
 >[!NOTE]
->Azure AD 보안 기본값을 사용하여 MFA를 구현한 파트너의 경우, 관리 사용자 계정이 없으면 위험에 따라 다단계 인증이 적용됩니다. 위험한 로그인을 시도하는 경우에만 MFA가 적용된다는 메시지가 표시됩니다(예: 다른 위치에서 로그인하는 경우). 또한 사용자는 최대 14일 동안 MFA에 등록할 수 있습니다. MFA 등록을 완료하지 않은 사용자는 14일 동안 MFA 확인을 요청하는 문제가 발생하지 않습니다. 따라서 Azure AD 보안 기본값을 사용하여 MFA를 구현한 파트너의 경우 메트릭이 100%가 아닐 수 있습니다.
+>Azure AD 보안 기본값을 사용하여 MFA를 구현한 파트너의 경우, 관리 사용자 계정이 아니면 위험에 따라 다단계 인증이 적용됩니다. 위험한 로그인을 시도하는 경우에만 MFA가 적용된다는 메시지가 표시됩니다(예: 다른 위치에서 로그인하는 경우). 또한 사용자는 최대 14일 동안 MFA에 등록할 수 있습니다. MFA 등록을 완료하지 않은 사용자는 14일 동안 MFA 확인을 요청하는 문제가 발생하지 않습니다. 따라서 Azure AD 보안 기본값을 사용하여 MFA를 구현한 파트너의 경우 메트릭이 100%가 아닐 수 있습니다.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>타사 MFA 솔루션을 사용하고 있나요?
 
@@ -105,7 +105,7 @@ MFA를 구현한 파트너의 경우 파트너 센터 MFA 보고서의 메트릭
 
 * **사용자 지정 컨트롤** – Azure AD 사용자 지정 컨트롤을 사용하여 사용자가 타사 MFA 솔루션을 통해 MFA 확인을 완료했는지 여부를 확인할 수 없습니다. 따라서 사용자 지정 컨트롤을 통해 MFA 확인을 완료한 사용자는 항상 Azure AD에(그리고 파트너 센터에) MFA 확인을 완료하지 않는 것으로 나타납니다. 가능하다면 Azure AD와 통합할 때 사용자 지정 컨트롤과 반대로 ID 페더레이션을 사용하도록 전환하는 것이 좋습니다.
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>MFA를 사용하지 않고 파트너 센터에 로그인한 사용자 확인
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>MFA를 사용하지 않고 파트너 센터에 로그인한 사용자 식별
 
 MFA 확인 없이 파트너 센터에 로그인한 사용자를 파악하여 현재 MFA 구현과 대조한다면 도움이 될 수 있습니다. [Azure AD 로그인 보고서](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)를 사용하여 사용자가 MFA 확인을 완료했는지 확인할 수 있습니다. Azure AD 로그인 보고서는 현재 Azure AD Premium 또는 Azure AD Premium이 포함된 O365 SKU(예: EMS)를 구독한 파트너만 사용할 수 있습니다.
 
