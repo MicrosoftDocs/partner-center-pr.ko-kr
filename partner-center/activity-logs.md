@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 활동 로그, 구독, 지불, 청구, 거래
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252709"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721786"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
+- 클라우드 솔루션 공급자 프로그램 파트너
 
+**적절한 역할**
+
+- 전역 관리자
+- 청구 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 활동 로그는 고객에 대한 거래 및 파트너 관리 작업과 관련된 정보를 제공합니다. 거래에 대한 로그는 구매한 구독을 비롯하여 거래에 대한 자세한 정보를 제공합니다. 활동 로그를 Excel과 호환되는 쉼표로 구분된 값 파일 형식(.csv)으로 내보낼 수도 있습니다.
 
@@ -31,7 +40,9 @@ ms.locfileid: "74252709"
 
 **활동 로그 보기 및 내보내기**
 
-1.  **계정 설정** 메뉴에서 **활동 로그**를 선택합니다.
+1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+
+2. **계정 설정** 메뉴에서 **활동 로그**를 선택합니다.
 2.  **시작일** 및 **종료일** 필드에서 활동 로그 기간을 선택합니다. 활동 로그 내보내기는 기본적으로 최근의 달로 설정됩니다.
 
     각 활동 로그는 나열된 고객의 **구독** 페이지에 대한 링크를 제공합니다.

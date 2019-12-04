@@ -1,7 +1,7 @@
 ---
 title: Microsoft로 문제 에스컬레이션 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너가 고객에 대해 스스로 해결 해야 하는 문제 및 Microsoft로 에스컬레이션 해야 할 수 있는 문제에 대해 알아보세요.
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252572"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722235"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 고객을 대신하여 문제를 해결하는 것이 좋습니다. 첫 번째 단계로 문서화된 기존 문제에서 [서비스 상태를 확인](check-service-health.md)해야 합니다. 이 단계에서 고객 문제를 해결하지 못한 경우 관리자 권한을 사용하여 소프트웨어, 설정 및 구성 문제를 해결할 수 있습니다.
 

@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터의 청구 유형 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 볼 수 있는 다양 한 청구 유형, 청구 기간 및 청구 날짜에 대해 알아봅니다.
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: 청구, 결제, 주문, 조정 파일, 조정파일
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384857"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722247"
 ---
 # <a name="types-of-billing-in-partner-center"></a>파트너 센터의 청구 유형
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
 - CSP 프로그램의 파트너
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 고객을 대신 하 여 구매한 제품, 솔루션 및 서비스에 따라 파트너 센터 구매 요금이 청구 됩니다. 청구 유형은 다음과 같습니다.
 

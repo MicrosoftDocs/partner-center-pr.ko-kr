@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681922"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722262"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ ms.locfileid: "74681922"
 
 - 파트너 센터
 
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
+ 
 ## <a name="what-are-azure-reservations"></a>Azure Reservations 이란?
 
 Azure Reservations 1 년 또는 3 년간의 가상 머신에 대해 사전 지불 하 여 비용을 절감 하는 데 도움을 줍니다. 계산 용량, Azure Cosmos DB 처리량 또는 기타 Azure 리소스를 SQL Database 합니다. 사전 지불을 통해 사용하는 리소스에 대한 할인을 받을 수 있습니다. Azure Reservations를 통해 가상 컴퓨터, SQL 데이터베이스 컴퓨팅, Azure Cosmos DB 및 기타 리소스 비용을 종량제 요금에 비해 최대 72% 절감할 수 있습니다. 예약은 청구 할인을 제공 하며 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 [Azure Reservations 정의](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) 를 참조 하세요.

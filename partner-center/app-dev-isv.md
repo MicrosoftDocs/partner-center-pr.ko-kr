@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, ISV, 응용 프로그램 개발
 ms.localizationpriority: medium
-ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559499"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722347"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
 
-**적용 가능한 역할**
+**적절한 역할**
 
 - 전역 관리자
 - MPN 파트너 관리자

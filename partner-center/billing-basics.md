@@ -1,8 +1,8 @@
 ---
 title: 청구 개요 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
-description: 파트너 센터에 대 한 기본 청구 및 송장 정보입니다.
+ms.date: 11/25/2019
+description: 파트너 센터에 대 한 기본 청구 및 송장 정보에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384542"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722464"
 ---
 # <a name="billing-overview"></a>청구 개요
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
 - CSP (클라우드 솔루션 공급자) 프로그램의 파트너
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 ## <a name="find-your-bill"></a>청구서 찾기
 
 청구서를 찾으려면 다음을 수행 합니다.
 
 1. [파트너 센터 대시보드에 로그인](https://partner.microsoft.com/dashboard/home)합니다.
+
 2. 왼쪽 메뉴에서 **청구**를 선택 합니다.
+
 3. **청구** 페이지에서 최신 청구서를 다운로드 하거나 **대금 청구 내역** 섹션에서 이전 청구서를 다운로드할 수 있습니다.
 
 ## <a name="bill-your-customers"></a>고객 요금 청구
@@ -52,7 +62,7 @@ Microsoft는 사용자의 청구서를 처리 하는 방법에 대 한 요구 �
 
 청구서는 현재 청구 기간에 대 한 모든 요금을 요약 한 것입니다. 여기에는 프로그램 전체의 요금, 모든 제품 및 모든 고객이 포함 됩니다. 월별 및 연간 청구 시나리오의 예는 [일반적인 청구 시나리오](common-billing-scenarios.md) 를 참조 하세요.
 
-청구서는 UTC 시간에 선택한 청구 날짜의 2 일 이내에 사용할 수 있습니다. 예를 들어 9 월 12 일의 청구 날짜가 있는 경우 청구서 생성 프로세스는 13 분 오전 12 시에 시작 되 고 14 일에서 오전 12 시에 오전 12 시에 완료 됩니다. 15:59PM UTC로 청구서가 표시 되지 않는 경우에는 Service Level Agreement(서비스 수준 약정)를 제외 하 고 서비스 요청을 파일에 써야 합니다.
+청구서는 UTC 시간에 선택한 청구 날짜의 2 일 이내에 사용할 수 있습니다. 예를 들어 청구 날짜가 9월 12일인 경우 청구서 생성 프로세스가 13일 오전 12:00(UTC)에 시작되고 14일 오전 12:00(UTC)까지 완료됩니다. 15:59PM UTC로 청구서가 표시 되지 않는 경우에는 Service Level Agreement(서비스 수준 약정)를 제외 하 고 서비스 요청을 파일에 써야 합니다.
 
 매월 청구 하기로 선택 하는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 고객의 구독 (라이선스 기반 및 사용 체납)에 대해 Microsoft 60 일을 청구 합니다.
 

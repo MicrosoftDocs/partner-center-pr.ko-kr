@@ -1,7 +1,7 @@
 ---
 title: 서비스 상태 확인 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 서비스에서 문제가 발생 하는 경우 고객에 대 한 서비스 상태를 확인 하는 방법을 알아봅니다.
@@ -10,18 +10,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 상태, 서비스 상태, 서비스 문제
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253427"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721654"
 ---
 # <a name="check-service-health"></a>서비스 상태 확인
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 고객 서비스에 문제가 발생하는 경우 할 수 있는 첫 번째 작업 중 하나가 서비스 상태를 확인하는 것입니다.
 

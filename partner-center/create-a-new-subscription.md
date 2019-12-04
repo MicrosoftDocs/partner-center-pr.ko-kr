@@ -1,7 +1,7 @@
 ---
 title: 고객 구독 만들기, 일시 중단, 또는 취소 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 고객 레코드를 만든 후 카탈로그의 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
@@ -10,14 +10,14 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단, 일시 중단, SaaS, 라이선스, ISV, 타사
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253455"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721718"
 ---
-# <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 생성, 일시 중단 또는 취소
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
 **적용 대상**
 
@@ -25,10 +25,13 @@ ms.locfileid: "74253455"
 -  Microsoft Cloud for US Government 파트너 센터
 -  CSP 파트너
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
 - 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다. 여기에는 타사 Isv (독립 소프트웨어 공급 업체)가 [상업적 marketplace](https://azuremarketplace.microsoft.com/marketplace)에 게시 한 SaaS (Software As a Service) 제품 뿐만 아니라 Microsoft에서 게시 한 제품이 포함 됩니다. 
 
@@ -73,7 +76,7 @@ CSP 프로그램의 파트너는 파트너 센터 내에서 ISV 게시자의 **�
     
     - 구독에 30 일 무료 평가판이 제공 되는 경우 무료 평가판 기간이 자동으로 적용 됩니다. CSP 프로그램의 파트너는 고객을 위해 구매한 제품에 대 한 무료 평가판 기간을 되지 않으며 수 없습니다. 무료 평가판 기간이 종료 되 면 구독 기간이 시작 되 고 구독이 유료으로 변환 됩니다. 그러면 구독은 동일한 일정에 따라 자동 갱신 됩니다.
 
-## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중지 또는 취소
+## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중단 또는 취소
 
 고객의 요청이 있거나 사기 또는 미결제 발생 시 파트너는 구독을 일시 중단하거나 취소할 수 있습니다.
 
@@ -149,7 +152,7 @@ ISV 게시자에서 라이선스 기반 SaaS 구독을 취소 하려면 다음�
 
 6. **제출**을 선택합니다.
 
-## <a name="see-also"></a>참고자료
+## <a name="see-also"></a>참고 항목
 
 - [고객을 위한 상용 마켓플레이스 제품 구매](csp-commercial-marketplace-purchase.md)
 - [고객을 위한 상업적 마켓플레이스 제품 관리](csp-commercial-marketplace-manage.md)

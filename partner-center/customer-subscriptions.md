@@ -1,7 +1,7 @@
 ---
 title: 고객 구독 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 고객에 게 구독을 판매 하 고 파트너 센터를 통해 관리 하는 방법을 알아봅니다.
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 구독, 라이선스 할당, 라이선스, 고객 만족도, Azure 구독
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253502"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722547"
 ---
 # <a name="customer-subscriptions"></a>고객 구독
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 CSP 파트너가 수행하는 중요한 역할 중 하나는 Microsoft 제품에 대한 구독을 고객에게 제공하는 것입니다. 파트너 센터에서 각 고객에 대 한 모든 구독을 관리할 수 있습니다. 또한 구독을 추가하고 기존 구독에 라이선스를 추가하며, 소프트웨어를 시험 사용하고 싶어하는 고객들에게 평가판 구독을 제공할 수 있습니다. 또한 분석을 보고 고객이 소프트웨어를 사용 하는 방식을 이해 하 여 더 나은 지원을 제공할 수 있습니다.
 

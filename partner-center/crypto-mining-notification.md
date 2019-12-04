@@ -1,7 +1,7 @@
 ---
 title: 암호화-마이닝 작업에 대 한 파트너 센터 알림 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 하나 이상의 Azure 구독에서 잠재적 이용 마이닝 (또는 암호화 마이닝)에 대 한 알림이 표시 되는 경우의 의미를 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 암호화-마이닝, 이용 마이닝, 보안
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 52a6597c9636335cae5218b5a3dbecf0b54e1ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252719"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722313"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>이용 마이닝 작업에 대 한 파트너 센터 알림
 

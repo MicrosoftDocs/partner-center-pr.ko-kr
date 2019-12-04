@@ -1,7 +1,7 @@
 ---
 title: 지원 담당자 할당 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 서비스에 대 한 구독이 있는 고객에 대 한 기술 지원 담당자에 게 재판매인을 할당 하는 방법에 대해 알아봅니다.
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: 도움말 에이전트, 지원 담당자 할당, 지정된 지원 연락처
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253341"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722394"
 ---
 # <a name="assign-support-contacts"></a>지원 담당자 할당
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
 
 고객의 Microsoft 서비스 구독을 설정할 때 직접 지원을 제공하는 대신 이러한 제품의 기술 지원을 지정된 제품 재판매인에게 할당할 수 있습니다.
 

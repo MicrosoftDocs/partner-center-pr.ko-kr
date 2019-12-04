@@ -1,7 +1,7 @@
 ---
 title: Windows Autopilot 프로필을 사용 하 여 장치의 기본 제공 경험을 사용자 지정 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 장치를 고객에 게 배달 하기 전에 Autopilot profile을 사용 하 여 새로운 장치의 기본 환경을 사용자 지정 하거나 미리 구성 하는 방법에 대해 알아봅니다.
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot, windows autopilot, microsoft autopilot, zero touch 배포, oobe, 로그인 화면, 기본
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253327"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721433"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치의 기본 제공 경험을 사용자 지정
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치에 대 한 기본 경험 경험 사용자 지정
 
 **적용 대상**
 
 - CSP 직접-청구서 파트너, 간접 공급자 및 간접 대리점
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 영업 에이전트
+- 사용자 관리 관리자
 
 고객 장치를 관리 하는 경우 고객의 사용자에 대 한 OOBE (기본 경험)를 사용자 지정 해야 할 수 있습니다. 장치를 고객에 게 배달 하기 전에 Windows Autopilot 프로필을 사용 하 여 새 장치를 미리 구성 하 고 고객이 이미 구매한 장치에 새 프로필을 적용할 수 있습니다. 
 

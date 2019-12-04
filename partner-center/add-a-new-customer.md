@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384612"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722295"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
+- 클라우드 솔루션 공급자 프로그램 파트너
+
+**적절한 역할**
+
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+
 
 구독을 판매 하거나, 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 파트너 센터의 고객 목록에 추가 해야 합니다.
 
@@ -51,7 +60,7 @@ ms.locfileid: "74384612"
 
 7. 고객 정보 추가를 완료 하 고 필요한 구독을 구매한 경우 **완료** 를 선택 합니다.
 
-## <a name="see-also"></a>참고자료
+## <a name="see-also"></a>참고 항목
 
 - 클라우드 솔루션 공급자 프로그램을 통해 고객에 게 판매할 수 있는 항목에 대 한 자세한 내용은 [클라우드 솔루션 공급자 프로그램의 파트너 제품](csp-offers.md) 을 참조 하세요.
 

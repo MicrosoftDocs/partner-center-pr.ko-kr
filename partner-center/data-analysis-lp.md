@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터의 데이터 및 분석 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 분석을 사용 하 여 비즈니스와 고객이 구매한 라이선스를 사용 하는 방법을 더 잘 이해 하는 방법을 알아보세요.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 데이터, 분석, 데이터 분석, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384840"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722565"
 ---
 # <a name="get-data-and-analyze-your-business"></a>데이터 수집과 비즈니스 분석
 

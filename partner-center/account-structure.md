@@ -9,16 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253158"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722315"
 ---
 # <a name="the-account-structure-in-partner-center"></a>파트너 센터의 계정 구조
 
-회사에는 파트너 센터에 두 가지 수준의 계정이 있습니다. 
+**적용 대상**
+
+- 파트너 센터
+- MPN 파트너
+
+**적절한 역할**
+
+- 계정 관리자
+- 비즈니스 프로필 관리자
+- 전역 관리자
+- MPN 파트너 관리자
+
+회사에는 파트너 센터에 두 가지 수준의 계정이 있습니다.
 
 ### <a name="the-top-level-is-the-primary-global-account-pga"></a>최상위 수준은 기본 전역 계정 (수준)입니다.
 

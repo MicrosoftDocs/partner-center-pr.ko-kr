@@ -1,7 +1,7 @@
 ---
 title: Microsoft와 공동 판매 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 계약을 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 계약을 확인 하는 방법을 알아봅니다.
@@ -10,18 +10,23 @@ ms.author: jenhayes
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253448"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721498"
 ---
 # <a name="co-sell-with-microsoft"></a>Microsoft와 공동 판매
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+
+- MPN 파트너 관리자
+- 조회 관리자
 
 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 이러한 공동 작업을 통해 시장에 대 한 솔루션을 사용 하 고, 공동 수익을 추진 하 고, 고객의 성공을 보장 합니다.
 

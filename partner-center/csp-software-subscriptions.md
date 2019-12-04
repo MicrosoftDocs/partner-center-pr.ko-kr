@@ -1,7 +1,7 @@
 ---
 title: CSP를 통해 소프트웨어 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터를 사용 하 여 고객에 대 한 Azure 예약 인스턴스 및 서버 구독을 구매, 관리, 판매 및 취소 하는 방법을 알아봅니다.
@@ -10,14 +10,19 @@ ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0e2b735c1b67b49c18f2b83c042ec5a2bb0eefbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253547"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721334"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
 
 Azure 예약 및 서버 구독 (Windows Server 및 SQL Server 구독)을 사용 하면 CSP 프로그램의 파트너가 높은 예측 가능 하 고 지속적으로 지원 하기 위해 보다 비용 효율적인 솔루션을 위해 신속 하 게 성장 하는 고객 수요를 더 효율적으로 해결할 수 있습니다. 클라우드 워크 로드. 
 

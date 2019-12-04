@@ -1,7 +1,7 @@
 ---
 title: 고객 계정 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 재판매인 파트너에 대 한 리소스를 찾습니다. 여기에는 구독, 요금 청구 또는 지원을 제공 하기 전에 고객 계정을 만들 필요가 있습니다.
@@ -9,12 +9,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253572"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721388"
 ---
 # <a name="customer-accounts"></a>고객 계정
 
@@ -23,6 +23,12 @@ ms.locfileid: "74253572"
 -  파트너 센터
 -  Microsoft Cloud for US Government 파트너 센터
 
+**적절한 역할**
+
+- 전역 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 대리점 파트너는 파트너 센터에서 각 고객에 대 한 계정을 만들어야 합니다. 고객 계정을 사용하여 구독을 판매하고, 비용을 청구하며, 지원을 제공할 수 있습니다. 파트너 센터로 이동 하기 전에 보유 한 고객을 포함 하 여 각 고객에 대 한 파트너 센터 계정을 만들어야 합니다.
 

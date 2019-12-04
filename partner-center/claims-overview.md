@@ -1,7 +1,7 @@
 ---
 title: 공동 op 클레임 성과급 | 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 작업 계획을 검토 하기 위한 필수 구성 요소 없이 성과급 클레임을 제출 하는 방법에 대해 알아봅니다.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
 ms.localizationpriority: medium
-ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253413"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721627"
 ---
 # <a name="incentives-co-op-claims-overview"></a>인센티브 협력 클레임 개요
 
 **적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+
+- 인센티브 관리자
+- 인센티브 사용자
 
 Microsoft 성과급 프로그램 (예: 파트너 성과급 공동 마케팅 기금, 온라인 서비스 관리자 프로그램 또는 Dynamics ISV 프로그램) 중 하나에 참여 하는 경우 수행한 활동에 대 한 상환을의 진척 자금을 요청 합니다. Microsoft 제품 인식을 지원 합니다. 파트너 센터에서 직접 클레임을 제출 합니다. 더 이상 클레임 제출 전에 활동 계획에 대해 Microsoft의 검토를 거칠 필요가 없습니다. 클레임 기한(사용 기간이 종료된 후 45일) 내에 클레임과 필요한 문서를 제출하세요. 
 

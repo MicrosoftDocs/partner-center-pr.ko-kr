@@ -1,7 +1,7 @@
 ---
 title: 고객을 대신하여 Microsoft Azure 예약 구입 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
@@ -10,40 +10,48 @@ ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구입
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253236"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722013"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Azure portal
--  CSP 파트너
+- 파트너 센터
+- Microsoft Azure portal
+- CSP 파트너
 
-## <a name="before-you-begin"></a>시작하기 전 주의 사항
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
+
+## <a name="before-you-begin"></a>시작하기 전에
 
 고객을 대신 하 여 Azure 예약을 구입 하기 전에 아래의 중요 한 정보를 검토 하세요.
 
 - 고객이 [microsoft 고객 계약에 대 한 고객](confirm-customer-agreement.md)동의를 확인 하는 새 Microsoft 고객 계약에 서명 하는 경우 azure 요금제에서 azure 예약을 구매 해야 합니다. 자세한 내용은 [Azure 계획 구매](purchase-azure-plan.md)를 참조 하세요.
 
--   고객을 대신하여 예약을 구매할 수 있으려면 고객이 이미 Azure 구독 중이어야 합니다.
+- 고객을 대신하여 예약을 구매할 수 있으려면 고객이 이미 Azure 구독 중이어야 합니다.
   
--   SQL Database 또는 SUSE Linux 소프트웨어와 같은 소프트웨어 구독 비용은 Azure 예약 가격에 포함 되지 않습니다.
+- SQL Database 또는 SUSE Linux 소프트웨어와 같은 소프트웨어 구독 비용은 Azure 예약 가격에 포함 되지 않습니다.
 
--   Microsoft의 상용 가격은 사용자의 위치가 브라질이 아닌 한 세금을 포함 하지 않습니다. 사용자의 위치가 브라질 인 경우 상용 가격은 적절 한 세금을 포함 합니다. 
- 
--   판매 및 헬프 데스크 직원들이 고객을 대신하여 교환 및 환불을 포함하여 Azure Portal 및 파일 지원 요청 시 이를 구입 또는 관리할 수 있으려면 Azure 구독에 명시적으로 액세스해야 합니다.  
+- Microsoft의 상용 가격은 사용자의 위치가 브라질이 아닌 한 세금을 포함 하지 않습니다. 사용자의 위치가 브라질 인 경우 상용 가격은 적절 한 세금을 포함 합니다.
 
--   간접 공급자이 고 Azure Portal를 통해 Azure 예약을 구입 하는 경우, 선택 하는 Azure CSP 구독에서 파트너 (간접 재판매인)의 파트너가 상속 됩니다. 
+- 판매 및 헬프 데스크 직원들이 고객을 대신하여 교환 및 환불을 포함하여 Azure Portal 및 파일 지원 요청 시 이를 구입 또는 관리할 수 있으려면 Azure 구독에 명시적으로 액세스해야 합니다.  
 
--   Azure 예약에 대 한 레코드 파트너는 구매 후에 변경할 수 없습니다. 기존 예약을 취소하고 새로운 공식 파트너를 통해 새 예약을 구입할 수 있습니다. 
+- 간접 공급자이 고 Azure Portal를 통해 Azure 예약을 구입 하는 경우, 선택 하는 Azure CSP 구독에서 파트너 (간접 재판매인)의 파트너가 상속 됩니다.
 
--   고객이 직접 또는 EA에서 CSP로 Azure 구독을 양도하고 싶어하는 경우에 예약은 양도가 되지 않습니다. 
+- Azure 예약에 대 한 레코드 파트너는 구매 후에 변경할 수 없습니다. 기존 예약을 취소하고 새로운 공식 파트너를 통해 새 예약을 구입할 수 있습니다.
+
+- 고객이 직접 또는 EA에서 CSP로 Azure 구독을 양도하고 싶어하는 경우에 예약은 양도가 되지 않습니다.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 예약을 사용할 수 없는 시장
 
@@ -81,10 +89,10 @@ ms.locfileid: "74253236"
 > | 지부티     | 미크로네시아     | 토켈라우   |
 > | 도미니카     | 몬트세라트     | 통가   |
 > | 적도 기니     | 모잠비크     | 터크스 케이커스 제도   |
-> | 에리트레아     | 미얀마     | 투발루   |
+> | 에리트레아     | 미얀마어     | 투발루   |
 > | 포클랜드 제도     | 나우루     | 미국령 해외 제도   |
 > | 프랑스령 기아나     | 뉴칼레도니아     | 바누아투   |
-> | 프랑스령 폴리네시아     | 니제르     | 바티칸 시국   |
+> | 프랑스령 폴리네시아     | 니제르     | 바티칸시국   |
 > | 프랑스 남부 지방     | 니우에     | 월리스 푸투나   |
 > | 가봉     | 노퍽 섬     | 예멘   |
 > | 감비아     | 북마리아나 제도     |    |
@@ -98,7 +106,7 @@ ms.locfileid: "74253236"
 
 2. **고객** 페이지에서 Azure 예약을 구매 하려는 고객을 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다.  
 
-3. **제품 추가**를 선택한 다음 **Azure**를 선택합니다. 
+3. **제품 추가**를 선택한 다음, **Azure**를 선택합니다. 
 
     a. **세그먼트** 목록에서 고객의 시장 세그먼트를 선택합니다.
 
@@ -134,7 +142,7 @@ ms.locfileid: "74253236"
     - Azure 예약에서 청구 계획 옵션을 지 원하는 경우 드롭다운 메뉴에서 월별 청구 빈도를 선택할 수 있습니다. 
     - Azure 예약에서 청구 계획 옵션을 지원 하지 않는 경우 청구 주기는 기본적으로 일회성 청구로 설정 됩니다. 
 
-9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 내역** 페이지로 이동합니다. 
+9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다. 
 
 10. Azure Portal에서 고객의 예약을 관리 하려면 **고객 페이지에서 고객을** 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다. **Microsoft Azure 관리 포털** 를 선택 하 여 Azure Portal에서 고객의 레코드를 엽니다.
 

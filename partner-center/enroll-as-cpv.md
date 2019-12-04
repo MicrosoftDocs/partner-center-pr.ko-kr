@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터에서 제어판 공급 업체로 등록 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 CPV (제어판 공급 업체)로 등록 하는 방법에 대해 알아봅니다.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 제어판 공급 업체, CPV 앱 등록, CPV 앱 관리
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253576"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722558"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>파트너 센터에서 제어판 공급 업체로 등록
 
 **적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+
+- 전역 관리자
 
 CPV (제어판 공급 업체)는 CSP (클라우드 솔루션 공급자) 파트너가 시스템을 파트너 센터 Api와 통합할 수 있도록 응용 프로그램을 개발 하는 독립 소프트웨어 공급 업체입니다. 제어판 공급 업체는 파트너 센터 대시보드 또는 파트너 센터 Api에 직접 액세스할 수 있는 CSP 파트너가 아닙니다.
 

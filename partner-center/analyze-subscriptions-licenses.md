@@ -11,18 +11,26 @@ ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253367"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722370"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>구독 및 라이선스 분석 
 
 **적용 대상**
 
 - 파트너 센터
+- 클라우드 솔루션 공급자 프로그램 파트너
+
+**적절한 역할**
+
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
 
 데이터는 비즈니스 결정을 주도합니다. **구독 및 라이선스 분석** 페이지의 메트릭을 사용하여 귀사의 성공 상태 및 더 많은 관심이 필요한 분야를 파악하세요. 이 정보를 사용하여 새로운 비즈니스 목표를 계획하세요.
 

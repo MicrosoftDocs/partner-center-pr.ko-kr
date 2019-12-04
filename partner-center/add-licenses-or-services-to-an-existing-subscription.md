@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253137"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721756"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
+- 클라우드 솔루션 공급자 프로그램 파트너
+
+**적절한 역할**
+
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 고객이 현재 구독에서 제공하는 것보다 많은 사용자 수를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Office 365 계획으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
 
@@ -73,8 +82,6 @@ ms.locfileid: "74253137"
 </tr>
 </tbody>
 </table>
-
- 
 
 이러한 조건이 적용되는 경우 구독을 업그레이드할 수 있습니다.
 

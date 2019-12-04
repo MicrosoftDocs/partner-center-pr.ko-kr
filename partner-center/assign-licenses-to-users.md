@@ -1,7 +1,7 @@
 ---
 title: 고객 계정에 대한 사용자 관리 작업 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객에 대 한 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하거나, 사용자 계정을 삭제 하거나, 복원 하는 방법에 대해 알아봅니다.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 고객 관리, 계정, 계정 만들기, 라이선스, 라이선스 할당, 사용자 관리, 암호, 암호 재설정, 암호 변경
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253348"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721362"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
@@ -23,15 +23,23 @@ ms.locfileid: "74253348"
 
 - 파트너 센터
 
+**적절한 역할**
+
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
+
 고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다. 삭제 후 30 일 이내에 이전에 삭제 한 사용자 계정을 하나 이상 복원할 수도 있습니다. 사용자의 이전 구독 할당도 복원됩니다(이전 할당을 사용할 수 있다고 가정).
 
 고객에 대 한 새 구독을 구입 하는 경우 고객은 계정, 해당 사용자 권한 및 각 사용자가 요구 하는 서비스를 필요로 하는 모든 사용자의 목록을 제공 해야 합니다.  
 
-[Excel 호환 .csv 스프레드시트 파일](bulk-license-provisioning-for-multiple-users.md)을 사용하여 한 번에 [여러 사용자에게 구독을 할당](adding-multiple-users-to-a-customer-account.md)할 수 있습니다.
+[Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용하여 한 번에 [여러 사용자에게 구독을 할당](bulk-license-provisioning-for-multiple-users.md)할 수 있습니다.
 
 <a href="" id="createuseraccounts"></a>
 
-## <a name="create-user-accounts-for-a-customer"></a>고객용 사용자 계정 만들기
+## <a name="create-user-accounts-for-a-customer"></a>고객용 사용자 계정 생성
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
 

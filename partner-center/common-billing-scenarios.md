@@ -1,27 +1,34 @@
 ---
 title: 일반적인 청구 시나리오 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 설명 새 구독을 추가 하거나 구독의 라이선스 수를 조정 하거나 구독을 취소 한 후 청구서에 표시 되는 내용입니다. 사용량 기준 및 라이선스 기준 구독에 미치는 영향은 각기 다릅니다.
+description: 새 구독을 추가 하거나, 라이선스 수량을 조정 하거나, 구독을 취소 한 후 요금 청구를 살펴보세요. 사용량 기반 및 라이선스 기반 구독이 어떻게 다른 지 확인 합니다.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 청구, 지불, 주문, 사용량, 라이선스 기반 청구, 기념일 날짜, 용어, 취소, 갱신, 가격 수식, 조정 파일, 정찰 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384607"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722015"
 ---
 # <a name="common-billing-scenarios"></a>일반적인 청구 시나리오
 
 적용 대상:
 
 - CSP (클라우드 솔루션 공급자) 프로그램 청구
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 이러한 항목에서는 새 구독을 추가 하거나, 새 사용자를 추가 하거나, 구독에 대 한 라이선스 수를 조정 하거나, 구독을 취소 한 후 청구서에 표시 되는 것을 설명 합니다. 다른 [파트너 센터 청구 유형](billing-different-types.md)(예: 사용량 기반 및 라이선스 기반 구독)은 다르게 청구 됩니다.
 
