@@ -1,7 +1,7 @@
 ---
 title: 인센티브 협력 클레임 핵심 요구 사항 | 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 인센티브 협력 프로그램 내의 특정 유형의 활동에 대해 파트너 센터에서 인센티브 클레임을 제출하기 위한 요구 사항에 대해 알아봅니다.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드, 핵심 요구 사항
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252075"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721319"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>인센티브 협력 클레임을 위한 핵심 요구 사항
 
 **적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+
+- 인센티브 관리자
+- 인센티브 사용자
 
 인센티브 클레임을 제출하는 활동 유형마다 반드시 충족하고 실행 증명 문서를 통해 입증해야 하는 핵심 요구 사항이 있습니다. 정의된 통신 유형 및 메트릭이 요구되는 경우도 있습니다.
 

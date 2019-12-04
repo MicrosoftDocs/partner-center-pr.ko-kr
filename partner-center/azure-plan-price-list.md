@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜 가격표 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터를 사용하여 Azure 플랜이 적용되는 구독의 가격표를 보는 방법을 알아봅니다.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252677"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722049"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표 
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
 
 CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터에 게시되어 있습니다. 가격표는 정확한 실시간 파일을 통해 동적으로 제공되며 가격은 USD로만 표시됩니다. 그러나 청구는 고객의 통화 위치에서 지원하는 통화로 수행됩니다. 고객의 통화 위치에서 요금을 청구하는 방법에 대한 자세한 내용은 [Azure 플랜 - 청구](azure-plan-billing.md)를 참조하세요.
 

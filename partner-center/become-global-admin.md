@@ -1,7 +1,7 @@
 ---
 title: 회사의 글로벌 관리자 되기 | 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 작업하려면 먼저 도메인의 소유권을 확인해야 합니다. 이 작업을 수행하는 방법과 사용자를 추가할 수 있는 글로벌 관리자가 되는 방법에 대해 알아봅니다.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: 도메인, 도메인 확인, 글로벌 관리자, 사용자 역할, 사용 권한
-ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253223"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722426"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
 
 **적용 대상:**
 
 - 파트너 센터
+
+**적절한 역할**
+
+- 전역 관리자
 
 회사에서 파트너 센터에 처음 로그인하는 경우 파트너 센터에서 작업을 시작하는 데 필요한 역할이 직원에게 할당되지 않았을 수 있습니다. 파트너 센터에서 작업하려면 모두에게 사용 권한을 포함한 역할이 할당되어야 합니다.  
 

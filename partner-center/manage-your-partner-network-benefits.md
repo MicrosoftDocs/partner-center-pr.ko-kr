@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096470"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681944"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -101,8 +101,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
     
     c.  대체 이메일 주소를 마친 후 **사용자 할당**을 선택합니다. 
 
-4. 클라우드 및 하이브리드 솔루션의 사전 판매, 디자인, 배포 및 앱 개발 단계에서 기술 사전 판매 지원이나 자문 시간 혜택을 사용하여 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 [요청 양식](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-)을 작성하고 **요청 제출**을 선택합니다.
+4. 클라우드 및 하이브리드 솔루션의 사전 판매, 디자인, 배포 및 앱 개발 단계에서 기술 사전 판매 지원이나 자문 시간 혜택을 사용하여 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 [요청 양식](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)을 작성하고 **요청 제출**을 선택합니다.
 
 #### <a name="manage-go-to-market-benefits"></a>출시 혜택 관리
 

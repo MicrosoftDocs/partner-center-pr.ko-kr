@@ -1,7 +1,7 @@
 ---
 title: 회사 계정 및 파트너 센터 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 계정을 만들기 위해 회사 계정이 필요한 이유와 회사 계정이 이미 있는지 여부를 알아봅니다.
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: 회사 계정, 이메일, 테넌트, Azure 테넌트, 계정 만들기, 도메인 이름
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253314"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721348"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>회사 계정 및 파트너 센터  
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+
+- 전역 관리자
+- 사용자 관리 관리자
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
@@ -34,16 +39,18 @@ ms.locfileid: "74253314"
 유효한 업무용 메일 주소가 여러 개 있는 경우 지역 부서가 아닌 본사에 연결된 메일 주소를 사용합니다. 예를 들어 contoso.uk 주소가 아닌 contoso.com 이메일을 사용합니다.
 
 > [!NOTE]  
->  기존 회사 계정을 사용하기로 결정하기 전에 계정의 사용자 중 파트너 센터에서 작업해야 하는 인원이 몇 명인지 생각해 보세요. 파트너 센터에서 작업할 필요가 없는 사용자가 계정에 포함된 경우 파트너 센터에서 작업해야 하는 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
+> 기존 회사 계정을 사용하기로 결정하기 전에 계정의 사용자 중 파트너 센터에서 작업해야 하는 인원이 몇 명인지 생각해 보세요. 파트너 센터에서 작업할 필요가 없는 사용자가 계정에 포함된 경우 파트너 센터에서 작업해야 하는 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>회사 계정이 있는지 확실하지 않은가요?
 
 회사 계정이 있는지 확실하지 않은 경우 다음 단계에 따라 확인할 수 있습니다. Microsoft Azure 또는 Office 365에 대한 활성 구독이 있는 경우 회사 계정이 이미 있습니다.
 
-1.  Azure 관리 포털(https://ms.portal.azure.com )에 로그인합니다.
-2.  메뉴에서 Azure Active Directory를 선택하고 도메인 이름을 선택합니다.
-3.  이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
+1. Azure 관리 포털(https://ms.portal.azure.com )에 로그인합니다.
+
+2. 메뉴에서 Azure Active Directory를 선택하고 도메인 이름을 선택합니다.
+
+3. 이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
 
 회사 계정이 아직 없는 경우 등록 과정에서 회사 계정을 만들 수 있습니다.
 

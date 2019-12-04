@@ -10,21 +10,20 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
-ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
+ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "74536445"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722217"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
 **적절한 역할:**
 
-- 청구 관리자
 - 관리자 에이전트
+- 청구 관리자
 - 전역 관리자
-
 
 Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다. 청구 플랫폼에 대한 자세한 내용은 [청구 개요](billing-basics.md)를 참조하세요.
 

@@ -1,7 +1,7 @@
 ---
 title: 사용자 계정 만들기 및 권한 설정 | 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 액세스 권한이 필요한 각 직원에 대해 파트너 센터에서 사용자 계정을 만들고 역할을 할당하는 방법을 알아봅니다. 다른 관리자 권한을 가진 사용자가 이 작업을 수행할 수 있습니다.
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 역할, 사용 권한, 사용자 추가, 역할 할당, 관리자, 에이전트,
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252087"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722462"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 사용 권한 할당
 
-파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 
+**적절한 역할**
+
+- 계정 관리자
+- 전역 관리자
+- 사용자 관리 관리자
+
+파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다.
 
 
 ## <a name="add-a-new-user"></a>새 사용자 추가

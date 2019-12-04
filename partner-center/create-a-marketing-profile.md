@@ -1,7 +1,7 @@
 ---
 title: 비즈니스 프로필 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft에서 판매 잠재 고객을 얻는 방법에 대해 알아보세요. 한 가지 중요한 단계는 파트너 센터에서 비즈니스 프로필을 만들어 고객이 찾을 수 있도록 하는 것입니다.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252656"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722527"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft 파트너 네트워크 파트너
--  클라우드 솔루션 공급자 프로그램 파트너
+- 파트너 센터
+- Microsoft 파트너 네트워크 파트너
+- 클라우드 솔루션 공급자 프로그램 파트너
+
+**적절한 역할**
+
+- 계정 관리자
+- 비즈니스 프로필 관리자
+- 전역 관리자
+- 조회 관리자
 
 자격을 갖춘 Microsoft 파트너는 비즈니스 요구 사항을 해결하는 고유한 솔루션과 전문 지식을 찾는 고객에게 회사를 소개하는 비즈니스 프로필을 만들 수 있습니다.
 

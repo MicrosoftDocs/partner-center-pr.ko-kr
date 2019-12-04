@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램의 파트너 옵션 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램을 통해 판매하는 파트너에게 제공되는 옵션에 대해 알아보세요.
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252904"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722535"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션
 
 **적용 대상**
 
--  CSP 파트너
+- CSP 파트너
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 영업 에이전트
 
 CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 제공되는 옵션의 카탈로그가 계속 확장되고 있습니다. [Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 이번 달의 CSP 제품을 보려면 파트너 센터에 로그인한 다음, [**가격 책정 및 제품**](https://partnercenter.microsoft.com/pcv/sales) 페이지로 이동합니다.  
 

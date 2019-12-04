@@ -1,25 +1,29 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램에 등록 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP(클라우드 솔루션 공급자) 프로그램에서 판매하기 위한 다양한 모델을 파악하고 비즈니스에 가장 잘 맞는 모델을 결정합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252158"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721713"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
 **적용 대상**
 
 - 클라우드 솔루션 공급자 프로그램  
+
+**적절한 역할**
+
+- 전역 관리자
 
 ## <a name="get-started"></a>시작
 

@@ -1,7 +1,7 @@
 ---
 title: Azure 제품 비교 | 파트너 센터
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP(클라우드 솔루션 공급자) 프로그램의 파트너에 대한 새로운 Microsoft 상거래 환경의 제품 간의 주요 차이점을 비교합니다.
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253443"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722502"
 ---
 # <a name="compare-azure-offers"></a>Azure 제품 비교
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 다음 표에서는 새로운 Microsoft 상거래 환경의 일부인 CSP(클라우드 솔루션 공급자) 프로그램을 통해 제공되는 제품 간의 주요 차이점에 대해 간략하게 설명합니다.
 

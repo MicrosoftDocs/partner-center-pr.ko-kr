@@ -9,18 +9,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft Cloud Agreement, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나요?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북미 지역, CSP 중앙 아메리카, CSP 남미, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft 클라우드 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253167"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722417"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 클라우드 계약
 
 **적용 대상**
 
-- CSP 파트너
+- 클라우드 솔루션 공급자 프로그램 파트너
+
+**적절한 역할**
+
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 고객이 Microsoft 클라우드 계약에 동의하고 서명해야만 고객을 대신하여 주문할 수 있습니다.
 
