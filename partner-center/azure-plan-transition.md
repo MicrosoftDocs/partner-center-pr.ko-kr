@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜으로 고객 전환 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객을 Azure 플랜으로 쉽게 이동시키는 방법을 알아봅니다.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253268"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722285"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>고객을 Azure 플랜으로 전환
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
 
 간접 공급자와 직접 청구 파트너는 Azure용 CSP 프로그램에서 사용할 수 있는 새로운 상거래 환경으로 전환할 수 있습니다. (직접 재판매인은 간접 공급자를 통해 작업해야 합니다.) 고객은 파트너 또는 Microsoft 판매자에게 구입하든 아니면 웹에서 직접 구입하든, 간편하게 클라우드 서비스를 구입할 수 있습니다.
 
@@ -93,7 +102,7 @@ Azure Portal과 파트너 센터에서 전환 단계를 수행하세요.
 
 전환이 완료되면 Azure 구독이 새 Azure 플랜으로 이동되고 상거래 구독이 일시 중단되어 더 이상 서비스 사용이 보고되지 않습니다.  
 
->[참고]: CSP에서 Microsoft Azure(0145P) 구독을 구매한 경우 상거래 구독과 Azure 구독(자격)의 가격이 동일합니다. 청구 소유권이 변경되거나 이전되는 경우에만 가격이 달라집니다. 
+>[참고]\: CSP에서 Microsoft Azure(0145P) 구독을 구매한 경우 상거래 구독과 Azure 구독(자격)의 가격이 동일합니다. 청구 소유권이 변경되거나 이전되는 경우에만 가격이 달라집니다. 
 
 **전환 문제**
 
