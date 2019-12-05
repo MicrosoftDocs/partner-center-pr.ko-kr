@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매, 취소, 교환, 조기 종료 요금
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252635"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722277"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신하여 Microsoft Azure Reservations 관리       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신하여 Microsoft Azure Reservations 관리
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Azure portal 
--  CSP 파트너
+- 파트너 센터
+- Microsoft Azure portal 
+- CSP 파트너
 
-고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다. 
+**적절한 역할**
+
+- 관리자 에이전트
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
+
+고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다.
 
 1. 시작 하려면 파트너 센터 메뉴에서 **고객** 을 선택 하 고 해당 예약을 관리 하려는 고객을 선택 합니다. 
 
@@ -45,8 +53,8 @@ ms.locfileid: "74252635"
 
 언제 든 지 고객의 비즈니스 요구 사항이 변경 되 면 예약을 취소 하 고 환불을 받을 수 있으며 새 예약 가격에 사용 될 예약의 비례 상환 금액을 교환할 수 있습니다.
 
-이러한 두 시나리오에서 Microsoft는 고객에 게 환불 된 재무 거래를 관리할 수 있도록 용량을 자동으로 계산 합니다. Microsoft는 대금 청구, 취소 또는 환불에 대해 직접 고객에 게 연락 하지 않습니다.   
- 
+이러한 두 시나리오에서 Microsoft는 고객에 게 환불 된 재무 거래를 관리할 수 있도록 용량을 자동으로 계산 합니다. Microsoft는 대금 청구, 취소 또는 환불에 대해 직접 고객에 게 연락 하지 않습니다.
+
 
 **취소 작업 방법**
 
