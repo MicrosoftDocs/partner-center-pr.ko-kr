@@ -1,28 +1,35 @@
 ---
 title: 청구 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 청구 리소스, 송장 및 CSP 청구를 비롯한 파트너 센터의 청구 항목입니다.
+Description: 청구 리소스, 송장 및 CSP 청구에 대한 정보를 비롯한 파트너 센터의 청구 항목에 대해 알아봅니다.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: high
-ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384622"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722164"
 ---
 # <a name="billing"></a>청구
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+
+- 관리자 에이전트
+- 청구 관리자
+- 전역 관리자
+- 영업 에이전트
 
 | 항목 | 설명 |
 | ----- | ----------- |

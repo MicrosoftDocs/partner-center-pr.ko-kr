@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜으로 이동 - 시작| 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객을 위한 종량제 요금으로 Azure 서비스를 구입하는 Azure 플랜 상거래 환경에 대해 알아봅니다. 새 보안 요구 사항에 대해서도 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure, Azure 플랜, 구독 구입, 구독
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253289"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681940"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure 플랜으로 이동 - 시작
 
@@ -27,7 +27,11 @@ Microsoft는 새로운 상거래 환경을 파트너 센터에 도입했습니�
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>고객이 Microsoft 고객 계약에 서명했는지 확인
 
-2019년 10월 1일부터 고객은 완전한 디지털 프로세스를 사용하여 고객 구매 환경을 간소화하고 능률화하는 영구 계약인 Microsoft 고객 계약을 통해 디지털 방식으로 서명할 수 있습니다. Azure용 CSP의 새로운 상거래 환경을 활용하려는 모든 고객은 Microsoft 고객 계약에 서명해야 합니다.
+2019년 10월 1일부터 고객은 완전한 디지털 프로세스를 사용하여 고객 구매 환경을 간소화하고 능률화하는 영구 계약인 Microsoft 고객 계약을 사용할 수 있습니다. Azure용 CSP의 새로운 상거래 환경을 활용하려는 모든 고객은 Microsoft 고객 계약에 서명해야 합니다.
+
+새로운 Azure 플랜에 따라 거래하고 새 주문을 하려는 파트너는 프로덕션 환경에서 파트너 센터 대시보드 및 API를 사용하여 Microsoft 고객 계약에 대해 고객의 동의 여부를 확인해야 합니다.
+
+2020년 2월 1일부터 기존 Microsoft 클라우드 계약이 CSP 프로그램에서 제거됩니다. 이 시점부터 Microsoft 365, Dynamics 365 및 기존 Azure를 포함한 다른 모든 제품에 대한 새로운 Microsoft 고객 계약에 고객이 동의하는지 파트너의 확인(증명)이 필요합니다. CSP의 파트너는 Microsoft 고객 계약의 증명 없이는 고객에게 새로운 주문을 할 수 없습니다.
 
 전체 내용은 [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)을 참조하세요.
 
