@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PMC에서 파트너 센터로 여러 회사를 마이그레이션할 때 알아야 할 사항
+description: 여러 회사를 PMC에서 파트너 센터로 마이그레이션하고 주 글로벌 계정으로 통합 하는 경우 알아야 할 사항입니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654342"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943586"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>여러 회사를 파트너 센터로 이동
 

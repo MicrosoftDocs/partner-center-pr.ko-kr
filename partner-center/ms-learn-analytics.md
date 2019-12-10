@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 07/05/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 학습 분석을 이해 하는 방법에 대 한 정보
+description: 개별 학습, 완성 된 모듈, 완료 된 학습 경로 등에 대 한 데이터를 활용 하 여 회사에서 학습자를 추적 하세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74a11ba93e73afcd4117fc6834675d7db5d2fc20
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653013"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943536"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 분석 보고서
 

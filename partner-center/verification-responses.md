@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft의 확인 업데이트 요청에 응답 하는 방법
+description: 계정 확인의 상태를 따르고 필요한 경우 추가 정보를 제공 합니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 확인, 확인, 거부 됨, 파트너 프로필 업데이트
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a7b77d8a263d71235dd30e74669b39244ec11d2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6f6dfe1b8d7815ffb93b737804b85b15b60d3cff
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651146"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943366"
 ---
 # <a name="verify-your-account-information"></a>계정 정보 확인
 
@@ -30,7 +30,7 @@ ms.locfileid: "73651146"
 |**확인 유형**   |**확인 된 기능 및 방법에 대 한 설명**   |**거부 된 경우 수행할 작업**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |전자 메일 소유권   |전자 메일 소유권은 기본 연락처 전자 메일 주소가 유효한 지 확인 합니다.  기본 연락처 전자 메일 주소는 모니터링 되 고 전자 메일을 보내거나 받을 수 있는 회사 계정 이어야 합니다.  파트너는 (1) 회사 도메인과 연결 되지 않은 개인 전자 메일 주소를 사용 하면 안 됩니다. (2) 테 넌 트 사용자 로그인이 전자 메일에 연결 되지 않은 경우 (예: jsmith@testcompany.onmicrosoft.com   |한 영업일 이내에 전자 메일 소유권 확인 메시지를 받지 못한 경우 파트너 프로필 페이지의 링크를 클릭 하 여 메시지를 다시 보내거나 지원 담당자에 게 문의 하세요.|
-|퇴사 |고용 확인은 회사에서 소유 하는 전자 메일 도메인에 활성 전자 메일 주소가 있는 경우 기본 연락처가 등록 하는 회사의 직원 인지 확인 합니다.|고용 확인이 거부 되 면 기본 연락처는 담당자의 전자 메일 도메인이 채용 기관의 소유권을 갖고 있는지 확인 하는 온라인 원본 또는 설명서를 제공할 수 있습니다.|
+|Foglalkoztatás |고용 확인은 회사에서 소유 하는 전자 메일 도메인에 활성 전자 메일 주소가 있는 경우 기본 연락처가 등록 하는 회사의 직원 인지 확인 합니다.|고용 확인이 거부 되 면 기본 연락처는 담당자의 전자 메일 도메인이 채용 기관의 소유권을 갖고 있는지 확인 하는 온라인 원본 또는 설명서를 제공할 수 있습니다.|
 |Business   |비즈니스 확인은 등록 하는 회사가 bona 공격이 비즈니스 엔터티이 고 등록에 사용 되는 주소 인지 확인 합니다.|비즈니스 확인에 실패 하는 경우 기본 연락처에 회사의 집 국가에서의 공식 설명서 (예: 비즈니스 등록 또는 세금 등록 인증서 또는 수령)를 제공 하거나 해당 회사의 지방 자치 체 확인 하는 메시지가 표시 됩니다. 해당 엔터티 이름으로 비즈니스를 수행할 수 있는 권한이 있으며 등록 주소에 있습니다.|
 
 ## <a name="when-verification-concludes"></a>확인이 완료 되 면

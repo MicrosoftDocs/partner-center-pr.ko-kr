@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 비즈니스를 PMC에서 파트너 센터로 전환 하기 전에 고려해 야 할 사항
+description: 비즈니스를 PMC에서 파트너 센터로 이동 하기 전에 유용한 정보와 질문과 대답을 검토 합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652187"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943266"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 구성원 센터 (PMC)에서 파트너 센터로의 이동 준비
 
@@ -23,7 +23,7 @@ PMC (파트너 구성원 센터)에서 파트너 센터 (Microsoft와의 비즈�
 
 **Azure Active Directory (Azure AD) 회사 계정 이란?**
 
-어떤 회사에서 Azure, Microsoft Intune, Office 365 같은 Microsoft 클라우드 서비스를 구독하면 Azure 공용 클라우드에 그 회사만을 위해 격리된 전용 가상 공간이 생성되는데, 이것이 바로 Azure 회사 계정입니다.
+어떤 회사에서 Azure, Microsoft Intune, Office 365 등의 Microsoft 클라우드 서비스를 구독하면 Azure 퍼블릭 클라우드에 그 회사만을 위한 격리된 전용 가상 공간이 생성되는데, 이것이 바로 Azure 회사 계정입니다.
 
 회사 계정은 Azure AD 사용자와 해당 사용자에 대 한 정보 (전자 메일, 암호, 프로필 데이터, 권한 등)를 호스트 합니다. 회사 계정에는 회사 및 보안과 관련 된 그룹, 응용 프로그램 및 기타 정보도 포함 됩니다. 자세한 내용은 다음을 참조 하세요.
 
@@ -91,7 +91,7 @@ MPN 전역 관리자가 파트너 센터로 이동 하면 역할은 파트너 �
 **여러 AAD 테 넌 트와 단일 MPN 계정이 있는 경우 파트너 센터에서 연결할 수 있나요?**
 
 예, 파트너 센터에서 여러 Azure AD 테 넌 트를 단일 파트너 센터 계정에 연결할 수 있습니다.
-자세한 내용은 여기를 참조 하세요. 
+További információk itt érhetők el. 
 
 **단일 파트너 센터 계정에 여러 Azure AD 테 넌 트를 추가 하는 데 제한이 있나요?**
 

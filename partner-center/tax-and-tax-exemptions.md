@@ -2,7 +2,7 @@
 title: 세금 및 세금 면제 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
-description: 세금 책임을 이해 하 고 CSP 판매에 대 한 세금 면제를 제출 합니다.
+description: 특정 지역에 대 한 세금 책임과 CSP 판매에 대 한 세금 면제를 제출 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 keywords: 세금, 세금 면제, vat, 대리점, 요금 청구
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384878"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943196"
 ---
 # <a name="taxes-and-tax-exemptions"></a>세금 및 면세
 
@@ -87,7 +87,7 @@ Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 �
 2. **파트너 요청** 페이지에서 **새 요청**을 선택 합니다. (이 페이지의 뒷부분에서 열기 및 닫기 지원 요청을 볼 수도 있습니다.)
 3. **기본 사항** 단계 **CSP-청구 및 지불**에서 **문제 유형 선택** 을 선택 하 고 **세금 예외 요청**을 선택 합니다.
 4. **솔루션** 단계에서 **추가 도움이 필요 하세요?** 에서 **예**를 선택 합니다.
-5. **세부 정보** 단계에서 **문제 세부 정보** 양식을 작성 합니다. 다음을 수행 해야 합니다.
+5. **세부 정보** 단계에서 **문제 세부 정보** 양식을 작성 합니다. Hajtsa végre a következőket:
 
     - 모든 필수 필드를 입력 합니다.
     - **세부 정보** 필드에 **Microsoft ID** 및 **MPN id** 를 포함 합니다.

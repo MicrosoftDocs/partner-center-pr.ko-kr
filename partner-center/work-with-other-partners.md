@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 귀사가 공유하는 고객의 요구 사항을 충족할 수 있도록 CSP의 다른 파트너와 협력하세요.
+description: 간접 공급자가 CSP (클라우드 솔루션 공급자) 프로그램에서 간접 대리점과 협력 하는 방법에 대해 알아보고 적절 한 역할을 결정 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651153"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943156"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 

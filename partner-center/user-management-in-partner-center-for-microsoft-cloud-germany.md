@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 개인 정보의 수집 및 사용에 대한 국가별, 지역별, 산업별 요구 사항을 준수하기 위해 Microsoft 클라우드 독일 파트너 센터에는 사용자 관리 기능이 제공되지 않습니다. 그 대신 Microsoft 클라우드 독일 Azure 포털에서 사용자를 추가하고 관리할 수 있습니다.
+description: 암호 재설정 뿐만 아니라 Microsoft 클라우드 독일 파트너, 고객 및 라이선스에 대 한 파트너 센터를 관리 하는 방법 및 위치를 알아봅니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651136"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943376"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -44,7 +44,7 @@ Microsoft 클라우드 독일 Azure 포털에 로그인한 후 Azure AD(Azure Ac
 > [!NOTE]  
 > 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다. 
 
--  [Azure Active Directory에 새 사용자 추가](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Új felhasználók hozzáadása az Azure Active Directoryhoz](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Azure Active Directory에서 관리자 역할에 사용자 할당](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
@@ -52,7 +52,7 @@ Microsoft 클라우드 독일 Azure 포털에 로그인한 후 Azure AD(Azure Ac
 
 **관련 항목**
 
--  [Microsoft Azure 독일](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
 

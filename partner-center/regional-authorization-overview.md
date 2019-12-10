@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 회사의 위치에 따라 CSP 제품을 판매할 수 있는 국가 및 지역을 확인 하세요.
+description: 회사의 위치에 따라 CSP 제품을 판매할 수 있는 국가, 지역 및 통화를 참조 하세요.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Csp 시장, 지역, CSP를 통해 판매할 수 있는 위치, CSP 제공, 지역, 클라우드 솔루션 판매, 글로벌 CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652067"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943246"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>클라우드 솔루션 공급자 프로그램 지역 시장 및 통화
 
@@ -107,7 +107,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  홍콩         |   USD    |
 |  인도네시아         |   USD    |
 |  라오스              |          |
-|  마카오 특별             |   USD    |
+|  Makao             |   USD    |
 |  말레이시아          |   USD    |
 |  몰디브          |          |
 |  미얀마어           |          |
@@ -219,7 +219,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  스발바르 및 얀마웬|NOK|
 |  스웨덴         |   SEK    |
 |  스위스    |   CHF    |
-|  영국             |   GBP    |
+|  Egyesült Királyság             |   GBP    |
 |  바티칸시국   |          |
 |
 
@@ -247,7 +247,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 
 |  국가/지역    | Currency |
 |  --------------    |:--------:|
-|  한국, 공화국|   KRW    |
+|  Koreai Köztársaság|   KRW    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>라틴 아메리카 및 카리브 해 지역 및 시장
@@ -332,7 +332,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  이스라엘         |   USD    |
 |  요르단         |          |
 |  카자흐스탄     |   USD    |
-|  코소보         |   USD    |
+|  Koszovó         |   USD    |
 |  쿠웨이트         |   USD    |
 |  키르기스스탄     |   USD    |
 |  레바논        |   USD    |

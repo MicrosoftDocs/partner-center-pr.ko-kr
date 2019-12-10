@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: MPN membership invoice와 세금 면제 파일을 보고 다운로드 하 고 인쇄 하는 방법에 대해 알아보고 Microsoft VAT ID 번호를 보냅니다.
+description: 세금 면제를 위한 파일 뿐만 아니라 MPN 멤버 자격 청구서를 보거나 다운로드 하는 방법에 대해 알아보고 Microsoft VAT ID 번호를 보냅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, 송장, 지도, 세금 면제, VAT, VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653040"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943546"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크의 송장 및 세금
 

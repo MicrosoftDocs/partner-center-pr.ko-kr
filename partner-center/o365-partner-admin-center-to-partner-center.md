@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터로 마이그레이션할 때 Office 365 파트너 관리 센터 파트너의 주요 고려 사항
+description: 파트너 센터로 마이그레이션한 후에 비즈니스 및 서비스 요청 빌드와 같은 일반적인 Office 365 파트너 관리 센터 기능을 찾습니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654241"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943326"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 파트너: 비즈니스 작업을 파트너 센터로 이동할 준비
 

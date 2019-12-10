@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 기업 고객을 위한 배포 전 계획을 제공 하도록 계획 서비스에 등록
+description: 소프트웨어 보증이 있는 엔터프라이즈 고객에 게 교육 및 기타 서비스를 제공 하기 위해 Microsoft의 보상을 받을 수 있도록 계획 서비스에 등록 합니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 배포 전, 계획, 소프트웨어 보증
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651626"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943426"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
@@ -25,7 +25,7 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 소프트웨어 보증 계획 서비스에 대해 잘 모르는 경우 [계획 서비스를 사용 하 여 비즈니스 성장](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)을 참조 하세요.
 
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>Első lépések
 
 소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다. 계획 서비스 프로그램에서 이미 활성화 되어 있고 파트너 계정 정보가 파트너 센터로 이동 된 경우 아래 4 단계 (4)에서 시작 합니다. 
 

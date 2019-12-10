@@ -2,7 +2,7 @@
 title: 원천 세금을 제공한 하는지 확인 합니다. 파트너 센터
 ms.topic: article
 ms.date: 11/07/2019
-description: 파트너 센터 계정이 원천 세금에 대해 제공한 확인 하는 방법입니다.
+description: 파트너 센터 계정이 원천 세금에 대해 제공한 되는지 확인 하 고 필요한 경우 서비스 요청을 엽니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 양식 세금 크레딧
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384861"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943166"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Győződjön meg arról, hogy jár Önnek visszatartott adó
 
 적용 대상:
 
@@ -83,7 +83,7 @@ Microsoft에 제출 하기 전에 양식이 정확한 지 확인 합니다.
 
 세금 인증서는 **Microsoft 청구서에만**해당 됩니다. 인증서에 포함 되는 **다른 회사가** 있는 경우 내부 처리에서 양을 제외 시킬 수 있는 용량을 지정 합니다. 그러나 전체 인증서에 포함 되는 것에 대 한 전체 표시도 있습니다.
 
-## <a name="create-a-service-request"></a>서비스 요청 만들기
+## <a name="create-a-service-request"></a>Szolgáltatáskérés létrehozása
 
 다음 정보는 **CSP (클라우드 솔루션 공급자) 프로그램**의 파트너에 *만* 적용 됩니다. 여기에는 **직접 청구 파트너** 및 **간접 공급자**만 포함 됩니다. **간접 대리점** 은 대신 **간접 공급자** 와 함께 작업 해야 합니다.
 

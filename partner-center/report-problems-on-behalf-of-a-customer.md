@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 고객에게 해결할 수 없는 서비스 문제가 발생하고 Microsoft로 문제 에스컬레이션에 설명된 기준을 충족하는 경우 지원 티켓을 제출합니다.
+Description: 고객이 해결할 수 없는 서비스 문제가 발생 하 고 문제를 Microsoft로 에스컬레이션에 설명 된 조건을 충족 하는 경우 해당 서비스에 대 한 지원 티켓을 제출 합니다.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 서비스 요청, 서비스 티켓, 지원, 지원 권한, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654120"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943216"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 

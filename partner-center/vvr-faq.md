@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 바우처 유효성 검사 및 예약
+description: 마이그레이션, 액세스 요청 및 제어 등에 대 한 정보를 포함 하 여 증명서 유효성 검사 및 상환 도구에 대해 자주 묻는 질문과 대답입니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 바우처 교육, 소프트웨어 보증, 교육, 바우처 유효성 검사, 예비 상품권
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651059"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943176"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ : 바우처 유효성 검사 및 사용 도구 사용 
 

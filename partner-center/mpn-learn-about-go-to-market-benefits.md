@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft 파트너 네트워크 회원은 특정 시장 출시 혜택에 대 한 자격이 있을 수 있습니다. 사용 가능한 다양 한 시장 출시 혜택 및 파트너 센터에서 활성화 하 고 관리 하는 방법에 대해 알아봅니다.
+description: 시장 출시 혜택은 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 독점적인 판매 및 마케팅 리소스에 대 한 액세스를 제공 합니다.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, 멤버 자격 혜택, 멤버 자격, 시장 출시 혜택, 시장 출시, 시장으로 이동, GTM, 골드 구성원 자격, 실버 멤버 자격
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653260"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943336"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>GTM (MPN) 회원 혜택 살펴보기
 
@@ -23,7 +23,7 @@ ms.locfileid: "73653260"
 - 파트너 센터
 - Microsoft 파트너 네트워크 구성원
 
-**적절 한 역할**
+**적절한 역할**
 
 - 전역 관리자
 - MPN 파트너 관리자
@@ -67,9 +67,9 @@ GTM 혜택을 보려면 다음을 수행 합니다.
 
 1. 파트너 센터 [대시보드에]( https://docs.microsoft.com/partner-center/)로그인 합니다.
 
-2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 다음, 다음 중 하나를 수행 합니다.
+2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. Ezután tegye a következők valamelyikét:
 
-    - **개요**를 선택 합니다. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
+    - Válassza az **Áttekintés** lehetőséget. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
 
       또는
 
@@ -82,7 +82,7 @@ GTM 혜택을 보려면 다음을 수행 합니다.
 GTM 멤버 자격 혜택을 활성화 하거나 관리 하는 특정 단계 [는 시장 간 혜택을 관리 하는 방법](manage-your-partner-network-benefits.md#manage-go-to-market-benefits)을 참조 하세요. 이 프로세스의 일부를 사용 하려면 사용자가 활성화 한 GTM 혜택에 대 한 후속 메일 및 통신을 위한 연락처로 마케팅 직원을 할당 해야 합니다.
 
 >[!IMPORTANT]
->특정 GTM 혜택을 활성화 하 고 관련 마케팅 연락처를 할당 하려면 전역 관리자 또는 MPN 파트너 관리자 여야 합니다. 필요한 경우 [ **혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits) (로그인 필요)의 지침에 따라 전역 관리자가 될 수 있습니다. 회사에 이미 전역 관리자가 있을 수 있으므로 팀에 게 확인 하세요.
+>특정 GTM 혜택을 활성화 하 고 관련 마케팅 연락처를 할당 하려면 전역 관리자 또는 MPN 파트너 관리자 여야 합니다. 필요에 따라 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)(로그인 필요)의 지침에 따라 글로벌 관리자가 될 수 있습니다. 회사에 이미 글로벌 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
 
 #### <a name="see-also"></a>참고 항목
 

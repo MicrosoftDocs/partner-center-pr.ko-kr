@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객은 30일 동안 Microsoft 구독 제품을 시험 사용할 수 있습니다. 다른 많은 온라인 서비스 마찬가지로 카탈로그에서 이러한 평가판에 등록할 수 있습니다.
+description: 고객은 30일 동안 Microsoft 구독 제품을 시험 사용할 수 있습니다. 다른 많은 온라인 서비스 마찬가지로 카탈로그에서 이러한 평가판에 등록 합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384838"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943296"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 평가판 제공
 
@@ -28,11 +28,11 @@ ms.locfileid: "74384838"
 
 **고객** 페이지에서 모든 미해결 평가판 제안을 찾을 수 있습니다. 이 페이지에는 무료 평가판 및 유료 구독을 비롯 한 모든 구독이 나열 됩니다. (이 기능은 현재 중국에서 사용할 수 없습니다.)
 
-각 고객은 사용 가능한 각 제품에 대해 하나의 무료 평가판을 받을 수 있습니다. 예를 들어 고객은 Office 365 Business Premium 및 Office 365 E3에 대한 무료 평가판을 각각 한 번씩 사용할 수 있습니다. 그러나 고객이 제품을 이미 소유 하 고 있는 경우 해당 제품에 대 한 무료 평가판을 사용할 수 없습니다.
+각 고객은 사용 가능한 각 제품에 대해 하나의 무료 평가판을 받을 수 있습니다. 예를 들어 고객은 Office 365 Business Premium 및 Office 365 E3의 평가판을 각각 한 번씩 받을 수 있습니다. 그러나 고객이 제품을 이미 소유 하 고 있는 경우 해당 제품에 대 한 무료 평가판을 사용할 수 없습니다.
 
 ### <a name="available-products"></a>사용 가능한 제품
 
-무료 평가판은 다음 제품에 대해 제공됩니다.
+평가판은 다음 제품에 제공됩니다.
 
 - Office 365 Business Premium
 - Office 365 E3
@@ -43,7 +43,7 @@ ms.locfileid: "74384838"
 - Dynamics 365 for Financials
 - Microsoft 365 Business
 
-Microsoft는 가장 광범위하게 인기 있는 비즈니스 제품에 대해 무료 평가판을 제공합니다. 앞으로 무료 평가판 제품이 추가될 가능성은 있습니다.
+Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품의 평가판을 제공합니다. 앞으로 평가판 제품이 더 추가될 가능성이 있습니다.
 
 현재 정부 제품, 교육 제품 또는 추가 기능 제품에 대 한 **무료 평가판은 없습니다** .
 
@@ -84,7 +84,7 @@ Microsoft는 가장 광범위하게 인기 있는 비즈니스 제품에 대해 
 무료 평가판을 유료 구독으로 변환 하기 위해 Api를 변경 해야 할 수 있습니다. 자세한 내용은 다음 개발자 설명서를 참조 하세요.
 
 - [평가판 구독을 유료로 전환](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [사용 가능한 평가판 전환 목록 보기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [평가판 전환 제품 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="expiring-offers"></a>제공 만료
 
@@ -92,7 +92,7 @@ Microsoft는 가장 광범위하게 인기 있는 비즈니스 제품에 대해 
 
 평가판이 만료 된 후 해당 평가판에 로그인을 시도 하는 고객에 게는 만료 메시지가 표시 됩니다. 그러나 데이터는 데이터 보존 표준에 맞게 저장 됩니다. 동일한 서비스 계획을 사용 하 여 새 구독을 구매한 후 새로 활성화 된 구독에서 다시 고객의 정보에 액세스할 수 있습니다.
 
-## <a name="billing"></a>대금 청구
+## <a name="billing"></a>청구
 
 연간 청구 및 무료 평가판은 소 버린 클라우드 및 공용 클라우드에서 동일 합니다. 유일한 차이점은 시작할 때 사용할 수 있는 평가판 Sku입니다.
 
@@ -100,7 +100,7 @@ Microsoft는 가장 광범위하게 인기 있는 비즈니스 제품에 대해 
 
 무료 평가판은 매월 및 매년 청구 되는 구독에 모두 사용할 수 있습니다. 평가판을 유료 구독으로 변환할 때 청구 주기를 선택할 수 있습니다.
 
-구독 시작 날짜는 변환 날짜를 기준으로 합니다. 무료 평가판이 연간 청구를 통한 유료 제품으로 전환되는 경우 구독 갱신 날짜는 전환 날짜로부터 12개월 이후입니다. 무료 평가판이 월별 청구를 통한 유료 제품으로 전환되는 경우 구독 갱신 날짜는 전환 날짜 이후 청구 날짜로부터 12개월 이후입니다.
+구독 시작 날짜는 변환 날짜를 기준으로 합니다. 평가판이 연간 청구를 통한 유료 제품으로 전환되는 경우 구독 갱신 날짜는 전환 날짜로부터 12개월 이후입니다. 평가판이 월별 청구를 통한 유료 제품으로 전환되는 경우 구독 갱신 날짜는 전환 날짜 이후 청구 날짜로부터 12개월 이후입니다.
 
 ### <a name="invoices"></a>송장
 

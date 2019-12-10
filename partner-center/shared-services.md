@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Partner Shared Services는 CSP 프로그램의 파트너에게 제공되는 새로운 제품 유형으로 파트너는 자신이 사용하기 위해 Azure 구독을 구매할 수 있습니다.
+description: Azure 파트너 공유 서비스를 사용 하 여 사용자 고유의 azure 구독을 구입 하 고 Azure 구매, 추적 및 관리를 위한 통일 된 방법을 사용 합니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, 공유 서비스, 테넌트
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651674"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943456"
 ---
 # <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services 추가
 
@@ -71,7 +71,7 @@ Azure Partner Shared Services의 새 가격 파일을 보려면 **판매** > **�
 
 BYOL 또는 APSS를 사용 하 여 배포 된 무료 서비스를 사용 하는 파트너는 영향을 받지 않습니다. 그러나 2019 년 3 월 1 일 이후에는 새 BYOL 또는 무료 서비스를 구매할 수 없습니다. 
 
-제공 되는 Marketplace 제품의 전체 카탈로그 (BYOL 및 무료 서비스 아님)를 활용 하기 위해 CSP 파트너가 웹 다이렉트 Azure 구독을 사용 하 여 공유 서비스를 배포 하는 것이 좋습니다.  이전에 Marketplace에서 타사 BYOL 및 무료 서비스 리소스를 배포 하 고 계속 사용 하 고 더 많은 타사 제품을 배포 하려는 CSP 파트너는 APSS 구독을 웹 direct로 마이그레이션하는 것이 좋습니다. [기존 Azure 마이그레이션 구독](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+제공 되는 Marketplace 제품의 전체 카탈로그 (BYOL 및 무료 서비스 아님)를 활용 하기 위해 CSP 파트너가 웹 다이렉트 Azure 구독을 사용 하 여 공유 서비스를 배포 하는 것이 좋습니다.  이전에 Marketplace에서 타사 BYOL 및 무료 서비스 리소스를 배포 하 고 계속 사용 하 고 더 많은 타사 제품을 배포 하려는 CSP 파트너는 [기존 Azure 구독](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)을 웹 DIRECT로 APSS 구독을 마이그레이션하는 것이 좋습니다.
 
 2019 년 3 월 1 일 이후에 APSS 구독을 계속 사용 하도록 계획 하 고 새로운 타사 [Byol 서비스](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) 또는 무료 서비스를 배포 하려는 파트너는 isv의 지침에 따라 이러한 구독을 APSS 구독에 배포할 수 있습니다.
 

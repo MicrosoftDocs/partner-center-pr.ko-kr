@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: '적격한 교육 고객에게 Minecraft: Education Edition 구독을 판매하세요.'
+description: Minecraft 교육용 Microsoft 교육 고객에 게 Microsoft 교육 스토어에서 다운로드할 수 있는 교육 기관 고객 구독을 판매 합니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 공인 교육 파트너, 교육, 교육에 판매, 학교
 ms.localizationpriority: medium
-ms.openlocfilehash: ef1191b068f5e6afb22dc8e7734489f4dd7d3531
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653286"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943496"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>교육 고객에게 Minecraft: Education Edition 구독 판매
 

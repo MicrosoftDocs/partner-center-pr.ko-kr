@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 회사의 위치 관리
+description: MPN ID가 동기 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에 어떻게 사용 되는지 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 파트너 계정, 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653352"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943506"
 ---
 # <a name="manage-your-partner-account-locations"></a>파트너 계정 관리: 위치
 

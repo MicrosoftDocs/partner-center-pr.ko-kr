@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 인센티브 프로그램의 수익 및 지급액을 보세요.
+description: 인센티브 프로그램의 수익 및 지급액을 보세요. 여기에는 지불 페이지, 트랜잭션 기록 페이지 및 지불 상태와 데이터 내보내기도 포함 됩니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559746"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943186"
 ---
 # <a name="view-your-incentives-payments-information"></a>성과급 상환 정보 보기
 
@@ -54,21 +54,21 @@ ms.locfileid: "74559746"
 
 ## <a name="payment-status"></a>지급 상태
 
-|**상태 획득** |**문서화** |**파트너 작업이 필요 한가요?**       |
+|**상태 획득** |**Ok** |**파트너 작업이 필요 한가요?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |일별        | 이러한 획득은 지불에 적합 합니다. 이 상태는 동기 프로그램의 프로그램 가이드에 정의 된 대로 냉각 기간 동안 유지 됩니다.       |아니요        |
-|그      |지불을 처리 하기 전에 지불 주문에서 내부 검토를 생성 했습니다.       |아니요       |
+|Közelgő      |지불을 처리 하기 전에 지불 주문에서 내부 검토를 생성 했습니다.       |아니요       |
 |보류 중인 세금 청구서      |세금 송장이 불완전 하거나 잘못 되었습니다.          |지불 하려면 세금 청구서를 업데이트 해야 합니다.         |
 |검토 중 거부 됨        |검토 하는 동안 결제를 거부 했습니다.          |자세한 내용은 Microsoft 지원에 문의 하세요.         |
 |Failed        |Microsoft 시스템 오류로 인해 지불 하지 못했습니다.         |자세한 내용은 Microsoft 지원에 문의 하세요.         |
 |진행 중     |지불이 진행 중입니다.         |아니요         |
 |잘못 된 결제        |지불 recouping 진행 중입니다.          |아니요        |
-|냈        |요금을 은행으로 보냈습니다.          |아니요       |
+|Elküldve        |요금을 은행으로 보냈습니다.          |아니요       |
 |다시       |지불 중에 Microsoft 시스템 오류가 발생 하 여 다시 처리 하는 중입니다.           |아니요         |
-|반대        |결제는 은행에 의해 반대 되었으며 다음 지불 주기에 다시 전송 됩니다.          |아니요        |
+|Reversed        |결제는 은행에 의해 반대 되었으며 다음 지불 주기에 다시 전송 됩니다.          |아니요        |
 |세금 송장이 거부 됨       |검토 하는 동안 세금 송장이 거부 되었습니다. 보류 중인 모든 지불액은 세금 청구서 검토가 완료 될 때까지 보류 중입니다.          |자세한 내용은 Microsoft 지원에 문의 하세요.         |
 |검토 중인 세금 청구서        |세금 청구서를 검토 하 고 있습니다. 세금 송장이 승인 되 면 결제는 릴리스됩니다.           |아니요        |
-|되었으므로        |사용자의 은행이 결제를 거부 했습니다.           |자세한 내용은 은행에 문의 하세요.  |
+|Visszautasítva        |사용자의 은행이 결제를 거부 했습니다.           |자세한 내용은 은행에 문의 하세요.  |
 
 ## <a name="export-data-page"></a>데이터 내보내기 페이지
 이 페이지의 지침에 따라 원하는 데이터를 내보냅니다. 
@@ -129,7 +129,7 @@ ms.locfileid: "74559746"
 |paymentId   |지불의 고유 식별자입니다. 이 번호는 일반적으로 은행 명세서에 표시 됩니다.   |
 |paymentStatus   |지급 상태   |
 |paymentStatusDescription   |지불 상태 설명   |
-|customerId   |고객 식별자   |
+|CustomerId   |고객 식별자   |
 |customerName   |트랜잭션 고객 이름   |
 
 
@@ -140,17 +140,17 @@ ms.locfileid: "74559746"
 |partNumber   |트랜잭션에 연결 된 파트 번호입니다. Microsoft 용어.   |
 |productName   |트랜잭션에 줄 되는 제품군 이름   |
 |invoiceNumber   |송장 번호   |
-|구독   |고객과 연결 된 구독 id   |
+|SubscriptionId   |고객과 연결 된 구독 id   |
 |Subscription.subscriptionstartdate   |구독 시작 날짜   |
 |Subscription.subscriptionenddate   |구독 종료 날짜   |
 |offerId   |TBD   |
 |resellerId   |대리점 식별자   |
-|resellerName   |대리점 이름   |
+|resellerName   |Viszonteladó neve   |
 |distributorId   |배포자 식별자   |
 |distributorName   |배포자 이름   |
 |agreementNumber   |계약 번호   |
 |agreementStartDate   |계약 시작 날짜   |
 |agreementEndDate   |계약 종료 날짜   |
-|부하가   |워크로드   |
+|작업   |워크로드   |
   
 

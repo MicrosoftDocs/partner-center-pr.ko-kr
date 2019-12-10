@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 회사에서 Dynamics 365 Customer Engagement 또는 Dynamics 365 Finance and Operations를 수행하는 방법을 보여 주는 데이터
+description: 사용자가 수행 하는 작업과 Dynamics 365 고객 참여 또는 Dynamics 365 재무 및 작업에 대 한 향상 된 기능을 확인할 수 있습니다.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 성과, 고객 성공, 측정, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391662"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943126"
 ---
 # <a name="partner-contribution-indicators"></a>파트너 기여 지표
 
@@ -53,7 +53,7 @@ PCI는 회사의 기술 기능에 대 한 정교 하 고 전체적인 보기를 
 
 ![고객 참여](images/pci/table_1.png)
 
-![재무](images/pci/TABLE_2.png)
+![금융](images/pci/TABLE_2.png)
 
 ![다루는](images/pci/table_3.png)
 
@@ -63,7 +63,7 @@ PCI는 회사의 기술 기능에 대 한 정교 하 고 전체적인 보기를 
 
 ![net customer 추가](images/netcustomer.png)
 
-![함수형 컨설턴트](images/pci/functional_consultants.png)
+![Funkcionális konzulens](images/pci/functional_consultants.png)
 
 ![증가](images/pci/functional_consultant_growth.png)
 
@@ -88,7 +88,7 @@ PCI는 회사의 기술 기능에 대 한 정교 하 고 전체적인 보기를 
 
 ![차트를 읽는 방법](images/pci2.png)
 
-## <a name="additional-resources"></a>추가 자료
+## <a name="additional-resources"></a>추가 리소스
 
 자세한 교육 비디오, 프레젠테이션, Faq 및 팩트 시트를 찾을 수 있는 [파트너 기여 지표 리소스 컬렉션](https://partner.microsoft.com/asset/collection/pci-learn#/) 을 방문 하세요. 
 

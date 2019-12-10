@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객 레코드는 파트너 센터에서 가장 중요한 정보 자산 중 하나입니다.
+description: 고객 레코드는 가장 중요 한 정보 자산 중 하나입니다. 고객 목록에서 정보를 확인 하 고, 검색 하 고, 업데이트 하 고, 내보내는 방법에 대해 알아봅니다.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a7a295477f8d5a19601e3321cf02b20263affe6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a5d6196aee964ad2b03a18699388f8f398169f14
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654072"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943436"
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 

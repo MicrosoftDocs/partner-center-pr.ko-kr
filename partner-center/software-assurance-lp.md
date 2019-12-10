@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 01/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 소프트웨어 보증 프로그램 등록 및 관리
+description: 비즈니스를 구축 하 고 기업 고객에 게 교육 및 계획을 제공 하기 위해 보상을 받을 수 있도록 소프트웨어 보증 프로그램에 등록 합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: da7b7592949719f271bdbb2fe29afabf9d10c090
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654052"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943086"
 ---
 # <a name="participate-in-software-assurance-programs"></a>소프트웨어 보증 프로그램 참여
 

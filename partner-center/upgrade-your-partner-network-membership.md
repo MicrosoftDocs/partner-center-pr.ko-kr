@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 파트너 네트워크 멤버십을 업그레이드하면 독점적 회원 혜택을 이용할 수 있는 자격이 부여됩니다. 제공되는 제품을 찾아서 구입하는 방법을 알아보세요.
+description: MPN 멤버 자격을 Microsoft Action Pack 구독 회원 또는 Microsoft 역량으로 업그레이드 하 여 독점적 혜택을 받을 수 있습니다.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651170"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943406"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -82,7 +82,7 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 3. 매년 Action Pack 구독을 자동으로 갱신하지 않으려면 **자동 갱신 끄기**를 선택합니다. 
 
 > [!NOTE]  
-> 자동 구독 갱신을 해제 하면 구독을 다시 갱신할 때까지 다시 설정할 수 없습니다. 구독이 만료 되기 전에 갱신 하 라는 메시지가 표시 됩니다.
+> 구독 자동 갱신을 끄면 구독을 다시 갱신할 때까지 구독 자동 갱신을 켤 수 없습니다. 구독이 만료되기 전에 갱신하라고 알려드립니다.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack 구독 갱신

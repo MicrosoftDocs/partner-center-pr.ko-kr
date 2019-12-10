@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 관계를 제거하면 파트너 센터의 보기에서 완료된 비즈니스 관계가 모두 제거됩니다.
+description: 고객 목록에서 고객을 제거 하 고, 위임 된 관리자 권한을 제거 하 고, 구매 또는 지원을 제공 하는 것을 중지 하는 방법을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a4fb0bc0ddcf5bb6c759558c25a3df8fb12ddf08
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651973"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943236"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>고객과 재판매인의 관계 제거
 

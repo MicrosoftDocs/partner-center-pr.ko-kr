@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654215"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943516"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터
 
@@ -32,6 +32,30 @@ Microsoft 클라우드 독일에서는 독일 데이터 센터에서 제공 하�
 > 
 > 앞으로 새로운 고객은 현재 이용 가능한 유럽 지역 또는 독일 내 새로운 지역(이용 가능한 경우)을 사용하는 옵션을 선택할 수 있습니다. 자세한 내용은 [Microsoft, 독일 내 새로운 데이터 센터에서 클라우드 서비스 제공](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)을 참조하세요. 
 
+# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft 클라우드 독일에서 다른 유럽 지역으로 고객 마이그레이션
+고객 구독을 Microsoft 클라우드 독일에서 다른 유럽 지역으로 마이그레이션하려면 먼저 해당 지역에 있으며 현재 활성 상태인 기존 CSP 계정이 있어야 합니다. 파트너가 없는 경우 파트너 센터에서 CSP 계정을 선택 하는 동안 계정을 만들라는 메시지가 표시 됩니다. 마이그레이션 후에는 선택한 테 넌 트와 고객 구독이 연결 됩니다.
+
+## <a name="migrate-with-an-existing-csp-account"></a>기존 CSP 계정으로 마이그레이션
+1.  Microsoft 클라우드 독일 파트너 센터에 로그인 하면 활성 CSP 테 넌 트를 선택 하 라는 메시지가 표시 됩니다. **확인**을 선택합니다.
+2.  메시지가 표시 되 면 **유럽 지역에 테 넌 트가 이미 있음**을 선택 하 고 **다음**을 선택 합니다. 새 테 넌 트에 로그인 하 라는 메시지가 표시 됩니다. 
+3.  전역 관리자 권한으로 테 넌 트에 로그인 합니다.
+4.  확인 페이지에서 정보를 검토 한 다음 **확인**을 선택 합니다.
+5.  자세한 내용은 **세부 정보 보기** 또는 **대시보드 보기** 를 선택 하 라는 메시지가 표시 됩니다. 
+
+로그인이 실패 하면 다음 중 하나를 의미할 수 있습니다.
+- 선택한 테 넌 트의 전역 관리자가 아닙니다.
+- 테 넌 트가 유럽 지역에 위치 하지 않습니다.
+- 테 넌 트가 활성화 되어 있지 않습니다.
+
+필요한 수정 작업을 수행 하 고 프로세스를 반복 합니다.
+
+## <a name="migrate-without-an-existing-csp-account"></a>기존 CSP 계정 없이 마이그레이션
+1.  Microsoft 클라우드 독일 파트너 센터에 로그인 하면 활성 CSP 테 넌 트를 선택 하 라는 메시지가 표시 됩니다. **확인**을 선택합니다.
+2.  메시지가 표시 되 면 **유럽 지역에 테 넌 트가 없습니다**.를 선택 하 고 **새 계정 만들기**를 선택 합니다. 
+3.  파트너 센터 등록 페이지로 이동 하 여 유럽 지역에서 새 테 넌 트 및 CSP 계정을 만들 수 있습니다. 
+4.  계약에 서명 하 고 계정이 활성화 되 면 현재 Microsoft 클라우드 독일 계정으로 로그인 합니다.
+5.  테 넌 트 선택 양식으로 이동 합니다.
+6.  **유럽 지역에 테 넌 트가 이미 있습니다** .를 선택 하 고 지침을 따릅니다.
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft 클라우드 독일 파트너 센터: EU 및 EFTA 지역에 독일 클라우드 솔루션 판매
 

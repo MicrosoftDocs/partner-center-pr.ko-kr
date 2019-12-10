@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 특정 적격 솔루션의 경우 [성공]을 선택하면 거래를 등록할 수 있도록 추가 정보를 입력하라는 메시지가 표시됩니다. Microsoft에서는 파트너가 제공하는 정보를 검토할 것이며, 검토 중에 추가 세부 정보를 요청할 수 있습니다.
+description: 파트너 센터에서 승리한 거래를 등록 하면 Microsoft에서 향후 더 많은 기회를 제공할 수 있습니다.
 author: JnHs
 ms.author: jenhayes
 keywords: 거래 등록
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652057"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943226"
 ---
 # <a name="register-your-deals"></a>거래 등록
 
