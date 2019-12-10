@@ -4,49 +4,49 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 개인 정보의 수집 및 사용에 대한 국가별, 지역별, 산업별 요구 사항을 준수하기 위해 Microsoft Cloud for US Government 파트너 센터에는 사용자 관리 기능이 제공되지 않습니다. 그 대신 Microsoft Cloud for US Government Azure Portal에서 사용자를 추가하고 관리할 수 있습니다.
+description: 암호 재설정 뿐만 아니라 미국 정부 파트너, 고객 및 라이선스에 대 한 파트너 센터 Microsoft 클라우드를 관리 하는 방법 및 위치를 알아봅니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653963"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943606"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="b7730-104">Microsoft Cloud for US Government 파트너 센터에서 사용자 및 라이선스 관리</span><span class="sxs-lookup"><span data-stu-id="b7730-104">User and license management in Partner Center for Microsoft Cloud for US Government</span></span>
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="d2dec-103">Microsoft Cloud for US Government 파트너 센터에서 사용자 및 라이선스 관리</span><span class="sxs-lookup"><span data-stu-id="d2dec-103">User and license management in Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="b7730-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="b7730-105">**Applies to**</span></span>
+<span data-ttu-id="d2dec-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="d2dec-104">**Applies to**</span></span>
 
--  <span data-ttu-id="b7730-106">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="b7730-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="d2dec-105">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="d2dec-105">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="b7730-107">다음 작업은 미국 정부의 Microsoft 클라우드에 대 한 Microsoft Azure 관리 포털에서 관리 됩니다.</span><span class="sxs-lookup"><span data-stu-id="b7730-107">The following tasks are managed in the Microsoft Azure admin portal for Microsoft Cloud for US Government:</span></span>
+<span data-ttu-id="d2dec-106">다음 작업은 미국 정부의 Microsoft 클라우드에 대 한 Microsoft Azure 관리 포털에서 관리 됩니다.</span><span class="sxs-lookup"><span data-stu-id="d2dec-106">The following tasks are managed in the Microsoft Azure admin portal for Microsoft Cloud for US Government:</span></span>
 
-- <span data-ttu-id="b7730-108">파트너 사용자 관리</span><span class="sxs-lookup"><span data-stu-id="b7730-108">Partner user management</span></span>
+- <span data-ttu-id="d2dec-107">파트너 사용자 관리</span><span class="sxs-lookup"><span data-stu-id="d2dec-107">Partner user management</span></span>
 
-- <span data-ttu-id="b7730-109">고객 사용자 및 라이선스 관리</span><span class="sxs-lookup"><span data-stu-id="b7730-109">Customer user and license management</span></span>
+- <span data-ttu-id="d2dec-108">고객 사용자 및 라이선스 관리</span><span class="sxs-lookup"><span data-stu-id="d2dec-108">Customer user and license management</span></span>
 
-- <span data-ttu-id="b7730-110">사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="b7730-110">Resetting users' passwords</span></span>
+- <span data-ttu-id="d2dec-109">사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="d2dec-109">Resetting users' passwords</span></span>
 
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="b7730-111">Microsoft Cloud for US Government Azure Portal에서 사용자를 관리하는 방법</span><span class="sxs-lookup"><span data-stu-id="b7730-111">How to manage users in the Azure portal for Microsoft Cloud for US Government</span></span>
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="d2dec-110">Microsoft Cloud for US Government Azure Portal에서 사용자를 관리하는 방법</span><span class="sxs-lookup"><span data-stu-id="d2dec-110">How to manage users in the Azure portal for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="b7730-112">Microsoft Cloud for US Government 파트너 센터에 로그인하면 다시 로그인할 필요 없이 Microsoft Cloud for US Government Azure Portal을 열 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b7730-112">If you are signed in to Partner Center for Microsoft Cloud for US Government, you can open the Azure portal for Microsoft Cloud for US Government without having to sign in again.</span></span> <span data-ttu-id="b7730-113">그러나 Microsoft Cloud for US Government의 Azure Portal에 직접 로그인해야 하는 경우에는 https://portal.azure.us/) 로 이동하여 Microsoft Cloud for US Government의 Azure AD 테넌트에서 전역 관리자 자격 증명을 사용하여 로그인하세요.</span><span class="sxs-lookup"><span data-stu-id="b7730-113">However, if you need to sign in directly to the Azure portal for Microsoft Cloud for US Government, go to (https://portal.azure.us/) and sign in using global admin credentials for your Azure AD tenant for Microsoft Cloud for US Government.</span></span>
+<span data-ttu-id="d2dec-111">Microsoft Cloud for US Government 파트너 센터에 로그인하면 다시 로그인할 필요 없이 Microsoft Cloud for US Government Azure Portal을 열 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d2dec-111">If you are signed in to Partner Center for Microsoft Cloud for US Government, you can open the Azure portal for Microsoft Cloud for US Government without having to sign in again.</span></span> <span data-ttu-id="d2dec-112">그러나 Microsoft Cloud for US Government의 Azure Portal에 직접 로그인해야 하는 경우에는 https://portal.azure.us/) 로 이동하여 Microsoft Cloud for US Government의 Azure AD 테넌트에서 전역 관리자 자격 증명을 사용하여 로그인하세요.</span><span class="sxs-lookup"><span data-stu-id="d2dec-112">However, if you need to sign in directly to the Azure portal for Microsoft Cloud for US Government, go to (https://portal.azure.us/) and sign in using global admin credentials for your Azure AD tenant for Microsoft Cloud for US Government.</span></span>
 
-<span data-ttu-id="b7730-114">Microsoft Cloud for US Government Azure Portal에 로그인한 후 Azure AD(Azure Active Directory) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="b7730-114">After you have signed in successfully to the Azure portal for Microsoft Cloud for US Government, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these topics:</span></span>
+<span data-ttu-id="d2dec-113">Microsoft Cloud for US Government Azure Portal에 로그인한 후 Azure AD(Azure Active Directory) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="d2dec-113">After you have signed in successfully to the Azure portal for Microsoft Cloud for US Government, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these topics:</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="b7730-115">아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="b7730-115">Selecting the links below will take you to a different website.</span></span> 
+> <span data-ttu-id="d2dec-114">아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="d2dec-114">Selecting the links below will take you to a different website.</span></span> 
 
--  [<span data-ttu-id="b7730-116">**Azure Active Directory에 새 사용자 추가**</span><span class="sxs-lookup"><span data-stu-id="b7730-116">**Add new users to Azure Active Directory**</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [<span data-ttu-id="d2dec-115">**Azure Active Directory에 새 사용자 추가**</span><span class="sxs-lookup"><span data-stu-id="d2dec-115">**Add new users to Azure Active Directory**</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [<span data-ttu-id="b7730-117">**Azure Active Directory에서 관리자 역할에 사용자 할당**</span><span class="sxs-lookup"><span data-stu-id="b7730-117">**Assign a user to administrator roles in Azure Active Directory**</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [<span data-ttu-id="d2dec-116">**Azure Active Directory에서 관리자 역할에 사용자 할당**</span><span class="sxs-lookup"><span data-stu-id="d2dec-116">**Assign a user to administrator roles in Azure Active Directory**</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [<span data-ttu-id="b7730-118">**Azure Active Directory에서 사용자의 암호를 다시 설정 합니다.** </span><span class="sxs-lookup"><span data-stu-id="b7730-118">**Reset the password for a user in Azure Active Directory**</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [<span data-ttu-id="d2dec-117">**Azure Active Directory에서 사용자의 암호를 다시 설정 합니다.** </span><span class="sxs-lookup"><span data-stu-id="d2dec-117">**Reset the password for a user in Azure Active Directory**</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-<span data-ttu-id="b7730-119">**관련 항목**</span><span class="sxs-lookup"><span data-stu-id="b7730-119">**Related topics**</span></span>
+<span data-ttu-id="d2dec-118">**관련 항목**</span><span class="sxs-lookup"><span data-stu-id="d2dec-118">**Related topics**</span></span>
 
--  [<span data-ttu-id="b7730-120">**미국 정부에 대 한 파트너 센터 Microsoft 클라우드**</span><span class="sxs-lookup"><span data-stu-id="b7730-120">**Partner Center for Microsoft Cloud for US Government**</span></span>](partner-center-for-microsoft-us-govt-cloud.md)
+-  [<span data-ttu-id="d2dec-119">**미국 정부에 대 한 파트너 센터 Microsoft 클라우드**</span><span class="sxs-lookup"><span data-stu-id="d2dec-119">**Partner Center for Microsoft Cloud for US Government**</span></span>](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [<span data-ttu-id="b7730-121">**미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록**</span><span class="sxs-lookup"><span data-stu-id="b7730-121">**Enroll in the Cloud Solution Provider program for Microsoft Cloud for US Government**</span></span>](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [<span data-ttu-id="d2dec-120">**미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록**</span><span class="sxs-lookup"><span data-stu-id="d2dec-120">**Enroll in the Cloud Solution Provider program for Microsoft Cloud for US Government**</span></span>](enroll-in-csp-for-microsoft-us-govt-cloud.md)
