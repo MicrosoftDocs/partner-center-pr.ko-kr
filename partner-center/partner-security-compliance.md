@@ -3,17 +3,17 @@ title: 파트너 보안 요구 사항 상태 | 파트너 센터
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 회사의 MFA 요구 사항 준수 정보를 최신 상태로 유지하세요.
+description: 클라우드 솔루션 공급자 프로그램에서 관리자, 제어판 공급업체 및 파트너의 보안을 강화하는 새로운 필수 요구 사항에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295259"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943116"
 ---
 # <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
 

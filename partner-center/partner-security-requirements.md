@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 클라우드 솔루션 공급자 프로그램에 참여하는 관리자 및 파트너에 대한 보안 요구 사항에 대해 알아봅니다.
+description: 현재 파트너에게 필요한 MFA(Multi-factor Authentication) 활성화 및 보안 애플리케이션 모델 프레임워크 채택에 대한 소개입니다.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964209"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943306"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 

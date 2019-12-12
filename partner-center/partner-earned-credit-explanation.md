@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 10/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 획득 크레딧에 대한 중요 정보
+description: 관리 서비스에 대해 Microsoft 파트너 획득 크레딧을 계산하고 지불하는 방법과 자격을 갖추는 방법에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c21c8b249f184827083fd95279925a048c35a97a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f22aebcfe9269b15a5916564a5cd1f4707302331
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652575"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943076"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft Action Pack을 처음으로 구입하는 방법 또는 갱신하는 방법에 대해 알아보세요.
+description: Microsoft Action Pack 구독을 구매하고 Action Pack 혜택을 사용하는 방법을 알아보세요. 또한 청구서를 갱신, 취소, 보는 방법도 알아보세요.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: high
-ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654296"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943346"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버/골드 역량을 처음으로 구입 또는 갱신
 

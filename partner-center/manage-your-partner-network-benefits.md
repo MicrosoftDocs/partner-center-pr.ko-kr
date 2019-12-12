@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 귀사는 Microsoft 파트너 네트워크 구성원으로서 특정 멤버십 혜택을 구매할 자격이 있습니다. 파트너 센터에서 멤버십 혜택을 활성화하고 관리하는 방법을 설명합니다.
+description: MPN(Microsoft 파트너 네트워크)에 가입하고 비즈니스를 구축하고 성장시키는 데 도움이 되는 멤버십 혜택을 관리합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: high
-ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681944"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943596"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
