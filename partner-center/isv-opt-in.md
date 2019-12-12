@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384771"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004852"
 ---
 # <a name="marketplace-exclusive-offers"></a>Marketplace 독점 제안
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 Isv는 선택 된 수의 CSP 파트너에 게 제품을 제공 하는 옵션을 제공 합니다. 모든 CSP 파트너는 파트너 센터 Marketplace의 모든 ISV 제품을 볼 수 있지만 단독으로 표시 된 제품은 ISV가 선택한 파트너만 구매할 수 있습니다. 제품이 "배타"로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.
 

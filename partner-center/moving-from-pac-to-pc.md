@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 관리자, PAC 기능
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943566"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004232"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>PAC(파트너 관리 센터)에서 파트너 센터로 이동
 
-적용 대상:
+**적용 대상**
 - 파트너 센터
 - 파트너 관리 센터
+
+**적절한 역할**
+-   전역 관리자
 
 파트너 센터는 Microsoft 및 고객과의 파트너 관계를 관리할 수 있는 단일 공간으로 진화하고 있습니다. 파트너 센터에서 멤버십, 고객 추천, 인센티브 및 CSP(클라우드 솔루션 공급자) 프로그램의 모든 기타 측면을 관리할 수 있습니다. 파트너 센터에서 PAC에서 했던 대부분 작업을 수행할 수 있지만, 일부 기능 및 작업은 다르게 작동할 수 있습니다. 
 

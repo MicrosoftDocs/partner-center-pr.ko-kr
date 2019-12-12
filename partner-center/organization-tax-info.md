@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384592"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005032"
 ---
 # <a name="company-tax-information"></a>회사 세금 정보
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 비즈니스용 Windows 스토어에서 구매한 항목에 대한 세금은 근무처 주소에 따라 결정됩니다. 일부 국가의 기업은 해당 하는 [VAT (값 부가 세금) 번호](#submit-vat-id-number) 또는 로컬 동급를 제공할 수 있습니다.
 

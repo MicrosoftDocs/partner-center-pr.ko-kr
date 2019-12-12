@@ -8,16 +8,22 @@ description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652142"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004842"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>프로모션을 사용하여 신규 고객 유치  
 
 **적용 대상: 파트너 센터**
+
+**적절한 역할**
+-   관리자 에이전트
+-   MPN 파트너 관리자
+-   청구 관리자
+-   영업 에이전트
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 

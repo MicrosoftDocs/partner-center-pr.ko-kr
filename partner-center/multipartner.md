@@ -9,12 +9,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189084"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004912"
 ---
 # <a name="multi-partner-support"></a>다중 파트너 지원
 
@@ -22,6 +22,11 @@ ms.locfileid: "74189084"
 
 -  파트너 센터
 -  Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   영업 에이전트
 
 파트너 센터의 다중 파트너 기능은 고객이 둘 이상의 파트너와 함께 작업 하려는 경우의 시나리오를 지원 합니다. 예를 들어 고객이 Office 365 전문 파트너 한 곳과 Microsoft Azure 전문 파트너 한 곳을 고용하려 할 수 있습니다. 
 

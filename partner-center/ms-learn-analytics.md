@@ -8,14 +8,18 @@ description: 개별 학습, 완성 된 모듈, 완료 된 학습 경로 등에 �
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943536"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005112"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 분석 보고서
+
+**적절한 역할**
+-   전역 관리자
+-   MPN 파트너 관리자
 
 Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 여 회사의 학습자에 대 한 정보를 제공 합니다. 보고서는 각 개별 학습자의 상태를 표시 합니다. 회사의 전역 관리자와 MPN 관리자는 데이터를 볼 수 있습니다.
 

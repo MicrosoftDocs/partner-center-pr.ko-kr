@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384822"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004832"
 ---
 # <a name="read-your-bill"></a>청구서 읽기
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   관리자 에이전트
+-   MPN 파트너 관리자
 
 **청구서** 는 **현재 청구 기간**에 대 한 **모든 파트너 센터 요금** (프로그램, 모든 제품 및 모든 고객)에 대 한 요약입니다.
 

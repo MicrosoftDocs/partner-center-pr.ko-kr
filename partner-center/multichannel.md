@@ -9,12 +9,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189066"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005092"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 
@@ -23,6 +23,10 @@ ms.locfileid: "74189066"
 -  파트너 센터
 -  Microsoft Cloud for US Government 파트너 센터
 
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   영업 에이전트
 
 파트너 센터의 다중 채널 기능은 고객이 다른 곳에서 구매한 구독을 관리 하 고 지원 하기 위해 파트너를 고용 하려는 경우의 시나리오를 지원 합니다. 다중 채널 지원은 고객이 다음 조건에 해당하는 경우에 적용됩니다.
 
@@ -44,7 +48,7 @@ ms.locfileid: "74189066"
 <tr class="even">
 <td><p><strong>사용 빈도 기반 서비스</strong></p></td>
 <td>
-<p>Advisor, Open 또는 EA&#39;와 같은 다른 채널의 Microsoft Azure에 대 한 구독이 이미 있는 고객의 경우 파트너 센터에서 새 Azure 구독을 만들고, 구독 정보를 수동으로 입력 한 다음, 개별를 취소 해야 합니다. 서비스 또는 전체 구독. Azure CSP는 서로 다른 채널과 함께 사용할 수 있습니다.</p>
+<p>Advisor, Open 또는 EA&#39;와 같은 다른 채널의 Microsoft Azure에 대 한 구독이 이미 있는 고객의 경우 파트너 센터에서 새 Azure 구독을 만들고, 구독 세부 정보를 수동으로 입력 한 다음, 개별 서비스 또는 전체 구독을 취소 해야 합니다. Azure CSP는 서로 다른 채널과 함께 사용할 수 있습니다.</p>
 <p>다른 파트너로부터 이미 Microsoft Azure 구독을 구입한 고객의 경우 Azure 서비스를 다른 파트너로 전환할 수 있습니다.  자세한 내용은 <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Azure 구독을 다른 파트너로 전환</a>을 참조하세요.</p>
 </td>
 </tr>
@@ -54,7 +58,7 @@ ms.locfileid: "74189066"
 > [!IMPORTANT]  
 > 현재 CSP 파트너는 다른 CSP 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스에 대 한 모든 공지는 파트너 센터를 비롯 한 일반적인 통신 채널을 통해 발표 됩니다. 
 
-## <a name="see-also"></a>참고자료
+## <a name="see-also"></a>참고 항목
 
 [다른 파트너와 협력](work-with-other-partners.md)
 

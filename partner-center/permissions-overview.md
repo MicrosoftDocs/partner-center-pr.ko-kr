@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/10/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 작업을 해야 하는 모든 직원에게 역할을 할당해야 합니다.
+description: 상업 거래, 조회, 인센티브 또는 회사의 MPN 멤버십을 관리하는 사용자에게 가장 적합한 역할에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: high
-ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652427"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943136"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 

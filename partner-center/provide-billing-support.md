@@ -9,12 +9,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2df2429b37f9260de5f8e1b16a143555bc473760
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 25cf1868ddd941ea78bd4f38d399a90e7dc621c1
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654150"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004932"
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 
@@ -23,6 +23,12 @@ ms.locfileid: "73654150"
 -  파트너 센터
 -  Microsoft Cloud for US Government 파트너 센터
 
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   기술 지원팀 에이전트
+-   청구 관리자
+-   영업 에이전트
 
 귀하는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문에 대해 책임지고 답해야 합니다.
 

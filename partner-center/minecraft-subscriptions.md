@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 공인 교육 파트너, 교육, 교육에 판매, 학교
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943496"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004552"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>교육 고객에게 Minecraft: Education Edition 구독 판매
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   영업 에이전트
+-   관리자 에이전트
 
 교육 기관과 협력하는 파트너는 **Minecraft: Education Edition** 구독을 제공할 수 있습니다. 파트너 센터에서 고객을 대신 하 여 구독을 구매 하면 고객이 [교육용 Microsoft Store](https://educationstore.microsoft.com)에서 소프트웨어를 다운로드 합니다. 
 

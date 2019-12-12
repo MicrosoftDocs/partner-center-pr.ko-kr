@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 파트너 계정, 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943506"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004702"
 ---
 # <a name="manage-your-partner-account-locations"></a>파트너 계정 관리: 위치
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 위치 MPN Id는 회사의 각 특정 위치를 식별 합니다. Location MPN ID를 사용 하 여 동기 프로그램에 등록 하 고, transact-sql (Cloud Solution Provider) 비즈니스에 등록 하 고, 새 구독과 기타 비즈니스 트랜잭션을 추가 합니다. 회사 MPN ID는 지원 요청 등의 비트랜잭션 작업에 사용 됩니다.
 

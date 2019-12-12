@@ -8,12 +8,12 @@ description: 파트너 센터로 마이그레이션한 후에 비즈니스 및 �
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943326"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005072"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 파트너: 비즈니스 작업을 파트너 센터로 이동할 준비
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943326"
 
 - 파트너 센터
 - Office 365 파트너 관리 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 Microsoft는 비즈니스 수명 주기 동안 고객을 관리 하는 데 도움을 주기 위해 Office 365 파트너 관리 센터 기능을 파트너 센터로 전환 하 고 있습니다. 사용자가 사용 하는 기능 외에도 다음과 같은 작업을 수행할 수 있습니다. 
 

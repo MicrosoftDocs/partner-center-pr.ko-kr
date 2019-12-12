@@ -9,14 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654330"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004583"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>CSP 파트너를 위한 Microsoft 파트너 계약 
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 Microsoft 파트너 계약은 Microsoft 파트너에게 간단하고 통합된 디지털 승인 파트너 계약을 제공합니다. Microsoft 파트너 계약에는 Microsoft, 파트너 및 고객이 데이터 프라이버시 및 보안을 지원하고, 규정 준수를 촉진하고, 적절한 비즈니스 방식을 권장하는 데 도움이 되는 영구적인 조건의 핵심 집합이 포함되어 있습니다.   
 

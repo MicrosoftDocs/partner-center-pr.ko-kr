@@ -9,18 +9,24 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4db94f32b035be52dea575d4f731d981beb8c1b8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a2a20ce2c2d73381121f210e5cf41e7405c6840d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652231"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004872"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱으로 비즈니스 데이터 보기
 
 **적용 대상**
 
 -   파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   영업 에이전트
+-   관리자 에이전트
 
 ## <a name="view-your-business-data"></a>비즈니스 데이터 보기
 

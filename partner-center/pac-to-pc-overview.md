@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, advisor, 배포 파트너, PAC 사용 중지, PAC 사용 중지
 ms.localizationpriority: medium
-ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654225"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004892"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 관리 센터가 파트너 센터로 이동 하 고 있습니다.
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 > [!NOTE]  
 >  이 문서의 초기 게시 이후에 모든 날짜가 업데이트 되었습니다.

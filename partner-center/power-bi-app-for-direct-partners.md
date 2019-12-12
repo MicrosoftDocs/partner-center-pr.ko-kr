@@ -10,18 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943476"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004962"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI용 파트너 센터 분석 앱(CSP의 직접 파트너)
 
 **적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   영업 에이전트
+-   관리자 에이전트
 
 Power BI용 파트너 센터 분석 앱으로 비즈니스 데이터를 시각적으로 볼 수 있습니다. CSP(클라우드 솔루션 공급자) 프로그램의 직접 파트너를 위해 설계된 이 앱은 익숙한 Power BI 프레임워크에 연결됩니다. 
 
@@ -44,7 +50,7 @@ Power BI용 파트너 센터 분석 앱으로 비즈니스 데이터를 시각�
 
 앱을 설치하기 전에 자주 묻는 질문에 대한 대답을 검토하는 것이 좋습니다. 
 
-| **지원부** | **대답할** |
+| **질문** | **대답** |
 | --- | ---------- |
 | 앱의 비용은 얼마인가요? | 앱은 무료입니다. 앱을 미리 보려면 [무려 Power BI 서비스에 등록하고](https://go.microsoft.com/fwlink/p/?linkid=845347) 이를 사용하여 대시보드 및 보고서를 사용자 지정할 수 있습니다. 회사 내의 다른 사람이 앱을 사용할 수 있도록 하려면 Microsoft Power BI Professional 또는 Microsoft Power BI Premium에 대한 활성 구독이 있어야 합니다. |
 | 파트너 센터 분석 앱에 연결할 수 있는 사람은 누구인가요? | 이 버전의 앱은 클라우드 솔루션 공급자 프로그램의 직접 파트너(계층 1)를 위해 설계되었습니다. Microsoft 및 고객과 직접 비즈니스를 수행하는 경우 직접 파트너입니다. 앱을 설치 하려면 회사 계정에 대 한 전역 관리자, 관리 에이전트 또는 청구 관리자 여야 합니다. |

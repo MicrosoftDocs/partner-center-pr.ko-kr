@@ -11,18 +11,24 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 제안, 갱신 제안, 새 Dynamics 365 Sku
-ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: d4efd051b4d237eac5b766ed1aedc432e8b93ecc
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943576"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005122"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition 제안을 최신 버전으로 마이그레이션 
 
 **적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 2019 년 1 월 1 일부 터 Dynamics 365 Business Edition 구독이 있는 고객은 더 이상 이러한 레거시 제품으로 갱신할 수 없습니다. 기존 구독은 만료 될 때 자동으로 갱신 되지 않습니다. 구독의 세부 정보 페이지에서 구독 상태는 "[date]에 대 한 자동 갱신 [날짜]"에서 "만료 날짜 [날짜]"로 변경 됩니다.
 
@@ -32,8 +38,8 @@ API (CREST 또는 파트너 센터)를 사용 하는 경우 자동 갱신 = Fals
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 비즈니스 버전이 사용 중지 됨
 
-- 금융 및 운영, Business edition 용 Dynamics 365
-- Dynamics 365 for Team Members, Business edition
+- Dynamics 365 for Finance and Operations, Business Edition
+- Dynamics 365 for Team Members, Business Edition
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 비즈니스 버전 새 제품
 

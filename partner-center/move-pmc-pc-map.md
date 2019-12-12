@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943486"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004292"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
+
+**적절한 역할**
+-   전역 관리자
 
 Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트너 센터)를 도입하여 보다 쉽게 비즈니스를 수행할 수 있도록 합니다. PMC(Partner Membership Center)에서 수행한 모든 작업을 파트너 센터의 대시보드에서 수행할 수 있습니다. 
 

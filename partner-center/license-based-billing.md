@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 청구, 지불, 라이선스 기반, 라이선스
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389831"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004922"
 ---
 # <a name="license-based-billing"></a>라이선스 기준 청구
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
 - CSP 프로그램의 파트너
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   관리자 에이전트
 
 **라이선스**를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](billing-different-types.md)을 참조 하세요.
 

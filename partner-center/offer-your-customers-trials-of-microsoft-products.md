@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943296"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005052"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 평가판 제공
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
+
+**적절한 역할**
+-   전역 관리자 
+-   사용자 관리자
+-   영업 에이전트
 
 고객에게 Microsoft 신제품을 소개하는 좋은 방법은 30일 무료 평가판을 제공하는 것입니다. 여러 다른 온라인 서비스와 마찬가지로 카탈로그에서 평가판을 등록할 수 있습니다. 모든 파트너가 참여할 수 있습니다.
 

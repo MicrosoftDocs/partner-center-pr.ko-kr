@@ -7,19 +7,25 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389821"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004602"
 ---
 # <a name="license-based-reconciliation-files"></a>라이선스 기준 조정 파일
 
-적용 대상:
+**적용 대상**
 
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   관리자 에이전트
 
 고객의 주문에 대 한 변경 내용을 조정 하려면 조정 파일의 **Syndication_Partner_Subscription_Number** 파트너 센터의 **구독 ID** 와 비교 합니다.
 
@@ -29,7 +35,7 @@ ms.locfileid: "74389821"
 | ------ | ----------- | ------------ |
 | PartnerId | 특정 청구 엔터티에 대 한 GUID 형식의 고유 식별자입니다. 조정에는 필요 하지 않습니다. 모든 행에서 같습니다. | *8ddd03642-테스트-테스트* |
 | CustomerID | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Microsoft 청구 플랫폼에서 주문의 고유 식별자. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
+| OrderID | Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
 | SubscriptionID | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. *이 값은 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다. 대신 **SyndicationPartnerSubscriptionNumber** 를 참조 하세요.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 구독의 고유 식별자. 고객은 동일한 계획에 대해 여러 구독을 가질 수 있습니다. 이 열은 조정 파일 분석에 중요 합니다. 이 필드는 파트너 관리 콘솔의 **구독 ID** 에 매핑됩니다. | *fb977ab5-24c8d9591708* |
 | OfferID | 고유 제품 식별자입니다. 가격 목록에 정의 된 표준 제품 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 하지 않습니다. 대신 **DurableOfferID** 를 참조 하세요.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
@@ -41,12 +47,12 @@ ms.locfileid: "74389821"
 | ChargeEndDate | 요금 종료일. 시간은 항상 해당 일의 마지막인 23:59입니다. 고객이 전화 번호를 변경 하는 경우 일별 요금 (*pro 게 유리 하도록* 요금)을 계산 하는 데 사용 됩니다. | *2/28/2019 23:59* |
 | ChargeType | 요금 또는 조정 [의 유형](recon-file-charge-types.md) 입니다. | [요금 청구 유형](recon-file-charge-types.md)을 참조 하세요. |
 | UnitPrice | 실제 사용자 수당 가격. 구매 시 가격표에 게시된 바와 같음. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *6.82* |
-| 수량 | 실제 사용자 수. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *2* |
-| Amount | 수량의 가격 합계. 금액 계산이 고객에 대해이 값을 계산 하는 방법과 일치 하는지 확인 하는 데 사용 됩니다. | *13.32* |
+| Quantity | 실제 사용자 수. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *2* |
+| 합계 | 수량의 가격 합계. 금액 계산이 고객에 대해이 값을 계산 하는 방법과 일치 하는지 확인 하는 데 사용 됩니다. | *13.32* |
 | TotalOtherDiscount | 이러한 요금에 적용된 할인 금액. 역량 또는 맵과 함께 제공 되는 제품 라이선스 또는 동기에 적합 한 새 구독은이 열에 할인 금액을 포함 합니다. | *2.32* |
-| Subtotal | 세금을 적용하기 전의 총액. 할인이 예상 합계와 일치 하는지 확인 합니다. | *pt* |
+| Subtotal | 세금을 적용하기 전의 총액. 할인이 예상 합계와 일치 하는지 확인 합니다. | *11* |
 | Tax | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |
-| TotalForCustomer | 세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다. | *pt* |
+| TotalForCustomer | 세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다. | *11* |
 | Currency | 통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 첫 번째 청구서와 일치 하는지 확인 합니다. 주요 청구 플랫폼을 업데이트 한 후에 다시 확인 합니다. | *EUR* |
 | CustomerName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하기 위한 매우 중요 한 필드입니다.* | *고객 A 테스트* |
 | MPNID | CSP 파트너의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |

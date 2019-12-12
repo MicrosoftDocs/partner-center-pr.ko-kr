@@ -8,14 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 청구, 송장
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389841"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004571"
 ---
 # <a name="invoice-files"></a>청구서 파일
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   기술 지원팀 에이전트
 
 다음 표를 사용 하 여 파트너 센터 청구서 파일의 필드를 이해할 수 있습니다.
 
@@ -52,11 +58,11 @@ ms.locfileid: "74389841"
 
 | 필드 | 정의 |
 | ----- | ---------- |
-| Date | 구매 날짜입니다. |
+| 날짜 | 구매 날짜입니다. |
 | 설명 | 제품 이름 |
-| 수량 | 구매한 제품 (예: 예약)의 수입니다. |
+| Quantity | 구매한 제품 (예: 예약)의 수입니다. |
 | 단가 | 제품별 가격 (예: 예약). |
 | 할인 | 적용 가능한 모든 할인 혜택입니다. |
 | 세전 금액 | 세금 부과 전 구입액의 소계입니다. |
 | 판매세 | 세금 액수입니다. |
-| Total | 총 지불 금액입니다. |
+| 총액 | 총 지불 금액입니다. |

@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943126"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004362"
 ---
 # <a name="partner-contribution-indicators"></a>파트너 기여 지표
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
 
 PCI (파트너 기여 지표)는 Dynamics 365에 대 한 성공적인 고객 결과를 추진 하는 파트너의 영향을 전체적으로 측정 합니다. 파트너는 클라우드 Business Applications 역량을 확보 하 고 유지 관리 하는 시장에서 더 많은 차별화를 받습니다.  파트너는 성공적인 배포 및 사용량 증가로 인 한 고객 성공의 주요 측정을 위해 크레딧을 받고, 기술 기능을 계속 투자 하 고 확장할 수 있는 보상을 받습니다. 
 
@@ -63,7 +68,7 @@ PCI는 회사의 기술 기능에 대 한 정교 하 고 전체적인 보기를 
 
 ![net customer 추가](images/netcustomer.png)
 
-![Funkcionális konzulens](images/pci/functional_consultants.png)
+![기능 컨설턴트](images/pci/functional_consultants.png)
 
 ![증가](images/pci/functional_consultant_growth.png)
 

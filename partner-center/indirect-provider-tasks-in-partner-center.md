@@ -8,14 +8,20 @@ description: 간접 공급자 또는 배포자로 서 간접 재판매인과 함
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253675"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004542"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 기술 시장이 매우 복잡하고 빠르게 변화하기 때문에 고객은 기술 솔루션이 제공할 수 있는 경쟁 우위를 원합니다. 이러한 환경에서 파트너는 파트너 간 협력에 투자하여 제품을 확장하고 고객이 더 많은 일을 할 수 있도록 지원하는 것이 중요합니다.
 
@@ -30,7 +36,7 @@ ms.locfileid: "74253675"
 -   특정 고객 및 구독을 관리할 간접 재판매인 지정 
 -   Microsoft, 고객 및 간접 재판매인과의 관계를 한 곳에서 관리
 
-CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트워크 웹 사이트](https://partner.microsoft.com/cloud-solution-provider/indirect)의 [간접 모델 살펴보기]( https://partner.microsoft.com)를 참조하세요. 
+CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트워크 웹 사이트]( https://partner.microsoft.com)의 [간접 모델 살펴보기](https://partner.microsoft.com/cloud-solution-provider/indirect)를 참조하세요. 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>파트너 센터의 간접 공급자 작업
 
@@ -81,7 +87,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 - 구독 정보 페이지의 **재판매인 (MPN ID)** 필드에 사용할 재판매인을 추가 합니다. 이를 통해 재판매인은 적절 한 성과급을 받게 됩니다.
 
-| **이를 수행 하려면** | **수행할 작업** | **위치** |
+| **이를 수행 하려면** | **수행할 작업** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | 재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 재판매인을 고객 계정에 연결 | **새 고객** 페이지 |
 |재판매인이 Azure 고객의 계정을 관리하도록 설정|새 고객을 추가할 때 재판매인을 Azure 고객 계정에 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)을 선택하여 간접 재판매인에게 **테넌트 소유자** 사용 권한 부여|
@@ -170,7 +176,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 7.  작업을 마쳤으면 **제출**을 선택합니다. 
 
-## <a name="see-also"></a>참고자료
+## <a name="see-also"></a>참고 항목
 
 고객 계정 및 구독 관리에 대한 자세한 내용은 다음을 참조하세요.
 

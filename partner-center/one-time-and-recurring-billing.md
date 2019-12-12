@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 청구, 일회성, 되풀이, 구매, 요금, isv
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389691"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005042"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>일회성 요금 및 선택적 반복 요금 청구
 
+**적용 대상**
 - 파트너 센터
 - CSP 프로그램의 파트너
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   청구 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 이 항목에서는 한 번의 청구 환경에 대해 설명 하 고 Microsoft 및 타사 ISV (독립 소프트웨어 공급 업체) 제품에 대 한 **되풀이 요금을 선택** 합니다. 
 

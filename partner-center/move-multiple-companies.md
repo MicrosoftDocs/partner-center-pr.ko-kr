@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943586"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004692"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>여러 회사를 파트너 센터로 이동
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 회사 계정을 PMC에서 파트너 센터로 이동하는 경우 여러 계정이 이동할 수 있습니다. 파트너 센터에서는 이러한 계정이 하나의 글로벌 계정(PGA)으로 통합됩니다. 첫 번째로 이동하는 계정은 기본 글로벌 계정으로 간주되고 모든 후속 계정은 첫 번째 계정에 위치로 통합됩니다. 본사에 대한 PMC 계정을 사용하여 이동을 시작합니다. 자세한 내용을 보려면 [PMC에서 파트너 센터로 마이그레이션 가이드](guide-to-migration.md)를 참조하거나 [다중 위치 계정 간소화](https://vimeo.com/290335248)라는 짧은 비디오를 시청하세요.
 

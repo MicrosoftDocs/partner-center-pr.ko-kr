@@ -8,14 +8,20 @@ description: 비즈니스를 PMC에서 파트너 센터로 이동 하기 전에 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943266"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004862"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>파트너 구성원 센터 (PMC)에서 파트너 센터로의 이동 준비
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   영업 에이전트
+-   관리자 에이전트
 
 PMC (파트너 구성원 센터)에서 파트너 센터 (Microsoft와의 비즈니스 관계를 관리 하는 단일 대상)로 회원 관리를 이동 합니다. 파트너 센터로 이동 하는 것이 효율적이 고 쉽게 가능 합니다. 파트너 센터가 PMC와 다른 몇 가지 영역을 확인 하 고, 이동 하기 전에이를 이해 하 고 준비 하려고 한다고 생각 합니다.
 
@@ -91,7 +97,7 @@ MPN 전역 관리자가 파트너 센터로 이동 하면 역할은 파트너 �
 **여러 AAD 테 넌 트와 단일 MPN 계정이 있는 경우 파트너 센터에서 연결할 수 있나요?**
 
 예, 파트너 센터에서 여러 Azure AD 테 넌 트를 단일 파트너 센터 계정에 연결할 수 있습니다.
-További információk itt érhetők el. 
+여기에서 자세한 내용을 알아보십시오. 
 
 **단일 파트너 센터 계정에 여러 Azure AD 테 넌 트를 추가 하는 데 제한이 있나요?**
 

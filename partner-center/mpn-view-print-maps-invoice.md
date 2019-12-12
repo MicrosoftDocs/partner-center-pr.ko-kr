@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, 송장, 지도, 세금 면제, VAT, VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943546"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004262"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크의 송장 및 세금
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   MPN 파트너 관리자
+-   청구 관리자
+-   관리자 에이전트
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>MPN 멤버 자격 청구서 보기 또는 다운로드
 

@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943106"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004992"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테 넌 트에 대 한 MFA (재조정 Multi-factor Authentication)
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943106"
   - 간접 공급자
   - 간접 재판매인
 - 모든 관리자
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   청구 관리자
+-   MPN 파트너 관리자
 
 이러한 파트너는 다음 영역에 대 한 MFA 확인을 완료 해야 합니다.
 
@@ -166,7 +173,7 @@ Microsoft Online Services에 대 한 기술적인 문제가 발생 하 고 적�
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>문제 1: 파트너가 파트너 에이전트에 대해 MFA를 구현 하는 데 더 많은 시간이 필요 합니다.
 파트너가 시작 되지 않았거나, 고객 리소스를 관리 하기 위해 파트너 위임 된 관리 권한을 사용 하 여 Microsoft Online Services 포털에 액세스 해야 하는 파트너 에이전트에 대해 MFA를 구현 하는 과정을 진행 하 고 있습니다. 파트너는 MFA 구현을 완료 하는 데 더 많은 시간이 필요 합니다. 이는 올바른 기술 예외 원인 인가요?
 
-**Válasz:** Nem. 파트너는 중단을 방지 하기 위해 사용자에 대 한 MFA를 구현 하도록 계획 해야 합니다.
+**응답:** 아니요. 파트너는 중단을 방지 하기 위해 사용자에 대 한 MFA를 구현 하도록 계획 해야 합니다.
 
 > [!NOTE]
 > 파트너가 파트너 에이전트에 대해 MFA를 구현 하지 않은 경우에도 파트너 에이전트는 MFA 등록 및 MFA 확인을 완료할 수 있는 경우 파트너 위임 된 관리 권한을 사용 하 여 Microsoft Online Services 포털에 계속 액세스할 수 있습니다. 고객 테 넌 트에 로그인 하는 동안 메시지가 표시 됩니다. MFA 등록을 완료 하면 MFA에 대해 사용자가 자동으로 사용 하도록 설정 되지 않습니다.
@@ -174,12 +181,12 @@ Microsoft Online Services에 대 한 기술적인 문제가 발생 하 고 적�
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>문제 2: 파트너가 위임 된 관리자 권한을 사용 하지 않는 사용자 계정에 대해 MFA를 구현 하지 않았습니다.
 파트너는 파트너 테 넌 트의 일부 사용자에 게 파트너 위임 된 관리 권한을 사용 하 여 고객 리소스를 관리 하기 위해 Microsoft Online Services 포털에 액세스할 필요가 없습니다. 파트너는 이러한 사용자에 대해 MFA를 구현 하는 중 이며 완료 하는 데 시간이 더 필요 합니다. 이는 올바른 기술 예외 원인 인가요?
 
-**Válasz:** Nem. 이러한 사용자 계정은 파트너 위임 된 관리 권한을 사용 하 여 고객 리소스를 관리 하지 않으므로 고객 테 넌 트에 로그인 하는 데 필요 하지 않습니다. 고객 테 넌 트에 로그인 하는 동안 MFA 확인을 요구 하는 Azure AD의 영향을 받지 않습니다.
+**응답:** 아니요. 이러한 사용자 계정은 파트너 위임 된 관리 권한을 사용 하 여 고객 리소스를 관리 하지 않으므로 고객 테 넌 트에 로그인 하는 데 필요 하지 않습니다. 고객 테 넌 트에 로그인 하는 동안 MFA 확인을 요구 하는 Azure AD의 영향을 받지 않습니다.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>문제 3: 파트너가 사용자 서비스 계정에 대해 MFA를 구현 하지 않았습니다.
 파트너는 장치에서 서비스 계정으로 사용 중인 파트너 테 넌 트의 일부 사용자 계정을 가집니다. 일반적으로 파트너 위임 된 관리 권한을 사용 하 여 고객 리소스를 관리 하기 위해 액세스 파트너 센터 또는 Microsoft Online Services 포털이 필요 하지 않은 낮은 권한의 계정입니다. 이는 올바른 기술 예외 원인 인가요?
 
-**Válasz:** Nem. 이러한 사용자 계정은 파트너 위임 된 관리 권한을 사용 하 여 고객 리소스를 관리 하지 않으므로 고객 테 넌 트에 로그인 하는 데 필요 하지 않습니다. 고객 테 넌 트에 로그인 하는 동안 MFA 확인을 요구 하는 Azure AD의 영향을 받지 않습니다.
+**응답:** 아니요. 이러한 사용자 계정은 파트너 위임 된 관리 권한을 사용 하 여 고객 리소스를 관리 하지 않으므로 고객 테 넌 트에 로그인 하는 데 필요 하지 않습니다. 고객 테 넌 트에 로그인 하는 동안 MFA 확인을 요구 하는 Azure AD의 영향을 받지 않습니다.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>문제 4: 파트너가 MS Authenticator 앱을 사용 하 여 MFA를 구현할 수 없음
 파트너는 직원에 게 개인 모바일 장치를 회사 영역으로 가져올 수 없도록 하는 "청소 데스크" 정책이 있습니다. 개인 모바일 장치에 액세스 하지 않으면 직원은 Azure AD 기준 정책에서 지원 되는 유일한 MFA 확인 인 MS Authenticator 앱을 설치할 수 없습니다. 이는 올바른 기술 예외 원인 인가요?

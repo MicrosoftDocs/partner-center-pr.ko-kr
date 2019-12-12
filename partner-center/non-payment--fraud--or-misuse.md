@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943526"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005082"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 비 지불, 사기 행위 또는 오용 관리
 
@@ -24,6 +24,12 @@ ms.locfileid: "74943526"
 
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   청구 관리자
 
 사용자는 귀하의 고객에 의한 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적인 책임을 집니다. 따라서 *사기 방지 및 검색 위험 완화 제어를 배치 하는 것이 좋습니다*.
 
