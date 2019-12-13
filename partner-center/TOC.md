@@ -21,6 +21,7 @@
 ## 장점
 ### [혜택 개요](manage-your-partner-network-benefits.md)
 ### [출시 혜택](mpn-learn-about-go-to-market-benefits.md)
+## [Marketplace Rewards 관리](marketplace-rewards.md)
 ## [Software Assurance 프로그램](software-assurance-lp.md)
 ### [파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램](software-assurance-satv.md)
 ### [파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
 ## [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
 ## [사용자 역할 및 권한 할당](permissions-overview.md)
+## [Azure AD 애플리케이션 추가](service-principal.md)
 ## [Microsoft Learn 계정을 파트너 센터에 연결](ms-learn-associate.md)
 ## [도메인 소유권 확인](become-global-admin.md)
 ## [사용자 암호 다시 설정](reset-a-user-password.md)
