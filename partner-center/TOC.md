@@ -167,7 +167,7 @@
 # 파트너 센터 데이터 및 분석
 ## [비즈니스 데이터 수집 및 분석](data-analysis-lp.md)
 ## [Microsoft Power BI용 파트너 분석 앱](power-bi-app-for-direct-partners.md)
-## [파트너 기여 표시기](partner-contribution-indicators.md)
+## [파트너 센터 인사이트](partner-contribution-indicators.md)
 ## [고객의 Azure 구독 사용량에 대한 데이터 가져오기](analyze-azure-usage.md)
 ## [간접 재판매인 성과 분석](analyze-indirect-resellers.md)
 ## [구독 및 라이선스 분석](analyze-subscriptions-licenses.md)
