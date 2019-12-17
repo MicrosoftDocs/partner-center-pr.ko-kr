@@ -1,97 +1,87 @@
 ---
-title: 파트너 기여 지표 | 파트너 센터
+title: 파트너 센터 정보 | 파트너 센터
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 사용자가 수행 하는 작업과 Dynamics 365 고객 참여 또는 Dynamics 365 재무 및 작업에 대 한 향상 된 기능을 확인할 수 있습니다.
+description: 잘 수행 하는 작업과 판매 및 배포와 관련 하 여 개선할 수 있는 위치 및 고객 개발을 참조 하세요.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, 성과, 고객 성공, 측정, Dynamics 365
+keywords: PCI, 성능, 고객 성공, 측정,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004362"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033499"
 ---
-# <a name="partner-contribution-indicators"></a>파트너 기여 지표
+# <a name="partner-center-insights"></a>파트너 센터 정보
 
 **적절한 역할**
--   전역 관리자
--   사용자 관리자
--   관리자 에이전트
+- 전역 관리자
+- 계정 관리자
+- 임원 보고서 뷰어
+- 보고서 뷰어
 
-PCI (파트너 기여 지표)는 Dynamics 365에 대 한 성공적인 고객 결과를 추진 하는 파트너의 영향을 전체적으로 측정 합니다. 파트너는 클라우드 Business Applications 역량을 확보 하 고 유지 관리 하는 시장에서 더 많은 차별화를 받습니다.  파트너는 성공적인 배포 및 사용량 증가로 인 한 고객 성공의 주요 측정을 위해 크레딧을 받고, 기술 기능을 계속 투자 하 고 확장할 수 있는 보상을 받습니다. 
+Insights는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Microsoft 상업적 파트너를 위한 파트너 센터의 통합 된 보고 대시보드입니다. Insights 대시보드는 Office, Azure, Dynamics 및 라이선스 모델 (예: CSP 및 EA)에서 제공 하는 클라우드 제품의 kpi (핵심 성과 지표)를 360 수준으로 표시 합니다. 조직의 데이터 기반 결정을 내리는 데 도움이 되는 다양 한 KPI 보고서를 제공 합니다. 
 
-## <a name="scoring"></a>점수 매기기
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Insights 대시보드에 대 한 역할 기반 액세스 제어
 
-PCI는 회사의 기술 기능에 대 한 정교 하 고 전체적인 보기를 제공 하며 고객 성공 및 판매 실적을 추진 하는 기능을 제공 합니다. PCI는 7 개의 주요 표시기에서 회사의 이전 연도 성능을 측정 합니다.
+파트너 센터에는 Insights 보고서 뷰어 및 임원 보고서 뷰어에 대 한 액세스를 위해 특별히 설계 된 두 개의 새로운 역할이 있습니다.  임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있으며, 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요 한 데이터 집합에 액세스할 수 없습니다. 
 
-1. Microsoft Dynamics 365 제품에 대 한 모든 판매 채널의 순 **새 수익.**
-2. **Net customer** 는 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net customer를 추가 합니다.
-3. **함수형 컨설턴트** -현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다.
-4. **함수형 컨설턴트 성장** -2020 년 3 월 31 일 이후 기능 컨설턴트의 수가 증가 합니다.
-5. **개발자** -현재 활성 개발자를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다.
-6. **새로운 대규모 배포** -지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수
-7. **월간 활성 사용자 성장** -지난 12 개월 동안 모든 고객의 월별 활성 사용자 성장
+전역 관리자 또는 계정 관리자는 이러한 역할을 사용자에 게 할당할 수 있으며 전체 회사 또는 특정 MPN 위치에 할당 됩니다.  
 
-점수는 획득 된 각 표시기에 대해 부여 되며,이로 인해 단일 숫자 PCI 점수가 발생 합니다. 100 최대 점수를 사용할 수 있습니다. PCI 점수는 역량 자격을 결정 합니다.
+>[!Note] 
+>MPN 관리자가 Dec 2, 2019 인 사용자는 회사 전체의 보고서 뷰어 역할에 자동으로 추가 됩니다. 전역 관리자 또는 계정 관리자에 게 필요한 명시적인 조치 없이 보고서를 보고서 뷰어로 액세스할 수 있습니다. 전역 관리자 또는 계정 관리자는 필요한 경우 이러한 할당을 재정의할 수 있습니다. 
 
-![PCI 점수](images/pcinew1.png)
+## <a name="reports-available"></a>사용 가능한 보고서
 
-각 표시기는 합계에 추가 되는 점수를 가져옵니다. 각 표시기의 최대 점수는 다음과 같습니다.
+다음 보고서는 Insights 대시보드의 일부로 사용할 수 있습니다.
 
+**개요**    개요 보고서는 고객 수, 활성 구독 수, Azure 소비 수익, 활성 라이선스 등 관심 있는 다양 한 Kpi의 스냅숏 뷰를 제공 합니다.
 
-![pci 성능 2](images/pci1.png)
+**고객** 고객 보고서는 고객 취득 데이터, 활성 고객 등의 고객에 대 한 분석을 제공 합니다. 
 
-### <a name="thresholds"></a>임계값
+**제품-구독**     구독 보고서는 클라우드 구독에 대 한 취득 및 사용 현황 분석 (예: O365, Azure, Dynamics 등)을 제공 합니다. 
 
-각 PCI 메트릭에는 회사 최대 포인트를 얻을 수 있는 Microsoft 설정 임계값이 있습니다. 이러한 임계값은 Customer Engagement 및 Finance & Operations에 따라 다릅니다. 또한 임계값은 선진 시장에서 운영되는 파트너와 신흥 시장에서 독점적으로 운영되는 파트너에 따라 다릅니다. 파트너가 선진 시장에서 하나 이상의 고객을 보유하고 있는 경우 선진 시장 임계값이 적용됩니다. 국가에서 개발 되거나 새로운 시장 분류는 [Microsoft 파트너 네트워크 정의](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)를 기준으로 합니다.
+**제품 라이선스**   라이선스 대시보드는 O365, Dynamics, Power BI 등의 라이선스 기반 클라우드 제품에 대 한 라이선스 분석을 제공 합니다.
 
-각 메트릭의 요소는 고객 참여 및 재무 & 작업에 대 한 별도의 PCI 점수를 생성 하 여 매월 업데이트 되는 것으로 계산 됩니다.
+**제품-Azure 사용**   Azure 사용량 보고서는 Azure 사용량 수익 및 측정기 별 사용량을 포함 하 여 고객의 Azure 구독과 관련 된 메트릭을 제공 합니다.
 
-파트너는 아래 표시된 임계값을 충족하거나 초과하는 경우 지정된 메트릭에 대한 최대 포인트를 얻을 수 있습니다. 기능 컨설턴트 증가를 제외한 모든 메트릭에 대해 부분 포인트를 얻을 수 있습니다. 예를 들어 신규 순수익이 $150,000인 선진 시장 파트너는 최대 10포인트의 절반($150,000/$300,000)을 얻게 됩니다.
+역량    역량 보고서는 미해결 및 위험에 노출 된 위험에 대 한 메트릭을 제공 합니다.
 
-![고객 참여](images/pci/table_1.png)
+**이점**    혜택 보고서는 획득 및 소비 된 파트너 혜택에 대 한 분석을 제공 합니다.
 
-![금융](images/pci/TABLE_2.png)
-
-![다루는](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a>PCI 메트릭에 대 한 자세한 정의
-
-![새 넷 수익](images/net_new1.png)
-
-![net customer 추가](images/netcustomer.png)
-
-![기능 컨설턴트](images/pci/functional_consultants.png)
-
-![증가](images/pci/functional_consultant_growth.png)
-
-![개발자](images/pci/developers.png)
-
-![새 배포](images/pci/new_large_deployments.png)
-
-![활성 사용자](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a>Insights 보고서 탐색 
 
 
-## <a name="customer-to-partner-association"></a>고객과 파트너 간 연결
+**날짜 범위 필터**: 각 페이지의 오른쪽 위 모서리에서 날짜 범위 선택을 찾을 수 있습니다. 지난 3, 6 또는 12 개월을 기준으로 하는 날짜 범위를 선택 하거나 사용자 지정 날짜 범위를 선택 하 여 개요 페이지 그래프의 출력을 사용자 지정할 수 있습니다. 기본 날짜 범위 선택은 12 개월입니다. 
 
-메트릭 정의의 범위 내에서 지정 된 고객에 대 한 Net new 수익, Net customer 추가, 새로운 대량 배포 및 월별 활성 사용자 성장을 위한 크레딧을 받을 수 있습니다 .이는 CSP (클라우드 솔루션 공급자) 인 경우에만, (CPOR) 클레임 파트너 인 경우에만 해당 됩니다. 또는 고객의 테 넌 트에 속한 유료 구독의 경우에는 DPOR (Digital Partner of Record)를 사용할 수 있습니다.
 
-파트너는 CPOR 또는 Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) 동기 또는 Dynamics 365 [online Services 사용](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (osu) 동기를 통해 구독 수준에서 고객과의 연결을 설정한 경우에는이 됩니다.
+**사용자 의견 단추**: 모든 Insights 보고서의 각 차트/컨트롤은 보고서 기능에 대 한 인스턴스 피드백을 제공할 수 있는 피드백 단추와 통합 됩니다. 
 
-파트너는 제품 내 구독 수준에서 고객과 연결을 설정한 경우 DPOR이 됩니다.
+ 
+**페이지 수준 필터**: 개요, 이점 및 역량 보고서를 제외 하 고 모든 정보 보고서를 사용 하면 페이지 수준 필터를 적용할 수 있습니다. 
 
-지정된 구독에 대해 CPOR과 DPOR이 둘 다 있는 경우 CPOR은 구독과 연결된 PCI 메트릭에 대한 크레딧을 모두 받습니다.
+- 선택한 필터는 요약 섹션을 포함 하 여 페이지의 모든 차트 및 메트릭에 적용 됩니다. 필터 항목은 필터 조건 내에 데이터가 있는 경우 사용할 수 있습니다. 
 
-## <a name="how-to-read-the-charts"></a>차트를 읽는 방법
+- 각 필터 목록의 기본 선택은 **모두**입니다. 예를 들어 제품 필터에서 특정 제품을 선택 하지 않은 경우 기본 선택 항목은 모든 제품입니다.
 
-![차트를 읽는 방법](images/pci2.png)
+- 선택한 필터가 페이지 맨 위에 표시 됩니다. 
+
+ ### <a name="filters-definition"></a>필터 정의:
+
+- 제품: 조직에서 판매/관리 하는 모든 Microsoft 클라우드 제품의 목록 (예: O365, Azure, D365, EMS, PowerBI 등)입니다.
+- 고객 시장: 고객 국가 목록
+- Partner attributions: 고객 구독과 연결 형식 (예: DPOR (Digital partner of record), DAP (위임 된 관리자 권한), PAL (파트너 관리자 링크) 등) 
+- 파트너 위치: 조직의 MPN 위치를 모두 나열 합니다. 
+- 판매 채널: 제품 및 서비스를 구매/프로 비전 하는 데 사용할 수 있는 모든 판매 채널/가격, CSP, EA, CSP 간접, 직접, Advisor, 오픈, 기타
+- 고객 부문: 파트너 고객 기반의 고객 세그먼트 목록입니다.
+
+
 
 ## <a name="additional-resources"></a>추가 리소스
 
