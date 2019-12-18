@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943096"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005022"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
 
 등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 센터에서 계정을 만든 후에는 사용자 또는 사용자의 관리자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료해야 합니다. 
 

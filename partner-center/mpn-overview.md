@@ -10,14 +10,20 @@ ms.author: evansma
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943316"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004202"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
+
+**적절한 역할**
+-   전역 관리자
+-   MPN 파트너 관리자
+-   사용자 관리자
+-   관리자 에이전트
 
 Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다.
 

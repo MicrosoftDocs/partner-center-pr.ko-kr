@@ -9,15 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: high
-ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253667"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004812"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft Gold 및 Silver 역량과 고급 전문 분야에 대한 정보
 
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
 
 하나 이상의 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 

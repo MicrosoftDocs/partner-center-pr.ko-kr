@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 146ed2d79c2b98dca6e08f9cf56dbb150e981535
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943306"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004982"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 
@@ -26,6 +26,13 @@ ms.locfileid: "74943306"
   - 간접 재판매인
 - 모든 제어판 공급업체
 - 모든 관리자
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   청구 관리자
+-   MPN 파트너 관리자
 
 개인 정보 보호 및 보안 강화는 최우선 순위입니다. 최선의 방어는 예방이며, 가장 약한 링크를 강화해야 한다는 것을 알고 있습니다. 따라서 에코시스템의 모든 사람이 조치를 취하고, 적절한 보안 보호가 마련되어야 합니다. Microsoft에서는 파트너와 고객을 보호하기 위해 클라우드 솔루션 공급자 프로그램에 참여하는 관리자, 제어판 공급업체 및 파트너에 대한 일련의 필수 보안 요구 사항을 도입하고 있습니다.
 

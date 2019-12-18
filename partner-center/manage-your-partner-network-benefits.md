@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943596"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004532"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
 **적용 대상**
 
 -  파트너 센터
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   MPN 파트너 관리자
 
 >[!IMPORTANT]
 >이 문서에서는 파트너 센터에서 MPN(Microsoft 파트너 네트워크) 멤버십 혜택을 사용하기 시작하는 방법에 대해 설명합니다. PMC(Partner Membership Center)에서 파트너 센터로 회사 정보를 이동하도록 초대를 받지 못한 경우 PMC에서 계속 MPN 멤버십 혜택을 관리해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)합니다.

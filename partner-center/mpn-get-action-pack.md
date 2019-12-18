@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943346"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005105"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버/골드 역량을 처음으로 구입 또는 갱신
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943346"
 
 -  파트너 센터
 -  Partner Membership Center
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   MPN 파트너 관리자
+-   관리자 에이전트
+-   영업 에이전트
 
 이제 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에서 Microsoft Action Pack 구독과 실버 및 골드 역량을 비롯한 혜택 제품을 구입하거나 갱신할 수 있습니다. 
 

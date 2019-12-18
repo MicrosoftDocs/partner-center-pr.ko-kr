@@ -9,15 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: high
-ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943136"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004132"
 ---
 # <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
 
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   MPN 파트너 관리자
 
 법적 이름과 주소, 지원 세부 정보, 면세 정보, 은행 정보, 회사의 기본 연락처를 비롯한 파트너 프로필을 설정했습니다. 다음 단계: 사용자가 파트너 센터에서 작업을 시작할 수 있도록 암호와 역할을 사용하여 사용자를 설정합니다.
 

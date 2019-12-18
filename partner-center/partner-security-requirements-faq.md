@@ -9,14 +9,21 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
-ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
+ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "73915029"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004272"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
+
+**적절한 역할**
+-   전역 관리자
+-   사용자 관리자
+-   관리자 에이전트
+-   청구 관리자
+-   MPN 파트너 관리자
 
 이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대해 자주 묻는 질문이 몇 가지 포함되어 있습니다.
 
