@@ -17,11 +17,12 @@
 ### [Action Pack](mpn-get-action-pack.md)
 ### [제품 갱신](renew-mpn-offers.md)
 ## [역량](learn-about-competencies.md)
+## [고급 전문 분야](advanced-specializations.md)
 ## [Azure Expert Managed Service Provider 프로그램](azure-expert-msp.md)
 ## 장점
 ### [혜택 개요](manage-your-partner-network-benefits.md)
 ### [출시 혜택](mpn-learn-about-go-to-market-benefits.md)
-## [Marketplace Rewards 관리](marketplace-rewards.md)
+## [Marketplace Rewards](marketplace-rewards.md)
 ## [Software Assurance 프로그램](software-assurance-lp.md)
 ### [파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램](software-assurance-satv.md)
 ### [파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)
