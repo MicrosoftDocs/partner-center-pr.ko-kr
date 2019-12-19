@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
+ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005052"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "75185543"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 평가판 제공
 
@@ -45,7 +45,7 @@ ms.locfileid: "75005052"
 - PSTN이 없는 Office 365 E5
 - Enterprise Mobility 및 Security E5
 - Dynamics 365 고객 참여 계획 1
-- Dynamics 365 for Financials
+- Dynamics 365 Business Central
 - Microsoft 365 Business
 
 Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품의 평가판을 제공합니다. 앞으로 평가판 제품이 더 추가될 가능성이 있습니다.
