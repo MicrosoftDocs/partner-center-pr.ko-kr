@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독, 취소 소프트웨어
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185628"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190244"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
 
@@ -140,7 +140,7 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 구매를 취소 하려면 다음 단계를 수행 합니다.
 
 >[!NOTE]
->관리 에이전트여야 구입을 취소할 수 있습니다. 다음 단계에서는 파트너 센터 대시보드에서 구매를 취소 하는 방법을 설명 합니다. [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox)를 사용 하 여이 작업을 수행할 수도 있습니다.
+>관리 에이전트여야 구입을 취소할 수 있습니다. 다음 단계에서는 파트너 센터 대시보드에서 구매를 취소 하는 방법을 설명 합니다. [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)를 사용 하 여이 작업을 수행할 수도 있습니다.
 
 1. 취소 프로세스를 시작 하기 전에 다음이 있는지 확인 합니다.
 
