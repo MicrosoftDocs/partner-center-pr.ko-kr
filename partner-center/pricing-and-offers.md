@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004952"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631827"
 ---
 # <a name="pricing-and-offers"></a>가격 책정 및 제품
 
@@ -42,7 +42,7 @@ ms.locfileid: "75004952"
 
 |**항목**        |**정의**      |
 |:-----------   |:-----------   |
-|ADD   |가격표에 추가된 새 항목|
+|추가   |가격표에 추가된 새 항목|
 |CHG   |월간 정가에서 월로 변경 됩니다. 정가와 관련 되지 않은 기타 변경 내용이 발생할 수 있습니다. 파트너가 다른 속성을 월별로 비교 하 여 다른 변경 사항을 확인 해야 합니다.|
 |DEL   |가격표에서 제거된 항목|
 |UNC   |이전 달의 가격표에서 변경 되지 않은 가격 목록  |
@@ -79,7 +79,7 @@ CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 �
 
 |**Segment**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|교육|파트너 및 고객|예|라이선스 기반만|
+|교육|고객|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
 |비영리|고객|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
 |GCC(정부 커뮤니티 클라우드)|파트너 및 고객|GCC를 사용 하도록 설정 하 고 나면 파트너가 GCC 고객을 만들 수 있습니다.| 라이선스 기반만|
 |Azure .gov|파트너|자격이 부여 되 면 파트너는 Azure .gov 관련 된 CSP 테 넌 트에서 작동 합니다.|Azure 리소스|

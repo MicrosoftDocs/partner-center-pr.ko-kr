@@ -9,12 +9,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 24102a7c299db534422e031ee9504dc48cf923cb
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722449"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631813"
 ---
 # <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 
@@ -34,7 +34,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 기관을 
 
 |**특수 가격**   |**재판매인 필수 자격**   |**고객에 게 필요한 자격**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|교육   |[공인 교육 판매자](https://www.mepn.com)여야 합니다.   | [적격 Education 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
+|교육   |없음   | [적격 Education 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
 |정부   |Azure를 판매 하려면 [MICROSOFT 미국 정부 클라우드 유효성 검사 양식](https://azuregov.microsoft.com/csp)을 사용 하 여 등록 합니다. 정부에 대한 라이선스 기반 구독을 판매하는 데는 자격이 필요하지 않습니다.|   없음|
 |비영리  |없음<br>비영리 Azure Active Directory 테넌트가 있어야 합니다.<br>[비영리 특별 혜택](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)에 대한 자세한 정보를 알아보세요.   |자격을 갖추기 위해 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register)을 통해 등록하세요.   |
 
