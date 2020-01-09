@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005012"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636994"
 ---
 # <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
 
@@ -27,9 +27,9 @@ ms.locfileid: "75005012"
 - 모든 관리자
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
--   관리자 에이전트
+-   관리 에이전트
 -   청구 관리자
 -   MPN 파트너 관리자
 
@@ -50,15 +50,24 @@ ms.locfileid: "75005012"
 >[!NOTE]
 >파트너 보안 요구 사항 상태 보고서는 파트너 센터에서만 지원됩니다. Microsoft Cloud for US Government 또는 Microsoft 클라우드 독일에서는 사용할 수 없습니다. 소버린 클라우드(21Vianet, 미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 채택할 것을 강력하게 권장합니다. 그러나 이러한 파트너는 2019년 8월 1일부터 적용되는 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
 
-직원이 파트너 센터에 로그인하여 작업하거나 API를 통해 파트너 센터에서 데이터를 가져오거나 전송할 때마다 보안 상태가 검사 및 추적됩니다. 또한 보안 상태 추적에는 파트너의 애플리케이션과 제어판 공급업체 애플리케이션이 포함됩니다. 이전 7일의 상태가 표시됩니다.
-
 ## <a name="multi-factor-authentication-mfa-report"></a>"MFA(다단계 인증)" 보고서
 
-파트너 센터 MFA 보고서는 파트너 센터 활동을 기반으로 다음 두 가지 메트릭을 제공하여 파트너 MFA 구현에 대한 인사이트를 제공합니다.
+파트너 센터 MFA 보고서는 CSP 테넌트의 MFA 구성 및 파트너 센터 활동을 기반으로 두 가지 유형의 메트릭을 제공하여 파트너 MFA 구현에 대한 인사이트를 제공합니다. 
 
-**사용자가 완료한 MFA 확인**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP 테넌트의 MFA 구성
 
-이 메트릭은 파트너 센터 대시보드 내의 활동과 관련이 있습니다. MFA 확인을 완료한 사용자가 수행한 작업의 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
+이 메트릭은 매일 캡처하고 보고한 CSP 테넌트의 MFA 구성과 관련이 있습니다. [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA를 적용한 사용자 계정의 비율을 측정합니다. 예:
+
+- Contoso는 테넌트에 110개의 사용자 계정이 있는 CSP 파트너이며, 그 중 10개는 사용하지 않습니다. 
+- 나머지 100개의 사용자 계정 중 90개는 제공된 [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA가 적용됩니다. 따라서 메트릭은 90%를 표시합니다. 
+
+### <a name="partner-center-activities-with-mfa"></a>MFA를 통한 파트너 센터 활동
+
+직원이 파트너 센터에 로그인하여 작업하거나 API를 통해 파트너 센터에서 데이터를 가져오거나 전송할 때마다 보안 상태가 검사 및 추적됩니다. 또한 보안 상태 추적에는 파트너의 애플리케이션과 제어판 공급업체 애플리케이션이 포함됩니다. 이전 7일의 상태가 표시됩니다.
+
+#### <a name="mfa-verification-completed-by-users"></a>사용자가 완료한 MFA 확인
+
+이 메트릭은 파트너 센터 대시보드 내의 활동과 관련이 있습니다. MFA 확인을 완료한 사용자가 수행한 작업의 비율을 측정합니다. 예:
 
 - Contoso는 두 명의 관리 에이전트 Jane과 John이 있는 CSP 파트너입니다.
 - 첫 번째 날에 Jane이 MFA 확인 없이 파트너 센터 대시보드에 로그인하여 3가지 작업을 수행했습니다.
@@ -67,9 +76,9 @@ ms.locfileid: "75005012"
 - 나머지 4일 동안은 두 에이전트가 어떤 작업도 수행하지 않았습니다.
 - 7일 동안 수행된 10개 작업 중 2개는 사용자가 MFA 확인을 사용하여 수행했습니다. 따라서 메트릭은 20%를 표시합니다.
 
-**앱+사용자 인증**
+#### <a name="appuser-authentication"></a>앱+사용자 인증
 
-이 메트릭은 앱+사용자 인증을 사용하여 작성된 파트너 센터 API 사용 요청과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
+이 메트릭은 앱+사용자 인증을 사용하여 작성된 파트너 센터 API 사용 요청과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예:
 
 - Fabrikam은 CSP 파트너이며 앱+사용자 인증과 앱 전용 인증 방법을 혼합해서 사용하는 CSP 애플리케이션을 보유하고 있습니다.
 - 첫 번째 날에 애플리케이션에서 API 요청을 3개 만들었고, 이 요청은 MFA 확인 없이 앱+사용자 인증 방법을 통해 얻은 액세스 토큰을 통해 지원됩니다.
