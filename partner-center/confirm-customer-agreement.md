@@ -1,7 +1,7 @@
 ---
 title: 고객의 Microsoft 고객 계약 동의 확인 | 파트너 센터
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 고객 계약의 고객 동의를 확인 하는 방법에 대해 알아봅니다. 고객을 위한 Microsoft 제품 및 서비스를 주문 하는 데 필요할 수 있습니다.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721365"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752574"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약의 고객 승인 확인
 
@@ -55,7 +55,7 @@ ms.locfileid: "74721365"
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>파트너 센터에서 고객의 동의 여부 확인
-파트너는 새 고객과 기존 고객을 위해 파트너 센터에서 Microsoft 고객 계약에 대 한 고객의 동의를 확인할 수 있습니다.
+파트너는 새 고객과 기존 고객을 위해 파트너 센터에서 Microsoft 고객 계약에 대 한 고객의 동의를 확인할 수 있습니다. 재판매인은 자신의 고객을 대신 하 여 증명할 수 없으며, 간접 공급자와 협력 하 여 증명을 완료 해야 합니다.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>신규 고객에 대한 고객의 동의 여부 확인
 

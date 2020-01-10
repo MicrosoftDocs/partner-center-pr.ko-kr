@@ -1,18 +1,18 @@
 ---
 title: 라이선스 기반 조정 파일 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 01/08/2020
 description: 파트너 센터의 라이선스 기반 조정 파일을 이해 합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004602"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757186"
 ---
 # <a name="license-based-reconciliation-files"></a>라이선스 기준 조정 파일
 
@@ -34,12 +34,15 @@ ms.locfileid: "75004602"
 | Column | 설명 | 샘플 값 |
 | ------ | ----------- | ------------ |
 | PartnerId | 특정 청구 엔터티에 대 한 GUID 형식의 고유 식별자입니다. 조정에는 필요 하지 않습니다. 모든 행에서 같습니다. | *8ddd03642-테스트-테스트* |
-| CustomerID | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| OrderID | Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
-| SubscriptionID | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. *이 값은 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다. 대신 **SyndicationPartnerSubscriptionNumber** 를 참조 하세요.* | *usCBMgAAAAAAAAIA* |
+| CustomerId | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하기 위한 매우 중요 한 필드입니다.* | *고객 A 테스트* |
+| MpnId | CSP 파트너의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
+| ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 현재 활동에 사용할 수 없습니다. |
+| OrderId | Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
+| SubscriptionId | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. *이 값은 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다. 대신 **SyndicationPartnerSubscriptionNumber** 를 참조 하세요.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 구독의 고유 식별자. 고객은 동일한 계획에 대해 여러 구독을 가질 수 있습니다. 이 열은 조정 파일 분석에 중요 합니다. 이 필드는 파트너 관리 콘솔의 **구독 ID** 에 매핑됩니다. | *fb977ab5-24c8d9591708* |
-| OfferID | 고유 제품 식별자입니다. 가격 목록에 정의 된 표준 제품 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 하지 않습니다. 대신 **DurableOfferID** 를 참조 하세요.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | 가격 목록에 정의 된 고유한 지 속성 제공 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 합니다.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferId | 고유 제품 식별자입니다. 가격 목록에 정의 된 표준 제품 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 하지 않습니다. 대신 **DurableOfferID** 를 참조 하세요.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferId | 가격 목록에 정의 된 고유한 지 속성 제공 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 합니다.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). | *Microsoft Office 365 (E3 계획)* |
 | SubscriptionStartDate | 구독 시작 날짜입니다. 시간은 항상 해당하는 날의 시작인 0:00입니다. 이 필드는 주문이 제출 된 후의 일로 설정 됩니다. **Subscription.subscriptionenddate** 와 함께 사용 되어 고객이 아직 구독의 첫 번째 연도 내에 있는지 또는 구독이 다음 연도에 대해 갱신 되었는지 여부를 확인 합니다. | *2/1/2019 0:00* |
 | SubscriptionEndDate | 구독 종료 날짜입니다. 시간은 항상 해당하는 날의 시작인 0:00입니다. *시작 날짜 로부터 12 개월 + **x** 일을 더한* 날짜에서 파트너의 청구 날짜 또는 *12 개월을 기준*으로 합니다. 갱신 시 가격은 현재 가격표로 업데이트됩니다. 자동 갱신에 앞서 고객과 연락해야 할 수 있습니다. | *2/1/2019 0:00* |
@@ -54,9 +57,7 @@ ms.locfileid: "75004602"
 | Tax | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |
 | TotalForCustomer | 세금을 적용한 후의 총액. 송장에 세금이 부과되었는지 확인합니다. | *11* |
 | Currency | 통화 형식. 각 청구 엔터티의 통화는 한 가지만 가능합니다. 첫 번째 청구서와 일치 하는지 확인 합니다. 주요 청구 플랫폼을 업데이트 한 후에 다시 확인 합니다. | *EUR* |
-| CustomerName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하기 위한 매우 중요 한 필드입니다.* | *고객 A 테스트* |
-| MPNID | CSP 파트너의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
-| ResellerMPNID | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
 | DomainName | 고객의 도메인 이름입니다. 두 번째 청구 주기가 될 때까지 이 필드는 빈 상태로 나타날 수 있습니다. *이 필드를 고객에 대 한 고유 식별자로 사용 하지 마세요. 고객/파트너는 Office 365 포털을 통해 베 니 티 또는 기본 도메인을 업데이트할 수 있습니다.* | *example.onmicrosoft.com* |
 | SubscriptionName | 구독 애칭. 애칭을 지정 하지 않으면 파트너 센터는 **OfferName**을 사용 합니다. | *PROJECT ONLINE* |
 | SubscriptionDescription | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). 이는 **OfferName**에 대 한 동일한 필드입니다. | *PROJECT CLIENT가 없는 PROJECT ONLINE PREMIUM* |
+| BillingCycleType | 일회성 청구 빈도입니다.| *매월* |

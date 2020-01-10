@@ -1,18 +1,18 @@
 ---
 title: 매일 등급 사용 조정 파일 | 파트너 센터
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 01/08/2020
 description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721860"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776484"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>매일 등급 사용 조정 파일
 
@@ -35,44 +35,52 @@ ms.locfileid: "74721860"
 | Column | 설명 |
 | ------ | ----------- |
 | PartnerId | GUID 형식의 파트너 식별자입니다. |
-| PartnerName | 파트너 이름. |
+| PartnerName | 파트너 이름입니다. |
 | CustomerId | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. |
-| CustomerCompanyName | 파트너 센터에 보고된 고객의 조직 이름. *이 열은 시스템 정보를 사용 하 여 송장을 조정 하는 데 매우 중요 합니다.* |
+| CustomerName | 파트너 센터에 보고된 고객의 조직 이름. *이 열은 시스템 정보를 사용 하 여 송장을 조정 하는 데 매우 중요 합니다.* |
 | CustomerDomainName | 고객의 도메인 이름입니다. 현재 활동에 사용할 수 없습니다. |
-| 고객 국가 | 고객이 위치한 국가입니다. |
-| MPNID | CSP 파트너의 MPN 식별자입니다. |
-| 대리점 MPNID | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 현재 활동에 사용할 수 없습니다. |
+| CustomerCountry | 고객이 위치한 국가입니다. |
+| MpnId | CSP 파트너의 MPN 식별자입니다. |
+| Tier2MpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 현재 활동에 사용할 수 없습니다. |
 | InvoiceNumber | 지정한 트랜잭션이 표시되는 송장 번호입니다. 현재 활동에 사용할 수 없습니다. |
 | ProductId | 제품의 식별자입니다. |
 | SkuId | 특정 SKU에 대 한 식별자입니다. |
 | AvailabilityId | 특정 SKU의 가용성에 대 한 식별자입니다. 지정 된 국가, 통화, 산업 부문 등에서 SKU를 구매할 수 있는지 여부를 표시 합니다. |
-| SKU 이름 | 특정 SKU의 제목입니다. |
-| PublisherName | 게시자의 이름입니다. |
-| PublisherID | GUID 형식의 게시자 식별자입니다. 현재 활동에 사용할 수 없습니다. |
-| 구독 설명 | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). 이는 **OfferName**에 대 한 동일한 필드입니다. |
-| 구독 ID | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 조정에 사용 되지 않습니다. *이 식별자는 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다.* |
+| SkuName | 특정 SKU의 제목입니다. |
+| ProductName | 제품 이름입니다. |
+| PublisherName | 게시자의 이름. |
+| PublisherId | GUID 형식의 게시자 식별자입니다. 현재 활동에 사용할 수 없습니다. |
+| SubscriptionDescription | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). 이는 **OfferName**에 대 한 동일한 필드입니다. |
+| SubscriptionId | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 조정에 사용 되지 않습니다. *이 식별자는 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다.* |
 | ChargeStartDate | 청구 주기의 시작 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 해당하는 날의 시작인 0:00입니다. |
 | ChargeEndDate | 청구 주기의 종료 날짜입니다 (이전 biling 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 해당 일의 마지막인 23:59입니다. |
-| 사용 날짜 | 서비스 사용 날짜입니다. |
-| 측정기 유형 | 측정기의 유형입니다. |
-| 미터 범주 | 사용에 대 한 최상위 수준 서비스입니다. |
-| 측정기 Id | 사용 되는 측정기의 식별자입니다. |
-| 미터 하위 범주 | 요금에 영향을 줄 수 있는 Azure 서비스의 유형입니다. |
-| 미터 이름 | 사용 되는 측정기에 대 한 측정 단위입니다. |
-| 측정기 지역 | 이 열은 이 열이 적용 가능하고 채워진 서비스 지역 내에 있는 데이터 센터의 위치를 식별합니다. |
+| UsageDate | 서비스 사용 날짜입니다. |
+| MeterType | 측정기의 유형입니다. |
+| MeterCategory | 사용에 대 한 최상위 수준 서비스입니다. |
+| MeterId | 사용 되는 측정기의 식별자입니다. |
+| MeterSubCategory | 요금에 영향을 줄 수 있는 Azure 서비스의 유형입니다. |
+| MeterName | 사용 되는 측정기에 대 한 측정 단위입니다. |
+| MeterRegion | 이 열은 이 열이 적용 가능하고 채워진 서비스 지역 내에 있는 데이터 센터의 위치를 식별합니다. |
 | Unit | 리소스 **이름의**단위입니다. |
-| 소비 된 수량 | 보고 기간 동안 사용 된 서비스의 양 (예: *시간* 또는 *GB*)입니다. 이전 보고 기간의 청구 되지 않은 사용량을 포함 합니다. |
-| 리소스 위치 | 측정기가 실행 되 고 있는 데이터 센터를 > 합니다. |
-| 사용 된 서비스 | 사용한 Azure 플랫폼 서비스입니다. |
-| 리소스 URI | 사용 되는 리소스의 URI입니다. |
-| 청구 유형 | 요금 또는 조정 유형입니다. 현재 활동에 사용할 수 없습니다. |
-| 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
+| ResourceLocation | 측정기가 실행 되 고 있는 데이터 센터입니다. |
+| ConsumedService | 사용한 Azure 플랫폼 서비스입니다. |
+| ResourceGroup | Azure 솔루션에 관련 된 리소스를 보유 하는 컨테이너를 나타냅니다. |
+| ResourceURI | 사용 되는 리소스의 URI입니다. |
+| ChargeType | 요금 또는 조정 유형입니다. 현재 활동에 사용할 수 없습니다. |
+| UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | Quantity | 라이선스의 수입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
-| 단위 유형 | 미터의 요금이 청구 되는 단위 유형입니다. 현재 활동에 사용할 수 없습니다. |
-| 청구 전 세금 | 세금 전 총 청구 금액입니다. |
-| 청구 통화 | 고객 지역의 통화입니다. |
-| 가격 책정 pretax 합계 | 세금이 추가 되기 전의 가격 책정입니다. |
-| 가격 책정 통화 | 가격 목록의 통화입니다. |
-| 서비스 정보 1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
-| 서비스 정보 2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
-| 추가 정보 | 다른 열에서 다루지 않는 추가 정보입니다. |
+| (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다. 현재 활동에 사용할 수 없습니다. |
+| BillingPreTaxTotal | 세금 전 총 청구 금액입니다. |
+| BillingCurrency | 고객 지역의 통화입니다. |
+| PricingPreTaxTotal | 세금이 추가 되기 전의 가격 책정입니다. |
+| PricingCurrency | 가격 목록의 통화입니다. |
+| ServiceInfo1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
+| ServiceInfo2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
+| 태그 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
+| AdditionalInfo | 다른 열에서 다루지 않는 추가 정보입니다. |
+| EffectiveUnitPrice | 할인, 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
+| PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |
+| PCToBCExchangeRateDate | 청구 통화에 대 한 가격 책정 통화를 결정 하는 날짜입니다. |
+| EntitlementId | Azure 구독 ID를 나타냅니다. |
+| EntitlementDescription | Azure 구독 ID의 이름을 나타냅니다. |
+| PartnerEarnedCreditPercentage | 줄 항목에 대 한 표시 크레딧을 표시 합니다. 획득 크레딧은 0 또는 15%입니다. |
