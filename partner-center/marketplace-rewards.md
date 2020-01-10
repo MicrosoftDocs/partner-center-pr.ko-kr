@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 제품, 마케팅 지원, 보상, 게시자 혜택
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010404"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717338"
 ---
 # <a name="manage-marketplace-rewards"></a>Marketplace 보상 관리
 
@@ -40,11 +40,11 @@ Marketplace 보상 자격은 MPN 회사에 연결 된 모든 게시자 프로필
 
 다음으로, 아래 작업을 수행합니다.
 
-a. 목록에서 사용자를 선택합니다. 할당 하려는 사용자가 목록에 없는 경우 계정 설정에서 새 사용자를 추가할 수 있습니다.
+  - 목록에서 사용자를 선택합니다. 할당 하려는 사용자가 목록에 없는 경우 계정 설정에서 새 사용자를 추가할 수 있습니다.
 
-b. 회사의 파트너 센터 계정과 연결된 이메일 주소와 다른 사용자 이메일 주소를 입력합니다. Marketplace를 사용 하는 방법에 대 한 지침은 지정 된 마케팅 연락처의 전자 메일 주소에 대 한 혜택을 받을 수 있습니다.
+  - 회사의 파트너 센터 계정과 연결된 이메일 주소와 다른 사용자 이메일 주소를 입력합니다. Marketplace를 사용 하는 방법에 대 한 지침은 지정 된 마케팅 연락처의 전자 메일 주소에 대 한 혜택을 받을 수 있습니다.
 
-c. 이 마케팅 담당자에 대한 연락처 전화 번호와 기본 설정 언어를 제공합니다. 이 정보 입력을 마친 후 **사용자 할당**을 선택합니다.
+  - 이 마케팅 담당자에 대한 연락처 전화 번호와 기본 설정 언어를 제공합니다. 이 정보 입력을 마친 후 **사용자 할당**을 선택합니다.
 
 4. 마케팅 연락처를 업데이트 한 후에는 사용을 시작 하려는 혜택에 대해 **활성화** 를 선택 합니다. 혜택을 활성화 하면 한 주 내에 보상 팀의 구성원이 마케팅 담당자에 게 연락 하 게 됩니다.
 
