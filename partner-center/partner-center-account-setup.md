@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 관리 | 파트너 센터
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 회사의 프로필, 카탈로그, 은행 및 세금 정보, 역할, 권한 등을 관리합니다.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005022"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757206"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 
@@ -24,9 +24,9 @@ ms.locfileid: "75005022"
 -  파트너 센터
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
--   관리자 에이전트
+-   관리 에이전트
 
 등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 센터에서 계정을 만든 후에는 사용자 또는 사용자의 관리자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료해야 합니다. 
 
@@ -45,6 +45,8 @@ ms.locfileid: "75005022"
 |각 역할이 제공하는 권한 검토|[사용자 역할 및 권한 할당](permissions-overview.md)
 |회사의 위치 관리|[파트너 계정 관리: 위치](manage-locations.md)
 |직원이 암호를 잊었거나 암호를 다시 설정해야 하는 경우  |[사용자 암호 다시 설정](reset-a-user-password.md)|
+|파트너 센터에 제어판 공급업체로 등록|[파트너 센터에 제어판 공급업체로 등록](enroll-as-cpv.md)|
+|파트너 센터에서 Microsoft Learn 계정 연결|[파트너 센터에서 Microsoft Learn 계정 연결](ms-learn-associate.md)|
 |고객이 찾을 수 있도록 회사 마케팅   |[비즈니스 프로필 만들기](create-a-marketing-profile.md)|
 |가장 중요한 제품이 목록 맨 위에 오도록 카탈로그 정리   |[카탈로그 사용자 지정](customize-the-catalog.md)|
 |현재 가격 및 제품에 대한 정보 업데이트   |[가격 책정 및 제품](pricing-and-offers.md)|
