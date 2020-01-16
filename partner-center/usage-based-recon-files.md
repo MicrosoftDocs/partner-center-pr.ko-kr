@@ -1,18 +1,18 @@
 ---
 title: 사용 빈도 기반 조정 파일 | 파트너 센터
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 사용 빈도 기반 조정 파일의 모든 항목은 예제와 함께 설명 됩니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757226"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021747"
 ---
 # <a name="usage-based-file-fields"></a>사용량 기준 파일 필드
 
@@ -34,7 +34,7 @@ ms.locfileid: "75757226"
 | PartnerBillableAccountId | 파트너 계정 식별자입니다. | *1010578050* |
 | CustomerCompanyName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하는 데 매우 중요 합니다.* | *고객 테스트* |
 | MpnId | CSP 파트너의 MPN 식별자입니다. | *4390934* |
-| ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 현재 활동에 사용할 수 없습니다. |
+| ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다.  |
 | InvoiceNumber | 지정한 트랜잭션이 표시되는 송장 번호입니다. | *D020001IVK* |
 | ChargeStartDate | 이전에 청구되지 않은 잠재 사용량 데이터 날짜(이전 청구 주기)를 표시할 경우를 제외하고 청구 주기의 시작 날짜입니다. 시간은 항상 해당하는 날의 시작인 0:00입니다. | *2/1/2019 0:00* |
 | ChargeEndDate | 이전에 청구되지 않은 잠재 사용량 데이터 날짜(이전 청구 주기)를 표시할 경우를 제외하고 청구 주기의 종료 날짜입니다. 시간은 항상 해당 일의 마지막인 23:59입니다. | *2/28/2019 23:59* |

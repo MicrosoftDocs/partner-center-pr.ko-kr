@@ -1,18 +1,18 @@
 ---
 title: 매일 등급 사용 조정 파일 | 파트너 센터
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
-ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
+ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75776484"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021730"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>매일 등급 사용 조정 파일
 
@@ -38,18 +38,18 @@ ms.locfileid: "75776484"
 | PartnerName | 파트너 이름입니다. |
 | CustomerId | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. |
 | CustomerName | 파트너 센터에 보고된 고객의 조직 이름. *이 열은 시스템 정보를 사용 하 여 송장을 조정 하는 데 매우 중요 합니다.* |
-| CustomerDomainName | 고객의 도메인 이름입니다. 현재 활동에 사용할 수 없습니다. |
+| CustomerDomainName | 고객의 도메인 이름입니다. |
 | CustomerCountry | 고객이 위치한 국가입니다. |
 | MpnId | CSP 파트너의 MPN 식별자입니다. |
-| Tier2MpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 현재 활동에 사용할 수 없습니다. |
-| InvoiceNumber | 지정한 트랜잭션이 표시되는 송장 번호입니다. 현재 활동에 사용할 수 없습니다. |
+| Tier2MpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. |
+| InvoiceNumber | 지정한 트랜잭션이 표시되는 송장 번호입니다. |
 | ProductId | 제품의 식별자입니다. |
 | SkuId | 특정 SKU에 대 한 식별자입니다. |
 | AvailabilityId | 특정 SKU의 가용성에 대 한 식별자입니다. 지정 된 국가, 통화, 산업 부문 등에서 SKU를 구매할 수 있는지 여부를 표시 합니다. |
 | SkuName | 특정 SKU의 제목입니다. |
 | ProductName | 제품 이름입니다. |
 | PublisherName | 게시자의 이름. |
-| PublisherId | GUID 형식의 게시자 식별자입니다. 현재 활동에 사용할 수 없습니다. |
+| PublisherId | GUID 형식의 게시자 식별자입니다. |
 | SubscriptionDescription | 고객이 구매한 서비스 제품의 이름(가격표에 정의됨). 이는 **OfferName**에 대 한 동일한 필드입니다. |
 | SubscriptionId | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 조정에 사용 되지 않습니다. *이 식별자는 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다.* |
 | ChargeStartDate | 청구 주기의 시작 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 해당하는 날의 시작인 0:00입니다. |
@@ -66,10 +66,10 @@ ms.locfileid: "75776484"
 | ConsumedService | 사용한 Azure 플랫폼 서비스입니다. |
 | ResourceGroup | Azure 솔루션에 관련 된 리소스를 보유 하는 컨테이너를 나타냅니다. |
 | ResourceURI | 사용 되는 리소스의 URI입니다. |
-| ChargeType | 요금 또는 조정 유형입니다. 현재 활동에 사용할 수 없습니다. |
+| ChargeType | 요금 또는 조정 유형입니다.  |
 | UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | Quantity | 라이선스의 수입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
-| (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다. 현재 활동에 사용할 수 없습니다. |
+| (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다.  |
 | BillingPreTaxTotal | 세금 전 총 청구 금액입니다. |
 | BillingCurrency | 고객 지역의 통화입니다. |
 | PricingPreTaxTotal | 세금이 추가 되기 전의 가격 책정입니다. |

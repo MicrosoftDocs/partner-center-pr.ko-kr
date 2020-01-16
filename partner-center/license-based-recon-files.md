@@ -1,18 +1,18 @@
 ---
 title: 라이선스 기반 조정 파일 | 파트너 센터
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 파트너 센터의 라이선스 기반 조정 파일을 이해 합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757186"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021737"
 ---
 # <a name="license-based-reconciliation-files"></a>라이선스 기준 조정 파일
 
@@ -37,7 +37,7 @@ ms.locfileid: "75757186"
 | CustomerId | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하기 위한 매우 중요 한 필드입니다.* | *고객 A 테스트* |
 | MpnId | CSP 파트너의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
-| ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. 현재 활동에 사용할 수 없습니다. |
+| ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다.  |
 | OrderId | Microsoft 청구 플랫폼에서 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
 | SubscriptionId | Microsoft 청구 플랫폼에서 구독의 고유 식별자. 지원에 문의할 때 구독을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. *이 값은 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다. 대신 **SyndicationPartnerSubscriptionNumber** 를 참조 하세요.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 구독의 고유 식별자. 고객은 동일한 계획에 대해 여러 구독을 가질 수 있습니다. 이 열은 조정 파일 분석에 중요 합니다. 이 필드는 파트너 관리 콘솔의 **구독 ID** 에 매핑됩니다. | *fb977ab5-24c8d9591708* |
