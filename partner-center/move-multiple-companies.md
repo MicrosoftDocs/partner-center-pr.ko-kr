@@ -1,30 +1,30 @@
 ---
 title: PMC에서 파트너 센터로 여러 회사를 마이그레이션하는 방법에 대한 가이드 | 파트너 센터
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 여러 회사를 PMC에서 파트너 센터로 마이그레이션하고 주 글로벌 계정으로 통합 하는 경우 알아야 할 사항입니다.
+description: PMC에서 파트너 센터로 여러 회사를 마이그레이션하고 파트너 전역 계정으로 통합 하는 경우 알아야 할 사항입니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004692"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171213"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>여러 회사를 파트너 센터로 이동
 
 **적절한 역할**
 -   전역 관리자
 -   사용자 관리자
--   관리자 에이전트
+-   관리 에이전트
 -   영업 에이전트
 
-회사 계정을 PMC에서 파트너 센터로 이동하는 경우 여러 계정이 이동할 수 있습니다. 파트너 센터에서는 이러한 계정이 하나의 글로벌 계정(PGA)으로 통합됩니다. 첫 번째로 이동하는 계정은 기본 글로벌 계정으로 간주되고 모든 후속 계정은 첫 번째 계정에 위치로 통합됩니다. 본사에 대한 PMC 계정을 사용하여 이동을 시작합니다. 자세한 내용을 보려면 [PMC에서 파트너 센터로 마이그레이션 가이드](guide-to-migration.md)를 참조하거나 [다중 위치 계정 간소화](https://vimeo.com/290335248)라는 짧은 비디오를 시청하세요.
+회사 계정을 PMC에서 파트너 센터로 이동하는 경우 여러 계정이 이동할 수 있습니다. 파트너 센터에서는 이러한 계정이 하나의 글로벌 계정(PGA)으로 통합됩니다. 이동 하는 첫 번째 계정은 파트너 전역 계정으로 간주 되 고 모든 후속 계정은 첫 번째 계정에 위치로 통합 됩니다. 본사에 대한 PMC 계정을 사용하여 이동을 시작합니다. 자세한 내용을 보려면 [PMC에서 파트너 센터로 마이그레이션 가이드](guide-to-migration.md)를 참조하거나 [다중 위치 계정 간소화](https://vimeo.com/290335248)라는 짧은 비디오를 시청하세요.
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>파트너 센터로 추가 계정 이동 
 

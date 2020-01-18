@@ -10,20 +10,20 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 제품, 마케팅 지원, 보상, 게시자 혜택
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942898"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171207"
 ---
-# <a name="manage-marketplace-rewards"></a>Marketplace 보상 관리
+# <a name="manage-marketplace-rewards"></a>마켓플레이스 보상 관리
 
 적절 한 역할:
 
 - MPN 파트너 관리자
 - 전역 관리자
-- 관리자 에이전트
+- 관리 에이전트
 
 상용 marketplace에 소프트웨어 제품을 게시 하는 경우 Marketplace 보상은 마케팅, 판매 및 기술 혜택을 포함 하는 모든 제품을 대상으로 하는 지원을 제공 합니다. 
 
@@ -56,7 +56,7 @@ Marketplace 보상 자격은 MPN 회사에 연결 된 모든 게시자 프로필
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>내 대시보드에서 상업적 보상 Marketplace 프로그램이 표시 되지 않는 이유는 무엇 인가요?
 
-Marketplace 보상 정보는 파트너 센터 계정을 만드는 데 사용 된 Azure AD 테 넌 트 및 MPN ID를 통해 사용할 수 있습니다. 이 계정을 회사의 기본 전역 계정 (표준) 이라고 합니다. AAD 테 넌 트가 MPN 온 보 딩에 사용 되는 것과 다른 경우, 상용 보상 마켓플레이스 메뉴를 보려면 회사의 고와 연결 해야 합니다. 
+Marketplace 보상 정보는 파트너 센터 계정을 만드는 데 사용 된 Azure AD 테 넌 트 및 MPN ID를 통해 사용할 수 있습니다. 이 계정을 회사의 파트너 전역 계정 (표준) 이라고 합니다. AAD 테 넌 트가 MPN 온 보 딩에 사용 되는 것과 다른 경우, 상용 보상 마켓플레이스 메뉴를 보려면 회사의 고와 연결 해야 합니다. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Azure AD 테 넌 트를 회사의 고와 연결 하려면
 
