@@ -121,7 +121,7 @@
 ## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
 
-# [CSP 혜택](csp-offers.md)
+# [CSP 혜택](csp-offers.md) 
 ## 상용 마켓플레이스
 ### [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)
 ### [마켓플레이스 제품 검색](csp-commercial-marketplace-discover.md)
@@ -135,7 +135,8 @@
 ### [고객을 대신하여 Microsoft Azure 예약 구입](azure-reservations-buying.md)
 ### [고객을 대신하여 Microsoft Azure 예약 관리](azure-reservations-manage.md)
 ### [Azure Reserved VM Instances(RI) 및 서버 구독](azure-ri-server-subscriptions.md)
-## [Azure 플랜 - 시작](azure-plan-get-started.md)
+## [Azure 플랜](azure-plan-lp.md)
+### [Azure 플랜 - 시작](azure-plan-get-started.md)
 ### [Azure 플랜 구매](purchase-azure-plan.md)
 ### [Azure 제품 비교](compare-azure-offers.md)
 ### [고객을 Azure 플랜으로 전환](azure-plan-transition.md)
