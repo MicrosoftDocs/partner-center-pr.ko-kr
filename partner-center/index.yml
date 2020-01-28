@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: 파트너 센터 설명서
-summary: 파트너 센터는 Microsoft 파트너 네트워크(MPN), 클라우드 솔루션 공급자(CSP) 프로그램 등을 통해 비즈니스를 성장시키도록 도움을 줍니다.
+summary: 파트너 센터는 MPN(Microsoft 파트너 네트워크), CSP(클라우드 솔루션 공급자) 프로그램 등을 통해 비즈니스를 성장시키는 곳입니다.
 brand: windows
 metadata:
   title: 파트너 센터 설명서
-  description: 파트너 센터는 Microsoft 파트너 네트워크(MPN), 클라우드 솔루션 공급자(CSP) 프로그램 등을 통해 비즈니스를 성장시키도록 도움을 줍니다.
+  description: 파트너 센터는 MPN(Microsoft 파트너 네트워크), CSP(클라우드 솔루션 공급자) 프로그램 등을 통해 비즈니스를 성장시키는 곳입니다.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
   ms.topic: hub-page
@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 01/07/2020
-  ms.openlocfilehash: 1eeb71d01af72c4ecd76e632e68ce4739fdbf5cd
-  ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
+  ms.openlocfilehash: b167e61908b30dff2c9531810d465411cd8089d8
+  ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 01/23/2020
-  ms.locfileid: "76549648"
+  ms.lasthandoff: 01/24/2020
+  ms.locfileid: "76723430"
 highlightedContent:
   items:
   - title: 로그인하여 최신 공지 사항을 확인하세요.
@@ -29,9 +29,12 @@ highlightedContent:
   - title: API 및 SDK 얼리어답터 프로그램 참여
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: 상용 Marketplace 개요
+  - title: ISV 제품 판매
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
+  - title: ISV 파트너 - 제품을 만들고 Marketplace, AppSource 및 CSP 재판매인 채널에 게시
+    itemType: whats-new
+    url: https://docs.microsoft.com/en-us/azure/marketplace/
   - title: 파트너 센터 인사이트
     itemType: overview
     url: partner-center-insights.md
