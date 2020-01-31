@@ -9,196 +9,309 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: 29a0f4951cac271d0b74a9a5fc3685c5ffb96b32
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651235"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860491"
 ---
-# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a><span data-ttu-id="fbdc6-104">CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환</span><span class="sxs-lookup"><span data-stu-id="fbdc6-104">Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller</span></span> 
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a><span data-ttu-id="df94f-104">CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환</span><span class="sxs-lookup"><span data-stu-id="df94f-104">Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller</span></span> 
 
-<span data-ttu-id="fbdc6-105">**적용 대상:**</span><span class="sxs-lookup"><span data-stu-id="fbdc6-105">**Applies to:**</span></span>
+<span data-ttu-id="df94f-105">**적용 대상:**</span><span class="sxs-lookup"><span data-stu-id="df94f-105">**Applies to:**</span></span>
 
- - <span data-ttu-id="fbdc6-106">CSP 파트너</span><span class="sxs-lookup"><span data-stu-id="fbdc6-106">CSP partners</span></span>
+ - <span data-ttu-id="df94f-106">CSP 파트너</span><span class="sxs-lookup"><span data-stu-id="df94f-106">CSP partners</span></span>
 
 >[!Note] 
-><span data-ttu-id="fbdc6-107">이 문서는 간접 대리점으로 전환 하기로 결정 한 직접 청구 파트너를 위한 것입니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-107">This article is intended for direct bill partners who have decided to transition to indirect resellers.</span></span> 
+><span data-ttu-id="df94f-107">이 문서는 간접 대리점으로 전환 하기로 결정 한 직접 청구 파트너를 위한 것입니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-107">This article is intended for direct bill partners who have decided to transition to indirect resellers.</span></span> <span data-ttu-id="df94f-108">그러나 간접 재판매인으로 등록 하는 것을 명시적으로 결정 하지 않은 경우에도 CSP 직접 청구 파트너 프로그램의 새 [요구 사항을](direct-partner-new-requirements.md) 충족 하지 않는 직접 청구 파트너는 [직접 청구 기능을 제한할](restricted-direct-bill-capabilities.md)때 Microsoft에서 알려줍니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-108">However, even if you have not made an explicit decision yet to enroll as an indirect reseller, direct bill partners who do not meet the new [requirements](direct-partner-new-requirements.md) for the CSP direct bill partner program will be informed by Microsoft when their [direct bill capabilities will be restricted](restricted-direct-bill-capabilities.md).</span></span> 
 
-<span data-ttu-id="fbdc6-108">기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-108">You will be able to enroll in the indirect reseller program using your existing direct bill tenant.</span></span> 
+<span data-ttu-id="df94f-109">기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-109">You will be able to enroll in the indirect reseller program using your existing direct bill tenant.</span></span> 
 
-## <a name="get-started"></a><span data-ttu-id="fbdc6-109">시작하기</span><span class="sxs-lookup"><span data-stu-id="fbdc6-109">Get started</span></span>
+## <a name="get-started"></a><span data-ttu-id="df94f-110">시작하기</span><span class="sxs-lookup"><span data-stu-id="df94f-110">Get started</span></span>
 
-1. <span data-ttu-id="fbdc6-110">파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-110">Make sure your partner profile in Partner Center and MPN ID are current.</span></span>
+1. <span data-ttu-id="df94f-111">파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-111">Make sure your partner profile in Partner Center and MPN ID are current.</span></span>
 
-2. <span data-ttu-id="fbdc6-111">간접 재판매인으로 전환 하려는 직접 청구 테 넌 트의 전역 관리자로 파트너 센터에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-111">Sign in to Partner Center as the global admin for the direct bill tenant you are transitioning to indirect reseller.</span></span>
+2. <span data-ttu-id="df94f-112">간접 재판매인으로 전환 하려는 직접 청구 테 넌 트의 전역 관리자로 파트너 센터에 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-112">Sign in to Partner Center as the global admin for the direct bill tenant you are transitioning to indirect reseller.</span></span>
 
 ![개요](images/direct/direct1.png) 
 
-3. <span data-ttu-id="fbdc6-113">등록 양식에서 파트너 세부 정보를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-113">Review your partner details on the enrollment form.</span></span>
+3. <span data-ttu-id="df94f-114">등록 양식에서 파트너 세부 정보를 검토 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-114">Review your partner details on the enrollment form.</span></span>
 
 ![지금 등록](images/direct/direct2a.png) 
 
-4. <span data-ttu-id="fbdc6-115">지금 등록을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-115">Select Enroll now.</span></span> <span data-ttu-id="fbdc6-116">간접 재판매인 비즈니스는 직접 비즈니스에 사용 하는 것과 동일한 AAD 테 넌 트를 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-116">Your indirect reseller business will use the same AAD tenant you use for your direct business.</span></span>
+4. <span data-ttu-id="df94f-116">지금 등록을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-116">Select Enroll now.</span></span> <span data-ttu-id="df94f-117">간접 재판매인 비즈니스는 직접 비즈니스에 사용 하는 것과 동일한 AAD 테 넌 트를 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-117">Your indirect reseller business will use the same AAD tenant you use for your direct business.</span></span>
 
 >[!Note]
-><span data-ttu-id="fbdc6-117">처음에는 12 월부터 12 월 까지의 파트너에 게이 새로운 전환 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-117">Initially, this new transition capability will be available for partners with September to December anniversary dates.</span></span> <span data-ttu-id="fbdc6-118">9 월에서 12 월 사이에 기념일을 사용할 수 없는 경우에는 해당 기능이 표시 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-118">If you don"t have an anniversary date between September and December, you won't see the capability at this time.</span></span> <span data-ttu-id="fbdc6-119">12 월 2018 일 이후 기념일 날짜가 있는 파트너는 나중에 파트너에 대해 기능을 사용할 수 있게 되 면 알림이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-119">Partners with anniversary dates after December 2018 will be notified later once the feature is enabled for the partners.</span></span>
+><span data-ttu-id="df94f-118">처음에는 12 월부터 12 월 까지의 파트너에 게이 새로운 전환 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-118">Initially, this new transition capability will be available for partners with September to December anniversary dates.</span></span> <span data-ttu-id="df94f-119">9 월에서 12 월 사이에 기념일을 사용할 수 없는 경우에는 해당 기능이 표시 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-119">If you don"t have an anniversary date between September and December, you won't see the capability at this time.</span></span> <span data-ttu-id="df94f-120">12 월 2018 일 이후 기념일 날짜가 있는 파트너는 나중에 파트너에 대해 기능을 사용할 수 있게 되 면 알림이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-120">Partners with anniversary dates after December 2018 will be notified later once the feature is enabled for the partners.</span></span>
 
 
-5. <span data-ttu-id="fbdc6-120">등록이 승인 되 면 파트너 센터에 다시 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-120">When your enrollment is approved, sign in to Partner Center again.</span></span>
+5. <span data-ttu-id="df94f-121">등록이 승인 되 면 파트너 센터에 다시 로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-121">When your enrollment is approved, sign in to Partner Center again.</span></span>
 
 >[!Note]
-> <span data-ttu-id="fbdc6-121">승인은 일반적으로 즉각적 이지만 최대 5 영업일까지 걸릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-121">While approval is usually immediate, it can take up to five business days.</span></span> <span data-ttu-id="fbdc6-122">승인 되 면 등록 양식에서 기본 연락처 아래에 지정한 전자 메일 주소로 알림을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-122">Once approved, you will receive a notification to the email address you have specified under primary contact in the enrollment form.</span></span> <span data-ttu-id="fbdc6-123">**설정** > **파트너 설정** > **파트너 프로필** > 프로그램 정보에서 등록 상태를 확인할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-123">You can also check your enrollment status under **Settings** > **Partner Settings** > **Partner Profile** > Program info.</span></span> 
+> <span data-ttu-id="df94f-122">승인은 일반적으로 즉각적 이지만 최대 5 영업일까지 걸릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-122">While approval is usually immediate, it can take up to five business days.</span></span> <span data-ttu-id="df94f-123">승인 되 면 등록 양식에서 기본 연락처 아래에 지정한 전자 메일 주소로 알림을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-123">Once approved, you will receive a notification to the email address you have specified under primary contact in the enrollment form.</span></span> <span data-ttu-id="df94f-124">**설정** > **파트너 설정** > **파트너 프로필** > 프로그램 정보에서 등록 상태를 확인할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-124">You can also check your enrollment status under **Settings** > **Partner Settings** > **Partner Profile** > Program info.</span></span> 
 
-6. <span data-ttu-id="fbdc6-124">**개요** 페이지에 간접 재판매인 규약이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-124">On your **Overview** page, you will see the indirect reseller agreement.</span></span> <span data-ttu-id="fbdc6-125">**동의 및 계속**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-125">Select **Accept and continue**.</span></span> <span data-ttu-id="fbdc6-126">이를 통해 간접 재판매인 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-126">This enables the indirect reseller capabilities.</span></span>
+6. <span data-ttu-id="df94f-125">**개요** 페이지에 간접 재판매인 규약이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-125">On your **Overview** page, you will see the indirect reseller agreement.</span></span> <span data-ttu-id="df94f-126">**동의 및 계속**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-126">Select **Accept and continue**.</span></span> <span data-ttu-id="df94f-127">이를 통해 간접 재판매인 기능을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-127">This enables the indirect reseller capabilities.</span></span>
 
-<span data-ttu-id="fbdc6-127">간접 재판매인 규약을 수락한 경우 파트너 프로필은 직접 청구 및 간접 재판매인 **모두** 를 식별 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-127">When you have accepted the indirect reseller agreement, notice that your Partner profile identifies you as **both** a direct bill and indirect reseller.</span></span>
+<span data-ttu-id="df94f-128">간접 재판매인 규약을 수락한 경우 파트너 프로필은 직접 청구 및 간접 재판매인 **모두** 를 식별 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-128">When you have accepted the indirect reseller agreement, notice that your Partner profile identifies you as **both** a direct bill and indirect reseller.</span></span>
 
 ![간접 재판매인 규약](images/direct/direct3.png)
 
 >[!Important] 
-><span data-ttu-id="fbdc6-129">새 기능을 사용 하 여 간접 재판매인로 등록 한 후에는 직접 청구 전용 테 넌 트로 롤백할 수 있는 옵션이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-129">Once you enroll as an indirect reseller using the new capability, there is no option to roll back to a direct bill- only tenant.</span></span> <span data-ttu-id="fbdc6-130">간접 재판매인으로 등록 하려면 먼저 비즈니스 요구 사항을 완전히 평가 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-130">Please make sure that you fully evaluate your business needs before enrolling as an indirect reseller.</span></span>
+><span data-ttu-id="df94f-130">새 기능을 사용 하 여 간접 재판매인로 등록 한 후에는 직접 청구 전용 테 넌 트로 롤백할 수 있는 옵션이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-130">Once you enroll as an indirect reseller using the new capability, there is no option to roll back to a direct bill- only tenant.</span></span> <span data-ttu-id="df94f-131">간접 재판매인으로 등록 하려면 먼저 비즈니스 요구 사항을 완전히 평가 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-131">Please make sure that you fully evaluate your business needs before enrolling as an indirect reseller.</span></span>
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a><span data-ttu-id="fbdc6-131">직접에서 간접 재판매인으로 전환 하는 동안</span><span class="sxs-lookup"><span data-stu-id="fbdc6-131">While you transition from direct to indirect reseller</span></span>
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a><span data-ttu-id="df94f-132">직접에서 간접 재판매인으로 전환 하는 동안</span><span class="sxs-lookup"><span data-stu-id="df94f-132">While you transition from direct to indirect reseller</span></span>
 
-<span data-ttu-id="fbdc6-132">이 단계에서 청구 프로세스를 포함 하 여 직접 고객의 구독 요구 사항을 계속 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-132">During this phase you will continue to manage your direct customers' subscription needs including the billing process.</span></span> <span data-ttu-id="fbdc6-133">간접 공급자에서 고객을 수락 하 고 간접 재판매인으로 작동할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-133">You can also begin accepting customers from your Indirect provider and operating as an indirect reseller.</span></span>
+<span data-ttu-id="df94f-133">이 단계에서 청구 프로세스를 포함 하 여 직접 고객의 구독 요구 사항을 계속 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-133">During this phase you will continue to manage your direct customers' subscription needs including the billing process.</span></span> <span data-ttu-id="df94f-134">간접 공급자에서 고객을 수락 하 고 간접 재판매인으로 작동할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-134">You can also begin accepting customers from your Indirect provider and operating as an indirect reseller.</span></span>
 
 ![직접 청구 및 간접 재판매인 모두](images/direct/direct4.png)
 
-## <a name="find-an-indirect-provider"></a><span data-ttu-id="fbdc6-135">간접 공급자 찾기</span><span class="sxs-lookup"><span data-stu-id="fbdc6-135">Find an indirect provider</span></span>
+## <a name="find-an-indirect-provider"></a><span data-ttu-id="df94f-136">간접 공급자 찾기</span><span class="sxs-lookup"><span data-stu-id="df94f-136">Find an indirect provider</span></span>
 
-<span data-ttu-id="fbdc6-136">등록 후 간접 공급자에 대 한 링크가 왼쪽 탐색 창에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-136">After enrolling, a link to Indirect providers will appear in your left nav.</span></span> <span data-ttu-id="fbdc6-137">간접 재판매인은 대금 청구를 처리 하 고, 고객을 위한 제품을 구매 하 고, 인프라를 지원할 수 있는 간접 공급자와의 관계를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-137">As an indirect reseller you will establish a relationship with an indirect provider who then can handle your billing, purchase products for your customers, and support infrastructure.</span></span>
+<span data-ttu-id="df94f-137">등록 후 간접 공급자에 대 한 링크가 왼쪽 탐색 창에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-137">After enrolling, a link to Indirect providers will appear in your left nav.</span></span> <span data-ttu-id="df94f-138">간접 재판매인은 대금 청구를 처리 하 고, 고객을 위한 제품을 구매 하 고, 인프라를 지원할 수 있는 간접 공급자와의 관계를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-138">As an indirect reseller you will establish a relationship with an indirect provider who then can handle your billing, purchase products for your customers, and support infrastructure.</span></span>
 
-<span data-ttu-id="fbdc6-138">다양한 간접 공급자가 다양한 지원과 서비스를 제공하므로 간접 재판매인은 해당 지역의 공급자를 평가하여 요구 사항을 가장 잘 만족하는 공급자를 선정하면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-138">Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs.</span></span> <span data-ttu-id="fbdc6-139">일반적으로 대부분 공급자는 다음과 같은 일을 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-139">Generally, most providers will:</span></span> 
+<span data-ttu-id="df94f-139">다양한 간접 공급자가 다양한 지원과 서비스를 제공하므로 간접 재판매인은 해당 지역의 공급자를 평가하여 요구 사항을 가장 잘 만족하는 공급자를 선정하면 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-139">Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs.</span></span> <span data-ttu-id="df94f-140">일반적으로 대부분 공급자는 다음과 같은 일을 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-140">Generally, most providers will:</span></span> 
 
-- <span data-ttu-id="fbdc6-140">간접 재판매인에게 기술 지원 제공</span><span class="sxs-lookup"><span data-stu-id="fbdc6-140">Provide you with technical training and assistance</span></span>
-- <span data-ttu-id="fbdc6-141">제품 및 서비스 마케팅 지원</span><span class="sxs-lookup"><span data-stu-id="fbdc6-141">Help you market your products and services</span></span> 
-- <span data-ttu-id="fbdc6-142">금융 및 신용 사용 약관 관리</span><span class="sxs-lookup"><span data-stu-id="fbdc6-142">Manage your financing and credit terms</span></span> 
+- <span data-ttu-id="df94f-141">간접 재판매인에게 기술 지원 제공</span><span class="sxs-lookup"><span data-stu-id="df94f-141">Provide you with technical training and assistance</span></span>
+- <span data-ttu-id="df94f-142">제품 및 서비스 마케팅 지원</span><span class="sxs-lookup"><span data-stu-id="df94f-142">Help you market your products and services</span></span> 
+- <span data-ttu-id="df94f-143">금융 및 신용 사용 약관 관리</span><span class="sxs-lookup"><span data-stu-id="df94f-143">Manage your financing and credit terms</span></span> 
 
-<span data-ttu-id="fbdc6-143">공식 [Microsoft 간접 공급자](https://partnercenter.microsoft.com/partner/find-a-provider)목록을 검색 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-143">Search the list of official [Microsoft indirect providers](https://partnercenter.microsoft.com/partner/find-a-provider).</span></span>
+<span data-ttu-id="df94f-144">공식 [Microsoft 간접 공급자](https://partnercenter.microsoft.com/partner/find-a-provider)목록을 검색 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-144">Search the list of official [Microsoft indirect providers](https://partnercenter.microsoft.com/partner/find-a-provider).</span></span>
 
-<span data-ttu-id="fbdc6-144">자세한 정보, [간접 공급자가 있는 파트너](indirect-reseller-tasks-in-partner-center.md) 읽기</span><span class="sxs-lookup"><span data-stu-id="fbdc6-144">Learn more, read  [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+<span data-ttu-id="df94f-145">자세한 정보, [간접 공급자가 있는 파트너](indirect-reseller-tasks-in-partner-center.md) 읽기</span><span class="sxs-lookup"><span data-stu-id="df94f-145">Learn more, read  [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a><span data-ttu-id="fbdc6-145">간접 공급자의 파트너 관계 초대 수락</span><span class="sxs-lookup"><span data-stu-id="fbdc6-145">Accept a partnership invitation from your indirect provider</span></span>
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a><span data-ttu-id="df94f-146">간접 공급자의 파트너 관계 초대 수락</span><span class="sxs-lookup"><span data-stu-id="df94f-146">Accept a partnership invitation from your indirect provider</span></span>
 
-<span data-ttu-id="fbdc6-146">파트너와 협력 하는 간접 공급자를 찾았으면 파트너 센터에서 간접 공급자와 파트너 관계를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-146">When you find an indirect provider to partner with, establish a partnership with the indirect provider in Partner Center.</span></span>
+<span data-ttu-id="df94f-147">파트너와 협력 하는 간접 공급자를 찾았으면 파트너 센터에서 간접 공급자와 파트너 관계를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-147">When you find an indirect provider to partner with, establish a partnership with the indirect provider in Partner Center.</span></span>
 
-<span data-ttu-id="fbdc6-147">선택한 간접 공급자는 파트너 센터의 초대로 이동 하는 파트너 관계 초대 링크를 전자 메일로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-147">The indirect provider you select will send you in email a partnership invitation link that will take you to their invitation in Partner Center.</span></span> <span data-ttu-id="fbdc6-148">전역 관리자가 파트너 센터에 로그인 하 고 초대 링크를 따르는지를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-148">Be sure your global admin signs in to Partner Center and follows the invitation link.</span></span> <span data-ttu-id="fbdc6-149">초대를 수락 하면 해당 공급자의 이름이 간접 공급자 목록에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-149">When you accept the invitation, the provider's name will appear in your indirect provider list.</span></span>
+<span data-ttu-id="df94f-148">선택한 간접 공급자는 파트너 센터의 초대로 이동 하는 파트너 관계 초대 링크를 전자 메일로 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-148">The indirect provider you select will send you in email a partnership invitation link that will take you to their invitation in Partner Center.</span></span> <span data-ttu-id="df94f-149">전역 관리자가 파트너 센터에 로그인 하 고 초대 링크를 따르는지를 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-149">Be sure your global admin signs in to Partner Center and follows the invitation link.</span></span> <span data-ttu-id="df94f-150">초대를 수락 하면 해당 공급자의 이름이 간접 공급자 목록에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-150">When you accept the invitation, the provider's name will appear in your indirect provider list.</span></span>
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a><span data-ttu-id="fbdc6-150">새 고객을 간접 재판매인으로 획득</span><span class="sxs-lookup"><span data-stu-id="fbdc6-150">Acquire new customers as indirect reseller</span></span>
+## <a name="acquire-new-customers-as-indirect-reseller"></a><span data-ttu-id="df94f-151">새 고객을 간접 재판매인으로 획득</span><span class="sxs-lookup"><span data-stu-id="df94f-151">Acquire new customers as indirect reseller</span></span>
 
-<span data-ttu-id="fbdc6-151">사용자와 사용자의 간접 공급자는 모두 재판매인과 고객과의 관계를가지고 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-151">Both you and your indirect provider need to have reseller relationships with customers.</span></span> <span data-ttu-id="fbdc6-152">사용자를 대신 하 여 고객의 구독과 서비스를 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-152">This enables you to manage a customer's subscriptions and services on their behalf.</span></span> <span data-ttu-id="fbdc6-153">기존 Azure AD 테 넌 트를 보유 한 새 고객을 확보 하기 위해 고객에 게 초대 하 여 사용자와 공급자 모두와 동시에 재판매인 관계를 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-153">To acquire a new customer who has an existing Azure AD tenant, you can invite the customer to establish a reseller relationship with both you and your provider at the same time.</span></span> 
+<span data-ttu-id="df94f-152">사용자와 사용자의 간접 공급자는 모두 재판매인과 고객과의 관계를가지고 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-152">Both you and your indirect provider need to have reseller relationships with customers.</span></span> <span data-ttu-id="df94f-153">사용자를 대신 하 여 고객의 구독과 서비스를 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-153">This enables you to manage a customer's subscriptions and services on their behalf.</span></span> <span data-ttu-id="df94f-154">기존 Azure AD 테 넌 트를 보유 한 새 고객을 확보 하기 위해 고객에 게 초대 하 여 사용자와 공급자 모두와 동시에 재판매인 관계를 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-154">To acquire a new customer who has an existing Azure AD tenant, you can invite the customer to establish a reseller relationship with both you and your provider at the same time.</span></span> 
 
-<span data-ttu-id="fbdc6-154">간접 재판매인 초대를 만들려면:</span><span class="sxs-lookup"><span data-stu-id="fbdc6-154">To create an indirect reseller invitation:</span></span>
+<span data-ttu-id="df94f-155">간접 재판매인 초대를 만들려면:</span><span class="sxs-lookup"><span data-stu-id="df94f-155">To create an indirect reseller invitation:</span></span>
 
-1. <span data-ttu-id="fbdc6-155">파트너 센터 왼쪽 탐색에서 **간접 공급자** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-155">Select **Indirect providers** from your Partner Center left nav.</span></span> 
+1. <span data-ttu-id="df94f-156">파트너 센터 왼쪽 탐색에서 **간접 공급자** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-156">Select **Indirect providers** from your Partner Center left nav.</span></span> 
 
-2. <span data-ttu-id="fbdc6-156">**새 고객 초대**를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-156">Select **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="fbdc6-157">공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-157">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span>
+2. <span data-ttu-id="df94f-157">**새 고객 초대**를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-157">Select **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="df94f-158">공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-158">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span>
 
-3. <span data-ttu-id="fbdc6-158">다음 페이지에서 임시 이메일 메시지를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-158">On the next page, review the draft email message.</span></span> <span data-ttu-id="fbdc6-159">전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-159">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span>
+3. <span data-ttu-id="df94f-159">다음 페이지에서 임시 이메일 메시지를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-159">On the next page, review the draft email message.</span></span> <span data-ttu-id="df94f-160">전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-160">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span>
 
-4. <span data-ttu-id="fbdc6-160">전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-160">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="fbdc6-161">그런 다음 **완료**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-161">Then select **Done**.</span></span>
+4. <span data-ttu-id="df94f-161">전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-161">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="df94f-162">그런 다음 **완료**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-162">Then select **Done**.</span></span>
 
-5. <span data-ttu-id="fbdc6-162">고객이 귀하와 귀하의 공급자를 자신의 대리점으로 인증 하 고 나면 사용자를 대신 하 여 구독, 라이선스 및 사용자를 관리 하는 관리자 권한이 있으며 간접 공급자는 주문을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-162">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
-6. <span data-ttu-id="fbdc6-163">고객의 계정, 서비스, 사용자 및 라이선스를 관리 하려면 해당 이름 옆에 있는 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-163">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span> 
+5. <span data-ttu-id="df94f-163">고객이 귀사와 공급자를 공식 재판매인으로 승인하면 귀사에는 고객을 대신하여 고객의 구독, 라이선스 및 사용자를 관리할 관리자 권한이 부여되고 간접 공급자는 고객을 대신하여 주문을 제출할 수 있게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-163">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
+6. <span data-ttu-id="df94f-164">고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-164">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span> 
 
-<span data-ttu-id="fbdc6-164">직접 청구 파트너와 달리 간접 재판매인은 파트너 센터에서 새 고객을 위해 Azure AD 테 넌 트를 만들 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-164">Unlike direct bill partners, indirect resellers can't create Azure AD tenants for their new customers in Partner Center.</span></span> <span data-ttu-id="fbdc6-165">공급자는 테 넌 트를 만들고이 고객에 대 한 간접 재판매인으로 지정 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-165">Your provider will create the tenant and will specify you as the indirect reseller for this customer.</span></span> <span data-ttu-id="fbdc6-166">이렇게 하면 고객이 파트너 센터의 고객 목록에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-166">This ensures that the customer will appear in your customer list in Partner Center.</span></span>
+<span data-ttu-id="df94f-165">직접 청구 파트너와 달리 간접 재판매인은 파트너 센터에서 새 고객을 위해 Azure AD 테 넌 트를 만들 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-165">Unlike direct bill partners, indirect resellers can't create Azure AD tenants for their new customers in Partner Center.</span></span> <span data-ttu-id="df94f-166">공급자는 테 넌 트를 만들고이 고객에 대 한 간접 재판매인으로 지정 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-166">Your provider will create the tenant and will specify you as the indirect reseller for this customer.</span></span> <span data-ttu-id="df94f-167">이렇게 하면 고객이 파트너 센터의 고객 목록에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-167">This ensures that the customer will appear in your customer list in Partner Center.</span></span>
 
 >[!Note]
-><span data-ttu-id="fbdc6-167">직접 청구 기능을 사용 하 여 간접 재판매인으로 얻은 고객에 대 한 구매를 만들 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-167">You will not be able to use your direct bill capability to create purchases for customers you acquire as an indirect reseller.</span></span>
+><span data-ttu-id="df94f-168">직접 청구 기능을 사용 하 여 간접 재판매인으로 얻은 고객에 대 한 구매를 만들 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-168">You will not be able to use your direct bill capability to create purchases for customers you acquire as an indirect reseller.</span></span>
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a><span data-ttu-id="fbdc6-168">직접 청구 고객을 간접 공급자로 이동</span><span class="sxs-lookup"><span data-stu-id="fbdc6-168">Move your direct bill customers to your indirect provider</span></span>
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a><span data-ttu-id="df94f-169">직접 청구 고객 및 간접 재판매인 고객 관리</span><span class="sxs-lookup"><span data-stu-id="df94f-169">Managing your direct bill customers and your indirect reseller customers</span></span>
 
-<span data-ttu-id="fbdc6-169">간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문을 제출할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-169">Your indirect provider can't submit orders for your existing direct bill customers until they have a reseller relationship with them.</span></span> <span data-ttu-id="fbdc6-170">기존 고객과 간접 공급자 간의 재판매인 관계를 설정 하려면 간접 재판매인 초대를 사용 하 여 고객을 초대 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-170">To establish the reseller relationship between your existing customers and your indirect provider, invite the customer using an indirect reseller invitation.</span></span> 
+<span data-ttu-id="df94f-170">직접 청구 고객 및 간접 재판매인 고객을 다르게 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-170">You manage your direct bill customers and your indirect reseller customers differently.</span></span> 
 
-1. <span data-ttu-id="fbdc6-171">파트너 센터 왼쪽 탐색에서 **간접 공급자** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-171">Select **Indirect providers** from your Partner Center left nav.</span></span>
+<span data-ttu-id="df94f-171">**직접 청구 고객 (간접 재판매인으로 수행 하지 않는 작업)**</span><span class="sxs-lookup"><span data-stu-id="df94f-171">**Direct bill customers (things you won't do as an indirect reseller)**</span></span>
 
-2. <span data-ttu-id="fbdc6-172">**새 고객 초대** 를 선택 하 여 고객을 초대 하 고 사용자와 간접 공급자 모두와 함께 대리점 관계를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-172">Select **Invite new customers**  to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="fbdc6-173">공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-173">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span>
+- <span data-ttu-id="df94f-172">제품에 대 한 주문 만들기</span><span class="sxs-lookup"><span data-stu-id="df94f-172">Create orders for products</span></span>
+- <span data-ttu-id="df94f-173">Azure 예약 관리</span><span class="sxs-lookup"><span data-stu-id="df94f-173">Manage Azure reservations</span></span>
+- <span data-ttu-id="df94f-174">주문 기록 관리</span><span class="sxs-lookup"><span data-stu-id="df94f-174">Manage their order history</span></span>
+- <span data-ttu-id="df94f-175">소프트웨어 구입</span><span class="sxs-lookup"><span data-stu-id="df94f-175">Purchase software</span></span>
+- <span data-ttu-id="df94f-176">고객에 게 직접 청구</span><span class="sxs-lookup"><span data-stu-id="df94f-176">Bill customers directly</span></span>
 
-3. <span data-ttu-id="fbdc6-174">다음 페이지에서 임시 이메일 메시지를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-174">On the next page, review the draft email message.</span></span> <span data-ttu-id="fbdc6-175">전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-175">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span> 
+<span data-ttu-id="df94f-177">**간접 재판매인 고객**</span><span class="sxs-lookup"><span data-stu-id="df94f-177">**Indirect reseller customers**</span></span>
 
-4. <span data-ttu-id="fbdc6-176">전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-176">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="fbdc6-177">그런 다음 **완료**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-177">Then select **Done**.</span></span>  
+- <span data-ttu-id="df94f-178">고객을 위한 간접 공급자 주문 제품</span><span class="sxs-lookup"><span data-stu-id="df94f-178">Your indirect provider orders products for your customers</span></span>
+- <span data-ttu-id="df94f-179">고객의 라이선스 및 사용자 관리</span><span class="sxs-lookup"><span data-stu-id="df94f-179">Manage customers' licenses and users</span></span>
+- <span data-ttu-id="df94f-180">구독 갱신 처리</span><span class="sxs-lookup"><span data-stu-id="df94f-180">Handle subscription renewals</span></span>
 
-5. <span data-ttu-id="fbdc6-178">고객이 귀하와 귀하의 공급자를 자신의 대리점으로 인증 하 고 나면 사용자를 대신 하 여 구독, 라이선스 및 사용자를 관리 하는 관리자 권한이 있으며 간접 공급자는 주문을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-178">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
+<span data-ttu-id="df94f-181">**직접 청구 파트너로 구매한 고객을 확인 하려면**</span><span class="sxs-lookup"><span data-stu-id="df94f-181">**To identify customers that you acquired as a direct bill partner**</span></span>
 
-6. <span data-ttu-id="fbdc6-179">고객의 계정, 서비스, 사용자 및 라이선스를 관리 하려면 해당 이름 옆에 있는 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-179">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span>
+1. <span data-ttu-id="df94f-182">**고객** 선택</span><span class="sxs-lookup"><span data-stu-id="df94f-182">Select **Customers**</span></span>
 
+2. <span data-ttu-id="df94f-183">세부 정보를 볼 고객 선택</span><span class="sxs-lookup"><span data-stu-id="df94f-183">Select a customer to view their details</span></span>
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a><span data-ttu-id="fbdc6-180">직접 청구 고객 및 간접 재판매인 고객 관리</span><span class="sxs-lookup"><span data-stu-id="fbdc6-180">Managing your direct bill customers and your indirect reseller customers</span></span>
+3. <span data-ttu-id="df94f-184">이 고객이 직접 청구 파트너로 구매한 경우 제품을 **추가** 하거나 **볼** 수 있는 옵션이 표시 되 고 해당 구독이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-184">If this customer is one you acquired as a direct bill partner, you will see options to **add** or **view products** and you will see their subscriptions.</span></span>
 
-<span data-ttu-id="fbdc6-181">직접 청구 고객 및 간접 재판매인 고객을 다르게 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-181">You manage your direct bill customers and your indirect reseller customers differently.</span></span> 
+4. <span data-ttu-id="df94f-185">고객에 게 간접 대리점 관계가 있는 경우 해당 옵션을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-185">If the customer has an indirect reseller relationship with you, those options will not be available.</span></span>
 
-<span data-ttu-id="fbdc6-182">**직접 청구 고객 (간접 재판매인으로 수행 하지 않는 작업)**</span><span class="sxs-lookup"><span data-stu-id="fbdc6-182">**Direct bill customers (things you won't do as an indirect reseller)**</span></span>
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a><span data-ttu-id="df94f-186">직접 청구 고객을 간접 공급자로 이동</span><span class="sxs-lookup"><span data-stu-id="df94f-186">Move your direct bill customers to your indirect provider</span></span>
 
-- <span data-ttu-id="fbdc6-183">제품에 대 한 주문 만들기</span><span class="sxs-lookup"><span data-stu-id="fbdc6-183">Create orders for products</span></span>
-- <span data-ttu-id="fbdc6-184">Azure 예약 관리</span><span class="sxs-lookup"><span data-stu-id="fbdc6-184">Manage Azure reservations</span></span>
-- <span data-ttu-id="fbdc6-185">주문 기록 관리</span><span class="sxs-lookup"><span data-stu-id="fbdc6-185">Manage their order history</span></span>
-- <span data-ttu-id="fbdc6-186">소프트웨어 구입</span><span class="sxs-lookup"><span data-stu-id="fbdc6-186">Purchase software</span></span>
-- <span data-ttu-id="fbdc6-187">고객에 게 직접 청구</span><span class="sxs-lookup"><span data-stu-id="fbdc6-187">Bill customers directly</span></span>
+<span data-ttu-id="df94f-187">간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문 또는 기존 구독 전송을 제출할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-187">Your indirect provider can not submit orders or existing subscription transfers for your existing direct bill customers until they have a reseller relationship with them.</span></span> <span data-ttu-id="df94f-188">간접 공급자와 기존 간접 공급자 간에 재판매인 관계를 설정 하려면 다음 방법 중 하나를 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-188">To establish the reseller relationship between your indirect provider and your existing indirect provider, you can use one of the following methods:</span></span> 
 
-<span data-ttu-id="fbdc6-188">**간접 재판매인 고객**</span><span class="sxs-lookup"><span data-stu-id="fbdc6-188">**Indirect reseller customers**</span></span>
+- [<span data-ttu-id="df94f-189">대리점 관계 확장</span><span class="sxs-lookup"><span data-stu-id="df94f-189">Reseller relationship extension</span></span>](#reseller-relationship-extension) 
 
-- <span data-ttu-id="fbdc6-189">고객을 위한 간접 공급자 주문 제품</span><span class="sxs-lookup"><span data-stu-id="fbdc6-189">Your indirect provider orders products for your customers</span></span>
-- <span data-ttu-id="fbdc6-190">고객의 라이선스 및 사용자 관리</span><span class="sxs-lookup"><span data-stu-id="fbdc6-190">Manage customers' licenses and users</span></span>
-- <span data-ttu-id="fbdc6-191">구독 갱신 처리</span><span class="sxs-lookup"><span data-stu-id="fbdc6-191">Handle subscription renewals</span></span>
+- [<span data-ttu-id="df94f-190">간접 재판매인 초대를 고객에 게 보내기</span><span class="sxs-lookup"><span data-stu-id="df94f-190">Send an indirect reseller invitation to the customer</span></span>](#send-an-indirect-reseller-invitation-to-the-customer)
 
-<span data-ttu-id="fbdc6-192">**직접 청구 파트너로 구매한 고객을 확인 하려면**</span><span class="sxs-lookup"><span data-stu-id="fbdc6-192">**To identify customers that you acquired as a direct bill partner**</span></span>
+### <a name="reseller-relationship-extension"></a><span data-ttu-id="df94f-191">대리점 관계 확장</span><span class="sxs-lookup"><span data-stu-id="df94f-191">Reseller relationship extension</span></span>
 
-1. <span data-ttu-id="fbdc6-193">**고객** 선택</span><span class="sxs-lookup"><span data-stu-id="fbdc6-193">Select **Customers**</span></span>
+<span data-ttu-id="df94f-192">대리점 관계 확장 기능을 사용 하 여 파트너 센터 대시보드를 사용 하 여 기존 직접 청구 고객 및 간접 공급자 간에 재판매인 관계를 설정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-192">You can use the reseller relationship extension feature to establish reseller relationship between your existing direct bill customers and your indirect provider using Partner Center Dashboard.</span></span> <span data-ttu-id="df94f-193">기능을 사용 하기 전에 다음에 유의 하십시오.</span><span class="sxs-lookup"><span data-stu-id="df94f-193">Before using the feature, note the following:</span></span> 
 
-2. <span data-ttu-id="fbdc6-194">세부 정보를 볼 고객 선택</span><span class="sxs-lookup"><span data-stu-id="fbdc6-194">Select a customer to view their details</span></span>
+- <span data-ttu-id="df94f-194">이 기능은 간접 재판매인이 간접 재판매인 [등록](#get-started)을 완료 하는 것으로 전환 중인 직접 청구 파트너 에게만 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-194">This feature is only available to direct bill partner who are transitioning to become an indirect reseller have completed the [indirect reseller enrollment](#get-started).</span></span> 
 
-3. <span data-ttu-id="fbdc6-195">이 고객이 직접 청구 파트너로 구매한 경우 제품을 **추가** 하거나 **볼** 수 있는 옵션이 표시 되 고 해당 구독이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-195">If this customer is one you acquired as a direct bill partner, you will see options to **add** or **view products** and you will see their subscriptions.</span></span>
+- <span data-ttu-id="df94f-195">기존 직접 청구 고객 에게만이 기능을 적용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-195">You can only apply this feature to existing direct bill customers.</span></span> <span data-ttu-id="df94f-196">[간접 재판매인 고객](#acquire-new-customers-as-indirect-reseller)에 게는 적용 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-196">It is not applicable to [indirect reseller customers](#acquire-new-customers-as-indirect-reseller).</span></span> 
 
-4. <span data-ttu-id="fbdc6-196">고객에 게 간접 대리점 관계가 있는 경우 해당 옵션을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-196">If the customer has an indirect reseller relationship with you, those options will not be available.</span></span>
+- <span data-ttu-id="df94f-197">[간접 공급자의 파트너 초대를 수락한](#accept-a-partnership-invitation-from-your-indirect-provider)간접 공급자만 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-197">You can only select an indirect provider for which you have [accepted a partner invitation from your indirect provider](#accept-a-partnership-invitation-from-your-indirect-provider).</span></span> 
 
-## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a><span data-ttu-id="fbdc6-197">직접 청구 기능이 제한 되 면 어떻게 되나요?</span><span class="sxs-lookup"><span data-stu-id="fbdc6-197">What happens when your direct bill capabilities have been restricted</span></span>
-
-<span data-ttu-id="fbdc6-198">간접 재판매인으로 전환 하기로 결정 했 고 이중 등록을 직접 청구 및 간접 재판매인 모두 포함 하 고 있는지 여부에 관계 없이 새 요구 사항을 충족 하지 않는 직접 청구 파트너와 간접 대리점으로 등록 하기 위한 명시적인 결정을 내렸습니다. CSP 다이렉트 청구 파트너 프로그램은 직접 청구 기능을 제한할 때 Microsoft에서 알려줍니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-198">Whether you have decided to transition to indirect reseller and have a dual enrollment as both direct bill and indirect reseller, or you have not made an explicit decision yet to enroll as an indirect reseller, direct bill partners who do not meet the new requirements for the CSP direct bill partner program will be informed by Microsoft when their direct bill capabilities will be restricted.</span></span> 
-
-<span data-ttu-id="fbdc6-199">**프로그램 정보** 에서 **파트너 프로필** 의 Microsoft 클라우드 솔루션 공급자 상태가 **제한**됨으로 변경 된 것을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-199">In your **Partner profile** under **Program info** you will see that your Microsoft Cloud Solution Provider status has changed to **restricted**.</span></span>
-
-## <a name="affected-direct-bill-capabilities"></a><span data-ttu-id="fbdc6-200">영향을 받는 직접 청구 기능</span><span class="sxs-lookup"><span data-stu-id="fbdc6-200">Affected direct bill capabilities</span></span>
-
-<span data-ttu-id="fbdc6-201">직접 청구 기능이 제한 된 경우 더 이상 파트너 센터에서 고객에 대 한 새로운 구매를 수행할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-201">When your direct bill capabilities have been restricted, you can no longer make new purchases for your customers in Partner Center.</span></span> <span data-ttu-id="fbdc6-202">여기에는 다음이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-202">This includes:</span></span> 
-
-- <span data-ttu-id="fbdc6-203">Azure 구독</span><span class="sxs-lookup"><span data-stu-id="fbdc6-203">Azure subscriptions</span></span>
-- <span data-ttu-id="fbdc6-204">라이선스 기반 구독</span><span class="sxs-lookup"><span data-stu-id="fbdc6-204">License-based subscriptions</span></span>
-- <span data-ttu-id="fbdc6-205">기존 라이선스 기반 구독에 새 추가 기능 추가</span><span class="sxs-lookup"><span data-stu-id="fbdc6-205">Adding new add-ons to existing license-based subscriptions</span></span>
-- <span data-ttu-id="fbdc6-206">소프트웨어 구독, 영구 소프트웨어, Azure Reserved Virtual Machine 인스턴스와 같은 소프트웨어 및 예약 제품의 일회성 구매</span><span class="sxs-lookup"><span data-stu-id="fbdc6-206">Making one-time purchases of software and reservation products such as software subscriptions, perpetual software, and Azure Reserved Virtual Machine instances.</span></span>
-
-<span data-ttu-id="fbdc6-207">CSP 프로그램 아래에서 Azure partner shared services 제품을 사용 하 여 사용자의 고유한 용도에 대 한 새 Azure 구독을 구매할 수도 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-207">You also cannot purchase new Azure subscriptions for your own use using the Azure partner shared services offer under the CSP program.</span></span> 
-
-<span data-ttu-id="fbdc6-208">새 구매 외에도 파트너 센터에서 다음과 같은 직접 청구 기능에 액세스할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-208">In addition to new purchases, you cannot access the following direct bill capabilities in Partner Center:</span></span> 
-- <span data-ttu-id="fbdc6-209">새 고객 테 넌 트를 만들 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-209">You can't create new customer tenants.</span></span> <span data-ttu-id="fbdc6-210">파트너 센터의 **고객** 아래에서 **고객 만들기** 옵션을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-210">The **Create customer** option under **Customers** in Partner Center will not be available.</span></span> 
-
-- <span data-ttu-id="fbdc6-211">직접 재판매인 관계를 요청 하는 고객에 게 초대를 생성할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-211">You can't generate invitations to customers requesting a direct reseller relationship.</span></span> <span data-ttu-id="fbdc6-212">파트너 센터의 **고객** 에서 **대리점 관계 요청** 옵션을 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-212">The **Request a reseller relationship** option under **Customers** in Partner Center will not be available.</span></span> 
+- <span data-ttu-id="df94f-198">이 고객에 대 한 청구 정보의 복사본은 간접 공급자가 사용할 수 있게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-198">A copy of the bill-to info you have for this customer will be made available to the indirect provider.</span></span> <span data-ttu-id="df94f-199">파트너 센터 대시보드에서이 고객의 계정 페이지에 액세스 하 여 청구 정보에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-199">You can access the bill-to info by accessing the Account page for this customer in Partner Center Dashboard.</span></span> 
 
 >[!Note] 
-><span data-ttu-id="fbdc6-213">직접 청구 파트너 테 넌 트를 간접 재판매인으로 이미 등록 한 경우 직접 청구 대신 간접 재판매인 관계를 요청 하는 고객에 게 초대를 보낼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-213">If you have already enrolled your direct bill partner tenant as indirect reseller, you are able to send invitations to customers requesting an indirect reseller relationship instead of direct bill.</span></span> 
+><span data-ttu-id="df94f-200">재판매인 관계 확장 기능을 사용 하 여이 고객에 대 한 청구 정보를 간접 공급자와 공유 하는 데 동의 하는 것입니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-200">By using the reseller relationship extension feature, you consent to sharing the bill-to info you have for this customer with the indirect provider.</span></span>
 
-- <span data-ttu-id="fbdc6-214">새 샌드박스 테 넌 트를 만들 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-214">You can't create a new sandbox tenant.</span></span> <span data-ttu-id="fbdc6-215">각 직접 청구 파트너 테 넌 트는 직접 청구 API 통합을 위해 하나의 샌드박스 테 넌 트를 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-215">Each direct bill partner tenant can create one sandbox tenant for the purpose of direct bill API integration.</span></span> <span data-ttu-id="fbdc6-216">이전에 만든 적이 없는 경우 청구서 파트너 기능이 제한 된 후에는이 작업을 수행할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-216">If you haven't created one previously, you will not be allowed to do so after you direct bill partner capability has been restricted.</span></span> 
+- <span data-ttu-id="df94f-201">간접 공급자는 고객 테 넌 트에 [위임 된 관리 권한이](customers_revoke_admin_privileges.md) 제공 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-201">Your indirect provider will not be provided with [delegated administration privileges](customers_revoke_admin_privileges.md) to the customer tenant.</span></span> <span data-ttu-id="df94f-202">간접 공급자에 게 위임 된 관리 권한이 필요한 경우 대신 간접 재판매인 초대를 고객에 게 보내야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-202">If your indirect provider requires delegated administration privileges, you must send an indirect reseller invitation to the customer instead.</span></span>
 
-## <a name="whats-not-affected"></a><span data-ttu-id="fbdc6-217">영향을 받지 않는 사항</span><span class="sxs-lookup"><span data-stu-id="fbdc6-217">What's not affected</span></span>
+- <span data-ttu-id="df94f-203">대리점 관계가 설정 되 면 간접 공급자는 M365 관리 센터의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-203">Once the reseller relationship is established, the indirect provider will appear as a CSP partner to the customer under the Partner Relationships page in M365 Admin Center and [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).</span></span>
 
-<span data-ttu-id="fbdc6-218">기존 직접 청구 구독은 영향을 받지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-218">Existing direct bill subscriptions are not affected.</span></span> <span data-ttu-id="fbdc6-219">이는 유효한 상태로 유지 되 고 자동 갱신 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-219">They remain valid and are auto-renewed.</span></span> <span data-ttu-id="fbdc6-220">사용자가 취소할 때까지 Microsoft에서 직접 계속 청구 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-220">You will continue to be billed directly by Microsoft until you cancel them.</span></span> 
+>[!Note] 
+><span data-ttu-id="df94f-204">혼동 및 있다면 오해을 방지 하기 위해 관계 확장 기능을 사용 하 여 기존에 있는 파트너와의 제휴 관계를 설정 하기 전에 직접 청구 고객 으로부터 동의 하 고 동의 하는 계약상 의무 없지만. 청구 고객 및 간접 공급자를 직접 지원 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-204">To avoid confusion and misunderstanding, you are contractually obliged by your partner agreement to inform and obtain consent from the direct bill customer before you use the relationship extension feature to establish reseller relationship between an existing direct bill customer and an indirect provider.</span></span> 
 
-<span data-ttu-id="fbdc6-221">다음과 같은 방법으로 기존 구독을 계속 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-221">Continue to manage existing subscriptions in the following ways:</span></span> 
+<span data-ttu-id="df94f-205">기존 고객 테 넌 트에서이 기능을 사용 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-205">To use this feature on an existing customer tenant:</span></span> 
 
-- <span data-ttu-id="fbdc6-222">기존 구독 일시 중단</span><span class="sxs-lookup"><span data-stu-id="fbdc6-222">Suspend existing subscriptions</span></span> 
+1. <span data-ttu-id="df94f-206">파트너 센터에 **관리 에이전트로**로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-206">Log in to Partner Center as an **Admin Agent**.</span></span> 
 
-- <span data-ttu-id="fbdc6-223">기존 라이선스 기반 구독의 좌석 개수 조정</span><span class="sxs-lookup"><span data-stu-id="fbdc6-223">Adjust the seat count of existing license-based subscriptions</span></span> 
+2. <span data-ttu-id="df94f-207">**고객 페이지**에서 기존 고객을 선택 하 고 **빠른 링크** 아이콘을 클릭 하 여 고객의 요약 뷰를 확장 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-207">In the **Customers page**, select an existing customer and click on its **Quick links** icon to expand the summary view of the customer.</span></span> 
 
-- <span data-ttu-id="fbdc6-224">구독에 대 한 기존 추가 기능의 수를 조정 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-224">Adjust seat count of existing add-ons to a subscription.</span></span> <span data-ttu-id="fbdc6-225">참고: 추가 기능이 새로운 구매로 처리 되기 때문에 기존 구독에 새 추가 기능을 추가할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-225">Note: You can't add new add-ons to existing subscriptions because add-ons are treated as new purchases.</span></span> 
+3. <span data-ttu-id="df94f-208">**간접 공급자**에서 **간접 공급자에 대해 고객 전송**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-208">Under **Indirect provider(s)**, click **Transfer customer on an indirect provider**.</span></span>
 
-- <span data-ttu-id="fbdc6-226">기존 azure 구독에서 새 Azure 리소스를 배포 하 고 기존 Azure 리소스를 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-226">Deploy new Azure resources and manage existing Azure resources under existing Azure subscriptions.</span></span> <span data-ttu-id="fbdc6-227">여기에는 Azure marketplace 및 Visual Studio 구독을 통해 제공 되는 제품이 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-227">This includes products which are available through Azure marketplace and Visual Studio subscriptions.</span></span> 
+![간접 공급자로 고객 전송](images/direct/direct5.png)
 
-## <a name="enroll-for-indirect-reseller-incentives"></a><span data-ttu-id="fbdc6-228">간접 재판매인 성과급 등록</span><span class="sxs-lookup"><span data-stu-id="fbdc6-228">Enroll for indirect reseller incentives</span></span> 
+4. <span data-ttu-id="df94f-210">팝업 대화 상자에서 고객과의 대리점 관계를 설정할 **간접 공급자** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-210">In the pop-up dialog, select the **Indirect Provider** you would like to have reseller relationship with the customer.</span></span>
 
-<span data-ttu-id="fbdc6-229">기존 직접 청구 파트너 테 넌 트에 간접 재판매인로 등록 한 후에는 30 일 이내에 간접 대리점에 등록 하 라는 초대를 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-229">After you have successfully enrolled as an indirect reseller on your existing direct bill partner tenant, you will receive an invitation to enroll for indirect reseller incentive within 30 days.</span></span> <span data-ttu-id="fbdc6-230">초대는 현재 CSP 파트너 테 넌 트와 연결 된 partner MPN 계정을 기반으로 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-230">The invitation is based on the partner MPN account that is currently associated with your CSP partner tenant.</span></span> <span data-ttu-id="fbdc6-231">초대가 partner MPN 계정과 연결 된 전자 메일 주소로 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-231">The invitation will be sent to the email address associated with the partner MPN account.</span></span> 
+5. <span data-ttu-id="df94f-211">**저장 및 계속을**클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-211">Click **Save and continue**.</span></span>
 
-<span data-ttu-id="fbdc6-232">또한 동일한 파트너 테 넌 트를 사용 하 여 직접 청구 동기 프로그램에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-232">You are also eligible to enroll for direct bill incentive programs with that same partner tenant.</span></span> <span data-ttu-id="fbdc6-233">프로그램은 개별적으로 관리 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-233">You must manage the programs separately.</span></span>
+6. <span data-ttu-id="df94f-212">선택한 간접 공급자가 **간접 공급자**아래에 표시 되는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-212">Verify the selected indirect provider shows up under **Indirect provider(s)**.</span></span> 
 
-<span data-ttu-id="fbdc6-234">간접 재판매인 및 [간접 대리점에 대 한 직접 청구 fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf) [에 대 한 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="fbdc6-234">See also [Additional information on becoming an indirect reseller](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) and the [Direct bill to indirect reseller fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).</span></span>
+### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a><span data-ttu-id="df94f-213">간접 재판매인 초대를 고객에 게 보내기</span><span class="sxs-lookup"><span data-stu-id="df94f-213">Send an indirect reseller invitation to the customer</span></span>
+
+<span data-ttu-id="df94f-214">간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문을 제출할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-214">Your indirect provider can not submit orders for your existing direct bill customers until they have a reseller relationship with them.</span></span> <span data-ttu-id="df94f-215">기존 고객과 간접 공급자 간의 재판매인 관계를 설정 하려면 간접 재판매인 초대를 사용 하 여 고객을 초대 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-215">To establish the reseller relationship between your existing customers and your indirect provider, invite the customer using an indirect reseller invitation.</span></span> 
+
+1. <span data-ttu-id="df94f-216">파트너 센터 왼쪽 탐색에서 **간접 공급자** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-216">Select **Indirect providers** from your Partner Center left nav.</span></span> 
+
+2. <span data-ttu-id="df94f-217">**새 고객 초대**를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-217">Select **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="df94f-218">공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-218">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span> 
+
+3. <span data-ttu-id="df94f-219">다음 페이지에서 임시 이메일 메시지를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-219">On the next page, review the draft email message.</span></span> <span data-ttu-id="df94f-220">전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-220">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span> 
+
+4. <span data-ttu-id="df94f-221">전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-221">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="df94f-222">그런 다음 **완료**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-222">Then select **Done**.</span></span> 
+
+5. <span data-ttu-id="df94f-223">고객이 귀사와 공급자를 공식 재판매인으로 승인하면 귀사에는 고객을 대신하여 고객의 구독, 라이선스 및 사용자를 관리할 관리자 권한이 부여되고 간접 공급자는 고객을 대신하여 주문을 제출할 수 있게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-223">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span> 
+
+6. <span data-ttu-id="df94f-224">고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-224">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span> 
+
+## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a><span data-ttu-id="df94f-225">간접 공급자에 게 기존 직접 청구 구독 이전</span><span class="sxs-lookup"><span data-stu-id="df94f-225">Transfer existing direct bill subscriptions to indirect provider</span></span>
+
+<span data-ttu-id="df94f-226">CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-226">Under CSP indirect model, indirect resellers do not have billing relationships with Microsoft.</span></span> <span data-ttu-id="df94f-227">대신 간접 대리점은 간접 공급자를 통해 고객에 대 한 구독을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-227">Instead, indirect resellers obtain subscriptions for their customers through their indirect providers.</span></span> <span data-ttu-id="df94f-228">직접 청구 파트너에서 간접 재판매인으로 전환 하는 동안 직접 청구 파트너 인 기존 구독을 간접 공급자에 게 양도 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-228">While transitioning from direct bill partner to indirect reseller, you need to transfer the existing subscriptions you have as the direct bill partner to your indirect provider.</span></span> <span data-ttu-id="df94f-229">파트너 센터 대시보드에서 자체 제공 되는 구독 전송 기능을 사용 하 여이 작업을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-229">You can use the self-served subscription transfer feature in Partner Center Dashboard to do so.</span></span> 
+ 
+### <a name="pre-requisites"></a><span data-ttu-id="df94f-230">필수 구성 요소</span><span class="sxs-lookup"><span data-stu-id="df94f-230">Pre-requisites</span></span>
+
+<span data-ttu-id="df94f-231">기능을 사용 하기 전에 다음에 유의 하십시오.</span><span class="sxs-lookup"><span data-stu-id="df94f-231">Before using the feature, note the following:</span></span>
+
+- <span data-ttu-id="df94f-232">이 기능은 기존 직접 청구 파트너 테 넌 트를 사용 하 여 간접 재판매인 등록을 완료 한 파트너를 전환 하는 경우에만 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-232">This feature is only available to transitioning partners who have completed the indirect reseller enrollment using their existing direct bill partner tenants.</span></span> 
+
+- <span data-ttu-id="df94f-233">지정 된 고객과 연결 된 구독을 전송 하기 전에 전환 파트너가 고객을 간접 공급자로 이동 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-233">Before transferring subscriptions associated with a given customer, the transitioning partner must move the customer to an indirect provider.</span></span> 
+ 
+### <a name="how-to"></a><span data-ttu-id="df94f-234">사용 방법</span><span class="sxs-lookup"><span data-stu-id="df94f-234">How-to</span></span>
+
+<span data-ttu-id="df94f-235">이 기능은 다음과 같은 4 단계 프로세스입니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-235">The feature is a 4-step process, where:</span></span> 
+
+- <span data-ttu-id="df94f-236">전환 파트너는 구독 전송 요청을 만듭니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-236">The transitioning partner creates a subscription transfer request.</span></span> <span data-ttu-id="df94f-237">이 요청에는 동일한 고객과 연결 된 기존 구독이 하나 이상 포함 되어 있으며 간접 공급자로 주소가 지정 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-237">The request contains one or more existing subscriptions associated with the same customer and is addressed to an indirect provider.</span></span> 
+
+- <span data-ttu-id="df94f-238">간접 공급자는 전송 요청을 검토 하 고 수락 (또는 거부) 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-238">The indirect provider reviews and accepts (or reject) the transfer request.</span></span> 
+
+- <span data-ttu-id="df94f-239">간접 공급자는 전송 요청이 완료 되었는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-239">The indirect provider verifies that the transfer request is complete.</span></span> 
+
+- <span data-ttu-id="df94f-240">전환 파트너가 전송 요청이 완료 되었는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-240">The transitioning partner verifies that the transfer request is complete.</span></span> 
+ 
+<span data-ttu-id="df94f-241">**파트너 전환-전송 요청 만들기**</span><span class="sxs-lookup"><span data-stu-id="df94f-241">**Transitioning partner - Create transfer request**</span></span>
+
+<span data-ttu-id="df94f-242">전환 파트너로 전송 요청을 만들려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-242">To create a transfer request as the transitioning partner:</span></span> 
+
+1. <span data-ttu-id="df94f-243">파트너 센터에 **관리 에이전트로**로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-243">Log in to Partner Center as an **Admin Agent**.</span></span> 
+
+2. <span data-ttu-id="df94f-244">**고객** 페이지에서 원하는 고객을 선택 하 고 빠른 링크 아이콘을 클릭 하 여 고객의 요약 뷰를 확장 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-244">In the **Customers** page, select the intended customer and click on the Quick links icon to expand the summary view of the customer.</span></span> 
+
+3. <span data-ttu-id="df94f-245">**간접 공급자**에서 의도 한 간접 공급자가 표시 되는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-245">Under **Indirect provider(s)**, confirm that the intended indirect provider is listed.</span></span> 
+
+4. <span data-ttu-id="df94f-246">**구독 보기**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-246">Click **View Subscriptions**.</span></span> 
+
+5. <span data-ttu-id="df94f-247">**구독** 페이지에서 **구독 이전**을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-247">In the **Subscriptions** page, look for **Subscription Transfer**.</span></span> 
+
+6. <span data-ttu-id="df94f-248">**구독 전송**에서 **전송 요청 만들기**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-248">Under **Subscription Transfer**, click **Create Transfer Request**.</span></span> 
+
+7. <span data-ttu-id="df94f-249">요청 전송 대화 상자에서 전송할 구독을 하나 이상 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-249">In the transfer request dialog, select one or more subscriptions to be transferred.</span></span> 
+
+8. <span data-ttu-id="df94f-250">**만들기**를 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-250">Click **Create**.</span></span> 
+
+9. <span data-ttu-id="df94f-251">활성 구독 전송 요청은 **구독 이전**에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-251">An active subscription transfer request will appear under **Subscription Transfer**.</span></span> 
+
+10. <span data-ttu-id="df94f-252">사용자가 구독 전송 요청을 만들었음을 간접 공급자에 게 알립니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-252">Inform your indirect provider that you have created a subscription transfer request to them.</span></span> 
+ 
+<span data-ttu-id="df94f-253">**간접 공급자-전송 요청 수락**</span><span class="sxs-lookup"><span data-stu-id="df94f-253">**Indirect provider - Accept transfer request**</span></span>
+
+<span data-ttu-id="df94f-254">간접 공급자로 전송 요청을 검토 하 고 수락 하려면:</span><span class="sxs-lookup"><span data-stu-id="df94f-254">To review and accept a transfer request as the indirect provider:</span></span> 
+
+1. <span data-ttu-id="df94f-255">파트너 센터에 **관리** 에이전트 또는 **영업 에이전트로**로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-255">Log in to Partner Center as an **Admin** Agent or **Sales Agent**.</span></span> 
+
+2. <span data-ttu-id="df94f-256">**고객 페이지에서** 원하는 고객을 선택 하 고 빠른 링크 아이콘을 클릭 하 여 고객의 요약 뷰를 확장 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-256">In the **Customers** page, select the intended customer and click on its Quick links icon to expand the summary view of the customer.</span></span> 
+
+3. <span data-ttu-id="df94f-257">**간접 재판매인**에서 전환 파트너가 나열 되는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-257">Under **Indirect reseller(s)**, confirm the transitioning partner is listed.</span></span> 
+
+4. <span data-ttu-id="df94f-258">**구독 보기**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-258">Click **View Subscriptions**.</span></span> 
+
+5. <span data-ttu-id="df94f-259">**구독** 페이지에서 **구독 이전**을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-259">In the **Subscriptions** page, look for **Subscription Transfer**.</span></span> 
+
+6. <span data-ttu-id="df94f-260">**구독 전송**에서 검토할 전송 요청을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-260">Under **Subscription Transfer**, click on the transfer request to review.</span></span> 
+
+7. <span data-ttu-id="df94f-261">적절 한 **수락** (또는 **거부**)을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-261">Click **Accept** (or **Reject**) as appropriate.</span></span> 
+
+8. <span data-ttu-id="df94f-262">전송 요청이 완료 될 때까지 기다립니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-262">Wait for the transfer request to complete.</span></span> 
+ 
+<span data-ttu-id="df94f-263">**간접 공급자 확인 전송 요청이 완료 되었습니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-263">**Indirect provider � Verify transfer request is complete**</span></span>
+
+1. <span data-ttu-id="df94f-264">전송 요청이 성공적으로 완료 되 면 구독이 **구독**아래에 표시 되는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-264">After the transfer request is completed successfully, verify that you can see the subscriptions appear under **Subscriptions**.</span></span> 
+
+2. <span data-ttu-id="df94f-265">전환 파트너에 게 알립니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-265">Inform the transitioning partner.</span></span> 
+ 
+<span data-ttu-id="df94f-266">**파트너 전환-전송 요청 확인이 완료 되었습니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-266">**Transitioning partner - Verify transfer request is complete**</span></span> 
+
+<span data-ttu-id="df94f-267">전환 파트너는 다음을 수행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-267">The transitioning partner should do the following:</span></span>
+ 
+1. <span data-ttu-id="df94f-268">파트너 센터에 **관리 에이전트** 또는 **영업 에이전트로**로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-268">Log in to Partner Center as an **Admin Agent** or **Sales Agent**.</span></span> 
+
+2. <span data-ttu-id="df94f-269">**고객** 페이지에서 원하는 고객을 선택 하 고 **빠른 링크** 아이콘을 클릭 하 여 고객의 요약 뷰를 확장 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-269">In the **Customers** page, select the intended customer and click on the **Quick links** icon to expand the summary view of the customer.</span></span> 
+
+3. <span data-ttu-id="df94f-270">**구독 보기**를 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-270">Click **View Subscriptions**.</span></span> 
+
+4. <span data-ttu-id="df94f-271">**구독** 페이지에서 **구독 이전**을 찾습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-271">In the **Subscriptions** page, look for **Subscription Transfer**.</span></span> 
+
+5. <span data-ttu-id="df94f-272">전송 요청이 **완료**로 표시 되어 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-272">Verify that the transfer request is marked as **Complete**.</span></span> 
+
+6. <span data-ttu-id="df94f-273">구독 페이지에서 구독이 더 이상 활성으로 표시 되지 않는지 **확인 합니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-273">Verify that the subscription(s) no longer appear as active in the **Subscriptions** page:</span></span> 
+
+   1. <span data-ttu-id="df94f-274">Azure 구독 (MS MS-AZR-0017P-0145P) 인 경우 더 이상 나열 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-274">If this is an Azure subscription (MS-AZR-0145P), it will no longer be listed.</span></span> 
+
+   2. <span data-ttu-id="df94f-275">사용자 기반 구독 (Office 365, Dynamics, Intune) 인 경우 **일시 중단**됨 상태로 나열 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-275">If this is a seat-based subscription (Office 365, Dynamics, Intune), it will be listed with state as **Suspended**.</span></span> 
+ 
+### <a name="considerations"></a><span data-ttu-id="df94f-276">고려 사항</span><span class="sxs-lookup"><span data-stu-id="df94f-276">Considerations</span></span>
+
+- <span data-ttu-id="df94f-277">**여러 전송 요청에서 동일한 구독을 참조할 수 없습니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-277">**The same subscription cannot be referenced by multiple transfer requests.**</span></span> <span data-ttu-id="df94f-278">기존 구독이 포함 된 전송 요청을 만든 후에는 첫 번째 전송 요청이 취소 될 때까지 동일한 구독을 포함 한 추가 전송 요청을 만들 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-278">After you have created a transfer request which includes an existing subscription, you cannot create additional transfer requests including the same subscription, until the first transfer request is cancelled.</span></span> 
+
+- <span data-ttu-id="df94f-279">**사용자 기반 구독에 대 한 추가 기능은 해당 기본 구독과 함께 전송 되어야 합니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-279">**Add-ons for seat-based subscriptions must be transferred along with their base subscription.**</span></span> <span data-ttu-id="df94f-280">전송 요청을 만들 때 하나 이상의 추가 기능이 있는 기존 구독을 선택 하면 해당 추가 기능이 전송 요청에 자동으로 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-280">When creating a transfer request, if you pick an existing subscription with one or more add-ons, the add-ons will automatically be included in the transfer request.</span></span> 
+
+- <span data-ttu-id="df94f-281">**구독에 대 한 사용자 수 변경 내용은 기존 전송 요청에 반영 되지 않습니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-281">**Seat count changes to a subscription will not be reflected in existing transfer request.**</span></span> <span data-ttu-id="df94f-282">기존 구독이 포함 된 전송 요청을 만든 후에는 구독 (또는 연결 된 addons)의 좌석 수량을 업데이트 하지 않아야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-282">After you have created a transfer request which includes an existing subscription, you should avoid updating the seat quantity of the subscription (or associated addons).</span></span> <span data-ttu-id="df94f-283">이렇게 하면 새 수량이 전송 요청에 반영 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-283">If you do so, the new quantity will not be reflected in the transfer request.</span></span> <span data-ttu-id="df94f-284">간접 공급자가 전송 요청을 수락 하면 결과 구독은 이전 수량을 갖게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-284">After the indirect provider accepts the transfer request, the resultant subscription will have the old quantity.</span></span> <span data-ttu-id="df94f-285">간접 공급자로 새 수량을 전송 하려는 경우 기존 전송 요청을 취소 하 고 새 전송 요청을 다시 만들어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-285">If you wish for the new quantity to be transferred to the indirect provider, you must cancel the existing transfer request and recreate a new one.</span></span> 
+
+- <span data-ttu-id="df94f-286">**모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-286">**Not all purchases can be transferred using self-served subscription transfer.**</span></span> <span data-ttu-id="df94f-287">현재이 기능을 사용 하 여 O365 구독과 Azure PAGY 구독 (MS MS-AZR-0017P-0145P)만 전송할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-287">Currently, you can only transfer O365 subscriptions and Azure PAGY subscriptions (MS-AZR-0145P) using this feature.</span></span> <span data-ttu-id="df94f-288">Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-288">Other purchases including Azure Plans, Azure Reserved Instances, Term-based Subscriptions and SaaS subscriptions for Azure Marketplace are not supported.</span></span> <span data-ttu-id="df94f-289">전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-289">You will see a reason why a subscription cannot be transferred in the submit transfer request page.</span></span>
+
+- <span data-ttu-id="df94f-290">**샌드박스 환경을 사용 하 여 테스트할 수 없습니다.**</span><span class="sxs-lookup"><span data-stu-id="df94f-290">**Cannot be tested using sandbox environment.**</span></span> 
+
+## <a name="enroll-for-indirect-reseller-incentives"></a><span data-ttu-id="df94f-291">간접 재판매인 성과급 등록</span><span class="sxs-lookup"><span data-stu-id="df94f-291">Enroll for indirect reseller incentives</span></span> 
+
+<span data-ttu-id="df94f-292">기존 직접 청구 파트너 테 넌 트에 간접 재판매인로 등록 한 후에는 30 일 이내에 간접 대리점에 등록 하 라는 초대를 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-292">After you have successfully enrolled as an indirect reseller on your existing direct bill partner tenant, you will receive an invitation to enroll for indirect reseller incentive within 30 days.</span></span> <span data-ttu-id="df94f-293">초대는 현재 CSP 파트너 테 넌 트와 연결 된 partner MPN 계정을 기반으로 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-293">The invitation is based on the partner MPN account that is currently associated with your CSP partner tenant.</span></span> <span data-ttu-id="df94f-294">초대가 partner MPN 계정과 연결 된 전자 메일 주소로 전송 됩니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-294">The invitation will be sent to the email address associated with the partner MPN account.</span></span> 
+
+<span data-ttu-id="df94f-295">또한 동일한 파트너 테 넌 트를 사용 하 여 직접 청구 동기 프로그램에 등록할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-295">You are also eligible to enroll for direct bill incentive programs with that same partner tenant.</span></span> <span data-ttu-id="df94f-296">프로그램은 개별적으로 관리 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="df94f-296">You must manage the programs separately.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="df94f-297">참고 항목</span><span class="sxs-lookup"><span data-stu-id="df94f-297">See also</span></span> 
+- [<span data-ttu-id="df94f-298">간접 재판매인의 추가 정보</span><span class="sxs-lookup"><span data-stu-id="df94f-298">Additional information on becoming an indirect reseller</span></span>](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [<span data-ttu-id="df94f-299">CSP 직접 파트너 새로운 요구 사항</span><span class="sxs-lookup"><span data-stu-id="df94f-299">CSP direct partner new requirements</span></span>](direct-partner-new-requirements.md)
+- [<span data-ttu-id="df94f-300">제한 된 직접 청구 기능</span><span class="sxs-lookup"><span data-stu-id="df94f-300">Restricted direct bill capabilities</span></span>](restricted-direct-bill-capabilities.md)
 
 
