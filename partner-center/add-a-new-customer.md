@@ -10,14 +10,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722295"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860444"
 ---
-# <a name="add-a-new-customer"></a>새 고객 추가
+# <a name="add-a-new-customer"></a>새 고객 추가 
 
 **적용 대상**
 
@@ -28,9 +28,9 @@ ms.locfileid: "74722295"
 **적절한 역할**
 
 - 전역 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
-- 영업 에이전트
+- 사용자 관리 담당자
+- 관리 에이전트
+- 영업 상담원
 
 
 구독을 판매 하거나, 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 파트너 센터의 고객 목록에 추가 해야 합니다.

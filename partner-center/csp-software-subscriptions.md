@@ -1,7 +1,7 @@
 ---
 title: CSP를 통해 소프트웨어 구독 판매 | 파트너 센터
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터를 사용 하 여 고객에 대 한 Azure 예약 인스턴스 및 서버 구독을 구매, 관리, 판매 및 취소 하는 방법을 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독, 취소 소프트웨어
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723440"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812655"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
 
@@ -135,7 +135,7 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 구매 날짜 60 일 이내에 소프트웨어 구매를 취소할 수 있습니다. 이 첫 번째 60 시간 이내에 취소 하는 경우 초기 종료 요금은 청구 되지 않습니다. 60 일 후에는 더 이상 구매를 취소할 수 없습니다. 이 취소 규칙에 대 한 키 제한 사항은 참고를 참조 하세요. 소프트웨어 구매를 취소 한 후에 발생 하는 상황에 대 한 자세한 내용은 다음 단계를 수행 하는 데 중요 한 참고 사항도 참조 하세요. 
 
 >[!NOTE]
->구매를 취소 하는 다음 단계는 구매 후 처음 60 일 이내와 같이 특정 취소 창 내에서 취소를 대상으로 하는 소프트웨어에만 적용 됩니다. 구매를 취소 하는 이러한 단계는 Microsoft Windows 7 확장 보안 업데이트 2020의 구매에 적용 되지 않습니다. Windows 7 ESU 2020을 취소 하려면이 항목의 뒷부분에 설명 된 대로 고객 지원 요청을 제출 해야 합니다. 이러한 단계는 Azure의 SUSE Linux 또는 RedHat 소프트웨어 계획에도 적용 되지 않습니다. 이번에는 SUSE 또는 RedHat 소프트웨어 계획을 취소 하거나 교환할 수 없습니다. SUSE Linux 또는 RedHat 계획 사용에 [대해 자세히 알아보세요](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) .
+>구매를 취소 하는 다음 단계는 구매 후 처음 60 일 이내와 같이 특정 취소 창 내에서 취소를 대상으로 하는 소프트웨어에만 적용 됩니다. 이러한 단계는 Azure의 SUSE Linux 또는 RedHat 소프트웨어 계획에도 적용 되지 않습니다. 이번에는 SUSE 또는 RedHat 소프트웨어 계획을 취소 하거나 교환할 수 없습니다. SUSE Linux 또는 RedHat 계획 사용에 [대해 자세히 알아보세요](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) .
 
 구매를 취소 하려면 다음 단계를 수행 합니다.
 
@@ -166,11 +166,11 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 주문을 취소 하려고 할 때 파트너 센터는 주문 번호 드롭다운 목록 아래에 표시 되는 다른 정보를 제공할 수도 있습니다. 이 정보에는 다음이 포함 될 수 있습니다.
 
-* 특정 주문을 취소 하는 데 남은 일 수
+- 특정 주문을 취소 하는 데 남은 일 수
 
-* 취소 창을 이미 통과 했 고 더 이상 주문을 취소할 수 없는지 여부
+- 취소 창을 이미 통과 했 고 더 이상 주문을 취소할 수 없는지 여부
 
-* 취소 요청에 대 한 자세한 정보가 필요한 경우 **고객 지원 요청** 양식에 대 한 링크를 제공 받을 수 있습니다.
+- 취소 요청에 대 한 자세한 정보가 필요한 경우 **고객 지원 요청** 양식에 대 한 링크를 제공 받을 수 있습니다.
 
 >[!IMPORTANT]
 >주문을 취소 하 고 나면 취소를 확인 하는 메시지가 표시 됩니다. 그러나 파트너가 파트너 센터 대시보드에 표시 되기 전에 최대 15 분까지 지연 될 수 있습니다. 다음 사후 취소 정보도 확인 합니다.

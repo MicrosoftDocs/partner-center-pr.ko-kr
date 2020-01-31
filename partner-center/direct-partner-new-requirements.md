@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, 직접 파트너, 직접 청구, 요구 사항
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253587"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860465"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP 직접 청구 파트너 새 요구 사항
 
@@ -50,9 +50,11 @@ ms.locfileid: "74253587"
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>직접에서 간접 대리점으로 전환
 
+현재 직접 청구 파트너는 CSP 직접 청구 파트너 프로그램에 남아 있어야 하는 새 요구 사항을 충족 해야 합니다. 그렇지 않으면 [직접 청구 기능에 대 한 액세스 권한이 결국 제한](restricted-direct-bill-capabilities.md) 되며 고객에 게 새로운 구매와 같은 특정 작업을 수행할 수 있습니다. 
+
 직접 청구 비즈니스에서 간접 재판매인 비즈니스로 이동 하기로 결정 한 경우 몇 가지 단계를 수행 해야 합니다. 전환에 대 한 자세한 내용은 [csp (클라우드 솔루션 공급자) 다이렉트 파트너에서 csp 간접 재판매인으로 전환](transition-direct-to-indirect.md)을 참조 하세요. 
 
-## <a name="see-also"></a>참고자료
+## <a name="see-also"></a>참고 항목
 
 - [간접 재판매인의 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [간접 재판매인에 게 직접 청구 fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
