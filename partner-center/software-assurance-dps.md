@@ -1,114 +1,110 @@
 ---
 title: 파트너 센터의 소프트웨어 보증 계획 서비스 | 파트너 센터
 ms.topic: article
-ms.date: 01/21/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 소프트웨어 보증이 있는 엔터프라이즈 고객에 게 교육 및 기타 서비스를 제공 하기 위해 Microsoft의 보상을 받을 수 있도록 계획 서비스에 등록 합니다.
+description: 소프트웨어 보증을 통해 고객에 게 교육 및 기타 서비스를 제공할 수 있도록 Microsoft 계획 서비스 계약을 등록 하 고 검증 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 배포 전, 계획, 소프트웨어 보증
 ms.localizationpriority: medium
-ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943426"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915751"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a><span data-ttu-id="a2321-104">파트너 센터의 Software Assurance 계획 서비스</span><span class="sxs-lookup"><span data-stu-id="a2321-104">Software Assurance Planning Services in Partner Center</span></span>
+# <a name="software-assurance-planning-services-in-partner-center"></a><span data-ttu-id="2d642-104">파트너 센터의 Software Assurance 계획 서비스</span><span class="sxs-lookup"><span data-stu-id="2d642-104">Software Assurance Planning Services in Partner Center</span></span>
 
-<span data-ttu-id="a2321-105">소프트웨어 보증 계획 서비스 프로그램에 등록 하 여 비즈니스를 성장 시킵니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-105">Grow your business by enrolling in Software Assurance Planning Services programs.</span></span> <span data-ttu-id="a2321-106">Microsoft는 Software Assurance를 보유한 기업 고객에게 교육, 계획 및 기타 서비스를 제공하는 파트너에게 보상을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-106">Microsoft compensates partners for delivering training, planning, and other services to enterprise customers who have Software Assurance.</span></span>
+<span data-ttu-id="2d642-105">**적절 한 역할**</span><span class="sxs-lookup"><span data-stu-id="2d642-105">**Appropriate Roles**</span></span>
 
-<span data-ttu-id="a2321-107">Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위한 배포 전 계획을 제공 하는 것을 보상 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-107">As an approved planning services partner, Microsoft compensates you for providing pre-deployment planning engagements for enterprise customers.</span></span> <span data-ttu-id="a2321-108">이 프로그램에 참여 하면 더 많은 고객을 확보 하 고, 신뢰할 수 있는 계획 파트너가 되며, 추가 고객의 도움을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-108">Participating in this program may help you attract more customers, become their trusted planning partner, and lead to additional customer engagements.</span></span>
+- <span data-ttu-id="2d642-106">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="2d642-106">Global Admin</span></span>
+- <span data-ttu-id="2d642-107">MPN 파트너 관리자</span><span class="sxs-lookup"><span data-stu-id="2d642-107">MPN Partner Admin</span></span>
 
-<span data-ttu-id="a2321-109">소프트웨어 보증 계획 서비스에 대해 잘 모르는 경우 [계획 서비스를 사용 하 여 비즈니스 성장](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="a2321-109">If you're not familiar with Software Assurance Planning Services, see [Grow your business with Planning Services](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).</span></span>
+<span data-ttu-id="2d642-108">Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위한 배포 전 계획을 제공 하는 것을 보상 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-108">As an approved Planning Services partner, Microsoft compensates you for providing pre-deployment planning engagements for enterprise customers.</span></span> <span data-ttu-id="2d642-109">이 프로그램에 참여 하면 더 많은 고객을 확보 하 고, 신뢰할 수 있는 계획 파트너가 되며, 추가 고객의 도움을 받을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-109">Participating in this program may help you attract more customers, become their trusted planning partner, and lead to additional customer engagements.</span></span>
 
+## <a name="get-started"></a><span data-ttu-id="2d642-110">시작하기</span><span class="sxs-lookup"><span data-stu-id="2d642-110">Get started</span></span>
 
-## <a name="get-started"></a><span data-ttu-id="a2321-110">Első lépések</span><span class="sxs-lookup"><span data-stu-id="a2321-110">Get started</span></span>
+<span data-ttu-id="2d642-111">소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-111">If you're new to Software Assurance Planning Services, follow all the steps below.</span></span> <span data-ttu-id="2d642-112">계획 서비스 프로그램에서 이미 활성화 되어 있는 경우 아래 4 단계 (4)에서 각각의 새 참여를 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-112">If you're already active in the Planning Services program(s), begin each new engagement at step four (4) below.</span></span>
 
-<span data-ttu-id="a2321-111">소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-111">If you're new to Software Assurance Planning Services, follow all the steps below.</span></span> <span data-ttu-id="a2321-112">계획 서비스 프로그램에서 이미 활성화 되어 있고 파트너 계정 정보가 파트너 센터로 이동 된 경우 아래 4 단계 (4)에서 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-112">If you're already active in the Planning Services program(s), and your partner account information has been moved to Partner Center, start at step four (4) below.</span></span> 
+1. <span data-ttu-id="2d642-113">자격 확인 (새 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-113">Verify eligibility (new partners)</span></span>
+2. <span data-ttu-id="2d642-114">등록 (새 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-114">Enroll (new partners)</span></span>
+3. <span data-ttu-id="2d642-115">회사의 비즈니스 프로필 만들기 또는 업데이트 (새 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-115">Create or update your company's business profile (new partners)</span></span>
+4. <span data-ttu-id="2d642-116">고객이 무료 (기존 파트너)를 만들고 할당 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-116">Customer creates and assigns voucher (existing partners)</span></span>
+5. <span data-ttu-id="2d642-117">상품권 유효성 검사 및 예약 (기존 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-117">Validate and reserve voucher (existing partners)</span></span>
+6. <span data-ttu-id="2d642-118">참여를 완료 하 고 고객에 게 결과물 제공 (기존 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-118">Complete engagement and provide deliverables to your customer (existing partners)</span></span>
+7. <span data-ttu-id="2d642-119">파트너 센터 (기존 파트너)의 무료 증명서</span><span class="sxs-lookup"><span data-stu-id="2d642-119">Redeem voucher in Partner Center (existing partners)</span></span>
+8. <span data-ttu-id="2d642-120">Microsoft에서 지불 요청 (기존 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-120">Request payment from Microsoft (existing partners)</span></span>
 
-1. <span data-ttu-id="a2321-113">프로그램 자격 확인</span><span class="sxs-lookup"><span data-stu-id="a2321-113">Verify program eligibility</span></span> 
-2. <span data-ttu-id="a2321-114">계획 서비스 프로그램에 등록</span><span class="sxs-lookup"><span data-stu-id="a2321-114">Enroll in a planning service program</span></span>
-3. <span data-ttu-id="a2321-115">파트너 디렉터리에서 회사 프로필 업데이트</span><span class="sxs-lookup"><span data-stu-id="a2321-115">Update company profile in partner directory</span></span>
-4. <span data-ttu-id="a2321-116">고객 증명서 예약</span><span class="sxs-lookup"><span data-stu-id="a2321-116">Reserve a customer voucher</span></span> 
-5. <span data-ttu-id="a2321-117">완료 참여 및 제출 완료 보고서</span><span class="sxs-lookup"><span data-stu-id="a2321-117">Complete engagement and submit completion report</span></span>
-6. <span data-ttu-id="a2321-118">상품권 사용</span><span class="sxs-lookup"><span data-stu-id="a2321-118">Redeem voucher</span></span> 
-7. <span data-ttu-id="a2321-119">Microsoft의 결제 요청</span><span class="sxs-lookup"><span data-stu-id="a2321-119">Request payment from Microsoft</span></span>
+<span data-ttu-id="2d642-121">이 문서에서는 각 단계를 완료하는 방법을 설명합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-121">This article explains how to complete each step.</span></span>
 
-<span data-ttu-id="a2321-120">이 문서에서는 각 단계를 완료하는 방법을 설명합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-120">This article explains how to complete each step.</span></span>
+## <a name="verify-eligibility-new-partners"></a><span data-ttu-id="2d642-122">자격 확인 (새 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-122">Verify eligibility (new partners)</span></span>
 
-## <a name="confirm-eligibility"></a><span data-ttu-id="a2321-121">자격 확인</span><span class="sxs-lookup"><span data-stu-id="a2321-121">Confirm eligibility</span></span>
+<span data-ttu-id="2d642-123">파트너 회사와 컨설턴트는 계획 서비스 제공 중 하나에 등록할 수 있기 전에 준수 교육 요구 사항 및 역량 요구 사항을 모두 충족 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-123">Before partner companies and consultants can enroll in one of the Planning Services offerings, they must satisfy both compliance training requirements and competency requirements:</span></span>
 
-<span data-ttu-id="a2321-122">계획 서비스 프로그램에 등록 하려면 먼저 회사에서 역량 및 규정 준수 교육 요구 사항을 충족 하 고 고객 참여를 선도 하는 컨설턴트는 기술 교육 및 시험 요구 사항을 충족 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-122">Before you can enroll in the Planning Services program, your company must meet competency and compliance training requirements, and the consultant leading the customer engagement must meet technical training and exam requirements.</span></span> 
-
-<span data-ttu-id="a2321-123">각 계획 서비스 프로그램에는 고유한 자격 요구 사항이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-123">Each planning service program has unique eligibility requirements.</span></span> <span data-ttu-id="a2321-124">서비스 자격 요구 사항을 계획 하는 방법에 대 한 자세한 내용은 [자격 확인](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) 을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="a2321-124">See [Verify eligibility](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) for more information about planning services eligibility requirements.</span></span>
-
-<span data-ttu-id="a2321-125">회사의 자격 상태를 확인 하려면 다음 단계를 따르세요.</span><span class="sxs-lookup"><span data-stu-id="a2321-125">Follow these steps to see your company's eligibility status.</span></span>
-
-1. <span data-ttu-id="a2321-126">파트너 센터 메뉴에서 소프트웨어 보증 > 요구 사항을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-126">Select Software Assurance > Requirements from the Partner Center menu.</span></span> 
-2. <span data-ttu-id="a2321-127">계획 서비스를 선택 하 여 계획 서비스 탭을 엽니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-127">Select Planning services to open the Planning services tab.</span></span>
-3. <span data-ttu-id="a2321-128">적격 상태 열을 확인 하 여 특정 계획 서비스 프로그램에 대 한 회사의 상태를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-128">Check the Eligibility status column to see your company's status for a specific planning services program.</span></span> 
-
-- <span data-ttu-id="a2321-129">시작 되지 않음 | 아직 프로그램에 참여할 자격이 없습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-129">Not started | You're not yet eligible to participate in the program.</span></span> <span data-ttu-id="a2321-130">프로그램의 자격 요구 사항을 충족 하기 위해 수행 해야 하는 작업을 확인 하려면 프로그램 이름을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-130">Select the program name to see what you need to do to meet the program's eligibility requirements.</span></span>
-
-- <span data-ttu-id="a2321-131">진행 중 | 프로그램의 자격 요구 사항을 충족 하는 프로세스를 시작 했지만 여전히 더 많은 작업을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-131">In progress | You've started the process of meeting the program's eligibility requirements, but you still have more to do.</span></span>
-
-- <span data-ttu-id="a2321-132">활성 | 자격이 확인 되었고 엔터프라이즈 고객에 게 계획 서비스를 제공 하기 시작할 준비가 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-132">Active | Your eligibility has been confirmed and you're ready to start providing the planning service to enterprise customers.</span></span> 
-
-4. <span data-ttu-id="a2321-133">회사에서 프로그램에 참여할 자격이 있는지 확인 한 후에는 회사의 프로그램 참가자에 게 문의 하 여 계획 서비스 준수 교육 과정을 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-133">After you verify that your company is eligible to participate in a program, direct your company's program participants to complete the Planning Services compliance training course.</span></span> 
-
-5. <span data-ttu-id="a2321-134">회사의 프로그램 참가자가 필요한 교육 과정을 완료 한 후 [등록 페이지로](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) 돌아가 Microsoft 계획 서비스 프로그램 공급자 계약에 서명 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-134">After your company's program participants complete the required training course, return to the [enrollment page](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) and sign the Microsoft Planning Service program provider agreement.</span></span> 
-
-## <a name="enroll-in-the-planning-services-program"></a><span data-ttu-id="a2321-135">계획 서비스 프로그램에 등록</span><span class="sxs-lookup"><span data-stu-id="a2321-135">Enroll in the Planning Services program</span></span>
-
-<span data-ttu-id="a2321-136">회사가 계획 서비스 프로그램에 대 한 자격 요구 사항을 충족 하 고 프로그램 참가자가 준수 교육 과정을 통과 하면 등록할 준비가 된 것입니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-136">After your company meets the eligibility requirements for the Planning Services program and your program participants have passed the compliance training course, you're ready to enroll.</span></span> 
-
-<span data-ttu-id="a2321-137">계획 서비스 프로그램에 등록 하려면 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-137">Follow these steps to enroll in a planning service program.</span></span>
-
-1. <span data-ttu-id="a2321-138">파트너 센터 메뉴에서 소프트웨어 보증 > 요구 사항 선택을 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-138">Complete the Select Software Assurance > Requirements from the Partner Center menu.</span></span> 
-2. <span data-ttu-id="a2321-139">계획 서비스를 선택 하 여 계획 서비스 탭을 엽니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-139">Select Planning services to open the Planning services tab.</span></span>
-3. <span data-ttu-id="a2321-140">등록 하려는 프로그램을 선택 하 고 등록을 선택 **합니다.**</span><span class="sxs-lookup"><span data-stu-id="a2321-140">Select the program you want to enroll in and select **Enroll.**</span></span>
-
-<span data-ttu-id="a2321-141">이 프로세스를 완료 하면 사용자가 등록 한 제품을 배달 하도록 회사 위치가 승인 됩니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-141">When you've completed this process, your company locations will be approved to deliver the offerings you've enrolled in.</span></span> <span data-ttu-id="a2321-142">MPN Partner Admin으로 나열 된 회사 직원은 임의의 위치를 대신해 서 계획 서비스 바우처를 관리 하기 위해 VVR 도구에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-142">Your company's employees listed as a MPN Partner Admin will be eligible to access the VVR tool to manage Planning Services vouchers on behalf of any location.</span></span>
->[!Note]
-> <span data-ttu-id="a2321-143">매년 계획 서비스 프로그램에서 요구 사항을 갱신 하 고 다시 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-143">You will need to renew your requirements and re-enroll in Planning Services programs each year.</span></span>
-
-### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a><span data-ttu-id="a2321-144">계획 서비스 파트너 디렉터리에서 회사 프로필 업데이트</span><span class="sxs-lookup"><span data-stu-id="a2321-144">Update your company's profile in the Planning Services Partner Directory</span></span> 
-
-<span data-ttu-id="a2321-145">고객은 [계획 서비스 파트너 디렉터리](https://directory.partners.extranet.microsoft.com/psbproviders/)에서 비즈니스 요구를 충족할 수 있는 파트너를 검색 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-145">Customers search for partners who can meet their business needs in the [Planning Services Partner Directory](https://directory.partners.extranet.microsoft.com/psbproviders/).</span></span> <span data-ttu-id="a2321-146">회사가 계획 서비스 프로그램에 참여 하도록 승인 된 경우 고객이 찾을 수 있도록 파트너 프로필을 업데이트 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-146">When your company is approved to participate in planning services programs, be sure to update your partner profile so customers can find you.</span></span> 
-
-<span data-ttu-id="a2321-147">프로필을 업데이트 하려면 파트너 디렉터리에서 프로필 업데이트 페이지의 단계를 따르세요.</span><span class="sxs-lookup"><span data-stu-id="a2321-147">To update your profile, follow the steps on the Update profile in partner directory page.</span></span> <span data-ttu-id="a2321-148">프로필을 업데이트 하는 방법을 이미 알고 있는 경우 [대시보드에 로그인](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) 하 여 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-148">If you already know how to update your profile, you can [sign in to your dashboard](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) to get started.</span></span>  
-
-## <a name="reserve-customer-voucher"></a><span data-ttu-id="a2321-149">고객 증명서 예약</span><span class="sxs-lookup"><span data-stu-id="a2321-149">Reserve customer voucher</span></span>
-
-<span data-ttu-id="a2321-150">고객이 [VLSC (볼륨 라이선스 서비스 센터)](https://www.microsoft.com/Licensing/servicecenter/default.aspx)에서 회사에 대 한 무료 증명서를 할당 한 후에는 고객이 증명서 ID를 포함 하는 전자 메일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-150">After a customer assigns a voucher to your company in the [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), the customer receives an email that includes the voucher ID.</span></span> <span data-ttu-id="a2321-151">고객은이 전자 메일을 사용자에 게 전달 하 여 무료 증명서를 예약 하는 데 필요한 정보를 확보 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-151">The customer needs to forward this email to you so that you have the information you need to reserve the voucher.</span></span> 
-
-<span data-ttu-id="a2321-152">무료 증명서 정보가 있는 경우 무료 증명서를 예약 하 고 계획 참여를 예약할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-152">When you have the voucher details, you can reserve the voucher and schedule the planning engagement.</span></span> <span data-ttu-id="a2321-153">[무료 증명서 유효성 검사 및 상환 도구 (VVR)의 바우처 관리](voucher-validation-tool.md) 의 단계에 따라 무료 증명서를 예약 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-153">Follow the steps in [Manage vouchers in the Voucher Validation and Redemption tool (VVR)](voucher-validation-tool.md) to reserve the voucher.</span></span>  
-
-## <a name="complete-the-engagement-and-submit-completion-report"></a><span data-ttu-id="a2321-154">참여 및 제출 완료 보고서를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-154">Complete the engagement and submit completion report</span></span>
-
-<span data-ttu-id="a2321-155">회사에서 참여를 완료 하 고 최종 완료 된 결과물을 고객에 게 제공 하 고 나면 완료 보고서를 작성 하 고 제출 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-155">After your company has completed the engagement and provided the final completed deliverable to the customer, you'll need to fill out and submit a completion report.</span></span>
+- <span data-ttu-id="2d642-124">**규정 준수 교육 요구 사항.**</span><span class="sxs-lookup"><span data-stu-id="2d642-124">**Compliance training requirements.**</span></span> <span data-ttu-id="2d642-125">회사 수준에서 프로그램의 규정 준수 교육 요구 사항이 충족 되어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-125">The program's compliance training requirements must be satisfied at the company level.</span></span>
+- <span data-ttu-id="2d642-126">**역량 요구 사항.**</span><span class="sxs-lookup"><span data-stu-id="2d642-126">**Competency requirements.**</span></span> <span data-ttu-id="2d642-127">역량 요구 사항은 배달할 engagement에만 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-127">Competency requirements are specific to the engagement to be delivered.</span></span> <span data-ttu-id="2d642-128">예를 들어 회사는 DDPS (데스크톱 배포 계획 서비스) 제품에 등록 되어 있을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-128">For example, your company might be enrolled in the Desktop Deployment Planning Services (DDPS) offering.</span></span> <span data-ttu-id="2d642-129">그러나 회사에서 해당 특정 engagement에 대 한 한정 역량을 보유 하는 경우에만 DDPS 제품 내에서 특정 참여를 제공할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-129">However, you will only be eligible to deliver a specific engagement within the DDPS offering if your company also holds a qualifying competency for that specific engagement.</span></span>
 
 >[!NOTE]
-> <span data-ttu-id="a2321-156">또한이 단계에서는 고객 참여 결과물의 복사본을 업로드 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-156">You'll also need to upload a copy of the customer engagement deliverable in this step.</span></span> 
+> <span data-ttu-id="2d642-130">특정 계약에 대 한 자격 요구 사항에 대해 자세히 알아보려면 [서비스 계약 계획에 대 한 자격 요구 사항을 확인](software-assurance-dps-requirements.md)하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-130">To learn more about eligibility requirements for specific engagements, [view eligibility requirements for Planning Services engagements](software-assurance-dps-requirements.md).</span></span>
 
+<span data-ttu-id="2d642-131">특정 계획 서비스 참여에 등록 하는 데 필요한 회사 자격을 확인 하려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-131">To help verify your company's eligibility to enroll in a specific Planning Services engagement:</span></span>
 
-<span data-ttu-id="a2321-157">[증명서 유효성 검사 및 상환 도구 (VVR)에서 바우처 관리](voucher-validation-tool.md)의 단계를 따릅니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-157">Follow the steps in [Manage vouchers in the Voucher Validation and Redemption tool (VVR)](voucher-validation-tool.md).</span></span>
+1. <span data-ttu-id="2d642-132">파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-132">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
+2. <span data-ttu-id="2d642-133">메뉴에서 **MPN** 을 선택 하 고 **프로그램**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-133">Select **MPN** from the menu, then select **Programs**.</span></span>
+3. <span data-ttu-id="2d642-134">**소프트웨어 보증 등록**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-134">Select **Software assurance enrollment**.</span></span>
+4. <span data-ttu-id="2d642-135">페이지 위쪽의 **계획 서비스 프로그램 등록** 탭을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-135">Select the **Planning Services program enrollment** tab at the top of the page.</span></span> <span data-ttu-id="2d642-136">이미 완료 한 요구 사항 또는 역량 옆에 녹색 확인 표시가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-136">You will see a green check mark next to any requirements or competencies you have already completed.</span></span>
 
-## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a><span data-ttu-id="a2321-158">무료 무료 및 Microsoft의 지불 요청</span><span class="sxs-lookup"><span data-stu-id="a2321-158">Redeem a voucher and request payment from Microsoft</span></span>
+## <a name="enroll-new-partners"></a><span data-ttu-id="2d642-137">등록 (새 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-137">Enroll (new partners)</span></span>
 
-<span data-ttu-id="a2321-159">무료 증명서를 예약 하면 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-159">Once you've reserved a voucher, you can redeem it.</span></span> 
+<span data-ttu-id="2d642-138">회사에서 자격 요구 사항을 충족 하면 소프트웨어 보증 계획 서비스 프로그램 계약에 서명 하 고 하나 이상의 프로그램 제공에 등록할 준비가 된 것입니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-138">After your company meets the eligibility requirements, you're ready to sign the Software Assurance Planning Services program agreement and enroll in one or more program offerings.</span></span>
 
-1. <span data-ttu-id="a2321-160">예약 된 바우처 목록에서 사용할 증명서를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-160">In your list of reserved vouchers, select the voucher(s) you want to redeem.</span></span> 
-2. <span data-ttu-id="a2321-161">이제 **회수** 된 바우처 목록이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-161">You will now see a list of **Redeemed** vouchers.</span></span>
-3. <span data-ttu-id="a2321-162">원하는 무료 증명서 옆의 확인란을 선택 하 고 **선택 된 바우처**선택을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-162">Select the checkbox(es) next to the desired voucher(s) then click **Redeem selected vouchers**.</span></span>
-4. <span data-ttu-id="a2321-163">무료 증명서 상환 확인 페이지에서 무료 증명서 정보를 검토 하 고 **예** 를 선택 하 여 무료를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-163">From the Confirm voucher redemption page, review the voucher information for accuracy, then select **Yes** to redeem the voucher.</span></span>
+<span data-ttu-id="2d642-139">먼저 모든 [계획 서비스 프로그램 정책](https://go.microsoft.com/fwlink/?linkid=2115984)을 검토 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-139">First, be sure to review all [Planning Services program policies](https://go.microsoft.com/fwlink/?linkid=2115984).</span></span> <span data-ttu-id="2d642-140">그런 다음 워크플로 [2 단계의](https://go.microsoft.com/fwlink/?linkid=2115983) 지침에 따라 파트너 센터에서 계획 서비스 등록 프로세스를 완료 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-140">Then, follow the instructions in [step 2](https://go.microsoft.com/fwlink/?linkid=2115983) of the workflow to complete the Planning Services enrollment process in Partner Center.</span></span>
 
-5. <span data-ttu-id="a2321-164">클레임을 만들려면 **클레임 만들기**를 선택 하거나, 무료 증명서 정보 페이지에서 **클레임 만들기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-164">To create a claim, select **Create a claim**, or, on the voucher details page, select **Create a claim**.</span></span>
+>[!NOTE]
+> <span data-ttu-id="2d642-141">매년 계획 서비스 프로그램에서 요구 사항을 갱신 하 고 다시 등록 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-141">You will need to renew your requirements and re-enroll in the Planning Services programs each year.</span></span>
 
-6. <span data-ttu-id="a2321-165">**클레임 만들기** 를 선택 하면 Microsoft를 구매 하기 위해 [Savb (Software 보증 증명서 혜택) 온라인 지불 도구로](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="a2321-165">Selecting **Create a claim** takes you to the [Software Assurance Voucher Benefit (SAVB) Online Payment Tool](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) in order to invoice Microsoft.</span></span>
+## <a name="create-or-update-your-companys-business-profile-new-partners"></a><span data-ttu-id="2d642-142">회사의 비즈니스 프로필 만들기 또는 업데이트 (새 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-142">Create or update your company's business profile (new partners)</span></span>
 
+<span data-ttu-id="2d642-143">잠재적 고객에 대 한 노출을 최대화 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-143">Maximize your exposure to potential customers.</span></span> <span data-ttu-id="2d642-144">[지침 및 지침](https://docs.microsoft.com/partner-center/create-a-marketing-profile) 에 따라 파트너 센터 내에서 회사의 비즈니스 프로필을 만들거나 업데이트 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-144">Follow [instructions and guidance](https://docs.microsoft.com/partner-center/create-a-marketing-profile) to create or update your company’s business profile within Partner Center.</span></span>
 
+## <a name="customer-creates-and-assigns-voucher-existing-partners"></a><span data-ttu-id="2d642-145">고객이 무료 (기존 파트너)를 만들고 할당 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-145">Customer creates and assigns voucher (existing partners)</span></span>
 
+<span data-ttu-id="2d642-146">계획 서비스 참여를 시작 하기 전에 고객은 다음 작업을 수행 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-146">Before you can begin a Planning Services engagement, your customer must take the following actions:</span></span>
+
+1. <span data-ttu-id="2d642-147">고객은 계획 서비스 혜택을 먼저 활성화 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-147">Customers must first activate their Planning Services benefit.</span></span>
+2. <span data-ttu-id="2d642-148">그런 다음 고객이 계획 서비스 무료를 만들고 회사의 프로젝트 관리자에 게 할당 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-148">Customers must then create a Planning Services voucher and assign it to a project manager in their company.</span></span>
+
+<span data-ttu-id="2d642-149">고객이 무료 증명서를 만들고 사용자에 게 할당 하기 위해 수행 해야 하는 자세한 지침은 워크플로의 [4 단계](https://go.microsoft.com/fwlink/?linkid=2115983) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-149">For detailed instructions the customer must take to create the voucher and assign it to you, see [step 4](https://go.microsoft.com/fwlink/?linkid=2115983) of the workflow.</span></span> <span data-ttu-id="2d642-150">사용자 환경에 대 한 개요는 [VLSC Software 보증 가이드](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-150">For an overview of the customer experience, see the [VLSC Software Assurance Guide](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf).</span></span>
+
+## <a name="validate-and-reserve-voucher-existing-partners"></a><span data-ttu-id="2d642-151">상품권 유효성 검사 및 예약 (기존 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-151">Validate and reserve voucher (existing partners)</span></span>
+
+<span data-ttu-id="2d642-152">고객이 [VLSC (볼륨 라이선스 서비스 센터)](https://www.microsoft.com/Licensing/servicecenter/default.aspx)에서 회사에 대 한 무료 증명서를 할당 한 후에는 고객이 증명서 ID를 포함 하는 전자 메일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-152">After a customer assigns a voucher to your company in the [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), the customer receives an email that includes the voucher ID.</span></span> <span data-ttu-id="2d642-153">고객은이 전자 메일을 사용자에 게 전달 하 여 무료 증명서를 예약 하는 데 필요한 정보를 확보 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-153">The customer needs to forward this email to you so that you have the information you need to reserve the voucher.</span></span>
+
+<span data-ttu-id="2d642-154">무료 증명서 정보가 있는 경우 무료 증명서를 예약 하 고 계획 참여를 예약할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-154">When you have the voucher details, you can reserve the voucher and schedule the planning engagement.</span></span> <span data-ttu-id="2d642-155">파트너 센터 대시보드 내에서이 작업을 수행 하는 방법에 대 한 자세한 지침은 워크플로의 [5 단계](https://go.microsoft.com/fwlink/?linkid=2115983) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-155">See [step 5](https://go.microsoft.com/fwlink/?linkid=2115983) of the workflow for detailed guidance about how to do this within the Partner Center dashboard.</span></span>
+
+## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a><span data-ttu-id="2d642-156">참여를 완료 하 고 고객에 게 결과물 제공 (기존 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-156">Complete engagement and provide deliverables to your customer (existing partners)</span></span>
+
+<span data-ttu-id="2d642-157">계획 서비스 참여를 제공할 수 있으려면 컨설턴트는 engagement의 규정을 규정 하는 규정에 필요한 기술 평가 또는 시험을 하나 이상 완료 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-157">To be eligible to deliver a Planning Services engagement, the consultant must have completed one or more of the technical assessments or exams required for the engagement’s qualifying competency.</span></span> <span data-ttu-id="2d642-158">필요한 평가 또는 시험에 대 한 자세한 내용을 [보려면 서비스 계약 계획에 대 한 자격 요구 사항을 확인](software-assurance-dps-requirements.md)하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-158">(To learn more about the assessments or exams required, [view eligibility requirements for Planning Services engagements](software-assurance-dps-requirements.md).)</span></span> 
+
+<span data-ttu-id="2d642-159">회사에서 참여를 완료 하 고 완료 된 최종 결과물을 고객에 게 제공 하 고 나면 온라인 완료 보고서를 작성 하 고 제출 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-159">After your company has completed the engagement and provided the final, completed deliverable(s) to the customer, you need to fill out and submit the online completion report.</span></span>
+
+<span data-ttu-id="2d642-160">자세한 지침은 워크플로의 [6 단계](https://go.microsoft.com/fwlink/?linkid=2115983) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-160">See [step 6](https://go.microsoft.com/fwlink/?linkid=2115983) of the workflow for detailed guidance.</span></span>
+
+## <a name="redeem-voucher"></a><span data-ttu-id="2d642-161">상품권 사용</span><span class="sxs-lookup"><span data-stu-id="2d642-161">Redeem voucher</span></span>
+
+<span data-ttu-id="2d642-162">Microsoft에서 제공 된 참여를 위해 청구서를 청구 하려면 먼저 무료를 청구 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-162">Before you can invoice Microsoft for the delivered engagement, you must first redeem your voucher.</span></span> <span data-ttu-id="2d642-163">자세한 지침은 워크플로의 [7 단계](https://go.microsoft.com/fwlink/?linkid=2115983) 를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-163">See [step 7](https://go.microsoft.com/fwlink/?linkid=2115983) of the workflow for detailed guidance.</span></span>
+
+## <a name="request-payment-from-microsoft-existing-partners"></a><span data-ttu-id="2d642-164">Microsoft에서 지불 요청 (기존 파트너)</span><span class="sxs-lookup"><span data-stu-id="2d642-164">Request payment from Microsoft (existing partners)</span></span>
+
+<span data-ttu-id="2d642-165">교환 plan Services 바우처 한 후에는 Microsoft에서 지불을 위해 청구서를 청구 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-165">After redeeming Planning Services vouchers, you must invoice Microsoft for payment.</span></span> <span data-ttu-id="2d642-166">지불액은 SAVB (Software 보증 증명서 혜택) 온라인 지불 도구를 통해 처리 됩니다.</span><span class="sxs-lookup"><span data-stu-id="2d642-166">Payments are handled through the Software Assurance Voucher Benefit (SAVB) Online Payment Tool.</span></span>
+
+<span data-ttu-id="2d642-167">SAVB를 통해 Microsoft에 송장을 제출 하려면 워크플로의 [8 단계](https://go.microsoft.com/fwlink/?linkid=2115983) 에 있는 지침을 따르세요.</span><span class="sxs-lookup"><span data-stu-id="2d642-167">To submit an invoice to Microsoft through SAVB, follow the instructions in [step 8](https://go.microsoft.com/fwlink/?linkid=2115983) of the workflow.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="2d642-168">참고 항목</span><span class="sxs-lookup"><span data-stu-id="2d642-168">See also</span></span>
+
+- [<span data-ttu-id="2d642-169">소프트웨어 보증 계획 서비스 워크플로</span><span class="sxs-lookup"><span data-stu-id="2d642-169">Software Assurance Planning Services workflow</span></span>](https://go.microsoft.com/fwlink/?linkid=2115983)
+- [<span data-ttu-id="2d642-170">소프트웨어 보증 계획 서비스 FAQ</span><span class="sxs-lookup"><span data-stu-id="2d642-170">Software Assurance Planning Services FAQ</span></span>](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [<span data-ttu-id="2d642-171">소프트웨어 보증 계획 서비스 정책</span><span class="sxs-lookup"><span data-stu-id="2d642-171">Software Assurance Planning Services policies</span></span>](https://go.microsoft.com/fwlink/?linkid=2115984)
