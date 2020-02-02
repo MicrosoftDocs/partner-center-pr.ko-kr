@@ -1,19 +1,19 @@
 ---
 title: 소프트웨어 보증 프로그램 | 파트너 센터
 ms.topic: article
-ms.date: 01/14/2019
+ms.date: 01/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스를 구축 하 고 기업 고객에 게 교육 및 계획을 제공 하기 위해 보상을 받을 수 있도록 소프트웨어 보증 프로그램에 등록 합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff23573f4cc85964a81e544ead8fa876495bbd10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a4827a8c1fbfb04bb7fccff4bd22e7311eb7e08d
+ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943086"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "76915729"
 ---
 # <a name="participate-in-software-assurance-programs"></a>소프트웨어 보증 프로그램 참여
 
@@ -22,7 +22,4 @@ SATV (Software 바우처 교육) 및 계획 서비스를 비롯 한 소프트웨
 |**자세한 정보**   |**이 글 읽기**   |
 |--------------------------|:------------------|
 |SATV (Software 바우처 교육) 프로그램에서 등록|[파트너 센터의 SATV (Software 바우처 교육) 프로그램](software-assurance-satv.md)|
-|바우처 유효성 검사 및 사용 도구 사용|[파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)|
-|소프트웨어 보증 계획 서비스에 등록|[파트너 센터의 소프트웨어 보증 계획 서비스](software-assurance-dps.md) 
-
-
+|소프트웨어 보증 계획 서비스에 등록|[파트너 센터의 소프트웨어 보증 계획 서비스](software-assurance-dps.md) |
