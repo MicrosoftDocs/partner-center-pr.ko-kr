@@ -25,9 +25,8 @@
 ## [Marketplace Rewards](marketplace-rewards.md)
 ## [Software Assurance 프로그램](software-assurance-lp.md)
 ### [파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램](software-assurance-satv.md)
-### [파트너 센터의 바우처 유효성 검사 및 사용 도구를 통해 바우처의 유효성 검사, 예약 및 사용](voucher-validation-tool.md)
-### [FAQ: 바우처 유효성 검사 및 사용 도구 사용](vvr-faq.md)
 ### [파트너 센터의 Software Assurance 계획 서비스](software-assurance-dps.md)
+#### [계획 서비스 참여를 위한 자격 요건](software-assurance-dps-requirements.md)
 ## 송장 및 세금
 ### [IMicrosoft 파트너 네트워크의 송장 및 세금](mpn-view-print-maps-invoice.md)
 ## [새 기능 시험 사용](test-drive-new-features.md)
