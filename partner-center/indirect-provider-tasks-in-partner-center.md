@@ -1,27 +1,27 @@
 ---
 title: CSP에서 간접 재판매인과 파트너 되기 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 공급자 또는 배포자로 서 간접 재판매인과 함께 파트너를 확장 하는 방법에 대해 알아봅니다. 여기에는 파트너 센터에서 수행할 수 있는 작업이 포함 됩니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004542"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012141"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
 **적절한 역할**
 -   전역 관리자
 -   사용자 관리자
--   관리자 에이전트
--   영업 에이전트
+-   관리 에이전트
+-   영업 상담원
 
 기술 시장이 매우 복잡하고 빠르게 변화하기 때문에 고객은 기술 솔루션이 제공할 수 있는 경쟁 우위를 원합니다. 이러한 환경에서 파트너는 파트너 간 협력에 투자하여 제품을 확장하고 고객이 더 많은 일을 할 수 있도록 지원하는 것이 중요합니다.
 
@@ -66,6 +66,8 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 파트너 관계를 설정하려면 재판매인에게 파트너 관계 요청 전자 메일을 보냅니다. 시작 하기 전에 재판매인의 전자 메일 주소가 있어야 합니다. 
 
+구독 정보 페이지의 재판매인 (MPN ID) 필드에 사용할 재판매인을 추가 합니다. 파트너 센터에 등록 하는 데 사용한 재판매인의 파트너 위치 계정과 연결 된 MPN ID를 사용 해야 합니다. 이를 통해 재판매인은 적절 한 성과급을 받고 트랜잭션에 참여 하는 활성 Microsoft 파트너 계약을 보유 하 게 됩니다.
+
 1. **파트너 센터** 메뉴에서 **간접 대리점** 을 선택 합니다. 
 
 2. **간접 재판매인** 페이지에서 **파트너 관계 요청**을 선택합니다. 임시 전자 메일 메시지가 표시됩니다.
@@ -89,7 +91,7 @@ CSP의 간접 모델에 대한 자세한 내용은 [Microsoft 파트너 네트�
 
 | **이를 수행 하려면** | **수행할 작업** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| 재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 재판매인을 고객 계정에 연결 | **새 고객** 페이지 |
+|재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 재판매인을 고객 계정에 연결 | **새 고객** 페이지 |
 |재판매인이 Azure 고객의 계정을 관리하도록 설정|새 고객을 추가할 때 재판매인을 Azure 고객 계정에 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)을 선택하여 간접 재판매인에게 **테넌트 소유자** 사용 권한 부여|
 | 재판매인에게 인센티브 크레딧 제공 | 재판매인을 구독(새 구독 또는 기존 구독)에 연결 | **새 구독** 페이지 |
 | 특정 구독의 고객 지원을 재판매인에게 위임 | **지정된 지원 담당자** 목록에서 재판매인 선택 | 구독 세부 정보 페이지의 **고객 페이지에서 고객을** 선택한 다음 고객의 **구독** 페이지에서 구독을 선택 합니다. |
