@@ -42,6 +42,7 @@
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md)
 ## [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)
+### [고객을 대신하여 고객 계약 동의를 증명하는 경우](attest-acceptance-customer-agreement.md)
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)

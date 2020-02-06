@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜 가격표 | 파트너 센터
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터를 사용하여 Azure 플랜이 적용되는 구독의 가격표를 보는 방법을 알아봅니다.
@@ -10,23 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722049"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812645"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표 
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 전역 관리자
-- 기술 지원팀 에이전트
-- 영업 에이전트
-- 사용자 관리 관리자
+- 글로벌 관리자
+- 기술 지원팀 상담원
+- 영업 상담원
+- 사용자 관리 담당자
 
 CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터에 게시되어 있습니다. 가격표는 정확한 실시간 파일을 통해 동적으로 제공되며 가격은 USD로만 표시됩니다. 그러나 청구는 고객의 통화 위치에서 지원하는 통화로 수행됩니다. 고객의 통화 위치에서 요금을 청구하는 방법에 대한 자세한 내용은 [Azure 플랜 - 청구](azure-plan-billing.md)를 참조하세요.
 
@@ -75,7 +75,7 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 |SkuDescription|SKU에 대한 설명|
 |UnitOfMeasure|요금이 청구되는 단위|
 |TermDuration|기간 기반 제품의 경우 예약에 적용되는 기간의 길이|
-|지역/국가|가격 책정 시장|
+|시장|가격 책정 시장|
 |Currency|가격 책정 통화|
 |UnitPrice|단가|
 |PricingTierRangeMin|계층형 가격 책정의 경우 최소 가격 적용|
@@ -86,4 +86,17 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 |MeterType|미터 유형|
 |태그|항목의 속성. Azure 플랜 가격 책정의 경우 Azure 또는 Azure Reservations(구체적으로 예약의 경우)|
 
-자세한 내용은 [가격표 정보](https://partner.microsoft.com/commerce/sales?type=Any&category=Any) 참조  
+Azure 플랜 가격표는 [Azure 플랜 가격 책정 및 Marketplace 페이지](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)에서 내보낼 수 있습니다.
+
+## <a name="pricing-api-for-azure-plan"></a>Azure 플랜 가격 책정 API
+
+[가격 책정 API](https://docs.microsoft.com/partner/develop/pricing)를 사용하여 사용량 및 예약에 대한 Azure 플랜 가격 책정을 프로그래밍 방식으로 검색할 수 있습니다. 환율도 검색할 수 있습니다. 
+
+가격 책정 API는 다른 파트너 센터 API와 다른 엔드포인트에 있습니다. 가격 책정 정보에는 Azure 플랜 리소스에 대한 미터 가격 책정(USD)과 Azure 플랜 구독에 적용되는 예약 가격 책정이 포함됩니다.
+
+또한 Azure 플랜 가격이 USD로만 책정되므로 이 API를 사용하면 파트너가 월별 환율을 검색할 수 있습니다. API를 사용하여 이번 달 또는 이전 달의 가격 책정 및 환율을 모두 검색할 수 있습니다.
+
+>[!NOTE]
+> 가격 책정 API는 Azure 플랜 가격 책정에만 적용됩니다. Azure 플랜 이외의 구독에 배포된 Azure 리소스 또는 예약의 경우 파트너 센터의 "가격 책정 및 제품" 페이지에 게시된 기존 RateCard API 및 가격표를 계속 사용해야 합니다. Azure 플랜 가격 책정 API는 Microsoft 365 또는 Dynamics 365와 같은 소프트웨어, 마켓플레이스 또는 사용자 기반 가격 책정을 지원하지 않습니다.
+
+Azure 플랜 가격 책정 및 환율 API에 대한 자세한 내용은 전체 [가격 책정 API 설명서](https://docs.microsoft.com/partner/develop/pricing)를 참조하세요.

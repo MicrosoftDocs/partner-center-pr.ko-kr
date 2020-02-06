@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004272"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723480"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
-**적절한 역할**
--   전역 관리자
--   사용자 관리자
--   관리자 에이전트
--   청구 관리자
--   MPN 파트너 관리자
+**적절한 사용자**
+-   사용하도록 설정된 모든 사용자(게스트 사용자 포함)
 
 이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대해 자주 묻는 질문이 몇 가지 포함되어 있습니다.
 
@@ -103,7 +99,7 @@ CSP 프로그램(직접 청구, 간접 공급자 및 간접 재판매인)의 모
 MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통해 인증되는 보안 메커니즘입니다. 이는 다음 인증 방법을 둘 이상 요청하는 방식으로 작동합니다.
 
 - 사용자가 알고 있는 사항(일반적으로 암호)
-- 사용자의 소유물(전화기처럼 쉽게 복제되지 않는 신뢰할 수 있는 장치)
+- 사용자의 소유물(전화기처럼 쉽게 복제되지 않는 신뢰할 수 있는 디바이스)
 - 사용자의 신체 관련 항목(생체 공학)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>MFA 사용 비용은 무엇인가요?
@@ -299,7 +295,7 @@ CPV는 CPV로서 등록과 연관된 테넌트에 Azure Active Directory 애플�
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>지원
+## <a name="support"></a>Support(지원)
 
 ### <a name="where-can-i-get-support"></a>어디에서 지원을 받을 수 있나요?
 
