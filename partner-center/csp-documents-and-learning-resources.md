@@ -1,7 +1,7 @@
 ---
 title: CSP 계약, 가격표 및 제품 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이 문서에서 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크에 대한 링크를 찾습니다.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252133"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012111"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -40,12 +40,14 @@ ms.locfileid: "74252133"
 
 [온라인 서비스 구독 및 소프트웨어 채널 권한 부여에 대한 추가 제품 약관 가이드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 클라우드 계약 고객 템플릿
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft 고객 계약 고객 템플릿
 
-고객이 해당 Microsoft 클라우드 계약에 동의하고 서명해야 고객을 대신하여 주문할 수 있습니다. Microsoft 클라우드 계약은 지역별로 다르며 여러 언어로 제공됩니다. Microsoft 클라우드 계약 [고객 템플릿](agreements.md)으로 이동하여 새로운 고객과 함께 검토해야 하는 Microsoft 클라우드 계약을 찾습니다.
+고객을 대신하여 주문하려면 먼저 고객이 해당 Microsoft 고객 계약에 동의하고 서명해야 합니다. Microsoft 고객 계약은 지역마다 다릅니다. 고객의 위치를 기준으로 올바른 국가를 선택해야 합니다.
+
+최신 버전의 Microsoft 고객 계약 템플릿을 수동으로 다운로드하려면 이 [URL](https://aka.ms/customeragreement)을 선택하세요.
 
 >[!IMPORTANT]
->고객이 서명한 사람에 대한 정보를 제공하여 Microsoft 클라우드 계약에 동의했는지 확인해야 합니다. [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md) 참조 
+>고객이 Microsoft 고객 계약에 동의했는지 확인해야 합니다. 고객이 계약에 동의했음을 증명하거나 고객이 계약에 직접 동의하도록 초대하여 확인할 수 있습니다. [Microsoft 고객 계약에 대한 고객의 동의 확인](confirm-customer-agreement.md)을 참조하세요.
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft 클라우드 계약에 대한 전문 비밀 유지 수정본(독일)
 
@@ -57,7 +59,7 @@ ms.locfileid: "74252133"
 
 [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>가격 책정
+## <a name="pricing"></a>가격
 
 **파트너 센터** 메뉴에 제공되는 **가격 책정 및 제품** 페이지에서 라이선스 기준, 사용량 기준 및 일회성 구매에 대한 가격 책정 세부 정보를 다운로드합니다.
 

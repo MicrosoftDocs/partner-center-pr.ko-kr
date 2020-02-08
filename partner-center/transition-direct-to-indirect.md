@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860491"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044736"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환 
 
@@ -27,7 +27,7 @@ ms.locfileid: "76860491"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다. 
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>시작
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 
@@ -312,6 +312,6 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 ## <a name="see-also"></a>참고 항목 
 - [간접 재판매인의 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [CSP 직접 파트너 새로운 요구 사항](direct-partner-new-requirements.md)
-- [제한 된 직접 청구 기능](restricted-direct-bill-capabilities.md)
+- [제한된 직접 청구 기능](restricted-direct-bill-capabilities.md)
 
 

@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723490"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044733"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테 넌 트에 대 한 MFA (재조정 Multi-factor Authentication)
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723490"
 
 이러한 파트너는 다음 영역에 대 한 MFA 확인을 완료 해야 합니다.
 
-- [파트너 센터 대시보드](#partner-center-dashboard) (대상 H1 CY2020)
-- [파트너 센터 API](#partner-center-api) (대상 H1 CY2020)
+- [파트너 센터 대시보드](#partner-center-dashboard) (Q2 CY2020 대상 지정)
+- [파트너 센터 API](#partner-center-api) (대상 Q2 CY2020)
 - [파트너 위임 된 관리](#partner-delegated-administration) (2019 년 11 월 18 일부 터)
 
 이 기능의 목적은 파트너가 자격 증명을 손상 시 키 지 못하도록 고객 리소스에 대 한 액세스를 보호 하는 데 도움을 주는 것입니다.
@@ -61,9 +61,9 @@ ms.locfileid: "76723490"
 
 **예 2: 파트너가 id 페더레이션을 사용 하 여 타사 MFA를 구현 했습니다.**
 1. Trent는 CSP에 대해 작동 합니다. 정문은 id 페더레이션을 통해 Azure AD와 통합 된 타사 MFA를 사용 하 여 정문 partner 테 넌 트의 모든 사용자에 대해 MFA를 구현 했습니다.
-2. 자신의 워크스테이션에서 Trent는 새 브라우저 세션을 시작 하 고 파트너 센터 대시보드 개요 페이지 (MFA로 보호 되지 않음)로 이동 합니다. 파트너 센터는 Justin을 Azure AD로 리디렉션하여 로그인 합니다.
+2. 자신의 워크스테이션에서 Trent는 새 브라우저 세션을 시작 하 고 파트너 센터 대시보드 개요 페이지 (MFA로 보호 되지 않음)로 이동 합니다. 파트너 센터는 Trent을 Azure AD로 리디렉션하여 로그인 합니다.
 3. Azure AD는 id 페더레이션을 설정 했기 때문에 페더레이션 id 공급자로 Trent를 리디렉션하여 로그인 및 MFA 확인을 완료 합니다. 로그인 및 MFA 확인이 성공적으로 완료 되 면 Trent가 Azure AD로 다시 리디렉션되고 파트너 센터 대시보드 개요 페이지로 리디렉션됩니다.
-4. Justin는 파트너 센터에서 MFA로 보호 된 페이지 중 하나에 액세스 하려고 시도 합니다. 이전에 로그인 하는 동안 Trent에서 MFA 확인을 이미 완료 했으므로 Trent는 mfa 인증을 다시 수행 하지 않고도 MFA 보호 페이지에 액세스할 수 있습니다.
+4. Trent는 파트너 센터에서 MFA로 보호 된 페이지 중 하나에 액세스 하려고 시도 합니다. 이전에 로그인 하는 동안 Trent에서 MFA 확인을 이미 완료 했으므로 Trent는 mfa 인증을 다시 수행 하지 않고도 MFA 보호 페이지에 액세스할 수 있습니다.
 
 **예 3: 파트너가 MFA를 구현 하지 않았습니다.**
 1. John은 CSP Fabrikam에 대해 작동 합니다. Fabrikam은 Fabrikam 파트너 테 넌 트의 모든 사용자에 대해 MFA를 구현 하지 않았습니다.
@@ -127,7 +127,7 @@ Azure Active Directory에서 그러한 인증 요청을 수신 하는 경우 MFA
 
 - 파트너 계정이 **페더레이션** id 인 경우 환경은 파트너 관리자가 Azure Active Directory에서 페더레이션을 구성 하는 방법에 따라 달라 집니다. Azure Active Directory에서 페더레이션을 설정할 때 파트너 관리자는 페더레이션 id 공급자가 MFA를 지원 하는지 여부를 Azure Active Directory를 나타낼 수 있습니다. 이 경우 Azure Active Directory은 사용자를 페더레이션된 id 공급자로 리디렉션하여 MFA 확인을 완료 합니다. 그렇지 않으면 사용자에 게 MFA 확인을 완료 하 라는 메시지를 직접 표시 하는 Azure Active Directory. 파트너 계정이 이전에 Azure Active Directory MFA에 등록 되지 않은 경우 사용자에 게 먼저 [mfa 등록을 완료](#mfa-registration-experience) 하 라는 메시지가 표시 됩니다.
 
-전반적인 환경은 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어, 고객 테 넌 트는 관리자 [에 게 AZURE AD 기준 정책-mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)를 사용 하도록 설정 했습니다 .이 경우 관리 권한이 있는 모든 계정에 관리 권한이 있는 모든 계정에서 관리자 에이전트 및 기술 지원팀 에이전트를 비롯 한 mfa 확인을 통해 고객 테 넌 트 테스트를 위해 파트너는 고객 테 넌 트의 [관리자 정책에 대해 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 를 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 고객 테 넌 트에 액세스할 수 있습니다.
+전반적인 환경은 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어, 고객 테 넌 트는 [AZURE AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)을 사용 하도록 설정 하 고, 관리 권한이 있는 모든 계정에서 관리자 에이전트 및 기술 지원팀 에이전트를 포함 하 여 MFA 확인으로 고객 테 넌 트에 로그인 해야 합니다. 테스트를 위해 파트너는 고객 테 넌 트의 [AZURE AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 을 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 고객 테 넌 트에 액세스를 시도할 수 있습니다.
 
 > [!NOTE]
 > 파트너 위임 된 관리자 권한을 사용 하 여 고객 리소스에 액세스할 때 모든 Microsoft Online Service 포털에는 파트너 계정이 고객 테 넌 트에 로그인 하는 데 필요 하지 않습니다. 대신 파트너 테 넌 트에 로그인 하는 데 파트너 계정만 필요 합니다. Exchange 관리 센터를 예로 들 수 있습니다. 시간이 지남에 따라 파트너 위임 된 관리자 권한을 사용 하는 경우 이러한 포털이 파트너 계정이 고객 테 넌 트에 로그인 하는 데 필요 합니다.
@@ -141,7 +141,7 @@ Azure AD가 인증 요청 등을 수신 하는 경우 Azure AD에서 MFA 확인�
 
 - 파트너는 액세스 토큰을 가져오기 위해 Azure AD에서 비 대화형 사용자 인증 방법을 사용 하지 않도록 해야 합니다. [암호 흐름과](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)같은 비 대화형 사용자 인증 방법을 사용 하는 경우 Azure AD는 사용자에 게 MFA 확인을 완료 하 라는 메시지를 표시할 수 없습니다. 파트너는 대신 [Openid connect Connect flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) 와 같은 대화형 사용자 인증 방법을 사용 하도록 전환 해야 합니다.
 - 대화형 사용자 인증 방법 중에는 파트너가 이미 MFA에 대해 사용 하도록 설정 된 파트너 사용자 계정을 사용 해야 합니다. 또는 Azure AD에서 메시지가 표시 되 면 파트너는 로그인 중에 MFA 등록 및 MFA 확인을 완료할 수 있습니다.
-- 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어 고객 테 넌 트는 관리자 [에 게 AZURE AD 기준 정책-mfa](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)를 사용 하도록 설정 했습니다 .이 경우 관리 권한이 있는 모든 사용자 계정에 관리 권한이 있는 사용자 계정으로 관리자 에이전트 및 기술 지원팀 에이전트를 포함 하 여 mfa 확인이 있는 고객 테 넌 트 테스트를 위해 파트너는 고객 테 넌 트의 [관리자 정책에 대해 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 를 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 프로그래밍 방식으로 고객 테 넌 트에 액세스할 수 있습니다.
+- 최종 고객 테 넌 트가 관리자를 위해 MFA를 구현한 시나리오와 매우 비슷합니다. 예를 들어 고객 테 넌 트는 [AZURE AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)을 사용 하도록 설정 하 고, 관리 권한이 있는 모든 사용자 계정에는 관리자 에이전트 및 기술 지원팀 에이전트를 포함 하 여 MFA 확인을 통해 고객 테 넌 트에 로그인 해야 합니다. 테스트를 위해 파트너는 고객 테 넌 트에서 [AZURE AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 을 사용 하도록 설정한 다음, 파트너 위임 된 관리 권한을 사용 하 여 프로그래밍 방식으로 고객 테 넌 트에 액세스할 수 있습니다.
 
 ### <a name="mfa-registration-experience"></a>MFA 등록 환경
 MFA 확인 중에 파트너 계정이 MFA에 등록 되지 않은 경우 Azure AD는 먼저 MFA 등록을 완료 하 라는 메시지를 표시 합니다.
