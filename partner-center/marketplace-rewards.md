@@ -10,19 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 제품, 마케팅 지원, 보상, 게시자 혜택
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171207"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075618"
 ---
 # <a name="manage-marketplace-rewards"></a>마켓플레이스 보상 관리
 
 적절 한 역할:
 
 - MPN 파트너 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 
 상용 marketplace에 소프트웨어 제품을 게시 하는 경우 Marketplace 보상은 마케팅, 판매 및 기술 혜택을 포함 하는 모든 제품을 대상으로 하는 지원을 제공 합니다. 
@@ -38,7 +38,7 @@ Marketplace 보상 자격은 MPN 회사에 연결 된 모든 게시자 프로필
 
 3. 마케팅 연락처 정보를 추가 하거나 업데이트 하려면 Marketplace 보상 페이지의 영업 및 마케팅 혜택 탭 맨 위로 이동한 다음 **추가, 업데이트 또는 변경**을 선택 합니다. 
 
-다음으로, 아래 작업을 수행합니다.
+다음 작업을 수행 합니다.
 
   - 목록에서 사용자를 선택합니다. 할당 하려는 사용자가 목록에 없는 경우 계정 설정에서 새 사용자를 추가할 수 있습니다.
 
@@ -54,9 +54,9 @@ Marketplace 보상 자격은 MPN 회사에 연결 된 모든 게시자 프로필
 
 2. Azure 후원 혜택을 활용 하는 방법은 이러한 혜택의 잠금을 해제할 때 전자 메일을 통해 공유 됩니다. 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>내 대시보드에서 상업적 보상 Marketplace 프로그램이 표시 되지 않는 이유는 무엇 인가요?
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>내 대시보드에서 상업적 Marketplace 보상 프로그램이 표시 되지 않는 이유는 무엇 인가요?
 
-Marketplace 보상 정보는 파트너 센터 계정을 만드는 데 사용 된 Azure AD 테 넌 트 및 MPN ID를 통해 사용할 수 있습니다. 이 계정을 회사의 파트너 전역 계정 (표준) 이라고 합니다. AAD 테 넌 트가 MPN 온 보 딩에 사용 되는 것과 다른 경우, 상용 보상 마켓플레이스 메뉴를 보려면 회사의 고와 연결 해야 합니다. 
+Marketplace 보상 정보는 파트너 센터 계정을 만드는 데 사용 된 Azure AD 테 넌 트 및 MPN ID를 통해 사용할 수 있습니다. 이 계정을 회사의 파트너 전역 계정 (표준) 이라고 합니다. Azure AD 테 넌 트가 MPN 온 보 딩에 사용 되는 테 넌 트와 다른 경우, 상업적 보상 마켓플레이스 메뉴를 보려면 회사의 요구 사항에 연결 해야 합니다. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Azure AD 테 넌 트를 회사의 고와 연결 하려면
 
