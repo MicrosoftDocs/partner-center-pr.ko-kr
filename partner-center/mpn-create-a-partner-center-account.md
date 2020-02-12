@@ -1,28 +1,28 @@
 ---
 title: 파트너 센터 계정 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096483"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069699"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
 **적절한 역할**
 
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 
-파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 구성원이어야 합니다. 네트워크 구성원이 아닌 경우 [지금 가입](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)할 수 있습니다.  Microsoft 파트너 네트워크의 멤버십에 대한 [자세한 정보](https://partner.microsoft.com/membership)를 알아보세요. 파트너 센터 계정을 만든 후 [대시보드 검색](https://vimeo.com/290338211)이라는 짧은 비디오를 시청하세요.
+파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 구성원이어야 합니다. 네트워크 구성원이 아닌 경우 [지금 가입](https://partner.microsoft.com/commercial#)할 수 있습니다. 파트너 센터 계정을 만든 후 [대시보드 검색](https://vimeo.com/290338211)이라는 짧은 비디오를 시청하세요.
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
