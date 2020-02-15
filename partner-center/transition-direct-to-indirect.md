@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044736"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213341"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환 
 
@@ -137,7 +137,7 @@ ms.locfileid: "77044736"
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>직접 청구 고객을 간접 공급자로 이동
 
-간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문 또는 기존 구독 전송을 제출할 수 없습니다. 간접 공급자와 기존 간접 공급자 간에 재판매인 관계를 설정 하려면 다음 방법 중 하나를 사용할 수 있습니다. 
+간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문 또는 기존 구독 전송을 제출할 수 없습니다. 간접 공급자와 기존 직접 청구 고객 간에 재판매인 관계를 설정 하려면 다음 방법 중 하나를 사용할 수 있습니다. 
 
 - [대리점 관계 확장](#reseller-relationship-extension) 
 
@@ -147,7 +147,7 @@ ms.locfileid: "77044736"
 
 대리점 관계 확장 기능을 사용 하 여 파트너 센터 대시보드를 사용 하 여 기존 직접 청구 고객 및 간접 공급자 간에 재판매인 관계를 설정할 수 있습니다. 기능을 사용 하기 전에 다음에 유의 하십시오. 
 
-- 이 기능은 간접 재판매인이 간접 재판매인 [등록](#get-started)을 완료 하는 것으로 전환 중인 직접 청구 파트너 에게만 사용할 수 있습니다. 
+- 이 기능은 간접 재판매인이 [간접 재판매인 등록](#get-started)을 완료 하는 것으로 전환 중인 직접 청구 파트너 에게만 사용할 수 있습니다. 
 
 - 기존 직접 청구 고객 에게만이 기능을 적용할 수 있습니다. [간접 재판매인 고객](#acquire-new-customers-as-indirect-reseller)에 게는 적용 되지 않습니다. 
 
@@ -160,7 +160,7 @@ ms.locfileid: "77044736"
 
 - 간접 공급자는 고객 테 넌 트에 [위임 된 관리 권한이](customers_revoke_admin_privileges.md) 제공 되지 않습니다. 간접 공급자에 게 위임 된 관리 권한이 필요한 경우 대신 간접 재판매인 초대를 고객에 게 보내야 합니다.
 
-- 대리점 관계가 설정 되 면 간접 공급자는 M365 관리 센터의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
+- 대리점 관계가 설정 되 면 간접 공급자는 [M365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
 
 >[!Note] 
 >혼동 및 있다면 오해을 방지 하기 위해 관계 확장 기능을 사용 하 여 기존에 있는 파트너와의 제휴 관계를 설정 하기 전에 직접 청구 고객 으로부터 동의 하 고 동의 하는 계약상 의무 없지만. 청구 고객 및 간접 공급자를 직접 지원 합니다. 
@@ -197,6 +197,22 @@ ms.locfileid: "77044736"
 
 6. 고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다. 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 고객 계약 승인
+
+Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 이 날짜 이후에는 모든 고객 (기존 및 신규)이 새 [Microsoft 고객 계약](https://docs.microsoft.com/partner-center/confirm-customer-agreement)에 서명 해야 합니다. 고객을 전환 하는 경우에는 다음을 수행 합니다.
+
+- **고객이 Microsoft 고객 계약을 아직 수락 하지 않았습니다.**
+
+   간접 공급자와 협력 하 여 고객이 [Microsoft 고객 계약에 동의]( https://docs.microsoft.com/partner-center/confirm-customer-agreement)하도록 하세요.
+
+- **고객이 Microsoft 365 관리 센터를 통해 Microsoft 고객 계약에 동의 했습니다.**
+
+   이는 간접 공급자를 사용 하 여 재판매인 관계가 설정 된 후에 보존 됩니다. 수행 해야 할 작업이 없습니다.
+
+- **고객이 파트너 증명을 통해 Microsoft 고객 계약에 동의 함**
+
+   수락은 유지 되지 않습니다. 간접 공급자와 협력 하 여 [파트너 센터에서 고객의 동의를 업데이트]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers)하세요.
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>간접 공급자에 게 기존 직접 청구 구독 이전
 
 CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지 않습니다. 대신 간접 대리점은 간접 공급자를 통해 고객에 대 한 구독을 받습니다. 직접 청구 파트너에서 간접 재판매인으로 전환 하는 동안 직접 청구 파트너 인 기존 구독을 간접 공급자에 게 양도 해야 합니다. 파트너 센터 대시보드에서 자체 제공 되는 구독 전송 기능을 사용 하 여이 작업을 수행할 수 있습니다. 
@@ -208,6 +224,8 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 - 이 기능은 기존 직접 청구 파트너 테 넌 트를 사용 하 여 간접 재판매인 등록을 완료 한 파트너를 전환 하는 경우에만 사용할 수 있습니다. 
 
 - 지정 된 고객과 연결 된 구독을 전송 하기 전에 전환 파트너가 고객을 간접 공급자로 이동 해야 합니다. 
+
+- 고객이 [간접 공급자를 통해 Microsoft 고객 계약](#microsoft-customer-agreement-acceptance)에 동의 했습니다.
  
 ### <a name="how-to"></a>사용 방법
 
@@ -293,13 +311,15 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
  
 ### <a name="considerations"></a>고려 사항
 
+- **전송 후에는 구독 ID가 다릅니다.** Azure 구독 (MS-AZR-0017P-0145P) 인 경우에는 이전 소유자 로부터 유지 되 고 Azure 관리 포털에 표시 되는 Azure 구독 ID가 있습니다.
+
 - **여러 전송 요청에서 동일한 구독을 참조할 수 없습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 첫 번째 전송 요청이 취소 될 때까지 동일한 구독을 포함 한 추가 전송 요청을 만들 수 없습니다. 
 
 - **사용자 기반 구독에 대 한 추가 기능은 해당 기본 구독과 함께 전송 되어야 합니다.** 전송 요청을 만들 때 하나 이상의 추가 기능이 있는 기존 구독을 선택 하면 해당 추가 기능이 전송 요청에 자동으로 포함 됩니다. 
 
 - **구독에 대 한 사용자 수 변경 내용은 기존 전송 요청에 반영 되지 않습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 구독 (또는 연결 된 addons)의 좌석 수량을 업데이트 하지 않아야 합니다. 이렇게 하면 새 수량이 전송 요청에 반영 되지 않습니다. 간접 공급자가 전송 요청을 수락 하면 결과 구독은 이전 수량을 갖게 됩니다. 간접 공급자로 새 수량을 전송 하려는 경우 기존 전송 요청을 취소 하 고 새 전송 요청을 다시 만들어야 합니다. 
 
-- **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAGY 구독 (MS MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다.
+- **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAGY 구독 (MS MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다. 이러한 구독을 전송 하려면 [기존 구독을 취소](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) 하 고 간접 공급자를 통해 고객에 대 한 새 제품을 구매 해야 합니다.
 
 - **샌드박스 환경을 사용 하 여 테스트할 수 없습니다.** 
 
