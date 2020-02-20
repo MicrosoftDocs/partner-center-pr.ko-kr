@@ -30,7 +30,7 @@ Microsoft의 SLA 크레딧을 영향을 받는 서비스에 따라 결정 됩니
 
 *CSP (클라우드 솔루션 공급자) 파트너는 인시던트가 발생 한 월 뒤에 월의 끝에 클레임 및 모든 필수 정보를 제출 해야 합니다.* 예를 들어 인시던트가 2 월 15 일에 발생 한 경우 Microsoft는 3 월 31 일까 지 클레임 및 모든 필수 정보를 받아야 합니다. 최종 고객 및 간접 대리점은 SLA 크레딧 청구를 제출할 수 없습니다. 간접 공급자 또는 직접 청구 파트너는 대신 클레임을 제출 해야 합니다.
 
-### <a name="required-information"></a>Szükséges információk
+### <a name="required-information"></a>필요한 정보
 
 [SLA 신용 요청](#submit-sla-credit-request) 을 Microsoft에 제출 하기 전에 지원 티켓에 포함할 다음 정보를 수집 해야 합니다.
 
@@ -48,8 +48,8 @@ Microsoft 365 관리 센터의 **Service Health** 페이지에서 중단 인시�
 | FO | Exchange Online 보호 |
 | SB | 비즈니스용 Skype Online (이전의 Lync Online) |
 | OS | Office 구독 |
-| PB | Office 365-höz készült Power BI |
-| SP-2 | SharePoint Online |
+| PB | Office 365용 Power BI |
+| SP | SharePoint Online |
 | 구 | Yammer 엔터프라이즈 |
 | MO | 포털 오류 |
 

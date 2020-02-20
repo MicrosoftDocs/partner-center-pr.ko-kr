@@ -44,7 +44,7 @@ Microsoft 클라우드 독일 Azure 포털에 로그인한 후 Azure AD(Azure Ac
 > [!NOTE]  
 > 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다. 
 
--  [Új felhasználók hozzáadása az Azure Active Directoryhoz](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Azure Active Directory에 새 사용자 추가](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Azure Active Directory에서 관리자 역할에 사용자 할당](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
@@ -52,7 +52,7 @@ Microsoft 클라우드 독일 Azure 포털에 로그인한 후 Azure AD(Azure Ac
 
 **관련 항목**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure 독일](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
 

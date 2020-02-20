@@ -67,9 +67,9 @@ GTM 혜택을 보려면 다음을 수행 합니다.
 
 1. 파트너 센터 [대시보드에]( https://docs.microsoft.com/partner-center/)로그인 합니다.
 
-2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. Ezután tegye a következők valamelyikét:
+2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 다음, 다음 중 하나를 수행 합니다.
 
-    - Válassza az **Áttekintés** lehetőséget. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
+    - **개요**를 선택 합니다. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
 
       또는
 

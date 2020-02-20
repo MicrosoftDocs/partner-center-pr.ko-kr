@@ -17,7 +17,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 12/09/2019
 ms.locfileid: "74943166"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Győződjön meg arról, hogy jár Önnek visszatartott adó
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
 
 적용 대상:
 
@@ -83,7 +83,7 @@ Microsoft에 제출 하기 전에 양식이 정확한 지 확인 합니다.
 
 세금 인증서는 **Microsoft 청구서에만**해당 됩니다. 인증서에 포함 되는 **다른 회사가** 있는 경우 내부 처리에서 양을 제외 시킬 수 있는 용량을 지정 합니다. 그러나 전체 인증서에 포함 되는 것에 대 한 전체 표시도 있습니다.
 
-## <a name="create-a-service-request"></a>Szolgáltatáskérés létrehozása
+## <a name="create-a-service-request"></a>서비스 요청 만들기
 
 다음 정보는 **CSP (클라우드 솔루션 공급자) 프로그램**의 파트너에 *만* 적용 됩니다. 여기에는 **직접 청구 파트너** 및 **간접 공급자**만 포함 됩니다. **간접 대리점** 은 대신 **간접 공급자** 와 함께 작업 해야 합니다.
 
