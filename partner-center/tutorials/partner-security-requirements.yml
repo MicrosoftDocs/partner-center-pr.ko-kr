@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425215"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521036"
 items:
 - title: 소개
   durationInMinutes: 5
@@ -25,7 +25,7 @@ items:
 - title: 파트너 보안 요구 사항이 무엇인가요?
   durationInMinutes: 1
   content: >
-    클라우드 솔루션 공급자 프로그램에 참가하는 모든 파트너, 제어판 공급업체 및 Advisor 파트너는 파트너 테넌트의 각 사용자에게 MFA(Multi-Factor Authentication)를 적용해야 합니다. 이 작업은 두 가지 [Azure Active Directory 기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)을 사용하여 수행할 수 있습니다. 기준 정책은 여러 일반적인 공격으로부터 조직을 보호하는 데 도움이 되는 미리 정의된 정책 세트입니다. 이러한 일반적인 공격은 암호 스프레이, 재생 및 피싱을 포함할 수 있습니다. 기준 정책은 모든 버전의 Azure Active Directory에서 사용할 수 있습니다. 지난 몇 년 동안 ID 기반 공격이 증가해 왔기 때문에 Microsoft는 이러한 기준 보호 정책을 모든 사용자에게 제공하고 있습니다.
+    클라우드 솔루션 공급자 프로그램에 참가하는 모든 파트너, 제어판 공급업체 및 Advisor 파트너는 파트너 테넌트의 각 사용자에게 MFA(Multi-Factor Authentication)를 적용해야 합니다. 이 적용 작업은 두 가지 [Azure Active Directory 기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)을 사용하여 수행할 수 있습니다. 기준 정책은 여러 일반적인 공격으로부터 조직을 보호하는 데 도움이 되는 미리 정의된 정책 세트입니다. 이러한 일반적인 공격은 암호 스프레이, 재생 및 피싱을 포함할 수 있습니다. 기준 정책은 모든 버전의 Azure Active Directory에서 사용할 수 있습니다. 지난 몇 년 동안 ID 기반 공격이 증가해 왔기 때문에 Microsoft는 이러한 기준 보호 정책을 모든 사용자에게 제공하고 있습니다.
 
 
     사용하도록 설정해야 하는 두 가지 기준 정책은 아래 표에 설명되어 있습니다.
@@ -45,7 +45,7 @@ items:
 
     > [!IMPORTANT]
 
-    > MFA는 파트너 디렉터리의 모든 사용자에게 적용되므로 사용자 자격 증명을 활용하는 모든 자동화 또는 통합에 영향을 줍니다. 이러한 영향을 해결하려면 자동화 또는 통합이 Microsoft 상용 클라우드 서비스에 연결하는 방법을 수정해야 합니다. 연결하는 서비스에서 토큰 기반 인증을 지원하는 경우 [보안 애플리케이션 모델 프레임워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)를 구현하는 것이 좋습니다.
+    > MFA는 파트너 디렉터리의 모든 사용자에게 적용되므로 사용자 자격 증명을 활용하는 모든 자동화 또는 통합에 영향을 줍니다. 이러한 영향을 해결하려면 자동화 또는 통합을 Microsoft 상용 클라우드 서비스에 연결하는 방법을 수정해야 합니다. 연결하는 서비스에서 토큰 기반 인증을 지원하는 경우 [보안 애플리케이션 모델 프레임워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)를 구현하는 것이 좋습니다.
 - title: 관리자용 MFA 필요 기준 정책을 사용하려면 어떻게 해야 하나요?
   durationInMinutes: 5
   content: >
