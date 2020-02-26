@@ -1,7 +1,7 @@
 ---
 title: Azure 요금제 청구 | 파트너 센터
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 02/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 요금제에 대한 청구와 관련된 청구서 및 조정 파일 구조에 액세스하고 이해하는 방법을 알아봅니다.
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722217"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521046"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
 **적절한 역할:**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 
-Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다. 청구 플랫폼에 대한 자세한 내용은 [청구 개요](billing-basics.md)를 참조하세요.
+Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다.
 
 ## <a name="summary-of-billing-essentials"></a>청구 기본 정보 요약
 
