@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521012"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618522"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
 
@@ -47,7 +47,7 @@ ms.locfileid: "77521012"
 ![청구서에 대 한 세금 원천 세부 정보를 완료 합니다.](images/wht2.png)
 
 6. **세금 원천 세부 정보**아래에 "원천 Total"을 입력 합니다. "원천 Total"은 제공한 것으로 예상 되는 금액입니다.
-7. 세금 인증서를 **첨부** 합니다. 세금 원천 요청에 **원천 세금 인증서** 의 **디지털 복사본** 을 포함 해야 합니다. 파트너 센터에서 요청을 제출할 때 현지 세금 기관에서이 인증서를 받았습니다. **세금 원천 요청 프로세스**를 사용 하 여 **영어가 아닌 언어 세금 인증서** 를 제출 하는 경우 세금 인증서의 **번역** 을 포함 해야 합니다. 원천 세금 인증서의 청구서 세율은 세금 원천 요청에서 총 금액과 일치 해야 합니다. 
+7. 세금 인증서를 **첨부** 합니다. 세금 원천 요청에 **원천 세금 인증서** 의 **디지털 복사본** 을 포함 해야 합니다. 파트너 센터에서 요청을 제출할 때 현지 세금 기관에서이 인증서를 받았습니다. 원천 세금 인증서의 청구서 세율은 세금 원천 요청에서 총 금액과 일치 해야 합니다. 
 
 > [!IMPORTANT]
 > 파트너가 제공 하는 총 합계는 연결 된 세금 인증서의 청구서 품목과 일치 해야 합니다.
