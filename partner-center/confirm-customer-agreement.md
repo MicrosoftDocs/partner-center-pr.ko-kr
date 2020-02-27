@@ -1,7 +1,7 @@
 ---
 title: 고객의 Microsoft 고객 계약 동의 확인 | 파트너 센터
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법을 알아봅니다. 이는 고객을 위해 Microsoft 제품 및 서비스를 주문하는 데 필요할 수 있습니다.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012187"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521026"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 확인
 
@@ -104,7 +104,7 @@ ms.locfileid: "77012187"
 
 5. **저장**을 선택하고 계속합니다.
 
-![기존 고객](images/mcua2.png)
+![기존 고객](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>고객 동의 여부 확인 검색
 
@@ -125,6 +125,9 @@ ms.locfileid: "77012187"
 - 재판매인 관계와 계약을 검토하고 동의하도록 새 고객 초대
 
 - 계약을 검토하고 동의하도록 기존 고객 초대
+
+>[!NOTE]
+> [파트너 센터 API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)를 사용하여 Microsoft 고객 계약에 대한 고객의 직접 동의 상태를 가져올 수 있습니다.  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>새 고객 만들기 및 계약을 검토하고 동의하도록 고객 초대
 
