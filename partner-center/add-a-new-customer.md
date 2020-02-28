@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860444"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672713"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가 
 
@@ -28,9 +28,9 @@ ms.locfileid: "76860444"
 **적절한 역할**
 
 - 전역 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
 
 
 구독을 판매 하거나, 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 파트너 센터의 고객 목록에 추가 해야 합니다.
@@ -42,10 +42,10 @@ ms.locfileid: "76860444"
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.
 
-2. **계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 하 고 고객이 최신 [Microsoft 클라우드 계약](agreements.md)에 동의 하 고 서명 했는지 확인 합니다.
+2. **계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 하 고 고객이 최신 [Microsoft 고객 계약](agreements.md)에 동의 하 고 서명 했는지 확인 합니다.
 
 >[!IMPORTANT] 
-> 2019 년 10 월 1 일에 Microsoft는 CSP 프로그램에 **Microsoft 고객 계약** 을 도입 하 여 Microsoft 클라우드 계약을 대체 했습니다. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 2020년 1월 31일까지 현재 Microsoft 클라우드 계약이 CSP 프로그램에서 지원될 예정입니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.
+> 2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.
   
 3. 간접 공급자 인 경우 목록에서이 고객의 구독과 연결 하려는 간접 재판매인을 선택 합니다.
 

@@ -8,12 +8,12 @@ description: 미국 정부에 대 한 Microsoft 클라우드 CSP (클라우드 �
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253643"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672673"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government용 파트너 센터에 대한 FAQ
 
@@ -25,7 +25,7 @@ ms.locfileid: "74253643"
 
 Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP) 프로그램에 대한 자세한 내용은 FAQ를 참조하세요. 추가 정보는 고객 담당 관리자에게 문의하시기 바랍니다. 
 
-### <a name="common"></a>일반
+### <a name="common"></a>공용
 
 **미국 정부에 대 한 Microsoft 클라우드은 무엇 인가요?**
 
@@ -37,7 +37,7 @@ Microsoft Cloud for US Government를 위한 클라우드 솔루션 공급자(CSP
 
 **고객 가격은 CSP 상용의 경우와 동일 하나요?**
 
-아니요. 요금에는 Microsoft Cloud for US Government의 고유한 가치를 제공하기 위한 추가 비용이 반영됩니다.
+No. 요금에는 Microsoft Cloud for US Government의 고유한 가치를 제공하기 위한 추가 비용이 반영됩니다.
 
 **Partner 크기 모델이 동일한 가요?**
 
@@ -71,13 +71,13 @@ MCRA는 CSP를 이용한 재판매 권한을 파트너에게 부여합니다. �
 
 -   미국 정부 클라우드 부록에는 미국 정부 클라우드 서비스 거래에 대한 파트너의 추가 책임이 포함됩니다.
 
--   에는 CSP와 고객 간에 입력 된 미국 정부 클라우드 서비스의 모든 계약에 통합 되어야 하는 Microsoft 클라우드 계약 (Microsoft 클라우드 계약)이 포함 되어 있습니다.
+-   우리에 게는 CSP와 고객 간에 입력 된 미국 정부 클라우드 서비스의 모든 계약에 통합 되어야 하는 Microsoft 고객 계약 (Microsoft 고객 계약)이 포함 되어 있습니다.
 
-*MCRA에서 공시물 A로 제공 되는 Microsoft 클라우드 규약 (Microsoft 클라우드 계약)*
+*Microsoft 고객 계약 (Microsoft 고객 계약)이 MCRA에 표시 되는 것으로 표시 됨*
 
 CSP는 CSP와 미국 정부용 Microsoft 클라우드 구매 고객 간의 정부 계약에 별첨 A를 포함해야 합니다. 계약서는 파트너 센터에서 영어로 발행합니다.
 
-미국 정부 클라우드용 Microsoft 클라우드 계약은 다음 두 가지 면에서 표준 Microsoft 클라우드 계약과 다릅니다.
+미국 정부 클라우드의 Microsoft 고객 계약은 다음과 같은 두 가지 방법으로 표준 Microsoft 고객 계약과 다릅니다.
 
 -   이는 고객과 함께 CSP의 계약에 통합 되어야 합니다.
 
@@ -91,7 +91,7 @@ Microsoft 클라우드 배포자 계약(MCDA)은 배포자에게 CSP를 통한 �
 
 -   미국 정부용 Microsoft 클라우드 부록에는 미국 정부 클라우드 서비스 거래에 대한 파트너의 추가 책임이 포함됩니다.
 
--   에는 CSP와 해당 고객 간에 입력 된 미국 정부 클라우드 서비스의 모든 계약에 통합 해야 하는 Microsoft 클라우드 계약 (Microsoft 클라우드 계약)이 포함 되어 있습니다.
+-   에는 CSP와 고객 간에 입력 된 미국 정부 클라우드 서비스의 모든 계약에 통합 해야 하는 Microsoft 고객 계약 (Microsoft 고객 계약)이 포함 되어 있습니다.
 
 **미국 정부에 대 한 Microsoft 클라우드 판매에 대 한 자격은 무엇 인가요?**
 
@@ -103,11 +103,11 @@ Microsoft 정부 클라우드를 위한 CSP 프로그램 판매에 요구되는 
 
 **파트너의 성과급에 차이가 있나요?**
 
-아니요. Microsoft Cloud for US Government를 위한 CSP 프로그램의 파트너 인센티브는 CSP Commercial의 파트너 인센티브와 동일합니다. 파트너 인센티브에 대한 자세한 정보는 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/partner-incentives)에 로그인해 확인할 수 있습니다.
+No. Microsoft Cloud for US Government를 위한 CSP 프로그램의 파트너 인센티브는 CSP Commercial의 파트너 인센티브와 동일합니다. 파트너 인센티브에 대한 자세한 정보는 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/partner-incentives)에 로그인해 확인할 수 있습니다.
 
 **청구에 대 한 변경 내용이 있나요?**
 
-아니요. Microsoft Cloud for US Government를 위한 CSP 프로그램의 청구 조건과 요구사항은 CSP Commercial과 동일합니다. 청구에 대한 자세한 정보는 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)의 리소스를 검토해 확인할 수 있습니다.
+No. Microsoft Cloud for US Government를 위한 CSP 프로그램의 청구 조건과 요구사항은 CSP Commercial과 동일합니다. 청구에 대한 자세한 정보는 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)의 리소스를 검토해 확인할 수 있습니다.
 
 **상용 데이터 센터에서 호스트 되는 데이터의 경우 미국 정부에 대 한 Microsoft 클라우드로 변경할 수 있나요?**
 
@@ -118,11 +118,11 @@ Microsoft 정부 클라우드를 위한 CSP 프로그램 판매에 요구되는 
 
 **Azure의 미국 정부에 대 한 Microsoft 클라우드은 무엇 인가요?**
 
-Azure Government 클라우드는 보안, 개인 정보 및 통제, 준수, 투명성이라는 기본 원칙을 기반으로 구축된 클라우드 플랫폼을 제공합니다. 공공 부문 조직은 물리적으로 격리된 Microsoft Azure 인스턴스를 제공받아, 이 아키텍처를 기반으로 미국 정부의 모든 시스템 및 응용 프로그램에 필수적인 세계적 수준의 보안과 준수 서비스를 이용할 수 있습니다. 이러한 서비스에는 FedRAMP 및 DoD 준수 인증, CJIS 국가 수준 계약, HIPAA 동업자 계약 체결 능력, IRS 1075 지원이 포함됩니다. 엄선된 미국 사용자가 운용하는 Azure Government는 솔루션을 온-프레미스 또는 클라우드를 통해 구축 및 배포할 여러 하이브리드 시나리오를 지원합니다. 하이퍼스케일 클라우드 서비스를 통해 공공 부문 조직의 클라우드에 즉각적인 확장이 가능해지고 가동 시간이 보장됩니다.
+Azure Government 클라우드는 보안, 개인 정보 및 통제, 준수, 투명성이라는 기본 원칙을 기반으로 구축된 클라우드 플랫폼을 제공합니다. 공공 부문 조직은 물리적으로 격리된 Microsoft Azure 인스턴스를 제공받아, 이 아키텍처를 기반으로 미국 정부의 모든 시스템 및 애플리케이션에 필수적인 세계적 수준의 보안과 준수 서비스를 이용할 수 있습니다. 이러한 서비스에는 FedRAMP 및 DoD 준수 인증, CJIS 국가 수준 계약, HIPAA 동업자 계약 체결 능력, IRS 1075 지원이 포함됩니다. 엄선된 미국 사용자가 운용하는 Azure Government는 솔루션을 온-프레미스 또는 클라우드를 통해 구축 및 배포할 여러 하이브리드 시나리오를 지원합니다. 하이퍼스케일 클라우드 서비스를 통해 공공 부문 조직의 클라우드에 즉각적인 확장이 가능해지고 가동 시간이 보장됩니다.
 
 **미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램은 모든 Azure 서비스를 제공 하나요?**
 
-현재 IaaS 및 기본 플랫폼과 데이터 상품이 제공되고 있습니다. 이 로드맵은 지속적으로 업데이트 되며 파트너 센터 (인증 필요) 내의 CSP 상업적 설명서와 유사 하 게 설명서를 제공 합니다. 현재 사용 가능한 Azure Government 서비스를 검토할 수는 있지만 클래식 계산, 네트워킹, 저장소, 클라우드 서비스 등 일부 서비스는 CSP용으로 설계되거나 작동하지 않습니다.
+현재 IaaS 및 기본 플랫폼과 데이터 상품이 제공되고 있습니다. 이 로드맵은 지속적으로 업데이트 되며 파트너 센터 (인증 필요) 내의 CSP 상업적 설명서와 유사 하 게 설명서를 제공 합니다. 현재 사용 가능한 Azure Government 서비스를 검토할 수는 있지만 클래식 계산, 네트워킹, 스토리지, 클라우드 서비스 등 일부 서비스는 CSP용으로 설계되거나 작동하지 않습니다.
 
 **미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램을 사용 하 여 개발 하려면 어떻게 해야 하나요?**
 

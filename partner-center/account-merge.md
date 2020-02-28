@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: e431d14c90e1884076e0aebf14dbca6644b1796b
-ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+ms.openlocfilehash: 5194f9ca6bcd843a748a2f6035fdd14422712548
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "77076006"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672660"
 ---
 # <a name="merging-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정에 병합
 
@@ -43,7 +43,8 @@ ms.locfileid: "77076006"
 
 ### <a name="view-of-merged-accounts"></a>병합 된 계정 보기
 
-![병합 된 계정](images/accountmerge1.png)
+![병합 된 계정](images/AccountMerge_graphic.png)
+
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>파트너 센터 계정을 다른 파트너 센터 계정과 병합 하기 위해 초대 된 경우에 발생할 수 있는 것입니다.
 

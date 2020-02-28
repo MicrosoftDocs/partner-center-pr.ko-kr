@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, PSTN 서비스, 세금, 요구 사항, 송장, 청구서
 ms.localizationpriority: medium
-ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005062"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672823"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 파트너 자문: CSP의 Microsoft 365 음성
 
@@ -25,7 +25,7 @@ ms.locfileid: "75005062"
 -   사용자 관리자
 -   관리자 에이전트
 
-일부 국가의 PSTN (공개 교환 전화 네트워크) 서비스에는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항이 적용 될 수 있습니다.  미국, 푸에르토리코 및 캐나다에서 비즈니스용 Skype PSTN 및 Microsoft 365 음성 서비스에는 특별 한 세금 및 규정 요구 사항이 적용 됩니다. 미국 및 푸에르토리코에서 Microsoft는 PSTN 서비스를 세금 포함으로 가격으로 포함 합니다.  고유한 PSTN 세금 및 규정은 Microsoft 365 음성 제품 거래 Office 365 파트너에 게 영향을 줍니다.  파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
+일부 관할지의 공개 PSTN (스위치 전화 네트워크) 서비스에는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항이 적용 될 수 있습니다. 푸에르토리코를 비롯 한 미국에서 오디오 회의, 호출 계획 및 통신 크레딧을 포함 하는 PSTN 서비스는 특별 한 세금 및 규정 요구 사항에 따라 결정 됩니다. 미국 및 푸에르토리코에서 Microsoft는 PSTN 서비스를 세금 포함으로 가격으로 포함 합니다.  고유한 PSTN 세금 및 규정은 Microsoft 365 음성 제품 거래 Office 365 파트너에 게 영향을 줍니다.  파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
 
 ## <a name="partner-recommendations"></a>파트너 권장 사항
 
