@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: 구독, 제품, 구매, Marketplace, 제 3 자, ISV, 청구, 송장, 조정, 정찰 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384917"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161449"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>상업적 marketplace 제품에 대 한 청구
 
@@ -23,9 +23,9 @@ ms.locfileid: "74384917"
 - 파트너 센터
 - CSP 프로그램의 파트너
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 청구 관리자
 
 CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 상업적 marketplace의 ISV 게시자 로부터 라이선스 기반 SaaS 제품을 구매할 수 있습니다. 이렇게 하면 이러한 유형의 구매 청구서에 액세스할 수 있습니다. 청구 기간은 해당 월의 첫 번째 날부터 시작 하 여 월의 마지막 날에 끝납니다. 청구서는 다음 달의 여덟 번째 날에 사용할 수 있습니다.
@@ -35,7 +35,7 @@ CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 상업적
 CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의 이전 CSP 구매한 Azure 테 넌 트를 사용 하 여)에서 해당 제품을 구매할 때 고객이 구매한 ISV 상용 marketplace 솔루션에 대 한 요금이 청구 됩니다.
 
 >[!NOTE]
->고객이 자신의 Azure AD 테 넌 트를 사용 하는 경우 (CSP 프로그램에서 파트너 로부터 구매한 것이 아닌 경우), 고객은 ([Microsoft AppSource](https://appsource.microsoft.com/) 또는 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 직접 자체 ISV SaaS 솔루션을 구매할 수도 있습니다. 이러한 작업을 수행 하는 경우 Microsoft에서 직접 자신의 청구서를 받게 됩니다. 마찬가지로 CSP 프로그램의 파트너가 Azure AD 테 넌 트를 고객에 게 판매 하 고 해당 테 넌 트에 대 한 사용자 [역할 기반 액세스](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) 권한을 부여 하는 경우 ( **독자**외에도 고객에 게 역할을 할당 하는 경우) 해당 고객은 CSP 파트너에 게 사전 승인 또는 알림 없이 상용 마켓플레이스 제품을 구매할 수도 있습니다. 이러한 경우 Microsoft는 CSP 프로그램에서 고객의 구매에 대 한 파트너에 게 직접 알리지 않습니다. 그러나 Microsoft는 Azure 구독에 대 한 작업에 대 한 알림 또는 알림을 설정 하는 데 사용할 수 있는 선택적 [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) 메커니즘을 제공 합니다.
+>고객이 자신의 Azure AD 테 넌 트를 사용 하는 경우 (CSP 프로그램에서 파트너 로부터 구매한 것이 아닌 경우), 고객은 ([Microsoft AppSource](https://appsource.microsoft.com/) 또는 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 직접 자체 ISV SaaS 솔루션을 구매할 수도 있습니다. 이러한 작업을 수행 하는 경우 Microsoft에서 직접 자신의 청구서를 받게 됩니다. 마찬가지로, CSP 프로그램의 파트너가 Azure 구독 또는 새 Azure 계획을 고객에 게 판매 하 고 고객에 게 해당 테 넌 트에 대 한 역할 [기반 액세스](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) 권한을 부여 하는 경우 ( **독자**외에도 고객에 게 모든 역할 할당) 해당 고객은 이전에 CSP 파트너에 게 승인 하거나 알리지 않고 상용 marketplace 제품을 구매할 수도 있습니다. 이러한 경우 Microsoft는 CSP 프로그램에서 고객의 구매에 대 한 파트너에 게 직접 알리지 않습니다. 그러나 Microsoft는 Azure 구독에 대 한 작업에 대 한 알림 또는 알림을 설정 하는 데 사용할 수 있는 선택적 [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) 메커니즘을 제공 합니다.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>상용 marketplace 제품에 대 한 청구 정보 액세스
 
@@ -70,7 +70,7 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
 
 - SaaS 구독 (Microsoft 또는 ISV 게시자)
 
-- Azure 요금제
+- Azure 플랜
 
 - Azure Reservations
 
