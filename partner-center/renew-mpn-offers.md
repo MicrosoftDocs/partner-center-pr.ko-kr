@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651957"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161437"
 ---
 # <a name="renew-your-mpn-offers"></a>MPN 제품 갱신
 
@@ -39,6 +39,3 @@ ms.locfileid: "73651957"
 
 갱신 기간 내에 갱신하면 새 1주년 날짜는 현재 1주년 날짜로부터 365일 후가 됩니다.
 
-## <a name="manage-auto-renewal"></a>자동 갱신 관리
-
-자동 갱신을 사용하는 경우 1주년 다음 날에 신용 카드로 요금이 청구됩니다. 1주년이 되기 전에 언제든지 자동 갱신을 끌 수 있습니다.

@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 02/07/2020
-  ms.openlocfilehash: 6f813e45dacd881d6b83ab89ee3c1c25d8913593
-  ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+  ms.openlocfilehash: 004c3a5b03685f41a7a1e76b734b71bccc50ca7b
+  ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 02/07/2020
-  ms.locfileid: "77075608"
+  ms.lasthandoff: 03/03/2020
+  ms.locfileid: "78240220"
 highlightedContent:
   items:
   - title: 로그인하여 최신 공지 사항을 확인하세요.
@@ -41,9 +41,6 @@ highlightedContent:
   - title: 파트너 센터의 새로운 상거래 환경 - Azure 플랜
     itemType: whats-new
     url: azure-plan-lp.md
-  - title: 윤일을 준비하세요. 2020년 2월 29일이 빠르게 다가오고 있습니다. 코드가 추가된 하루를 처리할 수 있는지 확인하세요.
-    itemType: whats-new
-    url: https://aka.ms/leapday2020blog
 conceptualContent:
   title: 파트너 센터에서 작업
   items:

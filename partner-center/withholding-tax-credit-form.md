@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618522"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240230"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
 
@@ -50,7 +50,7 @@ ms.locfileid: "77618522"
 7. 세금 인증서를 **첨부** 합니다. 세금 원천 요청에 **원천 세금 인증서** 의 **디지털 복사본** 을 포함 해야 합니다. 파트너 센터에서 요청을 제출할 때 현지 세금 기관에서이 인증서를 받았습니다. 원천 세금 인증서의 청구서 세율은 세금 원천 요청에서 총 금액과 일치 해야 합니다. 
 
 > [!IMPORTANT]
-> 파트너가 제공 하는 총 합계는 연결 된 세금 인증서의 청구서 품목과 일치 해야 합니다.
+> 파트너가 제공 하는 총 합계는 연결 된 세금 인증서의 청구서 품목과 일치 해야 합니다. 연결 된 세금 인증서 파일은 다음 파일 형식 중 하나 여야 합니다. PDF 및 이미지만 (. JPEG,. PNG 및 GIF). 또한 파일 이름에는 공백이 나 특수 문자를 사용할 수 없습니다.
 
 8. 세금 원천 요청을 **제출** 합니다.
 
