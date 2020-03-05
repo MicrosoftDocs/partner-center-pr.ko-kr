@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
-ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521026"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672853"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 확인
 
@@ -33,9 +33,9 @@ ms.locfileid: "77521026"
 - 간접 재판매인, 직접 청구, 간접 공급자
 
 
-2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. 간접 재판매인에 대한 추가 [지침](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0)을 참조하세요.
+2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. 간접 재판매인에 대한 추가 [지침](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0)을 참조하세요. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 두 계약은 2020년 1월 31일까지 CSP 프로그램에서 모두 지원되었습니다. 2020년 2월 1일부터 Microsoft Cloud 계약이 Microsoft 고객 계약으로 바뀌었습니다. [Microsoft 고객 계약 및 동의 확인 방법](confirm-customer-agreement.md)을 참조하세요.
 
- 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 2020년 1월 31일까지 현재 Microsoft 클라우드 계약이 CSP 프로그램에서 지원될 예정입니다. 파트너는 파트너 센터에서 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하거나, 이제 URL을 통해 고객을 초대하여 인증된 Microsoft 365 관리 센터에서 계약을 검토하고 동의할 수 있습니다. 일정에 대한 자세한 내용은 다음 표를 참조하세요.
+일정에 대한 자세한 내용은 다음 표를 참조하세요.
 
 | 날짜 | 마일스톤 | 세부 정보 |
 |------------|------------|--------------------------------|

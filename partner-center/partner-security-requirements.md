@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723450"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672803"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 
@@ -64,13 +64,21 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 ## <a name="security-defaults"></a>보안 기본값
 
-- 보안 기본값은 기준 정책을 대체합니다. 
+보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](#actions-that-you-need-to-take) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 보안 기본값을 사용하도록 설정하기 전에 Azure AD를 사용하여 조직에 MFA를 사용하도록 설정하는 방법과 아래의 주요 고려 사항을 검토하세요.
 
 - 기준 정책은 향후 몇 달 동안 유지될 것이며 2020년 2월말 중단될 예정입니다.
 
 - 기준 정책을 이미 채택한 파트너는 보안 기본값으로 전환하기 위한 조치를 취해야 합니다.
 
+- 보안 기본값은 미리 보기 기준 정책의 일반 공급 대체 기능입니다. 파트너가 보안 기본값을 사용하도록 설정한 후에는 더 이상 기준 정책을 사용하도록 설정할 수 없습니다.
+
 - 보안 기본값을 사용하면 모든 정책이 한 번에 활성화됩니다. 
+
+- [조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 [보안 기본값을 사용할 수 없습니다](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+
+- 현재 파트너에 대한 레거시 인증 차단은 적용되지 않습니다. 그러나 신원 도용과 관련된 대부분의 이벤트가 레거시 인증을 사용하는 로그인 시도에서 발생하므로 파트너는 이러한 이전 프로토콜에서 이전하는 것이 좋습니다.
+
+- Azure AD Connect 동기화 계정은 보안 기본값에서 제외됩니다.
 
 - 자세한 내용은 [조직에 Multi-Factor Authentication 사용](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) 및 [Azure Active Directory 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 참조하세요.
 

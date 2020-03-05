@@ -1,22 +1,22 @@
 ---
-title: Microsoft 클라우드 계약 고객 템플릿 | 파트너 센터
+title: Microsoft 고객 계약 고객 템플릿 | 파트너 센터
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객과 함께 검토할 수 있는 Microsoft 클라우드 계약의 지역 및 언어별 버전을 찾아서 다운로드할 위치를 알아봅니다.
+description: 고객과 함께 검토할 수 있는 Microsoft 고객 계약의 지역 및 언어별 버전을 찾아서 다운로드할 위치를 알아봅니다.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Microsoft 클라우드 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft Cloud Agreement, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나요?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북미 지역, CSP 중앙 아메리카, CSP 남미, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft 클라우드 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
+keywords: Microsoft 고객 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나요?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북아메리카, CSP 중앙 아메리카, CSP 남아메리카, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722417"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672793"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 클라우드 계약
+# <a name="microsoft-customer-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 고객 계약
 
 **적용 대상**
 
@@ -24,25 +24,25 @@ ms.locfileid: "74722417"
 
 **적절한 역할**
 
-- 전역 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 글로벌 관리자
+- 사용자 관리 담당자
+- 관리 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
-고객이 Microsoft 클라우드 계약에 동의하고 서명해야만 고객을 대신하여 주문할 수 있습니다.
+고객이 Microsoft 고객 계약에 동의하고 서명해야만 고객을 대신하여 주문할 수 있습니다.
 
 >[!IMPORTANT]
-> 2018년 11월 7일부터, 계약서에 서명한 사람에 대한 정보를 제공하여 고객이 Microsoft 클라우드 계약에 동의했다는 것을 확인해야 합니다. 자세한 내용은 [고객의 Microsoft 클라우드 계약 동의 확인](confirm-consent.md)을 참조하세요.
+> 고객이 서명한 사람에 대한 정보를 제공하여 Microsoft 고객 계약에 동의했는지 확인해야 합니다. 자세한 내용은 [고객의 Microsoft 고객 계약 동의 확인](confirm-consent.md)을 참조하세요.
 
-Microsoft 클라우드 계약은 지역별로 다르며 여러 언어로 제공됩니다. 아래 목록에서 고객의 위치와 기본 언어를 찾아 올바른 계약을 다운로드하세요.
+Microsoft 고객 계약은 지역별로 다르며 여러 언어로 제공됩니다. 아래 목록에서 고객의 위치와 기본 언어를 찾아 올바른 계약을 다운로드하세요.
 
 판매할 수 있는 지역과 시장을 잘 모르는 경우 아래 목록에서 회사의 위치를 찾아보세요. [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
 -->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해
