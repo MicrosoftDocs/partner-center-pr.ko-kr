@@ -1,7 +1,7 @@
 ---
 title: 새 고객 추가 | 파트너 센터
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새 고객 레코드를 추가 하는 방법에 대해 알아봅니다. 그런 다음 고객 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객 지원 서비스를 제공할 수 있습니다.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672713"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340084"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가 
 
@@ -43,6 +43,15 @@ ms.locfileid: "77672713"
 1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.
 
 2. **계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 하 고 고객이 최신 [Microsoft 고객 계약](agreements.md)에 동의 하 고 서명 했는지 확인 합니다.
+
+>[!NOTE]
+>
+>고객 검증 중에 정확성을 유지 하려면 다음을 확인 하세요.
+>- 공식 문서에 표시 되는 정확한 법적/공식 이름 사용
+>- 머리글자어 또는 short 형식을 사용 하지 마십시오.
+>- 테스트 이름 사용 안 함
+>- 완전 하 고 정확한 주소 (위치 정보, 도시, 시/도, 국가 및 우편 번호)를 제공 합니다.
+
 
 >[!IMPORTANT] 
 > 2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.
