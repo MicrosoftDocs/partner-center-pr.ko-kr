@@ -142,6 +142,7 @@
 ### [Azure 플랜 구매](purchase-azure-plan.md)
 ### [Azure 제품 비교](compare-azure-offers.md)
 ### [고객을 Azure 플랜으로 전환](azure-plan-transition.md)
+### [Azure CSP에서 사용 가능한 Azure 서비스](azure-plan-available.md)
 ### [파트너 획득 크레딧 - 개요](partner-earned-credit.md)
 ### [파트너 획득 크레딧을 계산 및 지불하는 방법](partner-earned-credit-explanation.md)
 ### [CSP의 새로운 상거래 환경 - Azure 청구](azure-plan-billing.md) 
