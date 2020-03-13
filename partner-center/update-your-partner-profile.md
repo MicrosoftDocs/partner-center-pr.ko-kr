@@ -2,21 +2,21 @@
 title: 파트너 프로필 확인
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정보를 확인 하는 방법을 알아봅니다. 또한 법률 및 청구 주소를 업데이트할 수 있습니다.
+description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정보를 확인하는 방법을 알아봅니다. 또한 법률 및 청구 주소를 업데이트할 수 있습니다.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 44b3a2cdadbc841ef3d1a5e005c119780d987451
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943056"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340093"
 ---
 # <a name="verify-your-partner-profile"></a>파트너 프로필 확인
 
-파트너 센터에 전역 관리자로 처음 로그인하는 경우 기본 연락처, 법적 회사 이름 및 주소, 프로그램 정보 같은 모든 회사 세부 정보가 정확하게 추가되었는지 확인합니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다. 
+처음으로 파트너 센터에 글로벌 관리자 권한으로 로그인할 때 모든 회사 정보가 올바른지 확인해야 합니다. 여기에는 기본 연락처, 법적 회사명 및 주소, 프로그램 정보가 포함됩니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다. 
 
 **파트너 프로필 정보 확인**
 
@@ -45,11 +45,11 @@ ms.locfileid: "74943056"
 
 Partner Membership Center에서 파트너 센터로 마이그레이션하는 동안 잘못된 회사가 법적 회사로 식별된 경우 올바른 회사로 변경할 수 있습니다.
 
-1. **계정 설정**에서 **위치**로 이동하고 법적 회사로 원하는 회사가 목록에 있는지 확인합니다. 목록에 없으면 추가할 수 있습니다. **위치 추가**를 선택합니다.
+1. **계정 설정**에서 **위치**로 이동하고, 법적 회사로 원하는 회사가 목록에 있는지 확인합니다. 목록에 없으면 추가할 수 있습니다. **위치 추가**를 선택합니다.
 
-2.  그런 다음, **파트너 프로필**로 이동하고 **법적 비즈니스 프로필 업데이트**를 선택합니다.
+2.    그런 다음, **파트너 프로필**로 이동하고 **법적 비즈니스 프로필 업데이트**를 선택합니다.
 
-3.  법적 회사로 사용할 회사와 위치를 선택한 후 **저장**을 선택합니다.
+3.    법적 회사로 사용할 회사와 위치를 선택한 후 **저장**을 선택합니다.
 
 ## <a name="update-your-billing-address"></a>청구 주소 업데이트
 

@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 갱신, 계정 구조, 로그인, 사용자 역할, 역량 등에 관한 PMC 파트너 센터 간의 차이점과 유사성을 이해 합니다.
+description: 갱신, 계정 구조, 로그인, 사용자 역할, 역량 등과 관련하여 PMC와 파트너 센터의 차이점과 비슷한 점을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
-ms.localizationpriority: medium
-ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004292"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340181"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 
 Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트너 센터)를 도입하여 보다 쉽게 비즈니스를 수행할 수 있도록 합니다. PMC(Partner Membership Center)에서 수행한 모든 작업을 파트너 센터의 대시보드에서 수행할 수 있습니다. 
 
-또한 한 웹 사이트에서 나가지 않고도 훨씬 더 많은 작업을 모두 수행할 수 있습니다. 일부 용어 및 기능은 다르게 표시될 수 있습니다. 어디에 있는지와 그에 대 한 초기 문제를 완화 하려면 대시보드의 사이트 둘러보기를 수행 해야 합니다.
+또한 한 웹 사이트에서 나가지 않고도 훨씬 더 많은 작업을 모두 수행할 수 있습니다. 일부 용어 및 기능은 다르게 표시될 수 있습니다. 어디에 무엇이 있는지에 대한 걱정을 덜어내려면 대시보드의 사이트 둘러보기를 이용하세요.
 
 다음 표에서는 PMC와 파트너 센터 간의 몇 가지 차이점을 보여 줍니다.
 
@@ -37,9 +37,9 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|본사 plus 위치-각각 별도로 평가 됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](https://docs.microsoft.com/partner-center/account-structure.md)를 참조하세요.|
+|본사 및 위치 - 각각 별도로 평가됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](https://docs.microsoft.com/partner-center/account-structure.md)를 참조하세요.|
 
-## <a name="sign-in"></a>로그인
+## <a name="sign-in"></a>무료 RMS 계정을 얻으려면
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
@@ -82,14 +82,14 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|PDD  |장점|
+|PDD  |이점|
 |CHIP, ICP, PIE | 인센티브|
-||추천|
+||조회|
 |파트너 인사이트| 분석|
 |바우처 유효성 검사 및 사용 도구| 바우처 유효성 검사 및 사용 도구|
 |           |클라우드 솔루션 공급자 프로그램|
 
-MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 MSA 할당을 제거 하는 경우 파트너 센터에 다시 추가할 수 없습니다.
+MSA에 할당된 Visual Studio 혜택이 적용되고 유지됩니다. 또한 갱신 후 파트너 센터에 유지됩니다. 그러나 파트너 센터에서 마이그레이션된 MSA 할당을 제거하면 파트너 센터에 다시 추가할 수 없습니다.
 
 파트너 센터에서 파트너는 동일한 테넌트(여기서 파트너는 Azure AD 테넌트의 MPN 관리자임)의 MSA인 회사 계정 및 게스트 사용자 계정을 추가할 수 있습니다. 파트너가 여러 Azure AD 테넌트에서 전역 관리자이고 이러한 모든 테넌트가 동일한 파트너 센터 계정과 연결된 경우 파트너는 이러한 모든 테넌트의 사용자를 Visual Studio 혜택 및 Azure 사용량 기반 할당에 추가할 수 있습니다.
 
