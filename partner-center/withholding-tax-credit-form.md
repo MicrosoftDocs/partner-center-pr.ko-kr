@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240230"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112472"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>원천 세금에 대 한 제공한 인지 확인 합니다.
 
@@ -30,6 +30,9 @@ ms.locfileid: "78240230"
 일부 국가의 CSP 파트너는 세금이 포함 된 청구서 금액을 받습니다. 이러한 파트너 중 일부는 Microsoft가 아닌 현지 세금 기관을 지불 합니다. 이러한 파트너는 세금 인증서를 포함 하 여 세금 원천 요청을 제출 하 여 이전 청구서에서 taxed amount를 지워야 합니다. 이러한 지워진 금액은 후속 월별 청구서에서 크레딧을 표시 하므로 파트너가 더 이상 Microsoft의 미지불 금액을 owes 하지 않습니다.
 
 2020 1 월 CSP 파트너부터 지원 요청을 만드는 대신 **청구 페이지** 에서 세금 원천 요청을 제출 해야 합니다. 청구 페이지에서 요청을 제출 하려면 CSP 파트너가 **파트너 센터로** 이동 하 여 왼쪽 탐색에서 **청구** 를 선택 해야 합니다. **청구 페이지** 는 세금 원천 요청을 제출할 새로운 위치입니다. 
+
+> [!IMPORTANT]
+> 파트너는 **유료** 청구서에 대해서만 원천 세금 요청을 제출할 수 있습니다.
 
 ### <a name="submit-a-new-tax-withholding-request"></a>새 세금 원천 요청 제출
 

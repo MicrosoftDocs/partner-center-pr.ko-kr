@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672693"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112452"
 ---
 # <a name="partner-contribution-indicators"></a>파트너 기여 지표
 
@@ -29,7 +29,7 @@ PCI는 파트너의 기술 기능에 대 한 정교 하 고 전체적인 보기�
 1. Microsoft Dynamics 365 제품에 대 한 모든 판매 채널의 순 **새 수익.**
 2. **Net customer** 는 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net customer를 추가 합니다.
 3. **함수형 컨설턴트** -현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다.
-4. **함수형 컨설턴트 성장** -2020 년 3 월 31 일 이후 기능 컨설턴트의 수가 증가 합니다.
+4. **함수형 컨설턴트 성장** -기능 컨설턴트의 수가 증가 합니다.
 5. **개발자** -현재 활성 개발자를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다.
 6. **새로운 대규모 배포** -지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수
 7. **월간 활성 사용자 성장** -지난 12 개월 동안 모든 고객의 월별 활성 사용자 성장

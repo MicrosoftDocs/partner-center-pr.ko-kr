@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: 구독, Marketplace, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, 제품 관리, 구독 관리, 구독 관리, 구독 취소, 자동 갱신 해제, 간접 재판매인 MPN ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253811"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114955"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 관리
 
@@ -23,10 +23,10 @@ ms.locfileid: "74253811"
 - 파트너 센터
 - CSP 프로그램의 파트너
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 
 CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 센터 포털을 사용 하 여 상업적 marketplace에서 고객에 대 한 여러 ISV SaaS 제품 또는 구독을 구입할 수 있습니다. 제품을 구매한 후에는 다양 한 방법으로 관리할 수 있습니다.
 

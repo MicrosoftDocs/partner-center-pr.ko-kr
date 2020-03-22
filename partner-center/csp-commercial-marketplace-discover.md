@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: 구독, marketplace, 상업적 마켓플레이스, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, CSP 프로그램, CSP 파트너
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253721"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114945"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>상업적 marketplace에서 제품 및 가격 책정 검색
 
@@ -23,10 +23,10 @@ ms.locfileid: "74253721"
 - 파트너 센터
 - CSP 프로그램의 파트너
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 
 Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다. 
 

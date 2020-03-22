@@ -1,20 +1,20 @@
 ---
 title: 고객에게 Microsoft 제품 평가판 제공 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객은 30일 동안 Microsoft 구독 제품을 시험 사용할 수 있습니다. 다른 많은 온라인 서비스 마찬가지로 카탈로그에서 이러한 평가판에 등록 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185543"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112462"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 평가판 제공
 
@@ -23,9 +23,9 @@ ms.locfileid: "75185543"
 - 파트너 센터
 
 **적절한 역할**
--   전역 관리자 
+-   글로벌 관리자 
 -   사용자 관리자
--   영업 에이전트
+-   영업 상담원
 
 고객에게 Microsoft 신제품을 소개하는 좋은 방법은 30일 무료 평가판을 제공하는 것입니다. 여러 다른 온라인 서비스와 마찬가지로 카탈로그에서 평가판을 등록할 수 있습니다. 모든 파트너가 참여할 수 있습니다.
 
@@ -45,7 +45,7 @@ ms.locfileid: "75185543"
 - PSTN이 없는 Office 365 E5
 - Enterprise Mobility 및 Security E5
 - Dynamics 365 고객 참여 계획 1
-- Dynamics 365 Business Central
+- Dynamics 365 비즈니스 중부
 - Microsoft 365 Business
 
 Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품의 평가판을 제공합니다. 앞으로 평가판 제품이 더 추가될 가능성이 있습니다.
@@ -91,13 +91,24 @@ Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품�
 - [평가판 구독을 유료로 전환](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [평가판 전환 제품 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
+### <a name="trials-without-conversions"></a>변환 하지 않고 평가판 사용
+
+모든 평가판을 유료 구독으로 변환할 수 있는 것은 아닙니다. 파트너는 만료 날짜가 될 때까지 변환이 없는 평가판을 사용할 수 있습니다. 파트너는 평가판 제품과 동일한 서비스를 지 원하는 호환 가능한 제품을 구매할 수 있습니다.  새로 구매한 제품의 서비스가 평가판 서비스와 일치 하는지 확인 하기 위해 평가판이 만료 되기 전에이 작업을 수행 해야 합니다. 
+
+|**기간인**   |**호환 되는 소규모 비즈니스 제품**   |**호환 되는 엔터프라이즈 제품**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Microsoft 팀 상용 클라우드 (사용자 시작) 평가판   |비즈니스 Essentials, 비즈니스 프리미엄, M365 비즈니스   | F3 (이전의 F1), Enterprise (E1, E3 및 E5), M365 F1/F3, M365 Enterprise (E3) 용 Office 365   |
+
+>[!Note] 
+>위의 제품에는 비슷한 기능을 가진 비슷한 서비스 계획이 있지만 제품 간에 약간의 차이가 있을 수 있습니다. 
+
 ### <a name="expiring-offers"></a>제공 만료
 
 만료 된 제품에 대 한 알림이 표시 되지 않습니다. 파트너 센터의 고객 보기를 사용 하거나 API를 쿼리하면 예정 된 만료 날짜를 추적할 수 있습니다. 고객의 결정 시점이 다가오면 적절한 후속 조치를 취할 수 있도록 이러한 날짜를 자주 모니터링하는 것이 좋습니다.
 
 평가판이 만료 된 후 해당 평가판에 로그인을 시도 하는 고객에 게는 만료 메시지가 표시 됩니다. 그러나 데이터는 데이터 보존 표준에 맞게 저장 됩니다. 동일한 서비스 계획을 사용 하 여 새 구독을 구매한 후 새로 활성화 된 구독에서 다시 고객의 정보에 액세스할 수 있습니다.
 
-## <a name="billing"></a>청구
+## <a name="billing"></a>대금 청구
 
 연간 청구 및 무료 평가판은 소 버린 클라우드 및 공용 클라우드에서 동일 합니다. 유일한 차이점은 시작할 때 사용할 수 있는 평가판 Sku입니다.
 

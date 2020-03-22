@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단, 일시 중단, SaaS, 라이선스, ISV, 타사
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721718"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114995"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -27,11 +27,11 @@ ms.locfileid: "74721718"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 전역 관리자
-- 기술 지원팀 에이전트
-- 영업 에이전트
+- 글로벌 관리자
+- 기술 지원팀 상담원
+- 영업 상담원
 
 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다. 여기에는 타사 Isv (독립 소프트웨어 공급 업체)가 [상업적 marketplace](https://azuremarketplace.microsoft.com/marketplace)에 게시 한 SaaS (Software As a Service) 제품 뿐만 아니라 Microsoft에서 게시 한 제품이 포함 됩니다. 
 
