@@ -1,7 +1,7 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 업그레이드 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MPN 멤버 자격을 Microsoft Action Pack 구독 회원 또는 Microsoft 역량으로 업그레이드 하 여 독점적 혜택을 받을 수 있습니다.
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943406"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226150"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버십 업그레이드
 
@@ -22,20 +22,19 @@ ms.locfileid: "74943406"
 
 -  파트너 센터
 
-Microsoft의 파트너 프로그램은 비즈니스 목표를 달성 하는 데 도움이 되는 증분 이점을 제공 하는 다음과 같은 세 가지 멤버 자격 옵션을 제공 합니다.
+Microsoft의 파트너 프로그램은 비즈니스 목표를 달성 하는 데 도움이 되는 증분 이점과 마케팅 리소스, 제품 및 프로그램을 사용 하 여 다음과 같은 세 가지 멤버 자격 옵션을 제공 합니다.
 
-- **네트워크 구성원 자격.** 교육, 지원 및 고객 연결에 대한 기본 혜택을 제공하는 핵심 멤버십 수준입니다. 멤버십을 업그레이드하려면 네트워크 회원이어야 합니다.
+- **네트워크 구성원 자격.** 핵심 구성원 수준으로, 교육, 지원 및 고객 연결에 대 한 항목별 마케팅 리소스를 제공 합니다. 멤버십을 업그레이드하려면 네트워크 회원이어야 합니다.
 
-- **Microsoft Action Pack 구독 구성원 자격.** 중소규모 파트너 회사에 서비스를 제공하는 저렴한 연간 구독입니다. 기본 네트워크 멤버십에 제공되는 혜택 외에도 내부 사용 권한 서비스 구독, 소프트웨어 라이선스 및 지원 할당이 포함되어 있습니다.
+- **Microsoft Action Pack 구독 구성원 자격.** 중소규모 파트너 회사에 서비스를 제공하는 저렴한 연간 구독입니다. 에는 기본 네트워크 멤버 자격과 함께 제공 되는 항목별 마케팅 리소스와 내부용 권한 서비스 구독, 소프트웨어 라이선스 및 지원에 대 한 할당과 같은 기타 마케팅 제품 및 프로그램이 포함 되어 있습니다.
 
-- **Microsoft 역량.** 획득 지정은 회사의 기능을 보여주는 합니다. 기본 혜택, 추가 내부 사용 권한, 파트너 인센티브 자격 및 추가 지원과 자문 시간이 포함되어 있습니다.
+- **Microsoft 역량.** 획득 지정은 회사의 기능을 보여주는 합니다. 에는 항목별 마케팅 리소스 및 추가 제품 및 프로그램 (예: 내부 사용 권한, 파트너 성과급 자격에 대 한 자격, 추가 지원 및 자문 시간)이 포함 됩니다.
 
   - 실버 역량-일관 된 기능, 전문 지식 및 약정
 
   - 특정 Microsoft 솔루션 영역 내의 골드 역량-최고 수준의 기능
 
-Microsoft 파트너 네트워크에 가입한 후에는 구성원 자격을 업그레이드 하 고 독점적 멤버 자격 혜택 혜택을 구매할 수 있습니다. Microsoft 파트너 네트워크의 멤버십에 대한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com)을 참조하세요.
-
+Microsoft 파트너 네트워크에 가입한 후에는 구성원 자격을 업그레이드 하 고 독점 회원 혜택을 구매할 수 있습니다. Microsoft 파트너 네트워크의 멤버십에 대한 자세한 내용은 [https://partner.microsoft.com](https://partner.microsoft.com)을 참조하세요.
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Microsoft Action Pack 구독 구입
 
@@ -63,7 +62,7 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 
 3. **다음**을 선택하여 결제 정보를 추가합니다. 
 
-4. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)** 를 선택합니다. 
+4. 결제 정보를 입력해야 하는 경우 **Get started! Add a way to pay.(시작하세요. 결제 방법을 추가하세요.)** 를 선택합니다.
 
 5. 결제 정보를 입력하고 **다음**을 선택합니다.
 
@@ -112,7 +111,7 @@ Microsoft Action Pack에 대한 자세한 내용은 [https://partner.microsoft.c
 
 Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문의해야 합니다.
 
-1. https://partnercenter.microsoft.com/partner/support 로 이동하세요.
+1. https://partnercenter.microsoft.com/partner/support로 이동하세요.
 
 2. **파트너 센터에서 문제 보고**를 선택하고, 다음 페이지에서 **새 요청**을 선택합니다.
 
@@ -131,8 +130,3 @@ Microsoft Action Pack 구독을 취소하려면 파트너 센터 지원에 문�
 ### <a name="related-topics"></a>관련 항목
 
 [사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
-
-
-
-
-

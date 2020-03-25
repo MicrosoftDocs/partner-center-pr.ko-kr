@@ -1,32 +1,32 @@
 ---
 title: 파트너 센터 정보-역량 보고서 | 파트너 센터
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 솔루션을 제공 하는 데 도움이 되는 Microsoft 역량, 역량 수준 및 혜택에 대해 잘 알고 있는 작업을 확인 하세요.
+description: Microsoft 솔루션을 제공 하는 데 도움이 되는 Microsoft 역량, 역량 수준 및 제품을 개선할 수 있는 방법을 확인 하세요.
 ms.assetid: ''
 keywords: PCI, 성능, 측정, 고객 성공, 역량, 혜택, 분석, 보고서
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648094"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226189"
 ---
 # <a name="competencies-report"></a>역량 보고서
 
 **적절한 역할**
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
-역량을 통해 회사에서 Microsoft 솔루션을 제공 하는 기술 기능을 설명할 수 있습니다. Microsoft 역량은 고객의 요구 사항을 충족 하 고 잠재 고객에 게 전문 지식을 보여 주기 위해 설계 되었습니다. 여기에는 Microsoft의 포함 된 수량, O365, 기술 지원, 시장 출시 (GTM) 혜택 등의 클라우드 제품에 대 한 자격에 대 한 자격이 포함 된 Microsoft의 다양 한 이점이 있습니다. **앱 및 인프라**, **비즈니스 응용 프로그램**, **데이터 및 AI** , **현대 작업 영역**등의 범주에는 현재 총 19 개의 역량이 있습니다. 역량은 실버 또는 골드 수준으로 계층화 됩니다. 예를 들어 골드 역량을 위한 높은 막대와 더 높은 수준의 혜택을 제공 합니다.  
+역량을 통해 회사에서 Microsoft 솔루션을 제공 하는 기술 기능을 설명할 수 있습니다. Microsoft 역량은 고객의 요구 사항을 충족 하 고 잠재 고객에 게 전문 지식을 보여 주기 위해 설계 되었습니다. 여기에는 Microsoft의 포함 된 수량, O365, 기술 지원, 시장 출시 제품 등의 클라우드 제품에 대 한 자격에 대 한 자격이 포함 된 Microsoft의 다양 한 이점을 제공 합니다. **앱 및 인프라**, **비즈니스 응용 프로그램**, **데이터 및 AI** , **현대 작업 영역**등의 범주에는 현재 총 19 개의 역량이 있습니다. 역량은 예를 들어 실버 또는 골드 수준으로 계층화 됩니다. 골드 역량 및 관련 된 더 높은 수준의 마케팅 리소스, 제품 및 프로그램을 사용할 수 있는 더 높은 막대가 있습니다.  
 
 **역량 수명 주기**
 

@@ -162,6 +162,7 @@
 ### [라이선스 기반 서비스 고객을 클라우드 서비스 공급자 프로그램으로 이동](transition-seat-based-services.md)
 ### [Minecraft: Education Edition 구독 판매](minecraft-subscriptions.md)
 ### [특수 산업을 대상으로 판매](Get-special-pricing-for-offers.md)
+### [교육 분야 고객에게 판매](sell-to-education-customers.md)
 ### [채택률 및 만족도 높이기](increasing-adoption-and-satisfaction.md)
 ### [Windows Autopilot으로 디바이스 설정 간소화](autopilot.md)
 ##  제품을 최신 버전으로 업그레이드 또는 이전
