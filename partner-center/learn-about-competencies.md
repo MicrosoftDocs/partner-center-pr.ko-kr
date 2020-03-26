@@ -1,7 +1,7 @@
 ---
 title: Gold 및 Silver 멤버십을 위한 Microsoft 역량 요구 사항 | 파트너 센터
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gold 및 Silver 멤버십 레벨 획득을 위한 역량 요구 사항에 대해 알아보기
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004812"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226219"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft Gold 및 Silver 역량과 고급 전문 분야에 대한 정보
 
 **적절한 역할**
--   전역 관리자
--   사용자 관리자
+-    글로벌 관리자
+-    사용자 관리자
 
 하나 이상의 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 
@@ -30,7 +30,7 @@ ms.locfileid: "75004812"
 
 - Gold 파트너 구성원으로서 포트폴리오에 고급 전문 분야를 추가할 수도 있습니다.
 
-**Silver 멤버 자격** 또는**Gold 멤버 자격** 역량을 획득하면 비즈니스를 확장하고 성장시키는 데 도움이 되는 강력한 [시장 진출](mpn-learn-about-go-to-market-benefits.md) 마케팅 및 판매 혜택을 얻을 수 있습니다.
+**Silver 멤버 자격** 또는**Gold 멤버 자격** 역량을 획득하면 비즈니스를 확장하고 성장시키는 데 도움이 되는 강력한 [시장 진출](mpn-learn-about-go-to-market-benefits.md) 제품 및 프로그램을 이용할 수 있습니다.
 
 ## <a name="competency-areas"></a>역량 영역
 
@@ -54,7 +54,7 @@ Silver 및 Gold 역량 수준은 각 영역에 대한 요구 사항이 다릅니
 
 ## <a name="advanced-specializations"></a>고급 전문 분야
 
-고급 전문 분야를 통해 Gold 역량 이상으로 역량을 키우세요. 이를 통해 제품, 솔루션 또는 서비스 영역에서 검증되고 입증 가능한 전문 지식을 홍보할 수 있습니다. 고객은 파트너 디렉터리의 비즈니스 프로필에서 파트너의 Gold 역량과 고급 전문 분야를 모두 볼 수 있습니다. 고급 전문 분야 태그를 받으려면 게시된 몇 가지 조건을 완벽하게 충족하고 Microsoft의 검증을 받아야 합니다. [자세한 내용을 알아보십시오](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+고급 전문 분야를 통해 Gold 역량 이상으로 역량을 키우세요. 이를 통해 제품, 솔루션 또는 서비스 영역에서 검증되고 입증 가능한 전문 지식을 홍보할 수 있습니다. 고객은 파트너 디렉터리의 비즈니스 프로필에서 파트너의 Gold 역량과 고급 전문 분야를 모두 볼 수 있습니다. 고급 전문 분야 태그를 받으려면 게시된 몇 가지 조건을 완벽하게 충족하고 Microsoft의 검증을 받아야 합니다. [자세한 정보를 알아보세요](https://partner.microsoft.com/membership/competencies#tab-content-2). 
 
 ## <a name="the-current-advanced-specializations"></a>현재 고급 전문 분야
 

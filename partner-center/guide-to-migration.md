@@ -1,7 +1,7 @@
 ---
 title: PMC에서 파트너 센터로 마이그레이션에 대한 가이드 | 파트너 센터
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사를 PMC(Partner Membership Center)에서 파트너 센터로 마이그레이션하는 방법에 대해 알아봅니다.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721882"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226179"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 partner.microsoft.com의 Microsoft 파트너 웹 사이트는 파트너를 위한 통합 디지털 환경입니다. 파트너 웹 사이트에서 기회를 살펴보고 회사에서 Microsoft와 앱 및 서비스를 빌드하고 판매하는 데 도움이 되는 안내 환경에 참여할 수 있습니다. Microsoft 파트너 네트워크의 구성원은 파트너 웹 사이트에서 사용 가능한 대시보드 링크를 통해 Microsoft와의 관계를 관리하고 프로그램과 제품에 가입할 수 있는 파트너 센터에 로그인할 수 있습니다. 
 
@@ -61,11 +61,11 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 **동의 후 계속**을 선택하면 다음 작업도 수행됩니다.
 
-•   계정이 모든 해당 위치와 함께 파트너 센터로 마이그레이션됩니다.
+- 계정이 모든 해당 위치와 함께 파트너 센터로 마이그레이션됩니다.
 
-•   PMC에서 구매한 역량이나 MAP가 마이그레이션됩니다.
+- PMC에서 구매한 역량이나 MAP가 마이그레이션됩니다.
 
-•   PMC에서 갖고 있는 모든 혜택(MAP, 실버, 골드)이 마이그레이션됩니다.
+- PMC에 있는 모든 마케팅 리소스, 제품 및 프로그램(MAP, 실버, 골드)을 마이그레이션합니다.
 
 ## <a name="invite-employees-to-join-you"></a>참가하도록 직원 초대
 

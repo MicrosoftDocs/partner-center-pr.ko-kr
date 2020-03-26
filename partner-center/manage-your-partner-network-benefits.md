@@ -1,7 +1,7 @@
 ---
 title: Microsoft 파트너 네트워크 혜택 관리 | 파트너 센터
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: MPN(Microsoft 파트너 네트워크)에 가입하고 비즈니스를 구축하고 성장시키는 데 도움이 되는 멤버십 혜택을 관리합니다.
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004532"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226089"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004532"
 -  파트너 센터
 
 **적절한 역할**
--   전역 관리자
--   사용자 관리자
--   관리자 에이전트
--   MPN 파트너 관리자
+-    글로벌 관리자
+-    사용자 관리자
+-    관리 에이전트
+-    MPN 파트너 관리자
 
 >[!IMPORTANT]
 >이 문서에서는 파트너 센터에서 MPN(Microsoft 파트너 네트워크) 멤버십 혜택을 사용하기 시작하는 방법에 대해 설명합니다. PMC(Partner Membership Center)에서 파트너 센터로 회사 정보를 이동하도록 초대를 받지 못한 경우 PMC에서 계속 MPN 멤버십 혜택을 관리해야 합니다. 지금 PMC에 [로그인](https://partner.microsoft.com/_login?authType=OpenIdConnect)합니다.
@@ -41,7 +41,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 >[!IMPORTANT]
 >조직의 글로벌 관리자가 아니어도 혜택을 구입할 수는 있지만, 직원에게 혜택을 할당하기 위해서는 반드시 글로벌 관리자여야 합니다. 필요에 따라 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)(로그인 필요)의 지침에 따라 글로벌 관리자가 될 수 있습니다. 회사에 이미 글로벌 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
 
-혜택 패키지에는 사용이 허가된 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. 혜택 패키지에는 특정 출시 혜택이 포함될 수도 있습니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 정보를 확인할 수 있습니다.  
+혜택 패키지에는 사용이 허가된 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. 혜택 패키지에는 특정 시장 진출 리소스, 제품 및 프로그램도 포함될 수 있습니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 정보를 확인할 수 있습니다.  
 
 모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에 로그인하고, 왼쪽 메뉴에서 [**혜택 옵션**]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
 
@@ -109,41 +109,41 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 4. 클라우드 및 하이브리드 솔루션의 사전 판매, 디자인, 배포 및 앱 개발 단계에서 기술 사전 판매 지원이나 자문 시간 혜택을 사용하여 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 [요청 양식](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)을 작성하고 **요청 제출**을 선택합니다.
 
-#### <a name="manage-go-to-market-benefits"></a>출시 혜택 관리
+#### <a name="manage-go-to-market-offers"></a>시장 진출 제품 관리
 
 **이 작업을 수행하는 데 적합한 역할:**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 
 
-1. Microsoft 출시 혜택 목록을 보려면 **출시 혜택**을 선택합니다.
+1. **혜택**을 선택한 다음, **시장 진출**을 선택하여 Microsoft 프로그램과 함께 시장 진출과 관련된 제품 목록을 확인하세요.
 
-    [출시 혜택](mpn-learn-about-go-to-market-benefits.md)은 사용 가능한 추가 마케팅 리소스 및 지원을 제공합니다. 사용 가능한 혜택 유형은 특정 파트너 수준과 이미 획득한 역량에 따라 다릅니다.
+    [시장 진출 기능](mpn-learn-about-go-to-market-benefits.md)에서는 사용 가능한 추가 마케팅 리소스, 제품 및 프로그램을 제공합니다. 사용 가능한 제품 유형은 파트너 수준과 현재 획득한 역량에 따라 다릅니다.
 
-2. 출시 혜택을 활성화하려면 먼저 회사 마케팅 담당자를 할당해야 합니다. 이 담당자는 활성 출시 혜택에 대한 후속 연락을 받게 됩니다.
+2. 시장 진출 제품 또는 프로그램을 활성화하려면 먼저 회사 마케팅 담당자를 할당해야 합니다. 이 담당자는 활성 시장 진출 제품에 대한 후속 연락을 받게 됩니다.
 
-3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 출시 페이지의 맨 위로 이동하고 **추가**, **업데이트** 또는 **변경**을 선택합니다. 이제 다음을 수행합니다.  
+3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 시장 진출 페이지의 맨 위로 이동한 다음, **추가**, **업데이트** 또는 **변경**을 선택합니다. 이제 다음을 수행합니다.  
    
     a.  목록에서 사용자를 선택합니다. 할당하려는 사용자가 목록에 없는 경우 **계정 설정**에서 [새 사용자를 추가](create-user-accounts-and-set-permissions.md)할 수 있습니다.
 
     b.  회사의 파트너 센터 계정과 연결된 이메일 주소와 다른 사용자 이메일 주소를 입력합니다. 
     
-    지정된 마케팅 담당자의 이메일 주소로 출시 혜택 사용에 대한 지침을 보내드립니다. 
+    지정된 마케팅 담당자의 이메일 주소로 시장 진출 제품 사용에 대한 지침을 보내드립니다. 
     
     c.  이 마케팅 담당자에 대한 연락처 전화 번호와 기본 설정 언어를 제공합니다. 이 정보 입력을 마친 후 **사용자 할당**을 선택합니다. 
 
-4. 마케팅 담당자를 업데이트하고 사용하기 시작하려는 출시 혜택을 찾은 다음, 행의 맨 오른쪽에 있는 아래쪽 화살표를 선택하여 혜택의 세부 정보를 확장합니다. 목록의 혜택 이름 아래에 사용할 수 있는 각 유형의 혜택(예: **실버 코어** 또는 **골드 코어**)이 표시됩니다.
+4. 마케팅 담당자를 업데이트하고 사용하기 시작하려는 시장 진출 제품을 찾은 다음, 행의 맨 오른쪽에 있는 아래쪽 화살표를 선택하여 제품의 세부 정보를 확장합니다. 목록의 혜택(예: **실버 코어** 또는 **골드 코어**) 이름 아래에 사용할 수 있는 각 제품 유형이 표시됩니다.
 
-5. **활성화**를 선택하여 혜택을 활성화합니다.
+5. **활성화**를 선택하여 제품을 활성화합니다.
 
 > [!NOTE]
->할당된 마케팅 담당자에게 이메일로 지침을 보내고 출시 혜택을 활성화하는 데 며칠이 걸릴 수 있습니다. 혜택이 활성화되면 출시 페이지에 변경 내용이 표시됩니다. **상태** 열에서 혜택이 **활성**으로 변경됩니다. **만료** 열에 혜택이 만료되는 날짜가 표시됩니다. 만료 날짜까지 이 혜택을 사용할 수 있습니다. 사용 가능한 [출시 혜택의 여러 유형](mpn-learn-about-go-to-market-benefits.md)에 대해 자세히 알아보세요.  
+>할당된 마케팅 담당자에게 이메일로 지침을 보내고 시장 진출 제품을 활성화하는 데 며칠이 걸릴 수 있습니다. 제품이 활성화되면 출시 페이지에 변경 내용이 표시됩니다. **상태** 열에서 제품이 **활성**으로 변경됩니다. **만료** 열에는 제품이 만료되는 날짜가 표시됩니다. 이 만료 날짜까지 제품을 사용할 수 있습니다. 사용 가능한 [여러 가지 시장 진출 리소스, 제품 및 프로그램](mpn-learn-about-go-to-market-benefits.md)에 대해 자세히 알아보세요.  
 
 
-## <a name="cancel-a-membership-benefit"></a>멤버십 혜택 취소
+## <a name="cancel-a-membership-benefit-or-offer"></a>멤버십 혜택 또는 제품 취소
 
-혜택을 취소하고 환불을 받으려면 구매 30일 내에 요청을 하고 소프트웨어 혜택을 활성화하지 않아야 합니다. 서비스 요청을 통해 취소를 요청합니다.
+혜택 또는 제품을 취소하고 환불을 받으려면 구매 30일 내에 요청을 하고 소프트웨어 혜택을 활성화하지 않아야 합니다. 서비스 요청을 통해 취소를 요청합니다.
 
 
 #### <a name="see-also"></a>참고 항목
@@ -152,4 +152,4 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 [Microsoft Action Pack 구독 구매 또는 갱신](mpn-get-action-pack.md)
 
-[MPN 출시 혜택에 대해 알아보기](mpn-learn-about-go-to-market-benefits.md)
+[MPN 시장 진출 제품 및 리소스에 대한 자세한 정보](mpn-learn-about-go-to-market-benefits.md)
