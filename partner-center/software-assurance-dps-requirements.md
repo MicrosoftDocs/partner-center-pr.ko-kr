@@ -1,7 +1,7 @@
 ---
 title: 서비스 계약 계획에 대 한 자격 요구 사항 보기 | 파트너 센터
 ms.topic: article
-ms.date: 01/29/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사에서 기업 고객에 게 제공할 수 있는 각 소프트웨어 보증 계획 서비스 계약에 대 한 자격 요구 사항에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: 배포 전, 계획, 소프트웨어 보증, 계약, 요구 사항, 자격, 제공
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76928892"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296437"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>서비스 계약 계획에 대 한 자격 요구 사항 보기
 
@@ -46,3 +46,4 @@ ms.locfileid: "76928892"
 - [소프트웨어 보증 계획 서비스 워크플로](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [소프트웨어 보증 계획 서비스 FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [소프트웨어 보증 계획 서비스 정책](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [소프트웨어 보증 계획 서비스 사용 중지 된 계약](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

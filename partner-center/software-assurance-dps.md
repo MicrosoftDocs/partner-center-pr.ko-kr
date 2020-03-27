@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터의 소프트웨어 보증 계획 서비스 | 파트너 센터
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 소프트웨어 보증을 통해 고객에 게 교육 및 기타 서비스를 제공할 수 있도록 Microsoft 계획 서비스 계약을 등록 하 고 검증 하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 배포 전, 계획, 소프트웨어 보증
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915751"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296403"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
@@ -25,7 +25,7 @@ ms.locfileid: "76915751"
 
 Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위한 배포 전 계획을 제공 하는 것을 보상 합니다. 이 프로그램에 참여 하면 더 많은 고객을 확보 하 고, 신뢰할 수 있는 계획 파트너가 되며, 추가 고객의 도움을 받을 수 있습니다.
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>시작
 
 소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다. 계획 서비스 프로그램에서 이미 활성화 되어 있는 경우 아래 4 단계 (4)에서 각각의 새 참여를 시작 합니다.
 
@@ -52,7 +52,7 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 
 특정 계획 서비스 참여에 등록 하는 데 필요한 회사 자격을 확인 하려면 다음을 수행 합니다.
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
 2. 메뉴에서 **MPN** 을 선택 하 고 **프로그램**을 선택 합니다.
 3. **소프트웨어 보증 등록**을 선택 합니다.
 4. 페이지 위쪽의 **계획 서비스 프로그램 등록** 탭을 선택 합니다. 이미 완료 한 요구 사항 또는 역량 옆에 녹색 확인 표시가 표시 됩니다.
@@ -108,3 +108,4 @@ SAVB를 통해 Microsoft에 송장을 제출 하려면 워크플로의 [8 단계
 - [소프트웨어 보증 계획 서비스 워크플로](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [소프트웨어 보증 계획 서비스 FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [소프트웨어 보증 계획 서비스 정책](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [소프트웨어 보증 계획 서비스 사용 중지 된 계약](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
