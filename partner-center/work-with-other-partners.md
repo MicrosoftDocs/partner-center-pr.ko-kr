@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 공급자가 CSP (클라우드 솔루션 공급자) 프로그램에서 간접 대리점과 협력 하는 방법에 대해 알아보고 적절 한 역할을 결정 합니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943156"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390452"
 ---
 # <a name="work-with-other-partners"></a>다른 파트너와 협력
 
@@ -39,7 +39,7 @@ CSP에서 승인을 받은 간접 공급자인 경우 [CSP에서 간접 재판�
 
 간접 재판매인이거나 CSP에 간접 재판매인으로 등록하는 데 관심이 있는 경우 [CSP에서 간접 공급자와 파트너 되기](indirect-reseller-tasks-in-partner-center.md)에서 간접 공급자 및 고객과 관계를 맺는 방법에 대해 자세히 알아보세요.
 
-CSP에 간접 재판매인으로 등록해야 하는지 아니면 직접 파트너로 등록해야 하는지 잘 모르겠나요? [Microsoft 파트너 네트워크 웹 사이트](https://partner.microsoft.com)의 [간접 모델 살펴보기](https://partner.microsoft.com/cloud-solution-provider/indirect)를 참조하세요.   
+CSP에 간접 재판매인으로 등록해야 하는지 아니면 직접 파트너로 등록해야 하는지 잘 모르겠나요? [Microsoft 파트너 네트워크 웹 사이트](https://partner.microsoft.com/cloud-solution-provider/indirect)의 [간접 모델 살펴보기](https://partner.microsoft.com)를 참조하세요.   
 
 ## <a name="multi-partner-support"></a>다중 파트너 지원
 

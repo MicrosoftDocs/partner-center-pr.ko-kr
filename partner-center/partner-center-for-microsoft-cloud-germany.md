@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 클라우드 독일 파트너 센터는 EU 및 EFTA 국가에 거주하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004882"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390772"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터
 
@@ -29,9 +29,9 @@ ms.locfileid: "75004882"
 -   영업 에이전트
 -   청구 관리자
 
-Microsoft 클라우드 독일은 엄격한 독일 데이터 보호 요구 사항을 충족하도록 설계되었으며 독일 법률에 따라 고객 데이터에 대한 물리적 및 논리적 액세스를 제어하는 독일 데이터 수탁자를 보유하고 있습니다. 모든 고객 데이터 및 고객 데이터에 대한 액세스를 처리 또는 제어하는 시스템은 독일 데이터 센터에 상주합니다. 데이터 센터 간 네트워크는 격리되어 있으며 독일 내에서만 사용됩니다.
+Microsoft 클라우드 독일은 엄격한 독일 데이터 보호 요구 사항을 충족하도록 설계되었으며 독일 법률에 따라 고객 데이터에 대한 물리적 및 논리적 액세스를 제어하는 독일 데이터 트러스티를 보유하고 있습니다. 모든 고객 데이터 및 고객 데이터에 대한 액세스를 처리 또는 제어하는 시스템은 독일 데이터 센터에 상주합니다. 데이터 센터 간 네트워크는 격리되어 있으며 독일 내에서만 사용됩니다.
 
-Microsoft 클라우드 독일에서는 독일 데이터 센터에서 제공 하는 별도의 [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)인스턴스를 제공 합니다. 따라서 유럽 연합(EU) 및 유럽 자유 무역 연합(EFTA)에 소속된 상용 고객은 적용되는 독일 법률 및 규정과 주요 국제 표준에 따라 고객 데이터를 저장하고 관리할 수 있습니다. Microsoft 직원은 독일 데이터 수탁자 또는 고객의 승인과 감독 없이는 고객 데이터에 액세스할 수 없습니다.
+Microsoft 클라우드 독일에서는 독일 데이터 센터에서 제공 하는 별도의 [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)인스턴스를 제공 합니다. 따라서 유럽 연합(EU) 및 유럽 자유 무역 연합(EFTA)에 소속된 상용 고객은 적용되는 독일 법률 및 규정과 주요 국제 표준에 따라 고객 데이터를 저장하고 관리할 수 있습니다. Microsoft 직원은 독일 데이터 신탁 관리자 또는 고객의 승인과 감독 없이는 고객 데이터에 액세스할 수 없습니다.
 
 > [!IMPORTANT]
 

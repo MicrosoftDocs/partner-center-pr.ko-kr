@@ -5,17 +5,17 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 Enterprise E4 버전은 2017년 4월 7일부로 사용 중지되었습니다. 고객 구독을 Office 365 최신 버전으로 마이그레이션하는 방법을 알아보세요.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004570"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390882"
 ---
-# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 Enterprise E4 구독을 Office 365 최신 버전으로 마이그레이션
+# <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 구독을 Office 365 최신 버전으로 마이그레이션
 
 **적용 대상**
 
@@ -64,7 +64,7 @@ E4와 같은 기능을 그대로 유지할 수도 있고 고객이 Office 365 �
 | 대화형 보고서, 대시보드 및 데이터 시각화가 제공되나요? | 예 | 아니요 | 아니요 | 아니요 | 
 | 기본 프라이버시, 투명성 및 정교한 사용자 컨트롤로 데이터 보안과 규정 준수를 보다 철저하게 제어할 수 있나요? | 예 | 아니요 | 아니요 | 아니요 | 
 
-## <a name="transition-customers-to-new-product-plans"></a>새 제품 요금제로 고객 전환
+## <a name="transition-customers-to-new-product-plans"></a>새 제품 계획으로 고객 전환
 
 Microsoft는 지속적으로 파트너에게 새 제품 및 서비스를 제공합니다. 다음과 같은 경우 파트너는 고객을 새 서비스로 업그레이드하거나 결국 종료될 SKU의 구독을 마이그레이션해야 할 수 있습니다. 사용 중지된 SKU에서 새 SKU로 고객을 마이그레이션하려면 다음 단계를 따라야 합니다.
 

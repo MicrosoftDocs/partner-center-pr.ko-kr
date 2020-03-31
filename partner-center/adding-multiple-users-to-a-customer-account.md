@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가 하는 방법에 대해 알아봅니다.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 대량 업로드, 고객 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 사용자 대량 업로드, 고객 계정, 고객 사용자, 사용자
 ms.localizationpriority: medium
-ms.openlocfilehash: 2195d23074a3e7c397b5f557fd3bed9ec0cc518e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721993"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390372"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>고객 계정에 여러 사용자 추가
 
@@ -29,7 +29,7 @@ ms.locfileid: "74721993"
 
 쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가할 수 있습니다. 파트너 센터에서 샘플 데이터 파일을 다운로드 한 다음 사용자가 사용할 수 있도록 편집 하거나 아래에 정의 된 데이터 모델을 사용 하 여 새 데이터 파일을 만들 수 있습니다.
 
-## <a href="" id="creatingtheimportcsvfile"></a>데이터 파일 요구 사항
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>데이터 파일 요구 사항
 
 대량 업로드 프로세스를 사용 하 여 고객의 계정에 여러 사용자를 추가 하려면 다음 요구 사항을 충족 해야 합니다.
 
@@ -46,17 +46,17 @@ ms.locfileid: "74721993"
 | **열 이름** | **설명**                                                              | **있다는**                             |
 | 이름      | 사용자의 이름 (선택 필드)                                           | 50자 제한                         |
 | 성       | 사용자의 성(선택적 필드)                                            | 50자 제한                         |
-| 표시 이름    | 파트너 센터 (필수 필드)에 표시 되는 이름                            | 50자 제한                         |
-| 이메일           | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자는 고유한 메일 주소가 있어야 함 |
+| Display name    | 파트너 센터 (필수 필드)에 표시 되는 이름                            | 50자 제한                         |
+| Email           | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자는 고유한 메일 주소가 있어야 함 |
 | 상태 업데이트   | 새 사용자 레코드가 만들어졌는지를 나타내는 데 사용됨 | \*빈\*\*남겨 둡니다 \*                        |
 
-### <a href="" id="createmultipleuseraccounts"></a>여러 사용자 계정을 만들려면
+### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>여러 사용자 계정을 만들려면
 
 <a href="" id="creatingtheaccounts"></a>
 
 1. 위에서 설명한 데이터로 쉼표로 구분된 값(.csv) 데이터 파일을 만듭니다. 이후 단계에서 찾아볼 수 있도록 이 파일을 저장합니다.
 
-2. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+2. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 3. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
 

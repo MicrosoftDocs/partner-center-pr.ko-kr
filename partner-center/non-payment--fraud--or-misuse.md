@@ -7,16 +7,16 @@ ms.subservice: partnercenter-csp
 description: 이러한 위험을 관리 하 고 완화 하는 방법에 대 한 모범 사례 및 온라인 트랜잭션과 관련 된 다양 한 유형의 위험에 대해 알아 두는 것이 중요 합니다.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005082"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390812"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 비 지불, 사기 행위 또는 오용 관리
 

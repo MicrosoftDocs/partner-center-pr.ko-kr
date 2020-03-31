@@ -5,23 +5,23 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 공급자 또는 배포자로 서 간접 재판매인과 함께 파트너를 확장 하는 방법에 대해 알아봅니다. 여기에는 파트너 센터에서 수행할 수 있는 작업이 포함 됩니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112482"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390932"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
 **적절한 역할**
--    글로벌 관리자
+-    전역 관리자
 -    사용자 관리자
--    관리 에이전트
--    영업 상담원
+-    관리자 에이전트
+-    영업 에이전트
 
 기술 시장이 매우 복잡하고 빠르게 변화하기 때문에 고객은 기술 솔루션이 제공할 수 있는 경쟁 우위를 원합니다. 이러한 환경에서 파트너는 파트너 간 협력에 투자하여 제품을 확장하고 고객이 더 많은 일을 할 수 있도록 지원하는 것이 중요합니다.
 

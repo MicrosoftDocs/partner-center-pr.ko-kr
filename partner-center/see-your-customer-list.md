@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객 레코드는 가장 중요 한 정보 자산 중 하나입니다. 고객 목록에서 정보를 확인 하 고, 검색 하 고, 업데이트 하 고, 내보내는 방법에 대해 알아봅니다.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a5d6196aee964ad2b03a18699388f8f398169f14
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e25ae609c635b21d4345c9567a44c119a70253
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943436"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390662"
 ---
 # <a name="manage-your-customer-list"></a>고객 목록 관리
 
@@ -41,13 +41,13 @@ ms.locfileid: "74943436"
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝부분에 있는 **아래쪽 화살표**를 선택하여 고객의 Microsoft ID 및 연결된 구독과 서비스 빠른 링크를 표시합니다.
 4.  고객의 **청구지** 정보에서 회사 이름을 업데이트합니다. 저장된 새 이름은 고객 목록에 적용됩니다. 이때 청구지 회사 이름과 고객 목록 값만 변경되고, 다른 정보는 변경되지 않습니다.
-
+<sup>1</sup>
 ## <a name="export-your-customer-list"></a>고객 목록 내보내기
 
 1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  **고객 내보내기**를 선택합니다.
 
-    파트너 센터는 전체 고객 목록을 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 고객 데이터의 하위 집합을 내보낼 수도 있습니다. 데이터 열에는 다음과 같은 내용이 포함됩니다.
+    파트너 센터는 전체 고객 목록을 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 고객 데이터의 하위 집합을 내보낼 수도 있습니다. 데이터 열은 다음과 같습니다.
 
     -   **Microsoft ID**
     -   **회사 이름**
@@ -57,13 +57,13 @@ ms.locfileid: "74943436"
     기본적으로 파트너 센터는 길이와 관계없이 전체 고객 목록을 내보냅니다. 회사 이름 또는 도메인으로 고객 목록을 검색하고 해당 데이터의 하위 집합을 내보낼 수도 있습니다.
 
 3.  간접 공급자인 경우 간접 재판매인을 기준으로 고객 목록을 필터링할 수 있습니다. 목록에서 **간접 재판매인으로 필터링**을 선택하고 재판매인을 선택합니다.
-
+<sup>1</sup>
 
 ## <a name="export-customer-subscription-information"></a>고객 구독 정보 내보내기
 
 1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
 2.  고객의 **회사 이름**을 선택합니다. 고객의 **구독** 페이지가 열리고 전체 제품 구독 목록이 표시됩니다.
-3.  **구독 내보내기**를 선택합니다. 파트너 센터는 고객의 구독 데이터를 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 데이터 열에는 다음과 같은 내용이 포함됩니다.
+3.  **구독 내보내기**를 선택합니다. 파트너 센터는 고객의 구독 데이터를 .csv 파일을 변환한 후 컴퓨터의 기본 다운로드 폴더에 업로드합니다. 데이터 열은 다음과 같습니다.
     -   **구독 ID**
     -   **구독** - 구독의 제품 이름
     -   **수량** - 구매한 라이선스 수

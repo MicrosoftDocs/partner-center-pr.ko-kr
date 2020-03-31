@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객이 클라우드 솔루션 공급자 프로그램에서 각기 다른 서비스를 전문적으로 제공하는 여러 파트너와 작업하려고 할 수도 있습니다.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004912"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390822"
 ---
 # <a name="multi-partner-support"></a>다중 파트너 지원
 

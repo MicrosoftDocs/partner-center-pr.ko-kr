@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 다양한 국가/지역에 대한 테넌트를 통합하려면 다음 지침을 사용하세요. 여기에는 고객 계정 및 고객 구독을 마이그레이션하는 단계가 포함 됩니다.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 고객 마이그레이션, 프로비저닝, 테넌트 계정, 테넌트 통합
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722177"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390972"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합
+# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 설정 테넌트 통합
 
 **적용 대상**
 
@@ -71,13 +71,13 @@ ms.locfileid: "74722177"
 
 4.  **구독 추가**를 클릭합니다.
 
-5.  카탈로그에서 올바른 구독 및 실제 사용자 수를 추가합니다. **전환 원본** 파트너 계정에 제공된 정보로 확인합니다.
+5.  카탈로그에서 올바른 구독 및 실제 사용자 수를 추가합니다. **Transitioning From**(전환 원본) 파트너 계정에 제공된 정보로 확인합니다.
 
 ![고객 목록](images/regionalcustomer2.png)
 
 6.  **제출**을 클릭합니다.
 
-이제 서비스가 **전환 대상** 파트너 계정의 고객에게 제공됩니다.
+이제 서비스가 **Transitioning To**(전환 대상) 파트너 계정의 고객에게 제공됩니다.
 
 모든 추가 고객에 대해 구독을 마이그레이션하려면 이러한 단계를 반복합니다.
 
@@ -112,19 +112,19 @@ The Subscription shows **suspended** on the subscriptions list.
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Azure 사용량 기준 구독 마이그레이션
 
 
-Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP 구독은 수동으로 마이그레이션할 필요가 없습니다. Microsoft Azure 지원에서는 **전환 원본** CSP 재판매인 계정의 모든 배포된 서비스 또는 리소스뿐만 아니라 Azure 구독을 **전환 대상** CSP 재판매인 계정으로 마이그레이션할 수 있습니다. 이 전환 동안 고객에게 서비스 중단이 발생하지 않습니다.
+Office 365 CSP 구독의 경우와 마찬가지로 Azure 사용량 기준 CSP 구독은 수동으로 마이그레이션할 필요가 없습니다. Microsoft Azure 지원에서는 **Transitioning From**(전환 원본) CSP 재판매인 계정의 모든 배포된 서비스 또는 리소스뿐만 아니라 Azure 구독을 **Transitioning To**(전환 대상) CSP 재판매인 계정으로 마이그레이션할 수 있습니다. 이 전환 동안 고객에게 서비스 중단이 발생하지 않습니다.
 
-1.  Azure 구독을 마이그레이션해야 하는 고객 계정이 새 **전환 대상** CSP 계정과 연결하기 위한 계약에 동의했는지 확인합니다.
+1.  Azure 구독을 마이그레이션해야 하는 고객 계정이 새 **Transitioning To**(전환 대상) CSP 계정과 연결하기 위한 계약에 동의했는지 확인합니다.
 2.  파트너는 Azure 구독을 보유 하 고 있는 고객 계정에 대해 Microsoft에 알리고 해당 고객의 회사 이름을 제공 합니다.
 3.  Microsoft는 Azure 사용량 기준 구독을 마이그레이션하고 마이그레이션이 완료되면 파트너에게 알립니다.
-4.  파트너는 **전환 원본** CSP 재판매인 계정의 Azure 구독이 이제 파트너 센터의 고객 구독 섹션에서 일시 중단됨으로 표시되는지 확인합니다.
-5.  파트너는 **전환 대상** CSP 재판매인 계정의 Azure 구독이 이제 파트너 센터의 고객 구독 섹션에서 **활성** 상태로 표시되는지 확인합니다.
+4.  파트너는 **Transitioning From**(전환 원본) CSP 재판매인 계정의 Azure 구독이 이제 파트너 센터의 고객 구독 섹션에서 일시 중단됨으로 표시되는지 확인합니다.
+5.  파트너는 **Transitioning To**(전환 대상) CSP 재판매인 계정의 Azure 구독이 이제 파트너 센터의 고객 구독 섹션에서 **활성** 상태로 표시되는지 확인합니다.
 
 >[! **참고**] 고객에서 구독을 사용 하지 않도록 설정 해도 고객 목록에 있는 고객의 모양은 변경 되지 않습니다. 현재 목록에서 고객을 제거하는 옵션은 없습니다. 파트너는 나중에 **전환 원본** 계정에서 이러한 고객에 구독을 다시 추가하지 않아야 합니다.
 
 
 
-6.  모든 고객의 모든 구독에 대해 이러한 단계를 반복하여 이후 **전환 원본** 계정에 요금이 청구되지 않도록 합니다. 파트너는 취소일과 청구 기간의 마지막 날 사이에 사용되지 않은 일수에 대한 크레딧이 포함된 최종 송장을 하나 받게 됩니다. 해당 최종 청구 기간 이후 더는 송장이 생성되지 않습니다.
+6.  모든 고객의 모든 구독에 대해 이러한 단계를 반복하여 이후 **Transitioning From**(전환 원본) 계정에 요금이 청구되지 않도록 합니다. 파트너는 취소일과 청구 기간의 마지막 날 사이에 사용되지 않은 일수에 대한 크레딧이 포함된 최종 송장을 하나 받게 됩니다. 해당 최종 청구 기간 이후 더는 송장이 생성되지 않습니다.
 
 ### <a name="notes"></a>참고
 

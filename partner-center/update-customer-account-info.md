@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 고객의 청구 정보와 기타 회사 세부 정보를 업데이트할 수 있습니다.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a9d8070bf732597ed1d24a930508db910a4dfc65
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65f692bc06230272801a03a7ecd4611637fcad7b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651188"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390542"
 ---
 # <a name="update-customer-account-info"></a>고객 계정 정보 업데이트
 

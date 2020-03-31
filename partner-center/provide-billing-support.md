@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 귀사는 고객과 청구 관계를 맺고 있으므로 고객의 청구 관련 질문을 완전히 지원해야 합니다.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 25cf1868ddd941ea78bd4f38d399a90e7dc621c1
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004932"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390732"
 ---
 # <a name="provide-billing-support"></a>청구 지원 제공
 

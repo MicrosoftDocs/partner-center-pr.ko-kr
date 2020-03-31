@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 고객이 해결할 수 없는 서비스 문제가 발생 하 고 문제를 Microsoft로 에스컬레이션에 설명 된 조건을 충족 하는 경우 해당 서비스에 대 한 지원 티켓을 제출 합니다.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 서비스 요청, 서비스 티켓, 지원, 지원 권한, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943216"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390692"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>고객 대신 문제 보고
 
@@ -60,7 +60,7 @@ ms.locfileid: "74943216"
 
 1. 파트너 센터의 계정 페이지에서 고객의 도메인 이름을 복사 합니다.
 
-2. https://portal.azure.com/ [customerdomainname]으로 이동합니다. 
+2. https://portal.azure.com/[customerdomainname]으로 이동합니다. 
 
 3. 지원이 필요한 Azure 구독을 선택합니다.
 

@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Cloud for US Government용 파트너 센터는 미국 내에서 정부 기관과 협력하는 고객에게 Microsoft 클라우드 솔루션을 제공하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004252"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390762"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 파트너 센터
 
@@ -47,7 +47,7 @@ Microsoft Cloud for US Government의 CSP(클라우드 솔루션 공급자) 프�
 
 - 파트너 찾기
 - 비즈니스 프로필
-- 추천
+- 조회
 - 고객과 재판매인 관계 요청(다중 채널, 다중 파트너)
 - 라이선스 분석
 - 고객 정보

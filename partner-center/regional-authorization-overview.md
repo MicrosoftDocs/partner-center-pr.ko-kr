@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사의 위치에 따라 CSP 제품을 판매할 수 있는 국가, 지역 및 통화를 참조 하세요.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Csp 시장, 지역, CSP를 통해 판매할 수 있는 위치, CSP 제공, 지역, 클라우드 솔루션 판매, 글로벌 CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5aae0c5eca8bc47d38fd14e600c64ae02137c2a5
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672813"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390702"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>클라우드 솔루션 공급자 프로그램 지역 시장 및 통화
 
@@ -24,10 +24,10 @@ ms.locfileid: "77672813"
 
 예를 들어 회사가 미국에 있는 경우 미국 및 미국 소수 외부의 고객에 게 CSP 제품을 판매할 수 있습니다. 회사를 브라질에 거주 하는 경우에는 브라질에서 CSP 제품을 고객에 게 판매할 수 있습니다. 회사를 아프리카 지역에 있는 경우 아프리카 지역의 18 개 국가에서 CSP 제품을 고객에 게 판매할 수 있습니다.
 
-고객을 대신 하 여 CSP 제품을 주문 하려면 먼저 고객이 Microsoft 고객 계약에 서명 해야 합니다. 해당 지역/국가에 해당 하는 Microsoft 고객 계약을 [여기](agreements.md)에서 찾을 수 있습니다.
+고객을 대신하여 CSP 제품을 주문하려면 고객이 Microsoft 고객 계약에 동의해야 합니다. 해당 지역/국가에 해당 하는 Microsoft 고객 계약을 [여기](agreements.md)에서 찾을 수 있습니다.
 
 >[!IMPORTANT]
-> 고객이 서명한 사용자에 대 한 정보를 제공 하 여 고객이 Microsoft 고객 계약에 동의 했는지 확인 해야 합니다. 자세한 내용은 [Microsoft 고객 계약에 대 한 고객의 승인 확인을](confirm-consent.md) 참조 하세요.
+> 고객이 서명한 사용자에 대 한 정보를 제공 하 여 고객이 Microsoft 고객 계약에 동의 했는지 확인 해야 합니다. 자세한 내용은 [고객의 Microsoft 고객 계약 동의 확인](confirm-consent.md)을 참조하세요.
 
 CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 하나에서 회사의 위치를 찾습니다. 판매 하려는 위치에 대해 활성 Microsoft 파트너 네트워크 (MPN) ID가 있어야 합니다.  
 
@@ -107,10 +107,10 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  홍콩         |   USD    |
 |  인도네시아         |   USD    |
 |  라오스              |          |
-|  마카오 특별행정구             |   USD    |
+|  마카오 특별             |   USD    |
 |  말레이시아          |   USD    |
 |  몰디브          |          |
-|  미얀마           |          |
+|  미얀마어           |          |
 |  네팔             |          |
 |  필리핀       |   USD    |
 |  싱가포르         |   USD    |
@@ -300,7 +300,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  세인트 루시아    |   USD    |
 |  세인트 마틴   |   USD    |
 |  세인트 빈센트 그레나딘| USD |
-|  티위 |   USD    |
+|  신트외스타티위스 |   USD    |
 |  신트마르텐   |   USD    |
 |  사우스 조지아 및 사우스 샌드위치 제도| USD|
 |  수리남       |   USD    |
@@ -338,7 +338,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  레바논        |   USD    |
 |  레소토        |   USD    |
 |  리비아          |          |
-|  북마케도니아 공화국|   |
+|  마케도니아 공화국|   |
 |  모리타니     |   USD    |
 |  몰도바        |          |
 |  몽골       |          |

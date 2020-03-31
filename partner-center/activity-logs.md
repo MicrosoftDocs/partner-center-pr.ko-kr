@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 활동 로그를 보거나 내보내 고객 계정 트랜잭션 및 기타 고객 관련 파트너 관리 활동에 대 한 통찰력을 얻는 방법에 대해 알아봅니다.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 활동 로그, 구독, 지불, 청구, 거래
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721786"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390382"
 ---
 # <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
 
@@ -40,7 +40,7 @@ ms.locfileid: "74721786"
 
 **활동 로그 보기 및 내보내기**
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. **계정 설정** 메뉴에서 **활동 로그**를 선택합니다.
 2.  **시작일** 및 **종료일** 필드에서 활동 로그 기간을 선택합니다. 활동 로그 내보내기는 기본적으로 최근의 달로 설정됩니다.

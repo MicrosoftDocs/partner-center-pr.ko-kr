@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객이 Azure 서비스에 사용할 클라우드 솔루션 공급자 프로그램에서 파트너를 변경 하는 방법에 대해 알아봅니다.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Azure 구독, 파트너 전환, 파트너 변경, 새로운 파트너 받기, 다른 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943396"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390622"
 ---
 # <a name="transfer-azure-subscriptions"></a>Azure 구독 전송 
 
 **적용 대상**
 
--  파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 글로벌 클라우드의 파트너 센터
 
 고객은 Microsoft Azure 서비스에 대해 클라우드 솔루션 공급자 파트너 또는 다른 파트너로 이전할 수 있습니다. 그러나 이 작업은 파트너와 고객 모두의 조치가 필요한 수동 프로세스입니다.
 
@@ -42,7 +43,7 @@ ms.locfileid: "74943396"
 파트너 센터에서 구독 이전을 요청하는 Azure 서비스 티켓을 만듭니다.
 -   파트너 센터 메뉴에서 **고객**을 선택 하 고, 목록에서 고객을 선택한 다음, **서비스 관리**를 선택 합니다. **지원 티켓** 섹션에서 **새 티켓** 드롭다운을 선택하고 **Microsoft Azure**를 선택합니다.
 
--   Azure Portal에서 **새 지원 요청**을 선택합니다.
+-   Azure 포털에서 **새 지원 요청**을 선택합니다.
 
 1단계에서 **구독 관리**를 문제 유형으로 선택하고 이전하려는 구독 ID를 지정한 다음 **클라우드 솔루션 공급자**를 지원 계획으로 선택합니다.
 
