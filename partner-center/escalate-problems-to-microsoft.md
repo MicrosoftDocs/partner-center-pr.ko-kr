@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너가 고객에 대해 스스로 해결 해야 하는 문제 및 Microsoft로 에스컬레이션 해야 할 수 있는 문제에 대해 알아보세요.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722235"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389862"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
 
@@ -47,7 +47,7 @@ ms.locfileid: "74722235"
 
 ## <a name="submit-a-support-request"></a>지원 요청 제출
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **고객**을 선택한 다음 지원이 필요한 고객을 선택 합니다.
 

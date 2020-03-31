@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/26/2019
 description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 청구, 송장
 ms.localizationpriority: medium
-ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 1307a9a2f95cedde5eda7deefb61cb202597f804
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004571"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390912"
 ---
 # <a name="invoice-files"></a>청구서 파일
 
@@ -44,7 +44,7 @@ ms.locfileid: "75004571"
 | 현재 총 요금 | 청구 기간에 대 한 청구 통화로 인 한 금액입니다. 이러한 요금은 지불 기한 기한입니다. |
 | 결제 관련 지침 | 지역을 기준으로 청구서를 지불 하는 방법에 대 한 설명입니다. *지불 시 청구서 번호를 반드시 포함 해야 합니다.* |
 | 송장 번호 | 송장의 번호입니다. |
-| 청구 기간 | 매월 청구서 날짜로 계산 되는 기간입니다. 사용 빈도 기반 서비스가 사용 되는 기간으로, 라이선스 기반 서비스는 크레딧 조정 또는 라이선스 수 변화에 맞게 조정 됩니다. |
+| 대금 청구 기간 | 매월 청구서 날짜로 계산 되는 기간입니다. 사용 빈도 기반 서비스가 사용 되는 기간으로, 라이선스 기반 서비스는 크레딧 조정 또는 라이선스 수 변화에 맞게 조정 됩니다. |
 | 송장 날짜 | 송장이 매월 생성 되는 청구 날짜 또는 기념일입니다. |
 | 지급 조건 | 지불 조건입니다. 일회성 구매에 대해서는 항상 60일 이내입니다. |
 | 결제 기한 | 지불을 받아야 하는 날짜입니다. |
@@ -60,9 +60,9 @@ ms.locfileid: "75004571"
 | ----- | ---------- |
 | 날짜 | 구매 날짜입니다. |
 | 설명 | 제품 이름 |
-| Quantity | 구매한 제품 (예: 예약)의 수입니다. |
+| 수량 | 구매한 제품 (예: 예약)의 수입니다. |
 | 단가 | 제품별 가격 (예: 예약). |
 | 할인 | 적용 가능한 모든 할인 혜택입니다. |
 | 세전 금액 | 세금 부과 전 구입액의 소계입니다. |
-| 판매세 | 세금 액수입니다. |
-| 총액 | 총 지불 금액입니다. |
+| 판매세 | 세액 |
+| 합계 | 총 지불 금액입니다. |

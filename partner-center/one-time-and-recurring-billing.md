@@ -3,16 +3,16 @@ title: 일회성 요금 청구 및 선택 반복 요금 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 Description: 미리 설정 된 용어에 대 한 일회성 청구 정보 (월별 및 연간 구독) 및 파트너 센터의 선택 되풀이 요금 (해당 Microsoft 및 타사 ISV 제품의 경우)에 대 한 청구
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 청구, 일회성, 되풀이, 구매, 요금, isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005042"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390782"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>일회성 요금 및 선택적 반복 요금 청구
 

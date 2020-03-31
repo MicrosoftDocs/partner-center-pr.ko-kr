@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 서비스에서 문제가 발생 하는 경우 고객에 대 한 서비스 상태를 확인 하는 방법을 알아봅니다.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 상태, 서비스 상태, 서비스 문제
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721654"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390212"
 ---
 # <a name="check-service-health"></a>서비스 상태 확인
 

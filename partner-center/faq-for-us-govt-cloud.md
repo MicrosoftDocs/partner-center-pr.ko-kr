@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 미국 정부에 대 한 Microsoft 클라우드 CSP (클라우드 솔루션 공급자) 프로그램에 대 한 FAQ (질문과 대답)를 참조 하세요.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: cfcccf65557e4e7d1096a6f69cb80ff00b0c3a23
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672673"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389682"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government용 파트너 센터에 대한 FAQ
 

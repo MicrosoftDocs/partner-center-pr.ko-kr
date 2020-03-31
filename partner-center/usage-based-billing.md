@@ -3,16 +3,16 @@ title: 사용량 기반 청구 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 Description: 월별 사용 요금에 대 한 요금이 청구 되는 파트너 센터의 사용량 기반 요금 청구에 대 한 정보입니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 청구, 사용량 기반, 사용량
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389741"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390502"
 ---
 # <a name="usage-based-billing"></a>사용량 기준 청구
 

@@ -3,16 +3,16 @@ title: 라이선스 기반 청구 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 Description: 라이선스를 기준으로 요금이 청구 되는 파트너 센터의 라이선스 기반 청구에 대 한 정보입니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 청구, 지불, 라이선스 기반, 라이선스
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004922"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390902"
 ---
 # <a name="license-based-billing"></a>라이선스 기준 청구
 
@@ -37,7 +37,7 @@ ms.locfileid: "75004922"
 
 라이선스 기반 구독은 구독의 **기념일**에 대해 미리 청구 됩니다. 기념일은 구독을 구매한 월의 날짜입니다.
 
-예를 들어 다음과 같은 가치를 제공해야 합니다.
+예를 들면 다음과 같습니다.
 
 - 1 월 15 일에 **월간 구독** 을 구매한 경우 기념일은 매월 15 일이 됩니다.
 - 1 월 15 일에 **연간 구독** 을 구매한 경우 기념일은 매년 1 월 15 일까 집니다.

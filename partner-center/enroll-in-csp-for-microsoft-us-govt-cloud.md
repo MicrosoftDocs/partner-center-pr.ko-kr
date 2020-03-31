@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Cloud for US Government의 클라우드 솔루션 공급자 프로그램에 등록하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722583"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389802"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government의 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -29,7 +29,7 @@ ms.locfileid: "74722583"
 
 Microsoft Cloud for US Government는 미국 정부의 데이터 보안, 프라이버시 및 규정 준수 요구 사항을 충족하는 별도의 전용 Microsoft Azure 인스턴스를 제공합니다. Microsoft Cloud for US Government의 CSP 프로그램에 참여하려는 회사는 Microsoft의 자격 요구 사항을 충족해야 합니다. 자세한 내용은 [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)를 참조하세요.
 
-## <a name="before-you-begin"></a>시작하기 전에
+## <a name="before-you-begin"></a>시작하기 전 주의 사항
 
 Microsoft Cloud for US Government의 CSP 프로그램에 등록하려면 회사가 미국 정부 기관에 제품을 판매하기 위한 요구 사항을 충족하는지 확인하는 절차가 필요합니다. 등록 프로세스를 시작하시기 전에, 귀사의 자격을 확인할 수 있도록 [Microsoft 정부 클라우드 검사 양식](https://azuregov.microsoft.com/csp)을 작성해 주세요. 자격이 있는 것으로 확인되면 Microsoft Cloud for US Government와 관련된 Azure AD(Azure Active Directory) 테넌트를 제공해 드립니다.  
 
@@ -75,13 +75,13 @@ Microsoft Cloud for US Government는 정부 규정, 보안 및 프라이버시 �
 > [!NOTE]  
 > 관리자 에이전트 역할에 사용자를 할당하면 해당 사용자는 **고객** 페이지의 고객 목록에 액세스하고 [새 고객을 추가](add-a-new-customer.md)할 수 있게 됩니다.   
 
-1.  https://portal.azure.us/ 에서 Microsoft Azure 관리자 포털에 로그인합니다.
+1.  https://portal.azure.us/에서 Microsoft Azure 관리자 포털에 로그인합니다.
 
 2.  조직 내 적절한 사용자에게 관리자 에이전트 역할을 할당합니다. 이렇게 하려면 해당 사용자를 기본 제공 **AdminAgent** 그룹에 추가해야 합니다. 자세한 방법은 [Azure Active Directory에서 그룹의 구성원 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)를 참조하세요.
  
 ## <a name="connect-with-us"></a>Microsoft와 연결
 
-- 질문이 있으세요? azgovcsp@microsoft.com으로 전자 메일 보내기
+- 궁금한 점이 더 있나요? azgovcsp@microsoft.com으로 전자 메일 보내기
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all)에서 참여 
 

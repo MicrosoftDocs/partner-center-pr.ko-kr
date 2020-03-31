@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 장치를 고객에 게 배달 하기 전에 Autopilot profile을 사용 하 여 새로운 장치의 기본 환경을 사용자 지정 하거나 미리 구성 하는 방법에 대해 알아봅니다.
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: autopilot, windows autopilot, microsoft autopilot, zero touch 배포, oobe, 로그인 화면, 기본
 ms.localizationpriority: medium
-ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721433"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391002"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치에 대 한 기본 경험 경험 사용자 지정
 

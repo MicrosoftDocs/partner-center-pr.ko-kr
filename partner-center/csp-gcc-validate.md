@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 직접 청구 파트너 (direct 재판매인, 간접 공급자)에 게 Office 365 정부 GCC for CSP에 대 한 파트너 및 고객의 유효성을 검사 하는 단계를 알아봅니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721935"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389732"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP용 Office 365 Government GCC 파트너 및 고객 자격 기준
 
@@ -48,7 +48,7 @@ CSP용 Office 365 Government GCC 파트너 및 고객은 아래에 설명된 특
 2.  GSA 또는 기타 계약 수단을 통해 미국 정부 고객 지원
 
 **고객 기준**
-1.  정부 산하 단체. 예를 들어 다음과 같은 가치를 제공해야 합니다.
+1.  정부 산하 단체. 예를 들면 다음과 같습니다.
  
     -  연방 정부 기관(예: 미국 정부의 국, 부서, 부처 또는 기타 단체)
     -   주/지방 단체 

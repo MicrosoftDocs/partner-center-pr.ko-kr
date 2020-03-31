@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객에 대 한 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하거나, 사용자 계정을 삭제 하거나, 복원 하는 방법에 대해 알아봅니다.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 고객 관리, 계정, 계정 만들기, 라이선스, 라이선스 할당, 사용자 관리, 암호, 암호 재설정, 암호 변경
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721362"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391012"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대한 사용자 관리 작업
 
@@ -35,13 +35,13 @@ ms.locfileid: "74721362"
 
 고객에 대 한 새 구독을 구입 하는 경우 고객은 계정, 해당 사용자 권한 및 각 사용자가 요구 하는 서비스를 필요로 하는 모든 사용자의 목록을 제공 해야 합니다.  
 
-[Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용하여 한 번에 [여러 사용자에게 구독을 할당](bulk-license-provisioning-for-multiple-users.md)할 수 있습니다.
+[Excel 호환 .csv 스프레드시트 파일](bulk-license-provisioning-for-multiple-users.md)을 사용하여 한 번에 [여러 사용자에게 구독을 할당](adding-multiple-users-to-a-customer-account.md)할 수 있습니다.
 
 <a href="" id="createuseraccounts"></a>
 
-## <a name="create-user-accounts-for-a-customer"></a>고객용 사용자 계정 생성
+## <a name="create-user-accounts-for-a-customer"></a>고객용 사용자 계정 만들기
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
 
@@ -61,7 +61,7 @@ ms.locfileid: "74721362"
 
 다음 단계는 Microsoft 제품에 대 한 사용자 라이선스를 추가 하거나 제거 하는 경우에 적용 됩니다. 상업적 marketplace에서 라이선스 기반 SaaS 구독의 사용자 라이선스를 추가 하거나 제거 하려면 [SaaS 구독에 대 한 라이선스 추가 또는 제거](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)를 참조 하세요.
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
 
@@ -78,7 +78,7 @@ ms.locfileid: "74721362"
 
 ## <a name="reset-a-users-password-for-a-customer"></a>고객용 사용자 암호 재설정
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
 

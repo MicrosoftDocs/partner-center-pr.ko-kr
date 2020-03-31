@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객 계정을 사용 하 여 한 사용자 또는 여러 사용자에 게 한 번에 라이선스 및 서비스를 할당 하거나 해지 하는 방법에 대해 알아봅니다.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 라이선스 할당, 라이선스 해지, 여러 사용자에 게 할당,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722203"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390272"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
@@ -35,7 +35,7 @@ ms.locfileid: "74722203"
 
 파트너 센터는 고객 소유 라이선스 자격을 모두 추적 하 고 표시 합니다.
 
-## <a name="in-this-section"></a>이 섹션의 내용
+## <a name="in-this-section"></a>단원 내용
 
 
 - [여러 사용자에 게 라이선스 할당](#assign-licenses-to-groups)
@@ -100,4 +100,4 @@ ms.locfileid: "74722203"
 
 ## <a name="related-topics"></a>관련 항목
 
-[사용자에게 라이선스 할당](assign-licenses-to-users.md)
+[사용자 한 명에게 라이선스 할당](assign-licenses-to-users.md)

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새 고객 레코드를 추가 하는 방법에 대해 알아봅니다. 그런 다음 고객 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객 지원 서비스를 제공할 수 있습니다.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 고객, 고객 추가, 고객 계정, 파트너 센터의 고객 계정, 고객 계정 추가, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340084"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390962"
 ---
 # <a name="add-a-new-customer"></a>새 고객 추가 
 

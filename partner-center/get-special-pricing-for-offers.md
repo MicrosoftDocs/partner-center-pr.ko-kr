@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 교육 고객, 비영리 고객 및 정부 사용자를 비롯 한 특정 고객 그룹에 대 한 Microsoft의 특별 한 가격 책정 가격에 대해 알아보세요.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.openlocfilehash: 0d6f79e6bfe04d065318e4f927233877db0286f9
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631813"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390982"
 ---
 # <a name="sell-to-specialized-industries"></a>특수 산업을 대상으로 판매
 

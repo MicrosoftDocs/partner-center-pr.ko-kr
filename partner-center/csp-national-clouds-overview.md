@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트너가 지원 되는 국가별 클라우드에 등록 된 고객에 게 판매할 수 있는 방법에 대해 알아봅니다.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 국가별 클라우드, Microsoft 클라우드 독일, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud 중국
 ms.localizationpriority: medium
-ms.openlocfilehash: d8f23931f5f13252a8d72b36b4be52efd5f3cd88
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 03e9a08d7aa683098e4ff998afa981f7e915e2fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253523"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389612"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft 국가별 클라우드 판매에 적용
 
