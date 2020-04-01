@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 회사의 프로필, 카탈로그, 은행 및 세금 정보, 역할, 권한 등을 관리합니다.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240188"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390802"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 

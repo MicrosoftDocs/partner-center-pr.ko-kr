@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사에서 역량 획득을 위해 수행한 교육 및 학습 경로를 확인할 수 있도록 파트너 센터 계정에 MCP ID를 연결하는 방법을 알아봅니다.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 역할, 권한, 사용자 추가, 역할 할당, 관리자, 에이전트, MCP ID, Microsoft Learn
 ms.localizationpriority: high
-ms.openlocfilehash: b3f263aff2b2fcbc25ff7a348e137fc15c10157d
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 3490b69fd2222d4aa6fee1387fa5cff2e88525e3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340171"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390842"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>파트너 센터에서 Microsoft Learn 계정 연결
 

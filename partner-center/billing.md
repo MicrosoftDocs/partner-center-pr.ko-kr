@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 청구 리소스, 송장 및 CSP 청구에 대한 정보를 비롯한 파트너 센터의 청구 항목에 대해 알아봅니다.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: high
-ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722164"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390282"
 ---
 # <a name="billing"></a>청구
 
@@ -26,10 +26,10 @@ ms.locfileid: "74722164"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 전역 관리자
-- 영업 에이전트
+- 글로벌 관리자
+- 영업 상담원
 
 | 항목 | 설명 |
 | ----- | ----------- |

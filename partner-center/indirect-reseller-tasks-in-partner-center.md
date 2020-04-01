@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 간접 재판매인이 고객 지원 및 요금 청구에 도움을 주는 Microsoft 간접 공급자(또는 배포자)와 함께 작동하는 방법에 대해 알아봅니다.
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004802"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390922"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
--   관리자 에이전트
--   영업 에이전트
+-   관리 에이전트
+-   영업 상담원
 
 클라우드 기반 솔루션 및 서비스에 대한 수요가 빠르게 늘어남에 따라 크고 작은 Microsoft 파트너가 수익성 높은 클라우드 솔루션 비즈니스를 할 수 있는 여러 기회가 생겨나고 있습니다. 시장에 진입할 준비가 되었지만 여러 공급업체를 관리하기를 원하지 않거나 엔드투엔드 고객 관계 관리 인프라를 갖추지 못한 파트너는 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 간접 재판매인으로 등록할 수 있습니다.
 
