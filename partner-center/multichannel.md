@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 경우에 따라 고객이 다른 곳에서 구입한 구독을 프로비전 및 지원하기 위해 귀사를 고용하려 할 수도 있습니다.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005092"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390832"
 ---
 # <a name="multi-channel-support"></a>다중 채널 지원
 

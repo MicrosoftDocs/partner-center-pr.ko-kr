@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 메트릭을 사용 하 여 비즈니스가 성장 하 고 있는지, 고객이 라이선스를 사용 하는 방법 및 투자에 집중할 수 있는지를 확인 하는 방법을 알아봅니다.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004782"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390942"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>채택률 및 만족도 높이기
 
@@ -45,7 +45,7 @@ ms.locfileid: "75004782"
 **포트폴리오에서**
 
 1.  **파트너 센터**에서 **분석**을 선택 합니다.
-2.  **내보내기** 옵션을 선택하여 전체 고객 집합에서 배포 및 사용 현황 데이터를 다운로드합니다.
+2.  **내보내기** 옵션을 선택하여 전체 고객 집합에서 배포 및 사용량 현황 데이터를 다운로드합니다.
 
 용어:
 
