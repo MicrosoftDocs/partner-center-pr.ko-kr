@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 액세스 권한이 필요한 각 직원에 대해 파트너 센터에서 사용자 계정을 만들고 역할을 할당하는 방법을 알아봅니다. 다른 관리자 권한을 가진 사용자가 이 작업을 수행할 수 있습니다.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 역할, 사용 권한, 사용자 추가, 역할 할당, 관리자, 에이전트,
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240210"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389652"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 사용 권한 할당
 
@@ -43,15 +43,24 @@ ms.locfileid: "78240210"
 > [!IMPORTANT]  
 > 이 페이지에 표시되는 새 사용자의 로그인 정보를 기록해 두세요. 나중에 이 정보에 다시 액세스할 수 없으므로 이 정보를 복사하여 새 사용자에게 보내야 합니다. 
 
+
 사용자는 사용자 이름 및 임시 암호를 사용하여 파트너 센터에 로그인해야 합니다. 사용자가 파트너 센터에 처음으로 로그인하면 암호를 변경하라는 메시지가 표시됩니다. 
 
-> [!NOTE]  
->  글로벌 관리자가 퇴사를 하거나 직책이 바뀌어서 새 글로벌 관리자를 추가해야 하는 경우, [MPN 포털](https://partner.microsoft.com/support)에서 서비스 요청을 로깅해야 합니다. 요청자가 필수적인 개인 신원 정보와 조직에 대한 추가 정보를 제공하면 지원 상담원이 글로벌 관리자에게 사용자의 권한 상승을 요청할 수 있습니다.
 
 ### <a name="find-your-global-admin"></a>글로벌 관리자 찾기
 
 사용자가 역할을 변경해야 하거나 새 사용자가 특정 역할 할당을 원하는 경우가 있을 수 있습니다.  
 역할을 변경하거나 새 사용자에게 역할을 할당할 수 있는 글로벌 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 **설정 아이콘**에서 **사용자 관리**를 선택하고 글로벌 관리자를 필터링합니다. 
+
+
+### <a name="new-global-admin"></a>새 글로벌 관리자
+
+글로벌 관리자가 조직을 떠나고 다른 사용자가 이 역할을 수행해야 하는 경우 Azure 또는 Office 365 팀에 티켓을 제출할 수 있습니다. 이 작업을 수행하는 방법에 대한 자세한 내용을 보려면 아래 옵션 중 하나를 선택하세요.
+
+[Azure의 새 글로벌 관리자](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Office 365의 새 글로벌 관리자](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>사용자 역할 할당
 
@@ -94,7 +103,6 @@ ms.locfileid: "78240210"
 1. 파트너 센터 대시보드에서, 대시보드 오른쪽 모서리에 있는 **계정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다.
 
 2. **학습** 아래에서 Microsoft Learning 계정을 연결할 수 있으며, 또한 Microsoft 계정을 파트너 대학에 연결할 수 있습니다.
-
 
 
 

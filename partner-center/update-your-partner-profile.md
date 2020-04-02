@@ -7,50 +7,48 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.date: 03/05/2020
-ms.openlocfilehash: a6558faba3171d96791225a625c62d282014563c
-ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
+ms.date: 03/23/2020
+ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80136312"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296427"
 ---
-# <a name="verify-your-partner-profile"></a>파트너 프로필 확인
+# <a name="verify-your-partner-profile-information"></a>파트너 프로필 정보 확인
 
-처음으로 파트너 센터에 글로벌 관리자 권한으로 로그인할 때 모든 회사 정보가 올바른지 확인해야 합니다. 여기에는 기본 연락처, 법적 회사명 및 주소, 프로그램 정보가 포함됩니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다. 
-
-**파트너 프로필 정보 확인**
+처음으로 파트너 센터에 글로벌 관리자 권한으로 로그인할 때 모든 회사 정보가 올바른지 확인해야 합니다. 여기에는 기본 연락처, 법적 회사명 및 주소, 프로그램 정보가 포함됩니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다.
 
 파트너 프로필은 법적 회사 정보, 기본 연락처 이름 및 이메일, 회사가 참여하는 프로그램, 법적 회사에 현재 합병된 다른 회사(해당하는 경우)로 구성됩니다.
 
-1.  **설정**으로 이동하고 **파트너 프로필**을 선택합니다.
+1. **설정**으로 이동하고 **파트너 프로필**을 선택합니다.
 
-2.  **법적 비즈니스 프로필**, **기본 연락처 정보** 및 **프로그램 정보**를 검토합니다.
+2. **법적 비즈니스 프로필**, **기본 연락처 정보** 및 **프로그램 정보**를 검토합니다.
 
 법적 회사에 합병된 다른 회사가 있는 경우 이 페이지에서 해당 정보도 검토할 수 있습니다.
 
-## <a name="update-your-legal-address"></a>법적 주소 업데이트
+## <a name="update-your-legal-business-profile"></a>법적 비즈니스 프로필 업데이트
 
 이제 파트너 센터에서 법적 주소를 업데이트할 수 있습니다.
 
 1. **설정**으로 이동하고 **파트너 프로필**을 선택합니다. 
 
-2. 법적 주소 옆에 있는 **업데이트**를 선택합니다. 
+2. 법적 주소 옆에 있는 **업데이트**를 선택합니다. ""
 
 >[!Important]
->법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 귀사의 테넌트 및 서비스와 귀사가 거래 시 사용하는 통화와 연관이 있습니다. 
+>CSP 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 심사 상태가 "인증됨"인 경우 파트너 센터에서 법률 회사 이름을 업데이트할 수 없습니다. [지원 티켓을 작성](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)해야 합니다.
 
 3. **제출**을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.
 
-## <a name="update-legal-business"></a>법적 회사 업데이트
+## <a name="update-your-mpn-global-business-account"></a>MPN 글로벌 비즈니스 계정 업데이트
 
 Partner Membership Center에서 파트너 센터로 마이그레이션하는 동안 잘못된 회사가 법적 회사로 식별된 경우 올바른 회사로 변경할 수 있습니다.
 
 1. **계정 설정**에서 **위치**로 이동하고, 법적 회사로 원하는 회사가 목록에 있는지 확인합니다. 목록에 없으면 추가할 수 있습니다. **위치 추가**를 선택합니다.
 
-2.    그런 다음, **파트너 프로필**로 이동하고 **법적 비즈니스 프로필 업데이트**를 선택합니다.
+2. 그런 다음, **파트너 프로필**로 이동하고 **법적 비즈니스 프로필 업데이트**를 선택합니다.
 
-3.    법적 회사로 사용할 회사와 위치를 선택한 후 **저장**을 선택합니다.
+3. 법적 회사로 사용할 회사와 위치를 선택한 후 **저장**을 선택합니다.
 
 ## <a name="update-your-billing-address"></a>청구 주소 업데이트
 
