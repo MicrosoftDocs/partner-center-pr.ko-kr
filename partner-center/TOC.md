@@ -40,7 +40,6 @@
 ## [CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](transition-direct-to-indirect.md)
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
-## [고객의 Microsoft 고객 계약 동의 확인](confirm-consent.md)
 ## [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)
 ### [고객을 대신하여 고객 계약 동의를 증명하는 경우](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [일시 중단된 파트너 센터 계정 복원](suspended-partner-center-account.md)
 ## [Azure AD 애플리케이션 추가](service-principal.md)
 ## [Microsoft Learn 계정을 파트너 센터에 연결](ms-learn-associate.md)
+
 # 파트너 센터 계정 관리 - 사용자
 ## [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
 ## [사용자 역할 및 권한 할당](permissions-overview.md)
 ## [제어판 공급 업체로 등록](enroll-as-cpv.md)
 ## [사용자 암호 다시 설정](reset-a-user-password.md)
 ## [암호 다시 설정하기](reset-my-pasword.md)
+## [파트너 센터에 로그인할 수 없는 경우](unable-to-sign-in.md)
+
 # 파트너 센터 계정 관리 - 비즈니스
 ## [Azure Partner Shared Services 추가](shared-services.md)
 ## [가격 책정 및 제품](pricing-and-offers.md)
