@@ -1,7 +1,7 @@
 ---
 title: 청구서 이해 | 파트너 센터
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: 청구서는 현재 월에 대 한 모든 파트너 센터 요금 (프로그램, 제품 및 고객 전반)의 요약입니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634809"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676839"
 ---
 # <a name="understand-your-bill"></a>청구서 이해
 
@@ -93,11 +93,11 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 **지불 지침**: 지역을 기준으로 청구서를 지불 하는 방법에 대 한 설명입니다. 지불 시 청구서 번호를 반드시 포함 해야 합니다. 
 
-청구서 파일 (일회성 요금에 대 한 필드 포함)의 모든 필드에 대 한 자세한 설명은 [청구서 파일 필드](https://docs.microsoft.com/partner-center/invoice-file)를 참조 하세요. 
+청구서 파일 (일회성 요금에 대 한 필드 포함)의 모든 필드에 대 한 자세한 설명은 [청구서 파일 필드](invoice-file.md)를 참조 하세요. 
 
 ## <a name="understand-reconciliation-file"></a>조정 파일 이해 
 
- 요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다. 조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다. 정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) 을 참조 하세요. 
+ 요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다. 조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다. 정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md) 을 참조 하세요. 
 
 
 
