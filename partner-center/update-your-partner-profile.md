@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296427"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676795"
 ---
 # <a name="verify-your-partner-profile-information"></a>파트너 프로필 정보 확인
 
@@ -36,7 +36,7 @@ ms.locfileid: "80296427"
 2. 법적 주소 옆에 있는 **업데이트**를 선택합니다. ""
 
 >[!Important]
->CSP 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 심사 상태가 "인증됨"인 경우 파트너 센터에서 법률 회사 이름을 업데이트할 수 없습니다. [지원 티켓을 작성](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)해야 합니다.
+>CSP 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 심사 상태가 "인증됨"인 경우 파트너 센터에서 법률 회사 이름을 업데이트할 수 없습니다. [지원 티켓을 작성](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)해야 합니다.
 
 3. **제출**을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.
 

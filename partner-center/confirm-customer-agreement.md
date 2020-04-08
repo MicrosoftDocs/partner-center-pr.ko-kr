@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
-ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
+ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672853"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "80805980"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 확인
 
@@ -168,7 +168,7 @@ ms.locfileid: "77672853"
 
 4. 이 이메일 템플릿을 사용하여 **재판매인 관계** 요청과 **Microsoft 고객 계약**에 동의하도록 고객을 초대합니다. (참고: 파트너는 자동으로 제공된 URL과 최근에 만든 고객 자격 증명도 이메일 초대에 포함해야 합니다.)
 
-![관계 만들기](images/mca/createrelationship.jpg)
+![관계 만들기](images/mca/createrelationship.png)
 
 5. 고객이 이메일을 통해 초대를 받고, 매개 변수화된 URL을 클릭합니다. 
 
