@@ -1,7 +1,7 @@
 ---
 title: 파트너 관리 센터에서 파트너 센터로 이동 준비 | 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 파트너 관리 센터 기능이 파트너 센터로 이동됩니다.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, advisor, 배포 파트너, PAC 사용 중지, PAC 사용 중지
 ms.localizationpriority: medium
-ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004892"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123308"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 관리 센터가 파트너 센터로 이동 하 고 있습니다.
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004892"
 -  파트너 센터
 
 **적절한 역할**
--   전역 관리자
--   사용자 관리자
--   관리자 에이전트
--   영업 에이전트
+-    전역 관리자
+-    사용자 관리자
+-    관리자 에이전트
+-    영업 에이전트
 
 > [!NOTE]  
 >  이 문서의 초기 게시 이후에 모든 날짜가 업데이트 되었습니다.
@@ -46,11 +46,9 @@ Microsoft는 파트너 센터를 Microsoft와 고객과 파트너 관계를 관�
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>지금 Microsoft 파트너 센터를 시작하세요!
 
-지금 [Microsoft 파트너 센터](https://partnercenter.microsoft.com/) 를 사용 하 여 PAC에서 이동할 준비를 시작 하세요.  PAC에 사용 하는 파트너 센터에 동일한 자격 증명을 사용 합니다. 
+지금 [Microsoft 파트너 센터](https://partnercenter.microsoft.com/) 를 사용 하 여 PAC에서 이동할 준비를 시작 하세요.  PAC에 사용 하는 파트너 센터에 동일한 자격 증명을 사용 합니다.
 
 > [!IMPORTANT]  
 > PAC에서 사용할 수 있는 일부 기능 및 기능은 파트너 센터에서 사용할 수 없습니다.
 
- [나란히 비교](moving-from-pac-to-pc.md)를 읽고 이러한 변경 내용에 대해 이해하고 잘 알고 있어야 합니다.  [Microsoft 파트너 센터 도움말](https://partnercenter.microsoft.com/partner/help)에서 계정 관리, 고객 관리, 라이선스 및 구독, 가격 및 제품 등에 대한 추가 정보를 볼 수 있습니다.
-
- 
+ [나란히 비교](moving-from-pac-to-pc.md)를 읽고 이러한 변경 내용에 대해 이해하고 잘 알고 있어야 합니다.  [Microsoft 파트너 센터 도움말](https://docs.microsoft.com/partner-center/)에서 계정 관리, 고객 관리, 라이선스 및 구독, 가격 및 제품 등에 대한 추가 정보를 볼 수 있습니다.

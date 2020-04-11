@@ -2,17 +2,17 @@
 title: CSP의 Office 365 파트너 자문-Microsoft 365 음성 파트너 센터
 description: 일부 국가의 PSTN 서비스는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항에 따라 달라질 수 있습니다.
 ms.topic: article
-ms.date: 11/04/2019
+ms.date: 04/07/2020
 author: jasonwhowell
 ms.author: jasonh
 keywords: Office, O365, PSTN 서비스, 세금, 요구 사항, 송장, 청구서
 ms.localizationpriority: medium
-ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390792"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123282"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 파트너 자문: CSP의 Microsoft 365 음성
 
@@ -21,15 +21,15 @@ ms.locfileid: "80390792"
 - 파트너 센터  
 
 **적절한 역할**
--   전역 관리자
--   사용자 관리자
--   관리자 에이전트
+-    전역 관리자
+-    사용자 관리자
+-    관리자 에이전트
 
 일부 관할지의 공개 PSTN (스위치 전화 네트워크) 서비스에는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항이 적용 될 수 있습니다. 푸에르토리코를 비롯 한 미국에서 오디오 회의, 호출 계획 및 통신 크레딧을 포함 하는 PSTN 서비스는 특별 한 세금 및 규정 요구 사항에 따라 결정 됩니다. 미국 및 푸에르토리코에서 Microsoft는 PSTN 서비스를 세금 포함으로 가격으로 포함 합니다.  고유한 PSTN 세금 및 규정은 Microsoft 365 음성 제품 거래 Office 365 파트너에 게 영향을 줍니다.  파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
 
 ## <a name="partner-recommendations"></a>파트너 권장 사항
 
-세금 및 법률 변호인에게 상담하여 PSTN 서비스 규제, 세금 및 수수료 및 기타 잠재적 책임과 관련한 조직의 책임을 이해합니다.
+세금 및 법률 자문 위원에 참여 하 여 PSTN 서비스의 규정, 세금 및 수수료, 기타 잠재적인 부채에 대 한 조직의 책임을 파악 합니다.
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>송장 프레젠테이션 및 파트너 조정 파일
 
@@ -55,5 +55,5 @@ Office 365 Enterprise E5는 동일한 이름 및 동일한 Id를 사용 하는 �
 캐나다에서 사용할 수 있는 Microsoft 365 Business 음성에는 CSP 청구서에 통합 되는 추가 PSTN taxable 구성 요소가 있습니다 (Office 365 E5와 마찬가지로, 두 개의 품목은 PSTN 구성 요소이 고 다른 하나는 비 PSTN 구성 요소에 대해 표시 됨).  Microsoft 365 Business 음성의 CSP 조정 파일은 모든 PSTN taxable 구성 요소를 개별적으로 표시 합니다. 개별 PSTN 구성 요소는 통합 되지 않습니다. CSV 또는 API 도구).  조정 파일에서 찾은 고객에 대 한 주문 정보 및 청구 금액의 합계는 CSP 청구서와 일치 하 게 됩니다.
 
 ## <a name="additional-resources"></a>추가 리소스
-자세한 내용은 [파트너 사이트 Microsoft 365](https://drumbeat.office.com/Pages/home2016.aspx) 를 참조 하세요.
+자세한 내용은 [파트너 사이트 Microsoft 365](https://www.microsoft.com/microsoft-365/partners/) 를 참조 하세요.
 
