@@ -89,12 +89,9 @@
 ## [인센티브 클레임](claims-overview.md)
 ### [인센티브 클레임 생성 및 관리](create-incentives-claims.md)
 ### [인센티브 클레임의 핵심 요구 사항](core-requirements.md)
-
-
-### [지급액 정보에 대한 이해](incentives-unified-user-guide.md)
-
 ### [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)
-
+### [인센티브 지급 및 프로그램 보기](understand-incentive-payouts.md)
+### [CPOR 모델을 사용하여 고객 연결 만들기](submit-osa-claim.md)
 
 # [청구 및 세금](billing.md)
 ## [청구 기본 사항](billing-basics.md)
