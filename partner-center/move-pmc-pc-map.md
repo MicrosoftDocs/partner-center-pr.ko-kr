@@ -1,7 +1,7 @@
 ---
 title: PMC에서 파트너 센터로 이동 | 파트너 센터
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 갱신, 계정 구조, 로그인, 사용자 역할, 역량 등과 관련하여 PMC와 파트너 센터의 차이점과 비슷한 점을 알아봅니다.
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340181"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123314"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
 
 **적절한 역할**
--   글로벌 관리자
+-    글로벌 관리자
 
 Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트너 센터)를 도입하여 보다 쉽게 비즈니스를 수행할 수 있도록 합니다. PMC(Partner Membership Center)에서 수행한 모든 작업을 파트너 센터의 대시보드에서 수행할 수 있습니다. 
 
@@ -37,13 +37,13 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|본사 및 위치 - 각각 별도로 평가됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](https://docs.microsoft.com/partner-center/account-structure.md)를 참조하세요.|
+|본사 및 위치 - 각각 별도로 평가됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](account-structure.md)를 참조하세요.|
 
 ## <a name="sign-in"></a>무료 RMS 계정을 얻으려면
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|MSA(Microsoft 계정) 또는 개인 계정 자격 증명 joe@outlook.com을 사용할 수 있음|회사 계정 자격 증명(joe@joescompany.com)을 사용해야 합니다. 자세한 내용은 [조직의 회사 계정 및 파트너 센터](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md)를 참조하세요.|
+|MSA(Microsoft 계정) 또는 개인 계정 자격 증명 joe@outlook.com을 사용할 수 있음|회사 계정 자격 증명(joe@joescompany.com)을 사용해야 합니다. 자세한 내용은 [조직의 회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.|
 
 ## <a name="user-roles"></a>사용자 역할
 
@@ -51,7 +51,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 |----------------------|:-----------------------------|
 |PMC의 많은 역할이 파트너 센터에서 사용되지 않음|파트너 센터로의 이동을 수행하는 관리자에게 MPN 관리, 계정 관리 및 추천 관리 역할이 자동으로 할당됩니다. 그러면 다른 사용자를 사용자 역할에 할당할 수 있습니다.|
 |사용자가 위치 수준에서 관리됨|사용자가 위치 수준이 아닌 회사 수준(PGA)에서 관리됩니다. 위치 수준에서 작동하는 인센티브 관리는 예외입니다.|
-|   |파트너 센터에는 Azure AD 테넌트를 관리하는 역할과 회사의 비즈니스를 관리하는 역할이라는 두 개의 광범위한 역할이 있습니다. 회사에 적합한 방식으로 역할을 구성하세요. 한 사람이 모든 작업을 수행하거나 여러 사람에게 별도의 역할 및 권한을 할당할 수 있습니다. 자세한 내용은 [사용자 역할 및 권한 할당](https://docs.microsoft.com/partner-center/permissions-overview)을 참조하세요. 
+|   |파트너 센터에는 Azure AD 테넌트를 관리하는 역할과 회사의 비즈니스를 관리하는 역할이라는 두 개의 광범위한 역할이 있습니다. 회사에 적합한 방식으로 역할을 구성하세요. 한 사람이 모든 작업을 수행하거나 여러 사람에게 별도의 역할 및 권한을 할당할 수 있습니다. 자세한 내용은 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요. 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>역량 및 혜택을 고려하는 방법
 
