@@ -1,7 +1,7 @@
 ---
 title: 고객의 Microsoft 고객 계약 동의 확인 | 파트너 센터
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법을 알아봅니다. 이는 고객을 위해 Microsoft 제품 및 서비스를 주문하는 데 필요할 수 있습니다.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객들, 동의, MCA, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
-ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340161"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123323"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 확인
 
@@ -35,27 +35,25 @@ ms.locfileid: "78340161"
 >[!NOTE]
 >2020년 1월 31일부로 모든 기존 고객과 신규 고객은 새로운 Microsoft 고객 계약에 서명해야 합니다. 자세한 내용은 [Microsoft 고객 계약에 대한 고객 동의 확인](confirm-customer-agreement.md)을 참조하세요.
 
-파트너는 고객 대신 Microsoft 제품 및 서비스를 주문하려면 Microsoft 고객 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정을 잘 준수할 수 있도록, Microsoft는 계약에 동의한 사람과 관련해 다음과 같은 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다. 
+파트너는 고객 대신 Microsoft 제품 및 서비스를 주문하려면 Microsoft 고객 계약에 대한 고객 동의를 받아야 합니다. 파트너가 규정을 잘 준수할 수 있도록, Microsoft는 계약에 동의한 사람과 관련해 다음과 같은 세부 정보를 제공함으로써 파트너에게 동의 여부를 확인하도록 요구하고 있습니다.
 
--   이름
+- 이름
 
--   성
+- 성
 
--   메일 주소
+- 메일 주소
 
--   전화 번호(선택 사항)
+- 전화 번호(선택 사항)
 
--   동의 날짜
-
-자세한 내용은 Microsoft 고객 계약 고객 동의 여부 확인 [FAQ](https://docs.microsoft.com/partner-center/confirm-consent-faq)를 참조하세요.
+- 동의 날짜
 
 직접 청구 파트너 및 간접 공급자는 파트너 센터 또는 파트너 센터 API를 통해 거래할 때 고객의 Microsoft 고객 계약 동의 여부를 확인해야 합니다. 확인은 *필수 사항*입니다.
 
 고객이 계약에 동의한 것으로 확인되지 않으면 다음과 같은 결과가 초래됩니다.
 
--   해당 고객의 신규 주문을 작성할 수 없습니다.
+-    해당 고객의 신규 주문을 작성할 수 없습니다.
 
--   해당 고객의 기존 사용자 수 기준 구독의 사용자 수를 변경할 수 없습니다.
+-    해당 고객의 기존 사용자 수 기준 구독의 사용자 수를 변경할 수 없습니다.
 
 파트너 센터 또는 파트너 센터 API를 통해 고객 동의 여부를 확인할 수 있습니다. 파트너 센터 API를 통해 확인하려면 다음 토픽을 참조하세요. 
 
