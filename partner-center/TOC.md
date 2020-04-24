@@ -80,10 +80,10 @@
 
 # [비즈니스 확장](grow-your-business.md)
 ## [추천](referrals.md)
-### [비즈니스 프로필 만들기](create-a-marketing-profile.md)
-### [추천에 응답](responding-to-referrals.md)
+### [비즈니스 프로필 관리](create-a-marketing-profile.md)
+### [잠재 고객 관리](manage-leads.md)
+### [공동 판매 기회 관리](manage-co-sell-opportunities.md)
 ### [거래 등록](register-deals.md)
-### [Microsoft와 공동 판매](co-sell-with-microsoft.md)
 ### [추천 인사이트 얻기](referral-insights.md)
 ### [비즈니스 프로필 분석](analyze-your-marketing-profile.md)
 ## [인센티브 클레임](claims-overview.md)
