@@ -10,18 +10,18 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004942"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure 플랜 구매
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
--   영업 에이전트
+-   영업 상담원
 
 Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 하나의 Azure 플랜에서 여러 Azure 구독을 가질 수 있습니다. 
 

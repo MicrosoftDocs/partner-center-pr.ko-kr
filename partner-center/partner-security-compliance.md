@@ -10,10 +10,10 @@ keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80136316"
 ---
 # <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
@@ -53,7 +53,7 @@ ms.locfileid: "80136316"
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP 테넌트의 MFA 구성
 
-이 메트릭은 매일 캡처하고 보고한 CSP 테넌트의 MFA 구성과 관련이 있습니다. [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA를 적용한 사용자 계정의 비율을 측정합니다. 예:
+이 메트릭은 매일 캡처하고 보고한 CSP 테넌트의 MFA 구성과 관련이 있습니다. [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA를 적용한 사용자 계정의 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 - Contoso는 테넌트에 110개의 사용자 계정이 있는 CSP 파트너이며, 그 중 10개는 사용하지 않습니다. 
 - 나머지 100개의 사용자 계정 중 90개는 제공된 [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA가 적용됩니다. 따라서 메트릭은 90%를 표시합니다. 
@@ -64,7 +64,7 @@ ms.locfileid: "80136316"
 
 #### <a name="mfa-verification-completed-by-users"></a>사용자가 완료한 MFA 확인
 
-이 메트릭은 파트너 센터 대시보드 내의 활동과 관련이 있습니다. MFA 확인을 완료한 사용자가 수행한 작업의 비율을 측정합니다. 예:
+이 메트릭은 파트너 센터 대시보드 내의 활동과 관련이 있습니다. MFA 확인을 완료한 사용자가 수행한 작업의 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 - Contoso는 두 명의 관리 에이전트 Jane과 John이 있는 CSP 파트너입니다.
 - 첫 번째 날에 Jane이 MFA 확인 없이 파트너 센터 대시보드에 로그인하여 3가지 작업을 수행했습니다.
@@ -75,7 +75,7 @@ ms.locfileid: "80136316"
 
 #### <a name="appuser-authentication"></a>앱+사용자 인증
 
-이 메트릭은 앱+사용자 인증을 사용하여 작성된 파트너 센터 API 사용 요청과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예:
+이 메트릭은 앱+사용자 인증을 사용하여 작성된 파트너 센터 API 사용 요청과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 - Fabrikam은 CSP 파트너이며 앱+사용자 인증과 앱 전용 인증 방법을 혼합해서 사용하는 CSP 애플리케이션을 보유하고 있습니다.
 - 첫 번째 날에 애플리케이션에서 API 요청을 3개 만들었고, 이 요청은 MFA 확인 없이 앱+사용자 인증 방법을 통해 얻은 액세스 토큰을 통해 지원됩니다.

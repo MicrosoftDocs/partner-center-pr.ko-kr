@@ -11,10 +11,10 @@ keywords: CSP, 직접 파트너, 직접 청구, 요구 사항
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340109"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP 직접 청구 파트너 새 요구 사항

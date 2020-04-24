@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
 ms.localizationpriority: high
 ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80391022"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
@@ -26,11 +26,11 @@ ms.locfileid: "80391022"
 
 **적절한 역할**
 
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
-- 기술 지원팀 상담원
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 고객이 현재 구독에서 제공하는 것보다 많은 사용자 수를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Office 365 계획으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
 

@@ -10,20 +10,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004242"
 ---
 # <a name="partner-earned-credit---overview"></a>파트너 획득 크레딧 - 개요
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
--   관리자 에이전트
+-   관리 에이전트
 -   청구 관리자
--   영업 에이전트
+-   영업 상담원
 
 CSP의 새로운 상거래 환경에서 제공하는 파트너 획득 크레딧은 Microsoft의 모든 Go-To-Market 수단에 걸쳐 간단하고 일관적인 Azure 가격 책정을 구현하는 한편, 부가 가치 관리형 서비스를 제공하는 파트너 에코시스템을 육성하는 비즈니스 모델입니다. 또한 파트너 획득 크레딧은 수익에 대한 경쟁을 없애는 데 도움이 됩니다. 
 

@@ -11,22 +11,22 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "79024097"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Azure CSP에서 사용 가능한 Azure 서비스
 
 **적절한 역할**
 
-- 관리 에이전트
+- 관리자 에이전트
 - 청구 관리자
-- 글로벌 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
-- 사용자 관리 담당자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP에서 사용 가능한 Azure 서비스
 
@@ -81,8 +81,8 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 | Azure 제품, 서비스 또는 기능 | US Government | 독일 |
 | ------ | :-----------: | :-----------: |
 |  **Compute**  |    |    |
-|  Virtual Machines  |  X  |  X  |
-|  Cloud Services  |    |    |
+|  가상 머신  |  X  |  X  |
+|  클라우드 서비스  |    |    |
 |  가상 머신 확장 집합  |  X  |  X  |
 |  함수  |    |    |
 |  Azure Container Service  |    |    |
@@ -96,8 +96,8 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 |  VPN Gateway  |  X  |  X  |
 |  Application Gateway  |  X  |  X  |
 |  Network Watcher  |  X  |  X  |
-|  **스토리지**  |    |    |
-|  스토리지  |  X  |  X  |
+|  **저장소**  |    |    |
+|  저장 공간  |  X  |  X  |
 |  백업  |  X  |  X  |
 |  StorSimple  |    |  X  |
 |  Site Recovery  |  X  |  X  |

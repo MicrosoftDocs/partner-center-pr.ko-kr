@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 ms.localizationpriority: high
 ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80114925"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>클라우드 솔루션 공급자 프로그램 - 주문형 클라우드 솔루션 판매 
@@ -39,7 +39,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판
 
 #### <a name="new-expanded-requirements"></a>새롭게 확장된 요구 사항:
 
-Support(지원)
+지원
 - 파트너를 위한 Microsoft 고급 지원 패키지를 통해 우선 순위가 지정된 일대일 클라우드 지원을 구입하여 지원 기능을 확장하세요. 또는 파트너를 위한 Microsoft 프리미어 지원을 선택하여 사전 서비스, 연중무휴 고장/수리 지원, 클라우드, 하이브리드 및 온-프레미스 환경에서 기술 계정 관리를 모두 포괄하는 카탈로그에 액세스하세요. 
 
 서비스

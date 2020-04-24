@@ -11,10 +11,10 @@ Keywords: 회사 계정, 이메일, 테넌트, Azure 테넌트, 계정 만들기
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721348"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>회사 계정 및 파트너 센터  
@@ -25,8 +25,8 @@ ms.locfileid: "74721348"
 
 **적절한 역할**
 
-- 전역 관리자
-- 사용자 관리 관리자
+- 글로벌 관리자
+- 사용자 관리 담당자
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 

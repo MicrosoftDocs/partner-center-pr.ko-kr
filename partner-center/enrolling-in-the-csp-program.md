@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721713"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
@@ -23,7 +23,7 @@ ms.locfileid: "74721713"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 ## <a name="get-started"></a>시작
 
@@ -72,7 +72,7 @@ CSP 프로그램에 간접 재판매인으로 참가하기 위한 조건에 대�
 |**MPN ID**   |비즈니스 위치에 대한 활성 MPN(Microsoft 파트너 네트워크) ID입니다.    |
 |**인증**   |조직 대신 법적 계약서를 수락하고 서명할 수 있는 권한입니다.|
 |**지원**   |고객을 위한 첫 번째 수준의 클라우드 제품 지원을 제공할 수 있는 능력입니다. <br>Microsoft 지원 플랜이며, 요구 사항에 따라 파트너에 대한 고급 지원(ASfP) 또는 파트너에 대한 프리미어 지원(PSfP)입니다. [지원 플랜을 비교](https://partner.microsoft.com/support/partnersupport)해 보세요.<br> 중요: 지원 플랜을 구입하려면 신용 평가를 통과해야 합니다. 신용 평가를 통과하면 이메일을 보내 드립니다. |
-|**관리형 서비스**   |하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 응용 프로그램입니다. [관리 서비스](https://partner.microsoft.com/business-opportunities/managed-services-provider)를 추가하는 방법에 대해 자세히 알아보세요.|
+|**관리형 서비스**   |하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 애플리케이션입니다. [관리 서비스](https://partner.microsoft.com/business-opportunities/managed-services-provider)를 추가하는 방법에 대해 자세히 알아보세요.|
 |**수취 계정** |고객 청구와 프로비전을 관리하기 위한 조직 인프라입니다.
 
 ### <a name="verify-direct-bill-eligibility"></a>직접 청구 자격 확인

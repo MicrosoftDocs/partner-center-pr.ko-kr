@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
 ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/27/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77672803"
 ---
 # <a name="partner-security-requirements"></a>파트너 보안 요구 사항

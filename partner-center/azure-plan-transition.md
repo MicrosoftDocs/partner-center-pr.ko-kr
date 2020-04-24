@@ -11,22 +11,22 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 7bcb27e521e4f3982fd3e0a94f1ed3a96320cfa3
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "79023483"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>고객을 Azure 플랜으로 전환
 
 **적절한 역할**
 
-- 관리 에이전트
+- 관리자 에이전트
 - 청구 관리자
-- 글로벌 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
-- 사용자 관리 담당자
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
+- 사용자 관리 관리자
 
 간접 공급자와 직접 청구 파트너는 Azure용 CSP(클라우드 서비스 공급자) 프로그램에서 사용할 수 있는 새로운 상거래 환경으로 전환할 수 있습니다. (직접 재판매인은 간접 공급자를 통해 작업해야 합니다.) 고객은 파트너 또는 Microsoft 판매자에게 구입하든 아니면 웹에서 직접 구입하든, 간편하게 클라우드 서비스를 구입할 수 있습니다.
 

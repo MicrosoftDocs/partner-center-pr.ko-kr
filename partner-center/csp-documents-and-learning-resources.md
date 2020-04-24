@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: high
 ms.openlocfilehash: 8df1879901d44e6c74058dd45d99d00dab2f4bb2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390012"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
@@ -59,7 +59,7 @@ ms.locfileid: "80390012"
 
 [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>가격
+## <a name="pricing"></a>가격 책정
 
 **파트너 센터** 메뉴에 제공되는 **가격 책정 및 제품** 페이지에서 라이선스 기준, 사용량 기준 및 일회성 구매에 대한 가격 책정 세부 정보를 다운로드합니다.
 

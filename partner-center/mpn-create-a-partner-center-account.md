@@ -9,18 +9,18 @@ author: jasonwhowell
 ms.author: jasonh
 ms.localizationpriority: high
 ms.openlocfilehash: 0b36ccb8b1cfea7945841d3539d7aef792a14304
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390872"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 
 **적절한 역할**
 
-- 글로벌 관리자
-- 관리 에이전트
+- 전역 관리자
+- 관리자 에이전트
 
 파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 구성원이어야 합니다. 네트워크 구성원이 아닌 경우 [지금 가입](https://partner.microsoft.com/commercial#)할 수 있습니다. 파트너 센터 계정을 만든 후 [대시보드 검색](https://vimeo.com/290338211)이라는 짧은 비디오를 시청하세요.
 

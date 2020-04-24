@@ -11,10 +11,10 @@ Keywords: Azure, Azure 플랜, 서비스 사용자, Azure AD 애플리케이션
 robots: ''
 ms.localizationpriority: High
 ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/07/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75716894"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>파트너 센터에서 Azure AD 애플리케이션(서비스 사용자) 추가

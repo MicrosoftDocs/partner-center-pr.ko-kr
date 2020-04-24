@@ -11,10 +11,10 @@ keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오�
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80676810"
 ---
 # <a name="billing-overview"></a>청구 개요
@@ -26,11 +26,11 @@ ms.locfileid: "80676810"
 
 **적절한 역할**
 
-- 관리 에이전트
+- 관리자 에이전트
 - 청구 관리자
-- 글로벌 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
+- 전역 관리자
+- 기술 지원팀 에이전트
+- 영업 에이전트
 
 ## <a name="find-your-bill"></a>청구서 찾기
 

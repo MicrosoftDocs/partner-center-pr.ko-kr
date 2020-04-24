@@ -11,10 +11,10 @@ Keywords: Azure, Azure 플랜, 구독 구입, 구독
 robots: ''
 ms.localizationpriority: High
 ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74681940"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Azure 플랜으로 이동 - 시작

@@ -10,10 +10,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 keywords: 도메인, 도메인 확인, 글로벌 관리자, 사용자 역할, 사용 권한
 ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722426"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
@@ -24,7 +24,7 @@ ms.locfileid: "74722426"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 회사에서 파트너 센터에 처음 로그인하는 경우 파트너 센터에서 작업을 시작하는 데 필요한 역할이 직원에게 할당되지 않았을 수 있습니다. 파트너 센터에서 작업하려면 모두에게 사용 권한을 포함한 역할이 할당되어야 합니다.  
 

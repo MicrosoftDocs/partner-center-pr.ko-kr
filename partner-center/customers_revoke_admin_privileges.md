@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 위임된 관리자 권한, 대신 관리, 권한 제거, DAP, AOBO
 ms.localizationpriority: high
 ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340061"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>고객이 파트너에게 관리 권한을 위임하는 경우

@@ -11,10 +11,10 @@ keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, 
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389992"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>CSP를 통해 소프트웨어 구독 판매
@@ -25,8 +25,8 @@ ms.locfileid: "80389992"
 
 **적절한 역할**
 
-- 관리 에이전트
-- 글로벌 관리자
+- 관리자 에이전트
+- 전역 관리자
 
 Azure 예약 및 Server 구독(Windows Server 및 SQL Server 구독)이 있으면 CSP 프로그램의 파트너는 예측성이 뛰어난 영구적인 클라우드 워크로드를 지원할 수 있는 비용 효과적인 솔루션에 대한 고객의 급증하는 요구를 보다 잘 충족할 수 있습니다. 
 

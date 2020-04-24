@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: MPN, 멤버십 혜택, 멤버십
 ms.localizationpriority: high
 ms.openlocfilehash: e979fff3ccf676208b58f088fe71a66e1095678d
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390892"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Microsoft 파트너 네트워크 멤버십 혜택 관리
@@ -25,7 +25,7 @@ ms.locfileid: "80390892"
 **적절한 역할**
 -    글로벌 관리자
 -    사용자 관리자
--    관리 에이전트
+-    관리자 에이전트
 -    MPN 파트너 관리자
 
 >[!IMPORTANT]
@@ -113,7 +113,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 **이 작업을 수행하는 데 적합한 역할:**
 
-- 글로벌 관리자
+- 전역 관리자
 - MPN 파트너 관리자
 
 

@@ -11,10 +11,10 @@ ms.author: jasonh
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390802"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
@@ -58,10 +58,10 @@ ms.locfileid: "80390802"
 |MPN   |파트너|
 |CSP    |파트너|
 |조회   |파트너|
-|상업용 Marketplace|Developer|
-|Windows 및 Xbox|Developer|
-|Office 스토어|Developer|
-|Edge 확장|Developer|
+|상업용 Marketplace|개발자|
+|Windows 및 Xbox|개발자|
+|Office 스토어|개발자|
+|Edge 확장|개발자|
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>파트너 및 개발자 설정 옵션의 차이점
 

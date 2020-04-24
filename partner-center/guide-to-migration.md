@@ -10,17 +10,17 @@ ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
 ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80226179"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 
 partner.microsoft.com의 Microsoft 파트너 웹 사이트는 파트너를 위한 통합 디지털 환경입니다. 파트너 웹 사이트에서 기회를 살펴보고 회사에서 Microsoft와 앱 및 서비스를 빌드하고 판매하는 데 도움이 되는 안내 환경에 참여할 수 있습니다. Microsoft 파트너 네트워크의 구성원은 파트너 웹 사이트에서 사용 가능한 대시보드 링크를 통해 Microsoft와의 관계를 관리하고 프로그램과 제품에 가입할 수 있는 파트너 센터에 로그인할 수 있습니다. 
 

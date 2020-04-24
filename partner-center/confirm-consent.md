@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 고객, 고객들, 동의, MCA, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
 ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "81123323"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 확인
@@ -23,8 +23,8 @@ ms.locfileid: "81123323"
 
 **적절한 역할**
 
-- 관리 에이전트
-- 영업 상담원
+- 관리자 에이전트
+- 영업 에이전트
 
 > [!NOTE]
 > 계약 리소스는 현재 Microsoft 퍼블릭 클라우드의 파트너 센터에서만 지원됩니다. 다음 센터에는 적용되지 않습니다.

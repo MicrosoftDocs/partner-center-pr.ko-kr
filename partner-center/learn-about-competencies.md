@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: high
 ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80226219"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft Gold 및 Silver 역량과 고급 전문 분야에 대한 정보
@@ -54,7 +54,7 @@ Silver 및 Gold 역량 수준은 각 영역에 대한 요구 사항이 다릅니
 
 ## <a name="advanced-specializations"></a>고급 전문 분야
 
-고급 전문 분야를 통해 Gold 역량 이상으로 역량을 키우세요. 이를 통해 제품, 솔루션 또는 서비스 영역에서 검증되고 입증 가능한 전문 지식을 홍보할 수 있습니다. 고객은 파트너 디렉터리의 비즈니스 프로필에서 파트너의 Gold 역량과 고급 전문 분야를 모두 볼 수 있습니다. 고급 전문 분야 태그를 받으려면 게시된 몇 가지 조건을 완벽하게 충족하고 Microsoft의 검증을 받아야 합니다. [자세한 정보를 알아보세요](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+고급 전문 분야를 통해 Gold 역량 이상으로 역량을 키우세요. 이를 통해 제품, 솔루션 또는 서비스 영역에서 검증되고 입증 가능한 전문 지식을 홍보할 수 있습니다. 고객은 파트너 디렉터리의 비즈니스 프로필에서 파트너의 Gold 역량과 고급 전문 분야를 모두 볼 수 있습니다. 고급 전문 분야 태그를 받으려면 게시된 몇 가지 조건을 완벽하게 충족하고 Microsoft의 검증을 받아야 합니다. [자세한 내용을 알아보십시오](https://partner.microsoft.com/membership/competencies#tab-content-2). 
 
 ## <a name="the-current-advanced-specializations"></a>현재 고급 전문 분야
 

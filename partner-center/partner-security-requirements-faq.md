@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
 ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80529772"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
@@ -320,7 +320,7 @@ Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>Support(지원)
+## <a name="support"></a>지원
 
 ### <a name="where-can-i-get-support"></a>어디에서 지원을 받을 수 있나요?
 

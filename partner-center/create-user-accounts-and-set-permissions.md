@@ -11,10 +11,10 @@ ms.author: jasonh
 Keywords: 역할, 사용 권한, 사용자 추가, 역할 할당, 관리자, 에이전트,
 ms.localizationpriority: high
 ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389652"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 사용 권한 할당
@@ -22,8 +22,8 @@ ms.locfileid: "80389652"
 **적절한 역할**
 
 - 계정 관리자
-- 글로벌 관리자
-- 사용자 관리 담당자
+- 전역 관리자
+- 사용자 관리 관리자
 
 파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 글로벌 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
 
@@ -71,14 +71,14 @@ ms.locfileid: "80389652"
 
 
 **AAD 테넌트 역할에는 다음이 포함됩니다**.
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 
 **CSP 역할에는 다음이 포함됩니다**.
-- 관리 에이전트
+- 관리자 에이전트
 - 청구 관리자
-- 영업 상담원
-- 기술 지원팀 상담원
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 **MPN 멤버십과 회사를 관리하는 역할(비 AAD)**
 - MPN 파트너 관리자
@@ -88,7 +88,7 @@ ms.locfileid: "80389652"
 - 인센티브 관리자 및 사용자
 
 **제어판 공급업체는 CSP 및 비 AAD 역할입니다**.
-- 글로벌 관리자
+- 전역 관리자
 
 **게스트 사용자**은 AAD 테넌트의 일부여야 하며 모든 비 AAD 역할을 가질 수 있습니다.
 

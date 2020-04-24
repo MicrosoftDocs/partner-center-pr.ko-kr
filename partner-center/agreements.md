@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: Microsoft 고객 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나요?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북아메리카, CSP 중앙 아메리카, CSP 남아메리카, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: high
 ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389632"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 고객 계약
@@ -24,11 +24,11 @@ ms.locfileid: "80389632"
 
 **적절한 역할**
 
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
-- 기술 지원팀 상담원
+- 전역 관리자
+- 사용자 관리 관리자
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 
 고객이 Microsoft 고객 계약에 동의하고 서명해야만 고객을 대신하여 주문할 수 있습니다.
 
