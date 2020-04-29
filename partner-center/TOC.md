@@ -119,6 +119,7 @@
 ## [고객 목록 참조](see-your-customer-list.md)
 ## [고객 활동 로그 보기](activity-logs.md)
 ## [고객 계정 정보 업데이트](update-customer-account-info.md)
+## [고객에게 자신의 서비스를 구매할 수 있는 권한 부여](give-customers-permission.md)
 ## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
 
