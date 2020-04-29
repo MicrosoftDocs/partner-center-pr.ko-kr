@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722527"
 ---
 <!--
@@ -38,7 +38,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 - 계정 관리자
 - 비즈니스 프로필 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 조회 관리자
 
 자격을 갖춘 Microsoft 파트너는 비즈니스 요구 사항을 해결하는 고유한 솔루션과 전문 지식을 찾는 고객에게 회사를 소개하는 비즈니스 프로필을 만들 수 있습니다.
@@ -67,7 +67,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
    > [!NOTE]  
    >  파트너 센터에서 여러 언어를 지원하지만 이 항목에 언급된 것처럼 설명, 자유 형식 태그 등의 일부 요소는 여러 언어의 텍스트를 포함해야 할 수도 있습니다.
 
-### <a href="" id="partner_info"></a>파트너 정보
+### <a name="partner-information"></a><a href="" id="partner_info"></a>파트너 정보
 
 회사를 소개합니다. 회사 로고, 간략한 설명 및 웹 사이트 링크를 추가합니다. 
 
@@ -84,7 +84,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 -  다른 Microsoft 파트너 회사가 귀사의 자회사 또는 계열사이거나, 귀사가 해당 파트너 회사와 파트너 관계로 행동하거나, 공유 작업 기회를 얻기 위해 서로 홍보하기로 한 현재 계약이 있는 경우 외에는 **이름으로 다른 Microsoft 파트너 회사를 지칭하지 않습니다**.
 -  **여러 언어가 있는 지역의 경우** 설명에 여러 언어의 텍스트를 포함하는 방안을 고려합니다.
 
-#### <a href="" id="linkedin"></a> LinkedIn 회사 페이지: 더 많은 연결 방법
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> LinkedIn 회사 페이지: 더 많은 연결 방법
 
 LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강화하세요. 
 
@@ -107,7 +107,7 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 -  **역량 태그**는 파트너가 획득한 명칭으로써 회사의 능력을 보여줍니다.
 -  **보증 태그**는 Microsoft 또는 파트너와 함께 일한 고객이 파트너의 실력을 보증할 때 획득할 수 있습니다.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
 
 이 설정을 선택하는 것이 좋습니다. 
 
@@ -117,13 +117,13 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 ### <a name="customer-preferences"></a>고객 기본 설정
 
-#### <a href="" id="#target_size"></a>대상 크기
+#### <a name="target-size"></a><a href="" id="#target_size"></a>대상 크기
 
 대상 고객 크기를 충족하지 않은 회사의 추천을 옵트아웃할 수 있습니다.
 
 이렇게 하면 함께 일하고 싶은 회사와 일치하는 회사에 더 많은 시간을 투자할 수 있습니다.
 
-#### <a href="" id="#locations"></a> 위치
+#### <a name="locations"></a><a href="" id="#locations"></a> 위치
 
 지역마다 최대 5개 위치를 추가할 수 있습니다. 이러한 위치는 고객이 근접성을 기준으로 파트너를 검색할 때 표시됩니다.
 

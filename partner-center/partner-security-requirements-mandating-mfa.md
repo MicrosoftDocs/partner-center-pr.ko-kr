@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529787"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462207"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임
 
@@ -28,24 +28,24 @@ ms.locfileid: "80529787"
 
 **영향을 받는 역할**
 
-- 관리 에이전트
-- 영업 상담원
-- 기술 지원팀 상담원
+- 관리자 에이전트
+- 영업 에이전트
+- 기술 지원팀 에이전트
 - 대금 청구 관리자
 - 전역 관리자
 
 이 기능은 파트너가 자격 증명을 손상시키지 않도록 고객 리소스에 대한 액세스를 보호하기 위한 것입니다.
 파트너는 게스트 사용자를 포함하여 파트너 테넌트의 모든 사용자 계정에 MFA(Multi-Factor Authentication)를 적용해야 하며, 이 기능을 사용하는 경우 이러한 파트너 역할은 다음 영역에 대한 MFA 확인을 완료하도록 위임됩니다.
 
-- [파트너 센터 대시보드](#partner-center-dashboard)(2020년 2분기 대상)
-- [파트너 센터 API](#partner-center-api)(2020년 2분기 대상)
+- [파트너 센터 대시보드](#partner-center-dashboard)(2020년 5월 1일 시작)
+- [파트너 센터 API](#partner-center-api)(2020년 5월 1일 시작)
 - [파트너에게 위임된 관리](#partner-delegated-administration)
 
 더 강력하고 지속적인 보안 및 개인 정보 보호가 최우선 순위이며, 파트너가 고객과 테넌트를 보호할 수 있도록 지속적으로 지원하고 있습니다. CSP(클라우드 솔루션 공급자) 프로그램, CPV(제어판 공급업체) 및 관리자에 참여하는 모든 파트너는 규정을 준수하기 위한 [파트너 보안 요구 사항](partner-security-requirements.md)을 구현해야 합니다.
 
 Microsoft는 파트너 테넌트에 대한 추가 보안 보호 기능의 활성화를 시작했습니다. 이 보안 보호를 활성화하면 파트너가 MFA(다단계 인증) 확인을 위임하여 무단 액세스를 방지함으로써 테넌트와 고객의 보안을 유지할 수 있습니다.
 
-모든 파트너 테넌트에 대해 파트너에게 위임된 관리 기능의 활성화를 성공적으로 완료했습니다. 2020년 2분기를 목표로 하여 파트너와 고객을 보호하기 위해 CSP에서 파트너 센터 트랜잭션에 대한 활성화를 시작하여 파트너가 비즈니스와 고객을 ID 도용 관련 인시던트로부터 보호할 수 있도록 지원합니다.
+모든 파트너 테넌트에 대해 파트너에게 위임된 관리 기능의 활성화를 성공적으로 완료했습니다. 2020년 5월 1일부터, 파트너와 고객을 보호하기 위해 CSP에서 파트너 센터 트랜잭션에 대한 활성화를 시작하여 파트너가 ID 도용 관련 인시던트로부터 비즈니스와 고객을 보호할 수 있도록 지원합니다.
 
 이 설명서에서는 파트너에게 보안 보호 기능의 활성화와 관련된 자세한 환경과 지침을 제공합니다.
 
