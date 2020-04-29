@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 02/07/2020
-  ms.openlocfilehash: 004c3a5b03685f41a7a1e76b734b71bccc50ca7b
-  ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+  ms.openlocfilehash: 483c63fdbae805f96236481870e9fc8e801856e3
+  ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 04/23/2020
-  ms.locfileid: "78240220"
+  ms.lasthandoff: 04/29/2020
+  ms.locfileid: "82255474"
 highlightedContent:
   items:
   - title: 로그인하여 최신 공지 사항을 확인하세요.
@@ -34,10 +34,10 @@ highlightedContent:
     url: csp-commercial-marketplace-overview.md
   - title: ISV 파트너 - 제품을 만들고 Marketplace, AppSource 및 CSP 재판매인 채널에 게시
     itemType: whats-new
-    url: https://docs.microsoft.com/en-us/azure/marketplace/
-  - title: 파트너 센터 인사이트
+    url: https://docs.microsoft.com/azure/marketplace/
+  - title: Microsoft와 파트너 되기
     itemType: overview
-    url: partner-center-insights.md
+    url: mpn-overview.md
   - title: 파트너 센터의 새로운 상거래 환경 - Azure 플랜
     itemType: whats-new
     url: azure-plan-lp.md
