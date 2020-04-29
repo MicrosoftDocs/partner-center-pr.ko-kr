@@ -10,32 +10,51 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 역량 갱신, 갱신 날짜
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
-ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
+ms.openlocfilehash: 69c0fbfb2afea9607481b1c0d0e1bfe02a27ad24
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/28/2020
-ms.locfileid: "78161437"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81873198"
 ---
-# <a name="renew-your-mpn-offers"></a><span data-ttu-id="75f86-104">MPN 제품 갱신</span><span class="sxs-lookup"><span data-stu-id="75f86-104">Renew your MPN offers</span></span>
+# <a name="renew-your-mpn-offers"></a><span data-ttu-id="38ab1-104">MPN 제품 갱신</span><span class="sxs-lookup"><span data-stu-id="38ab1-104">Renew your MPN offers</span></span>
 
-<span data-ttu-id="75f86-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="75f86-105">**Applies to**</span></span>
+<span data-ttu-id="38ab1-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="38ab1-105">**Applies to**</span></span>
 
-- <span data-ttu-id="75f86-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="75f86-106">Partner Center</span></span>
+- <span data-ttu-id="38ab1-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="38ab1-106">Partner Center</span></span>
 
-<span data-ttu-id="75f86-107">사용자 MPN 제품 구독 갱신 기간은 구매 1주년 다음날에 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-107">Your MPN offers subscription renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="75f86-108">예를 들어 2018년 9월 1일에 Microsoft Action Pack을 구입한 경우 갱신 기간은 2019년 9월 2일에 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="75f86-109">파트너 센터에서 구독을 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-109">You can renew your subscription in Partner Center.</span></span>
+<span data-ttu-id="38ab1-107">Microsoft Action Pack 및 역량은 연간 갱신이 필요한 Microsoft 파트너 네트워크의 구성원에게 제공됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-107">The Microsoft Action Pack and competencies are offers for members of the Microsoft Partner Network that require annual renewal.</span></span> <span data-ttu-id="38ab1-108">갱신 기간은 구매 1주년 다음날에 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-108">Your renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="38ab1-109">예를 들어 2018년 9월 1일에 Microsoft Action Pack을 구입한 경우 갱신 기간은 2019년 9월 2일에 시작됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-109">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="38ab1-110">파트너 센터에서 Microsoft Action Pack 및 역량을 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-110">You can renew Microsoft Action Pack and competencies in Partner Center.</span></span> <span data-ttu-id="38ab1-111">멤버십 제품에서 구매한 제품을 찾고 갱신 시작 날짜 열에서 제품의 1주년 날짜를 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-111">Under Membership offers, you'll find your purchased offers and can locate the anniversary date for your offers under the renewal start date column.</span></span> <span data-ttu-id="38ab1-112">Microsoft 파트너 네트워크 자체 멤버십은 연간 갱신을 요구하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-112">Membership in the Microsoft Partner Network itself does not require an annual renewal.</span></span> 
 
-<span data-ttu-id="75f86-110">갱신에 대한 자세한 내용을 보려면 아래에서 적절한 링크를 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="75f86-110">To learn more about renewal, select the appropriate link below:</span></span>
+<span data-ttu-id="38ab1-113">자세한 내용을 보려면 아래에서 적절한 링크를 선택하세요.</span><span class="sxs-lookup"><span data-stu-id="38ab1-113">To learn more, select the appropriate link below:</span></span> 
 
-- [<span data-ttu-id="75f86-111">MAPS</span><span class="sxs-lookup"><span data-stu-id="75f86-111">MAPS</span></span>](mpn-get-action-pack.md)
+-    [<span data-ttu-id="38ab1-114">역량</span><span class="sxs-lookup"><span data-stu-id="38ab1-114">Competencies</span></span>](learn-about-competencies.md)
+    
+-    [<span data-ttu-id="38ab1-115">Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="38ab1-115">Microsoft Action Pack</span></span>](mpn-get-action-pack.md)
 
-- [<span data-ttu-id="75f86-112">역량</span><span class="sxs-lookup"><span data-stu-id="75f86-112">Competencies</span></span>](learn-about-competencies.md)
+-    [<span data-ttu-id="38ab1-116">혜택을 관리하는 방법</span><span class="sxs-lookup"><span data-stu-id="38ab1-116">How to manage your benefits</span></span>](manage-your-partner-network-benefits.md)
 
-- [<span data-ttu-id="75f86-113">혜택</span><span class="sxs-lookup"><span data-stu-id="75f86-113">Benefits</span></span>](manage-your-partner-network-benefits.md)
+## <a name="renewal-reminders"></a><span data-ttu-id="38ab1-117">갱신 미리 알림</span><span class="sxs-lookup"><span data-stu-id="38ab1-117">Renewal reminders</span></span> 
 
-## <a name="renewal-reminders"></a><span data-ttu-id="75f86-114">갱신 미리 알림</span><span class="sxs-lookup"><span data-stu-id="75f86-114">Renewal reminders</span></span>
+<span data-ttu-id="38ab1-118">1주년이 경과한 후 30일 이내에 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-118">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="38ab1-119">이 기간 동안 혜택은 계속됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-119">Your benefits continue during that time.</span></span> <span data-ttu-id="38ab1-120">Microsoft에서는 1주년으로부터 15일 전에 다가오는 1주년을 미리 알립니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-120">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="38ab1-121">1주년으로부터 23일 후에 다른 알림을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-121">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="38ab1-122">1주년이 경과한 후 30일 이내에 갱신하면 혜택이 그대로 유지됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-122">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="38ab1-123">갱신 기간 이내에 갱신하지 않으면 혜택 및 역량이 사라집니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-123">If you don't renew within your renewal window, you'll lose your benefits and competencies.</span></span> 
 
-<span data-ttu-id="75f86-115">1주년이 경과한 후 30일 이내에 갱신할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-115">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="75f86-116">이 기간 동안 혜택은 계속됩니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-116">Your benefits continue during that time.</span></span> <span data-ttu-id="75f86-117">Microsoft에서는 1주년으로부터 15일 전에 다가오는 1주년을 미리 알립니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-117">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="75f86-118">1주년으로부터 23일 후에 다른 알림을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-118">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="75f86-119">1주년이 경과한 후 30일 이내에 갱신하면 혜택이 그대로 유지됩니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-119">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="75f86-120">갱신 기간 이내에 갱신하지 않으면 혜택 및 역량이 사라집니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-120">If you don't renew within your renewal window, you'll lose your benefits and competencies.</span></span>
+<span data-ttu-id="38ab1-124">갱신 기간 내에 갱신하면 새 1주년 날짜는 현재 1주년 날짜 이후 365일이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-124">When you renew during the renewal window, your new anniversary date will be 365 days after your current anniversary.</span></span> 
 
-<span data-ttu-id="75f86-121">갱신 기간 내에 갱신하면 새 1주년 날짜는 현재 1주년 날짜로부터 365일 후가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="75f86-121">When you renew during the renewal window, your new anniversary date will be 365 days post your current anniversary.</span></span>
+## <a name="responding-to-covid-19"></a><span data-ttu-id="38ab1-125">COVID-19에 대응:</span><span class="sxs-lookup"><span data-stu-id="38ab1-125">Responding to COVID-19:</span></span> 
 
+<span data-ttu-id="38ab1-126">고객 지원에 초점을 맞출 수 있도록 하기 위해 역량 1주년 날짜가 **2020년 1월 1일부터 6월 30일** 사이인 경우 2021년의 다음 1주년 날짜까지 기존 역량이 연장됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-126">To help you focus on supporting your customers, **if your competency anniversary date is between January 1 and June 30, 2020**, we are extending your existing competency or competencies through your next anniversary date in 2021.</span></span> <span data-ttu-id="38ab1-127">이 새로운 제품을 반영하도록 역량 갱신 미리 알림이 업데이트됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-127">Your competency renewal reminders will be updated to reflect this new offer.</span></span> 
+
+-    <span data-ttu-id="38ab1-128">**갱신에 대한 역량을 확보하는 경우** 파트너 센터에서 요구 사항이 충족되었음을 알 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-128">**If your competency is coming up for renewal**, you'll see in Partner Center that your requirements have been met.</span></span> <span data-ttu-id="38ab1-129">갱신하려면 멤버십 제품 페이지의 갱신 기간 내에 역량 요금을 지불해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-129">To renew, you'll need to pay your competency fee within your renewal window on the Membership offers page.</span></span> 
+
+-    <span data-ttu-id="38ab1-130">**이미 갱신 기간을 놓친 경우** 멤버십 제품 페이지에서 요금을 지불하여 역량을 다시 활성화하고 리소스 및 혜택에 대한 액세스 권한을 다시 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-130">**If you've already missed your renewal window**, you can reactivate your competency and regain access to resources and benefits by paying your fee on the Membership offers page.</span></span><span data-ttu-id="38ab1-131"> 이 연장은 2020년 6월 30일까지 가능합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-131"> This extension is available until June 30, 2020.</span></span>   
+
+### <a name="how-to-view-this-information"></a><span data-ttu-id="38ab1-132">이 정보를 보는 방법</span><span class="sxs-lookup"><span data-stu-id="38ab1-132">How to view this information</span></span>
+
+1.    <span data-ttu-id="38ab1-133">대시보드의 파트너 센터 메뉴에서 **역량**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-133">From the Partner Center menu on your dashboard, select **Competencies**.</span></span>  
+
+2.    <span data-ttu-id="38ab1-134">사용 가능한 역량 목록에 역량이 완료로 표시되어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-134">In the list of competencies that are available, your competencies should be marked as Complete.</span></span>  
+
+3.    <span data-ttu-id="38ab1-135">역량 이름을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-135">Select the competency name.</span></span> <span data-ttu-id="38ab1-136">다음 갱신 날짜까지 요구 사항 충족을 면제받았다는 알림이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-136">You'll see a notice that you have been given an exemption from meeting the requirements until your next renewal date.</span></span>   
+
+4.    <span data-ttu-id="38ab1-137">이 제품을 활용하려면 **멤버십 제품**으로 이동합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-137">To take advantage of this offer, go to **Membership offers**.</span></span> <span data-ttu-id="38ab1-138">역량 구매 또는 갱신 상태에 따라 프로세스를 완료하려면 역량 요금을 지불해야 할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-138">You may need to pay the competency fee to complete the process, depending on your competency purchase or renewal status.</span></span> 
+
+<span data-ttu-id="38ab1-139">연장을 활용하려면 멤버십을 갱신하고 요금을 지불하기 위해 PMC(Partner Membership Center)에서 파트너 센터로 멤버십을 이동해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="38ab1-139">To take advantage of the extension, you must have moved your membership from Partner Membership Center (PMC) to Partner Center to renew your competency and pay the fee.</span></span> <span data-ttu-id="38ab1-140">사용자의 멤버십을 이동하지 않은 경우, 지금 [자세히 알아보고](prepare-pmc-pc-migration.md)   [이전합니다](https://partners.microsoft.com/partnerprogram/Welcome.aspx) .</span><span class="sxs-lookup"><span data-stu-id="38ab1-140">If you have not moved your membership, [learn more](prepare-pmc-pc-migration.md) and [make the transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) today.</span></span>  
