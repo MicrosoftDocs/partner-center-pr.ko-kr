@@ -1,64 +1,64 @@
 ---
-title: 고객을 대신하여 Microsoft Azure 예약 구입 | 파트너 센터
+title: 고객을 대신 하 여 Microsoft Azure 예약 구입 | 파트너 센터
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: azure, 예약, 관리, 청구, 구입
+keywords: azure, 예약, 관리, 청구, 구매
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722013"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205671"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
 
 **적용 대상**
 
 - 파트너 센터
-- Microsoft Azure portal
-- CSP 파트너
+- Microsoft Azure Portal
+- CSP의 파트너
 
 **적절한 역할**
 
 - 관리자 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 에이전트
 - 영업 에이전트
-- 사용자 관리 관리자
+- 사용자 관리 담당자
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
-고객을 대신 하 여 Azure 예약을 구입 하기 전에 아래의 중요 한 정보를 검토 하세요.
+고객을 대신 하 여 Azure 예약을 구입 하기 전에 아래의 중요 한 정보를 검토 하세요. (구매한 이전 Azure 구독에서 고객이 자신의 Azure 예약을 구매할 수 있도록 하 시겠습니까? [고객에 게 고유한 Azure 예약을 구매할 수 있는 권한 부여] [고객-고객-사용 권한-사용자-고객-예약]을 참조 하세요.
 
-- 고객이 [microsoft 고객 계약에 대 한 고객](confirm-customer-agreement.md)동의를 확인 하는 새 Microsoft 고객 계약에 서명 하는 경우 azure 요금제에서 azure 예약을 구매 해야 합니다. 자세한 내용은 [Azure 계획 구매](purchase-azure-plan.md)를 참조 하세요.
+- 고객이 새 Microsoft 고객 계약에 서명 하는 경우 (Microsoft 고객 [계약의 고객 승인 확인](confirm-customer-agreement.md)참조) azure 요금제에서 azure 예약을 구매 해야 합니다. 자세한 내용은 [Azure 계획 구매](purchase-azure-plan.md)를 참조 하세요.
 
-- 고객을 대신하여 예약을 구매할 수 있으려면 고객이 이미 Azure 구독 중이어야 합니다.
+- 고객을 대신 하 여 예약을 구매 하려면 먼저 활성 Azure 구독이 있어야 합니다.
   
 - SQL Database 또는 SUSE Linux 소프트웨어와 같은 소프트웨어 구독 비용은 Azure 예약 가격에 포함 되지 않습니다.
 
 - Microsoft의 상용 가격은 사용자의 위치가 브라질이 아닌 한 세금을 포함 하지 않습니다. 사용자의 위치가 브라질 인 경우 상용 가격은 적절 한 세금을 포함 합니다.
 
-- 판매 및 헬프 데스크 직원들이 고객을 대신하여 교환 및 환불을 포함하여 Azure Portal 및 파일 지원 요청 시 이를 구입 또는 관리할 수 있으려면 Azure 구독에 명시적으로 액세스해야 합니다.  
+- 판매 및 지원 센터 에이전트는 Azure 구독에 명시적으로 액세스 하 여 고객을 대신 하 여 교환 및 환불를 비롯 한 Azure Portal 및 파일 지원 요청에서 구매 하거나 관리할 수 있습니다.  
 
-- 간접 공급자이 고 Azure Portal를 통해 Azure 예약을 구입 하는 경우, 선택 하는 Azure CSP 구독에서 파트너 (간접 재판매인)의 파트너가 상속 됩니다.
+- 간접 공급자이 고 Azure Portal를 통해 Azure 예약을 구입 하는 경우 레코드 파트너 (간접 재판매인)는 선택한 Azure CSP 구독에서 상속 됩니다.
 
-- Azure 예약에 대 한 레코드 파트너는 구매 후에 변경할 수 없습니다. 기존 예약을 취소하고 새로운 공식 파트너를 통해 새 예약을 구입할 수 있습니다.
+- Azure 예약에 대 한 레코드 파트너는 구매 후에 변경할 수 없습니다. 기존 예약을 취소 하 고 새 레코드 파트너를 사용 하 여 새 예약을 구매할 수 있습니다.
 
-- 고객이 직접 또는 EA에서 CSP로 Azure 구독을 양도하고 싶어하는 경우에 예약은 양도가 되지 않습니다.
+- 고객이 직접 또는 EA에서 CSP로 Azure 구독을 전송 하려는 경우 예약이 전송 되지 않습니다.
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure 예약을 사용할 수 없는 시장
+## <a name="azure-reservations-unavailable-markets"></a>Azure 예약을 사용할 수 없는 지역/국가
 
 >[!IMPORTANT] 
->Azure 예약은 다음 시장에서 사용할 수 *없습니다* .  
+>Azure 예약은 다음과 같은 지역/국가에서는 사용할 수 *없습니다*.  
 >  
-> | 사용할 수 없는 시장 | &nbsp; | &nbsp; |
+> | 사용할 수 없는 지역/국가 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 올란드 제도     | 그린란드     | 파푸아뉴기니     |
 > | 미국령 사모아     | 그레나다     | 핏케언 제도     |
@@ -74,7 +74,7 @@ ms.locfileid: "74722013"
 > | 부베이 섬     | 얀마웬     | 상투메 프린시페   |
 > | 영국령 인도양 식민지       | 저지     | 세이셸   |
 > | 영국령 버전 아일랜드     | 키리바시       | 시에라리온   |
-> | 부르키나파소     | 코소보     | 티위     |
+> | 부르키나파소     | 코소보     | 신트외스타티위스     |
 > | 부룬디     | 라오스     | 신트마르텐     |
 > | 캄보디아     | 레소토     | 솔로몬 제도     |
 > | 중앙 아프리카 공화국     | 라이베리아     | 소말리아     |
@@ -89,10 +89,10 @@ ms.locfileid: "74722013"
 > | 지부티     | 미크로네시아     | 토켈라우   |
 > | 도미니카     | 몬트세라트     | 통가   |
 > | 적도 기니     | 모잠비크     | 터크스 케이커스 제도   |
-> | 에리트레아     | 미얀마어     | 투발루   |
+> | 에리트레아     | 미얀마     | 투발루   |
 > | 포클랜드 제도     | 나우루     | 미국령 해외 제도   |
 > | 프랑스령 기아나     | 뉴칼레도니아     | 바누아투   |
-> | 프랑스령 폴리네시아     | 니제르     | 바티칸시국   |
+> | 프랑스령 폴리네시아     | 니제르     | 바티칸 시국   |
 > | 프랑스 남부 지방     | 니우에     | 월리스 푸투나   |
 > | 가봉     | 노퍽 섬     | 예멘   |
 > | 감비아     | 북마리아나 제도     |    |
@@ -100,7 +100,7 @@ ms.locfileid: "74722013"
 
 ## <a name="purchase-azure-reservations"></a>Azure 예약 구매
 
-파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약을 구매 하려면 아래 단계를 따르세요.
+파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약을 구매 하려면 아래 단계를 따르세요. (구매한 이전 Azure 구독에서 고객이 자신의 Azure 예약을 구매할 수 있도록 하 시겠습니까? [고객에 게 Azure 예약을 구매할 수 있는 권한 부여를](give-customers-permission.md)참조 하세요.)
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택 합니다.  
 
@@ -114,7 +114,7 @@ ms.locfileid: "74722013"
 
     c. **예약 유형** 목록에서 고객이 원하는 예약 유형을 선택합니다.
 
-4. Azure 예약을 위해서는 반드시 Azure 구독 상태여야 합니다. **고객 구독** 목록에서 Azure 예약을 추가 하려는 고객의 구독을 선택 합니다. 
+4. Azure 예약은 활성 Azure 구독과 연결 되어야 합니다. **고객 구독** 목록에서 Azure 예약을 추가 하려는 고객의 구독을 선택 합니다. 
 
    >[!IMPORTANT]
    >고객이 활성 Azure 구독을 아직 보유 하지 않은 경우 **azure** 를 선택 하 여 지금 구독을 추가 합니다. 
@@ -125,9 +125,9 @@ ms.locfileid: "74722013"
 
 7. 필요한 모든 항목이 주문에 추가 될 때까지 5 단계와 6 단계를 반복 합니다. **검토**를 선택하여 주문이 올바른지 확인합니다.  
 
-8. **주문 검토** 페이지에서 다음이 가능합니다. 
+8. **주문 검토** 페이지에서 다음을 수행할 수 있습니다. 
 
-    - 예약 인스턴스 수량을 확인 또는 변경합니다.
+    - 예약 인스턴스 수량을 확인 하거나 변경 합니다.
 
     - 예약의 범위를 선택 합니다. 예약 범위는 하나의 구독 또는 여러 구독 (공유 범위)을 포함할 수 있습니다. 예약의 범위를 단일 구독으로 하는 경우 예약 할인은이 구독에만 적용 됩니다. 공유를 선택 하면 고객의 청구 컨텍스트 내에 있는 모든 구독에 예약 할인이 적용 됩니다. 
 
@@ -137,25 +137,20 @@ ms.locfileid: "74722013"
       >[!NOTE]   
       >고객이 Azure 계획에 있는 경우 **범위** 는 **Shared**로 설정 됩니다. 
 
-    - 공급자 파트너는 제품과 함께 연결할 재판매인을 선택할 수 있습니다.
+    - 공급자 파트너인 경우 제품과 연결할 재판매인을 선택 합니다.
     
     - Azure 예약에서 청구 계획 옵션을 지 원하는 경우 드롭다운 메뉴에서 월별 청구 빈도를 선택할 수 있습니다. 
     - Azure 예약에서 청구 계획 옵션을 지원 하지 않는 경우 청구 주기는 기본적으로 일회성 청구로 설정 됩니다. 
 
-9. **구입**을 선택하여 주문품을 구입합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다. 
+9. 구매 **를 선택 하** 여 주문을 구매 합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다. 
 
 10. Azure Portal에서 고객의 예약을 관리 하려면 **고객 페이지에서 고객을** 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다. **Microsoft Azure 관리 포털** 를 선택 하 여 Azure Portal에서 고객의 레코드를 엽니다.
 
 ## <a name="azure-reservations-resources"></a>Azure 예약 리소스
-|**에 대 한 자세한 내용**   |**이 글 읽기**    |
+|**원하는 정보**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
 |CSP의 Azure 예약 개요  | [Microsoft Azure 예약 인스턴스 판매](azure-reservations.md) |
 |파트너 센터에서 Azure 예약 관리 | [파트너 센터에서 Azure 예약 관리](azure-reservations-manage.md)
-|올바른 VM 크기를 확인하고 고객 VM 사용량 확인   |[최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |
-|파트너 센터 API를 사용하여 Azure 예약 구입 | 파트너 센터 개발자 설명서의 [Azure Reserved VM Instances 구입](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)을 참조하세요.
-|
-
- 
-
-
- 
+|올바른 VM 크기를 확인 하 고 고객 VM 사용 확인   |[최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |
+|파트너 센터 API를 사용 하 여 Azure 예약 구매 | 파트너 센터 개발자 설명서에서 [Azure Reserved VM Instances 구매](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|사용자에 게 자신의 Azure 예약을 구매할 수 있는 권한 부여  | [고객에 게 자신의 Azure 예약을 구매할 수 있는 권한 부여](give-customers-permission.md)  |

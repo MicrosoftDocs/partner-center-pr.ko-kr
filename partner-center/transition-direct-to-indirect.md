@@ -1,7 +1,7 @@
 ---
 title: CSP (클라우드 솔루션 공급자) 다이렉트 청구 파트너에서 CSP 간접 재판매인으로 전환 | 파트너 센터
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 직접 청구 파트너에서 간접 재판매인으로 전환 하는 방법 이해
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: 44823f35d498b8c3d90fcc335682d453f53af977
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112559"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205691"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -39,24 +39,24 @@ ms.locfileid: "80112559"
 
     ![지금 등록](images/direct/direct2a.png)
 
-4. 지금 등록을 선택 합니다. 간접 재판매인 비즈니스는 직접 비즈니스에 사용 하는 것과 동일한 AAD 테 넌 트를 사용 합니다.
+4. 지금 등록을 선택합니다. 간접 재판매인 비즈니스는 직접 비즈니스에 사용 하는 것과 동일한 AAD 테 넌 트를 사용 합니다.
 
     > [!NOTE]
-    > SkimmingInitially 사용자에 게 알리는 정보입니다 .이 새로운 전환 기능은 9 월부터 12 월 까지의 파트너에 게 제공 됩니다. 9 월에서 12 월 사이에 기념일을 사용할 수 없는 경우에는 해당 기능이 표시 되지 않습니다. 12 월 2018 일 이후 기념일 날짜가 있는 파트너는 나중에 파트너에 대해 기능을 사용할 수 있게 되 면 알림이 표시 됩니다.
+    > 처음에는 12 월부터 12 월 까지의 파트너에 게이 새로운 전환 기능을 사용할 수 있습니다. 9 월에서 12 월 사이에 기념일을 사용할 수 없는 경우에는 해당 기능이 표시 되지 않습니다. 12 월 2018 일 이후 기념일 날짜가 있는 파트너는 나중에 파트너에 대해 기능을 사용할 수 있게 되 면 알림이 표시 됩니다.
 
 5. 등록이 승인 되 면 파트너 센터에 다시 로그인 합니다.
 
     > [!NOTE]
-    > SkimmingWhile 승인이 일반적으로 즉각적인 경우에도 사용자에 게 알리는 정보입니다. 승인 되 면 등록 양식에서 기본 연락처 아래에 지정한 전자 메일 주소로 알림을 받게 됩니다. **설정** > **파트너 설정** > **파트너 프로필** > 프로그램 정보에서 등록 상태를 확인할 수도 있습니다.
+    > 승인은 일반적으로 즉각적 이지만 최대 5 영업일까지 걸릴 수 있습니다. 승인 되 면 등록 양식에서 기본 연락처 아래에 지정한 전자 메일 주소로 알림을 받게 됩니다. **설정** > **파트너 설정** > **파트너 프로필** > 프로그램 정보에서 등록 상태를 확인할 수도 있습니다.
 
-6. **개요** 페이지에 간접 재판매인 규약이 표시 됩니다. **동의 및 계속**을 선택합니다. 이를 통해 간접 재판매인 기능을 사용할 수 있습니다.
+6. **개요** 페이지에 간접 재판매인 규약이 표시 됩니다. **수락 및 계속**을 선택 합니다. 이를 통해 간접 재판매인 기능을 사용할 수 있습니다.
 
 간접 재판매인 규약을 수락한 경우 파트너 프로필은 직접 청구 및 간접 재판매인 **모두** 를 식별 합니다.
 
 ![간접 재판매인 규약](images/direct/direct3.png)
 
 > [!IMPORTANT]
-> 사용자 successOnce에 필요한 필수 정보 새 기능을 사용 하 여 간접 재판매인으로 등록 하는 경우 직접 청구 전용 테 넌 트로 롤백하는 옵션은 없습니다. 간접 재판매인으로 등록 하려면 먼저 비즈니스 요구 사항을 완전히 평가 해야 합니다.
+> 새 기능을 사용 하 여 간접 재판매인로 등록 한 후에는 직접 청구 전용 테 넌 트로 롤백할 수 있는 옵션이 없습니다. 간접 재판매인으로 등록 하려면 먼저 비즈니스 요구 사항을 완전히 평가 해야 합니다.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>직접에서 간접 재판매인으로 전환 하는 동안
 
@@ -96,7 +96,7 @@ ms.locfileid: "80112559"
 
 3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
 
-4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 다음 **완료**를 선택 합니다.
+4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 후 **완료**를 선택합니다.
 
 5. 고객이 귀사와 공급자를 공식 재판매인으로 승인하면 귀사에는 고객을 대신하여 고객의 구독, 라이선스 및 사용자를 관리할 관리자 권한이 부여되고 간접 공급자는 고객을 대신하여 주문을 제출할 수 있게 됩니다.
 6. 고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다. 
@@ -164,7 +164,7 @@ ms.locfileid: "80112559"
 - 대리점 관계가 설정 되 면 간접 공급자는 [M365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
 
     > [!IMPORTANT]
-    > 혼동 및 있다면 오해을 방지 하기 위해 관계 확장 기능을 사용 하 여 기존에 있는 파트너와의 제휴 관계를 설정 하기 전에 직접 청구 고객 으로부터 동의 하 고 동의 하는 계약상 의무 없지만. 청구 고객 및 간접 공급자를 직접 지원 합니다.
+    > 혼동 및 있다면 오해을 방지 하기 위해 관계 확장 기능을 사용 하 여 기존 다이렉트 청구서 고객과 간접 공급자 간의 재판매인 관계를 설정 하기 전에 파트너 계약에 따라 직접 청구 고객 으로부터 동의 하 고 동의할 수 있습니다.
 
 기존 고객 테 넌 트에서이 기능을 사용 하려면 다음을 수행 합니다.
 
@@ -178,7 +178,7 @@ ms.locfileid: "80112559"
 
 4. 팝업 대화 상자에서 고객과의 대리점 관계를 설정할 **간접 공급자** 를 선택 합니다.
 
-5. **저장 및 계속을**클릭 합니다.
+5. **저장 후 계속**을 클릭합니다.
 
 6. 선택한 간접 공급자가 **간접 공급자**아래에 표시 되는지 확인 합니다.
 
@@ -196,7 +196,7 @@ ms.locfileid: "80112559"
 
 3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
 
-4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 다음 **완료**를 선택 합니다.
+4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 후 **완료**를 선택합니다.
 
 5. 고객이 귀사와 공급자를 공식 재판매인으로 승인하면 귀사에는 고객을 대신하여 고객의 구독, 라이선스 및 사용자를 관리할 관리자 권한이 부여되고 간접 공급자는 고객을 대신하여 주문을 제출할 수 있게 됩니다.
 
@@ -232,7 +232,7 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 - 고객이 [간접 공급자를 통해 Microsoft 고객 계약](#microsoft-customer-agreement-acceptance)에 동의 했습니다.
 
-### <a name="how-to"></a>사용 방법
+### <a name="how-to-transition-to-indirect-reseller-status"></a>간접 재판매인 상태로 전환 하는 방법
 
 이 기능은 다음과 같은 4 단계 프로세스입니다.
 
@@ -244,7 +244,24 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 - 전환 파트너가 전송 요청이 완료 되었는지 확인 합니다.
 
+
+
+
+### <a name="transitioning-partner---create-transfer-request"></a>파트너 전환-전송 요청 만들기
+
+> [!NOTE]
+> [파트너 센터 API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) 를 사용 하 여 기존 구독을 간접 공급자로 전송할 수도 있습니다.
+>
+> - [고객의 구독 이전 자격 가져오기](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [고객의 이전 만들기](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
+> - [고객의 이전 철회](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
+> - [고객의 이전 수락](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
+> - [고객의 전송 거부](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
+> - [고객의 이전 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Id로 전송 정보 가져오기](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+
 **파트너 전환-전송 요청 만들기**
+
 
 전환 파트너로 전송 요청을 만들려면 다음을 수행 합니다.
 
@@ -274,7 +291,7 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 10. 사용자가 구독 전송 요청을 만들었음을 간접 공급자에 게 알립니다.
 
-**간접 공급자-전송 요청 수락**
+### <a name="indirect-provider---accept-transfer-request"></a>간접 공급자-전송 요청 수락
 
 간접 공급자로 전송 요청을 검토 하 고 수락 하려면:
 
@@ -298,13 +315,13 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 8. 전송 요청이 완료 될 때까지 기다립니다.
 
-**간접 공급자 확인 전송 요청이 완료 되었습니다.**
+### <a name="indirect-provider-verify-transfer-request-is-complete"></a>간접 공급자 확인 전송 요청이 완료 되었습니다.
 
 1. 전송 요청이 성공적으로 완료 되 면 구독이 **구독**아래에 표시 되는지 확인 합니다.
 
 2. 전환 파트너에 게 알립니다.
 
-**파트너 전환-전송 요청 확인이 완료 되었습니다.** 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>파트너 전환-전송 요청 확인이 완료 되었습니다. 
 
 전환 파트너는 다음을 수행 해야 합니다.
 
@@ -348,6 +365,6 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 ## <a name="see-also"></a>참고 항목
 
-- [간접 재판매인의 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [간접 재판매인이 되기 위한 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [CSP 직접 파트너 새로운 요구 사항](direct-partner-new-requirements.md)
 - [제한된 직접 청구 기능](restricted-direct-bill-capabilities.md)

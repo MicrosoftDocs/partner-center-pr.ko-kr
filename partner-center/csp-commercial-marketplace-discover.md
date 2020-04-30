@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: 구독, marketplace, 상업적 마켓플레이스, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, CSP 프로그램, CSP 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114945"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873192"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>상업적 marketplace에서 제품 및 가격 책정 검색
 
@@ -26,7 +26,7 @@ ms.locfileid: "80114945"
 **적절한 역할**
 
 - 글로벌 관리자
-- 관리 에이전트
+- 관리자 에이전트
 
 Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다. 
 
@@ -78,9 +78,9 @@ CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반�
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음, 왼쪽 탐색 메뉴에서 **CSP** 를 선택 합니다.
 
-2. **판매**를 선택 하 고 **Marketplace**를 선택 합니다. Marketplace 제품 목록이 표시 됩니다.
+2. **판매**, **가격 책정 및 제품**을 차례로 선택 합니다.
 
-3. **Marketplace** 섹션 ( **Azure 계획 가격 책정**아래)으로 스크롤하고 오른쪽 위에 있는 **가격 목록 내보내기** 를 선택 합니다. 그러면 ISV 게시자가 사용할 수 있는 SaaS, 라이선스 기반 제품에 대 한 최신 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 일부 Azure 응용 프로그램 가격은 여기에 표시 될 수 있습니다. 이 정보는 매일 업데이트 되므로 선택 하는 빈도에 따라 현재 가격을 확인할 수 있습니다.
+3. **Marketplace** 섹션으로 스크롤하고, 위치를 선택 하 고, **marketplace 가격**을 다운로드 합니다. 그러면 ISV 게시자가 사용할 수 있는 SaaS, 라이선스 기반 제품에 대 한 최신 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 일부 Azure 응용 프로그램 가격은 여기에 표시 될 수 있습니다. 이 정보는 매일 업데이트 되므로 선택 하는 빈도에 따라 현재 가격을 확인할 수 있습니다.
 
 4. ISV 제품에 무료 평가 기간이 포함 되어 있으면 스프레드시트에 해당 제품에 대 한 두 개의 행이 표시 됩니다.
 
