@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜 구매 | 파트너 센터
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 플랜에 따라 단일 또는 다중 Azure 구독 및 Azure 예약을 구매하고, 리소스를 구성하고, 구독을 보거나 추가하는 방법에 대해 알아보세요.
@@ -9,19 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004942"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205751"
 ---
 # <a name="purchase-the-azure-plan"></a>Azure 플랜 구매
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   영업 상담원
+-    글로벌 관리자
+-    사용자 관리자
+-    영업 상담원
 
 Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 하나의 Azure 플랜에서 여러 Azure 구독을 가질 수 있습니다. 
 
@@ -58,9 +58,9 @@ Azure 플랜이 추가된 것을 볼 수 있는 **제품 추가** 페이지로 �
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure 플랜 하에서 Azure 예약 구매 
   
-파트너 센터에서 고객을 대신하여 Azure 플랜 하에서 Microsoft Azure 예약을 구매할 수도 있습니다.
+파트너 센터에서 고객을 대신하여 Azure 플랜 하에서 Microsoft Azure 예약을 구매할 수도 있습니다. (또는 원하는 경우 고객을 위해 구매한 이전 구독에서 [고객 자신의 Azure 예약을 직접 구매할 수 있는 권한을 고객에게 부여](give-customers-permission.md)할 수 있습니다.)
 
-1. [대시보드](https://partner.microsoft.com/dashboard/)의 파트너 센터 메뉴에서 **고객**을 선택합니다. Azure 예약을 구입하려는 고객을 찾은 다음, 아래쪽 화살표를 선택하여 고객의 행을 확장합니다. 
+1. [대시보드](https://partner.microsoft.com/dashboard/)의 파트너 센터 메뉴에서 **고객**을 선택합니다. Azure 예약을 구입하려는 고객을 찾은 다음, 아래쪽 화살표를 선택하여 고객의 행을 확장합니다.
 
 2. **제품 추가**를 선택한 다음, **Azure**를 선택합니다. 
 - **세그먼트** 목록에서 고객의 시장 세그먼트를 선택합니다. 
@@ -74,7 +74,7 @@ Azure 예약이 활성 Azure 플랜과 연결되어야 합니다. 고객 구독 
 
 현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 
 
-![scopeshared](images/azure/addprods1.png)
+![공유 범위 예약 설정](images/azure/addprods1.png)
 
 Azure Portal에서 고객의 예약을 관리하는 방법은 다음과 같습니다. 
 
@@ -86,7 +86,7 @@ Azure Portal에서 고객의 예약을 관리하는 방법은 다음과 같습�
 
 **구독** 페이지의 사용량 기반 섹션에서 **Azure 플랜**을 확장하여 Azure 플랜 하에서 연결된 Azure 구독을 확인합니다.
 
-![Viewlist](images/azure/addprods2.png) 
+![Azure 구독 목록 보기](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>구독 추가 및 리소스 구성
