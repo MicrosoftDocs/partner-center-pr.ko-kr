@@ -3,16 +3,16 @@ title: CSP의 Office 365 파트너 자문-Microsoft 365 음성 파트너 센터
 description: 일부 국가의 PSTN 서비스는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항에 따라 달라질 수 있습니다.
 ms.topic: article
 ms.date: 04/07/2020
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Office, O365, PSTN 서비스, 세금, 요구 사항, 송장, 청구서
 ms.localizationpriority: medium
-ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123282"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798791"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 파트너 자문: CSP의 Microsoft 365 음성
 
@@ -21,11 +21,11 @@ ms.locfileid: "81123282"
 - 파트너 센터  
 
 **적절한 역할**
--    전역 관리자
+-    글로벌 관리자
 -    사용자 관리자
--    관리자 에이전트
+-    관리 에이전트
 
-일부 관할지의 공개 PSTN (스위치 전화 네트워크) 서비스에는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항이 적용 될 수 있습니다. 푸에르토리코를 비롯 한 미국에서 오디오 회의, 호출 계획 및 통신 크레딧을 포함 하는 PSTN 서비스는 특별 한 세금 및 규정 요구 사항에 따라 결정 됩니다. 미국 및 푸에르토리코에서 Microsoft는 PSTN 서비스를 세금 포함으로 가격으로 포함 합니다.  고유한 PSTN 세금 및 규정은 Microsoft 365 음성 제품 거래 Office 365 파트너에 게 영향을 줍니다.  파트너가 Microsoft PSTN 서비스의 가격을 올리는 경우 PSTN 세금 및 수수료를 계산하고 송금하는 작업을 담당해야 할 수 있습니다.
+일부 관할지의 공개 PSTN (스위치 전화 네트워크) 서비스에는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항이 적용 될 수 있습니다. 푸에르토리코를 비롯 한 미국에서 오디오 회의, 호출 계획 및 통신 크레딧을 포함 하는 PSTN 서비스는 특별 한 세금 및 규정 요구 사항에 따라 결정 됩니다. 미국 및 푸에르토리코에서 Microsoft는 PSTN 서비스를 세금 포함으로 가격으로 포함 합니다.  고유한 PSTN 세금 및 규정은 Microsoft 365 음성 제품 거래 Office 365 파트너에 게 영향을 줍니다.  파트너가 Microsoft PSTN 서비스의 가격을 표시 하는 경우 PSTN 세금 및 수수료를 계산 하 고 remitting 하는 일을 담당할 수 있습니다.
 
 ## <a name="partner-recommendations"></a>파트너 권장 사항
 
@@ -41,14 +41,14 @@ ms.locfileid: "81123282"
 
 ## <a name="reconciliation-file-example"></a>조정 파일 예제
 
-Office 365 Enterprise E5는 동일한 이름 및 동일한 Id를 사용 하는 두 개의 품목으로 조정 파일을 제공 하지만 각 품목에는 고유한 단가 (예: $28.40 및 $2.00)가 있습니다. 따라서 Office 365 제품의 비즈니스용 Skype PSTN 회의 구성 요소가 분리되므로 세금을 올바르게 적용할 수 있습니다.
+Office 365 Enterprise E5는 동일한 이름 및 동일한 Id를 사용 하는 두 개의 품목으로 조정 파일을 제공 하지만 각 품목에는 고유한 단가 (예: $28.40 및 $2.00)가 있습니다. 이는 Office 365 제품의 비즈니스용 Skype PSTN 회의 구성 요소를 분리 하므로 세금을 정확 하 게 적용할 수 있습니다.
 
 **파트너 조정 예제 #1 (열 선택):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |주기 수수료   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |주기 수수료   |2.00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |요금 주기   |28.40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |요금 주기   |2.00   |
 
 **파트너 조정 예 #2**
 

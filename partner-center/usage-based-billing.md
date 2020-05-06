@@ -3,18 +3,18 @@ title: 사용량 기반 청구 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 Description: 월별 사용 요금에 대 한 요금이 청구 되는 파트너 센터의 사용량 기반 요금 청구에 대 한 정보입니다.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 청구, 사용량 기반, 사용량
 ms.localizationpriority: medium
-ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390502"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797671"
 ---
-# <a name="usage-based-billing"></a>사용량 기준 청구
+# <a name="usage-based-billing"></a>사용량 기반 청구
 
 - 파트너 센터
 - CSP 프로그램의 파트너
@@ -41,6 +41,6 @@ Azure 구독과 같은 온라인 서비스를 구매 하는 경우 월간 사용
 
 ## <a name="pricing-for-usage"></a>사용량 가격
 
-Azure CSP 가격 목록은 매월 게시되며 파트너 센터 판매 -> 가격 책정 및 제품 페이지에서 확인할 수 있습니다. 가격은 매일 변경이 가능하며 가격 목록의 변경 기록 탭에 반영됩니다.
+Azure CSP 가격 목록은 매월 게시 되며 파트너 센터 판매->가격 책정 및 제품 페이지에서 찾을 수 있습니다. 가격은 매일 변경 될 수 있으며 가격 목록의 변경 내용 탭에 반영 됩니다.
 
-사용 요금은 일일 가격을 기준으로 합니다. 서비스 기간 동안 가격이 변경되면 각 비례 배분 방식 서비스 기간에 대한 청구 항목과 해당 가격이 표시됩니다.
+사용량 요금은 일일 가격을 기준으로 합니다. 서비스 기간 동안 가격이 변경 되 면 비례 하는 각 서비스 기간 및 해당 가격에 대 한 청구 줄이 표시 됩니다.

@@ -6,16 +6,16 @@ description: 특정 지역에 대 한 세금 책임과 CSP 판매에 대 한 세
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: 세금, 세금 면제, vat, 대리점, 요금 청구
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390632"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797701"
 ---
 # <a name="taxes-and-tax-exemptions"></a>세금 및 면세
 
@@ -36,19 +36,19 @@ CSP (클라우드 솔루션 공급자) 프로그램은 제품의 파트너 재�
 
 추가 질문은 [파트너 센터에서 지원을 요청](#support)하세요.
 
-### <a name="canada"></a>캐나다
+### <a name="canada"></a>Canada
 
-대부분의 재판매인이 QST/HST/GST에서 면제되지 않습니다. 예외에 대 한 자격이 있는지 여부와 Microsoft에 제공 해야 하는 설명서를 확인 하려면 세금 advisor를 참조 하세요.
+대부분의 대리점은 GST/HST/QST에서 제외 되지 않습니다. 예외에 대 한 자격이 있는지 여부와 Microsoft에 제공 해야 하는 설명서를 확인 하려면 세금 advisor를 참조 하세요.
 
-BC PST 면제의 경우 설명 된 대로 세금 면제를 파일에 만듭니다. BC PST#을 입력하거나 *Certificate of Exemption General*에 서명하세요.
+BC PST 면제의 경우 설명 된 대로 세금 면제를 파일에 만듭니다. BC PST # 또는 *예외 일반의*완전 하 고 서명 된 인증서를 제공 합니다.
 
 ### <a name="european-union"></a>유럽 연합
 
-유럽 연합 회원국의 파트너는 대리 납부 및 적정 청구에 사용할 수 있는 유효한 VAT ID 번호를 제공해야 합니다. VAT 번호를 유효한 것으로 수락 해야 합니다.
+유럽 연합의 구성원 상태에서 파트너는 유효한 VAT ID 번호를 제공 하 여 역 요금 및 적절 한 요금 청구를 제공 해야 합니다. VAT 번호를 유효한 것으로 수락 해야 합니다.
 
 Microsoft는 크레딧을 지원 하지 않으며 다시 청구 됩니다. 구독을 판매 하기 전에 파트너 센터에 [VAT ID 번호를 등록](organization-tax-info.md) 해야 합니다.
 
-### <a name="south-africa"></a>남아프리카 공화국
+### <a name="south-africa"></a>남아프리카
 
 이제 Microsoft는 남부 아프리카에서 파트너가 구매한 디지털 콘텐츠 및 서비스에 표준 VAT를 적용 합니다. 청구서에서 VAT를 제외 하 고이를 직접 관리 하려면 [Microsoft VAT ID 번호를 보내](organization-tax-info.md)파트너 청구 프로필을 업데이트 해야 합니다.
 
@@ -58,7 +58,7 @@ Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 �
 
 ### <a name="united-states"></a>미국
 
-미국의 모든 재판매인은 Microsoft 재판매인 계약에서 동의한 30 일 내에 판매 면세 서류를 제공해야 합니다. 주마다 각기 다른 재판매 면제 인증서를 마련해 두고 있습니다. 등기부상 주소 및 등록 주와 관련된 인증서를 확인하려면 담당 세금 고문에게 문의하세요.
+미국의 모든 대리점은 Microsoft 재판매인 계약을 수락 하 고 30 일 이내에 판매 세금 면제 문서를 제공 해야 합니다. 각 상태에는 재판매에 대해 서로 다른 예외 인증서가 있습니다. 세금 advisor를 사용 하 여 법적 주소 및 등록 된 상태와 관련 된 사항을 확인 하세요.
 
 여기에는 *잠재 고객 간소화* 와 같은 여러 상태에서 작동 하는 재판매 면제 인증서 또는 *MTC Uniform Sales & 세금 면제 인증서를 사용*하는 *세금 계약* 인증서가 포함 될 수 있습니다.
 
@@ -68,9 +68,9 @@ Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 �
 
 ## <a name="tax-receipts-and-daf"></a>세금 영수증 및 DAF
 
-세금 영수증(대만 또는 대한민국)이나 DAF는 일반적으로 송장 발행 후 2주의 회송 시간이 필요합니다.
+세금 수령 (대만 또는 대한민국) 또는 DAF에는 송장 생성 후 2 주가 소요 되는 시간이 일반적으로 필요 합니다.
 
-## <a name="file-tax-exemptions"></a>면세 정보 제출
+## <a name="file-tax-exemptions"></a>파일 세금 면제
 
 세금 면제를 제출 하기 전에 지원 티켓에 포함할 **MICROSOFT id** 및 **MPN id** 를 찾습니다.
 
@@ -87,7 +87,7 @@ Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 �
 2. **파트너 요청** 페이지에서 **새 요청**을 선택 합니다. (이 페이지의 뒷부분에서 열기 및 닫기 지원 요청을 볼 수도 있습니다.)
 3. **기본 사항** 단계 **CSP-청구 및 지불**에서 **문제 유형 선택** 을 선택 하 고 **세금 예외 요청**을 선택 합니다.
 4. **솔루션** 단계에서 **추가 도움이 필요 하세요?** 에서 **예**를 선택 합니다.
-5. **세부 정보** 단계에서 **문제 세부 정보** 양식을 작성 합니다. 다음을 수행 해야 합니다.
+5. **세부 정보** 단계에서 **문제 세부 정보** 양식을 작성 합니다. 다음을 수행해야 합니다.
 
     - 모든 필수 필드를 입력 합니다.
     - **세부 정보** 필드에 **Microsoft ID** 및 **MPN id** 를 포함 합니다.
@@ -97,6 +97,6 @@ Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 �
 
 ## <a name="support"></a>지원
 
-세금 면제 및 환불에 대 한 기타 질문은 파트너 센터에서 지원을 요청 하세요. Microsoft가 연락을 드려 문제를 해결하려면 2주가 걸릴 수 있습니다.
+세금 면제 및 환불에 대 한 기타 질문은 파트너 센터에서 지원을 요청 하세요. Microsoft에서 2 주 동안 연락 하 여 문제를 해결 하세요.
 
 다른 세금 관련 설명서 요구 사항은 파트너 센터에서 서비스를 요청 하세요.

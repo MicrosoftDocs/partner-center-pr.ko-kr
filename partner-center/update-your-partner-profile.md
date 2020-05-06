@@ -6,14 +6,15 @@ description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
+ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
+ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676795"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "82595389"
 ---
 # <a name="verify-your-partner-profile-information"></a>파트너 프로필 정보 확인
 

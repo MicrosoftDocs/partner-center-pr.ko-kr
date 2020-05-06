@@ -5,15 +5,15 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 새로운 파트너 센터 기능이 출시되기 전에 시험 사용해 보시고 여러분의 생각을 알려주세요. 파트너 센터를 더욱 개선하려면 여러분의 도움이 필요합니다!
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390572"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797711"
 ---
 # <a name="test-drive-new-partner-center-features"></a>새로운 파트너 센터 기능 시험 사용
 
@@ -39,7 +39,7 @@ ms.locfileid: "80390572"
 >  전역 관리자 및 관리자 에이전트만 기능 미리 보기 릴리스를 켤 수 있습니다. 그러나 파트너 센터 사용자 중 해당 권한이 있는 사람은 누구든지 미리 보기 기능을 살펴보고 사용할 수 있습니다.
 
 > [!IMPORTANT]  
-> 저희는 기능 릴리스의 미리 보기 단계에서 오류를 수정하고 성능을 향상하기 위해 지속적으로 노력하고 있으며, 그에 따라 최종 기능의 작동 방식이 변경될 수도 있습니다. 이러한 이유와 기타 이유로 미리 보기 릴리스가 예상과 다르게 작동할 수 있으며 Microsoft의 실제 또는 묵시적 보증이 제공되지 않습니다.
+> 모든 기능 릴리스의 미리 보기 단계에서 오류를 계속 수정 하 고 기능 성능을 향상 시킵니다. 그러면 최종 기능의 작동 방식이 변경 될 수 있습니다. 이러한 이유와 기타 이유로 미리 보기 릴리스가 예상과 다르게 작동할 수 있으며 Microsoft의 실제 또는 묵시적 보증이 제공되지 않습니다.
 
 - 전 세계 파트너 센터 커뮤니티에 기능을 릴리스할 때 사용할 수 있는 기능을 미리 보기에 사용할 수 있도록 하려면 목표 날짜를 참조 하세요.
 
@@ -48,7 +48,7 @@ ms.locfileid: "80390572"
 
 
  
-## <a name="tell-us-what-you-think"></a>여러분의 생각을 말씀해 주세요.
+## <a name="tell-us-what-you-think"></a>의견을 알려 주세요.
 
 저희가 파트너 센터를 위해 개발하는 모든 것은 여러분의 비즈니스 성과를 높이는 것이 그 목표입니다. 비즈니스를 성장 시키는 데 도움이 되는 기능 및 기능에 대 한 노력을 기울일 것 이므로, 전 세계 파트너 센터 커뮤니티에 출시 되기 전에 새로운 기능을 시도 하 고 사용자 의견을 공유 하도록 초대 합니다. 
 

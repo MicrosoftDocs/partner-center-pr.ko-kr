@@ -5,15 +5,15 @@ ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0b36ccb8b1cfea7945841d3539d7aef792a14304
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: fce9dd9d4d32dfa39d82d17f9758228a8781837f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390872"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798861"
 ---
 # <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
 

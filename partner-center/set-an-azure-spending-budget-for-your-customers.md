@@ -1,22 +1,22 @@
 ---
-title: 고객을 위한 Azure 지출 예산 설정 | 파트너 센터
+title: 고객에 대 한 Azure 지출 예산 설정 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 description: 고객에 대 한 월간 Azure 지출 예산을 설정 또는 제거 하는 방법과 Azure 지출 데이터를 보고 예산 관련 알림을 설정 하는 방법을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390652"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797891"
 ---
-# <a name="set-an-azure-spending-budget-for-your-customers"></a>고객을 위한 Azure 지출 예산 설정
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>고객의 Azure 지출 예산 설정
 
 적용 대상:
 
@@ -55,7 +55,7 @@ Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수
 
 구독 설정에서 *개별 고객에 대 한 예산을 설정할* 수도 있습니다.
 
-1. 파트너 센터 대시보드에 로그인 합니다.
+1. 파트너 센터 대시보드에 로그인합니다.
 2. **CSP**의 왼쪽 메뉴에서 **고객**을 선택 합니다.
 3. **고객** 페이지에서 고객의 **회사 이름을**선택 합니다.
 4. 고객의 **구독** 페이지의 **사용량 기반 구독**에서 **예산 변경**을 선택 합니다.

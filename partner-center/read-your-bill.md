@@ -6,18 +6,18 @@ description: 청구서는 현재 월에 대 한 모든 파트너 센터 요금 (
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
-keywords: 구독 청구, 청구, 파트너 센터에서 청구, 파트너 센터 청구, 내 청구 보기, 송장, 파트너 센터 송장, CSP 송장, 내 청구서 위치
+author: LauraBrenner
+ms.author: labrenne
+keywords: 구독 청구, 청구, 파트너 센터에 대 한 청구, 파트너 센터 청구, 청구서 청구, 청구서, 파트너 센터 청구서, CSP 청구서
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676839"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798711"
 ---
-# <a name="understand-your-bill"></a>청구서 이해
+# <a name="understand-your-bill"></a>요금 청구 방식
 
 **적용 대상**
 
@@ -37,19 +37,19 @@ ms.locfileid: "80676839"
 
 Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금에 대 한 별도의 청구서 (예: Azure RI, Marketplace, Azure 요금제 등)를 발급 합니다. 
 
-예를 들어 입니다.  
+예를 들면 다음과 같습니다.  
 
-**시나리오 1 [단일 통화]** : 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.  
+**시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.  
 
 - 파트너는 O365 및 Azure (145p) 모두에 대 한 요금을 포함 하는 하나의 송장 PDF 및 2 조정 파일을 받습니다.  
 
-**시나리오 2 [단일 통화]** : 파트너는 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 계획을 구입 합니다. 
+**시나리오 2 [단일 통화]**: 파트너는 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 계획을 구입 합니다. 
 
 - 파트너는 Azure (145p)의 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다. 
 
 - 파트너는 Azure RI, Marketplace, Azure 요금제에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다. 
 
-**시나리오 3 [다중 통화]** : 파트너는 eur의 145p 구매와 함께 DKK의 azure RI 및 Eur의 azure 계획에 대 한 구매를 가집니다. 
+**시나리오 3 [다중 통화]**: 파트너는 eur의 145p 구매와 함께 DKK의 azure RI 및 Eur의 azure 계획에 대 한 구매를 가집니다. 
 
 - 파트너는 DKK의 Azure RI에 대 한 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다. 
 

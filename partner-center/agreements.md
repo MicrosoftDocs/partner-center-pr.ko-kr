@@ -5,16 +5,16 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객과 함께 검토할 수 있는 Microsoft 고객 계약의 지역 및 언어별 버전을 찾아서 다운로드할 위치를 알아봅니다.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Microsoft 고객 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나요?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북아메리카, CSP 중앙 아메리카, CSP 남아메리카, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: f60bcdd5c986e825089144ff4b908ed5b779a735
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389632"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798641"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 고객 계약
 

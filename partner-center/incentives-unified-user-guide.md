@@ -5,25 +5,25 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 지급 정보에 액세스 하는 방법에 대해 알아봅니다. 이는 Windows 앱 및 게임 지불액과 MPN 동기 지급에도 적용 됩니다.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 성과급, 지급
 ms.localizationpriority: medium
-ms.openlocfilehash: e83fa96a4175dbcf792b7653237457bfd94cd1c2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1216913897fc50e0001ccb5ea2c6d0e1a463158b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390952"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798931"
 ---
-# <a name="access-your-incentives-payouts-page"></a>성과급 지급 페이지 액세스
+# <a name="access-your-incentives-payouts-page"></a>인센티브 지급액 페이지에 액세스
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
 -   인센티브 관리자
 -   인센티브 사용자
--   영업 에이전트
+-   영업 상담원
 -   MPN 파트너 관리자
 
 사용자에 게 적용 되는 지급 도움말 정보는 작업 중인 파트너 프로그램에 따라 다릅니다. 적절 한 페이지를 보려면 아래에 해당 하는 링크를 선택 합니다.

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 01/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용됩니다. 고객이 위임된 관리자 권한을 제거하여 프로비전 또는 지원을 제공하기 위해 복원해야 할 경우에도 유용합니다
+description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용 됩니다. 고객이 위임 된 관리자 권한을 제거 하 고 프로 비전 또는 지원을 제공 하기 위해 복원 해야 하는 경우에도 유용 합니다.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 287ecd324472a7f28585dc2f7edef8cd95bb2e34
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390682"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798681"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과의 관계 구축
+# <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과 연결
 
 **적용 대상**
 
@@ -51,7 +51,7 @@ ms.locfileid: "80390682"
 
 
 > [!IMPORTANT]  
-> 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객과 계약을 재협상 하기 전 까지는 고객이 관리자를 다시 할당 하거나 제거 하는 경우에도 고객 지원을 제공 하 고 Microsoft 파트너 계약의 약관을 준수할 책임이 있습니다. 권한에. 이 경우 고객이 도움을 요청하면 파트너는 고객 대신 Microsoft 지원 센터로 전화를 걸어 서비스 요청을 열 수 있습니다.
+> 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객과 계약을 다시 협상 하기 전 까지는 고객이 관리자 권한을 다시 할당 하거나 제거 하는 경우에도 고객 지원을 제공 하 고 Microsoft 파트너 계약의 약관을 준수할 책임이 있습니다. 이 경우 고객이 도움을 요청 하는 경우 Microsoft 지원에 문의 하 여 고객을 대신 하 여 서비스 요청을 열 수 있습니다.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>고객 초대 환경 변경
 

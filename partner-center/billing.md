@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 청구 리소스, 청구서, CSP 청구 및 세금에 대한 정보를 포함하여 파트너 센터의 청구 및 세금 항목에 대한 목록입니다.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: high
-ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80634800"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798581"
 ---
 # <a name="billing-and-taxes"></a>청구 및 세금
 

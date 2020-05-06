@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이러한 위험을 관리 하 고 완화 하는 방법에 대 한 모범 사례 및 온라인 트랜잭션과 관련 된 다양 한 유형의 위험에 대해 알아 두는 것이 중요 합니다.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: 사기, 오용, 사용 제한, 사용 제한 정책, 고객이 대금을 지불하지 않은 경우, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
-author: jasonwhowell
-ms.author: jasonh
+keywords: 사기 행위, 오용, 적합 한 사용, 사용 제한 정책, 비 지불, 고객에 게 지불 하지 않음, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390812"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798801"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 비 지불, 사기 행위 또는 오용 관리
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 미결제, 사기 또는 오용 관리
 
 적용 대상:
 
@@ -26,14 +26,14 @@ ms.locfileid: "80390812"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
--   관리자 에이전트
+-   관리 에이전트
 -   청구 관리자
 
-사용자는 귀하의 고객에 의한 사기성 구매 및/또는 구매한 서비스에 대한 고객의 미결제에 대해 재정적인 책임을 집니다. 따라서 *사기 방지 및 검색 위험 완화 제어를 배치 하는 것이 좋습니다*.
+귀하는 고객 및/또는 고객이 구매한 서비스의 비 지불액에 대 한 사기 재정적 책임을 집니다. 따라서 *사기 방지 및 검색 위험 완화 제어를 배치 하는 것이 좋습니다*.
 
-사기성 활동 또는 남용을 방지 또는/및 처리하기 위해 잠재적인 위험을 이해하고 노출의 줄일 수 있는 정책과 모범 사례를 구축하는 것이 중요합니다.
+사기성 활동 또는 오용을 방지 하거나 해결 하려면 잠재적 위험을 이해 하 고 노출을 줄일 수 있는 정책 및 사례를 개발 하는 것이 중요 합니다.
 
 ## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Microsoft의 적절 한 사용 정책 적용
 
@@ -50,9 +50,9 @@ Microsoft의 적절 한 사용 정책 위반에 대 한 예는 다음과 같습�
 - 스팸
 - 해킹
 - DDoS (배포 된 서비스 거부) 공격
-- 비트코인 마이닝
+- Bitcoin 마이닝
 - 맬웨어 배포
-- 불법 복제 구독 재판매
+- 불법 복제 구독의 재판매
 
 ## <a name="theft-of-service-risks"></a>서비스의 도난 위험
 
@@ -63,7 +63,7 @@ Microsoft의 적절 한 사용 정책 위반에 대 한 예는 다음과 같습�
 이러한 온라인 트랜잭션 위험의 예는 다음과 같습니다.
 
 - 사용자가 발생 하지 않는 트랜잭션 ("신용 카드 없음" 트랜잭션)
-- 잘못된 신원
+- Misrepresented id
 - 초기 지불을 받기 전에 프로 비전 되 고 사용 되는 서비스
 - 온라인 사기 행위에 대 한 새로운 시장 및/또는 높은 위험 지역
 - 계정 만들기 및 잘못 된 행위자의 구매 자동화
@@ -101,4 +101,4 @@ Microsoft의 적절 한 사용 정책 위반에 대 한 예는 다음과 같습�
 - 선불 카드 또는 저장 된 값 카드와 같은 높은 위험 결제 기기를 수락 하지 않습니다.
 - 고객 지불 및 미수금 계정 미수금을 모니터링 합니다. 후기 지불 또는 비 지불액에 대해 표준화 된 dunning 프로세스를 적극적으로 적용 합니다.
 
-온라인 위험을 완화하는 전략에 대한 자세한 내용은 [온라인 트랜잭션 위험 관리 가이드](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)를 참조하세요.
+온라인 위험을 완화 하는 방법에 대 한 자세한 내용은 [온라인 트랜잭션 위험 관리 가이드](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip) 를 참조 하세요.
