@@ -3,18 +3,18 @@ title: 라이선스 기반 청구 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 Description: 라이선스를 기준으로 요금이 청구 되는 파트너 센터의 라이선스 기반 청구에 대 한 정보입니다.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 청구, 지불, 라이선스 기반, 라이선스
 ms.localizationpriority: medium
-ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390902"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798891"
 ---
-# <a name="license-based-billing"></a>라이선스 기준 청구
+# <a name="license-based-billing"></a>라이선스 기반 청구
 
 **적용 대상**
 
@@ -22,10 +22,10 @@ ms.locfileid: "80390902"
 - CSP 프로그램의 파트너
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
 -   청구 관리자
--   관리자 에이전트
+-   관리 에이전트
 
 **라이선스**를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](billing-different-types.md)을 참조 하세요.
 
@@ -37,7 +37,7 @@ ms.locfileid: "80390902"
 
 라이선스 기반 구독은 구독의 **기념일**에 대해 미리 청구 됩니다. 기념일은 구독을 구매한 월의 날짜입니다.
 
-예를 들면 다음과 같습니다.
+예를 들어:
 
 - 1 월 15 일에 **월간 구독** 을 구매한 경우 기념일은 매월 15 일이 됩니다.
 - 1 월 15 일에 **연간 구독** 을 구매한 경우 기념일은 매년 1 월 15 일까 집니다.

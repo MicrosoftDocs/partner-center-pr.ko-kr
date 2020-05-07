@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 비즈니스를 차별화하고 시장에 진출하며 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함하여 Microsoft와 파트너 혜택에 대해 알아보세요.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390862"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798841"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 

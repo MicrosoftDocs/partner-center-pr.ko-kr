@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 장치를 고객에 게 배달 하기 전에 Autopilot profile을 사용 하 여 새로운 장치의 기본 환경을 사용자 지정 하거나 미리 구성 하는 방법에 대해 알아봅니다.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: autopilot, windows autopilot, microsoft autopilot, zero touch 배포, oobe, 로그인 화면, 기본
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391002"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798611"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치에 대 한 기본 경험 경험 사용자 지정
 
@@ -24,10 +24,10 @@ ms.locfileid: "80391002"
 
 **적절한 역할**
 
-- 관리자 에이전트
-- 전역 관리자
-- 영업 에이전트
-- 사용자 관리 관리자
+- 관리 에이전트
+- 글로벌 관리자
+- 영업 상담원
+- 사용자 관리 담당자
 
 고객 장치를 관리 하는 경우 고객의 사용자에 대 한 OOBE (기본 경험)를 사용자 지정 해야 할 수 있습니다. 장치를 고객에 게 배달 하기 전에 Windows Autopilot 프로필을 사용 하 여 새 장치를 미리 구성 하 고 고객이 이미 구매한 장치에 새 프로필을 적용할 수 있습니다. 
 
@@ -77,20 +77,20 @@ Autopilot에 익숙하지 않은 경우 다음 문서의 정보를 검토 하세
 
 3. **Windows Autopilot 프로필** 에서 **추가 새 프로필**을 선택 합니다.
 
-4. 프로필의 이름과 설명을 입력 하 고 OOBE 설정을 구성 합니다. 다음 중에서 선택 합니다.  
+4. 프로필의 이름과 설명을 입력 하 고 OOBE 설정을 구성 합니다. 다음 중에서 선택합니다.  
 
    - 설치에서 개인 정보 설정 건너뛰기
 
-   - 설치 시 로컬 관리자 계정 비활성화
+   - 설치 프로그램에서 로컬 관리자 계정 사용 안 함
   
-   - 설치 시 자동으로 페이지 건너뛰기<br>
+   - 설치 프로그램에서 자동으로 페이지 건너뛰기<br>
         ( *회사 또는 학교에 대 한 설치를 자동으로 선택* 하 고 *Cortana, OneDrive 및 OEM 등록 설정 페이지 건너뛰기*)
   
    - EULA (최종 사용자 사용권 계약) 건너뛰기<br> 
        >[!IMPORTANT] 
        >Windows 설치 중에 EULA 페이지를 건너뛰는 방법에 대해 고려해 야 하는 중요 한 정보는 [Windows AUTOPILOT EULA 해제](#windows-autopilot-eula-dismissal) 를 참조 하세요.
 
-5. 작업을 마쳤으면 **제출**을 선택합니다.
+5. 완료 되 면 **제출** 을 선택 합니다.
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>고객 장치에 Autopilot 프로필 적용
 
@@ -109,7 +109,7 @@ Autopilot에 익숙하지 않은 경우 다음 문서의 정보를 검토 하세
 
     a.  장치를 네트워크에 연결 하 고 설정 합니다.
 
-    b.  적절한 OOBE 화면(있는 경우)이 표시되는지 확인합니다.
+    b.  적절 한 OOBE 화면 (있는 경우)이 표시 되는지 확인 합니다.
 
     c.  OOBE 프로세스가 중지 되 면 장치를 공장 기본 설정으로 다시 설정 하 여 새 사용자에 대해 준비 합니다.
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows Autopilot를 사용 하면 고객을 위해 관리 하는 장치에서 Windows의 사용자 지정 설치를 구성할 수 있습니다. 고객이이 작업을 수행할 수 있는 권한이 있는 경우 EULA (최종 사용자 사용권 계약) 승인 화면을 비롯 한 Windows를 설정할 때 일반적으로 사용자에 게 표시 되는 특정 설정 화면을 표시 하거나 숨길 수 있습니다.
 
-이 기능을 사용 하면 사용자에 게 통지를 제공 하거나 약관에 동의할 수 있도록 설계 된 모든 화면을 표시 하거나 숨기는 것이 좋습니다. 즉, 사용자가 용어를 숨길 수 있는 충분 한 동의 및 권한 부여를 획득 했 고 고객 (조직 또는 개별 사용자가 사례 인지 여부)은 모든 통지에 동의 하 고 고객에 게 적용 되는 모든 약관에 동의 합니다. 여기에는 이 도구를 사용하여 표시하거나 숨기지 않는 경우, 사용자에게 제시되는 라이선스 약관 또는 고지에 대한 동의가 포함됩니다. 귀하의 고객이 Microsoft 또는 사용권이 허용된 배포자로부터 유효하게 소프트웨어 라이선스를 취득하지 않은 경우, 고객은 이러한 장치에서 Windows 소프트웨어를 사용할 수 없습니다.
+이 함수를 사용 하 여 사용자에 게 통지를 제공 하거나 약관에 동의 하도록 디자인 된 화면을 표시 하거나 숨기는 것은 사용자에 게 약관을 숨길 수 있는 충분 한 동의 및 권한 부여를 제공 하는 것을 의미 하 고, 고객을 대신 하 여 (조직이 나 개별 사용자가 될 수 있는지 여부에 관계 없이) 고객에 게 동의 하 고 고객에 게 적용 되는 모든 약관을 수락 여기에는이 도구를 사용 하 여 표시 하거나 숨기는 경우 사용자에 게 표시 되는 사용권 계약 조건에 대 한 계약이 포함 됩니다. 고객이 Microsoft 또는 라이선스 대리점에서 소프트웨어에 대 한 라이선스를 합법적으로 취득 하지 않은 경우 고객이 해당 장치에서 Windows 소프트웨어를 사용 하지 못할 수 있습니다.

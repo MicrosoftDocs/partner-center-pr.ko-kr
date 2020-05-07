@@ -3,16 +3,16 @@ title: 일회성 요금 청구 및 선택 반복 요금 | 파트너 센터
 ms.topic: article
 ms.date: 11/21/2019
 Description: 미리 설정 된 용어에 대 한 일회성 청구 정보 (월별 및 연간 구독) 및 파트너 센터의 선택 되풀이 요금 (해당 Microsoft 및 타사 ISV 제품의 경우)에 대 한 청구
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 청구, 일회성, 되풀이, 구매, 요금, isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390782"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798781"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>일회성 요금 및 선택적 반복 요금 청구
 
@@ -21,11 +21,11 @@ ms.locfileid: "80390782"
 - CSP 프로그램의 파트너
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
 -   청구 관리자
--   관리자 에이전트
--   영업 에이전트
+-   관리 에이전트
+-   영업 상담원
 
 이 항목에서는 한 번의 청구 환경에 대해 설명 하 고 Microsoft 및 타사 ISV (독립 소프트웨어 공급 업체) 제품에 대 한 **되풀이 요금을 선택** 합니다. 
 
@@ -51,7 +51,7 @@ ms.locfileid: "80390782"
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft 및 타사 ISV 제품 요금
 
-**Microsoft 및 타사 ISV 제품**에 대해 **되풀이 요금** 및 **일회성 요금이** 발급 됩니다. 해당 제품에는 모든 SaaS 구독, Azure 예약, Microsoft 및 타사 Isv에서 제공 하는 정품 및 구독 기반 소프트웨어 제품이 포함 됩니다. Marketplace에서 사용 가능한 제품을 참조 하세요. 예를 들면 SUSE Linux software (software subscription), Windows Server 2019 Essentials (정품 소프트웨어) 및 Azure ISV SaaS 제품 구독이 있습니다.
+**Microsoft 및 타사 ISV 제품**에 대해 **되풀이 요금** 및 **일회성 요금이** 발급 됩니다. 해당 제품에는 모든 SaaS 구독, Azure 예약, Microsoft 및 타사 Isv에서 제공 하는 정품 및 구독 기반 소프트웨어 제품이 포함 됩니다. 사용 가능한 제품은 Marketplace에서 확인하세요. 예를 들면 SUSE Linux software (software subscription), Windows Server 2019 Essentials (정품 소프트웨어) 및 Azure ISV SaaS 제품 구독이 있습니다.
 
 적용 가능한 제품 요금은 **청구 날짜** 는 매월 8 일입니다. **청구 기간은** 해당 월의 첫 번째 날부터 시작 하 여 월의 마지막 날에 끝납니다. 5 월 1 일 및 5 월 31 일 사이에 만든 모든 트랜잭션은 2019 년 6 월 8 일 청구서에 표시 됩니다. 2019년 6월 1일부터 6월 30일 사이에 만드는 모든 트랜잭션은 7월 8일 청구서에 표시됩니다. 반복 구매 및 일회성 구매의 요금이 동일한 청구서에 청구될 수 있습니다.
 
