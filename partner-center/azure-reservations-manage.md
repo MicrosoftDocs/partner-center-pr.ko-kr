@@ -1,23 +1,23 @@
 ---
-title: 고객을 대신 하 여 Azure 예약 관리 | 파트너 센터
+title: 고객에 대 한 Azure 예약 관리
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객을 대신 하 여 Azure 예약을 관리 하는 방법을 알아봅니다.
+Description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객에 대 한 Azure 예약을 관리 하는 방법을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매, 취소, 교환, 조기 종료 요금
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205721"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908308"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>고객을 대신하여 Microsoft Azure Reservations 관리
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>고객에 대 한 Microsoft Azure 예약 관리, 취소, 교환 또는 환불
 
 **적용 대상**
 
@@ -27,10 +27,10 @@ ms.locfileid: "82205721"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 글로벌 관리자
 - 기술 지원팀 에이전트
-- 영업 에이전트
+- 영업 상담원
 - 사용자 관리 담당자
 
 고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다.
@@ -65,9 +65,9 @@ ms.locfileid: "82205721"
 
 |**취소 날짜**<br> 일별로   |**사용 현황**    |**크레딧**  |**조기 종료**<br> 수수료    |**환불 캡** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 개 미만                         | 예          | 100%       | 예                              | $5만 USD   |
-|5 개 미만                         | 예         | 전문 등급  | 예                              | $5만 USD   |
-|5 개 이상                        | 예          | 전문 등급  | 12%                             | $5만 USD   |
+|5 개 미만                         | 아니요          | 100%       | 아니요                              | $5만 USD   |
+|5 개 미만                         | 예         | 전문 등급  | 아니요                              | $5만 USD   |
+|5 개 이상                        | 아니요          | 전문 등급  | 12%                             | $5만 USD   |
 |5 개 이상                        | 예         | 전문 등급  | 12%                             | $5만 USD   |
 
 

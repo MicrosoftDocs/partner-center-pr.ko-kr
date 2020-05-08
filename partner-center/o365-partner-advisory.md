@@ -1,20 +1,21 @@
 ---
-title: CSP의 Office 365 파트너 자문-Microsoft 365 음성 파트너 센터
-description: 일부 국가의 PSTN 서비스는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항에 따라 달라질 수 있습니다.
+title: CSP 파트너 자문-Microsoft 365 음성
+description: 일부 국가에서의 PSTN 서비스와 파트너 주문 및 청구서에 적용 되 고 영향을 줄 수 있는 특별 세금 또는 규정 요구 사항에 대해 알아보세요.
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 author: LauraBrenner
 ms.author: labrenne
 keywords: Office, O365, PSTN 서비스, 세금, 요구 사항, 송장, 청구서
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798791"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907359"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 파트너 자문: CSP의 Microsoft 365 음성
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 파트너 자문: CSP 프로그램의 Microsoft 365 Business 음성
 
 **적용 대상**
 

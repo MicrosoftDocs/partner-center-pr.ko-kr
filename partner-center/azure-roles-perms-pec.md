@@ -1,20 +1,21 @@
 ---
-title: 파트너의 획득 크레딧을 획득 하는 데 적합 한 역할 및 사용 권한 | 파트너 센터
+title: 역할, 파트너 획득 크레딧을 위한 사용 권한
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너가 파트너의 획득 크레딧을 받을 수 있도록 하는 데 필요한 역할 및 사용 권한에 대해 알아보세요.
+description: 파트너의 역할 및 권한에 대 한 자세한 내용을 확인 하 여 파트너 획득 크레딧을 받을 수 있습니다. 이러한 작업은 파트너 센터에서 작업 하는 역할과 다릅니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e461a61d91bcaebb5cc53cf259006d17a0676884
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: af21fe17afdab07ef259634d9df18d65ae072d5d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253256"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908270"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>파트너의 획득 크레딧을 획득 하는 데 적합 한 역할 및 사용 권한
 
@@ -26,17 +27,17 @@ ms.locfileid: "74253256"
 |**역할**   |**설명**   |**PEC 적격**   |
 |-----------------|:------------------|:--------------|
 |소유자  |리소스에 대 한 액세스를 포함 하 여 모든 것을 관리 합니다.|예|
-|기고자 |리소스 액세스 권한을 부여 하는 것을 제외 하 고 모든 항목을 관리 합니다.|예|
-|익숙해야|모든 항목을 볼 수 있지만 변경할 수는 없습니다.|아니요|
+|참가자 |리소스 액세스 권한을 부여 하는 것을 제외 하 고 모든 항목을 관리 합니다.|예|
+|판독기|모든 항목을 볼 수 있지만 변경할 수는 없습니다.|아니요|
 |ACRDelete|acr 삭제|예|
 |ACRImageSigner|acr 이미지 서명자|예|
 |ACRPull|acr pull|예|
-|AcrPush|acr 푸시|예|
-|AcrQuarantineReader|acr 격리 데이터 판독기|아니요|
-|AcrQuarantineWriter| acr 격리 데이터 기록기|예|
-|API Management 서비스 기여자|서비스 및 Api를 관리할 수 있음|예|
-|API Management 서비스 운영자 역할|서비스를 관리할 수 있지만 Api는 관리할 수 없습니다.|예|
-|API Management Service Reader 역할|서비스 및 Api에 대 한 읽기 전용 액세스|아니요|
-|Application Insights 구성 요소 기여자|Application Insights 구성 요소 관리|예|
-|Application Insights 스냅숏 디버거|Application Insights 스냅숏 디버거를 사용 하 여 수집한 디버그 스냅숏을 보고 다운로드할 수 있는 권한을 사용자에 게 부여 합니다. 이러한 권한은 소유자 또는 참가자 역할에 포함 되지 않습니다.|예|
+|AcrPush|acr push|예|
+|AcrQuarantineReader|acr 격리 데이터 읽기 권한자|아니요|
+|AcrQuarantineWriter| acr 격리 데이터 작성자|예|
+|API Management 서비스 참가자|서비스 및 API를 관리할 수 있습니다.|예|
+|API Management 서비스 운영자 역할|서비스를 관리할 수 있지만 API는 관리할 수 없습니다.|예|
+|Azure API Management 읽기 권한자 역할|서비스 및 API에 대한 읽기 전용 액세스|아니요|
+|Application Insights 구성 요소 참가자|Application Insights 구성 요소 관리|예|
+|Application Insights 스냅샷 디버거|Application Insights 스냅샷 디버거를 사용하여 수집한 디버그 스냅샷을 보고 다운로드할 수 있는 사용자 권한을 제공합니다. 이러한 사용 권한은 소유자 또는 기여자 역할에 포함되지 않습니다.|예|
 |

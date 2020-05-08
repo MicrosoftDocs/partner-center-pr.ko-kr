@@ -1,25 +1,26 @@
 ---
 title: 구매 제안 만들기 | 파트너 센터
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: advisor는 파트너 센터에서 구매 제안을 만들 수 있습니다.
-author: XiaLi
-ms.author: v-xili35
+description: 권한 있는 구독 관리자가 파트너 센터를 사용 하 여 Office 365 평가판 초대에 포함할 구매 제안 및 사용자 지정 URL을 만드는 방법을 알아보세요.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor, office 365, 구입
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137228"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907448"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>관리자: 구매 제안 만들기
 
 > [!NOTE]
-> 이 기능은 구독 관리자 권한이 부여 된 Microsoft 파트너 에게만 제공 됩니다. 
+> 이 기능은 구독 관리자 권한이 부여 된 Microsoft 파트너 에게만 제공 됩니다.
 
 클라이언트에 Office 365에 대 한 평가판 초대를 보낸 후에는 클라이언트의 요구에 맞게 사용자 지정 된 구매 제안을 만들고 전송 하 여 후속 작업을 수행할 수 있습니다. 위임 된 관리를 제공 하도록 인증 된 경우 구매 제안에 옵션을 추가 하 여 클라이언트 대신 계정을 관리할 수 있습니다.
 
@@ -29,7 +30,7 @@ ms.locfileid: "79137228"
 
 ## <a name="to-create-a-purchase-offer"></a>구매 제안을 만들려면
 
-1. **평가판 및 구매 제안** 으로 이동 하 > **제안을 만드세요**.
+1. **평가판 및 구매 제품** > **만들기 제안**으로 이동 합니다.
 
 2. **구매 제안 만들기** 페이지에서 포함 하려는 구매 제안 옵션을 선택 합니다.
 

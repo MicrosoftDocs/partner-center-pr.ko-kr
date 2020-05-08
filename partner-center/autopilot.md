@@ -1,22 +1,23 @@
 ---
-title: Windows Autopilot 프로필을 사용 하 여 장치의 기본 제공 경험을 사용자 지정 | 파트너 센터
+title: 장치의 기본 제공 환경 사용자 지정
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 장치를 고객에 게 배달 하기 전에 Autopilot profile을 사용 하 여 새로운 장치의 기본 환경을 사용자 지정 하거나 미리 구성 하는 방법에 대해 알아봅니다.
+description: 고객의 새 장치를 제공 하기 전에 Windows Autopilot 프로필을 사용 하 여 장치의 OOBE (기본 제공 경험)를 사용자 지정 하거나 미리 구성할 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: autopilot, windows autopilot, microsoft autopilot, zero touch 배포, oobe, 로그인 화면, 기본
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798611"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908378"
 ---
-# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Windows Autopilot 프로필을 사용 하 여 장치에 대 한 기본 경험 경험 사용자 지정
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>새 장치에서 Windows Autopilot 프로필을 사용 하 여 고객의 기본 환경을 사용자 지정 합니다.
 
 **적용 대상**
 

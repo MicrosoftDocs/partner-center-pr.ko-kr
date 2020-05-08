@@ -1,7 +1,7 @@
 ---
-title: CSP를 통해 온-프레미스 소프트웨어 판매 | 파트너 센터
+title: CSP를 통해 온-프레미스 소프트웨어 판매
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터에서 고객을 대신 하 여 온-프레미스 소프트웨어 구독을 구매, 관리, 판매 및 취소할 수 있는 방법에 대해 알아봅니다.
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798441"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908027"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>CSP를 통해 온-프레미스 소프트웨어 판매
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>CSP (클라우드 솔루션 공급자) 프로그램을 통해 온-프레미스 소프트웨어 판매
 
 **적절한 역할**
 

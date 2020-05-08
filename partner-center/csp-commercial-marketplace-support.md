@@ -1,34 +1,35 @@
 ---
-title: 상업적 marketplace 제품에 대 한 지원 | 파트너 센터
+title: 상업용 마켓플레이스 제품에 대한 지원
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP 프로그램의 파트너에 의해 상업적 marketplace에서 구매한 타사 ISV 제품 또는 구독에 대 한 지원이 어떻게 작동 하는지 알아봅니다.
-author: MicheleHope
-ms.author: v-mihope
+description: CSP 프로그램의 상용 marketplace에서 타사 ISV 제품 또는 구독에 대 한 지원에 대해 알아봅니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: 구독, 제품, Marketplace, 제 3 자, ISV, 게시자, 지원, CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 74f1abced9f4d576cc53b73bd8c30e454f9ad2d9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48ea03ae955e276b48e646718a105855120e0577
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253731"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908070"
 ---
-# <a name="support-for-commercial-marketplace-products"></a>상업용 마켓플레이스 제품에 대한 지원
+# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP 프로그램의 상용 마켓플레이스 제품 지원
 
 **적용 대상**
 
 - 파트너 센터
 - CSP 프로그램의 파트너
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 
-Microsoft 제품의 경우와 마찬가지로 CSP 프로그램의 파트너가 고객을 위해 구매한 타사 ISV 구독 또는 제품에 대 한 청구 및 구독 관리에 대 한 고객의 질문에 대 한 첫 번째 연락 지점입니다. 상업적 marketplace.
+CSP 프로그램의 파트너는 상업적 marketplace에서 고객을 위해 구매한 제품 또는 타사 ISV 구독과 관련 된 구독 관리 질문이 나 고객 요금 청구에 대 한 첫 번째 연락 지점입니다.
 
 타사 ISV 게시자의 상업적 marketplace 제품에 대 한 기술 지원 문의 사항은 CSP 프로그램의 파트너가 해당 제품 또는 제품의 ISV 게시자에 게 문의 해야 합니다.
 
@@ -36,9 +37,9 @@ Microsoft 제품의 경우와 마찬가지로 CSP 프로그램의 파트너가 �
 
 상업적 marketplace 제품 또는 타사 ISV 제품 또는 제품 구매:
 
-- **ISV 게시자의 지원 역할:** Isv는 타사 고객 계약에 정의 된 대로 고객에 게 기술 지원 및 서비스 수준 약정을 제공 합니다. ISV는 CSP 프로그램 및/또는 고객의 파트너가 사용자 지원 및 고장 수리 지원 등을 지원 하기 위해 ISV에 직접 연락할 수 있는 방법을 제공 해야 합니다. Isv는 CSP 프로그램에서 파트너에 게 사용자 설명서, 교육 및 서비스 상태/중단 알림 (해당 하는 경우)을 제공 하 여 해당 파트너가 지원 (CSP 프로그램의 파트너가 고객에 게 서비스를 제공 하도록 선택 하는 경우)을 지원 합니다.
+- **ISV 게시자의 지원 역할:** Isv는 타사 고객 계약에 정의 된 대로 고객에 게 기술 지원 및 서비스 수준 약정을 제공 합니다. ISV는 CSP 프로그램 및/또는 고객의 파트너가 사용자 지원 및 고장 수리 지원 등을 지원 하기 위해 ISV에 직접 연락할 수 있는 방법을 제공 해야 합니다. Isv는 CSP 프로그램에서 파트너에 게 사용자 문서, 교육 및 서비스 상태/중단 알림 (해당 하는 경우)을 제공 하 여 해당 파트너가 지원 (CSP 프로그램의 파트너가 고객에 게 서비스를 제공 하도록 선택 하는 경우)을 지원 합니다.
 
-- **CSP 프로그램에서 파트너의 지원 역할:** CSP 프로그램의 파트너는 타사 ISV 제품에 대 한 기타 모든 지원을 담당 합니다. 여기에는 고객의 청구 질문, 계정 설정 및 지불에 대 한 지원이 포함 됩니다. CSP 프로그램의 파트너는 고객의 기술 지원 쿼리를 ISV 게시자가 제공 하는 지원 담당자에 게 전달 하도록 선택할 수 있습니다.
+- **CSP 프로그램에서 파트너의 지원 역할:** CSP 프로그램의 파트너는 타사 ISV 제품에 대 한 기타 모든 지원을 담당 합니다. 이 지원은 고객의 청구 질문, 계정 설정 및 결제와 관련 될 수 있습니다. CSP 프로그램의 파트너는 고객의 기술 지원 쿼리를 ISV 게시자가 제공 하는 지원 담당자에 게 전달 하도록 선택할 수 있습니다.
 
 - **Microsoft의 지원 역할:** Microsoft는 타사 ISV 게시자 및 Microsoft commerce system 기능과 관련 된 CSP 프로그램의 파트너에 대 한 지원을 제공 합니다. 즉, Microsoft는 CSP 프로그램 파트너 활동의 파트너와 Microsoft 상거래 시스템 내에서 발생 하는 ISV (온 보 딩/제안 관리, 트랜잭션, 청구, 계정 지원, Azure 기반 ISV 솔루션에 대 한 배포 및 프로 비전)에 의해 특정 활동을 지원할 책임이 있습니다.
 

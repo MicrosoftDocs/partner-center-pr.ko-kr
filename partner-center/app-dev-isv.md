@@ -1,7 +1,7 @@
 ---
-title: 응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외 | 파트너 센터
+title: 응용 프로그램 개발 역량 시험 예외
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이전 ISV 역량을 갖춘 파트너의 경우 응용 프로그램 개발 역량에 대해 일회성 시험 요구 사항 예외를 얻는 방법을 알아보세요.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, ISV, 응용 프로그램 개발
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722347"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907477"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
 
@@ -37,18 +38,18 @@ ISV 역량을 갖춘 파트너:
 
 - **Microsoft 상업적 marketplace 목록이 있는 경우**역량 갱신 시 일회성 시험 요구 사항 면제를 사용할 수 있습니다. 이 경우 제품을 활용 하는 데 30 일이 소요 됩니다.
 
-- **[Microsoft 상업적 marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) 목록이 없는 경우**일회성 시험 요구 사항 면제를 위해 2020 년 2 월로 솔루션을 게시 합니다.
+- ** [Microsoft 상업적 marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) 목록이 없는 경우**일회성 시험 요구 사항 면제를 위해 2020 년 2 월로 솔루션을 게시 합니다.
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>제품을 활용 하는 방법
 
-1. 대시보드의 파트너 센터 메뉴에서 역량 **을 선택 합니다**.
+1. 대시보드의 파트너 센터 메뉴에서 **역량**을 선택합니다.
 2. 사용할 수 있는 역량 목록에서 응용 프로그램 개발이 **완료**로 표시 됩니다.
 
-![isv에서 appdev로](images/appdev.png)
+![ISV에서 appdev로](images/appdev.png)
 
 3. **응용 프로그램 개발**을 선택 합니다. 시험 요구 사항을 충족 하지 못하도록 회사를 제외 하는 재정의가 제공 되었다는 알림이 표시 됩니다. 
 
-4. 이 제품을 활용 하려면 **회원 혜택**으로 이동 하세요. 역량 구매 또는 갱신 상태에 따라 프로세스를 완료 하려면 역량 요금을 지불 해야 할 수 있습니다. 
+4. 이 제품을 활용하려면 **멤버십 제품**으로 이동합니다. 역량 구매 또는 갱신 상태에 따라 프로세스를 완료 하려면 역량 요금을 지불 해야 할 수 있습니다. 
 
 이 제품은 파트너 센터를 통해 사용할 수 있습니다.
 

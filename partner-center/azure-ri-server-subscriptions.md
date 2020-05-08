@@ -1,7 +1,7 @@
 ---
-title: Azure 예약 및 서버 구독 | 파트너 센터
+title: Azure 예약 & 서버 구독
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객에 대 한 Azure 예약 및 서버 구독을 획득, 프로 비전 및 관리 하기 위한 클라우드 솔루션 공급자 기회에 대해 알아봅니다.
@@ -9,16 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3d83a63e6c0a2fd72541f409ed22c598b1538e
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205741"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908285"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
-# <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure에 대 한 azure 예약 VM 인스턴스 (RI) + 서버 구독
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
 적용 대상:
 
@@ -26,10 +27,10 @@ ms.locfileid: "82205741"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 글로벌 관리자
 - 기술 지원팀 에이전트
-- 영업 에이전트
+- 영업 상담원
 - 사용자 관리 담당자
  
 ## <a name="what-are-azure-reservations"></a>Azure Reservations란?

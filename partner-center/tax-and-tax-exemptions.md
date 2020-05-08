@@ -1,8 +1,8 @@
 ---
-title: 세금 및 세금 면제 | 파트너 센터
+title: 지역별 세금 및 세금 면제
 ms.topic: article
-ms.date: 11/21/2019
-description: 특정 지역에 대 한 세금 책임과 CSP 판매에 대 한 세금 면제를 제출 하는 방법에 대해 알아봅니다.
+ms.date: 04/28/2020
+description: 특정 지역에 대 한 세금 책임과 CSP 판매에 대 한 세금 면제를 제출 하는 방법에 대해 알아봅니다. 세금 질문에 대 한 지원을 받는 방법에 대해서도 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: 세금, 세금 면제, vat, 대리점, 요금 청구
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797701"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907801"
 ---
-# <a name="taxes-and-tax-exemptions"></a>세금 및 면세
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>지역 또는 국가별로 세금 및 세금 면제 정보에 대해 읽기
 
 적용 대상:
 

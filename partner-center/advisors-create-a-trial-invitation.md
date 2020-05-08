@@ -1,22 +1,23 @@
 ---
-title: 평가판 초대 만들기 | 파트너 센터
+title: Office 365 평가판 초대 만들기
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: advisor는 파트너 센터에서 평가판 초대를 만들 수 있습니다.
-author: XiaLi
-ms.author: v-xili35
+description: 파트너가 Office 365을 사용해 볼 수 있도록 클라이언트에 대 한 평가판 초대를 만들고 보내는 방법을 알아봅니다. 파트너는 인증 된 구독 관리자가 됩니다.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor, office 365, 평가판
-ms.openlocfilehash: 5b8e563a8ab8bee27bdc87aa0ba756f542a1ddf7
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137248"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907447"
 ---
-# <a name="advisors-create-a-trial-invitation"></a>관리자: 평가판 초대 만들기
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: 클라이언트에서 Office 365을 사용해 볼 수 있는 평가판 초대 만들기 및 보내기
 
 > [!NOTE]
 > 이 기능은 구독 관리자에 게 권한이 부여 된 Microsoft 파트너 에게만 제공 됩니다. 
@@ -27,7 +28,7 @@ Office 365을 사용해 볼 수 있도록 평가판 초대를 만들어 클라�
 
 ## <a name="to-create-a-trial-invitation"></a>평가판 초대를 만들려면
 
-1. **체험 및 구매 제안** 으로 이동 하 > **초대를 만듭니다**.
+1. **평가판 및 구매 제품** > **만들기 초대**로 이동 합니다.
 
 2. **평가판 초대 만들기** 페이지에서 포함 하려는 평가판 초대 옵션을 선택 합니다.
 

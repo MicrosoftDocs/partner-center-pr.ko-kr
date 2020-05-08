@@ -1,22 +1,23 @@
 ---
-title: 고객 계정 | 파트너 센터
+title: 고객 계정 보기 및 관리
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터에서 재판매인 파트너에 대 한 리소스를 찾습니다. 여기에는 구독, 요금 청구 또는 지원을 제공 하기 전에 고객 계정을 만들 필요가 있습니다.
+Description: 파트너 센터에서 재판매인 파트너에 대 한 리소스를 찾습니다. 여기에는 구독, 요금 청구 또는 제품 지원을 판매 하기 전에 고객 계정을 만드는 작업이 포함 됩니다.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205771"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907937"
 ---
-# <a name="customer-accounts"></a>고객 계정
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>파트너 센터에서 재판매인 파트너를 위한 고객 계정 설정 및 관리
 
 **적용 대상**
 
@@ -26,7 +27,7 @@ ms.locfileid: "82205771"
 **적절한 역할**
 
 - 글로벌 관리자
-- 관리자 에이전트
+- 관리 에이전트
 - 영업 에이전트
 - 기술 지원팀 에이전트
 

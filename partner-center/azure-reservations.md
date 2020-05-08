@@ -1,23 +1,23 @@
 ---
-title: 파트너 센터-Microsoft Azure 예약 개요 | 파트너 센터
+title: 고객 Microsoft Azure 예약 판매
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 클라우드 솔루션 공급자가 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 하 여 고객에 대 한 Azure 예약을 구입, 판매 또는 관리 하는 방법에 대해 알아봅니다.
+Description: 클라우드 솔루션 공급자는 고객에 대 한 Azure 예약을 구입, 판매 또는 관리할 수 있습니다. 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 합니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205731"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908296"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>파트너 센터 - Microsoft Azure Reservations 판매
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>파트너 센터, Azure Portal 또는 Api를 사용 하 여 고객에 게 Microsoft Azure 예약 판매
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
@@ -29,10 +29,10 @@ ms.locfileid: "82205731"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 글로벌 관리자
 - 기술 지원팀 에이전트
-- 영업 에이전트
+- 영업 상담원
 - 사용자 관리 담당자
 
 CSP (클라우드 솔루션 공급자 프로그램)의 파트너는 고객에 게 Microsoft Azure 예약을 제공할 수 있습니다. 고객은 사전에 대비 하 여 상당한 비용을 절감할 수 있습니다. Azure 예약은 다음과 같은 방식으로 고객의 단순성 및 유연성을 제공 합니다.

@@ -1,22 +1,23 @@
 ---
-title: 상업적 marketplace 제품에 대 한 청구 | 파트너 센터
+title: 상업적 marketplace 제품에 대 한 청구
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 내에서 상업적 marketplace의 고객을 위해 구매한 ISV SaaS 제품 또는 구독에 대 한 청구 작동 방식을 알아봅니다.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 구독, 제품, 구매, Marketplace, 제 3 자, ISV, 청구, 송장, 조정, 정찰 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240200"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908118"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>상업적 marketplace 제품에 대 한 청구
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터에서 상업용 마켓플레이스 제품 및 구독에 대 한 청구
 
 **적용 대상**
 
@@ -25,7 +26,7 @@ ms.locfileid: "78240200"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 청구 관리자
 
 CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 상업적 marketplace의 ISV 게시자 로부터 라이선스 기반 SaaS 제품을 구매할 수 있습니다. 이렇게 하면 이러한 유형의 구매 청구서에 액세스할 수 있습니다. 청구 기간은 해당 월의 첫 번째 날부터 시작 하 여 월의 마지막 날에 끝납니다. 청구서는 다음 달의 여덟 번째 날에 사용할 수 있습니다.

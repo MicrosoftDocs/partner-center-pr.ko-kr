@@ -1,7 +1,7 @@
 ---
-title: CSP 지역 권한 부여 테 넌 트 통합 | 파트너 센터
+title: CSP 지역 권한 부여 테 넌 트 통합
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이러한 지침을 사용 하 여 다른 국가/지역에 대 한 테 넌 트를 통합할 수 있습니다. 여기에는 고객 계정 및 고객 구독을 마이그레이션하는 단계가 포함 됩니다.
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: 고객 마이그레이션, 프로 비전 및 테 넌 트 계정, 테 넌 트 통합
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798451"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907995"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테 넌 트 통합
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테 넌 트 통합에 대 한 지침
 
 **적용 대상**
 
@@ -99,8 +100,6 @@ ms.locfileid: "82798451"
 
  >[! **참고**] 구독을 일시 중단 하면 이중 청구가 발생 하지 않습니다.
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Azure 사용량 기반 구독 마이그레이션
 
-
-Azure 사용 기반 CSP 구독은 Office 365 CSP 구독을 사용 하는 경우와 마찬가지로 수동으로 마이그레이션할 필요가 없습니다. Microsoft Azure 지원을 통해 csp 재판매인 계정에서 **csp 재판매인 계정으로 전환 하** 는 것으로 **전환** 될 때까지 Azure 구독 및 배포 된 모든 서비스 또는 리소스를 마이그레이션할 수 있습니다. 이 전환 중에는 고객에 게 서비스가 중단 되지 않습니다.
+Azure, 사용 기반 CSP 구독은 Office 365 CSP 구독을 사용 하는 경우와 마찬가지로 수동으로 마이그레이션할 필요가 없습니다. Microsoft Azure 지원을 통해 csp 재판매인 계정에서 **csp 재판매인 계정으로 전환 하** 는 것으로 **전환** 될 때까지 Azure 구독 및 배포 된 모든 서비스 또는 리소스를 마이그레이션할 수 있습니다. 이 전환 중에는 고객에 게 서비스가 중단 되지 않습니다.
 
 1.  Azure 구독을 마이그레이션해야 하는 고객 계정에 새 **전환** CSP 계정에 연결할 수 있는 계약을 수락 했는지 확인 합니다.
 2.  파트너는 Azure 구독을 보유 하 고 있는 고객 계정에 대해 Microsoft에 알리고 해당 고객의 회사 이름을 제공 합니다.
@@ -128,13 +126,13 @@ Azure 사용 기반 CSP 구독은 Office 365 CSP 구독을 사용 하는 경우�
 
 ### <a name="notes"></a>참고
 
--   서비스를 사용 하지 않도록 설정 하기 전에 csp 계정 **으로 전환** 하 여 서비스를 프로 비전 했으므로 Csp 계정 **에서 전환** 에서 구독을 사용 하지 않도록 설정 해도 최종 고객의 서비스에 영향을 주지 않습니다.
+-   구독을 사용 하지 않도록 설정 하기 전에 csp 계정 **에서** 구독을 사용 하지 않도록 설정 하는 것은 서비스를 Csp 계정 **으로 전환** 하는 동안 최종 고객의 서비스에 영향을 주지 않습니다.
 
 -   고객은 구독을 사용할 수 없으며 일시 중단 또는 취소 시에는 요금이 생성 되지 않습니다.
 
 -   현재 고객 목록에서 고객을 완전히 제거할 수 있는 방법은 없습니다.
 
--   **참고**  파트너는 파트너 센터 **의 파트너 테** 넌 트 계정 전환에 대 한 구독을 일시 중단 하 고 파트너 센터의 파트너 테 넌 트 계정 **으로 전환** 하 여 이중 청구가 발생 하지 않도록 합니다. Microsoft는 구독에서 일시 중단으로의 **전환을** 올바르게 설정 하지 않은 경우에 발생 하는 요금 청구로 인 한 요청을 지원 하지 않습니다.
+-   **참고**  파트너는 파트너 센터 **의 파트너 테** 넌 트 계정 전환에 대 한 구독을 일시 중단 하 고 파트너 센터의 파트너 테 넌 트 계정 **으로 전환** 하 여 이중 청구가 발생 하지 않도록 합니다. Microsoft는 구독에서 일시 중단으로의 **전환을** 올바르게 설정 하지 않아 발생 하는 청구의 겹치는 부분으로 인해 크레딧 요청을 지원 하지 않습니다.
 
 
 

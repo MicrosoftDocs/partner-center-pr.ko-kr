@@ -1,22 +1,23 @@
 ---
-title: 상업적 marketplace에서 제품 검색 | 파트너 센터
+title: 제품 검색-상업적 marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 파트너가 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)의 SaaS 제품 또는 가격 책정을 보거나 검색 하는 방법에 대해 알아봅니다.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 구독, marketplace, 상업적 마켓플레이스, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, CSP 프로그램, CSP 파트너
 ms.localizationpriority: medium
-ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81873192"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908110"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>상업적 marketplace에서 제품 및 가격 책정 검색
+# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
 
 **적용 대상**
 
@@ -26,9 +27,9 @@ ms.locfileid: "81873192"
 **적절한 역할**
 
 - 글로벌 관리자
-- 관리자 에이전트
+- 관리 에이전트
 
-Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다. 
+Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다.
 
 ISV 제품이 파트너 센터에서 기대한 대로 표시 되지 않는 경우 다음 때문일 수 있습니다.
 

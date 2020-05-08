@@ -1,7 +1,7 @@
 ---
-title: 고객을 대신 하 여 Microsoft Azure 예약 구입 | 파트너 센터
+title: 고객에 대 한 Microsoft Azure 예약 구입
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205671"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908297"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 
 **적용 대상**
 
@@ -27,10 +27,10 @@ ms.locfileid: "82205671"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 글로벌 관리자
 - 기술 지원팀 에이전트
-- 영업 에이전트
+- 영업 상담원
 - 사용자 관리 담당자
 
 ## <a name="before-you-begin"></a>시작하기 전에

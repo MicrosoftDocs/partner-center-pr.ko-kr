@@ -1,22 +1,23 @@
 ---
-title: Microsoft에서 SLA 크레딧 요청 | 파트너 센터
+title: Microsoft로부터 SLA 크레딧 요청
 ms.topic: article
-ms.date: 11/21/2019
-description: 고객이 서비스 중단을 경험 하는 경우 Microsoft 로부터 SLA 크레딧을 요청 하기 위한 이점, 제한 사항 및 절차를 알아보세요.
+ms.date: 04/28/2020
+description: 고객이 서비스 중단을 경험 하는 경우 Microsoft의 SLA (서비스 수준 계약) 크레딧을 요청 하는 이점, 제한 사항 및 절차를 알아보세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943146"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907875"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Microsoft에서 SLA 크레딧 요청 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft의 SLA (서비스 수준 계약) 크레딧을 요청 하는 방법 및 시기
 
 고객에 대해 제공 하는 서비스의 작동이 중단 되는 경우 Microsoft에서 **SLA (서비스 수준 계약) 크레딧을** 요청할 수 있습니다.
 
@@ -44,7 +45,7 @@ Microsoft 365 관리 센터의 **Service Health** 페이지에서 중단 인시�
 
 | 2 자 약어 | Microsoft 서비스 |
 | ----------------------- | ----------------- |
-| 고급 | Exchange Online |
+| EX | Exchange Online |
 | FO | Exchange Online 보호 |
 | SB | 비즈니스용 Skype Online (이전의 Lync Online) |
 | OS | Office 구독 |
@@ -57,7 +58,7 @@ Microsoft 365 관리 센터의 **Service Health** 페이지에서 중단 인시�
 
 파트너 센터 대시보드를 통해 Microsoft에 SLA 신용 요청을 제출 하려면:
 
-1. 파트너 센터 대시보드에 로그인 합니다.
+1. 파트너 센터 대시보드에 로그인합니다.
 2. 왼쪽 메뉴에서 **서비스 요청**을 선택한 다음 **파트너 지원 요청**을 선택 합니다.
 3. **파트너 요청** 페이지에서 **새 요청**을 선택 합니다.
 4. **요청 시작** 페이지에서 **CSP-고객, 주문 및 구독**섹션을 찾습니다. 이 섹션에서 **문제 유형 선택**을 선택한 다음 **고객 서비스 크레딧 요청**을 선택 합니다.

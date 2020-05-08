@@ -1,21 +1,22 @@
 ---
-title: 일반적인 청구 시나리오 | 파트너 센터
+title: 연간 요금 청구-일반적인 시나리오
 ms.topic: article
-ms.date: 11/25/2019
-description: 파트너 센터 연간 청구-새 구독을 추가 하 고, 청구 날짜 전에 라이선스를 추가 하 고, 라이선스 수량을 변경 하 고, 구독을 일시 중단/다시 활성화 합니다.
+ms.date: 05/05/2020
+description: 파트너 센터 연간 청구-새 구독을 추가 하 고, 청구 날짜 전에 라이선스를 추가 하거나, 라이선스 수량을 변경 하거나, 구독을 일시 중단/다시 활성화 하는 경우
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 청구, 지불, 주문, 사용량, 라이선스 기반 청구, 기념일 날짜, 용어, 취소, 갱신, 가격 수식, 조정 파일, 정찰 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798551"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908211"
 ---
-# <a name="annual-billing-scenarios"></a>연간 청구 시나리오
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>파트너 센터의 일반적인 연간 청구 시나리오
 
 **적절한 역할**
 

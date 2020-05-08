@@ -1,20 +1,22 @@
 ---
-title: 월별 및 연간 청구 차이 | 파트너 센터
+title: 월별 및 연간 청구 차이
 ms.topic: article
-ms.date: 11/25/2019
-Description: 파트너 센터에서 월별 및 연간 청구 주기 간의 차이점에 대해 알아봅니다.
+ms.date: 05/06/2020
+Description: 파트너 센터에서 월별 및 연간 청구가 어떻게 다른 지 알아보세요. 또한 서로 다른 청구 유형 간에 전환 하는 방법과 전환의 영향에 대해 알아봅니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798601"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908251"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>월별 및 연간 청구 차이
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>파트너 센터에서 월별 및 연간 청구의 차이점 이해
+
 
 **적용 대상**
 
@@ -133,7 +135,7 @@ CSP 프로그램을 현재 사용할 수 있는 모든 시장에서 월간 및 �
 
 취소 정책은 모든 청구 주기에 동일하게 적용됩니다.
 
-연간 청구를 위해 12 개월 지불 기간의 처음 30 일 동안 구독이 취소 되는 경우 다음 청구 날짜에 100% 크레딧을 받게 됩니다. 12 개월 지불 기간의 30 일 후에 구독이 취소 되 면 다음 청구 날짜에 비례 하는 크레딧을 받게 됩니다.
+연간 청구를 위해 12 개월 지불 기간의 처음 30 일 이내에 구독이 취소 된 경우 다음 청구 날짜에 100% 크레딧을 받게 됩니다. 12 개월 지불 기간의 30 일 후에 구독이 취소 되 면 다음 청구 날짜에 비례 하는 크레딧을 받게 됩니다.
 
 ### <a name="moving-subscriptions-between-partners"></a>파트너 간 구독 이동
 

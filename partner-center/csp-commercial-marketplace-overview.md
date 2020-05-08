@@ -1,22 +1,23 @@
 ---
-title: 클라우드 솔루션 공급자에 대 한 상업적 마켓플레이스 개요 | 파트너 센터
+title: 개요-CSP marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 marketplace의 Isv (독립 소프트웨어 공급 업체)에서 제공 하는 SaaS (Software as a Service) 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
-author: MicheleHope
-ms.author: v-mihope
+description: Marketplace의 Isv (독립 소프트웨어 공급 업체)에서 제공 하는 SaaS (Software as a Service) 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: 구독, Marketplace, 제 3 자, ISV, SaaS, 라이선스
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253791"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908090"
 ---
-# <a name="commercial-marketplace-overview"></a>상업적 마켓플레이스 개요
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업 marketplace 개요
 
 **적용 대상**
 
@@ -37,11 +38,11 @@ CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 Microsoft
 
 CSP 프로그램의 파트너인 경우 ISV 제품에 대해 수행할 수 있는 많은 상용 marketplace 작업이 있습니다. 각 작업에 대 한 자세한 내용을 보려면 다음 표를 참조 하세요.
 
-|**원하는 경우**  |**읽음**   |
+|**원하는 경우**  |**읽기**   |
 |:------------------------------------|:------------------|
 |사용 가능한 제품, 가격 책정, 제품 세부 정보 또는 게시자 연락처 정보를 보거나 검색 하는 방법에 대해 알아봅니다. | [제안 검색](csp-commercial-marketplace-discover.md) | 
 |제품을 구매 하 고 배포 하는 방법을 알아봅니다.   | [제품 구매](csp-commercial-marketplace-purchase.md)   | 
-|구독을 취소 하거나 갱신 하거나 사용자를 추가 또는 제거 하는 방법을 알아봅니다.  | [제안 관리](csp-commercial-marketplace-manage.md) |
+|구독을 취소 하거나 갱신 하거나 사용자를 추가 또는 제거 하는 방법을 알아봅니다.  | [제품 관리](csp-commercial-marketplace-manage.md) |
 |상업적 marketplace 구매 요금 청구 방식에 대해 알아보기 | [청구 이해](csp-commercial-marketplace-billing.md) |
 |ISV 구매에 대 한 지원 유형을 담당 하는 사용자에 대해 알아보기 | [지원 이해](csp-commercial-marketplace-support.md) |
 |상업적 marketplace에서 CSP 파트너 및 Isv의 계약 및 책임에 대해 알아봅니다. | [계약 이해](csp-commercial-marketplace-contracting.md) |
@@ -79,10 +80,10 @@ CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner
 |**Isv의 사용량 기반 제품**  |**사용**  |
 |:------------------------------------|:------------------|
 |사용 가능한 제품을 검색 하거나 검색 하려면  | 파트너 센터 대시보드, 파트너 센터 Api 또는 Azure Portal  |
-|제품을 구매 하려면  | Azure Portal  |
-|구매한 제품 (계정 설정, 소프트웨어 관리 또는 고객의 AAD 테 넌 트에 배포)을 배포 하려면  | Azure Portal  |
-|제품 구독을 취소/갱신 하거나 사용자를 추가/제거 하려면 | Azure Portal  |
-|사용자를 만들거나 사용 권한을 관리 하려면  | Azure Portal  |
+|제품을 구매 하려면  | Azure portal  |
+|구매한 제품 (계정 설정, 소프트웨어 관리 또는 고객의 AAD 테 넌 트에 배포)을 배포 하려면  | Azure portal  |
+|제품 구독을 취소/갱신 하거나 사용자를 추가/제거 하려면 | Azure portal  |
+|사용자를 만들거나 사용 권한을 관리 하려면  | Azure portal  |
 
 ## <a name="next-steps"></a>다음 단계
 

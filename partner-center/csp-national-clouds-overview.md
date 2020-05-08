@@ -1,7 +1,7 @@
 ---
-title: Microsoft 국가별 클라우드의 판매에 적용 | 파트너 센터
+title: Microsoft 국가별 클라우드 판매에 적용
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램의 Microsoft 파트너가 지원 되는 국가별 클라우드에 등록 된 고객에 게 판매할 수 있는 방법에 대해 알아봅니다.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 미국 정부 기관, 21Vianet, Microsoft 클라우드 중국의 국가별 클라우드, Microsoft 클라우드 독일, Microsoft 클라우드
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798461"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908058"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>Microsoft 국가별 클라우드 판매에 적용
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP 프로그램의 일부로 Microsoft 국가별 클라우드의 판매에 적용
 
 Microsoft 파트너는 글로벌 클라우드 솔루션 공급자 프로그램의 일환으로 고객에 게 판매 하는 것 외에도 클라우드 솔루션을 세 가지 별도의 국가별 클라우드로 고객에 게 판매할 수 있습니다. 국가별 클라우드는 특정 국가의 지리적 경계 내에 국한 되 고 로컬 담당자가 운영 하는 Microsoft enterprise cloud services의 논리적 네트워크 격리 인스턴스입니다. 
 
@@ -36,7 +37,7 @@ Microsoft는 이러한 서비스를 국가별 클라우드에서 사용할 수 �
 
     미국 정부에 대 한 Microsoft 클라우드에 등록 하 고 고객에 게 판매 하는 방법에 대 한 자세한 내용은 미국 정부에 대 한 [Microsoft 클라우드 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)를 참조 하세요.
 
--   [**Microsoft 클라우드 독일**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft 클라우드 독일은 고유한 모델을 통해 독일어 데이터 센터에서 Azure, Office 365 및 Dynamics 365를 제공 합니다. 이 모델에서 고객 데이터에 대 한 액세스는 독일 법률에서 작동 하는 독립적인 독일 데이터 트러스티에 의해 제어 됩니다. Deutsche 텔레콤의 자회사 인 T-시스템 국제 GmbH는 Microsoft 클라우드 독일의 독립적인 데이터 트러스티 역할을 합니다. 
+-   [**Microsoft 클라우드 독일**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft 클라우드 독일은 고유한 모델을 통해 독일어 데이터 센터에서 Azure, Office 365 및 Dynamics 365를 제공 합니다. 이 모델에서 고객 데이터에 대 한 액세스는 독일 법률에서 작동 하는 독립적인 독일 데이터 트러스티에 의해 제어 됩니다. Deutsche Telekom의 자회사 인 T-시스템 국제 GmbH는 Microsoft 클라우드 독일의 독립적인 데이터 트러스티 역할을 합니다.
 
     > [!IMPORTANT]  
     > 독일에 대 한 클라우드 전략은 고객의 요구에 따른 혁신을 기반으로 하 여 글로벌 클라우드 제품과 일치 하는 독일에서 새로운 클라우드 지역 제공에 초점을 맞춥니다. 이를 통해 새 고객을 더 이상 수락 하거나 현재 사용할 수 있는 Microsoft 클라우드 독일에서 새로운 서비스를 배포할 수 없습니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 관리할 수 있습니다.

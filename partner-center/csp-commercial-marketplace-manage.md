@@ -1,22 +1,23 @@
 ---
-title: 고객을 위한 상업적 마켓플레이스 제품 또는 제품 관리 | 파트너 센터
+title: Marketplace 제품 & 제공 관리
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터를 사용 하 여 클라우드 솔루션 공급자가 상업적 marketplace의 고객을 위해 구매한 다른 타사 ISV를 관리 하는 방법을 알아봅니다.
-author: MicheleHope
-ms.author: v-mihope
+description: 파트너 센터를 사용 하 여 클라우드 솔루션 공급자가 상업적 marketplace의 고객을 위해 구매한 타사 ISV 제품을 관리 하는 방법을 알아봅니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: 구독, Marketplace, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, 제품 관리, 구독 관리, 구독 관리, 구독 취소, 자동 갱신 해제, 간접 재판매인 MPN ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114955"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908099"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 관리
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 및 제품 관리
 
 **적용 대상**
 
@@ -48,7 +49,7 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
     - 구독 취소
 
-    - 자동 갱신 끄기
+    - 자동 갱신 해제
 
     - 해당 하는 경우 간접 재판매인 MPN ID를 추가 합니다.
 
@@ -57,7 +58,7 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>고객을 대신 하 여 라이선스 할당 및 구독 활성화
 
-상업적 marketplace의 ISV (독립 소프트웨어 공급 업체) 게시자가 제공 하는 SaaS (Software as a Service) 제품을 구입한 경우 ISV 게시자는를 대신 하 여 라이선스를 할당 하 고 구독을 활성화 하는 프로세스를 관리 하는 데 도움을 줍니다. customer.
+상업적 marketplace의 ISV (독립 소프트웨어 공급 업체) 게시자가 제공 하는 SaaS (Software as a Service) 제품을 구입한 경우 ISV 게시자는 고객 대신 라이선스를 할당 하 고 구독을 활성화 하는 프로세스를 관리 하는 데 도움을 줍니다.
 
 게시자는 개인 설정 된 링크 및 특정 구매를 식별 하는 인증 코드를 제공 해야 합니다.
 
@@ -85,7 +86,7 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>ISV 게시자의 라이선스 기반 SaaS 구독 취소
 
-상업적 marketplace 내에서 ISV 게시자가 제공 하는 라이선스 기반 SaaS 제품을 구독 하는 경우 지정 된 취소 기간 내에 구독을 취소 하는 옵션이 제공 됩니다. 이 취소 기간은 월별 또는 연간 구독이 있는지 여부에 따라 달라 집니다. 구독을 자동으로 갱신할 지 여부를 선택할 수도 있습니다.
+상업적 marketplace 내에서 ISV 게시자가 제공 하는 라이선스 기반 SaaS 제품을 구독 하는 경우 지정 된 취소 기간 내에 구독을 취소 하는 옵션이 제공 됩니다. 이 취소 기간은 월별 또는 연간 구독이 있는지 여부에 따라 달라 집니다. 또한 구독을 자동으로 갱신할지 여부를 선택할 수도 있습니다.
 
 적용 되는 취소 기간, 취소 방법 또는 구독 자동 갱신 방법에 대 한 자세한 내용은 다음을 참조 하세요.
 

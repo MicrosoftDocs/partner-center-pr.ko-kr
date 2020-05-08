@@ -1,22 +1,23 @@
 ---
-title: 비즈니스를 구축 하 고 Office 365 파트너 구독을 관리 합니다. | 파트너 센터
+title: Office 365 평가판 제품을 사용 하 여 클라이언트 추가
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: 관리자를 위해 비즈니스를 구축 하 고 Office 365 파트너 구독을 관리 합니다.
-author: XiaLi
-ms.author: v-xili35
+description: 권한 있는 Microsoft 관리자가 Office 365 구독을 확장할 수 있는 방법에 대해 알아보세요. Office 365 평가판 초대를 만들어 클라이언트에 게 제공 합니다.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor, office 365
-ms.openlocfilehash: 58b774e989ae93653fa344e090457376cb3de81c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2a45e6fdbf64a888f2d8b6a934e14ad33f3647b6
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137258"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907459"
 ---
-# <a name="advisors-build-your-business"></a>관리자: 비즈니스 빌드
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Advisor: Office 365 평가판 초대 및 구매 제안을 사용 하 여 클라이언트 기반 빌드
 
 권한 있는 Microsoft advisor는 **파트너 센터** 에서 클라이언트 기반을 확장 하 고 클라이언트와의 스 래 스 팅 관계를 만들 수 있는 기회를 제공 합니다. 파트너 센터를 통해 클라이언트 평가판 초대 및 구매 제안을 보내고 제공할 수 있는 서비스에 따라 위임 된 관리 서비스를 제공할 수 있습니다.
 

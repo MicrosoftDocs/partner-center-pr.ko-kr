@@ -1,26 +1,27 @@
 ---
-title: Office 365 정부 GCC 파트너 및 고객 자격 기준 | 파트너 센터
+title: Office 365 Government GCC 파트너 및 고객 자격 기준
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 직접 청구 파트너 (direct 재판매인, 간접 공급자)에 게 Office 365 정부 GCC for CSP에 대 한 파트너 및 고객의 유효성을 검사 하는 단계를 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798471"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908056"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 CSP 파트너 및 고객 자격 조건에 대 한 정부 GCC
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 CSP 용 정부 GCC 파트너 및 고객 자격 기준-파트너 센터
 
 **적용 대상**
 
--  파트너 센터
--  CSP 파트너
+- 파트너 센터
+- CSP 파트너
 
 **적절한 역할**
 
@@ -31,7 +32,7 @@ ms.locfileid: "82798471"
 >[!NOTE]
 >아래에 설명 된 유효성 검사 프로세스 및 기준은 직접 청구 파트너와 관련이 있습니다. 직접 청구 파트너에 게는 직접 대리점 및 간접 공급자가 포함 됩니다.  간접 재판매인 인 경우 간접 공급자와 함께 작업 하세요.
 
-조직 또는 고객 조직이 CSP 용 Office 365 정부 GCC를 승인 하는 데 관심이 있는 경우 아래 요구 사항을 검토 하세요.
+조직 (또는 고객의 조직)이 CSP 용 Office 365 정부 GCC에 대해 승인 되도록 하려면 아래 요구 사항을 검토 하세요.
 
 미국 연방, 주, 지방 또는 부족 정부 기관 서비스를 제공 하는 파트너인 경우 승인 될 수 있습니다. 조직의 자격을 검증 하려면 [여기](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)에 있는 간단한 양식을 작성 하세요.
 
