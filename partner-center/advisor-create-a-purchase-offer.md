@@ -1,7 +1,7 @@
 ---
-title: 구매 제안 만들기 | 파트너 센터
+title: 구매 제안 만들기
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
 description: 권한 있는 구독 관리자가 파트너 센터를 사용 하 여 Office 365 평가판 초대에 포함할 구매 제안 및 사용자 지정 URL을 만드는 방법을 알아보세요.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor, office 365, 구입
 ms.custom: SEOMAY.20
-ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907448"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975114"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>관리자: 구매 제안 만들기
 
