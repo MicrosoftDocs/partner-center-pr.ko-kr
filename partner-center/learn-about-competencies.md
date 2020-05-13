@@ -1,7 +1,7 @@
 ---
 title: Gold 및 Silver 멤버십을 위한 Microsoft 역량 요구 사항 | 파트너 센터
 ms.topic: article
-ms.date: 04/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Gold 및 Silver 멤버십 레벨 획득을 위한 역량 요구 사항에 대해 알아보기
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: high
-ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.openlocfilehash: 5ddb638b15be2426e54927fcf7aeba4c6ed4eed2
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120384"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859365"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft Gold 및 Silver 역량과 고급 전문 분야에 대한 정보
 

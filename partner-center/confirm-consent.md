@@ -1,7 +1,7 @@
 ---
-title: 고객의 Microsoft 고객 계약 동의 확인 | 파트너 센터
+title: Microsoft 고객 계약에 대한 고객의 동의 확인
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법을 알아봅니다. 이는 고객을 위해 Microsoft 제품 및 서비스를 주문하는 데 필요할 수 있습니다.
@@ -9,22 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 고객, 고객들, 동의, MCA, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
-ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d45f04c8ee1a8d8715f5c6484598ecaca83b1f1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123323"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908155"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 확인
+# <a name="overview-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>개요: Microsoft 고객 계약에 대한 고객의 동의 확인
 
 **적용 대상**
 -  파트너 센터
 
 **적절한 역할**
 
-- 관리자 에이전트
-- 영업 에이전트
+- 관리 에이전트
+- 영업 상담원
 
 > [!NOTE]
 > 계약 리소스는 현재 Microsoft 퍼블릭 클라우드의 파트너 센터에서만 지원됩니다. 다음 센터에는 적용되지 않습니다.
