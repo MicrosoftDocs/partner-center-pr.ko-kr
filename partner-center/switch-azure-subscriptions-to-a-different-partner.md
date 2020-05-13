@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: azure 구독, 파트너 전환, 파트너 변경, 새 파트너 가져오기, 다른 파트너
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205581"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194390"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에 게 고객의 Azure 구독을 전송 하는 방법을 알아봅니다.
 
@@ -32,7 +32,7 @@ ms.locfileid: "82205581"
 
 >[!Note]  
 >현재 직접 또는 간접 공급자만 구독을 전송할 수 있습니다.
->Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독과 연결 된 클라우드 솔루션 공급자 구독에 대해서는 파트너를 변경할 수 없습니다.
+>Azure 계획, Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독과 연결 된 클라우드 솔루션 공급자 구독에 대 한 파트너를 변경할 수 없습니다.
 
 **Azure 구독에 대 한 파트너 전환**
 
