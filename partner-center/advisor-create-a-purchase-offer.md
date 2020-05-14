@@ -3,19 +3,18 @@ title: 구매 제안 만들기
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: 권한 있는 구독 관리자가 파트너 센터를 사용 하 여 Office 365 평가판 초대에 포함할 구매 제안 및 사용자 지정 URL을 만드는 방법을 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor, office 365, 구입
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975114"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362681"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>관리자: 구매 제안 만들기
 
@@ -26,11 +25,11 @@ ms.locfileid: "82975114"
 
 구매 제안을 만들 때 **구매 제안 만들기** 마법사에서 사용자에 대 한 사용자 지정 URL을 만듭니다. URL에는 구독 관리자로 사용자를 식별 하는 포함 코드가 있습니다. 하나 이상의 클라이언트에 대해이 URL을 사용할 수 있습니다. URL을 전자 메일로 클라이언트에 게 보냅니다. 또는 웹 사이트에 URL을 게시할 수 있습니다. 클라이언트에서 제안을 수락 하면 클라이언트의 구매와 연결 됩니다.
 
-클라이언트에서 다른 수의 라이선스를 원하는 경우 새 제안을 보내거나 구독을 구매할 때 라이선스 수를 변경할 수 있습니다. 
+클라이언트에서 다른 수의 라이선스를 원하는 경우 새 제안을 보내거나 구독을 구매할 때 라이선스 수를 변경할 수 있습니다.
 
 ## <a name="to-create-a-purchase-offer"></a>구매 제안을 만들려면
 
-1. **평가판 및 구매 제품** > **만들기 제안**으로 이동 합니다.
+1. **평가판 및 구매 제품**  >  **만들기 제안**으로 이동 합니다.
 
 2. **구매 제안 만들기** 페이지에서 포함 하려는 구매 제안 옵션을 선택 합니다.
 
@@ -50,7 +49,9 @@ ms.locfileid: "82975114"
     > [!NOTE]
     > 구매 제안 **요약 ID**를 적어 둡니다. 제품을 추적 하는 데 사용 합니다.
 
-5. 회사 로고, 소개, 닫는 설명 또는 기타 정보를 포함 하 여 메시지를 개인 설정할 수 있습니다. 구매 제안을 클라이언트에 게 보냅니다.
+5. 회사 로고, 소개, 닫는 설명 또는 기타 정보를 포함 하 여 메시지를 개인 설정할 수 있습니다.
+
+    구매 제안을 클라이언트에 게 보냅니다.
 
 6. 메시지를 사용자 지정할 때 다음 정보를 포함 하는 것이 좋습니다.
 

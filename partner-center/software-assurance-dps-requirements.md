@@ -1,5 +1,5 @@
 ---
-title: 서비스 계약 계획에 대 한 자격 요구 사항 보기 | 파트너 센터
+title: 서비스 계약 계획에 대 한 자격 요구 사항 보기
 ms.topic: article
 ms.date: 03/24/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: 배포 전, 계획, 소프트웨어 보증, 계약, 요구 사항, 자격, 제공
 ms.localizationpriority: medium
-ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296437"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362451"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>서비스 계약 계획에 대 한 자격 요구 사항 보기
 
@@ -34,14 +34,14 @@ ms.locfileid: "80296437"
 
 |**이러한 계약에 대 한 자격 요구 사항에 대 한 자세한 정보**   |**이 제공에 대 한 데이터 시트로 이동**  |
 |:------------------------------------|:------------------|
-| Windows 및 Office 배포 계획<br> 모바일 생산성 배포 계획<br> 최신 IT 엔터프라이즈 보안 개념 증명</br>  | [DDPS (데스크톱 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| 고객 Engagement 용 Microsoft Dynamics 365 업그레이드<br> 고객 참여를 위해 Microsoft Dynamics 365로 마이그레이션<br> 재무 및 운영에 대 한 Microsoft Dynamics 365 업그레이드</br>  | [DYDPS (Dynamics Deployment plan Services) 계약](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Windows 및 Office 배포 계획<br/><br/> 모바일 생산성 배포 계획<br/><br/> 최신 IT 엔터프라이즈 보안 개념 증명 | [DDPS (데스크톱 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| 고객 Engagement 용 Microsoft Dynamics 365 업그레이드<br/><br/> 고객 참여를 위해 Microsoft Dynamics 365로 마이그레이션<br/><br/> 재무 및 운영에 대 한 Microsoft Dynamics 365 업그레이드  | [DYDPS (Dynamics Deployment plan Services) 계약](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | Windows Server 플랫폼 현대화 | [사설 클라우드, 관리 및 가상화 계획 서비스 (PVDPS) 계약](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | SharePoint 배포 계획   | [SDPS (SharePoint 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange 배포 계획<br> 비즈니스용 Skype 배포 계획</br>  | [비즈니스용 Skype 및 Exchange 배포 계획 서비스 (S-EDPS) 계약](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Exchange 배포 계획<br/><br/> 비즈니스용 Skype 배포 계획  | [비즈니스용 Skype 및 Exchange 배포 계획 서비스 (S-EDPS) 계약](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | 데이터 공간 현대화  | [SSDPS (SQL Server 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>참고 항목
+## <a name="next-steps"></a>다음 단계
 
 - [소프트웨어 보증 계획 서비스 워크플로](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [소프트웨어 보증 계획 서비스 FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)

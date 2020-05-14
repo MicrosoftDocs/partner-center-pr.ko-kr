@@ -11,14 +11,14 @@ ms.author: labrenne
 keywords: 고객, 고객 계정, 파트너 센터의 고객 계정 추가, 고객, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8151f6f310df97702062f5951254da622a759a90
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205621"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362691"
 ---
-# <a name="learn-about-adding-a-new-customer-record-in-partner-center"></a>파트너 센터에서 새 고객 레코드를 추가 하는 방법에 대 한 자세한 정보
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>파트너 센터에서 새 고객 레코드를 추가 하는 방법
 
 **적용 대상**
 
@@ -31,14 +31,14 @@ ms.locfileid: "82205621"
 - 글로벌 관리자
 - 사용자 관리 관리자
 - 관리자 에이전트
-- 영업 에이전트
+- 영업 상담원
 
-이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다. 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에이 작업을 수행 해야 합니다.
+이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다. 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 다음 단계를 수행 합니다.
 
 >[!NOTE]
 >[다중 채널](multichannel.md) 또는 [multipartner](multipartner.md) 시나리오를 통해 파트너 센터에 이미 고객 레코드가 있는 사용자를 포함 하는 기존 고객의 경우 여기에 설명 된 단계를 수행 하는 대신 [해당 사용자와의 관계를 요청할](request-a-relationship-with-a-customer.md)수 있습니다.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>파트너 센터에서 새 고객을 추가 하려면
+## <a name="to-add-a-new-customer-in-partner-center"></a>파트너 센터에서 새 고객을 추가 하려면
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.
 
@@ -47,12 +47,13 @@ ms.locfileid: "82205621"
    >[!NOTE]
    >
    >고객 검증 중에 정확성을 유지 하려면 다음을 확인 하세요.
+   >
    >- 공식 문서에 표시 되는 정확한 법적/공식 이름 사용
    >- 머리글자어 또는 short 형식을 사용 하지 마십시오.
    >- 테스트 이름 사용 안 함
    >- 완전 하 고 정확한 주소 (위치 정보, 도시, 시/도, 국가 및 우편 번호)를 제공 합니다.
 
-   >[!IMPORTANT] 
+   >[!IMPORTANT]
    > 2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.
   
 3. 간접 공급자 인 경우 목록에서이 고객의 구독과 연결 하려는 간접 재판매인을 선택 합니다.
@@ -68,7 +69,7 @@ ms.locfileid: "82205621"
 
 7. 고객 정보 추가를 완료 하 고 필요한 구독을 구매한 경우 **완료** 를 선택 합니다.
 
-## <a name="see-also"></a>참고 항목
+## <a name="next-steps"></a>다음 단계
 
 - 클라우드 솔루션 공급자 프로그램을 통해 고객에 게 판매할 수 있는 항목에 대 한 자세한 내용은 [클라우드 솔루션 공급자 프로그램의 파트너 제품](csp-offers.md)을 참조 하세요.
 

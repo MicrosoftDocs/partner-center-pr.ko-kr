@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 구독, Marketplace, 타사, ISV, CSP 파트너 프로그램, 계약, 판매, 구매,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908130"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362631"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>상업적 marketplace에서 업무를 수행 하는 CSP 파트너에 대 한 계약
 
@@ -48,7 +48,8 @@ ms.locfileid: "82908130"
   
 Microsoft는 거래 당사자 간의 서비스 제공에 대 한 법적 책임을 인정 하지 않으며, 거래 파트너가 상거래 플랫폼을 통해 약관을 설정 하는 메커니즘을 제공 하지 않습니다. 거래 파트너에 게 추가 약관을 요구 하는 경우 규약을 직접 실행 해야 합니다.
 
-## <a name="see-also"></a>참조
+## <a name="next-steps"></a>다음 단계
 
 - [상업용 마켓플레이스 제품에 대한 지원](csp-commercial-marketplace-support.md)
+
 - [CSP 상업적 marketplace 활동 개요](csp-commercial-marketplace-overview.md)

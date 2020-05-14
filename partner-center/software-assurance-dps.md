@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 배포 전, 계획, 소프트웨어 보증
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296403"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362441"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
@@ -87,7 +87,7 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>참여를 완료 하 고 고객에 게 결과물 제공 (기존 파트너)
 
-계획 서비스 참여를 제공할 수 있으려면 컨설턴트는 engagement의 규정을 규정 하는 규정에 필요한 기술 평가 또는 시험을 하나 이상 완료 해야 합니다. 필요한 평가 또는 시험에 대 한 자세한 내용을 [보려면 서비스 계약 계획에 대 한 자격 요구 사항을 확인](software-assurance-dps-requirements.md)하세요. 
+계획 서비스 참여를 제공할 수 있으려면 컨설턴트는 engagement의 규정을 규정 하는 규정에 필요한 기술 평가 또는 시험을 하나 이상 완료 해야 합니다. 필요한 평가 또는 시험에 대 한 자세한 내용을 [보려면 서비스 계약 계획에 대 한 자격 요구 사항을 확인](software-assurance-dps-requirements.md)하세요.
 
 회사에서 참여를 완료 하 고 완료 된 최종 결과물을 고객에 게 제공 하 고 나면 온라인 완료 보고서를 작성 하 고 제출 해야 합니다.
 
@@ -103,7 +103,7 @@ Microsoft에서 제공 된 참여를 위해 청구서를 청구 하려면 먼저
 
 SAVB를 통해 Microsoft에 송장을 제출 하려면 워크플로의 [8 단계](https://go.microsoft.com/fwlink/?linkid=2115983) 에 있는 지침을 따르세요.
 
-## <a name="see-also"></a>참고 항목
+## <a name="next-steps"></a>다음 단계
 
 - [소프트웨어 보증 계획 서비스 워크플로](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [소프트웨어 보증 계획 서비스 FAQ](https://go.microsoft.com/fwlink/?linkid=2116077)

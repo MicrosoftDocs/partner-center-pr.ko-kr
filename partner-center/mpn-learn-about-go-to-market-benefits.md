@@ -1,5 +1,5 @@
 ---
-title: Microsoft 제품을 사용한 출시에 대 한 자세한 정보 | 파트너 센터
+title: Microsoft 제품을 사용한 출시에 대 한 자세한 정보
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, 멤버 자격 혜택, 멤버 자격, 시장 출시 제품, Microsoft로 전환, 시장으로 이동, 골드 멤버 자격, 실버 멤버 자격
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226209"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362721"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
 
@@ -25,7 +25,7 @@ ms.locfileid: "80226209"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - MPN 파트너 관리자
 
 Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 고 확장 하는 데 도움이 되는 멤버 자격 혜택에 액세스할 수 있습니다. Microsoft 리소스, 제품 및 프로그램을 사용 하는 시장 출시는 Microsoft 파트너 네트워크 멤버로 받은 [많은 이점](https://partner.microsoft.com/manage-your-partner-network-benefits) 중 하나입니다.
@@ -34,7 +34,6 @@ Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 �
 
 >[!NOTE]
 >아직 Microsoft 파트너 네트워크의 멤버가 아닌 경우 [Microsoft 파트너 네트워크 사이트](https://partner.microsoft.com/membership)에서 조인 합니다.
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>회원 수준별로 제공 되는 시장 출시 리소스, 제품 및 프로그램
 
@@ -67,9 +66,9 @@ Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 �
 
 1. 파트너 센터 [대시보드]( https://docs.microsoft.com/partner-center/)에 로그인합니다.
 
-2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 다음, 다음 중 하나를 수행 합니다.
+2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 다음, 다음 중 하나를 수행합니다.
 
-    - **개요**를 선택 합니다. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
+    - **개요**를 선택합니다. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
 
       또는
 
@@ -84,10 +83,10 @@ Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 �
 >[!IMPORTANT]
 >특정 시장 출시 제안을 활성화 하 고 관련 마케팅 연락처를 할당 하려면 전역 관리자 또는 MPN 파트너 관리자 여야 합니다. 필요에 따라 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)(로그인 필요)의 지침에 따라 글로벌 관리자가 될 수 있습니다. 회사에 이미 글로벌 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
 
-#### <a name="see-also"></a>참고 항목
+## <a name="next-steps"></a>다음 단계
 
-[파트너 네트워크 혜택 관리](manage-your-partner-network-benefits.md)
+- [파트너 네트워크 혜택 관리](manage-your-partner-network-benefits.md)
 
-[Microsoft Action Pack 구독 구매 또는 갱신](mpn-get-action-pack.md)
+- [Microsoft Action Pack 구독 구매 또는 갱신](mpn-get-action-pack.md)
 
-[역량에 대해 알아보기](learn-about-competencies.md)
+- [역량에 대해 알아보기](learn-about-competencies.md)
