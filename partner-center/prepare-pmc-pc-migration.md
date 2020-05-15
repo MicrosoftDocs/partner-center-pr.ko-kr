@@ -1,19 +1,19 @@
 ---
 title: Partner Membership Center에서 파트너 센터로 이동 준비 | 파트너 센터
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스를 PMC에서 파트너 센터로 이동하기 전에 유용한 정보와 FAQ를 검토하세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340108"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859349"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
@@ -33,53 +33,28 @@ ms.locfileid: "78340108"
 
 회사 계정은 Azure AD 사용자 및 사용자에 대한 정보(이메일, 암호, 프로필 데이터, 권한 등)를 호스팅합니다. 또한 회사 계정에는 그룹, 애플리케이션, 회사 및 보안에 관련된 기타 정보가 포함되어 있습니다. 
 
+회사 이메일은 Azure Active Sirectory 테넌트의 일부입니다. 파트너 센터에서 계정을 보유하려면 AAD 테넌트가 있어야 합니다. Azure Active Directory에 대한 자세한 내용은 [Azure AD에서 디렉터리 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조하세요.
+
 파트너 센터에서는 개인 이메일이 아닌 회사 이메일을 사용하여 계정에 로그인합니다.
 - 회사 계정: john@contoso.com
 - 개인 계정: John@outlook.com
 
-회사 이메일은 Azure Active Sirectory 테넌트의 일부입니다. 파트너 센터에서 계정을 보유하려면 AAD 테넌트가 있어야 합니다. Azure Active Directory에 대한 자세한 내용은 [Azure AD에서 디렉터리 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조하세요.
+**Microsoft를 사용하는 AAD 테넌트가 있고(예: Office 365) CSP 비즈니스용 테넌트도 있는 경우 어떤 계정으로 파트너 센터에 로그인해야 할까요?**
 
-**PMC에서 파트너 센터로 이동할 때, Microsoft를 사용하는 AAD 테넌트가 있고(예: Office 365) CSP 비즈니스용 테넌트도 있는 경우 어떤 계정으로 파트너 센터에 로그인해야 할까요?**
-
-CSP 계정 또는 MPN 회사 이메일 계정으로 파트너 센터에 로그인할 수 있습니다. CSP 회사 이메일로 로그인하도록 선택하는 경우 대시보드의 왼쪽 탐색 창에 MPN 및 CSP 프로그램 정보가 표시됩니다. MPN Azure AD 테넌트 회사 이메일로 로그인하는 경우에는 MPN 프로그램 정보만 표시됩니다. MPN과 CSP의 사용자 역할이 서로 다르므로 MPN과 CSP 비즈니스에 동일한 계정을 사용하는 경우에는 그에 따라 사용자 역할을 할당해야 합니다. 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요.
+CSP 계정 또는 MPN 회사 이메일 계정으로 파트너 센터에 로그인할 수 있습니다. CSP 회사 이메일로 로그인하도록 선택하는 경우 대시보드의 왼쪽 탐색 창에 MPN 및 CSP 프로그램 정보가 표시됩니다. MPN Azure AD 테넌트 회사 이메일로 로그인하는 경우에는 MPN 프로그램 정보만 표시됩니다. 
 
 **파트너 센터에 기존 Office 365 Azure AD 테넌트를 사용하지 않으려는 경우에는 PMC에서 마이그레이션하기 전에 새 테넌트를 만들면 됩니다.**
 
-파트너 센터 계정 설정에 기존 Azure AD 테넌트를 사용하지 않으려는 여러 가지 이유가 있습니다. 파트너 센터로 마이그레이션하기 전에 [Azure Portal](https://ms.portal.azure.com/#home)로 이동하여 새 Azure AD 테넌트를 만듭니다. [Azure Active Directory에서 새 테넌트 만들기](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 테넌트를 만든 후에는 PMC에서 파트너 센터로 이동할 때 이 AAD 테넌트를 사용하여 파트너 센터 계정을 설정합니다. 테넌트를 만들려면 글로벌 관리자여야 합니다. 이 새 디렉터리를 사용하여 파트너 센터로 마이그레이션합니다.
+파트너 센터 계정 설정에 기존 Azure AD 테넌트를 사용하지 않으려는 여러 가지 이유가 있습니다. 파트너 센터로 마이그레이션하기 전에 [Azure Portal](https://ms.portal.azure.com/#home)로 이동하여 새 Azure AD 테넌트를 만듭니다. [Azure Active Directory에서 새 테넌트 만들기](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 AAD 테넌트를 사용하여 파트너 센터 계정을 설정합니다. 테넌트를 만들려면 글로벌 관리자여야 합니다. 
 
-
-**AAD 글로벌 관리자 역할과 PMC MPN 글로벌 관리자 역할의 차이점은 무엇인가요?**
-
-두 역할의 권한이 서로 다릅니다. 파트너 센터의 AAD 테넌트 글로벌 관리자는 파트너 센터에서 사용자를 추가 또는 제거하고, 암호/역할/권한을 제공 및 관리하고, 회사의 모든 프로그램에 액세스하는 등 테넌트를 관리합니다. 
-
-PMC의 MPN 글로벌 관리자 역할은 다음과 같은 작업을 수행할 수 있습니다.
-
-- 회사 및 회사의 모든 장소와 연결된 모든 데이터를 살펴보고 편집합니다.
-
--  글로벌 또는 로컬 수준에서 관리자를 추가합니다.  또한 글로벌 관리자는 모든 위치에서 모든 사용자에게 글로벌 관리자 액세스 권한을 할당할 수 있으며, 이렇게 하면 사용자의 위치에 관계없이 글로벌 액세스 권한이 부여됩니다.
--  다음을 비롯한 파트너용 UI 기능을 수행합니다. 
-
--  사용자 추가/제거
-
- - 역할 할당/제거 
-
- - 위치 추가/제거/업데이트 
-
- - 역량/맵 구매 
-
--  혜택 보기
-
-MPN 글로벌 관리자가 파트너 센터로 이동하면 MPN 파트너 관리자 역할이 되며, 이 역할은 파트너 센터 글로벌 관리자와는 권한 및 작업이 다릅니다. 파트너 센터의 역할 및 권한에 대한 자세한 내용은 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요.
 
 **파트너 센터의 게스트 사용자 역할을 비롯한 사용자 역할**
 
 파트너 센터에는 수행할 작업 유형에 따라 여러 가지 유형의 역할이 있습니다. Azure AD 역할인 글로벌 관리자와 같은 역할이 있습니다. 클라우드 서비스 공급자 프로그램 또는 인센티브와 같은 프로그램에만 적용되는 역할도 있고, MPN에만 적용되는 역할도 있습니다. 모든 파트너 센터 역할을 확인하려면 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요.
 
-
-
 **사용자가 PMC에서 파트너 센터로 이동하면 사용자의 역할은 어떻게 되나요?**
 
-마이그레이션을 수행하는 MPN 글로벌 관리자 또는 기본 프로그램 담당자를 제외하고, PMC의 모든 사용자는 관리자 역할을 잃게 됩니다. 마이그레이션을 완료하는 개인은 파트너 센터에서 역할을 할당해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당](permissions-overview.md) 및 [PMC에서 파트너 센터로 이동](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)을 참조하세요.
+마이그레이션을 수행하는 MPN 글로벌 관리자 또는 기본 프로그램 담당자를 제외하고, PMC의 모든 사용자는 관리자 역할을 잃게 됩니다. 마이그레이션을 완료하는 개인은 파트너 센터에서 역할을 할당해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당]\(permissions-overview.md) 및 [PMC에서 파트너 센터로 이동](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)을 참조하세요.
 
 
 **회사 프로필과 비즈니스 프로필 간의 차이점은 무엇인가요?**
@@ -92,12 +67,12 @@ MPN 글로벌 관리자가 파트너 센터로 이동하면 MPN 파트너 관리
 
 동일한 Azure AD 테넌트를 사용하여 여러 MPN 계정을 파트너 센터로 마이그레이션하면 시스템에서 이를 자동으로 인식하고 계정을 통합하라는 메시지를 표시합니다. 여러 도메인이 동일한 Azure AD 테넌트에 연결된 경우에도 마찬가지입니다. 
 
-별도의 AAD 테넌트를 사용하여 파트너 센터로 마이그레이션하도록 선택할 수도 있지만, 이렇게 하면 역량과 추가 구매 비용이 별도로 평가됩니다. 
+별도의 AAD 테넌트를 사용하여 파트너 센터로 마이그레이션하도록 선택할 수도 있지만, 이렇게 하면 역량과 추가 구매 비용이 별도로 평가됩니다. 계정 통합에 대한 자세한 내용은 [회사 계정 통합을 참조하세요](consolidate-accounts.md).
 
 **AAD 테넌트가 여러 개 있고 MPN 계정이 하나 있는 경우 파트너 센터에서 연결할 수 있나요?**
 
 예, 파트너 센터에서 여러 Azure AD 테넌트를 단일 파트너 센터 계정에 연결할 수 있습니다.
-여기서 자세한 내용을 알아보세요. 
+계정 통합에 대한 자세한 내용은 [회사 계정 통합을 참조하세요](consolidate-accounts.md).
 
 **단일 파트너 센터 계정에 여러 Azure AD 테넌트를 추가할 때 제한 사항이 있나요?**
 
@@ -164,11 +139,11 @@ MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독�
 아니요, 위치를 통합하지 않고 계정을 이동한 경우에는 인센티브에 영향을 주지 않습니다. 회사가 PMC에서 계정을 여러 개 가지고 있는데 파트너 센터로 이동할 때 글로벌 계정 하나에 통합하기로 결정하는 경우에는 인센티브 손실이 발생하지 않지만 인센티브 지급이 지연될 수 있습니다. 인센티브 프로그램과 관련된 PMC 계정 중 일부를 이동하지 않으면 해당 계정과 연결된 인센티브를 더 이상 받을 수 없게 될 수도 있습니다.
 
 
-**파트너 센터의 인센티브 사용자 역할은 무엇인가요?** 
+**파트너 센터의 인센티브 역할은 무엇인가요?** 
 
 파트너 센터의 인센티브 역할은 위치 기반이며 인센티브 관리자 및 인센티브 사용자를 포함합니다. 인센티브 역할이 수행할 수 있는 작업에 대한 자세한 내용은 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요.
 
-**글로벌 및 위치 수준에서 인센티브 사용자를 할당할 수 있나요?**
+**글로벌 및 위치 수준에서 인센티브 관리자를 할당할 수 있나요?**
 
  예. 모든 위치의 인센티브 관리자가 될 인센티브 관리자를 할당할 수도 있고, 위치마다 별도의 인센티브 관리자를 둘 수도 있습니다.
 
@@ -182,7 +157,7 @@ MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독�
 
 **추천은 어떻게 할당되며, 어떻게 달라지나요? 예를 들어 한 지역/국가에 글로벌 회사가 있고 다른 지역/국가에 여러 위치가 있는 경우에는 어떻게 추천이 할당되나요?**
 
-추천은 고객이 정의하는 검색 매개 변수를 기반으로 할당됩니다. 따라서 파트너의 위치 수와 상관 없이, 고객이 원하는 위치를 지정하고 다른 매개 변수를 충족하는 파트너의 회사가 그 위치에 있다면 해당 위치로 추천이 이동합니다.
+추천은 고객이 정의하는 검색 매개 변수를 기반으로 할당됩니다. 파트너의 위치 수와 상관없이, 고객이 원하는 위치를 지정하고 다른 매개 변수를 충족하는 파트너의 회사가 그 위치에 있다면 해당 위치로 추천이 이동합니다.
 
 
 
