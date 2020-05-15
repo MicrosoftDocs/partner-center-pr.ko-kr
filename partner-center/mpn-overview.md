@@ -1,5 +1,5 @@
 ---
-title: Microsoft 파트너 네트워크 멤버십 | 파트너 센터
+title: Microsoft 파트너 네트워크 멤버십
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798841"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362741"
 ---
 # <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
 
 **적절한 역할**
--   전역 관리자
--   MPN 파트너 관리자
--   사용자 관리자
--   관리자 에이전트
+
+- 글로벌 관리자
+- MPN 파트너 관리자
+- 사용자 관리자
+- 관리 에이전트
 
 Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다.
 
-Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하는 이유](https://partner.microsoft.com/business-opportunities/why-microsoft)를 참조하십시오. 
+Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하는 이유](https://partner.microsoft.com/business-opportunities/why-microsoft)를 참조하십시오.
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크 가입
 
@@ -51,7 +52,7 @@ Microsoft 파트너 네트워크에 가입하려면 MPN 웹 사이트에서 [**�
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영업을 시작, 구축 및 확장하려는 기업을 위해 준비된 소프트웨어, 지원 및 혜택을 제공합니다. 
+Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영업을 시작, 구축 및 확장하려는 기업을 위해 준비된 소프트웨어, 지원 및 혜택을 제공합니다.
 
 Action Pack에 대한 자세한 내용은 아래 리소스를 검토하세요.
 
@@ -82,5 +83,6 @@ Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 �
 - [파트너 센터에서 MPN 혜택 관리](manage-your-partner-network-benefits.md)
 - [핵심 요구 사항](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>참고 항목
-- [Microsoft 파트너 비즈니스 성장](grow-your-business.md)
+## <a name="next-steps"></a>다음 단계
+
+[Microsoft 파트너 비즈니스 성장](grow-your-business.md)

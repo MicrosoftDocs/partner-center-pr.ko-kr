@@ -1,7 +1,7 @@
 ---
-title: Azure 요금제 청구 | 파트너 센터
+title: Azure 플랜 청구 - 청구서 및 조정 파일
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 요금제에 대한 청구와 관련된 청구서 및 조정 파일 구조에 액세스하고 이해하는 방법을 알아봅니다.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240247"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908358"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
@@ -62,7 +63,7 @@ Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 �
 
 ## <a name="understanding-usage-data"></a>사용량 데이터 이해 
 
-1. Azure 플랜은 사용량에 대한 루트 또는 최상위 컨테이너입니다. 모든 사용량은 단일 Azure 플랜에 다시 연결됩니다. 
+1. Azure 플랜은 사용량에 대한 루트 또는 최상위 컨테이너입니다. 모든 사용량은 단일 Azure 플랜에 다시 연결됩니다.
 
 2. 플랜 내에는 하나 이상의 Azure 구독이 있습니다. 이러한 구독은 리소스 관리 및 배포에 사용되는 컨테이너입니다. 
 
@@ -72,7 +73,7 @@ Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 �
 
 5. 리소스 내보내기 측정기: 측정기는 리소스의 사용량을 측정하며, 하나의 리소스에서 여러 측정기의 사용량을 내보낼 수 있습니다. 측정기는 ProductId, SKUId 및 AvailabilityId로 식별됩니다. 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>구독 리소스 그룹 및 계량의 계층 구조
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>구독 리소스 그룹 및 계량의 계층 구조
 
 **Azure 계정(테넌트)**
 

@@ -1,23 +1,24 @@
 ---
-title: 기존 구독에 라이선스 또는 서비스 추가 | 파트너 센터
+title: 고객 구독 업그레이드
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 라이선스 또는 사용자를 추가하거나 다른 서비스를 제공하는 다른 버전으로 이동하는 등 고객의 구독을 업그레이드하거나 수정하는 방법을 알아봅니다.
+description: 고객의 구독을 업그레이드하거나 수정하는 방법을 알아보세요. 라이선스를 추가하거나, 더 많은 사용자를 추가하거나, 더 많은 서비스를 보유한 다른 버전으로 이동합니다.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798651"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975124"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>기존 구독에 라이선스 또는 서비스 추가
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스, 사용자 및 기타 서비스 추가
 
 **적용 대상**
 
@@ -26,13 +27,13 @@ ms.locfileid: "82798651"
 
 **적절한 역할**
 
-- 전역 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 글로벌 관리자
+- 사용자 관리 담당자
+- 관리 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
-고객이 현재 구독에서 제공하는 것보다 많은 사용자 수를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Office 365 계획으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
+고객이 현재 구독에서 제공하는 것보다 많은 사용자 수를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ ms.locfileid: "82798651"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>비즈니스용 Microsoft 365 앱</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Business Premium¹</li>
+<li>엔터프라이즈용 Microsoft 365 앱</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Microsoft 365 Business Standard</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Microsoft 365 Business Basic</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
+<li>Microsoft 365 Business Standard¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
@@ -78,7 +79,7 @@ ms.locfileid: "82798651"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India 및 Office 365 Business Essentials India는 Office 365 Business Premium이 아니라 Office 365 Business Premium India로 업그레이드할 수 있습니다.</p></td>
+<td><p>¹ 비즈니스용 Microsoft 365 Apps India 및 Microsoft 365 Business Basic India는 Microsoft 365 Business Standard India로 업그레이드할 수 있으나 Microsoft 365 Business Standard로 업그레이드할 수는 없습니다.</p></td>
 </tr>
 </tbody>
 </table>

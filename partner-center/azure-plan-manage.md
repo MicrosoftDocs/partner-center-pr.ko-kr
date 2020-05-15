@@ -1,7 +1,7 @@
 ---
-title: Azure 플랜에서 구독 및 리소스 관리 | 파트너 센터
+title: Azure 플랜 - 구독 및 리소스 관리
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너가 다양한 RBAC(역할 기반 액세스 제어) 옵션을 사용하여 고객의 Azure 리소스에 대한 운영 제어 및 관리를 얻는 방법에 대해 알아봅니다.
@@ -9,12 +9,13 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74253275"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908345"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 

@@ -1,7 +1,7 @@
 ---
-title: 회사의 글로벌 관리자 되기 | 파트너 센터
+title: 회사의 글로벌 관리자 되기
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 작업하려면 먼저 도메인의 소유권을 확인해야 합니다. 이 작업을 수행하는 방법과 사용자를 추가할 수 있는 글로벌 관리자가 되는 방법에 대해 알아봅니다.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: 도메인, 도메인 확인, 글로벌 관리자, 사용자 역할, 사용 권한
-ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722426"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908257"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
 
@@ -28,12 +29,12 @@ ms.locfileid: "74722426"
 
 회사에서 파트너 센터에 처음 로그인하는 경우 파트너 센터에서 작업을 시작하는 데 필요한 역할이 직원에게 할당되지 않았을 수 있습니다. 파트너 센터에서 작업하려면 모두에게 사용 권한을 포함한 역할이 할당되어야 합니다.  
 
-회사에 적합한 혜택을 구매하거나, 새 사용자를 추가하고 역할을 할당하거나, 파트너 센터에서 기타 작업을 수행할 수 있게 도메인의 소유권을 확인해야 합니다. 
+회사에 적합한 혜택을 구매하거나, 새 사용자를 추가하고 역할을 할당하거나, 파트너 센터에서 기타 작업을 수행할 수 있게 도메인의 소유권을 확인해야 합니다.
 
 >[!Note]
 >예를 들어 회사의 글로벌 관리자는 클라우드 서비스를 관리하는 사용자입니다. 회사에 글로벌 관리자가 있지만 누구인지 확실하지 않은 경우 파트너 센터의 오른쪽 위에 있는 **설정 아이콘**에서 **사용자 관리**를 선택합니다. 사용자 관리로 이동하고 글로벌 관리자를 필터링하여 연락할 글로벌 관리자를 찾습니다.
 
-## <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
+## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>파트너 센터에서 도메인 소유권 확인하고 글로벌 관리자 되기
 
 1. 파트너 센터의 **멤버십 서비스** 페이지에서 **글로벌 관리자 되기**를 선택합니다. 
 

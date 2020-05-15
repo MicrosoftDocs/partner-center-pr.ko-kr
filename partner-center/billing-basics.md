@@ -1,23 +1,23 @@
 ---
-title: 청구 개요 | 파트너 센터
+title: 파트너 센터 청구 개요
 ms.topic: article
-ms.date: 04/03/2020
-description: 파트너 센터의 기본적인 청구 및 청구서 정보에 대해 알아봅니다.
+ms.date: 05/05/2020
+description: CSP 파트너가 파트너 센터에서 이용할 수 있는 기본적인 청구 및 청구서 정보에 대해 알아봅니다. 고객에게 청구하는 방법과 송장을 찾고 읽는 방법이 포함되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676810"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908240"
 ---
-# <a name="billing-overview"></a>청구 개요
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업하는 CSP 프로그램 파트너용 청구 개요 
 
 **적용 대상**
 
@@ -26,11 +26,11 @@ ms.locfileid: "80676810"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 전역 관리자
-- 기술 지원팀 에이전트
-- 영업 에이전트
+- 글로벌 관리자
+- 기술 지원팀 상담원
+- 영업 상담원
 
 ## <a name="find-your-bill"></a>청구서 찾기
 

@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 관리 | 파트너 센터
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 회사의 프로필, 카탈로그, 은행 및 세금 정보, 역할, 권한 등을 관리합니다.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798771"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859376"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798771"
 
 - 파트너 센터
 
-등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 센터에서 계정을 만든 후에는 사용자 또는 사용자의 관리자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료해야 합니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
+등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 센터에서 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
+
+참고 항목 
+- [파트너 센터에 가입하도록 직원 초대](guide-to-migration.md)
+- [새 사용자 추가](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>사용자가 등록된 프로그램
 
 파트너 센터 계정을 관리하기 위해 수행하는 작업의 대부분은 사용자가 등록된 특정 프로그램과 파트너 센터에서 할당받은 사용자 역할 및 권한과 관련이 있습니다.
 
-파트너 센터에서 액세스 권한이 있는 프로그램을 쉽게 확인할 수 있습니다.
+파트너 센터에서 액세스 권한이 있는 프로그램을 확인하는 방법:
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 2. 왼쪽 탐색 창을 살펴봅니다. 등록된 프로그램과 관련된 옵션이 표시됩니다.
@@ -58,10 +62,10 @@ ms.locfileid: "82798771"
 |MPN   |파트너|
 |CSP    |파트너|
 |조회   |파트너|
-|상업용 Marketplace|개발자|
-|Windows 및 Xbox|개발자|
-|Office 스토어|개발자|
-|Edge 확장|개발자|
+|상업용 Marketplace|Developer|
+|Windows 및 Xbox|Developer|
+|Office 스토어|Developer|
+|Edge 확장|Developer|
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>파트너 및 개발자 설정 옵션의 차이점
 
@@ -101,6 +105,7 @@ MPN 프로그램 또는 CSP(클라우드 솔루션 공급자) 프로그램과 �
 |**수행할 작업**   |**이 글 읽기**   |
 |-----------------------|:-----------------------|
 |회사 프로필을 최신 상태로 유지   |[파트너 프로필 업데이트](update-your-partner-profile.md)|
+|새 사용자 추가|[사용자 계정 만들기 및 사용 권한 할당](create-user-accounts-and-set-permissions.md)|
 |파트너 센터에서 작업을 해야 하는 모든 직원에게 역할을 할당해야 합니다. 역할마다 고유의 권한이 있으며 접근 가능한 작업이 있습니다.|[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)|
 |각 역할이 제공하는 권한 검토|[사용자 역할 및 권한 할당](permissions-overview.md)
 |회사의 위치 관리|[파트너 계정 관리: 위치](manage-locations.md)

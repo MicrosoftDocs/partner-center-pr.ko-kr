@@ -1,7 +1,7 @@
 ---
-title: Azure 제품 비교 | 파트너 센터
+title: CSP 파트너용 Azure 제품 비교
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP(클라우드 솔루션 공급자) 프로그램의 파트너에 대한 새로운 Microsoft 상거래 환경의 제품 간의 주요 차이점을 비교합니다.
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021751"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908170"
 ---
-# <a name="compare-azure-offers"></a>Azure 제품 비교
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP 프로그램에서 Azure 제품 간의 차이점 비교
 
 **적절한 역할**
 
@@ -33,7 +34,7 @@ ms.locfileid: "76021751"
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |청구|매월|변동(제품에 따라 다름)|최종 고객|전체 기간 또는 3년 선불|월별 또는 연간|
 |라이선스|최종 고객|변동(제품에 따라 다름)|최종 고객| 최종 고객|   최종 고객|
-|적용 조건|취소할 때까지 활성|변동(제품에 따라 다름)|제품 설명 참조|모든 Azure 예약에는 고유한 적용 기간이 있습니다.    모든 서버 구독에는 고유한 적용 기간이 있습니다.|   추가 사용자 수 기반 라이선스에는 기존 적용 기간 적용|
+|적용 조건|취소할 때까지 활성|변동(제품에 따라 다름)|제품 설명 참조|모든 Azure 예약에는 고유한 적용 기간이 있습니다. 모든 서버 구독에는 고유한 적용 기간이 있습니다.|   추가 사용자 수 기반 라이선스에는 기존 적용 기간 적용|
 |자동 갱신|예|예|아니요| 아니요|예|
 |다중 통화|고객 위치/통화 기반 청구서|고객 위치/통화 기반 청구서|고객 위치/통화 기반 청구서|고객 위치/통화 기반 청구서|파트너 위치 통화 기반| 
 |청구서 및 조정 파일|고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.  일일 평가 사용량 파일도 제공할 예정입니다(청구 및 미청구 부분 모두). |고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.|고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.|고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.|한 청구서와 조정 파일의 모든 주문|
