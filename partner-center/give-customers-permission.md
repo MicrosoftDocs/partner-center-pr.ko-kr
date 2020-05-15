@@ -2,7 +2,7 @@
 title: 고객에게 자신의 서비스를 구매할 수 있는 권한 부여
 description: CSP 프로그램 파트너가 고객에 게 구매한 구독에 대 한 Azure 예약과 같은 고유한 서비스를 구입할 수 있도록 하는 방법을 알아봅니다.
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 구독, 셀프 서비스 구매, 셀프 서비스 RI, RI 사용, ri 사용 안 함, 셀프 서비스, 고객 구매, 고객 권한, 고객 구매 예약 인스턴스, 고객 구입 Azure 예약, 셀프 서비스를 사용 하도록 설정
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362611"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394124"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한을 부여 하는 방법
 
@@ -128,7 +128,7 @@ Azure 예약은 할인 된 요금으로 Azure 서비스를 구매할 수 있는 
 
 5. 페이지 맨 아래에 있는 **고객 권한** 영역을 찾습니다.
 
-   ![계정 페이지에 대 한 고객 권한](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="계정 페이지에 대 한 고객 권한입니다." border="true":::
 
 6. **Azure 예약**에서 **고객이 구매할 수 있음** 옵션을 찾습니다.
 
@@ -152,7 +152,7 @@ Azure 예약은 할인 된 요금으로 Azure 서비스를 구매할 수 있는 
 
 **가격 고객은 예약에 대 한 비용을 지불 합니다.** 고객은 이전에 CSP 파트너 청구 계정에서 구매한 구독을 기준으로 Azure 예약을 구매 합니다. 이 구독을 기준으로 구매 하는 모든 Azure 예약에 대 한 고객의 가격은 사용자에 의해 설정 됩니다. 이 가격은 Azure Portal 고객에 게 표시 되는 웹 직접 가격과 다를 수 있습니다.
 
-**고객이 예약 사용을 최적화 하는 방법** 일부 고객은 예약 사용을 최적화 하는 방법 또는 구매 중에 예약의 초기 범위를 할당 하는 방법에 대해 자세히 알아볼 수 있습니다. 자세한 내용은 고객이 [Azure 리소스에 대 한 예약 관리]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)를 읽도록 요청 하세요.
+**고객이 예약 사용을 최적화 하는 방법** 일부 고객은 예약 사용을 최적화 하는 방법 또는 구매 중에 예약의 초기 범위를 할당 하는 방법에 대해 자세히 알아볼 수 있습니다. 자세한 내용은 고객이 [Azure 리소스에 대 한 예약 관리](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)를 읽도록 요청 하세요.
 
 **고객이 공유 범위를 사용 하 여 예약을 구매 하면 어떻게 되나요?** 고객이 이전 CSP 구독을 기반으로 하는 예약을 구매 하 고 해당 예약에 공유 범위를 할당 하는 경우 해당 고객에 게 제공 된 모든 구독에 대해 CSP가 제공 하는 모든 할인의 일치 사용에 적용 됩니다.
 

@@ -1,19 +1,20 @@
 ---
 title: CSP의 간접 대리점 파트너
+description: 간접 공급자나 배포자로 서 간접 재판매인과 함께 파트너를 확장 하는 방법에 대해 알아봅니다. 여기에는 파트너 센터에서 수행할 수 있는 작업이 포함 됩니다.
 ms.topic: article
-ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 간접 공급자 또는 배포자로 서 간접 재판매인과 함께 파트너를 확장 하는 방법에 대해 알아봅니다. 여기에는 파트너 센터에서 수행할 수 있는 작업이 포함 됩니다.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 218b0d9f22bfe10aa0974b1b2db38008d0a48eaf
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.date: 02/04/2020
+ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362571"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394116"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -81,7 +82,7 @@ ms.locfileid: "83362571"
     > [!IMPORTANT]  
     >  전자 메일 메시지의 텍스트를 편집할 수 있지만 파트너 센터 계정에 맞게 개인 설정 된 링크를 포함 해야 합니다.
 
-4. 재판매인은 파트너 관계 요청을 수락 하 고 나면 간접 대리점 목록에 표시 되 고 다음을 수행할 수 있습니다.
+4. 재판매인은 파트너 관계 요청을 수락 하 고 나면 간접 대리점 목록에 표시 됩니다. 그러면 다음을 수행할 수 있습니다.
 
    - 사용자를 대신 하 여 새 고객 추가
 
@@ -99,8 +100,8 @@ ms.locfileid: "83362571"
 
 | **이를 수행 하려면** | **수행할 작업** | **위치** |
 |   ------------------   |   -------   |   -----   |
-|재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 대리점을 고객 계정에 연결 | **새 고객** 페이지에서 |
-|재판매인이 Azure 고객의 계정을 관리할 수 있도록 설정|새 고객을 추가 하는 경우 Azure 고객 계정에 재판매인 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) 을 선택 하 여 간접 재판매인 **테 넌 트 소유자** 권한을 부여 합니다.|
+| 재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 대리점을 고객 계정에 연결 | **새 고객** 페이지에서 |
+| 재판매인이 Azure 고객의 계정을 관리할 수 있도록 설정|새 고객을 추가 하는 경우 Azure 고객 계정에 재판매인 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) 을 선택 하 여 간접 재판매인 **테 넌 트 소유자** 권한을 부여 합니다.|
 | 재판매인 크레딧을 통해 성과급 얻기 | 대리점을 구독 (신규 또는 기존)에 연결 | **새 구독** 페이지에서 |
 | 대리점에 대 한 특정 구독에 대 한 고객 지원 위임 | **지정 된 지원 연락처** 목록에서 재판매인을 선택 합니다. | 구독 세부 정보 페이지의 **고객 페이지에서 고객을** 선택한 다음 고객의 **구독** 페이지에서 구독을 선택 합니다. |
 
@@ -123,6 +124,7 @@ ms.locfileid: "83362571"
 5. 주문이 올바르면 **제출**을 선택 합니다. 주문이 올바르지 않으면 **취소** 를 선택 하 여 전체 작업을 취소 하 고 다시 시작 합니다.
 
 6. 주문을 제출한 후 **확인** 페이지가 나타납니다. **설치 정보**에 관리 사용자 계정 이름과 임시 암호가 표시 됩니다. 새 고객에 게 보낼 수 있도록 사용자 계정 이름 및 암호 정보를 복사 합니다.
+
     > [!IMPORTANT]  
     > 이 페이지를 닫은 후에는이 정보에 다시 액세스할 수 없으므로 사용자 계정 이름 및 암호를 기록해 두어야 합니다.
 

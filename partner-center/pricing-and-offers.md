@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 제품 목록에는 파트너 센터 및 해당 가격 정보를 통해 구매할 수 있는 다른 제품군이 포함 되어 있습니다.
+description: Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite 및 Azure와 같은 사용량 기반 서비스와 같은 라이선스 기반 서비스에 대 한 현재 가격 목록을 참조 하세요.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 19e935122d1223c87714ca8c3a3f4fd212f2cf3c
-ms.sourcegitcommit: 4731d6647db34cf214f781f9e002074210fcfc29
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "81664282"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394164"
 ---
-# <a name="pricing-and-offers"></a>가격 책정 및 제품
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
 **적용 대상**
 
@@ -28,7 +28,7 @@ ms.locfileid: "81664282"
 - 사용자 관리자
 - 관리자 에이전트
 - MPN 파트너 관리자
-- 영업 에이전트
+- 영업 상담원
 - 청구 관리자
 
 최신 클라우드 솔루션 공급자 프로그램 및 제품을 보려면 파트너 포털에서 **> 가격 책정 및 제품 판매**로 이동 하세요. Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite 및 Azure를 포함 하는 사용 현황 기반 서비스를 비롯 한 라이선스 기반 서비스에 대 한 별도의 가격 목록을 찾을 수 있습니다.
@@ -67,7 +67,7 @@ ms.locfileid: "81664282"
 |**제품 유형**   |**제품 예**  |**미리 보기 사용 가능** |**변경 세부 정보**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |라이선스 기반|Office, Dynamics, Intune, Windows Enterprise|30 일|미리 보기 가격 목록에 표시 되는 가격 변경 내용 나열|
-|사용량 기반|: Azure 리소스|사용할 수 없음|이전 달의 가격 목록 **변경 기록** 탭에서 사용 가능한 변경 로그|
+|사용량 기반|Azure 리소스|사용할 수 없음|이전 달의 가격 목록 **변경 기록** 탭에서 사용 가능한 변경 로그|
 |소프트웨어||사용할 수 없음|월에서 월로 가격표를 수동으로 비교|
 |예약|가상 머신, 선불|사용할 수 없음|월에서 월로 가격표를 수동으로 비교|
 
@@ -80,12 +80,12 @@ ms.locfileid: "81664282"
 
 CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 시장 부문에 몇 가지 서비스를 제공 합니다. 모든 서비스를 모든 채널에서 사용할 수 있는 것은 아닙니다. 기본적으로 ' 상용 ' 세그먼트를 호출 하는 세그먼트가 없습니다. 모든 라이선스 기반 가격은 가격 책정 및 제품 페이지의 라이선스 기반 가격 목록에서 확인할 수 있습니다. Azure Government 가격은 사용 하도록 설정 된 CSP 테 넌 트에 로그인 Azure Government 하는 경우 사용량 기반 가격 목록에서 사용할 수 있습니다.
 
-|**Segment**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
+|**세그먼트가**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|교육|Customer|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
+|Education|Customer|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
 |비영리|Customer|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
 |GCC(정부 커뮤니티 클라우드)|파트너 및 고객|GCC를 사용 하도록 설정 하 고 나면 파트너가 GCC 고객을 만들 수 있습니다.| 라이선스 기반만|
-|Azure Government|파트너|자격이 부여 되 면 파트너는 Azure Government 관련 된 CSP 테 넌 트에서 작동 합니다.|: Azure 리소스|
+|Azure Government|파트너|자격이 부여 되 면 파트너는 Azure Government 관련 된 CSP 테 넌 트에서 작동 합니다.|Azure 리소스|
 
 목록 가격과 예상 소매 가격 간의 차이는 세그먼트 마다 다를 수 있습니다. 일반적으로 교육 및 비영리는 CSP 파트너에 대 한 여백이 낮거나 없는 경향이 있습니다. 정확한 값은 라이선스 기반 가격 목록을 참조 하십시오.  
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure와 비 Azure 간의 가격 책정
