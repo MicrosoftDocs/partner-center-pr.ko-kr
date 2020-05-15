@@ -119,7 +119,7 @@
 ## [고객 목록 참조](see-your-customer-list.md)
 ## [고객 활동 로그 보기](activity-logs.md)
 ## [고객 계정 정보 업데이트](update-customer-account-info.md)
-## [고객에게 자신의 서비스를 구매할 수 있는 권한 부여](give-customers-permission.md)
+## [고객이 자신의 서비스를 구입할 수 있도록 허용](give-customers-permission.md)
 ## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
 
@@ -196,6 +196,7 @@
 # [다른 파트너와 협력](work-with-other-partners.md)
 ## [파트너 센터에서 간접 공급자가 하는 일](indirect-provider-tasks-in-partner-center.md)
 ## [파트너 센터에서 간접 재판매인이 하는 일](indirect-reseller-tasks-in-partner-center.md)
+## [지원되는 CSP 파트너 관계](csp-supported-partner-relationships.md)
 ## [다중 채널 지원](multichannel.md)
 ## [다중 파트너 지원](multipartner.md)
 

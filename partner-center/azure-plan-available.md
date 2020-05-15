@@ -1,45 +1,43 @@
 ---
-title: Azure CSP에서 사용 가능한 Azure 서비스| 파트너 센터
+title: Azure CSP에서 사용 가능한 Azure 서비스
+description: 이 섹션에서는 Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있거나 사용할 수 없는 Azure 서비스에 대해 설명합니다.
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 이 섹션에서는 Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있거나 사용할 수 없는 Azure 서비스에 대해 설명합니다.
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024097"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369280"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Azure CSP에서 사용 가능한 Azure 서비스
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 전역 관리자
-- 기술 지원팀 에이전트
-- 영업 에이전트
-- 사용자 관리 관리자
+- 글로벌 관리자
+- 기술 지원팀 상담원
+- 영업 상담원
+- 사용자 관리 담당자
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP에서 사용 가능한 Azure 서비스
 
-이 섹션에서는 Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있거나 사용할 수 없는 Azure 서비스에 대해 설명합니다. 또한 [Microsoft Azure 독일](https://azure.microsoft.com/overview/clouds/germany/) 및 [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) 국가 클라우드의 서비스 가용성에 대해서도 설명합니다.
+이 문서에는 Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있거나 사용할 수 없는 Azure 서비스가 나열되어 있습니다. 또한 [Microsoft Azure 독일](https://azure.microsoft.com/overview/clouds/germany/) 및 [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) 국가 클라우드의 서비스 가용성에 대해서도 설명합니다.
 
 >[!Note]
 >[Azure 중국]( https://www.azure.cn/)은 Azure CSP 프로그램에서 사용할 수 없습니다.
 
-### <a name="global-cloud"></a>글로벌 클라우드 
+## <a name="global-cloud"></a>글로벌 클라우드
 
 Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에서 사용할 수 있습니다.  Azure Resource Manager 기반 이외의 서비스는 CSP 프로그램에서 사용할 수 없습니다.  
 
-### <a name="csp-specific-service-configurations"></a>CSP 특정 서비스 구성
+## <a name="csp-specific-service-configurations"></a>CSP 특정 서비스 구성
 
 특수한 CSP 구성이 필요한 서비스는 다음과 같습니다.
 
@@ -47,15 +45,15 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 - [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) - 고객 테넌트의 사용자만 Time Series Insight 환경의 데이터에 액세스할 수 있습니다. 파트너는 기본적으로 고객의 Time Series Insights 환경을 관리할 수 있지만, 이 환경의 데이터에 액세스해야 하는 경우 해당 환경을 고객 테넌트에 추가해야 합니다. 
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) - 고객 테넌트의 사용자만 Time Series Insight 환경의 데이터에 액세스할 수 있습니다. 파트너는 기본적으로 고객의 Time Series Insights 환경을 관리할 수 있지만, 이 환경의 데이터에 액세스해야 하는 경우 해당 환경을 고객 테넌트에 추가해야 합니다.
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 이제 타사 확장을 제외하고 Visual Studio Marketplace에서 아래에 나열된 항목을 구입할 수 있습니다.
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Visual Studio 구독](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 시작하는 데 도움이 되도록 CSP에서 [Azure DevOps를 설정, 구매 및 관리하는 방법](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer)에 대한 비디오와 설명서를 만들었습니다.
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP의 Azure Marketplace 항목
+## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP의 Azure Marketplace 항목
 
 일부 Azure Marketplace 항목은 현재 Azure CSP 구독에서 사용할 수 없습니다.
 
@@ -71,18 +69,19 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 - BYOL(사용자 라이선스 필요) 항목: 이러한 항목은 사용할 수 있습니다. BYOL 지원 Azure Marketplace 항목의 전체 목록은 [Azure Marketplace BYOL 페이지](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)에서 사용할 수 있습니다.
 
-- 타사 Azure Marketplace 종량제 항목: 공급자가 CSP 채널에 게시한 경우에 이러한 항목을 사용할 수 있습니다. 자세한 내용은 [Azure Marketplace 제품 구독 판매](https://aka.ms/marketplaceincsp)를 참조하세요.   
+- 타사 Azure Marketplace 종량제 항목: 공급자가 CSP 채널에 게시한 경우에 이러한 항목을 사용할 수 있습니다. 자세한 내용은 [Azure Marketplace 제품 구독 판매](https://aka.ms/marketplaceincsp)를 참조하세요.
 
 - Citrix XenApp Essentials: 파트너는 CSP에서 고객을 대신하여 XenApp Essentials를 구입할 수 있습니다. 자세한 내용은 [이제 Microsoft 클라우드 솔루션 공급자 채널을 통해 사용할 수 있는 XenApp Essentials 배포](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/) Citrix 블로그를 참조하세요.
 
-### <a name="national-clouds"></a>국가 클라우드 
-다음 표에는 국가 클라우드에서 CSP에 사용할 수 있는 자사 Azure 제품, 서비스 및 기능이 정기적으로 업데이트된 목록이 나와 있습니다. 
+## <a name="national-clouds"></a>국가 클라우드
+
+다음 표에는 국가 클라우드에서 CSP에 사용할 수 있는 자사 Azure 제품, 서비스 및 기능이 정기적으로 업데이트된 목록이 나와 있습니다.
 
 | Azure 제품, 서비스 또는 기능 | US Government | 독일 |
 | ------ | :-----------: | :-----------: |
 |  **Compute**  |    |    |
-|  가상 머신  |  X  |  X  |
-|  클라우드 서비스  |    |    |
+|  Virtual Machines  |  X  |  X  |
+|  Cloud Services  |    |    |
 |  가상 머신 확장 집합  |  X  |  X  |
 |  함수  |    |    |
 |  Azure Container Service  |    |    |
@@ -96,8 +95,8 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 |  VPN Gateway  |  X  |  X  |
 |  Application Gateway  |  X  |  X  |
 |  Network Watcher  |  X  |  X  |
-|  **저장소**  |    |    |
-|  저장 공간  |  X  |  X  |
+|  **스토리지**  |    |    |
+|  스토리지  |  X  |  X  |
 |  백업  |  X  |  X  |
 |  StorSimple  |    |  X  |
 |  Site Recovery  |  X  |  X  |
@@ -187,7 +186,7 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 |  Azure Migrate  |    |    |
 |  관리 그룹  |    |  
 
-### <a name="next-steps"></a>다음 단계
+## <a name="next-steps"></a>다음 단계
 
 - 파트너 센터에서 Azure에 사용할 수 있는 기능에 대해 [알아봅니다](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview).
 
