@@ -1,7 +1,7 @@
 ---
-title: Microsoft로 문제 에스컬레이션 | 파트너 센터
+title: Microsoft로 문제 에스컬레이션
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너가 고객에 대해 스스로 해결 해야 하는 문제 및 Microsoft로 에스컬레이션 해야 할 수 있는 문제에 대해 알아보세요.
@@ -9,15 +9,15 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 716b090681663feba725d1cf268be2209cd15475
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d46c22852d8a4b994088919d98c92e328ef2cad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798341"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795152"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Microsoft로 문제 에스컬레이션
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft로 문제를 에스컬레이션 하 고 Microsoft 에스컬레이션에 보다 적합 한 문제에 대해 알아봅니다.  
 
 **적용 대상**
 
@@ -28,8 +28,8 @@ ms.locfileid: "82798341"
 
 - 관리 에이전트
 - 글로벌 관리자
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
 고객을 대신 하 여 문제를 해결할 예정입니다. 첫 번째 단계는 문서화 된 기존 문제에 대 한 [서비스 상태를 확인](check-service-health.md) 하는 것입니다. 이로 인해 고객 문제가 해결 되지 않으면 관리자 권한을 사용 하 여 소프트웨어, 설정 및 구성 문제를 해결할 수 있습니다.
 

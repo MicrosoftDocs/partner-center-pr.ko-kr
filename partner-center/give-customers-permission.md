@@ -1,8 +1,8 @@
 ---
-title: 고객에게 자신의 서비스를 구매할 수 있는 권한 부여
-description: CSP 프로그램 파트너가 고객에 게 구매한 구독에 대 한 Azure 예약과 같은 고유한 서비스를 구입할 수 있도록 하는 방법을 알아봅니다.
+title: 고객이 CSP에서 자신의 서비스를 구입할 수 있도록 허용
+description: CSP 프로그램 파트너가 파트너 센터에서 구매한 구독에 대해 Azure 예약과 같은 고유한 서비스를 구입할 수 있도록 하는 방법을 알아봅니다.
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: 구독, 셀프 서비스 구매, 셀프 서비스 RI, RI 사용, ri 사용 안 함, 셀프 서비스, 고객 구매, 고객 권한, 고객 구매 예약 인스턴스, 고객 구입 Azure 예약, 셀프 서비스를 사용 하도록 설정
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394124"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795110"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한을 부여 하는 방법
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>파트너 센터에서 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한 부여
 
 **적용 대상**
 

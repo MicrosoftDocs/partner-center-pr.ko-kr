@@ -1,30 +1,30 @@
 ---
-title: 공동 판매 기회 관리 | 파트너 센터
+title: 공동 판매 기회 관리
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 거래를 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 거래를 확인 하는 방법을 알아봅니다.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: 조회, 공동 판매, 거래
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919840"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796029"
 ---
-# <a name="manage-co-sell-opportunities"></a>공동 판매 기회 관리
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>파트너 센터의 공동 판매 기회를 관리 하 여 고객의 요구를 충족 하 고 더 나은 고객 요구를 정의 합니다.
 
 **적용 대상**
 
--  파트너 센터
--  조회
--  Microsoft와 공동 판매
--  거래 공유
+- 파트너 센터
+- 조회
+- Microsoft와 공동 판매
+- 거래 공유
 
 **적절한 역할**
 
@@ -79,9 +79,9 @@ ms.locfileid: "81919840"
 |**거래 이름** | 필수 | 나중에 해당 거래를 식별할 수 있는 이름입니다. |
 |**예상 값** | 필수 | 거래를 만드는 동안 사용할 수 있는 정보를 기반으로 하는 거래의 가치입니다.|
 |**예상 종료 날짜**| 필수| 고객에 대 한 처리를 종료 해야 하는 날짜입니다. |
-|**CRM ID**| Optional | 추적 목적으로 해당 CRM의 기회 ID를 사용 하 여 처리에 태그를 합니다.|
-|**마케팅 캠페인 ID**| Optional | 거래를 일으킨 마케팅 캠페인을 캡처합니다. 동일한 ID를 사용 하 여 캠페인에서 시작 하는 모든 거래에 태그를 지정할 경우이를 통해 특정 캠페인의 ROI를 추적할 수 있습니다.|
-|**참고 사항**| Optional | 모든 최신 정보를 업데이트 하 여 동일한 거래에 대해 작업 하는 회사의 다른 직원에 게 가시성을 제공 하거나 현재 거래 상태를 파악 하려고 합니다. 또한이 정보를 회사와 Microsoft 판매자/기타 파트너 간의 토론에 대 한 통신 레코드로 사용할 수 있습니다.|
+|**CRM ID**| 선택 사항 | 추적 목적으로 해당 CRM의 기회 ID를 사용 하 여 처리에 태그를 합니다.|
+|**마케팅 캠페인 ID**| 선택 사항 | 거래를 일으킨 마케팅 캠페인을 캡처합니다. 동일한 ID를 사용 하 여 캠페인에서 시작 하는 모든 거래에 태그를 지정할 경우이를 통해 특정 캠페인의 ROI를 추적할 수 있습니다.|
+|**참고 사항**| 선택 사항 | 모든 최신 정보를 업데이트 하 여 동일한 거래에 대해 작업 하는 회사의 다른 직원에 게 가시성을 제공 하거나 현재 거래 상태를 파악 하려고 합니다. 또한이 정보를 회사와 Microsoft 판매자/기타 파트너 간의 토론에 대 한 통신 레코드로 사용할 수 있습니다.|
 
 ### <a name="add-your-employees"></a>직원 추가
 
@@ -95,7 +95,7 @@ ms.locfileid: "81919840"
 - **Microsoft:** 이러한 솔루션은 Microsoft에서 소유 하 고 있습니다.
 - **다른 타사 솔루션:** 이러한 솔루션은 Microsoft 공동 판매 에코 시스템의 다른 파트너에 의해 게시 되는 공동 판매 준비 솔루션입니다.
 
-솔루션 정보를 제공 했으면 다음을 선택 하 여 판매 유형을 결정할 수 있는 섹션으로 이동 합니다. 다음 두 가지 옵션을 사용할 수 있습니다.
+솔루션 정보를 제공 했으면 다음을 선택 하 여 판매 유형을 결정할 수 있는 섹션으로 이동 합니다. 다음과 같은 두 가지 옵션이 있습니다.
 
 **개인 파이프라인 거래**: Microsoft를 초대 하지 않고이 단계에서 참여를 만드는 경우 개인 파이프라인 형식입니다. Microsoft 판매자는이 거래에 대 한 세부 정보를 볼 수 없습니다.
 

@@ -1,22 +1,23 @@
 ---
-title: PMC에서 파트너 센터로 여러 회사 마이그레이션에 대한 가이드
+title: PMC에서 파트너 센터로 회사 마이그레이션
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PMC에서 파트너 센터로 여러 회사를 마이그레이션하고 파트너 전역 계정으로 통합 하는 경우 알아야 할 사항입니다.
+description: 파트너 구성원 센터 (PMC)에서 파트너 센터로 여러 회사를 마이그레이션하고 파트너 전역 계정으로 통합 하는 경우 알아야 할 사항입니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362751"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795780"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>여러 회사를 파트너 센터로 이동
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>파트너 구성원 센터에서 여러 회사를 파트너 센터로 이동 (PMC)
 
 **적절한 역할**
 

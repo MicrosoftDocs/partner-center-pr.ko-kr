@@ -1,24 +1,25 @@
 ---
-title: Microsoft Learn 분석 | 파트너 센터
+title: Microsoft Learn 분석
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 개별 학습, 완성 된 모듈, 완료 된 학습 경로 등에 대 한 데이터를 활용 하 여 회사에서 학습자를 추적 하세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005112"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795932"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 분석 보고서
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn 분석 보고서는 회사의 학습자 상태를 표시 합니다.
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   MPN 파트너 관리자
 
 Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 여 회사의 학습자에 대 한 정보를 제공 합니다. 보고서는 각 개별 학습자의 상태를 표시 합니다. 회사의 전역 관리자와 MPN 관리자는 데이터를 볼 수 있습니다.

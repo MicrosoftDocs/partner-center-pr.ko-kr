@@ -1,28 +1,28 @@
 ---
-title: 파트너 센터 정보-제품 라이선스 보고서 | 파트너 센터
+title: 파트너 센터 정보-제품 라이선스
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위해 판매 하거나 관리 하는 사용이 허가 된 (또는 사용자 기반) 클라우드 제품을 개선할 수 있는 위치를 확인 하세요.
+description: 이 제품 라이선스 보고서를 확인 하 고 고객을 위해 판매 하거나 관리 하는 사용이 허가 된 (또는 사용자 기반) 클라우드 제품을 사용 하 여 개선 하는 방법에 대해 알아보세요.
 ms.assetid: ''
 keywords: PCI, 성능, 측정, 고객 성공, 클라우드 구독, 분석, 보고서
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648014"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795661"
 ---
-# <a name="product-licenses-report"></a>제품 라이선스 보고서
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드의 제품 라이선스 보고서
 
 **적절한 역할**
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
@@ -81,3 +81,7 @@ X 축은 선택한 날짜 범위의 월을 나타냅니다. Y 축은 추가 된 
 이 보기는 제품 및 고객 국가/지역별 고객 라이선스에 대 한 분석을 보여 줍니다. **제품별 라이선스** 원형 차트에서 제품을 선택 하면 인접 한 차트에 고객 지역별 라이선스 분석 결과가 표시 됩니다.
 
 ![라이선스 배포](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>다음 단계
+
+- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.

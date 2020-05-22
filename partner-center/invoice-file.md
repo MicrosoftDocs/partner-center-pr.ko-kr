@@ -1,27 +1,29 @@
 ---
-title: 청구서 파일 | 파트너 센터
+title: 청구 청구서의 필드 이해
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 송장
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798901"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794859"
 ---
-# <a name="invoice-files"></a>청구서 파일
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>파트너 센터 청구 송장-청구 및 일회성 요금 필드를 읽는 방법을 알아봅니다.
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   청구 관리자
--   기술 지원팀 에이전트
+
+- 글로벌 관리자
+- 사용자 관리자
+- 청구 관리자
+- 기술 지원팀 상담원
 
 다음 표를 사용 하 여 파트너 센터 청구서 파일의 필드를 이해할 수 있습니다.
 
@@ -58,7 +60,7 @@ ms.locfileid: "82798901"
 
 | 필드 | 정의 |
 | ----- | ---------- |
-| 날짜 | 구매한 날짜입니다. |
+| Date | 구매한 날짜입니다. |
 | Description | 제품 이름입니다. |
 | 수량 | 구매한 제품 (예: 예약)의 수입니다. |
 | 단가 | 제품별 가격 (예: 예약). |

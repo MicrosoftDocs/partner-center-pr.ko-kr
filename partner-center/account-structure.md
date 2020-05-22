@@ -1,22 +1,23 @@
 ---
-title: 파트너 센터의 계정 구조 | 파트너 센터
+title: MPN 파트너 계정의 두 가지 수준
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 두 가지 수준의 계정, 즉 파트너의 글로벌 계정 (표준) 및 PLA (파트너 위치 계정)에 대해 알아봅니다.
+description: MPN 파트너는 파트너 센터에서 두 가지 수준의 계정, 즉, 파트너의 글로벌 계정 (표준) 및 PLA (파트너 위치 계정)에 대해 알아볼 수 있습니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171190"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794994"
 ---
-# <a name="the-account-structure-in-partner-center"></a>파트너 센터의 계정 구조
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>파트너 센터에는 MPN 파트너에 대 한 두 가지 수준의 계정이 있습니다.
 
 **적용 대상**
 
@@ -27,7 +28,7 @@ ms.locfileid: "76171190"
 
 - 계정 관리자
 - 비즈니스 프로필 관리자
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 
 회사에는 파트너 센터에 두 가지 수준의 계정이 있습니다.

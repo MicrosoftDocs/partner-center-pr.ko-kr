@@ -1,7 +1,7 @@
 ---
-title: 파트너 센터의 청구 유형 | 파트너 센터
+title: 파트너 센터의 청구 유형
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 볼 수 있는 다양 한 청구 유형, 청구 기간 및 청구 날짜에 대해 알아봅니다.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 결제, 주문, 조정 파일, 조정파일
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 78199085c0ed56f55974cd4465ac3480f35c7761
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798591"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794979"
 ---
-# <a name="types-of-billing-in-partner-center"></a>파트너 센터의 청구 유형
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>파트너 센터의 요금 청구 유형-라이선스 기반, 사용 기반 및 일회용 청구를 포함 합니다.
 
 **적용 대상**
 
@@ -29,7 +29,7 @@ ms.locfileid: "82798591"
 - 관리 에이전트
 - 청구 관리자
 - 글로벌 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 
 고객을 대신 하 여 구매한 제품, 솔루션 및 서비스에 따라 파트너 센터 구매 요금이 청구 됩니다. 청구 유형은 다음과 같습니다.

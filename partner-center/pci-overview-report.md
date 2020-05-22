@@ -1,24 +1,24 @@
 ---
-title: 파트너 센터 정보-개요 대시보드 | 파트너 센터
+title: 파트너 센터 정보 개요 대시보드
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 잘 수행 하는 작업과 판매 및 배포와 관련 하 여 개선할 수 있는 위치 및 고객 개발을 참조 하세요.
+description: 라이선스, 구독 및 Azure 사용량에 대 한 판매 및 배포, 고객 성장 및 수익 증가에 대 한 스냅숏을 참조 하세요.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 성능, 고객 성공, 측정,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631874"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795707"
 ---
-# <a name="overview-dashboard-reports"></a>개요 대시보드 보고서 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>파트너 센터 정보에서 사용할 수 있는 개요 대시보드 보고서
  
 파트너 센터 개요 대시보드는 고객, 구독, Azure 소비 수익, 라이선스 등의 핵심 성과 지표에 대 한 스냅숏 보기를 제공 합니다. 개요 보고서에서 다음 차트를 시각화할 수 있습니다. 
 
@@ -81,8 +81,8 @@ ms.locfileid: "75631874"
  
 선택한 날짜 범위 동안 모든 고객이 할당 한 라이선스 추세입니다. X 축은 선택한 날짜 범위의 월을 나타내며 Y 축은 선택한 제품의 라이선스 수를 나타냅니다. 차트 위쪽의 슬라이더를 스크롤하여 차트를 특정 기간으로 확대/축소 합니다.  
 
-![라이선스](images/pci/licensesgrowth.png)
+![라이센스](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>세부 정보
+## <a name="next-steps"></a>다음 단계
 
-추가 파트너 센터 정보 대시보드 및 보고서 항목에 대 한 자세한 내용은 [파트너 센터 정보](partner-center-insights.md) 를 참조 하세요.
+- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.

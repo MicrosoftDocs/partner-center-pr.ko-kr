@@ -1,23 +1,24 @@
 ---
-title: 고객 계정에 대 한 여러 사용자 만들기 | 파트너 센터
+title: 고객 계정에 대 한 여러 사용자 추가
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가 하는 방법에 대해 알아봅니다.
+description: 한 번에 여러 사용자를 고객 계정에 추가 하는 방법을 알아봅니다. 쉼표로 구분 된 값 (.csv) 파일 형식을 사용 하 여 파트너 센터에 데이터 파일을 업로드 합니다.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 대량 업로드, 고객의 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 계정, 고객 사용자, 사용자에 대 한 대량 업로드
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798631"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794898"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>고객 계정에 여러 사용자 추가
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>고객 계정에 여러 사용자 추가-파트너 센터에 데이터 파일 업로드
 
 **적용 대상**
 
@@ -68,7 +69,7 @@ ms.locfileid: "82798631"
 
 7. **유효성 검사**를 선택합니다.
 
-    **참고**  대부분의 계정 생성 오류는 누락 된 정보, 형식이 잘못 되었거나 중복 된 전자 메일 주소를 포함 하거나 파일에 너무 많은 레코드를 포함 하 여 데이터 파일 문제로 인해 발생 합니다.
+    **참고**    대부분의 계정 생성 오류는 누락 된 정보, 형식이 잘못 되었거나 중복 된 전자 메일 주소를 포함 하거나 파일에 너무 많은 레코드를 포함 하 여 데이터 파일 문제로 인해 발생 합니다.
 
 8. 파트너 센터가 파일의 유효성을 검사 한 후 새 사용자의 지리적 **위치** 를 선택 합니다.
 9. **저장**을 선택합니다.

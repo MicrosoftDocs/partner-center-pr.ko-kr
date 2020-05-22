@@ -1,24 +1,24 @@
 ---
-title: 파트너 센터 정보-역량 보고서 | 파트너 센터
+title: 파트너 센터 정보 센터 보고서
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 솔루션을 제공 하는 데 도움이 되는 Microsoft 역량, 역량 수준 및 제품을 개선할 수 있는 방법을 확인 하세요.
 ms.assetid: ''
 keywords: PCI, 성능, 측정, 고객 성공, 역량, 혜택, 분석, 보고서
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226189"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795656"
 ---
-# <a name="competencies-report"></a>역량 보고서
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 역량 보고서
 
 **적절한 역할**
 - 글로벌 관리자
@@ -86,3 +86,6 @@ ms.locfileid: "80226189"
 
 ![역량 기록](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>다음 단계
+
+- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.

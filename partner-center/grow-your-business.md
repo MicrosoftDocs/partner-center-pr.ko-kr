@@ -1,7 +1,7 @@
 ---
-title: Microsoft 파트너 비즈니스 성장 | 파트너 센터
+title: Microsoft 파트너 비즈니스 성장
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너 비즈니스 성장을 위한 리소스에 대해 알아보세요. 여기에는 Microsoft에서 판매 잠재 고객 (조회)을 가져오는 방법이 포함 됩니다.
@@ -9,14 +9,15 @@ keywords: 추천, 추천에 응답, 잠재 고객, 영업 잠재 고객, 마케�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798041"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795817"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>Microsoft 파트너 비즈니스 성장 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft 파트너 비즈니스 성장-리드를 받고 회사를 분리 하는 방법을 알아봅니다 &.
 
 Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제공합니다. 이 Microsoft 파트너 센터 사이트에서 새로운 고객을 모집하고 더 많은 수익을 얻도록 돕는 방법에 대해 알아봅니다.
 
@@ -42,5 +43,5 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 | 추가 시장에서 판매 | 클라우드 솔루션 공급자 판매 채널은 여러 국가 및 지역에서 사용할 수 있습니다. 목록을 검토하려면 [클라우드 솔루션 공급자 시장](agreements.md)을 참조하세요. 클라우드 솔루션 공급자 채널에 대한 소개는 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.  | CSP 파트너 |
 비영리 조직 및 교육 기관 같은 특수 산업을 대상으로 판매|[특수 산업을 대상으로 판매](get-special-pricing-for-offers.md)|CSP 파트너|
 |인센티브 협력 프로그램에서 지원되는 다양한 활동들을 통해 비즈니스를 성장시키세요. 파트너 센터를 통해 활동에 대한 클레임 제출| [인센티브 클레임 생성 및 관리](create-incentives-claims.md)|CSP 파트너|
-|상업용 마켓플레이스 제품 구독 판매|[Tand CSP 상업적 marketplace 활동](csp-commercial-marketplace-overview.md)|CSP 파트너|
+|상업용 마켓플레이스 제품 구독 판매|[CSP 상업적 marketplace 활동 이해](csp-commercial-marketplace-overview.md)|CSP 파트너|
 |회사가 Azure를 판매하고 관리하는 회사로 매우 유명한가요? Azure 전문가 Microsoft 서비스 공급자 프로그램 등록 신청|[Azure 전문가 Microsoft 서비스 공급자 프로그램](azure-expert-msp.md)|CSP 파트너|

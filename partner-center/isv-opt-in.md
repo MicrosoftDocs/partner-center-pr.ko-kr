@@ -1,39 +1,42 @@
 ---
-title: Marketplace "배타" 제안 | 파트너 센터
+title: Isv의 Marketplace 독점 제공
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV는 제공을 독점적으로 만들어 사용할 CSP 파트너를 선택할 수 있습니다.
+description: ISV (독립 소프트웨어 공급 업체)에서 특정 제품을 독점적이 고 특정 CSP 파트너만 사용할 수 있도록 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123261"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794846"
 ---
-# <a name="marketplace-exclusive-offers"></a>Marketplace 독점 제안
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>독립 소프트웨어 공급 업체의 Marketplace 독점 제공
 
 **적절한 역할**
--    전역 관리자
--    사용자 관리자
--    관리자 에이전트
--    영업 에이전트
 
-Isv는 선택 된 수의 CSP 파트너에 게 제품을 제공 하는 옵션을 제공 합니다. 모든 CSP 파트너는 파트너 센터 Marketplace의 모든 ISV 제품을 볼 수 있지만 단독으로 표시 된 제품은 ISV가 선택한 파트너만 구매할 수 있습니다. 제품이 "배타"로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.
+- 글로벌 관리자
+- 사용자 관리자
+- 관리 에이전트
+- 영업 상담원
 
-Isv에 의해 식별 되는 CSP 파트너는 다음과 같은 작업을 수행할 수 있습니다.
+ISV (독립 소프트웨어 공급 업체)에는 특정 CSP 파트너 에게만 제공 되는 독점적인 제품을 만들 수 있는 옵션이 있습니다.
 
-- 파트너 센터 marketplace를 통한 독점 제품 구매
+CSP 파트너는 파트너 센터 상업적 marketplace의 모든 ISV 제품을 볼 수 있습니다. 그러나 **단독**으로 표시 된 제품은 ISV에서 선택한 특정 파트너만 구매할 수 있습니다. 제품이 **단독**으로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.
+
+ISV에서 식별 하는 특정 CSP 파트너는 다음과 같은 작업을 수행할 수 있습니다.
+
+- 파트너 센터 상업적 marketplace를 통해 해당 ISV에서 독점 제품 구매
 - 가격 목록 내보내기
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>배타적 제공에 대 한 액세스 권한을 얻으려면 어떻게 하나요?
 
-ISV는 Marketplace에서 제품을 게시할 때 구매할 수 있는 사용자를 지정할 수 있습니다. 
+ISV는 Marketplace에서 제품을 게시할 때 구매할 수 있는 사용자를 지정할 수 있습니다.
 
 해당 옵션은 다음과 같습니다.
 
@@ -41,6 +44,8 @@ ISV는 Marketplace에서 제품을 게시할 때 구매할 수 있는 사용자�
 - 구입할 수 있는 파트너 결정
 - CSP 파트너는 사용할 수 없음
 
-Marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)를 참조 하세요.
+## <a name="next-steps"></a>다음 단계
 
-Marketplace에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.
+- 상업적 marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)를 참조 하세요.
+
+- 상업적 marketplace에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.

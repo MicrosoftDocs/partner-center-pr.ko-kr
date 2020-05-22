@@ -1,23 +1,24 @@
 ---
-title: 고객 계정에 대 한 사용자 관리 작업 | 파트너 센터
+title: 고객 계정의 사용자 관리
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객에 대 한 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하거나, 사용자 계정을 삭제 하거나, 복원 하는 방법에 대해 알아봅니다.
+description: 고객의 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하거나, 사용자 계정을 삭제 하거나, 복원 하는 방법에 대해 알아봅니다.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 고객 관리, 계정, 계정 만들기, 라이선스, 라이선스 할당, 사용자 관리, 암호, 암호 재설정, 암호 변경
 ms.localizationpriority: medium
-ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798621"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795030"
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>고객 계정에 대 한 사용자 관리 작업
+# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>파트너 센터의 고객 계정에 대 한 사용자 관리 작업
 
 **적용 대상**
 
@@ -26,10 +27,10 @@ ms.locfileid: "82798621"
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 사용자 관리 담당자
+- 관리 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
 고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다. 삭제 후 30 일 이내에 이전에 삭제 한 사용자 계정을 하나 이상 복원할 수도 있습니다. 사용자의 이전 구독 할당도 복원 됩니다 (이전 할당을 사용할 수 있는 것으로 가정).
 

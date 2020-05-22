@@ -1,27 +1,28 @@
 ---
-title: 일반적인 월간 청구 시나리오 | 파트너 센터
+title: 일반적인 월간 청구 시나리오
 ms.topic: article
-ms.date: 11/25/2019
-description: '월별 청구를 사용 하는 경우 파트너 센터의 일반적인 시나리오 (예: 새 구독 추가, 라이선스 수량 변경, 구독 일시 중단 등)'
+ms.date: 05/13/2020
+description: 월별 청구를 사용할 때 파트너 센터의 일반적인 시나리오-새 구독 추가, 라이선스 수량 변경, 구독 일시 중단 등이 있습니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 청구, 지불, 주문, 사용량, 월간 청구, 구독, 조정 파일
 ms.localizationpriority: medium
-ms.openlocfilehash: e67281a0bf7d5649a68a6a3f3c27c40e3666eb14
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798541"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795621"
 ---
-# <a name="monthly-billing-scenarios"></a>월간 청구 시나리오
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>새 구독, 라이선스 금액 변경 또는 일시 중단에 대 한 샘플 월간 청구 시나리오
 
 **적절한 역할**
 
 - 관리 에이전트
 - 청구 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 
 파트너 센터에서 월간 청구를 사용 하는 경우 이러한 예제 [일반적인 청구 시나리오](common-billing-scenarios.md) 를 적용할 수 있습니다.

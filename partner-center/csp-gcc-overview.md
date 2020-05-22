@@ -1,27 +1,27 @@
 ---
-title: CSP 용 Office 365 정부 GCC 판매 | 파트너 센터
+title: CSP용 Office 365 Government GCC 판매
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 용 Office 365 정부 GCC를 정규화 된 미국 정부 기관 고객 또는 계약자에 게 판매 하는 데 필요한 단계 및 요구 사항을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7ab89bbe436c2d0c4e673874bc9a3bf14924372
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798501"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795615"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>자격을 갖춘 고객에 게 CSP 구독을 위한 Office 365 정부 GCC 판매
 
 **적용 대상**
 
--  파트너 센터
--  CSP 파트너
+- 파트너 센터
+- CSP 파트너
 
 **적절한 역할**
 

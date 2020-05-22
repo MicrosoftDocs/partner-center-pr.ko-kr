@@ -1,31 +1,31 @@
 ---
-title: 라이선스 기반 청구 | 파트너 센터
+title: 라이선스 기반 청구
 ms.topic: article
-ms.date: 11/21/2019
-Description: 라이선스를 기준으로 요금이 청구 되는 파트너 센터의 라이선스 기반 청구에 대 한 정보입니다.
+ms.date: 05/18/2020
+Description: 라이선스 기반 청구는 파트너 센터의 사용량 기준 청구와 어떻게 다른 지에 대해 알아봅니다 (라이선스 사용이 아닌 라이선스 별로 청구 되는 방법 포함).
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 지불, 라이선스 기반, 라이선스
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798891"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795794"
 ---
-# <a name="license-based-billing"></a>라이선스 기반 청구
+# <a name="license-based-billing-in-partner-center"></a>파트너 센터의 라이선스 기반 요금 청구
 
 **적용 대상**
 
 - 파트너 센터
 - CSP 프로그램의 파트너
 
-**적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   청구 관리자
--   관리 에이전트
+**적절 한 역할** -전역 관리자
+- 사용자 관리자
+- 청구 관리자
+- 관리 에이전트
 
 **라이선스**를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](billing-different-types.md)을 참조 하세요.
 
@@ -37,10 +37,10 @@ ms.locfileid: "82798891"
 
 라이선스 기반 구독은 구독의 **기념일**에 대해 미리 청구 됩니다. 기념일은 구독을 구매한 월의 날짜입니다.
 
-예를 들어:
+다음은 그 예입니다.
 
 - 1 월 15 일에 **월간 구독** 을 구매한 경우 기념일은 매월 15 일이 됩니다.
-- 1 월 15 일에 **연간 구독** 을 구매한 경우 기념일은 매년 1 월 15 일까 집니다.
+- 1 월 15 일에 **연간 구독** 을 구매한 경우 기념일은 매년 1 월 15 일이 됩니다.
 
 ## <a name="license-term"></a>사용 조건
 
@@ -56,4 +56,14 @@ ms.locfileid: "82798891"
 
 ## <a name="license-renewal"></a>라이선스 갱신
 
-모든 라이선스 기반 구독은 유료 기간이 시작 된 후 12 개월 후에 자동 갱신 됩니다.
+모든 라이선스 기반 구독은 유료 기간이 시작 된 후 12 개월 autorenew 됩니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터 청구 개요](billing-basics.md)
+
+- [파트너 센터의 청구 유형](billing-different-types.md)
+
+- [월별 및 연간 청구 차이](billing-annual-monthly.md)
+
+- [주요 청구 및 세금 문서](billing.md)

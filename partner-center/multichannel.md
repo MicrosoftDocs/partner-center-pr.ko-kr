@@ -1,22 +1,23 @@
 ---
-title: 파트너 센터에서 다중 채널 옵션 사용
+title: 고객에 대 한 다중 채널 지원
 description: 경우에 따라 고객은 다른 곳에서 구매한 구독을 프로 비전 하 고 지원 하도록 고용 하고자 할 수 있습니다.
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362701"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795891"
 ---
-# <a name="multi-channel-support"></a>다중 채널 지원
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>다중 채널 지원-다른 파트너를 사용 하 여 다른 곳에서 구매한 고객 구독을 지원 합니다.
 
 **적용 대상**
 

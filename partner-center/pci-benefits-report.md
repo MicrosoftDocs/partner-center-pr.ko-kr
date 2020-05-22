@@ -1,26 +1,27 @@
 ---
-title: 파트너 센터 정보-혜택 보고서 | 파트너 센터
+title: 파트너 센터 Insights 혜택 보고서
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 비즈니스 성장에 도움이 되는 Microsoft 파트너 혜택의 유형을 확인 하 고 효율성을 높이고 팀의 능력을 개선 하세요.
+description: 비즈니스 성장에 도움이 되는 Microsoft 파트너 혜택의 유형을 확인 하 고 효율성을 높이고 팀의 능력을 향상 시킵니다.
 ms.assetid: ''
 keywords: PCI, 성능, 측정, 이점, 분석, 보고서
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226199"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795719"
 ---
-# <a name="benefits-report"></a>이점 보고서
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 혜택 보고서
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 관리 에이전트
 - 보고서 뷰어
@@ -71,7 +72,7 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
 
 ![Visual Studio 구독](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
-**기술적 이점**
+**기술 혜택**
 
 이 차트에서는 선택한 날짜 범위 동안 부여 된 지원 혜택의 월 추세를 보여 줍니다.
 
@@ -86,3 +87,7 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
 차트 맨 위의 드롭다운 목록에서 시장 출시 제품 또는 서비스 범주를 선택 하 여 회사에 부여 된 선택 된 출시 전 서비스의 추세를 확인 합니다. 차트의 열은 시장 출시 제안 또는 활성화 된 서비스를 나타냅니다. 꺾은선형 그래프는 회사에 부여 된 전체 시장 출시 제품 또는 서비스를 나타냅니다.
 
 ![시장 출시 제안](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>다음 단계
+
+- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.

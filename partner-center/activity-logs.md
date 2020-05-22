@@ -1,7 +1,7 @@
 ---
-title: 고객 활동 로그 보기 | 파트너 센터
+title: 고객 활동 로그를 사용 하 여 통찰력 얻기
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 활동 로그를 보거나 내보내 고객 계정 트랜잭션 및 기타 고객 관련 파트너 관리 활동에 대 한 통찰력을 얻는 방법에 대해 알아봅니다.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 활동 로그, 구독, 지불, 청구, 거래
 ms.localizationpriority: medium
-ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798661"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794972"
 ---
-# <a name="view-customer-activity-logs"></a>고객 활동 로그 보기
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기
 
 **적용 대상**
 
@@ -29,10 +30,10 @@ ms.locfileid: "82798661"
 
 - 글로벌 관리자
 - 청구 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 사용자 관리 담당자
+- 관리 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
 활동 로그는 거래에 대 한 정보 및 고객에 대 한 파트너 관리 작업을 제공 합니다. 트랜잭션에 대 한 로그는 구매한 구독을 포함 하 여 트랜잭션에 대 한 자세한 정보를 제공 합니다. 활동 로그를 Excel과 호환 되는 쉼표로 구분 된 값 파일 형식 (.csv)으로 내보낼 수도 있습니다.
 

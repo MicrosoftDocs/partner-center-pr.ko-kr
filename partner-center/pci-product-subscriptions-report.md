@@ -1,28 +1,28 @@
 ---
-title: 파트너 센터 정보-제품 구독 보고서 | 파트너 센터
+title: 파트너 센터 Insights 구독 보고서
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위해 판매 하거나 관리 하는 클라우드 구독과 관련 하 여 개선할 수 있는 위치를 확인 하세요.
 ms.assetid: ''
 keywords: PCI, 성능, 측정, 고객 성공, 클라우드 구독, 분석, 보고서
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648054"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795909"
 ---
-# <a name="product-subscriptions-report"></a>제품 구독 보고서
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 제품 구독 보고서
 
 **적절한 역할**
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
@@ -108,3 +108,7 @@ ms.locfileid: "75648054"
 
 > [!NOTE]
  > Sku 별로 중단 된 구독 수는 항상 해당 제품의 총 구독 수와 일치 하지 않을 수 있습니다. 이 문제는 고객이 동일한 제품 구독에서 여러 Sku를 구매한 경우에 발생할 수 있습니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
