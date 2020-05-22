@@ -1,46 +1,51 @@
 ---
-title: Marketplace "배타" 제안 | 파트너 센터
+title: Isv의 Marketplace 독점 제공
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV는 제공을 독점적으로 만들어 사용할 CSP 파트너를 선택할 수 있습니다.
+description: ISV (독립 소프트웨어 공급 업체)에서 특정 제품을 독점적이 고 특정 CSP 파트너만 사용할 수 있도록 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123261"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794846"
 ---
-# <a name="marketplace-exclusive-offers"></a><span data-ttu-id="69641-103">Marketplace 독점 제안</span><span class="sxs-lookup"><span data-stu-id="69641-103">Marketplace exclusive offers</span></span>
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a><span data-ttu-id="881ea-103">독립 소프트웨어 공급 업체의 Marketplace 독점 제공</span><span class="sxs-lookup"><span data-stu-id="881ea-103">Marketplace exclusive offers from Independent Software Vendors</span></span>
 
-<span data-ttu-id="69641-104">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="69641-104">**Appropriate roles**</span></span>
--    <span data-ttu-id="69641-105">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="69641-105">Global admin</span></span>
--    <span data-ttu-id="69641-106">사용자 관리자</span><span class="sxs-lookup"><span data-stu-id="69641-106">User admin</span></span>
--    <span data-ttu-id="69641-107">관리자 에이전트</span><span class="sxs-lookup"><span data-stu-id="69641-107">Admin agent</span></span>
--    <span data-ttu-id="69641-108">영업 에이전트</span><span class="sxs-lookup"><span data-stu-id="69641-108">Sales agent</span></span>
+<span data-ttu-id="881ea-104">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="881ea-104">**Appropriate roles**</span></span>
 
-<span data-ttu-id="69641-109">Isv는 선택 된 수의 CSP 파트너에 게 제품을 제공 하는 옵션을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="69641-109">ISVs have the option of making their offers available to a select number of CSP partners.</span></span> <span data-ttu-id="69641-110">모든 CSP 파트너는 파트너 센터 Marketplace의 모든 ISV 제품을 볼 수 있지만 단독으로 표시 된 제품은 ISV가 선택한 파트너만 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="69641-110">All CSP partners will still be able to view all ISV offers in the Partner Center Marketplace but offers marked Exclusive will only be able to be purchased by the partners who the ISV has selected.</span></span> <span data-ttu-id="69641-111">제품이 "배타"로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="69641-111">If an offer is not indicated as "Exclusive" all partners can purchase it.</span></span>
+- <span data-ttu-id="881ea-105">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="881ea-105">Global admin</span></span>
+- <span data-ttu-id="881ea-106">사용자 관리자</span><span class="sxs-lookup"><span data-stu-id="881ea-106">User admin</span></span>
+- <span data-ttu-id="881ea-107">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="881ea-107">Admin agent</span></span>
+- <span data-ttu-id="881ea-108">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="881ea-108">Sales agent</span></span>
 
-<span data-ttu-id="69641-112">Isv에 의해 식별 되는 CSP 파트너는 다음과 같은 작업을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="69641-112">CSP partners who are identified by ISVs can:</span></span>
+<span data-ttu-id="881ea-109">ISV (독립 소프트웨어 공급 업체)에는 특정 CSP 파트너 에게만 제공 되는 독점적인 제품을 만들 수 있는 옵션이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-109">An Independent Software Vendor (ISV) has the option to make exclusive offers that are only available to certain CSP partners.</span></span>
 
-- <span data-ttu-id="69641-113">파트너 센터 marketplace를 통한 독점 제품 구매</span><span class="sxs-lookup"><span data-stu-id="69641-113">Purchase exclusive offers through Partner Center marketplace</span></span>
-- <span data-ttu-id="69641-114">가격 목록 내보내기</span><span class="sxs-lookup"><span data-stu-id="69641-114">Export price list</span></span>
+<span data-ttu-id="881ea-110">CSP 파트너는 파트너 센터 상업적 marketplace의 모든 ISV 제품을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-110">CSP partners can view all ISV offers in the Partner Center commercial marketplace.</span></span> <span data-ttu-id="881ea-111">그러나 **단독**으로 표시 된 제품은 ISV에서 선택한 특정 파트너만 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-111">Offers marked **Exclusive**, however, can only be purchased by specific partners selected by the ISV.</span></span> <span data-ttu-id="881ea-112">제품이 **단독**으로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-112">If an offer is not marked **Exclusive**, all partners can purchase it.</span></span>
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="69641-115">배타적 제공에 대 한 액세스 권한을 얻으려면 어떻게 하나요?</span><span class="sxs-lookup"><span data-stu-id="69641-115">How do you gain access to exclusive offers?</span></span>
+<span data-ttu-id="881ea-113">ISV에서 식별 하는 특정 CSP 파트너는 다음과 같은 작업을 수행할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-113">Specific CSP partners identified by an ISV can:</span></span>
 
-<span data-ttu-id="69641-116">ISV는 Marketplace에서 제품을 게시할 때 구매할 수 있는 사용자를 지정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="69641-116">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span> 
+- <span data-ttu-id="881ea-114">파트너 센터 상업적 marketplace를 통해 해당 ISV에서 독점 제품 구매</span><span class="sxs-lookup"><span data-stu-id="881ea-114">Purchase exclusive offers from that ISV through the Partner Center commercial marketplace</span></span>
+- <span data-ttu-id="881ea-115">가격 목록 내보내기</span><span class="sxs-lookup"><span data-stu-id="881ea-115">Export price list</span></span>
 
-<span data-ttu-id="69641-117">해당 옵션은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="69641-117">Their options are:</span></span>
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="881ea-116">배타적 제공에 대 한 액세스 권한을 얻으려면 어떻게 하나요?</span><span class="sxs-lookup"><span data-stu-id="881ea-116">How do you gain access to exclusive offers?</span></span>
 
-- <span data-ttu-id="69641-118">모든 CSP 파트너가 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="69641-118">All CSP partners can purchase</span></span>
-- <span data-ttu-id="69641-119">구입할 수 있는 파트너 결정</span><span class="sxs-lookup"><span data-stu-id="69641-119">Determine which partners can purchase</span></span>
-- <span data-ttu-id="69641-120">CSP 파트너는 사용할 수 없음</span><span class="sxs-lookup"><span data-stu-id="69641-120">Not available to CSP partners</span></span>
+<span data-ttu-id="881ea-117">ISV는 Marketplace에서 제품을 게시할 때 구매할 수 있는 사용자를 지정할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-117">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span>
 
-<span data-ttu-id="69641-121">Marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="69641-121">To learn more about the ISV experience in Marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).</span></span>
+<span data-ttu-id="881ea-118">해당 옵션은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-118">Their options are:</span></span>
 
-<span data-ttu-id="69641-122">Marketplace에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="69641-122">For more information on the Marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
+- <span data-ttu-id="881ea-119">모든 CSP 파트너가 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="881ea-119">All CSP partners can purchase</span></span>
+- <span data-ttu-id="881ea-120">구입할 수 있는 파트너 결정</span><span class="sxs-lookup"><span data-stu-id="881ea-120">Determine which partners can purchase</span></span>
+- <span data-ttu-id="881ea-121">CSP 파트너는 사용할 수 없음</span><span class="sxs-lookup"><span data-stu-id="881ea-121">Not available to CSP partners</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="881ea-122">다음 단계</span><span class="sxs-lookup"><span data-stu-id="881ea-122">Next steps</span></span>
+
+- <span data-ttu-id="881ea-123">상업적 marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="881ea-123">To learn more about the ISV experience in the commercial marketplace, read [Cloud Solution Providers](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).</span></span>
+
+- <span data-ttu-id="881ea-124">상업적 marketplace에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="881ea-124">For more information on the commercial marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
