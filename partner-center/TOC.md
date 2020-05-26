@@ -83,6 +83,9 @@
 ### [비즈니스 프로필 관리](create-a-marketing-profile.md)
 ### [잠재 고객 관리](manage-leads.md)
 ### [공동 판매 기회 관리](manage-co-sell-opportunities.md)
+### [Dynamics 365 CRM용 공동 판매 커넥터](dynamics-connector.md)
+### [Salesforce CRM용 공동 판매 커넥터](salesforce-connector.md)
+### [Webhook API를 사용하여 추천에 리소스 변경 이벤트 등록](referral-connector-webhooks.md)
 ### [거래 등록](register-deals.md)
 ### [추천 인사이트 얻기](referral-insights.md)
 ### [비즈니스 프로필 분석](analyze-your-marketing-profile.md)
@@ -123,7 +126,7 @@
 ## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
 
-# [CSP 혜택](csp-offers.md) 
+# [CSP 혜택](csp-offers.md)
 ## 상용 마켓플레이스
 ### [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)
 ### [마켓플레이스 제품 검색](csp-commercial-marketplace-discover.md)
