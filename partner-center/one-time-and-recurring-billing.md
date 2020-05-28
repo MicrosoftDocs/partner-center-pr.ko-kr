@@ -1,33 +1,35 @@
 ---
-title: 일회성 요금 청구 및 선택 반복 요금 | 파트너 센터
+title: 청구-일회성 & 선택 반복 요금
 ms.topic: article
-ms.date: 11/21/2019
-Description: 미리 설정 된 용어에 대 한 일회성 청구 정보 (월별 및 연간 구독) 및 파트너 센터의 선택 되풀이 요금 (해당 Microsoft 및 타사 ISV 제품의 경우)에 대 한 청구
+ms.date: 05/26/2020
+Description: 파트너 센터 대금 청구에 대 한 자세한 내용은 사전 설정 된 용어에 대 한 일회성 청구 및 선택, 반복 요금 청구에 대해 미리 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 일회성, 되풀이, 구매, 요금, isv
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798781"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998429"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>일회성 요금 및 선택적 반복 요금 청구
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>파트너 센터에서 일회성 청구 및 선택 되풀이 요금 청구
+
 
 **적용 대상**
 - 파트너 센터
 - CSP 프로그램의 파트너
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   청구 관리자
--   관리 에이전트
--   영업 상담원
+- 글로벌 관리자
+- 사용자 관리자
+- 청구 관리자
+- 관리 에이전트
+- 영업 상담원
 
-이 항목에서는 한 번의 청구 환경에 대해 설명 하 고 Microsoft 및 타사 ISV (독립 소프트웨어 공급 업체) 제품에 대 한 **되풀이 요금을 선택** 합니다. 
+이 문서에서는 Microsoft 및 타사 ISV (독립 소프트웨어 공급 업체) 제품에 대 한 정기 요금 청구 환경을 설명 **하 고 요금을 선택** 합니다. 
 
 **일회성 청구** 는 미리 설정 된 용어에 대해 미리 소프트웨어 구독과 Azure 예약을 구매 하는 경우입니다. 1 년 또는 3 년 조건으로 구매할 수 있습니다. 그런 다음, 일회성 총액의 전체 비용에 대해 요금이 청구 됩니다.
 
@@ -41,7 +43,7 @@ ms.locfileid: "82798781"
 > [!IMPORTANT]
 > [**라이선스 기반 구독**](license-based-billing.md) 및 [**사용 빈도 기반 구독의**](usage-based-billing.md) 되풀이 요금 청구 환경은 동일 하 게 유지 됩니다.
 
-[**온라인 서비스 카탈로그**](https://partner.microsoft.com/commerce/preferredoffers/list)의 모든 제품에 대 한 구독 ( **라이선스 기반 및 사용 빈도 기반 구독**포함)의 **반복 요금은** 발급 됩니다. 몇 가지 예로 Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (종 량 제), Dynamics 365, PowerBI Pro 등이 있습니다.
+[**온라인 서비스 카탈로그**](https://partner.microsoft.com/commerce/preferredoffers/list)의 모든 제품에 대 한 구독 ( **라이선스 기반 및 사용 빈도 기반 구독**포함)의 **반복 요금은** 발급 됩니다. 몇 가지 예로는 Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (종 량 제), Dynamics 365 및 Power BI Pro가 있습니다.
 
 해당 구독 요금에 대해 **청구 날짜** 는 파트너 센터 계정을 만들 때 선택한 날짜입니다. 청구 **기간은** 청구 날짜 이전 월입니다.
 

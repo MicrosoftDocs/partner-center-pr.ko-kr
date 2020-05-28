@@ -1,34 +1,37 @@
 ---
-title: 미국 정부에 대 한 Microsoft 클라우드 파트너 센터 | 미국 정부에 대 한 파트너 센터 Microsoft 클라우드
+title: Microsoft Cloud for US Government 파트너 센터
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 미국 정부에 대 한 파트너 Microsoft 클라우드 센터는 미국 내 정부 기관으로 작업 하는 고객에 게 Microsoft 클라우드 솔루션을 제공 하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
+description: 이 파트너 센터 사이트는 미국의 정부 기관으로 작업 하는 고객에 게 Microsoft 클라우드 솔루션을 제공 하는 Microsoft 파트너를 위한 것입니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798751"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998329"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 파트너 센터
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>미국 정부의 Microsoft 클라우드 파트너 센터는 정부 기관에 대 한 파트너 제품을 지원 합니다.
 
 **적용 대상**
 
--  Microsoft Cloud for US Government 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   관리 에이전트
--   영업 상담원
--   청구 관리자
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>미국 정부에 대 한 Microsoft 클라우드: 데이터 보호 요구 사항 충족 
+- 글로벌 관리자
+- 사용자 관리자
+- 관리 에이전트
+- 영업 상담원
+- 청구 관리자
+
+
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>미국 정부에 대 한 Microsoft 클라우드: 데이터 보호 요구 사항 충족
 
 미국 정부를 위해 처음부터 미국 정부를 위해 설계 된 Microsoft 클라우드 미국 연방, 주, 지방 또는 부족 엔터티를 사용 하 여 다양 한 Microsoft 클라우드 컴퓨팅 서비스에서 선택할 수 있습니다. 공공 부문 고객의 특정 요구를 가장 잘 해결 하기 위해 Microsoft는 데이터 센터에 상당한 투자를 했으며 미국 연방 및 주 정책, 요구 사항 및 요구 사항에 따라 데이터 보호 규정 준수를 전담 합니다. 미국 정부에 대 한 Microsoft 클라우드 파트너 센터에서 파트너는 Microsoft 클라우드 서비스를 이러한 고객에 게 재판매 수 있습니다.
 
@@ -58,9 +61,9 @@ ms.locfileid: "82798751"
 
 다음 파트너 센터 작업은 미국 정부에 대 한 Microsoft 클라우드 Azure 관리 포털을 사용 하 여 관리 됩니다. 
 
--   파트너 사용자 관리
--   고객 사용자 및 라이선스 관리
--   사용자 암호 다시 설정
+- 파트너 사용자 관리
+- 고객 사용자 및 라이선스 관리
+- 사용자 암호 다시 설정
 
 사용자 및 라이선스 관리에 대 한 자세한 내용은 [미국 정부에 대 한 Microsoft 클라우드 파트너 센터의 사용자 및 라이선스 관리](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)를 참조 하세요.
 
