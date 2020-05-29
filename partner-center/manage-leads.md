@@ -1,23 +1,23 @@
 ---
-title: 잠재 고객 관리
+title: 잠재 고객 관리 | 파트너 센터
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터를 사용 하 여 조회에 응답 하 고 새로운, 기존 및 보관 된 잠재 고객 및 조회를 관리 합니다. 나중에 더 많은 조회를 가져오는 방법도 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+description: 조회에 응답 하 고, 새, 기존 및 보관 된 조회를 관리 하 고, 나중에 더 많은 조회를 가져오는 방법에 대해 알아봅니다.
+author: vikramb
+ms.author: vikramb
 keywords: 조회, 공동 판매, 거래
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796021"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145067"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>고객 문의, 마케팅에 한정 된 잠재 고객 및 판매 한정 잠재 고객과 같은 다양 한 잠재 고객 관리
+# <a name="manage-leads"></a>잠재 고객 관리
 
 **적용 대상**
 
@@ -87,8 +87,19 @@ Microsoft는 연간 수백만 명의 잠재 고객을 파트너에 게 보냅니
 더 적절 한 조회를 얻는 데 도움이 되는 몇 가지 팁은 다음과 같습니다.
 
 - [비즈니스 프로필](https://docs.microsoft.com/partner-center/create-a-marketing-profile)에서 **귀사의 고유한 전문 지식과 비즈니스 모델을 잘 나타내는 키워드 및 기본 설정을 선택합니다**. 관심이 없는 조회를 생성 하는 키워드를 제거 합니다. 특정 크기의 비즈니스를 처리 하는 데 관심이 없으면이 기본 설정을 업데이트 하세요.
-- ** [비즈니스 프로필](https://docs.microsoft.com/partner-center/create-a-marketing-profile) 에서 각 위치에 대 한 연락처 정보를 검토** 하 여 팀에서 들어오는 경고를 받았는지 확인 합니다.
+
+- ** [비즈니스 프로필](https://docs.microsoft.com/partner-center/create-a-marketing-profile) 에서 각 위치에 대 한 연락처 정보를 검토 합니다** . 팀에서 들어오는 경고를 받았는지 확인 합니다.
+
 - **조회에 신속 하 게 응답** 들어오는 요청에 시기 적절 하 게 응답 하는 경우 향후 고객 검색 결과에서 가시성을 증가 시킵니다. 팀이 귀사의 의도를 반영하여 신속하게 응답하도록 합니다.
-- **거래를 신중하게 수락합니다**. 사용자가 동의 하 고 거부 하는 거래 유형을 모니터링 하 고이 정보를 사용 하 여 비슷한 거래를 찾는 데 도움을 드립니다. 잘 맞지 않는 거래를 수락 해도 검색 결과가 개선 되지 않으며 수신 하는 잠재 고객의 품질에 영향을 줄 수 있습니다.
+
+- **수락한 거래로 choosy** 사용자가 동의 하 고 거부 하는 거래 유형을 모니터링 하 고이 정보를 사용 하 여 비슷한 거래를 찾는 데 도움을 드립니다. 잘 맞지 않는 거래를 수락 해도 검색 결과가 개선 되지 않으며 수신 하는 잠재 고객의 품질에 영향을 줄 수 있습니다.
+
 - **예상 거래 규모, 완료 날짜, 최종 거래 상태(성공 또는 실패)를 보고합니다**. 이 정보를 사용 하 여 계속 해 서 품질 조회를 제공할 예정입니다.
 
+## <a name="next-steps"></a>다음 단계
+
+- [공동 판매 기회 관리](manage-co-sell-opportunities.md)
+
+- [Dynamics 365 CRM 용 공동 판매 커넥터 가져오기](connector-dynamics.md)
+
+- [Salesforce CRM 용 공동 판매 커넥터 가져오기](connector-salesforce.md)
