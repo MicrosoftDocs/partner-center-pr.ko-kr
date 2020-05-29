@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 관리 | 파트너 센터
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 회사의 프로필, 카탈로그, 은행 및 세금 정보, 역할, 권한 등을 관리합니다.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859376"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795682"
 ---
 # <a name="manage-your-partner-center-account"></a>파트너 센터 계정 관리
 
@@ -67,7 +67,15 @@ ms.locfileid: "82859376"
 |Office 스토어|Developer|
 |Edge 확장|Developer|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>파트너 및 개발자 설정 옵션의 차이점
+## <a name="partner-and-developer-settings-options"></a>파트너 및 개발자 설정 옵션
+
+### <a name="locate-your-mpn-id"></a>MPN ID 찾기
+
+파트너이든 개발자이든 관계 없이 지원 티켓을 기록하는 것과 같은 작업에 MPN ID를 사용해야 합니다. 개발자의 경우 MPN ID는 **계정 설정** 세부 정보 페이지에 있습니다.
+
+![MPN ID 위치](images/accountsettings/devmpnlocation.png)
+
+파트너 MPN ID는 **파트너 프로필** 페이지에 있습니다.
 
 **파트너 설정** 옵션은 **개발자 설정** 옵션과 다릅니다. 각 옵션 집합의 샘플 스크린샷은 아래를 참조하세요. 다른 프로그램에 대한 액세스 권한이 있는 경우 여기에 표시된 스크린샷 샘플과 다른 옵션도 표시될 수 있습니다.
 
@@ -78,6 +86,7 @@ ms.locfileid: "82859376"
 **개발자 설정 옵션**:
 
 ![개발자 옵션](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>프로그램에서 등록
 

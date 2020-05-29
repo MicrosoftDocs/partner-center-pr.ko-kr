@@ -1,7 +1,7 @@
 ---
-title: 혜택 제품 구입 또는 갱신 | 파트너 센터
+title: Microsoft Action Pack 제품 구입 또는 갱신
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack 구독을 구매하고 Action Pack 혜택을 사용하는 방법을 알아보세요. 또한 청구서를 갱신, 취소, 보는 방법도 알아보세요.
@@ -9,28 +9,31 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: action pack, MAPS, MAPS 갱신, action pack 갱신, action pack 얻기
 ms.localizationpriority: high
-ms.openlocfilehash: 2d7bd216788c9d181862a7fa24f12df815b31de2
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798851"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795960"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버/골드 역량을 처음으로 구입 또는 갱신
+# <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버 및 골드 역량 구입 또는 갱신
 
 **적용 대상**
 
--  파트너 센터
--  Partner Membership Center
+- 파트너 센터
+- Partner Membership Center
+- MPN 프로그램 파트너
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   MPN 파트너 관리자
--   관리자 에이전트
--   영업 에이전트
 
-이제 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에서 Microsoft Action Pack 구독과 실버 및 골드 역량을 비롯한 혜택 제품을 구입하거나 갱신할 수 있습니다. 
+- 글로벌 관리자
+- 사용자 관리자
+- MPN 파트너 관리자
+- 관리 에이전트
+- 영업 상담원
+
+이제 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에서 Microsoft 파트너 네트워크(MPN)의 구성원이 혜택 제품을 구매하거나 갱신할 수 있습니다. 이러한 제품에는 Microsoft Action Pack 구독과 실버 및 골드 역량이 포함됩니다.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>처음으로 Microsoft Action Pack 구입
 

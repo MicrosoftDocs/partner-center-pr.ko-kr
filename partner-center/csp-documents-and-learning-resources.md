@@ -1,28 +1,29 @@
 ---
-title: CSP 계약, 가격표 및 제품 | 파트너 센터
+title: CSP 계약, 가격표 및 제품
 ms.topic: article
-ms.date: 02/03/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 이 문서에서 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크에 대한 링크를 찾습니다.
+description: 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크에 대한 링크를 찾습니다.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: LauraBrenner
 ms.author: labrenne
 keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: high
-ms.openlocfilehash: 8e3b5c7a8718de446c3d09daa735f425d627648c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 25b703b5235410bce36d5a54b4b37ccf4621bb90
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798481"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795604"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 
 이 문서의 정보를 검토하여 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 참여하기 위한 요구 사항을 이해하세요.
@@ -59,7 +60,7 @@ ms.locfileid: "82798481"
 
 [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>가격 책정
+## <a name="pricing"></a>가격
 
 **파트너 센터** 메뉴에 제공되는 **가격 책정 및 제품** 페이지에서 라이선스 기준, 사용량 기준 및 일회성 구매에 대한 가격 책정 세부 정보를 다운로드합니다.
 

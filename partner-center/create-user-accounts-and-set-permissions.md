@@ -1,29 +1,30 @@
 ---
-title: 사용자 계정 만들기 및 권한 설정 | 파트너 센터
+title: 사용자 계정 만들기 및 역할 할당
+description: 파트너 센터에 액세스하기 전에 모든 직원에게 역할을 할당해야 합니다. 사용자 계정을 만들고, 역할을 할당하고, 사용 권한을 설정하는 방법에 대해 알아봅니다.
 ms.topic: article
-ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 액세스 권한이 필요한 각 직원에 대해 파트너 센터에서 사용자 계정을 만들고 역할을 할당하는 방법을 알아봅니다. 다른 관리자 권한을 가진 사용자가 이 작업을 수행할 수 있습니다.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: 역할, 사용 권한, 사용자 추가, 역할 할당, 관리자, 에이전트,
 ms.localizationpriority: high
-ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 02/26/2020
+ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798491"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394202"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>사용자 계정 만들기 및 사용 권한 할당
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>사용자 계정 만들기 및 역할과 사용 권한 할당
 
 **적절한 역할**
 
 - 계정 관리자
-- 전역 관리자
-- 사용자 관리 관리자
+- 글로벌 관리자
+- 사용자 관리 담당자
 
 파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 글로벌 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
 
@@ -71,14 +72,14 @@ ms.locfileid: "82798491"
 
 
 **AAD 테넌트 역할에는 다음이 포함됩니다**.
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 
 **CSP 역할에는 다음이 포함됩니다**.
-- 관리자 에이전트
+- 관리 에이전트
 - 청구 관리자
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
 **MPN 멤버십과 회사를 관리하는 역할(비 AAD)**
 - MPN 파트너 관리자
@@ -88,7 +89,7 @@ ms.locfileid: "82798491"
 - 인센티브 관리자 및 사용자
 
 **제어판 공급업체는 CSP 및 비 AAD 역할입니다**.
-- 전역 관리자
+- 글로벌 관리자
 
 **게스트 사용자**은 AAD 테넌트의 일부여야 하며 모든 비 AAD 역할을 가질 수 있습니다.
 
@@ -103,10 +104,3 @@ ms.locfileid: "82798491"
 1. 파트너 센터 대시보드에서, 대시보드 오른쪽 모서리에 있는 **계정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다.
 
 2. **학습** 아래에서 Microsoft Learning 계정을 연결할 수 있으며, 또한 Microsoft 계정을 파트너 대학에 연결할 수 있습니다.
-
-
-
-
-
-
-

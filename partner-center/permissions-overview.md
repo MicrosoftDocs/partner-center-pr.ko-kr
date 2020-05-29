@@ -1,27 +1,29 @@
 ---
-title: 사용자 역할 및 권한 할당 | 파트너 센터
+title: 사용자에게 역할 및 사용 권한 할당
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 상업 거래, 조회, 인센티브 또는 회사의 MPN 멤버십을 관리하는 사용자에게 가장 적합한 역할에 대해 알아보세요.
+description: 파트너 센터에서 상업 거래, 조회, 인센티브 또는 MPN 멤버십을 관리하는 회사 사용자에게 가장 적합한 역할에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 역할, 권한, 관리자, 에이전트
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296393"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795879"
 ---
-# <a name="assign-users-roles-and-permissions"></a>사용자 역할 및 권한 할당
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
 **적절한 역할**
--    글로벌 관리자
--    사용자 관리자
--    MPN 파트너 관리자
+
+- 글로벌 관리자
+- 사용자 관리자
+- MPN 파트너 관리자
 
 법적 이름과 주소, 지원 세부 정보, 면세 정보, 은행 정보, 회사의 기본 연락처를 비롯한 파트너 프로필을 설정했습니다. 다음 단계: 사용자가 파트너 센터에서 작업을 시작할 수 있도록 암호와 역할을 사용하여 사용자를 설정합니다.
 

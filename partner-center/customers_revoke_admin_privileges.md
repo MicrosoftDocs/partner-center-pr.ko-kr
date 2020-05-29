@@ -1,22 +1,23 @@
 ---
-title: 고객이 파트너에게 관리 권한을 위임하는 경우 | 파트너 센터
+title: 고객의 관리자 권한 얻기
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 관리자 권한을 재판매인에게 위임해 달라고 고객에게 요청하는 방법 또는 동일한 권한을 제거하고 권한을 사용하는 방법을 알아봅니다.
+description: 고객의 서비스 또는 구독을 대신 관리하는 데 필요한 권한을 얻습니다. 권한 부여, 해지 및 관리 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: 위임된 관리자 권한, 대신 관리, 권한 제거, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340061"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394176"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>고객이 파트너에게 관리 권한을 위임하는 경우
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
 
 **적용 대상**
 

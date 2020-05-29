@@ -1,21 +1,22 @@
 ---
-title: 비즈니스 프로필 만들기 | 파트너 센터
+title: 판매 잠재 고객 확보하기 - 비즈니스 프로필 만들기
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft에서 판매 잠재 고객을 얻는 방법에 대해 알아보세요. 한 가지 중요한 단계는 파트너 센터에서 비즈니스 프로필을 만들어 고객이 찾을 수 있도록 하는 것입니다.
+description: Microsoft에서 판매 잠재 고객을 확보하는 방법에 대해 알아봅니다. 핵심은 파트너 센터에서 비즈니스 프로필을 만들어 고객이 귀하를 쉽게 찾을 수 있도록 하는 것입니다.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722527"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795581"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>비즈니스 프로필을 만들어 Microsoft 판매 잠재 고객을 확보하고 고객이 귀하를 찾을 수 있도록 하세요.
 
 **적용 대상**
 
@@ -148,5 +149,6 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 - Microsoft를 통해 **역량 태그를 획득하여** Microsoft 제품에 대한 숙련도를 보여줍니다.
 - 협력에 만족한 고객으로부터 **보증 태그를 획득합니다**.
 
-## <a name="related-topics"></a>관련 항목
+## <a name="next-steps"></a>다음 단계
+
 [추천에 응답](responding-to-referrals.md)

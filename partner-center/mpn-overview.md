@@ -1,23 +1,23 @@
 ---
-title: Microsoft 파트너 네트워크 멤버십
+title: Microsoft 파트너 네트워크 멤버십 혜택
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 비즈니스를 차별화하고 시장에 진출하며 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함하여 Microsoft와 파트너 혜택에 대해 알아보세요.
+description: 시장에 진출하여 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함한 Microsoft와 파트너 혜택에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 파트너, 파트너십, MPN, Microsoft 파트너 네트워크, Action Pack, MAPS, Action Pack 구독, 혜택, MPN 혜택, 멤버십, 실버, 골드, 역량
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362741"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795957"
 ---
-# <a name="partner-with-microsoft"></a>Microsoft와 파트너 되기
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Microsoft와 파트너 되기 - 혜택, 고객 지원 방법 및 비즈니스 성장을 촉진하는 방법 알아보기
 
 **적절한 역할**
 

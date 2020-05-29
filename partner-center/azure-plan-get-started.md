@@ -1,23 +1,23 @@
 ---
-title: Azure 플랜으로 이동 - 시작| 파트너 센터
+title: Azure 요금제로 이동 시작
+description: 첫 번째 단계, 보안 예방 조치 및 시작 방법을 포함한 Azure 종량제 요금제를 사용하여 귀하와 고객이 알아야 하는 사항에 대해 알아봅니다.
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객을 위한 종량제 요금으로 Azure 서비스를 구입하는 Azure 플랜 상거래 환경에 대해 알아봅니다. 새 보안 요구 사항에 대해서도 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure, Azure 플랜, 구독 구입, 구독
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681940"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394185"
 ---
-# <a name="move-to-azure-plan---get-started"></a>Azure 플랜으로 이동 - 시작
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure 요금제로 종량제 요금 사용 시작
 
 Microsoft는 새로운 상거래 환경을 파트너 센터에 도입했습니다.  이 새로운 상거래 환경을 통해 파트너는 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다.
 
@@ -62,6 +62,8 @@ Microsoft에서는 파트너와 고객을 보호하기 위해 클라우드 솔�
 - [파트너 획득 크레딧 - 개요](partner-earned-credit.md)
 
 - PEC(파트너 획득 크레딧) 계산과 파트너 획득 크레딧을 얻기 위해 필요한 역할 및 권한은 파트너 센터 대시보드 가격표에서 확인할 수 있습니다(로그인 필요).
+
+## <a name="next-steps"></a>다음 단계 
 
 - [파트너 획득 크레딧을 확인하는 방법 - 세부 정보](partner-earned-credit-explanation.md)
 - [Azure 플랜 가격표 설명](azure-plan-price-list.md)

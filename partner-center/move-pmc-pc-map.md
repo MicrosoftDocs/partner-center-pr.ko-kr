@@ -1,25 +1,26 @@
 ---
-title: PMC에서 파트너 센터로 이동 | 파트너 센터
+title: PMC에서 파트너 센터로 이동
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 갱신, 계정 구조, 로그인, 사용자 역할, 역량 등과 관련하여 PMC와 파트너 센터의 차이점과 비슷한 점을 알아봅니다.
+description: 갱신, 계정 구조, 로그인, 사용자 역할, 역량 등과 관련하여 PMC와 파트너 센터의 차이점을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
-ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123314"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795751"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동
+# <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동
 
 **적절한 역할**
--    전역 관리자
+-    글로벌 관리자
 
 Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트너 센터)를 도입하여 보다 쉽게 비즈니스를 수행할 수 있도록 합니다. PMC(Partner Membership Center)에서 수행한 모든 작업을 파트너 센터의 대시보드에서 수행할 수 있습니다. 
 
@@ -39,7 +40,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 |----------------------|:-----------------------------|
 |본사 및 위치 - 각각 별도로 평가됩니다. 역량 평가가 로컬 수준에서 수행됨|위치를 포함하여 하나의 글로벌 회사인 PGA(Partner Global Account)가 전체로 평가됨, 성능 및 기술 데이터가 PGA 수준에서 집계됨, 추천 및 마케팅을 위해 파트너 프로필 및 비즈니스 프로필과 같은 프로그램에 대한 여러 가지 프로필 보기 포함, 자세한 내용은 [파트너 센터의 계정 구조](account-structure.md)를 참조하세요.|
 
-## <a name="sign-in"></a>로그인
+## <a name="sign-in"></a>무료 RMS 계정을 얻으려면
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
@@ -82,7 +83,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|PDD  |장점|
+|PDD  |이점|
 |CHIP, ICP, PIE | 인센티브|
 ||조회|
 |파트너 인사이트| 분석|

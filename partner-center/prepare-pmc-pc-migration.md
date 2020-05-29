@@ -1,27 +1,27 @@
 ---
-title: Partner Membership Center에서 파트너 센터로 이동 준비 | 파트너 센터
+title: Partner Membership Center에서 이동
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 비즈니스를 PMC에서 파트너 센터로 이동하기 전에 유용한 정보와 FAQ를 검토하세요.
+description: 비즈니스를 Partner Membership Center에서 파트너 센터로 이동하기 전에 유용한 정보와 FAQ를 검토하세요.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859349"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795842"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
 **적절한 역할**
--    글로벌 관리자
--    사용자 관리자
--    영업 상담원
--    관리 에이전트
+- 글로벌 관리자
+- 사용자 관리자
+- 영업 상담원
+- 관리 에이전트
 
 멤버십 관리를 PMC(파트너 구성원 센터)에서 파트너 센터(Microsoft와의 비즈니스 관계를 관리하는 단일 대상)로 이전할 예정입니다. 파트너가 쉽고 효율적으로 파트너 센터로 이전할 수 있도록 도와드리고자 합니다. 저희는 파트너 센터가 PMC와 다른 몇 가지 부분을 확인했으며, 파트너 센터로 이전하기 전에 이러한 부분을 이해하고 미리 대비한다면 도움이 될 것이라 생각합니다.
 

@@ -1,26 +1,27 @@
 ---
-title: 파트너 센터 계정 만들기 | 파트너 센터
+title: 파트너 센터 계정 만들기
 ms.topic: article
-ms.date: 02/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft 파트너 네트워크 구성원은 네트워크 혜택 및 역량을 관리하고 비즈니스 프로필을 만들기 위해 파트너 센터 계정을 만들어야 합니다.
+description: Microsoft 파트너 네트워크 구성원이 비즈니스 프로필과 파트너 센터 계정을 만들어 네트워크 혜택 및 역량을 관리하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: fce9dd9d4d32dfa39d82d17f9758228a8781837f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798861"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795728"
 ---
-# <a name="create-a-partner-center-account"></a>파트너 센터 계정 만들기
+# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>비즈니스 프로필과 파트너 센터 계정을 만들어 네트워크 혜택 및 역량 관리
 
 **적절한 역할**
 
-- 전역 관리자
-- 관리자 에이전트
+- 글로벌 관리자
+- 관리 에이전트
 
 파트너 센터에서 계정을 만들거나 파트너 프로그램에 등록하려면 귀사가 Microsoft 파트너 네트워크의 구성원이어야 합니다. 네트워크 구성원이 아닌 경우 [지금 가입](https://partner.microsoft.com/commercial#)할 수 있습니다. 파트너 센터 계정을 만든 후 [대시보드 검색](https://vimeo.com/290338211)이라는 짧은 비디오를 시청하세요.
 

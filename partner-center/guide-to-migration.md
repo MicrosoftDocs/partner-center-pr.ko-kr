@@ -1,7 +1,7 @@
 ---
-title: PMC에서 파트너 센터로 마이그레이션에 대한 가이드
+title: PMC에서 파트너 센터로 마이그레이션
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사를 PMC(Partner Membership Center)에서 파트너 센터로 마이그레이션하는 방법에 대해 알아봅니다.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362401"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795837"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
@@ -48,7 +49,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 ## <a name="start-with-your-work-email"></a>업무용 메일로 시작
 
-회사에 업무용 메일과 AAD 테넌트가 없는 경우 파트너 센터 로그인 프로세스 중 업무용 메일과 AAD 테넌트를 설정하도록 도와드릴 수 있습니다. 개인 계정과 같은 업무용 메일이 아닌 이메일 계정으로 로그인하려고 하면 AAD 테넌트와 업무용 메일을 설정할 수 있게 회사에 대한 정보를 제공하라는 메시지가 나타납니다. 이러한 회사 정보는 파트너 센터에서 계정 등록을 마무리하는 데 사용되므로 정보가 정확한지 확인합니다.
+회사에 업무용 이메일과 AAD 테넌트가 없는 경우 파트너 센터 로그인 프로세스 중 업무용 이메일과 AAD 테넌트를 설정하도록 도와드릴 수 있습니다. 개인 계정과 같은 업무용 메일이 아닌 이메일 계정으로 로그인하려고 하면 AAD 테넌트와 업무용 메일을 설정할 수 있게 회사에 대한 정보를 제공하라는 메시지가 나타납니다. 이러한 회사 정보는 파트너 센터에서 계정 등록을 마무리하는 데 사용되므로 정보가 정확한지 확인합니다.
 
 >[!Note]
 >중국의 파트너이며 Microsoft 파트너 네트워크와 CSP(클라우드 솔루션 공급자) 프로그램 모두에 등록되어 있는 경우 각 계정에 대해 별도의 테넌트가 제공됩니다. 클라우드 솔루션 공급자 프로그램 계정은 국가 클라우드에서 관리되고 Microsoft 파트너 네트워크 계정은 글로벌 클라우드에서 관리됩니다. 두 계정을 연결할 수 없습니다.
@@ -57,7 +58,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 정보를 확인하거나 업데이트한 후 **동의 후 계속**을 선택합니다.
 이 페이지의 계약조건은 회사가 PMC에서 이미 서명한 계약과 **똑같습니다**.  
-그러면 Azure AD 테넌트의 생성이 시작되고 회사 계정이 제공됩니다.
+이 단계는 Azure AD 테넌트의 생성을 시작하고 회사 계정이 제공됩니다.
 
 **동의 후 계속**을 선택하면 다음 작업도 수행됩니다.
 
