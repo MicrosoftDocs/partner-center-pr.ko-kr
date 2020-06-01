@@ -1,22 +1,21 @@
 ---
-title: 클라우드 솔루션 공급자 프로그램에 등록
+title: 클라우드 솔루션 공급자 프로그램에 등록 | 파트너 센터
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 간접 재판매인 또는 직접 청구 파트너와 같이 비즈니스에 가장 적합한 CSP(클라우드 솔루션 공급자) 프로그램 판매 모델에 등록하는 방법에 대해 알아봅니다.
+description: CSP(클라우드 솔루션 공급자) 프로그램에서 판매하기 위한 다양한 모델을 파악하고 비즈니스에 가장 잘 맞는 모델을 결정합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795158"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253930"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>클라우드 솔루션 공급자 프로그램에 등록하고 수익성 있는 클라우드 솔루션 비즈니스 빌드하기
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
 **적용 대상**
 
@@ -42,7 +41,7 @@ CSP 신청을 완료하려면 회사의 MPN ID가 필요하며, 근무지 주소
 3. 정보 확인이 완료되면 Microsoft 간접 재판매인 계약조건에 동의합니다.
 
 > [!IMPORTANT]  
-> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
 
 ## <a name="enroll-as-an-indirect-reseller"></a>간접 재판매인으로 등록
 
