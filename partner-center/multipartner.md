@@ -1,7 +1,7 @@
 ---
-title: 다중 파트너 지원
+title: 다중 파트너 지원 | 파트너 센터
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 03/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객은 다양 한 서비스를 전문으로 하는 클라우드 솔루션 공급자 프로그램에서 여러 파트너와 작업 하는 것이 좋습니다.
@@ -9,15 +9,14 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 05a431a43aac1624c529df8a92c5a773793bf5a8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795902"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253960"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>둘 이상의 파트너와 함께 작업 하려는 고객에 대 한 다중 파트너 지원
+# <a name="multi-partner-support"></a>다중 파트너 지원
 
 **적용 대상**
 
@@ -46,7 +45,7 @@ Azure CSP 테 넌 트는 다른 CSP 파트너의 추가 Azure 구독을 포함�
 - 구독에 대 한 레코드 파트너 변경
 
 > [!IMPORTANT]  
-> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](https://partner.microsoft.com/pcv/announcements)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
 
 
 
