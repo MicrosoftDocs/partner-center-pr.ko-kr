@@ -90,6 +90,6 @@ PCI는 파트너의 기술 기능, 고객 성공 여부를 확인 하는 기능 
 
 ![차트를 읽는 방법](images/pci/howto.png)
 
-## <a name="additional-resources"></a>추가 리소스
+## <a name="additional-resources"></a>추가 자료
 
 자세한 교육 비디오, 프레젠테이션, Faq 및 팩트 시트를 찾을 수 있는 [파트너 기여 지표 리소스 컬렉션](https://aka.ms/pcilearn) 을 방문 하세요.
