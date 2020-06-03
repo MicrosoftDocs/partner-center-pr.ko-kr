@@ -1,6 +1,6 @@
 ---
-title: 파트너 보안 요구 사항 상태 | 파트너 센터
-ms.date: 10/11/2019
+title: 파트너 보안 요구 사항 상태
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램에서 관리자, 제어판 공급업체 및 파트너의 보안을 강화하는 새로운 필수 요구 사항에 대해 알아보세요.
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120394"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998299"
 ---
-# <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>파트너 보안 요구 사항 상태 - 답변을 받고 현재 상태에 대한 보고서 확인
 
 **적용 대상**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120394"
 - 모든 관리자
 
 **적절한 사용자**
--    사용하도록 설정된 모든 사용자(게스트 사용자 포함)
+- 사용하도록 설정된 모든 사용자(게스트 사용자 포함)
 
 개인 정보 보호 및 보안 강화는 최우선 순위입니다. 최선의 방어는 예방이며, 가장 약한 링크를 강화해야 한다는 것을 알고 있습니다. 따라서 에코시스템의 모든 사람이 조치를 취하고, 적절한 보안 기능을 마련해야 합니다. Microsoft에서는 파트너와 고객을 보호하기 위해 클라우드 솔루션 공급자 프로그램에 참여하는 관리자, 제어판 공급업체 및 파트너에 대한 일련의 필수 보안 요구 사항을 도입하고 있습니다.
 

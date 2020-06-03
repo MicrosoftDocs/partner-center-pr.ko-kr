@@ -1,20 +1,21 @@
 ---
-title: 파트너 보안 요구 사항 FAQ | 파트너 센터
+title: 파트너 보안 요구 사항 FAQ
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 보안 요구 사항에 대해 자주 묻는 질문
-author: isaiahwilliams
-ms.author: iswillia
+description: 파트너 보안 요구 사항, 파트너의 구현 방법, 파트너의 충족 여부 등 파트너 보안 요구 사항에 대해 자주 묻는 질문입니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529772"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998369"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -320,7 +321,7 @@ Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본
 - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
 - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
-## <a name="support"></a>지원
+## <a name="support"></a>Support(지원)
 
 ### <a name="where-can-i-get-support"></a>어디에서 지원을 받을 수 있나요?
 
@@ -337,3 +338,4 @@ Azure Active Directory에 대한 기술 제품 지원 옵션은 MPN 혜택을 �
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>일반적인 기술 문제에 대한 자세한 내용은 어디에서 확인할 수 있나요?
 
 일반적인 기술 문제에 대한 정보는 [여기](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)에서 확인할 수 있습니다.
+

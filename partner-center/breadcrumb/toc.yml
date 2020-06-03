@@ -1,3 +1,7 @@
-- name: Docs
-  tocHref: /
-  topicHref: /
+- name: 파트너 센터 문서
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: 공지
+      tocHref: /partner-center/announcements/
+      topicHref: /partner-center/announcements/

@@ -1,20 +1,21 @@
 ---
-title: 파트너 테넌트에 대한 MFA 위임 | 파트너 센터
+title: 파트너 테넌트에 대한 MFA 위임
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 테넌트에 대한 MFA를 위임하여 고객 리소스에 안전하게 액세스하는 방법을 알아봅니다. 샘플 시나리오가 포함되어 있습니다.
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462207"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998309"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임
 
@@ -28,9 +29,9 @@ ms.locfileid: "81462207"
 
 **영향을 받는 역할**
 
-- 관리자 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 관리 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 - 대금 청구 관리자
 - 전역 관리자
 

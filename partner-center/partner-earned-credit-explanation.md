@@ -1,30 +1,32 @@
 ---
-title: 관리형 서비스에 대한 파트너 획득 크레딧(미리 보기) | 파트너 센터
+title: 관리형 서비스에 대한 파트너 획득 크레딧
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 관리 서비스에 대해 Microsoft 파트너 획득 크레딧을 계산하고 지불하는 방법과 자격을 갖추는 방법에 대해 알아보세요.
+description: 관리형 서비스에 대해 Microsoft 파트너 획득 크레딧(PEC)을 계산하고 지불하는 방법과 자격을 갖추는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d8e3ad7be5d2ab761d9af2de1e1b0d40974333f1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75005002"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998279"
 ---
-# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
+# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산하고 지불하는 방법
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   관리 에이전트
--   청구 관리자
--   영업 상담원
+
+- 글로벌 관리자
+- 사용자 관리자
+- 관리 에이전트
+- 청구 관리자
+- 영업 상담원
 
 관리형 서비스에 대한 PEC(파트너 획득 크레딧)는 고객의 Azure 환경 일부 또는 전체에 대한 연중무휴 IT 운영 제어 및 관리를 담당하는 파트너를 알아내서 보상하는 제도입니다. 기본적으로 CSP에서는 파트너가 연중무휴 운영을 관리하고 구독의 리소스를 제어할 수 있도록 파트너에게 고객의 구독에 대한 필수 액세스 권한을 부여합니다. 고객이 거래 파트너에 대한 액세스를 프로비저닝하는 추가적인 방법은 다음 섹션에 설명되어 있습니다. 월별 청구서 금액은 순 파트너 획득 크레딧입니다. 파트너는 월별 조정 파일에서 PEC 세부 정보를 볼 수 있습니다. 고객이 거래 파트너에 대한 액세스를 프로비저닝하는 추가적인 방법은 [Azure 플랜에서 구독 및 리소스 관리](azure-plan-manage.md)를 참조하세요.
 

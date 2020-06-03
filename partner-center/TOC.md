@@ -1,5 +1,7 @@
 # [Microsoft 파트너 센터 정보](index.yml)
 
+# [공지](announcements/TOC.md)
+
 # [파트너 네트워크 멤버십](mpn-overview.md)
 ## [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)
 ## [회사 이메일 주소를 가져오는 방법](buy-email-domain.md)
@@ -78,7 +80,7 @@
 ## [가격 책정 및 제품](pricing-and-offers.md)
 ## [카탈로그 사용자 지정](customize-the-catalog.md)
 
-# [비즈니스 확장](grow-your-business.md)
+# [비즈니스 성장](grow-your-business.md)
 ## [추천](referrals.md)
 ### [비즈니스 프로필 관리](create-a-marketing-profile.md)
 ### [잠재 고객 관리](manage-leads.md)
@@ -126,8 +128,8 @@
 ## [지원 담당자 할당](assign-support-contacts.md)
 
 # [CSP 혜택](csp-offers.md) 
-## 상용 마켓플레이스
-### [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)
+## 상업용 Marketplace
+### [상업용 Marketplace 개요](csp-commercial-marketplace-overview.md)
 ### [마켓플레이스 제품 검색](csp-commercial-marketplace-discover.md)
 ### [마켓플레이스 제품 구매](csp-commercial-marketplace-purchase.md)
 ### [마켓플레이스 제품 관리](csp-commercial-marketplace-manage.md)
@@ -146,7 +148,7 @@
 ### [Azure 제품 비교](compare-azure-offers.md)
 ### [고객을 Azure 플랜으로 전환](azure-plan-transition.md)
 ### [파트너 획득 크레딧 - 개요](partner-earned-credit.md)
-### [파트너 획득 크레딧을 계산 및 지불하는 방법](partner-earned-credit-explanation.md)
+### [파트너 획득 크레딧을 계산하고 지불하는 방법](partner-earned-credit-explanation.md)
 ### [CSP의 새로운 상거래 환경 - Azure 청구](azure-plan-billing.md) 
 ### [Azure용 CSP의 새로운 상거래 환경에 대한 가격표](azure-plan-price-list.md)
 ### [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)
@@ -156,7 +158,7 @@
 ### [고객 구독 만들기, 일시 중단 또는 취소](create-a-new-subscription.md)
 ### [프로모션을 사용하여 신규 고객 유치](promotions.md)
 ### [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)
-### [마켓플레이스 시판 제품 구독 판매](sell-marketplace-products.md)
+### [상업용 Marketplace 제품에 대한 구독 판매](sell-marketplace-products.md)
 ### [파트너 센터에서 Azure 구독 할당](assign-azure-subscriptions.md)
 ### [사용자에게 라이선스 할당](assign-licenses-to-users.md)
 ### [기존 구독에 라이선스 또는 서비스 추가](add-licenses-or-services-to-an-existing-subscription.md)
@@ -217,7 +219,7 @@
 
 # 보안 요구 사항
 ## [개요](partner-security-requirements.md)
-## [파트너 테넌트 사용자를 대상으로 MFA 의무화](partner-security-requirements-mandating-mfa.md) 
+## [파트너 테넌트에 대한 MFA 위임](partner-security-requirements-mandating-mfa.md) 
 ## [요구 사항 상태](partner-security-compliance.md)
 ## [질문과 대답](partner-security-requirements-faq.md)
 
