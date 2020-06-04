@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 502d15f3e41635dc0b4ff97aca47742ab611148a
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: f45288e48ff9da7a6aa284f6675536f982bf6441
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998389"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328284"
 ---
 # <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>PCI (파트너 기여 지표)-고객 성공의 주요 측정값에 대 한 파트너의 영향을 보여 줍니다.
 
@@ -90,6 +90,6 @@ PCI는 파트너의 기술 기능, 고객 성공 여부를 확인 하는 기능 
 
 ![차트를 읽는 방법](images/pci/howto.png)
 
-## <a name="additional-resources"></a>추가 자료
+## <a name="additional-resources"></a>추가 리소스
 
 자세한 교육 비디오, 프레젠테이션, Faq 및 팩트 시트를 찾을 수 있는 [파트너 기여 지표 리소스 컬렉션](https://aka.ms/pcilearn) 을 방문 하세요.

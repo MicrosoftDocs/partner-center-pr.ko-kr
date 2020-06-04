@@ -1,20 +1,20 @@
 ---
 title: 가격 책정 및 제품
 ms.topic: article
-ms.date: 02/27/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite 및 Azure와 같은 사용량 기반 서비스와 같은 라이선스 기반 서비스에 대 한 현재 가격 목록을 참조 하세요.
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394164"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328294"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -26,7 +26,7 @@ ms.locfileid: "83394164"
 
 - 글로벌 관리자
 - 사용자 관리자
-- 관리자 에이전트
+- 관리 에이전트
 - MPN 파트너 관리자
 - 영업 상담원
 - 청구 관리자
@@ -82,8 +82,8 @@ CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 �
 
 |**세그먼트가**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Customer|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
-|비영리|Customer|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
+|Education|고객|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
+|비영리|고객|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
 |GCC(정부 커뮤니티 클라우드)|파트너 및 고객|GCC를 사용 하도록 설정 하 고 나면 파트너가 GCC 고객을 만들 수 있습니다.| 라이선스 기반만|
 |Azure Government|파트너|자격이 부여 되 면 파트너는 Azure Government 관련 된 CSP 테 넌 트에서 작동 합니다.|Azure 리소스|
 

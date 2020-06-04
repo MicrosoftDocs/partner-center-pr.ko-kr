@@ -1,30 +1,30 @@
 ---
-title: 잠재 고객 관리 | 파트너 센터
+title: 잠재 고객 관리
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 조회에 응답 하 고, 새, 기존 및 보관 된 조회를 관리 하 고, 나중에 더 많은 조회를 가져오는 방법에 대해 알아봅니다.
-author: vikramb
-ms.author: vikramb
+description: 파트너 센터를 사용 하 여 조회에 응답 하 고 새로운, 기존 및 보관 된 잠재 고객 및 조회를 관리 합니다. 나중에 더 많은 조회를 가져오는 방법도 알아봅니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: 조회, 공동 판매, 거래
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145067"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328334"
 ---
-# <a name="manage-leads"></a>잠재 고객 관리
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>고객 문의, 마케팅에 한정 된 잠재 고객 및 판매 한정 잠재 고객과 같은 다양 한 잠재 고객 관리
 
 **적용 대상**
 
--  파트너 센터
--  조회
--  Microsoft 솔루션 공급자
--  비지니스 프로필
+- 파트너 센터
+- 추천
+- Microsoft 솔루션 공급자
+- 비지니스 프로필
 
 **적절한 역할**
 

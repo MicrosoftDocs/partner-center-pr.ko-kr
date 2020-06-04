@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 99f99b0b10630de60f3b6784d291b4e03cf8438a
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998329"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328194"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>미국 정부의 Microsoft 클라우드 파트너 센터는 정부 기관에 대 한 파트너 제품을 지원 합니다.
 
@@ -29,7 +29,6 @@ ms.locfileid: "83998329"
 - 관리 에이전트
 - 영업 상담원
 - 청구 관리자
-
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>미국 정부에 대 한 Microsoft 클라우드: 데이터 보호 요구 사항 충족
 
@@ -50,7 +49,7 @@ ms.locfileid: "83998329"
 
 - 파트너 찾기
 - 비즈니스 프로필
-- 조회
+- 추천
 - 고객과 대리점 관계 요청 (다중 채널, 다중 파트너)
 - 라이선스 분석
 - 고객 정보

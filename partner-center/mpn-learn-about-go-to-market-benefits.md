@@ -1,7 +1,7 @@
 ---
 title: Microsoft 제품을 사용한 출시에 대 한 자세한 정보
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 Microsoft 제품 출시에 대해 알아보세요.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, 멤버 자격 혜택, 멤버 자격, 시장 출시 제품, Microsoft로 전환, 시장으로 이동, 골드 멤버 자격, 실버 멤버 자격
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795824"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328204"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
 
