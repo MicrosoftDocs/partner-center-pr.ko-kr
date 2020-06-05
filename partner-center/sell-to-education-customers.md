@@ -1,23 +1,24 @@
 ---
-title: 고객에 게 교육을 판매 하는 방법
-description: 교육 고객을 만들어 파트너 센터에 판매 하는 방법을 알아보세요.
+title: 교육 고객에 게 제품을 판매 하는 방법
+description: 교육 고객을 만들고 파트너 센터에서 제공 하는 제품을 판매 하는 방법을 알아보세요.
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: 교육, 특수 세그먼트
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362491"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426012"
 ---
-# <a name="how-to-sell-education-to-customers"></a>고객에 게 교육을 판매 하는 방법
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 & 파트너 센터에서 교육 고객을 만드는 방법
 
 **적용 대상**
 
@@ -37,6 +38,7 @@ ms.locfileid: "83362491"
 > Microsoft vets는 새로 만든 각 교육 고객 테 넌 트에 게 교육 제공을 위한 자격이 있는지 확인 합니다.  심사 프로세스가 지연 되는 것을 방지 하려면 필요한 정보를 가능한 한 정확 하 고 완전히 입력 해야 합니다.
 
 1. 파트너 센터에 로그인합니다.
+
 2. **고객** 을 선택 하 고 **고객 추가**를 선택 합니다. **특별 한 자격** 드롭다운에서 **교육** 을 선택 합니다.  필요에 따라 나머지 계정 정보를 입력 합니다.  심사 프로세스를 지 원하는 주요 필드는 다음과 같습니다.
 
    - 회사 이름: 법적 엔터티 이름을 입력 합니다. 심사에 필요 합니다.

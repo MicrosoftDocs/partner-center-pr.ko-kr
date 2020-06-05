@@ -1,29 +1,30 @@
 ---
-title: 상업용 마켓플레이스 제품 구독 판매 | 파트너 센터
+title: 상업적 marketplace 구독 판매
 ms.topic: article
-ms.date: 11/17/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 Isv (독립 소프트웨어 공급 업체)에 의해 marketplace에 게시 된 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
-author: MicheleHope
-ms.author: v-mihope
+description: 파트너 센터에서 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace에 게시 된 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: 구독, Marketplace, 타사, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a4547ba4361343b3c4cef05c7953e372ba627d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253075"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426022"
 ---
-# <a name="sell-subscriptions-to-commercial-marketplace-products"></a>상업용 마켓플레이스 제품 구독 판매
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>파트너 센터를 사용 하 여 상용 marketplace 제품에 고객 구독 판매
 
 **적용 대상**
 
 - 파트너 센터
 - CSP 파트너
 
-CSP 프로그램의 파트너는 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에 게시 된 SaaS (Software as a Service) 제품에 고객 구독을 판매할 수 있습니다. 
+CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에 게시 된 SaaS (Software as a Service) 제품에 고객 구독을 판매할 수 있습니다.
 
 이는 비즈니스를 차별화하고 고객 고유의 비즈니스 요구를 충족하는 소프트웨어 번들을 제공하는 데 도움이 될 수 있습니다. 이러한 Marketplace SaaS 제품의 라이선스 및 구독은 Microsoft 제품과 동일하게 관리합니다.
 

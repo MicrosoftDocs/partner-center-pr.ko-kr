@@ -1,30 +1,30 @@
 ---
-title: Microsoft에서 제공하는 지원 | 파트너 센터
+title: Microsoft에서 지원
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 서비스 또는 파트너 센터에서 문제가 발생하면 Microsoft에 에스컬레이션하여 도움을 받고 해결될 때까지 문제를 추적할 수 있습니다.
+description: Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 발생 하는 경우 Microsoft로 에스컬레이션 하 고 해결 될 때까지 문제를 추적할 수 있습니다.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cc4b9ac8a371c63b44624431546dae359b9938db
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023465"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425895"
 ---
-# <a name="support-from-microsoft"></a>Microsoft에서 제공하는 지원
+# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft에서 지원-문제를 에스컬레이션 하는 경우, 보고 하는 방법 또는 서비스 상태를 확인 하는 방법
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
-
-Microsoft 서비스 또는 파트너 센터에서 문제가 발생하면 Microsoft에 에스컬레이션하여 도움을 받고 해결될 때까지 문제를 추적할 수 있습니다.
+Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 발생 하는 경우 Microsoft로 에스컬레이션 하 여 도움을 내릴 수 있으며 해결 될 때까지 문제를 추적할 수 있습니다.
 
 [파트너 센터 지원](report-problems-with-partner-center.md) -모든 파트너 센터 프로그램에 대 한 도움말을 얻고 티켓을 만듭니다.
 
