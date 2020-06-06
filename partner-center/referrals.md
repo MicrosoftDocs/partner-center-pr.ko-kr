@@ -1,7 +1,7 @@
 ---
-title: Microsoft의 추천을 통해 비즈니스 확장 | 파트너 센터
+title: Microsoft 조회를 사용 하 여 비즈니스 성장
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스 프로필을 만들어 파트너 센터 조회 기능을 통해 판매 잠재 고객을 생성 한 다음 이러한 참조에 응답 하는 방법을 알아봅니다.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 추천, 비즈니스 프로필, 파트너 찾기
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943256"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467443"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,7 +23,7 @@ ms.locfileid: "74943256"
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
 
 대부분의 고객은 Microsoft 기술 및 비즈니스 솔루션을 구현하는 것을 도울 자격을 갖춘 전문가를 찾고 있습니다. Microsoft는 종종 마케팅 활동 및 내부 판매 담당자를 통해 고객으로부터 도와달라는 직접 요청을 받습니다. 고객은 [**솔루션 공급자 찾기** 환경](https://www.microsoft.com/solution-providers/search)을 사용하여 비즈니스 요구 사항을 충족하는 데 도움이 되는 회사를 찾을 수도 있습니다. 
 

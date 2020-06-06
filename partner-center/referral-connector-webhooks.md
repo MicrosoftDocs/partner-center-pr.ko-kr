@@ -1,23 +1,24 @@
 ---
 title: 웹 후크를 사용 하 여 리소스 변경 이벤트 가져오기
 ms.topic: article
-ms.date: 05/08/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 웹 후크 Api를 사용 하 여 조회 리소스 변경이 발생 하는 경우를 확인 합니다.
+description: 파트너 센터 Webhook Api를 사용 하 여 Dynamics 365 CRM 또는 Salesforce CRM에 대 한 조회 리소스 변경이 발생 하는 경우를 알아봅니다.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 조회, webhook api, 리소스 변경 이벤트
 ms.localizationpriority: medium
-ms.openlocfilehash: 4eb8d03bb8230117457d2a0e27ef10382248008b
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452740"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467473"
 ---
-# <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Webhook Api를 사용 하 여 리소스 변경 이벤트 등록
+# <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Webhook Api를 사용 하 여 Dynamics 365 CRM 및 Salesforce CRM에 대 한 리소스 변경 이벤트 등록
 
 ### <a name="appropriate-roles"></a>적절 한 역할
 

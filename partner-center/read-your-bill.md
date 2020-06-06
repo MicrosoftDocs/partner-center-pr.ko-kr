@@ -1,8 +1,8 @@
 ---
-title: 청구서 이해 | 파트너 센터
+title: 청구서 & 정찰 파일을 읽는 방법
 ms.topic: article
-ms.date: 04/03/2020
-description: 청구서는 현재 월에 대 한 모든 파트너 센터 요금 (프로그램, 제품 및 고객 전반)의 요약입니다.
+ms.date: 06/05/2020
+description: 청구서 & 조정 파일에 대해 알아봅니다. 청구서에는 해당 월간 기간의 프로그램, 제품 및 고객에 대 한 파트너 센터 요금이 표시 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 구독 청구, 청구, 파트너 센터에 대 한 청구, 파트너 센터 청구, 청구서 청구, 청구서, 파트너 센터 청구서, CSP 청구서
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798711"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467463"
 ---
-# <a name="understand-your-bill"></a>요금 청구 방식
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.
 
 **적용 대상**
 
@@ -35,21 +36,21 @@ ms.locfileid: "82798711"
 
 ## <a name="invoice-types"></a>송장 유형
 
-Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금에 대 한 별도의 청구서 (예: Azure RI, Marketplace, Azure 요금제 등)를 발급 합니다. 
+Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금 (예: Azure RI, Marketplace 또는 Azure 요금제)에 대 한 별도의 송장을 발급 합니다.
 
-예를 들면 다음과 같습니다.  
+예제:  
 
 **시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.  
 
 - 파트너는 O365 및 Azure (145p) 모두에 대 한 요금을 포함 하는 하나의 송장 PDF 및 2 조정 파일을 받습니다.  
 
-**시나리오 2 [단일 통화]**: 파트너는 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 계획을 구입 합니다. 
+**시나리오 2 [단일 통화]**: 파트너가 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 요금제에 대 한 구매를 보유 하 고 있습니다.
 
 - 파트너는 Azure (145p)의 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다. 
 
 - 파트너는 Azure RI, Marketplace, Azure 요금제에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다. 
 
-**시나리오 3 [다중 통화]**: 파트너는 eur의 145p 구매와 함께 DKK의 azure RI 및 Eur의 azure 계획에 대 한 구매를 가집니다. 
+**시나리오 3 [다중 통화]**: 파트너는 eur의 145p 구매와 함께 DKK의 azure RI 및 Eur의 azure 계획에 대 한 구매를 가집니다.
 
 - 파트너는 DKK의 Azure RI에 대 한 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다. 
 
@@ -77,7 +78,7 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 **Onetime 및 반복 요금 청구서**: azure RI, azure 요금제, Marketplace와 같은 서비스에 대 한 요금 청구서는 매월 8 일 이후에는 사용할 수 있습니다.  
 
-다음은 청구서 PDF 문서에 있는 몇 가지 주요 필드입니다. 
+다음은 청구서 PDF 문서에 있는 몇 가지 주요 필드입니다.
 
 **청구서 번호**: 각 청구 기간에 대해 생성 된 청구서 문서에 대 한 고유 식별자입니다. 
 
@@ -95,34 +96,6 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 청구서 파일 (일회성 요금에 대 한 필드 포함)의 모든 필드에 대 한 자세한 설명은 [청구서 파일 필드](invoice-file.md)를 참조 하세요. 
 
-## <a name="understand-reconciliation-file"></a>조정 파일 이해 
+## <a name="understand-reconciliation-files"></a>조정 파일 이해
 
  요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다. 조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다. 정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md) 을 참조 하세요. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

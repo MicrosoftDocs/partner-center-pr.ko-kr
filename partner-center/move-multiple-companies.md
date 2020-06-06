@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795780"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453190"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>파트너 구성원 센터에서 여러 회사를 파트너 센터로 이동 (PMC)
 
@@ -42,13 +42,13 @@ ms.locfileid: "83795780"
 
 4. 비즈니스 및 지역을 선택하고 저장합니다.
 
-![기존 계정](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="기존 계정":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>회사의 파트너 센터 계정이 있음
 
 기존 계정이 표시되고 회사 세부 정보(현재 로그인한 계정)가 이 계정으로 통합된다는 메시지가 표시됩니다.
 
-![파트너 센터 계정](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="파트너 센터 계정":::
 
 이 화면에는 파트너 센터에서 이미 만든 기존 계정(이름 및 주소)에 대한 세부 정보와 기본 연락처의 세부 정보가 표시됩니다.
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795780"
 
 세부 정보는 PMC의 정보에 따라 결정되며, 회사가 적법한지 확인하기 위해 인증을 거칩니다.
 
-![세부 정보 검토](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="세부 정보 검토":::
 
 이동하는 계정이 기존 계정과 동일한 국가 또는 지역에 있는 경우 해당 주소를 사용할지 아니면 다른 계정을 추가할지 결정할 수 있습니다. 다른 주소를 사용하기로 결정한 경우 해당 주소가 인증됩니다. 동일한 주소를 사용하려는 경우 기존 주소와 기본 연락처가 사용됩니다.
 

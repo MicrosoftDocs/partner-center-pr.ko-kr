@@ -1,22 +1,23 @@
 ---
 title: 제한된 직접 청구 기능
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 새 요구 사항을 충족 하지 않는 직접 청구 파트너는 직접적인 청구 기능이 제한 됩니다.
+description: CSP 직접 청구 파트너 요구 사항 및 기능이 제한 되는 것을 방지 하기 위해 수행할 작업에 대해 알아봅니다. 기능이 제한 되었는지 확인 합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 제한
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362431"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467233"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>제한된 직접 청구 기능  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
 
 ## <a name="overview"></a>개요
 
@@ -42,22 +43,29 @@ ms.locfileid: "83362431"
 직접 청구 기능이 제한 된 경우 더 이상 파트너 센터에서 고객에 대 한 새로운 구매를 수행할 수 없습니다. 이 제한 사항에는 다음이 포함 됩니다.
 
 - Azure 구독
+
 - 사용자 기반 구독
+
 - 기존 사용자 기반 구독에 새 추가 기능을 추가 합니다.
+
 - 소프트웨어 및 예약 제품 (예: 소프트웨어 구독, 영구 소프트웨어 및 Azure Reserved Virtual Machines 인스턴스)에 대 한 일회성 구매를 수행 합니다.
 
-CSP 프로그램 아래에서 [azure partner shared services 제품](shared-services.md) 을 사용 하 여 사용자의 고유한 용도에 대 한 새 azure 구독을 구매할 수도 없습니다.
+또한 CSP 프로그램의 [azure partner shared services 제품](shared-services.md) 을 사용 하 여 새 azure 구독을 직접 구매할 수 없습니다.
 
 기존 직접 청구 구독은 영향을 받지 않습니다. 유효한 상태로 유지 되 고 autorenewed 됩니다. 취소 될 때까지 Microsoft에서 직접 청구 됩니다. 다음과 같은 방법으로 기존 구독을 계속 관리할 수 있습니다.
 
 - 기존 구독 일시 중단
+
 - 기존 사용자 기반 구독의 좌석 수 조정
+
 - 구독에 대 한 기존 추가 기능의 수를 조정 합니다. 참고: 새 구입으로 처리 되므로 기존 구독에 새 추가 기능을 추가할 수 없습니다.
+
 - 기존 azure 구독에서 새 Azure 리소스를 배포 하 고 기존 Azure 리소스를 관리 합니다. 여기에는 Azure marketplace 및 Visual Studio 구독을 통해 제공 되는 리소스가 포함 됩니다.
 
 새 구매 외에도 파트너 센터에서 다음과 같은 직접 청구 기능에 액세스할 수 없습니다.
 
 - 새 고객 테 넌 트를 만들 수 없습니다. 파트너 센터의 **고객** 페이지에서 **고객 만들기** 옵션을 사용할 수 없습니다.
+
 - 고객에 게 직접 재판매인 관계를 요청 하는 초대를 생성할 수 없습니다. 파트너 센터의 **고객** 페이지에서 **재판매인 관계 요청** 옵션은 사용할 수 없습니다.
 
     >[!Note]

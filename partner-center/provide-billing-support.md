@@ -1,40 +1,43 @@
 ---
-title: 청구 지원 제공 | 파트너 센터
+title: 고객에 게 청구 지원 제공
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객에 대 한 청구 관계를 소유 하 고 고객의 청구 관련 질문을 완벽 하 게 지원 합니다.
+description: CSP 프로그램 파트너에서 필요한 고객 요금 청구 지원에 대해 알아봅니다. 여기에는 고객 청구 관계를 소유 하 고 있으며 청구 질문에 대 한 답변이 포함 됩니다.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798731"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467493"
 ---
-# <a name="provide-billing-support"></a>청구 지원 제공
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>고객에 대 한 청구 지원을 제공 하 고 대금 청구 질문에 답변 해 주세요.
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   기술 지원팀 에이전트
--   청구 관리자
--   영업 상담원
+- 글로벌 관리자
+- 사용자 관리자
+- 기술 지원팀 상담원
+- 청구 관리자
+- 영업 상담원
 
 고객에 대 한 청구 관계를 소유 하 고 있으며 고객의 청구 관련 질문에 대답할 책임이 있습니다.
 
--   Microsoft에 대 한 실시간 결제를 담당 합니다.
--   컬렉션 프로세스를 자세히 설명 하 고 고객의 구독, 서비스 또는 소프트웨어에 대 한 액세스가 영향을 받는 경우에는 명확한 컬렉션 정책을 설정 하는 것이 좋습니다.
--   필요한 경우 지불 하지 않는 제품에 대 한 고객의 액세스를 비활성화할 수 있습니다.
+- Microsoft에 대 한 실시간 결제를 담당 합니다.
+
+- 컬렉션 프로세스를 자세히 설명 하 고 고객의 구독, 서비스 또는 소프트웨어에 대 한 액세스가 영향을 받는 경우에는 명확한 컬렉션 정책을 설정 하는 것이 좋습니다.
+
+- 필요한 경우 지불 하지 않는 제품에 대 한 고객의 액세스를 비활성화할 수 있습니다.
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft 파트너 지원 지침
 
@@ -48,19 +51,20 @@ CSP 모델의 파트너 거래는 고객에 게 신뢰할 수 있는 관리자 �
 파트너는 고객 으로부터 들어오는 지원 요청을 받고, 파트너의 가장 적합 한 기능에 대 한 문제를 진단 하 고, 기준 지원 범위 범위 내에 있는 문제를 해결 하는 데 필요 합니다. 파트너가 문제를 해결할 수 없는 경우 다음 지원 차량을 통해 Microsoft로 문제를 확대할 수 있습니다.
 
 - **상업적** 문제 지원은 CSP 프로그램의 모든 파트너에 게 제공 됩니다.
--   **기술** 문제 지원은 다음을 통해 제공 됩니다.
-    -   파트너에 대 한 프리미어 지원 (요금 기준)
-    -   파트너에 대 한 고급 지원 (요금 기준)
-    -   서명 클라우드 지원 (골드/실버 역량에 포함 됨)
+
+- **기술** 문제 지원은 다음을 통해 제공 됩니다.
+
+  - 파트너에 대 한 프리미어 지원 (요금 기준)
+  - 파트너에 대 한 고급 지원 (요금 기준)
+  - 서명 클라우드 지원 (골드/실버 역량에 포함 됨)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
-각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음 문서를 참조 하세요.
+각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음을 참조하십시오.
 
--   [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [CSP를 통해 판매 되는 Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [CSP를 통해 판매 되는 Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-

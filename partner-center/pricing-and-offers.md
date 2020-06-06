@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328294"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467543"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -122,3 +122,32 @@ Azure 예약은 특정 리소스 종류-Virtual Machines에 대 한 용어 기�
 ### <a name="taxes-and-pricing"></a>세금 및 가격
 
 파트너 센터 CSP 가격 목록의 모든 가격은 세금을 포함 합니다. 파트너 센터 문서 [세금 및 세금 면제](tax-and-tax-exemptions.md)에 대 한 자세한 내용을 보려면
+
+## <a name="multi-year-term-offers"></a>다중 연도 용어 제안
+
+### <a name="36-month-offers"></a>36 월 제안
+
+3 년 이라는 단어가 포함 된 약 50 Dynamics 제안이 있습니다. 이러한는 제품의 제목에서 **(36 mo)** 로 식별 됩니다. 이러한 제품은 연간 용어 제공과 매우 유사 합니다. 유일한 차이점은 용어에 대 한 것입니다. 이러한 제품에는 3 년 동안 구독을 자동 갱신 함을 의미 하는 3 년 기간이 있습니다. 다음은 이러한 제품의 작동 방식에 대 한 요약입니다.
+
+- 사용 약관은 36 개월이 며 3 년 후에 구독이 자동 갱신 됩니다.
+- 파트너는 구독 기간 내내 라이선스 수를 취소 하거나 변경할 수 있습니다.
+- 연간 갱신은 3 년 기간의 구매 시간으로 청구 됩니다.
+- 청구 빈도는 계속 해 서 매년 또는 매월입니다.
+
+### <a name="72-month-offers"></a>72 월 제안
+
+Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 제품을 구매한 후에는 Office 365 A1 추가 기능을 사용할 수 있습니다. 
+
+|**제품 이름**   |**제품 ID**   |**형식**|
+|-------------------|-----------------------|----------------------------|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|기본 제안|
+|교직원 용 Office 365 A1 (장치용)|0757d14e-7c57-456f-8dab-47d164f2ff1f|추가 기능|
+|학생용 Office 365 A1 (장치용)|bae285a9-d56b-4384-b02f-38adc61a6f12|추가 기능|
+
+다음은 이러한 제품의 작동 방식에 대 한 요약입니다.
+
+- 용어는 72 개월 또는 6 년입니다.
+- 구독이 갱신 되지 않고 6 년 후에 만료 됩니다.
+- 제품에 대 한 청구 빈도는 연간으로 표시 되지만 파트너는 구독을 획득 한 후 첫 번째 청구서에서 맨 앞으로 요금이 청구 됩니다.
+- A1 72-월 제안 구독은 구매 후에 잠기므로 취소할 수 없으며 초기 구입 후에는 라이선스 수를 구독에 추가할 수 없습니다.
+- 취소 해야 하는 파트너는 취소 이유 및 도움이 필요한 구독 ID를 사용 하 여 지원 티켓을 만들어야 합니다.

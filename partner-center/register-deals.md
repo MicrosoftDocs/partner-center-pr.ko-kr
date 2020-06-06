@@ -1,27 +1,27 @@
 ---
-title: 거래 등록 | 파트너 센터
+title: 거래 등록
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 승리한 거래를 등록 하면 Microsoft에서 향후 더 많은 기회를 제공할 수 있습니다.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 keywords: 거래 등록
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943226"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467413"
 ---
-# <a name="register-your-deals"></a>거래 등록
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>나중에 더 많은 기회를 얻을 수 있도록 파트너 센터에서 승리한 거래를 등록 합니다.
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
 
 파트너 센터에서 계약에 대한 추가 정보를 입력하여 성공한 거래를 등록할 수 있습니다. 이 정보는 향후에 더 많은 기회를 제공하는 데 도움이 됩니다.
 
@@ -55,7 +55,7 @@ ms.locfileid: "74943226"
 
 **추천 > 거래 등록** 아래의 여러 페이지에서 새 거래 등록, 활성 거래 등록 및 완료된 거래 등록을 검토할 수 있습니다.
 
-### <a name="action-required"></a>작업 필요
+### <a name="action-required"></a>필요한 동작
 
 **추천 > 거래 등록 > 작업 필요** 페이지에는 아직 등록되지 않았거나 업데이트가 필요한 새 등록이 표시됩니다. 필터를 사용하여 **불완전**하거나 **업데이트가 필요한** 거래 등록만 표시할 수 있습니다. **불완전** 거래 등록은 추천에서 시작되었지만 아직 등록되지 않은 거래 등록입니다. **업데이트 필요** 거래 등록은 생성 후 등록되었지만 파트너가 입력한 정보를 업데이트해야 하는 거래 등록입니다.
 
@@ -65,6 +65,6 @@ ms.locfileid: "74943226"
 
 정보를 업데이트해야 하는 경우 거래 등록을 **작업 필요** 페이지로 이동할 수 있습니다.
 
-### <a name="closed"></a>닫힘
+### <a name="closed"></a>종결
 
 **추천 > 거래 등록 > 완료** 페이지에는 성공적으로 등록되어 Microsoft의 검토를 마친 거래가 표시됩니다. 필터를 사용하여 **승인** 또는 **거절**된 거래 등록만 표시할 수 있습니다.

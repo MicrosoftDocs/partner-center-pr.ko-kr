@@ -1,26 +1,26 @@
 ---
-title: 고객과의 관계 요청 | 파트너 센터
+title: 고객과의 관계 요청
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 관계 요청은 다중 파트너 및 다중 채널 시나리오에 사용 됩니다. 고객이 위임 된 관리자 권한을 제거 하 고 프로 비전 또는 지원을 제공 하기 위해 복원 해야 하는 경우에도 유용 합니다.
+description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의 관계를 요청 하거나 고객에 게 위임 된 관리자 권한을 복원 해야 하는 경우
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362711"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467373"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>파트너 센터에서 고객과 연결
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객 으로부터 대리점 관계를 요청 하는 방법
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
 
 고객의 서비스 또는 구독을 대신 하 여 관리 하려는 경우 고객은 해당 서비스 또는 구독에 대 한 관리자 권한을 부여 하 고 Microsoft 고객 계약에 서명 해야 합니다.
 
