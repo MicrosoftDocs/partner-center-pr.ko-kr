@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795656"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452981"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 역량 보고서
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795656"
 - 위험 (다음 연도): 현재 **활성화** 되어 있지만 다음 연도의 요구 사항을 충족 하지 못하는 **위험에 노출** 되는 역량의 수입니다.
 다음 해에 한정 되지 않을 위험이 있는 역량 수준 (예: 실버/골드, 역량 이름)의 분석입니다.
 
-![역량 요약](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="역량 요약":::
 
 **역량 메트릭 분석**
 
@@ -75,7 +75,7 @@ ms.locfileid: "83795656"
 1. TTM 보기: TTM (지난 12 개월) 동안의 파트너 성과를 열거 합니다.
 2. 기념일 년 보기: 이전 기념일에서 다음 기념일 날짜 까지의 파트너 성과를 열거 합니다.
 
-![역량 메트릭 분석](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="역량 메트릭 분석":::
 
 > [!NOTE]
  > 모든 메트릭이 분석에서 적용 되는 것은 아닙니다. 현재 학습 및 인증과 관련 된 메트릭은 역량 보고서에서 지원 되지 않습니다. CBA (Cloud Business Applications) 역량도 현재 **활성** 역량 상태에 대 한 메트릭 분석에서 지원 되지 않습니다.
@@ -84,7 +84,7 @@ ms.locfileid: "83795656"
 
 이 보기에는 역량 수준 및 역량 단계를 사용 하 여 지금까지 획득 한 모든 역량의 상세 테이블이 표시 됩니다.
 
-![역량 기록](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="역량 기록":::
 
 ## <a name="next-steps"></a>다음 단계
 

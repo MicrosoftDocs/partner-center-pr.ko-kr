@@ -10,18 +10,18 @@ ms.author: labrenne
 keywords: 역량, ISV, 응용 프로그램 개발
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907477"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452730"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 
 지금까지 사용이 중지 된 ISV 역량을 획득 하 고 다음 시나리오 중 하나가 사용자에 게 적용 되는 경우 microsoft는 골드 또는 실버 [응용 프로그램 개발 역량](https://partner.microsoft.com/membership/application-development-competency)에 대해 일회성 시험 요구 사항 면제를 회사에 제공 합니다. 
@@ -45,7 +45,7 @@ ISV 역량을 갖춘 파트너:
 1. 대시보드의 파트너 센터 메뉴에서 **역량**을 선택합니다.
 2. 사용할 수 있는 역량 목록에서 응용 프로그램 개발이 **완료**로 표시 됩니다.
 
-![ISV에서 appdev로](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV에서 appdev로":::
 
 3. **응용 프로그램 개발**을 선택 합니다. 시험 요구 사항을 충족 하지 못하도록 회사를 제외 하는 재정의가 제공 되었다는 알림이 표시 됩니다. 
 

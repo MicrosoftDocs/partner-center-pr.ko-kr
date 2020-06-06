@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795669"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453141"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Azure 사용 보고서
 
@@ -55,7 +55,7 @@ Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 �
 > [!NOTE]
  > Azure에서 사용 하는 수익 (ACR)은 임원 보고서 뷰어 역할이 할당 된 사용자 에게만 표시 됩니다.
 
-![Azure 사용량 요약](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 사용량 요약":::
 
 **지리 별 Azure 사용량**
 
@@ -65,7 +65,7 @@ Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 �
 
 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 **홈** 옵션을 선택 하 여 원래 뷰로 되돌립니다.
 
-![지리 별 Azure 사용량](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="지리 별 Azure 사용량":::
 
 **Azure 사용률**
 
@@ -73,7 +73,7 @@ Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 �
 
 가로 막대형 차트는 월별 수익/사용 시간 추세를 표시 합니다. 꺾은선형 차트는 선택한 Azure 서비스 수준/측정기 범주에 대 한 이전 월과 비교 하 여 증가 추세를 표시 합니다.
 
-![Azure 사용 사용률](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure 사용 사용률":::
 
 ## <a name="next-steps"></a>다음 단계
 

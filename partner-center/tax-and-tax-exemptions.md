@@ -1,8 +1,8 @@
 ---
 title: 지역별 세금 및 세금 면제
 ms.topic: article
-ms.date: 04/28/2020
-description: 특정 지역에 대 한 세금 책임과 CSP 판매에 대 한 세금 면제를 제출 하는 방법에 대해 알아봅니다. 세금 질문에 대 한 지원을 받는 방법에 대해서도 알아봅니다.
+ms.date: 06/05/2020
+description: CSP 프로그램 파트너의 경우 지역별 세금 책임, CSP 판매에 대 한 세금 면제를 제출 하는 방법 및 세금 질문에 대 한 지원을 받는 방법에 대해 알아보세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: 세금, 세금 면제, vat, 대리점, 요금 청구
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907801"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458299"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>지역 또는 국가별로 세금 및 세금 면제 정보에 대해 읽기
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP 프로그램에서 파트너에 대 한 지역 또는 국가의 세금 및 세금 면제 세부 정보에 대해 알아봅니다.
 
 적용 대상:
 
@@ -37,7 +37,7 @@ CSP (클라우드 솔루션 공급자) 프로그램은 제품의 파트너 재�
 
 추가 질문은 [파트너 센터에서 지원을 요청](#support)하세요.
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>캐나다
 
 대부분의 대리점은 GST/HST/QST에서 제외 되지 않습니다. 예외에 대 한 자격이 있는지 여부와 Microsoft에 제공 해야 하는 설명서를 확인 하려면 세금 advisor를 참조 하세요.
 
@@ -49,7 +49,7 @@ BC PST 면제의 경우 설명 된 대로 세금 면제를 파일에 만듭니�
 
 Microsoft는 크레딧을 지원 하지 않으며 다시 청구 됩니다. 구독을 판매 하기 전에 파트너 센터에 [VAT ID 번호를 등록](organization-tax-info.md) 해야 합니다.
 
-### <a name="south-africa"></a>남아프리카
+### <a name="south-africa"></a>남아프리카 공화국
 
 이제 Microsoft는 남부 아프리카에서 파트너가 구매한 디지털 콘텐츠 및 서비스에 표준 VAT를 적용 합니다. 청구서에서 VAT를 제외 하 고이를 직접 관리 하려면 [Microsoft VAT ID 번호를 보내](organization-tax-info.md)파트너 청구 프로필을 업데이트 해야 합니다.
 

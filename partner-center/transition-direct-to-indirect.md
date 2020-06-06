@@ -1,20 +1,21 @@
 ---
-title: CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
+title: 직접 청구 파트너를 간접 재판매인으로 전환
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 직접 청구 파트너에서 간접 재판매인으로 전환 하는 방법 이해
+description: CSP 프로그램 파트너가 파트너 센터를 사용 하 여 직접 청구 파트너에서 간접 재판매인으로 전환 하는 방법을 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
-ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362671"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458409"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -27,17 +28,17 @@ ms.locfileid: "83362671"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 
 2. 간접 재판매인으로 전환 하려는 직접 청구 테 넌 트의 전역 관리자로 파트너 센터에 로그인 합니다.
 
-    ![개요](images/direct/direct1.png)
+   :::image type="content" source="images/direct/direct1.png" alt-text="개요":::
 
 3. 등록 양식에서 파트너 세부 정보를 검토 합니다.
 
-    ![지금 등록](images/direct/direct2a.png)
+   :::image type="content" source="images/direct/direct2a.png" alt-text="지금 등록":::
 
 4. 지금 등록을 선택합니다. 간접 재판매인 비즈니스는 직접 비즈니스에 사용 하는 것과 동일한 AAD 테 넌 트를 사용 합니다.
 
@@ -53,7 +54,7 @@ ms.locfileid: "83362671"
 
 간접 재판매인 규약을 수락한 경우 파트너 프로필은 직접 청구 및 간접 재판매인 **모두** 를 식별 합니다.
 
-![간접 재판매인 규약](images/direct/direct3.png)
+:::image type="content" source="images/direct/direct3.png" alt-text="간접 재판매인 규약":::
 
 > [!IMPORTANT]
 > 새 기능을 사용 하 여 간접 재판매인로 등록 한 후에는 직접 청구 전용 테 넌 트로 롤백할 수 있는 옵션이 없습니다. 간접 재판매인으로 등록 하려면 먼저 비즈니스 요구 사항을 완전히 평가 해야 합니다.
@@ -62,7 +63,7 @@ ms.locfileid: "83362671"
 
 이 단계에서 청구 프로세스를 포함 하 여 직접 고객의 구독 요구 사항을 계속 관리 합니다. 간접 공급자에서 고객을 수락 하 고 간접 재판매인으로 작동할 수도 있습니다.
 
-![직접 청구 및 간접 재판매인 모두](images/direct/direct4.png)
+:::image type="content" source="images/direct/direct4.png" alt-text="직접 청구 및 간접 재판매인 모두":::
 
 ## <a name="find-an-indirect-provider"></a>간접 공급자 찾기
 
@@ -159,7 +160,7 @@ ms.locfileid: "83362671"
     > [!NOTE]
     > 재판매인 관계 확장 기능을 사용 하 여이 고객에 대 한 청구 정보를 간접 공급자와 공유 하는 데 동의 하는 것입니다.
 
-- 간접 공급자는 고객 테 넌 트에 [위임 된 관리 권한이](customers_revoke_admin_privileges.md) 제공 되지 않습니다. 간접 공급자에 게 위임 된 관리 권한이 필요한 경우 대신 간접 재판매인 초대를 고객에 게 보내야 합니다.
+- 간접 공급자는 고객 테 넌 트에 [위임 된 관리 권한이](customers-revoke-admin-privileges.md) 제공 되지 않습니다. 간접 공급자에 게 위임 된 관리 권한이 필요한 경우 대신 간접 재판매인 초대를 고객에 게 보내야 합니다.
 
 - 대리점 관계가 설정 되 면 간접 공급자는 [M365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
 
@@ -174,7 +175,7 @@ ms.locfileid: "83362671"
 
 3. **간접 공급자**에서 **간접 공급자에 대해 고객 전송**을 클릭 합니다.
 
-    ![간접 공급자로 고객 전송](images/direct/direct5_1.png)
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="간접 공급자로 고객 전송":::
 
 4. 팝업 대화 상자에서 고객과의 대리점 관계를 설정할 **간접 공급자** 를 선택 합니다.
 
@@ -182,7 +183,7 @@ ms.locfileid: "83362671"
 
 6. 선택한 간접 공급자가 **간접 공급자**아래에 표시 되는지 확인 합니다.
 
-    ![간접 공급자 나열](images/direct/direct5_2.png)
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="간접 공급자 나열":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>간접 재판매인 초대를 고객에 게 보내기
 
@@ -192,7 +193,7 @@ ms.locfileid: "83362671"
 
 2. **새 고객 초대**를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다. 공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.
 
-    ![새 고객 초대](images/direct/direct6.png)
+    :::image type="content" source="images/direct/direct6.png" alt-text="새 고객 초대":::
 
 3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
 
@@ -208,7 +209,7 @@ Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 
 
 - **고객이 Microsoft 고객 계약을 아직 수락 하지 않았습니다.**
 
-   간접 공급자와 협력 하 여 고객이 [Microsoft 고객 계약에 동의]( https://docs.microsoft.com/partner-center/confirm-customer-agreement)하도록 하세요.
+   간접 공급자와 협력 하 여 고객이 [Microsoft 고객 계약에 동의](confirm-customer-agreement.md)하도록 하세요.
 
 - **고객이 Microsoft 365 관리 센터를 통해 Microsoft 고객 계약에 동의 했습니다.**
 
@@ -216,7 +217,7 @@ Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 
 
 - **고객이 파트너 증명을 통해 Microsoft 고객 계약에 동의 함**
 
-   수락은 유지 되지 않습니다. 간접 공급자와 협력 하 여 [파트너 센터에서 고객의 동의를 업데이트]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers)하세요.
+   수락은 유지 되지 않습니다. 간접 공급자와 협력 하 여 [파트너 센터에서 고객의 동의를 업데이트](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers)하세요.
 
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>간접 공급자에 게 기존 직접 청구 구독 이전
 
@@ -273,17 +274,17 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 6. **구독 전송**에서 **구독 전송 요청**을 클릭 합니다.
 
-    ![구독 전송 요청](images/direct/direct8.png)
+    :::image type="content" source="images/direct/direct8.png" alt-text="구독 전송 요청":::
 
 7. 요청 전송 대화 상자에서 전송할 구독을 하나 이상 선택 합니다.
 
-    ![전송 요청 만들기](images/direct/direct9.png)
+    :::image type="content" source="images/direct/direct9.png" alt-text="전송 요청 만들기":::
 
 8. **만들기**를 클릭합니다.
 
 9. 활성 구독 전송 요청은 **구독 이전**에 표시 됩니다.
 
-    ![전송 요청 목록](images/direct/direct10.png)
+    :::image type="content" source="images/direct/direct10.png" alt-text="전송 요청 목록":::
 
 10. 사용자가 구독 전송 요청을 만들었음을 간접 공급자에 게 알립니다.
 
@@ -301,13 +302,13 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 5. **구독** 페이지에서 **구독 이전**을 찾습니다.
 
-    ![전송 요청 보기](images/direct/direct11.png)
+    :::image type="content" source="images/direct/direct11.png" alt-text="전송 요청 보기":::
 
 6. **구독 전송**에서 검토할 전송 요청을 클릭 합니다.
 
 7. 적절 한 **수락** (또는 **거부**)을 클릭 합니다.
 
-    ![전송 요청 수락](images/direct/direct12.png)
+    :::image type="content" source="images/direct/direct12.png" alt-text="전송 요청 수락":::
 
 8. 전송 요청이 완료 될 때까지 기다립니다.
 
@@ -337,7 +338,7 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
    2. 사용자 기반 구독 (Office 365, Dynamics, Intune) 인 경우 **일시 중단**됨 상태로 나열 됩니다.
 
-   ![구독 일시 중단 됨](images/direct/direct13.png)
+   :::image type="content" source="images/direct/direct13.png" alt-text="구독 일시 중단 됨":::
 
 ### <a name="considerations"></a>고려 사항
 

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795661"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452908"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드의 제품 라이선스 보고서
 
@@ -54,7 +54,7 @@ ms.locfileid: "83795661"
 
 마이크로 차트는 선택한 날짜 범위 동안 발생 한 라이선스 수의 월 단위 추세를 표시 합니다.
 
-![라이선스 보고서 요약](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="라이선스 보고서 요약":::
 
 **지리적 라이선스 분산**
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795661"
 
 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 **홈** 옵션을 눌러 기본 뷰로 되돌립니다. 고객 국가별로 현재 라이선스 및 활성 라이선스를 보려면 지도를 마우스로 가리킵니다. 표의 두 필드는 모두 정렬 가능 합니다.
 
-![라이선스 지리적 위치](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="라이선스 지리적 위치":::
 
 **라이선스 추가**
 
@@ -74,14 +74,14 @@ ms.locfileid: "83795661"
 
 X 축은 선택한 날짜 범위의 월을 나타냅니다. Y 축은 추가 된 라이선스 수를 나타냅니다. 특정 기간을 확대 하려면 차트 위쪽의 슬라이더를 사용 합니다.
 
-![라이선스 추가](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="라이선스 추가":::
 
 **라이선스 배포**
 
 이 보기는 제품 및 고객 국가/지역별 고객 라이선스에 대 한 분석을 보여 줍니다. **제품별 라이선스** 원형 차트에서 제품을 선택 하면 인접 한 차트에 고객 지역별 라이선스 분석 결과가 표시 됩니다.
 
-![라이선스 배포](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="라이선스 배포":::
 
 ## <a name="next-steps"></a>다음 단계
 
-- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
+자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.

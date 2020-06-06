@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205781"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453280"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용에 대한 Microsoft Azure VM 크기 조정
 
@@ -30,7 +30,7 @@ ms.locfileid: "82205781"
 고객을 대신 하 여 Microsoft Azure 예약을 구입 하는 경우 고객의 컴퓨팅 요구에 맞게 VM (가상 머신) 크기를 선택 해야 합니다. 다음 방법 중 하나를 사용 하 여이 정보를 찾을 수 있습니다.
 
 - Azure 사용률 API
-- Azure 포털
+- Azure Portal
 - Azure PowerShell
 - ARM (Azure Resource Manager) API
 
@@ -54,23 +54,24 @@ ms.locfileid: "82205781"
 3. 포털 메뉴에서 **Virtual machines** 를 선택 하 고 예약을 구입할 VM을 선택 합니다.
 4. VM의 세부 정보 페이지에서 아래 그림과 같이 크기 및 지역 정보를 확인 하 고이 정보를 사용 하 여 파트너 센터에서 예약을 구매 합니다.  
 
-    ![세부 정보 페이지의 크기 및 지역 정보](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="세부 정보 페이지의 크기 및 지역 정보":::
 
 **Microsoft Azure PowerShell를 사용 하 여 VM 크기 정보 가져오기**
 
 아래 이미지의 정보를 사용 하 여 예약을 구매 하려는 VM의 위치 및 크기를 가져옵니다. 
 
-![VM 위치 및 크기](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="VM 위치 및 크기":::
 
 **ARM (Azure Resource Manager) API를 사용 하 여 VM 크기 정보 가져오기**
 
 1. ARMClient 또는 ARM Api를 사용 하 여 예약을 구매 하려는 VM에 대 한 ARM 클라이언트를 호출 합니다.
 
-2. /subscriptions/<Subscription ID>/Ssourceg/<Resource group name>/providers/Microsoft.Compute/virtualMachines/<VM Instance Name>? api-version = 2017-12-01
+2. /subscriptions/ <Subscription ID> /Ssourceg/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ? api-version = 2017-12-01
 
 3. 이 호출은 아래 그림과 같이 **Vmsize** 및 **location**에 대 한 값을 반환 합니다.
 
-    ![vmsize 값](images/usage3.png) ![위치 값](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="vmSize 값":::
+    :::image type="content" source="images/usage4.png" alt-text="위치 값":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM 사용 및 예약 할인 확인
 
@@ -78,7 +79,7 @@ ms.locfileid: "82205781"
 
 다음 방법 중 하나를 사용 하 여 고객의 예약 사용량을 확인 하 고 예약 할인이 적용 되는 가상 컴퓨터를 확인할 수 있습니다.
 
-- Azure 포털
+- Azure Portal
 - Azure 사용률 API
 
 이러한 각 메서드를 사용 하는 방법은 다음과 같습니다.
@@ -99,7 +100,7 @@ ms.locfileid: "82205781"
 
     a. 예약의 사용률이 100% 인 경우 고객은 예약 구매가 제공할 수 있는 모든 절감 액을 얻을 수 있습니다.
     b. 예약의 사용량이 0% 이면 모든 가상 머신에 할인이 적용 되지 않습니다.
-    c. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
+    다. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
 
 5. 이러한 상황을 방지 하려면 구매를 수행 하기 전에 고객의 컴퓨팅 요구를 지원 하도록 올바른 크기의 VM을 결정 합니다.
 
@@ -110,7 +111,7 @@ ms.locfileid: "82205781"
 
 Azure 사용률 API를 사용 하 여 예약 사용 데이터를 가져와 고객이 예약 할인을 받고 할인이 적용 되는 Vm (가상 머신)을 확인할 수 있습니다. 예 A를 예 2와 비교 하 여 고객의 예약 사용량을 확인 하는 방법을 확인 합니다.
 
-![예약 사용 예](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="예약 사용 예":::
 
 - ReservationId는 VM에 할인을 적용 하는 데 사용 된 Azure 예약을 식별 합니다.
 - consumptionMeter는 예약 할인이 적용 된 VM의 MeterId입니다.

@@ -119,7 +119,7 @@
 ## [새 고객 추가](add-a-new-customer.md)
 ## [고객과 재판매인 관계 요청](request-a-relationship-with-a-customer.md)
 ## [고객과 재판매인의 관계 제거](remove-a-relationship.md)
-## [고객이 파트너에게 관리 권한을 위임 또는 취소하는 경우](customers_revoke_admin_privileges.md) 
+## [고객이 파트너에게 관리 권한을 위임 또는 취소하는 경우](customers-revoke-admin-privileges.md) 
 ## [고객 목록 참조](see-your-customer-list.md)
 ## [고객 활동 로그 보기](activity-logs.md)
 ## [고객 계정 정보 업데이트](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
 
-# [CSP 혜택](csp-offers.md) 
+# [CSP 혜택](csp-offers.md)
 ## 상업용 Marketplace
 ### [상업용 Marketplace 개요](csp-commercial-marketplace-overview.md)
 ### [마켓플레이스 제품 검색](csp-commercial-marketplace-discover.md)

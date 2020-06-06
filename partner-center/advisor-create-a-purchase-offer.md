@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor, office 365, 구입
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362681"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458369"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>관리자: 구매 제안 만들기
 
@@ -59,4 +59,4 @@ ms.locfileid: "83362681"
     - Microsoft에서 직접 청구 한다는 사실을 클라이언트에 알립니다.
     - 클라이언트에 게 서비스 또는 제안에 대 한 질문이 있는 경우 사용자에 게 연락 하는 방법을 알려줍니다.
     - 클라이언트에서 구매한 사용자 라이선스 수를 제어 하 고 제품을 수락할 때 라이선스 수를 변경할 수 있도록 합니다.
-    - 위임된 관리를 제안하는 경우 위임된 관리의 의미와 위임된 관리자의 책임에 대해 설명합니다. 위임 된 관리에 대 한 자세한 내용은 [위임 된 관리 제공](customers_revoke_admin_privileges.md)을 참조 하세요.
+    - 위임된 관리를 제안하는 경우 위임된 관리의 의미와 위임된 관리자의 책임에 대해 설명합니다. 위임 된 관리에 대 한 자세한 내용은 [위임 된 관리 제공](customers-revoke-admin-privileges.md)을 참조 하세요.

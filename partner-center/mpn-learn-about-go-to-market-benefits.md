@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, 멤버 자격 혜택, 멤버 자격, 시장 출시 제품, Microsoft로 전환, 시장으로 이동, 골드 멤버 자격, 실버 멤버 자격
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328204"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458429"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
 
@@ -65,7 +65,7 @@ Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 �
 
 출시 후 제품을 보려면 다음을 수행 하세요.
 
-1. 파트너 센터 [대시보드]( https://docs.microsoft.com/partner-center/)에 로그인합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 다음, 다음 중 하나를 수행합니다.
 

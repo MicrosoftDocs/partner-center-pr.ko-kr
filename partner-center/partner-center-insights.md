@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328234"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453200"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
 
@@ -61,7 +61,7 @@ Insights는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Mi
 
 **날짜 범위 필터**: 각 페이지의 오른쪽 위 모서리에서 날짜 범위 선택을 찾을 수 있습니다. 지난 3, 6 또는 12 개월을 기준으로 하는 날짜 범위를 선택 하거나 사용자 지정 날짜 범위를 선택 하 여 개요 페이지 그래프의 출력을 사용자 지정할 수 있습니다. 기본 날짜 범위 선택은 12 개월입니다. 
 
-![소개 맵](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="소개 맵":::
 
 **사용자 의견 단추**: 모든 Insights 보고서의 각 차트/컨트롤은 보고서 기능에 대 한 인스턴스 피드백을 제공할 수 있는 피드백 단추와 통합 됩니다. 
 
@@ -74,7 +74,7 @@ Insights는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Mi
 
 - 선택한 필터가 페이지 맨 위에 표시 됩니다. 
 
-![filters](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="필터나":::
 
 ### <a name="filters-definitions"></a>필터 정의:
 

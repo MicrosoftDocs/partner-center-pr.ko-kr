@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e25a91a977372234c31aed9f285bf53ac8dafae3
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795709"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453000"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>파트너 센터 정보에서 고객 대시보드 보고서
 
@@ -42,7 +42,7 @@ ms.locfileid: "83795709"
 - 선택한 날짜 범위 동안 고객 의% 거절 
 - 마이크로 차트에서 선택한 날짜 범위에 대 한 고객 수의 월간 추세를 표시 합니다.
 
-![제품별 고객](images/pci/customerproduct.png)
+:::image type="content" source="images/pci/customerproduct.png" alt-text="제품별 고객":::
 
 **활성 고객**:
 
@@ -65,13 +65,13 @@ ms.locfileid: "83795709"
 
 선택한 날짜 범위 동안 새로 추가 된 현재 고객, 현재 활성 고객 및 고객 수는 고객의 국가를 사용 하 여 지리적으로 매핑됩니다. 메트릭 아래에 표시 되는 백분율은 해당 메트릭에 대 한 총 해당 국가의 기여도 비율을 표시 합니다. 지도를 마우스로 가리켜서 해당 국가의 총 활성 신규 고객을 볼 수 있습니다. 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 지도에서 **홈** 단추를 선택 하 여 원래 뷰로 되돌립니다. 표의 모든 열을 정렬할 수 있습니다.  
 
-![지리 별 고객](images/pci/customersgeo.png)
+:::image type="content" source="images/pci/customersgeo.png" alt-text="지리 별 고객":::
 
 **고객 추가 및 변동**
 
 선택한 날짜 범위에 대 한 신규, 기존 및 변동을 분석 하는 고객 추세 X 축은 선택한 날짜 범위의 월을 나타내며 Y 축은 고객 수를 나타냅니다. 변동 고객은 Y 축의 음수로 표시 됩니다. 누적 세로 막대형 차트는 해당 월에 신규, 기존 및 변동 고객의 분할을 제공 합니다. 범례에서 특정 스택 항목을 선택 하 여 세로 막대형 차트를 다시 작성할 수 있습니다. 차트 위에 있는 슬라이더를 활용 하 여 특정 기간으로 확대할 수 있습니다. 
 
-![고객 손실](images/pci/customerslost.png)
+:::image type="content" source="images/pci/customerslost.png" alt-text="고객 손실":::
 
 **고객 배포**
 
@@ -81,20 +81,20 @@ MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 �
 
 현재 고객의 분석 결과는 제품 및 Sku/요금제에 따라 계산 됩니다. Product 분할 원형 차트에서 제품을 선택 하 여 그 옆에 있는 차트에서 분할 by Sku/계획을 볼 수 있습니다.
 
-![제품별 고객](images/pci/customerbyprod.png)
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="제품별 고객":::
 
 **고객 분포 추세** 
 
 시장, 부문, 고객이 획득 한 MPN 위치 및 제품을 기준으로 선택 된 날짜 범위 동안 고객의 배포에 대 한 월별 추세입니다. 차트에서 해당 탭을 클릭 하면 이러한 범주의 추세를 볼 수 있습니다. X 축은 선택한 날짜 범위의 월을 나타내고 Y 축은 선택한 범주 (탭 선택)에 대 한 고객 수를 포함 합니다. 차트 열을 마우스로 가리키면 각 스택의 분할 값을 볼 수 있습니다. 차트 위에 있는 슬라이더를 활용 하 여 특정 기간으로 확대할 수 있습니다.   
 
-![고객 배포](images/pci/customerdistri.png)
+:::image type="content" source="images/pci/customerdistri.png" alt-text="고객 배포":::
 
 **활성 고객**
 
 선택한 날짜 범위에 대 한 활성 및 총 고객을 비교 하는 월별 추세 차트입니다. 열은 매월 활성 고객 수를 나타내고, 선은 매월 총 고객 수를 나타냅니다. 
 
-![활성 고객](images/pci/activecustomer.png)
+:::image type="content" source="images/pci/activecustomer.png" alt-text="활성 고객":::
 
 ## <a name="next-steps"></a>다음 단계
 
-- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
+자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.

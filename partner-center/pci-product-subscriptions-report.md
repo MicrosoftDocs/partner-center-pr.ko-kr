@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795909"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452812"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 제품 구독 보고서
 
@@ -66,7 +66,7 @@ ms.locfileid: "83795909"
 
 - 제품별로 구독: 클라우드 제품별로 현재 구독 수를 분석 합니다.
 
-![구독 보고서 요약](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="구독 보고서 요약":::
 
 **구독의 지리적 확산**
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795909"
 
 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 **홈** 옵션을 눌러 원래 뷰로 되돌립니다. 지도를 마우스로 가리키면 모든 구독과 활성 구독을 국가별로 볼 수 있습니다. 표의 두 필드는 모두 정렬 가능 합니다.
 
-![지리 별 구독](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="지리 별 구독":::
 
 **Subscription 추가/변동**
 
@@ -84,19 +84,19 @@ ms.locfileid: "83795909"
 
 누적 세로 막대형 차트는 해당 월에 대 한 신규, 기존 및 변동 구독의 분석을 제공 합니다. 특정 스택 항목으로 분할 된 세로 막대형 차트를 다시 작성할 수 있습니다. 이렇게 하려면 범례에서 특정 항목을 선택 합니다. 차트 위에 있는 슬라이더를 활용 하 여 특정 기간으로 확대할 수도 있습니다.
 
-![구독 추가 및 변동](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="구독 추가 및 변동":::
 
 **구독 배포**
 
 이 보기는 MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 유형 (예: DPOR, DAP 등)에 따라 현재 구독에 대 한 분석을 제공 합니다. 각 탭을 클릭 하 여 이러한 범주별로 분류를 확인 합니다. 특정 항목 범주를 분석 하 여 원형 차트를 작성 하려면 범례에서 해당 항목 범주를 선택 합니다.
 
-![구독 배포](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="구독 배포":::
 
 **구독 상태 배포**
 
 이 보기는 구독 상태 또는 상태별로 현재 고객 구독의 배포를 표시 합니다. 여기에는 **활성**, **사용 안 함**, **프로 비전 해제**, **열기**, **InGracePeriod**, **닫힘**및 **기타**구독 상태가 포함 됩니다.
 
-![구독 상태 배포](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="구독 상태 배포":::
 
 **제품 추세**
 
@@ -104,7 +104,7 @@ ms.locfileid: "83795909"
 
 두 원형 차트는 현재 고객 구독의 분석을 보여 줍니다. 첫 번째 원형 차트는 제품별로 구독을 중단 합니다. 두 번째 원형 차트는 Sku 또는 요금제로 구독을 나눕니다. **Products By Products** 원형 차트에서 제품을 선택 하는 경우 인접 한 원형 차트에는 sku 별로 해당 제품의 구독에 대 한 분석 결과가 표시 됩니다.
 
-![제품 추세](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="제품 추세":::
 
 > [!NOTE]
  > Sku 별로 중단 된 구독 수는 항상 해당 제품의 총 구독 수와 일치 하지 않을 수 있습니다. 이 문제는 고객이 동일한 제품 구독에서 여러 Sku를 구매한 경우에 발생할 수 있습니다.

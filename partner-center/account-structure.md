@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1be2bfe63f7a6a39198756e9ef48ee5c0597d33b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794994"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453290"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>파트너 센터에는 MPN 파트너에 대 한 두 가지 수준의 계정이 있습니다.
 
@@ -50,26 +50,6 @@ ms.locfileid: "83794994"
 - 모든 위치 계정은 동일한 수준 및 파트너 전역 계정에 있습니다.
 - 계정 관리자는 위치를 추가 하거나 제거할 수 있습니다.
 
-![계정 구조](images/accountstructure.png)
+:::image type="content" source="images/accountstructure.png" alt-text="계정 구조" border="false":::
 
-위치 관리에 대 한 자세한 내용은 [파트너 계정 관리: 위치](manage-locations.md)를 참조 하세요. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+위치 관리에 대 한 자세한 내용은 [파트너 계정 관리: 위치](manage-locations.md)를 참조 하세요.

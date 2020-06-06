@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 교육, 특수 세그먼트
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426012"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453300"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 & 파트너 센터에서 교육 고객을 만드는 방법
 
@@ -41,15 +41,15 @@ ms.locfileid: "84426012"
 
 2. **고객** 을 선택 하 고 **고객 추가**를 선택 합니다. **특별 한 자격** 드롭다운에서 **교육** 을 선택 합니다.  필요에 따라 나머지 계정 정보를 입력 합니다.  심사 프로세스를 지 원하는 주요 필드는 다음과 같습니다.
 
-   - 회사 이름: 법적 엔터티 이름을 입력 합니다. 심사에 필요 합니다.
-   - 국가/지역 및 주소 줄: 전체 엔터티 메일 주소를 입력 합니다.-심사에 필요 합니다.
-   - 전자 메일 주소: 무료 또는 on.microsoft.com 전자 메일이 아닌 엔터티 소유 메일을 입력 합니다. 심사에 필요 합니다.
-   - 고객 연락처 정보: 이러한 세부 정보는 심사 프로세스의 일부로 사용 됩니다.
-   - 주 도메인 이름: 고객의 계정 및 전자 메일 주소를 만드는 데 사용 됩니다.  회사 이름과 비슷하게 공백 또는 특수 문자 없이 이름을 선택 합니다.  이 이름은 나중에 변경할 수 없습니다.
+   - **회사 이름**: 법적 엔터티 이름을 입력 합니다. 심사에 필요 합니다.
+   - **국가/지역 및 주소 줄**: 전체 엔터티 메일 주소를 입력 합니다.-심사에 필요 합니다.
+   - **전자 메일 주소**: 무료 또는 on.microsoft.com 전자 메일이 아닌 엔터티 소유 메일을 입력 합니다. 심사에 필요 합니다.
+   - **고객 연락처 정보**: 이러한 세부 정보는 심사 프로세스의 일부로 사용 됩니다.
+   - **주 도메인 이름**: 고객의 계정 및 전자 메일 주소를 만드는 데 사용 됩니다.  회사 이름과 비슷하게 공백 또는 특수 문자 없이 이름을 선택 합니다.  이 이름은 나중에 변경할 수 없습니다.
 
 3. 완료 되 면 **검토**를 선택 합니다.
 
-![교육 고객 계정](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="교육 고객 계정":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>교육 고객의 심사 상태 확인
 
@@ -58,15 +58,15 @@ ms.locfileid: "84426012"
 
 - 고객이 심사를 통과 한 경우: 교육
 
-   ![교육 심사 성공](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="교육 심사 성공":::
 
 - 고객이 심사를 통과 하지 못한 경우: 교육 고객이 아닙니다.
 
-   ![교육 심사 실패](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="교육 심사 실패":::
 
 - 고객이 교육 고객으로 태그가 지정 되지 않은 경우: 없음
 
-   ![교육 태그가 지정 되지 않음](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="교육 태그가 지정 되지 않음":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>고객 계정 정보를 수정 하 고 심사에 대해 다시 제출 합니다.  
 

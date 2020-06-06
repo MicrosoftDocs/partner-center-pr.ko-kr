@@ -1,7 +1,7 @@
 ---
-title: 다중 파트너 지원 | 파트너 센터
+title: 다중 파트너 지원
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객은 다양 한 서비스를 전문으로 하는 클라우드 솔루션 공급자 프로그램에서 여러 파트너와 작업 하는 것이 좋습니다.
@@ -9,14 +9,15 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ecaadd62df076daac9fd3d516a5109730fbc32f
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253960"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458419"
 ---
-# <a name="multi-partner-support"></a>다중 파트너 지원
+# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>둘 이상의 파트너와 함께 작업 하려는 고객에 대 한 다중 파트너 지원
 
 **적용 대상**
 
