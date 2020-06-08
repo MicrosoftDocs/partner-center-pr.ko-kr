@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9241d5083ae2ad35c97efe47dfe764d0b9d5a216
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dad65d2237a4446bd6a555a600193e7885bc6f5e
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795020"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458339"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있는 Azure 서비스
 
@@ -32,7 +32,7 @@ ms.locfileid: "83795020"
 이 문서에는 Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있거나 사용할 수 없는 Azure 서비스가 나열되어 있습니다. 또한 [Microsoft Azure 독일](https://azure.microsoft.com/overview/clouds/germany/) 및 [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) 국가 클라우드의 서비스 가용성에 대해서도 설명합니다.
 
 >[!Note]
->[Azure 중국]( https://www.azure.cn/)은 Azure CSP 프로그램에서 사용할 수 없습니다.
+> [Azure 중국](https://www.azure.cn/)은 Azure CSP 프로그램에서 사용할 수 없습니다.
 
 ## <a name="global-cloud"></a>글로벌 클라우드
 
