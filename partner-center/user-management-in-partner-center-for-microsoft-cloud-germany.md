@@ -1,19 +1,21 @@
 ---
-title: Microsoft 클라우드 독일 파트너 센터의 사용자 및 라이선스 관리 | Microsoft 클라우드 독일 파트너 센터
+title: 사용자 및 라이선스 관리
+titleSuffix: Microsoft Cloud Germany - Partner Center
+description: 암호 재설정 뿐만 아니라 Microsoft 클라우드 독일 파트너, 고객 및 라이선스에 대 한 파트너 센터를 관리 하는 방법 및 위치를 알아봅니다.
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 암호 재설정 뿐만 아니라 Microsoft 클라우드 독일 파트너, 고객 및 라이선스에 대 한 파트너 센터를 관리 하는 방법 및 위치를 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797681"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603622"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -37,7 +39,7 @@ ms.locfileid: "82797681"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 Azure Portal에서 사용자를 관리 하는 방법 
 
-Microsoft 클라우드 독일 파트너 센터에 로그인 한 경우 다시 로그인 하지 않고도 Microsoft 클라우드 독일에 대 한 Azure Portal를 열 수 있습니다. 그러나 Microsoft 클라우드 독일의 Azure Portal에 직접 로그인 해야 하는 경우으로 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)이동 합니다. 
+Microsoft 클라우드 독일 파트너 센터에 로그인 한 경우 다시 로그인 하지 않고도 Microsoft 클라우드 독일에 대 한 Azure Portal를 열 수 있습니다. 그러나 Microsoft 클라우드 독일의 Azure Portal에 직접 로그인 해야 하는 경우으로 이동 [https://portal.microsoftazure.de](https://portal.microsoftazure.de) 합니다. 
 
 Microsoft 클라우드 독일의 Azure Portal에 성공적으로 로그인 한 후에 Azure Active Directory (Azure AD) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.
 

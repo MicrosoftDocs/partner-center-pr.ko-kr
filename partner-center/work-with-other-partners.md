@@ -1,25 +1,26 @@
 ---
-title: 다른 파트너와 작업 | 파트너 센터
+title: 다른 파트너와 협력
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 공급자가 CSP (클라우드 솔루션 공급자) 프로그램에서 간접 대리점과 협력 하는 방법에 대해 알아보고 적절 한 역할을 결정 합니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253940"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603842"
 ---
-# <a name="work-with-other-partners"></a>다른 파트너와 협력
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>파트너 센터에서 다른 파트너와 함께 작업할 수 있는 다양 한 방법
 
 **적용 대상**
 
--  파트너 센터
+- 파트너 센터
 
 Microsoft의 CSP (클라우드 솔루션 공급자) 프로그램은 파트너가 이러한 방식으로 함께 작업할 수 있는 기회를 제공 합니다.
 
@@ -33,7 +34,7 @@ Microsoft의 CSP (클라우드 솔루션 공급자) 프로그램은 파트너가
 
 CSP의 인증 된 간접 공급자 인 경우 간접 대리점 및 고객과 연결 하는 방법에 대 한 자세한 내용을 보려면 [csp의 간접 대리점 파트너](indirect-provider-tasks-in-partner-center.md) 를 참조 하세요. 
 
-### <a name="indirect-resellers"></a>간접 재판매인 
+### <a name="indirect-resellers"></a>간접 재판매인
 
 간접 재판매인은 Microsoft와 직접 관계에 있는 간접 공급자와 협력 하 고 고객 지원 및 요금 청구를 제공 하는 인프라를 제공 합니다. 간접 공급 업체와의 파트너는 간접 대리점을 통해 숙련 된 기술 공급자와 협력 하 여 자본 투자를 크게 하 고 광범위 한 Microsoft 솔루션 포트폴리오를 제공할 필요 없이 시장으로 이동할 수 있습니다. 
 

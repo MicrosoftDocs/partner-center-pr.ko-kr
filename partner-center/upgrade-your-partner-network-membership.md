@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369260"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603882"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Microsoft 파트너 네트워크 멤버 자격 업그레이드
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Microsoft 파트너 네트워크 멤버 자격을 업그레이드 하 고 새로운 제품, 프로그램 및 리소스를 살펴보세요.
 
 **적용 대상**
 
@@ -69,7 +70,7 @@ Microsoft Action Pack에 대 한 자세한 내용은을 참조 [https://partner.
 
 7. 주문이 확인됩니다. **닫기**를 선택합니다.
 
-매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. 구매한 제품 목록에서 언제 든 지 자동 갱신을 해제할 수 있습니다. 그러나 구독을 다시 갱신할 때까지 자동 구독 갱신을 다시 설정할 수 없습니다.
+   매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. 구매한 제품 목록에서 언제 든 지 자동 갱신을 해제할 수 있습니다. 그러나 구독을 다시 갱신할 때까지 자동 구독 갱신을 다시 설정할 수 없습니다.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack 구독 자동 갱신 끄기
 

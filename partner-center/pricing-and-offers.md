@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467543"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633823"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -31,11 +31,18 @@ ms.locfileid: "84467543"
 - 영업 상담원
 - 청구 관리자
 
-최신 클라우드 솔루션 공급자 프로그램 및 제품을 보려면 파트너 포털에서 **> 가격 책정 및 제품 판매**로 이동 하세요. Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite 및 Azure를 포함 하는 사용 현황 기반 서비스를 비롯 한 라이선스 기반 서비스에 대 한 별도의 가격 목록을 찾을 수 있습니다.
+최신 클라우드 솔루션 공급자 프로그램 및 제품을 보려면 파트너 포털에서 **> 가격 책정 및 제품 판매**로 이동 하세요. 사용 가능한 다양 한 제품 유형에 대 한 별도의 가격표를 찾을 수 있습니다. **가격 책정 및 제품** 페이지에서 다음 가격 목록을 사용할 수 있습니다.
 
-제품 목록에는 파트너 센터를 통해 구매할 수 있는 다른 제품군이 포함 되어 있습니다. 여기에는 현재 Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM 및 Microsoft Azure 포함 됩니다. 이 목록은 새 제품을 사용할 수 있게 되 면 계속 확장 됩니다.
+- **라이선스 기반 서비스** 에는 Office 365, Enterprise Mobility 및 Security E3 뿐만 아니라 및 Dynamics 365에 대 한 가격 정보가 포함 되어 있습니다. 라이선스 기반 가격 책정 섹션에는 현재 및 미리 보기 가격 책정 및 제품 목록 행렬이 포함 됩니다. 가격 목록에는 지원 되는 모든 통화의 제품에 대 한 정가 (정가) 및 가격 목록이 포함 됩니다. 제품 목록 행렬에는 제품에 대 한 시장 출시 및 기타 중요 정보가 포함 되어 있습니다. 이러한 파일은 매월 첫째 날에 업데이트 됩니다.
+- **사용 기반 서비스** 에는 Microsoft Azure 및 Visual Studio에 대 한 가격 정보가 포함 되어 있습니다. [CSP 가격 계산기의 Azure 서비스](https://azure.microsoft.com/pricing/calculator/)를 사용할 수도 있습니다. 사용 빈도 기반 다운로드에는 지원 되는 모든 통화에 대 한 CSP 가격 목록과 ERP의 공유 서비스 가격 책정 파일이 모두 포함 됩니다. 이러한 파일은 매월 첫째 날에 업데이트 됩니다.
+- **Microsoft Azure Reserved instances** 에는 Azure Reserved instances에 대해 지원 되는 모든 통화에 대 한 가격 정보가 포함 됩니다. 가격 책정 다운로드에는 ERP의 공유 서비스 가격도 포함 됩니다. 이러한 파일은 매월 첫째 날에 업데이트 됩니다.
+- **소프트웨어 구독** 에는 지원 되는 모든 통화에 대 한 용어 기반 소프트웨어 구독의 가격이 포함 됩니다. 가격 파일은 정가 및 MSRP와 함께 지원 되는 모든 통화를 포함 합니다. 이러한 파일은 매월 첫째 날에 업데이트 됩니다.
+- Azure 계획 **가격 책정** 에는 azure 계획 예약 가격 책정 및 azure 계획 사용 서비스에 대 한 가격 정보가 포함 됩니다. 가격은 직접 가격과 ERP 이며, 지원 되는 모든 시장에서 검색할 수 있습니다. 이러한 파일의 데이터는 매일 새로 고쳐집니다.
+- **외부 환율이** USD와 파트너 현지 통화 사이에 청구 되는 청구를 계산 하는 데 사용 됩니다. 요금은 매월 1 일에 업데이트 되 고, 지정 된 달에 대해 적용 되는 요금은 적용 됩니다. 이러한 파일은 매월 첫째 날에 업데이트 됩니다.
+- **Marketplace** 에는 Microsoft의 상용 MARKETPLACE의 ISV 솔루션에 대 한 가격이 포함 됩니다. 가격은 시장에 따라 검색 됩니다. 이러한 파일의 데이터는 매일 새로 고쳐집니다.
 
-이러한 각 제품군 내에는 비즈니스에 따라 판매 하는 데 사용할 수 있는 다른 Sku 및 제품 번들이 있습니다. 가격 책정 및 제품 페이지에서 제공 되는 Cloud 재판매인 제품 매트릭스를 사용 하 여 이러한 제품에 대 한 최신 정보에 항상 액세스할 수 있습니다.
+> [!Note] 
+> Transact-sql 기능이 있는 CSP 파트너만 가격 목록을 보고 다운로드할 수 있습니다. 간접 대리점은 요금에 대 한 세부 정보를 요청 하려면 [CSP 공급자에 게 문의]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) 해야 합니다.
 
 ## <a name="price-list-preview-and-change-frequency"></a>가격 목록 미리 보기 및 변경 빈도 
 
@@ -82,8 +89,8 @@ CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 �
 
 |**세그먼트가**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|고객|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
-|비영리|고객|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
+|Education|Customer|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
+|비영리|Customer|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
 |GCC(정부 커뮤니티 클라우드)|파트너 및 고객|GCC를 사용 하도록 설정 하 고 나면 파트너가 GCC 고객을 만들 수 있습니다.| 라이선스 기반만|
 |Azure Government|파트너|자격이 부여 되 면 파트너는 Azure Government 관련 된 CSP 테 넌 트에서 작동 합니다.|Azure 리소스|
 
@@ -151,3 +158,24 @@ Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 �
 - 제품에 대 한 청구 빈도는 연간으로 표시 되지만 파트너는 구독을 획득 한 후 첫 번째 청구서에서 맨 앞으로 요금이 청구 됩니다.
 - A1 72-월 제안 구독은 구매 후에 잠기므로 취소할 수 없으며 초기 구입 후에는 라이선스 수를 구독에 추가할 수 없습니다.
 - 취소 해야 하는 파트너는 취소 이유 및 도움이 필요한 구독 ID를 사용 하 여 지원 티켓을 만들어야 합니다.
+
+## <a name="estimated-retail-price-erp"></a>예상 소매 가격 (ERP)
+
+가격 목록에는 가격, 파트너가 청구 되는 가격 및 예상 소매 가격이 포함 됩니다. 예상 소매 가격 (ERP)은 Microsoft 제안 소매 가격 또는 MSRP이 라고도 합니다. 이러한 두 값 ERP 및 MSRP는 고객이 Microsoft에서 직접 제품을 구매 하는 경우 제품의 예상 시장 가치를 나타냅니다. 각 제품 또는 서비스 유형에 대 한 ERP/MSRP 세부 정보를 찾을 수 있는 위치는 다음과 같습니다. 
+
+
+|**제품 또는 서비스**        |**ERP 및 MSRP 가격 목록 정보**      |
+|:-----------   |:-----------   |
+|제품 또는 서비스  |ERP 및 MSRP 가격 목록 정보  |
+|라이선스 기반 서비스  |라이선스 기반 가격 목록에 ERP로 나열 됩니다.  |
+|Azure 사용량 기반 서비스  |공유 서비스에 해당 하는 가격 목록에서 찾을 수 있습니다.  |
+|Azure Reservations  |공유 서비스에 해당 하는 가격 목록에서 찾을 수 있습니다.  |
+|Azure 요금제 사용량 기반  |가격은 가격 책정 시트에서 할인 되지 않습니다.  |
+|Azure 계획 예약  |Azure 예약 공유 서비스 가격 목록 참조  |
+|소프트웨어 구독  |소프트웨어 구독 가격 목록에 MSRP로 나열 됨  |
+|마켓플레이스  |Marketplace 가격 목록에 MSRP로 나열 됨  |
+
+추가 리소스: 
+
+- [Azure 계획 가격 책정](azure-plan-price-list.md)
+- [Azure 가격 책정 개요](https://azure.microsoft.com/pricing/)

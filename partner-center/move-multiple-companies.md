@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453190"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603782"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>파트너 구성원 센터에서 여러 회사를 파트너 센터로 이동 (PMC)
 
@@ -75,6 +75,7 @@ ms.locfileid: "84453190"
 회사에 대 한 정보를 확인 하 고 필요한 경우 편집 합니다.  이러한 세부 정보는 계정을 파트너 센터로 마이그레이션하는 데 사용되므로 세부 정보가 올바른지 확인합니다.
 
 세부 정보는 PMC의 정보에 따라 결정되며, 회사가 적법한지 확인하기 위해 인증을 거칩니다.
+
 
 :::image type="content" source="images/migration/review.png" alt-text="세부 정보 검토":::
 

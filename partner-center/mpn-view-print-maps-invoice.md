@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, 송장, 지도, 세금 면제, VAT, VAT ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795939"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633813"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>IMicrosoft 파트너 네트워크의 송장 및 세금
 
@@ -62,3 +62,8 @@ ms.locfileid: "83795939"
 
 3.  회사에 대 한 VAT ID를 입력 하 고 **추가**를 선택한 후 **다음**을 선택 합니다. 
 
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터 청구 개요](billing-basics.md)
+
+- [원천 세금에 대 한 제공한 가져오기](withholding-tax-credit-form.md)

@@ -1,20 +1,21 @@
 ---
-title: 사용량 기반 청구 | 파트너 센터
+title: 사용량 기반 청구
 ms.topic: article
-ms.date: 11/21/2019
-Description: 월별 사용 요금에 대 한 요금이 청구 되는 파트너 센터의 사용량 기반 요금 청구에 대 한 정보입니다.
+ms.date: 06/05/2020
+Description: 월별 사용 요금에 대 한 요금이 청구 되는 파트너 센터의 사용량 기반 요금 청구에 대해 자세히 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 사용량 기반, 사용량
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797671"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603872"
 ---
-# <a name="usage-based-billing"></a>사용량 기반 청구
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>월간 종 량 제 사용량에 대 한 사용량 기반 청구 이해
 
 - 파트너 센터
 - CSP 프로그램의 파트너
@@ -27,7 +28,7 @@ Azure 구독과 같은 온라인 서비스를 구매 하는 경우 월간 사용
 
 **월간 청구** 는 사용량 기반 제품에만 사용할 수 있습니다. 월간 요금 청구에 대 한 자세한 내용은 [월별 및 연간 청구 차이점](billing-annual-monthly.md)을 참조 하세요.
 
-사용량 기반 구독은 체납의 **구독 기념일 날짜**에 매월 청구 됩니다. 예를 들어 구독 예정일 날짜가 15 인 경우 1 월 15 일에서 1 월 15 일 까지의 서비스 기간에 대 한 1 월 15 일에 대 한 요금이 청구 됩니다. 2 월 15 일 ~ 2 월 14 일 서비스 기간에 대해 2 월 15 일에 다시 청구 됩니다. 
+사용량 기반 구독은 체납의 **구독 기념일 날짜**에 매월 청구 됩니다. 예를 들어 구독 예정일 날짜가 15 인 경우 서비스 기간으로 1 월 15 일에서 1 월 14 일에 대 한 요금이 청구 됩니다. 1 월 15 일에서 2 월 14 일의 서비스 기간에 대해 2 월 15 일에 다시 청구 됩니다.
 
 ## <a name="usage-charges"></a>사용 요금
 

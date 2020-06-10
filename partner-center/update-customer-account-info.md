@@ -1,33 +1,35 @@
 ---
-title: 고객 계정 정보 업데이트 | 파트너 센터
+title: 고객 계정 정보 업데이트
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 고객의 청구 정보 및 기타 회사 세부 정보를 업데이트할 수 있습니다.
+description: 파트너 센터에서 고객의 청구 정보를 업데이트 하는 방법 또는 회사 세부 정보를 업데이트 하는 방법을 알아봅니다.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c5265fd7b6eb93e897929212b30bb045bae7e462
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f1ad9fbefd5c89568dad02d79dd27ccae2b63472
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797771"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603902"
 ---
-# <a name="update-customer-account-info"></a>고객 계정 정보 업데이트
+# <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>파트너 센터에서 고객 계정 정보, 회사 세부 정보 및 고객 청구 정보 업데이트
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
+파트너 센터에서 고객의 청구 정보 및 기타 회사 세부 정보를 업데이트할 수 있습니다. [고객이 자신의 제품 또는 서비스를 구입할 수 있도록 권한을 부여 하거나 제거할](give-customers-permission.md)수도 있습니다.
 
-파트너 센터에서 고객의 청구 정보 및 기타 회사 세부 정보를 업데이트할 수 있습니다. 또한 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한을 부여 하거나 제거할 수 있습니다.] [permission.md].
+## <a name="update-customer-details"></a>고객 세부 정보 업데이트
 
-**고객 세부 정보 업데이트**
+1. **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 그런 다음, 목록에서 고객을 선택합니다.
 
-1.  **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 그런 다음 목록에서 고객을 선택 합니다.
-2.  고객 메뉴에서 **계정** 을 선택 하 고 **업데이트**를 선택 합니다.
-3.  변경을 실행한 후 **제출**을 선택합니다.
+2. 고객 메뉴에서 **계정** 을 선택 하 고 **업데이트**를 선택 합니다.
+
+3. 변경을 실행한 후 **제출**을 선택합니다.

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467503"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633793"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>홍보를 사용 하 여 새 고객을 모집 하 고 절감 액을 전달 합니다.
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467503"
 - 청구 관리자
 - 영업 상담원
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Microsoft에서는 가끔 라이선스 기반 구독에 대한 프로모션을 제공하므로 이를 통해 비용을 절감하여 그 혜택을 고객에게 전달하고 비즈니스를 성장시킬 수 있습니다. 
 
@@ -46,14 +45,14 @@ Microsoft는 CSP (클라우드 솔루션 공급자) 프로그램의 모든 적�
 
 - 홍보 행사의 취소는 정기적으로 가격이 책정 된 구독과 동일한 프로세스 및 정책을 따릅니다.
 
-## <a name="see-available-promotions"></a>사용 가능한 승격을 참조 하세요.
+## <a name="see-available-promotions"></a>사용 가능한 프로모션 보기
 
-**프로 모션** 페이지에서 적합 한 프로 모션 (있는 경우)을 확인할 수 있습니다. **파트너 센터** 메뉴에서 **프로 모션** 을 선택 하 여 구독에 대 한 할인, 프로 모션 유형, 시작 및 종료 날짜와 함께 현재 홍보 행사 목록을 표시 합니다. 프로 모션을 사용할 수 없는 경우이를 나타내는 메시지가 표시 됩니다. 
+**프로모션** 페이지에서 적합한 프로모션(있는 경우)을 확인할 수 있습니다. **파트너 센터** 메뉴에서 **프로 모션** 을 선택 하 여 구독에 대 한 할인, 프로 모션 유형, 시작 및 종료 날짜와 함께 현재 홍보 행사 목록을 표시 합니다. 프로모션이 없는 경우 이를 알리는 메시지가 표시됩니다. 
 
 > [!NOTE]  
-> 구매할 때 프로 모션을 볼 수도 있습니다. 구독을 선택할 때 홍보 행사 가격은 **검토** 페이지에 표시 됩니다.
+> 구매할 때 프로모션을 볼 수도 있습니다. 구독을 선택하면 **검토** 페이지에 프로모션 가격이 표시됩니다.
 
-## <a name="purchase-subscriptions-at-promotion-prices"></a>프로 모션 가격으로 구독 구매
+## <a name="purchase-subscriptions-at-promotion-prices"></a>프로모션 가격으로 구독 구매
 
 1. **파트너 센터** 메뉴에서 **고객** 을 선택한 다음 구독을 구매 하는 고객을 선택 합니다. 
 

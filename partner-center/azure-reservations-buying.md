@@ -1,7 +1,7 @@
 ---
 title: 고객에 대 한 Microsoft Azure 예약 구입
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908297"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603722"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 
@@ -29,13 +29,13 @@ ms.locfileid: "82908297"
 
 - 관리 에이전트
 - 글로벌 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
-고객을 대신 하 여 Azure 예약을 구입 하기 전에 아래의 중요 한 정보를 검토 하세요. (구매한 이전 Azure 구독에서 고객이 자신의 Azure 예약을 구매할 수 있도록 하 시겠습니까? [고객에 게 고유한 Azure 예약을 구매할 수 있는 권한 부여] [고객-고객-사용 권한-사용자-고객-예약]을 참조 하세요.
+고객을 대신 하 여 Azure 예약을 구입 하기 전에 아래의 중요 한 정보를 검토 하세요. (구매한 이전 Azure 구독에서 고객이 자신의 Azure 예약을 구매할 수 있도록 하 시겠습니까? [고객에 게 Azure 예약을 구매할 수 있는 권한 부여를](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)참조 하세요.)
 
 - 고객이 새 Microsoft 고객 계약에 서명 하는 경우 (Microsoft 고객 [계약의 고객 승인 확인](confirm-customer-agreement.md)참조) azure 요금제에서 azure 예약을 구매 해야 합니다. 자세한 내용은 [Azure 계획 구매](purchase-azure-plan.md)를 참조 하세요.
 
@@ -112,7 +112,7 @@ ms.locfileid: "82908297"
 
     b. 제품 **유형** 목록에서 **예약** 을 선택 합니다.
 
-    c. **예약 유형** 목록에서 고객이 원하는 예약 유형을 선택합니다.
+    다. **예약 유형** 목록에서 고객이 원하는 예약 유형을 선택합니다.
 
 4. Azure 예약은 활성 Azure 구독과 연결 되어야 합니다. **고객 구독** 목록에서 Azure 예약을 추가 하려는 고객의 구독을 선택 합니다. 
 
