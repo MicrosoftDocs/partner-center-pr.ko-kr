@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단, 일시 중단, SaaS, 라이선스, ISV, 타사
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394148"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679060"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -31,7 +31,7 @@ ms.locfileid: "83394148"
 - 관리 에이전트
 - 청구 관리자
 - 글로벌 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 
 파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다. 여기에는 타사 Isv (독립 소프트웨어 공급 업체)가 [상업적 marketplace](https://azuremarketplace.microsoft.com/marketplace)에 게시 한 SaaS (Software As a Service) 제품 뿐만 아니라 Microsoft에서 게시 한 제품이 포함 됩니다.
@@ -43,7 +43,7 @@ ms.locfileid: "83394148"
 
 ## <a name="create-a-new-subscription"></a>새 구독 만들기
 
-1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
 
@@ -73,7 +73,10 @@ ms.locfileid: "83394148"
     - 해당 고객의 **구독** 페이지에서 구독 이름을 선택 하 여 구독을 검토 하거나 편집할 수 있습니다. 여기에서 사용 가능한 경우 추가 기능 라이선스를 선택하거나, 라이선스 수를 변경하거나, 구독을 일시 중단할 수 있습니다.
 
     **ISV SaaS (라이선스 기반) 구독의 경우:**
-    - ISV 게시자 사이트에 대 한 링크를 받게 됩니다. 이 링크를 통해 고객 구독의 배포 또는 계정 설정을 완료할 수 있습니다. (이 유형의 ISV 구독에 대 한 계정 설정/프로 비전을 완료 하는 지침이 포함 된 전자 메일을 받는 사용자와 고객 모두에 게 제공 되지 않습니다.)
+    - ISV 게시자 사이트에 대 한 링크를 받게 됩니다. 이 링크를 통해 고객 구독의 배포 또는 계정 설정을 완료할 수 있습니다.
+      
+    >[!NOTE]
+    > 이 유형의 ISV 구독에 대 한 계정 설정/프로 비전을 완료 하는 지침이 포함 된 전자 메일은 사용자 또는 고객 모두에 게 제공 되지 않습니다.
 
     - 구독에 30 일 무료 평가판이 제공 되는 경우 무료 평가판 기간이 자동으로 적용 됩니다. CSP 프로그램의 파트너는 고객을 위해 구매한 제품에 대 한 무료 평가판 기간을 되지 않으며 수 없습니다. 무료 평가판 기간이 종료 되 면 구독 기간이 시작 되 고 구독이 유료 상태로 전환 됩니다. 그러면 구독은 동일한 일정에 따라 autorenew 됩니다.
 
@@ -159,4 +162,4 @@ ISV 게시자에서 라이선스 기반 SaaS 구독을 취소하려면 다음을
 
 - [고객을 위한 상업적 마켓플레이스 제품 관리](csp-commercial-marketplace-manage.md)
 
-- [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)
+- [상업용 Marketplace 개요](csp-commercial-marketplace-overview.md)

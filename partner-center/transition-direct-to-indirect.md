@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 전환, 간접 재판매인
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458409"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679450"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -225,13 +225,11 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 ### <a name="pre-requisites"></a>필수 구성 요소
 
-기능을 사용 하기 전에 다음에 유의 하십시오.
-
 - 이 기능은 기존 직접 청구 파트너 테 넌 트를 사용 하 여 간접 재판매인 등록을 완료 한 파트너를 전환 하는 경우에만 사용할 수 있습니다.
 
 - 지정 된 고객과 연결 된 구독을 전송 하기 전에 전환 파트너가 고객을 간접 공급자로 이동 해야 합니다.
 
-- 고객이 [간접 공급자를 통해 Microsoft 고객 계약](#microsoft-customer-agreement-acceptance)에 동의 했습니다.
+- 고객은 [간접 공급자를 통해 Microsoft 고객 계약에 동의](#microsoft-customer-agreement-acceptance)해야 합니다.
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>간접 재판매인 상태로 전환 하는 방법
 

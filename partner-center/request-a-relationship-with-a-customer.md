@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467373"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679410"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객 으로부터 대리점 관계를 요청 하는 방법
 
@@ -26,11 +26,12 @@ ms.locfileid: "84467373"
 
 고객과 재판매인 관계를 설정 하 고 프로 비전 하는 Azure 구독만 관리 하려면 관리자 권한을 얻을 필요가 없습니다.
 
-미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드에서 작동 하는 파트너는 사용 권한을 요청 하지 않는 옵션을 사용할 수 없습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)하는 방법을 참조 하세요.
+>[!NOTE] 
+>사용 권한을 요청 하지 않는 옵션은 미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드 작동 하는 파트너에 게 제공 되지 않습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)하는 방법을 참조 하세요.
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
 
-국가 또는 동일한 지역에 있는 고객과 대리점 관계를 요청할 수 있습니다.
+국가 또는 동일한 지역 내에서 고객과 대리점 관계를 요청할 수 있습니다.
 
 1. **파트너 센터** 메뉴에서 **고객**을 선택한 다음, **재판매인 관계 요청**을 선택합니다.
 

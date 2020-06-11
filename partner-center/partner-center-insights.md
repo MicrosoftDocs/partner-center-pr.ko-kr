@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467533"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679300"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
 
@@ -37,7 +37,7 @@ Insights는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Mi
 전역 관리자 또는 계정 관리자는 이러한 역할을 사용자에 게 할당할 수 있으며 전체 회사 또는 특정 MPN 위치에 할당 됩니다.  
 
 >[!Note] 
->MPN 관리자가 Dec 2, 2019 인 사용자는 회사 전체의 보고서 뷰어 역할에 자동으로 추가 됩니다. 전역 관리자 또는 계정 관리자에 게 필요한 명시적인 조치 없이 보고서를 보고서 뷰어로 액세스할 수 있습니다. 전역 관리자 또는 계정 관리자는 필요한 경우 이러한 할당을 재정의할 수 있습니다. 
+>MPN 관리자가 1 월 20, 2020 인 사용자는 회사 전체의 보고서 뷰어 역할에 자동으로 추가 됩니다. 전역 관리자 또는 계정 관리자에 게 필요한 명시적인 조치 없이 보고서를 보고서 뷰어로 액세스할 수 있습니다. 전역 관리자 또는 계정 관리자는 필요한 경우 이러한 할당을 재정의할 수 있습니다. 
 
 ## <a name="reports-available"></a>사용 가능한 보고서
 

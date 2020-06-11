@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452981"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679360"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 역량 보고서
 
@@ -48,7 +48,7 @@ ms.locfileid: "84452981"
 - 역량 기록
 
  > [!NOTE]
- > 이 보고서는 PCI (파트너 센터 정보) 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요. 이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
+ > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요. 이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
 
 **Summmary**
 

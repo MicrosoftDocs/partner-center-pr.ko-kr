@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633823"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661666"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -94,7 +94,19 @@ CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 �
 |GCC(정부 커뮤니티 클라우드)|파트너 및 고객|GCC를 사용 하도록 설정 하 고 나면 파트너가 GCC 고객을 만들 수 있습니다.| 라이선스 기반만|
 |Azure Government|파트너|자격이 부여 되 면 파트너는 Azure Government 관련 된 CSP 테 넌 트에서 작동 합니다.|Azure 리소스|
 
-목록 가격과 예상 소매 가격 간의 차이는 세그먼트 마다 다를 수 있습니다. 일반적으로 교육 및 비영리는 CSP 파트너에 대 한 여백이 낮거나 없는 경향이 있습니다. 정확한 값은 라이선스 기반 가격 목록을 참조 하십시오.  
+목록 가격과 예상 소매 가격 간의 차이는 세그먼트 마다 다를 수 있습니다. 일반적으로 교육 및 비영리는 CSP 파트너에 대 한 여백이 낮거나 없는 경향이 있습니다. 정확한 값은 라이선스 기반 가격 목록을 참조 하십시오. 
+
+## <a name="add-on-offer-types"></a>추가 기능 제안 유형
+
+라이선스 기반 서비스는 기본 제공 또는 추가 기능 중 하나로 가져올 수 있습니다. 기본 제공만 파트너 센터 카탈로그를 통해 검색 및 구입 가능 됩니다. 기본 제안을 구매한 후 추가 기능을 적용 해야 합니다. 라이선스 기반 가격 목록 **보조 라이선스 유형** 열에는 각 제품 및 유형에 대 한 정보가 포함 됩니다. 기본 제공에는 가격 목록 보조 라이선스 유형 열에 **특정 하지 않은** 값이 있으며 카탈로그에서 구매할 수 있습니다. **추가 기능** 에 대 한 보조 라이선스 유형 값은 카탈로그에서 구매할 수 없습니다. 이러한 추가 기능을 구매 하려면 다음을 수행 합니다.
+
+1. 제품 목록 매트릭스를 참조 하 여 추가 기능을 구입 하기 전에 구입 해야 하는 제품 id 목록을 확인 합니다.
+2. 카탈로그에서 기본 제품 구매
+3. 고객 목록에서 고객으로 이동 합니다. 방금 구매한 기본 제품에 대 한 구독을 클릭 합니다. 구독 관리 페이지에는 기본 제안에 적용 될 수 있는 사용 가능한 추가 기능이 표시 됩니다.
+
+> [!Note] 
+> 일부 기본 제공 **에는 추가 기능 라이선스**의 **단위 유형** 값이 있습니다. 기본 제품의 경우이는 구매 후 사용자 라이선스를 할당 하지 않는다는 것을 의미 합니다. 제품을 카탈로그에서 구매할 수 있는 경우 사용자 인터페이스의 단위 유형에 관계 없이 **기본 제품** 입니다.
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure와 비 Azure 간의 가격 책정
 
 가격은 제품 유형에 따라 다릅니다. 라이선스 기반 가격은 일반적으로 특정 월에 대 한 사용자 단위 (라이선스)입니다. 사용 빈도 기반 가격은 지정 된 리소스를 사용 하 여 지정 된 측정기 ID를 사용 하 여 결정 됩니다. 파트너는 Azure 구독 획득에 대 한 요금이 청구 되지 않습니다. 그러나 파트너는 Azure 구독에 따라 다른 배포에서 사용 되는 리소스에 대해 요금이 청구 됩니다. 사용량 기반 가격 목록의 가격은 Azure에서 다양 한 리소스 측정기 Id를 기준으로 구성 됩니다.

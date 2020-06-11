@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 직접 청구, 제한
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467233"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679420"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
 
@@ -58,7 +58,10 @@ ms.locfileid: "84467233"
 
 - 기존 사용자 기반 구독의 좌석 수 조정
 
-- 구독에 대 한 기존 추가 기능의 수를 조정 합니다. 참고: 새 구입으로 처리 되므로 기존 구독에 새 추가 기능을 추가할 수 없습니다.
+- 구독에 대 한 기존 추가 기능의 수를 조정 합니다. 
+ 
+    >[!Note] 
+    >새 구매로 처리 되는 기존 구독에 새 추가 기능을 추가할 수 없습니다.
 
 - 기존 azure 구독에서 새 Azure 리소스를 배포 하 고 기존 Azure 리소스를 관리 합니다. 여기에는 Azure marketplace 및 Visual Studio 구독을 통해 제공 되는 리소스가 포함 됩니다.
 
@@ -68,7 +71,7 @@ ms.locfileid: "84467233"
 
 - 고객에 게 직접 재판매인 관계를 요청 하는 초대를 생성할 수 없습니다. 파트너 센터의 **고객** 페이지에서 **재판매인 관계 요청** 옵션은 사용할 수 없습니다.
 
-    >[!Note]
+    >[!NOTE]
     >직접 청구 파트너에서 간접 재판매인으로 전환 하는 과정의 일환으로, 직접 청구 파트너 테 넌 트를 간접 재판매인으로 등록 한 경우 대신 간접 대리점 관계를 요청 하는 고객에 게 초대를 생성할 수 있습니다.
 
 - 새 샌드박스 테 넌 트를 만들 수 없습니다. 각 직접 청구 파트너 테 넌 트는 직접 청구 API 통합을 위해 하나의 샌드박스 테 넌 트를 만들 수 있습니다. 이전에 만든 적이 없는 경우 청구서 파트너 기능이 제한 된 후에는이 작업을 수행할 수 없습니다.  

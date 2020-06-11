@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
-  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.openlocfilehash: 26c91899fa218041d3a98c565a789004471c5218
+  ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 06/05/2020
-  ms.locfileid: "84453350"
+  ms.lasthandoff: 06/10/2020
+  ms.locfileid: "84679440"
 items:
 - title: 소개
   durationInMinutes: 5
@@ -150,4 +150,4 @@ items:
 
       :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="추가 보안 유효성 검사 확인":::
 
-    사용자가 위의 단계를 완료하면 액세스하려는 Microsoft 클라우드 서비스에 로그인할 수 있습니다. 파트너 보안 요구 사항이 적용되기 전에는, *관리자용 MFA 필요* 기준 정책에 포함되지 않는 사용자에게 위험에 따라 MFA를 요청하는 메시지만 표시됩니다.
+    사용자가 위의 단계를 완료하면 액세스하려는 Microsoft 클라우드 서비스에 로그인할 수 있습니다. 파트너 보안 요구 사항이 적용 될 때 까지는 *관리자에 대 한 Mfa 필요* 기준 정책에 포함 되지 않은 사용자에 게는 위험에 따라 mfa를 묻는 메시지만 표시 됩니다.

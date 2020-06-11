@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3d4896fbff07eebc1dd6debf6010dc3970f45a4a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452812"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679320"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 제품 구독 보고서
 
@@ -38,7 +38,7 @@ ms.locfileid: "84452812"
 - 제품 추세
 
  > [!NOTE]
- > 이 보고서는 PCI (파트너 센터 정보) 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요. 이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
+ > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요. 이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
 
 **요약**
 

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 라이선스 할당, 라이선스 해지, 여러 사용자에 게 할당,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798571"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679100"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>다수의 사용자에게 라이선스 할당 및 해지
 
@@ -27,7 +27,7 @@ ms.locfileid: "82798571"
 
 - 관리 에이전트
 - 글로벌 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
 
@@ -76,7 +76,8 @@ ms.locfileid: "82798571"
 
 8. **저장**을 선택합니다. 파트너 센터는 사용자 및 새 라이선스가 나열 된 **라이선스 업데이트** 확인 페이지를 엽니다.
 
-**참고**  일부 Microsoft 제품은 특정 위치에서 사용 하지 못할 수 있습니다. 다른 제품은 다른 제품 또는 서비스에 종속 되거나 동일한 사용자에 게 함께 할당 될 수 없습니다. 저장 한 후에는 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과 및 라이선스 할당의 모든 오류가 나열 됩니다.
+>[!NOTE]
+>일부 Microsoft 제품은 특정 위치에서 사용 하지 못할 수 있습니다. 다른 제품은 다른 제품 또는 서비스에 종속 되거나 동일한 사용자에 게 함께 할당 될 수 없습니다. 저장 한 후에는 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과 및 라이선스 할당의 모든 오류가 나열 됩니다.
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ ms.locfileid: "82798571"
 
 7. **저장**을 선택합니다.
 
-## <a name="related-topics"></a>관련 항목
+## <a name="next-steps"></a>다음 단계
 
 [사용자에게 라이선스 할당](assign-licenses-to-users.md)

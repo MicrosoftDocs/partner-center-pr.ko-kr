@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 도움말 에이전트, 지원, 지원 담당자 지정 지원 연락처
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907468"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679000"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>고객에 대 한 기술 지원 담당자로 재판매인 할당
 
@@ -28,7 +28,7 @@ ms.locfileid: "82907468"
 
 - 관리 에이전트
 - 글로벌 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
 
@@ -47,14 +47,12 @@ ms.locfileid: "82907468"
 
 3.  **지정 된 지원 담당자**에서 지정 된 제품 재판매인을 선택 하 고 **제출**을 클릭 합니다. 
 
-    메모: 
-    
-    *  새 구독의 경우 지정 된 지원 담당자의 기본값은 간접 공급자입니다. 위임 관리자 권한이 있는 간접 재판매인으로 변경할 수도 있습니다.
-    
-    *  재판매인의 이름이 사용 가능한 지원 연락처 목록에 표시 되지 않는 경우 [관계를 요청](request-a-relationship-with-a-customer.md)하 여에 해당 이름을 추가 합니다. 관계가 설정 된 후에는 목록에 표시 됩니다.  
+   >[!NOTE]  
+ >새 구독의 경우 지정 된 지원 담당자의 기본값은 간접 공급자입니다. 위임 된 관리자 권한이 있는 간접 재판매인으로 변경할 수도 있습니다.    
+>재판매인의 이름이 사용 가능한 지원 연락처 목록에 표시 되지 않는 경우 [관계를 요청](request-a-relationship-with-a-customer.md)하 여에 해당 이름을 추가 합니다. 관계가 설정 된 후에는 목록에 표시 됩니다.  
 
 4.  변경 내용이 올바른지 검토 한 후 **닫기**를 선택 합니다.
 
-## <a name="related-topics"></a>관련 항목
+## <a name="next-steps"></a>다음 단계
 
 [고객과의 관계 제거](remove-a-relationship.md)

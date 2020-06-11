@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: autopilot, windows autopilot, microsoft autopilot, zero touch 배포, oobe, 로그인 화면, 기본
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908378"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679190"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>새 장치에서 Windows Autopilot 프로필을 사용 하 여 고객의 기본 환경을 사용자 지정 합니다.
 
@@ -112,7 +112,7 @@ Autopilot에 익숙하지 않은 경우 다음 문서의 정보를 검토 하세
 
     b.  적절 한 OOBE 화면 (있는 경우)이 표시 되는지 확인 합니다.
 
-    c.  OOBE 프로세스가 중지 되 면 장치를 공장 기본 설정으로 다시 설정 하 여 새 사용자에 대해 준비 합니다.
+    다.  OOBE 프로세스가 중지 되 면 장치를 공장 기본 설정으로 다시 설정 하 여 새 사용자에 대해 준비 합니다.
 
 ### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>고객의 장치에서 Autopilot 프로필 제거
 
@@ -175,7 +175,8 @@ OEM 이름, 일련 번호 및 모델 조합을 사용할 계획인 경우 다음
 
 > **{,,,) Microsoft Corporation, Surface 노트북**
 
-"제조업체 이름" 및 "장치 모델"은 대/소문자를 구분 합니다.
+>[!NOTE]
+> "제조업체 이름" 및 "장치 모델"은 대/소문자를 구분 합니다.
 
 제조업체 이름 및 장치 모델에 넣을 값을 모르는 경우 장치에서이를 실행 하 여 올바른 값을 수집할 수 있습니다.
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458399"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679400"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>새로운 파트너 센터 기능을 시험 하 고 파트너 센터의 미래를 위한 도움을 제공 합니다.
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458399"
 
 파트너 센터에 대 한 새로운 기능 및 기능을 지속적으로 출시 하 고 있으며 사용자 의견을 원합니다. 
 
-전 세계 파트너 센터 커뮤니티에 새 기능이 출시되기 전에 미리 사용해 보시고 여러분의 생각을 알려주세요. 새 기능을 비즈니스 성장에 어떤 방식으로 이용할 것인지 계획을 세울 수 있도록 [파트너 센터 공지 페이지](announcements/index.md)에서 조만간 출시될 기능에 대해 알아보세요. 특정 시점에 몇 가지 기능을 시험 사용해 볼 기회가 있을 수도 있습니다.
+전 세계 파트너 센터 커뮤니티에 새 기능이 출시되기 전에 미리 사용해 보시고 여러분의 생각을 알려주세요. 새 기능을 비즈니스 성장에 어떤 방식으로 이용할 것인지 계획을 세울 수 있도록 [파트너 센터 공지 페이지](announcements/index.md)에서 조만간 출시될 기능에 대해 알아보세요. 지정 된 시간에 드라이브를 테스트 하는 데 사용할 수 있는 몇 가지 기능이 있을 수 있습니다.
 
 ### <a name="test-drive-a-feature"></a>기능 시험 사용
 
@@ -58,4 +58,4 @@ ms.locfileid: "84458399"
 - 기능 미리 보기와 관련하여 문제가 발생하는 경우 지원을 요청하세요. 지원 요청을 작성하려면 **파트너 센터** 메뉴에서 **지원 요청 > 파트너 센터 요청**을 선택한 다음, **파트너 센터 요청** 페이지에서 **새 요청**을 선택하세요.
 
 
--- 파트너 센터 팀 드림
+
