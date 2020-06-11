@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908345"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452630"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 
@@ -57,11 +57,11 @@ ms.locfileid: "82908345"
 
 1. 경고를 만듭니다.
 
-![azure 경고](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="azure 경고":::
 
 2. 경고를 발생시킬 작업 유형을 선택합니다. 예를 들어 이메일을 원하는 것으로 지정하는 경우 역할 할당 삭제가 발생하면 알려주는 이메일을 받게 됩니다.
 
-![경고 구성](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="경고 구성":::
 
 ### <a name="aobo-removal"></a>AOBO 제거
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908159"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453270"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
 
@@ -33,7 +33,6 @@ ms.locfileid: "82908159"
 
 - 간접 재판매인, 직접 청구, 간접 공급자
 
-
 2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. 간접 재판매인에 대한 추가 [지침](indirect-reseller-tasks-in-partner-center.md)을 참조하세요. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 두 계약은 2020년 1월 31일까지 CSP 프로그램에서 모두 지원되었습니다. 2020년 2월 1일부터 Microsoft Cloud 계약이 Microsoft 고객 계약으로 바뀌었습니다.
 
 고객은 Microsoft 고객 계약에 동의하는 두 가지 옵션을 사용할 수 있습니다. 
@@ -44,7 +43,7 @@ ms.locfileid: "82908159"
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Microsoft 고객 계약 템플릿 액세스
 
-최신 버전의 Microsoft 고객 계약 템플릿은 [여기](https://aka.ms/customeragreement)서 수동으로 다운로드할 수 있습니다. Microsoft 고객 계약은 국가마다 다릅니다. Microsoft 고객 계약 템플릿을 요청하는 경우 고객의 위치에 따라 올바른 국가를 선택해야 합니다. 
+최신 버전의 Microsoft 고객 계약 템플릿은 [여기](https://aka.ms/customeragreement)서 수동으로 다운로드할 수 있습니다. Microsoft 고객 계약은 국가마다 다릅니다. Microsoft 고객 계약 템플릿을 요청하는 경우 고객의 위치에 따라 올바른 국가를 선택해야 합니다.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>옵션 1: 파트너 센터에서 고객의 동의 여부 확인
 
@@ -58,7 +57,7 @@ ms.locfileid: "82908159"
 
 2. **계정 정보**에서 회사 및 기본 연락처의 정보를 입력합니다.
 
-3. **Microsoft 계약** 아래에서 고객이 Microsoft 고객 계약에 동의했음을 증명하기 위한 확인란을 선택합니다. 
+3. **Microsoft 계약** 아래에서 고객이 Microsoft 고객 계약에 동의했음을 증명하기 위한 확인란을 선택합니다.
 
 4. **계약 동의 날짜**에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
 
@@ -66,7 +65,7 @@ ms.locfileid: "82908159"
 
 6. 고객 테넌트를 계속 생성하려면 **다음**을 선택합니다.
 
-![새 고객](images/mca/newcustomeragreement.jpg)  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="새 고객":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>기존 고객의 경우 고객 동의 여부 확인
 
@@ -82,7 +81,7 @@ ms.locfileid: "82908159"
 
 5. **저장**을 선택하고 계속합니다.
 
-![기존 고객](images/mcua2-update2.png)
+   :::image type="content" source="images/mcua2-update2.png" alt-text="기존 고객":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>고객 동의 여부 확인 검색
 
@@ -102,10 +101,9 @@ ms.locfileid: "82908159"
 
 - [고객의 Microsoft 고객 계약 동의 여부 확인](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [고객의 Microsoft 고객 계약 동의 확인 정보 가져오기](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Microsoft 고객 계약에 대한 고객 동의 확인 가져오기](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Microsoft 고객 계약 템플릿 다운로드 링크 가져오기](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>옵션 2: Microsoft 365 관리 센터에서 고객 동의
 
@@ -132,7 +130,7 @@ ms.locfileid: "82908159"
 
 4. **다음: 검토**를 선택한 다음, 고객 테넌트를 만드는 단계를 계속 진행합니다. (참고: 새 고객은 Microsoft 고객 계약에 동의할 때까지 새로 구매할 수 없습니다.)  
 
-![새 고객 만들기](images/mca/create-new-customer.jpg)
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="새 고객 만들기":::
 
 5. 새 고객 워크플로에서 **확인** 화면에 도달하면 고객 자격 증명을 저장합니다. 이러한 자격 증명은 나중에 고객에게 제공해야 합니다.
 
@@ -160,7 +158,7 @@ ms.locfileid: "82908159"
 
 4. 이 이메일 템플릿을 사용하여 **재판매인 관계** 요청과 **Microsoft 고객 계약**에 동의하도록 고객을 초대합니다. (참고: 파트너는 자동으로 제공된 URL과 최근에 만든 고객 자격 증명도 이메일 초대에 포함해야 합니다.)
 
-![관계 만들기](images/mca/createrelationship.png)
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="관계 만들기":::
 
 5. 고객이 이메일을 통해 초대를 받고, 매개 변수화된 URL을 클릭합니다. 
 
@@ -170,10 +168,10 @@ ms.locfileid: "82908159"
 
 8. 고객은 동일한 URL 내에서 작업 중인 여러 파트너에 대한 통합 목록을 볼 수 있습니다. 파트너를 선택하여 세부 정보를 확인할 수 있습니다.
 
-![계약 동의](images/mca/accept.jpg)
+   :::image type="content" source="images/mca/accept.jpg" alt-text="계약 동의":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>계약을 검토하고 동의하도록 기존 고객 초대 
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>계약을 검토하고 동의하도록 기존 고객 초대
 
 다음 단계에 따라 Microsoft 고객 계약을 검토하고 동의하도록 기존 고객을 초대합니다. 
 
@@ -187,7 +185,7 @@ ms.locfileid: "82908159"
 
 5. 고객은 동일한 URL 내에서 작업 중인 여러 파트너에 대한 통합 목록을 볼 수 있습니다. 파트너를 선택하여 세부 정보를 확인할 수 있습니다.
 
-![고객](images/mca/customeraccept.png)
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="고객":::
 
 >[!NOTE]
 >특정 시나리오에서는 고객이 Microsoft 고객 계약에 직접 동의하지 않을 수 있습니다. 이러한 상황에 대한 자세한 내용은 [고객을 대신하여 증명해야 하는 두 가지 시나리오](attest-acceptance-customer-agreement.md)를 참조하세요.

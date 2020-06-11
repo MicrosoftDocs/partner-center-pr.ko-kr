@@ -1,7 +1,7 @@
 ---
 title: CSP 프로그램의 파트너 옵션
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램 파트너 자격으로 고객에게 판매할 수 있는 Microsoft 클라우드 서비스와 제품의 광범위한 카탈로그에 대해 알아보세요.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362331"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467243"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 개요
 
@@ -106,6 +106,10 @@ CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원
 7. **주문 검토** 페이지에서 제품 및 수량을 확인 또는 변경한 다음, **구입**을 선택하여 주문 항목을 구입합니다.
 
 8. 주문 번호를 비롯한 주문 세부 정보는 다음 페이지에 표시됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다.
+
+## <a name="rules-for-special-segments"></a>특수 세그먼트에 대한 규칙
+
+일부 라이선스 기반 제품은 특정 조건에서만 구매할 수 있습니다. 특수 세그먼트 제품에는 교육, 비영리 또는 GCC(정부 커뮤니티 클라우드) 제품이 포함 됩니다. 이러한 구매 조건에 대한 세부 정보는 [특수 세그먼트에 대한 구매 규칙 항목](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)에서 찾을 수 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 

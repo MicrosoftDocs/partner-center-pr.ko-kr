@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿, 동의 증명
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908399"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452720"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>고객을 대신하여 Microsoft 고객 계약 동의 증명
 
@@ -46,7 +46,7 @@ ms.locfileid: "82908399"
 
 **해결 방법**: 고객을 대신하여 증명해야 합니다.
 
-![고객](images/mca/accept-scenario-1.png)
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="고객":::
 
 **시나리오 2**: 기존 고객이 제품, 소프트웨어 및 소프트웨어 구독, 예약된 인스턴스 및 Azure 플랜을 구입했습니다. 이제 고객이 새 파트너와 함께 새로운 구매를 시도하고 있습니다.
 
@@ -54,4 +54,4 @@ ms.locfileid: "82908399"
 
 **해결 방법**: 고객을 대신하여 증명해야 합니다.  
 
-![고객](images/mca/accept-scenario-2.png)
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="고객":::

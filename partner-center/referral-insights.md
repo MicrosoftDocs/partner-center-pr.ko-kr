@@ -1,22 +1,23 @@
 ---
-title: 조회 인사이트 얻기 | 파트너 센터
+title: 조회 인사이트 얻기
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 조회 인사이트 데이터를 정기적으로 검토하여 주의가 필요한 추세 또는 영역을 파악하고, 비즈니스 목표를 달성하세요.
-author: JnHs
-ms.author: jenhayes
+description: 파트너 센터에서 정기적으로 추천 인사이트를 검토하여 비즈니스 목표를 달성하는 데 도움이 되는 추세 또는 개선 사항 영역을 확인합니다.
+author: LauraBrenner
+ms.author: labrenne
 keywords: 조회, 분석, 분석 정보, 메트릭, 전환
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654122"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467453"
 ---
-# <a name="get-referral-insights"></a>조회 인사이트 얻기
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>파트너 센터에서 추천 인사이트를 얻고 추천을 수행하는 방법을 알아보세요.
 
 **적용 대상**
 
@@ -65,7 +66,7 @@ ms.locfileid: "73654122"
 - **조회 위치** 섹션에는 각 국가/지역에 대한 세부 정보와 함께 조회의 원래 국가/지역이 표시됩니다.
 - **조회 추세** 섹션에는 선택한 기간의 조회 성과 스냅샷이 표시됩니다.
 - **조회 상태** 섹션에는 여러 단계의 총 조회 수를 보여주는 시각적 표시기가 표시됩니다.
-- **전환 깔때기** 섹션에는 **신규**에서 **수락** 또는 **성공**으로 이동한 조회 수를 보여주는 시각적 표시기가 있습니다.
+- **전환 깔때기** 섹션에는 **신규**에서 **수락** 또는 **성공**으로 이동한 조회 수를 보여 주는 시각적 표시기가 있습니다.
 - **평균 진행 시간** 섹션에는 조회이 각 단계를 통과하는 데 걸린 평균 일 수가 표시됩니다(예: **신규**에서 **수락**으로 이동).
 - **보류 중인 조회** 섹션에는 **작업을 수행**하고 보류 중인 조회를 수락 또는 거부하는 링크와 함께 아직 수락 또는 거부되지 않은 조회에 대한 정보가 표시됩니다. 보류 중인 조회가 없으면 여기에 데이터가 표시되지 않습니다.
 

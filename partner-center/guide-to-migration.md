@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795837"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453240"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
@@ -45,7 +45,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 초대에서 **시작하기**를 선택합니다. 파트너 센터 로그인 페이지로 이동됩니다.
 
-![시작](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="시작":::
 
 ## <a name="start-with-your-work-email"></a>업무용 메일로 시작
 
@@ -54,7 +54,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 >[!Note]
 >중국의 파트너이며 Microsoft 파트너 네트워크와 CSP(클라우드 솔루션 공급자) 프로그램 모두에 등록되어 있는 경우 각 계정에 대해 별도의 테넌트가 제공됩니다. 클라우드 솔루션 공급자 프로그램 계정은 국가 클라우드에서 관리되고 Microsoft 파트너 네트워크 계정은 글로벌 클라우드에서 관리됩니다. 두 계정을 연결할 수 없습니다.
 
-![회사에 대한 정보 제공](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="회사에 대한 정보 제공":::
 
 정보를 확인하거나 업데이트한 후 **동의 후 계속**을 선택합니다.
 이 페이지의 계약조건은 회사가 PMC에서 이미 서명한 계약과 **똑같습니다**.  
@@ -72,7 +72,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 새 Azure AD 테넌트가 생성되면 파트너 센터에 로그인하도록 직원들을 초대할 수 있습니다.
 
-![직원 초대](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="직원 초대":::
 
 기존 AAD 테넌트로 로그인하면 직원이 귀사와 함께 이동합니다. 이 경우 파트너 센터에서 수행할 수 있는 작업을 결정하는 역할을 직원에게 할당합니다. 참고: 파트너 센터의 역할은 PMC의 역할과 다릅니다. 자세한 내용은 [PMC에서 파트너 센터로 이동](move-pmc-pc-map.md)을 참조하세요.
 
@@ -80,11 +80,11 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 역할이 할당되지 않습니다. 글로벌 관리자가 되려면 도메인 소유권을 확인해야 합니다. 이를 위해 도메인 관리자가 필요할 수 있습니다. 이미 구매한 제품을 사용할 수 있지만 글로벌 관리자를 가져오는 단계를 완료할 때까지 새 제품을 구매할 수 없습니다.
 
-![제어](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="제어":::
 
 시작하기를 선택하면 다음 화면이 나타납니다.
 
-![도메인 소유권 확인](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="도메인 소유권 확인":::
 
 도메인 등록 기관은 이미 입력되어 있습니다. 도메인 소유자만 DNS 파일을 업데이트할 수 있으므로 텍스트 파일을 복사하고 DNS 레코드에 추가하여 자신이 소유자인지 확인할 수 있습니다. 업데이트가 수행되는 데 몇 분 정도 걸릴 수 있습니다. 파트너 센터에서 로그아웃했다가 다시 로그인해야 합니다. 역할이 글로벌 관리자로 변경됩니다.
 
@@ -92,7 +92,7 @@ AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 
 
 대시보드를 둘러봅니다. 여기에서 멤버십을 관리하고, 조회를 위한 비즈니스 프로필을 추가하고, 클라우드 솔루션 공급자 프로그램에 등록하고, **대시보드**를 선택하여 언제든지 비즈니스에 관련된 알림과 제품을 확인할 수 있습니다. 또한 인센티브를 관리하고, 마켓플레이스에서 구매하고, 출시 서비스에 가입하는 등의 작업을 수행할 수 있습니다.  
 
-![둘러보기](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="둘러보기":::
 
 ## <a name="next-steps"></a>다음 단계
 
