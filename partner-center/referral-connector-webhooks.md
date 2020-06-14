@@ -11,16 +11,16 @@ ms.author: labrenne
 keywords: 조회, webhook api, 리소스 변경 이벤트
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467473"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749173"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Webhook Api를 사용 하 여 Dynamics 365 CRM 및 Salesforce CRM에 대 한 리소스 변경 이벤트 등록
 
-### <a name="appropriate-roles"></a>적절 한 역할
+### <a name="appropriate-roles"></a>적절한 역할
 
 - 조회 관리자
 - Dynamics 365 CRM 또는 Salesforce CRM에 대 한 시스템 관리자 또는 시스템 사용자 지정자
@@ -40,7 +40,7 @@ ms.locfileid: "84467473"
 
 3. 이러한 업데이트를 수행 하면 다음과 같이 표시 됩니다.
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="웹 후크":::
 
 4. 변경 내용을 저장 하 고 **켜기**를 선택 합니다.
 

@@ -1,23 +1,23 @@
 ---
 title: 고급 특수화 획득
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고급 특수화는 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 골드 역량을 바탕으로 고급 특수화를 획득 하는 방법을 알아보세요.
+description: 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 골드/실버 역량과 함께 고급 특수화를 획득 하는 방법을 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
-keywords: 역량, 골드 멤버 자격, mpn, 지도, 숙련도, Microsoft 파트너 네트워크, 네트워크 구성원 자격, 고급 전문
+keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825624"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749155"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>고급 특수화를 통해 비즈니스 프로필을 고객에 게 어떻게 활용할 수 있습니까?
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>비즈니스 프로필을 고객에 게 활용 하는 고급 특수화
 
 고급 특수화를 사용 하 여 골드 역량 이상으로 이동 하세요. 고급 특수화를 통해 제품, 솔루션 영역 또는 서비스에서 검증 되 고 검증 된 전문 지식을 활용할 수 있습니다. 고객은 파트너 디렉터리의 비즈니스 프로필에서 골드 역량 및 고급 전문화를 모두 볼 수 있습니다. 고급 특수화 태그를 받으려면 비즈니스는 게시 된 조건 집합을 충족 하 고 Microsoft에서 유효성을 검사 해야 합니다. [자세한 정보를 알아보세요](https://partner.microsoft.com/membership/advanced-specialization).
 
@@ -41,3 +41,6 @@ ms.locfileid: "83825624"
 
 - **Microsoft Azure 웹 응용 프로그램의 현대화** 응용 프로그램 개발 및 콘텐츠 관리 시스템에 대 한 고객의 성공을 보장 합니다. 프로덕션 웹 애플리케이션 워크로드의 마이그레이션 및 배포, DevOps 사례 적용, Microsoft Azure에서 애플리케이션 서비스를 관리하는 방법에 대한 전문 지식을 보여주세요.
 
+ ## <a name="next-steps"></a>다음 단계
+
+ [골드 및 실버 멤버 자격에 대 한 Microsoft 역량 요구 사항](learn-about-competencies.md) 에 대 한 자세한 정보

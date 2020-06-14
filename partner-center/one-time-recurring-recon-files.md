@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e5fc08500cfe78f8e814ed361062c209b0f76ef
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998419"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749194"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>파트너 센터에서 일회성 및 되풀이 조정 파일
 
@@ -24,7 +24,7 @@ ms.locfileid: "83998419"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
