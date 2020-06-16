@@ -1,21 +1,22 @@
 ---
-title: 비즈니스 프로필 분석 | 파트너 센터
+title: 비즈니스 프로필 분석
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스 프로필 정보 페이지를 사용 하 여 대상 고객의 주의를 캡처하고 조회를 생성 하는 방법을 확인 하는 방법을 알아봅니다.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722356"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788755"
 ---
-# <a name="analyze-your-business-profile"></a>비즈니스 프로필 분석
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>비즈니스 프로필 분석-대상 고객과 잠재적 조회를 얼마나 잘 사용할 수 있는지 확인 합니다.
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -32,12 +33,12 @@ https://go.microsoft.com/fwlink/?linkid=849120
 - MPN 파트너 관리자
 - 추천 관리자
 - 비즈니스 프로필 관리자
-- 관리자 에이전트
-- 영업 에이전트
+- 관리 에이전트
+- 영업 상담원
 
 파트너 센터의 **비즈니스 프로필 정보** 페이지를 사용 하 여 대상 고객의 주의를 캡처하고 조회를 생성 하는 방법을 확인할 수 있습니다.
 
-조회 정보 데이터를 보려면 파트너 센터 메뉴에서 **조회 > 비즈니스 프로필 정보**로 이동 합니다. 데이터는 프로필 실적을 보여주고 추세를 분석하고 조치가 필요한 영역을 식별합니다.
+조회 정보 데이터를 보려면 파트너 센터 메뉴에서 **조회 > 비즈니스 프로필 정보**로 이동 합니다. 데이터는 프로필 성능을 표시 하 고, 추세를 분석 하 고, 조치가 필요한 영역을 식별 합니다.
 
 **비즈니스 프로필 정보** 페이지의 맨 위 근처에서 데이터를 표시할 기간을 선택할 수 있습니다. 기본 선택 항목은 **30D** (30 일) 이지만 대신 3 또는 6 개월 동안의 데이터를 표시 하도록 선택할 수 있습니다. 모든 지역에 대 한 데이터가 포함 됩니다.
 

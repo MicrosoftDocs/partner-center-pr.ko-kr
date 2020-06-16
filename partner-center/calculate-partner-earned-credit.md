@@ -1,7 +1,7 @@
 ---
-title: 파트너의 획득 크레딧을 계산 하는 방법 | 파트너 센터
+title: 파트너의 획득 크레딧을 계산 하는 방법
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 계획의 PEC (파트너 획득 크레딧) 측면이 계산 되는 방법에 대해 알아봅니다. 여기에는 파트너 및 간접 공급자에 대 한 자격 요구 사항이 포함 됩니다.
@@ -9,19 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721732"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788737"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>파트너 획득 신용 (PEC)를 계산 하는 방법
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 파트너에 대해 PEC (파트너 획득 크레딧)를 계산 하는 방법
 
 **적절한 역할**
 
 - 전역 관리자
-- 청구 관리자
+- 대금 청구 관리자
 
 IT의 연중 무휴 IT 운영 관리 나 CSP에서 고객의 전체 Azure 환경을 소유한 파트너는 PEC의 보상을 받을 수 있습니다. PEC는 Microsoft와 직접 청구 되는 파트너를 위한 송장의 일부로 제공 됩니다. 크레딧은 매일 계산 되 고 월별 청구서에 반영 됩니다. 기본적으로 CSP에서 파트너는 고객의 구독에 대 한 필수 액세스 권한을 부여 하 여 구독에 대 한 리소스를 연중 무휴 운영 관리 하 고 제어할 수 있습니다. 고객이 거래 파트너에 대 한 액세스를 프로 비전 할 수 있는 추가 방법은 다음 섹션에 설명 되어 있습니다.
 
@@ -46,7 +47,7 @@ IT의 연중 무휴 IT 운영 관리 나 CSP에서 고객의 전체 Azure 환경
 
 Azure 구독 관리에 대 한 액세스 권한을 얻는 방법 및 MPN ID를 RBAC 역할에 연결 하는 방법에 대 한 자세한 내용은 [azure 계획에서 구독 및 리소스 관리](azure-plan-manage.md)를 참조 하세요.
 
-추가 정보
+참조 항목
 
 - [Azure 계획-청구](azure-plan-billing.md)
 

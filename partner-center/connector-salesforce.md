@@ -9,16 +9,16 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453260"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788777"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
-### <a name="appropriate-roles"></a>적절 한 역할
+### <a name="appropriate-roles"></a>적절한 역할
 
 - 조회 관리자
 - CRM에서 시스템 관리자 또는 시스템 사용자 지정자
@@ -29,7 +29,7 @@ ms.locfileid: "84453260"
 
 ## <a name="before-you-install---pre-requisites"></a>설치 전-필수 구성 요소
 
-|**토픽**   |**세부 정보**   |**링크**   |
+|**에서는**   |**세부 정보**   |**링크**   |
 |--------------|--------------------|------|
 |Microsoft 파트너 네트워크 ID |유효한 MPN ID가 필요 합니다.|[MPN](https://partner.microsoft.com/) 에 조인 하려면|
 |공동 판매 준비|I p/서비스 솔루션은 공동 판매 준비를 해야 합니다.|[Microsoft와 판매](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -227,18 +227,18 @@ Salesforce CRM 관리자 사용자는 별도의 CRM 섹션을 만들어야 합�
 
 3. 왼쪽 탐색에서 **필드 & 관계** 선택
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="필드":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
 4. **필드 & 관계** 테이블에 다음 필드를 추가 합니다.
 
    |**필드 레이블**   |**필드 이름**|**데이터 형식**|**인덱싱**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |감사|  Audit__c|긴 텍스트 영역 (100000) (표시 되는 줄 4)||
-   |Microsoft에서 어떤 도움을 하나요?|H ow_can_Microsoft_help__c|선택 목록|
-   |제품|제품-c|텍스트 (255)||
-   |조회 |  Referral_Identi fier__c|텍스트 (100) (외부 ID)|예|
-   |조회 링크|   Referral_Link__c_|URL (255)||
-   |파트너 중앙에서 동기화|동기화-파트너 센터-c|Checkbox (기본값 선택 하지 않음)||
+   |감사| Audit__c|긴 텍스트 영역 (100000) (표시 되는 줄 4)||
+   |Microsoft에서 어떤 도움을 하나요?|How_can_Microsoft_help_c|선택 목록|
+   |제품|Products_c|텍스트 (255)||
+   |조회 | Referral_Identfier_c|텍스트 (100) (외부 ID)|예|
+   |조회 링크| Referral_Link_c_|URL (255)||
+   |파트너 센터와 동기화|sync_with_partner_center_c|Checkbox (기본값 선택 하지 않음)||
 
    * 선택 목록 값:
 

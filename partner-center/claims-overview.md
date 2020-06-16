@@ -7,16 +7,16 @@ ms.subservice: partnercenter-csp
 description: 작업 계획을 검토 하기 위한 필수 구성 요소 없이 성과급 클레임을 제출 하는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: 인센티브 클레임, 협력 클레임, 협력 펀드
+keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금
 ms.localizationpriority: medium
-ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721627"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776280"
 ---
-# <a name="incentives-co-op-claims-overview"></a>인센티브 협력 클레임 개요
+# <a name="incentives-co-op-claims-overview"></a>인센티브 협조적 클레임 개요
 
 **적용 대상**
 
@@ -27,24 +27,24 @@ ms.locfileid: "74721627"
 - 인센티브 관리자
 - 인센티브 사용자
 
-Microsoft 성과급 프로그램 (예: 파트너 성과급 공동 마케팅 기금, 온라인 서비스 관리자 프로그램 또는 Dynamics ISV 프로그램) 중 하나에 참여 하는 경우 수행한 활동에 대 한 상환을의 진척 자금을 요청 합니다. Microsoft 제품 인식을 지원 합니다. 파트너 센터에서 직접 클레임을 제출 합니다. 더 이상 클레임 제출 전에 활동 계획에 대해 Microsoft의 검토를 거칠 필요가 없습니다. 클레임 기한(사용 기간이 종료된 후 45일) 내에 클레임과 필요한 문서를 제출하세요. 
+Microsoft 성과급 프로그램 (예: 파트너 성과급 공동 작업 마케팅 기금, 온라인 서비스 관리자 프로그램 또는 Dynamics ISV 프로그램) 중 하나에 참여 하는 경우 Microsoft 제품 인식을 지 원하는 작업에 대 한 상환을의 획득 금액을 요청 합니다. 파트너 센터에서 직접 클레임을 제출 합니다. 클레임을 제출 하기 전에 Microsoft에서 더 이상 활동 계획을 검토 하지 않아도 됩니다. 청구 기간 최종 기한 이후에 클레임 및 필요한 설명서를 제출 합니다 .이 기간은 사용 기간이 끝난 후 45 일입니다.
 
-성공적인 클레임을 위해서는 다음을 포함해야 합니다.
+성공한 클레임에는 다음이 포함 됩니다.
 
-- 해당 활동에 대한 핵심 요구 사항을 만족했음을 입증하는 문서
-- 협력 중인 타사 공급업체의 송장
-- 사내 작업이 완료되었음을 나타내는 인증 문 및 보고서(CSR)
-- 해당 활동을 완료했음을 증명하는 문서(실행 증명) 
+- 작업의 핵심 요구 사항을 충족 하는 것을 보여 주는 설명서
+- 작업 하는 타사 공급 업체의 송장
+- 모든 사내 작업 완료에 대 한 Csr (인증 명세서 및 보고서)
+- 작업 완료를 증명 하는 적절 한 설명서 (실행 증명) 
 
 >[!NOTE]
->Microsoft는 실행 증명(POE) 문서 원본을 요청할 수 있는 권리를 보유합니다. 모든 원본 문서는 활동 날짜로부터 24개월 동안 유지합니다. 
+>Microsoft는 POE (원래 실행 증명) 문서를 요청할 수 있는 권리를 보유 합니다. 활동 날짜 로부터 24 개월 동안 모든 원본 문서를 유지 관리 합니다. 
 
 |**수행할 작업**   |**이 글 읽기**   |
 |-----------------|:--------------------------------------|
-|클레임을 제출하고 올바른 문서 포함|[성과급 프로그램 활동 클레임 만들기 및 관리](create-incentives-claims.md)|
-|클레임을 제출한 후에는 추가 문서 요청을 관리|[성과급 프로그램 활동 클레임 만들기 및 관리](create-incentives-claims.md)  |
-|활동 클레임을 위한 핵심 요구 사항을 숙지|[성과급 클레임 핵심 요구 사항 파악](core-requirements.md)   |
-|인센티브 프로그램의 모든 세부 정보 숙지|[파트너 성과급 공동 op 가이드 책](https://assets.microsoft.com/coop-guidebook.pdf)
-|고객 연결을 만들고 클레임 제출 |[CPOR 모델을 사용 하 여 고객 연결 만들기](submit-osa-claim.md)|
+|클레임을 제출 하 고 올바른 설명서를 포함 합니다.|[성과급 프로그램 활동 클레임 만들기 및 관리](create-incentives-claims.md)|
+|클레임을 제출 하 고 나면 추가 설명서 요청을 관리 합니다.|[성과급 프로그램 활동 클레임 만들기 및 관리](create-incentives-claims.md)  |
+|활동 클레임에 대 한 핵심 요구 사항을 알고 있는지 확인 합니다.|[성과급 클레임 핵심 요구 사항 파악](core-requirements.md)   |
+|전체 성과급 프로그램 세부 정보 알아보기|[파트너 성과급 공동 op 가이드 책](https://assets.microsoft.com/coop-guidebook.pdf)
+|고객 연결을 만들고 클레임 제출 |[CPOR 모델을 사용하여 고객 연결 만들기](submit-osa-claim.md)|
                                                                                  
                                    

@@ -1,19 +1,19 @@
 ---
 title: 매일 등급 사용 조정 파일
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795591"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788807"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -30,6 +30,9 @@ ms.locfileid: "83795591"
 - 기술 지원팀 상담원
 
 이 항목에서는 매일 등급 사용 조정 파일을 읽는 방법에 대해 설명 합니다.
+
+>[!NOTE]
+>매일 등급을 지정 하는 사용량은 일반적으로 파트너 센터에 표시 하거나 API를 통해 액세스 하는 데 24 시간이 걸립니다.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>매일 등급 사용 조정 파일의 필드
 

@@ -1,19 +1,21 @@
 ---
-title: 미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록 | 미국 정부에 대 한 파트너 센터 Microsoft 클라우드
+title: 클라우드 솔루션 공급자 프로그램에 등록
 ms.topic: article
-ms.date: 11/27/2019
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록 하기 전에 CSP 프로그램 요구 사항에 대해 자세히 알아보세요.
+description: 미국 정부를 위한 클라우드 솔루션 공급자 Microsoft 클라우드 프로그램에 등록 하려는 파트너를 위한 CSP 프로그램 요구 사항에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798371"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788787"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -23,7 +25,7 @@ ms.locfileid: "82798371"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 
 Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에 대해 클라우드 솔루션 공급자 프로그램 (CSP)을 통해 Microsoft의 클라우드 솔루션 및 서비스를 미국 연방, 주, 지방 및 부족 엔터티에 판매할 수 있습니다. 
 
@@ -75,13 +77,13 @@ Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에
 > [!NOTE]  
 > 사용자를 관리 에이전트 역할에 할당 한 후 **에는 고객 페이지에서** 고객 목록에 액세스 하 고 [새 고객을 추가할](add-a-new-customer.md)수 있습니다.   
 
-1.  에서 https://portal.azure.us/Microsoft Azure 관리 포털에 로그인 합니다.
+1.  에서 Microsoft Azure 관리 포털에 로그인 https://portal.azure.us/ 합니다.
 
 2.  관리 에이전트 역할을 조직의 해당 사용자에 게 할당 합니다. 이렇게 하려면 기본 제공 **Adminagent** 그룹에 이러한 사용자를 추가 해야 합니다. 이 작업을 수행 하는 방법에 대 한 자세한 내용은 [Azure Active Directory 그룹의 멤버 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) 를 참조 하세요.
  
-## <a name="connect-with-us"></a>Microsoft와 연결
+## <a name="connect-with-us"></a>연락 정보
 
-- 질문이 있으십니까? 전자 메일 보내기azgovcsp@microsoft.com
+- 질문이 있으세요? 전자 메일 보내기azgovcsp@microsoft.com
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 에서 참가 
 
