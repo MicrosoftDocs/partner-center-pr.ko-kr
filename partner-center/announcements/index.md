@@ -9,25 +9,30 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254334"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749084"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **카테고리** | **2020년 5월 공지** | **발표** |
-|---------|---------|:---------|
+| **범주** | **2020년 6월 공지** | **발표** |
+|---------|:---------|:---------|
+| 기능 | [연간에서 월간으로 청구 주기 기본값 변경](2020-june.md#4) | 6월 17일 |
+| 기능 | [Windows Server 소프트웨어 구독 CSP용 미디어 새로 고침](2020-june.md#2) | 6월 12일 |
+| 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-june.md#1) | 6월 11일 |
+| 기능 | [파트너 센터에서 두 개 이상의 회사 계정 통합](https://docs.microsoft.com/partner-center/merge-accounts) | 6월 9일 |
+| **범주** | **2020년 5월 공지** | **날짜** |
 | 기능 | [Microsoft 365 A3 – 교육 수정용 무인 라이선스 제공](2020-may.md#5) | 5월 28일 |
 | 기능 | [활성 고객은 CSP(클라우드 솔루션 공급자) 프로그램을 통해 EP(Enhancement Plan)를 갱신하고 온라인 라이선스를 받을 수 있음](2020-may.md#4) | 5월 26일 |
 | 기능 | [Americas Operations Center 주소 변경](2020-may.md#3) | 5월 15일 |
 | 기능 | [Microsoft가 Microsoft Kaizala Pro 독립 실행형 SKU 판매 종료](2020-may.md#2) | 5월 7일 |
 | 기능 | [교육 프로그램에서 새 RPA(로봇 프로세스 자동화) 제품 사용 가능](2020-may.md#1) | 5월 1일 |
-| **카테고리** | **2020년 4월 공지** | **날짜** |
+| **범주** | **2020년 4월 공지** | **날짜** |
 | 기능 | [Office 365를 위해 업데이트된 CSP 프로모션](2020-april.md#14) | 4월 30일 |
 | 기능 | [Azure Reservations 파트너 권한이 포함된 새로운 고객 셀프 서비스 기능](2020-april.md#13) | 4월 29일 |
 | 제품/시장 | [Microsoft는 Microsoft 365 E3의 CSP EUR 가격을 되돌림](2020-april.md#12) | 4월 24일 |
@@ -42,7 +47,7 @@ ms.locfileid: "84254334"
 | 기능 | [지금 이용 가능 - 한곳에서 제공되는 Operations Readiness 리소스](2020-april.md#3) | 4월 3일 |
 | 제품/시장 | [2020년 4월 1일부터 CSP 파트너에게 Microsoft 365 Business Voice가 제공됨](2020-april.md#2) | 4월 1일 |
 | 기능 | [파트너는 Microsoft 파트너 계약에 동의해야 함](2020-april.md#1) | 4월 1일 |
-| **카테고리** | **2020년 3월 공지** | **날짜** |
+| **범주** | **2020년 3월 공지** | **날짜** |
 | 제품/시장 | [Microsoft는 2020년 4월 21일부터 Office 365 SMB(중소기업) 제품 이름을 바꿈](2020-march.md#7) | 3월 30일 |
 | 기능 | [새로운 파트너 센터 기능을 통해 청구 파트너가 간접 리셀러로 전환 가능](2020-march.md#6) | 3월 20일 |
 | 제품/시장 | [일선 직원을 위한 새로운 Microsoft 365 엔트리 레벨 SKU - CSP](2020-march.md#5) | 3월 10일 |
@@ -50,7 +55,7 @@ ms.locfileid: "84254334"
 | 제품/시장 | [Microsoft 365 클라우드 서비스 공급자 업데이트 - 2020년 4월](2020-march.md#3) |3월 9일 |
 | 제품/시장 | [새 Dynamics 365 제품이 2020년 4월 1일에 릴리스됨](2020-march.md#2) |3월 2일 |
 | 제품/시장 | [이제 CSP를 위한 MDATP(Microsoft Defender Advanced Threat Protection) 독립 실행형 사용 가능](2020-march.md#1) | 3월 2일 |
-| **카테고리** | **2020년 2월 공지** | **날짜** |
+| **범주** | **2020년 2월 공지** | **날짜** |
 | 제품/시장 | [새로운 세금 원천징수 입금 요청 제출 프로세스](2020-february.md#9) | 2월 25일 |
 | 기능 | [이제 새로운 Microsoft 고객 계약 동의 기능을 사용 가능](2020-february.md#8) | 2월 25일 |
 | 제품/시장 | [라이선스 기반 가격 목록 3월 미리 보기 업데이트](2020-february.md#7) | 2월 19일 |
@@ -60,7 +65,7 @@ ms.locfileid: "84254334"
 | 기능 | [파트너 센터 지원 환경에 대한 변경 사항](2020-february.md#3) | 2월 4일 |
 | 기능 | [이제 필수: CSP의 Microsoft 고객 계약 동의](2020-february.md#2) | 2월 4일 |
 | 제품/시장 | [Microsoft가 2020년 2월 1일에 추가 Dynamics 365 제품을 릴리스함](2020-february.md#1) | 2월 3일 |
-| **카테고리** | **2020년 1월 공지** | **날짜** |
+| **범주** | **2020년 1월 공지** | **날짜** |
 | 제품/시장 | [2020년 2월 1일부터 러시아의 CSP(클라우드 솔루션 공급자) 파트너에게 Windows Server 및 SQL Server 구독이 제공됨](2020-january.md#7) | 1월 31일 |
 | 제품/시장 | [Microsoft 365 F1용 미팅룸 및 모임 추가 기능을 이제 GCC(정부 커뮤니티 클라우드)에서 사용 가능](2020-january.md#6) | 1월 29일 |
 | 기능 | [Microsoft 365 F1용 미팅룸 및 모임 추가 기능을 이제 GCC(정부 커뮤니티 클라우드)에서 사용 가능](2020-january.md#5) | 1월 28일 |
