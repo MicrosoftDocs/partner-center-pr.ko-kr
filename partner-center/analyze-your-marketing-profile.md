@@ -1,54 +1,55 @@
 ---
-title: 비즈니스 프로필 분석 | 파트너 센터
+title: 비즈니스 프로필 분석
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스 프로필 정보 페이지를 사용 하 여 대상 고객의 주의를 캡처하고 조회를 생성 하는 방법을 확인 하는 방법을 알아봅니다.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722356"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788755"
 ---
-# <a name="analyze-your-business-profile"></a><span data-ttu-id="4d4dc-103">비즈니스 프로필 분석</span><span class="sxs-lookup"><span data-stu-id="4d4dc-103">Analyze your business profile</span></span>
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a><span data-ttu-id="02b1e-103">비즈니스 프로필 분석-대상 고객과 잠재적 조회를 얼마나 잘 사용할 수 있는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-103">Analyze your business profile - see how well you attract target customers and potential referrals</span></span>
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-<span data-ttu-id="4d4dc-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="4d4dc-104">**Applies to**</span></span>
+<span data-ttu-id="02b1e-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="02b1e-104">**Applies to**</span></span>
 
-- <span data-ttu-id="4d4dc-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="4d4dc-105">Partner Center</span></span>
-- <span data-ttu-id="4d4dc-106">Microsoft 파트너 네트워크 파트너</span><span class="sxs-lookup"><span data-stu-id="4d4dc-106">Microsoft Partner Network partners</span></span>
-- <span data-ttu-id="4d4dc-107">클라우드 솔루션 공급자 프로그램 파트너</span><span class="sxs-lookup"><span data-stu-id="4d4dc-107">Cloud Solution Provider program partners</span></span>
+- <span data-ttu-id="02b1e-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="02b1e-105">Partner Center</span></span>
+- <span data-ttu-id="02b1e-106">Microsoft 파트너 네트워크 파트너</span><span class="sxs-lookup"><span data-stu-id="02b1e-106">Microsoft Partner Network partners</span></span>
+- <span data-ttu-id="02b1e-107">클라우드 솔루션 공급자 프로그램 파트너</span><span class="sxs-lookup"><span data-stu-id="02b1e-107">Cloud Solution Provider program partners</span></span>
 
-<span data-ttu-id="4d4dc-108">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="4d4dc-108">**Appropriate roles**</span></span>
+<span data-ttu-id="02b1e-108">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="02b1e-108">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="4d4dc-109">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="4d4dc-109">Global admin</span></span>
-- <span data-ttu-id="4d4dc-110">MPN 파트너 관리자</span><span class="sxs-lookup"><span data-stu-id="4d4dc-110">MPN partner admin</span></span>
-- <span data-ttu-id="4d4dc-111">추천 관리자</span><span class="sxs-lookup"><span data-stu-id="4d4dc-111">Referral admin</span></span>
-- <span data-ttu-id="4d4dc-112">비즈니스 프로필 관리자</span><span class="sxs-lookup"><span data-stu-id="4d4dc-112">Business profile admin</span></span>
-- <span data-ttu-id="4d4dc-113">관리자 에이전트</span><span class="sxs-lookup"><span data-stu-id="4d4dc-113">Admin agent</span></span>
-- <span data-ttu-id="4d4dc-114">영업 에이전트</span><span class="sxs-lookup"><span data-stu-id="4d4dc-114">Sales agent</span></span>
+- <span data-ttu-id="02b1e-109">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="02b1e-109">Global admin</span></span>
+- <span data-ttu-id="02b1e-110">MPN 파트너 관리자</span><span class="sxs-lookup"><span data-stu-id="02b1e-110">MPN partner admin</span></span>
+- <span data-ttu-id="02b1e-111">추천 관리자</span><span class="sxs-lookup"><span data-stu-id="02b1e-111">Referral admin</span></span>
+- <span data-ttu-id="02b1e-112">비즈니스 프로필 관리자</span><span class="sxs-lookup"><span data-stu-id="02b1e-112">Business profile admin</span></span>
+- <span data-ttu-id="02b1e-113">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="02b1e-113">Admin agent</span></span>
+- <span data-ttu-id="02b1e-114">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="02b1e-114">Sales agent</span></span>
 
-<span data-ttu-id="4d4dc-115">파트너 센터의 **비즈니스 프로필 정보** 페이지를 사용 하 여 대상 고객의 주의를 캡처하고 조회를 생성 하는 방법을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-115">The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.</span></span>
+<span data-ttu-id="02b1e-115">파트너 센터의 **비즈니스 프로필 정보** 페이지를 사용 하 여 대상 고객의 주의를 캡처하고 조회를 생성 하는 방법을 확인할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-115">The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.</span></span>
 
-<span data-ttu-id="4d4dc-116">조회 정보 데이터를 보려면 파트너 센터 메뉴에서 **조회 > 비즈니스 프로필 정보**로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-116">To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**.</span></span> <span data-ttu-id="4d4dc-117">데이터는 프로필 실적을 보여주고 추세를 분석하고 조치가 필요한 영역을 식별합니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-117">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span>
+<span data-ttu-id="02b1e-116">조회 정보 데이터를 보려면 파트너 센터 메뉴에서 **조회 > 비즈니스 프로필 정보**로 이동 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-116">To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**.</span></span> <span data-ttu-id="02b1e-117">데이터는 프로필 성능을 표시 하 고, 추세를 분석 하 고, 조치가 필요한 영역을 식별 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-117">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span>
 
-<span data-ttu-id="4d4dc-118">**비즈니스 프로필 정보** 페이지의 맨 위 근처에서 데이터를 표시할 기간을 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-118">Near the top of the **Business profile insights** page, you can select the time period for which you want to show data.</span></span> <span data-ttu-id="4d4dc-119">기본 선택 항목은 **30D** (30 일) 이지만 대신 3 또는 6 개월 동안의 데이터를 표시 하도록 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-119">The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead.</span></span> <span data-ttu-id="4d4dc-120">모든 지역에 대 한 데이터가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-120">Data for all regions is included.</span></span>
+<span data-ttu-id="02b1e-118">**비즈니스 프로필 정보** 페이지의 맨 위 근처에서 데이터를 표시할 기간을 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-118">Near the top of the **Business profile insights** page, you can select the time period for which you want to show data.</span></span> <span data-ttu-id="02b1e-119">기본 선택 항목은 **30D** (30 일) 이지만 대신 3 또는 6 개월 동안의 데이터를 표시 하도록 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-119">The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead.</span></span> <span data-ttu-id="02b1e-120">모든 지역에 대 한 데이터가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-120">Data for all regions is included.</span></span>
 
-<span data-ttu-id="4d4dc-121">회사의 [비즈니스 프로필](create-a-marketing-profile.md)을 게시 한 후에는 프로필을 찾을 수 있는 고객의 수, 자세한 정보를 확인 하기 위해 클릭 하는 빈도 및 정보 요청을 보내는 빈도 (RFIs)에 대 한 데이터를 확인 하기 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-121">After you post your company's [business profile](create-a-marketing-profile.md), you'll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> <span data-ttu-id="4d4dc-122">비즈니스 프로필을 구체화 하 여 더 많은 잠재 고객을 생성 하는 경우이 데이터를 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-122">Use this data when refining your business profiles to generate more leads, and more relevant leads.</span></span>
+<span data-ttu-id="02b1e-121">회사의 [비즈니스 프로필](create-a-marketing-profile.md)을 게시 한 후에는 프로필을 찾을 수 있는 고객의 수, 자세한 정보를 확인 하기 위해 클릭 하는 빈도 및 정보 요청을 보내는 빈도 (RFIs)에 대 한 데이터를 확인 하기 시작 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-121">After you post your company's [business profile](create-a-marketing-profile.md), you'll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> <span data-ttu-id="02b1e-122">비즈니스 프로필을 구체화 하 여 더 많은 잠재 고객을 생성 하는 경우이 데이터를 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-122">Use this data when refining your business profiles to generate more leads, and more relevant leads.</span></span>
 
-<span data-ttu-id="4d4dc-123">**프로필 성능 요약** 차트에는 선택한 기간에 대 한 다음 정보가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-123">The **Profile performance summary** chart includes the following info for the selected time period:</span></span>
+<span data-ttu-id="02b1e-123">**프로필 성능 요약** 차트에는 선택한 기간에 대 한 다음 정보가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-123">The **Profile performance summary** chart includes the following info for the selected time period:</span></span>
 
-- <span data-ttu-id="4d4dc-124">**검색 결과**: 고객이 비즈니스 프로필을 찾기 위해 사용 하는 검색 용어에 대 한 정보입니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-124">**Search results**: Info about the search terms that customers are using to find your business profile.</span></span>
-- <span data-ttu-id="4d4dc-125">**페이지 보기**: 고객이 비즈니스 프로필을 본 총 횟수입니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-125">**Page views**: The total number of times that customers viewed your business profile.</span></span>
-- <span data-ttu-id="4d4dc-126">**연락처 클릭**: 고객이 [솔루션 공급자 찾기](https://www.microsoft.com/solution-providers/home) 페이지에서 비즈니스 프로필을 선택한 총 횟수입니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-126">**Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.</span></span>
-- <span data-ttu-id="4d4dc-127">**생성 된 조회**: 고객이 비즈니스 프로필을 선택한 후에 전송 된 총 조회 수입니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-127">**Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.</span></span>
+- <span data-ttu-id="02b1e-124">**검색 결과**: 고객이 비즈니스 프로필을 찾기 위해 사용 하는 검색 용어에 대 한 정보입니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-124">**Search results**: Info about the search terms that customers are using to find your business profile.</span></span>
+- <span data-ttu-id="02b1e-125">**페이지 보기**: 고객이 비즈니스 프로필을 본 총 횟수입니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-125">**Page views**: The total number of times that customers viewed your business profile.</span></span>
+- <span data-ttu-id="02b1e-126">**연락처 클릭**: 고객이 [솔루션 공급자 찾기](https://www.microsoft.com/solution-providers/home) 페이지에서 비즈니스 프로필을 선택한 총 횟수입니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-126">**Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.</span></span>
+- <span data-ttu-id="02b1e-127">**생성 된 조회**: 고객이 비즈니스 프로필을 선택한 후에 전송 된 총 조회 수입니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-127">**Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.</span></span>
 
 > [!TIP]
-> <span data-ttu-id="4d4dc-128">[이러한 조회에 응답](responding-to-referrals.md)하기 시작 하면 조회를 수행 하는 방법에 대 한 자세한 내용을 보려면 [조회 정보 페이지](referral-insights.md) 를 검토 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="4d4dc-128">As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.</span></span>
+> <span data-ttu-id="02b1e-128">[이러한 조회에 응답](responding-to-referrals.md)하기 시작 하면 조회를 수행 하는 방법에 대 한 자세한 내용을 보려면 [조회 정보 페이지](referral-insights.md) 를 검토 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="02b1e-128">As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.</span></span>

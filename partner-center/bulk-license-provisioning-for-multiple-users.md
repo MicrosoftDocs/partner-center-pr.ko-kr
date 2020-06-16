@@ -1,7 +1,7 @@
 ---
-title: 여러 사용자에 게 라이선스 할당 또는 취소 | 파트너 센터
+title: 다수의 사용자에게 라이선스 할당 및 해지
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객 계정을 사용 하 여 한 사용자 또는 여러 사용자에 게 한 번에 라이선스 및 서비스를 할당 하거나 해지 하는 방법에 대해 알아봅니다.
@@ -10,95 +10,96 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 라이선스 할당, 라이선스 해지, 여러 사용자에 게 할당,
 ms.localizationpriority: medium
-ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679100"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788697"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a><span data-ttu-id="dabc8-104">다수의 사용자에게 라이선스 할당 및 해지</span><span class="sxs-lookup"><span data-stu-id="dabc8-104">Assign or revoke licenses to multiple users</span></span>
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a><span data-ttu-id="fa967-104">고객 계정의 여러 사용자에 게 동시에 라이선스 할당 또는 해지</span><span class="sxs-lookup"><span data-stu-id="fa967-104">Assign or revoke licenses at the same time to multiple users in a customer account</span></span>
 
-<span data-ttu-id="dabc8-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="dabc8-105">**Applies to**</span></span>
+<span data-ttu-id="fa967-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="fa967-105">**Applies to**</span></span>
 
-- <span data-ttu-id="dabc8-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="dabc8-106">Partner Center</span></span>
+- <span data-ttu-id="fa967-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="fa967-106">Partner Center</span></span>
 
-<span data-ttu-id="dabc8-107">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="dabc8-107">**Appropriate roles**</span></span>
+<span data-ttu-id="fa967-107">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="fa967-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="dabc8-108">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="dabc8-108">Admin agent</span></span>
-- <span data-ttu-id="dabc8-109">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="dabc8-109">Global admin</span></span>
-- <span data-ttu-id="dabc8-110">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="dabc8-110">Helpdesk agent</span></span>
-- <span data-ttu-id="dabc8-111">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="dabc8-111">Sales agent</span></span>
-- <span data-ttu-id="dabc8-112">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="dabc8-112">User management admin</span></span>
+- <span data-ttu-id="fa967-108">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="fa967-108">Admin agent</span></span>
+- <span data-ttu-id="fa967-109">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="fa967-109">Global admin</span></span>
+- <span data-ttu-id="fa967-110">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="fa967-110">Helpdesk agent</span></span>
+- <span data-ttu-id="fa967-111">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="fa967-111">Sales agent</span></span>
+- <span data-ttu-id="fa967-112">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="fa967-112">User management admin</span></span>
 
-<span data-ttu-id="dabc8-113">사용자 또는 고객 계정에서 한 번에 여러 사용자에 게 라이선스 및 서비스를 할당 하 고 사용자에 게 라이선스 할당을 해지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-113">You can assign licenses and services to a user, or to multiple users at once in a customer account, and revoke license assignments to users.</span></span>
+<span data-ttu-id="fa967-113">사용자 또는 고객 계정에서 한 번에 여러 사용자에 게 라이선스 및 서비스를 할당 하 고 사용자에 게 라이선스 할당을 해지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-113">You can assign licenses and services to a user, or to multiple users at once in a customer account, and revoke license assignments to users.</span></span>
 
-<span data-ttu-id="dabc8-114">파트너 센터는 고객 소유 라이선스 자격을 모두 추적 하 고 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-114">The Partner Center tracks and shows all customer-owned license entitlements.</span></span>
+<span data-ttu-id="fa967-114">파트너 센터는 고객 소유 라이선스 자격을 모두 추적 하 고 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-114">The Partner Center tracks and shows all customer-owned license entitlements.</span></span>
 
-## <a name="in-this-section"></a><span data-ttu-id="dabc8-115">단원 내용</span><span class="sxs-lookup"><span data-stu-id="dabc8-115">In this section</span></span>
+## <a name="in-this-section"></a><span data-ttu-id="fa967-115">단원 내용</span><span class="sxs-lookup"><span data-stu-id="fa967-115">In this section</span></span>
 
 
-- [<span data-ttu-id="dabc8-116">여러 사용자에 게 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="dabc8-116">Assign licenses to multiple users</span></span>](#assign-licenses-to-groups)
-- [<span data-ttu-id="dabc8-117">사용자의 라이선스 할당 해지</span><span class="sxs-lookup"><span data-stu-id="dabc8-117">Revoking users' license assignments</span></span>](#revoking-licenses)
+- [<span data-ttu-id="fa967-116">여러 사용자에 게 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="fa967-116">Assign licenses to multiple users</span></span>](#assign-licenses-to-groups)
+- [<span data-ttu-id="fa967-117">사용자의 라이선스 할당 해지</span><span class="sxs-lookup"><span data-stu-id="fa967-117">Revoking users' license assignments</span></span>](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-<span data-ttu-id="dabc8-118">**여러 사용자에 게 라이선스 할당**</span><span class="sxs-lookup"><span data-stu-id="dabc8-118">**Assign licenses to multiple users**</span></span>
+<span data-ttu-id="fa967-118">**여러 사용자에 게 라이선스 할당**</span><span class="sxs-lookup"><span data-stu-id="fa967-118">**Assign licenses to multiple users**</span></span>
 
-1. <span data-ttu-id="dabc8-119">**파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-119">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
+1. <span data-ttu-id="fa967-119">**파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-119">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
 
-2. <span data-ttu-id="dabc8-120">**사용자 및 라이선스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-120">Select **Users and licenses**.</span></span>
+2. <span data-ttu-id="fa967-120">**사용자 및 라이선스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-120">Select **Users and licenses**.</span></span>
 
-3. <span data-ttu-id="dabc8-121">목록에서 두 명 이상의 사용자에 대 한 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-121">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="dabc8-122">현재 페이지에서 모든 사용자를 선택 하려면 **사용자** 열의 맨 위에 있는 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-122">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
+3. <span data-ttu-id="fa967-121">목록에서 두 명 이상의 사용자에 대 한 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-121">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="fa967-122">현재 페이지에서 모든 사용자를 선택 하려면 **사용자** 열의 맨 위에 있는 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-122">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
 
-    <span data-ttu-id="dabc8-123">**첫 번째**, **이전**, **다음** 및 **마지막** 도구를 사용 하 여 여러 페이지에서 사용자를 찾아 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-123">You can find and select users across multiple pages using the **First**, **Previous**, **Next** and **Last** tools.</span></span>
+    <span data-ttu-id="fa967-123">**첫 번째**, **이전**, **다음** 및 **마지막** 도구를 사용 하 여 여러 페이지에서 사용자를 찾아 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-123">You can find and select users across multiple pages using the **First**, **Previous**, **Next** and **Last** tools.</span></span>
 
-4. <span data-ttu-id="dabc8-124">**선택한 사용자** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-124">Select the **Selected Users** link.</span></span> <span data-ttu-id="dabc8-125">표시 된 목록은 선택한 사용자를 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-125">The displayed list shows the selected users.</span></span>
+4. <span data-ttu-id="fa967-124">**선택한 사용자** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-124">Select the **Selected Users** link.</span></span> <span data-ttu-id="fa967-125">표시 된 목록은 선택한 사용자를 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-125">The displayed list shows the selected users.</span></span>
 
-5. <span data-ttu-id="dabc8-126">**라이선스 관리** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-126">Select the **Manage licenses** link.</span></span>
+5. <span data-ttu-id="fa967-126">**라이선스 관리** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-126">Select the **Manage licenses** link.</span></span>
 
-    <span data-ttu-id="dabc8-127">라이선스 관리 페이지에는 고객 계정에 대 한 라이선스 권리 목록과 각 제품에 **사용할 수 있는 라이선스** 의 수가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-127">The Manage licenses page shows the list of license entitlements for the customer accounts, and the count of **Available licenses** for each product.</span></span>
+    <span data-ttu-id="fa967-127">라이선스 관리 페이지에는 고객 계정에 대 한 라이선스 권리 목록과 각 제품에 **사용할 수 있는 라이선스** 의 수가 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-127">The Manage licenses page shows the list of license entitlements for the customer accounts, and the count of **Available licenses** for each product.</span></span>
 
-    -   <span data-ttu-id="dabc8-128">**Product** 열의 확인란은 고객에 게 부여 된 제품에 대해 선택한 모든 사용자의 상태를 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-128">The check boxes in the **Product** column show the status of all selected users for the customer-entitled products:</span></span>
+    -   <span data-ttu-id="fa967-128">**Product** 열의 확인란은 고객에 게 부여 된 제품에 대해 선택한 모든 사용자의 상태를 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-128">The check boxes in the **Product** column show the status of all selected users for the customer-entitled products:</span></span>
 
-        -   <span data-ttu-id="dabc8-129">선택한 모든 사용자에 게 이미 라이선스가 있으면 제품의 확인란이 채워집니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-129">When all selected users already have a license, the product's check box is filled.</span></span>
-        -   <span data-ttu-id="dabc8-130">선택한 사용자 중 일부에 게 제품 라이선스가 있는 경우 제품의 확인란이 부분적으로 채워집니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-130">If some of the selected users have a product license, the product's check box is partially filled.</span></span>
-        -   <span data-ttu-id="dabc8-131">선택한 사용자가 제품 라이선스를 보유 하 고 있지 않은 경우에는 확인란이 선택 취소 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-131">If none of the selected users have a product license, the check box is clear.</span></span>
-    -   <span data-ttu-id="dabc8-132">선택한 각 사용자는 페이지 위쪽 근처의 작은 상자에 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-132">Each selected user appears in a small box near the top of the page.</span></span> <span data-ttu-id="dabc8-133">사용자는 정렬 된 순서 대로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-133">Users appear in sorted order.</span></span>
+        -   <span data-ttu-id="fa967-129">선택한 모든 사용자에 게 이미 라이선스가 있으면 제품의 확인란이 채워집니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-129">When all selected users already have a license, the product's check box is filled.</span></span>
+        -   <span data-ttu-id="fa967-130">선택한 사용자 중 일부에 게 제품 라이선스가 있는 경우 제품의 확인란이 부분적으로 채워집니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-130">If some of the selected users have a product license, the product's check box is partially filled.</span></span>
+        -   <span data-ttu-id="fa967-131">선택한 사용자가 제품 라이선스를 보유 하 고 있지 않은 경우에는 확인란이 선택 취소 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-131">If none of the selected users have a product license, the check box is clear.</span></span>
+    -   <span data-ttu-id="fa967-132">선택한 각 사용자는 페이지 위쪽 근처의 작은 상자에 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-132">Each selected user appears in a small box near the top of the page.</span></span> <span data-ttu-id="fa967-133">사용자는 정렬 된 순서 대로 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-133">Users appear in sorted order.</span></span>
 
-    -   <span data-ttu-id="dabc8-134">**할당** 된 열에서 링크를 선택 하 여 이미 라이선스가 있는 선택한 사용자를 보여 주는 도구 설명 목록을 봅니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-134">Select any link in the **Assigned** column to view a tooltip list showing the selected users that already have a license.</span></span>
+    -   <span data-ttu-id="fa967-134">**할당** 된 열에서 링크를 선택 하 여 이미 라이선스가 있는 선택한 사용자를 보여 주는 도구 설명 목록을 봅니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-134">Select any link in the **Assigned** column to view a tooltip list showing the selected users that already have a license.</span></span>
 
-    -   <span data-ttu-id="dabc8-135">사용 가능한 라이선스가 없는 모든 제품은 **구입 추가** 링크를 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-135">Any product without available licenses shows a **Buy more** link.</span></span> <span data-ttu-id="dabc8-136">고객이 필요할 때 더 많은 라이선스를 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-136">You can purchase more licenses when customers require them.</span></span>
+    -   <span data-ttu-id="fa967-135">사용 가능한 라이선스가 없는 모든 제품은 **구입 추가** 링크를 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-135">Any product without available licenses shows a **Buy more** link.</span></span> <span data-ttu-id="fa967-136">고객이 필요할 때 더 많은 라이선스를 구매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-136">You can purchase more licenses when customers require them.</span></span>
 
-6.  <span data-ttu-id="dabc8-137">**라이선스 할당 및 해지**에서 새 사용자에 대 한 제품 라이선스를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-137">Under **Assign and revoke licenses**, select the product licenses for the new users.</span></span> <span data-ttu-id="dabc8-138">예를 들어 선택한 사용자에 게 Office 365 Enterprise 라이선스가 없고 해당 사용자를 추가 하려는 경우 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-138">For example, if none of the selected users have Office 365 Enterprise licenses and you want to add them, select the check box.</span></span> <span data-ttu-id="dabc8-139">선택한 각 제품에 대해 충분 한 라이선스가 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-139">You need enough licenses for each selected product.</span></span>
+6.  <span data-ttu-id="fa967-137">**라이선스 할당 및 해지**에서 새 사용자에 대 한 제품 라이선스를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-137">Under **Assign and revoke licenses**, select the product licenses for the new users.</span></span> <span data-ttu-id="fa967-138">예를 들어 선택한 사용자에 게 Office 365 Enterprise 라이선스가 없고 해당 사용자를 추가 하려는 경우 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-138">For example, if none of the selected users have Office 365 Enterprise licenses and you want to add them, select the check box.</span></span> <span data-ttu-id="fa967-139">선택한 각 제품에 대해 충분 한 라이선스가 필요 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-139">You need enough licenses for each selected product.</span></span>
 
-7. <span data-ttu-id="dabc8-140">각 제품의 확인란을 선택 하 여 사용자에 대 한 제품을 두 개 이상 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-140">Select more than one product for the users by selecting each product's check box.</span></span>
-    -   <span data-ttu-id="dabc8-141">모든 제품에 대 한 **서비스 계획 보기** 를 선택 하 여 사용자에 게 필요한 서비스 계획을 보고 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-141">Select **View service plans** for any product, to view and select the service plans that the users need.</span></span>
+7. <span data-ttu-id="fa967-140">각 제품의 확인란을 선택 하 여 사용자에 대 한 제품을 두 개 이상 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-140">Select more than one product for the users by selecting each product's check box.</span></span>
+    -   <span data-ttu-id="fa967-141">모든 제품에 대 한 **서비스 계획 보기** 를 선택 하 여 사용자에 게 필요한 서비스 계획을 보고 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-141">Select **View service plans** for any product, to view and select the service plans that the users need.</span></span>
 
-8. <span data-ttu-id="dabc8-142">**저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-142">Select **Save**.</span></span> <span data-ttu-id="dabc8-143">파트너 센터는 사용자 및 새 라이선스가 나열 된 **라이선스 업데이트** 확인 페이지를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-143">The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.</span></span>
+8. <span data-ttu-id="fa967-142">**저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-142">Select **Save**.</span></span> <span data-ttu-id="fa967-143">파트너 센터는 사용자 및 새 라이선스가 나열 된 **라이선스 업데이트** 확인 페이지를 엽니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-143">The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="dabc8-144">일부 Microsoft 제품은 특정 위치에서 사용 하지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-144">Some Microsoft products may not be available in certain locations.</span></span> <span data-ttu-id="dabc8-145">다른 제품은 다른 제품 또는 서비스에 종속 되거나 동일한 사용자에 게 함께 할당 될 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-145">Other products are dependent on other products or services, or can't be assigned together to the same user.</span></span> <span data-ttu-id="dabc8-146">저장 한 후에는 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과 및 라이선스 할당의 모든 오류가 나열 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-146">After you save, the confirmation page lists all users' results from successful license assignment, and any errors from the license assignment.</span></span>
+><span data-ttu-id="fa967-144">일부 Microsoft 제품은 특정 위치에서 사용 하지 못할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-144">Some Microsoft products may not be available in certain locations.</span></span> <span data-ttu-id="fa967-145">다른 제품은 다른 제품 또는 서비스에 종속 되거나 동일한 사용자에 게 함께 할당 될 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-145">Other products are dependent on other products or services, or can't be assigned together to the same user.</span></span> <span data-ttu-id="fa967-146">저장 한 후에는 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과 및 라이선스 할당의 모든 오류가 나열 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-146">After you save, the confirmation page lists all users' results from successful license assignment, and any errors from the license assignment.</span></span>
 
 
 <a href="" id="revoking-licenses"></a>
-<span data-ttu-id="dabc8-147">**사용자의 라이선스 할당 취소**</span><span class="sxs-lookup"><span data-stu-id="dabc8-147">**Revoking users' license assignments**</span></span>
+<span data-ttu-id="fa967-147">**사용자의 라이선스 할당 취소**</span><span class="sxs-lookup"><span data-stu-id="fa967-147">**Revoking users' license assignments**</span></span>
 
-1. <span data-ttu-id="dabc8-148">**파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-148">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
+1. <span data-ttu-id="fa967-148">**파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-148">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
 
-2. <span data-ttu-id="dabc8-149">**사용자 및 라이선스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-149">Select **Users and licenses**.</span></span>
+2. <span data-ttu-id="fa967-149">**사용자 및 라이선스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-149">Select **Users and licenses**.</span></span>
 
-3. <span data-ttu-id="dabc8-150">목록에서 두 명 이상의 사용자에 대 한 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-150">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="dabc8-151">현재 페이지에서 모든 사용자를 선택 하려면 **사용자** 열의 맨 위에 있는 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-151">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
+3. <span data-ttu-id="fa967-150">목록에서 두 명 이상의 사용자에 대 한 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-150">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="fa967-151">현재 페이지에서 모든 사용자를 선택 하려면 **사용자** 열의 맨 위에 있는 확인란을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-151">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
 
-    <span data-ttu-id="dabc8-152">**첫 번째**, **이전**, **다음** 및 **마지막** 도구를 통해 다른 사용자를 찾아 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-152">Page through the **First**, **Previous**, **Next** and **Last** tools to find and select other users.</span></span> <span data-ttu-id="dabc8-153">여러 페이지에서 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-153">You can select across multiple pages.</span></span>
+    <span data-ttu-id="fa967-152">**첫 번째**, **이전**, **다음** 및 **마지막** 도구를 통해 다른 사용자를 찾아 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-152">Page through the **First**, **Previous**, **Next** and **Last** tools to find and select other users.</span></span> <span data-ttu-id="fa967-153">여러 페이지에서 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-153">You can select across multiple pages.</span></span>
 
-4. <span data-ttu-id="dabc8-154">사용자를 선택한 후 **선택한 사용자** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-154">After selecting the users, choose the **Selected Users** link.</span></span> <span data-ttu-id="dabc8-155">표시 된 목록에는 선택한 사용자만 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-155">The displayed list shows only the selected users.</span></span>
+4. <span data-ttu-id="fa967-154">사용자를 선택한 후 **선택한 사용자** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-154">After selecting the users, choose the **Selected Users** link.</span></span> <span data-ttu-id="fa967-155">표시 된 목록에는 선택한 사용자만 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-155">The displayed list shows only the selected users.</span></span>
 
-5. <span data-ttu-id="dabc8-156">**라이선스 관리** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-156">Select the **Manage licenses** link.</span></span>
+5. <span data-ttu-id="fa967-156">**라이선스 관리** 링크를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-156">Select the **Manage licenses** link.</span></span>
 
-6. <span data-ttu-id="dabc8-157">**라이선스 할당 및 해지**아래에서 사용자에 게 할당 된 제품의 확인란을 선택 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-157">Under **Assign and revoke licenses**, clear the check boxes for products assigned to the users.</span></span> <span data-ttu-id="dabc8-158">예를 들어 선택한 모든 사용자에 게 Office 365 Enterprise 라이선스가 있고 취소 하려면 확인란을 선택 하 여 선택을 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-158">For example, if all of the selected users have Office 365 Enterprise licenses and you want to revoke them, select the check box to clear it.</span></span>
+6. <span data-ttu-id="fa967-157">**라이선스 할당 및 해지**아래에서 사용자에 게 할당 된 제품의 확인란을 선택 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-157">Under **Assign and revoke licenses**, clear the check boxes for products assigned to the users.</span></span> <span data-ttu-id="fa967-158">예를 들어 선택한 모든 사용자에 게 Office 365 Enterprise 라이선스가 있고 취소 하려면 확인란을 선택 하 여 선택을 취소 합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-158">For example, if all of the selected users have Office 365 Enterprise licenses and you want to revoke them, select the check box to clear it.</span></span>
 
-7. <span data-ttu-id="dabc8-159">**저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="dabc8-159">Select **Save**.</span></span>
+7. <span data-ttu-id="fa967-159">**저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="fa967-159">Select **Save**.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="dabc8-160">다음 단계</span><span class="sxs-lookup"><span data-stu-id="dabc8-160">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="fa967-160">다음 단계</span><span class="sxs-lookup"><span data-stu-id="fa967-160">Next steps</span></span>
 
-[<span data-ttu-id="dabc8-161">사용자에게 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="dabc8-161">Assign licenses to a user</span></span>](assign-licenses-to-users.md)
+[<span data-ttu-id="fa967-161">사용자에게 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="fa967-161">Assign licenses to a user</span></span>](assign-licenses-to-users.md)
