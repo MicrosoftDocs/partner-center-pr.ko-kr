@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749084"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788727"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -23,6 +23,7 @@ ms.locfileid: "84749084"
 | **범주** | **2020년 6월 공지** | **발표** |
 |---------|:---------|:---------|
 | 기능 | [연간에서 월간으로 청구 주기 기본값 변경](2020-june.md#4) | 6월 17일 |
+| 제품/시장 | [Microsoft 365 F1에 대한 변경 사항](2020-june.md#3) | 6월 15일 |
 | 기능 | [Windows Server 소프트웨어 구독 CSP용 미디어 새로 고침](2020-june.md#2) | 6월 12일 |
 | 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-june.md#1) | 6월 11일 |
 | 기능 | [파트너 센터에서 두 개 이상의 회사 계정 통합](https://docs.microsoft.com/partner-center/merge-accounts) | 6월 9일 |
