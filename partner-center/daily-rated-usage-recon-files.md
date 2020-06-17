@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788807"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811570"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -57,7 +57,7 @@ ms.locfileid: "84788807"
 | SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이는 **OfferName**에 대 한 동일한 필드입니다. |
 | SubscriptionId | Microsoft 청구 플랫폼에서 사용되는 구독의 고유 식별자입니다. 조정에 사용 되지 않습니다. *이 식별자는 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다.* |
 | ChargeStartDate | 청구 주기의 시작 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 하루의 시작인 0:00입니다. |
-| ChargeEndDate | 청구 주기의 종료 날짜입니다 (이전 biling 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 일의 끝 인 23:59입니다. |
+| ChargeEndDate | 청구 주기의 종료 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 일의 끝 인 23:59입니다. |
 | UsageDate | 서비스 사용 날짜입니다. |
 | MeterType | 측정기의 유형입니다. |
 | MeterCategory | 사용에 대한 최상위 서비스입니다. |
@@ -88,3 +88,8 @@ ms.locfileid: "84788807"
 | EntitlementId | Azure 구독 ID를 나타냅니다. |
 | EntitlementDescription | Azure 구독 ID의 이름을 나타냅니다. |
 | PartnerEarnedCreditPercentage | 줄 항목에 대 한 표시 크레딧을 표시 합니다. 획득 크레딧은 0 또는 15%입니다. |
+
+>[!NOTE]
+>매일 등급이 지정 되는 사용량은 일반적으로 파트너 센터에 표시 하거나 API를 통해 액세스 하는 데 24 시간이 걸립니다.
+
+
