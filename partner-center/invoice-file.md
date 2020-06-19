@@ -3,24 +3,23 @@ title: 청구 청구서의 필드 이해
 ms.topic: article
 ms.date: 05/18/2020
 description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: 청구, 송장
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 609860227f11c9d4bc2806d87ac7e595e503bf07
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794859"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991968"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>파트너 센터 청구 송장-청구 및 일회성 요금 필드를 읽는 방법을 알아봅니다.
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 기술 지원팀 상담원

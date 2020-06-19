@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 활동 로그를 보거나 내보내 고객 계정 트랜잭션 및 기타 고객 관련 파트너 관리 활동에 대 한 통찰력을 얻는 방법에 대해 알아봅니다.
-ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 활동 로그, 구독, 지불, 청구, 거래
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: cfef9a4e6c68496ffbe9e9f6abc25629e2d2eb73
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794972"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991158"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기
 
@@ -28,8 +27,8 @@ ms.locfileid: "83794972"
 
 **적절한 역할**
 
-- 글로벌 관리자
-- 청구 관리자
+- 전역 관리자
+- 대금 청구 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원

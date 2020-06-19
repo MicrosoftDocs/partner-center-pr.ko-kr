@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679310"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072416"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679310"
 - 파트너 센터
 
 **적절한 역할**
--   글로벌 관리자
+-   전역 관리자
 -   사용자 관리자
 -   영업 상담원
 -   관리 에이전트
@@ -62,7 +62,7 @@ ms.locfileid: "84679310"
 
 5. 다음 페이지에서 Power BI 사용자 이름 및 암호를 입력 한 다음 로그인을 선택 합니다.
 
-6. Workspacename을 제공 하 여 작업 영역을 설치 합니다.
+6. 작업 영역 이름을 제공 하 여 작업 영역을 설치 합니다.
 
 7. 앱 섹션 아래에 설치 된 템플릿 앱을 찾을 수 있습니다.
 

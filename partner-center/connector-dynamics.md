@@ -5,21 +5,20 @@ ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dynamics 365 CRM과 파트너 센터의 조회 동기화
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3b5170edaaadca3c4045e7ebed174b5d52b06bdd
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453250"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991652"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
-### <a name="appropriate-roles"></a>적절 한 역할
+### <a name="appropriate-roles"></a>적절한 역할
 
 - 조회 관리자
 - CRM에서 시스템 관리자 또는 시스템 사용자 지정자
@@ -30,7 +29,7 @@ ms.locfileid: "84453250"
 
 ## <a name="before-you-install---pre-requisites"></a>설치 전-필수 구성 요소
 
-|**토픽**   |**세부 정보**   |**링크**   |
+|**에서는**   |**세부 정보**   |**링크만**   |
 |--------------|--------------------|------|
 |Microsoft 파트너 네트워크 ID |유효한 MPN ID가 필요 합니다.|[MPN](https://partner.microsoft.com/) 에 조인 하려면|
 |공동 판매 준비|I p/서비스 솔루션은 공동 판매 준비를 해야 합니다.|[Microsoft와 판매](https://partner.microsoft.com/membership/sell-with-microsoft)| 

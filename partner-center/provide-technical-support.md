@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램 파트너가 고객을 제공할 수 있는 기술 지원의 유형에 대해 알아봅니다.
-ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a79de85bb7b564c58f08f1856eb46a2049bd170c
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467483"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992052"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>고객이 구독을 구성, 관리 및 사용 하는 데 도움이 되는 기술 지원을 제공 합니다.
 
@@ -25,7 +24,7 @@ ms.locfileid: "84467483"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 기술 지원팀 상담원
 - 관리 에이전트
@@ -63,7 +62,7 @@ CSP 모델의 파트너 거래는 고객에 게 신뢰할 수 있는 관리자 �
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
-각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음을 참조하십시오.
+각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음을 참조하세요.
 
 - [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

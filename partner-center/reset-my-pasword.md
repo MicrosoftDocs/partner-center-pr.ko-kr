@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 암호를 다시 설정 하거나 회사의 전역 관리자에 게 도움을 받는 방법에 대해 알아봅니다. 또한 새 파트너 센터 전역 관리자를 추가 하는 방법에 대해 알아봅니다.
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9109fffbbf9d636aaafc57b7d441a4556e820d2e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467353"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991987"
 ---
 # <a name="reset-my-password"></a>내 암호 재설정
 

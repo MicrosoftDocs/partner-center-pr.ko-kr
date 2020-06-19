@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 정보 보고서를 보는 데 필요한 특정 역할에 대해 알아봅니다. 여기에는 임원 보고서 뷰어와 보고서 뷰어의 역할이 포함 됩니다.
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 성능, 고객 성공, 측정, 역할
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452700"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992074"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에 대 한 역할 기반 액세스 제어
 

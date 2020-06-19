@@ -5,21 +5,20 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이러한 지침을 사용 하 여 다른 국가/지역에 대 한 테 넌 트를 통합할 수 있습니다. 여기에는 고객 계정 및 고객 구독을 마이그레이션하는 단계가 포함 됩니다.
-ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: LauraBrenner
 ms.author: labrenne
 keywords: 고객 마이그레이션, 프로 비전 및 테 넌 트 계정, 테 넌 트 통합
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2667bf19f73dfb2498cd6f706bd97b595f67a31
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 2e3c0bd9b50e91e02952a690cc7cbfe1601ad550
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679070"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991471"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테 넌 트 통합에 대 한 지침
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합에 대한 지침
 
 **적용 대상**
 
@@ -28,7 +27,7 @@ ms.locfileid: "84679070"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 
 \[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보와 관련하여 명시적이거나 묵시적인 어떤 보증도 하지 않습니다.\]

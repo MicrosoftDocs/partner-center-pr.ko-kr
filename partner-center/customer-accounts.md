@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 재판매인 파트너에 대 한 리소스를 찾습니다. 여기에는 구독, 요금 청구 또는 제품 지원을 판매 하기 전에 고객 계정을 만드는 작업이 포함 됩니다.
-ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e90661d2a6a0f1f3f25d6dfbf0ae3f0019815dfb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907937"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991401"
 ---
 # <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>파트너 센터에서 재판매인 파트너를 위한 고객 계정 설정 및 관리
 
@@ -26,10 +25,10 @@ ms.locfileid: "82907937"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
 대리점 파트너는 파트너 센터에서 각 고객에 대 한 계정을 만들어야 합니다. 고객 계정은 구독을 판매 하 고, 요금을 청구 하 고, 지원을 제공 하기 위한 시작 지점이 됩니다. 파트너 센터로 이동 하기 전에 보유 한 고객을 포함 하 여 각 고객에 대 한 파트너 센터 계정을 만들어야 합니다.
 

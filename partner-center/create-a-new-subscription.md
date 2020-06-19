@@ -5,18 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft에서 게시 한 제품 및 타사 Isv가 게시 한 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
-ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단, 일시 중단, SaaS, 라이선스, ISV, 타사
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679060"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991489"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -30,7 +29,7 @@ ms.locfileid: "84679060"
 
 - 관리 에이전트
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 
@@ -148,7 +147,7 @@ ISV 게시자에서 라이선스 기반 SaaS 구독을 취소하려면 다음을
 
 2. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
 
-3. **구독**을 선택 합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
+3. **구독**을 선택합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
 
 4. **구독** 열에서 수정 하려는 구독을 선택 합니다.
 
@@ -162,4 +161,4 @@ ISV 게시자에서 라이선스 기반 SaaS 구독을 취소하려면 다음을
 
 - [고객을 위한 상업적 마켓플레이스 제품 관리](csp-commercial-marketplace-manage.md)
 
-- [상업용 Marketplace 개요](csp-commercial-marketplace-overview.md)
+- [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)

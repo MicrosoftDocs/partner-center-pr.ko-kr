@@ -5,17 +5,16 @@ ms.date: 06/03/2020
 description: 고객에 대 한 월간 Azure 지출 예산을 설정 또는 제거 하는 방법과 Azure 지출 데이터를 보고 예산 관련 알림을 설정 하는 방법을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17b6186d7e6cddaf598dc663c70841275c0db853
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: abee84249d2e41dc34f9ae0f62ac7f1ad51b94d1
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425992"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992153"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>파트너 센터에서 고객에 대 한 월간 Azure 지출 예산 설정, 확인 또는 제거
 

@@ -5,22 +5,21 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사의 위치에 따라 CSP 제품을 판매할 수 있는 국가, 지역 및 통화를 참조 하세요.
-ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: LauraBrenner
 ms.author: labrenne
 keywords: Csp 시장, 지역, CSP를 통해 판매할 수 있는 위치, CSP 제공, 지역, 클라우드 솔루션 판매, 글로벌 CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467433"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991821"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP 제품을 판매할 수 있는 클라우드 솔루션 공급자 프로그램 지역 시장 및 통화
 
-회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP (클라우드 솔루션 공급자) 프로그램 제품을 판매할 수 있는 지역 및/또는 국가가 포함 됩니다.
+회사 위치에 따라 시장이 결정됩니다. 시장에는 CSP (클라우드 솔루션 공급자) 프로그램 제품을 판매할 수 있는 지역 및/또는 국가가 포함 됩니다.
 
 예를 들어 회사가 미국에 있는 경우 미국 및 미국 소수 외부의 고객에 게 CSP 제품을 판매할 수 있습니다. 회사를 브라질에 거주 하는 경우에는 브라질에서 CSP 제품을 고객에 게 판매할 수 있습니다. 회사를 아프리카 지역에 있는 경우 아프리카 지역의 18 개 국가에서 CSP 제품을 고객에 게 판매할 수 있습니다.
 
@@ -148,7 +147,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  토켈라우               |   AUD    |
 |  통가                 |   AUD    |
 |  투발루                |   AUD    |
-|  월리스 푸투나     |   AUD    |
+|  왈리스-푸투나 제도     |   AUD    |
 |
 
 ## <a name="brazil-region-and-market"></a>브라질 지역 및 시장
@@ -166,7 +165,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 
 |  국가/지역 | 통화 |
 |  -------------- |:--------:|
-|  캐나다         |   CAD    |
+|  Canada         |   CAD    |
 |  생피에르앤드미클롱|  CAD   |
 |
 
@@ -295,7 +294,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  페루           |   USD    |
 |  푸에르토리코    |   USD    |
 |  사바           |   USD    |
-|  세인트 바르텔레미|  USD    |
+|  생바르텔레미|  USD    |
 |  세인트키츠 네비스|    |
 |  세인트루시아    |   USD    |
 |  생마르탱   |   USD    |
@@ -323,7 +322,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  아르메니아        |   USD    |
 |  아제르바이잔     |   USD    |
 |  바레인        |   USD    |
-|  벨라루스        |   USD    |
+|  벨로루시        |   USD    |
 |  보스니아 헤르체고비나|    |
 |  영국령 인도양 식민지|   USD   |
 |  이집트          |   USD    |
@@ -351,14 +350,14 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  카타르          |   USD    |
 |  사우디아라비아   |   USD    |
 |  세르비아         |   USD    |
-|  남아프리카 공화국   |   USD    |
+|  남아프리카   |   USD    |
 |  스와질랜드      |   USD    |
 |  타지키스탄     |          |
 |  튀니지        |   USD    |
 |  터키         |   USD    |
 |  투르크메니스탄   |          |
 |  우크라이나        |   USD    |
-|  아랍에미리트연합국| USD |
+|  아랍에미리트| USD |
 |  우즈베키스탄     |          |
 |  예멘          |   USD    |
 |  짐바브웨       |          |

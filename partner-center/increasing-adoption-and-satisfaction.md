@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 메트릭을 사용 하는 방법에 대해 알아봅니다. 메트릭은 비즈니스의 성장, 고객이 라이선스를 사용 하는 방법 및 투자에 집중 하는 위치를 표시할 수 있습니다.
-ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aef7142b94d446d149a4cb5930c422197347a0f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794870"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992113"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>파트너 센터에서 메트릭을 사용 하 여 채택 및 만족도 향상
 
@@ -26,7 +25,7 @@ ms.locfileid: "83794870"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 영업 상담원
@@ -60,7 +59,7 @@ ms.locfileid: "83794870"
 
 - **사용량%** = 활성 자격/총 자격
 
-   사용 현황%가 팽창 또는 100% 보다 큰 경우도 있습니다. 이 옵션은 다음과 같은 이유로 발생할 수 있습니다.
+   사용 현황%가 팽창 또는 100% 보다 큰 경우도 있습니다. 여러 가지 이유로 이와 같은 현상이 발생할 수 있습니다.
 
    - 고객이 직원 회전율을 가지 며 라이선스를 새 사용자에 게 이전 했습니다.
 

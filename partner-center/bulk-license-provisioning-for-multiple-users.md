@@ -5,18 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객 계정을 사용 하 여 한 사용자 또는 여러 사용자에 게 한 번에 라이선스 및 서비스를 할당 하거나 해지 하는 방법에 대해 알아봅니다.
-ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 라이선스 할당, 라이선스 해지, 여러 사용자에 게 할당,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 6508fad5e72e73cfab6310a413fded49d939158a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788697"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991631"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>고객 계정의 여러 사용자에 게 동시에 라이선스 할당 또는 해지
 

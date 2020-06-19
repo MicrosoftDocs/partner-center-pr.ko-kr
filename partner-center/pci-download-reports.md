@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 파트너 센터 정보, 보고서, 다운로드 보고서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793179"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072449"
 ---
 # <a name="download-reports"></a>보고서 다운로드
 
@@ -37,7 +37,8 @@ Insights 대시보드의 다운로드 보고서 허브를 사용 하면 파트�
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="생성 된 보고서":::
 
->두고 임원 보고서 뷰어 인 사용자만 보고서를 다운로드할 수 있습니다. Insights 대시보드 보고서에 대 한 역할 기반 액세스에 대 한 자세한 내용은 [PCI 역할](pci-roles.md)을 참조 하세요. 
+>[!NOTE] 
+>임원 보고서 뷰어 인 사용자만 보고서를 다운로드할 수 있습니다. Insights 대시보드 보고서에 대 한 역할 기반 액세스에 대 한 자세한 내용은 [PCI 역할](pci-roles.md)을 참조 하세요. 
 
 ## <a name="available-reports"></a>사용 가능한 보고서
 

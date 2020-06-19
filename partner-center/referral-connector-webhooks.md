@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 Webhook Api를 사용 하 여 Dynamics 365 CRM 또는 Salesforce CRM에 대 한 조회 리소스 변경이 발생 하는 경우를 알아봅니다.
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 조회, webhook api, 리소스 변경 이벤트
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 6d3cf5a4049f96f7eebce8d23c33ca79ad352ce5
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749173"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991895"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Webhook Api를 사용 하 여 Dynamics 365 CRM 및 Salesforce CRM에 대 한 리소스 변경 이벤트 등록
 
@@ -40,7 +39,7 @@ ms.locfileid: "84749173"
 
 3. 이러한 업데이트를 수행 하면 다음과 같이 표시 됩니다.
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="웹 후크":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
 4. 변경 내용을 저장 하 고 **켜기**를 선택 합니다.
 

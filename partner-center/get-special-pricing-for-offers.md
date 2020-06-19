@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 교육 고객, 비영리 고객 및 정부 사용자를 비롯 한 특정 고객 그룹에 대 한 Microsoft의 특별 한 가격 책정 가격에 대해 알아보세요.
-ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467173"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991245"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>교육, 비영리 및 정부 사용자와 같은 특수 산업 판매
 
@@ -25,7 +24,7 @@ ms.locfileid: "84467173"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 - 영업 상담원
 
@@ -35,7 +34,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 
 |**특별가**   |**재판매인 필수 자격**   |**고객에 게 필요한 자격**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |None   | 는 정규화 된 [교육 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
+|교육   |None   | 는 정규화 된 [교육 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
 |정부   |Azure를 판매 하려면 [MICROSOFT 미국 정부 클라우드 유효성 검사 양식](https://azuregov.microsoft.com/csp)을 사용 하 여 등록 합니다. 정부에 라이선스 기반 구독을 판매 하기 위해 필요한 자격이 없습니다.|   None|
 |비영리  |None<br/> 비영리 Azure Active Directory 테 넌 트가 있어야 합니다.<br/> [비영리 특별 행사](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)에 대해 자세히 알아보세요.   |적격 한 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register) 을 통해 등록 하세요.   |
 
@@ -75,7 +74,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | 상용 |상용 | 비영리, 교육 또는 정부 커뮤니티 클라우드 |
 | 비영리 |상업적, 비영리 | 교육 또는 정부 커뮤니티 클라우드 |
-| Education |상업적, 교육 | 비영리 또는 정부 커뮤니티 클라우드 |
+| 교육 |상업적, 교육 | 비영리 또는 정부 커뮤니티 클라우드 |
 | 정부 커뮤니티 클라우드 |정부 커뮤니티 클라우드 | 비영리, 교육 또는 상업적 |
 
 ## <a name="next-steps"></a>다음 단계

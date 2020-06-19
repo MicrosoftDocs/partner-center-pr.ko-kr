@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: 청구서 & 조정 파일에 대해 알아봅니다. 청구서에는 해당 월간 기간의 프로그램, 제품 및 고객에 대 한 파트너 센터 요금이 표시 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: 구독 청구, 청구, 파트너 센터에 대 한 청구, 파트너 센터 청구, 청구서 청구, 청구서, 파트너 센터 청구서, CSP 청구서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467463"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991885"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.
 
@@ -27,7 +26,7 @@ ms.locfileid: "84467463"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 청구 관리자
 - 관리 에이전트
 
@@ -38,7 +37,7 @@ ms.locfileid: "84467463"
 
 Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금 (예: Azure RI, Marketplace 또는 Azure 요금제)에 대 한 별도의 송장을 발급 합니다.
 
-예제:  
+예를 들면 다음과 같습니다.  
 
 **시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.  
 

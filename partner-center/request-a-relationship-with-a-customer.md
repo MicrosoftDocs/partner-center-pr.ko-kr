@@ -5,16 +5,15 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의 관계를 요청 하거나 고객에 게 위임 된 관리자 권한을 복원 해야 하는 경우
-ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679410"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992017"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객 으로부터 대리점 관계를 요청 하는 방법
 

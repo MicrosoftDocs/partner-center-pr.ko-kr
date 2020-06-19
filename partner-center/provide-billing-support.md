@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램 파트너에서 필요한 고객 요금 청구 지원에 대해 알아봅니다. 여기에는 고객 청구 관계를 소유 하 고 있으며 청구 질문에 대 한 답변이 포함 됩니다.
-ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467493"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992058"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>고객에 대 한 청구 지원을 제공 하 고 대금 청구 질문에 답변 해 주세요.
 
@@ -25,7 +24,7 @@ ms.locfileid: "84467493"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 기술 지원팀 상담원
 - 청구 관리자
@@ -60,7 +59,7 @@ CSP 모델의 파트너 거래는 고객에 게 신뢰할 수 있는 관리자 �
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
-각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음을 참조하십시오.
+각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음을 참조하세요.
 
 - [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

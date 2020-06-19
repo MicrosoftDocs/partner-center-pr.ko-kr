@@ -5,17 +5,16 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 고객의 청구 정보를 업데이트 하는 방법 또는 회사 세부 정보를 업데이트 하는 방법을 알아봅니다.
-ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1ad9fbefd5c89568dad02d79dd27ccae2b63472
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: efb862be225ca98cb9ec07eca4cc01e1839d70da
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603902"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991778"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>파트너 센터에서 고객 계정 정보, 회사 세부 정보 및 고객 청구 정보 업데이트
 

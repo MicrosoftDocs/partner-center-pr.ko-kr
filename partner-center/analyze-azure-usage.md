@@ -6,17 +6,16 @@ ms.subservice: partnercenter-csp
 Description: 파트너 센터를 사용 하 여 고객의 Azure 구독 사용에 대 한 데이터를 가져오는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9ecc41f08f6599aee53ca83b0904ceb91e471d8f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907429"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991099"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>고객과 Azure 구독이 얼마나 잘 작동 하는지에 대 한 데이터 가져오기
 
@@ -27,9 +26,9 @@ ms.locfileid: "82907429"
 
 **적절한 역할**
 
-- 글로벌 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
+- 전역 관리자
+- 사용자 관리 담당자
+- 관리 에이전트
 - 영업 상담원
 
 데이터는 비즈니스 의사 결정을 유도 합니다. **Azure 사용량** 페이지의 메트릭을 사용 하 여 주의가 필요한 성공 및 영역을 확인할 수 있습니다. 새 비즈니스 목표를 계획할 때이 정보를 사용 합니다.

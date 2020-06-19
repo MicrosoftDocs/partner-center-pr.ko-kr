@@ -5,18 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객이 해당 고객의 Azure 구독과 연결 된 CSP 프로그램 파트너를 변경 하는 데 도움을 주는 방법에 대해 알아봅니다.
-ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure 구독, 파트너 전환, 파트너 변경, 새 파트너 가져오기, 다른 파트너
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: eddab485d222bb8d0c5aae7cd977b6c85a418051
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: ba07f99301ddcbcb6f274bb1c603f14928d05257
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425902"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992128"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에 게 고객의 Azure 구독을 전송 하는 방법을 알아봅니다.
 

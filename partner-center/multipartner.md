@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객은 다양 한 서비스를 전문으로 하는 클라우드 솔루션 공급자 프로그램에서 여러 파트너와 작업 하는 것이 좋습니다.
-ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ecaadd62df076daac9fd3d516a5109730fbc32f
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 93a6912f0c0543b5f381cea8dc050d918d7666b1
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458419"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991913"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>둘 이상의 파트너와 함께 작업 하려는 고객에 대 한 다중 파트너 지원
 
@@ -25,7 +24,7 @@ ms.locfileid: "84458419"
 -  Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
--   글로벌 관리자
+-   전역 관리자
 -   사용자 관리자
 -   영업 상담원
 
