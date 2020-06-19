@@ -1,19 +1,17 @@
 ---
-title: 파트너 계정을 다른 파트너 계정에 병합
-ms.topic: article
-ms.date: 06/12/2020
+title: 파트너 계정을 다른 파트너 계정과 병합
 description: 파트너 센터에서 활성 Microsoft 파트너가 되는 회사는 자신의 계정을 병합할 수 있습니다.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788691"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909038"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
@@ -35,7 +33,7 @@ ms.locfileid: "84788691"
 
 - 위치에 대 한 모든 MPN Id는이 통합을 수행 하는 동안 보존 됩니다.
 
-- 사용자의 역할을 가져옵니다. 예를 들어 사용자가 특정 위치에 대 한 성과급 관리자 인 경우 해당 역할은 합병 후에도 해당 역할을 갖게 되 고 합병 전에 확인 된 성과급을 볼 수 있습니다.
+- 사용자의 역할을 가져옵니다. 예를 들어 사용자가 특정 위치에 대 한 성과급 관리자 인 경우 해당 역할은 병합 후에도 해당 역할을 수행 하 고 합병 전에 표시 되는 성과급을 볼 수 있습니다.
 
 - Azure AD 테 넌 트 및 CSP 계정은 병합 되지 않으며 영향을 주지 않습니다.
 
@@ -43,8 +41,7 @@ ms.locfileid: "84788691"
 
 ### <a name="view-of-merged-accounts"></a>병합 된 계정 보기
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="계정 병합기":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="계정 병합기":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>파트너 센터 계정을 다른 파트너 센터 계정과 병합 하기 위해 초대 된 경우에 발생할 수 있는 것입니다.
 
@@ -62,11 +59,11 @@ ms.locfileid: "84788691"
 
 - 계정을 다시 병합 하는 동안 및 다음에 갱신 될 때까지 각 계정 Action Pack 및/또는 역량 혜택을 유지 합니다. 갱신 시 표준 Action Pack 및 역량 갱신 규칙이 적용 됩니다.
 
-- 갱신 시, 역량 attainment 및 Action Pack에 포함 된 혜택은 파트너 회사의 파트너 전역 계정에 대해 구현 됩니다. 
+- 갱신 시, 역량 attainment 및 Action Pack에 포함 된 혜택은 파트너 회사의 파트너 전역 계정에 대해 구현 됩니다.
 
-    • Microsoft Action Pack: 파트너 회사는 파트너 전역 계정 마다 하나의 Action Pack를 구매할 수 있습니다.
+  - Microsoft Action Pack: 파트너 회사는 파트너 전역 계정 마다 하나의 Action Pack를 구매할 수 있습니다.
 
-    • 역량: 파트너 회사는 최고 attainment에 연결 된 핵심 혜택의 패키지 하나를 받고 파트너의 글로벌 계정에 대 한 역량 별 혜택을 받습니다. 
+  - 역량: 파트너 회사는 최고 attainment에 연결 된 핵심 혜택의 패키지 하나를 받고 파트너의 글로벌 계정에 대 한 역량 별 혜택을 받습니다.
 
 - 모든 혜택은 [Microsoft 파트너 네트워크 혜택 사용 가이드](https://aka.ms/partner-benefits-use-guide)의 영향을 받습니다. 예: 활성화 된 O365 E3 토큰은 활성화 후 12 개월 동안 작동 합니다. 테 넌 트에서 사용자의 토큰이 활성화 된 후에는 해당 사용자가 다른 테 넌 트로 이동 하지 못할 수 있습니다.
 

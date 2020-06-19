@@ -5,17 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 계획의 PEC (파트너 획득 크레딧) 측면이 계산 되는 방법에 대해 알아봅니다. 여기에는 파트너 및 간접 공급자에 대 한 자격 요구 사항이 포함 됩니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 437d1bbd6a5ef3a18d149df2b533fdd2d0ed735d
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788737"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908901"
 ---
 # <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 파트너에 대해 PEC (파트너 획득 크레딧)를 계산 하는 방법
 

@@ -24,6 +24,7 @@
 ## 이점
 ### [혜택 개요](manage-your-partner-network-benefits.md)
 ### [출시 혜택](mpn-learn-about-go-to-market-benefits.md)
+### [혜택 FAQ](benefits-faq.md)
 ## [Marketplace Rewards](marketplace-rewards.md)
 ## [Software Assurance 프로그램](software-assurance-lp.md)
 ### [파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램](software-assurance-satv.md)
@@ -198,6 +199,7 @@
 ### [Insights - 제품 구독 대시보드](pci-product-subscriptions-report.md)
 ### [Insights - 제품 라이선스 대시보드](pci-product-licenses-report.md)
 ### [Insights - Azure 사용 현황 대시보드](pci-azure-usage-report.md)
+### [Insights - 교육 대시보드](pci-training-dashboard.md)
 ### [Insights - 역량 보고서](pci-competencies-report.md)
 ### [Insights - 이익 보고서](pci-benefits-report.md)
 ### [Insights - 알려진 문제](pci-known-issues.md)

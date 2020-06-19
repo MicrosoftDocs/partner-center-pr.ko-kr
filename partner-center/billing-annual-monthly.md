@@ -3,17 +3,16 @@ title: 월별 및 연간 청구 차이
 ms.topic: article
 ms.date: 05/06/2020
 Description: 파트너 센터에서 월별 및 연간 청구가 어떻게 다른 지 알아보세요. 또한 서로 다른 청구 유형 간에 전환 하는 방법과 전환의 영향에 대해 알아봅니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908251"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908971"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>파트너 센터에서 월별 및 연간 청구의 차이점 이해
 
@@ -27,10 +26,10 @@ ms.locfileid: "82908251"
 
 - 관리 에이전트
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 인센티브 관리자
 - 인센티브 사용자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 
 이 항목에서는 혜택 및 사용 사례를 포함 하 여 파트너 센터에서 **월별 청구** 와 **연간 요금 청구** 간의 차이점에 대해 설명 합니다. 매월 또는 매년 특정 CSP (클라우드 솔루션 공급자) 구독에 대해 지불 하는 옵션이 있습니다.
@@ -225,7 +224,7 @@ CSP 프로그램을 현재 사용할 수 있는 모든 시장에서 월간 및 �
 
 성과급에 대 한 질문은 적절 한 지역 성과급 지원 팀에 문의 하세요.
 
-| 지역 | 전자 메일 주소 |
+| 지역 | 메일 주소 |
 | ------ | ------------- |
 | 북아메리카 | <ocina@microsoft.com> |
 |라틴 아메리카 & 브라질 | <ocilatam@microsoft.com> |

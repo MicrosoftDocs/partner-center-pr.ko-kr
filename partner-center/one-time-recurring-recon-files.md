@@ -3,17 +3,16 @@ title: 일회성 및 되풀이 조정 파일
 ms.topic: article
 ms.date: 05/26/2020
 description: 파트너 센터 일회성 및 되풀이 조정 파일의 각 필드 또는 열에 대 한 의미를 이해 합니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749194"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908671"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>파트너 센터에서 일회성 및 되풀이 조정 파일
 
@@ -43,7 +42,7 @@ ms.locfileid: "84749194"
 | CustomerCountry | 고객이 있는 국가입니다. |
 | InvoiceNumber | 지정된 거래가 표시되는 청구서 번호입니다. |
 | MpnId | CSP 파트너의 MPN 식별자입니다. |
-| OrderId | Microsoft commerce platform의 주문에 대 한 고유 식별자입니다. 조정에 사용 되지 않습니다. |
+| OrderID | Microsoft commerce platform의 주문에 대 한 고유 식별자입니다. 조정에 사용 되지 않습니다. |
 | OrderDate | 주문이 배치 된 날짜입니다. |
 | ProductId | 제품의 식별자입니다. |
 | SkuId | 특정 SKU에 대 한 식별자입니다 (재고 유지 단위). |

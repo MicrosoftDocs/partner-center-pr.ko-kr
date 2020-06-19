@@ -1,29 +1,28 @@
 ---
-title: Marketplace 보상 관리
+title: Marketplace Rewards 관리
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 제품을 상업적 marketplace에 게시 하는 파트너는 마케팅 지원을 제공 하는 혜택을 받을 자격이 있습니다.
-ms.assetid: ''
 author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 제품, 마케팅 지원, 보상, 게시자 혜택
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6751b1ba7a8a99980154d287df71aa24f9cf63be
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795986"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909011"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>파트너 센터에서 Marketplace 보상 관리 & 마케팅, 영업 및 기술 혜택 활성화
 
 적절 한 역할:
 
 - MPN 파트너 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 
 상용 marketplace에 소프트웨어 제품을 게시 하는 경우 Marketplace 보상은 마케팅, 판매 및 기술 혜택을 포함 하는 모든 제품을 대상으로 하는 지원을 제공 합니다.
@@ -34,25 +33,25 @@ Marketplace 보상 자격은 MPN 회사에 연결 된 모든 게시자 프로필
 
 1. 파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard)Marketplace 보상 페이지의 **영업 및 마케팅 혜택** 탭을 선택 하 여 혜택 목록을 봅니다. 
 
-2. 판매 및 마케팅 혜택을 활성화 하려면 먼저 회사 마케팅 담당자를 할당 해야 합니다. 이 연락처는 Marketplace 보상에 대 한 추가 정보를 받습니다.
+2. 판매 및 마케팅 혜택을 활성화하려면 먼저 회사 마케팅 담당자를 할당해야 합니다. 이 담당자는 Marketplace Rewards에 대한 추가 연락을 받게 됩니다.
 
-3. 마케팅 연락처 정보를 추가 하거나 업데이트 하려면 Marketplace 보상 페이지의 영업 및 마케팅 혜택 탭 맨 위로 이동한 다음 **추가, 업데이트 또는 변경**을 선택 합니다. 
+3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 Marketplace Rewards 페이지의 영업 및 마케팅 혜택 탭 맨 위로 이동한 다음 **추가, 업데이트 또는 변경**을 선택합니다. 
 
    다음으로, 아래 작업을 수행합니다.
 
    - 목록에서 사용자를 선택합니다. 할당하려는 사용자가 목록에 없는 경우 계정 설정에서 새 사용자를 추가할 수 있습니다.
 
-   - 회사의 파트너 센터 계정과 연결된 이메일 주소와 다른 사용자 이메일 주소를 입력합니다. Marketplace를 사용 하는 방법에 대 한 지침은 지정 된 마케팅 연락처의 전자 메일 주소에 대 한 혜택을 받을 수 있습니다.
+   - 회사의 파트너 센터 계정과 연결된 전자 메일 주소와 다른 사용자의 전자 메일 주소를 제공합니다. 지정된 마케팅 담당자의 전자 메일 주소로 Marketplace Rewards 혜택의 사용 지침에 대한 전자 메일을 보내 드립니다.
 
-   - 이 마케팅 담당자에 대한 연락처 전화 번호와 기본 설정 언어를 제공합니다. 이 정보 입력을 마친 후 **사용자 할당**을 선택합니다.
+   - 이 마케팅 담당자에 대한 담당자 전화 번화 및 기본 설정 언어를 제공합니다. 이 정보를 입력한 후 **사용자 할당**을 선택합니다.
 
-4. 마케팅 연락처를 업데이트 한 후에는 사용을 시작 하려는 혜택에 대해 **활성화** 를 선택 합니다. 혜택을 활성화 하면 한 주 내에 보상 팀의 구성원이 마케팅 담당자에 게 연락 하 게 됩니다.
+4. 마케팅 연락처를 업데이트한 후에는 사용하려는 혜택에 대해 **활성화**를 선택합니다. 혜택을 활성화하면 1주 내에 보상 팀의 구성원이 마케팅 담당자께 연락을 드립니다.
 
 ## <a name="technical-benefits"></a>기술 혜택
 
-1. 기술 혜택을 사용 하 여 클라우드 및 하이브리드 솔루션의 예약 판매, 디자인, 배포 및 앱 개발 단계 중에 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 요청 양식을 작성하고 **요청 제출**을 선택합니다.
+1. 기술 혜택을 사용하면 클라우드 및 하이브리드 솔루션의 예약 판매, 디자인, 배포 및 앱 개발 단계 중에 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 요청 양식을 입력한 다음 **요청 제출**을 선택합니다.
 
-2. Azure 후원 혜택을 활용 하는 방법은 이러한 혜택의 잠금을 해제할 때 전자 메일을 통해 공유 됩니다.
+2. Azure 스폰서쉽 혜택을 활용하는 방법은 이러한 혜택의 누릴 수 있을 때 전자 메일을 통해 공유됩니다.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>내 대시보드에 상업용 Marketplace 보상 프로그램이 표시되지 않는 이유는 무엇인가요?
 

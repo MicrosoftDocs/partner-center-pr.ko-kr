@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 솔루션을 제공 하는 데 도움이 되는 Microsoft 역량, 역량 수준 및 제품을 개선할 수 있는 방법을 확인 하세요.
-ms.assetid: ''
 keywords: PCI, 성능, 측정, 고객 성공, 역량, 혜택, 분석, 보고서
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: e836a9d5c51796edf76844342fb9bc68fcfacd69
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776290"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909081"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 역량 보고서
 

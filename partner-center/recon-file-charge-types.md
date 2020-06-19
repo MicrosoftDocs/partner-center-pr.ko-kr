@@ -3,17 +3,16 @@ title: 조정 파일 요금 유형
 ms.topic: article
 ms.date: 06/05/2020
 description: '파트너 센터 조정 파일의 요금 유형 (예: 라이선스 기반, 사용량 기반 및 일회성), 크레딧 및 할인을 검색 합니다.'
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 1ec4f4a483ecfd106f7ec41b85372e136524a046
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467513"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909111"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 다양 한 요금 유형 이해
 
@@ -26,7 +25,7 @@ ms.locfileid: "84467513"
 
 - 관리 에이전트
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 
 이 항목에서는 청구서 섹션과 조정 파일에 있을 수 있는 관련 요금 유형 간의 매핑에 대해 설명 합니다. 청구서는 요금 요약을 제공 합니다. 조정 파일은 요금 유형을 포함 하 여 품목 트랜잭션에 대 한 자세한 분석을 제공 합니다. 조정 파일에 대 한 자세한 내용은 [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md)을 참조 하세요.
 
@@ -65,7 +64,7 @@ ms.locfileid: "84467513"
 
 | 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 새로 만들기 | 새 구매가 생성 될 때 사용 됩니다. |
+| 단추를 사용하여 새 | 새 구매가 생성 될 때 사용 됩니다. |
 | addQuantity | 원래 구매 환불 및 증가 후의 새로운 수량 모두에 사용 됩니다. |
 | removeQuantity | 원래 구매 환불 및 감소 후의 새 수량 모두에 사용 됩니다. |
 | 취소 | 구독이 취소 될 때 사용 됩니다. |

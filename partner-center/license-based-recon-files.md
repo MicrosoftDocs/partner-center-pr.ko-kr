@@ -3,17 +3,16 @@ title: 라이선스 기반 조정 파일
 ms.topic: article
 ms.date: 05/18/2020
 description: 파트너 센터에서 라이선스 기반 조정 파일을 읽는 방법에 대해 알아봅니다. 이 문서에서는 라이선스 기반 정찰 파일에 있는 각 필드의 의미에 대해 설명 합니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86b3a099f6fe3948b9cb1ca707d43f776f66ca16
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795768"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909051"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>파트너 센터 라이선스 기반 조정 파일의 필드 이해
 
@@ -23,7 +22,7 @@ ms.locfileid: "83795768"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
@@ -39,7 +38,7 @@ ms.locfileid: "83795768"
 | CustomerName | 파트너 센터에 보고 된 고객의 조직 이름입니다. *시스템 정보를 사용 하 여 송장을 조정 하기 위한 매우 중요 한 필드입니다.* | *테스트 고객 A* |
 | MpnId | CSP 파트너의 MPN 식별자입니다. 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법을](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)참조 하세요. | *4390934* |
 | ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다.  |
-| OrderId | Microsoft 청구 플랫폼에서 사용되는 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
+| OrderID | Microsoft 청구 플랫폼에서 사용되는 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *566890604832738111* |
 | SubscriptionId | Microsoft 청구 플랫폼에서 사용되는 구독의 고유 식별자입니다. 지원에 문의할 때 구독을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. *이 값은 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다. 대신 **SyndicationPartnerSubscriptionNumber** 를 참조 하세요.* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 구독에 대 한 고유 식별자입니다. 고객은 동일한 계획에 대해 여러 구독을 가질 수 있습니다. 이 열은 조정 파일 분석에 중요 합니다. 이 필드는 파트너 관리 콘솔의 **구독 ID** 에 매핑됩니다. | *fb977ab5-24c8d9591708* |
 | OfferId | 고유 제품 식별자입니다. 가격 목록에 정의 된 표준 제품 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 하지 않습니다. 대신 **DurableOfferID** 를 참조 하세요.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
