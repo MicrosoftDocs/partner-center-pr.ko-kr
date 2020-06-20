@@ -2,19 +2,19 @@
 title: 고객에 대 한 다중 채널 지원
 description: 경우에 따라 고객은 다른 곳에서 구매한 구독을 프로 비전 하 고 지원 하도록 고용 하고자 할 수 있습니다.
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7cc155505846a0ccf57e01eea7cf090e1e52238
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991930"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104099"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>다중 채널 지원-다른 파트너를 사용 하 여 다른 곳에서 구매한 고객 구독을 지원 합니다.
 
@@ -35,8 +35,8 @@ ms.locfileid: "84991930"
 
 - 클라우드 솔루션 공급자 프로그램이 아닌 타사에서 구독을 구입 했거나 Microsoft 배포 파트너가 아닙니다. 고객은 기존 라이선스 기반 구독을 클라우드 솔루션 공급자 프로그램의 다른 파트너로 전환할 수 없습니다. 구독 기간이 끝날 때까지 기다리거나 이동 하기 전에 취소 해야 합니다.
 
-| | |
-|---------|---------|
+|이러한 서비스를 지원 하려면  | 방법: |
+|:---------|:---------|
 |라이선스 기반 서비스    | 다중 채널 계정에 대 한 지원을 제공 하려면 고객의 구독 관리 권한을 요청 해야 합니다. 자세한 내용은 [고객과 대리점 관계 요청](request-a-relationship-with-a-customer.md)을 참조 하세요.   |
 |사용 빈도 기반 서비스     |  Advisor, Open 또는 EA와 같은 다른 채널의 Microsoft Azure에 대 한 구독이 이미 있는 고객의 경우 파트너 센터에서 새 Azure 구독을 만들고, 구독 세부 정보를 수동으로 입력 한 다음, 개별 서비스 또는 전체 구독을 취소 해야 합니다. Azure CSP는 서로 다른 채널과 함께 사용할 수 있습니다.<br/><br/> 예를 들어 다른 파트너의 Microsoft Azure에 대 한 구독이 이미 있는 고객의 경우 Azure 서비스를 다른 파트너로 전환할 수 있습니다.  자세한 내용은 [Azure 구독을 다른 파트너로 전환](switch-azure-subscriptions-to-a-different-partner.md)을 참조 하세요. |
 

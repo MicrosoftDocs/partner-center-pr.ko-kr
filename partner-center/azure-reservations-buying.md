@@ -1,7 +1,7 @@
 ---
 title: 고객에 대 한 Microsoft Azure 예약 구입
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 예약, 관리, 청구, 구매
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603722"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104108"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 
@@ -28,7 +28,7 @@ ms.locfileid: "84603722"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -55,10 +55,12 @@ ms.locfileid: "84603722"
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 예약을 사용할 수 없는 지역/국가
 
->[!IMPORTANT] 
->Azure 예약은 다음과 같은 지역/국가에서는 사용할 수 *없습니다*.  
+> [!IMPORTANT]
+> Azure 예약은 다음과 같은 지역/국가에서는 사용할 수 **없습니다**.  
 >  
-> | 사용할 수 없는 지역/국가 | &nbsp; | &nbsp; |
+> **사용할 수 없는 시장 (사전순)**
+>
+> |To Gi   | Gr에서 Pal로  | Pap에서 Z로 |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 올란드 제도     | 그린란드     | 파푸아뉴기니     |
 > | 미국령 사모아     | 그레나다     | 핏케언 제도     |

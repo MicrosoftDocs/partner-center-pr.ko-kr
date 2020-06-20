@@ -1,19 +1,19 @@
 ---
 title: 고객과의 관계 요청
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의 관계를 요청 하거나 고객에 게 위임 된 관리자 권한을 복원 해야 하는 경우
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992017"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104092"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객 으로부터 대리점 관계를 요청 하는 방법
 
@@ -56,7 +56,7 @@ ms.locfileid: "84992017"
 
 클라우드 솔루션 공급자 파트너 로부터 재판매인 관계 초대를 수락 하는 고객 환경은 고객 지향 포털에서 호스팅됩니다. 포털 위치는 고객이 Microsoft 공용 클라우드 또는 국가별 클라우드에 있는지 여부에 따라 달라 집니다.
 
-|  | 고객이 재판매인 관계 초대를 수락 하는 위치는 어디 인가요? |
+|클라우드 고객 유형  | 고객이 재판매인 관계 초대를 수락 하는 위치는 어디 인가요? |
 |---------|---------
 | 공용 클라우드의 고객 | Microsoft 365 관리 센터 |
 | Microsoft 클라우드 독일 파트너 센터의 고객 | Microsoft Office 관리 포털 |

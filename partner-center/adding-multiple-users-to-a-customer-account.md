@@ -1,7 +1,7 @@
 ---
 title: 고객 계정에 대 한 여러 사용자 추가
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 한 번에 여러 사용자를 고객 계정에 추가 하는 방법을 알아봅니다. 쉼표로 구분 된 값 (.csv) 파일 형식을 사용 하 여 파트너 센터에 데이터 파일을 업로드 합니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 대량 업로드, 고객의 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 계정, 고객 사용자, 사용자에 대 한 대량 업로드
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991079"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104121"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>고객 계정에 여러 사용자 추가-파트너 센터에 데이터 파일 업로드
 
@@ -41,13 +41,12 @@ ms.locfileid: "84991079"
 
 데이터 파일에 다음 데이터를 입력 합니다.
 
-|                 |                                                                              |                                            |
-|-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **열 이름** | **설명**                                                              | **제한 사항**                             |
-| 이름      | 사용자의 이름 (선택 필드)                                           | 50자로 제한                         |
-| 성       | 사용자의 성 (선택 필드)                                            | 50자로 제한                         |
+| **열 이름** | **설명**  | **제한 사항**  |
+|:-------- |:------  |:----- |
+| 이름  | 사용자의 이름 (선택 필드)  | 50자로 제한  |
+| 성  | 사용자의 성 (선택 필드)  | 50자로 제한  |
 | 표시 이름    | 파트너 센터 (필수 필드)에 표시 되는 이름                            | 50자로 제한                         |
-| 메일           | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자에게는 고유한 전자 메일 주소가 있어야 합니다. |
+| Email   | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자에게는 고유한 전자 메일 주소가 있어야 합니다. |
 | 상태 업데이트   | 새 사용자 레코드가 성공적으로 만들어졌는지 여부를 나타내는 데 사용 됩니다. | \*\*비워 둠\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>여러 사용자 계정을 만들려면
