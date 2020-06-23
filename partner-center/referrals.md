@@ -1,7 +1,7 @@
 ---
 title: Microsoft 조회를 사용 하 여 비즈니스 성장
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스 프로필을 만들어 파트너 센터 조회 기능을 통해 판매 잠재 고객을 생성 한 다음 이러한 참조에 응답 하는 방법을 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 추천, 비즈니스 프로필, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467443"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198621"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ ms.locfileid: "84467443"
  비즈니스 프로필을 게시하고 나면 파트너 센터에서 추천 기능을 통해 잠재 고객을 받기 시작할 수 있습니다. 이러한 잠재 고객을 계속해서 가져오고 무엇보다도 거래를 성사시키려면 필요한 기간 내에 추천에 응답하는 것이 중요합니다. 파트너 센터에서 잠재 고객을 관리하는 방법에 대한 자세한 내용은 [추천에 응답](responding-to-referrals.md)을 참조하세요.  
 
 시작하려면 [비즈니스 프로필 최적화](https://player.vimeo.com/video/252788046)라는 짧은 비디오를 시청하세요.  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->

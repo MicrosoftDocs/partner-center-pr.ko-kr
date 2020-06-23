@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908285"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198631"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
 적용 대상:
@@ -28,8 +26,8 @@ ms.locfileid: "82908285"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
-- 기술 지원팀 에이전트
+- 전역 관리자
+- 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
  
