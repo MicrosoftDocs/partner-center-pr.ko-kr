@@ -5,18 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객의 구독을 업그레이드하거나 수정하는 방법을 알아보세요. 라이선스를 추가하거나, 더 많은 사용자를 추가하거나, 더 많은 서비스를 보유한 다른 버전으로 이동합니다.
-ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: 기존 구독에 라이선스 추가, 기존 구독에 사용자 추가, 구독 수정, 구독 변경, 고객에 대해 더 많은 라이선스 구입
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975124"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991092"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스, 사용자 및 기타 서비스 추가
 

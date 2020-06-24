@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328314"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749164"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
@@ -91,7 +91,7 @@ Azure AD 테넌트가 이미 기존 파트너 센터 계정에 연결되어 있�
 
 **Microsoft에서 내 MPN 멤버 자격을 대신 마이그레이션할 수 있나요?**
 
-아니요. Microsoft는 구성원 계정을 파트너 센터로 이동하는 데 도움을 줄 수 없습니다. 파트너는 마이그레이션 프로세스를 시작하려면 회사 계정(로그인 자격 증명)으로 PMC에 로그인하여 계정을 이동해야 합니다. 계정 이동 단계를 완료한 후에는 멤버 자격 관리를 시작하고 사용자 역할 및 권한을 할당할 수 있습니다. 그러면 사용자가 혜택에 액세스하여 멤버 자격을 관리할 수 있습니다. Microsoft는 현재 역량, 혜택, 위치 정보, 인센티브 지급을 위한 은행/세금 정보, 파트너 대학 액세스를 포함한 MCP 연결을 자동으로 마이그레이션합니다.
+아니요. Microsoft는 구성원 계정을 파트너 센터로 이동하는 데 도움을 줄 수 없습니다. 파트너는 마이그레이션 프로세스를 시작하려면 회사 계정(로그인 자격 증명)으로 PMC에 로그인하여 계정을 이동해야 합니다. 계정 이동 단계를 완료한 후에는 멤버 자격 관리를 시작하고 사용자 역할 및 권한을 할당할 수 있습니다. 그러면 사용자가 혜택에 액세스하여 멤버 자격을 관리할 수 있습니다. 
 
 Microsoft는 현재 역량, 혜택, 위치 정보, 인센티브 지급을 위한 은행/세금 정보, 파트너 대학 액세스를 포함한 MCP 연결을 자동으로 마이그레이션합니다.
 

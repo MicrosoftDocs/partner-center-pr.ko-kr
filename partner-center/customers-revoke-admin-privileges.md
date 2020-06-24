@@ -1,7 +1,7 @@
 ---
 title: 고객의 관리자 권한 얻기
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객의 서비스 또는 구독을 대신 관리하는 데 필요한 권한을 얻습니다. 권한 부여, 해지 및 관리 방법에 대해 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: 위임된 관리자 권한, 대신 관리, 권한 제거, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466783"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198601"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
 
@@ -98,8 +98,6 @@ ms.locfileid: "84466783"
 - 고객이 Office 365 Portal을 사용하여 파트너의 위임된 관리 권한을 제거해도 파트너는 구독에 속한 하나 이상의 역할에 할당되어 있는 한 고객의 Azure 구독을 관리할 수 있습니다. 파트너의 Azure 구독 관리를 중지하려면 고객이 해당 역할 할당을 제거해야 합니다.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 다음과 같은 상황에서 CSP 파트너는 위임된 관리자 권한 없이 파트너 센터에서 고객의 Autopilot 프로필을 관리할 수 있습니다. 
 
