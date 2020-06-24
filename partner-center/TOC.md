@@ -190,8 +190,9 @@
 ### [Microsoft 365로 Kaizala Pro 구독 마이그레이션](migrate-kaizala-pro-partner.md)
 
 # 파트너 센터 데이터 및 분석
-## [비즈니스 데이터 수집 및 분석](data-analysis-lp.md)
-## [Microsoft Power BI용 파트너 분석 앱](power-bi-app-for-direct-partners.md)
+## [사용자 데이터 및 분석에 액세스](data-analysis-lp.md)
+## [Microsoft Power BI를 위한 파트너 센터 분석 앱 사용](power-bi-app-for-direct-partners.md)
+## [Microsoft Power BI를 위한 파트너 센터 분석 앱 사용](power-bi-app-for-direct-partners.md)
 ## [파트너 센터 인사이트](partner-center-insights.md)
 ### [Insights - 개요 대시보드](pci-overview-report.md)
 ### [Insights - Insights 대시보드에 대한 역할 기반 액세스 제어](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [개요](partner-security-requirements.md)
 ## [파트너 테넌트 사용자를 대상으로 MFA 의무화](partner-security-requirements-mandating-mfa.md) 
 ## [요구 사항 상태](partner-security-compliance.md)
+## [파트너 보안 요구 사항 구현](implement-security-requirements.md)
 ## [질문과 대답](partner-security-requirements-faq.md)
 
-# 자습서
-## [파트너 보안 요구 사항 구현](tutorials/partner-security-requirements.yml)
