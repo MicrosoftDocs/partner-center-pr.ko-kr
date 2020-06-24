@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452610"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679120"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표
 
@@ -37,13 +37,17 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 
 2. Azure 플랜 가격 책정에서 가격을 책정하려는 국가를 선택합니다.
 
-3. **내보내기 유형** 옆에서 **Azure 플랜 사용 가격**, **Azure 플랜 예약 가격 책정** 또는 **환율**을 선택합니다. 참고: **환율**은 국가별로 다릅니다.
+3. **내보내기 유형** 옆에서 **Azure 플랜 사용 가격**, **Azure 플랜 예약 가격 책정** 또는 **환율**을 선택합니다. 
+
+>[!NOTE] 
+>**환율**은 국가별로 다릅니다.
 
 4. **날짜 가격 책정** 옆에서 원하는 날짜를 선택합니다(예: **현재**).
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="국가별":::
 
-참고: Azure 플랜 가격 책정과 마켓플레이스 타사 가격 책정이라는 두 가지 가격표를 내보낼 수 있습니다.
+>[!NOTE] 
+>Azure 플랜 가격 책정과 마켓플레이스 타사 가격 책정이라는 두 가지 가격표를 내보낼 수 있습니다.
 
 ## <a name="azure-price-list-specifics"></a>Azure 가격표 세부 정보
 

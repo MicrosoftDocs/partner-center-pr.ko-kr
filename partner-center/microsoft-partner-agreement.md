@@ -5,17 +5,16 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 디지털 방식으로 수락하는 이 통합 MPA(Microsoft 파트너 계약)에 서명하고 확인하기 위한 Microsoft CSP 파트너 요구 사항에 대해 알아봅니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ffb720603c94639f5c3be9b472157dedf230851c
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 5e32939b8d6baf815a68ff9fcc556fcc4bf527e1
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205601"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992092"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254040"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749131"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -31,7 +31,7 @@ _________________
 - 날짜: 2020-04-30
 - 다음을 입력합니다. 기능
 - 상태: 출시 예정
-- [자세한 정보](https://aka.ms/CSPCOVIDPromo)
+- [자세한 내용](https://aka.ms/CSPCOVIDPromo)
 
 ### <a name="summary"></a>요약
 
@@ -82,7 +82,7 @@ _________________
 - 날짜: 2020-04-29
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -117,7 +117,7 @@ _________________
 - 날짜: 2020-04-24
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://flow.microsoft.com/ui-flows/)
+- [자세한 내용](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>요약
 
@@ -154,7 +154,7 @@ _________________
 - 날짜: 2020-04-23
 - 다음을 입력합니다. 기능
 - 상태: 출시 예정
-- [자세한 정보](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-partner-audiences"></a>대상 파트너 그룹
 
@@ -191,7 +191,8 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 
 파트너십과 헌신을 통해 Microsoft 에코시스템이 신뢰를 바탕으로 운영되는 데 도움을 주셔서 감사합니다.
 
-참고: 기준 정책을 사용 중이며 보안 기본값 정책이나 [다른 MFA 구현 옵션](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)으로 전환하지 않은 경우 [여기에 있는 주요 리소스](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)를 참조하여 최대한 빨리 전환하세요.
+>[!NOTE] 
+>기준 정책을 사용 중이며 보안 기본값 정책이나 [다른 MFA 구현 옵션](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)으로 전환하지 않은 경우 [여기에 있는 주요 리소스](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)를 참조하여 최대한 빨리 전환하세요.
 
 ### <a name="change-log"></a>로그 변경
 
@@ -302,7 +303,7 @@ _________________
 - 날짜: 2020-04-14
 - 다음을 입력합니다. 기능
 - 상태: 출시 예정
-- [자세한 정보](https://flow.microsoft.com/ui-flows/)
+- [자세한 내용](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>요약
 
@@ -388,7 +389,7 @@ _________________
 - 날짜: 2020-04-10
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://flow.microsoft.com/ui-flows/)
+- [자세한 내용](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>요약
 
@@ -512,7 +513,7 @@ _________________
 - 날짜: 2020-04-06
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="summary"></a>요약
 
@@ -543,7 +544,7 @@ Microsoft는 2020년 4월 1일에 Dynamics Business Central Online, Dynamics 비
 ### <a name="robotic-process-automation"></a>로봇 프로세스 자동화
 
 Microsoft는 2020년 5월 1일에 새 RPA 제품의 가용성을 교육 프로그램으로 확장합니다.
-CSP의 승인된 교육 파트너 프로그램 변경 사항에 대해 자세히 알아보려면 [여기](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)를 클릭하세요. 참고: 이는 파트너 센터의 기존 컬렉션 링크입니다).
+CSP의 승인된 교육 파트너 프로그램 변경 사항에 대해 자세히 알아보려면 [여기](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)를 클릭하세요. 이는 파트너 센터의 기존 컬렉션 링크입니다).
 
 새 SKU 정보의 관련 다운로드 섹션에서 첨부된 **Dynamics CSP Offer Updates-May 2020 파일**([여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/))을 검토하세요.
 
@@ -588,7 +589,7 @@ _________________
 - 날짜: 2020-04-03
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 - 모든 CSP 파트너
@@ -611,7 +612,7 @@ partner.microsoft.com의 작업 준비 리소스 사이트는 기존의 CSP 프�
 
 - **프로그램 페이지:** 각 페이지는 해당 프로그램의 콘텐츠만 표시하도록 미리 필터가 적용되기 때문에 해당 프로그램의 최근 문서 업데이트를 쉽게 찾을 수 있게 됩니다.
 - **강력한 갤러리 검색:** 모든 프로그램과 콘텐츠에서 빠르고 간편하게 콘텐츠를 찾을 수 있도록 도와주는 콘텐츠 필터가 제공됩니다(예: CSP).
-- **공지:** 각 페이지는 해당 프로그램의 콘텐츠만 표시하도록 미리 필터가 적용되기 때문에 해당 프로그램의 최신 공지 사항과 최근 문서 업데이트를 쉽게 찾을 수 있게 됩니다. CSP를 위한 프로그램 페이지도 제공되지만, CSP 공지는 계속해서 파트너 센터에 게시됩니다.
+- **알림:** 각 페이지는 해당 프로그램의 콘텐츠만 표시하도록 미리 필터가 적용되기 때문에 해당 프로그램의 최신 공지 사항과 최근 문서 업데이트를 쉽게 찾을 수 있게 됩니다. CSP를 위한 프로그램 페이지도 제공되지만, CSP 공지는 계속해서 파트너 센터에 게시됩니다.
 - **새 위치:** partner.microsoft.com의 새로운 작업 리소스 위치가 정식으로 공개되면 Microsoft Readiness 사이트와 CSP 프로그램 업데이트 리소스 갤러리에는 더 이상 액세스할 수 없으며 새로운 작업 리소스 사이트로 리디렉션됩니다. 파트너는 콘텐츠 프로그램 필터를 사용하여 CSP 또는 다른 프로그램 리소스로 필터링할 수 있습니다.
 - **확장된 콘텐츠:** Microsoft Readiness 사이트와 CSP 프로그램 업데이트 리소스 갤러리의 모든 최근 및 관련 콘텐츠가 새로운 작업 준비 사이트로 이전됩니다. 즉, 이제 더 많은 프로그램의 콘텐츠가 한곳에 정리됩니다.
 
@@ -642,7 +643,7 @@ _________________
 - 날짜: 2020-04-01
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
 
 ### <a name="summary"></a>요약
 
@@ -735,7 +736,7 @@ _________________
 - 날짜: 2020-04-01
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 모든 CSP 파트너.

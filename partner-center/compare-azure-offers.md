@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP(클라우드 솔루션 공급자) 프로그램의 파트너에 대한 새로운 Microsoft 상거래 환경의 제품 간의 주요 차이점을 비교합니다.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908170"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908741"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP 프로그램에서 Azure 제품 간의 차이점 비교
 
