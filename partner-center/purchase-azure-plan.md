@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 플랜을 사용하여 단일 또는 다중 Azure 구독 및 Azure 예약을 구입하고, 리소스를 구성하고, 구독을 보거나 추가하는 방법에 대해 알아보세요.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467523"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909131"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>고객에 대한 Azure 플랜을 구매하고 종량제 요금으로 최신 Azure 서비스에 액세스합니다.
 
@@ -78,7 +77,8 @@ Azure 예약이 활성 Azure 플랜과 연결되어야 합니다. 고객 구독 
 >[!Important] 
 >고객이 활성 Azure 플랜을 보유하고 있지 않은 경우 Azure를 선택하여 지금 추가합니다. 자세한 지침은 [Azure 예약 구매](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)를 참조하세요.
 
-현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 
+>[!Note] 
+>현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="공유 범위 예약 설정":::
 

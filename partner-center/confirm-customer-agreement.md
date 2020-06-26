@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453270"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679110"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
 
@@ -128,7 +128,10 @@ ms.locfileid: "84453270"
 
 3. **고객 계약** 아래에서 첫 번째 옵션인 **Microsoft 365 관리 센터에서 Microsoft 고객 계약에 동의하라는 메시지가 고객에게 표시됩니다.** 를 선택합니다. 페이지에서 다른 필수 필드를 모두 완성합니다.
 
-4. **다음: 검토**를 선택한 다음, 고객 테넌트를 만드는 단계를 계속 진행합니다. (참고: 새 고객은 Microsoft 고객 계약에 동의할 때까지 새로 구매할 수 없습니다.)  
+4. **다음: 검토**를 선택한 다음, 고객 테넌트를 만드는 단계를 계속 진행합니다. 
+
+>[!NOTE] 
+>새 고객은 Microsoft 고객 계약에 동의할 때까지 새로 구매할 수 없습니다.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="새 고객 만들기":::
 

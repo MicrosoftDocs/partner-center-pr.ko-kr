@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드, 핵심 요구 사항
 ms.localizationpriority: high
-ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 417e0d0c8f2afe64d1690ede154a952f7c0bf32c
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721319"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776300"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>인센티브 협력 클레임을 위한 핵심 요구 사항
 

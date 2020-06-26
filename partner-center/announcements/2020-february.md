@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253970"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749140"
 ---
 # <a name="february-2020-announcements"></a>2020년 2월 공지
 
@@ -31,7 +31,7 @@ _________________
 - 날짜: 2020-02-25
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -60,7 +60,7 @@ _________________
 - 날짜: 2020-02-25
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상:
 
@@ -77,7 +77,10 @@ _________________
 
 파트너는 파트너 센터 대시보드 또는 [이 새 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)를 통해 제공되는 새로운 기능을 사용하여 고객이 새 계약에 동의했는지를 알 수 있습니다.
 
-2020년 2월 1일부터 Microsoft 퍼블릭 클라우드의 모든 지역에서 모든 CSP 제품에 대해 새 주문을 하려면 Microsoft 고객 계약의 고객 동의에 대한 파트너의 확인이 필요합니다. CSP 파트너는 고객이 이러한 옵션 중 하나를 통해 Microsoft 고객 계약에 동의했는지를 확인하지 않고는 실제 사용자 수 변경 또는 기존 구매의 갱신 등 새로운 구매를 더 이상 할 수 없습니다. 참고: 자동 갱신은 영향을 받지 않습니다.
+2020년 2월 1일부터 Microsoft 퍼블릭 클라우드의 모든 지역에서 모든 CSP 제품에 대해 새 주문을 하려면 Microsoft 고객 계약의 고객 동의에 대한 파트너의 확인이 필요합니다. CSP 파트너는 고객이 이러한 옵션 중 하나를 통해 Microsoft 고객 계약에 동의했는지를 확인하지 않고는 실제 사용자 수 변경 또는 기존 구매의 갱신 등 새로운 구매를 더 이상 할 수 없습니다.
+ 
+>[!Note] 
+>자동 갱신은 영향을 받지 않습니다.
 
 ### <a name="next-steps"></a>다음 단계:
 
@@ -156,7 +159,7 @@ _________________
 - 날짜: 2020-02-12
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-audiences"></a>대상
 
@@ -191,7 +194,9 @@ Microsoft 시스템에 의하면, 귀사에서는 현재 기준 정책을 사용
 간접 공급자:
 
 - Microsoft CSP 프로그램에서 변경 내용에 대해 재판매인에게 알립니다([이 이메일 템플릿 사용](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). 현재 재판매인이 기준 정책을 사용하는 경우 보안 기본값을 사용하도록 설정해야 합니다.
-- 참고: Microsoft는 현재 기준 정책을 사용하며 파트너 센터 연락처 정보를 보유한 재판매인과 직접 연락합니다.
+
+>[!Note] 
+>Microsoft는 현재 기준 정책을 사용하며 파트너 센터 연락처 정보를 보유한 재판매인과 직접 연락합니다.
 
 파트너 보안 요구 사항에 대해 궁금한 점이 있다면 [여기](https://aka.ms/security-requirements)에서 추가 리소스를 확인하세요.
 
@@ -211,7 +216,7 @@ _________________
 - 날짜: 2020-02-05
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
 
 ### <a name="summary"></a>요약:
 
@@ -255,7 +260,7 @@ _________________
 - 날짜: 2020-02-04
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상:
 
@@ -274,9 +279,8 @@ Azure 플랜 소비 미터 및 예약을 거래하고 재판매하며 Microsoft 
 - 파트너가 새 환경(Azure 플랜)에서 지원되는 청구 통화의 월간 환율을 검색할 수 있음
 - 현재 월 또는 이전 달의 가격 또는 환율을 검색하는 기능을 제공함
 
-참고:
-
-- 이 API는 Azure 플랜 가격 책정에 대한 순 신규 API 리소스입니다.
+>[!Note] 
+>이 API는 Azure 플랜 가격 책정에 대한 순 신규 API 리소스입니다.
 - Azure 플랜에 속하지 않는 이전 Azure 구독에 배포된 기존 Azure 리소스 또는 예약에는 계속 기존 [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure)를 사용해야 합니다.
 - 이 API는 파트너 센터 API에 대한 다른 엔드포인트(API를 호스트하는 도메인)에 있습니다.
 
@@ -335,7 +339,7 @@ _________________
 - 날짜: 2020-02-04
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://www.microsoft.com/licensing/docs/customeragreement)
+- [자세한 내용](https://www.microsoft.com/licensing/docs/customeragreement)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상:
 
@@ -345,7 +349,7 @@ _________________
 
 CSP(클라우드 솔루션 공급자) 프로그램의 새로운 [Microsoft 고객 계약](https://www.microsoft.com/licensing/docs/customeragreement)은 2019년 10월부터 사용할 수 있으며 기존 Microsoft 클라우드 계약을 대체합니다. 단순화된 이 신규 고객 계약은 고객이 구매를 선택하는 방식에 관계없이 일관된 구매 조건을 제공합니다.
 
-**2020년 2월 1일부터 CSP의 직접 청구 공급자 및 간접 공급자는 Microsoft 퍼블릭 클라우드의 모든 CSP 제품에 대해 고객의 Microsoft 고객 계약 동의를 확인해야 합니다**. 새 계약에 대한 고객 동의를 확인하지 않으면 파트너는 2월 1일부터 사용자 변경 및 기존 구매 갱신을 포함하여 고객을 위한 신규 구매를 할 수 없게 됩니다(참고: 자동 갱신에는 영향이 없음).
+**2020년 2월 1일부터 CSP의 직접 청구 공급자 및 간접 공급자는 Microsoft 퍼블릭 클라우드의 모든 CSP 제품에 대해 고객의 Microsoft 고객 계약 동의를 확인해야 합니다**. 새 계약에 대한 고객 동의를 확인하지 않으면 파트너는 2월 1일부터 사용자 변경 및 기존 구매 갱신을 포함하여 고객을 위한 신규 구매를 할 수 없게 됩니다(자동 갱신에는 영향이 없음).
 
 파트너는 새로운 계약을 기존 Microsoft 클라우드 계약의 경우와 동일한 방식으로 고객에게 안내할 수 있습니다. 고객이 계약을 검토하고 동의한 후, 파트너는 파트너 센터에서 고객의 동의를 확인해야 합니다. 새 계약을 지원하도록 파트너 센터 웹 사용자 인터페이스, API 및 .NET SDK를 업데이트했습니다.
 
@@ -357,10 +361,8 @@ CSP(클라우드 솔루션 공급자) 프로그램의 새로운 [Microsoft 고�
 - 기존 Microsoft 클라우드 계약을 위한 API를 사용하는 파트너는 [업데이트된 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement)를 사용하여 기존 구현을 수정해야 합니다.
 - 에이전트 및 재판매인들을 대상으로 [새 계약 조건의 내용](https://www.microsoft.com/licensing/docs/customeragreement), 새 계약을 안내하는 방법 및 고객 동의를 확인하는 방법을 교육하세요.
 
-### <a name="note"></a>참고:
-
-- 2019년 11월에 출시된 [Azure를 위한 CSP의 새로운 상거래 환경](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)을 통해 구매하려는 고객도 Microsoft 고객 계약에 동의해야 합니다.
-- CY2020 1분기에 CSP의 파트너는 파트너 센터에서 고객을 인증 Microsoft 포털(Microsoft 365 관리 센터)에 초대하여 고객이 직접 Microsoft 고객 계약을 확인하고 서명하도록 할 수 있는 추가 옵션도 사용할 수 있게 됩니다.
+>[!NOTE] 
+>2019년 11월에 출시된 [Azure를 위한 CSP의 새로운 상거래 환경](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)을 통해 구매하려는 고객도 Microsoft 고객 계약에 동의해야 합니다. CY2020 1분기에 CSP의 파트너는 파트너 센터에서 고객을 인증 Microsoft 포털(Microsoft 365 관리 센터)에 초대하여 고객이 직접 Microsoft 고객 계약을 확인하고 서명하도록 할 수 있는 추가 옵션도 사용할 수 있게 됩니다.
 
 ### <a name="change-log"></a>로그 변경:
 

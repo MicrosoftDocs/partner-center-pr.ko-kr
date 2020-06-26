@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 조회, 분석, 분석 정보, 메트릭, 전환
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467453"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679430"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>파트너 센터에서 추천 인사이트를 얻고 추천을 수행하는 방법을 알아보세요.
 
@@ -39,7 +39,7 @@ ms.locfileid: "84467453"
   - **마케팅 한정**: Microsoft의 마케팅 시스템에서 만들었습니다.
   - **판매 한정**: Microsoft 판매 에이전트가 만들었습니다.
   - **자격 미달**: 품질 측정 방법이 연결되지 않은 조회입니다.
-- **조회 유형**: 기본값은 **모두**이지만, 데이터 범위를 **독립** 조회(고객과 직접 작업하여 거래 완료) 또는 **공동 판매** 조회(거래를 완료할 때까지 협력할 추가 당사자 포함)로 제한할 수 있습니다.
+  - **조회 유형**: 기본값은 **모두**이지만, 데이터 범위를 **독립** 조회(고객과 직접 작업하여 거래 완료) 또는 **공동 판매** 조회(거래를 완료할 때까지 협력할 추가 당사자 포함)로 제한할 수 있습니다.
 
 아래에 나열된 모든 차트의 정보는 아래에 설명된 예외를 제외하고 선택한 날짜 범위와 모든 필터를 반영합니다. 일부 섹션에서는 특정 솔루션으로 필터링하는 것처럼 추가 필터를 적용할 수 있습니다.
 

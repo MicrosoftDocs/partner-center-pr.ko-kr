@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452590"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908961"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>기존 CSP Azure 제품에서 Azure 플랜으로 고객 전환
 
@@ -41,11 +41,11 @@ ms.locfileid: "84452590"
 
 2. **청구를 Azure 플랜으로 전환**을 선택합니다.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="전환":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="사용량 기반 구독 정보를 보여주는 스크린샷으로 다음과 같은 선택 가능한 옵션으로 표시됩니다. Azure 구독 청구를 Azure 플랜으로 전환":::
 
 3. **계속**을 선택합니다.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="전환":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Azure 플랜으로 전환이라는 대화 상자에는 전환에 대한 의미와 선택할 수 있는 두 가지 옵션(계속 또는 취소)이 포함되어 있습니다.":::
 
    고객이 Azure 플랜으로 전환됩니다.
 
@@ -63,7 +63,7 @@ ms.locfileid: "84452590"
 
 4. 고객의 파트너 센터 **구독** 페이지로 돌아와서 고객의 예산 한도를 고객의 현지 통화로 업데이트합니다.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="전환":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="청구 기간 동안 현지 통화로 예산 한도가 설정된 파트너 센터 구독 페이지의 부분 보기입니다.":::
 
    >[!NOTE]
    >파트너 센터에서 설정한 예산이 Azure Portal로 전달되지 않습니다. Azure Portal에서도 예산과 경고를 설정해야 합니다.
@@ -77,7 +77,7 @@ ms.locfileid: "84452590"
 
 Azure Portal과 파트너 센터에서 전환 단계를 수행하세요.
 
-:::image type="content" source="images/azure/details1.png" alt-text="자세한 정보 표시":::
+:::image type="content" source="images/azure/details1.png" alt-text="구독당 전환 세부 정보 목록이 있는 표를 보여주는 스크린샷 - 구독 ID, 전환 날짜 및 전환 상태가 포함되어 있습니다.":::
 
 ### <a name="billing-impact-to-partners"></a>파트너에게 미치는 청구 영향
 
@@ -100,7 +100,7 @@ Azure Portal과 파트너 센터에서 전환 단계를 수행하세요.
 
 전환이 완료되면 Azure 구독이 새 Azure 플랜으로 이동되고 상거래 구독이 일시 중단되어 더 이상 서비스 사용이 보고되지 않습니다.  
 
->[!Note]
+>[!NOTE]
 >CSP에서 Microsoft Azure(0145P) 구독을 구매한 경우 상거래 구독과 Azure 구독(자격)의 가격이 동일합니다. 청구 소유권이 변경되거나 이전되는 경우에만 가격이 달라집니다.
 
 ### <a name="transition-issues"></a>전환 문제

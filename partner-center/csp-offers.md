@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제품 추가, 고객에게 판매, 파트너 옵션, CSP 옵션, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, Azure RI, Azure Reserved Virtual Machine Instances, Azure Reservations, 온라인 서비스, 구독 소프트웨어, AHUB, Azure 기반 SQL Server, Azure 기반 Windows Server, Azure 고객 구독
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467243"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679020"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 개요
 
@@ -62,9 +62,12 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 
 
    ISV(Independent Software Vendor)의 SaaS 제품에 대한 구독을 판매할 수 있습니다. **온라인 서비스**에서 SaaS 제품만 보려면 필터를 사용하여 **게시자**를 **파트너**로 설정합니다. 그러면 해당 고객에게 구매할 수 있는 모든 SaaS 제품이 표시됩니다.
 
-   **Marketplace** 페이지에서 이러한 제품에 대한 정보를 찾을 수 있습니다. 이 페이지에는 파트너 센터가 아닌 Azure Portal에서 구입해야 하는 다른 유형의 제품에 대한 정보도 포함되어 있습니다.
+   **Marketplace** 페이지에서 이러한 제품에 대한 정보를 찾을 수 있습니다.
 
-   자세한 내용은 [CSP 상업용 Marketplace의 개요](CSP-commercial-marketplace-overview.md)를 참조하세요.
+>[!NOTE] 
+>이 페이지에는 파트너 센터가 아닌 Azure Portal에서 구입해야 하는 다른 유형의 제품에 대한 정보도 포함되어 있습니다.
+
+자세한 내용은 [CSP 상업용 Marketplace의 개요](CSP-commercial-marketplace-overview.md)를 참조하세요.
 
 ## <a name="add-products-page-details"></a>제품 추가 페이지 세부 정보
 
@@ -88,7 +91,7 @@ CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 
 
 CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원하는 항목을 선택하고 카트에 추가하여 주문을 생성한 다음, 주문을 검토하고 제출합니다. 일반적인 프로세스는 아래와 같습니다. (특정 제품 유형의 주문에 대한 자세한 정보는 위의 링크를 참조하세요.)
 
->[!Note]
+>[!NOTE]
 >CSP 제품은 테넌트 국가와 고객의 테넌트 국가 모두에서 사용할 수 있어야 합니다. 예를 들어, 테넌트가 슬로바키아에 있고 고객의 테넌트가 독일에 있는 경우, 현재 슬로바키아에서 이 제품을 사용할 수 없기 때문에 해당 고객에게는 Dynamics 365 Business Central Premium을 판매할 수 없습니다.
 
 1. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 귀사에서 제품을 구매하려는 고객을 찾습니다. 
@@ -110,6 +113,23 @@ CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원
 ## <a name="rules-for-special-segments"></a>특수 세그먼트에 대한 규칙
 
 일부 라이선스 기반 제품은 특정 조건에서만 구매할 수 있습니다. 특수 세그먼트 제품에는 교육, 비영리 또는 GCC(정부 커뮤니티 클라우드) 제품이 포함 됩니다. 이러한 구매 조건에 대한 세부 정보는 [특수 세그먼트에 대한 구매 규칙 항목](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)에서 찾을 수 있습니다.
+
+## <a name="troubleshooting-catalog-purchases"></a>카탈로그 구매 문제 해결
+
+카탈로그에서 원하는 제품을 찾을 수 없는 이유는 여러 가지가 있을 수 있습니다. 다음은 원하는 제품을 찾을 수 없는 경우 확인할 사항입니다.
+
+- **고객이 자격이 있는지 확인합니다**. 많은 제품은 고객에게 판매하기 위해 특별 자격을 요구합니다. 이들 특수 세그먼트에는 교육, 비영리 또는 GCC(정부 커뮤니티 클라우드)가 포함됩니다. 문제를 기록하기 전에 먼저 고객의 자격을 적절히 설정했는지 확인합니다. 고객 목록에서 고객을 클릭하여 계정을 보면 이를 확인할 수 있습니다. 해당되는 경우 계정에 특별 자격이 설정됩니다. 자격이 없는 고객을 위해 교육을 구매하려는 경우 카탈로그에서 해당 제품을 볼 수 없습니다. 고객 자격에 대한 자세한 내용은 [특별 세그먼트 문서](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)를 참조하세요.
+- **추가 기능을 구매할지 기본 제품을 구매할지를 결정합니다**. Microsoft 365 및 Dynamics 365와 같이 많은 라이선스 기반 서비스는 기본 제품과 추가 기능을 모두 구매할 수 있습니다. 카탈로그에서는 기본 제품만 구매할 수 있습니다. 추가 기능을 구매하려면 먼저 카탈로그에서 기본 제품을 구매하고 고객 목록에서 고객을 선택한 다음, 기본 제품에 대한 구독을 선택합니다. 이 구독 관리 페이지에서 기본 제품에 추가 기능을 적용할 수 있습니다. 
+- **귀하 시장에서 제품을 사용할 수 있는지 확인합니다**. 많은 제품 및 서비스는 특정 국가의 고객에게만 판매하도록 구성되어 있습니다. 다양한 가격표 파일에서 지원되는 국가 목록을 찾을 수 있습니다. 라이선스 기반 서비스 지원 국가는 가격 책정 및 제품 페이지의 제품 목록 매트릭스에 나와 있습니다.
+- **가격표에 제품이 있는지 확인합니다**. 사용 가능한 제품 목록은 매월 변경될 수 있습니다. 카탈로그에서 제품을 찾을 수 없는 경우 **판매 > 가격 책정 및 제품** 페이지의 현재 가격표에 해당 제품이 있는지 확인해야 합니다.
+
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>파트너 센터의 구매 항목과 관련된 권장 문서
+
+- [파트너 센터의 가격 책정 및 제품](https://docs.microsoft.com/partner-center/pricing-and-offers)
+- [클라우드 솔루션 공급자 프로그램의 파트너 옵션 개요](https://docs.microsoft.com/partner-center/csp-offers)
+- [교육 고객에게 제품을 판매하고 교육 고객을 만드는 방법](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [교육, 비영리 및 정부 사용자와 같은 특수 산업을 대상으로 판매](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [특수 세그먼트에 대한 구매 규칙](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>다음 단계
 

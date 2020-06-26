@@ -1,7 +1,7 @@
 ---
 title: CSP를 통해 소프트웨어 구독 판매
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터를 사용하여 고객의 Azure 예약 인스턴스 및 서버 구독을 구매, 관리, 판매 및 취소하는 방법을 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Azure RI, Windows Server, SQL Server, 소프트웨어 구독, 소프트웨어 취소
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
+ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907949"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "85267190"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>CSP(클라우드 솔루션 공급자) 프로그램을 통해 소프트웨어 구독 판매
 
@@ -36,10 +36,12 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 예약을 사용할 수 없는 지역/국가
 
->[!IMPORTANT] 
->Azure 예약은 다음과 같은 지역/국가에서는 사용할 수 *없습니다*.  
+>[!IMPORTANT]
+>Azure 예약은 다음과 같은 지역/국가에서는 사용할 수 **없습니다**.  
 >  
-> | 사용할 수 없는 지역/국가 | &nbsp; | &nbsp; |
+> **사용할 수 없는 시장(사전순)**
+>
+> |A부터 Gi까지   | Gr부터 Pal까지  | Pap부터 Z까지 |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 올란드 제도     | 그린란드     | 파푸아뉴기니     |
 > | 미국령 사모아     | 그레나다     | 핏케언 제도     |
@@ -78,8 +80,6 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 > | 가봉     | 노퍽 섬     | 예멘   |
 > | 감비아     | 북마리아나 제도     |    |
 > | 지브롤터     | 팔라우       |    |
-<!--Nov 30, 2019 - this list of countries was correct as of today.
--->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>고객을 대신하여 소프트웨어 구독 구입
 
@@ -114,6 +114,10 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 >[!NOTE]
 >이 링크는 2주 후 또는 다운로드 50회 이후(둘 중 빠른 시간 기준)에 만료됩니다. 링크가 만료될 때 이 페이지로 돌아가서 **키 및 다운로드 받기**를 다시 선택하면 또 한 번 2주 또는 다운로드 50회의 기간이 주어집니다. 필요한 만큼 이 작업을 수행할 수 있습니다. 
+
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>서버 구독 다운로드 및 라이선스 키는 Microsoft 365 관리 센터를 통해 고객에게 제공 
+
+고객은 Microsoft 365 관리 센터에서 CSP 서버 구독 라이선스 키 및 다운로드를 받을 수 있습니다. CSP 서버 구독 라이선스 키 및 다운로드를 보려면 고객은 Microsoft 365 관리 센터 > **청구 > 제품 > 소프트웨어 탭**으로 이동해야 합니다. 자세한 내용은 [청구에 있는 소프트웨어 탭](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions)을 참조하세요.  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>소프트웨어 키 액세스 및 소프트웨어 다운로드에 대한 작업 보기
 
@@ -173,7 +177,9 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 - 파트너의 취소 요청에 대한 자세한 정보가 필요한 경우 Microsoft에서 파트너에게 **고객 지원 요청** 양식의 링크를 보낼 수 있습니다.
 
 >[!IMPORTANT]
->주문을 취소하면 취소를 확인하는 메시지가 표시됩니다. 하지만 파트너 센터 대시보드에 취소가 표시될 때까지 최대 15분이 걸릴 수 있습니다. 다음과 같은 취소 이후 정보도 확인해야 합니다.
+>주문을 취소하면 취소를 확인하는 메시지가 표시됩니다. 하지만 파트너 센터 대시보드에 취소가 표시될 때까지 최대 15분이 걸릴 수 있습니다. 
+
+### <a name="post-cancellation-details"></a>사후 취소 세부 정보
 
 구매를 취소한 이후의 과정:
 
@@ -187,9 +193,9 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 파트너 센터를 통해 소프트웨어 구매를 취소하려고 했지만 추가 정보를 제공하고 고객 지원 요청 양식을 작성하라는 요청을 받은 경우 다음 단계를 수행하는 것이 도움이 될 수 있습니다.
 
-1. [구입 취소] 창에서 **고객 지원 요청** 링크를 선택하면 [파트너 센터에 문제 보고] 페이지가 열립니다.
+1. 구입 취소 창에서 **고객 지원 요청** 링크를 선택하면 **파트너 센터에 문제 보고** 페이지가 열립니다.
 
-2. [세부 정보]의 [문제 유형] 목록에서 **고객을 대신하여 CSP 구입/환불**을 선택합니다.
+2. **세부 정보**의 문제 유형 목록에서 **고객을 대신하여 CSP 구입/환불**을 선택합니다.
 
 3. [영향] 및 [제목] 필드에 내용을 입력합니다.
 
@@ -208,3 +214,9 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 6. 어떤 이유로 파일을 첨부해야 하는 경우에는 **파일 추가**를 선택합니다. 이 단계는 선택 사항입니다.
 
 7. 모두 마쳤으면 **제출**을 선택합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터를 사용하여 상용 마켓플레이스 제품에 대한 고객 구독 판매](sell-marketplace-products.md)
+ 
+- [파트너 센터의 고객에게 Azure 구독 할당](assign-azure-subscriptions.md)

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328274"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679277"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -208,11 +208,17 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>파트너 센터 API/SDK에 대해서만 보안 애플리케이션 모델을 구현해야 하나요?
 
-다단계 인증을 모든 사용자 계정에 적용하면 비대화형으로 실행되도록 설계된 자동화 또는 통합에 영향을 미칩니다. 파트너 보안 요구 사항에 따라 파트너 센터 API에 대한 보안 애플리케이션 모델을 사용해야 하지만 자동화 및 통합으로 두 번째 인증 요소를 해결하는 데 활용할 수 있습니다. 액세스되는 리소스는 액세스 토큰 기반 인증을 지원해야 합니다.
+다단계 인증을 모든 사용자 계정에 적용하면 비대화형으로 실행되도록 설계된 자동화 또는 통합에 영향을 미칩니다. 파트너 보안 요구 사항에 따라 파트너 센터 API에 대한 보안 애플리케이션 모델을 사용해야 하지만 자동화 및 통합으로 두 번째 인증 요소를 해결하는 데 활용할 수 있습니다. 
+
+>[!Note] 
+>액세스되는 리소스는 액세스 토큰 기반 인증을 지원해야 합니다.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>PowerShell과 같은 자동화 도구를 사용하고 있습니다. 보안 애플리케이션 모델을 구현하려면 어떻게 하나요?
 
-자동화가 비대화형으로 실행되도록 설계되고 사용자 자격 증명을 인증에 사용하는 경우 보안 애플리케이션 모델을 구현해야 합니다. 이 프레임워크 구현 방법에 대한 지침은 [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)(보안 애플리케이션 모델 | 파트너 센터 PowerShell)을 참조하세요.  일부 자동화 도구는 액세스 토큰을 사용하여 인증하는 기능을 제공하지 않을 수 있습니다. 변경해야 하는 항목을 파악하는 데 도움이 필요한 경우 메시지를 [파트너 센터 보안 지침](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) 그룹에 게시하세요. 
+자동화가 비대화형으로 실행되도록 설계되고 사용자 자격 증명을 인증에 사용하는 경우 보안 애플리케이션 모델을 구현해야 합니다. 이 프레임워크 구현 방법에 대한 지침은 [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)(보안 애플리케이션 모델 | 파트너 센터 PowerShell)을 참조하세요.  
+
+>[!Note] 
+>일부 자동화 도구는 액세스 토큰을 사용하여 인증하는 기능을 제공하지 않을 수 있습니다. 변경해야 하는 항목을 파악하는 데 도움이 필요한 경우 메시지를 [파트너 센터 보안 지침](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) 그룹에 게시하세요. 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>동의 프로세스를 수행할 때 애플리케이션 관리자가 제공해야 하는 사용자 자격 증명은 무엇인가요?
 
@@ -238,7 +244,9 @@ CPV는 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com)에 연결하여 등
 
 파트너 센터에 등록하고 애플리케이션을 등록하면 파트너 센터 API에 액세스할 수 있습니다. 새 CPV인 경우 파트너 센터 알림을 통해 샌드박스 정보를 받게 됩니다. Microsoft CPV로 등록을 완료하고 CPV 계약을 수락했으면 다음을 수행할 수 있습니다.
 
-1. 다중 테넌트 애플리케이션을 관리(Azure Portal에 애플리케이션 추가, 파트너 센터에서 애플리케이션 등록 및 등록 취소)합니다. 참고: CPV는 파트너 센터 API에 대한 권한을 얻으려면 파트너 센터에 애플리케이션을 등록해야 합니다. Azure Portal에 애플리케이션을 추가하는 것만으로는 파트너 센터 API에 대한 권한이 CPV 애플리케이션에 부여되지 않습니다.
+1. 다중 테넌트 애플리케이션을 관리(Azure Portal에 애플리케이션 추가, 파트너 센터에서 애플리케이션 등록 및 등록 취소)합니다. 
+     >[!Note] 
+     >CPV는 파트너 센터 API에 대한 권한을 얻으려면 파트너 센터에 애플리케이션을 등록해야 합니다. Azure Portal에 애플리케이션을 추가하는 것만으로는 파트너 센터 API에 대한 권한이 CPV 애플리케이션에 부여되지 않습니다.
 2. CPV 프로필을 보고 관리합니다.
 3. CPV 기능에 액세스해야 하는 사용자를 보고 관리합니다. CPV는 글로벌 관리자 역할만 보유할 수 있습니다.
 

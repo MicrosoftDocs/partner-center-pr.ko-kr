@@ -1,7 +1,7 @@
 ---
 title: Microsoft 고객 계약에 대한 고객의 동의 증명
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 언제 고객을 대신하여 Microsoft 고객 계약에 대한 동의를 증명해야 하는지 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿, 동의 증명
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452720"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909021"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>고객을 대신하여 Microsoft 고객 계약 동의 증명
 
@@ -46,7 +46,7 @@ ms.locfileid: "84452720"
 
 **해결 방법**: 고객을 대신하여 증명해야 합니다.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="고객":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="파트너에게 연락하여 Microsoft 고객 계약에 동의를 확인하도록 요청하는 Microsoft 365 관리 센터 페이지의 스크린샷":::
 
 **시나리오 2**: 기존 고객이 제품, 소프트웨어 및 소프트웨어 구독, 예약된 인스턴스 및 Azure 플랜을 구입했습니다. 이제 고객이 새 파트너와 함께 새로운 구매를 시도하고 있습니다.
 
@@ -54,4 +54,4 @@ ms.locfileid: "84452720"
 
 **해결 방법**: 고객을 대신하여 증명해야 합니다.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="고객":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="선택할 수 있는 권한 부여 옵션이 있는 권한 부여 파트너 페이지의 스크린샷 - 특정 파트너의 세부 정보, 해당 관계 및 관리자 역할을 표시합니다.":::

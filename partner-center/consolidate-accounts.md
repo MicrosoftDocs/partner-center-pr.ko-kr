@@ -1,21 +1,20 @@
 ---
 title: 회사 계정 통합
+description: PMC(Partner Membership Center) 계정을 파트너 센터의 계정 하나로 통합하는 방법을 알아봅니다. PMC에서 파트너 센터로 마이그레이션하는 데 적용됩니다.
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PMC(Partner Membership Center) 계정을 파트너 센터의 계정 하나로 통합하는 방법에 대해 알아봅니다. PMC에서 파트너 센터로 마이그레이션하는 데 적용됩니다.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908138"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908661"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션할 때 회사 계정 통합
 
@@ -40,10 +39,9 @@ ms.locfileid: "82908138"
 
 5. 계정을 통합한 후에는 더 많은 역량을 얻을 수 있습니다. 또한 이제 다른 인센티브 프로그램을 이용할 자격이 될 수도 있습니다.
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>계정 통합 시 수행되는 작업
 
-- 회사 세부 정보 화면에서 세부 정보를 변경할 수 없습니다. 이러한 세부 정보는 파트너 글로벌 계정에 대한 것입니다. 
+- 회사 세부 정보 화면에서 세부 정보를 변경할 수 없습니다. 이러한 세부 정보는 파트너 글로벌 계정에 대한 것입니다.
 
 - PMC의 계정은 파트너 글로벌 계정으로 통합됩니다.
 
@@ -64,4 +62,3 @@ PMC는 위치마다 고유한 역량, 자체 MAP 및 특정 위치에만 해당�
 파트너 센터에서는 모든 위치 계정이 하나의 글로벌 계정으로 통합됩니다. 즉, 모든 시장 진출 제품, 프로그램 및 역량도 통합됩니다. 추가 혜택 도구 키트(ABTK)는 사용할 수 없습니다. 그러나 회사에 필요한 대로 마케팅 리소스, 제품, 프로그램 및 역량의 배포를 구성할 수 있습니다. 계정을 통합하면 사용 기간이 연장됩니다. 기존에 PMC에서 사용하던 마케팅 리소스, 제품 및 프로그램의 사용 기간이 1년 연장됩니다.
 
 PMC와 파트너 센터의 차이점에 대한 자세한 내용은 [PMC에서 파트너 센터로 이동](guide-to-migration.md)을 참조하세요.
-

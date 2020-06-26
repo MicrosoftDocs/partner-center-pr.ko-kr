@@ -3,20 +3,20 @@ title: 파트너 프로필 확인
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정보를 확인하는 방법을 알아봅니다. 또한 법률 및 청구 주소를 업데이트할 수 있습니다.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595389"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991981"
 ---
-# <a name="verify-your-partner-profile-information"></a>파트너 프로필 정보 확인
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>파트너 센터에서 파트너 프로필 정보 확인
 
 처음으로 파트너 센터에 글로벌 관리자 권한으로 로그인할 때 모든 회사 정보가 올바른지 확인해야 합니다. 여기에는 기본 연락처, 법적 회사명 및 주소, 프로그램 정보가 포함됩니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다.
 

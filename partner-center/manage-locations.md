@@ -1,7 +1,7 @@
 ---
 title: 파트너 계정의 위치 관리
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새로운 위치를 추가하는 방법과 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 파트너 계정, 위치
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453210"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909061"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>파트너 센터에서 파트너 계정 위치 관리 및 새 위치 추가
 
@@ -54,12 +54,12 @@ ms.locfileid: "84453210"
 
 1. **위치** 페이지에서 위치 목록을 검사하여 법인으로 사용할 위치가 나열되는지 확인합니다. 그렇지 않은 경우 추가합니다.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="회사 위치 업데이트":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="현재 모든 위치의 목록이 포함된 파트너 센터 계정 위치 페이지의 스크린샷":::
 
 2. **파트너 프로필**, **법적 비즈니스 프로필 업데이트**를 차례로 선택합니다.
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="회사 위치 업데이트":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="선택 가능한 업데이트 옵션을 사용하여 파트너 센터 계정 파트너 프로필 정보를 보여주는 스크린샷":::
 
 3. 지역 및 법인을 선택하고 **제출**을 선택합니다.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="회사 위치 업데이트":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="파트너의 법적 비즈니스 프로필을 업데이트하는 스크린샷에는 국가 또는 지역과 법인을 업데이트하는 드롭다운 목록이 표시됩니다.":::

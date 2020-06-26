@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/01/2020
-ms.openlocfilehash: d5276a473ce245d69edf610c6e7f86219237ac9e
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253990"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678940"
 ---
 # <a name="january-2020-announcements"></a>2020년 1월 공지
 
@@ -47,7 +47,8 @@ Azure 하이브리드 혜택을 포함하는 Azure 예약 및 이 서버 구독�
 
 이제 파트너는 파트너 센터 및 Azure Portal을 통해 상용 고객을 대신하여 Azure 예약, Windows Server 및 SQL Server 구독을 획득, 프로비저닝 및 관리할 수 있습니다.
 
-**참고:** 영향을 받는 모든 제품은 파트너 센터 가격표에서 확인할 수 있습니다.
+>[!Note] 
+>영향을 받는 모든 제품은 파트너 센터 가격표에서 확인할 수 있습니다.
 
 ### <a name="additional-resources"></a>추가 리소스
 
@@ -71,7 +72,7 @@ _________________
 - 날짜: 2020-01-29
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 정보](https://www.microsoft.com/microsoft-365/government/)
+- [자세한 내용](https://www.microsoft.com/microsoft-365/government/)
 
 ### <a name="summary"></a>요약
 
@@ -116,7 +117,7 @@ _________________
 - 날짜: 2020-01-28
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -204,7 +205,7 @@ _________________
 - 날짜: 2020-01-27
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 정보](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+- [자세한 내용](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -217,7 +218,8 @@ _________________
 
 2020년 2월 1일부터 Microsoft 퍼블릭 클라우드의 모든 지역에서 모든 CSP 제품에 대해 새 주문을 하려면 파트너의 Microsoft 고객 계약 동의 확인이 필요합니다. 이 날짜부터 CSP의 파트너는 고객의 Microsoft 고객 계약 동의 없이는 사용자 수 변경 및 기존 구매 갱신을 비롯한 새 구매를 할 수 없습니다.
 
-**참고: Azure를 위한 CSP의 Microsoft 고객 계약 및 새로운 상거래 환경:** 2019년 11월 1일부터 제공된 [Azure를 위한 CSP의 새로운 상거래 환경](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)을 통해 구매하려는 고객은 Microsoft 고객 계약에 동의해야 합니다.
+>[!NOTE] 
+>Microsoft 고객 계약 및 Azure를 위한 CSP의 새로운 상거래 환경:** 2019년 11월 1일부터 제공된 [Azure를 위한 CSP의 새로운 상거래 환경](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)을 통해 구매하려는 고객은 Microsoft 고객 계약에 동의해야 합니다.
 
 Microsoft 고객 계약은 고객의 구매 방법과 관계없이 일관된 구매 조건을 제공하는 간소화된 구매 계약입니다. 2019년 10월 1일부터 CSP 프로그램에서 새로운 Microsoft 고객 계약을 사용할 수 있으며 기존 Microsoft 클라우드 계약을 대체합니다.
 
@@ -236,7 +238,8 @@ Microsoft 고객 계약은 고객의 구매 방법과 관계없이 일관된 구
 - Microsoft 고객 계약 링크
 - API를 사용하여 고객 계약 동의를 확인하는 파트너를 위한 API 정보
 
-참고: CY20 1분기 후반부터는 파트너가 인증된 Microsoft 포털로 고객을 초청하여 Microsoft 고객 계약을 검토하고 서명하도록 하는 옵션도 추가될 예정입니다. 이때 Microsoft 고객 계약의 고객 동의를 확인할 책임은 Microsoft에 있습니다.
+>[!Note] 
+>CY20 1분기 후반부터는 파트너가 인증된 Microsoft 포털로 고객을 초청하여 Microsoft 고객 계약을 검토하고 서명하도록 하는 옵션도 추가될 예정입니다. 이때 Microsoft 고객 계약의 고객 동의를 확인할 책임은 Microsoft에 있습니다.
 
 ### <a name="change-log"></a>로그 변경
 
@@ -250,7 +253,7 @@ _________________
 
 - 날짜: 2020-01-07
 - 다음을 입력합니다. 기능
-- 상태: 출시 예정
+- 상태: 서비스 예정
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -278,7 +281,7 @@ Marketplace 페이지의 Azure 플랜 가격표는 동적이며 지속적으로 
 다음 제품은 다음 달에 가격표에서 제거됩니다.
 
 - 제품: Microsoft 365 전화 시스템 - 가상 사용자 평가판 ID: b9a1d576-43fd-464b-8ad9-4b1eafc5db77
-- 제품: GCC에 대한 Forms Pro 추가 응답 제품 ID: ac14473c-8e5d-4e44-aff1-6087109be980
+- 제품: GCC 제품 ID에 대한 Forms Pro Addl 응답: ac14473c-8e5d-4e44-aff1-6087109be980
 - 제품: GCC에 대한 Microsoft Forms Pro USL 제품 ID: 1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba
 
 다음 제품은 다음 달에 가격표에서 제거됩니다.

@@ -11,14 +11,14 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 653b75c0ec9cafdc39506eb8da82eefe6d8709e7
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cf398f5671484548cc879fac28aae9e83a9c470c
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328214"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679278"
 ---
-# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산하고 지불하는 방법
+# <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
 **적절한 역할**
 
@@ -62,11 +62,12 @@ ms.locfileid: "84328214"
 
 PartnerEarnedCreditApplied 속성이 False이면 관련 비용이 필요한 크레딧 자격을 충족하지 못하거나 구입한 서비스가 파트너 획득 크레딧에 적합하지 않습니다.
 
-참고: 일반적으로 서비스 사용량은 **Cost Management**에 표시되는 데 8-24시간이 걸리고, PEC 크레딧은 Azure Cost Management에 액세스한 이후 48시간 내에 표시됩니다.
+>[!NOTE] 
+>일반적으로 서비스 사용량은 **Cost Management**에 표시되는 데 8-24시간이 걸리고, PEC 크레딧은 Azure Cost Management에 액세스한 이후 48시간 내에 표시됩니다.
 
 5. **Group by 및 Add** 필터 기능을 사용하여 **PartnerEarnedCreditApplied** 속성을 기준으로 그룹화하고 필터링하여 PEC가 적용된 비용과 PEC가 적용되지 않은 비용을 자세히 살펴볼 수도 있습니다.
 
- **자세한 내용**
+## <a name="next-steps"></a>다음 단계
 
 - [파트너 획득 크레딧 - 개요](partner-earned-credit.md)
 

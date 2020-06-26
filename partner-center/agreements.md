@@ -1,20 +1,21 @@
 ---
-title: Microsoft 고객 계약 고객 템플릿 | 파트너 센터
+title: Microsoft 고객 계약 템플릿
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객과 함께 검토할 수 있는 Microsoft 고객 계약의 지역 및 언어별 버전을 찾아서 다운로드할 위치를 알아봅니다.
+description: 고객과 함께 검토할 수 있는 Microsoft 고객 계약의 지역별 및 언어별 버전을 찾아서 다운로드할 위치를 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Microsoft 고객 계약, 고객 계약 템플릿, CSP 고객 계약, Microsoft 고객 계약, MCA, CSP, CSP를 통해 어디에서 판매할 수 있나요?, CSP 국가 및 지역, 여러 언어의 CSP MCA, CSP 북아메리카, CSP 중앙 아메리카, CSP 남아메리카, CSP 카리브해, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud 독일, CSP 중동, CSP 아프리카, CSP 유럽, CSP 아시아, CSP 태평양, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: f60bcdd5c986e825089144ff4b908ed5b779a735
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 9bd4bc77c6afcd1efcb112fc45328150c54d7413
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798641"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198591"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 고객 계약
 
@@ -24,11 +25,11 @@ ms.locfileid: "82798641"
 
 **적절한 역할**
 
-- 전역 관리자
-- 사용자 관리 관리자
-- 관리자 에이전트
-- 영업 에이전트
-- 기술 지원팀 에이전트
+- 글로벌 관리자
+- 사용자 관리 담당자
+- 관리 에이전트
+- 영업 상담원
+- 기술 지원팀 상담원
 
 고객이 Microsoft 고객 계약에 동의하고 서명해야만 고객을 대신하여 주문할 수 있습니다.
 
@@ -38,12 +39,6 @@ ms.locfileid: "82798641"
 Microsoft 고객 계약은 지역별로 다르며 여러 언어로 제공됩니다. 아래 목록에서 고객의 위치와 기본 언어를 찾아 올바른 계약을 다운로드하세요.
 
 판매할 수 있는 지역과 시장을 잘 모르는 경우 아래 목록에서 회사의 위치를 찾아보세요. [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md).
-
-<!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
-
-> [!NOTE]  
-> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
--->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>북아메리카, 중앙 아메리카, 남아메리카 및 카리브 해
 
@@ -180,13 +175,6 @@ Microsoft 고객 계약은 지역별로 다르며 여러 언어로 제공됩니�
 - 우크라이나: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [우크라이나어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_UKR_Sep20172_CR.pdf) 
 - 영국: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 바티칸: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
-
-<!--
-November 5, 2018 - commenting out this section because we've stopped accepting new enrollments into the MS Cloud Germany - MaggieE
-
-## Microsoft Cloud Germany
-- All EU/EFTA: [English](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0), [German](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
--->
 
 ## <a name="middle-east-and-africa"></a>중동 및 아프리카
 - 알제리: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [프랑스어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [아랍어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
