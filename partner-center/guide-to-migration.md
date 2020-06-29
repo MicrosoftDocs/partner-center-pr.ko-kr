@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453240"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679090"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
@@ -27,7 +27,7 @@ partner.microsoft.com의 Microsoft 파트너 웹 사이트는 파트너를 위�
 
 PMC(Partner Membership Center)는 서비스 해제 중입니다. 귀사는 Microsoft 파트너 네트워크 멤버십 관리를 파트너 센터로 전환하도록 초대되셨습니다. 이 가이드를 통해 PMC에서 파트너 센터로 이동할 때 예상되는 결과에 대해 알 수 있습니다.
 
->[!Note]
+>[!NOTE]
 >회사에 계정이나 위치가 둘 이상 있는 경우에도 파트너 센터로 이동은 (첫 번째) 계정을 파트너 센터로 이동하는 것으로 시작합니다.
 
 ## <a name="get-started"></a>시작
@@ -51,7 +51,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 회사에 업무용 이메일과 AAD 테넌트가 없는 경우 파트너 센터 로그인 프로세스 중 업무용 이메일과 AAD 테넌트를 설정하도록 도와드릴 수 있습니다. 개인 계정과 같은 업무용 메일이 아닌 이메일 계정으로 로그인하려고 하면 AAD 테넌트와 업무용 메일을 설정할 수 있게 회사에 대한 정보를 제공하라는 메시지가 나타납니다. 이러한 회사 정보는 파트너 센터에서 계정 등록을 마무리하는 데 사용되므로 정보가 정확한지 확인합니다.
 
->[!Note]
+>[!NOTE]
 >중국의 파트너이며 Microsoft 파트너 네트워크와 CSP(클라우드 솔루션 공급자) 프로그램 모두에 등록되어 있는 경우 각 계정에 대해 별도의 테넌트가 제공됩니다. 클라우드 솔루션 공급자 프로그램 계정은 국가 클라우드에서 관리되고 Microsoft 파트너 네트워크 계정은 글로벌 클라우드에서 관리됩니다. 두 계정을 연결할 수 없습니다.
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="회사에 대한 정보 제공":::
@@ -74,11 +74,16 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 :::image type="content" source="images/migration/invite.png" alt-text="직원 초대":::
 
-기존 AAD 테넌트로 로그인하면 직원이 귀사와 함께 이동합니다. 이 경우 파트너 센터에서 수행할 수 있는 작업을 결정하는 역할을 직원에게 할당합니다. 참고: 파트너 센터의 역할은 PMC의 역할과 다릅니다. 자세한 내용은 [PMC에서 파트너 센터로 이동](move-pmc-pc-map.md)을 참조하세요.
+기존 AAD 테넌트로 로그인하면 직원이 귀사와 함께 이동합니다. 이 경우 파트너 센터에서 수행할 수 있는 작업을 결정하는 역할을 직원에게 할당합니다. 
+
+>[!NOTE] 
+>파트너 센터의 역할은 PMC의 역할과 다릅니다. 자세한 내용은 [PMC에서 파트너 센터로 이동](move-pmc-pc-map.md)을 참조하세요.
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>도메인을 확인하고 글로벌 관리자가 됩니다.  
 
-AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 역할이 할당되지 않습니다. 글로벌 관리자가 되려면 도메인 소유권을 확인해야 합니다. 이를 위해 도메인 관리자가 필요할 수 있습니다. 이미 구매한 제품을 사용할 수 있지만 글로벌 관리자를 가져오는 단계를 완료할 때까지 새 제품을 구매할 수 없습니다.
+AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 역할이 할당되지 않습니다. 글로벌 관리자가 되려면 도메인 소유권을 확인해야 합니다. 이를 위해 도메인 관리자가 필요할 수 있습니다.
+
+이미 구매한 제품을 사용할 수 있지만 전역 관리자를 할당하는 단계를 완료할 때까지 새 제품을 구매할 수 없습니다.
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="제어":::
 
