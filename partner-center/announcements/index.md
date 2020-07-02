@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346719"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678649"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "85346719"
 
 | **범주** | **2020년 6월 공지** | **발표** |
 |---------|:---------|:---------|
+| 제품/시장 | [CSP 파트너용 Windows 7 Year 2 ESU 출시](2020-june.md#6) | 6월 29일 |
 | 기능 | [파트너 센터 관계 제거 기능 업데이트](2020-june.md#5) | 6월 29일 |
 | 기능 | [연간에서 월간으로 청구 주기 기본값 변경](2020-june.md#4) | 6월 17일 |
 | 제품/시장 | [Microsoft 365 F1에 대한 변경 사항](2020-june.md#3) | 6월 15일 |

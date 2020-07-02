@@ -44,8 +44,9 @@
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [CSP 지역 권한 부여 테넌트 통합에 대한 지침](csp-regional-authorization-tenant-consolidation.md)
-## [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)
-### [고객을 대신하여 고객 계약 동의를 증명하는 경우](attest-acceptance-customer-agreement.md)
+## [개요 - Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 새로운 방법](confirm-consent.md)
+## [Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법](confirm-customer-agreement.md)
+## [고객을 대신하여 고객 계약 동의를 증명하는 경우](attest-acceptance-customer-agreement.md)
 
 ## [국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 파트너 센터](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [거래 등록](register-deals.md)
 ### [추천 인사이트 얻기](referral-insights.md)
 ### [비즈니스 프로필 분석](analyze-your-marketing-profile.md)
-## [인센티브 클레임](claims-overview.md)
-### [인센티브 클레임 생성 및 관리](create-incentives-claims.md)
-### [인센티브 클레임의 핵심 요구 사항](core-requirements.md)
-### [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)
-### [인센티브 지급 및 프로그램 보기](understand-incentive-payouts.md)
-### [CPOR 모델을 사용하여 고객 연결 만들기](submit-osa-claim.md)
+## [인센티브](claims-overview.md)
+### 인센티브 시작
+#### [프로그램 자격 확인](incentives-determined-your-program-eligibility.md)
+#### [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [수익 자격 확인](incentives-confirm-your-earnings-eligibility.md)
+#### [인센티브 지급 및 프로그램 보기](understand-incentive-payouts.md)
+#### [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)
+### 실행 계획 및 증명서
+#### [계획 만들기](incentives-create-your-plan.md)
+#### [실행 증명서 준비](incentives-prepare-your-proof-of-execution.md)
+### 인센티브 협업 클레임
+#### [인센티브 협업 클레임 만들기 및 관리](create-incentives-claims.md)
+#### [인센티브 협업 클레임을 위한 핵심 요구 사항](core-requirements.md)
+#### [협업 클레임 승인 및 결제 마감일](incentives-managing-co-op-claims.md)
+### 인센티브 CPOR 제휴 클레임
+#### [CPOR 모델을 사용하여 고객 연결 만들기](submit-osa-claim.md)
+#### [고객 제휴 보기](incentives-manage-customer-associations.md)
+#### [고객 제휴 문제](incentives-customer-association-issues.md)
+### [결제 및 소득 문제 해결](incentives-payment-issues.md)
 
 # [청구 및 세금](billing.md)
 ## [청구 기본 사항](billing-basics.md)
