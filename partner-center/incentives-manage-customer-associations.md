@@ -1,5 +1,5 @@
 ---
-title: 고객 연결 관리
+title: 고객 제휴 보기
 description: 요청 된 레코드 파트너 (CPOR) 고객 연결을 관리 하기 위한 중요 한 프로세스 및 타임 라인을 이해 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,14 +8,14 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719428"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879479"
 ---
-# <a name="manage-customer-associations"></a>고객 연결 관리
+# <a name="manage-customer-associations"></a>고객 제휴 보기
 
 적용 대상:
 
@@ -69,17 +69,19 @@ CPOR 연결 클레임이 승인 되 고 성과급으로 적합 한 경우에는 
 
 - 제품 누락 - PoE에 클레임 대상 제품이나 워크로드가 포함되어 있지 않습니다. 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>CPOR association 클레임의 상태를 보고 합니다.
 
-CPOR association 클레임의 상태를 분쟁을 부여 하려면 [지원](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)팀에 문의 하 고 다음 정보를 지원 팀에 제공 합니다.
+CPOR association 클레임이 거부 되 면 거부에 대 한 30 일이 있습니다. 거부에 대 한 알림을 받는 전자 메일에는 거부 이유를 확인할 수 있는 위치 및이에 대 한 분쟁을 알려 주는 방법도 있습니다.  
 
-- MPN ID
-- 인센티브 프로그램 이름 
-- CPOR 연결 클레임 ID 
-- 제품 – Business Applications의 경우 Dynamics 제품 및 구독을 제공 합니다. M365의 경우 워크로드를 제공합니다. 
-- 고객 테넌트 ID
-- 문제에 대한 세부 정보
+30 일이 지난 후 거부 된 클레임을 계속 하려는 경우 업데이트 된 실행 증명 (PoE)을 사용 하 여 새 연결을 제출 해야 합니다. 
+
+### <a name="to-dispute-a-rejected-claim"></a>거부 된 클레임에 대 한 분쟁
+
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
+2. 분쟁을 볼 클레임을 엽니다.
+3. 클레임 페이지에서 **분쟁**을 선택 합니다.
+4. 거부를 고 하는 이유를 설명 하는 비즈니스 근거 및/또는 업데이트 된 PoE를 입력 합니다.
+5. 정보를 추가 하는 작업이 완료 되 면 **분쟁**을 선택 합니다. 검토자는 영업일 5 일 이내에 결과를 사용자에 게 연락 해야 합니다.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>CPOR 연결 클레임이 거부 된 이유
 

@@ -1,7 +1,7 @@
 ---
 title: 상업적 marketplace에 대 한 CSP 계약
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 상업적 marketplace의 CSP 파트너가 구매한 타사 ISV 제품에 대 한 구독에 대 한 약관, 조건 및 계약에 대해 알아봅니다.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 구독, Marketplace, 타사, ISV, CSP 파트너 프로그램, 계약, 판매, 구매,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362631"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937624"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>상업적 marketplace에서 업무를 수행 하는 CSP 파트너에 대 한 계약
 
@@ -42,7 +42,7 @@ ms.locfileid: "83362631"
 
 상업적 marketplace에서 CSP 활동을 제어 하는 용어에 대 한 자세한 내용은 다음을 참조 하세요.
 
-- [CSP 프로그램 가이드](https://go.microsoft.com/fwlink/p/?LinkId=617100)의 **섹션 5.7 (타사 제품)** . 이는 CSP 프로그램에서 파트너의 ISV 솔루션 판매를 관리 하는 용어를 제공 합니다.
+- [CSP 프로그램 가이드](https://go.microsoft.com/fwlink/p/?LinkId=617100)의 **"타사 제품" 섹션** 입니다. 이는 CSP 프로그램에서 파트너의 ISV 솔루션 판매를 관리 하는 용어를 제공 합니다.
 
 - **MPA (Microsoft 파트너 계약)** 는 CSP 프로그램을 제어 하 여 기존 MCRA 및 mcda를 대체 합니다. MPA는 [파트너 센터](https://partner.microsoft.com/pcv/dashboard/overview) 에서 사용할 수 있으므로 CSP 프로그램에 참여 하도록 선택한 파트너는이를 검토 하 고 동의할 수 있습니다.
   

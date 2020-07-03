@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394116"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879376"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
 
@@ -104,6 +104,25 @@ ms.locfileid: "83394116"
 | 재판매인이 Azure 고객의 계정을 관리할 수 있도록 설정|새 고객을 추가 하는 경우 Azure 고객 계정에 재판매인 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) 을 선택 하 여 간접 재판매인 **테 넌 트 소유자** 권한을 부여 합니다.|
 | 재판매인 크레딧을 통해 성과급 얻기 | 대리점을 구독 (신규 또는 기존)에 연결 | **새 구독** 페이지에서 |
 | 대리점에 대 한 특정 구독에 대 한 고객 지원 위임 | **지정 된 지원 연락처** 목록에서 재판매인을 선택 합니다. | 구독 세부 정보 페이지의 **고객 페이지에서 고객을** 선택한 다음 고객의 **구독** 페이지에서 구독을 선택 합니다. |
+
+## <a name="remove-partnership-with-indirect-resellers"></a>간접 대리점과 파트너 관계 제거
+
+기존 간접 재판매인과 파트너 관계를 제거 하려면 아래 단계를 수행 합니다. 
+
+1. 대시보드의 파트너 센터 메뉴에서 **간접 대리점**을 선택 합니다. 
+
+2. **간접 대리점** 페이지에서 **파트너 관계 제거**를 선택 합니다. 확인 하 라는 메시지가 표시 되 면 계속 하려면 예를 선택 합니다.
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="파트너 관계 제거":::
+
+>[!IMPORTANT]
+>간접 재판매인에 연결 된 고객은 제거 되지 않습니다. 부여 된 위임 된 관리자 권한은 변경 되지 않고 그대로 유지 됩니다.
+>파트너와의 관계를 중단 하기로 결정 하는 것은 적법 한 비즈니스 목적이 나 고객 또는 파트너와의 계약에 따라 적절 한 결정을 내리는 데 동의 하 고, 타사 클레임에 대 한 Microsoft 무해 한 행위와 반대 되는 것에 동의 하는 것에 동의 하는 것입니다.
+>계약에 필요한 경우 고객 또는 파트너에 게 종료의 법적 고 지 사항을 제공 해야 합니다. 이 도구는 고객 또는 파트너에 게 알림을 생성 하지 않습니다.
+
+3. 파트너 관계를 제거한 간접 재판매인은 목록에 표시 되지 않습니다.
+액세스 수준과 참여 수준에 따라이 변경 내용에 대 한 최종 고객 뿐만 아니라 간접 재판매인과 통신 하는 것이 좋습니다.
+
 
 ## <a name="connect-with-customers"></a>고객과의 관계 구축
 

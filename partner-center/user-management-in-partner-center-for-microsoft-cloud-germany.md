@@ -1,21 +1,21 @@
 ---
-title: 사용자 및 라이선스 관리
+title: 사용자 라이선스 관리
 titleSuffix: Microsoft Cloud Germany - Partner Center
 description: 암호 재설정 뿐만 아니라 Microsoft 클라우드 독일 파트너, 고객 및 라이선스에 대 한 파트너 센터를 관리 하는 방법 및 위치를 알아봅니다.
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 48bd1e315c51c3884889e80d5d295402fc9fab84
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603622"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879210"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 

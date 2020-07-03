@@ -1,8 +1,8 @@
 ---
-title: 클라우드 솔루션 공급자 프로그램에 등록
+title: CSP 프로그램에 등록
 ms.topic: article
 titleSuffix: Microsoft Cloud for US Government - Partner Center
-ms.date: 06/15/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 미국 정부를 위한 클라우드 솔루션 공급자 Microsoft 클라우드 프로그램에 등록 하려는 파트너를 위한 CSP 프로그램 요구 사항에 대해 알아봅니다.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: fed58b2de7e46905452103693727af3c6fbaa780
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788787"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879117"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -25,7 +25,7 @@ ms.locfileid: "84788787"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에 대해 클라우드 솔루션 공급자 프로그램 (CSP)을 통해 Microsoft의 클라우드 솔루션 및 서비스를 미국 연방, 주, 지방 및 부족 엔터티에 판매할 수 있습니다. 
 

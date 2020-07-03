@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678649"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879094"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 6월 공지** | **발표** |
+| **범주** | **2020년 7월 공지** | **발표** |
 |---------|:---------|:---------|
+| 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-july.md#3) | 7월 1일 |
+| 제품/시장 | [Microsoft가 Microsoft Kaizala Pro 독립 실행형 SKU의 판매를 종료함](2020-july.md#2) | 7월 1일 |
+| 기능 | [FY21 Q1을 통해 확장된 CSP 인센티브 프로그램](2020-july.md#1) | 7월 1일 |
+| **범주** | **2020년 6월 공지** | **날짜** |
 | 제품/시장 | [CSP 파트너용 Windows 7 Year 2 ESU 출시](2020-june.md#6) | 6월 29일 |
 | 기능 | [파트너 센터 관계 제거 기능 업데이트](2020-june.md#5) | 6월 29일 |
 | 기능 | [연간에서 월간으로 청구 주기 기본값 변경](2020-june.md#4) | 6월 17일 |
