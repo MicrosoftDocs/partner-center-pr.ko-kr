@@ -21,7 +21,7 @@
 ## [역량](learn-about-competencies.md)
 ## [고급 전문 분야](advanced-specializations.md)
 ## [Azure Expert Managed Service Provider 프로그램](azure-expert-msp.md)
-## 이점
+## 장점
 ### [혜택 개요](manage-your-partner-network-benefits.md)
 ### [출시 혜택](mpn-learn-about-go-to-market-benefits.md)
 ### [혜택 FAQ](benefits-faq.md)
@@ -86,7 +86,7 @@
 
 # [비즈니스 확장](grow-your-business.md)
 ## [추천 개요](referrals.md)
-### [추천에 응답](responding-to-referrals.md)
+### [조회 응답](responding-to-referrals.md)
 ### [비즈니스 프로필 관리](create-a-marketing-profile.md)
 ### [잠재 고객 관리](manage-leads.md)
 ### [공동 판매 기회 관리](manage-co-sell-opportunities.md)
@@ -95,7 +95,7 @@
 ### [거래 등록](register-deals.md)
 ### [추천 인사이트 얻기](referral-insights.md)
 ### [비즈니스 프로필 분석](analyze-your-marketing-profile.md)
-## [인센티브](claims-overview.md)
+## 인센티브
 ### 인센티브 시작
 #### [프로그램 자격 확인](incentives-determined-your-program-eligibility.md)
 #### [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [계획 만들기](incentives-create-your-plan.md)
 #### [실행 증명서 준비](incentives-prepare-your-proof-of-execution.md)
 ### 인센티브 협업 클레임
+#### [인센티브](claims-overview.md)
 #### [인센티브 협업 클레임 만들기 및 관리](create-incentives-claims.md)
 #### [인센티브 협업 클레임을 위한 핵심 요구 사항](core-requirements.md)
 #### [협업 클레임 승인 및 결제 마감일](incentives-managing-co-op-claims.md)
