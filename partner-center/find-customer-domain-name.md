@@ -5,16 +5,16 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클레임을 제출할 때 고객의 도메인 이름 및 디렉터리 ID를 찾는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금, OSA, ISV, 수익 연결, 도메인 이름, 디렉터리 ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 09754404ddc0c0d11ad690fd33eccbbf67f2e3a0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 10d881e38eefa6400389b05fc9635a575e545846
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722229"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947584"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id"></a>고객의 도메인 이름 및 디렉터리 ID 찾기
 
@@ -24,11 +24,11 @@ ms.locfileid: "74722229"
 
 **적절한 역할**
 
-- 관리자 에이전트
+- 관리 에이전트
 - 인센티브 관리자
 - 인센티브 사용자
-- 전역 관리자
-- 영업 에이전트
+- 글로벌 관리자
+- 영업 상담원
 
 1.  고객에 게 [Microsoft Azure portal](https://ms.portal.azure.com/#home) 을 열고 **Azure Active Directory**를 선택 하도록 요청 합니다. 
 

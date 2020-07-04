@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 분석을 사용 하 여 간접 재판매인이 수행 하는 작업을 파악 하 고, 성공 및 영역에서 더 많은 주의가 필요할 수 있습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2fbd8552d026d568b94dbfdddf4452897a3c790d
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991011"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947418"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>분석을 사용 하 여 간접 대리점의 성능 분석
 
@@ -26,7 +26,7 @@ ms.locfileid: "84991011"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원

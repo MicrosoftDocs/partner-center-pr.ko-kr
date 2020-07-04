@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Marketplace의 Isv (독립 소프트웨어 공급 업체)에서 제공 하는 SaaS (Software as a Service) 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 구독, Marketplace, 제 3 자, ISV, SaaS, 라이선스
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908090"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947726"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업 marketplace 개요
 

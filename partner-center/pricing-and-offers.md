@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite 및 Azure와 같은 사용량 기반 서비스와 같은 라이선스 기반 서비스에 대 한 현재 가격 목록을 참조 하세요.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661666"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949338"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -48,7 +48,7 @@ ms.locfileid: "84661666"
 
 라이선스 기반 서비스에는 변경 내용에 따라 30 일 전에 제공 되는 가격 목록 미리 보기가 포함 되어 있습니다. 가격 목록 미리 보기를 보려면 가격 **책정 및 제품 > 판매**로 이동 하세요. 이러한 서비스는 동적 이므로 사용량 기반 서비스에 대 한 가격 미리 보기가 없습니다. 다음 표에서는 가격 목록 테이블을 읽는 방법에 대해 설명 합니다.
 
-|**항목**        |**정의**      |
+|**Item**        |**정의**      |
 |:-----------   |:-----------   |
 |ADD   |가격 목록에 대 한 새 항목|
 |CHG   |월간 정가에서 월로 변경 됩니다. 정가와 관련 되지 않은 기타 변경 내용이 발생할 수 있습니다. 파트너가 다른 속성에 대 한 변경 내용을 확인 하려면 월 마다 가격표를 비교 해야 합니다.|
@@ -87,7 +87,7 @@ ms.locfileid: "84661666"
 
 CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 시장 부문에 몇 가지 서비스를 제공 합니다. 모든 서비스를 모든 채널에서 사용할 수 있는 것은 아닙니다. 기본적으로 ' 상용 ' 세그먼트를 호출 하는 세그먼트가 없습니다. 모든 라이선스 기반 가격은 가격 책정 및 제품 페이지의 라이선스 기반 가격 목록에서 확인할 수 있습니다. Azure Government 가격은 사용 하도록 설정 된 CSP 테 넌 트에 로그인 Azure Government 하는 경우 사용량 기반 가격 목록에서 사용할 수 있습니다.
 
-|**세그먼트가**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
+|**Segment**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Education|Customer|아니요, 고객 자격이 Microsoft에서 수행 됩니다. |라이선스 기반만|
 |비영리|Customer|아니요, 고객이 파트너 센터 외부에서 선별|라이선스 기반만|
@@ -157,7 +157,7 @@ Azure 예약은 특정 리소스 종류-Virtual Machines에 대 한 용어 기�
 
 Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 제품을 구매한 후에는 Office 365 A1 추가 기능을 사용할 수 있습니다. 
 
-|**제품 이름**   |**제품 ID**   |**형식**|
+|**제안 이름**   |**제품 ID**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|기본 제안|
 |교직원 용 Office 365 A1 (장치용)|0757d14e-7c57-456f-8dab-47d164f2ff1f|추가 기능|
@@ -181,7 +181,7 @@ Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 �
 |제품 또는 서비스  |ERP 및 MSRP 가격 목록 정보  |
 |라이선스 기반 서비스  |라이선스 기반 가격 목록에 ERP로 나열 됩니다.  |
 |Azure 사용량 기반 서비스  |공유 서비스에 해당 하는 가격 목록에서 찾을 수 있습니다.  |
-|Azure Reservations  |공유 서비스에 해당 하는 가격 목록에서 찾을 수 있습니다.  |
+|Azure 예약  |공유 서비스에 해당 하는 가격 목록에서 찾을 수 있습니다.  |
 |Azure 요금제 사용량 기반  |가격은 가격 책정 시트에서 할인 되지 않습니다.  |
 |Azure 계획 예약  |Azure 예약 공유 서비스 가격 목록 참조  |
 |소프트웨어 구독  |소프트웨어 구독 가격 목록에 MSRP로 나열 됨  |

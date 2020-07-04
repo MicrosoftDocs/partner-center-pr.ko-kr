@@ -3,17 +3,17 @@ title: 공동 op 클레임 관리
 description: 최종 기한, 통화 문제, 거부 된 co op 클레임을 해결 하는 방법을 비롯 하 여 공동 작업 클레임 프로세스를 이해 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719429"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949500"
 ---
 # <a name="manage-co-op-claims"></a>공동 op 클레임 관리
 
@@ -27,7 +27,7 @@ ms.locfileid: "85719429"
 
 - 인센티브 관리자
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>공동 op 클레임 승인 및 지불 마감일
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>협업 클레임 승인 및 결제 마감일
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>내 공동 작업 클레임은 언제 승인 됩니까?
 

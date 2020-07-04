@@ -5,17 +5,17 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 청구 페이지에 표시 되는 할당 되지 않은 지불액에 대해 알아봅니다. 청구서에 적용 하는 방법에 대해서도 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 청구, 지불, 지불, 할당 되지 않은 지불
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603612"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949586"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>파트너 센터 청구 페이지에서 할당 되지 않은 지불 관리
 

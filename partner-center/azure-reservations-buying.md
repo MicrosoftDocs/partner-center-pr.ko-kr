@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: azure, 예약, 관리, 청구, 구매
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104108"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948323"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 
@@ -28,7 +28,7 @@ ms.locfileid: "85104108"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -58,9 +58,9 @@ ms.locfileid: "85104108"
 > [!IMPORTANT]
 > Azure 예약은 다음과 같은 지역/국가에서는 사용할 수 **없습니다**.  
 >  
-> **사용할 수 없는 시장 (사전순)**
+> **사용할 수 없는 시장(사전순)**
 >
-> |To Gi   | Gr에서 Pal로  | Pap에서 Z로 |
+> |A부터 Gi까지   | Gr부터 Pal까지  | Pap부터 Z까지 |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 올란드 제도     | 그린란드     | 파푸아뉴기니     |
 > | 미국령 사모아     | 그레나다     | 핏케언 제도     |

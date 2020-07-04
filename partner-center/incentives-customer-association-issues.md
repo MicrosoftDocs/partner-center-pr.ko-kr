@@ -4,16 +4,16 @@ description: 요청 받은 레코드 파트너 (CPOR) 고객 연결을 사용할
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e5ad52e128aba9884fafea3900a3c03d31d4868f
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: cda0b9d29c351e5365a0ff291f66ee5e2fa91ae7
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719422"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949659"
 ---
 # <a name="customer-association-issues"></a>고객 연결 문제
 

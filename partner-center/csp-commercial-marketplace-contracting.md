@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 상업적 marketplace의 CSP 파트너가 구매한 타사 ISV 제품에 대 한 구독에 대 한 약관, 조건 및 계약에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 구독, Marketplace, 타사, ISV, CSP 파트너 프로그램, 계약, 판매, 구매,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937624"
+ms.locfileid: "85947790"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>상업적 marketplace에서 업무를 수행 하는 CSP 파트너에 대 한 계약
 

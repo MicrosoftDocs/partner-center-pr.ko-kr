@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 keywords: 교육, 특수 세그먼트
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992167"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949233"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 & 파트너 센터에서 교육 고객을 만드는 방법
 
@@ -25,7 +25,7 @@ ms.locfileid: "84992167"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 - 영업 상담원
 
@@ -67,7 +67,7 @@ ms.locfileid: "84992167"
 
    :::image type="content" source="images/edunottagged.png" alt-text="교육 태그가 지정 되지 않음":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>고객 계정 정보를 수정 하 고 심사에 대해 다시 제출 합니다.  
+## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>고객 계정 정보 수정 및 심사를 위해 다시 제출  
 
 고객이 초기 심사에 실패 한 경우 이제 정보를 수정 하 고 다시 제출할 수 있습니다.
 

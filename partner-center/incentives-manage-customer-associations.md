@@ -4,16 +4,16 @@ description: 요청 된 레코드 파트너 (CPOR) 고객 연결을 관리 하�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879479"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949509"
 ---
 # <a name="manage-customer-associations"></a>고객 제휴 보기
 
@@ -52,7 +52,7 @@ CPOR 연결 클레임이 승인 되 고 성과급으로 적합 한 경우에는 
 
 | 클레임 상태 | 표시 되는 경우 |
 | ------ | ----------- | 
-|  편집 중  | CPOR 연결 클레임이 생성 되었습니다. 실행 문서 증명을 업로드 하 고 승인을 위해 클레임을 제출할 때까지이 상태로 유지 됩니다.   |
+|  편집  | CPOR 연결 클레임이 생성 되었습니다. 실행 문서 증명을 업로드 하 고 승인을 위해 클레임을 제출할 때까지이 상태로 유지 됩니다.   |
 |  제출됨  | 파트너가 CPOR association 클레임을 성공적으로 제출 했지만 Microsoft에서 아직 검토 프로세스를 시작 하지 않았습니다.   |
 |  검토 중  | Microsoft에서 PoE 설명서의 유효성 검사를 시작 했습니다. 자세한 내용은 사용자에 게 문의할 수 있습니다. 검토 프로세스 SLA는 영업일 기준으로 5 일입니다.  |
 |  거부됨  | PoE이 부족 하거나 PoE 검토 지침에 따라 영업일 5 일 이내에 응답 하지 않았고 클레임이 거부 되었습니다.   |

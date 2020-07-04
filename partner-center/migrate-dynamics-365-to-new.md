@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 정식 Dynamics 365 Business Edition 제품을 최신 버전으로 마이그레이션하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 제안, 갱신 제안, 새 Dynamics 365 Sku
-ms.openlocfilehash: 9675f607d183c5d427371de4f09f088fd267c573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: e32dc8f769e9ba6299a9f7d92c5c58d85940cd94
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992076"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949634"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition 제품을 최신 버전으로 마이그레이션
 
@@ -24,7 +24,7 @@ ms.locfileid: "84992076"
 - 파트너 센터
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 영업 상담원

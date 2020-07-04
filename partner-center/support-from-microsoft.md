@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 발생 하는 경우 Microsoft로 에스컬레이션 하 고 해결 될 때까지 문제를 추적할 수 있습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99017a5374c8155564b3d784106ff5918423c548
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b359a3b70b767511f95e0c52bacacfc37e0d1aa6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992144"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949160"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft에서 지원-문제를 에스컬레이션 하는 경우, 보고 하는 방법 또는 서비스 상태를 확인 하는 방법
 

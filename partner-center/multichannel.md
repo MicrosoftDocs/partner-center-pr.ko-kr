@@ -5,16 +5,16 @@ ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: e77c1621fcd6d7475386d57b79edd537b338a884
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104099"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949430"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>다중 채널 지원-다른 파트너를 사용 하 여 다른 곳에서 구매한 고객 구독을 지원 합니다.
 
@@ -25,7 +25,7 @@ ms.locfileid: "85104099"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 영업 상담원
 

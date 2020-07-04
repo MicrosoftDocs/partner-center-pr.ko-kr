@@ -5,17 +5,17 @@ ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 분석을 사용 하 여 비즈니스와 고객이 구매한 라이선스를 사용 하는 방법을 더 잘 이해 하는 방법을 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 keywords: 데이터, 분석, 데이터 분석, power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795207"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947597"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>분석을 사용 하 여 고객 라이선스 사용에 대 한 자세한 내용 및 고객의 요구를 충족 하는 데 도움이 되는 방법
 

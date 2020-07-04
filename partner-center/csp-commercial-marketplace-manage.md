@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터를 사용 하 여 클라우드 솔루션 공급자가 상업적 marketplace의 고객을 위해 구매한 타사 ISV 제품을 관리 하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 구독, Marketplace, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, 제품 관리, 구독 관리, 구독 관리, 구독 취소, 자동 갱신 해제, 간접 재판매인 MPN ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937634"
+ms.locfileid: "85947752"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 및 제품 관리
 

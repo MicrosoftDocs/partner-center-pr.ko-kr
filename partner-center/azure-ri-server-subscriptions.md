@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객에 대 한 Azure 예약 및 서버 구독을 획득, 프로 비전 및 관리 하기 위한 클라우드 솔루션 공급자 기회에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198631"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948263"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
@@ -26,7 +26,7 @@ ms.locfileid: "85198631"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -51,7 +51,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 뛰어난 가격과 일치 하지 않는 배포 유연성의 조합을 사용 하 여 고객은 Azure Reservations 선택 하는 경우 가장 적합 한 전체 값을 볼 수 있습니다.
 
-#### <a name="azure-reservations"></a>Azure Reservations
+#### <a name="azure-reservations"></a>Azure 예약
 
 - Azure Reserved VM Instances
 - SQL DB 예약

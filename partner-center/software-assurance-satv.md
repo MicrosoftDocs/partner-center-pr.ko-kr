@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 기업 고객에 게 교육 및 계획을 제공 하기 위해 보정할 수 있도록 소프트웨어 보증 교육 증명서 프로그램에 등록 하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 keywords: 교육 상품권, software assurance, 교육, SATV에 등록, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788797"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949554"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램
 

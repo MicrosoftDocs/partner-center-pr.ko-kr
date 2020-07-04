@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: 파트너 센터에서 세금 원천 요청을 만들어 파트너 센터 계정이 원천 세금을 제공한 하는지 확인 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7fa10b20d7d7b3c89726fd08b3dd5dbaa1b89cbb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991657"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949578"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Microsoft가 아닌 현지 세금 기관에 지불 하는 경우 원천 세금을 제공한 확인 합니다.
 

@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: 마감일, 지불 시간 및 실행 증명 (PoE)을 포함 하 여 공동 작업 클레임 프로세스를 이해 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ca387b5f204345d74091de9dc92305b22ef824f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ceffac9a2441895d698b9315f62e71ea9a9220b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992123"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949705"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>공동 op 클레임, 계획 및 PoEs
 
@@ -26,7 +26,7 @@ ms.locfileid: "84992123"
 적절 한 역할:
 
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 인센티브 관리자
 
 ## <a name="co-op-claims"></a>공동 op 클레임

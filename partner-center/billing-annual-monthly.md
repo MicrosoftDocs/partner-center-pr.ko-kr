@@ -3,16 +3,16 @@ title: 월별 및 연간 청구 차이
 ms.topic: article
 ms.date: 05/06/2020
 Description: 파트너 센터에서 월별 및 연간 청구가 어떻게 다른 지 알아보세요. 또한 서로 다른 청구 유형 간에 전환 하는 방법과 전환의 영향에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908971"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948230"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>파트너 센터에서 월별 및 연간 청구의 차이점 이해
 
@@ -26,7 +26,7 @@ ms.locfileid: "84908971"
 
 - 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 인센티브 관리자
 - 인센티브 사용자
 - 기술 지원팀 상담원
@@ -224,7 +224,7 @@ CSP 프로그램을 현재 사용할 수 있는 모든 시장에서 월간 및 �
 
 성과급에 대 한 질문은 적절 한 지역 성과급 지원 팀에 문의 하세요.
 
-| 지역 | 메일 주소 |
+| 지역 | 전자 메일 주소 |
 | ------ | ------------- |
 | 북아메리카 | <ocina@microsoft.com> |
 |라틴 아메리카 & 브라질 | <ocilatam@microsoft.com> |

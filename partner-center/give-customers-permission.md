@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: 구독, 셀프 서비스 구매, 셀프 서비스 RI, RI 사용, ri 사용 안 함, 셀프 서비스, 고객 구매, 고객 권한, 고객 구매 예약 인스턴스, 고객 구입 Azure 예약, 셀프 서비스를 사용 하도록 설정
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795110"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947468"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>파트너 센터에서 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한 부여
 
@@ -66,7 +66,7 @@ CSP 프로그램의 파트너는 파트너 센터와 상용 마켓플레이스�
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>고객에 게 자신의 Azure 예약을 구매할 수 있는 권한 부여
 
-Azure 예약은 할인 된 요금으로 Azure 서비스를 구매할 수 있는 좋은 방법입니다. Azure 예약의 이점에 대 한 자세한 내용은 [Azure Reservations?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations) 을 참조 하세요.
+Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 좋은 방법입니다. Azure 예약의 이점에 대 한 자세한 내용은 [Azure Reservations?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations) 을 참조 하세요.
 
 이제 이미 수행 했을 수 있으므로 고객을 대신 하 여 Azure 예약을 구매할 수 있습니다. 또는 고객에 게 자신의 Azure 예약을 구매할 수 있는 권한을 부여할 수 있습니다.
 

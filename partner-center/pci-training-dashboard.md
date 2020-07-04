@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 교육 대시보드를 살펴보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 Keywords: 파트너 센터 정보, 보고서, 다운로드 보고서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d1629967a33f64d1bc151711d5892132b87fa7ff
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072804"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948671"
 ---
 # <a name="trainings-dashboard"></a>학습 대시보드
 

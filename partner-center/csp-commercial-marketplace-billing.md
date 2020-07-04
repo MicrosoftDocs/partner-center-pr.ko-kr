@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 내에서 상업적 marketplace의 고객을 위해 구매한 ISV SaaS 제품 또는 구독에 대 한 청구 작동 방식을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 구독, 제품, 구매, Marketplace, 제 3 자, ISV, 청구, 송장, 조정, 정찰 파일
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394162"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947818"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터에서 상업용 마켓플레이스 제품 및 구독에 대 한 청구
 
@@ -73,7 +73,7 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
 
 - Azure 플랜
 
-- Azure Reservations
+- Azure 예약
 
 - 기타 구독 기반 소프트웨어 (Microsoft 또는 ISV 게시자)
 

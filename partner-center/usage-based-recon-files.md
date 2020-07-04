@@ -3,16 +3,16 @@ title: 사용 빈도 기반 조정 파일
 ms.topic: article
 ms.date: 06/08/2020
 description: 파트너 센터에서 사용량 기반 조정 파일의 모든 항목에 대해 알아봅니다. 몇 가지 예를 포함 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909121"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949548"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>파트너 센터에서 사용 빈도 기반 조정 파일 및 해당 특정 필드 이해
 
@@ -27,7 +27,7 @@ ms.locfileid: "84909121"
 
 다음 필드는 사용 된 서비스와 요금을 설명 합니다.
 
-| 열 | Description | 샘플 값 |
+| Column | Description | 샘플 값 |
 | ------ | ----------- | ------------ |
 | PartnerId | GUID 형식의 파트너 식별자입니다. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | 파트너 이름입니다. | *Contoso, l t d.* |
@@ -56,7 +56,7 @@ ms.locfileid: "84909121"
 | PretaxCharges | 가장 가까운 센트로 반올림 된 **List3| st** 를 곱한 **값과 같습니다**. | *$0.085* |
 | TaxAmount | 세금 청구 금액입니다. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *$0.08* |
 | PostTaxTotal | 세금이 적용될 경우의 세금 공제 후 총액입니다. | *$0.93* |
-| 통화 | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 한 후 주요 청구 플랫폼 업데이트 후에 확인 합니다. | *EUR* |
+| Currency | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 한 후 주요 청구 플랫폼 업데이트 후에 확인 합니다. | *EUR* |
 | PretaxEffectiveRate | 단위당 세금 공제 전 가격입니다. **PretaxCharges** **로 나눈 값이 가장**가까운 센트로 반올림 됩니다. | *$0.08* |
 | PostTaxEffectiveRate | 단위당 세금 공제 후 가격입니다. **PostTaxTotal** **로 나눈 값이 가장**가까운 센트로 반올림 됩니다. 또는 **PretaxEffectiveRate** 같으며 가장 가까운 센트로 반올림 된 단가 당 세율을 더한 값입니다. | *$0.08* |
 | ChargeType | 요금 또는 조정 [의 유형](recon-file-charge-types.md) 입니다. | [요금 청구 유형](recon-file-charge-types.md)을 참조 하세요. |

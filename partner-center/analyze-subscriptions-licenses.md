@@ -4,18 +4,18 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 구독 및 라이선스 분석 페이지에서 메트릭을 사용 하 여 주의가 필요한 성공 및 영역을 확인 하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 671d0bed6a8d3a71aa641fde296ead6c665dce3f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991022"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948584"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>구독 및 라이선스 분석 
 
@@ -26,7 +26,7 @@ ms.locfileid: "84991022"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원

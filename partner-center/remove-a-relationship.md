@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft direct 파트너가 자신의 목록에서 고객을 제거 하 고, 위임 된 관리자 권한을 제거 하 고, 고객에 대 한 지원 또는 구매를 중지 하는 방법을 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: f710b7327e9ff647f23c7baf994bc00082c437b5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467423"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949282"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>파트너 센터에서 고객과 대리점 관계를 제거 하는 방법
 

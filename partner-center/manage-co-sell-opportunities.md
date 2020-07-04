@@ -5,24 +5,24 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 거래를 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 거래를 확인 하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: 조회, 공동 판매, 거래
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328364"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949458"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>파트너 센터의 공동 판매 기회를 관리 하 여 고객의 요구를 충족 하 고 더 나은 고객 요구를 정의 합니다.
 
 **적용 대상**
 
 - 파트너 센터
-- 추천
+- 조회
 - Microsoft와 공동 판매
 - 거래 공유
 
@@ -65,7 +65,7 @@ ms.locfileid: "84328364"
 
 이 특정 거래에 대 한 고객을 선택 합니다. 해당 위치를 입력 하 고 이름을 입력 하기 시작 합니다. 자동 제안에는 검색 조건에 따라 권장 사항이 표시 되기 시작 합니다. 많은 회사에 동일한 위치에 둘 이상의 비즈니스 엔터티가 있으므로 여러 결과가 표시 될 수 있습니다. 선택 해야 하는 것이 확실 하지 않은 경우 고객에 게 속하는 D-U-N-S 번호를 확인할 수 있습니다. 작업 중인 고객과 정확히 일치 하는 항목을 선택 해야 합니다.
 
-**고객 선택**을 클릭 하면 해당 거래의 기본 연락 지점인 사용자의 이름, 전화 번호 및 전자 메일 주소를 입력 하 라는 메시지가 표시 됩니다. 이러한 세부 정보는 선택 사항이 며, Microsoft 판매를 초대 하 여 참여를 도울 계획인 경우에만 필요 합니다. **다음**을 선택합니다.
+**고객 선택**을 클릭 하면 해당 거래의 기본 연락 지점인 사용자의 이름, 전화 번호 및 전자 메일 주소를 입력 하 라는 메시지가 표시 됩니다. 이러한 세부 정보는 선택 사항이 며, Microsoft 판매를 초대 하 여 참여를 도울 계획인 경우에만 필요 합니다. **새로 만들기**를 선택합니다.
 
 > [!IMPORTANT]
 > Microsoft에 문의 하 여 고객에 게 연락 정보를 제공 하는 데 필요한 고객의 동의를 얻어야 합니다. Microsoft는이 정보를 사용 하 여 고객에 게 직접 문의할 수 있습니다.
@@ -81,7 +81,7 @@ ms.locfileid: "84328364"
 |**예상 종료 날짜**| 필수| 고객에 대 한 처리를 종료 해야 하는 날짜입니다. |
 |**CRM ID**| 선택 사항 | 추적 목적으로 해당 CRM의 기회 ID를 사용 하 여 처리에 태그를 합니다.|
 |**마케팅 캠페인 ID**| 선택 사항 | 거래를 일으킨 마케팅 캠페인을 캡처합니다. 동일한 ID를 사용 하 여 캠페인에서 시작 하는 모든 거래에 태그를 지정할 경우이를 통해 특정 캠페인의 ROI를 추적할 수 있습니다.|
-|**참고 사항**| 선택 사항 | 모든 최신 정보를 업데이트 하 여 동일한 거래에 대해 작업 하는 회사의 다른 직원에 게 가시성을 제공 하거나 현재 거래 상태를 파악 하려고 합니다. 또한이 정보를 회사와 Microsoft 판매자/기타 파트너 간의 토론에 대 한 통신 레코드로 사용할 수 있습니다.|
+|**참고**| 선택 사항 | 모든 최신 정보를 업데이트 하 여 동일한 거래에 대해 작업 하는 회사의 다른 직원에 게 가시성을 제공 하거나 현재 거래 상태를 파악 하려고 합니다. 또한이 정보를 회사와 Microsoft 판매자/기타 파트너 간의 토론에 대 한 통신 레코드로 사용할 수 있습니다.|
 
 ### <a name="add-your-employees"></a>직원 추가
 
@@ -95,7 +95,7 @@ ms.locfileid: "84328364"
 - **Microsoft:** 이러한 솔루션은 Microsoft에서 소유 하 고 있습니다.
 - **다른 타사 솔루션:** 이러한 솔루션은 Microsoft 공동 판매 에코 시스템의 다른 파트너에 의해 게시 되는 공동 판매 준비 솔루션입니다.
 
-솔루션 정보를 제공 했으면 다음을 선택 하 여 판매 유형을 결정할 수 있는 섹션으로 이동 합니다. 다음과 같은 두 가지 옵션이 있습니다.
+솔루션 정보를 제공 했으면 다음을 선택 하 여 판매 유형을 결정할 수 있는 섹션으로 이동 합니다. 다음 두 가지 옵션을 사용할 수 있습니다.
 
 **개인 파이프라인 거래**: Microsoft를 초대 하지 않고이 단계에서 참여를 만드는 경우 개인 파이프라인 형식입니다. Microsoft 판매자는이 거래에 대 한 세부 정보를 볼 수 없습니다.
 

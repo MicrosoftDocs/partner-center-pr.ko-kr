@@ -5,18 +5,18 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ISV (독립 소프트웨어 공급 업체)에서 특정 제품을 독점적이 고 특정 CSP 파트너만 사용할 수 있도록 하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794846"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949448"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>독립 소프트웨어 공급 업체의 Marketplace 독점 제공
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>독립 소프트웨어 공급업체의 마켓플레이스 독점 제품
 
 **적절한 역할**
 

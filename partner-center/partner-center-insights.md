@@ -5,22 +5,22 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 keywords: PCI, 성능, 고객 성공, 측정, 보고 데이터
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ecd244507b0a2ec1373bcb7954b4d5eb2d72c819
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9e56ae1922abee38537d65564781fea3cb0251e7
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991923"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949418"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 계정 관리자
 - 임원 보고서 뷰어
 - 보고서 뷰어

@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객에 대 한 Azure 예약을 관리 하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 keywords: azure, 예약, 관리, 청구, 구매, 취소, 교환, 조기 종료 요금
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908308"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948316"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>고객에 대 한 Microsoft Azure 예약 관리, 취소, 교환 또는 환불
 
@@ -29,7 +29,7 @@ ms.locfileid: "82908308"
 
 - 관리 에이전트
 - 글로벌 관리자
-- 기술 지원팀 에이전트
+- 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
 
@@ -41,7 +41,7 @@ ms.locfileid: "82908308"
 
 3. **작업**아래에서 **관리** 를 선택 하 여 Azure Portal에서 고객의 예약 레코드로 이동 합니다. 예약 세부 정보 페이지에서 다음 단계를 수행 하 여 작업을 완료 합니다.  
 
-    | **선택**   | **받는 사람**    |
+    | **Select**   | **수행할 작업**    |
     |:-----------------------------|:-----------------|
     | **개요**   | 만료 날짜, 범위 및 사용률 데이터를 포함 하 여 고객 예약의 세부 정보를 봅니다. **참고** **환불** 을 선택 하 여 등급이 지정 된 환불에 대 한 지원 요청을 만듭니다. 예약 기간 중 사용 되지 않은 부분을 교환 하는 지원 요청을 만들려면 **exchange** 를 선택 합니다.  
     | **Access Control (IAM)**   | 고객의 예약 정보에 대 한 액세스를 관리 합니다.|
@@ -93,7 +93,7 @@ ms.locfileid: "82908308"
 
 4. **새 지원 요청** 페이지에서 아래 단계를 수행 하 여 환불을 요청 합니다. 각 단계 후에 **다음** 을 선택 합니다. 
 
-    |**단계**                    |**선택할**    |
+    |**Step**                    |**선택할**    |
     |:---------------------------|:-----------------|
     |**1 기본 사항**                |문제 유형: 청구  |
     |**2 문제**               |문제 유형: 예약 관리. 범주: 교환 및 환불. |

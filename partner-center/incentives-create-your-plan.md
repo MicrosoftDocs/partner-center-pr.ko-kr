@@ -1,21 +1,21 @@
 ---
-title: 요금제 만들기
+title: 계획 만들기
 ms.topic: article
 ms.date: 06/29/2020
 description: 필요한 정보를 수집 하 고 만들어 성과급 프로그램에 대 한 성공적인 마케팅 계획을 생성 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 0398aed2ddaf46abc976d679c1fd6c15127de6d8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719446"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949678"
 ---
-# <a name="create-your-plan"></a>요금제 만들기
+# <a name="create-your-plan"></a>계획 만들기
 
 적용 대상:
 

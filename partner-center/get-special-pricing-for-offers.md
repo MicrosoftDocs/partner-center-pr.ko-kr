@@ -5,18 +5,18 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 교육 고객, 비영리 고객 및 정부 사용자를 비롯 한 특정 고객 그룹에 대 한 Microsoft의 특별 한 가격 책정 가격에 대해 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991245"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947408"
 ---
-# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>교육, 비영리 및 정부 사용자와 같은 특수 산업 판매
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>교육, 비영리 및 정부 사용자와 같은 특수 산업에 판매
 
 **적용 대상**
 
@@ -24,7 +24,7 @@ ms.locfileid: "84991245"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 - 영업 상담원
 
@@ -34,9 +34,9 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 
 |**특별가**   |**재판매인 필수 자격**   |**고객에 게 필요한 자격**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|교육   |None   | 는 정규화 된 [교육 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
-|정부   |Azure를 판매 하려면 [MICROSOFT 미국 정부 클라우드 유효성 검사 양식](https://azuregov.microsoft.com/csp)을 사용 하 여 등록 합니다. 정부에 라이선스 기반 구독을 판매 하기 위해 필요한 자격이 없습니다.|   None|
-|비영리  |None<br/> 비영리 Azure Active Directory 테 넌 트가 있어야 합니다.<br/> [비영리 특별 행사](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)에 대해 자세히 알아보세요.   |적격 한 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register) 을 통해 등록 하세요.   |
+|Education   |없음   | 는 정규화 된 [교육 사용자](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)여야 합니다.   |
+|정부   |Azure를 판매 하려면 [MICROSOFT 미국 정부 클라우드 유효성 검사 양식](https://azuregov.microsoft.com/csp)을 사용 하 여 등록 합니다. 정부에 라이선스 기반 구독을 판매 하기 위해 필요한 자격이 없습니다.|   없음|
+|비영리  |없음<br/> 비영리 Azure Active Directory 테 넌 트가 있어야 합니다.<br/> [비영리 특별 행사](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)에 대해 자세히 알아보세요.   |적격 한 [Microsoft 비영리 프로그램](https://nonprofit.microsoft.com/#/register) 을 통해 등록 하세요.   |
 
 ## <a name="check-your-reseller-qualifications"></a>대리점 자격 확인
 
@@ -60,7 +60,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 
 사용자와 고객이 특별 제품 프로그램에 대 한 자격이 있는 경우 [구독을 추가](create-a-new-subscription.md)하는 단계를 수행 합니다. **새 구독** 페이지의 **카탈로그** 섹션에서 특수화 된 산업을 선택 하 여 판매할 수 있는 특별 혜택을 확인 합니다.
 
-## <a name="purchase-rules-for-special-segments"></a>특수 세그먼트에 대 한 구매 규칙
+## <a name="purchase-rules-for-special-segments"></a>특수 세그먼트에 대한 구매 규칙
 
 파트너는 특정 조건을 충족 하는 경우 고객에 게 특별 한 제안을 판매할 수 있습니다. 
 
@@ -74,7 +74,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | 상용 |상용 | 비영리, 교육 또는 정부 커뮤니티 클라우드 |
 | 비영리 |상업적, 비영리 | 교육 또는 정부 커뮤니티 클라우드 |
-| 교육 |상업적, 교육 | 비영리 또는 정부 커뮤니티 클라우드 |
+| Education |상업적, 교육 | 비영리 또는 정부 커뮤니티 클라우드 |
 | 정부 커뮤니티 클라우드 |정부 커뮤니티 클라우드 | 비영리, 교육 또는 상업적 |
 
 ## <a name="next-steps"></a>다음 단계

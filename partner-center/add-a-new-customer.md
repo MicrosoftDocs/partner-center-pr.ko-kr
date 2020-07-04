@@ -5,19 +5,19 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새 고객 레코드를 추가 하는 방법에 대해 알아봅니다. 그런 다음 고객 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객 지원 서비스를 제공할 수 있습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: 고객, 고객 계정, 파트너 센터의 고객 계정 추가, 고객, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991110"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947448"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>파트너 센터에서 새 고객 레코드를 추가 하는 방법
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>파트너 센터에서 신규 고객 레코드를 추가하는 방법
 
 **적용 대상**
 
@@ -27,7 +27,7 @@ ms.locfileid: "84991110"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
@@ -37,7 +37,7 @@ ms.locfileid: "84991110"
 >[!NOTE]
 >[다중 채널](multichannel.md) 또는 [multipartner](multipartner.md) 시나리오를 통해 파트너 센터에 이미 고객 레코드가 있는 사용자를 포함 하는 기존 고객의 경우 여기에 설명 된 단계를 수행 하는 대신 [해당 사용자와의 관계를 요청할](request-a-relationship-with-a-customer.md)수 있습니다.
 
-## <a name="to-add-a-new-customer-in-partner-center"></a>파트너 센터에서 새 고객을 추가 하려면
+## <a name="to-add-a-new-customer-in-partner-center"></a>파트너 센터에서 새 고객을 추가하려면
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.
 
@@ -70,6 +70,6 @@ ms.locfileid: "84991110"
 
 ## <a name="next-steps"></a>다음 단계
 
-- 클라우드 솔루션 공급자 프로그램을 통해 고객에 게 판매할 수 있는 항목에 대 한 자세한 내용은 [클라우드 솔루션 공급자 프로그램의 파트너 제품](csp-offers.md)을 참조 하세요.
+- 클라우드 솔루션 공급자 프로그램을 통해 고객에 게 판매할 수 있는 항목에 대 한 자세한 내용은 [클라우드 솔루션 공급자 프로그램의 파트너 제품](csp-offers.md) 을 참조 하세요.
 
 - 새 고객을 파트너 계정에 연결 하는 방법에 대 한 자세한 내용은 [고객과 연결](customer-accounts.md)을 참조 하세요.

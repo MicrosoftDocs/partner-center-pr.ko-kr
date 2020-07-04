@@ -6,16 +6,16 @@ ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 미국 정부를 위한 클라우드 솔루션 공급자 Microsoft 클라우드 프로그램에 등록 하려는 파트너를 위한 CSP 프로그램 요구 사항에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: fed58b2de7e46905452103693727af3c6fbaa780
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879117"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947538"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록
 

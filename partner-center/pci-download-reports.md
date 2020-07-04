@@ -5,17 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 통합 보고 대시보드를 살펴보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 Keywords: 파트너 센터 정보, 보고서, 다운로드 보고서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072449"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948863"
 ---
 # <a name="download-reports"></a>보고서 다운로드
 

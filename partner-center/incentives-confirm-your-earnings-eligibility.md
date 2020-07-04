@@ -1,21 +1,21 @@
 ---
-title: 소득 자격 확인
+title: 수익 자격 확인
 ms.topic: article
 ms.date: 06/29/2020
 description: 수익을 만들고 성과급 프로그램에서 유료으로 사용할 수 있는지 확인 하세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c030c3009361fa5c41cad13650ab553dd26e4896
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 052cd36c06c9d1856fa3ccf6d257f806891a3303
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719459"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949700"
 ---
-# <a name="confirm-your-earnings-eligibility"></a>소득 자격 확인
+# <a name="confirm-your-earnings-eligibility"></a>수익 자격 확인
 
 적용 대상:
 

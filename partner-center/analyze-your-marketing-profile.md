@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스 프로필 정보 페이지를 사용 하 여 대상 고객의 주의를 캡처하고 조회를 생성 하는 방법을 확인 하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: vikramb
+ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: c648fbf98ff0af3f79d689cc2b22297bc1a5aa84
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788755"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948565"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>비즈니스 프로필 분석-대상 고객과 잠재적 조회를 얼마나 잘 사용할 수 있는지 확인 합니다.
 <!-- 
@@ -29,7 +29,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 - 추천 관리자
 - 비즈니스 프로필 관리자

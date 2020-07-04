@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램 파트너에서 필요한 고객 요금 청구 지원에 대해 알아봅니다. 여기에는 고객 청구 관계를 소유 하 고 있으며 청구 질문에 대 한 답변이 포함 됩니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992058"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949323"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>고객에 대 한 청구 지원을 제공 하 고 대금 청구 질문에 답변 해 주세요.
 
@@ -24,7 +24,7 @@ ms.locfileid: "84992058"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 기술 지원팀 상담원
 - 청구 관리자

@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의 관계를 요청 하거나 고객에 게 위임 된 관리자 권한을 복원 해야 하는 경우
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104092"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949247"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객 으로부터 대리점 관계를 요청 하는 방법
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객의 재판매인 관계를 요청하는 방법
 
 **적용 대상**
 
@@ -34,9 +34,9 @@ ms.locfileid: "85104092"
 
 1. **파트너 센터** 메뉴에서 **고객**을 선택한 다음, **재판매인 관계 요청**을 선택합니다.
 
-2. 이 고객의 관리자 권한을 요청 하려면 **Azure Active Directory 및 Office 365에 대 한 위임 된 관리 권한 포함**을 선택 합니다. 관리자 권한을 요청 하지 않고 관계를 설정 하려면이 옵션의 선택을 취소 합니다.
+2. 이 고객의 관리자 권한을 요청 하려면 **Azure Active Directory 및 Office 365에 대 한 위임 된 관리 권한 포함**을 선택 합니다. 관리자 권한을 요청하지 않고 관계를 형성하려면 이 옵션의 선택을 취소합니다.
 
-3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 기본 이메일 애플리케이션에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 이메일에 붙여넣을 수 있습니다.
+3. 다음 페이지에서 초안 이메일 메시지를 검토합니다. 기본 이메일 애플리케이션에서 초안 메시지를 열거나 메시지를 클립보드에 복사하여 이메일에 붙여넣을 수 있습니다.
 
    이메일에서 텍스트를 편집할 수 있지만, 이메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하는 맞춤형 링크입니다. 이 단계를 마쳤으면 **완료**를 선택합니다.
 

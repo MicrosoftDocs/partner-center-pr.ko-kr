@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스를 개선 하는 방법을 알아봅니다. 지리, 제품별 및 기타 특성에 따라 특정 고객 추세를 확인 하세요.
 keywords: PCI, 성능, 고객 성공, 측정,
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9ccd23c0a028a8fb42d71cbf7db45f1a5497573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991947"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949368"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>파트너 센터 정보에서 고객 대시보드 보고서
 

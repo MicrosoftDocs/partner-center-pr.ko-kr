@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 기존 구독이 만료 되기 전에 정규화 된 기본 Dynamics 365 구독에서 새 구독으로 마이그레이션하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: Brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 제안, 갱신 제안, 새 Dynamics 365 Sku
-ms.openlocfilehash: 1fb7a58d3c777f39bdd3594d6d2bc0be04fbf573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5225ff60399cd491009ecb16e4c17b4fc05c0052
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992105"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949642"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 및 Customer Engagement 플랜을 기본(제한된 제품)에서 새 버전으로 마이그레이션
 
@@ -24,7 +24,7 @@ ms.locfileid: "84992105"
 -  파트너 센터
 
 **적절한 역할**
--   전역 관리자
+-   글로벌 관리자
 -   사용자 관리자
 -   관리 에이전트
 -   영업 상담원
