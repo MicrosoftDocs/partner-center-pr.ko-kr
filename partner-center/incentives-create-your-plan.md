@@ -1,95 +1,95 @@
 ---
-title: 요금제 만들기
+title: 계획 만들기
 ms.topic: article
 ms.date: 06/29/2020
 description: 필요한 정보를 수집 하 고 만들어 성과급 프로그램에 대 한 성공적인 마케팅 계획을 생성 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 0398aed2ddaf46abc976d679c1fd6c15127de6d8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719446"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949678"
 ---
-# <a name="create-your-plan"></a><span data-ttu-id="ad1e0-103">요금제 만들기</span><span class="sxs-lookup"><span data-stu-id="ad1e0-103">Create your plan</span></span>
+# <a name="create-your-plan"></a><span data-ttu-id="9da09-103">계획 만들기</span><span class="sxs-lookup"><span data-stu-id="9da09-103">Create your plan</span></span>
 
-<span data-ttu-id="ad1e0-104">적용 대상:</span><span class="sxs-lookup"><span data-stu-id="ad1e0-104">Applies to:</span></span>
+<span data-ttu-id="9da09-104">적용 대상:</span><span class="sxs-lookup"><span data-stu-id="9da09-104">Applies to:</span></span>
 
-- <span data-ttu-id="ad1e0-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="ad1e0-105">Partner Center</span></span>
+- <span data-ttu-id="9da09-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="9da09-105">Partner Center</span></span>
 
-<span data-ttu-id="ad1e0-106">공동 작업 클레임 계획은 일련의 마케팅 캠페인, 작업 및 프로그램을 성공적으로 만드는 방법을 설명 하는 기타 세부 정보를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-106">A co-op claims plan is the series of marketing campaigns, activities, and other details describing how you’ll make your program a success.</span></span> <span data-ttu-id="ad1e0-107">계획을 만든 후에는 승인을 위해 Microsoft에 제출 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-107">Once you create your plan, you’ll submit it to Microsoft for approval.</span></span> 
+<span data-ttu-id="9da09-106">공동 작업 클레임 계획은 일련의 마케팅 캠페인, 작업 및 프로그램을 성공적으로 만드는 방법을 설명 하는 기타 세부 정보를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-106">A co-op claims plan is the series of marketing campaigns, activities, and other details describing how you’ll make your program a success.</span></span> <span data-ttu-id="9da09-107">계획을 만든 후에는 승인을 위해 Microsoft에 제출 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-107">Once you create your plan, you’ll submit it to Microsoft for approval.</span></span> 
 
-<span data-ttu-id="ad1e0-108">적절 한 역할:</span><span class="sxs-lookup"><span data-stu-id="ad1e0-108">Appropriate roles:</span></span>
+<span data-ttu-id="9da09-108">적절 한 역할:</span><span class="sxs-lookup"><span data-stu-id="9da09-108">Appropriate roles:</span></span>
 
-- <span data-ttu-id="ad1e0-109">인센티브 관리자</span><span class="sxs-lookup"><span data-stu-id="ad1e0-109">Incentives admin</span></span>
-- <span data-ttu-id="ad1e0-110">청구 관리자</span><span class="sxs-lookup"><span data-stu-id="ad1e0-110">Billing admin</span></span>
-- <span data-ttu-id="ad1e0-111">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="ad1e0-111">Global admin</span></span>
+- <span data-ttu-id="9da09-109">인센티브 관리자</span><span class="sxs-lookup"><span data-stu-id="9da09-109">Incentives admin</span></span>
+- <span data-ttu-id="9da09-110">청구 관리자</span><span class="sxs-lookup"><span data-stu-id="9da09-110">Billing admin</span></span>
+- <span data-ttu-id="9da09-111">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="9da09-111">Global admin</span></span>
 
-## <a name="create-your-incentives-plan"></a><span data-ttu-id="ad1e0-112">성과급 요금제 만들기</span><span class="sxs-lookup"><span data-stu-id="ad1e0-112">Create your incentives plan</span></span>
+## <a name="create-your-incentives-plan"></a><span data-ttu-id="9da09-112">성과급 요금제 만들기</span><span class="sxs-lookup"><span data-stu-id="9da09-112">Create your incentives plan</span></span>
 
-<span data-ttu-id="ad1e0-113">**성과급** 페이지에서 **계획 관리** 를 선택 하 고 원하는 프로그램을 열어서 계획을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-113">You can view your plans by selecting **Plan Management** on your **Incentives** page, and then opening the program you want.</span></span>
-
->[!NOTE]
-><span data-ttu-id="ad1e0-114">성과급 페이지에는 계획 관리가 표시 되지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-114">You may not see Plan Management on your Incentives page.</span></span> <span data-ttu-id="ad1e0-115">파트너 센터 대시보드는 동적 이며 특정 역할 및 작업에 적절 한 항목만 표시 하기 때문입니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-115">This is because the Partner Center dashboard is dynamic, and only displays what’s appropriate for your specific role and activities.</span></span> <span data-ttu-id="ad1e0-116">성과급 페이지에 계획 관리가 표시 되지 않는 경우에는 현재 계획이 있는 프로그램에 등록 되어 있지 않은 것일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-116">If you don’t see Plan Management on your Incentives page, it probably means you’re not currently enrolled in a program that has plans.</span></span> <span data-ttu-id="ad1e0-117">도움을 받으려면 성과급 관리자에 게 문의 하세요.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-117">Contact your Incentives admin for assistance.</span></span>
-
-<span data-ttu-id="ad1e0-118">특정 성과급 프로그램의 계획에 대 한 자세한 내용은 프로그램 가이드를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-118">For more information on plans for your particular Incentives program, see your program guide.</span></span>
-
-## <a name="how-to-submit-a-plan"></a><span data-ttu-id="ad1e0-119">계획을 제출하는 방법</span><span class="sxs-lookup"><span data-stu-id="ad1e0-119">How to submit a plan</span></span>
-
-1. <span data-ttu-id="ad1e0-120">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-120">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
-
-2. <span data-ttu-id="ad1e0-121">왼쪽 탐색 창의 **인센티브**에서 **프로그램**을 선택한 다음, 해당 프로그램을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-121">Under **Incentives** in the left nav, select **Program**, and then select your program.</span></span> 
-
-3. <span data-ttu-id="ad1e0-122">**프로그램** 페이지에서 계획에 적합 한 시장을 찾은 다음 **계획 만들기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-122">On the **Program** page, locate the appropriate market for your plan, and then select **Create plan**.</span></span> 
-
-4. <span data-ttu-id="ad1e0-123">**새 계획** 페이지에서 필수 필드를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-123">On the **New plan** page, complete the required fields.</span></span> <span data-ttu-id="ad1e0-124">**통화** 는 계획에 반영 하려는 값입니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-124">**Currency** is the value you want to have the plan reflect.</span></span> <span data-ttu-id="ad1e0-125">**검토자 전자 메일** 은 계정 관리자의 Microsoft 전자 메일 주소 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-125">**Reviewer email** should be the Microsoft email address of your account manager.</span></span> <span data-ttu-id="ad1e0-126">MPN ID, 자금, 프로그램 및 기간별로 계획을 하나만 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-126">Note that only one plan can be created per MPN ID, fund, program, and period.</span></span> <span data-ttu-id="ad1e0-127">**저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-127">Select **Save**.</span></span>
-
-5. <span data-ttu-id="ad1e0-128">계획의 상태 페이지에서 표시된 정보를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-128">On the plan’s status page, review the information displayed.</span></span> <span data-ttu-id="ad1e0-129">**편집**을 선택하여 정보를 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-129">Select **Edit** to update any of the information.</span></span>
-
-6. <span data-ttu-id="ad1e0-130">이 페이지의 정보가 올바르면 **새 캠페인**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-130">When the information on this page is correct, select **New campaign**.</span></span>
-
-7. <span data-ttu-id="ad1e0-131">**새 캠페인** 페이지에서 필수 필드를 입력 하 고 **저장**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-131">Complete the required fields on the **New campaign** page, and then select **Save**.</span></span>
-
-8. <span data-ttu-id="ad1e0-132">상태 페이지에서 **새 활동**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-132">On the status page, select **New activity**.</span></span> 
-
-9. <span data-ttu-id="ad1e0-133">**새 활동** 페이지에서 필수 필드를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-133">On the **New activity** page, complete the required fields.</span></span> <span data-ttu-id="ad1e0-134">여러 개의 국가를 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-134">You can select multiple countries.</span></span> <span data-ttu-id="ad1e0-135">완료되면 **저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-135">When you’re finished, select **Save**.</span></span> 
-
-10. <span data-ttu-id="ad1e0-136">상태 페이지에서 정보를 다시 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-136">On the status page, review your information again.</span></span> <span data-ttu-id="ad1e0-137">계획을 제출한 후에는 편집할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-137">Once you submit a plan you cannot edit it.</span></span> <span data-ttu-id="ad1e0-138">완료되면 **제출**을 선택한 다음, **확인**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-138">When you’re finished, select **Submit**, and then select **Confirm**.</span></span>
-
-<span data-ttu-id="ad1e0-139">이제 계획이 제출되었습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-139">Your plan has now been submitted.</span></span> <span data-ttu-id="ad1e0-140">Microsoft는 계획이 승인되거나 추가 정보가 필요한 경우 인센티브 관리자에게 알립니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-140">Microsoft will notify your Incentive admin when it’s been approved or if we need additional information.</span></span> <span data-ttu-id="ad1e0-141">상태 페이지의 상태 창에서 계획의 진행 상태를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-141">You can view the plan’s progress in the Status window of the status page.</span></span>
-
-## <a name="view-the-status-of-your-plan"></a><span data-ttu-id="ad1e0-142">요금제 상태 보기</span><span class="sxs-lookup"><span data-stu-id="ad1e0-142">View the status of your plan</span></span>
-
-1. <span data-ttu-id="ad1e0-143">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-143">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
-
-2. <span data-ttu-id="ad1e0-144">**인센티브** 페이지에서 **계획 관리**를 선택한 후 원하는 프로그램을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-144">On your **Incentives** page, select **Plan Management**, and then select the program you want.</span></span> <span data-ttu-id="ad1e0-145">상태 페이지가 열립니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-145">The status page will open.</span></span>
-
-3. <span data-ttu-id="ad1e0-146">**계획** 섹션에서 **상태** 열에 각 계획의 상태가 나열됩니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-146">In the **Plans** section, the status of each plan is listed in the **Status** column.</span></span>
-
-   <span data-ttu-id="ad1e0-147">다음은 공동 op 클레임 계획에 사용할 수 있는 다양 한 상태입니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-147">The following are the various possible statuses for your co-op claim plan.</span></span>
-
-   - <span data-ttu-id="ad1e0-148">제출됨</span><span class="sxs-lookup"><span data-stu-id="ad1e0-148">Submitted</span></span>
-   - <span data-ttu-id="ad1e0-149">검토 중</span><span class="sxs-lookup"><span data-stu-id="ad1e0-149">Under review</span></span>
-   - <span data-ttu-id="ad1e0-150">필요한 동작</span><span class="sxs-lookup"><span data-stu-id="ad1e0-150">Action required</span></span>
-   - <span data-ttu-id="ad1e0-151">편집 중</span><span class="sxs-lookup"><span data-stu-id="ad1e0-151">Editing</span></span>
-   - <span data-ttu-id="ad1e0-152">승인됨</span><span class="sxs-lookup"><span data-stu-id="ad1e0-152">Approved</span></span>
-   - <span data-ttu-id="ad1e0-153">거부됨</span><span class="sxs-lookup"><span data-stu-id="ad1e0-153">Rejected</span></span>
-
-## <a name="plan-submission-timelines"></a><span data-ttu-id="ad1e0-154">제출 일정 계획</span><span class="sxs-lookup"><span data-stu-id="ad1e0-154">Plan submission timelines</span></span>
-
-<span data-ttu-id="ad1e0-155">프로그램 연도의 마지막 날까지 계획을 만들고 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-155">You must create and submit your plan by the last day of the program year.</span></span> <span data-ttu-id="ad1e0-156">필요한 경우 그 이후 추가 90일에 대한 계획을 편집하고 다시 제출할 수 있지만 프로그램 연도 동안 계획을 만들고 처음 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-156">If necessary, you can edit and resubmit the plan for an additional 90 days after that, but the plan must be created and initially submitted during the program year.</span></span>
+<span data-ttu-id="9da09-113">**성과급** 페이지에서 **계획 관리** 를 선택 하 고 원하는 프로그램을 열어서 계획을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-113">You can view your plans by selecting **Plan Management** on your **Incentives** page, and then opening the program you want.</span></span>
 
 >[!NOTE]
-> <span data-ttu-id="ad1e0-157">프로그램 년에 대 한 기금 유형별 요금제는 하나만 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-157">You can only create one plan per fund type for a program year.</span></span>
+><span data-ttu-id="9da09-114">성과급 페이지에는 계획 관리가 표시 되지 않을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-114">You may not see Plan Management on your Incentives page.</span></span> <span data-ttu-id="9da09-115">파트너 센터 대시보드는 동적 이며 특정 역할 및 작업에 적절 한 항목만 표시 하기 때문입니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-115">This is because the Partner Center dashboard is dynamic, and only displays what’s appropriate for your specific role and activities.</span></span> <span data-ttu-id="9da09-116">성과급 페이지에 계획 관리가 표시 되지 않는 경우에는 현재 계획이 있는 프로그램에 등록 되어 있지 않은 것일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-116">If you don’t see Plan Management on your Incentives page, it probably means you’re not currently enrolled in a program that has plans.</span></span> <span data-ttu-id="9da09-117">도움을 받으려면 성과급 관리자에 게 문의 하세요.</span><span class="sxs-lookup"><span data-stu-id="9da09-117">Contact your Incentives admin for assistance.</span></span>
 
-## <a name="plan-payments"></a><span data-ttu-id="ad1e0-158">계획 지급</span><span class="sxs-lookup"><span data-stu-id="ad1e0-158">Plan payments</span></span>
+<span data-ttu-id="9da09-118">특정 성과급 프로그램의 계획에 대 한 자세한 내용은 프로그램 가이드를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="9da09-118">For more information on plans for your particular Incentives program, see your program guide.</span></span>
 
-<span data-ttu-id="ad1e0-159">Microsoft는 실적 및 계획의 한도를 기준으로 매월 지급금을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-159">Microsoft pays you every month based on your earnings and the limits of your plan.</span></span> <span data-ttu-id="ad1e0-160">지급은 익월 15일에 이루어집니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-160">Payments are made on the 15th day of the following month.</span></span>
+## <a name="how-to-submit-a-plan"></a><span data-ttu-id="9da09-119">계획을 제출하는 방법</span><span class="sxs-lookup"><span data-stu-id="9da09-119">How to submit a plan</span></span>
 
-<span data-ttu-id="ad1e0-161">예를 들어 계획이 10,000달러로 승인되고 4월에 5,000달러의 실적을 올린 경우 5월 15일에 5,000달러를 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-161">For example, if your plan is approved for $10,000, and you earned $5,000 in the month of April, you will receive $5,000 on May 15th.</span></span>
+1. <span data-ttu-id="9da09-120">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-120">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
 
-<span data-ttu-id="ad1e0-162">동일한 계획에서 4월에 15,000달러의 실적을 올린 경우 계획 제한이 10,000달러이므로 5월 15일에 10,000달러를 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-162">Under that same plan, if you earn $15,000 in the month of April, you’ll receive $10,000 on May 15th because $10,000 was the limit for your plan.</span></span> <span data-ttu-id="ad1e0-163">더 많은 지급금을 받으려면 다음 달의 계획 제한을 올려야 합니다.</span><span class="sxs-lookup"><span data-stu-id="ad1e0-163">To receive more payment, you need to raise the limit of your plan for the next month.</span></span>
+2. <span data-ttu-id="9da09-121">왼쪽 탐색 창의 **인센티브**에서 **프로그램**을 선택한 다음, 해당 프로그램을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-121">Under **Incentives** in the left nav, select **Program**, and then select your program.</span></span> 
+
+3. <span data-ttu-id="9da09-122">**프로그램** 페이지에서 계획에 적합 한 시장을 찾은 다음 **계획 만들기**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-122">On the **Program** page, locate the appropriate market for your plan, and then select **Create plan**.</span></span> 
+
+4. <span data-ttu-id="9da09-123">**새 계획** 페이지에서 필수 필드를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-123">On the **New plan** page, complete the required fields.</span></span> <span data-ttu-id="9da09-124">**통화** 는 계획에 반영 하려는 값입니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-124">**Currency** is the value you want to have the plan reflect.</span></span> <span data-ttu-id="9da09-125">**검토자 전자 메일** 은 계정 관리자의 Microsoft 전자 메일 주소 여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-125">**Reviewer email** should be the Microsoft email address of your account manager.</span></span> <span data-ttu-id="9da09-126">MPN ID, 자금, 프로그램 및 기간별로 계획을 하나만 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-126">Note that only one plan can be created per MPN ID, fund, program, and period.</span></span> <span data-ttu-id="9da09-127">**저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-127">Select **Save**.</span></span>
+
+5. <span data-ttu-id="9da09-128">계획의 상태 페이지에서 표시된 정보를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-128">On the plan’s status page, review the information displayed.</span></span> <span data-ttu-id="9da09-129">**편집**을 선택하여 정보를 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-129">Select **Edit** to update any of the information.</span></span>
+
+6. <span data-ttu-id="9da09-130">이 페이지의 정보가 올바르면 **새 캠페인**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-130">When the information on this page is correct, select **New campaign**.</span></span>
+
+7. <span data-ttu-id="9da09-131">**새 캠페인** 페이지에서 필수 필드를 입력 하 고 **저장**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-131">Complete the required fields on the **New campaign** page, and then select **Save**.</span></span>
+
+8. <span data-ttu-id="9da09-132">상태 페이지에서 **새 활동**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-132">On the status page, select **New activity**.</span></span> 
+
+9. <span data-ttu-id="9da09-133">**새 활동** 페이지에서 필수 필드를 입력합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-133">On the **New activity** page, complete the required fields.</span></span> <span data-ttu-id="9da09-134">여러 개의 국가를 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-134">You can select multiple countries.</span></span> <span data-ttu-id="9da09-135">완료되면 **저장**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-135">When you’re finished, select **Save**.</span></span> 
+
+10. <span data-ttu-id="9da09-136">상태 페이지에서 정보를 다시 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-136">On the status page, review your information again.</span></span> <span data-ttu-id="9da09-137">계획을 제출한 후에는 편집할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-137">Once you submit a plan you cannot edit it.</span></span> <span data-ttu-id="9da09-138">완료되면 **제출**을 선택한 다음, **확인**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-138">When you’re finished, select **Submit**, and then select **Confirm**.</span></span>
+
+<span data-ttu-id="9da09-139">이제 계획이 제출되었습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-139">Your plan has now been submitted.</span></span> <span data-ttu-id="9da09-140">Microsoft는 계획이 승인되거나 추가 정보가 필요한 경우 인센티브 관리자에게 알립니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-140">Microsoft will notify your Incentive admin when it’s been approved or if we need additional information.</span></span> <span data-ttu-id="9da09-141">상태 페이지의 상태 창에서 계획의 진행 상태를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-141">You can view the plan’s progress in the Status window of the status page.</span></span>
+
+## <a name="view-the-status-of-your-plan"></a><span data-ttu-id="9da09-142">요금제 상태 보기</span><span class="sxs-lookup"><span data-stu-id="9da09-142">View the status of your plan</span></span>
+
+1. <span data-ttu-id="9da09-143">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-143">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+
+2. <span data-ttu-id="9da09-144">**인센티브** 페이지에서 **계획 관리**를 선택한 후 원하는 프로그램을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-144">On your **Incentives** page, select **Plan Management**, and then select the program you want.</span></span> <span data-ttu-id="9da09-145">상태 페이지가 열립니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-145">The status page will open.</span></span>
+
+3. <span data-ttu-id="9da09-146">**계획** 섹션에서 **상태** 열에 각 계획의 상태가 나열됩니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-146">In the **Plans** section, the status of each plan is listed in the **Status** column.</span></span>
+
+   <span data-ttu-id="9da09-147">다음은 공동 op 클레임 계획에 사용할 수 있는 다양 한 상태입니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-147">The following are the various possible statuses for your co-op claim plan.</span></span>
+
+   - <span data-ttu-id="9da09-148">제출됨</span><span class="sxs-lookup"><span data-stu-id="9da09-148">Submitted</span></span>
+   - <span data-ttu-id="9da09-149">검토 중</span><span class="sxs-lookup"><span data-stu-id="9da09-149">Under review</span></span>
+   - <span data-ttu-id="9da09-150">필요한 동작</span><span class="sxs-lookup"><span data-stu-id="9da09-150">Action required</span></span>
+   - <span data-ttu-id="9da09-151">편집 중</span><span class="sxs-lookup"><span data-stu-id="9da09-151">Editing</span></span>
+   - <span data-ttu-id="9da09-152">승인됨</span><span class="sxs-lookup"><span data-stu-id="9da09-152">Approved</span></span>
+   - <span data-ttu-id="9da09-153">거부됨</span><span class="sxs-lookup"><span data-stu-id="9da09-153">Rejected</span></span>
+
+## <a name="plan-submission-timelines"></a><span data-ttu-id="9da09-154">제출 일정 계획</span><span class="sxs-lookup"><span data-stu-id="9da09-154">Plan submission timelines</span></span>
+
+<span data-ttu-id="9da09-155">프로그램 연도의 마지막 날까지 계획을 만들고 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-155">You must create and submit your plan by the last day of the program year.</span></span> <span data-ttu-id="9da09-156">필요한 경우 그 이후 추가 90일에 대한 계획을 편집하고 다시 제출할 수 있지만 프로그램 연도 동안 계획을 만들고 처음 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-156">If necessary, you can edit and resubmit the plan for an additional 90 days after that, but the plan must be created and initially submitted during the program year.</span></span>
+
+>[!NOTE]
+> <span data-ttu-id="9da09-157">프로그램 년에 대 한 기금 유형별 요금제는 하나만 만들 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-157">You can only create one plan per fund type for a program year.</span></span>
+
+## <a name="plan-payments"></a><span data-ttu-id="9da09-158">계획 지급</span><span class="sxs-lookup"><span data-stu-id="9da09-158">Plan payments</span></span>
+
+<span data-ttu-id="9da09-159">Microsoft는 실적 및 계획의 한도를 기준으로 매월 지급금을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-159">Microsoft pays you every month based on your earnings and the limits of your plan.</span></span> <span data-ttu-id="9da09-160">지급은 익월 15일에 이루어집니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-160">Payments are made on the 15th day of the following month.</span></span>
+
+<span data-ttu-id="9da09-161">예를 들어 계획이 10,000달러로 승인되고 4월에 5,000달러의 실적을 올린 경우 5월 15일에 5,000달러를 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-161">For example, if your plan is approved for $10,000, and you earned $5,000 in the month of April, you will receive $5,000 on May 15th.</span></span>
+
+<span data-ttu-id="9da09-162">동일한 계획에서 4월에 15,000달러의 실적을 올린 경우 계획 제한이 10,000달러이므로 5월 15일에 10,000달러를 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-162">Under that same plan, if you earn $15,000 in the month of April, you’ll receive $10,000 on May 15th because $10,000 was the limit for your plan.</span></span> <span data-ttu-id="9da09-163">더 많은 지급금을 받으려면 다음 달의 계획 제한을 올려야 합니다.</span><span class="sxs-lookup"><span data-stu-id="9da09-163">To receive more payment, you need to raise the limit of your plan for the next month.</span></span>
