@@ -10,12 +10,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
+ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949386"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "86092357"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 혜택 보고서
 
@@ -42,7 +42,7 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
  > [!NOTE]
  > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요. 이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
 
-**요약**
+## <a name="summary"></a>요약
 
 요약 섹션에는 사용이 허가 된 소프트웨어, 클라우드 서비스 (비 Azure), Visual Studio 구독, 기술 지원, 특정 출시 전 서비스 또는 제품에 따라 부여 되는 혜택이 표시 됩니다.
 
@@ -50,20 +50,20 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="혜택 요약":::
 
-**클라우드 서비스 부여 됨**
+## <a name="cloud-services-granted"></a>클라우드 서비스 부여 됨
 
 이 차트에서는 선택한 클라우드 서비스에 대 한 라이선스 기반 구독에 대해 선택한 날짜 범위에 부여 된 라이선스의 월별 추세를 보여 줍니다.
 **서비스** 탭에서 클라우드 서비스를 선택 하 여 특정 클라우드 서비스에 대 한 차트를 볼 수 있습니다. 꺾은선형 그래프는 회사에 부여 된 전체 라이선스를 나타냅니다.
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="클라우드 서비스 부여 됨":::
 
-**소프트웨어 제품**
+## <a name="software-products"></a>소프트웨어 제품
 
 이 차트에서는 특정 소프트웨어 제품에 대해 선택한 날짜 범위에 부여 된 라이선스의 월별 추세를 보여 줍니다. 혜택으로 부여 된 특정 소프트웨어 제품의 추세를 보려면 차트 위쪽의 드롭다운 목록에서 소프트웨어 제품을 선택 합니다. 꺾은선형 그래프는 회사에 부여 된 전체 라이선스를 나타냅니다.
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="허가 된 소프트웨어 제품":::
 
-**Visual Studio 구독**
+## <a name="visual-studio-subscriptions"></a>Visual Studio 구독
 
 이 차트에서는 선택한 날짜 범위 동안 할당 된 구독에 대해 활성화 된 Visual Studio 구독의 월별 추세를 보여 줍니다.
 
@@ -71,7 +71,7 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio 구독":::
 
-**기술 혜택**
+## <a name="technical-benefits"></a>기술 혜택
 
 이 차트에서는 선택한 날짜 범위 동안 부여 된 지원 혜택의 월 추세를 보여 줍니다.
 
@@ -79,13 +79,13 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="기술적 이점":::
 
-**시장 출시 제안 또는 서비스**
+## <a name="go-to-market-offers-or-services"></a>시장 출시 제안 또는 서비스
 
 이 차트에서는 선택 된 날짜 범위 및 선택 된 시장 출시 제안 또는 서비스 범주에서 할당 되지 않도록 활성화 된 출시 간 제품 또는 서비스의 월간 추세를 보여 줍니다.
 
 차트 맨 위의 드롭다운 목록에서 시장 출시 제품 또는 서비스 범주를 선택 하 여 회사에 부여 된 선택 된 출시 전 서비스의 추세를 확인 합니다. 차트의 열은 시장 출시 제안 또는 활성화 된 서비스를 나타냅니다. 꺾은선형 그래프는 회사에 부여 된 전체 시장 출시 제품 또는 서비스를 나타냅니다.
 
-![시장 출시 제안](images/pci/pci-benefits-go-to-market-7.png)
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="시장 출시 제안":::
 
 ## <a name="next-steps"></a>다음 단계
 

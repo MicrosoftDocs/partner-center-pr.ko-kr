@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure AD 테넌트에 서비스 사용자를 추가하는 방법을 알아봅니다. 이렇게 하면 파트너 센터에서 Azure AD 애플리케이션(서비스 사용자)을 추가하는 것을 의미합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: dhirajgandhi
+ms.author: dhgandhi
 Keywords: Azure, Azure 플랜, 서비스 사용자, Azure AD 애플리케이션
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d37fe2134d02063819abeb89e2f1b6a63e0ba505
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: bd2880f57d1ccb3c3675fef4fae7499f7ac02f4b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679390"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949625"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>파트너 센터에서 Azure AD 애플리케이션(서비스 사용자) 추가
 

@@ -5,18 +5,18 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 관리형 서비스에 대해 Microsoft 파트너 획득 크레딧(PEC)을 계산하고 지불하는 방법과 자격을 갖추는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf398f5671484548cc879fac28aae9e83a9c470c
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 553d23fcd33f290d976f789657ee9ad71dbcae46
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679278"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949391"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 

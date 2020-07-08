@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 인센티브 협력 프로그램 내의 특정 유형의 활동에 대해 파트너 센터에서 인센티브 클레임을 제출하기 위한 요구 사항에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 keywords: 인센티브 클레임, 협력 클레임, 협력 펀드, 핵심 요구 사항
 ms.localizationpriority: high
-ms.openlocfilehash: 417e0d0c8f2afe64d1690ede154a952f7c0bf32c
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: ec231bf62c302f48cbdb66994433277c96e3f862
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776300"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947862"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>인센티브 협력 클레임을 위한 핵심 요구 사항
 

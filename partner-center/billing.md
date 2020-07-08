@@ -5,17 +5,17 @@ ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 청구 및 세금 항목에 대해 알아봅니다. 청구 리소스, 청구서, CSP 청구 및 세금에 대한 정보가 포함되어 있습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c29de1da1e3581e8aea02faa29ef1b804794b9c9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84990971"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948154"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>개요: 파트너 센터의 주요 청구 및 세금 문서
 
