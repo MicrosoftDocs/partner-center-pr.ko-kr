@@ -10,56 +10,54 @@ ms.author: dineshvu
 Keywords: 활동 로그, 구독, 지불, 청구, 거래
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06dc153dde88321556d7ff81da03264075ecc190
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947368"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175997"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a><span data-ttu-id="b9bb1-104">고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기</span><span class="sxs-lookup"><span data-stu-id="b9bb1-104">View or export customer activity logs for more insight into customer transactions</span></span>
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a><span data-ttu-id="744a6-104">고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기</span><span class="sxs-lookup"><span data-stu-id="744a6-104">View or export customer activity logs for more insight into customer transactions</span></span>
 
-<span data-ttu-id="b9bb1-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="b9bb1-105">**Applies to**</span></span>
+<span data-ttu-id="744a6-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="744a6-105">**Applies to**</span></span>
 
-- <span data-ttu-id="b9bb1-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="b9bb1-106">Partner Center</span></span>
-- <span data-ttu-id="b9bb1-107">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="b9bb1-107">Partner Center for Microsoft Cloud for US Government</span></span>
-- <span data-ttu-id="b9bb1-108">클라우드 솔루션 공급자 프로그램 파트너</span><span class="sxs-lookup"><span data-stu-id="b9bb1-108">Cloud Solution Provider program partners</span></span>
+- <span data-ttu-id="744a6-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="744a6-106">Partner Center</span></span>
+- <span data-ttu-id="744a6-107">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="744a6-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="744a6-108">클라우드 솔루션 공급자 프로그램 파트너</span><span class="sxs-lookup"><span data-stu-id="744a6-108">Cloud Solution Provider program partners</span></span>
 
-<span data-ttu-id="b9bb1-109">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="b9bb1-109">**Appropriate roles**</span></span>
+<span data-ttu-id="744a6-109">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="744a6-109">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="b9bb1-110">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="b9bb1-110">Global admin</span></span>
-- <span data-ttu-id="b9bb1-111">청구 관리자</span><span class="sxs-lookup"><span data-stu-id="b9bb1-111">Billing admin</span></span>
-- <span data-ttu-id="b9bb1-112">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="b9bb1-112">User management admin</span></span>
-- <span data-ttu-id="b9bb1-113">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="b9bb1-113">Admin agent</span></span>
-- <span data-ttu-id="b9bb1-114">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="b9bb1-114">Sales agent</span></span>
-- <span data-ttu-id="b9bb1-115">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="b9bb1-115">Helpdesk agent</span></span>
+- <span data-ttu-id="744a6-110">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="744a6-110">Global admin</span></span>
+- <span data-ttu-id="744a6-111">청구 관리자</span><span class="sxs-lookup"><span data-stu-id="744a6-111">Billing admin</span></span>
+- <span data-ttu-id="744a6-112">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="744a6-112">User management admin</span></span>
+- <span data-ttu-id="744a6-113">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="744a6-113">Admin agent</span></span>
+- <span data-ttu-id="744a6-114">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="744a6-114">Sales agent</span></span>
+- <span data-ttu-id="744a6-115">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="744a6-115">Helpdesk agent</span></span>
 
-<span data-ttu-id="b9bb1-116">활동 로그는 거래에 대 한 정보 및 고객에 대 한 파트너 관리 작업을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-116">Activity logs provide information on transactions and Partner management actions for customers.</span></span> <span data-ttu-id="b9bb1-117">트랜잭션에 대 한 로그는 구매한 구독을 포함 하 여 트랜잭션에 대 한 자세한 정보를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-117">Logs for transactions provide detailed information about the transaction, including purchased subscriptions.</span></span> <span data-ttu-id="b9bb1-118">활동 로그를 Excel과 호환 되는 쉼표로 구분 된 값 파일 형식 (.csv)으로 내보낼 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-118">You can also export activity logs to an Excel-compatible comma-separated value file format (.csv).</span></span>
+<span data-ttu-id="744a6-116">활동 로그는 거래에 대 한 정보 및 고객에 대 한 파트너 관리 작업을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-116">Activity logs provide information on transactions and Partner management actions for customers.</span></span> <span data-ttu-id="744a6-117">트랜잭션에 대 한 로그는 구매한 구독을 포함 하 여 트랜잭션에 대 한 자세한 정보를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-117">Logs for transactions provide detailed information about the transaction, including purchased subscriptions.</span></span> <span data-ttu-id="744a6-118">활동 로그를 Excel과 호환 되는 쉼표로 구분 된 값 파일 형식 (.csv)으로 내보낼 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-118">You can also export activity logs to an Excel-compatible comma-separated value file format (.csv).</span></span>
 
-<span data-ttu-id="b9bb1-119">활동 로그는 고객 계정 및 제품 트랜잭션에 대 한 파트너 작업 레코드를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-119">Activity logs provide records for Partner actions on customer accounts and product transactions.</span></span> <span data-ttu-id="b9bb1-120">활동 로그를 .csv 파일로 내보낼 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-120">You can also export activity logs to a .csv file.</span></span>
+<span data-ttu-id="744a6-119">활동 로그는 고객 계정 및 제품 트랜잭션에 대 한 파트너 작업 레코드를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-119">Activity logs provide records for Partner actions on customer accounts and product transactions.</span></span> <span data-ttu-id="744a6-120">활동 로그를 .csv 파일로 내보낼 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-120">You can also export activity logs to a .csv file.</span></span>
 
-<span data-ttu-id="b9bb1-121">**활동 로그 보기 및 내보내기**</span><span class="sxs-lookup"><span data-stu-id="b9bb1-121">**View and export activity logs**</span></span>
+## <a name="view-and-export-activity-logs"></a><span data-ttu-id="744a6-121">활동 로그 보기 및 내보내기</span><span class="sxs-lookup"><span data-stu-id="744a6-121">View and export activity logs</span></span>
 
-1. <span data-ttu-id="b9bb1-122">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-122">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="744a6-122">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-122">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="b9bb1-123">**계정 설정** 메뉴에서 **활동 로그**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-123">From the **Account settings** menu, select **Activity Log**.</span></span>
-2.  <span data-ttu-id="b9bb1-124">**시작** 및 **대상** 필드에서 활동 로그 기간을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-124">Select the activity log period in the **From** and **to** fields.</span></span> <span data-ttu-id="b9bb1-125">활동 로그 내보내기는 가장 최근 달로 기본 설정 됩니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-125">The activity log export defaults to the most recent month.</span></span>
+2. <span data-ttu-id="744a6-123">**계정 설정** 메뉴에서 **활동 로그**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-123">From the **Account settings** menu, select **Activity Log**.</span></span>
 
-    <span data-ttu-id="b9bb1-126">각 활동 로그는 나열 된 고객의 **구독** 페이지에 대 한 링크를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-126">Each activity log provides a link to the listed customer's **Subscriptions** page.</span></span>
+3. <span data-ttu-id="744a6-124">**시작** 및 **대상** 필드에서 활동 로그 기간을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-124">Select the activity log period in the **From** and **to** fields.</span></span> <span data-ttu-id="744a6-125">활동 로그 내보내기는 가장 최근 달로 기본 설정 됩니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-125">The activity log export defaults to the most recent month.</span></span>
 
-    <span data-ttu-id="b9bb1-127">활동 로그에 대 한 아래쪽 화살표를 선택 하 여 기록 된 액션에 대 한 세부 정보를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-127">Select a down arrow for any activity log to view details about a logged action.</span></span> <span data-ttu-id="b9bb1-128">단일 활동 로그에는 여러 제품의 정렬과 같은 상당한 양의 데이터가 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-128">A single activity log can show a significant amount of data, such as the ordering of multiple products.</span></span>
+   <span data-ttu-id="744a6-126">각 활동 로그는 나열 된 고객의 **구독** 페이지에 대 한 링크를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-126">Each activity log provides a link to the listed customer's **Subscriptions** page.</span></span>
 
-3.   <span data-ttu-id="b9bb1-129">로그의 데이터 열에는 다음 정보가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-129">The data columns of the log include the following:</span></span>
-    -   <span data-ttu-id="b9bb1-130">**날짜-시간**-작업의 날짜 및 시간</span><span class="sxs-lookup"><span data-stu-id="b9bb1-130">**Date-Time**-the date and time of the action;</span></span>
-    -   <span data-ttu-id="b9bb1-131">**영향을 받는 고객**-고객의 회사 이름</span><span class="sxs-lookup"><span data-stu-id="b9bb1-131">**Affected customer**—the customer's company name;</span></span>
-    -   <span data-ttu-id="b9bb1-132">**작업**—고객이 수행한 작업(예: “조회 생성”)</span><span class="sxs-lookup"><span data-stu-id="b9bb1-132">**Action**—the action taken by the customer such as "created a referral";</span></span>
-    -   <span data-ttu-id="b9bb1-133">**파트너 사용자**—활동과 연관된 파트너.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-133">**Partner user**—the partner associated with the activity.</span></span>
+   <span data-ttu-id="744a6-127">활동 로그에 대 한 아래쪽 화살표를 선택 하 여 기록 된 액션에 대 한 세부 정보를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-127">Select a down arrow for any activity log to view details about a logged action.</span></span> <span data-ttu-id="744a6-128">단일 활동 로그에는 여러 제품의 정렬과 같은 상당한 양의 데이터가 표시 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-128">A single activity log can show a significant amount of data, such as the ordering of multiple products.</span></span>
 
-4.  <span data-ttu-id="b9bb1-134">**로그 내보내기**를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다.</span><span class="sxs-lookup"><span data-stu-id="b9bb1-134">Select **Export log** to copy the customer's subscription data into a .csv file and download it to the default download folder on your computer.</span></span>
-    
- 
+4. <span data-ttu-id="744a6-129">로그의 데이터 열에는 다음 정보가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-129">The data columns of the log include the following:</span></span>
+   - <span data-ttu-id="744a6-130">**날짜-시간**-작업의 날짜 및 시간</span><span class="sxs-lookup"><span data-stu-id="744a6-130">**Date-Time**-the date and time of the action;</span></span>
+   - <span data-ttu-id="744a6-131">**영향을 받는 고객**-고객의 회사 이름</span><span class="sxs-lookup"><span data-stu-id="744a6-131">**Affected customer**—the customer's company name;</span></span>
+   - <span data-ttu-id="744a6-132">**작업**—고객이 수행한 작업(예: “조회 생성”)</span><span class="sxs-lookup"><span data-stu-id="744a6-132">**Action**—the action taken by the customer such as "created a referral";</span></span>
+   - <span data-ttu-id="744a6-133">**파트너 사용자**—활동과 연관된 파트너.</span><span class="sxs-lookup"><span data-stu-id="744a6-133">**Partner user**—the partner associated with the activity.</span></span>
 
- 
+5. <span data-ttu-id="744a6-134">**로그 내보내기**를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다.</span><span class="sxs-lookup"><span data-stu-id="744a6-134">Select **Export log** to copy the customer's subscription data into a .csv file and download it to the default download folder on your computer.</span></span>
 
+## <a name="next-steps"></a><span data-ttu-id="744a6-135">다음 단계</span><span class="sxs-lookup"><span data-stu-id="744a6-135">Next steps</span></span>
 
-
+- [<span data-ttu-id="744a6-136">비즈니스 의사 결정을 내리는 데 도움이 되는 구독 및 라이선스 분석</span><span class="sxs-lookup"><span data-stu-id="744a6-136">Analyze subscriptions and licenses to help drive business decisions</span></span>](analyze-subscriptions-licenses.md)
