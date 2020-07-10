@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907347"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175987"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>고객에 게 30 일간의 Microsoft 제품 무료 평가판 제공
 
@@ -37,18 +37,9 @@ ms.locfileid: "82907347"
 
 ### <a name="available-products"></a>사용 가능한 제품
 
-평가판은 다음 제품에 제공됩니다.
+무료 평가판은 가장 포괄적이 고 인기 있는 licesen 기반 제품에 사용할 수 있습니다. 새 평가판 제품은 월별로 도입 될 수 있습니다.
 
-- Microsoft 365 Business 표준
-- Office 365 E3
-- PSTN과 Office 365 E5
-- PSTN이 없는 Office 365 E5
-- Enterprise Mobility & 보안 E5
-- Dynamics 365 고객 참여 계획 1
-- Dynamics 365 Business Central
-- Microsoft 365 Business 프리미엄
-
-Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품의 평가판을 제공합니다. 앞으로 평가판 제품이 더 추가될 가능성이 있습니다.
+파트너는 파트너 센터의 **가격 책정 및 제품** 페이지에 있는 월간 가격 목록에서 평가판을 찾을 수 있습니다. 평가판 제품에는 가격 목록 **보조 라이선스 유형** 열에 "평가판"이 나열 됩니다.
 
 현재 정부 제품, 교육 제품 또는 추가 기능 제품에 대 한 **무료 평가판은 없습니다** .
 
@@ -56,11 +47,11 @@ Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품�
 
 모든 무료 평가판은 25 개의 라이선스를 제공 합니다. 이 번호는 평가판을 통해 변경할 수 없습니다. 무료 평가판에서 사용자를 추가 하거나 제거할 수 없습니다. 평가판을 유료 구독으로 변환한 후 구독에 라이선스를 더 추가할 수 있습니다.
 
-파트너 센터에서 유료 서비스를 사용할 때와 같은 방법으로 평가판 라이선스 및 사용자 수를 할당 해야 합니다.
+유료 서비스 라이선스가 할당 되는 것과 동일한 방식으로 평가판 라이선스 및 사용자 수를 사용자에 게 할당 해야 합니다.
 
 ## <a name="sign-customers-up-for-trials"></a>평가판을 위해 고객에 게 서명
 
-파트너 센터를 통해 고객에 게 평가판을 등록 하려면 다음을 수행 합니다.
+파트너 센터에서 고객에 대 한 평가판을 받으세요.
 
 1. 파트너 센터의 **판매** 에서 **카탈로그로**이동 합니다. 
 2. 카탈로그의 **청구 빈도**에서 **평가판 제품**을 클릭 합니다. 이를 통해 무료 평가판만 표시 하 고 무료로 제공 되는 다른 제품을 사용 하지 않도록 설정할 수 있습니다. 평가판이 카탈로그의 [ **평가판** ] 탭에 표시 됩니다.
@@ -77,12 +68,12 @@ Microsoft는 가장 광범위하게 인기를 끌고 있는 비즈니스 제품�
 
 ### <a name="convert-trials-using-partner-center"></a>파트너 센터를 사용 하 여 평가판 변환
 
-다음과 같이 파트너 센터 대시보드를 사용 하 여 평가판을 유료 구독으로 변환할 수 있습니다.
+파트너 센터를 사용 하 여 평가판을 유료 구독으로 변환할 수 있습니다.
 
 1. 고객의 구독 페이지로 이동 하 여 무료 평가판을 선택 합니다.
 2. **평가판을 유료 구독으로 변환을**선택 합니다.
 3. 원하는 라이선스 수량 및 청구 빈도를 입력 하 고 **적용**을 선택 합니다.
-4. 유료 구독에 대 한 청구는 변환 날짜에 시작 되 고 구독은 변환 날짜 로부터 12 개월 후에 자동 갱신 됩니다. 
+4. 유료 구독에 대 한 청구는 변환 날짜에 시작 되 고 구독은 12 개월 autorenews 변환 날짜에 시작 됩니다. 
 
 ### <a name="convert-trials-using-apis"></a>Api를 사용 하 여 평가판 변환
 

@@ -1,7 +1,7 @@
 ---
-title: 최대 예약 사용에 대 한 Microsoft Azure VM 크기 조정 | 파트너 센터
+title: 최대 예약 사용량에 대 한 Azure VM 크기 조정
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: VM에 대 한 Microsoft Azure 예약을 구매할 때 고객의 컴퓨팅 요구에 따라 VM (가상 머신)의 크기를 조정 하는 방법을 알아봅니다.
@@ -9,28 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453280"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175905"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용에 대한 Microsoft Azure VM 크기 조정
 
 **적용 대상**
 
 - 파트너 센터
-- Azure portal
+- Azure Portal
 - CSP의 파트너
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>고객의 Azure 예약에 대 한 VM 크기 결정 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>고객의 Azure 예약에 대 한 VM 크기 결정
 
 고객을 대신 하 여 Microsoft Azure 예약을 구입 하는 경우 고객의 컴퓨팅 요구에 맞게 VM (가상 머신) 크기를 선택 해야 합니다. 다음 방법 중 하나를 사용 하 여이 정보를 찾을 수 있습니다.
 
 - Azure 사용률 API
-- Azure Portal
+- Azure 포털
 - Azure PowerShell
 - ARM (Azure Resource Manager) API
 
@@ -42,27 +42,31 @@ ms.locfileid: "84453280"
 >[!IMPORTANT]
 >고객을 대신 하 여 구매할 VM의 유형과 크기를 올바르게 식별 하려면 파트너 센터 조정 파일에 VM 시리즈 유형이 올바르게 표시 되지 않으므로 아래 설명 된 방법 중 하나를 사용 해야 합니다.
 
-**Azure 사용률 API를 사용 하 여 VM 크기 정보 가져오기**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Azure 사용률 API를 사용 하 여 VM 크기 정보 가져오기
 
 1. API 응답에서 additionalInfo의 ServiceType 특성에 대 한 값을 사용 하 여 구매할 VM 크기를 식별 합니다.
+
 2. 자세한 내용은 [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/)에서 [Azure에 대 한 고객의 사용률 레코드 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) 를 참조 하세요.
 
-**Microsoft Azure portal를 사용 하 여 VM 크기 정보 가져오기**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Microsoft Azure portal를 사용 하 여 VM 크기 정보 가져오기
 
 1. 파트너 센터에서 **고객** 페이지로 이동 합니다.
+
 2. Azure VM 예약을 구입 하려는 고객을 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 정보를 확장 합니다. **Microsoft Azure 관리 포털** 를 선택 하 여 Azure Portal에서 고객의 레코드를 엽니다.
+
 3. 포털 메뉴에서 **Virtual machines** 를 선택 하 고 예약을 구입할 VM을 선택 합니다.
+
 4. VM의 세부 정보 페이지에서 아래 그림과 같이 크기 및 지역 정보를 확인 하 고이 정보를 사용 하 여 파트너 센터에서 예약을 구매 합니다.  
 
-    :::image type="content" source="images/usage1.png" alt-text="세부 정보 페이지의 크기 및 지역 정보":::
+   :::image type="content" source="images/usage1.png" alt-text="세부 정보 페이지의 크기 및 지역 정보":::
 
-**Microsoft Azure PowerShell를 사용 하 여 VM 크기 정보 가져오기**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Microsoft Azure PowerShell를 사용 하 여 VM 크기 정보 가져오기
 
 아래 이미지의 정보를 사용 하 여 예약을 구매 하려는 VM의 위치 및 크기를 가져옵니다. 
 
 :::image type="content" source="images/usage2.png" alt-text="VM 위치 및 크기":::
 
-**ARM (Azure Resource Manager) API를 사용 하 여 VM 크기 정보 가져오기**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>ARM (Azure Resource Manager) API를 사용 하 여 VM 크기 정보 가져오기
 
 1. ARMClient 또는 ARM Api를 사용 하 여 예약을 구매 하려는 VM에 대 한 ARM 클라이언트를 호출 합니다.
 
@@ -100,7 +104,7 @@ ms.locfileid: "84453280"
 
     a. 예약의 사용률이 100% 인 경우 고객은 예약 구매가 제공할 수 있는 모든 절감 액을 얻을 수 있습니다.
     b. 예약의 사용량이 0% 이면 모든 가상 머신에 할인이 적용 되지 않습니다.
-    다. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
+    c. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
 
 5. 이러한 상황을 방지 하려면 구매를 수행 하기 전에 고객의 컴퓨팅 요구를 지원 하도록 올바른 크기의 VM을 결정 합니다.
 

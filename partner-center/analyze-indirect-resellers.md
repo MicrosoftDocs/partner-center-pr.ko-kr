@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 분석을 사용 하 여 간접 재판매인이 수행 하는 작업을 파악 하 고, 성공 및 영역에서 더 많은 주의가 필요할 수 있습니다.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947418"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175970"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>분석을 사용 하 여 간접 대리점의 성능 분석
 
@@ -35,6 +35,8 @@ ms.locfileid: "85947418"
 
 > [!NOTE]
 > 간접 대리점 분석은 클라우드 솔루션 공급자 프로그램의 파트너에 대해서만 사용할 수 있습니다.
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>볼 수 있는 재판매인 분석 메트릭 유형
 
 다음 메트릭을 추적 합니다.
 
@@ -69,4 +71,6 @@ ms.locfileid: "85947418"
  - **구독**: 재판매인이 판매한 구독 수  
  - **라이선스**: 재판매인이 모든 구독에서 판매 하는 총 라이선스 수  
   
-  
+## <a name="next-steps"></a>다음 단계
+
+- [비즈니스 의사 결정을 내리는 데 도움이 되는 구독 및 라이선스 분석](analyze-subscriptions-licenses.md)

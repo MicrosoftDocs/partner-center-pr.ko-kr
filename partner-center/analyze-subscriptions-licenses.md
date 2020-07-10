@@ -1,23 +1,23 @@
 ---
-title: 구독 및 라이선스 분석 | 파트너 센터
-ms.date: 11/13/2019
+title: 구독 및 라이선스 분석
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 구독 및 라이선스 분석 페이지에서 메트릭을 사용 하 여 주의가 필요한 성공 및 영역을 확인 하는 방법을 알아봅니다.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948584"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175958"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>구독 및 라이선스 분석 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>비즈니스 결정과 새로운 목표를 추진 하는 데 도움이 되는 구독 및 라이선스 분석
 
 **적용 대상**
 
@@ -44,6 +44,8 @@ ms.locfileid: "85948584"
  - **Microsoft 365**: Microsoft 365 데이터  
  - **Office 365**: office 365 데이터  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>볼 수 있는 구독 및 라이선스 메트릭의 유형
 
 다음 메트릭을 추적 합니다.
 
@@ -77,4 +79,6 @@ ms.locfileid: "85948584"
 **30 일 후에 종료 되는 평가판 구독**  
  - 시작 된 평가판 목록 (종료 날짜가 30 일 이내 이며 구독과 관련 된 유료 시작 날짜가 없음)  
 
-  
+## <a name="next-steps"></a>다음 단계
+
+- [간접 대리점의 성능 분석](analyze-indirect-resellers.md)
