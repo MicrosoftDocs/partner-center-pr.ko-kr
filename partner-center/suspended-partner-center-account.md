@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 일시 중단 된 파트너 센터 계정을 복원 하는 방법, 파트너 계정 일시 중단이 발생 하는 이유 및 일시 중단 하는 동안 계정을 사용 하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991803"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219651"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>일시 중단 된 파트너 센터 계정 복원-발생 하는 이유와 그에 대해 수행할 작업을 알아봅니다.
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>일시 중단된 파트너 센터 계정 복원 - 일시 중단의 원인 및 해결 방법 알아보기
 
 이 문서에서는 파트너 센터 계정이 일시 중단되었을 때 무엇을 해야 하는지 설명합니다.
 
@@ -27,7 +27,7 @@ ms.locfileid: "84991803"
 
 
 > [!IMPORTANT]  
-> 파트너 센터 계정이 일시 중단 된 동안에는 기존 배포, 라이선스 및 서비스를 계속 관리할 수 있습니다. 그러나 계정이 다시 적합 한 상태가 될 때까지 새 라이선스 또는 서비스를 승인 하거나 재판매 수 없습니다.
+> 파트너 센터 계정이 일시 중단된 동안 기존 배포, 라이선스 및 서비스를 계속 관리할 수 있습니다. 그러나 계정이 다시 양호한 상태가 될 때까지 새 라이선스 또는 서비스를 승인하거나 재판매할 수 없습니다.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>파트너 센터 계정이 일시 중지되는 원인
 

@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램 파트너가 고객을 제공할 수 있는 기술 지원의 유형에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: e6562778e9b3be1ddeaac1c3cfbe5bc1e82a268a
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992052"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219571"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>고객이 구독을 구성, 관리 및 사용 하는 데 도움이 되는 기술 지원을 제공 합니다.
 
@@ -24,7 +24,7 @@ ms.locfileid: "84992052"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 기술 지원팀 상담원
 - 관리 에이전트

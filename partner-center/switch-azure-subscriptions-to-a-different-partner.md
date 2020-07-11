@@ -1,21 +1,20 @@
 ---
 title: Azure 구독을 다른 파트너로 이전
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객이 해당 고객의 Azure 구독과 연결 된 CSP 프로그램 파트너를 변경 하는 데 도움을 주는 방법에 대해 알아봅니다.
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: azure 구독, 파트너 전환, 파트너 변경, 새 파트너 가져오기, 다른 파트너
+description: 고객의 Azure 구독과 연결 된 클라우드 솔루션 공급자 프로그램 파트너를 변경 하는 방법에 대해 알아봅니다.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949092"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237973"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에 게 고객의 Azure 구독을 전송 하는 방법을 알아봅니다.
 
@@ -52,9 +51,9 @@ ms.locfileid: "85949092"
 
      2 단계에서 **C-최소 영향** 을 선택 하 고 문제 유형으로 **다른 일반적인 질문** 을 선택 합니다.
 
-     [CSP 구독 이전 양식](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)을 다운로드합니다.
+     [CSP 구독 이전 양식](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)을 다운로드합니다.
 
-3. 구독에 대 한 파트너: [CSP 구독 전송 양식을](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)입력 하 고 서명한 다음 고객에 게 보냅니다. 양식을 작성 하려면 다음 정보가 필요 합니다.
+3. 구독에 대 한 파트너: [CSP 구독 전송 양식을](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)입력 하 고 서명한 다음 고객에 게 보냅니다. 양식을 작성 하려면 다음 정보가 필요 합니다.
 
    - 현재 파트너의 연락처 정보 및 Microsoft ID입니다. 파트너 센터 메뉴에서 **계정 설정** &gt; **조직 프로필**을 선택 하 고 여기에 나열 된 **Microsoft ID**, **조직 이름**및 **주소** 를 사용 합니다.
 

@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft에서 고객의 통신이 클라우드 솔루션 공급자 프로그램의 고객과 파트너 사이에서 발생 하는 방식을 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 keywords: 통신, 고객 통신, Microsoft와의 통신
 ms.localizationpriority: medium
-ms.openlocfilehash: ba4a6da83678b4238a0c7ecc5836f875a3674277
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 60d0d2e5f46700de017e78684f0b8e18f91368b3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991357"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219521"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft의 고객 커뮤니케이션
 

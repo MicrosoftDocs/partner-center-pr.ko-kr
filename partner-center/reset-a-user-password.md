@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 사용자 암호를 재설정 하는 방법을 알아봅니다. 사용자는 다음에 파트너 센터에 로그인 할 때 임시 암호를 받게 됩니다.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84ba4806e1241fd8857e39f8c47f5391f316393b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9174b8caaed8f49d40b3f599fc3264ebd36bd937
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991998"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265223"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>파트너 센터에서 사용자의 암호 재설정
 

@@ -5,17 +5,17 @@ ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 CPV (제어판 공급 업체)로 등록 하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 keywords: 제어판 공급 업체, CPV 앱 등록, CPV 앱 관리
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26fb6677b04a9cfa801e7f9ad508c47df0ac574
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 819c814333878efc882749a1597e993eb9002545
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795190"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219611"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>CSP 파트너 시스템을 파트너 센터 Api와 통합 하는 데 도움이 되는 제어판 공급 업체로 등록
 

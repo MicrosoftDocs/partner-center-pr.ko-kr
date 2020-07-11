@@ -2,16 +2,16 @@
 title: 파트너 계정을 다른 파트너 계정과 병합
 description: 파트너 센터에서 활성 Microsoft 파트너가 되는 회사는 자신의 계정을 병합할 수 있습니다.
 ms.topic: article
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909038"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265206"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
