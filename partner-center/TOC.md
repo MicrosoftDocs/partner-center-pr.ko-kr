@@ -21,7 +21,7 @@
 ## [역량](learn-about-competencies.md)
 ## [고급 전문 분야](advanced-specializations.md)
 ## [Azure Expert Managed Service Provider 프로그램](azure-expert-msp.md)
-## 장점
+## 이점
 ### [혜택 개요](manage-your-partner-network-benefits.md)
 ### [출시 혜택](mpn-learn-about-go-to-market-benefits.md)
 ### [혜택 FAQ](benefits-faq.md)
@@ -86,7 +86,7 @@
 
 # [비즈니스 확장](grow-your-business.md)
 ## [추천 개요](referrals.md)
-### [조회 응답](responding-to-referrals.md)
+### [추천에 응답](responding-to-referrals.md)
 ### [비즈니스 프로필 관리](create-a-marketing-profile.md)
 ### [잠재 고객 관리](manage-leads.md)
 ### [공동 판매 기회 관리](manage-co-sell-opportunities.md)
@@ -252,6 +252,4 @@
 ## [개요](partner-security-requirements.md)
 ## [파트너 테넌트 사용자를 대상으로 MFA 의무화](partner-security-requirements-mandating-mfa.md) 
 ## [요구 사항 상태](partner-security-compliance.md)
-## [파트너 보안 요구 사항 구현](implement-security-requirements.md)
 ## [질문과 대답](partner-security-requirements-faq.md)
-
