@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362761"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879352"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
 
@@ -196,6 +196,24 @@ CSP를 처음 사용하는 경우 프로그램에서 간접 재판매인으로 �
 4. 고객이 사용자 및 사용자의 공급자를 자신의 재판매인으로 정식으로 인정한 후에는 고객을 대신하여 고객의 구독, 라이선스 및 사용자를 관리할 수 있는 관리자 권한이 부여됩니다. 또한 간접 공급자도 고객을 대신하여 주문을 제출할 수 있습니다.
 
 5. 고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.
+
+## <a name="remove-a-relationship-with-a-customer"></a>재판매인 또는 고객과의 관계 제거
+
+고객과의 관계를 제거하려면 다음 단계를 완료합니다.
+
+1.  파트너 센터에서 **고객**으로 이동하고 관계를 제거할 고객을 선택합니다.
+
+2.  **계정**을 선택하세요.
+
+3.  **파트너 고객 관계 제거**를 선택하세요.
+
+4.  해당 고객은 더 이상 고객 목록에 표시되지 않습니다.
+
+>[!IMPORTANT]
+>고객과 관계를 설정하고 해당 관계를 제거해도 부여된 모든 위임된 관리자 권한은 변경되지 않습니다.
+>귀하는 고객과의 관계를 중단하기로 한 결정이 선의로, 합법적인 사업 목적으로, 고객 또는 파트너와의 계약에 따라 이루어졌으며, 귀하는 타사 클레임으로부터 Microsoft를 보호하고 피해가 발생하지 않도록 하는 데 동의합니다.
+>계약에 필요한 경우 고객 또는 파트너에게 계약 종료의 법적 고지 사항을 제공해야 합니다. 이 도구는 고객 또는 파트너에게 알림을 생성하지 않습니다.
+
 
 ## <a name="next-steps"></a>다음 단계
 

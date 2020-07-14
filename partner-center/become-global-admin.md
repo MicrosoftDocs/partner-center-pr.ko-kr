@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 작업하려면 먼저 도메인의 소유권을 확인해야 합니다. 이 작업을 수행하는 방법과 사용자를 추가할 수 있는 글로벌 관리자가 되는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: 도메인, 도메인 확인, 글로벌 관리자, 사용자 역할, 사용 권한
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908257"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948234"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
 
@@ -36,7 +36,7 @@ ms.locfileid: "82908257"
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>파트너 센터에서 도메인 소유권 확인하고 글로벌 관리자 되기
 
-1. 파트너 센터의 **멤버십 서비스** 페이지에서 **글로벌 관리자 되기**를 선택합니다. 
+1. 파트너 센터 대시보드의 **멤버십 서비스** 페이지에서 **전역 관리자 되기**를 선택합니다. 
 
 2. **도메인 소유권 확인** 페이지에서 테이블의 TXT 값을 복사합니다. 도메인이 이미 선택되어 있습니다.
 
@@ -52,7 +52,7 @@ ms.locfileid: "82908257"
 
 - 전체 권한으로 모든 Microsoft 계정/서비스에 액세스할 수 있음 
 - 파트너 센터에 대한 지원 티켓 만들기
-- 계약, 가격표 및 제품 보기
+- 계약, 가격 목록 및 제품 보기
 - 청구
 - 파트너 사용자 보기, 생성 및 관리
 - 클라우드 서비스 구입 및 관리
