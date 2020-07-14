@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 조회를 Salesforce CRM과 동기화
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991619"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302380"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
@@ -28,7 +28,7 @@ ms.locfileid: "84991619"
 
 ## <a name="before-you-install---pre-requisites"></a>설치 전-필수 구성 요소
 
-|**에서는**   |**세부 정보**   |**링크만**   |
+|**토픽**   |**세부 정보**   |**링크**   |
 |--------------|--------------------|------|
 |Microsoft 파트너 네트워크 ID |유효한 MPN ID가 필요 합니다.|[MPN](https://partner.microsoft.com/) 에 조인 하려면|
 |공동 판매 준비|I p/서비스 솔루션은 공동 판매 준비를 해야 합니다.|[Microsoft와 판매](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -226,7 +226,7 @@ Salesforce CRM 관리자 사용자는 별도의 CRM 섹션을 만들어야 합�
 
 3. 왼쪽 탐색에서 **필드 & 관계** 선택
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="필드":::
 
 4. **필드 & 관계** 테이블에 다음 필드를 추가 합니다.
 

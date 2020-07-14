@@ -4,18 +4,18 @@ ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터를 사용 하 여 고객의 Azure 구독 사용에 대 한 데이터를 가져오는 방법에 대해 알아봅니다.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e545f8d49f6b852c050e84f2123cbf08d2b6757d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: dad5474c9ff2dd92372ca51f0a00d67012be9247
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947358"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302350"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>고객과 Azure 구독이 얼마나 잘 작동 하는지에 대 한 데이터 가져오기
 

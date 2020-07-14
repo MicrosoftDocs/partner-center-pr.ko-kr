@@ -1,21 +1,21 @@
 ---
-title: 조회에 응답
+title: 조회 응답
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 정규화 된 Microsoft 파트너가 조회에 응답 하 고, 새, 기존 및 보관 된 조회를 관리 하 고, 나중에 더 많은 조회를 받을 수 있는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65d9629f610e3b6e145c348eebf6c197f3583318
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467273"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302250"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>조회에 응답 하 고 잠재적인 비즈니스 잠재 고객 확보
 

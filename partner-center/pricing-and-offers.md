@@ -1,7 +1,7 @@
 ---
 title: 가격 책정 및 제품
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365, Microsoft Dynamics CRM, Enterprise Mobility Suite 및 Azure와 같은 사용량 기반 서비스와 같은 라이선스 기반 서비스에 대 한 현재 가격 목록을 참조 하세요.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949338"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286631"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -42,7 +42,7 @@ ms.locfileid: "85949338"
 - **Marketplace** 에는 Microsoft의 상용 MARKETPLACE의 ISV 솔루션에 대 한 가격이 포함 됩니다. 가격은 시장에 따라 검색 됩니다. 이러한 파일의 데이터는 매일 새로 고쳐집니다.
 
 > [!Note] 
-> Transact-sql 기능이 있는 CSP 파트너만 가격 목록을 보고 다운로드할 수 있습니다. 간접 대리점은 요금에 대 한 세부 정보를 요청 하려면 [CSP 공급자에 게 문의]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) 해야 합니다.
+> Transact-sql 기능이 있는 CSP 파트너만 가격 목록을 보고 다운로드할 수 있습니다. 간접 대리점은 요금에 대 한 세부 정보를 요청 하려면 [CSP 공급자에 게 문의]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) 해야 합니다.
 
 ## <a name="price-list-preview-and-change-frequency"></a>가격 목록 미리 보기 및 변경 빈도 
 
@@ -157,7 +157,7 @@ Azure 예약은 특정 리소스 종류-Virtual Machines에 대 한 용어 기�
 
 Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 제품을 구매한 후에는 Office 365 A1 추가 기능을 사용할 수 있습니다. 
 
-|**제안 이름**   |**제품 ID**   |**Type**|
+|**제품 이름**   |**제품 ID**   |**형식**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|기본 제안|
 |교직원 용 Office 365 A1 (장치용)|0757d14e-7c57-456f-8dab-47d164f2ff1f|추가 기능|
@@ -185,7 +185,7 @@ Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 �
 |Azure 요금제 사용량 기반  |가격은 가격 책정 시트에서 할인 되지 않습니다.  |
 |Azure 계획 예약  |Azure 예약 공유 서비스 가격 목록 참조  |
 |소프트웨어 구독  |소프트웨어 구독 가격 목록에 MSRP로 나열 됨  |
-|마켓플레이스  |Marketplace 가격 목록에 MSRP로 나열 됨  |
+|Marketplace  |Marketplace 가격 목록에 MSRP로 나열 됨  |
 
 추가 리소스: 
 
