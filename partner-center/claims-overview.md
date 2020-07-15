@@ -1,20 +1,21 @@
 ---
-title: 공동 op 클레임 성과급 | 파트너 센터
+title: 인센티브 협업 클레임
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 작업 계획을 검토 하기 위한 필수 구성 요소 없이 성과급 클레임을 제출 하는 방법에 대해 알아봅니다.
+description: 적절 한 설명서, 송장, 문 및 실행 증명을 구성 하 여 원활한 공동 op 클레임을 전송 하는 방법을 알아봅니다.
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948090"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377637"
 ---
 # <a name="incentives-co-op-claims-overview"></a>인센티브 협조적 클레임 개요
 

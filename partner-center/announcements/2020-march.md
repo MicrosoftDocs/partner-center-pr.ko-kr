@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678930"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286621"
 ---
 # <a name="march-2020-announcements"></a>2020년 3월 공지
 
@@ -118,7 +118,7 @@ Microsoft는 2018년 8월 31일을 기준으로 CSP(클라우드 솔루션 공�
 
 **질문이 있으세요?**
 
-질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
 
 _________________
 
@@ -148,7 +148,7 @@ Microsoft는 2020년 4월 1일에 새로운 엔트리 레벨 SKU를 도입하고
 
 **새로운 엔트리 레벨 SKU:** 새로운 엔트리 레벨 SKU는 Microsoft 365 F1로 이름이 바뀌고 일선 직원에게 맞춤형 가치를 제공하고 모든 작업자에게 확장된 보안 및 ID 값을 제공합니다. 이 제품에는 Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 및 Office Web/Mobile Apps에 대한 읽기 전용 액세스 권한이 포함됩니다.
 
-이 변경 사항은 일선 직원에게 더 큰 가치를 제공하고 파트너가 상당한 사용자 성장 기회를 이용할 수 있게 해줍니다. **가치 제안 및 다음 단계에 대해 자세히 알아보려면 [여기](http:/resources/collection/Microsoft-365-firstline-offer-updates#/)에서 추가 문서를 확인하세요.**
+이 변경 사항은 일선 직원에게 더 큰 가치를 제공하고 파트너가 상당한 사용자 성장 기회를 이용할 수 있게 해줍니다. **가치 제안 및 다음 단계에 대해 자세히 알아보려면 [여기](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates)에서 추가 문서를 확인하세요.**
 
 |**타임라인 변경**|**변경**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ Microsoft는 2020년 4월 1일부터 Dynamics Business Central Online, Dynamics 
 - 자사 RPA(로봇 프로세스 자동화) 제품
 - RPA 제품용 새 봇 제품
 
-구체적인 변경 사항은 [여기](https://partner.microsoft.com/en-us/pcv/.)에서 "Dynamics CSP Offer Updates–Mar 2020" 파일을 참조하세요.
+구체적인 변경 사항은 [여기](https://partner.microsoft.com/pcv/.)에서 "Dynamics CSP Offer Updates–Mar 2020" 파일을 참조하세요.
 
 ### <a name="additional-resources"></a>추가 리소스:
 
@@ -367,7 +367,7 @@ Microsoft는 MDATP(Microsoft Defender Advanced Threat Protection)에서 Windows 
 
 **질문이 있으세요?**
 
-Microsoft와의 작업과 관련한 질문이 있는 경우 파트너 대시보드(https://partner.microsoft.com/en-us/pcv/servicerequests/create )를 통해 고객 지원팀에 문의하세요.
+Microsoft와의 작업과 관련한 질문이 있는 경우 파트너 대시보드(https://partner.microsoft.com/pcv/servicerequests/create )를 통해 고객 지원팀에 문의하세요.
 
 ### <a name="change-log"></a>로그 변경
 

@@ -4,18 +4,18 @@ description: 첫 번째 단계, 보안 예방 조치 및 시작 방법을 포함
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.custom: SEOAPR.20
 Keywords: Azure, Azure 플랜, 구독 구입, 구독
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 828c33f1d7182c9eff81930126efa7c795fa3b49
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 08d5048fdfb2a6032ee2e5ec8f0417a106fbf5c7
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948412"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390410"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure 요금제로 종량제 요금 사용 시작
 

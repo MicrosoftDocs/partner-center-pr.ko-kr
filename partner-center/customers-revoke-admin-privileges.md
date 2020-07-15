@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객의 서비스 또는 구독을 대신 관리하는 데 필요한 권한을 얻습니다. 권한 부여, 해지 및 관리 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: 위임된 관리자 권한, 대신 관리, 권한 제거, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198601"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377437"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
 
@@ -34,7 +34,7 @@ ms.locfileid: "85198601"
 
 1.  **고객**을 선택한 다음, **재판매인 관계 요청**을 선택합니다.
 
-2.  다음 페이지에서 임시 이메일 메시지를 검토합니다. 기본 이메일 애플리케이션에서 임시 메시지를 열거나 클립보드에 메시지를 복사한 후 이메일에 붙여넣을 수 있습니다. 
+2.  다음 페이지에서 임시 이메일 메시지를 검토합니다. 기본 이메일 애플리케이션에서 초안 메시지를 열거나 메시지를 클립보드에 복사하여 이메일에 붙여넣을 수 있습니다. 
 
     >[!IMPORTANT]
     >이메일에서 텍스트를 편집할 수 있지만, 이메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하는 맞춤형 링크입니다. 

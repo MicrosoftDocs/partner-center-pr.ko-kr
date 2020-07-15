@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 계약을 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 계약을 확인 하는 방법을 알아봅니다.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948058"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390560"
 ---
 # <a name="co-sell-with-microsoft"></a>Microsoft와 공동 판매
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948058"
 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 이러한 공동 작업을 통해 시장에 대 한 솔루션을 사용 하 고, 공동 수익을 추진 하 고, 고객의 성공을 보장 합니다.
 
 > [!IMPORTANT]
-> Microsoft와 공동 판매 하려면 파트너가 상업적으로 사용할 수 있는 솔루션, 참여 하는 영업 팀 및 강력한 시장 출시 전략이 필요 합니다. 또한 특정 추가 조건을 충족 해야 합니다. 자세한 내용은 [공동 판매 준비](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)를 참조 하세요.
+> Microsoft와 공동 판매하려면 파트너에게 상용 솔루션, 참여하는 영업 팀 및 강력한 시장 출시 전략이 필요합니다. 또한 특정 추가 조건을 충족해야 합니다. 자세한 내용은 [공동 판매 준비](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)를 참조 하세요.
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Microsoft에 engagement 공동 작업을 위해 초대
 

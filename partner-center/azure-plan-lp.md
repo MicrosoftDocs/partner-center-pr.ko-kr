@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜 - 종량제 요금으로 Azure 구입
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객을 위한 종량제 요금으로 Azure 서비스를 구입하는 Azure 플랜 상거래 환경에 대해 알아봅니다. 새 보안 요구 사항에 대해서도 알아봅니다.
@@ -11,12 +11,12 @@ Keywords: Azure, Azure 플랜, 구독 구입, 구독
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c2638aea520500d6007495281226078a8acf7701
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948424"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286591"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>소개: 파트너가 Azure 플랜을 통해 고객을 위한 종량제 요금으로 Azure 구매 가능
 
@@ -44,9 +44,5 @@ Microsoft는 파트너 센터에서 새로운 상거래 환경인 Azure 플랜�
 |Azure 플랜에 따른 고객의 구독 및 리소스 관리|[Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)|
 |Azure 플랜 가격표를 참조하는 방법 알아보기   |[Azure 플랜 가격표 설명](azure-plan-price-list.md)|
 |Azure 플랜을 사용할 수 있는 위치|[Azure 플랜을 사용할 수 있는 국가/지역의 전체 목록](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|파트너 획득 크레딧 계산 방법을 확인하려면 파트너 센터 대시보드 가격표에 로그인해야 함|[파트너 센터 대시보드](https://partner.microsoft.com/en-us/dashboard/home)|
-|Azure 플랜에 따른 요금 청구|[Azure 청구](azure-plan-billing.md)| 
-
-
-
-
+|파트너 획득 크레딧 계산 방법을 확인하려면 파트너 센터 대시보드 가격표에 로그인해야 함|[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/home)|
+|Azure 플랜에 따른 요금 청구|[Azure 청구](azure-plan-billing.md)|

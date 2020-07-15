@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객이 30 일간 Microsoft 구독 제품을 사용해 볼 수 있습니다. 다른 많은 온라인 서비스와 마찬가지로 카탈로그에서 이러한 무료 평가판에 등록 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175987"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377777"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>고객에 게 30 일간의 Microsoft 제품 무료 평가판 제공
 
@@ -99,7 +99,7 @@ ms.locfileid: "86175987"
 
 평가판이 만료 된 후 해당 평가판에 로그인을 시도 하는 고객에 게는 만료 메시지가 표시 됩니다. 그러나 데이터는 데이터 보존 표준에 맞게 저장 됩니다. 동일한 서비스 계획을 사용 하 여 새 구독을 구매한 후 새로 활성화 된 구독에서 다시 고객의 정보에 액세스할 수 있습니다.
 
-## <a name="billing"></a>결제
+## <a name="billing"></a>청구
 
 연간 청구 및 무료 평가판은 소 버린 클라우드 및 공용 클라우드에서 동일 합니다. 유일한 차이점은 시작할 때 사용할 수 있는 평가판 Sku입니다.
 
@@ -117,6 +117,6 @@ ms.locfileid: "86175987"
 
 무료 평가판은 성과급에 영향을 주지 않습니다.
 
-## <a name="support"></a>지원
+## <a name="support"></a>고객 지원팀
 
 무료 평가판에 대 한 지원은 파트너 센터를 통해 서비스 요청을 제출 합니다.

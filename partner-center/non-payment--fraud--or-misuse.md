@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 온라인 트랜잭션과 관련 된 다양 한 위험과 이러한 위험을 관리 하 고 완화 하는 모범 사례에 대해 알아 두는 것이 중요 합니다.
 keywords: 사기 행위, 오용, 적합 한 사용, 사용 제한 정책, 비 지불, 고객에 게 지불 하지 않음, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991901"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377807"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 미결제, 사기 또는 오용 관리
 
@@ -25,7 +25,7 @@ ms.locfileid: "84991901"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 청구 관리자

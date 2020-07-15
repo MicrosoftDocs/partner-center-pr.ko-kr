@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 기업 고객에 게 교육 및 계획을 제공 하기 위해 보정할 수 있도록 소프트웨어 보증 교육 증명서 프로그램에 등록 하는 방법에 대해 알아봅니다.
-author: mowrim
+author: mowree
 ms.author: mowrim
 keywords: 교육 상품권, software assurance, 교육, SATV에 등록, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a041631be7fe602ea16eebda557bb55aa9595173
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949554"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390240"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램
 
@@ -23,7 +23,7 @@ Software Assurance 파트너 프로그램에 등록하여 비즈니스를 확장
 
 승인된 Software Assurance 교육 파트너인 Microsoft는 기업 고객으로부터 Software Assurance 상품권을 받고 기업 고객에게 기술 교육을 제공하는 파트너에게 보상을 제공합니다. 이 프로그램에 참여하면 더 많은 고객을 유치하고 신뢰할 수 있는 학습 파트너가 될 수 있습니다.
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>시작
 
 소프트웨어 보증 교육 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 하세요. 이미 학습 증명서 프로그램에서 활성화 된 경우 아래 4 단계 (4)에서 시작 합니다. 
 

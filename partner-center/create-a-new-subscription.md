@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft에서 게시 한 제품 및 타사 Isv가 게시 한 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단, 일시 중단, SaaS, 라이선스, ISV, 타사
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991489"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377599"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -29,7 +29,7 @@ ms.locfileid: "84991489"
 
 - 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 
@@ -139,7 +139,7 @@ ISV 게시자에서 라이선스 기반 SaaS 구독을 취소하려면 다음을
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>상업용 마켓플레이스 구독을 자동으로 갱신할지 선택
 
-기본적으로 활성 구독은 구독 기간이 만료되면 자동으로 갱신되도록 설정됩니다. [상업용 마켓플레이스 제품 구독](csp-commercial-marketplace-overview.md)의 경우 필요에 따라 구독을 자동으로 갱신하지 않도록 선택할 수 있습니다.
+기본적으로 활성 구독은 구독 기간이 만료될 때 자동으로 갱신되도록 설정됩니다. [상업적 marketplace 제품에](csp-commercial-marketplace-overview.md)대 한 구독의 경우 필요에 따라 구독을 자동으로 갱신 하지 않도록 선택할 수 있습니다.
 
 활성 상업적 marketplace 구독이 자동으로 갱신 되지 않도록 하려면 다음을 수행 합니다.
 

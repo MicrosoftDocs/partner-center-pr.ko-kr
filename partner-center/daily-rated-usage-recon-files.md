@@ -3,16 +3,16 @@ title: 매일 등급 사용 조정 파일
 ms.topic: article
 ms.date: 06/12/2020
 description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908681"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377417"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -79,7 +79,7 @@ ms.locfileid: "84908681"
 | PricingCurrency | 가격표의 통화입니다. |
 | ServiceInfo1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
 | ServiceInfo2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
-| 태그들 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
+| Tags | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
 | AdditionalInfo | 다른 열에서 다루지 않은 추가 정보입니다. |
 | EffectiveUnitPrice | 할인, 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
 | PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |

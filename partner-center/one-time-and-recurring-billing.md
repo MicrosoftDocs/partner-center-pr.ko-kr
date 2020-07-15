@@ -3,17 +3,17 @@ title: 청구-일회성 & 선택 반복 요금
 ms.topic: article
 ms.date: 05/26/2020
 Description: 파트너 센터 대금 청구에 대 한 자세한 내용은 사전 설정 된 용어에 대 한 일회성 청구 및 선택, 반복 요금 청구에 대해 미리 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 청구, 일회성, 되풀이, 구매, 요금, isv
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749151"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390250"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>파트너 센터에서 일회성 청구 및 선택 되풀이 요금 청구
 
@@ -22,7 +22,7 @@ ms.locfileid: "84749151"
 - CSP 프로그램의 파트너
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트

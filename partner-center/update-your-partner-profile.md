@@ -3,18 +3,18 @@ title: 파트너 프로필 확인
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정보를 확인하는 방법을 알아봅니다. 또한 법률 및 청구 주소를 업데이트할 수 있습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991981"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286581"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>파트너 센터에서 파트너 프로필 정보 확인
 
@@ -37,7 +37,7 @@ ms.locfileid: "84991981"
 2. 법적 주소 옆에 있는 **업데이트**를 선택합니다. ""
 
 >[!Important]
->CSP 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 심사 상태가 "인증됨"인 경우 파트너 센터에서 법률 회사 이름을 업데이트할 수 없습니다. [지원 티켓을 작성](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)해야 합니다.
+>CSP 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 심사 상태가 "인증됨"인 경우 파트너 센터에서 법률 회사 이름을 업데이트할 수 없습니다. [지원 티켓을 작성](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)해야 합니다.
 
 3. **제출**을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.
 

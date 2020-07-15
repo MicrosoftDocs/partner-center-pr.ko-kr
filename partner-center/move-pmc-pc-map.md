@@ -5,17 +5,17 @@ ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 갱신, 계정 구조, 로그인, 사용자 역할, 역량 등과 관련하여 PMC와 파트너 센터의 차이점을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: PMC, 마이그레이션, 파트너 센터로 이동
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: ac79b85d4278f6340d6997fc94151bc0cb404c3e
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795751"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390630"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동
 

@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 한 번에 여러 사용자를 고객 계정에 추가 하는 방법을 알아봅니다. 쉼표로 구분 된 값 (.csv) 파일 형식을 사용 하 여 파트너 센터에 데이터 파일을 업로드 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: 대량 업로드, 고객의 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 계정, 고객 사용자, 사용자에 대 한 대량 업로드
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104121"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377277"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>고객 계정에 여러 사용자 추가-파트너 센터에 데이터 파일 업로드
 
@@ -25,7 +25,7 @@ ms.locfileid: "85104121"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가할 수 있습니다. 파트너 센터에서 샘플 데이터 파일을 다운로드 한 다음 사용자가 사용할 수 있도록 편집 하거나 아래에 정의 된 데이터 모델을 사용 하 여 새 데이터 파일을 만들 수 있습니다.
 
@@ -46,7 +46,7 @@ ms.locfileid: "85104121"
 | 이름  | 사용자의 이름 (선택 필드)  | 50자로 제한  |
 | 성  | 사용자의 성 (선택 필드)  | 50자로 제한  |
 | 표시 이름    | 파트너 센터 (필수 필드)에 표시 되는 이름                            | 50자로 제한                         |
-| Email   | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자에게는 고유한 전자 메일 주소가 있어야 합니다. |
+| 메일   | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자에게는 고유한 전자 메일 주소가 있어야 합니다. |
 | 상태 업데이트   | 새 사용자 레코드가 성공적으로 만들어졌는지 여부를 나타내는 데 사용 됩니다. | \*\*비워 둠\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>여러 사용자 계정을 만들려면

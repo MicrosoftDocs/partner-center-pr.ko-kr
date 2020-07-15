@@ -5,17 +5,17 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MFA(Multi-factor Authentication)를 활성화하고 보안 애플리케이션 모델 프레임워크를 도입하기 위한 파트너 요구 사항을 소개합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: isaiahwilliams
+ms.author: iswillia
 keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 951bb05b9e818d86254f84c88bdebd30c1ecc9dc
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 43febea2a5eb78d983c620bcc6ec155ba49a7c5e
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328154"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265096"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>파트너 센터 또는 파트너 센터 API를 사용하는 파트너에 대한 파트너 보안 요구 사항
 

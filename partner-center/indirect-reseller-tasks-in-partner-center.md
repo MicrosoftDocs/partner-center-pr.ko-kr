@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인이 Microsoft 간접 공급자(또는 배포자)와 협력하여 고객 지원 및 청구에 대한 도움을 받는 방법을 알아봅니다.
 ms.prod: ''
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 간접 재판매인, 재판매인, 간접 공급자, 공급자, 파트너십, VAR, tier2, 계층 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879352"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377717"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
 

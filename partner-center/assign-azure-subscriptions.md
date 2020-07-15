@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 고객에 게 Azure 구독을 할당 하는 방법과 고객이 자신의 구독을 관리 하도록 설정 하는 방법을 알아봅니다.
-author: dineshvu
-ms.author: dineshvu
+author: rbars
+ms.author: rbars
 keywords: Azure, Azure 구독, 구독, 구독, 구독 할당, azure 구독 관리
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: f9b9b2f1f62d06e8f6802535738c7ba08666ac56
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175917"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390490"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>파트너 센터의 고객에게 Azure 구독 할당
 

@@ -3,16 +3,16 @@ title: 라이선스 기반 조정 파일
 ms.topic: article
 ms.date: 05/18/2020
 description: 파트너 센터에서 라이선스 기반 조정 파일을 읽는 방법에 대해 알아봅니다. 이 문서에서는 라이선스 기반 정찰 파일에 있는 각 필드의 의미에 대해 설명 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909051"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377697"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>파트너 센터 라이선스 기반 조정 파일의 필드 이해
 
@@ -22,7 +22,7 @@ ms.locfileid: "84909051"
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
@@ -56,7 +56,7 @@ ms.locfileid: "84909051"
 | 소계 | 세금 앞의 합계입니다. 할인이 예상 합계와 일치 하는지 확인 합니다. | *11* |
 | 세금 | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |
 | TotalForCustomer | 세금 이후의 합계입니다. 청구서에 세금이 부과 되는지 확인 합니다. | *11* |
-| 통화 | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 합니다. 주요 청구 플랫폼을 업데이트 한 후에 다시 확인 합니다. | *EUR* |
+| Currency | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 합니다. 주요 청구 플랫폼을 업데이트 한 후에 다시 확인 합니다. | *EUR* |
 | DomainName | 고객의 도메인 이름입니다. 이 필드는 두 번째 청구 주기까지 공백으로 표시 될 수 있습니다. *이 필드를 고객에 대 한 고유 식별자로 사용 하지 마세요. 고객/파트너는 Office 365 포털을 통해 베 니 티 또는 기본 도메인을 업데이트할 수 있습니다.* | *example.onmicrosoft.com* |
 | SubscriptionName | 구독 애칭. 애칭을 지정 하지 않으면 파트너 센터는 **OfferName**을 사용 합니다. | *PROJECT ONLINE* |
 | SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이는 **OfferName**에 대 한 동일한 필드입니다. | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |

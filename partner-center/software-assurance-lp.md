@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스를 구축 하 고 기업 고객에 게 교육 및 계획을 제공 하기 위해 보상을 받을 수 있도록 소프트웨어 보증 프로그램에 등록 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: mowree
+ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d56cc5791a81ff4ca5917ae0d0a942cf64177b48
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: ecc3aa2a5bb9059211b74f35ed43147e754bbf05
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425922"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390260"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>교육 바우처 및 계획 서비스를 비롯 한 소프트웨어 보증 프로그램 참여
 

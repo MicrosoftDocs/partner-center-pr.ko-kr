@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객 레코드는 가장 중요 한 정보 자산 중 하나입니다. 파트너 센터 고객 목록에서 정보를 확인 하 고, 검색 하 고, 업데이트 & 내보내는 방법에 대해 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b248a5614bc071068ee2e7a70906795c12f24a14
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992157"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377747"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>고객 목록 관리-파트너 센터에서 고객 검색, 업데이트 또는 내보내기
 

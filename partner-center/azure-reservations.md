@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 클라우드 솔루션 공급자는 고객에 대 한 Azure 예약을 구입, 판매 또는 관리할 수 있습니다. 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: azure, 예약, 관리, 청구, 구매, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5393e757b209de5a7df22b35a0cee0703419bef4
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198641"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377647"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>파트너 센터, Azure Portal 또는 Api를 사용 하 여 고객에 게 Microsoft Azure 예약 판매
 
@@ -28,7 +28,7 @@ ms.locfileid: "85198641"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -54,7 +54,7 @@ Azure 예약은 다음과 같은 방식으로 고객에 게 더욱 매력적인 
 
 |**원하는 정보**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
-| 고객을 위한 Azure 예약 설명서 | [Azure 예약은 무엇 인가요?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| 고객을 위한 Azure 예약 설명서 | [Azure 예약은 무엇인가요?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |파트너 센터에서 고객에 대 한 Azure 예약 구매   |[Azure 예약 구입](azure-reservations-buying.md)
 |파트너 센터에서 Azure 예약 관리 | [파트너 센터에서 Azure 예약 관리](azure-reservations-manage.md)
 |올바른 VM 크기 확인 및 고객 VM 사용 확인   |[최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |

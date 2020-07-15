@@ -1,22 +1,23 @@
 ---
-title: 성과급 지급 페이지 액세스 | 파트너 센터
+title: 지급 페이지 액세스
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 지급 정보에 액세스 하는 방법에 대해 알아봅니다. 이는 Windows 앱 및 게임 지불액과 MPN 동기 지급에도 적용 됩니다.
+description: 독립 소프트웨어 공급 업체를 위한 Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불에 대 한 지급 정보에 액세스 하는 방법에 대해 알아봅니다.
 author: kim-davis
 ms.author: kimnich
 keywords: 성과급, 지급
 ms.localizationpriority: medium
-ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949462"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377727"
 ---
-# <a name="access-your-incentives-payouts-page"></a>인센티브 지급액 페이지에 액세스
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불을 위한 지급 페이지 액세스
 
 **적절한 역할**
 -   글로벌 관리자

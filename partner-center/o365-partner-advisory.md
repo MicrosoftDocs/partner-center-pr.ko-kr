@@ -3,19 +3,19 @@ title: CSP 파트너 자문-Microsoft 365 음성
 description: 일부 국가에서의 PSTN 서비스와 파트너 주문 및 청구서에 적용 되 고 영향을 줄 수 있는 특별 세금 또는 규정 요구 사항에 대해 알아보세요.
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office, O365, PSTN 서비스, 세금, 요구 사항, 송장, 청구서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907359"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377797"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 파트너 자문: CSP 프로그램의 Microsoft 365 Business 음성
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 파트너 자문: CSP 프로그램의 Microsoft 365 Business Voice
 
 **적용 대상**
 
@@ -38,7 +38,7 @@ ms.locfileid: "82907359"
 
 또한 CSP 청구서에는 다음 각주가 표시 됩니다.
 
-* 표시 되는 가격은 오디오 회의 및 호출 계획 서비스에 대 한 요금이 부과 됩니다.  해당 하는 모든 트랜잭션 세금은 미국 내 판매를 제외 하 고 표시 된 금액에 대해서만 요금이 부과 됩니다.  미국에서 표시 되는 가격은 호출 계획 및 오디오 회의 서비스에 대 한 요금을 포함 하 고 있으며 요금이 부과 되어야 하는 세금 및 요금에 대 한 요금을 포함 하는 세율을 포함 합니다.  오디오 회의 및 호출 계획 서비스는 이러한 서비스를 제공 하는 Microsoft 관련 인증에 의해 처리 됩니다.  자세한 내용은 [Microsoft 볼륨 라이선스](https://go.microsoft.com/fwlink/?LinkId=690247) 를 참조 하십시오.
+* 표시 되는 가격은 오디오 회의 및 호출 계획 서비스에 대 한 요금이 부과 됩니다.  해당 하는 모든 트랜잭션 세금은 미국 내 판매를 제외 하 고 표시 된 금액에 대해서만 요금이 부과 됩니다.  미국에서 표시 되는 가격은 호출 계획 및 오디오 회의 서비스에 대 한 요금을 포함 하 고 있으며 요금이 부과 되어야 하는 세금 및 요금에 대 한 요금을 포함 하는 세율을 포함 합니다.  오디오 회의 및 호출 계획 서비스는 이러한 서비스를 제공 하는 Microsoft 관련 인증에 의해 처리 됩니다.  자세한 내용은 [Microsoft 볼륨 라이선싱](https://go.microsoft.com/fwlink/?LinkId=690247)을 참조하세요.
 
 ## <a name="reconciliation-file-example"></a>조정 파일 예제
 

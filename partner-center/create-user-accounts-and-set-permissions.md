@@ -4,18 +4,18 @@ description: 파트너 센터에 액세스하기 전에 모든 직원에게 역�
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.custom: SEOAPR.20
 Keywords: 역할, 사용 권한, 사용자 추가, 역할 할당, 관리자, 에이전트,
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: f73a134193f975357ec2257711f283a6360d33eb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9ec8e98f77d49e34b6747b0f580502e9df25a950
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991423"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265194"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>사용자 계정 만들기 및 역할과 사용 권한 할당
 

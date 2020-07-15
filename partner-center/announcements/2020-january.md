@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/01/2020
-ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678940"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286611"
 ---
 # <a name="january-2020-announcements"></a>2020년 1월 공지
 
@@ -52,7 +52,7 @@ Azure 하이브리드 혜택을 포함하는 Azure 예약 및 이 서버 구독�
 
 ### <a name="additional-resources"></a>추가 리소스
 
-- 파트너 갤러리 페이지의 CSP 프로그램 리소스: [러시아의 CSP 파트너에게 Windows Server 및 SQL Server 구독이 제공됨](https://partner.microsoft.com/en-us/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- 파트너 갤러리 페이지의 CSP 프로그램 리소스: [러시아의 CSP 파트너에게 Windows Server 및 SQL Server 구독이 제공됨](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [파트너 센터에 대해 자세히 알아보기](https://docs.microsoft.com/partner-center/azure-plan-get-started)
 
 ### <a name="next-steps"></a>다음 단계
@@ -61,7 +61,7 @@ Azure 하이브리드 혜택을 포함하는 Azure 예약 및 이 서버 구독�
 
 ### <a name="questions"></a>질문이 있으세요?
 
-- 질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+- 질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
 
 _________________
 
@@ -329,7 +329,7 @@ Microsoft는 2020년 1월 2일 오늘 비즈니스 앱 및 Power Platform뿐만 
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-자세한 SKU 정보는 [여기](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offers 1-1-20" 파일을 참조하세요.
+자세한 SKU 정보는 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offers 1-1-20" 파일을 참조하세요.
 
 비즈니스 앱 및 Power Platform
 
@@ -337,7 +337,7 @@ Microsoft는 2020년 1월 2일 오늘 비즈니스 앱 및 Power Platform뿐만 
 
 - 기존 PowerApps 앱별 플랜에 대한 학생 제품 소개
 
-자세한 SKU 정보는 [여기](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offers 1-1-20" 파일을 참조하세요.
+자세한 SKU 정보는 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offers 1-1-20" 파일을 참조하세요.
 
 2020년 2월 1일에는 다음과 같은 비즈니스 앱 및 Power Platform용 새 제품과 업데이트된 제품이 릴리스됩니다.
 
@@ -371,7 +371,7 @@ Customer Insights 라이선스 업데이트
 
 Microsoft는 2020년 2월 1일에 다른 채널과 지역에서 사용되는 기존 Dynamics 365 및 Power Platform 제품의 이름과 부합하도록 일부 제품군 및 제품의 이름을 변경합니다.
 
-구체적인 변경 사항은 [여기](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offer Name Changes – Feb 2020" 파일을 참조하세요.
+구체적인 변경 사항은 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offer Name Changes – Feb 2020" 파일을 참조하세요.
 
 ### <a name="additional-resources"></a>추가 리소스
 
@@ -389,7 +389,7 @@ Microsoft는 2020년 2월 1일에 다른 채널과 지역에서 사용되는 기
 
 ### <a name="questions"></a>질문이 있으세요?
 
-- Microsoft에 대한 작업과 관련하여 질문이 있는 경우 [고객 지원에 문의하세요](https://partner.microsoft.com/en-us/pcv/servicerequests/create).
+- Microsoft에 대한 작업과 관련하여 질문이 있는 경우 [고객 지원에 문의하세요](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>로그 변경
 

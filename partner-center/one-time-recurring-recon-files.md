@@ -3,16 +3,16 @@ title: 일회성 및 되풀이 조정 파일
 ms.topic: article
 ms.date: 05/26/2020
 description: 파트너 센터 일회성 및 되풀이 조정 파일의 각 필드 또는 열에 대 한 의미를 이해 합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a84a9bdf1e7366bed9e83f370703df5f44be1dfc
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908671"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390300"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>파트너 센터에서 일회성 및 되풀이 조정 파일
 
@@ -23,7 +23,7 @@ ms.locfileid: "84908671"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
@@ -55,7 +55,7 @@ ms.locfileid: "84908671"
 | SubTotal | 세금 앞의 합계입니다. 할인이 예상 합계와 일치 하는지 확인 합니다. |
 | TaxTotal | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. |
 | 합계 | 세금 이후의 합계입니다. 청구서에 세금이 부과 되는지 확인 합니다. |
-| 통화 | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 하 고 주요 청구 플랫폼 업데이트 후에 다시 확인 합니다. |
+| Currency | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 하 고 주요 청구 플랫폼 업데이트 후에 다시 확인 합니다. |
 | PriceAdjustmentDescription | 해당 할인에 대 한 설명입니다. |
 | PublisherName | 제품의 게시자 이름입니다.
 | PublisherId | 특정 게시자에 대 한 고유 식별자입니다. |
