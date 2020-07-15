@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너가 다양한 RBAC(역할 기반 액세스 제어) 옵션을 사용하여 고객의 Azure 리소스에 대한 운영 제어 및 관리를 얻는 방법에 대해 알아봅니다.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948433"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175952"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 
@@ -29,9 +29,9 @@ ms.locfileid: "85948433"
 
 - **Azure Lighthouse**: AOBO는 여러 고객을 대상으로 작동하는 별도의 그룹을 만들거나 그룹 또는 사용자에 대해 여러 역할을 사용할 수 있는 유연성을 허용하지 않습니다. Azure Lighthouse를 사용하면 여러 그룹을 여러 고객 또는 역할에 할당할 수 있습니다. 사용자는 Azure 위임된 리소스 관리를 통해 적절한 수준의 액세스 권한을 갖게 되므로 관리 에이전트 역할이 있는(따라서 전체 AOBO 액세스 권한을 갖는) 사용자 수를 줄일 수 있습니다. 이렇게 하면 고객 리소스에 대한 불필요한 액세스를 제한하여 보안을 향상할 수 있습니다. 또한 유연성이 향상되어 여러 고객을 대규모로 관리할 수 있습니다. 자세한 내용은 [Azure Lighthouse 및 클라우드 솔루션 공급자 프로그램](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)을 참조하세요.
 
--  **디렉터리 또는 게스트 사용자 또는 [서비스 사용자](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : 고객 디렉터리에 사용자를 추가하거나 게스트 사용자를 추가하고 특정 RBAC 역할을 할당하여 CSP 구독에 대한 세밀한 액세스 권한을 위임할 수 있습니다. 
+-  **디렉터리 또는 게스트 사용자 또는 [서비스 사용자](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : 고객 디렉터리에 사용자를 추가하거나 게스트 사용자를 추가하고 특정 RBAC 역할을 할당하여 CSP 구독에 대한 세밀한 액세스 권한을 위임할 수 있습니다.
 
-보안을 위해 사용자에게 작업 수행에 필요한 최소한의 권한만 부여하는 것이 좋습니다. [Azure Active Directory 권한 있는 ID 관리 리소스](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)를 참조하세요. 
+보안을 위해 사용자에게 작업 수행에 필요한 최소한의 권한만 부여하는 것이 좋습니다. [Azure Active Directory 권한 있는 ID 관리 리소스](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)를 참조하세요.
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>고객의 Azure 리소스를 관리할 수 있도록 파트너 ID(MPN ID)를 자격 증명에 연결하세요.
 
@@ -56,28 +56,27 @@ ms.locfileid: "85948433"
 
 1. 경고를 만듭니다.
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="azure 경고":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="azure 경고":::
 
 2. 경고를 발생시킬 작업 유형을 선택합니다. 예를 들어 이메일을 원하는 것으로 지정하는 경우 역할 할당 삭제가 발생하면 알려주는 이메일을 받게 됩니다.
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="경고 구성":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="경고 구성":::
 
 ### <a name="aobo-removal"></a>AOBO 제거
 
 고객은 Azure Portal에서 **액세스 제어**로 이동하여 구독에 대한 액세스를 관리할 수 있습니다. 고객이 **역할 할당** 탭에서 **액세스 제거**를 선택합니다. 이 경우 다음과 같은 조치를 취할 수 있습니다.
 
 - 고객에게 연락하여 관리자 액세스를 복구할 수 있는지 확인합니다.
+
 - [RBAC(역할 기반 액세스 제어)](https://docs.microsoft.com/azure/role-based-access-control/overview)를 통해 제공되는 액세스 권한을 사용합니다.
+
 - [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/)를 통해 제공되는 액세스 권한을 사용합니다.
 
 역할 기반 액세스는 관리자 액세스와 다릅니다. 역할은 수행할 수 있는 작업과 수행할 수 없는 작업의 범위를 정확하게 구분합니다. 관리자 액세스는 좀 더 광범위합니다.
 
 PEC를 얻을 수 있는 역할에 대해 알아보려면 [파트너 획득 크레딧에 대한 역할 및 권한](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)을 읽어 보세요.
 
-
-
-
-**자세한 내용**
+## <a name="next-steps"></a>다음 단계
 
 - [Azure CSP 구독에 대한 관리자 권한 철회 및 복구](revoke-reinstate-csp.md)
 
