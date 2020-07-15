@@ -5,119 +5,119 @@ ms.date: 06/03/2020
 description: 고객에 대 한 월간 Azure 지출 예산을 설정 또는 제거 하는 방법과 Azure 지출 데이터를 보고 예산 관련 알림을 설정 하는 방법을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abee84249d2e41dc34f9ae0f62ac7f1ad51b94d1
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: a52fa8d490ad43cc1e4f331b1a335004a07c83bd
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992153"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377737"
 ---
-# <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a><span data-ttu-id="ec185-103">파트너 센터에서 고객에 대 한 월간 Azure 지출 예산 설정, 확인 또는 제거</span><span class="sxs-lookup"><span data-stu-id="ec185-103">Set, check, or remove monthly Azure spending budgets for customers in Partner Center</span></span>
+# <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a><span data-ttu-id="3101d-103">파트너 센터에서 고객에 대 한 월간 Azure 지출 예산 설정, 확인 또는 제거</span><span class="sxs-lookup"><span data-stu-id="3101d-103">Set, check, or remove monthly Azure spending budgets for customers in Partner Center</span></span>
 
-<span data-ttu-id="ec185-104">적용 대상:</span><span class="sxs-lookup"><span data-stu-id="ec185-104">Applies to:</span></span>
+<span data-ttu-id="3101d-104">적용 대상:</span><span class="sxs-lookup"><span data-stu-id="3101d-104">Applies to:</span></span>
 
-- <span data-ttu-id="ec185-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="ec185-105">Partner Center</span></span>
-- <span data-ttu-id="ec185-106">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="ec185-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="3101d-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="3101d-105">Partner Center</span></span>
+- <span data-ttu-id="3101d-106">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="3101d-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="ec185-107">파트너 센터에서 [고객에 대 한 월간 Azure 지출 예산을 설정할](#set-azure-spending-budget) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-107">You can [set a monthly Azure spending budget for your customers](#set-azure-spending-budget) in Partner Center.</span></span> <span data-ttu-id="ec185-108">이렇게 하면 고객이 Azure 지출를 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-108">This helps your customers manage their Azure spending.</span></span> <span data-ttu-id="ec185-109">이 옵션을 사용 하면 고객의 Azure 지출를 해당 월의 예산과 비교할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-109">This option allows you to compare your customers' Azure spending to the budget during the month.</span></span> <span data-ttu-id="ec185-110">또한 고객은 자신의 Azure 지출에 대 한 비용을 청구 하는 데 도움이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-110">It also helps your customers to budget their Azure spending so their monthly bill isn't higher than they anticipate.</span></span>
+<span data-ttu-id="3101d-107">파트너 센터에서 [고객에 대 한 월간 Azure 지출 예산을 설정할](#set-azure-spending-budget) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-107">You can [set a monthly Azure spending budget for your customers](#set-azure-spending-budget) in Partner Center.</span></span> <span data-ttu-id="3101d-108">이렇게 하면 고객이 Azure 지출를 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-108">This helps your customers manage their Azure spending.</span></span> <span data-ttu-id="3101d-109">이 옵션을 사용 하면 고객의 Azure 지출를 해당 월의 예산과 비교할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-109">This option allows you to compare your customers' Azure spending to the budget during the month.</span></span> <span data-ttu-id="3101d-110">또한 고객은 자신의 Azure 지출에 대 한 비용을 청구 하는 데 도움이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-110">It also helps your customers to budget their Azure spending so their monthly bill isn't higher than they anticipate.</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="ec185-111">이 기능은 샌드박스 또는 프로덕션 (TIP) 계정의 테스트에서 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-111">This feature is not available in sandbox or Test in Production (TIP) accounts.</span></span>
+> <span data-ttu-id="3101d-111">이 기능은 샌드박스 또는 프로덕션 (TIP) 계정의 테스트에서 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-111">This feature is not available in sandbox or Test in Production (TIP) accounts.</span></span>
 
-<span data-ttu-id="ec185-112">[고객에 대 한 Azure 지출 예산을 설정한](#set-azure-spending-budget)후에는 다음과 같은 방법으로 고객 사용량을 검토할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-112">After you [set an Azure spending budget for your customer(s)](#set-azure-spending-budget), you can also review customer usage in the following ways.</span></span> <span data-ttu-id="ec185-113">이러한 옵션은 잘못 구성 된 서비스 또는 사기 행위를 제안할 수 있는 비정상적인 추세를 찾는 데 도움이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-113">These options may help you spot misconfigured services or unusual trends that might suggest fraud.</span></span> <span data-ttu-id="ec185-114">그런 다음 고객을 사용 하 여 근본 원인을 파악 하 고 비용을 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-114">You can then work with your customer(s) to identify the root cause and manage costs.</span></span> <span data-ttu-id="ec185-115">필요한 경우 [고객의 예산을](#set-azure-spending-budget) 더 높은 값으로 변경할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-115">If necessary, you can also [change the customer's budget](#set-azure-spending-budget) to a higher amount.</span></span>
+<span data-ttu-id="3101d-112">[고객에 대 한 Azure 지출 예산을 설정한](#set-azure-spending-budget)후에는 다음과 같은 방법으로 고객 사용량을 검토할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-112">After you [set an Azure spending budget for your customer(s)](#set-azure-spending-budget), you can also review customer usage in the following ways.</span></span> <span data-ttu-id="3101d-113">이러한 옵션은 잘못 구성 된 서비스 또는 사기 행위를 제안할 수 있는 비정상적인 추세를 찾는 데 도움이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-113">These options may help you spot misconfigured services or unusual trends that might suggest fraud.</span></span> <span data-ttu-id="3101d-114">그런 다음 고객을 사용 하 여 근본 원인을 파악 하 고 비용을 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-114">You can then work with your customer(s) to identify the root cause and manage costs.</span></span> <span data-ttu-id="3101d-115">필요한 경우 [고객의 예산을](#set-azure-spending-budget) 더 높은 값으로 변경할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-115">If necessary, you can also [change the customer's budget](#set-azure-spending-budget) to a higher amount.</span></span>
 
-- [<span data-ttu-id="ec185-116">현재 Azure 지출 확인</span><span class="sxs-lookup"><span data-stu-id="ec185-116">Check current Azure spending</span></span>](#check-current-azure-spending)
+- [<span data-ttu-id="3101d-116">현재 Azure 지출 확인</span><span class="sxs-lookup"><span data-stu-id="3101d-116">Check current Azure spending</span></span>](#check-current-azure-spending)
 
-- [<span data-ttu-id="ec185-117">고객의 예산이 예산 제한에 근접 한 경우에 대 한 전자 메일 알림 설정</span><span class="sxs-lookup"><span data-stu-id="ec185-117">Turn on email notifications for when a customer's spending is nearing their budget limit</span></span>](#notifications-for-budget-limits)
+- [<span data-ttu-id="3101d-117">고객의 예산이 예산 제한에 근접 한 경우에 대 한 전자 메일 알림 설정</span><span class="sxs-lookup"><span data-stu-id="3101d-117">Turn on email notifications for when a customer's spending is nearing their budget limit</span></span>](#notifications-for-budget-limits)
 
-- [<span data-ttu-id="ec185-118">사용량 기반 구독에 대해 서비스 별로 항목별 비용 보기</span><span class="sxs-lookup"><span data-stu-id="ec185-118">View itemized costs by service for usage-based subscriptions</span></span>](#itemized-costs-by-service)
+- [<span data-ttu-id="3101d-118">사용량 기반 구독에 대해 서비스 별로 항목별 비용 보기</span><span class="sxs-lookup"><span data-stu-id="3101d-118">View itemized costs by service for usage-based subscriptions</span></span>](#itemized-costs-by-service)
 
-<span data-ttu-id="ec185-119">또한 언제 든 지 고객에 대 한 [Azure 지출 예산을 제거할](#remove-azure-spending-budget) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-119">You can also [remove an Azure spending budget](#remove-azure-spending-budget) for customer(s) at any time.</span></span>
+<span data-ttu-id="3101d-119">또한 언제 든 지 고객에 대 한 [Azure 지출 예산을 제거할](#remove-azure-spending-budget) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-119">You can also [remove an Azure spending budget](#remove-azure-spending-budget) for customer(s) at any time.</span></span>
 
-## <a name="azure-spending-data"></a><span data-ttu-id="ec185-120">Azure 지출 데이터</span><span class="sxs-lookup"><span data-stu-id="ec185-120">Azure spending data</span></span>
+## <a name="azure-spending-data"></a><span data-ttu-id="3101d-120">Azure 지출 데이터</span><span class="sxs-lookup"><span data-stu-id="3101d-120">Azure spending data</span></span>
 
-<span data-ttu-id="ec185-121">Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수 있습니다*.</span><span class="sxs-lookup"><span data-stu-id="ec185-121">The Azure spending data is an *estimate* and *actual billing amounts may vary*.</span></span> <span data-ttu-id="ec185-122">데이터 값에는 세금, 크레딧, 조정 또는 적용 될 수 있는 기타 요금이 *반영 되지 않습니다* .</span><span class="sxs-lookup"><span data-stu-id="ec185-122">The data's value *doesn't reflect* taxes, credits, adjustments, or other charges that may apply.</span></span>
+<span data-ttu-id="3101d-121">Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수 있습니다*.</span><span class="sxs-lookup"><span data-stu-id="3101d-121">The Azure spending data is an *estimate* and *actual billing amounts may vary*.</span></span> <span data-ttu-id="3101d-122">데이터 값에는 세금, 크레딧, 조정 또는 적용 될 수 있는 기타 요금이 *반영 되지 않습니다* .</span><span class="sxs-lookup"><span data-stu-id="3101d-122">The data's value *doesn't reflect* taxes, credits, adjustments, or other charges that may apply.</span></span>
 
-<span data-ttu-id="ec185-123">지출 데이터는 *하루에 한 번 새로 고쳐집니다*.</span><span class="sxs-lookup"><span data-stu-id="ec185-123">The spending data is *refreshed once per day*.</span></span> <span data-ttu-id="ec185-124">Azure Portal에서 계정 설정을 변경 하지 않는 한 고객은 Azure 서비스 및 리소스에 대 한 사용을 계속 하 고 요금이 부과 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-124">Your customers can continue to use (and be charged for) Azure services and resources, unless you change their account settings in the Azure portal.</span></span>
+<span data-ttu-id="3101d-123">지출 데이터는 *하루에 한 번 새로 고쳐집니다*.</span><span class="sxs-lookup"><span data-stu-id="3101d-123">The spending data is *refreshed once per day*.</span></span> <span data-ttu-id="3101d-124">Azure Portal에서 계정 설정을 변경 하지 않는 한 고객은 Azure 서비스 및 리소스에 대 한 사용을 계속 하 고 요금이 부과 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-124">Your customers can continue to use (and be charged for) Azure services and resources, unless you change their account settings in the Azure portal.</span></span>
 
-## <a name="set-azure-spending-budget"></a><span data-ttu-id="ec185-125">Azure 지출 예산 설정</span><span class="sxs-lookup"><span data-stu-id="ec185-125">Set Azure spending budget</span></span>
+## <a name="set-azure-spending-budget"></a><span data-ttu-id="3101d-125">Azure 지출 예산 설정</span><span class="sxs-lookup"><span data-stu-id="3101d-125">Set Azure spending budget</span></span>
 
-<span data-ttu-id="ec185-126">파트너 센터에서 여러 고객에 대 한 *월간 Azure 지출 예산을 설정할* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-126">You can *set a monthly Azure spending budget* for multiple customers in Partner Center:</span></span>
+<span data-ttu-id="3101d-126">파트너 센터에서 여러 고객에 대 한 *월간 Azure 지출 예산을 설정할* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-126">You can *set a monthly Azure spending budget* for multiple customers in Partner Center:</span></span>
 
-1. <span data-ttu-id="ec185-127">[파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-127">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+1. <span data-ttu-id="3101d-127">[파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-127">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
 
-2. <span data-ttu-id="ec185-128">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-128">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+2. <span data-ttu-id="3101d-128">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-128">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
 
-3. <span data-ttu-id="ec185-129">**Azure 지출** 페이지의 **Microsoft Azure 구독이 있는 고객**에서 예산을 설정 하려는 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-129">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) for whom you want to set a budget.</span></span>
+3. <span data-ttu-id="3101d-129">**Azure 지출** 페이지의 **Microsoft Azure 구독이 있는 고객**에서 예산을 설정 하려는 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-129">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) for whom you want to set a budget.</span></span>
 
-4. <span data-ttu-id="ec185-130">**월별 예산**에 대 한 값을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-130">Enter a value for **Monthly budget**.</span></span>
+4. <span data-ttu-id="3101d-130">**월별 예산**에 대 한 값을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-130">Enter a value for **Monthly budget**.</span></span>
 
-5. <span data-ttu-id="ec185-131">**적용** 을 선택 하 여 변경 내용을 저장 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-131">Choose **Apply** to save your changes.</span></span>
+5. <span data-ttu-id="3101d-131">**적용** 을 선택 하 여 변경 내용을 저장 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-131">Choose **Apply** to save your changes.</span></span>
 
-<span data-ttu-id="ec185-132">구독 설정에서 *개별 고객에 대 한 예산을 설정할* 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-132">You can also *set a budget for an individual customer* in their subscription settings:</span></span>
+<span data-ttu-id="3101d-132">구독 설정에서 *개별 고객에 대 한 예산을 설정할* 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-132">You can also *set a budget for an individual customer* in their subscription settings:</span></span>
 
-1. <span data-ttu-id="ec185-133">파트너 센터 대시보드에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-133">Sign in to the Partner Center dashboard.</span></span>
+1. <span data-ttu-id="3101d-133">파트너 센터 대시보드에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-133">Sign in to the Partner Center dashboard.</span></span>
 
-2. <span data-ttu-id="ec185-134">**CSP**의 왼쪽 메뉴에서 **고객**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-134">In the left-hand menu under **CSP**, choose **Customers**.</span></span>
+2. <span data-ttu-id="3101d-134">**CSP**의 왼쪽 메뉴에서 **고객**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-134">In the left-hand menu under **CSP**, choose **Customers**.</span></span>
 
-3. <span data-ttu-id="ec185-135">**고객** 페이지에서 고객의 **회사 이름을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-135">On the **Customers** page, select the customer's **Company name**.</span></span>
+3. <span data-ttu-id="3101d-135">**고객** 페이지에서 고객의 **회사 이름을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-135">On the **Customers** page, select the customer's **Company name**.</span></span>
 
-4. <span data-ttu-id="ec185-136">고객의 **구독** 페이지의 **사용량 기반 구독**에서 **예산 변경**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-136">On the customer's **Subscriptions** page, under **Usage-based subscription**, choose **Change budget**.</span></span>
+4. <span data-ttu-id="3101d-136">고객의 **구독** 페이지의 **사용량 기반 구독**에서 **예산 변경**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-136">On the customer's **Subscriptions** page, under **Usage-based subscription**, choose **Change budget**.</span></span>
 
-5. <span data-ttu-id="ec185-137">예산 값을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-137">Enter a value for the budget.</span></span>
+5. <span data-ttu-id="3101d-137">예산 값을 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-137">Enter a value for the budget.</span></span>
 
-6. <span data-ttu-id="ec185-138">**적용** 을 선택 하 여 변경 내용을 저장 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-138">Choose **Apply** to save your changes.</span></span>
+6. <span data-ttu-id="3101d-138">**적용** 을 선택 하 여 변경 내용을 저장 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-138">Choose **Apply** to save your changes.</span></span>
 
-## <a name="remove-azure-spending-budget"></a><span data-ttu-id="ec185-139">Azure 지출 예산 제거</span><span class="sxs-lookup"><span data-stu-id="ec185-139">Remove Azure spending budget</span></span>
+## <a name="remove-azure-spending-budget"></a><span data-ttu-id="3101d-139">Azure 지출 예산 제거</span><span class="sxs-lookup"><span data-stu-id="3101d-139">Remove Azure spending budget</span></span>
 
-<span data-ttu-id="ec185-140">파트너 센터에서 고객에 대 한 *월간 Azure 지출 예산을 제거할* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-140">You can *remove a monthly Azure spending budget* for your customer(s) in Partner Center:</span></span>
+<span data-ttu-id="3101d-140">파트너 센터에서 고객에 대 한 *월간 Azure 지출 예산을 제거할* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-140">You can *remove a monthly Azure spending budget* for your customer(s) in Partner Center:</span></span>
 
-1. <span data-ttu-id="ec185-141">[파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-141">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+1. <span data-ttu-id="3101d-141">[파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-141">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
 
-2. <span data-ttu-id="ec185-142">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-142">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+2. <span data-ttu-id="3101d-142">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-142">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
 
-3. <span data-ttu-id="ec185-143">**Azure 지출** 페이지의 **Microsoft Azure 구독이 있는 고객**에서 예산을 제거 하려는 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-143">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) whose budget you want to remove.</span></span>
+3. <span data-ttu-id="3101d-143">**Azure 지출** 페이지의 **Microsoft Azure 구독이 있는 고객**에서 예산을 제거 하려는 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-143">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) whose budget you want to remove.</span></span>
 
-4. <span data-ttu-id="ec185-144">**예산 제거**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-144">Choose **Remove budget**.</span></span>
+4. <span data-ttu-id="3101d-144">**예산 제거**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-144">Choose **Remove budget**.</span></span>
 
-## <a name="check-current-azure-spending"></a><span data-ttu-id="ec185-145">현재 Azure 지출 확인</span><span class="sxs-lookup"><span data-stu-id="ec185-145">Check current Azure spending</span></span>
+## <a name="check-current-azure-spending"></a><span data-ttu-id="3101d-145">현재 Azure 지출 확인</span><span class="sxs-lookup"><span data-stu-id="3101d-145">Check current Azure spending</span></span>
 
-<span data-ttu-id="ec185-146">언제 든 지 *고객의 현재 Azure 지출 및 월별 예산을 추적할* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-146">You can *track your customers' current Azure spending and monthly budgets* at any time:</span></span>
+<span data-ttu-id="3101d-146">언제 든 지 *고객의 현재 Azure 지출 및 월별 예산을 추적할* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-146">You can *track your customers' current Azure spending and monthly budgets* at any time:</span></span>
 
-1. <span data-ttu-id="ec185-147">[파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-147">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+1. <span data-ttu-id="3101d-147">[파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-147">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
 
-2. <span data-ttu-id="ec185-148">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-148">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+2. <span data-ttu-id="3101d-148">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-148">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
 
-3. <span data-ttu-id="ec185-149">**Azure 지출** 페이지의 **Microsoft Azure 구독이 있는 고객**에서 고객의 월간 예산, 현재 지출 예상 및 사용 된 예산 백분율에 대 한 개요를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-149">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, you can see an overview of customers' monthly budgets, current spending estimates and percentage of budget used.</span></span>
+3. <span data-ttu-id="3101d-149">**Azure 지출** 페이지의 **Microsoft Azure 구독이 있는 고객**에서 고객의 월간 예산, 현재 지출 예상 및 사용 된 예산 백분율에 대 한 개요를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-149">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, you can see an overview of customers' monthly budgets, current spending estimates and percentage of budget used.</span></span>
 
-## <a name="notifications-for-budget-limits"></a><span data-ttu-id="ec185-150">예산 제한에 대 한 알림</span><span class="sxs-lookup"><span data-stu-id="ec185-150">Notifications for budget limits</span></span>
+## <a name="notifications-for-budget-limits"></a><span data-ttu-id="3101d-150">예산 제한에 대 한 알림</span><span class="sxs-lookup"><span data-stu-id="3101d-150">Notifications for budget limits</span></span>
 
-<span data-ttu-id="ec185-151">고객의 월간 지출을 예산 제한에 근접 한 경우에 대 한 *전자 메일 알림을 켤* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-151">You can *turn on email notifications* for when your customer's monthly spending is nearing their budget limit.</span></span> <span data-ttu-id="ec185-152">이 옵션을 켜면 고객이 매월 예산 중 80% 이상을 사용할 때 알림이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-152">When you turn on this option, you will be notified when customers use 80% or more of their monthly budget.</span></span> <span data-ttu-id="ec185-153">이 옵션을 사용 하면 Azure 청구서에 대 한 정보를 유지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-153">This option helps you can keep an eye on your Azure bill.</span></span> <span data-ttu-id="ec185-154">전자 메일 알림을 구성 하려면:</span><span class="sxs-lookup"><span data-stu-id="ec185-154">To configure email notifications:</span></span>
+<span data-ttu-id="3101d-151">고객의 월간 지출을 예산 제한에 근접 한 경우에 대 한 *전자 메일 알림을 켤* 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-151">You can *turn on email notifications* for when your customer's monthly spending is nearing their budget limit.</span></span> <span data-ttu-id="3101d-152">이 옵션을 켜면 고객이 매월 예산 중 80% 이상을 사용할 때 알림이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-152">When you turn on this option, you will be notified when customers use 80% or more of their monthly budget.</span></span> <span data-ttu-id="3101d-153">이 옵션을 사용 하면 Azure 청구서에 대 한 정보를 유지할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-153">This option helps you can keep an eye on your Azure bill.</span></span> <span data-ttu-id="3101d-154">전자 메일 알림을 구성 하려면:</span><span class="sxs-lookup"><span data-stu-id="3101d-154">To configure email notifications:</span></span>
 
-1. <span data-ttu-id="ec185-155">파트너 센터에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-155">Sign in to Partner Center.</span></span>
+1. <span data-ttu-id="3101d-155">파트너 센터에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-155">Sign in to Partner Center.</span></span>
 
-2. <span data-ttu-id="ec185-156">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-156">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+2. <span data-ttu-id="3101d-156">**CSP**의 왼쪽 메뉴에서 **Azure 지출**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-156">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
 
-3. <span data-ttu-id="ec185-157">**Azure 지출** 페이지의 **전자 메일 알림**에서 **전자 메일 가져오기** 설정을 **켜기**로 전환 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-157">On the **Azure spending** page, under **Email notifications**, toggle the **Get emails** setting to **On**.</span></span>
+3. <span data-ttu-id="3101d-157">**Azure 지출** 페이지의 **전자 메일 알림**에서 **전자 메일 가져오기** 설정을 **켜기**로 전환 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-157">On the **Azure spending** page, under **Email notifications**, toggle the **Get emails** setting to **On**.</span></span>
 
-4. <span data-ttu-id="ec185-158">**전자 메일 주소 변경** 을 선택 하 여 알림의 전자 메일 주소를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-158">Choose **Change email address** to see the email address for notifications.</span></span>
+4. <span data-ttu-id="3101d-158">**전자 메일 주소 변경** 을 선택 하 여 알림의 전자 메일 주소를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-158">Choose **Change email address** to see the email address for notifications.</span></span>
 
-5. <span data-ttu-id="ec185-159">전자 메일 주소가 *올바르지*않으면 올바른 전자 메일 주소를 입력 하 고 **업데이트**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-159">If the email address *isn't correct*, enter the correct email address and choose **Update**.</span></span> <span data-ttu-id="ec185-160">전자 메일 주소가 *올바르면* **취소**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-160">If the email address *is correct*, choose **Cancel**.</span></span>
+5. <span data-ttu-id="3101d-159">전자 메일 주소가 *올바르지*않으면 올바른 전자 메일 주소를 입력 하 고 **업데이트**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-159">If the email address *isn't correct*, enter the correct email address and choose **Update**.</span></span> <span data-ttu-id="3101d-160">전자 메일 주소가 *올바르면* **취소**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-160">If the email address *is correct*, choose **Cancel**.</span></span>
 
-## <a name="itemized-costs-by-service"></a><span data-ttu-id="ec185-161">서비스 별로 항목별 비용</span><span class="sxs-lookup"><span data-stu-id="ec185-161">Itemized costs by service</span></span>
+## <a name="itemized-costs-by-service"></a><span data-ttu-id="3101d-161">서비스 별로 항목별 비용</span><span class="sxs-lookup"><span data-stu-id="3101d-161">Itemized costs by service</span></span>
 
-<span data-ttu-id="ec185-162">*사용량 기반 구독에 대해 서비스 별로 항목별 비용 (및 예상 사용량)을 볼*수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-162">You can *view itemized costs (and estimated usage) by service for usage-based subscriptions*:</span></span>
+<span data-ttu-id="3101d-162">*사용량 기반 구독에 대해 서비스 별로 항목별 비용 (및 예상 사용량)을 볼*수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-162">You can *view itemized costs (and estimated usage) by service for usage-based subscriptions*:</span></span>
 
-1. <span data-ttu-id="ec185-163">파트너 센터에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-163">Sign in to Partner Center.</span></span>
+1. <span data-ttu-id="3101d-163">파트너 센터에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-163">Sign in to Partner Center.</span></span>
 
-2. <span data-ttu-id="ec185-164">**CSP**의 왼쪽 메뉴에서 **고객**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-164">In the left-hand menu under **CSP**, choose **Customers**.</span></span>
+2. <span data-ttu-id="3101d-164">**CSP**의 왼쪽 메뉴에서 **고객**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-164">In the left-hand menu under **CSP**, choose **Customers**.</span></span>
 
-3. <span data-ttu-id="ec185-165">**고객** 페이지에서 고객의 **회사 이름을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-165">On the **Customers** page, select the customer's **Company name**.</span></span>
+3. <span data-ttu-id="3101d-165">**고객** 페이지에서 고객의 **회사 이름을**선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-165">On the **Customers** page, select the customer's **Company name**.</span></span>
 
-4. <span data-ttu-id="ec185-166">고객의 **구독** 페이지의 **사용량 기반 구독**에서 **구독의**이름을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-166">On the customer's **Subscriptions** page, under **Usage-based subscriptions**, select the name of the **Subscription**.</span></span>
+4. <span data-ttu-id="3101d-166">고객의 **구독** 페이지의 **사용량 기반 구독**에서 **구독의**이름을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-166">On the customer's **Subscriptions** page, under **Usage-based subscriptions**, select the name of the **Subscription**.</span></span>
 
-5. <span data-ttu-id="ec185-167">구독 페이지에서 서비스 별로 **항목별 비용** 및 현재 달의 **예상 사용량** 을 검토할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ec185-167">On the subscription's page, you can review the **Itemized costs** by service, and the **Estimated usage** for the current month.</span></span>
+5. <span data-ttu-id="3101d-167">구독 페이지에서 서비스 별로 **항목별 비용** 및 현재 달의 **예상 사용량** 을 검토할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3101d-167">On the subscription's page, you can review the **Itemized costs** by service, and the **Estimated usage** for the current month.</span></span>
