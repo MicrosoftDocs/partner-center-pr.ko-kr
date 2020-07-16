@@ -1,21 +1,20 @@
 ---
 title: 미결제, 사기 또는 오용 관리
+description: 온라인 트랜잭션과 관련 된 다양 한 위험과 이러한 위험을 관리 하 고 완화 하는 모범 사례에 대해 알아 두는 것이 중요 합니다.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 온라인 트랜잭션과 관련 된 다양 한 위험과 이러한 위험을 관리 하 고 완화 하는 모범 사례에 대해 알아 두는 것이 중요 합니다.
-keywords: 사기 행위, 오용, 적합 한 사용, 사용 제한 정책, 비 지불, 고객에 게 지불 하지 않음, 온라인 위험, 서비스 도용, 서비스 남용, 구독 일시 중단
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377807"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405564"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 미결제, 사기 또는 오용 관리
 
@@ -87,7 +86,7 @@ Microsoft의 적절 한 사용 정책 위반에 대 한 예는 다음과 같습�
 구매 후 고객 계정 관리에 대 한 제안 사항은 다음과 같습니다.
 
 - Microsoft 알림을 신속 하 게 수신, 검토, 조치 및 대응 하는 프로세스를 구현 합니다.
-- 적절 한 모니터링 임계값을 설정 하는 동안 클라우드 사용 비즈니스 요구 사항을 이해 하기 위해 고객에 게 문의 하세요. 예를 들어 파트너 센터에서 [월간 Azure 지출 예산을 설정할](set-an-azure-spending-budget-for-your-customers.md) 수 있습니다. 이를 통해 해당 월에 고객 사용량을 모니터링 하 고 고객이 예산에 근접 한 경우 통보를 받을 수 있습니다.
+- 적절 한 모니터링 임계값을 설정 하는 동안 클라우드 사용 비즈니스 요구 사항을 이해 하기 위해 고객에 게 문의 하세요. 예를 들어 파트너 센터에서 [월간 Azure 지출 예산을 설정할](set-an-azure-spending-budget-for-your-customers.md) 수 있습니다. 이러한 이해를 통해 해당 월에 고객 사용량을 모니터링 하 고 고객이 예산에 근접 한 경우 알려 줄 수 있습니다.
 - 정기적으로 사기 행위를 검색할 수 있도록 [고객 활동 로그](activity-logs.md) 를 정기적으로 모니터링 합니다.
 - 의심 스러운 활동이 검색 되 면 빠른 작업을 수행 합니다.
 - 위험 완화 제어를 먼저 구현 하지 않고 고객에 게 구독에 대 한 모든 관리 액세스 권한을 부여 하지 않도록 합니다.
@@ -100,4 +99,4 @@ Microsoft의 적절 한 사용 정책 위반에 대 한 예는 다음과 같습�
 - 선불 카드 또는 저장 된 값 카드와 같은 높은 위험 결제 기기를 수락 하지 않습니다.
 - 고객 지불 및 미수금 계정 미수금을 모니터링 합니다. 후기 지불 또는 비 지불액에 대해 표준화 된 dunning 프로세스를 적극적으로 적용 합니다.
 
-온라인 위험을 완화 하는 방법에 대 한 자세한 내용은 [온라인 트랜잭션 위험 관리 가이드](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip) 를 참조 하세요.
+온라인 위험을 완화 하는 방법에 대 한 자세한 내용은 [온라인 트랜잭션 위험 관리 가이드](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt) 를 참조 하세요.

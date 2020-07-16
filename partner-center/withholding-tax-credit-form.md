@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서
+keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서, 크레딧
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949578"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405524"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Microsoft가 아닌 현지 세금 기관에 지불 하는 경우 원천 세금을 제공한 확인 합니다.
 
@@ -40,7 +40,7 @@ ms.locfileid: "85949578"
 
 2. 왼쪽 메뉴에서 **청구** 를 선택 하 고 **청구 내역**으로 이동 합니다.
 
-3. 새로 **제출** 을 클릭 하 여 **새 세금 원천 요청** 페이지로 이동 합니다.
+3. 새 **세금 원천 요청** 페이지로 이동 하는 **새로 제출** 을 클릭 합니다.
 
    :::image type="content" source="images/wht1.png" alt-text="청구서에 대 한 새 세금 원천 제출":::
 

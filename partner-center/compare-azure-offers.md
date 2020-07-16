@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP(클라우드 솔루션 공급자) 프로그램의 파트너에 대한 새로운 Microsoft 상거래 환경의 제품 간의 주요 차이점을 비교합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908741"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377627"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP 프로그램에서 Azure 제품 간의 차이점 비교
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908741"
 - 기술 지원팀 상담원
 - 영업 상담원
 
-다음 표에서는 새로운 Microsoft 상거래 환경의 일부인 CSP(클라우드 솔루션 공급자) 프로그램을 통해 제공되는 제품 간의 주요 차이점에 대해 간략하게 설명합니다.
+이 문서에서는 CSP(클라우드 솔루션 공급자) 프로그램의 Azure 제품 간 주요 차이점에 대해 설명합니다.
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Azure 제품 간의 주요 차이점 개요
+
+다음 표에서는 새로운 Microsoft 상거래 환경의 일부인 CSP 프로그램 제품 간의 주요 차이점에 대한 개요를 제공합니다.
 
 |**제품**| **Azure 플랜**|**타사 마켓플레이스 제품**|**Azure Reservations**|**CSP를 통해 판매되는 서버 구독**|**사용자 수 기준 제품**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ ms.locfileid: "84908741"
 
 *Microsoft는 Azure 미터 가격에 프로그래밍 방식으로 실시간 액세스할 수 있도록 4분기에 가격표 API를 제공할 예정입니다.
 
-**자세한 내용**
+## <a name="next-steps"></a>다음 단계
 
 - [Azure 플랜으로 이동 - 시작](azure-plan-get-started.md)
 
 - [Azure 플랜 구매](purchase-azure-plan.md)
 
 - [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)
-
