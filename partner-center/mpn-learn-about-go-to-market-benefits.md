@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 Microsoft 제품 출시에 대해 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, 멤버 자격 혜택, 멤버 자격, 시장 출시 제품, Microsoft로 전환, 시장으로 이동, 골드 멤버 자격, 실버 멤버 자격
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94a980eb1632932989a08be028028c4a07b1c6f1
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072425"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436792"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
 
@@ -26,7 +25,7 @@ ms.locfileid: "85072425"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 
 Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 고 확장 하는 데 도움이 되는 멤버 자격 혜택에 액세스할 수 있습니다. Microsoft 리소스, 제품 및 프로그램을 사용 하는 시장 출시는 Microsoft 파트너 네트워크 멤버로 받은 [많은 이점](https://partner.microsoft.com/manage-your-partner-network-benefits) 중 하나입니다.

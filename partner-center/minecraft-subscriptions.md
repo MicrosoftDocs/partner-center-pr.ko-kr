@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Minecraft 교육용 Microsoft 교육 고객에 게 Microsoft 교육 스토어에서 다운로드할 수 있는 교육 기관 고객 구독을 판매 합니다.
 author: BrentSerbus
 ms.author: brserbus
-keywords: 공인 교육 파트너, 교육, 교육에 판매, 학교
 ms.localizationpriority: medium
-ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949006"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436822"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft 판매: 교육 기관 고객에 게 교육용 교육 기관 구독
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: MPN 멤버 자격 청구서를 보거나 다운로드 하는 방법, 세금 면제를 위한 파일 방법 및 Microsoft VAT ID 번호를 보내는 방법에 대해 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, 송장, 지도, 세금 면제, VAT, VAT ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633813"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436762"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>IMicrosoft 파트너 네트워크의 송장 및 세금
 

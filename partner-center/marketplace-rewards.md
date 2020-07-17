@@ -7,22 +7,21 @@ ms.subservice: partnercenter-csp
 description: 제품을 상업적 marketplace에 게시 하는 파트너는 마케팅 지원을 제공 하는 혜택을 받을 자격이 있습니다.
 author: laurabrenner
 ms.author: labrenne
-Keywords: marketplace 제품, 마케팅 지원, 보상, 게시자 혜택
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909011"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436842"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>파트너 센터에서 Marketplace 보상 관리 & 마케팅, 영업 및 기술 혜택 활성화
 
 적절 한 역할:
 
 - MPN 파트너 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 
 상용 marketplace에 소프트웨어 제품을 게시 하는 경우 Marketplace 보상은 마케팅, 판매 및 기술 혜택을 포함 하는 모든 제품을 대상으로 하는 지원을 제공 합니다.

@@ -9,13 +9,12 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-Keywords: Dynamics 365 제안, 갱신 제안, 새 Dynamics 365 Sku
-ms.openlocfilehash: 5225ff60399cd491009ecb16e4c17b4fc05c0052
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8575d87ab3c4c7970135a87b7ef7564c4fe06232
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949642"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436852"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 및 Customer Engagement 플랜을 기본(제한된 제품)에서 새 버전으로 마이그레이션
 
