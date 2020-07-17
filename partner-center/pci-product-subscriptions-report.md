@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위해 판매 하거나 관리 하는 클라우드 구독과 관련 하 여 개선할 수 있는 위치를 확인 하세요.
-keywords: PCI, 성능, 측정, 고객 성공, 클라우드 구독, 분석, 보고서
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948803"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436672"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 제품 구독 보고서
 

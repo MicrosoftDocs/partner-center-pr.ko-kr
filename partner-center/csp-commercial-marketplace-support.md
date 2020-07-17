@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP 프로그램의 상용 marketplace에서 타사 ISV 제품 또는 구독에 대 한 지원에 대해 알아봅니다.
 author: rbars
 ms.author: rbars
-keywords: 구독, 제품, Marketplace, 제 3 자, ISV, 게시자, 지원, CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c6fccc14cd01d8131933e3e957a7a3f64801866
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947678"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435042"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP 프로그램의 상용 마켓플레이스 제품 지원
 

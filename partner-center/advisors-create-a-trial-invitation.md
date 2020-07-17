@@ -7,14 +7,13 @@ description: 파트너가 Office 365을 사용해 볼 수 있도록 클라이언
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: advisor, office 365, 평가판
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458359"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436232"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: 클라이언트에서 Office 365을 사용해 볼 수 있는 평가판 초대 만들기 및 보내기
 

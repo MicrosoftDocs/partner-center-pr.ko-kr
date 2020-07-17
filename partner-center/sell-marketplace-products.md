@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터에서 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace에 게시 된 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
 author: BillLinzbach
 ms.author: BillLi
-keywords: 구독, Marketplace, 타사, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390600"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436572"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>파트너 센터를 사용하여 상용 마켓플레이스 제품에 대한 고객 구독 판매
 

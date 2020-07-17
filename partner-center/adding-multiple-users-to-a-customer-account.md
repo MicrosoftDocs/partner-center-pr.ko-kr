@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 한 번에 여러 사용자를 고객 계정에 추가 하는 방법을 알아봅니다. 쉼표로 구분 된 값 (.csv) 파일 형식을 사용 하 여 파트너 센터에 데이터 파일을 업로드 합니다.
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: 대량 업로드, 고객의 계정에 여러 사용자 추가, 고객의 사용자 추가, 고객 계정, 고객 사용자, 사용자에 대 한 대량 업로드
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377277"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436312"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>고객 계정에 여러 사용자 추가-파트너 센터에 데이터 파일 업로드
 

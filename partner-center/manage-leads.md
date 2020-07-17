@@ -7,17 +7,16 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터를 사용 하 여 조회에 응답 하 고 새로운, 기존 및 보관 된 잠재 고객 및 조회를 관리 합니다. 나중에 더 많은 조회를 가져오는 방법도 알아봅니다.
 author: sroy
 ms.author: sroy
-keywords: 조회, 공동 판매, 거래
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949436"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434372"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>고객 문의, 마케팅에 한정 된 잠재 고객 및 판매 한정 잠재 고객과 같은 다양 한 잠재 고객 관리
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>고객 문의, 마케팅 한정 잠재 고객 및 판매 한정 잠재 고객과 같은 다양한 잠재 고객 관리
 
 **적용 대상**
 

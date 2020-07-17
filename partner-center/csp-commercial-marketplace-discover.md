@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP 파트너가 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)의 SaaS 제품 또는 가격 책정을 보거나 검색 하는 방법에 대해 알아봅니다.
 author: rbars
 ms.author: rbars
-keywords: 구독, marketplace, 상업적 마켓플레이스, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, CSP 프로그램, CSP 파트너
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947761"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435122"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
 

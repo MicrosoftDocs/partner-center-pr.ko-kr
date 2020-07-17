@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 활동 로그를 보거나 내보내 고객 계정 트랜잭션 및 기타 고객 관련 파트너 관리 활동에 대 한 통찰력을 얻는 방법에 대해 알아봅니다.
 author: dineshvu
 ms.author: dineshvu
-Keywords: 활동 로그, 구독, 지불, 청구, 거래
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175997"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436402"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기
 

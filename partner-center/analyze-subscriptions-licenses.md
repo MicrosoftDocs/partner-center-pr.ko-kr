@@ -7,15 +7,14 @@ Description: 구독 및 라이선스 분석 페이지에서 메트릭을 사용 
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: 비즈니스 데이터
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175958"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436122"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>비즈니스 결정과 새로운 목표를 추진 하는 데 도움이 되는 구독 및 라이선스 분석
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 볼 수 있는 다양 한 청구 유형, 청구 기간 및 청구 날짜에 대해 알아봅니다.
 author: sodeb
 ms.author: sodeb
-keywords: 청구, 결제, 주문, 조정 파일, 조정파일
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e26e783cb552106e9fb7a85d1d549fc80cce4de4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948177"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435592"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>파트너 센터의 요금 청구 유형-라이선스 기반, 사용 기반 및 일회용 청구를 포함 합니다.
 

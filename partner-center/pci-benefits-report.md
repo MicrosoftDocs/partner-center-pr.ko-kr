@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스 성장에 도움이 되는 Microsoft 파트너 혜택의 유형을 확인 하 고 효율성을 높이고 팀의 능력을 향상 시킵니다.
-keywords: PCI, 성능, 측정, 이점, 분석, 보고서
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
-ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
+ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "86092357"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436712"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 혜택 보고서
 

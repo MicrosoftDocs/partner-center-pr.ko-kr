@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: 이러한 페이지를 사용 하 여 지불 및 소득 세부 정보 뿐만 아니라 프로그램 상태 및 전체 트랜잭션 기록을 보고 관리 하 고 내보낼 수 있습니다.
 author: kim-davis
 ms.author: kimnich
-keywords: 성과급, 지급, 지불, 동기 프로그램, 위치, 프로그램 상태
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377297"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436492"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기, 관리 및 내보내기
 

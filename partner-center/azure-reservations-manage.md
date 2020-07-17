@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객에 대 한 Azure 예약을 관리 하는 방법을 알아봅니다.
 author: amitravat
 ms.author: amrava
-keywords: azure, 예약, 관리, 청구, 구매, 취소, 교환, 조기 종료 요금
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175899"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435762"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>고객에 대 한 Microsoft Azure 예약 관리, 취소, 교환 또는 환불
 

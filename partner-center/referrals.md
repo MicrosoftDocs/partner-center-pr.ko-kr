@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 비즈니스 프로필을 만들어 파트너 센터 조회 기능을 통해 판매 잠재 고객을 생성 한 다음 이러한 참조에 응답 하는 방법을 알아봅니다.
 author: rbars
 ms.author: rbars
-keywords: 추천, 비즈니스 프로필, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7656b6cdf5c051abbd28420d228877da313503c5
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949297"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436612"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Microsoft의 추천을 통해 비즈니스 확장
 

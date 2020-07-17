@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터 교육 대시보드를 살펴보세요.
 author: sroy
 ms.author: sroy
-Keywords: 파트너 센터 정보, 보고서, 다운로드 보고서
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948671"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436652"
 ---
 # <a name="trainings-dashboard"></a>학습 대시보드
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 거래를 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 거래를 확인 하는 방법을 알아봅니다.
 author: sroy
 ms.author: sroy
-keywords: 조회, 공동 판매, 거래
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949458"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434362"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>파트너 센터의 공동 판매 기회를 관리 하 여 고객의 요구를 충족 하 고 더 나은 고객 요구를 정의 합니다.
 
@@ -56,7 +55,7 @@ ms.locfileid: "85949458"
 ## <a name="creating-a-co-sell-opportunity"></a>공동 판매 기회 만들기 
 
 > [!IMPORTANT]
-> Microsoft와 공동 판매 하려면 파트너가 상업적으로 사용할 수 있는 솔루션, 참여 하는 영업 팀 및 강력한 시장 출시 전략이 필요 합니다. 또한 특정 추가 조건을 충족 해야 합니다. 자세한 내용은 [공동 판매 준비](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)를 참조 하세요.
+> Microsoft와 공동 판매하려면 파트너에게 상용 솔루션, 참여하는 영업 팀 및 강력한 시장 출시 전략이 필요합니다. 또한 특정 추가 조건을 충족해야 합니다. 자세한 내용은 [공동 판매 준비](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)를 참조 하세요.
 
 
 두 가지 유형의 공동 판매 기회를 만들 수 있습니다. 
@@ -65,7 +64,7 @@ ms.locfileid: "85949458"
 
 이 특정 거래에 대 한 고객을 선택 합니다. 해당 위치를 입력 하 고 이름을 입력 하기 시작 합니다. 자동 제안에는 검색 조건에 따라 권장 사항이 표시 되기 시작 합니다. 많은 회사에 동일한 위치에 둘 이상의 비즈니스 엔터티가 있으므로 여러 결과가 표시 될 수 있습니다. 선택 해야 하는 것이 확실 하지 않은 경우 고객에 게 속하는 D-U-N-S 번호를 확인할 수 있습니다. 작업 중인 고객과 정확히 일치 하는 항목을 선택 해야 합니다.
 
-**고객 선택**을 클릭 하면 해당 거래의 기본 연락 지점인 사용자의 이름, 전화 번호 및 전자 메일 주소를 입력 하 라는 메시지가 표시 됩니다. 이러한 세부 정보는 선택 사항이 며, Microsoft 판매를 초대 하 여 참여를 도울 계획인 경우에만 필요 합니다. **새로 만들기**를 선택합니다.
+**고객 선택**을 클릭 하면 해당 거래의 기본 연락 지점인 사용자의 이름, 전화 번호 및 전자 메일 주소를 입력 하 라는 메시지가 표시 됩니다. 이러한 세부 정보는 선택 사항이 며, Microsoft 판매를 초대 하 여 참여를 도울 계획인 경우에만 필요 합니다. **다음**을 선택합니다.
 
 > [!IMPORTANT]
 > Microsoft에 문의 하 여 고객에 게 연락 정보를 제공 하는 데 필요한 고객의 동의를 얻어야 합니다. Microsoft는이 정보를 사용 하 여 고객에 게 직접 문의할 수 있습니다.

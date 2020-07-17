@@ -6,16 +6,15 @@ description: CSP 프로그램 파트너의 경우 지역별 세금 책임, CSP �
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
-keywords: 세금, 세금 면제, vat, 대리점, 요금 청구
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377377"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436422"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP 프로그램에서 파트너에 대 한 지역 또는 국가의 세금 및 세금 면제 세부 정보에 대해 알아봅니다.
 
@@ -95,7 +94,7 @@ Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 �
 
 6. 지원 요청에서 보내려면 **제출** 을 선택 합니다. Microsoft에서 추가 정보를 전자 메일로 보냅니다.
 
-## <a name="support"></a>고객 지원팀
+## <a name="support"></a>지원
 
 세금 면제 및 환불에 대 한 기타 질문은 파트너 센터에서 지원을 요청 하세요. Microsoft에서 2 주 동안 연락 하 여 문제를 해결 하세요.
 

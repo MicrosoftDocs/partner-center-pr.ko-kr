@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터 내에서 상업적 marketplace의 고객을 위해 구매한 ISV SaaS 제품 또는 구독에 대 한 청구 작동 방식을 알아봅니다.
 author: rbars
 ms.author: rbars
-keywords: 구독, 제품, 구매, Marketplace, 제 3 자, ISV, 청구, 송장, 조정, 정찰 파일
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947818"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435142"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터에서 상업용 마켓플레이스 제품 및 구독에 대 한 청구
 

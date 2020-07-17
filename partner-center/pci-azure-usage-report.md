@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위해 판매 하거나 관리 하는 Azure 구독 사용과 관련 하 여 개선할 수 있는 위치를 확인 하세요.
-keywords: PCI, 성능, 측정, 고객 성공, Azure 사용량, 구독, 분석, 보고서
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8938b490741c28f16a9bdc94cf25ddf60ff90edc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949372"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436722"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Azure 사용 보고서
 

@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: 라이선스 기반 SaaS 트랜잭션에 대 한 파트너 센터의 일반적인 청구 시나리오에 대해 알아봅니다.
 author: sodeb
 ms.author: sodeb
-Keywords: 청구, 지불, 일회성 구매, 되풀이 구매, 구독, 사용자
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d19ab812d09ff797de70eb27430e26f7a0966980
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eb98a45a1ddbf150c64bb7021a2d18a0abd957fd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947944"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435352"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>파트너 센터의 라이선스 기반 SaaS 트랜잭션에 대 한 일반적인 청구 시나리오
 

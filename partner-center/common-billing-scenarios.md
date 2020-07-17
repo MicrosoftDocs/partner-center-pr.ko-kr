@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 새 구독을 추가 하거나, 라이선스 수량을 조정 하거나, 구독을 취소 하는 경우 대금 청구를 살펴보세요. 사용량 기반 및 라이선스 기반 구독이 어떻게 다른 지 확인 합니다.
 author: sodeb
 ms.author: sodeb
-Keywords: 청구, 지불, 주문, 사용량, 라이선스 기반 청구, 기념일 날짜, 용어, 취소, 갱신, 가격 수식, 조정 파일, 정찰 파일
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947924"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435342"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업 하는 CSP 프로그램 파트너에 대 한 일반적인 청구 시나리오
 

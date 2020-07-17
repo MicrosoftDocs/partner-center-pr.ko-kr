@@ -8,14 +8,13 @@ description: CSP 프로그램 파트너가 파트너 센터를 사용 하 여 �
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
-keywords: 직접 청구, 전환, 간접 재판매인
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949219"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436472"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -28,7 +27,7 @@ ms.locfileid: "85949219"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>시작
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 
@@ -95,7 +94,7 @@ ms.locfileid: "85949219"
 
 2. **새 고객 초대**를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다. 공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.
 
-3. 다음 페이지에서 초안 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
+3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
 
 4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 후 **완료**를 선택합니다.
 
@@ -195,7 +194,7 @@ ms.locfileid: "85949219"
 
     :::image type="content" source="images/direct/direct6.png" alt-text="새 고객 초대":::
 
-3. 다음 페이지에서 초안 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
+3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
 
 4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 후 **완료**를 선택합니다.
 

@@ -5,15 +5,14 @@ ms.date: 05/26/2020
 Description: 파트너 센터 대금 청구에 대 한 자세한 내용은 사전 설정 된 용어에 대 한 일회성 청구 및 선택, 반복 요금 청구에 대해 미리 알아보세요.
 author: sodeb
 ms.author: sodeb
-keywords: 청구, 일회성, 되풀이, 구매, 요금, isv
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7a5c7a9c756067c75e27e05768718436afc101bd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390250"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434132"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>파트너 센터에서 일회성 청구 및 선택 되풀이 요금 청구
 

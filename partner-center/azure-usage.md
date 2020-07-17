@@ -1,5 +1,5 @@
 ---
-title: 최대 예약 사용량에 대 한 Azure VM 크기 조정
+title: 최대 예약 사용량에 맞게 Azure VM 크기 조정
 ms.topic: article
 ms.date: 07/08/2020
 ms.service: partner-dashboard
@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: VM에 대 한 Microsoft Azure 예약을 구매할 때 고객의 컴퓨팅 요구에 따라 VM (가상 머신)의 크기를 조정 하는 방법을 알아봅니다.
 author: BillLinzbach
 ms.author: BillLi
-keywords: azure, 예약, vm, 관리, 사용량, 크기 조정
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377657"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435742"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용에 대한 Microsoft Azure VM 크기 조정
 

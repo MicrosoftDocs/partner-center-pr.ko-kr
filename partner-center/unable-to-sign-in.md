@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터에 로그인 할 수 없는 경우 수행할 작업-회사 계정 암호 또는 학교 계정 암호를 잊어버린 경우 해당 암호를 다시 설정 하는 방법에 대 한 정보를 포함 합니다.
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: 로그인 문제, 암호 잊음, 암호
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265050"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436512"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>파트너 센터에 로그인 할 수 없고 암호를 재설정 해야 하는 경우
 
@@ -28,6 +27,6 @@ ms.locfileid: "86265050"
 ## <a name="see-more"></a>자세히 보기
 
 - [계정 정보 확인](verification-responses.md)
-- [내 암호 재설정](reset-my-pasword.md)
+- [암호 다시 설정하기](reset-my-pasword.md)
 - [사용자 암호 다시 설정](reset-a-user-password.md)
 

@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Dynamics 365 CRM과 파트너 센터의 조회 동기화
 author: sroy
 ms.author: sroy
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ec0a23afb9e98cc6604977a5a0489b1fc7c5e8a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948006"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435452"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 

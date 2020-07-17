@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP 프로그램 파트너가 파트너 센터 마켓플레이스를 사용 하 여 Isv (독립 소프트웨어 공급 업체)의 SaaS 제품을 고객에 게 구매할 수 있는 방법에 대해 알아봅니다.
 author: rbars
 ms.author: rbars
-keywords: 구독, marketplace, 상용 마켓플레이스, 타사, ISV, SaaS 제품, 클라우드 솔루션 공급자 프로그램, 제품 구매, 구독 구매
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947697"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435062"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>파트너 센터에서 고객을 위한 상용 마켓플레이스 제품 구매
 

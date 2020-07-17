@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터를 사용 하 여 서비스에서 문제가 발생 하는 경우 고객의 서비스 상태를 확인 하는 방법을 알아봅니다.
 author: brentserbus
 ms.author: brserbus
-Keywords: 상태, 서비스 상태, 서비스 문제
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 110e47e18620230c8f152864d8e61b5847bb8c51
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 11ec4cfcfc9326c1e9d6598dce528410c0e02542
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219541"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435482"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>잠재적 서비스 문제 또는 중단을 보고 하는 고객의 서비스 상태 확인
 

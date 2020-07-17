@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 골드/실버 역량과 함께 고급 특수화를 획득 하는 방법을 알아보세요.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390200"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436352"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>전문 지식을 전시 하 고 고객에 게는 전문 전문 지식을 획득 하세요. 
 

@@ -4,18 +4,17 @@ description: 이 파트너 센터 통합 보고 대시보드를 살펴보세요.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-keywords: PCI, 성능, 고객 성공, 측정, 보고 데이터
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 9e56ae1922abee38537d65564781fea3cb0251e7
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949418"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436772"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
 

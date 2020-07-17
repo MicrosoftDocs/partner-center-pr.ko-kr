@@ -5,15 +5,14 @@ ms.date: 05/13/2020
 description: 월별 청구를 사용할 때 파트너 센터의 일반적인 시나리오-새 구독 추가, 라이선스 수량 변경, 구독 일시 중단 등이 있습니다.
 author: sodeb
 ms.author: sodeb
-Keywords: 청구, 지불, 주문, 사용량, 월간 청구, 구독, 조정 파일
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a2e135f7f3adb1f08de179ceeb031c0e649063
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948017"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435402"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>새 구독, 라이선스 금액 변경 또는 일시 중단에 대 한 샘플 월간 청구 시나리오
 

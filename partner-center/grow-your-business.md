@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너 비즈니스 성장을 위한 리소스에 대해 알아보세요. 여기에는 Microsoft에서 판매 잠재 고객 (조회)을 가져오는 방법이 포함 됩니다.
-keywords: 추천, 추천에 응답, 잠재 고객, 영업 잠재 고객, 마케팅, 마케팅 프로필, 비즈니스 프로필, 비즈니스 성장, 비즈니스 기회, 역량, 실버 멤버십, 골드 멤버십, 평가판 제품, 시장 확장, 국가별 클라우드
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e783c9881ad314618b7851bd9f877b52727e286
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: c244b5d8a1498ed0107925ed0a6ef0e9d584cf83
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390510"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434592"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft 파트너 비즈니스 성장-리드를 받고 회사를 분리 하는 방법을 알아봅니다 &.
 

@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: 하나 이상의 Azure 구독에서 잠재적 이용 마이닝 (또는 암호화 마이닝)에 대 한 알림이 표시 되는 경우의 의미를 알아봅니다.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: 암호화-마이닝, 이용 마이닝, 보안
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947853"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435202"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>이용 마이닝 작업에 대 한 파트너 센터 알림
 
@@ -73,6 +72,6 @@ ms.locfileid: "85947853"
 
 6. **설명** 필드에 영향을 받는 구독의 이름을 다른 질문이 나 문제와 함께 입력 합니다.
 
-7. 연락처 정보를 입력 합니다.
+7. 연락처 정보를 입력합니다.
 
 8. **제출**을 선택합니다.

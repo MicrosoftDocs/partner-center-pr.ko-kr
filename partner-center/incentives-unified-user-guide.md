@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: 독립 소프트웨어 공급 업체를 위한 Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불에 대 한 지급 정보에 액세스 하는 방법에 대해 알아봅니다.
 author: kim-davis
 ms.author: kimnich
-keywords: 성과급, 지급
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: eae2220525e05c2da612896c77014f4225fe319f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377727"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434552"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불을 위한 지급 페이지 액세스
 

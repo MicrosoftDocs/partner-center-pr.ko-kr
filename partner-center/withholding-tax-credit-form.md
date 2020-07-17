@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: 원천 세금 크레딧, 세금 크레딧, 독일 세금 신용 양식, 세금 인증서, 크레딧
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: b4660db3b23f44a9b7bbf7bf238a03b271405bfe
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405524"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436452"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Microsoft가 아닌 현지 세금 기관에 지불 하는 경우 원천 세금을 제공한 확인 합니다.
 

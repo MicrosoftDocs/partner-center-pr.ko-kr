@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: 파트너 센터에서 공동 op 클레임의 성과급을 시작 하는 방법을 알아봅니다. 기록에서 클레임의 작성으로 이동 하는 모든 활동을 볼 수 있습니다.
 author: kim-davis
 ms.author: kimnich
-keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 18390bf51b2ef4be1233b04407c0ac2b62315063
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947844"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435232"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>인센티브 클레임 만들기 및 관리
 

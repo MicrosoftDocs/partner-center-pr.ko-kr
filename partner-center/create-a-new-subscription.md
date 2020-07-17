@@ -8,14 +8,13 @@ description: Microsoft에서 게시 한 제품 및 타사 Isv가 게시 한 SaaS
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
-Keywords: 구독, 새로 만들기, 구독 추가, 일시 중단, 취소, 일시 중단, 일시 중단, SaaS, 라이선스, ISV, 타사
 ms.localizationpriority: medium
-ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377599"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435252"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 

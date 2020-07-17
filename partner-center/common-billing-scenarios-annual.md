@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: 파트너 센터 연간 청구-새 구독을 추가 하 고, 청구 날짜 전에 라이선스를 추가 하거나, 라이선스 수량을 변경 하거나, 구독을 일시 중단/다시 활성화 하는 경우
 author: sodeb
 ms.author: sodeb
-Keywords: 청구, 지불, 주문, 사용량, 라이선스 기반 청구, 기념일 날짜, 용어, 취소, 갱신, 가격 수식, 조정 파일, 정찰 파일
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab6eabf44e5d3811721993e20b78e3038c80e828
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 086a7d359e1b903684af4ecddac37eda584e55f8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948047"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435462"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>파트너 센터의 일반적인 연간 청구 시나리오
 

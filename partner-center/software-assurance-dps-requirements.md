@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 회사에서 기업 고객에 게 제공할 수 있는 각 소프트웨어 보증 계획 서비스 계약에 대 한 자격 요구 사항에 대해 알아봅니다.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-Keywords: 배포 전, 계획, 소프트웨어 보증, 계약, 요구 사항, 자격, 제공
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390210"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436552"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>서비스 계약 계획에 대 한 자격 요구 사항 보기
 

@@ -5,15 +5,14 @@ ms.date: 05/18/2020
 description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다.
 author: sodeb
 ms.author: sodeb
-keywords: 청구, 송장
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ed4224e67312605367709174386327a521052
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377097"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434532"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>파트너 센터 청구 송장-청구 및 일회성 요금 필드를 읽는 방법을 알아봅니다.
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 적절 한 설명서, 송장, 문 및 실행 증명을 구성 하 여 원활한 공동 op 클레임을 전송 하는 방법을 알아봅니다.
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: 성과급 청구, 공동 op 클레임, 공동 작동 자금
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377637"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435422"
 ---
 # <a name="incentives-co-op-claims-overview"></a>인센티브 협조적 클레임 개요
 

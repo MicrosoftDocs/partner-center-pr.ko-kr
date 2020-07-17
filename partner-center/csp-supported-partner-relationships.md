@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP 프로그램에서 파트너에 대해 지원 되는 트랜잭션 시나리오와 다양 한 파트너 관계에 대해 알아봅니다.
 author: dineshvu
 ms.author: dineshvu
-keywords: 간접 재판매인, 간접 공급자, 직접 청구, 직접 청구 파트너, 클라우드 솔루션 공급자 프로그램, CSP 프로그램, CSP 파트너, CSP 트랜잭션
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: cbba669cbccf96fe9addc6d4b7c7ac4b86c15ddf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947637"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434902"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>파트너가 CSP 프로그램에서 다른 파트너와 함께 작동 하는 방법 알아보기
 

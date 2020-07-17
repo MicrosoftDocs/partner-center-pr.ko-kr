@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이 제품 라이선스 보고서를 확인 하 고 고객을 위해 판매 하거나 관리 하는 사용이 허가 된 (또는 사용자 기반) 클라우드 제품을 사용 하 여 개선 하는 방법에 대해 알아보세요.
-keywords: PCI, 성능, 측정, 고객 성공, 클라우드 구독, 분석, 보고서
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948792"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436662"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드의 제품 라이선스 보고서
 

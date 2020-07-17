@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: 구독을 구매 하 고, 구독을 추가 하 고, 사용자를 추가 하거나 제거 하는 경우 파트너 센터 청구 예를 한 번에 확인 하 고 되풀이 구매를 선택 합니다.
 author: sodeb
 ms.author: sodeb
-Keywords: 청구, 지불, 일회성 구매, 되풀이 구매, 구독, 사용자
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2ae1c543943b97ec961b166ae6c08c56e76cd6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947963"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435392"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>한 번의 파트너 센터 청구 시나리오 및 반복 구매를 선택 합니다.
 

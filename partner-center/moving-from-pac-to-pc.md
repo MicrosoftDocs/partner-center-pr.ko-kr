@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 관리 센터 (PAC)에서 파트너 센터로 이동 하는 경우 CSP 프로그램 멤버 자격, 고객 조회, 성과급 등을 관리 하는 방법을 알아보세요.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PAC, Office 365 관리자, PAC 기능
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795740"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434342"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>PAC(파트너 관리 센터)에서 파트너 센터로 이동
 
@@ -29,7 +28,7 @@ ms.locfileid: "83795740"
 파트너 센터는 Microsoft 및 고객과의 파트너 관계를 관리할 수 있는 단일 공간으로 진화하고 있습니다. 파트너 센터에서 멤버십, 고객 추천, 인센티브 및 CSP(클라우드 솔루션 공급자) 프로그램의 모든 기타 측면을 관리할 수 있습니다. 파트너 센터에서 PAC에서 했던 대부분 작업을 수행할 수 있지만, 일부 기능 및 작업은 다르게 작동할 수 있습니다.
 
 
-|**작업**   |**PAC**   |**파트너 센터**   |
+|**동작**   |**PAC**   |**파트너 센터**   |
 |--------------|:--------------|:---------------|
 |사용자 계정 활동 및 고객의 개요|홈 화면|파트너 센터|
 |새 고객 유치 및 유료 및 평가판 서비스에 대한 견적 제공|비즈니스 구축 -> 견적 전송|유료 견적은 불가능합니다. CSP 평가판은 Advisor 파트너가 CSP 간접 재판매인으로 전환되고 평가판을 지원하는 CSP 간접 공급자와 연결하는 경우 제공됩니다. |

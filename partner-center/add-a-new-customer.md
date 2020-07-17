@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새 고객 레코드를 추가 하는 방법에 대해 알아봅니다. 그런 다음 고객 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객 지원 서비스를 제공할 수 있습니다.
 author: parthp
 ms.author: parthp
-keywords: 고객, 고객 계정, 파트너 센터의 고객 계정 추가, 고객, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c4486153c5b9a03b90102dd42460e61ad43ecbf8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947448"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436382"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>파트너 센터에서 신규 고객 레코드를 추가하는 방법
 

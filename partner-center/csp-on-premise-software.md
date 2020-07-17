@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터에서 고객을 대신 하 여 온-프레미스 소프트웨어 구독을 구매, 관리, 판매 및 취소할 수 있는 방법에 대해 알아봅니다.
 author: BillLinzbach
 ms.author: BillLi
-keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377606"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434942"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>CSP (클라우드 솔루션 공급자) 프로그램을 통해 온-프레미스 소프트웨어 판매
 
@@ -55,16 +53,17 @@ CSP의 온-프레미스 소프트웨어는 클라우드 중심 프로그램에�
 
 
 ## <a name="cancel-a-purchase"></a>구입 취소
+
 구매를 취소 하려면 다음 절차를 따르십시오. 취소가 완료 되 면 소프트웨어 키가 해지 됩니다. 
 
 >[!NOTE]
 >구매를 취소하려면 관리 에이전트여야 합니다. 
 
 1.  프로세스를 시작 하기 전에 다음이 있는지 확인 합니다. 
-    -   고객 테넌트 GUID 또는 도메인 이름
-    -   주문 ID 또는 구독 ID
-    -   환불 이유
-    -   요청된 금액
+    - 고객 테넌트 GUID 또는 도메인 이름
+    - 주문 ID 또는 구독 ID
+    - 환불 이유
+    - 요청된 금액
 
 2.  고객의 세부 정보 페이지에서 **소프트웨어**를 선택 합니다. 구매한 모든 소프트웨어 목록이 표시 됩니다. 
 

@@ -1,5 +1,5 @@
 ---
-title: 조회 응답
+title: 추천에 응답
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 정규화 된 Microsoft 파트너가 조회에 응답 하 고, 새, 기존 및 보관 된 조회를 관리 하 고, 나중에 더 많은 조회를 받을 수 있는 방법을 알아봅니다.
 author: rajap-ms
 ms.author: rajap
-keywords: 추천, RFI, 파트너 찾기
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302250"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436602"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>조회에 응답 하 고 잠재적인 비즈니스 잠재 고객 확보
 
@@ -81,3 +80,7 @@ ms.locfileid: "86302250"
 - **거래를 신중하게 수락합니다**. 파트너가 수락 및 거절하는 거래 유형이 모니터링되며, 이 정보는 비슷한 거래를 찾는 데 사용됩니다. 잘 맞지 않는 거래를 수락 해도 검색 결과가 개선 되지 않으며 수신 하는 잠재 고객의 품질에 영향을 줄 수 있습니다.
 
 - **예상 거래 규모, 완료 날짜, 최종 거래 상태(성공 또는 실패)를 보고합니다**. 이 정보를 사용 하 여 계속 해 서 품질 조회를 제공할 예정입니다.
+
+## <a name="next-steps"></a>다음 단계
+
+-[잠재 고객 관리](manage-leads.md)

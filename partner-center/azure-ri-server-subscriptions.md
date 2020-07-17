@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 고객에 대 한 Azure 예약 및 서버 구독을 획득, 프로 비전 및 관리 하기 위한 클라우드 솔루션 공급자 기회에 대해 알아봅니다.
 author: rbars
 ms.author: rbars
-keywords: Azure, 구독, VM, 예약, 예약 된 인스턴스
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948263"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435712"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
@@ -83,7 +82,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 - Azure VMware Solution by CloudSimple
 
-## <a name="getting-started"></a>시작
+## <a name="getting-started"></a>시작하기
 
 고객과의 Azure Reservations 배치 하 고 최대한 빨리 운영상을 실행 하는 방법을 이해 하려면 준비 자료를 검토 하는 다음과 같은 방법을 사용 하는 것이 좋습니다.
 
@@ -118,7 +117,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 - [Azure Databricks 단위 예약](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - CSP 가격 목록: **Microsoft Azure 예약 인스턴스** 및 **소프트웨어 구독** 가격표는 파트너 센터 [가격 책정 & 제품](https://partner.microsoft.com/pcv/sales) 페이지에 모두 있습니다.
 
-### <a name="training"></a>학습
+### <a name="training"></a>교육
 
 등록 하 여 [상업적 라이선스 준비 웹 세미나](https://commercial-licensing.eventbuilder.com/FY2019_ALL) 및 주문형 이벤트를 확인 합니다.
 

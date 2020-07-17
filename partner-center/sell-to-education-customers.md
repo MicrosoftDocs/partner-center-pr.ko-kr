@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
-keywords: 교육, 특수 세그먼트
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949233"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436582"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 & 파트너 센터에서 교육 고객을 만드는 방법
 

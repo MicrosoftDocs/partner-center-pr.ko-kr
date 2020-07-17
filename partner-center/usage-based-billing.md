@@ -5,15 +5,14 @@ ms.date: 06/05/2020
 Description: 월별 사용 요금에 대 한 요금이 청구 되는 파트너 센터의 사용량 기반 요금 청구에 대해 자세히 알아보세요.
 author: sodeb
 ms.author: sodeb
-keywords: 청구, 사용량 기반, 사용량
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e75e915d4728d021856b099b7c62434f6481254
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b3c3626bea685a8751ffcc5aa877fd95824e693
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949088"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436462"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>월간 종 량 제 사용량에 대 한 사용량 기반 청구 이해
 

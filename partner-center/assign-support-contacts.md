@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Microsoft 서비스에 대 한 구독이 있는 고객의 기술 지원 담당자에 게 재판매인을 할당 하는 방법에 대해 알아봅니다.
 author: BillLinzbach
 ms.author: BillLi
-keywords: 도움말 에이전트, 지원, 지원 담당자 지정 지원 연락처
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 481f8cdf0f2b1834bca12c2523e43c76765bae4b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377677"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435952"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>고객에 대 한 기술 지원 담당자로 재판매인 할당
 

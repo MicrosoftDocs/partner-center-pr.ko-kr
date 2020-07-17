@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 고객 서비스 문제를 Microsoft로 에스컬레이션 하는 것이 적합 한 경우와 그에 대 한 지원 티켓을 파일 하는 방법에 대해 알아보세요.
 author: BrentSerbus
 ms.author: brserbus
-Keywords: 서비스 요청, 서비스 티켓, 지원, 지원 권한, aobo, Azure aobo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 512b8b51dd036bb6428a3f5f730c36168c5fa455
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 20b1fb378af7f5a9cc565e944e3b255abb946d54
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949273"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434072"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 

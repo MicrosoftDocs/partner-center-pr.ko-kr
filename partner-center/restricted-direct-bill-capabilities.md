@@ -8,14 +8,13 @@ description: CSP 직접 청구 파트너 요구 사항 및 기능이 제한 되�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: 직접 청구, 제한
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 710c012af7ded851693eacef0e150bef897ef786
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679420"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436592"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
 

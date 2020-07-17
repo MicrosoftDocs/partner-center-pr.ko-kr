@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 라이선스, 구독 및 Azure 사용량에 대 한 판매 및 배포, 고객 성장 및 수익 증가에 대 한 스냅숏을 참조 하세요.
-keywords: PCI, 성능, 고객 성공, 측정,
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948822"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436702"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>파트너 센터 정보에서 사용할 수 있는 개요 대시보드 보고서
  

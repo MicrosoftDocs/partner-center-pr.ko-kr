@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 새 파트너 센터 프로그램에 등록 하려고 할 때 계정 확인의 상태를 따릅니다. 필요한 경우 추가 정보를 제공 하는 방법을 알아봅니다.
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: 확인, 확인, 거부 됨, 파트너 프로필 업데이트
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4f5f44788c618386835d69fa435596b95cdcd62
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265023"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436442"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>새 파트너 센터 프로그램에 등록할 때 계정 정보 확인
 
