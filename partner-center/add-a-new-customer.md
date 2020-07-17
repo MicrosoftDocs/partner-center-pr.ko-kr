@@ -7,69 +7,68 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새 고객 레코드를 추가 하는 방법에 대해 알아봅니다. 그런 다음 고객 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객 지원 서비스를 제공할 수 있습니다.
 author: parthp
 ms.author: parthp
-keywords: 고객, 고객 계정, 파트너 센터의 고객 계정 추가, 고객, 고객 추가, 고객 계정 만들기
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c4486153c5b9a03b90102dd42460e61ad43ecbf8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947448"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436382"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a><span data-ttu-id="ba3b4-105">파트너 센터에서 신규 고객 레코드를 추가하는 방법</span><span class="sxs-lookup"><span data-stu-id="ba3b4-105">How to add a new customer record in Partner Center</span></span>
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a><span data-ttu-id="96836-104">파트너 센터에서 신규 고객 레코드를 추가하는 방법</span><span class="sxs-lookup"><span data-stu-id="96836-104">How to add a new customer record in Partner Center</span></span>
 
-<span data-ttu-id="ba3b4-106">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="ba3b4-106">**Applies to**</span></span>
+<span data-ttu-id="96836-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="96836-105">**Applies to**</span></span>
 
-- <span data-ttu-id="ba3b4-107">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="ba3b4-107">Partner Center</span></span>
-- <span data-ttu-id="ba3b4-108">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="ba3b4-108">Partner Center for Microsoft Cloud for US Government</span></span>
-- <span data-ttu-id="ba3b4-109">클라우드 솔루션 공급자 프로그램 파트너</span><span class="sxs-lookup"><span data-stu-id="ba3b4-109">Cloud Solution Provider program partners</span></span>
+- <span data-ttu-id="96836-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="96836-106">Partner Center</span></span>
+- <span data-ttu-id="96836-107">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="96836-107">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="96836-108">클라우드 솔루션 공급자 프로그램 파트너</span><span class="sxs-lookup"><span data-stu-id="96836-108">Cloud Solution Provider program partners</span></span>
 
-<span data-ttu-id="ba3b4-110">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="ba3b4-110">**Appropriate roles**</span></span>
+<span data-ttu-id="96836-109">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="96836-109">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="ba3b4-111">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="ba3b4-111">Global admin</span></span>
-- <span data-ttu-id="ba3b4-112">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="ba3b4-112">User management admin</span></span>
-- <span data-ttu-id="ba3b4-113">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="ba3b4-113">Admin agent</span></span>
-- <span data-ttu-id="ba3b4-114">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="ba3b4-114">Sales agent</span></span>
+- <span data-ttu-id="96836-110">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="96836-110">Global admin</span></span>
+- <span data-ttu-id="96836-111">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="96836-111">User management admin</span></span>
+- <span data-ttu-id="96836-112">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="96836-112">Admin agent</span></span>
+- <span data-ttu-id="96836-113">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="96836-113">Sales agent</span></span>
 
-<span data-ttu-id="ba3b4-115">이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-115">This article tells how to add a new customer to your list of customers in Partner Center.</span></span> <span data-ttu-id="ba3b4-116">구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-116">Follow these steps before you can sell subscriptions, manage billing, or provide support to a customer.</span></span>
+<span data-ttu-id="96836-114">이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-114">This article tells how to add a new customer to your list of customers in Partner Center.</span></span> <span data-ttu-id="96836-115">구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 다음 단계를 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-115">Follow these steps before you can sell subscriptions, manage billing, or provide support to a customer.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="ba3b4-117">[다중 채널](multichannel.md) 또는 [multipartner](multipartner.md) 시나리오를 통해 파트너 센터에 이미 고객 레코드가 있는 사용자를 포함 하는 기존 고객의 경우 여기에 설명 된 단계를 수행 하는 대신 [해당 사용자와의 관계를 요청할](request-a-relationship-with-a-customer.md)수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-117">For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.</span></span>
+><span data-ttu-id="96836-116">[다중 채널](multichannel.md) 또는 [multipartner](multipartner.md) 시나리오를 통해 파트너 센터에 이미 고객 레코드가 있는 사용자를 포함 하는 기존 고객의 경우 여기에 설명 된 단계를 수행 하는 대신 [해당 사용자와의 관계를 요청할](request-a-relationship-with-a-customer.md)수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="96836-116">For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.</span></span>
 
-## <a name="to-add-a-new-customer-in-partner-center"></a><span data-ttu-id="ba3b4-118">파트너 센터에서 새 고객을 추가하려면</span><span class="sxs-lookup"><span data-stu-id="ba3b4-118">To add a new customer in Partner Center</span></span>
+## <a name="to-add-a-new-customer-in-partner-center"></a><span data-ttu-id="96836-117">파트너 센터에서 새 고객을 추가하려면</span><span class="sxs-lookup"><span data-stu-id="96836-117">To add a new customer in Partner Center</span></span>
 
-1. <span data-ttu-id="ba3b4-119">파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-119">Select **Customers** from the Partner Center menu, and then select **Add customer**.</span></span>
+1. <span data-ttu-id="96836-118">파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-118">Select **Customers** from the Partner Center menu, and then select **Add customer**.</span></span>
 
-2. <span data-ttu-id="ba3b4-120">**계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-120">On the **Account info** page, enter the customer's details and primary contact information.</span></span> <span data-ttu-id="ba3b4-121">고객이 최신 [Microsoft 고객 계약](agreements.md)을 수락 하 고 서명 했는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-121">Verify as well that the customer has accepted and signed the latest [Microsoft Customer Agreement](agreements.md).</span></span>
+2. <span data-ttu-id="96836-119">**계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-119">On the **Account info** page, enter the customer's details and primary contact information.</span></span> <span data-ttu-id="96836-120">고객이 최신 [Microsoft 고객 계약](agreements.md)을 수락 하 고 서명 했는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-120">Verify as well that the customer has accepted and signed the latest [Microsoft Customer Agreement](agreements.md).</span></span>
 
    >[!NOTE]
    >
-   ><span data-ttu-id="ba3b4-122">고객 검증 중에 정확성을 유지 하려면 다음을 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-122">To ensure accuracy during customer verification, please ensure that you:</span></span>
+   ><span data-ttu-id="96836-121">고객 검증 중에 정확성을 유지 하려면 다음을 확인 하세요.</span><span class="sxs-lookup"><span data-stu-id="96836-121">To ensure accuracy during customer verification, please ensure that you:</span></span>
    >
-   >- <span data-ttu-id="ba3b4-123">공식 문서에 표시 되는 정확한 법적/공식 이름 사용</span><span class="sxs-lookup"><span data-stu-id="ba3b4-123">Use exact legal/official name as it appears in the official documents</span></span>
-   >- <span data-ttu-id="ba3b4-124">머리글자어 또는 short 형식을 사용 하지 마십시오.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-124">Avoid using acronyms or short forms</span></span>
-   >- <span data-ttu-id="ba3b4-125">테스트 이름 사용 안 함</span><span class="sxs-lookup"><span data-stu-id="ba3b4-125">Do not use test names</span></span>
-   >- <span data-ttu-id="ba3b4-126">완전 하 고 정확한 주소 (위치 정보, 도시, 시/도, 국가 및 우편 번호)를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-126">Provide complete, exact address (location details, city, state, country, and postal/zip code)</span></span>
+   >- <span data-ttu-id="96836-122">공식 문서에 표시 되는 정확한 법적/공식 이름 사용</span><span class="sxs-lookup"><span data-stu-id="96836-122">Use exact legal/official name as it appears in the official documents</span></span>
+   >- <span data-ttu-id="96836-123">머리글자어 또는 short 형식을 사용 하지 마십시오.</span><span class="sxs-lookup"><span data-stu-id="96836-123">Avoid using acronyms or short forms</span></span>
+   >- <span data-ttu-id="96836-124">테스트 이름 사용 안 함</span><span class="sxs-lookup"><span data-stu-id="96836-124">Do not use test names</span></span>
+   >- <span data-ttu-id="96836-125">완전 하 고 정확한 주소 (위치 정보, 도시, 시/도, 국가 및 우편 번호)를 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-125">Provide complete, exact address (location details, city, state, country, and postal/zip code)</span></span>
 
    >[!IMPORTANT]
-   > <span data-ttu-id="ba3b4-127">2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-127">On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="ba3b4-128">[Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-128">Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)</span></span>
+   > <span data-ttu-id="96836-126">2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다.</span><span class="sxs-lookup"><span data-stu-id="96836-126">On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="96836-127">[Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.</span><span class="sxs-lookup"><span data-stu-id="96836-127">Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)</span></span>
   
-3. <span data-ttu-id="ba3b4-129">간접 공급자 인 경우 목록에서이 고객의 구독과 연결 하려는 간접 재판매인을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-129">If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.</span></span>
+3. <span data-ttu-id="96836-128">간접 공급자 인 경우 목록에서이 고객의 구독과 연결 하려는 간접 재판매인을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-128">If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.</span></span>
 
-4. <span data-ttu-id="ba3b4-130">필요한 모든 정보를 입력 했으면 **다음: 구독** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-130">Select **Next: Subscriptions** when you're finished entering all required information.</span></span>
+4. <span data-ttu-id="96836-129">필요한 모든 정보를 입력 했으면 **다음: 구독** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-129">Select **Next: Subscriptions** when you're finished entering all required information.</span></span>
 
-5. <span data-ttu-id="ba3b4-131">**구독** 페이지에서 고객이 구매할 제품을 선택 하 고 라이선스 수를 입력 한 후 **다음: 검토**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-131">On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.</span></span>
+5. <span data-ttu-id="96836-130">**구독** 페이지에서 고객이 구매할 제품을 선택 하 고 라이선스 수를 입력 한 후 **다음: 검토**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-130">On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.</span></span>
 
-6. <span data-ttu-id="ba3b4-132">**검토** 페이지에서 정확성에 대 한 항목을 확인 하 고 정보가 올바르면 **제출** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-132">On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.</span></span>
+6. <span data-ttu-id="96836-131">**검토** 페이지에서 정확성에 대 한 항목을 확인 하 고 정보가 올바르면 **제출** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-131">On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.</span></span>
 
    >[!NOTE]
-   ><span data-ttu-id="ba3b4-133">고객 세부 정보를 변경 해야 하는 경우 **계정 정보** 섹션에서 **업데이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-133">If you need to change any customer details, select **Update** in the **Account info** section.</span></span> <span data-ttu-id="ba3b4-134">선택한 제품을 변경 해야 하는 경우 **구독** 섹션에서 **업데이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-134">If you need to change the offers you selected, select **Update** in the **Subscriptions** section.</span></span>
+   ><span data-ttu-id="96836-132">고객 세부 정보를 변경 해야 하는 경우 **계정 정보** 섹션에서 **업데이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-132">If you need to change any customer details, select **Update** in the **Account info** section.</span></span> <span data-ttu-id="96836-133">선택한 제품을 변경 해야 하는 경우 **구독** 섹션에서 **업데이트** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-133">If you need to change the offers you selected, select **Update** in the **Subscriptions** section.</span></span>
 
-7. <span data-ttu-id="ba3b4-135">고객 정보 추가를 완료 하 고 필요한 구독을 구매한 경우 **완료** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-135">Select **Done** when you've finished adding the customer information and purchased the required subscriptions.</span></span>
+7. <span data-ttu-id="96836-134">고객 정보 추가를 완료 하 고 필요한 구독을 구매한 경우 **완료** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="96836-134">Select **Done** when you've finished adding the customer information and purchased the required subscriptions.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="ba3b4-136">다음 단계</span><span class="sxs-lookup"><span data-stu-id="ba3b4-136">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="96836-135">다음 단계</span><span class="sxs-lookup"><span data-stu-id="96836-135">Next steps</span></span>
 
-- <span data-ttu-id="ba3b4-137">클라우드 솔루션 공급자 프로그램을 통해 고객에 게 판매할 수 있는 항목에 대 한 자세한 내용은 [클라우드 솔루션 공급자 프로그램의 파트너 제품](csp-offers.md) 을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-137">For more information about what you can sell to customers through the Cloud Solution Provider program, see [Partner offers in the Cloud Solution Provider program](csp-offers.md)</span></span>
+- <span data-ttu-id="96836-136">클라우드 솔루션 공급자 프로그램을 통해 고객에 게 판매할 수 있는 항목에 대 한 자세한 내용은 [클라우드 솔루션 공급자 프로그램의 파트너 제품](csp-offers.md) 을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="96836-136">For more information about what you can sell to customers through the Cloud Solution Provider program, see [Partner offers in the Cloud Solution Provider program](csp-offers.md)</span></span>
 
-- <span data-ttu-id="ba3b4-138">새 고객을 파트너 계정에 연결 하는 방법에 대 한 자세한 내용은 [고객과 연결](customer-accounts.md)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="ba3b4-138">For more information about associating a new customer to your partner account, see [Connect with customers](customer-accounts.md).</span></span>
+- <span data-ttu-id="96836-137">새 고객을 파트너 계정에 연결 하는 방법에 대 한 자세한 내용은 [고객과 연결](customer-accounts.md)을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="96836-137">For more information about associating a new customer to your partner account, see [Connect with customers](customer-accounts.md).</span></span>
