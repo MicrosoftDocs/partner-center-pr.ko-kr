@@ -9,11 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
-ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
+ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "86032484"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405554"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -21,6 +22,7 @@ ms.locfileid: "86032484"
 
 | **범주** | **2020년 7월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](2020-july.md#5)|7월 15일|
 | 제품/시장 | [팀을 위한 새로운 Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7월 3일 |
 | 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-july.md#3) | 7월 1일 |
 | 제품/시장 | [Microsoft가 Microsoft Kaizala Pro 독립 실행형 SKU의 판매를 종료함](2020-july.md#2) | 7월 1일 |
