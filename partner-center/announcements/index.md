@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405554"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436072"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "86405554"
 
 | **범주** | **2020년 7월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[파트너 센터의 Insights 보고서에 추가된 새로운 기능](2020-july.md#6)|7월 16일|
 |제품/시장|[클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](2020-july.md#5)|7월 15일|
 | 제품/시장 | [팀을 위한 새로운 Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7월 3일 |
 | 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-july.md#3) | 7월 1일 |

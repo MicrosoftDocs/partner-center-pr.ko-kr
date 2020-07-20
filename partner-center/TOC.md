@@ -42,6 +42,7 @@
 ## [제한된 직접 청구 기능](restricted-direct-bill-capabilities.md)
 ## [CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](transition-direct-to-indirect.md)
 ## [CSP 계약, 가격표 및 제품](csp-documents-and-learning-resources.md)
+## [CSP용 Cloudyn별 Azure Cost Management](azure-cost-management-app-for-csp-partners.md)
 ## [CSP 지역 시장 및 통화](regional-authorization-overview.md)
 ## [CSP 지역 권한 부여 테넌트 통합에 대한 지침](csp-regional-authorization-tenant-consolidation.md)
 ## [개요 - Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 새로운 방법](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [파트너 센터의 청구 유형](billing-different-types.md)
 ## [요금 청구 방식](read-your-bill.md)
 ## [조정 파일 사용](use-the-reconciliation-files.md)
+## [조정 파일 요금 유형](recon-file-charge-types.md)
 ## [파트너 센터에서 일별 사용량 조정 파일 읽기](daily-rated-usage-recon-files.md)
 ## [라이선스 기반 조정 파일](license-based-recon-files.md)
 ## [일반적인 청구 시나리오](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [비즈니스용 Skype Online 플랜 1을 Office 365 최신 버전으로 마이그레이션](skype-retiring.md)
 ### [Azure 구독 이전](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Microsoft 365로 Kaizala Pro 구독 마이그레이션](migrate-kaizala-pro-partner.md)
-
+## Office 365 판매 관리자
+### [Office 365 평가판 초대 만들기](advisors-create-a-trial-invitation.md)
+### [Office 365 평가판 제품을 통해 클라이언트를 추가](advisors-build-your-business.md)
+### [Office 365 구매 제품 만들기](advisor-create-a-purchase-offer.md)
 # 파트너 센터 데이터 및 분석
 ## [사용자 데이터 및 분석에 액세스](data-analysis-lp.md)
 ## [Microsoft Power BI를 위한 파트너 센터 분석 앱 사용](power-bi-app-for-direct-partners.md)
