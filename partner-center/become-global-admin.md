@@ -8,14 +8,13 @@ description: 파트너 센터에서 작업하려면 먼저 도메인의 소유�
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-keywords: 도메인, 도메인 확인, 글로벌 관리자, 사용자 역할, 사용 권한
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948234"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435642"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
 

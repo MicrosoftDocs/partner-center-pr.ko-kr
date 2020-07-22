@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록 및 제품 링크에 대한 링크를 찾습니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: csp 프로그램 가이드, 프로그램 가이드, 파트너 계약, 고객 계약, 가격 목록, 제품
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db194fb2566c5a474c6743e37deea6ee63ad247
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d3bdc0e2eb26f9841c4a40a9f3afb7a8c89e5795
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991407"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434962"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -59,7 +58,7 @@ ms.locfileid: "84991407"
 
 [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-## <a name="pricing"></a>가격
+## <a name="pricing"></a>가격 책정
 
 **파트너 센터** 메뉴에 제공되는 **가격 책정 및 제품** 페이지에서 라이선스 기준, 사용량 기준 및 일회성 구매에 대한 가격 책정 세부 정보를 다운로드합니다.
 

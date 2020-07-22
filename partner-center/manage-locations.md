@@ -7,20 +7,19 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터에서 새로운 위치를 추가하는 방법과 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
 author: vinayks
 ms.author: vinayks
-keywords: 파트너 계정, 위치
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949667"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436872"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>파트너 센터에서 파트너 계정 위치 관리 및 새 위치 추가
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트

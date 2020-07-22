@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 파트너 센터에서 정기적으로 추천 인사이트를 검토하여 비즈니스 목표를 달성하는 데 도움이 되는 추세 또는 개선 사항 영역을 확인합니다.
 author: rajap-ms
 ms.author: rajap
-keywords: 조회, 분석, 분석 정보, 메트릭, 전환
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 24bbca2c973f985e441bd1aebc44d63fdb3e78af
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302340"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436622"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>파트너 센터에서 추천 인사이트를 얻고 추천을 수행하는 방법을 알아보세요.
 

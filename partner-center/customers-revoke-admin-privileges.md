@@ -8,14 +8,13 @@ description: 고객의 서비스 또는 구독을 대신 관리하는 데 필요
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
-keywords: 위임된 관리자 권한, 대신 관리, 권한 제거, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377437"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434752"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
 

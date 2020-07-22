@@ -7,20 +7,19 @@ ms.subservice: partnercenter-csp
 description: 뛰어난 Microsoft 파트너 상태를 획득하고, 역량 요구 사항을 충족함으로써 새 고객을 유치하여 골드 및 실버 멤버십 수준을 획득하는 방법을 알아봅니다.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: 역량, silver 멤버십, gold 멤버십, mpn, MAPS, 숙련도, Microsoft 파트너 네트워크, 네트워크 멤버십, 고급 전문 분야
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74ae0076f3e77e29cccd63d0206267020f462db9
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390640"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434432"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft Gold 및 Silver 역량과 고급 전문 분야에 대한 정보
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 
 하나 이상의 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.

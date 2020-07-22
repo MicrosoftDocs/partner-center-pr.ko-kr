@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Microsoft에서 판매 잠재 고객을 확보하는 방법에 대해 알아봅니다. 핵심은 파트너 센터에서 비즈니스 프로필을 만들어 고객이 귀하를 쉽게 찾을 수 있도록 하는 것입니다.
 author: rajap-ms
 ms.author: rajap
-keywords: Pinpoint, 추천, 영업 잠재 고객, C2PC, 회사 프로필, 회사 마케팅, 파트너 찾기, 솔루션 공급자 찾기, 비즈니스 프로필, 마케팅 프로필
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e45e3c00bc7dc3657af013bb7edf4cdffac64c9
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302390"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435272"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
