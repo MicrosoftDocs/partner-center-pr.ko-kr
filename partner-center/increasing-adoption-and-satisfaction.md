@@ -1,7 +1,7 @@
 ---
 title: 채택률 및 만족도 높이기
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 메트릭을 사용 하는 방법에 대해 알아봅니다. 메트릭은 비즈니스의 성장, 고객이 라이선스를 사용 하는 방법 및 투자에 집중 하는 위치를 표시할 수 있습니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377267"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875289"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>파트너 센터에서 메트릭을 사용 하 여 채택 및 만족도 향상
 
@@ -25,7 +25,7 @@ ms.locfileid: "86377267"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 영업 상담원
@@ -35,7 +35,7 @@ ms.locfileid: "86377267"
 클라우드 솔루션 공급자 프로그램을 통해 모든 고객에 대 한 데이터를 볼 수 있습니다. 일부 고객은 다른 파트너 또는 Microsoft에서 직접 라이선스를 구매할 수 있습니다. 이러한 경우 모든 파트너에 대 한 총 라이선스가 표시 됩니다. 자신의 라이선스만 보려면 고객의 구독으로 이동 하세요.
 
 > [!NOTE]  
->  현재는 Office 365 및 Dynamics 365에 대 한 데이터만 표시 합니다. 향후 추가 제품에 대 한 데이터를 사용할 예정입니다.
+> 현재는 Office 365 및 Dynamics 365에 대 한 데이터만 표시 합니다. 향후 추가 제품에 대 한 데이터를 사용할 예정입니다.
 
 ## <a name="find-license-and-user-data"></a>라이선스 및 사용자 데이터 찾기
 
@@ -81,23 +81,21 @@ ms.locfileid: "86377267"
 
 ## <a name="next-steps"></a>다음 단계
 
-많은 도움말과 방법에 대 한 질문을 fielding은, 계정에 도입 번호가 낮거나 상향 판매 기회를 찾고 있는 경우 교육 과정을 제공 하는 것이 좋습니다. 구매한 클라우드 솔루션 소프트웨어를 보다 효율적으로 사용 하는 방법을 고객에 게 교육 함으로써 생산성과 만족도가 증가 하는 것을 확인할 수 있으며 지원 요구가 감소 합니다.
+많은 도움말과 방법에 대 한 질문을 fielding은, 계정에 도입 번호가 낮거나 판매 기회를 찾고 있는 경우 교육 과정을 제공 하는 것이 좋습니다. 구매한 클라우드 솔루션 소프트웨어를 보다 효율적으로 사용 하는 방법을 고객에 게 교육 함으로써 생산성과 만족도가 증가 하는 것을 확인할 수 있으며 지원 요구가 감소 합니다.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>문제:</strong> 사용자 채택을 rate가 낮고 많은 라이선스를 사용 하는&#39;없습니다.</p>
-<p><strong>고려해 야 할 사항:</strong> 고객은 소프트웨어에서 제공 하는 가치를 이해 하지 못할 수 있습니다. 사용자가 이미 수행 하 고 있는 작업을 간소화 하거나 새로운 종류의 생산성을 설정 하기 위해 해당 날짜에 통합할 수 있는 방법을 구상 하는 데 도움이 필요 합니다.</p>
-<p><strong>시도 하는 작업:</strong> 사례 연구, 사용자 추천서 특정 시나리오, 자습서 블로그 또는 비디오에 대해 알아봅니다.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>문제:</strong> 도움말 및 방법 질문에 대해 많은 양의 지원 호출이 있습니다.</p>
-<p><strong>고려해 야 할 사항:</strong> 고객은 소프트웨어, 제품 버전 또는 해당 작업에 대 한 새로운 것일 수 있습니다.</p>
-<p><strong>시도 하는 작업:</strong> 직원 또는 온라인 교육을 제공 하는 이중 전략을 사용 하 여 고객&#39;s의 전반적인 전문 지식을 높이고 고객에 게 제공 되는 일부 셀프 서비스 옵션을 승격할 수 있습니다.</p>
-<p>지원 사이트 정보 뿐만 아니라 <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">고객 셀프 지원</a> 항목에 설명 된 셀프 서비스 옵션도 포함 하도록 지원 사이트를 다시 디자인 하는 것이 좋습니다.</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>고객 도입 및 사용을 개선 하는 방법 고려-몇 가지 시나리오
+
+**문제**: 사용자 채택 속도가 낮으므로 많은 라이선스를 사용 하지 않습니다.
+
+**고려할 사항**: 고객이 소프트웨어에서 제공할 수 있는 가치를 이해 하지 못할 수 있습니다. 사용자가 이미 수행 하 고 있는 작업을 간소화 하거나 새로운 종류의 생산성을 설정 하기 위해 해당 날짜에 통합할 수 있는 방법을 구상 하는 데 도움이 필요 합니다.
+
+**시도**대상: 사례 연구, 사용자 추천서 특정 시나리오, 자습서 블로그 또는 비디오에 대 한 정보를 제공 합니다.
+
+**문제**: 도움말 및 방법 질문에 대해 많은 양의 지원 호출이 있습니다.
+
+**고려해 야 할 사항**: 고객은 소프트웨어, 제품 버전 또는 해당 작업에 대 한 새로운 것일 수 있습니다.
+
+**시도할 내용**: 교육 (사람 또는 온라인)을 제공 하는 이중 전략을 사용 하 여 고객의 전반적인 전문 지식을 높이고 고객에 게 제공 되는 일부 셀프 서비스 옵션을 승격할 수 있습니다.
+
+지원 사이트 정보 뿐만 아니라 [고객](customer-self-support.md) 지원 담당자에 게 설명 된 셀프 서비스 옵션도 포함 하도록 지원 사이트를 다시 디자인 하는 것이 좋습니다.
+

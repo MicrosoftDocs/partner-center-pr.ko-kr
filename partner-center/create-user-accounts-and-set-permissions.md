@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
-Keywords: 역할, 사용 권한, 사용자 추가, 역할 할당, 관리자, 에이전트,
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: 9ec8e98f77d49e34b6747b0f580502e9df25a950
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265194"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435192"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>사용자 계정 만들기 및 역할과 사용 권한 할당
 
@@ -88,7 +87,7 @@ ms.locfileid: "86265194"
 - 인센티브 관리자 및 사용자
 
 **제어판 공급업체는 CSP 및 비 AAD 역할입니다**.
-- 글로벌 관리자
+- 전역 관리자
 
 **게스트 사용자**은 AAD 테넌트의 일부여야 하며 모든 비 AAD 역할을 가질 수 있습니다.
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 신규 고객과 새로운 전문 지식을 활용하여 비즈니스를 확장하는 데 도움이 되는 클라우드 솔루션 공급자 프로그램의 혜택 및 여러 가지 모델에 대해 자세히 알아봅니다.
 author: LauraBrenner
 ms.author: labrenne
-keywords: 클라우드 솔루션 공급자, CSP, 클라우드 기반 서비스, Azure, Office 365, Dynamics, CSP 파트너, CSP에서 판매, 직접 파트너, 직접 CSP 파트너, 간접 CSP 재판매인, 직접 CSP, 간접 CSP, 직접 모델, 간접 모델, 간접 재판매인, 간접 공급자, 공급자, 배포자, 클라우드 솔루션 공급자 프로그램
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362341"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434912"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>클라우드 솔루션 공급자 프로그램 혜택 및 다양한 모델
 
@@ -39,7 +38,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판
 
 #### <a name="new-expanded-requirements"></a>새롭게 확장된 요구 사항:
 
-Support(지원)
+지원
 
 - 파트너를 위한 Microsoft 고급 지원 패키지를 통해 우선 순위가 지정된 일대일 클라우드 지원을 구입하여 지원 기능을 확장하세요. 또는 파트너를 위한 Microsoft 프리미어 지원을 선택하여 사전 서비스, 연중무휴 고장/수리 지원, 클라우드, 하이브리드 및 온-프레미스 환경에서 기술 계정 관리를 모두 포괄하는 카탈로그에 액세스하세요.
 

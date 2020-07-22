@@ -6,16 +6,15 @@ ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램에서 관리자, 제어판 공급업체 및 파트너의 보안을 강화하는 새로운 필수 요구 사항에 대해 알아보세요.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265164"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436732"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>파트너 보안 요구 사항 상태 - 답변을 받고 현재 상태에 대한 보고서 확인
 

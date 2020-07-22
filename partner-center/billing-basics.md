@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: 청구, 지불, 주문, 취소, 주문 관리, 미결제, 사기, 오용, 세금, 세금 면제, 조정 파일
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91b3aaf27e049c4aab5c2c1c5c44d0fb2976a25f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948217"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435612"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업하는 CSP 프로그램 파트너용 청구 개요 
 
@@ -28,7 +27,7 @@ ms.locfileid: "85948217"
 
 - 관리 에이전트
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 언제 고객을 대신하여 Microsoft 고객 계약에 대한 동의를 증명해야 하는지 알아봅니다.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: 고객, 고객, 동의, MCA, Microsoft 클라우드 계약, Microsoft 고객 계약, 고객 계약 템플릿, 동의 증명
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: feb5d900e140e4c70b45572b1ea20ed37c4e49e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: e687df87b933bfad2e1cd3f631c730c54986cd42
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948572"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435972"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>고객을 대신하여 Microsoft 고객 계약 동의 증명
 

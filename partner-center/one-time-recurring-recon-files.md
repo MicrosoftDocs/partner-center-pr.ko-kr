@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a84a9bdf1e7366bed9e83f370703df5f44be1dfc
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390300"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875269"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>파트너 센터에서 일회성 및 되풀이 조정 파일
 
@@ -23,7 +23,7 @@ ms.locfileid: "86390300"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
@@ -33,7 +33,7 @@ ms.locfileid: "86390300"
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>일회성 및 되풀이 조정 파일의 필드
 
-| 열 | Description |
+| Column | Description |
 | ------ | ----------- |
 | PartnerId | 특정 청구 엔터티에 대 한 고유 Azure Active Directory (Azure AD) 테 넌 트 식별자 (GUID 형식)입니다. 조정에는 필요 하지 않습니다. 모든 행에서 동일 합니다. |
 | CustomerId | GUID 형식의 고유한 Azure AD 테 넌 트 식별자입니다. 고객을 식별합니다. |

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435252"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875229"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -28,7 +28,7 @@ ms.locfileid: "86435252"
 
 - 관리 에이전트
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 
@@ -77,6 +77,26 @@ ms.locfileid: "86435252"
     > 이 유형의 ISV 구독에 대 한 계정 설정/프로 비전을 완료 하는 지침이 포함 된 전자 메일은 사용자 또는 고객 모두에 게 제공 되지 않습니다.
 
     - 구독에 30 일 무료 평가판이 제공 되는 경우 무료 평가판 기간이 자동으로 적용 됩니다. CSP 프로그램의 파트너는 고객을 위해 구매한 제품에 대 한 무료 평가판 기간을 되지 않으며 수 없습니다. 무료 평가판 기간이 종료 되 면 구독 기간이 시작 되 고 구독이 유료 상태로 전환 됩니다. 그러면 구독은 동일한 일정에 따라 autorenew 됩니다.
+   
+## <a name="update-subscriptions-with-add-ons"></a>추가 기능을 사용 하 여 구독 업데이트 
+
+추가 기능을 구입 하려면 고객에 게 먼저 활성 기본 구독이 있어야 합니다.  카탈로그를 통해 추가 기능을 구매할 수 없습니다.
+
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
+
+2. 파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.
+
+3. 관리 하려는 구독을 선택 합니다.
+
+4. **상태** 섹션 아래에는 구독에 사용할 수 있는 추가 기능 목록이 있습니다.  
+
+5. 필요한 각 추가 기능에 대 한 라이선스의 수량을 업데이트 합니다. 그런 다음, 변경 내용을 **제출**합니다.
+
+파트너 센터를 통해 추가 기능을 구입 하는 기능은 CSP 파트너만 사용할 수 있습니다.
+기본 요구 사항 및 지역 가용성에 따라 적합 한 추가 기능만 표시 됩니다. 가격 책정 및 제안에 대 한 자세한 내용은 Cloud 재판매인 제품 매트릭스를 참조 하세요.  기본 구독을 일시 중단 하면 연결 된 추가 기능도 일시 중단 됩니다.
+
+추가 기능에 대 한 시작 날짜는 기본 구독에 맞춰 청구 되 고 요금은 청구 시작 날짜와 청구 종료 날짜부터 첫 번째 청구서의 pro-rata 요금으로 계산 됩니다. 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중단 또는 취소
 
@@ -96,7 +116,7 @@ ms.locfileid: "86435252"
 
 5. 90일 이내에 또는 90일에 계정이 개설된 시간과 첫 번째 청구 기간 사이의 일 수를 더한 기간(최대 120일) 이내에 구독을 다시 활성화하지 않으면 모든 데이터가 삭제됩니다.
 
-구독을 일시 중단할 경우, **일시 중단** 버튼 아래에 표시된 날짜는 구독을 다시 활성화하지 않을 경우 자동으로 구독이 만료되는 시점을 나타냅니다. 자세한 내용은 [새로운 청구 기능에 대 한 FAQ](faq-about-new-billing-features.md)를 참조 하세요.
+구독을 일시 중단할 경우, **일시 중단** 버튼 아래에 표시된 날짜는 구독을 다시 활성화하지 않을 경우 자동으로 구독이 만료되는 시점을 나타냅니다. 
 
 ### <a name="cancel-a-subscription"></a>구독 취소
 

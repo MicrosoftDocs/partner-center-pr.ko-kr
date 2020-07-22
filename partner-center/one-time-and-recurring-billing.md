@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a5c7a9c756067c75e27e05768718436afc101bd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e64ef002d887ba831a67dd42be6f959d55c32c77
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434132"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875279"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>파트너 센터에서 일회성 청구 및 선택 되풀이 요금 청구
 
@@ -21,7 +21,7 @@ ms.locfileid: "86434132"
 - CSP 프로그램의 파트너
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
