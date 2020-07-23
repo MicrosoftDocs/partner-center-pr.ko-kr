@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435142"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943477"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터에서 상업용 마켓플레이스 제품 및 구독에 대 한 청구
 
@@ -47,7 +47,7 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
 
     청구 페이지의 맨 위에 **되풀이** 및 **되풀이 및 일회성 구매**라는 두 개의 탭이 표시 됩니다. 각 탭에서 여러 marketplace 제품에 대 한 정찰 (청구서 및 조정) 파일에 액세스할 수 있습니다.
 
-    - **되풀이** 탭: Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro 및 Microsoft Azure와 관련 된 구독의 청구서 및 조정 파일을 표시 합니다.
+    - **되풀이** 탭: Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro 및 Microsoft Azure 관련 된 구독의 청구서 및 조정 파일을 표시 합니다.
 
     - **되풀이 및 일회성 구매** 탭: azure 요금제, azure 예약, 소프트웨어 및 상업적 marketplace 제품에 대 한 송장 및 조정 파일이 표시 됩니다.
   

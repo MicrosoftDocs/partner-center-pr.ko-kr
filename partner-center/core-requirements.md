@@ -1,21 +1,20 @@
 ---
 title: 인센티브 협력 클레임을 위한 핵심 요구 사항
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 성과급 프로그램의 활동에 대한 수요를 창출하고, 시장 개발을 이해하며, 파트너의 준비 상태를 최대화하는 방법에 대해 알아봅니다.
 author: kim-davis
 ms.author: kimnich
-keywords: 인센티브 클레임, 협력 클레임, 협력 펀드, 핵심 요구 사항
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377617"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475548"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>인센티브 협업 클레임 핵심 요구 사항
 
@@ -77,4 +76,7 @@ ms.locfileid: "86377617"
 
 
 
- 자세한 내용은 [파트너 인센티브 협력 가이드북](https://assets.microsoft.com/coop-guidebook.pdf)을 다운로드 하세요(로그인 필요).
+ 자세한 내용은 [파트너 인센티브 협력 가이드북](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)을 다운로드하세요(로그인 필요).
+
+
+

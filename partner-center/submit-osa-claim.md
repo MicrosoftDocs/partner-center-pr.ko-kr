@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436522"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943680"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>CPOR 모델을 통해 고객 연결 만들기 – Microsoft 365 및 Dynamics 365 고객에 사용
 
@@ -30,9 +30,9 @@ ms.locfileid: "86436522"
 
 - 클레임을 만드는 엔터티의 **MPN ID**
 
-- 고객의 **도메인 이름** [이를 찾습니다](https://docs.microsoft.com/partner-center/find-customer-domain-name) .
+- 고객의 **도메인 이름** [이를 찾습니다](find-customer-domain-name.md) .
 
-- 고객의 **디렉터리 id** 또는 **테 넌 트 id** 를 [찾습니다](https://docs.microsoft.com/partner-center/find-customer-domain-name) .
+- 고객의 **디렉터리 id** 또는 **테 넌 트 id** 를 [찾습니다](find-customer-domain-name.md) .
 
 - Business Applications 또는 Microsoft 365와 같은 **솔루션 영역**
 
@@ -66,7 +66,7 @@ ms.locfileid: "86436522"
 
 2. 고객 연결 페이지의 맨 위에서 **+ 고객 연결**을 선택 합니다.
 
-3. 고객과 연결할 파트너 위치의 **MPN id** 를 선택 하 고 고객의 도메인 이름과 디렉터리 id를 추가 합니다. [어디에 있나요?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3. 고객과 연결할 파트너 위치의 **MPN id** 를 선택 하 고 고객의 도메인 이름과 디렉터리 id를 추가 합니다. [어디에 있나요?](find-customer-domain-name.md)
 
 4. **계속**을 선택합니다.
 

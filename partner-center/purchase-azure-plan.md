@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377787"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875259"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>고객에 대한 Azure 플랜을 구매하고 종량제 요금으로 최신 Azure 서비스에 액세스합니다.
 
@@ -78,7 +78,7 @@ Azure 예약이 활성 Azure 플랜과 연결되어야 합니다. 고객 구독 
 >고객이 활성 Azure 플랜을 보유하고 있지 않은 경우 Azure를 선택하여 지금 추가합니다. 자세한 지침은 [Azure 예약 구매](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)를 참조하세요.
 
 >[!Note] 
->현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 
+>파트너 센터에서 현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 단일 구독 범위를 선택하거나 공유에서 단일 구독 범위로 업데이트하려면 다음 지침을 따라 **Microsoft Azure 관리 포털**로 이동합니다. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="공유 범위 예약 설정":::
 

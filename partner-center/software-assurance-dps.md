@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436542"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943690"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
@@ -68,7 +68,7 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>회사의 비즈니스 프로필 만들기 또는 업데이트 (새 파트너)
 
-잠재적 고객에 대 한 노출을 최대화 합니다. [지침 및 지침](https://docs.microsoft.com/partner-center/create-a-marketing-profile) 에 따라 파트너 센터 내에서 회사의 비즈니스 프로필을 만들거나 업데이트 합니다.
+잠재적 고객에 대 한 노출을 최대화 합니다. [지침 및 지침](create-a-marketing-profile.md) 에 따라 파트너 센터 내에서 회사의 비즈니스 프로필을 만들거나 업데이트 합니다.
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>고객이 무료 (기존 파트너)를 만들고 할당 합니다.
 

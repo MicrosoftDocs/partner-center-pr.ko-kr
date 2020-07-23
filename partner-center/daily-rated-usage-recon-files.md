@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377417"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943460"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -28,19 +28,19 @@ ms.locfileid: "86377417"
 - 영업 상담원
 - 기술 지원팀 상담원
 
-이 항목에서는 매일 등급 사용 조정 파일을 읽는 방법에 대해 설명 합니다.
+이 문서에서는 매일 등급 사용 조정 파일을 읽는 방법을 설명 합니다.
 
 >[!NOTE]
 >매일 등급을 지정 하는 사용량은 일반적으로 파트너 센터에 표시 하거나 API를 통해 액세스 하는 데 24 시간이 걸립니다.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>매일 등급 사용 조정 파일의 필드
 
-| 열 | Description |
+| 열 | 설명 |
 | ------ | ----------- |
 | PartnerId | GUID 형식의 파트너 식별자입니다. |
 | PartnerName | 파트너 이름입니다. |
 | CustomerId | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. |
-| CustomerName | 파트너 센터에 보고된 고객의 조직 이름입니다. *이 열은 시스템 정보를 사용 하 여 송장을 조정 하는 데 매우 중요 합니다.* |
+| CustomerName | 파트너 센터에 보고된 고객의 조직 이름입니다. *이 열은 시스템 정보를 사용 하 여 송장을 조정 하는 데 중요 합니다.* |
 | CustomerDomainName | 고객의 도메인 이름입니다. |
 | CustomerCountry | 고객이 있는 국가입니다. |
 | MpnId | CSP 파트너의 MPN 식별자입니다. |
@@ -48,12 +48,12 @@ ms.locfileid: "86377417"
 | InvoiceNumber | 지정된 거래가 표시되는 청구서 번호입니다. |
 | ProductId | 제품의 식별자입니다. |
 | SkuId | 특정 SKU에 대 한 식별자입니다. |
-| AvailabilityId | 특정 SKU의 가용성에 대 한 식별자입니다. 지정 된 국가, 통화, 산업 부문 등에서 SKU를 구매할 수 있는지 여부를 표시 합니다. |
+| AvailabilityId | 특정 SKU의 가용성에 대 한 식별자입니다. 이 열은 SKU를 지정 된 국가, 통화, 산업 부문 등에 구매할 수 있는지 여부를 표시 합니다. |
 | SkuName | 특정 SKU의 제목입니다. |
 | ProductName | 제품의 이름입니다. |
 | PublisherName | 게시자 이름입니다. |
 | PublisherId | GUID 형식의 게시자 식별자입니다. |
-| SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이는 **OfferName**에 대 한 동일한 필드입니다. |
+| SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이 열은 **OfferName**와 동일한 필드입니다. |
 | SubscriptionId | Microsoft 청구 플랫폼에서 사용되는 구독의 고유 식별자입니다. 조정에 사용 되지 않습니다. *이 식별자는 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다.* |
 | ChargeStartDate | 청구 주기의 시작 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 하루의 시작인 0:00입니다. |
 | ChargeEndDate | 청구 주기의 종료 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 일의 끝 인 23:59입니다. |
@@ -63,7 +63,7 @@ ms.locfileid: "86377417"
 | MeterId | 사용 되는 측정기의 식별자입니다. |
 | MeterSubCategory | 요금에 영향을 줄 수 있는 Azure 서비스의 유형입니다. |
 | MeterName | 사용 되는 측정기에 대 한 측정 단위입니다. |
-| MeterRegion | 이 열은 해당 지역 내에서 서비스에 대 한 데이터 센터의 위치를 식별 하 고 해당 위치를 채웁니다. |
+| MeterRegion | 이 열은 MeterRegion이 적용 되 고 채워진 서비스의 지역 내 데이터 센터의 위치를 식별 합니다. |
 | 단위 | 리소스 **이름의**단위입니다. |
 | ResourceLocation | 측정기가 실행 되 고 있는 데이터 센터입니다. |
 | ConsumedService | 사용한 Azure 플랫폼 서비스입니다. |
@@ -79,9 +79,9 @@ ms.locfileid: "86377417"
 | PricingCurrency | 가격표의 통화입니다. |
 | ServiceInfo1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
 | ServiceInfo2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
-| Tags | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
+| 태그 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
 | AdditionalInfo | 다른 열에서 다루지 않은 추가 정보입니다. |
-| EffectiveUnitPrice | 할인, 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
+| EffectiveUnitPrice | 할인이 나 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
 | PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |
 | PCToBCExchangeRateDate | 청구 통화에 대 한 가격 책정 통화를 결정 하는 날짜입니다. |
 | EntitlementId | Azure 구독 ID를 나타냅니다. |

@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435202"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943500"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>이용 마이닝 작업에 대 한 파트너 센터 알림
 
@@ -54,7 +54,7 @@ ms.locfileid: "86435202"
 
 3. 구독을 만든 사용자를 확인 해야 하는 경우 파트너 센터 활동 로그를 검토 합니다.
 
-이용 마이닝 활동의 검색은 추론을 기반으로 하며 100% 정확 하지 않을 수 있습니다. 사기성 또는 기타 허용 되지 않는 활동 으로부터 보호 하기 위해 거 버 넌 스 및 모니터링 시스템을 준비 해야 합니다. 자세한 내용은 [비 지불, 사기 행위 또는 오용](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)을 참조 하십시오.
+이용 마이닝 활동의 검색은 추론을 기반으로 하며 100% 정확 하지 않을 수 있습니다. 사기성 또는 기타 허용 되지 않는 활동 으로부터 보호 하기 위해 거 버 넌 스 및 모니터링 시스템을 준비 해야 합니다. 자세한 내용은 [비 지불, 사기 행위 또는 오용](non-payment--fraud--or-misuse.md)을 참조 하십시오.
 
 ## <a name="contact-support-if-needed"></a>필요한 경우 지원 담당자에 게 문의
 
