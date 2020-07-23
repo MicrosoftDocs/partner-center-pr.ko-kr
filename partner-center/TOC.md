@@ -177,6 +177,7 @@
 ### [고객을 Azure 플랜으로 전환](azure-plan-transition.md)
 ### [파트너 획득 크레딧 - 개요](partner-earned-credit.md)
 ### [파트너 획득 크레딧을 계산 및 지불하는 방법](partner-earned-credit-explanation.md)
+### [파트너 획득 크레딧에 대한 역할 및 권한](azure-roles-perms-pec.md)
 ### [CSP의 새로운 상거래 환경 - Azure 청구](azure-plan-billing.md) 
 ### [Azure용 CSP의 새로운 상거래 환경에 대한 가격표](azure-plan-price-list.md)
 ### [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)
