@@ -4,16 +4,16 @@ description: 요청 된 레코드 파트너 (CPOR) 고객 연결을 관리 하�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949509"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114791"
 ---
 # <a name="manage-customer-associations"></a>고객 제휴 보기
 
@@ -42,7 +42,7 @@ CPOR 연결 클레임이 승인 되 고 성과급으로 적합 한 경우에는 
 - 제출 됨: Microsoft에서 승인 프로세스를 시작할 때까지 최대 5 영업일 동안 전송 됨 상태가 됩니다.
 - 검토 중: Microsoft에서 제공 하는 실행 증명에 따라 결정을 내리는 데 영업일 5 일이 있습니다.
 - 파트너 작업 필요: 검토자가 의견과 추가 정보에 대 한 요청을 보내면 영업일 5 영업일 동안 응답할 수 있습니다. PoE 검토자에 게 추가 정보를 제공 하는 데 걸리는 시간을 더한 SLA에 따라 10 일 이내에 CPOR 연결 클레임에 대 한 결정을 내려야 합니다.
-- 승인 됨: CPOR 연결 클레임이 승인 되었습니다. 연결이 승인 되 면 사용자에 게 연결을 거부할 기회를 부여 하는 알림이 전송 됩니다. 그러면 고객은 옵트아웃 (opt out) 하는 데 7 일이 걸립니다. 이 동의 기간이 지나면 클레임은 동기 프로그램의 자격을 평가 하기 위해 전송 됩니다.
+- 승인 됨: CPOR 연결 클레임이 승인 되었습니다. 연결이 승인 되 면 사용자에 게 연결을 거부할 기회를 제공 하는 알림이 전송 됩니다. 그러면 고객은 옵트아웃 (opt out) 하는 데 7 일이 걸립니다. 이 동의 기간이 지나면 클레임은 동기 프로그램의 자격을 평가 하기 위해 전송 됩니다.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>CPOR association 클레임의 상태 보기
 
@@ -71,7 +71,7 @@ CPOR 연결 클레임이 승인 되 고 성과급으로 적합 한 경우에는 
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>CPOR association 클레임의 상태를 보고 합니다.
 
-CPOR association 클레임이 거부 되 면 거부에 대 한 30 일이 있습니다. 거부에 대 한 알림을 받는 전자 메일에는 거부 이유를 확인할 수 있는 위치 및이에 대 한 분쟁을 알려 주는 방법도 있습니다.  
+CPOR association 클레임이 거부 되 면 거부에 대 한 30 일이 있습니다. 거부 사실을 알려 주는 이메일에는 거부 이유를 확인할 수 있는 위치와 이에 대한 이의 제기 방법도 포함되어 있습니다.  
 
 30 일이 지난 후 거부 된 클레임을 계속 하려는 경우 업데이트 된 실행 증명 (PoE)을 사용 하 여 새 연결을 제출 해야 합니다. 
 
@@ -81,13 +81,13 @@ CPOR association 클레임이 거부 되 면 거부에 대 한 30 일이 있습�
 2. 분쟁을 볼 클레임을 엽니다.
 3. 클레임 페이지에서 **분쟁**을 선택 합니다.
 4. 거부를 고 하는 이유를 설명 하는 비즈니스 근거 및/또는 업데이트 된 PoE를 입력 합니다.
-5. 정보를 추가 하는 작업이 완료 되 면 **분쟁**을 선택 합니다. 검토자는 영업일 5 일 이내에 결과를 사용자에 게 연락 해야 합니다.
+5. 정보 추가가 완료되면 **이의 제기**를 선택합니다. 검토자는 5 일 이내에 결과를 사용자에 게 연락 해야 합니다.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>CPOR 연결 클레임이 거부 된 이유
 
 CPOR 연결 클레임이 거부 되는 세 가지 주요 이유는 다음과 같습니다.
 
-**파트너 요청:** 파트너는 연결을 거부 하도록 요청할 수 있습니다. 파트너가 잘못 된 MPN를 사용 하 여 CPOR association 클레임을 실수로 만든 경우 잘못 된 작업 (예:)을 선택 하면 주로 사용 됩니다. 판매 판매량이 아닌 매출 연결을 선택 했거나 고객에 게 더 이상 작업 하지 않습니다.
+**파트너 요청:** 파트너는 연결을 거부 하도록 요청할 수 있습니다. 이러한 이유는 파트너에서 잘못 된 MPN를 사용 하 여 실수로 CPOR association 클레임을 만들고 잘못 된 작업 (예: ...)을 선택한 경우에 주로 사용 됩니다. 판매 판매량이 아닌 매출 연결을 선택 했거나 고객에 게 더 이상 작업 하지 않습니다.
 
 **고객 거부:** PoE 승인 프로세스를 성공적으로 완료 한 후에는 해당 상태가 승인 됨으로 변경 되 고, 고객에 게는 연결 동의를 거부할 수 있는 기회가 제공 됩니다. 고객이 동의를 거부하면 연결이 거부됩니다.
 
@@ -113,7 +113,7 @@ CPOR 연결 클레임에서 특정 필드를 편집할 수 있습니다. 검토�
 
 ## <a name="customer-consent-notification"></a>고객 동의 알림
 
-CPOR 연결 클레임이 승인 된 후에는 연결을 거부할 수 있는 기회를 고객에 게 제공 합니다. 그러면 고객에 게 옵트아웃 (opt out)이 포함 됩니다. 이 기간 동안의 상태는 승인 됨으로 표시 됩니다. 고객이 동의를 거부하면 연결이 거부됩니다. 동의 기간이 경과 하 고 고객에 게 동의가 거부 되지 않은 경우, 해당 클레임은 동기 프로그램의 자격을 평가 하기 위해 전송 됩니다.
+CPOR 연결 클레임이 승인 된 후에는 연결을 거부할 수 있는 기회를 고객에 게 제공 합니다. 그러면 고객은 옵트아웃 (opt out) 하는 데 7 일이 걸립니다. 이 기간 동안의 상태는 승인 됨으로 표시 됩니다. 고객이 동의를 거부하면 연결이 거부됩니다. 동의 기간이 경과 하 고 고객에 게 동의가 거부 되지 않은 경우, 해당 클레임은 동기 프로그램의 자격을 평가 하기 위해 전송 됩니다.
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>PoE 검토자와 통신 하는 방법
 

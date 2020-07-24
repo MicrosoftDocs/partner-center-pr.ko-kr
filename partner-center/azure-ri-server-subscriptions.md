@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435712"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943950"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
@@ -82,7 +82,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 - Azure VMware Solution by CloudSimple
 
-## <a name="getting-started"></a>시작하기
+## <a name="getting-started"></a>시작
 
 고객과의 Azure Reservations 배치 하 고 최대한 빨리 운영상을 실행 하는 방법을 이해 하려면 준비 자료를 검토 하는 다음과 같은 방법을 사용 하는 것이 좋습니다.
 
@@ -103,7 +103,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 - [Azure Reservations 및 SQL DB에 대 한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [RDS (원격 데스크톱 서비스) CAL (클라이언트 액세스 라이선스) (알림)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [서버 구독](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [서버 구독](csp-software-subscriptions.md)
 - [Azure의 SQL DB 개요](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [SQL DB 예약 (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)

@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이 파트너 센터 사이트는 미국의 정부 기관으로 작업 하는 고객에 게 Microsoft 클라우드 솔루션을 제공 하는 Microsoft 파트너를 위한 것입니다.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99f99b0b10630de60f3b6784d291b4e03cf8438a
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 2013f5e38041004ddee5720fa07a02d8c68db3d1
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328194"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114887"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>미국 정부의 Microsoft 클라우드 파트너 센터는 정부 기관에 대 한 파트너 제품을 지원 합니다.
 
@@ -49,7 +49,7 @@ ms.locfileid: "84328194"
 
 - 파트너 찾기
 - 비즈니스 프로필
-- 추천
+- 조회
 - 고객과 대리점 관계 요청 (다중 채널, 다중 파트너)
 - 라이선스 분석
 - 고객 정보

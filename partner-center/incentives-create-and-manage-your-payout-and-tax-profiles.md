@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 성과급 작업에 대 한 지불을 받으려면 먼저 지급 및 세금 프로필을 만들어야 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949682"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114085"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>파트너 센터의 지급 및 세금 프로필
 

@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 구성원 센터 (PMC)에서 파트너 센터로 여러 회사를 마이그레이션하고 파트너 전역 계정으로 통합 하는 경우 알아야 할 사항입니다.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434412"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114143"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>파트너 구성원 센터에서 여러 회사를 파트너 센터로 이동 (PMC)
 

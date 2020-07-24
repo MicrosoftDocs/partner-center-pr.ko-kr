@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 description: 파트너가 Office 365을 사용해 볼 수 있도록 클라이언트에 대 한 평가판 초대를 만들고 보내는 방법을 알아봅니다. 파트너는 인증 된 구독 관리자가 됩니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436232"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120037"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Advisor: 클라이언트에서 Office 365을 사용해 볼 수 있는 평가판 초대 만들기 및 보내기
 

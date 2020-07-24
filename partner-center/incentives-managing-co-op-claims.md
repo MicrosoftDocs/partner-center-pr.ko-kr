@@ -3,17 +3,17 @@ title: 공동 op 클레임 관리
 description: 최종 기한, 통화 문제, 거부 된 co op 클레임을 해결 하는 방법을 비롯 하 여 공동 작업 클레임 프로세스를 이해 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b200c946825fa84d4cd9ca87c05c345a0476e344
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949500"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114772"
 ---
 # <a name="manage-co-op-claims"></a>공동 op 클레임 관리
 

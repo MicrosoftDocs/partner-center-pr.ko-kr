@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434372"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944480"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>고객 문의, 마케팅 한정 잠재 고객 및 판매 한정 잠재 고객과 같은 다양한 잠재 고객 관리
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434372"
 
 Microsoft는 연간 수백만 명의 잠재 고객을 파트너에 게 보냅니다. Microsoft에서 잠재 고객을 받고 비즈니스를 구축할 기회가 있습니다. 이 섹션에서는 Microsoft 솔루션 공급자 페이지에서 수신 하는 잠재 고객을 관리 하 고 작업을 수행 하는 방법을 이해 하는 데 도움을 줍니다.
 
-잠재 고객을 받기 위한 필수 구성 요소는 회사에 대 한 [비즈니스 프로필을 만드는](https://docs.microsoft.com/partner-center/create-a-marketing-profile) 것입니다. 회사에 대해 만든 비즈니스 프로필은 [Microsoft 솔루션 공급자](https://www.microsoft.com/solution-providers/home) 웹 페이지에서 잠재 고객, 다른 파트너 및 microsoft 판매자에 게 표시 하는 데 도움이 됩니다. 비즈니스 프로필 정보는 회사의 멤버 자격 정보 (예: 역량 데이터 및 Microsoft의 추가 인증)와 함께 사용할 파트너를 검색 하는 고객을 위한 다양 한 프로필을 제공 합니다. Microsoft 솔루션 공급자 페이지의 프로필 목록에서 시작 되는 모든 요청은 왼쪽 탐색 창의 **조회** 탭에 있는 **"리드"** 섹션에서 사용할 수 있습니다. 
+잠재 고객을 받기 위한 필수 구성 요소는 회사에 대 한 [비즈니스 프로필을 만드는](create-a-marketing-profile.md) 것입니다. 회사에 대해 만든 비즈니스 프로필은 [Microsoft 솔루션 공급자](https://www.microsoft.com/solution-providers/home) 웹 페이지에서 잠재 고객, 다른 파트너 및 microsoft 판매자에 게 표시 하는 데 도움이 됩니다. 비즈니스 프로필 정보는 회사의 멤버 자격 정보 (예: 역량 데이터 및 Microsoft의 추가 인증)와 함께 사용할 파트너를 검색 하는 고객을 위한 다양 한 프로필을 제공 합니다. Microsoft 솔루션 공급자 페이지의 프로필 목록에서 시작 되는 모든 요청은 왼쪽 탐색 창의 **조회** 탭에 있는 **리드** 섹션에서 사용할 수 있습니다.
 
 ## <a name="types-of-leads"></a>잠재 고객 유형
 
@@ -85,9 +85,9 @@ Microsoft는 연간 수백만 명의 잠재 고객을 파트너에 게 보냅니
 
 더 적절 한 조회를 얻는 데 도움이 되는 몇 가지 팁은 다음과 같습니다.
 
-- [비즈니스 프로필](https://docs.microsoft.com/partner-center/create-a-marketing-profile)에서 **귀사의 고유한 전문 지식과 비즈니스 모델을 잘 나타내는 키워드 및 기본 설정을 선택합니다**. 관심이 없는 조회를 생성 하는 키워드를 제거 합니다. 특정 크기의 비즈니스를 처리 하는 데 관심이 없으면이 기본 설정을 업데이트 하세요.
+- [비즈니스 프로필](create-a-marketing-profile.md)에서 **귀사의 고유한 전문 지식과 비즈니스 모델을 잘 나타내는 키워드 및 기본 설정을 선택합니다**. 관심이 없는 조회를 생성 하는 키워드를 제거 합니다. 특정 크기의 비즈니스를 처리 하는 데 관심이 없으면이 기본 설정을 업데이트 하세요.
 
-- ** [비즈니스 프로필](https://docs.microsoft.com/partner-center/create-a-marketing-profile) 에서 각 위치에 대 한 연락처 정보를 검토 합니다** . 팀에서 들어오는 경고를 받았는지 확인 합니다.
+- ** [비즈니스 프로필](create-a-marketing-profile.md) 에서 각 위치에 대 한 연락처 정보를 검토 합니다** . 팀에서 들어오는 경고를 받았는지 확인 합니다.
 
 - **조회에 신속 하 게 응답** 들어오는 요청에 시기 적절 하 게 응답 하는 경우 향후 고객 검색 결과에서 가시성을 증가 시킵니다. 팀이 귀사의 의도를 반영하여 신속하게 응답하도록 합니다.
 

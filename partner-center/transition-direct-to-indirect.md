@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436472"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944500"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -27,7 +27,7 @@ ms.locfileid: "86436472"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 
@@ -204,7 +204,7 @@ ms.locfileid: "86436472"
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 고객 계약 승인
 
-Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 이 날짜 이후에는 모든 고객 (기존 및 신규)이 새 [Microsoft 고객 계약](https://docs.microsoft.com/partner-center/confirm-customer-agreement)에 서명 해야 합니다. 고객을 전환 하는 경우에는 다음을 수행 합니다.
+Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 이 날짜 이후에는 모든 고객 (기존 및 신규)이 새 [Microsoft 고객 계약](confirm-customer-agreement.md)에 서명 해야 합니다. 고객을 전환 하는 경우에는 다음을 수행 합니다.
 
 - **고객이 Microsoft 고객 계약을 아직 수락 하지 않았습니다.**
 
@@ -347,7 +347,7 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 - **구독에 대 한 사용자 수 변경 내용은 기존 전송 요청에 반영 되지 않습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 구독 (또는 연결 된 addons)의 좌석 수량을 업데이트 하지 않아야 합니다. 이렇게 하면 새 수량이 전송 요청에 반영 되지 않습니다. 간접 공급자가 전송 요청을 수락 하면 결과 구독은 이전 수량을 갖게 됩니다. 간접 공급자로 새 수량을 전송 하려는 경우 기존 전송 요청을 취소 하 고 새 전송 요청을 다시 만들어야 합니다.
 
-- **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAYG subscription (MS-MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다. 이러한 구독을 전송 하려면 [기존 구독을 취소](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) 하 고 간접 공급자를 통해 고객에 대 한 새 제품을 구매 해야 합니다.
+- **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAYG subscription (MS-MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다. 이러한 구독을 전송 하려면 [기존 구독을 취소](create-a-new-subscription.md#suspend-or-cancel-a-subscription) 하 고 간접 공급자를 통해 고객에 대 한 새 제품을 구매 해야 합니다.
 
 - **샌드박스 환경을 사용 하 여 테스트할 수 없습니다.**
 

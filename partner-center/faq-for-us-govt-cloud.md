@@ -8,12 +8,12 @@ description: 미국 정부에 대 한 Microsoft 클라우드 CSP (클라우드 �
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390540"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943910"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
 

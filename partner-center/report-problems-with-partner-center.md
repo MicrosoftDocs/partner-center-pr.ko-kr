@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 관련 문제를 보고 하 고 지원 팀에 대 한 진단 정보를 수집 하는 방법을 설명 합니다.
-author: BrentSerbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0566930d75dd442c24c25110af09209a33be1480
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1f5719bd6bbef532bf55ea405b0e544b49a9b2d0
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949269"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114011"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
 
