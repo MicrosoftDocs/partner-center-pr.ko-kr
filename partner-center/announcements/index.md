@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436072"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949859"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "86436072"
 
 | **범주** | **2020년 7월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[FY21을 위해 강화된 적격 Microsoft 상업용 Marketplace 제품에 대한 CSP(클라우드 솔루션 공급자) 인센티브](2020-July.md#7)|7월 22일|
 |기능|[파트너 센터의 Insights 보고서에 추가된 새로운 기능](2020-july.md#6)|7월 16일|
 |제품/시장|[클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](2020-july.md#5)|7월 15일|
 | 제품/시장 | [팀을 위한 새로운 Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7월 3일 |
@@ -35,14 +36,14 @@ ms.locfileid: "86436072"
 | 제품/시장 | [Microsoft 365 F1에 대한 변경 사항](2020-june.md#3) | 6월 15일 |
 | 기능 | [Windows Server 소프트웨어 구독 CSP용 미디어 새로 고침](2020-june.md#2) | 6월 12일 |
 | 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-june.md#1) | 6월 11일 |
-| 기능 | [파트너 센터에서 두 개 이상의 회사 계정 통합](https://docs.microsoft.com/partner-center/merge-accounts) | 6월 9일 |
+| 기능 | [파트너 센터에서 두 개 이상의 회사 계정 통합](../merge-accounts.md) | 6월 9일 |
 | **범주** | **2020년 5월 공지** | **날짜** |
 | 기능 | [Microsoft 365 A3 – 교육 수정용 무인 라이선스 제공](2020-may.md#5) | 5월 28일 |
 | 기능 | [활성 고객은 CSP(클라우드 솔루션 공급자) 프로그램을 통해 EP(Enhancement Plan)를 갱신하고 온라인 라이선스를 받을 수 있음](2020-may.md#4) | 5월 26일 |
 | 기능 | [Americas Operations Center 주소 변경](2020-may.md#3) | 5월 15일 |
 | 기능 | [Microsoft가 Microsoft Kaizala Pro 독립 실행형 SKU 판매 종료](2020-may.md#2) | 5월 7일 |
 | 기능 | [교육 프로그램에서 새 RPA(로봇 프로세스 자동화) 제품 사용 가능](2020-may.md#1) | 5월 1일 |
-| **범주** | **2020년 4월 공지** | **날짜** |
+| **카테고리** | **2020년 4월 공지** | **날짜** |
 | 기능 | [Office 365를 위해 업데이트된 CSP 프로모션](2020-april.md#14) | 4월 30일 |
 | 기능 | [Azure Reservations 파트너 권한이 포함된 새로운 고객 셀프 서비스 기능](2020-april.md#13) | 4월 29일 |
 | 제품/시장 | [Microsoft는 Microsoft 365 E3의 CSP EUR 가격을 되돌림](2020-april.md#12) | 4월 24일 |
