@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875269"
+ms.locfileid: "86943810"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>파트너 센터에서 일회성 및 되풀이 조정 파일
 
@@ -23,17 +23,17 @@ ms.locfileid: "86875269"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 청구 관리자
 - 관리 에이전트
 - 영업 상담원
 
-이 항목에서는 파트너 센터에서 일회성 및 되풀이 조정 파일을 읽는 방법에 대해 설명 합니다.
+이 문서에서는 파트너 센터에서 일회성 및 되풀이 조정 파일을 읽는 방법을 설명 합니다.
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>일회성 및 되풀이 조정 파일의 필드
 
-| Column | Description |
+| 열 | 설명 |
 | ------ | ----------- |
 | PartnerId | 특정 청구 엔터티에 대 한 고유 Azure Active Directory (Azure AD) 테 넌 트 식별자 (GUID 형식)입니다. 조정에는 필요 하지 않습니다. 모든 행에서 동일 합니다. |
 | CustomerId | GUID 형식의 고유한 Azure AD 테 넌 트 식별자입니다. 고객을 식별합니다. |
@@ -46,16 +46,16 @@ ms.locfileid: "86875269"
 | OrderDate | 주문이 배치 된 날짜입니다. |
 | ProductId | 제품의 식별자입니다. |
 | SkuId | 특정 SKU에 대 한 식별자입니다 (재고 유지 단위). |
-| AvailabilityId | 특정 SKU의 가용성에 대 한 식별자입니다. 지정 된 국가, 통화, 산업 부문 등에서 SKU를 구매할 수 있는지 여부를 표시 합니다. |
+| AvailabilityId | 특정 SKU의 가용성에 대 한 식별자입니다. 이 필드는 지정 된 국가, 통화, 산업 부문 등에서 SKU를 구매할 수 있는지 여부를 표시 합니다. |
 | SkuName | 특정 SKU의 제목입니다. |
 | ProductName | 제품의 이름입니다. |
 | ChargeType | 요금 또는 조정의 유형입니다. |
-| UnitPrice | 구입 시 가격 목록에 게시 된 단가입니다. *조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다.* |
-| 수량 | 단위 수입니다. *조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다.* |
-| SubTotal | 세금 앞의 합계입니다. 할인이 예상 합계와 일치 하는지 확인 합니다. |
+| UnitPrice | 구입 시 가격 목록에 게시 된 단가입니다. *조정 하는 동안이 필드는 청구 시스템에 저장 된 정보와 일치 해야 합니다.* |
+| 수량 | 단위 수입니다. *조정 하는 동안이 필드는 청구 시스템에 저장 된 정보와 일치 해야 합니다.* |
+| SubTotal | 세금 앞의 합계입니다. 부분합이 예상 합계와 일치 하는지 확인 합니다 (할인이 있는 경우). |
 | TaxTotal | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. |
 | 합계 | 세금 이후의 합계입니다. 청구서에 세금이 부과 되는지 확인 합니다. |
-| Currency | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 첫 번째 청구서와 일치 하는지 확인 하 고 주요 청구 플랫폼 업데이트 후에 다시 확인 합니다. |
+| Currency | 통화 형식입니다. 각 청구 엔터티에는 하나의 통화가 적용됩니다. 이 필드가 첫 번째 청구서와 일치 하는지 확인 하 고 주요 청구 플랫폼을 업데이트 한 후에 다시 확인 합니다. |
 | PriceAdjustmentDescription | 해당 할인에 대 한 설명입니다. |
 | PublisherName | 제품의 게시자 이름입니다.
 | PublisherId | 특정 게시자에 대 한 고유 식별자입니다. |
@@ -68,7 +68,7 @@ ms.locfileid: "86875269"
 | (Unittype.pixel) | 구입할 단위의 유형입니다. |
 | AlternateId | **주문 ID**에 대 한 대체 식별자입니다. |
 | BillableQuantity | 구입 하거나 사용한 총 단위를 나타냅니다. |
-| BillingFrequency | 품목을 월별 또는 일회성 청구 빈도로 설명 합니다. *이는 현재 지원 되는 값이 있는 Azure RI에 대해서만 지원 됩니다. 1 회 청구 빈도를 사용 하 여 RI를 구매한 경우 정찰 파일의이 필드가 빈 상태로 표시 됩니다.* |
+| BillingFrequency | 품목을 월별 또는 일회성 청구 빈도로 설명 합니다. *이 필드는 현재 지원 되는 값이 있는 Azure RI에 대해서만 지원 됩니다. 1 회 청구 빈도를 사용 하 여 RI를 구매한 경우 정찰 파일의이 필드가 빈 상태로 표시 됩니다.* |
 | PricingCurrency | 리소스 또는 제품의 정가입니다. |
 | PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |
 | PCToBCExchangeRateDate | 청구 통화에 대 한 가격 책정 통화를 결정 하는 날짜입니다. |

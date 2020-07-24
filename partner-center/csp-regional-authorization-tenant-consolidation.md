@@ -5,17 +5,17 @@ ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이러한 지침을 사용 하 여 다른 국가/지역에 대 한 테 넌 트를 통합할 수 있습니다. 여기에는 고객 계정 및 고객 구독을 마이그레이션하는 단계가 포함 됩니다.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46ba699bee0a7e4554042522528fdc6d2a18596a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434922"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114412"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합에 대한 지침
 

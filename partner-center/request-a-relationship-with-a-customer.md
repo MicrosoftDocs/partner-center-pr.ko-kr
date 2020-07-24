@@ -8,12 +8,12 @@ description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949247"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943720"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객의 재판매인 관계를 요청하는 방법
 
@@ -26,7 +26,7 @@ ms.locfileid: "85949247"
 고객과 재판매인 관계를 설정 하 고 프로 비전 하는 Azure 구독만 관리 하려면 관리자 권한을 얻을 필요가 없습니다.
 
 >[!NOTE] 
->사용 권한을 요청 하지 않는 옵션은 미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드 작동 하는 파트너에 게 제공 되지 않습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)하는 방법을 참조 하세요.
+>사용 권한을 요청 하지 않는 옵션은 미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드 작동 하는 파트너에 게 제공 되지 않습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](customers-revoke-admin-privileges.md)하는 방법을 참조 하세요.
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>귀사와 재판매인 관계를 맺도록 고객 초대
 
@@ -67,4 +67,4 @@ ms.locfileid: "85949247"
 
 - [지원 담당자 할당](assign-support-contacts.md)
 
-- [고객과의 관계 제거](remove-a-relationship.md)
+- [재판매인 또는 고객과의 관계 제거](remove-a-relationship.md)

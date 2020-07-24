@@ -4,16 +4,16 @@ description: 요청 받은 레코드 파트너 (CPOR) 고객 연결을 사용할
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: cda0b9d29c351e5365a0ff291f66ee5e2fa91ae7
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949659"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114532"
 ---
 # <a name="customer-association-issues"></a>고객 연결 문제
 
@@ -62,9 +62,9 @@ CPOR 클레임 플랫폼은 Business Applications 및 Microsoft 365 솔루션 �
 | 솔루션 영역 | 활동 | 적용 가능 |
 | ------ | ----------- | ----------- |
 | 비즈니스 애플리케이션      | 예약 판매   | 적격 제품의 구매에 영향을 준 경우 사전 판매 성과급을 적용 하려는 경우에 선택 합니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다. |
-|    |  사용량  | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다. |
+|    |  사용  | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다. |
 |    | 수익 연결   | 적격 제품의 선택에 영향을 주는 비즈니스 주는 요인은 선택 합니다. 이 옵션은 동기 지불액이 아닌 수익 연결에만 적용 됩니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다.   |
-| Microsoft 365   | 사용량   | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. |
+| Microsoft 365   | 사용   | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. |
 
 ## <a name="which-mpn-do-i-choose"></a>어떤 MPN를 선택 하나요?
 

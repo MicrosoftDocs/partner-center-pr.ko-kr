@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 새로운 파트너 센터 기능이 출시되기 전에 시험 사용해 보시고 여러분의 생각을 알려주세요. 파트너 센터를 더욱 개선하려면 여러분의 도움이 필요합니다!
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679400"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114852"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>새로운 파트너 센터 기능을 시험 하 고 파트너 센터의 미래를 위한 도움을 제공 합니다.
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679400"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>파트너 센터를 더욱 개선하려면 여러분의 도움이 필요합니다!
 
-파트너 센터에 대 한 새로운 기능 및 기능을 지속적으로 출시 하 고 있으며 사용자 의견을 원합니다. 
+파트너 센터에 대 한 새로운 기능 및 기능을 지속적으로 출시 하 고 있으며 사용자 의견을 원합니다.
 
 전 세계 파트너 센터 커뮤니티에 새 기능이 출시되기 전에 미리 사용해 보시고 여러분의 생각을 알려주세요. 새 기능을 비즈니스 성장에 어떤 방식으로 이용할 것인지 계획을 세울 수 있도록 [파트너 센터 공지 페이지](announcements/index.md)에서 조만간 출시될 기능에 대해 알아보세요. 지정 된 시간에 드라이브를 테스트 하는 데 사용할 수 있는 몇 가지 기능이 있을 수 있습니다.
 

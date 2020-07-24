@@ -5,16 +5,16 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 파트너 센터에서 공동 op 클레임의 성과급을 시작 하는 방법을 알아봅니다. 기록에서 클레임의 작성으로 이동 하는 모든 활동을 볼 수 있습니다.
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 18390bf51b2ef4be1233b04407c0ac2b62315063
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435232"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114856"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>인센티브 클레임 만들기 및 관리
 

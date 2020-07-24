@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 클라우드 솔루션 공급자 프로그램 파트너가 고객을 제공할 수 있는 기술 지원의 유형에 대해 알아봅니다.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6562778e9b3be1ddeaac1c3cfbe5bc1e82a268a
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219571"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114505"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>고객이 구독을 구성, 관리 및 사용 하는 데 도움이 되는 기술 지원을 제공 합니다.
 

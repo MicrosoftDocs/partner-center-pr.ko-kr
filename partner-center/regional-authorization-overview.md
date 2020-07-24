@@ -5,20 +5,20 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사의 위치에 따라 CSP 제품을 판매할 수 있는 국가, 지역 및 통화를 참조 하세요.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434172"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114102"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP 제품을 판매할 수 있는 클라우드 솔루션 공급자 프로그램 지역 시장 및 통화
 
-회사 위치에 따라 시장이 결정됩니다. 시장에는 CSP (클라우드 솔루션 공급자) 프로그램 제품을 판매할 수 있는 지역 및/또는 국가가 포함 됩니다.
+회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP (클라우드 솔루션 공급자) 프로그램 제품을 판매할 수 있는 지역 및/또는 국가가 포함 됩니다.
 
 예를 들어 회사가 미국에 있는 경우 미국 및 미국 소수 외부의 고객에 게 CSP 제품을 판매할 수 있습니다. 회사를 브라질에 거주 하는 경우에는 브라질에서 CSP 제품을 고객에 게 판매할 수 있습니다. 회사를 아프리카 지역에 있는 경우 아프리카 지역의 18 개 국가에서 CSP 제품을 고객에 게 판매할 수 있습니다.
 

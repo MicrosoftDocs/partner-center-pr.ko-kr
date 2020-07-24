@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터로 마이그레이션한 후 비즈니스 및 서비스 요청 빌드와 같은 일반적인 Office 365 파트너 관리 센터 (PAC) 기능을 찾습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998439"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114584"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 파트너-비즈니스 작업을 파트너 센터로 이동할 준비
 

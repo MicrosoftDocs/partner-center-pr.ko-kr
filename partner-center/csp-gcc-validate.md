@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 직접 청구 파트너 (direct 재판매인, 간접 공급자)에 게 Office 365 정부 GCC for CSP에 대 한 파트너 및 고객의 유효성을 검사 하는 단계를 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908056"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114379"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 CSP 용 정부 GCC 파트너 및 고객 자격 기준-파트너 센터
 

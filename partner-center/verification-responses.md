@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436442"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943820"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>새 파트너 센터 프로그램에 등록할 때 계정 정보 확인
 
@@ -39,7 +39,7 @@ CSP 프로그램의 경우 [이 페이지로](https://partner.microsoft.com/pcv/
 |비즈니스   |비즈니스 확인은 등록 하는 회사가 합법적인 비즈니스 엔터티이 고 등록에 사용 되는 주소 인지 확인 합니다.|비즈니스 확인에 실패 하는 경우 기본 연락처 (일반적으로 전역 또는 계정 관리자)에 게 회사의 집 국가에서 비즈니스 등록 또는 세금 등록 인증서 또는 수령 등의 공식 설명서를 제공 하거나 해당 엔터티 이름으로 비즈니스를 수행할 수 있는 권한이 회사에 부여 되 고 등록 주소에 지방 자치 체 확인 하는 메시지가 표시 됩니다. [지원 티켓 만들기](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->[법적 비즈니스 프로필 (주소)](https://docs.microsoft.com/partner-center/update-your-partner-profile)을 업데이트 하는 방법을 알아봅니다.
+>[법적 비즈니스 프로필 (주소)](update-your-partner-profile.md)을 업데이트 하는 방법을 알아봅니다.
 
 ## <a name="when-verification-concludes"></a>확인이 완료 되 면
 

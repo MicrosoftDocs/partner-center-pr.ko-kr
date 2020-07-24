@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436772"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943700"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
 
@@ -76,7 +76,7 @@ Insights는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Mi
 
 ### <a name="filters-definitions"></a>필터 정의:
 
-- 제품: 조직에서 판매/관리 하는 모든 Microsoft 클라우드 제품의 목록 (예: O365, Azure, D365, EMS, PowerBI 등)입니다.
+- 제품: 조직에서 판매/관리 하는 모든 Microsoft 클라우드 제품의 목록 (예: O365, Azure, D365, EMS, Power BI 등)입니다.
 - 고객 시장: 고객 국가 목록
 - Partner attributions: 고객 구독과 연결 형식 (예: DPOR (Digital partner of record), DAP (위임 된 관리자 권한), PAL (파트너 관리자 링크) 등) 
 - 파트너 위치: 조직의 MPN 위치를 모두 나열 합니다.

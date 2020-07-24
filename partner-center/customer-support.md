@@ -5,16 +5,16 @@ ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너에 대 한 고객 지원 책임에 대해 알아봅니다.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b94a7d1379f0bd2f9958b0486cca107de258e5ec
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 2ae8ff6491388af8ed4c7865fef730a946fea332
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219531"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114370"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>고객에 게 다양 한 지원 유형 제공
 

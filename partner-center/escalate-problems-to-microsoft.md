@@ -1,20 +1,20 @@
 ---
 title: Microsoft로 문제 에스컬레이션
+description: Microsoft 파트너가 고객에 대해 스스로 해결 해야 하는 문제 및 Microsoft로 에스컬레이션 해야 할 수 있는 문제에 대해 알아보세요.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 파트너가 고객에 대해 스스로 해결 해야 하는 문제 및 Microsoft로 에스컬레이션 해야 할 수 있는 문제에 대해 알아보세요.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219601"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114161"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft로 문제를 에스컬레이션 하 고 Microsoft 에스컬레이션에 보다 적합 한 문제에 대해 알아봅니다.  
 
@@ -63,12 +63,5 @@ ms.locfileid: "86219601"
 >[!NOTE]
 >파트너와 고객 간의 관계가 유지 되도록 파트너 센터 대시보드에서 시작 하는 것이 중요 합니다. 
 
-
 고객을 대신 하 여 문제를 보고 하는 방법에 대 한 자세한 내용은 [고객을 대신 하 여 문제](report-problems-on-behalf-of-a-customer.md)보고를 참조 하십시오.
-
- 
-
- 
-
-
 

@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객이 자신의 계정을 관리 하 고 클라우드 솔루션 공급자 파트너에 게 문의 해야 하는 시기와 위치를 알아봅니다.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b52799639c99073ef82d1458362f74051b52990
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434842"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114351"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 관리 센터를 통해 또는 Azure Portal를 통해 고객 자가 지원
 

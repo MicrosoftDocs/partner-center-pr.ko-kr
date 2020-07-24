@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 Microsoft 제품 출시에 대해 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436792"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114652"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
 

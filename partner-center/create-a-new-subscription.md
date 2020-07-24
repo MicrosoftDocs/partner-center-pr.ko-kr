@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터에서 고객 구독 만들기
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft에서 게시 한 제품 및 타사 Isv가 게시 한 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875229"
+ms.locfileid: "86949839"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -28,7 +28,7 @@ ms.locfileid: "86875229"
 
 - 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 
@@ -49,7 +49,7 @@ ms.locfileid: "86875229"
 
 4. 특정 유형의 구독만 표시하려면 사용 가능한 필터 중에서 원하는 필터를 선택합니다.
    - **게시자** **: microsoft를 선택 하** 여 isv가 게시 한 상용 마켓플레이스 **제품을 볼 수 있습니다** .
-   - **청구 유형**: 사용 하려는 구독 청구 유형 ( **라이선스** 또는 **사용**)을 선택 합니다. 월간 청구 주기와 연간 청구 주기 중 어떤 것을 선택할지 결정할 때 도움이 되는 정보는 [새 청구 기능에 대한 FAQ](faq-about-new-billing-features.md)를 참조하세요.
+   - **청구 유형**: 사용 하려는 구독 청구 유형 ( **라이선스** 또는 **사용**)을 선택 합니다. 월별 및 연간 청구 빈도를 결정 하는 데 도움이 되는 정보는 [라이선스 기반 청구](license-based-billing.md) 를 참조 하세요.
    - **범주**: **Enterprise**, **Small business**또는 **평가판**을 선택 합니다. 평가판 구독에 대한 자세한 내용은 [고객에게 Microsoft 제품의 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 참조하세요.
 
 5. 고객을 위해 구매할 제품 구독을 선택 합니다. 표시 되는 제품은 고객 부문 유형 (교육, 정부 등) 및 적용 한 필터에 따라 달라 집니다. Marketplace에 표시 된 일부 제안은 특정 고객 또는 특정 CSP 파트너에 게 제공 되지 않을 수 있습니다. 이는 다음과 같은 경우에 발생할 수 있습니다.
@@ -76,7 +76,7 @@ ms.locfileid: "86875229"
     >[!NOTE]
     > 이 유형의 ISV 구독에 대 한 계정 설정/프로 비전을 완료 하는 지침이 포함 된 전자 메일은 사용자 또는 고객 모두에 게 제공 되지 않습니다.
 
-    - 구독에 30 일 무료 평가판이 제공 되는 경우 무료 평가판 기간이 자동으로 적용 됩니다. CSP 프로그램의 파트너는 고객을 위해 구매한 제품에 대 한 무료 평가판 기간을 되지 않으며 수 없습니다. 무료 평가판 기간이 종료 되 면 구독 기간이 시작 되 고 구독이 유료 상태로 전환 됩니다. 그러면 구독은 동일한 일정에 따라 autorenew 됩니다.
+    - 구독에 30 일 무료 평가판이 제공 되는 경우 무료 평가판 기간이 자동으로 적용 됩니다. CSP 프로그램의 파트너는 고객을 위해 구매한 제품에 대 한 무료 평가판 기간을 되지 않으며 수 없습니다. 무료 평가판 기간이 종료 되 면 구독 기간이 시작 되 고 구독이 유료 상태로 전환 됩니다. 그러면 구독은 동일한 일정에 따라 자동 갱신 됩니다.
    
 ## <a name="update-subscriptions-with-add-ons"></a>추가 기능을 사용 하 여 구독 업데이트 
 
@@ -92,10 +92,10 @@ ms.locfileid: "86875229"
 
 5. 필요한 각 추가 기능에 대 한 라이선스의 수량을 업데이트 합니다. 그런 다음, 변경 내용을 **제출**합니다.
 
-파트너 센터를 통해 추가 기능을 구입 하는 기능은 CSP 파트너만 사용할 수 있습니다.
+파트너 센터를 통해 추가 기능을 구입 하는 기능은 직접 청구 및 간접 공급자만 사용할 수 있습니다.
 기본 요구 사항 및 지역 가용성에 따라 적합 한 추가 기능만 표시 됩니다. 가격 책정 및 제안에 대 한 자세한 내용은 Cloud 재판매인 제품 매트릭스를 참조 하세요.  기본 구독을 일시 중단 하면 연결 된 추가 기능도 일시 중단 됩니다.
 
-추가 기능에 대 한 시작 날짜는 기본 구독에 맞춰 청구 되 고 요금은 청구 시작 날짜와 청구 종료 날짜부터 첫 번째 청구서의 pro-rata 요금으로 계산 됩니다. 
+추가 기능에 대 한 시작 날짜는 기본 구독에 맞춰 청구 되 고 요금은 청구 시작 날짜와 청구 종료 날짜부터 첫 번째 청구서의 pro-rata 요금으로 계산 됩니다. 자세한 내용은 [라이선스 기반 청구](license-based-billing.md)를 참조 하세요.
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중단 또는 취소

@@ -5,16 +5,16 @@ ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 이전 ISV 역량을 갖춘 파트너의 경우 응용 프로그램 개발 역량에 대해 일회성 시험 요구 사항 예외를 얻는 방법을 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39fd6fea1845edbb520cfd9d9c6ebe985765716b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: ed3fd024b415cba79684359e1f1f01f594164c34
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436082"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114800"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
 
