@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434752"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943510"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
 
@@ -106,7 +106,7 @@ ms.locfileid: "86434752"
 
 - 파트너는 고객이 비즈니스용 Microsoft Store, 교육용 Microsoft Store 또는 Microsoft Intune 포털을 통해 추가한 디바이스를 관리할 수 없습니다.
 
-Autopilot에 대한 자세한 내용은 [Windows Autopilot으로 디바이스 설치 간소화](https://docs.microsoft.com/partner-center/autopilot)를 참조하세요.
+Autopilot에 대한 자세한 내용은 [Windows Autopilot으로 디바이스 설치 간소화](autopilot.md)를 참조하세요.
 
 >[!IMPORTANT]  
 >파트너 센터의 현재 Autopilot 관리 환경은 지속적으로 변경될 것입니다. 이 문서가 게시된 시점을 기준으로 다음과 같은 변경 사항을 고려 중입니다.

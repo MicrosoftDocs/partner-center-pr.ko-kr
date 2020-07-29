@@ -5,16 +5,16 @@ ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 성과급 프로그램의 활동에 대한 수요를 창출하고, 시장 개발을 이해하며, 파트너의 준비 상태를 최대화하는 방법에 대해 알아봅니다.
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
-ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
+ms.openlocfilehash: ce728bc22625aecd86142a21aaec00a111b58732
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "86475548"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114877"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>인센티브 협업 클레임 핵심 요구 사항
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286621"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943980"
 ---
 # <a name="march-2020-announcements"></a>2020년 3월 공지
 
@@ -102,14 +102,14 @@ Microsoft는 2018년 8월 31일을 기준으로 CSP(클라우드 솔루션 공�
 
 직접 청구 테넌트의 고객 CSP 구독을 간접 공급자 테넌트로 이전하는 새로운 기능을 사용할 수 있습니다. 이 새로운 기능을 통해 직접 청구 파트너가 간접 재판매인으로 쉽게 전환하여 프로그램 내의 비즈니스 성장을 가속화할 수 있습니다.
 
-자세한 내용은 [CSP 제품](https://docs.microsoft.com/partner-center/csp-offers) 페이지를 검토하세요.
+자세한 내용은 [CSP 제품](../csp-offers.md) 페이지를 검토하세요.
 
 >[!NOTE] 
->이전은 라이선스 기반 구독 및 Azure 구독만 지원합니다. Azure 플랜 및 상업용 Marketplace 구매는 수동으로 이전해야 합니다. 여기에는 다음 문서에 설명된 구독 취소 및 갱신이 관련됩니다. [Azure 플랜](https://docs.microsoft.com/partner-center/azure-plan-lp) 및 [상업용 Marketplace](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). 서버 구독과 Azure 예약은 일회성 구매이므로 간접 공급자 테넌트로 이전할 필요가 없습니다. 자세한 내용은 CSP 제품 페이지를 참조하세요.
+>이전은 라이선스 기반 구독 및 Azure 구독만 지원합니다. Azure 플랜 및 상업용 Marketplace 구매는 수동으로 이전해야 합니다. 여기에는 다음 문서에 설명된 구독 취소 및 갱신이 관련됩니다. [Azure 플랜](../azure-plan-lp.md) 및 [상업용 Marketplace](../csp-commercial-marketplace-manage.md). 서버 구독과 Azure 예약은 일회성 구매이므로 간접 공급자 테넌트로 이전할 필요가 없습니다. 자세한 내용은 CSP 제품 페이지를 참조하세요.
 
 ### <a name="additional-resources"></a>추가 리소스:
 
-- [CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider) 도움말 문서
+- [CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider) 도움말 문서
 - [직접 청구에서 간접 재판매인으로 전환 데크](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>다음 단계

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875259"
+ms.locfileid: "86943530"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>고객에 대한 Azure 플랜을 구매하고 종량제 요금으로 최신 Azure 서비스에 액세스합니다.
 
@@ -37,7 +37,7 @@ Azure 플랜을 구입하는 방법은 다른 구독을 구매하는 방법과 �
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="구매":::
 
-파트너는 고객이 Microsoft 고객 계약을 검토하고 동의했는지 확인해야 합니다. 자세한 방법은 [고객의 Microsoft 고객 계약 동의 확인](https://docs.microsoft.com/partner-center/confirm-customer-agreement)을 참조하세요. 다른 리소스는 [리소스 갤러리](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)에서 사용할 수 있습니다.
+파트너는 고객이 Microsoft 고객 계약을 검토하고 동의했는지 확인해야 합니다. 자세한 방법은 [고객의 Microsoft 고객 계약 동의 확인](confirm-customer-agreement.md)을 참조하세요. 다른 리소스는 [리소스 갤러리](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)에서 사용할 수 있습니다.
 
 **확인하려면 다음 중 하나를 수행합니다.** 
 
@@ -75,9 +75,9 @@ Azure 플랜이 추가된 것을 볼 수 있는 **제품 추가** 페이지로 �
 Azure 예약이 활성 Azure 플랜과 연결되어야 합니다. 고객 구독 목록에서 Azure 예약을 추가하려는 Azure 플랜을 선택합니다. 
 
 >[!Important] 
->고객이 활성 Azure 플랜을 보유하고 있지 않은 경우 Azure를 선택하여 지금 추가합니다. 자세한 지침은 [Azure 예약 구매](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)를 참조하세요.
+>고객이 활성 Azure 플랜을 보유하고 있지 않은 경우 Azure를 선택하여 지금 추가합니다. 자세한 지침은 [Azure 예약 구매](azure-reservations-buying.md#purchase-azure-reservations)를 참조하세요.
 
->[!Note] 
+>[!Note]
 >파트너 센터에서 현재는 예약 범위를 **공유**로만 설정할 수 있습니다. 단일 구독 범위를 선택하거나 공유에서 단일 구독 범위로 업데이트하려면 다음 지침을 따라 **Microsoft Azure 관리 포털**로 이동합니다. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="공유 범위 예약 설정":::

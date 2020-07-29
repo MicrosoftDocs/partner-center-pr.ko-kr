@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434562"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943930"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 개요
 
@@ -25,7 +25,7 @@ ms.locfileid: "86434562"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 영업 상담원
 
 CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 제공되는 옵션의 카탈로그가 계속 확장되고 있습니다. [Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 전체 범위를 판매할 수 있을 뿐 아니라 자주 변경되는 여러 추가 제품 또한 판매할 수 있습니다. 이번 달의 CSP 제품을 보려면 파트너 센터에 로그인한 다음, [**가격 책정 및 제품**](https://partnercenter.microsoft.com/pcv/sales) 페이지로 이동합니다.  
@@ -117,21 +117,21 @@ CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원
 
 카탈로그에서 원하는 제품을 찾을 수 없는 이유는 여러 가지가 있을 수 있습니다. 다음은 원하는 제품을 찾을 수 없는 경우 확인할 사항입니다.
 
-- **고객이 자격이 있는지 확인합니다**. 대부분의 제품을 판매하려면 고객에게 특별한 자격이 있어야 합니다. 이러한 특수 세그먼트에는 교육, 비영리 및 GCC(정부 커뮤니티 클라우드)가 포함됩니다. 문제를 기록하기 전에 먼저 고객의 자격을 적절하게 설정했는지 확인합니다. 고객 목록에서 고객을 클릭하여 계정을 보고 이를 확인할 수 있습니다. 해당하는 경우 계정에 특별한 자격이 설정됩니다. 자격이 없는 고객을 위해 교육을 구매하려는 경우 카탈로그에서 해당 제품을 볼 수 없습니다. 고객 자격에 대한 자세한 내용은 [특별 세그먼트 문서](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)를 참조하세요.
+- **고객이 자격이 있는지 확인합니다**. 대부분의 제품을 판매하려면 고객에게 특별한 자격이 있어야 합니다. 이러한 특수 세그먼트에는 교육, 비영리 및 GCC(정부 커뮤니티 클라우드)가 포함됩니다. 문제를 기록하기 전에 먼저 고객의 자격을 적절하게 설정했는지 확인합니다. 고객 목록에서 고객을 클릭하여 계정을 보고 이를 확인할 수 있습니다. 해당하는 경우 계정에 특별한 자격이 설정됩니다. 자격이 없는 고객을 위해 교육을 구매하려는 경우 카탈로그에서 해당 제품을 볼 수 없습니다. 고객 자격에 대한 자세한 내용은 [특별 세그먼트 문서](get-special-pricing-for-offers.md)를 참조하세요.
 - **추가 기능을 구매할지 기본 제품을 구매할지를 결정합니다**. Microsoft 365 및 Dynamics 365와 같은 다양한 라이선스 기반 서비스에서는 기본 제품 및 추가 기능 모두 카탈로그 구매할 수 있습니다. 기본 제품만 카탈로그에서 구매할 수 있습니다. 추가 기능을 구매하려면 먼저 카탈로그에서 기본 제품을 구매하고 고객 목록에서 고객을 선택한 다음 기본 제품에 대한 구독을 선택합니다. 이 구독 관리 페이지의 기본 제품에 추가 기능을 적용할 수 있습니다. 
 - **제품을 시장에서 사용할 수 있는지 확인합니다**. 많은 제품 및 서비스는 특정 국가의 고객에게만 판매하도록 구성됩니다. 다양한 가격 목록 파일에서 지원되는 국가 목록을 찾을 수 있습니다. 라이선스 기반 서비스 지원 국가는 가격 책정 및 제품 페이지의 제품 목록 매트릭스에 있습니다.
 - **제품이 가격 목록에 있는지 확인합니다**. 사용 가능한 제품 목록은 매월 변경될 수 있습니다. 카탈로그에서 제품을 찾을 수 없는 경우 **판매 > 가격 책정 및 제품** 페이지의 현재 가격표에 해당 제품이 있는지 확인해야 합니다.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>파트너 센터의 구매 항목과 관련된 권장 문서
 
-- [파트너 센터의 가격 책정 및 제품](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [클라우드 솔루션 공급자 프로그램의 파트너 제품의 개요](https://docs.microsoft.com/partner-center/csp-offers)
-- [교육 고객에게 제품을 판매하는 방법 및 교육 고객을 만드는 방법](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [교육, 비영리 및 정부 사용자와 같은 특수 산업에 판매](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [특수 세그먼트에 대한 구매 규칙](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [파트너 센터의 가격 책정 및 제품](pricing-and-offers.md)
+- [클라우드 솔루션 공급자 프로그램의 파트너 제품의 개요](csp-offers.md)
+- [교육 고객에게 제품을 판매하는 방법 및 교육 고객을 만드는 방법](sell-to-education-customers.md)
+- [교육, 비영리 및 정부 사용자와 같은 특수 산업에 판매](get-special-pricing-for-offers.md)
+- [특수 세그먼트에 대한 구매 규칙](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>다음 단계
 
-청구 프로세스의 작동 방식에 대한 자세한 내용은 [청구 기본 사항](https://docs.microsoft.com/partner-center/billing-basics)을 참조하세요.
+청구 프로세스의 작동 방식에 대한 자세한 내용은 [청구 기본 사항](billing-basics.md)을 참조하세요.
 
 Azure 플랜에서 구입에 대한 자세한 내용은 [Azure 플랜 구매](purchase-azure-plan.md)를 참조하세요.

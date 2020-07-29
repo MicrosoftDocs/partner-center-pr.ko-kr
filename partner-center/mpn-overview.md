@@ -5,22 +5,22 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 시장에 진출하여 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함한 Microsoft와 파트너 혜택에 대해 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 53cf9976ffef5254499d03215782ad428a067189
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436782"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114604"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Microsoft와 파트너 되기 - 혜택, 고객 지원 방법 및 비즈니스 성장을 촉진하는 방법 알아보기
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 - 사용자 관리자
 - 관리 에이전트

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749131"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944450"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -48,7 +48,7 @@ Microsoft는 2020년 5월 4일에 신규 고객에 대해 Office 365 E1 및 Micr
 
 이 프로모션은 현재 Office 365 E1 평가판 제품을 대체하며, 다음과 같은 차이가 있습니다.
 
-- 파트너는 고유한 6개월 평가판 SKU 대신 처음 6개월 동안 100% 할인을 적용하는 CSP 프로모션을 활용하여 Office 365 E1 또는 Microsoft 365 Business Basic SKU를 거래합니다. [CSP 프로모션에 대해 자세히 알아보세요](https://docs.microsoft.com/partner-center/promotions).
+- 파트너는 고유한 6개월 평가판 SKU 대신 처음 6개월 동안 100% 할인을 적용하는 CSP 프로모션을 활용하여 Office 365 E1 또는 Microsoft 365 Business Basic SKU를 거래합니다. [CSP 프로모션에 대해 자세히 알아보세요](../promotions.md).
 - 주문은 엄밀히 말하면 서면 정책을 통해 신규 고객으로만 제한되었던 Office 365 E1 평가판이 아닌 "신규 고객만"으로 제한됩니다. [Microsoft 파트너 FAQ](https://aka.ms/CSPCOVIDPromo)를 검토하여 자세히 알아보세요.
 - SMB 고객의 경우 이 프로모션에 Microsoft 365 Business Basic이 포함됩니다. 따라서 파트너는 비즈니스용 Microsoft 365가 포함된 올바른 제품군에서 실제 사용자 수가 300명 미만인 고객을 시작할 수 있습니다.
 현재 Office 365 E1 평가판(2020년 5월 4일까지 사용 가능)으로 라이선스가 부여된 고객은 현재 플랜을 그대로 유지합니다. 이 변경 사항은 순 신규 고객에게만 영향을 줍니다.
@@ -106,7 +106,7 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 ### <a name="next-steps"></a>다음 단계
 
 1. 새 기능을 사용하여 고객이 소유하고 있는 Azure 예약을 구입할 수 있도록 지원합니다.
-2. [관련 컬렉션에서 사용할 수 있는 리소스를 검토](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)하여 자세한 정보를 확인합니다. 여기에는 [기술 문서](https://docs.microsoft.com/partner-center/give-customers-permission), 파트너 환경 연습 및 고객 환경 연습이 포함되어 있습니다.
+2. [관련 컬렉션에서 사용할 수 있는 리소스를 검토](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)하여 자세한 정보를 확인합니다. 여기에는 [기술 문서](../give-customers-permission.md), 파트너 환경 연습 및 고객 환경 연습이 포함되어 있습니다.
 
 _________________
 
@@ -168,7 +168,7 @@ _________________
 
 Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 기능의 보안 세이프가드 활성화를 성공적으로 완료하여 ID 도난 관련 인시던트로부터 파트너의 비즈니스 및 고객을 보호합니다.
 
-파트너와 고객에 대한 방어를 한층 더 강화하기 위해 **2020년 5월 1일부터 CSP의 파트너 센터 트랜잭션에 대해 세이프가드 활성화가 시작됩니다**. 추가 보안 세이프가드를 활성화하면 파트너 센터 사용자 환경 또는 API를 사용한 CSP의 모든 트랜잭션에 대해 MFA(다단계 인증)를 사용하도록 파트너에게 요청하여 무단 액세스를 방지하고 ID 도난 관련 보안 인시던트로부터 고객과 테넌트를 보호할 수 있게 됩니다. 자세한 내용은 [여기](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa)를 참조하세요.
+파트너와 고객에 대한 방어를 한층 더 강화하기 위해 **2020년 5월 1일부터 CSP의 파트너 센터 트랜잭션에 대해 세이프가드 활성화가 시작됩니다**. 추가 보안 세이프가드를 활성화하면 파트너 센터 사용자 환경 또는 API를 사용한 CSP의 모든 트랜잭션에 대해 MFA(다단계 인증)를 사용하도록 파트너에게 요청하여 무단 액세스를 방지하고 ID 도난 관련 보안 인시던트로부터 고객과 테넌트를 보호할 수 있게 됩니다. 자세한 내용은 [여기](../partner-security-requirements-mandating-mfa.md)를 참조하세요.
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -181,9 +181,9 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 
 보안 요구 사항을 구현하는 데 도움이 되도록 다음 리소스를 검토하세요.
 
-- 파트너 보안 요구 사항을 구현하려면 [단계별 가이드](https://docs.microsoft.com/partner-center/partner-security-requirements)를 확인합니다.
-- 파트너 보안 요구 사항에 관해 [자주 묻는 질문](https://docs.microsoft.com/partner-center/partner-security-requirements-faq)과 대답을 참조합니다.
-- [보안 요구 사항 상태 확인 가이드](https://docs.microsoft.com/partner-center/partner-security-compliance)를 살펴봅니다.
+- 파트너 보안 요구 사항을 구현하려면 [단계별 가이드](../partner-security-requirements.md)를 확인합니다.
+- 파트너 보안 요구 사항에 관해 [자주 묻는 질문](../partner-security-requirements-faq.md)과 대답을 참조합니다.
+- [보안 요구 사항 상태 확인 가이드](../partner-security-compliance.md)를 살펴봅니다.
 - [파트너 보안 요구 사항 구현](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) 컬렉션의 추가 리소스에 액세스합니다.
 - [파트너 센터 보안 지침 커뮤니티 그룹](https://aka.ms/MPCSecurityGuidance)에 책갈피를 지정합니다.
 
@@ -192,7 +192,7 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 파트너십과 헌신을 통해 Microsoft 에코시스템이 신뢰를 바탕으로 운영되는 데 도움을 주셔서 감사합니다.
 
 >[!NOTE] 
->기준 정책을 사용 중이며 보안 기본값 정책이나 [다른 MFA 구현 옵션](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)으로 전환하지 않은 경우 [여기에 있는 주요 리소스](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)를 참조하여 최대한 빨리 전환하세요.
+>기준 정책을 사용 중이며 보안 기본값 정책이나 [다른 MFA 구현 옵션](..\partner-security-requirements.md#actions-that-you-need-to-take)으로 전환하지 않은 경우 [여기에 있는 주요 리소스](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)를 참조하여 최대한 빨리 전환하세요.
 
 ### <a name="change-log"></a>로그 변경
 

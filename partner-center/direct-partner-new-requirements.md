@@ -5,16 +5,16 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Microsoft CSP(클라우드 솔루션 공급자) 프로그램에서 직접 청구 파트너가 되기 위해 최신 지원 및 서비스 요구 사항을 충족하는 방법을 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79775a45f904970c6d533874360a67cf9ce96852
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: aa5ac9b7e8951d27f5e55f303a3506f78179600f
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434702"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120017"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 직접 청구 파트너로 등록하기 위한 요구 사항
 

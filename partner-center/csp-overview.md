@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 신규 고객과 새로운 전문 지식을 활용하여 비즈니스를 확장하는 데 도움이 되는 클라우드 솔루션 공급자 프로그램의 혜택 및 여러 가지 모델에 대해 자세히 알아봅니다.
-author: LauraBrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434912"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114330"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>클라우드 솔루션 공급자 프로그램 혜택 및 다양한 모델
 

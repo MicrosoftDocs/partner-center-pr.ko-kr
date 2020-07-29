@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크(MPN)에 가입하고 파트너 센터를 사용하여 비즈니스 성장에 도움이 되는 멤버십 혜택 및 제품을 관리합니다.
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f13dcd911da248b1674f2ded9c596f85857541a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434352"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120003"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>파트너 센터에서 Microsoft 파트너 네트워크 멤버십 혜택 및 제품 관리
 
@@ -43,7 +43,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 혜택 패키지에는 사용이 허가된 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. 혜택 패키지에는 특정 시장 진출 리소스, 제품 및 프로그램도 포함될 수 있습니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 정보를 확인할 수 있습니다.  
 
-모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에 로그인하고, 왼쪽 메뉴에서 [**혜택 옵션**]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
+모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고, 왼쪽 메뉴에서 [**혜택 옵션**]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
 
 ## <a name="manage-software-benefits"></a>소프트웨어 혜택 관리
 

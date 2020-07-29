@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 비즈니스를 Partner Membership Center에서 파트너 센터로 이동하기 전에 유용한 정보와 FAQ를 검토하세요.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749164"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114569"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
@@ -55,7 +55,7 @@ CSP 계정 또는 MPN 회사 이메일 계정으로 파트너 센터에 로그�
 
 **사용자가 PMC에서 파트너 센터로 이동하면 사용자의 역할은 어떻게 되나요?**
 
-마이그레이션을 수행하는 MPN 글로벌 관리자 또는 기본 프로그램 담당자를 제외하고, PMC의 모든 사용자는 관리자 역할을 잃게 됩니다. 마이그레이션을 완료하는 개인은 파트너 센터에서 역할을 할당해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당]\(permissions-overview.md) 및 [PMC에서 파트너 센터로 이동](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)을 참조하세요.
+마이그레이션을 수행하는 MPN 글로벌 관리자 또는 기본 프로그램 담당자를 제외하고, PMC의 모든 사용자는 관리자 역할을 잃게 됩니다. 마이그레이션을 완료하는 개인은 파트너 센터에서 역할을 할당해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당]\(permissions-overview.md) 및 [PMC에서 파트너 센터로 이동](move-pmc-pc-map.md#user-roles)을 참조하세요.
 
 
 **회사 프로필과 비즈니스 프로필 간의 차이점은 무엇인가요?**
