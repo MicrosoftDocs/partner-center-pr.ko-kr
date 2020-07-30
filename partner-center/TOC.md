@@ -15,6 +15,7 @@
 ### [여러 회사를 파트너 센터로 이동하기 위한 가이드](move-multiple-companies.md)
 ### [회사 통합](consolidate-accounts.md)
 
+
 ## 멤버십 제품
 ### [Action Pack](mpn-get-action-pack.md)
 ### [제품 갱신](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [도메인 소유권 확인](become-global-admin.md)
 ## [계정 정보 확인](verification-responses.md)
 ## [파트너 계정을 다른 파트너 계정과 병합](merge-accounts.md)
+## [파트너 센터 계정에 추가 Azure AD 테넌트 연결](multi-tenant-account.md)
 ## [파트너 프로필 업데이트](update-your-partner-profile.md)
 ## [위치](manage-locations.md)
 ## [제어판 공급 업체로 등록](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### 인센티브 시작
 #### [프로그램 자격 확인](incentives-determined-your-program-eligibility.md)
 #### [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [인센티브 지급 및 세금 프로필 FAQ](incentives-payout-tax-profile-faqs.md)
 #### [수익 자격 확인](incentives-confirm-your-earnings-eligibility.md)
 #### [인센티브 지급 및 프로그램 보기](understand-incentive-payouts.md)
 #### [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [청구 송장 - 청구 및 일회성 요금 필드 읽기](invoice-file.md)
 ### [라이선스 기반 청구](license-based-billing.md)
 ### [라이선스 기반 SaaS 구독 시나리오](common-billing-scenarios-saas.md)
+
+## [디지털 서명 보기 - 파트너 센터 인도](digital-signature.md)
+
 ## [세금 및 면세](tax-and-tax-exemptions.md)
 ### [회사 VAT 정보](organization-tax-info.md)
 ### [원천징수세액 환급 대상 여부 확인](withholding-tax-credit-form.md)
