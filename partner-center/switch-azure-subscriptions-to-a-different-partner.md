@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237973"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412439"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에 게 고객의 Azure 구독을 전송 하는 방법을 알아봅니다.
 
@@ -32,7 +32,7 @@ ms.locfileid: "86237973"
 >현재 직접 또는 간접 공급자만 구독을 전송할 수 있습니다.
 >Azure 계획, Office 365, Enterprise Mobility Suite 또는 Microsoft Dynamics CRM 구독과 연결 된 클라우드 솔루션 공급자 구독에 대 한 파트너를 변경할 수 없습니다.
 
-**Azure 구독에 대 한 파트너 전환**
+## <a name="switch-partners-for-azure-subscriptions"></a>Azure 구독에 대 한 파트너 전환
 
 1. Azure 구독을 새 파트너에 게 전송 하려면 고객은 프로세스를 시작 하 고 작성 중인 레코드의 현재 파트너에 게 문의 해야 합니다.
 
@@ -84,20 +84,27 @@ ms.locfileid: "86237973"
    - 계정에 재판매인으로 새 파트너를 추가 합니다.
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     CustomerDomainName을 찾으려면 파트너 센터 메뉴에서 **고객**을 선택 합니다. 고객 목록에서 고객을 선택 합니다. 고객 메뉴에서 **계정**을 선택 하 고 **도메인 이름을**사용 합니다.
+     >[!NOTE]
+     > 고객의 **테 넌 트 id** 는 고객의 **Microsoft Id**로 파트너 센터에 표시 됩니다. 특정 고객에 대 한 Microsoft ID (테 넌 트 ID)를 찾으려면 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다. 그런 다음 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 찾습니다. 아래쪽 화살표를 선택 하 여 고객의 목록을 확장 합니다. 고객의 *도메인 이름* 및 고객의 **Microsoft ID**에 대 한 정보가 표시 됩니다. PowerShell 이상에서 16 자리 **MICROSOFT ID** 를 사용 합니다.
 
    - 이전 CSP 파트너를 포함 하 여 계정에 대 한 역할 보기:
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. 오래 된 액세스 권한 제거
 
    - 파트너 센터 메뉴에서 **고객**을 선택 합니다.
-   - 고객 목록을 확장 하 고 **구독 보기**를 선택 합니다.
-   - 고객 메뉴에서 **서비스 관리**를 선택 합니다.
+   - 목록에서 고객을 찾습니다. 회사 이름을 선택 (두 번 클릭) 합니다. 그러면 고객 **구독** 페이지가 열립니다.
+   - 고객 정보 메뉴에서 **서비스 관리**를 선택 합니다.
    - **Microsoft Azure**에서 링크를 클릭 하 여 **Microsoft Azure 관리 포털**으로 이동 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [CSP 구독 이전 양식](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)을 다운로드합니다.
+- [다중 파트너 지원](multipartner.md)에 대해 알아봅니다.
+- [다중 채널 지원](multichannel.md)에 대해 읽어 보세요.

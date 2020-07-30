@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943820"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365729"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>새 파트너 센터 프로그램에 등록할 때 계정 정보 확인
 
-파트너 센터에서 새 프로그램을 등록하는 경우 Microsoft는 회사 이름, 회사 주소 및 기본 연락처 세부 정보와 같이 사용자가 제공한 계정 등록 정보를 확인합니다. 이 과정에서 Microsoft는 기본 연락처로 이메일을 보내 상태를 알리고 추가 확인 문서를 요청할 수 있습니다.
+**적절한 역할**
+
+- 글로벌 관리자
+- MPN 계정 관리자
+
+파트너 센터에서 새 프로그램에 등록 하는 경우 Microsoft는 회사 이름, 회사 주소 및 기본 연락처 세부 정보와 같이 사용자가 제공한 계정 등록 정보를 확인 합니다. 이 과정에서 Microsoft는 기본 연락처로 이메일을 보내 상태를 알리고 추가 확인 문서를 요청할 수 있습니다.
 
 >[!NOTE]
 >전자 메일을 받도록 하려면 Microsoft.com의 전자 메일을 "안전한" 도메인으로 플래그 지정 하 고 정크 메일 폴더를 확인 하세요.

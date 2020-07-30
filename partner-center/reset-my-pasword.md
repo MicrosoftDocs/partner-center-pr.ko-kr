@@ -9,14 +9,24 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265213"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365699"
 ---
 # <a name="reset-my-password"></a>내 암호 재설정
+
+**적용 대상**
+
+- 파트너 센터
+ 
+**적절한 역할**
+
+- 글로벌 관리자
+- 파트너 센터 사용자
+
 
 파트너 센터 암호를 기억할 수 없는 경우 다시 설정할 수 있습니다.
 
@@ -28,10 +38,14 @@ ms.locfileid: "86265213"
 
 2. **회사 또는 학교 계정**을 선택 합니다.
 
-3. 다음에는 사진 또는 오디오의 사용자 ID와 문자를 입력 하 라는 메시지가 표시 됩니다. **다음**을 선택합니다.
+3. 다음에는 사진 또는 오디오의 사용자 ID와 문자를 입력 하 라는 메시지가 표시 됩니다. 그런 후 **다음**을 선택합니다.
 
 4. 새 암호를 설정 합니다.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>전역 관리자가 회사를 떠난 경우
 
 전역 관리자가 회사를 떠난 경우 또는 다른 역할로 이동 하 고 새 전역 관리자를 추가 해야 하는 경우에는 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/commercial#/)에서 서비스 요청을 기록해 야 합니다. 요청자에서 필수 개인 id 정보를 제공 하 고 회사에 대 한 추가 정보를 제공할 수 있는 경우 지원 에이전트는 전역 관리자에 대 한 사용자의 권한 상승을 요청할 수 있습니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터에 로그인 할 수 없고 암호를 재설정 해야 하는 경우](unable-to-sign-in.md)

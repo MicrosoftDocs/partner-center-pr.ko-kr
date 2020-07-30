@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436512"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365749"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>파트너 센터에 로그인 할 수 없고 암호를 재설정 해야 하는 경우
+
+**적절한 역할**
+
+- 파트너 센터 사용자
 
 암호를 잊어 파트너 센터에 로그인할 수 없는 경우 지원을 요청해야 합니다. [비즈니스 제품에 대한 지원](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_)에서 적절한 전화 번호를 찾습니다. 
 
@@ -24,7 +28,7 @@ ms.locfileid: "86436512"
 
 회사 계정 암호가 다시 설정 되 면 파트너 센터에 액세스할 수 있습니다. 
 
-## <a name="see-more"></a>자세히 보기
+## <a name="next-steps"></a>다음 단계
 
 - [계정 정보 확인](verification-responses.md)
 - [암호 다시 설정하기](reset-my-pasword.md)

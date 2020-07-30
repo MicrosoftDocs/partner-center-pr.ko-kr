@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객 서비스 문제를 Microsoft로 에스컬레이션 하는 것이 적합 한 경우와 그에 대 한 지원 티켓을 파일 하는 방법에 대해 알아보세요.
+description: 고객 서비스 문제를 Microsoft로 에스컬레이션 하는 시기 및 지원 티켓을 제출 하는 방법에 대해 알아봅니다.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecca066e5d637b780a0ede23ffc2cab69ef0afc7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114047"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389142"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -23,7 +23,7 @@ ms.locfileid: "87114047"
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-고객이 해결할 수 없는 서비스 문제가 발생 하 고 [문제를 Microsoft로 에스컬레이션](escalate-problems-to-microsoft.md)에 설명 된 조건을 충족 하는 경우 해당 서비스에 대 한 지원 티켓을 제출 합니다. 이 프로세스는 청구 문제 또는 분쟁를 에스컬레이션 하는 경우와 사기 문제에도 유용 합니다.
+고객이 해결할 수 없는 서비스 문제가 발생 하 고 [문제를 Microsoft로 에스컬레이션](escalate-problems-to-microsoft.md)에 설명 된 조건을 충족 하는 경우 해당 서비스에 대 한 지원 티켓을 파일로 보낼 수 있습니다. 이 프로세스는 청구 문제 또는 분쟁를 에스컬레이션 하는 경우와 사기 문제에도 유용 합니다. 
 
 ## <a name="submit-a-service-request-for-a-customer"></a>고객 서비스 요청을 제출합니다.
 
@@ -32,6 +32,9 @@ ms.locfileid: "87114047"
 2. 고객 요청 페이지에서 원하는 고객을 검색합니다.
 
 3. **새 요청** 드롭다운 메뉴에서 **Azure** 또는 **Office 365, Dynamics 365, Enterprise Mobility Suite**를 선택합니다. Microsoft Azure portal 또는 Office 365 관리 센터로 리디렉션됩니다.
+
+>[!NOTE]
+>ASfP (Advanced Support for Partner) 요금제 이상에 대 한 지원 계약을 유지 하려면 CSP의 거래 Dynamics 365 운영 파트너가 지원 되어야 합니다. 이 지원 계약은 CSP 고객을 대신 하 여 Dynamics 365 인시던트를 제출 하는 데 필요 합니다. 지원 계약 옵션에 [대해 자세히 알아보세요](https://partner.microsoft.com/support/partnersupport) .
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -52,10 +55,10 @@ ms.locfileid: "87114047"
 
 3. 나중에 **관리 지원 요청**을 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토하세요.
 
-해당 고객에 대한 관리자 권한이 없는 경우 고객에 대한 지원 요청을 만들어야 할 수 있습니다. 이는 다음과 같은 두 시나리오 중 하나에 해당할 수 있습니다.
+해당 고객에 대 한 관리자 권한이 없는 경우 고객에 대 한 지원 요청을 만들어야 할 수 있습니다. 이는 다음과 같은 두 시나리오 중 하나에 해당할 수 있습니다.
 
-- 처음 관계를 설정할 때 관리자 권한을 요청하지 않은 경우
-- 고객의 Azure 구독을 관리 하 고 다른 사용자는 관리 권한이 없어도 됩니다.
+- 먼저 관계를 설정할 때 관리자 권한을 요청 하지 않았습니다.
+- 고객의 Azure 구독을 관리 하므로 관리 권한이 없습니다.
  
 이러한 경우 다음 절차에 따라 지원 요청을 만들 수 있습니다. 
 
@@ -70,7 +73,7 @@ ms.locfileid: "87114047"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. **서비스 요청 만들기** 섹션에서 적절 한 지원 항목 범주를 선택 합니다. 추가 항목을 보려면 추가 **...** 를 선택 해야 할 수도 있습니다.    
+1. **서비스 요청 만들기** 섹션에서 적절 한 지원 범주를 선택 합니다. 추가 문서를 보려면 **자세히** ...를 선택 해야 할 수도 있습니다.
 
 2. 서비스 요청 양식을 작성 하 고 **제출**을 선택 합니다.
 
@@ -81,13 +84,13 @@ ms.locfileid: "87114047"
 
 ### <a name="support-for-commercial-marketplace-products"></a>상업용 마켓플레이스 제품에 대한 지원
 
-Microsoft는 상업적 마켓플레이스 제품에 대한 지원을 제공하지 않습니다. 지원을 받으려면 제품을 게시 한 ISV (독립 소프트웨어 공급 업체)에 문의 해야 합니다.
+Microsoft는 상업적 marketplace 제품에 대 한 제품 지원을 제공 하지 않습니다. 지원을 받으려면 제품을 게시 한 ISV (독립 소프트웨어 공급 업체)에 문의 해야 합니다.
 
 ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 1.  **Marketplace** 페이지에서 도움이 필요한 제품을 선택합니다.
 
-2.  제품 페이지에서 지원 연락처 정보를 찾을 수 있습니다. 다음 중 하나 이상이 해당됩니다.
+2.  제품 페이지에서 지원 연락처 정보를 찾을 수 있습니다. 다음 옵션 중 하나 이상이 될 수 있습니다.
 
     - ISV 웹 사이트의 지원 진입점에 대한 링크
     - 지원 이메일
@@ -97,7 +100,7 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 **지원 권리 유형의 일부로 포함되는 사항은 무엇인가요?**
 
-서비스 요청은 파트너 센터를 통해 제공 되며, Azure, Microsoft Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite에서 사용할 수 있습니다. 클라우드 솔루션 공급자 프로그램에 참여하는 파트너는 중요한 문제에 대한 우선 응답 시간을 예측할 수 있습니다.
+서비스 요청은 파트너 센터를 통해 정리 되어야 합니다. Azure, Microsoft Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite에서 사용할 수 있습니다. 클라우드 솔루션 공급자 프로그램에 참여하는 파트너는 중요한 문제에 대한 우선 응답 시간을 예측할 수 있습니다.
 
 자체 파트너 테 넌 트에 대 한 지원은 CSP 지원 혜택의 일부로 포함 되지 않습니다. 그러나 Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite는 파트너 또는 고객에 대 한 별도의 지원 구독 요금을 청구 하지 않습니다. Azure는 요금을 청구 하지만 클라우드 지원 또는 MPN (기타 Microsoft 파트너 네트워크) 혜택을 서명 하는 데 사용할 수 있는 경우 이러한 요금을 지불 하는 데 사용할 수 있습니다.
 
@@ -107,33 +110,38 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 초기 응답 시간은 제출 된 인시던트의 심각도에 따라 달라 집니다. 문제의 심각도는 서비스 요청을 제출할 때 비즈니스에 미치는 영향에 따라 결정 됩니다.
 
-**기술 중단-수정 인시던트에** 대 한 초기 응답 시간은 다음과 같습니다.
+**기술 중단-수정 인시던트에**대 한 초기 응답 시간:
 
 - 심각한 영향 (심각도 A): 2 시간 (심각한 손실 또는 서비스 저하) 프로덕션 서비스의 작동이 중단 되었습니다.)
-- 보통 영향 (심각도 B): 4 시간 (보통 서비스 손실 또는 서비스 저하). 프로덕션 서비스가 부분적으로 영향을 받습니다.
-- 최소 영향 (심각도 C): 8 시간 (최소한의 서비스 손실 또는 서비스 저하). 서비스는 계속 사용할 수 있거나 비프로덕션 서비스가 영향을 받습니다.
+- 보통 영향 (심각도 B): 4 시간 (보통 수준의 손실 또는 서비스 저하)입니다. 프로덕션 서비스가 부분적으로 영향을 받습니다.)
+- 최소 영향 (심각도 C): 8 시간 (최소한의 서비스 손실 또는 서비스 저하)입니다. 서비스를 계속 사용할 수 있거나 프로덕션이 아닌 서비스에 영향을 줍니다.)
 
 초기 응답 시간은 영어를 지 원하는 경우에만 지원 됩니다. 현지 언어 지원은 업무 시간 중에만 제공됩니다.
 지원 권리의 경계 내에 있지만 중단-수정 인시던트에 고려 되지 않는 인시던트의 경우 초기 응답 시간은 영업일 기준으로 최대 1 일이 될 수 있습니다.
 
 **전화를 통해 서비스 요청을 제출할 수 있나요?**
 
-아니요,이 프로그램에 대 한 전화 지원이 제공 되지 않습니다.
+아니요,이 프로그램에는 전화 지원이 제공 되지 않습니다.
 
 **Azure Portal에 로그인하고 파트너 센터를 우회하면 어떻게 되나요?**
 
-Microsoft Azure portal에 직접 로그인 하는 경우 고객의 컨텍스트가 아닌 고유한 컨텍스트에서 중심을 볼 수 있습니다. 따라서 고유한 구독에 대 한 서비스 요청을 만들 때에만 Microsoft Azure portal에 직접 서명 해야 합니다.
+Microsoft Azure portal에 직접 로그인 하는 경우 고객의 컨텍스트가 아닌 고유한 컨텍스트에서 중심을 볼 수 있습니다. 따라서 자신의 구독에 대 한 서비스 요청을 만들 때 Microsoft Azure portal에 직접 서명 해야 합니다.
 
-CSP 프로그램 지원 권리 유형은 고유한 파트너 구독에 대한 지원을 제공하지 않으므로 고유한 파트너 구독과 관련된 서비스 요청을 만드는 경우 유효한 지원 계획 권리 유형을 제공해야 합니다. MPN 계약 ID, 프리미어 또는 Azure 지원 계획을 예로 들 수 있습니다. [Azure 지원 FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)를 참조 하세요.
+CSP 프로그램 지원 자격이 사용자의 파트너 구독에 대 한 지원을 제공 하지 않습니다. 따라서 사용자의 파트너 구독과 관련 된 서비스 요청을 만들 때 유효한 지원 계획 자격을 제공 해야 합니다. MPN 계약 ID, 프리미어 또는 Azure 지원 계획을 예로 들 수 있습니다. 자세한 내용은 [Azure 지원 FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)를 참조 하세요.
 
 **Office 365 관리 센터 포털에 로그인 하 고 파트너 센터를 바이패스 하면 어떻게 되나요?**
 
-Office 365 관리 센터에 직접 로그인 하는 경우 고객의 컨텍스트가 아닌 사용자의 고유한 컨텍스트에서 센터가 표시 됩니다. 따라서 고유한 구독에 대 한 서비스 요청을 만들 때 Office 365 관리 센터에 직접 서명 해야 합니다.
+Office 365 관리 센터에 직접 로그인 하는 경우 고객의 컨텍스트가 아닌 사용자의 고유한 컨텍스트에서 센터가 표시 됩니다. 따라서 자신의 구독에 대 한 서비스 요청을 만들 때 Office 365 관리 센터에 직접 서명 해야 합니다.
 
 **추가적인 Dynamics 365 지원을 받는 방법**
 
-Dynamics 365 계획 구독, 라이선스, 청구, 재무 & 작업, Dynamics 365 제품 라이선스와 관련 된 문제가 발생 하거나 추가 기술 지원이 필요 합니다.
+Dynamics 365 계획 구독, 라이선스, 청구, 재무 & 작업, Dynamics 365 제품 라이선스와 관련 된 문제가 발생 하는 경우, 추가 기술 지원이 필요 합니다.
  
 [Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)에 문의
 
 [Microsoft Dynamics 지원](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur) 읽어 보기
+
+## <a name="next-steps"></a>다음 단계
+
+- [고객에게 지원 제공](customer-support.md)
+- [서비스 상태 검사](check-service-health.md)
