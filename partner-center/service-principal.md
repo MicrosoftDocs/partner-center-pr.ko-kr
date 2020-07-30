@@ -9,14 +9,22 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7d75c5c7311feaa3ca53139f2abf2702035b1069
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436432"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365759"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>파트너 센터에서 Azure AD 애플리케이션(서비스 사용자) 추가
+
+**적용 대상**
+
+- 파트너 센터
+
+**적절한 역할**
+
+- 글로벌 관리자
 
 파트너 센터의 상용 마켓플레이스 프로그램에서 이제 Azure AD 애플리케이션(서비스 사용자)을 파트너 센터 계정의 사용자로 추가할 수 있습니다. (이전에 Cloud 파트너 포털 또는 CPP 계정에서 이 작업을 수행할 수 있었습니다. 파트너 센터로 마이그레이션되었으므로 CPP 계정은 읽기 전용입니다.)
  
@@ -38,3 +46,7 @@ ms.locfileid: "86436432"
    - **앱 ID URI**: Azure AD에 Single Sign-On 요청을 보낼 때 제공되는 Azure AD 애플리케이션의 논리적 식별자입니다.
 
    - **보안 역할**: **관리자** 역할(CPP의 '소유자' 역할과 동일) 및 **개발자** 역할(CPP의 '기여자' 역할과 동일)은 파트너 센터의 상업용 마켓플레이스 프로그램에 적용되며, 이 Azure AD 애플리케이션과 연결될 수 있습니다.  
+
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터의 상업용 Marketplace 개요](csp-commercial-marketplace-overview.md)

@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434122"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943561"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -40,24 +40,24 @@ Microsoft 파트너 계약에서는 다단계 인증을 사용자 계정에 적�
 
 이러한 보안 관행을 준수하지 않는 파트너는 CSP 프로그램에서 거래하거나 대표 관리자 권한을 사용하여 고객 테넌트를 관리하는 기능을 손실할 수 있습니다.
 
-### <a name="does-this-apply-to-all-geographies"></a>모든 지역에 적용되나요?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>보안 요구 사항이 모든 지역에 적용되나요?
 
-예, 모든 지역에 적용됩니다. 소버린 클라우드(21Vianet, 미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 적용하고 채택할 것을 적극 권장합니다. 그러나 이러한 파트너는 8월 1일에 적용되는 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
+예, 보안 요구 사항은 모든 지역에 적용됩니다. 소버린 클라우드(21Vianet, 미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 적용하고 채택할 것을 적극 권장합니다. 그러나 이러한 파트너는 8월 1일에 적용되는 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>계정에 대한 제외를 받을 수 있나요?
 
-아니요, MFA를 적용해야 한다는 요구 사항에서는 어떠한 사용자 계정도 제외할 수 없습니다. 파트너에게 엄청난 권한이 부여되기 때문에 Microsoft 파트너 계약에서는 파트너 테넌트의 각 계정에 대해 다단계 인증을 적용하도록 요구하고 있습니다.
+아니요, MFA를 적용해야 한다는 요구 사항에서는 어떠한 사용자 계정도 제외할 수 없습니다. 파트너에게 높은 권한이 부여되면 Microsoft 파트너 계약에 따라 다단계 인증을 파트너 테넌트의 각 계정에 적용해야 합니다.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>파트너 보안 요구 사항을 충족했는지 확인하려면 어떻게 해야 하나요?
 
 아래 단계를 완료해야 합니다.
 
-- [파트너 보안 요구 사항](https://docs.microsoft.com/partner-center/partner-security-requirements)에서 설명하는 모든 요구 사항을 충족해야 합니다.
+- [파트너 보안 요구 사항](partner-security-requirements.md)에서 설명하는 모든 요구 사항을 충족해야 합니다.
 - 파트너 테넌트의 모든 사용자 계정에 다단계 인증이 적용되어 있는지 확인해야 합니다.
 
 작업을 수행할 수 있는 주요 영역을 식별하는 데 도움이 되도록 파트너 센터를 통해 사용할 수 있는 [보안 요구 사항 상태](https://partner.microsoft.com/pcv/security/compliance) 보고서를 제공합니다.
 
-상태 보고서에 대한 자세한 내용은 [파트너 보안 요구 사항 상태](https://docs.microsoft.com/partner-center/partner-security-compliance)를 참조하세요.
+상태 보고서에 대한 자세한 내용은 [파트너 보안 요구 사항 상태](partner-security-compliance.md)를 참조하세요.
 
 ## <a name="required-actions"></a>필요한 작업
 
@@ -89,7 +89,7 @@ CSP 프로그램의 모든 파트너(직접 청구, 간접 공급자 및 간접 
 
     보안 애플리케이션 모델 프레임워크의 채택과 관련하여 제어판을 사용하는 경우 공급업체에 문의하세요.
 
-    제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](https://docs.microsoft.com/partner-center/enroll-as-cpv)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
+    제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](enroll-as-cpv.md)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
@@ -124,9 +124,9 @@ Microsoft는 Azure AD 보안 기본값 구현을 통해 무료로 MFA를 제공�
 
 직접 청구 클라우드 솔루션 공급자 파트너는 파트너 테넌트의 각 사용자에 대해 MFA를 적용해야 합니다.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>간접 재판매인이며 배포자를 통해서만 거래합니다. 그래도 이 작업을 수행해야 하나요?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>간접 재판매인이며 배포자를 통해서만 거래합니다. 여전히 MFA를 사용하도록 설정해야 하나요?
 
-모든 간접 재판매인은 파트너 테넌트의 각 사용자에 대해 MFA를 적용해야 합니다. 이 작업은 간접 재판매인도 수행해야 합니다.
+모든 간접 재판매인은 파트너 테넌트의 각 사용자에 대해 MFA를 적용해야 합니다. 간접 재판매인은 MFA를 사용하도록 설정해야 합니다.
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>파트너 센터 API를 사용하지 않습니다. 그래도 MFA를 구현해야 하나요?
 
@@ -152,7 +152,7 @@ Azure AD 보안 기본값 기능을 사용하거나, 페더레이션을 활용�
 
 아니요, 고객의 Azure AD 테넌트에 있는 각 사용자에 대해 MFA를 적용할 필요는 없습니다. 그러나 각 고객과 협력하여 사용자를 보호할 최선의 방법을 확인하는 것이 좋습니다.
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>이 요구 사항에서 사용자를 제외할 수 있나요?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>MFA 요구 사항에서 사용자를 제외할 수 있나요?
 
 아니요, 서비스 계정을 포함하여 파트너 테넌트의 각 사용자는 MFA를 사용하여 인증해야 합니다.
 
@@ -162,7 +162,7 @@ Azure AD 보안 기본값 기능을 사용하거나, 페더레이션을 활용�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>응급 액세스(비상) 계정을 구성하려면 어떻게 하나요?
 
-Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 응급 액세스 계정을 만드는 것이 좋습니다. 파트너 보안 요구 사항과 관련하여 각 사용자는 MFA를 사용하여 인증해야 합니다. 즉, 응급 액세스 계정의 정의를 수정해야 합니다. 이는 MFA에 대해 타사 솔루션을 활용하는 계정일 수 있습니다.
+Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 응급 액세스 계정을 만드는 것이 좋습니다. 파트너 보안 요구 사항과 관련하여 각 사용자는 MFA를 사용하여 인증해야 합니다. 이 요구 사항은 응급 액세스 계정의 정의를 수정해야 함을 의미합니다. 이는 MFA에 대해 타사 솔루션을 활용하는 계정일 수 있습니다.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>타사 솔루션을 사용하는 경우 ADFS(Active Directory Federation Service)가 필요한가요?
 
@@ -174,7 +174,7 @@ Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>MFA 요구 사항을 충족하는 데 조건부 액세스를 사용할 수 있나요?
 
-예, 조건부 액세스를 사용하여 서비스 계정을 포함한 파트너 테넌트의 각 사용자에 대해 MFA를 적용할 수 있습니다. 그러나 파트너가 되려면 매우 높은 권한이 필요하다는 가정하에 각 사용자가 인증할 때마다 MFA 챌린지를 수행하도록 해야 합니다. 즉, MFA 요구 사항을 우회하는 조건부 액세스의 기능을 활용할 수 없습니다.
+예, 조건부 액세스를 사용하여 서비스 계정을 포함한 파트너 테넌트의 각 사용자에 대해 MFA를 적용할 수 있습니다. 그러나 파트너가 되려면 매우 높은 권한이 필요하다는 가정하에 각 사용자가 인증할 때마다 MFA 챌린지를 수행하도록 해야 합니다. 즉 MFA 요구 사항을 우회하는 조건부 액세스 기능을 활용할 수 없습니다.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Azure AD Connect에서 사용하는 서비스 계정은 파트너 보안 요구 사항의 영향을 받나요?
 
@@ -203,11 +203,11 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 제어판을 사용하는 경우 보안 애플리케이션 모델 프레임워크 채택과 관련하여 공급업체에 문의해야 합니다.
 
-제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](https://docs.microsoft.com/partner-center/enroll-as-cpv)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
+제어판 공급업체는 파트너 센터에 제어판 공급업체로 [온보딩](enroll-as-cpv.md)하고 이 요구 사항 구현을 즉시 시작해야 합니다. [파트너 센터: 보안 애플리케이션 모델 프레임워크](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 제어판 공급업체는 자격 증명 대신 CSP 파트너의 동의를 수락하고 관리해야 하며 기존 CSP 파트너의 자격 증명을 모두 제거해야 합니다.
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>파트너 센터 API/SDK에 대해서만 보안 애플리케이션 모델을 구현해야 하나요?
 
-다단계 인증을 모든 사용자 계정에 적용하면 비대화형으로 실행되도록 설계된 자동화 또는 통합에 영향을 미칩니다. 파트너 보안 요구 사항에 따라 파트너 센터 API에 대한 보안 애플리케이션 모델을 사용해야 하지만 자동화 및 통합으로 두 번째 인증 요소를 해결하는 데 활용할 수 있습니다. 
+다단계 인증을 모든 사용자 계정에 적용하면 비대화형으로 실행되도록 설계된 자동화 또는 통합에 영향을 미칩니다. 파트너 보안 요구 사항에 따라 보안 애플리케이션 모델을 파트너 센터 API에 사용하도록 설정해야 하지만, 이 API는 자동화 및 통합을 통해 두 번째 인증 요소에 대한 요구를 처리하는 데 활용할 수 있습니다.
 
 >[!Note] 
 >액세스되는 리소스는 액세스 토큰 기반 인증을 지원해야 합니다.
@@ -221,7 +221,7 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>동의 프로세스를 수행할 때 애플리케이션 관리자가 제공해야 하는 사용자 자격 증명은 무엇인가요?
 
-최소 사용 권한이 할당된 서비스 계정을 사용하는 것이 좋습니다. 즉, 파트너 센터 API와 관련하여 영업 담당자 또는 관리 담당자 역할에 할당된 계정을 사용해야 합니다.
+최소 사용 권한이 할당된 서비스 계정을 사용하는 것이 좋습니다. 파트너 센터 API와 관련하여 영업 담당자 또는 관리 담당자 역할에 할당된 계정을 사용해야 합니다.
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>애플리케이션 관리자가 동의 프로세스를 수행할 때 전역 관리 사용자 자격 증명을 제공하면 안 되는 이유는 무엇인가요?
 
@@ -237,17 +237,20 @@ CPV(제어판 공급업체) 솔루션을 사용하여 CSP(클라우드 솔루션
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>CPV입니다. 등록하려면 어떻게 해야 하나요?
 
-CPV(제어판 공급업체)로 등록하려면 [여기](https://docs.microsoft.com/partner-center/enroll-as-cpv)에 제공된 지침을 따르세요.
+CPV(제어판 공급업체)로 등록하려면 [여기](enroll-as-cpv.md)에 제공된 지침을 따르세요.
 
 CPV는 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com)에 연결하여 등록 링크를 받고, CPV와 비즈니스 관계가 있거나 해당 비즈니스에 대해 알고 있는 Microsoft 직원 스폰서를 제공해야 합니다. 예를 들어 PDM(파트너 개발 관리자)이 있습니다.
 
 파트너 센터에 등록하고 애플리케이션을 등록하면 파트너 센터 API에 액세스할 수 있습니다. 새 CPV인 경우 파트너 센터 알림을 통해 샌드박스 정보를 받게 됩니다. Microsoft CPV로 등록을 완료하고 CPV 계약을 수락했으면 다음을 수행할 수 있습니다.
 
-1. 다중 테넌트 애플리케이션을 관리(Azure Portal에 애플리케이션 추가, 파트너 센터에서 애플리케이션 등록 및 등록 취소)합니다. 
-     >[!Note] 
-     >CPV는 파트너 센터 API에 대한 권한을 얻으려면 파트너 센터에 애플리케이션을 등록해야 합니다. Azure Portal에 애플리케이션을 추가하는 것만으로는 파트너 센터 API에 대한 권한이 CPV 애플리케이션에 부여되지 않습니다.
-2. CPV 프로필을 보고 관리합니다.
-3. CPV 기능에 액세스해야 하는 사용자를 보고 관리합니다. CPV는 글로벌 관리자 역할만 보유할 수 있습니다.
+1. 다중 테넌트 애플리케이션을 관리합니다(Azure Portal에 애플리케이션 추가, 파트너 센터에서 애플리케이션 등록 및 등록 취소).
+
+   >[!Note]
+   >CPV는 파트너 센터 API에 대한 권한을 얻으려면 파트너 센터에 애플리케이션을 등록해야 합니다. Azure Portal에 애플리케이션을 추가하는 것만으로는 파트너 센터 API에 대한 권한이 CPV 애플리케이션에 부여되지 않습니다.
+
+1. CPV 프로필을 보고 관리합니다.
+
+1. CPV 기능에 액세스해야 하는 사용자를 보고 관리합니다. CPV는 전역 관리자 역할만 수행할 수 있습니다.
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>파트너 센터 SDK를 사용하고 있습니다. SDK에서 보안 애플리케이션 모델을 자동으로 채택하나요?
 
@@ -255,11 +258,11 @@ CPV는 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com)에 연결하여 등
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>MFA를 사용하도록 설정되지 않은 계정을 사용하여 보안 애플리케이션 모델에 대한 새로 고침 토큰을 생성할 수 있나요?
 
-예, MFA가 적용되지 않은 계정을 사용하여 새로 고침 토큰을 생성할 수 있습니다. 그러나 MFA를 사용하지 않는 계정으로 생성된 토큰은 MFA에 대한 요구 사항으로 인해 리소스에 액세스할 수 없으므로 이렇게 해서는 안 됩니다.
+예, MFA가 적용되지 않은 계정을 사용하여 새로 고침 토큰을 생성할 수 있습니다. 그러나 이 문제는 방지해야 합니다. MFA를 사용하지 않도록 설정된 계정을 사용하여 생성된 토큰은 MFA 요구 사항으로 인해 리소스에 액세스할 수 없습니다.
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>MFA를 사용하는 경우 애플리케이션에서 액세스 토큰을 가져오려면 어떻게 해야 하나요?
 
-새 보안 요구 사항을 준수하면서 이 작업을 수행하는 방법에 대한 정보를 제공하는 [Secure Application Model guide](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)(보안 애플리케이션 모델 가이드)를 따라야 합니다. .NET 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)에서 확인하고 Java 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)에서 확인할 수 있습니다.
+새 보안 요구 사항을 준수하면서 이 작업을 수행하는 방법에 대한 자세한 정보를 제공하는 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 따라야 합니다. .NET 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)에서 확인하고 Java 샘플 코드는 [여기](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)에서 확인할 수 있습니다.
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>CPV로서 CPV 테넌트 또는 CSP 파트너의 테넌트에 Azure AD 애플리케이션을 만들어야 하나요?
 
@@ -315,7 +318,7 @@ Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본
 
 ### <a name="how-to-get-started"></a>시작하는 방법
 
-- [파트너 보안 요구 사항: 단계별 가이드](https://docs.microsoft.com/partner-center/partner-security-requirements)를 참조합니다.
+- [파트너 보안 요구 사항: 단계별 가이드](partner-security-requirements.md)를 참조합니다.
 - 질문과 피드백을 이 [Partner Center Security Guidance Group](https://aka.ms/MPCSecurityGuidance)(파트너 센터 보안 지침 그룹)으로 보냅니다.
 - 예정된 파트너 업무 시간 및 웨비나에 참여합니다. [여기서 자세한 일정 및 리소스를 확인](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)하세요.
 
@@ -340,9 +343,8 @@ Azure Active Directory에 대한 기술 제품 지원 옵션은 MPN 혜택을 �
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>파트너 센터에 대한 액세스 권한이 손실된 경우 지원 담당자에게 어떻게 연락해야 하나요?
 
-[Microsoft 파트너 지원](https://partner.microsoft.com/support)으로 이동한 다음, **모든 지원 옵션 표시**를 선택합니다. 그러면 Microsoft 파트너 지원에 연락할 수 있는 옵션이 표시될 것입니다. 여기에는 지원을 요청하는 전화 번호 및 고객 지원 팀과 채팅하는 옵션이 포함됩니다. 
+[Microsoft 파트너 지원](https://partner.microsoft.com/support)으로 이동한 다음, **모든 지원 옵션 표시**를 선택합니다. Microsoft 파트너 지원에 문의하는 데 사용할 수 있는 옵션이 표시됩니다(지원을 호출하기 위한 전화 번호 및 지원과 채팅할 수 있는 옵션 포함).
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>일반적인 기술 문제에 대한 자세한 내용은 어디에서 확인할 수 있나요?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>일반적인 기술 문제에 대한 자세한 내용은 어디서 확인할 수 있나요?
 
-일반적인 기술 문제에 대한 정보는 [여기](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)에서 확인할 수 있습니다.
-
+일반적인 기술 문제에 대한 정보는 [파트너 센터 또는 파트너 센터 API를 사용하는 파트너에 대한 파트너 보안 요구 사항](partner-security-requirements.md)에서 확인할 수 있습니다.

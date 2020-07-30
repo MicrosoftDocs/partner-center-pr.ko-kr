@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack 구독을 구매하고 Action Pack 혜택을 사용하는 방법을 알아보세요. 또한 청구서를 갱신, 취소, 보는 방법도 알아보세요.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436802"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114692"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버 및 골드 역량 구입 또는 갱신
 
@@ -32,7 +32,7 @@ ms.locfileid: "86436802"
 - 관리 에이전트
 - 영업 상담원
 
-이제 파트너 센터 [대시보드](https://docs.microsoft.com/partner-center/)에서 Microsoft 파트너 네트워크(MPN)의 구성원이 혜택 제품을 구매하거나 갱신할 수 있습니다. 이러한 제품에는 Microsoft Action Pack 구독과 실버 및 골드 역량이 포함됩니다.
+이제 Microsoft 파트너 네트워크(MPN.md)의 멤버는 파트너 센터 [대시보드]()에서 혜택 제품을 구입하거나 갱신할 수 있습니다. 이러한 제품에는 Microsoft Action Pack 구독과 실버 및 골드 역량이 포함됩니다.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>처음으로 Microsoft Action Pack 구입
 

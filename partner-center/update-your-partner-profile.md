@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286581"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365719"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>파트너 센터에서 파트너 프로필 정보 확인
+
+**적절한 역할**
+
+- 글로벌 관리자
+- MPN 계정 관리자
 
 처음으로 파트너 센터에 글로벌 관리자 권한으로 로그인할 때 모든 회사 정보가 올바른지 확인해야 합니다. 여기에는 기본 연락처, 법적 회사명 및 주소, 프로그램 정보가 포함됩니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다.
 
@@ -56,5 +61,7 @@ Partner Membership Center에서 파트너 센터로 마이그레이션하는 동
 전역 관리자, 청구 관리자 또는 관리 담당자일 경우 **청구 프로필**에서 청구서에 표시되는 주소를 변경할 수 있습니다. 그러나 청구서 시스템의 제한으로 인해 청구서의 회사 이름을 변경할 수는 없습니다.
 
  
+## <a name="next-steps"></a>다음 단계
 
+- [위치 관리](manage-locations.md)
 

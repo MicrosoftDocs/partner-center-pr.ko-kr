@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265238"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365779"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
 **적용 대상**
 
 - 파트너 센터
+ 
+**적절한 역할**
+
+- 글로벌 관리자
+- MPN 계정 관리자
 
 등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 센터에서 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
 
@@ -94,7 +99,7 @@ ms.locfileid: "86265238"
 
 - [상업용 Marketplace 프로그램](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [MPN 프로그램](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [CSP 프로그램](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP 프로그램](enrolling-in-the-csp-program.md)
 - [Office 스토어](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 파트너 센터 프로그램에 등록하는 방법에 대한 자세한 내용은 [파트너 네트워크 리소스](https://partner.microsoft.com/)를 참조하세요.

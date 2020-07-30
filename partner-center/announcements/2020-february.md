@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749140"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944440"
 ---
 # <a name="february-2020-announcements"></a>2020년 2월 공지
 
@@ -70,7 +70,7 @@ _________________
 
 이제 파트너는 인증된 Microsoft 포털(Microsoft 365 관리 센터)에서 직접 Microsoft 고객 계약을 검토하고 동의하도록 신규 고객과 기존 고객을 모두 초대할 수 있습니다.
 
-즉, 고객에게 Microsoft 고객 계약을 제시할 때 다음과 같은 [두 가지 옵션이 이제 파트너](https://docs.microsoft.com/partner-center/confirm-customer-agreement)에게 제공됩니다.
+즉, 고객에게 Microsoft 고객 계약을 제시할 때 다음과 같은 [두 가지 옵션이 이제 파트너](../confirm-customer-agreement.md)에게 제공됩니다.
 
 - **옵션 1:** 파트너는 새로운 Microsoft 고객 계약을 기존 Microsoft 클라우드 계약에 사용했던 것과 동일한 방식으로 고객에게 제공할 수 있습니다. 고객이 계약을 검토하고 동의한 후 파트너는 Microsoft에 고객의 동의를 증명해야 합니다. 이 방식으로 Microsoft 고객 계약의 고객 동의를 확인하는 파트너를 지원하기 위해 파트너 센터 대시보드, 파트너 센터 API 및 .NET SDK가 업데이트되었습니다.
 - **옵션 2(새로운 기능):** 파트너는 계약을 보고 서명하도록 인증된 Microsoft 포털(Microsoft 365 관리 센터)로 고객을 초대할 수 있습니다. 이 옵션을 사용하면 고객이 Microsoft 365 관리 센터 내에서 직접 동의한 후 조건 승인이 확인되므로 파트너가 계약 관리를 간소화하고 더 빠르게 구현하며 작업을 줄일 수 있습니다.
@@ -130,7 +130,7 @@ _________________
 
 제품: Microsoft 365 전화 시스템 - 가상 사용자 평가판 제품 ID: `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-다음 제품은 사용할 수 있긴 하나 제품 목록 매트릭스에 없습니다. 제품 매트릭스 세부 정보는 2020년 1월 제품 목록 매트릭스를 참조하세요.
+이러한 제품은 사용할 수 있지만 제품 목록 매트릭스에는 없습니다. 제품 매트릭스에 대한 자세한 내용은 이전의 2020년 1월 제품 목록 매트릭스를 참조하세요.
 
 제품: Pro Direct Support for Dynamics 365 Unified Operations 제품 ID: `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -159,7 +159,7 @@ _________________
 - 날짜: 2020-02-12
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-audiences"></a>대상
 
@@ -175,11 +175,11 @@ Microsoft 시스템에 의하면, 귀사에서는 현재 기준 정책을 사용
 
 ### <a name="key-considerations"></a>주요 고려 사항
 
-보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 아래에서 [Azure AD를 사용하여 조직에 대해 MFA를 사용하도록 설정하는 방법](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)과 주요 고려 사항을 검토하세요.
+보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](../partner-security-requirements.md#actions-that-you-need-to-take) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 아래에서 [Azure AD를 사용하여 조직에 대해 MFA를 사용하도록 설정하는 방법](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)과 주요 고려 사항을 검토하세요.
 
 - [조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 보안 기본값을 사용할 수 없습니다.
-- 보안 기본값은 관리자 정책을 위한 필수 MFA, 최종 사용자 보호 정책, 서비스 관리를 위한 필수 MFA를 비롯한 모든 정책은 한 번에 시행합니다.
-- 현재 파트너에 대한 레거시 인증 차단은 적용되지 않습니다. 그러나 신원 도용과 관련된 대부분의 이벤트가 레거시 인증을 사용하는 로그인 시도에서 발생하므로 파트너는 이러한 이전 프로토콜에서 이전하는 것이 좋습니다.
+- 보안 기본값은 관리자 정책, 최종 사용자 보호 정책 및 서비스 관리에 필요한 MFA를 포함하여 모든 정책을 한 번에 적용합니다.
+- 현재 파트너에 대한 레거시 인증 차단은 적용되지 않습니다. 그러나 손상된 ID와 관련된 대부분의 이벤트가 레거시 인증을 사용하는 로그인 시도에서 발생하므로 파트너는 이러한 이전 프로토콜에서 이동하는 것이 좋습니다.
 - 보안 기본값은 자동으로 Azure AD Connect 동기화 계정을 제외합니다.
 - 보안 기본값은 미리 보기 [기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)의 일반 공급 대체 기능입니다. 파트너가 보안 기본값을 사용하도록 설정한 후에는 더 이상 기준 정책을 사용하도록 설정할 수 없습니다.
 
@@ -216,7 +216,7 @@ _________________
 - 날짜: 2020-02-05
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
 
 ### <a name="summary"></a>요약:
 
@@ -260,7 +260,7 @@ _________________
 - 날짜: 2020-02-04
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상:
 
@@ -288,7 +288,7 @@ Azure 플랜 소비 미터 및 예약을 거래하고 재판매하며 Microsoft 
 
 - [개발자 설명서](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/) 검토
 - [새 API](https://docs.microsoft.com/partner/develop/pricing)를 사용하여 자동화된 프로세스 구현
-- 가격 관련 질문은 [Azure 플랜 가격 책정 설명서](https://docs.microsoft.com/partner-center/azure-plan-price-list)를 참조하세요.
+- 가격 관련 질문은 [Azure 플랜 가격 책정 설명서](../azure-plan-price-list.md)를 참조하세요.
 - [Azure 플랜 및 CSP의 새로운 상거래 환경에 대해 자세히 알아보기](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>로그 변경
@@ -324,7 +324,7 @@ _________________
 
 ### <a name="additional-resources"></a>추가 리소스:
 
-- [파트너 센터에서 지원 요청을 만드는 방법](https://docs.microsoft.com/partner-center/report-problems-with-partner-center)에 대한 자세한 내용을 확인할 수 있습니다.
+- [파트너 센터에서 지원 요청을 만드는 방법](../report-problems-with-partner-center.md)에 대한 자세한 내용을 확인할 수 있습니다.
 
 ### <a name="change-log"></a>로그 변경
 
@@ -339,7 +339,7 @@ _________________
 - 날짜: 2020-02-04
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://www.microsoft.com/licensing/docs/customeragreement)
+- [자세한 정보](https://www.microsoft.com/licensing/docs/customeragreement)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상:
 
@@ -357,8 +357,8 @@ CSP(클라우드 솔루션 공급자) 프로그램의 새로운 [Microsoft 고�
 
 ### <a name="next-steps"></a>다음 단계
 
-- 파트너 센터 [웹 사용자 인터페이스 또는 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement)를 사용하여 고객의 동의 확인.
-- 기존 Microsoft 클라우드 계약을 위한 API를 사용하는 파트너는 [업데이트된 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement)를 사용하여 기존 구현을 수정해야 합니다.
+- 파트너 센터 [웹 사용자 인터페이스 또는 API](../confirm-customer-agreement.md)를 사용하여 고객의 동의 확인.
+- 기존 Microsoft 클라우드 계약을 위한 API를 사용하는 파트너는 [업데이트된 API](../confirm-customer-agreement.md)를 사용하여 기존 구현을 수정해야 합니다.
 - 에이전트 및 재판매인들을 대상으로 [새 계약 조건의 내용](https://www.microsoft.com/licensing/docs/customeragreement), 새 계약을 안내하는 방법 및 고객 동의를 확인하는 방법을 교육하세요.
 
 >[!NOTE] 

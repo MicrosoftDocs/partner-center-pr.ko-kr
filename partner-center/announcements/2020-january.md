@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286611"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944010"
 ---
 # <a name="january-2020-announcements"></a>2020년 1월 공지
 
@@ -53,7 +53,7 @@ Azure 하이브리드 혜택을 포함하는 Azure 예약 및 이 서버 구독�
 ### <a name="additional-resources"></a>추가 리소스
 
 - 파트너 갤러리 페이지의 CSP 프로그램 리소스: [러시아의 CSP 파트너에게 Windows Server 및 SQL Server 구독이 제공됨](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [파트너 센터에 대해 자세히 알아보기](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [파트너 센터에 대해 자세히 알아보기](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -61,7 +61,7 @@ Azure 하이브리드 혜택을 포함하는 Azure 예약 및 이 서버 구독�
 
 ### <a name="questions"></a>질문이 있으세요?
 
-- 질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+- 질문, 쿼리 또는 자세한 내용은 [지원에 문의](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)하세요.
 
 _________________
 
@@ -102,7 +102,7 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1(GCC High)
 
 ### <a name="next-steps"></a>다음 단계
 
-가격표를 숙지하고 이 정보를 조직 내의 모든 해당 담당자(특히 영업 팀)와 공유하세요.
+가격표를 숙지하고, 이 정보를 조직 내의 모든 해당 담당자(특히 영업 팀)와 공유하세요.
 
 ### <a name="questions"></a>질문이 있으세요?
 
@@ -131,23 +131,23 @@ FY20 3분기 후반에는 여러 추가 국가의 상용 고객에게 Power Plat
 
 고객이 셀프 서비스 구매를 옵트아웃하려는 경우 PowerShell 구현에 대한 지침을 비롯하여 셀프 서비스 구매에 대한 자세한 내용을 알아보려면 리소스 갤러리의 모든 리소스(아래 추가 리소스 참조)를 검토하세요.
 
-IT 관리자가 제품 단위로 셀프 서비스 구매 기능을 제어(설정 또는 해제)하는 기능을 활성화하는 **PowerShell** 스크립트를 **이제 사용할 수 있습니다**. 기술 문서는 아래의 추가 리소스 섹션을 참조하세요.
+IT 관리자가 제품 단위로 셀프 서비스 구매 기능을 제어(설정 또는 해제)하는 기능을 활성화하는 **PowerShell** 스크립트를 **이제 사용할 수 있습니다**. 기술 설명서는 아래의 [추가 리소스] 섹션을 참조하세요.
 
 업데이트: 지난 한 주간 Power Platform 제품의 셀프 서비스 구매 기능 출시와 관련하여 피드백을 받았습니다. 피드백을 제공해 주신 모든 분께 감사드립니다. 피드백에 따라 조직 내 IT 관리자와 최종 사용자의 요구를 보다 잘 해결하도록 방법을 조정했습니다. 플랜을 다음과 같이 변경하고 있습니다.
 
 - 11월 19일에는 PowerShell을 통해 제품 단위로 셀프 서비스 구매를 해제하는 방법을 IT 관리자에게 제공합니다. 자세한 내용은 곧 제공될 예정입니다.
-- 이러한 변경에 대비하는 시간을 더 많이 제공하고자 모든 상용 클라우드 고객을 위해 1월 14일 Power BI에서 시작하여 Power Platform 제품의 셀프 서비스 구매 기능 출시를 업데이트하고 있습니다. PowerApps 및 Power Automate에 대한 자세한 내용은 곧 제공될 예정입니다.
+- 이러한 변경에 대비하는 시간을 더 많이 제공하고자 모든 상용 클라우드 고객을 위해 1월 14일 Power BI에서 시작하여 Power Platform 제품의 셀프 서비스 구매 기능 출시를 업데이트하고 있습니다. Power Apps 및 Power Automate에 대한 자세한 내용은 곧 제공될 예정입니다.
 
 시간을 내어 피드백을 제공해 주신 점 다시 한번 감사드립니다. 지속적인 파트너 관계를 통해 조직이 더 많은 성과를 달성하는 데 도움이 되도록 노력하겠습니다.
 
 업계가 디지털 트랜스포메이션에 열중하면서 맞춤형 SaaS(Software as a Service) 솔루션을 스스로 채택하고 구매하는 최종 사용자와 사업부가 증가하고 있습니다. Microsoft는 사용자가 라이선스를 한 개부터 여러 개까지 구매하여 부서, 팀 또는 기업 전체에서 보다 유연하고 자유롭게 자체 솔루션을 만들 수 있도록 하는 셀프 서비스 구매를 도입합니다.
 
-Microsoft Power Platform 제품(Power BI, PowerApps, Power Automate)의 단계별 출시를 따르고 있습니다.
+Microsoft Power Platform 제품(Power BI, Power Apps, Power Automate)에 대한 단계별 출시를 따르고 있습니다.
 
 - 셀프 서비스를 통한 가용성은 **1월 14일 Power BI**에서 시작합니다.
 - 출시는 미국 고객에서 시작되어 다른 지역으로 확장됩니다.
 - 이 기능은 현재 정부, 비영리 또는 교육 고객용으로 제공되지 않습니다.
-- PowerApps 및 Power Automate에 대한 자세한 내용은 곧 제공될 예정입니다.
+- Power Apps 및 Power Automate에 대한 자세한 내용은 곧 제공될 예정입니다.
 
 파트너는 Azure 및 Power Platform을 포함하는 솔루션을 구축하여 셀프 서비스 구매의 이점을 활용할 수 있습니다. 관리 액세스 권한이 있는 파트너는 Microsoft 365 관리 센터에서 개별 Power Platform 구매를 확인하고 클라우드 솔루션의 판매 잠재 고객으로 처리할 수 있습니다. 예를 들어 Power BI를 채택하는 작업 그룹을 확인한 파트너는 Azure SQL 데이터베이스나 다른 애플리케이션에서 데이터를 가져오는 정교한 Power BI 대시보드를 작성하여 판매할 수 있습니다. 셀프 서비스 구매 채택이 조직 내에서 널리 확산되면서 파트너는 광범위한 Power Platform 범위를 중앙 IT에 판매할 수도 있습니다.
 
@@ -229,7 +229,7 @@ Microsoft 고객 계약은 고객의 구매 방법과 관계없이 일관된 구
 
 - 2020년 1월 31일 이전에 새 Microsoft 고객 계약 동의를 확인하세요.
 - 에이전트 및 재판매인들을 대상으로 새 계약 조건의 내용, 새 계약을 안내하는 방법 및 고객 동의를 확인하는 방법을 교육하세요. 간접 공급자는 간접 재판매인과 협력하여 고객의 동의를 확인해야 합니다.
-- API를 사용하고 있는 직접 청구 및 간접 공급자는 [업데이트된 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement)를 사용하여 새 Microsoft 고객 계약을 수용하기 위해 기존 구현을 업데이트해야 합니다.
+- API를 사용하고 있는 직접 청구 및 간접 공급자는 [업데이트된 API](../confirm-customer-agreement.md)를 사용하여 새 Microsoft 고객 계약을 수용하기 위해 기존 구현을 업데이트해야 합니다.
 - 직접 청구 및 간접 공급자는 파트너 센터 웹 UI를 사용하여 고객 동의를 확인할 수도 있습니다.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>추가 리소스 파트너는 [CSP 갤러리 페이지](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)에서 제공되는 다음과 같은 콘텐츠를 볼 수 있습니다.
@@ -288,7 +288,7 @@ Marketplace 페이지의 Azure 플랜 가격표는 동적이며 지속적으로 
 
 - 제품: 학생을 위한 앱 플랜당 PowerApps 제품 ID: e1f379e8-cf22-4a7d-97fd-dcf9d62fc132
 
-다음 제품은 1월에 가격표에서 잘못 제거되었으나 계속 사용할 수 있습니다. 가격은 12월 가격표를 참조하세요. 다음 달 가격표에 이 제품이 다시 추가될 예정입니다.
+이러한 제품은 1월 가격표에서 잘못 제거되었지만 계속 사용할 수 있습니다. 가격 책정에 대한 12월 가격표를 참조하세요. 다음 달 가격표에 이 제품이 다시 추가될 예정입니다.
 
 - 교직원용 Office 365 A1(디바이스) 제품 ID: `0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - 교직원용 Office 365 A1(디바이스) 제품 ID: `bae285a9-d56b-4384-b02f-38adc61a6f12`
@@ -329,7 +329,7 @@ Microsoft는 2020년 1월 2일 오늘 비즈니스 앱 및 Power Platform뿐만 
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-자세한 SKU 정보는 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offers 1-1-20" 파일을 참조하세요.
+자세한 SKU 정보는 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에 있는 "Dynamics CSP 제품 1-1-20" 파일을 참조하세요.
 
 비즈니스 앱 및 Power Platform
 
@@ -337,7 +337,7 @@ Microsoft는 2020년 1월 2일 오늘 비즈니스 앱 및 Power Platform뿐만 
 
 - 기존 PowerApps 앱별 플랜에 대한 학생 제품 소개
 
-자세한 SKU 정보는 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offers 1-1-20" 파일을 참조하세요.
+자세한 SKU 정보는 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에 있는 "Dynamics CSP 제품 1-1-20" 파일을 참조하세요.
 
 2020년 2월 1일에는 다음과 같은 비즈니스 앱 및 Power Platform용 새 제품과 업데이트된 제품이 릴리스됩니다.
 
@@ -369,9 +369,9 @@ Customer Insights 라이선스 업데이트
 
 보류 중인 SKU 정보
 
-Microsoft는 2020년 2월 1일에 다른 채널과 지역에서 사용되는 기존 Dynamics 365 및 Power Platform 제품의 이름과 부합하도록 일부 제품군 및 제품의 이름을 변경합니다.
+2020년 2월 1일 Microsoft는 기존 Dynamics 365 및 Power Platform 제품의 이름을 다른 채널과 지역에서 사용되는 이름에 맞추기 위해 일부 제품군 및 제품의 이름을 변경합니다.
 
-구체적인 변경 사항은 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에서 "Dynamics CSP Offer Name Changes – Feb 2020" 파일을 참조하세요.
+구체적인 변경 내용은 [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)에 있는 "Dynamics CSP 제품 이름 변경 – 2020년 2월" 파일을 참조하세요.
 
 ### <a name="additional-resources"></a>추가 리소스
 
@@ -379,17 +379,17 @@ Microsoft는 2020년 2월 1일에 다른 채널과 지역에서 사용되는 기
 - [혼합 현실 앱 가이드 홈페이지](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [비즈니스 앱 사기 방지 홈페이지](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
 - [Power Platform 제품 홈페이지](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [FY20 PowerApps 및 Flow 라이선싱 업데이트](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [2020년 Power Apps 및 Flow 라이선싱 업데이트](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 라이선싱](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>다음 단계
 
-- 이 정보를 조직 내의 해당 담당자와 공유하세요.
+- 이 정보를 조직 내의 해당 담당자와 공유합니다.
 - 라이선싱 업데이트 및 가치 제안에 대해 자세히 알아보려면 추가 리소스 섹션 및 PartnerSource의 준비 상태 콘텐츠를 숙지하세요.
 
 ### <a name="questions"></a>질문이 있으세요?
 
-- Microsoft에 대한 작업과 관련하여 질문이 있는 경우 [고객 지원에 문의하세요](https://partner.microsoft.com/pcv/servicerequests/create).
+- Microsoft 작업과 관련된 질문이 있는 경우 [지원에 문의](https://partner.microsoft.com/pcv/servicerequests/create)하세요.
 
 ### <a name="change-log"></a>로그 변경
 

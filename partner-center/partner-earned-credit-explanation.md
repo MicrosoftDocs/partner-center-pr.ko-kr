@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436742"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943620"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
@@ -48,15 +48,17 @@ ms.locfileid: "86436742"
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
- 비용 분석을 사용하는 ACM(Azure Cost Management)을 통해 파트너는 PEC의 혜택을 받은 비용을 확인할 수 있습니다.  
+비용 분석을 사용하는 ACM(Azure Cost Management)을 통해 파트너는 PEC의 혜택을 받은 비용을 확인할 수 있습니다.  
 
-1. Azure Portal에서 파트너 테넌트에 로그인하고, **Cost Management + 청구**를 선택합니다.
-2.  **Cost Management**를 선택합니다.
-3.  **비용 분석**을 선택합니다.
+1. [Azure Portal](https://portal.azure.com)에서 파트너 테넌트에 로그인하고, **Cost Management + 청구**를 선택합니다.
 
-비용 분석 보기에는 Microsoft에 지불하는 가격으로 구입하고 사용하는 모든 서비스에 대한 청구 계정 비용이 표시됩니다.
+2. **Cost Management**를 선택합니다.
 
-4.  피벗 차트의 드롭다운에서 **PartnerEarnedCreditApplied**를 선택하여 PEC가 적용된 비용을 확인합니다. **PartnerEarnedCreditApplied** 속성이 True이면 관련 비용에는 파트너 획득 크레딧의 혜택이 적용됩니다. 
+3. **비용 분석**을 선택합니다.
+
+   비용 분석 보기에는 Microsoft에 지불하는 가격으로 구입하고 사용하는 모든 서비스에 대한 청구 계정 비용이 표시됩니다.
+
+4. 피벗 차트의 드롭다운에서 **PartnerEarnedCreditApplied**를 선택하여 PEC가 적용된 비용을 확인합니다. **PartnerEarnedCreditApplied** 속성이 True이면 관련 비용에는 파트너 획득 크레딧의 혜택이 적용됩니다. 
 
 PartnerEarnedCreditApplied 속성이 False이면 관련 비용이 필요한 크레딧 자격을 충족하지 못하거나 구입한 서비스가 파트너 획득 크레딧에 적합하지 않습니다.
 
