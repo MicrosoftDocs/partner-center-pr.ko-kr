@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949859"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330120"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,7 +22,9 @@ ms.locfileid: "86949859"
 
 | **범주** | **2020년 7월 공지** | **발표** |
 |---------|:---------|:---------|
-|기능|[FY21을 위해 강화된 적격 Microsoft 상업용 Marketplace 제품에 대한 CSP(클라우드 솔루션 공급자) 인센티브](2020-July.md#7)|7월 22일|
+|기능|[파트너 센터 API에 대한 변경 내용](2020-july.md#9)|7월 28일|
+|기능|[.NET Standard v1.16.1-preview의 SDK 릴리스](2020-july.md#8)|7월 21일|
+|기능|[FY21을 위해 강화된 적격 Microsoft 상업용 Marketplace 제품에 대한 CSP(클라우드 솔루션 공급자) 인센티브](2020-july.md#7)|7월 22일|
 |기능|[파트너 센터의 Insights 보고서에 추가된 새로운 기능](2020-july.md#6)|7월 16일|
 |제품/시장|[클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](2020-july.md#5)|7월 15일|
 | 제품/시장 | [팀을 위한 새로운 Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7월 3일 |

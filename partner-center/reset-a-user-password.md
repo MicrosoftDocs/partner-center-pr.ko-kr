@@ -9,18 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9174b8caaed8f49d40b3f599fc3264ebd36bd937
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: bf6c77652b517b6ce6a6a7eba2a6c5675e7080c1
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265223"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365769"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>파트너 센터에서 사용자의 암호 재설정
 
 **적용 대상**
 
 - 파트너 센터
+ 
+**적절한 역할**
+
+- 전역 관리자
 
 > [!NOTE]  
 > Microsoft 클라우드 독일에서 CSP (클라우드 솔루션 공급자) 프로그램에 등록 한 경우 사용자의 암호를 다시 설정 하는 방법에 대 한 자세한 내용은 [Microsoft 클라우드 독일의 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md) 를 참조 하세요.
@@ -37,3 +41,6 @@ ms.locfileid: "86265223"
 
 4. 새 로그인에 대 한 임시 암호와 함께 확인 화면이 표시 됩니다. 이를 복사 하 여 새 사용자에 게 보내야 합니다. 화면을 떠나면 액세스할 수 없습니다. 처음 로그인 할 때 암호를 업데이트 하 라는 메시지가 표시 됩니다.
 
+## <a name="next-steps"></a>다음 단계
+
+- [사용자 추가](create-user-accounts-and-set-permissions.md)
