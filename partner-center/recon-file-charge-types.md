@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444774"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479116"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 다양 한 요금 유형 이해
 
@@ -52,8 +52,7 @@ ms.locfileid: "87444774"
 | 취소 시 비례 배분 수수료 | 취소 시 서비스의 사용 되지 않는 부분에 대해 비례 하는 환불 |
 | 현재 제품에서 다른 곳으로 전환할 때 비례 배분 요금 | 현재 월간 구독에서 연간 구독으로 전환 된 후에 비례 하는 요금이 청구 됩니다. |
 | 새 제품으로 변환할 때 비례 배분 요금 | 월간 구독을 새 연간 구독으로 변환한 후 요금을 지불 합니다. |
-| 구매 시 비례 배분 방식 요금 | 연간 청구를 사용 하는 경우 구독에 대 한 요금 청구 유형입니다. |
-| 구매 요금 | 월간 청구를 사용 하는 경우 구독에 대 한 요금 청구 유형입니다. |
+| 구매 시 비례 배분 방식 요금 | 월별 또는 연간 요금 청구를 모두 사용 하는 경우 구독에 대 한 요금 청구 유형입니다. |
 | 갱신 시 비례 배분 요금 | 구독 갱신 시 요금을 계산 합니다. |
 | 갱신 요금 | 구독 갱신에 대 한 요금 청구 |
 | 활성화 시 비례 배분 요금 | 청구 기간이 끝날 때까지 정품 인증에 대 한 비용을 지불 합니다. |
