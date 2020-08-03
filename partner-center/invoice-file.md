@@ -7,18 +7,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434532"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444952"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>파트너 센터 청구 송장-청구 및 일회성 요금 필드를 읽는 방법을 알아봅니다.
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 청구 관리자
 - 기술 지원팀 상담원
@@ -37,7 +37,7 @@ ms.locfileid: "86434532"
 | 라이선스 기반 요금 | 구매한 사용 기반 라이선스에 대 한 월별 월별 또는 연간 요금으로, 서비스를 미리 청구 합니다. 이 숫자는 라이선스 기반 조정 파일의 **부분합** 열 (열 **T**)에 있는 모든 요금 합계입니다. |
 | 사용량 기반 요금 | Azure 사용량입니다. 여기에는 청구 기간 동안 사용 및 사용 되는 새 서비스 또는 응용 프로그램이 포함 됩니다. 이 수는 사용량 기반 조정 파일의 **PretaxCharges** 열 (열 **Z**)에 있는 모든 요금 합계입니다. |
 | 할인 | 고객이 구독의 일반 가격에서 받는 할인입니다. 이 숫자는 단가 또는 라이선스 당 가격이 아니라 *평평한 양만큼*표시 됩니다. |
-| 크레딧 | 구독에 대 한 변경 내용에 대 한 크레딧 또는 조정 (예: 사용자의 늘어나거나 감소). |
+| 크레딧 | 구독에 대 한 변경 내용에 대 한 크레딧 또는 조정 (예: 라이선스의 늘어나거나 감소). |
 | 소계 | 세금 및 세금-배타 요금 및 크레딧 전 합계 |
 | 세금 | 청구서의 2 페이지에서 시작 하는 **세부 정보** 섹션에서 요약 된 현재 요금에 대 한 총 세금입니다. 이 숫자는 사용 빈도 기반 조정 파일의 **taxationitem.taxamount** 열 (열 **AA**)에 있는 모든 요금 합계와 라이선스 기반 조정 파일의 **세금** 열 (열 **U**)입니다. |
 | 기타 크레딧 | 세금-제외 크레딧입니다. |

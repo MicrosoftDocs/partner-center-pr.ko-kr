@@ -4,27 +4,27 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 이 제품 라이선스 보고서를 확인 하 고 고객을 위해 판매 하거나 관리 하는 사용이 허가 된 (또는 사용자 기반) 클라우드 제품을 사용 하 여 개선 하는 방법에 대해 알아보세요.
+description: 이 제품 라이선스 보고서를 확인 하 고 고객을 위해 판매 하거나 관리 하는 사용이 허가 된 기반 클라우드 제품을 사용 하 여 개선 하는 방법을 알아보세요.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436662"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444837"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드의 제품 라이선스 보고서
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
-제품 라이선스 보고서는 O365, Dynamics, M365, Power BI 등의 사용자 기반 클라우드 제품에 대 한 라이선스 분석을 제공 합니다. 여기에 제공 된 분석은 판매 했거나 고객을 위해 관리 하는 라이선스의 사용량과 관련 됩니다. 제품 라이선스 보고서에서 다음 섹션을 볼 수 있습니다.
+제품 라이선스 보고서는 O365, Dynamics, M365, Power BI 등의 라이선스 기반 클라우드 제품에 대 한 라이선스 분석을 제공 합니다. 여기에 제공 된 분석은 판매 했거나 고객을 위해 관리 하는 라이선스의 사용량과 관련 됩니다. 제품 라이선스 보고서에서 다음 섹션을 볼 수 있습니다.
 
 - 요약
 - 지리적 라이선스 분산
@@ -38,7 +38,7 @@ ms.locfileid: "86436662"
 
 요약 섹션에서는 판매, 배포 및 사용 되는 클라우드 제품 라이선스와 관련 된 Kpi (핵심 성과 지표)의 스냅숏 보기를 제공 합니다. 이를 통해 고객에 게 판매 되는 라이선스에 대 한 활성 사용량을 추적할 수 있습니다.
 
-- 라이선스: 사용자 기반 클라우드 제품 (예: O365, Dynamics, M365, Power BI 등)을 위해 판매 하거나 관리 하는 모든 라이선스의 현재 수입니다. 선택한 날짜 범위에 대 한 이러한 라이선스의 증가율 또는 거부 비율입니다.
+- 라이선스: O365, Dynamics, M365, Power BI 등의 라이선스 기반 클라우드 제품을 위해 판매 하거나 관리 하는 모든 라이선스의 현재 수입니다. 선택한 날짜 범위에 대 한 이러한 라이선스의 증가율 또는 거부 비율입니다.
 
 마이크로 차트는 선택한 날짜 범위 동안 발생 한 라이선스 수의 월 단위 추세를 표시 합니다.
 

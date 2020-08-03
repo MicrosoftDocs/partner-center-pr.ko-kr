@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377777"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444906"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>고객에 게 30 일간의 Microsoft 제품 무료 평가판 제공
 
@@ -23,7 +23,7 @@ ms.locfileid: "86377777"
 - 파트너 센터
 
 **적절한 역할**
--   글로벌 관리자 
+-   전역 관리자 
 -   사용자 관리자
 -   영업 상담원
 
@@ -45,9 +45,9 @@ ms.locfileid: "86377777"
 
 ## <a name="licenses-for-free-trial-offers"></a>무료 평가판 제품에 대 한 라이선스
 
-모든 무료 평가판은 25 개의 라이선스를 제공 합니다. 이 번호는 평가판을 통해 변경할 수 없습니다. 무료 평가판에서 사용자를 추가 하거나 제거할 수 없습니다. 평가판을 유료 구독으로 변환한 후 구독에 라이선스를 더 추가할 수 있습니다.
+모든 무료 평가판은 25 개의 라이선스를 제공 합니다. 이 번호는 평가판을 통해 변경할 수 없습니다. 무료 평가판에서 라이선스를 추가 하거나 제거할 수 없습니다. 평가판을 유료 구독으로 변환한 후 구독에 라이선스를 더 추가할 수 있습니다.
 
-유료 서비스 라이선스가 할당 되는 것과 동일한 방식으로 평가판 라이선스 및 사용자 수를 사용자에 게 할당 해야 합니다.
+유료 서비스 라이선스가 할당 되는 것과 동일한 방식으로 평가판 라이선스를 사용자에 게 할당 해야 합니다.
 
 ## <a name="sign-customers-up-for-trials"></a>평가판을 위해 고객에 게 서명
 
@@ -99,7 +99,7 @@ ms.locfileid: "86377777"
 
 평가판이 만료 된 후 해당 평가판에 로그인을 시도 하는 고객에 게는 만료 메시지가 표시 됩니다. 그러나 데이터는 데이터 보존 표준에 맞게 저장 됩니다. 동일한 서비스 계획을 사용 하 여 새 구독을 구매한 후 새로 활성화 된 구독에서 다시 고객의 정보에 액세스할 수 있습니다.
 
-## <a name="billing"></a>청구
+## <a name="billing"></a>결제
 
 연간 청구 및 무료 평가판은 소 버린 클라우드 및 공용 클라우드에서 동일 합니다. 유일한 차이점은 시작할 때 사용할 수 있는 평가판 Sku입니다.
 
@@ -117,6 +117,6 @@ ms.locfileid: "86377777"
 
 무료 평가판은 성과급에 영향을 주지 않습니다.
 
-## <a name="support"></a>고객 지원팀
+## <a name="support"></a>지원
 
 무료 평가판에 대 한 지원은 파트너 센터를 통해 서비스 요청을 제출 합니다.

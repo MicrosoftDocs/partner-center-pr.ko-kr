@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436712"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444889"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 혜택 보고서
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
@@ -66,7 +66,7 @@ Microsoft 파트너는 최신 기술과 혁신을 사용 하 여 팀의 능력�
 
 이 차트에서는 선택한 날짜 범위 동안 할당 된 구독에 대해 활성화 된 Visual Studio 구독의 월별 추세를 보여 줍니다.
 
-차트 맨 위에 있는 탭을 선택 하 여 혜택으로 부여 된 특정 Visual Studio 구독의 추세를 확인 합니다. 차트의 열은 구독에 사용 된 사용자를 나타냅니다. 꺾은선형 그래프는 구독에 할당 된 전체 사용자를 나타냅니다.
+차트 맨 위에 있는 탭을 선택 하 여 혜택으로 부여 된 특정 Visual Studio 구독의 추세를 확인 합니다. 차트의 열은 구독에 사용 된 라이선스를 나타냅니다. 꺾은선형 그래프는 구독에 할당 된 전체 라이선스를 나타냅니다.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio 구독":::
 

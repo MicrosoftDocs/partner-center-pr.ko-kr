@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943680"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468353"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>CPOR 모델을 통해 고객 연결 만들기 – Microsoft 365 및 Dynamics 365 고객에 사용
 
@@ -30,9 +30,9 @@ ms.locfileid: "86943680"
 
 - 클레임을 만드는 엔터티의 **MPN ID**
 
-- 고객의 **도메인 이름** [이를 찾습니다](find-customer-domain-name.md) .
+- 고객의 **도메인 이름** [이를 찾습니다](find-domain-name.md) .
 
-- 고객의 **디렉터리 id** 또는 **테 넌 트 id** 를 [찾습니다](find-customer-domain-name.md) .
+- 고객의 **디렉터리 id** 또는 **테 넌 트 id** 를 [찾습니다](find-domain-name.md) .
 
 - Business Applications 또는 Microsoft 365와 같은 **솔루션 영역**
 
@@ -66,7 +66,7 @@ ms.locfileid: "86943680"
 
 2. 고객 연결 페이지의 맨 위에서 **+ 고객 연결**을 선택 합니다.
 
-3. 고객과 연결할 파트너 위치의 **MPN id** 를 선택 하 고 고객의 도메인 이름과 디렉터리 id를 추가 합니다. [어디에 있나요?](find-customer-domain-name.md)
+3. 고객과 연결할 파트너 위치의 **MPN ID**를 선택한 다음 고객의 도메인 이름과 디렉터리 ID를 추가합니다. [찾을](find-domain-name.md)
 
 4. **계속**을 선택합니다.
 
@@ -76,24 +76,24 @@ ms.locfileid: "86943680"
    >
    >Business Applications를 선택 하는 경우 **사용량 및/또는 판매 전**또는 **수입 연결**중 하나를 선택한 다음 **계속**을 선택 합니다. 
 
-   >수익 연결을 선택 하는 경우 아래 나열 된 것과 약간 다른 정보를 묻는 메시지가 표시 됩니다.
+   >수익 연결을 선택하는 경우 아래 나열된 것과 약간 다른 정보를 묻는 메시지가 표시됩니다.
 
 6. **고객 연결** 페이지에 적절 한 정보를 입력 하 고 **클레임 만들기**를 선택 합니다.
 
 7. 이 고객 연결과 관련 된 제품을 선택 하 고 **계속**을 선택 합니다.
 
-8. 고객 연락처 정보 및 회사의 연락처 정보를 입력 합니다. 모든 필드는 필수입니다. 
+8. 고객 연락처 정보 및 회사의 연락처 정보 입력을 완료합니다. 모든 필드는 필수입니다. 
 
    >[!NOTE]
    >제품이 Dynamics 365이 고 선택한 제품에이 특정 고객에 대 한 구독이 여러 개 있는 경우 구독 ID도 입력 해야 합니다.
 
-9. 실행 증명 (POE)을 제공 합니다. 이 상자를 상자로 끌거나, 고유한 지원 설명서를 찾아보거나, **템플릿 다운로드**를 선택 하 여 템플릿을 사용할 수 있습니다. 
+9. POE(실행 증명)를 제공합니다. 이를 상자로 끌거나, 고유한 지원 설명서를 찾아보거나, **템플릿 다운로드**를 선택하여 템플릿을 사용할 수 있습니다. 
 
-10. 원하는 경우 주석을 추가 하 고 저장 한 다음 **클레임 제출**을 선택 합니다. 고객 연결에 대 한 승인을 요청 하는 고객에 게 전자 메일을 보냅니다.
+10. 원하는 경우 설명을 추가하여 저장한 다음 **클레임 제출**을 선택합니다. 고객 연결에 대한 승인을 요청하는 고객에게 이메일이 전송됩니다.
 
    >[!NOTE]
    >고객 연결을 제출한 후에는 편집할 수 없습니다.
 
-고객 연결의 상태가 **상태** 필드에 표시 됩니다.
+고객 연결의 상태가 **상태** 필드에 표시됩니다.
 
-**기록** 을 선택 하 여 고객 연결 기록을 봅니다.
+**기록**을 선택하여 고객 연결 기록을 볼 수 있습니다.

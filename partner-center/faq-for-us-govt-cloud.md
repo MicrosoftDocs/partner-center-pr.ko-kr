@@ -8,12 +8,12 @@ description: 미국 정부에 대 한 Microsoft 클라우드 CSP (클라우드 �
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: ea143c49c9dd032910eb3b93b38845c896fcf3dc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943910"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444553"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
 
@@ -51,11 +51,11 @@ Microsoft 정부 클라우드의 CSP 프로그램은 다음 영역에서 CSP 상
 
 -   온 보 딩: 파트너는 CSP 상용에서 별도로 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 등록 해야 합니다.
 
--   제품 가용성: Office 365, Enterprise Mobility + Security 및 Dynamics 365과 같은 Azure Government 및 사용자 기반 서비스를 모두 Microsoft 정부 클라우드의 CSP 프로그램에서 사용할 수 있습니다. 
+-   제품 가용성: Microsoft 정부 클라우드의 CSP 프로그램에서 Office 365, Enterprise Mobility + Security 및 Dynamics 365와 같은 Azure Government 및 라이선스 기반 서비스를 모두 사용할 수 있습니다. 
 
 -   계약: MCRA (Microsoft 클라우드 대리점 계약)는 고유한 정부 용어를 반영 하도록 업데이트 되었습니다.
 
--   파트너 센터 기능: 파트너 센터의 특정 기능을 사용 하도록 설정 하면 미국 정부 기관에서 규정 및 규정 준수 요구 사항을 충족 하는 Microsoft 클라우드 위한 CSP 프로그램이 사용 되지 않습니다. 파트너는 Azure Active Directory (Azure AD) 또는 [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) 대신 사용 하 여 사용자 및 그룹 관리와 관련 된 작업을 수행할 수 있습니다. 다중 채널 및 다중 파트너 시나리오를 지 원하는 관계 요청 기능은 미국 정부에 대 한 Microsoft 클라우드 CSP에서 사용자 기반 서비스를 사용할 수 있는 경우 출시 후에 사용할 수 있습니다.
+-   파트너 센터 기능: 파트너 센터의 특정 기능을 사용 하도록 설정 하면 미국 정부 기관에서 규정 및 규정 준수 요구 사항을 충족 하는 Microsoft 클라우드 위한 CSP 프로그램이 사용 되지 않습니다. 파트너는 Azure Active Directory (Azure AD) 또는 [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) 대신 사용 하 여 사용자 및 그룹 관리와 관련 된 작업을 수행할 수 있습니다. 다중 채널 및 다중 파트너 시나리오를 지 원하는 관계 요청 기능은 기술 기반 서비스를 미국 정부에 대 한 Microsoft 클라우드 CSP에서 사용할 수 있을 때 출시 후에 사용할 수 있습니다.
 
 **아직 CSP 파트너가 아닙니다. CSP 파트너가 되는 방법에 대 한 자세한 정보는 어디서 찾을 수 있나요?**
 

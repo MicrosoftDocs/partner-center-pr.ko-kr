@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944500"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444997"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -333,7 +333,7 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
    1. Azure 구독 (MS MS-AZR-0017P-0145P) 인 경우 더 이상 나열 되지 않습니다.
 
-   2. 사용자 기반 구독 (Office 365, Dynamics, Intune) 인 경우 **일시 중단**됨 상태로 나열 됩니다.
+   2. 라이선스 기반 구독 (Office 365, Dynamics, Intune) 인 경우 **일시 중단**됨 상태로 나열 됩니다.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="구독 일시 중단 됨":::
 
@@ -343,9 +343,9 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 - **여러 전송 요청에서 동일한 구독을 참조할 수 없습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 첫 번째 전송 요청이 취소 될 때까지 동일한 구독을 포함 한 추가 전송 요청을 만들 수 없습니다.
 
-- **사용자 기반 구독에 대 한 추가 기능은 해당 기본 구독과 함께 전송 되어야 합니다.** 전송 요청을 만들 때 하나 이상의 추가 기능이 있는 기존 구독을 선택 하면 해당 추가 기능이 전송 요청에 자동으로 포함 됩니다.
+- **라이선스 기반 구독의 추가 기능은 해당 기본 구독과 함께 전송 되어야 합니다.** 전송 요청을 만들 때 하나 이상의 추가 기능이 있는 기존 구독을 선택 하면 해당 추가 기능이 전송 요청에 자동으로 포함 됩니다.
 
-- **구독에 대 한 사용자 수 변경 내용은 기존 전송 요청에 반영 되지 않습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 구독 (또는 연결 된 addons)의 좌석 수량을 업데이트 하지 않아야 합니다. 이렇게 하면 새 수량이 전송 요청에 반영 되지 않습니다. 간접 공급자가 전송 요청을 수락 하면 결과 구독은 이전 수량을 갖게 됩니다. 간접 공급자로 새 수량을 전송 하려는 경우 기존 전송 요청을 취소 하 고 새 전송 요청을 다시 만들어야 합니다.
+- **구독에 대 한 라이선스 수 변경 내용은 기존 전송 요청에 반영 되지 않습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 구독 (또는 연결 된 addons)의 라이선스 수량을 업데이트 하지 않아야 합니다. 이렇게 하면 새 수량이 전송 요청에 반영 되지 않습니다. 간접 공급자가 전송 요청을 수락 하면 결과 구독은 이전 수량을 갖게 됩니다. 간접 공급자로 새 수량을 전송 하려는 경우 기존 전송 요청을 취소 하 고 새 전송 요청을 다시 만들어야 합니다.
 
 - **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAYG subscription (MS-MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다. 이러한 구독을 전송 하려면 [기존 구독을 취소](create-a-new-subscription.md#suspend-or-cancel-a-subscription) 하 고 간접 공급자를 통해 고객에 대 한 새 제품을 구매 해야 합니다.
 

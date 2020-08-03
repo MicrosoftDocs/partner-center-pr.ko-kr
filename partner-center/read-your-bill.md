@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436632"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444984"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.
 
@@ -25,7 +25,7 @@ ms.locfileid: "86436632"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 청구 관리자
 - 관리 에이전트
 
@@ -88,7 +88,7 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 **요금**: 각 청구 기간에 대 한 청구 통화로 인 한 금액입니다. 
 
-**크레딧**: 크레딧 (예: SLA) 또는 구독에 대 한 변경 내용 조정 (예: 사용자의 늘어나거나 감소). 
+**크레딧**: 크레딧 (예: SLA) 또는 구독에 대 한 변경 내용 조정 (예: 라이선스의 늘어나거나 감소). 
 
 **지불 지침**: 지역을 기준으로 청구서를 지불 하는 방법에 대 한 설명입니다. 지불 시 청구서 번호를 반드시 포함 해야 합니다. 
 

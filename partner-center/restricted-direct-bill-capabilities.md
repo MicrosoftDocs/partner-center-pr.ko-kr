@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113977"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444766"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
 
@@ -43,9 +43,9 @@ ms.locfileid: "87113977"
 
 - Azure 구독
 
-- 사용자 기반 구독
+- 라이선스 기반 구독
 
-- 기존 사용자 기반 구독에 새 추가 기능을 추가 합니다.
+- 기존 라이선스 기반 구독에 새 추가 기능을 추가 합니다.
 
 - 소프트웨어 및 예약 제품 (예: 소프트웨어 구독, 영구 소프트웨어 및 Azure Reserved Virtual Machines 인스턴스)에 대 한 일회성 구매를 수행 합니다.
 
@@ -55,9 +55,9 @@ ms.locfileid: "87113977"
 
 - 기존 구독 일시 중단
 
-- 기존 사용자 기반 구독의 좌석 수 조정
+- 기존 라이선스 기반 구독의 라이선스 수 조정
 
-- 구독에 대 한 기존 추가 기능의 수를 조정 합니다. 
+- 구독에 대 한 기존 추가 기능의 라이선스 수를 조정 합니다. 
  
     >[!Note] 
     >새 구매로 처리 되는 기존 구독에 새 추가 기능을 추가할 수 없습니다.

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435342"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444631"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업 하는 CSP 프로그램 파트너에 대 한 일반적인 청구 시나리오
 
@@ -29,11 +29,11 @@ ms.locfileid: "86435342"
 - 기술 지원팀 상담원
 - 영업 상담원
 
-이러한 항목에서는 새 구독을 추가 하거나, 새 사용자를 추가 하거나, 구독에 대 한 라이선스 수를 조정 하거나, 구독을 취소 한 후 청구서에 표시 되는 것을 설명 합니다. 다른 [파트너 센터 청구 유형](billing-different-types.md)(예: 사용량 기반 및 라이선스 기반 구독)은 다르게 청구 됩니다.
+이러한 항목에서는 새 구독을 추가 하 고, 구독에 대 한 라이선스 수를 조정 하거나, 구독을 취소 한 후 청구서에 표시 되는 것을 설명 합니다. 다른 [파트너 센터 청구 유형](billing-different-types.md)(예: 사용량 기반 및 라이선스 기반 구독)은 다르게 청구 됩니다.
 
 | 청구 유형 | 포함되는 시나리오 |
 | --------------- | ----------------- |
 | [월간 청구](common-billing-scenarios-monthly.md) | 새 구독을 추가 하 고, 라이선스 수량을 변경 하 고, 구독을 일시 중단 합니다. |
 | [연간 요금 청구](common-billing-scenarios-annual.md) | 새 구독 추가, 청구 날짜 전에 라이선스 추가, 라이선스 수량 변경, 구독 일시 중단 및 다시 활성화 |
-| [일회성 청구 및 선택 되풀이 구매](common-billing-scenarios-onetime-recurring.md) | 구독을 구입 하 고, 구독을 추가 하 고, 사용자를 추가 및 제거 합니다. |
+| [일회성 청구 및 선택 되풀이 구매](common-billing-scenarios-onetime-recurring.md) | 구독을 구입 하 고, 구독을 추가 하 고, 라이선스를 추가 및 제거 합니다. |
 | [라이선스 기반 SaaS 구독에 대 한 청구](common-billing-scenarios-saas.md) | 라이선스 기반 SaaS (software as a service) 구독에 대 한 무료 평가판입니다. 사용자 지정 측정기 SaaS 구독 구입 및 취소 |

@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435072"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444938"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업 marketplace 개요
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업용 Marketplace 개요
 
 **적용 대상**
 
@@ -41,7 +41,7 @@ CSP 프로그램의 파트너인 경우 ISV 제품에 대해 수행할 수 있�
 |:------------------------------------|:------------------|
 |사용 가능한 제품, 가격 책정, 제품 세부 정보 또는 게시자 연락처 정보를 보거나 검색 하는 방법에 대해 알아봅니다. | [제안 검색](csp-commercial-marketplace-discover.md) | 
 |제품을 구매 하 고 배포 하는 방법을 알아봅니다.   | [제품 구매](csp-commercial-marketplace-purchase.md)   | 
-|구독을 취소 하거나 갱신 하거나 사용자를 추가 또는 제거 하는 방법을 알아봅니다.  | [제품 관리](csp-commercial-marketplace-manage.md) |
+|구독을 취소 하거나 갱신 하거나 라이선스를 추가 또는 제거 하는 방법을 알아봅니다.  | [제품 관리](csp-commercial-marketplace-manage.md) |
 |상업적 marketplace 구매 요금 청구 방식에 대해 알아보기 | [청구 이해](csp-commercial-marketplace-billing.md) |
 |ISV 구매에 대 한 지원 유형을 담당 하는 사용자에 대해 알아보기 | [지원 이해](csp-commercial-marketplace-support.md) |
 |상업적 marketplace에서 CSP 파트너 및 Isv의 계약 및 책임에 대해 알아봅니다. | [계약 이해](csp-commercial-marketplace-contracting.md) |
@@ -73,7 +73,7 @@ CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner
 |사용 가능한 제품을 검색 하거나 검색 하려면  | 파트너 센터 대시보드 또는 파트너 센터 Api  |
 |제품을 구매 하려면  | 파트너 센터 대시보드 또는 파트너 센터 Api  |
 |구매한 제품 (계정 설정, 소프트웨어 관리 또는 고객의 AAD 테 넌 트에 배포)을 배포 하려면  | ISV 게시자의 시스템 또는 웹 사이트  |
-|제품 구독을 취소/갱신 하거나 사용자를 추가/제거 하려면 | 파트너 센터 대시보드 또는 파트너 센터 Api  |
+|제품 구독을 취소/갱신 하거나 라이선스를 추가/제거 하려면 | 파트너 센터 대시보드 또는 파트너 센터 Api  |
 |사용자를 만들거나 사용 권한을 관리 하려면  | ISV 게시자의 시스템 또는 웹 사이트  |
 
 |**Isv의 사용량 기반 제품**  |**사용**  |
@@ -81,7 +81,7 @@ CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner
 |사용 가능한 제품을 검색 하거나 검색 하려면  | 파트너 센터 대시보드, 파트너 센터 Api 또는 Azure Portal  |
 |제품을 구매 하려면  | Azure portal  |
 |구매한 제품 (계정 설정, 소프트웨어 관리 또는 고객의 AAD 테 넌 트에 배포)을 배포 하려면  | Azure portal  |
-|제품 구독을 취소/갱신 하거나 사용자를 추가/제거 하려면 | Azure portal  |
+|제품 구독을 취소/갱신 하거나 라이선스를 추가/제거 하려면 | Azure portal  |
 |사용자를 만들거나 사용 권한을 관리 하려면  | Azure portal  |
 
 ## <a name="next-steps"></a>다음 단계

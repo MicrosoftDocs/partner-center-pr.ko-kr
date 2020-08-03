@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265206"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444963"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
@@ -65,7 +65,7 @@ ms.locfileid: "86265206"
 
   - 역량: 파트너 회사는 최고 attainment에 연결 된 핵심 혜택의 패키지 하나를 받고 파트너의 글로벌 계정에 대 한 역량 별 혜택을 받습니다.
 
-- 모든 혜택은 [Microsoft 파트너 네트워크 혜택 사용 가이드](https://aka.ms/partner-benefits-use-guide)의 영향을 받습니다. 예: 활성화 된 O365 E3 토큰은 활성화 후 12 개월 동안 작동 합니다. 테 넌 트에서 사용자의 토큰이 활성화 된 후에는 해당 사용자가 다른 테 넌 트로 이동 하지 못할 수 있습니다.
+- 모든 혜택은 [Microsoft 파트너 네트워크 혜택 사용 가이드](https://aka.ms/partner-benefits-use-guide)의 영향을 받습니다. 예: 활성화 된 O365 E3 토큰은 활성화 후 12 개월 동안 작동 합니다. 테 넌 트에서 라이선스에 대해 토큰이 활성화 된 후에는 해당 라이선스를 다른 테 넌 트로 이동할 수 없습니다.
 
 - 두 회사에 대 한 MCP ID 연결은 유지 되 고 MPN ID와 연결 됩니다.
 

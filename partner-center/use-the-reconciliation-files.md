@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949570"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468334"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 품목을 읽는 방법에 대해 알아봅니다.
 
@@ -23,12 +23,12 @@ ms.locfileid: "85949570"
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 위해 파트너 센터에서 조정 파일을 다운로드할 수 있습니다. 품목 세부 정보에는 각 고객의 구독에 대 한 요금 및 자세한 이벤트 (예: 구독에 대 한 좌석 추가)가 포함 됩니다.
+청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 위해 파트너 센터에서 조정 파일을 다운로드할 수 있습니다. 품목 세부 정보에는 각 고객의 구독에 대 한 요금 및 자세한 이벤트 (예: 구독에 대 한 라이선스 추가)가 포함 됩니다.
 
 적절 한 역할:
 
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 
 **청구서**를 읽는 방법에 대 한 자세한 내용은 [청구서 읽기](read-your-bill.md)를 참조 하세요.
 
@@ -36,7 +36,6 @@ ms.locfileid: "85949570"
 
 - [라이선스 기반 조정 파일 필드](license-based-recon-files.md)
 - [사용 빈도 기반 조정 파일 필드](usage-based-recon-files.md)
-- [일회성 및 되풀이 조정 파일 필드](one-time-recurring-recon-files.md)
 - [매일 등급 사용 조정 파일 필드](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>조정 파일의 요금 유형 이해

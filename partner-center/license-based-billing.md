@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434382"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468350"
 ---
 # <a name="license-based-billing-in-partner-center"></a>파트너 센터의 라이선스 기반 요금 청구
 
@@ -30,13 +30,13 @@ ms.locfileid: "86434382"
 
 ## <a name="license-billing-frequency"></a>라이선스 청구 빈도
 
-한 달 (**매월 청구**) 또는 한 번 (**연간 청구**) 라이선스에 대해 요금이 청구 되도록 선택할 수 있습니다. **청구 빈도**에 대 한 자세한 내용은 [월별 및 연간 청구 차이점](billing-annual-monthly.md)을 참조 하세요.
+한 달 (**매월 청구**) 또는 한 번 (**연간 청구**) 라이선스에 대해 요금이 청구 되도록 선택할 수 있습니다. 
 
 ## <a name="billing-date-for-licenses"></a>라이선스의 청구 날짜
 
 라이선스 기반 구독은 구독의 **기념일**에 대해 미리 청구 됩니다. 기념일은 구독을 구매한 월의 날짜입니다.
 
-예:
+예를 들면 다음과 같습니다.
 
 - 1 월 15 일에 **월간 구독** 을 구매한 경우 기념일은 매월 15 일이 됩니다.
 - 1 월 15 일에 **연간 구독** 을 구매한 경우 기념일은 매년 1 월 15 일이 됩니다.
@@ -55,14 +55,12 @@ ms.locfileid: "86434382"
 
 ## <a name="license-renewal"></a>라이선스 갱신
 
-모든 라이선스 기반 구독은 유료 기간이 시작 된 후 12 개월 autorenew 됩니다.
+모든 라이선스 기반 구독은 유료 기간이 시작 된 후 12 개월 후에 자동 갱신 됩니다.
 
 ## <a name="next-steps"></a>다음 단계
 
 - [파트너 센터 청구 개요](billing-basics.md)
 
 - [파트너 센터의 청구 유형](billing-different-types.md)
-
-- [월별 및 연간 청구 차이](billing-annual-monthly.md)
 
 - [주요 청구 및 세금 문서](billing.md)

@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114412"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444925"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합에 대한 지침
 
@@ -26,7 +26,7 @@ ms.locfileid: "87114412"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 
 \[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보와 관련하여 명시적이거나 묵시적인 어떤 보증도 하지 않습니다.\]
@@ -34,7 +34,7 @@ ms.locfileid: "87114412"
 비즈니스에 대 한 테 넌 트를 통합할 수 있습니다. 이러한 지침을 사용 하 여 다른 국가/지역에 대 한 테 넌 트를 통합할 수 있습니다.
 
 >[!NOTE]  
->전환 하는 계정에서 각 고객의 프로 비전 된 구독과 사용자 수를 모두 알고 있어야 합니다. 마이그레이션 프로세스의 일부로 새 중앙 CSP 계정에서 동일한 사용자 수를 사용 하 여 동일한 정확한 구독을 다시 프로 비전 합니다. 목록 내보내기 기능을 사용 하 여 중앙 테 넌 트로 이동 하는 고객의 목록을 만들 수 있습니다.  통합이 완료 되 면 이전 테 넌 트 상태로 되돌릴 수 없습니다. 고객 동작도 필요할 수도 있습니다.
+>전환 하려는 계정에서 각 고객의 프로 비전 된 구독 및 라이선스 수를 모두 알고 있어야 합니다. 마이그레이션 프로세스의 일부로 새 중앙 CSP 계정의 라이선스 수가 동일한 동일한 정확한 구독을 다시 프로 비전 합니다. 목록 내보내기 기능을 사용 하 여 중앙 테 넌 트로 이동 하는 고객의 목록을 만들 수 있습니다.  통합이 완료 되 면 이전 테 넌 트 상태로 되돌릴 수 없습니다. 고객 동작도 필요할 수도 있습니다.
 
 ## <a name="prepare-for-migration"></a>마이그레이션 준비
 
@@ -66,7 +66,7 @@ ms.locfileid: "87114412"
 
 4. **구독 추가**를 선택합니다.
 
-5. 카탈로그에서 올바른 구독과 좌석 수를 추가 합니다. 파트너 계정 **에서 전환** 에 제공 된 정보를 확인 합니다.
+5. 카탈로그에서 올바른 구독과 라이선스 수를 추가 합니다. 파트너 계정 **에서 전환** 에 제공 된 정보를 확인 합니다.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="고객 목록":::
 

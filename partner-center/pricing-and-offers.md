@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286631"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444802"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -24,7 +24,7 @@ ms.locfileid: "86286631"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 관리 에이전트
 - MPN 파트너 관리자
@@ -48,7 +48,7 @@ ms.locfileid: "86286631"
 
 라이선스 기반 서비스에는 변경 내용에 따라 30 일 전에 제공 되는 가격 목록 미리 보기가 포함 되어 있습니다. 가격 목록 미리 보기를 보려면 가격 **책정 및 제품 > 판매**로 이동 하세요. 이러한 서비스는 동적 이므로 사용량 기반 서비스에 대 한 가격 미리 보기가 없습니다. 다음 표에서는 가격 목록 테이블을 읽는 방법에 대해 설명 합니다.
 
-|**Item**        |**정의**      |
+|**항목**        |**정의**      |
 |:-----------   |:-----------   |
 |ADD   |가격 목록에 대 한 새 항목|
 |CHG   |월간 정가에서 월로 변경 됩니다. 정가와 관련 되지 않은 기타 변경 내용이 발생할 수 있습니다. 파트너가 다른 속성에 대 한 변경 내용을 확인 하려면 월 마다 가격표를 비교 해야 합니다.|
@@ -109,7 +109,7 @@ CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 �
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure와 비 Azure 간의 가격 책정
 
-가격은 제품 유형에 따라 다릅니다. 라이선스 기반 가격은 일반적으로 특정 월에 대 한 사용자 단위 (라이선스)입니다. 사용 빈도 기반 가격은 지정 된 리소스를 사용 하 여 지정 된 측정기 ID를 사용 하 여 결정 됩니다. 파트너는 Azure 구독 획득에 대 한 요금이 청구 되지 않습니다. 그러나 파트너는 Azure 구독에 따라 다른 배포에서 사용 되는 리소스에 대해 요금이 청구 됩니다. 사용량 기반 가격 목록의 가격은 Azure에서 다양 한 리소스 측정기 Id를 기준으로 구성 됩니다.
+가격은 제품 유형에 따라 다릅니다. 라이선스 기반 가격은 일반적으로 특정 월의 라이선스 당 수량입니다. 사용 빈도 기반 가격은 지정 된 리소스를 사용 하 여 지정 된 측정기 ID를 사용 하 여 결정 됩니다. 파트너는 Azure 구독 획득에 대 한 요금이 청구 되지 않습니다. 그러나 파트너는 Azure 구독에 따라 다른 배포에서 사용 되는 리소스에 대해 요금이 청구 됩니다. 사용량 기반 가격 목록의 가격은 Azure에서 다양 한 리소스 측정기 Id를 기준으로 구성 됩니다.
 
 Azure 예약은 특정 리소스 종류-Virtual Machines에 대 한 용어 기반 구매입니다. Azure 예약을 구매 하면 파트너가 1 년 또는 3 년의 기간을 지불 하 고 지정 된 가상 컴퓨터를 예약할 수 있습니다. 예약은 파트너 비용을 절약 하 고 해당 기간 동안 가상 컴퓨터를 항상 사용할 수 있도록 합니다. 파트너는 사용량 기반 리소스 측정기 Id에 대해 원하는 예약을 정렬할 수 있습니다. 측정기 Id는 파트너가 가상 컴퓨터를 구매 하 고 있는지, 아니면 가상 컴퓨터를 사용량 기반 리소스로 배포 하 고 있는지에 관계 없이 리소스 전체에 걸쳐 일관 됩니다.
 

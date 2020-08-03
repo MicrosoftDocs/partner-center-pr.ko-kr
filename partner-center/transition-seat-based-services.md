@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377227"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444555"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>다른 채널 & 파트너가 클라우드 솔루션 공급자 프로그램으로 라이선스 기반 고객 이동
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377227"
 
 1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **대리점 관계 요청**을 선택 합니다. 다중 채널 계정에 대 한 지원을 제공 하기 위해 동일한 작업을 수행 합니다.
 
-2. 고객이 초대를 수락 하면 고객이 원하는 구독과 사용자를 프로 비전 할 수 있습니다 (예: 이전에 고객이 구매한 것과 동일한 Office 365 제품).
+2. 고객이 초대를 수락 하면 고객에 대해 원하는 구독 및 라이선스를 프로 비전 할 수 있습니다 (예: 이전에 고객이 구매한 것과 동일한 Office 365 제품).
 
 3. 고객은 원래 구독이 만료 되거나 취소 되도록 허용할 수 있습니다. 그러나 취소 된 구독에 대 한 환불 없기 때문에 구독이 자연 만료 날짜에 근접 하 게 될 때까지 대기 하는 것이 가장 좋습니다.
 
