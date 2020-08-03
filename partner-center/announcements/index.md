@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330120"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479086"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "87330120"
 
 | **범주** | **2020년 7월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[Enterprise Voice 및 오디오 회의 확장 전화 접속 시작에 대한 변경 내용](2020-july.md#10)|7월 31일|
 |기능|[파트너 센터 API에 대한 변경 내용](2020-july.md#9)|7월 28일|
 |기능|[.NET Standard v1.16.1-preview의 SDK 릴리스](2020-july.md#8)|7월 21일|
 |기능|[FY21을 위해 강화된 적격 Microsoft 상업용 Marketplace 제품에 대한 CSP(클라우드 솔루션 공급자) 인센티브](2020-july.md#7)|7월 22일|

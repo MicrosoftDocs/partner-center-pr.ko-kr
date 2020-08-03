@@ -149,7 +149,6 @@
 
 # [고객과의 관계 구축](customer-accounts.md)
 ## [새 고객 추가](add-a-new-customer.md)
-## [고객의 도메인 이름 및 디렉터리 ID 찾기](find-customer-domain-name.md)
 ## [고객과 재판매인 관계 요청](request-a-relationship-with-a-customer.md)
 ## [고객과 재판매인의 관계 제거](remove-a-relationship.md)
 ## [고객이 파트너에게 관리 권한을 위임 또는 취소하는 경우](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [Office 365 평가판 제품을 통해 클라이언트를 추가](advisors-build-your-business.md)
 ### [Office 365 구매 제품 만들기](advisor-create-a-purchase-offer.md)
 # 파트너 센터 데이터 및 분석
+
 ## [사용자 데이터 및 분석에 액세스](data-analysis-lp.md)
-## [Microsoft Power BI를 위한 파트너 센터 분석 앱 사용](power-bi-app-for-direct-partners.md)
-## [Microsoft Power BI를 위한 파트너 센터 분석 앱 사용](power-bi-app-for-direct-partners.md)
+## Power BI용 파트너 센터 분석 앱
+### [Power BI용 파트너 센터 분석 앱 소개](power-bi-app-for-direct-partners.md)
+### [Power BI용 파트너 센터 분석 앱 설치](power-bi-app-for-direct-partners-install.md)
+### [Power BI용 파트너 센터 분석 앱 사용](power-bi-app-for-direct-partners-use.md)
 ## [파트너 센터 인사이트](partner-center-insights.md)
 ### [Insights - 개요 대시보드](pci-overview-report.md)
 ### [Insights - Insights 대시보드에 대한 역할 기반 액세스 제어](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [간접 재판매인 성과 분석](analyze-indirect-resellers.md)
 ## [구독 및 라이선스 분석](analyze-subscriptions-licenses.md)
 ## [Microsoft Learn 분석](ms-learn-analytics.md)
-## [Power BI용 파트너 센터 분석 앱](power-bi-app-for-direct-partners-use.md)
-## [Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기](power-bi-app-for-direct-partners-install.md)
 
 # [다른 파트너와 협력](work-with-other-partners.md)
 ## [파트너 센터에서 간접 공급자가 하는 일](indirect-provider-tasks-in-partner-center.md)
