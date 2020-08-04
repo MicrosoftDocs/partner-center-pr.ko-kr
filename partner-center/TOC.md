@@ -156,7 +156,8 @@
 ## [고객 활동 로그 보기](activity-logs.md)
 ## [고객 계정 정보 업데이트](update-customer-account-info.md)
 ## [고객이 자신의 서비스를 구입할 수 있도록 허용](give-customers-permission.md)
-## [고객에 대해 다수 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
+## [고객에 대해 다수 사용자를 추가하는 방법](adding-multiple-users-to-a-customer-account.md)
+## [고객 계정에 대해 다수 사용자를 가져오기 위한 파일의 필수 필드](file-customer-users.md)
 ## [지원 담당자 할당](assign-support-contacts.md)
 
 # [CSP 혜택](csp-offers.md)
