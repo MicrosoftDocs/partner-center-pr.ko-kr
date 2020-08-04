@@ -1,6 +1,6 @@
 ---
 title: 고객 계정의 사용자 관리
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,113 +9,113 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435962"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527679"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a><span data-ttu-id="1f459-103">파트너 센터의 고객 계정에 대 한 사용자 관리 작업</span><span class="sxs-lookup"><span data-stu-id="1f459-103">User management tasks for customer accounts in Partner Center</span></span>
+# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a><span data-ttu-id="148e1-103">파트너 센터의 고객 계정에 대 한 사용자 관리 작업</span><span class="sxs-lookup"><span data-stu-id="148e1-103">User management tasks for customer accounts in Partner Center</span></span>
 
-<span data-ttu-id="1f459-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="1f459-104">**Applies to**</span></span>
+<span data-ttu-id="148e1-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="148e1-104">**Applies to**</span></span>
 
-- <span data-ttu-id="1f459-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="1f459-105">Partner Center</span></span>
+- <span data-ttu-id="148e1-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="148e1-105">Partner Center</span></span>
 
-<span data-ttu-id="1f459-106">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="1f459-106">**Appropriate roles**</span></span>
+<span data-ttu-id="148e1-106">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="148e1-106">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="1f459-107">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="1f459-107">Global admin</span></span>
-- <span data-ttu-id="1f459-108">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="1f459-108">User management admin</span></span>
-- <span data-ttu-id="1f459-109">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="1f459-109">Admin agent</span></span>
-- <span data-ttu-id="1f459-110">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="1f459-110">Sales agent</span></span>
-- <span data-ttu-id="1f459-111">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="1f459-111">Helpdesk agent</span></span>
+- <span data-ttu-id="148e1-107">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="148e1-107">Global admin</span></span>
+- <span data-ttu-id="148e1-108">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="148e1-108">User management admin</span></span>
+- <span data-ttu-id="148e1-109">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="148e1-109">Admin agent</span></span>
+- <span data-ttu-id="148e1-110">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="148e1-110">Sales agent</span></span>
+- <span data-ttu-id="148e1-111">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="148e1-111">Helpdesk agent</span></span>
 
-<span data-ttu-id="1f459-112">고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-112">You can create and delete new users in a customer's account.</span></span> <span data-ttu-id="1f459-113">삭제 후 30 일 이내에 이전에 삭제 한 사용자 계정을 하나 이상 복원할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-113">You can also restore one or more user accounts that you previously deleted within 30 days of the deletion.</span></span> <span data-ttu-id="1f459-114">사용자의 이전 구독 할당도 복원 됩니다 (이전 할당을 사용할 수 있는 것으로 가정).</span><span class="sxs-lookup"><span data-stu-id="1f459-114">The user's previous subscription assignments will also be restored (assuming their previous allocations are available).</span></span>
+<span data-ttu-id="148e1-112">고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-112">You can create and delete new users in a customer's account.</span></span> <span data-ttu-id="148e1-113">삭제 후 30 일 이내에 이전에 삭제 한 사용자 계정을 하나 이상 복원할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-113">You can also restore one or more user accounts that you previously deleted within 30 days of the deletion.</span></span> <span data-ttu-id="148e1-114">사용자의 이전 구독 할당도 복원 됩니다 (이전 할당을 사용할 수 있는 것으로 가정).</span><span class="sxs-lookup"><span data-stu-id="148e1-114">The user's previous subscription assignments will also be restored (assuming their previous allocations are available).</span></span>
 
-<span data-ttu-id="1f459-115">고객에 대 한 새 구독을 구입 하는 경우 고객은 계정, 해당 사용자 권한 및 각 사용자가 요구 하는 서비스를 필요로 하는 모든 사용자의 목록을 제공 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-115">When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.</span></span>  
+<span data-ttu-id="148e1-115">고객에 대 한 새 구독을 구입 하는 경우 고객은 계정, 해당 사용자 권한 및 각 사용자가 요구 하는 서비스를 필요로 하는 모든 사용자의 목록을 제공 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-115">When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.</span></span>  
 
-<span data-ttu-id="1f459-116">[Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용 하 여 [여러 사용자에 게 한 번에 여러 사용자에 게 구독을 할당할](bulk-license-provisioning-for-multiple-users.md) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-116">You can [assign subscriptions to multiple users](bulk-license-provisioning-for-multiple-users.md) at one time by importing the names using an [Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span>
+<span data-ttu-id="148e1-116">[Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용 하 여 [여러 사용자에 게 한 번에 여러 사용자에 게 구독을 할당할](bulk-license-provisioning-for-multiple-users.md) 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-116">You can [assign subscriptions to multiple users](bulk-license-provisioning-for-multiple-users.md) at one time by importing the names using an [Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span>
 
 <a href="" id="createuseraccounts"></a>
 
-## <a name="create-user-accounts-for-a-customer"></a><span data-ttu-id="1f459-117">고객의 사용자 계정 만들기</span><span class="sxs-lookup"><span data-stu-id="1f459-117">Create user accounts for a customer</span></span>
+## <a name="create-user-accounts-for-a-customer"></a><span data-ttu-id="148e1-117">고객의 사용자 계정 만들기</span><span class="sxs-lookup"><span data-stu-id="148e1-117">Create user accounts for a customer</span></span>
 
-1. <span data-ttu-id="1f459-118">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-118">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="148e1-118">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-118">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="1f459-119">파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-119">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+2. <span data-ttu-id="148e1-119">파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-119">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-3. <span data-ttu-id="1f459-120">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-120">In the customer menu, select **Users and licenses**.</span></span>
+3. <span data-ttu-id="148e1-120">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-120">In the customer menu, select **Users and licenses**.</span></span>
 
-4. <span data-ttu-id="1f459-121">추가 하는 각 사용자에 대해 **구독 추가**를 선택 하 고 사용 권한 및 라이선스를 포함 한 정보를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-121">For each user you add, select **Add subscription**, then fill out the information, including permissions and licenses.</span></span> <span data-ttu-id="1f459-122">변경 내용을 **저장**합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-122">**Save** your changes.</span></span>
+4. <span data-ttu-id="148e1-121">추가 하는 각 사용자에 대해 **구독 추가**를 선택 하 고 사용 권한 및 라이선스를 포함 한 정보를 입력 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-121">For each user you add, select **Add subscription**, then fill out the information, including permissions and licenses.</span></span> <span data-ttu-id="148e1-122">변경 내용을 **저장**합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-122">**Save** your changes.</span></span>
 
-5. <span data-ttu-id="1f459-123">사용자에 게 보낼 사용자 이름 및 임시 암호를 기록해 두어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-123">Be sure to record the user name and temporary password to send to the user.</span></span>
+5. <span data-ttu-id="148e1-123">사용자에 게 보낼 사용자 이름 및 임시 암호를 기록해 두어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-123">Be sure to record the user name and temporary password to send to the user.</span></span>
 
-6. <span data-ttu-id="1f459-124">한 번에 여러 사용자를 추가 하는 경우 **다른 사용자 추가**를 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-124">If you are adding multiple users one at a time use **Add another user**.</span></span>
+6. <span data-ttu-id="148e1-124">한 번에 여러 사용자를 추가 하는 경우 **다른 사용자 추가**를 사용 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-124">If you are adding multiple users one at a time use **Add another user**.</span></span>
 
-7. <span data-ttu-id="1f459-125">[Excel 호환 .csv 스프레드시트 파일을 가져오면](adding-multiple-users-to-a-customer-account.md)여러 사용자를 한 번에 추가할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-125">You can also add multiple users at once by [importing an Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span> <span data-ttu-id="1f459-126">전자 메일을 보내거나 확인 화면에서 이름 및 암호를 인쇄 하기 전에 전체 설정이 완료 될 때까지 기다릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-126">You can wait until you're done with the whole set before emailing or printing the names and passwords from the confirmation screen.</span></span>
+7. <span data-ttu-id="148e1-125">[Excel 호환 .csv 스프레드시트 파일을 가져오면](adding-multiple-users-to-a-customer-account.md)여러 사용자를 한 번에 추가할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-125">You can also add multiple users at once by [importing an Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span> <span data-ttu-id="148e1-126">전자 메일을 보내거나 확인 화면에서 이름 및 암호를 인쇄 하기 전에 전체 설정이 완료 될 때까지 기다릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-126">You can wait until you're done with the whole set before emailing or printing the names and passwords from the confirmation screen.</span></span>
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a><span data-ttu-id="1f459-127">고객에 대 한 사용자 라이선스 추가 또는 제거</span><span class="sxs-lookup"><span data-stu-id="1f459-127">Add or remove user licenses for a customer</span></span>
+## <a name="add-or-remove-user-licenses-for-a-customer"></a><span data-ttu-id="148e1-127">고객에 대 한 사용자 라이선스 추가 또는 제거</span><span class="sxs-lookup"><span data-stu-id="148e1-127">Add or remove user licenses for a customer</span></span>
 
-<span data-ttu-id="1f459-128">다음 단계는 Microsoft 제품에 대 한 사용자 라이선스를 추가 하거나 제거 하는 경우에 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-128">The following steps apply to adding or removing user licenses for Microsoft products.</span></span> <span data-ttu-id="1f459-129">상업적 marketplace에서 라이선스 기반 SaaS 구독의 사용자 라이선스를 추가 하거나 제거 하려면 [SaaS 구독에 대 한 라이선스 추가 또는 제거](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="1f459-129">To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).</span></span>
+<span data-ttu-id="148e1-128">다음 단계는 Microsoft 제품에 대 한 사용자 라이선스를 추가 하거나 제거 하는 경우에 적용 됩니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-128">The following steps apply to adding or removing user licenses for Microsoft products.</span></span> <span data-ttu-id="148e1-129">상업적 marketplace에서 라이선스 기반 SaaS 구독의 사용자 라이선스를 추가 하거나 제거 하려면 [SaaS 구독에 대 한 라이선스 추가 또는 제거](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="148e1-129">To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).</span></span>
 
-1. <span data-ttu-id="1f459-130">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-130">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="148e1-130">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-130">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="1f459-131">파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-131">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+2. <span data-ttu-id="148e1-131">파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-131">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-3. <span data-ttu-id="1f459-132">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-132">In the customer menu, select **Users and licenses**.</span></span>
+3. <span data-ttu-id="148e1-132">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-132">In the customer menu, select **Users and licenses**.</span></span>
 
-4. <span data-ttu-id="1f459-133">목록에서 하나 이상의 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-133">Choose one or more users from the list.</span></span> <span data-ttu-id="1f459-134">예를 들어 고객이 새 라이선스를 구매 했 고 아직 없는 사용자에 게 해당 라이선스를 할당 하려는 경우 **사용자 필터** ... 옵션을 사용 하 여 올바른 그룹을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-134">If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.</span></span>
+4. <span data-ttu-id="148e1-133">목록에서 하나 이상의 사용자를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-133">Choose one or more users from the list.</span></span> <span data-ttu-id="148e1-134">예를 들어 고객이 새 라이선스를 구매 했 고 아직 없는 사용자에 게 해당 라이선스를 할당 하려는 경우 **사용자 필터** ... 옵션을 사용 하 여 올바른 그룹을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-134">If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.</span></span>
 
-5. <span data-ttu-id="1f459-135">**라이선스 관리**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-135">Select **Manage licenses**.</span></span> <span data-ttu-id="1f459-136">변경한 후 **저장**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-136">Make your changes, then **Save**.</span></span>
+5. <span data-ttu-id="148e1-135">**라이선스 관리**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-135">Select **Manage licenses**.</span></span> <span data-ttu-id="148e1-136">변경한 후 **저장**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-136">Make your changes, then **Save**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="1f459-137">제품을 게시 한 ISV (독립 소프트웨어 공급 업체)를 통해 라이선스 할당 및 활성화를 관리 하는 [Azure Marketplace 제품](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)입니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-137">For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.</span></span>
+> <span data-ttu-id="148e1-137">제품을 게시 한 ISV (독립 소프트웨어 공급 업체)를 통해 라이선스 할당 및 활성화를 관리 하는 [Azure Marketplace 제품](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)입니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-137">For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.</span></span>
 
 <a href="" id="resetpassword"></a>
 
-## <a name="reset-a-users-password-for-a-customer"></a><span data-ttu-id="1f459-138">고객에 대 한 사용자 암호 재설정</span><span class="sxs-lookup"><span data-stu-id="1f459-138">Reset a user's password for a customer</span></span>
+## <a name="reset-a-users-password-for-a-customer"></a><span data-ttu-id="148e1-138">고객에 대 한 사용자 암호 재설정</span><span class="sxs-lookup"><span data-stu-id="148e1-138">Reset a user's password for a customer</span></span>
 
-1. <span data-ttu-id="1f459-139">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-139">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="148e1-139">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-139">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="1f459-140">파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-140">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+2. <span data-ttu-id="148e1-140">파트너 센터 메뉴에서 **고객**을 선택한 다음, 목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-140">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-3.  <span data-ttu-id="1f459-141">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-141">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="1f459-142">목록에서 사용자를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-142">Choose the user from the list.</span></span>
+3.  <span data-ttu-id="148e1-141">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-141">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="148e1-142">목록에서 사용자를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-142">Choose the user from the list.</span></span>
 
-4.  <span data-ttu-id="1f459-143">화면 아래쪽에서 **암호 재설정**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-143">At the bottom of the screen, select **Reset password**.</span></span> 
+4.  <span data-ttu-id="148e1-143">화면 아래쪽에서 **암호 재설정**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-143">At the bottom of the screen, select **Reset password**.</span></span> 
 
-5.  <span data-ttu-id="1f459-144">새 임시 암호를 사용자에 게 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-144">Send the new temporary password to the user.</span></span>
+5.  <span data-ttu-id="148e1-144">새 임시 암호를 사용자에 게 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-144">Send the new temporary password to the user.</span></span>
 
 <a href="" id="deleteuseraccounts"></a>
 
-## <a name="delete-user-accounts-for-a-customer"></a><span data-ttu-id="1f459-145">고객에 대 한 사용자 계정 삭제</span><span class="sxs-lookup"><span data-stu-id="1f459-145">Delete user accounts for a customer</span></span>
+## <a name="delete-user-accounts-for-a-customer"></a><span data-ttu-id="148e1-145">고객에 대 한 사용자 계정 삭제</span><span class="sxs-lookup"><span data-stu-id="148e1-145">Delete user accounts for a customer</span></span>
 
-1.  <span data-ttu-id="1f459-146">**파트너 센터** 메뉴에서 **고객**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-146">From the **Partner Center** menu, select **Customers**.</span></span> <span data-ttu-id="1f459-147">목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-147">Choose the customer from the list.</span></span>
+1.  <span data-ttu-id="148e1-146">**파트너 센터** 메뉴에서 **고객**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-146">From the **Partner Center** menu, select **Customers**.</span></span> <span data-ttu-id="148e1-147">목록에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-147">Choose the customer from the list.</span></span>
 
-2.  <span data-ttu-id="1f459-148">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-148">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="1f459-149">목록에서 사용자를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-149">Choose the user from the list.</span></span>
+2.  <span data-ttu-id="148e1-148">고객 메뉴에서**사용자 및 라이선스**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-148">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="148e1-149">목록에서 사용자를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-149">Choose the user from the list.</span></span>
 
-3.  <span data-ttu-id="1f459-150">화면 맨 아래에서 **사용자 계정 삭제**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-150">At the bottom of the screen, select **Delete user account**.</span></span>
+3.  <span data-ttu-id="148e1-150">화면 맨 아래에서 **사용자 계정 삭제**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-150">At the bottom of the screen, select **Delete user account**.</span></span>
 
-<span data-ttu-id="1f459-151">이 계정을 복원 해야 하는 경우 고객의 **사용자 및 라이선스** 목록의 **삭제 된 사용자** 탭에서 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-151">If you need to restore this account, you can find it in the **Deleted users** tab of the Customer's **Users and licenses** list.</span></span> <span data-ttu-id="1f459-152">삭제 된 사용자를 복원 하는 데 30 일이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-152">You have 30 days to restore a deleted user.</span></span>
+<span data-ttu-id="148e1-151">이 계정을 복원 해야 하는 경우 고객의 **사용자 및 라이선스** 목록의 **삭제 된 사용자** 탭에서 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-151">If you need to restore this account, you can find it in the **Deleted users** tab of the Customer's **Users and licenses** list.</span></span> <span data-ttu-id="148e1-152">삭제 된 사용자를 복원 하는 데 30 일이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-152">You have 30 days to restore a deleted user.</span></span>
 
 <a href="" id="restoreuseraccounts"></a>
 
-## <a name="restore-deleted-user-accounts"></a><span data-ttu-id="1f459-153">삭제 된 사용자 계정 복원</span><span class="sxs-lookup"><span data-stu-id="1f459-153">Restore deleted user accounts</span></span>
+## <a name="restore-deleted-user-accounts"></a><span data-ttu-id="148e1-153">삭제 된 사용자 계정 복원</span><span class="sxs-lookup"><span data-stu-id="148e1-153">Restore deleted user accounts</span></span>
 
-1.  <span data-ttu-id="1f459-154">**파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-154">From the **Partner Center** menu, select **Customers**, then choose the customer from the list.</span></span>
+1.  <span data-ttu-id="148e1-154">**파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-154">From the **Partner Center** menu, select **Customers**, then choose the customer from the list.</span></span>
 
-2.  <span data-ttu-id="1f459-155">**사용자 및 라이선스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-155">Select **Users and licenses**.</span></span>
+2.  <span data-ttu-id="148e1-155">**사용자 및 라이선스**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-155">Select **Users and licenses**.</span></span>
 
-3.  <span data-ttu-id="1f459-156">삭제 된 **사용자 ()** 탭을 선택 합니다. 복원할 수 있는 삭제 된 사용자가 있는 경우에는 **(1)** 이상을 읽어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-156">Select the **Deleted users ( )** tab. It should read **(1)** or greater when there are deleted users that can be restored.</span></span>
+3.  <span data-ttu-id="148e1-156">삭제 된 **사용자 ()** 탭을 선택 합니다. 복원할 수 있는 삭제 된 사용자가 있는 경우에는 **(1)** 이상을 읽어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-156">Select the **Deleted users ( )** tab. It should read **(1)** or greater when there are deleted users that can be restored.</span></span>
 
-4.  <span data-ttu-id="1f459-157">삭제 된 사용자의 확인란을 하나 이상 선택 하 고 **복원**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-157">Select one or more of the deleted users' checkboxes and then select **Restore**.</span></span>
+4.  <span data-ttu-id="148e1-157">삭제 된 사용자의 확인란을 하나 이상 선택 하 고 **복원**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-157">Select one or more of the deleted users' checkboxes and then select **Restore**.</span></span>
 
-    <span data-ttu-id="1f459-158">선택한 모든 사용자 계정이 **사용자 및 라이선스** 페이지에 다시 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="1f459-158">All selected user accounts will reappear in the **Users and licenses** page.</span></span>
+    <span data-ttu-id="148e1-158">선택한 모든 사용자 계정이 **사용자 및 라이선스** 페이지에 다시 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="148e1-158">All selected user accounts will reappear in the **Users and licenses** page.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="1f459-159">관련 항목</span><span class="sxs-lookup"><span data-stu-id="1f459-159">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="148e1-159">관련 항목</span><span class="sxs-lookup"><span data-stu-id="148e1-159">Related topics</span></span>
 
 
-[<span data-ttu-id="1f459-160">여러 사용자에게 라이선스 할당 또는 해지</span><span class="sxs-lookup"><span data-stu-id="1f459-160">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)
+[<span data-ttu-id="148e1-160">여러 사용자에게 라이선스 할당 또는 해지</span><span class="sxs-lookup"><span data-stu-id="148e1-160">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)
 
-[<span data-ttu-id="1f459-161">고객 계정에 대 한 여러 사용자 만들기</span><span class="sxs-lookup"><span data-stu-id="1f459-161">Create multiple users for a customer account</span></span>](adding-multiple-users-to-a-customer-account.md)
+[<span data-ttu-id="148e1-161">고객 계정에 대 한 여러 사용자 만들기</span><span class="sxs-lookup"><span data-stu-id="148e1-161">Create multiple users for a customer account</span></span>](adding-multiple-users-to-a-customer-account.md)
