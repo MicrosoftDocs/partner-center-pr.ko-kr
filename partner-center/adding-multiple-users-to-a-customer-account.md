@@ -1,22 +1,23 @@
 ---
 title: 고객 계정에 대 한 여러 사용자 추가
-ms.topic: article
-ms.date: 06/17/2020
+ms.topic: how-to
+ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 한 번에 여러 사용자를 고객 계정에 추가 하는 방법을 알아봅니다. 쉼표로 구분 된 값 (.csv) 파일 형식을 사용 하 여 파트너 센터에 데이터 파일을 업로드 합니다.
+description: 고객의 계정에 여러 사용자를 추가 하려면 쉼표로 구분 된 값 (.csv) 파일 형식을 사용 하 여 파트너 센터에 데이터 파일을 업로드 합니다.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
+ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436312"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87535743"
 ---
-# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>고객 계정에 여러 사용자 추가-파트너 센터에 데이터 파일 업로드
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>고객의 계정에 사용자의 .csv 파일 업로드
+
 
 **적용 대상**
 
@@ -24,35 +25,13 @@ ms.locfileid: "86436312"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 
-쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가할 수 있습니다. 파트너 센터에서 샘플 데이터 파일을 다운로드 한 다음 사용자가 사용할 수 있도록 편집 하거나 아래에 정의 된 데이터 모델을 사용 하 여 새 데이터 파일을 만들 수 있습니다.
+쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가 합니다. 
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>데이터 파일 요구 사항
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>고객 사용자의 파일을 만들고 고객 계정에 업로드 합니다.
 
-대량 업로드 프로세스를 사용 하 여 고객의 계정에 여러 사용자를 추가 하려면 다음 요구 사항을 충족 해야 합니다.
-
-- 고객 계정에 대 한 전역 관리자 권한이 있어야 합니다.
-- 각 사용자에 게는 고객의 메일 도메인에 추가 된 고유한 전자 메일 주소가 있어야 합니다.
-- 한 번에 최대 100 개의 레코드를 업로드할 수 있습니다. 100 명 이상의 사용자를 추가 해야 하는 경우 추가 데이터 파일을 만들고 업로드 합니다.
-- 모든 사용자는 동일한 지리적 **위치**에 있어야 합니다.
-- 아래에 설명 된 데이터만 입력 합니다. 불필요 한 데이터를 업로드 하면 업로드가 실패 합니다.
-
-데이터 파일에 다음 데이터를 입력 합니다.
-
-| **열 이름** | **설명**  | **제한 사항**  |
-|:-------- |:------  |:----- |
-| 이름  | 사용자의 이름 (선택 필드)  | 50자로 제한  |
-| 성  | 사용자의 성 (선택 필드)  | 50자로 제한  |
-| 표시 이름    | 파트너 센터 (필수 필드)에 표시 되는 이름                            | 50자로 제한                         |
-| 메일   | 고객 회사의 사용자 회사 전자 메일 주소 (필수 필드)           | 각 사용자에게는 고유한 전자 메일 주소가 있어야 합니다. |
-| 상태 업데이트   | 새 사용자 레코드가 성공적으로 만들어졌는지 여부를 나타내는 데 사용 됩니다. | \*\*비워 둠\*\*                        |
-
-### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>여러 사용자 계정을 만들려면
-
-<a href="" id="creatingtheaccounts"></a>
-
-1. 위에서 설명한 데이터를 사용 하 여 쉼표로 구분 된 값 (.csv) 데이터 파일을 만듭니다. 이후 단계에서 찾아볼 수 있도록 파일을 저장 합니다.
+1. 위에서 설명한 데이터를 사용 하 여 쉼표로 구분 된 값 (.csv) 데이터 파일을 만듭니다. 이후 단계에서 찾아볼 수 있도록 파일을 저장 합니다. [고객 계정에 대 한 여러 사용자를 가져오려면 .csv 파일의 필드](file-customer-users.md)를 참조 하세요. 
 
 2. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
@@ -72,13 +51,11 @@ ms.locfileid: "86436312"
 9. **저장**을 선택합니다.
 10. 사용자에 대한 임시 암호 정보를 다운로드합니다.
 
-**중요:** 나중에이 작업을 수행할 수 없으므로 임시 암호를 사용 하 여 파일을 다운로드 해야 합니다. 새 사용자는 새 계정에 대 한 임시 암호를 사용 하 여 새 계정에 로그인 해야 합니다.
+    >[!IMPORTANT]
+    > 나중에이 작업을 수행할 수 없으므로 임시 암호를 사용 하 여 파일을 다운로드 해야 합니다. 새 사용자는 새 계정에 대 한 임시 암호를 사용 하 여 새 계정에 로그인 해야 합니다.
 
-10. 새 사용자에 게 **라이선스 및 서비스를 사용할 수 있는** 권한이 자동으로 할당 됩니다. 
+11. 새 사용자에 게 **라이선스 및 서비스를 사용할 수 있는** 권한이 자동으로 할당 됩니다. 
 
- 
+## <a name="next-steps"></a>다음 단계
 
- 
-
-
-
+- [파트너 센터에서 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한 부여](give-customers-permission.md)

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114806"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527589"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>잠재적 서비스 문제 또는 중단을 보고 하는 고객의 서비스 상태 확인
 
@@ -25,7 +25,7 @@ ms.locfileid: "87114806"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 
@@ -42,9 +42,11 @@ ms.locfileid: "87114806"
  
 서비스 중단 시 Microsoft는 문제 해결을 위해 정기적인 업데이트를 제공 합니다. 이러한 알림은 Microsoft Azure portal 또는 Microsoft 365 관리 센터에도 표시 됩니다.
 
-서비스 중단이 종료 된 후에도 문제가 지속 되 면 서비스 요청을 제출 합니다. [고객을 대신 하 여 문제 보고](report-problems-on-behalf-of-a-customer.md)를 참조 하세요.
+## <a name="next-steps"></a>다음 단계 
 
-Microsoft 365 및 Microsoft Azure는 파트너가 실시간 서비스 상태, 메시지 센터 통신 및 계획 된 유지 관리 이벤트를 [검색 하는 데 사용할 수 있는 api](get-automated-service-notifications-with-our-apis.md)를 제공 합니다.
+- 서비스 중단이 종료 된 후에도 문제가 지속 되 면 서비스 요청을 제출 합니다. [고객을 대신 하 여 문제 보고](report-problems-on-behalf-of-a-customer.md)를 참조 하세요.
+
+- Microsoft 365 및 Microsoft Azure는 파트너가 실시간 서비스 상태, 메시지 센터 통신 및 계획 된 유지 관리 이벤트를 [검색 하는 데 사용할 수 있는 api](get-automated-service-notifications-with-our-apis.md)를 제공 합니다.
 
  
 

@@ -3,18 +3,18 @@ title: MPN 파트너 계정의 두 가지 수준
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: MPN 파트너는 파트너 센터에서 두 가지 수준의 계정, 즉, 파트너의 글로벌 계정 (표준) 및 PLA (파트너 위치 계정)에 대해 알아볼 수 있습니다.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 326f46af86c890c6f34460669ec167399515014d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436412"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527439"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>파트너 센터에는 MPN 파트너에 대 한 두 가지 수준의 계정이 있습니다.
 

@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 CRM 파트너 센터 용 공동 판매 커넥터
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: Dynamics 365 CRM과 파트너 센터의 조회 동기화
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435452"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527579"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -159,7 +159,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
     b. **편집** 을 선택 하 여 전원 자동화 흐름을 편집/사용자 지정 합니다.
 
-    다. 선택 **(범위) 잠재 고객 또는 기회를 동기화**합니다.
+    c. 선택 **(범위) 잠재 고객 또는 기회를 동기화**합니다.
 
 2. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **새 공유 기회 인지 여부**를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기**를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
 
@@ -175,7 +175,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
     b. **기회 동기화를 선택 (범위)** 합니다.
 
-    다. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 **파트너 센터와 crm의 리드 개체 사이에 차이가 있는 경우**를 선택 합니다. 
+    c. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 **파트너 센터와 crm의 리드 개체 사이에 차이가 있는 경우**를 선택 합니다. 
 
     d. **예 인 경우** 하위 단계를 선택 하 고 **기회 데이터가 포함 된 조회 업데이트**단계를 확장 합니다.
 
@@ -187,7 +187,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    b. **조회 동기화를 선택 (범위) 합니다.**
 
-   다. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기**를 선택 합니다.
+   c. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기**를 선택 합니다.
 
    필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
 

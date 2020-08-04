@@ -1,6 +1,6 @@
 ---
 title: 고객에 대 한 지원 연락처 할당
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435952"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527669"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>고객에 대 한 기술 지원 담당자로 재판매인 할당
 
@@ -25,7 +25,7 @@ ms.locfileid: "86435952"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -36,7 +36,7 @@ ms.locfileid: "86435952"
 
 [다중 파트너](multipartner.md) 및 [다중 채널](multichannel.md) 시나리오에 사용할 수 있습니다. 
 
-<a href="" id="assigncontacts"></a>
+
 ## <a name="assign-contacts"></a>연락처 할당
 
 1.  지정 된 제품 재판매인과의 [관계를 요청](request-a-relationship-with-a-customer.md) 하 여 시작 합니다. 기술 지원 서비스에 대 한 지원 계약을 협상 합니다.

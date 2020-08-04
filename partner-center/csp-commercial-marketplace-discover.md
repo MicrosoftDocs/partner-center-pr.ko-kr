@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435122"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527729"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
 
@@ -25,7 +25,7 @@ ms.locfileid: "86435122"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 
 Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다.

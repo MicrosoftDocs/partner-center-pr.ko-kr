@@ -1,6 +1,6 @@
 ---
 title: 고객에 대 한 Azure 예약 관리
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435762"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527459"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>고객에 대 한 Microsoft Azure 예약 관리, 취소, 교환 또는 환불
 
@@ -27,7 +27,7 @@ ms.locfileid: "86435762"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자

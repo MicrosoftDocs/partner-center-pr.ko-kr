@@ -1,6 +1,6 @@
 ---
 title: 다수의 사용자에게 라이선스 할당 및 해지
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435572"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527399"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>고객 계정의 여러 사용자에 게 동시에 라이선스 할당 또는 해지
 
@@ -25,7 +25,7 @@ ms.locfileid: "86435572"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -34,11 +34,6 @@ ms.locfileid: "86435572"
 
 파트너 센터는 고객 소유 라이선스 자격을 모두 추적 하 고 표시 합니다.
 
-다음 섹션에서는 아래 방법을 보여줍니다.
-- [여러 사용자에 게 라이선스 할당](#assign-licenses-to-groups)
-- [사용자의 라이선스 할당 취소](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>여러 사용자에 게 라이선스 할당
 
 1. **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.
@@ -81,7 +76,6 @@ ms.locfileid: "86435572"
 >[!NOTE]
 >일부 Microsoft 제품은 특정 위치에서 사용 하지 못할 수 있습니다. 다른 제품은 다른 제품 또는 서비스에 종속 되거나 동일한 사용자에 게 함께 할당 될 수 없습니다. 저장 한 후에는 확인 페이지에 성공적인 라이선스 할당의 모든 사용자 결과 및 라이선스 할당의 모든 오류가 나열 됩니다.
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>사용자의 라이선스 할당 취소
 
 1. **파트너 센터** 메뉴에서 **고객**을 선택한 다음 목록에서 고객을 선택 합니다.

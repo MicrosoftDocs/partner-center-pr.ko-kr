@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436182"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526949"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>고객과 Azure 구독이 얼마나 잘 작동 하는지에 대 한 데이터 가져오기
 
@@ -25,12 +25,14 @@ ms.locfileid: "86436182"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 
 데이터는 비즈니스 의사 결정을 유도 합니다. **Azure 사용량** 페이지의 메트릭을 사용 하 여 주의가 필요한 성공 및 영역을 확인할 수 있습니다. 새 비즈니스 목표를 계획할 때이 정보를 사용 합니다.
+
+**Azure 사용**에 대 한 자세한 내용은 파트너 센터 [대시보드](https:/partner.microsoft.com/dashboard)에 로그인 하세요. 파트너 센터 메뉴에서 **분석** 을 선택 하 고 **Azure 사용**을 선택 합니다.
 
 > [!NOTE]
 > Azure 사용 현황 분석은 클라우드 솔루션 공급자 프로그램의 파트너에 대해서만 사용할 수 있습니다.
@@ -67,3 +69,7 @@ ms.locfileid: "86436182"
 ## <a name="azure-subscription-retention"></a>Azure 구독 보존
 
 - 갱신 된 구독 수입니다.
+
+ ## <a name="next-steps"></a>다음 단계
+
+- [고객에 대 한 Azure 요금제를 구매 하 여 종 량 제 요금으로 최신 Azure 서비스에 액세스 & 하세요.](purchase-azure-plan.md)

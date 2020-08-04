@@ -1,6 +1,6 @@
 ---
 title: 성과급 클레임 만들기 및 관리 | 파트너 센터
-ms.topic: article
+ms.topic: how-to
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 431b4fa095ecf87f1174d8c5570463bd3f79f21b
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114856"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527796"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>인센티브 클레임 만들기 및 관리
 
@@ -23,7 +23,7 @@ ms.locfileid: "87114856"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 인센티브 관리자
 - 인센티브 사용자
 
@@ -35,9 +35,9 @@ ms.locfileid: "87114856"
 
 3.  새 클레임을 만들려면 **클레임 만들기**를 선택 합니다.
 
-4.  초기 양식을 작성 하 고 **클레임 만들기**를 선택한 경우 청구서, CSR, 증명 문서 및 메트릭을 추가할 수 있는 클레임 세부 정보 페이지로 이동 됩니다. 필요한 경우 추가 정보를 추가할 수도 있습니다.
+4.  초기 양식을 작성 하 고 **클레임 만들기**를 선택한 경우 청구서, CSR, 증명 문서 및 메트릭을 추가할 수 있는 클레임 세부 정보 페이지로 이동 됩니다. 필요한 경우 정보를 더 추가할 수도 있습니다.
 
-클레임 세부 정보 페이지를 사용 하 여 조직의 다른 사용자가 양식에 문서를 업로드 하도록 요청할 수 있습니다. 업로드 하는 각 지원 문서에 대해 설명 세부 정보를 제공할 수 있습니다. 
+클레임 세부 정보 페이지를 사용하여 조직의 다른 사용자에게 양식에 문서를 업로드하도록 요청할 수 있습니다. 업로드하는 각 지원 문서에 대해 자세한 설명을 제공할 수 있습니다. 
 
 ### <a name="manage-your-claims"></a>클레임 관리
 
