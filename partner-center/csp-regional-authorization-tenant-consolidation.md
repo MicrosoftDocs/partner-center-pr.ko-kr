@@ -1,6 +1,6 @@
 ---
 title: CSP 지역 권한 부여 테 넌 트 통합
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444925"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545654"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합에 대한 지침
 
@@ -29,7 +29,7 @@ ms.locfileid: "87444925"
 - 전역 관리자
 - 관리 에이전트
 
-\[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보와 관련하여 명시적이거나 묵시적인 어떤 보증도 하지 않습니다.\]
+\[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다.\]
 
 비즈니스에 대 한 테 넌 트를 통합할 수 있습니다. 이러한 지침을 사용 하 여 다른 국가/지역에 대 한 테 넌 트를 통합할 수 있습니다.
 

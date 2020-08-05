@@ -1,7 +1,7 @@
 ---
 title: 고객이 CSP에서 자신의 서비스를 구입할 수 있도록 허용
 description: CSP 프로그램 파트너가 파트너 센터에서 구매한 구독에 대해 Azure 예약과 같은 고유한 서비스를 구입할 수 있도록 하는 방법을 알아봅니다.
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86a3be3b80ff274bb609490f86706178fe3d19d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434602"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545644"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>파트너 센터에서 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한 부여
 

@@ -1,6 +1,6 @@
 ---
 title: 특수 산업을 대상으로 판매
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947408"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545534"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>교육, 비영리 및 정부 사용자와 같은 특수 산업에 판매
 
@@ -24,7 +24,7 @@ ms.locfileid: "85947408"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 - 영업 상담원
 
@@ -62,7 +62,7 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 
 ## <a name="purchase-rules-for-special-segments"></a>특수 세그먼트에 대한 구매 규칙
 
-파트너는 특정 조건을 충족 하는 경우 고객에 게 특별 한 제안을 판매할 수 있습니다. 
+파트너는 특정 조건을 충족하는 경우 고객에게 특별 행사 제품을 판매할 수 있습니다. 
 
 - 고객이 교육 기관으로 권한을 부여 받은 경우에만 교육 제공을 구매할 수 있습니다. 교육 고객은 교육 및 상업적 제품을 받을 수 있지만 비영리 또는 GCC (정부 커뮤니티 클라우드)는 받을 수 없습니다.
 - 파트너는 GCC 고객에 대 한 GCC 구독만 구매할 수 있습니다. 고객이 GCC 구독을 보유 한 경우 파트너는 상업적, 교육 및 비영리 구독을 구매할 수 없습니다. 

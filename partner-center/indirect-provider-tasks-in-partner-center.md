@@ -1,7 +1,7 @@
 ---
 title: CSP의 간접 대리점 파트너
 description: 간접 공급자나 배포자로 서 간접 재판매인과 함께 파트너를 확장 하는 방법에 대해 알아봅니다. 여기에는 파트너 센터에서 수행할 수 있는 작업이 포함 됩니다.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
@@ -9,18 +9,18 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377217"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545984"
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 간접 재판매인과 파트너
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 영업 상담원
@@ -49,7 +49,7 @@ ms.locfileid: "86377217"
 
 1. [Microsoft의 공식 간접 공급자 목록](https://partnercenter.microsoft.com/partner/find-a-provider)에서 회사 프로필을 검토 합니다.
 
-   - 회사의 간접 공급자 프로필을 변경 하려면 Microsoft 담당자에 게 문의 하세요.
+   - 회사의 간접 공급자 프로필을 변경하려면 Microsoft 담당자에게 문의하세요.
 
 2. 간접 대리점을 사용 하 여 연결
 

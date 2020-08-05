@@ -1,6 +1,6 @@
 ---
 title: CSP를 통해 온-프레미스 소프트웨어 판매
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434942"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545614"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>CSP (클라우드 솔루션 공급자) 프로그램을 통해 온-프레미스 소프트웨어 판매
 
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 
 CSP의 온-프레미스 소프트웨어는 클라우드 중심 프로그램에서 온-프레미스 소프트웨어를 도입 하 여 클라우드로 원활 하 게 전환할 수 있도록 지원 합니다.이 새로운 기능을 통해 모든 Microsoft 제품에 단일 플랫폼을 제공 하므로 부가 가치 파트너를 모든 구매 시나리오로 가져올 수 있습니다. 이제 CSP로 서 오픈, EA 및 현재 사용 중인 기타 프로그램 뿐만 아니라 파트너 센터를 통해 온-프레미스 소프트웨어를 판매할 수 있습니다. CSP의 온-프레미스 소프트웨어는 새로운 판매 프로그램으로, Microsoft의 다른 볼륨 라이선스 프로그램을 대체 하기 위한 것이 아닙니다. 
  

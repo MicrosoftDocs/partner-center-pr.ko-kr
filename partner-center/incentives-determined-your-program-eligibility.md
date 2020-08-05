@@ -1,19 +1,19 @@
 ---
 title: 프로그램 자격 확인
 description: 성과급 프로그램이 적합 한지 확인 하 여 유료 프로그램을 받을 수 있습니다.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 15b674a9e3c643de2899f3658b474c9209878880
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114779"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546004"
 ---
 # <a name="program-eligibility"></a>프로그램 자격
 
@@ -21,11 +21,11 @@ ms.locfileid: "87114779"
 
 - 파트너 센터
 
-각 인센티브 프로그램에는 자격에 대한 특정 요구 사항이 있습니다. 이러한 프로그램 자격 요구 사항은 모든 적절 한 계약을 서명 하 고, 역량을 획득 하 고, 수익을 예측 하 고, 성과급 프로그램이 성공 하는 데 필요한 기타 필수 구성 요소를 갖도록 설계 되었습니다.
+각 인센티브 프로그램에는 자격에 대한 특정 요구 사항이 있습니다. 이러한 프로그램 자격 요구 사항은 모든 적절한 계약에 서명하고, 역량을 확보하고, 수익을 예측하고, 인센티브 프로그램이 성공하는 데 필요한 기타 필수 조건을 갖도록 하기 위해 설계되었습니다.
 
 적절 한 역할:
 
-- 글로벌 관리자
+- 전역 관리자
 - 인센티브 관리자
 
 ## <a name="determining-your-program-eligibility"></a>프로그램 자격 확인

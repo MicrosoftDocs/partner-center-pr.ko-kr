@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114355"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545834"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Microsoft와의 성공적인 고객 통신을 위한 지침
 
@@ -28,3 +28,7 @@ ms.locfileid: "87114355"
 Microsoft는 서비스 인시던트 또는 기타 작업 정보에 대해 고객과 직접 통신할 수 있습니다.
 
 기존 상업적 관계가 Microsoft와 이미 있는 고객의 경우 Microsoft는 CSP가 아닌 제품 및 서비스에 대 한 직접 통신을 계속 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [Microsoft Office 365 관리 센터를 통해 또는 Azure Portal를 통해 고객 자가 지원](customer-self-support.md)

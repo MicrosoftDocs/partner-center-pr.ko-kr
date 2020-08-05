@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: 필요한 정보를 수집 하 고 만들어 성과급 프로그램에 대 한 성공적인 마케팅 계획을 생성 합니다.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114175"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546024"
 ---
 # <a name="create-your-plan"></a>계획 만들기
 
@@ -27,7 +27,7 @@ ms.locfileid: "87114175"
 
 - 인센티브 관리자
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 
 ## <a name="create-your-incentives-plan"></a>성과급 요금제 만들기
 

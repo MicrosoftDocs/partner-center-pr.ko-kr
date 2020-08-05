@@ -1,6 +1,6 @@
 ---
 title: 제품/제품 카탈로그 사용자 지정
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e08340aed63d0a274632d24047aa0890c7c2e2e
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 5c86c7414636aec9cee54c81c5cab0b69122e726
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365709"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545624"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>조직에 가장 적합 한 제품 또는 제품을 사용 하 여 Microsoft 카탈로그 사용자 지정
 
@@ -26,7 +26,7 @@ ms.locfileid: "87365709"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 영업 상담원
 
 카탈로그에는 고객에 게 제공할 수 있는 Microsoft 제품 및 추가 기능이 나열 됩니다. 이러한 제품은 기업, 중소기업 및 정부를 비롯 한 고객 세그먼트로 그룹화 됩니다. 회사에서 가장 많이 사용 하는 제품에 쉽게 액세스 하 고 판매 에이전트에 새로운 제품을 제공 하기 위해 카탈로그 목록의 맨 위에 최대 5 개의 제안을 고정할 수 있습니다.

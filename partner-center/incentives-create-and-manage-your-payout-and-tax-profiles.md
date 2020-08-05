@@ -1,21 +1,21 @@
 ---
 title: 파트너 센터에서 지급 및 세금 프로필 만들기 및 관리
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: 성과급 작업에 대 한 지불을 받으려면 먼저 지급 및 세금 프로필을 만들어야 합니다.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114085"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546044"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>파트너 센터의 지급 및 세금 프로필
+# <a name="payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 지급 및 세금 프로필
 
 적용 대상:
 
@@ -27,7 +27,7 @@ ms.locfileid: "87114085"
 
 - 인센티브 관리자
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 지급 및 세금 프로필 만들기 및 관리
 
@@ -85,11 +85,11 @@ ms.locfileid: "87114085"
     **은행 계좌 위치:** 회사의 은행이 있는 국가입니다.
     **지불 방법:** 선호 하는 지불 방법은 파트너 센터에서 전자 은행 전송입니다.
 
-2. **새로 만들기**를 선택합니다.
+2. **다음**을 선택합니다.
 
 3. **은행 계좌** 페이지에서 사용자 정보를 입력 합니다. 이 페이지에 표시 되는 필드는 국가별로 다를 수 있습니다. 
 
-4. **새로 만들기**를 선택합니다.
+4. **다음**을 선택합니다.
 
 5. **수혜자** 페이지에서 적절 한 정보를 입력 합니다. 수혜자는 회사에서 사용자 계정에 대해 논의 해야 하는 경우 은행에 연락 하는 사람입니다.
 
@@ -116,7 +116,7 @@ W8 또는 W9 양식을 완료 하는 방법에 대 한 정보가 필요한 경�
    - 회사가 미국에만 통합 되어 있거나 개인에 대 한 프로필 인 경우 왼쪽에 있는 옵션을 선택 합니다. 
    - 회사를 미국 외 지역에 통합 하는 경우 오른쪽의 옵션을 선택 하 고 목록에서 국가/지역을 선택 합니다.
 
-3. **새로 만들기**를 선택합니다. 
+3. **다음**을 선택합니다. 
 
 4. **세금 상태** 페이지에서 필요한 정보를 입력 하 고 **다음**을 선택 합니다. 이 페이지의 필드는 국가별로 다를 수 있습니다. 사용자의 세부 정보입니다. 
 

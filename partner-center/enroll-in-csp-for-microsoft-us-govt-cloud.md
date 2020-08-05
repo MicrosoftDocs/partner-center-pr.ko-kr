@@ -1,6 +1,6 @@
 ---
 title: CSP 프로그램에 등록
-ms.topic: article
+ms.topic: how-to
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ca8db8e2910b4825aab7bda27dfe61dbcd4ca9a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947538"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545864"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -25,7 +25,7 @@ ms.locfileid: "85947538"
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 
 Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에 대해 클라우드 솔루션 공급자 프로그램 (CSP)을 통해 Microsoft의 클라우드 솔루션 및 서비스를 미국 연방, 주, 지방 및 부족 엔터티에 판매할 수 있습니다. 
 
@@ -83,7 +83,7 @@ Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에
  
 ## <a name="connect-with-us"></a>연락 정보
 
-- 질문이 있으세요? 전자 메일 보내기azgovcsp@microsoft.com
+- 궁금한 점이 더 있나요? 전자 메일 보내기azgovcsp@microsoft.com
 
 - [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 에서 참가 
 

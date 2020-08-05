@@ -1,19 +1,19 @@
 ---
 title: 고객 연결 문제
 description: 요청 받은 레코드 파트너 (CPOR) 고객 연결을 사용할 때 발생 하는 문제를 해결 하는 방법을 알아봅니다.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114532"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546014"
 ---
 # <a name="customer-association-issues"></a>고객 연결 문제
 
@@ -26,7 +26,7 @@ ms.locfileid: "87114532"
 적절 한 역할:
 
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 인센티브 관리자
 
 ## <a name="domain-tenant-mismatch"></a>도메인-테 넌 트 불일치

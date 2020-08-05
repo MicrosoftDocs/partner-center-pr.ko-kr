@@ -1,21 +1,21 @@
 ---
-title: 성과급 지급 및 세금 프로필 Faq
+title: 인센티브 지급 및 세금 프로필 FAQ
 ms.topic: article
 ms.date: 07/21/2020
 description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264236"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545914"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>성과급 지급 및 세금 프로필 Faq
+# <a name="incentives-payout-and-tax-profile-faqs"></a>인센티브 지급 및 세금 프로필 FAQ
 
 적용 대상:
 
@@ -25,7 +25,7 @@ ms.locfileid: "87264236"
 
 - 인센티브 관리자
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>내 지급 및/또는 세금 세부 정보를 제공 해야 하는 이유는 무엇 인가요?
 
@@ -71,4 +71,4 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용되며 동일한 
 
 ## <a name="next-steps"></a>다음 단계
 
-- [파트너 센터의 지급 및 세금 프로필](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [파트너 센터에서 지급 및 세금 프로필](incentives-create-and-manage-your-payout-and-tax-profiles.md)

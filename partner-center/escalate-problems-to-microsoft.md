@@ -1,7 +1,7 @@
 ---
 title: Microsoft로 문제 에스컬레이션
 description: Microsoft 파트너가 고객에 대해 스스로 해결 해야 하는 문제 및 Microsoft로 에스컬레이션 해야 할 수 있는 문제에 대해 알아보세요.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: Kim-Davis
@@ -9,12 +9,12 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114161"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545854"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft로 문제를 에스컬레이션 하 고 Microsoft 에스컬레이션에 보다 적합 한 문제에 대해 알아봅니다.  
 
@@ -26,7 +26,7 @@ ms.locfileid: "87114161"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 영업 상담원
 - 기술 지원팀 상담원
 

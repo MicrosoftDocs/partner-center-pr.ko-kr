@@ -2,18 +2,18 @@
 title: 고객 제휴 보기
 description: 요청 된 레코드 파트너 (CPOR) 고객 연결을 관리 하기 위한 중요 한 프로세스 및 타임 라인을 이해 합니다.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114791"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545994"
 ---
 # <a name="manage-customer-associations"></a>고객 제휴 보기
 
@@ -26,7 +26,7 @@ ms.locfileid: "87114791"
 적절 한 역할:
 
 - 청구 관리자
-- 글로벌 관리자
+- 전역 관리자
 - 인센티브 관리자
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>CPOR association 클레임이 성과급과 어떻게 관련 되는지에 대 한
@@ -52,7 +52,7 @@ CPOR 연결 클레임이 승인 되 고 성과급으로 적합 한 경우에는 
 
 | 클레임 상태 | 표시 되는 경우 |
 | ------ | ----------- | 
-|  편집  | CPOR 연결 클레임이 생성 되었습니다. 실행 문서 증명을 업로드 하 고 승인을 위해 클레임을 제출할 때까지이 상태로 유지 됩니다.   |
+|  편집 중  | CPOR 연결 클레임이 생성 되었습니다. 실행 문서 증명을 업로드 하 고 승인을 위해 클레임을 제출할 때까지이 상태로 유지 됩니다.   |
 |  제출됨  | 파트너가 CPOR association 클레임을 성공적으로 제출 했지만 Microsoft에서 아직 검토 프로세스를 시작 하지 않았습니다.   |
 |  검토 중  | Microsoft에서 PoE 설명서의 유효성 검사를 시작 했습니다. 자세한 내용은 사용자에 게 문의할 수 있습니다. 검토 프로세스 SLA는 영업일 기준으로 5 일입니다.  |
 |  거부됨  | PoE이 부족 하거나 PoE 검토 지침에 따라 영업일 5 일 이내에 응답 하지 않았고 클레임이 거부 되었습니다.   |
