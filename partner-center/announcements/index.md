@@ -9,26 +9,28 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479086"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545544"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 7월 공지** | **발표** |
+| **범주** | **2020년 8월 공지** | **발표** |
 |---------|:---------|:---------|
-|기능|[Enterprise Voice 및 오디오 회의 확장 전화 접속 시작에 대한 변경 내용](2020-july.md#10)|7월 31일|
+|제품/시장|[새로운 Dynamics 365 Sales Premium 번들 제품](2020-august.md#2)|8월 3일|
+|제품/시장|[Visio 플랜 1 및 플랜 2 평가판 제품의 사용 가능성 발표](2020-august.md#1)|8월 3일|
+| **범주** | **2020년 7월 공지** | **날짜** |
+|제품/시장|[Enterprise Voice 및 오디오 회의 확장 전화 접속 시작에 대한 변경 내용](2020-july.md#10)|7월 31일|
 |기능|[파트너 센터 API에 대한 변경 내용](2020-july.md#9)|7월 28일|
 |기능|[.NET Standard v1.16.1-preview의 SDK 릴리스](2020-july.md#8)|7월 21일|
 |기능|[FY21을 위해 강화된 적격 Microsoft 상업용 Marketplace 제품에 대한 CSP(클라우드 솔루션 공급자) 인센티브](2020-july.md#7)|7월 22일|
 |기능|[파트너 센터의 Insights 보고서에 추가된 새로운 기능](2020-july.md#6)|7월 16일|
 |제품/시장|[클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](2020-july.md#5)|7월 15일|
-| 제품/시장 | [팀을 위한 새로운 Microsoft 365 Enterprise Voice SKU](2020-july.md#4) | 7월 3일 |
 | 제품/시장 | [새로운 기능 및 수명 종료 Microsoft Dynamics 365 및 Power Platform 제품](2020-july.md#3) | 7월 1일 |
 | 제품/시장 | [Microsoft가 Microsoft Kaizala Pro 독립 실행형 SKU의 판매를 종료함](2020-july.md#2) | 7월 1일 |
 | 기능 | [FY21 Q1을 통해 확장된 CSP 인센티브 프로그램](2020-july.md#1) | 7월 1일 |
