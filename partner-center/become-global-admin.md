@@ -1,6 +1,6 @@
 ---
 title: 회사의 글로벌 관리자 되기
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435642"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527389"
 ---
 # <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
 
@@ -56,4 +56,6 @@ ms.locfileid: "86435642"
 - 파트너 사용자 보기, 생성 및 관리
 - 클라우드 서비스 구입 및 관리
 
-역할과 사용 권한에 대한 자세한 내용은 [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)를 참조하세요. 
+## <a name="next-steps"></a>다음 단계
+
+- 역할과 사용 권한에 대한 자세한 내용은 [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)를 참조하세요. 

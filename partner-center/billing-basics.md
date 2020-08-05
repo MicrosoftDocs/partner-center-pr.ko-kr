@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435612"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468531"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업하는 CSP 프로그램 파트너용 청구 개요 
 
@@ -49,7 +49,7 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 
 ### <a name="billing-types"></a>청구 유형
 
-파트너 센터의 청구 유형에는 **라이선스 기반 청구**, **사용량 기반 청구** 및 **일회성 청구**가 있습니다. 자세한 내용은 [파트너 센터의 청구 유형](billing-different-types.md)에 대한 전체 설명을 참조하세요.
+파트너 센터의 청구 유형에는 **라이선스 기반 청구**, **사용량 기반 청구** 및 **일회성 청구**가 있습니다. 
 
 ### <a name="billing-currency"></a>청구 통화
 
