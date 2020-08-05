@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943561"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444897"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -55,7 +55,7 @@ Microsoft 파트너 계약에서는 다단계 인증을 사용자 계정에 적�
 - [파트너 보안 요구 사항](partner-security-requirements.md)에서 설명하는 모든 요구 사항을 충족해야 합니다.
 - 파트너 테넌트의 모든 사용자 계정에 다단계 인증이 적용되어 있는지 확인해야 합니다.
 
-작업을 수행할 수 있는 주요 영역을 식별하는 데 도움이 되도록 파트너 센터를 통해 사용할 수 있는 [보안 요구 사항 상태](https://partner.microsoft.com/pcv/security/compliance) 보고서를 제공합니다.
+작업을 수행할 수 있는 주요 영역을 식별하는 데 도움이 되도록 파트너 센터를 통해 사용할 수 있는 [보안 요구 사항 상태](https://partner.microsoft.com/commerce/security/compliance) 보고서를 제공합니다.
 
 상태 보고서에 대한 자세한 내용은 [파트너 보안 요구 사항 상태](partner-security-compliance.md)를 참조하세요.
 

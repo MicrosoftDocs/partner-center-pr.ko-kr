@@ -3,18 +3,18 @@ title: 참고자료 - 파트너 센터 청구 문서
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: 파트너 센터에서 청구 및 세금 항목에 대해 알아봅니다. 청구 리소스, 청구서, CSP 청구 및 세금에 대한 정보가 포함되어 있습니다.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435582"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527409"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>개요: 파트너 센터의 주요 청구 및 세금 문서
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435582"
 | ----- | ----------- |
 | [청구 기본 사항](billing-basics.md) | 파트너 센터 청구의 기본 사항(지급, 송장 및 조정 파일 포함)입니다. |
 | [청구 유형](billing-different-types.md) | 파트너 센터의 다양한 청구 유형에 대한 설명입니다. |
-| [월별 및 연간 청구 차이](billing-annual-monthly.md) | 월별 및 연간 청구 주기 간의 차이점에 대한 설명입니다. |
 | [요금 청구 방식](read-your-bill.md) | 파트너 센터 청구서를 읽고 이해하는 방법입니다. |
 | [무료 평가판](offer-your-customers-trials-of-microsoft-products.md) | 고객에게 평가판을 제공하는 방법 및 이러한 평가판의 요금 청구 방법입니다. |
 | [조정 파일](use-the-reconciliation-files.md) | 줄 항목에 대한 조정 파일을 읽고 사용하는 방법입니다. |

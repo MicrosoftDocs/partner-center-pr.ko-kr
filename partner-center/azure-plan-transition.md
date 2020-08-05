@@ -1,6 +1,6 @@
 ---
 title: 현재 Azure 제품에서 Azure 플랜으로 고객 이동
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 파트너가 파트너 센터를 사용하여 Azure 플랜에서 기존 CSP Azure 제품에서 Azure 서비스로 고객을 이동하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: a2a378107f5a376c78779066c62e8098ae1cdef8
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390350"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527509"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>기존 CSP Azure 제품에서 Azure 플랜으로 고객 전환
 

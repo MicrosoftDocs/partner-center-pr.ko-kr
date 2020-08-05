@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114692"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389132"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버 및 골드 역량 구입 또는 갱신
 
@@ -32,7 +32,7 @@ ms.locfileid: "87114692"
 - 관리 에이전트
 - 영업 상담원
 
-이제 Microsoft 파트너 네트워크(MPN.md)의 멤버는 파트너 센터 [대시보드]()에서 혜택 제품을 구입하거나 갱신할 수 있습니다. 이러한 제품에는 Microsoft Action Pack 구독과 실버 및 골드 역량이 포함됩니다.
+이제 Microsoft 파트너 네트워크(MPN.md)의 멤버는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에서 혜택 제품을 구입하거나 갱신할 수 있습니다. 이러한 제품에는 Microsoft Action Pack 구독과 실버 및 골드 역량이 포함됩니다.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>처음으로 Microsoft Action Pack 구입
 

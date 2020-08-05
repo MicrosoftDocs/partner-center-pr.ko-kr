@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944450"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433899"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -174,7 +174,7 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 
 - **테넌트 및 사용자를 보호하기 위해 권장되는 보안 요구 사항을 활성화하지 않은 경우** 즉시 활성화하여 규정 준수 상태를 유지하고 CSP에서 고객을 관리하거나 거래할 때 비즈니스 중단이 발생하지 않게 하세요. 보안 요구 사항을 구현하지 않는 파트너가 CSP 프로그램에 참여하면 위험에 노출될 수 있습니다.
 - 간접 공급자는 관련 이메일 템플릿을 사용하여 각자의 비즈니스에 대해 이 보안 요구 사항을 구현하고 재판매인과 협력하여 재판매인도 이 요구 사항을 구현하도록 해야 합니다. 또한 이메일 통신을 통해 재판매인에게 직접 연락합니다.
-- [파트너 센터 보안 요구 사항 상태 페이지](https://partner.microsoft.com/pcv/security/compliance)를 방문하여 진행 상황과 수행할 주요 작업을 확인하세요. 전역 관리자와 협력하여 각 테넌트의 보안 요구 사항 진행 상황을 정기적으로 확인하세요.
+- [파트너 센터 보안 요구 사항 상태 페이지](https://partner.microsoft.com/commerce/security/compliance)를 방문하여 진행 상황과 수행할 주요 작업을 확인하세요. 전역 관리자와 협력하여 각 테넌트의 보안 요구 사항 진행 상황을 정기적으로 확인하세요.
 - CPV(제어판 공급업체) 솔루션을 사용 중인 경우 CPV에게 문의하세요.
 
 ### <a name="additional-resources"></a>추가 리소스
