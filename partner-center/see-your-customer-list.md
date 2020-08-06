@@ -1,6 +1,6 @@
 ---
 title: 고객 목록 관리
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377747"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811263"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>고객 목록 관리-파트너 센터에서 고객 검색, 업데이트 또는 내보내기
 
@@ -39,7 +39,7 @@ ms.locfileid: "86377747"
 2.  고객을 검색하려면 검색 상자에 고객 이름 또는 도메인 이름을 입력합니다.
 3.  고객 행의 끝에 있는 **아래쪽 화살표** 를 선택 하 여 Microsoft ID와 연결 된 구독 및 서비스 빠른 링크를 확인 합니다.
 4.  고객의 **청구서** 정보에서 회사 이름을 업데이트 합니다. 새 값을 저장 하면 고객 목록에 반영 됩니다. 이렇게 하면 청구 대상 회사 이름과 고객 목록 값만 변경 됩니다. 다른 위치에는 반영 되지 않습니다.
-<sup>1</sup>
+
 ## <a name="export-your-customer-list"></a>고객 목록 내보내기
 
 1. **파트너 센터** 메뉴에서 **고객**을 선택 합니다.
@@ -55,7 +55,7 @@ ms.locfileid: "86377747"
     기본적으로 파트너 센터는 길이에 관계 없이 전체 고객 목록을 내보냅니다. 회사 이름 또는 도메인을 기준으로 고객 목록을 검색 하 고 해당 데이터 하위 집합을 내보낼 수도 있습니다.
 
 3. 간접 공급자 인 경우 간접 재판매인을 기준으로 고객 목록을 필터링 할 수 있습니다. 목록에서 **간접 재판매인의 필터** 를 선택 하 고 대리점을 선택 합니다.
-<sup>1</sup>
+
 
 ## <a name="export-customer-subscription-information"></a>고객 구독 정보 내보내기
 

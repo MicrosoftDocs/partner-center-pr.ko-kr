@@ -1,6 +1,6 @@
 ---
 title: 고객 대신 문제 보고
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389142"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811323"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 

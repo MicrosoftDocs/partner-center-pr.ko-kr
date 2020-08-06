@@ -1,6 +1,6 @@
 ---
 title: 직접 청구 파트너를 간접 재판매인으로 전환
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444997"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811193"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -27,7 +27,7 @@ ms.locfileid: "87444997"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>시작
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 

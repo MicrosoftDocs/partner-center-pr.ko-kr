@@ -1,7 +1,7 @@
 ---
 title: 라이선스 기반 고객을 CSP 프로그램으로 이동
 description: 다른 채널 또는 다른 파트너의 라이선스 기반 고객을 파트너 센터의 CSP (클라우드 솔루션 공급자) 프로그램으로 이동 하는 방법에 대해 알아봅니다.
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444555"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811133"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>다른 채널 & 파트너가 클라우드 솔루션 공급자 프로그램으로 라이선스 기반 고객 이동
 

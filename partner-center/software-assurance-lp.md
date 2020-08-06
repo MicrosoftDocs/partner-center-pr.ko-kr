@@ -3,18 +3,18 @@ title: Software Assurance 프로그램
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 비즈니스를 구축 하 고 기업 고객에 게 교육 및 계획을 제공 하기 위해 보상을 받을 수 있도록 소프트웨어 보증 프로그램에 등록 합니다.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc3aa2a5bb9059211b74f35ed43147e754bbf05
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 60034f1810db7fbf48db5c42d1f36f81f8e227e3
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390260"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811213"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>교육 바우처 및 계획 서비스를 비롯 한 소프트웨어 보증 프로그램 참여
 

@@ -3,18 +3,18 @@ title: CPOR 모델을 통해 고객 연결 만들기
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: CPOR (레코드 파트너 클레임) 모델을 통해 고객 연결을 만듭니다. Microsoft 365 및 Dynamics 365 고객에 대 한 판매, 사용량 &의 성과급을 관리 하는 데 도움이 됩니다.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468353"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811183"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>CPOR 모델을 통해 고객 연결 만들기 – Microsoft 365 및 Dynamics 365 고객에 사용
 
