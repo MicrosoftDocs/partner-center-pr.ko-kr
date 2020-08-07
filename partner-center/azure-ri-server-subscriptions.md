@@ -1,7 +1,7 @@
 ---
 title: Azure 예약 & 서버 구독
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객에 대 한 Azure 예약 및 서버 구독을 획득, 프로 비전 및 관리 하기 위한 클라우드 솔루션 공급자 기회에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943950"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900091"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
@@ -25,11 +25,15 @@ ms.locfileid: "86943950"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
- 
+
+> [!NOTE]
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
+
+
 ## <a name="what-are-azure-reservations"></a>Azure Reservations란?
 
 Azure Reservations 1 년 또는 3 년간의 가상 머신에 대해 사전 지불 하 여 비용을 절감 하는 데 도움을 줍니다. 계산 용량, Azure Cosmos DB 처리량 또는 기타 Azure 리소스를 SQL Database 합니다. 선결제하면 사용하는 리소스 요금에 대한 할인을 받을 수 있습니다. 예약은 종 량 제 가격과 비교 하 여 가상 머신, SQL database 계산, Azure Cosmos DB 및 기타 리소스 비용을 최대 72%까지 크게 줄일 수 있습니다. 예약은 청구 할인을 제공하며, 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 [Azure Reservations 정의](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) 를 참조 하세요.
@@ -117,7 +121,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 - [Azure Databricks 단위 예약](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - CSP 가격 목록: **Microsoft Azure 예약 인스턴스** 및 **소프트웨어 구독** 가격표는 파트너 센터 [가격 책정 & 제품](https://partner.microsoft.com/pcv/sales) 페이지에 모두 있습니다.
 
-### <a name="training"></a>교육
+### <a name="training"></a>학습
 
 등록 하 여 [상업적 라이선스 준비 웹 세미나](https://commercial-licensing.eventbuilder.com/FY2019_ALL) 및 주문형 이벤트를 확인 합니다.
 

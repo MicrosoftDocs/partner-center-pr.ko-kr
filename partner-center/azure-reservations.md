@@ -1,7 +1,7 @@
 ---
 title: 고객 Microsoft Azure 예약 판매
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 클라우드 솔루션 공급자는 고객에 대 한 Azure 예약을 구입, 판매 또는 관리할 수 있습니다. 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 합니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435732"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900083"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>파트너 센터, Azure Portal 또는 Api를 사용 하 여 고객에 게 Microsoft Azure 예약 판매
 
@@ -22,22 +22,25 @@ ms.locfileid: "86435732"
 
 - 파트너 센터
 - Microsoft Azure Portal
-- CSP의 파트너
+- CSP 프로그램의 파트너
 
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
 
-CSP (클라우드 솔루션 공급자 프로그램)의 파트너는 고객에 게 Microsoft Azure 예약을 제공할 수 있습니다. 고객은 사전에 대비 하 여 상당한 비용을 절감할 수 있습니다. Azure 예약은 다음과 같은 방식으로 고객의 단순성 및 유연성을 제공 합니다.
+> [!NOTE]
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
+
+CSP 프로그램의 파트너는 고객에 게 Microsoft Azure 예약을 제공할 수 있습니다. 고객은 사전에 대비 하 여 상당한 비용을 절감할 수 있습니다. Azure 예약은 다음과 같은 방식으로 고객의 단순성 및 유연성을 제공 합니다.
 
 - 1 년 또는 3 년 예약 용어
 - 쉽게 시작할 수 있습니다. 설치가 완료 된 시간 (초)
 - 조정 된 환불을 위해 언제 든 지 예약 된 인스턴스 취소 또는 교환
-- 조직 또는 개별 부서 수준에서 예약 인스턴스 사용을 관리 합니다. 
+- 조직 또는 개별 부서 수준에서 예약 인스턴스 사용을 관리 합니다.
 
 Azure 예약은 다음과 같은 방식으로 고객에 게 더욱 매력적인 효과를 가질 수 있습니다.
 

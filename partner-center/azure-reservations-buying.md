@@ -1,7 +1,7 @@
 ---
 title: 고객에 대 한 Microsoft Azure 예약 구입
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435772"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900104"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 
@@ -27,10 +27,13 @@ ms.locfileid: "86435772"
 **적절한 역할**
 
 - 관리 에이전트
-- 글로벌 관리자
+- 전역 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
+ 
+> [!NOTE]
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
 
 ## <a name="before-you-begin"></a>시작하기 전에
 

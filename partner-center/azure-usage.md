@@ -1,7 +1,7 @@
 ---
 title: 최대 예약 사용량에 맞게 Azure VM 크기 조정
 ms.topic: how-to
-ms.date: 07/08/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: VM에 대 한 Microsoft Azure 예약을 구매할 때 고객의 컴퓨팅 요구에 따라 VM (가상 머신)의 크기를 조정 하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527449"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900114"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용에 대한 Microsoft Azure VM 크기 조정
 
@@ -22,7 +22,10 @@ ms.locfileid: "87527449"
 
 - 파트너 센터
 - Azure portal
-- CSP의 파트너
+- CSP 프로그램의 파트너
+ 
+> [!NOTE]
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>고객의 Azure 예약에 대 한 VM 크기 결정
 
@@ -103,7 +106,7 @@ ms.locfileid: "87527449"
 
     a. 예약의 사용률이 100% 인 경우 고객은 예약 구매가 제공할 수 있는 모든 절감 액을 얻을 수 있습니다.
     b. 예약의 사용량이 0% 이면 모든 가상 머신에 할인이 적용 되지 않습니다.
-    c. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
+    다. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
 
 5. 이러한 상황을 방지 하려면 구매를 수행 하기 전에 고객의 컴퓨팅 요구를 지원 하도록 올바른 크기의 VM을 결정 합니다.
 
