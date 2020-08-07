@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545544"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811163"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "87545544"
 
 | **범주** | **2020년 8월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[이제 새로운 Microsoft Teams 고급 통신 SKU를 사용할 수 있습니다.](2020-august.md#4)|8월 4일|
+|제품/시장|[9월에 제공되는 교육용 서버를 위한 Microsoft Defender ATP(Advanced Threat Protection)](2020-august.md#3)|8월 4일|
 |제품/시장|[새로운 Dynamics 365 Sales Premium 번들 제품](2020-august.md#2)|8월 3일|
 |제품/시장|[Visio 플랜 1 및 플랜 2 평가판 제품의 사용 가능성 발표](2020-august.md#1)|8월 3일|
 | **범주** | **2020년 7월 공지** | **날짜** |
@@ -48,7 +50,7 @@ ms.locfileid: "87545544"
 | 기능 | [Americas Operations Center 주소 변경](2020-may.md#3) | 5월 15일 |
 | 기능 | [Microsoft가 Microsoft Kaizala Pro 독립 실행형 SKU 판매 종료](2020-may.md#2) | 5월 7일 |
 | 기능 | [교육 프로그램에서 새 RPA(로봇 프로세스 자동화) 제품 사용 가능](2020-may.md#1) | 5월 1일 |
-| **카테고리** | **2020년 4월 공지** | **날짜** |
+| **범주** | **2020년 4월 공지** | **날짜** |
 | 기능 | [Office 365를 위해 업데이트된 CSP 프로모션](2020-april.md#14) | 4월 30일 |
 | 기능 | [Azure Reservations 파트너 권한이 포함된 새로운 고객 셀프 서비스 기능](2020-april.md#13) | 4월 29일 |
 | 제품/시장 | [Microsoft는 Microsoft 365 E3의 CSP EUR 가격을 되돌림](2020-april.md#12) | 4월 24일 |

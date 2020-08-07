@@ -1,6 +1,6 @@
 ---
 title: CSP 파트너용 Azure 플랜 가격표
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6beb9dfe12eb50a1c6185ac251c19c089f760978
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435792"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527559"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표
 
@@ -88,7 +88,19 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 |MeterType|미터 유형|
 |태그|항목의 속성. Azure 플랜 가격 책정의 경우 Azure 또는 Azure Reservations(구체적으로 예약의 경우)|
 
-Azure 플랜 가격표는 [Azure 플랜 가격 책정 및 Marketplace 페이지](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)에서 내보낼 수 있습니다.
+Azure 플랜 가격표는 파트너 센터의 [가격 책정 및 제품 페이지](https://partner.microsoft.com/dashboard/sell/pricingandoffers)에서 내보낼 수 있습니다.
+
+## <a name="tiered-pricing"></a>계층형 가격 책정
+
+일부 Azure 플랜 사용 서비스는 계층형 가격 책정을 지원합니다. 파트너는 Azure 플랜 가격표에서 이러한 제품과 SKU를 찾을 수 있습니다. 가격 책정 계층 범위 열에 값이 있는 항목을 통해 파트너는 사용량 기준 가격을 이해할 수 있습니다. 샘플 데이터를 사용하는 아래 예제를 보시면 제품 SKU 하나에 세 가지 가격 책정 계층이 있습니다.
+
+|**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
+|DDD123456ABC|01AB|.50|100001|9223372036854780000|
+|DDD123456ABC|01AB|.80|101|100000|
+|DDD123456ABC|01AB|1|1|100|
+
+이 예제에서 101 단위를 사용하면 요금은 100.80입니다. 처음 100단위는 단위당 1, 그 다음부터는 단위당 .80이 청구됩니다.
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure 플랜 가격 책정 API
 
@@ -99,6 +111,6 @@ Azure 플랜 가격표는 [Azure 플랜 가격 책정 및 Marketplace 페이지]
 또한 Azure 플랜 가격이 USD로만 책정되므로 이 API를 사용하면 파트너가 월별 환율을 검색할 수 있습니다. API를 사용하여 이번 달 또는 이전 달의 가격 책정 및 환율을 모두 검색할 수 있습니다.
 
 >[!NOTE]
-> 가격 책정 API는 Azure 플랜 가격 책정에만 적용됩니다. Azure 플랜 이외의 구독에 배포된 Azure 리소스 또는 예약의 경우 파트너 센터의 "가격 책정 및 제품" 페이지에 게시된 기존 RateCard API 및 가격표를 계속 사용해야 합니다. Azure 플랜 가격 책정 API는 Microsoft 365 또는 Dynamics 365와 같은 소프트웨어, 마켓플레이스 또는 사용자 기반 가격 책정을 지원하지 않습니다.
+> 가격 책정 API는 Azure 플랜 가격 책정에만 적용됩니다. Azure 플랜 이외의 구독에 배포된 Azure 리소스 또는 예약의 경우 파트너 센터의 "가격 책정 및 제품" 페이지에 게시된 기존 RateCard API 및 가격표를 계속 사용해야 합니다. Azure 플랜 가격 책정 API는 Microsoft 365 또는 Dynamics 365와 같은 소프트웨어, 마켓플레이스 또는 라이선스 기반 가격 책정을 지원하지 않습니다.
 
 Azure 플랜 가격 책정 및 환율 API에 대한 자세한 내용은 전체 [가격 책정 API 설명서](https://docs.microsoft.com/partner/develop/pricing)를 참조하세요.

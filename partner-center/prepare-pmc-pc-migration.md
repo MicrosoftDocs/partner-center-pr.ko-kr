@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114569"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433888"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
@@ -117,7 +117,6 @@ Microsoft는 현재 역량, 혜택, 위치 정보, 인센티브 지급을 위한
 
 MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독을 게스트 사용자에게 할당할 수 있지만 게스트 사용자는 해당 MSA를 사용하여 파트너 센터에 로그인할 수 없습니다. 그러나 게스트 사용자는 Azure 및 Visual Studio에 로그인하여 할당된 혜택을 확인하고 사용할 수 있습니다.
 
-
  **MCP 연결 및 파트너 대학 액세스를 어떻게 관리해야 하나요?**
 
  PMC에서 이동하는 MCP 연결은 아무 것도 달라지지 않습니다. 그러나 파트너 센터로 이동한 이후의 신규 직원은 파트너 센터에서 연결해야 합니다. 기존 사용자의 모든 파트너 대학 권한은 그대로 유지되지만, 신규 직원은 [교육 센터](https://partner.microsoft.com/training)로 이동하여 파트너 대학 액세스 권한을 얻는 방법을 확인해야 합니다.
@@ -137,7 +136,9 @@ MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독�
 
 **파트너 센터로 이동하면 인센티브에 영향이 있나요?**
 
-아니요, 위치를 통합하지 않고 계정을 이동한 경우에는 인센티브에 영향을 주지 않습니다. 회사가 PMC에서 계정을 여러 개 가지고 있는데 파트너 센터로 이동할 때 글로벌 계정 하나에 통합하기로 결정하는 경우에는 인센티브 손실이 발생하지 않지만 인센티브 지급이 지연될 수 있습니다. 인센티브 프로그램과 관련된 PMC 계정 중 일부를 이동하지 않으면 해당 계정과 연결된 인센티브를 더 이상 받을 수 없게 될 수도 있습니다.
+아니요, 위치를 통합하지 않고 계정을 이동한 경우에는 인센티브에 영향을 주지 않습니다. 회사가 PMC에서 계정을 여러 개 가지고 있는데 파트너 센터로 이동할 때 글로벌 계정 하나에 통합하기로 결정하는 경우에는 인센티브 손실이 발생하지 않지만 인센티브 지급이 지연될 수 있습니다. 
+
+인센티브 프로그램과 관련된 PMC 계정 중 일부를 이동하지 않으면 해당 계정과 연결된 인센티브를 더 이상 받을 수 없게 될 수도 있습니다.
 
 
 **파트너 센터의 인센티브 역할은 무엇인가요?** 
@@ -160,7 +161,12 @@ MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독�
 
 추천은 고객이 정의하는 검색 매개 변수를 기반으로 할당됩니다. 파트너의 위치 수와 상관없이, 고객이 원하는 위치를 지정하고 다른 매개 변수를 충족하는 파트너의 회사가 그 위치에 있다면 해당 위치로 추천이 이동합니다.
 
+**러시아 내에서 파트너 센터로 마이그레이션하는 중입니다. 웹 다이렉트에 대한 오류 메시지가 표시됩니다. 마이그레이션을 계속 진행하려면 어떻게 할까요?**
 
+웹 다이렉트 프로그램에 참여하고 있어서 오류 메시지가 표시되는 경우에는 다음을 수행해야 합니다.
+
+1. portal.Azure.com에 로그인하여 새 Azure AD 테넌트를 만듭니다. 자세한 내용은 [새 Azure AD 테넌트 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)를 참조하세요.
+1. 새 Azure AD 테넌트를 만든 후에는 해당 테넌트를 사용하여 Partner Membership Center에서 파트너 센터로 마이그레이션하거나 파트너 센터에서 순 신규 고객으로 등록합니다.
 
 
 

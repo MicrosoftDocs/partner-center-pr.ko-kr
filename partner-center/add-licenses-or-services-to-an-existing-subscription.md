@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객의 구독을 업그레이드하거나 수정하는 방법을 알아보세요. 라이선스를 추가하거나, 더 많은 사용자를 추가하거나, 더 많은 서비스를 보유한 다른 버전으로 이동합니다.
+description: 고객의 구독을 업그레이드하거나 수정하는 방법을 알아보세요. 라이선스를 추가하거나 더 많은 서비스를 보유한 다른 버전으로 이동합니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436362"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468782"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스, 사용자 및 기타 서비스 추가
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스 또는 서비스 추가
 
 **적용 대상**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436362"
 - 영업 상담원
 - 기술 지원팀 상담원
 
-고객이 현재 구독에서 제공하는 것보다 많은 사용자 수를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
+고객이 현재 구독에서 제공하는 것보다 많은 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
 
-## <a name="upgrades-supported-in-the-csp-program"></a>CSP 프로그램에서 지원되는 업그레이드 <a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>CSP 프로그램에서 지원되는 업그레이드 <a id="upgradesubscription"></a>
 
 클라우드 솔루션 공급자에서 지원하는 업그레이드는 다음과 같습니다.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>제품</th>
-<th>가능한 업그레이드</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>비즈니스용 Microsoft 365 앱</td>
-<td><ul>
-<li>Microsoft 365 Business Premium¹</li>
-<li>엔터프라이즈용 Microsoft 365 앱</li>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 Business Standard</td>
-<td><ul>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 Business Basic</td>
-<td><ul>
-<li>Microsoft 365 Business Standard¹</li>
-<li>Office 365 Enterprise E1</li>
-<li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ 비즈니스용 Microsoft 365 Apps India 및 Microsoft 365 Business Basic India는 Microsoft 365 Business Standard India로 업그레이드할 수 있으나 Microsoft 365 Business Standard로 업그레이드할 수는 없습니다.</p></td>
-</tr>
-</tbody>
-</table>
+| 제품 | 가능한 업그레이드|
+|---:|:---|
+| 비즈니스용 Microsoft 365 앱   | - Microsoft 365 Business Premium¹ <br/>  - 엔터프라이즈용 Microsoft 365 앱 <br/> - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Standard    | - Office 365 Enterprise E3 <br/> - Office 365 Enterprise E5 <br/> |
+| Microsoft 365 Business Basic | - Microsoft 365 Business Standard¹ <br/> - Office 365 Enterprise E1 <br/> - Office 365 Enterprise E3<br/> - Office 365 Enterprise E5 <br/> |
+
+¹ 비즈니스용 Microsoft 365 Apps India 및 Microsoft 365 Business Basic India는 Microsoft 365 Business Standard India로 업그레이드할 수 있으나 Microsoft 365 Business Standard로 업그레이드할 수는 없습니다.
+
+
+## <a name="conditions"></a>조건
 
 이러한 조건이 적용되는 경우 구독을 업그레이드할 수 있습니다.
 
@@ -93,7 +60,7 @@ ms.locfileid: "86436362"
 
 후자의 두 경우에는 고객이 다른 파트너나 다른 채널에서 해당 구독 또는 서비스를 구입했을 수 있으며, 기존 구독을 먼저 취소하지 않으면 구독을 구입할 수 없습니다. 자세한 내용은 [다중 채널](multichannel.md)을 참조하세요.
 
-청구에 미치는 영향에 대한 자세한 내용은 [일반적인 청구 시나리오](common-billing-scenarios.md)에서 구독 취소 및 새 구독 추가에 세부 정보를 참조하세요.
+청구에 미치는 영향에 대한 자세한 내용은 [일반적인 청구 시나리오](common-billing-scenarios.md)에서 구독을 취소하는 방법 및 새 구독을 추가하는 방법을 참조하세요.
 
 ## <a name="upgrade-a-subscription"></a>구독 업그레이드
 

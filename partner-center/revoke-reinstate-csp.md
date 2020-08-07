@@ -1,7 +1,7 @@
 ---
 title: Azure CSP에 대한 관리자 권한 복구
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너가 고객의 Azure CSP 구독을 관리할 수 있도록 고객이 파트너의 관리자 권한을 복구하도록 돕는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949253"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412429"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>고객의 Azure CSP 구독에 대한 관리자 권한 복구  
 
@@ -49,7 +49,7 @@ CSP에는 Azure에 대한 다음 두 가지 수준의 관리자 권한이 있습
 
 고객은 관리 에이전트 그룹을 Azure CSP 구독 소유자로 추가해야 합니다.
 
-1. PowerShell 콘솔 또는 PowerShell ISE(통합 스크립팅 환경)를 사용합니다. AzureRM 및 AzureAD 모듈이 설치되어 있는지 확인합니다.
+1. PowerShell 콘솔 또는 PowerShell ISE(통합 스크립팅 환경)를 사용합니다. AzureAD 모듈이 설치되어 있는지 확인합니다.
 
 2. Azure AD 테넌트에 연결합니다.
 
@@ -62,24 +62,19 @@ CSP에는 Azure에 대한 다음 두 가지 수준의 관리자 권한이 있습
    ```powershell
    Get-AzureADGroup
    ```
-
-   :::image type="content" source="images/azure/revoke5.png" alt-text="관리 에이전트 그룹":::
-
    다음 단계는 Azure CSP 구독에 대한 소유자 액세스 권한이 있는 고객 회사의 사용자가 수행합니다.
 
-4. Azure CSP 구독에 대한 소유자 액세스 권한이 있는 사용자는 자신의 자격 증명을 사용하여 Azure Resource Manager에 로그인합니다.
+4. Azure CSP 구독에 대한 소유자 액세스 권한이 있는 사용자는 자신의 자격 증명을 사용하여 Azure에 로그인합니다.
 
    ```powershell
-   Login-AzureRMAccount
+   Connect-AzAccount
    ```
 
 5. 그런 다음, 관리 에이전트 그룹을 소유자로 CSP Azure 구독에 추가할 수 있습니다.
 
     ```powershell
-    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
     ```
-
-   :::image type="content" source="images/azure/revoke6.png" alt-text="관리 에이전트 소유자":::
 
 ## <a name="next-steps"></a>다음 단계
 

@@ -1,6 +1,6 @@
 ---
 title: Microsoft 고객 계약에 대한 고객의 동의 확인
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df7dadbf9d2e6d1cc685b888ea2ae18436c8abf
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 66be96fe8621089bda8dae546b804320d05fcb25
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435432"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527826"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
 
@@ -199,6 +199,6 @@ ms.locfileid: "86435432"
 |2019년 8월 1일|샌드박스 환경에서 UX 미리 보기 사용 가능|파트너는 CSP 샌드박스 환경에서 파트너 센터 대시보드를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. CSP 샌드박스 환경에 액세스할 수 있는 파트너는 사용자 환경 변경 사항을 미리 볼 수 있습니다. 샌드박스 액세스 권한이 없는 파트너는 이 항목의 변경 사항에 대해 알아볼 수 있습니다.|
 |2019년 9월 3일|샌드박스 환경에서 API 미리 보기를 사용할 수 있습니다.|파트너는 CSP 샌드박스 환경에서 파트너 센터 API를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. API 파트너는 이 기회를 사용하여 API 변경 사항을 미리 보고 API 통합 작업을 시작하여 새 계약을 지원할 수 있습니다.|
 |2019년 9월 20일|샌드박스 환경에서 .NET SDK 미리 보기를 사용할 수 있습니다.|파트너는 CSP 샌드박스 환경에서 파트너 센터 .NET SDK를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. API 파트너는 이 기회를 사용하여 .NET SDK 변경 사항을 미리 보고 API 통합 작업을 시작하여 새 계약을 지원할 수 있습니다.|
-|2019년 10월 1일|프로덕션 환경에서 Microsoft 고객 계약 사용 가능|Microsoft는 CSP 프로그램에 Microsoft 클라우드 계약을 대체하는 Microsoft 고객 계약을 도입합니다. 파트너는 프로덕션 환경에서 파트너 센터 대시보드 및 API를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. Microsoft 클라우드 계약은 CSP 파트너 프로그램 내에서 계속 지원됩니다. 그러나 파트너는 Microsoft 고객 계약으로 마이그레이션을 시작하는 것이 좋습니다. 신규 구매 및 기존 구독의 사용자 수 변경에는 Microsoft 고객 계약 또는 Microsoft 클라우드 계약의 파트너 확인이 필요합니다. 특정 새 제품(예: 새 Azure 요금제)은 Microsoft 고객 계약을 확인해야 합니다.|
-|2020년 1월 31일|프로덕션 환경에서 Microsoft 클라우드 계약이 제거됨|Microsoft 클라우드 계약은 CSP 파트너 프로그램 내에서 더 이상 허용되지 않습니다. 신규 구매 및 기존 구독의 사용자 수 변경에는 Microsoft 고객 계약의 파트너 확인이 필요합니다. 이 요구 사항은 새 고객과 이전에 Microsoft 클라우드 계약에 동의한 기존 고객에게 적용됩니다.|
+|2019년 10월 1일|프로덕션 환경에서 Microsoft 고객 계약 사용 가능|Microsoft는 CSP 프로그램에 Microsoft 클라우드 계약을 대체하는 Microsoft 고객 계약을 도입합니다. 파트너는 프로덕션 환경에서 파트너 센터 대시보드 및 API를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. Microsoft 클라우드 계약은 CSP 파트너 프로그램 내에서 계속 지원됩니다. 그러나 파트너는 Microsoft 고객 계약으로 마이그레이션을 시작하는 것이 좋습니다. 신규 구매 및 기존 구독의 라이선스 수 변경에는 Microsoft 고객 계약 또는 Microsoft 클라우드 계약의 파트너 확인이 필요합니다. 특정 새 제품(예: 새 Azure 요금제)은 Microsoft 고객 계약을 확인해야 합니다.|
+|2020년 1월 31일|프로덕션 환경에서 Microsoft 클라우드 계약이 제거됨|Microsoft 클라우드 계약은 CSP 파트너 프로그램 내에서 더 이상 허용되지 않습니다. 신규 구매 및 기존 구독의 라이선스 수 변경에는 Microsoft 고객 계약의 파트너 확인이 필요합니다. 이 요구 사항은 새 고객과 이전에 Microsoft 클라우드 계약에 동의한 기존 고객에게 적용됩니다.|
 |2020년 2월 3일|파트너는 이제 URL을 통해 고객을 초대하여 인증된 Microsoft 365 관리 센터에서 계약을 검토하고 동의할 수 있습니다. | 고객은 Microsoft 365 관리 센터에서 Microsoft 고객 계약에 동의할 수 있습니다. 고객이 Microsoft 365 관리 센터에서 계약에 직접 동의하면 약관의 승인이 확인됩니다. 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7cbf049d2a65fd9738299e090e8ab40107d64f89
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875169"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444592"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP 프로그램에서 Azure 제품 간의 차이점 비교
 
@@ -32,11 +32,11 @@ ms.locfileid: "86875169"
 
 다음 표에서는 새로운 Microsoft 상거래 환경의 일부인 CSP 프로그램 제품 간의 주요 차이점에 대한 개요를 제공합니다.
 
-|**제품**| **Azure 플랜**|**타사 마켓플레이스 제품**|**Azure Reservations**|**CSP를 통해 판매되는 서버 구독**|**사용자 수 기준 제품**|
+|**제품**| **Azure 플랜**|**타사 마켓플레이스 제품**|**Azure Reservations**|**CSP를 통해 판매되는 서버 구독**|**라이선스 기반 제품**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |청구|매월|변동(제품에 따라 다름)|최종 고객|전체 기간 또는 3년 선불|월별 또는 연간|
 |라이선스|최종 고객|변동(제품에 따라 다름)|최종 고객| 최종 고객|최종 고객|
-|적용 조건|취소할 때까지 활성|변동(제품에 따라 다름)|제품 설명 참조|모든 Azure 예약에는 고유한 적용 기간이 있습니다. 모든 서버 구독에는 고유한 적용 기간이 있습니다.|   추가 사용자 수 기반 라이선스에는 기존 적용 기간 적용|
+|적용 조건|취소할 때까지 활성|변동(제품에 따라 다름)|제품 설명 참조|모든 Azure 예약에는 고유한 적용 기간이 있습니다. 모든 서버 구독에는 고유한 적용 기간이 있습니다.|   추가 라이선스에는 기존 적용 기간 적용|
 |자동 갱신|예|예|아니요| 아니요|예|
 |다중 통화|고객 위치/통화 기반 청구서|고객 위치/통화 기반 청구서|고객 위치/통화 기반 청구서|고객 위치/통화 기반 청구서|파트너 위치 통화 기반| 
 |청구서 및 조정 파일|고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.  일일 평가 사용량 파일도 제공할 예정입니다(청구 및 미청구 부분 모두). |고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.|고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.|고객 위치 통화마다 청구서 및 조정 파일을 구분합니다.|한 청구서와 조정 파일의 모든 주문|
