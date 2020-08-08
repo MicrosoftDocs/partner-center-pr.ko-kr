@@ -4,17 +4,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 분석을 사용 하 여 간접 재판매인이 수행 하는 작업을 파악 하 고, 성공 및 영역에서 더 많은 주의가 필요할 수 있습니다.
-author: amitravat
-ms.author: amrava
+author: shganesh
+ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436132"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998359"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>분석을 사용 하 여 간접 대리점의 성능 분석
 
