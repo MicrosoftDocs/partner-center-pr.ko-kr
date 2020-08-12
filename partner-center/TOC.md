@@ -102,6 +102,7 @@
 ### [비즈니스 프로필 분석](analyze-your-marketing-profile.md)
 ## 인센티브
 ### 인센티브 시작
+#### [시작](incentives-get-started-intro.md)
 #### [프로그램 자격 확인](incentives-determined-your-program-eligibility.md)
 #### [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [인센티브 지급 및 세금 프로필 FAQ](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [인센티브 지급 및 프로그램 보기](understand-incentive-payouts.md)
 #### [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)
 ### 실행 계획 및 증명서
+#### [계획 및 PoE 정보](incentives-plans-proofs-intro.md)
 #### [계획 만들기](incentives-create-your-plan.md)
 #### [실행 증명서 준비](incentives-prepare-your-proof-of-execution.md)
 ### 인센티브 협업 클레임
-#### [인센티브](claims-overview.md)
+#### [협업 클레임 정보](claims-overview.md)
 #### [인센티브 협업 클레임 만들기 및 관리](create-incentives-claims.md)
 #### [인센티브 협업 클레임을 위한 핵심 요구 사항](core-requirements.md)
 #### [협업 클레임 승인 및 결제 마감일](incentives-managing-co-op-claims.md)
 ### 인센티브 CPOR 제휴 클레임
+#### [CPOR 연결 정보](incentives-customer-associations-intro.md)
 #### [CPOR 모델을 사용하여 고객 연결 만들기](submit-osa-claim.md)
 #### [고객 제휴 보기](incentives-manage-customer-associations.md)
 #### [고객 제휴 문제](incentives-customer-association-issues.md)
