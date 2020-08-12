@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객을 위한 종량제 요금으로 Azure 서비스를 구입하는 Azure 플랜 상거래 환경에 대해 알아봅니다. 새 보안 요구 사항에 대해서도 알아봅니다.
-author: amrava
-ms.author: amrava
+author: rbars
+ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 339aaff4eb943c10aaef2c171ff505b6e9dad7b6
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435802"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998382"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>소개: 파트너가 Azure 플랜을 통해 고객을 위한 종량제 요금으로 Azure 구매 가능
 

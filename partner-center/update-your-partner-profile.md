@@ -5,16 +5,16 @@ ms.subservice: partnercenter-csp
 description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정보를 확인하는 방법을 알아봅니다. 또한 법률 및 청구 주소를 업데이트할 수 있습니다.
 author: parthpandyaMSFT
 ms.author: parthp
-ms.topic: conceptual
+ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365719"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811113"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>파트너 센터에서 파트너 프로필 정보 확인
 
