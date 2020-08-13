@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434322"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839188"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
@@ -46,6 +46,7 @@ ms.locfileid: "86434322"
 ||*    모든 파트너 프로필 보기
 ||*    파트너 사용자 보기, 만들기 및 관리  |
 |청구 관리자 | - 청구 정보, 청구서 및 조정 파일 보기, 만들기 및 관리|
+||*    가격 보기
 |기본 사용자|  내 프로필 보기   |
 |관리 에이전트 | *    고객 관리
 ||*    파트너 센터에 디바이스 목록 추가
@@ -62,6 +63,7 @@ ms.locfileid: "86434322"
 ||*    구독 관리
 ||*    지원 티켓 보기
 ||*    고객과의 관계 요청
+||*    가격 책정 및 제품 보기
 ||*    잠재 고객 관리
 ||*    고객 계약 보기
 ||*    부가 가치 재판매인 등록|

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114062"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998398"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>갱신 기간 중 Microsoft Action Pack 및 역량에 대한 MPN 제품 갱신
 
@@ -40,11 +40,13 @@ Microsoft Action Pack 및 역량은 연간 갱신이 필요한 Microsoft 파트�
 
 ## <a name="responding-to-covid-19"></a>COVID-19에 대응:
 
-고객 지원에 초점을 맞출 수 있도록 하기 위해 역량 1주년 날짜가 **2020년 1월 1일부터 6월 30일** 사이인 경우 2021년의 다음 1주년 날짜까지 기존 역량이 연장됩니다. 이 새로운 제품을 반영하도록 역량 갱신 미리 알림이 업데이트됩니다. 
+고객 지원에 집중할 수 있도록 다음과 같이 변경됩니다. 
+
+- **역량 1주년 날짜가 2020년 7월 1일부터 12월 31일 사이**인 경우 2021년의 다음 1주년 날짜까지 기존 역량이 연장됩니다. 이 새로운 제품을 반영하도록 역량 갱신 미리 알림이 업데이트됩니다. 
 
 - **갱신에 대한 역량을 확보하는 경우** 파트너 센터에서 요구 사항이 충족되었음을 알 수 있습니다. 갱신하려면 멤버십 제품 페이지의 갱신 기간 내에 역량 요금을 지불해야 합니다. 
 
-- **이미 갱신 기간을 놓친 경우** 멤버십 제품 페이지에서 요금을 지불하여 역량을 다시 활성화하고 리소스 및 혜택에 대한 액세스 권한을 다시 얻을 수 있습니다. 이 연장은 2020년 6월 30일까지 가능합니다.   
+- **이미 갱신 기간을 놓친 경우** 멤버십 제품 페이지에서 요금을 지불하여 역량을 다시 활성화하고 리소스 및 혜택에 대한 액세스 권한을 다시 얻을 수 있습니다. 이 연장은 2020년 12월 31일까지 가능합니다.
 
 ### <a name="how-to-view-this-information"></a>이 정보를 보는 방법
 

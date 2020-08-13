@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389132"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998376"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버 및 골드 역량 구입 또는 갱신
 
@@ -72,6 +72,13 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 번째 단계는 Micro
 
 매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다. 언제든지 **구입 완료** 제품 목록에서 자동 갱신을 끌 수 있지만, 구독을 다시 갱신할 때까지는 자동 구독 갱신을 다시 켤 수 없습니다. 
 
+### <a name="update-your-bill-to-address"></a>청구지 주소 업데이트
+
+Action Pack을 갱신하거나 구입하는 과정에서 청구지 주소를 확인할 수 있습니다.
+
+ 1. **제출**을 선택한 후 구매 세부 정보를 검토할 수 있습니다. 주소를 업데이트해야 한다는 메시지가 표시되는 경우 **업데이트**를 선택합니다.
+  
+ 1. **파트너 프로필** 페이지에서 주소를 업데이트합니다.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Action Pack 구독 자동 갱신 끄기
 

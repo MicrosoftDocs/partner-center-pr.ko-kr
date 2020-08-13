@@ -9,18 +9,98 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/03/2020
-ms.openlocfilehash: ec9dc4110e4cd0d980142d012a570b84c864f14a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546695"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811103"
 ---
 # <a name="august-2020-announcements"></a>2020년 8월 공지
 
 이 페이지에서는 2020년 8월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지: [1월](2020-january.md) | [2월](2020-february.md) | [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | 8월
+
+________________
+
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>이제 새로운 Microsoft Teams 고급 통신 SKU를 사용할 수 있습니다.
+### <a name="categories"></a>범주
+
+- 날짜: 2020-08-04
+- 제품/시장
+
+### <a name="summary"></a>요약
+
+2020년 8월 1일부터 Microsoft Teams의 새로운 고급 통신 추가 기능 SKU가 제공됩니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft Teams의 새로운 고급 통신 추가 기능이 사용자 1인당 월 12달러에 제공됩니다. 추가 기능 SKU는 Microsoft Teams를 포함하고 있는 다른 Microsoft 365 제품군을 보유하고 있어야만 구매할 수 있습니다. 고급 통신은 IT 관리를 위한 고급 도구뿐 아니라 대규모 회의, 통신 정책 및 통합을 위한 새로운 기능 세트를 제공합니다. 
+
+#### <a name="advanced-communications-features"></a>고급 통신 기능
+
+출시와 함께 릴리스
+- 라이브 이벤트는 참가자 20000명으로 제한(동시에 50명, 16시간)
+- 규정 준수 기록 통합(ISV) 
+- 연락 센터 솔루션 통합(ISV) 
+
+나중에 달력 연도 2020년에 릴리스
+- 1,000명 대화형 Teams 회의 
+- '보기 전용' 회의 환경에서 최대 20,000명을 지원하는 기능을 사용하여 참가자 1,000명이 참석하는 대화형 회의를 개최합니다. 
+- 사용자 지정 브랜드 회의 로비
+- 향상된 추가 사용자 지정, 도구 및 통신 기능이 수시로 SKU에 추가됩니다.
+
+#### <a name="offer-details"></a>솔루션 세부 정보
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |고급 통신|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
+   |교직원용 고급 통신|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |학생용 고급 통신|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
+
+#### <a name="frequently-asked-questions"></a>질문과 대답
+
+- **고급 통신이란?** 고객은 이 새로운 Microsoft Teams 추가 기능을 통해 통신 환경을 더욱 향상시킬 수 있습니다. 고객이 구독하는 Microsoft 365 SKU를 기반으로 구매할 수 있습니다.
+- **가격은 얼마나 되나요?** 상용 ERP는 사용자 1인당 월 12달러(미화)입니다. 
+- **어떤 고객이 추가 기능을 구매할 수 있나요?** 상용, 전 세계 상용 공공 부문, 교육 및 비영리 조직에서 구매할 수 있습니다.
+- **어떻게 구입할 수 있나요?** EA/EAS, EES, CSP 또는 웹 다이렉트를 통해 추가 기능을 구매할 수 있습니다.
+- **어디에서 판매되나요?** 현재 모든 시장에서 판매할 수 있습니다.
+- **필수 조건은 무엇인가요?** Microsoft Teams를 포함하고 있는 Microsoft 365/Office 365 제품군을 보유하고 있어야 합니다.
+
+### <a name="next-steps"></a>다음 단계
+
+- 이 정보를 조직 내 관련 담당자와 공유하고 상향 판매 및 교차 판매 기회를 파악합니다. [Teams 파트너 가이드](https://aka.ms/teamscallingmeetingsguide)의 리소스 섹션을 검토합니다.
+
+________________
+
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>9월에 제공되는 교육용 Microsoft Defender ATP(Advanced Threat Protection) for Servers
+### <a name="categories"></a>범주
+
+- 날짜: 2020-08-04
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP 프로그램에 참여하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+2020년 9월 1일에 CSP(클라우드 솔루션 공급자)를 통해 구매할 수 있는 교육용 Microsoft Defender ATP(Advanced Threat Protection) for Servers
+
+#### <a name="product-details"></a>제품 정보
+
+- 제품 이름: 교육용 Microsoft Defender ATP for Servers
+- 제품 ID: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
+
+### <a name="next-steps"></a>다음 단계
+
+- 이 정보를 조직 내의 해당 담당자와 공유합니다.
+- 제품에 대한 자세한 내용은 [Microsoft Defender ATP 설명서](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)를 참조하세요.
 
 ________________
 

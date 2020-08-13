@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 만들기
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 구성원이 파트너 센터 계정을 만들어 네트워크 혜택 및 역량을 관리하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114717"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998418"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>파트너 센터 계정을 만들어 네트워크 혜택 및 역량 관리
 
@@ -65,6 +65,45 @@ ms.locfileid: "87114717"
     a. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home**)에서 **설정** 아이콘을 선택한 다음, **사용자 관리**를 선택합니다.  
 
     b. 사용자 목록에서 이름을 선택한 다음, 관리 담당자가 선택되지 않았으면 **관리 담당자**를 선택합니다. **업데이트**를 선택합니다.  
+
+## <a name="view-mpn-account-details"></a>MPN 계정 정보 보기
+
+파트너 센터 계정을 만든 후에는 파트너 센터로 돌아와서 다양한 계정 정보를 볼 수 있습니다. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)의 **파트너 프로필** 페이지에 여러 가지 계정 정보가 표시됩니다.
+
+이러한 계정 정보는 다음과 같습니다.
+
+- 회사의 법적 비즈니스 프로필
+
+- MPN ID 정보
+
+- 등록된 Microsoft 프로그램과 관련된 현재 계약의 링크
+
+  예를 들어 MPN 프로그램에 등록된 경우 현재 Microsoft 파트너 네트워크 계약의 링크가 표시됩니다. CSP(클라우드 솔루션 공급자) 프로그램과 같은 다른 파트너 프로그램에 등록된 경우 Microsoft 파트너 계약과 같은 다른 계약의 링크도 표시됩니다. 
+
+  > [!NOTE]
+  > 이러한 링크는 계약을 검토, 액세스 또는 다운로드하거나 서명된 날짜를 확인하려는 경우에 유용하게 사용할 수 있습니다.
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>계정 정보를 보거나 MPN 계약을 살펴보고 다운로드하는 방법
+
+다음 단계에 따라 계정 정보를 보거나 MPN 계약을 살펴보고 다운로드할 수 있습니다.
+
+1. 회사 계정 사용자 이름 및 암호를 사용하여 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
+
+2. [개요] 페이지가 나타납니다. ([개요] 페이지가 표시되지 않는 경우 왼쪽 탐색 메뉴에서 **개요**를 선택합니다.)
+
+3. 대시보드의 오른쪽 위 모서리에서 기어 아이콘을 선택한 다음, **파트너 설정**을 선택합니다. 그러면 [파트너 프로필] 페이지로 이동됩니다.
+
+4. [파트너 프로필] 페이지에서 여러 영역을 볼 수 있습니다. 여기에는 **법적 비즈니스 프로필** 영역과 **프로그램 정보** 영역이 포함됩니다.
+
+5. **프로그램 정보**에서 **MPN 프로그램 상태** 필드를 찾습니다. 그러면 Microsoft 파트너 네트워크 계약의 링크가 표시됩니다. 프로그램의 현재 상태에 대한 설명도 제공됩니다.
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="파트너 프로필 페이지의 [프로그램 정보] 영역을 보여주는 이미지. 빨간색 상자는 이 영역의 [MPN 프로그램 상태] 필드 및 Microsoft 파트너 네트워크 계약과 관련된 링크를 강조 표시합니다.":::
+
+6. 이 계약을 살펴보거나 다운로드하려면 **Microsoft 파트너 네트워크 계약**을 선택합니다.  
+
+> [!NOTE]
+> CSP(클라우드 솔루션 공급자) 프로그램에 등록된 경우 위의 단계에 따라 Microsoft 파트너 계약과 같은 등록된 다른 프로그램에 대한 계약을 살펴보거나 다운로드할 수도 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 
