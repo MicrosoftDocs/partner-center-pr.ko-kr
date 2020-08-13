@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
+ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527619"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "88188433"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
@@ -70,12 +70,6 @@ ms.locfileid: "87527619"
 
 >[!IMPORTANT]
 >기존 구독에 라이선스를 추가 하도록 선택 하면 기존 및 추가 된 라이선스의 수에 따라 12 개월 이내에 구독이 만료 됩니다. 키를 입력 한 후에는 다시 사용할 수 없습니다. 키를 사용 하기 전에 라이선스를 추가 하거나 구독을 갱신/확장 해야 하는지 여부를 이해 해야 합니다.
-
-### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>17. 제품 키를 활성화할 때 갱신 또는 확장 옵션이 표시 되지 않는 이유는 무엇 인가요?
-
-갱신/확장 옵션이 표시 되지 않으면 기존 구독에 새 제품 키가 제공 하는 것 보다 더 많은 라이선스가 이미 있는 것을 의미 합니다.
-
-갱신/확장 옵션에 액세스 하려면 사용자가 보유 한 라이선스 수가 새 키가 있는 라이선스 수와 같거나 적을 때까지 현재 구독에서 라이선스를 제거 해야 합니다.
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>17. 고객 계정에 대 한 라이선스를 활성화할 수 있나요?
 
