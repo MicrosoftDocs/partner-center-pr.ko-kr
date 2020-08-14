@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811163"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220200"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "87811163"
 
 | **범주** | **2020년 8월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[.NET Standard v1.16.1의 SDK 릴리스](2020-august.md#6)|8월 12일|
+|기능|[Microsoft Project 및 Microsoft Visio용 셀프 서비스 구매 예정](2020-august.md#5)|8월 12일|
 |제품/시장|[이제 새로운 Microsoft Teams 고급 통신 SKU를 사용할 수 있습니다.](2020-august.md#4)|8월 4일|
 |제품/시장|[9월에 제공되는 교육용 서버를 위한 Microsoft Defender ATP(Advanced Threat Protection)](2020-august.md#3)|8월 4일|
 |제품/시장|[새로운 Dynamics 365 Sales Premium 번들 제품](2020-august.md#2)|8월 3일|
@@ -86,7 +88,7 @@ ms.locfileid: "87811163"
 | **범주** | **2020년 1월 공지** | **날짜** |
 | 제품/시장 | [2020년 2월 1일부터 러시아의 CSP(클라우드 솔루션 공급자) 파트너에게 Windows Server 및 SQL Server 구독이 제공됨](2020-january.md#7) | 1월 31일 |
 | 제품/시장 | [Microsoft 365 F1용 미팅룸 및 모임 추가 기능을 이제 GCC(정부 커뮤니티 클라우드)에서 사용 가능](2020-january.md#6) | 1월 29일 |
-| 기능 | [Microsoft 365 F1용 미팅룸 및 모임 추가 기능을 이제 GCC(정부 커뮤니티 클라우드)에서 사용 가능](2020-january.md#5) | 1월 28일 |
+| 기능 | [지금 사용 가능! 미국용 Power Apps 및 Power Automate 셀프 서비스 구매 자동화 상업적 고객](2020-january.md#5) | 1월 28일 |
 | 기능 | [파트너 센터의 새 보고 대시보드 발표](2020-january.md#4) |1월 27일 |
 | 기능 | [2020년 1월 31일까지 Microsoft 고객 계약 동의 확인](2020-january.md#3) | 1월 27일 |
 | 기능 | [가격 목록 및 2020년 1월 제품 업데이트 일정](2020-january.md#2) | 1월 7일 |
