@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8a6c5fc3a087c97b2ad19b2067027bab24ac15b
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436692"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239041"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 역량 보고서
 
@@ -87,3 +87,6 @@ ms.locfileid: "86436692"
 ## <a name="next-steps"></a>다음 단계
 
 - 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
+
+>[!NOTE] 
+> Insights 대시보드의 보고서 다운로드 섹션에서 원시 데이터를 다운로드 하 여이 보고서를 켤 수 있습니다. [자세한 내용](pci-download-reports.md) 

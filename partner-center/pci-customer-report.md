@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d7954f40294202750d0b6d51102f68ea694b07c3
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434462"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239031"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>파트너 센터 정보에서 고객 대시보드 보고서
 
@@ -96,3 +96,6 @@ MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 �
 ## <a name="next-steps"></a>다음 단계
 
 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
+
+>[!NOTE] 
+> Insights 대시보드의 보고서 다운로드 섹션에서 원시 데이터를 다운로드 하 여이 보고서를 켤 수 있습니다. [자세한 내용](pci-download-reports.md) 
