@@ -4,16 +4,16 @@ description: 요청 된 레코드 파트너 (CPOR) 고객 연결을 관리 하�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545994"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303179"
 ---
 # <a name="manage-customer-associations"></a>고객 제휴 보기
 
@@ -26,7 +26,7 @@ ms.locfileid: "87545994"
 적절 한 역할:
 
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 인센티브 관리자
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>CPOR association 클레임이 성과급과 어떻게 관련 되는지에 대 한

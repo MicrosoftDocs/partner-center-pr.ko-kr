@@ -5,15 +5,15 @@ ms.date: 07/21/2020
 description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: kim-davis
-ms.author: kimnich
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545914"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303149"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>인센티브 지급 및 세금 프로필 FAQ
 
@@ -25,7 +25,7 @@ ms.locfileid: "87545914"
 
 - 인센티브 관리자
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>내 지급 및/또는 세금 세부 정보를 제공 해야 하는 이유는 무엇 인가요?
 
@@ -39,7 +39,7 @@ Microsoft 동기 프로그램에 대 한 지급을 받으려면 유효한 지급
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>지급 및/또는 세금 세부 정보를 제공/업데이트하려면 어떻게 해야 하나요?
 
-파트너 센터에서 지불 및 세금 정보를 업데이트 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 은행 및 세금 프로필을 만들고 관리 하는 방법](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)을 참조 하세요.
+파트너 센터에서 지급 및 세금 세부 정보를 업데이트하는 방법에 대한 자세한 내용은 [파트너 센터에서 은행 및 세금 프로필을 만들고 관리하는 방법](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)을 참조하세요.
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>지급 및 세금 프로필 할당으로 이동할 때 내 등록이 표시되지 않는 이유는 무엇인가요?
 

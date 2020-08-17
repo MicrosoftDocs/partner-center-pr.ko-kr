@@ -4,16 +4,16 @@ description: 요청 받은 레코드 파트너 (CPOR) 고객 연결을 사용할
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546014"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303259"
 ---
 # <a name="customer-association-issues"></a>고객 연결 문제
 
@@ -26,7 +26,7 @@ ms.locfileid: "87546014"
 적절 한 역할:
 
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 인센티브 관리자
 
 ## <a name="domain-tenant-mismatch"></a>도메인-테 넌 트 불일치

@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 수익을 만들고 성과급 프로그램에서 유료으로 사용할 수 있는지 확인 하세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: d8605b564e65473e0f83139c44b2846e5d260292
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 28671cb44f254d9ad660aa67e5a739df4e024d26
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546034"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303269"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>수익 자격 확인
 
@@ -26,7 +26,7 @@ ms.locfileid: "87546034"
 적절 한 역할:
 
 - 인센티브 관리자
-- 전역 관리자
+- 글로벌 관리자
 
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>내 실적 자격 및 수익 규칙을 확인하려면 어떻게 해야 하나요?
 

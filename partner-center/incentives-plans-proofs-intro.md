@@ -4,16 +4,16 @@ description: 성과급 공동 op 클레임 계획 및 자세한 실행 증명 (P
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4b65252b48d9be0c26600721427f9a95ea2266be
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110578"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303139"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>이러한 리소스를 사용 하 여 성과급 계획 및 실행 증명을 만드는 데 도움을 줍니다.
 

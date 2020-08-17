@@ -3,17 +3,17 @@ title: 실행 증명서 준비
 description: PoE (실행 증명), 타임 라인, 보기 상태 및 제출 지침의 중요도를 이해 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545944"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303299"
 ---
 # <a name="prepare-your-proof-of-execution"></a>실행 증명서 준비
 
