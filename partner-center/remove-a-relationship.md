@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811343"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584682"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>파트너 센터에서 고객과 대리점 관계를 제거 하는 방법
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>파트너 센터에서 고객과 재판매인 관계를 제거하는 방법
 
 **적용 대상**
 
@@ -24,14 +24,14 @@ ms.locfileid: "87811343"
 
 이 문서에서는 파트너 센터에서 고객과 대리점 관계를 제거 하는 방법을 설명 합니다.
 
-직접 파트너: 고객에 게 더 이상 거래 하지 않는 경우 파트너 센터에서 관계를 제거할 수 있습니다.
+직접 파트너 또는 간접 공급자: 고객에 게 더 이상 거래 하지 않는 경우 파트너 센터에서 관계를 제거할 수 있습니다.
 
-관계를 제거 하면 다음과 같은 결과가 발생 합니다.
+관계를 제거하면 다음과 같은 결과가 발생합니다.
 
-- 파트너 센터의 고객 목록에서 고객을 제거 합니다.
+- 파트너 센터의 고객 목록에서 고객 제거
 - 고객에 대 한 [사용 가능한 지원 연락처 목록](assign-support-contacts.md) 에서 사용자를 제거 합니다.
-- 고객에 대 한 위임 관리자 권한을 제거 합니다.
-- 고객에 대 한 향후 구매를 방지 합니다.
+- 고객에 대한 위임 관리자 권한 제거
+- 고객에 대한 향후 구매 방지
 
 ## <a name="how-to-remove-a-relationship"></a>관계를 제거 하는 방법
 
