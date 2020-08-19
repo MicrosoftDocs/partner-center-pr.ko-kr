@@ -171,8 +171,6 @@
     - name: 추천 개요
       href: referrals.md
       items:
-        - name: 추천에 응답
-          href: responding-to-referrals.md
         - name: 비즈니스 프로필 관리
           href: create-a-marketing-profile.md
         - name: 잠재 고객 관리
@@ -193,8 +191,12 @@
       items:
         - name: 인센티브 시작
           items:
+            - name: 질문과 대답
+              href: incentives-faq.md
             - name: 시작
               href: incentives-get-started-intro.md
+            - name: 인센티브 프로그램에 등록
+              href: incentives-enroll.md
             - name: 프로그램 자격 확인
               href: incentives-determined-your-program-eligibility.md
             - name: 파트너 센터에서 지급 및 세금 프로필 만들기 및 관리
