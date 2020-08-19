@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MFA(Multi-factor Authentication)를 활성화하고 보안 애플리케이션 모델 프레임워크를 도입하기 위한 파트너 요구 사항을 소개합니다.
-author: isaiahwilliams
-ms.author: iswillia
+author: vijvala
+ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 981163a710f3d220ce1031957f9ccdca3e544d60
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434012"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220215"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>파트너 센터 또는 파트너 센터 API를 사용하는 파트너에 대한 파트너 보안 요구 사항
 
