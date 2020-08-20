@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365779"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215580"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
@@ -118,6 +118,7 @@ MPN 프로그램 또는 CSP(클라우드 솔루션 공급자) 프로그램과 �
 |-----------------------|:-----------------------|
 |회사 프로필을 최신 상태로 유지   |[파트너 프로필 업데이트](update-your-partner-profile.md)|
 |새 사용자 추가|[사용자 계정 만들기 및 사용 권한 할당](create-user-accounts-and-set-permissions.md)|
+|확인 상태 찾기|[계정 정보 확인](verification-responses.md)|
 |파트너 센터에서 작업을 해야 하는 모든 직원에게 역할을 할당해야 합니다. 역할마다 고유의 권한이 있으며 접근 가능한 작업이 있습니다.|[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)|
 |각 역할이 제공하는 권한 검토|[사용자 역할 및 권한 할당](permissions-overview.md)
 |회사의 위치 관리|[파트너 계정 관리: 위치](manage-locations.md)
@@ -127,3 +128,4 @@ MPN 프로그램 또는 CSP(클라우드 솔루션 공급자) 프로그램과 �
 |고객이 찾을 수 있도록 회사 마케팅   |[비즈니스 프로필 만들기](create-a-marketing-profile.md)|
 |가장 중요한 제품이 목록 맨 위에 오도록 카탈로그 정리   |[카탈로그 사용자 지정](customize-the-catalog.md)|
 |현재 가격 및 제품에 대한 정보 업데이트   |[가격 책정 및 제품](pricing-and-offers.md)|
+|API: 파트너 MPN ID 확인|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]

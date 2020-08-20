@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944010"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220224"
 ---
 # <a name="january-2020-announcements"></a>2020년 1월 공지
 
@@ -110,14 +110,14 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1(GCC High)
 
 _________________
 
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="5"/></a>Microsoft 365 F1용 미팅룸 및 모임 추가 기능을 이제 GCC(정부 커뮤니티 클라우드)에서 사용 가능
+## <a name="available-now-power-apps-and-power-automate-self-service-purchase-for-us-commercial-customers"></a><a id="5"/></a>지금 사용 가능! 미국용 Power Apps 및 Power Automate 셀프 서비스 구매 자동화 상업적 고객
 
 ### <a name="categories"></a>범주
 
 - 날짜: 2020-01-28
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -205,7 +205,7 @@ _________________
 - 날짜: 2020-01-27
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
