@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811323"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781835"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811323"
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-고객이 해결할 수 없는 서비스 문제가 발생 하 고 [문제를 Microsoft로 에스컬레이션](escalate-problems-to-microsoft.md)에 설명 된 조건을 충족 하는 경우 해당 서비스에 대 한 지원 티켓을 파일로 보낼 수 있습니다. 이 프로세스는 청구 문제 또는 분쟁를 에스컬레이션 하는 경우와 사기 문제에도 유용 합니다. 
+**적절한 역할**
+
+- 간접 공급자
+
+고객이 해결할 수 없는 서비스 문제가 발생 하 고 [문제를 Microsoft로 에스컬레이션](escalate-problems-to-microsoft.md)에 설명 된 조건을 충족 하는 경우 간접 공급자는 해당 서비스에 대 한 지원 티켓을 파일로 보낼 수 있습니다. 이 프로세스는 청구 문제 또는 분쟁를 에스컬레이션 하는 경우와 사기 문제에도 유용 합니다.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>고객 서비스 요청을 제출합니다.
 
@@ -41,7 +45,7 @@ ms.locfileid: "87811323"
 > [!IMPORTANT]
 > Azure에서 고객에 대한 서비스 요청을 만들어야 하는 경우 다음 사항에 주의해야 합니다.
 >
->- Azure에서 고객을 대신해 서비스 요청을 만들려면 귀하의 간접 공급자가 귀하에게 고객의 Azure 계정에 대한 액세스 권한을 부여해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다.
+>- 간접 재판매인이 Azure에서 고객에 대 한 서비스 요청을 만들기 위해 간접 공급자는 고객의 Azure 계정에 대 한 액세스 권한을 부여 해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다.
 >
 >- 파트너 센터의 기술 지원팀 관리자는 Azure 서비스 포털에서 서비스 요청을 만들 수는 없지만, Azure 서비스 포털에서 지원 그룹을 만들고 해당 그룹에 지원 요청을 기록하는 권한을 부여할 수 있습니다.
 
