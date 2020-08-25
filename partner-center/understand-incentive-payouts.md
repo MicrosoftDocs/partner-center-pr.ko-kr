@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560221"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799828"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기, 관리 및 내보내기
 
@@ -198,6 +198,14 @@ ms.locfileid: "88560221"
 
 |**열 이름**   |**설명**   |
 |------------------|:-------------------------------------|
+| AR 규정 준수 | 파트너의 시간에 Microsoft 송장이 지불 되지 않는 경우 수익 감소를 위한 조정 |
+| 공동 op 롤오버 | 공동 op 소득을 다른 기간으로 전송 하거나 공동 op 소득을 리베이트로 변환 하는 조정 |
+| Ops 조정 Microsoft 잘못 된 계산 | 사용할 경우 해당를 수정 하는 조정 |
+| Ops 조정 Microsoft 잘못 된 등록 | 등록 관련 사용할 경우 해당 조정 |
+| 정책 예외 | 프로그램 규칙을 재정의 하는 조정  |
+| Ops 조정 | Microsoft 시스템 계산 오류를 해결 하는 조정 |
+| 이전 기간 소득 | 현재 획득 기간을 벗어나 소득에 대 한 조정 |
+| 파트너 매핑 (구독) MCI/CSP | 구독 불일치를 해결 하는 조정 |
 |customerId   |고객 식별자   |
 |customerName   |트랜잭션 고객 이름   |
 |earningAmount   |원래 트랜잭션 통화 금액을 획득 합니다.   |
