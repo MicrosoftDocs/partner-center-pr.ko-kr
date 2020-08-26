@@ -9,6 +9,8 @@
       href: mpn-create-a-partner-center-account.md
     - name: 회사 이메일 주소 가져오기
       href: buy-email-domain.md
+    - name: 계정 설정 문제 해결
+      href: troubleshoot-account-sign-n.md
     - name: 파트너 센터로 이동
       items:
         - name: PAC에서 이동 - 개요
@@ -35,6 +37,8 @@
           href: mpn-get-action-pack.md
         - name: 제품 갱신
           href: renew-mpn-offers.md
+        - name: MPN 혜택 찾기
+          href: mpn-find-benefits.md
     - name: 역량
       href: learn-about-competencies.md
     - name: 고급 전문 분야
