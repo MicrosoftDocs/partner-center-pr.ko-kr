@@ -1,31 +1,32 @@
 ---
 title: 결제 및 소득 문제 해결
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: 누락 되거나 잘못 된 소득, 자격 문제 및 성과급 소득 조정 방법 등의 문제를 해결 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303159"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893475"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>결제 및 소득 문제 해결
 
-적용 대상:
+**적용**대상:
 
 - 파트너 센터
 
-이 문서는 성과급 프로그램의 소득 또는 지불 문제를 해결 하는 데 도움이 됩니다. 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 중요성에 대해 설명 합니다.
-
-적절 한 역할:
+**적절 한 역할**:
 
 - 인센티브 관리자
+
+
+이 문서는 성과급 프로그램의 소득 또는 지불 문제를 해결 하는 데 도움이 됩니다. 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 중요성에 대해 설명 합니다.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>내 조직에 대 한 지급 및 세금 프로필을 만들거나 업데이트할 수 있는 사람은 누구 인가요?
 
@@ -37,7 +38,7 @@ ms.locfileid: "88303159"
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>지급 및 세금 프로필을 올바르게 작성했는지 어떻게 알 수 있나요?
 
-등록 상태는 개요 페이지에 표시됩니다. 프로필 만들기를 완료 하면 **등록의 유효성을 검사**하는 상태가 됩니다. 사용자의 정보를 확인 한 후에는 상태가 **등록**됨으로 변경 됩니다. 이는 지급 및 세금 프로필과 등록이 성공적으로 완료되었음을 나타냅니다.
+등록 상태는 개요 페이지에 표시됩니다. 프로필 만들기를 완료 하면 **등록의 유효성을 검사**하는 상태가 됩니다. 사용자의 정보를 확인 한 후에는 상태가 **등록**됨으로 변경 됩니다. 이 상태는 지급 및 세금 프로필과 등록이 성공적으로 완료 되었음을 나타냅니다.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>새 인센티브 프로그램에서 사용할 세금 프로필을 업데이트해야 하는 이유는 무엇인가요?
 
@@ -96,7 +97,32 @@ ms.locfileid: "88303159"
 
 - **요구 사항을 충족하지 못한 경우**  원하는 인센티브의 [자격](#my-payment-is-missing-or-incorrect) 및 적격 수익 규칙을 충족했는지 확인합니다.
 
-- **불일치가 있을 수 있습니다.**  파트너 자격 및 적격 수익 규칙을 모두 충족했지만 여전히 잘못된 소득이 표시되는 경우 [소득 및 지불 불일치를 확인하는 방법](https://support.microsoft.com/help/4534675)에서 모든 소득 및 해당 트랜잭션에 액세스하는 단계를 참조하세요.
+- **불일치가 있을 수 있습니다.**  파트너 자격 및 적격 수익 규칙을 모두 충족 하 고 잘못 된 수입을 확인 하는 경우 다음 정보가 데이터를 검색 하는 데 도움이 될 수 있습니다.
+ 
+파트너 센터의 탐색 모음에서 **지급** 아이콘을 클릭 하 여 파트너 센터의 **거래 내역** 또는 **지불** 을 통해 수익을 볼 수 있습니다. 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="트랜잭션 정보":::
+
+트랜잭션 기록 보기의 월간 획득 금액은 특정 월에 받은 지불 금액에 맞지 않을 수 있습니다. 이는 미래 지불액에 적용 되는 이전 획득 기간에 대 한 다시 계산 및 조정으로 인 한 것입니다.
+
+예를 들어 9 월 2019에 처리 된 1 월 2019 소득에 대 한 조정은 9 월 2019 일의 소득 금액에 반영 되지 않습니다. 그러나 9 월 2019에 대 한 결제를 받은 경우 9 월에 적용 된 1 월 2019의 조정을 포함 합니다.
+이 시나리오에서는 지불에 포함 된 모든 소득의 전체 보기를 얻기 위해 트랜잭션 세부 정보를 다운로드 해야 합니다.  또한 지불 보기로 이동 하 여 각 지불에 대 한 트랜잭션을 다운로드할 수 있습니다.
+
+### <a name="transaction-history"></a>거래 기록
+
+이 보기를 사용 하면 각 트랜잭션의 지불 상태와 함께 월별 수익, 상태별 수익 및 트랜잭션 세부 정보를 볼 수 있습니다. 데이터는 사용자에 게 동기 사용자 또는 관리자 역할이 할당 된 프로그램 및 MPN ID에 대해서만 표시 됩니다.
+
+### <a name="payments"></a>결제
+
+이 보기에서는 모든 프로그램 및 MPN ID의 지불액을 볼 수 있습니다. 데이터는 사용자에 게 동기 사용자 또는 관리자 역할이 할당 된 프로그램 및 MPN ID에 대해서만 표시 됩니다. 이 보기에서 송금을 다운로드하거나 지불에 따른 트랜잭션 세부 정보를 볼 수 있습니다. 
+
+**지불 정보 섹션으로** 아래로 스크롤하여 현지 통화로 획득 및 지불 금액을 포함 하는 지불 정보를 표시 합니다. **지불 송금** 를 클릭 하 여 송금 편지를 다운로드 합니다. **보기** 를 클릭 하 여 새 탭을 열고 특정 지불에 대 한 트랜잭션 수준 정보를 확인 합니다. 
+
+트랜잭션 정보를 Excel로 내보내려면 **다운로드 시작** 을 클릭 한 다음 **데이터 내보내기**를 클릭 합니다. 참고: 선택한 모든 필터는 내보낸 데이터에 적용 됩니다. 상태가 완료 됨으로 변경 되 면 다운로드를 클릭 하 고 프롬프트에 따라 상세 트랜잭션 보고서를 내보낼 수 있습니다. 5 분 내에 상태가 업데이트 되지 않으면 페이지를 새로 고칩니다. 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>수익 및 지불 누락 또는 잘못 됨
+
+지불 또는 트랜잭션 세부 정보를 찾을 수 없으면 올바른 필터가 적용 되었는지 확인 합니다. 일부 프로그램 이름이 변경 되어 여러 항목을 선택 해야 할 수 있습니다 (예: CSP 1T 직접 파트너, CSP 다이렉트 청구 파트너).
 
 이러한 조치가 도움이 되지 않고 수익을 찾을 수 없거나 소득이 올바르지 않다고 생각 되는 경우 [고객 지원](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)담당자에 게 문의 하세요.
 
@@ -110,8 +136,6 @@ ms.locfileid: "88303159"
 
 3. **요구 사항을 충족했는지 확인합니다.**  원하는 인센티브의 [자격](#my-payment-is-missing-or-incorrect) 및 적격 수익 규칙을 충족했는지 확인합니다.
 
-4. **불일치가 있는지 확인합니다.**  파트너 자격 및 적격 수익 규칙을 모두 충족했지만 여전히 잘못된 소득이 표시되는 경우 [소득 및 지불 불일치를 확인하는 방법](https://support.microsoft.com/help/4534675)에서 모든 소득 및 해당 트랜잭션에 액세스하는 단계를 참조하세요.
-
 이러한 작업이 도움이 되지 않고 소득이 아직 조정되지 않은 경우 [지원 담당자](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)에게 문의하세요.
 
 ## <a name="where-can-i-find-my-rates"></a>내 요금을 어디서 찾을 수 있나요?
@@ -121,3 +145,7 @@ ms.locfileid: "88303159"
 2. 로그인한 후 아래로 스크롤하여 관심 있는 프로그램의 문서에 액세스하고 해당 프로그램에 대한 문서 링크를 클릭합니다.
 
 3. 문서에서 **프로그램 구조 및 속도**섹션을 참조 하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [협업 클레임 관리](incentives-managing-co-op-claims.md)
