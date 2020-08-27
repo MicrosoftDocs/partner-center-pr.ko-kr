@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527739"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846933"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>사용자 계정 만들기 및 역할과 사용 권한 할당
 
@@ -45,14 +45,28 @@ ms.locfileid: "87527739"
 
 사용자는 사용자 이름 및 임시 암호를 사용하여 파트너 센터에 로그인해야 합니다. 사용자가 파트너 센터에 처음으로 로그인하면 암호를 변경하라는 메시지가 표시됩니다. 
 
+## <a name="find-the-role-youve-been-assigned"></a>할당된 역할 찾기
 
-### <a name="find-your-global-admin"></a>글로벌 관리자 찾기
+전역 관리자가 알려주지 않은 경우 다음을 수행하여 파트너 센터에서 어떤 역할을 수행하는지 확인할 수 있습니다.
+
+1. 파트너 센터 [대시보드]https://partner.microsoft.com/dashboard/home) 에 로그인합니다.
+
+1. **계정 설정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다.
+ 
+1. **역할 및 권한** 탭을 선택합니다. 사용자의 역할 및 권한이 표시됩니다.
+ 
+
+>[!Note]
+>로그인할 때 프로그램이 표시되지 않으면 일반적으로 해당 프로그램에서 사용할 수 있는 올바른 권한이 없음을 의미합니다. 따라서, 예를 들어 로그인할 때 인센티브 페이지가 표시되지 않는다면 인센티브 권한이 없는 것입니다. 전역 관리자는 필요한 권한을 제공할 수 있습니다.
+
+
+## <a name="find-your-global-admin"></a>글로벌 관리자 찾기
 
 사용자가 역할을 변경해야 하거나 새 사용자가 특정 역할 할당을 원하는 경우가 있을 수 있습니다.  
-역할을 변경하거나 새 사용자에게 역할을 할당할 수 있는 글로벌 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 **설정 아이콘**에서 **사용자 관리**를 선택하고 글로벌 관리자를 필터링합니다. 
+역할을 변경하거나 새 사용자에게 역할을 할당할 수 있는 전역 관리자를 찾으려면 파트너 센터의 오른쪽 상단에 있는 **계정 설정 아이콘**에서 **사용자 관리**를 선택하고 전역 관리자에 대해 필터링하거나 **내 프로필**로 이동하여 **역할 및 권한**을 선택하고 권한을 높이는 데 도움을 줄 수 있는 여러 관리자 목록을 볼 수 있습니다. 
 
 
-### <a name="new-global-admin"></a>새 글로벌 관리자
+## <a name="new-global-admin"></a>새 글로벌 관리자
 
 글로벌 관리자가 조직을 떠나고 다른 사용자가 이 역할을 수행해야 하는 경우 Azure 또는 Office 365 팀에 티켓을 제출할 수 있습니다. 이 작업을 수행하는 방법에 대한 자세한 내용을 보려면 아래 옵션 중 하나를 선택하세요.
 
@@ -87,7 +101,7 @@ ms.locfileid: "87527739"
 - 인센티브 관리자 및 사용자
 
 **제어판 공급업체는 CSP 및 비 AAD 역할입니다**.
-- 전역 관리자
+- 글로벌 관리자
 
 **게스트 사용자**은 AAD 테넌트의 일부여야 하며 모든 비 AAD 역할을 가질 수 있습니다.
 

@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998398"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846923"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>갱신 기간 중 Microsoft Action Pack 및 역량에 대한 MPN 제품 갱신
 
-**적용 대상**
+### <a name="applies-to"></a>적용 대상
 
 - 파트너 센터
 
-Microsoft Action Pack 및 역량은 연간 갱신이 필요한 Microsoft 파트너 네트워크의 구성원에게 제공됩니다. 갱신 기간은 구매 1주년 다음날에 시작됩니다. 예를 들어 2018년 9월 1일에 Microsoft Action Pack을 구입한 경우 갱신 기간은 2019년 9월 2일에 시작됩니다. 파트너 센터에서 Microsoft Action Pack 및 역량을 갱신할 수 있습니다. 멤버십 제품에서 구매한 제품을 찾고 갱신 시작 날짜 열에서 제품의 1주년 날짜를 찾을 수 있습니다. Microsoft 파트너 네트워크 자체 멤버십은 연간 갱신을 요구하지 않습니다. 
+Microsoft Action Pack과 골드 및 실버 역량은 연간 갱신이 필요한 Microsoft 파트너 네트워크의 구성원에게 제공됩니다. 갱신 기간은 구매 1주년 다음날에 시작됩니다. 예를 들어 2018년 9월 1일에 Microsoft Action Pack을 구입한 경우 갱신 기간은 2019년 9월 2일에 시작됩니다. 파트너 센터에서 Microsoft Action Pack 및 역량을 갱신할 수 있습니다. 멤버십 제품에서 구매한 제품을 찾고 갱신 시작 날짜 열에서 제품의 1주년 날짜를 찾을 수 있습니다. Microsoft 파트너 네트워크 자체 멤버십은 연간 갱신을 요구하지 않습니다. 
 
 자세한 내용을 보려면 아래에서 적절한 링크를 선택하세요. 
 
@@ -48,14 +48,15 @@ Microsoft Action Pack 및 역량은 연간 갱신이 필요한 Microsoft 파트�
 
 - **이미 갱신 기간을 놓친 경우** 멤버십 제품 페이지에서 요금을 지불하여 역량을 다시 활성화하고 리소스 및 혜택에 대한 액세스 권한을 다시 얻을 수 있습니다. 이 연장은 2020년 12월 31일까지 가능합니다.
 
-### <a name="how-to-view-this-information"></a>이 정보를 보는 방법
+### <a name="how-to-view-competency-renewal-information"></a>역량 갱신 정보를 보는 방법
 
 1. 대시보드의 파트너 센터 메뉴에서 **역량**을 선택합니다.  
 
 2. 사용 가능한 역량 목록에 역량이 완료로 표시되어야 합니다.  
 
-3. 역량 이름을 선택합니다. 다음 갱신 날짜까지 요구 사항 충족을 면제받았다는 알림이 표시됩니다.   
+3. 역량 중 하나를 선택합니다. 다음 갱신 날짜까지 요구 사항 충족을 면제받았다는 알림이 표시됩니다.
 
 4. 이 제품을 활용하려면 **멤버십 제품**으로 이동합니다. 역량 구매 또는 갱신 상태에 따라 프로세스를 완료하려면 역량 요금을 지불해야 할 수도 있습니다. 
 
 연장을 활용하려면 멤버십을 갱신하고 요금을 지불하기 위해 PMC(Partner Membership Center)에서 파트너 센터로 멤버십을 이동해야 합니다. 사용자의 멤버십을 이동하지 않은 경우, 지금 [자세히 알아보고](prepare-pmc-pc-migration.md)   [이전합니다](https://partners.microsoft.com/partnerprogram/Welcome.aspx) .  
+
