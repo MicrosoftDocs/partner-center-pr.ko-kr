@@ -483,8 +483,11 @@
     - name: 구독 및 라이선스 분석
       href: analyze-subscriptions-licenses.md
 - name: 다른 파트너와 협력
-  href: work-with-other-partners.md
   items:
+    - name: 파트너 찾기
+      href: find-a-partner.md
+    - name: 다른 파트너와 협력
+      href: work-with-other-partners.md
     - name: 파트너 센터에서 간접 공급자가 하는 일
       href: indirect-provider-tasks-in-partner-center.md
     - name: 파트너 센터에서 간접 재판매인이 하는 일
@@ -519,6 +522,10 @@
       href: customer-self-support.md
     - name: Microsoft로 문제 에스컬레이션
       href: escalate-problems-to-microsoft.md
+- name: 기타 지원 리소스
+  items:
+    - name: 라이선스 리소스
+      href: support-resources-licensing.md
 - name: 보안 요구 사항
   items:
     - name: 개요
