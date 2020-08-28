@@ -1,0 +1,242 @@
+---
+title: 파트너에 대 한 조회 101 파트너 판매 연결 (PSC)에서 파트너 센터 (PC)로 마이그레이션
+ms.topic: article
+ms.date: 08/27/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 거래를 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 거래를 확인 하는 방법을 알아봅니다.
+author: vikramb
+ms.author: vikramb
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89041054"
+---
+# <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>파트너 판매 연결 (PSC) 대신 파트너 센터에서 거래 관리를 위한 조회 가이드
+
+**적용 대상**
+
+- 조회
+- Microsoft와 공동 판매
+- PSC 사용자 계정 설정
+- PSC (파트너 판매 연결) 사용자 
+
+**적절한 역할**
+
+- 계정 관리자
+- 조회 관리자
+- PSC (파트너 판매 연결) 판매자
+- PSC (파트너 판매 연결) 관리자
+- PSC (파트너 판매 연결) 거래 관리자
+
+아시다시피 회사는 2020 년 12 월 31 일 게시물에 대 한 액세스 권한을 잃게 됩니다. 거래 센터에서 귀하에 게 Microsoft 판매자가 보낸 거래에 대해 거래를 관리 하는 데 필요한 모든 것을 찾을 수 있습니다. 차이점은 다음과 같습니다. 다음 지침은 파트너 센터를 보다 자연스럽 게 전환 하는 데 도움이 됩니다.
+
+## <a name="before-you-move-things-you-need-to-know"></a>이동 하기 전에 알아야 할 사항
+
+### <a name="if-you-are-psc-admin"></a>PSC 관리자 인 경우
+
+- [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
+- 파트너 센터 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)의 도움으로 계정을 설정 합니다.
+- 이 문서를 참조 하 여 파트너 센터에서 공동 판매 하는 방법에 대해 알아봅니다.
+- 파트너 센터에서 PSC 거래 관리자 및 판매자 계정을 설정 하 고 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 할당 합니다.
+
+### <a name="if-you-are-psc-deal-manager-or-seller"></a>사용자가 거래 관리자 또는 판매자 인 경우
+
+- [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
+- Psc에서 비작동 계정이 나 PSC에서 사용 하는 다른 도메인을 사용 하는 경우 계정 설정 도움말은 PSC 관리자에 게 문의 하세요.
+- PSC에 로그인 하는 데 사용 하는 계정에 관계 없이 파트너 센터 계정 설정의 완료 여부를 PSC 관리자에 게 확인 합니다.
+- 파트너 센터 및 조회 섹션에 대 한 액세스 권한이 있는지 확인 합니다.
+- 이 문서를 읽고 파트너 센터의 워크플로 및 변경 내용을 이해 하세요.
+
+## <a name="as-an-admin-in-psc-these-are-your-next-steps"></a>PSC의 관리자는 다음 단계입니다.
+
+조회 탭이 표시 되지 않으면 다음을 수행 합니다.
+
+- 회사의 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 계정 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 선택 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "계정 관리자"로 변경 합니다. 그러면 페이지에 해당 전자 메일 Id가 있는 모든 계정 관리자가 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
+
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="파트너 settings 사용자 관리 페이지에서 계정 관리자를 보여 주는 이미지":::
+
+- 왼쪽 탐색 창에서 조회 탭으로 이동 하 여 페이지에 액세스할 수 있는지 확인 합니다.
+
+파트너 센터에서 계정을 설정한 후
+
+- 다음 단계로, PSC에서 역할이 "거래 관리자" 또는 "판매자" 인 모든 사용자를 파트너 센터에 초대 합니다.
+- 조회 액세스를 제공한 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 는 모든 사용자를 초대할 수 있습니다.
+- 사용자를 초대 하는 동안 계정 관리자에 게 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 할당 하도록 요청 합니다.
+- 일부 PSC 사용자가 파트너 센터에서 사용 중인 계정이 아닌 다른 계정 또는 도메인의 계정을 사용할 수 있습니다. 이러한 모든 사용자는 Azure AD 테 넌 트에 연결 된 회사 계정을 사용 하 여 파트너 센터에 로그인 해야 합니다. [전역 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 는이를 지원할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다.
+- 전역 관리자는 Azure AD 테 넌 트에서 새 사용자 계정을 만들거나 다른 도메인 계정 사용자에 게 게스트 사용자 액세스 권한을 할당할 수 있습니다.
+- 모든 PSC 거래 관리자 및 사용자에 대 한 계정이 설정 되 면 파트너 센터에 로그인 하 고 왼쪽 탐색에서 조회 탭으로 이동한 다음 조회 페이지를 볼 수 있는지 확인 해야 합니다.
+
+회사에 PDM이 있는 경우-파트너 센터 계정이 설정 되 고 사용자가 이동 하 여 역할 및 사용 권한을 보유 하는 경우 공동 판매 작업을 파트너 센터로 이동할 수 있습니다. PDM에 게 스위치를 지정 하 여 모든 새 거래를 파트너 센터로 전달 하도록 합니다.
+>[!Note]
+>이 스위치를 만든 후에는 PSC의 기존 활성 거래에 대해서만 작업을 수행할 수 있습니다. 새 거래를 만들거나 PSC의 Microsoft 판매자 로부터 거래를 받을 수 없습니다.
+
+회사에서 PDM을 사용 하지 않는 경우 모든 사용자 계정이 설정 되 고 모든 사용자가 확인 하는지 확인 합니다. 파트너 센터에서 공동 판매를 시작할 수 있는 정확한 날짜와 관련 하 여 PSC의 전자 메일과 배너를 통해 알림이 제공 됩니다. PSC에서 기존 활성 거래를 관리 해야 한다는 점에 주의 해야 합니다.
+
+>[!Important]
+>활성 거래는 PC로 마이그레이션되지 않습니다. 2020 년 12 월 31 일까 지 해당 거래를 종결 하 고 등록할 수 있습니다.
+
+## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>PSC 관리자, PSC 거래 관리자 및 PSC 판매자를 위한 다음 단계
+
+파트너 센터에 공동 판매 하는 방법에 대해 알아봅니다.
+이는 파트너 센터에서 공동 판매를 위해 준비 하는 데 도움이 되는 중요 한 단계입니다. 파트너 센터의 워크플로와 변경 사항을 이해 하 여 하루에 효과적으로 공동 판매할 수 있도록 합니다. 이 문서를 완전히 읽고 시작 합니다. [공동 판매 환경 갤러리](https://aka.ms/cosellexperience)에서도 적절 한 리소스 집합을 사용할 수 있습니다.
+
+## <a name="major-differences-between-psc-and-pc-workflows"></a>PSC와 PC 워크플로의 주요 차이점
+
+|**시나리오**|**파트너 판매 연결**|**파트너 센터**|
+|-----|:-----|:-----|
+|사용자 역할|PSC에는 관리자, 거래 관리자 및 판매자 역할이 있습니다.|PC에는 모든 거래에 대해 읽기 및 쓰기 권한을 모두 제공 하는 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할만 있습니다.|
+|공동 판매 요청|Microsoft 판매자에 의해 시작 된 파트너에 게는 명시적으로 묻지 않습니다.|파트너는 Microsoft 판매자 도움말이 거래에 필요한 경우 [명시적 요청](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 을 해야 합니다. Microsoft 판매자에 게 요청을 거부 하는 옵션이 있습니다.|
+|만료|거래 만료 라는 개념은 없습니다.|파트너 인바운드 거래는 파트너에 의해 허용 되지 않는 경우 14 일 후에 만료 됩니다. Microsoft 판매자가 14 일 내에 작업 하지 않는 경우 만료 된 상태로 전환할 수 있는 파트너 아웃 바운드 거래의 경우에도 마찬가지입니다.|
+|Microsoft 판매자 세부 정보|거래를 만드는 즉시 표시 됩니다.|판매자가 파트너의 공동 판매 초대를 명시적으로 수락 하는 경우에만 Microsoft 판매자 세부 정보가 파트너와 공유 됩니다.|
+|[개인 파이프라인](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|사용할 수 없습니다.|파트너는 Microsoft 판매자에 게 가시성을 제공 하지 않고 파이프라인을 공유할 수 있습니다.|
+|솔루션|하나 이상의 가격 목록에 속한 솔루션도 거래에 추가할 수 있습니다.|파트너는 다음 목록을 포함 하는 [솔루션](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 을 추가할 수 있습니다. a) 자사 솔루션 b) Microsoft 자사 카탈로그 (역할: PSC의 트랜잭션) 및 c)의 솔루션은 다른 타사 파트너의 공동 판매 솔루션 (Microsoft에서 역할: ISV의 ISV)을 공동 판매 합니다.|
+|거래 과제|할당 된 판매자만 거래를 보고 작업할 수 있습니다.|팀 멤버를 거래에 추가 하 여 거래를 담당 하는 사용자를 지정할 수 있으며, 다른 조회 관리자가 해당 거래를 보거나 작업을 수행할 수 없도록 차단 되지 않습니다.|
+|고객 조직|자유 형식 텍스트 항목입니다.|몇 자만 입력 하면 [D&B 데이터베이스](https://www.dnb.com/) 에 대해 [고객 조직을](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) 검색할 수 있습니다. 올바른 이름 및 주소는 선택에 따라 자동으로 채워집니다.|
+|고객 연락처|필수가 아닙니다.|개인 파이프라인 공유의 경우 필수 항목이 아닙니다. Microsoft 판매자가 공동 판매 요청에 참여 하도록 초대 된 경우에 필요 합니다.|
+|공용 API|사용할 수 없습니다.|파트너 센터 조회를 프로그래밍 방식으로 관리 하는 [공용 API](https://docs.microsoft.com/partner/develop/referrals) .|
+
+## <a name="psc-and-partner-center-field-mapping"></a>PSC 및 파트너 센터 필드 매핑
+
+이 섹션에서는 PSC와 파트너 센터 간 특성의 정확한 매핑을 이해 하는 데 도움을 줍니다. PSC의 각 화면은 파트너 센터 공동 판매 기회 섹션의 관련 보기와 비교 됩니다. 
+
+>[!Note]
+>PSC 스크린샷에서 노란색 거품의 숫자를 따라 파트너 센터에서 해당 하는 특성을 찾습니다. 빨간색 거품은 만든이를 파트너 센터에서 사용할 수 없음을 의미 합니다.
+
+### <a name="home-page-of-psc-and-default-view-of-the-co-sell-opportunities-in-partner-center"></a>파트너 센터에서 공동 판매 기회의 기본 보기 및 PSC의 홈 페이지
+
+ :::image type="content" source="images/pscmigration/homepage.png" alt-text="파트너 판매 연결의 홈 페이지와 파트너 센터에서 공동 판매 기회의 기본 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+
+### <a name="psc-grid-view-and-the-partner-center-deal-view"></a>PSC 그리드 뷰 및 파트너 센터 거래 뷰
+
+- 파트너 센터에는 PSC와 같은 목록 보기가 없습니다.  모든 거래는 고객 정보 및 해당 거래의 유형을 사용 하 여 최근 받거나 만든 날짜를 기준으로 나열 됩니다. 뷰의 첫 번째 처리는 기본적으로 선택 됩니다. PSC 테이블 형식에 표시 되는 대부분의 값은 PC의 처리 세부 정보 보기에서 사용할 수 있습니다.
+- 게임 역할은 PC의 필수 필드가 아닙니다. 모든 워크플로에서 표시 되거나 캡처되지 않습니다. 이는 거래에 추가 된 솔루션을 기준으로 Microsoft 판매자 쪽에서 자동으로 파생 됩니다.
+- 마지막으로 수정한 날짜는 PC의 조회 세부 정보 페이지에 표시 되지 않습니다. 파트너는 정렬 기능을 사용 하 여 마지막으로 업데이트 된 날짜를 기준으로 거래를 정렬할 수 있습니다.
+
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="파트너 판매 연결 (PSC) 그리드 뷰와 파트너 센터 거래 뷰 간의 필드 매핑을 보여 주는 이미지입니다.":::
+
+### <a name="deal-details-view-in-psc-and-partner-center"></a>PSC 및 파트너 센터의 거래 세부 정보 보기
+
+- 파트너는 파트너 거래 세부 정보 보기 (6)에서 편집 단추를 클릭 하 여 거래를 편집할 수 있습니다. 편집 단추를 클릭 하면 모든 필드가 편집 가능으로 설정 되 고 해당 거래에 대 한 편집 내용을 저장 하거나 취소 합니다.
+- 파트너 센터에서 중복으로 처리 하는 옵션은 없습니다.
+- 파트너 센터에서는 고객의 결과를 사용할 수 없습니다. 고객 상호 작용과 관련 된 모든 세부 정보는 PC의 참고 섹션에서 업데이트할 수 있습니다.
+- 예상 솔루션 종결 날짜는 OEM IOT 거래 에서만 가능 합니다. 다른 모든 형식에 대해서는 표시 되지 않습니다.
+- PC에는 라이선스 프로그램이 필요 하지 않습니다. 이는 거래에서 선택 된 솔루션을 기반으로 자동으로 유추 됩니다.
+
+>[!Note]
+>성공 또는 분실으로 표시 된 모든 거래는이 게시물을 편집할 수 없습니다. 거래를 이러한 터미널 상태 중 하나로 이동 하는 동안 주의를 기울여야 합니다.
+
+ :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="파트너 판매 연결 (PSC) 거래 세부 정보 보기와 파트너 센터의 세부 정보 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+
+### <a name="psc-add-products-view-and-the-partner-center-add-solutions-view"></a>PSC 제품 보기 및 파트너 센터 추가 솔루션 보기 추가
+
+ :::image type="content" source="images/pscmigration/products.png" alt-text="파트너 판매 연결 (PSC) 제품 보기와 파트너 센터 추가 솔루션 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+
+### <a name="user-management-in-psc-and-partner-center"></a>PSC 및 파트너 센터의 사용자 관리
+
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="계정 설정 보기의 PSC (파트너 판매 연결) 사용자 관리 홈과 파트너 센터 사용자 관리 간의 필드 매핑을 보여 주는 이미지입니다.":::
+
+### <a name="user-role-assignment-in-psc-and-partner-center"></a>PSC 및 파트너 센터의 사용자 역할 할당
+
+- PSC 관리자에 대 한 동등한 역할은 파트너 센터의 계정 관리자 역할입니다.
+- 파트너 센터에는 조회 관리자 역할인 공동 판매 거래 관리를 위한 역할이 하나만 있습니다.
+- PSC의 모든 거래 관리자와 판매자에 게는 조회 관리자 역할이 할당 되어야 합니다.
+
+ :::image type="content" source="images/pscmigration/roles.png" alt-text="파트너 판매 연결 (PSC) 역할 할당 보기와 파트너 센터 역할 할당 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+
+### <a name="notifications-in-psc-and-partner-center"></a>PSC 및 파트너 센터의 알림
+
+ :::image type="content" source="images/pscmigration/notifications.png" alt-text="PSC (파트너 판매 연결) 알림과 파트너 센터 알림 보기 간의 매핑을 보여 주는 이미지입니다.":::
+
+## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>PSC에서 파트너 센터로 이동-질문과 대답
+
+### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>17. 파트너 센터에 액세스할 수 없는 경우 어떻게 해야 하나요?
+
+"권한 없음" 페이지에 나열 된 관리자에 게 할당 된 역할을 가져올 수 있습니다. [조회] 섹션에서 "[조회 관리자] (() https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 에는 읽기 및 쓰기 권한이 있어야 합니다. 비즈니스 프로필만 관리 하는 경우 파트너 센터에서 "비즈니스 프로필 관리자" 역할이 필요 합니다.
+
+### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>17. 파트너 센터의 조회 섹션에 대 한 액세스 권한을 부여할 수 있는 사용자는 누구 인가요?
+
+[계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 계정 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "계정 관리자"로 변경 합니다. 그러면 페이지에 해당 전자 메일 Id가 있는 모든 계정 관리자가 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
+
+### <a name="q-the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>17. + 새 거래 단추는 계정에 대해 회색으로 표시 됩니다. 거래를 만들기 시작 하려면 어떻게 해야 하나요?
+
+파트너 센터에서 사용 하는 MPN 조직에 연결 된 공동 판매 준비 솔루션이 없는 경우에만이 문제가 발생 합니다. PDM에 문의 하 여 해결 된 솔루션의 MPN ID를 확인 하거나 "새 거래 단추를 통해 PSC 마이그레이션 후 회색으로 표시 되었습니다." 라는 문제를 언급 하는 지원 티켓을 만드세요.
+
+### <a name="q-can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>17. PSC와 같은 조직의 특정 사용자에 게 거래를 할당할 수 있나요?
+
+팀 멤버를 특정 거래에 할당할 수 있습니다. 다른 조회 관리자가 해당 거래를 보거나 동작 하는 것을 차단 하지 않습니다. 
+
+### <a name="q-is-there-a-view-of-all-the-deals-assigned-to-me"></a>17. 내게 할당 된 모든 거래의 뷰가 있나요?
+
+사용자 수준 탭 인 즐겨찾기 기능을 사용할 수 있습니다. 자신에 게 할당 된 모든 거래를 즐겨찾기로 표시 하 여 거래에 빠르게 액세스할 수 있습니다.
+
+### <a name="q-is-there-a-read-only-view-for-the-deals"></a>17. 거래에 대 한 읽기 전용 보기가 있나요?
+
+아니요, 조회 섹션에는 거래에 대 한 읽기 전용 보기가 없습니다. 모든 조회 관리자는 모든 거래에 대해 모든 읽기 및 쓰기 권한을 갖습니다.
+
+### <a name="q-how-can-i-register-a-deal-after-making-it-as-won"></a>17. 성공으로 만든 후에 어떻게 거래를 등록할 수 있나요?
+
+이러한 조건이 아래 조건을 충족 하는 경우 [등록](https://docs.microsoft.com/partner-center/register-deals)을 시작 하는 팝업이 표시 됩니다.
+
+- 거래에 연결 된 동기 솔루션이 있습니다.
+- Microsoft 판매자는 거래에 참여 하거나 거래에 초대 합니다.
+- Microsoft 카드는 파트너 센터의 수락 또는 성공 상태에 있습니다.
+
+### <a name="q-i-get-an-error-message-when-i-click-on-new-deal-registration-button-in-the-deal-registration-section-how-can-i-register-my-deals"></a>17. [거래 등록] 섹션에서 [+ 새 거래 등록] 단추를 클릭 하면 오류 메시지가 표시 됩니다. 내 거래를 등록 하려면 어떻게 해야 하나요?
+
+"+ 새 거래 등록"은 파트너 센터에서 해당 하는 공동 판매 기회 없이 거래를 등록 하기 위해 ISV 연결 프로그램에 등록 된 파트너에 의해서만 사용 됩니다. 공동 판매 기회를 사용 하 여 거래를 등록 하는 경우에는 거래가 성공으로 표시 되 고 등록을 위한 조건을 충족 하는 경우 팝업이 표시 됩니다.
+
+### <a name="q-is-adding-a-customer-organization-mandatory"></a>17. 고객 조직을 필수로 추가 하 고 있습니까?
+
+예, [고객 조직](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) 추가는 파트너 센터에서 필수입니다. 먼저 고객이 위치한 위치를 검색 합니다. 사용자의 세부 정보를 기반으로 합니다. 정확한 빌드 이름을 포함 하거나 도시 세부 정보를 제공할 수 있습니다. 조직 검색은 사용자가 입력 한 이름과 일치 하는 모든 법률 엔터티를 인출 하므로 주소 정보를 입력할 필요가 없습니다. 모든 세부 정보는 선택한 조직에 따라 자동으로 채워집니다.
+
+### <a name="q-are-customer-contact-details-mandatory"></a>17. 고객 연락처 세부 정보는 필수 인가요?
+
+만들고 있는 [거래 유형에](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) 따라 달라 집니다. 파이프라인을 공유 하 고 Microsoft 판매 조직의 도움을 요구 하지 않는 경우 고객 연락처 세부 정보를 제공 하지 않도록 선택할 수 있습니다. Microsoft 판매자의 도움을 받을 수 있는 공동 판매 인 경우 고객 연락처 세부 정보를 제공 해야 합니다. 파트너 센터에서 공동 판매 요청을 만들기 전에 고객 으로부터 명시적 동의를 받아야 합니다.
+
+### <a name="q-how-many-solutions-can-i-add-to-a-deal"></a>17. 거래에 추가할 수 있는 솔루션은 몇 개입니까?
+
+최대 50 솔루션 (PSC의 제품)을 거래에 추가할 수 있습니다. PSC와 달리 공동 판매 적격 솔루션, Microsoft 자사 Sku 및 기타 타사 공동 판매 솔루션의 솔루션을 혼합할 수 있습니다. 파트너 센터에서 선택 하거나 사용할 수 있는 거래 역할이 없습니다. Microsoft Sku의 경우 거래에 추가 된 각 SKU에 대 한 수량 및 가격을 선택적으로 추가할 수 있습니다.
+
+### <a name="q-when-will-i-get-to-know-the-microsoft-seller-details-after-creating-a-deal"></a>17. 거래를 만든 후 Microsoft 판매자 세부 정보를 어떻게 알 수 있나요?
+
+Microsoft 판매자는 Microsoft 쪽에서 관련 판매자 가상 사용자와 거래 하는 과정을 만드는 동안 명시 된 정확한 도움말 요구 사항을 충족 하는 경우에만 할당 됩니다. 할당 후에도 Microsoft 판매자는 공동 판매 초대를 수락 하거나 거부 하는 옵션을 사용할 수 있습니다. 판매자가 공동 판매 초대를 수락 하는 경우에만 Microsoft 판매자 연락처 세부 정보를 사용 하 여 해당 거래를 업데이트 합니다. Microsoft 판매자에 대 한 SLA는 14 일입니다. 파트너가 만료 된 상태로 전환 되기 전에 처리 해야 하는 SLA와 동일 합니다.
+
+### <a name="q-where-can-i-find-the-opportunity-id"></a>17. 기회 ID는 어디서 찾을 수 있나요?
+
+PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거래 이름 옆의 거래 ID를 찾을 수 있습니다.
+
+### <a name="q-how-can-my-pdm-get-access-to-pc"></a>17. 내 PDM에서 어떻게 PC에 액세스할 수 있나요?
+
+파트너 센터는 PSC와는 달리 사용자의 사용자가 직접 액세스할 수 없습니다. 이 기능을 사용 하도록 설정 하는 여러 옵션이 있습니다. 이러한 기능은 아래에 설명 되어 있습니다.
+
+- OCP 정보-사용자가 관련 & 진행 중인 거래만 확인 하는 경우에는 OCP Insights 포털을 사용 하 여 조직 보기를 가져올 수 있습니다. 이는 내부 도구 이며, 사용자 및 사용자 에게만 사용할 수 있습니다.
+- 파트너 센터의 게스트 사용자- @microsoft.com 거래 센터에서 PDM 계정을 게스트 사용자로 추가 하 고 조회를 보고 작업을 수행할 수 있도록 해당 사용자에 게 조회 관리자 역할을 할당할 수 있습니다.
+- 테 넌 트에 [새 사용자](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) 만들기-사용자의 테 넌 트에 새 사용자를 만들고 해당 세부 정보를 PDM과 공유 하 여 계정의 다른 참조 사용자와 비슷한 조회를 보고 작업할 수 있습니다.
+
+## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>파트너 센터에서 거래를 만들고 관리 하는 데 도움이 되는 리소스
+
+공동 판매 도움말 항목을 아직 읽지 않은 경우 다음 리소스는 파트너 센터에서 거래를 관리 하는 데 도움이 됩니다.
+
+|**수행할 작업**   |**이 글 읽기**   |
+|-----------------------|:-----------------------|
+|공동 판매 기회 페이지에서 탭 및 탐색 이해|[공동 판매 섹션 탐색](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
+|D&B 목록에서 고객 조직 선택 |[고객 선택](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
+|거래 정보 섹션에서 필드 수정|[거래 정보](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
+|거래 팀에 회사 직원 추가|[직원 추가](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
+|공동 판매 거래에 대응|[공동 판매 거래 관리](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
+|파트너 센터에서 승리한 거래 등록 |[새 거래 등록](https://docs.microsoft.com/partner-center/register-deals)
+|조회 정보를 얻고 조회를 수행 하는 방법 알아보기 |[참조 인사이트](https://docs.microsoft.com/partner-center/referral-insights)
+|비즈니스 프로필 만들기 및 관리|[비즈니스 프로필 관리](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
+|비즈니스 프로필에 대 한 잠재 고객 관리 |[잠재 고객 관리](https://docs.microsoft.com/partner-center/manage-leads)|
+
+## <a name="additional-resources"></a>추가 리소스
+
+- 파트너 [판매 파트너 센터 통합 문서에 연결](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -파트너 센터 및 파트너 판매 연결을 통해 파트너의 판매 프로세스 및 역할을 새 판매 프로세스와 맞춥니다.
+- [파트너 센터 공동 판매 운영 가이드](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -파트너 센터를 통해 운영 모델을 식별 하 여 잠재 고객 또는 공동 판매 기회를 관리 하 고 거래를 등록 하는 지침을 제공 합니다.
+- [조회 관리 데크](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx) -파트너 센터를 통해 잠재 고객과 공동 판매 기회를 관리 하는 단계별 지침을 시각화 합니다.
+- [상업적 marketplace에서 게시 및 관리](https://partner.microsoft.com/resources/detail/publishing-and-managing-co-sell-offers-in-commercial-marketplace-pptx) -상업적 Marketplace에서 파트너 센터를 통해 제품을 만들고, 관리 하 고, 게시 하는 단계별 지침을 제공 합니다.

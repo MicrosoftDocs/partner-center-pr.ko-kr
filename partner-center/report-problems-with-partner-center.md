@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7630894df25f5b9919f30c60b0223da9f121788d
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811313"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040759"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
 
@@ -24,6 +24,10 @@ ms.locfileid: "87811313"
 - Microsoft Cloud for US Government 파트너 센터
 
 파트너 센터에서 문제를 발견 하거나 도움이 필요한 경우 파트너 센터 지원에 문의 하세요.
+
+**사용자 역할**
+
+모든 로그인 된 파트너 센터 사용자는 파트너 지원 요청을 만들 수 있습니다. 사용자는 파트너 센터에 로그인 한 후 제출한 지원 요청만 볼 수 있습니다.
 
 **파트너 센터의 문제 보고**
 
