@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041054"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056190"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>파트너 판매 연결 (PSC) 대신 파트너 센터에서 거래 관리를 위한 조회 가이드
 
@@ -42,12 +42,12 @@ ms.locfileid: "89041054"
 - [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
 - 파트너 센터 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)의 도움으로 계정을 설정 합니다.
 - 이 문서를 참조 하 여 파트너 센터에서 공동 판매 하는 방법에 대해 알아봅니다.
-- 파트너 센터에서 PSC 거래 관리자 및 판매자 계정을 설정 하 고 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 할당 합니다.
+- 파트너 센터에서 PSC 거래 관리자 및 판매자 계정을 설정 하 고 해당 계정을 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할에 할당 합니다.
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>사용자가 거래 관리자 또는 판매자 인 경우
 
 - [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
-- Psc에서 비작동 계정이 나 PSC에서 사용 하는 다른 도메인을 사용 하는 경우 계정 설정 도움말은 PSC 관리자에 게 문의 하세요.
+- Psc에서 비작동 계정이 나 PSC에서 사용 하 고 있는 도메인과 다른 도메인을 사용 하는 경우 계정 설정 도움말은 PSC 관리자에 게 문의 하세요.
 - PSC에 로그인 하는 데 사용 하는 계정에 관계 없이 파트너 센터 계정 설정의 완료 여부를 PSC 관리자에 게 확인 합니다.
 - 파트너 센터 및 조회 섹션에 대 한 액세스 권한이 있는지 확인 합니다.
 - 이 문서를 읽고 파트너 센터의 워크플로 및 변경 내용을 이해 하세요.
@@ -114,7 +114,7 @@ ms.locfileid: "89041054"
 ### <a name="psc-grid-view-and-the-partner-center-deal-view"></a>PSC 그리드 뷰 및 파트너 센터 거래 뷰
 
 - 파트너 센터에는 PSC와 같은 목록 보기가 없습니다.  모든 거래는 고객 정보 및 해당 거래의 유형을 사용 하 여 최근 받거나 만든 날짜를 기준으로 나열 됩니다. 뷰의 첫 번째 처리는 기본적으로 선택 됩니다. PSC 테이블 형식에 표시 되는 대부분의 값은 PC의 처리 세부 정보 보기에서 사용할 수 있습니다.
-- 게임 역할은 PC의 필수 필드가 아닙니다. 모든 워크플로에서 표시 되거나 캡처되지 않습니다. 이는 거래에 추가 된 솔루션을 기준으로 Microsoft 판매자 쪽에서 자동으로 파생 됩니다.
+- 게임 역할은 PC의 필수 필드가 아닙니다. 이러한 워크플로는 워크플로를 표시 하거나 캡처하지 않습니다. 이는 거래에 추가 된 솔루션을 기준으로 Microsoft 판매자 쪽에서 자동으로 파생 됩니다.
 - 마지막으로 수정한 날짜는 PC의 조회 세부 정보 페이지에 표시 되지 않습니다. 파트너는 정렬 기능을 사용 하 여 마지막으로 업데이트 된 날짜를 기준으로 거래를 정렬할 수 있습니다.
 
  :::image type="content" source="images/pscmigration/gridview.png" alt-text="파트너 판매 연결 (PSC) 그리드 뷰와 파트너 센터 거래 뷰 간의 필드 매핑을 보여 주는 이미지입니다.":::
@@ -156,7 +156,7 @@ ms.locfileid: "89041054"
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>17. 파트너 센터에 액세스할 수 없는 경우 어떻게 해야 하나요?
 
-"권한 없음" 페이지에 나열 된 관리자에 게 할당 된 역할을 가져올 수 있습니다. [조회] 섹션에서 "[조회 관리자] (() https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 에는 읽기 및 쓰기 권한이 있어야 합니다. 비즈니스 프로필만 관리 하는 경우 파트너 센터에서 "비즈니스 프로필 관리자" 역할이 필요 합니다.
+"권한 없음" 페이지에 나열 된 관리자에 게 할당 된 역할을 가져올 수 있습니다. 조회 섹션에는 읽기 및 쓰기 권한을 위한 "[조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" 역할이 필요 합니다. 비즈니스 프로필만 관리 하는 경우 파트너 센터에서 "비즈니스 프로필 관리자" 역할이 필요 합니다.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>17. 파트너 센터의 조회 섹션에 대 한 액세스 권한을 부여할 수 있는 사용자는 누구 인가요?
 
