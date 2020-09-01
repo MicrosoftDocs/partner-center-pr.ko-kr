@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303199"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220541"
 ---
 # <a name="manage-co-op-claims"></a>협업 클레임 관리
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
 
-다음 콘텐츠는 타임 라인, 규칙 및 거부 된 co op 클레임을 포함 하는 방법을 비롯 하 여 공동 op 클레임을 관리 하기 위한 정보를 제공 합니다.
-
-적절 한 역할:
+**적절한 역할:**
 
 - 인센티브 관리자
+
+다음 콘텐츠는 타임 라인, 규칙 및 거부 된 co op 클레임을 포함 하는 방법을 비롯 하 여 공동 op 클레임을 관리 하기 위한 정보를 제공 합니다.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>협업 클레임 승인 및 결제 마감일
 
@@ -72,3 +72,7 @@ ms.locfileid: "88303199"
 4. 페이지 맨 아래에서 **이의 제기**를 선택합니다.
 
 공동 클레임 유효성 검사 팀은 영업일 기준 5일 이내에 클레임을 검토합니다. 이 시간 동안 상태가 **이의 제기됨**으로 표시됩니다. 사용자에게 연락하여 추가 정보를 요청할 수 있습니다. 검토가 완료되면 유효성 검사 팀에서 상태를 **승인됨**, **거부됨** 또는 **파트너 작업이 필요함** 중 하나로 업데이트합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [인센티브 시작](incentives-get-started-intro.md)

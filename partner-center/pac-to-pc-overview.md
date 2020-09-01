@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114514"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220741"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 관리 센터가 파트너 센터로 이동
 
@@ -39,9 +39,9 @@ Microsoft는 파트너 센터를 Microsoft와 고객과 파트너 관계를 관�
 
 4 월 2018 동안 PAC는 사용이 중단 되 고 CSP 파트너는 Microsoft 파트너 센터로 자동으로 리디렉션됩니다. 리디렉션은 단계별로 수행 되며 파트너 센터로 리디렉션되는 경우 PAC에서 작업을 수행할 수 없습니다. 
 
-**클라우드 솔루션 공급자 파트너** CSP 파트너인 경우 2018 4 월부터 파트너 센터로 자동으로 리디렉션됩니다. 
+- 클라우드 솔루션 공급자 파트너: CSP 파트너 인 경우 2018 년 4 월부터 파트너 센터로 자동으로 리디렉션됩니다.
 
-파트너 센터에 자동으로 리디렉션하는 타임 라인에 대 한 타임 라인을 결정 하는 즉시 **Advisor 파트너** (CSP를 통해 TRANSACT-SQL 및 PAC를 사용 하 여 고객에 게 평가판/견적을 제공 하지 않은 경우)는 여기에서 공지 합니다. 
+- Advisor 파트너 (CSP를 통해 거래 하지 않고 PAC를 사용 하 여 고객에 게 평가판/견적을 제공 하는 경우): 파트너 센터에 자동으로 리디렉션하는 시간 표시 막대를 결정 하는 즉시 여기에서 발표 합니다.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>지금 Microsoft 파트너 센터 사용을 시작 하세요!
 

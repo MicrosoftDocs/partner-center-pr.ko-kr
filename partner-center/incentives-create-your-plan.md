@@ -1,33 +1,33 @@
 ---
-title: 계획 만들기
+title: 성과급 요금제 만들기
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: 필요한 정보를 수집 하 고 만들어 성과급 프로그램에 대 한 성공적인 마케팅 계획을 생성 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303249"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220631"
 ---
-# <a name="create-your-plan"></a>계획 만들기
+# <a name="create-your-incentives-plan"></a>성과급 요금제 만들기
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
 
-공동 작업 클레임 계획은 일련의 마케팅 캠페인, 작업 및 프로그램을 성공적으로 만드는 방법을 설명 하는 기타 세부 정보를 제공 합니다. 계획을 만든 후에는 승인을 위해 Microsoft에 제출 합니다. 
-
-적절 한 역할:
+**적절한 역할:**
 
 - 인센티브 관리자
 - 청구 관리자
 - 글로벌 관리자
+
+공동 작업 클레임 계획은 일련의 마케팅 캠페인, 작업 및 프로그램을 성공적으로 만드는 방법을 설명 하는 기타 세부 정보를 제공 합니다. 계획을 만든 후에는 승인을 위해 Microsoft에 제출 합니다.
 
 ## <a name="create-your-incentives-plan"></a>성과급 요금제 만들기
 
@@ -93,3 +93,7 @@ Microsoft는 실적 및 계획의 한도를 기준으로 매월 지급금을 제
 예를 들어 계획이 10,000달러로 승인되고 4월에 5,000달러의 실적을 올린 경우 5월 15일에 5,000달러를 받게 됩니다.
 
 동일한 계획에서 4월에 15,000달러의 실적을 올린 경우 계획 제한이 10,000달러이므로 5월 15일에 10,000달러를 받게 됩니다. 더 많은 지급금을 받으려면 다음 달의 계획 제한을 올려야 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [실행 증명서 준비](incentives-prepare-your-proof-of-execution.md)

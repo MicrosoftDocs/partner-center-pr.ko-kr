@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9118745b19d48d572378df0b32035c9de4d62c99
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949540"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220092"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -44,7 +44,7 @@ Microsoft 클라우드 독일 파트너 센터에 로그인 한 경우 다시 �
 Microsoft 클라우드 독일의 Azure Portal에 성공적으로 로그인 한 후에 Azure Active Directory (Azure AD) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.
 
 > [!NOTE]  
-> 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다. 
+> 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다.
 
 -  [Azure Active Directory에 새 사용자 추가](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -52,10 +52,7 @@ Microsoft 클라우드 독일의 Azure Portal에 성공적으로 로그인 한 �
 
 -  [Azure Active Directory에서 사용자 암호 재설정](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**관련 항목**
+## <a name="next-steps"></a>다음 단계
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
-
 -  [Microsoft 클라우드 독일 파트너 센터](partner-center-for-microsoft-cloud-germany.md)
-
-

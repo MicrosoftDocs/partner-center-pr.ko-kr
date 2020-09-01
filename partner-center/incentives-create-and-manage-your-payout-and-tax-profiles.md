@@ -1,33 +1,33 @@
 ---
 title: 파트너 센터에서 지급 및 세금 프로필 만들기 및 관리
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: 성과급 작업에 대 한 지불을 받으려면 먼저 지급 및 세금 프로필을 만들어야 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303279"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220801"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 지급 및 세금 프로필
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
 
-특정 MPN 위치에 대한 인센티브 프로그램의 지급금을 받으려면 유효한 지급 및 세금 프로필을 프로그램 및 MPN 위치와 연결하여 등록을 완료해야 합니다. Microsoft는이 지급 및 세금 프로필을 사용하여 지급금을 제공합니다. 인센티브 프로그램의 규칙에 따라 전자 계좌 이체 또는 결제 신용 전표를 사용할 수 있습니다. 
-
-적절 한 역할:
+**적절한 역할:**
 
 - 인센티브 관리자
 - 청구 관리자
 - 글로벌 관리자
+
+특정 MPN 위치에 대한 인센티브 프로그램의 지급금을 받으려면 유효한 지급 및 세금 프로필을 프로그램 및 MPN 위치와 연결하여 등록을 완료해야 합니다. Microsoft는이 지급 및 세금 프로필을 사용하여 지급금을 제공합니다. 인센티브 프로그램의 규칙에 따라 전자 계좌 이체 또는 결제 신용 전표를 사용할 수 있습니다. 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>역할, 통화 및 기타 Microsoft 프로그램
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303279"
 
 동기 지불액에 대 한 은행 및 세금 정보를 입력 하려면 성과급 관리자 여야 합니다. MPN/계정 관리자 인 경우 자신 및/또는 동료를 성과급 관리자로 할당할 수 있습니다.
 
-성과급 관리자 권한을 요청 해야 하는 경우 MPN 관리자 또는 전역 관리자에 게 문의 하세요. [파트너 센터 대시보드에서](https://partner.microsoft.com/dashboard/)이러한 역할이 있는 사용자를 확인할 수 있습니다. 오른쪽 위의 **설정** 아이콘에서 **사용자 관리** 를 선택 하 고 전역 관리자에서 필터링 합니다.
+성과급 관리자 권한을 요청 해야 하는 경우 MPN 관리자 또는 전역 관리자에 게 문의 하세요. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인 하 여 회사에서 이러한 역할을 가진 사람을 확인할 수 있습니다. 오른쪽 위의 **설정** 아이콘에서 **사용자 관리** 를 선택 하 고 전역 관리자에서 필터링 합니다.
 
 성과급 사용자는 동기 수입 및 지불 정보 및 보고서를 볼 수 있지만, 은행 및 세금 정보는 편집할 수 없습니다.
 
@@ -58,11 +58,11 @@ Microsoft에서 지불에 이미 은행 데이터를 사용 하는 경우에도 
 아래 섹션에서는 파트너 센터에서 결제 및 세금 프로필을 만들고 관리 하는 과정을 안내 합니다.
 
 >[!IMPORTANT]
->파트너 센터에서 지불 프로필을 만들거나 관리 하려면 동기 관리자 여야 합니다. 각 동기 프로그램의 각 MPN 위치에는 동기 역할을 할당 해야 합니다. 파트너 센터에서 동기 관리자를 추가 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 동기 사용자 또는 관리자를 추가 하는 방법](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center)을 참조 하세요.
+>파트너 센터에서 지불 프로필을 만들거나 관리 하려면 동기 관리자 여야 합니다. 각 동기 프로그램의 각 MPN 위치에는 동기 역할을 할당 해야 합니다. 파트너 센터에서 동기 관리자를 추가 하는 방법에 대 한 자세한 내용은 [사용자 계정 만들기](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)를 참조 하세요.
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>파트너 센터의 지급 및 세금 섹션 액세스
 
-1. Azure Active Directory (Azure AD) 계정 (회사 계정)을 사용 하 여 파트너 센터에 로그인 하거나, 할당 된 경우 적절 한 전자 메일 주소를 사용 합니다. 
+1. Azure Active Directory (Azure AD) 계정 (회사 계정)을 사용 하 여 [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/) 로그인 하거나, 할당 된 경우 적절 한 전자 메일 주소를 사용 하 여 로그인 합니다.
 
    - 하나의 Azure AD 계정 내에 여러 도메인을 등록할 수 있습니다. 전역 관리자에 게 문의 하 여 연결 된 도메인을 확인 합니다.
    - 도메인을 사용 하 여 로그인 할 수 있는 경우 @onmicrosoft.com 계정 관리자에 게 문의 하 여 AZURE AD 계정에 도메인을 추가 합니다.
@@ -74,7 +74,7 @@ Microsoft에서 지불에 이미 은행 데이터를 사용 하는 경우에도 
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>개별 프로그램에 지급 및 세금 프로필 할당
 
-1. 파트너 센터에서 기어 아이콘을 선택 하 여 **설정** 메뉴를 엽니다. 
+1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 하 고 기어 아이콘을 선택 하 여 **설정** 메뉴를 엽니다. 
 
 2. **파트너 설정**을 선택 하 고 **지급 및 세금 섹션**을 확장 한 다음 **지급 및 세금 프로필 할당**을 선택 합니다. 
    

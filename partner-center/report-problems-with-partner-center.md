@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040759"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220251"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
 
@@ -29,7 +29,7 @@ ms.locfileid: "89040759"
 
 모든 로그인 된 파트너 센터 사용자는 파트너 지원 요청을 만들 수 있습니다. 사용자는 파트너 센터에 로그인 한 후 제출한 지원 요청만 볼 수 있습니다.
 
-**파트너 센터의 문제 보고**
+## <a name="report-a-problem-with-the-partner-center"></a>파트너 센터의 문제 보고
 
 1. **파트너 센터** 대시보드에서 **지원** 을 선택 하 고 **파트너 지원 요청**을 선택 합니다.
 
@@ -41,7 +41,7 @@ ms.locfileid: "89040759"
 
 5. **문제 세부 정보** 를 완료 한 후 **제출**합니다. 파트너 지원 담당자는 다음과 같은 작업을 수행 합니다.
 
-**진단 보내기**
+## <a name="send-diagnostics"></a>진단 보내기
 
 파트너 센터 페이지에 있는 동안 오류가 발생 하는 경우 로그 정보를 수집 하 라는 메시지가 표시 될 수 있습니다. 페이지 맨 위에 있는 링크에서 **자세한 정보 수집** 을 선택 하 여 클라이언트 진단 도구를 엽니다. 이 도구는 파트너 지원 팀에서 오류 원인을 확인하는 데 필요한 정보를 수집합니다. 
 
@@ -54,7 +54,7 @@ ms.locfileid: "89040759"
 
 진단 정보를 미리 본 다음 지원 요청에 첨부할 수 있는 파일에 저장할 수 있습니다. 정보를 보내려면 다음을 수행 합니다.
 
-3. 제거 하려는 개인 식별 정보를 포함할 수 있으므로 파일을 보내기 전에 파일의 정보를 검토 합니다. 
+3. 제거 하려는 개인 식별 정보를 포함할 수 있으므로 파일을 보내기 전에 파일의 정보를 검토 합니다.
 
     >[!NOTE]
     >일부 브라우저에서는 **미리 보기** 페이지의 아래쪽에 있는 **페이지 보기** 섹션이 비어 있는 것으로 표시 될 수 있습니다. 이것은 정상입니다.

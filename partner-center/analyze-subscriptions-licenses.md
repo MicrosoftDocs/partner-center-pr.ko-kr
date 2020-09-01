@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436122"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220691"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>비즈니스 결정과 새로운 목표를 추진 하는 데 도움이 되는 구독 및 라이선스 분석
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436122"
 
 데이터는 비즈니스 의사 결정을 유도 합니다. **구독 및 라이선스 분석** 페이지의 메트릭을 사용 하 여 주의가 필요한 성공 및 영역을 식별할 수 있습니다. 새 비즈니스 목표를 계획할 때이 정보를 사용 합니다.
 
-> [!NOTE]
-> 구독 라이선스 분석은 클라우드 솔루션 공급자 프로그램의 파트너에 대해서만 사용할 수 있습니다.
+**CSP Ttm 수익 (USD)**:이 메트릭은 파트너 위치 계정 및이 CSP 계정이 연결 된 파트너 전역 계정 (표준)에 대 한 마지막 12 개월 (ttm)의 집계 된 CSP 청구 수익 (usd)을 나타냅니다. 다른 사용자가 다른 CSP 계정을 사용 하는 경우 각각에 로그인 하 여 해당 하는 집계 TTM 수익을 확인 해야 합니다.  다운로드 세부 정보 링크를 클릭 하 여 MPN ID 당 TTM 수익 (USD)의 분석을 가져옵니다.
 
-
-이 보고서는 다음 제품을 기반으로 피벗 될 수 있습니다.
+보고서의 나머지 부분은 다음 제품을 기반으로 피벗할 수 있습니다.
 
  - **Dynamics 365**: dynamics 365 데이터  
  - **EMS**: 엔터프라이즈 관리 서비스 데이터  

@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998359"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220701"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>분석을 사용 하 여 간접 대리점의 성능 분석
 
@@ -69,6 +69,18 @@ ms.locfileid: "87998359"
  - **위치**: 간접 대리점이 작동 하는 시장  
  - **구독**: 재판매인이 판매한 구독 수  
  - **라이선스**: 재판매인이 모든 구독에서 판매 하는 총 라이선스 수  
+
+**MPA 서명 된 상태**
+
+이 섹션에서는 CSP 간접 대리점의 MPA 서명 된 상태 상태를 제공 합니다.
+
+ - **대리점 이름**: CSP 간접 재판매인의 이름
+ - **MPN id**: 간접 재판매인의 MPN id
+ - **지역**: 간접 재판매인이 작동 하는 지역
+ - **MPN 심사 status**: 간접 재판매인의 심사 상태
+ - **Mpa 서명 된 상태**: 간접 재판매인의 mpa 서명 상태
+
+차트에서 다운로드 아이콘을 클릭 하 여 추가 차원과 함께 MPA 서명 된 상태 데이터를 다운로드 합니다.
   
 ## <a name="next-steps"></a>다음 단계
 

@@ -1,25 +1,31 @@
 ---
 title: 성과급 FAQ
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Microsoft 성과급 질문과 대답
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427005"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220591"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>성과급에 대 한 질문과 대답
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
+
+**적절한 역할:**
+
+- 인센티브 관리자
+
+- 인센티브 사용자
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>전역 관리자가 성과급으로 등록 해야 하나요?
 
@@ -42,3 +48,7 @@ MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>등록 프로세스 중에 오류 메시지가 표시 되거나 도움이 필요한 경우 누구에 게 연락 해야 하나요?
 
 대시보드의 성과급 섹션 내에서 문제가 발생 하는 경우 온라인 지원 서비스가 있습니다. 지원 옵션을 참조 하세요 (? 아이콘)을 마우스 오른쪽 단추로 이동 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [인센티브 시작](incentives-get-started-intro.md)

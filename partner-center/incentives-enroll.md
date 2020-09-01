@@ -1,25 +1,29 @@
 ---
-title: 성과급 프로그램에 등록
+title: 인센티브 프로그램에 등록
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: 성과급 프로그램에 등록 하 고 사용자 관리에 필요한 역할을 할당 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eae4baa3cfd49692c6b672c45ec30c8384449975
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427006"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220601"
 ---
-# <a name="enroll-in-the-incentives-program"></a>성과급 프로그램에 등록
+# <a name="enroll-in-the-incentives-program"></a>인센티브 프로그램에 등록
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
+
+**적절한 역할:**
+
+- 인센티브 관리자
 
 >[!NOTE]
 >성과급 프로그램에 등록 하려면 먼저 파트너 구성원 센터에서 파트너 센터 [마이그레이션을](prepare-pmc-pc-migration.md)완료 해야 합니다.
@@ -32,7 +36,7 @@ ms.locfileid: "88427006"
 
 ## <a name="user-management"></a>사용자 관리
 
-동기 프로그램에 등록 하려면 전역 관리자 또는 계정 관리자가 회사 사용자를 설정 해야 합니다. 동기 관리자를 할당 하 고 동기 사용자 권한을 부여 해야 합니다. 파트너 계정, 역할 및 권한에 대 한 자세한 내용은 [파트너 센터 계정 관리](partner-center-account-setup.md)를 참조 하세요. 전역 관리자는 AAD (Azure Active Directory)를 통해 회사 사용자를 설정할 수도 있습니다.
+동기 프로그램에 등록 하려면 전역 관리자 또는 계정 관리자가 회사 사용자를 설정 해야 합니다. 동기 관리자를 할당 하 고 동기 사용자 권한을 부여 해야 합니다. 파트너 계정, 역할 및 권한에 대 한 자세한 내용은 [파트너 센터 계정 관리](partner-center-account-setup.md)를 참조 하세요. 전역 관리자는 Azure Active Directory (Azure AD)를 통해 회사 사용자를 설정할 수도 있습니다.
 
 조직이 성과급을 받을 자격이 있으면 Microsoft는 전역 관리자, 계정 관리자 및 동기 관리자에 게 초대를 보냅니다.
 
@@ -43,7 +47,7 @@ ms.locfileid: "88427006"
 
 조직이 성과급을 받을 자격이 있으면 Microsoft는 적격 MPNLocationID의 MPN 관리자에 게 프로세스를 시작 하 라는 초대를 보냅니다. 이 전자 메일은 **Microsoft 파트너 센터**에서 전송 되며 주체 **파트너 동기 등록 초대**를 갖게 됩니다. 초대를 열고 **시작**을 선택 합니다.
 
-파트너 센터 홈페이지에 대 한 초대도 표시 됩니다. 해당 메시지를 선택 하면 다시 볼 수 없습니다. 그러나 관리자는 [파트너 센터 대시보드의](https://partner.microsoft.com/dashboard/)사용자 관리로 이동 하 여 프로세스를 시작할 수 있습니다.
+파트너 센터 홈페이지에 대 한 초대도 표시 됩니다. 해당 메시지를 선택 하면 다시 볼 수 없습니다. 그러나 관리자는 [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/) 에 로그인 하 고 **사용자 관리**를 선택 하 여 프로세스를 시작할 수 있습니다.
 
 ## <a name="expiration-and-renewal"></a>만료 및 갱신
 

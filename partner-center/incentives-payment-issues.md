@@ -1,19 +1,19 @@
 ---
 title: 결제 및 소득 문제 해결
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: 누락 되거나 잘못 된 소득, 자격 문제 및 성과급 소득 조정 방법 등의 문제를 해결 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893475"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220791"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>결제 및 소득 문제 해결
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893475"
 **적절 한 역할**:
 
 - 인센티브 관리자
-
 
 이 문서는 성과급 프로그램의 소득 또는 지불 문제를 해결 하는 데 도움이 됩니다. 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 중요성에 대해 설명 합니다.
 
@@ -57,18 +56,20 @@ ms.locfileid: "88893475"
 
   **자격을 확인 하려면**
 
-  1. 파트너에 게 파트너 [성과급](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
-  
+  1. [파트너 성과급](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
+
   2. 프로그램의 문서까지 아래로 스크롤합니다.
   
-  3. 원하는 문서 링크를 선택 하 고 **파트너 자격** 및 **적격 수익 규칙**섹션을 검토 합니다.
+  3. 원하는 문서 링크를 선택 하 고 섹션을 검토 합니다. 
+
+**파트너 자격** 및 **적격 수익 규칙**.
 
 - **지불 프로필이 불완전할 수 있습니다.** 모든 자격 요건(예: 지급 및 세금 세부 정보 온보딩)을 충족한 달의 첫날이 인센티브 소득 시작 날짜가 됩니다. 지급 및 세금 세부 정보를 작성한 날의 이전 달에 대한 소득은 제공되지 않습니다. 예를 들어 2020년 4월 중에 모든 요구 사항을 완료하는 경우 소득 시작 날짜는 2020년 4월 1일입니다.
 - **처리 중인 작업이 있을 수**있습니다.  사용자의 조치를 기다리는 미해결 작업이 있어서 인센티브가 처리되지 않는 것일 수 있습니다.
 
   **미해결 작업을 보려면**
 
-  1. 파트너에 게 파트너 [성과급](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
+  1. [파트너 성과급](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
   2. **트랜잭션 기록** 페이지를 엽니다. **보류 중인 세금 프로필**, **보류 중인 지불 프로필**또는 **보류 중인 세금 청구서 전송과**같은 처리 중인 작업에 대해이 페이지의 필드를 검토 합니다.
 
 이러한 작업이 도움이 되지 않고 지불이 여전히 누락 되거나 잘못 된 경우 [지원](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)담당자에 게 문의 하세요.
@@ -112,7 +113,7 @@ ms.locfileid: "88893475"
 
 이 보기를 사용 하면 각 트랜잭션의 지불 상태와 함께 월별 수익, 상태별 수익 및 트랜잭션 세부 정보를 볼 수 있습니다. 데이터는 사용자에 게 동기 사용자 또는 관리자 역할이 할당 된 프로그램 및 MPN ID에 대해서만 표시 됩니다.
 
-### <a name="payments"></a>결제
+### <a name="payments"></a>지불
 
 이 보기에서는 모든 프로그램 및 MPN ID의 지불액을 볼 수 있습니다. 데이터는 사용자에 게 동기 사용자 또는 관리자 역할이 할당 된 프로그램 및 MPN ID에 대해서만 표시 됩니다. 이 보기에서 송금을 다운로드하거나 지불에 따른 트랜잭션 세부 정보를 볼 수 있습니다. 
 
@@ -140,9 +141,9 @@ ms.locfileid: "88893475"
 
 ## <a name="where-can-i-find-my-rates"></a>내 요금을 어디서 찾을 수 있나요?
 
-1. [파트너 인센티브](https://partner.microsoft.com/membership/partner-incentives)로 이동하고 로그인합니다.
+1. [파트너 성과급](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
 
-2. 로그인한 후 아래로 스크롤하여 관심 있는 프로그램의 문서에 액세스하고 해당 프로그램에 대한 문서 링크를 클릭합니다.
+2. 아래로 스크롤하여 관심이 있는 프로그램의 문서에 액세스 하 고 해당 프로그램에 대 한 문서 링크를 클릭 합니다.
 
 3. 문서에서 **프로그램 구조 및 속도**섹션을 참조 하세요.
 

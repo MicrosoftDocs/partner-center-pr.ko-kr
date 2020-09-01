@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303299"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220781"
 ---
 # <a name="prepare-your-proof-of-execution"></a>실행 증명서 준비
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
 
-성과급 작업에 대해 지불 하기 전에 자세한 실행 증명 (PoE)을 제출 해야 합니다. 이 문서에서는 효과적인 실행 증명을 만드는 과정을 안내 합니다.
-
-적절 한 역할:
+**적절한 역할:**
 
 - 인센티브 관리자
+
+성과급 작업에 대해 지불 하기 전에 자세한 실행 증명 (PoE)을 제출 해야 합니다. 이 문서에서는 효과적인 실행 증명을 만드는 과정을 안내 합니다.
 
 ## <a name="how-to-submit-a-poe"></a>PoE을 제출 하는 방법
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303299"
 
 4. **캠페인** 섹션에서 원하는 활동을 찾습니다.
 
-5. **실행 증명** 열에서 **POE 추가**를 선택 합니다.
+5. **실행 증명** 열에서 **PoE 추가**를 선택 합니다.
 
 6. **새 실행 증명 페이지**에서 필수 필드를 입력 합니다.
 
@@ -62,7 +62,7 @@ ms.locfileid: "88303299"
 
 11. 또한 원하는 경우 **증명 문서** 를 업로드할 수 있습니다. **문서 증명** 필드에서 **파일 끌기 또는 찾아보기를 선택 하 여 업로드**합니다. 증명 문서를 선택 하는 경우 설명 메모를 추가 해야 합니다. 메모를 추가했으면 **저장**을 선택합니다.
 
-12. POE를 제출 하기 전에 최종 설명을 입력 하 고 **클레임 제출**을 선택 합니다.
+12. PoE를 제출 하기 전에 최종 설명을 입력 하 고 **클레임 제출**을 선택 합니다.
 
 ## <a name="view-the-status-of-a-poe"></a>PoE 상태 보기
 
@@ -80,3 +80,7 @@ ms.locfileid: "88303299"
    - 편집 중
    - 승인됨
    - 거부됨
+
+## <a name="next-steps"></a>다음 단계:
+
+- [인센티브 시작](incentives-get-started-intro.md)

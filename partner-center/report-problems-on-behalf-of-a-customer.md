@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781835"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220181"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -102,7 +102,9 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 ## <a name="faq"></a>FAQ
 
-**지원 권리 유형의 일부로 포함되는 사항은 무엇인가요?**
+고객을 대신 하 여 제출할 수 있는 서비스 요청에 대 한 자주 묻는 질문은 다음을 참조 하세요. 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>지원 권리 유형의 일부로 포함되는 사항은 무엇인가요?
 
 서비스 요청은 파트너 센터를 통해 정리 되어야 합니다. Azure, Microsoft Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite에서 사용할 수 있습니다. 클라우드 솔루션 공급자 프로그램에 참여하는 파트너는 중요한 문제에 대한 우선 응답 시간을 예측할 수 있습니다.
 
@@ -110,7 +112,7 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 이 혜택은 유료 버전이든, 평가 기간이든 관계없이 클라우드 솔루션 공급자 프로그램에 참여하는 모든 파트너에게 적용됩니다. 청구 및 구독 관리 지원도이 패키지의 무료 구성 요소로 포함 되어 있습니다.
 
-**최초 응답을 얼마나 빨리 받을 수 있나요?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>최초 응답을 얼마나 빨리 받을 수 있나요?
 
 초기 응답 시간은 제출 된 인시던트의 심각도에 따라 달라 집니다. 문제의 심각도는 서비스 요청을 제출할 때 비즈니스에 미치는 영향에 따라 결정 됩니다.
 
@@ -123,21 +125,21 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 초기 응답 시간은 영어를 지 원하는 경우에만 지원 됩니다. 현지 언어 지원은 업무 시간 중에만 제공됩니다.
 지원 권리의 경계 내에 있지만 중단-수정 인시던트에 고려 되지 않는 인시던트의 경우 초기 응답 시간은 영업일 기준으로 최대 1 일이 될 수 있습니다.
 
-**전화를 통해 서비스 요청을 제출할 수 있나요?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>전화를 통해 서비스 요청을 제출할 수 있나요?
 
 아니요,이 프로그램에는 전화 지원이 제공 되지 않습니다.
 
-**Azure Portal에 로그인하고 파트너 센터를 우회하면 어떻게 되나요?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Azure Portal에 로그인하고 파트너 센터를 우회하면 어떻게 되나요?
 
 Microsoft Azure portal에 직접 로그인 하는 경우 고객의 컨텍스트가 아닌 고유한 컨텍스트에서 중심을 볼 수 있습니다. 따라서 자신의 구독에 대 한 서비스 요청을 만들 때 Microsoft Azure portal에 직접 서명 해야 합니다.
 
 CSP 프로그램 지원 자격이 사용자의 파트너 구독에 대 한 지원을 제공 하지 않습니다. 따라서 사용자의 파트너 구독과 관련 된 서비스 요청을 만들 때 유효한 지원 계획 자격을 제공 해야 합니다. MPN 계약 ID, 프리미어 또는 Azure 지원 계획을 예로 들 수 있습니다. 자세한 내용은 [Azure 지원 FAQ](https://go.microsoft.com/fwlink/?LinkId=717532)를 참조 하세요.
 
-**Office 365 관리 센터 포털에 로그인 하 고 파트너 센터를 바이패스 하면 어떻게 되나요?**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Office 365 관리 센터 포털에 로그인 하 고 파트너 센터를 바이패스 하면 어떻게 되나요?
 
 Office 365 관리 센터에 직접 로그인 하는 경우 고객의 컨텍스트가 아닌 사용자의 고유한 컨텍스트에서 센터가 표시 됩니다. 따라서 자신의 구독에 대 한 서비스 요청을 만들 때 Office 365 관리 센터에 직접 서명 해야 합니다.
 
-**추가적인 Dynamics 365 지원을 받는 방법**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>추가적인 Dynamics 365 지원을 받는 방법
 
 Dynamics 365 계획 구독, 라이선스, 청구, 재무 & 작업, Dynamics 365 제품 라이선스와 관련 된 문제가 발생 하는 경우, 추가 기술 지원이 필요 합니다.
  

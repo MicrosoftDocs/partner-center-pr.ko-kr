@@ -1,5 +1,5 @@
 ---
-title: 고객 연결 문제
+title: 인센티브 고객 제휴 문제
 description: 요청 받은 레코드 파트너 (CPOR) 고객 연결을 사용할 때 발생 하는 문제를 해결 하는 방법을 알아봅니다.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303259"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220621"
 ---
-# <a name="customer-association-issues"></a>고객 연결 문제
+# <a name="incentives-customer-association-issues"></a>인센티브 고객 제휴 문제
 
-적용 대상:
+**적용 대상:**
 
 - 파트너 센터
 
-아래 콘텐츠를 통해 고객 연결을 사용할 때 발생 하는 문제를 해결할 수 있습니다.
-
-적절 한 역할:
+**적절한 역할:**
 
 - 청구 관리자
 - 글로벌 관리자
 - 인센티브 관리자
+
+아래 콘텐츠를 통해 고객 연결을 사용할 때 발생 하는 문제를 해결할 수 있습니다.
 
 ## <a name="domain-tenant-mismatch"></a>도메인-테 넌 트 불일치
 
@@ -62,9 +62,9 @@ CPOR 클레임 플랫폼은 Business Applications 및 Microsoft 365 솔루션 �
 | 솔루션 영역 | 활동 | 적용 가능 |
 | ------ | ----------- | ----------- |
 | 비즈니스 애플리케이션      | 예약 판매   | 적격 제품의 구매에 영향을 준 경우 사전 판매 성과급을 적용 하려는 경우에 선택 합니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다. |
-|    |  사용  | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다. |
+|    |  사용량  | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다. |
 |    | 수익 연결   | 적격 제품의 선택에 영향을 주는 비즈니스 주는 요인은 선택 합니다. 이 옵션은 동기 지불액이 아닌 수익 연결에만 적용 됩니다. 이 옵션은 고객이 볼륨 라이선싱 계약 또는 웹 다이렉트를 통해 이러한 제품을 구매한 경우에만 적용할 수 있습니다.   |
-| Microsoft 365   | 사용   | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. |
+| Microsoft 365   | 사용량   | 적합 한 워크 로드의 도입 및 사용을 추진 하 고 사용 성과급을 적용 하려는 경우에 선택 합니다. |
 
 ## <a name="which-mpn-do-i-choose"></a>어떤 MPN를 선택 하나요?
 
@@ -72,7 +72,7 @@ CPOR association 클레임 흐름에서 최종 고객에 게 요청 하는 작�
 
 사용할 MPN를 모르는 경우 전역 관리자에 게 문의 하세요.
 
-사용 하려는 MPN이 등록 되지 않은 경우에는 [성과급 개요 탭](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)에서 관리할 수 있습니다.
+사용 하려는 MPN이 등록 되지 않은 경우에는 [성과급 개요 탭](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) (로그인 필요)에서 관리할 수 있습니다.
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>제품 선택 및 구독 입력
 
@@ -91,4 +91,8 @@ Dynamics 제품이 요청 및 승인 되 면 파트너는 CPOR association 클�
 4. CPOR association 클레임은 계속 해 서 5 영업일 이내에 검토 됩니다. 단, 그 상태는 더 오랜 기간 동안 _검토_ 하는 것으로 유지 될 수 있습니다. 이 시나리오는 Microsoft가 현재 제품/워크 로드를 소유 하 고 있는 파트너와 함께 작업 하는 경우에 발생할 수 있습니다. 해당 하는 경우에는 클레임의 설명 섹션에서 알림이 표시 됩니다. 
 
 >[!IMPORTANT]
->CPOR association PoE를 확인 하기 위해 추가 정보가 필요한 경우 CPOR association 클레임 설명 섹션을 통해 연락 드리겠습니다.
+>CPOR 연결 실행 증명 (PoE)을 확인 하는 데 추가 정보가 필요한 경우 CPOR association 클레임 설명 섹션을 통해 연락 드리겠습니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [인센티브 시작](incentives-get-started-intro.md)

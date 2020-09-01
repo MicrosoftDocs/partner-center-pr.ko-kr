@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239071"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220731"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Azure 사용 보고서
 
@@ -31,9 +31,9 @@ Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 �
 - Azure 사용률
 
  > [!NOTE]
- > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요. 이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
+ > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요 .이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
 
-**요약**
+## <a name="summary"></a>요약
 
 요약 섹션에서는 고객이 판매 하거나 관리 하는 Azure 구독과 관련 된 Kpi (핵심 성과 지표)의 스냅숏 뷰를 제공 합니다.  
 
@@ -56,7 +56,7 @@ Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 �
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 사용량 요약":::
 
-**지리 별 Azure 사용량**
+## <a name="azure-usage-by-geography"></a>지리 별 Azure 사용량
 
 **지리 별 azure 사용량** 보기에는 모든 또는 선택한 azure 서비스 수준/측정기 범주에 대 한 azure 사용량 수익 (ACR US $) 또는 사용 시간에 대 한 지리적 분포가 표시 됩니다. 지도의 밝은 색은 낮은 값을 나타내고, 짙은 색은 더 높은 값을 나타냅니다. 표에서 국가를 검색 하 고 선택 하 여 확대/축소할 수 있습니다. 
 
@@ -66,7 +66,7 @@ Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 �
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="지리 별 Azure 사용량":::
 
-**Azure 사용률**
+## <a name="azure-utilization"></a>Azure 사용률
 
 이 보기에는 선택한 Azure 서비스 수준/측정기 범주의 월-월 Azure 사용량 수익 또는 사용 시간 추세가 표시 됩니다. 
 

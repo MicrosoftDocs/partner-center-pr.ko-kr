@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c05e8e4e7fe7e8a7677669e0dcbb7ee3cab08be9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811293"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220231"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>파트너 센터에서 사용자의 암호 재설정
 
@@ -24,14 +24,14 @@ ms.locfileid: "87811293"
  
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 > [!NOTE]  
 > Microsoft 클라우드 독일에서 CSP (클라우드 솔루션 공급자) 프로그램에 등록 한 경우 사용자의 암호를 다시 설정 하는 방법에 대 한 자세한 내용은 [Microsoft 클라우드 독일의 파트너 센터에서 사용자 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md) 를 참조 하세요.
 
 사용자가 암호를 잊은 경우 임시 암호를 할당 합니다. 파트너 센터에 다음에 로그인 할 때 사용할 수 있습니다.
 
-**관리자 권한으로 사용자 암호 재설정**
+## <a name="reset-a-user-password-as-an-admin"></a>관리자 권한으로 사용자 암호 재설정
 
 1. **설정** &gt; **사용자 관리**로 이동 합니다.
 

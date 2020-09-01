@@ -1,19 +1,19 @@
 ---
 title: 인센티브 지급 및 세금 프로필 FAQ
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303149"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220531"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>인센티브 지급 및 세금 프로필 FAQ
 
@@ -39,7 +39,7 @@ Microsoft 동기 프로그램에 대 한 지급을 받으려면 유효한 지급
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>지급 및/또는 세금 세부 정보를 제공/업데이트하려면 어떻게 해야 하나요?
 
-파트너 센터에서 지급 및 세금 세부 정보를 업데이트하는 방법에 대한 자세한 내용은 [파트너 센터에서 은행 및 세금 프로필을 만들고 관리하는 방법](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center)을 참조하세요.
+파트너 센터에서 지불 및 세금 정보를 업데이트 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md)를 참조 하세요.
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>지급 및 세금 프로필 할당으로 이동할 때 내 등록이 표시되지 않는 이유는 무엇인가요?
 
