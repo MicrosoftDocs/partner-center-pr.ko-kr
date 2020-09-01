@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943460"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274982"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -75,11 +75,11 @@ ms.locfileid: "86943460"
 | (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다.  |
 | BillingPreTaxTotal | 세금 전 총 청구 금액입니다. |
 | BillingCurrency | 고객 지역의 통화입니다. |
-| PricingPreTaxTotal | 세금이 추가 되기 전의 가격 책정입니다. |
+| PricingPreTaxTotal | 세금이 추가 되기 전의 가격 책정입니다. <br/> _**PricingPreTaxTotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | 가격표의 통화입니다. |
 | ServiceInfo1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
 | ServiceInfo2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
-| 태그 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
+| 태그들 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
 | AdditionalInfo | 다른 열에서 다루지 않은 추가 정보입니다. |
 | EffectiveUnitPrice | 할인이 나 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
 | PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |
