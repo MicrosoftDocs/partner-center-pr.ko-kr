@@ -7,41 +7,41 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 0f274703d3eb52c573c3f7f5043b73be7bc0bfa7
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.date: 08/31/2020
+ms.openlocfilehash: a182b4d9289a448886dd8e1e49211bf625640819
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893458"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220611"
 ---
-# <a name="partner-incentives-overview-and-eligibility"></a><span data-ttu-id="148a0-103">파트너 성과급 개요 및 자격</span><span class="sxs-lookup"><span data-stu-id="148a0-103">Partner Incentives overview and eligibility</span></span> 
+# <a name="partner-incentives-overview-and-eligibility"></a><span data-ttu-id="fff69-103">파트너 성과급 개요 및 자격</span><span class="sxs-lookup"><span data-stu-id="fff69-103">Partner Incentives overview and eligibility</span></span> 
 
-<span data-ttu-id="148a0-104">**적용**대상:</span><span class="sxs-lookup"><span data-stu-id="148a0-104">**Applies to**:</span></span>
+<span data-ttu-id="fff69-104">**적용**대상:</span><span class="sxs-lookup"><span data-stu-id="fff69-104">**Applies to**:</span></span>
 
-- <span data-ttu-id="148a0-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="148a0-105">Partner Center</span></span>
+- <span data-ttu-id="fff69-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="fff69-105">Partner Center</span></span>
 
-<span data-ttu-id="148a0-106">**적절 한 역할**:</span><span class="sxs-lookup"><span data-stu-id="148a0-106">**Appropriate roles**:</span></span>
+<span data-ttu-id="fff69-106">**적절 한 역할**:</span><span class="sxs-lookup"><span data-stu-id="fff69-106">**Appropriate roles**:</span></span>
 
-- <span data-ttu-id="148a0-107">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="148a0-107">Global admin</span></span>
-- <span data-ttu-id="148a0-108">인센티브 관리자</span><span class="sxs-lookup"><span data-stu-id="148a0-108">Incentives admin</span></span>
+- <span data-ttu-id="fff69-107">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="fff69-107">Global admin</span></span>
+- <span data-ttu-id="fff69-108">인센티브 관리자</span><span class="sxs-lookup"><span data-stu-id="fff69-108">Incentives admin</span></span>
 
- <span data-ttu-id="148a0-109">각 인센티브 프로그램에는 자격에 대한 특정 요구 사항이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-109">Each Incentives program has certain requirements for eligibility.</span></span> <span data-ttu-id="148a0-110">이러한 프로그램 자격 요구 사항은 모든 적절한 계약에 서명하고, 역량을 확보하고, 수익을 예측하고, 인센티브 프로그램이 성공하는 데 필요한 기타 필수 조건을 갖도록 하기 위해 설계되었습니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-110">These program eligibility requirements are designed to ensure that you have all of the appropriate agreements signed, competencies earned, revenue forecast, and other necessary prerequisites for your Incentives program to succeed.</span></span>
+ <span data-ttu-id="fff69-109">각 인센티브 프로그램에는 자격에 대한 특정 요구 사항이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-109">Each Incentives program has certain requirements for eligibility.</span></span> <span data-ttu-id="fff69-110">이러한 프로그램 자격 요구 사항은 모든 적절한 계약에 서명하고, 역량을 확보하고, 수익을 예측하고, 인센티브 프로그램이 성공하는 데 필요한 기타 필수 조건을 갖도록 하기 위해 설계되었습니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-110">These program eligibility requirements are designed to ensure that you have all of the appropriate agreements signed, competencies earned, revenue forecast, and other necessary prerequisites for your Incentives program to succeed.</span></span>
 
-## <a name="determining-your-program-eligibility"></a><span data-ttu-id="148a0-111">프로그램 자격 확인</span><span class="sxs-lookup"><span data-stu-id="148a0-111">Determining your program eligibility</span></span>
+## <a name="determining-your-program-eligibility"></a><span data-ttu-id="fff69-111">프로그램 자격 확인</span><span class="sxs-lookup"><span data-stu-id="fff69-111">Determining your program eligibility</span></span>
 
-<span data-ttu-id="148a0-112">프로그램 가이드에서 프로그램에 대한 특정 자격 요구 사항을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-112">You can find the specific eligibility requirements for your program in the program guide.</span></span> 
+<span data-ttu-id="fff69-112">프로그램 가이드에서 프로그램에 대한 특정 자격 요구 사항을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-112">You can find the specific eligibility requirements for your program in the program guide.</span></span> 
 
-### <a name="to-see-your-program-guide"></a><span data-ttu-id="148a0-113">프로그램 가이드를 보려면</span><span class="sxs-lookup"><span data-stu-id="148a0-113">To see your program guide</span></span>
+### <a name="to-see-your-program-guide"></a><span data-ttu-id="fff69-113">프로그램 가이드를 보려면</span><span class="sxs-lookup"><span data-stu-id="fff69-113">To see your program guide</span></span>
 
-1. <span data-ttu-id="148a0-114">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-114">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+1. <span data-ttu-id="fff69-114">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-114">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
 
-2. <span data-ttu-id="148a0-115">왼쪽 탐색 창의 **인센티브**에서 **개요**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-115">Under **Incentives** on the left nav, select **Overview**.</span></span> <span data-ttu-id="148a0-116">**프로그램 개요** 페이지가 열립니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-116">The **Program overview** page opens.</span></span>
+2. <span data-ttu-id="fff69-115">왼쪽 탐색 창의 **인센티브**에서 **개요**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-115">Under **Incentives** on the left nav, select **Overview**.</span></span> <span data-ttu-id="fff69-116">**프로그램 개요** 페이지가 열립니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-116">The **Program overview** page opens.</span></span>
 
-3. <span data-ttu-id="148a0-117">원하는 프로그램을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-117">Select the program you want.</span></span>
+3. <span data-ttu-id="fff69-117">원하는 프로그램을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-117">Select the program you want.</span></span>
 
-4. <span data-ttu-id="148a0-118">**프로그램 세부 정보** 필드에서 **프로그램 가이드**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="148a0-118">In the **Program details** field, select **Program Guide**.</span></span>
+4. <span data-ttu-id="fff69-118">**프로그램 세부 정보** 필드에서 **프로그램 가이드**를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="fff69-118">In the **Program details** field, select **Program Guide**.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="148a0-119">다음 단계</span><span class="sxs-lookup"><span data-stu-id="148a0-119">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="fff69-119">다음 단계</span><span class="sxs-lookup"><span data-stu-id="fff69-119">Next steps</span></span>
 
-<span data-ttu-id="148a0-120">-[성과급 프로그램의 지급 및 세금 프로필](incentives-create-and-manage-your-payout-and-tax-profiles.md)</span><span class="sxs-lookup"><span data-stu-id="148a0-120">-[Payout and tax profiles for Incentives programs](incentives-create-and-manage-your-payout-and-tax-profiles.md)</span></span>
+- [<span data-ttu-id="fff69-120">성과급 프로그램의 지급 및 세금 프로필</span><span class="sxs-lookup"><span data-stu-id="fff69-120">Payout and tax profiles for Incentives programs</span></span>](incentives-create-and-manage-your-payout-and-tax-profiles.md)
