@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390610"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220511"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>파트너 획득 크레딧 - CSP의 새로운 상거래 경험에서 어떻게 작동하는지에 대한 개요
 
@@ -73,11 +73,8 @@ CSP의 새로운 상거래 환경에서 제공하는 파트너 획득 크레딧�
 >[!Note]
 >고객은 파트너에게 부여된 액세스 권한을 제거할 수 있습니다. 파트너는 Microsoft로부터 파트너 획득 크레딧을 얻을 목적으로 고객에게 적절한 액세스 권한을 할당해 달라고 강요해서는 안 되며, 이 요구 사항을 따르지 않으면 파트너 획득 크레딧 자격을 얻지 못할 수 있습니다.
 
-**자세한 내용**
+## <a name="next-steps"></a>다음 단계
 
 - [파트너 획득 크레딧을 계산하고 지불하는 방법](partner-earned-credit-explanation.md)
-
 - [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)
-
 - [CSP의 새로운 Azure 상거래 환경에 대한 가격표](azure-plan-price-list.md)
-

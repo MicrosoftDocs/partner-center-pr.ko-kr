@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436732"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220201"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>파트너 보안 요구 사항 상태 - 답변을 받고 현재 상태에 대한 보고서 확인
 
@@ -129,7 +129,7 @@ MFA를 구현한 파트너의 경우 파트너 센터 MFA 보고서의 메트릭
 
 MFA 확인 없이 파트너 센터에 로그인한 사용자를 파악하여 현재 MFA 구현과 대조한다면 도움이 될 수 있습니다. [Azure AD 로그인 보고서](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)를 사용하여 사용자가 MFA 확인을 완료했는지 확인할 수 있습니다. Azure AD 로그인 보고서는 현재 Azure AD Premium 또는 Azure AD Premium이 포함된 O365 SKU(예: EMS)를 구독한 파트너만 사용할 수 있습니다.
 
-**자세한 내용**
+## <a name="next-steps"></a>다음 단계
 
 - [파트너 센터 보안 지침 그룹 커뮤니티](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [파트너 센터 보안 요구 사항](partner-security-requirements.md)
