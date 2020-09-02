@@ -1,20 +1,20 @@
 ---
 title: 파트너 센터의 청구 유형
+description: 파트너 센터에서 볼 수 있는 다양 한 청구 유형, 청구 기간 및 청구 날짜에 대해 알아봅니다.
 ms.topic: article
-ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터에서 볼 수 있는 다양 한 청구 유형, 청구 기간 및 청구 날짜에 대해 알아봅니다.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/13/2020
+ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527609"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367047"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>파트너 센터의 요금 청구 유형-라이선스 기반, 사용 기반 및 일회용 청구를 포함 합니다.
 
@@ -27,7 +27,7 @@ ms.locfileid: "87527609"
 
 - 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 

@@ -1,20 +1,20 @@
 ---
 title: Azure 사용량을 분석 하 여 비즈니스 성장 지원
-ms.date: 05/01/2020
+description: 파트너 센터를 사용 하 여 고객의 Azure 구독 사용에 대 한 데이터를 가져오는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터를 사용 하 여 고객의 Azure 구독 사용에 대 한 데이터를 가져오는 방법에 대해 알아봅니다.
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/01/2020
+ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526949"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367447"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>고객과 Azure 구독이 얼마나 잘 작동 하는지에 대 한 데이터 가져오기
 
@@ -25,7 +25,7 @@ ms.locfileid: "87526949"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원

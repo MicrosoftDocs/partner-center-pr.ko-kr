@@ -1,20 +1,20 @@
 ---
 title: 고객 Microsoft Azure 예약 판매
+description: 클라우드 솔루션 공급자는 고객에 대 한 Azure 예약을 구입, 판매 또는 관리할 수 있습니다. 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 합니다.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 클라우드 솔루션 공급자는 고객에 대 한 Azure 예약을 구입, 판매 또는 관리할 수 있습니다. 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 합니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 7f6ca7aa7dddbd9e32690928ee8d48afa5071b14
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900083"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367037"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>파트너 센터, Azure Portal 또는 Api를 사용 하 여 고객에 게 Microsoft Azure 예약 판매
 
@@ -27,7 +27,7 @@ ms.locfileid: "87900083"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자

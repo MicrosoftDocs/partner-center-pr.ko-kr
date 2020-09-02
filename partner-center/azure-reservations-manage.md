@@ -1,20 +1,20 @@
 ---
 title: 고객에 대 한 Azure 예약 관리
+description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객에 대 한 Azure 예약을 관리 하는 방법을 알아봅니다.
 ms.topic: how-to
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 예약을 취소 하거나, 예약을 교환 하거나, 환불을 요청 하는 방법을 비롯 하 여 고객에 대 한 Azure 예약을 관리 하는 방법을 알아봅니다.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900071"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366877"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>고객에 대 한 Microsoft Azure 예약 관리, 취소, 교환 또는 환불
 
@@ -27,7 +27,7 @@ ms.locfileid: "87900071"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -66,10 +66,10 @@ ms.locfileid: "87900071"
 
 |**취소 날짜**<br> 일별로   |**사용 현황**    |**크레딧**  |**조기 종료**<br> 수수료    |**환불 캡** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 개 미만                         | 아니요          | 100%       | 아니요                              | $5만 USD   |
-|5 개 미만                         | 예         | 전문 등급  | 아니요                              | $5만 USD   |
-|5 개 이상                        | 아니요          | 전문 등급  | 12%                             | $5만 USD   |
-|5 개 이상                        | 예         | 전문 등급  | 12%                             | $5만 USD   |
+|5 개 미만                         | 예          | 100%       | 예                              | $5만 USD   |
+|5 개 미만                         | yes         | 전문 등급  | 예                              | $5만 USD   |
+|5 개 이상                        | 예          | 전문 등급  | 12%                             | $5만 USD   |
+|5 개 이상                        | yes         | 전문 등급  | 12%                             | $5만 USD   |
 
 ### <a name="how-exchanges-work"></a>교환 작동 방법 
 

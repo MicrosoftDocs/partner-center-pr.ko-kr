@@ -1,20 +1,20 @@
 ---
 title: 고객에 대 한 Microsoft Azure 예약 구입
+description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900104"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367017"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 
@@ -27,7 +27,7 @@ ms.locfileid: "87900104"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
@@ -116,7 +116,7 @@ ms.locfileid: "87900104"
 
     b. 제품 **유형** 목록에서 **예약** 을 선택 합니다.
 
-    다. **예약 유형** 목록에서 고객이 원하는 예약 유형을 선택합니다.
+    c. **예약 유형** 목록에서 고객이 원하는 예약 유형을 선택합니다.
 
 4. Azure 예약은 활성 Azure 구독과 연결 되어야 합니다. **고객 구독** 목록에서 Azure 예약을 추가 하려는 고객의 구독을 선택 합니다. 
 
@@ -139,7 +139,7 @@ ms.locfileid: "87900104"
       >예약의 범위를 단일 Azure 구독으로 제한 하도록 선택 하는 경우 구독의 vCPU 할당량을 늘려야 할 수 있습니다. 구독의 vCPU 할당량을 늘리려면 Azure Portal 지원 요청을 만들어야 합니다. [이 항목의](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 지침에 따라 요청을 만듭니다. 
 
       >[!NOTE]   
-      >고객이 Azure 계획에 있는 경우 **범위** 는 **Shared**로 설정 됩니다. 
+      >고객이 Azure 계획에 있는 경우 **범위**  는 **Shared**로 설정 됩니다. 
 
     - 공급자 파트너인 경우 제품과 연결할 재판매인을 선택 합니다.
     

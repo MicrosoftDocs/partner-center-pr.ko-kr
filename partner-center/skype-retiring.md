@@ -1,20 +1,20 @@
 ---
 title: 비즈니스용 Skype 구독 마이그레이션
+description: 비즈니스용 Skype Online 요금제 1 구독을 만료 하는 특정 고객을 새 Office 365 버전으로 마이그레이션하는 방법 및 시기에 대해 알아봅니다.
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 비즈니스용 Skype Online 요금제 1 구독을 만료 하는 특정 고객을 새 Office 365 버전으로 마이그레이션하는 방법 및 시기에 대해 알아봅니다.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.date: 06/03/2020
+ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436562"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367627"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 계획 1 구독을 최신 Office 365 버전으로 마이그레이션
 
@@ -41,10 +41,10 @@ API (CREST 또는 파트너 센터)를 사용 하는 경우 자동 갱신 = Fals
 
 |**기능**    |**옵션 1**   |**옵션 2**   |**옵션 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|비즈니스용 Skype Online 요금제 1에 포함 된 모든 기능을 가져옵니다.|예   |예   |예   |
-|IM 및 현재 상태 |예   |예   |예   |
-|IP를 통한 피어 투 피어 오디오 및 비디오|예   |예   |예   
-|인증 된 사용자로 모임 참여| 예   |예   |예   |
+|비즈니스용 Skype Online 요금제 1에 포함 된 모든 기능을 가져옵니다.|yes   |yes   |yes   |
+|IM 및 현재 상태 |yes   |yes   |yes   |
+|IP를 통한 피어 투 피어 오디오 및 비디오|yes   |yes   |yes   
+|인증 된 사용자로 모임 참여| yes   |yes   |yes   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>고객을 새 제품 요금제로 전환
 
