@@ -1,7 +1,7 @@
 ---
 title: 서비스 계약 계획에 대 한 자격
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 회사에서 기업 고객에 게 제공할 수 있는 각 소프트웨어 보증 계획 서비스 계약에 대 한 자격 요구 사항에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711825"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286499"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>서비스 계약 계획에 대 한 자격 요구 사항 보기
 
@@ -31,9 +31,6 @@ ms.locfileid: "88711825"
 ## <a name="learn-more-about-each-engagement"></a>각 engagement에 대해 자세히 알아보기
 
 각 계획 서비스 참여에는 고유한 특정 자격 요구 사항 및 허용 되는 최대 기간이 있습니다.
-
-> [!NOTE]
-> 특정 계획 서비스 참여를 제공 하기 전에 다양 한 유형의 역량 요구 사항을 충족 해야 합니다. 먼저 계획 서비스 제공에 등록 해야 하는 최소 역량 요구 사항을 충족 해야 합니다. 그런 다음 회사는 특정 유형의 참여를 제공 하는 것과 관련 된 역량 요구 사항도 충족 해야 합니다.
 
 이러한 engagement 관련 역량 요구 사항에 대해 자세히 알아보려면 다음 표를 참조 하세요.
 
