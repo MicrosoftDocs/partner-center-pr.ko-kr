@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: Salesforce CRM용 공동 판매 커넥터 – 개요
           href: connector-salesforce.md
+        - name: PSC(파트너 판매 연결)에서 마이그레이션하는 파트너를 위한 공동 판매
+          href: psc-to-pc.md
         - name: 거래 등록
           href: register-deals.md
         - name: 조회 인사이트 얻기
@@ -293,7 +295,7 @@
     - name: 고객의 Azure 지출 예산 설정
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: '미결제, 사기 또는 오용 관리'
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: 할당되지 않은 결제 관리
       href: unallocated-payment.md
 - name: 고객과의 관계 구축
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: Insights - 고객 대시보드
           href: pci-customer-report.md
+        - name: Insights - 재판매인 성과 대시보드
+          href: pci-resellers-performance.md
         - name: Insights - 제품 구독 대시보드
           href: pci-product-subscriptions-report.md
         - name: Insights - 제품 라이선스 대시보드
