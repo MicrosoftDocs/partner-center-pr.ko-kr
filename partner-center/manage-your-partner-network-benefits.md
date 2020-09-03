@@ -1,7 +1,7 @@
 ---
 title: Microsoft 파트너 네트워크 혜택 관리
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크(MPN)에 가입하고 파트너 센터를 사용하여 비즈니스 성장에 도움이 되는 멤버십 혜택 및 제품을 관리합니다.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120003"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220751"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>파트너 센터에서 Microsoft 파트너 네트워크 멤버십 혜택 및 제품 관리
 
@@ -41,9 +41,11 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 >[!IMPORTANT]
 >조직의 글로벌 관리자가 아니어도 혜택을 구입할 수는 있지만, 직원에게 혜택을 할당하기 위해서는 반드시 글로벌 관리자여야 합니다. 필요에 따라 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)(로그인 필요)의 지침에 따라 글로벌 관리자가 될 수 있습니다. 회사에 이미 글로벌 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
 
-혜택 패키지에는 사용이 허가된 소프트웨어, 클라우드 서비스, Visual Studio 구독 및 지원 할당이 포함됩니다. 혜택 패키지에는 특정 시장 진출 리소스, 제품 및 프로그램도 포함될 수 있습니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 정보를 확인할 수 있습니다.  
+혜택 패키지에는 사용이 허가된 소프트웨어 할당, 클라우드 서비스, Visual Studio 구독 및 기술 지원이 포함됩니다. 혜택 패키지에는 특정 시장 진출 리소스, 제품 및 시장 관련 프로그램도 포함될 수 있습니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 정보를 확인할 수 있습니다.  
 
 모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고, 왼쪽 메뉴에서 [**혜택 옵션**]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
+
+대부분의 혜택을 활성화하거나 관련 소프트웨어 키 등을 다운로드하려면 일반적으로 전역 관리자 또는 MPN 파트너 관리자 역할이 할당된 사람이 파트너 센터에 필요합니다. 혜택이 보이지 않거나 혜택을 활성화할 수 없으면, 파트너 센터 전역 관리자에게 문의하여 올바른 권한이 있는지 확인하세요. [파트너 센터 역할에 대해 자세히 알아보세요](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>소프트웨어 혜택 관리
 
@@ -88,23 +90,27 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 ## <a name="manage-technical-benefits"></a>기술 혜택 관리
 
-1. Microsoft 기술 혜택 목록을 보려면 **기술 혜택**을 선택합니다.
+이 섹션에서는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에서 기술 지원 혜택을 활성화하고 관리하는 방법을 설명합니다. Microsoft 파트너 네트워크 멤버십이 아직 PMC(Partner Membership Center)에 있는 경우 Partner Frontline과 같은 다른 리소스에 문의하여 기술 혜택을 활성화해야 합니다. [파트너 센터 외부에서 기술 혜택 활성화](partner-membership-center-tech-benefits-activate.md)를 참조하세요.
 
-   기술 혜택에는 Microsoft 제품 지원 문제, 파트너 자문 시간, 기술 사전 판매 및 배포 서비스가 포함될 수 있습니다.
+파트너 센터의 기술 혜택을 확인하려면 다음을 수행합니다.
 
-2. 사용하기 시작하려는 지원 혜택을 찾은 다음, 행의 맨 오른쪽에 있는 아래쪽 화살표를 선택하여 혜택의 세부 정보를 확장합니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-3. 지원 혜택을 활성화하려면 지원 혜택에 사용자를 할당합니다.
+2. **혜택**을 선택한 다음, 왼쪽 탐색 메뉴에서 **기술 혜택**을 선택합니다. Gold, Silver 또는 Microsoft Action Pack 역량에 사용할 수 있는 기술 지원 혜택 목록이 있는 기술 혜택 페이지가 나타납니다.
 
-   a. 목록에서 사용자를 선택합니다. 할당하려는 사용자가 목록에 없는 경우 **계정 설정**에서 [새 사용자를 추가](create-user-accounts-and-set-permissions.md)할 수 있습니다.
+   이러한 옵션이나 기술 혜택 페이지가 보이지 않으면 파트너 센터에서 올바른 [사용자 역할](permissions-overview.md)이 할당되지 않았을 수 있습니다. 파트너 센터 전역 관리자에게 문의하여 액세스 권한을 확보하십시오.
 
-   b. 회사의 파트너 센터 계정과 연결된 이메일 주소와 다른 사용자 이메일 주소를 입력합니다.
+3. 혜택 목록을 확장합니다. 특정 지원 혜택을 사용하려면 처음 사용할 때 다음을 수행해야 합니다.
 
-   보안 조치로, 사용자의 파트너 센터 계정 이메일과 함께 이 이메일 주소로 Microsoft 기술 지원 액세스에 대한 지침을 보내드립니다. 이 혜택을 활성화하고 할당된 사용자에게 이메일로 지침을 보내는 데 며칠이 걸릴 수 있습니다.
+   - **기술 혜택을 활성화합니다.** 혜택 세부 정보를 확장한 다음, **활성화**를 선택합니다. 활성화 요청을 처리하는 데 며칠이 걸릴 수 있습니다.
 
-   c. 대체 이메일 주소를 마친 후 **사용자 할당**을 선택합니다.
+   - **제품 지원 액세스 ID 및 계약 ID를 살펴보고 공유합니다.** 활성화 요청이 처리되면, 다음에 해당 기술 혜택을 확장할 때 **액세스 ID**와 **계약 ID**에 대한 세부 정보가 표시됩니다. 특정 유형의 제품 또는 서비스에 대한 지원 요청을 처음으로 제출할 때 귀하 또는 귀사의 사용자가 이 정보를 공유해야 할 수 있습니다.
 
-4. 클라우드 및 하이브리드 솔루션의 사전 판매, 디자인, 배포 및 앱 개발 단계에서 기술 사전 판매 지원이나 자문 시간 혜택을 사용하여 기술 지원을 요청할 수 있습니다. 지원을 요청하려면 [요청 양식](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)을 작성하고 **요청 제출**을 선택합니다.
+4. 활성화되면 다양한 종류의 기술 지원에 대한 기술 혜택을 사용할 수 있습니다. 이러한 유형의 서비스에 대한 기술 지원 요청을 제출하려면 기술 혜택 페이지에서 자세한 지침을 참조하세요.
+
+   - 고객 대신 클라우드 제품에 대한 지원 요청
+   - 온-프레미스 제품에 대한 지원 요청
+   - 기술 사전 판매 및 배포 서비스 또는 [자문 시간](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) 요청
 
 ## <a name="manage-go-to-market-offers"></a>시장 진출 제품 관리
 

@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303289"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286507"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 8월 공지** | **발표** |
+| **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[예정된 새로운 Microsoft Dynamics 365 제품](2020-september.md#3)|9월 1일|
+|제품/시장|[Office 365 통화 플랜은 2020년 10월 1일에 새로운 시장에서 사용할 수 있습니다.](2020-september.md#2)|9월 1일|
+|제품/시장|[이제 교육용 서버를 위한 Microsoft Defender ATP(Advanced Threat Protection)를 사용할 수 있습니다.](2020-september.md#1)|9월 1일|
+| **범주** | **2020년 8월 공지** | **날짜** |
+|기능|[교육 고객 유효성 검사 프로세스를 위한 파트너 센터 API 업데이트 및 사용자 인터페이스 향상](2020-august.md#8)|8월 31일|
 |제품/시장|[Microsoft 365 Voice 프로모션 업데이트](2020-august.md#7)|8월 14일|
 |기능|[.NET Standard v1.16.1의 SDK 릴리스](2020-august.md#6)|8월 12일|
 |기능|[Microsoft Project 및 Microsoft Visio용 셀프 서비스 구매 예정](2020-august.md#5)|8월 12일|
