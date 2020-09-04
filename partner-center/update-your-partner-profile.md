@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
+ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811113"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89304980"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>파트너 센터에서 파트너 프로필 정보 확인
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811113"
 
 처음으로 파트너 센터에 글로벌 관리자 권한으로 로그인할 때 모든 회사 정보가 올바른지 확인해야 합니다. 여기에는 기본 연락처, 법적 회사명 및 주소, 프로그램 정보가 포함됩니다. 회사가 여러 곳에 소재한 경우 위치 데이터가 정확한지 검토합니다. 전역 관리자, 청구 관리자 또는 관리 담당자는 청구 및 세금 정보를 보고 업데이트할 수도 있습니다.
 
-파트너 프로필은 법적 회사 정보, 기본 연락처 이름 및 이메일, 회사가 참여하는 프로그램, 법적 회사에 현재 합병된 다른 회사(해당하는 경우)로 구성됩니다.
+파트너 프로필은 법적 회사 정보, 기본 연락처 이름 및 이메일, 회사가 참여하는 프로그램, 법적 회사에 현재 합병된 다른 회사(해당하는 경우)로 구성됩니다. 법률 비즈니스 프로필의 회사 이름과 주소에 맞춤법 오류 및 약어가 없어야 하고 공식 회사 사업자 등록 기록과 정확히 일치해야 합니다. 자영업자로 운영하는 경우 회사 이름을 법적 이름으로 사용해야 합니다.
 
 1. **설정**으로 이동하고 **파트너 프로필**을 선택합니다.
 
@@ -39,7 +39,7 @@ ms.locfileid: "87811113"
 
 1. **설정**으로 이동하고 **파트너 프로필**을 선택합니다. 
 
-2. 법적 주소 옆에 있는 **업데이트**를 선택합니다. ""
+2. 법적 주소 옆에 있는 **업데이트**를 선택합니다. 
 
 >[!Important]
 >CSP 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 심사 상태가 "인증됨"인 경우 파트너 센터에서 법률 회사 이름을 업데이트할 수 없습니다. [지원 티켓을 작성](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)해야 합니다.

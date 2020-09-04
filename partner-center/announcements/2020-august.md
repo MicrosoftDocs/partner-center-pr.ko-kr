@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303059"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274991"
 ---
 # <a name="august-2020-announcements"></a>2020년 8월 공지
 
 이 페이지에서는 2020년 8월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지: [1월](2020-january.md) | [2월](2020-february.md) | [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | 8월
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>교육 기관 고객 유효성 검사 프로세스에 대한 파트너 센터 API의 업데이트 및 향상된 사용자 인터페이스 기능
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-08-31
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 교육 기관 제품을 판매하는 파트너 
+
+### <a name="summary"></a>요약
+
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 클라우드 솔루션 공급자 프로그램에서 교육 기관 제품을 거래할 수 있도록 최선을 다하고 있습니다. 이러한 노력의 일환으로, 이번 회계연도의 2분기(FY21 Q2)에는 고객 심사 프로세스에 대한 명확성과 가시성을 높이고, 더 정확한 데이터를 입력하여 향상된 고객 심사 성공을 촉진할 수 있는 파트너 센터 API 및 사용자 인터페이스의 향상된 기능을 도입하고 있습니다. 
+
+#### <a name="partner-center-enhancements"></a>파트너 센터의 향상된 기능
+
+- 새로운 GET 및 POST 자격 API - 정확한 데이터 입력을 지원하고 Microsoft의 교육 기관 고객 유효성 검사 프로세스를 향상시킵니다.
+- 향상된 사용자 인터페이스 - 정확한 데이터 입력을 지원하고 Microsoft의 교육 고객 유효성 검사 프로세스를 향상시킵니다.
+
+#### <a name="testing"></a>테스트
+
+파트너는 10월부터 이러한 향상된 기능을 테스트할 수 있습니다. 이 기회를 활용하여 성공적인 고객 심사에 필요한 API 및 데이터 입력에 대해 더 잘 이해하는 것이 좋습니다. 정확한 타이밍과 참여 방법에 대한 자세한 내용은 곧 알려드리겠습니다. 기존 파트너 센터 API는 FY21 Q2가 끝나기 전에 사용 중지되며, 모든 파트너는 이 시점에서 새 파트너 센터 API를 사용해야 합니다.
+
+#### <a name="library-and-museum-customers"></a>도서관 및 박물관 고객
+
+위의 향상된 기능 외에도, FY21 Q2에는 도서관 및 박물관 고객에 대해 교육 기관이 책정한 가격 제안을 활성화하여 CSP 제품을 거래할 수 있는 교육 고객을 확장할 수 있다고 발표하게 되어 매우 기쁘게 생각합니다.
+
+Microsoft는 적격 교육 사용자로서 모든 고객 또는 제안된 고객의 상태를 검토할 수 있는 권리를 보유하고 있습니다. 자세한 내용은 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 참조하세요.
+
+### <a name="next-stepsadditional-resources"></a>다음 단계/추가 리소스
+
+- 운영 준비 상태 리소스에서 새 파트너 센터 사용자 인터페이스 및 API의 변경 내용([향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/))을 검토합니다.
+- 조직에서 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 잘 알고 있는지 확인합니다.
+- 이러한 변경에 대비하는 데 도움이 되도록 이 정보를 조직 내의 적절한 팀 및 재판매인과 공유합니다.
+- 정확한 타이밍과 참여 방법에 대한 세부 정보를 제공하는 10월 테스트 기회에 대한 업데이트를 확인합니다.
 
 ________________
 
