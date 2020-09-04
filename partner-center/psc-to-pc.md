@@ -9,21 +9,18 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 207a6013f11ab795bf46e184a4e98379e3ef3301
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281349"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471470"
 ---
 # <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
 **적용 대상**
 
-- 조회
-- Microsoft와 공동 판매
-- PSC 사용자 계정 설정
-- PSC (파트너 판매 연결) 사용자 
+- 파트너 센터
 
 **적절한 역할**
 
@@ -33,7 +30,7 @@ ms.locfileid: "89281349"
 - PSC (파트너 판매 연결) 관리자
 - PSC (파트너 판매 연결) 거래 관리자
 
-아시다시피 회사는 2020 년 12 월 31 일 게시물에 대 한 액세스 권한을 잃게 됩니다. 공동 판매 거래를 만들고 거래 센터에서 Microsoft 판매자가 보낸 거래를 담당 하는 거래를 관리 하는 데 필요한 모든 것을 찾을 수 있습니다. 차이점은 다음과 같습니다. 다음 지침은 파트너 센터를 보다 자연스럽 게 전환 하는 데 도움이 됩니다.
+아시다시피 회사는 2020 년 12 월 31 일 게시물에 대 한 액세스 권한을 잃게 됩니다. 그러나 공동 판매 거래를 만들고 거래 센터에서 Microsoft 판매자가 보낸 거래를 담당 하는 거래를 관리 하는 데 필요한 모든 것을 찾을 수 있습니다. 차이점은 다음과 같습니다. 다음 지침은 파트너 센터를 보다 자연스럽 게 전환 하는 데 도움이 됩니다.
 
 >[!Important]
 > 여기에 있는 경우 마이그레이션에 대 한 해당 배너를 볼 수 있기 때문에 올바른 위치에 있습니다. 이 가이드는 PSC에서 거래를 관리 하는 SA (솔루션 평가) 및 OEM IOT 파트너에 게는 적용 되지 않습니다.
@@ -43,14 +40,14 @@ ms.locfileid: "89281349"
 ### <a name="if-you-are-psc-admin"></a>PSC 관리자 인 경우
 
 - [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
-- 파트너 센터 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)의 도움으로 계정을 설정 합니다.
+- 파트너 센터 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview)의 도움으로 계정을 설정 합니다.
 - 이 문서를 참조 하 여 파트너 센터에서 공동 판매 하는 방법에 대해 알아봅니다.
-- 모든 PSC 사용자 (관리자, 거래 관리자 및 판매자 역할)에 대 한 파트너 센터에서 사용자 계정을 설정 하 고 해당 사용자에 게 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 할당 합니다.
+- 모든 PSC 사용자 (관리자, 거래 관리자 및 판매자 역할)에 대 한 파트너 센터에서 사용자 계정을 설정 하 고 해당 사용자에 게 [조회 관리자 역할](https://docs.microsoft.com/partner-center/permissions-overview)을 할당 합니다.
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>사용자가 거래 관리자 또는 판매자 인 경우
 
 - [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
-- PSC에서 비 회사 계정을 사용 하는 경우 또는 회사 전자 메일이 파트너 조직과 다른 회사에 대 한 것 이라면 계정 설정 도움말은 PSC 관리자에 게 문의 하세요.
+- PSC에서 비 회사 계정을 사용 하는 경우 또는 회사 전자 메일이 파트너 회사와 다른 회사에 대 한 것 이라면 계정 설정 도움말은 PSC 관리자에 게 문의 하세요.
 - PSC에 로그인 하는 데 사용 하는 계정에 관계 없이 파트너 센터 계정 설정의 완료 여부를 PSC 관리자에 게 확인 합니다.
 - 파트너 센터 및 조회 섹션에 대 한 액세스 권한이 있는지 확인 합니다.
 - 이 문서를 읽고 파트너 센터의 워크플로 및 변경 내용을 이해 하세요.
@@ -59,7 +56,7 @@ ms.locfileid: "89281349"
 
 조회 탭이 표시 되지 않으면 다음을 수행 합니다.
 
-- 회사의 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 계정 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 선택 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "계정 관리자"로 변경 합니다. 그러면 페이지에 해당 전자 메일 Id가 있는 모든 계정 관리자가 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
+- 회사의 [전역 관리자](https://docs.microsoft.com/partner-center/permissions-overview) 가 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 선택 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다. 그러면 해당 전자 메일 Id가 있는 모든 전역 관리자가 페이지에 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
 
 >[!Important]
 > 사용자의 역할이 PSC의 사용자만 관리 하는 경우 파트너 센터의 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 역할을 얻을 수 있습니다. 공동 판매 기회 관리를 포함 하는 역할도 포함 하는 경우에는 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 가져와야 합니다. 또한 하나의 변경 관리를 추천 PC의 계정 관리자에 게 각각 연결 되는 모든 PSC 관리자 대신 파트너 센터 계정 관리자와 함께 사용할 수 있습니다.
@@ -111,7 +108,7 @@ ms.locfileid: "89281349"
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC 및 파트너 센터 필드 매핑
 
-이 섹션에서는 PSC와 파트너 센터 간 특성의 정확한 매핑을 이해 하는 데 도움을 줍니다. PSC의 각 화면은 파트너 센터 공동 판매 기회 섹션의 관련 보기와 비교 됩니다. 
+이 섹션에서는 PSC와 파트너 센터 간의 특성에 대 한 정확한 매핑을 제공 합니다. PSC의 각 화면은 파트너 센터 공동 판매 기회 섹션의 관련 보기와 비교 됩니다. 
 
 >[!Note]
 >PSC 스크린샷에서 노란색 거품의 숫자를 따라 파트너 센터에서 해당 하는 특성을 찾습니다. 빨간색 거품은 만든이를 파트너 센터에서 사용할 수 없음을 의미 합니다.
@@ -224,7 +221,7 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 
 파트너 센터는 PSC와는 달리 사용자의 사용자가 직접 액세스할 수 없습니다. 이 기능을 사용 하도록 설정 하는 여러 옵션이 있습니다. 이러한 기능은 아래에 설명 되어 있습니다.
 
-- OCP 정보-사용자가 관련 & 진행 중인 거래만 확인 하는 경우에는 OCP Insights 포털을 사용 하 여 조직 보기를 가져올 수 있습니다. 이는 내부 도구 이며, 사용자 및 사용자 에게만 사용할 수 있습니다. 회사 사용자에 게는 OCP insights를 사용할 수 없습니다.
+- OCP 정보-사용자가 관련 & 진행 중인 거래만 확인 하는 경우에는 OCP Insights 포털을 사용 하 여 조직 보기를 가져올 수 있습니다. 이는 내부 도구 이며,이 도구는 사용 가능한 경우에만 사용할 수 있습니다. 회사 사용자에 게는 OCP insights를 사용할 수 없습니다.
 - 파트너 센터의 게스트 사용자- @microsoft.com 거래 센터에서 PDM 계정을 게스트 사용자로 추가 하 고 조회를 보고 작업을 수행할 수 있도록 해당 사용자에 게 조회 관리자 역할을 할당할 수 있습니다.
 - 테 넌 트에 [새 사용자](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) 만들기-사용자의 테 넌 트에 새 사용자를 만들고 해당 세부 정보를 PDM과 공유 하 여 계정의 다른 참조 사용자와 비슷한 조회를 보고 작업할 수 있습니다.
 
@@ -244,7 +241,7 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 |비즈니스 프로필 만들기 및 관리|[비즈니스 프로필 관리](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
 |비즈니스 프로필에 대 한 잠재 고객 관리 |[잠재 고객 관리](https://docs.microsoft.com/partner-center/manage-leads)|
 
-## <a name="additional-resources"></a>추가 자료
+## <a name="additional-resources"></a>추가 리소스
 
 - 파트너 [판매 파트너 센터 통합 문서에 연결](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -파트너 센터 및 파트너 판매 연결을 통해 파트너의 판매 프로세스 및 역할을 새 판매 프로세스와 맞춥니다.
 - [파트너 센터 공동 판매 운영 가이드](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -파트너 센터를 통해 운영 모델을 식별 하 여 잠재 고객 또는 공동 판매 기회를 관리 하 고 거래를 등록 하는 지침을 제공 합니다.
