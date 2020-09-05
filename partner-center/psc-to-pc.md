@@ -1,22 +1,22 @@
 ---
-title: 파트너에 대 한 조회 101 파트너 판매 연결 (PSC)에서 파트너 센터 (PC)로 마이그레이션
+title: 파트너 판매 연결 (PSC)에서 마이그레이션
 ms.topic: article
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 자격이 있는 Microsoft 파트너는 Microsoft와 공동 판매할 수 있습니다. 거래를 정의 하거나, 공동 작업을 위해 Microsoft에 초대 하거나, 전송 되는 거래를 확인 하는 방법을 알아봅니다.
+description: Microsoft 파트너가 파트너 판매 연결 (PSC)에서 파트너 센터로 마이그레이션하고 Microsoft 판매자가 보낸 거래를 만들거나 관리 하는 방법에 대해 알아봅니다.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471470"
+ms.locfileid: "89490661"
 ---
-# <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
 **적용 대상**
 

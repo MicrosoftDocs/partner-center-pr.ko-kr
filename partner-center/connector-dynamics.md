@@ -8,12 +8,12 @@ description: Dynamics 365 CRM과 파트너 센터의 조회 동기화
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527579"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490671"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -28,7 +28,7 @@ ms.locfileid: "87527579"
 
 ## <a name="before-you-install---pre-requisites"></a>설치 전-필수 구성 요소
 
-|**토픽**   |**세부 정보**   |**링크**   |
+|**토픽**   |**세부 정보**   |**연결**   |
 |--------------|--------------------|------|
 |Microsoft 파트너 네트워크 ID |유효한 MPN ID가 필요 합니다.|[MPN](https://partner.microsoft.com/) 에 조인 하려면|
 |공동 판매 준비|I p/서비스 솔루션은 공동 판매 준비를 해야 합니다.|[Microsoft와 판매](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -109,7 +109,7 @@ ms.locfileid: "87527579"
 
 1. Url을 등록 하려면 **파트너 센터 Webhook 등록 (Insider preview)** 전원 자동화 흐름을 선택 합니다.
 
-2. (A.)에 대 한 연결을 추가 합니다. 조회 관리자 자격 증명이 있는 파트너 센터 사용자 (b.) 아래 강조 표시 된 파트너 센터 이벤트
+2. 아래 강조 표시 된 대로 조회 관리자 자격 증명 (b.) 파트너 센터 이벤트를 사용 하 여 (a.) 파트너 센터 사용자에 대 한 연결을 추가 합니다.
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="트리거":::
 
@@ -223,7 +223,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. Dynamics 365 환경에서 "새 기회"를 만들 때 다음 섹션이 표시 되는지 확인 합니다.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="기회":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Dynamics 365의 Microsoft 파트너 센터 정보를 보여주는 샘플 기회 섹션입니다.":::
 
    3. 이 기회를 Microsoft 파트너 센터와 동기화 하려면 카드 보기에서 다음 필드를 설정 해야 합니다.
 
@@ -231,7 +231,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
       - **Microsoft에서 도움을 주는 방법**: 다음 중에서 선택 합니다.
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="도움말 선택":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Microsoft의 도움을 얻을 수 있는 방법 이라는 필드 옆의 Microsoft 파트너 센터 도움말 옵션을 보여 주는 Dynamics 365의 샘플 기회 섹션":::
 
       - **제품**: 제품의 솔루션 id
 

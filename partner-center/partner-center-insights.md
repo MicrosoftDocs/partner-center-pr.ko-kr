@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943700"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490631"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
 
@@ -72,7 +72,7 @@ Insights는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Mi
 
 - 선택한 필터가 페이지 맨 위에 표시 됩니다. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="필터나":::
+:::image type="content" source="images/pci/filters.png" alt-text="제품, 고객 시장, 파트너 attributions 및 판매 채널에 대 한 필터를 선택할 때 적용 된 필터 표시줄을 보여 주는 부분 스크린샷.":::
 
 ### <a name="filters-definitions"></a>필터 정의:
 
