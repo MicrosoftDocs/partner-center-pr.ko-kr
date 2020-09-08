@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188433"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551644"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
@@ -94,6 +94,8 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 4. 사용 가능한 기존 Visual Studio 구독에 원하는 사용자를 할당 합니다.
 
 구독을 할당 한 후에는 사용자가 Visual Studio에 로그인 하 여 관리 해야 합니다.
+
+참고: 파트너 센터에서 Visual Studio 구독에 할당 된 사용자는 90 일의 원래 할당까지 제거할 수 없습니다.
 
 ## <a name="technical-benefits-and-support"></a>기술적 이점 및 지원
 
