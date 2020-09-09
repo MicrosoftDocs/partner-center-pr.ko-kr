@@ -1,7 +1,7 @@
 ---
 title: 혜택 FAQ
 ms.topic: article
-ms.date: 06/17/2020
+ms.date: 09/08/2020
 description: Azure, 클라우드, Visual Studio 및 기술 및 지원 혜택에 대 한 혜택 만료, 갱신 및 정품 인증에 대 한 질문에 대 한 답변
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
-ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
+ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "89551644"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564733"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
@@ -95,7 +95,8 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 
 구독을 할당 한 후에는 사용자가 Visual Studio에 로그인 하 여 관리 해야 합니다.
 
-참고: 파트너 센터에서 Visual Studio 구독에 할당 된 사용자는 90 일의 원래 할당까지 제거할 수 없습니다.
+>[!Note]
+> 파트너 센터에서 Visual Studio 구독에 할당 된 사용자는 원래 할당 후 90 일 후에 제거할 수 없습니다.
 
 ## <a name="technical-benefits-and-support"></a>기술적 이점 및 지원
 
