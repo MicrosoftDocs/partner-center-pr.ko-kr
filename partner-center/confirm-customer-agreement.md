@@ -1,20 +1,20 @@
 ---
 title: Microsoft 고객 계약에 대한 고객의 동의 확인
+description: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법을 알아봅니다. 고객을 위해 Microsoft 제품 및 서비스를 주문하는 데 CSP가 필요합니다.
 ms.topic: how-to
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법을 알아봅니다. 고객을 위해 Microsoft 제품 및 서비스를 주문하는 데 CSP가 필요합니다.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66be96fe8621089bda8dae546b804320d05fcb25
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/05/2020
+ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527826"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367287"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
 
