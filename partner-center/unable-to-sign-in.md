@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b237e3de6318b139812f168e0436daedcb96ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 475251477ac6b505f76b1175dff158db732e4794
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811173"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614144"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>파트너 센터에 로그인 할 수 없고 암호를 재설정 해야 하는 경우
 
@@ -22,7 +22,7 @@ ms.locfileid: "87811173"
 
 - 파트너 센터 사용자
 
-암호를 잊은 경우 파트너 센터에 로그인 할 수 없는 경우 지원 담당자에 게 문의 해야 합니다. [비즈니스 제품 지원](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_)에서 적절 한 연락처를 찾습니다. 
+암호를 잊은 경우 파트너 센터에 로그인 할 수 없는 경우 지원 담당자에 게 문의 해야 합니다. [비즈니스 제품 지원](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)에서 적절 한 연락처를 찾습니다. 
 
 암호를 재설정 하 고 회사 계정에 다시 액세스 하는 방법에 대 한 다양 한 방법은 [보안 정보를 사용 하 여 회사 또는 학교 암호 재설정](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)을 참조 하세요.
 
