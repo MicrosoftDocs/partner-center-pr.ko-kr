@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: 파트너 센터에 로그인할 수 없는 경우
       href: unable-to-sign-in.md
+    - name: MPN 프로그램 관리자가 퇴사한 경우 어떻게 해야 합니까?
+      href: no-mpn-admin.md
 - name: 파트너 센터 계정 관리 - 비즈니스
   items:
     - name: Azure Partner Shared Services 추가
