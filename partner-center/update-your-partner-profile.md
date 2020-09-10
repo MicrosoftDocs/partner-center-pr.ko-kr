@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304980"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490641"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>파트너 센터에서 파트너 프로필 정보 확인
 
@@ -55,6 +55,17 @@ Partner Membership Center에서 파트너 센터로 마이그레이션하는 동
 2. 그런 다음, **파트너 프로필**로 이동하고 **법적 비즈니스 프로필 업데이트**를 선택합니다.
 
 3. 법적 회사로 사용할 회사와 위치를 선택한 후 **저장**을 선택합니다.
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>CSP 계정과 연결된 MPN ID 업데이트
+
+CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니다.
+
+1. 파트너 센터 대시보드에 로그인합니다.
+1. **계정 설정**에서 **파트너 프로필**을 선택합니다.
+1. **연결된 MPNID** 옆에 있는 **업데이트**를 선택합니다.
+1. **계속**을 선택합니다.
+1. MPN ID를 추가합니다.
+
 
 ## <a name="update-your-billing-address"></a>청구 주소 업데이트
 

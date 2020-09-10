@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427100"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564763"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,7 +22,8 @@ ms.locfileid: "89427100"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
-|제품/시장|[향상된 인센티브 지원 환경 및 티켓 생성 프로세스](2020-september.md#4)|9월 2일|
+|제품/시장|[새로운 SKU는 Project Cortex 등의 기능을 고객에게 제공합니다.](2020-september.md#5)|9월 8일|
+|기능|[향상된 인센티브 지원 환경 및 티켓 생성 프로세스](2020-september.md#4)|9월 2일|
 |제품/시장|[예정된 새로운 Microsoft Dynamics 365 제품](2020-september.md#3)|9월 1일|
 |제품/시장|[Office 365 통화 플랜은 2020년 10월 1일에 새로운 시장에서 사용할 수 있습니다.](2020-september.md#2)|9월 1일|
 |제품/시장|[이제 교육용 서버를 위한 Microsoft Defender ATP(Advanced Threat Protection)를 사용할 수 있습니다.](2020-september.md#1)|9월 1일|

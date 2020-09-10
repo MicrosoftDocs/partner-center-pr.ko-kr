@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943620"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564694"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
@@ -38,7 +38,7 @@ ms.locfileid: "86943620"
 
 - PEC는 파트너가 관리하는 CSP에서 고객의 Azure 자산에 대해 청구된(청구 가능) 사용량과 관련이 있습니다. PEC는 Microsoft에서 요금을 청구하는 CSP 파트너(간접 공급자 및 직접 청구 파트너)만 사용할 수 있습니다. 
 
-- 적격 서비스: 파트너 획득 크레딧은 [Azure 플랜 가격 책정](https://partner.microsoft.com/commerce/sales) 페이지에서 파트너가 내보낼 수 있는 **Azure 플랜 사용량 가격 책정**에 나열된 서비스에 적용됩니다. 참고: Azure 플랜 사용량 가격표 및 Azure 플랜 예약의 **태그** 열에서 **타사**로 식별된 타사 제품 및 Marketplace 가격표의 제품을 포함하지만 이에 국한되지 않는 예외가 있습니다.
+- 적격 서비스: 파트너 획득 크레딧은 [Azure 플랜 가격 책정](https://partner.microsoft.com/commerce/sales) 페이지에서 파트너가 내보낼 수 있는 **Azure 플랜 사용량 가격 책정**에 나열된 서비스에 적용됩니다. 파트너 획득 크레딧은 Azure 플랜 사용량 가격표의 **태그 열**, Azure 플랜 예약, Marketplace 가격표의 제품 및 [Azure Spot Virtual Machines](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)에서 **타사**로 식별된 타사 제품에 적용되지 않습니다.
 
 - PEC는 매일 계산되며 일별 사용량 파일 및 월별 청구서 조정 파일에서 볼 수 있습니다. 파트너(간접 공급자 또는 간접 재판매인)에게는 전체 기간 동안(연중무휴) PEC를 획득할 수 있는 액세스 권한이 있어야 합니다.  
 

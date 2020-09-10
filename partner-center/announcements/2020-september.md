@@ -9,18 +9,103 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a2d89b8ff40cbfd3b64b109b23c5dc05901c99a2
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89287802"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564743"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
 이 페이지에서는 2020년 9월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지: [2월](2020-february.md) | [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | 9월
+
+________________
+
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>새 SKU에서 고객에게 Project Cortex 등의 강력한 기능 제공
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-09-08
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="summary"></a>요약
+
+고객이 [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) 및 [Project Turing](https://msturing.org/)의 성능을 활용할 수 있도록 지원하는 새 SKU는 2020년 10월 1일부터 거래할 수 있습니다.
+
+### <a name="details"></a>세부 정보
+
+사용자가 정보를 더 효율적으로 찾고 관리할 수 있도록 지원하는 [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/)(Intelligent Content Services) 및 Microsoft Search(Microsoft Graph Connectors for Search 포함)를 포함한 새 SKU를 2020년 10월 1일부터 사용할 수 있음을 발표하게 되어 기쁘게 생각합니다.  
+
+#### <a name="intelligent-content-services"></a>Intelligent Content Services
+  
+Intelligent Content Services는 고급 AI를 사용하여 콘텐츠 캡처, 태그 지정 및 관리를 자동화합니다. 이는 대량 콘텐츠 처리, 프로세스 자동화를 위한 메타데이터 추출, 세분화된 보안 및 규정 준수를 위해 SharePoint를 기반으로 합니다. Intelligent Content Services는 더 정확하고 정밀한 콘텐츠를 지식 네트워크에 푸시하여 지식 큐레이션 및 검색 환경을 향상시킵니다. 새 Intelligent Content Services SKU는 **10월 1일 가격표**(및 9월 1일 가격표 미리 보기)에서 사용할 수 있습니다. 
+ 
+**참고:** Intelligent Content Services는 이 제품에 대한 자리 표시자 이름이며, 2020년 10월 1일 이후 브랜드가 변경될 가능성이 높습니다.
+ 
+**Microsoft Search용 Microsoft Graph 커넥터** Microsoft Graph 커넥터를 사용하면 고객이 외부 리포지토리의 항목을 인덱싱하여 Microsoft Search 결과에 포함할 수 있습니다. 
+
+2020년 10월 1일 이후 
+
+- Microsoft 365 E5 및 Office 365 E5에는 Microsoft Search용 Microsoft Graph 커넥터(A5에는 포함되지 않음)를 사용하여 최대 500개의 항목을 인덱싱할 수 있는 기능이 포함됩니다.  
+- SharePoint 또는 OneDrive 플랜이 포함된 제품군 또는 독립 실행형 라이선스가 있는 사용자는 Microsoft Search용 Microsoft Graph 커넥터에서 검색 결과를 볼 수 있습니다. 
+- 새 **Graph 추가 커넥터 용량 SKU**를 사용하여 최대 100만 개의 추가 항목을 인덱싱할 수 있습니다.  
+
+#### <a name="offer-details"></a>솔루션 세부 정보
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |Intelligent Content Services|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
+   |Intelligent Content Services(비영리 직원 가격 책정)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |교직원용 Intelligent Content Services|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |Graph 추가 커넥터 용량|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |교직원용 Graph 추가 커넥터 용량|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+
+### <a name="next-steps"></a>다음 단계
+
+- 이 항목에 대한 리소스를 검토하고, 해당 정보를 조직 내의 적절한 관련자와 공유합니다.
+- 이러한 제안에 대한 질문이 있는 경우 관련 Yammer 커뮤니티를 확인하세요.
+
+________________
+
+## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>향상된 인센티브 지원 환경 및 티켓 만들기 프로세스
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-09-02
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+모든 파트너
+
+### <a name="summary"></a>요약
+
+파트너 인센티브 지원 환경이 향상된 자가 진단 콘텐츠 검색 기능과 간소화된 온라인 티켓 제출 프로세스를 통해 향상되었습니다.
+
+### <a name="details"></a>설명
+
+향상된 기능을 파트너 인센티브에 추가하여 더 효율적인 자가 진단 콘텐츠 검색 및 지원 프로세스 중에 정방향/역방향 데이터 수집을 줄이는 간소화된 티켓 제출 프로세스를 통해 전반적인 지원 환경이 향상되었습니다.
+
+#### <a name="new-capabilities"></a>새로운 기능
+
+- 새로운 검색 기반 자가 진단 환경을 통해 [파트너 센터](https://aka.ms/IncentivesSupport) 및 파트너 센터 이외의 계정을 위한 [Microsoft 파트너 네트워크](https://partner.microsoft.com/support/?stage=1) 내에서 액세스할 수 있습니다. 새로운 환경에는 새로운 문제 해결 단계, FAQ 및 관련 자가 진단 문서와 Microsoft 파트너 네트워크 지원 페이지에 대한 링크가 포함되어 있습니다.
+- 파트너 센터에서 직접 새 지원 요청을 시작합니다. 사용 가능한 항목 관련 도움말을 확인한 후에도 여전히 도움이 필요한 경우 파트너 센터에서 직접 티켓을 만들 수 있습니다.
+- 모든 자가 진단 항목에 대해 새로운 문제 범위 지정 질문을 사용할 수 있습니다. 이러한 질문을 완료하면 많은 중요한 세부 정보를 에이전트에 미리 제공하여 지원 티켓을 시작할 때 발생하는 정방향/역방향 데이터 수집의 많은 부분을 줄일 수 있습니다.
+
+
+### <a name="next-steps"></a>다음 단계
+
+- 이 정보를 조직 내의 다른 사용자와 공유합니다. 
+- 모든 인센티브 지원 요구 사항에 대해 새로운 지원 환경을 [파트너 센터](https://aka.ms/IncentivesSupport) 또는 [Microsoft 파트너 네트워크](https://partner.microsoft.com/support/?stage=1)에서 사용할 수 있습니다. 
+
+**참고:** 이 기능은 더 이상 사용되지 않으므로 다이렉트 이메일을 통한 지원 요청은 수락되지 않습니다.
 
 ________________
 
