@@ -1,25 +1,25 @@
 ---
-title: 미국 정부의 Microsoft 클라우드 파트너 센터에 대 한 질문과 대답 | 미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
+title: FAQ-미국 정부에 대 한 파트너 센터 Microsoft 클라우드
+description: 미국 정부에 대 한 Microsoft 클라우드 CSP (클라우드 솔루션 공급자) 프로그램에 대 한 FAQ (질문과 대답)를 참조 하세요.
 ms.topic: article
-ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 미국 정부에 대 한 Microsoft 클라우드 CSP (클라우드 솔루션 공급자) 프로그램에 대 한 FAQ (질문과 대답)를 참조 하세요.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: fbb9e7888456b1b7f9ce600fda6c7d6aad28edc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 11/20/2019
+ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
+ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220651"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "90026271"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
 
 **적용 대상**
 
--  Microsoft Cloud for US Government 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 ## <a name="general-questions"></a>일반적인 질문
 
@@ -35,7 +35,7 @@ ms.locfileid: "89220651"
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>고객 제시 가격은 CSP Commercial과 동일한가요?
 
-아니요. 가격 책정에는 미국 정부에 대 한 고유한 Microsoft 클라우드 가치를 제공 하기 위한 추가 비용이 반영 됩니다.
+아닙니다. 가격 책정에는 미국 정부에 대 한 고유한 Microsoft 클라우드 가치를 제공 하기 위한 추가 비용이 반영 됩니다.
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>파트너 할인 모델은 동일한가요?
 
@@ -49,7 +49,7 @@ Microsoft 정부 클라우드의 CSP 프로그램은 다음 영역에서 CSP 상
 
 - 온 보 딩: 파트너는 CSP 상용에서 별도로 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 등록 해야 합니다.
 
-- 제품 가용성: Microsoft 정부 클라우드의 CSP 프로그램에서 Office 365, Enterprise Mobility + Security 및 Dynamics 365와 같은 Azure Government 및 라이선스 기반 서비스를 모두 사용할 수 있습니다. 
+- 제품 가용성: Microsoft 정부 클라우드의 CSP 프로그램에서 Office 365, Enterprise Mobility + Security 및 Dynamics 365와 같은 Azure Government 및 라이선스 기반 서비스를 모두 사용할 수 있습니다.
 
 - 계약: MCRA (Microsoft 클라우드 대리점 계약)는 고유한 정부 용어를 반영 하도록 업데이트 되었습니다.
 
@@ -101,11 +101,11 @@ Microsoft 정부 클라우드의 CSP 프로그램을 판매 하는 데 필요한
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>파트너의 성과급에 차이가 있나요?
 
-아니요. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 파트너 성과급은 CSP 상업적 파트너와 동일 합니다. 파트너 성과급에 대해 자세히 알아보려면 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
+아닙니다. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 파트너 성과급은 CSP 상업적 파트너와 동일 합니다. 파트너 성과급에 대해 자세히 알아보려면 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
 
 ### <a name="are-there-any-changes-to-billing"></a>청구에 대 한 변경 내용이 있나요?
 
-아니요. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 청구 기준 및 요구 사항은 CSP 상용에 대 한 청구 기준 및 요구 사항과 동일 합니다. 청구에 대 한 자세한 내용은 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)에서 리소스를 검토 하세요.
+아닙니다. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 청구 기준 및 요구 사항은 CSP 상용에 대 한 청구 기준 및 요구 사항과 동일 합니다. 청구에 대 한 자세한 내용은 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)에서 리소스를 검토 하세요.
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>상용 데이터 센터에서 호스트 되는 데이터의 경우 미국 정부에 대 한 Microsoft 클라우드로 변경할 수 있나요?
 
@@ -166,7 +166,7 @@ IaaS (Infrastructure as a service) 및 기본 플랫폼과 데이터 제공을 �
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>다른 질문이 있는 경우 어디로 문의해야 하나요?
 
-자세한 내용은 계정 관리자에 게 문의 하세요. 또한 [Azure Government 용 CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all)에 특정 한 Yammer 그룹을 조인 합니다.
+자세한 내용은 계정 관리자에 게 문의 하세요. 또한 [Azure Government 용 CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)에 특정 한 Yammer 그룹을 조인 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 
