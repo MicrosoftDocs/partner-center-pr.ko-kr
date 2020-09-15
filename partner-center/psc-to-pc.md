@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
+ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490661"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90082521"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -43,6 +43,9 @@ ms.locfileid: "89490661"
 - 파트너 센터 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview)의 도움으로 계정을 설정 합니다.
 - 이 문서를 참조 하 여 파트너 센터에서 공동 판매 하는 방법에 대해 알아봅니다.
 - 모든 PSC 사용자 (관리자, 거래 관리자 및 판매자 역할)에 대 한 파트너 센터에서 사용자 계정을 설정 하 고 해당 사용자에 게 [조회 관리자 역할](https://docs.microsoft.com/partner-center/permissions-overview)을 할당 합니다.
+
+>[!Important]
+> PSC 배너에 표시 된 MPN ID를 파트너 센터의 MPN 위치 목록에서 사용할 수 있는지 확인 합니다. 파트너 센터에서 계정 설정 및 [위치](https://docs.microsoft.com/partner-center/manage-locations) 로 이동 하 여 파트너 센터 계정에 연결 된 모든 MPNs 목록을 찾는 방법으로 파트너 센터에서 확인할 수 있습니다.
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>사용자가 거래 관리자 또는 판매자 인 경우
 
