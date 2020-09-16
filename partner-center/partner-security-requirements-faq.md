@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444897"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614157"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -214,7 +214,7 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>PowerShell과 같은 자동화 도구를 사용하고 있습니다. 보안 애플리케이션 모델을 구현하려면 어떻게 하나요?
 
-자동화가 비대화형으로 실행되도록 설계되고 사용자 자격 증명을 인증에 사용하는 경우 보안 애플리케이션 모델을 구현해야 합니다. 이 프레임워크 구현 방법에 대한 지침은 [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)(보안 애플리케이션 모델 | 파트너 센터 PowerShell)을 참조하세요.  
+자동화가 비대화형으로 실행되도록 설계되고 사용자 자격 증명을 인증에 사용하는 경우 보안 애플리케이션 모델을 구현해야 합니다. 이 프레임워크 구현 방법에 대한 지침은 [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)(보안 애플리케이션 모델 | 파트너 센터 PowerShell)을 참조하세요.  
 
 >[!Note] 
 >일부 자동화 도구는 액세스 토큰을 사용하여 인증하는 기능을 제공하지 않을 수 있습니다. 변경해야 하는 항목을 파악하는 데 도움이 필요한 경우 메시지를 [파트너 센터 보안 지침](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) 그룹에 게시하세요. 
@@ -292,7 +292,7 @@ Microsoft는 추가 보호 기능을 제공하기 위해 보안 보호 기능의
 
 리소스에 액세스하는 계정에 다단계 인증이 필요한지 확인하기 위해 [인증 방법 참조](https://tools.ietf.org/html/rfc8176) 클레임을 확인하여 MFA가 나열되어 있는지 확인합니다. 일부 타사 솔루션은 이 클레임을 발급하거나 MFA 값을 포함하고 있지 않습니다. 클레임이 없거나 MFA 값이 나열되지 않은 경우 인증된 계정에 다단계 인증이 필요한지 확인할 수 있는 방법이 없습니다. 타사 솔루션의 공급업체와 협력하여 솔루션에서 인증 방법 참조 클레임을 발급하는 데 필요한 작업을 확인해야 합니다.
 
-타사 솔루션에서 예상 클레임을 발급하는지 확실하지 않은 경우 [파트너 보안 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)를 참조하세요.
+타사 솔루션에서 예상 클레임을 발급하는지 확실하지 않은 경우 [파트너 보안 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)를 참조하세요.
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO를 사용하여 고객을 지원하지 못하게 MFA가 차단하고 있습니다. 어떻게 해야 하나요?
 
