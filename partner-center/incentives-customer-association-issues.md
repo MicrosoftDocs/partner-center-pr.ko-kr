@@ -7,15 +7,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: ab2c26cf097d6212375382cadd9ac5f4f80b5c2a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220621"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714477"
 ---
-# <a name="incentives-customer-association-issues"></a>인센티브 고객 제휴 문제
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>요청 받은 레코드 파트너 (CPOR) 고객 연결 문제
 
 **적용 대상:**
 

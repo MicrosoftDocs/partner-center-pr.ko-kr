@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220781"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714387"
 ---
-# <a name="prepare-your-proof-of-execution"></a>실행 증명서 준비
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>PoE (성과급 실행 증명)를 위한 문서 만들기 및 제출
 
 **적용 대상:**
 

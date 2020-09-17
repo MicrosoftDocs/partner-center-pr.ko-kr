@@ -1,21 +1,21 @@
 ---
 title: 결제 및 소득 문제 해결
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: 누락 되거나 잘못 된 소득, 자격 문제 및 성과급 소득 조정 방법 등의 문제를 해결 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 02d6aaf05abfed993d7fcb24f74b5303417b7636
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220791"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714417"
 ---
-# <a name="troubleshooting-payments-and-earnings-issues"></a>결제 및 소득 문제 해결
+# <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>누락 된 지불, 잘못 된 소득 및 기타 문제 해결
 
 **적용**대상:
 
