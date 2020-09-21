@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564763"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574389"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "89564763"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[Microsoft Project 및 Microsoft Visio용 셀프 서비스 지금 이용 가능](2020-september.md#6)|9월 15일|
 |제품/시장|[새로운 SKU는 Project Cortex 등의 기능을 고객에게 제공합니다.](2020-september.md#5)|9월 8일|
 |기능|[향상된 인센티브 지원 환경 및 티켓 생성 프로세스](2020-september.md#4)|9월 2일|
 |제품/시장|[예정된 새로운 Microsoft Dynamics 365 제품](2020-september.md#3)|9월 1일|

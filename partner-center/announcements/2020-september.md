@@ -9,18 +9,50 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564743"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574399"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
 이 페이지에서는 2020년 9월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지: [2월](2020-february.md) | [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | 9월
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Microsoft Project 및 Microsoft Visio용 셀프 서비스 지금 이용 가능
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-09-15
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+온라인 서비스를 상용 고객에게 판매하는 파트너
+
+### <a name="details"></a>세부 정보
+
+작년 Microsoft는 개인과 팀이 선택 서비스를 직접 구매할 수 있음을 [알려드렸습니다](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf). 이제 전 세계 개인은 셀프 서비스를 통해 다음과 같은 Microsoft Project 및 Microsoft Visio 제품에 대한 구독을 구매할 수 있습니다. 
+
+- [Visio 플랜 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) 및 [Visio 플랜 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project 플랜 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) 및 [프로젝트 플랜 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+참고:  셀프 서비스 구매 기능은 현재 인도, 브라질, 콩고민주공화국(DRC)에서 사용할 수 없으며, 정부 또는 교육 제품 대상 고객에게도 제공되지 않습니다.  전체 국가 사용 가능성 및 업데이트는 [셀프 서비스 구매 FAQ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true)를 확인하세요.
+
+#### <a name="partner-benefits"></a>파트너 혜택
+
+필요한 라이선스를 얻기 위해 중앙 집중식 IT 조달 프로세스를 거치지 않고도 개인과 팀에 서비스를 제공할 수 있습니다. 서비스는 Microsoft 365 및 Power Platform과의 통합 시나리오를 기반으로 Project와 Visio를 포함할 수 있습니다. 고객은 또한 지금 [Visio 플랜 1 및 Visio 플랜 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)와 [Project 플랜 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)에 사용할 수 있는 Visio 및 Project 평가판을 구매하기 전에 사용해 볼 수 있습니다.
+
+
+### <a name="next-steps"></a>다음 단계
+
+- 작업 준비 리소스 갤러리에 있는 모든 준비 리소스를 검토하세요. [고객 셀프 서비스 구매 기능](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/) -Microsoft Inspire 세션 [Microsoft Visio 및 Power Platform을 통한 비즈니스 재구축 및 재구상](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)에서 Visio 및 Power Platform 솔루션의 파트너 기회에 대해 자세히 알아보세요.
+- 자세한 내용은 [셀프 서비스 관리자 가이드](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true)를 참조하세요.
 
 ________________
 
@@ -89,7 +121,7 @@ ________________
 
 파트너 인센티브 지원 환경이 향상된 자가 진단 콘텐츠 검색 기능과 간소화된 온라인 티켓 제출 프로세스를 통해 향상되었습니다.
 
-### <a name="details"></a>설명
+### <a name="details"></a>세부 정보
 
 향상된 기능을 파트너 인센티브에 추가하여 더 효율적인 자가 진단 콘텐츠 검색 및 지원 프로세스 중에 정방향/역방향 데이터 수집을 줄이는 간소화된 티켓 제출 프로세스를 통해 전반적인 지원 환경이 향상되었습니다.
 

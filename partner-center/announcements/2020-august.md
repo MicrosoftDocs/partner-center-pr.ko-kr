@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274991"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614129"
 ---
 # <a name="august-2020-announcements"></a>2020년 8월 공지
 
@@ -136,7 +136,7 @@ ________________
 
 필요한 라이선스를 얻기 위해 중앙 집중식 IT 조달 프로세스를 거치지 않고도 개인과 팀에 서비스를 제공할 수 있습니다. 서비스는 Microsoft 365 및 Power Platform과의 통합 시나리오를 기반으로 Project와 Visio를 포함할 수 있습니다. 
 
-Microsoft Inspire 세션 [Microsoft Visio 및 Power Platform을 통한 비즈니스 재구축 및 재구상](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)에서 Visio 및 Power Platform 솔루션의 파트너 기회에 대해 자세히 알아보세요. 자세한 내용은 [셀프 서비스 관리자 가이드](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide)를 참조하세요.
+Microsoft Inspire 세션 [Microsoft Visio 및 Power Platform을 통한 비즈니스 재구축 및 재구상](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)에서 Visio 및 Power Platform 솔루션의 파트너 기회에 대해 자세히 알아보세요. 자세한 내용은 [셀프 서비스 관리자 가이드](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)를 참조하세요.
 
 #### <a name="additional-resources"></a>추가 자료
 
