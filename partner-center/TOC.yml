@@ -498,6 +498,8 @@
           href: pci-competencies-report.md
         - name: Insights - 이익 보고서
           href: pci-benefits-report.md
+        - name: Insights - CloudAscent 성향 보고서
+          href: pci-customer-opportunities.md
         - name: Insights - 알려진 문제
           href: pci-known-issues.md
         - name: Insights - 보고서 다운로드

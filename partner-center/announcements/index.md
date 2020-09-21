@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 157769fd08a99e63d2a2aac06e704a72add20a60
+ms.sourcegitcommit: b60577f772e240fd2c38c13987d2b39c4722fbad
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574389"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "90773837"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "90574389"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[2020년 9월 30일에 CSP O365 사용 API 및 CSP 라이선스 사용 보고서에 대한 예정된 변경 사항.](2020-september.md#8)|9월 17일|
+|기능|[간접 재판매인 MPA 업데이트. MPA API 사용자에게 필요한 조치 및 새로운 MPA 보고 기능](2020-september.md#7)|9월 16일|
 |제품/시장|[Microsoft Project 및 Microsoft Visio용 셀프 서비스 지금 이용 가능](2020-september.md#6)|9월 15일|
 |제품/시장|[새로운 SKU는 Project Cortex 등의 기능을 고객에게 제공합니다.](2020-september.md#5)|9월 8일|
 |기능|[향상된 인센티브 지원 환경 및 티켓 생성 프로세스](2020-september.md#4)|9월 2일|
