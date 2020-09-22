@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
-ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
+ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90082521"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848271"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -45,7 +45,9 @@ ms.locfileid: "90082521"
 - 모든 PSC 사용자 (관리자, 거래 관리자 및 판매자 역할)에 대 한 파트너 센터에서 사용자 계정을 설정 하 고 해당 사용자에 게 [조회 관리자 역할](https://docs.microsoft.com/partner-center/permissions-overview)을 할당 합니다.
 
 >[!Important]
-> PSC 배너에 표시 된 MPN ID를 파트너 센터의 MPN 위치 목록에서 사용할 수 있는지 확인 합니다. 파트너 센터에서 계정 설정 및 [위치](https://docs.microsoft.com/partner-center/manage-locations) 로 이동 하 여 파트너 센터 계정에 연결 된 모든 MPNs 목록을 찾는 방법으로 파트너 센터에서 확인할 수 있습니다.
+> PSC 배너에 표시 된 MPN ID를 파트너 센터의 MPN 위치 목록에서 사용할 수 있는지 확인 합니다. 파트너 센터 계정에 연결 된 모든 MPNs 목록을 찾기 위해 "계정 설정" 및 "[위치](https://docs.microsoft.com/partner-center/manage-locations)"로 이동 하 여 파트너 센터에서이를 확인할 수 있습니다.
+
+ :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="파트너가 MPN ID를 찾을 수 있는 PSC 배너를 표시 하는 이미지입니다.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>사용자가 거래 관리자 또는 판매자 인 경우
 
