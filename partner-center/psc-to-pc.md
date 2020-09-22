@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848271"
+ms.locfileid: "90999347"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -40,12 +40,12 @@ ms.locfileid: "90848271"
 ### <a name="if-you-are-psc-admin"></a>PSC 관리자 인 경우
 
 - [파트너 센터](https://partner.microsoft.com/)에 로그인 하려면 회사 전자 메일이 필요 합니다.
-- 파트너 센터 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview)의 도움으로 계정을 설정 합니다.
+- 파트너 센터 [계정 관리자](permissions-overview.md)의 도움으로 계정을 설정 합니다.
 - 이 문서를 참조 하 여 파트너 센터에서 공동 판매 하는 방법에 대해 알아봅니다.
-- 모든 PSC 사용자 (관리자, 거래 관리자 및 판매자 역할)에 대 한 파트너 센터에서 사용자 계정을 설정 하 고 해당 사용자에 게 [조회 관리자 역할](https://docs.microsoft.com/partner-center/permissions-overview)을 할당 합니다.
+- 모든 PSC 사용자 (관리자, 거래 관리자 및 판매자 역할)에 대 한 파트너 센터에서 사용자 계정을 설정 하 고 해당 사용자에 게 [조회 관리자 역할](permissions-overview.md)을 할당 합니다.
 
 >[!Important]
-> PSC 배너에 표시 된 MPN ID를 파트너 센터의 MPN 위치 목록에서 사용할 수 있는지 확인 합니다. 파트너 센터 계정에 연결 된 모든 MPNs 목록을 찾기 위해 "계정 설정" 및 "[위치](https://docs.microsoft.com/partner-center/manage-locations)"로 이동 하 여 파트너 센터에서이를 확인할 수 있습니다.
+> PSC 배너에 표시 된 MPN ID를 파트너 센터의 MPN 위치 목록에서 사용할 수 있는지 확인 합니다. 파트너 센터 계정에 연결 된 모든 MPNs 목록을 찾기 위해 "계정 설정" 및 "[위치](manage-locations.md)"로 이동 하 여 파트너 센터에서이를 확인할 수 있습니다.
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="파트너가 MPN ID를 찾을 수 있는 PSC 배너를 표시 하는 이미지입니다.":::
 
@@ -61,10 +61,10 @@ ms.locfileid: "90848271"
 
 조회 탭이 표시 되지 않으면 다음을 수행 합니다.
 
-- 회사의 [전역 관리자](https://docs.microsoft.com/partner-center/permissions-overview) 가 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 선택 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다. 그러면 해당 전자 메일 Id가 있는 모든 전역 관리자가 페이지에 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
+- 회사의 [전역 관리자](permissions-overview.md) 가 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 선택 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다. 그러면 해당 전자 메일 Id가 있는 모든 전역 관리자가 페이지에 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
 
 >[!Important]
-> 사용자의 역할이 PSC의 사용자만 관리 하는 경우 파트너 센터의 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 역할을 얻을 수 있습니다. 공동 판매 기회 관리를 포함 하는 역할도 포함 하는 경우에는 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 가져와야 합니다. 또한 하나의 변경 관리를 추천 PC의 계정 관리자에 게 각각 연결 되는 모든 PSC 관리자 대신 파트너 센터 계정 관리자와 함께 사용할 수 있습니다.
+> 사용자의 역할이 PSC의 사용자만 관리 하는 경우 파트너 센터의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 역할을 얻을 수 있습니다. 공동 판매 기회 관리를 포함 하는 역할도 포함 하는 경우에는 [조회 관리자](permissions-overview.md#manage-referrals) 역할을 가져와야 합니다. 또한 하나의 변경 관리를 추천 PC의 계정 관리자에 게 각각 연결 되는 모든 PSC 관리자 대신 파트너 센터 계정 관리자와 함께 사용할 수 있습니다.
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="파트너 설정 사용자 관리 페이지에서 계정 관리자를 표시 하는 이미지입니다.":::
 
@@ -76,9 +76,9 @@ ms.locfileid: "90848271"
 파트너 센터에서 계정을 설정한 후
 
 - 다음 단계로, PSC에서 역할이 "거래 관리자" 또는 "판매자" 인 모든 사용자를 파트너 센터에 초대 합니다.
-- 조회 액세스를 제공한 [계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 는 모든 사용자를 초대할 수 있습니다.
-- 사용자를 초대 하는 동안 계정 관리자에 게 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할을 할당 하도록 요청 합니다.
-- 일부 PSC 사용자가 파트너 센터에서 사용 중인 계정이 아닌 다른 계정 또는 도메인의 계정을 사용할 수 있습니다. 이러한 모든 사용자는 Azure AD 테 넌 트에 연결 된 회사 계정을 사용 하 여 파트너 센터에 로그인 해야 합니다. [전역 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 는이를 지원할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다.
+- 조회 액세스를 제공한 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 는 모든 사용자를 초대할 수 있습니다.
+- 사용자를 초대 하는 동안 계정 관리자에 게 [조회 관리자](permissions-overview.md#manage-referrals) 역할을 할당 하도록 요청 합니다.
+- 일부 PSC 사용자가 파트너 센터에서 사용 중인 계정이 아닌 다른 계정 또는 도메인의 계정을 사용할 수 있습니다. 이러한 모든 사용자는 Azure AD 테 넌 트에 연결 된 회사 계정을 사용 하 여 파트너 센터에 로그인 해야 합니다. [전역 관리자](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 는이를 지원할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다.
 - 전역 관리자는 Azure AD 테 넌 트에서 새 사용자 계정을 만들거나 다른 도메인 계정 사용자에 게 게스트 사용자 액세스 권한을 할당할 수 있습니다.
 - 모든 PSC 거래 관리자 및 사용자에 대 한 계정이 설정 되 면 파트너 센터에 로그인 하 고 왼쪽 탐색에서 조회 탭으로 이동한 다음 조회 페이지를 볼 수 있는지 확인 해야 합니다.
 
@@ -100,16 +100,16 @@ ms.locfileid: "90848271"
 
 |**시나리오**|**파트너 판매 연결**|**파트너 센터**|
 |-----|:-----|:-----|
-|사용자 역할|PSC에는 관리자, 거래 관리자 및 판매자 역할이 있습니다.|PC에는 모든 거래에 대해 읽기 및 쓰기 권한을 모두 제공 하는 [조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 역할만 있습니다.|
-|공동 판매 거래에 Microsoft 초대|Microsoft 판매자에 의해 시작 된 파트너에 게는 명시적으로 묻지 않습니다.|파트너는 Microsoft 판매자 도움말이 거래에 필요한 경우 [명시적 요청](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 을 해야 합니다. Microsoft 판매자에 게 요청을 거부 하는 옵션이 있습니다.|
+|사용자 역할|PSC에는 관리자, 거래 관리자 및 판매자 역할이 있습니다.|PC에는 모든 거래에 대해 읽기 및 쓰기 권한을 모두 제공 하는 [조회 관리자](permissions-overview.md#manage-referrals) 역할만 있습니다.|
+|공동 판매 거래에 Microsoft 초대|Microsoft 판매자에 의해 시작 된 파트너에 게는 명시적으로 묻지 않습니다.|파트너는 Microsoft 판매자 도움말이 거래에 필요한 경우 [명시적 요청](manage-co-sell-opportunities.md#add-solutions) 을 해야 합니다. Microsoft 판매자에 게 요청을 거부 하는 옵션이 있습니다.|
 |만료|거래 만료 라는 개념은 없습니다.|파트너 인바운드 거래는 파트너에 의해 허용 되지 않는 경우 14 일 후에 만료 됩니다. Microsoft 판매자가 14 일 내에 작업 하지 않는 경우 만료 된 상태로 전환할 수 있는 파트너 아웃 바운드 거래의 경우에도 마찬가지입니다.|
 |Microsoft 판매자 세부 정보|거래를 만드는 즉시 표시 됩니다.|판매자가 파트너의 공동 판매 초대를 명시적으로 수락 하는 경우에만 Microsoft 판매자 세부 정보가 파트너와 공유 됩니다.|
-|[개인 파이프라인](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|사용할 수 없습니다.|파트너는 Microsoft 판매자에 게 가시성을 제공 하지 않고 파이프라인을 공유할 수 있습니다.|
-|솔루션|하나 이상의 가격 목록에 속한 솔루션도 거래에 추가할 수 있습니다.|파트너는 다음 목록을 포함 하는 [솔루션](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 을 추가할 수 있습니다. a) 자사 솔루션 b) Microsoft 자사 카탈로그 (PSC의 트랜잭션 거래 역할과 비슷함) 및 c) 다른 타사 파트너의 공동 판매 솔루션 (PSC의 ISV 거래 역할과 비슷함)|
+|[개인 파이프라인](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|사용할 수 없습니다.|파트너는 Microsoft 판매자에 게 가시성을 제공 하지 않고 파이프라인을 공유할 수 있습니다.|
+|솔루션|하나 이상의 가격 목록에 속한 솔루션도 거래에 추가할 수 있습니다.|파트너는 다음 목록을 포함 하는 [솔루션](manage-co-sell-opportunities.md#add-solutions) 을 추가할 수 있습니다. a) 자사 솔루션 b) Microsoft 자사 카탈로그 (PSC의 트랜잭션 거래 역할과 비슷함) 및 c) 다른 타사 파트너의 공동 판매 솔루션 (PSC의 ISV 거래 역할과 비슷함)|
 |거래 과제|할당 된 판매자만 거래를 보고 작업할 수 있습니다.|팀 멤버를 거래에 추가 하 여 거래를 담당 하는 사용자를 지정할 수 있으며, 다른 조회 관리자가 해당 거래를 보거나 작업을 수행할 수 없도록 차단 되지 않습니다.|
-|고객 조직|자유 형식 텍스트 항목입니다.|몇 자만 입력 하면 [D&B 데이터베이스](https://www.dnb.com/) 에 대해 [고객 조직을](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) 검색할 수 있습니다. 올바른 이름 및 주소는 선택에 따라 자동으로 채워집니다.|
+|고객 조직|자유 형식 텍스트 항목입니다.|몇 자만 입력 하면 [D&B 데이터베이스](https://www.dnb.com/) 에 대해 [고객 조직을](manage-co-sell-opportunities.md#select-your-customer) 검색할 수 있습니다. 올바른 이름 및 주소는 선택에 따라 자동으로 채워집니다.|
 |고객 연락처|필수가 아닙니다.|개인 파이프라인 공유의 경우 필수 항목이 아닙니다. Microsoft 판매자가 공동 판매 요청에 참여 하도록 초대 된 경우에 필요 합니다.|
-|공용 API|사용할 수 없습니다.|파트너 센터 조회를 프로그래밍 방식으로 관리 하는 [공용 API](https://docs.microsoft.com/partner/develop/referrals) .|
+|공용 API|사용할 수 없습니다.|파트너 센터 조회를 프로그래밍 방식으로 관리 하는 [공용 API](/partner/develop/referrals) .|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC 및 파트너 센터 필드 매핑
 
@@ -166,13 +166,13 @@ ms.locfileid: "90848271"
 
 **사분기. 파트너 센터에 액세스할 수 없는 경우 어떻게 해야 하나요?**
 
-"권한 없음" 페이지에 나열 된 관리자에 게 할당 된 역할을 가져올 수 있습니다. 조회 섹션에는 읽기 및 쓰기 권한을 위한 "[조회 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" 역할이 필요 합니다. 비즈니스 프로필만 관리 하는 경우 파트너 센터에서 "비즈니스 프로필 관리자" 역할이 필요 합니다.
+"권한 없음" 페이지에 나열 된 관리자에 게 할당 된 역할을 가져올 수 있습니다. 조회 섹션에는 읽기 및 쓰기 권한을 위한 "[조회 관리자](permissions-overview.md#manage-referrals)" 역할이 필요 합니다. 비즈니스 프로필만 관리 하는 경우 파트너 센터에서 "비즈니스 프로필 관리자" 역할이 필요 합니다.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="파트너 센터에서 액세스 안 함 환경을 보여 주는 이미지":::
 
 **2. 파트너 센터의 조회 섹션에 대 한 액세스 권한을 부여할 수 있는 사용자는 누구 인가요?**
 
-[계정 관리자](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 계정 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "계정 관리자"로 변경 합니다. 그러면 페이지에 해당 전자 메일 Id가 있는 모든 계정 관리자가 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
+[계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 계정 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "계정 관리자"로 변경 합니다. 그러면 페이지에 해당 전자 메일 Id가 있는 모든 계정 관리자가 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
 
 **Q3. + 새 거래 단추는 계정에 대해 회색으로 표시 됩니다. 거래를 만들기 시작 하려면 어떻게 해야 하나요?**
 
@@ -192,7 +192,7 @@ ms.locfileid: "90848271"
 
 **Q7. 성공으로 만든 후에 어떻게 거래를 등록할 수 있나요?**
 
-이러한 조건이 아래 조건을 충족 하는 경우 [등록](https://docs.microsoft.com/partner-center/register-deals)을 시작 하는 팝업이 표시 됩니다.
+이러한 조건이 아래 조건을 충족 하는 경우 [등록](./register-deals.md)을 시작 하는 팝업이 표시 됩니다.
 
 - 거래에 연결 된 동기 솔루션이 있습니다.
 - Microsoft 판매자는 거래에 참여 하거나 거래에 초대 합니다.
@@ -204,11 +204,11 @@ ms.locfileid: "90848271"
 
 **Q9. 고객 조직을 필수로 추가 하 고 있습니까?**
 
-예, [고객 조직](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) 추가는 파트너 센터에서 필수입니다. 먼저 고객이 위치한 위치를 검색 합니다. 사용자의 세부 정보를 기반으로 합니다. 정확한 빌드 이름을 포함 하거나 도시 세부 정보를 제공할 수 있습니다. 조직 검색은 사용자가 입력 한 이름과 일치 하는 모든 법률 엔터티를 인출 하므로 주소 정보를 입력할 필요가 없습니다. 모든 세부 정보는 선택한 조직에 따라 자동으로 채워집니다.
+예, [고객 조직](./manage-co-sell-opportunities.md#select-your-customer) 추가는 파트너 센터에서 필수입니다. 먼저 고객이 위치한 위치를 검색 합니다. 사용자의 세부 정보를 기반으로 합니다. 정확한 빌드 이름을 포함 하거나 도시 세부 정보를 제공할 수 있습니다. 조직 검색은 사용자가 입력 한 이름과 일치 하는 모든 법률 엔터티를 인출 하므로 주소 정보를 입력할 필요가 없습니다. 모든 세부 정보는 선택한 조직에 따라 자동으로 채워집니다.
 
 **Q10. 고객 연락처 세부 정보는 필수 인가요?**
 
-만들고 있는 [거래 유형에](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) 따라 달라 집니다. 파이프라인을 공유 하 고 Microsoft 판매 조직의 도움을 요구 하지 않는 경우 고객 연락처 세부 정보를 제공 하지 않도록 선택할 수 있습니다. Microsoft 판매자의 도움을 받을 수 있는 공동 판매 인 경우 고객 연락처 세부 정보를 제공 해야 합니다. 파트너 센터에서 공동 판매 요청을 만들기 전에 고객 으로부터 명시적 동의를 받아야 합니다.
+만들고 있는 [거래 유형에](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) 따라 달라 집니다. 파이프라인을 공유 하 고 Microsoft 판매 조직의 도움을 요구 하지 않는 경우 고객 연락처 세부 정보를 제공 하지 않도록 선택할 수 있습니다. Microsoft 판매자의 도움을 받을 수 있는 공동 판매 인 경우 고객 연락처 세부 정보를 제공 해야 합니다. 파트너 센터에서 공동 판매 요청을 만들기 전에 고객 으로부터 명시적 동의를 받아야 합니다.
 
 **Q11. 거래에 추가할 수 있는 솔루션은 몇 개입니까?**
 
@@ -228,7 +228,7 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 
 - OCP 정보-사용자가 관련 & 진행 중인 거래만 확인 하는 경우에는 OCP Insights 포털을 사용 하 여 조직 보기를 가져올 수 있습니다. 이는 내부 도구 이며,이 도구는 사용 가능한 경우에만 사용할 수 있습니다. 회사 사용자에 게는 OCP insights를 사용할 수 없습니다.
 - 파트너 센터의 게스트 사용자- @microsoft.com 거래 센터에서 PDM 계정을 게스트 사용자로 추가 하 고 조회를 보고 작업을 수행할 수 있도록 해당 사용자에 게 조회 관리자 역할을 할당할 수 있습니다.
-- 테 넌 트에 [새 사용자](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) 만들기-사용자의 테 넌 트에 새 사용자를 만들고 해당 세부 정보를 PDM과 공유 하 여 계정의 다른 참조 사용자와 비슷한 조회를 보고 작업할 수 있습니다.
+- 테 넌 트에 [새 사용자](./create-user-accounts-and-set-permissions.md#add-a-new-user) 만들기-사용자의 테 넌 트에 새 사용자를 만들고 해당 세부 정보를 PDM과 공유 하 여 계정의 다른 참조 사용자와 비슷한 조회를 보고 작업할 수 있습니다.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>파트너 센터에서 거래를 만들고 관리 하는 데 도움이 되는 리소스
 
@@ -236,15 +236,15 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 
 |**수행할 작업**   |**이 글 읽기**   |
 |-----------------------|:-----------------------|
-|공동 판매 기회 페이지에서 탭 및 탐색 이해|[공동 판매 섹션 탐색](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|D&B 목록에서 고객 조직 선택 |[고객 선택](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|거래 정보 섹션에서 필드 수정|[거래 정보](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|거래 팀에 회사 직원 추가|[직원 추가](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|공동 판매 거래에 대응|[공동 판매 거래 관리](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|파트너 센터에서 승리한 거래 등록 |[새 거래 등록](https://docs.microsoft.com/partner-center/register-deals)
-|조회 정보를 얻고 조회를 수행 하는 방법 알아보기 |[참조 인사이트](https://docs.microsoft.com/partner-center/referral-insights)
-|비즈니스 프로필 만들기 및 관리|[비즈니스 프로필 관리](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|비즈니스 프로필에 대 한 잠재 고객 관리 |[잠재 고객 관리](https://docs.microsoft.com/partner-center/manage-leads)|
+|공동 판매 기회 페이지에서 탭 및 탐색 이해|[공동 판매 섹션 탐색](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|D&B 목록에서 고객 조직 선택 |[고객 선택](./manage-co-sell-opportunities.md#select-your-customer)|
+|거래 정보 섹션에서 필드 수정|[거래 정보](./manage-co-sell-opportunities.md#deal-details)|
+|팀 멤버를 거래 팀에 추가|[직원 추가](./manage-co-sell-opportunities.md#add-team-members)|
+|공동 판매 거래에 대응|[공동 판매 거래 관리](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|파트너 센터에서 승리한 거래 등록 |[새 거래 등록](./register-deals.md)
+|조회 정보를 얻고 조회를 수행 하는 방법 알아보기 |[참조 인사이트](./referral-insights.md)
+|비즈니스 프로필 만들기 및 관리|[비즈니스 프로필 관리](./create-a-marketing-profile.md)
+|비즈니스 프로필에 대 한 잠재 고객 관리 |[잠재 고객 관리](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>추가 리소스
 

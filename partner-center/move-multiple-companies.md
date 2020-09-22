@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114143"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000077"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>파트너 구성원 센터에서 여러 회사를 파트너 센터로 이동 (PMC)
 
@@ -93,4 +93,4 @@ ms.locfileid: "87114143"
 - [사용자 역할 및 권한 할당](permissions-overview.md)
 - [멤버십 프로그램 관리](renew-mpn-offers.md)
 - [회사의 비즈니스 프로필 만들기](create-a-marketing-profile.md)
-- [추천을 통해 고객과 연결](responding-to-referrals.md)
+- [추천을 통해 고객과 연결](manage-leads.md)

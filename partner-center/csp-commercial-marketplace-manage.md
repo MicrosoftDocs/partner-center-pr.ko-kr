@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527719"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000517"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 및 제품 관리
 
@@ -25,7 +25,7 @@ ms.locfileid: "87527719"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 
 CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 센터 포털을 사용 하 여 상업적 marketplace에서 고객에 대 한 여러 ISV SaaS 제품 또는 구독을 구입할 수 있습니다. 제품을 구매한 후에는 다양 한 방법으로 관리할 수 있습니다.
@@ -67,7 +67,7 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
    - 특정 고객의 구독 페이지에서 링크를 볼 수 있습니다. 이 게시자 링크는 해당 고객에 대해 구매한 ISV 제품 또는 구독과 연결 된 행에 표시 됩니다.
 
-   - [파트너 센터 api를 사용 하 여 링크를 검색할](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)수 있습니다.
+   - [파트너 센터 api를 사용 하 여 링크를 검색할](/partner-center/develop/get-activation-link-by-order-line-item)수 있습니다.
 
    > [!NOTE]
    > 고객을 대신 하 여이 작업을 수행 하려면 개인 설정 된 링크를 복사 하 여 개인 브라우저에 붙여 넣고 고객의 자격 증명을 입력 해야 할 수 있습니다.
@@ -112,7 +112,7 @@ SaaS 상업적 marketplace 제품의 경우 고객 구독에 대 한 사용자 �
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>파트너 센터 API를 사용하여 구독 관리
 
-파트너 센터 Api를 사용 하 여 수명 주기 관리를 수행 하 고 구독에 대 한 송장을 관리할 수도 있습니다. 자세한 내용은 [상용 marketplace 제품에 대 한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
+파트너 센터 Api를 사용 하 여 수명 주기 관리를 수행 하 고 구독에 대 한 송장을 관리할 수도 있습니다. 자세한 내용은 [상용 marketplace 제품에 대 한 구독 만들기](/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

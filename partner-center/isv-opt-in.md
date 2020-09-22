@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949448"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000117"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>독립 소프트웨어 공급업체의 마켓플레이스 독점 제품
 
@@ -46,6 +46,6 @@ ISV는 Marketplace에서 제품을 게시할 때 구매할 수 있는 사용자�
 
 ## <a name="next-steps"></a>다음 단계
 
-- 상업적 marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)를 참조 하세요.
+- 상업적 marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](/azure/marketplace/cloud-solution-providers)를 참조 하세요.
 
 - 상업적 marketplace에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.

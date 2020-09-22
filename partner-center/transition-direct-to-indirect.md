@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811193"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000647"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
@@ -27,7 +27,7 @@ ms.locfileid: "87811193"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 
@@ -161,7 +161,7 @@ ms.locfileid: "87811193"
 
 - 간접 공급자는 고객 테 넌 트에 [위임 된 관리 권한이](customers-revoke-admin-privileges.md) 제공 되지 않습니다. 간접 공급자에 게 위임 된 관리 권한이 필요한 경우 대신 간접 재판매인 초대를 고객에 게 보내야 합니다.
 
-- 대리점 관계가 설정 되 면 간접 공급자는 [M365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
+- 대리점 관계가 설정 되 면 간접 공급자는 [M365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
 
     > [!IMPORTANT]
     > 혼동 및 있다면 오해을 방지 하기 위해 관계 확장 기능을 사용 하 여 기존 다이렉트 청구서 고객과 간접 공급자 간의 재판매인 관계를 설정 하기 전에 파트너 계약에 따라 직접 청구 고객 으로부터 동의 하 고 동의할 수 있습니다.
@@ -245,15 +245,15 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 ### <a name="transitioning-partner"></a>파트너 전환
 
 > [!NOTE]
-> [파트너 센터 API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) 를 사용 하 여 기존 구독을 간접 공급자로 전송할 수도 있습니다.
+> [파트너 센터 API/SDK](/partner-center/develop/manage-customers) 를 사용 하 여 기존 구독을 간접 공급자로 전송할 수도 있습니다.
 >
-> - [고객의 구독 이전 자격 가져오기](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [고객의 이전 만들기](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [고객의 이전 철회](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [고객의 이전 수락](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [고객의 전송 거부](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [고객의 이전 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Id로 전송 정보 가져오기](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [고객의 구독 이전 자격 가져오기](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [고객의 이전 만들기](/partner-center/develop/create-a-transfer)
+> - [고객의 이전 철회](/partner-center/develop/withdraw-a-transfer)
+> - [고객의 이전 수락](/partner-center/develop/accept-a-transfer)
+> - [고객의 전송 거부](/partner-center/develop/reject-a-transfer)
+> - [고객의 이전 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Id로 전송 정보 가져오기](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>파트너 전환-전송 요청 만들기
 

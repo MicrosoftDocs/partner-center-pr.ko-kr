@@ -8,12 +8,12 @@ description: 파트너 센터에서 조회를 Salesforce CRM과 동기화
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527836"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000597"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
@@ -28,13 +28,13 @@ ms.locfileid: "87527836"
 
 ## <a name="before-you-install---pre-requisites"></a>설치 전-필수 구성 요소
 
-|**토픽**   |**세부 정보**   |**링크**   |
+|**토픽**   |**세부 정보**   |**연결**   |
 |--------------|--------------------|------|
 |Microsoft 파트너 네트워크 ID |유효한 MPN ID가 필요 합니다.|[MPN](https://partner.microsoft.com/) 에 조인 하려면|
 |공동 판매 준비|I p/서비스 솔루션은 공동 판매 준비를 해야 합니다.|[Microsoft와 판매](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |파트너 센터 계정|파트너 센터 테 넌 트와 연결 된 MPN ID는 공동 판매 솔루션과 연결 된 MPN ID와 동일 해야 합니다. 커넥터를 배포 하기 전에 파트너 센터 포털에서 공동 판매 조회를 확인할 수 있는지 확인 합니다.|[계정 관리](create-user-accounts-and-set-permissions.md)|
 |파트너 센터 사용자 역할|커넥터를 설치 하 고 사용 하는 직원은 조회 관리자 여야 합니다.|[사용자 역할 및 권한 할당](create-user-accounts-and-set-permissions.md)|
-|Salesforce CRM|CRM 사용자 역할은 시스템 관리자 또는 시스템 사용자 지정자입니다.|[Salesforce CRM에서 역할 할당](https://docs.microsoft.com/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|Salesforce CRM|CRM 사용자 역할은 시스템 관리자 또는 시스템 사용자 지정자입니다.|[Salesforce CRM에서 역할 할당](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |전원 자동화 흐름 계정|CRM 시스템 관리자 또는 시스템 사용자 지정자에 대 한 활성 [전원 자동화](https://flow.microsoft.com) 계정 사용자가 설치 하기 전에 최소 한 번 이상 [전원](https://flow.microsoft.com) 에 로그인 해야 합니다.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Salesforce CRM에 대 한 파트너 센터 조회 동기화 설치
@@ -115,7 +115,7 @@ ms.locfileid: "87527836"
 
 1. Url을 등록 하려면 **파트너 센터 Webhook 등록 (Insider preview)** 전원 자동화 흐름을 선택 합니다.
 
-2. (A.)에 대 한 연결을 추가 합니다. 조회 관리자 자격 증명이 있는 파트너 센터 사용자 (b.) 아래 강조 표시 된 파트너 센터 이벤트
+2. 아래 강조 표시 된 대로 조회 관리자 자격 증명 (b.) 파트너 센터 이벤트를 사용 하 여 (a.) 파트너 센터 사용자에 대 한 연결을 추가 합니다.
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="트리거":::
 
@@ -322,10 +322,10 @@ Salesforce CRM 관리자 사용자는 별도의 CRM 섹션을 만들어야 합�
 
 ## <a name="next-steps"></a>다음 단계
 
-- [Microsoft Power 자동화 플랫폼에 대 한 자세한 정보](https://docs.microsoft.com/-automate/)
+- [Microsoft Power 자동화 플랫폼에 대 한 자세한 정보](/-automate/)
 
 - [잠재 고객 관리](manage-leads.md)
 
 - [공동 판매 기회 관리](manage-co-sell-opportunities.md)
 
-- [파트너 센터 웹후크](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [파트너 센터 웹후크](/partner-center/develop/partner-center-webhooks)

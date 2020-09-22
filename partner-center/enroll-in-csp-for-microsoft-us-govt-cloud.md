@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 06/30/2020
-ms.openlocfilehash: 12ddd290f22fc672ca2fb0c911567ca7419d88b0
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026281"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999917"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -76,7 +76,7 @@ Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에
 
 1. 에서 Microsoft Azure 관리 포털에 로그인 [https://portal.azure.us/](https://portal.azure.us/) 합니다.
 
-2. 관리 에이전트 역할을 조직의 해당 사용자에 게 할당 합니다. 이렇게 하려면 기본 제공 **Adminagent** 그룹에 이러한 사용자를 추가 해야 합니다. 이 작업을 수행 하는 방법에 대 한 자세한 내용은 [Azure Active Directory 그룹의 멤버 관리](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal) 를 참조 하세요.
+2. 관리 에이전트 역할을 조직의 해당 사용자에 게 할당 합니다. 이렇게 하려면 기본 제공 **Adminagent** 그룹에 이러한 사용자를 추가 해야 합니다. 이 작업을 수행 하는 방법에 대 한 자세한 내용은 [Azure Active Directory 그룹의 멤버 관리](/azure/active-directory/active-directory-groups-members-azure-portal) 를 참조 하세요.
 
 ## <a name="connect-with-us"></a>연락 정보
 

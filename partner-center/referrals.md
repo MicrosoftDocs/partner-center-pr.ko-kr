@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436612"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999137"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Microsoft의 추천을 통해 비즈니스 확장
 
@@ -26,6 +26,7 @@ ms.locfileid: "86436612"
 
 솔루션 및 전문 지식이 필요한 고객과 연결하려고 합니다. Microsoft에서 잠재 고객을 가져오기 위해 취할 수 있는 가장 중요한 단계는 [비즈니스 프로필을 만들어](create-a-marketing-profile.md) 회사의 제품, 솔루션 및 전문 지식을 소개하는 것입니다. 비즈니스 프로필은 고객 및 내부 Microsoft 영업 담당자가 자격을 갖춘 파트너를 검색하는 모든 위치에 나열됩니다. 
 
- 비즈니스 프로필을 게시하고 나면 파트너 센터에서 추천 기능을 통해 잠재 고객을 받기 시작할 수 있습니다. 이러한 잠재 고객을 계속해서 가져오고 무엇보다도 거래를 성사시키려면 필요한 기간 내에 추천에 응답하는 것이 중요합니다. 파트너 센터에서 잠재 고객을 관리하는 방법에 대한 자세한 내용은 [추천에 응답](responding-to-referrals.md)을 참조하세요.  
+ 비즈니스 프로필을 게시하고 나면 파트너 센터에서 추천 기능을 통해 잠재 고객을 받기 시작할 수 있습니다. 이러한 잠재 고객을 계속해서 가져오고 무엇보다도 거래를 성사시키려면 필요한 기간 내에 추천에 응답하는 것이 중요합니다. 파트너 센터에서 잠재 고객을 관리하는 방법에 대한 자세한 내용은 [추천에 응답](manage-leads.md)을 참조하세요.  
 
-시작하려면 [비즈니스 프로필 최적화](https://player.vimeo.com/video/252788046)라는 짧은 비디오를 시청하세요.  
+
+시작하려면 [비즈니스 프로필 최적화](https://player.vimeo.com/video/252788046)라는 짧은 비디오를 시청하세요.

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.openlocfilehash: 3c08e897a8f5d7c11b36627b0c24ad2da3f92329
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900091"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000207"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
@@ -25,18 +25,18 @@ ms.locfileid: "87900091"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
 
 > [!NOTE]
-> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
 
 
 ## <a name="what-are-azure-reservations"></a>Azure Reservations란?
 
-Azure Reservations 1 년 또는 3 년간의 가상 머신에 대해 사전 지불 하 여 비용을 절감 하는 데 도움을 줍니다. 계산 용량, Azure Cosmos DB 처리량 또는 기타 Azure 리소스를 SQL Database 합니다. 선결제하면 사용하는 리소스 요금에 대한 할인을 받을 수 있습니다. 예약은 종 량 제 가격과 비교 하 여 가상 머신, SQL database 계산, Azure Cosmos DB 및 기타 리소스 비용을 최대 72%까지 크게 줄일 수 있습니다. 예약은 청구 할인을 제공하며, 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 [Azure Reservations 정의](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) 를 참조 하세요.
+Azure Reservations 1 년 또는 3 년간의 가상 머신에 대해 사전 지불 하 여 비용을 절감 하는 데 도움을 줍니다. 계산 용량, Azure Cosmos DB 처리량 또는 기타 Azure 리소스를 SQL Database 합니다. 선결제하면 사용하는 리소스 요금에 대한 할인을 받을 수 있습니다. 예약은 종 량 제 가격과 비교 하 여 가상 머신, SQL database 계산, Azure Cosmos DB 및 기타 리소스 비용을 최대 72%까지 크게 줄일 수 있습니다. 예약은 청구 할인을 제공하며, 리소스의 런타임 상태에 영향을 주지 않습니다. 자세한 내용은 [Azure Reservations 정의](/azure/billing/billing-save-compute-costs-reservations) 를 참조 하세요.
 
 ## <a name="why-should-customers-buy-a-reservation"></a>고객이 예약을 구매 해야 하는 이유는 무엇 인가요?
 
@@ -93,7 +93,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 1. 개요 프레젠테이션 및 관련 웹 세미나에서 고객의 가치 제안 및 위치를 검토 합니다.
 2. 최신 상거래 운영 가이드 검토 및 이해
 3. Azure RI 및 서버 구독 FAQ 검토
-4. 파트너 센터 API의 Azure Reservations 및 서버 구독에 대 한 업데이트 이해 [(API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+4. 파트너 센터 API의 Azure Reservations 및 서버 구독에 대 한 업데이트 이해 [(API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="resources"></a>리소스
 
@@ -106,19 +106,19 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 - [Azure Reservations에 대 한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Azure Reservations 및 SQL DB에 대 한 파트너 FAQ](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [RDS (원격 데스크톱 서비스) CAL (클라이언트 액세스 라이선스) (알림)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [서버 구독](csp-software-subscriptions.md)
 - [Azure의 SQL DB 개요](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [SQL DB 예약 (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [SQL Managed Instance (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
-- [SUSE 및 Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SQL DB 예약 (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [SQL Managed Instance (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
+- [SUSE 및 Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure의 Red Hat Linux](https://azure.com/redhat)
 - [Azure의 SUSE Linux](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Azure의 Linux](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Azure 가격 책정 개요](https://azure.microsoft.com/pricing/)
 - [Azure 가격 계산기](https://azure.microsoft.com/pricing/calculator)
-- [Azure Databricks 단위 예약](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks 단위 예약](/azure/billing/billing-prepay-databricks-reserved-capacity)
 - CSP 가격 목록: **Microsoft Azure 예약 인스턴스** 및 **소프트웨어 구독** 가격표는 파트너 센터 [가격 책정 & 제품](https://partner.microsoft.com/pcv/sales) 페이지에 모두 있습니다.
 
 ### <a name="training"></a>학습
@@ -138,13 +138,13 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 - [최신 상거래 운영 가이드](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (업데이트 됨): 규약, 파트너 센터의 주문, 송장, 가격 목록 정보, 성과급, 조정 파일, API/SDK, 샌드박스 및 Azure 파트너 공유 서비스와 같은 주요 정책 및 운영 측면을 다루는 포괄적인 가이드입니다.
 - [최신 국가 가용성 및 고객 통화 행렬 제공](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [Microsoft Azure 예약 인스턴스 판매](https://go.microsoft.com/fwlink/?linkid=872806)
-- [고객을 대신하여 Microsoft Azure 예약 구입](https://go.microsoft.com/fwlink/?linkid=872807)
-- [고객을 대신 하 여 Azure 예약 관리](https://go.microsoft.com/fwlink/?linkid=872808)
+- [Microsoft Azure 예약 인스턴스 판매](azure-reservations.md)
+- [고객을 대신하여 Microsoft Azure 예약 구입](azure-reservations-buying.md)
+- [고객을 대신 하 여 Azure 예약 관리](azure-reservations-manage.md)
 - [Azure 예약에 대 한 청구](azure-plan-billing.md)
-- [최대 예약 사용량에 맞게 VM 크기 조정](https://go.microsoft.com/fwlink/?linkid=872810)
-- [파트너 센터 API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [원격 데스크톱 서비스](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [최대 예약 사용량에 맞게 VM 크기 조정](azure-usage.md)
+- [파트너 센터 API (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [원격 데스크톱 서비스](/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure 하이브리드 혜택
 

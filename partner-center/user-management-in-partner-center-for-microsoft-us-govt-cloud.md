@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0ede199da0c18c8c73b01cbdc4a8447f842747a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949528"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000317"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government의 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -41,11 +41,11 @@ ms.locfileid: "85949528"
 > [!NOTE]  
 > 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다. 
 
--  [**Azure Active Directory에 새 사용자 추가**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**Azure Active Directory에 새 사용자 추가**](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Azure Active Directory에서 관리자 역할에 사용자 할당**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Azure Active Directory에서 관리자 역할에 사용자 할당**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Azure Active Directory에서 사용자의 암호를 다시 설정 합니다.**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**Azure Active Directory에서 사용자의 암호를 다시 설정 합니다.**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **관련 항목**
 

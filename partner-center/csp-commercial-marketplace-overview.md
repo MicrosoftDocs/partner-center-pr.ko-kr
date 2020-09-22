@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444938"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000407"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업용 Marketplace 개요
 
@@ -47,15 +47,15 @@ CSP 프로그램의 파트너인 경우 ISV 제품에 대해 수행할 수 있�
 |상업적 marketplace에서 CSP 파트너 및 Isv의 계약 및 책임에 대해 알아봅니다. | [계약 이해](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> 이 개요에서는 CSP 프로그램의 파트너가 파트너 센터의 특정 상업적 marketplace 기능을 사용할 수 있는 방법을 설명 합니다. CSP 프로그램의 파트너와 달리 ISV 게시자에는 다른 마켓플레이스 역할이 있습니다. 파트너 센터 내에서 다른 상업적 Marketplace 기능을 사용할 수도 있습니다. ISV 게시자의 역할에 대해 자세히 알아보려면 [Azure 상용 Marketplace 개요](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview)를 참조 하세요.
+> 이 개요에서는 CSP 프로그램의 파트너가 파트너 센터의 특정 상업적 marketplace 기능을 사용할 수 있는 방법을 설명 합니다. CSP 프로그램의 파트너와 달리 ISV 게시자에는 다른 마켓플레이스 역할이 있습니다. 파트너 센터 내에서 다른 상업적 Marketplace 기능을 사용할 수도 있습니다. ISV 게시자의 역할에 대해 자세히 알아보려면 [Azure 상용 Marketplace 개요](/azure/marketplace/partner-center-portal/commercial-marketplace-overview)를 참조 하세요.
 
 ## <a name="where-to-complete-commercial-marketplace-activities"></a>상업적 marketplace 활동을 완료 하는 위치
 
-CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard) 또는 [파트너 센터 api](https://docs.microsoft.com/partner-center/develop/)를 사용 하 여 ISV SaaS 제품에 대 한 많은 상업적 marketplace 활동을 직접 완료할 수 있습니다. 그러나 다른 marketplace 활동을 완료 하려면 다음으로 이동 해야 할 수 있습니다.
+CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard) 또는 [파트너 센터 api](/partner-center/develop/)를 사용 하 여 ISV SaaS 제품에 대 한 많은 상업적 marketplace 활동을 직접 완료할 수 있습니다. 그러나 다른 marketplace 활동을 완료 하려면 다음으로 이동 해야 할 수 있습니다.
 
 - [Microsoft Azure 관리 포털](https://portal.azure.com/)
 
-    또는
+    Or
 
 - 타사 ISV 게시자의 시스템 또는 웹 사이트
 

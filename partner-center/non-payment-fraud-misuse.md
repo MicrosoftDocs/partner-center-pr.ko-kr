@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280595"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999297"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 미결제, 사기 또는 오용 관리
 
@@ -79,7 +79,7 @@ Microsoft의 적절 한 사용 정책 위반에 대 한 예는 다음과 같습�
 - 등록 하는 동안 multi-factor authentication (예: SMS 확인)을 사용 하 여 로봇 계정 만들기 및 구매에 대 한 노출을 최소화 합니다.
 - 디지털 id 서비스와 같은 서비스를 사용 하 여 id를 관리 하 고 추적 합니다.
 - 엄격한 신용 카드 사기 감지 시스템을 통해 고객 재무 강도를 평가 합니다.
-- 컬렉션 지우기 정책을 설정 합니다. 컬렉션 프로세스에 대해 자세히 설명 하 고 구독에 대 한 액세스가 비 지불액의 영향을 받을 수 있습니다. (지불 하지 않도록 액세스를 사용 하지 않도록 설정 하거나 [고객의 구독을 일시 중단할](suspend-a-subscription.md) 수 있습니다.)
+- 컬렉션 지우기 정책을 설정 합니다. 컬렉션 프로세스에 대해 자세히 설명 하 고 구독에 대 한 액세스가 비 지불액의 영향을 받을 수 있습니다. (지불 하지 않도록 액세스를 사용 하지 않도록 설정 하거나 [고객의 구독을 일시 중단할](create-a-new-subscription.md#suspend-a-subscription) 수 있습니다.)
 
 ### <a name="managing-customer-accounts"></a>고객 계정 관리
 

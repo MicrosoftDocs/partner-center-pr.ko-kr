@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220092"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000627"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
@@ -46,11 +46,11 @@ Microsoft 클라우드 독일의 Azure Portal에 성공적으로 로그인 한 �
 > [!NOTE]  
 > 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다.
 
--  [Azure Active Directory에 새 사용자 추가](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Azure Active Directory에 새 사용자 추가](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [Azure Active Directory에서 관리자 역할에 사용자 할당](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [Azure Active Directory에서 관리자 역할에 사용자 할당](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Azure Active Directory에서 사용자 암호 재설정](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory에서 사용자 암호 재설정](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>다음 단계
 

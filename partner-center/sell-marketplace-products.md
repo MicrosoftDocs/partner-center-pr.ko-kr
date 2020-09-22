@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436572"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999967"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>파트너 센터를 사용하여 상용 마켓플레이스 제품에 대한 고객 구독 판매
 
@@ -29,4 +29,4 @@ CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 Isv (독�
 
 CSP 프로그램의 파트너가 상업적 marketplace를 사용 하는 방법에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.
 
-또는 상업적 marketplace의 다양 한 Isv 역할에 대해 알아보려면 [Marketplace faq](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)를 참조 하세요.
+또는 상업적 marketplace의 다양 한 Isv 역할에 대해 알아보려면 [Marketplace faq](/azure/marketplace/marketplace-faq-publisher-guide)를 참조 하세요.

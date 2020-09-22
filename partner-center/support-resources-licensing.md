@@ -8,14 +8,14 @@ description: Microsoft 파트너는 다른 Microsoft 라이선스 프로그램 �
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041046"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999757"
 ---
-# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft 파트너를 위한 라이선스 리소스 가이드 
+# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft 파트너를 위한 리소스 라이선싱 가이드 
 
 **적용 대상**
 
@@ -48,7 +48,7 @@ Microsoft 파트너는 하나 이상의 라이선싱 프로그램, 채널 또는
 |특정 솔루션에 대 한 VL (볼륨 라이선스) 및 라이선스에 대해 자세히 알아보세요.  | [Microsoft 라이선스-제품 및 솔루션](https://www.microsoft.com/licensing/default) |
 |VL 가격, 견적, 계약, 제품 활성화 및 기타 도구에 도움이 될 수 있는 볼륨 라이선스 교육 및 리소스에 대해 알아봅니다.  | [Microsoft 파트너 네트워크 교육 및 리소스](https://partner.microsoft.com/licensing/training-and-resources) |
 |**라이선스 준비** 라이선스 교육 모듈 살펴보기  | [라이선스 준비](https://www.getlicensingready.com/)  |
-|대량 조직에 대 한 Microsoft 라이선스 솔루션을 설계 하 고 제공 하는 데 도움이 되는 라이선스 시험에 대해 알아보세요 *(시험은 2021 년 1 월 31 일 오후 11:59 시 중부 표준시)* .  | [시험 70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|대량 조직에 대 한 Microsoft 라이선스 솔루션을 설계 하 고 제공 하는 데 도움이 되는 라이선스 시험에 대해 알아보세요 *(시험은 2021 년 1 월 31 일 오후 11:59 시 중부 표준시)* .  | [시험 70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>프로그램별 및 제품별 사용권 계약
 
@@ -84,7 +84,7 @@ Microsoft 파트너는 하나 이상의 라이선싱 프로그램, 채널 또는
 |파트너 센터 대시보드에서 CSP 프로그램 가격 책정 및 제품 보기 *(이 대시보드를 보려면 csp 프로그램에 등록 해야 함)*  |[Csp 가격 책정 및 개요](pricing-and-offers.md) 또는 [csp 문서 및 리소스](csp-documents-and-learning-resources.md) 제공 |
 |마케팅 자료를 탐색 하 여 고객 거래 지원  | [MPN 파트너 준비 자료](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |고객 거래 또는 온라인 사례에 대 한 Microsoft 기술 예약 판매 및 배포 서비스에서 도움 받기  | [기술 예약 판매 및 배포 서비스 개요](https://partner.microsoft.com/training/technical-presales-deployment-services) 또는 [지원 개요](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|오픈 라이선스에서 Microsoft Azure를 활성화 하는 방법을 알아봅니다.   | [열려 있는 프로그램에 대 한 온라인 서비스 활성화 FAQ](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|오픈 라이선스에서 Microsoft Azure를 활성화 하는 방법을 알아봅니다.   | [열려 있는 프로그램에 대 한 온라인 서비스 활성화 FAQ](/licensing/online-service-activation-faq)  |
 |가동 중단으로 영향을 받는 고객을 위해 Microsoft에서 SLA 크레딧을 계산 하 고 요청 하는 방법 및 시기  | [작동 중단에 대 한 SLA 크레딧 요청](request-credit.md)   |
 |Microsoft 파트너 커뮤니티에서 도움 받기  | [Microsoft 파트너 커뮤니티 포럼](https://www.microsoftpartnercommunity.com)  |
 

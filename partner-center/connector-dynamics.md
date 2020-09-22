@@ -8,12 +8,12 @@ description: Dynamics 365 CRM과 파트너 센터의 조회 동기화
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490671"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000497"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -33,7 +33,7 @@ ms.locfileid: "89490671"
 |Microsoft 파트너 네트워크 ID |유효한 MPN ID가 필요 합니다.|[MPN](https://partner.microsoft.com/) 에 조인 하려면|
 |공동 판매 준비|I p/서비스 솔루션은 공동 판매 준비를 해야 합니다.|[Microsoft와 판매](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |파트너 센터 계정|파트너 센터 테 넌 트와 연결 된 MPN ID는 공동 판매 솔루션과 연결 된 MPN ID와 동일 해야 합니다. 커넥터를 배포 하기 전에 파트너 센터 포털에서 공동 판매 조회를 확인할 수 있는지 확인 합니다.|[계정 관리](create-user-accounts-and-set-permissions.md)|
-|파트너 센터 사용자 역할|커넥터를 설치 하 고 사용 하는 직원은 조회 관리자 여야 합니다.|[사용자 역할 및 권한 할당](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 사용자 역할은 시스템 관리자 또는 시스템 사용자 지정자입니다.|[Dynamics 365에서 역할 할당](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|파트너 센터 사용자 역할|커넥터를 설치 하 고 사용 하는 직원은 조회 관리자 여야 합니다.|[사용자 역할 및 권한 할당](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 사용자 역할은 시스템 관리자 또는 시스템 사용자 지정자입니다.|[Dynamics 365에서 역할 할당](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |전원 자동화 흐름 계정|CRM 시스템 관리자 또는 시스템 사용자 지정자에 대 한 활성 [전원 자동화](https://flow.microsoft.com) 계정 사용자가 설치 하기 전에 최소 한 번 이상 [전원](https://flow.microsoft.com) 에 로그인 해야 합니다.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365에 대 한 파트너 센터 조회 동기화 설치 (전원 자동화 솔루션)
@@ -159,7 +159,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
     b. **편집** 을 선택 하 여 전원 자동화 흐름을 편집/사용자 지정 합니다.
 
-    c. 선택 **(범위) 잠재 고객 또는 기회를 동기화**합니다.
+    다. 선택 **(범위) 잠재 고객 또는 기회를 동기화**합니다.
 
 2. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **새 공유 기회 인지 여부**를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기**를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
 
@@ -175,7 +175,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
     b. **기회 동기화를 선택 (범위)** 합니다.
 
-    c. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 **파트너 센터와 crm의 리드 개체 사이에 차이가 있는 경우**를 선택 합니다. 
+    다. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 **파트너 센터와 crm의 리드 개체 사이에 차이가 있는 경우**를 선택 합니다. 
 
     d. **예 인 경우** 하위 단계를 선택 하 고 **기회 데이터가 포함 된 조회 업데이트**단계를 확장 합니다.
 
@@ -187,7 +187,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    b. **조회 동기화를 선택 (범위) 합니다.**
 
-   c. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기**를 선택 합니다.
+   다. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기**를 선택 합니다.
 
    필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
 
@@ -261,6 +261,6 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
 - [공동 판매 기회 관리](manage-co-sell-opportunities.md)
 
-- [Microsoft Power 자동화 플랫폼에 대 한 자세한 정보](https://docs.microsoft.com/power-automate/)
+- [Microsoft Power 자동화 플랫폼에 대 한 자세한 정보](/power-automate/)
 
-- [파트너 센터 웹후크](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [파트너 센터 웹후크](/partner-center/develop/partner-center-webhooks)

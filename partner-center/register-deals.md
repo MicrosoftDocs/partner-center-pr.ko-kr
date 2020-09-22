@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434082"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999107"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>나중에 더 많은 기회를 얻을 수 있도록 파트너 센터에서 승리한 거래를 등록 합니다.
 
@@ -24,7 +24,7 @@ ms.locfileid: "86434082"
 
 파트너 센터에서 계약에 대한 추가 정보를 입력하여 성공한 거래를 등록할 수 있습니다. 이 정보는 향후에 더 많은 기회를 제공하는 데 도움이 됩니다.
 
-특정 적격 솔루션의 경우 [추천 응답 프로세스](responding-to-referrals.md)에서 **성공**을 선택하면 거래를 등록할 수 있도록 추가 정보를 입력하라는 메시지가 표시됩니다. Microsoft에서는 파트너가 제공하는 정보를 검토할 것이며, 검토 중에 추가 세부 정보를 요청할 수 있습니다.
+특정 적격 솔루션의 경우 [추천 응답 프로세스](manage-leads.md)에서 **성공**을 선택하면 거래를 등록할 수 있도록 추가 정보를 입력하라는 메시지가 표시됩니다. Microsoft에서는 파트너가 제공하는 정보를 검토할 것이며, 검토 중에 추가 세부 정보를 요청할 수 있습니다.
 
 또한 거래가 [추천](referrals.md)을 통해 시작되지 않은 경우에도 솔루션 중 하나를 사용하는 새 거래를 등록할 수 있습니다. 
 
@@ -64,6 +64,6 @@ ms.locfileid: "86434082"
 
 정보를 업데이트해야 하는 경우 거래 등록을 **작업 필요** 페이지로 이동할 수 있습니다.
 
-### <a name="closed"></a>해결됨
+### <a name="closed"></a>폐쇄형
 
 **추천 > 거래 등록 > 완료** 페이지에는 성공적으로 등록되어 Microsoft의 검토를 마친 거래가 표시됩니다. 필터를 사용하여 **승인** 또는 **거절**된 거래 등록만 표시할 수 있습니다.

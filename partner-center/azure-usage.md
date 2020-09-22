@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: ba24376bad1d04fcbc9f02d442f0cba7e6354bd3
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367097"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000189"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용에 대한 Microsoft Azure VM 크기 조정
 
@@ -25,7 +25,7 @@ ms.locfileid: "89367097"
 - CSP 프로그램의 파트너
  
 > [!NOTE]
-> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>고객의 Azure 예약에 대 한 VM 크기 결정
 
@@ -48,7 +48,7 @@ ms.locfileid: "89367097"
 
 1. API 응답에서 additionalInfo의 ServiceType 특성에 대 한 값을 사용 하 여 구매할 VM 크기를 식별 합니다.
 
-2. 자세한 내용은 [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/)에서 [Azure에 대 한 고객의 사용률 레코드 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) 를 참조 하세요.
+2. 자세한 내용은 [파트너 센터 API](/partner-center/develop/)에서 [Azure에 대 한 고객의 사용률 레코드 가져오기](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) 를 참조 하세요.
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Microsoft Azure portal를 사용 하 여 VM 크기 정보 가져오기
 
@@ -106,7 +106,7 @@ ms.locfileid: "89367097"
 
     a. 예약의 사용률이 100% 인 경우 고객은 예약 구매가 제공할 수 있는 모든 절감 액을 얻을 수 있습니다.
     b. 예약의 사용량이 0% 이면 모든 가상 머신에 할인이 적용 되지 않습니다.
-    c. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
+    다. 예약의 사용량이 1%에서 99% 사이인 경우 사용 하지 않는 이점이 있습니다.
 
 5. 이러한 상황을 방지 하려면 구매를 수행 하기 전에 고객의 컴퓨팅 요구를 지원 하도록 올바른 크기의 VM을 결정 합니다.
 
@@ -123,10 +123,10 @@ Azure 사용률 API를 사용 하 여 예약 사용 데이터를 가져와 고�
 - consumptionMeter는 예약 할인이 적용 된 VM의 MeterId입니다.
 - ReservationMeter는 예약 할인이 적용 된 이후 $0 비용을 보여 줍니다.
 
-자세한 내용은 [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/)에서 [Azure에 대 한 고객의 사용률 레코드 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) 를 참조 하세요.
+자세한 내용은 [파트너 센터 API](/partner-center/develop/)에서 [Azure에 대 한 고객의 사용률 레코드 가져오기](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) 를 참조 하세요.
 
 >[!IMPORTANT]
->Microsoft Windows Server와 같은 소프트웨어 비용은 현재 VM 예약 가격에 포함 되지 않으며 주문 레코드 및 청구서에 별도의 품목으로 표시 됩니다. 그러나 고객이 Azure 하이브리드 사용 혜택을 사용 하는 경우 소프트웨어 비용이 적용 되지 않습니다. 자세한 내용은 [예약 된 인스턴스에 포함 되지 않는 Windows 소프트웨어 비용](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)을 참조 하세요.  
+>Microsoft Windows Server와 같은 소프트웨어 비용은 현재 VM 예약 가격에 포함 되지 않으며 주문 레코드 및 청구서에 별도의 품목으로 표시 됩니다. 그러나 고객이 Azure 하이브리드 사용 혜택을 사용 하는 경우 소프트웨어 비용이 적용 되지 않습니다. 자세한 내용은 [예약 된 인스턴스에 포함 되지 않는 Windows 소프트웨어 비용](/azure/billing/billing-reserved-instance-windows-software-costs)을 참조 하세요.  
 
 ## <a name="azure-reservations-resources"></a>Azure 예약 리소스
 
@@ -135,7 +135,7 @@ Azure 사용률 API를 사용 하 여 예약 사용 데이터를 가져와 고�
 |CSP의 Azure 예약 개요  | [Microsoft Azure 예약 VM 인스턴스 판매](azure-reservations.md)
 |파트너 센터에서 고객에 대 한 Azure 예약 구매   | [Azure 예약 구입](azure-reservations-buying.md)
 |파트너 센터에서 Azure 예약 관리 | [파트너 센터에서 Azure 예약 관리](azure-reservations-manage.md)
-|Azure Portal에서 Azure 예약 구매 | Azure 도움말의 [Azure Reserved VM Instances를 사용 하는 가상 머신의 선불](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
-|Azure Portal에서 Azure 예약 관리   | Azure 도움말에서 [예약 VM 인스턴스 관리](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
-|파트너 센터 API를 사용 하 여 Azure 예약 구매 | 파트너 센터 개발자 설명서에서 [Azure Reserved VM Instances 구매](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|Azure Portal에서 Azure 예약 구매 | Azure 도움말의 [Azure Reserved VM Instances를 사용 하는 가상 머신의 선불](/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
+|Azure Portal에서 Azure 예약 관리   | Azure 도움말에서 [예약 VM 인스턴스 관리](/azure/billing/billing-manage-reserved-vm-instance)  |
+|파트너 센터 API를 사용 하 여 Azure 예약 구매 | 파트너 센터 개발자 설명서에서 [Azure Reserved VM Instances 구매](/partner-center/develop/purchase-azure-reservations)   |
 |구매한 구독에서 자신의 Azure 예약을 구매할 수 있는 권한을 고객에 게 제공 합니다. | [고객에 게 자신의 Azure 예약을 구매할 수 있는 권한 부여](give-customers-permission.md)   |

@@ -8,12 +8,12 @@ description: Minecraft 교육용 Microsoft 교육 고객에 게 Microsoft 교육
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436822"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000067"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft 판매: 교육 기관 고객에 게 교육용 교육 기관 구독
 
@@ -53,9 +53,7 @@ ms.locfileid: "86436822"
 
   6.  구독을 성공적으로 구매한 후 교육용 [Microsoft Store 교육](https://educationstore.microsoft.com) 을 통해 소프트웨어를 다운로드 하 고 라이선스를 배포할 수 있습니다.
 
-      고객이 소프트웨어 라이선스를 사용자에 게 배포 하는 방법에 대 한 자세한 정보를 요구 하는 경우 [여기에서 자세한 내용을](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)확인할 수 있습니다.  
+      고객이 소프트웨어 라이선스를 사용자에 게 배포 하는 방법에 대 한 자세한 정보를 요구 하는 경우 [여기에서 자세한 내용을](/education/windows/school-get-minecraft#distribute-minecraft)확인할 수 있습니다.  
   
-      고객이 교육용 스토어에 익숙하지 않은 경우 [이 개요 페이지](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)에서 자세히 알아볼 수 있습니다.  
-
-      
+      고객이 교육용 스토어에 익숙하지 않은 경우 [이 개요 페이지](/microsoft-store/windows-store-for-business-overview)에서 자세히 알아볼 수 있습니다.  
 

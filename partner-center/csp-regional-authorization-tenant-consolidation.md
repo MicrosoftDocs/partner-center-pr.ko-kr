@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545654"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000377"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합에 대한 지침
 
@@ -26,10 +26,10 @@ ms.locfileid: "87545654"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 
-\[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보에 대해 어떠한 명시적이거나 묵시적인 보증도 하지 않습니다.\]
+\[일부 정보는 상업적으로 출시 되기 전에 대폭 수정 될 수 있는 미리 릴리스된 제품과 관련이 있습니다. Microsoft는 여기에 제공된 정보에 대해 어떠한 명시적 또는 묵시적 보증도 하지 않습니다.\]
 
 비즈니스에 대 한 테 넌 트를 통합할 수 있습니다. 이러한 지침을 사용 하 여 다른 국가/지역에 대 한 테 넌 트를 통합할 수 있습니다.
 
@@ -144,7 +144,7 @@ Office 365 CSP 구독과 달리 Azure는 사용 빈도 기반 CSP 구독을 수�
 
 ### <a name="api-registration"></a>API 등록
 
-API 등록에 대 한 자세한 내용은 [파트너 센터에서 api 액세스 설정](https://go.microsoft.com/fwlink/?linkid=847990)을 참조 하세요.
+API 등록에 대 한 자세한 내용은 [파트너 센터에서 api 액세스 설정](/partner-center/develop/set-up-api-access-in-partner-center)을 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

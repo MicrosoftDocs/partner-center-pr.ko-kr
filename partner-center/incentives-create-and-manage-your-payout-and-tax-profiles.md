@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714497"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999317"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 성과급 지급 및 세금 프로필 만들기 및 관리
 
@@ -58,7 +58,7 @@ Microsoft에서 지불에 이미 은행 데이터를 사용 하는 경우에도 
 아래 섹션에서는 파트너 센터에서 결제 및 세금 프로필을 만들고 관리 하는 과정을 안내 합니다.
 
 >[!IMPORTANT]
->파트너 센터에서 지불 프로필을 만들거나 관리 하려면 동기 관리자 여야 합니다. 각 동기 프로그램의 각 MPN 위치에는 동기 역할을 할당 해야 합니다. 파트너 센터에서 동기 관리자를 추가 하는 방법에 대 한 자세한 내용은 [사용자 계정 만들기](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)를 참조 하세요.
+>파트너 센터에서 지불 프로필을 만들거나 관리 하려면 동기 관리자 여야 합니다. 각 동기 프로그램의 각 MPN 위치에는 동기 역할을 할당 해야 합니다. 파트너 센터에서 동기 관리자를 추가 하는 방법에 대 한 자세한 내용은 [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)를 참조 하세요.
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>파트너 센터의 지급 및 세금 섹션 액세스
 

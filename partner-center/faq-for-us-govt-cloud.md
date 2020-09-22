@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026271"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000557"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
 
@@ -35,7 +35,7 @@ ms.locfileid: "90026271"
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>고객 제시 가격은 CSP Commercial과 동일한가요?
 
-아닙니다. 가격 책정에는 미국 정부에 대 한 고유한 Microsoft 클라우드 가치를 제공 하기 위한 추가 비용이 반영 됩니다.
+아니요. 가격 책정에는 미국 정부에 대 한 고유한 Microsoft 클라우드 가치를 제공 하기 위한 추가 비용이 반영 됩니다.
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>파트너 할인 모델은 동일한가요?
 
@@ -53,7 +53,7 @@ Microsoft 정부 클라우드의 CSP 프로그램은 다음 영역에서 CSP 상
 
 - 계약: MCRA (Microsoft 클라우드 대리점 계약)는 고유한 정부 용어를 반영 하도록 업데이트 되었습니다.
 
-- 파트너 센터 기능: 파트너 센터의 특정 기능을 사용 하도록 설정 하면 미국 정부 기관에서 규정 및 규정 준수 요구 사항을 충족 하는 Microsoft 클라우드 위한 CSP 프로그램이 사용 되지 않습니다. 파트너는 Azure Active Directory (Azure AD) 또는 [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) 대신 사용 하 여 사용자 및 그룹 관리와 관련 된 작업을 수행할 수 있습니다. 다중 채널 및 다중 파트너 시나리오를 지 원하는 관계 요청 기능은 기술 기반 서비스를 미국 정부에 대 한 Microsoft 클라우드 CSP에서 사용할 수 있을 때 출시 후에 사용할 수 있습니다.
+- 파트너 센터 기능: 파트너 센터의 특정 기능을 사용 하도록 설정 하면 미국 정부 기관에서 규정 및 규정 준수 요구 사항을 충족 하는 Microsoft 클라우드 위한 CSP 프로그램이 사용 되지 않습니다. 파트너는 Azure Active Directory (Azure AD) 또는 [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) 대신 사용 하 여 사용자 및 그룹 관리와 관련 된 작업을 수행할 수 있습니다. 다중 채널 및 다중 파트너 시나리오를 지 원하는 관계 요청 기능은 기술 기반 서비스를 미국 정부에 대 한 Microsoft 클라우드 CSP에서 사용할 수 있을 때 출시 후에 사용할 수 있습니다.
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>아직 CSP 파트너가 아닙니다. CSP 파트너가 되는 방법에 대 한 자세한 정보는 어디서 찾을 수 있나요?
 
@@ -97,15 +97,15 @@ Microsoft 정부 클라우드의 CSP 프로그램을 판매 하는 데 필요한
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>기존 파트너입니다. 미국 정부에 대 한 Microsoft 클라우드를 판매 하려면 어떻게 해야 하나요?
 
-파트너는 규정 및 규정 준수 요구 사항을 충족 하기 위해 미국 정부 기관에 Microsoft 클라우드 위해 CSP 프로그램에 등록 해야 합니다. (미국 정부에 대 한 Microsoft 클라우드 등록은 CSP 상업적 등록에 대 한 온 보 딩과는 별개입니다.) 등록 한 후에는 미국 정부에 대 한 Microsoft 클라우드 내에서 제공 되는 고객 및 거래 제품을 만들 수 있습니다. Api를 활용 하는 경우 [Microsoft 국가별 클라우드의 파트너 센터 개발](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)을 참조 하세요.
+파트너는 규정 및 규정 준수 요구 사항을 충족 하기 위해 미국 정부 기관에 Microsoft 클라우드 위해 CSP 프로그램에 등록 해야 합니다. (미국 정부에 대 한 Microsoft 클라우드 등록은 CSP 상업적 등록에 대 한 온 보 딩과는 별개입니다.) 등록 한 후에는 미국 정부에 대 한 Microsoft 클라우드 내에서 제공 되는 고객 및 거래 제품을 만들 수 있습니다. Api를 활용 하는 경우 [Microsoft 국가별 클라우드의 파트너 센터 개발](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)을 참조 하세요.
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>파트너의 성과급에 차이가 있나요?
 
-아닙니다. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 파트너 성과급은 CSP 상업적 파트너와 동일 합니다. 파트너 성과급에 대해 자세히 알아보려면 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
+아니요. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 파트너 성과급은 CSP 상업적 파트너와 동일 합니다. 파트너 성과급에 대해 자세히 알아보려면 [Microsoft 파트너 네트워크 포털](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
 
 ### <a name="are-there-any-changes-to-billing"></a>청구에 대 한 변경 내용이 있나요?
 
-아닙니다. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 청구 기준 및 요구 사항은 CSP 상용에 대 한 청구 기준 및 요구 사항과 동일 합니다. 청구에 대 한 자세한 내용은 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)에서 리소스를 검토 하세요.
+아니요. 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 청구 기준 및 요구 사항은 CSP 상용에 대 한 청구 기준 및 요구 사항과 동일 합니다. 청구에 대 한 자세한 내용은 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)에서 리소스를 검토 하세요.
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>상용 데이터 센터에서 호스트 되는 데이터의 경우 미국 정부에 대 한 Microsoft 클라우드로 변경할 수 있나요?
 
@@ -123,11 +123,11 @@ IaaS (Infrastructure as a service) 및 기본 플랫폼과 데이터 제공을 �
 
 ### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램을 사용 하 여 개발 하려면 어떻게 해야 하나요?
 
-미국 정부에 대 한 Microsoft 클라우드 파트너 센터를 사용 하 여 개발 하는 방법에 대 한 자세한 내용은 [Microsoft 정부 클라우드의 파트너 센터를 사용 하 여 개발](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)을 참조 하세요.
+미국 정부에 대 한 Microsoft 클라우드 파트너 센터를 사용 하 여 개발 하는 방법에 대 한 자세한 내용은 [Microsoft 정부 클라우드의 파트너 센터를 사용 하 여 개발](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)을 참조 하세요.
 
 ### <a name="are-there-any-differences-in-apis"></a>Api에 차이가 있나요?
 
-미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 Api 및 통합 요구 사항은 CSP 상용에 대 한 Api 및 통합 요구 사항과 동일 합니다. 미국 정부에 대 한 Microsoft 클라우드의 끝점에 대 한 자세한 내용은 [파트너 센터 REST url](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)을 참조 하세요.
+미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 Api 및 통합 요구 사항은 CSP 상용에 대 한 Api 및 통합 요구 사항과 동일 합니다. 미국 정부에 대 한 Microsoft 클라우드의 끝점에 대 한 자세한 내용은 [파트너 센터 REST url](/partner-center/develop/partner-center-rest-urls)을 참조 하세요.
 
 >[!NOTE]
 >CREST Api는 미국 정부에 대 한 Microsoft 클라우드 용 CSP 프로그램에 사용할 수 없습니다. 이러한 Api는 CSP에서 더 이상 사용 되지 않으므로 미국 정부의 Microsoft 클라우드에는 사용할 수 없습니다. 규정 및 규정 준수 요구 사항을 충족 하기 위해 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에서 다음 Api를 사용할 수 없습니다.
@@ -162,7 +162,7 @@ IaaS (Infrastructure as a service) 및 기본 플랫폼과 데이터 제공을 �
 
 - [CSP에 대 한 자세한 정보](https://partner.microsoft.com/cloud-solution-provider)
 
-- [미국 정부에 대 한 Microsoft 클라우드 파트너 센터를 사용 하 여 개발 하는 방법을 알아보려면](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
+- [미국 정부에 대 한 Microsoft 클라우드 파트너 센터를 사용 하 여 개발 하는 방법을 알아보려면](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>다른 질문이 있는 경우 어디로 문의해야 하나요?
 

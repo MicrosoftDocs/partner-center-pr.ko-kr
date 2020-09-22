@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
-ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
+ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89443589"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000617"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>계정 설정 또는 MPN 갱신 문제 해결
 
@@ -45,7 +45,7 @@ ms.locfileid: "89443589"
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-자세한 내용은 [셀프 서비스 등록](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-self-service-signup) 을 참조 하세요.
+자세한 내용은 [셀프 서비스 등록](/azure/active-directory/users-groups-roles/directory-self-service-signup) 을 참조 하세요.
 
 ## <a name="you-forgot-your-password"></a>암호를 잊은 경우
 

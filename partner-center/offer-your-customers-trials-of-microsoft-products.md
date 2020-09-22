@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444906"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999217"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>고객에 게 30 일간의 Microsoft 제품 무료 평가판 제공
 
@@ -23,7 +23,7 @@ ms.locfileid: "87444906"
 - 파트너 센터
 
 **적절한 역할**
--   전역 관리자 
+-   글로벌 관리자 
 -   사용자 관리자
 -   영업 상담원
 
@@ -79,8 +79,8 @@ ms.locfileid: "87444906"
 
 무료 평가판을 유료 구독으로 변환 하기 위해 Api를 변경 해야 할 수 있습니다. 자세한 내용은 다음 개발자 설명서를 참조 하세요.
 
-- [평가판 구독을 유료로 전환](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [평가판 전환 제품 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [평가판 구독을 유료로 전환](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [평가판 전환 제품 목록 가져오기](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>변환 하지 않고 평가판 사용
 

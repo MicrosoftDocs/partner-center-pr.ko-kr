@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527806"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000527"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
@@ -28,7 +28,7 @@ ms.locfileid: "87527806"
 
 - 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 - 기술 지원팀 상담원
 - 영업 상담원
 
@@ -78,9 +78,9 @@ ms.locfileid: "87527806"
 
     - 구독에 30 일 무료 평가판이 제공 되는 경우 무료 평가판 기간이 자동으로 적용 됩니다. CSP 프로그램의 파트너는 고객을 위해 구매한 제품에 대 한 무료 평가판 기간을 되지 않으며 수 없습니다. 무료 평가판 기간이 종료 되 면 구독 기간이 시작 되 고 구독이 유료 상태로 전환 됩니다. 그러면 구독은 동일한 일정에 따라 자동 갱신 됩니다.
    
-## <a name="update-subscriptions-with-add-ons"></a>추가 기능을 사용 하 여 구독 업데이트 
+## <a name="update-subscriptions-with-add-ons"></a>추가 기능을 사용하여 구독 업데이트 
 
-추가 기능을 구입 하려면 고객에 게 먼저 활성 기본 구독이 있어야 합니다.  카탈로그를 통해 추가 기능을 구매할 수 없습니다.
+추가 기능을 구매하려면 고객에게 먼저 활성 기본 구독이 있어야 합니다.  카탈로그를 통해 추가 기능을 구매할 수 없습니다.
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
@@ -93,9 +93,9 @@ ms.locfileid: "87527806"
 5. 필요한 각 추가 기능에 대 한 라이선스의 수량을 업데이트 합니다. 그런 다음, 변경 내용을 **제출**합니다.
 
 파트너 센터를 통해 추가 기능을 구입 하는 기능은 직접 청구 및 간접 공급자만 사용할 수 있습니다.
-기본 요구 사항 및 지역 가용성에 따라 적합 한 추가 기능만 표시 됩니다. 가격 책정 및 제안에 대 한 자세한 내용은 Cloud 재판매인 제품 매트릭스를 참조 하세요.  기본 구독을 일시 중단 하면 연결 된 추가 기능도 일시 중단 됩니다.
+기본 요구 사항 및 지역 가용성에 따라 적합 한 추가 기능만 표시 됩니다. 가격 책정 및 제품에 대한 자세한 내용은 클라우드 재판매인 제품 매트릭스를 참조하세요.  기본 구독을 일시 중단하면 연결된 추가 기능도 일시 중단됩니다.
 
-추가 기능에 대 한 시작 날짜는 기본 구독에 맞춰 청구 되 고 요금은 청구 시작 날짜와 청구 종료 날짜부터 첫 번째 청구서의 pro-rata 요금으로 계산 됩니다. 자세한 내용은 [라이선스 기반 청구](license-based-billing.md)를 참조 하세요.
+추가 기능에 대한 시작 날짜는 기본 구독에 맞춰지며 첫 번째 청구서에서 요금은 청구 시작 날짜와 청구 종료 날짜에 비례한 요금으로 계산됩니다. 자세한 내용은 [라이선스 기반 청구](license-based-billing.md)를 참조 하세요.
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>구독 일시 중단 또는 취소
@@ -154,7 +154,7 @@ ISV 게시자에서 라이선스 기반 SaaS 구독을 취소하려면 다음을
 6. 취소를 확인 하려면 **예, 취소**를 선택 합니다.
 
 > [!NOTE]
-> Api를 사용 하 여 Azure Marketplace 구독을 취소 하도록 선택할 수도 있습니다. 이렇게 하려면 [Azure Marketplace 구독 취소](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription)를 참조 하세요.
+> Api를 사용 하 여 Azure Marketplace 구독을 취소 하도록 선택할 수도 있습니다. 이렇게 하려면 [Azure Marketplace 구독 취소](/partner-center/develop/cancel-an-azure-marketplace-subscription)를 참조 하세요.
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>상업용 마켓플레이스 구독을 자동으로 갱신할지 선택
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220181"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999787"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -143,7 +143,7 @@ Office 365 관리 센터에 직접 로그인 하는 경우 고객의 컨텍스�
 
 Dynamics 365 계획 구독, 라이선스, 청구, 재무 & 작업, Dynamics 365 제품 라이선스와 관련 된 문제가 발생 하는 경우, 추가 기술 지원이 필요 합니다.
  
-[Dynamics 지원](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)에 문의
+[Dynamics 지원](/dynamics365/customer-engagement/admin/contact-technical-support)에 문의
 
 [Microsoft Dynamics 지원](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur) 읽어 보기
 

@@ -1,5 +1,5 @@
 ---
-title: 지급 페이지 액세스
+title: 지급액 페이지 액세스
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 32a7afcd939d47ed71627511645e1f3560717288
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714367"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999887"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불을 위한 지급 페이지 액세스
 
@@ -29,10 +29,10 @@ ms.locfileid: "90714367"
 
 사용자에 게 적용 되는 지급 도움말 정보는 작업 중인 파트너 프로그램에 따라 다릅니다. 적절 한 페이지를 보려면 아래에 해당 하는 링크를 선택 합니다.
 
-- Windows 앱 및 게임 지불에 대해서는 Windows 개발자 설명서에서 [지급 summary](https://docs.microsoft.com/windows/uwp/publish/payout-summary) 를 참조 하세요.
+- Windows 앱 및 게임 지불에 대해서는 Windows 개발자 설명서에서 [지급 summary](/windows/uwp/publish/payout-summary) 를 참조 하세요.
 
 - MPN (Microsoft 파트너 네트워크) 동기 지급의 경우 MPN 성과급 설명서에서 [동기 지불 정보 보기](understand-incentive-payouts.md) 를 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계
 
-- Isv (독립 소프트웨어 공급 업체)의 상업적 Marketplace 지불액에 대 한 자세한 내용은 [상용 marketplace 지급 요약](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary)을 참조 하세요.
+- Isv (독립 소프트웨어 공급 업체)의 상업적 Marketplace 지불액에 대 한 자세한 내용은 [상용 marketplace 지급 요약](/azure/marketplace/partner-center-portal/payout-summary)을 참조 하세요.

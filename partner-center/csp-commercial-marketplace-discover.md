@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527729"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000417"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
 
@@ -25,7 +25,7 @@ ms.locfileid: "87527729"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 
 Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다.
@@ -70,7 +70,7 @@ CSP 프로그램에서 사용 가능한 상용 marketplace 제품을 보려면 �
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>파트너 센터 Api를 통해 Marketplace 제품 보기
 
-CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반환할 수도 있습니다. 적격 제품은 파트너 센터 marketplace를 통해 구입할 수 있는 SaaS ISV 제품에만 제공 됩니다. Api를 사용 하 여 카탈로그에서 제품을 식별 하는 파트너에 대 한 지침을 참조 하 여 [시장에 대 한 제안 목록을 가져옵니다](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반환할 수도 있습니다. 적격 제품은 파트너 센터 marketplace를 통해 구입할 수 있는 SaaS ISV 제품에만 제공 됩니다. Api를 사용 하 여 카탈로그에서 제품을 식별 하는 파트너에 대 한 지침을 참조 하 여 [시장에 대 한 제안 목록을 가져옵니다](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>파트너 센터에서 최신 마켓플레이스 제공 가격 책정 보기
 
@@ -101,7 +101,7 @@ Isv는 CSP 프로그램의 특정 파트너만 해당 제품을 사용할 수 �
 > [!NOTE]
 > 고객에 게 판매할 것으로 표시 된 제품이 독점적으로 표시 되는 경우 ISV에 게 직접 연락 하 여 독점적인 제품을 판매할 수 있는 권한을 요청 합니다. 독점 제품의 세부 정보를 볼 때 사용자가 선택할 수 있는 **ISV** 링크를 볼 수 있습니다.
 
-상업적 marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)를 참조 하세요.
+상업적 marketplace의 ISV 환경에 대해 자세히 알아보려면 [클라우드 솔루션 공급자](/azure/marketplace/cloud-solution-providers)를 참조 하세요.
 
 Marketplace의 CSP 환경에 대 한 자세한 내용은 [상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.
 

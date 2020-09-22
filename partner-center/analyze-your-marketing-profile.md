@@ -9,12 +9,12 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302230"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999647"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>비즈니스 프로필 분석-대상 고객과 잠재적 조회를 얼마나 잘 사용할 수 있는지 확인 합니다.
 <!-- 
@@ -52,4 +52,4 @@ https://go.microsoft.com/fwlink/?linkid=849120
 - **생성 된 조회**: 고객이 비즈니스 프로필을 선택한 후에 전송 된 총 조회 수입니다.
 
 > [!TIP]
-> [이러한 조회에 응답](responding-to-referrals.md)하기 시작 하면 조회를 수행 하는 방법에 대 한 자세한 내용을 보려면 [조회 정보 페이지](referral-insights.md) 를 검토 해야 합니다.
+> [이러한 조회에 응답](manage-leads.md)하기 시작 하면 조회를 수행 하는 방법에 대 한 자세한 내용을 보려면 [조회 정보 페이지](referral-insights.md) 를 검토 해야 합니다.

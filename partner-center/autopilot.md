@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527659"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999437"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>새 장치에서 Windows Autopilot 프로필을 사용 하 여 고객의 기본 환경을 사용자 지정 합니다.
 
@@ -25,7 +25,7 @@ ms.locfileid: "87527659"
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 영업 상담원
 - 사용자 관리 담당자
 
@@ -37,7 +37,7 @@ Oem은 장치의 **제품 키 id (pkid)** 를 표시 하는 Autopilot 장치 상
 
 Autopilot에 익숙하지 않은 경우 다음 문서의 정보를 검토 하세요.
 
-- [Windows Autopilot 개요](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Windows Autopilot 개요](/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 배포 참조 가이드](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>개요
@@ -111,7 +111,7 @@ Autopilot에 익숙하지 않은 경우 다음 문서의 정보를 검토 하세
 
     b.  적절 한 OOBE 화면 (있는 경우)이 표시 되는지 확인 합니다.
 
-    c.  OOBE 프로세스가 중지 되 면 장치를 공장 기본 설정으로 다시 설정 하 여 새 사용자에 대해 준비 합니다.
+    다.  OOBE 프로세스가 중지 되 면 장치를 공장 기본 설정으로 다시 설정 하 여 새 사용자에 대해 준비 합니다.
 
 ### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>고객의 장치에서 Autopilot 프로필 제거
 
@@ -162,7 +162,7 @@ OEM 이름, 일련 번호 및 모델 조합을 사용할 계획인 경우 다음
 4. 장치 목록에 대 한 이름을 입력 하 고 **찾아보기** 를 선택 하 여 고객 목록 (.csv 파일 형식)을 파트너 센터에 업로드 합니다.
 
     >[!NOTE]
-    >장치를 구입 하 여이 .csv 파일을 수신 해야 합니다. .Csv 파일을 받지 못한 경우 [Windows Autopilot에 장치 추가](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)의 단계를 수행 하 여 직접 만들 수 있습니다.  
+    >장치를 구입 하 여이 .csv 파일을 수신 해야 합니다. .Csv 파일을 받지 못한 경우 [Windows Autopilot에 장치 추가](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)의 단계를 수행 하 여 직접 만들 수 있습니다.  
 
 5. .Csv 파일을 업로드 하 고 **저장**을 선택 합니다.
 

@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545644"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000467"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>파트너 센터에서 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한 부여
 
@@ -52,7 +52,7 @@ CSP 프로그램의 파트너는 파트너 센터와 상용 마켓플레이스�
 
 - 선택한 모든 고객에 대 한 사용 권한을 설정할 수 있습니다.
 
-- 파트너 센터 대시보드 또는 [파트너 센터 api](https://docs.microsoft.com/partner-center/develop/manage-customers)를 사용 하 여 고객 권한을 설정 하거나 해제할 수 있습니다.
+- 파트너 센터 대시보드 또는 [파트너 센터 api](/partner-center/develop/manage-customers)를 사용 하 여 고객 권한을 설정 하거나 해제할 수 있습니다.
 
 - 특정 고객에 대 한 사용 권한을 설정한 후에는 해당 고객의 이후 구매에 대 한 요금을 지불 해야 합니다. 고객이 만든 구매를 교환, 취소 또는 갱신 하려는 경우 (또는 예약의 초기 범위를 변경 하려는 경우) 스스로 스스로 작업을 수행할 수는 없습니다. 파트너는 구매를 교환 하거나, 취소 하 고, 갱신 하거나, 예약의 범위를 나중에 변경 하는 데 도움을 요청 해야 합니다.  
 
@@ -65,7 +65,7 @@ CSP 프로그램의 파트너는 파트너 센터와 상용 마켓플레이스�
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>고객에 게 자신의 Azure 예약을 구매할 수 있는 권한 부여
 
-Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 좋은 방법입니다. Azure 예약의 이점에 대 한 자세한 내용은 [Azure Reservations?](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations) 을 참조 하세요.
+Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 좋은 방법입니다. Azure 예약의 이점에 대 한 자세한 내용은 [Azure Reservations?](/azure/cost-management-billing/reservations/save-compute-costs-reservations) 을 참조 하세요.
 
 이제 이미 수행 했을 수 있으므로 고객을 대신 하 여 Azure 예약을 구매할 수 있습니다. 또는 고객에 게 자신의 Azure 예약을 구매할 수 있는 권한을 부여할 수 있습니다.
 
@@ -109,11 +109,11 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 
 4. 해당 고객의 구독 옆에 있는 **관리** 단추를 선택 합니다. 이렇게 하면 [Azure Portal](https://portal.azure.com/)열립니다.
 
-5. 특정 사용자에 게 **소유자** 역할을 할당 하려면 다음 단계에 따라 [사용자를 관리자로 할당](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator)합니다.
+5. 특정 사용자에 게 **소유자** 역할을 할당 하려면 다음 단계에 따라 [사용자를 관리자로 할당](/azure/cost-management-billing/manage/add-change-subscription-administrator#to-assign-a-user-as-an-administrator)합니다.
 
 ### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>고객 권한을 설정 하거나 해제 하 여 자신의 Azure 예약을 구매 합니다.
 
-고객이 기존 Azure 구독을 보유 하 고 있는지 확인 한 후 사용자에 게 해당 구독에 대 한 **소유자** 역할이 할당 되 면 고객 권한을 설정할 수 있습니다. 이러한 단계를 사용 하 여 고객 권한을 해제 (해제) 할 수도 있습니다. 파트너 센터 대시보드 또는 [파트너 센터 api](https://docs.microsoft.com/partner-center/develop/manage-customers)를 사용 하 여 고객 권한을 설정 하거나 해제할 수 있습니다.
+고객이 기존 Azure 구독을 보유 하 고 있는지 확인 한 후 사용자에 게 해당 구독에 대 한 **소유자** 역할이 할당 되 면 고객 권한을 설정할 수 있습니다. 이러한 단계를 사용 하 여 고객 권한을 해제 (해제) 할 수도 있습니다. 파트너 센터 대시보드 또는 [파트너 센터 api](/partner-center/develop/manage-customers)를 사용 하 여 고객 권한을 설정 하거나 해제할 수 있습니다.
 
 파트너 센터에서 고객 권한을 설정 하거나 해제 하려면 다음을 수행 합니다.
 
@@ -151,7 +151,7 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 
 **가격 고객은 예약에 대 한 비용을 지불 합니다.** 고객은 이전에 CSP 파트너 청구 계정에서 구매한 구독을 기준으로 Azure 예약을 구매 합니다. 이 구독을 기준으로 구매 하는 모든 Azure 예약에 대 한 고객의 가격은 사용자에 의해 설정 됩니다. 이 가격은 Azure Portal 고객에 게 표시 되는 웹 직접 가격과 다를 수 있습니다.
 
-**고객이 예약 사용을 최적화 하는 방법** 일부 고객은 예약 사용을 최적화 하는 방법 또는 구매 중에 예약의 초기 범위를 할당 하는 방법에 대해 자세히 알아볼 수 있습니다. 자세한 내용은 고객이 [Azure 리소스에 대 한 예약 관리](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)를 읽도록 요청 하세요.
+**고객이 예약 사용을 최적화 하는 방법** 일부 고객은 예약 사용을 최적화 하는 방법 또는 구매 중에 예약의 초기 범위를 할당 하는 방법에 대해 자세히 알아볼 수 있습니다. 자세한 내용은 고객이 [Azure 리소스에 대 한 예약 관리](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)를 읽도록 요청 하세요.
 
 **고객이 공유 범위를 사용 하 여 예약을 구매 하면 어떻게 되나요?** 고객이 이전 CSP 구독을 기반으로 하는 예약을 구매 하 고 해당 예약에 공유 범위를 할당 하는 경우 해당 고객에 게 제공 된 모든 구독에 대해 CSP가 제공 하는 모든 할인의 일치 사용에 적용 됩니다.
 

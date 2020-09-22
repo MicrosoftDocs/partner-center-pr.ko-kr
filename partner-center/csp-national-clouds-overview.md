@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114342"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000387"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP 프로그램의 일부로 Microsoft 국가별 클라우드의 판매에 적용
 
@@ -48,4 +48,4 @@ Microsoft는 이러한 서비스를 국가별 클라우드에서 사용할 수 �
 
     Microsoft는 기술 공급자 이지만 서비스를 작동 하지 않습니다. 21Vianet은 Microsoft 클라우드 서비스의 배달을 독립적으로 운영, 제공 및 관리 합니다. Microsoft 기술의 라이선스에 따라 21Vianet은 Azure 및 Office 365 서비스를 제공 하 고 중국에 데이터를 보관 하는 Azure 및 Office 365 데이터 센터를 운영할 수 있습니다. 또한 21Vianet은 지원 뿐만 아니라 구독 및 청구 서비스도 제공 합니다.
 
-    Azure의 고객에 게 등록 하 고 판매 하는 방법 및 중국의 21Vianet에서 운영 하는 Office 365에 대 한 자세한 내용은 21Vianet이 운영 하는 [파트너 센터](https://msdn.microsoft.com/partner-china/index)를 참조 하세요. 
+    Azure의 고객에 게 등록 하 고 판매 하는 방법 및 중국의 21Vianet에서 운영 하는 Office 365에 대 한 자세한 내용은 21Vianet이 운영 하는 [파트너 센터](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))를 참조 하세요.

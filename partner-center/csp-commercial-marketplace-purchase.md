@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7533b0791ec8760c6223d6af59c2b7995b34a7bc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435062"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000507"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>파트너 센터에서 고객을 위한 상용 마켓플레이스 제품 구매
 
@@ -40,7 +40,7 @@ Microsoft 제품에 대 한 구독을 구매 하는 데 사용한 것과 동일�
 
 파트너 센터에서 라이선스 기반 SaaS 구독을 구매 하려면 [고객 구독 만들기, 일시 중단 또는 취소](create-a-new-subscription.md#create-a-new-subscription)를 참조 하세요.
 
-또한 [Partner Center API](https://docs.microsoft.com/partner-center/develop/)를 사용하여 고객을 위한 상업용 마켓플레이스 구독을 만들 수도 있습니다. 파트너 센터 Api를 사용 하는 방법에 대 한 자세한 내용은 [상용 marketplace 제품에 대 한 구독 만들기](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
+또한 [Partner Center API](/partner-center/develop/)를 사용하여 고객을 위한 상업용 마켓플레이스 구독을 만들 수도 있습니다. 파트너 센터 Api를 사용 하는 방법에 대 한 자세한 내용은 [상용 marketplace 제품에 대 한 구독 만들기](/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
 
 >[!IMPORTANT]
 > CSP 프로그램의 파트너는 파트너 센터 내에서 ISV 게시자의 **라이선스 기반** SaaS 구독만 구매할 수 있습니다. 즉, 사용자가 액세스할 수 있는 [전용 제품](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) 을 비롯 하 여 ISV 게시자가 사용할 수 있도록 설정한 모든 **라이선스 기반** SaaS 제품을 구매할 수 있습니다. Isv (Azure 응용 프로그램, 컨테이너 또는 Vm과 관련 된 **사용량 기반**, 요금제 또는 소비 기반 제품)에서 기타 상업적 marketplace 제품을 구매 하거나 관리 하려면 [Azure Portal](https://portal.azure.com/)으로 이동 해야 합니다. 자세한 내용은 다음 항목을 참조 하세요.

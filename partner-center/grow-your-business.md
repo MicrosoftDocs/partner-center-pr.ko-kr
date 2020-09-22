@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c244b5d8a1498ed0107925ed0a6ef0e9d584cf83
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9d53a07f8060c8bdd893aa1d774130b89a7c8ec9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434592"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000537"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft 파트너 비즈니스 성장-리드를 받고 회사를 분리 하는 방법을 알아봅니다 &.
 
@@ -35,8 +35,8 @@ Microsoft는 파트너 비즈니스 성장을 위해 다양한 리소스를 제�
 
 |  **수행할 작업**  |  **이 글을 읽고 방법 알아보기**  |  **적용 대상**  |
 |--------------|-----------|--------------
-| 잠재 고객 가져오기 및 관리 | [비즈니스 프로필 최적화](https://player.vimeo.com/video/252788046 )라는 짧은 비디오를 시청하여 고객이 솔루션 공급자를 검색할 때 발견할 수 있도록 비즈니스 프로필을 만든 후 [추천에 응답](responding-to-referrals.md)에 대해 읽어보세요. | 모든 네트워크 파트너 |
-| 실버 또는 골드 파트너 상태 획득 | 실버 또는 골드 멤버십 수준에 대한 자격을 갖추는 방법에 대한 정보는 Microsoft 파트너 네트워크 사이트에서 [역량 파트너](https://partner.microsoft.com/membership/competencies)를 읽어보세요. 귀하의 역량 정보를 파트너 센터로 이동할 준비가 되면 [파트너 센터에서 역량 관리](competencies.md)를 읽어보세요. | 모든 네트워크 파트너 |
+| 잠재 고객 가져오기 및 관리 | [비즈니스 프로필 최적화](https://player.vimeo.com/video/252788046 )라는 짧은 비디오를 시청하여 고객이 솔루션 공급자를 검색할 때 발견할 수 있도록 비즈니스 프로필을 만든 후 [추천에 응답](manage-leads.md)에 대해 읽어보세요. | 모든 네트워크 파트너 |
+| 실버 또는 골드 파트너 상태 획득 | 실버 또는 골드 멤버십 수준에 대한 자격을 갖추는 방법에 대한 정보는 Microsoft 파트너 네트워크 사이트에서 [역량 파트너](https://partner.microsoft.com/membership/competencies)를 읽어보세요. 귀하의 역량 정보를 파트너 센터로 이동할 준비가 되면 [파트너 센터에서 역량 관리](learn-about-competencies.md)를 읽어보세요. | 모든 네트워크 파트너 |
 | 고객에게 Microsoft 제품에 대한 평가판 구독 제공 | 고객 기반에게 더 많은 제품을 판매하기 위해 평가판 구독을 사용하는 방법을 알아보려면 [고객에게 Microsoft 제품 평가판 제공](offer-your-customers-trials-of-microsoft-products.md)을 읽어보세요.| CSP 파트너 |
 | 고객에게 Microsoft 구독에 대한 프로모션 가격 제공 | Microsoft에서는 가끔 라이선스 기반 구독에 대한 프로모션을 제공하므로 이를 통해 비용을 절감하여 그 혜택을 고객에게 전달하고 비즈니스를 성장시킬 수 있습니다. 이러한 방법은 [고객에게 Microsoft 구독에 대한 프로모션 가격 제공](promotions.md)을 읽어보세요. | CSP 파트너 |
 | 추가 시장에서 판매 | 클라우드 솔루션 공급자 판매 채널은 여러 국가 및 지역에서 사용할 수 있습니다. 목록을 검토하려면 [클라우드 솔루션 공급자 시장](agreements.md)을 참조하세요. 클라우드 솔루션 공급자 채널에 대한 소개는 [클라우드 솔루션 공급자 개요](csp-overview.md)를 참조하세요.  | CSP 파트너 |

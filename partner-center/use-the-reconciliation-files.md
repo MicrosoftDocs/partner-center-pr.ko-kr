@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468334"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999707"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 품목을 읽는 방법에 대해 알아봅니다.
 
@@ -28,7 +28,7 @@ ms.locfileid: "87468334"
 적절 한 역할:
 
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 
 **청구서**를 읽는 방법에 대 한 자세한 내용은 [청구서 읽기](read-your-bill.md)를 참조 하세요.
 
@@ -58,7 +58,7 @@ ms.locfileid: "87468334"
 
 ## <a name="download-reconciliation-files-programmatically"></a>프로그래밍 방식으로 조정 파일 다운로드
 
-조정 파일은 매우 클 수 있으며 다운로드 하기 어려울 수도 있습니다. 프로그래밍 방식으로 조정 파일을 다운로드 하려면 [청구서 품목 가져오기 항목](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items)을 참조 하세요.
+조정 파일은 매우 클 수 있으며 다운로드 하기 어려울 수도 있습니다. 프로그래밍 방식으로 조정 파일을 다운로드 하려면 [청구서 품목 가져오기 항목](/partner-center/develop/get-invoiceline-items)을 참조 하세요.
 
 ## <a name="map-taxes-or-vat"></a>세금 또는 VAT 지도
 
@@ -71,7 +71,7 @@ ms.locfileid: "87468334"
 
 **간접 모델** 의 파트너는 라이선스 기반 조정 파일의 이러한 추가 필드를 사용 하 여 재판매인의 파일을 정리 합니다.
 
-| MPN ID | Description |
+| MPN ID | 설명 |
 | ------ | ----------- |
 | MPN ID | CSP (클라우드 솔루션 공급자) 파트너 (직접 또는 간접)의 Microsoft 파트너 네트워크 (MPN) 식별자입니다. |
 | [대리점 MPN ID](#reseller-mpn-id) | [구독에 대 한 레코드 대리점의 MPN 식별자](#reseller-mpn-id)입니다. 이 필드는 파트너 센터의 특정 구독에 대해 나열 된 재판매인 ID에 해당 합니다. 간접 모델의 파트너에 대 한 조정 파일에만 표시 됩니다. |

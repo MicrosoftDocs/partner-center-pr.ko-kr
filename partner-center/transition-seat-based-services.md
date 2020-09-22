@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811133"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000637"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>다른 채널 & 파트너가 클라우드 솔루션 공급자 프로그램으로 라이선스 기반 고객 이동
 
@@ -34,7 +34,7 @@ ms.locfileid: "87811133"
 
 
    >[!NOTE]
-   >고객은 Microsoft 365 (M365) 관리 포털 (예: Microsoft에서 월별 또는 연간 청구 다이렉트)을 통해 구매한 경우 크레딧을 받을 자격이 있을 수 있습니다. Microsoft에서 직접 구매한 구독의 크레딧을 **M365 청구 지원**에 의해 처리 됩니다. [M365 구독을 취소](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)하는 방법에 대 한 M365 지침을 참조 하세요. 고객에 대 한 관리 권한을 위임한 경우 고객을 대신 하 여 M65 지원에 문의할 수 있습니다. 그렇지 않은 경우 고객에 게 M365 지원 담당자에 게 직접 문의 하 여 적격 크레딧 및이 크레딧을 제공 하는 방법을 확인 하세요. [위임 된 관리자 권한에](customers-revoke-admin-privileges.md)대 한 정보를 읽습니다.
+   >고객은 Microsoft 365 (M365) 관리 포털 (예: Microsoft에서 월별 또는 연간 청구 다이렉트)을 통해 구매한 경우 크레딧을 받을 자격이 있을 수 있습니다. Microsoft에서 직접 구매한 구독의 크레딧을 **M365 청구 지원**에 의해 처리 됩니다. [M365 구독을 취소](/microsoft-365/commerce/subscriptions/cancel-your-subscription)하는 방법에 대 한 M365 지침을 참조 하세요. 고객에 대 한 관리 권한을 위임한 경우 고객을 대신 하 여 M65 지원에 문의할 수 있습니다. 그렇지 않은 경우 고객에 게 M365 지원 담당자에 게 직접 문의 하 여 적격 크레딧 및이 크레딧을 제공 하는 방법을 확인 하세요. [위임 된 관리자 권한에](customers-revoke-admin-privileges.md)대 한 정보를 읽습니다.
 
 
 4. 그러면 고객은 중단 없이 프로 비전 한 구독을 계속 해 서 전달 합니다.

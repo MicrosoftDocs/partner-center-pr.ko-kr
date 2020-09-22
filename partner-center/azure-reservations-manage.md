@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366877"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000257"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>고객에 대 한 Microsoft Azure 예약 관리, 취소, 교환 또는 환불
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366877"
 - 사용자 관리 담당자
 
 > [!NOTE]
-> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](https://docs.microsoft.com/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
+> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
 
 고객의 Azure 예약 사후 구매를 관리 하려면 파트너 센터에서 관리 하려는 고객 및 예약을 선택한 다음 Azure Portal 예약을 변경 합니다.
 
@@ -66,10 +66,10 @@ ms.locfileid: "89366877"
 
 |**취소 날짜**<br> 일별로   |**사용 현황**    |**크레딧**  |**조기 종료**<br> 수수료    |**환불 캡** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 개 미만                         | 예          | 100%       | 예                              | $5만 USD   |
-|5 개 미만                         | yes         | 전문 등급  | 예                              | $5만 USD   |
+|5 개 미만                         | 아니요          | 100%       | 아니요                              | $5만 USD   |
+|5 개 미만                         | 예         | 전문 등급  | 예                              | $5만 USD   |
 |5 개 이상                        | 예          | 전문 등급  | 12%                             | $5만 USD   |
-|5 개 이상                        | yes         | 전문 등급  | 12%                             | $5만 USD   |
+|5 개 이상                        | 예         | 전문 등급  | 12%                             | $5만 USD   |
 
 ### <a name="how-exchanges-work"></a>교환 작동 방법 
 
@@ -107,6 +107,5 @@ ms.locfileid: "89366877"
 |CSP의 Azure 예약 개요  | [Microsoft Azure 예약 인스턴스 판매](azure-reservations.md) |
 |파트너 센터에서 고객에 대 한 Azure 예약 구매   | [Azure 예약 구입](azure-reservations-buying.md) |
 |올바른 VM 크기를 확인 하 고 고객 VM 사용 확인   | [최대 Azure 예약 사용에 대 한 VM 크기 조정](azure-usage.md)   |
-|파트너 센터 API를 사용 하 여 Azure 예약 구매 | 파트너 센터 개발자 설명서에서 [Azure Reserved VM Instances 구매](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|파트너 센터 API를 사용 하 여 Azure 예약 구매 | 파트너 센터 개발자 설명서에서 [Azure Reserved VM Instances 구매](/partner-center/develop/purchase-azure-reservations)   |
 |구매한 구독에서 자신의 Azure 예약을 구매할 수 있는 권한을 고객에 게 제공 합니다. | [고객에 게 자신의 Azure 예약을 구매할 수 있는 권한 부여](give-customers-permission.md)   |
-

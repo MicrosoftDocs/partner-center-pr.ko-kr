@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302310"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000017"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI에 대 한 파트너 센터 분석 앱에 대 한 개요 및 Faq (CSP의 직접 파트너)
 
@@ -47,7 +47,7 @@ Power BI에 대 한 파트너 센터 분석 앱을 사용 하 여 비즈니스 �
 
 - 데이터 집합을 내보내고 고객 단위를 포함 하 여 사용자 지정 보고서를 만드는 기능
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 앱을 설치 하기 전에 자주 묻는 질문에 대 한 답변을 검토 하는 것이 좋습니다.
 
@@ -56,7 +56,7 @@ Power BI에 대 한 파트너 센터 분석 앱을 사용 하 여 비즈니스 �
 | 앱의 비용은 얼마 인가요? | 앱 자체는 무료입니다. 앱을 미리 보려면 [무료 Power BI 서비스에 등록](https://go.microsoft.com/fwlink/p/?linkid=845347) 하 고이를 사용 하 여 대시보드 및 보고서를 사용자 지정할 수 있습니다. 회사의 다른 사용자가 앱을 사용할 수 있도록 하려면 Microsoft Power BI Professional 또는 Microsoft Power BI Premium에 대 한 활성 구독이 있어야 합니다. |
 | 파트너 센터 분석 앱에 연결할 수 있는 사용자는 누구 인가요? | 이 버전의 앱은 클라우드 솔루션 공급자 프로그램에서 직접 파트너 (계층 1) 용으로 설계 되었습니다. Microsoft와 고객에 게 직접 비즈니스를 수행 하는 경우 직접 파트너입니다. 앱을 설치 하려면 회사 계정에 대 한 전역 관리자, 관리 에이전트 또는 청구 관리자 여야 합니다. |
 | 간접 공급자 인 경우 앱을 사용할 수 있나요? | 예. 전역 관리자, 관리 에이전트 또는 대금 청구 관리자는 앱을 설치 하 고 직접 고객에 대 한 데이터를 볼 수 있습니다. 이후 릴리스에는 간접 대리점에 대 한 데이터를 볼 수 있는 기능이 포함 되어 있을 수 있습니다. |
-| 이후 릴리스에 대해 어떻게 알아볼 수 있나요? | 알림 및 미리 보기 릴리스는 파트너 센터의 초기 도입자 프로그램을 통해 제공 됩니다. 또한 초기 도입자 프로그램을 통해 피드백을 공유할 수 있습니다. 프로그램에 아직 참여 하 고 있지 않은 경우 참여 방법에 대해 알아보세요. [파트너 센터 API 및 SDK의 초기 도입자 프로그램 참여](https://docs.microsoft.com/partner-center/develop/early-adopter-program)를 참조 하세요.  |
+| 이후 릴리스에 대해 어떻게 알아볼 수 있나요? | 알림 및 미리 보기 릴리스는 파트너 센터의 초기 도입자 프로그램을 통해 제공 됩니다. 또한 초기 도입자 프로그램을 통해 피드백을 공유할 수 있습니다. 프로그램에 아직 참여 하 고 있지 않은 경우 참여 방법에 대해 알아보세요. [파트너 센터 API 및 SDK의 초기 도입자 프로그램 참여](/partner-center/develop/early-adopter-program)를 참조 하세요.  |
 | 앱에서 대시보드 및 보고서를 사용자 지정할 수 있는 사람은 누구 인가요? | 앱을 설치한 전역 관리자, 관리 에이전트 또는 청구 관리자만 대시보드를 사용자 지정 하거나 Power BI 웹 인터페이스에서 새 보고서를 만들 수 있습니다. |
 | 앱에서 대시보드와 보고서를 볼 수 있는 사람은 누구 인가요? | 앱을 설치한 전역 관리자, 관리 에이전트 또는 청구 관리자는 Microsoft Power BI Professional 또는 Microsoft Power BI Premium에 대 한 활성 구독이 있는 사용자와 앱의 데이터를 공유할 수 있습니다. |
 | 응용 프로그램을 사용 하 여 여러 Azure AD 테 넌 트의 데이터를 여러 위치에서 볼 수 있나요? | 이 릴리스에서는 전역 관리자 또는 관리 에이전트가에 로그인 한 Azure AD 테 넌 트에서 데이터만 볼 수 있습니다. | 

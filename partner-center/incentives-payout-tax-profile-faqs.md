@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b972090c376399dfc474d74b8be5b03330ea0c1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714407"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999307"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>성과급 지급 및 세금 프로필에 대 한 질문과 대답
 
@@ -39,7 +39,7 @@ Microsoft 동기 프로그램에 대 한 지급을 받으려면 유효한 지급
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>지급 및/또는 세금 세부 정보를 제공/업데이트하려면 어떻게 해야 하나요?
 
-파트너 센터에서 지불 및 세금 정보를 업데이트 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md)를 참조 하세요.
+파트너 센터에서 지불 및 세금 정보를 업데이트 하는 방법에 대 한 자세한 내용은 [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](./incentives-create-and-manage-your-payout-and-tax-profiles.md)를 참조 하세요.
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>지급 및 세금 프로필 할당으로 이동할 때 내 등록이 표시되지 않는 이유는 무엇인가요?
 
