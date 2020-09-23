@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026481"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007475"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft에서 발급하는 IRS 세금 양식 이해
 
@@ -27,7 +27,7 @@ ms.locfileid: "90026481"
 |1042-S | 미국 원천 세금이 적용 되는 귀하에 대 한 지불액과 관련 | 인쇄 된 양식은 **3 월 15**일 이전에 postmarked 되며, .pdf 복사본은 파트너 센터에서 사용할 수 있습니다 ( **지급 및 세금 > 지급 및 세금 프로필**의 **파트너 센터 개발자 설정** ).  |
 
 > [!NOTE]
-> IRS 세금 양식에서 사용 하는 주소는 [세금 프로필](marketplace-payout-account-setup.md)의 주소에서 제공 됩니다. 주소가 변경 된 경우 **세금 프로필**의 주소를 업데이트 해야 합니다.
+> IRS 세금 양식에서 사용 하는 주소는 [세금 프로필](/azure/marketplace/marketplace-payout-account-setup)의 주소에서 제공 됩니다. 주소가 변경 된 경우 **세금 프로필**의 주소를 업데이트 해야 합니다.
 
 세금 형태는 다음 주소에서 사용자에 게 전송 됩니다.
 

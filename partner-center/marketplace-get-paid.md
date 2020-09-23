@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026509"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007397"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>상업용 마켓플레이스에서 지급 받기
 
 제품, 추가 기능 및 광고 소득에 대한 지급 받기에 대한 몇 가지 중요한 정보는 다음과 같습니다.
 
 > [!IMPORTANT]
-> 상업용 마켓플레이스의 제품 판매에서 돈을 받으려면 먼저 [지급 계정을 설정하고 필요한 세금 양식을 입력](marketplace-payout-account-setup.md)해야 합니다.
+> 상업용 마켓플레이스의 제품 판매에서 돈을 받으려면 먼저 [지급 계정을 설정하고 필요한 세금 양식을 입력](/azure/marketplace/marketplace-payout-account-setup)해야 합니다.
 
 ## <a name="store-fee"></a>매장 수수료
 

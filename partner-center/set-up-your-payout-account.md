@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026489"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007407"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>지급 계정 및 세금 양식 설정
 
@@ -28,7 +28,7 @@ ms.locfileid: "90026489"
 - [지급 계정 설정](#payout-account)
 
 > [!NOTE]
-> 제품에서 발생하는 돈을 지급받는 방법 및 시기에 관한 자세한 내용은 [지급받기](marketplace-payout-account-setup.md)를 참조하세요.
+> 제품에서 발생하는 돈을 지급받는 방법 및 시기에 관한 자세한 내용은 [지급받기](/azure/marketplace/marketplace-payout-account-setup)를 참조하세요.
 
 ## <a name="tax-forms"></a>세금 양식
 
@@ -131,7 +131,7 @@ ms.locfileid: "90026489"
 3. 지급 프로필은 해당 상태와 함께 나열됩니다. 편집할 프로필을 찾고 오른쪽 끝에 있는 **편집**을 클릭합니다.
 
 > [!IMPORTANT]
-> 지급 계좌를 변경하면 한 번의 지불 주기까지 지불을 연기할 수 있습니다. 이러한 지불 연기는 처음 지급 계좌를 설정할 때와 마찬가지로 계정 변경 내용을 확인해야 하기 때문에 발생합니다. 계정 확인 작업이 끝난 후 여전히 전체 금액에 대해 비용을 지불해야 하는 경우 현재 지불 주기에 대한 모든 지불 대금이 다음 주기에 추가됩니다. 자세한 내용은 [지급받기](marketplace-payout-account-setup.md)를 참조하세요.
+> 지급 계좌를 변경하면 한 번의 지불 주기까지 지불을 연기할 수 있습니다. 이러한 지불 연기는 처음 지급 계좌를 설정할 때와 마찬가지로 계정 변경 내용을 확인해야 하기 때문에 발생합니다. 계정 확인 작업이 끝난 후 여전히 전체 금액에 대해 비용을 지불해야 하는 경우 현재 지불 주기에 대한 모든 지불 대금이 다음 주기에 추가됩니다. 자세한 내용은 [지급받기](/azure/marketplace/marketplace-payout-account-setup)를 참조하세요.
 
 ### <a name="paypal-info"></a>PayPal 정보
 
