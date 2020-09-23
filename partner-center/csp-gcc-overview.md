@@ -44,7 +44,7 @@ CSP (클라우드 솔루션 공급자 프로그램)의 Microsoft 파트너는 CS
 -   CSP 구독을 위해 Office 365 정부 GCC를 판매 하는 단계별 가이드는 [여기](https://go.microsoft.com/fwlink/?linkid=2007323)를 참조 하세요.  
 
 
-## <a name="additional-resources"></a>추가 리소스
+## <a name="additional-resources"></a>추가 자료
 
 파트너에 대 한 Microsoft 365 사이트에서 [미국 정부 파트너 기회](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) 에 대 한 정보에 액세스 합니다.
 
