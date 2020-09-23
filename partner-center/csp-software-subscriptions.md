@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614148"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000487"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>CSP(클라우드 솔루션 공급자) 프로그램을 통해 소프트웨어 구독 판매
 
@@ -116,7 +116,7 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>서버 구독 다운로드 및 라이선스 키는 Microsoft 365 관리 센터를 통해 고객에게 제공 
 
-고객은 Microsoft 365 관리 센터에서 CSP 서버 구독 라이선스 키 및 다운로드를 받을 수 있습니다. CSP 서버 구독 라이선스 키 및 다운로드를 보려면 고객은 Microsoft 365 관리 센터 > **청구 > 제품 > 소프트웨어 탭**으로 이동해야 합니다. 자세한 내용은 [청구에 있는 소프트웨어 탭](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)을 참조하세요.  
+고객은 Microsoft 365 관리 센터에서 CSP 서버 구독 라이선스 키 및 다운로드를 받을 수 있습니다. CSP 서버 구독 라이선스 키 및 다운로드를 보려면 고객은 Microsoft 365 관리 센터 > **청구 > 제품 > 소프트웨어 탭**으로 이동해야 합니다. 자세한 내용은 [청구에 있는 소프트웨어 탭](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)을 참조하세요.  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>소프트웨어 키 액세스 및 소프트웨어 다운로드에 대한 작업 보기
 
@@ -138,12 +138,12 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 소프트웨어를 구매한 날짜로부터 60일 이내에 구매를 취소할 수 있습니다. 60일 이내에 구매를 취소하면 조기 해지 수수료가 부과되지 않습니다. 60일이 지나면 더 이상 구매를 취소할 수 없습니다. (이 취소 규칙에 대한 주요 제한 사항을 참조하세요. 소프트웨어 구매를 취소한 이후의 과정에 대한 자세한 내용은 다음 단계를 수행한 후 나오는 중요 메모를 참조하세요.) 
 
 >[!NOTE]
->구매를 취소하는 다음 단계는 구매 후 60일 이내처럼 특정 취소 기간 내에 취소된 소프트웨어에만 적용됩니다. Azure의 SUSE Linux 또는 RedHat 소프트웨어플랜에는 적용되지 않습니다. 현재는 SUSE 또는 RedHat 소프트웨어 플랜을 취소하거나 교환할 수 없습니다. SUSE Linux 또는 RedHat 플랜 사용에 대한 [자세한 정보](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)를 확인하세요.
+>구매를 취소하는 다음 단계는 구매 후 60일 이내처럼 특정 취소 기간 내에 취소된 소프트웨어에만 적용됩니다. Azure의 SUSE Linux 또는 RedHat 소프트웨어플랜에는 적용되지 않습니다. 현재는 SUSE 또는 RedHat 소프트웨어 플랜을 취소하거나 교환할 수 없습니다. SUSE Linux 또는 RedHat 플랜 사용에 대한 [자세한 정보](/azure/virtual-machines/linux/prepay-suse-software-charges)를 확인하세요.
 
 구매를 취소하려면 다음 단계를 수행합니다.
 
 >[!NOTE]
->구매를 취소하려면 관리 에이전트여야 합니다. 다음 단계에서는 파트너 센터 대시보드에서 구매를 취소하는 방법을 설명합니다. [파트너 센터 API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)를 사용하여 취소할 수도 있습니다.
+>구매를 취소하려면 관리 에이전트여야 합니다. 다음 단계에서는 파트너 센터 대시보드에서 구매를 취소하는 방법을 설명합니다. [파트너 센터 API](/partner-center/develop/cancel-software-purchases)를 사용하여 취소할 수도 있습니다.
 
 1. 취소 프로세스를 시작하기 전에, 먼저 다음 사항을 확인합니다.
 

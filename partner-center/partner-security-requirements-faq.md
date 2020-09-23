@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614157"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999807"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
 
@@ -73,19 +73,19 @@ CSP 프로그램의 모든 파트너(직접 청구, 간접 공급자 및 간접 
 
     - 간접 공급자는 간접 재판매인과 협력하여 파트너 센터에 아직 온보딩하지 않은 경우 온보딩하고 재판매인이 요구 사항을 충족하도록 해야 합니다.
     - Azure MFA는 TOTP(시간 기반 일회용 암호)를 지원하는 인증자 애플리케이션의 유일한 확인 방법에서 Azure AD 보안 기본값을 통해 파트너 테넌트의 모든 사용자가 무료로 사용할 수 있습니다.
-    - 전화 통화나 문자 메시지 같은 다른 방법이 필요한 경우 추가 검증 방법은 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU를 통해 사용할 수 있습니다.
+    - 전화 통화나 문자 메시지 같은 다른 방법이 필요한 경우 추가 검증 방법은 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU를 통해 사용할 수 있습니다.
     - 또한 파트너는 Microsoft 상용 클라우드 서비스에 액세스할 때 계정마다 타사 MFA 솔루션을 활용할 수 있습니다.
 
 2. **보안 애플리케이션 모델 프레임워크 채택**
 
-    모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다. 이렇게 하지 않으면 MFA 배포로 인해 중단될 수 있습니다. 다음은 이 모델을 채택하는 방법에 대한 개요 및 지침을 제공하는 리소스입니다.
+    모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다. 이렇게 하지 않으면 MFA 배포로 인해 중단될 수 있습니다. 다음은 이 모델을 채택하는 방법에 대한 개요 및 지침을 제공하는 리소스입니다.
 
-    - [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+    - [보안 애플리케이션 모델 개요](/partner-center/develop/enable-secure-app-model)
     - [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-    - [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+    - [파트너 센터 인증 문서](/partner-center/develop/partner-center-authentication)
+    - [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](/powershell/partnercenter/multi-factor-auth)
 
     보안 애플리케이션 모델 프레임워크의 채택과 관련하여 제어판을 사용하는 경우 공급업체에 문의하세요.
 
@@ -103,14 +103,14 @@ MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통�
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>MFA 사용 비용은 무엇인가요?
 
-Microsoft는 Azure AD 보안 기본값 구현을 통해 무료로 MFA를 제공합니다. 이 버전의 MFA를 통해 사용할 수 있는 유일한 확인 옵션은 인증 애플리케이션입니다. 전화 통화나 SMS 메시지가 필요한 경우 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) 라이선스를 구매해야 합니다. 또는 타사 솔루션을 활용하여 파트너 테넌트의 각 사용자에게 MFA를 제공할 수 있습니다. 이 경우 사용자가 MFA 솔루션을 적용하고 이를 준수하는지 확인해야 합니다.
+Microsoft는 Azure AD 보안 기본값 구현을 통해 무료로 MFA를 제공합니다. 이 버전의 MFA를 통해 사용할 수 있는 유일한 확인 옵션은 인증 애플리케이션입니다. 전화 통화나 SMS 메시지가 필요한 경우 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 라이선스를 구매해야 합니다. 또는 타사 솔루션을 활용하여 파트너 테넌트의 각 사용자에게 MFA를 제공할 수 있습니다. 이 경우 사용자가 MFA 솔루션을 적용하고 이를 준수하는지 확인해야 합니다.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>MFA 솔루션이 이미 있는 경우 수행해야 하는 작업은 무엇인가요?
 
 이러한 보안 요구 사항을 통해 파트너 테넌트의 사용자는 Microsoft 상용 클라우드 서비스에 액세스할 때 MFA를 사용하여 인증해야 합니다. 이러한 요구 사항은 타사 솔루션을 사용하여 충족할 수 있습니다. Microsoft는 Azure Active Directory와의 호환성을 위해 독립 ID 공급자에 대한 유효성 검사 테스트를 더 이상 제공하지 않습니다. 제품의 상호 운용성을 테스트하려면 이러한 [지침](https://www.microsoft.com/download/details.aspx?id=56843)을 참조하세요.
 
 > [!IMPORTANT]
-> 타사 솔루션을 사용하는 경우 해당 솔루션에서 MFA 값이 포함된 AMR(인증 방법 참조) 클레임을 발급하는지 확인해야 합니다. 타사 솔루션에서 예상 클레임을 발급하는지 확인하는 방법에 대한 자세한 내용은 [파트너 센터 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)를 참조하세요.
+> 타사 솔루션을 사용하는 경우 해당 솔루션에서 MFA 값이 포함된 AMR(인증 방법 참조) 클레임을 발급하는지 확인해야 합니다. 타사 솔루션에서 예상 클레임을 발급하는지 확인하는 방법에 대한 자세한 내용은 [파트너 센터 요구 사항 테스트](/powershell/partnercenter/test-partner-security-requirements)를 참조하세요.
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>여러 파트너 테넌트를 사용하여 거래합니다. 모든 파트너 테넌트에 MFA를 구현해야 하나요?
 
@@ -138,7 +138,7 @@ MFA 공급업체 및 솔루션을 검토할 때 파트너는 선택한 솔루션
 
 Microsoft는 Azure Active Directory와의 호환성을 위해 독립 ID 공급자에 대한 유효성 검사 테스트를 더 이상 제공하지 않습니다. 제품의 상호 운용성을 테스트하려면 이러한 [지침](https://www.microsoft.com/download/details.aspx?id=56843)을 참조하세요.
 
-자세한 내용은 [Azure AD 페더레이션 호환성 목록](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility)을 참조하세요.
+자세한 내용은 [Azure AD 페더레이션 호환성 목록](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)을 참조하세요.
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>통합 샌드박스에서 MFA를 테스트하려면 어떻게 해야 하나요?
 
@@ -184,7 +184,7 @@ Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>요구 사항을 충족하려면 누가 보안 애플리케이션 모델을 채택해야 하나요?
 
-Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다.
+Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다.
 
 ### <a name="what-is-the-secure-application-model"></a>보안 애플리케이션 모델이란 무엇인가요?
 
@@ -192,14 +192,14 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>보안 애플리케이션 모델을 구현하려면 어떻게 하나요?
 
-모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다. 이렇게 하지 않으면 MFA 배포로 인해 중단될 수 있습니다. 다음은 이 모델을 채택하는 방법에 대한 개요 및 지침을 제공하는 리소스입니다.
+모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다. 이렇게 하지 않으면 MFA 배포로 인해 중단될 수 있습니다. 다음은 이 모델을 채택하는 방법에 대한 개요 및 지침을 제공하는 리소스입니다.
 
-- [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [보안 애플리케이션 모델 개요](/partner-center/develop/enable-secure-app-model)
 - [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [파트너 센터 인증 문서](/partner-center/develop/partner-center-authentication)
+- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](/powershell/partnercenter/multi-factor-auth)
 
 제어판을 사용하는 경우 보안 애플리케이션 모델 프레임워크 채택과 관련하여 공급업체에 문의해야 합니다.
 
@@ -214,7 +214,7 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>PowerShell과 같은 자동화 도구를 사용하고 있습니다. 보안 애플리케이션 모델을 구현하려면 어떻게 하나요?
 
-자동화가 비대화형으로 실행되도록 설계되고 사용자 자격 증명을 인증에 사용하는 경우 보안 애플리케이션 모델을 구현해야 합니다. 이 프레임워크 구현 방법에 대한 지침은 [Secure Application Model | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)(보안 애플리케이션 모델 | 파트너 센터 PowerShell)을 참조하세요.  
+자동화가 비대화형으로 실행되도록 설계되고 사용자 자격 증명을 인증에 사용하는 경우 보안 애플리케이션 모델을 구현해야 합니다. 이 프레임워크 구현 방법에 대한 지침은 [Secure Application Model | Partner Center PowerShell](/powershell/partnercenter/multi-factor-auth)(보안 애플리케이션 모델 | 파트너 센터 PowerShell)을 참조하세요.  
 
 >[!Note] 
 >일부 자동화 도구는 액세스 토큰을 사용하여 인증하는 기능을 제공하지 않을 수 있습니다. 변경해야 하는 항목을 파악하는 데 도움이 필요한 경우 메시지를 [파트너 센터 보안 지침](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) 그룹에 게시하세요. 
@@ -292,7 +292,7 @@ Microsoft는 추가 보호 기능을 제공하기 위해 보안 보호 기능의
 
 리소스에 액세스하는 계정에 다단계 인증이 필요한지 확인하기 위해 [인증 방법 참조](https://tools.ietf.org/html/rfc8176) 클레임을 확인하여 MFA가 나열되어 있는지 확인합니다. 일부 타사 솔루션은 이 클레임을 발급하거나 MFA 값을 포함하고 있지 않습니다. 클레임이 없거나 MFA 값이 나열되지 않은 경우 인증된 계정에 다단계 인증이 필요한지 확인할 수 있는 방법이 없습니다. 타사 솔루션의 공급업체와 협력하여 솔루션에서 인증 방법 참조 클레임을 발급하는 데 필요한 작업을 확인해야 합니다.
 
-타사 솔루션에서 예상 클레임을 발급하는지 확실하지 않은 경우 [파트너 보안 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)를 참조하세요.
+타사 솔루션에서 예상 클레임을 발급하는지 확실하지 않은 경우 [파트너 보안 요구 사항 테스트](/powershell/partnercenter/test-partner-security-requirements)를 참조하세요.
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO를 사용하여 고객을 지원하지 못하게 MFA가 차단하고 있습니다. 어떻게 해야 하나요?
 
@@ -302,7 +302,7 @@ Microsoft는 추가 보호 기능을 제공하기 위해 보안 보호 기능의
 
 ### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>기준 정책에서 보안 기본값 또는 기타 MFA 솔루션으로 전환하려면 어떻게 해야 하나요?
 
-Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본값"으로 바뀝니다](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults). 이는 사용자와 고객에 대한 더 포괄적인 보호 정책 세트입니다. [보안 기본값](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)은 조직을 ID 도용 관련 보안 공격으로부터 보호하는 데 도움이 됩니다.
+Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본값"으로 바뀝니다](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults). 이는 사용자와 고객에 대한 더 포괄적인 보호 정책 세트입니다. [보안 기본값](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)은 조직을 ID 도용 관련 보안 공격으로부터 보호하는 데 도움이 됩니다.
 
 기준 정책에서 보안 기본값 정책 또는 [다른 MFA 구현 옵션](partner-security-requirements.md#actions-that-you-need-to-take)으로 전환하지 않은 경우 기본 정책 사용 중지로 인해 MFA(다단계 인증) 구현이 제거됩니다. MFA로 보호되는 작업을 수행하는 파트너 테넌트의 모든 사용자는 MFA 확인을 완료하도록 요청받습니다. [여기서](partner-security-requirements-mandating-mfa.md) 자세한 지침을 검토하세요.
 규정을 준수하고 중단을 최소화하려면 다음 작업 중 하나를 수행합니다.
@@ -324,12 +324,12 @@ Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본
 
 ### <a name="resources-for-adopting-secure-application-model"></a>보안 애플리케이션 모델 채택에 대한 리소스
 
-- [보안 애플리케이션 모델 개요](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [보안 애플리케이션 모델 개요](/partner-center/develop/enable-secure-app-model)
 - [파트너 센터: 보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [파트너 센터 인증 문서](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 .NET 샘플 코드](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [CSP 프로그램의 파트너: 보안 애플리케이션 모델을 활성화하는 Java 샘플 코드](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [파트너 센터 인증 문서](/partner-center/develop/partner-center-authentication)
+- [파트너 센터 PowerShell MFA(Multi-Factor Authentication) 문서](/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>지원
 

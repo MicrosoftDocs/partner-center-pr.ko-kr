@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367287"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000547"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
 
@@ -96,13 +96,13 @@ ms.locfileid: "89367287"
 
 파트너 센터 API/SDK를 사용하여 고객이 Microsoft 고객 계약에 동의했는지 확인할 수 있습니다. 이 API/SDK에 대한 자세한 내용은 다음을 참조하세요.
 
-- [Microsoft 고객 계약에 대한 계약 메타데이터 가져오기](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [Microsoft 고객 계약에 대한 계약 메타데이터 가져오기](/partner-center/develop/get-customer-agreement-metadata)
 
-- [고객의 Microsoft 고객 계약 동의 여부 확인](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [고객의 Microsoft 고객 계약 동의 여부 확인](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Microsoft 고객 계약에 대한 고객 동의 확인 가져오기](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Microsoft 고객 계약에 대한 고객 동의 확인 가져오기](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Microsoft 고객 계약 템플릿 다운로드 링크 가져오기](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [Microsoft 고객 계약 템플릿 다운로드 링크 가져오기](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>옵션 2: Microsoft 365 관리 센터에서 고객 동의
 
@@ -115,7 +115,7 @@ ms.locfileid: "89367287"
 - 계약을 검토하고 동의하도록 기존 고객을 초대합니다.
 
 >[!NOTE]
-> [파트너 센터 API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)를 사용하여 Microsoft 고객 계약에 대한 고객의 직접 동의 상태를 가져올 수 있습니다.  
+> [파트너 센터 API/SDK](/partner-center/develop/get-direct-sign-status-of-customer-agreement)를 사용하여 Microsoft 고객 계약에 대한 고객의 직접 동의 상태를 가져올 수 있습니다.  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>새 고객을 만들고 계약을 검토하고 동의하도록 고객 초대
 

@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846933"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000437"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>사용자 계정 만들기 및 역할과 사용 권한 할당
 
@@ -24,7 +24,7 @@ ms.locfileid: "88846933"
 - 글로벌 관리자
 - 사용자 관리 담당자
 
-파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 글로벌 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
+파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 글로벌 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
 
 
 ## <a name="add-a-new-user"></a>새 사용자 추가

@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220391"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999987"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
@@ -36,7 +36,7 @@ ms.locfileid: "89220391"
 
 회사 계정은 Azure AD 사용자 및 사용자에 대한 정보(이메일, 암호, 프로필 데이터, 권한 등)를 호스팅합니다. 또한 회사 계정에는 그룹, 애플리케이션, 회사 및 보안에 관련된 기타 정보가 포함되어 있습니다. 
 
-회사 이메일은 Azure Active Sirectory 테넌트의 일부입니다. 파트너 센터에서 계정을 보유하려면 AAD 테넌트가 있어야 합니다. Azure Active Directory에 대한 자세한 내용은 [Azure AD에서 디렉터리 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조하세요.
+회사 이메일은 Azure Active Sirectory 테넌트의 일부입니다. 파트너 센터에서 계정을 보유하려면 AAD 테넌트가 있어야 합니다. Azure Active Directory에 대한 자세한 내용은 [Azure AD에서 디렉터리 만들기](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)를 참조하세요.
 
 파트너 센터에서는 개인 이메일이 아닌 회사 이메일을 사용하여 계정에 로그인합니다.
 
@@ -49,7 +49,7 @@ CSP 계정 또는 MPN 회사 이메일 계정으로 파트너 센터에 로그�
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>파트너 센터에 기존 Office 365 Azure AD 테넌트를 사용하지 않으려는 경우에는 PMC에서 마이그레이션하기 전에 새 테넌트를 만들면 됩니다.
 
-파트너 센터 계정 설정에 기존 Azure AD 테넌트를 사용하지 않으려는 여러 가지 이유가 있습니다. 파트너 센터로 마이그레이션하기 전에 [Azure Portal](https://ms.portal.azure.com/#home)로 이동하여 새 Azure AD 테넌트를 만듭니다. [Azure Active Directory에서 새 테넌트 만들기](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 AAD 테넌트를 사용하여 파트너 센터 계정을 설정합니다. 테넌트를 만들려면 글로벌 관리자여야 합니다. 
+파트너 센터 계정 설정에 기존 Azure AD 테넌트를 사용하지 않으려는 여러 가지 이유가 있습니다. 파트너 센터로 마이그레이션하기 전에 [Azure Portal](https://ms.portal.azure.com/#home)로 이동하여 새 Azure AD 테넌트를 만듭니다. [Azure Active Directory에서 새 테넌트 만들기](/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 AAD 테넌트를 사용하여 파트너 센터 계정을 설정합니다. 테넌트를 만들려면 글로벌 관리자여야 합니다. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>파트너 센터의 게스트 사용자 역할을 비롯한 사용자 역할
 
@@ -132,7 +132,7 @@ PMC에서 이동하는 MCP 연결은 아무 것도 달라지지 않습니다. �
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>POR(Partner of Record) 협회도 파트너 센터로 이동하나요?
 
-예, POR(Partner of Record)과 관련된 변경 사항은 없습니다. [파트너 ID를 고객과 연결](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)에 대해 자세히 알아보세요.
+예, POR(Partner of Record)과 관련된 변경 사항은 없습니다. [파트너 ID를 고객과 연결](/azure/billing/billing-partner-admin-link-started)에 대해 자세히 알아보세요.
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>파트너 센터로 이동하면 인센티브에 영향이 있나요?
 
@@ -164,6 +164,6 @@ PMC에서 이동하는 MCP 연결은 아무 것도 달라지지 않습니다. �
 
 웹 다이렉트 프로그램에 참여하고 있어서 오류 메시지가 표시되는 경우에는 다음을 수행해야 합니다.
 
-1. portal.Azure.com에 로그인하여 새 Azure AD 테넌트를 만듭니다. 자세한 내용은 [새 Azure AD 테넌트 만들기](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)를 참조하세요.
+1. portal.Azure.com에 로그인하여 새 Azure AD 테넌트를 만듭니다. 자세한 내용은 [새 Azure AD 테넌트 만들기](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)를 참조하세요.
 
 2. 새 Azure AD 테넌트를 만든 후에는 해당 테넌트를 사용하여 Partner Membership Center에서 파트너 센터로 마이그레이션하거나 파트너 센터에서 순 신규 고객으로 등록합니다.

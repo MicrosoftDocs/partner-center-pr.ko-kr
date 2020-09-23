@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
-ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
+ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87433899"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999637"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -283,7 +283,7 @@ MDATP for Servers 350158a2-f253-4ea3-988e-eef9d1b828cf
 ### <a name="additional-resources"></a>추가 리소스
 
 - 자세한 내용은 [Microsoft Defender Advanced Threat Protection](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp) 페이지를 참조하세요.
-- Azure Security Center에 대한 자세한 내용은 [Azure Security Center 설명서](https://docs.microsoft.com/azure/security-center/)를 읽어보세요.
+- Azure Security Center에 대한 자세한 내용은 [Azure Security Center 설명서](/azure/security-center/)를 읽어보세요.
 
 ### <a name="questions"></a>질문이 있으세요?
 
@@ -761,7 +761,7 @@ _________________
 ### <a name="actions-for-indirect-providers"></a>간접 공급자가 수행할 작업
 1. 조직의 주요 관련자에게 Microsoft 파트너 계약을 검토하도록 알립니다.
 2. 전역 관리자 자격 증명을 사용하여 [파트너 센터의 CSP 개요 페이지](https://partner.microsoft.com/pcv/dashboard/overview)에서 Microsoft 파트너 계약에 동의합니다.
-3. [API를 사용하여 간접 재판매인의 서명 상태를 확인합니다](https://docs.microsoft.com/partner-center/develop/verify-indirect-reseller-mpa-status).
+3. [API를 사용하여 간접 재판매인의 서명 상태를 확인합니다](/partner-center/develop/verify-indirect-reseller-mpa-status).
 4. 아래 작업을 완료하도록 간접 재판매인을 지원합니다.
 
 추가 정보 및 리소스는 CSP 갤러리 페이지([여기](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/))를 통해 사용할 수 있습니다.

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390400"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999277"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있는 Azure 서비스
 
@@ -42,9 +42,9 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 특수한 CSP 구성이 필요한 서비스는 다음과 같습니다.
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Azure Active Directory Domain Services](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 - [Xamarin University 교육](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-시작하는 데 도움이 되도록 CSP에서 [Azure DevOps를 설정, 구매 및 관리하는 방법](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer)에 대한 비디오와 설명서를 만들었습니다.
+시작하는 데 도움이 되도록 CSP에서 [Azure DevOps를 설정, 구매 및 관리하는 방법](/vsts/billing/csp/set-up-csp-customer)에 대한 비디오와 설명서를 만들었습니다.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP의 Azure Marketplace 항목
 
@@ -70,7 +70,7 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 - BYOL(사용자 라이선스 필요) 항목: 이러한 항목은 사용할 수 있습니다. BYOL 지원 Azure Marketplace 항목의 전체 목록은 [Azure Marketplace BYOL 페이지](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)에서 사용할 수 있습니다.
 
-- 타사 Azure Marketplace 종량제 항목: 공급자가 CSP 채널에 게시한 경우에 이러한 항목을 사용할 수 있습니다. 자세한 내용은 [Azure Marketplace 제품 구독 판매](https://aka.ms/marketplaceincsp)를 참조하세요.
+- 타사 Azure Marketplace 종량제 항목: 공급자가 CSP 채널에 게시한 경우에 이러한 항목을 사용할 수 있습니다. 자세한 내용은 [Azure Marketplace 제품 구독 판매](csp-commercial-marketplace-overview.md)를 참조하세요.
 
 - Citrix XenApp Essentials: 파트너는 CSP에서 고객을 대신하여 XenApp Essentials를 구입할 수 있습니다. 자세한 내용은 [이제 Microsoft 클라우드 솔루션 공급자 채널을 통해 사용할 수 있는 XenApp Essentials 배포](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/) Citrix 블로그를 참조하세요.
 
@@ -189,6 +189,6 @@ Azure Resource Manager 모델 기반의 모든 서비스는 CSP 프로그램에�
 
 ## <a name="next-steps"></a>다음 단계
 
-- 파트너 센터에서 Azure에 사용할 수 있는 기능에 대해 [알아봅니다](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview).
+- 파트너 센터에서 Azure에 사용할 수 있는 기능에 대해 [알아봅니다](/azure/cloud-solution-provider/overview/partner-center-overview).
 
-- Azure CSP에서 첫 번째 고객을 [만들고](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer) Azure 서비스를 배포합니다.
+- Azure CSP에서 첫 번째 고객을 [만들고](/azure/cloud-solution-provider/customer-management/create-new-customer) Azure 서비스를 배포합니다.

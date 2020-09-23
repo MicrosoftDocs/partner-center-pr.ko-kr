@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89275002"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000157"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>개요: 파트너 센터의 주요 청구 및 세금 문서
 
@@ -43,4 +43,4 @@ ms.locfileid: "89275002"
 | [미결제, 사기 또는 오용](non-payment-fraud-misuse.md) | 파트너 센터에서 고객의 미지불, 사기 또는 오용을 관리하는 방법입니다. |
 | [중단에 대한 SLA 크레딧 요청](request-credit.md) | 서비스 중단이 발생한 경우 고객에 대한 SLA 크레딧을 Microsoft에 요청하는 방법입니다. |
 
-파트너 센터 API 청구 정보 및 리소스를 찾으려는 경우 [개발자 청구 설명서](https://docs.microsoft.com/partner-center/develop/manage-billing)를 참조하세요.
+파트너 센터 API 청구 정보 및 리소스를 찾으려는 경우 [개발자 청구 설명서](/partner-center/develop/manage-billing)를 참조하세요.

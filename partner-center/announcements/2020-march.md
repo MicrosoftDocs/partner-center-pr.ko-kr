@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 1b3578a1af437b3a75a774c5cc559b8a8c50c622
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943980"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999507"
 ---
 # <a name="march-2020-announcements"></a>2020년 3월 공지
 
@@ -86,7 +86,7 @@ _________________
 - 날짜: 2020-03-20
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://docs.microsoft.com/partner-center/)
+- [자세한 내용](../index.yml)
 
 ### <a name="summary"></a>요약:
 

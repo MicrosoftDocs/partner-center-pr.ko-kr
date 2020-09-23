@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468782"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999677"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스 또는 서비스 추가
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468782"
 - 영업 상담원
 - 기술 지원팀 상담원
 
-고객이 현재 구독에서 제공하는 것보다 많은 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)을 참조하세요.
+고객이 현재 구독에서 제공하는 것보다 많은 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP 프로그램에서 지원되는 업그레이드 <a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ ms.locfileid: "87468782"
 
 3. 새 제품을 선택하고 **제출**을 선택합니다.
 
-4. 특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다. 이 경우 파트너 센터에서 영향을 받은 계정 및 서비스 목록을 제공합니다. 도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](https://go.microsoft.com/fwlink/p/?LinkId=723576)을 참조하세요.
+4. 특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다. 이 경우 파트너 센터에서 영향을 받은 계정 및 서비스 목록을 제공합니다. 도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.
+
 
 ## <a name="next-steps"></a>다음 단계
 
-- [다른 비즈니스용 Microsoft 365 계획으로 전환](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [다른 비즈니스용 Microsoft 365 계획으로 전환](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [위임된 관리자 권한 요청](request-a-relationship-with-a-customer.md)
 

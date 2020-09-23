@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220224"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999587"
 ---
 # <a name="january-2020-announcements"></a>2020년 1월 공지
 
@@ -97,8 +97,8 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1(GCC High)
 ### <a name="additional-resources"></a>추가 리소스
 
 - [Microsoft 365 Government 제품 페이지](https://www.microsoft.com/microsoft-365/government/)
-- [GCC-High의 Teams 페이지(문서)](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [Microsoft Teams에서 미팅룸 설정](https://docs.microsoft.com/microsoftteams/room-systems/)
+- [GCC-High의 Teams 페이지(문서)](/MicrosoftTeams/plan-for-government-gcc-high)
+- [Microsoft Teams에서 미팅룸 설정](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -377,8 +377,8 @@ Customer Insights 라이선스 업데이트
 
 - [Dynamics 365 홈페이지](https://dynamics.microsoft.com/)
 - [혼합 현실 앱 가이드 홈페이지](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [비즈니스 앱 사기 방지 홈페이지](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [Power Platform 제품 홈페이지](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [비즈니스 앱 사기 방지 홈페이지](/dynamics365/fraud-protection/overview)
+- [Power Platform 제품 홈페이지](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [2020년 Power Apps 및 Flow 라이선싱 업데이트](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 라이선싱](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 

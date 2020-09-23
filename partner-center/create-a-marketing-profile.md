@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435272"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000447"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 ## <a name="improve-the-visibility-of-your-profile"></a>프로필의 가시성 향상 
 
-- **[요청에 신속하게 응답하세요](responding-to-referrals.md)** . 고객 추천을 받은 후 신속하게 응답할수록 향후 고객의 검색 페이지에서 보다 좋은 결과를 얻을 수 있습니다.
+- **[요청에 신속하게 응답하세요](manage-leads.md)** . 고객 추천을 받은 후 신속하게 응답할수록 향후 고객의 검색 페이지에서 보다 좋은 결과를 얻을 수 있습니다.
+
 - **태그를 신중하게 선택하세요**.  회사의 제품, 솔루션, 가치 제안 및 일관적으로 성공을 보여줄 수 있는 고유의 포지션을 가장 잘 나타내는 태그를 되도록이면 적게 사용하는 것이 좋습니다.  이렇게 하면 향후 검색 결과에서 좋은 성과를 얻을 수 있습니다.
 - Microsoft를 통해 **역량 태그를 획득하여** Microsoft 제품에 대한 숙련도를 보여줍니다.
 - 협력에 만족한 고객으로부터 **보증 태그를 획득합니다**.
 
 ## <a name="next-steps"></a>다음 단계
 
-[추천에 응답](responding-to-referrals.md)
+[추천에 응답](manage-leads.md)

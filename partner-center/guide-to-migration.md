@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114894"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000567"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
@@ -108,6 +108,6 @@ AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 
 
 - [회사의 비즈니스 프로필 만들기](create-a-marketing-profile.md)
 
-- [추천을 통해 고객과 연결](responding-to-referrals.md)
+- [추천을 통해 고객과 연결](manage-leads.md)
 
 - [PMC에서 파트너 센터로 여러 회사 마이그레이션에 대한 가이드](move-multiple-companies.md)

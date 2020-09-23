@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944440"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999617"
 ---
 # <a name="february-2020-announcements"></a>2020년 2월 공지
 
@@ -75,7 +75,7 @@ _________________
 - **옵션 1:** 파트너는 새로운 Microsoft 고객 계약을 기존 Microsoft 클라우드 계약에 사용했던 것과 동일한 방식으로 고객에게 제공할 수 있습니다. 고객이 계약을 검토하고 동의한 후 파트너는 Microsoft에 고객의 동의를 증명해야 합니다. 이 방식으로 Microsoft 고객 계약의 고객 동의를 확인하는 파트너를 지원하기 위해 파트너 센터 대시보드, 파트너 센터 API 및 .NET SDK가 업데이트되었습니다.
 - **옵션 2(새로운 기능):** 파트너는 계약을 보고 서명하도록 인증된 Microsoft 포털(Microsoft 365 관리 센터)로 고객을 초대할 수 있습니다. 이 옵션을 사용하면 고객이 Microsoft 365 관리 센터 내에서 직접 동의한 후 조건 승인이 확인되므로 파트너가 계약 관리를 간소화하고 더 빠르게 구현하며 작업을 줄일 수 있습니다.
 
-파트너는 파트너 센터 대시보드 또는 [이 새 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)를 통해 제공되는 새로운 기능을 사용하여 고객이 새 계약에 동의했는지를 알 수 있습니다.
+파트너는 파트너 센터 대시보드 또는 [이 새 API](/partner-center/develop/get-direct-sign-status-of-customer-agreement)를 통해 제공되는 새로운 기능을 사용하여 고객이 새 계약에 동의했는지를 알 수 있습니다.
 
 2020년 2월 1일부터 Microsoft 퍼블릭 클라우드의 모든 지역에서 모든 CSP 제품에 대해 새 주문을 하려면 Microsoft 고객 계약의 고객 동의에 대한 파트너의 확인이 필요합니다. CSP 파트너는 고객이 이러한 옵션 중 하나를 통해 Microsoft 고객 계약에 동의했는지를 확인하지 않고는 실제 사용자 수 변경 또는 기존 구매의 갱신 등 새로운 구매를 더 이상 할 수 없습니다.
  
@@ -98,7 +98,7 @@ _________________
 ### <a name="change-log"></a>로그 변경:
 
 - 2020년 2월 11일: 원래 공지가 게시됨
-- 2020년 2월 25일: 고객의 직접 동의 상태를 확인할 수 있는 [이 새 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)로 공지가 업데이트됨.
+- 2020년 2월 25일: 고객의 직접 동의 상태를 확인할 수 있는 [이 새 API](/partner-center/develop/get-direct-sign-status-of-customer-agreement)로 공지가 업데이트됨.
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>요약:
 
-[필수 파트너 보안 요구 사항](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)에 관한 중요 업데이트입니다. **2020년 2월 29일**, Azure AD(Azure Active Directory) ["기준" 정책이 제거되며](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) 여러분과 여러분의 고객을 위한 더 포괄적인 보호 정책인 "보안 기본값"으로 대체됩니다. Azure AD의 보안 기본값은 일반적인 공격에 대해 미리 구성된 보안 설정으로 조직을 보호하는 데 도움이 될 수 있습니다.
+[필수 파트너 보안 요구 사항](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)에 관한 중요 업데이트입니다. **2020년 2월 29일**, Azure AD(Azure Active Directory) ["기준" 정책이 제거되며](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) 여러분과 여러분의 고객을 위한 더 포괄적인 보호 정책인 "보안 기본값"으로 대체됩니다. Azure AD의 보안 기본값은 일반적인 공격에 대해 미리 구성된 보안 설정으로 조직을 보호하는 데 도움이 될 수 있습니다.
 
 Microsoft 시스템에 의하면, 귀사에서는 현재 기준 정책을 사용하지만, 아직 보안 기본값으로 전환하지 않은 것으로 나타납니다. **2월 29일 전에 보안 기본값으로 전환하지 않으면 파트너 테넌트에서 기준 정책이 사용하도록 설정된 MFA(다단계 인증)를 사용할 수 없게 됩니다. 비즈니스 중단을 방지하려면 가능한 한 빨리 보안 기본값을 사용하도록 설정하세요**.
 
 ### <a name="key-considerations"></a>주요 고려 사항
 
-보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](../partner-security-requirements.md#actions-that-you-need-to-take) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 아래에서 [Azure AD를 사용하여 조직에 대해 MFA를 사용하도록 설정하는 방법](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)과 주요 고려 사항을 검토하세요.
+보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](../partner-security-requirements.md#actions-that-you-need-to-take) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 아래에서 [Azure AD를 사용하여 조직에 대해 MFA를 사용하도록 설정하는 방법](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)과 주요 고려 사항을 검토하세요.
 
-- [조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 보안 기본값을 사용할 수 없습니다.
+- [조건부 액세스](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 보안 기본값을 사용할 수 없습니다.
 - 보안 기본값은 관리자 정책, 최종 사용자 보호 정책 및 서비스 관리에 필요한 MFA를 포함하여 모든 정책을 한 번에 적용합니다.
 - 현재 파트너에 대한 레거시 인증 차단은 적용되지 않습니다. 그러나 손상된 ID와 관련된 대부분의 이벤트가 레거시 인증을 사용하는 로그인 시도에서 발생하므로 파트너는 이러한 이전 프로토콜에서 이동하는 것이 좋습니다.
 - 보안 기본값은 자동으로 Azure AD Connect 동기화 계정을 제외합니다.
-- 보안 기본값은 미리 보기 [기준 정책](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)의 일반 공급 대체 기능입니다. 파트너가 보안 기본값을 사용하도록 설정한 후에는 더 이상 기준 정책을 사용하도록 설정할 수 없습니다.
+- 보안 기본값은 미리 보기 [기준 정책](/azure/active-directory/conditional-access/concept-baseline-protection)의 일반 공급 대체 기능입니다. 파트너가 보안 기본값을 사용하도록 설정한 후에는 더 이상 기준 정책을 사용하도록 설정할 수 없습니다.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>보안 기본값 다음 단계 및 리소스
 
 현재 기준 정책을 사용 중인 파트너:
 
-- [보안 기본값](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) 및 [조직 MFA 사용 설정](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)에 대해 자세히 알아보세요.
+- [보안 기본값](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) 및 [조직 MFA 사용 설정](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)에 대해 자세히 알아보세요.
 - 기준 정책에서 보안 기본값으로의 전환을 계획합니다.
-- 가능한 한 빨리 각 파트너 테넌트에 대해 [한 번의 클릭으로 보안 기본값을 사용하도록 설정](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)합니다. 보안 기본값이 요구 사항을 충족하지 않는 경우 다른 옵션을 고려합니다.
+- 가능한 한 빨리 각 파트너 테넌트에 대해 [한 번의 클릭으로 보안 기본값을 사용하도록 설정](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)합니다. 보안 기본값이 요구 사항을 충족하지 않는 경우 다른 옵션을 고려합니다.
 
 간접 공급자:
 
@@ -270,7 +270,7 @@ Azure 플랜 소비 미터 및 예약을 거래하고 재판매하며 Microsoft 
 
 [CSP의 Azure에 대한 새로운 상거래 환경](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/)을 통해 더 많은 고객을 확보하고 간소화된 구입 및 판매 환경을 통해 수익성을 높일 수 있습니다.
 
- 새로운 환경의 일부로, **소비 및 예약에 대한 Azure 플랜 가격 책정** 및 Microsoft에서 지원하는 청구 통화에 대한 **환율 지수**를 프로그래밍 방식으로 검색하는 [새 가격 책정 API](https://docs.microsoft.com/partner/develop/pricing)를 사용할 수 있게 되었음을 발표하게 되어 기쁘게 생각합니다. 파트너는 새 가격 책정 API를 사용하여 가격 책정 정보를 검색하는 프로세스를 자동화하고 간소화할 수 있습니다.
+ 새로운 환경의 일부로, **소비 및 예약에 대한 Azure 플랜 가격 책정** 및 Microsoft에서 지원하는 청구 통화에 대한 **환율 지수**를 프로그래밍 방식으로 검색하는 [새 가격 책정 API](/partner/develop/pricing)를 사용할 수 있게 되었음을 발표하게 되어 기쁘게 생각합니다. 파트너는 새 가격 책정 API를 사용하여 가격 책정 정보를 검색하는 프로세스를 자동화하고 간소화할 수 있습니다.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>새 가격 책정 API가 제공하는 기능:
 
@@ -281,13 +281,13 @@ Azure 플랜 소비 미터 및 예약을 거래하고 재판매하며 Microsoft 
 
 >[!Note] 
 >이 API는 Azure 플랜 가격 책정에 대한 순 신규 API 리소스입니다.
-- Azure 플랜에 속하지 않는 이전 Azure 구독에 배포된 기존 Azure 리소스 또는 예약에는 계속 기존 [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure)를 사용해야 합니다.
+- Azure 플랜에 속하지 않는 이전 Azure 구독에 배포된 기존 Azure 리소스 또는 예약에는 계속 기존 [RateCard API](/partner-center/develop/get-prices-for-microsoft-azure)를 사용해야 합니다.
 - 이 API는 파트너 센터 API에 대한 다른 엔드포인트(API를 호스트하는 도메인)에 있습니다.
 
 ### <a name="partner-next-steps-and-resources"></a>파트너 다음 단계 및 리소스:
 
 - [개발자 설명서](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/) 검토
-- [새 API](https://docs.microsoft.com/partner/develop/pricing)를 사용하여 자동화된 프로세스 구현
+- [새 API](/partner/develop/pricing)를 사용하여 자동화된 프로세스 구현
 - 가격 관련 질문은 [Azure 플랜 가격 책정 설명서](../azure-plan-price-list.md)를 참조하세요.
 - [Azure 플랜 및 CSP의 새로운 상거래 환경에 대해 자세히 알아보기](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 

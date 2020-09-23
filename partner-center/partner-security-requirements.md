@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220215"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000027"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>파트너 센터 또는 파트너 센터 API를 사용하는 파트너에 대한 파트너 보안 요구 사항
 
@@ -54,9 +54,9 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 파트너 보안 요구 사항을 준수하려면 파트너 테넌트의 각 사용자 계정에 다단계 인증을 적용해야 합니다. 다음 방법 중 하나로 이 작업을 수행할 수 있습니다.
 
-- [Azure AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
+- [Azure AD 보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
 
-- 각 사용자 계정에 대해 Azure Active Directory Premium을 구입합니다. 자세한 내용은 [클라우드 기반 Azure Multi-Factor Authentication 배포 계획](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)을 참조하세요.
+- 각 사용자 계정에 대해 Azure Active Directory Premium을 구입합니다. 자세한 내용은 [클라우드 기반 Azure Multi-Factor Authentication 배포 계획](/azure/active-directory/authentication/howto-mfa-getstarted)을 참조하세요.
 
 - 타사 솔루션을 사용하여 파트너 테넌트의 각 사용자 계정에 다단계 인증 적용 솔루션이 예상 정보를 제공하도록 보장하려면 [보안 요구 사항이 적용되는 방식](#how-the-requirements-will-be-enforced)을 참조하세요.
 
@@ -75,18 +75,18 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 - 보안 기본값을 사용하면 모든 정책이 한 번에 활성화됩니다.
 
-- [조건부 액세스](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 [보안 기본값을 사용할 수 없습니다](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+- [조건부 액세스](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 [보안 기본값을 사용할 수 없습니다](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
 
 - 현재 파트너에 대한 레거시 인증 차단은 적용되지 않습니다. 그러나 신원 도용과 관련된 대부분의 이벤트가 레거시 인증을 사용하는 로그인 시도에서 발생하므로 파트너는 이러한 이전 프로토콜에서 이전하는 것이 좋습니다.
 
 - Azure AD Connect 동기화 계정은 보안 기본값에서 제외됩니다.
 
-- 자세한 내용은 [조직에 Multi-Factor Authentication 사용](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) 및 [Azure Active Directory 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 참조하세요.
+- 자세한 내용은 [조직에 Multi-Factor Authentication 사용](/azure/active-directory/authentication/concept-mfa-get-started) 및 [Azure Active Directory 보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 참조하세요.
 
 > [!NOTE]
 > Azure AD 보안 기본값은 기본 보호 정책의 진화를 단순화한 것입니다. 기준 보호 정책을 이미 사용한 경우 보안 기본값을 사용하는 것이 좋습니다.
 
-기준 정책에서 보안 기본값으로 전환하려는 경우 [보안 기본값이란 무엇인가요?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)를 참조하세요.
+기준 정책에서 보안 기본값으로 전환하려는 경우 [보안 기본값이란 무엇인가요?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)를 참조하세요.
 
 ### <a name="consideration"></a>고려 사항
 
@@ -96,17 +96,17 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>최신 인증 사용을 지원하지 않는 애플리케이션 또는 디바이스가 있나요?
 
-다단계 인증 레거시 인증을 적용할 때 IMAP, POP3, SMTP 등의 프로토콜을 사용하면 차단됩니다. 이러한 프로토콜은 다단계 인증을 지원하지 않기 때문입니다. 이러한 제한 사항을 해결하려면 [앱 암호](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)라고 하는 기능을 사용하여 애플리케이션 또는 디바이스에서 계속 인증합니다. 앱 암호를 해당 환경에서 사용할 수 있는지 확인하려면 [여기](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)에 설명된 앱 암호 사용에 대한 고려 사항을 검토해야 합니다.
+다단계 인증 레거시 인증을 적용할 때 IMAP, POP3, SMTP 등의 프로토콜을 사용하면 차단됩니다. 이러한 프로토콜은 다단계 인증을 지원하지 않기 때문입니다. 이러한 제한 사항을 해결하려면 [앱 암호](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)라고 하는 기능을 사용하여 애플리케이션 또는 디바이스에서 계속 인증합니다. 앱 암호를 해당 환경에서 사용할 수 있는지 확인하려면 [여기](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)에 설명된 앱 암호 사용에 대한 고려 사항을 검토해야 합니다.
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>파트너 테넌트와 연결된 라이선스에서 제공하는 Office 365를 사용하는 사용자가 있나요?
 
-솔루션을 구현하기 전에 파트너 테넌트의 사용자가 어떤 Microsoft Office 버전을 사용하는지 확인하는 것이 좋습니다. 작업을 수행하기 전에 [Office 365 배포의 다단계 인증 계획](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)을 살펴보세요. 사용자가 Outlook과 같은 애플리케이션의 연결 문제를 경험하게 될 가능성이 있습니다. 다단계 인증을 적용하기 전에 Outlook 2013 SP1 이상을 사용 중이고, 조직에서 최신 인증을 사용하는지 확인해야 합니다. 자세한 내용은 [Exchange Online에서 최신 인증 사용](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조하세요.
+솔루션을 구현하기 전에 파트너 테넌트의 사용자가 어떤 Microsoft Office 버전을 사용하는지 확인하는 것이 좋습니다. 작업을 수행하기 전에 [Office 365 배포의 다단계 인증 계획](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)을 살펴보세요. 사용자가 Outlook과 같은 애플리케이션의 연결 문제를 경험하게 될 가능성이 있습니다. 다단계 인증을 적용하기 전에 Outlook 2013 SP1 이상을 사용 중이고, 조직에서 최신 인증을 사용하는지 확인해야 합니다. 자세한 내용은 [Exchange Online에서 최신 인증 사용](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조하세요.
 
-Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스에서 최신 인증을 사용하도록 설정하려면 레지스트리 키를 두 개 만들어야 합니다. [Windows 디바이스에서 Office 2013에 최신 인증 사용](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)을 참조하세요.
+Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스에서 최신 인증을 사용하도록 설정하려면 레지스트리 키를 두 개 만들어야 합니다. [Windows 디바이스에서 Office 2013에 최신 인증 사용](/office365/admin/security-and-compliance/enable-modern-authentication)을 참조하세요.
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>사용자가 업무 시간에 모바일 디바이스를 사용하지 못하게 하는 정책이 있나요?
 
-직원이 업무 시간에 모바일 디바이스를 사용하지 못하게 하는 회사 정책은 구현하는 다단계 인증 솔루션에 영향을 주므로 이러한 정책을 식별하는 것이 중요합니다. 확인에 인증 앱만 사용할 수 있는 [Azure AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하여 제공되는 솔루션 등의 여러 솔루션이 있습니다. 조직에 모바일 디바이스 사용을 금지하는 정책이 있는 경우 다음 옵션 중 하나를 고려합니다.
+직원이 업무 시간에 모바일 디바이스를 사용하지 못하게 하는 회사 정책은 구현하는 다단계 인증 솔루션에 영향을 주므로 이러한 정책을 식별하는 것이 중요합니다. 확인에 인증 앱만 사용할 수 있는 [Azure AD 보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하여 제공되는 솔루션 등의 여러 솔루션이 있습니다. 조직에 모바일 디바이스 사용을 금지하는 정책이 있는 경우 다음 옵션 중 하나를 고려합니다.
 
 - 보안 시스템에서 실행할 수 있는 시간 기반 TOTP(시간 제약이 있는 일회성 암호) 애플리케이션 배포
 
@@ -124,11 +124,11 @@ Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스�
 
 - Az, AzureRM, Azure AD, MS Online 등의 모듈을 활용하는 PowerShell 스크립트
 
-위의 목록은 포괄적이지 않습니다. 따라서 사용 중인 환경에서 인증에 사용자 자격 증명을 활용하는 애플리케이션 또는 서비스에 대한 완전한 평가를 수행하는 것이 중요합니다. 다단계 인증에 대한 요구 사항에 대처하려면 [보안 애플리케이션 모델 프레임워크](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)의 지침을 구현해야 합니다(가능한 경우).
+위의 목록은 포괄적이지 않습니다. 따라서 사용 중인 환경에서 인증에 사용자 자격 증명을 활용하는 애플리케이션 또는 서비스에 대한 완전한 평가를 수행하는 것이 중요합니다. 다단계 인증에 대한 요구 사항에 대처하려면 [보안 애플리케이션 모델 프레임워크](/partner-center/develop/enable-secure-app-model)의 지침을 구현해야 합니다(가능한 경우).
 
 ## <a name="accessing-your-environment"></a>환경 액세스
 
-다단계 인증을 수행하지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 활용할 수 있습니다. 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 보고서를 가져오는 방법을 찾고 있으면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 활용해야 합니다.
+다단계 인증을 수행하지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 활용할 수 있습니다. 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 보고서를 가져오는 방법을 찾고 있으면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 활용해야 합니다.
 
 ## <a name="how-the-requirements-will-be-enforced"></a>요구 사항이 적용되는 방식
 
@@ -138,7 +138,7 @@ Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스�
 
 Azure Multi-Factor Authentication 또는 Azure AD 보안 기본값을 사용하는 경우 수행해야 하는 추가 작업이 없습니다.
 
-타사 다단계 인증 솔루션을 사용하는 경우 MFA 클레임이 발급되지 않을 가능성이 있습니다. 이 클레임이 없는 경우 Azure Active Directory는 다단계 인증에서 인증 요청을 요구했는지 확인할 수 없습니다. 솔루션에서 예상 클레임을 발급하는지 확인하는 방법에 대한 자세한 내용은 [파트너 보안 요구 사항 테스트](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)를 참조하세요. 
+타사 다단계 인증 솔루션을 사용하는 경우 MFA 클레임이 발급되지 않을 가능성이 있습니다. 이 클레임이 없는 경우 Azure Active Directory는 다단계 인증에서 인증 요청을 요구했는지 확인할 수 없습니다. 솔루션에서 예상 클레임을 발급하는지 확인하는 방법에 대한 자세한 내용은 [파트너 보안 요구 사항 테스트](/powershell/partnercenter/test-partner-security-requirements)를 참조하세요. 
 
 > [!IMPORTANT]
 > 타사 솔루션이 예상 클레임을 발급하지 않을 경우 솔루션을 개발한 공급업체와 협력하여 어떤 조치가 필요한지 확인해야 합니다.
@@ -150,4 +150,4 @@ Azure Multi-Factor Authentication 또는 Azure AD 보안 기본값을 사용하�
 - [파트너 센터 보안 지침 그룹 커뮤니티](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance): 파트너 센터 보안 지침 그룹 커뮤니티는 예정된 이벤트에 대해 알아보고 궁금한 점을 물어볼 수 있는 온라인 커뮤니티입니다.
 - [파트너 센터 .NET 샘플](https://github.com/microsoft/partner-center-dotnet-samples): 이 GitHub 리포지토리에는 보안 애플리케이션 모델 프레임워크를 구현하는 방법을 보여주며, .NET을 사용하여 개발된 샘플이 포함되어 있습니다.
 - [파트너 센터 Java 샘플](https://github.com/microsoft/partner-center-java-samples): 이 GitHub 리포지토리에는 보안 애플리케이션 모델 프레임워크를 구현하는 방법을 보여주며, Java를 사용하여 개발된 샘플이 포함되어 있습니다.
-- [파트너 센터 PowerShell - Multi-Factor Authentication](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth): 이 Multi-Factor Authentication 문서는 PowerShell을 사용하여 보안 애플리케이션 모델 프레임워크를 구현하는 방법에 대해 자세히 설명합니다.
+- [파트너 센터 PowerShell - Multi-Factor Authentication](/powershell/partnercenter/multi-factor-auth): 이 Multi-Factor Authentication 문서는 PowerShell을 사용하여 보안 애플리케이션 모델 프레임워크를 구현하는 방법에 대해 자세히 설명합니다.

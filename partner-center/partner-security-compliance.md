@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220201"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999837"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>파트너 보안 요구 사항 상태 - 답변을 받고 현재 상태에 대한 보고서 확인
 
@@ -37,7 +37,7 @@ ms.locfileid: "89220201"
 각 사용자가 인증할 때마다 MFA가 필요한지 확인하려고 합니다. 이 환경은 다음 방법 중 하나를 통해 수행할 수 있습니다.
 
 - Azure AD Premium을 구현하여 MFA가 각 사용자에게 적용되는지 확인
-- [Azure AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
+- [Azure AD 보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
 - 타사 솔루션을 구현하여 MFA가 각 사용자에게 적용되는지 확인
 
 ## <a name="partner-security-requirements-status"></a>파트너 보안 요구 사항 상태
@@ -53,10 +53,10 @@ ms.locfileid: "89220201"
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP 테넌트의 MFA 구성
 
-이 메트릭은 매일 캡처하고 보고한 CSP 테넌트의 MFA 구성과 관련이 있습니다. [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA를 적용한 사용자 계정의 비율을 측정합니다. 예:
+이 메트릭은 매일 캡처하고 보고한 CSP 테넌트의 MFA 구성과 관련이 있습니다. [MFA 옵션](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)을 사용하여 MFA를 적용한 사용자 계정의 비율을 측정합니다. 예:
 
 - Contoso는 테넌트에 110개의 사용자 계정이 있는 CSP 파트너이며, 해당 사용자 계정 중 10개는 사용하지 않도록 설정되어 있습니다. 
-- 나머지 100개의 사용자 계정 중 90개는 제공된 [MFA 옵션](https://aka.ms/partner-mfa-get-started)을 사용하여 MFA가 적용됩니다. 따라서 메트릭은 90%를 표시합니다. 
+- 나머지 100개의 사용자 계정 중 90개는 제공된 [MFA 옵션](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)을 사용하여 MFA가 적용됩니다. 따라서 메트릭은 90%를 표시합니다. 
 
 ### <a name="partner-center-activities-with-mfa"></a>MFA를 통한 파트너 센터 활동
 
@@ -127,7 +127,7 @@ MFA를 구현한 파트너의 경우 파트너 센터 MFA 보고서의 메트릭
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>MFA를 사용하지 않고 파트너 센터에 로그인한 사용자 식별
 
-MFA 확인 없이 파트너 센터에 로그인한 사용자를 파악하여 현재 MFA 구현과 대조한다면 도움이 될 수 있습니다. [Azure AD 로그인 보고서](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)를 사용하여 사용자가 MFA 확인을 완료했는지 확인할 수 있습니다. Azure AD 로그인 보고서는 현재 Azure AD Premium 또는 Azure AD Premium이 포함된 O365 SKU(예: EMS)를 구독한 파트너만 사용할 수 있습니다.
+MFA 확인 없이 파트너 센터에 로그인한 사용자를 파악하여 현재 MFA 구현과 대조한다면 도움이 될 수 있습니다. [Azure AD 로그인 보고서](/azure/active-directory/reports-monitoring/concept-sign-ins)를 사용하여 사용자가 MFA 확인을 완료했는지 확인할 수 있습니다. Azure AD 로그인 보고서는 현재 Azure AD Premium 또는 Azure AD Premium이 포함된 O365 SKU(예: EMS)를 구독한 파트너만 사용할 수 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 

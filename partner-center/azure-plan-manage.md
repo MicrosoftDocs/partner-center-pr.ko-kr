@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175952"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000607"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 
@@ -27,11 +27,11 @@ ms.locfileid: "86175952"
 
 - **AOBO(관리자 위임)** – [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)를 사용하면 파트너 테넌트에서 관리 에이전트 역할이 있는 모든 사용자는 CSP 프로그램을 통해 만드는 Azure 구독에 대한 RBAC 소유자 액세스 권한을 갖게 됩니다.
 
-- **Azure Lighthouse**: AOBO는 여러 고객을 대상으로 작동하는 별도의 그룹을 만들거나 그룹 또는 사용자에 대해 여러 역할을 사용할 수 있는 유연성을 허용하지 않습니다. Azure Lighthouse를 사용하면 여러 그룹을 여러 고객 또는 역할에 할당할 수 있습니다. 사용자는 Azure 위임된 리소스 관리를 통해 적절한 수준의 액세스 권한을 갖게 되므로 관리 에이전트 역할이 있는(따라서 전체 AOBO 액세스 권한을 갖는) 사용자 수를 줄일 수 있습니다. 이렇게 하면 고객 리소스에 대한 불필요한 액세스를 제한하여 보안을 향상할 수 있습니다. 또한 유연성이 향상되어 여러 고객을 대규모로 관리할 수 있습니다. 자세한 내용은 [Azure Lighthouse 및 클라우드 솔루션 공급자 프로그램](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)을 참조하세요.
+- **Azure Lighthouse**: AOBO는 여러 고객을 대상으로 작동하는 별도의 그룹을 만들거나 그룹 또는 사용자에 대해 여러 역할을 사용할 수 있는 유연성을 허용하지 않습니다. Azure Lighthouse를 사용하면 여러 그룹을 여러 고객 또는 역할에 할당할 수 있습니다. 사용자는 Azure 위임된 리소스 관리를 통해 적절한 수준의 액세스 권한을 갖게 되므로 관리 에이전트 역할이 있는(따라서 전체 AOBO 액세스 권한을 갖는) 사용자 수를 줄일 수 있습니다. 이렇게 하면 고객 리소스에 대한 불필요한 액세스를 제한하여 보안을 향상할 수 있습니다. 또한 유연성이 향상되어 여러 고객을 대규모로 관리할 수 있습니다. 자세한 내용은 [Azure Lighthouse 및 클라우드 솔루션 공급자 프로그램](/azure/lighthouse/concepts/cloud-solution-provider)을 참조하세요.
 
--  **디렉터리 또는 게스트 사용자 또는 [서비스 사용자](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : 고객 디렉터리에 사용자를 추가하거나 게스트 사용자를 추가하고 특정 RBAC 역할을 할당하여 CSP 구독에 대한 세밀한 액세스 권한을 위임할 수 있습니다.
+-  **디렉터리 또는 게스트 사용자 또는 [서비스 사용자](/azure/active-directory/develop/app-objects-and-service-principals)** : 고객 디렉터리에 사용자를 추가하거나 게스트 사용자를 추가하고 특정 RBAC 역할을 할당하여 CSP 구독에 대한 세밀한 액세스 권한을 위임할 수 있습니다.
 
-보안을 위해 사용자에게 작업 수행에 필요한 최소한의 권한만 부여하는 것이 좋습니다. [Azure Active Directory 권한 있는 ID 관리 리소스](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)를 참조하세요.
+보안을 위해 사용자에게 작업 수행에 필요한 최소한의 권한만 부여하는 것이 좋습니다. [Azure Active Directory 권한 있는 ID 관리 리소스](/azure/active-directory/privileged-identity-management/pim-configure)를 참조하세요.
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>고객의 Azure 리소스를 관리할 수 있도록 파트너 ID(MPN ID)를 자격 증명에 연결하세요.
 
@@ -40,9 +40,9 @@ ms.locfileid: "86175952"
 |**범주**   |**시나리오**   |**MPN ID 연결**|
 |-----------------|:------------------------|:------------------|
 |AOBO   |CSP 직접 파트너 또는 간접 공급자는 고객용 구독을 만들고 AOBO를 사용하여 CSP 직접 파트너 또는 간접 공급자를 구독의 기본 소유자로 만듭니다. CSP 직접 파트너 또는 간접 공급자는 AOBO를 사용하여 구독에 대한 간접 재판매인 액세스를 제공합니다.|자동(파트너 작업 필요 없음)|
-|Azure Lighthouse|파트너가 [Marketplace에 새 관리형 서비스 제품](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers)을 만듭니다. 이 제품은 CSP 구독에서 허용되고 파트너는 CSP 구독에 대한 액세스 권한을 얻습니다.|자동(파트너 작업 필요 없음)|
-|Azure Lighthouse|파트너가 Azure 구독에서 [ARM 템플릿](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)을 배포합니다.|파트너는 MPN ID를 파트너 테넌트의 사용자 또는 서비스 사용자에 연결해야 합니다. 자세한 내용은 [파트너 ID 연결](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)을 참조하세요.|
-|디렉터리 또는 게스트 사용자|파트너는 고객 디렉터리에 새 사용자 또는 서비스 사용자를 만들고 사용자에게 CSP 구독에 대한 액세스 권한을 부여합니다. 파트너는 고객 디렉터리에 새 사용자 또는 서비스 사용자를 만듭니다. 파트너는 사용자를 그룹에 추가하고 해당 그룹에 CSP 구독에 대한 액세스 권한을 제공합니다.|파트너는 MPN ID를 고객 테넌트의 사용자 또는 서비스 사용자에 연결해야 합니다. 자세한 내용은 [파트너 ID 연결](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)을 참조하세요.|
+|Azure Lighthouse|파트너가 [Marketplace에 새 관리형 서비스 제품](/azure/lighthouse/concepts/managed-services-offers)을 만듭니다. 이 제품은 CSP 구독에서 허용되고 파트너는 CSP 구독에 대한 액세스 권한을 얻습니다.|자동(파트너 작업 필요 없음)|
+|Azure Lighthouse|파트너가 Azure 구독에서 [ARM 템플릿](/azure/lighthouse/how-to/onboard-customer)을 배포합니다.|파트너는 MPN ID를 파트너 테넌트의 사용자 또는 서비스 사용자에 연결해야 합니다. 자세한 내용은 [파트너 ID 연결](/azure/billing/billing-partner-admin-link-started)을 참조하세요.|
+|디렉터리 또는 게스트 사용자|파트너는 고객 디렉터리에 새 사용자 또는 서비스 사용자를 만들고 사용자에게 CSP 구독에 대한 액세스 권한을 부여합니다. 파트너는 고객 디렉터리에 새 사용자 또는 서비스 사용자를 만듭니다. 파트너는 사용자를 그룹에 추가하고 해당 그룹에 CSP 구독에 대한 액세스 권한을 제공합니다.|파트너는 MPN ID를 고객 테넌트의 사용자 또는 서비스 사용자에 연결해야 합니다. 자세한 내용은 [파트너 ID 연결](/azure/billing/billing-partner-admin-link-started)을 참조하세요.|
 
 ## <a name="confirm-that-you-have-admin-access"></a>관리자 액세스 권한이 있는지 확인
 
@@ -50,7 +50,7 @@ ms.locfileid: "86175952"
 
 - 일별 사용량 파일 검토 - 일일 사용량 파일 내의 단가 및 유효 단가를 검토하고 할인이 적용되는지 확인하여 관리자 액세스 권한이 있는지 확인할 수 있습니다. 할인을 받고 있다면 현재 관리자입니다.
 
-- Azure 모니터 경고 만들기 - CSP 구독에서 RBAC 액세스가 제거될 때 알림을 받도록 Azure Monitor 활동 로그 [경고](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)를 만들 수 있습니다.
+- Azure 모니터 경고 만들기 - CSP 구독에서 RBAC 액세스가 제거될 때 알림을 받도록 Azure Monitor 활동 로그 [경고](/azure/azure-monitor/platform/alerts-activity-log)를 만들 수 있습니다.
 
 ### <a name="create-an-azure-monitor-alert"></a>Azure 모니터 경고 만들기
 
@@ -68,7 +68,7 @@ ms.locfileid: "86175952"
 
 - 고객에게 연락하여 관리자 액세스를 복구할 수 있는지 확인합니다.
 
-- [RBAC(역할 기반 액세스 제어)](https://docs.microsoft.com/azure/role-based-access-control/overview)를 통해 제공되는 액세스 권한을 사용합니다.
+- [RBAC(역할 기반 액세스 제어)](/azure/role-based-access-control/overview)를 통해 제공되는 액세스 권한을 사용합니다.
 
 - [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/)를 통해 제공되는 액세스 권한을 사용합니다.
 

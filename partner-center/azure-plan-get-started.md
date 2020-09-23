@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943960"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000577"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure 요금제로 종량제 요금 사용 시작
 
@@ -45,12 +45,12 @@ Microsoft에서는 파트너와 고객을 보호하기 위해 클라우드 솔�
 파트너는 매우 높은 권한이 있으므로 각 사용자가 인증할 때마다 MFA 챌린지를 수행하도록 해야 합니다. 이 작업은 다음 방법 중 하나를 통해 수행할 수 있습니다.
 
 - Azure AD Premium을 구현하고 MFA(다단계 인증)가 각 사용자에게 적용되는지 확인
-- [Azure AD 보안 기본값](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
+- [Azure AD 보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현하는지 확인
 - 타사 솔루션을 구현하고 MFA가 각 사용자에게 적용되는지 확인
 
 2019년 8월 1일부터 모든 파트너는 서비스 계정을 비롯한 모든 사용자의 파트너 테넌트에 다단계 인증을 적용해야 합니다. 이러한 보안 요구 사항에 대한 자세한 내용은 [파트너 보안 요구 사항](partner-security-requirements.md)을 참조하세요.
 
-파트너는 디지털 방식으로 RBAC를 활용하고, [Azure Active Directory 권한 있는 ID 관리 리소스](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)를 통해 구현되는 모범 사례를 따르는 것이 좋습니다.
+파트너는 디지털 방식으로 RBAC를 활용하고, [Azure Active Directory 권한 있는 ID 관리 리소스](/azure/active-directory/privileged-identity-management/pim-configure)를 통해 구현되는 모범 사례를 따르는 것이 좋습니다.
 
 ## <a name="read-more-about-the-azure-plan"></a>Azure 플랜에 대한 자세한 정보
 

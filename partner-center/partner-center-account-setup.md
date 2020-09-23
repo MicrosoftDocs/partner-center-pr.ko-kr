@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
-ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
+ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88215580"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999267"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
@@ -97,7 +97,7 @@ ms.locfileid: "88215580"
 
 특정 파트너 센터 프로그램에서 등록하는 방법에 대한 자세한 내용은 다음 부분 목록을 참조하세요.
 
-- [상업용 Marketplace 프로그램](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [상업용 Marketplace 프로그램](/azure/marketplace/partner-center-portal/create-account)
 - [MPN 프로그램](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
 - [CSP 프로그램](enrolling-in-the-csp-program.md)
 - [Office 스토어](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
