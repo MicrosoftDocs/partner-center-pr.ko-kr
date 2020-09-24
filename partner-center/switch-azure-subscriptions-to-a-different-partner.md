@@ -9,14 +9,14 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412439"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206325"
 ---
-# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에 게 고객의 Azure 구독을 전송 하는 방법을 알아봅니다.
+# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에게 고객의 Azure 구독을 전송하는 방법 알아보기
 
 **적용 대상**
 
@@ -106,5 +106,6 @@ ms.locfileid: "87412439"
 ## <a name="next-steps"></a>다음 단계
 
 - [CSP 구독 이전 양식](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)을 다운로드합니다.
-- [다중 파트너 지원](multipartner.md)에 대해 알아봅니다.
-- [다중 채널 지원](multichannel.md)에 대해 읽어 보세요.
+- [다중 파트너 지원](multipartner.md).
+- [다중 채널 지원](multichannel.md).
+- [Azure 구독 이전](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
