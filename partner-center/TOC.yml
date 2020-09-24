@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Salesforce CRM용 공동 판매 커넥터 – 개요
           href: connector-salesforce.md
+        - name: 공동 판매 추천 커넥터 문제 해결
+          href: connectors-troubleshoot.md
         - name: PSC(파트너 판매 연결)에서 마이그레이션하는 파트너를 위한 공동 판매
           href: psc-to-pc.md
         - name: 거래 등록
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: 라이선스 기반 SaaS 구독 시나리오
           href: common-billing-scenarios-saas.md
+        - name: 마켓플레이스 제품 비용 청구
+          href: csp-commercial-marketplace-billing.md
+        - name: 유료 - 마켓플레이스
+          href: marketplace-get-paid.md
     - name: 디지털 서명 보기 - 파트너 센터 인도
       href: digital-signature.md
     - name: 세금 및 면세
@@ -308,12 +314,20 @@
       items:
         - name: 회사 VAT 정보
           href: organization-tax-info.md
+        - name: 파트너 센터 등록의 VAT(부가 가치세) 정보
+          href: vat-info.md
         - name: 세금 원천징수에 대한 크레딧 받기
           href: withholding-tax-credit-form.md
         - name: 지역별 세금 - 음성 서비스
           href: tax-and-fees-voice-services.md
-    - name: Microsoft로부터 SLA 크레딧 요청
-      href: request-credit.md
+        - name: 상업용 Marketplace 게시자에 대한 세금 정보
+          href: tax-details-marketplace.md
+        - name: Microsoft에서 발급하는 IRS 세금 양식 이해
+          href: understand-irs-tax-forms.md
+        - name: 지급 계정 및 세금 양식 설정
+          href: set-up-your-payout-account.md
+        - name: Microsoft로부터 SLA 크레딧 요청
+          href: request-credit.md
     - name: 고객의 Azure 지출 예산 설정
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: '미결제, 사기 또는 오용 관리'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: 마켓플레이스 제품 관리
           href: csp-commercial-marketplace-manage.md
-        - name: 마켓플레이스 제품 비용 청구
-          href: csp-commercial-marketplace-billing.md
         - name: 마켓플레이스 제품 지원
           href: csp-commercial-marketplace-support.md
         - name: 마켓플레이스 구매 계약
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: 라이선스 기반 서비스 고객을 클라우드 서비스 공급자 프로그램으로 이동
           href: transition-seat-based-services.md
-        - name: 'Minecraft: Education Edition 구독 판매'
+        - name: Minecraft Education Edition 구독 판매
           href: minecraft-subscriptions.md
         - name: 특수 산업을 대상으로 판매
           href: Get-special-pricing-for-offers.md
