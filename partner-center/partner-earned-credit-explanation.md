@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564694"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999867"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
@@ -44,7 +44,7 @@ ms.locfileid: "89564694"
 
 - PEC는 Azure 리소스 수준에서 획득됩니다. 파트너에게 구독 또는 리소스 그룹 수준의 유효한 액세스 권한이 있는 경우 역할이 상위 엔터티까지 적용되는 각 리소스에서 PEC를 획득합니다.  
 
-- 또한 [Azure Cost Management](https://go.microsoft.com/fwlink/?linkid=2106482)에서 PEC 세부 정보를 볼 수 있습니다.
+- 또한 [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners)에서 PEC 세부 정보를 볼 수 있습니다.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 
@@ -78,4 +78,3 @@ PartnerEarnedCreditApplied 속성이 False이면 관련 비용이 필요한 크�
 - [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)
 
 - [Azure CSP 구독에 대한 관리자 권한 철회 또는 복구](revoke-reinstate-csp.md)
-
