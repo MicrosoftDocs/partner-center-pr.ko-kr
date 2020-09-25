@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 24bd05fd5f860c0c7938a831f023740afd32c5b1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
+ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999457"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "91110662"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "90999457"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[파트너 센터 인사이트 – Microsoft의 비즈니스를 이해하기 위한 단일 보고 리소스입니다.](2020-september.md#10)|9월 23일|
 |제품/시장|[Azure SQL Edge의 일반 공급 발표](2020-september.md#9)|9월 22일|
 |기능|[2020년 9월 30일에 CSP O365 사용 API 및 CSP 라이선스 사용 보고서에 대한 예정된 변경 사항.](2020-september.md#8)|9월 17일|
 |기능|[간접 재판매인 MPA 업데이트. MPA API 사용자에게 필요한 조치 및 새로운 MPA 보고 기능](2020-september.md#7)|9월 16일|

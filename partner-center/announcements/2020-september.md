@@ -8,19 +8,141 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/01/2020
-ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.date: 09/16/2020
+ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574399"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999467"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
 이 페이지에서는 2020년 9월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지: [2월](2020-february.md) | [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | 9월
+
+________________
+
+## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Azure SQL Edge의 일반 공급 발표
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-09-22
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+Microsoft 필드 및 파트너 
+
+### <a name="summary"></a>요약 
+
+이제 IoT(사물 인터넷) 게이트웨이 및 에지 디바이스에 가장 안전한 Microsoft SQL 데이터 엔진을 제공하는 Azure SQL Edge를 사용할 수 있습니다.
+
+### <a name="details"></a>세부 정보
+
+오늘 IoT 워크로드에 최적화된 실시간 데이터 엔진인 Azure SQL Edge의 가용성을 발표합니다. 이 컨테이너화된 솔루션은 SQL Server 및 Azure SQL을 지원하는 동일한 엔진을 기반으로 하며 많은 팀이 이미 알고 신뢰하는 동일한 업계 최고의 보안, 친숙한 개발자 경험 및 도구를 제공합니다.
+Azure SQL Edge는 CSP(클라우드 솔루션 공급자)가 **9월 24일 목요일**에 구매할 수 있습니다.
+
+[Azure SQL Edge](https://aka.ms/sqledge)는 차지하는 공간이 적은 컨테이너로 실시간 인사이트를 위한 데이터 스트리밍, 저장 및 분석이 가능합니다. 연결, 연결 해제 또는 하이브리드 환경의 에지 서버, 게이트웨이 및 디바이스에 배포합니다.
+
+Azure SQL Edge는 IoT 배포에 적합한 크기의 간소화된 가격을 제공하며, 3년 약정의 경우 디바이스당 연간 $60 또는 디바이스 구독당 월 $10에 사용할 수 있습니다.
+
+### <a name="next-stepsadditional-resources"></a>다음 단계/추가 리소스:
+
+- [Ignite 2020의 알림 블로그](https://aka.ms/sqledge-ga) 보기
+- 지금 시작하거나 [SQL Edge 사이트](https://aka.ms/sqledge)에서 백서, 사례 연구 등을 확인하세요.
+
+________________
+
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>2020년 9월 30일에 CSP O365 사용 API 및 CSP 라이선스 사용 보고서에 대한 예정된 변경 사항.
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-09-17
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+파트너 센터에서 CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너 
+
+### <a name="summary"></a>요약 
+
+파트너가 O365 사용량을 측정하는 데 도움이 되는 CSP O365 사용 API에 대한 업데이트가 수행됩니다.
+
+### <a name="details"></a>세부 정보
+
+2020년 9월 30일부터 CSP O365 사용 현황 메트릭이 업데이트됩니다. O365 사용량을 측정하는 데 도움이 되도록 PAU(유료 사용 가능 단위) 및 MAU(월간 활성 사용자)와 같은 새로운 메트릭을 도입할 것입니다. 
+
+이와 같이 변경하면 다음 CSP 라이선스 사용 API가 업데이트됩니다.  
+
+1. [라이선스 사용 현황 정보 API](/partner-center/develop/get-licenses-usage-information)
+
+2. [고객 라이선스 사용 현황 정보 API](/partner-center/develop/get-customer-licenses-usage-information)
+
+3.  [파트너 라이선스 사용 현황 정보 API](/partner-center/develop/get-partner-licenses-usage-information)
+
+또한 관리하는 각 고객에 대해 워크로드당 MAU(월간 활성 사용자)를 제공하는 새로운 API를 도입할 예정입니다.
+
+이러한 업데이트에 대한 자세한 내용은 [여기](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf)에서 찾을 수 있습니다.
+
+또한 [CSP 라이선스 사용량 분석 보고서](https://partner.microsoft.com/dashboard/analytics/usageanalytics)의 고객 사용 현황 분석 섹션을 업데이트할 예정입니다. 2020년 9월 30일부터 보고서는 Exchange, SharePoint 및 Skype/Teams의 월별 활성 사용량을 반영하도록 개선됩니다.
+
+### <a name="next-stepsadditional-resources"></a>다음 단계/추가 리소스:
+
+이 정보를 조직 내의 다른 사용자와 공유합니다. 자세한 내용은 [작업 갤러리](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/)를 참조하세요.
+________________
+
+## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>간접 재판매인 MPA 업데이트. MPA API 사용자에게 필요한 조치 및 새로운 MPA 보고 기능
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-09-16
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+간접 공급자
+
+### <a name="details"></a>세부 정보
+
+#### <a name="mpa-implementation-update"></a>MPA 구현 업데이트
+
+간접 재판매인을 위한 MPA(Microsoft Partner Agreement) 구현의 두 번째 단계는 향후 몇 개월에 걸쳐 진행됩니다. 간접 재판매인이 MPA를 수락하지 않으면 클라우드 솔루션 공급자 프로그램의 기존 고객에 대해 신규 고객을 생성하거나 신규 주문(갱신 포함)을 할 수 없게 됩니다.
+
+작업:
+
+- 아래에 언급된 업데이트된 API 및 파트너 센터 보고를 사용하여 간접 재판매인의 MPA 승인 상태를 파악합니다.
+- MPA를 수락하지 않은 간접 재판매인과 협력하여 클라우드 솔루션 공급자 프로그램 등록 경험에서 현재 어떤 단계에 있는지에 따라 [단계별 지침](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)을 제공합니다.
+- 9월 말부터 간접 재판매인이 매월 받게 될 [알림](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/)을 검토합니다.
+
+#### <a name="updated-api"></a>업데이트한 API
+
+간접 공급자가 간접 재판매인의 MPA 승인 상태를 확인할 수 있는 기존 API의 변경 내용은 11월에 제공될 예정입니다. 파트너는 아래 작업에 따라 11월 이전에 업데이트된 API에 대한 액세스를 신청할 수 있습니다. 이 API를 사용하는 파트너는 IT 팀과 협력하여 업데이트를 테스트하고 구현해야 합니다. 
+
+- **기존 MPA API 사용자가 API를 업데이트하지 않으면 2020년 11월 1일에 API 오류가 발생할 것입니다.** 
+- 업데이트된 API에서 간접 재판매인이 MPA를 수락하지 않은 경우 간접 공급자에게 오류 코드 및 오류 메시지가 표시됩니다. [API 설명서](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)를 확인하여 각 오류 코드에 대한 "자세히 알아보기" 링크를 확인합니다. 이 링크를 통해 간접 재판매인과 공유할 수 있는 업데이트 관리 가이드를 제공합니다. 
+
+작업:
+- 2020년 11월 1일 이전에 업데이트된 API에 액세스하려면 모든 테넌트 ID(테스트 또는 운영)를 제공하여 [이 양식](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u)을 작성합니다. 48시간 이내에 액세스할 수 있습니다.
+- IT 팀과 협력하여 업데이트된 API를 구현하고 간접 재판매인의 MPA 승인 상태를 추적합니다. API 업데이트에 대한 자세한 내용은 [API 설명서](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)에서 확인할 수 있습니다.
+- API 및 파트너 센터 보고 업데이트는 예정된 웹 세미나에 참석하여 살펴보시기 바랍니다. 아래 일정에 따라 참석하세요. 
+
+- [9월 15일 오전 8:30 태평양 표준시](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [9월 16일 오후 7:30 태평양 표준시](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [9월 22일 오전 8:30 태평양 표준시](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [9월 23일 오후 7:30 태평양 표준시](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [9월 29일 오전 8:30 태평양 표준시](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [9월 30일 오후 7:30 태평양 표준시](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+#### <a name="mpa-reporting-in-partner-center"></a>파트너 센터에서 MPA 보고
+
+1. MPA 보고서에 액세스하여 파트너 센터의 계정이 있는 간접 재판매인의 세부 정보와 해당 MPA 승인 상태를 확인합니다. 보고서를 보려면 파트너 센터에 로그인하고 왼쪽 메뉴에서 **분석/재판매인 분석**으로 이동합니다.
+
+2. 오른쪽에 있는 다운로드 아이콘을 클릭하여 보고서를 다운로드합니다.
+3. 빈 Excel 파일을 열고 다운로드한 "tsv" 파일을 Excel 파일로 끌어옵니다.
+
+참고: 간접 재판매인에게 동일한 지역 내에서 MPA를 승인한 하나 이상의 테넌트가 있는 경우 추가 작업이 필요하지 않습니다. 
 
 ________________
 
@@ -42,7 +164,7 @@ ________________
 - [Visio 플랜 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) 및 [Visio 플랜 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [Project 플랜 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) 및 [프로젝트 플랜 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-참고:  셀프 서비스 구매 기능은 현재 인도, 브라질, 콩고민주공화국(DRC)에서 사용할 수 없으며, 정부 또는 교육 제품 대상 고객에게도 제공되지 않습니다.  전체 국가 사용 가능성 및 업데이트는 [셀프 서비스 구매 FAQ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true)를 확인하세요.
+참고:  셀프 서비스 구매 기능은 현재 인도, 브라질, 콩고민주공화국(DRC)에서 사용할 수 없으며, 정부 또는 교육 제품 대상 고객에게도 제공되지 않습니다.  전체 국가 사용 가능성 및 업데이트는 [셀프 서비스 구매 FAQ](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide)를 확인하세요.
 
 #### <a name="partner-benefits"></a>파트너 혜택
 
@@ -52,7 +174,7 @@ ________________
 ### <a name="next-steps"></a>다음 단계
 
 - 작업 준비 리소스 갤러리에 있는 모든 준비 리소스를 검토하세요. [고객 셀프 서비스 구매 기능](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/) -Microsoft Inspire 세션 [Microsoft Visio 및 Power Platform을 통한 비즈니스 재구축 및 재구상](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)에서 Visio 및 Power Platform 솔루션의 파트너 기회에 대해 자세히 알아보세요.
-- 자세한 내용은 [셀프 서비스 관리자 가이드](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true)를 참조하세요.
+- 자세한 내용은 [셀프 서비스 관리자 가이드](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide)를 참조하세요.
 
 ________________
 
@@ -267,6 +389,6 @@ CSP 프로그램에 참여하는 모든 파트너
 ### <a name="next-steps"></a>다음 단계
 
 - 이 정보를 조직 내의 해당 담당자와 공유합니다.
-- 제품에 대한 자세한 내용은 [Microsoft Defender ATP 설명서](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)를 참조하세요.
+- 제품에 대한 자세한 내용은 [Microsoft Defender ATP 설명서](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)를 참조하세요.
 
 ________________

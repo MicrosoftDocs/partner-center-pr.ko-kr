@@ -1,20 +1,20 @@
 ---
 title: 사용자에게 역할 및 사용 권한 할당
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 09/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 상업 거래, 조회, 인센티브 또는 MPN 멤버십을 관리하는 회사 사용자에게 가장 적합한 역할에 대해 알아보세요.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
+ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490601"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "90832116"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
@@ -28,10 +28,10 @@ ms.locfileid: "89490601"
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>파트너 센터에서 작업할 수 있도록 직원 설정
 
-사용자에게 부여할 파트너 센터에 대한 액세스 유형을 역할 및 권한을 기준으로 결정합니다. 역할은 비즈니스가 개입된 프로그램과 관련이 있습니다. 예를 들어 비즈니스가 CSP(클라우드 솔루션 공급자) 비즈니스인 경우 글로벌 관리자 같은 표준 Azure AD 테넌트 관리 역할을 갖게 되겠지만, CSP 프로그램과 관련된 역할도 필요합니다. 프로그램마다 특정 역할이 있습니다.
+사용자에게 부여할 파트너 센터에 대한 액세스 유형을 역할 및 권한을 기준으로 결정합니다. 역할은 비즈니스가 개입된 프로그램과 관련이 있습니다. 예를 들어 비즈니스가 CSP(클라우드 솔루션 공급자) 비즈니스인 경우 전역 관리자 같은 표준 Azure Active Directory 테넌트 관리 역할을 갖게 되겠지만, CSP 프로그램과 관련된 역할도 필요합니다. 프로그램마다 특정 역할이 있습니다.
 
 >[!Note]
-> AAD(Azure Active Directory) 테넌트 역할에는 글로벌 관리자, 사용자 관리자 및 CSP 역할이 포함됩니다. 비 AAD 역할은 테넌트를 관리하지 않는 역할이며, 여기에는 MPN 관리자, 비즈니스 프로필 관리자, 조회 관리자, 인센티브 관리자 및 인센티브 사용자가 포함됩니다. 
+> Azure Active Directory 테넌트 역할에는 전역 관리자, 사용자 관리자 및 CSP 역할이 포함됩니다. 비 Azure-Active-Directory 역할은 테넌트를 관리하지 않는 역할이며, 여기에는 MPN 관리자, 비즈니스 프로필 관리자, 조회 관리자, 인센티브 관리자 및 인센티브 사용자가 포함됩니다. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>파트너 센터에서 상업 트랜잭션 관리(Azure AD 및 CSP 역할)
 
@@ -83,7 +83,8 @@ ms.locfileid: "89490601"
 ||*    파트너 센터에 대한 지원 티켓 만들기
 ||*    내가 만든 파트너 지원 티켓 보기| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV(제어판 공급업체). (CSP 역할 및 비 AAD 역할)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>CPV(제어판 공급업체). (CSP 역할 및 비 Azure AD 역할)
+
 CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 개발하여 해당 시스템을 파트너 센터 API와 통합할 수 있게 해줍니다. 
 
 |**역할**   |**수행 가능한 작업**|**자세히 알아보기**|
@@ -91,7 +92,7 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 |글로벌 관리자| CPV 프로필을 보고 관리합니다.|[CSP 파트너 시스템을 파트너 센터 API와 통합하는 데 도움이 되도록 제어판 공급업체로 등록](enroll-as-cpv.md)
 ||CPV 기능에 액세스해야 하는 사용자를 보고 관리합니다.|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>게스트 사용자(AAD 테넌트에 추가해야 함)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>게스트 사용자(Azure Active Directory 테넌트에 추가해야 함)
 
 |**게스트 사용자**   | **역할**|
 |---------------------------|:--------------------|
@@ -102,7 +103,9 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 ||조회 관리자|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>MPN 멤버 자격과 회사 관리(비 AAD 역할: 이 역할은 테넌트가 아닌 회사 비즈니스를 관리)
+## <a name="manage-mpn-membership-and-your-company"></a>MPN 멤버십 및 회사 관리 
+
+이러한 역할은 Azure Active Directory 역할이 아닙니다. 이러한 역할은 테넌트가 아니라 회사 비즈니스를 관리합니다.
 
 |**역할** | **수행 가능한 작업**|**자세히 알아보기**|
 |----------------------------|:----------------------------|-----|
@@ -121,7 +124,7 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 ||*    내가 만든 파트너 지원 티켓 보기
 |계정 관리자| 위치 추가|[위치 관리](manage-locations.md)
 || 관리자로 있는 계정과 관련된 프로필 관리 
-||*    테넌트의 사용자에 대한 역할을 비 AAD 역할에 할당 
+||*    테넌트의 사용자에 대한 역할을 비 Azure-Active-Directory 역할에 할당 
 ||*    프로그램에 위치 등록
 ||*    파트너 센터에 대한 지원 티켓 만들기
 ||*    내가 만든 파트너 지원 티켓 보기
@@ -167,14 +170,3 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 
 - [사용자 계정 만들기 및 역할과 사용 권한 할당](create-user-accounts-and-set-permissions.md)
 - [새 파트너 센터 프로그램에 등록할 때 계정 정보 확인](verification-responses.md)
-
-
-
-
-
-
-
-
-
-
-                                    
