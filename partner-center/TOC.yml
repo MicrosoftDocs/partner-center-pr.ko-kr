@@ -418,6 +418,8 @@
           href: azure-plan-manage.md
         - name: Azure CSP 구독에 대한 관리자 권한 복구
           href: revoke-reinstate-csp.md
+        - name: Azure 구독 전송
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: 소프트웨어 구독
       href: csp-software-subscriptions.md
     - name: CSP 프로그램을 통해 온-프레미스 소프트웨어 판매
@@ -463,8 +465,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: 비즈니스용 Skype Online 플랜 1을 Office 365 최신 버전으로 마이그레이션
           href: skype-retiring.md
-        - name: Azure 구독 전송
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: Microsoft 365로 Kaizala Pro 구독 마이그레이션
           href: migrate-kaizala-pro-partner.md
     - name: Office 365 판매 관리자
