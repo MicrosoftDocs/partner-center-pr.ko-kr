@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007397"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248901"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>상업용 마켓플레이스에서 지급 받기
 
@@ -30,11 +30,11 @@ ms.locfileid: "91007397"
 
 ## <a name="payout-reporting"></a>지급 보고
 
-지급 정보에 대한 세부 정보에 액세스하고 [파트너 센터](https://partner.microsoft.com/dashboard)의 **지급 요약**에서 보고서를 다운로드할 수 있습니다. 여기에 표시된 정보와 얻게 되는 금액을 범주화하는 방법에 대한 자세한 내용은 [지급 요약 개요](/azure/marketplace/payout-summary-overview)를 참조하세요.
+지급 정보에 대한 세부 정보에 액세스하고 [파트너 센터](https://partner.microsoft.com/dashboard)의 **지급 요약**에서 보고서를 다운로드할 수 있습니다. 여기에 표시 된 정보와 얻게 되는 금액을 범주화 하는 방법에 대 한 자세한 내용은 [지급 문을](payout-statement.md)참조 하세요.
 
 ## <a name="payout-time-frame"></a>지급 시간 프레임
 
-월 기준으로 지급됩니다(해당 지급 임계값이 충족되고 아래 설명된 대로 지급을 보류 중으로 설정하지 않은 경우). 일반적으로 해당 월의 15일을 기준으로 지정된 월에 발생한 모든 지급액을 보냅니다. 지급액은 일반적으로 지급 계정에 도달할 때까지 영업일 기준 3일에서 10일까지 소요됩니다. 자세한 내용은 [지급 임계값, 메서드 및 시간 프레임](/azure/marketplace/payment-thresholds-methods-timeframes)을 참조하세요.
+월 기준으로 지급됩니다(해당 지급 임계값이 충족되고 아래 설명된 대로 지급을 보류 중으로 설정하지 않은 경우). 일반적으로 해당 월의 15일을 기준으로 지정된 월에 발생한 모든 지급액을 보냅니다. 지급액은 일반적으로 지급 계정에 도달할 때까지 영업일 기준 3일에서 10일까지 소요됩니다. 자세한 내용은 [지급 임계값, 메서드 및 시간 프레임](payment-thresholds-methods-timeframes.md)을 참조하세요.
 
 ## <a name="payout-hold-status"></a>지급 보류 상태
 
