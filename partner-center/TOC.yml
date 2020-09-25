@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: 라이선스 기반 SaaS 구독 시나리오
           href: common-billing-scenarios-saas.md
+    - name: 마켓플레이스 청구 및 지급 시나리오
+      items:
         - name: 마켓플레이스 제품 비용 청구
           href: csp-commercial-marketplace-billing.md
         - name: 유료 - 마켓플레이스
