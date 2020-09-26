@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
-ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
+ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "91110662"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206295"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "91110662"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[.NET Standard v1.16.2의 SDK 릴리스](2020-september.md#11)|9월 22일|
 |기능|[파트너 센터 인사이트 – Microsoft의 비즈니스를 이해하기 위한 단일 보고 리소스입니다.](2020-september.md#10)|9월 23일|
 |제품/시장|[Azure SQL Edge의 일반 공급 발표](2020-september.md#9)|9월 22일|
 |기능|[2020년 9월 30일에 CSP O365 사용 API 및 CSP 라이선스 사용 보고서에 대한 예정된 변경 사항.](2020-september.md#8)|9월 17일|
