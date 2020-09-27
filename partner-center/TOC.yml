@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: 라이선스 기반 청구
           href: license-based-billing.md
+        - name: 통신사 청구
+          href: mobile-operator-billing.md
         - name: 라이선스 기반 SaaS 구독 시나리오
           href: common-billing-scenarios-saas.md
     - name: 마켓플레이스 청구 및 지급 시나리오
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: 유료 - 마켓플레이스
           href: marketplace-get-paid.md
+        - name: 지급 정책 세부 정보
+          href: payout-policy-details.md
+        - name: '결제 임계값, 메서드 및 시간 프레임'
+          href: payment-thresholds-methods-timeframes.md
+        - name: 지급액 명세서
+          href: payout-statement.md
+        - name: 마켓플레이스 지급액 FAQ
+          href: payout-faq.md
     - name: 디지털 서명 보기 - 파트너 센터 인도
       href: digital-signature.md
     - name: 세금 및 면세

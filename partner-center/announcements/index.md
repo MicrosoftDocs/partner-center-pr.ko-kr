@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206295"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372793"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "91206295"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[예정된 러시아 연방법 VAT 변경 내용](2020-september.md#12)|9월 25일|
 |기능|[.NET Standard v1.16.2의 SDK 릴리스](2020-september.md#11)|9월 22일|
 |기능|[파트너 센터 인사이트 – Microsoft의 비즈니스를 이해하기 위한 단일 보고 리소스입니다.](2020-september.md#10)|9월 23일|
 |제품/시장|[Azure SQL Edge의 일반 공급 발표](2020-september.md#9)|9월 22일|
