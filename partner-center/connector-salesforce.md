@@ -8,12 +8,12 @@ description: 파트너 센터에서 조회를 Salesforce CRM과 동기화
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372848"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422449"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
@@ -237,45 +237,6 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
 필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
 
-### <a name="set-up-fields-and-relationships"></a>필드 및 관계 설정
-
-1. Salesforce 계정에 로그인 하 고 **기회**로 이동 합니다.
-
-2. **설정** 및 **개체 편집** 옵션을 클릭 하 여 필요한 필드를 추가 합니다.
-
-3. 왼쪽 탐색에서 **필드 & 관계** 선택
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="필드":::
-
-4. **필드 & 관계** 테이블에 다음 필드를 추가 합니다.
-
-   |**필드 레이블**   |**필드 이름**|**데이터 형식**|**인덱싱**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |감사| Audit__c|긴 텍스트 영역 (100000) (표시 되는 줄 4)||
-   |Microsoft에서 어떤 도움을 하나요?|How_can_Microsoft_help_c|선택 목록|
-   |제품|Products_c|텍스트 (255)||
-   |조회 | Referral_Identfier_c|텍스트 (100) (외부 ID)|예|
-   |조회 링크| Referral_Link_c_|URL (255)||
-   |파트너 센터와 동기화|sync_with_partner_center_c|Checkbox (기본값 선택 하지 않음)||
-
-   * 선택 목록 값:
-
-   - 작업 관련 값 제안
-   - 고객 기술 아키텍처
-   - 개념 증명 또는 데모
-   - 견적 또는 라이선스
-   - 판매 고객 성공 후
-   - 일반 또는 기타
-
-5. 필드는 **관계 & 필드** 에 생성 됩니다.
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="만든 필드":::
-
-6. 기회 레이아웃에서 위에 나열 된 필드를 사용 하 여 별도의 섹션을 만듭니다.
-
-   - 이 섹션은 기회 레이아웃의 판매자에 게 제공 되어야 합니다.
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="파트너 센터 필드 레이아웃":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>종단 간 양방향 공동 판매 참조 동기화
 

@@ -1,5 +1,5 @@
 ---
-title: 공동 판매 조회 커넥터 문제 해결
+title: 공동 판매 추천 커넥터 문제 해결
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: 공동 판매 커넥터 문제를 해결 하는 방법에 대 한 F
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91003005"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422339"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>공동 판매 조회 커넥터 문제 해결
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>공동 판매 추천 커넥터 문제 해결
 
 **적용 대상:**
 
@@ -104,27 +104,28 @@ Salesforce 커넥터 솔루션은 다른 CRM 시스템과의 동기화를 지 �
 
 5. 공동 판매 된 조회 커넥터 솔루션의 흐름이 활성화 되지 않으면 어떻게 해야 하나요? (설정)
 
-    A. 전원 자동화에서 다음 순서로 흐름을 편집 하 고 각 연결을 사용 하도록 업데이트 해야 합니다.
+A. 전원 자동화에서 다음 순서로 흐름을 편집 하 고 각 연결을 사용 하도록 업데이트 해야 합니다.
 
-    - 파트너 센터 Webhook 등록 (Insider Preview)
-    - 공동 판매 참조-Salesforce를 파트너 센터 (Insider Preview)에 만듭니다.
-    - 파트너 센터 Microsoft가 Salesforce (Insider Preview)에 대 한 조회 업데이트를 공동 판매
-    - 파트너 센터를 Salesforce로 (Insider Preview)
-    - Salesforce에서 파트너 센터로 (Insider Preview)
-    - Salesforce 기회와 파트너 센터 간 (Insider Preview)
-    - 파트너 센터 (Insider Preview)에 대 한 Salesforce Microsoft 솔루션
+- 파트너 센터 Webhook 등록 (Insider Preview)
+- 공동 판매 참조-Salesforce를 파트너 센터 (Insider Preview)에 만듭니다.
+- 파트너 센터 Microsoft가 Salesforce (Insider Preview)에 대 한 조회 업데이트를 공동 판매
+- 파트너 센터를 Salesforce로 (Insider Preview)
+- Salesforce에서 파트너 센터로 (Insider Preview)
+- Salesforce 기회와 파트너 센터 간 (Insider Preview)
+- 파트너 센터 (Insider Preview)에 대 한 Salesforce Microsoft 솔루션
 
-    B. 각 흐름에 대해 **실행만 사용자** 옵션을 선택 합니다. **실행 전용 사용자가 제공 하**는 대신 **연결 사용** 을 선택 합니다.  
+ B. 각 흐름에 대해 **실행만 사용자** 옵션을 선택 합니다. **실행 전용 사용자가 제공 하**는 대신 **연결 사용** 을 선택 합니다.  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="흐름을 활성화 하려면":::
 
+
 C. 아래에서 언급 한 흐름을 활성화 합니다.
 
-- 파트너 센터 Microsoft가 Salesforce (Insider Preview)에 대 한 조회 업데이트를 공동 판매
+ - 파트너 센터 Microsoft가 Salesforce (Insider Preview)에 대 한 조회 업데이트를 공동 판매
 
 - Salesforce에서 파트너 센터로 (Insider Preview)
 
-
+    
 D. 나머지 흐름을 모두 활성화 합니다.
 
 E. Flow 파트너 센터 Webhook 등록에서 **실행**을 선택 합니다. **파트너 센터** 의 첫 번째 작업에서 Salesforce 흐름으로의 **http url** 을 제공 합니다. **등록할 이벤트** 에서 네 가지 옵션을 모두 선택 하 고 덮어쓰기에 대해 **예** 를 선택 합니다.
