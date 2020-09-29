@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372793"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422329"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "91372793"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[Azure 플랜을 위한 파트너 간의 새 구독 전환 도구의 가용성](2020-september.md#15)|9월 28일|
+|기능|[테스트 업데이트: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 사용자 인터페이스 향상](2020-september.md#14)|9월 28일|
+|기능|[업데이트 - CSP O365 사용 API 및 CSP 라이선스 사용 보고서](2020-september.md#13)|9월 29일|
 |기능|[예정된 러시아 연방법 VAT 변경 내용](2020-september.md#12)|9월 25일|
 |기능|[.NET Standard v1.16.2의 SDK 릴리스](2020-september.md#11)|9월 22일|
 |기능|[파트너 센터 인사이트 – Microsoft의 비즈니스를 이해하기 위한 단일 보고 리소스입니다.](2020-september.md#10)|9월 23일|
