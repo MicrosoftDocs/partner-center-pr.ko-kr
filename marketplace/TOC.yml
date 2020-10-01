@@ -1,0 +1,5 @@
+- name: Microsoft 마켓플레이스 고객 설명서
+  href: index.yml
+  items:
+    - name: Azure Private Marketplace 만들기
+      href: create-manage-private-azure-marketplace.md
