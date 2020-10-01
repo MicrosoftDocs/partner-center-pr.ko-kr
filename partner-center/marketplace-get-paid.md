@@ -1,49 +1,52 @@
 ---
-title: Microsoft 상업용 마켓플레이스에서 지급 받기
-description: Microsoft 상업용 마켓플레이스에서 수익에 대한 지급을 받는 방법에 대해 알아봅니다.
+title: 상업용 마켓플레이스에서 지급 받기
+description: 상업적 marketplace에서 수익에 대 한 지불을 받는 방법에 대해 알아봅니다. Azure Marketplace.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 06/09/2020
+ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248901"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591080"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>상업용 마켓플레이스에서 지급 받기
 
-제품, 추가 기능 및 광고 소득에 대한 지급 받기에 대한 몇 가지 중요한 정보는 다음과 같습니다.
+이 문서에는 제품, 추가 기능 및 광고 수입에 대 한 지불을 받는 방법에 대 한 중요 한 정보가 포함 되어 있습니다. 지급 정책, 유료 이전에 필요한 단계 및 지급 statement 개요를 요약 합니다.
 
-> [!IMPORTANT]
-> 상업용 마켓플레이스의 제품 판매에서 돈을 받으려면 먼저 [지급 계정을 설정하고 필요한 세금 양식을 입력](/azure/marketplace/marketplace-payout-account-setup)해야 합니다.
+## <a name="commercial-marketplace-payout-policies-and-agreements"></a>상업적 marketplace 지급 정책 및 규약
 
-## <a name="store-fee"></a>매장 수수료
+유료을 사용 하려면 계약 및 지급 정책을 준수 해야 합니다.
 
-[개발자 계정에 가입](https://go.microsoft.com/fwlink/p/?LinkID=615100)할 때 [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560)에 동의합니다. 이 계약은 Microsoft에서 판매하는 모든 판매에 대해 요금을 청구하는 매장 수수료를 비롯하여 상업용 마켓플레이스의 판매 제품과 관련하여 사용자와 Microsoft 간의 관계를 설명합니다.
+- [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560): 유료을 받기 전에이 게시자 규약에 동의 해야 합니다. 이 규약은 Microsoft에서 판매 하는 모든 판매에 대해 요금을 지불 하는 매장 요금을 비롯 하 여 상업적 marketplace의 판매자 제품에 관련 된 사용자와 Microsoft 간의 관계를 설명 합니다.
+- [지급 정책은](payout-policy-details.md) 지불 일정 및 지불 방법을 포함 하 여 지급 지불 정책을 보여 줍니다. 정책은 고객이 지불 하지 않는 프로세스에 대해서도 설명 합니다.
+- [세금 세부 정보](tax-details-marketplace.md) 는 Microsoft [게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560)에 따라 가격 선택 및 세금 책임에 대 한 세금 고려 사항을 설명 합니다.
+- **매장 요금은** 공식적으로 게시자 계약에 정의 되어 있습니다. 매장 요금은 추가 기능을 포함 하 여 상업적 marketplace에서 수집한 모든 제품 판매에 적용 됩니다.
+- **지불액은 매월 지불 됩니다 (** 지불 임계값이 충족 된 경우). 일반적으로 해당 월의 15 일을 기준으로 특정 월의 지불을 보냅니다. 지불액은 일반적으로 지급 계정에 도달할 때까지 3 ~ 10 일간의 추가 업무를 수행 합니다. 자세한 내용은 [지급 임계값, 메서드 및 시간 프레임](payment-thresholds-methods-timeframes.md)을 참조하세요.
 
-수수료는 [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560)에 공식적으로 정의되어 있습니다. 질문이 있는 경우 항상 해당 문서를 검토합니다.
+## <a name="prerequisite-steps-before-getting-paid"></a>유료 준비를 위한 필수 구성 요소 단계
 
-매장 수수료는 추가 기능을 포함하여 상업용 마켓플레이스에서 수집한 모든 제품 판매에 적용됩니다.
+처음으로 지불 하기 전에 지급 계정을 설정 하 고 필요한 은행 및 세금 양식을 작성 해야 합니다. 은행 및 세금 양식에서는 원천 세율의 기본 지불 방법 및 세금 양식을 제공 합니다. 사용자를 지불 하려면 은행 및 세금 양식이 필요 합니다. 자세한 내용은 [지급 계정 및 세금 양식 설정](set-up-your-payout-account.md)을 참조 하세요.
 
-## <a name="payout-reporting"></a>지급 보고
+### <a name="payout-hold-status"></a>지급 보류 상태
 
-지급 정보에 대한 세부 정보에 액세스하고 [파트너 센터](https://partner.microsoft.com/dashboard)의 **지급 요약**에서 보고서를 다운로드할 수 있습니다. 여기에 표시 된 정보와 얻게 되는 금액을 범주화 하는 방법에 대 한 자세한 내용은 [지급 문을](payout-statement.md)참조 하세요.
+기본적으로 위에서 설명한 대로 월 기준으로 지급액을 보냅니다. 그러나 프로그램에 대 한 지급을 유지 하는 옵션을 사용할 수 있으며 Microsoft는 귀하의 계정에 대 한 지불을 해제 하지 않습니다. 지급를 보류 중으로 설정 하는 경우 **지급** 페이지에서 수익을 계속 기록 합니다. 그러나 보류 상태를 제거할 때까지 계정으로 결제 대금은 보내지 않습니다.
 
-## <a name="payout-time-frame"></a>지급 시간 프레임
+지급을 보류하려면 **계정 설정**으로 이동합니다. **지급 및 세금 프로필 할당** 섹션의 **지급 및 세금**에서 지급을 보류할 프로그램을 찾습니다. 이 프로그램에 대 한 지불을 유지 하려면 **지불 유지** 확인란을 선택 합니다. 언제 든 지 지급 보류 상태를 변경할 수 있지만 결정은 다음 월간 지급에 영향을 줍니다. 예를 들어 4월 지급을 보류하려면 3월 말 이전에 지급 보류 상태를 **설정**으로 지정해야 합니다.
 
-월 기준으로 지급됩니다(해당 지급 임계값이 충족되고 아래 설명된 대로 지급을 보류 중으로 설정하지 않은 경우). 일반적으로 해당 월의 15일을 기준으로 지정된 월에 발생한 모든 지급액을 보냅니다. 지급액은 일반적으로 지급 계정에 도달할 때까지 영업일 기준 3일에서 10일까지 소요됩니다. 자세한 내용은 [지급 임계값, 메서드 및 시간 프레임](payment-thresholds-methods-timeframes.md)을 참조하세요.
+지급 보류가 상태를 **On**으로 설정 하면이 프로그램에 대 한 모든 지급가 보류 **중으로 설정**된 확인란의 선택을 취소할 때까지 유지 됩니다. 이렇게 하면 다음 월간 지급 주기 중에 포함 됩니다 (지불 임계값이 충족 된 경우). 지급가 보류 중이지만 6 월에 지급을 생성 하려는 **경우에는 종료 되기 전에 확인란** 의 선택을 취소 합니다.
 
-## <a name="payout-hold-status"></a>지급 보류 상태
+>[!Note]
+> 지급 보류 상태는 각 프로그램에 개별적으로 적용 됩니다 (Microsoft Store, 광고, Azure Marketplace 등). 모든 프로그램에 대 한 지불을 유지 하려는 경우 각 프로그램에 대해 개별적으로 지불 합니다.
 
-기본적으로 위에서 설명한 대로 월 기준으로 지급액을 보냅니다. 그러나 프로그램에 대한 지급을 보류하여 계정에 지급액을 보내지 못하게 하는 옵션이 있습니다. 지급을 보류하기로 선택하면 Microsoft에서 계속 거둔 수익을 기록하고 **지급 요약**에 세부 정보를 제공합니다. 그러나 보류 상태를 제거할 때까지 계정으로 지급액은 보내지 않습니다.
+## <a name="payout-statements"></a>지급 명세서
 
-지급을 보류하려면 **개발자 설정**으로 이동합니다. **지급 및 세금 프로필 할당** 섹션의 **지급 및 세금**에서 지급을 보류할 프로그램을 찾습니다. **지급 보류** 확인란을 클릭하여 이 프로그램에 대한 지급을 보류합니다. 언제든지 지급 보류 상태를 변경할 수 있지만, 결정은 다음 월간 지급에 영향을 줍니다. 예를 들어 4월 지급을 보류하려면 3월 말 이전에 지급 보류 상태를 **설정**으로 지정해야 합니다.
+지급 문은 트랜잭션 기록의 제품 및 추가 기능에서 판매의 수입을 보여 줍니다. 지불 정보를 확인 하 고 보고서를 tsv 또는 csv 형식으로 다운로드할 수도 있습니다. 지급 문과 트랜잭션 기록과 지불 보고서의 세부 정보에 액세스 하는 방법에 대해 자세히 알아보려면 [지급 문을](payout-statement.md) 참조 하세요. 또한 [Partner 지급 API](https://apidocs.microsoft.com/services/partnerpayouts) 를 사용 하 여 지급 보고서를 체계적으로 끌어올 수 있습니다.
 
-지급 보류 상태를 **설정**으로 지정하면 슬라이더를 다시 **해제**로 전환할 때까지 이 프로그램에 대한 모든 지급이 보류됩니다. 이렇게 하면 다음 월간 지급 주기에 포함됩니다(해당하는 지급 임계값을 충족하는 경우). 예를 들어 지급을 보류한 상태지만 6월에 지급액을 생성하려는 경우 5월 말 이전에 지급 보류 상태를 **해제**로 전환해야 합니다.
+## <a name="next-steps"></a>다음 단계
 
-> [!NOTE]
-> **지급 보류 상태**는 각 프로그램에 개별적으로 적용됩니다(Microsoft Store, 광고, Azure Marketplace 등). 모든 프로그램에 대한 지급을 보류하려는 경우 각 프로그램에 대해 개별적으로 지급을 보류해야 합니다.
-
+- [파트너 지급 API](https://apidocs.microsoft.com/services/partnerpayouts)
+- [마켓플레이스 지급액 FAQ](payout-faq.md)

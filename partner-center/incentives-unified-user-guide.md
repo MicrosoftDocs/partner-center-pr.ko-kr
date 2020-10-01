@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 독립 소프트웨어 공급 업체에 대 한 Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불에 대 한 지급 정보에 액세스 하는 방법에 대해 알아봅니다.
+description: 독립 소프트웨어 공급 업체에 대 한 Windows 앱 및 게임, MPN 성과급 및 상업적 marketplace 지불에 대 한 지급 정보에 액세스 하는 방법에 대해 알아봅니다.
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 28ad3a9eef770793c1412623aba2bd1d1972c8aa
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999887"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591081"
 ---
-# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Windows 앱 및 게임, MPN 성과급 및 상업적 Marketplace 지불을 위한 지급 페이지 액세스
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Windows 앱 및 게임, MPN 성과급 및 상업적 marketplace 지불을 위한 지급 페이지 액세스
 
 **적절한 역할**
 
@@ -35,4 +35,4 @@ ms.locfileid: "90999887"
 
 ## <a name="next-steps"></a>다음 단계
 
-- Isv (독립 소프트웨어 공급 업체)의 상업적 Marketplace 지불액에 대 한 자세한 내용은 [상용 marketplace 지급 요약](/azure/marketplace/partner-center-portal/payout-summary)을 참조 하세요.
+- Isv (독립 소프트웨어 공급 업체)의 상업적 marketplace 지불액에 대 한 자세한 내용은 [지급 문](payout-statement.md)을 참조 하세요.

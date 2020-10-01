@@ -6,26 +6,17 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/24/2020
-ms.openlocfilehash: 17fedcf4ef3d474eab679a03eecb221c90342a04
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/28/2020
+ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335767"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591113"
 ---
 # <a name="payout-policy-details"></a>지급 정책 세부 정보
 
-이 문서에서는 Microsoft의 지급 process, 지급 schedule 및 recoupment 정책과 지급 상태를 찾을 수 있는 위치에 대해 설명 합니다.
-
-## <a name="where-to-find-upcoming-payouts"></a>예정 된 지급을 찾을 수 있는 위치
-
-파트너 센터에서 화면의 오른쪽 위 모퉁이에 있는 **지급** 아이콘을 선택 합니다.
-
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="파트너 센터 포털의 오른쪽 위에 있는 지급 아이콘을 보여 줍니다.":::
-
-> [!TIP]
-> 모든 계정 역할에 지급 정보에 대 한 액세스 권한이 있는 것은 아닙니다. 자세한 내용은 [역할 및 사용 권한](payout-statement.md#roles-and-permissions)을 참조 하세요.
+이 문서에서는 Microsoft의 지급 process, 지급 schedule, 지급 상태를 찾을 수 있는 위치 및 recoupment 정책을 설명 합니다.
 
 ## <a name="payment-schedules"></a>지불 일정
 
@@ -33,9 +24,9 @@ ms.locfileid: "91335767"
 
 ### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>5 월 1 일 이후 트랜잭션 기업계약 2020
 
-상용 marketplace 게시자 지급 모델에 대 한 다음과 같은 업데이트를 만들었습니다.
+#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>상용 marketplace 게시자 지급 모델 업데이트
 
-2020 년 5 월 1 일부 터 Microsoft는 Microsoft AppSource에 구매한 제품과 관련 된 지급 정책을 업데이트 하거나 Microsoft 기업계약를 사용 하는 고객에 게 Azure Marketplace 합니다. 고객이 기존 Microsoft 기업계약를 사용 하 여 Azure Marketplace 또는 AppSource에서 제품을 구매 하는 경우 2020 년 5 월 1 일 이후, 다음 지급 주기 30 일 후 고객 청구서에서 지급를 발급 하기 시작 합니다. 고객이 신용 카드를 사용 하는 트랜잭션은 변경 되지 않으며 지급 이전에 30 일 지속 기간이 계속 유지 됩니다. 다음 표에서는 지급 일정에 대 한 세부 정보를 보여 줍니다.
+2020 년 5 월 1 일부 터 Microsoft는 고객이 Microsoft 기업계약를 사용 하 여 Azure Marketplace 또는 AppSource에서 구매한 제품과 관련 된 지급 정책을 업데이트 합니다. 고객이 2020 년 5 월 1 일 이후 트랜잭션에 기존 Microsoft 기업계약를 사용 하 여 Azure Marketplace 또는 AppSource에서 제품을 구매 하는 경우 다음 지급 주기 30 일 후 고객 청구서에서 지급를 발급 하기 시작 합니다. 고객이 신용 카드를 사용 하는 트랜잭션은 변경 되지 않으며 지급 이전에 30 일 지속 기간이 계속 유지 됩니다. 다음 표에서는 지급 일정에 대 한 세부 정보를 보여 줍니다.
 
 > [!NOTE]
 > 고객이 지불 하지 못하고 지급을 이미 발급 한 경우 수행 하는 작업에 대해서는 아래에서 [지불 하지 않는 고객에 대 한 프로세스](#process-for-customer-non-payment) 를 참조 하세요.
@@ -51,7 +42,7 @@ ms.locfileid: "91335767"
 | 수집 된 고객 송장 | 12/1/2020 | 트랜잭션 기록 및 지급 대시보드의 지불 섹션에 **전송** 됨으로 표시 됩니다. | **사용량 보고서**: OrderID/OrderLineItemID로 표시 되는 사용량 보고서<br>**주문 보고서**: 활성으로 표시 된 고객 주문  |
 |  |  |  |  |
 
-\* 사용량 및 주문 보고서는 파트너 센터의 분석 섹션에서 액세스할 수 있습니다.</br>\** 지급 날짜는 태평양 표준시 (PST)입니다.
+\* 사용량 및 주문 보고서는 파트너 센터의 분석 섹션에서 액세스할 수 있습니다. \* *. 지급 날짜는 태평양 표준 시간 (PST)입니다.
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>신용 카드나 송장을 사용 하 여 지불 하는 고객
 
@@ -95,16 +86,16 @@ ms.locfileid: "91335767"
 
 Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 지급을 recoup 합니다. (1) Microsoft는 향후 지급에서 미지불 금액을 뺄 수 있습니다. 예를 들어 지급의 $1000이 수집 되지 않는 것으로 간주 되는 경우 $1000이 복구 될 때까지 이후 지급 보안상 이유로, (2) Microsoft는 수집 되지 않은 금액에 대해 환불 또는 송장 게시자를 요청할 수 있습니다.
 
-다음 표에서는 예제 일정을 보여 줍니다.
+예제 일정은 다음과 같습니다.
 
 | 이벤트 | 대략적인 날짜 | 파트너 표시 유형 |
 | --- | --- | --- |
 | 예제 지급 날짜 | 10/15/2020 | 트랜잭션 기록에 **전송** 됨으로 표시 되 고 지급 대시보드의 지불 섹션 |
-| 고객이 Microsoft에 요금을 지불 하지 않는 경우 | 12/2/2020 – 12/5/2020 | 위와 동일한 변경 내용 없음 |
-| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | 없음 |
-| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | 없음 |
+| <font color="red">고객이 Microsoft에 요금을 지불 하지 않는 경우</font> | 12/2/2020 – 12/5/2020 | 위와 동일한 변경 내용 없음 |
+| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | None |
+| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | None |
 | 게시자에 게 쓰기 해제 알림이 표시 될 가능성이 있습니다. | 1/7/2021 | 고객이 결제를 아직 보내지 않은 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
-| 고객이 종료 알림 받기 | 2/1/2021 | 없음 |
+| 고객이 종료 알림 받기 | 2/1/2021 | None |
 | 수집 프로세스 종료/자금을 기록 합니다. | 2/15/2021 | 금액이 쓰여진 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
 | 지급 공제 | 3/1/2021 | 파트너 센터 지급에서 부정적 트랜잭션이 표시 됩니다. |
 | 지급 보안상 이유로 | 3/15/2021 | 이후 지급는 Partner Center 지급 문에 표시 됩니다. 잔액을 더 이상 음수일 때까지 게시자는 지불을 받지 않습니다.  |
@@ -122,7 +113,8 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 | PayPal             | 영업일 기준 1일                             |
 | ACH/SEPA           | 영업일 기준 2-3일                          |
 | 회선 전송      | 영업일 기준 7-10일                         |
+|
 
-## <a name="next-step"></a>다음 단계
+## <a name="next-steps"></a>다음 단계
 
 - [세금 세부 정보](tax-details-marketplace.md)
