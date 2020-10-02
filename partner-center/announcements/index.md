@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422329"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591093"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "91422329"
 
 | **범주** | **2020년 9월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[파트너 센터 소프트웨어 라이선스 키 및 다운로드 이행 알림](2020-september.md#17)|9월 30일|
+|기능|[CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 내용: 더 나은 파트너 및 고객 환경으로의 경험](2020-september.md#16)|9월 30일|
 |기능|[Azure 플랜을 위한 파트너 간의 새 구독 전환 도구의 가용성](2020-september.md#15)|9월 28일|
 |기능|[테스트 업데이트: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 사용자 인터페이스 향상](2020-september.md#14)|9월 28일|
 |기능|[업데이트 - CSP O365 사용 API 및 CSP 라이선스 사용 보고서](2020-september.md#13)|9월 29일|

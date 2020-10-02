@@ -71,9 +71,7 @@
             - name: 자격 요구 사항
               href: software-assurance-dps-requirements.md
     - name: 송장 및 세금
-      items:
-        - name: MPN의 송장 및 세금
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: 새 기능 시험 사용
       href: test-drive-new-features.md
 - name: CSP(클라우드 솔루션 공급자)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: 라이선스 기반 SaaS 구독 시나리오
           href: common-billing-scenarios-saas.md
-    - name: 마켓플레이스 청구 및 지급 시나리오
-      items:
-        - name: 마켓플레이스 제품 비용 청구
-          href: csp-commercial-marketplace-billing.md
-        - name: 유료 - 마켓플레이스
-          href: marketplace-get-paid.md
-        - name: 지급 정책 세부 정보
-          href: payout-policy-details.md
-        - name: '결제 임계값, 메서드 및 시간 프레임'
-          href: payment-thresholds-methods-timeframes.md
-        - name: 지급액 명세서
-          href: payout-statement.md
-        - name: 마켓플레이스 지급액 FAQ
-          href: payout-faq.md
+    - name: 마켓플레이스 제품 비용 청구
+      href: csp-commercial-marketplace-billing.md
     - name: 디지털 서명 보기 - 파트너 센터 인도
       href: digital-signature.md
     - name: 세금 및 면세
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: 고객의 Azure 지출 예산 설정
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: 지급 받기
+  items:
     - name: '미결제, 사기 또는 오용 관리'
       href: non-payment-fraud-misuse.md
     - name: 할당되지 않은 결제 관리
       href: unallocated-payment.md
+    - name: 상업용 마켓플레이스 지급
+      items:
+        - name: 유료 - 마켓플레이스
+          href: marketplace-get-paid.md
+        - name: 지급 정책 세부 정보
+          href: payout-policy-details.md
+        - name: '결제 임계값, 메서드 및 시간 프레임'
+          href: payment-thresholds-methods-timeframes.md
+        - name: 지급액 명세서
+          href: payout-statement.md
+        - name: 지급 FAQ
+          href: payout-faq.md
 - name: 고객과의 관계 구축
   href: customer-accounts.md
   items:
