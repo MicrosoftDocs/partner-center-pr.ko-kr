@@ -1,7 +1,7 @@
 ---
 title: 성과급 공동 op 클레임 관리
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 파트너 센터에서 공동 op 클레임의 성과급을 시작 하는 방법을 알아봅니다. 기록에서 클레임의 작성으로 이동 하는 모든 활동을 볼 수 있습니다.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714137"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663794"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>성과급 공동 op 클레임 만들기 및 관리
 
@@ -32,13 +32,15 @@ ms.locfileid: "90714137"
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. **성과급** 탭을 선택 하 고 **클레임**을 선택 합니다.
+2. **성과급** 탭을 선택한 다음 **계획 관리**를 선택 합니다.
 
-3. 이미 처리 중인 클레임이 있는 경우 클레임 개요 페이지에 기존 클레임의 상태 및 승인 됨, 요청 됨 및 합계에 대 한 정보가 표시 됩니다.
+3. **공동 op 관리**를 선택 합니다.
 
-4. 새 클레임을 만들려면 **클레임 만들기**를 선택 합니다.
+4. 이미 처리 중인 클레임이 있는 경우 클레임 개요 페이지에 기존 클레임의 상태 및 승인 됨, 요청 됨 및 합계에 대 한 정보가 표시 됩니다.
 
-5. 초기 양식을 작성 하 고 **클레임 만들기**를 선택한 경우 청구서, CSR, 증명 문서 및 메트릭을 추가할 수 있는 클레임 세부 정보 페이지로 이동 됩니다. 필요한 경우 정보를 더 추가할 수도 있습니다.
+5. 새 클레임을 만들려면 **클레임 만들기**를 선택 합니다.
+
+6. 초기 양식을 작성 하 고 **클레임 만들기**를 선택한 경우 청구서, CSR, 증명 문서 및 메트릭을 추가할 수 있는 클레임 세부 정보 페이지로 이동 됩니다. 필요한 경우 정보를 더 추가할 수도 있습니다.
 
 클레임 세부 정보 페이지를 사용하여 조직의 다른 사용자에게 양식에 문서를 업로드하도록 요청할 수 있습니다. 업로드하는 각 지원 문서에 대해 자세한 설명을 제공할 수 있습니다. 
 
@@ -48,7 +50,7 @@ ms.locfileid: "90714137"
 
 검토자가 추가 정보를 요청 하지 않는 한 클레임을 제출한 후에는 클레임을 편집할 수 없습니다.
 
-자세한 내용은 [파트너 성과급 공동 Op 가이드 책](https://assets.microsoft.com/coop-guidebook.pdf) 을 참조 하십시오.
+자세한 내용은 [파트너 성과급 공동 Op 가이드 문서](https://assetsprod.microsoft.com/co-op-guidebook.pdf)를 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

@@ -1,17 +1,17 @@
 ---
-title: 파트너 센터 등록의 부가 가치 (VAT) 정보
+title: 파트너 센터 등록의 VAT(부가 가치세) 정보
 description: 파트너 센터 등록 프로세스 중에 VAT ID 번호를 제공 해야 하는 경우이 정보를 통해 시작 하는 데 도움이 됩니다.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: 7e4f6778d14166dfe30a608d06dc75d953442c70
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026484"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663884"
 ---
 # <a name="vat-info"></a>VAT 정보
 
@@ -30,222 +30,36 @@ ms.locfileid: "90026484"
 
 Microsoft는 세금 조언을 제공 하지 않으며 다음 표는 참고 자료로만 제공 됩니다. 이 지침이 Microsoft에서 VAT 번호를 제공 하는 데 충분 하지 않은 경우 최근 변경 내용에 대 한 현지 세금 기관을 확인 해야 합니다.
 
-<table Responsive="true">
-<tr><th>국가/지역</th><th>VAT 정보</th></tr>
-<tr><td data-th="Country/region">오스트리아
-</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 1 자에서 8 자리</li>
-<li>국가/지역 코드: AT</li>
-<li>예: U12345678</li>
-<li>참고: 첫 번째 문자는 항상 ' U '입니다.
-</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">벨기에</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 10 자리</li>
-<li>국가/지역 코드: be</li>
-<li>예: 1234567890</li>
-<li>참고: 1 월 2007 일 이전의 9 자리 숫자입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">불가리아</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 9 또는 10 자리</li>
-<li>국가/지역 코드: BG</li>
-<li>예: 123456789 또는 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">크로아티아</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 2 문자 및 11 자리</li>
-<li>국가/지역 코드: HR</li>
-<li>예: HR12345678901</li>
-<li>참고: 첫 문자는 항상 ' HR '입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">키프로스</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 2 자에서 8 자리 및 1 자</li>
-<li>국가/지역 번호: CY</li>
-<li>예: 12345678, 123456789 또는 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">체코</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 8, 9 또는 10 자리</li>
-<li>국가/지역 코드: CZ</li>
-<li>예: 12345678, 123456789 또는 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">덴마크</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 8 자리</li>
-<li>국가/지역 코드: 진한</li>
-<li>예: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">에스토니아</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 자리</li>
-<li>국가/지역 코드: EE</li>
-<li>예: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">핀란드</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 숫자</li>
-<li>국가/지역 번호: FI</li>
-<li>예: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">프랑스</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 11 자리</li>
-<li>국가/지역 코드: FR</li>
-<li>예: 12345678901, X1234567890, 1X123456789 또는 XX123456789</li>
-<li>참고: I 또는 Q를 첫 번째 또는 두 번째 문자로 포함 하거나, 첫 번째 및 두 번째 문자를 제외한 모든 알파벳 문자를 포함 하거나, 그 뒤에 9 자리가 올 수 있습니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">독일</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 자리</li>
-<li>국가/지역 번호: DE</li>
-<li>예: 123456789</li>
-<li>참고: 9 자리 ' Umsatzsteur Identifikationnummer ' (Ust ID Nr) 여야 합니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">그리스</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 자리</li>
-<li>국가/지역 코드: 엘살바도르, GR</li>
-<li>예: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">헝가리</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 8 자리</li>
-<li>국가/지역 코드: HU-HU</li>
-<li>예: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">아일랜드</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 8 자리</li>
-<li>국가/지역 코드: IE</li>
-<li>예: 1234567X 또는 1X34567X</li>
-<li>참고: 1 또는 2 개의 영문자 (last 또는 second와 last)를 포함 합니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">이탈리아</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 11 자리</li>
-<li>국가/지역 코드: IT</li>
-<li>예: 12345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">라트비아</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 11 자리</li>
-<li>국가/지역 코드: LV</li>
-<li>예: 01234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">리투아니아</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 또는 12 자리</li>
-<li>국가/지역 코드: LT</li>
-<li>예: 123456789 또는 012345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">룩셈부르크</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 8 자리</li>
-<li>국가/지역 코드: LU</li>
-<li>예: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">몰타</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 2 문자 및 8 자리</li>
-<li>국가/지역 코드: MT</li>
-<li>예: MT12345678</li>
-<li>참고: 첫 문자는 항상 ' MT '입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">네덜란드</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 11 자리 및 1 자</li>
-<li>국가/지역 코드: NL</li>
-<li>예: 123456789B01</li>
-<li>참고: 열 번째 문자는 항상 ' B '입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">폴란드</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 10 자리</li>
-<li>국가/지역 번호: PL</li>
-<li>예: 1234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">포르투갈</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 자리</li>
-<li>국가/지역 번호: PT</li>
-<li>예: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">루마니아</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 2 문자 및 8-10 자리 숫자</li>
-<li>국가/지역 코드: RO</li>
-<li>예: RO12345678, RO123456789 또는 RO1234567890</li>
-<li>참고: 첫 번째 문자는 항상 ' RO '입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">슬로바키아</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 10 자리</li>
-<li>국가/지역 번호:.</li>
-<li>예: 1234567890</li>
-<li>참고: 첫 번째 문자는 항상 ' SI '입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">슬로베니아</td><td data-th="VAT info">
-<ul>
-<li>VAT 숫자 형식: 2 문자 및 8 자리</li>
-<li>국가/지역 코드: SI</li>
-<li>예: SI12345678</li>
-<li>참고: 첫 번째 문자는 항상 ' SI '입니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">스페인</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 자리</li>
-<li>국가/지역 코드: ES</li>
-<li>예: X12345678, 12345678X 또는 X1234567X</li>
-<li>참고: 1 또는 2 문자를 포함 합니다. first, last 또는 first와 last 중 하나를 포함 합니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">스웨덴</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 12 자리</li>
-<li>국가/지역 코드: SE</li>
-<li>예: 123456789001</li>
-<li>참고: 마지막 2 문자는 ' 01 ' 이어야 합니다.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">영국</td><td data-th="VAT info">
-<ul>
-<li>VAT 번호 형식: 9 또는 12 자리</li>
-<li>국가/지역 번호: GB</li>
-<li>예: 123456789 또는 123456789001</li>
-<li>참고: 일반적으로 9 자리 숫자 이지만 숫자가 그룹 내의 하위 회사를 나타내는 경우 12 자리가 됩니다.</li>
-</ul>
-</td></tr>
-</table>
-
+|국가/지역 | VAT 정보 |
+|:------------|:----------|
+|오스트리아  |-VAT 숫자 형식: 1 자에서 8 자리<br/>-국가/지역 코드: AT<br/>-예: U12345678<br/>-참고: 첫 번째 문자는 항상 ' U '입니다. |
+|벨기에  |-VAT 숫자 형식: 10 자리<br/>-국가/지역 코드: be<br/>-예: 1234567890<br/>-참고: 1 월 2007 일 이전의 9 자리 숫자입니다. |
+| 불가리아  |-VAT 숫자 형식: 9 또는 10 자릿수<br/>-국가/지역 코드: BG<br/>-예: 123456789 또는 0123456789 |
+| 크로아티아 |-VAT 숫자 형식: 2 문자 및 11 자리<br/>-국가/지역 코드: HR<br/>-예: HR12345678901<br/>-참고: 첫 문자는 항상 ' HR '입니다. |
+|키프로스 |-VAT 숫자 형식: 2 자에서 8 자리 및 1 자<br/>-국가/지역 번호: CY<br/>-예: 12345678, 123456789 또는 0123456789 |
+|체코 |-VAT 숫자 형식: 8, 9 또는 10 자리<br/>-국가/지역 코드: CZ<br/>-예: 12345678, 123456789 또는 0123456789 |
+| 덴마크 |-VAT 숫자 형식: 8 자리<br/>-국가/지역 코드: 진한<br/>-예: 12345678<br/> |
+|에스토니아 |-VAT 숫자 형식: 9 자리<br/>-국가/지역 코드: EE<br/>-예: 123456789<br/> |
+|핀란드 |-VAT 숫자 형식: 숫자<br/>-국가/지역 번호: FI<br/>-예: 12345678 |
+|프랑스 |-VAT 숫자 형식: 11 자리<br/>-국가/지역 코드: FR<br/>-예: 12345678901, X1234567890, 1X123456789 또는 XX123456789<br/>-Note: 첫 번째 또는 두 번째 문자로 I 또는 Q를 제외한 모든 알파벳 문자를 포함 하거나, 첫 번째 및 두 번째 문자를 제외한 모든 알파벳 문자를 포함 하 고 그 뒤에 9 자리가 올 수 있습니다. |
+|독일 |-VAT 숫자 형식: 9 자리<br/>-국가/지역 번호: DE<br/>-예: 123456789<br/>-참고: 9 자리 ' Umsatzsteur Identifikationnummer ' (Ust ID Nr) 여야 합니다. |
+|그리스 |-VAT 숫자 형식: 9 자리<br/>-국가/지역 번호: 엘살바도르, GR<br/>-예: 123456789 |
+|헝가리 |-VAT 숫자 형식: 8 자리<br/>-국가/지역 코드: HU-HU<br/>-예: 12345678 |
+|아일랜드 |-VAT 숫자 형식: 8 자리<br/>-국가/지역 코드: IE<br/>-예: 1234567X 또는 1X34567X<br/>-Note: 1 또는 2 개의 영문자 (last 또는 second와 last)를 포함 합니다. |
+|이탈리아 |-VAT 숫자 형식: 11 자리<br/>-국가/지역 코드: IT<br/>-예: 12345678901 |
+|라트비아 |-VAT 숫자 형식: 11 자리<br/>-국가/지역 코드: LV<br/>-예: 01234567890 |
+|리투아니아 |-VAT 숫자 형식: 9 또는 12 자리<br/>-국가/지역 코드: LT<br/>-예: 123456789 또는 012345678901 |
+|룩셈부르크 |-VAT 숫자 형식: 8 자리<br/>-국가/지역 코드: LU<br/>-예: 12345678 |
+|몰타 |-VAT 숫자 형식: 2 문자 및 8 자리<br/>-국가/지역 코드: MT</br>-예: MT12345678<br/>-참고: 첫 문자는 항상 ' MT '입니다. |
+|네덜란드 |-VAT 숫자 형식: 11 자리 및 1 자<br/>-국가/지역 코드: NL<br/>-예: 123456789B01<br/>-참고: 열 번째 문자는 항상 ' B '입니다. |
+|폴란드 |-VAT 숫자 형식: 10 자리<br/>-국가/지역 번호: PL<br/>-예: 1234567890 |
+|포르투갈 |-VAT 숫자 형식: 9 자리<br/>-국가/지역 번호: PT<br/>-예: 123456789 |
+|루마니아 |-VAT 숫자 형식: 2 문자 및 8-10 자릿수<br/>-국가/지역 번호: RO<br/>-예: RO12345678, RO123456789 또는 RO1234567890<br/>-참고: 첫 번째 문자는 항상 ' RO '입니다. |
+|슬로바키아 |-VAT 숫자 형식: 10 자리<br/>-국가/지역 번호:.<br/>-예: 1234567890<br/>-참고: 첫 번째 문자는 항상 ' SI '입니다. |
+|슬로베니아 |-VAT 숫자 형식: 2 문자 및 8 자리<br/>-국가/지역 코드: SI<br/>-예: SI12345678<br/>-참고: 첫 번째 문자는 항상 ' SI '입니다. |
+|스페인 |-VAT 숫자 형식: 9 자리<br/>-국가/지역 코드: ES<br/>-예: X12345678, 12345678X 또는 X1234567X<br/>-Note: 1 또는 2 문자를 포함 합니다. first, last 또는 first 및 last 중 하나입니다. |
+|스웨덴 |-VAT 숫자 형식: 12 자리<br/>-국가/지역 코드: SE<br/>-예: 123456789001<br/>-참고: 마지막 두 문자는 ' 01 ' 이어야 합니다. |
+|영국 |-VAT 숫자 형식: 9 또는 12 자리<br/>-국가/지역 번호: GB<br/>-예: 123456789 또는 123456789001<br/>-참고: 일반적으로 9 자리 숫자 이지만 숫자가 그룹 내의 하위 회사를 나타내는 경우 12 자리가 됩니다. |
 ## <a name="next-steps"></a>다음 단계
 
 - [회사 세금 정보 및 파트너 센터 구매를 위한 VAT Id를 추가 또는 제출 하는 방법](organization-tax-info.md)
