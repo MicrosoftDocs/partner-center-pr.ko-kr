@@ -42,11 +42,13 @@
         - name: MPN 혜택 찾기
           href: mpn-find-benefits.md
     - name: 역량
-      href: learn-about-competencies.md
+      items:
+        - name: 역량에 대해 알아보기
+          href: learn-about-competencies.md
+        - name: 앱 개발 역량 제외
+          href: app-dev-isv.md
     - name: 고급 전문 분야
       href: advanced-specializations.md
-    - name: 애플리케이션 개발 역량에 대한 1회 시험 요구 사항 면제
-      href: app-dev-isv.md
     - name: Azure Expert MSP 되기
       href: azure-expert-msp.md
     - name: 이점
@@ -122,153 +124,160 @@
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
         - name: Microsoft Cloud for US Government의 파트너 센터에서 사용자 및 라이선스 관리
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
-- name: 새 파트너 센터 계정 관리
-  href: partner-center-account-setup.md
+- name: 파트너 센터 계정 관리
   items:
-    - name: 회사 계정 및 파트너 센터
-      href: azure-active-directory-tenants-and-partner-center.md
-    - name: 파트너 센터의 계정 구조
-      href: account-structure.md
-    - name: 도메인 소유권 확인
-      href: become-global-admin.md
-    - name: 계정 정보 확인
-      href: verification-responses.md
-    - name: 파트너 계정을 다른 파트너 계정과 병합
-      href: merge-accounts.md
-    - name: 파트너 센터 계정에 추가 Azure AD 테넌트 연결
-      href: multi-tenant-account.md
-    - name: 파트너 프로필 업데이트
-      href: update-your-partner-profile.md
-    - name: 위치
-      href: manage-locations.md
-    - name: 제어판 공급 업체로 등록
-      href: enroll-as-cpv.md
-    - name: 일시 중단된 파트너 센터 계정 복원
-      href: suspended-partner-center-account.md
-    - name: Azure AD 응용 프로그램 추가
-      href: service-principal.md
-    - name: Microsoft Learn 계정을 파트너 센터에 연결
-      href: ms-learn-associate.md
-- name: 파트너 센터 계정 관리 - 사용자
+    - name: 일반 계정 관리
+      items:
+        - name: 계정 관리 정보
+          href: partner-center-account-setup.md
+        - name: 계정 구조 정보
+          href: account-structure.md
+        - name: 회사 계정 연결
+          href: azure-active-directory-tenants-and-partner-center.md
+        - name: 도메인 소유권 확인
+          href: become-global-admin.md
+        - name: 계정 정보 확인
+          href: verification-responses.md
+        - name: 파트너 계정 병합
+          href: merge-accounts.md
+        - name: 더 많은 Azure AD 테넌트 추가
+          href: multi-tenant-account.md
+        - name: 파트너 프로필 업데이트
+          href: update-your-partner-profile.md
+        - name: 위치 관리
+          href: manage-locations.md
+        - name: 제어판 공급업체 되기
+          href: enroll-as-cpv.md
+        - name: 일시 중단된 계정 복원
+          href: suspended-partner-center-account.md
+        - name: Azure AD 애플리케이션 추가
+          href: service-principal.md
+        - name: 학습 계정 연결
+          href: ms-learn-associate.md
+    - name: 사용자 관리
+      items:
+        - name: 사용자 계정 만들기
+          href: create-user-accounts-and-set-permissions.md
+        - name: 사용자에게 역할 할당
+          href: permissions-overview.md
+        - name: 제어판 공급업체 되기
+          href: enroll-as-cpv.md
+        - name: 사용자 암호 다시 설정
+          href: reset-a-user-password.md
+        - name: 내 암호 재설정
+          href: reset-my-pasword.md
+        - name: 사용자가 로그인할 수 없음
+          href: unable-to-sign-in.md
+        - name: 사용자에게 MPN 관리자가 없음
+          href: no-mpn-admin.md
+    - name: 비즈니스 관리
+      items:
+        - name: Azure Partner Shared Services
+          href: shared-services.md
+        - name: 가격 책정 및 제품
+          href: pricing-and-offers.md
+        - name: 카탈로그 사용자 지정
+          href: customize-the-catalog.md
+- name: 조회
   items:
-    - name: 사용자 계정 만들기
-      href: create-user-accounts-and-set-permissions.md
-    - name: 사용자 역할 및 권한 할당
-      href: permissions-overview.md
-    - name: 제어판 공급 업체로 등록
-      href: enroll-as-cpv.md
-    - name: 사용자 암호 다시 설정
-      href: reset-a-user-password.md
-    - name: 내 암호 재설정
-      href: reset-my-pasword.md
-    - name: 파트너 센터에 로그인할 수 없는 경우
-      href: unable-to-sign-in.md
-    - name: MPN 프로그램 관리자가 퇴사한 경우 어떻게 해야 합니까?
-      href: no-mpn-admin.md
-- name: 파트너 센터 계정 관리 - 비즈니스
-  items:
-    - name: Azure Partner Shared Services 추가
-      href: shared-services.md
-    - name: 가격 책정 및 제품
-      href: pricing-and-offers.md
-    - name: 카탈로그 사용자 지정
-      href: customize-the-catalog.md
-- name: 비즈니스 성장
-  href: grow-your-business.md
-  items:
+    - name: 비즈니스 성장 지원
+      href: grow-your-business.md
     - name: 추천 개요
       href: referrals.md
+    - name: 비즈니스 프로필 관리
+      href: create-a-marketing-profile.md
+    - name: 잠재 고객 관리
+      href: manage-leads.md
+    - name: 공동 판매 기회 관리
       items:
-        - name: 비즈니스 프로필 관리
-          href: create-a-marketing-profile.md
-        - name: 잠재 고객 관리
-          href: manage-leads.md
-        - name: 공동 판매 기회 관리
+        - name: 공동 판매 잠재 고객 정보
           href: manage-co-sell-opportunities.md
-        - name: Dynamics 365 CRM용 공동 판매 커넥터 – 개요
-          href: connector-dynamics.md
-        - name: Salesforce CRM용 공동 판매 커넥터 – 개요
-          href: connector-salesforce.md
-        - name: 공동 판매 추천 커넥터 문제 해결
+        - name: 공동 판매 CRM 커넥터 사용
+          items:
+            - name: Dynamics 365용
+              href: connector-dynamics.md
+            - name: Salesforce용
+              href: connector-salesforce.md
+        - name: 커넥터 문제 해결
           href: connectors-troubleshoot.md
-        - name: PSC(파트너 판매 연결)에서 마이그레이션하는 파트너를 위한 공동 판매
+        - name: 공동 판매 - PSC에서 PC로 마이그레이션
           href: psc-to-pc.md
-        - name: 거래 등록
-          href: register-deals.md
-        - name: 조회 인사이트 얻기
-          href: referral-insights.md
-        - name: 비즈니스 프로필 분석
-          href: analyze-your-marketing-profile.md
-    - name: 인센티브
+    - name: 거래 등록
+      href: register-deals.md
+    - name: 조회 인사이트 얻기
+      href: referral-insights.md
+    - name: 비즈니스 프로필 분석
+      href: analyze-your-marketing-profile.md
+- name: 인센티브
+  items:
+    - name: 인센티브 시작
       items:
+        - name: 인센티브에 대한 FAQ
+          href: incentives-faq.md
         - name: 인센티브 시작
-          items:
-            - name: 인센티브에 대한 FAQ
-              href: incentives-faq.md
-            - name: 인센티브 시작
-              href: incentives-get-started-intro.md
-            - name: 인센티브에 대한 10가지 기본 정보
-              href: incentives-ten-essentials.md
-            - name: 인센티브에 등록
-              href: incentives-enroll.md
-            - name: 프로그램 자격 확인
-              href: incentives-determined-your-program-eligibility.md
-              displayName: incentives
-            - name: 지급액 및 세금 프로필 이해
-              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-              displayName: incentives
-            - name: 지급액 및 세금 프로필 FAQ
-              href: incentives-payout-tax-profile-faqs.md
-              displayName: incentives
-            - name: 수익 자격 확인
-              href: incentives-confirm-your-earnings-eligibility.md
-              displayName: incentives
-            - name: 지급액 및 프로그램 보기
-              href: understand-incentive-payouts.md
-              displayName: incentives
-            - name: 지급액 페이지 액세스
-              href: incentives-unified-user-guide.md
-              displayName: incentives
-        - name: 실행 계획 및 증명서
-          items:
-            - name: 계획 및 PoE 이해
-              href: incentives-plans-proofs-intro.md
-              displayName: 'incentives, proof of execution, proofs of execution'
-            - name: 계획 만들기
-              href: incentives-create-your-plan.md
-              displayName: incentives
-            - name: 실행 증명서 만들기
-              href: incentives-prepare-your-proof-of-execution.md
-              displayName: incentives
-        - name: 인센티브 협업 클레임
-          items:
-            - name: 인센티브 협업 클레임
-              href: claims-overview.md
-              displayName: incentives
-            - name: 협업 클레임 관리
-              href: create-incentives-claims.md
-              displayName: incentives
-            - name: 핵심 요구 사항 보기
-              href: core-requirements.md
-              displayName: incentives
-            - name: 협업 클레임 승인 및 결제 마감일
-              href: incentives-managing-co-op-claims.md
-              displayName: incentives
-        - name: 인센티브 CPOR 제휴 클레임
-          items:
-            - name: CPOR 연결 이해
-              href: incentives-customer-associations-intro.md
-            - name: 고객 제휴 만들기
-              href: submit-osa-claim.md
-            - name: 고객 제휴 보기
-              href: incentives-manage-customer-associations.md
-              displayName: incentives
-            - name: 고객 연결 문제
-              href: incentives-customer-association-issues.md
-              displayName: incentives
-        - name: 결제 및 소득 문제 해결
-          href: incentives-payment-issues.md
+          href: incentives-get-started-intro.md
+        - name: 인센티브에 대한 10가지 기본 정보
+          href: incentives-ten-essentials.md
+        - name: 인센티브에 등록
+          href: incentives-enroll.md
+        - name: 프로그램 자격 확인
+          href: incentives-determined-your-program-eligibility.md
           displayName: incentives
+        - name: 지급액 및 세금 프로필 이해
+          href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+          displayName: incentives
+        - name: 지급액 및 세금 프로필 FAQ
+          href: incentives-payout-tax-profile-faqs.md
+          displayName: incentives
+        - name: 수익 자격 확인
+          href: incentives-confirm-your-earnings-eligibility.md
+          displayName: incentives
+        - name: 지급액 및 프로그램 보기
+          href: understand-incentive-payouts.md
+          displayName: incentives
+        - name: 지급액 페이지 액세스
+          href: incentives-unified-user-guide.md
+          displayName: incentives
+    - name: 실행 계획 및 증명서
+      items:
+        - name: 계획 및 PoE 이해
+          href: incentives-plans-proofs-intro.md
+          displayName: 'incentives, proof of execution, proofs of execution'
+        - name: 계획 만들기
+          href: incentives-create-your-plan.md
+          displayName: incentives
+        - name: 실행 증명서 만들기
+          href: incentives-prepare-your-proof-of-execution.md
+          displayName: incentives
+    - name: 인센티브 협업 클레임
+      items:
+        - name: 인센티브 협업 클레임
+          href: claims-overview.md
+          displayName: incentives
+        - name: 협업 클레임 관리
+          href: create-incentives-claims.md
+          displayName: incentives
+        - name: 핵심 요구 사항 보기
+          href: core-requirements.md
+          displayName: incentives
+        - name: 협업 클레임 승인 및 결제 마감일
+          href: incentives-managing-co-op-claims.md
+          displayName: incentives
+    - name: 인센티브 CPOR 제휴 클레임
+      items:
+        - name: CPOR 연결 이해
+          href: incentives-customer-associations-intro.md
+        - name: 고객 제휴 만들기
+          href: submit-osa-claim.md
+        - name: 고객 제휴 보기
+          href: incentives-manage-customer-associations.md
+          displayName: incentives
+        - name: 고객 연결 문제
+          href: incentives-customer-association-issues.md
+          displayName: incentives
+    - name: 지불 및 수익 문제 해결
+      href: incentives-payment-issues.md
+      displayName: incentives
 - name: 청구 및 세금
   href: billing.md
   items:
@@ -282,7 +291,7 @@
       href: use-the-reconciliation-files.md
     - name: 조정 파일 요금 유형
       href: recon-file-charge-types.md
-    - name: 파트너 센터에서 일별 사용량 조정 파일 읽기
+    - name: 일일 사용량 조정 파일
       href: daily-rated-usage-recon-files.md
     - name: 라이선스 기반 조정 파일
       href: license-based-recon-files.md
@@ -365,9 +374,9 @@
       href: update-customer-account-info.md
     - name: 고객이 자신의 서비스를 구입할 수 있도록 허용
       href: give-customers-permission.md
-    - name: 고객에 대해 다수 사용자를 추가하는 방법
+    - name: 고객에 대해 다수 사용자 추가
       href: adding-multiple-users-to-a-customer-account.md
-    - name: 고객 계정에 대해 다수 사용자를 가져오기 위한 파일의 필수 필드
+    - name: 여러 사용자 가져오기
       href: file-customer-users.md
     - name: 지원 담당자 할당
       href: assign-support-contacts.md
@@ -487,64 +496,69 @@
           href: advisor-create-a-purchase-offer.md
 - name: 파트너 센터 데이터 및 분석
   items:
-    - name: 사용자 데이터 및 분석에 액세스
+    - name: 사용자 데이터 및 분석 액세스
       href: data-analysis-lp.md
-    - name: Power BI용 파트너 센터 분석 앱
+    - name: Power BI용 분석 앱
       items:
-        - name: Power BI용 파트너 센터 분석 앱 소개
+        - name: 분석 앱 소개
           href: power-bi-app-for-direct-partners.md
-        - name: Power BI용 파트너 센터 분석 앱 설치
+        - name: 분석 앱 설치
           href: power-bi-app-for-direct-partners-install.md
-        - name: Power BI용 파트너 센터 분석 앱 사용
+        - name: 분석 앱 사용
           href: power-bi-app-for-direct-partners-use.md
-    - name: 파트너 센터 인사이트
-      href: partner-center-insights.md
+    - name: PCI(파트너 센터 정보)
       items:
-        - name: Insights - 개요 대시보드
-          href: pci-overview-report.md
-        - name: Insights - Insights 대시보드에 대한 역할 기반 액세스 제어
+        - name: 인사이트 정보
+          href: partner-center-insights.md
+        - name: 인사이트 역할 기반 액세스
           href: pci-roles.md
-        - name: Insights - 고객 대시보드
-          href: pci-customer-report.md
-        - name: Insights - 재판매인 성과 대시보드
-          href: pci-resellers-performance.md
-        - name: Insights - 제품 구독 대시보드
-          href: pci-product-subscriptions-report.md
-        - name: Insights - 제품 라이선스 대시보드
-          href: pci-product-licenses-report.md
-        - name: Insights - Azure 사용 현황 대시보드
-          href: pci-azure-usage-report.md
-        - name: Insights - 교육 대시보드
-          href: pci-training-dashboard.md
-        - name: Insights - Microsoft Learn 분석
-          href: ms-learn-analytics.md
-        - name: Insights - 역량 보고서
-          href: pci-competencies-report.md
-        - name: Insights - 이익 보고서
-          href: pci-benefits-report.md
-        - name: Insights - CloudAscent 성향 보고서
-          href: pci-customer-opportunities.md
-        - name: Insights - 알려진 문제
+        - name: 인사이트 보고서
+          items:
+            - name: Azure 사용량
+              href: pci-azure-usage-report.md
+            - name: 이점
+              href: pci-benefits-report.md
+            - name: CloudAscent 성향
+              href: pci-customer-opportunities.md
+            - name: 역량
+              href: pci-competencies-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: Microsoft Learn 분석
+              href: ms-learn-analytics.md
+            - name: 개요
+              href: pci-overview-report.md
+            - name: 제품 라이선스
+              href: pci-product-licenses-report.md
+            - name: 제품 구독
+              href: pci-product-subscriptions-report.md
+            - name: 재판매인 성과
+              href: pci-resellers-performance.md
+            - name: 학습
+              href: pci-training-dashboard.md
+        - name: 알려진 문제
           href: pci-known-issues.md
-        - name: Insights - 보고서 다운로드
+        - name: 인사이트 보고서 다운로드
           href: pci-download-reports.md
     - name: 파트너 기여 지표
       href: partner-contribution-indicators.md
-    - name: 고객의 Azure 구독 사용량에 대한 데이터 가져오기
-      href: analyze-azure-usage.md
-    - name: 간접 재판매인 성과 분석
-      href: analyze-indirect-resellers.md
-    - name: 구독 및 라이선스 분석
-      href: analyze-subscriptions-licenses.md
+    - name: 기타 데이터 분석
+      items:
+        - name: 고객 Azure 사용량
+          href: analyze-azure-usage.md
+        - name: 간접 재판매인 보고서
+          href: analyze-indirect-resellers.md
+        - name: 구독 및 라이선스
+          href: analyze-subscriptions-licenses.md
 - name: 다른 파트너와 협력
   items:
     - name: 파트너 찾기
       href: find-a-partner.md
     - name: 다른 파트너와 협력
       href: work-with-other-partners.md
-    - name: 파트너 센터에서 간접 공급자가 하는 일
+    - name: 간접 공급자 작업
       href: indirect-provider-tasks-in-partner-center.md
-    - name: 파트너 센터에서 간접 재판매인이 하는 일
+    - name: 간접 재판매인 작업
       href: indirect-reseller-tasks-in-partner-center.md
     - name: 지원되는 CSP 파트너 관계
       href: csp-supported-partner-relationships.md

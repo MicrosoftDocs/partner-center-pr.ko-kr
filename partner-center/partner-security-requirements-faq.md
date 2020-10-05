@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999807"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406366"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
+
+**적용 대상**
+
+- 파트너 센터
 
 **적절한 사용자**
 
 - 사용하도록 설정된 모든 사용자(게스트 사용자 포함)
 
-이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대해 자주 묻는 질문이 몇 가지 포함되어 있습니다.
-
 ## <a name="partner-security-requirements"></a>파트너 보안 요구 사항
+
+이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대해 자주 묻는 질문이 몇 가지 포함되어 있습니다.
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>파트너 보안 요구 사항은 무엇이며 파트너가 구현해야 하는 이유는 무엇인가요?
 
@@ -32,7 +36,7 @@ ms.locfileid: "90999807"
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>주요 타임라인 및 중요 시점은 무엇인가요?
 
-이러한 보안 요구 사항과 관련된 사용 약관은 2019년 Microsoft 파트너 계약에 포함되어 있습니다. CSP 프로그램 참여를 계속 준수하려면 가능한 한 빨리 이러한 보안 요구 사항을 구현해야 합니다.
+타임라인 및 중요 시점을 포함하여 이러한 보안 요구 사항과 관련된 사용 약관은 2019년 [Microsoft 파트너 계약](microsoft-partner-agreement.md)에 포함되어 있습니다. CSP 프로그램 참여를 계속 준수하려면 가능한 한 빨리 이러한 보안 요구 사항을 구현해야 합니다.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>이러한 파트너 보안 요구 사항을 구현하지 않으면 어떻게 되나요?
 
@@ -50,7 +54,7 @@ Microsoft 파트너 계약에서는 다단계 인증을 사용자 계정에 적�
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>파트너 보안 요구 사항을 충족했는지 확인하려면 어떻게 해야 하나요?
 
-아래 단계를 완료해야 합니다.
+다음 단계를 완료해야 합니다.
 
 - [파트너 보안 요구 사항](partner-security-requirements.md)에서 설명하는 모든 요구 사항을 충족해야 합니다.
 - 파트너 테넌트의 모든 사용자 계정에 다단계 인증이 적용되어 있는지 확인해야 합니다.
@@ -99,7 +103,7 @@ MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통�
 
 - 사용자가 알고 있는 사항(일반적으로 암호)
 - 사용자의 소유물(전화기처럼 쉽게 복제되지 않는 신뢰할 수 있는 디바이스)
-- 사용자의 신체 관련 항목(생체 인식)
+- 사용자의 신원 정보(생체 인식)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>MFA 사용 비용은 무엇인가요?
 
@@ -114,7 +118,7 @@ Microsoft는 Azure AD 보안 기본값 구현을 통해 무료로 MFA를 제공�
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>여러 파트너 테넌트를 사용하여 거래합니다. 모든 파트너 테넌트에 MFA를 구현해야 하나요?
 
-예, MFA는 CSP 프로그램 또는 관리자 프로그램과 연결된 각 Azure Active Directory 테넌트에 적용해야 합니다. Azure Active Directory Premium 라이선스를 구매하려면 각 Azure Active Directory 테넌트의 사용자에 대한 라이선스를 구매해야 합니다.
+예, MFA는 CSP 프로그램 또는 관리자 프로그램과 연결된 각 Azure Active Directory 테넌트에 적용해야 합니다. Azure Active Directory Premium 라이선스를 구매하려면 각 Azure Active Directory 테넌트의 사용자에 대한 Azure Active Directory 라이선스를 구매해야 합니다. 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>파트너 테넌트의 각 사용자 계정에 대해 MFA를 적용해야 하나요?
 
@@ -225,7 +229,7 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>애플리케이션 관리자가 동의 프로세스를 수행할 때 전역 관리 사용자 자격 증명을 제공하면 안 되는 이유는 무엇인가요?
 
-위험을 줄이려면 최소 권한을 사용하는 것이 가장 좋습니다. 글로벌 관리자 권한이 있는 계정은 필요한 것보다 더 많은 권한을 제공하므로 사용하지 않는 것이 좋습니다.
+최소 권한 ID를 사용하는 것이 가장 좋습니다.  이렇게 하면 위험이 줄어듭니다. 글로벌 관리자 권한이 있는 계정은 필요한 것보다 더 많은 권한을 제공하므로 사용하지 않는 것이 좋습니다.
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>CSP 파트너입니다. 솔루션을 구현할 때 CPV(제어판 공급업체)가 작동하는지 여부를 어떻게 알 수 있나요?
 
@@ -296,7 +300,7 @@ Microsoft는 추가 보호 기능을 제공하기 위해 보안 보호 기능의
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>AOBO를 사용하여 고객을 지원하지 못하게 MFA가 차단하고 있습니다. 어떻게 해야 하나요?
 
-파트너 보안 요구 사항을 충족하기 위한 기술을 적용할 때 인증된 계정에 다단계 인증이 필요한지 확인하는 작업이 수행됩니다. 계정이 없으면 로그인 페이지로 리디렉션되고 다시 인증하라는 메시지가 표시됩니다. 이 [파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 설명서의 자세한 환경과 지침을 확인합니다. 도메인이 페더레이션되지 않은 시나리오의 경우 성공적으로 인증되면 다단계 인증을 설정하라는 메시지가 표시됩니다. 이 작업이 완료되면 AOBO를 사용하여 고객을 관리할 수 있습니다. 도메인이 페더레이션된 시나리오의 경우 계정에 다단계 인증에 대한 문제가 있는지 확인해야 합니다.
+파트너 보안 요구 사항을 충족하기 위한 기술을 적용할 때 인증된 계정에 다단계 인증이 필요한지 확인하는 작업이 수행됩니다. 계정이 없으면 로그인 페이지로 리디렉션되고 다시 인증하라는 메시지가 표시됩니다. 이 [파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 설명서의 추가 환경과 지침을 읽어 보세요. 도메인이 페더레이션되지 않은 시나리오의 경우 성공적으로 인증되면 다단계 인증을 설정하라는 메시지가 표시됩니다. 이 작업이 완료되면 AOBO를 사용하여 고객을 관리할 수 있습니다. 도메인이 페더레이션된 시나리오의 경우 계정에 다단계 인증에 대한 문제가 있는지 확인해야 합니다.
 
 ## <a name="security-defaults-transition"></a>보안 기본값 전환
 
@@ -341,9 +345,11 @@ Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본
 
 Azure Active Directory에 대한 기술 제품 지원 옵션은 MPN 혜택을 통해 사용할 수 있습니다. 활성 ASfP 또는 PSfP 구독에 대한 액세스 권한이 있는 파트너는 연관된 계정 관리자(SAM/TAM)와 협력하여 사용 가능한 옵션을 가장 잘 파악할 수 있습니다.
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>파트너 센터에 대한 액세스 권한이 손실된 경우 지원 담당자에게 어떻게 연락해야 하나요?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>파트너 센터에 대한 액세스 권한이 손실된 경우 지원 담당자에게 어떻게 연락해야 하나요?
 
-[Microsoft 파트너 지원](https://partner.microsoft.com/support)으로 이동한 다음, **모든 지원 옵션 표시**를 선택합니다. Microsoft 파트너 지원에 문의하는 데 사용할 수 있는 옵션이 표시됩니다(지원을 호출하기 위한 전화 번호 및 지원과 채팅할 수 있는 옵션 포함).
+MFA 문제로 인해 액세스 권한이 손실된 경우에는 해당 테넌트의 전역 관리자에게 문의하세요. 내부 IT 부서에서 전역 관리자가 누구인지 알려줄 수 있습니다. 
+
+암호를 잊은 경우 [로그인할 수 없음](unable-to-sign-in.md)의 도움말을 확인하세요.
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>일반적인 기술 문제에 대한 자세한 내용은 어디서 확인할 수 있나요?
 

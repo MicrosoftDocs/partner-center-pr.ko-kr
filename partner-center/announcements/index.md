@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
+ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591093"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "91625146"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 9월 공지** | **발표** |
+| **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[이제 CSP(클라우드 솔루션 공급자) 파트너를 위한 Windows 7 2년 ESU(연장 보안 업데이트) 제공](2020-october.md#3)|10월 1일|
+|제품/시장|[이제 새로운 시장에서 Office 365 통화 플랜 사용 가능](2020-october.md#2)|10월 1일|
+|기능|[회계 연도 2021(FY21) CSP(Cloud Solution Provider) 인센티브 프로그램 발표](2020-october.md#1)|10월 1일|
+| **범주** | **2020년 9월 공지** | **날짜** |
 |기능|[파트너 센터 소프트웨어 라이선스 키 및 다운로드 이행 알림](2020-september.md#17)|9월 30일|
 |기능|[CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 내용: 더 나은 파트너 및 고객 환경으로의 경험](2020-september.md#16)|9월 30일|
 |기능|[Azure 플랜을 위한 파트너 간의 새 구독 전환 도구의 가용성](2020-september.md#15)|9월 28일|
