@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
-ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
+ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "91625146"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663814"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -23,7 +23,7 @@ ms.locfileid: "91625146"
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
 |제품/시장|[이제 CSP(클라우드 솔루션 공급자) 파트너를 위한 Windows 7 2년 ESU(연장 보안 업데이트) 제공](2020-october.md#3)|10월 1일|
-|제품/시장|[이제 새로운 시장에서 Office 365 통화 플랜 사용 가능](2020-october.md#2)|10월 1일|
+|제품/시장|[새로운 SKU는 Project Cortex 등의 기능을 고객에게 제공합니다.](2020-october.md#2)|10월 1일|
 |기능|[회계 연도 2021(FY21) CSP(Cloud Solution Provider) 인센티브 프로그램 발표](2020-october.md#1)|10월 1일|
 | **범주** | **2020년 9월 공지** | **날짜** |
 |기능|[파트너 센터 소프트웨어 라이선스 키 및 다운로드 이행 알림](2020-september.md#17)|9월 30일|
