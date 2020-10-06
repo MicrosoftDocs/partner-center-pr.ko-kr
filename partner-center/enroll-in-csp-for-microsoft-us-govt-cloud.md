@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999917"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763359"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 클라우드 솔루션 공급자 프로그램에 등록
 
@@ -65,7 +65,7 @@ Microsoft 파트너는 이제 미국 정부에 대 한 Microsoft 클라우드에
 
 1. 응용 프로그램 승인 전자 메일에 제공 된 링크를 사용 하 여 미국 정부 기관에 대 한 Microsoft 클라우드 파트너 센터에 로그인 합니다.
 
-2. **규약** 페이지에서 약관을 읽고 동의 하면 **동의** 함을 선택 하 고 [미국 정부 기관에 대 한 Microsoft 클라우드에 대해 재판매인](https://go.microsoft.com/fwlink/p/?linkid=843364)에 게 디지털 서명 합니다. 계정을 만들려면 몇 시간이 걸릴 수 있습니다. 파트너 센터에서 미국 정부에 대 한 Microsoft 클라우드를 로그 아웃 한 다음 나중에 다시 로그인 합니다.
+2. **규약** 페이지에서 약관을 읽고 동의 하면 **동의** 함을 선택 하 고 미국 정부 기관에 대 한 Microsoft 클라우드에 대해 재판매인에 게 디지털 서명 합니다. 계정을 만들려면 몇 시간이 걸릴 수 있습니다. 파트너 센터에서 미국 정부에 대 한 Microsoft 클라우드를 로그 아웃 한 다음 나중에 다시 로그인 할 수 있습니다.
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>4 단계-미국 정부에 대 한 Microsoft 클라우드에 대 한 Microsoft Azure 관리 포털의 관리 에이전트 역할에 사용자 할당
 
