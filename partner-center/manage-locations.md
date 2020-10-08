@@ -1,42 +1,60 @@
 ---
 title: 파트너 계정의 위치 관리
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: 파트너 센터에서 새로운 위치를 추가하는 방법과 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
+ms.subservice: partnercenter-mpn
+description: 새 위치를 추가하는 방법 및 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436872"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663901"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>파트너 센터에서 파트너 계정 위치 관리 및 새 위치 추가
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN 계정 위치 관리 및 새 위치 추가
+
+**적용 대상**
+
+- 파트너 센터
 
 **적절한 역할**
-- 전역 관리자
-- 사용자 관리자
-- 청구 관리자
-- 관리 에이전트
-- 영업 상담원
 
-위치 MPN ID는 각 회사의 위치를 식별합니다. 위치 MPN ID를 사용하여 인센티브 프로그램에 등록하고, CSP(클라우드 솔루션 공급자) 비즈니스를 거래하고, 새 구독 및 기타 비즈니스 트랜잭션을 추가할 수 있습니다. 회사 MPN ID는 지원 요청 등의 비트랜잭션 작업에 사용됩니다.
+- 글로벌 관리자
+- 계정 관리자
+
+위치 MPN ID는 회사의 각 특정 위치를 식별합니다. 위치 MPN ID를 사용하여 인센티브 프로그램에 등록하고, CSP(클라우드 솔루션 공급자) 비즈니스와 기타 비즈니스 트랜잭션을 처리합니다. 글로벌 MPN ID는 지원 요청과 같은 비 트랜잭션 작업에 사용됩니다.
 
 ## <a name="the-following-is-a-typical-scenario"></a>다음은 일반적인 시나리오입니다.
 
-파트너가 산하에 CSP 회사와 퍼블리싱 회사를 각각 하나씩 거느리고 있을 수 있습니다. 파트너의 CSP 회사가 여러 위치에 분산되어 있고 퍼블리싱 비즈니스는 다른 위치에 있을 수 있습니다. 파트너의 등록된 합법적인 회사는 사용자 추가 또는 지원 요청 로깅과 같은 모든 비트랜잭션 비즈니스를 관리하는 데 사용되는 하나의 MPN ID를 갖고 있습니다.
+Contoso는 영국에 해당 PGA(파트너 글로벌 계정) 위치를 가지고 있습니다. 이 위치는 등록된 법적 회사이며, 모든 비 트랜잭션 비즈니스를 관리하는 데 사용되는 하나의 MPN ID가 있습니다. 또한 Contoso는 영국, 프랑스 및 미국의 다른 위치에 있는 자회사 또는 사업부에 해당하는 PLA(파트너 위치 계정)를 가지고 있습니다. MPN 계정 구조에서 이러한 PLA는 고유한 위치 MPN ID로 표시됩니다. PLA는 CSP 또는 인센티브 프로그램과 같은 트랜잭션 비즈니스에 사용됩니다. 결제는 특정 위치에 연결됩니다. 
 
+>[!NOTE]
+>CSP 테넌트와 MPN 위치 ID 사이에는 일대일 관계가 있습니다.
 
-각 위치에는 CSP 또는 인센티브 프로그램 같은 트랜잭션 비즈니스에 사용되는 MPN ID가 있습니다. 결제는 특정 위치에 연결됩니다.
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="MPN 위치 구조":::
 
-사용자에게는 위치를 넘나드는 역할이 있을 수 있습니다. 예를 들어 인센티브 관리자는 유럽의 모든 위치에 대해 해당 역할을 가질 수 있습니다.
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>새 CSP 비즈니스 위치를 추가하기 위한 필수 구성 요소
 
-## <a name="to-add-a-location"></a>위치를 추가하려면
+새 CSP 비즈니스 위치를 추가하려면 다음과 같은 몇 가지 필수 구성 요소가 있습니다.
+
+1. 비즈니스를 수행하려는 국가에 위치 MPN ID가 있어야 합니다.
+
+1. 아직 CSP에 등록되지 않은 비즈니스 지역에 새 Azure AD 테넌트가 필요합니다. 이 테넌트는 CSP에 등록할 때 만듭니다.
+ 
+3. 새 AAD 테넌트를 사용하여 해당 지역의 CSP 프로그램에 등록합니다.
+법적 회사 이름, 주소, 기본 연락처 세부 정보를 포함한 법적 회사 세부 정보를 제공합니다. 이 계정에는 확인 프로세스가 수행되므로 유효한 정보를 추가해야 합니다.
+
+>[!NOTE] 
+ >**새** Azure AD 테넌트에 대한 **새** 자격 증명을 사용하여 로그인해야 합니다. 파트너 센터에서 이미 계정이 있는 것으로 인식하므로 기존 자격 증명을 사용하지 마세요.
+
+4. Microsoft 파트너 계약에 동의하고 계정을 활성화합니다.
+
+## <a name="add-a-location"></a>위치 추가
 
 1. **설정 아이콘**에서 **파트너 설정**을 선택합니다.
 
@@ -49,16 +67,20 @@ ms.locfileid: "86436872"
 > [!NOTE]
 > 파트너 센터에서 추가한 위치는 제거할 수 없습니다.
 
-## <a name="change-legal-headquarters-location"></a>법률적 본사 위치 변경
+## <a name="change-global-partner-account-location"></a>글로벌 파트너 계정 위치 변경
 
 1. **위치** 페이지에서 위치 목록을 검사하여 법인으로 사용할 위치가 나열되는지 확인합니다. 그렇지 않은 경우 추가합니다.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="현재 모든 위치의 목록이 포함된 파트너 센터 계정 위치 페이지의 스크린샷":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 위치 구조":::
 
 2. **파트너 프로필**, **법적 비즈니스 프로필 업데이트**를 차례로 선택합니다.
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="선택 가능한 업데이트 옵션을 사용하여 파트너 센터 계정 파트너 프로필 정보를 보여주는 스크린샷":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 위치 구조":::
 
 3. 지역 및 법인을 선택하고 **제출**을 선택합니다.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="파트너의 법적 비즈니스 프로필을 업데이트하는 스크린샷에는 국가 또는 지역과 법인을 업데이트하는 드롭다운 목록이 표시됩니다.":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 위치 구조":::
+
+## <a name="next-steps"></a>다음 단계
+
+- [확인 프로세스](verification-responses.md)에 대해 알아보세요.

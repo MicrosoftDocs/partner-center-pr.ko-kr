@@ -1,7 +1,7 @@
 ---
 title: 회사의 글로벌 관리자 되기
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 작업하려면 먼저 도메인의 소유권을 확인해야 합니다. 이 작업을 수행하는 방법과 사용자를 추가할 수 있는 글로벌 관리자가 되는 방법에 대해 알아봅니다.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527389"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663804"
 ---
-# <a name="verify-your-domain-ownership"></a>도메인 소유권 확인
+# <a name="verify-your-domain-ownership-to-become-global-admin"></a>전역 관리자가 되기 위한 도메인 소유권 확인 
 
 **적용 대상:**
 
@@ -25,15 +25,20 @@ ms.locfileid: "87527389"
 **적절한 역할**
 
 - 글로벌 관리자
+- 계정 관리자
 
-회사에서 파트너 센터에 처음 로그인하는 경우 파트너 센터에서 작업을 시작하는 데 필요한 역할이 직원에게 할당되지 않았을 수 있습니다. 파트너 센터에서 작업하려면 모두에게 사용 권한을 포함한 역할이 할당되어야 합니다.  
+회사에서 계정을 파트너 센터에 처음 만드는 경우 작업을 시작하는 데 필요한 역할이 직원에게 할당되지 않았을 수 있습니다.  파트너 센터에서 작업하려면 모두에게 사용 권한을 포함한 역할이 할당되어야 합니다.  
 
-회사에 적합한 혜택을 구매하거나, 새 사용자를 추가하고 역할을 할당하거나, 파트너 센터에서 기타 작업을 수행할 수 있게 도메인의 소유권을 확인해야 합니다.
+## <a name="find-the-companys-global-admin"></a>회사의 전역 관리자 찾기
 
->[!Note]
->예를 들어 회사의 글로벌 관리자는 클라우드 서비스를 관리하는 사용자입니다. 회사에 글로벌 관리자가 있지만 누구인지 확실하지 않은 경우 파트너 센터의 오른쪽 위에 있는 **설정 아이콘**에서 **사용자 관리**를 선택합니다. 사용자 관리로 이동하고 글로벌 관리자를 필터링하여 연락할 글로벌 관리자를 찾습니다.
+1. 파트너 센터 오른쪽 위의 **설정** 아이콘에서 **사용자 관리**를 선택합니다.
 
-## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>파트너 센터에서 도메인 소유권 확인하고 글로벌 관리자 되기
+1. 검색 상자에서 전역 관리자를 필터링합니다. 회사의 전역 관리자 목록이 표시됩니다. 회사에 전역 관리자가 아직 없는 경우 아래 지침을 따릅니다.
+
+
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>파트너 센터에서 전역 관리자가 되기 위한 도메인 소유권 확인
+
+회사의 전역 관리자가 되려면 도메인 소유권을 확인해야 합니다.
 
 1. 파트너 센터 대시보드의 **멤버십 서비스** 페이지에서 **전역 관리자 되기**를 선택합니다. 
 

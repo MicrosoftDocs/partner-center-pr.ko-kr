@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램에 등록
 ms.topic: how-to
-ms.date: 05/18/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인 또는 직접 청구 파트너와 같이 비즈니스에 가장 적합한 CSP(클라우드 솔루션 공급자) 프로그램 판매 모델에 등록하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545824"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763339"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>클라우드 솔루션 공급자 프로그램에 등록하고 수익성 있는 클라우드 솔루션 비즈니스 빌드하기
 
@@ -30,7 +30,7 @@ ms.locfileid: "87545824"
 
 클라우드 기반 솔루션 및 서비스에 대한 수요가 빠르게 늘어남에 따라 크고 작은 Microsoft 파트너가 수익성 높은 클라우드 솔루션 비즈니스를 할 수 있는 여러 기회가 생겨나고 있습니다. 시장에 진입할 준비가 되었지만 여러 공급업체를 관리하기를 원하지 않거나 엔드투엔드 고객 관계 관리 인프라를 갖추지 못한 파트너는 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 간접 재판매인으로 등록할 수 있습니다.
 
-클라우드 솔루션 공급자 프로그램에 등록하려면 MPN ID가 필요합니다. 아직 MPN ID가 없나요? [여기](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)서 가입하세요.
+클라우드 솔루션 공급자 프로그램에 등록하려면 MPN ID가 필요합니다. 아직 MPN ID가 없나요? [여기](https://partner.microsoft.com/)서 가입하세요.
 
 CSP 신청을 완료하려면 회사의 MPN ID가 필요하며, 근무지 주소, 은행 정보, 파트너 센터의 관리자 역할을 할 직원의 회사 이메일을 입력해야 합니다.
 
@@ -96,4 +96,5 @@ CSP 프로그램이 계속 발전하고 확장되면서, 직접 청구 파트너
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 지역 시장 및 통화
 
 회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP 제품을 판매할 수 있는 지역 및/또는 국가가 포함됩니다. 시장 위치 및 통화는 [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)를 참조하세요.
+[새 MPN ID 위치 추가](manage-locations.md)를 반드시 참조하세요.
 

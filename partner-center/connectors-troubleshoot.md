@@ -8,12 +8,12 @@ description: 공동 판매 커넥터 문제를 해결 하는 방법에 대 한 F
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422339"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844657"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>공동 판매 추천 커넥터 문제 해결
 
@@ -42,11 +42,11 @@ ms.locfileid: "91422339"
  
 파트너 판매자에 게는 "조회 관리자" 역할을 할당 해야 합니다. 자세한 내용은 다음을 참조 하십시오. [사용 권한 개요) (사용자-계정 및 설정-권한)
 
-4. CRM 환경에서 먼저 설정 해야 하는 필드는 무엇 인가요? 
+4. CRM 환경에서 먼저 설정 해야 하는 필드는 무엇입니까? 
 
 • 통화가 사용자의 위치에 적합 하 고 CRM 환경에서 정확 하 게 사용 되는지 확인 합니다. • 영업 팀이 crm 환경에 CRM 사용자로 나열 되어야 합니다.
 
-5.  전원 자동화 환경 만들기에 필요한 필수 구성 요소는 무엇 인가요?
+5. 전원 자동화 환경 만들기에 필요한 필수 구성 요소는 무엇 인가요?
 
 전원 자동화 환경을 사용 하려면 다음이 필요 합니다.
 
@@ -55,7 +55,7 @@ ms.locfileid: "91422339"
 
 6.  Salesforce 커넥터 솔루션을 사용 하려면 Dynamics 365 구독이 필요 한가요?
 
-Salesforce 커넥터 솔루션은 다른 CRM 시스템과의 동기화를 지 원하는 "Dynamics Flow" 유형입니다. 이 솔루션에는 Dynamics 365 인스턴스 또는 구독이 필요 하지 않습니다. Salesforce 솔루션을 설치 하는 동안 회사에서 기존 CD 환경을 사용한 드롭다운이 표시 될 수 있습니다. 해당 환경을 선택 해야 합니다. 또한 로그인 한 사용자에 게 연결 된 Dynamics 365 조직을 찾을 수 없다는 오류가 표시 되 면 커넥터에 대 한 새 환경을 만들어야 합니다.
+Salesforce 커넥터 솔루션은 다른 CRM 시스템과의 동기화를 지 원하는 "Dynamics Flow" 유형입니다. 이 솔루션에는 Dynamics 365 인스턴스 또는 구독이 필요 하지 않습니다. Salesforce 솔루션을 설치 하는 동안 회사에서 기존 CD 환경을 사용한 드롭다운이 표시 될 수 있습니다. 해당 환경을 선택 해야 합니다. 또한 "로그인 한 사용자에 게 연결 된 Dynamics 365 조직을 찾을 수 없습니다." 라는 오류 메시지가 표시 되 면 커넥터에 대 한 새 환경을 만들어야 합니다.
 
 ## <a name="questions-and-answers-about-configuration"></a>구성에 대 한 질문과 대답
 
@@ -69,18 +69,18 @@ Salesforce 커넥터 솔루션은 다른 CRM 시스템과의 동기화를 지 �
 - 자식 흐름을 끄고 설정 
 - 솔루션을 삭제 한 다음 솔루션을 다시 설치 합니다. 
 
-2.  전원 자동화 플랫폼에서 파트너 센터 커넥터를 추가 하는 동안 다음 오류가 발생 하는 경우 어떻게 해야 하나요?
+2.  전원 자동화 플랫폼에서 파트너 센터 커넥터를 추가 하는 동안 "로그인" 오류가 발생 하는 경우 어떻게 해야 하나요?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="로그인을 요구 하는 오류 메시지":::
 
 다음 문제 해결 단계를 수행 합니다.
 
-- 파트너 센터 로그인을 사용 하 여 흐름 환경에 한 번 로그인 합니다 (flow.microsoft.com).
+- 파트너 센터 자격 증명을 사용 하 여 흐름 환경에 한 번 로그인 합니다 (flow.microsoft.com).
 
 
 3. 전원 자동화 플랫폼에서 파트너 센터를 CRM 흐름으로 활성화 하는 동안 다음과 같은 오류가 표시 되 면 어떻게 해야 하나요?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="업데이트 해야 하는 오류 메시지":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="로그인을 요구 하는 오류 메시지":::
 
 다음 문제 해결 단계를 수행 합니다.
 
@@ -90,21 +90,21 @@ Salesforce 커넥터 솔루션은 다른 CRM 시스템과의 동기화를 지 �
 
 4. 흐름을 편집 하려고 할 때 흐름에 대 한 연결을 추가할 수 없는 경우 어떻게 해야 하나요?
 
-흐름이 실행 되는 동안 흐름에 연결을 추가 하 고 각 흐름에 개별적으로 추가 합니다.  흐름을 편집 하는 동안 연결을 추가 하는 대화 상자가 자동으로 열리지 않는 경우 흐름의 각 단계와 하위 단계를 편집 하 여 연결을 추가할 수 있습니다.
+흐름이 실행 되는 동안 흐름에 연결을 추가 하 고 각 흐름에 개별적으로 추가 합니다.  흐름을 편집 하는 동안 연결을 추가 하는 대화 상자가 자동으로 열리지 않는 경우 흐름의 각 단계와 하위 단계를 개별적으로 편집할 수 있습니다.
 
 - 각 흐름을 선택 하 고 개별적으로 편집 합니다.
 - 흐름의 모든 단계를 확장 합니다. 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="연결 해야 하는 단계":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="로그인을 요구 하는 오류 메시지":::
 
 - 연결을 연결 하 고 연결을 추가 하 라는 경고 아이콘이 표시 되는 단계를 선택 합니다. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="흐름 단계별 편집":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="로그인을 요구 하는 오류 메시지":::
 
 
-5. 공동 판매 된 조회 커넥터 솔루션의 흐름이 활성화 되지 않으면 어떻게 해야 하나요? (설정)
+5. 공동 판매 된 조회 커넥터 솔루션의 흐름이 켜지 지 않으면 어떻게 해야 하나요?
 
-A. 전원 자동화에서 다음 순서로 흐름을 편집 하 고 각 연결을 사용 하도록 업데이트 해야 합니다.
+A. 전원 자동화에서 다음과 같은 순서로 흐름을 편집 하 고 올바른 연결을 사용 하도록 업데이트 해야 합니다.
 
 - 파트너 센터 Webhook 등록 (Insider Preview)
 - 공동 판매 참조-Salesforce를 파트너 센터 (Insider Preview)에 만듭니다.
@@ -116,7 +116,7 @@ A. 전원 자동화에서 다음 순서로 흐름을 편집 하 고 각 연결�
 
  B. 각 흐름에 대해 **실행만 사용자** 옵션을 선택 합니다. **실행 전용 사용자가 제공 하**는 대신 **연결 사용** 을 선택 합니다.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="흐름을 활성화 하려면":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="로그인을 요구 하는 오류 메시지":::
 
 
 C. 아래에서 언급 한 흐름을 활성화 합니다.
@@ -140,7 +140,7 @@ E. Flow 파트너 센터 Webhook 등록에서 **실행**을 선택 합니다. **
  
 조회 동기화 상태를 확인 하려면 **감사**를 선택 합니다. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="조회를 동기화 하는 방법":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="로그인을 요구 하는 오류 메시지":::
 
 다음 조건이 충족 되는지 확인 합니다.
 
@@ -150,59 +150,13 @@ E. Flow 파트너 센터 Webhook 등록에서 **실행**을 선택 합니다. **
 
 - Microsoft의 도움을 기회에 대해 선택 하는 경우 고객 연락처 정보가 필요 합니다.
 
-3. 조회가 양방향를 동기화 하지 않는 조건
+3. 조회가 양방향를 동기화 하는지 확인 하는 방법
 
-다음을 확인합니다.
+다음 단계를 수행합니다.
 
 - 파트너 판매자는 CRM 섹션에서 **파트너 센터와 동기화** 를 사용 하도록 설정 했는지 확인 해야 합니다.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="동기화를 사용 하도록 설정 했는지 확인":::
-
-- 판매자는 잠재 고객을 한 정하는 경우 수익 및 마감 날짜를 제공 해야 합니다.
-
-- 공동 판매 기회를 만들거나 업데이트 하는 데 CRM id가 제공 되는 경우 crm에서 해당 id를 사용 하는 잠재 고객/기회를 찾을 수 없으면 해당 기회에 대해 업데이트 또는 만들기가 무시 됩니다.
-
-- Salesforce 환경에서 조회 통화 필드가 구성 되어 있는지 확인 합니다. 
-
-4. 커넥터의 연결을 끊고 조회 동기화를 누락 하는 경우 어떻게 해야 하나요? 
-
-시험해 볼 수 있는 몇 가지 옵션은 다음과 같습니다.
-
-- 조회 관리자 역할이 있는 파트너 센터 사용자에 대 한 사용자 이름 또는 암호가 만료 되었는지 여부를 확인 합니다.
-
-- 동기화 되지 않은 기회로 이동 하 고, 사소한 업데이트를 수행 하 고, 조회가 동기화 되었는지 확인할 수 있습니다.
-
-- 흐름이 실행 되 고 실패 한 경우 흐름을 선택 하 고 실패 한 실행을 다시 제출 합니다.
-
-5. 액세스 거부 오류가 발생 하는 경우 어떻게 해야 하나요?
-
-적절 한 역할이 있는지 확인 합니다.
-
-- 파트너 센터 판매자에 대 한 조회 관리자 역할 
- 
-- CRM 인스턴스의 시스템 관리자 또는 시스템 사용자 지정자 역할
-
-- Power 자동화 흐름 계정 사용자가 https://flow.microsoft.com 사전에 한 번 이상 로그인 해야 합니다.
-
-6. 공동 판매 기회를 만드는 동안 **고객 계정 국가 코드가** 누락 되는 경우 어떻게 해야 하나요?
-
-CRM의 고객 계정에 ISO 2 자로 된 국가 번호를 추가 해야 합니다.
-
-7. 공동 판매 기회를 만드는 동안 **솔루션 Id가 필요** 하다는 오류가 표시 되 면 어떻게 해야 하나요?
-
-공동 판매 조회를 만들려면 Microsoft 공동 판매 준비 솔루션이 필요 합니다. 
-
-8. 흐름 오류가 없더라도 CRM에 동기화 되지 않은 파트너 센터에서 만든 공동 판매 기회가 표시 되는 경우 어떻게 해야 하나요?
-
-다음을 수행합니다.
-
-- 파트너 센터에서 새 공동 판매 거래를 만든 후에는 파트너 센터가 Dynamics 365 flow를 호출 하는지 확인 합니다 (여러 번 호출 될 수 있음).
-
-- 흐름이 호출 되 면 호출 된 모든 흐름을 확인 하 고 CRM을 업데이트 하는 흐름 실행을 식별 합니다. 작업을 수행 하 여 CRM을 업데이트 했거나 문제가 발생 했는지 확인할 수 있습니다.
-
-- 파트너 센터에서 *새 거래**를 확인 하 여 CRM id로 채워져 있는지 확인 합니다.
-
-- 거래 센터에서 "성공" 또는 "손실"로 인해 실수로 닫히지 않았는지 확인 합니다.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="로그인을 요구 하는 오류 메시지" 또는 "손실"로 인해 실수로 닫히지 않았는지 확인 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

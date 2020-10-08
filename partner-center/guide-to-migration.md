@@ -1,7 +1,7 @@
 ---
 title: PMC에서 파트너 센터로 마이그레이션
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사를 PMC(Partner Membership Center)에서 파트너 센터로 마이그레이션하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000567"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663834"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 
@@ -53,7 +53,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 >[!NOTE]
 >중국의 파트너이며 Microsoft 파트너 네트워크와 CSP(클라우드 솔루션 공급자) 프로그램 모두에 등록되어 있는 경우 각 계정에 대해 별도의 테넌트가 제공됩니다. 클라우드 솔루션 공급자 프로그램 계정은 국가 클라우드에서 관리되고 Microsoft 파트너 네트워크 계정은 글로벌 클라우드에서 관리됩니다. 두 계정을 연결할 수 없습니다.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="회사에 대한 정보 제공":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="시작":::
 
 정보를 확인하거나 업데이트한 후 **동의 후 계속**을 선택합니다.
 이 페이지의 계약조건은 회사가 PMC에서 이미 서명한 계약과 **똑같습니다**.  
@@ -71,7 +71,7 @@ PMC에서 이동이 시작됩니다. 글로벌 관리자가 이동을 시작하�
 
 새 Azure AD 테넌트가 생성되면 파트너 센터에 로그인하도록 직원들을 초대할 수 있습니다.
 
-:::image type="content" source="images/migration/invite.png" alt-text="직원 초대":::
+:::image type="content" source="images/migration/invite.png" alt-text="시작":::
 
 기존 AAD 테넌트로 로그인하면 직원이 귀사와 함께 이동합니다. 이 경우 파트너 센터에서 수행할 수 있는 작업을 결정하는 역할을 직원에게 할당합니다. 
 
@@ -84,11 +84,11 @@ AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 
 
 이미 구매한 제품을 사용할 수 있지만 전역 관리자를 할당하는 단계를 완료할 때까지 새 제품을 구매할 수 없습니다.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="제어":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="시작":::
 
 시작하기를 선택하면 다음 화면이 나타납니다.
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="도메인 소유권 확인":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="시작":::
 
 도메인 등록 기관은 이미 입력되어 있습니다. 도메인 소유자만 DNS 파일을 업데이트할 수 있으므로 텍스트 파일을 복사하고 DNS 레코드에 추가하여 자신이 소유자인지 확인할 수 있습니다. 업데이트가 수행되는 데 몇 분 정도 걸릴 수 있습니다. 파트너 센터에서 로그아웃했다가 다시 로그인해야 합니다. 역할이 글로벌 관리자로 변경됩니다.
 
@@ -96,9 +96,21 @@ AAD 테넌트가 새로 생성된 경우 아무에게도 글로벌 관리자의 
 
 대시보드를 둘러봅니다. 여기에서 멤버십을 관리하고, 조회를 위한 비즈니스 프로필을 추가하고, 클라우드 솔루션 공급자 프로그램에 등록하고, **대시보드**를 선택하여 언제든지 비즈니스에 관련된 알림과 제품을 확인할 수 있습니다. 또한 인센티브를 관리하고, 마켓플레이스에서 구매하고, 출시 서비스에 가입하는 등의 작업을 수행할 수 있습니다.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="둘러보기":::
+:::image type="content" source="images/migration/fre.png" alt-text="시작":::
+
+## <a name="sign-the-microsoft-partner-agreement"></a>Microsoft 파트너 계약에 서명
+
+간접 재판매인이 파트너 센터 계정을 설정한 경우에도 클라우드 솔루션 공급자 프로그램에 공식적으로 등록해야 합니다. 멤버 자격 상태를 확인하려면 [파트너 프로필](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)로 이동하여 계정 유형을 확인합니다. 그런 다음, CSP에 [간접 재판매인](enrolling-in-the-csp-program.md)으로 등록합니다.
+
+ 간접 재판매인으로 등록되면 [간접 공급자와의 CSP 관계 요청](indirect-reseller-tasks-in-partner-center.md)을 수락합니다.
+
+다음으로, 전역 관리자 자격 증명을 사용하여 파트너 센터 [대시보드](https://partner.microsoft.com/pvc/dashboard) 개요에서 Microsoft 파트너 계약에 동의합니다. 파트너 프로필의 [프로그램 정보] 섹션에서 Microsoft 파트너 계약에 서명했는지 확인합니다. 또한 [CSP 개요] 페이지에는 확인 배너 알림이 표시됩니다. 
 
 ## <a name="next-steps"></a>다음 단계
+
+- [전역 관리자 찾기](become-global-admin.md)
+
+- [Microsoft 파트너 계약](microsoft-partner-agreement.md)
 
 - [사용자 계정 만들기](create-user-accounts-and-set-permissions.md)
 
