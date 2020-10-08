@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
+ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663814"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91772247"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,10 @@ ms.locfileid: "91663814"
 
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[Microsoft Teams Rooms Premium SKU 시작](2020-october.md#7)|10월 5일|
+|제품/시장|[이제 새로운 시장에서 Microsoft 통화 플랜 사용 가능](2020-october.md#6)|10월 2일|
+|제품/시장|[Microsoft Teams Advanced Communications의 프로모션이 곧 시작될 예정](2020-october.md#5)|10월 2일|
+|제품/시장|[Dynamics 365를 위한 새로운 혜택 및 제품 곧 출시 예정](2020-october.md#4)|10월 2일|
 |제품/시장|[이제 CSP(클라우드 솔루션 공급자) 파트너를 위한 Windows 7 2년 ESU(연장 보안 업데이트) 제공](2020-october.md#3)|10월 1일|
 |제품/시장|[새로운 SKU는 Project Cortex 등의 기능을 고객에게 제공합니다.](2020-october.md#2)|10월 1일|
 |기능|[회계 연도 2021(FY21) CSP(Cloud Solution Provider) 인센티브 프로그램 발표](2020-october.md#1)|10월 1일|
