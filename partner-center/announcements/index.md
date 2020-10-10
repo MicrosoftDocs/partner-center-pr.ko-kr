@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772247"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844677"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "91772247"
 
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[Azure Marketplace의 단순화된 Azure 앱 환경](2020-october.md#8)|10월 7일|
 |제품/시장|[Microsoft Teams Rooms Premium SKU 시작](2020-october.md#7)|10월 5일|
 |제품/시장|[이제 새로운 시장에서 Microsoft 통화 플랜 사용 가능](2020-october.md#6)|10월 2일|
 |제품/시장|[Microsoft Teams Advanced Communications의 프로모션이 곧 시작될 예정](2020-october.md#5)|10월 2일|
