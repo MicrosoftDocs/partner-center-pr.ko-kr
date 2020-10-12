@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114830"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899231"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 고객 계약
 
@@ -127,11 +127,11 @@ Microsoft 고객 계약은 지역별로 다르며 여러 언어로 제공됩니�
     
     독일에서 Criminal Code(203항) 및 전문 행동 수칙에 따르면 환자와 의사의 관계, 변호사와 고객의 관계와 같은 특정 클라이언트 관계는 기밀로 유지해야 합니다. 이러한 직업 그룹은 전문 비밀 유지를 보장해야 합니다. 이러한 전문직 및 기타 전문직에서 클라우드 솔루션 공급자로부터 클라우드 기반 서비스를 구입하려면 클라우드 서비스 공급자가 고객과 전문 비밀 유지를 보장하는 서면 계약을 해야 합니다.
 
-    독일에서 비즈니스를 수행하는 경우 Microsoft 클라우드 계약 외에도 이 전문 비밀 유지 수정본을 고객에게 제공해야 할 수 있습니다.
+    독일에서 비즈니스를 수행하는 경우 Microsoft 고객 계약 외에도 이 전문 비밀 유지 수정본을 고객에게 제공해야 할 수 있습니다.
 
-  - [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [독일의 Microsoft 클라우드 계약 전문 비밀 유지 수정본(DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - 지브롤터: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 그리스: [영어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [그리스어](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
