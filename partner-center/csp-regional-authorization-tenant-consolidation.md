@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000377"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006782"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 지역 권한 부여 테넌트 통합에 대한 지침
 
@@ -148,4 +148,4 @@ API 등록에 대 한 자세한 내용은 [파트너 센터에서 api 액세스 
 
 ## <a name="next-steps"></a>다음 단계
 
-- [파트너 센터에서 재판매인 파트너를 위한 고객 계정 설정 및 관리](customer-accounts.md)
+- [CSP 제품을 판매할 수 있는 클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)

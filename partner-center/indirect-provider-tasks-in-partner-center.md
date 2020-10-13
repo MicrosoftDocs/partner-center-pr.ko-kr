@@ -9,18 +9,18 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545984"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006878"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 간접 재판매인과 파트너
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 영업 상담원
@@ -98,14 +98,14 @@ ms.locfileid: "87545984"
 
 - 구독 정보 페이지의 **재판매인 (MPN ID)** 필드에 사용할 재판매인을 추가 합니다. 이를 통해 재판매인은 적절 한 성과급을 받게 됩니다.
 
-| **이를 수행 하려면** | **수행할 작업** | **Where** |
+| **이를 수행 하려면** | **단계** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | 재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 대리점을 고객 계정에 연결 | **새 고객** 페이지에서 |
 | 재판매인이 Azure 고객의 계정을 관리할 수 있도록 설정|새 고객을 추가 하는 경우 Azure 고객 계정에 재판매인 연결|**Azure 서비스 포털**에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) 을 선택 하 여 간접 재판매인 **테 넌 트 소유자** 권한을 부여 합니다.|
 | 재판매인 크레딧을 통해 성과급 얻기 | 대리점을 구독 (신규 또는 기존)에 연결 | **새 구독** 페이지에서 |
 | 대리점에 대 한 특정 구독에 대 한 고객 지원 위임 | **지정 된 지원 연락처** 목록에서 재판매인을 선택 합니다. | 구독 세부 정보 페이지의 **고객 페이지에서 고객을** 선택한 다음 고객의 **구독** 페이지에서 구독을 선택 합니다. |
 
-## <a name="remove-partnership-with-indirect-resellers"></a>간접 대리점과 파트너 관계 제거
+## <a name="remove-partnership-with-indirect-resellers"></a>간접 재판매인과 파트너 관계 제거
 
 기존 간접 재판매인과 파트너 관계를 제거 하려면 아래 단계를 수행 합니다. 
 
@@ -147,7 +147,7 @@ ms.locfileid: "87545984"
     > [!IMPORTANT]  
     > 이 페이지를 닫은 후에는이 정보에 다시 액세스할 수 없으므로 사용자 계정 이름 및 암호를 기록해 두어야 합니다.
 
-7. **완료**를 선택합니다. 새 고객은 간접 재판매인과 연결 된 고객 목록에 표시 됩니다. 이제 재판매인은 고객의 계정 정보 및 구독에 대 한 관리자 액세스 권한을 가지 며 고객을 대신 하 여 구독을 관리할 수 있습니다.
+7. **완료** 를 선택합니다. 새 고객은 간접 재판매인과 연결 된 고객 목록에 표시 됩니다. 이제 재판매인은 고객의 계정 정보 및 구독에 대 한 관리자 액세스 권한을 가지 며 고객을 대신 하 여 구독을 관리할 수 있습니다.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>고객 계정에 새 구독 추가
 
@@ -170,7 +170,5 @@ ms.locfileid: "87545984"
 ## <a name="next-steps"></a>다음 단계
 
 고객 계정 및 구독 관리에 대 한 자세한 내용은 다음을 참조 하세요.
-
-- [고객 계정](customer-accounts.md)
 
 - [고객 구독](customer-subscriptions.md)
