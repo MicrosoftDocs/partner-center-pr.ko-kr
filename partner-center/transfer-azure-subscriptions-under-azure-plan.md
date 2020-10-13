@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422571"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980264"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>고객의 Azure 계획 구독을 다른 파트너에 게 전송
 
@@ -37,7 +37,7 @@ ms.locfileid: "91422571"
 - 현재 파트너의 Azure 서비스에 대 한 CSP 가격은 전환 되지 않습니다.  
 - 고객에 대 한 지원 책임이 이후 파트너로 이동 합니다.
 - 전송 시 청구 및 청구는 이후 파트너로 이동 합니다.
-- Azure RBAC (역할 기반 Access Control)는 전송의 영향을 받지 않습니다.
+- Azure Role-Based Access Control (RBAC)는 전송의 영향을 받지 않습니다.
 - (AOBO)를 대신 하 여 관리자는 이후 파트너에 게 기본적으로 부여 되지 않습니다.
 - 타사 marketplace 제품은 제품이 Marketplace 자격 검사를 통과 하는 동안 전송 됩니다.
     - 특별 한 할인이 나 지역 제한은 없습니다.
@@ -77,20 +77,17 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 
 6.  **전송 전송 요청**  >  **보내기**를 선택 합니다.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="전송 요청 양식 완료":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="전송 섹션":::
 
 7.  전송 요청 확인 검토
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="보류 중인 전송 검토":::
-
-    >[!Note]
-    >이후 파트너는 전송 요청 상태가 "보류 중" 인 경우에만 오른쪽 위 모서리에서 **요청 취소** 를 선택 하 여 전송 요청을 취소할 수 있습니다. 전송 요청 상태가 "진행 중" 또는 "완료" 이면 취소가 가능 하지 않습니다.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="전송 섹션" 이면 취소가 가능 하지 않습니다.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>완료할 현재 파트너 작업
 
 현재 파트너의 고객 관리 에이전트는 고객의 구독 전송을 요청 하는 전자 메일을 받게 됩니다.
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="검토":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="전송 섹션":::
 
 파트너 센터에서 전송 요청 양식을 검토 하 고 수락 하 여 구독 이전을 완료 합니다.
 
@@ -103,7 +100,7 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 3.  **전송 요청** 섹션을 선택 합니다.
 4.  **받은 요청** 에서 선택한 **전송 요청 ID** 를 선택 하 여 전송 정보를 확장 합니다.
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="원본 검토 전송 요청":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="전송 섹션":::
 
 5.  전송 요청을 검토 합니다. 전송할 요청 된 Azure 구독을 선택 합니다.
 
@@ -114,7 +111,7 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 
 6.  그런 다음 **수락 및 전송** 을 선택 하 여 전송 프로세스를 완료 합니다.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure 요금제로 전송할 구독 선택":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="전송 섹션":::
 
 7.  전송 승인 확인을 표시 합니다.
 
@@ -132,9 +129,9 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 
 - 따라서 고객이 이전 파트너에 대 한 Azure RBAC 액세스를 제거 하 고 새 파트너에 대 한 액세스를 추가 하는 것이 중요 합니다. 고객이 새 액세스 권한을 부여 하는 방법에 대 한 자세한 내용은 [azure 역할 기반 액세스 제어 란? (AZURE RBAC)](/azure/role-based-access-control/overview) 을 참조 하세요. 사용자가 이전 파트너의 RBAC 액세스를 제거 하는 방법에 대 한 자세한 내용은 [역할 할당 제거](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)를 참조 하세요.
 
-- 또한 구독에 대 한 액세스 권한 [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 을 자동으로 가져오지 않습니다. AOBO는 파트너의 고객을 대신 하 여 고객의 Azure 구독을 관리 하는 데 필요 합니다. Azure 권한에 대 한 자세한 내용은 [고객의 서비스 또는 구독을 관리할 수 있는 권한 얻기](/partner-center/customers-revoke-admin-privileges) 를 참조 하세요.
+- 또한 구독에 대 한 액세스 권한 [(AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 을 자동으로 가져오지 않습니다. AOBO는 파트너의 고객을 대신 하 여 고객의 Azure 구독을 관리 하는 데 필요 합니다. Azure 권한에 대 한 자세한 내용은 [고객의 서비스 또는 구독을 관리할 수 있는 권한 얻기](./customers-revoke-admin-privileges.md) 를 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계:
 
 - [(Azure RBAC)](/azure/role-based-access-control/overview)
-- [고객의 서비스 또는 구독을 관리할 수 있는 권한을 획득 합니다.](/partner-center/customers-revoke-admin-privileges)
+- [고객의 서비스 또는 구독을 관리할 수 있는 권한을 획득 합니다.](./customers-revoke-admin-privileges.md)
