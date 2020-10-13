@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/05/2020
-ms.openlocfilehash: 36577ea1c64a75802602613628e5ff59fa9e6eb4
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772259"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844667"
 ---
 # <a name="october-2020-announcements"></a>2020년 10월 공지
 
 이 페이지에서는 2020년 10월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지:  [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | 10월
+
+________________
+
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Azure Marketplace의 단순화된 Azure 앱 환경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-07
+- 기능
+ 
+### <a name="summary"></a>요약 
+
+Azure Portal UX(사용자 환경)는 최근 모든 Azure 애플리케이션에 대해 수정되었습니다. 이는 ISV(독립 소프트웨어 공급업체)의 필요한 항목과 다음 단계에 대한 업데이트입니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+Azure 앱을 게시하는 모든 ISV
+
+### <a name="details"></a>세부 정보
+
+Azure Portal에서 Azure 앱의 UX를 간소화했습니다.
+
+이 이메일은 Azure Marketplace에 Azure 애플리케이션(솔루션 템플릿 및 관리되는 앱)을 게시했거나 게시하도록 등록했기 때문에 전송되었습니다.
+
+고객이 Azure 애플리케이션을 사용하고 관리하는 방식을 개선하기 위해 [Azure Portal](https://ms.portal.azure.com/)을 일부 변경했습니다. 고객 문서 및 참조 자료가 새로운 환경을 반영하는지 확인하기 위해 **검토 및 업데이트**합니다.
+Azure Portal의 새로운 기능은 다음과 같습니다.
+
+- 이전 섹션을 완료할 필요 없이 임의 섹션의 정보를 보고 편집하고 저장할 수 있는 유연한 탐색 기능.
+- 다중 중첩 수준이 없는 새로운 전체 페이지 보기.
+- Azure 리소스에 태그를 지정하고 구성하는 새로운 기능. 태그 지정에 대한 자세한 내용은 [태그를 사용하여 Azure 리소스 구성](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)을 참조하세요.
+
+이러한 변경 내용에 대한 질문이 있으면 [지원 팀](https://aka.ms/marketplacepublishersupport)에 문의하세요.
+
+### <a name="next-steps"></a>다음 단계
+
+고객 문서 및 참조 자료가 새로운 환경을 반영하는지 확인하기 위해 검토 및 업데이트합니다.
 
 ________________
 
@@ -203,7 +239,7 @@ Microsoft Teams 및 모든 Microsoft 365/Office 365 제품군입니다.
 - [Teams 파트너 가이드](https://aka.ms/teamscallingmeetingsguide)의 리소스 섹션을 검토합니다.
 - Microsoft Teams 프로모션 제품에 대한 자세한 내용은 [해당 블로그](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) 또는 [Office 365 파트너 Yammer 그룹](https://www.yammer.com/office365partners/)에서 확인할 수 있습니다.
 
-## <a name="questions"></a>궁금한 점이 더 있나요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
 이러한 제품에 대한 질문은 Microsoft 영업 팀 또는 지원 담당자에게 문의하세요.
 
