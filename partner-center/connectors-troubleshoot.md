@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 공동 판매 커넥터 문제를 해결 하는 방법에 대 한 FAQ입니다.
+description: 공동 판매 커넥터 사용에 대 한 일반적인 질문에 대 한 대답을 알아봅니다. 공동 판매 커넥터 문제를 해결 하는 방법에 대 한 FAQ를 참조 하세요.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844657"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031266"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>공동 판매 추천 커넥터 문제 해결
 

@@ -2,17 +2,17 @@
 title: 매일 등급 사용 조정 파일
 ms.topic: article
 ms.date: 06/12/2020
-description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
+description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다. 정찰 파일의 특정 필드에 대 한 설명을 포함 합니다.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281315"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031966"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -70,7 +70,7 @@ ms.locfileid: "89281315"
 | ResourceGroup | Azure 솔루션에 관련 된 리소스를 보유 하는 컨테이너를 나타냅니다. |
 | ResourceURI | 사용 되는 리소스의 URI입니다. |
 | ChargeType | 요금 또는 조정의 유형입니다.  |
-| UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
+| 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다.  |
 | BillingPreTaxTotal | 세금 전 총 청구 금액입니다.<br/> _**BillingPreTaxTotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |

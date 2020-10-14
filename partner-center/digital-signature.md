@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 이제 파트너가 디지털 청구서에 디지털 서명할 수 있습니다.
+description: 인도 파트너 센터 파트너가 디지털 서명 된 청구서를 보고 파트너 센터에서 만든 주문에 대해 청구서의 디지털 복사본을 받을 수 있는 방법을 알아봅니다.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490651"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031956"
 ---
 # <a name="view-digitally-signed-invoices"></a>디지털 서명 된 송장 보기
 
@@ -38,15 +38,15 @@ ms.locfileid: "89490651"
 
 3. 서명을 클릭 합니다. 유효성을 나타내는 인증서가 표시 됩니다.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="승인 된 서명자 필드 및 서명 유효성 검사 상태 대화 상자에 세부 정보, 서명 속성 옵션, 취소 옵션이 있는 서명 된 송장"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="녹색 확인 표시 서명 및 문구를 표시 하는 유효한 서명 알림 배너가 있는 샘플 청구서 (서명 및 모든 서명 유효)."::: 
 
 4. 서명 유효성 검사에 대 한 자세한 내용을 보려면 **서명 속성** 을 선택 합니다.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="서명 속성 세부 정보 보기에는 문서가 서명 된 시기, 위치, 유효성 검사 프로세스 및 서명자의 인증서에 대 한 정보가 표시 됩니다."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="녹색 확인 표시 서명 및 문구를 표시 하는 유효한 서명 알림 배너가 있는 샘플 청구서 (서명 및 모든 서명 유효)."::: 
 
 4. 인증 경로가 올바르고 인증서를 신뢰할 수 있는지 확인할 수도 있습니다.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="인증서 뷰어 대화 상자에는 인증서 및 전체 발급 체인에 대 한 자세한 정보가 포함 된 여러 탭이 표시 됩니다.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="녹색 확인 표시 서명 및 문구를 표시 하는 유효한 서명 알림 배너가 있는 샘플 청구서 (서명 및 모든 서명 유효).":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>송장 및 디지털 서명에 대 한 추가 정보
 

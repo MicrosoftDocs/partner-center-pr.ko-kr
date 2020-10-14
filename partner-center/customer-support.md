@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP 프로그램의 파트너에 대 한 고객 지원 책임에 대해 알아봅니다.
+description: 청구, 구독 관리 및 기술 문제에 대 한 세부 정보를 포함 하 여 CSP 프로그램의 파트너에 대 한 고객 지원 책임에 대해 알아봅니다.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2ae8ff6491388af8ed4c7865fef730a946fea332
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ec9c80d7e57e0252f68f7ed7f7b0f73f8812de9d
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114370"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032046"
 ---
-# <a name="providing-different-types-of-support-to-your-customers"></a>고객에 게 다양 한 지원 유형 제공
+# <a name="providing-different-types-of-support-to-your-customers"></a>고객에게 다양한 지원 유형 제공
 
 **적용 대상**
 

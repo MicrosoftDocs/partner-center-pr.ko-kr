@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663914"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032036"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft에서 발급하는 IRS 세금 양식 이해
 
@@ -75,3 +75,7 @@ ms.locfileid: "91663914"
 
 > [!NOTE]
 > **IRS 세금 양식과**관련 된 추가 질문이 나 문제가 있는 경우 파트너 센터 대시보드의 [도움말 및 지원](https://partner.microsoft.com/dashboard/support/) 으로 이동 하세요. Microsoft는 특정 세금 환경과 관련 된 질문에 답변할 수 없습니다. 이러한 질문의 경우 세금 전문가에 게 조언을 문의 하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [상업용 마켓플레이스에서 지급 받기](marketplace-get-paid.md)

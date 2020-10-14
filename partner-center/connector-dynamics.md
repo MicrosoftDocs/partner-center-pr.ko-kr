@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 CRM과 파트너 센터의 조회 동기화
+description: Dynamics 365 CRM 용 공동 판매 커넥터와 파트너 센터의 조회를 동기화 합니다. 그런 다음 판매자는 CRM 시스템 내에서 Microsoft와 공동 판매할 수 있습니다.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000497"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031336"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -60,7 +60,7 @@ ms.locfileid: "91000497"
 
 10. **Dynamics 365에 대 한 파트너 센터 조회 동기화를**선택 합니다. 다음과 같은 전원 자동화 흐름과 엔터티를 사용할 수 있습니다.
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="사용 가능한 CRMS":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="AppSource 열기":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>모범 사례: 라이브 상태로 전환 하기 전에 테스트
 
@@ -89,7 +89,7 @@ ms.locfileid: "91000497"
 
       2. **연결 만들기**를 클릭 하 여 연결을 만듭니다.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="연결 만들기":::
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="AppSource 열기":::
 
       3. 오른쪽 위 모서리의 검색 창에서 **파트너 센터 조회 (미리 보기)** 를 검색 합니다.
 
@@ -111,11 +111,11 @@ ms.locfileid: "91000497"
 
 2. 아래 강조 표시 된 대로 조회 관리자 자격 증명 (b.) 파트너 센터 이벤트를 사용 하 여 (a.) 파트너 센터 사용자에 대 한 연결을 추가 합니다.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="트리거":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource 열기":::
 
 3. 이러한 업데이트를 만들면 다음과 같이 표시 됩니다.
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource 열기":::
 
 4. 변경 내용을 저장 하 고 **켜기**를 선택 합니다.
 
@@ -127,17 +127,7 @@ ms.locfileid: "91000497"
 
 7. **복사** 아이콘을 선택 하 여 제공 된 HTTP POST URL을 복사 합니다.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL 복사":::
-
-8. 이제 "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행**을 선택 합니다.
-
-9. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속**을 클릭 합니다.
-
-10. 다음 세부 정보를 입력합니다.
-
-    1. **Http 트리거 끝점**: 이전 단계에서 복사한 URL
-
-    2. **등록할 이벤트**: "조회 생성" 및 "조회-업데이트 됨"
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="AppSource 열기"
 
     3. **기존 트리거 끝점을 덮어씁니다 (있는 경우**). 예 (기존 끝점을 덮어씁니다.)
 
@@ -223,7 +213,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. Dynamics 365 환경에서 "새 기회"를 만들 때 다음 섹션이 표시 되는지 확인 합니다.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Dynamics 365의 Microsoft 파트너 센터 정보를 보여주는 샘플 기회 섹션입니다.":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="AppSource 열기":::
 
    3. 이 기회를 Microsoft 파트너 센터와 동기화 하려면 카드 보기에서 다음 필드를 설정 해야 합니다.
 
@@ -231,23 +221,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
       - **Microsoft에서 도움을 주는 방법**: 다음 중에서 선택 합니다.
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Microsoft의 도움을 얻을 수 있는 방법 이라는 필드 옆의 Microsoft 파트너 센터 도움말 옵션을 보여 주는 Dynamics 365의 샘플 기회 섹션":::
-
-      - **제품**: 제품의 솔루션 id
-
-   4. **파트너 센터** 옵션을 **예**로 설정 하 여 Dynamics 365에 대 한 기회가 만들어지면 10 분 정도 기다렸다가 파트너 센터 계정에 로그인 합니다. 사용자의 조회가 Dynamics 365와 동기화 됩니다.
-
-   5. 마찬가지로, "파트너 센터와 동기화" 옵션을 "예"로 설정 하는 기회에 대해 Dynamics 365 CRM에서 기회를 업데이트 하면 변경 내용이 파트너 센터 계정에서 동기화 됩니다.
-
-   6. 파트너 센터와 성공적으로 동기화 되는 기회는 Dynamics 365의 ✔ 아이콘으로 식별 됩니다.
-
-2. Microsoft 파트너 센터에서 조회를 만들거나 업데이트 하 고 Dynamics 365 환경에서 동기화 할 때 조회 동기화:
-
-   1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 합니다.
-
-   2. 왼쪽 메뉴에서 **조회** 를 선택 합니다.
-
-   3. "새 거래" 옵션을 클릭 하 여 파트너 센터에서 새 공동 판매 참조를 만듭니다.
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="AppSource 열기" 옵션을 클릭 하 여 파트너 센터에서 새 공동 판매 참조를 만듭니다.
 
    4. Dynamics 365 CRM 환경에 로그인 합니다.
 

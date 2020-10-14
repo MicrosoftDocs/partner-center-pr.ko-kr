@@ -1,6 +1,6 @@
 ---
 title: 고객에 대 한 Microsoft Azure 예약 구입
-description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다.
+description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다. 또한 Azure 예약을 사용할 수 없는 시장을 나열 합니다.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000267"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031256"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
 

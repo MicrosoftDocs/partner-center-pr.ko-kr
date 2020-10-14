@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006834"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032086"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 & 파트너 센터에서 교육 고객을 만드는 방법
 
@@ -51,7 +51,7 @@ ms.locfileid: "92006834"
 
 ### <a name="confirm-your-education-customers-verification-status"></a>교육 고객의 확인 상태 확인
 
-고객 계정 페이지에서 **특수 한 한정 상태**를 참조 하세요.
+고객 **계정** 페이지에서 **특수 한 한정 상태**를 참조 하세요.
 상태 예:
 
 - 고객이 검증을 통과 한 경우: 교육
@@ -90,7 +90,7 @@ ms.locfileid: "92006834"
 
 ### <a name="resubmit-for-verification"></a>확인을 위해 다시 전송
 
-1. 파트너 센터 탭으로 이동 하 고 고객 **계정** 페이지로 이동 합니다. 브라우저를 새로 고칩니다. 회사 페이지가 새 정보로 업데이트 되었는지 확인 합니다. **업데이트** 단추를 선택 하 여 교육 다시 확인을 요청 합니다.
+1. 파트너 센터 탭으로 이동 하 고 고객 **계정** 페이지로 이동 합니다. 브라우저를 새로 고치고 회사 페이지가 새 정보로 업데이트 되었는지 확인 합니다. **업데이트** 단추를 선택 하 여 교육 다시 확인을 요청 합니다.
 
 2. 업데이트 된 고객 세부 정보가 교육 혜택을 받을 수 있는 경우 **교육**으로 업데이트 된 **특별 한 자격** 을 볼 수 있습니다. 아직 **교육 고객이 아닌**경우에는 지원에 문의 하 여 수동으로 확인 합니다.
 

@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 조회를 Salesforce CRM과 동기화
+description: 파트너 센터에서 조회를 Salesforce CRM과 동기화 합니다. 그런 다음 판매자는 CRM 시스템 내에서 Microsoft와 공동 판매할 수 있습니다.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663864"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031466"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
