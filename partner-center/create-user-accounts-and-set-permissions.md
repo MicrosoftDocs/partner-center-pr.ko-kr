@@ -1,22 +1,22 @@
 ---
 title: 사용자 계정 만들기 및 역할 할당
 description: 파트너 센터에 액세스하기 전에 모든 직원에게 역할을 할당해야 합니다. 사용자 계정을 만들고, 역할을 할당하고, 사용 권한을 설정하는 방법에 대해 알아봅니다.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
+ms.custom: contperfq2
 author: parthpandyaMSFT
 ms.author: parthp
-ms.custom: SEOAPR.20
-ms.localizationpriority: high
-ms.date: 02/26/2020
-ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.localizationpriority: medium
+ms.date: 10/12/2020
+ms.openlocfilehash: 41f7f68c61630daf30595e28bd5de52f5a5787c8
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000437"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006764"
 ---
-# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>사용자 계정 만들기 및 역할과 사용 권한 할당
+# <a name="create-user-accounts"></a>사용자 계정 만들기  
 
 **적절한 역할**
 
@@ -26,10 +26,9 @@ ms.locfileid: "91000437"
 
 파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 글로벌 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
 
-
 ## <a name="add-a-new-user"></a>새 사용자 추가
 
-1. 파트너 센터 오른쪽 위의 **설정** 아이콘에서 **사용자 관리**를 선택합니다.
+1. 파트너 센터 오른쪽 위의 **설정** 아이콘에서 **계정 설정**을 선택한 다음, **사용자 관리**를 선택합니다.
 
 2. **사용자 추가**를 선택합니다.
 
@@ -42,38 +41,7 @@ ms.locfileid: "91000437"
 > [!IMPORTANT]  
 > 이 페이지에 표시되는 새 사용자의 로그인 정보를 기록해 두세요. 나중에 이 정보에 다시 액세스할 수 없으므로 이 정보를 복사하여 새 사용자에게 보내야 합니다. 
 
-
-사용자는 사용자 이름 및 임시 암호를 사용하여 파트너 센터에 로그인해야 합니다. 사용자가 파트너 센터에 처음으로 로그인하면 암호를 변경하라는 메시지가 표시됩니다. 
-
-## <a name="find-the-role-youve-been-assigned"></a>할당된 역할 찾기
-
-전역 관리자가 알려주지 않은 경우 다음을 수행하여 파트너 센터에서 어떤 역할을 수행하는지 확인할 수 있습니다.
-
-1. 파트너 센터 [대시보드]https://partner.microsoft.com/dashboard/home) 에 로그인합니다.
-
-1. **계정 설정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다.
- 
-1. **역할 및 권한** 탭을 선택합니다. 사용자의 역할 및 권한이 표시됩니다.
- 
-
->[!Note]
->로그인할 때 프로그램이 표시되지 않으면 일반적으로 해당 프로그램에서 사용할 수 있는 올바른 권한이 없음을 의미합니다. 따라서, 예를 들어 로그인할 때 인센티브 페이지가 표시되지 않는다면 인센티브 권한이 없는 것입니다. 전역 관리자는 필요한 권한을 제공할 수 있습니다.
-
-
-## <a name="find-your-global-admin"></a>글로벌 관리자 찾기
-
-사용자가 역할을 변경해야 하거나 새 사용자가 특정 역할 할당을 원하는 경우가 있을 수 있습니다.  
-역할을 변경하거나 새 사용자에게 역할을 할당할 수 있는 전역 관리자를 찾으려면 파트너 센터의 오른쪽 상단에 있는 **계정 설정 아이콘**에서 **사용자 관리**를 선택하고 전역 관리자에 대해 필터링하거나 **내 프로필**로 이동하여 **역할 및 권한**을 선택하고 권한을 높이는 데 도움을 줄 수 있는 여러 관리자 목록을 볼 수 있습니다. 
-
-
-## <a name="new-global-admin"></a>새 글로벌 관리자
-
-글로벌 관리자가 조직을 떠나고 다른 사용자가 이 역할을 수행해야 하는 경우 Azure 또는 Office 365 팀에 티켓을 제출할 수 있습니다. 이 작업을 수행하는 방법에 대한 자세한 내용을 보려면 아래 옵션 중 하나를 선택하세요.
-
-[Azure의 새 글로벌 관리자](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
-
-[Office 365의 새 글로벌 관리자](https://admin.microsoft.com/)
-
+사용자는 사용자 이름 및 임시 암호를 사용하여 파트너 센터에 로그인해야 합니다. 사용자가 파트너 센터에 처음으로 로그인하면 암호를 변경하라는 메시지가 표시됩니다.
 
 ## <a name="assign-user-roles"></a>사용자 역할 할당
 
@@ -82,41 +50,6 @@ ms.locfileid: "91000437"
 >[!Important]
 >파트너 센터에 액세스하려면 개별 회사가 테넌트에 나열되어야 합니다. 역할 할당은 추가 액세스 권한을 제공합니다.
 
-
-**AAD 테넌트 역할에는 다음이 포함됩니다**.
-- 글로벌 관리자
-- 사용자 관리자
-
-**CSP 역할에는 다음이 포함됩니다**.
-- 관리 에이전트
-- 청구 관리자
-- 영업 상담원
-- 기술 지원팀 상담원
-
-**MPN 멤버십과 회사를 관리하는 역할(비 AAD)**
-- MPN 파트너 관리자
-- 계정 관리자
-- 추천 관리자
-- 비즈니스 프로필 관리자
-- 인센티브 관리자 및 사용자
-
-**제어판 공급업체는 CSP 및 비 AAD 역할입니다**.
-- 글로벌 관리자
-
-**게스트 사용자**은 AAD 테넌트의 일부여야 하며 모든 비 AAD 역할을 가질 수 있습니다.
-
-역할과 각 역할이 수행할 수 있는 작업에 대한 자세한 내용은 [사용자 권한 할당](permissions-overview.md)을 참조하세요.
-
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>파트너 센터에서 사용자의 Microsoft Learn 계정 연결
-
-사용자가 역량 달성을 위해 취하고 있는 교육 및 학습 경로를 볼 수 있으려면 해당 MCP ID를 파트너 센터 계정에 연결해야 합니다. 글로벌 관리자로서, 새 사용자를 추가할 때 계정에 MCP ID를 연결하도록 알려 주어야 합니다. 
-
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>파트너 센터 계정에 MCP ID를 연결하는 방법
-
-1. 파트너 센터 대시보드에서, 대시보드 오른쪽 모서리에 있는 **계정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다.
-
-2. **학습** 아래에서 Microsoft Learning 계정을 연결할 수 있으며, 또한 Microsoft 계정을 파트너 대학에 연결할 수 있습니다.
-
 ## <a name="next-steps"></a>다음 단계
 
-- [파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당](permissions-overview.md)
+- [파트너 센터에서 작업해야 하는 직원에 대한 사용자 역할 및 권한 할당](permissions-overview.md)
