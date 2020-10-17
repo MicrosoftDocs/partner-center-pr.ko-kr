@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: 사용자에게 역할 할당
           href: permissions-overview.md
+        - name: 역할 찾기
+          href: find-your-role.md
         - name: 제어판 공급업체 되기
           href: enroll-as-cpv.md
         - name: 사용자 암호 다시 설정
@@ -356,8 +358,9 @@
         - name: 지급 FAQ
           href: payout-faq.md
 - name: 고객과의 관계 구축
-  href: customer-accounts.md
   items:
+    - name: 고객과의 관계 구축
+      href: connect-with-your-customers.md
     - name: 새 고객 추가
       href: add-a-new-customer.md
     - name: 고객과 재판매인 관계 요청
