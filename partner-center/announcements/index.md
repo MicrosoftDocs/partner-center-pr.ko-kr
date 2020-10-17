@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844677"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081372"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "91844677"
 
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
+|Cababilities|[2020년 11월 업데이트: 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드](2020-october.md#11)|10월 14일|
+|제품/시장|[비영리 조직용 Microsoft 365 Business Voice 소개](2020-october.md#10)|10월 12일|
+|제품/시장|[Microsoft 365 오디오 회의의 프로모션 지금 이용 가능 및 Microsoft 365 Business Voice 출시 예정](2020-october.md#9)|10월 9일|
 |기능|[Azure Marketplace의 단순화된 Azure 앱 환경](2020-october.md#8)|10월 7일|
 |제품/시장|[Microsoft Teams Rooms Premium SKU 시작](2020-october.md#7)|10월 5일|
 |제품/시장|[이제 새로운 시장에서 Microsoft 통화 플랜 사용 가능](2020-october.md#6)|10월 2일|

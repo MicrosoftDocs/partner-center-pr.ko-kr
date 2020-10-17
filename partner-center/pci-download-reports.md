@@ -1,7 +1,7 @@
 ---
-title: Insights 다운로드 보고서 대시보드.
+title: Insights 다운로드 보고서 대시보드
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터 통합 보고 대시보드를 살펴보세요.
@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436682"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100763"
 ---
 # <a name="download-reports"></a>보고서 다운로드
 
@@ -34,7 +34,7 @@ Insights 대시보드의 다운로드 보고서 허브를 사용 하면 파트�
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="새 보고서 만들기":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="생성 된 보고서":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="새 보고서 만들기":::
 
 >[!NOTE] 
 >임원 보고서 뷰어 인 사용자만 보고서를 다운로드할 수 있습니다. Insights 대시보드 보고서에 대 한 역할 기반 액세스에 대 한 자세한 내용은 [PCI 역할](pci-roles.md)을 참조 하세요. 
@@ -51,13 +51,13 @@ Insights 대시보드의 다운로드 보고서 허브를 사용 하면 파트�
 
 Azure **사용량** 은 azure 사용량에 대 한 세부 정보를 제공 합니다. 이러한 세부 정보는 파트너에서 판매 하거나 관리 하는 Azure 구독에 대 한 정보입니다. 사용 세부 정보는 미터 범주 및 기타 키 차원으로 분할 됩니다. 보고서는 월별 기준으로 집계 됩니다.
 
-**Office365 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 O365 라이선스의 사용량 세부 정보를 제공 합니다. 또한 활성 자격, 정규화 된 자격 등의 주요 메트릭과 고객 정보를 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
+**Office365 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 O365 라이선스의 사용량 세부 정보를 제공 합니다. 또한 고객 정보 및 MAU (월간 활성 사용자), 정규화 된 자격 등의 주요 메트릭을 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
 
-**Enterprise mobility – 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 enterprise mobility 라이선스의 사용량 세부 정보를 제공 합니다. 또한 활성 자격, 정규화 된 자격 등의 주요 메트릭과 고객 정보를 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
+**Enterprise mobility – 라이선스 사용**  은 파트너가 판매 하거나 관리 하는 enterprise mobility 라이선스의 사용량 세부 정보를 제공 합니다. 또한 고객 정보 및 MAU (월간 활성 사용자), 정규화 된 자격 등의 주요 메트릭을 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
 
-**Dynamics 365 – 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 D365 라이선스의 사용량 세부 정보를 제공 합니다. 또한 활성 자격, 정규화 된 자격 등의 주요 메트릭과 고객 정보를 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
+**Dynamics 365 – 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 D365 라이선스의 사용량 세부 정보를 제공 합니다. 또한 고객 정보 및 MAU (월간 활성 사용자), 정규화 된 자격 등의 주요 메트릭을 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
 
-**Power BI 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 Power BI 라이선스의 사용량 세부 정보를 제공 합니다. 또한 활성 자격, 정규화 된 자격 등의 주요 메트릭과 고객 정보를 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
+**Power BI 라이선스 사용** 은 파트너가 판매 하거나 관리 하는 Power BI 라이선스의 사용량 세부 정보를 제공 합니다. 또한 고객 정보 및 MAU (월간 활성 사용자), 정규화 된 자격 등의 주요 메트릭을 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
 
 **학습** 은 시험, 인증, 평가, 트랙, 과정 완료 또는 파트너 직원의 작업 등의 세부 정보를 제공 합니다.
 

@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006856"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100773"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN 계정 위치 관리 및 새 위치 추가
 
@@ -54,7 +54,7 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 
 4. Microsoft 파트너 계약에 동의하고 계정을 활성화합니다.
 
-## <a name="add-a-location"></a>위치 추가
+## <a name="add-an-mpn-location"></a>MPN 위치 추가
 
 1. 파트너 센터에서 MPN 계정을 사용하여 로그인합니다. MPN 계정에는 전역 관리자 또는 계정 관리자 권한이 있어야 합니다. 
 
