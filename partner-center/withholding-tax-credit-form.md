@@ -2,19 +2,19 @@
 title: 원천 세금에 대 한 제공한 가져오기
 ms.topic: article
 ms.date: 06/05/2020
-description: 세금 원천을 위해 파트너 센터 계정에서 크레딧 받기
+description: 세금 원천에 대 한 파트너 센터 계정에서 크레딧을 받습니다. 정보에는 세금 원천 요청을 제출 하는 단계가 포함 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251264"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174929"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>세금 원천을 위해 파트너 센터 계정에서 크레딧 받기
 
@@ -45,7 +45,7 @@ ms.locfileid: "88251264"
 
 4. 청구서 정보를 검토 하 여 올바른 청구서에 대 한 요청을 제출 하는지 확인 합니다.
 
-   :::image type="content" source="images/wht2.png" alt-text="청구서에 대 한 세금 원천 세부 정보를 완료 합니다.":::
+   :::image type="content" source="images/wht2.png" alt-text="청구서에 대 한 새 세금 원천 제출":::
 
 5. **세금 원천 세부 정보**아래에 "원천 total"을 입력 합니다. "원천 total"은 제공한 것으로 예상 되는 금액입니다.
 

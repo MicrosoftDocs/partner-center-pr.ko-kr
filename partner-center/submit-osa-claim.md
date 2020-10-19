@@ -1,20 +1,20 @@
 ---
-title: 고객 연결 만들기
+title: 고객 제휴 만들기
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 클레임 파트너 (CPOR) 모델을 사용 하 여 고객 연결을 만듭니다. Microsoft 365 및 Dynamics 365 고객에 대 한 판매, 사용량 &의 성과급을 관리 하는 데 도움이 됩니다.
+description: 클레임 파트너 (CPOR) 모델을 사용 하 여 고객 연결을 만듭니다. Microsoft 365 & Dynamics 365 고객에 대 한 판매, 사용량, 성과급을 관리 하는 데 도움이 됩니다.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714357"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174996"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 및 Dynamics 365에 대해 요청 된 CPOR (레코드 파트너) 모델을 통한 고객 연결
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714357"
 
 - 인센티브 관리자
 
-2019 년 10 월 1 일부 터 Microsoft는 Microsoft에서 Microsoft의 Microsoft Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 하기 위해 Microsoft의 OSA (온라인 서비스 자문) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU 비즈니스 응용 프로그램에 대 한 성과급을 관리 하기 시작 했습니다.
+2019 년 10 월 1 일부 터 Microsoft는 Microsoft에서 Microsoft의 Microsoft Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 하기 위해 Microsoft의 OSA (온라인 서비스 자문) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU-Business 응용 프로그램에 대 한 사용과 관련 된 연결을 관리 하기 시작 했습니다.
 
 >[!Important]
-> CPOR (고객 연결) 클레임은 OSA (Online services Advise) 판매, OSU (Online Services Usage) Microsoft 365 및 OSU 비즈니스 응용 프로그램 동기 프로그램에만 적용 됩니다. 클라우드 솔루션 공급자, 관리 재판매인, 호스팅 또는 화면과 같은 다른 프로그램에 대 한 공동 작업 클레임을 제출 하는 경우 여기에 설명 된 Co op 클레임 프로세스를 참조 하세요. <br><br>클레임을 제출 하면 Microsoft에서 유효성을 검사 합니다. 이 시점에서 추가 정보를 요청할 수 있습니다. 또한 고객의 연결 요청에 대해 알려줍니다. 고객은 옵트아웃 (opt out)을 5 영업일 이내에 사용할 수 있습니다. 옵트아웃 (opt out) 하지 않으면이 특정 테 넌 트 및 워크 로드와의 연결이 공식적으로 적용 됩니다. 이 시점에서 고객의 사용 현황 데이터에 액세스할 수 있습니다. 
+> CPOR (고객 연결) 클레임은 OSA (Online services Advise) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU-Business 응용 프로그램 동기 프로그램에만 적용 됩니다. 클라우드 솔루션 공급자, 관리 재판매인, 호스팅 또는 화면과 같은 다른 프로그램에 대 한 공동 작업 클레임을 제출 하는 경우 여기에 설명 된 Co op 클레임 프로세스를 참조 하세요. <br><br>클레임을 제출 하면 Microsoft에서 유효성을 검사 합니다. 이 시점에서 추가 정보를 요청할 수 있습니다. 또한 고객의 연결 요청에 대해 알려줍니다. 고객은 옵트아웃 (opt out)을 5 영업일 이내에 사용할 수 있습니다. 옵트아웃 (opt out) 하지 않으면이 특정 테 넌 트 및 워크 로드와의 연결이 공식적으로 적용 됩니다. 이 시점에서 고객의 사용 현황 데이터에 액세스할 수 있습니다. 
 
 클레임을 완료 하려면 다음 정보가 필요 합니다.
 
@@ -63,9 +63,9 @@ ms.locfileid: "90714357"
 
 - Dynamics 365 또는 Power BI 고객에 대 한 기존 연결이 있는 경우 구독이 만료 될 때까지 이러한 연결은 유효한 상태로 유지 됩니다.
 
-- 고객은 여러 파트너를 가질 수 있지만 각 워크 로드 (OSU Microsoft 365의 경우) 또는 구독 (OSA-판매 및 OSU-Business Applications)은 한 파트너에만 연결 될 수 있습니다.
+- 고객은 여러 파트너를 가질 수 있지만 각 작업 (OSU-Microsoft 365의 경우) 또는 구독 (OSA-Sell 및 OSU-Business 응용 프로그램의 경우)은 한 파트너에만 연결 될 수 있습니다.
 
-## <a name="create-a-customer-association"></a>고객 연결 만들기
+## <a name="create-a-customer-association"></a>고객 제휴 만들기
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 

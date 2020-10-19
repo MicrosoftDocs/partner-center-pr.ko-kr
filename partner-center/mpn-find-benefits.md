@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 파트너 센터 대시보드에서 MPN 혜택을 찾는 방법에 대해 알아봅니다.
+description: 파트너 센터 대시보드에서 MPN 혜택을 찾는 방법에 대해 알아봅니다. 기술 혜택에 대 한 액세스 ID 및 계약 ID를 찾는 방법에 대 한 정보가 포함 되어 있습니다.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427120"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175325"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft 파트너 네트워크 혜택 찾기 
 
@@ -74,7 +74,7 @@ ms.locfileid: "89427120"
 
    이 혜택에 할당 된 특정 제품 지원 **계약 id** 및 **액세스 id** 를 확인 해야 합니다.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="샘플 골드 핵심 역량은 계약 ID 및 액세스 ID와 같은 Microsoft 제품 지원 Id를 보여주는 기술 혜택을 지원 합니다.":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="확장 된 이점":::
 
    > [!NOTE]
    > 이러한 지원 Id를 추적 하세요. 사용자가 처음으로 또는 회사의 사용자 중 한 명에 게 특정 기술 혜택에 연결 된 지원 요청을 기록 하는 경우 특정 시스템을 요청할 수 있습니다. 회사의 모든 사용자는 동일한 액세스 ID 및 계약 ID를 사용할 가능성이 높습니다.

@@ -1,6 +1,6 @@
 ---
 title: 성과급 프로그램 자격
-description: 성과급 프로그램이 적합 한지 확인 하 여 유료 프로그램을 받을 수 있습니다.
+description: 성과급 프로그램이 적합 한지 확인 하 여 유료 프로그램을 받을 수 있습니다. 이 프로세스는 프로그램 가이드의 자격 검사를 포함 합니다.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: bd80a61ed330f897340bbcf0164ee326598a4be1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714457"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175225"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>성과급 프로그램 자격 확인
 

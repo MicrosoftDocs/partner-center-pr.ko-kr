@@ -1,17 +1,17 @@
 ---
 title: Microsoft 상업용 Marketplace에 대한 세금 정보
-description: 가격 선택, 지급에 미치는 영향 및 과세 책임에 대한 세금 고려 사항을 이해하려면 아래 표에 있는 해당 국가/지역 배포를 참조하세요.
+description: 이러한 표를 참조 하 여 국가/유통 지역에 대 한 가격 선택, 지급 의미 및 세금 책임에 대 한 세금 고려 사항에 대해 알아보세요.
 ms.topic: conceptual
 ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 3e350074b08a435ea913f9462702602d1a7c04e8
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007485"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175000"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>상업용 Marketplace 게시자에 대한 세금 정보
 

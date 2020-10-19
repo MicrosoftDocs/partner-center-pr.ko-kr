@@ -1,18 +1,18 @@
 ---
 title: 지역별 지급 세부 정보 - Microsoft 상업용 마켓플레이스
-description: 국가, 지역 및 지급 계정 유형에 따라 달라질 수 있는 지불을 받을 수 있는 지불 시간 프레임 및 Microsoft online 스토어에 대해 알아봅니다.
+description: 지불을 받을 수 있는 지불 시간 프레임 및 Microsoft online 스토어에 대해 알아봅니다. 국가, 지역 및 지급 계정 유형에 따라 달라질 수 있습니다.
 author: mingshen-ms
 ms.author: mingshen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: 104fecead2d88ffbef593d6fd55c1f26056c88ad
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335779"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175305"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>결제 임계값, 메서드 및 시간 프레임
 
@@ -196,4 +196,4 @@ ms.locfileid: "91335779"
 
 ## <a name="next-step"></a>다음 단계
 
-- [지급 문](payout-statement.md)
+- [지급액 명세서](payout-statement.md)

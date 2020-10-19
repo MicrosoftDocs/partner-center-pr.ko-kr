@@ -1,18 +1,18 @@
 ---
 title: 지급 정책 세부 정보-Microsoft 상업적 marketplace
-description: 상업적 marketplace 지급 정책에 대 한 세부 정보 (일정 및 recoupment 포함)
+description: 일정 및 recoupment를 포함 하 여 상업적 marketplace 지급 정책과 관련 된 세부 정보에 대해 알아봅니다.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/28/2020
-ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591113"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174923"
 ---
 # <a name="payout-policy-details"></a>지급 정책 세부 정보
 
@@ -92,10 +92,10 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 | --- | --- | --- |
 | 예제 지급 날짜 | 10/15/2020 | 트랜잭션 기록에 **전송** 됨으로 표시 되 고 지급 대시보드의 지불 섹션 |
 | <font color="red">고객이 Microsoft에 요금을 지불 하지 않는 경우</font> | 12/2/2020 – 12/5/2020 | 위와 동일한 변경 내용 없음 |
-| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | None |
-| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | None |
+| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | 없음 |
+| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | 없음 |
 | 게시자에 게 쓰기 해제 알림이 표시 될 가능성이 있습니다. | 1/7/2021 | 고객이 결제를 아직 보내지 않은 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
-| 고객이 종료 알림 받기 | 2/1/2021 | None |
+| 고객이 종료 알림 받기 | 2/1/2021 | 없음 |
 | 수집 프로세스 종료/자금을 기록 합니다. | 2/15/2021 | 금액이 쓰여진 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
 | 지급 공제 | 3/1/2021 | 파트너 센터 지급에서 부정적 트랜잭션이 표시 됩니다. |
 | 지급 보안상 이유로 | 3/15/2021 | 이후 지급는 Partner Center 지급 문에 표시 됩니다. 잔액을 더 이상 음수일 때까지 게시자는 지불을 받지 않습니다.  |

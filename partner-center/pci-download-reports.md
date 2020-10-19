@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터 통합 보고 대시보드를 살펴보세요.
+description: 파트너 센터 통합 보고 대시보드와 파트너 센터 Insights 보고서에서 데이터를 다운로드 하 고 내보내는 방법에 대해 알아봅니다.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100763"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175269"
 ---
 # <a name="download-reports"></a>보고서 다운로드
 

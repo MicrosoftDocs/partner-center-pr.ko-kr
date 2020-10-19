@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터 교육 대시보드를 살펴보세요.
+description: 파트너 센터 교육 대시보드를 살펴보세요. 교육은 PCI (파트너 센터 정보) 영역에서 사용할 수 있는 보고서 중 하나입니다.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220721"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175266"
 ---
 # <a name="trainings-dashboard"></a>학습 대시보드
 
@@ -49,13 +49,13 @@ ms.locfileid: "89220721"
 
 학습 성능은 회사의 개인에 의해 완료 된 학습 및 개인의 월 단위 수를 제공 합니다. 선택한 날짜 범위에 대 한 차트 형식의 인증, 평가 및 시험으로 분할 됩니다. X 축은 선택한 날짜 범위의 월을 나타냅니다. Y 축은 선택한 학습 유형에 대 한 개인의 고유 수와 사용 된 학습 수를 나타냅니다. 차트 위의 해당 탭을 클릭 하 여 학습 유형별 분석을 볼 수 있습니다. 선택한 날짜 범위에 대 한 tsv 형식의 다운로드 아이콘을 통해 차트 데이터를 다운로드할 수 있습니다.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="학습 성능":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="요약":::
 
 ## <a name="individuals-performance"></a>개인의 성능
 
 개인의 성능 섹션에서는 회사의 개인이 선택한 날짜 범위에 대해 수행한 학습 세부 정보를 제공 합니다. 섹션의 왼쪽 창에서 개별 이름을 검색 하 여 선택 합니다. 선택한 개인의 학습 세부 정보는 섹션의 오른쪽 패널에 표시 됩니다.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="개별 성능":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="요약":::
 
 >[!NOTE] 
 > 개인용 성능 섹션은 임원 보고서 뷰어 인 사용자만 사용할 수 있습니다. 

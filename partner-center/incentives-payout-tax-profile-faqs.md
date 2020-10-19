@@ -2,18 +2,18 @@
 title: 인센티브 지급 및 세금 프로필 FAQ
 ms.topic: article
 ms.date: 09/11/2020
-description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다.
+description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다. 지급 및 세금 프로필을 볼 수 없는 이유와이에 대해 수행할 작업에 대 한 질문이 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999307"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175339"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>성과급 지급 및 세금 프로필에 대 한 질문과 대답
 

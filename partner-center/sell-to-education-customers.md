@@ -1,6 +1,6 @@
 ---
 title: 교육 고객에 게 제품을 판매 하는 방법
-description: 교육 고객을 만들고 파트너 센터에서 제공 하는 제품을 판매 하는 방법을 알아보세요.
+description: 교육 고객을 만들고 파트너 센터에서 제공 하는 제품을 판매 하는 방법을 알아보세요. 교육 고객의 확인 상태 확인을 포함 합니다.
 ms.topic: how-to
 ms.date: 10/06/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032086"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175069"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 & 파트너 센터에서 교육 고객을 만드는 방법
 

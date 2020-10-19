@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Office 365 파트너 관리 센터 기능이 파트너 센터로 이동 하 고 있습니다.
+description: Office 365 파트너 관리 센터 기능이 파트너 센터로 이동 하 고 있습니다. 파트너 센터에서 무엇을 의미 하 고 어떻게 할 수 있는지 알아보세요.
 author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220741"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174904"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 관리 센터가 파트너 센터로 이동
 

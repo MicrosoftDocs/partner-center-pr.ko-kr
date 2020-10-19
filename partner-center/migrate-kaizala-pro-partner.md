@@ -1,18 +1,18 @@
 ---
 title: Microsoft365로 Kaizala Pro 구독 마이그레이션
-description: Microsoft365 또는 Office 365 버전으로 Kaizala Pro 구독을 마이그레이션하는 방법에 대해 알아봅니다.
+description: Microsoft365 또는 Office 365 버전으로 Kaizala Pro 구독을 마이그레이션하는 방법에 대해 알아봅니다. 고객 전환에 대 한 자세한 내용은이 문서를 참조 하세요.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611239"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175177"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Microsoft365 또는 Office 365 버전으로 Kaizala Pro 독립 실행형 구독 마이그레이션
 
@@ -30,11 +30,11 @@ E4 구독은 `auto renew=False` 2020 년 7 월 1 일에 설정 됩니다. 언제
 
 - 다음을 포함 한 [**비즈니스 Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)  
    - Microsoft 365 Business Basic
-   - Microsoft 365 Business 표준
+   - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
     
 - [**Frontline에 대 한 Microsoft 365**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)다음을 포함 합니다.
-   - Microsoft 365 F3 (이전의 Microsoft 365 F1) 및 Office 365 F3
+   - Microsoft 365 F3(이전의 Microsoft 365 F1) 및 Office 365 F3
     
 - 다음을 포함 한 [**Enterprise Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 
    - Office 365 E1

@@ -2,18 +2,18 @@
 title: 파트너 센터에서 지급 및 세금 프로필
 ms.topic: how-to
 ms.date: 09/11/2020
-description: 지급 및 세금 프로필을 만들고 관리 하 여 성과급 작업에 대해 지불할 수 있습니다.
+description: 지급 및 세금 프로필을 만들고 관리 하 여 성과급 작업에 대해 지불할 수 있습니다. 다른 프로필을 만들고, 관리 하 고, 사용 하는 등의 작업이 포함 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999317"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175351"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 성과급 지급 및 세금 프로필 만들기 및 관리
 

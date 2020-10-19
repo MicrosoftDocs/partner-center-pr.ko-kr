@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 클라우드 독일 파트너 센터는 EU 및 EFTA 국가에서 Microsoft 클라우드 솔루션을 고객에 게 제공 하려는 Microsoft 파트너를 위한 비즈니스 포털입니다.
+description: Microsoft 클라우드 독일 파트너 센터는 EU 및 EFTA 국가에서 Microsoft 클라우드 솔루션을 고객에 게 제공 하려는 파트너를 위한 비즈니스 포털입니다.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1b6fd59b9b19f8c59823c99a9d3dc00ae602e1
-ms.sourcegitcommit: ef7f08fa61245daf43fb5c25a1d440a48a8f3fc1
+ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92059641"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174985"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>EU의 고객에 게 판매 하는 파트너를 위한 Microsoft 클라우드 독일 파트너 센터 & EFTA 국가
 

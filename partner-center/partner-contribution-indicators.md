@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 고객 Engagement 또는 Dynamics 365 재무 및 작업으로 작업 하는 방법을 보여 주는 7 개의 주요 파트너 기여 지표 (PCI)에 대해 알아보세요.
+description: Dynamics 365 고객 Engagement 또는 Dynamics 365 재무 및 작업으로 작업 하는 방법을 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아보세요.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714287"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175023"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>PCI (파트너 기여 지표)는 고객 성공을 위한 7 가지 주요 측정값에 파트너의 영향을 보여 줍니다.
 
@@ -89,7 +89,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 |고객 성공-월별 활성 사용자 성장  | 25 개 점수 |
 
 다음 이미지는 빠른 시각적 참조를 제공 합니다.
-:::image type="content" source="images/pci/perfnew.png" alt-text="각 PCI (파트너 기여 지표) 각각에 대해 가능한 최대 점수가 있는 차트를 표시 합니다." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="실버 또는 골드 역량을 얻기 위해 PCI 점수를 표시 합니다." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>각 PCI 메트릭에 대 한 임계값
 
@@ -111,7 +111,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: 새 고객이 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 기능 컨설턴트 성장 | 기능 표시기: 개발자 | 고객 성공 지표: 새 대량 배포 | 고객 성공 지표: 월별 활성 사용자 성장 |
 |---|---|---|---|---|---|---|---|
 | **최대 점수** | 10 개 요소 | 10 개 요소 | 15 개 점수 | 15 개 점수 | 5 개 요소 | 20 개 요소 | 25 개 점수 |
-| **만들어** | $30만 | 10 개 요소 | 10 개 요소 | *\* 참고 참조* | 5 개 요소 | 5 개 요소 | 25% |
+| **만들어** | $300,000 | 10 개 요소 | 10 개 요소 | *\* 참고 참조* | 5 개 요소 | 5 개 요소 | 25% |
 | **개발과** | $15만 | 5 개 요소 | 5 개 요소 |*\* 참고 참조* | 2 개 요소 | 1 포인트 | 25% |
 
 *\* 참고: 증가 대상은 기준 컨설턴트의 수에 따라 달라 집니다. 증가 목표는 [표 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 을 참조 하세요.*
@@ -122,7 +122,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: 새 고객이 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 기능 컨설턴트 성장 | 기능 표시기: 개발자 | 고객 성공 지표: 새 대량 배포 | 고객 성공 지표: 월별 활성 사용자 성장 |
 |---|---|---|---|---|---|---|---|
 | **최대 점수** | 10 개 요소 | 10 개 요소 | 15 개 점수 | 15 개 점수 | 5 개 요소 | 20 개 요소 | 25 개 점수 |
-| **만들어** | $30만 | 3 개 요소 | 15 개 점수 | *\* 참고 참조* | 5 개 요소 | 3 개 요소 | 25% |
+| **만들어** | $300,000 | 3 개 요소 | 15 개 점수 | *\* 참고 참조* | 5 개 요소 | 3 개 요소 | 25% |
 | **개발과** | $15만 | 1 포인트 | 5 개 요소 |*\* 참고 참조* | 2 개 요소 | 1 포인트 | 25% |
 
 *\* 참고: 증가 대상은 기준 컨설턴트의 수에 따라 달라 집니다. 증가 목표는 [표 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 을 참조 하세요.*
@@ -313,7 +313,7 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 이 영역을 사용 하는 방법에 대 한 자세한 내용은이 문서의 끝에 있는 리소스 및 비디오 컬렉션을 참조 하세요.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="차트를 읽는 방법":::
+   :::image type="content" source="images/pci/howto.png" alt-text="실버 또는 골드 역량을 얻기 위해 PCI 점수를 표시 합니다.":::
 
 ## <a name="next-steps"></a>다음 단계
 
