@@ -1,7 +1,7 @@
 ---
 title: 동기 및 프로그램 세부 정보 보기
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 이러한 페이지를 사용 하 여 지불 및 소득 세부 정보 뿐만 아니라 프로그램 상태 및 전체 트랜잭션 기록을 보고 관리 하 고 내보낼 수 있습니다.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406346"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198089"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기, 관리 및 내보내기
 
@@ -116,7 +116,7 @@ ms.locfileid: "91406346"
 
 #### <a name="estimated-payment-month-example"></a>예상 지불 월 예
 
-| 월 | 금액 |
+| 월 | Amount |
 | ------ | :-----------: |
 |  9 월-2020 |  $7273.99   |
 |  Oct-2020 | $8692.30  |
@@ -198,17 +198,23 @@ ms.locfileid: "91406346"
 >- **lastPaymentCurrency**  현재 로그인 한 파트너에 게 액세스 권한이 있는 모든 MPNs에서 가장 최근의 지불을 받은 통화입니다. 지불이 수신 되지 않으면 마지막 지불 통화는 미국 달러입니다.
 >- **earningAmountInLastPaymentCurrency**  마지막 지불 통화의 양입니다.
 
+다음 표에서는 조정에 대 한 이유 코드와 그에 대 한 설명을 보여 줍니다.
+
+|**이유 코드**   |**설명**   |
+|------------------|:-------------------------------------|
+| AR 규정 준수 | 파트너의 시간에 Microsoft 송장이 지불 되지 않는 경우 수익을 감소 시키는 조정. |
+| 공동 op 롤오버 | 공동 op 소득을 다른 기간으로 전송 하거나 공동 op 소득을 리베이트로 변환 하는 조정입니다. |
+| Ops 조정 | Microsoft 시스템 계산 오류를 해결 하는 조정입니다. |
+| Ops 조정 Microsoft 잘못 된 계산 | 사용할 경우 해당를 수정 하는 조정입니다. |
+| Ops 조정 Microsoft 잘못 된 등록 | 등록 관련 사용할 경우 해당을 조정 합니다. |
+| 파트너 매핑 (구독) MCI/CSP | 구독 불일치를 해결 하는 조정입니다. |
+| 정책 예외 | 프로그램 규칙을 재정의 하는 조정입니다.  |
+| 이전 기간 소득 | 현재 획득 기간을 벗어나 수익을 조정 합니다. |
+
+다음 표에는 트랜잭션 기록 다운로드 내보내기 페이지에 표시 되는 필드와 해당 설명이 나와 있습니다.
 
 |**열 이름**   |**설명**   |
 |------------------|:-------------------------------------|
-| AR 규정 준수 | 파트너의 시간에 Microsoft 송장이 지불 되지 않는 경우 수익 감소를 위한 조정 |
-| 공동 op 롤오버 | 공동 op 소득을 다른 기간으로 전송 하거나 공동 op 소득을 리베이트로 변환 하는 조정 |
-| Ops 조정 Microsoft 잘못 된 계산 | 사용할 경우 해당를 수정 하는 조정 |
-| Ops 조정 Microsoft 잘못 된 등록 | 등록 관련 사용할 경우 해당 조정 |
-| 정책 예외 | 프로그램 규칙을 재정의 하는 조정  |
-| Ops 조정 | Microsoft 시스템 계산 오류를 해결 하는 조정 |
-| 이전 기간 소득 | 현재 획득 기간을 벗어나 소득에 대 한 조정 |
-| 파트너 매핑 (구독) MCI/CSP | 구독 불일치를 해결 하는 조정 |
 |customerId   |고객 식별자   |
 |customerName   |트랜잭션 고객 이름   |
 |earningAmount   |원래 트랜잭션 통화 금액을 획득 합니다.   |

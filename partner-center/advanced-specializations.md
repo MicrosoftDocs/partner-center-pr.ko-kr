@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 골드/실버 역량과 함께 고급 특수화를 획득 하는 방법을 알아보세요.
+description: Microsoft 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 골드 및 실버 역량과 함께 고급 특수화를 획득 하는 방법을 알아보세요.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100753"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198079"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>전문 지식을 전시 하 고 고객에 게는 전문 전문 지식을 획득 하세요. 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>전문 지식을 전시 하기 위한 고급 전문화 획득
 
 주요 영역에서 [골드 역량](learn-about-competencies.md) 을 획득 한 많은 파트너가 고급 특수화를 얻기 위해 이동 합니다.
 
