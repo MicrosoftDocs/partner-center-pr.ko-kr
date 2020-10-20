@@ -1,22 +1,22 @@
 ---
-title: 고객 계정의 사용자 관리
+title: 고객 계정에 대 한 사용자 및 사용자 라이선스 관리
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객의 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하거나, 사용자 계정을 삭제 하거나, 복원 하는 방법에 대해 알아봅니다.
+description: 파트너 센터에서 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하 고, 사용자 계정을 삭제 하거나 복원 하는 등 파트너 센터에서 고객의 사용자를 관리 하는 방법에 대해 알아봅니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527679"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198019"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>파트너 센터의 고객 계정에 대 한 사용자 관리 작업
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>고객 계정에 대 한 사용자 및 사용자 라이선스 관리
 
 **적용 대상**
 
@@ -24,7 +24,7 @@ ms.locfileid: "87527679"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원

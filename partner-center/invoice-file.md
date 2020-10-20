@@ -1,5 +1,5 @@
 ---
-title: 청구 청구서의 필드 이해
+title: 파트너 센터 청구 청구서 이해
 ms.topic: article
 ms.date: 05/18/2020
 description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다. 정보에는 모든 송장 필드와 일회성 요금 청구 필드의 필드 및 정의가 포함 됩니다.
@@ -7,14 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175330"
+ms.locfileid: "92198009"
 ---
-# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>파트너 센터 청구 송장-청구 및 일회성 요금 필드를 읽는 방법을 알아봅니다.
+# <a name="understand-partner-center-billing-invoice-fields"></a>파트너 센터 청구 송장 필드 이해
 
 **적절한 역할**
 

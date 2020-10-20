@@ -9,14 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
-ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
+ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "91952379"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198039"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>파트너 센터의 공동 판매 기회를 관리 하 여 고객의 요구를 충족 하 고 더 나은 고객 요구를 정의 합니다.
+# <a name="manage-co-sell-opportunities-in-partner-center"></a>파트너 센터에서 공동 판매 기회 관리
 
 **적용 대상**
 
