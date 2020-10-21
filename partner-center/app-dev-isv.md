@@ -10,13 +10,13 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90012781"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333805"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>응용 프로그램 개발 역량에 대 한 일회성 시험 요구 사항 예외
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>애플리케이션 개발 역량에 대한 1회 시험 요구 사항 면제
 
 **적절한 역할**
 
