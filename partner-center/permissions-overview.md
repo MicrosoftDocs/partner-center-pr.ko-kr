@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832116"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006804"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
@@ -52,7 +52,7 @@ ms.locfileid: "90832116"
 ||*    파트너 센터에 대한 지원 티켓 만들기
 ||*    내가 만든 파트너 지원 티켓 보기
 |기본 사용자|  내 프로필 보기   |[암호 재설정](reset-my-pasword.md)
-|관리 에이전트 | *    고객 관리|[파트너 센터에서 재판매인 파트너를 위한 고객 계정 설정 및 관리](customer-accounts.md)
+|관리 에이전트 | *    고객 관리|[고객과의 관계 구축](connect-with-your-customers.md)
 ||*    파트너 센터에 디바이스 목록 추가
 ||*    프로필을 만들고 디바이스에 적용
 ||*    구독 관리

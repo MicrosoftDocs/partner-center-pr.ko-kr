@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999267"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197999"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
@@ -53,7 +53,7 @@ ms.locfileid: "90999267"
 >[!NOTE]
 >**파트너 설정** 또는 **개발자 설정**에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다. 그런 다음, 드롭다운 메뉴에서 **파트너 설정** 또는 **개발자 설정**을 선택할 수 있습니다.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="계정 설정":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="등록된 프로그램 메뉴":::
 
 파트너는 회사에서 해당 프로그램에 등록했는지 여부에 따라 **파트너 설정** 및/또는 **개발자 설정** 관리 옵션을 볼 수 있습니다. 회사에서 해당 설정과 연결된 프로그램을 하나 이상 등록한 경우에만 설정 옵션을 사용할 수 있습니다.
 
@@ -85,11 +85,11 @@ ms.locfileid: "90999267"
 
 **파트너 설정 옵션**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="파트너 옵션":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="등록된 프로그램 메뉴":::
 
 **개발자 설정 옵션**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="개발자 옵션":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="등록된 프로그램 메뉴":::
 
 ## <a name="enrolling-in-programs"></a>프로그램에서 등록
 
@@ -108,7 +108,7 @@ ms.locfileid: "90999267"
 
 둘 이상의 계정에 속할 수 있습니다. 여러 계정에 속한 경우 왼쪽 탐색 메뉴에 "계정 선택기"가 표시됩니다. 계정 선택기를 선택하면 구성원인 모든 계정이 목록으로 표시됩니다. 이러한 계정 중 하나를 선택하여 해당 계정으로 전환할 수 있습니다. 그러면 해당 계정과 관련된 모든 프로그램 및 정보가 표시됩니다. 계정 선택기가 표시되지 않으면 단일 계정의 구성원입니다.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="계정 선택기":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="등록된 프로그램 메뉴":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>파트너 센터 계정을 관리하는 데 도움이 되는 기타 리소스
 
