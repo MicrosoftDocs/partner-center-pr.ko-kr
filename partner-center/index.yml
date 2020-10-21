@@ -1,168 +1,113 @@
-### YamlMime:Hub
+### YamlMime:Landing
 title: 파트너 센터 설명서
 summary: 파트너 센터는 MPN(Microsoft 파트너 네트워크), CSP(클라우드 솔루션 공급자) 프로그램 등을 통해 비즈니스를 성장시키는 곳입니다.
-brand: windows
 metadata:
   title: 파트너 센터 설명서
   description: 파트너 센터는 MPN(Microsoft 파트너 네트워크), CSP(클라우드 솔루션 공급자) 프로그램 등을 통해 비즈니스를 성장시키는 곳입니다.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
-  ms.topic: hub-page
+  ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 09/25/2020
-  ms.openlocfilehash: 43c84bcb7cd5d919d93300a37fbc77bf4bb9a2a6
-  ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 10/13/2020
-  ms.locfileid: "92006872"
-highlightedContent:
-  items:
-  - title: 중요한 파트너 센터 업데이트에 대해 알아보기
-    itemType: whats-new
-    url: announcements/index.md
-  - title: Microsoft 파트너 네트워크 멤버십 혜택 및 제품 관리
-    itemType: get-started
-    url: manage-your-partner-network-benefits.md
-  - title: API 및 SDK 얼리어답터 프로그램 참여
-    itemType: deploy
-    url: /partner-center/develop/early-adopter-program
-  - title: 고급 특수화 획득
-    itemType: whats-new
-    url: advanced-specializations.md
-  - title: ISV 파트너 - 제품을 만들고 Marketplace, AppSource 및 CSP 재판매인 채널에 게시
-    itemType: whats-new
-    url: /azure/marketplace/
-  - title: 파트너 보안 요구 사항 FAQ
-    itemType: overview
-    url: partner-security-requirements-faq.md
-  - title: 파트너 센터의 새로운 상거래 환경 - Azure 플랜
-    itemType: whats-new
-    url: azure-plan-lp.md
-conceptualContent:
-  title: 파트너 센터에서 작업
-  items:
-  - title: 로그인 및 계정 관리
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92198049"
+landingContent:
+- title: 파트너 센터 시작
+  linkLists:
+  - linkListType: get-started
     links:
-    - url: mpn-create-a-partner-center-account.md
-      itemType: how-to-guide
-      text: 파트너 센터 계정 만들기
-    - url: manage-locations.md
-      itemType: how-to-guide
-      text: 회사 위치 관리
-    - url: azure-plan-get-started.md
-      itemType: how-to-guide
-      text: Azure 요금제로 종량제 요금 사용 시작
-    footerLink:
-      url: partner-center-account-setup.md
-      text: 자세한 내용
-  - title: 고객과의 관계 구축
+    - text: 파트너 센터 공지
+      url: announcements/index.md
+    - text: Microsoft와 파트너 되기
+      url: mpn-overview.md
+    - text: 파트너 센터 계정 만들기
+      url: mpn-create-a-partner-center-account.md
+    - text: MPN 멤버 자격 혜택 및 제품 관리
+      url: manage-your-partner-network-benefits.md
+    - text: 역량에 대해 알아보기
+      url: learn-about-competencies.md
+- title: 비즈니스 성장
+  linkLists:
+  - linkListType: concept
     links:
-    - url: confirm-customer-agreement.md
-      itemType: how-to-guide
-      text: 새 Microsoft 고객 계약
-    - url: assign-licenses-to-users.md
-      itemType: how-to-guide
-      text: 고객 라이선스 관리
-    - url: see-your-customer-list.md
-      itemType: how-to-guide
-      text: 고객 목록 참조
-    footerLink:
+    - text: 고객과의 관계 구축
       url: connect-with-your-customers.md
-      text: 자세한 내용
-  - title: 비즈니스 성장
+    - text: CSP(클라우드 솔루션 공급자) 프로그램
+      url: csp-overview.md
+    - text: 고객 추천 받기
+      url: manage-leads.md
+    - text: 인센티브 프로그램
+      url: incentives-get-started-intro.md
+    - text: 공동 판매 기회 관리
+      url: manage-co-sell-opportunities.md
+    - text: 고급 특수화 획득
+      url: advanced-specializations.md
+- title: 주요 개념 및 작업
+  linkLists:
+  - linkListType: concept
     links:
-    - url: referrals.md
-      itemType: how-to-guide
-      text: 추천 및 비즈니스 프로필
-    - url: manage-leads.md
-      itemType: how-to-guide
-      text: 고객 문의, 마케팅 자격이 부여된 잠재 고객, 판매 자격이 부여된 잠재 고객과 같은 영업 기회 관리
-    - url: manage-co-sell-opportunities.md
-      itemType: how-to-guide
-      text: 공동 판매 기회 관리
-    footerLink:
-      url: grow-your-business.md
-      text: 자세한 내용
-  - title: 청구 및 세금 이해
-    links:
-    - url: billing-basics.md
-      itemType: how-to-guide
-      text: 청구 기본 사항
-    - url: read-your-bill.md
-      itemType: how-to-guide
-      text: 청구서 읽기
-    - url: tax-and-tax-exemptions.md
-      itemType: how-to-guide
-      text: 세금 및 면세
-    footerLink:
-      url: billing.md
-      text: 자세한 내용
-  - title: 비즈니스 데이터 분석
-    links:
-    - url: partner-contribution-indicators.md
-      itemType: how-to-guide
-      text: 파트너 기여 지표
-    - url: analyze-azure-usage.md
-      itemType: how-to-guide
-      text: 고객 Azure 사용 데이터
-    - url: analyze-indirect-resellers.md
-      itemType: how-to-guide
-      text: 간접 재판매인 보고서
-    footerLink:
-      url: data-analysis-lp.md
-      text: 자세한 내용
-  - title: 지원 얻기 및 제공
-    links:
-    - url: customer-support.md
-      itemType: how-to-guide
-      text: 고객에게 지원 제공
-    - url: check-service-health.md
-      itemType: how-to-guide
-      text: 서비스 상태 검사
-    - url: report-problems-with-partner-center.md
-      itemType: how-to-guide
-      text: 파트너 센터 문제 보고
-    footerLink:
+    - text: 파트너 센터 보안 요구 사항
+      url: partner-security-requirements.md
+    - text: 비즈니스 프로필 만들기
+      url: create-a-marketing-profile.md
+    - text: Azure 플랜 소개
+      url: azure-plan-lp.md
+    - text: Microsoft에서 지원 받기
       url: support-from-microsoft.md
-      text: 자세한 내용
-additionalContent:
-  sections:
-  - title: 주요 작업 및 도구
-    items:
-    - title: 아직 파트너가 아닌가요? 지금 Microsoft 파트너 네트워크에 가입하세요.
-      summary: Microsoft 에코시스템과 연결하세요.
-      url: https://partner.microsoft.com/membership
-    - title: 파트너 센터 API 및 SDK 참조
-      summary: 파트너 센터 SDK를 사용하여 고객, 구독 및 주문 데이터를 관리하세요.
-      url: /partner-center/develop/
-    - title: Marketplace Rewards 관리
-      summary: Marketplace Rewards는 마케팅, 판매 및 기술 혜택을 통해 모든 제품에 대한 대상 지원을 제공합니다.
-      url: marketplace-rewards.md
-  - title: Azure Portal에서 작업
-    items:
-    - title: 청구 및 비용 관리
-      links:
-      - text: Microsoft 파트너 계약 청구 계정 시작
-        url: /azure/billing/mpa-overview
-      - text: Azure Cost Management 시작
-        url: /azure/cost-management/get-started-partners
-      - text: 추가 Azure 구독 만들기
-        url: /azure/billing/billing-create-subscription
-      - text: 프로그래밍 방식으로 Azure 구독 만들기
-        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
-      - text: 자세히 보기 >
-        url: /azure/billing/
-    - title: Azure Lighthouse
-      links:
-      - text: 교차 테넌트 관리 환경 활성화
-        url: /azure/lighthouse/concepts/cross-tenant-management-experience
-      - text: CSP 고려 사항
-        url: /azure/lighthouse/concepts/cloud-solution-provider
-      - text: Azure 위임 리소스 관리를 위한 온보드 고객
-        url: /azure/lighthouse/how-to/onboard-customer
-      - text: 관리 서비스 제품 게시
-        url: /azure/lighthouse/how-to/publish-managed-services-offers
-      - text: 자세히 보기 >
-        url: /azure/lighthouse/
+  - linkListType: how-to-guide
+    links:
+    - text: MPN 계정 위치 관리
+      url: manage-locations.md
+    - text: MPN 제품 갱신
+      url: renew-mpn-offers.md
+    - text: MPN 혜택 찾기
+      url: mpn-find-benefits.md
+    - text: 역할 찾기
+      url: find-your-role.md
+- title: 계정 및 청구
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: 새 파트너 센터 계정 관리
+      url: partner-center-account-setup.md
+    - text: 사용자에게 역할 및 사용 권한 할당
+      url: permissions-overview.md
+    - text: 사용자 및 사용자 라이선스 관리
+      url: assign-licenses-to-users.md
+    - text: 청구 기본 사항
+      url: billing-basics.md
+    - text: 지급 계정 및 세금 양식 설정
+      url: set-up-your-payout-account.md
+    - text: 요금 청구 방식
+      url: read-your-bill.md
+- title: 개발자 리소스
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: 파트너 센터 API 및 SDK 얼리어답터 프로그램 참여
+      url: /partner-center/develop/early-adopter-program
+    - text: 파트너 센터 개발자 설명서
+      url: /partner-center/develop
+    - text: 파트너 센터 REST API 참조
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: 파트너 센터 .NET API 참조
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: Java용 파트너 센터 SDK
+      url: /java/partnercenter/overview
+    - text: 파트너 센터 PowerShell
+      url: /powershell/partnercenter/overview
+- title: 상업용 Marketplace에서 판매(ISV)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: 상용 마켓플레이스 설명서
+      url: /azure/marketplace
+    - text: Microsoft 상업용 마켓플레이스란?
+      url: /azure/marketplace/overview
+    - text: 게시 옵션 결정
+      url: /azure/marketplace/determine-your-listing-type
