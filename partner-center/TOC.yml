@@ -1,10 +1,11 @@
-- name: Microsoft 파트너 센터 정보
+- name: Microsoft 파트너 센터 설명서
   href: index.yml
 - name: 공지 사항
   href: announcements/TOC.md
 - name: 파트너 네트워크 멤버십
-  href: mpn-overview.md
   items:
+    - name: Microsoft와 파트너 되기
+      href: mpn-overview.md
     - name: 파트너 센터 계정 만들기
       href: mpn-create-a-partner-center-account.md
     - name: 회사 이메일 주소 가져오기
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: CSP 지역 권한 부여 테넌트 통합에 대한 지침
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: 개요 - Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 새로운 방법
+    - name: Microsoft 고객 계약에 대한 동의를 확인하는 업데이트 방법
       href: confirm-consent.md
-    - name: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법
+    - name: Microsoft 고객 계약에 대한 동의 확인
       href: confirm-customer-agreement.md
     - name: 고객을 대신하여 고객 계약 동의를 증명하는 경우
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: Office 365 Government GCC 파트너 및 고객 자격 기준
           href: csp-gcc-validate.md
-        - name: Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
+        - name: Microsoft 클라우드 독일의 사용자 및 라이선스 관리
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: Microsoft Cloud for US Government의 파트너 센터에서 사용자 및 라이선스 관리
+        - name: Microsoft Cloud for US Government의 사용자 및 라이선스 관리
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: 파트너 센터 계정 관리
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: 조회
   items:
-    - name: 비즈니스 성장 지원
+    - name: 비즈니스 성장
       href: grow-your-business.md
     - name: 추천 개요
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: 실행 증명서 만들기
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: 세금 계산서를 PoE로 제출
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: 인센티브 협업 클레임
       items:
         - name: 인센티브 협업 클레임
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: 일회성 요금 및 선택적 반복 요금 시나리오
           href: common-billing-scenarios-onetime-recurring.md
-        - name: 청구 송장 - 청구 및 일회성 요금 필드 읽기
+        - name: 청구 송장 이해
           href: invoice-file.md
         - name: 라이선스 기반 청구
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: 세금 원천징수에 대한 크레딧 받기
           href: withholding-tax-credit-form.md
-        - name: 지역별 세금 - 음성 서비스
+        - name: 음성 서비스에 대한 지역 세금
           href: tax-and-fees-voice-services.md
         - name: 상업용 Marketplace 게시자에 대한 세금 정보
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: 고객과 재판매인의 관계 제거
       href: remove-a-relationship.md
-    - name: 고객이 파트너에게 관리 권한을 위임 또는 취소하는 경우
+    - name: 고객으로부터 위임된 관리 권한 얻기
       href: customers-revoke-admin-privileges.md
     - name: 고객 목록 참조
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Azure 플랜
       href: azure-plan-lp.md
       items:
-        - name: Azure 플랜 - 시작
+        - name: Azure 플랜 개요
           href: azure-plan-get-started.md
         - name: Azure 플랜 구매
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: 고객을 Azure 플랜으로 전환
           href: azure-plan-transition.md
-        - name: 파트너 획득 크레딧 - 개요
+        - name: 파트너 획득 크레딧
           href: partner-earned-credit.md
         - name: 파트너 획득 크레딧을 계산 및 지불하는 방법
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: 파트너 센터에서 Azure 구독 할당
           href: assign-azure-subscriptions.md
-        - name: 사용자에게 라이선스 할당
+        - name: 사용자 및 라이선스 관리
           href: assign-licenses-to-users.md
         - name: 기존 구독에 라이선스 또는 서비스 추가
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: 다수의 사용자에게 라이선스 할당 및 해지
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: 라이선스 기반 서비스 고객을 클라우드 서비스 공급자 프로그램으로 이동
+        - name: 라이선스 기반 서비스 고객을 CSP 프로그램으로 이동
           href: transition-seat-based-services.md
         - name: Minecraft Education Edition 구독 판매
           href: minecraft-subscriptions.md
