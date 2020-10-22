@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081372"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352869"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,7 +22,8 @@ ms.locfileid: "92081372"
 
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
-|Cababilities|[2020년 11월 업데이트: 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드](2020-october.md#11)|10월 14일|
+|제품/시장|[Microsoft 365 Business Voice 제품 업데이트](2020-october.md#12)|10월 16일|
+|기능|[2020년 11월 업데이트: 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드](2020-october.md#11)|10월 14일|
 |제품/시장|[비영리 조직용 Microsoft 365 Business Voice 소개](2020-october.md#10)|10월 12일|
 |제품/시장|[Microsoft 365 오디오 회의의 프로모션 지금 이용 가능 및 Microsoft 365 Business Voice 출시 예정](2020-october.md#9)|10월 9일|
 |기능|[Azure Marketplace의 단순화된 Azure 앱 환경](2020-october.md#8)|10월 7일|
