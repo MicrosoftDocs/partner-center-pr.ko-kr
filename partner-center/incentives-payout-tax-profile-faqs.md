@@ -1,19 +1,19 @@
 ---
 title: 인센티브 지급 및 세금 프로필 FAQ
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다. 지급 및 세금 프로필을 볼 수 없는 이유와이에 대해 수행할 작업에 대 한 질문이 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175339"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454155"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>성과급 지급 및 세금 프로필에 대 한 질문과 대답
 
@@ -24,8 +24,34 @@ ms.locfileid: "92175339"
 적절 한 역할:
 
 - 인센티브 관리자
-- 청구 관리자
+- 계정 관리자
 - 글로벌 관리자
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>세금 프로필이 만료 되었습니다. 이 문제를 해결하려면 어떻게 해야 합니까?
+
+세금 프로필이 만료 되었거나 곧 만료 되는 경우 Microsoft에 제공한 세금 양식을 업데이트 해야 함을 의미 합니다. 세금 프로필을 편집 하려면 다음 절차를 따르십시오.
+
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
+
+2. 기어 아이콘을 선택하여 **설정** 메뉴를 엽니다.
+
+3. **계정 설정**에서 **지급 및 세금**을 선택한 다음, **지급 및 세금 프로필**을 선택합니다.
+
+4. **세금 프로필**을 선택 합니다.
+
+5. **만료 날짜** 열을 선택 하 고 만료 되었거나 곧 만료 될 세금 프로필로 이동 합니다.
+
+6. **편집** 을 선택 하 여 세금 프로필 편집 프로세스를 시작 합니다.
+
+7. 필요한 세부 정보를 제공 하 여 세금 양식을 업데이트 합니다.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft는 은행 정보를 실제로 회사의 직원이 아니라 직원을 위한 개인 은행 계정이 아닌지 확인 하는 방법에 대해 설명 합니다.
+
+이 정보를 편집할 수 있는 권한이 있는 성과급 관리자의 역할은 적절 한 직원 에게만 제공 되는지 확인 하는 것이 회사의 책임입니다.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Microsoft의 모든 동기 프로그램에 대해 동일한 은행 및 세금 정보를 사용할 수 있나요?
+
+회사에서 여러 동기 프로그램에 대해 초대 하는 경우 모든 동기 프로그램에 대해 동일한 결제 계정을 사용할 수도 있고 다른 프로그램에 대해 다른 결제 계정을 선택할 수도 있습니다.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>내 지급 및/또는 세금 세부 정보를 제공 해야 하는 이유는 무엇 인가요?
 
