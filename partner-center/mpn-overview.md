@@ -1,22 +1,22 @@
 ---
 title: Microsoft 파트너 네트워크 멤버십 혜택
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 시장에 진출하여 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함한 Microsoft와 파트너 혜택에 대해 알아보세요.
+description: 시장에 진출하여 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함한 MPN(Microsoft 파트너 네트워크) 혜택에 대해 알아보세요.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53cf9976ffef5254499d03215782ad428a067189
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114604"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197989"
 ---
-# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Microsoft와 파트너 되기 - 혜택, 고객 지원 방법 및 비즈니스 성장을 촉진하는 방법 알아보기
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft와 파트너 관계를 맺고 멤버십 혜택 알아보기
 
 **적절한 역할**
 
@@ -25,27 +25,15 @@ ms.locfileid: "87114604"
 - 사용자 관리자
 - 관리 에이전트
 
-Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다.
+MPN(Microsoft 파트너 네트워크)은 업계에서 가장 광범위한 제품과 프로그램 옵션을 제공하여 회사의 비즈니스를 차별화하고, 시장에 진출하여 솔루션을 판매할 수 있습니다. 무료로 가입하고 Microsoft 작업 팩, 시작 키트 또는 역량을 사용하여 파트너 관계에 투자하는 방법을 선택하세요.
 
-Microsoft 파트너 혜택에 대한 자세한 내용은 [Microsoft이어야 하는 이유](https://partner.microsoft.com/business-opportunities/why-microsoft)를 참조하십시오.
+Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주고 비즈니스를 확장하는 데 필요한 관계, 인사이트, 도구, 리소스 및 프로그램에 연결하는 글로벌 커뮤니티의 일원이 됩니다. 비즈니스 목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요. 
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크 가입
 
-Microsoft 파트너 네트워크는 업계에서 가장 광범위한 제품과 프로그램 옵션을 제공하여 귀사의 비즈니스를 차별화하고, 시장에 진출하고, 솔루션을 판매할 수 있습니다. 무료로 가입하고 Microsoft 작업 팩, 시작 키트 또는 역량을 사용하여 파트너 관계에 투자하는 방법을 선택하세요.
-
-작업 팩 또는 시작 키트는 Microsoft 기반 솔루션을 빌드하기 위한 소프트웨어와 지원을 제공하며 역량은 고객과 기타 파트너에게 귀사의 전문성을 입증합니다.
-
-MPN(Microsoft 파트너 네트워크)에 대한 자세한 내용은 [MPN 웹 사이트](https://partner.microsoft.com/commercial)를 참조하세요.
-
-### <a name="how-to-join"></a>가입 방법
-
 Microsoft 파트너 네트워크에 가입하려면 MPN 웹 사이트에서 [**멤버십** 페이지](https://partner.microsoft.com/membership)로 이동하고 **등록** 또는 **지금 참가**를 선택합니다.
 
-## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>나에게 맞게 Microsoft 파트너 네트워크 멤버십 설정
-
-비즈니스 목표를 달성함에 따라 귀사의 고유한 요구 사항에 적합한 수준의 프로그램에 참여하여 더 많은 혜택에 액세스하고 Microsoft 및 네트워크의 다른 파트너와 관계를 구축하세요.
-
-### <a name="action-pack"></a>Action Pack
+## <a name="action-pack"></a>Action Pack
 
 Action Pack은 클라우드 중심, 모바일 중심 세상에서 Microsoft 영업을 시작, 구축 및 확장하려는 기업을 위해 준비된 소프트웨어, 지원 및 혜택을 제공합니다.
 
@@ -60,7 +48,7 @@ Action Pack에 대한 자세한 내용은 아래 리소스를 검토하세요.
 
 - [MPN 제품 갱신](renew-mpn-offers.md)
 
-### <a name="competencies"></a>역량
+## <a name="competencies"></a>역량
 
 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 현재 고객의 요구 사항을 충족하고 잠재 고객에게 역량을 알릴 수 있도록 설계되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 
@@ -70,7 +58,7 @@ Action Pack에 대한 자세한 내용은 아래 리소스를 검토하세요.
 
 ## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft 파트너 네트워크 혜택 및 요구 사항
 
-Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 수 있는 일련의 핵심 혜택이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다.
+Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 수 있는 일련의 핵심 혜택이 제공될 뿐 아니라 역량을 강화하고, 보다 나은 고객 서비스를 제공하고, 비즈니스 잠재력을 모두 끌어내는 관계를 구축할 수 있습니다. 
 
 네트워크 혜택과 요구 사항에 대해 자세히 알아보려면 아래 리소스를 검토하세요.
 
@@ -80,4 +68,5 @@ Microsoft 파트너 네트워크에 가입하면 시간과 비용을 절약할 �
 
 ## <a name="next-steps"></a>다음 단계
 
-[Microsoft 파트너 비즈니스 성장](grow-your-business.md)
+- [Microsoft 파트너 비즈니스 성장](grow-your-business.md)
+- [MPN 웹 사이트](https://partner.microsoft.com/commercial).

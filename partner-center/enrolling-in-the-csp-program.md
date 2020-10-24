@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램에 등록
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인 또는 직접 청구 파트너와 같이 비즈니스에 가장 적합한 CSP(클라우드 솔루션 공급자) 프로그램 판매 모델에 등록하는 방법에 대해 알아봅니다.
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763339"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198099"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>클라우드 솔루션 공급자 프로그램에 등록하고 수익성 있는 클라우드 솔루션 비즈니스 빌드하기
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
 **적용 대상**
 
@@ -64,7 +64,7 @@ CSP 프로그램에 간접 재판매인으로 참가하기 위한 조건에 대�
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>직접 청구 파트너로 등록
 
-직접 청구 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다. 2018년 8월 31일자로 직접 청구 파트너의 등록 요구 사항이 업데이트되었습니다. 이러한 새 요구 사항은 올바른 CSP 등록 모델로 비즈니스 성장을 가속화하고 부가 가치 서비스와 지원으로 고객과의 관계를 굳건하게 하는 데 도움이 됩니다. 
+직접 청구 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다. 2018년 8월 31일자로 직접 청구 파트너의 등록 요구 사항이 업데이트되었습니다. 이러한 새 요구 사항은 올바른 CSP 등록 모델로 비즈니스 성장을 가속화하고 부가 가치 서비스와 지원으로 고객과의 관계를 굳건하게 하는 데 도움이 됩니다.
 
 ### <a name="minimum-requirements"></a>최소 요구 사항
 
@@ -96,5 +96,8 @@ CSP 프로그램이 계속 발전하고 확장되면서, 직접 청구 파트너
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 지역 시장 및 통화
 
 회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP 제품을 판매할 수 있는 지역 및/또는 국가가 포함됩니다. 시장 위치 및 통화는 [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)를 참조하세요.
-[새 MPN ID 위치 추가](manage-locations.md)를 반드시 참조하세요.
+[새 CSP 비즈니스 위치를 추가하기 위한 필수 구성 요소](manage-locations.md)를 참조하세요.
 
+## <a name="next-steps"></a>다음 단계
+
+- [CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기](microsoft-partner-agreement.md)

@@ -1,6 +1,6 @@
 ---
 title: 2020년 9월 공지
-description: Microsoft 파트너 센터에 대한 2020년 9월 공지
+description: 새로운 기능, 프로모션, 제품, 시장 또는 기존 제품의 변경 사항 등 Microsoft 파트너 센터에 대한 2020년 9월 공지.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591123"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031556"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
@@ -46,7 +46,7 @@ Microsoft 365 관리 센터는 구매한 소프트웨어의 배달 보안을 강
 
 ### <a name="next-steps"></a>다음 단계
 
-- [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
+- [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
 
 - 이 업데이트를 조직의 관련 팀과 공유하세요.
 
@@ -183,17 +183,17 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 
 ### <a name="details"></a>세부 정보
 
-이 업데이트는 2020년 9월 17일에 발표된 [파트너 센터 공지](https://docs.microsoft.com/partner-center/announcements/2020-september#8)의 업데이트입니다. 사용자가 통합을 변경할 필요가 없도록, API 업데이트가 이전 버전과 호환되도록 업데이트하는 중입니다. 
+이 업데이트는 2020년 9월 17일에 발표된 [파트너 센터 공지](#8)의 업데이트입니다. 사용자가 통합을 변경할 필요가 없도록, API 업데이트가 이전 버전과 호환되도록 업데이트하는 중입니다. 
 
 앞서 발표했듯이, 2020년 9월 30일에 CSP O365 사용 현황 메트릭이 업데이트됩니다. 
 
 이번에 변경되면 다음 CSP 라이선스 사용 API를 통해 제공되는 메트릭 정의가 업데이트됩니다. 
 
-1. [라이선스 사용 현황 정보 API](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information)
+1. [라이선스 사용 현황 정보 API](/partner-center/develop/get-licenses-usage-information)
 
-2. [고객 라이선스 사용 현황 정보 API](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information)
+2. [고객 라이선스 사용 현황 정보 API](/partner-center/develop/get-customer-licenses-usage-information)
 
-3.  [파트너 라이선스 사용 현황 정보 API](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information)
+3.  [파트너 라이선스 사용 현황 정보 API](/partner-center/develop/get-partner-licenses-usage-information)
 
 아래에 업데이트된 정의가 나열되어 있습니다. API 스키마는 변경되지 않으므로 새로운 통합이 필요 없습니다. 
 
@@ -260,19 +260,19 @@ Microsoft 파트너 네트워크의 모든 파트너 조직
 
 ### <a name="what-is-insights"></a>Insights란?
 
-파트너 센터의 Insights 대시보드를 통해 Office 365, Azure, Dynamics 365 등의 클라우드 제품 및 CSP(클라우드 솔루션 공급자), EA(기업계약) 등의 라이선싱 모델에 걸쳐 파트너 조직의 KPI(핵심 성과 지표)를 모든 각도에서 확인할 수 있습니다. 새 기능이 지속적으로 추가되며, 모든 보고서는 [원시 데이터 내보내기](https://docs.microsoft.com/partner-center/pci-download-reports)를 지원하므로 비즈니스 요구 사항에 따라 임시 데이터 분석을 수행할 수 있습니다. 파트너 센터의 두 가지 보고 역할 [임원 보고서 뷰어 및 보고서 뷰어](https://docs.microsoft.com/partner-center/pci-roles)를 사용하여 조직 내의 Insights 액세스 및 사용을 보다 잘 관리할 수 있습니다.
+파트너 센터의 Insights 대시보드를 통해 Office 365, Azure, Dynamics 365 등의 클라우드 제품 및 CSP(클라우드 솔루션 공급자), EA(기업계약) 등의 라이선싱 모델에 걸쳐 파트너 조직의 KPI(핵심 성과 지표)를 모든 각도에서 확인할 수 있습니다. 새 기능이 지속적으로 추가되며, 모든 보고서는 [원시 데이터 내보내기](../pci-download-reports.md)를 지원하므로 비즈니스 요구 사항에 따라 임시 데이터 분석을 수행할 수 있습니다. 파트너 센터의 두 가지 보고 역할 [임원 보고서 뷰어 및 보고서 뷰어](../pci-roles.md)를 사용하여 조직 내의 Insights 액세스 및 사용을 보다 잘 관리할 수 있습니다.
 
 최근에 추가된 보고서:
 
-- [재판매인 성과 보고서 및 데이터 내보내기](https://docs.microsoft.com/partner-center/pci-resellers-performance): CSP 간접 공급자에게 다양한 간접 재판매인의 성과에 대한 개요를 제공합니다.
+- [재판매인 성과 보고서 및 데이터 내보내기](../pci-resellers-performance.md): CSP 간접 공급자에게 다양한 간접 재판매인의 성과에 대한 개요를 제공합니다.
 
-- [고객 기회 보고서 및 데이터 내보내기](https://docs.microsoft.com/partner-center/pci-customer-opportunities): Microsoft 제품을 구매하는 고객의 성향 개요를 제공합니다.
+- [고객 기회 보고서 및 데이터 내보내기](../pci-customer-opportunities.md): Microsoft 제품을 구매하는 고객의 성향 개요를 제공합니다.
 
-Insights에서 사용할 수 있는 전체 보고서 목록은 [여기](https://docs.microsoft.com/partner-center/partner-center-insights)서 확인할 수 있습니다.
+Insights에서 사용할 수 있는 전체 보고서 목록은 [여기](../partner-center-insights.md)서 확인할 수 있습니다.
 
 ### <a name="next-steps"></a>다음 단계:
 
-- [파트너 센터 Insights 페이지](https://docs.microsoft.com/partner-center/partner-center-insights)를 자주 확인하여 보고 업데이트 및 향상된 기능에 대해 알아보세요.
+- [파트너 센터 Insights 페이지](../partner-center-insights.md)를 자주 확인하여 보고 업데이트 및 향상된 기능에 대해 알아보세요.
 
 - Insights 탭에서 제공하는 인라인 피드백 도구를 사용하여 이러한 새 기능을 살펴보고 피드백을 공유하는 것이 좋습니다.
 

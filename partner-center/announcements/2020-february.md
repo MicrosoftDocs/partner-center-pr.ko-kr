@@ -1,6 +1,6 @@
 ---
 title: 2020년 2월 공지
-description: Microsoft 파트너 센터에 대한 2020년 2월 공지
+description: 새로운 기능, 프로모션, 제품, 시장 또는 기존 제품의 변경 사항 등 Microsoft 파트너 센터에 대한 2020년 2월 공지.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999617"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031786"
 ---
 # <a name="february-2020-announcements"></a>2020년 2월 공지
 

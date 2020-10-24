@@ -1,6 +1,6 @@
 ---
 title: 2020년 3월 공지
-description: Microsoft 파트너 센터에 대한 2020년 3월 공지
+description: 새로운 기능, 프로모션, 제품, 시장 또는 기존 제품의 변경 사항 등 Microsoft 파트너 센터에 대한 2020년 3월 공지.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1b3578a1af437b3a75a774c5cc559b8a8c50c622
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999507"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031716"
 ---
 # <a name="march-2020-announcements"></a>2020년 3월 공지
 

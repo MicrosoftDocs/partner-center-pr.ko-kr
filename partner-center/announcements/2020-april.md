@@ -1,6 +1,6 @@
 ---
 title: 2020년 4월 공지
-description: Microsoft 파트너 센터에 대한 2020년 4월 공지
+description: 새로운 기능, 프로모션, 제품, 시장 또는 기존 제품의 변경 사항 등 Microsoft 파트너 센터에 대한 2020년 4월 공지.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999637"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031846"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 

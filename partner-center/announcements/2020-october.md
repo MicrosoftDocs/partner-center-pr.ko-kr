@@ -1,6 +1,6 @@
 ---
 title: 2020년 10월 공지
-description: Microsoft 파트너 센터에 대한 2020년 10월 공지
+description: 새로운 기능, 프로모션, 제품, 시장 또는 기존 제품의 변경 사항 등 Microsoft 파트너 센터에 대한 2020년 10월 공지.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,19 +8,134 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/05/2020
-ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.date: 10/14/2020
+ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
+ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844667"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92098482"
 ---
 # <a name="october-2020-announcements"></a>2020년 10월 공지
 
 이 페이지에서는 2020년 10월 Microsoft 파트너 센터에 대한 공지를 자세히 설명합니다.
 
 2020년 공지:  [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | 10월
+
+
+________________
+
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020년 11월 업데이트: 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-14
+- 기능
+ 
+### <a name="summary"></a>요약 
+MPA 권한 부여 가이드를 업데이트합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램에 참여하는 직접 청구, 간접 공급자 및 다계층 파트너.
+
+### <a name="details"></a>세부 정보
+Microsoft 파트너 계약의 "변경 사항 알림", "가이드 변경"이라는 섹션 아래에 있는 온라인 서비스 및 소프트웨어 채널 권한 부여의 하위 섹션에 따라 Microsoft는 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드가 업데이트 중임을 알려줍니다. 업데이트된 가이드의 미리 보기는 [여기에서 확인할 수 있습니다](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf). 이 업데이트는 이 알림 날짜로부터 30일 후에 효력이 발생하며, 귀하가 추가로 취할 조치는 없습니다.
+
+### <a name="next-steps"></a>다음 단계
+필요한 작업이 없습니다. 이것은 알림일 뿐입니다.
+
+________________
+
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>비영리 조직용 Microsoft 365 Business Voice 소개
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-12
+- 제품/시장
+ 
+### <a name="summary"></a>요약 
+
+2020년 11월 1일에 Microsoft는 비영리 조직을 위한 Microsoft 365 Business Voice용 새 SKU를 도입합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+직접 공급자, 간접 공급자 및 간접 재판매인
+
+### <a name="details"></a>세부 정보
+
+2020년 11월 1일부터 Microsoft는 Business Voice용 새 SKU를 도입합니다. 전체 제품군은 캐나다, 영국 및 미국에서 제공됩니다. Business Voice(통화 플랜 제외)는 다른 모든 국가에서 사용할 수 있습니다. 
+
+Microsoft 365 Business Voice는 Office 365에 기본 제공되는 중소 규모 기업용 클라우드 기반 전화 시스템입니다. 고객의 Office 365 구독에 Business Voice를 추가하면 단일 애플리케이션인 Microsoft Teams에서 통화, 채팅 및 미팅이 포함된 올인원 통신 및 협업 솔루션이 제공됩니다.
+
+가격 책정에 대한 자세한 내용은 가격표를 참조하세요.  
+
+미국에 거주하는 고객은 Microsoft 365 Business Voice(비영리 직원 가격 책정)의 가격표 미리 보기 제품 ID 정보가 올바르지 않다는 점에 유의해야 합니다. 프로모션 제품 ID를 사용할 수 있는 경우 파트너 센터는 10월 중순에 업데이트된 통신문을 발표할 것입니다. 가격 책정이 올바릅니다.
+
+최대 300명의 사용자를 위해 다음 구독에 Microsoft 365 Business Voice를 추가할 수 있습니다. 
+- Office 365: Business Essentials, Business Premium, A1, E1, A3, E3  
+- Microsoft 365: Business, A3, E3
+
+### <a name="next-steps"></a>다음 단계
+
+- 미리 보기 가격 목록을 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
+- CSP(클라우드 솔루션 공급자) 프로그램 업데이트 리소스 갤러리에서 모든 준비 자료를 검토합니다. [중소기업용 Microsoft 365 Business VOICE 소개](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)
+
+________________
+
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>Microsoft 365 오디오 회의의 CSP(클라우드 솔루션 공급자) 프로모션 지금 이용 가능, 2020년 11월 1일 Microsoft 365 Business Voice 출시 예정
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-09
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 파트너를 위해 두 가지 CSP 프로모션을 새로 시작하여 미팅 솔루션으로 Teams를 채택할 수 있도록 지원합니다. 두 프로모션은 모두 Microsoft 365 라이선스에 오디오 회의를 추가하는 것과 관련된 마찰을 줄여줌으로써, 고객에게 미팅 및 통화 솔루션으로 Microsoft 365 및 Teams의 모든 가치를 제공합니다.
+2020년 10월 1일부터 2021년 3월 31일까지 고객은 12개월 동안 무료로 Microsoft 365 구독에 추가 기능 SKU로 Microsoft 365 오디오 회의를 추가할 수 있습니다.
+
+#### <a name="offer-details"></a>솔루션 세부 정보
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 오디오 회의 도입 프로모션|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+
+2020년 11월 1일부터 2021년 4월 30일까지 통화 플랜이 있는 Microsoft 365 Business Voice 및 통화 플랜이 없는 Microsoft 365 Business Voice의 신규 및 갱신 구독은 가격 할인을 받을 수 있습니다. 통화 플랜이 있는 Microsoft 365 Business Voice는 12개월 동안 25% 할인이, 통화 플랜이 없는 Microsoft 365 Business Voice는 12개월 동안 33% 할인이 적용됩니다.
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice 도입 프로모션|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Business Voice 도입 프로모션|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 Business Voice 도입 프로모션|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
+   |Microsoft 365 Business Voice(통화 플랜 제외) 도입 프로모션|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Business Voice(통화 플랜 제외) 도입 프로모션|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Business Voice(통화 플랜 제외) 도입 프로모션|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |미국용 Microsoft 365 Business Voice(통화 플랜 제외) 도입 프로모션|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   
+이러한 프로모션은 다음 고객에게 영향을 줍니다.
+- 순 신규 고객 테넌트
+- CSP, 웹 다이렉트 또는 기타 Microsoft 상업 채널의 Business Voice 또는 오디오 회의 라이선스에 대해 활성화하지 않았거나 최근에 구독을 취소하지 않은(지난 30일 이내) 기존 고객 테넌트
+
+#### <a name="additional-resources"></a>추가 리소스
+
+- Business Voice에 대한 자세한 내용은 [Microsoft 365 Business Voice 파트너 페이지](https://www.microsoft.com/microsoft-365/partners/businessvoice)를 방문하세요. 
+- [오디오 회의 기능](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365) 에 대한 자세한 내용은 Microsoft 365에서 오디오 회의를 참조하세요.
+- 관련 [파트너 FAQ](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)에서 이 프로모션에 대해 자세히 알아보세요.
+
+### <a name="next-steps"></a>다음 단계
+
+- 이러한 미팅 및 통화 프로모션 기회를 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
+- 이러한 제품을 Microsoft 365 프로모션에 통합하세요.
+- Teams에 Business Voice 또는 오디오 회의를 추가하는 가치에 대해 고객과 인식을 제고하세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이러한 제품에 대한 질문은 Microsoft 영업 팀 또는 지원 담당자에게 문의하세요.
 
 ________________
 
@@ -142,10 +257,10 @@ CSP(클라우드 솔루션 공급자) 직접 공급자, 간접 공급자, 간접
 
 ### <a name="details"></a>세부 정보
 
-Microsoft는 2020년 10월 1일부터 이제 새로운 시장(오스트리아, 덴마크, 이탈리아, 포르투갈, 스웨덴 및 스위스)에서 Microsoft 통화 플랜을 사용할 수 있다고 발표하게 되어 기쁘게 생각합니다. 새로운 지리적 가용성은 EA(기업계약) 또는 EAS(기업계약 구독), EES(교육 솔루션 등록), 웹 다이렉트 및 CSP를 통해 상용, 전 세계 공공 부문, 비영리 및 정부 커뮤니티 클라우드에서 시작되었습니다. 
- 
-모든 Microsoft 통화 플랜 기능은 Microsoft의 국내 및 국제 통화 플랜에서 사용할 수 있습니다. 여기에는 p/u/m(월별 사용자당) 기준 120, 240 및 1,200분 국내 플랜 및 p/u/m 기준 국내 1,200분과 국제 600분이 적용되는 국제 플랜이 포함됩니다. 
- 
+Microsoft는 2020년 10월 1일부터 이제 새로운 시장(오스트리아, 덴마크, 이탈리아, 포르투갈, 스웨덴 및 스위스)에서 Microsoft 통화 플랜을 사용할 수 있다고 발표하게 되어 기쁘게 생각합니다. 새로운 지리적 가용성은 EA(기업계약) 또는 EAS(기업계약 구독), EES(교육 솔루션 등록), 웹 다이렉트 및 CSP를 통해 상용, 전 세계 공공 부문, 비영리 및 정부 커뮤니티 클라우드에서 시작되었습니다.
+
+모든 Microsoft 통화 플랜 기능은 Microsoft의 국내 및 국제 통화 플랜에서 사용할 수 있습니다. 여기에는 p/u/m(월별 사용자당) 기준 120, 240 및 1,200분 국내 플랜 및 p/u/m 기준 국내 1,200분과 국제 600분이 적용되는 국제 플랜이 포함됩니다.
+
 Microsoft 통화 플랜은 이전에 벨기에, 캐나다, 프랑스, 독일, 아일랜드, 네덜란드, 푸에르토리코(EA 및 EES로만 제한된 채널 사용 가능), 스페인, 영국 및 미국(오스트레일리아 및 일본의 타사 통화 플랜 사용 가능) 시장에서 사용할 수 있었습니다.
 
 #### <a name="offer-details"></a>솔루션 세부 정보
@@ -290,8 +405,8 @@ Windows 7 지원은 2020년 1월 14일에 종료됩니다. 많은 고객이 Wind
 
 #### <a name="additional-resources"></a>추가 리소스
 
-- [Windows 7 지원 FAQ 페이지](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7 지원 및 Microsoft 365 앱](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 지원 FAQ 페이지](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 지원 및 Microsoft 365 앱](/deployoffice/endofsupport/windows-7-support)
 - [리소스 갤러리](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
 ### <a name="next-steps"></a>다음 단계

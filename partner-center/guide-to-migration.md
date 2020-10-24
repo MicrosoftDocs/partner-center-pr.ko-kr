@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 회사를 PMC(Partner Membership Center)에서 파트너 센터로 마이그레이션하는 방법에 대해 알아봅니다.
+description: 수행해야 하는 단계를 비롯하여, 회사를 PMC(Partner Membership Center)에서 파트너 센터로 마이그레이션하는 방법에 대해 알아봅니다.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663834"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175244"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션에 대한 가이드
 

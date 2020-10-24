@@ -4,31 +4,31 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 신규 고객과 새로운 전문 지식을 활용하여 비즈니스를 확장하는 데 도움이 되는 클라우드 솔루션 공급자 프로그램의 혜택 및 여러 가지 모델에 대해 자세히 알아봅니다.
+description: 신규 고객과 새로운 전문 지식을 활용하여 비즈니스를 확장하는 데 도움이 되는 CSP(클라우드 솔루션 공급자) 프로그램의 혜택 및 여러 가지 모델에 대해 자세히 알아봅니다.
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114330"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197909"
 ---
-# <a name="cloud-solution-provider-program-benefits-and-different-models"></a>클라우드 솔루션 공급자 프로그램 혜택 및 다양한 모델
+# <a name="cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램 
 
 **적용 대상**
 
 - 파트너 센터
 - CSP 프로그램의 파트너
 
-CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판매를 넘어 고객의 비즈니스에 더 많이 관여할 수 있습니다.
+이 문서에서는 CSP(클라우드 솔루션 공급자) 프로그램에 대한 개요를 설명하고 다양한 운영 모델과 요구 사항 그리고 이 프로그램을 통한 판매에 대한 기타 세부 사항을 설명합니다.  CSP 프로그램은 재판매 라이선스 외에 고객의 비즈니스에 더 많이 관여할 수 있도록 지원하며 다음과 같은 이점을 포함할 수 있습니다. 
 
-- 고객과 보다 긴밀하게 소통 – 고객과 정기적으로 만남을 가지면 고객의 비즈니스와 요구 사항을 보다 정확하게 이해할 수 있습니다.
-- 수익 증대 – 직접 또는 간접 공급자를 통해 향상된 지원 및 청구 서비스를 제공하여 새로운 수익 창출 기회를 모색할 수 있습니다.  
-- 가치 추가 – Microsoft 제품과 함께 번들로 제공되는 산업별 솔루션을 고객에게 제공할 수 있습니다.
-- 관리되는 서비스 제공 – 관리되는 서비스에 대한 고객의 요구 사항을 충족하는 회사로 포지셔닝됩니다. 
+- 고객과 보다 긴밀하게 소통: 고객과 정기적으로 미팅을 가지면 고객의 비즈니스와 요구 사항을 보다 정확하게 이해할 수 있습니다.
+- 수익 증대: 직접 또는 간접 공급자를 통해 향상된 지원 및 청구 서비스를 제공하여 새로운 수익 창출 기회를 모색할 수 있습니다.  
+- 가치 추가: Microsoft 제품과 함께 번들로 제공되는 산업별 솔루션을 고객에게 제공할 수 있습니다.
+- 관리형 서비스 제공: 관리형 서비스에 대한 고객의 요구 사항을 충족하는 회사로 포지셔닝됩니다. 
 
 ## <a name="which-csp-model-is-best-for-me"></a>어떤 CSP 모델이 나에게 가장 적합한가요?
 
@@ -36,7 +36,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판
 
  직접 청구 모델에서 파트너는 Microsoft 제품 및 구독을 Microsoft에서 직접 구매하여 사내 영업 담당자를 통해 고객에게 직접 판매합니다. 이미 적절한 판매, 청구 및 지원 인프라를 운영하고 있거나 개발하려는 파트너는 CSP 직접 모델을 선택할 수 있습니다. 직접 파트너가 되기 위한 요구 사항이 최근 변경되었으며 2018년 8월 31일부터 적용됩니다. 직접 파트너는 2018년 8월 31일 이후 다음 등록 기간에 새로운 요구 사항을 충족해야 합니다.
 
-#### <a name="new-expanded-requirements"></a>새롭게 확장된 요구 사항:
+#### <a name="new-expanded-requirements"></a>새롭게 확장된 요구 사항
 
 지원
 
@@ -44,10 +44,9 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 라이선스 재판
 
 서비스
 
-- 하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 애플리케이션을 제공한다는 것을 입증하세요. 관리되는 서비스 추가에 대한 자세한 정보
+- 하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 애플리케이션을 제공한다는 것을 입증하세요. 
 
-- 청구 및 프로비저닝 같은 최소한의 인프라 기능을 만나보세요.
-Microsoft는 이러한 요구 사항을 충족하는 직접 청구 파트너가 안정적인 비즈니스 성장을 보이고 있는지 확인하기 위해 연간 성과를 모니터링하고 있습니다. 현재는 구체적인 성과 목표가 없지만, Microsoft에서 향후에 성과 기준을 설정할 수 있습니다.
+- 청구 및 프로비저닝 같은 최소한의 인프라 기능을 만나보세요. Microsoft는 이러한 요구 사항을 충족하는 직접 청구 파트너가 안정적인 비즈니스 성장을 보이고 있는지 확인하기 위해 연간 성과를 모니터링하고 있습니다. 현재는 구체적인 성과 목표가 없지만, Microsoft에서 향후에 성과 기준을 설정할 수 있습니다.
 
 - 제품을 판매하려는 위치의 활성 MPN(Microsoft 파트너 네트워크) ID
 
@@ -71,12 +70,9 @@ Microsoft는 이러한 요구 사항을 충족하는 직접 청구 파트너가 
 
 ## <a name="next-steps"></a>다음 단계
 
-- 각 CSP 모델의 요구 사항 [클라우드 솔루션 공급자 프로그램](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-
-- Microsoft 국가별 클라우드에서 판매: [Microsoft 국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
-
-- Microsoft 고객 계약 고객 템플릿: [지역 및 언어별 Microsoft 고객 계약](agreements.md)
-
-- 파트너 센터에서 간접 공급자가 하는 일 [클라우드 솔루션 공급자 프로그램에서 간접 재판매인과 파트너 되기](indirect-provider-tasks-in-partner-center.md)
-
-- 파트너 센터에서 간접 재판매인이 하는 일 [클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기](indirect-reseller-tasks-in-partner-center.md)
+- [CSP 프로그램에 등록](enrolling-in-the-csp-program.md)
+- [각 CSP 모델의 요구 사항 검토](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+- [Microsoft 국가별 클라우드 판매에 적용](csp-national-clouds-overview.md)
+- [지역 및 언어별 Microsoft 고객 계약](agreements.md)
+- [클라우드 솔루션 공급자 프로그램의 간접 재판매인과 파트너](indirect-provider-tasks-in-partner-center.md)
+- [클라우드 솔루션 공급자 프로그램에서 간접 공급자와 파트너 되기](indirect-reseller-tasks-in-partner-center.md)
