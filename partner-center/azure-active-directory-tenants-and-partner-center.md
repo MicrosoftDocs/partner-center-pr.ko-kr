@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사를 파트너 센터 계정에 연결하는 회사 계정을 만듭니다. 이렇게 하면 회사 직원이 파트너 센터에 액세스할 수 있습니다.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: 회사 계정, 이메일, 테넌트, Azure 테넌트, 계정 만들기, 도메인 이름
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394213"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333832"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>회사를 파트너 센터 계정에 연결하는 회사 계정 만들기
 
@@ -61,7 +60,7 @@ Microsoft에서는 회사 계정을 새 파트너 센터 계정에 연결하도�
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="회사 계정이 있나요, 아니면 회사 계정을 만들어야 하나요?":::
 
-Azure AD에서 도메인 추가에 대한 자세한 내용은 [Azure AD에서 도메인 추가 또는 연결](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)을 참조하세요.
+Azure AD에서 도메인 추가에 대한 자세한 내용은 [Azure AD에서 도메인 추가 또는 연결](/azure/active-directory/active-directory-add-domain)을 참조하세요.
 
 ## <a name="about-microsoft-azure"></a>Microsoft Azure 정보
 
