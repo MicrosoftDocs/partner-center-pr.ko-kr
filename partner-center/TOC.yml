@@ -6,8 +6,10 @@
   items:
     - name: Microsoft와 파트너 되기
       href: mpn-overview.md
+      displayName: mpn
     - name: 파트너 센터 계정 만들기
       href: mpn-create-a-partner-center-account.md
+      displayName: mpn
     - name: 회사 이메일 주소 가져오기
       href: buy-email-domain.md
     - name: 계정 설정 문제 해결
@@ -24,6 +26,7 @@
       items:
         - name: PMC에서 마이그레이션 준비
           href: prepare-pmc-pc-migration.md
+          displayName: 'role, roles, ro, mpn'
         - name: PMC에서 이동 가이드
           href: guide-to-migration.md
         - name: PMC 및 PC 비교
@@ -34,32 +37,44 @@
           href: consolidate-accounts.md
         - name: PMC용 혜택 활성화
           href: partner-membership-center-tech-benefits-activate.md
+          displayName: mpn
     - name: 멤버십 제품
       items:
         - name: Action Pack
           href: mpn-get-action-pack.md
+          displayName: 'renew, mpn'
         - name: 제품 갱신
           href: renew-mpn-offers.md
+          displayName: mpn
         - name: MPN 혜택 찾기
           href: mpn-find-benefits.md
+          displayName: mpn
     - name: 역량
       items:
         - name: 역량에 대해 알아보기
           href: learn-about-competencies.md
+          displayName: mpn
+        - name: 역량 FAQ
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
         - name: 앱 개발 역량 제외
           href: app-dev-isv.md
     - name: 고급 전문 분야
       href: advanced-specializations.md
+      displayName: mpn
     - name: Azure Expert MSP 되기
       href: azure-expert-msp.md
     - name: 이점
       items:
         - name: 혜택 개요
           href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: 출시 혜택
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
         - name: 혜택 FAQ
           href: benefits-faq.md
+          displayName: 'renew, license, mpn'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
@@ -75,35 +90,47 @@
               href: software-assurance-dps-requirements.md
     - name: 송장 및 세금
       href: mpn-view-print-maps-invoice.md
+      displayName: 'invoice, mpn'
     - name: 새 기능 시험 사용
       href: test-drive-new-features.md
 - name: CSP(클라우드 솔루션 공급자)
   href: csp-overview.md
+  displayName: csp
   items:
     - name: CSP 프로그램에 등록
       href: enrolling-in-the-csp-program.md
+      displayName: 'indirect, reseller, csp'
     - name: Microsoft 파트너 계약 - CSP
       href: microsoft-partner-agreement.md
+      displayName: 'csp, mpn'
     - name: CSP 직접 파트너 요구 사항
       href: direct-partner-new-requirements.md
+      displayName: 'indirect, reseller, csp'
     - name: 'Microsoft 고객 계약(지역, 언어별)'
       href: agreements.md
+      displayName: 'regio, region'
     - name: 제한된 직접 청구 액세스
       href: restricted-direct-bill-capabilities.md
+      displayName: 'indirect, reseller'
     - name: CSP 직접 청구에서 간접 재판매인으로 전환
       href: transition-direct-to-indirect.md
+      displayName: csp
     - name: 'CSP 계약, 가격표, 제품'
       href: csp-documents-and-learning-resources.md
+      displayName: csp
     - name: CSP용 Cloudyn별 Azure Cost Management
       href: azure-cost-management-app-for-csp-partners.md
     - name: 'CSP 지역 시장, 통화'
       href: regional-authorization-overview.md
+      displayName: 'regio, region, csp'
     - name: CSP 지역 권한 부여 테넌트 통합에 대한 지침
       href: csp-regional-authorization-tenant-consolidation.md
+      displayName: 'regio, region, csp'
     - name: Microsoft 고객 계약에 대한 동의를 확인하는 업데이트 방법
       href: confirm-consent.md
     - name: Microsoft 고객 계약에 대한 동의 확인
       href: confirm-customer-agreement.md
+      displayName: csp
     - name: 고객을 대신하여 고객 계약 동의를 증명하는 경우
       href: attest-acceptance-customer-agreement.md
     - name: 국가별 클라우드 판매에 적용
@@ -113,12 +140,15 @@
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: FAQ - Microsoft Cloud for US Government
           href: faq-for-us-govt-cloud.md
+          displayName: csp
         - name: Microsoft 클라우드 독일 파트너 센터
           href: partner-center-for-microsoft-cloud-germany.md
         - name: Microsoft Cloud for US Government의 CSP에 등록
           href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+          displayName: csp
         - name: CSP용 Office 365 Government GCC 판매
           href: csp-gcc-overview.md
+          displayName: csp
         - name: Office 365 Government GCC 파트너 및 고객 자격 기준
           href: csp-gcc-validate.md
         - name: Microsoft 클라우드 독일의 사용자 및 라이선스 관리
@@ -131,8 +161,10 @@
       items:
         - name: 계정 관리 정보
           href: partner-center-account-setup.md
+          displayName: 'mpn, csp'
         - name: 계정 구조 정보
           href: account-structure.md
+          displayName: mpn
         - name: 회사 계정 연결
           href: azure-active-directory-tenants-and-partner-center.md
         - name: 도메인 소유권 확인
@@ -141,14 +173,18 @@
           href: verification-responses.md
         - name: 파트너 계정 병합
           href: merge-accounts.md
+          displayName: 'mpn, renew'
         - name: 더 많은 Azure AD 테넌트 추가
           href: multi-tenant-account.md
         - name: 파트너 프로필 업데이트
           href: update-your-partner-profile.md
+          displayName: mpn
         - name: 위치 관리
           href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: 제어판 공급업체 되기
           href: enroll-as-cpv.md
+          displayName: csp
         - name: 일시 중단된 계정 복원
           href: suspended-partner-center-account.md
         - name: Azure AD 애플리케이션 추가
@@ -161,8 +197,10 @@
           href: create-user-accounts-and-set-permissions.md
         - name: 사용자에게 역할 할당
           href: permissions-overview.md
+          displayName: 'role, ro, roles, mpn'
         - name: 역할 찾기
           href: find-your-role.md
+          displayName: 'role, roles, ro'
         - name: 제어판 공급업체 되기
           href: enroll-as-cpv.md
         - name: 사용자 암호 다시 설정
@@ -173,16 +211,20 @@
           href: unable-to-sign-in.md
         - name: 사용자에게 MPN 관리자가 없음
           href: no-mpn-admin.md
+          displayName: mpn
     - name: 비즈니스 관리
       items:
         - name: Azure Partner Shared Services
           href: shared-services.md
+          displayName: csp
         - name: 가격 책정 및 제품
           href: pricing-and-offers.md
+          displayName: csp
 - name: 조회
   items:
     - name: 비즈니스 성장
       href: grow-your-business.md
+      displayName: 'trial, csp'
     - name: 추천 개요
       href: referrals.md
     - name: 비즈니스 프로필 관리
@@ -203,18 +245,21 @@
           href: connectors-troubleshoot.md
         - name: 공동 판매 - PSC에서 PC로 마이그레이션
           href: psc-to-pc.md
+          displayName: mpn
     - name: 거래 등록
       href: register-deals.md
     - name: 조회 인사이트 얻기
       href: referral-insights.md
     - name: 비즈니스 프로필 분석
       href: analyze-your-marketing-profile.md
+      displayName: mpn
 - name: 인센티브
   items:
     - name: 인센티브 시작
       items:
         - name: 인센티브에 대한 FAQ
           href: incentives-faq.md
+          displayName: mpn
         - name: 인센티브 시작
           href: incentives-get-started-intro.md
         - name: 인센티브에 대한 10가지 기본 정보
@@ -235,7 +280,7 @@
           displayName: incentives
         - name: 지급액 및 프로그램 보기
           href: understand-incentive-payouts.md
-          displayName: incentives
+          displayName: 'mpn, incentives'
         - name: 지급액 페이지 액세스
           href: incentives-unified-user-guide.md
           displayName: incentives
@@ -252,7 +297,7 @@
           displayName: incentives
         - name: 세금 계산서를 PoE로 제출
           href: incentives-tax-invoice-poe.md
-          displayName: incentives
+          displayName: 'incentives, invoice'
     - name: 인센티브 협업 클레임
       items:
         - name: 인센티브 협업 클레임
@@ -278,29 +323,35 @@
           displayName: incentives
         - name: 고객 연결 문제
           href: incentives-customer-association-issues.md
-          displayName: incentives
+          displayName: 'incentives, mpn'
     - name: 지불 및 수익 문제 해결
       href: incentives-payment-issues.md
       displayName: incentives
 - name: 청구 및 세금
   href: billing.md
+  displayName: trial
   items:
     - name: 청구 기본 사항
       href: billing-basics.md
+      displayName: invoice
     - name: 파트너 센터의 청구 유형
       href: billing-different-types.md
     - name: 요금 청구 방식
       href: read-your-bill.md
+      displayName: invoice
     - name: 조정 파일 사용
       href: use-the-reconciliation-files.md
+      displayName: 'reseller, mpn'
     - name: 조정 파일 요금 유형
       href: recon-file-charge-types.md
+      displayName: 'cancel, invoice'
     - name: 일일 사용량 조정 파일
       href: daily-rated-usage-recon-files.md
     - name: 라이선스 기반 조정 파일
       href: license-based-recon-files.md
     - name: 일반적인 청구 시나리오
       href: common-billing-scenarios.md
+      displayName: 'trial, subscription'
       items:
         - name: 월간 청구 시나리오
           href: common-billing-scenarios-monthly.md
@@ -310,37 +361,47 @@
           href: common-billing-scenarios-onetime-recurring.md
         - name: 청구 송장 이해
           href: invoice-file.md
+          displayName: invoice
         - name: 라이선스 기반 청구
           href: license-based-billing.md
         - name: 통신사 청구
           href: mobile-operator-billing.md
         - name: 라이선스 기반 SaaS 구독 시나리오
           href: common-billing-scenarios-saas.md
+          displayName: cancel
     - name: 마켓플레이스 제품 비용 청구
       href: csp-commercial-marketplace-billing.md
+      displayName: 'invoice, csp'
     - name: 디지털 서명 보기 - 파트너 센터 인도
       href: digital-signature.md
+      displayName: invoice
     - name: 세금 및 면세
       href: tax-and-tax-exemptions.md
+      displayName: 'region, regio'
       items:
         - name: 회사 VAT 정보
           href: organization-tax-info.md
         - name: 파트너 센터 등록의 VAT(부가 가치세) 정보
           href: vat-info.md
+          displayName: 'region, regio'
         - name: 세금 원천징수에 대한 크레딧 받기
           href: withholding-tax-credit-form.md
         - name: 음성 서비스에 대한 지역 세금
           href: tax-and-fees-voice-services.md
+          displayName: 'csp, regio, region'
         - name: 상업용 Marketplace 게시자에 대한 세금 정보
           href: tax-details-marketplace.md
+          displayName: 'region, regio, reseller'
         - name: Microsoft에서 발급하는 IRS 세금 양식 이해
           href: understand-irs-tax-forms.md
         - name: 지급 계정 및 세금 양식 설정
           href: set-up-your-payout-account.md
+          displayName: 'region, regio'
         - name: Microsoft로부터 SLA 크레딧 요청
           href: request-credit.md
     - name: 고객의 Azure 지출 예산 설정
       href: set-an-azure-spending-budget-for-your-customers.md
+      displayName: csp
 - name: 지급 받기
   items:
     - name: '미결제, 사기 또는 오용 관리'
@@ -357,12 +418,14 @@
           href: payment-thresholds-methods-timeframes.md
         - name: 지급액 명세서
           href: payout-statement.md
+          displayName: invoice
         - name: 지급 FAQ
           href: payout-faq.md
 - name: 고객과의 관계 구축
   items:
     - name: 고객과의 관계 구축
       href: connect-with-your-customers.md
+      displayName: 'indirect, reseller'
     - name: 새 고객 추가
       href: add-a-new-customer.md
     - name: 고객과 재판매인 관계 요청
@@ -373,35 +436,44 @@
       href: customers-revoke-admin-privileges.md
     - name: 고객 목록 참조
       href: see-your-customer-list.md
+      displayName: reseller
     - name: 고객 활동 로그 보기
       href: activity-logs.md
     - name: 고객 계정 정보 업데이트
       href: update-customer-account-info.md
     - name: 고객이 자신의 서비스를 구입할 수 있도록 허용
       href: give-customers-permission.md
+      displayName: csp
     - name: 고객에 대해 다수 사용자 추가
       href: adding-multiple-users-to-a-customer-account.md
     - name: 여러 사용자 가져오기
       href: file-customer-users.md
     - name: 지원 담당자 할당
       href: assign-support-contacts.md
+      displayName: 'indirect, reseller'
 - name: CSP 제품
   href: csp-offers.md
+  displayName: csp
   items:
     - name: 상용 마켓플레이스
       items:
         - name: 상용 마켓플레이스 개요
           href: csp-commercial-marketplace-overview.md
+          displayName: csp
         - name: 마켓플레이스 제품 검색
           href: csp-commercial-marketplace-discover.md
+          displayName: csp
         - name: 마켓플레이스 제품 구매
           href: csp-commercial-marketplace-purchase.md
+          displayName: csp
         - name: 독립 소프트웨어 공급업체의 마켓플레이스 독점 제품
           href: isv-opt-in.md
         - name: 마켓플레이스 제품 관리
           href: csp-commercial-marketplace-manage.md
+          displayName: 'cancel, renew'
         - name: 마켓플레이스 제품 지원
           href: csp-commercial-marketplace-support.md
+          displayName: csp
         - name: 마켓플레이스 구매 계약
           href: csp-commercial-marketplace-contracting.md
     - name: Azure 예약
@@ -413,10 +485,13 @@
           href: azure-reservations-buying.md
         - name: 고객을 대신하여 Microsoft Azure Reservations 관리
           href: azure-reservations-manage.md
+          displayName: cancel
         - name: Azure Reserved VM Instances(RI) 및 서버 구독
           href: azure-ri-server-subscriptions.md
+          displayName: csp
     - name: Azure CSP에서 사용 가능한 Azure 서비스
       href: azure-plan-available.md
+      displayName: csp
     - name: Azure 플랜
       href: azure-plan-lp.md
       items:
@@ -426,39 +501,53 @@
           href: purchase-azure-plan.md
         - name: Azure 제품 비교
           href: compare-azure-offers.md
+          displayName: 'csp, invoice'
         - name: 고객을 Azure 플랜으로 전환
           href: azure-plan-transition.md
+          displayName: csp
         - name: 파트너 획득 크레딧
           href: partner-earned-credit.md
+          displayName: csp
         - name: 파트너 획득 크레딧을 계산 및 지불하는 방법
           href: partner-earned-credit-explanation.md
+          displayName: csp
         - name: 파트너 획득 크레딧에 대한 역할 및 권한
           href: azure-roles-perms-pec.md
+          displayName: 'role, roles, ro'
         - name: CSP의 새로운 상거래 환경 - Azure 청구
           href: azure-plan-billing.md
+          displayName: invoice
         - name: Azure용 CSP의 새로운 상거래 환경에 대한 가격표
           href: azure-plan-price-list.md
         - name: Azure 플랜 하에서 구독 및 리소스 관리
           href: azure-plan-manage.md
+          displayName: csp
         - name: Azure CSP 구독에 대한 관리자 권한 복구
           href: revoke-reinstate-csp.md
+          displayName: csp
         - name: Azure 구독 전송
           href: switch-azure-subscriptions-to-a-different-partner.md
+          displayName: csp
     - name: 소프트웨어 구독
       href: csp-software-subscriptions.md
+      displayName: 'subscription, cancel'
     - name: CSP 프로그램을 통해 온-프레미스 소프트웨어 판매
       href: csp-on-premise-software.md
+      displayName: 'cancel, csp'
     - name: 온라인 서비스(구독)
       href: customer-subscriptions.md
+      displayName: csp
       items:
         - name: '고객 구독 만들기, 일시 중단 또는 취소'
           href: create-a-new-subscription.md
+          displayName: 'trial, renew, cancel, csp'
         - name: 프로모션을 사용하여 신규 고객 유치
           href: promotions.md
         - name: 고객에게 Microsoft 제품의 평가판 제공
           href: offer-your-customers-trials-of-microsoft-products.md
         - name: 상업용 마켓플레이스 제품 구독 판매
           href: sell-marketplace-products.md
+          displayName: csp
         - name: 파트너 센터에서 Azure 구독 할당
           href: assign-azure-subscriptions.md
         - name: 사용자 및 라이선스 관리
@@ -515,6 +604,7 @@
       items:
         - name: 인사이트 정보
           href: partner-center-insights.md
+          displayName: mpn
         - name: 인사이트 역할 기반 액세스
           href: pci-roles.md
         - name: 인사이트 보고서
@@ -539,6 +629,7 @@
               href: pci-product-subscriptions-report.md
             - name: 재판매인 성과
               href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
             - name: 학습
               href: pci-training-dashboard.md
         - name: 알려진 문제
@@ -547,30 +638,39 @@
           href: pci-download-reports.md
     - name: 파트너 기여 지표
       href: partner-contribution-indicators.md
+      displayName: mpn
     - name: 기타 데이터 분석
       items:
         - name: 고객 Azure 사용량
           href: analyze-azure-usage.md
         - name: 간접 재판매인 보고서
           href: analyze-indirect-resellers.md
+          displayName: 'indirect, reseller, subscription'
         - name: 구독 및 라이선스
           href: analyze-subscriptions-licenses.md
+          displayName: 'subscription, license, trial'
 - name: 다른 파트너와 협력
   items:
     - name: 파트너 찾기
       href: find-a-partner.md
+      displayName: csp
     - name: 다른 파트너와 협력
       href: work-with-other-partners.md
+      displayName: 'indirect, reseller, csp'
     - name: 간접 공급자 작업
       href: indirect-provider-tasks-in-partner-center.md
+      displayName: 'indirect, reseller, csp'
     - name: 간접 재판매인 작업
       href: indirect-reseller-tasks-in-partner-center.md
+      displayName: 'indirect, reseller, csp'
     - name: 지원되는 CSP 파트너 관계
       href: csp-supported-partner-relationships.md
+      displayName: 'indirect, reseller, csp'
     - name: 다중 채널 지원
       href: multichannel.md
     - name: 다중 파트너 지원
       href: multipartner.md
+      displayName: csp
 - name: Microsoft에서 지원 받기
   href: support-from-microsoft.md
   items:
@@ -582,13 +682,16 @@
       href: get-automated-service-notifications-with-our-apis.md
 - name: 고객에게 지원 제공
   href: customer-support.md
+  displayName: csp
   items:
     - name: 서비스 상태 검사
       href: check-service-health.md
     - name: 청구 지원 제공
       href: provide-billing-support.md
+      displayName: csp
     - name: 기술 지원 제공
       href: provide-technical-support.md
+      displayName: csp
     - name: Microsoft의 고객 커뮤니케이션
       href: customer-communication-from-microsoft.md
     - name: 고객 자가 지원
@@ -599,17 +702,23 @@
   items:
     - name: 라이선스 리소스
       href: support-resources-licensing.md
+      displayName: 'mpn, csp'
     - name: ID 및 도메인 이름 찾기
       href: find-ids-and-domain-names.md
+      displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: 보안 요구 사항
   items:
     - name: 개요
       href: partner-security-requirements.md
     - name: 파트너 테넌트에 대한 MFA 위임
       href: partner-security-requirements-mandating-mfa.md
+      displayName: csp
     - name: 다단계 인증을 사용하여 사용자 설정
       href: mfa-for-users.md
+      displayName: csp
     - name: 요구 사항 상태
       href: partner-security-compliance.md
+      displayName: csp
     - name: 질문과 대답
       href: partner-security-requirements-faq.md
+      displayName: 'sandbox, csp'
