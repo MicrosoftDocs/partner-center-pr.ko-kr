@@ -1,7 +1,7 @@
 ---
 title: 제한된 직접 청구 기능
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 직접 청구 파트너 요구 사항 및 기능이 제한 되는 것을 방지 하기 위해 수행할 작업에 대해 알아봅니다. 기능이 제한 되었는지 확인 합니다.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444766"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795774"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
 
@@ -31,11 +31,11 @@ ms.locfileid: "87444766"
 
 1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
 
-2. **파트너 설정**  ->  **파트너 프로필**로 이동 합니다.
+2. **파트너 설정**  ->  **파트너 프로필** 로 이동 합니다.
 
-3. **프로그램 정보**에서 **Microsoft 클라우드 솔루션 공급자 상태**를 찾습니다.
+3. **프로그램 정보** 에서 **Microsoft 클라우드 솔루션 공급자 상태** 를 찾습니다.
 
-4. 프로그램 상태에 값이 **제한**되어 있는 경우 직접 청구 기능에 대 한 직접 청구 파트너 테 넌 트의 액세스가 제한 되어 있음을 의미 합니다.
+4. 프로그램 상태에 값이 **제한** 되어 있는 경우 직접 청구 기능에 대 한 직접 청구 파트너 테 넌 트의 액세스가 제한 되어 있음을 의미 합니다.
 
 ## <a name="affected-direct-bill-capabilities"></a>영향을 받는 직접 청구 기능
 
@@ -51,7 +51,7 @@ ms.locfileid: "87444766"
 
 또한 CSP 프로그램의 [azure partner shared services 제품](shared-services.md) 을 사용 하 여 새 azure 구독을 직접 구매할 수 없습니다.
 
-기존 직접 청구 구독은 영향을 받지 않습니다. 유효한 상태로 유지 되 고 autorenewed 됩니다. 취소 될 때까지 Microsoft에서 직접 청구 됩니다. 다음과 같은 방법으로 기존 구독을 계속 관리할 수 있습니다.
+기존 직접 청구 구독은 영향을 받지 않습니다. 이는 유효한 상태로 유지 되 고 자동 갱신 됩니다. 취소 될 때까지 Microsoft에서 직접 청구 됩니다. 다음과 같은 방법으로 기존 구독을 계속 관리할 수 있습니다.
 
 - 기존 구독 일시 중단
 

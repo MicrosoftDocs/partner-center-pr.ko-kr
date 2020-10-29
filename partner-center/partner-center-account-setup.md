@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197999"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333935"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
@@ -48,10 +48,10 @@ ms.locfileid: "92197999"
 
 ## <a name="account-management"></a>계정 관리
 
-파트너 센터에서는 현재 **파트너 설정** 및 **개발자 설정**의 두 섹션에서 계정을 관리합니다.
+파트너 센터에서는 현재 **파트너 설정** 및 **개발자 설정** 의 두 섹션에서 계정을 관리합니다.
 
 >[!NOTE]
->**파트너 설정** 또는 **개발자 설정**에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다. 그런 다음, 드롭다운 메뉴에서 **파트너 설정** 또는 **개발자 설정**을 선택할 수 있습니다.
+>**파트너 설정** 또는 **개발자 설정** 에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다. 그런 다음, 드롭다운 메뉴에서 **파트너 설정** 또는 **개발자 설정** 을 선택할 수 있습니다.
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="등록된 프로그램 메뉴":::
 
@@ -83,11 +83,11 @@ ms.locfileid: "92197999"
 
 **파트너 설정** 옵션은 **개발자 설정** 옵션과 다릅니다. 각 옵션 집합의 샘플 스크린샷은 아래를 참조하세요. 다른 프로그램에 대한 액세스 권한이 있는 경우 여기에 표시된 스크린샷 샘플과 다른 옵션도 표시될 수 있습니다.
 
-**파트너 설정 옵션**:
+**파트너 설정 옵션** :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="등록된 프로그램 메뉴":::
 
-**개발자 설정 옵션**:
+**개발자 설정 옵션** :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="등록된 프로그램 메뉴":::
 
@@ -126,6 +126,5 @@ MPN 프로그램 또는 CSP(클라우드 솔루션 공급자) 프로그램과 �
 |파트너 센터에 제어판 공급업체로 등록|[파트너 센터에 제어판 공급업체로 등록](enroll-as-cpv.md)|
 |파트너 센터에서 Microsoft Learn 계정 연결|[파트너 센터에서 Microsoft Learn 계정 연결](ms-learn-associate.md)|
 |고객이 찾을 수 있도록 회사 마케팅   |[비즈니스 프로필 만들기](create-a-marketing-profile.md)|
-|가장 중요한 제품이 목록 맨 위에 오도록 카탈로그 정리   |[카탈로그 사용자 지정](customize-the-catalog.md)|
 |현재 가격 및 제품에 대한 정보 업데이트   |[가격 책정 및 제품](pricing-and-offers.md)|
-|API: 파트너 MPN ID 확인|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API: 파트너 MPN ID 확인|[파트너 MPN ID 확인](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

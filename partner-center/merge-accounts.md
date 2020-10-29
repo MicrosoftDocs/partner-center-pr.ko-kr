@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175178"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795834"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
@@ -84,12 +84,32 @@ ms.locfileid: "92175178"
 
 1. 파트너 센터 대시보드에서 **설정을** 선택 합니다. 
 
-2. **계정 병합**을 선택 합니다.
+2. **계정 병합** 을 선택 합니다.
 
 3. 사용자와 병합 하려면 초대 하려는 계정의 **파트너 프로필** 에 있는 MPN ID를 추가 합니다. Partner global MPN ID를 사용 해야 합니다. Location MPN ID는 사용할 수 없습니다.
 
-4. **병합**을 선택 하면 파트너 회사에 초대가 전송 됩니다. 요청을 수락 하면 파트너 센터 내에서 계정 병합을 시작할 수 있습니다. 회사에서 계정 병합 요청을 거부 하는 경우 요청이 거부 된 이유를 설명할 수 있습니다. 모든 계정 병합 목록은 **병합 기록**에서 사용할 수 있습니다.
+4. **병합** 을 선택 하면 파트너 회사에 초대가 전송 됩니다. 요청을 수락 하면 파트너 센터 내에서 계정 병합을 시작할 수 있습니다. 회사에서 계정 병합 요청을 거부 하는 경우 요청이 거부 된 이유를 설명할 수 있습니다. 모든 계정 병합 목록은 **병합 기록** 에서 사용할 수 있습니다.
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>계정을 병합 하는 두 회사의 예
 
+1. Contoso에 
+
+    a. [1111111의 글로벌 MPN id](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) 및 1 개의 하위 [위치 MPN id 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. Azure AD 테 넌 트 = @contoso.com
+ 
+    다. 2020 년 10 월 1 일에 만료 되는 골드 역량
+2. Fabricam.com에
+ 
+    a.  3333333의 글로벌 MPN ID와 4444444 및 5555555의 두 하위 위치 MPN Id
+
+    b.  AAD 테 넌 트 = @fabricam.com
+
+    다.  12 월 1 일에 만료 되는 두 가지 골드 역량 2020
+3.  Contoso는 Fabricam.com를 구입 하 여 병합 [요청을 시작 합니다.](https://partner.microsoft.com/dashboard/account/merger)
+4.  Fabricam.com은 파트너 센터에 로그인 하 고 contoso가 #3 단계에서 수행한 것과 동일한 페이지로 이동 하 여 Contoso의 요청을 승인 합니다.
+5.  Contoso는 동일한 페이지에 대 한 병합 세부 정보를 검토 하 고 계정 병합을 계속 하기 위한 확인을 제공 합니다.
+    
 ## <a name="next-steps"></a>다음 단계
 
 - [사용자 역할 및 권한 할당](permissions-overview.md)
