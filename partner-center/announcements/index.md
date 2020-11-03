@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917215"
+ms.locfileid: "93027893"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "92917215"
 
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[이제 적격 CSP(클라우드 솔루션 공급자) Education 고객은 Windows 10 Education 업그레이드를 사용할 수 있습니다.](2020-october.md#16)|10월 28일|
 |기능|[새로 단장한 CSP(클라우드 솔루션 공급자) 디지털 환경 지금 이용 가능](2020-october.md#15)|10월 28일|
 |기능|[CSP(클라우드 솔루션 공급자) 프로그램에서 직접 청구 파트너 요구 사항에 대한 성능 표준 소개](2020-october.md#13)|10월 27일|
 |제품/시장|[2020년 10월 CSP(클라우드 솔루션 공급자) 소프트웨어 구독 가격표 업데이트](2020-october.md#14)|10월 26일|

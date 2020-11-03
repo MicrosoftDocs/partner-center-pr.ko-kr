@@ -710,13 +710,10 @@
       displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: 보안 요구 사항
   items:
-    - name: 개요
+    - name: 보안 개요
       href: partner-security-requirements.md
     - name: 파트너 테넌트에 대한 MFA 위임
       href: partner-security-requirements-mandating-mfa.md
-      displayName: csp
-    - name: 다단계 인증을 사용하여 사용자 설정
-      href: mfa-for-users.md
       displayName: csp
     - name: 요구 사항 상태
       href: partner-security-compliance.md
