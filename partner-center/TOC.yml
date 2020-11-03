@@ -295,9 +295,6 @@
         - name: 실행 증명서 만들기
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: 세금 계산서를 PoE로 제출
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: 인센티브 협업 클레임
       items:
         - name: 인센티브 협업 클레임
