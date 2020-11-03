@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
-ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92098482"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795816"
 ---
 # <a name="october-2020-announcements"></a>2020년 10월 공지
 
@@ -22,7 +22,115 @@ ms.locfileid: "92098482"
 
 2020년 공지:  [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | 10월
 
+________________________________
 
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13">CSP(클라우드 솔루션 공급자) 프로그램에서 직접 청구 파트너 요구 사항에 대한 성능 표준 소개</a>
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-27
+- 기능
+ 
+### <a name="summary"></a>요약
+
+클라우드 솔루션 공급자 프로그램에서 직접 청구 파트너 요구 사항에 포함된 성능 표준을 소개합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+클라우드 솔루션 공급자 프로그램의 직접 청구 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft 클라우드 솔루션 공급자 프로그램의 확장 및 최적화는 파트너 및 고객을 위한 새로운 상거래 환경으로 이전하는 과정에서 중요한 부분입니다. 따라서 Microsoft는 고객의 변화하는 요구를 충족하고 파트너에게 가장 효율적이고 수익성 있는 환경을 제공하기 위해 프로그램을 계속 개선해 나갈 것입니다.
+
+오늘은 클라우드 솔루션 공급자 프로그램에서 직접 청구 파트너의 요구 사항에 대한 몇 가지 예정된 변경 내용을 공유하려고 합니다.
+
+먼저 **직접 청구 파트너 요구 사항에 포함된 성능 표준을 소개합니다** . 클라우드 솔루션 공급자 프로그램에 직접 청구 파트너로 등록하려는 파트너는 [필수 지원 계약](https://partner.microsoft.com/support/partnersupport) 갱신일 이전에 12개월 동안 달성한 클라우드 솔루션 공급자 프로그램 수익이 USD300K 이상이어야 합니다.
+
+이 성능 표준은 2021년 1월부터 현재 직접 청구 파트너에게 적용되며, 파트너는 파트너 지원 플랜 갱신일까지 요구 사항을 충족해야 합니다.
+
+업데이트된 직접 청구 파트너 요구 사항을 충족할 수 없거나 직접 청구 파트너가 되기를 원하지 않는 경우에는 클라우드 솔루션 공급자 프로그램에 간접 재판매인으로 다시 등록해야 합니다. 
+
+이 새로운 수익 요구 사항은 클라우드 솔루션 공급자 프로그램의 파트너가 더 명확한 성능 표준이 정의된 올바른 모델을 통해 보다 수익성 있는 비즈니스를 구축하고 더 적은 인프라와 운영 오버헤드로 고객에게 더 큰 가치를 제공하는 데 집중할 수 있게 해줍니다.
+
+둘째, Microsoft는 지난 2018년 8월에 적격 파트너 지원 플랜을 구매하는 파트너에 대한 새 기준으로 직접 청구 파트너 요구 사항을 업데이트했습니다. Microsoft는 클라우드 솔루션 공급자 프로그램의 모든 직접 청구 파트너에게 적용되는 이 요구 사항의 중요성을 다시 강조하고 있습니다.
+
+### <a name="direct-bill-partner-requirements"></a>직접 청구 파트너 요구 사항
+
+[업데이트된 직접 청구 파트너 요구 사항](../direct-partner-new-requirements.md#minimum-requirements) 및 권장 사항을 검토하여 클라우드 솔루션 공급자 프로그램의 적절한 모델을 통해 더 수익성 있는 비즈니스를 구축하고 확장하는 방법을 평가합니다.
+
+1. **새로운 수익 성과 요구 사항**
+
+현재 클라우드 솔루션 공급자 프로그램에 직접 청구 파트너로 등록되어 있는 **기존 파트너** 는 2021년 1월부터 새 성능 표준을 충족해야 합니다. 기존 파트너는 다음 파트너 지원 플랜 갱신일까지 요구 사항을 충족해야 합니다. [이 가이드](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)에 따라 파트너 센터에서 지난 12개월 동안의 수익을 살펴볼 수 있습니다.
+
+**2020년 10월** 부터 클라우드 솔루션 공급자 프로그램에 등록하는 새 파트너는 간접 재판매인으로 등록됩니다. 이전 12개월 동안 달성한 CSP 수익이 USD300K 이상이어야 합니다. [이 가이드](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)에 따라 파트너 센터에서 지난 12개월 동안의 수익을 살펴볼 수 있습니다. 
+
+2. **지원 계약 요구 사항** 
+
+두 가지 지원 계약 옵션 중 하나를 구매하여 지원 기능을 확장합니다.  
+
+   - Microsoft 파트너에 대한 고급 지원(ASfP): 우선 순위가 지정된 일대일 클라우드 지원  
+   - Microsoft 파트너에 대한 프리미어 지원(PSfP): 사전 서비스, 연중무휴 고장/수리 지원, 클라우드, 하이브리드 및 온-프레미스 환경에서 기술 계정 관리를 모두 포괄하는 카탈로그에 액세스하세요. 
+
+[지원 계약 옵션을 비교](https://partner.microsoft.com/support/partnersupport)하고 적합한 플랜을 구매하세요.
+
+### <a name="direct-bill-partner-recommendations"></a>직접 청구 파트너 권장 사항
+
+**주요 기능 시연**
+
+직접 청구 프로그램을 지원하는 데 필요한 인프라를 준비하고 관련 지식을 쌓기 위한 몇 가지 추가 권장 사항이 있습니다. 하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 애플리케이션을 제공한다는 것을 입증하세요. 파트너는 서비스를 그대로 재판매하는 것이 아니라 Microsoft 클라우드 서비스에 가치를 더해야 합니다. 이는 파트너의 시장 진출 전략에서 중요한 부분입니다. 관리 서비스 추가에 대해 [자세히 알아보세요](https://partner.microsoft.com/solutions/managed-services). 청구 및 프로비저닝 같은 최소한의 인프라 기능을 알아보는 것이 좋습니다. 
+
+새 요구 사항을 충족하지 않는 CSP 프로그램의 직접 청구 파트너는 Microsoft 파트너 네트워크 내의 프로그램에 간접 재판매인으로 다시 등록해야 합니다. 직접 청구 파트너에서 간접 재판매인으로 전환하는 방법에 대해 [자세히 알아보세요](../transition-direct-to-indirect.md).  
+
+### <a name="next-steps"></a>다음 단계
+
+- [업데이트된 직접 청구 파트너 요구 사항](../direct-partner-new-requirements.md#minimum-requirements)을 살펴보세요.
+- [Microsoft 파트너 웹 사이트의 작업 리소스 갤러리](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)에서 FAQ 및 기타 정보를 살펴보세요.
+- 간접 재판매인 옵션이 비즈니스 요구 사항에 더 적합한 경우 [협업할 간접 공급자](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)를 찾습니다.
+________________________________
+
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Business Voice 제품 업데이트
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-16
+- 제품/시장
+ 
+### <a name="summary"></a>요약
+
+11월 가격표 미리 보기의 제품 ID가 잘못되었습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>설명
+
+11월에 곧 제공될 [비영리 조직용 Microsoft 365 Business Voice](#10) 및 [Microsoft 365 Business Voice](#9)라는 새 제품에 대해 최근 공지를 드린 적이 있습니다.
+
+
+이러한 공지에서 몇 가지 제품 ID가 수정되었습니다. 이처럼 수정된 제품 ID는 다음주에 11월 가격표 업데이트에 게시될 예정입니다.
+
+#### <a name="correct-offer-ids"></a>올바른 제품 ID
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 Business Voice 도입 프로모션(미국에만 해당)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Business Voice(비영리 조직의 직원 가격 책정)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+
+#### <a name="incorrect-offer-ids"></a>잘못된 제품 ID
+
+다음 11월 가격표 미리 보기 제품 ID 정보는 무시해야 합니다. 
+
+   |**제품 이름**|**제품 ID**|
+   |-------------------|:------|
+   |Microsoft 365 Business Voice 도입 프로모션(미국에만 해당)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 Business Voice(비영리 조직의 직원 가격 책정)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+
+### <a name="next-steps"></a>다음 단계
+
+- 미리 보기 가격 목록을 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
+- CSP 프로그램 업데이트 리소스 갤러리 [중소기업용 Microsoft 365 Business Voice 소개](https://partner.microsoft.com/resources/collection/m365-voice-smb)에서 모든 준비 자료를 살펴보세요.
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020년 11월 업데이트: 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드
@@ -124,7 +232,7 @@ Microsoft는 파트너를 위해 두 가지 CSP 프로모션을 새로 시작하
 #### <a name="additional-resources"></a>추가 리소스
 
 - Business Voice에 대한 자세한 내용은 [Microsoft 365 Business Voice 파트너 페이지](https://www.microsoft.com/microsoft-365/partners/businessvoice)를 방문하세요. 
-- [오디오 회의 기능](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365) 에 대한 자세한 내용은 Microsoft 365에서 오디오 회의를 참조하세요.
+- [오디오 회의 기능](/microsoftteams/audio-conferencing-in-office-365) 에 대한 자세한 내용은 Microsoft 365에서 오디오 회의를 참조하세요.
 - 관련 [파트너 FAQ](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)에서 이 프로모션에 대해 자세히 알아보세요.
 
 ### <a name="next-steps"></a>다음 단계
@@ -160,12 +268,12 @@ Azure Portal에서 Azure 앱의 UX를 간소화했습니다.
 
 이 이메일은 Azure Marketplace에 Azure 애플리케이션(솔루션 템플릿 및 관리되는 앱)을 게시했거나 게시하도록 등록했기 때문에 전송되었습니다.
 
-고객이 Azure 애플리케이션을 사용하고 관리하는 방식을 개선하기 위해 [Azure Portal](https://ms.portal.azure.com/)을 일부 변경했습니다. 고객 문서 및 참조 자료가 새로운 환경을 반영하는지 확인하기 위해 **검토 및 업데이트**합니다.
+고객이 Azure 애플리케이션을 사용하고 관리하는 방식을 개선하기 위해 [Azure Portal](https://ms.portal.azure.com/)을 일부 변경했습니다. 고객 문서 및 참조 자료가 새로운 환경을 반영하는지 확인하기 위해 **검토 및 업데이트** 합니다.
 Azure Portal의 새로운 기능은 다음과 같습니다.
 
 - 이전 섹션을 완료할 필요 없이 임의 섹션의 정보를 보고 편집하고 저장할 수 있는 유연한 탐색 기능.
 - 다중 중첩 수준이 없는 새로운 전체 페이지 보기.
-- Azure 리소스에 태그를 지정하고 구성하는 새로운 기능. 태그 지정에 대한 자세한 내용은 [태그를 사용하여 Azure 리소스 구성](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)을 참조하세요.
+- Azure 리소스에 태그를 지정하고 구성하는 새로운 기능. 태그 지정에 대한 자세한 내용은 [태그를 사용하여 Azure 리소스 구성](/azure/azure-resource-manager/management/tag-resources)을 참조하세요.
 
 이러한 변경 내용에 대한 질문이 있으면 [지원 팀](https://aka.ms/marketplacepublishersupport)에 문의하세요.
 
@@ -382,7 +490,7 @@ Microsoft는 2020년 11월 1일에 CSP 프로그램에 대해 새롭고 업데�
 
 - 제품 ID 세부 정보는 [Dynamics CSP 제품 - 2020년 11월](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel 문서의 Project Operations 탭을 검토합니다.
 - 자세한 내용은 [Microsoft Dynamics 365 고객의 소리 홈 페이지](https://dynamics.microsoft.com/customer-voice/overview/)에서 정보를 확인합니다.
-- 9월 [새 Dynamics 제품 공지](https://docs.microsoft.com/partner-center/announcements/2020-september#3)를 확인합니다.
+- 9월 [새 Dynamics 제품 공지](2020-september.md#3)를 확인합니다.
 
 ________________
 
@@ -448,7 +556,7 @@ Microsoft Graph 커넥터를 사용하면 고객이 외부 리포지토리의 �
 
 - Microsoft 365 E5 및 Office 365 E5에는 Microsoft Search용 Microsoft Graph 커넥터(A5에는 포함되지 않음)를 사용하여 최대 500개의 항목을 인덱싱할 수 있는 기능이 포함됩니다.  
 - SharePoint 또는 OneDrive 플랜이 포함된 제품군 또는 독립 실행형 라이선스가 있는 사용자는 Microsoft Search용 Microsoft Graph 커넥터에서 검색 결과를 볼 수 있습니다. 
-- 새 **Graph 추가 커넥터 용량 SKU**를 사용하여 최대 100만 개의 추가 항목을 인덱싱할 수 있습니다.
+- 새 **Graph 추가 커넥터 용량 SKU** 를 사용하여 최대 100만 개의 추가 항목을 인덱싱할 수 있습니다.
 
 #### <a name="offer-details"></a>솔루션 세부 정보
 
@@ -496,5 +604,5 @@ FY20 CSP 인센티브 프로그램 기간은 2020년 9월 30일에 종료되었�
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
-인센티브 관련 질문에 대한 추천 단계 및 자가 진단 문서는 파트너 센터의 검색 창에서 **인센티브**를 검색하여 사용할 수 있습니다. 
+인센티브 관련 질문에 대한 추천 단계 및 자가 진단 문서는 파트너 센터의 검색 창에서 **인센티브** 를 검색하여 사용할 수 있습니다. 
 ________________

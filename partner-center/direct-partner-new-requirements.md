@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366857"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795778"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 직접 청구 파트너로 등록하기 위한 요구 사항
 
@@ -32,9 +32,10 @@ ms.locfileid: "89366857"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |비즈니스 위치에 대한 활성 MPN(Microsoft 파트너 네트워크) ID입니다.    |
 |**인증**   |조직 대신 법적 계약서를 수락하고 서명할 수 있는 권한입니다.|
+|**수익**|직접 청구 파트너로 등록되어 있는 파트너는 2021년 1월부터 이전 12개월 동안 파트너 글로벌 계정 수준에서 획득한 클라우드 솔루션 공급자 프로그램 수익이 USD$300K 이상이어야 합니다.| 
 |**지원**   |고객을 위한 첫 번째 수준의 클라우드 제품 지원을 제공할 수 있는 능력입니다. <br/>Microsoft 지원 플랜이며, 요구 사항에 따라 파트너에 대한 고급 지원(ASfP) 또는 파트너에 대한 프리미어 지원(PSfP)입니다. [지원 플랜을 비교](https://partner.microsoft.com/support/partnersupport)해 보세요.<br/> 중요: 지원 플랜을 구입하려면 먼저 신용 평가를 통과해야 합니다. 신용 평가를 통과하면 이메일을 보내 드립니다. |
 |**관리형 서비스**   |하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 애플리케이션입니다. [관리 서비스](https://partner.microsoft.com/business-opportunities/managed-services-provider)를 추가하는 방법에 대해 자세히 알아보세요.|
-|**수취 계정** |고객 청구와 프로비전을 관리하기 위한 조직 인프라입니다.
+|**수취 계정** |고객 청구와 프로비전을 관리하기 위한 조직 인프라입니다.|
 
 ### <a name="verify-direct-bill-eligibility"></a>직접 청구 자격 확인
 

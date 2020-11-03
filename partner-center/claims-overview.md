@@ -1,7 +1,7 @@
 ---
 title: 공동 op 및 클레임에 대 한 성과급 개요
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 적절 한 설명서, 송장, 문 및 실행 증명을 구성 하 여 원활한 공동 op 클레임을 전송 하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848223"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133085"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>공동 마케팅 자금 획득
 
@@ -34,13 +34,16 @@ ms.locfileid: "90848223"
 [공동 Op 자금 리소스](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) 페이지에서 자세히 알아볼 수 있습니다.
 
 >[!Important]
->공동 작업 클레임은 OSA (Online Services Advise) 판매, OSU (Online Services Usage) Microsoft 365 및 OSU 비즈니스 응용 프로그램에 게는 프로그램에 적용 되지 않습니다. 이러한 프로그램 중 하나에 대 한 클레임을 제출 하려면 [CPOR 모델을 사용 하 여 고객 Associearation 만들기](submit-osa-claim.md)를 참조 하세요.
+>공동 작업 클레임은 OSA (Online Services Advise) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU-Business 응용 프로그램 동기 프로그램에는 적용 되지 않습니다. 이러한 프로그램 중 하나에 대 한 클레임을 제출 하려면 [CPOR 모델을 사용 하 여 고객 Associearation 만들기](submit-osa-claim.md)를 참조 하세요.
 
 ## <a name="how-co-op-funds-are-calculated"></a>공동 op 자금을 계산 하는 방법
 
 Microsoft는 분할 비율을 사용 하 여 적격 동기 수익을 계산 합니다 (예: 60% 환불-40% 공동 op). 개별 프로그램의 기존 종 량 제 주기를 사용 하 여 리베이트 부분을 받게 되며, Microsoft는 동기 소득의 공동 op 부분을 계산 합니다.
 
 성과급 프로그램 가이드에서 종 량 제 및 분할 백분율에 대해 자세히 알아볼 수 있습니다. [이 절차](incentives-determined-your-program-eligibility.md) 를 사용 하 여 프로그램 가이드에 액세스 합니다.
+
+>[!NOTE]
+>공동 op 소득이 공동 op 획득 기간의 임계값 보다 낮은 경우 공동 op 소득은 반기 끝에서 리베이트로 변환 됩니다. 자세한 내용 또는 임계값 크기를 확인 하려면 동기 프로그램 가이드를 참조 하세요.
 
 ## <a name="when-to-claim-your-funds"></a>자금 청구 시기
 
@@ -49,7 +52,7 @@ Microsoft는 분할 비율을 사용 하 여 적격 동기 수익을 계산 합�
 - H1은 회계 연도의 첫 번째 반기 (12 월 1 일-12 월 1 일)입니다.
 - H2는 회계 연도의 2 월 1 일-6 월 30 일입니다.
 
-수익을 계산 하는 6 개월 동안의 요금은 획득 **기간이**됩니다. 다음 6 개월 동안의 **사용 기간**중 특정 시점에 이러한 소득을 사용 해야 합니다. 사용 기간이 끝나면 수익을 사용 하지 않는 경우 상실 됩니다. 청구 **기간은** 보상 프로그램 활동에 대 한를 요구할 수 있는 6 개월 기간입니다.
+수익을 계산 하는 6 개월 동안의 요금은 획득 **기간이** 됩니다. 다음 6 개월 동안의 **사용 기간** 중 특정 시점에 이러한 소득을 사용 해야 합니다. 사용 기간이 끝나면 수익을 사용 하지 않는 경우 상실 됩니다. 청구 **기간은** 보상 프로그램 활동에 대 한를 요구할 수 있는 6 개월 기간입니다.
 
 아래 표에서는 다양 한 획득, 사용 및 요청 기간을 보여 줍니다. 별도로 언급 하지 않는 한 기간은 첫 달의 첫 번째 날부터 지난 달의 마지막 날까지 연장 됩니다.
 
@@ -65,11 +68,11 @@ Microsoft는 분할 비율을 사용 하 여 적격 동기 수익을 계산 합�
 
 다음 리소스는 공동 작업 클레임을 사용 하 여 작업을 시작 하는 데 도움이 됩니다.
 
-| 원하는 작업 | 참조 문서 |
+| 수행할 작업 | 참조 문서 |
 | ------ | ----------- |
 | 클레임 제출 |  [성과급 프로그램 공동 op 클레임 만들기 및 관리](create-incentives-claims.md)  |
 | 제출 된 클레임 관리 | [성과급 프로그램 공동 op 클레임 만들기 및 관리](create-incentives-claims.md)    |
-| 활동 클레임에 대 한 핵심 요구 사항 이해 | [동기 프로그램의 활동에 대 한 핵심 요구 사항](core-requirements.md)   |
+| 활동 클레임에 대 한 핵심 요구 사항 이해 | [인센티브 프로그램의 활동에 대한 핵심 요구 사항](core-requirements.md)   |
 | 성과급 프로그램 세부 정보 검토 | [파트너 성과급 공동 op 가이드 책](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | 고객 연결을 만들고 클레임 제출 | [CPOR 모델을 사용하여 고객 연결 만들기](submit-osa-claim.md)   |
 

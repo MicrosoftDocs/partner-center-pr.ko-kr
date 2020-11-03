@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663874"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133153"
 ---
 # <a name="manage-incentives-co-op-claims"></a>성과급 공동 op 클레임 관리
 
@@ -65,15 +65,13 @@ ms.locfileid: "91663874"
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. **성과급**아래에서 **계획 관리**를 선택 합니다.
+2. **성과급** 아래에서 **공동 op 관리** 를 선택 합니다.
 
-3. **공동 op 관리**를 선택 합니다.
+3. 이의 제기할 공동 클레임을 선택합니다. 공동 op 클레임 페이지가 열립니다.
 
-4. 이의 제기할 공동 클레임을 선택합니다. 공동 op 클레임 페이지가 열립니다.
+4. 페이지 맨 아래에서 **이의 제기** 를 선택합니다.
 
-5. 페이지 맨 아래에서 **이의 제기**를 선택합니다.
-
-공동 클레임 유효성 검사 팀은 영업일 기준 5일 이내에 클레임을 검토합니다. 이 시간 동안 상태가 **이의 제기됨**으로 표시됩니다. 사용자에게 연락하여 추가 정보를 요청할 수 있습니다. 검토가 완료되면 유효성 검사 팀에서 상태를 **승인됨**, **거부됨** 또는 **파트너 작업이 필요함** 중 하나로 업데이트합니다.
+공동 클레임 유효성 검사 팀은 영업일 기준 5일 이내에 클레임을 검토합니다. 이 시간 동안 상태가 **이의 제기됨** 으로 표시됩니다. 사용자에게 연락하여 추가 정보를 요청할 수 있습니다. 검토가 완료되면 유효성 검사 팀에서 상태를 **승인됨** , **거부됨** 또는 **파트너 작업이 필요함** 중 하나로 업데이트합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

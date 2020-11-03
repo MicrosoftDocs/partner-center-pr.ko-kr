@@ -1,7 +1,7 @@
 ---
 title: 파트너 보안 요구 사항
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MFA(Multi-factor Authentication)를 활성화하고 보안 애플리케이션 모델 프레임워크를 도입하기 위한 파트너 요구 사항을 소개합니다.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763351"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680391"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>파트너 센터 또는 파트너 센터 API를 사용하는 파트너에 대한 파트너 보안 요구 사항
 
@@ -41,9 +41,9 @@ ms.locfileid: "91763351"
 
 사용자와 사용자의 고객을 보호하기 위해 파트너에게 즉시 다음과 같은 조치를 취하도록 하고 있습니다.  
 
-1. **파트너 테넌트의 모든 사용자에 대해 MFA(Multi-Factor Authentication)를 사용**합니다. 파트너 테넌트의 모든 사용자 계정은 Microsoft 상용 클라우드 서비스에 로그인하거나 파트너 센터 또는 API를 통해 클라우드 솔루션 공급자 프로그램에서 거래할 때 MFA(다단계 인증)를 거쳐야 합니다.
+1. **파트너 테넌트의 모든 사용자에 대해 MFA(Multi-Factor Authentication)를 사용** 합니다. 파트너 테넌트의 모든 사용자 계정은 Microsoft 상용 클라우드 서비스에 로그인하거나 파트너 센터 또는 API를 통해 클라우드 솔루션 공급자 프로그램에서 거래할 때 MFA(다단계 인증)를 거쳐야 합니다.
 
-2. **보안 애플리케이션 모델 프레임워크를 채택**합니다. 보안 애플리케이션 모델 프레임워크를 채택합니다. 파트너 센터 API와 통합된 모든 파트너는 모든 앱 + 사용자 인증 모델 애플리케이션에 대해 보안 애플리케이션 모델 프레임워크를 채택해야 합니다.
+2. **보안 애플리케이션 모델 프레임워크를 채택** 합니다. 보안 애플리케이션 모델 프레임워크를 채택합니다. 파트너 센터 API와 통합된 모든 파트너는 모든 앱 + 사용자 인증 모델 애플리케이션에 대해 보안 애플리케이션 모델 프레임워크를 채택해야 합니다.
 
     > [!IMPORTANT]
     > 파트너는 MFA 사용 시 중단되지 않도록 Azure Resource Manager, Microsoft Graph와 같은 Microsoft API와 통합하거나 사용자 자격 증명을 사용하여 PowerShell과 같은 자동화를 활용하기 위해 보안 애플리케이션 모델을 구현하는 것이 좋습니다.
@@ -58,7 +58,7 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 - 각 사용자 계정에 대해 Azure Active Directory Premium을 구입합니다. 자세한 내용은 [클라우드 기반 Azure Multi-Factor Authentication 배포 계획](/azure/active-directory/authentication/howto-mfa-getstarted)을 참조하세요.
 
-- 타사 솔루션을 사용하여 파트너 테넌트의 각 사용자 계정에 다단계 인증 적용 솔루션이 예상 정보를 제공하도록 보장하려면 [보안 요구 사항이 적용되는 방식](#how-the-requirements-will-be-enforced)을 참조하세요.
+- 타사 솔루션을 사용하여 파트너 테넌트의 각 사용자 계정에 다단계 인증 적용 솔루션이 예상 정보를 제공하도록 보장하려면 [보안 요구 사항이 적용되는 방식](#how-the-requirements-are-enforced)을 참조하세요.
 
 > [!NOTE]
 > 소버린 클라우드(21Vianet, 미국 정부 및 독일)에 대해 계약 상 다단계 인증이 필요하지 않더라도 이러한 보안 요구 사항을 채택하는 것이 좋습니다.
@@ -92,7 +92,7 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 이러한 요구 사항은 파트너 테넌트의 모든 사용자 계정에 적용되므로, Azure Active Directory에서 다단계 인증을 수행할 수 없는 사용자 계정의 확인뿐만 아니라 조직이 최신 인증을 지원하지 않는 애플리케이션 및 디바이스를 사용하는 경우 등 원활한 배포를 위해 몇 가지 사항을 고려해야 합니다.
 
-작업을 수행하기 전에 다음을 확인하는 것이 좋습니다.
+작업을 수행하기 전에 다음과 같은 유효성 검사를 완료하는 것이 좋습니다. 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>최신 인증 사용을 지원하지 않는 애플리케이션 또는 디바이스가 있나요?
 
@@ -100,7 +100,7 @@ MFA(Multi-Factor Authentication)를 사용하고 보안 애플리케이션 모�
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>파트너 테넌트와 연결된 라이선스에서 제공하는 Office 365를 사용하는 사용자가 있나요?
 
-솔루션을 구현하기 전에 파트너 테넌트의 사용자가 어떤 Microsoft Office 버전을 사용하는지 확인하는 것이 좋습니다. 사용자가 Outlook과 같은 애플리케이션의 연결 문제를 경험하게 될 가능성이 있습니다. 다단계 인증을 적용하기 전에 Outlook 2013 SP1 이상을 사용 중이고, 조직에서 최신 인증을 사용하는지 확인해야 합니다. 자세한 내용은 [Exchange Online에서 최신 인증 사용](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조하세요.
+솔루션을 구현하기 전에 파트너 테넌트의 사용자가 어떤 Microsoft Office 버전을 사용하는지 확인하는 것이 좋습니다. 사용자가 Outlook과 같은 애플리케이션의 연결 문제를 경험하게 될 가능성이 있습니다. 다단계 인증을 적용하기 전에 Outlook 2013 SP1 이상을 사용 중이고, 조직에서 최신 인증을 사용하는지 확인해야 합니다. 자세한 내용은 [Exchange Online에서 최신 인증 사용](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)을 참조하세요. 
 
 Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스에서 최신 인증을 사용하도록 설정하려면 레지스트리 키를 두 개 만들어야 합니다. [Windows 디바이스에서 Office 2013에 최신 인증 사용](/office365/admin/security-and-compliance/enable-modern-authentication)을 참조하세요.
 
@@ -128,13 +128,15 @@ Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스�
 
 ## <a name="accessing-your-environment"></a>환경 액세스
 
-다단계 인증을 수행하지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 활용할 수 있습니다. 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 보고서를 가져오는 방법을 찾고 있으면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 활용해야 합니다.
+다단계 인증을 수행하지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 활용할 수 있습니다. 이 주제에 대한 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 로그인 활동을 가져오는 방법을 찾고 있다면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 활용해야 합니다.
 
-## <a name="how-the-requirements-will-be-enforced"></a>요구 사항이 적용되는 방식
+## <a name="how-the-requirements-are-enforced"></a>요구 사항이 적용되는 방식
 
-파트너 보안 요구 사항은 Azure Active Directory를 통해 적용된 후 파트너 센터에서 적용되며, MFA 클레임이 있는지 확인하여 다단계 인증 확인이 발생했는지 파악하는 방식으로 적용됩니다. 2019년 11월 18일부터 Microsoft는 파트너 테넌트에 대한 추가 보안 보호 기능(이전의 "기술 적용")을 활성화합니다. 
+파트너 보안 요구 사항은 Azure Active Directory를 통해 적용된 후 파트너 센터에서 적용되며, MFA 클레임이 있는지 확인하여 다단계 인증 확인이 발생했는지 파악하는 방식으로 적용됩니다. 2019년 11월 18일부터 Microsoft는 파트너 테넌트에 대한 추가 보안 보호 기능(이전의 "기술 적용")을 활성화했습니다.
 
-활성화하면, 파트너 테넌트의 사용자에게 AOBO(관리자 위임) 작업을 수행할 때 MFA(다단계 인증) 확인을 완료하라는 메시지가 표시됩니다. Microsoft는 추가 시나리오 및 사용자 역할에 대한 보안 보호 범위를 계속 확장하여 파트너에게 사전에 통지합니다. 자세한 내용은 자주 업데이트되는 이 문서를 참조하세요. 요구 사항을 충족하지 못한 파트너는 비즈니스가 중단되지 않도록 가능한 한 빨리 이러한 조치를 구현해야 합니다. 
+이 기능을 활성화하면, 파트너 테넌트의 사용자에게 AOBO(관리자 위임) 작업을 수행하거나, 파트너 센터 포털에 액세스하거나, 파트너 센터 API를 호출할 때 MFA(다단계 인증) 확인을 완료하라는 메시지가 표시됩니다. 자세한 내용은 [파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임](partner-security-requirements-mandating-mfa.md)을 참조하세요. 
+
+요구 사항을 충족하지 못한 파트너는 비즈니스가 중단되지 않도록 가능한 한 빨리 이러한 조치를 구현해야 합니다. 
 
 Azure Multi-Factor Authentication 또는 Azure AD 보안 기본값을 사용하는 경우 수행해야 하는 추가 작업이 없습니다.
 

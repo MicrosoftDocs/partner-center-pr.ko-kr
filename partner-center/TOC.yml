@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: 교육 분야 고객에게 판매
           href: sell-to-education-customers.md
+        - name: Windows 10 Home을 Education으로 업그레이드
+          href: upgrade-windows-to-education.md
         - name: 채택률 및 만족도 높이기
           href: increasing-adoption-and-satisfaction.md
         - name: Windows Autopilot으로 디바이스 설정 간소화

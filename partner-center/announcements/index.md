@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352869"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917215"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "92352869"
 
 | **범주** | **2020년 10월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[새로 단장한 CSP(클라우드 솔루션 공급자) 디지털 환경 지금 이용 가능](2020-october.md#15)|10월 28일|
+|기능|[CSP(클라우드 솔루션 공급자) 프로그램에서 직접 청구 파트너 요구 사항에 대한 성능 표준 소개](2020-october.md#13)|10월 27일|
+|제품/시장|[2020년 10월 CSP(클라우드 솔루션 공급자) 소프트웨어 구독 가격표 업데이트](2020-october.md#14)|10월 26일|
 |제품/시장|[Microsoft 365 Business Voice 제품 업데이트](2020-october.md#12)|10월 16일|
 |기능|[2020년 11월 업데이트: 온라인 서비스 및 소프트웨어 채널 권한 부여 가이드](2020-october.md#11)|10월 14일|
 |제품/시장|[비영리 조직용 Microsoft 365 Business Voice 소개](2020-october.md#10)|10월 12일|
@@ -44,7 +47,7 @@ ms.locfileid: "92352869"
 |기능|[.NET Standard v1.16.2의 SDK 릴리스](2020-september.md#11)|9월 22일|
 |기능|[파트너 센터 인사이트 – Microsoft의 비즈니스를 이해하기 위한 단일 보고 리소스입니다.](2020-september.md#10)|9월 23일|
 |제품/시장|[Azure SQL Edge의 일반 공급 발표](2020-september.md#9)|9월 22일|
-|기능|[2020년 9월 30일에 CSP O365 사용 API 및 CSP 라이선스 사용 보고서에 대한 예정된 변경 사항.](2020-september.md#8)|9월 17일|
+|기능|[2020년 9월 30일에 CSP O365 사용 API 및 CSP 라이선스 사용 보고서에 대한 예정된 변경 사항](2020-september.md#8)|9월 17일|
 |기능|[간접 재판매인 MPA 업데이트. MPA API 사용자에게 필요한 조치 및 새로운 MPA 보고 기능](2020-september.md#7)|9월 16일|
 |제품/시장|[Microsoft Project 및 Microsoft Visio용 셀프 서비스 지금 이용 가능](2020-september.md#6)|9월 15일|
 |제품/시장|[새로운 SKU는 Project Cortex 등의 기능을 고객에게 제공합니다.](2020-september.md#5)|9월 8일|

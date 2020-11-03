@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795834"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189750"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
@@ -98,18 +98,28 @@ ms.locfileid: "92795834"
   
     b. Azure AD 테 넌 트 = @contoso.com
  
-    다. 2020 년 10 월 1 일에 만료 되는 골드 역량
+    c. 2020 년 10 월 1 일에 만료 되는 골드 역량
 2. Fabricam.com에
  
     a.  3333333의 글로벌 MPN ID와 4444444 및 5555555의 두 하위 위치 MPN Id
 
-    b.  AAD 테 넌 트 = @fabricam.com
+    b.  Azure AD 테 넌 트 = @fabricam.com
 
-    다.  12 월 1 일에 만료 되는 두 가지 골드 역량 2020
-3.  Contoso는 Fabricam.com를 구입 하 여 병합 [요청을 시작 합니다.](https://partner.microsoft.com/dashboard/account/merger)
+    c.  2020 년 12 월 1 일에 만료 되는 두 가지 골드 역량
+3.  Contoso는 Fabricam.com를 구입 [하 여 병합 요청을 시작](https://partner.microsoft.com/dashboard/account/merger) 합니다.
 4.  Fabricam.com은 파트너 센터에 로그인 하 고 contoso가 #3 단계에서 수행한 것과 동일한 페이지로 이동 하 여 Contoso의 요청을 승인 합니다.
 5.  Contoso는 동일한 페이지에 대 한 병합 세부 정보를 검토 하 고 계정 병합을 계속 하기 위한 확인을 제공 합니다.
+6.  병합기 후에 회사 계정은 다음과 같이 표시 됩니다.
+
+    a.  전역 MPN ID가 1111111이 고 MPN가 2222222, 3333333, 4444444 및 5555555 인 4 개의 하위 위치를 포함 하는 Contoso 라는 회사
     
+    b.  @contoso.com @fabricam.com 동일한 파트너 센터 계정에 액세스할 수 있는 두 개의 Azure AD 테 넌 트 (+)가 있습니다.
+    
+    c.  2020 년 10 월 1 일에 만료 되는 두 가지 역량 이점 패키지와 2020 년 12 월 1 일 만료 되는 다른 패키지를 갖게 됩니다. 2020 년 12 월 1 일에는 단일 역량 혜택 패키지로 갱신할 수 있습니다. 이를 갱신할 때 Contoso는 단일 혜택 패키지만 유지 관리할 수 있는 경우에도 세 가지 역량을 모두 보유 합니다.
+    
+7.  Contoso의 관리자는의 사용자에 대 한 파트너 센터 역할을 계속 관리 합니다 @contoso.com . Fabricam.com의 관리자는의 사용자에 대 한 파트너 센터 역할을 계속 관리 합니다 @fabricam.com . Contoso의 관리자는 Fabricam.com의 테 넌 트에 게스트로 초대 된 경우에만 Fabricam.com의 사용자를 관리할 수 있습니다.
+8.  Contoso는 @fabricam.com 테 넌 트를 무시 하 고 @contoso.com 새 역할 및 권한으로 fabricam.com employees 새 자격 증명을 다시 발급 하도록 결정할 수 있습니다.
+
 ## <a name="next-steps"></a>다음 단계
 
 - [사용자 역할 및 권한 할당](permissions-overview.md)
