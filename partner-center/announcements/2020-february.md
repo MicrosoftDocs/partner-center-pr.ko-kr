@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031786"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132847"
 ---
 # <a name="february-2020-announcements"></a>2020년 2월 공지
 
@@ -169,13 +169,13 @@ _________________
 
 ### <a name="summary"></a>요약:
 
-[필수 파트너 보안 요구 사항](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)에 관한 중요 업데이트입니다. **2020년 2월 29일**, Azure AD(Azure Active Directory) ["기준" 정책이 제거되며](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) 여러분과 여러분의 고객을 위한 더 포괄적인 보호 정책인 "보안 기본값"으로 대체됩니다. Azure AD의 보안 기본값은 일반적인 공격에 대해 미리 구성된 보안 설정으로 조직을 보호하는 데 도움이 될 수 있습니다.
+[필수 파트너 보안 요구 사항](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)에 관한 중요 업데이트입니다. **2020년 2월 29일** , Azure AD(Azure Active Directory) ["기준" 정책이 제거되며](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) 여러분과 여러분의 고객을 위한 더 포괄적인 보호 정책인 "보안 기본값"으로 대체됩니다. Azure AD의 보안 기본값은 일반적인 공격에 대해 미리 구성된 보안 설정으로 조직을 보호하는 데 도움이 될 수 있습니다.
 
 Microsoft 시스템에 의하면, 귀사에서는 현재 기준 정책을 사용하지만, 아직 보안 기본값으로 전환하지 않은 것으로 나타납니다. **2월 29일 전에 보안 기본값으로 전환하지 않으면 파트너 테넌트에서 기준 정책이 사용하도록 설정된 MFA(다단계 인증)를 사용할 수 없게 됩니다. 비즈니스 중단을 방지하려면 가능한 한 빨리 보안 기본값을 사용하도록 설정하세요**.
 
 ### <a name="key-considerations"></a>주요 고려 사항
 
-보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](../partner-security-requirements.md#actions-that-you-need-to-take) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 아래에서 [Azure AD를 사용하여 조직에 대해 MFA를 사용하도록 설정하는 방법](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)과 주요 고려 사항을 검토하세요.
+보안 기본값 정책은 파트너가 비즈니스 요구 사항에 따라 보안에 필요한 MFA를 구현할 때 선택할 수 있는 [옵션](../partner-security-requirements.md#implementing-multi-factor-authentication) 중 하나입니다. 이는 추가 비용 없이 사용 가능한 기본 보안 수준을 제공합니다. 아래에서 [Azure AD를 사용하여 조직에 대해 MFA를 사용하도록 설정하는 방법](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)과 주요 고려 사항을 검토하세요.
 
 - [조건부 액세스](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)를 사용 중인 파트너는 보안 기본값을 사용할 수 없습니다.
 - 보안 기본값은 관리자 정책, 최종 사용자 보호 정책 및 서비스 관리에 필요한 MFA를 포함하여 모든 정책을 한 번에 적용합니다.
@@ -270,7 +270,7 @@ Azure 플랜 소비 미터 및 예약을 거래하고 재판매하며 Microsoft 
 
 [CSP의 Azure에 대한 새로운 상거래 환경](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/)을 통해 더 많은 고객을 확보하고 간소화된 구입 및 판매 환경을 통해 수익성을 높일 수 있습니다.
 
- 새로운 환경의 일부로, **소비 및 예약에 대한 Azure 플랜 가격 책정** 및 Microsoft에서 지원하는 청구 통화에 대한 **환율 지수**를 프로그래밍 방식으로 검색하는 [새 가격 책정 API](/partner/develop/pricing)를 사용할 수 있게 되었음을 발표하게 되어 기쁘게 생각합니다. 파트너는 새 가격 책정 API를 사용하여 가격 책정 정보를 검색하는 프로세스를 자동화하고 간소화할 수 있습니다.
+ 새로운 환경의 일부로, **소비 및 예약에 대한 Azure 플랜 가격 책정** 및 Microsoft에서 지원하는 청구 통화에 대한 **환율 지수** 를 프로그래밍 방식으로 검색하는 [새 가격 책정 API](/partner/develop/pricing)를 사용할 수 있게 되었음을 발표하게 되어 기쁘게 생각합니다. 파트너는 새 가격 책정 API를 사용하여 가격 책정 정보를 검색하는 프로세스를 자동화하고 간소화할 수 있습니다.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>새 가격 책정 API가 제공하는 기능:
 

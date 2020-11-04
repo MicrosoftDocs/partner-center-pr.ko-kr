@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031846"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132997"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -192,7 +192,7 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 파트너십과 헌신을 통해 Microsoft 에코시스템이 신뢰를 바탕으로 운영되는 데 도움을 주셔서 감사합니다.
 
 >[!NOTE] 
->기준 정책을 사용 중이며 보안 기본값 정책이나 [다른 MFA 구현 옵션](..\partner-security-requirements.md#actions-that-you-need-to-take)으로 전환하지 않은 경우 [여기에 있는 주요 리소스](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)를 참조하여 최대한 빨리 전환하세요.
+>기준 정책을 사용 중이며 보안 기본값 정책이나 [다른 MFA 구현 옵션](..\partner-security-requirements.md#implementing-multi-factor-authentication)으로 전환하지 않은 경우 [여기에 있는 주요 리소스](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)를 참조하여 최대한 빨리 전환하세요.
 
 ### <a name="change-log"></a>로그 변경
 
@@ -546,7 +546,7 @@ Microsoft는 2020년 4월 1일에 Dynamics Business Central Online, Dynamics 비
 Microsoft는 2020년 5월 1일에 새 RPA 제품의 가용성을 교육 프로그램으로 확장합니다.
 CSP의 승인된 교육 파트너 프로그램 변경 사항에 대해 자세히 알아보려면 [여기](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)를 클릭하세요. 이는 파트너 센터의 기존 컬렉션 링크입니다).
 
-새 SKU 정보의 관련 다운로드 섹션에서 첨부된 **Dynamics CSP Offer Updates-May 2020 파일**([여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/))을 검토하세요.
+새 SKU 정보의 관련 다운로드 섹션에서 첨부된 **Dynamics CSP Offer Updates-May 2020 파일** ( [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/))을 검토하세요.
 
 ### <a name="ecommerce-changes"></a>전자상거래 변경 사항
 
@@ -621,7 +621,7 @@ partner.microsoft.com의 작업 준비 리소스 사이트는 기존의 CSP 프�
 준비하려면 어떻게 해야 하나요?
 
 - 갤러리 컬렉션 [출시 예정 - 한곳에서 제공되는 Operations Readiness 리소스](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)에서 업데이트된 준비 자료를 검토하여 Operations Readiness 리소스의 새로운 Microsoft 파트너 웹 사이트 위치에 대해 **자세히 알아보세요**.
-- **4월 파트너 커뮤니티 콜에 참석**하세요. 여기서는 새로운 환경에 대해 자세히 알아보고 질문할 수 있습니다([https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)).
+- **4월 파트너 커뮤니티 콜에 참석** 하세요. 여기서는 새로운 환경에 대해 자세히 알아보고 질문할 수 있습니다( [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)).
 
 ### <a name="questions"></a>질문이 있으세요?
 

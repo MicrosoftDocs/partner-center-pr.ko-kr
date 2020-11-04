@@ -1,7 +1,7 @@
 ---
 title: 사용자에게 역할 및 사용 권한 할당
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 상업 거래, 조회, 인센티브 또는 MPN 멤버십을 관리하는 회사 사용자에게 가장 적합한 역할에 대해 알아보세요.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006804"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133034"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
@@ -97,8 +97,6 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 |**게스트 사용자**   | **역할**|
 |---------------------------|:--------------------|
 ||MPN 파트너 관리자|
-||계정 관리자|
-||인센티브 관리자|
 ||비즈니스 프로필 관리자|
 ||조회 관리자|
 
