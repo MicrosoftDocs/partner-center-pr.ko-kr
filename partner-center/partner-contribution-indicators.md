@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dynamics 365 고객 Engagement 또는 Dynamics 365 재무 및 작업으로 작업 하는 방법을 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아보세요.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175023"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344394"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>PCI (파트너 기여 지표)는 고객 성공을 위한 7 가지 주요 측정값에 파트너의 영향을 보여 줍니다.
 
@@ -42,23 +42,23 @@ PCI는 파트너의 기술 기능, 고객 성공 여부를 확인 하는 기능 
 
 *성능 표시기:*
 
-1. **Net new 수익**: Microsoft Dynamics 365 제품에 대 한 모든 판매 채널에 대 한 순 새로운 수익입니다. (이 메트릭에 대 한 자세한 내용은 [net new 수익에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)를 참조 하세요.)
+1. **Net new 수익** : Microsoft Dynamics 365 제품에 대 한 모든 판매 채널에 대 한 순 새로운 수익입니다. (이 메트릭에 대 한 자세한 내용은 [net new 수익에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)를 참조 하세요.)
 
-2. **Net customer**: 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net 고객을 추가 합니다. (이 메트릭에 대 한 자세한 내용은 [net customer 추가 정의](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)를 참조 하세요.)
+2. **Net customer** : 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net 고객을 추가 합니다. (이 메트릭에 대 한 자세한 내용은 [net customer 추가 정의](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)를 참조 하세요.)
 
 *기능 표시기:*
 
-3. **기능 컨설턴트**: 현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트를 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)를 참조 하세요.
+3. **기능 컨설턴트** : 현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트를 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)를 참조 하세요.
 
-4. **함수형 컨설턴트 증가**: 기능 컨설턴트의 수 증가  PCI의 기능 컨설턴트 증가 메트릭에 대 한 기준 스냅숏은 이제 2020 년 10 월 1 일에 수행 됩니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.
+4. **함수형 컨설턴트 증가** : 기능 컨설턴트의 수 증가  PCI의 기능 컨설턴트 증가 메트릭에 대 한 기준 스냅숏은 이제 2020 년 10 월 1 일에 수행 됩니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.
 
-5. **개발자**: Dynamics 365에 대 한 인증을 연결 하는 현재 활성 개발자를 보유 하는 개인의 수입니다. 이 메트릭에 대 한 자세한 내용은 개발자를 [위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)를 참조 하세요.
+5. **개발자** : Dynamics 365에 대 한 인증을 연결 하는 현재 활성 개발자를 보유 하는 개인의 수입니다. 이 메트릭에 대 한 자세한 내용은 개발자를 [위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)를 참조 하세요.
 
 *고객 성공 지표:*
 
-6. **새로운 대규모 배포**: 지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수 이 메트릭에 대 한 자세한 내용은 [새 대량 배포에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)를 참조 하세요.
+6. **새로운 대규모 배포** : 지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수 이 메트릭에 대 한 자세한 내용은 [새 대량 배포에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)를 참조 하세요.
 
-7. **월별 활성 사용자 증가**: 지난 12 개월 동안 모든 고객의 월간 활성 사용자 성장 (이 메트릭에 대 한 자세한 내용은 [월별 활성 사용자 증가에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)를 참조 하세요.)
+7. **월별 활성 사용자 증가** : 지난 12 개월 동안 모든 고객의 월간 활성 사용자 성장 (이 메트릭에 대 한 자세한 내용은 [월별 활성 사용자 증가에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)를 참조 하세요.)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 점수가 역량 자격에 주는 영향
 점수는 획득 된 각 표시기에 대해 부여 되며,이로 인해 단일 숫자 PCI 점수가 발생 합니다. 100 최대 점수를 사용할 수 있습니다. 
@@ -89,7 +89,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 |고객 성공-월별 활성 사용자 성장  | 25 개 점수 |
 
 다음 이미지는 빠른 시각적 참조를 제공 합니다.
-:::image type="content" source="images/pci/perfnew.png" alt-text="실버 또는 골드 역량을 얻기 위해 PCI 점수를 표시 합니다." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="각 PCI (파트너 기여 지표) 각각에 대해 가능한 최대 점수가 있는 차트를 표시 합니다." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>각 PCI 메트릭에 대 한 임계값
 
@@ -111,8 +111,8 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: 새 고객이 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 기능 컨설턴트 성장 | 기능 표시기: 개발자 | 고객 성공 지표: 새 대량 배포 | 고객 성공 지표: 월별 활성 사용자 성장 |
 |---|---|---|---|---|---|---|---|
 | **최대 점수** | 10 개 요소 | 10 개 요소 | 15 개 점수 | 15 개 점수 | 5 개 요소 | 20 개 요소 | 25 개 점수 |
-| **만들어** | $300,000 | 10 개 요소 | 10 개 요소 | *\* 참고 참조* | 5 개 요소 | 5 개 요소 | 25% |
-| **개발과** | $15만 | 5 개 요소 | 5 개 요소 |*\* 참고 참조* | 2 개 요소 | 1 포인트 | 25% |
+| **만들어** | $300,000 | 10 | 10 | *\* 참고 참조* | 5 | 5 | 25% |
+| **개발과** | $15만 | 5  | 5  |*\* 참고 참조* | 2 | 1 | 25% |
 
 *\* 참고: 증가 대상은 기준 컨설턴트의 수에 따라 달라 집니다. 증가 목표는 [표 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 을 참조 하세요.*
 
@@ -122,8 +122,8 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: 새 고객이 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 기능 컨설턴트 성장 | 기능 표시기: 개발자 | 고객 성공 지표: 새 대량 배포 | 고객 성공 지표: 월별 활성 사용자 성장 |
 |---|---|---|---|---|---|---|---|
 | **최대 점수** | 10 개 요소 | 10 개 요소 | 15 개 점수 | 15 개 점수 | 5 개 요소 | 20 개 요소 | 25 개 점수 |
-| **만들어** | $300,000 | 3 개 요소 | 15 개 점수 | *\* 참고 참조* | 5 개 요소 | 3 개 요소 | 25% |
-| **개발과** | $15만 | 1 포인트 | 5 개 요소 |*\* 참고 참조* | 2 개 요소 | 1 포인트 | 25% |
+| **만들어** | $300,000 | 3 | 15 | *\* 참고 참조* | 5  | 3 | 25% |
+| **개발과** | $15만 | 1 | 5 |*\* 참고 참조* | 2 | 1 | 25% |
 
 *\* 참고: 증가 대상은 기준 컨설턴트의 수에 따라 달라 집니다. 증가 목표는 [표 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 을 참조 하세요.*
 
@@ -300,12 +300,12 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. 탐색 메뉴에서 **CSP** 를 선택 하 고 **파트너 기여 지표**를 선택 합니다. 
+2. 탐색 메뉴에서 **CSP** 를 선택 하 고 **파트너 기여 지표** 를 선택 합니다. 
 
    연결 된 차트가 있는 파트너 기여 표시기 대시보드가 표시 되어야 합니다.
 
    > [!NOTE]
-   > 이러한 옵션이 표시 되지 않으면 메뉴에서 **MPN** 를 선택 하 고 **파트너 기여 표시기**를 선택 합니다. 그래도 이러한 옵션을 찾을 수 없으면 파트너 센터에서 적절 한 사용자 역할이 할당 되지 않은 것일 수 있습니다. 파트너 센터 전역 관리자 또는 MPN partner admin에 도움을 요청 하세요.
+   > 이러한 옵션이 표시 되지 않으면 메뉴에서 **MPN** 를 선택 하 고 **파트너 기여 표시기** 를 선택 합니다. 그래도 이러한 옵션을 찾을 수 없으면 파트너 센터에서 적절 한 사용자 역할이 할당 되지 않은 것일 수 있습니다. 파트너 센터 전역 관리자 또는 MPN partner admin에 도움을 요청 하세요.
 
 ### <a name="read-the-charts"></a>차트 읽기
 
@@ -313,7 +313,7 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 이 영역을 사용 하는 방법에 대 한 자세한 내용은이 문서의 끝에 있는 리소스 및 비디오 컬렉션을 참조 하세요.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="실버 또는 골드 역량을 얻기 위해 PCI 점수를 표시 합니다.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="차트를 읽는 방법":::
 
 ## <a name="next-steps"></a>다음 단계
 
