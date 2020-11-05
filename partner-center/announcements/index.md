@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133017"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327253"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 10월 공지** | **발표** |
+| **범주** | **2020년 11월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[이제 적격 CSP(클라우드 솔루션 공급자) Education 고객은 Windows 10 Education 업그레이드를 사용할 수 있습니다.](2020-november.md#4)|11월 2일|
+|제품/시장|[이제 새로워진 CSP(클라우드 솔루션 공급자) 디지털 환경 사용 가능. 2020년 10월 CSP(클라우드 솔루션 공급자) 소프트웨어 구독 가격표 업데이트](2020-november.md#3)|11월 2일|
+|제품/시장|[2020년 10월 CSP(클라우드 솔루션 공급자) 소프트웨어 구독 가격표 업데이트](2020-november.md#2)|11월 2일|
+|제품/시장|[CSP(클라우드 솔루션 공급자) 프로그램에서 직접 청구 파트너 요구 사항에 대한 성능 표준 소개](2020-november.md#1)|11월 2일|
+| **범주** | **2020년 10월 공지** | **날짜** |
 |기능|[Windows Server 소프트웨어 구독 기능 업데이트](2020-october.md#17)|10월 29일|
 |기능|[이제 적격 CSP(클라우드 솔루션 공급자) Education 고객은 Windows 10 Education 업그레이드를 사용할 수 있습니다.](2020-october.md#16)|10월 28일|
 |기능|[새로 단장한 CSP(클라우드 솔루션 공급자) 디지털 환경 지금 이용 가능](2020-october.md#15)|10월 28일|
