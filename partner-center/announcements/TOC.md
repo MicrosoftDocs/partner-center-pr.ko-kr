@@ -1,4 +1,5 @@
 # [파트너 센터 공지](index.md)
+# [2020년 11월](2020-november.md)
 # [2020년 10월](2020-october.md)
 # [2020년 9월](2020-september.md)
 # [2020년 8월](2020-august.md)
