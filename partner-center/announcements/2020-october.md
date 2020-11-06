@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795816"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132830"
 ---
 # <a name="october-2020-announcements"></a>2020년 10월 공지
 
@@ -22,7 +22,134 @@ ms.locfileid: "92795816"
 
 2020년 공지:  [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | 10월
 
-________________________________
+______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server 소프트웨어 구독 기능 업데이트
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-29
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+이전에 Windows Server 표준 소프트웨어 구독을 구매한 CSP(클라우드 솔루션 공급자) 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 2020년 10월 30일 CSP에 대한 Windows Server 소프트웨어 구독을 위한 새로운 기능 업데이트를 발표했습니다. 업데이트에는 다음과 같은 Windows Server 소프트웨어 구독 제품이 포함됩니다. Windows Server Standard, **버전 20H2** (CSP 제품 ID: DG7GMGF0DVT9). 이제 이 제품에 업데이트된 다운로드 파일을 사용할 수 있습니다. 파트너는 새로운 기능을 얻기 위해 최신 파일을 다운로드하도록 선택할 수 있습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+- 이 정보를 조직 내의 해당 담당자와 공유하세요.
+- [Windows Server 버전 20H2 설명서](/windows/release-information/status-windows-10-20h2) 검토
+
+________________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>이제 적격 CSP(클라우드 솔루션 공급자) Education 고객은 Windows 10 Education 업그레이드를 사용할 수 있습니다.
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-28
+- 기능
+
+### <a name="summary"></a>요약
+
+Education 고객을 위해 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독을 구매한 CSP 파트너는 이제 Windows 10 Home 디바이스를 Windows 10 Education으로 업그레이드할 수 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+Education 고객을 위해 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독을 구매한 CSP 파트너
+
+### <a name="details"></a>세부 정보
+
+2020년 11월 1일부터 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독을 구매한 CSP는 Education 고객이 Windows 10 Home에서 강의실 및 원격 학습을 위해 설계된 Windows 10 Education으로 업그레이드하는 데 도움을 줄 수 있습니다.
+
+2020년 11월 1일부터 Windows 10 Home은 Microsoft 클라우드 계약(CSP를 통해)을 통해 라이선스가 부여된 Education 고객을 위한 적격 운영 체제가 됩니다. 지금까지 VL(볼륨 라이선스) 교육 프로그램에서만 사용할 수 있었던 이 자격은 Microsoft 365 관리 포털 지원을 통해 사용하게 되었습니다. 
+
+#### <a name="how-the-upgrade-process-works"></a>업그레이드 프로세스 작동 방식
+
+CSP 파트너는 고객을 대신하여 지원 요청을 제출하여 고객의 업그레이드를 지원할 수 있습니다. Microsoft 지원은 요청을 검토하여 고객이 자격이 있는지 확인하며, 요청이 승인되면 고객에게 Windows 10 Pro Education 키를 제공합니다.
+
+고객이 키를 설치하고 디바이스가 AAD(Azure Active Directory)를 통해 테넌트 도메인에 가입되면 디바이스는 자동으로 Windows 10 Education(구독)으로 업그레이드됩니다.   
+
+고객 업그레이드 방법에 대한 자세한 내용은 [단계별 가이드 및 질문과 대답 항목](../upgrade-windows-to-education.md)을 참조하세요.
+
+### <a name="next-steps"></a>다음 단계
+
+- 적격 고객에게 알리고 단계별 프로세스를 안내합니다.
+- 이 정보를 조직 내의 해당 담당자와 공유합니다.  
+
+________________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>새로워진 CSP(클라우드 솔루션 공급자) 디지털 환경 지금 이용 가능
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-28
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 파트너의 잠재력을 극대화하고, 혁신적인 솔루션을 구축하고, Microsoft 파트너 네트워크에서 더 많은 고객이 성공을 거둘 수 있도록 최선을 다하고 있습니다. CSP(클라우드 솔루션 공급자) 프로그램은 90,000개 이상의 업체가 참여하는 가장 빠르게 성장하는 프로그램 중 하나입니다.
+클라우드 솔루션 공급자 프로그램에서 파트너의 비즈니스 성장을 가속화하는 데 도움이 되도록 Microsoft 파트너 네트워크 웹 사이트 및 새로운 CSP 가이드북에서 새로워진 CSP(클라우드 솔루션 공급자) 디지털 환경을 소개합니다. 이 개선된 환경 및 새로운 리소스를 통해 파트너는 새로운 기회를 활용하여 CSP 프로그램에서 비즈니스를 보다 효율적으로 확장할 수 있습니다.
+
+이 새로운 디지털 환경에는 다음이 포함됩니다.
+
+- 파트너 비즈니스 성장을 가속화하는 데 도움이 되는 새로워진 CSP 디지털 환경:  새로워진 CSP 페이지는 등록, 빌드 방법, 시장 진출 및 판매 전반에 걸쳐 파트너의 경험을 안내하는 간소화된 환경을 제공합니다. 파트너는 세일즈 플레이 캠페인 및 시장 진출 리소스를 통해 수익 기회를 늘릴 수 있습니다. 기타 통합 리소스를 통해 파트너는 CSP 프로그램에서 최신 상태를 유지하고 비즈니스를 쉽게 수행할 수 있습니다.
+- 파트너가 새로운 기회를 식별하는 데 도움이 되는 새로운 클라우드 솔루션 공급자 프로그램 가이드북:  이 단계별 가이드는 파트너에게 프로그램을 통해 클라우드 비즈니스 성장을 가속화하고 수익 기회를 확장하는 방법에 대한 지침을 제공합니다.
+- 솔루션 작업 영역의 CSP 프로그램 콘텐츠: 솔루션 작업 영역은 주문형 리소스를 위한 단일 대상을 제공하여 아이디어를 시장에 보다 빠르게 적용할 수 있도록 지원하는 디지털 환경입니다. 이제 서비스 공급자는 솔루션 작업 공간에서 CSP 프로그램별 콘텐츠 및 리소스를 찾을 수 있습니다.
+
+### <a name="additional-resources"></a>추가 리소스
+
+- [새로워진 CSP 페이지](https://aka.ms/CSP) 방문 
+- [새 CSP 프로그램 가이드북](https://aka.ms/cspguidebook)을 검토하고 성장 기회에 대해 자세히 알아보기
+- 솔루션 작업 영역을 사용하여 관행을 구축하고 단계를 간소화
+- 세일즈 플레이 리소스로 더 많은 캠페인 추진 
+- 조직 내 동료에게 CSP 페이지를 방문하여 위의 리소스를 공유하도록 권장하세요. 간접 공급자인 경우 리소스를 간접 재판매인과 공유하세요.
+
+________________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>2020년 10월 CSP(클라우드 솔루션 공급자) 소프트웨어 구독 가격표 업데이트
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-26
+- 제품/시장
+ 
+### <a name="summary"></a>요약
+
+2020년 10월 소프트웨어 구독 가격표가 업데이트되었습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>설명
+
+2020년 10월 소프트웨어 구독 가격표가 업데이트되어 이전에 생략된 두 제품이 포함되었습니다.
+
+[Windows 7 2년 ESU](#3)는 2020년 10월에 사용할 수 있게 되었습니다. 2년 가격 책정은 이제 소프트웨어 구독 가격표에서 확인할 수 있습니다.
+- 제품 ID: DG7GMGF0FL73
+- SKU ID: 0003
+
+[Azure SQL Edge](2020-september.md#9)는 2020년 9월 말에 릴리스되었습니다. 이제 현재 파트너 센터 가격표에서 확인할 수 있습니다. 
+- 제품 ID: DG7GMGF0GJC2
+
+모든 CSP 파트너 센터 가격표는 파트너 센터에 로그인하고 판매/제품 및 가격 책정으로 이동하여 확인할 수 있습니다.
+
+### <a name="additional-resources"></a>추가 리소스
+
+- [Windows 7 지원 FAQ 페이지](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 지원 및 Microsoft 365 앱](/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 ESU 리소스 갤러리](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Azure SQL Edge 사이트](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13">CSP(클라우드 솔루션 공급자) 프로그램에서 직접 청구 파트너 요구 사항에 대한 성능 표준 소개</a>
 
@@ -45,7 +172,7 @@ Microsoft 클라우드 솔루션 공급자 프로그램의 확장 및 최적화�
 
 오늘은 클라우드 솔루션 공급자 프로그램에서 직접 청구 파트너의 요구 사항에 대한 몇 가지 예정된 변경 내용을 공유하려고 합니다.
 
-먼저 **직접 청구 파트너 요구 사항에 포함된 성능 표준을 소개합니다** . 클라우드 솔루션 공급자 프로그램에 직접 청구 파트너로 등록하려는 파트너는 [필수 지원 계약](https://partner.microsoft.com/support/partnersupport) 갱신일 이전에 12개월 동안 달성한 클라우드 솔루션 공급자 프로그램 수익이 USD300K 이상이어야 합니다.
+먼저 **직접 청구 파트너 요구 사항에 포함된 성능 표준을 소개합니다**. 클라우드 솔루션 공급자 프로그램에 직접 청구 파트너로 등록하려는 파트너는 [필수 지원 계약](https://partner.microsoft.com/support/partnersupport) 갱신일 이전에 12개월 동안 달성한 클라우드 솔루션 공급자 프로그램 수익이 USD300K 이상이어야 합니다.
 
 이 성능 표준은 2021년 1월부터 현재 직접 청구 파트너에게 적용되며, 파트너는 파트너 지원 플랜 갱신일까지 요구 사항을 충족해야 합니다.
 
@@ -164,7 +291,7 @@ ________________
  
 ### <a name="summary"></a>요약 
 
-2020년 11월 1일에 Microsoft는 비영리 조직을 위한 Microsoft 365 Business Voice용 새 SKU를 도입합니다.
+2020년 11월 1일에 Microsoft는 비영리 조직을 위해 Microsoft 365 Business Voice용 새 SKU를 도입합니다.
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -442,7 +569,7 @@ Microsoft Teams 고급 통신 프로모션 SKU는 2020년 11월 1일부터 35% �
 상용, 전 세계 상용 공공 부문, 교육 및 비영리 조직에서 구매할 수 있습니다.
 
 **어떤 채널을 통해 고급 통신을 구매할 수 있나요?**
-EA(기업계약)/EAS(기업 구독), EES(교육 솔루션 등록), CSP 또는 웹 다이렉트입니다.
+EA(기업계약)/EAS(기업계약 구독), EES(교육 솔루션 등록), CSP 또는 웹 다이렉트입니다.
 
 **어떤 고객이 고급 통신 프로모션 SKU를 구매할 수 있나요?**
 상업적 고객만 구매할 수 있습니다.
@@ -468,7 +595,7 @@ Microsoft Teams 및 모든 Microsoft 365/Office 365 제품군입니다.
 
 ________________
 
-## <a name="upcoming-new-offers-and-products-for-dynamics-365"></a><a name="4"></a>Dynamics 365에 예정된 새로운 제안 및 제품
+## <a name="upcoming-new-offers-and-products-for-dynamics-365"></a><a name="4"></a>Dynamics 365에 예정된 새로운 서비스 및 제품
 
 ### <a name="categories"></a>범주
 
@@ -481,7 +608,7 @@ CSP(클라우드 솔루션 공급자) 파트너
 
 ### <a name="details"></a>세부 정보
 
-Microsoft는 2020년 11월 1일에 CSP 프로그램에 대해 새롭고 업데이트된 다음과 같은 Dynamics 365 및 Power Platform 제안 및 제품을 릴리스합니다. 
+Microsoft는 2020년 11월 1일에 CSP 프로그램에 대해 다음과 같이 새롭게 업데이트된 Dynamics 365 및 Power Platform 서비스 및 제품을 릴리스합니다. 
 
 - Dynamics 365 고객의 소리 USL(사용자 구독 라이선스) 
 - CSP로 제품 확장

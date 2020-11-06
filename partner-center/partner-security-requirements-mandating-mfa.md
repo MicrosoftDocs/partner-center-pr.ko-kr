@@ -1,7 +1,7 @@
 ---
-title: 파트너 테넌트에 대한 MFA 위임
+title: 파트너 테넌트에 대한 MFA(다단계 인증) 위임
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 테넌트에 대한 MFA를 위임하여 고객 리소스에 안전하게 액세스하는 방법을 알아봅니다. 샘플 시나리오가 포함되어 있습니다.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680396"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133122"
 ---
-# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테넌트에 대한 MFA(다단계 인증) 위임
 
 **적용 대상**
 
 - 클라우드 솔루션 공급자 프로그램의 모든 파트너
-  - 직접 청구
-  - 간접 공급자
-  - 간접 재판매인
+- 모든 제어판 공급업체
 - 모든 관리자
 
 **영향을 받는 역할**
@@ -34,8 +32,7 @@ ms.locfileid: "92680396"
 - 대금 청구 관리자
 - 전역 관리자
 
-이 기능은 파트너가 자격 증명을 손상시키지 않도록 고객 리소스에 대한 액세스를 보호하기 위한 것입니다.
-파트너는 게스트 사용자를 포함하여 파트너 테넌트의 모든 사용자 계정에 MFA(Multi-Factor Authentication)를 적용해야 하며, 이 기능을 사용하는 경우 이러한 파트너 역할은 다음 영역에 대한 MFA 확인을 완료하도록 위임됩니다.
+이 문서에는 파트너 센터에서 MFA(다단계 인증)를 의무화하는 데 대한 자세한 예제와 지침이 나와 있습니다. 이 기능은 파트너가 자격 증명을 손상시키지 않도록 고객 리소스에 대한 액세스를 보호하기 위한 것입니다. 파트너는 게스트 사용자를 포함한 파트너 테넌트의 모든 사용자 계정에 MFA를 적용해야 합니다. 사용자는 다음 영역에 대한 MFA 확인을 완료해야 합니다.
 
 - [파트너 센터 대시보드](#partner-center-dashboard)
 - [파트너 센터 API](#partner-center-api)
@@ -43,9 +40,7 @@ ms.locfileid: "92680396"
 
 더 강력하고 지속적인 보안 및 개인 정보 보호가 최우선 순위이며, 파트너가 고객과 테넌트를 보호할 수 있도록 지속적으로 지원하고 있습니다. CSP(클라우드 솔루션 공급자) 프로그램, CPV(제어판 공급업체) 및 관리자에 참여하는 모든 파트너는 규정을 준수하기 위한 [파트너 보안 요구 사항](partner-security-requirements.md)을 구현해야 합니다.
 
-Microsoft는 파트너가 ID 도용 관련 사고로부터 기업과 고객을 보호할 수 있도록 파트너 테넌트에 대한 추가 보안 보호 기능을 활성화했습니다. 이로써 파트너는 MFA(다단계 인증) 확인을 위임하여 파트너의 테넌트와 고객이 무단 액세스를 방지하도록 할 수 있습니다. 
-
-이 설명서에서는 파트너에게 보안 보호 기능의 활성화와 관련된 자세한 환경과 지침을 제공합니다.
+파트너가 신원 도용 및 무단 액세스로부터 비즈니스와 고객을 보호할 수 있도록 MFA를 위임하고 확인하는 파트너 테넌트를 위해 추가 보안 보호 기능을 활성화했습니다. 
 
 ## <a name="partner-center-dashboard"></a>파트너 센터 대시보드
 
@@ -55,23 +50,20 @@ Microsoft는 파트너가 ID 도용 관련 사고로부터 기업과 고객을 �
 - **지원 > 고객 요청** 탭의 모든 페이지(예: https://partner.microsoft.com/dashboard/support/csp/customers/* 에서 액세스한 페이지)
 - 청구 페이지
 
-이러한 페이지에 액세스하려고 하지만 이전에 MFA 확인을 완료하지 않은 경우 이 작업을 수행해야 합니다.
-
-> [!NOTE]
-> 개요 페이지, 서비스 상태 확인 페이지와 같은 파트너 센터의 다른 페이지는 MFA로 보호되지 않습니다.
-
-다음 사용자 유형은 이러한 MFA로 보호된 페이지에 액세스할 수 있는 권한이 있으므로 이 기능의 영향을 받습니다.
+다음 표에는 이러한 MFA로 보호된 페이지에 액세스할 수 있는 권한이 부여된(그 결과 이 기능의 영향을 받는) 사용자 유형이 나와 있습니다.
 
 
-| MFA로 보호되는 페이지       | 관리 담당자      |  영업 담당자     |   기술 지원팀 담당자     | 전역 관리자      |  대금 청구 관리자     | 
+| MFA로 보호된 페이지       | 관리 담당자      |  영업 담당자     |   기술 지원팀 담당자     | 전역 관리자      |  대금 청구 관리자     | 
 |---    |---    |---    |---    |---    |---    |
 | 고객 탭의 모든 페이지      |   x    |    x   |  x     |       |       |
 | 지원 > 고객 요청 탭의 모든 페이지     | x      |       |    x   |       |       |
 | 청구 페이지     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>확인이 작동하는 방법을 보여주는 예제
+이러한 페이지에 액세스하려고 하지만 이전에 MFA 확인을 완료하지 않은 경우 이 작업을 수행해야 합니다. 개요 페이지, 서비스 상태 확인 페이지와 같은 파트너 센터의 다른 페이지는 MFA가 필요하지 않습니다.
 
-확인이 작동하는 방법을 설명하기 위해 다음 두 가지 예제를 고려합니다.
+## <a name="verification-examples"></a>확인 예제
+
+파트너 센터 대시보드에서 확인이 작동하는 방식을 설명하려면 다음 예제를 고려하세요.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>예제 1: 파트너가 Azure AD MFA를 구현함
 
@@ -108,7 +100,7 @@ Microsoft는 파트너가 ID 도용 관련 사고로부터 기업과 고객을 �
 6. John이 파트너 센터에서 MFA로 보호되는 페이지 중 하나에 액세스하려고 합니다. John이 MFA 확인을 완료하지 않았으므로 파트너 센터에서 John이 Azure AD로 리디렉션되어 MFA 확인을 완료합니다. John이 MFA를 등록했으므로 이번에는 MFA 확인을 완료하라는 메시지만 표시됩니다.
 
 > [!NOTE]
->작업: 회사 관리자는 지금 파트너 센터에서 제안하는 [옵션](partner-security-requirements.md#actions-that-you-need-to-take)을 통해 MFA를 구현해야 합니다.
+>작업: 회사 관리자에게는 MFA 구현을 위한 [세 가지 옵션](partner-security-requirements.md#implementing-multi-factor-authentication)이 있습니다.
 
 ## <a name="partner-center-api"></a>파트너 센터 API
 
@@ -117,7 +109,7 @@ Microsoft는 파트너가 ID 도용 관련 사고로부터 기업과 고객을 �
 앱 + 사용자 인증을 사용하는 경우 파트너 센터에서 MFA 확인이 필요합니다. 더 구체적으로, 파트너 애플리케이션에서 API 요청을 파트너 센터에 보내려면 액세스 토큰을 요청의 권한 부여 헤더에 포함해야 합니다. 
 
 > [!NOTE]
->[보안 애플리케이션 모델](/partner-center/develop/enable-secure-app-model)은 파트너 센터 API를 호출할 때 Microsoft Azure MFA 아키텍처를 통해 CSP 파트너 및 CPV를 인증하기 위한 안전하고 확장 가능한 프레임워크이며, 테넌트에서 MFA를 사용하도록 설정하기 전에 이를 구현해야 합니다. 
+>[보안 애플리케이션 모델](/partner-center/develop/enable-secure-app-model)은 파트너 센터 API를 호출할 때 Microsoft Azure MFA 아키텍처를 통해 CSP 파트너 및 CPV를 인증하기 위한 확장 가능한 프레임워크입니다. 테넌트에서 MFA를 사용하기 전에 이 프레임워크를 구현해야 합니다. 
 
 파트너 센터에서 앱 + 사용자 인증을 사용하여 얻은 액세스 토큰이 포함된 API 요청을 받으면 파트너 센터 API에서 *MFA* 값이 *AMR(인증 방법 참조)* 클레임에 있는지 확인합니다. JWT 디코더를 사용하여 예상 AMR(인증 방법 참조) 값이 액세스 토큰에 포함되어 있는지 여부를 확인할 수 있습니다.
 
@@ -163,17 +155,17 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 ## <a name="partner-delegated-administration"></a>파트너에게 위임된 관리
 
-### <a name="using-service-portals"></a>서비스 포털 사용
-
 관리 담당자 및 기술 지원팀 담당자를 포함한 파트너 계정은 파트너에게 위임된 관리 권한을 사용하여 Microsoft Online Services 포털, CLI(명령줄 인터페이스) 및 API(앱 + 사용자 인증 사용)를 통해 고객 리소스를 관리할 수 있습니다.
 
-파트너에게 위임된 관리 권한(관리자 위임)을 사용하여 고객 리소스를 관리하는 Microsoft Online Services 포털에 액세스하는 경우, 이러한 포털에서는 대부분 인증 컨텍스트로 설정된 고객 Azure Active Directory 테넌트를 통해 파트너 계정에서 대화형으로 인증하도록 요구합니다. 이 경우 파트너 계정이 고객 테넌트에 로그인하는 데 필요합니다.
+### <a name="using-service-portals"></a>서비스 포털 사용
 
-Azure Active Directory에서 이러한 인증 요청을 받으면 파트너 계정에서 MFA 확인을 완료해야 합니다. 파트너 계정이 관리 ID인지, 아니면 페더레이션 ID인지에 따라 다음과 같은 두 가지 사용자 환경을 사용할 수 있습니다.
+파트너에게 위임된 관리 권한(관리자 위임)을 사용하여 고객 리소스를 관리하는 Microsoft Online Services 포털에 액세스하는 경우, 이러한 포털에서는 대부분 인증 컨텍스트로 설정된 고객 Azure AD 테넌트를 통해 파트너 계정에서 대화형으로 인증하도록 요구합니다. 이 경우 파트너 계정이 고객 테넌트에 로그인하는 데 필요합니다.
 
-- 파트너 계정이 **관리** ID인 경우 Azure Active Directory에서 사용자에게 MFA 확인을 완료하라는 메시지를 직접 표시합니다. 파트너 계정이 이전에 MFA를 위해 Azure Active Directory에 등록되지 않은 경우 먼저 [MFA 등록을 완료](#mfa-registration-experience)하도록 사용자에게 요청합니다.
+Azure AD에서 이러한 인증 요청을 받으면 파트너 계정에서 MFA 확인을 완료해야 합니다. 파트너 계정이 관리 ID인지, 아니면 페더레이션 ID인지에 따라 다음과 같은 두 가지 사용자 환경을 사용할 수 있습니다.
 
-- 파트너 계정이 **페더레이션** ID인 경우 파트너 관리자가 Azure Active Directory에서 페더레이션을 구성한 방법에 따라 이 환경이 달라집니다. Azure Active Directory에서 페더레이션을 설정하는 경우 파트너 관리자는 페더레이션 ID 공급자에서 MFA를 지원하는지 여부를 Azure Active Directory에 나타낼 수 있습니다. 이 경우 Azure Active Directory에서 사용자가 페더레이션 ID 공급자로 리디렉션되어 MFA 확인을 완료합니다. 그렇지 않으면 Azure Active Directory에서 사용자에게 MFA 확인을 완료하라는 메시지를 직접 표시합니다. 파트너 계정이 이전에 MFA를 위해 Azure Active Directory에 등록되지 않은 경우 먼저 [MFA 등록을 완료](#mfa-registration-experience)하도록 사용자에게 요청합니다.
+- 파트너 계정이 **관리** ID인 경우 Azure AD에서 사용자에게 MFA 확인을 완료하라는 메시지를 직접 표시합니다. 파트너 계정이 이전에 MFA를 위해 Azure AD에 등록되지 않은 경우 먼저 [MFA 등록을 완료](#mfa-registration-experience)하도록 사용자에게 요청합니다.
+
+- 파트너 계정이 **페더레이션** ID인 경우 파트너 관리자가 Azure AD에서 페더레이션을 구성한 방법에 따라 이 환경이 달라집니다. Azure AD에서 페더레이션을 설정하는 경우 파트너 관리자는 페더레이션 ID 공급자가 MFA를 지원하는지 여부를 Azure AD에 나타낼 수 있습니다. 이 경우 Azure AD에서 사용자가 페더레이션 ID 공급자로 리디렉션되어 MFA 확인을 완료합니다. 그렇지 않으면 Azure AD에서 사용자에게 MFA 확인을 완료하라는 메시지를 직접 표시합니다. 파트너 계정이 이전에 MFA를 위해 Azure AD에 등록되지 않은 경우 먼저 [MFA 등록을 완료](#mfa-registration-experience)하도록 사용자에게 요청합니다.
 
 전반적인 환경은 최종 고객 테넌트가 관리자를 대신하여 MFA를 구현한 시나리오와 비슷합니다. 예를 들어 고객 테넌트에서 [Azure AD 보안 기본값](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)을 사용하도록 설정했습니다. 이 경우 관리 권한이 있는 모든 계정에서 관리 담당자 및 기술 지원팀 담당자를 포함하여 MFA 확인을 통해 고객 테넌트에 로그인해야 합니다. 테스트를 위해 파트너는 고객 테넌트에서 [Azure AD 보안 기본값](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)을 사용하도록 설정한 다음, 파트너에게 위임된 관리 권한을 사용하여 고객 테넌트에 액세스하려고 시도할 수 있습니다.
 
@@ -202,19 +194,13 @@ MFA 확인 중에 파트너 계정이 이전에 MFA에 등록되지 않은 경�
 
 **다음** 을 클릭하면 사용자에게 확인 방법 목록에서 선택하라는 메시지가 표시됩니다.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 등록 1단계":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 등록 2단계":::
 
 등록이 성공하면 사용자가 선택한 확인에 따라 MFA 확인을 완료해야 합니다.
-
-## <a name="request-for-technical-exception"></a>기술 예외 요청
-
-Microsoft Online Services와 관련된 기술적 문제가 발생하고 실행 가능한 솔루션 또는 해결 방법이 없는 경우 MFA 확인을 억제하기 위해 파트너가 기술 예외를 적용할 수 있습니다. 이렇게 하려면 먼저 다음 섹션을 검토하세요.
-
-- [파트너가 보고하는 일반적인 문제 목록](#list-of-common-issues-reported-by-partners)
-- [기술 예외 요청을 제출하는 방법](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>파트너가 보고하는 일반적인 문제 목록
-기술 예외를 적용하기 전에 다른 파트너가 보고한 일반적인 문제 목록을 검토하여 기술 예외에 대한 타당한 이유인지를 파악합니다.
+## <a name="list-of-common-issues"></a>일반적인 문제 목록
+
+MFA 요구 사항에서 [기술 예외](#how-to-submit-a-request-for-technical-exception)를 적용하기 전에 다른 파트너가 보고한 일반적인 문제 목록을 검토하여 요청이 타당한지를 파악합니다.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>문제 1: 파트너가 파트너 에이전트에 대해 MFA를 구현하는 데 더 많은 시간이 필요함
 파트너가 파트너에게 위임된 관리 권한을 사용하여 고객 리소스를 관리하기 위해 Microsoft Online Services 포털에 액세스해야 하는 파트너 에이전트에 대해 MFA 구현을 시작하지 않았거나 아직 진행 중입니다. 파트너가 MFA 구현을 완료하는 데 더 많은 시간이 필요합니다. 이 문제는 기술 예외에 대한 타당한 이유인가요?
@@ -261,7 +247,9 @@ Microsoft Online Services와 관련된 기술적 문제가 발생하고 실행 �
 
 - 사용하고 있거나 사용하려는 타사 MFA 솔루션에 대한 구매 주문
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>기술 예외 요청을 제출하는 방법
+## <a name="how-to-submit-a-request-for-technical-exception"></a>기술 예외 요청을 제출하는 방법
+
+Microsoft Online Services와 관련된 기술적 문제가 발생하고 실행 가능한 솔루션 또는 해결 방법이 없는 경우 MFA 확인을 억제하기 위해 파트너가 기술 예외를 적용할 수 있습니다. 이를 수행하기 전에 이전 섹션에서 [일반적인 문제 목록](#list-of-common-issues)을 검토합니다.
 
 기술 예외 요청을 제출하려면 다음을 수행합니다.
 
@@ -274,3 +262,7 @@ Microsoft Online Services와 관련된 기술적 문제가 발생하고 실행 �
 4. 기술 예외에 대한 서비스 요청을 제출하는 데 필요한 세부 정보를 제공하고, **제출** 을 클릭합니다.
 
 Microsoft에서 기술 예외 요청에 대한 응답을 제공하는 데 최대 3일 정도 걸릴 수 있습니다.
+
+## <a name="next-steps"></a>다음 단계
+
+ - [파트너 보안 요구 사항 상태](partner-security-compliance.md)

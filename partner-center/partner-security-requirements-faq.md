@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406366"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133051"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>파트너 보안 요구 사항에 대해 자주 묻는 질문
+# <a name="common-questions-about-partner-security-requirements"></a>파트너 보안 요구 사항에 대한 일반적인 질문
 
 **적용 대상**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406366"
 
 - 사용하도록 설정된 모든 사용자(게스트 사용자 포함)
 
-## <a name="partner-security-requirements"></a>파트너 보안 요구 사항
 
-이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대해 자주 묻는 질문이 몇 가지 포함되어 있습니다.
+이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대한 몇 가지 일반적인 질문에 대한 답변이 있습니다.
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>파트너 보안 요구 사항은 무엇이며 파트너가 구현해야 하는 이유는 무엇인가요?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>파트너 보안 요구 사항은 무엇이며 파트너가 이를 구현해야 하는 이유는 무엇인가요?
 
 더 강력하고 지속적인 보안 및 개인 정보 보호가 최우선 순위이며, 파트너가 고객과 테넌트를 보호할 수 있도록 지속적으로 지원하고 있습니다. 주로 ID 손상 사건과 관련된 보안 공격이 더욱 정교해 지고 있으며 그 수도 증가하고 있습니다. 예방 컨트롤이 보안 공격을 방지하기 위한 전반적인 방어 전략에서 주요 역할을 수행함에 따라 2019년에는 [필수 보안 요구 사항](partner-security-requirements.md)을 도입했습니다. CSP(클라우드 솔루션 공급자) 프로그램, 제어판 공급업체 및 관리자에 참여하는 모든 파트너는 규정을 준수하기 위한 요구 사항을 구현해야 합니다.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>주요 타임라인 및 중요 시점은 무엇인가요?
 
-타임라인 및 중요 시점을 포함하여 이러한 보안 요구 사항과 관련된 사용 약관은 2019년 [Microsoft 파트너 계약](microsoft-partner-agreement.md)에 포함되어 있습니다. CSP 프로그램 참여를 계속 준수하려면 가능한 한 빨리 이러한 보안 요구 사항을 구현해야 합니다.
+타임라인 및 중요 시점을 포함하여 이러한 보안 요구 사항과 관련된 사용 약관은 [Microsoft 파트너 계약](microsoft-partner-agreement.md)에 포함되어 있습니다. CSP 프로그램 참여를 계속 준수하려면 가능한 한 빨리 이러한 보안 요구 사항을 구현해야 합니다.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>이러한 파트너 보안 요구 사항을 구현하지 않으면 어떻게 되나요?
 
@@ -46,11 +45,11 @@ Microsoft 파트너 계약에서는 다단계 인증을 사용자 계정에 적�
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>보안 요구 사항이 모든 지역에 적용되나요?
 
-예, 보안 요구 사항은 모든 지역에 적용됩니다. 소버린 클라우드(21Vianet, 미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 적용하고 채택할 것을 적극 권장합니다. 그러나 이러한 파트너는 8월 1일에 적용되는 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
+예, 보안 요구 사항은 모든 지역에 적용됩니다. 소버린 클라우드(미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 적용하고 채택할 것을 적극 권장합니다. 그러나 이러한 파트너는 현재 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>계정에 대한 제외를 받을 수 있나요?
 
-아니요, MFA를 적용해야 한다는 요구 사항에서는 어떠한 사용자 계정도 제외할 수 없습니다. 파트너에게 높은 권한이 부여되면 Microsoft 파트너 계약에 따라 다단계 인증을 파트너 테넌트의 각 계정에 적용해야 합니다.
+아니요, MFA(다단계 인증)를 적용해야 한다는 요구 사항에서는 어떠한 사용자 계정도 제외할 수 없습니다. 파트너에게 높은 권한이 부여되면 Microsoft 파트너 계약에 따라 다단계 인증을 파트너 테넌트의 각 계정에 적용해야 합니다.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>파트너 보안 요구 사항을 충족했는지 확인하려면 어떻게 해야 하나요?
 
@@ -97,7 +96,7 @@ CSP 프로그램의 모든 파트너(직접 청구, 간접 공급자 및 간접 
 
 ## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>MFA(Multi-Factor Authentication)란 무엇인가요?
+### <a name="what-is-multi-factor-authentication-mfa"></a>MFA(다단계 인증)란 무엇인가요?
 
 MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통해 인증되는 보안 메커니즘입니다. 이는 다음 인증 방법을 둘 이상 요청하는 방식으로 작동합니다.
 
@@ -308,7 +307,7 @@ Microsoft는 추가 보호 기능을 제공하기 위해 보안 보호 기능의
 
 Azure AD(Azure Active Directory) ["기준" 정책이 제거되고 "보안 기본값"으로 바뀝니다](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults). 이는 사용자와 고객에 대한 더 포괄적인 보호 정책 세트입니다. [보안 기본값](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)은 조직을 ID 도용 관련 보안 공격으로부터 보호하는 데 도움이 됩니다.
 
-기준 정책에서 보안 기본값 정책 또는 [다른 MFA 구현 옵션](partner-security-requirements.md#actions-that-you-need-to-take)으로 전환하지 않은 경우 기본 정책 사용 중지로 인해 MFA(다단계 인증) 구현이 제거됩니다. MFA로 보호되는 작업을 수행하는 파트너 테넌트의 모든 사용자는 MFA 확인을 완료하도록 요청받습니다. [여기서](partner-security-requirements-mandating-mfa.md) 자세한 지침을 검토하세요.
+기준 정책에서 보안 기본값 정책 또는 [다른 MFA 구현 옵션](partner-security-requirements.md#implementing-multi-factor-authentication)으로 전환하지 않은 경우 기본 정책 사용 중지로 인해 MFA(다단계 인증) 구현이 제거됩니다. MFA로 보호되는 작업을 수행하는 파트너 테넌트의 모든 사용자는 MFA 확인을 완료하도록 요청받습니다. [여기서](partner-security-requirements-mandating-mfa.md) 자세한 지침을 검토하세요.
 규정을 준수하고 중단을 최소화하려면 다음 작업 중 하나를 수행합니다.
 
 - 보안 기본값으로 전환
