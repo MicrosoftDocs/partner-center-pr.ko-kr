@@ -1,18 +1,17 @@
 ---
 title: Azure Portal에서 개인 Azure Marketplace 만들기 및 관리
 description: Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 하는 방법에 대해 알아봅니다.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429355"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414861"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 합니다.
 
@@ -32,7 +31,7 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 >[!IMPORTANT]
 > 개인 Azure Marketplace 관리에 대 한 액세스는 IT 관리자가 Marketplace 관리자 역할이 할당 된 경우에만 사용할 수 있습니다.
 
-### <a name="prerequisites"></a>필수 조건
+### <a name="prerequisites"></a>필수 구성 요소
 
 이러한 필수 구성 요소를 충족 해야 테 넌 트 범위에서 사용자에 게 Marketplace 관리자 역할을 할당할 수 있습니다.
 
@@ -130,37 +129,37 @@ Az. Portal PowerShell 모듈에 포함 된 cmdlet에 대 한 자세한 내용은
 ## <a name="create-private-azure-marketplace"></a>개인 Azure Marketplace 만들기
 
 1. [Azure Portal](https://portal.azure.com/)에 로그인합니다.
-2. **모든 서비스** 를 선택한 다음 **Marketplace**를 선택 합니다.
+2. **모든 서비스** 를 선택한 다음 **Marketplace** 를 선택 합니다.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="주 창을 Azure Portal 합니다.":::
 
 3. 왼쪽의 옵션에서 **비공개 Marketplace** 를 선택 합니다.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure Portal 주 창에서 비공개 Marketplace를 선택 합니다.":::
 
 4. **시작** 을 선택 하 여 개인 Azure Marketplace 만들기를 선택 합니다 .이 작업은 한 번만 수행 하면 됩니다.
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure Portal 주 창에서 시작을 선택 합니다.":::
 
     이 테 넌 트에 대해 개인 Azure Marketplace 이미 있는 경우 **Marketplace 관리가** 기본적으로 선택 됩니다.
 
 5. 완료 되 면 비어 있고 사용 하지 않도록 설정 된 개인 Azure Marketplace를 갖게 됩니다.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="빈 개인 Azure Marketplace 화면입니다.":::
 
 ## <a name="add-items-from-gallery"></a>갤러리에서 항목 추가
 
 항목은 제품 및 계획의 조합입니다. Marketplace 관리 페이지에서 항목을 검색 하 여 추가할 수 있습니다.
 
-1. **항목 추가**를 선택 합니다.
+1. **항목 추가** 를 선택 합니다.
 
 2. **갤러리** 를 찾아보거나 검색 필드를 사용 하 여 원하는 항목을 찾습니다.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="갤러리를 찾아보거나 검색 필드를 사용 합니다.":::
 
 3. 기본적으로 새 제품을 추가할 때 모든 현재 계획이 허용 목록에 추가 됩니다. 선택한 항목을 추가 하기 전에 계획 선택을 수정 하려면 제품의 타일에서 드롭다운 메뉴를 선택 하 고 필요한 계획을 업데이트 합니다.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="필수 계획을 업데이트 합니다.":::
 
 4. 선택한 후 왼쪽 아래에서 **완료** 를 선택 합니다.
 
@@ -174,22 +173,22 @@ Marketplace 관리 페이지에서 항목의 계획을 편집할 수 있습니�
 1. **계획** 열의 해당 항목에 대 한 드롭다운 메뉴에서 사용 가능한 계획을 검토 합니다.
 2. 확인란을 선택 하거나 선택을 취소 하 여 사용자가 사용할 수 있도록 설정할 계획을 선택 합니다.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="필요한 항목에 대 한 확인란을 선택 하거나 선택 취소 합니다.":::
 
 > [!NOTE]
 > 업데이트를 수행 하려면 각 제품에 하나 이상의 계획이 선택 되어 있어야 합니다. 제품 관련 요금제를 모두 제거 하려면 전체 제품을 삭제 합니다 (다음 섹션 참조).
 
 ## <a name="delete-offers"></a>제안 삭제
 
-Marketplace 관리 페이지에서 제품 이름 옆의 확인란을 선택 하 고 (위 화면 참조) **항목 삭제**를 선택 합니다.
+Marketplace 관리 페이지에서 제품 이름 옆의 확인란을 선택 하 고 (위 화면 참조) **항목 삭제** 를 선택 합니다.
 
 ## <a name="enabledisable-private-azure-marketplace"></a>개인 Azure Marketplace 사용/사용 안 함
 
 Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .이 배너에는 개인 Azure Marketplace의 현재 상태가 표시 됩니다.
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="주 창을 Azure Portal 합니다.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="상태 배너 사용 안 함":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="주 창을 Azure Portal 합니다.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="상태 배너 사용":::
 
 필요에 따라 개인 Azure Marketplace를 사용 하거나 사용 하지 않도록 설정할 수 있습니다.
 
@@ -205,7 +204,7 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
 사용자는 허용 되지 않는 제품을 필터링 할 수 있습니다.
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="주 창을 Azure Portal 합니다.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="필터링 옵션입니다.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>개인 Azure Marketplace에서 구입 또는 배포
 
@@ -213,16 +212,16 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
 - 사용자가 허용 된 계획을 선택 하면 **만들기** 단추가 활성화 됩니다.
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="계획을 만들 수 있는 제품 배너입니다.":::
 
 - 사용자가 허용 되지 않는 계획을 선택 하는 경우 해당 계획은 허용 되지 않으며 **만들기** 단추를 사용할 수 없습니다.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="주 창을 Azure Portal 합니다.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="계획을 만들 수 없는 배너를 제공 합니다.":::
 
 - 제품 계획 선택이 제품 정보 페이지에 표시 되지 않지만 관리자가 하나 이상의 계획을 승인한 경우 배너에는 허용 되는 계획과 **만들기** 단추가 활성화 됩니다.
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="주 창을 Azure Portal 합니다.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="계획을 만들고 사용 가능한 계획을 표시할 수 있는 제품 배너입니다.":::
 
-## <a name="contact-support"></a>지원에 문의
+## <a name="contact-support"></a>기술 지원 서비스에 문의하십시오.
 
 Azure Marketplace 지원이 필요한 경우 [Microsoft Q&A](/answers/products/)를 참조 하세요. 
