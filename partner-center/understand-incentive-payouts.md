@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244066"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360057"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기, 관리 및 내보내기
 
@@ -139,7 +139,7 @@ CI (채널 성과급) 참조 번호를 모르는 경우 다음 세 위치에서 
 
 - **유료** 탭과 **보류 중** 탭에서 [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/) (로그인 필요)  
 
-- 지불 보고서- [결제 다운로드 내보내기 페이지](/partner-center/understand-incentive-payouts#payment-download-export)에 있습니다. 
+- 지불 보고서- [결제 다운로드 내보내기 페이지](#payment-download-export)에 있습니다. 
 
 #### <a name="if-your-submission-is-rejected"></a>제출이 거부 된 경우
 

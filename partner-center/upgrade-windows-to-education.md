@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028780"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360006"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home 고객을 Windows 10 교육으로 업그레이드
 
@@ -31,13 +31,13 @@ ms.locfileid: "93028780"
 
 2020 년 11 월 1 일부 터 Microsoft 365 A3 또는 A5 또는 Windows 10 Enterprise A3 또는 A5 구독을 구매한 Csp는 교육 고객에 게 Windows 10 Home에서 windows 10 교육으로 업그레이드 하는 데 도움이 될 수 있습니다 .이는 교실 및 원격 학습을 위해 설계 되었습니다.
 
-2020 년 11 월 1 일부 터, Windows 10 Home은 CSP를 통해 Microsoft 클라우드 규약을 통해 라이선스를 받은 교육 고객을 위한 적격 운영 체제입니다. 이제 VL (볼륨 라이선스) 교육 프로그램에서 사용할 수 있을 때까지이 자격이 Microsoft 365 관리 포털 지원을 통해 사용 하도록 설정 되었습니다. 
+2020년 11월 1일부터 Windows 10 Home은 Microsoft 클라우드 계약(CSP를 통해)을 통해 라이선스가 부여된 Education 고객을 위한 적격 운영 체제가 됩니다. 지금까지 VL(볼륨 라이선스) 교육 프로그램에서만 사용할 수 있었던 이 자격은 Microsoft 365 관리 포털 지원을 통해 사용하게 되었습니다. 
 
-## <a name="how-the-upgrade-process-works"></a>업그레이드 프로세스의 작동 방식
+## <a name="how-the-upgrade-process-works"></a>업그레이드 프로세스 작동 방식
 
-CSP 파트너는 고객을 대신 하 여 지원 요청을 제출 하 여 고객의 업그레이드를 지원할 수 있습니다. Microsoft 지원는 고객이 요구 하는 요청을 검토 합니다. 요청이 승인 되 면 지원에서 파트너에 게 Windows 10 Pro 교육 키를 제공 하 여 고객에 게 제공할 수 있습니다.
+CSP 파트너는 고객을 대신하여 지원 요청을 제출하여 고객의 업그레이드를 지원할 수 있습니다. Microsoft 지원는 고객이 요구 하는 요청을 검토 합니다. 요청이 승인 되 면 지원에서 파트너에 게 Windows 10 Pro 교육 키를 제공 하 여 고객에 게 제공할 수 있습니다.
 
-고객이 키를 설치 하 고 장치가 AAD (Azure Active Directory)를 통해 테 넌 트 도메인에 가입 되 면 해당 장치는 Windows 10 교육 (구독)으로 자동 업그레이드 됩니다.   
+고객이 키를 설치하고 디바이스가 AAD(Azure Active Directory)를 통해 테넌트 도메인에 가입되면 디바이스는 자동으로 Windows 10 Education(구독)으로 업그레이드됩니다.   
 
 ## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>고객이 Windows 10 교육을 받을 수 있는 단계별 프로세스
 
@@ -100,4 +100,4 @@ Windows 10 교육 업그레이드는 고객의 활성 Microsoft 365 A3/A5 또는
 다음 링크를 따라 자세히 알아보세요.
 
 - [Windows 교육 기능](https://www.microsoft.com/education/products/windows/features)
-- [Windows 교육 허브](https://docs.microsoft.com/education/windows/)
+- [Windows 교육 허브](/education/windows/)
