@@ -1,20 +1,20 @@
 ---
 title: 파트너 판매 연결 (PSC)에서 마이그레이션
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Microsoft 파트너가 파트너 판매 연결 (PSC)에서 파트너 센터로 마이그레이션하고 Microsoft 판매자가 보낸 거래를 만들거나 관리 하는 방법에 대해 알아봅니다.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999347"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381434"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999347"
 - PSC (파트너 판매 연결) 관리자
 - PSC (파트너 판매 연결) 거래 관리자
 
-아시다시피 회사는 2020 년 12 월 31 일 게시물에 대 한 액세스 권한을 잃게 됩니다. 그러나 공동 판매 거래를 만들고 거래 센터에서 Microsoft 판매자가 보낸 거래를 담당 하는 거래를 관리 하는 데 필요한 모든 것을 찾을 수 있습니다. 차이점은 다음과 같습니다. 다음 지침은 파트너 센터를 보다 자연스럽 게 전환 하는 데 도움이 됩니다.
+아시다시피 회사는 2021 년 3 월 31 일 게시물에 대 한 액세스 권한을 잃게 됩니다. 그러나 공동 판매 거래를 만들고 거래 센터에서 Microsoft 판매자가 보낸 거래를 담당 하는 거래를 관리 하는 데 필요한 모든 것을 찾을 수 있습니다. 차이점은 다음과 같습니다. 다음 지침은 파트너 센터를 보다 자연스럽 게 전환 하는 데 도움이 됩니다.
 
 >[!Important]
 > 여기에 있는 경우 마이그레이션에 대 한 해당 배너를 볼 수 있기 때문에 올바른 위치에 있습니다. 이 가이드는 PSC에서 거래를 관리 하는 SA (솔루션 평가) 및 OEM IOT 파트너에 게는 적용 되지 않습니다.
@@ -47,7 +47,7 @@ ms.locfileid: "90999347"
 >[!Important]
 > PSC 배너에 표시 된 MPN ID를 파트너 센터의 MPN 위치 목록에서 사용할 수 있는지 확인 합니다. 파트너 센터 계정에 연결 된 모든 MPNs 목록을 찾기 위해 "계정 설정" 및 "[위치](manage-locations.md)"로 이동 하 여 파트너 센터에서이를 확인할 수 있습니다.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="파트너가 MPN ID를 찾을 수 있는 PSC 배너를 표시 하는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="파트너가 MPN ID를 찾을 수 있는 PSC 배너를 표시 하는 이미지입니다.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>사용자가 거래 관리자 또는 판매자 인 경우
 
@@ -63,26 +63,55 @@ ms.locfileid: "90999347"
 
 - 회사의 [전역 관리자](permissions-overview.md) 가 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 선택 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다. 그러면 해당 전자 메일 Id가 있는 모든 전역 관리자가 페이지에 표시 됩니다. 회사 계정에 대 한 "조회 관리자" 액세스 권한을 얻으려면 담당자에 게 문의 하세요.
 
->[!Important]
-> 사용자의 역할이 PSC의 사용자만 관리 하는 경우 파트너 센터의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 역할을 얻을 수 있습니다. 공동 판매 기회 관리를 포함 하는 역할도 포함 하는 경우에는 [조회 관리자](permissions-overview.md#manage-referrals) 역할을 가져와야 합니다. 또한 하나의 변경 관리를 추천 PC의 계정 관리자에 게 각각 연결 되는 모든 PSC 관리자 대신 파트너 센터 계정 관리자와 함께 사용할 수 있습니다.
+  >[!Important]
+  > 사용자의 역할이 PSC의 사용자만 관리 하는 경우 파트너 센터의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 역할을 얻을 수 있습니다. 공동 판매 기회 관리를 포함 하는 역할도 포함 하는 경우에는 [조회 관리자](permissions-overview.md#manage-referrals) 역할을 가져와야 합니다. 또한 하나의 변경 관리를 추천 PC의 계정 관리자에 게 각각 연결 되는 모든 PSC 관리자 대신 파트너 센터 계정 관리자와 함께 사용할 수 있습니다.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="파트너 설정 사용자 관리 페이지에서 계정 관리자를 표시 하는 이미지입니다.":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="파트너 설정 사용자 관리 페이지에서 계정 관리자를 표시 하는 이미지입니다.":::
 
 - 왼쪽 탐색 창에서 조회 탭으로 이동 하 여 페이지에 액세스할 수 있는지 확인 합니다.
 
+  >[!Note]
+  > 파트너 센터에서 로그 아웃 했다가 다시 로그인 하 여 조회 페이지에 액세스 하기 위한 자격 증명을 새로 고쳐야 할 수도 있습니다.
+
+## <a name="user-migration"></a>사용자 마이그레이션
+
+파트너 센터에서 계정을 설정한 후 공동 판매 기회 페이지의 사용자 마이그레이션 마법사를 사용 하 여 파트너 센터 역할을 회사 직원에 게 자동으로 할당 합니다.
+
 >[!Note]
-> 파트너 센터에서 로그 아웃 했다가 다시 로그인 하 여 조회 페이지에 액세스 하기 위한 자격 증명을 새로 고쳐야 할 수도 있습니다.
+> 사용자 마이그레이션은 회사의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 만 수행할 수 있습니다. 계정 관리자 역할이 없으면 사용자 마이그레이션 마법사를 사용 하 여 사용자 계정을 설정 하는 데 도움이 될 수 있는 계정 관리자를 찾습니다. 사용자 마이그레이션 기능은 2020 년 11 월 16 일부터 사용할 수 있습니다.
 
-파트너 센터에서 계정을 설정한 후
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="사용자 마이그레이션 마법사를 표시 하는 이미지입니다.":::
 
-- 다음 단계로, PSC에서 역할이 "거래 관리자" 또는 "판매자" 인 모든 사용자를 파트너 센터에 초대 합니다.
-- 조회 액세스를 제공한 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 는 모든 사용자를 초대할 수 있습니다.
-- 사용자를 초대 하는 동안 계정 관리자에 게 [조회 관리자](permissions-overview.md#manage-referrals) 역할을 할당 하도록 요청 합니다.
-- 일부 PSC 사용자가 파트너 센터에서 사용 중인 계정이 아닌 다른 계정 또는 도메인의 계정을 사용할 수 있습니다. 이러한 모든 사용자는 Azure AD 테 넌 트에 연결 된 회사 계정을 사용 하 여 파트너 센터에 로그인 해야 합니다. [전역 관리자](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 는이를 지원할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다.
-- 전역 관리자는 Azure AD 테 넌 트에서 새 사용자 계정을 만들거나 다른 도메인 계정 사용자에 게 게스트 사용자 액세스 권한을 할당할 수 있습니다.
-- 모든 PSC 거래 관리자 및 사용자에 대 한 계정이 설정 되 면 파트너 센터에 로그인 하 고 왼쪽 탐색에서 조회 탭으로 이동한 다음 조회 페이지를 볼 수 있는지 확인 해야 합니다.
+계정 관리자가 조회 가이드 옆의 공동 판매 기회 페이지에서 PSC 사용자 마이그레이션 마법사 링크를 가져옵니다. 링크를 클릭 하 여 사용자 마이그레이션을 시작할 수 있습니다. 이 작업은 회사에서 마이그레이션하려는 모든 사용자에 게 파트너 센터에서 적절 한 역할이 할당 될 때까지 여러 번 수행할 수 있습니다.
+
+사용자 마이그레이션 테이블에는 다음과 같은 세부 정보가 있습니다.
+
+- 사용자 계정-직원의 전자 메일 ID
+- PSC 파트너 계정-PSC에서 직원이 연결 된 계정
+- PSC 사용자 역할-PSC에서에 할당 된 세 가지 역할 중 하나입니다.
+- PC MPN location-사용자에 게 관련 PC 역할을 부여 하는 위치입니다. PSC 파트너 계정 MPN는 사용 권한을 할당 하기 위해 파트너 센터에서 동등한 MPN 위치를 찾는 데 사용 됩니다. 전체 조직은 vOrg MPN ID를 나타냅니다.
+- PC 사용자 역할-직원은 PSC 사용자 역할에 따라 역할이 할당 됩니다. PSC의 관리자에 게는 PC에서 조회 관리자 역할이 할당 됩니다. 판매자에 게는 PC에서 조회 사용자 역할이 할당 됩니다. PC 역할 및 [파트너 센터에서](permissions-overview.md#manage-referrals) 이러한 역할의 사용자가 수행할 수 있는 작업에 대 한 자세한 정보
+- PC AAD 테 넌 트-파트너 센터에서 사용자가 할당 된 테 넌 트
+- 상태-마이그레이션의 상태에 대해 세 가지 가능한 상태가 있습니다.
+    - 마이그레이션되지 않음-사용자에 게 PC 조회 역할이 할당 되지 않았습니다.
+    - 마이그레이션된 사용자가 테이블에 표시 된 대로 할당 된 관련 역할과 함께 성공적으로 마이그레이션 되었습니다.
+    - 오류-일부 오류로 인해 마이그레이션을 완료할 수 없습니다.
+
+다음과 같이 솔루션이 제공 되는 일부 조건에서 마이그레이션이 실패 하 고 오류가 발생할 수 있습니다.
+
+1. PSC 사용자가 비 회사 계정을 사용 하 고 있을 수 있습니다.
+
+2. PSC 사용자는 파트너 센터에서 사용 중인 도메인과 다른 도메인의 계정을 사용할 수 있습니다.
+
+   - 시나리오 1 및 2와 관련 된 오류를 해결 하려면 모든 사용자가 Azure AD 테 넌 트에 연결 된 회사 계정을 사용 하 여 파트너 센터에 로그인 해야 합니다. [전역 관리자](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 는이를 지원할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터의 오른쪽 위에 있는 기어 아이콘에서 파트너 설정으로 이동 합니다. 왼쪽 탐색 모음의 두 번째 수준에서 사용자 관리 페이지를 클릭 합니다. 페이지의 오른쪽 위에 "모든 사용자"가 표시 되는 드롭다운을 클릭 하 고 "전역 관리자"로 변경 합니다. 전역 관리자는 Azure AD 테 넌 트에서 새 사용자 계정을 만들거나 다른 도메인 계정 사용자에 게 게스트 사용자 액세스 권한을 할당할 수 있습니다. 모든 PSC 거래 관리자 및 사용자에 대 한 계정이 설정 되 면 파트너 센터에 로그인 하 고 왼쪽 탐색에서 조회 탭으로 이동한 다음 조회 페이지를 볼 수 있는지 확인 해야 합니다.
+
+3. 파트너 센터에서 사용자에 게 이미 할당 된 조회 역할이 있습니다.
+    - 계정 설정의 사용자 관리 페이지에서 사용자의 기존 역할을 확인 하 고 필요에 맞게 수정할 수 있습니다.
+
+사용자 마이그레이션을 완료 한 후에는 다음 지침을 사용 하 여 마이그레이션 전략을 결정 합니다. 
 
 회사에 PDM이 있는 경우-파트너 센터 계정이 설정 되 고 사용자가 이동 하 여 역할 및 사용 권한을 보유 하는 경우 공동 판매 작업을 파트너 센터로 이동할 수 있습니다. 마이그레이션이 완료 될 때까지 기다리지 않고 스위치를 설정 하 여 모든 새 거래를 파트너 센터로 이동 하 게 하는 것을 PDM에 알립니다.
+
 >[!Note]
 >이 스위치를 만든 후에는 PSC의 기존 활성 거래에 대해서만 작업을 수행할 수 있습니다. 새 거래를 만들거나 PSC의 Microsoft 판매자 로부터 거래를 받을 수 없습니다.
 
@@ -128,7 +157,7 @@ ms.locfileid: "90999347"
 - 게임 역할은 PC의 필수 필드가 아닙니다. 이러한 워크플로는 워크플로를 표시 하거나 캡처하지 않습니다. 이는 거래에 추가 된 솔루션을 기준으로 Microsoft 판매자 쪽에서 자동으로 파생 됩니다.
 - 마지막으로 수정한 날짜는 PC의 조회 세부 정보 페이지에 표시 되지 않습니다. 파트너는 정렬 기능을 사용 하 여 마지막으로 업데이트 된 날짜를 기준으로 거래를 정렬할 수 있습니다.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="파트너 판매 연결 (PSC) 그리드 뷰와 파트너 센터 거래 뷰 간의 필드 매핑을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="파트너 판매 연결 (PSC) 그리드 뷰와 파트너 센터 거래 뷰 간의 필드 매핑을 보여 주는 이미지입니다.":::
 
 **PSC 및 파트너 센터의 거래 세부 정보 보기**
 
@@ -141,11 +170,11 @@ ms.locfileid: "90999347"
 >[!Note]
 >성공 또는 분실으로 표시 된 모든 거래는이 게시물을 편집할 수 없습니다. 거래를 이러한 터미널 상태 중 하나로 이동 하는 동안 주의를 기울여야 합니다.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="파트너 판매 연결 (PSC) 거래 세부 정보 보기와 파트너 센터의 세부 정보 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="파트너 판매 연결 (PSC) 거래 세부 정보 보기와 파트너 센터의 세부 정보 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
 
 **' 제품 추가 ' 뷰 및 파트너 센터 ' 솔루션 추가 ' 보기**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="파트너 판매 연결 (PSC) 제품 보기와 파트너 센터 추가 솔루션 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="파트너 판매 연결 (PSC) 제품 보기와 파트너 센터 추가 솔루션 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
 
 **PSC 및 파트너 센터의 사용자 관리**
 
@@ -156,11 +185,11 @@ ms.locfileid: "90999347"
 - PSC 관리자에 대 한 동등한 역할은 파트너 센터의 계정 관리자 역할입니다.
 - 파트너 센터에는 조회 관리자 역할인 공동 판매 거래 관리를 위한 역할이 하나만 있습니다.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="파트너 판매 연결 (PSC) 역할 할당 보기와 파트너 센터 역할 할당 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="파트너 판매 연결 (PSC) 역할 할당 보기와 파트너 센터 역할 할당 보기 간의 필드 매핑을 보여 주는 이미지입니다.":::
 
 **PSC 및 파트너 센터의 알림**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="PSC (파트너 판매 연결) 알림과 파트너 센터 알림 보기 간의 매핑을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="PSC (파트너 판매 연결) 알림과 파트너 센터 알림 보기 간의 매핑을 보여 주는 이미지입니다.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>PSC에서 파트너 센터로 이동-질문과 대답
 
@@ -246,7 +275,9 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 |비즈니스 프로필 만들기 및 관리|[비즈니스 프로필 관리](./create-a-marketing-profile.md)
 |비즈니스 프로필에 대 한 잠재 고객 관리 |[잠재 고객 관리](./manage-leads.md)|
 
-## <a name="additional-resources"></a>추가 리소스
+## <a name="next-steps"></a>다음 단계
+
+다음 추가 리소스를 따르세요.
 
 - 파트너 [판매 파트너 센터 통합 문서에 연결](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -파트너 센터 및 파트너 판매 연결을 통해 파트너의 판매 프로세스 및 역할을 새 판매 프로세스와 맞춥니다.
 - [파트너 센터 공동 판매 운영 가이드](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -파트너 센터를 통해 운영 모델을 식별 하 여 잠재 고객 또는 공동 판매 기회를 관리 하 고 거래를 등록 하는 지침을 제공 합니다.

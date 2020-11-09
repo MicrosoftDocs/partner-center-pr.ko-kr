@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174841"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381412"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>계정 설정 또는 MPN 갱신 문제 해결
 
@@ -38,7 +38,7 @@ ms.locfileid: "92174841"
 **수락** 을 선택 하 고 **계속** 진행 합니다.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 부서가 **파트너 센터 등록을 해제 한**경우
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 부서가 **파트너 센터 등록을 해제 한** 경우
 
 바 이럴 사용자를 사용할 수 없거나 Azure AD 테 넌 트에서 바 이럴 등록을 사용할 수 없기 때문에이 메시지가 표시 됩니다. Azure AD 계정에 대 한 전역 관리자는 다음 PowerShell 명령을 실행 하 여 필요한 기능을 사용 하도록 설정할 수 있습니다.
 
@@ -50,7 +50,7 @@ ms.locfileid: "92174841"
 
 암호를 잊은 경우 로그인 페이지에서 계정에 **액세스할 수 없습니까?** 링크를 선택 합니다. 이 옵션을 사용 하면 암호를 재설정 하거나 전역 관리자에 게 새 자격 증명을 할당 하도록 요청할 수 있습니다.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>"회사에 대 한 정보를 알려주세요." visualbasicwinappprojectscriptonlyviewbutton에 "문제가 발생 했습니다." 오류가 표시 됩니다.
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>"회사에 대해 알려주세요." 화면에서 "오류가 발생 했습니다." 오류가 표시 됩니다.
 
 회사 전화 번호에서 특수 문자, 공백 또는 국가 코드를 실수로 사용 하는 경우이 오류 메시지는 일반적으로 표시 됩니다. 전화 번호 필드에 입력 한 값은 최대 10 자만 포함할 수 있습니다.
 
