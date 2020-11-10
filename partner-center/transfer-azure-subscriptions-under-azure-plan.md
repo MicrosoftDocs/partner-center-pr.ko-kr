@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980264"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433350"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>고객의 Azure 계획 구독을 다른 파트너에 게 전송
 
-## <a name="applies-to"></a>적용 대상
+**적절한 역할**
 
 - CSP(클라우드 솔루션 공급자) 프로그램의 파트너
 
@@ -66,28 +66,31 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 
 이후 구독 파트너는 파트너 센터에서 전송 요청 양식을 완료 하 여 구독 전송을 요청 해야 합니다.
 
-1.  파트너 센터 메뉴에서 **고객**을 선택한 다음 대신 전송 요청 양식을 완료 하려는 고객을 선택 합니다.
-2.  고객 메뉴에서 **구독**을 선택 합니다.
+1.  파트너 센터 메뉴에서 **고객** 을 선택한 다음 대신 전송 요청 양식을 완료 하려는 고객을 선택 합니다.
+2.  고객 메뉴에서 **구독** 을 선택 합니다.
 3.  **전송 요청** 섹션을 선택 합니다.
-4.  **전송 요청 섹션**에서 **새 요청 추가**를 선택 합니다.
+4.  **전송 요청 섹션** 에서 **새 요청 추가** 를 선택 합니다.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="전송 섹션":::
 
 5.  **새 전송 요청** 양식을 작성 합니다.
 
-6.  **전송 전송 요청**  >  **보내기**를 선택 합니다.
+6.  **전송 전송 요청**  >  **보내기** 를 선택 합니다.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="전송 섹션":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="전송 요청 양식 완료":::
 
 7.  전송 요청 확인 검토
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="전송 섹션" 이면 취소가 가능 하지 않습니다.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="보류 중인 전송 검토":::
+
+    >[!Note]
+    >이후 파트너는 전송 요청 상태가 "보류 중" 인 경우에만 오른쪽 위 모서리에서 **요청 취소** 를 선택 하 여 전송 요청을 취소할 수 있습니다. 전송 요청 상태가 "진행 중" 또는 "완료" 이면 취소가 가능 하지 않습니다.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>완료할 현재 파트너 작업
 
 현재 파트너의 고객 관리 에이전트는 고객의 구독 전송을 요청 하는 전자 메일을 받게 됩니다.
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="전송 섹션":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="검토":::
 
 파트너 센터에서 전송 요청 양식을 검토 하 고 수락 하 여 구독 이전을 완료 합니다.
 
@@ -95,12 +98,12 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 >현재 파트너가 30 일 내에 작업을 수행 하지 않으면 요청이 만료 되 고 이후 파트너는 새 전송 요청을 만들기 위한를 갖게 됩니다.
 
 1.  전자 메일에서 **전송 요청 검토** 를 선택 하거나
-1.  파트너 센터 메뉴에서 **고객**을 선택한 다음를 대신 하 여 전송 요청을 제출 하는 고객을 선택 합니다.
-2.  고객 메뉴에서 **구독**을 선택 합니다.
+1.  파트너 센터 메뉴에서 **고객** 을 선택한 다음를 대신 하 여 전송 요청을 제출 하는 고객을 선택 합니다.
+2.  고객 메뉴에서 **구독** 을 선택 합니다.
 3.  **전송 요청** 섹션을 선택 합니다.
 4.  **받은 요청** 에서 선택한 **전송 요청 ID** 를 선택 하 여 전송 정보를 확장 합니다.
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="전송 섹션":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="원본 검토 전송 요청":::
 
 5.  전송 요청을 검토 합니다. 전송할 요청 된 Azure 구독을 선택 합니다.
 
@@ -111,7 +114,7 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 
 6.  그런 다음 **수락 및 전송** 을 선택 하 여 전송 프로세스를 완료 합니다.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="전송 섹션":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure 요금제로 전송할 구독 선택":::
 
 7.  전송 승인 확인을 표시 합니다.
 
