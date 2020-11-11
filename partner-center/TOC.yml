@@ -324,6 +324,25 @@
     - name: 지불 및 수익 문제 해결
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: CHIP(채널 인센티브 플랫폼)에서 작업
+      items:
+        - name: CHIP 탐색
+          href: chip-intro.md
+          displayName: chip
+        - name: CHIP 계정에 사용자 추가
+          href: chip-users.md
+        - name: CHIP에서 수익 보기
+          href: chip-earnings.md
+        - name: CHIP에서 결제 상태 확인
+          href: chip-payment-status.md
+        - name: 계약에 대한 데스크톱 수 및 요금 수준 찾기
+          href: chip-locate-agreement.md
+        - name: 솔루션 평가 자격
+          href: chip-solution-assessment.md
+        - name: 솔루션 평가 결제 상태
+          href: chip-solution-assessment-payment.md
+        - name: CHIP 액세스 문제
+          href: chip-access-trouble.md
 - name: 청구 및 세금
   href: billing.md
   displayName: trial
