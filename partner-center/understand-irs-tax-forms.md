@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032036"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487876"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft에서 발급하는 IRS 세금 양식 이해
 
@@ -23,11 +23,11 @@ ms.locfileid: "92032036"
 
 | IRS 세금 형태 | Description | 가용성 |
 |--------------|-------------|--------------|
-|1099-기타, 1099-K | Microsoft의 마켓플레이스 참여를 위해 판매 활동 및/또는 지불 관련 | 인쇄 된 양식은 **1 월 31**일 이전에 postmarked 되며, .pdf 복사본은 [파트너 센터](https://partner.microsoft.com/dashboard) 에서 사용할 수 있습니다 ( **파트너 센터 계정 설정** **지급 및 세금 > 지급 및 세금 프로필**). |
-|1042-S | 미국 원천 세금이 적용 되는 귀하에 대 한 지불액과 관련 | 인쇄 된 양식은 **3 월 15**일 이전에 postmarked 되며, .pdf 복사본은 파트너 센터에서 사용할 수 있습니다 ( **지급 및 세금 > 지급 및 세금 프로필**의 **파트너 센터 개발자 설정** ).  |
+|1099-기타, 1099-K | Microsoft의 마켓플레이스 참여를 위해 판매 활동 및/또는 지불 관련 | 인쇄 된 양식은 **1 월 31** 일 이전에 postmarked 되며, .pdf 복사본은 [파트너 센터](https://partner.microsoft.com/dashboard) 에서 사용할 수 있습니다 ( **파트너 센터 계정 설정** **지급 및 세금 > 지급 및 세금 프로필** ). |
+|1042-S | 미국 원천 세금이 적용 되는 귀하에 대 한 지불액과 관련 | 인쇄 된 양식은 **3 월 15** 일 이전에 postmarked 되며, .pdf 복사본은 파트너 센터에서 사용할 수 있습니다 ( **지급 및 세금 > 지급 및 세금 프로필** 의 **파트너 센터 개발자 설정** ).  |
 
 > [!NOTE]
-> IRS 세금 양식에서 사용 하는 주소는 [세금 프로필](/azure/marketplace/marketplace-payout-account-setup)의 주소에서 제공 됩니다. 주소가 변경 된 경우 **세금 프로필**의 주소를 업데이트 해야 합니다.
+> IRS 세금 양식에서 사용 하는 주소는 [지급 계정과 세금 양식을 설정할](set-up-your-payout-account.md)때 세금 프로필의 주소에서 제공 됩니다. 주소가 변경 된 경우 **세금 프로필** 의 주소를 업데이트 해야 합니다.
 
 세금 형태는 다음 주소에서 사용자에 게 전송 됩니다.
 
@@ -53,12 +53,12 @@ ms.locfileid: "92032036"
 
 | 유료 앱을 판매 하는 미국 개발자 인 경우   | 다음 양식을 받게 됩니다. |
 |------------------------|-----------------------|
-| **200 개 이상의 앱** **$2만** 판매가 적용 되는 해당 세금 연도 (브라질 및 중국에서 판매 된**판매를 제외** 하 고 Windows 10의 Microsoft Store를 통해 판매를 제외)| **1099-K:**<br/>필터: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**중요:** 1099-K 폼에는 전체 **구매** 금액이 포함 되어 있으며 지불액은 없습니다.| 
+| **200 개 이상의 앱** **$2만** 판매가 적용 되는 해당 세금 연도 (브라질 및 중국에서 판매 된 **판매를 제외** 하 고 Windows 10의 Microsoft Store를 통해 판매를 제외)| **1099-K:**<br/>필터: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**중요:** 1099-K 폼에는 전체 **구매** 금액이 포함 되어 있으며 지불액은 없습니다.| 
 | (I) Minecraft Marketplace의 Windows 10 또는 (ii) 판매에 대 한 Microsoft Store 통해 브라질과 중국에서 만든 (i) 앱 판매에 대해 **최소 $10** 을 받았습니다.<br/><br/>**OR**<br/><br/>해당 세금 년도 (예: 콘테스트 지불 또는 판촉의 지불 또는 판촉)에서 Microsoft의 앱 판매와 관련 되지 않은 지불로 최소 $600을 받았습니다.| **1099-기타:**<br/>지불자: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**중요:** Microsoft에서 받은 지불 금액에 관계 없이 특정 비즈니스 엔터티에 1099-기타 양식이 수신 되지 않습니다.  자세한 내용은 세금 전문가에 게 문의 하세요.| 
-| 위의 항목이 적용 되지 않습니다.| 없음 |
+| 위의 항목이 적용 되지 않습니다.| None |
 | <br/><br/>**앱에서 광고를 판매 하는 미국 개발자 인 경우** |<br/><br/>**다음 양식을 받게 됩니다.** |
 |해당 하는 세금 연도의 앱에서 광고의 **지불에 최소 $600** 을 받았습니다. | **1099-기타:**<br/>지불자: Microsoft Online Inc.<br/>EIN: \* \* \* \* \* 0505<br/><br/>**중요:** Microsoft에서 받은 지불 금액에 관계 없이 특정 비즈니스 엔터티에 1099-기타 양식이 수신 되지 않습니다.  자세한 내용은 세금 전문가에 게 문의 하세요. |
-| 해당 세금 연도의 앱에서 광고의 **지불에서 $600 미만의 지불을** 받았습니다. | 없음 |
+| 해당 세금 연도의 앱에서 광고의 **지불에서 $600 미만의 지불을** 받았습니다. | None |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>미국 외부에 있는 개발자
@@ -74,7 +74,7 @@ ms.locfileid: "92032036"
 | **한 봉투에 1042-S 형식의 복사본이 3 개 있는 이유는 무엇 인가요?** | IRS 규정에는 다음 세 가지 형식의 복사본을 제공 해야 합니다.<br/><br/>-받는 사람 레코드에 대 한<br/>-미국 연방 세금 반환 (해당 하는 경우)을 사용 하 여 파일링 하기 위한 One<br/>-미국 주 세금 반환 (해당 하는 경우)을 포함 하는 항목 |
 
 > [!NOTE]
-> **IRS 세금 양식과**관련 된 추가 질문이 나 문제가 있는 경우 파트너 센터 대시보드의 [도움말 및 지원](https://partner.microsoft.com/dashboard/support/) 으로 이동 하세요. Microsoft는 특정 세금 환경과 관련 된 질문에 답변할 수 없습니다. 이러한 질문의 경우 세금 전문가에 게 조언을 문의 하세요.
+> **IRS 세금 양식과** 관련 된 추가 질문이 나 문제가 있는 경우 파트너 센터 대시보드의 [도움말 및 지원](https://partner.microsoft.com/dashboard/support/) 으로 이동 하세요. Microsoft는 특정 세금 환경과 관련 된 질문에 답변할 수 없습니다. 이러한 질문의 경우 세금 전문가에 게 조언을 문의 하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

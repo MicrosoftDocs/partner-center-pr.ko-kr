@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999707"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488087"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 품목을 읽는 방법에 대해 알아봅니다.
 
@@ -30,13 +30,14 @@ ms.locfileid: "90999707"
 - 청구 관리자
 - 글로벌 관리자
 
-**청구서**를 읽는 방법에 대 한 자세한 내용은 [청구서 읽기](read-your-bill.md)를 참조 하세요.
+**청구서** 를 읽는 방법에 대 한 자세한 내용은 [청구서 읽기](read-your-bill.md)를 참조 하세요.
 
 ## <a name="understand-reconciliation-file-fields"></a>조정 파일 필드 이해
 
 - [라이선스 기반 조정 파일 필드](license-based-recon-files.md)
 - [사용 빈도 기반 조정 파일 필드](usage-based-recon-files.md)
 - [매일 등급 사용 조정 파일 필드](daily-rated-usage-recon-files.md)
+- [일회성 구매 CSP 조정 파일 필드](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>조정 파일의 요금 유형 이해
 
@@ -50,11 +51,11 @@ ms.locfileid: "90999707"
 
 1. Microsoft Excel에서 조정 파일 (.csv 형식)을 엽니다.
 2. 파일의 첫 번째 열을 선택 합니다.
-3. **텍스트를 열로 변환 마법사**를 엽니다. 리본 메뉴에서 **데이터**를 선택 **하 고 열 텍스트를**선택 합니다.
-4. 마법사에서 **구분 기호로 분리 된 파일 형식**을 선택 합니다. 그다음에 **다음**을 선택합니다.
-5. **구분 기호** 필드에서 **쉼표**를 선택 합니다. **탭** 이 이미 선택 되어 있으면이 옵션을 선택 된 상태로 둘 수 있습니다. 그런 후 **다음**을 선택 합니다.
-6. **열 데이터 형식** 필드에서 **날짜: MDY**를 선택 합니다. 그다음에 **다음**을 선택합니다.
-7. **열 데이터 형식** 필드에서 모든 금액 열에 대해 **텍스트** 를 선택 합니다. 그런 다음, **마침**을 선택합니다.
+3. **텍스트를 열로 변환 마법사** 를 엽니다. 리본 메뉴에서 **데이터** 를 선택 **하 고 열 텍스트를** 선택 합니다.
+4. 마법사에서 **구분 기호로 분리 된 파일 형식** 을 선택 합니다. 그다음에 **다음** 을 선택합니다.
+5. **구분 기호** 필드에서 **쉼표** 를 선택 합니다. **탭** 이 이미 선택 되어 있으면이 옵션을 선택 된 상태로 둘 수 있습니다. 그런 후 **다음** 을 선택 합니다.
+6. **열 데이터 형식** 필드에서 **날짜: MDY** 를 선택 합니다. 그다음에 **다음** 을 선택합니다.
+7. **열 데이터 형식** 필드에서 모든 금액 열에 대해 **텍스트** 를 선택 합니다. **마침** 을 선택합니다.
 
 ## <a name="download-reconciliation-files-programmatically"></a>프로그래밍 방식으로 조정 파일 다운로드
 
@@ -78,17 +79,17 @@ ms.locfileid: "90999707"
 
 ### <a name="reseller-mpn-id"></a>대리점 MPN ID
 
-CSP 파트너가 직접 구독을 고객에 게 판매 하는 경우 **MPN id** 는 **MPN ID** 와 **재판매인 MPN id**로 두 번 나열 됩니다.
+CSP 파트너가 직접 구독을 고객에 게 판매 하는 경우 **MPN id** 는 **MPN ID** 와 **재판매인 MPN id** 로 두 번 나열 됩니다.
 
-CSP 파트너에 **MPN ID**가 없는 재판매인이 있는 경우이 값은 파트너의 **MPN id** 로 대신 설정 됩니다.
+CSP 파트너에 **MPN ID** 가 없는 재판매인이 있는 경우이 값은 파트너의 **MPN id** 로 대신 설정 됩니다.
 
-CSP 파트너가 **재판매인 MPN ID**를 제거 하는 경우이 값은 *-1*로 설정 됩니다.
+CSP 파트너가 **재판매인 MPN ID** 를 제거 하는 경우이 값은 *-1* 로 설정 됩니다.
 
-**재판매인 MPN ID**를 보거나 업데이트 하려면:
+**재판매인 MPN ID** 를 보거나 업데이트 하려면:
 
 1. 파트너 센터에 로그인합니다.
-2. 파트너 센터 메뉴에서 **고객**을 선택 합니다.
+2. 파트너 센터 메뉴에서 **고객** 을 선택 합니다.
 3. 목록에서 고객을 선택합니다.
-4. 고객 메뉴에서 **구독**을 선택 합니다.
+4. 고객 메뉴에서 **구독** 을 선택 합니다.
 5. 목록에서 구독을 선택 합니다.
 6. **업데이트** 를 선택 하 여 **재판매인 (MPN ID)** 을 변경 합니다.
