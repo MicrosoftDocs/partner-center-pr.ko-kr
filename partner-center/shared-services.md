@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333756"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532041"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>파트너가 각자의 용도에 맞게 Azure 구독을 구입할 수 있도록 Azure 파트너 공유 서비스를 추가 합니다.
 
-**적용 대상**
-
-- 파트너 센터
  
 **적절한 역할**
 
@@ -32,29 +29,29 @@ Azure 파트너 공유 서비스는 파트너가 각자의 용도에 맞게 Azur
 
 ## <a name="create-the-shared-services-tenant"></a>공유 서비스 테 넌 트 만들기
 
-1. **설정**  >  **계정 설정**  >  **공유 서비스**로 이동 합니다.
+1. **설정**  >  **계정 설정**  >  **공유 서비스** 로 이동 합니다.
 
    :::image type="content" source="images/sharedservices2.png" alt-text="계정 설정 > 공유 서비스":::
 
-2. 공유 서비스 테 넌 트가 아직 없는 경우 **공유 서비스 만들기**를 클릭 합니다.
+2. 공유 서비스 테 넌 트가 아직 없는 경우 **공유 서비스 만들기** 를 클릭 합니다.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="계정 설정 > 공유 서비스":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="공유 서비스 만들기":::
 
 3. 공유 서비스 테 넌 트를 만들고 공유 리소스 및 내부 워크 로드에 사용할 Azure CSP 공유 서비스 구독을 구매 합니다.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="계정 설정 > 공유 서비스":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="테 넌 트 만들기 및 구독 구매":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Azure-Internal/Shared Services 제안 정보
 
 - Azure-Internal/Shared Services 구독은 파트너가 Azure를 자체적으로 사용 하기 위해 파트너 센터를 통해 액세스 하는 CSP의 새로운 Azure 제품 유형입니다.
 
-- Azure-Internal/Shared Services 제품은 할인 및 성과급을 받을 수 없습니다.
+- Azure-Internal/Shared Services 제품은 할인 및 성과급을 받을 수 있습니다.  Azure 파트너 공유 서비스 구독은 자격을 받을 수 있으며, RIs를 구매 하는 데 사용할 수 있습니다.
 
 - Azure-Internal/Shared Services 제품은 공유 서비스 테 넌 트에만 적용할 수 있습니다.
 
 - Azure-Internal/Shared Services 구독의 기본 용도는 개발 목적으로 Azure를 사용할 수 있도록 하는 것입니다. 이 제품을 프로 비전 하는 데 사용 하는 공유 테 넌 트는 Office 365 또는 Dynamics 라이선스와 같은 다른 서비스에 사용할 수 없습니다.
 
-- 다른 구독과 마찬가지로 구독을 취소할 수 있습니다. **설정**  >  **보기 모든 설정**  >  **공유 서비스**로 이동 합니다. Azure-Internal/Shared Services 구독을 선택 하 고 취소 합니다.
+- 다른 구독과 마찬가지로 구독을 취소할 수 있습니다. **설정**  >  **보기 모든 설정**  >  **공유 서비스** 로 이동 합니다. Azure-Internal/Shared Services 구독을 선택 하 고 취소 합니다.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Azure 파트너 공유 서비스 사용량 세부 정보 액세스
 
@@ -78,3 +75,7 @@ BYOL 또는 APSS를 사용 하 여 배포 된 무료 서비스를 사용 하는 
 BYOL 및 무료 서비스 뿐만 아니라 사용 가능한 Marketplace 제품의 전체 카탈로그를 활용 하기 위해 CSP 파트너가 웹 직접 Azure 구독을 사용 하 여 공유 서비스를 배포 하는 것이 좋습니다.  이전에 Marketplace에서 타사 BYOL 및 무료 서비스 리소스를 배포 하 고 계속 사용 하 고 더 많은 타사 제품을 배포 하려는 CSP 파트너는 [기존 Azure 구독](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)을 웹 APSS으로 마이그레이션하는 것이 좋습니다.
 
 2019 년 3 월 1 일 이후 APSS 구독을 계속 사용 하려는 파트너와 새로운 타사 [Byol 서비스](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) 또는 무료 서비스를 배포 하려는 파트너는 isv의 지침에 따라 이러한 구독을 APSS 구독에 배포할 수 있습니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [CSP를 통해 소프트웨어 구독 판매](csp-software-subscriptions.md)

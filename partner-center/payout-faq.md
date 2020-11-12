@@ -4,15 +4,15 @@ description: 상업적 marketplace에서 지급에 대 한 일반적인 질문�
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175295"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532024"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>상업적 marketplace 지급에 대 한 일반적인 질문
 
@@ -32,7 +32,7 @@ ms.locfileid: "92175295"
 - 국가별 세금을 확인 하세요. 세금을 Microsoft에서 책임지는 국가의 경우 Microsoft는 게시자 소득에서 세금을 수집하고 공제합니다. 명세서에 표시된 거래 금액은 세후 금액입니다. [세금 세부 정보](tax-details-marketplace.md)를 참조하세요.
 - SaaS 및 IaaS 제품은 표준 20% 대신 10%에서 할인 된 에이전시 요금을 부과 하며, 90%의 소득 요금을 유지 합니다. 이 프로모션은 2021년 6월 30일까지 적용됩니다.
 
-**추가**정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 정보](payout-policy-details.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md), [상용 marketplace에서 유료](marketplace-get-paid.md), [세금 세부 정보](tax-details-marketplace.md), [지급 문](payout-statement.md), [상용 marketplace 분석의 주문 대시보드](/azure/marketplace/partner-center-portal/orders-dashboard)
+**추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 정보](payout-policy-details.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md), [상용 marketplace에서 유료](marketplace-get-paid.md), [세금 세부 정보](tax-details-marketplace.md), [지급 문](payout-statement.md), [상용 marketplace 분석의 주문 대시보드](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>소득 조정
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>지급 명세서를 분석의 주문 또는 사용 보고서에 맞게 조정하려면 어떻게 해야 하나요?
@@ -47,7 +47,7 @@ ms.locfileid: "92175295"
 - 기업 고객의 경우 게시자 소득이 구매 주문 날짜의 1-2 일 후에 표시 됩니다.
 - 기업 외 고객의 경우 고객 지불을 받은 후 1-2 일 후에 게시자 소득이 표시 됩니다.
 
-**추가**정보: [지급 문](payout-statement.md), [상용 marketplace 분석의 주문 대시보드](/azure/marketplace/partner-center-portal/orders-dashboard)
+**추가** 정보: [지급 문](payout-statement.md), [상용 marketplace 분석의 주문 대시보드](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>지급 정책
 
@@ -60,7 +60,7 @@ ms.locfileid: "92175295"
 - 소득이 처리되지 않음 상태이면 소득이 지불 처리될 달의 만기일을 확인할 수 있습니다. 지불이 준비 되 면 획득 상태는 "처리 됨"으로 변경 됩니다.  Microsoft는 만기월 15일까지 지불을 지급합니다.
 - 신용 카드로 요금을 지불 하는 주문의 경우 Microsoft는 획득이 성숙 될 때까지 30 일간 지불 합니다.
 
- **추가**정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
+ **추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>지불 및 조정
 
@@ -71,7 +71,7 @@ ms.locfileid: "92175295"
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>결제를 수신 하지 않으려면 내 계정을 설정 어떻게 할까요??
-[지급 Profile](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지불을 유지할 수 있습니다. **보류**중을 선택 하기만 하면 됩니다. Microsoft는 보류를 해제할 때까지 지불을 보유 합니다.
+[지급 Profile](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지불을 유지할 수 있습니다. **보류** 중을 선택 하기만 하면 됩니다. Microsoft는 보류를 해제할 때까지 지불을 보유 합니다.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>구매 통화와 다른 통화로 받는 이유는 무엇인가요?
 
@@ -81,7 +81,7 @@ ms.locfileid: "92175295"
 
 지불 조정은 시스템 문제와 같은 보정 조정을 수용하기 위한 지불 수정입니다. 지급 명세서에서 ReasonCode에는 조정 이유를 지정합니다. 이는 개별 거래에 직접 조정하기 위한 것이 아닙니다.
 
-**추가**정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
+**추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>세금
 
@@ -104,16 +104,16 @@ ms.locfileid: "92175295"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>거래에 대한 원천징수세는 어떻게 찾을 수 있나요?
 원천징수세는 W-9 양식을 제출한 미국 게시자에게 적용됩니다. 원천징수세는 월별 지불로 계산됩니다.
 
-**추가**정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md)
+**추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>지급 문 액세스
 
 #### <a name="how-do-i-access-a-payout-statement"></a>지급 명세서에 액세스하려면 어떻게 해야 하나요?
 
 1. 사용자의 역할을 확인합니다. 지급 명세서에 액세스하려면 *금융 기여자* 또는 *계정 소유자* 역할이 있어야 합니다.
-2. 오른쪽 위 탐색에서 **지급** 아이콘을 선택 하 여 지급 문을 확인 합니다. **트랜잭션 기록**, **지불**및 **다운로드**중에서 선택 합니다.
+2. 오른쪽 위 탐색에서 **지급** 아이콘을 선택 하 여 지급 문을 확인 합니다. **트랜잭션 기록** , **지불** 및 **다운로드** 중에서 선택 합니다.
 
-**추가**정보: [지급 roles and permissions](payout-statement.md#roles-and-permissions), [지급 문](payout-statement.md) 
+**추가** 정보: [지급 roles and permissions](payout-statement.md#roles-and-permissions), [지급 문](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>지급 문 보고서
 
@@ -141,7 +141,7 @@ ms.locfileid: "92175295"
 
 연말 세금 양식을 보려면 [프로필 페이지](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)로 이동합니다.
 
-**추가**정보: [지급 문](payout-statement.md), [트랜잭션 기록 다운로드](payout-statement.md#transaction-history-download)
+**추가** 정보: [지급 문](payout-statement.md), [트랜잭션 기록 다운로드](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>거래 기록 명세서
 
@@ -149,7 +149,7 @@ ms.locfileid: "92175295"
 
 기록 명세서는 2019년 10월의 지급 데이터 스냅샷을 표시합니다. 그러나 여기에서 지급 정보는 새로 고쳐지지 않습니다. 최신 정보를 받으려면 최신 데이터에 대 한 지원 티켓을 제출 합니다.
 
-**추가**정보: [지급 문](payout-statement.md), [트랜잭션 기록 다운로드](payout-statement.md#transaction-history-download)
+**추가** 정보: [지급 문](payout-statement.md), [트랜잭션 기록 다운로드](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>지급 내보내기 API
 
