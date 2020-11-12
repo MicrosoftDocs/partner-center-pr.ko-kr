@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327498"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488117"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -23,6 +23,147 @@ ms.locfileid: "93327498"
 2020년 공지: [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | [10월](2020-October.md) | 11월
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 UI(사용자 인터페이스) 향상
+
+### <a name="categories"></a>범주
+
+- 날짜 2020-11-10
+- 기능 | 효율성 및 스케일링 향상
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 교육 기관 제품을 판매하는 파트너
+
+### <a name="summary"></a>요약
+
+이제 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 UI(사용자 인터페이스) 향상을 위한 테스트를 사용할 수 있습니다.
+
+### <a name="details"></a>설명
+
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 CSP 프로그램에서 교육 기관 제품을 거래할 수 있도록 최선을 다하고 있습니다. 이에 대한 일환으로 올해 2분기(FY21 Q2)에 파트너 센터 API 및 UI 향상을 소개할 예정입니다. 이러한 향상으로 고객 검증 프로세스에 대한 명확성과 가시성을 더해 줄 뿐만 아니라 보다 정확한 데이터를 입력할 수 있어 고객 유효성 검사의 성공률을 높일 수 있습니다.
+
+**파트너 센터의 향상된 기능**
+
+- 새로운 GET 및 POST 자격 API - 정확한 데이터 입력을 지원하고 Microsoft의 교육 기관 고객 유효성 검사 프로세스를 향상시킵니다.
+
+- UI 향상으로 정확한 데이터 입력을 지원하고 Microsoft의 교육 고객 유효성 검사 프로세스를 개선합니다.
+
+테스트
+
+성공적인 고객 유효성 검사에 필요한 API 및 데이터 입력에 대해 이해도를 높이기 위해 파트너는 2020년 10월부터 이러한 향상된 기능을 테스트할 수 있습니다. 정확한 타이밍과 참여 방법에 대한 자세한 내용은 곧 알려드리겠습니다. 기존 파트너 센터 API는 FY21 Q2 전에 사용 중지됩니다. 이때 새 파트너 센터 API로 전환해야 합니다.
+
+   - 테스트 사용 가능 파트너 테스트 날짜는 2020년 10월 2일부터 12월 2일까지입니다. 참여하려는 파트너는 준비 방법, 가입 방법 및 테스트 단계 중에 해야 할 일에 대한 파트너 센터 교육 고객 테스트 가이드를 다운로드해야 합니다.
+
+**도서관 및 박물관 고객**
+
+이러한 향상된 기능 외에도, FY21 Q2에는 도서관 및 박물관 고객에 대해 교육 기관이 책정한 가격 제안을 활성화하여 CSP 제품을 거래할 수 있는 교육 고객을 확장할 수 있음을 발표하게 되어 매우 기쁘게 생각합니다.
+
+Microsoft는 적격 교육 사용자로서 모든 고객 또는 제안된 고객의 상태를 검토할 수 있는 권리를 보유하고 있습니다. 자세한 내용은 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 참조하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+새로운 파트너 센터 UI 및 API 변경 사항, 그리고 [파트너 센터 교육 고객 검증 프로세스 개선 콘텐츠 컬렉션](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)의 테스트 가이드를 검토합니다.
+
+• 테스트에 참여하기 위해 가입합니다. (자세한 내용은 [테스트 가이드](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)를 참조하십시오.) 
+
+• 조직에서 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 잘 알고 있는지 확인합니다. 
+
+• 이러한 변경 사항에 대비하는 데 도움이 되도록 재판매인과 함께 이 정보를 조직 내의 적절한 팀과 공유합니다.
+
+
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>운영 준비 갤러리에서 상업용 라이선스 파트너 콘텐츠 확장
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-5
+- 기능
+
+### <a name="summary"></a>요약
+
+2020년 11월 5일부터 Partner University의 상업용 라이선싱 파트너 콘텐츠도 운영 준비 갤러리에서 제공됩니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+상업용 파트너
+
+### <a name="details"></a>세부 정보
+
+2020년 11월 5일부터 Partner University의 상업용 라이선싱 파트너 콘텐츠도 운영 준비 갤러리에서 제공됩니다. 이를 통해 운영 준비 갤러리에 있는 기존의 운영 및 상업용 라이선싱 파트너 출시 콘텐츠와 Partner University의 지속적인 상업용 라이선싱 파트너 콘텐츠를 통합합니다. 따라서 파트너에게 보다 원활한 준비 환경이 제공됩니다. 다음 컬렉션이 운영 준비 갤러리에 추가되었습니다.
+
+- [Microsoft Azure - 제품 및 라이선싱](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [상업용 라이선싱 - CSP 스포트라이트 호출](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [상업용 라이선싱 - 라이선싱 업데이트 통화](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>다음 단계
+
+이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams 룸 프리미엄 SKU 시작
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-3
+- 제품/시장
+
+### <a name="summary"></a>요약
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통한 Microsoft Teams용 Microsoft Teams 룸 프리미엄 SKU가 현재 제공되고 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+새로운 Microsoft Teams 룸용 Microsoft Teams 룸 프리미엄 SKU는 이제 파트너를 통해 CSP를 구매하는 고객에게 매월 디바이스당 USD50으로 제공됩니다. Microsoft Teams 룸 프리미엄 SKU는 Microsoft Teams 룸 표준 SKU(이전에는 미팅룸 라이선스라고 함)에 대한 대안입니다. 이 SKU에는 Microsoft Teams, 비즈니스용 Skype Online, Intune을 관리하는 데 필요한 라이선스와 같은 표준 제품의 모든 항목이 포함되어 있습니다. 또한 이 제품을 사용하면 PSTN(공중 전화망)을 통합하는 데 필요한 전화 시스템과 오디오 회의(가능한 경우)를 사용할 수 있습니다. 
+
+프리미엄 제품을 사용하면 고객이 새로 릴리스된 Microsoft Teams 룸 관리 서비스에 액세스할 수 있습니다. 이 서비스에서는 전문가가 고객을 대신하여 미팅룸의 관리 및 운영을 처리합니다. 이 클라우드 기반 IT 관리 및 모니터링 서비스는 Microsoft Teams 룸 디바이스와 주변 장치를 최신 상태로 안전하게 유지합니다. 또한 훌륭한 실내 환경에 최적화된 환경을 유지하면서 사전에 모니터링 및 관리됩니다.
+
+#### <a name="released-at-launch"></a>출시와 함께 릴리스
+
+   |****|**Microsoft Teams 룸 표준 USD15/월 디바이스**|**Microsoft Teams 룸 프리미엄 USD50/월 디바이스**|
+   |-------------------|:------|:------|
+   |비즈니스용 Skype|Yes| |
+   |Microsoft Teams|예|예|
+   |전화 시스템|예|예|
+   |오디오 회의|예|예|
+   |Microsoft Intune|예|예|
+   | |Microsoft Teams 룸 표준 USD15/월 디바이스|Microsoft Teams 룸 프리미엄 USD50/월 디바이스|
+   |Microsoft Teams 룸 관리 서비스| |Yes|
+   |전 세계 사용 가능|Yes|시장 선택 시|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams 룸 관리 서비스
+
+- 자동 관리: 패칭, 구성 관리 등을 포함한 룸 시스템에 대한 연중 무휴 관리
+•   실시간 모니터링 및 근본 원인 분석: 모니터링 및 검색: 필요한 경우 Microsoft에서 고객과 협력하여 추진하는 오케스트레이션된 인시던트 관리 응답을 사용하여 모니터링 및 검색 모바일 앱을 사용하면 이동 중에도 알림을 받을 수 있습니다.
+- 관리되는 업데이트: 애플리케이션, Windows KB 및 펌웨어 업데이트 관리 및 제공
+- 보안 위협 보호: Microsoft Defender Advanced Threat Protection을 통한 보안 위협 보호.
+- 고객 지원: 자동화되지 않은 사례에 대한 지원 인시던트 수정을 사용하여 전용 서비스 운영 센터를 통해 연중 무휴 티켓 지원 세분화된 역할 기반 액세스 제어.
+- 인사이트 및 추천 사항: 고객에 대해 집계된 인사이트 및 룸 상태, 재고, 사용 현황, 온라인 회의 및 인시던트 추세에 대한 보고서
+
+#### <a name="offer-details"></a>솔루션 세부 정보
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |Teams 룸 프리미엄|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams 룸 프리미엄(미국 및 캐나다)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |교직원용 Teams 룸 프리미엄|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>다음 단계
+
+- 새 제품 및 지리적 가용성을 숙지하려면 [FAQ(질문과 대답)]()를 방문하세요.
+- 새 제품 및 지리적 가용성에 익숙해지세요. 
+- Microsoft 룸 및 관련 제품에 대한 자세한 내용은 [Microsoft Team 룸](https://rooms.microsoft.com/)을 참조하세요.
+- [Teams 파트너 가이드](https://aka.ms/teamscallingmeetingsguide)를 사용하여 Teams 미팅룸과 관련된 사례를 개발하고 공동 판매 준비 제안을 작성합니다.
+- 제품 솔루션 및 서비스에 대해 자세히 알아보려면 [Microsoft Teams 룸 FAQ](https://aka.ms/PartnerMTRFAQ)를 검토하세요. 
+- 이 정보를 조직 내 모든 관련 담당자와 공유하고, 상향 판매 및 교차 판매 기회를 파악합니다.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>GCC(정부 커뮤니티 클라우드)를 위한 새로운 Microsoft Teams 고급 통신 SKU가 곧 출시 예정
 

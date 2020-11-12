@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132830"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433311"
 ---
 # <a name="october-2020-announcements"></a>2020년 10월 공지
 
@@ -23,6 +23,27 @@ ms.locfileid: "93132830"
 2020년 공지:  [3월](2020-march.md) | [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | 10월
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>통화 플랜 확장 수정 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-10-29
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+직접 공급자, 간접 공급자 및 간접 재판매인
+
+### <a name="details"></a>세부 정보
+
+2020년 10월 1일 [새로운 시장에서 Office 365 통화 플랜을 사용할 수 있음](2020-september.md#2)을 발표했습니다. 이 발표는 정확하지 않으며, 앞서 언급했듯이 국내 플랜의 경우 사용자당 월 240분을 사용할 수 없습니다. 
+
+
+통화 플랜에 대한 자세한 내용은 Microsoft Teams [제품 설명서](/microsoftteams/calling-plan-landing-page)를 참조하세요.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server 소프트웨어 구독 기능 업데이트
 

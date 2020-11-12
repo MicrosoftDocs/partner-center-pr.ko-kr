@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333915"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488134"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "94333915"
 
 | **범주** | **2020년 11월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 UI(사용자 인터페이스) 향상](2020-november.md#7)|11월 10일|
 |기능|[운영 준비 갤러리에서 상업적 라이선스 파트너 콘텐츠 확장](2020-november.md#6)|11월 2일|
 |제품/시장|[Microsoft Teams Rooms Premium SKU 시작](2020-november.md#5)|11월 2일|
 |제품/시장|[GCC(정부 커뮤니티 클라우드)를 위한 새로운 Microsoft Teams 고급 통신 SKU가 곧 출시 예정](2020-november.md#4)|11월 2일|
@@ -29,6 +30,7 @@ ms.locfileid: "94333915"
 |제품/시장|[비영리 조직용 Microsoft 365 Business Voice 소개](2020-november.md#2)|11월 2일|
 |제품/시장|[이제 Microsoft 365 Business Voice용 CSP(클라우드 솔루션 공급자) 프로모션을 사용할 수 있음](2020-november.md#1)|11월 2일|
 | **범주** | **2020년 10월 공지** | **날짜** |
+|제품/시장|[통화 플랜 확장 수정](2020-october.md#18)|10월 29일|
 |기능|[Windows Server 소프트웨어 구독 기능 업데이트](2020-october.md#17)|10월 29일|
 |기능|[이제 적격 CSP(클라우드 솔루션 공급자) Education 고객은 Windows 10 Education 업그레이드를 사용할 수 있습니다.](2020-october.md#16)|10월 28일|
 |기능|[새로 단장한 CSP(클라우드 솔루션 공급자) 디지털 환경 지금 이용 가능](2020-october.md#15)|10월 28일|
