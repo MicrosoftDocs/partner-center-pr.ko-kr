@@ -3,3 +3,7 @@
   items:
     - name: Azure Private Marketplace 만들기
       href: create-manage-private-azure-marketplace.md
+- name: 참조
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
