@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175237"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567093"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
 
@@ -31,15 +31,33 @@ ms.locfileid: "92175237"
 
 ## <a name="report-a-problem-with-the-partner-center"></a>파트너 센터의 문제 보고
 
-1. **파트너 센터** 대시보드에서 **지원** 을 선택 하 고 **파트너 지원 요청**을 선택 합니다.
+1. **파트너 센터** 대시보드에서 **지원** 을 선택 하 고 **파트너 지원 요청** 을 선택 합니다.
 
-2. **새 요청** 을 선택한 다음 문제를 가장 잘 설명 하는 문제 유형을 검색 합니다. 문제 유형을 선택 하 고 **솔루션을 검토**합니다.
+2. **새 요청** 을 선택한 다음 문제를 가장 잘 설명 하는 문제 유형을 검색 합니다. 문제 유형을 선택 하 고 **솔루션을 검토** 합니다.
 
 3. 문제를 해결 하는 데 도움이 될 수 있는 단계 또는 관련 문서를 보려면 **권장 솔루션** 페이지를 검토 합니다.
 
-4. **권장 해결 방법** 으로 문제를 해결 한 경우 **대시보드로 돌아가기**를 선택할 수 있습니다. 여전히 도움이 필요한 경우 계속 진행 하 여 **문제에 대 한 세부 정보를 제공할**수 있습니다.
+4. **권장 해결 방법** 으로 문제를 해결 한 경우 **대시보드로 돌아가기** 를 선택할 수 있습니다. 여전히 도움이 필요한 경우 계속 진행 하 여 **문제에 대 한 세부 정보를 제공할** 수 있습니다.
 
-5. **문제 세부 정보** 를 완료 한 후 **제출**합니다. 파트너 지원 담당자는 다음과 같은 작업을 수행 합니다.
+5. **문제 세부 정보** 를 완료 한 후 **제출** 합니다. 파트너 지원 담당자는 다음과 같은 작업을 수행 합니다.
+
+## <a name="schedule-a-support-appointment"></a>지원 약속 예약 
+
+**현재 미리 보기 상태*
+
+지원 서비스를 제공 하는 데 문제가 있는 경우 티켓 세부 정보에서 약속을 예약할 수 있습니다.
+
+:::image type="content" source="images/support/ticket.png" alt-text="지원 약속 예약":::
+
+1.  파트너 센터의 티켓 정보 페이지에서 지원 서비스의 일정에 대해 사용 가능한 날짜 및 시간을 선택 합니다. 현지 표준 시간대에서 사용 가능한 날짜 및 시간도 표시 됩니다.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="일정 예약":::
+
+2. 파트너 센터는 지원 서비스의 가용성에 대 한 일정을 확인 합니다.
+
+1. 약속을 예약할 때 파트너 센터는 지원 담당자가 연락 하는 방법에 대 한 정보가 포함 된 일정 초대를 보내 사용자의 작업 일정에 따라이 약속을 추적할 수 있습니다.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="날짜 및 시간":::
 
 ## <a name="send-diagnostics"></a>진단 보내기
 
@@ -65,3 +83,6 @@ ms.locfileid: "92175237"
 
 파트너 지원팀은 최신 정보를 얻을 수 있도록이 도구를 여러 번 실행 하도록 요청할 수 있습니다.
 
+## <a name="next-steps"></a>다음 단계
+
+- [고객을 대신 하 여 서비스 문제 보고](report-problems-on-behalf-of-a-customer.md)
