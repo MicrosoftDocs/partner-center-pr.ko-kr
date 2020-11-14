@@ -1,19 +1,19 @@
 ---
 title: 성과급 등록
 ms.topic: how-to
-ms.date: 09/25/2020
+ms.date: 11/12/2020
 description: 성과급 프로그램에 등록 하 고 사용자 관리에 필요한 역할을 할당 합니다. 이 문서에서는 등록 프로세스를 설명 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175191"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626017"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>성과급 프로그램의 등록 및 사용자 관리
 
@@ -23,7 +23,7 @@ ms.locfileid: "92175191"
 
 **적절한 역할:**
 
-- 인센티브 관리자
+- 동기 관리자
 
 >[!NOTE]
 >성과급 프로그램에 등록 하려면 먼저 파트너 구성원 센터에서 파트너 센터 [마이그레이션을](prepare-pmc-pc-migration.md)완료 해야 합니다.
@@ -41,13 +41,15 @@ ms.locfileid: "92175191"
 조직이 성과급을 받을 자격이 있으면 Microsoft는 계정 관리자 및 동기 관리자에 게 초대를 보냅니다.
 
 >[!NOTE]
->동기 관리자만이 동기 프로그램에 등록할 수 있습니다. 사용자의 위치에 대 한 동기 관리자가 없으면 전역 관리자 및 계정 관리자가 할당 해야 합니다. MPN Id 위치에 대해 동기 관리자를 할당 해야 합니다. 전역 관리자 또는 계정 관리자를 동기 관리자로 지정할 수도 있습니다.
+>동기 관리자만이 동기 프로그램에 등록할 수 있습니다. 사용자의 위치에 대 한 동기 관리자가 없으면 전역 관리자 및 계정 관리자가 할당 해야 합니다. MPN Id 위치에 대해 동기 관리자를 할당 해야 합니다. 전역 관리자 또는 계정 관리자를 동기 관리자로 지정할 수도 있습니다. 다른 역할에 대해 자세히 알아보려면 [성과급 관리](permissions-overview.md#manage-incentives)를 참조 하세요.
 
 ## <a name="enrollment-process"></a>등록 프로세스
 
-조직이 성과급을 받을 수 있는 경우 Microsoft는 적격 MPNLocationID의 성과급 관리자에 게 등록 프로세스를 시작 하 라는 초대를 보냅니다. 이 전자 메일은 **Microsoft 파트너 센터**에서 전송 되며 주체 **파트너 동기 등록 초대**를 갖게 됩니다. 초대를 열고 **시작**을 선택 합니다.
+조직이 성과급을 받을 자격이 있으면 Microsoft는 적격 MPNLocationID의 동기 관리자에 게 등록 프로세스를 시작 하 라는 초대를 보냅니다. 이 전자 메일은 **Microsoft 파트너 센터** 에서 전송 되며 주체 **파트너 동기 등록 초대** 를 갖게 됩니다. 초대를 열고 **시작** 을 선택 합니다.
 
-파트너 센터 홈페이지에 대 한 초대도 표시 됩니다. 해당 메시지를 선택 하면 다시 볼 수 없습니다. 그러나이 경우에도 성과급 관리자는 [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/) 에 로그인 하 고 **사용자 관리**를 선택 하 여 프로세스를 시작할 수 있습니다.
+파트너 센터 홈페이지에 대 한 초대도 표시 됩니다. 해당 메시지를 선택 하면 다시 볼 수 없습니다. 그러나 동기 관리자는 [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/) 에 로그인 하 고 왼쪽 탐색의 **성과급** 아래에서 **개요** 를 선택 하 여 프로세스를 완료할 수 있습니다. **등록** 을 선택 하 고 프로그램에 대 한 지급 및 세금 프로필을 완료 합니다.
+
+등록은 Microsoft에서 등록에 대해 제공한 지급 및 세금 프로필의 유효성을 검사 하는 경우에만 완료 된 것으로 간주 됩니다.
 
 특정 동기 프로그램은 자격 조건이 없으며 모든 파트너에 게 공개 됩니다. 동기 관리자는 해당 프로그램에 대 한 초대를 제공 합니다 .이 페이지에는 관련 된 동기 프로그램 및 MPN에 대 한 권한이 있는 경우 동기 개요 페이지가 표시 됩니다. Microsoft는 이러한 프로그램에 대 한 전자 메일 초대를 보내지 않습니다.
 
@@ -55,7 +57,7 @@ ms.locfileid: "92175191"
 
 ## <a name="expiration-and-renewal"></a>만료 및 갱신
 
-성과급 등록은 회계 연도가 종료 될 때 만료 됩니다. 그러나 활성 계약이 있는 적격 파트너를 유지 하는 한, Microsoft는 다음 회계 연도에 성과급 등록을 롤포워드 합니다. 아무 작업도 수행할 필요가 없습니다.
+성과급 등록은 회계 연도가 종료 될 때 만료 됩니다. 그러나 활성 계약이 있는 적격 파트너를 유지 하는 한, Microsoft는 다음 회계 연도에 성과급 등록을 롤포워드 합니다. 동기 프로그램에 필요한 지급 및 세금 정보가 동기 프로그램의 규칙에 따라 완료 되는 동안에는 어떤 조치도 취할 필요가 없습니다.
 
 ## <a name="next-steps"></a>다음 단계
 
