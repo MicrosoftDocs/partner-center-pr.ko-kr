@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: 파트너 센터 데이터 및 분석
   items:
-    - name: 사용자 데이터 및 분석 액세스
+    - name: 구독 데이터 및 분석에 액세스
       href: data-analysis-lp.md
     - name: Power BI용 분석 앱
       items:
@@ -628,7 +628,7 @@
       items:
         - name: 인사이트 정보
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: 인사이트 역할 기반 액세스
           href: pci-roles.md
         - name: 인사이트 보고서
