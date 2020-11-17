@@ -1,7 +1,7 @@
 ---
 title: 채택률 및 만족도 높이기
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 메트릭을 사용 하는 방법에 대해 알아봅니다. 메트릭은 비즈니스의 성장, 고객이 라이선스를 사용 하는 방법 및 투자에 집중 하는 위치를 표시할 수 있습니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545934"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691370"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>파트너 센터에서 메트릭을 사용 하 여 채택 및 만족도 향상
 
@@ -25,7 +25,7 @@ ms.locfileid: "87545934"
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - 관리 에이전트
 - 영업 상담원
@@ -49,13 +49,13 @@ ms.locfileid: "87545934"
 
 3. 고객을 선택 합니다.
 
-4. **Customer insights**를 선택 합니다.
+4. **Customer insights** 를 선택 합니다.
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>포트폴리오에서 라이선스 및 사용자 데이터 찾기
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. **분석**을 선택 하 고 메뉴의 분석 옵션 중 하나를 선택 합니다.
+2. **분석** 을 선택 하 고 메뉴의 분석 옵션 중 하나를 선택 합니다.
 
 3. 전체 고객 집합에서 배포 및 사용 현황 데이터를 다운로드 하려면 **내보내기** (아래쪽 화살표) 옵션을 선택 합니다.
 
@@ -67,7 +67,7 @@ ms.locfileid: "87545934"
 
 - **배포%** = 할당 된 라이선스/판매 된 라이선스
 
-- **사용량%** = 활성 자격/총 자격
+- **사용량%** = 활성 사용자 수/총 사용자 수
 
    사용 현황%가 팽창 또는 100% 보다 큰 경우도 있습니다. 여러 가지 이유로 이와 같은 현상이 발생할 수 있습니다.
 
@@ -89,7 +89,7 @@ ms.locfileid: "87545934"
 
 **고려할 사항**: 고객이 소프트웨어에서 제공할 수 있는 가치를 이해 하지 못할 수 있습니다. 사용자가 이미 수행 하 고 있는 작업을 간소화 하거나 새로운 종류의 생산성을 설정 하기 위해 해당 날짜에 통합할 수 있는 방법을 구상 하는 데 도움이 필요 합니다.
 
-**시도**대상: 사례 연구, 사용자 추천서 특정 시나리오, 자습서 블로그 또는 비디오에 대 한 정보를 제공 합니다.
+**시도** 대상: 사례 연구, 사용자 추천서 특정 시나리오, 자습서 블로그 또는 비디오에 대 한 정보를 제공 합니다.
 
 **문제**: 도움말 및 방법 질문에 대해 많은 양의 지원 호출이 있습니다.
 

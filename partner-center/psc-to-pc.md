@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381434"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670170"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -78,7 +78,7 @@ ms.locfileid: "94381434"
 파트너 센터에서 계정을 설정한 후 공동 판매 기회 페이지의 사용자 마이그레이션 마법사를 사용 하 여 파트너 센터 역할을 회사 직원에 게 자동으로 할당 합니다.
 
 >[!Note]
-> 사용자 마이그레이션은 회사의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 만 수행할 수 있습니다. 계정 관리자 역할이 없으면 사용자 마이그레이션 마법사를 사용 하 여 사용자 계정을 설정 하는 데 도움이 될 수 있는 계정 관리자를 찾습니다. 사용자 마이그레이션 기능은 2020 년 11 월 16 일부터 사용할 수 있습니다.
+> 사용자 마이그레이션은 회사의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 만 수행할 수 있습니다. 계정 관리자 역할이 없으면 사용자 마이그레이션 마법사를 사용 하 여 사용자 계정을 설정 하는 데 도움이 될 수 있는 계정 관리자를 찾습니다. 2020 년 11 월 18 일부 터 사용자 마이그레이션 기능을 사용할 수 있습니다.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="사용자 마이그레이션 마법사를 표시 하는 이미지입니다.":::
 
