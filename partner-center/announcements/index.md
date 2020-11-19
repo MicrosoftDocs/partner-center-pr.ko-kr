@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488134"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691319"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "94488134"
 
 | **범주** | **2020년 11월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경](2020-november.md#10)|11월 17일|
+|기능|[파트너 센터 API에 대한 API 제한](2020-november.md#9)|11월 17일|
+|기능|[중복된 MCA 요청으로 인한 409 오류](2020-november.md#8)|11월 16일|
 |기능|[테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 UI(사용자 인터페이스) 향상](2020-november.md#7)|11월 10일|
 |기능|[운영 준비 갤러리에서 상업적 라이선스 파트너 콘텐츠 확장](2020-november.md#6)|11월 2일|
 |제품/시장|[Microsoft Teams Rooms Premium SKU 시작](2020-november.md#5)|11월 2일|
