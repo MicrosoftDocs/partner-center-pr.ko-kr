@@ -8,12 +8,12 @@ description: Dynamics 365 CRM 용 공동 판매 커넥터와 파트너 센터의
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031336"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947777"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -50,7 +50,7 @@ ms.locfileid: "92031336"
 
 5. **Dynamics365에 대 한 파트너 센터 조회 커넥터** 를 검색 합니다.  
 
-6. **지금 가져오기** 단추를 클릭 한 다음 **계속**합니다.
+6. **지금 가져오기** 단추를 클릭 한 다음 **계속** 합니다.
 
 7. 그러면 응용 프로그램을 설치할 CRM (Dynamics 365) 환경을 선택할 수 있는 페이지가 열립니다.  사용 약관에 동의 합니다.
 
@@ -58,9 +58,9 @@ ms.locfileid: "92031336"
 
 9. 설치가 완료 되 면 [전원 자동화](https://flow.microsoft.com) 로 다시 이동 하 여 왼쪽 탐색 영역에서 **솔루션** 을 선택 합니다. **Dynamics 365에 대 한 파트너 센터 조회 동기화** 는 솔루션 목록에서 확인할 수 있습니다.
 
-10. **Dynamics 365에 대 한 파트너 센터 조회 동기화를**선택 합니다. 다음과 같은 전원 자동화 흐름과 엔터티를 사용할 수 있습니다.
+10. **Dynamics 365에 대 한 파트너 센터 조회 동기화를** 선택 합니다. 다음과 같은 전원 자동화 흐름과 엔터티를 사용할 수 있습니다.
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="AppSource 열기":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="사용 가능한 CRMS":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>모범 사례: 라이브 상태로 전환 하기 전에 테스트
 
@@ -75,6 +75,7 @@ ms.locfileid: "92031336"
 
 1. CRM 인스턴스에 솔루션을 설치한 후에는 [전원 자동화](https://flow.microsoft.com/)로 다시 이동 합니다.
 
+
 2. 오른쪽 상단 모서리의 **환경** 드롭다운에서 전원 자동화 솔루션을 설치한 CRM 인스턴스를 선택 합니다.
 
 3. 세 가지 사용자 계정을 연결 하는 연결을 만들어야 합니다.
@@ -87,9 +88,9 @@ ms.locfileid: "92031336"
 
       1. 왼쪽 탐색 모음에서 **연결** 을 선택 하 고 목록에서 "파트너 센터 조회" 솔루션을 선택 합니다.
 
-      2. **연결 만들기**를 클릭 하 여 연결을 만듭니다.
+      2. **연결 만들기** 를 클릭 하 여 연결을 만듭니다.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="AppSource 열기":::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="연결 만들기":::
 
       3. 오른쪽 위 모서리의 검색 창에서 **파트너 센터 조회 (미리 보기)** 를 검색 합니다.
 
@@ -98,10 +99,31 @@ ms.locfileid: "92031336"
       5. 다음으로, 조회 관리자의 자격 증명을 사용 하 여 파트너 센터 사용자에 대 한 파트너 센터 이벤트 연결을 만듭니다.
 
       6. CRM 관리자 사용자에 대 한 Common Data Service (현재 환경)에 대 한 연결을 만듭니다.
+       
+     
+      7. 모든 연결을 추가 하면 사용자 환경에 다음 연결이 표시 됩니다.
 
-4. 전원 자동화 흐름을 연결과 연결 하려면 각 전원 자동화 흐름을 편집 하 여 Common Data Service 및 파트너 센터 조회에 연결 합니다. 변경 내용을 저장합니다.
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="연결":::
+   
+## <a name="edit-the-connections"></a>연결 편집
 
-5. 전원 자동화 흐름을 **켭니다** .
+1. **솔루션** 페이지로 돌아가서 **기본 솔루션** 을 선택 합니다. **모두** 를 클릭 하 여 **연결 참조 (미리 보기)** 를 선택 합니다.
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="연결":::
+
+2. 세 개의 점 아이콘을 선택 하 여 각 연결을 하나씩 편집 합니다. 관련 연결을 추가 합니다.
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="연결 나열"::: 
+
+3.  다음 순서로 흐름을 설정 합니다.
+- 파트너 센터 Webhook 등록 (Insider Preview)
+- 공동 판매 조회 – Dynamics 365을 파트너 센터 (Insider Preview)에 만듭니다.
+- 파트너 센터 Microsoft가 Dynamics 365 (Insider Preview)에 대 한 참조 업데이트를 공동 판매
+- 파트너 센터에서 Dynamics 365로 (Insider Preview)
+- Dynamics 365-파트너 센터 (Insider Preview)
+- Dynamics 365 기회 파트너 센터 (Insider Preview)
+- Dynamics 365 Microsoft Solutions 파트너 센터 (Insider Preview)
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Webhook Api를 사용 하 여 리소스 변경 이벤트 등록
 
@@ -111,23 +133,33 @@ ms.locfileid: "92031336"
 
 2. 아래 강조 표시 된 대로 조회 관리자 자격 증명 (b.) 파트너 센터 이벤트를 사용 하 여 (a.) 파트너 센터 사용자에 대 한 연결을 추가 합니다.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource 열기":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="트리거":::
 
 3. 이러한 업데이트를 만들면 다음과 같이 표시 됩니다.
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource 열기":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. 변경 내용을 저장 하 고 **켜기**를 선택 합니다.
+4. 변경 내용을 저장 하 고 **켜기** 를 선택 합니다.
 
    파트너 센터 웹 후크가 이벤트 변경 내용을 수신 하도록 설정 하려면 다음 단계를 수행 합니다.
 
-5. **파트너 센터에서 Dynamics 365 (Insider preview)을**선택 합니다.
+5. **파트너 센터에서 Dynamics 365 (Insider preview)을** 선택 합니다.
 
-6. **편집** 아이콘을 선택 하 고 **HTTP 요청을 받을 때**를 선택 합니다.
+6. **편집** 아이콘을 선택 하 고 **HTTP 요청을 받을 때** 를 선택 합니다.
 
 7. **복사** 아이콘을 선택 하 여 제공 된 HTTP POST URL을 복사 합니다.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="AppSource 열기"
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL 복사":::
+
+8. 이제 "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행** 을 선택 합니다.
+
+9. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속** 을 클릭 합니다.
+
+10. 다음 세부 정보를 입력합니다.
+
+    1. **Http 트리거 끝점**: 이전 단계에서 복사한 URL
+
+    2. **등록할 이벤트**: "조회 생성" 및 "조회-업데이트 됨"
 
     3. **기존 트리거 끝점을 덮어씁니다 (있는 경우**). 예 (기존 끝점을 덮어씁니다.)
 
@@ -149,13 +181,13 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
     b. **편집** 을 선택 하 여 전원 자동화 흐름을 편집/사용자 지정 합니다.
 
-    다. 선택 **(범위) 잠재 고객 또는 기회를 동기화**합니다.
+    c. 선택 **(범위) 잠재 고객 또는 기회를 동기화** 합니다.
 
-2. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **새 공유 기회 인지 여부**를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기**를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
+2. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **새 공유 기회 인지 여부** 를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기** 를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
 
     d. 업데이트 이벤트의 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 "(범위) 잠재 고객 또는 기회 동기화" 단계를 클릭 합니다.
 
-    e. **기회를 업데이트 하는 경우를**선택 합니다. **예 인 경우** 하위 단계를 선택 하 고 **파트너 센터와 CRM의 기회 개체 간 차이를**확장 합니다.  
+    e. **기회를 업데이트 하는 경우를** 선택 합니다. **예 인 경우** 하위 단계를 선택 하 고 **파트너 센터와 CRM의 기회 개체 간 차이를** 확장 합니다.  
 
     f. **예** 를 선택 하 고 **기존 기회 업데이트** 를 선택 합니다.
 
@@ -165,9 +197,9 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
     b. **기회 동기화를 선택 (범위)** 합니다.
 
-    다. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 **파트너 센터와 crm의 리드 개체 사이에 차이가 있는 경우**를 선택 합니다. 
+    c. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 **파트너 센터와 crm의 리드 개체 사이에 차이가 있는 경우** 를 선택 합니다. 
 
-    d. **예 인 경우** 하위 단계를 선택 하 고 **기회 데이터가 포함 된 조회 업데이트**단계를 확장 합니다.
+    d. **예 인 경우** 하위 단계를 선택 하 고 **기회 데이터가 포함 된 조회 업데이트** 단계를 확장 합니다.
 
    필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
 
@@ -177,9 +209,19 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    b. **조회 동기화를 선택 (범위) 합니다.**
 
-   다. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기**를 선택 합니다.
+   c. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기** 를 선택 합니다.
 
    필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
+
+다음과 같은 두 가지 환경 변수가 만들어집니다.
+
+- 확인 표시: 파트너 센터와 Dynamics 365 CRM 간에 양방향으로 동기화 되는 기회 외에도 확인 표시 아이콘이 필요한 지 여부를 나타냅니다.
+
+- 공동 판매 기회 동기화: 공동 판매 기회만 동기화할지 여부를 나타냅니다.
+
+환경 변수에 대 한 기본값을 편집 하도록 선택할 수 있습니다.
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="기본값에 대 한 입력란":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>종단 간 양방향 공동 판매 참조 동기화
 
@@ -199,11 +241,17 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
 - **참조 링크**: Microsoft 파트너 센터에서 조회에 대 한 읽기 전용 링크
 
-- **Microsoft에서 microsoft의 도움**을 받아야 하는 방법: microsoft에서 조회에 대 한 도움말
+- **Microsoft에서 microsoft의 도움** 을 받아야 하는 방법: microsoft에서 조회에 대 한 도움말
 
 - **제품**:이 기회와 관련 된 제품 목록
 
 - **감사**: 파트너 센터 조회와 동기화 하기 위한 읽기 전용 감사 내역
+
+Dynamics 365 CRM의 기회 양식을 업데이트 하 여 제품에 대 한 솔루션 포함 필드를 포함 합니다.
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="기회 양식":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{대체 텍스트}":::
 
 ### <a name="scenarios"></a>에서는
 
@@ -213,7 +261,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. Dynamics 365 환경에서 "새 기회"를 만들 때 다음 섹션이 표시 되는지 확인 합니다.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="AppSource 열기":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Dynamics 365의 Microsoft 파트너 센터 정보를 보여주는 샘플 기회 섹션입니다.":::
 
    3. 이 기회를 Microsoft 파트너 센터와 동기화 하려면 카드 보기에서 다음 필드를 설정 해야 합니다.
 
@@ -221,11 +269,27 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
       - **Microsoft에서 도움을 주는 방법**: 다음 중에서 선택 합니다.
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="AppSource 열기" 옵션을 클릭 하 여 파트너 센터에서 새 공동 판매 참조를 만듭니다.
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Microsoft의 도움을 얻을 수 있는 방법 이라는 필드 옆의 Microsoft 파트너 센터 도움말 옵션을 보여 주는 Dynamics 365의 샘플 기회 섹션":::
+
+      - **제품**: 제품의 솔루션 id
+
+   4. **파트너 센터** 옵션을 **예** 로 설정 하 여 Dynamics 365에 대 한 기회가 만들어지면 10 분 정도 기다렸다가 파트너 센터 계정에 로그인 합니다. 사용자의 조회가 Dynamics 365와 동기화 됩니다.
+
+   5. 마찬가지로, "파트너 센터와 동기화" 옵션을 "예"로 설정 하는 기회에 대해 Dynamics 365 CRM에서 기회를 업데이트 하면 변경 내용이 파트너 센터 계정에서 동기화 됩니다.
+
+   6. 파트너 센터와 성공적으로 동기화 되는 기회는 Dynamics 365의 ✔ 아이콘으로 식별 됩니다.
+
+2. Microsoft 파트너 센터에서 조회를 만들거나 업데이트 하 고 Dynamics 365 환경에서 동기화 할 때 조회 동기화:
+
+   1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 합니다.
+
+   2. 왼쪽 메뉴에서 **조회** 를 선택 합니다.
+
+   3. "새 거래" 옵션을 클릭 하 여 파트너 센터에서 새 공동 판매 참조를 만듭니다.
 
    4. Dynamics 365 CRM 환경에 로그인 합니다.
 
-   5. **오픈 기회**로 이동 합니다. Microsoft Partner Center에서 만든 조회는 이제 Dynamics 365 CRM에서 동기화 됩니다.
+   5. **오픈 기회** 로 이동 합니다. Microsoft Partner Center에서 만든 조회는 이제 Dynamics 365 CRM에서 동기화 됩니다.
 
    6. 동기화 된 조회를 선택 하면 카드 보기 정보가 채워집니다.
 

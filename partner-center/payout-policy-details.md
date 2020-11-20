@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531990"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947667"
 ---
 # <a name="payout-schedules-and-policy-details"></a>지급 일정 및 정책 세부 정보
 
@@ -32,9 +32,9 @@ ms.locfileid: "94531990"
 | --- | --- | --- | --- |
 | 트랜잭션 사용량 또는 월 | 고객은 서비스를 사용 하거나 구매 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 1** |
 | 구매 주문이 만들어짐 | 총 사용량, 총 트랜잭션 확인 | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |
-| ISV 지급 획득이 생성 됩니다. | 에이전시 요금 및 지급 수익 결정 | 지급 문의 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3 (1 주)** |
-| 지급 준비 | 수익을 월간 지불에 대비 합니다. | 지급 문의 트랜잭션 기록에 예정 된 것으로 표시 됨 | **월 3 (1 주)** |
-| **지급 날짜** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 지급 문의 지불액 섹션에** | **월 3 (15 분 이후)** |
+| ISV 지급 획득이 생성 됩니다. | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3 (1 주)** |
+| 지급 준비 | 수익을 월간 지불에 대비 합니다. | [지급 문의](payout-statement.md) 트랜잭션 기록에 예정 된 것으로 표시 됨 | **월 3 (1 주)** |
+| **지급 날짜** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 3 (15 분 이후)** |
 | 고객별로 지불 된 송장 | Microsoft는 고객의 지불을 수집 합니다. | 변경 내용 없음 | **월 4 ~ 12** |
 |
 
@@ -48,10 +48,10 @@ ms.locfileid: "94531990"
 | --- | --- | --- | --- |
 | 트랜잭션 사용량 또는 월 | 고객은 서비스를 사용 하거나 구매 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 1** |
 | 고객별로 지불 된 송장 | 총 사용량, 총 트랜잭션 값 및 고객의 지불 청구서를 확인 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |
-| ISV 지급 획득이 생성 됩니다. | 에이전시 요금 및 지급 수익 결정 | 지급 문의 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 2** |
-| 30 일 보관 기간 | 자금, 가능한 비용 정산 및 환불 요청 수집 보장 | 지급 문의 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3** |
-| 지급 준비 | 수익을 월간 지불에 대비 합니다. | 지급 문의 트랜잭션 기록에 예정 된 것으로 표시 됨 | **4 월의 첫 번째 주** |
-| **지급 날짜** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 지급 문의 지불액 섹션에** | **월 4 (15 분 이후)** |
+| ISV 지급 획득이 생성 됩니다. | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 2** |
+| 30 일 보관 기간 | 자금, 가능한 비용 정산 및 환불 요청 수집 보장 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3** |
+| 지급 준비 | 수익을 월간 지불에 대비 합니다. | [지급 문의](payout-statement.md) 트랜잭션 기록에 예정 된 것으로 표시 됨 | **월 4 (1 주)** |
+| **지급 날짜** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 4 (15 분 이후)** |
 |
 
 \* 지급 날짜는 태평양 표준 시간 (PST)입니다.
@@ -97,4 +97,4 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 
 ## <a name="next-steps"></a>다음 단계
 
-[세금 세부 정보](tax-details-marketplace.md)에 대해 알아봅니다.
+- [세금 세부 정보](tax-details-marketplace.md)

@@ -8,12 +8,12 @@ description: 파트너 센터에서 조회를 Salesforce CRM과 동기화 합니
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031466"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947854"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
@@ -84,21 +84,21 @@ ms.locfileid: "92031466"
 
 5. 팝업 화면에서 **Salesforce에 대 한 파트너 센터 조회 커넥터** 를 검색 합니다.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="AppSource 열기":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. **지금 가져오기** 단추를 클릭 한 다음 **계속**합니다.
+6. **지금 가져오기** 단추를 클릭 한 다음 **계속** 합니다.
 
 7. 그러면 Salesforce CRM 환경을 선택 하 여 응용 프로그램을 설치할 수 있는 페이지가 열립니다.  사용 약관에 동의 합니다.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="AppSource 열기":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="사용 가능한 CRMS":::
 
 8. 그런 다음 **솔루션 관리** 페이지로 이동 합니다.  페이지 아래쪽에 있는 화살표 단추를 사용 하 여 "파트너 센터 조회"로 이동 합니다. 파트너 센터 조회 솔루션 옆에 **설치 예정** 됨이 표시 됩니다. 설치는 10-15 분 정도 걸립니다.
 
 9. 설치가 완료 되 면 [전원 자동화](https://flow.microsoft.com) 로 다시 이동 하 여 왼쪽 탐색 영역에서 **솔루션** 을 선택 합니다. **Salesforce에 대 한 파트너 센터 조회 동기화** 는 솔루션 목록에서 사용할 수 있습니다.
 
-10. **Salesforce에 대 한 파트너 센터 조회 동기화를**선택 합니다. 다음과 같은 전원 자동화 흐름과 엔터티를 사용할 수 있습니다.
+10. **Salesforce에 대 한 파트너 센터 조회 동기화를** 선택 합니다. 다음과 같은 전원 자동화 흐름과 엔터티를 사용할 수 있습니다.
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="AppSource 열기":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce 흐름":::
 
 
 
@@ -113,9 +113,9 @@ ms.locfileid: "92031466"
     - 솔루션에서 흐름을 자동화 하는 CRM admin
 4. 왼쪽 탐색 모음에서 **연결** 을 선택 하 고 목록에서 "파트너 센터 조회" 솔루션을 선택 합니다.
 
-5. **연결 만들기**를 클릭 하 여 연결을 만듭니다.
+5. **연결 만들기** 를 클릭 하 여 연결을 만듭니다.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="AppSource 열기":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="연결 만들기":::
 
 - 오른쪽 위 모서리의 검색 창에서 파트너 센터 조회 (미리 보기)를 검색 합니다.
 
@@ -123,21 +123,21 @@ ms.locfileid: "92031466"
 
 -  다음으로, 조회 관리자의 자격 증명을 사용 하 여 파트너 센터 사용자에 대 한 파트너 센터 이벤트 연결을 만듭니다.
 
-- CRM 관리자 사용자에 대 한 Common Data Service (현재 환경)에 대 한 연결을 만듭니다.
+- CRM 관리자 사용자에 대 한 Salesforce에 대 한 연결을 만듭니다.
 
 -  모든 연결을 추가 하면 사용자 환경에 다음 연결이 표시 됩니다.
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="AppSource 열기":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="연결 관찰":::
 
 ### <a name="edit-the-connections"></a>연결 편집
 
-1. 솔루션 페이지로 돌아가서 **기본 솔루션**을 선택 합니다.  **모두**를 클릭 하 여 **연결 참조 (미리 보기)** 를 선택 합니다.
+1. 솔루션 페이지로 돌아가서 **기본 솔루션** 을 선택 합니다.  **모두** 를 클릭 하 여 **연결 참조 (미리 보기)** 를 선택 합니다.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="AppSource 열기":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="커넥터 편집 시작":::
 
 2. 세 개의 점 아이콘을 선택 하 여 각 연결을 하나씩 편집 합니다. 관련 연결을 추가 합니다.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="AppSource 열기":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="커넥터 편집":::
 
 3. 다음 순서로 흐름을 설정 합니다.
 
@@ -157,23 +157,33 @@ ms.locfileid: "92031466"
 
 2. 아래 강조 표시 된 대로 조회 관리자 자격 증명 (b.) 파트너 센터 이벤트를 사용 하 여 (a.) 파트너 센터 사용자에 대 한 연결을 추가 합니다.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource 열기":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="트리거":::
 
 3. 이러한 업데이트를 만들면 다음과 같이 표시 됩니다.
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource 열기":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. 변경 내용을 저장 하 고 **켜기**를 선택 합니다.
+4. 변경 내용을 저장 하 고 **켜기** 를 선택 합니다.
 
    파트너 센터 웹 후크가 이벤트 변경 내용을 수신 하도록 설정 하려면 다음 단계를 수행 합니다.
 
-5. **파트너 센터에서 SALESFORCE CRM (Insider preview)을**선택 합니다.
+5. **파트너 센터에서 SALESFORCE CRM (Insider preview)을** 선택 합니다.
 
-6. **편집** 아이콘을 선택 하 고 **HTTP 요청을 받을 때**를 선택 합니다.
+6. **편집** 아이콘을 선택 하 고 **HTTP 요청을 받을 때** 를 선택 합니다.
 
 7. **복사** 아이콘을 선택 하 여 제공 된 HTTP POST URL을 복사 합니다.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="AppSource 열기"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="URL 복사":::
+
+8. 이제 "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행** 을 선택 합니다.
+
+9. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속** 을 클릭 합니다.
+
+10. 다음 세부 정보를 입력합니다.
+
+    1. **Http 트리거 끝점**: 이전 단계에서 복사한 URL
+
+    2. **등록할 이벤트**: "조회 생성" 및 "조회-업데이트 됨"
 
     3. **기존 트리거 끝점을 덮어씁니다 (있는 경우**). 예 (기존 끝점을 덮어씁니다.)
 
@@ -195,13 +205,13 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. **편집** 을 선택 하 여 전원 자동화 흐름을 편집/사용자 지정 합니다.
 
-   3. 선택 **(범위) 잠재 고객 또는 기회를 동기화**합니다.
+   3. 선택 **(범위) 잠재 고객 또는 기회를 동기화** 합니다.
 
-2. 이벤트 만들기에 대 한 CRM 필드 매핑을 사용자 지정 하려면 **새 공유 기회 인지 여부**를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기**를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
+2. 이벤트 만들기에 대 한 CRM 필드 매핑을 사용자 지정 하려면 **새 공유 기회 인지 여부** 를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기** 를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
 
    1. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 "(범위) 잠재 고객 또는 기회 동기화" 단계를 클릭 합니다.
 
-   2. **기회를 업데이트 하는 경우를**선택 합니다. **예 인 경우** 하위 단계를 선택 하 고 **파트너 센터와 CRM의 기회 개체 간 차이를**확장 합니다.  
+   2. **기회를 업데이트 하는 경우를** 선택 합니다. **예 인 경우** 하위 단계를 선택 하 고 **파트너 센터와 CRM의 기회 개체 간 차이를** 확장 합니다.  
 
    3. **예** 를 선택 하 고 **기존 기회 업데이트** 를 선택 합니다.
 
@@ -211,9 +221,9 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. **기회 동기화를 선택 (범위)** 합니다.
 
-   3. 업데이트 이벤트에 대해 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **파트너 센터와 CRM의 리드 개체 사이에 차이가 있는 경우**를 선택 합니다.
+   3. 업데이트 이벤트에 대해 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **파트너 센터와 CRM의 리드 개체 사이에 차이가 있는 경우** 를 선택 합니다.
 
-   4. **예 인 경우** 하위 단계를 선택 하 고 **기회 데이터가 포함 된 조회 업데이트**단계를 확장 합니다.
+   4. **예 인 경우** 하위 단계를 선택 하 고 **기회 데이터가 포함 된 조회 업데이트** 단계를 확장 합니다.
 
    필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
 
@@ -223,7 +233,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. **조회 동기화를 선택 (범위) 합니다.**
 
-   3. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기**를 선택 합니다.
+   3. 만든 이벤트에 대 한 CRM 필드 매핑 (필드 매핑 가이드 기반)을 사용자 지정 하려면 **Microsoft 조회 만들기** 를 선택 합니다.
 
 필드 매핑 가이드에 따라이 섹션에서 매핑을 편집할 수 있습니다.
 
@@ -260,13 +270,33 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
    2. Salesforce CRM 환경에서 "새 기회"를 만들 때 다음 섹션이 표시 되는지 확인 합니다.
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="AppSource 열기" 옵션을 클릭 하 여 파트너 센터에서 새 공동 판매 참조를 만듭니다.
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce 환경":::
+
+   3. 이 기회를 Microsoft 파트너 센터와 동기화 하려면 카드 보기에서 다음 필드를 설정 해야 합니다.
+
+       - "파트너 센터와 동기화": 예
+       - "Microsoft의 도움을 주는 방법": 다음 옵션 중에서 선택 합니다.
+       - 제품: 제품의 솔루션 Id
+
+   4. **파트너 센터와의 동기화 기회 센터** 옵션을 **예** 로 설정 했으면 10 분 정도 기다렸다가 파트너 센터 계정에 로그인 합니다. 조회가 Salesforce CRM과 동기화 됩니다.
+
+   5. "파트너 센터와 동기화" 옵션이 "예"로 설정 된 경우 Salesforce CRM에서 기회를 업데이트 하면 변경 내용이 파트너 센터 계정과 동기화 됩니다.
+
+   6. 파트너 센터와 동기화 되는 기회는 Salesforce CRM에서 ✔ 아이콘으로 식별 됩니다.
+
+2. Microsoft 파트너 센터에서 조회를 만들거나 업데이트 하 고 Salesforce CRM 환경에서 동기화 하는 경우의 조회 동기화:
+
+    1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 합니다.
+
+    2. 왼쪽 메뉴에서 **조회** 를 선택 합니다.
+
+    3. "새 거래" 옵션을 클릭 하 여 파트너 센터에서 새 공동 판매 참조를 만듭니다.
 
     4. Salesforce CRM 환경에 로그인 합니다.
 
-    5. **오픈 기회**로 이동 합니다. Microsoft Partner Center에서 만든 조회가 이제 Salesforce CRM에서 동기화 됩니다.
+    5. **오픈 기회** 로 이동 합니다. Microsoft Partner Center에서 만든 조회가 이제 Salesforce CRM에서 동기화 됩니다.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="AppSource 열기":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce 기회 화면":::
 
     6. 동기화 된 조회를 선택 하면 카드 보기 정보가 채워집니다.
 
