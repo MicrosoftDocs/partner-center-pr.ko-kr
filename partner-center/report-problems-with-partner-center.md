@@ -1,20 +1,20 @@
 ---
 title: 파트너 센터에서 문제 보고
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 파트너 센터를 사용 하 여 문제를 보고 하는 방법과 파트너 지원 팀에 대 한 진단 정보를 수집 하는 방법을 알아보세요.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567093"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983344"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
 
@@ -23,9 +23,7 @@ ms.locfileid: "94567093"
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-파트너 센터에서 문제를 발견 하거나 도움이 필요한 경우 파트너 센터 지원에 문의 하세요.
-
-**사용자 역할**
+**적절한 역할**
 
 모든 로그인 된 파트너 센터 사용자는 파트너 지원 요청을 만들 수 있습니다. 사용자는 파트너 센터에 로그인 한 후 제출한 지원 요청만 볼 수 있습니다.
 
@@ -58,6 +56,12 @@ ms.locfileid: "94567093"
 1. 약속을 예약할 때 파트너 센터는 지원 담당자가 연락 하는 방법에 대 한 정보가 포함 된 일정 초대를 보내 사용자의 작업 일정에 따라이 약속을 추적할 수 있습니다.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="날짜 및 시간":::
+
+## <a name="hours-of-operation"></a>작업 시간
+
+**파트너 지원**
+
+:::image type="content" source="images/support/hoop.png" alt-text="작업 시간 지원":::
 
 ## <a name="send-diagnostics"></a>진단 보내기
 
