@@ -8,17 +8,19 @@ metadata:
   ms.topic: landing-page
   author: dsindona
   ms.author: dsindona
-  ms.date: 09/18/2020
-  ms.openlocfilehash: 5b460081359f1997eb433a69631708d7e116ce38
-  ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+  ms.date: 11/17/2020
+  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
+  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 09/19/2020
-  ms.locfileid: "91429260"
+  ms.lasthandoff: 11/18/2020
+  ms.locfileid: "94845257"
 landingContent:
-- title: 프라이빗 Azure Marketplace(미리 보기)
+- title: Azure Marketplace
   linkLists:
   - linkListType: get-started
     links:
-    - text: 프라이빗 Azure Marketplace 만들기 및 관리
+    - text: 프라이빗 Azure Marketplace 만들기 및 관리(미리 보기)
       url: create-manage-private-azure-marketplace.md
+    - text: Azure Marketplace 파트너 통합
+      url: partner-integrations.md
