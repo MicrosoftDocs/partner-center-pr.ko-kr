@@ -2,16 +2,16 @@
 title: Azure Portal에서 개인 Azure Marketplace 만들기 및 관리
 description: Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 하는 방법에 대해 알아봅니다.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487706"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006942"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 합니다.
 
@@ -31,14 +31,14 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 >[!IMPORTANT]
 > 개인 Azure Marketplace 관리에 대 한 액세스는 IT 관리자가 Marketplace 관리자 역할이 할당 된 경우에만 사용할 수 있습니다.
 
-### <a name="prerequisites"></a>사전 요구 사항
+### <a name="prerequisites"></a>필수 조건
 
 이러한 필수 구성 요소를 충족 해야 테 넌 트 범위에서 사용자에 게 Marketplace 관리자 역할을 할당할 수 있습니다.
 
 - **전역 관리자** 사용자에 대 한 액세스 권한이 있습니다.
 - 테 넌 트에 구독이 하나 이상 있습니다 (모든 형식일 수 있음).
-- 전역 관리자 사용자에 게 2 단계에서 선택한 구독에 대 한 **참가자** 역할 이상이 할당 됩니다.
-- 전역 관리자의 액세스 권한이 **예** ( [상승-액세스-전역-관리자](/azure/role-based-access-control/elevate-access-global-admin))로 설정 되어 있습니다.
+- 전역 관리자 사용자에 게 선택한 구독에 대 한 **참가자** 역할 이상이 할당 됩니다.
+- 전역 관리자의 액세스 권한이 **예** 로 설정 되어 있습니다. [모든 Azure 구독 및 관리 그룹을 관리 하려면 액세스 권한 상승을](/azure/role-based-access-control/elevate-access-global-admin)참조 하세요.
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>PowerShell을 사용 하 여 Marketplace 관리자 역할 할당
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)

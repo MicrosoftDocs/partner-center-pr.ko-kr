@@ -3,15 +3,15 @@ title: Azure Marketplace 파트너 통합
 description: Azure 환경과 통합 되는 Azure Marketplace 솔루션에 대해 알아보고 Microsoft 파트너의 배포 가이드에 대 한 링크를 가져옵니다.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691658"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006908"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Azure Marketplace 파트너 통합
 
