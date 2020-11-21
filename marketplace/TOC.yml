@@ -1,8 +1,11 @@
 - name: Microsoft 마켓플레이스 고객 설명서
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: Azure Private Marketplace 만들기
       href: create-manage-private-azure-marketplace.md
+    - name: Azure Marketplace 파트너 통합
+      href: partner-integrations.md
 - name: 참조
   items:
     - name: Azure PowerShell
