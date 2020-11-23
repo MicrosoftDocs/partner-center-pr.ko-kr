@@ -1,7 +1,7 @@
 ---
 title: Microsoft 골드, 실버 역량 요구 사항
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 뛰어난 Microsoft 파트너 상태를 획득하고, 역량 요구 사항을 충족함으로써 새 고객을 유치하여 골드 및 실버 멤버십 수준을 획득하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100723"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691336"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft 역량을 획득하여 비즈니스 차별화
 
@@ -40,7 +40,7 @@ ms.locfileid: "92100723"
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
 
-2. 파트너 센터 메뉴의 MPN 섹션 아래에서 **역량**을 선택합니다.
+2. 파트너 센터 메뉴의 MPN 섹션 아래에서 **역량** 을 선택합니다.
 
 3. 역량 이름 및 특정 역량 옵션을 선택하여 세부 정보를 봅니다. 달성한 항목을 볼 수 있으며, 전체 요구 사항과 특정 시험 및 사용 중지된 시험의 유효성 검사 날짜에 대한 링크도 볼 수 있습니다.
 
@@ -65,6 +65,10 @@ Silver 및 Gold 역량 수준은 각 영역에 대한 요구 사항이 다릅니
 
 - 하나 이상의 [고급 전문 분야](advanced-specializations.md)와 골드 역량을 결합하여 전문 지식을 추가로 소개하는 방법에 대해 알아보세요.
 
-- 역량에 포함된 특정 [시장 진출 혜택](mpn-learn-about-go-to-market-benefits.md)에 대해 알아보세요.
+- 역량에 포함된 [시장 진출 리소스](mpn-learn-about-go-to-market-benefits.md)에 대해 알아보세요.
 
 - [역량의 청구서 및 세금](mpn-view-print-maps-invoice.md)에 대해 알아보세요.
+
+- 파트너의 현재 역량을 보여주는 파트너 센터 인사이트 [역량 보고서](pci-competencies-report.md)를 살펴보세요.
+
+- 역량에 대한 [질문과 대답](competencies-faq.md)을 확인하세요.

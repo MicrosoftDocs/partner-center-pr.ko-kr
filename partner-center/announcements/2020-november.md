@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488117"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691302"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -23,6 +23,128 @@ ms.locfileid: "94488117"
 2020년 공지: [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | [10월](2020-October.md) | 11월
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경  
+
+### <a name="categories"></a>범주
+- 날짜: 2020-11-17
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상  
+
+클라우드 솔루션 공급자 프로그램을 통해 거래하는 EU/EFTA 지역의 파트너 
+
+### <a name="summary"></a>요약 
+
+EU(유럽 연합)/EFTA(유럽 자유 무역 연합) 지역의 경우 클라우드 솔루션 공급자 프로그램의 모든 신규 상거래에서 고객 청구 위치 대신 파트너 청구 위치가 사용됩니다. 즉, Microsoft는 고객의 위치가 아닌 파트너의 위치에 해당하는 통화를 기준으로 파트너에게 요금을 청구합니다. 이 과정은 다음과 같은 두 단계로 진행됩니다. 
+
+- **1단계: CSP에서 새로운 상거래 제품을 구매하는 신규 고객**
+
+2021년 1월부터 파트너의 신규 고객이 새로운 상거래 제품을 구매할 경우 파트너의 위치에 해당하는 통화로 파트너에게 요금이 청구됩니다. 파트너의 기존 고객이 CSP에서 새로운 상거래 제품을 이미 구매한 경우 이 단계 동안에는 고객의 청구 위치에 해당하는 통화로 파트너에게 요금이 청구됩니다. 
+
+ 
+
+- **2단계: 2021년 1월 전에 CSP에서 새로운 상거래 제품을 구매한 기존 고객** 
+
+1단계가 끝난 후 2021년 12월 31일까지, Microsoft는 기존 고객이 2021년 1월 전에 CSP에서 새로운 상거래 제품을 구매한 파트너의 경우 새로운 상거래 제품의 요금을 청구하는 통화를 고객 위치의 통화에서 파트너 위치의 통화로 전환합니다. 이 변경 내용이 구현되기 전에 파트너에게 미리 알림이 제공됩니다.  
+
+>[참고] 이 변경 내용은 파트너 청구 통화에만 영향을 주며 CSP의 새로운 상거래 제품 가격에는 영향을 주지 않습니다. 
+
+이 변경 내용이 적용되는 새로운 상거래 제품의 범위는 클라우드 솔루션 공급자 프로그램의 Azure 플랜, Azure 예약, 서버 구독, 영구 소프트웨어 및 Microsoft 상업용 Marketplace 구매에 포함되는 Azure 구독입니다.
+
+### <a name="partner-benefits"></a>파트너 혜택  
+
+- 이 업데이트가 적용되면 EU/EFTA 지역에서 이루어지는 새로운 상거래 환경의 다중 통화 청구와 관련된 복잡성과 오버헤드가 감소할 것입니다.  
+
+- 파트너는 통합된 청구서를 단일 통화로 받게 되며 더 이상 고객의 위치에 따라 다른 통화로 작성된 청구서를 받지 않습니다. 
+
+- 인센티브는 파트너의 청구서와 동일한 통화로 지급됩니다.
+
+- 파트너는 다중 통화 청구로 인한 복잡성이 감소하므로 현재 계정 조정에 소모되는 시간과 리소스를 절약할 수 있습니다. 
+
+- 새로운 상거래 제품을 아직 채택하지 않은 파트너의 경우 이 변경 내용이 이전 파트너 청구 모델과 일치하므로 파트너가 CSP의 새로운 상거래 환경으로 보다 쉽게 전환할 수 있습니다. 
+
+### <a name="resources"></a>리소스 
+
+Microsoft 파트너 웹 사이트의 [작업 갤러리]https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ 에서 이 토픽에 대한 정보를 검토하세요.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>파트너 센터 API를 호출하는 파트너에 대한 API 제한
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-17
+- 기능
+
+### <a name="summary"></a>요약
+
+Microsoft는 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 파트너 센터 API를 호출하는 파트너에 대한 API 제한을 도입하고 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+클라우드 솔루션 공급자 프로그램을 통해 거래하는 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 2021년 1분기부터 API 제한을 구현하고 있습니다. 이에 따라 과도한 리소스 사용을 방지하기 위해 특정 시간 동안 서비스 요청 수가 제한됩니다. 제한 임계값을 초과하면 파트너 센터는 해당 클라이언트의 추가 요청을 일정 시간 동안 제한합니다.  
+
+### <a name="partner-benefits"></a>파트너 혜택 
+
+파트너 센터는 대량의 요청을 처리하도록 설계되었지만, 소수의 파트너가 너무 많은 요청을 수행할 경우 모든 파트너의 최적 성능과 안정성을 유지하기 위해 요청을 제한합니다. 이를 통해 가동 중지 시간을 최소화합니다. 대량의 요청을 줄여서 모든 파트너에게 일관적인 성능을 보장할 수 있습니다. 
+
+
+### <a name="apis-to-be-throttled"></a>제한되는 API
+
+|**연산**|**파트너 센터 설명서**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[고객의 모든 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID별 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders||[고객의 모든 주문 가져오기](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID별 주문 가져오기](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[구독 프로비전 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[주문 관리 및 구독 관리](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[구독에 대한 추가 기능 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[구독에 대한 Azure 자격 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[구독 등록 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[고객의 모든 전송 정보 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[제품 업그레이드 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[평가판 전환 제품 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+이 공지는 파트너에게 앞으로 있을 변경 내용에 대해 미리 알려서 적절하게 대비할 수 있도록 돕는 것이 그 목적입니다. 파트너는 이러한 API를 숙지하고 활동 로그 API를 사용하여 효율성을 높이고 제한을 방지하는 것이 좋습니다. 이 기능에 대한 자세한 내용은 [API 제한 지침](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)의 세부 정보를 참조하세요. 
+
+### <a name="next-steps"></a>다음 단계
+
+[API 제한 지침](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)을 검토하고 필요한 단계를 수행합니다. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>중복된 MCA 요청으로 인한 409 오류
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-16
+- 기능
+
+### <a name="context"></a>Context
+
+- 올해 2월에 파트너에게 MCuA(Microsoft 고객 계약)에 서명하라는 요청이 전달되었습니다. 이는 이전 MCA(Microsoft 클라우드 계약)에서 마이그레이션하기 위한 조치였습니다. 
+- 이 변경 조치의 일환으로 파트너에게 [여기](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)에 설명된 계약 유형 매개 변수를 포함해 달라고 요청했습니다.
+
+### <a name="what-happened-next"></a>그 후 진행 상황:
+
+- 일부 파트너는 구현 내에 매개 변수 요청을 포함하지 않았습니다. Microsoft는 이러한 파트너에게 MCA를 반환했습니다.
+- 이러한 파트너는 고객에게 서명 요청을 다시 보내고 Microsoft에 MCA를 다시 보내야 합니다. 
+- 이와 같은 중복은 파트너에게 서비스를 제공하는 Microsoft의 역량에 악영향을 미쳤습니다.
+- 2020년 9월에 Microsoft는 여러 포럼에서 Yammer를 통해 파트너에게 매개 변수를 수정하도록 요청하는 알림을 보냈습니다. Microsoft는 더 이상 이와 같은 중복을 허용할 수 없으며 파트너는 409 오류를 받게 됩니다.
+
+>[참고] 그 전에도 파트너에게 연락을 드리고 API를 변경한 일이 있습니다.
+
+- 10월에는 문제를 해결하기 위해 가장 중복 요청이 많은 파트너와 긴밀하게 협력했습니다.
+- 현재는 파트너에게 다시 한 번 이 소식을 전달 중이며, 요청이 너무 많은 상위 10개 파트너에게는 문제를 테스트하고 해결할 수 있도록 도움을 드리기 위해 요청을 검토한 후 Microsoft로 연락하라는 내용의 개별 이메일을 보내는 중입니다.
+- 2020년 11월 10일부터 중복을 허용하지 않았으며, 매개 변수를 수정하지 않은 파트너는 409 오류가 발생했습니다.
+- 이로 인해 중복을 허용하지 않은 변경 내용을 롤백했습니다. 
+- 그러나 2021년 1월 14일부터 다시 중복을 허용하지 않을 예정입니다. 파트너는 이 날짜까지 각자 사정에 맞게 조정할 수 있습니다. 11월 16일에 한 파트너로부터 업데이트를 배포할 계획이라는 알림을 받았으며 Microsoft는 업데이트와 관련하여 이 파트너와 긴밀하게 협력할 것입니다.
+- 파트너가 Microsoft로 연락을 주면 변경 내용이 적용된 플라이트에 파트너의 테넌트를 추가하여 파트너의 솔루션 업데이트가 예상대로 작동하는지 확인하는 데 도움을 드릴 수 있습니다.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 UI(사용자 인터페이스) 향상

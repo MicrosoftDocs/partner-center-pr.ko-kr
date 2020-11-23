@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691319"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932772"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "94691319"
 
 | **범주** | **2020년 11월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[새로운 통합 계정 관리 환경](2020-november.md#13)|11월 18일|
+|제품/시장|[미드 마켓 프로모션을 위한 Office 365 E1(LATAM, APAC 및 인도)](2020-november.md#12)|11월 18일|
+|기능|[Partner Center API 업데이트 및 UI(사용자 인터페이스)가 향상되어 특정 국가에서 고객 심사 강화](2020-november.md#11)|11월 17일|
 |기능|[새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경](2020-november.md#10)|11월 17일|
 |기능|[파트너 센터 API에 대한 API 제한](2020-november.md#9)|11월 17일|
 |기능|[중복된 MCA 요청으로 인한 409 오류](2020-november.md#8)|11월 16일|
