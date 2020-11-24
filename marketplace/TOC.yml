@@ -1,11 +1,35 @@
 - name: Microsoft 마켓플레이스 고객 설명서
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Microsoft AppSource 정보
+      href: appsource-overview.md
+    - name: AppSource에서 소프트웨어 구매
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Azure Private Marketplace 만들기
+    - name: Azure Marketplace 정보
+      href: azure-marketplace-overview.md
+    - name: 구매
+      href: azure-purchasing-invoicing.md
+    - name: 청구 및 송장 작성
+      href: billing-invoicing.md
+    - name: 프라이빗 제품
+      href: private-offers.md
+    - name: 구독 이전 자격
+      href: transfer-eligibility.md
+    - name: 프라이빗 Azure Marketplace 만들기 및 관리
       href: create-manage-private-azure-marketplace.md
     - name: Azure Marketplace 파트너 통합
       href: partner-integrations.md
+- name: 일반 리소스
+  items:
+    - name: 환불 정책
+      href: refund-policies.md
+    - name: 법적 계약
+      href: legal-contracts.md
+    - name: 지원 받기
+      href: get-support.md
 - name: 참조
   items:
     - name: Azure PowerShell
