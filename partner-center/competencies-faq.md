@@ -1,19 +1,19 @@
 ---
 title: 역량-질문과 대답
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Azure, 클라우드, Visual Studio, 기술 및 지원 혜택에 대 한 Microsoft 파트너 네트워크 골드 및 실버 역량, 혜택 만료, 갱신 및 정품 인증에 대 한 질문에 대 한 답변
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755228"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812812"
 ---
 # <a name="competencies---frequently-asked-questions"></a>역량-질문과 대답
 
@@ -79,7 +79,7 @@ ms.locfileid: "92755228"
 
 - 역량 파트너에 대 한 라이선스 테이블을 [다운로드](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 합니다.
 
-- Microsoft Action Pack 구독 파트너에 대 한 라이선스 테이블을 [다운로드](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) 합니다.
+- Microsoft Action Pack 구독 파트너에 대 한 라이선스 테이블을 [다운로드](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) 합니다.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>17. Microsoft 파트너 센터 계정에 Microsoft 인증 프로필 ID (MCP ID 또는 MCID)를 연결 어떻게 할까요? 있나요?
 

@@ -1,7 +1,7 @@
 ---
 title: 혜택 찾기
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 파트너 센터 대시보드에서 MPN 혜택을 찾는 방법에 대해 알아봅니다. 기술 혜택에 대 한 액세스 ID 및 계약 ID를 찾는 방법에 대 한 정보가 포함 되어 있습니다.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175325"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812833"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft 파트너 네트워크 혜택 찾기 
 
@@ -36,7 +36,7 @@ ms.locfileid: "92175325"
 
 회사는 Microsoft 파트너 네트워크 회원으로 서 비즈니스를 성장 시키는 데 도움이 될 수 있는 다양 한 혜택에 액세스할 수 있습니다. 이러한 혜택을 확인 하려면 다음을 수행 합니다.
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 하 고 **MPN**를 선택한 다음, **혜택**을 선택 합니다.
+1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 하 고 **MPN** 를 선택한 다음, **혜택** 을 선택 합니다.
 
 2. 혜택을 통해 제공 되는 범주 중 하나에 속한 관심 혜택을 검토, 활성화, 정렬 또는 다운로드할 수 있습니다. 이렇게 하려면 다음에 대해 자세히 알아볼 혜택 영역을 선택 합니다.
 
@@ -68,13 +68,13 @@ ms.locfileid: "92175325"
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
 
-2. **MPN**, **혜택**, **기술 혜택**을 차례로 선택 합니다.
+2. **MPN**, **혜택**, **기술 혜택** 을 차례로 선택 합니다.
 
 3. 목록에서 혜택을 선택 합니다. 혜택을 확장 하 여 자세한 내용을 확인 합니다. 
 
    이 혜택에 할당 된 특정 제품 지원 **계약 id** 및 **액세스 id** 를 확인 해야 합니다.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="확장 된 이점":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="샘플 골드 핵심 역량은 계약 ID 및 액세스 ID와 같은 Microsoft 제품 지원 Id를 보여주는 기술 혜택을 지원 합니다.":::
 
    > [!NOTE]
    > 이러한 지원 Id를 추적 하세요. 사용자가 처음으로 또는 회사의 사용자 중 한 명에 게 특정 기술 혜택에 연결 된 지원 요청을 기록 하는 경우 특정 시스템을 요청할 수 있습니다. 회사의 모든 사용자는 동일한 액세스 ID 및 계약 ID를 사용할 가능성이 높습니다.
@@ -83,7 +83,7 @@ ms.locfileid: "92175325"
 
 Microsoft Action Pack, 실버 및/또는 골드 역량에서 사용할 수 있는 혜택을 확인 하려면 다음 리소스를 참조 하세요.
 
-- [Microsoft Action Pack 파트너에 대 한 라이선스 테이블](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Microsoft Action Pack 파트너에 대 한 라이선스 테이블](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [역량 파트너에 대 한 라이선스 테이블](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
