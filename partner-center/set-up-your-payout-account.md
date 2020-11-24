@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488137"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514761"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>지급 계정 및 세금 양식 설정
 
@@ -44,7 +44,7 @@ ms.locfileid: "94488137"
 > [!IMPORTANT]
 > 국가와 지역마다 세금 요구 사항이 서로 다릅니다. 세금으로 지불해야 하는 정확한 금액은 제품을 판매하는 국가와 지역에 따라 다릅니다. Microsoft가 사용자를 대신해서 판매세 및 이용세를 송금하는 국가/지역을 확인하려면 [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560)을 참조하세요. 다른 국가/지역에서는 사용자가 등록된 위치에 따라 제품 판매에 대한 판매세와 이용세를 현지 세무 당국에 직접 송금해야 할 수도 있습니다. 또한 받은 앱 판매 수익금이 소득으로 과세될 수도 있습니다. 상업용 마켓플레이스 활동에 적합한 세금 정보를 확인하는 데 가장 큰 도움을 받을 수 있는 현지 국가 또는 지역 관련 당국에 문의하는 것이 좋습니다.
 
-1. [파트너 센터](https://partner.microsoft.com/dashboard)에서 오른쪽 위에 있는 **계정 설정** 아이콘을 선택한 다음, **개발자 설정** 을 선택합니다.
+1. [파트너 센터](https://partner.microsoft.com/dashboard)의 오른쪽 위 모서리에서 **설정** 기어 아이콘을 선택 하 고 **계정 설정** 을 선택 합니다.
 
 2. 왼쪽 탐색 메뉴에서 **지급 및 세금** 을 선택하고 **지급 및 세금 할당** 을 선택합니다.
 
@@ -124,7 +124,7 @@ ms.locfileid: "94488137"
 
 내용을 변경하거나 잘못된 정보를 수정해야 하는 경우 기존 지급 프로필을 편집할 수 있습니다.
 
-1. [파트너 센터](https://partner.microsoft.com/dashboard)에서 오른쪽 위에 있는 **설정** 기어 아이콘을 선택한 다음, **개발자 설정** 을 선택합니다.
+1. [파트너 센터](https://partner.microsoft.com/dashboard)의 오른쪽 위 모서리에서 **설정** 기어 아이콘을 선택 하 고 **계정 설정** 을 선택 합니다.
 
 2. ‘지급 및 세금’ 제목 바로 아래에서 **지급 및 세금 프로필** 을 선택합니다.
 

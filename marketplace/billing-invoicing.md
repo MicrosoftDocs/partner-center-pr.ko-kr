@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007351"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514778"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>청구 및 송장 Azure Marketplace
 
@@ -57,7 +57,7 @@ Azure Portal에서 송장을 사용할 수 있게 되 면 각 월의 시작 부�
 - 지불 기기가 신용 카드인 경우 예약을 구매한 후 즉시 청구서에 청구 됩니다. 이 청구서는 월별 청구서와는 별개입니다.
 - 지불 기기가 확인/유선 인 경우이 구매는 월간 Marketplace 청구서에 포함 됩니다.
 
-MOSP(Microsoft 온라인 서비스 프로그램), MCA(Microsoft 고객 계약) 및 MPA(Microsoft 파트너 계약) 청구 계정에 대한 청구서가 생성됩니다. 청구서는 청구 계정 유형에 따라 생성 됩니다. [청구 기간이](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)끝난 후 며칠 동안 Azure Marketplace 청구 됩니다. Azure Marketplace, 예약 및 지점 Vm에 대 한 송장은 [월 9 일](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)에 생성 됩니다. 이전 달의 각 요금을 표시 합니다. 예를 들어 사용자가 3 월 1 일에 예약을 구매 하 고 3 월 30 일에 다른 예약을 구입한 경우 4 월의 단일 청구서에는 두 예약이 모두 포함 됩니다.
+MOSP(Microsoft 온라인 서비스 프로그램), MCA(Microsoft 고객 계약) 및 MPA(Microsoft 파트너 계약) 청구 계정에 대한 청구서가 생성됩니다. 청구서는 청구 계정 유형에 따라 생성 됩니다. 청구 기간이 끝난 후 며칠 동안 Azure Marketplace 청구 됩니다. Azure Marketplace, 예약 및 지점 Vm에 대 한 송장은 [월 9 일](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)에 생성 됩니다. 이전 달의 각 요금을 표시 합니다. 예를 들어 사용자가 3 월 1 일에 예약을 구매 하 고 3 월 30 일에 다른 예약을 구입한 경우 4 월의 단일 청구서에는 두 예약이 모두 포함 됩니다.
 
 청구서에 대 한 자세한 내용은 [Azure 외부 서비스 요금 이해](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)를 참조 하세요.
 
