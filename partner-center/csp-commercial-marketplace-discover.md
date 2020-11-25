@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000417"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038858"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
 
 **적용 대상**
 
@@ -32,21 +32,21 @@ Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품
 
 ISV 제품이 파트너 센터에서 기대한 대로 표시 되지 않는 경우 다음 때문일 수 있습니다.
 
-- ISV는 CSP 프로그램을 통해 제품을 판매 하지 않기로 결정 했습니다. 예를 들어 일부 ISV 제품은 상용 marketplace의 다른 영역 (예: [Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 사용할 수 있었지만 파트너 센터 marketplace의 csp에는 표시 되지 않을 수 있습니다.
+- ISV는 CSP 프로그램을 통해 제품을 판매 하지 않기로 결정 했습니다. 예를 들어 일부 ISV 제품은 상용 marketplace의 다른 영역 (예: [Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 사용할 수 있었지만 파트너 센터 marketplace의 CSP 프로그램에서 파트너에 게 표시 되지 않을 수 있습니다.
 
 - ISV는 선택 된 수의 CSP 파트너만이 제품을 독점적으로 만들도록 결정 했습니다. 독점적 제공에 대 한 자세한 내용은이 도움말 항목의 뒷부분에 나오는을 참조 하세요.
 
-- 제품 유형이 파트너 센터 또는 Azure Portal (예: 컨테이너 또는 일부 사용량 기반 제품)를 통해 불가능 않을 수도 있습니다.
+- 제품 유형이 파트너 센터 또는 Azure Portal (예: 컨테이너 또는 일부 사용량 기반 제품)를 통해 불가능 않을 수 있습니다.
 
 - 연결 된 고객의 청구 국가는이 ISV 제품에 대해 지원 되지 않을 수 있습니다.
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>파트너 센터에서 Marketplace 제품 보기
 
-CSP 프로그램에서 사용 가능한 상용 marketplace 제품을 보려면 다음을 수행 합니다. 
+CSP 프로그램에서 사용 가능한 상용 marketplace 제품을 보려면 다음을 수행 합니다.
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음, 왼쪽 탐색 메뉴에서 **CSP** 를 선택 합니다.
 
-2. **판매**를 선택 하 고 **Marketplace**를 선택 합니다. 기본적으로 모든 형식 및 범주의 제품이 표시 됩니다.
+2. **판매** 를 선택 하 고 **Marketplace** 를 선택 합니다. 기본적으로 모든 형식 및 범주의 제품이 표시 됩니다.
 
 3. 유형 또는 범주별로 필터를 선택 합니다. 또한 **검색** 을 사용 하 여 특정 키워드, 제품 이름 또는 ISV 게시자의 이름을 찾을 수 있습니다.
 
@@ -70,7 +70,7 @@ CSP 프로그램에서 사용 가능한 상용 marketplace 제품을 보려면 �
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>파트너 센터 Api를 통해 Marketplace 제품 보기
 
-CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반환할 수도 있습니다. 적격 제품은 파트너 센터 marketplace를 통해 구입할 수 있는 SaaS ISV 제품에만 제공 됩니다. Api를 사용 하 여 카탈로그에서 제품을 식별 하는 파트너에 대 한 지침을 참조 하 여 [시장에 대 한 제안 목록을 가져옵니다](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반환할 수도 있습니다. 적격 제품은 파트너가 파트너 센터 marketplace를 통해 판매할 수 있는 SaaS ISV 제품에만 제공 됩니다. Api를 사용 하 여 카탈로그에서 제품을 식별 하는 파트너에 대 한 지침을 참조 하 여 [시장에 대 한 제안 목록을 가져옵니다](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>파트너 센터에서 최신 마켓플레이스 제공 가격 책정 보기
 
@@ -78,9 +78,9 @@ CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반�
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음, 왼쪽 탐색 메뉴에서 **CSP** 를 선택 합니다.
 
-2. **판매**, **가격 책정 및 제품**을 차례로 선택 합니다.
+2. **판매**, **가격 책정 및 제품** 을 차례로 선택 합니다.
 
-3. **Marketplace** 섹션으로 스크롤하고, 위치를 선택 하 고, **marketplace 가격**을 다운로드 합니다. 그러면 ISV 게시자가 사용할 수 있는 SaaS, 라이선스 기반 제품에 대 한 최신 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 일부 Azure 응용 프로그램 가격은 여기에 표시 될 수 있습니다. 이 정보는 매일 업데이트 되므로 선택 하는 빈도에 따라 현재 가격을 확인할 수 있습니다.
+3. **Marketplace** 섹션으로 스크롤하고, 위치를 선택 하 고, **marketplace 가격** 을 다운로드 합니다. 그러면 SaaS, 라이선스 기반 제품 및 ISV 게시자 로부터 제공 되는 요금제에 대 한 최신 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 일부 Azure 응용 프로그램 가격은 여기에 표시 될 수 있습니다. 이 정보는 매일 업데이트 되므로 선택 하는 빈도에 따라 현재 가격을 확인할 수 있습니다.
 
 4. ISV 제품에 무료 평가 기간이 포함 되어 있으면 스프레드시트에 해당 제품에 대 한 두 개의 행이 표시 됩니다.
 

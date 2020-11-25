@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000407"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038832"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업용 Marketplace 개요
 
@@ -55,7 +55,7 @@ CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner
 
 - [Microsoft Azure 관리 포털](https://portal.azure.com/)
 
-    Or
+    또는
 
 - 타사 ISV 게시자의 시스템 또는 웹 사이트
 
@@ -68,7 +68,7 @@ CSP 프로그램의 파트너는 파트너 센터 [대시보드](https://partner
 
 라이선스 기반 또는 사용 기반 ISV 제품에 대 한 특정 marketplace 활동을 완료할 위치를 알아보려면 다음 표를 참조 하세요.
 
-|**Isv의 라이선스 기반 SaaS 제품**  |**사용**  |
+|**Isv의 라이선스 기반 또는 요금제 SaaS 제품**  |**사용**  |
 |:------------------------------------|:------------------|
 |사용 가능한 제품을 검색 하거나 검색 하려면  | 파트너 센터 대시보드 또는 파트너 센터 Api  |
 |제품을 구매 하려면  | 파트너 센터 대시보드 또는 파트너 센터 Api  |
