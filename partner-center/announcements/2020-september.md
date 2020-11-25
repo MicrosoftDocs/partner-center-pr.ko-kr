@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031556"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878803"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
-현재 파트너는 CSP 소프트웨어 주문에 대한 소프트웨어 다운로드 및 라이선스 키의 처리에 파트너 센터 또는 Microsoft 365 관리 센터 중 하나를 사용할 수 있습니다. **2021년 1월 19일**부터 파트너 센터 소프트웨어 및 라이선스 키 처리 기능이 사용 중지될 예정이며, 파트너는 이 목적에 **Microsoft 365 관리 센터**만 사용해야 합니다. 파트너 센터 내의 고객 소프트웨어 페이지에는 고객 라이선스 및 소프트웨어 다운로드를 얻을 수 있는 Microsoft 365 관리 센터에 대한 "딥 링크"가 제공될 예정입니다. 이 링크를 통해 고객에게 가장 안전하고 효율적인 환경을 제공할 수 있습니다.
+현재 파트너는 CSP 소프트웨어 주문에 대한 소프트웨어 다운로드 및 라이선스 키의 처리에 파트너 센터 또는 Microsoft 365 관리 센터 중 하나를 사용할 수 있습니다. **2021년 1월 19일** 부터 파트너 센터 소프트웨어 및 라이선스 키 처리 기능이 사용 중지될 예정이며, 파트너는 이 목적에 **Microsoft 365 관리 센터** 만 사용해야 합니다. 파트너 센터 내의 고객 소프트웨어 페이지에는 고객 라이선스 및 소프트웨어 다운로드를 얻을 수 있는 Microsoft 365 관리 센터에 대한 "딥 링크"가 제공될 예정입니다. 이 링크를 통해 고객에게 가장 안전하고 효율적인 환경을 제공할 수 있습니다.
 
 소프트웨어 라이선스 키와 다운로드 링크는 매우 소중하고 인기가 많은 지적 자산입니다. 유출될 경우 활성화 제한이 빠르게 삭제되어 고객 및 파트너 환경에 부정적인 영향을 미칠 수 있습니다. 따라서 파트너는 이처럼 중요한 자산을 지키고 고객을 보호할 수 있도록 가장 안전한 기술과 모범 사례를 사용하는 것이 중요합니다.
 
@@ -46,7 +46,7 @@ Microsoft 365 관리 센터는 구매한 소프트웨어의 배달 보안을 강
 
 ### <a name="next-steps"></a>다음 단계
 
-- [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
+- [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
 
 - 이 업데이트를 조직의 관련 팀과 공유하세요.
 
@@ -254,9 +254,9 @@ Microsoft 파트너 네트워크의 모든 파트너 조직
 
 ### <a name="summary"></a>요약 
 
-**MyInsights** 보고 도구가 곧 사용 중지되고 파트너 센터 Insights가 그 자리를 대신합니다. 파트너 센터 Insights는 보다 풍부한 시각적 효과, 보다 통찰력 있는 보고 기능 그리고 고객, 구독, 라이선스 사용, 재판매인 성과, 교육, 역량 및 혜택을 아우르는 KPI를 제공합니다. 이러한 인텔리전트 인사이트를 사용하면 Microsoft를 통해 비즈니스를 명확하게 이해하고 확신을 가지고 데이터에 근거한 결정을 내릴 수 있습니다. 시작하려면 파트너 센터의 왼쪽 탐색 메뉴에서 **Insights**를 선택합니다.
+**MyInsights** 보고 도구가 곧 사용 중지되고 파트너 센터 Insights가 그 자리를 대신합니다. 파트너 센터 Insights는 보다 풍부한 시각적 효과, 보다 통찰력 있는 보고 기능 그리고 고객, 구독, 라이선스 사용, 재판매인 성과, 교육, 역량 및 혜택을 아우르는 KPI를 제공합니다. 이러한 인텔리전트 인사이트를 사용하면 Microsoft를 통해 비즈니스를 명확하게 이해하고 확신을 가지고 데이터에 근거한 결정을 내릴 수 있습니다. 시작하려면 파트너 센터의 왼쪽 탐색 메뉴에서 **Insights** 를 선택합니다.
 
-**MyInsights**는 2020년 9월 30일 이후로 더 이상 사용할 수 없습니다. 
+**MyInsights** 는 2020년 9월 30일 이후로 더 이상 사용할 수 없습니다. 
 
 ### <a name="what-is-insights"></a>Insights란?
 
@@ -291,7 +291,7 @@ ________________
 
 ### <a name="summary"></a>요약
 
-2020년 9월 22일부터 파트너는 업데이트된 퍼블릭 **파트너 센터 SDK GitHub 샘플**과 함께 .NET SDK v1.16.2(.NET Standard SDK Microsoft 파트너 센터 버전)의 다운로드를 시작할 수 있습니다.
+2020년 9월 22일부터 파트너는 업데이트된 퍼블릭 **파트너 센터 SDK GitHub 샘플** 과 함께 .NET SDK v1.16.2(.NET Standard SDK Microsoft 파트너 센터 버전)의 다운로드를 시작할 수 있습니다.
 
 ### <a name="details"></a>세부 정보
 
@@ -337,7 +337,7 @@ Microsoft 필드 및 파트너
 ### <a name="details"></a>세부 정보
 
 오늘 IoT 워크로드에 최적화된 실시간 데이터 엔진인 Azure SQL Edge의 가용성을 발표합니다. 이 컨테이너화된 솔루션은 SQL Server 및 Azure SQL을 지원하는 동일한 엔진을 기반으로 하며 많은 팀이 이미 알고 신뢰하는 동일한 업계 최고의 보안, 친숙한 개발자 경험 및 도구를 제공합니다.
-Azure SQL Edge는 CSP(클라우드 솔루션 공급자)가 **9월 24일 목요일**에 구매할 수 있습니다.
+Azure SQL Edge는 CSP(클라우드 솔루션 공급자)가 **9월 24일 목요일** 에 구매할 수 있습니다.
 
 [Azure SQL Edge](https://aka.ms/sqledge)는 차지하는 공간이 적은 컨테이너로 실시간 인사이트를 위한 데이터 스트리밍, 저장 및 분석이 가능합니다. 연결, 연결 해제 또는 하이브리드 환경의 에지 서버, 게이트웨이 및 디바이스에 배포합니다.
 
@@ -432,7 +432,7 @@ ________________
 
 #### <a name="mpa-reporting-in-partner-center"></a>파트너 센터에서 MPA 보고
 
-1. MPA 보고서에 액세스하여 파트너 센터의 계정이 있는 간접 재판매인의 세부 정보와 해당 MPA 승인 상태를 확인합니다. 보고서를 보려면 파트너 센터에 로그인하고 왼쪽 메뉴에서 **분석/재판매인 분석**으로 이동합니다.
+1. MPA 보고서에 액세스하여 파트너 센터의 계정이 있는 간접 재판매인의 세부 정보와 해당 MPA 승인 상태를 확인합니다. 보고서를 보려면 파트너 센터에 로그인하고 왼쪽 메뉴에서 **분석/재판매인 분석** 으로 이동합니다.
 
 2. 오른쪽에 있는 다운로드 아이콘을 클릭하여 보고서를 다운로드합니다.
 3. 빈 Excel 파일을 열고 다운로드한 "tsv" 파일을 Excel 파일로 끌어옵니다.
@@ -504,7 +504,7 @@ Intelligent Content Services는 고급 AI를 사용하여 콘텐츠 캡처, 태�
 
 - Microsoft 365 E5 및 Office 365 E5에는 Microsoft Search용 Microsoft Graph 커넥터(A5에는 포함되지 않음)를 사용하여 최대 500개의 항목을 인덱싱할 수 있는 기능이 포함됩니다.  
 - SharePoint 또는 OneDrive 플랜이 포함된 제품군 또는 독립 실행형 라이선스가 있는 사용자는 Microsoft Search용 Microsoft Graph 커넥터에서 검색 결과를 볼 수 있습니다. 
-- 새 **Graph 추가 커넥터 용량 SKU**를 사용하여 최대 100만 개의 추가 항목을 인덱싱할 수 있습니다.  
+- 새 **Graph 추가 커넥터 용량 SKU** 를 사용하여 최대 100만 개의 추가 항목을 인덱싱할 수 있습니다.  
 
 #### <a name="offer-details"></a>솔루션 세부 정보
 

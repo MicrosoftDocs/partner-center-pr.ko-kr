@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031806"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947684"
 ---
 # <a name="august-2020-announcements"></a>2020년 8월 공지
 
@@ -89,7 +89,7 @@ ________________
 
 ### <a name="summary"></a>요약
 
-2020년 7월 21일부터 파트너는 업데이트된 퍼블릭 **파트너 센터 SDK GitHub 샘플**과 함께 .NET SDK v1.16.1( **.NET Standard SDK Microsoft 파트너 센터** 버전)의 다운로드를 시작할 수 있습니다.
+2020년 7월 21일부터 파트너는 업데이트된 퍼블릭 **파트너 센터 SDK GitHub 샘플** 과 함께 .NET SDK v1.16.1( **.NET Standard SDK Microsoft 파트너 센터** 버전)의 다운로드를 시작할 수 있습니다.
 
 ### <a name="details"></a>세부 정보
 
@@ -167,8 +167,6 @@ Microsoft Teams의 새로운 고급 통신 추가 기능이 사용자 1인당 �
 
 출시와 함께 릴리스
 - 라이브 이벤트는 참가자 20000명으로 제한(동시에 50명, 16시간)
-- 규정 준수 기록 통합(ISV) 
-- 연락 센터 솔루션 통합(ISV) 
 
 나중에 달력 연도 2020년에 릴리스
 - 1,000명 대화형 Teams 회의 
