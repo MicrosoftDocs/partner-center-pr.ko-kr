@@ -1,7 +1,7 @@
 ---
 title: 파트너 계정의 위치 관리
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 새 위치를 추가하는 방법 및 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100773"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514805"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN 계정 위치 관리 및 새 위치 추가
 
@@ -58,29 +58,26 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 
 1. 파트너 센터에서 MPN 계정을 사용하여 로그인합니다. MPN 계정에는 전역 관리자 또는 계정 관리자 권한이 있어야 합니다. 
 
-1. **설정 아이콘**에서 **파트너 설정**을 선택합니다.
+1. **설정 아이콘** 에서 **조직 설정** 을 선택합니다.
 
-2. **위치**를 선택합니다.
+2. **법적** 을 선택한 다음, **위치** 를 선택합니다.
 
-3. **위치 추가**를 선택하고 회사에 추가하려는 위치의 주소 정보와 위치의 기본 연락처를 입력합니다.
+3. **위치 추가** 를 선택하고 회사에 추가하려는 위치의 주소 정보와 위치의 기본 연락처를 입력합니다.
 
 > [!NOTE]
-> 파트너 센터에서 추가한 위치는 제거할 수 없습니다. 올바른 MPN ID를 사용하여 로그인한 경우 파트너 센터의 왼쪽 메뉴에 **MPN**이 표시됩니다.
+> 파트너 센터에서 추가한 위치는 제거할 수 없습니다. 올바른 MPN ID를 사용하여 로그인한 경우 파트너 센터의 왼쪽 메뉴에 **MPN** 이 표시됩니다.
 
 ## <a name="change-global-partner-account-location"></a>글로벌 파트너 계정 위치 변경
 
-1. **[위치](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** 페이지에서 위치 목록을 검사하여 법인으로 사용할 위치가 나열되는지 확인합니다. 그렇지 않은 경우 추가합니다.
+1. **[비즈니스 위치](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** 에서 위치 목록을 검사하여 법인으로 사용할 위치가 나열되는지 확인합니다. 그렇지 않은 경우 추가합니다.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 위치 구조":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="현재 모든 위치의 목록이 포함된 파트너 센터 계정 위치 페이지의 스크린샷":::
 
-2. **파트너 프로필**, **법적 비즈니스 프로필 업데이트**를 차례로 선택합니다.
+2. **법적** 을 선택한 다음, **법적 비즈니스 프로필 업데이트** 를 선택합니다.
+  
+3. 지역 및 법인을 선택하고 **제출** 을 선택합니다.
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 위치 구조":::
-
-3. 지역 및 법인을 선택하고 **제출**을 선택합니다.
-
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 위치 구조":::
-
+  
 ## <a name="next-steps"></a>다음 단계
 
 - [확인 프로세스](verification-responses.md)에 대해 알아보세요.
