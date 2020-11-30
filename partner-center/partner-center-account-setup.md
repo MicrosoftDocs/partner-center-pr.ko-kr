@@ -1,130 +1,138 @@
 ---
 title: 파트너 센터 계정 관리
-description: 파트너 센터에서 회사의 프로필, 카탈로그, 은행 및 세금 정보, 역할, 권한 등을 관리하는 방법을 알아봅니다.
-ms.topic: article
+ms.topic: conceptual
+ms.date: 11/20/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-author: parthpandyaMSFT
-ms.author: parthp
+ms.subservice: partnercenter-mpn
+description: 파트너 센터에서 회사 프로필, 은행 및 세금 정보 등을 관리할 수 있는 위치에 대해 알아봅니다.
+author: varsha-sarah
+ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 10/19/2020
-ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 4cdaa7f8a2a6c8643b86f3e34569c2140ecd7450
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333935"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95007038"
 ---
-# <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a><span data-ttu-id="67b6a-103">파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등</span><span class="sxs-lookup"><span data-stu-id="67b6a-103">Manage your Partner Center account - company profiles, bank information, roles, permissions & more</span></span>
+# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a><span data-ttu-id="549ff-103">파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등</span><span class="sxs-lookup"><span data-stu-id="549ff-103">Manage your Partner Center account - company profile, bank information, roles, permissions, and more</span></span>
 
-<span data-ttu-id="67b6a-104">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="67b6a-104">**Applies to**</span></span>
+<span data-ttu-id="549ff-104">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="549ff-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="67b6a-105">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="67b6a-105">Partner Center</span></span>
+- <span data-ttu-id="549ff-105">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="549ff-105">global admin</span></span>
+- <span data-ttu-id="549ff-106">MPN 관리자</span><span class="sxs-lookup"><span data-stu-id="549ff-106">MPN admin</span></span>
+
+<span data-ttu-id="549ff-107">등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-107">The account you create on the Partner Center when you enroll is your work email plus your business information.</span></span> <span data-ttu-id="549ff-108">계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-108">After you create an account, you will finish setting up your company's full profile including support details, file tax exemptions if appropriate, and primary contact information.</span></span> <span data-ttu-id="549ff-109">또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-109">Your company's account will also include user accounts for anyone who will use the Partner Center for adding or managing customers, selling subscriptions, working with billing and invoicing, creating business profiles, managing referrals, working with incentives programs, and providing support.</span></span>
+
+<span data-ttu-id="549ff-110">참고 항목</span><span class="sxs-lookup"><span data-stu-id="549ff-110">See also</span></span> 
+
+- [<span data-ttu-id="549ff-111">파트너 센터에 가입하도록 직원 초대</span><span class="sxs-lookup"><span data-stu-id="549ff-111">Invite employees to join Partner Center</span></span>](guide-to-migration.md)
+
+- [<span data-ttu-id="549ff-112">새 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="549ff-112">Add a new user</span></span>](create-user-accounts-and-set-permissions.md)
+
+>[!NOTE]
+><span data-ttu-id="549ff-113">계정 설정 메뉴는 등록된 프로그램에 따라 변경됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-113">The Account settings menu will change depending on the programs you are enrolled in.</span></span> <span data-ttu-id="549ff-114">예를 들어, CSP(클라우드 솔루션 공급자 프로그램)의 파트너인 경우 계정 설정에서 Azure 공유 서비스를 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-114">For example, if you are a partner in the Cloud Solution Provider program (CSP), you will be able to manage your Azure Shared services from Account settings.</span></span>
+
+## <a name="account-management"></a><span data-ttu-id="549ff-115">계정 관리</span><span class="sxs-lookup"><span data-stu-id="549ff-115">Account management</span></span>
+
+<span data-ttu-id="549ff-116">모든 파트너, 상업 및 개발자의 파트너 설정에서 계정 관리에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-116">To access Account management in Partner Center for all partners, commercial and developer, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), and then select the **Settings** option (the gear icon) in the upper-right corner of the screen.</span></span> <span data-ttu-id="549ff-117">이제 모든 프로필과 설정이 결합되므로 더 이상 파트너와 개발자 중에서 선택할 필요가 없습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-117">You no longer have to choose between Partner and Developer as all profiles and settings are now combined.</span></span>
+
+:::image type="content" source="images/accountsettings/opening.png" alt-text="설정 아이콘":::
+
+
+:::image type="content" source="images/accountsettings/accountsettingssv.png" alt-text="계정 설정":::
+
+### <a name="locate-your-mpn-id"></a><span data-ttu-id="549ff-120">MPN ID 찾기</span><span class="sxs-lookup"><span data-stu-id="549ff-120">Locate your MPN ID</span></span>
+
+<span data-ttu-id="549ff-121">파트너이든 개발자이든 관계 없이 지원 티켓을 기록하는 것과 같은 작업에 MPN ID를 사용해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-121">Regardless of whether you are a partner or a developer, you need to use your MPN ID for such things as logging support tickets.</span></span> <span data-ttu-id="549ff-122">MPN ID는 **법적** 세부 정보 페이지에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-122">Your MPN ID is located on your **Legal** details page.</span></span> <span data-ttu-id="549ff-123">**ID 프로필** 에서도 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-123">You can also find it on the **Identity profile**.</span></span>
+
+## <a name="organization-profile"></a><span data-ttu-id="549ff-124">조직 프로필</span><span class="sxs-lookup"><span data-stu-id="549ff-124">Organization profile</span></span>
+
+<span data-ttu-id="549ff-125">**조직 프로필** 페이지에서 법적 비즈니스 프로필, 파트너 프로필 및 회사 위치를 관리합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-125">You manage your legal business profile, partner profile, and company locations on the **Organization profile** page.</span></span> <span data-ttu-id="549ff-126">이 페이지에서는 비즈니스에 대한 최상위 정보를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-126">This page allows you to see the top-level information about your business.</span></span> <span data-ttu-id="549ff-127">각 영역을 자세히 살펴보고 편집할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-127">You can drill into and edit each area.</span></span> <span data-ttu-id="549ff-128">관심 있는 특정 프로그램(MPN, CSP 또는 상업용 Marketplace)에 해당하는 탭을 선택하여 정보 및 심사 상태를 확인합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-128">Select the tab corresponding to the particular program you are interested in (MPN, CSP, or Commercial marketplace) to see your information and vetting status.</span></span>
  
-<span data-ttu-id="67b6a-106">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="67b6a-106">**Appropriate roles**</span></span>
+:::image type="content" source="images/accountsettings/accountsettingsnew.png" alt-text="법적 정보":::
+ 
+### <a name="legal-information"></a><span data-ttu-id="549ff-130">법적 정보</span><span class="sxs-lookup"><span data-stu-id="549ff-130">Legal information</span></span>
 
-- <span data-ttu-id="67b6a-107">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="67b6a-107">Global admin</span></span>
-- <span data-ttu-id="67b6a-108">MPN 계정 관리자</span><span class="sxs-lookup"><span data-stu-id="67b6a-108">MPN account admin</span></span>
+<span data-ttu-id="549ff-131">파트너 센터에 처음 가입하면 회사는 Microsoft와의 확인 프로세스를 거칩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-131">When you first join Partner Center, your company goes through a verification process with Microsoft.</span></span> <span data-ttu-id="549ff-132">**법률 프로필** 에서 확인 상태를 추적할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-132">You can track the status of your verification on the **Legal profile**.</span></span> <span data-ttu-id="549ff-133">Microsoft가 파트너 질문과 관련하여 연락하는 사람인 기본 연락 담당자와 법적 정보 및 상태를 관리하는 기본 법적 연락 담당자는 **법적 프로필** 페이지에 나와 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-133">The primary contact, the person Microsoft will contact regarding partner questions, as well as the primary legal contact, the person who manages your legal information and status, are located on the **Legal profile** page.</span></span> <span data-ttu-id="549ff-134">회사의 모든 사업장 위치는 여기에서 찾을 수 있으며, 사업장 위치를 추가할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-134">All of your company's business locations are found here, and you can add additional business locations here.</span></span>  
 
-<span data-ttu-id="67b6a-109">등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-109">The account you create on the Partner Center when you enroll is your work email plus your business information.</span></span> <span data-ttu-id="67b6a-110">파트너 센터에서 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-110">After you create an account on the Partner Center, you will finish setting up your company's full profile including support details, file tax exemptions if appropriate, and primary contact information.</span></span> <span data-ttu-id="67b6a-111">또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-111">Your company's account will also include user accounts for anyone who will use the Partner Center for adding or managing customers, selling subscriptions, working with billing and invoicing, creating business profiles, managing referrals, working with incentives programs, and providing support.</span></span>
+<span data-ttu-id="549ff-135">[확인 및 계정 정보](verification-responses.md)에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="549ff-135">Learn more about [Verification and your account information](verification-responses.md).</span></span>
 
-<span data-ttu-id="67b6a-112">참고 항목</span><span class="sxs-lookup"><span data-stu-id="67b6a-112">See also</span></span> 
-- [<span data-ttu-id="67b6a-113">파트너 센터에 가입하도록 직원 초대</span><span class="sxs-lookup"><span data-stu-id="67b6a-113">Invite employees to join Partner Center</span></span>](guide-to-migration.md)
-- [<span data-ttu-id="67b6a-114">새 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="67b6a-114">Add a new user</span></span>](create-user-accounts-and-set-permissions.md)
+### <a name="tenants-profile"></a><span data-ttu-id="549ff-136">테넌트 프로필</span><span class="sxs-lookup"><span data-stu-id="549ff-136">Tenants profile</span></span>
 
-## <a name="programs-in-which-you-are-enrolled"></a><span data-ttu-id="67b6a-115">사용자가 등록된 프로그램</span><span class="sxs-lookup"><span data-stu-id="67b6a-115">Programs in which you are enrolled</span></span>
+<span data-ttu-id="549ff-137">Azure AD 테넌트, 상용 및 개발자에 대한 모든 정보는 **테넌트 프로필** 페이지에서 추적할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-137">All your information about your Azure AD tenants, commercial and developer, is tracked on the **Tenant profile** page.</span></span> <span data-ttu-id="549ff-138">이 프로필에서 전역 관리자는 새 테넌트를 파트너 전역 계정에 연결할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-138">This profile is where the global admin can associate new tenants to the partner global account.</span></span>
 
-<span data-ttu-id="67b6a-116">파트너 센터 계정을 관리하기 위해 수행하는 작업의 대부분은 사용자가 등록된 특정 프로그램과 파트너 센터에서 할당받은 사용자 역할 및 권한과 관련이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-116">Much of the work you do to manage your Partner Center account relates to the specific program(s) you are enrolled in and the user roles and permissions you have been assigned in the Partner Center.</span></span>
+### <a name="identifiers"></a><span data-ttu-id="549ff-139">식별자</span><span class="sxs-lookup"><span data-stu-id="549ff-139">Identifiers</span></span> 
 
-<span data-ttu-id="67b6a-117">파트너 센터에서 액세스 권한이 있는 프로그램을 확인하는 방법:</span><span class="sxs-lookup"><span data-stu-id="67b6a-117">To see which programs you have access to in Partner Center:</span></span>
+<span data-ttu-id="549ff-140">**식별자** 섹션에는 회사의 파트너 센터 ID(MPN ID, 게시자 ID, Windows 게시자 ID 등)가 포함되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-140">The **Identifiers** section contains the Partner Center identities for your company -  your MPN IDs, your publisher IDs, your Windows publisher IDs, and more.</span></span> <span data-ttu-id="549ff-141">각 영역을 확장하고 편집할 수 있어, 출판사 등의 기본 연락처를 쉽게 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-141">Each area can be expanded and edited so that, for example, the primary contact for your publishing business is easily located.</span></span>
 
-1. <span data-ttu-id="67b6a-118">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-118">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
-2. <span data-ttu-id="67b6a-119">왼쪽 탐색 창을 살펴봅니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-119">Look to the left navigation pane.</span></span> <span data-ttu-id="67b6a-120">등록된 프로그램과 관련된 옵션이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-120">Options associated with your enrolled programs will appear.</span></span>
+### <a name="company-profile"></a><span data-ttu-id="549ff-142">회사 프로필</span><span class="sxs-lookup"><span data-stu-id="549ff-142">Company profile</span></span>
 
-<span data-ttu-id="67b6a-121">한 가지 예를 들어 보겠습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-121">Here's one example.</span></span> <span data-ttu-id="67b6a-122">사용자가 파트너 센터 대시보드의 **MPN** 프로그램, **추천** 프로그램, **상업용 Marketplace** 프로그램을 포함한 3개 프로그램에 액세스할 수 있다고 가정해 보겠습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-122">Let's assume a user has access to three programs in the Partner Center dashboard: The **MPN** program, the **Referrals** program, and the **Commercial Marketplace** program.</span></span> <span data-ttu-id="67b6a-123">사용자가 파트너 센터 대시보드에 로그인하면 화면 왼쪽에 이러한 3개 프로그램이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-123">When they sign into the Partner Center dashboard, they will see these three programs on the left side of the screen.</span></span>
+<span data-ttu-id="549ff-143">**회사 프로필** 은 독립 소프트웨어 공급업체 또는 CSP 프로그램 파트너와 같이 Microsoft와 파트너 관계 유형을 식별합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-143">The **Company profile** identifies the type of partnership you have with Microsoft, for example, Independent software vendor or CSP program partner.</span></span> <span data-ttu-id="549ff-144">함께 일하는 고객 수, 연간 수익, 회사의 현재 규모에 대한 스냅샷을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-144">You can see a snapshot of the number of customers you are working with, your annual revenue, the current size of your company.</span></span> <span data-ttu-id="549ff-145">회사 정보 페이지에서 회사 정보를 확장할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-145">You can also expand on company information on the Company details page.</span></span> <span data-ttu-id="549ff-146">이 페이지에서 Microsoft와 함께 수행하려는 작업 유형(예: 애플리케이션 빌드, Microsoft 및 타사 소프트웨어 재판매 또는 시스템 통합자)을 Microsoft에 알릴 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-146">On this page you can also tell Microsoft the type of work you want to do with Microsoft, for example, build applications, resell Microsoft and third-party software, or be a systems integrator.</span></span> <span data-ttu-id="549ff-147">또한 현재 비즈니스를 수행하는 위치와 향후 비즈니스를 확장하려는 지역을 정의할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-147">You can also define where you currently do business and the locales where you'd like to expand your business in the future.</span></span>
+
+### <a name="account-merge-profile"></a><span data-ttu-id="549ff-148">계정 병합 프로필</span><span class="sxs-lookup"><span data-stu-id="549ff-148">Account merge profile</span></span>
+
+<span data-ttu-id="549ff-149">파트너 센터에 활성 계정이 있는 회사를 초대하여 귀하의 계정과 병합하면 해당 정보는 **계정 병합** 페이지에서 관리됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-149">When you invite a company that has an active account in Partner Center to merge their account with yours, that information is managed on the **Account merge** page.</span></span> <span data-ttu-id="549ff-150">초대하려는 회사의 MPN ID를 조회하여 사용자와 병합하고, 현재 병합자를 보고, 회사에 초대장을 보냅니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-150">Look up the MPN ID for the company you'd like to invite to merge with yours, view current mergers, and send invitations to companies.</span></span> <span data-ttu-id="549ff-151">여기에서 회사 계정을 다른 회사 계정에 병합하는 초대를 수락하거나 거부할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-151">This is also where you can accept or reject an invitation to merge your company account into another company's account.</span></span> <span data-ttu-id="549ff-152">계정을 병합하는 방법에 대한 자세한 내용은 [파트너 계정을 다른 파트너 계정과 병합](merge-accounts.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="549ff-152">For detailed information on Merging accounts, read [Merge your partner account with another partner account](merge-accounts.md).</span></span>
+
+### <a name="payout-and-tax"></a><span data-ttu-id="549ff-153">지급액 및 세금</span><span class="sxs-lookup"><span data-stu-id="549ff-153">Payout and tax</span></span> 
+
+<span data-ttu-id="549ff-154">**지급액 및 세금** 에는 **청구지** 정보 및 **P.O 번호** 를 포함한 지급액 및 세금 세부 정보가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-154">The **Payout and tax** contains your Payout and Tax details including the **Bill to** information and **P.O. number**.</span></span> <span data-ttu-id="549ff-155">귀사에 대한 세금 ID 정보도 이 페이지에 나와 있습니다. VAT ID 번호가 있는 경우 해당 번호와 사용하는 통화도 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-155">The tax ID information for your company is on this page as well, including your VAT ID number if you have one and the currency you use.</span></span>
+
+
+## <a name="user-roles-and-permissions"></a><span data-ttu-id="549ff-156">사용자 역할 및 권한</span><span class="sxs-lookup"><span data-stu-id="549ff-156">User roles and permissions</span></span>
+
+<span data-ttu-id="549ff-157">파트너 센터에서 작업하는 방법과 업데이트하거나 볼 수 있는 영역은 역할 및 해당 역할에 연결된 권한에 따라 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-157">How your work in Partner Center and the areas you are able to update or see depends on your role and the permissions attached to that role.</span></span> <span data-ttu-id="549ff-158">예를 들어 인센티브 관리자가 아닌 경우 데이터를 볼 수는 있지만 인센티브 페이지의 내용을 변경할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-158">For example, if you aren't an Incentives admin, you won't be able to change anything on the Incentives pages though you may be able to view the data.</span></span> 
+
+### <a name="update-preferred-email"></a><span data-ttu-id="549ff-159">기본 설정 이메일 업데이트</span><span class="sxs-lookup"><span data-stu-id="549ff-159">Update preferred email</span></span>
+
+<span data-ttu-id="549ff-160">파트너 센터 알림을 받기 위해 기본 설정 이메일을 업데이트하려면 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-160">To update your preferred email to receive Partner Center notifications:</span></span> 
+
+1. <span data-ttu-id="549ff-161">[파트너 센터 대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-161">Sign in to your [Partner Center dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="549ff-162">[**참여 기본 설정**](https://partner.microsoft.com/dashboard/engagement/preference)으로 이동하고 **변경** 링크를 선택한 후 이메일 주소를 업데이트하고 **저장** 을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-162">Go to [**Engagement preference**](https://partner.microsoft.com/dashboard/engagement/preference), select the **Change** link, update the email address and click **Save**.</span></span>
+
+### <a name="find-your-user-role"></a><span data-ttu-id="549ff-163">사용자 역할 찾기</span><span class="sxs-lookup"><span data-stu-id="549ff-163">Find your user role</span></span>
+
+1. <span data-ttu-id="549ff-164">**설정** 으로 이동하고 **내 프로필** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-164">Go to **Settings** and select **My profile**.</span></span>
+ 
+1. <span data-ttu-id="549ff-165">**세부 정보** 페이지에서 업무 및 학습, 시험 및 인증 데이터와 관련된 개인 정보를 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-165">On the **Details** page, you will see your personal information as it pertains to your work and your learning, exams and certifications data.</span></span>
+ 
+1. <span data-ttu-id="549ff-166">**역할 및 권한** 탭을 선택합니다. 여기에서 할당된 모든 역할과 해당 역할이 제공하는 사용 권한을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-166">Select the **Roles and permissions** tab. Here you will see all the roles you have been assigned and the permissions those roles provide.</span></span>
+
+## <a name="programs-in-which-you-are-enrolled"></a><span data-ttu-id="549ff-167">사용자가 등록된 프로그램</span><span class="sxs-lookup"><span data-stu-id="549ff-167">Programs in which you are enrolled</span></span>
+
+<span data-ttu-id="549ff-168">파트너 센터 계정을 관리하기 위해 수행하는 작업의 대부분은 사용자가 등록된 특정 프로그램과 파트너 센터에서 할당받은 사용자 역할 및 권한과 관련이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-168">Much of the work you do to manage your Partner Center account relates to the specific programs you are enrolled in and the user roles and permissions you have been assigned in the Partner Center.</span></span>
+
+<span data-ttu-id="549ff-169">파트너 센터에서 액세스 권한이 있는 프로그램을 확인하는 방법:</span><span class="sxs-lookup"><span data-stu-id="549ff-169">To see which programs you have access to in Partner Center:</span></span>
+
+1. <span data-ttu-id="549ff-170">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-170">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+
+2. <span data-ttu-id="549ff-171">왼쪽 탐색 메뉴에는 등록된 프로그램이 반영되며 각 프로그램에 사용할 수 있는 옵션이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-171">The left navigation menu will reflect the programs that you are enrolled in and will show the options available for each program.</span></span>
+
+<span data-ttu-id="549ff-172">한 가지 예를 들어 보겠습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-172">Here's one example.</span></span> <span data-ttu-id="549ff-173">사용자가 파트너 센터 대시보드의 **MPN** 프로그램, **추천** 프로그램, **상업용 Marketplace** 프로그램을 포함한 3개 프로그램에 액세스할 수 있다고 가정해 보겠습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-173">Let's assume a user has access to three programs in the Partner Center dashboard: The **MPN** program, the **Referrals** program, and the **Commercial Marketplace** program.</span></span> <span data-ttu-id="549ff-174">사용자가 파트너 센터 대시보드에 로그인하면 화면 왼쪽에 이러한 3개 프로그램이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-174">When they sign into the Partner Center dashboard, they will see these three programs on the left side of the screen.</span></span>
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="등록된 프로그램 메뉴":::
 
-## <a name="account-management"></a><span data-ttu-id="67b6a-125">계정 관리</span><span class="sxs-lookup"><span data-stu-id="67b6a-125">Account management</span></span>
+### <a name="enrolling-in-programs"></a><span data-ttu-id="549ff-176">프로그램에서 등록</span><span class="sxs-lookup"><span data-stu-id="549ff-176">Enrolling in programs</span></span>
 
-<span data-ttu-id="67b6a-126">파트너 센터에서는 현재 **파트너 설정** 및 **개발자 설정** 의 두 섹션에서 계정을 관리합니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-126">Partner Center today has account management under two different sections: **Partner settings** and **Developer settings** .</span></span>
+<span data-ttu-id="549ff-177">사용 가능한 파트너 센터 프로그램은 여러 가지가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-177">There are many Partner Center programs available.</span></span> <span data-ttu-id="549ff-178">각 프로그램에 등록하기 위해 회사에서 충족해야 하는 요구 사항은 프로그램마다 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="549ff-178">Each program has different requirements your company needs to meet before it can enroll in that program.</span></span>
 
->[!NOTE]
-><span data-ttu-id="67b6a-127">**파트너 설정** 또는 **개발자 설정** 에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-127">To access **Partner settings** or **Developer settings** , you need to sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select the **Settings** option (the gear icon) in the upper-right corner of the screen.</span></span> <span data-ttu-id="67b6a-128">그런 다음, 드롭다운 메뉴에서 **파트너 설정** 또는 **개발자 설정** 을 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-128">You can then select either **Partner settings** or **Developer settings** from the drop-down menu.</span></span>
+<span data-ttu-id="549ff-179">특정 파트너 센터 프로그램에서 등록하는 방법에 대한 자세한 내용은 다음 부분 목록을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="549ff-179">To learn about enrolling in certain Partner Center programs, see the following partial list:</span></span>
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="계정 설정":::
+- [<span data-ttu-id="549ff-180">상업용 Marketplace 프로그램</span><span class="sxs-lookup"><span data-stu-id="549ff-180">Commercial Marketplace program</span></span>](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [<span data-ttu-id="549ff-181">Microsoft 파트너 네트워크 멤버십 혜택</span><span class="sxs-lookup"><span data-stu-id="549ff-181">Microsoft Partner Network membership benefits</span></span>](mpn-overview.md)
+- [<span data-ttu-id="549ff-182">CSP 프로그램</span><span class="sxs-lookup"><span data-stu-id="549ff-182">CSP program</span></span>](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [<span data-ttu-id="549ff-183">Office 스토어</span><span class="sxs-lookup"><span data-stu-id="549ff-183">Office Store</span></span>](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
-<span data-ttu-id="67b6a-130">파트너는 회사에서 해당 프로그램에 등록했는지 여부에 따라 **파트너 설정** 및/또는 **개발자 설정** 관리 옵션을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-130">Partners can see the option to manage **Partner settings** and/or **Developer settings** based on whether their company has enrolled in those programs.</span></span> <span data-ttu-id="67b6a-131">회사에서 해당 설정과 연결된 프로그램을 하나 이상 등록한 경우에만 설정 옵션을 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-131">The settings option will only be available if your company has enrolled in at least one program associated with that setting.</span></span>
+<span data-ttu-id="549ff-184">파트너 센터 프로그램에 등록하는 방법에 대한 자세한 내용은 [파트너 네트워크 리소스](https://partner.microsoft.com/)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="549ff-184">To learn more about enrolling in Partner Center programs, see also [Partner network resources](https://partner.microsoft.com/).</span></span>
 
-<span data-ttu-id="67b6a-132">계정 설정을 관리하려면 해당 프로그램에 적절한 계정 설정 옵션을 선택해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-132">To manage your account settings, you must select the appropriate account settings option for the program in question.</span></span>  
 
-<span data-ttu-id="67b6a-133">다음은 사용할 수 있는 프로그램의 일부 목록과 해당 프로그램과 관련된 해당 설정 옵션입니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-133">This is a partial list of programs available and the corresponding settings option associated with that program:</span></span>
+## <a name="next-steps"></a><span data-ttu-id="549ff-185">다음 단계</span><span class="sxs-lookup"><span data-stu-id="549ff-185">Next steps</span></span>
 
-|<span data-ttu-id="67b6a-134">**프로그램 이름**</span><span class="sxs-lookup"><span data-stu-id="67b6a-134">**Program name**</span></span>   |<span data-ttu-id="67b6a-135">**설정 옵션**</span><span class="sxs-lookup"><span data-stu-id="67b6a-135">**Settings option**</span></span> |
-|---------------------|:-----------------------|
-|<span data-ttu-id="67b6a-136">MPN</span><span class="sxs-lookup"><span data-stu-id="67b6a-136">MPN</span></span>   |<span data-ttu-id="67b6a-137">파트너</span><span class="sxs-lookup"><span data-stu-id="67b6a-137">Partner</span></span>|
-|<span data-ttu-id="67b6a-138">CSP</span><span class="sxs-lookup"><span data-stu-id="67b6a-138">CSP</span></span>    |<span data-ttu-id="67b6a-139">파트너</span><span class="sxs-lookup"><span data-stu-id="67b6a-139">Partner</span></span>|
-|<span data-ttu-id="67b6a-140">조회</span><span class="sxs-lookup"><span data-stu-id="67b6a-140">Referrals</span></span>   |<span data-ttu-id="67b6a-141">파트너</span><span class="sxs-lookup"><span data-stu-id="67b6a-141">Partner</span></span>|
-|<span data-ttu-id="67b6a-142">상업용 Marketplace</span><span class="sxs-lookup"><span data-stu-id="67b6a-142">Commercial Marketplace</span></span>|<span data-ttu-id="67b6a-143">Developer</span><span class="sxs-lookup"><span data-stu-id="67b6a-143">Developer</span></span>|
-|<span data-ttu-id="67b6a-144">Windows 및 Xbox</span><span class="sxs-lookup"><span data-stu-id="67b6a-144">Windows and Xbox</span></span>|<span data-ttu-id="67b6a-145">Developer</span><span class="sxs-lookup"><span data-stu-id="67b6a-145">Developer</span></span>|
-|<span data-ttu-id="67b6a-146">Office 스토어</span><span class="sxs-lookup"><span data-stu-id="67b6a-146">Office Store</span></span>|<span data-ttu-id="67b6a-147">Developer</span><span class="sxs-lookup"><span data-stu-id="67b6a-147">Developer</span></span>|
-|<span data-ttu-id="67b6a-148">Edge 확장</span><span class="sxs-lookup"><span data-stu-id="67b6a-148">Edge extensions</span></span>|<span data-ttu-id="67b6a-149">Developer</span><span class="sxs-lookup"><span data-stu-id="67b6a-149">Developer</span></span>|
-
-## <a name="the-differences-in-partner-and-developer-settings-options"></a><span data-ttu-id="67b6a-150">파트너 및 개발자 설정 옵션의 차이점</span><span class="sxs-lookup"><span data-stu-id="67b6a-150">The differences in Partner and Developer settings options</span></span>
-
-### <a name="locate-your-mpn-id"></a><span data-ttu-id="67b6a-151">MPN ID 찾기</span><span class="sxs-lookup"><span data-stu-id="67b6a-151">Locate your MPN ID</span></span>
-
-<span data-ttu-id="67b6a-152">파트너이든 개발자이든 관계 없이 지원 티켓을 기록하는 것과 같은 작업에 MPN ID를 사용해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-152">Regardless of whether you are a partner or a developer, you need to use your MPN ID for such things as logging support tickets.</span></span> <span data-ttu-id="67b6a-153">개발자의 경우 MPN ID는 **계정 설정** 세부 정보 페이지에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-153">If you are a developer, your MPN ID is located on your **Account settings** details page.</span></span>
-
-<span data-ttu-id="67b6a-154">파트너 MPN ID는 **파트너 프로필** 페이지에 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-154">The partner MPN ID is located on the **Partner profile** page.</span></span>
-
-### <a name="see-partner-and-developer-settings"></a><span data-ttu-id="67b6a-155">파트너 및 개발자 설정 참조</span><span class="sxs-lookup"><span data-stu-id="67b6a-155">See partner and developer settings</span></span>
-
-<span data-ttu-id="67b6a-156">**파트너 설정** 옵션은 **개발자 설정** 옵션과 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-156">**Partner settings** options will differ from **Developer settings** options.</span></span> <span data-ttu-id="67b6a-157">각 옵션 집합의 샘플 스크린샷은 아래를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="67b6a-157">See below for sample screenshots of each set of options.</span></span> <span data-ttu-id="67b6a-158">다른 프로그램에 대한 액세스 권한이 있는 경우 여기에 표시된 스크린샷 샘플과 다른 옵션도 표시될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-158">If you have access to other programs, you may also see different options than the screenshot samples shown here.</span></span>
-
-<span data-ttu-id="67b6a-159">**파트너 설정 옵션** :</span><span class="sxs-lookup"><span data-stu-id="67b6a-159">**Partner settings options** :</span></span>
-
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="파트너 옵션":::
-
-<span data-ttu-id="67b6a-161">**개발자 설정 옵션** :</span><span class="sxs-lookup"><span data-stu-id="67b6a-161">**Developer settings options** :</span></span>
-
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="개발자 옵션":::
-
-## <a name="enrolling-in-programs"></a><span data-ttu-id="67b6a-163">프로그램에서 등록</span><span class="sxs-lookup"><span data-stu-id="67b6a-163">Enrolling in programs</span></span>
-
-<span data-ttu-id="67b6a-164">사용 가능한 파트너 센터 프로그램은 여러 가지가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-164">There are many Partner Center programs available.</span></span> <span data-ttu-id="67b6a-165">각 프로그램에 등록하기 위해 회사에서 충족해야 하는 요구 사항은 프로그램마다 다릅니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-165">Each program has different requirements your company needs to meet before it can enroll in that program.</span></span>
-
-<span data-ttu-id="67b6a-166">특정 파트너 센터 프로그램에서 등록하는 방법에 대한 자세한 내용은 다음 부분 목록을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="67b6a-166">To learn about enrolling in certain Partner Center programs, see the following, partial list:</span></span>
-
-- [<span data-ttu-id="67b6a-167">상업용 Marketplace 프로그램</span><span class="sxs-lookup"><span data-stu-id="67b6a-167">Commercial Marketplace program</span></span>](/azure/marketplace/partner-center-portal/create-account)
-- [<span data-ttu-id="67b6a-168">MPN 프로그램</span><span class="sxs-lookup"><span data-stu-id="67b6a-168">MPN program</span></span>](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [<span data-ttu-id="67b6a-169">CSP 프로그램</span><span class="sxs-lookup"><span data-stu-id="67b6a-169">CSP program</span></span>](enrolling-in-the-csp-program.md)
-- [<span data-ttu-id="67b6a-170">Office 스토어</span><span class="sxs-lookup"><span data-stu-id="67b6a-170">Office Store</span></span>](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
-
-<span data-ttu-id="67b6a-171">파트너 센터 프로그램에 등록하는 방법에 대한 자세한 내용은 [파트너 네트워크 리소스](https://partner.microsoft.com/)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="67b6a-171">To learn more about enrolling in Partner Center programs, see also [Partner network resources](https://partner.microsoft.com/).</span></span>
-
-## <a name="the-account-picker"></a><span data-ttu-id="67b6a-172">계정 선택기</span><span class="sxs-lookup"><span data-stu-id="67b6a-172">The account picker</span></span>
-
-<span data-ttu-id="67b6a-173">둘 이상의 계정에 속할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-173">You can be part of more than one account.</span></span> <span data-ttu-id="67b6a-174">여러 계정에 속한 경우 왼쪽 탐색 메뉴에 "계정 선택기"가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-174">If you are part of multiple accounts you will see the “account picker” in the left navigation menu.</span></span> <span data-ttu-id="67b6a-175">계정 선택기를 선택하면 구성원인 모든 계정이 목록으로 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-175">If you select the account picker, all the accounts you are a member of will appear as a list.</span></span> <span data-ttu-id="67b6a-176">이러한 계정 중 하나를 선택하여 해당 계정으로 전환할 수 있습니다. 그러면 해당 계정과 관련된 모든 프로그램 및 정보가 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-176">You can select any of them and switch to that account where you will see all programs and information that pertains to that account.</span></span> <span data-ttu-id="67b6a-177">계정 선택기가 표시되지 않으면 단일 계정의 구성원입니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-177">If you don't see an account picker, you a member of a single account.</span></span>
-
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="계정 선택기":::
-
-## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a><span data-ttu-id="67b6a-179">파트너 센터 계정을 관리하는 데 도움이 되는 기타 리소스</span><span class="sxs-lookup"><span data-stu-id="67b6a-179">Other resources to help you manage your Partner Center account</span></span>
-
-<span data-ttu-id="67b6a-180">MPN 프로그램 또는 CSP(클라우드 솔루션 공급자) 프로그램과 같은 프로그램에 등록된 경우 다음 리소스를 통해 계정을 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-180">If you are enrolled in programs like the MPN program or the Cloud Solution Provider (CSP) program, the following resources may help you manage your account.</span></span>
-
-|<span data-ttu-id="67b6a-181">**수행할 작업**</span><span class="sxs-lookup"><span data-stu-id="67b6a-181">**To do this**</span></span>   |<span data-ttu-id="67b6a-182">**이 글 읽기**</span><span class="sxs-lookup"><span data-stu-id="67b6a-182">**Read this**</span></span>   |
-|-----------------------|:-----------------------|
-|<span data-ttu-id="67b6a-183">회사 프로필을 최신 상태로 유지</span><span class="sxs-lookup"><span data-stu-id="67b6a-183">Ensure your company profile is current</span></span>   |[<span data-ttu-id="67b6a-184">파트너 프로필 업데이트</span><span class="sxs-lookup"><span data-stu-id="67b6a-184">Update your partner profile</span></span>](update-your-partner-profile.md)|
-|<span data-ttu-id="67b6a-185">새 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="67b6a-185">Add new users</span></span>|[<span data-ttu-id="67b6a-186">사용자 계정 만들기 및 사용 권한 할당</span><span class="sxs-lookup"><span data-stu-id="67b6a-186">Create user accounts and assign permissions</span></span>](create-user-accounts-and-set-permissions.md)|
-|<span data-ttu-id="67b6a-187">확인 상태 찾기</span><span class="sxs-lookup"><span data-stu-id="67b6a-187">Find the status of your verification</span></span>|[<span data-ttu-id="67b6a-188">계정 정보 확인</span><span class="sxs-lookup"><span data-stu-id="67b6a-188">Verify your account information</span></span>](verification-responses.md)|
-|<span data-ttu-id="67b6a-189">파트너 센터에서 작업을 해야 하는 모든 직원에게 역할을 할당해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-189">Everyone in your company who needs to work in the Partner Center must be assigned roles.</span></span> <span data-ttu-id="67b6a-190">역할마다 고유의 권한이 있으며 접근 가능한 작업이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="67b6a-190">Each role has specific permissions and tasks available to it.</span></span>|[<span data-ttu-id="67b6a-191">사용자 계정 만들기 및 권한 설정</span><span class="sxs-lookup"><span data-stu-id="67b6a-191">Create user accounts and set permissions</span></span>](create-user-accounts-and-set-permissions.md)|
-|<span data-ttu-id="67b6a-192">각 역할이 제공하는 권한 검토</span><span class="sxs-lookup"><span data-stu-id="67b6a-192">Review the permissions each role entails</span></span>|[<span data-ttu-id="67b6a-193">사용자 역할 및 권한 할당</span><span class="sxs-lookup"><span data-stu-id="67b6a-193">Assign users roles and permissions</span></span>](permissions-overview.md)
-|<span data-ttu-id="67b6a-194">회사의 위치 관리</span><span class="sxs-lookup"><span data-stu-id="67b6a-194">Manage your company's locations</span></span>|[<span data-ttu-id="67b6a-195">파트너 계정 관리: 위치</span><span class="sxs-lookup"><span data-stu-id="67b6a-195">Manage your partner account: Locations</span></span>](manage-locations.md)
-|<span data-ttu-id="67b6a-196">직원이 암호를 잊었거나 암호를 다시 설정해야 하는 경우</span><span class="sxs-lookup"><span data-stu-id="67b6a-196">If an employee forgets their password and you need to reset it</span></span>  |[<span data-ttu-id="67b6a-197">사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="67b6a-197">Reset a user password</span></span>](reset-a-user-password.md)|
-|<span data-ttu-id="67b6a-198">파트너 센터에 제어판 공급업체로 등록</span><span class="sxs-lookup"><span data-stu-id="67b6a-198">Enroll in Partner Center as a Control Panel Vendor</span></span>|[<span data-ttu-id="67b6a-199">파트너 센터에 제어판 공급업체로 등록</span><span class="sxs-lookup"><span data-stu-id="67b6a-199">Enroll in Partner Center as a Control Panel Vendor</span></span>](enroll-as-cpv.md)|
-|<span data-ttu-id="67b6a-200">파트너 센터에서 Microsoft Learn 계정 연결</span><span class="sxs-lookup"><span data-stu-id="67b6a-200">Associate your Microsoft Learn account in Partner Center</span></span>|[<span data-ttu-id="67b6a-201">파트너 센터에서 Microsoft Learn 계정 연결</span><span class="sxs-lookup"><span data-stu-id="67b6a-201">Associate your Microsoft Learn account in Partner Center</span></span>](ms-learn-associate.md)|
-|<span data-ttu-id="67b6a-202">고객이 찾을 수 있도록 회사 마케팅</span><span class="sxs-lookup"><span data-stu-id="67b6a-202">Make sure to market your company so that customers can find you</span></span>   |[<span data-ttu-id="67b6a-203">비즈니스 프로필 만들기</span><span class="sxs-lookup"><span data-stu-id="67b6a-203">Create a business profile</span></span>](create-a-marketing-profile.md)|
-|<span data-ttu-id="67b6a-204">현재 가격 및 제품에 대한 정보 업데이트</span><span class="sxs-lookup"><span data-stu-id="67b6a-204">Stay up-to-date with current pricing and offers</span></span>   |[<span data-ttu-id="67b6a-205">가격 책정 및 제품</span><span class="sxs-lookup"><span data-stu-id="67b6a-205">Pricing and offers</span></span>](pricing-and-offers.md)|
-|<span data-ttu-id="67b6a-206">API: 파트너 MPN ID 확인</span><span class="sxs-lookup"><span data-stu-id="67b6a-206">API: Verify a partner MPN ID</span></span>|[<span data-ttu-id="67b6a-207">파트너 MPN ID 확인</span><span class="sxs-lookup"><span data-stu-id="67b6a-207">Verify a partner MPN ID</span></span>](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)
+- [<span data-ttu-id="549ff-186">파트너 프로필 업데이트</span><span class="sxs-lookup"><span data-stu-id="549ff-186">Update your partner profile</span></span>](update-your-partner-profile.md)
+- [<span data-ttu-id="549ff-187">사용자 계정 만들기 및 권한 설정</span><span class="sxs-lookup"><span data-stu-id="549ff-187">Create user accounts and set permissions</span></span>](create-user-accounts-and-set-permissions.md)
+- [<span data-ttu-id="549ff-188">사용자 역할 및 권한 할당</span><span class="sxs-lookup"><span data-stu-id="549ff-188">Assign users roles and permissions</span></span>](permissions-overview.md)
+- [<span data-ttu-id="549ff-189">MPN 계정 관리: 위치</span><span class="sxs-lookup"><span data-stu-id="549ff-189">Manage your MPN account: Locations</span></span>](manage-locations.md)
+- [<span data-ttu-id="549ff-190">사용자 암호 다시 설정</span><span class="sxs-lookup"><span data-stu-id="549ff-190">Reset a user password</span></span>](reset-a-user-password.md)
+- [<span data-ttu-id="549ff-191">API: 파트너 법적 비즈니스 프로필 가져오기</span><span class="sxs-lookup"><span data-stu-id="549ff-191">API: Get the partner legal business profile</span></span>](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [<span data-ttu-id="549ff-192">파트너 센터 상업용 Marketplace에서 제품 및 가격 책정 검색</span><span class="sxs-lookup"><span data-stu-id="549ff-192">Discover offers and pricing in the Partner Center commercial marketplace</span></span>](csp-commercial-marketplace-discover.md)
