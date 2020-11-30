@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691302"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514744"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -23,6 +23,219 @@ ms.locfileid: "94691302"
 2020년 공지: [4월](2020-april.md) | [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | [10월](2020-October.md) | 11월
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>파트너 센터에서 요금제를 사용하여 SaaS 제품을 구매하는 기능 소개 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-24
+- 기능
+
+## <a name="summary"></a>요약
+
+Microsoft는 클라우드 솔루션 공급자 프로그램의 파트너가 파트너 센터에서 요금제를 통해 SaaS 제품을 구매할 수 있는 기능을 도입하고 있습니다. 
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+모든 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 간접 공급자 및 직접 청구 파트너를 포함하여 클라우드 솔루션 공급자 프로그램의 파트너가 파트너 센터에서  [요금제](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) 를 통해 SaaS 제품을 구매할 수 있는 기능을 소개합니다. 현재 클라우드 솔루션 공급자 프로그램의 파트너는  [Azure Portal을 통한 요금제로 SaaS 제품을 보고 구매](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)할 수 있습니다. 이 새로운 경험을 통해 파트너는 다른 SaaS 제안 유형에서와 마찬가지로 파트너 센터의 CSP Marketplace 및 API를 통해 이러한 제품을 구매할 수 있습니다. 
+
+### <a name="next-steps"></a>다음 단계
+
+이 정보를 회사 내의 모든 해당 담당자와 공유하세요.
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>새로운 통합 계정 관리 환경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-18
+- 기능
+
+## <a name="summary"></a>요약
+
+11월 18일부터 파트너 센터는 파트너의 사용자 환경을 개선할 새로운 계정 관리 환경을 배포하기 시작합니다. 이제 파트너는 설정 -> 계정 설정에서 모든 프로그램의 계정을 관리할 수 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+모든 파트너
+
+### <a name="details"></a>세부 정보
+
+계정 관리의 주요 변경 사항은 이전에 분리되었던 보기를 통합한 것으로, 상업용 프로그램(Microsoft Partner Network, Cloud Solution Provider, Referrals 등)에 등록된 파트너를 위한 **파트너 설정** 보기와 개발자 프로그램(Commercial Marketplace, Windows 및 Xbox 등)에 등록된 파트너를 위한 **개발자 설정** 보기를 **계정 설정** 보기로 통합했습니다.
+
+### <a name="entry-point"></a>진입점
+
+파트너 센터 대시보드에 로그인한 다음,  **설정** 아이콘을 선택하고 **계정 설정** 을 클릭합니다. 이제 모든 프로필과 설정이 결합되므로 더 이상 파트너와 개발자 중에서 선택할 필요가 없습니다.
+
+### <a name="left-navigation-hierarchy"></a>왼쪽 탐색 계층 구조
+
+- 조직 프로필
+   - 법적 - 법적 비즈니스 프로필, 파트너 프로필 및 회사 위치를 관리합니다.
+   - 테넌트 - Azure AD 테넌트, 상용 및 개발자에 대한 모든 정보는 여기에서 추적할 수 있습니다.
+   - 식별자 - 회사의 파트너 센터 ID(MPNID, publisherId 등)입니다.
+- 사용자 관리 - 사용자를 관리하고 한 곳에서 상업용 및 개발자 역할을 할당합니다. 여기에서 그룹 및 Azure AD 애플리케이션을 관리할 수도 있습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+이 정보를 회사 내의 모든 해당 담당자와 공유하세요.
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>미드 마켓 프로모션을 위한 Office 365 E1(LATAM, APAC 및 인도)
+
+### <a name="categories"></a>범주
+- 날짜: 2020-11-18
+- 제품/시장
+
+### <a name="summary"></a>요약
+LATAM, 인도 및 APAC의 신흥 시장(APAC 내 선진 시장 제외)으로 제한되는 미드 마켓을 위해 새로운 Office 365 E1 프로모션을 도입합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+위에 나열된 참여 시장에서 CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너.
+
+### <a name="details"></a>세부 정보
+프로모션은 CSP용 Office 365 E1의 30% 할인으로 구성되어 있습니다. 2020년 12월 1일에 시작되며 2020년 5월 31일까지 6개월 동안 사용할 수 있습니다. 이 프로모션은 MW 클라우드를 처음 사용하고 최대 500명을 보유한 고객에게만 제공됩니다. 클라우드로 전환하도록 하기 위해 이 프로모션은 LATAM, 인도 및 APAC의 신흥 시장으로 제한됩니다. 
+
+#### <a name="offer-details"></a>솔루션 세부 정보
+
+   |**제품 이름**|**제품 ID**|
+   |-------------------|:------|
+   |미드 마켓 프로모션을 위한 Office 365 E1|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>다음 단계
+이 프로모션은 12월 1일에 제공될 예정입니다. 조직 내의 모든 연락 담당자(참여 지역)와 이 정보를 공유하세요. 참여 지역에서 아직 클라우드에 있지 않은 고객과 교류를 시작하세요. 
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+질문, 쿼리 또는 자세한 내용에 대해서는 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>파트너 센터 API 업데이트 및 UI(사용자 인터페이스)가 향상되어 특정 국가에서 고객 심사 강화
+
+### <a name="categories"></a>범주
+
+- 날짜: 2020-11-17
+- 기능 | 향상된 고객 차단
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+다음 국가에 신규 또는 기존 고객이 있고 CSP(클라우드 솔루션 공급자) 프로그램에 참여하는 직접 청구 파트너 또는 간접 공급자:
+
+- 아르메니아(AM)
+- 아제르바이잔(AZ)
+- 벨로루시(BY)
+- 헝가리(HU)
+- 카자흐스탄(KZ)
+- 키르기스스탄(KG)
+- 몰도바(MD)
+- 러시아(RU)
+- 타지키스탄(TJ)
+- 우즈베키스탄(UZ)
+- 우크라이나(UA)
+
+### <a name="summary"></a>요약
+
+비즈니스 관행 준수와 관련하여 고객 및 파트너에 대한 Microsoft의 지속적인 노력의 일환으로, 특정 국가의 고객을 보유한 파트너가 다음 번에 기존 고객 구독을 업데이트하거나 새 고객을 위해 새 구독을 만들 때 이들 고객에 대한 몇 가지 추가 데이터 필드를 완료하라는 메시지가 표시될 것입니다. 
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 이러한 노력의 일환으로 다음 기준을 모두 충족하는 파트너에게 영향을 미칠 파트너 센터 API 및 UI 개선 사항을 도입했습니다. 
+
+- 파트너가 Microsoft와 직접 청구 관계를 맺음(예: 직접 청구 파트너 또는 간접 공급자) 그리고
+
+- 파트너가 다음 국가의 신규 또는 기존 고객과 함께 비즈니스를 수행합니다. 아르메니아(AM), 아제르바이잔(AZ), 벨로루시(BY), 헝가리(HU), 카자흐스탄(KZ), 키르기스스탄(KG), 몰도바(MD), 러시아(RU), 타지키스탄(TJ), 우즈베키스탄(UZ) 및 우크라이나(UA) 
+
+이러한 국가의 고객을 보유한 파트너의 경우 이제 파트너가 다음 번에 고객에 대한 구독을 업데이트하거나 만들려고 할 때 특정 고객의 **법적 식별자**(고객의 **조직 INN** 이라고도 함) 및 고객의 **전화 번호** 를 제출해야 합니다. 이러한 파트너는 이제 고객에 대해 선택 사항인 **중간 이름** 을 입력할 수도 있습니다.
+
+### <a name="partner-center-enhancements"></a>파트너 센터의 향상된 기능
+
+- 특정 국가의 고객 검증을 개선하기 위해 파트너 센터 UI 향상
+
+- 특정 국가에서 개선된 고객 검증을 지원하는 새로운 API
+
+**파트너 센터 UI - 고객 계정 페이지에 대한 변경 내용**
+
+파트너 센터 고객 계정 페이지가 다음과 같이 업데이트되었습니다.
+
+1. **조직 INN**(법률 식별자라고도 함). 이 필드는 이제 특정 국가의 고객에게 필수입니다. 
+
+   > [!NOTE]
+   > 데이터는 하이픈, 특수 문자 또는 공백 없이 영숫자 문자로만 입력해야 합니다. 파트너는 이러한 국가에서 고객의 연락 담당자와 협력하여 세금 ID 또는 INN 번호와 같은 고객의 법적 식별자 상태를 확인해야 합니다. 국가별 정보에 대한 자세한 내용은 다음 표를 참조하세요.  
+
+2. **중간 이름.** 이 필드는 모든 고객에게 선택 사항입니다. 고객의 중간 이름 또는 이니셜을 알고 있으면 파트너가 여기에 입력할 수 있습니다.
+
+3. **전화 번호.** 이 필드는 이전에 선택 사항이었으나, 이제 특정 국가의 고객에게 필수입니다.  
+
+국가별 **조직 INN**(법률 식별자) 필드 요구 사항은 아래에 나와 있습니다.
+
+| 국가 | A14-영역 | ISO 국가 코드 | 필드 문자 요구 사항 | 고유 언어로 된 국가별 필드 이름 | 영어 번역 또는 설명 |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| 아르메니아 | CEE      | AM               | 8 또는 10자리         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/공용 서비스 번호                     |
+| 아제르바이잔| CEE      | AZ               | 7 또는 10자리         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| 벨라루스 | CEE      | BY               | 9자리         | :::no-loc text="УНП"::: | UNP(세금 ID를 의미)                    |
+| 헝가리 | CEE      | HU               | 10 또는 11자리         | :::no-loc text="TIN"::: | TIN(세금 ID)                     |
+| 카자흐스탄 | CEE      | KZ              | 12자리         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| 키르기스스탄 | CEE      | KG               | 14자리         | :::no-loc text="ИНН"::: | UNN/공용 서비스 번호                     |
+| 몰도바  | CEE        | MD               | 6, 7, 8 또는 13자리         | :::no-loc text="IDNO/IDNP"::: | 법인에 할당된 IDNO(고유 국가 ID 번호)도 회계 코드로 구성됩니다. \"정보통신 기술부(Ministry of Information and Communications Technology)가 몰도바 공화국에 등록된 회사에 관한 국가 법무 등록부(State Register of Law Units)를 정부 개방 데이터 포털인 data.gov.md에 게시해두었습니다.\"                    |
+| 러시아 | CEE      | RU               | 9, 10 또는 12자리         | :::no-loc text="ИНН"::: | INN                     |
+| 타지키스탄 | CEE      | TJ               | 9, 10 또는 12자리     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| 우즈베키스탄 | CEE     | UZ               | 9자리                 | :::no-loc text="INN":::         | INN                               |
+| 우크라이나   | CEE      | UA               | 8, 10 또는 12자리      | :::no-loc text="EGRPOU/EDRPOU":::        | 법인의 식별 코드                             | 
+
+**파트너 센터 API에 대한 변경 내용**
+
+파트너 센터 API에 대해 다음과 같은 계약이 변경됩니다. 이러한 변경 사항은 이전에 언급한 국가의 고객 계정을 관리하는 파트너에게만 적용됩니다.
+
+> [!NOTE]
+> 파트너 센터의 JSON 응답을 엄격히 해석하는 파트너인 경우 업데이트가 완료되지 않은 경우 이러한 변경에 영향을 받을 수 있습니다. JSON은 파트너 센터 API와 통합하지 않는 것이 좋습니다.
+
+| REST 리소스 업데이트 | 관련 파트너 센터 설명서 |
+|---------------------------|-----------------------|
+| 새 필수 필드: organizationRegistrationNumber | - [고객 만들기](/partner-center/develop/create-a-customer#company-profile)<br/>- [간접 재판매인의 고객 만들기](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [고객 리소스](/partner-center/develop/customer-resources#customercompanyprofile) |
+| 업데이트되어 이제 필수가 된 필드: PhoneNumber<br/>선택적 필드: MiddleName | - [유틸리티 리소스](/partner-center/develop/utility-resources#address) |
+| 새 BadRequest REST 오류 코드: 600002, 600049, 600050, 600051 | - [파트너 센터 REST 오류 코드](/partner-center/develop/error-codes#error-codes) |
+
+*고객에게 제안된 외부 계약:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경  
 
 ### <a name="categories"></a>범주
@@ -146,8 +359,16 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 - 파트너가 Microsoft로 연락을 주면 변경 내용이 적용된 플라이트에 파트너의 테넌트를 추가하여 파트너의 솔루션 업데이트가 예상대로 작동하는지 확인하는 데 도움을 드릴 수 있습니다.
 
 
+### <a name="next-steps-for-partners"></a>파트너를 위한 다음 단계
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 UI(사용자 인터페이스) 향상
+- 새로운 파트너 센터 UI 및 API 변경 사항을 검토합니다. 다음 번에 이들 국가의 고객을 위해 구독을 만들거나 기존 구독을 업데이트하려고 할 때 고객의 계정 정보를 확인하여 해당 고객에 대한 두 개의 새로운 필수 필드에 데이터를 추가했는지 확인합니다. 조직 INN(법률 식별자) 및 전화 번호. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard) 또는 파트너 센터 [API](/partner-center/develop/create-a-customer#company-profile)를 통해 이 정보를 업데이트할 수 있습니다.
+
+- 이러한 변경에 대비하는 데 도움이 되도록 이 정보를 조직 내의 적절한 팀과 공유합니다.
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 및 UI(사용자 인터페이스) 향상
 
 ### <a name="categories"></a>범주
 

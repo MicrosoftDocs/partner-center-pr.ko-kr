@@ -1,37 +1,103 @@
 ---
 title: 파트너 센터 계정 관리
-description: 파트너 센터에서 회사의 프로필, 카탈로그, 은행 및 세금 정보, 역할, 권한 등을 관리하는 방법을 알아봅니다.
-ms.topic: article
+ms.topic: conceptual
+ms.date: 11/20/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-author: parthpandyaMSFT
-ms.author: parthp
+ms.subservice: partnercenter-mpn
+description: 파트너 센터에서 회사 프로필, 은행 및 세금 정보 등을 관리할 수 있는 위치에 대해 알아봅니다.
+author: varsha-sarah
+ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 10/19/2020
-ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 4cdaa7f8a2a6c8643b86f3e34569c2140ecd7450
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333935"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95007038"
 ---
-# <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
+# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
-**적용 대상**
-
-- 파트너 센터
- 
 **적절한 역할**
 
-- 글로벌 관리자
-- MPN 계정 관리자
+- 전역 관리자
+- MPN 관리자
 
-등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 파트너 센터에서 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
+등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
 
 참고 항목 
+
 - [파트너 센터에 가입하도록 직원 초대](guide-to-migration.md)
+
 - [새 사용자 추가](create-user-accounts-and-set-permissions.md)
+
+>[!NOTE]
+>계정 설정 메뉴는 등록된 프로그램에 따라 변경됩니다. 예를 들어, CSP(클라우드 솔루션 공급자 프로그램)의 파트너인 경우 계정 설정에서 Azure 공유 서비스를 관리할 수 있습니다.
+
+## <a name="account-management"></a>계정 관리
+
+모든 파트너, 상업 및 개발자의 파트너 설정에서 계정 관리에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다. 이제 모든 프로필과 설정이 결합되므로 더 이상 파트너와 개발자 중에서 선택할 필요가 없습니다.
+
+:::image type="content" source="images/accountsettings/opening.png" alt-text="설정 아이콘":::
+
+
+:::image type="content" source="images/accountsettings/accountsettingssv.png" alt-text="계정 설정":::
+
+### <a name="locate-your-mpn-id"></a>MPN ID 찾기
+
+파트너이든 개발자이든 관계 없이 지원 티켓을 기록하는 것과 같은 작업에 MPN ID를 사용해야 합니다. MPN ID는 **법적** 세부 정보 페이지에 있습니다. **ID 프로필** 에서도 찾을 수 있습니다.
+
+## <a name="organization-profile"></a>조직 프로필
+
+**조직 프로필** 페이지에서 법적 비즈니스 프로필, 파트너 프로필 및 회사 위치를 관리합니다. 이 페이지에서는 비즈니스에 대한 최상위 정보를 볼 수 있습니다. 각 영역을 자세히 살펴보고 편집할 수 있습니다. 관심 있는 특정 프로그램(MPN, CSP 또는 상업용 Marketplace)에 해당하는 탭을 선택하여 정보 및 심사 상태를 확인합니다.
+ 
+:::image type="content" source="images/accountsettings/accountsettingsnew.png" alt-text="법적 정보":::
+ 
+### <a name="legal-information"></a>법적 정보
+
+파트너 센터에 처음 가입하면 회사는 Microsoft와의 확인 프로세스를 거칩니다. **법률 프로필** 에서 확인 상태를 추적할 수 있습니다. Microsoft가 파트너 질문과 관련하여 연락하는 사람인 기본 연락 담당자와 법적 정보 및 상태를 관리하는 기본 법적 연락 담당자는 **법적 프로필** 페이지에 나와 있습니다. 회사의 모든 사업장 위치는 여기에서 찾을 수 있으며, 사업장 위치를 추가할 수도 있습니다.  
+
+[확인 및 계정 정보](verification-responses.md)에 대해 자세히 알아보세요.
+
+### <a name="tenants-profile"></a>테넌트 프로필
+
+Azure AD 테넌트, 상용 및 개발자에 대한 모든 정보는 **테넌트 프로필** 페이지에서 추적할 수 있습니다. 이 프로필에서 전역 관리자는 새 테넌트를 파트너 전역 계정에 연결할 수 있습니다.
+
+### <a name="identifiers"></a>식별자 
+
+**식별자** 섹션에는 회사의 파트너 센터 ID(MPN ID, 게시자 ID, Windows 게시자 ID 등)가 포함되어 있습니다. 각 영역을 확장하고 편집할 수 있어, 출판사 등의 기본 연락처를 쉽게 찾을 수 있습니다.
+
+### <a name="company-profile"></a>회사 프로필
+
+**회사 프로필** 은 독립 소프트웨어 공급업체 또는 CSP 프로그램 파트너와 같이 Microsoft와 파트너 관계 유형을 식별합니다. 함께 일하는 고객 수, 연간 수익, 회사의 현재 규모에 대한 스냅샷을 볼 수 있습니다. 회사 정보 페이지에서 회사 정보를 확장할 수도 있습니다. 이 페이지에서 Microsoft와 함께 수행하려는 작업 유형(예: 애플리케이션 빌드, Microsoft 및 타사 소프트웨어 재판매 또는 시스템 통합자)을 Microsoft에 알릴 수 있습니다. 또한 현재 비즈니스를 수행하는 위치와 향후 비즈니스를 확장하려는 지역을 정의할 수도 있습니다.
+
+### <a name="account-merge-profile"></a>계정 병합 프로필
+
+파트너 센터에 활성 계정이 있는 회사를 초대하여 귀하의 계정과 병합하면 해당 정보는 **계정 병합** 페이지에서 관리됩니다. 초대하려는 회사의 MPN ID를 조회하여 사용자와 병합하고, 현재 병합자를 보고, 회사에 초대장을 보냅니다. 여기에서 회사 계정을 다른 회사 계정에 병합하는 초대를 수락하거나 거부할 수도 있습니다. 계정을 병합하는 방법에 대한 자세한 내용은 [파트너 계정을 다른 파트너 계정과 병합](merge-accounts.md)을 참조하세요.
+
+### <a name="payout-and-tax"></a>지급액 및 세금 
+
+**지급액 및 세금** 에는 **청구지** 정보 및 **P.O 번호** 를 포함한 지급액 및 세금 세부 정보가 포함됩니다. 귀사에 대한 세금 ID 정보도 이 페이지에 나와 있습니다. VAT ID 번호가 있는 경우 해당 번호와 사용하는 통화도 포함됩니다.
+
+
+## <a name="user-roles-and-permissions"></a>사용자 역할 및 권한
+
+파트너 센터에서 작업하는 방법과 업데이트하거나 볼 수 있는 영역은 역할 및 해당 역할에 연결된 권한에 따라 다릅니다. 예를 들어 인센티브 관리자가 아닌 경우 데이터를 볼 수는 있지만 인센티브 페이지의 내용을 변경할 수 없습니다. 
+
+### <a name="update-preferred-email"></a>기본 설정 이메일 업데이트
+
+파트너 센터 알림을 받기 위해 기본 설정 이메일을 업데이트하려면 다음을 수행합니다. 
+
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
+1. [**참여 기본 설정**](https://partner.microsoft.com/dashboard/engagement/preference)으로 이동하고 **변경** 링크를 선택한 후 이메일 주소를 업데이트하고 **저장** 을 클릭합니다.
+
+### <a name="find-your-user-role"></a>사용자 역할 찾기
+
+1. **설정** 으로 이동하고 **내 프로필** 을 선택합니다.
+ 
+1. **세부 정보** 페이지에서 업무 및 학습, 시험 및 인증 데이터와 관련된 개인 정보를 볼 수 있습니다.
+ 
+1. **역할 및 권한** 탭을 선택합니다. 여기에서 할당된 모든 역할과 해당 역할이 제공하는 사용 권한을 볼 수 있습니다.
 
 ## <a name="programs-in-which-you-are-enrolled"></a>사용자가 등록된 프로그램
 
@@ -40,91 +106,33 @@ ms.locfileid: "92333935"
 파트너 센터에서 액세스 권한이 있는 프로그램을 확인하는 방법:
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
-2. 왼쪽 탐색 창을 살펴봅니다. 등록된 프로그램과 관련된 옵션이 표시됩니다.
+
+2. 왼쪽 탐색 메뉴에는 등록된 프로그램이 반영되며 각 프로그램에 사용할 수 있는 옵션이 표시됩니다.
 
 한 가지 예를 들어 보겠습니다. 사용자가 파트너 센터 대시보드의 **MPN** 프로그램, **추천** 프로그램, **상업용 Marketplace** 프로그램을 포함한 3개 프로그램에 액세스할 수 있다고 가정해 보겠습니다. 사용자가 파트너 센터 대시보드에 로그인하면 화면 왼쪽에 이러한 3개 프로그램이 표시됩니다.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="등록된 프로그램 메뉴":::
 
-## <a name="account-management"></a>계정 관리
-
-파트너 센터에서는 현재 **파트너 설정** 및 **개발자 설정** 의 두 섹션에서 계정을 관리합니다.
-
->[!NOTE]
->**파트너 설정** 또는 **개발자 설정** 에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인한 후 화면의 오른쪽 위에 있는 **설정** 옵션(기어 아이콘)을 선택합니다. 그런 다음, 드롭다운 메뉴에서 **파트너 설정** 또는 **개발자 설정** 을 선택할 수 있습니다.
-
-:::image type="content" source="images/accountsettings/account1.png" alt-text="등록된 프로그램 메뉴":::
-
-파트너는 회사에서 해당 프로그램에 등록했는지 여부에 따라 **파트너 설정** 및/또는 **개발자 설정** 관리 옵션을 볼 수 있습니다. 회사에서 해당 설정과 연결된 프로그램을 하나 이상 등록한 경우에만 설정 옵션을 사용할 수 있습니다.
-
-계정 설정을 관리하려면 해당 프로그램에 적절한 계정 설정 옵션을 선택해야 합니다.  
-
-다음은 사용할 수 있는 프로그램의 일부 목록과 해당 프로그램과 관련된 해당 설정 옵션입니다.
-
-|**프로그램 이름**   |**설정 옵션** |
-|---------------------|:-----------------------|
-|MPN   |파트너|
-|CSP    |파트너|
-|조회   |파트너|
-|상업용 Marketplace|Developer|
-|Windows 및 Xbox|Developer|
-|Office 스토어|Developer|
-|Edge 확장|Developer|
-
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>파트너 및 개발자 설정 옵션의 차이점
-
-### <a name="locate-your-mpn-id"></a>MPN ID 찾기
-
-파트너이든 개발자이든 관계 없이 지원 티켓을 기록하는 것과 같은 작업에 MPN ID를 사용해야 합니다. 개발자의 경우 MPN ID는 **계정 설정** 세부 정보 페이지에 있습니다.
-
-파트너 MPN ID는 **파트너 프로필** 페이지에 있습니다.
-
-### <a name="see-partner-and-developer-settings"></a>파트너 및 개발자 설정 참조
-
-**파트너 설정** 옵션은 **개발자 설정** 옵션과 다릅니다. 각 옵션 집합의 샘플 스크린샷은 아래를 참조하세요. 다른 프로그램에 대한 액세스 권한이 있는 경우 여기에 표시된 스크린샷 샘플과 다른 옵션도 표시될 수 있습니다.
-
-**파트너 설정 옵션** :
-
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="등록된 프로그램 메뉴":::
-
-**개발자 설정 옵션** :
-
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="등록된 프로그램 메뉴":::
-
-## <a name="enrolling-in-programs"></a>프로그램에서 등록
+### <a name="enrolling-in-programs"></a>프로그램에서 등록
 
 사용 가능한 파트너 센터 프로그램은 여러 가지가 있습니다. 각 프로그램에 등록하기 위해 회사에서 충족해야 하는 요구 사항은 프로그램마다 다릅니다.
 
 특정 파트너 센터 프로그램에서 등록하는 방법에 대한 자세한 내용은 다음 부분 목록을 참조하세요.
 
-- [상업용 Marketplace 프로그램](/azure/marketplace/partner-center-portal/create-account)
-- [MPN 프로그램](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [CSP 프로그램](enrolling-in-the-csp-program.md)
+- [상업용 Marketplace 프로그램](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Microsoft 파트너 네트워크 멤버십 혜택](mpn-overview.md)
+- [CSP 프로그램](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
 - [Office 스토어](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 파트너 센터 프로그램에 등록하는 방법에 대한 자세한 내용은 [파트너 네트워크 리소스](https://partner.microsoft.com/)를 참조하세요.
 
-## <a name="the-account-picker"></a>계정 선택기
 
-둘 이상의 계정에 속할 수 있습니다. 여러 계정에 속한 경우 왼쪽 탐색 메뉴에 "계정 선택기"가 표시됩니다. 계정 선택기를 선택하면 구성원인 모든 계정이 목록으로 표시됩니다. 이러한 계정 중 하나를 선택하여 해당 계정으로 전환할 수 있습니다. 그러면 해당 계정과 관련된 모든 프로그램 및 정보가 표시됩니다. 계정 선택기가 표시되지 않으면 단일 계정의 구성원입니다.
+## <a name="next-steps"></a>다음 단계
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="등록된 프로그램 메뉴":::
-
-## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>파트너 센터 계정을 관리하는 데 도움이 되는 기타 리소스
-
-MPN 프로그램 또는 CSP(클라우드 솔루션 공급자) 프로그램과 같은 프로그램에 등록된 경우 다음 리소스를 통해 계정을 관리할 수 있습니다.
-
-|**수행할 작업**   |**이 글 읽기**   |
-|-----------------------|:-----------------------|
-|회사 프로필을 최신 상태로 유지   |[파트너 프로필 업데이트](update-your-partner-profile.md)|
-|새 사용자 추가|[사용자 계정 만들기 및 사용 권한 할당](create-user-accounts-and-set-permissions.md)|
-|확인 상태 찾기|[계정 정보 확인](verification-responses.md)|
-|파트너 센터에서 작업을 해야 하는 모든 직원에게 역할을 할당해야 합니다. 역할마다 고유의 권한이 있으며 접근 가능한 작업이 있습니다.|[사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)|
-|각 역할이 제공하는 권한 검토|[사용자 역할 및 권한 할당](permissions-overview.md)
-|회사의 위치 관리|[파트너 계정 관리: 위치](manage-locations.md)
-|직원이 암호를 잊었거나 암호를 다시 설정해야 하는 경우  |[사용자 암호 다시 설정](reset-a-user-password.md)|
-|파트너 센터에 제어판 공급업체로 등록|[파트너 센터에 제어판 공급업체로 등록](enroll-as-cpv.md)|
-|파트너 센터에서 Microsoft Learn 계정 연결|[파트너 센터에서 Microsoft Learn 계정 연결](ms-learn-associate.md)|
-|고객이 찾을 수 있도록 회사 마케팅   |[비즈니스 프로필 만들기](create-a-marketing-profile.md)|
-|현재 가격 및 제품에 대한 정보 업데이트   |[가격 책정 및 제품](pricing-and-offers.md)|
-|API: 파트너 MPN ID 확인|[파트너 MPN ID 확인](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)
+- [파트너 프로필 업데이트](update-your-partner-profile.md)
+- [사용자 계정 만들기 및 권한 설정](create-user-accounts-and-set-permissions.md)
+- [사용자 역할 및 권한 할당](permissions-overview.md)
+- [MPN 계정 관리: 위치](manage-locations.md)
+- [사용자 암호 다시 설정](reset-a-user-password.md)
+- [API: 파트너 법적 비즈니스 프로필 가져오기](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [파트너 센터 상업용 Marketplace에서 제품 및 가격 책정 검색](csp-commercial-marketplace-discover.md)

@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92523588"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932847"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>파트너 센터에서 Microsoft 파트너 네트워크 멤버십 혜택 및 제품 관리
 
@@ -43,7 +43,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 혜택 패키지에는 사용이 허가된 소프트웨어 할당, 클라우드 서비스, Visual Studio 구독 및 기술 지원이 포함됩니다. 혜택 패키지에는 특정 시장 진출 리소스, 제품 및 시장 관련 프로그램도 포함될 수 있습니다. [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/internal-use-software) 사이트에서 Action Pack 구독 정보를 확인할 수 있습니다.  
 
-모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고, 왼쪽 메뉴에서 [ **혜택 옵션** ]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
+모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고, 왼쪽 메뉴에서 [**혜택 옵션**]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
 
 대부분의 혜택을 활성화하거나 관련 소프트웨어 키 등을 다운로드하려면 일반적으로 전역 관리자 또는 MPN 파트너 관리자 역할이 할당된 사람이 파트너 센터에 필요합니다. 혜택이 보이지 않거나 혜택을 활성화할 수 없으면, 파트너 센터 전역 관리자에게 문의하여 올바른 권한이 있는지 확인하세요. [파트너 센터 역할에 대해 자세히 알아보세요](permissions-overview.md).
 
@@ -63,15 +63,34 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
    d. 링크를 따라가서 소프트웨어 설치 패키지를 다운로드하고 설치합니다.
 
-## <a name="manage-cloud-services-benefits"></a>클라우드 서비스 혜택 관리
+## <a name="azure-and-cloud-products"></a>Azure 및 클라우드 제품
 
-1. 클라우드 기반 서비스에 대한 구독 목록을 보려면 **클라우드** 를 선택합니다.
+**Azure 및 클라우드 제품** 탭에는 사용자에게 프로비저닝된 사용량 기반 구독(Azure 크레딧) 및 라이선스 기반 구독(예: Office 365), 각 제품의 라이선스 수량, 해당 혜택 제품을 프로비저닝한 제공 유형, 혜택 유형(핵심에서 제공되는 것인지 증분인지 여부) 및 해당 혜택의 만료 날짜를 표시합니다.
 
-2. 사용하기 시작하려는 구독이나 제품을 찾은 다음, 행의 맨 오른쪽에 있는 아래쪽 화살표를 선택하여 구독 또는 제품의 세부 정보를 확장합니다.
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Azure 및 클라우드 제품 탭":::
 
-3. Microsoft Azure 사용량 기준 구독을 활성화하려면 귀사를 사용자로 할당합니다. Microsoft Azure Portal로 이동하여 구독을 관리합니다.
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>사용량 기반 구독 - Microsoft Azure Credit
 
-   라이선스 기준 구독을 활성화하려면 **키 받기** 를 선택하여 제품 라이선스 키를 복사한 다음, 특별 지침에 따라 구독을 활성화합니다.  
+MPN 파트너로서 활성화한 제공 유형(MAPS, Silver 및/또는 Gold)인 월별 크레딧 또는 대량 크레딧에 따라 두 가지 유형의 사용 기반 구독을 받을 수 있습니다.
+
+다음을 통해 프로비저닝할 수 있습니다.
+
+- $100/월(또는 이에 상응하는 현지 통화) Azure 월별 크레딧 또는/및
+- $6000, $12000 또는/및 $13000/년(또는 이에 상응하는 각국 현지 통화) Azure 대량 크레딧
+
+파트너 센터에서 Microsoft Azure 구독을 활성화하려면 Azure Active Directory에 만든 사용자 항목이 있는 회사 내 사용자(게스트 사용자 포함)에게 액세스 권한을 할당합니다.
+$100/월(또는 이에 상응하는 현지 통화) Azure 월별 크레딧의 경우 언제든지 이 구독에서 사용자를 추가하거나 제거할 수 있습니다. 
+
+Azure 대량(매년) 크레딧의 경우 파트너 센터에서 제거 옵션을 사용할 수 없지만 등록 연도 동안 다른 사람에게 대량 크레딧을 양도할 수 있습니다. Azure 대량(매년) 크레딧 구독은 다른 라이선스, 선불 또는 크레딧 제품과 함께 사용할 수 없습니다(예: Microsoft Enterprise Agreement, 클라우드 솔루션 파트너, Azure in Open, Azure Pass, Action Pack 등).
+
+## <a name="license-based-subscriptions"></a>라이선스 기반 구독
+
+Azure 및 클라우드 제품 탭의 라이선스 기반 구독 섹션에서 Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI 등과 같이 정품 인증을 위해 제품 키가 필요한 모든 클라우드 제품을 찾을 수 있습니다. MPN 파트너로서 활성화한 제공 유형(MAPS, Silver 또는 Gold)에 따라 제공됩니다.
+
+라이선스 기반 구독을 활성화하려면 관심 있는 제품 옆에 있는 드롭다운 기호를 클릭하고 키 사용 방법에 대한 지침을 읽어보세요. 지침을 읽은 후 포털로 리디렉션되는 링크를 선택하여 키뿐만 아니라 제품에 할당된 키를 사용합니다.
+
+>[!IMPORTANT]
+>키를 사용한 후에는 동일한 키를 다시 사용할 수 없으므로 라이선스(시트)를 더 추가해야 하는지 또는 종료 날짜를 연장해야 하는지 명확하게 확인해야 합니다. 더 많은 라이선스를 추가하고 종료 날짜를 연장하지 않기로 한 경우 시스템은 12개월 미만의 활성 구독을 제공합니다. 올바른 테넌트에서 키를 활성화하려면 올바른 자격 증명으로 로그인했는지 확인합니다.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Visual Studio 구독 관리
 
@@ -115,7 +134,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
    - 골드/실버 역량 파트너(Action Pack 구독자는 사용할 수 없음)의 경우 **클라우드 제품** 에 대한 **서명 제품 지원** 을 사용합니다.
 
-   - Action Pack 및 골드/실버 역량 파트너의 경우 모두 **최근 온-프레미스 제품** (현재 및 이전 버전만 해당)에 대한 **Microsoft 제품 지원** 인시던트를 사용합니다.
+   - Action Pack 및 골드/실버 역량 파트너의 경우 모두 **최근 온-프레미스 제품**(현재 및 이전 버전만 해당)에 대한 **Microsoft 제품 지원** 인시던트를 사용합니다.
 
      >[!NOTE]
      > 온-프레미스, Azure(비 CSP) 및 Dynamics 제품에 대한 기술 지원 요청에는 액세스 ID 및 계약 ID가 필요합니다. 또한 나중에 액세스 ID 및 계약 ID를 찾으려면 [혜택 찾기](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)를 참조할 수 있습니다.
@@ -137,7 +156,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 2. 시장 진출 제품 또는 프로그램을 활성화하려면 먼저 회사 마케팅 담당자를 할당해야 합니다. 이 담당자는 활성 시장 진출 제품에 대한 후속 연락을 받게 됩니다.
 
-3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 시장 진출 페이지의 맨 위로 이동한 다음, **추가** , **업데이트** 또는 **변경** 을 선택합니다. 이제 다음 단계를 수행합니다.  
+3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 시장 진출 페이지의 맨 위로 이동한 다음, **추가**, **업데이트** 또는 **변경** 을 선택합니다. 이제 다음 단계를 수행합니다.  
 
    a. 목록에서 사용자를 선택합니다. 할당하려는 사용자가 목록에 없는 경우 **계정 설정** 에서 [새 사용자를 추가](create-user-accounts-and-set-permissions.md)할 수 있습니다.
 
@@ -147,7 +166,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
    c.  이 마케팅 담당자에 대한 연락처 전화 번호와 기본 설정 언어를 제공합니다. 이 정보 입력을 마친 후 **사용자 할당** 을 선택합니다.
 
-4. 마케팅 담당자를 업데이트하고 사용하기 시작하려는 시장 진출 제품을 찾은 다음, 행의 맨 오른쪽에 있는 아래쪽 화살표를 선택하여 제품의 세부 정보를 확장합니다. 목록의 혜택(예: **실버 코어** , **골드 코어** 또는 **ISV 공동 판매 준비** ) 이름 아래에 사용할 수 있는 각 제품 유형이 표시됩니다.
+4. 마케팅 담당자를 업데이트하고 사용하기 시작하려는 시장 진출 제품을 찾은 다음, 행의 맨 오른쪽에 있는 아래쪽 화살표를 선택하여 제품의 세부 정보를 확장합니다. 목록의 혜택(예: **실버 코어**, **골드 코어** 또는 **ISV 공동 판매 준비**) 이름 아래에 사용할 수 있는 각 제품 유형이 표시됩니다.
 
 5. **활성화** 를 선택하여 제품을 활성화합니다.
 
