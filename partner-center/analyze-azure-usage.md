@@ -9,19 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
-ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
+ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96354227"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439111"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>고객과 Azure 구독이 얼마나 잘 작동 하는지에 대 한 데이터 가져오기
 
-**적용 대상**
 
-- 파트너 센터
-- 클라우드 솔루션 공급자 프로그램 파트너
 
 **적절한 역할**
 

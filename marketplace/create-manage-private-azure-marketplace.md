@@ -1,17 +1,17 @@
 ---
 title: Azure Portal에서 개인 Azure Marketplace 만들기 및 관리
-description: Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 하는 방법에 대해 알아봅니다.
+description: Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 하는 방법에 대해 알아봅니다. 관리자는 개인 Azure Marketplace (미리 보기)를 사용 하 여 사용자가 사용할 수 있는 타사 솔루션을 제어할 수 있습니다.
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006942"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439257"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 합니다.
 
@@ -221,6 +221,6 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="계획을 만들고 사용 가능한 계획을 표시할 수 있는 제품 배너입니다.":::
 
-## <a name="contact-support"></a>지원에 문의
+## <a name="contact-support"></a>기술 지원 서비스에 문의하십시오.
 
 Azure Marketplace 지원이 필요한 경우 [Microsoft Q&A](/answers/products/)를 참조 하세요. 

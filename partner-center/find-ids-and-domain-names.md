@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360074"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439244"
 ---
 # <a name="locate-important-ids-for-a-user"></a>사용자에 대 한 중요 한 Id 찾기
 
@@ -78,3 +78,4 @@ Azure Portal 내에서 Azure AD 테 넌 트 ID 또는 주 도메인 이름을 �
 - [PowerShell 또는 CLI를 사용 하 여 프로그래밍 방식으로 테 넌 트 ID 찾기](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Azure Active Directory의 사용자 프로필에 대 한 자세한 정보](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [파트너가 파트너 센터에서 고객 세부 정보를 보거나 내보내는 방법 알아보기](see-your-customer-list.md)
+
