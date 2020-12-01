@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031886"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354227"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>고객과 Azure 구독이 얼마나 잘 작동 하는지에 대 한 데이터 가져오기
 
@@ -32,7 +32,7 @@ ms.locfileid: "92031886"
 
 데이터는 비즈니스 의사 결정을 유도 합니다. **Azure 사용량** 페이지의 메트릭을 사용 하 여 주의가 필요한 성공 및 영역을 확인할 수 있습니다. 새 비즈니스 목표를 계획할 때이 정보를 사용 합니다.
 
-**Azure 사용**에 대 한 자세한 내용은 파트너 센터 [대시보드](https:/partner.microsoft.com/dashboard)에 로그인 하세요. 파트너 센터 메뉴에서 **분석** 을 선택 하 고 **Azure 사용**을 선택 합니다.
+**Azure 사용** 에 대 한 자세한 내용은 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인 하세요. 파트너 센터 메뉴에서 **분석** 을 선택 하 고 **Azure 사용** 을 선택 합니다.
 
 > [!NOTE]
 > Azure 사용 현황 분석은 클라우드 솔루션 공급자 프로그램의 파트너에 대해서만 사용할 수 있습니다.
