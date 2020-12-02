@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947667"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513300"
 ---
 # <a name="payout-schedules-and-policy-details"></a>지급 일정 및 정책 세부 정보
 
@@ -31,16 +31,18 @@ ms.locfileid: "94947667"
 | 이벤트 | Description | 보고 표시 유형 | 타이밍 |
 | --- | --- | --- | --- |
 | 트랜잭션 사용량 또는 월 | 고객은 서비스를 사용 하거나 구매 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 1** |
-| 구매 주문이 만들어짐 | 총 사용량, 총 트랜잭션 확인 | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |
-| ISV 지급 획득이 생성 됩니다. | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3 (1 주)** |
+| Microsoft에서 청구 금액을 계산 합니다. | 총 사용량, 총 트랜잭션 확인 | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |
+| 지급 게시 됨 | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3 (1 주)** |
 | 지급 준비 | 수익을 월간 지불에 대비 합니다. | [지급 문의](payout-statement.md) 트랜잭션 기록에 예정 된 것으로 표시 됨 | **월 3 (1 주)** |
-| **지급 날짜** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 3 (15 분 이후)** |
+| **지급 전송** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 3 (15 분 이후)** |
 | 고객별로 지불 된 송장 | Microsoft는 고객의 지불을 수집 합니다. | 변경 내용 없음 | **월 4 ~ 12** |
 |
 
 \* 지급 날짜는 태평양 표준시 (PST)입니다.
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>신용 카드나 송장을 사용 하 여 지불 하는 고객
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="기업 계약 고객의 지불 타임 라인입니다.":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>신용 카드 또는 송장이 있는 트랜잭션 (확인/유선)
 
 신용 카드나 월간 청구서를 사용 하는 모든 구매 기간은 고객 으로부터 자금을 수집할 수 있도록 30 일 동안 유지 됩니다.
 
@@ -48,13 +50,15 @@ ms.locfileid: "94947667"
 | --- | --- | --- | --- |
 | 트랜잭션 사용량 또는 월 | 고객은 서비스를 사용 하거나 구매 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 1** |
 | 고객별로 지불 된 송장 | 총 사용량, 총 트랜잭션 값 및 고객의 지불 청구서를 확인 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |
-| ISV 지급 획득이 생성 됩니다. | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 2** |
-| 30 일 보관 기간 | 자금, 가능한 비용 정산 및 환불 요청 수집 보장 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3** |
+| 지급 게시 됨 | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 2** |
+| 30 일 보관 기간 | 자금, 가능한 지불 거절 및 환불 요청 수집 보장 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3** |
 | 지급 준비 | 수익을 월간 지불에 대비 합니다. | [지급 문의](payout-statement.md) 트랜잭션 기록에 예정 된 것으로 표시 됨 | **월 4 (1 주)** |
-| **지급 날짜** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 4 (15 분 이후)** |
+| **지급 전송** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 4 (15 분 이후)** |
 |
 
 \* 지급 날짜는 태평양 표준 시간 (PST)입니다.
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="신용 카드 및 청구서 고객에 대 한 지불 타임 라인입니다.":::
 
 ## <a name="process-for-customer-non-payment"></a>고객이 지불 하지 않는 프로세스
 
@@ -70,10 +74,10 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 | --- | --- | --- |
 | 예제 지급 날짜 | 10/15/2020 | 트랜잭션 기록에 **전송** 됨으로 표시 되 고 지급 대시보드의 지불 섹션 |
 | <font color="red">고객이 Microsoft에 요금을 지불 하지 않는 경우</font> | 12/2/2020 – 12/5/2020 | 위와 동일한 변경 내용 없음 |
-| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | 없음 |
-| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | 없음 |
+| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | None |
+| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | None |
 | 게시자에 게 쓰기 해제 알림이 표시 될 가능성이 있습니다. | 1/7/2021 | 고객이 결제를 아직 보내지 않은 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
-| 고객이 종료 알림 받기 | 2/1/2021 | 없음 |
+| 고객이 종료 알림 받기 | 2/1/2021 | None |
 | 수집 프로세스 종료/자금을 기록 합니다. | 2/15/2021 | 금액이 쓰여진 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
 | 지급 공제 | 3/1/2021 | 파트너 센터 지급에서 부정적 트랜잭션이 표시 됩니다. |
 | 지급 보안상 이유로 | 3/15/2021 | 이후 지급는 Partner Center 지급 문에 표시 됩니다. 잔액을 더 이상 음수일 때까지 게시자는 지불을 받지 않습니다.  |
