@@ -9,22 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
-ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
+ms.openlocfilehash: 440a03a228fb809d1ef55bcd39e1c0464b24fb54
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "91899231"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474124"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>지역 및 언어별 Microsoft 고객 계약
 
-**적용 대상**
-
-- 클라우드 솔루션 공급자 프로그램 파트너
-
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
