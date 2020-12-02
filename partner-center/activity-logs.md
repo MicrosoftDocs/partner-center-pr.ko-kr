@@ -9,24 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527419"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474243"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기
 
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
-- 클라우드 솔루션 공급자 프로그램 파트너
-
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 청구 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
@@ -41,7 +35,7 @@ ms.locfileid: "87527419"
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. **계정 설정** 메뉴에서 **활동 로그**를 선택합니다.
+2. **계정 설정** 메뉴에서 **활동 로그** 를 선택합니다.
 
 3. **시작** 및 **대상** 필드에서 활동 로그 기간을 선택 합니다. 활동 로그 내보내기는 가장 최근 달로 기본 설정 됩니다.
 
@@ -55,7 +49,7 @@ ms.locfileid: "87527419"
    - **작업**—고객이 수행한 작업(예: “조회 생성”)
    - **파트너 사용자**—활동과 연관된 파트너.
 
-5. **로그 내보내기**를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다.
+5. **로그 내보내기** 를 선택하여 고객의 구독 데이터를 .csv 파일에 복사하고 이를 컴퓨터의 기본 다운로드 폴더에 다운로드합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

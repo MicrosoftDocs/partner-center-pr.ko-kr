@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006720"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474260"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>파트너 센터에서 신규 고객 레코드를 추가하는 방법
 
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
-- 클라우드 솔루션 공급자 프로그램 파트너
 
 **적절한 역할**
 
@@ -31,14 +26,14 @@ ms.locfileid: "92006720"
 - 관리 에이전트
 - 영업 상담원
 
-이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다. 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 다음 단계를 수행 합니다.
+이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다. 이러한 단계는 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 필요 합니다.
 
 >[!NOTE]
->[다중 채널](multichannel.md) 또는 [multipartner](multipartner.md) 시나리오를 통해 파트너 센터에 이미 고객 레코드가 있는 사용자를 포함 하는 기존 고객의 경우 여기에 설명 된 단계를 수행 하는 대신 [해당 사용자와의 관계를 요청할](request-a-relationship-with-a-customer.md)수 있습니다.
+>[다중 채널](multichannel.md) 또는 [multipartner](multipartner.md) 시나리오를 통해 파트너 센터에 고객 레코드가 이미 있는 고객을 포함 하 여 기존 고객의 경우 여기에 설명 된 단계를 수행 하는 대신 [해당 사용자와의 관계를 요청](request-a-relationship-with-a-customer.md)해야 합니다.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>파트너 센터에서 새 고객을 추가하려면
 
-1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가**를 선택 합니다.
+1. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 **고객 추가** 를 선택 합니다.
 
 2. **계정 정보** 페이지에서 고객의 세부 정보 및 기본 연락처 정보를 입력 합니다. 고객이 최신 [Microsoft 고객 계약](agreements.md)을 수락 하 고 서명 했는지 확인 합니다.
 
@@ -52,13 +47,13 @@ ms.locfileid: "92006720"
    >- 완전 하 고 정확한 주소 (위치 정보, 도시, 시/도, 국가 및 우편 번호)를 제공 합니다.
 
    >[!IMPORTANT]
-   > 2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.
+   > 2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약** 을 CSP 프로그램에 도입했습니다. [Microsoft 고객 계약 및 동의를 확인 하는 방법](confirm-customer-agreement.md) 에 대해 읽어 보세요.
   
 3. 간접 공급자 인 경우 목록에서이 고객의 구독과 연결 하려는 간접 재판매인을 선택 합니다.
 
 4. 필요한 모든 정보를 입력 했으면 **다음: 구독** 을 선택 합니다.
 
-5. **구독** 페이지에서 고객이 구매할 제품을 선택 하 고 라이선스 수를 입력 한 후 **다음: 검토**를 선택 합니다.
+5. **구독** 페이지에서 고객이 구매할 제품을 선택 하 고 라이선스 수를 입력 한 후 **다음: 검토** 를 선택 합니다.
 
 6. **검토** 페이지에서 정확성에 대 한 항목을 확인 하 고 정보가 올바르면 **제출** 을 선택 합니다.
 

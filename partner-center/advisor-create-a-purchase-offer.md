@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526989"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474141"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>관리자: 구매 제안 만들기
 
-**적용 대상**
-
-- 파트너 센터
  
 **적절한 역할**
 
@@ -38,7 +35,7 @@ ms.locfileid: "87526989"
 
 ## <a name="to-create-a-purchase-offer"></a>구매 제안을 만들려면
 
-1. **평가판 및 구매 제품**  >  **만들기 제안**으로 이동 합니다.
+1. **평가판 및 구매 제품**  >  **만들기 제안** 으로 이동 합니다.
 
 2. **구매 제안 만들기** 페이지에서 포함 하려는 구매 제안 옵션을 선택 합니다.
 
@@ -51,12 +48,12 @@ ms.locfileid: "87526989"
     - **라이선스 수**: 구독을 선택 하는 경우 구매 제안에 포함할 라이선스의 수를 입력 합니다.
     - **위임 된 관리**:이 옵션은 위임 된 관리를 제공 하도록 인증 된 파트너 에게만 사용할 수 있습니다. 클라이언트에서 위임 된 관리를 제공 하려면이 옵션을 선택 합니다. 이렇게 하면 클라이언트는 위임 된 관리를 수락 하거나 수락 하지 않고 구매 제안을 수락할 수 있습니다.
 
-3. **다음**을 클릭합니다.
+3. **다음** 을 클릭합니다.
 
 4. **보내기** 페이지에서 구매 제안 정보 및 URL을 복사한 다음 전자 메일, 문서 또는 웹 페이지에 붙여넣어 사용자 지정 된 구매 제안을 만듭니다.
 
     > [!NOTE]
-    > 구매 제안 **요약 ID**를 적어 둡니다. 제품을 추적 하는 데 사용 합니다.
+    > 구매 제안 **요약 ID** 를 적어 둡니다. 제품을 추적 하는 데 사용 합니다.
 
 5. 회사 로고, 소개, 닫는 설명 또는 기타 정보를 포함 하 여 메시지를 개인 설정할 수 있습니다.
 
@@ -69,3 +66,7 @@ ms.locfileid: "87526989"
     - 클라이언트에 게 서비스 또는 제안에 대 한 질문이 있는 경우 사용자에 게 연락 하는 방법을 알려줍니다.
     - 클라이언트에서 구매한 사용자 라이선스 수를 제어 하 고 제품을 수락할 때 라이선스 수를 변경할 수 있도록 합니다.
     - 위임된 관리를 제안하는 경우 위임된 관리의 의미와 위임된 관리자의 책임에 대해 설명합니다. 위임 된 관리에 대 한 자세한 내용은 [위임 된 관리 제공](customers-revoke-admin-privileges.md)을 참조 하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [Office 365 평가판 초대 및 구매 제안을 사용 하 여 클라이언트 기반 빌드](advisors-build-your-business.md)

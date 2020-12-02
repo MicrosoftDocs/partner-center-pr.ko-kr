@@ -9,19 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527439"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474277"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>파트너 센터에는 MPN 파트너에 대 한 두 가지 수준의 계정이 있습니다.
 
-**적용 대상**
-
-- 파트너 센터
-- MPN 파트너
 
 **적절한 역할**
 
@@ -34,7 +30,7 @@ ms.locfileid: "87527439"
 ## <a name="the-top-level-is-the-partner-global-account-pga"></a>최상위 수준은 (파트너 전역 계정)입니다.
 
 - 파트너 전역 계정에는 회사의 법률 회사 주소와 기본 연락처가 포함 됩니다. 
-- **설정**  ->  **조직 프로필**, **법률 프로필**에서 파트너 전역 계정의 세부 정보를 확인 합니다.
+- **설정**  ->  **조직 프로필**, **법률 프로필** 에서 파트너 전역 계정의 세부 정보를 확인 합니다.
 - 세부 정보에는 파트너 전역 계정 MPN ID도 포함 됩니다. 
 - 이는 회사의 부모 이며, 성과급 프로그램 또는 클라우드 솔루션 공급자에 연결 하는 데 사용 되지 않습니다. 
 - 이러한 연결에는 위치를 사용 해야 합니다.

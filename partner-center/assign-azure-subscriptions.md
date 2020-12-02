@@ -9,28 +9,29 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527689"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473954"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>파트너 센터의 고객에게 Azure 구독 할당
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
+- 글로벌 관리자
+- 영업 상담원
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>고객에 게 Azure 구독 할당
 
 1. **파트너 센터** 메뉴에서 **고객** 을 선택 하 고 관리 하려는 고객을 찾습니다.
 
-2. 행의 끝에 있는 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 한 다음 **Microsoft Azure 관리 포털**를 선택 합니다. 고객의 구독을 관리할 수 있는 [Azure Portal](https://portal.azure.com/) 으로 이동 됩니다.
+2. 행의 끝에 있는 아래쪽 화살표를 선택 하 여 고객의 레코드를 확장 한 다음 **Microsoft Azure 관리 포털** 를 선택 합니다. 고객의 구독을 관리할 수 있는 [Azure Portal](https://portal.azure.com/) 으로 이동 됩니다.
 
-3. Azure Portal에서 **구독**을 선택 합니다.
+3. Azure Portal에서 **구독** 을 선택 합니다.
 
-4. 할당할 구독을 선택한 다음 **Access Control**를 선택 합니다.
+4. 할당할 구독을 선택한 다음 **Access Control** 를 선택 합니다.
 
 5. **추가** 를 선택 하 여 사용자를 구독에 추가 합니다. 
 
@@ -40,7 +41,7 @@ ms.locfileid: "87527689"
 
 고객에 대 한 Microsoft Azure 구독을 만든 후 구독을 관리 하도록 설정할 수 있습니다. 이렇게 하려면 고객의 Microsoft Azure 관리 포털에 로그온 해야 합니다. 
 
-1. 고객의 Azure Portal를 열려면 고객 목록에서 고객의 목록을 확장 하거나 고객의 이름을 선택한 다음 **Microsoft Azure 관리 포털**를 선택 합니다.
+1. 고객의 Azure Portal를 열려면 고객 목록에서 고객의 목록을 확장 하거나 고객의 이름을 선택한 다음 **Microsoft Azure 관리 포털** 를 선택 합니다.
 
    > [!NOTE]  
    > Azure Portal에 로그인 하 라는 메시지가 표시 되 면 관리자 권한을 위임 하지 않았을 수 있습니다. **관계 요청** 을 선택 하 여 고객에 게 레코드의 파트너를 식별할 수 있도록 초대 합니다. 고객이 초대를 수락 하면 위임 된 관리자 권한이 자동으로 부여 됩니다.

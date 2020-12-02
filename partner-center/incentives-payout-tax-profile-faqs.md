@@ -1,25 +1,21 @@
 ---
 title: 인센티브 지급 및 세금 프로필 FAQ
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: 성과급 지급 및 세금 프로필에 대 한 질문과 대답입니다. 지급 및 세금 프로필을 볼 수 없는 이유와이에 대해 수행할 작업에 대 한 질문이 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133136"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474328"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>성과급 지급 및 세금 프로필에 대 한 질문과 대답
-
-적용 대상:
-
-- 파트너 센터
 
 적절 한 역할:
 
@@ -65,7 +61,7 @@ MPN 위치에 대한 인센티브 관리자만 지급 및 세금 프로필을 �
 
 MPN 위치에 대해 만들어진 세금 프로필은 재사용되며 동일한 MPN 위치가 다른 인센티브 프로그램에 참여하는 경우 자동으로 채워집니다. 하지만 예외도 있을 수 있습니다. 예를 들어 새 인센티브 프로그램의 지급 규칙에 세금 프로필에 대한 추가 정보가 필요할 수 있습니다.  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>내 도메인에만 로그인 할 수 있습니다 @onmicrosoft.com .   어떻게 해야 합니까?
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>내 도메인에만 로그인 할 수 있습니다 @onmicrosoft.com . 어떻게 해야 합니까?
 
 계정 관리자에게 문의하여 AAD 계정에 도메인을 추가하세요.
 
@@ -85,7 +81,9 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용되며 동일한 
 
 6. **편집** 을 선택 하 여 세금 프로필 편집 프로세스를 시작 합니다.
 
-7. 필요한 세부 정보를 제공 하 여 세금 양식을 업데이트 합니다.
+7. **세금 양식** 섹션을 찾은 다음, **세금 양식 시작** 을 선택 합니다.
+
+8. 필요한 세부 정보를 제공 하 여 세금 양식을 업데이트 합니다.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft는 은행 정보를 실제로 회사의 직원이 아니라 직원을 위한 개인 은행 계정이 아닌지 확인 하는 방법에 대해 설명 합니다.
 

@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367357"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474056"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>분석을 사용 하 여 간접 대리점의 성능 분석
-
-**적용 대상**
-
-- 파트너 센터
-- 클라우드 솔루션 공급자 프로그램 파트너
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>분석을 사용 하 여 간접 대리점의 성능 분석
 
 **적절한 역할**
 
 - 글로벌 관리자
 - 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
+
 
 데이터는 비즈니스 의사 결정을 유도 합니다. **재판매인 분석** 페이지의 메트릭을 사용 하 여 성공, 간접 재판매인의 성공 및 주의가 필요한 영역을 식별할 수 있습니다. 새 비즈니스 목표를 계획할 때이 정보를 사용 합니다.
 
 > [!NOTE]
-> 간접 대리점 분석은 클라우드 솔루션 공급자 프로그램의 파트너에 대해서만 사용할 수 있습니다.
+> 간접 재판매인 분석은 클라우드 솔루션 공급자 프로그램의 간접 공급자에 대해서만 사용할 수 있습니다.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>볼 수 있는 재판매인 분석 메트릭 유형
 
@@ -43,7 +37,7 @@ ms.locfileid: "89367357"
  - **총 대리점**: 구독의 마지막 날에 활성화 된 대리점 수  
  - **새 대리점**: 지정 된 기간에 대 한 새 간접 대리점 수  
  - **활성 대리점**: MPNID이 하나 이상의 구독 이며 구독 상태가 프로 비전 해제이 아닌 간접 대리점의 수  
- - **거래**재판매인: 지정 된 기간에 판매 된 구독이 있는 간접 대리점의 수  
+ - **거래** 재판매인: 지정 된 기간에 판매 된 구독이 있는 간접 대리점의 수  
 
 **시장의 대리점**  
  - 지리적 위치별 총 대리점  
