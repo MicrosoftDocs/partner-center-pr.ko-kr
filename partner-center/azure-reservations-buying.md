@@ -1,7 +1,7 @@
 ---
 title: 고객에 대 한 Microsoft Azure 예약 구입
 description: 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법에 대해 알아봅니다. 또한 Azure 예약을 사용할 수 없는 시장을 나열 합니다.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031256"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534610"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>파트너 센터에서 고객을 대신 하 여 Microsoft Azure 예약 구입
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Azure Portal
-- CSP의 파트너
 
 **적절한 역할**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031256"
 - 기술 지원팀 상담원
 - 영업 상담원
 - 사용자 관리 담당자
+
+이 문서에서는 파트너 센터에서 고객을 대신 하 여 Azure 예약을 구입 하거나 구입 하는 방법을 설명 합니다. 또한 Azure 예약을 사용할 수 없는 시장을 식별 합니다.
  
 > [!NOTE]
 > 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
@@ -110,7 +106,7 @@ ms.locfileid: "92031256"
 
 2. **고객** 페이지에서 Azure 예약을 구매 하려는 고객을 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다.  
 
-3. **제품 추가**를 선택한 다음, **Azure**를 선택합니다. 
+3. **제품 추가** 를 선택한 다음, **Azure** 를 선택합니다. 
 
     a. **세그먼트** 목록에서 고객의 시장 세그먼트를 선택합니다.
 
@@ -125,9 +121,9 @@ ms.locfileid: "92031256"
 
 5. 필터를 사용 하 여 고객의 요구 사항을 충족 하는 가상 머신에서 Azure 예약을 찾습니다.  
 
-6. 구입할 예약을 찾은 후 고객에 게 필요한 예약 인스턴스 수를 **입력 한 다음** **카트에 추가를**선택 합니다.  
+6. 구입할 예약을 찾은 후 고객에 게 필요한 예약 인스턴스 수를 **입력 한 다음** **카트에 추가를** 선택 합니다.  
 
-7. 필요한 모든 항목이 주문에 추가 될 때까지 5 단계와 6 단계를 반복 합니다. **검토**를 선택하여 주문이 올바른지 확인합니다.  
+7. 필요한 모든 항목이 주문에 추가 될 때까지 5 단계와 6 단계를 반복 합니다. **검토** 를 선택하여 주문이 올바른지 확인합니다.  
 
 8. **주문 검토** 페이지에서 다음을 수행할 수 있습니다. 
 
@@ -139,18 +135,19 @@ ms.locfileid: "92031256"
       >예약의 범위를 단일 Azure 구독으로 제한 하도록 선택 하는 경우 구독의 vCPU 할당량을 늘려야 할 수 있습니다. 구독의 vCPU 할당량을 늘리려면 Azure Portal 지원 요청을 만들어야 합니다. [이 항목의](/azure/azure-supportability/resource-manager-core-quotas-request) 지침에 따라 요청을 만듭니다. 
 
       >[!NOTE]   
-      >고객이 Azure 계획에 있는 경우 **범위**  는 **Shared**로 설정 됩니다. 
+      >고객이 Azure 계획에 있는 경우 **범위**  는 **Shared** 로 설정 됩니다. 
 
     - 공급자 파트너인 경우 제품과 연결할 재판매인을 선택 합니다.
     
     - Azure 예약에서 청구 계획 옵션을 지 원하는 경우 드롭다운 메뉴에서 월별 청구 빈도를 선택할 수 있습니다. 
     - Azure 예약에서 청구 계획 옵션을 지원 하지 않는 경우 청구 주기는 기본적으로 일회성 청구로 설정 됩니다. 
 
-9. 구매 **를 선택 하** 여 주문을 구매 합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료**를 선택하여 **주문 기록** 페이지로 이동합니다. 
+9. 구매 **를 선택 하** 여 주문을 구매 합니다. 주문 번호를 포함 하 여 주문 세부 정보는 **확인** 페이지에 표시 됩니다. **완료** 를 선택하여 **주문 기록** 페이지로 이동합니다. 
 
 10. Azure Portal에서 고객의 예약을 관리 하려면 **고객 페이지에서 고객을** 찾은 다음 아래쪽 화살표를 선택 하 여 고객의 행을 확장 합니다. **Microsoft Azure 관리 포털** 를 선택 하 여 Azure Portal에서 고객의 레코드를 엽니다.
 
-## <a name="azure-reservations-resources"></a>Azure 예약 리소스
+## <a name="next-steps"></a>다음 단계
+
 |**원하는 정보**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
 |CSP의 Azure 예약 개요  | [Microsoft Azure 예약 인스턴스 판매](azure-reservations.md) |

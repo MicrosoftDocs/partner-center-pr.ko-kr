@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000237"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534899"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>파트너 센터, Azure Portal 또는 Api를 사용 하 여 고객에 게 Microsoft Azure 예약 판매
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Azure Portal
-- CSP 프로그램의 파트너
 
 **적절한 역할**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000237"
 - 영업 상담원
 - 사용자 관리 담당자
 
+CSP (클라우드 솔루션 공급자 프로그램)의 파트너는 고객에 대 한 Azure 예약을 구입, 판매 또는 관리할 수 있습니다. 파트너 센터, Azure Portal 또는 파트너 센터 API를 사용 합니다.
+
 > [!NOTE]
-> 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
+> 이 문서는 CSP의 파트너 에게만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
 
 CSP 프로그램의 파트너는 고객에 게 Microsoft Azure 예약을 제공할 수 있습니다. 고객은 사전에 대비 하 여 상당한 비용을 절감할 수 있습니다. Azure 예약은 다음과 같은 방식으로 고객의 단순성 및 유연성을 제공 합니다.
 

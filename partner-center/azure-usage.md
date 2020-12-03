@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000189"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534950"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>최대 예약 사용에 대한 Microsoft Azure VM 크기 조정
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
-- Azure portal
-- CSP 프로그램의 파트너
+- 관리 에이전트
+- 영업 상담원
+
+이 문서에서는 VM에 대 한 Microsoft Azure 예약을 구매할 때 고객의 컴퓨팅 요구에 따라 VM (가상 머신)의 크기를 조정 하는 방법을 설명 합니다.
  
 > [!NOTE]
 > 이 문서는 CSP (클라우드 솔루션 공급자) 프로그램의 파트너에만 적용 됩니다. 다른 유형의 구독 (예: 종 량 제, 개인, Microsoft 고객 계약 또는 기업계약 구독)을 사용 하는 고객은 [이 Azure 예약 설명서](/azure/cost-management-billing/reservations)를 대신 읽어야 합니다.
@@ -74,7 +75,7 @@ ms.locfileid: "91000189"
 
 2. /subscriptions/ <Subscription ID> /Ssourceg/ <Resource group name> /providers/Microsoft.Compute/virtualMachines/ <VM Instance Name> ? api-version = 2017-12-01
 
-3. 이 호출은 아래 그림과 같이 **Vmsize** 및 **location**에 대 한 값을 반환 합니다.
+3. 이 호출은 아래 그림과 같이 **Vmsize** 및 **location** 에 대 한 값을 반환 합니다.
 
     :::image type="content" source="images/usage3.png" alt-text="vmSize 값":::
     :::image type="content" source="images/usage4.png" alt-text="위치 값":::
@@ -128,7 +129,7 @@ Azure 사용률 API를 사용 하 여 예약 사용 데이터를 가져와 고�
 >[!IMPORTANT]
 >Microsoft Windows Server와 같은 소프트웨어 비용은 현재 VM 예약 가격에 포함 되지 않으며 주문 레코드 및 청구서에 별도의 품목으로 표시 됩니다. 그러나 고객이 Azure 하이브리드 사용 혜택을 사용 하는 경우 소프트웨어 비용이 적용 되지 않습니다. 자세한 내용은 [예약 된 인스턴스에 포함 되지 않는 Windows 소프트웨어 비용](/azure/billing/billing-reserved-instance-windows-software-costs)을 참조 하세요.  
 
-## <a name="azure-reservations-resources"></a>Azure 예약 리소스
+## <a name="next-steps"></a>다음 단계
 
 |**원하는 정보**   |**이 글 읽기**    |
 |:-----------------------------|:-----------------|
