@@ -1,20 +1,20 @@
 ---
-title: 유효 단위 가격 계산
+title: 유효 단가 계산
 ms.topic: how-to
 ms.date: 11/10/2020
-description: 유효 가격 단위 및 계산 방법에 대해 알아봅니다. 에는 샘플 계산이 포함 되어 있습니다.
+description: 유효 단가 및 계산 방법에 대해 알아봅니다. 또한이 문서에는 샘플 계산이 포함 되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498581"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556330"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 계획 소비에 대 한 유효 단위 가격 계산
 
@@ -55,7 +55,7 @@ ms.locfileid: "94498581"
 >[!NOTE]
 >참고:이 예제의 미터는 가격 책정의 계층을 포함 하지 않습니다.
 
-| 날짜 | BCU (청구 가능한 소비 단위) | BC (청구 가능 비용) | 유효 단가 |
+| Date | BCU (청구 가능한 소비 단위) | BC (청구 가능 비용) | 유효 단가 |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-8 월 | 29 | 21.39 | 0.737586206896552 |
 | 10-8 월 | 210.950039 | 155.63 | 0.737757626107858 |

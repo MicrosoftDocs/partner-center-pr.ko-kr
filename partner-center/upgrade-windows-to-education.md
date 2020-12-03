@@ -1,22 +1,22 @@
 ---
-title: Windows 10 Home 고객을 Windows 10 교육으로 업그레이드
+title: Windows 10 Home에서 Windows 10 교육으로 업그레이드
 ms.topic: article
 ms.date: 10/28/2020
-description: Windows 10 Home 고객을 Windows 10 교육으로 업그레이드
+description: CSP (클라우드 솔루션 공급자) 파트너가 일부 교육 고객을 Windows 10 Home에서 Windows 10 교육으로 업그레이드 하는 방법을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360006"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556415"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home 고객을 Windows 10 교육으로 업그레이드
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>일부 교육 고객을 Windows 10 Home에서 Windows 10 교육으로 업그레이드
 
 **적용 대상**
 
@@ -63,7 +63,7 @@ CSP 파트너는 고객을 대신하여 지원 요청을 제출하여 고객의 
 - **설명:** Windows 10 교육용으로 업그레이드할 수 있도록 [insert number] 키를 요청 합니다. 요청 된 키 수는 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독 라이선스 보다 크지 않아야 합니다. 고객의 구독 ID [고객 구독 ID GUID 삽입 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독.]
 - **연락처 번호:** 이는 사전에 채워집니다. 확인 또는 업데이트를 검토 합니다.
 - **전자 메일:** 이는 미리 채워지고 Microsoft portal 관리자 (전역 관리자 또는 청구 관리자만 해당)로 사용 하는 전자 메일 이어야 합니다.
-- **기본 연락 방법** : **전화** 를 선택 하거나 **호출을 다시 예약** 합니다.
+- **기본 연락 방법**: **전화** 를 선택 하거나 **호출을 다시 예약** 합니다.
 
 8. **연락처** 를 선택 합니다. 예상 되는 대기 시간은 **도움 필요?** 창에 표시 됩니다.
 
@@ -79,7 +79,7 @@ Windows 10 Pro 교육 제품 키를 사용 하 여 Windows 10 Home을 업그레�
 
 2. 장치가 AAD를 통해 테 넌 트 도메인에 가입 된 경우 장치는 Windows 10 교육으로 자동 업그레이드 됩니다.  
 
-## <a name="frequently-asked-questions"></a>질문과 대답
+## <a name="frequently-asked-questions"></a>자주 묻는 질문
 
 **적격 한 고객은 무엇 인가요?**
 아카데미로 인정 하 고 활성 Windows 10 Enterprise A3/A5 또는 Microsoft 365 A3/A5 라이선스 구독이 있는 CSP 고객은 Windows 10 Home 장치를 Windows 10 교육으로 업그레이드할 수 있습니다. VLSC (볼륨 라이선스 서비스 센터)를 통해 이러한 제품에 대 한 라이선스를 받은 다른 교육 고객에 게 직접 제공 합니다.

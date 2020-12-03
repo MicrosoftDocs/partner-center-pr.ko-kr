@@ -2,17 +2,17 @@
 title: 파트너 센터 청구 청구서 이해
 ms.topic: article
 ms.date: 05/18/2020
-description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다. 정보에는 모든 송장 필드와 일회성 요금 청구 필드의 필드 및 정의가 포함 됩니다.
+description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다. 모든 송장 필드와 일회성 요금 필드에 대 한 필드 및 정의를 포함 합니다.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198009"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556296"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>파트너 센터 청구 송장 필드 이해
 
@@ -36,7 +36,7 @@ ms.locfileid: "92198009"
 | 청구지 | 청구서를 보낼 주소입니다. 파트너 센터 청구 프로필에서 회사 이름 및/또는 주소를 변경할 수 있습니다. |
 | 라이선스 기반 요금 | 구매한 사용 기반 라이선스에 대 한 월별 월별 또는 연간 요금으로, 서비스를 미리 청구 합니다. 이 숫자는 라이선스 기반 조정 파일의 **부분합** 열 (열 **T**)에 있는 모든 요금 합계입니다. |
 | 사용량 기반 요금 | Azure 사용량입니다. 여기에는 청구 기간 동안 사용 및 사용 되는 새 서비스 또는 응용 프로그램이 포함 됩니다. 이 수는 사용량 기반 조정 파일의 **PretaxCharges** 열 (열 **Z**)에 있는 모든 요금 합계입니다. |
-| 할인 | 고객이 구독의 일반 가격에서 받는 할인입니다. 이 숫자는 단가 또는 라이선스 당 가격이 아니라 *평평한 양만큼*표시 됩니다. |
+| 할인 | 고객이 구독의 일반 가격에서 받는 할인입니다. 이 숫자는 단가 또는 라이선스 당 가격이 아니라 *평평한 양만큼* 표시 됩니다. |
 | 크레딧 | 구독에 대 한 변경 내용에 대 한 크레딧 또는 조정 (예: 라이선스의 늘어나거나 감소). |
 | 소계 | 세금 및 세금-배타 요금 및 크레딧 전 합계 |
 | 세금 | 청구서의 2 페이지에서 시작 하는 **세부 정보** 섹션에서 요약 된 현재 요금에 대 한 총 세금입니다. 이 숫자는 사용 빈도 기반 조정 파일의 **taxationitem.taxamount** 열 (열 **AA**)에 있는 모든 요금 합계와 라이선스 기반 조정 파일의 **세금** 열 (열 **U**)입니다. |
