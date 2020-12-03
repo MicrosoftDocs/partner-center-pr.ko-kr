@@ -2,6 +2,8 @@
   href: index.yml
 - name: 공지 사항
   href: announcements/TOC.md
+- name: 파트너 센터 정보
+  href: overview.md
 - name: 파트너 네트워크 멤버십
   items:
     - name: Microsoft와 파트너 되기
@@ -60,8 +62,13 @@
         - name: 앱 개발 역량 제외
           href: app-dev-isv.md
     - name: 고급 전문 분야
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: 전문성 소개
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: 상태 적용 또는 확인
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Azure Expert MSP 되기
       href: azure-expert-msp.md
     - name: 이점
