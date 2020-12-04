@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램에 등록
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인 또는 직접 청구 파트너와 같이 비즈니스에 가장 적합한 CSP(클라우드 솔루션 공급자) 프로그램 판매 모델에 등록하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045382"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322086"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -42,7 +42,7 @@ CSP 신청을 완료하려면 회사의 MPN ID가 필요하며, 근무지 주소
 3. 정보 확인이 완료되면 Microsoft 간접 재판매인 계약조건에 동의합니다.
 
 > [!IMPORTANT]  
-> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 거래 수행에 사용되는 테넌트에만 적용됩니다. 회사용으로 CSP가 아닌 테넌트를 사용하는 CSP 파트너는 다른 CSP 파트너에게서 온라인 서비스를 구입할 수 있습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
 
 ## <a name="enroll-as-an-indirect-reseller"></a>간접 재판매인으로 등록
 
@@ -60,7 +60,7 @@ CSP 프로그램에 간접 재판매인으로 등록하는 파트너는 제품�
 
 아직 공급자(배포자라고도 함)와 협력하고 있지 않은 경우 [공식 Microsoft 공급자 목록을 검색](https://partnercenter.microsoft.com/partner/find-a-provider)하여 공급자를 찾을 수 있습니다.
 
-CSP 프로그램에 간접 재판매인으로 참가하기 위한 조건에 대한 자세한 내용은 [Microsoft 파트너 네트워크 웹 사이트](https://partner.microsoft.com/)의 [간접 재판매인으로 시작하기](https://partner.microsoft.com/cloud-solution-provider/whats-required)를 참조하세요. 
+CSP 프로그램에 간접 재판매인으로 참가하기 위한 조건에 대한 자세한 내용은 [Microsoft 파트너 네트워크 웹 사이트](https://partner.microsoft.com/)의 [간접 재판매인으로 시작하기](https://partner.microsoft.com/cloud-solution-provider/whats-required)를 참조하세요.
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>직접 청구 파트너로 등록
 
@@ -99,4 +99,4 @@ CSP 프로그램이 계속 발전하고 확장되면서, 직접 청구 파트너
 
 ## <a name="next-steps"></a>다음 단계
 
-- [CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기](microsoft-partner-agreement.md)
+[CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기](microsoft-partner-agreement.md)

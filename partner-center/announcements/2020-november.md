@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514744"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439083"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -30,7 +30,7 @@ ______________
 - 날짜: 2020-11-24
 - 기능
 
-## <a name="summary"></a>요약
+### <a name="summary"></a>요약
 
 Microsoft는 클라우드 솔루션 공급자 프로그램의 파트너가 파트너 센터에서 요금제를 통해 SaaS 제품을 구매할 수 있는 기능을 도입하고 있습니다. 
 
@@ -46,8 +46,7 @@ Microsoft는 간접 공급자 및 직접 청구 파트너를 포함하여 클라
 
 이 정보를 회사 내의 모든 해당 담당자와 공유하세요.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>새로운 통합 계정 관리 환경
 
@@ -56,7 +55,7 @@ Microsoft는 간접 공급자 및 직접 청구 파트너를 포함하여 클라
 - 날짜: 2020-11-18
 - 기능
 
-## <a name="summary"></a>요약
+### <a name="summary"></a>요약
 
 11월 18일부터 파트너 센터는 파트너의 사용자 환경을 개선할 새로운 계정 관리 환경을 배포하기 시작합니다. 이제 파트너는 설정 -> 계정 설정에서 모든 프로그램의 계정을 관리할 수 있습니다.
 
@@ -84,8 +83,7 @@ Microsoft는 간접 공급자 및 직접 청구 파트너를 포함하여 클라
 
 이 정보를 회사 내의 모든 해당 담당자와 공유하세요.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>미드 마켓 프로모션을 위한 Office 365 E1(LATAM, APAC 및 인도)
 
@@ -113,6 +111,7 @@ LATAM, 인도 및 APAC의 신흥 시장(APAC 내 선진 시장 제외)으로 제
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 질문, 쿼리 또는 자세한 내용에 대해서는 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>파트너 센터 API 업데이트 및 UI(사용자 인터페이스)가 향상되어 특정 국가에서 고객 심사 강화
@@ -254,8 +253,6 @@ EU(유럽 연합)/EFTA(유럽 자유 무역 연합) 지역의 경우 클라우�
 
 2021년 1월부터 파트너의 신규 고객이 새로운 상거래 제품을 구매할 경우 파트너의 위치에 해당하는 통화로 파트너에게 요금이 청구됩니다. 파트너의 기존 고객이 CSP에서 새로운 상거래 제품을 이미 구매한 경우 이 단계 동안에는 고객의 청구 위치에 해당하는 통화로 파트너에게 요금이 청구됩니다. 
 
- 
-
 - **2단계: 2021년 1월 전에 CSP에서 새로운 상거래 제품을 구매한 기존 고객** 
 
 1단계가 끝난 후 2021년 12월 31일까지, Microsoft는 기존 고객이 2021년 1월 전에 CSP에서 새로운 상거래 제품을 구매한 파트너의 경우 새로운 상거래 제품의 요금을 청구하는 통화를 고객 위치의 통화에서 파트너 위치의 통화로 전환합니다. 이 변경 내용이 구현되기 전에 파트너에게 미리 알림이 제공됩니다.  
@@ -279,6 +276,8 @@ EU(유럽 연합)/EFTA(유럽 자유 무역 연합) 지역의 경우 클라우�
 ### <a name="resources"></a>리소스 
 
 Microsoft 파트너 웹 사이트의 [작업 갤러리]https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ 에서 이 토픽에 대한 정보를 검토하세요.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>파트너 센터 API를 호출하는 파트너에 대한 API 제한
 
@@ -310,7 +309,7 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[고객의 모든 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID별 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[고객의 모든 주문 가져오기](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders||[고객의 모든 주문 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID별 주문 가져오기](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[구독 프로비전 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[주문 관리 및 구독 관리](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 
 [API 제한 지침](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)을 검토하고 필요한 단계를 수행합니다. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>중복된 MCA 요청으로 인한 409 오류
 
@@ -365,8 +364,7 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 
 - 이러한 변경에 대비하는 데 도움이 되도록 이 정보를 조직 내의 적절한 팀과 공유합니다.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>테스트 사용 가능: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 및 UI(사용자 인터페이스) 향상
 
@@ -405,17 +403,17 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 
 Microsoft는 적격 교육 사용자로서 모든 고객 또는 제안된 고객의 상태를 검토할 수 있는 권리를 보유하고 있습니다. 자세한 내용은 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 참조하세요.
 
-## <a name="next-steps"></a>다음 단계
+### <a name="next-steps"></a>다음 단계
 
-새로운 파트너 센터 UI 및 API 변경 사항, 그리고 [파트너 센터 교육 고객 검증 프로세스 개선 콘텐츠 컬렉션](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)의 테스트 가이드를 검토합니다.
+- 새로운 파트너 센터 UI 및 API 변경 사항, 그리고 [파트너 센터 교육 고객 검증 프로세스 개선 콘텐츠 컬렉션](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)의 테스트 가이드를 검토합니다.
 
-• 테스트에 참여하기 위해 가입합니다. (자세한 내용은 [테스트 가이드](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)를 참조하십시오.) 
+- 테스트에 참여하려면 가입합니다. (자세한 내용은 [테스트 가이드](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)를 참조하십시오.) 
 
-• 조직에서 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 잘 알고 있는지 확인합니다. 
+- 조직에서 [교육 기관 적격 교육 사용자 요구 사항](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)을 잘 알고 있는지 확인합니다. 
 
-• 이러한 변경 사항에 대비하는 데 도움이 되도록 재판매인과 함께 이 정보를 조직 내의 적절한 팀과 공유합니다.
+- 이러한 변경 사항에 대비하는 데 도움이 되도록 재판매인과 함께 이 정보를 조직 내의 적절한 팀과 공유합니다.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>운영 준비 갤러리에서 상업용 라이선스 파트너 콘텐츠 확장
 
@@ -483,7 +481,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams 룸 관리 서비스
 
 - 자동 관리: 패칭, 구성 관리 등을 포함한 룸 시스템에 대한 연중 무휴 관리
-•   실시간 모니터링 및 근본 원인 분석: 모니터링 및 검색: 필요한 경우 Microsoft에서 고객과 협력하여 추진하는 오케스트레이션된 인시던트 관리 응답을 사용하여 모니터링 및 검색 모바일 앱을 사용하면 이동 중에도 알림을 받을 수 있습니다.
+- 실시간 모니터링 및 근본 원인 분석: 모니터링 및 검색: 필요한 경우 Microsoft에서 고객과 협력하여 추진하는 오케스트레이션된 인시던트 관리 응답을 사용하여 모니터링 및 검색 모바일 앱을 사용하면 이동 중에도 알림을 받을 수 있습니다.
 - 관리되는 업데이트: 애플리케이션, Windows KB 및 펌웨어 업데이트 관리 및 제공
 - 보안 위협 보호: Microsoft Defender Advanced Threat Protection을 통한 보안 위협 보호.
 - 고객 지원: 자동화되지 않은 사례에 대한 지원 인시던트 수정을 사용하여 전용 서비스 운영 센터를 통해 연중 무휴 티켓 지원 세분화된 역할 기반 액세스 제어.

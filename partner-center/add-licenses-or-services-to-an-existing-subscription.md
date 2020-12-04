@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999677"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474226"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스 또는 서비스 추가
 
-**적용 대상**
-
-- 파트너 센터
-- 클라우드 솔루션 공급자 프로그램 파트너
-
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
@@ -35,7 +30,7 @@ ms.locfileid: "90999677"
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP 프로그램에서 지원되는 업그레이드 <a id="upgradesubscription"></a>
 
-클라우드 솔루션 공급자에서 지원하는 업그레이드는 다음과 같습니다.
+클라우드 솔루션 공급자 프로그램에서 지원하는 업그레이드는 다음과 같습니다.
 
 | 제품 | 가능한 업그레이드|
 |---:|:---|
@@ -66,9 +61,9 @@ ms.locfileid: "90999677"
 
 1. 구독을 업그레이드할 자격이 있는지 확인하려면 고객을 선택한 다음 구독 목록을 엽니다.
 
-2. 구독을 업그레이드할 수 있는 경우 구독 이름 바로 뒤에 정보 아이콘이 표시됩니다. 이 아이콘을 마우스로 가리킨 다음 **지금 업그레이드**를 선택합니다.
+2. 구독을 업그레이드할 수 있는 경우 구독 이름 바로 뒤에 정보 아이콘이 표시됩니다. 이 아이콘을 마우스로 가리킨 다음 **지금 업그레이드** 를 선택합니다.
 
-3. 새 제품을 선택하고 **제출**을 선택합니다.
+3. 새 제품을 선택하고 **제출** 을 선택합니다.
 
 4. 특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다. 이 경우 파트너 센터에서 영향을 받은 계정 및 서비스 목록을 제공합니다. 도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.
 

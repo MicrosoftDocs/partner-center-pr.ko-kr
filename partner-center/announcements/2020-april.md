@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132997"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439130"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -30,8 +30,8 @@ _________________
 
 - 날짜: 2020-04-30
 - 다음을 입력합니다. 기능
-- 상태: 출시 예정
-- [자세한 내용](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>요약
 
@@ -49,7 +49,7 @@ Microsoft는 2020년 5월 4일에 신규 고객에 대해 Office 365 E1 및 Micr
 이 프로모션은 현재 Office 365 E1 평가판 제품을 대체하며, 다음과 같은 차이가 있습니다.
 
 - 파트너는 고유한 6개월 평가판 SKU 대신 처음 6개월 동안 100% 할인을 적용하는 CSP 프로모션을 활용하여 Office 365 E1 또는 Microsoft 365 Business Basic SKU를 거래합니다. [CSP 프로모션에 대해 자세히 알아보세요](../promotions.md).
-- 주문은 엄밀히 말하면 서면 정책을 통해 신규 고객으로만 제한되었던 Office 365 E1 평가판이 아닌 "신규 고객만"으로 제한됩니다. [Microsoft 파트너 FAQ](https://aka.ms/CSPCOVIDPromo)를 검토하여 자세히 알아보세요.
+- 주문은 엄밀히 말하면 서면 정책을 통해 신규 고객으로만 제한되었던 Office 365 E1 평가판이 아닌 "신규 고객만"으로 제한됩니다. 
 - SMB 고객의 경우 이 프로모션에 Microsoft 365 Business Basic이 포함됩니다. 따라서 파트너는 비즈니스용 Microsoft 365가 포함된 올바른 제품군에서 실제 사용자 수가 300명 미만인 고객을 시작할 수 있습니다.
 현재 Office 365 E1 평가판(2020년 5월 4일까지 사용 가능)으로 라이선스가 부여된 고객은 현재 플랜을 그대로 유지합니다. 이 변경 사항은 순 신규 고객에게만 영향을 줍니다.
 
@@ -58,12 +58,13 @@ Microsoft는 2020년 5월 4일에 신규 고객에 대해 Office 365 E1 및 Micr
 이 프로모션에 해당하는 신규 고객은 다음과 같습니다.
 
 1. 순 신규 고객 테넌트
-2. [Microsoft 파트너 FAQ(자주 묻는 질문) 가이드](https://aka.ms/CSPCOVIDPromo)에 정의된 제품에 대한 테넌트에 현재 결제된 구독이나 최근에 취소된(지난 30일 이내) 구독이 없는 기존 고객
+2. Microsoft 파트너 FAQ(자주 묻는 질문) 가이드에 정의된 제품에 대한 테넌트에 현재 결제된 구독이나 최근에 취소된(지난 30일 이내) 구독이 없는 기존 고객
 
+ 
 ### <a name="additional-resources"></a>추가 리소스
 
 - 보안 원격 작업에 대해 자세히 알아보려면 [파트너 원격 작업 리소스 센터](https://www.microsoft.com/microsoft-365/partners/remotework)를 방문하세요.
-- [관련 파트너 FAQ](https://aka.ms/CSPCOVIDPromo)에서 이 변경 사항에 대해 자세히 알아보세요.
+
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -82,7 +83,7 @@ _________________
 - 날짜: 2020-04-29
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -117,7 +118,7 @@ _________________
 - 날짜: 2020-04-24
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 내용](https://flow.microsoft.com/ui-flows/)
+- [자세한 정보](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>요약
 
@@ -154,7 +155,7 @@ _________________
 - 날짜: 2020-04-23
 - 다음을 입력합니다. 기능
 - 상태: 출시 예정
-- [자세한 내용](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-partner-audiences"></a>대상 파트너 그룹
 
@@ -303,7 +304,7 @@ _________________
 - 날짜: 2020-04-14
 - 다음을 입력합니다. 기능
 - 상태: 출시 예정
-- [자세한 내용](https://flow.microsoft.com/ui-flows/)
+- [자세한 정보](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>요약
 
@@ -343,7 +344,7 @@ _________________
 
 - 날짜: 2020-04-10
 - 다음을 입력합니다. 기능
-- 상태: 출시 예정
+- 상태: 곧 공개 예정
 
 ### <a name="summary"></a>요약
 
@@ -389,7 +390,7 @@ _________________
 - 날짜: 2020-04-10
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 내용](https://flow.microsoft.com/ui-flows/)
+- [자세한 정보](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>요약
 
@@ -513,7 +514,7 @@ _________________
 - 날짜: 2020-04-06
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="summary"></a>요약
 
@@ -546,7 +547,7 @@ Microsoft는 2020년 4월 1일에 Dynamics Business Central Online, Dynamics 비
 Microsoft는 2020년 5월 1일에 새 RPA 제품의 가용성을 교육 프로그램으로 확장합니다.
 CSP의 승인된 교육 파트너 프로그램 변경 사항에 대해 자세히 알아보려면 [여기](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)를 클릭하세요. 이는 파트너 센터의 기존 컬렉션 링크입니다).
 
-새 SKU 정보의 관련 다운로드 섹션에서 첨부된 **Dynamics CSP Offer Updates-May 2020 파일** ( [여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/))을 검토하세요.
+새 SKU 정보의 관련 다운로드 섹션에서 첨부된 **Dynamics CSP Offer Updates-May 2020 파일**([여기](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/))을 검토하세요.
 
 ### <a name="ecommerce-changes"></a>전자상거래 변경 사항
 
@@ -589,7 +590,7 @@ _________________
 - 날짜: 2020-04-03
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 - 모든 CSP 파트너
@@ -621,7 +622,7 @@ partner.microsoft.com의 작업 준비 리소스 사이트는 기존의 CSP 프�
 준비하려면 어떻게 해야 하나요?
 
 - 갤러리 컬렉션 [출시 예정 - 한곳에서 제공되는 Operations Readiness 리소스](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)에서 업데이트된 준비 자료를 검토하여 Operations Readiness 리소스의 새로운 Microsoft 파트너 웹 사이트 위치에 대해 **자세히 알아보세요**.
-- **4월 파트너 커뮤니티 콜에 참석** 하세요. 여기서는 새로운 환경에 대해 자세히 알아보고 질문할 수 있습니다( [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)).
+- **4월 파트너 커뮤니티 콜에 참석** 하세요. 여기서는 새로운 환경에 대해 자세히 알아보고 질문할 수 있습니다([https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)).
 
 ### <a name="questions"></a>질문이 있으세요?
 
@@ -643,7 +644,7 @@ _________________
 - 날짜: 2020-04-01
 - 다음을 입력합니다. 제품/시장
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
 
 ### <a name="summary"></a>요약
 
@@ -736,7 +737,7 @@ _________________
 - 날짜: 2020-04-01
 - 다음을 입력합니다. 기능
 - 상태: 지금 이용 가능
-- [자세한 내용](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
+- [자세한 정보](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 모든 CSP 파트너.
