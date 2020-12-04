@@ -1,24 +1,24 @@
 ---
-title: 솔루션 평가 지불 상태 및 계산 정보
+title: 솔루션 평가 지불 상태
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 솔루션 평가 지불에 대 한 정보를 찾는 방법에 대해 알아봅니다.
+description: 채널 성과급 플랫폼 (칩)을 사용 하 여 솔루션 평가 기회, 해당 계산 및 지불 상태에 대 한 정보를 찾을 수 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418174"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570470"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>솔루션 평가 지불 상태 및 계산 정보
 
-칩에서 솔루션 평가 기회 상태의 지불 상태를 검토할 수 있습니다. 
+칩에서 솔루션 평가 기회 상태의 지불 상태를 검토할 수 있습니다.
 
 ## <a name="how-to-review-your-payment-status"></a>지불 상태를 검토 하는 방법
 
@@ -52,4 +52,4 @@ Microsoft 지역 운영 센터는 정의 된 요금 일정을 사용 하 여 월
 
 ## <a name="next-steps"></a>다음 단계
 
-- [칩 액세스 문제](chip-access-trouble.md) 
+- [CHIP 액세스 문제](chip-access-trouble.md) 

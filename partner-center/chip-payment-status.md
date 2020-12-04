@@ -1,22 +1,22 @@
 ---
-title: 칩에서 지불 상태 확인
+title: CHIP에서 결제 상태 확인
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 칩에서 지불 상태를 확인 하는 방법에 대해 알아봅니다.
+description: 채널 성과급 플랫폼 (칩)을 사용 하 여 지불 상태를 확인 하는 방법을 알아봅니다. 칩은 2021의 끝에서 사용이 중지 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e86030c16405808d3b4036e313e8970c495382e
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418193"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570538"
 ---
-# <a name="check-payment-status-in-chip"></a>칩에서 지불 상태 확인
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>채널 성과급 플랫폼 (칩)에서 지불 상태를 확인 합니다.
 
 **적절한 역할**
 

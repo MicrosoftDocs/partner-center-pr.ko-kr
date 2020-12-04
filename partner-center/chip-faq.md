@@ -2,21 +2,21 @@
 title: Solution Assessment Incentives FAQ
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 솔루션 평가에 대 한 자주 묻는 질문에 대 한 답변
+description: 채널 성과급 플랫폼 (칩)에서 솔루션 평가에 대해 자주 묻는 질문에 대 한 대답을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447242"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570453"
 ---
-# <a name="solution-assessment-incentives-faq"></a>솔루션 평가 성과급 FAQ
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>채널 성과급 플랫폼 (칩)에 대 한 솔루션 평가 성과급 FAQ 
 
 아래에서 자주 묻는 질문에 대 한 답변을 찾습니다.
 

@@ -1,20 +1,20 @@
 ---
-title: 채널 성과급 플랫폼 (칩) 탐색
+title: 채널 성과급 플랫폼 (칩) 사용
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 성과급 작업에 칩을 사용 하는 방법에 대해 알아봅니다.
+description: 성과급 작업에 대해 채널 성과급 플랫폼 (칩)을 사용 하는 방법에 대해 알아봅니다. 이 플랫폼은 2021의 끝에서 사용이 중지 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418180"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570403"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>채널 성과급 플랫폼 (칩) 탐색
 
@@ -41,4 +41,4 @@ ms.locfileid: "94418180"
 
 ## <a name="next-steps"></a>다음 단계
 
-- [사용자를 칩 계정에 추가](chip-users.md)
+- [CHIP 계정에 사용자 추가](chip-users.md)

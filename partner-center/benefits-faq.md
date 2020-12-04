@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417254"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570691"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
-적용 대상:
+**적절한 역할**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- MPN 관리자
+
+이 문서에서는 MPN (Microsoft 파트너 네트워크) 혜택에 대 한 일반적인 질문을 다룹니다.
+
 
 ## <a name="general-questions"></a>일반적인 질문
 
@@ -87,7 +89,7 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. 왼쪽 탐색 영역에서 **MPN** 를 선택 합니다.
+2. 파트너 센터 메뉴에서 **MPN** 를 선택 합니다.
 
 3. **혜택** 을 선택 하 고 **Visual Studio** 를 선택 합니다.
 
@@ -96,7 +98,7 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 구독을 할당 한 후에는 사용자가 Visual Studio에 로그인 하 여 관리 해야 합니다.
 
 >[!Note]
-> 원래 할당 90 일 후에 한 구독자에서 다른 구독자로 Visual Studio 구독을 다시 할당할 수 있습니다.
+> Visual Studio 구독은 원래 할당 후 한 구독자에서 다른 90 일로 다시 할당 될 수 있습니다.
 
 ## <a name="technical-benefits-and-support"></a>기술적 이점 및 지원
 
@@ -106,7 +108,7 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. 왼쪽 탐색 영역에서 **MPN** 를 선택 합니다.
+2. 파트너 센터 메뉴에서 **MPN** 를 선택 합니다.
 
 3. **혜택** 을 선택 하 고 **기술 혜택** 을 선택 합니다.
 
@@ -115,3 +117,7 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 5. [Microsoft 지원](https://support.microsoft.com/supportforbusiness/productselection)에 로그인 합니다.
 
 6. 설치 하려는 제품을 선택 하 고 기술 지원 티켓을 만듭니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [전문 지식을 보여 주기 위해 고급 전문화 획득](advanced-specializations.md)

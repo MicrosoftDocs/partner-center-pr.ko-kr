@@ -1,22 +1,22 @@
 ---
-title: 고객 계정에 대 한 사용자 및 사용자 라이선스 관리
+title: 고객 계정에 대 한 사용자 관리
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 사용자 암호를 다시 설정 하 고, 사용자 계정을 삭제 하거나 복원 하는 등 파트너 센터에서 고객의 사용자를 관리 하는 방법에 대해 알아봅니다.
+description: 파트너 센터에서 고객의 사용자 관리-사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 암호를 다시 설정 하 고, 사용자 계정을 삭제 하거나 복원 합니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474073"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570742"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>고객 계정에 대 한 사용자 및 사용자 라이선스 관리
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>고객 계정에 대 한 사용자 및 사용자 라이선스 관리 
 
 **적절한 역할**
 
@@ -76,21 +76,21 @@ ms.locfileid: "96474073"
 
 2. 파트너 센터 메뉴에서 **고객** 을 선택한 다음, 목록에서 고객을 선택합니다.
 
-3.  고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다. 목록에서 사용자를 선택합니다.
+3. 고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다. 목록에서 사용자를 선택합니다.
 
-4.  화면 아래쪽에서 **암호 재설정** 을 선택 합니다. 
+4. 화면 아래쪽에서 **암호 재설정** 을 선택 합니다. 
 
-5.  새 임시 암호를 사용자에 게 보냅니다.
+5. 새 임시 암호를 사용자에 게 보냅니다.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>고객에 대 한 사용자 계정 삭제
 
-1.  **파트너 센터** 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 선택합니다.
+1. **파트너 센터** 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 선택합니다.
 
-2.  고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다. 목록에서 사용자를 선택합니다.
+2. 고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다. 목록에서 사용자를 선택합니다.
 
-3.  화면 맨 아래에서 **사용자 계정 삭제** 를 선택합니다.
+3. 화면 맨 아래에서 **사용자 계정 삭제** 를 선택합니다.
 
 이 계정을 복원 해야 하는 경우 고객의 **사용자 및 라이선스** 목록의 **삭제 된 사용자** 탭에서 찾을 수 있습니다. 삭제 된 사용자를 복원 하는 데 30 일이 있습니다.
 
@@ -98,19 +98,18 @@ ms.locfileid: "96474073"
 
 ## <a name="restore-deleted-user-accounts"></a>삭제 된 사용자 계정 복원
 
-1.  **파트너 센터** 메뉴에서 **고객** 을 선택한 다음 목록에서 고객을 선택 합니다.
+1. **파트너 센터** 메뉴에서 **고객** 을 선택한 다음 목록에서 고객을 선택 합니다.
 
-2.  **사용자 및 라이선스** 를 선택 합니다.
+2. **사용자 및 라이선스** 를 선택 합니다.
 
-3.  삭제 된 **사용자 ()** 탭을 선택 합니다. 복원할 수 있는 삭제 된 사용자가 있는 경우에는 **(1)** 이상을 읽어야 합니다.
+3. 삭제 된 **사용자 ()** 탭을 선택 합니다. 복원할 수 있는 삭제 된 사용자가 있는 경우에는 **(1)** 이상을 읽어야 합니다.
 
-4.  삭제 된 사용자의 확인란을 하나 이상 선택 하 고 **복원** 을 선택 합니다.
+4. 삭제 된 사용자의 확인란을 하나 이상 선택 하 고 **복원** 을 선택 합니다.
 
     선택한 모든 사용자 계정이 **사용자 및 라이선스** 페이지에 다시 나타납니다.
 
-## <a name="related-topics"></a>관련 항목
+## <a name="next-steps"></a>다음 단계
 
+- [여러 사용자에게 라이선스 할당 또는 해지](bulk-license-provisioning-for-multiple-users.md)
 
-[여러 사용자에게 라이선스 할당 또는 해지](bulk-license-provisioning-for-multiple-users.md)
-
-[고객 계정에 대 한 여러 사용자 만들기](adding-multiple-users-to-a-customer-account.md)
+- [고객 계정에 대 한 여러 사용자 만들기](adding-multiple-users-to-a-customer-account.md)

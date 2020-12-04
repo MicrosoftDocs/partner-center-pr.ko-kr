@@ -2,18 +2,18 @@
 title: 역량-질문과 대답
 ms.topic: article
 ms.date: 11/23/2020
-description: Azure, 클라우드, Visual Studio, 기술 및 지원 혜택에 대 한 Microsoft 파트너 네트워크 골드 및 실버 역량, 혜택 만료, 갱신 및 정품 인증에 대 한 질문에 대 한 답변
+description: Azure, 클라우드, Visual Studio, 기술, 지원 혜택에 대 한 MPN 골드 또는 실버 역량, 혜택 만료, 갱신 또는 라이선스 활성화에 대 한 답변입니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812812"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570487"
 ---
 # <a name="competencies---frequently-asked-questions"></a>역량-질문과 대답
 

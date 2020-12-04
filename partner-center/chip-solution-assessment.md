@@ -1,20 +1,20 @@
 ---
-title: 채널 성과급 플랫폼 (칩)의 솔루션 평가 기회 상태
+title: 칩 솔루션 평가 기회 상태
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 칩에 대 한 솔루션 평가 기회 상태를 찾는 방법을 알아보세요.
+description: 채널 성과급 플랫폼 (칩)에서 솔루션 평가 기회 상태를 찾는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418181"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570385"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>칩에 대 한 솔루션 평가 기회 상태를 확인 합니다.
 
@@ -62,7 +62,7 @@ EM 승인 확인란을 선택 하지 않은 경우에는 SAS (Solution 평가 �
 
 ## <a name="next-steps"></a>다음 단계
 
-- [칩에서 지불 상태 확인](chip-payment-status.md)
+- [CHIP에서 결제 상태 확인](chip-payment-status.md)
 - [지원](report-problems-with-partner-center.md)
 
 .

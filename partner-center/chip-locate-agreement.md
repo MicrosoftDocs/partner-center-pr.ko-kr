@@ -1,22 +1,22 @@
 ---
-title: 규약에 대 한 데스크톱 수 및 요금 수준 찾기
+title: 데스크톱 수, 칩의 요금 수준 찾기
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 여기서는 칩의 데스크톱 수와 요금 수준 정보입니다.
+description: 채널 성과급 플랫폼 (칩)을 사용 하 여 규약에 대 한 데스크톱 수와 요금 정보를 찾는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418187"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570555"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>규약에 대 한 데스크톱 수 및 요금 수준 찾기
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>계약에 대한 데스크톱 수 및 요금 수준 찾기
 
 데스크톱 수와 요금 수준에 대 한 계약 정보를 제공 하는 파일인 Excel로 다운로드할 수 있습니다.
 

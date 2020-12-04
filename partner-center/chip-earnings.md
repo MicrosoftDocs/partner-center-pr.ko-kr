@@ -1,22 +1,22 @@
 ---
-title: 칩의 수익 보기
+title: CHIP에서 수익 보기
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 칩의 소득 보기 지침
+description: 채널 성과급 플랫폼 (칩) 도구에서 성과급 문과 수익을 확인 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418192"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570504"
 ---
-# <a name="view-earnings-in-chip"></a>칩의 수익 보기
+# <a name="view-earnings-using-the-chip-tool"></a>칩 도구를 사용 하 여 소득 보기
 
 채널 성과급 플랫폼 도구 (칩)를 통해 성과급 문에 액세스할 수 있습니다.
 
@@ -32,7 +32,7 @@ ms.locfileid: "94418192"
 
 ### <a name="explanation-of-details-tabs"></a>세부 정보 탭 설명
 
-|**탭**|**정의**|
+|**Tab**|**정의**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|고객 이름, 규약, 레버 세부 정보를 포함 하 여 선택한 기간에 대 한 성과급 프로그램의 세부 정보를 포함 합니다.|
 |DeltaReport-피벗|Enterprise에 대 한 마지막 게시 된 문의 업데이트만|
@@ -41,4 +41,4 @@ ms.locfileid: "94418192"
 
 ## <a name="next-steps"></a>다음 단계
 
-- [칩에서 지불 상태 확인](chip-payment-status.md)
+- [CHIP에서 결제 상태 확인](chip-payment-status.md)
