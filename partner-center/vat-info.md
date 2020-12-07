@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663884"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755642"
 ---
-# <a name="vat-info"></a>VAT 정보
+# <a name="value-added-tax-vat-information"></a>값 추가 세금 (VAT) 정보
 
 **적용 대상:**
 
@@ -25,6 +25,24 @@ ms.locfileid: "91663884"
 ## <a name="understanding-vat-numbers"></a>VAT 번호 이해
 
 값 부가 세금 (VAT) 번호는 유럽 연합의 국가 또는 지역에 사용 되는 식별자입니다. 자세한 내용은 유럽 연합 공식 [Vies 사이트](http://ec.europa.eu/taxation_customs/vies/vieshome.do)를 참조 하세요.
+
+## <a name="location-specific-vat-information"></a>위치 관련 VAT 정보
+
+다음 세부 정보는 아래에 나열 된 국가 또는 지역에 대해 고유 합니다.
+
+### <a name="european-union"></a>유럽 연합
+
+유럽 연합의 구성원 상태에서 파트너는 유효한 VAT ID 번호를 제공 하 여 역 요금 및 적절 한 요금 청구를 제공 해야 합니다. VAT 번호를 유효한 것으로 수락 해야 합니다.
+
+Microsoft는 크레딧을 지원 하지 않으며 다시 청구 됩니다. 구독을 판매 하기 전에 파트너 센터에 [VAT ID 번호를 등록](organization-tax-info.md) 해야 합니다.
+
+### <a name="south-africa"></a>남아프리카 공화국
+
+이제 Microsoft는 남부 아프리카에서 파트너가 구매한 디지털 콘텐츠 및 서비스에 표준 VAT를 적용 합니다. 청구서에서 VAT를 제외 하 고이를 직접 관리 하려면 [Microsoft VAT ID 번호를 보내](organization-tax-info.md)파트너 청구 프로필을 업데이트 해야 합니다.
+
+### <a name="turkey"></a>터키
+
+Microsoft는 이제 디지털 콘텐츠와 파트너가 구매한 서비스에 대해 표준 VAT를 적용 합니다. 청구서에서 VAT를 제외 하 고이를 직접 관리 하려면 [Microsoft VAT ID 번호를 보내](organization-tax-info.md)파트너 청구 프로필을 업데이트 해야 합니다.
 
 ## <a name="accepted-formats-for-vat-numbers"></a>VAT 번호에 허용 되는 형식
 
