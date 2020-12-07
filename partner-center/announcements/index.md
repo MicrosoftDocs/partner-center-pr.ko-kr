@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932772"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570759"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 11월 공지** | **발표** |
+| **범주** | **2020년 12월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[통화 플랜이 포함된 미국 Microsoft 365 Business Voice 제품 업데이트가 곧 출시될 예정입니다.](2020-december.md#2)|12월 3일|
+|기능|[지금 라이브: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 사용자 인터페이스 향상](2020-december.md#1)|12월 3일|
+| **범주** | **2020년 11월 공지** | **발표** |
 |기능|[새로운 통합 계정 관리 환경](2020-november.md#13)|11월 18일|
 |제품/시장|[미드 마켓 프로모션을 위한 Office 365 E1(LATAM, APAC 및 인도)](2020-november.md#12)|11월 18일|
 |기능|[Partner Center API 업데이트 및 UI(사용자 인터페이스)가 향상되어 특정 국가에서 고객 심사 강화](2020-november.md#11)|11월 17일|
