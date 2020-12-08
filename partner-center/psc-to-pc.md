@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612825"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776913"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -66,22 +66,22 @@ ms.locfileid: "96612825"
   >[!Note]
   > 파트너 센터에서 로그 아웃 했다가 다시 로그인 하 여 조회 페이지에 액세스 하기 위한 자격 증명을 새로 고쳐야 할 수도 있습니다.
 
-파트너 센터 메뉴 또는 조회 관련 페이지에 **조회** 옵션이 표시 되지 않으면 회사의 [전역 관리자](permissions-overview.md) 에 게 문의 하 고 **조회** 옵션 및 관련 영역에 대 한 액세스 권한을 제공 하도록 요청 합니다. 
+파트너 센터 메뉴 또는 조회 관련 페이지에 **조회** 옵션이 표시 되지 않으면 회사의 [계정 관리자](permissions-overview.md) 에 게 문의 하 고 **조회** 옵션 및 관련 영역에 대 한 액세스 권한을 제공 하도록 요청 합니다.
 
-회사의 전역 관리자를 찾으려면 다음을 수행 합니다.
+회사의 계정 관리자를 찾으려면 다음을 수행 합니다.
 
 1. 파트너 센터 대시보드의 오른쪽 위에 있는 기어 아이콘에서 **계정 설정** 을 선택 합니다.
 
-1. 두 번째 수준의 왼쪽 탐색 메뉴에서 **사용자 관리** 를 선택 합니다. 
+1. 두 번째 수준의 왼쪽 탐색 메뉴에서 **사용자 관리** 를 선택 합니다.
 
-1. 사용자 목록의 맨 위에서 **필터** 드롭다운 메뉴를 선택 합니다. 옵션을 **전역 관리자** 로 변경 합니다.
+1. 사용자 목록의 맨 위에서 **필터** 드롭다운 메뉴를 선택 합니다. 옵션을 **계정 관리자** 로 변경 합니다.
 
-   이 페이지에는 각 전자 메일 주소와 함께 전역 관리자가 모두 표시 됩니다. 그 중 하나를 전자 메일로 처리 하 고 회사 계정에 대 한 조회 관리자 역할을 할당 하도록 요청 합니다.
+   이 페이지에는 해당 전자 메일 주소가 있는 모든 계정 관리자가 표시 됩니다. 그 중 하나를 전자 메일로 처리 하 고 회사 계정에 대 한 조회 관리자 역할을 할당 하도록 요청 합니다.
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="파트너 설정 사용자 관리 페이지에서 계정 관리자를 표시 하는 이미지입니다.":::
 
 >[!Important]
->- 역할에 PSC의 사용자 관리만 포함 된 경우 회사의 전역 관리자에 게 문의 하 여 파트너 센터에서 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 역할을 할당 합니다. 
+>- 역할에 PSC의 사용자 관리만 포함 된 경우 회사의 계정 관리자에 게 문의 하 여 파트너 센터에서 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 역할을 할당 합니다. 
 >- 공동 판매 기회 관리도 포함 하는 경우에는 [조회 관리자](permissions-overview.md#manage-referrals) 역할을 할당 받아야 합니다.
 > - 또한 PSC 관리자 간에 하나의 변경 관리 리더가 추천 하는 것이 좋습니다. 이렇게 하면 모든 PSC 관리자가 파트너 센터 계정 관리자에 게 개별적으로 연결 하지 않아도 됩니다. 대신, 변경 관리 리더가 파트너 센터 계정 관리자를 사용 하는 기본 사용자가 될 수 있습니다.
 
@@ -129,7 +129,7 @@ ms.locfileid: "96612825"
 
 사용자 마이그레이션을 완료 한 후에는 다음 지침을 사용 하 여 마이그레이션 전략을 결정 합니다.
 
-회사에 PDM이 있는 경우-파트너 센터 계정이 설정 되 고 사용자가 이동 하 여 역할 및 사용 권한을 보유 하는 경우 공동 판매 작업을 파트너 센터로 이동할 수 있습니다. 마이그레이션이 완료 될 때까지 기다리지 않고 스위치를 설정 하 여 모든 새 거래를 파트너 센터로 이동 하 게 하는 것을 PDM에 알립니다.
+회사에 PDM (파트너 개발 관리자)이 있는 경우-파트너 센터 계정이 설정 되 고 사용자가 이동 하 여 역할 및 권한이 있는 경우 공동 판매 작업을 파트너 센터로 이동할 수 있습니다. 마이그레이션이 완료 될 때까지 기다리지 않고 스위치를 설정 하 여 모든 새 거래를 파트너 센터로 이동 하 게 하는 것을 PDM에 알립니다.
 
 >[!Note]
 >이 스위치를 만든 후에는 PSC의 기존 활성 거래에 대해서만 작업을 수행할 수 있습니다. 새 거래를 만들거나 PSC의 Microsoft 판매자 로부터 거래를 받을 수 없습니다.
@@ -137,7 +137,7 @@ ms.locfileid: "96612825"
 회사에서 PDM을 사용 하지 않는 경우 모든 사용자 계정이 설정 되 고 모든 사용자가 확인 하는지 확인 합니다. 파트너 센터에서 공동 판매를 시작할 수 있는 정확한 날짜와 관련 하 여 PSC의 전자 메일과 배너를 통해 알림이 제공 됩니다. PSC에서 기존 활성 거래를 관리 해야 한다는 점에 주의 해야 합니다.
 
 >[!Important]
->활성 거래는 PC로 마이그레이션되지 않습니다. 2020 년 12 월 31 일까 지 해당 거래를 종결 하 고 등록할 수 있습니다.
+>활성 거래는 PC로 마이그레이션되지 않습니다. 2021 년 3 월 31 일까 지 해당 거래를 종결 하 고 등록할 수 있습니다.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>PSC 관리자, PSC 거래 관리자 및 PSC 판매자를 위한 다음 단계
 
@@ -263,7 +263,7 @@ ms.locfileid: "96612825"
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-파트너 센터의 조회 섹션에 대 한 액세스 권한을 부여할 수 있는 사용자는 누구 인가요?
 
-[계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 전역 관리자를 찾으려면 파트너 센터 [대시보드의](https://partner.microsoft.com/dashboard)오른쪽 위에 있는 기어 아이콘에서 **계정 설정** 을 선택 합니다. 그런 다음 두 번째 수준의 왼쪽 탐색 모음에서 **사용자 관리** 를 선택 합니다. 사용자 목록의 맨 위에서 **필터** 드롭다운 메뉴를 선택 하 고 옵션을 **전역 관리자** 로 변경 합니다. 이 페이지에는 각 전자 메일 주소와 함께 전역 관리자가 모두 표시 됩니다. 그 중 하나를 요청 하 여 회사 계정에 대 한 조회 관리자 역할을 할당 합니다.
+[계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 는 조회 탭에 대 한 액세스 권한을 부여할 수 있습니다. 계정 관리자를 찾으려면 파트너 센터 [대시보드의](https://partner.microsoft.com/dashboard)오른쪽 위에 있는 기어 아이콘에서 **계정 설정** 을 선택 합니다. 그런 다음 두 번째 수준의 왼쪽 탐색 모음에서 **사용자 관리** 를 선택 합니다. 사용자 목록의 맨 위에서 **필터** 드롭다운 메뉴를 선택 하 고 옵션을 **계정 관리자** 로 변경 합니다. 이 페이지에는 해당 전자 메일 주소가 있는 모든 계정 관리자가 표시 됩니다. 그 중 하나를 요청 하 여 회사 계정에 대 한 조회 관리자 역할을 할당 합니다.
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-계정에 대해 + 새 거래 단추가 회색으로 표시 됩니다. 거래를 만들기 시작 하려면 어떻게 해야 하나요?
 
