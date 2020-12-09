@@ -1,7 +1,7 @@
 ---
 title: 소프트웨어 보증 계획 서비스
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 소프트웨어 보증을 통해 고객에 게 교육 및 기타 서비스를 제공할 수 있도록 Microsoft 계획 서비스 계약을 등록 하 고 검증 하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88092034"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926647"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
@@ -42,10 +42,9 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 
 ## <a name="verify-eligibility-new-partners"></a>자격 확인 (새 파트너)
 
-파트너 회사와 컨설턴트는 계획 서비스 제공 중 하나에 등록할 수 있기 전에 준수 교육 요구 사항 및 역량 요구 사항을 모두 충족 해야 합니다.
+파트너 회사와 컨설턴트는 계획 서비스 제공 중 하나에 등록할 수 있기 전에 다음과 같이 역량 요구 사항을 충족 해야 합니다.
 
-- **규정 준수 교육 요구 사항.** 회사 수준에서 프로그램의 규정 준수 교육 요구 사항이 충족 되어야 합니다.
-- **역량 요구 사항.** 역량 요구 사항은 배달할 engagement에만 적용 됩니다. 예를 들어 회사는 DDPS (데스크톱 배포 계획 서비스) 제품에 등록 되어 있을 수 있습니다. 그러나 회사에서 해당 특정 engagement에 대 한 한정 역량을 보유 하는 경우에만 DDPS 제품 내에서 특정 참여를 제공할 수 있습니다.
+**역량 요구 사항.** 역량 요구 사항은 배달할 engagement에만 적용 됩니다. 예를 들어 회사는 DDPS (데스크톱 배포 계획 서비스) 제품에 등록 되어 있을 수 있습니다. 그러나 회사에서 해당 특정 engagement에 대 한 한정 역량을 보유 하는 경우에만 DDPS 제품 내에서 특정 참여를 제공할 수 있습니다.
 
 >[!NOTE]
 > 특정 계약에 대 한 자격 요구 사항에 대해 자세히 알아보려면 [서비스 계약 계획에 대 한 자격 요구 사항을 확인](software-assurance-dps-requirements.md)하세요.
@@ -53,8 +52,8 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 특정 계획 서비스 참여에 등록 하는 데 필요한 회사 자격을 확인 하려면 다음을 수행 합니다.
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
-2. 메뉴에서 **MPN** 을 선택 하 고 **프로그램**을 선택 합니다.
-3. **소프트웨어 보증 등록**을 선택 합니다.
+2. 메뉴에서 **MPN** 을 선택 하 고 **프로그램** 을 선택 합니다.
+3. **소프트웨어 보증 등록** 을 선택 합니다.
 4. 페이지 위쪽의 **계획 서비스 프로그램 등록** 탭을 선택 합니다. 이미 완료 한 요구 사항 또는 역량 옆에 녹색 확인 표시가 표시 됩니다.
 
 ## <a name="enroll-new-partners"></a>등록 (새 파트너)

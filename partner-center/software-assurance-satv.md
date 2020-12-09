@@ -1,7 +1,7 @@
 ---
 title: 소프트웨어 보증 교육 증명서 프로그램
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 기업 고객에 게 교육 및 계획을 제공 하기 위해 보정할 수 있도록 소프트웨어 보증 교육 증명서 프로그램에 등록 하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811203"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926614"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램
 
@@ -22,7 +22,7 @@ Software Assurance 파트너 프로그램에 등록하여 비즈니스를 확장
 
 승인된 Software Assurance 교육 파트너인 Microsoft는 기업 고객으로부터 Software Assurance 상품권을 받고 기업 고객에게 기술 교육을 제공하는 파트너에게 보상을 제공합니다. 이 프로그램에 참여하면 더 많은 고객을 유치하고 신뢰할 수 있는 학습 파트너가 될 수 있습니다.
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 소프트웨어 보증 교육 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 하세요. 이미 학습 증명서 프로그램에서 활성화 된 경우 아래 4 단계 (4)에서 시작 합니다. 
 
@@ -45,11 +45,11 @@ SATV 프로그램에 등록하려면 먼저 Microsoft Learning 역량을 대체�
 
 ## <a name="enroll-in-the-training-program"></a>교육 프로그램에 등록
 
-자격 요구 사항을 충족하고 프로그램 참가자가 규정 준수 교육 과정을 통과하면 Software Assurance 교육 상품권 프로그램에 서명하고 등록할 수 있습니다. 모든 [SATV 프로그램 정책을](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)검토 한 후 워크플로의 [2 단계](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 에 설명 된 지침에 따라 파트너 센터에서 SATV 등록 프로세스를 완료 합니다.
+회사에서 자격 요구 사항을 충족 하면 소프트웨어 보증 교육용 eula 프로그램 계약에 서명 하 고 등록할 준비가 완료 된 것입니다. 모든 [SATV 프로그램 정책을](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)검토 한 후 워크플로의 [2 단계](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 에 설명 된 지침에 따라 파트너 센터에서 SATV 등록 프로세스를 완료 합니다.
 
 
 ## <a name="confirm-course-eligibility"></a>교육 과정 적격성 확인
-SATV 프로그램에 등록된 파트너는 고객이 교육 상품권을 사용할 수 있도록 SATV 적격 교육 과정에 대한 교육 세션을 제공할 수 있습니다. 적격 과정은 [SATV 과정 자격 카탈로그](https://savl-catalog.microsoft.com/)에 나열 됩니다. 워크플로의 [3 단계](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 를 검토 하 여 SATV 적합 한 과정 유형을 파악 합니다.
+SATV 프로그램에 등록된 파트너는 고객이 교육 상품권을 사용할 수 있도록 SATV 적격 교육 과정에 대한 교육 세션을 제공할 수 있습니다. 적격 교육 과정은 SATV 교육 과정 적격성 카탈로그에 나와 있습니다. 워크플로의 [3 단계](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 를 검토 하 여 SATV 적합 한 강좌가 나 강좌 자격 카탈로그에 대 한 링크를 얻는 과정을 파악 합니다.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>고객에게 상품권 생성 및 할당 요청
 
