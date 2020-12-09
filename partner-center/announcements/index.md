@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570759"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869319"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "96570759"
 
 | **범주** | **2020년 12월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[.NET Standard(v1.16.3)의 SDK 릴리스](2020-december.md#4)|12월 8일|
+|제품/시장|[2020년 12월 라이선스 기반 가격 목록 릴리스 정보](2020-december.md#3)|12월 8일|
 |제품/시장|[통화 플랜이 포함된 미국 Microsoft 365 Business Voice 제품 업데이트가 곧 출시될 예정입니다.](2020-december.md#2)|12월 3일|
 |기능|[지금 라이브: 교육 고객 유효성 검사 프로세스에 대한 파트너 센터 API 업데이트 및 사용자 인터페이스 향상](2020-december.md#1)|12월 3일|
 | **범주** | **2020년 11월 공지** | **발표** |
