@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998382"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534746"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>소개: 파트너가 Azure 플랜을 통해 고객을 위한 종량제 요금으로 Azure 구매 가능
+
+**적절한 역할**
+
+- 관리 에이전트
+- 영업 상담원
+- 글로벌 관리자
 
 Microsoft는 파트너 센터에서 새로운 상거래 환경인 Azure 플랜을 도입했습니다.  이 새로운 상거래 환경을 통해 파트너는 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다.
 
@@ -30,14 +36,14 @@ Microsoft는 파트너 센터에서 새로운 상거래 환경인 Azure 플랜�
 >2020년 2월 1일부터 CSP 프로그램에서 기존 Microsoft 클라우드 계약이 제거됩니다. 이 시점부터 Microsoft 365, Dynamics 365 및 기존 Azure를 포함한 다른 모든 제품에 대한 새로운 Microsoft 고객 계약에 고객이 동의하는지 파트너의 확인(증명)이 필요합니다. CSP의 파트너는 Microsoft 고객 계약의 증명 없이는 고객에게 새로운 주문을 할 수 없습니다. 자세한 내용은 [Microsoft 고객 계약의 고객 동의 확인](confirm-customer-agreement.md)을 참조하세요.
 
 
-## <a name="learn-about-the-azure-plan"></a>Azure 플랜에 대한 자세한 정보
+## <a name="next-steps"></a>다음 단계
 
 |**수행할 작업**   |**이 글 읽기**   |
 |------------------|---------------------|
 |Azure 플랜으로 이동 시작|[Azure 플랜으로 이동 - 시작](azure-plan-get-started.md)
 |고객을 PAYG에서 Azure 플랜으로 전환|[고객을 Azure 플랜으로 전환](azure-plan-transition.md)|
 |고객을 위한 Azure 플랜 구매|[Azure 플랜 구매](purchase-azure-plan.md)|
-|연중무휴 클라우드 운영 관리를 제공하는 청구 파트너는 해당 작업의 **관리형 서비스에 대한 파트너 획득 크레딧**을 받을 수 있습니다.|[파트너 획득 크레딧 - 개요](partner-earned-credit.md) 및 [파트너의 획득 크레딧을 결정하는 방법 - 세부 정보](partner-earned-credit-explanation.md)|
+|연중무휴 클라우드 운영 관리를 제공하는 청구 파트너는 해당 작업의 **관리형 서비스에 대한 파트너 획득 크레딧** 을 받을 수 있습니다.|[파트너 획득 크레딧 - 개요](partner-earned-credit.md) 및 [파트너의 획득 크레딧을 결정하는 방법 - 세부 정보](partner-earned-credit-explanation.md)|
 |Azure 제품 유형에 대한 병렬 비교 참조|[Azure 제품 비교](compare-azure-offers.md)|
 |Azure 플랜에 따른 고객의 구독 및 리소스 관리|[Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)|
 |Azure 플랜 가격표를 참조하는 방법 알아보기   |[Azure 플랜 가격표 설명](azure-plan-price-list.md)|

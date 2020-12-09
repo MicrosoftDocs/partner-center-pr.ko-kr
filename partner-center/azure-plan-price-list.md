@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000327"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534729"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표
 
@@ -31,14 +31,14 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Azure 플랜 가격 책정이 적용되는 구독의 가격표 보기
 
-1. 왼쪽의 파트너 센터 메뉴에서 **판매**를 선택한 다음, **Marketplace**를 선택합니다.
+1. 왼쪽의 파트너 센터 메뉴에서 **판매** 를 선택한 다음, **Marketplace** 를 선택합니다.
 
 2. Azure 플랜 가격 책정에서 가격을 책정하려는 국가를 선택합니다.
 
-3. **내보내기 유형** 옆에서 **Azure 플랜 사용 가격**, **Azure 플랜 예약 가격 책정** 또는 **환율**을 선택합니다. 
+3. **내보내기 유형** 옆에서 **Azure 플랜 사용 가격**, **Azure 플랜 예약 가격 책정** 또는 **환율** 을 선택합니다. 
 
 >[!NOTE] 
->**환율**은 국가별로 다릅니다.
+>**환율** 은 국가별로 다릅니다.
 
 4. **날짜 가격 책정** 옆에서 원하는 날짜를 선택합니다(예: **현재**).
 
@@ -49,7 +49,7 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 
 ## <a name="azure-price-list-specifics"></a>Azure 가격표 세부 정보
 
-- Azure 플랜 가격 책정은 파트너 센터 Marketplace 페이지의 **판매**에 제공됩니다.
+- Azure 플랜 가격 책정은 파트너 센터 Marketplace 페이지의 **판매** 에 제공됩니다.
 
 - 내보내기는 Azure 플랜 사용 서비스, Azure Reservations 및 환율에 사용할 수 있습니다.
 
@@ -63,7 +63,7 @@ CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터�
 
 - 가격표의 가격은 직접 가격입니다. 일부 파트너는 파트너 획득 크레딧을 받을 수 있습니다. 파트너 획득 크레딧을 계산하는 방법에 대한 자세한 내용은 [파트너 획득 크레딧을 계산 및 지불하는 방법](partner-earned-credit-explanation.md)을 참조하세요.
 
-- **적격 서비스**: 파트너 획득 크레딧은 파트너가 [Azure 플랜 가격 책정](https://partner.microsoft.com/commerce/sales) 페이지에서 내보낼 수 있는 **Azure 플랜 사용량 가격 책정**에 나열된 서비스에 적용됩니다. 참고: Azure 플랜 사용량 가격표 및 Azure 플랜 예약의 태그 열에서 "타사"로 식별된 타사 제품을 포함하지만 이에 국한되지 않는 예외가 있습니다.
+- **적격 서비스**: 파트너 획득 크레딧은 파트너가 [Azure 플랜 가격 책정](https://partner.microsoft.com/commerce/sales) 페이지에서 내보낼 수 있는 **Azure 플랜 사용량 가격 책정** 에 나열된 서비스에 적용됩니다. 참고: Azure 플랜 사용량 가격표 및 Azure 플랜 예약의 태그 열에서 "타사"로 식별된 타사 제품을 포함하지만 이에 국한되지 않는 예외가 있습니다.
 
 ## <a name="price-list-data"></a>가격표 데이터
 
@@ -114,3 +114,7 @@ Azure 플랜 가격표는 파트너 센터의 [가격 책정 및 제품 페이�
 > 가격 책정 API는 Azure 플랜 가격 책정에만 적용됩니다. Azure 플랜 이외의 구독에 배포된 Azure 리소스 또는 예약의 경우 파트너 센터의 "가격 책정 및 제품" 페이지에 게시된 기존 RateCard API 및 가격표를 계속 사용해야 합니다. Azure 플랜 가격 책정 API는 Microsoft 365 또는 Dynamics 365와 같은 소프트웨어, 마켓플레이스 또는 라이선스 기반 가격 책정을 지원하지 않습니다.
 
 Azure 플랜 가격 책정 및 환율 API에 대한 자세한 내용은 전체 [가격 책정 API 설명서](/partner/develop/pricing)를 참조하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)
