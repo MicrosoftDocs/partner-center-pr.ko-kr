@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 획득 크레딧(PEC)이 어떻게 간소화되고 균일한 Azure 가격을 제공하고 부가 가치 관리형 서비스를 제공하며 마진 경쟁을 없애는 데 도움을 주는지 알아봅니다.
+description: PEC(파트너 획득 크레딧)가 어떻게 간소화되고 균일한 Azure 가격을 제공하고 부가 가치 관리형 서비스를 제공하며 마진 경쟁을 없애는 데 도움을 주는지 알아봅니다.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220511"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556398"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>파트너 획득 크레딧 - CSP의 새로운 상거래 경험에서 어떻게 작동하는지에 대한 개요
 
@@ -32,7 +32,7 @@ CSP의 새로운 상거래 환경에서 제공하는 파트너 획득 크레딧�
 
 고객의 디지털 전환 요구 사항 때문에 파트너가 제공하는 가치의 성질이 변하고 있습니다. 많은 고객이 거래 이상의 서비스를 제공하기 위해 파트너를 찾습니다. 이러한 서비스는 클라우드 여정을 원활하게 하고 Azure 서비스를 효율적으로 이용하도록 도와줍니다. 이러한 서비스는 현재 진행 중이며 Azure 자산 모니터링, 정책 및 거버넌스 관리, 설정 및 구성 미세 조정, 기술 지원, 기타 다양한 서비스를 포함하고 있습니다. 
 
-이러한 서비스를 사용하려면 파트너는 고객의 Azure 환경에 대해 잘 알고 있어야 하며, 관리하는 기본 리소스의 지속적이고 적절한 거버넌스 및 제어가 필요합니다. 이러한 연중무휴 클라우드 운영 관리 작업을 수행하는 청구 파트너는 파트너에 의해 통제 및 제어되는 고객의 Azure 자산과 관련하여 **관리형 서비스에 대한 파트너 획득 크레딧**을 받을 수 있습니다.
+이러한 서비스를 사용하려면 파트너는 고객의 Azure 환경에 대해 잘 알고 있어야 하며, 관리하는 기본 리소스의 지속적이고 적절한 거버넌스 및 제어가 필요합니다. 이러한 연중무휴 클라우드 운영 관리 작업을 수행하는 청구 파트너는 파트너에 의해 통제 및 제어되는 고객의 Azure 자산과 관련하여 **관리형 서비스에 대한 파트너 획득 크레딧** 을 받을 수 있습니다.
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>파트너 및 고객에 대한 파트너 획득 크레딧의 혜택

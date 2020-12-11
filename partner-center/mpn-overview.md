@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 시장에 진출하여 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 및 프로그램 옵션을 포함한 MPN(Microsoft 파트너 네트워크) 혜택에 대해 알아보세요.
+description: 시장에 진출하여 솔루션을 판매하기 위해 Microsoft Action Pack, 역량 또는 프로그램 옵션 같은 MPN(Microsoft 파트너 네트워크) 혜택에 대해 알아보세요.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197989"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556381"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft와 파트너 관계를 맺고 멤버십 혜택 알아보기
 
@@ -31,7 +31,7 @@ Microsoft 파트너 프로그램에 가입하면 고객에게 만족감을 주�
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft 파트너 네트워크 가입
 
-Microsoft 파트너 네트워크에 가입하려면 MPN 웹 사이트에서 [**멤버십** 페이지](https://partner.microsoft.com/membership)로 이동하고 **등록** 또는 **지금 참가**를 선택합니다.
+Microsoft 파트너 네트워크에 가입하려면 MPN 웹 사이트에서 [**멤버십** 페이지](https://partner.microsoft.com/membership)로 이동하고 **등록** 또는 **지금 참가** 를 선택합니다.
 
 ## <a name="action-pack"></a>Action Pack
 

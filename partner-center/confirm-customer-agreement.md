@@ -1,6 +1,6 @@
 ---
 title: Microsoft 고객 계약에 대한 고객의 동의 확인
-description: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법을 알아봅니다. CSP(클라우드 솔루션 공급자) 프로그램 참가자는 고객을 위해 Microsoft 제품 및 서비스를 주문하기 위해 이를 수행해야 합니다.
+description: CSP(클라우드 솔루션 공급자) 파트너는 고객을 위해 Microsoft 서비스를 주문하기 전에 Microsoft 고객 계약에 대한 고객의 동의를 확인해야 합니다.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198059"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570572"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
 
@@ -28,7 +28,7 @@ ms.locfileid: "92198059"
 - 관리 에이전트
 - 영업 상담원
 
-2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약**을 CSP 프로그램에 도입했습니다. 간접 재판매인에 대한 추가 [지침](indirect-reseller-tasks-in-partner-center.md)을 참조하세요. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 두 계약은 2020년 1월 31일까지 CSP 프로그램에서 모두 지원되었습니다. 2020년 2월 1일부터 Microsoft Cloud 계약이 Microsoft 고객 계약으로 바뀌었습니다.
+2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약** 을 CSP 프로그램에 도입했습니다. 간접 재판매인에 대한 추가 [지침](indirect-reseller-tasks-in-partner-center.md)을 참조하세요. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 두 계약은 2020년 1월 31일까지 CSP 프로그램에서 모두 지원되었습니다. 2020년 2월 1일부터 Microsoft Cloud 계약이 Microsoft 고객 계약으로 바뀌었습니다.
 
 고객은 Microsoft 고객 계약에 동의하는 두 가지 옵션을 사용할 수 있습니다. 
 
@@ -48,17 +48,17 @@ ms.locfileid: "92198059"
 
 파트너 센터에서 새 고객 테넌트를 만들 때 다음 단계를 따라 고객이 Microsoft 고객 계약에 동의하는지 확인합니다. 이러한 단계는 관리 담당자 또는 판매 담당자가 수행해야 합니다.
 
-1. **고객**을 선택한 다음, **신규 고객**을 선택합니다.
+1. **고객** 을 선택한 다음, **신규 고객** 을 선택합니다.
 
-2. **계정 정보**에서 회사 및 기본 연락처의 정보를 입력합니다.
+2. **계정 정보** 에서 회사 및 기본 연락처의 정보를 입력합니다.
 
 3. **Microsoft 계약** 아래에서 고객이 Microsoft 고객 계약에 동의했음을 증명하기 위한 확인란을 선택합니다.
 
-4. **계약 동의 날짜**에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
+4. **계약 동의 날짜** 에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
 
-5. 표시된 기본 사용자 연락처 정보가 올바른지 확인합니다. 잘못된 경우 **업데이트**를 선택하고 계약에 동의한 사람의 정확한 정보를 입력합니다.
+5. 표시된 기본 사용자 연락처 정보가 올바른지 확인합니다. 잘못된 경우 **업데이트** 를 선택하고 계약에 동의한 사람의 정확한 정보를 입력합니다.
 
-6. 고객 테넌트를 계속 생성하려면 **다음**을 선택합니다.
+6. 고객 테넌트를 계속 생성하려면 **다음** 을 선택합니다.
 
    :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="새 고객":::  
 
@@ -66,27 +66,27 @@ ms.locfileid: "92198059"
 
 이 작업을 수행하려면 관리 담당자 또는 판매 담당자여야 합니다.
 
-1. **고객**을 선택합니다. 고객을 찾아 선택합니다.
+1. **고객** 을 선택합니다. 고객을 찾아 선택합니다.
 
-2. **계정 정보**를 선택합니다.
+2. **계정 정보** 를 선택합니다.
 
-3. **Microsoft 고객 계약**에서 **업데이트**를 선택합니다.
+3. **Microsoft 고객 계약** 에서 **업데이트** 를 선택합니다.
 
-4. 계약에 동의한 사람의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다. **계약 동의 날짜**에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
+4. 계약에 동의한 사람의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다. **계약 동의 날짜** 에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
 
-5. **저장**을 선택하고 계속합니다.
+5. **저장** 을 선택하고 계속합니다.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="새 고객":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="기존 고객":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>고객 동의 여부 확인 검색
 
 다음 단계를 따라 기존 고객이 Microsoft 고객 계약에 동의했다는 확인을 검색할 수 있습니다. 관리 담당자 또는 판매 담당자만 이러한 확인이 가능합니다.
 
-1. **고객**을 선택한 다음, 확인하려는 고객을 찾아서 선택합니다.
+1. **고객** 을 선택한 다음, 확인하려는 고객을 찾아서 선택합니다.
 
-2. **계정 정보**를 선택합니다.
+2. **계정 정보** 를 선택합니다.
 
-3. **Microsoft 고객 계약**에서 이 고객이 확인을 제공했는지 여부를 확인합니다.
+3. **Microsoft 고객 계약** 에서 이 고객이 확인을 제공했는지 여부를 확인합니다.
 
 ## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>파트너 센터 API/SDK를 사용하여 고객의 동의 확인
 
@@ -117,18 +117,18 @@ ms.locfileid: "92198059"
 
 다음 단계에 따라 파트너 센터에서 새 고객을 만든 다음, Microsoft 365 관리 센터 내에서 Microsoft 고객 계약을 검토하고 동의하도록 초대합니다.
 
-1. 파트너 센터의 **고객** 탭에서 **고객 추가**를 선택합니다.
+1. 파트너 센터의 **고객** 탭에서 **고객 추가** 를 선택합니다.
 
 2. **계정 정보** 아래의 모든 필수 필드에서 고객의 회사 이름 및 기본 연락처를 포함하여 새 고객에 대한 정보를 입력합니다.
 
 3. **고객 계약** 아래에서 첫 번째 옵션인 **Microsoft 365 관리 센터에서 Microsoft 고객 계약에 동의하라는 메시지가 고객에게 표시됩니다.** 를 선택합니다. 페이지에서 다른 필수 필드를 모두 완성합니다.
 
-4. **다음: 검토**를 선택한 다음, 고객 테넌트를 만드는 단계를 계속 진행합니다. 
+4. **다음: 검토** 를 선택한 다음, 고객 테넌트를 만드는 단계를 계속 진행합니다. 
 
 >[!NOTE] 
 >새 고객은 Microsoft 고객 계약에 동의할 때까지 새로 구매할 수 없습니다.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="새 고객":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="새 고객 만들기":::
 
 5. 새 고객 워크플로에서 **확인** 화면에 도달하면 고객 자격 증명을 저장합니다. 이러한 자격 증명은 나중에 고객에게 제공해야 합니다.
 
@@ -152,21 +152,21 @@ ms.locfileid: "92198059"
 
 2. 고객을 Microsoft 365 관리 센터로 안내하는 텍스트와 매개 변수화된 URL이 포함된 자동 이메일 템플릿이 생성됩니다.
 
-3. 자동으로 생성된 이메일 템플릿을 사용자 지정한 다음, **클립보드에 복사** 또는 **이메일에서 열기**를 선택할 수 있습니다.
+3. 자동으로 생성된 이메일 템플릿을 사용자 지정한 다음, **클립보드에 복사** 또는 **이메일에서 열기** 를 선택할 수 있습니다.
 
-4. 이 이메일 템플릿을 사용하여 **재판매인 관계** 요청과 **Microsoft 고객 계약**에 동의하도록 고객을 초대합니다. (참고: 파트너는 자동으로 제공된 URL과 최근에 만든 고객 자격 증명도 이메일 초대에 포함해야 합니다.)
+4. 이 이메일 템플릿을 사용하여 **재판매인 관계** 요청과 **Microsoft 고객 계약** 에 동의하도록 고객을 초대합니다. (참고: 파트너는 자동으로 제공된 URL과 최근에 만든 고객 자격 증명도 이메일 초대에 포함해야 합니다.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="새 고객":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="관계 만들기":::
 
 5. 고객이 이메일을 통해 초대를 받고, 매개 변수화된 URL을 클릭합니다. 
 
 6. 고객이 파트너로부터 이메일 내에 제공된 자격 증명을 사용하여 Microsoft 365 관리 센터에 로그인합니다.
 
-7. 고객이 **재판매인 관계** 및 **Microsoft 고객 계약**에 동의하기 위한 확인란을 선택합니다. 
+7. 고객이 **재판매인 관계** 및 **Microsoft 고객 계약** 에 동의하기 위한 확인란을 선택합니다. 
 
 8. 고객은 동일한 URL 내에서 작업 중인 여러 파트너에 대한 통합 목록을 볼 수 있습니다. 파트너를 선택하여 세부 정보를 확인할 수 있습니다.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="새 고객":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="계약 동의":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>계약을 검토하고 동의하도록 기존 고객 초대
@@ -183,7 +183,7 @@ ms.locfileid: "92198059"
 
 5. 고객은 동일한 URL 내에서 작업 중인 여러 파트너에 대한 통합 목록을 볼 수 있습니다. 파트너를 선택하여 세부 정보를 확인할 수 있습니다.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="새 고객":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="고객":::
 
 >[!NOTE]
 >특정 시나리오에서는 고객이 Microsoft 고객 계약에 직접 동의하지 않을 수 있습니다. 이러한 상황에 대한 자세한 내용은 [고객을 대신하여 증명해야 하는 두 가지 시나리오](attest-acceptance-customer-agreement.md)를 참조하세요.

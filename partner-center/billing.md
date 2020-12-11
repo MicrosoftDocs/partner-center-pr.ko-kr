@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000157"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570640"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>개요: 파트너 센터의 주요 청구 및 세금 문서
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000157"
 - 청구 관리자
 - 글로벌 관리자
 - 영업 상담원
+
+이 문서에서는 청구 리소스, 청구서, CSP 청구 및 세금을 포함하여 파트너 센터의 청구 및 세금 항목에 대한 링크를 제공합니다.
+
 
 | 항목 | 설명 |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000157"
 | [중단에 대한 SLA 크레딧 요청](request-credit.md) | 서비스 중단이 발생한 경우 고객에 대한 SLA 크레딧을 Microsoft에 요청하는 방법입니다. |
 
 파트너 센터 API 청구 정보 및 리소스를 찾으려는 경우 [개발자 청구 설명서](/partner-center/develop/manage-billing)를 참조하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [상업용 마켓플레이스에서 지급 받기](marketplace-get-paid.md)

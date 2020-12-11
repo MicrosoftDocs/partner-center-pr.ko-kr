@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000337"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534814"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>기존 CSP Azure 제품에서 Azure 플랜으로 고객 전환
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000337"
 - 영업 상담원
 - 사용자 관리 담당자
 
-간접 공급자와 직접 청구 파트너는 Azure용 CSP(클라우드 서비스 공급자) 프로그램에서 사용할 수 있는 새로운 상거래 환경으로 전환할 수 있습니다. (직접 재판매인은 간접 공급자를 통해 작업해야 합니다.) 고객은 파트너 또는 Microsoft 판매자에게 구입하든 아니면 웹에서 직접 구입하든, 간편하게 클라우드 서비스를 구입할 수 있습니다.
+이 문서에서는 CSP 파트너가 파트너 센터를 통해 기존 CSP Azure 제품의 고객을 Azure 플랜이 적용되는 Azure 서비스로 이동하는 방법을 설명합니다. 간접 공급자와 직접 청구 파트너는 Azure용 CSP(클라우드 서비스 공급자) 프로그램에서 사용할 수 있는 새로운 상거래 환경으로 전환할 수 있습니다. (직접 재판매인은 간접 공급자를 통해 작업해야 합니다.) 고객은 파트너 또는 Microsoft 판매자에게 구입하든 아니면 웹에서 직접 구입하든, 간편하게 클라우드 서비스를 구입할 수 있습니다.
 
-전환 기능은 Azure의 새로운 상거래 환경으로 전환하는 고객과 Microsoft 고객 계약에 서명한 고객을 위한 것이며, Office 365 또는 Dynamics 365와 같은 CSP의 다른 제품을 위한 것이 아닙니다.
+전환 기능은 Azure의 새로운 상거래 환경으로 전환하는 고객과 Microsoft 고객 계약에 서명한 고객만 사용할 수 있습니다. Office 365 또는 Dynamics 365와 같은 CSP의 다른 제품에는 이 기능이 제공되지 않습니다.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>기존 CSP 제품을 Azure 플랜으로 전환
 
@@ -39,11 +39,11 @@ ms.locfileid: "91000337"
 
 1. 고객에게 Azure 플랜을 선택합니다.
 
-2. **청구를 Azure 플랜으로 전환**을 선택합니다.
+2. **청구를 Azure 플랜으로 전환** 을 선택합니다.
 
    :::image type="content" source="images/azure/transition1.png" alt-text="사용량 기반 구독 정보를 보여주는 스크린샷으로 다음과 같은 선택 가능한 옵션으로 표시됩니다. Azure 구독 청구를 Azure 플랜으로 전환":::
 
-3. **계속**을 선택합니다.
+3. **계속** 을 선택합니다.
 
    :::image type="content" source="images/azure/transition2.png" alt-text="Azure 플랜으로 전환이라는 대화 상자에는 전환에 대한 의미와 선택할 수 있는 두 가지 옵션(계속 또는 취소)이 포함되어 있습니다.":::
 

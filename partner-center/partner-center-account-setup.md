@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 11/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 파트너 센터에서 회사 프로필, 은행 및 세금 정보 등을 관리할 수 있는 위치에 대해 알아봅니다.
+description: 파트너 센터에서 회사의 프로필, 은행 및 세금 정보, 역할, 권한 등을 관리하는 방법을 알아봅니다.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439001"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556449"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 

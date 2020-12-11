@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333832"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534797"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>회사를 파트너 센터 계정에 연결하는 회사 계정 만들기
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -71,3 +67,8 @@ Azure 구독을 구입한다는 것은 근본적으로 Azure 퍼블릭 클라우
 어떤 회사에서 Azure, Microsoft Intune, Office 365 등의 Microsoft 클라우드 서비스를 구독하면 Azure 퍼블릭 클라우드에 그 회사만을 위한 격리된 전용 가상 공간이 생성되는데, 이것이 바로 Azure 회사 계정입니다.
 
 회사 계정은 Azure AD 사용자 및 사용자에 대한 정보(암호, 프로필 데이터, 권한 등)를 호스팅합니다. 또한 회사 계정에는 그룹, 애플리케이션, 회사 및 보안에 관련된 기타 정보가 포함되어 있습니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터 계정 관리](partner-center-account-setup.md)
+- [확인 상태 추적](verification-responses.md)

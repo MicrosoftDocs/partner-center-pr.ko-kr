@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000607"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534933"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 
-고객을 Azure 플랜으로 전환하면 기본적으로 Azure에서 권한 있는 관리자 권한(대신 관리를 통한 구독 소유자 권한)이 할당됩니다.
+**적절한 역할**
+
+- 관리 에이전트
+
+
+이 문서에서는 CSP 파트너가 다양한 RBAC(역할 기반 액세스 제어) 옵션을 사용하여 고객의 Azure 리소스를 운영 제어하고 관리하는 방법을 설명합니다. 고객을 Azure 플랜으로 전환하면 기본적으로 Azure에서 권한 있는 관리자 권한(대신 관리를 통한 구독 소유자 권한)이 할당됩니다.
 
  > [!NOTE]
  > Azure 구독에 대한 관리자 권한은 고객이 구독, 리소스 그룹 또는 워크로드 수준에서 제거할 수 있습니다. 
@@ -29,7 +34,7 @@ ms.locfileid: "91000607"
 
 - **Azure Lighthouse**: AOBO는 여러 고객을 대상으로 작동하는 별도의 그룹을 만들거나 그룹 또는 사용자에 대해 여러 역할을 사용할 수 있는 유연성을 허용하지 않습니다. Azure Lighthouse를 사용하면 여러 그룹을 여러 고객 또는 역할에 할당할 수 있습니다. 사용자는 Azure 위임된 리소스 관리를 통해 적절한 수준의 액세스 권한을 갖게 되므로 관리 에이전트 역할이 있는(따라서 전체 AOBO 액세스 권한을 갖는) 사용자 수를 줄일 수 있습니다. 이렇게 하면 고객 리소스에 대한 불필요한 액세스를 제한하여 보안을 향상할 수 있습니다. 또한 유연성이 향상되어 여러 고객을 대규모로 관리할 수 있습니다. 자세한 내용은 [Azure Lighthouse 및 클라우드 솔루션 공급자 프로그램](/azure/lighthouse/concepts/cloud-solution-provider)을 참조하세요.
 
--  **디렉터리 또는 게스트 사용자 또는 [서비스 사용자](/azure/active-directory/develop/app-objects-and-service-principals)** : 고객 디렉터리에 사용자를 추가하거나 게스트 사용자를 추가하고 특정 RBAC 역할을 할당하여 CSP 구독에 대한 세밀한 액세스 권한을 위임할 수 있습니다.
+- **디렉터리 또는 게스트 사용자 또는 [서비스 사용자](/azure/active-directory/develop/app-objects-and-service-principals)** : 고객 디렉터리에 사용자를 추가하거나 게스트 사용자를 추가하고 특정 RBAC 역할을 할당하여 CSP 구독에 대한 세밀한 액세스 권한을 위임할 수 있습니다.
 
 보안을 위해 사용자에게 작업 수행에 필요한 최소한의 권한만 부여하는 것이 좋습니다. [Azure Active Directory 권한 있는 ID 관리 리소스](/azure/active-directory/privileged-identity-management/pim-configure)를 참조하세요.
 
@@ -64,7 +69,7 @@ ms.locfileid: "91000607"
 
 ### <a name="aobo-removal"></a>AOBO 제거
 
-고객은 Azure Portal에서 **액세스 제어**로 이동하여 구독에 대한 액세스를 관리할 수 있습니다. 고객이 **역할 할당** 탭에서 **액세스 제거**를 선택합니다. 이 경우 다음과 같은 조치를 취할 수 있습니다.
+고객은 Azure Portal에서 **액세스 제어** 로 이동하여 구독에 대한 액세스를 관리할 수 있습니다. 고객이 **역할 할당** 탭에서 **액세스 제거** 를 선택합니다. 이 경우 다음과 같은 조치를 취할 수 있습니다.
 
 - 고객에게 연락하여 관리자 액세스를 복구할 수 있는지 확인합니다.
 
