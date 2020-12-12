@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175084"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153148"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -31,11 +31,13 @@ ms.locfileid: "92175084"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>고객 서비스 요청을 제출합니다.
 
-1. **파트너 센터** 메뉴에서 **서비스 요청**과 **고객 요청**을 차례로 선택합니다. 
+1. CSP의 파트너 센터 메뉴에서 **고객** 을 선택 합니다.
 
-2. 고객 요청 페이지에서 원하는 고객을 검색합니다.
+2. 고객 페이지에서 원하는 고객을 선택 하거나 검색 합니다.
+    
+3. 고객 메뉴에서 **서비스 요청** 을 선택 합니다.
 
-3. **새 요청** 드롭다운 메뉴에서 **Azure** 또는 **Office 365, Dynamics 365, Enterprise Mobility Suite**를 선택합니다. Microsoft Azure portal 또는 Office 365 관리 센터로 리디렉션됩니다.
+4. **새 요청** 드롭다운 메뉴에서 **Azure** 또는 **Office 365, Dynamics 365, Enterprise Mobility Suite** 를 선택합니다. Microsoft Azure portal 또는 Office 365 관리 센터로 리디렉션됩니다.
 
 >[!NOTE]
 >ASfP (Advanced Support for Partner) 요금제 이상에 대 한 지원 계약을 유지 하려면 CSP의 거래 Dynamics 365 운영 파트너가 지원 되어야 합니다. 이 지원 계약은 CSP 고객을 대신 하 여 Dynamics 365 인시던트를 제출 하는 데 필요 합니다. 지원 계약 옵션에 [대해 자세히 알아보세요](https://partner.microsoft.com/support/partnersupport) .
@@ -49,15 +51,15 @@ ms.locfileid: "92175084"
 >
 >- 파트너 센터의 기술 지원팀 관리자는 Azure 서비스 포털에서 서비스 요청을 만들 수는 없지만, Azure 서비스 포털에서 지원 그룹을 만들고 해당 그룹에 지원 요청을 기록하는 권한을 부여할 수 있습니다.
 
-1. **새 지원 요청**을 선택합니다.
+1. **새 지원 요청** 을 선택합니다.
 
-2. 적절 한 정보를 사용 하 여 지원 요청을 작성 한 다음, **만들기**를 선택 합니다.
+2. 적절 한 정보를 사용 하 여 지원 요청을 작성 한 다음, **만들기** 를 선택 합니다.
 
    - 지원 요청의 **기본 사항** 섹션에서 **지원 계획** 필드의 **클라우드 솔루션 공급자** 를 선택 해야 합니다.
 
    - 지원 요청의 **연락처** 정보 섹션에서 고객의 정보가 아닌 정보를 입력 합니다.
 
-3. 나중에 **관리 지원 요청**을 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토하세요.
+3. 나중에 **관리 지원 요청** 을 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토하세요.
 
 해당 고객에 대 한 관리자 권한이 없는 경우 고객에 대 한 지원 요청을 만들어야 할 수 있습니다. 이는 다음과 같은 두 시나리오 중 하나에 해당할 수 있습니다.
 
@@ -72,19 +74,19 @@ ms.locfileid: "92175084"
 
 3. 지원이 필요한 Azure 구독을 선택합니다.
 
-4. **새 지원 요청**을 선택하고 표시되는 메시지에 따라 요청을 만듭니다. 
+4. **새 지원 요청** 을 선택하고 표시되는 메시지에 따라 요청을 만듭니다. 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. **서비스 요청 만들기** 섹션에서 적절 한 지원 범주를 선택 합니다. 추가 문서를 보려면 **자세히** ...를 선택 해야 할 수도 있습니다.
 
-2. 서비스 요청 양식을 작성 하 고 **제출**을 선택 합니다.
+2. 서비스 요청 양식을 작성 하 고 **제출** 을 선택 합니다.
 
    > [!TIP]
    > 고객의 연락처 정보가 아니라 귀하의 연락처 정보를 포함해야 합니다.
 
-3. 나중에 Office 365 관리 센터로 이동 하 고 **모든 지원 티켓 보기**를 선택 하 여 고객의 서비스 요청을 검토 합니다.
+3. 나중에 Office 365 관리 센터로 이동 하 고 **모든 지원 티켓 보기** 를 선택 하 여 고객의 서비스 요청을 검토 합니다.
 
 ### <a name="support-for-commercial-marketplace-products"></a>상업용 마켓플레이스 제품에 대한 지원
 
@@ -116,7 +118,7 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 초기 응답 시간은 제출 된 인시던트의 심각도에 따라 달라 집니다. 문제의 심각도는 서비스 요청을 제출할 때 비즈니스에 미치는 영향에 따라 결정 됩니다.
 
-**기술 중단-수정 인시던트에**대 한 초기 응답 시간:
+**기술 중단-수정 인시던트에** 대 한 초기 응답 시간:
 
 - 심각한 영향 (심각도 A): 2 시간 (심각한 손실 또는 서비스 저하) 프로덕션 서비스의 작동이 중단 되었습니다.)
 - 보통 영향 (심각도 B): 4 시간 (보통 수준의 손실 또는 서비스 저하)입니다. 프로덕션 서비스가 부분적으로 영향을 받습니다.)
