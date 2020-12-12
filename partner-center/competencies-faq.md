@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570487"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354460"
 ---
 # <a name="competencies---frequently-asked-questions"></a>역량-질문과 대답
 
-적용 대상:
+**적절한 역할**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
-- Microsoft 파트너 네트워크 (MPN) 프로그램의 파트너
+- MPN 파트너 관리자
 
 이 문서에서는 Microsoft 파트너 네트워크 역량을 실현 하는 것과 관련 된 시험, 인증 및 소프트웨어 혜택에 대 한 일반적인 질문에 답변 합니다.
 

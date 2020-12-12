@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570453"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354630"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>채널 성과급 플랫폼 (칩)에 대 한 솔루션 평가 성과급 FAQ 
+
+**적절한 역할**
+
+- 기본 연락처 또는 프로그램 관리자
 
 아래에서 자주 묻는 질문에 대 한 답변을 찾습니다.
 
@@ -37,7 +41,7 @@ FY20의 솔루션 평가 동기 프로그램에서 활성 및 등록 상태가 �
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>내 거래 상태가 칩에서 승인 되었습니다. 아직 지불 되지 않은 이유는 무엇 인가요?
 
-거래 상태 외에도 POE 상태를 칩에서 승인 해야 결제를 위해 기회를 제출할 수 있습니다. 칩에서 POE 유효성 검사 팀이 POE을 업로드 하 고 승인 했는지 확인 하려면 칩의 기회를 검토 하세요. POE 상태를 보려면 칩에 로그인 하 고 **필요한** 경우 **Search Deals** ... 있습니다. **기회 ID** 를 입력 하 고 **검색** 을 선택 합니다. 검색 결과에서 POE 아래의 ' 편집 ' 하이퍼링크를 선택 합니다. 결과 페이지에서 ' Review ' 섹션으로 스크롤하여 POE 상태를 확인 합니다. POE 팀이 POE에 대 한 추가 정보를 요청한 경우에도 ' Comments ' 필드를 검토 합니다.
+거래 상태 외에도 POE 상태를 칩에서 승인 해야 결제를 위해 기회를 제출할 수 있습니다. 칩에서 POE 유효성 검사 팀이 POE을 업로드 하 고 승인 했는지 확인 하려면 칩의 기회를 검토 하세요. POE 상태를 보려면 칩에 로그인 하 고 **필요한** 경우  ... 있습니다. **기회 ID** 를 입력 하 고 **검색** 을 선택 합니다. 검색 결과에서 POE 아래의 ' 편집 ' 하이퍼링크를 선택 합니다. 결과 페이지에서 ' Review ' 섹션으로 스크롤하여 POE 상태를 확인 합니다. POE 팀이 POE에 대 한 추가 정보를 요청한 경우에도 ' Comments ' 필드를 검토 합니다.
 
 ## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>제 기회에 대해 마일스 톤 1에 대 한 지불을 받지 못한 이유는 무엇 인가요?
 

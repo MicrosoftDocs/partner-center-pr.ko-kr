@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133085"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354511"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>공동 마케팅 자금 획득
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -68,7 +64,7 @@ Microsoft는 분할 비율을 사용 하 여 적격 동기 수익을 계산 합�
 
 다음 리소스는 공동 작업 클레임을 사용 하 여 작업을 시작 하는 데 도움이 됩니다.
 
-| 수행할 작업 | 참조 문서 |
+| 원하는 작업 | 참조 문서 |
 | ------ | ----------- |
 | 클레임 제출 |  [성과급 프로그램 공동 op 클레임 만들기 및 관리](create-incentives-claims.md)  |
 | 제출 된 클레임 관리 | [성과급 프로그램 공동 op 클레임 만들기 및 관리](create-incentives-claims.md)    |

@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 032ad30c17136dcf102af9134153a3921e29c38a
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570555"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354443"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>계약에 대한 데스크톱 수 및 요금 수준 찾기
+
+**적절한 역할**
+
+- 기본 연락처 또는 프로그램 관리자
 
 데스크톱 수와 요금 수준에 대 한 계약 정보를 제공 하는 파일인 Excel로 다운로드할 수 있습니다.
 

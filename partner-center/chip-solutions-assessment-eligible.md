@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447241"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354477"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>솔루션 평가 성과급 프로그램에 대 한 자격 요구 사항
+
+**적절한 역할**
+
+- 기본 연락처 또는 프로그램 관리자
 
 FY20의 솔루션 평가 동기 프로그램에서 활성 및 등록 상태가 있는 파트너는 활성 MPN 멤버 자격과 활성 실버 또는 골드 MPN 역량을 보유 하 고 있는 경우 FY21의 성과급을 계속 사용할 수 있습니다. 파트너 자격은 매년 자격을 위해 검토 됩니다. 설정 된 파트너가 현재 연도에서 자격 및 참여 요구 사항을 달성 하지 않으면 다음 연간 검토에서 제거 됩니다. 모든 새 파트너는 해당 지역의 SAS (로컬 솔루션 평가 전문가)를 통해 등록 됩니다. SAS는 파트너 회사의 기술 및 전문 지식과 SAS에서 지 원하는 자회사의 비즈니스 요구 사항에 따라 등록 될 파트너를 식별 합니다.
 
