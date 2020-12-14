@@ -2,7 +2,7 @@
   href: index.yml
 - name: 공지 사항
   href: announcements/TOC.md
-- name: 파트너 센터 정보
+- name: 파트너 센터란?
   href: overview.md
 - name: 파트너 네트워크 멤버십
   items:
