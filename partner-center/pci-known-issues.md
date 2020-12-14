@@ -9,21 +9,49 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
+ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175252"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "97389308"
 ---
-# <a name="known-issues-with-partner-center-insights"></a><span data-ttu-id="076c3-104">파트너 센터 정보에 대 한 알려진 문제</span><span class="sxs-lookup"><span data-stu-id="076c3-104">Known issues with Partner Center Insights</span></span>
+# <a name="partner-insights--frequently-asked-questions"></a><span data-ttu-id="18e09-104">파트너 통찰력 – 질문과 대답</span><span class="sxs-lookup"><span data-stu-id="18e09-104">Partner Insights – Frequently Asked Questions</span></span>
 
-<span data-ttu-id="076c3-105">이는 정보를 보고 하는 것과 관련 된 보고서를 보거나 렌더링 하는 알려진 문제와 관련이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="076c3-105">This relates to any known issues viewing or rendering reports associated with Insights.</span></span>
+<span data-ttu-id="18e09-105">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="18e09-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="18e09-106">보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="18e09-106">Report viewer</span></span>
+- <span data-ttu-id="18e09-107">임원 보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="18e09-107">Executive report viewer</span></span>
 
-- <span data-ttu-id="076c3-106">CSP 전용 테 넌 트에 대해 Insights 보고서를 사용 하도록 설정 하는 방법이 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="076c3-106">There is no supported way to enable the Insights reports for CSP-only tenants.</span></span> <span data-ttu-id="076c3-107">MPN 프로그램에 대 한 액세스 권한이 있는 테 넌 트는 이러한 보고서에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="076c3-107">Only tenants with access to the MPN program can access these reports.</span></span>
-- <span data-ttu-id="076c3-108">이 보고서에는 Internet Explorer의 렌더링 문제가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="076c3-108">The reports have rendering issues with Internet Explorer.</span></span> <span data-ttu-id="076c3-109">Microsoft Edge 및 기타 브라우저에서 잘 작동 합니다.</span><span class="sxs-lookup"><span data-stu-id="076c3-109">They work well with Microsoft Edge and other browsers.</span></span>
-- <span data-ttu-id="076c3-110">업스트림 데이터 문제로 인해 클라우드 비즈니스 응용 프로그램 역량에 대 한 성능 데이터가 완전 하지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="076c3-110">The performance data for Cloud Business Application competency is incomplete due to an upstream data issue.</span></span>
+<span data-ttu-id="18e09-108">이는 정보를 보고 하는 것과 관련 된 보고서를 보거나 렌더링 하는 알려진 문제와 관련이 있습니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-108">This relates to any known issues viewing or rendering reports associated with Insights.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="076c3-111">다음 단계</span><span class="sxs-lookup"><span data-stu-id="076c3-111">Next steps</span></span>
+<span data-ttu-id="18e09-109">Q) **파트너 센터 계정에 Insights 허브가 표시 되지 않습니다. 어떻게 해야 하나요?**</span><span class="sxs-lookup"><span data-stu-id="18e09-109">Q) **I don’t see the Insights hub in my Partner Center account. What should I do?**</span></span>
 
-- <span data-ttu-id="076c3-112">[파트너 센터](partner-center-insights.md)정보에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="076c3-112">Learn more about [Partner Center Insights](partner-center-insights.md).</span></span>
+<span data-ttu-id="18e09-110">A) 조직의 MPN 계정에 로그인 했는지 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-110">A) Make sure you have logged in into the MPN account for your organization.</span></span> <span data-ttu-id="18e09-111">CSP 계정에서 Insights 대시보드에 액세스할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-111">You cannot access the Insights dashboard from your CSP account.</span></span> <span data-ttu-id="18e09-112">또한 전역 관리자가 보고서 뷰어 또는 임원 보고서 뷰어 역할 액세스 권한을 제공 했는지 확인 합니다.  역할에 대 한 자세한 내용은 [이 문서](https://docs.microsoft.com/partner-center/pci-roles)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="18e09-112">Also ensure that you have been provided Report Viewer or Executive Report Viewer role access by your Global Admin.  For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="18e09-113">Q) **내 보고서에서 청구 된 수익 또는 Azure에서 사용 하는 수익 (ACR) 데이터를 확인할 수 없습니다. 무엇 인가요?**</span><span class="sxs-lookup"><span data-stu-id="18e09-113">Q) **I am unable to see Billed Revenue or Azure Consumed Revenue (ACR) data in my reports. Why is that?**</span></span>
+
+<span data-ttu-id="18e09-114">A) 청구 된 수익과 ACR 데이터는 임원 보고서 뷰어 인 사용자 에게만 제공 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-114">A) Billed Revenue and ACR data is available only to users who are Executive Report Viewers.</span></span>  <span data-ttu-id="18e09-115">역할에 대 한 자세한 내용은 [이 문서](https://docs.microsoft.com/partner-center/pci-roles)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="18e09-115">For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="18e09-116">Q) **내 보고서에서 청구 된 수익 또는 Azure에서 사용 하는 수익 (ACR) 데이터를 확인할 수 없습니다. 무엇 인가요?**</span><span class="sxs-lookup"><span data-stu-id="18e09-116">Q) **I am unable to see Billed Revenue or Azure Consumed Revenue (ACR) data in my reports. Why is that?**</span></span>
+
+<span data-ttu-id="18e09-117">A) 청구 된 수익과 ACR 데이터는 임원 보고서 뷰어 인 사용자 에게만 제공 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-117">A) Billed Revenue and ACR data is available only to users who are Executive Report Viewers.</span></span> <span data-ttu-id="18e09-118">역할에 대 한 자세한 내용은 [이 문서](https://docs.microsoft.com/partner-center/pci-roles)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="18e09-118">For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="18e09-119">Q) **고객에 대해 보고 된 국가가 잘못 된 것 같습니다. 무엇 인가요?**</span><span class="sxs-lookup"><span data-stu-id="18e09-119">Q) **The country reported for my customer seems to be incorrect. Why is that?**</span></span>
+
+<span data-ttu-id="18e09-120">A) 고객 국가는 해당 고객의 글로벌 부모 조직 국가에서 파생 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-120">A) The customer country is derived from the country of the Global parent organization of that customer.</span></span> <span data-ttu-id="18e09-121">이 국가는 거래를 할 수 있는 고객의 국가와 다를 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-121">This country might be different from the country of the customer with whom you might have transacted.</span></span> <span data-ttu-id="18e09-122">따라서 고객에 게 보고 된 국가는 원하는 것과 다를 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-122">Hence the customer reported country might be different from what you expect it to be.</span></span>
+
+<span data-ttu-id="18e09-123">Q) **일부 고객 이름이 보고서에 난독 처리 되는 것을 볼 수 있습니다. 필요 한가요?**</span><span class="sxs-lookup"><span data-stu-id="18e09-123">Q) **I see a few customer names are obfuscated in the reports. Is it expected?**</span></span>
+
+<span data-ttu-id="18e09-124">A) 규정 준수 때문에 고객 이름이 특정 구독에 대해 난독 처리 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-124">A) Customer names are obfuscated for certain subscriptions because of compliance reasons.</span></span> <span data-ttu-id="18e09-125">그러나 고객 TPID를 사용할 수 있으며이를 통해 고객 이름을 조회할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-125">However, the customer TPID is available and you can use that look up customer names from it.</span></span>
+
+<span data-ttu-id="18e09-126">Q) **보고서의 일반적인 대기 시간은 어떻게 되나요?**</span><span class="sxs-lookup"><span data-stu-id="18e09-126">Q) **What is the typical latency of the reports?**</span></span>
+
+<span data-ttu-id="18e09-127">A) 구독 및 고객 데이터는 매일 새로 고쳐지고 데이터는 1 주일 대기 시간으로 보고 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-127">A) Subscriptions and Customers data is refreshed daily and data is reported with a one week latency.</span></span> <span data-ttu-id="18e09-128">Azure 사용 현황 데이터는 1 주일 대기 시간으로 보고 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-128">Azure usage data is reported with a one week latency.</span></span> <span data-ttu-id="18e09-129">Office365, 팀, Dynamic365, EMS 및 Power BI 사용 현황 데이터는 한 달의 대기 시간으로 보고 됩니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-129">Office365, Teams, Dynamic365, EMS, and Power BI usage data is reported with a one month latency.</span></span>
+
+<span data-ttu-id="18e09-130">Q) **보고서가 Internet Explorer에서 렌더링 되지 않는 경우**</span><span class="sxs-lookup"><span data-stu-id="18e09-130">Q) **The reports are not rendering in Internet Explorer – is that expected?**</span></span>
+
+<span data-ttu-id="18e09-131">A) 보고서에 Internet Explorer와의 렌더링 문제가 있습니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-131">A)  The reports have rendering issues with Internet Explorer.</span></span> <span data-ttu-id="18e09-132">Microsoft Edge 및 기타 브라우저에서 잘 작동 합니다.</span><span class="sxs-lookup"><span data-stu-id="18e09-132">They work well with Microsoft Edge and other browsers.</span></span>
+
+<span data-ttu-id="18e09-133">**다음 단계**</span><span class="sxs-lookup"><span data-stu-id="18e09-133">**Next steps**</span></span>
+
+- <span data-ttu-id="18e09-134">[파트너 센터](partner-center-insights.md)정보에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="18e09-134">Learn more about [Partner Center Insights](partner-center-insights.md).</span></span>
