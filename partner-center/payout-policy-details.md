@@ -1,22 +1,27 @@
 ---
-title: 지급 일정 및 정책 세부 정보-Azure marketplace
-description: 일정 및 recoupment를 포함 하 여 상업적 marketplace 지급 정책과 관련 된 세부 정보에 대해 알아봅니다.
+title: 지급 일정 및 프로세스
+description: 상업적 marketplace 및 기타 트랜잭션에 대 한 지불 일정 및 recoupment 프로세스와 같은 지급 및 트랜잭션에 대해 알아보세요.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513300"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492673"
 ---
-# <a name="payout-schedules-and-policy-details"></a>지급 일정 및 정책 세부 정보
+# <a name="payout-schedules-and-processes"></a>지급 일정 및 프로세스
 
-이 문서에서는 Microsoft의 지급 process, 지급 schedule, 지급 상태를 찾을 수 있는 위치 및 고객 지불 하지 않는 프로세스에 대해 설명 합니다.
+**적절한 역할:**
+
+- 계정 관리자
+- 글로벌 관리자
+
+이 문서에서는 Microsoft의 지불 일정, 지급의 상태를 찾을 수 있는 위치 및 고객 지불 하지 않는 프로세스에 대해 설명 합니다.
 
 ## <a name="payment-schedules"></a>지불 일정
 
@@ -74,10 +79,10 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 | --- | --- | --- |
 | 예제 지급 날짜 | 10/15/2020 | 트랜잭션 기록에 **전송** 됨으로 표시 되 고 지급 대시보드의 지불 섹션 |
 | <font color="red">고객이 Microsoft에 요금을 지불 하지 않는 경우</font> | 12/2/2020 – 12/5/2020 | 위와 동일한 변경 내용 없음 |
-| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | None |
-| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | None |
+| 고객이 최초 지연 지불 전자 메일을 받습니다. | 12/6/2020 | 없음 |
+| 고객은 긴급 한 긴급 한 전자 메일을 받습니다. | 12/7/2020 – 1/31/2021 | 없음 |
 | 게시자에 게 쓰기 해제 알림이 표시 될 가능성이 있습니다. | 1/7/2021 | 고객이 결제를 아직 보내지 않은 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
-| 고객이 종료 알림 받기 | 2/1/2021 | None |
+| 고객이 종료 알림 받기 | 2/1/2021 | 없음 |
 | 수집 프로세스 종료/자금을 기록 합니다. | 2/15/2021 | 금액이 쓰여진 게시자에 게 전자 메일 알림이 전송 되었습니다. 트랜잭션 ID 및 달러 금액이 포함 됩니다. |
 | 지급 공제 | 3/1/2021 | 파트너 센터 지급에서 부정적 트랜잭션이 표시 됩니다. |
 | 지급 보안상 이유로 | 3/15/2021 | 이후 지급는 Partner Center 지급 문에 표시 됩니다. 잔액을 더 이상 음수일 때까지 게시자는 지불을 받지 않습니다.  |
@@ -90,7 +95,7 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 일반적으로 해당 월의 15 일에 지정 된 월에 지불을 전송 하지만 계정에 도달 하는 데는 추가 시간이 소요 됩니다. 일 수는 아래에 설명 된 대로 계정에 사용 하는 결제 방법에 따라 달라 집니다.
 
 > [!NOTE]
-> 아래 표시 된 일은 대략적입니다. 결제는 계정에 도달 하는 데 시간이 오래 걸릴 수 있습니다.
+> 아래 표시 된 일은 대략적입니다. 결제는 계정에 도달 하는 데 더 많은 시간이 걸릴 수 있습니다.
 
 | 결제 방법     | 지급 계정에 도달할 일 수     |
 |--------------------|--------------------------------------------|

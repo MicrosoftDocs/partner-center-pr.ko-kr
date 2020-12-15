@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626034"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492469"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 성과급 지급 및 세금 프로필 만들기 및 관리
 
@@ -152,4 +152,4 @@ W8 또는 W9 양식을 완료 하는 방법에 대 한 정보가 필요한 경�
 
 ## <a name="next-steps"></a>다음 단계
 
-- [인센티브 지급 및 세금 프로필 FAQ](incentives-payout-tax-profile-faqs.md)
+- [지급 및 세금에 대 한 일반적인 질문](payout-faq.md)

@@ -8,14 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303169"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492605"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>이러한 리소스를 사용 하 여 성과급을 시작 하는 데 도움을 받으세요.
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>인센티브를 시작하는 데 도움이 되도록 다음 리소스 사용
 
 **적용 대상**
 
@@ -44,12 +44,12 @@ Microsoft 파트너 네트워크 (MPN) 파트너는 고객에 게 서비스를 �
 
 |  **수행할 작업**  |  **이 글 읽기**  |
 |--------------|-----------|
-| 성과급 프로그램에서 등록에 대 한 자세한 정보 | [성과급 프로그램에 등록](incentives-enroll.md)  |
+| 성과급 프로그램에서 등록에 대 한 자세한 정보 | [인센티브 프로그램에 등록](incentives-enroll.md)  |
 | 성과급 작업이 특정 성과급 프로그램의 자격 요건을 충족 하는지 알아보기 | [프로그램 자격 확인](incentives-determined-your-program-eligibility.md)  |
 | 사용자의 성과급 지급을 받으려면 먼저 Microsoft에서 요구 하는 데이터를 찾고 제공 합니다. | [파트너 센터에서 지급 및 세금 프로필 만들기 및 관리](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
-| 성과급 소득을 받는 데 필요한 모든 세부 정보를 제공 했는지 확인 합니다. | [수익 자격 확인](incentives-confirm-your-earnings-eligibility.md)  |
-| 성과급 프로그램에 대 한 모든 데이터 및 보고서 보기 | [인센티브 지급 및 프로그램 보기](understand-incentive-payouts.md)  |
-| 프로그램 별 성과급 지급 페이지 액세스 | [인센티브 지급액 페이지에 액세스](incentives-unified-user-guide.md)  |
+| 성과급 소득을 받는 데 필요한 모든 세부 정보를 제공 했는지 확인 합니다. | [소득 자격 확인](incentives-confirm-your-earnings-eligibility.md)  |
+| 성과급 프로그램에 대 한 모든 데이터 및 보고서 보기 | [동기 프로그램 및 지불 보기](understand-incentive-payouts.md)  |
+| 프로그램 별 성과급 지급 페이지 액세스 | [지급 문에 액세스](payout-statement.md)  |
 
 ## <a name="next-steps"></a>다음 단계
 

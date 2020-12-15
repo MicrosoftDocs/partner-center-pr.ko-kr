@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514761"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492690"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>지급 계정 및 세금 양식 설정
+
+**적절한 역할:**
+
+- 계정 관리자
+- 글로벌 관리자
 
 상업용 마켓플레이스의 제품 판매에서 돈을 받으려면 [파트너 센터](https://partner.microsoft.com/dashboard)에서 지급 계정을 설정하고 필요한 세금 양식을 작성해야 합니다.
 
@@ -32,19 +37,16 @@ ms.locfileid: "95514761"
 
 ## <a name="tax-forms"></a>세금 양식
 
-### <a name="fill-out-your-tax-forms"></a>세금 양식 작성
+파트너 센터의 **지급 및 세금** 페이지에서 세금 프로필 및 세금 양식을 관리 합니다. 조직의 사용 권한에 따라 사용자에 게 표시 되는 프로필 및 정보가 결정 됩니다.
 
-먼저 세금 프로필을 만들고 참여하는 프로그램에 할당해야 합니다. 다음 단계를 완료하여 상업용 마켓플레이스용 ‘세금 프로필’을 만들 수 있습니다.
+### <a name="create-or-update-your-tax-profile"></a>세금 프로필 만들기 또는 업데이트
 
-- 거주 및 시민권 국가/지역을 지정합니다.
-- 해당하는 세금 양식을 작성합니다.
-
-파트너 센터에서는 세금 양식을 전자 방식으로 작성하고 제출할 수 있습니다. 대부분의 경우 양식을 인쇄하고 메일을 보낼 필요가 없습니다.
+먼저 세금 프로필을 만들고 참여하는 프로그램에 할당해야 합니다. 파트너 센터에서 *세금 프로필* 을 만들거나 업데이트 하려면 다음 단계를 사용 합니다. 파트너 센터 대시보드에서 온라인으로 세금 양식을 작성 하 고 제출할 수 있습니다. 대부분의 경우에는 양식을 인쇄 하 고 메일을 보낼 필요가 없습니다.
 
 > [!IMPORTANT]
 > 국가와 지역마다 세금 요구 사항이 서로 다릅니다. 세금으로 지불해야 하는 정확한 금액은 제품을 판매하는 국가와 지역에 따라 다릅니다. Microsoft가 사용자를 대신해서 판매세 및 이용세를 송금하는 국가/지역을 확인하려면 [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560)을 참조하세요. 다른 국가/지역에서는 사용자가 등록된 위치에 따라 제품 판매에 대한 판매세와 이용세를 현지 세무 당국에 직접 송금해야 할 수도 있습니다. 또한 받은 앱 판매 수익금이 소득으로 과세될 수도 있습니다. 상업용 마켓플레이스 활동에 적합한 세금 정보를 확인하는 데 가장 큰 도움을 받을 수 있는 현지 국가 또는 지역 관련 당국에 문의하는 것이 좋습니다.
 
-1. [파트너 센터](https://partner.microsoft.com/dashboard)의 오른쪽 위 모서리에서 **설정** 기어 아이콘을 선택 하 고 **계정 설정** 을 선택 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)의 오른쪽 위 모서리에서 **설정** 기어 아이콘을 선택 하 고 **계정 설정** 을 선택 합니다.
 
 2. 왼쪽 탐색 메뉴에서 **지급 및 세금** 을 선택하고 **지급 및 세금 할당** 을 선택합니다.
 
