@@ -738,6 +738,8 @@
     - name: 파트너 테넌트에 대한 MFA 위임
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: MFA로 사용자 설정
+      href: mfa-for-users.md
     - name: 요구 사항 상태
       href: partner-security-compliance.md
       displayName: csp
