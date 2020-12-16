@@ -1,7 +1,7 @@
 ---
 title: 혜택 FAQ
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Azure, 클라우드, Visual Studio 및 기술 및 지원 혜택에 대 한 혜택 만료, 갱신 및 정품 인증에 대 한 질문에 대 한 답변
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570691"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514682"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
@@ -98,7 +98,7 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 구독을 할당 한 후에는 사용자가 Visual Studio에 로그인 하 여 관리 해야 합니다.
 
 >[!Note]
-> Visual Studio 구독은 원래 할당 후 한 구독자에서 다른 90 일로 다시 할당 될 수 있습니다.
+> 원래 할당 시간 이후 90 일이 경과한 경우에는 한 구독자에서 다른 구독자로 Visual Studio 구독을 다시 할당할 수 있습니다.
 
 ## <a name="technical-benefits-and-support"></a>기술적 이점 및 지원
 
