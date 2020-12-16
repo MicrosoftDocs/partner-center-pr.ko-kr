@@ -279,18 +279,12 @@
         - name: 지급액 및 세금 프로필 이해
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: 지급액 및 세금 프로필 FAQ
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: 수익 자격 확인
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: 지급액 및 프로그램 보기
+        - name: 프로그램 및 결제 보기
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: 지급액 페이지 액세스
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: 실행 계획 및 증명서
       items:
         - name: 계획 및 PoE 이해
@@ -433,23 +427,21 @@
       displayName: csp
 - name: 지급 받기
   items:
+    - name: 결제
+      href: marketplace-get-paid.md
+    - name: 지급 명세서
+      href: payout-statement.md
     - name: '미결제, 사기 또는 오용 관리'
       href: non-payment-fraud-misuse.md
     - name: 할당되지 않은 결제 관리
       href: unallocated-payment.md
-    - name: 상업용 마켓플레이스 지급
-      items:
-        - name: 유료 - 마켓플레이스
-          href: marketplace-get-paid.md
-        - name: 지급 정책 세부 정보
-          href: payout-policy-details.md
-        - name: '결제 임계값, 메서드 및 시간 프레임'
-          href: payment-thresholds-methods-timeframes.md
-        - name: 지급액 명세서
-          href: payout-statement.md
-          displayName: invoice
-        - name: 지급 FAQ
-          href: payout-faq.md
+    - name: 지급 일정 및 프로세스
+      href: payout-policy-details.md
+    - name: '결제 임계값, 메서드 및 시간 프레임'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: 지급액 및 세금 프로필 FAQ
+      href: payout-faq.md
 - name: 고객과의 관계 구축
   items:
     - name: 고객과의 관계 구축
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: 학습
               href: pci-training-dashboard.md
-        - name: 알려진 문제
+        - name: 인사이트-FAQ
           href: pci-known-issues.md
         - name: 인사이트 보고서 다운로드
           href: pci-download-reports.md
+        - name: 인사이트 데이터 정의
+          href: pci-data-definitions.md
     - name: 파트너 기여 지표
       href: partner-contribution-indicators.md
       displayName: mpn

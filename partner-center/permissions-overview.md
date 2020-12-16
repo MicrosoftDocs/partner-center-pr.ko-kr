@@ -8,13 +8,13 @@ description: 파트너 센터에서 상업 거래, 조회, 인센티브 또는 M
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.custom: SEOMAY.20, contperf-fy21q1
+ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670153"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492707"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 

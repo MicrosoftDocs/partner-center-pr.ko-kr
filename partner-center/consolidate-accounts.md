@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527816"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354528"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 마이그레이션할 때 회사 계정 통합
 
@@ -62,3 +62,9 @@ PMC는 위치마다 고유한 역량, 자체 MAP 및 특정 위치에만 해당�
 파트너 센터에서는 모든 위치 계정이 하나의 글로벌 계정으로 통합됩니다. 즉, 모든 시장 진출 제품, 프로그램 및 역량도 통합됩니다. 추가 혜택 도구 키트(ABTK)는 사용할 수 없습니다. 그러나 회사에 필요한 대로 마케팅 리소스, 제품, 프로그램 및 역량의 배포를 구성할 수 있습니다. 계정을 통합하면 사용 기간이 연장됩니다. 기존에 PMC에서 사용하던 마케팅 리소스, 제품 및 프로그램의 사용 기간이 1년 연장됩니다.
 
 PMC와 파트너 센터의 차이점에 대한 자세한 내용은 [PMC에서 파트너 센터로 이동](guide-to-migration.md)을 참조하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [파트너 센터 계정 관리](partner-center-account-setup.md)
+
+- [위치 관리](manage-locations.md)

@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333922"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354613"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법이 업데이트됨
 
-**적용 대상**
-
--  파트너 센터
 
 **적절한 역할**
 
@@ -70,7 +67,7 @@ ms.locfileid: "92333922"
 
 파트너 센터에서 신규 고객 테넌트를 생성하는 동안 다음 절차에 따라 고객의 동의 여부를 확인합니다. 관리 담당자 또는 판매 담당자만 이러한 확인이 가능합니다.
 
-1. **고객** , **새 고객** , **계정 정보** 를 차례로 선택합니다.
+1. **고객**, **새 고객**, **계정 정보** 를 차례로 선택합니다.
 
 2. **회사** 및 **기본 연락처** 정보를 입력합니다.
 
@@ -82,9 +79,9 @@ ms.locfileid: "92333922"
 
 5. 동의를 표한 사용자의 세부 정보를 입력합니다.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="회사 정보":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="동의 날짜 추가":::
 
-   기본적으로 사용자의 기본 연락처 정보가 표시됩니다. 이 정보가 틀린 경우에는 **업데이트** 를 선택하고, 계약에 동의한 사람의 **이름** , **성** , **이메일 주소** 및 * *전화 번호* (선택 사항)를 입력합니다.
+   기본적으로 사용자의 기본 연락처 정보가 표시됩니다. 이 정보가 틀린 경우에는 **업데이트** 를 선택하고, 계약에 동의한 사람의 **이름**, **성**, **이메일 주소** 및 **전화 번호*(선택 사항)를 입력합니다.
 
 6. 고객 테넌트를 생성하기 위한 나머지 단계를 계속하려면 **다음** 을 선택합니다.
 
@@ -98,9 +95,9 @@ ms.locfileid: "92333922"
 
 3. **Microsoft 고객 계약** 에서 **업데이트** 를 선택합니다.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="회사 정보":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Update":::
 
-4. 계약에 동의한 사용자의 **이름** , **성** , **이메일 주소** 및 **전화 번호** (선택 사항)를 입력합니다.
+4. 계약에 동의한 사용자의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다.
 
 5. **계약 동의 날짜** 에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
 
@@ -110,7 +107,7 @@ ms.locfileid: "92333922"
 
 앞서 동의 여부를 확인하지 않은 기존 고객의 신규 주문을 작성하려고 시도하면 확인을 완료하라는 메시지를 받게 됩니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
 
-1. 계약에 동의한 사용자의 **이름** , **성** , **이메일 주소** 및 **전화 번호** (선택 사항)를 입력합니다.
+1. 계약에 동의한 사용자의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다.
 
 2. **계약 동의 날짜** 에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
 
