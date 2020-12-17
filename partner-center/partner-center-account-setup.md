@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556449"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011532"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
 **적절한 역할** – 전역 관리자, MPN 관리자
 
-등록 시 사용자가 파트너 센터에서 만드는 계정은 회사 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
+등록 시 파트너 센터에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
 
 또한 [파트너 센터에 가입하도록 직원 초대](guide-to-migration.md) 및 [새 사용자 추가](create-user-accounts-and-set-permissions.md) 문서도 참조하세요.
 
@@ -41,9 +41,19 @@ ms.locfileid: "96556449"
 
 파트너이든 개발자이든 관계없이 지원 티켓을 기록하는 것과 같은 작업에 MPN ID를 사용합니다. MPN ID는 **법적 정보** 페이지에 있습니다. **ID 프로필** 에서도 찾을 수 있습니다.
 
+## <a name="account-settings---partners-resellers"></a>계정 설정 - 파트너, 재판매인
+
+**설정** 아이콘을 선택하고 **계정 설정** 메뉴를 열 때 회사가 클라우드 솔루션 공급자 프로그램에 가입한 경우 기본 보기는 **법적 정보** 이며, 여기에는 **파트너** 및 **재판매인** 이라는 두 탭이 표시됩니다. 각 탭에는 비즈니스의 분야가 포함됩니다.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="파트너 및 재판매인에 대한 탭을 보여 주는 메뉴":::
+
+파트너 탭에는 회사의 등록된 법적 이름 및 주소, 주 연락처 및 비즈니스 위치와 같은 법적 비즈니스 정보가 모두 포함됩니다. CSP 비즈니스를 수행하는 파트너를 위한 재판매인 탭에는 **고객 지원 프로필** 이 포함되어 있습니다.
+
+회사에서 CSP에 참여하지 않는 경우 기본 보기에 **고객 지원 프로필** 을 포함하는 **파트너** 탭만 표시됩니다.
+
 ## <a name="organization-profile"></a>조직 프로필
 
-이러한 페이지를 사용하여 법적 비즈니스 프로필, 파트너 프로필 및 회사 위치 같은 영역을 관리합니다. **법적 고지** 또는 **테넌트**(자세한 설명은 아래 참조)와 같은 탭을 선택하여 해당 영역을 편집합니다. 관심 있는 프로그램(MPN, CSP 또는 상업용 Marketplace)에 해당하는 탭을 선택하여 정보 및 심사 상태를 확인합니다.
+이러한 페이지를 사용하여 법적 비즈니스 프로필, 파트너 프로필 및 테넌트를 비롯한 비즈니스의 심층적인 영역을 관리할 수 있습니다. 각 영역을 개별적으로 관리할 수 있습니다. 이러한 모든 부분은 아래와 같이 설명됩니다. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="법적 정보 메뉴.":::
 

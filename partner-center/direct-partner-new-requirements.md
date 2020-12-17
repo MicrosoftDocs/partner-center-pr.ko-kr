@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/29/2020
-ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.date: 12/15/2020
+ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360023"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514703"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 직접 청구 파트너로 등록하기 위한 요구 사항
 
@@ -57,7 +57,6 @@ ms.locfileid: "94360023"
 
 - [직접 청구 파트너를 위한 새로운 수익 요구 사항](./announcements/2020-october.md#13)
  
-
 - [간접 재판매인이 되기 위한 추가 정보](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [직접 청구 파트너에서 간접 재판매인으로 전환 FAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [CSP의 직접 청구 파트너 요구 사항에 대한 새로운 성능 표준](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

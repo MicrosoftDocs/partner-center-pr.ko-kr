@@ -1,7 +1,7 @@
 ---
 title: Microsoft Action Pack 제품 구입 또는 갱신
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Action Pack 구독을 구매하고 Action Pack 혜택을 사용하는 방법을 알아보세요. 또한 청구서를 갱신, 취소, 보는 방법도 알아보세요.
@@ -9,34 +9,29 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812859"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514719"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버 및 골드 역량 구입 또는 갱신
 
-**적용 대상**
-
-- 파트너 센터
-- Partner Membership Center
-- MPN 프로그램 파트너
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - MPN 파트너 관리자
 - 관리 에이전트
-- 영업 상담원
 
-이제 Microsoft 파트너 네트워크(MPN.md)의 멤버는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에서 혜택 제품을 구입하거나 갱신할 수 있습니다. 이러한 제품에는 Microsoft Action Pack 구독과 실버 및 골드 역량이 포함됩니다.
+
+Microsoft 파트너 네트워크(MPN) 멤버는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에서 Microsoft Action Pack 구독과 실버 및 골드 역량을 비롯한 혜택 제품을 구입하거나 갱신할 수 있습니다.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>처음으로 Microsoft Action Pack 구입
 
-Microsoft와 처음 파트너 관계를 맺는 경우 첫 번째 단계는 Microsoft 파트너 네트워크에 가입하는 것입니다. 아직 파트너 네트워크의 구성원이 아닌 경우 가입 준비가 되면 파트너 네트워크 사이트의 [멤버십 페이지](https://partner.microsoft.com/membership)로 이동하여 **지금 등록** 을 선택합니다. 
+Microsoft와 처음 파트너 관계를 맺는 경우 첫 번째 단계는 Microsoft 파트너 네트워크에 가입하는 것입니다. MPN에 가입하려면 파트너 네트워크 사이트의 [멤버십 페이지](https://partner.microsoft.com/membership)로 이동하여 **지금 등록** 을 선택합니다.
 
 파트너 네트워크에 성공적으로 가입한 후에는 [파트너 네트워크 사이트의 지침](https://partner.microsoft.com/membership/action-pack)에 따라 첫 번째 Action Pack 구독을 구입합니다. 
 
@@ -62,7 +57,7 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 번째 단계는 Micro
 2. **구독 갱신** 을 선택하고 결제 방법을 선택합니다. 신용 카드 또는 전자 계좌 이체를 사용하여 비용을 지불할 수 있습니다.
 
     >[!NOTE]
-    >**구독 갱신** 이 표시되지 않거나 회색으로 표시되는 경우 아직 Action Pack 구독을 갱신할 자격이 없는 것입니다. 갱신 기간 정책이 변경되었으며 이제 만료된 후에만 구독을 갱신할 수 있습니다. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.  
+    >**구독 갱신** 이 표시되지 않거나 회색으로 표시되는 경우 아직 Action Pack 구독을 갱신할 자격이 없는 것입니다. 만료된 **후에만** 구독을 갱신할 수 있도록 갱신 기간 정책이 변경되었습니다. 예를 들어 6월 22일에 구독이 만료되면 6월 23일부터 30일간 갱신할 수 있습니다.  
 
 3. 신용 카드로 결제하는 경우 지침에 따라 신용 카드 정보를 추가합니다. 전자 계좌 이제로 결제를 하는 경우 연락처 이름, 전화 번호 및 이메일 주소를 입력하고 **제출** 을 선택합니다.
 
@@ -70,15 +65,13 @@ Microsoft와 처음 파트너 관계를 맺는 경우 첫 번째 단계는 Micro
 
 5. 주문이 확인됩니다. **닫기** 를 선택합니다.
 
-매년 이 날짜에 Action Pack 구독이 자동으로 갱신됩니다.
-
 ### <a name="update-your-bill-to-address"></a>청구지 주소 업데이트
 
 Action Pack을 갱신하거나 구입하는 과정에서 청구지 주소를 확인할 수 있습니다.
 
  1. **제출** 을 선택한 후 구매 세부 정보를 검토할 수 있습니다. 주소를 업데이트해야 한다는 메시지가 표시되는 경우 **업데이트** 를 선택합니다.
   
- 1. **파트너 프로필** 페이지에서 주소를 업데이트합니다.
+ 1. **법적 프로필** 페이지에서 주소를 업데이트합니다.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Action Pack 구독 취소
 
@@ -115,6 +108,3 @@ Microsoft Action Pack 구독을 취소하려면 파트너 지원 팀에 문의�
 -   [사용자 추가 및 권한 할당](create-user-accounts-and-set-permissions.md)
 
 -   [비즈니스 프로필을 만들어 Microsoft에서 잠재 고객 받기](create-a-marketing-profile.md)
-
-
-

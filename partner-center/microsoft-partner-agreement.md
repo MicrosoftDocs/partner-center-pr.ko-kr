@@ -1,7 +1,7 @@
 ---
 title: CSP 파트너를 위한 MPA(Microsoft 파트너 계약)
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 디지털 방식으로 수락하는 이 통합 MPA(Microsoft 파트너 계약)에 서명하고 확인하기 위한 Microsoft CSP 파트너 요구 사항에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869336"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514756"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -27,6 +27,9 @@ Microsoft 파트너 계약은 Microsoft 파트너에게 디지털 방식으로 �
 간접 공급자, 간접 재판매인 및 직접 청구 파트너를 포함한 클라우드 솔루션 공급자 프로그램 파트너는 모두 파트너 센터에서 온라인으로 MPA에 서명할 수 있습니다. 정부 기관 클라우드를 운영하는 직접 청구 및 간접 공급자 파트너는 파트너 센터 내에서 MPA에 서명할 수도 있습니다.
 
 CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsoft 파트너 계약에 서명해야 합니다. 파트너 센터에서는 이제 파트너 센터 내에서 계약에 쉽게 서명할 수 있음을 미리 알려줍니다.
+
+>[!NOTE]
+>회사에서 CSP 비즈니스를 수행하는 모든 CSP 지역에서 MPA에 한 번씩 서명해야 합니다. [CSP 지역](regional-authorization-overview.md)에 대한 자세한 정보 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN ID가 활성화되어 있고 파트너 센터로 마이그레이션되었는지 확인
 
@@ -53,7 +56,7 @@ CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsof
 
 1. **설정** 에서 [파트너 프로필](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)을 선택합니다.
 
-1. **프로그램 정보** 섹션을 확인합니다. 정보에 **간접 재판매인** 상태가 표시되지 않는 경우 [간접 재판매인으로 등록](https://partner.microsoft.com/cloud-solution-provider/whats-required)해야 합니다.
+1. **프로그램 정보** 섹션을 확인합니다. 정보에 **간접 재판매인** 상태가 표시되지 않는 경우 [간접 재판매인으로 등록](indirect-reseller-tasks-in-partner-center.md)해야 합니다.
 
 1. **간접 재판매인** 상태가 **활성** 인 경우 파트너 센터의 활성 간접 재판매인이 됩니다.
  
@@ -78,13 +81,13 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
 >회사의 글로벌 관리자만 MPA를 보고 서명할 수 있습니다. 글로벌 관리자가 아닌 경우 글로벌 관리자에게 MPA를 확인하도록 요청해야 합니다.
 
 
-## <a name="downloadable-step-by-step-guides"></a>다운로드 가능한 단계별 가이드
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>프로세스의 진행 상황에 적합한 단계별 가이드 다운로드
 
-1. [PMC에서 파트너 센터로 마이그레이션 및 Microsoft 파트너 계약에 동의](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. MPN 계정을 PMC에서 파트너 센터로 마이그레이션하는 경우: [PMC에서 파트너 센터로 마이그레이션하고 Microsoft 파트너 계약에 동의](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [Microsoft 파트너 계약 및 MPN 구성원에 대한 온보딩](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. 파트너 센터에 CSP 간접 재판매인으로 등록하려는 경우: [MPN 멤버 및 Microsoft 파트너 계약에 대한 온보딩](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [Microsoft 파트너 계약 수락 상태 확인](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. 위의 1단계 및/또는 2단계를 완료한 후 파트너 센터에서 MPA 상태를 확인하려면 다음을 수행합니다. [Microsoft 파트너 계약 승인 상태 확인](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>다음 단계
 

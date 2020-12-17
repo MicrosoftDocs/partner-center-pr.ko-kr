@@ -1,27 +1,23 @@
 ---
 title: CSP 프로그램에서 간접 공급자와 협력
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인이 Microsoft 간접 공급자(또는 배포자)와 협력하여 고객 지원 및 청구에 대한 도움을 받는 방법을 알아봅니다.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795851"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514742"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -72,33 +68,22 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 
 2. **시작** 페이지를 검토하여 등록하는 데 필요한 정보가 모두 있는지 확인하고, **다음** 을 선택합니다.
 
-3. 회사 계정을 사용하여 로그인합니다. **로그인** 을 선택한 다음, Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 대한 전역 관리자로 로그인하는 데 사용하는 사용자 이름과 암호를 입력합니다.
+3. 회사 계정을 사용하여 로그인 - Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 대한 전역 관리자로 로그인하는 데 사용하는 사용자 이름과 암호를 입력합니다. 회사 계정이 없는 경우 **만들기** 를 선택하여 지금 설정합니다. 회사 계정을 만든 후 새 계정의 전역 관리자 자격 증명을 사용하여 로그인합니다.
 
-   회사 계정이 없는 경우 **만들기** 를 선택하여 지금 설정합니다. 회사 계정을 만든 후 새 계정의 전역 관리자 자격 증명을 사용하여 로그인합니다.
-
-4. MPN ID(Microsoft 파트너 네트워크 ID)를 새로운 파트너 센터 계정과 연결하는 방법에 대한 정보를 검토합니다. 파트너 센터에서 멤버십 혜택과 인센티브를 관리할 수 있도록 회사의 MPN ID를 새로운 파트너 센터 계정과 연결해야 합니다. **로그인** 을 선택합니다.
-
-5. PMC(Partner Membership Center) 사이트에 로그인할 때 사용하는 사용자 이름을 입력합니다. Partner Membership Center 사이트는 현재 Microsoft 파트너 계정을 관리하는 곳입니다. Partner Membership Center에 로그인하면 MPN ID를 검색하여 새로운 파트너 센터 계정에 연결할 수 있습니다. **다음** 을 선택합니다.
-
-6. Partner Membership Center 계정의 암호를 입력한 다음, **로그인** 을 선택합니다.
-
-7. 인센티브, 멤버십 혜택 및 역량에 연결된 MPN ID를 사용하여 회사 프로필을 선택합니다. 그러면 이 정보를 파트너 센터 계정으로 이동할 수 있습니다. **계속** 을 선택합니다.
-
-   사용하려는 MPN ID가 이 페이지에 나열되지 않는 경우 **취소** 를 선택하고 사용하려는 회사 프로필의 사용자 이름 및 암호를 사용하여 다시 로그인합니다.
 
    > [!IMPORTANT]  
    > Azure AD 테넌트와 동일한 국가/지역에 있는 활성 회사 프로필과 연결된 MPN ID를 선택하세요.
 
-8. 회사의 법적 비즈니스 프로필, 기본 연락처 정보 및 고객 지원 정보를 제공하거나 업데이트합니다. **지금 등록** 을 선택합니다.
+4. 회사의 법적 비즈니스 프로필, 기본 연락처 정보 및 고객 지원 정보를 제공하거나 업데이트합니다. 법적 비즈니스 정보를 찾으려면 **조직 프로필** 을 선택한 다음, **법적 정보** 를 선택합니다. **지금 등록** 을 선택합니다.
 
-   주 연락처는 애플리케이션과 관련하여 문의할 수 있는 회사의 담당자여야 합니다. 주 연락처는 사용자 또는 회사의 다른 사용자가 될 수 있습니다. 참고: Gmail, Yahoo!, Mail, iCloud Mail, AOL Mail 또는 Outlook Mail과 같은 웹 기반 이메일 서비스의 이메일 주소는 사용할 수 없습니다.
+   주 연락처는 애플리케이션과 관련하여 문의할 수 있는 회사의 담당자입니다. 사용자 또는 회사의 다른 사용자가 될 수 있습니다. 참고: Gmail, Yahoo!, Mail, iCloud Mail, AOL Mail 또는 Outlook Mail과 같은 웹 기반 이메일 서비스의 이메일 주소는 사용할 수 없습니다.
 
    > [!IMPORTANT]  
    > 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 이메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 가입했는지, (2) 이 이메일 주소가 귀사의 이메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 이메일 주소를 확인하면 귀하가 제공한 정보 검토가 계속 진행됩니다. 기본 연락처로 등록 상태 업데이트 이메일을 보내드릴 것입니다.
 
-9. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
+5. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
-   1. **파트너 센터** 에서 **설정** 아이콘을 선택한 다음, **사용자 관리** 를 선택합니다.
+   1. 파트너 센터 대시보드에서 **설정** 아이콘을 선택한 다음, **계정 설정** 에서 **사용자 관리** 를 선택합니다.
 
    2. 사용자 목록에서 사용자 이름을 선택합니다. 그런 다음, 아직 선택되지 않은 경우 **관리자 에이전트** 를 선택합니다. **업데이트** 를 선택합니다.
 
@@ -138,6 +123,10 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 
    > [!IMPORTANT]  
    > 간접 공급자가 귀사의 고객을 대신하여 주문을 제출하려면 귀사의 고객과 재판매인 관계를 맺어야 합니다.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>비즈니스를 수행하는 CSP 국가 및 CSP 지역
+
+CSP 간접 재판매인의 법적 비즈니스 위치에 따라 협업할 수 있는 간접 공급자와 CSP 비즈니스를 수행할 수 있는 지역이 결정됩니다. 자세한 내용은 [CSP 제품을 판매할 수 있는 클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)를 참조하세요.
 
 
 ## <a name="next-steps"></a>다음 단계
