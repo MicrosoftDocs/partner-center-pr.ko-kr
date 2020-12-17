@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dynamics 365 고객 Engagement 또는 Dynamics 365 재무 및 작업으로 작업 하는 방법을 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아보세요.
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344394"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636044"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>PCI (파트너 기여 지표)는 고객 성공을 위한 7 가지 주요 측정값에 파트너의 영향을 보여 줍니다.
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>PCI(파트너 기여 지표)는 고객 성공의 7가지 주요 측정값에 대한 파트너의 영향을 보여 줍니다.
 
 이 문서에서는 CBA (Cloud Business Applications) MPN 역량을 실현 하거나 유지 관리 하는 파트너의 진행 상황을 평가 하는 데 사용 되는 7 개의 키 파트너 기여 지표 (PCI)에 대해 설명 합니다.
 
@@ -42,23 +42,23 @@ PCI는 파트너의 기술 기능, 고객 성공 여부를 확인 하는 기능 
 
 *성능 표시기:*
 
-1. **Net new 수익** : Microsoft Dynamics 365 제품에 대 한 모든 판매 채널에 대 한 순 새로운 수익입니다. (이 메트릭에 대 한 자세한 내용은 [net new 수익에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)를 참조 하세요.)
+1. **Net new 수익**: Microsoft Dynamics 365 제품에 대 한 모든 판매 채널에 대 한 순 새로운 수익입니다. (이 메트릭에 대 한 자세한 내용은 [net new 수익에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)를 참조 하세요.)
 
-2. **Net customer** : 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net 고객을 추가 합니다. (이 메트릭에 대 한 자세한 내용은 [net customer 추가 정의](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)를 참조 하세요.)
+2. **Net customer**: 모든 판매 채널에서 Dynamics 365에 대해 획득 한 net 고객을 추가 합니다. (이 메트릭에 대 한 자세한 내용은 [net customer 추가 정의](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)를 참조 하세요.)
 
 *기능 표시기:*
 
-3. **기능 컨설턴트** : 현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트를 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)를 참조 하세요.
+3. **기능 컨설턴트**: 현재 활성 기능 컨설턴트를 보유 하는 개인의 수는 Dynamics 365에 대 한 인증을 연결 합니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트를 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)를 참조 하세요.
 
-4. **함수형 컨설턴트 증가** : 기능 컨설턴트의 수 증가  PCI의 기능 컨설턴트 증가 메트릭에 대 한 기준 스냅숏은 이제 2020 년 10 월 1 일에 수행 됩니다. 이 메트릭에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.
+4. **함수형 컨설턴트 증가**: 기능 컨설턴트의 수 증가 이 표시기의 점수를 얻기 위한 몇 가지 옵션이 있습니다. 한 가지 옵션은 2020 년 10 월 1 일에 실행 되도록 PCI의 기능 컨설턴트 증가 메트릭에 대 한 기준 스냅숏을 요구 합니다. (이 메트릭에 대 한 점수를 얻기 위한 모든 옵션에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.)
 
-5. **개발자** : Dynamics 365에 대 한 인증을 연결 하는 현재 활성 개발자를 보유 하는 개인의 수입니다. 이 메트릭에 대 한 자세한 내용은 개발자를 [위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)를 참조 하세요.
+5. **개발자**: Dynamics 365에 대 한 인증을 연결 하는 현재 활성 개발자를 보유 하는 개인의 수입니다. 이 메트릭에 대 한 자세한 내용은 개발자를 [위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)를 참조 하세요.
 
 *고객 성공 지표:*
 
-6. **새로운 대규모 배포** : 지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수 이 메트릭에 대 한 자세한 내용은 [새 대량 배포에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)를 참조 하세요.
+6. **새로운 대규모 배포**: 지난 12 개월 동안 높은 사용 임계값을 초과 하는 프로덕션 테 넌 트 수 이 메트릭에 대 한 자세한 내용은 [새 대량 배포에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)를 참조 하세요.
 
-7. **월별 활성 사용자 증가** : 지난 12 개월 동안 모든 고객의 월간 활성 사용자 성장 (이 메트릭에 대 한 자세한 내용은 [월별 활성 사용자 증가에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)를 참조 하세요.)
+7. **월별 활성 사용자 증가**: 지난 12 개월 동안 모든 고객의 월간 활성 사용자 성장 (이 메트릭에 대 한 자세한 내용은 [월별 활성 사용자 증가에 대 한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)를 참조 하세요.)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 점수가 역량 자격에 주는 영향
 점수는 획득 된 각 표시기에 대해 부여 되며,이로 인해 단일 숫자 PCI 점수가 발생 합니다. 100 최대 점수를 사용할 수 있습니다. 
@@ -98,12 +98,12 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 각 메트릭의 점수는 고객 참여 및 재정 및 운영에 대 한 별도의 PCI 점수를 생성 하도록 계산 됩니다. 이 점수는 매월 업데이트 됩니다.
 
 파트너는 아래 표시된 임계값을 충족하거나 초과하는 경우 지정된 메트릭에 대한 최대 포인트를 얻을 수 있습니다. 기능적 컨설턴트 성장을 제외 하 고 모든 메트릭에 대해 일부 요소를 사용할 수 있습니다.
+
 예를 들어, Net New 수익에서 $15만이 있는 개발 된 시장 파트너는 최대 10 개 지점의 절반 ($ 150000/$ 300000)을 얻게 됩니다.
 
 자세한 내용은 다음 표를 참조 하십시오.
 - [표 1. 고객 참여 임계값](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [표 2. 재무 및 작업 임계값](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [표 3. 함수형 컨설턴트 성장](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>표 1 고객 참여 임계값
 
@@ -114,7 +114,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | **만들어** | $300,000 | 10 | 10 | *\* 참고 참조* | 5 | 5 | 25% |
 | **개발과** | $15만 | 5  | 5  |*\* 참고 참조* | 2 | 1 | 25% |
 
-*\* 참고: 증가 대상은 기준 컨설턴트의 수에 따라 달라 집니다. 증가 목표는 [표 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 을 참조 하세요.*
+*\* 참고: 증가 대상은 기준 컨설턴트의 수와 파트너가 점수를 얻는 데 사용 하는 특정 옵션에 따라 다릅니다. 점이 나 각 옵션의 특정 증가 목표를 가져오는 옵션에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>표 2 재무 및 작업 임계값
 
@@ -125,19 +125,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | **만들어** | $300,000 | 3 | 15 | *\* 참고 참조* | 5  | 3 | 25% |
 | **개발과** | $15만 | 1 | 5 |*\* 참고 참조* | 2 | 1 | 25% |
 
-*\* 참고: 증가 대상은 기준 컨설턴트의 수에 따라 달라 집니다. 증가 목표는 [표 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 을 참조 하세요.*
-
-### <a name="table-3-functional-consultant-growth"></a>표 3 기능 컨설턴트 성장
-
->[!NOTE]
-> 다음 표에서는 점수를 획득 하는 데 필요한 함수형 컨설턴트 기준이 포함 된 **개발** 및 **개발** 열을 보여 줍니다. 기준 스냅숏 날짜는 2020 년 10 월 1 일에 수행 됩니다.
-
-
-| 만들어 | 개발과 | 15 개 점수를 모두 획득 하는 데 필요한 성장 *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30-49 | 15-24 | 25% |
-| 50 이상 | 25 이상 | 15% |
+*\* 참고: 증가 대상은 기준 컨설턴트의 수와 파트너가 점수를 얻는 데 사용 하는 특정 옵션에 따라 다릅니다. 점이 나 각 옵션의 특정 증가 목표를 가져오는 옵션에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI 메트릭에 대 한 자세한 정의
 
@@ -208,13 +196,30 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 - 함수형 컨설턴트는 고객 참여 기능 컨설턴트 인증 또는 재무 및 운영 기능 컨설턴트 인증과 같은 현재 활성 기능 컨설턴트가 인증을 연결 하는 개인의 수로 정의 됩니다.
 
-- 고객 관계 기능 컨설턴트 인증을 사용 하려면 해당 하는 개인 (mb-200) **및** 다음 중 하나 (mb-210, mb-220, mb-230, mb-240 또는 MB6-898) 중 하나를 사용 해야 합니다.
+- 고객 참여 기능 컨설턴트 인증을 사용 하려면 다음 개인이 필요 합니다.
+  - MB-200 \* 또는 PL-200<br/>
+  **그리고** 다음 시험 중 하나를 수행 합니다.
+  - MB-210, MB-220, MB-230, MB-240 또는 MB6-898 \* \* .
 
-- 재무 및 운영 기능 컨설턴트 인증을 사용 하려면 개인 (MB-300) **및** 다음 중 하나 (mb-310, mb-320, mb-330, MB6-897 또는 MB6-898) 중 하나를 사용 해야 합니다.
+- 재무 및 운영 기능 컨설턴트 인증을 사용 하려면 개인을 전달 해야 합니다.
+  - MB-300<br/>
+  **그리고** 다음 시험 중 하나를 수행 합니다.
+  - MB-310, MB-320, MB-330, MB-897 \* \* 또는 MB6-898 \* \* .
+
+> [!NOTE]
+> 별표 ()로 표시 된 시험 \* 은 곧 사용 중지 되거나 이후 달에 교체 됩니다. 특정 세부 정보는 아래를 참조 하세요.
+>
+> - 단일 별표 ()로 표시 된 시험 \* 은 2020 년 12 월 31 일에 사용이 중지 됩니다. 2020 년 12 월 31 일에 사용 중지 되는 시험은 사용이 중지 되기 전에 수행 되는 경우 2021 년 12 월 31 일까 지 attainment 및 갱신에 대 한 자격이 남아 있습니다.
+> - 두 개의 별표 ()로 표시 된 시험 \* \* 은 2021 년 1 월 31 일에 사용이 중지 됩니다. 2021 년 1 월 31 일에 사용 중지 된 시험은 사용이 중지 되기 전에 수행 된 경우 2022 년 1 월 31 일까 지 attainment 및 갱신에 대 한 자격이 남아 있습니다.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI 메트릭에 대 한 정의 #4 기능 컨설턴트 증가
 
-기능 컨설턴트 성장은 [이 문서의 앞부분에서 설명한](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)기능 표시기와 7 개의 주요 파트너 기여 지표 중 하나입니다. 다음은 함수형 컨설턴트의 성장 지표를 정의 하는 방법과이 범주의 점이 계산 되는 방법에 대 한 자세한 내용입니다.
+기능 컨설턴트 성장은 [이 문서의 앞부분에서 설명한](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)기능 표시기와 7 개의 주요 파트너 기여 지표 중 하나입니다. 파트너는이 메트릭에 사용할 수 있는 모든 요소 (15 개 또는 0 개)를 얻기 위한 두 가지 옵션 중 하나를 포함 합니다. 일부 점이 나타나지 않습니다. 
+
+다음은 함수형 컨설턴트의 성장 지표를 정의 하는 방법과이 범주의 점이 계산 되는 방법에 대 한 자세한 내용입니다.
+
+**하나는 요소를 가져오는 옵션입니다.**
 
 - 함수형 컨설턴트 증가는 기본 스냅숏 이후 연결 되는 인증 된 기능 컨설턴트 수의 증가에 따라 정의 됩니다. 기준 스냅숏 날짜는 2020 년 10 월 1 일에 수행 됩니다.
 
@@ -224,7 +229,19 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 - 점수를 받을 수 있으려면, 개발 된 시장 파트너를 위한 최소 **15** 개의 기능 컨설턴트와 기준 스냅숏을 만들 때 시장 파트너를 개발 하기 위해 **5** 개 이상의 기능을 사용 해야 합니다.
 
-- **일부 점이 나타나지 않습니다.** 기준 스냅숏 위에 있는 증가는 표 3에 표시 된 임계값을 충족 하거나 초과 해야 합니다 [. 함수형 컨설턴트 성장](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **일부 점이 나타나지 않습니다.** 기준 스냅숏 위에 있는 증가는 다음 표에 나와 있는 임계값을 충족 하거나 초과 해야 합니다. 이 표에서는 점수를 획득 하는 데 필요한 함수형 컨설턴트 기준이 포함 된 **개발** 및 **개발** 열을 보여 줍니다.
+
+  | 만들어 | 개발과 | 15 개 점수를 모두 획득 하는 데 필요한 성장 *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30-49 | 15-24 | 25% |
+  | 50 이상 | 25 이상 | 15% |
+
+**두 옵션은 요소를 가져옵니다.**
+
+- 개발 된 시장 파트너는 첫 번째 PCI 기반 CBA 기념일에 대해 50 이상의 기능 컨설턴트를 실시간으로 인증할 수 있습니다. 시장 파트너를 개발 하는 경우 첫 번째 PCI 기반 CBA 기념일에 대해 25 개 이상의 기능 컨설턴트를 실시간으로 인증할 수 있습니다.
+
+- 이 임계값에 도달 하면 해당 날짜 로부터 24 개월 동안의 기능 컨설턴트 성장을 위한 전체 15 개 점수를 받게 됩니다. 이는 실제로 두 개의 CBA 기념일에 대해 기능적 컨설턴트 성장을 위한 최대 점수를 얻는 것을 의미 합니다.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI 메트릭 #5에 대 한 정의-개발자
 
@@ -234,9 +251,21 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 - 개발자 표시기의 점수는 사용할 수 있는 최대 5 개의 점이 있는 현재 월 스냅숏을 기반으로 합니다.
 
-- 고객 참여 개발자는 MB-200 및 다음 중 하나 (MB-400 또는 MB2)-716) 중 하나를 통과 **하** 는 경우 크레딧을 받을 수 있습니다.
+- 고객 참여 개발자는 다음을 전달할 때 크레딧을 얻습니다.
+  - PL-400<br/>**or**
+  - MB-200 \* **및** 다음 시험 중 하나:
+    - MB-400 \* 또는 mb2)-716\*\*
 
-- 재무 및 운영 개발자는 MB-300 **및** 다음 중 하나 (mb-500 또는 MB6-894) 중 하나를 전달할 때 크레딧을 받습니다.
+- 재무 및 운영 개발자는 다음을 전달할 때 크레딧을 얻습니다.
+  - MB-300<br/>
+  **그리고** 다음 시험 중 하나를 수행 합니다.
+  - MB-500 또는 MB-894\*\*
+
+> [!NOTE]
+> 별표 ()로 표시 된 시험 \* 은 곧 사용 중지 되거나 이후 달에 교체 됩니다. 특정 세부 정보는 아래를 참조 하세요.
+>
+> - 단일 별표 ()로 표시 된 시험 \* 은 2020 년 12 월 31 일에 사용이 중지 됩니다. 2020 년 12 월 31 일에 사용 중지 되는 시험은 사용이 중지 되기 전에 수행 되는 경우 2021 년 12 월 31 일까 지 attainment 및 갱신에 대 한 자격이 남아 있습니다.
+> - 두 개의 별표 ()로 표시 된 시험 \* \* 은 2021 년 1 월 31 일에 사용이 중지 됩니다. 2021 년 1 월 31 일에 사용 중지 된 시험은 사용이 중지 되기 전에 수행 된 경우 2022 년 1 월 31 일까 지 attainment 및 갱신에 대 한 자격이 남아 있습니다.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI 메트릭에 대 한 정의 #6-새로운 대량 배포
 
@@ -252,7 +281,7 @@ Net customer 추가는 [이 문서 앞부분에서 설명](partner-contribution-
 
 - 테 넌 트가 다음과 같은 경우 월별 활성 사용자 임계값을 초과 하는 것으로 간주 됩니다. 
 
-  - 지정 된 임계값 보다 12 개월 전 *and*
+  - 지정 된 임계값 보다 12 개월 전 
   - 이후 11 개월 동안 한 번 이상 임계값을 초과 했습니다.
 
 - 월간 활성 사용자는 테 넌 트 수준에서 계산 되 고 테 넌 트의 유료 구독에 대해서만 합산 됩니다.
