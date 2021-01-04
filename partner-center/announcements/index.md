@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622187"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666743"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,11 @@ ms.locfileid: "97622187"
 
 | **범주** | **2020년 12월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[CSP의 영구 라이선스 소프트웨어:  새 제품 및 지역](2020-december.md#10)|12월 17일|
+|비즈니스 확장|[정부, 교육 및 비영리: 오픈 라이선스 프로그램 변경 내용 및 CSP 진화 계속](2020-december.md#9)|12월 17일|
+|제품/시장|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2020-december.md#8)|12월 17일|
+|비즈니스 확장|[미리 알림: 2021년 1월에 광범위하게 제공되는 CSP(클라우드 솔루션 공급자) 프로그램의 영구 라이선스 소프트웨어](2020-december.md#7)|12월 17일|
+|기능|[온라인 서비스 및 소프트웨어 채널 권한 부여 가이드](2020-december.md#6)|12월 17일|
 |제품/시장|[이제 Power Apps 프로모션 제품 이용 가능](2020-december.md#5)|12월 16일|
 |기능|[.NET Standard(v1.16.3)의 SDK 릴리스](2020-december.md#4)|12월 8일|
 |제품/시장|[2020년 12월 라이선스 기반 가격 목록 릴리스 정보](2020-december.md#3)|12월 8일|
