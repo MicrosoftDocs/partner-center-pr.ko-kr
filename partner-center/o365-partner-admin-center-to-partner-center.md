@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114584"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720818"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 파트너-비즈니스 작업을 파트너 센터로 이동할 준비
 
@@ -36,9 +36,7 @@ Microsoft는 비즈니스 수명 주기 동안 고객을 관리 하는 데 도�
 - 귀사와 귀사의 공급자를 모두 대신하여 고객에게 관계 초대장을 보낼 수 있습니다.
 - 보다 쉽게 개별 사용자를 관리하고 라이선스를 할당할 수 있습니다.
 
-현재 Office 365 파트너 관리 센터를 사용 중인 작업의 상당수에 바로 파트너 센터를 사용할 수 있습니다. 
-
-지금은 두 사이트가 지원 되므로 새 사이트로 전환 하는 동안 여전히 Office 365 파트너 관리 센터를 사용할 수 있습니다. 한 곳에서 변경한 사항은 두 곳에 모두 표시됩니다.
+에서 현재 Office 365 파트너 관리 센터를 사용 하는 모든 작업에 대해 파트너 센터로 즉시 리디렉션됩니다.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>파트너 센터에서 Office 365 파트너 관리 센터 기능 찾기
 
@@ -46,9 +44,9 @@ Microsoft는 비즈니스 수명 주기 동안 고객을 관리 하는 데 도�
 
 | Office 365 파트너 관리 센터 기능                       | 파트너 센터에서의 위치 | 
 |   -----------------------------------------------  | -------------- |
-| 비즈니스 빌드: 구매 제안 만들기 | 공급자와 협력하여 고객에게 제품 판매 |
+| 비즈니스 빌드: 구매 제안 만들기 | 파트너 센터: 구매 제안 > 구매 제안 만들기 |
 | 비즈니스 빌드: 위임 된 관리자 권한 요청 | 파트너 센터: 고객 > 대리점 관계 요청 |
-| 비즈니스 빌드: 평가판 초대 만들기 | 사용할 수 없습니다. 이 기능에는 Office 365 파트너 관리 센터를 계속 사용할 수 있음 |
+| 비즈니스 빌드: 평가판 초대 만들기 | 파트너 센터: 평가판 초대를 만들 > 평가판 및 구매 제안 |
 | 서비스 요청: 클라이언트 목록: Office 365 관리 센터 | 파트너 센터: 고객 > 서비스 관리 |
 | 서비스 요청: 클라이언트 목록: 서비스 요청 | 파트너 센터: 서비스 요청 > 고객 요청 |
 | 서비스 요청: 플래그 지정 | 대시보드: 고객: 회사 이름 옆의 별표를 선택 합니다. |

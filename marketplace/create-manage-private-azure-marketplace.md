@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
-ms.date: 09/18/2020
-ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 12/22/2020
+ms.openlocfilehash: 09f7bcb29dc619e4e31c0aa3d5c73fade5218819
+ms.sourcegitcommit: 30d154cdf40aa75400be7805cd9b2685b66a1382
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439257"
+ms.lasthandoff: 12/24/2020
+ms.locfileid: "97760829"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 합니다.
 
@@ -38,7 +38,25 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 - **전역 관리자** 사용자에 대 한 액세스 권한이 있습니다.
 - 테 넌 트에 구독이 하나 이상 있습니다 (모든 형식일 수 있음).
 - 전역 관리자 사용자에 게 선택한 구독에 대 한 **참가자** 역할 이상이 할당 됩니다.
-- 전역 관리자의 액세스 권한이 **예** 로 설정 되어 있습니다. [모든 Azure 구독 및 관리 그룹을 관리 하려면 액세스 권한 상승을](/azure/role-based-access-control/elevate-access-global-admin)참조 하세요.
+
+### <a name="assign-the-marketplace-admin-role-with-iam"></a>IAM을 사용 하 여 Marketplace 관리자 역할 할당
+
+1. [Azure Portal](https://portal.azure.com/)에 로그인합니다.
+1. **모든 서비스** 를 선택한 다음 **Marketplace** 를 선택 합니다.
+
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="주 창을 Azure Portal 합니다.":::
+
+3. 왼쪽의 옵션에서 **비공개 Marketplace** 를 선택 합니다.
+1. **액세스 제어 (IAM)** 를 선택 하 여 Marketplace 관리자 역할을 할당 합니다.
+
+    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="IAM 액세스 제어 화면":::
+
+1. **추가** > **역할 할당 추가** 를 선택합니다.
+1. **역할** 아래에서 **Marketplace 관리자** 를 선택 합니다.
+
+    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="역할 할당 메뉴.":::
+
+1. 드롭다운 목록에서 원하는 사용자를 선택한 다음 **완료** 를 선택 합니다.
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>PowerShell을 사용 하 여 Marketplace 관리자 역할 할당
 
@@ -53,74 +71,83 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 > 테 넌 트에 초대 된 게스트 사용자의 경우 Marketplace 관리자 역할을 할당 하는 데 해당 계정을 사용할 수 있을 때까지 최대 48 시간이 걸릴 수 있습니다. 자세한 내용은 [AZURE ACTIVE DIRECTORY B2B 공동 작업 사용자의 속성](/azure/active-directory/b2b/user-properties)을 참조 하세요.
 
 ```PowerShell
-function Assign-MarketplaceAdminRole {
-[CmdletBinding()]
-param(
-[Parameter(Mandatory)]
-[string]$TenantId,
+function Assign-MarketplaceAdminRole { 
+[CmdletBinding()] 
+param( 
+[Parameter(Mandatory)] 
+[string]$TenantId, 
+ 
+[Parameter(Mandatory)] 
+[string]$SubscriptionId, 
 
-[Parameter(Mandatory)]
-[string]$SubscriptionId,
+ 
 
-[Parameter(Mandatory)]
-[string]$GlobalAdminUsername,
+[Parameter(Mandatory)] 
+[string]$GlobalAdminUsername, 
 
-[Parameter(Mandatory)]
-[string]$UsernameToAssignRoleFor
-)
+ 
 
-$MarketplaceAdminRoleDefinitionName = "Marketplace Admin"
+[Parameter(Mandatory)] 
+[string]$UsernameToAssignRoleFor 
+) 
 
-Write-Output "TenantId = $TenantId"
-Write-Output "SubscriptionId = $SubscriptionId"
-Write-Output "GlobalAdminUsername = $GlobalAdminUsername"
-Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor"
+$MarketplaceAdminRoleDefinitionName = "Marketplace Admin" 
 
-Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)"
+ 
+
+Write-Output "TenantId = $TenantId" 
+Write-Output "SubscriptionId = $SubscriptionId" 
+Write-Output "GlobalAdminUsername = $GlobalAdminUsername" 
+Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor" 
+
+ 
+
+Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)" 
+
+ 
 
 $profile = Connect-AzAccount -Tenant $TenantId -SubscriptionId $SubscriptionId
 
-if($profile -eq $null)
-{
-Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop
-}
-elseif($profile.Context.Account.Id -ne $GlobalAdminUsername)
-{
-Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)"
-}
-else
-{
-Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)"
-}
+ 
 
-$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName
+ 
+if($profile -eq $null) 
+{ 
+Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop 
+} 
+elseif($profile.Context.Account.Id -ne $GlobalAdminUsername) 
+{ 
+Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)" 
+} 
+else 
+{ 
+Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)" 
+} 
 
-if($MarketPlaceAdminRole -eq $null)
-{
-Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop
-}
-else
-{
-Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available"
-}
+ 
 
-Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-$elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
+$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
 
-if($elevatedAccessOnRoot.Count -eq 0)
-{
-Write-Error -Message "$($GlobalAdminUsername) doesn't have permissions to assign '$($MarketplaceAdminRoleDefinitionName)'. Please verify it has elevated access 'On' in portal, https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin" -ErrorAction Stop
-}
-else
-{
-Write-Output "$GlobalAdminUsername has elevated access on root"
-}
+ 
 
-New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
+if($MarketPlaceAdminRole -eq $null) 
+{ 
+Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop 
+} 
+else 
+{ 
+Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available" 
+} 
 
-}
+ 
 
-Assign-MarketplaceAdminRole
+Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..." 
+
+New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace" 
+
+} 
+
+Assign-MarketplaceAdminRole 
 ```
 
 Az. Portal PowerShell 모듈에 포함 된 cmdlet에 대 한 자세한 내용은 [Microsoft Azure PowerShell: 포털 대시보드 cmdlet](/powershell/module/az.portal/)을 참조 하세요.
@@ -191,8 +218,8 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
 필요에 따라 개인 Azure Marketplace를 사용 하거나 사용 하지 않도록 설정할 수 있습니다.
 
-1. 사용 하지 않도록 설정 된 경우 **개인 Marketplace** 사용을 선택 합니다.
-2. 사용 하도록 설정 된 경우 **개인 Marketplace** 사용 안 함을 선택 합니다.
+- 사용 하지 않도록 설정 된 경우 **개인 Marketplace** 사용을 선택 합니다.
+- 사용 하도록 설정 된 경우 **개인 Marketplace** 사용 안 함을 선택 합니다.
 
 ## <a name="browsing-private-azure-marketplace"></a>비공개 Azure Marketplace 찾아보기
 
@@ -219,8 +246,8 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
 - 제품 계획 선택이 제품 정보 페이지에 표시 되지 않지만 관리자가 하나 이상의 계획을 승인한 경우 배너에는 허용 되는 계획과 **만들기** 단추가 활성화 됩니다.
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="계획을 만들고 사용 가능한 계획을 표시할 수 있는 제품 배너입니다.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="계획을 만들고 사용 가능한 계획을 표시할 수 있음을 나타내는 배너를 제공 합니다.":::
 
-## <a name="contact-support"></a>기술 지원 서비스에 문의하십시오.
+## <a name="contact-support"></a>지원에 문의
 
 Azure Marketplace 지원이 필요한 경우 [Microsoft Q&A](/answers/products/)를 참조 하세요. 

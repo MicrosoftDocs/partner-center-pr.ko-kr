@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433350"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893209"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>고객의 Azure 계획 구독을 다른 파트너에 게 전송
 
@@ -49,7 +49,7 @@ ms.locfileid: "94433350"
 
 - 고객은 자신의 의도에 따라 현재 CSP 파트너를 전환 합니다.
 - 향후 CSP 파트너는 고객과 협력 하 여 고객의 요구 사항을 충족할 수 있는지 확인 합니다.
-- 이후 CSP 파트너가 전환 시작 전에 고객과의 관계를 설정 합니다.  
+- 이후 CSP 파트너는 고객과의 관계를 설정 하 고 전환을 시작 하기 전에 Azure 계획을 구입 합니다.  
 - 고객이 향후 CSP 파트너와 Microsoft 고객 계약에 서명 해야 합니다.
 - 이 도구를 사용 하려면 향후 CSP 파트너가 Microsoft 파트너 계약에 서명 해야 합니다.
 

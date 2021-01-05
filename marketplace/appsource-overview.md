@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007398"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771695"
 ---
-# <a name="what-is-microsoft-appsource"></a>Microsoft AppSource 이란?
+# <a name="what-is-microsoft-appsource"></a>Microsoft AppSource란?
 
 Microsoft AppSource은 업계 최고의 소프트웨어 공급자에 의해 빌드된 수천 개의 비즈니스 응용 프로그램 및 서비스를 포함 하는 온라인 스토어입니다. AppSource를 사용 하 여 비즈니스를 실행 하는 데 도움이 되는 비즈니스 소프트웨어 및 서비스를 찾고, 시도 하 고, 구입 하 고 배포할 수 있습니다.
 
-AppSource 카탈로그는 SaaS (software as a service) 응용 프로그램, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps 및 Microsoft 파트너의 컨설팅 서비스를 위해 빌드된 솔루션을 포함 합니다. 에서 AppSource 제품 카탈로그 뿐만 아니라 [https://appsource.microsoft.com](https://appsource.microsoft.com) Microsoft 365, Dynamics 365 및 Microsoft Power Platform의 제품 내 환경을 통해서도 액세스할 수 있습니다. AppSource의 솔루션도 클라우드 솔루션 공급자 프로그램의 Microsoft 대리점에서 제공 될 수도 있습니다.
+AppSource 카탈로그는 SaaS (software as a service) 응용 프로그램, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps 및 Microsoft 파트너의 컨설팅 서비스를 위해 빌드된 솔루션을 포함 합니다. [https://appsource.microsoft.com](https://appsource.microsoft.com)Microsoft 365, Dynamics 365 및 Microsoft Power Platform의 제품 내 환경을 통해 또는에서 AppSource 제품 카탈로그에 액세스 합니다. AppSource의 솔루션도 클라우드 솔루션 공급자 프로그램의 Microsoft 대리점에서 제공 될 수도 있습니다.
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource에 필요한 항목 찾기
 
@@ -44,7 +44,11 @@ AppSource에서 사용할 수 있는 모든 제품은 특정 조건에 따라 �
 
 ## <a name="terms-and-conditions"></a>사용 약관
 
-소프트웨어 공급 업체는 가격, 최종 사용자 사용권 계약 및 개인 정보 취급 방침을 정의 합니다. AppSource의 모든 제품은 게시자의 사용권 계약 및 개인 정보 취급 방침에 대 한 링크를 포함 합니다. 이러한 계약을 승인 하 고 해당 계약을 볼 수 있는 기회는 구매 흐름의 일부입니다. 자세한 내용은 [법적 계약](legal-contracts.md) 을 참조 하세요.
+소프트웨어 공급 업체는 가격, 최종 사용자 사용권 계약 및 개인 정보 취급 방침을 정의 합니다. AppSource의 모든 제품은 게시자의 사용권 계약 및 개인 정보 취급 방침에 대 한 링크를 포함 합니다. 이러한 계약을 보고 승인 하는 것은 구매 흐름의 일부입니다. 자세한 내용은 [법적 계약](legal-contracts.md)을 참조 하세요.
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS 및 M365 통합 앱 검색
+
+파트너는 SaaS 및 M365 통합 앱 간에 연결할 수 있습니다. 그러면 연결 된 SaaS 앱을 가져올 때 통합 된 앱을 다운로드 하 여 사용할 수 있습니다. 이 경우 검색 결과는 함께 제공 되는 통합 앱의 아이콘을 보여 주는 SaaS 앱만 반환할 수 있습니다. 각의 제품 세부 정보 페이지에서 SaaS 앱과 통합 앱 간을 탐색할 수 있습니다. SaaS 앱을 구매 해야 하는 경우 [Microsoft AppSource에서 saas 제품을 구매 하는 방법](purchase-software-appsource.md)을 참조 하세요.
 
 ## <a name="find-ratings-and-reviews"></a>등급 및 리뷰 찾기
 
@@ -52,4 +56,4 @@ AppSource에서 사용할 수 있는 모든 제품은 특정 조건에 따라 �
 
 ## <a name="next-steps"></a>다음 단계
 
-- [Microsoft AppSource에서 소프트웨어 구입](purchase-software-appsource.md)
+- [Microsoft AppSource에서 소프트웨어 구매](purchase-software-appsource.md)

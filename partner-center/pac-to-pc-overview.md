@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174904"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720835"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 관리 센터가 파트너 센터로 이동
 
@@ -41,13 +41,10 @@ Microsoft는 파트너 센터를 Microsoft와 고객과 파트너 관계를 관�
 
 - 클라우드 솔루션 공급자 파트너: CSP 파트너 인 경우 2018 년 4 월부터 파트너 센터로 자동으로 리디렉션됩니다.
 
-- Advisor 파트너 (CSP를 통해 거래 하지 않고 PAC를 사용 하 여 고객에 게 평가판/견적을 제공 하는 경우): 파트너 센터에 자동으로 리디렉션하는 시간 표시 막대를 결정 하는 즉시 여기에서 발표 합니다.
+- Advisor 파트너 (CSP를 통해 거래 하지 않고 PAC를 사용 하 여 고객에 게 평가판/견적을 제공 하는 경우): Advisor 파트너인 경우 2020 6 월부터 시작 하는 파트너 센터로 자동으로 리디렉션됩니다.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>지금 Microsoft 파트너 센터 사용을 시작 하세요!
 
 지금 [Microsoft 파트너 센터](https://partnercenter.microsoft.com/) 를 사용 하 여 PAC에서 이동할 준비를 시작 하세요.  PAC에 사용 하는 파트너 센터에 동일한 자격 증명을 사용 합니다.
 
-> [!IMPORTANT]  
-> PAC에서 사용할 수 있는 일부 기능 및 기능은 파트너 센터에서 사용할 수 없습니다.
-
- 이러한 변경 내용을 이해 하 고 숙지 하려면 병렬 [비교](moving-from-pac-to-pc.md) 를 읽어 보세요. 
+이러한 변경 내용을 이해 하 고 숙지 하려면 병렬 [비교](moving-from-pac-to-pc.md) 를 읽어 보세요.
