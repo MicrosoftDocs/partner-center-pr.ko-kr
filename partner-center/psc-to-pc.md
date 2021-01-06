@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916850"
+ms.locfileid: "97950589"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -321,7 +321,7 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 - 파트너 센터의 게스트 사용자- @microsoft.com 거래 센터에서 PDM 계정을 게스트 사용자로 추가 하 고 조회를 보고 작업을 수행할 수 있도록 해당 사용자에 게 조회 관리자 역할을 할당할 수 있습니다.
 - 테 넌 트에 [새 사용자](./create-user-accounts-and-set-permissions.md#add-a-new-user) 만들기-사용자의 테 넌 트에 새 사용자를 만들고 해당 세부 정보를 PDM과 공유 하 여 계정의 다른 참조 사용자와 비슷한 조회를 보고 작업할 수 있습니다.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>PSC의 계정이 잘못 된 MPN와 연결 되지 않은 경우 올바른 MPN ID 찾기
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>PSC의 계정이 유효한 MPN와 연결 되지 않은 경우 올바른 MPN ID 찾기
 
 여기에 있는 경우 ' PSC 잘못 된 MPN ID 연결 문제 '를 언급 하는에 대 한 배너를 확인 했으므로 올바른 위치에 있습니다.
 
