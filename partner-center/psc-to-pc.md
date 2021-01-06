@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776913"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916850"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -320,6 +320,20 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 - OCP 정보-사용자가 관련 된 거래 및 진행 상황을 확인 하는 경우에는 OCP Insights 포털을 사용 하 여 조직 보기를 가져올 수 있습니다. 이는 내부 도구 이며,이 도구는 사용 가능한 경우에만 사용할 수 있습니다. 회사 사용자에 게는 OCP insights를 사용할 수 없습니다.
 - 파트너 센터의 게스트 사용자- @microsoft.com 거래 센터에서 PDM 계정을 게스트 사용자로 추가 하 고 조회를 보고 작업을 수행할 수 있도록 해당 사용자에 게 조회 관리자 역할을 할당할 수 있습니다.
 - 테 넌 트에 [새 사용자](./create-user-accounts-and-set-permissions.md#add-a-new-user) 만들기-사용자의 테 넌 트에 새 사용자를 만들고 해당 세부 정보를 PDM과 공유 하 여 계정의 다른 참조 사용자와 비슷한 조회를 보고 작업할 수 있습니다.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>PSC의 계정이 잘못 된 MPN와 연결 되지 않은 경우 올바른 MPN ID 찾기
+
+여기에 있는 경우 ' PSC 잘못 된 MPN ID 연결 문제 '를 언급 하는에 대 한 배너를 확인 했으므로 올바른 위치에 있습니다.
+
+먼저 아래 단계에 따라 올바른 MPN ID를 찾습니다.
+
+- 파트너 센터 계정에 로그인 합니다.
+- [계정 설정 설명서](./partner-center-account-setup.md#locate-your-mpn-id) 에 제공 된 지침을 사용 하 여 MPN ID를 찾습니다.
+
+다음으로,
+
+- PDM이 있는 경우 파트너 센터 계정의 올바른 MPN ID로 수정 된 MPN ID를 가져오도록 요청 하세요.
+- PDM이 없으면 psc 배너에 표시 된 PSC 계정 정보와 파트너 센터 계정에서 올바른 MPN ID를 모두 사용 하 여 PSC 배너에 지정 된 주소로 전자 메일을 보냅니다.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>파트너 센터에서 거래를 만들고 관리 하는 데 도움이 되는 리소스
 
