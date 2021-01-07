@@ -1,19 +1,19 @@
 ---
 title: Salesforce CRM 파트너 센터에 대 한 공동 판매 커넥터
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 조회를 Salesforce CRM과 동기화 합니다. 그런 다음 판매자는 CRM 시스템 내에서 Microsoft와 공동 판매할 수 있습니다.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947854"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960954"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
@@ -51,7 +51,7 @@ ms.locfileid: "94947854"
 
 3. Salesforce에서 아래 패키지 설치 관리자를 사용 하 여 사용자 지정 필드 및 개체를 설치 합니다.
   
-회사에 패키지를 설치 하려면 [여기](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) 로 이동 하세요.
+회사에 패키지를 설치 하려면 [여기](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) 로 이동 하세요.
 
 
 참고: sandbox에를 설치 하는 경우 URL의 초기 부분을 다음으로 바꾸어야 합니다. http://test.salesforce.com
@@ -179,7 +179,7 @@ ms.locfileid: "94947854"
 
 9. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속** 을 클릭 합니다.
 
-10. 다음 세부 정보를 입력합니다.
+10. 다음 세부 정보를 입력하세요.
 
     1. **Http 트리거 끝점**: 이전 단계에서 복사한 URL
 
