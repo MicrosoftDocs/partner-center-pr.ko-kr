@@ -301,6 +301,9 @@
         - name: 인센티브 협업 클레임
           href: claims-overview.md
           displayName: incentives
+        - name: 사용 가능한 협업 펀드 보기
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: 협업 클레임 관리
           href: create-incentives-claims.md
           displayName: incentives

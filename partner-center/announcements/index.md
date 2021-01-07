@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666743"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736545"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,7 +22,10 @@ ms.locfileid: "97666743"
 
 | **범주** | **2020년 12월 공지** | **발표** |
 |---------|:---------|:---------|
-|제품/시장|[CSP의 영구 라이선스 소프트웨어:  새 제품 및 지역](2020-december.md#10)|12월 17일|
+|제품|[FY21 H1 사용 기간에 사용하지 않은 채널 인센티브 협업 마케팅 기금(co) 자금은 H2 사용 기간으로 이월됨](2020-december.md#13)|12월 22일|
+|기능|[MPA(Microsoft 파트너 계약)를 체결한 파트너를 위해 DocuSign을 Adobe Sign in 2021로 마이그레이션](2020-december.md#12)|12월 22일|
+|제품/시장|[2021년 1월 가격 책정 및 카탈로그 일정](2020-december.md#11)|12월 22일|
+|기능|[Internet Explorer 11 및 Microsoft Edge 레거시 알림에 대한 Microsoft 365 앱 및 서비스 지원](2020-december.md#10)|12월 21일|
 |비즈니스 확장|[정부, 교육 및 비영리: 오픈 라이선스 프로그램 변경 내용 및 CSP 진화 계속](2020-december.md#9)|12월 17일|
 |제품/시장|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2020-december.md#8)|12월 17일|
 |비즈니스 확장|[미리 알림: 2021년 1월에 광범위하게 제공되는 CSP(클라우드 솔루션 공급자) 프로그램의 영구 라이선스 소프트웨어](2020-december.md#7)|12월 17일|
