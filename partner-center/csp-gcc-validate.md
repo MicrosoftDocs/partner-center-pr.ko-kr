@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114379"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979640"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 CSP 용 정부 GCC 파트너 및 고객 자격 기준-파트너 센터
-
-**적용 대상**
-
-- 파트너 센터
-- CSP 파트너
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 CSP 파트너 및 고객 자격 조건에 대 한 정부 GCC 
 
 **적절한 역할**
 
@@ -32,7 +27,7 @@ ms.locfileid: "87114379"
 >[!NOTE]
 >아래에 설명 된 유효성 검사 프로세스 및 기준은 직접 청구 파트너와 관련이 있습니다. 직접 청구 파트너에 게는 직접 대리점 및 간접 공급자가 포함 됩니다.  간접 재판매인 인 경우 간접 공급자와 함께 작업 하세요.
 
-조직 (또는 고객의 조직)이 CSP 용 Office 365 정부 GCC에 대해 승인 되도록 하려면 아래 요구 사항을 검토 하세요.
+회사 (또는 고객의 회사)에 게 Office 365 정부 GCC for CSP를 승인 하는 데 관심이 있는 경우 아래 요구 사항을 검토 하세요.
 
 미국 연방, 주, 지방 또는 부족 정부 기관 서비스를 제공 하는 파트너인 경우 승인 될 수 있습니다. 조직의 자격을 검증 하려면 [여기](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)에 있는 간단한 양식을 작성 하세요.
 
@@ -49,7 +44,7 @@ CSP 파트너 및 고객을 위한 Office 365 정부 GCC는 아래에 설명 된
 2.  GSA 또는 기타 계약 차량을 통해 미국 정부 고객에 게 제공
 
 **고객 기준**
-1.  정부 용량의 미국 정부 기관 예를 들어:
+1.  정부 용량의 미국 정부 기관 다음은 그 예입니다. 
  
     -  연방 기관 (예: 기관, 기관, 부서 또는 미국 정부의 기타 엔터티)
     -   상태/로컬 엔터티 
@@ -68,3 +63,6 @@ CSP 파트너 및 고객을 위한 Office 365 정부 GCC는 아래에 설명 된
 
 국제 상용 엔터티는 위에서 언급 한 요구 사항을 충족 하 고 미국 서 면 (예: 우편 주소, 물리적 위치 등)을 확인 하는 경우 자격이 있을 수 있습니다.
 
+## <a name="next-steps"></a>다음 단계
+
+- [자격을 갖춘 고객에 게 CSP 구독을 위한 Office 365 정부 GCC 판매](csp-gcc-overview.md)

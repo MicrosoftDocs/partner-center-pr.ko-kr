@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000427"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979535"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터에서 상업용 마켓플레이스 제품 및 구독에 대 한 청구
 
-**적용 대상**
-
-- 파트너 센터
-- CSP 프로그램의 파트너
 
 **적절한 역할**
 
@@ -35,7 +31,7 @@ CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 상업적
 CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의 이전 CSP 구매한 Azure 테 넌 트를 사용 하 여)에서 해당 제품을 구매할 때 고객이 구매한 ISV 상용 marketplace 솔루션에 대 한 요금이 청구 됩니다.
 
 >[!NOTE]
->고객이 자신의 Azure AD 테 넌 트를 사용 하는 경우 (CSP 프로그램에서 파트너 로부터 구매한 것이 아닌 경우), 고객은 ([Microsoft AppSource](https://appsource.microsoft.com/) 또는 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 직접 자체 ISV SaaS 솔루션을 구매할 수도 있습니다. 이러한 작업을 수행 하는 경우 Microsoft에서 직접 자신의 청구서를 받게 됩니다. 마찬가지로, CSP 프로그램의 파트너가 Azure 구독 또는 새 Azure 계획을 고객에 게 판매 하 고 해당 테 넌 트에 대해 고객 (또는 간접 재판매인)의 [역할 기반 액세스](/azure/role-based-access-control/built-in-roles) 권한을 부여 하는 경우 (또는 간접 **재판매인)는**csp 파트너에 게 사전 승인 또는 알림 없이 상업적 마켓플레이스 제품을 구매할 수도 있습니다. 이러한 경우 Microsoft는 CSP 프로그램에서 고객의 구매에 대 한 파트너에 게 직접 알리지 않습니다. 그러나 Microsoft는 Azure 구독에 대 한 작업에 대 한 알림 또는 알림을 설정 하는 데 사용할 수 있는 선택적 [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) 메커니즘을 제공 합니다.
+>고객이 자신의 Azure AD 테 넌 트를 사용 하는 경우 (CSP 프로그램에서 파트너 로부터 구매한 것이 아닌 경우), 고객은 ([Microsoft AppSource](https://appsource.microsoft.com/) 또는 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 직접 자체 ISV SaaS 솔루션을 구매할 수도 있습니다. 이러한 작업을 수행 하는 경우 Microsoft에서 직접 자신의 청구서를 받게 됩니다. 마찬가지로, CSP 프로그램의 파트너가 Azure 구독 또는 새 Azure 계획을 고객에 게 판매 하 고 해당 테 넌 트에 대해 고객 (또는 간접 재판매인)의 [역할 기반 액세스](/azure/role-based-access-control/built-in-roles) 권한을 부여 하는 경우 (또는 간접 **재판매인)는** csp 파트너에 게 사전 승인 또는 알림 없이 상업적 마켓플레이스 제품을 구매할 수도 있습니다. 이러한 경우 Microsoft는 CSP 프로그램에서 고객의 구매에 대 한 파트너에 게 직접 알리지 않습니다. 그러나 Microsoft는 Azure 구독에 대 한 작업에 대 한 알림 또는 알림을 설정 하는 데 사용할 수 있는 선택적 [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) 메커니즘을 제공 합니다.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>상용 marketplace 제품에 대 한 청구 정보 액세스
 
@@ -43,9 +39,9 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. 파트너 센터 메뉴에서 **청구**를 선택합니다. 
+2. 파트너 센터 메뉴에서 **청구** 를 선택합니다. 
 
-    청구 페이지의 맨 위에 **되풀이** 및 **되풀이 및 일회성 구매**라는 두 개의 탭이 표시 됩니다. 각 탭에서 여러 marketplace 제품에 대 한 정찰 (청구서 및 조정) 파일에 액세스할 수 있습니다.
+    청구 페이지의 맨 위에 **되풀이** 및 **되풀이 및 일회성 구매** 라는 두 개의 탭이 표시 됩니다. 각 탭에서 여러 marketplace 제품에 대 한 정찰 (청구서 및 조정) 파일에 액세스할 수 있습니다.
 
     - **되풀이** 탭: Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI Pro 및 Microsoft Azure 관련 된 구독의 청구서 및 조정 파일을 표시 합니다.
 
@@ -53,7 +49,7 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
   
 3. **되풀이 및 일회성 구매** 탭을 선택 합니다. 다른 통화로 고객에 대 한 구독을 구매한 경우 각 통화에 대 한 탭이 표시 됩니다. 이 페이지에서는 다음과 같은 몇 가지 작업을 수행할 수 있습니다.
 
-    - 최신 청구서 및 조정 파일을 보려면 **청구서** 또는 **조정 파일**을 선택 합니다. 원할 경우 [파트너 센터 api](/partner-center/develop/)를 사용 하 여 최신 청구서 및 정찰 파일 데이터에 액세스할 수도 있습니다.
+    - 최신 청구서 및 조정 파일을 보려면 **청구서** 또는 **조정 파일** 을 선택 합니다. 원할 경우 [파트너 센터 api](/partner-center/develop/)를 사용 하 여 최신 청구서 및 정찰 파일 데이터에 액세스할 수도 있습니다.
 
     - 이전 청구서 및 정찰 파일을 보려면 아래 **청구 기록** 행을 확장 하십시오.
 

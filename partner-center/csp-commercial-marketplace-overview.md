@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038832"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979450"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>파트너 센터의 상업용 Marketplace 개요
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
-- CSP 프로그램의 파트너
+- 글로벌 관리자
 
 CSP (클라우드 솔루션 공급자) 프로그램에서 파트너가 되 면 타사의 Isv (독립 소프트웨어 공급 업체)에서 게시 된 솔루션과 함께 Microsoft 제품을 번들로 묶어 판매할 수 있습니다. 이러한 방식으로 솔루션을 번들로 제공 하면 최종 고객에 게 더 나은 서비스를 제공 하 고 CSP 서비스 비즈니스를 확장할 수 있습니다.
 

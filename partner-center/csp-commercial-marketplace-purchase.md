@@ -1,6 +1,6 @@
 ---
 title: 상업적 marketplace 제품 구매
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8eb2faec7c2ddd70ed0cacedebf4f9824441a7a
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038861"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979719"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>파트너 센터에서 고객을 위한 상용 마켓플레이스 제품 구매
 
-**적용 대상**
-
-- 파트너 센터
-- CSP 프로그램의 파트너
 
 **적절한 역할**
 

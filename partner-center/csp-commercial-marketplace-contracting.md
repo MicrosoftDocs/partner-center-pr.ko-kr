@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435152"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979657"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>상업적 marketplace에서 업무를 수행 하는 CSP 파트너에 대 한 계약
 
-**적용 대상**
-
-- 파트너 센터
-- CSP 프로그램의 파트너
 
 **적절한 역할**
 
 - 글로벌 관리자
 - 관리 에이전트
 
-이 섹션은 파트너 센터 상업적 marketplace 또는 Azure Portal에서 고객을 위해 ISV marketplace 제품 또는 제품을 구매 하기로 선택한 CSP 프로그램의 파트너 계약과 관련이 있습니다.
+이 문서는 파트너 센터 상업적 marketplace 또는 Azure Portal에서 고객을 위해 ISV marketplace 제품 또는 제품을 구매 하기로 선택 하는 CSP 프로그램의 파트너 계약에 대 한 것입니다.
 
 [Csp 프로그램 가이드](https://go.microsoft.com/fwlink/p/?LinkId=617100) 는 csp 프로그램에서 Microsoft와 파트너 간의 상업적 marketplace 제품을 관리 하는 사용 약관을 포함 합니다. CSP 파트너는 이러한 사용 약관을 검토 하 여 프로그램 내에서 준수 상태를 준수 하는지 확인 해야 합니다.  
 

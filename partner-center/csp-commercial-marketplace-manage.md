@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000517"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979679"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 및 제품 관리
 
-**적용 대상**
-
-- 파트너 센터
-- CSP 프로그램의 파트너
 
 **적절한 역할**
 
@@ -36,7 +32,7 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음 왼쪽 탐색 메뉴에서 **고객** 을 선택 합니다.
 
-2. 적절 한 고객을 선택한 다음 **구독**을 선택 합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
+2. 적절 한 고객을 선택한 다음 **구독** 을 선택 합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
 
 3. **구독** 열에서 보거나 편집 하려는 구독을 선택 합니다. 제품을 설정 하거나 프로 비전 하는 데 더 많은 정보를 제공 합니다. 이 제품에 대 한 추가 작업이 필요한 경우 상태 열에 "작업 필요" 상태가 표시 될 수도 있습니다. ISV 게시자 사이트에 대 한 링크도 함께 제공 될 수도 있습니다.
 
@@ -63,7 +59,7 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
 1. ISV 게시자에서 다음과 같은 몇 가지 방법으로이 개인 설정 된 링크를 찾을 수 있습니다.
 
-   - ISV SaaS 제품을 구매한 후 표시 되는 확인 페이지에서 링크를 확인할 수 있습니다. 페이지에서이 링크를 찾으려면를 찾고 **게시자의 사이트로 이동**을 선택 합니다.
+   - ISV SaaS 제품을 구매한 후 표시 되는 확인 페이지에서 링크를 확인할 수 있습니다. 페이지에서이 링크를 찾으려면를 찾고 **게시자의 사이트로 이동** 을 선택 합니다.
 
    - 특정 고객의 구독 페이지에서 링크를 볼 수 있습니다. 이 게시자 링크는 해당 고객에 대해 구매한 ISV 제품 또는 구독과 연결 된 행에 표시 됩니다.
 
@@ -102,13 +98,13 @@ SaaS 상업적 marketplace 제품의 경우 고객 구독에 대 한 사용자 �
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음 왼쪽 탐색 메뉴에서 **고객** 을 선택 합니다.
 
-2. 적절 한 고객을 선택한 다음 **구독**을 선택 합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
+2. 적절 한 고객을 선택한 다음 **구독** 을 선택 합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
 
 3. **구독** 열에서 수정 하려는 구독을 선택 합니다.
 
 4. 구독 정보 페이지에서 **수량** 필드를 찾습니다. 이 경우 라이선스 수를 늘리거나 줄일 수 있습니다.
 
-5. 수량을 변경 하 고 **제출**을 선택 합니다.
+5. 수량을 변경 하 고 **제출** 을 선택 합니다.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>파트너 센터 API를 사용하여 구독 관리
 

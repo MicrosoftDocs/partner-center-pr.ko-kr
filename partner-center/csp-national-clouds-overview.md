@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000387"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979569"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP 프로그램의 일부로 Microsoft 국가별 클라우드의 판매에 적용
+
+**적용 대상**
+
+- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft 클라우드 독일 파트너 센터
+
+
+**적절한 역할**
+
+- 글로벌 관리자
 
 Microsoft 파트너는 글로벌 클라우드 솔루션 공급자 프로그램의 일환으로 고객에 게 판매 하는 것 외에도 클라우드 솔루션을 세 가지 별도의 국가별 클라우드로 고객에 게 판매할 수 있습니다. 국가별 클라우드는 특정 국가의 지리적 경계 내에 국한 되 고 로컬 담당자가 운영 하는 Microsoft enterprise cloud services의 논리적 네트워크 격리 인스턴스입니다. 
 
@@ -49,3 +59,7 @@ Microsoft는 이러한 서비스를 국가별 클라우드에서 사용할 수 �
     Microsoft는 기술 공급자 이지만 서비스를 작동 하지 않습니다. 21Vianet은 Microsoft 클라우드 서비스의 배달을 독립적으로 운영, 제공 및 관리 합니다. Microsoft 기술의 라이선스에 따라 21Vianet은 Azure 및 Office 365 서비스를 제공 하 고 중국에 데이터를 보관 하는 Azure 및 Office 365 데이터 센터를 운영할 수 있습니다. 또한 21Vianet은 지원 뿐만 아니라 구독 및 청구 서비스도 제공 합니다.
 
     Azure의 고객에 게 등록 하 고 판매 하는 방법 및 중국의 21Vianet에서 운영 하는 Office 365에 대 한 자세한 내용은 21Vianet이 운영 하는 [파트너 센터](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))를 참조 하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드](faq-for-us-govt-cloud.md)
