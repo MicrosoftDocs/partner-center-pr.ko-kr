@@ -6,15 +6,15 @@ description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514710"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666794"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>파트너 센터에서 조직 프로필 정보 확인
 
@@ -27,13 +27,13 @@ ms.locfileid: "95514710"
 
 파트너 프로필은 법적 비즈니스 정보, 기본 연락처 이름 및 이메일, 회사가 참여하는 프로그램, 법적 비즈니스에 현재 병합된 다른 회사(해당하는 경우)로 구성됩니다. 법률 비즈니스 프로필의 회사 이름과 주소에 맞춤법 오류 및 약어가 없어야 하고 공식 회사 사업자 등록 기록과 정확히 일치해야 합니다. 자영업자로 운영하는 경우 회사 이름을 법적 이름으로 사용해야 합니다.
 
-1. **설정** 으로 이동하고 **계정 설정** 을 선택합니다.
+1. **설정** 아이콘으로 이동하고, **계정 설정** 을 선택합니다.
  
 1. **조직 프로필** 을 선택합니다. 
 
 2. **법적 비즈니스 프로필**, **기본 연락처 정보** 및 **프로그램 정보** 를 검토합니다.
 
-법적 비즈니스에 병합된 다른 회사가 있는 경우 해당 정보도 검토할 수 있습니다. 
+법적 비즈니스에서 다른 회사를 병합한 경우에도 해당 정보를 검토할 수 있습니다. 
 
 ## <a name="update-your-legal-business-profile"></a>법적 비즈니스 프로필 업데이트
 
@@ -65,15 +65,11 @@ Partner Membership Center에서 파트너 센터로 마이그레이션하는 동
 
 CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니다.
 
-1. 파트너 센터 대시보드에 로그인합니다.
+1. 파트너 센터 대시보드에 로그인한 다음, **설정** 을 선택합니다.
  
-1. **계정 설정** 에서 **조직 프로필** 을 선택합니다.
+1. **계정 설정** 에서 **식별자** 를 선택합니다.
 
-1. **연결된 MPNID** 옆에 있는 **업데이트** 를 선택합니다.
- 
-1. **계속** 을 선택합니다.
- 
-1. MPN ID를 추가합니다.
+1. **CSP** 섹션 아래에서 **업데이트** 링크를 사용하여 CSP 계정과 연결된 MPN ID를 업데이트합니다. 
 
 
 ## <a name="update-your-billing-address"></a>청구 주소 업데이트

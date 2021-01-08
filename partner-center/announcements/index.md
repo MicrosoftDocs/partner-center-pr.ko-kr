@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736545"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916816"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2020년 12월 공지** | **발표** |
+| **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[교육 고객 유효성 검사 프로세스에 사용되는 기존 GET 및 PUT 검증 API가 2021년 2월 말일에 사용 중단 및 사용 중지](2021-january.md#2)|1월 5일|
+|제품/시장|[2021년 2월 Dynamics 365 제품](2021-january.md#1)|1월 4일|
+| **범주** | **2020년 12월 공지** | **발표** |
 |제품|[FY21 H1 사용 기간에 사용하지 않은 채널 인센티브 협업 마케팅 기금(co) 자금은 H2 사용 기간으로 이월됨](2020-december.md#13)|12월 22일|
 |기능|[MPA(Microsoft 파트너 계약)를 체결한 파트너를 위해 DocuSign을 Adobe Sign in 2021로 마이그레이션](2020-december.md#12)|12월 22일|
 |제품/시장|[2021년 1월 가격 책정 및 카탈로그 일정](2020-december.md#11)|12월 22일|

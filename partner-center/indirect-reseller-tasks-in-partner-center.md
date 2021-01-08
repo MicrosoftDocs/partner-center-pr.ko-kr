@@ -1,7 +1,7 @@
 ---
 title: CSP 프로그램에서 간접 공급자와 협력
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인이 Microsoft 간접 공급자(또는 배포자)와 협력하여 고객 지원 및 청구에 대한 도움을 받는 방법을 알아봅니다.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514742"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636027"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
 
@@ -69,10 +69,7 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 2. **시작** 페이지를 검토하여 등록하는 데 필요한 정보가 모두 있는지 확인하고, **다음** 을 선택합니다.
 
 3. 회사 계정을 사용하여 로그인 - Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 대한 전역 관리자로 로그인하는 데 사용하는 사용자 이름과 암호를 입력합니다. 회사 계정이 없는 경우 **만들기** 를 선택하여 지금 설정합니다. 회사 계정을 만든 후 새 계정의 전역 관리자 자격 증명을 사용하여 로그인합니다.
-
-
-   > [!IMPORTANT]  
-   > Azure AD 테넌트와 동일한 국가/지역에 있는 활성 회사 프로필과 연결된 MPN ID를 선택하세요.
+  
 
 4. 회사의 법적 비즈니스 프로필, 기본 연락처 정보 및 고객 지원 정보를 제공하거나 업데이트합니다. 법적 비즈니스 정보를 찾으려면 **조직 프로필** 을 선택한 다음, **법적 정보** 를 선택합니다. **지금 등록** 을 선택합니다.
 
@@ -81,7 +78,16 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
    > [!IMPORTANT]  
    > 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 이메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 가입했는지, (2) 이 이메일 주소가 귀사의 이메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 이메일 주소를 확인하면 귀하가 제공한 정보 검토가 계속 진행됩니다. 기본 연락처로 등록 상태 업데이트 이메일을 보내드릴 것입니다.
 
-5. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
+5. MPN ID를 Azure ID 테넌트에 연결합니다.
+
+    1. **계정 설정** 에서 **식별자** 를 선택합니다.
+
+    1. **CSP** 섹션 아래에서 **업데이트** 링크를 사용하여 CSP 계정과 연결된 MPN ID를 업데이트합니다. 
+ 
+ > [!IMPORTANT]  
+   > Azure AD 테넌트와 동일한 국가/지역에 있는 활성 회사 프로필과 연결된 MPN ID를 선택하세요.
+
+6. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
    1. 파트너 센터 대시보드에서 **설정** 아이콘을 선택한 다음, **계정 설정** 에서 **사용자 관리** 를 선택합니다.
 

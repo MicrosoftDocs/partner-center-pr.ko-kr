@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514756"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916833"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -50,7 +50,7 @@ CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsof
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>CSP 간접 재판매인으로 등록되었는지 확인합니다.
 
-1. 파트너 센터에서 아직 [CSP 간접 재판매인](enrolling-in-the-csp-program.md)으로 등록하지 않은 경우 먼저 등록해야 합니다. 파트너 센터에서 CSP 간접 재판매인으로 등록한 후 나머지 단계를 완료합니다.
+1. 파트너 센터에서 아직 [CSP 간접 재판매인](indirect-reseller-tasks-in-partner-center.md)으로 등록하지 않은 경우 먼저 등록해야 합니다. 파트너 센터에서 CSP 간접 재판매인으로 등록한 후 나머지 단계를 완료합니다.
 
 1. CSP 전역 관리자 계정 자격 증명으로 파트너 센터에 로그인합니다.
 
