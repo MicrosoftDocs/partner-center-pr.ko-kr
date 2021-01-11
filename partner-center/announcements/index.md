@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916816"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979790"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "97916816"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|최신 작업 공간|[새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경](2021-january.md#3)|1월 7일|
 |기능|[교육 고객 유효성 검사 프로세스에 사용되는 기존 GET 및 PUT 검증 API가 2021년 2월 말일에 사용 중단 및 사용 중지](2021-january.md#2)|1월 5일|
 |제품/시장|[2021년 2월 Dynamics 365 제품](2021-january.md#1)|1월 4일|
 | **범주** | **2020년 12월 공지** | **발표** |
