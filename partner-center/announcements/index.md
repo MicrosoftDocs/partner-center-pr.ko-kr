@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040993"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062436"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "98040993"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[인도 루피화 상업 가격 책정 업데이트](2021-january.md#6)|1월 8일|
+|제품/시장|[2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트](2021-january.md#5)|1월 8일|
 |제품/시장|[2021년 1월 라이선스 기준 가격표 업데이트](2021-january.md#4)|1월 8일|
 |최신 작업 공간|[새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경](2021-january.md#3)|1월 7일|
 |기능|[교육 고객 유효성 검사 프로세스에 사용되는 기존 GET 및 PUT 검증 API가 2021년 2월 말일에 사용 중단 및 사용 중지](2021-january.md#2)|1월 5일|

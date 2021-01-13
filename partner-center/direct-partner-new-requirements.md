@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514703"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105531"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 직접 청구 파트너로 등록하기 위한 요구 사항
 
-**적용 대상**
+**적절한 역할**
 
-- 클라우드 솔루션 공급자 프로그램의 직접 청구 파트너
+- 글로벌 관리자
 
 ## <a name="enroll-as-a-direct-partner"></a>직접 파트너로 등록
 
-직접 청구 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다. 직접 청구 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다. 2020년 10월 27일자로 직접 청구 파트너의 등록 요구 사항이 업데이트되었습니다. 이러한 요구 사항은 올바른 클라우드 솔루션 공급자 등록 모델로 비즈니스 성장을 가속화하고 부가 가치 서비스와 지원으로 고객과의 관계를 굳건하게 하는 데 도움이 됩니다.  
+직접 청구 파트너는 고객 및 Microsoft와 포괄적인 관계를 유지합니다. 2020년 10월 27일자로 직접 청구 파트너의 등록 요구 사항이 업데이트되었습니다. 이러한 요구 사항은 올바른 클라우드 솔루션 공급자 등록 모델로 비즈니스 성장을 가속화하고 부가 가치 서비스와 지원으로 고객과의 관계를 굳건하게 하는 데 도움이 됩니다.  
 
 ### <a name="minimum-requirements"></a>최소 요구 사항
 
