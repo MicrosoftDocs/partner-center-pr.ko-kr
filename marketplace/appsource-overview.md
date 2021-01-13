@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771695"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146390"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource란?
 
@@ -48,7 +48,18 @@ AppSource에서 사용할 수 있는 모든 제품은 특정 조건에 따라 �
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS 및 M365 통합 앱 검색
 
-파트너는 SaaS 및 M365 통합 앱 간에 연결할 수 있습니다. 그러면 연결 된 SaaS 앱을 가져올 때 통합 된 앱을 다운로드 하 여 사용할 수 있습니다. 이 경우 검색 결과는 함께 제공 되는 통합 앱의 아이콘을 보여 주는 SaaS 앱만 반환할 수 있습니다. 각의 제품 세부 정보 페이지에서 SaaS 앱과 통합 앱 간을 탐색할 수 있습니다. SaaS 앱을 구매 해야 하는 경우 [Microsoft AppSource에서 saas 제품을 구매 하는 방법](purchase-software-appsource.md)을 참조 하세요.
+파트너는 Microsoft 365에 대 한 SaaS 응용 프로그램 및 해당 추가 기능을 연결할 수 있습니다. 그러면 추가 기능과 연결 된 SaaS 앱을 가져올 때 특정 Microsoft 365 서비스 또는 제품의 추가 기능을 다운로드 하 여 사용할 수 있습니다.
+
+이 경우 검색 결과는 SaaS 앱 제품 카드의 해당 추가 기능 제품 아이콘을 사용 하 여 SaaS 앱만 반환할 수 있습니다. SaaS 응용 프로그램 및 통합 된 앱의 제품 정보 페이지 간에 이동할 수 있습니다.
+
+독립 실행형 추가 기능을 찾고 있는 경우 다음 방법 중 하나를 찾을 수 있습니다.
+
+- [Appsource 제품 카탈로그](https://appsource.microsoft.com/marketplace/apps/)에 액세스 하 고 왼쪽 탐색의 **제품** 아래에서 **Microsoft 365** 를 선택 합니다. **Microsoft 365** 아래에 표시 되는 제품 목록에서 원하는 제품의 확인란을 선택 합니다.
+- 또는 SaaS 응용 프로그램 제품 카드 내에서 추가 기능 제품 아이콘을 선택 하 여 검색 화면에서 숨겨진 특정 추가 기능으로 이동 합니다.
+
+SaaS 앱을 구매 해야 하는 경우 [Microsoft AppSource에서 saas 제품을 구매 하는 방법](purchase-software-appsource.md)을 참조 하세요.
+
+Microsoft 365 관리자는 SaaS와 추가 기능을 모두 단일 장소로 배포할 수 있습니다. 자세히 알아보려면 [Microsoft 365 앱 테스트 및 배포-Microsoft 365 관리자](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)를 참조 하세요.
 
 ## <a name="find-ratings-and-reviews"></a>등급 및 리뷰 찾기
 
