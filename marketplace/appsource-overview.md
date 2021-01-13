@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
+ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146390"
+ms.locfileid: "98166701"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource란?
 
@@ -59,7 +59,7 @@ AppSource에서 사용할 수 있는 모든 제품은 특정 조건에 따라 �
 
 SaaS 앱을 구매 해야 하는 경우 [Microsoft AppSource에서 saas 제품을 구매 하는 방법](purchase-software-appsource.md)을 참조 하세요.
 
-Microsoft 365 관리자는 SaaS와 추가 기능을 모두 단일 장소로 배포할 수 있습니다. 자세히 알아보려면 [Microsoft 365 앱 테스트 및 배포-Microsoft 365 관리자](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)를 참조 하세요.
+Microsoft 365 관리자는 SaaS와 추가 기능을 모두 단일 장소로 배포할 수 있습니다. 자세히 알아보려면 [Microsoft 365 앱 테스트 및 배포-Microsoft 365 관리자](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)를 참조 하세요.
 
 ## <a name="find-ratings-and-reviews"></a>등급 및 리뷰 찾기
 
