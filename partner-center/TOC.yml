@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: 인사이트 보고서
           items:
+            - name: 개요
+              href: pci-overview-report.md
+            - name: Customer
+              href: pci-customer-report.md
+            - name: 재판매인 성과
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: 제품 구독
+              href: pci-product-subscriptions-report.md
             - name: Azure 사용량
               href: pci-azure-usage-report.md
+            - name: Teams 사용량
+              href: pci-teams-usage-report.md
+            - name: Office 365 사용량
+              href: pci-office-365-usage-report.md
+            - name: Dynamics 사용량
+              href: pci-dynamics-usage-report.md
+            - name: Enterprise Mobility + Security 사용량
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Power BI 사용량
+              href: pci-power-bi-usage-report.md
+            - name: 학습
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn 분석
+              href: ms-learn-analytics.md
+            - name: 역량
+              href: pci-competencies-report.md
             - name: 이점
               href: pci-benefits-report.md
             - name: CloudAscent 성향
               href: pci-customer-opportunities.md
-            - name: 역량
-              href: pci-competencies-report.md
-            - name: Customer
-              href: pci-customer-report.md
-            - name: Microsoft Learn 분석
-              href: ms-learn-analytics.md
-            - name: 개요
-              href: pci-overview-report.md
             - name: 제품 라이선스
               href: pci-product-licenses-report.md
-            - name: 제품 구독
-              href: pci-product-subscriptions-report.md
-            - name: 재판매인 성과
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: 학습
-              href: pci-training-dashboard.md
         - name: 인사이트-FAQ
           href: pci-known-issues.md
         - name: 인사이트 보고서 다운로드
