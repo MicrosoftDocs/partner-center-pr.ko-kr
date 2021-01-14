@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007369"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182480"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 구매
 
@@ -25,7 +25,7 @@ Azure Marketplace를 통해 구매 하는 경우 개별 공급 업체 관계와 
 
 ## <a name="permission-to-purchase"></a>구입할 권한
 
-올바른 소프트웨어 응용 프로그램을 찾았으면 구매를 완료 하는 것이 간단 합니다. 그러나 Azure 구독 내에서 적절 한 사용 권한이 필요 합니다. Azure는 RBAC ( [역할 기반 Access Control](https://docs.microsoft.com/azure/role-based-access-control/overview) ) 모델에서 작동 하므로 구매 하려면 계정에 **구독 소유자** 또는 **참가자** 권한이 있어야 합니다.
+올바른 소프트웨어 응용 프로그램을 찾았으면 구매를 완료 하는 것이 간단 합니다. 그러나 Azure 구독 내에서 적절 한 사용 권한이 필요 합니다. Azure는 RBAC ( [역할 기반 Access Control](/azure/role-based-access-control/overview) ) 모델에서 작동 하므로 구매 하려면 계정에 **구독 소유자** 또는 **참가자** 권한이 있어야 합니다.
 
 구매를 완료 하기 전에 사용자에 게 Azure 테 넌 트의 올바른 구성이 있는지 확인 합니다. 이렇게 하면 구매 중에 오류를 방지할 수 있습니다.
 
@@ -55,7 +55,7 @@ Microsoft에서는 청구 프로필을 통해 Azure 구독 관리자로 사용�
 
 ## <a name="cost-management"></a>비용 관리
 
-Azure Marketplace에서 제품을 구매할 때 비용을 관리 하는 데 도움이 되는 정보를 얻을 수 있습니다. Azure Cost Management은 구매한 제품에 대 한 정보를 볼 수 있는 무료 도구입니다. Cost Management를 사용 하 여 시간에 따라 비용을 지불 하는 서비스 및 설정 된 예산에 대해 해당 비용을 추적 하는 방법에 대 한 세부 정보를 볼 수 있습니다. 예산을 설정 하는 것 외에도 보고서를 예약 하 고 구독 비용을 분석할 수 있습니다. [비용 분석 및 Azure Cost Management를 사용 하 여 예산 만들기](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/)에서 Microsoft Learn 모듈을 완료 하 여 Azure Cost Management에 대해 자세히 알아보세요.
+Azure Marketplace에서 제품을 구매할 때 비용을 관리 하는 데 도움이 되는 정보를 얻을 수 있습니다. Azure Cost Management은 구매한 제품에 대 한 정보를 볼 수 있는 무료 도구입니다. Cost Management를 사용 하 여 시간에 따라 비용을 지불 하는 서비스 및 설정 된 예산에 대해 해당 비용을 추적 하는 방법에 대 한 세부 정보를 볼 수 있습니다. 예산을 설정 하는 것 외에도 보고서를 예약 하 고 구독 비용을 분석할 수 있습니다. [비용 분석 및 Azure Cost Management를 사용 하 여 예산 만들기](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)에서 Microsoft Learn 모듈을 완료 하 여 Azure Cost Management에 대해 자세히 알아보세요.
 
 Azure Cost Management의 비용 분석 도구에서 Azure Marketplace 요금 및 청구서를 볼 수 있습니다.
 
@@ -63,4 +63,4 @@ Azure Cost Management의 비용 분석 도구에서 Azure Marketplace 요금 및
 
 ## <a name="next-steps"></a>다음 단계
 
-- [청구 및 송장 청구](billing-invoicing.md)
+- [청구 및 송장 작성](billing-invoicing.md)

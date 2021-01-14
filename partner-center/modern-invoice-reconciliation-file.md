@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498562"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182582"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 일회성 구매 조정 파일 필드
 
@@ -28,9 +28,9 @@ ms.locfileid: "94498562"
 | CustomerId | GUID 형식의 고객에 대 한 고유한 Microsoft 식별자입니다. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | 파트너 센터에 보고된 고객의 조직 이름입니다. 이 열은 시스템 정보를 사용 하 여 송장을 조정 하는 데 중요 합니다. | *Johnny 최신 Cust DE2* |
 | CustomerDomainName | 고객의 도메인 이름입니다. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | 고객이 있는 국가입니다. 해당 지역의 전체 [국가 목록을](/partner-center/regional-authorization-overview) 확인 하세요.  | *취소* |
+| CustomerCountry | 고객이 있는 국가입니다. 해당 지역의 전체 [국가 목록을](./regional-authorization-overview.md) 확인 하세요.  | *취소* |
 | InvoiceNumber | 조정 파일에 연결 된 청구서 번호입니다.  | *G002297372* |
-| MpnId | CSP 파트너의 MPN 식별자입니다. 자세한 내용은 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner)을 참조 하세요. | *6034453* |
+| MpnId | CSP 파트너의 MPN 식별자입니다. 자세한 내용은 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)을 참조 하세요. | *6034453* |
 | ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. | *6048879* |
 | OrderID | Microsoft 청구 플랫폼에서 사용되는 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | 주문이 배치 된 날짜입니다. | *10/3/2020* |
@@ -39,8 +39,8 @@ ms.locfileid: "94498562"
 | AvailabilityId | 가용성 고유 식별자입니다. | *DZH318Z08B80* |
 | SkuName | SKU 이름입니다. | *테이블-LRS* |
 | ProductName | 제품 이름입니다. | *테이블* |
-| ChargeType | 요금 또는 조정 [의 유형](/partner-center/recon-file-charge-types) 입니다. | *새로 만들기* |
-| 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *0.045* |
+| ChargeType | 요금 또는 조정 [의 유형](./recon-file-charge-types.md) 입니다. | *새로 만들기* |
+| UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *0.045* |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *1* |
 | 소계 | 세금 앞의 합계입니다. 부분합이 청구 가능한 수량에 유효 단가를 곱한 값과 같아야 합니다. | *0* |
 | TaxTotal | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |
@@ -54,7 +54,7 @@ ms.locfileid: "94498562"
 | ChargeStartDate | 파트너 센터가 구독 요금을 지불 하는 날짜입니다. 연간 청구 기간 및 월간 청구 계획을 사용 하 여 구독을 구매한 경우에는 첫 번째 조정 파일에서 구독을 구매한 날입니다. 다음 조정 파일부터 시작 하 여 30 일이 지나면 증가 합니다. | *9/1/2020* |
 | ChargeEndDate | 구독의 청구 주기에 대 한 비용의 종료 날짜입니다. 연간 청구 기간 및 월간 청구 계획을 사용 하 여 구독을 구매한 경우에는 첫 번째 조정 파일에서 구독이 구매한 후 30 일이 됩니다. 다음 조정 파일부터 시작 하 여 30 일이 지나면 증가 합니다. | *2020년 9월 30일* |
 | TermAndBillingCycle | 구매 시 구독을 계속 하는 기간입니다. | *저장 된 데이터 (g b/월)* |
-| EffectiveUnitPrice | 청구 주기에 대 한 비용을 계산 하는 데 비례 하는 단가입니다. 할인, 청구 일의 조정 및 기타 요소는 유효 단가를 결정 합니다. 자세한 내용은 [유효 단위 가격 계산](/partner-center/effective-unit-price-calculation)을 참조 하세요.  | *0.03825* |
+| EffectiveUnitPrice | 청구 주기에 대 한 비용을 계산 하는 데 비례 하는 단가입니다. 할인, 청구 일의 조정 및 기타 요소는 유효 단가를 결정 합니다. 자세한 내용은 [유효 단위 가격 계산](./effective-unit-price-calculation.md)을 참조 하세요.  | *0.03825* |
 | (Unittype.pixel) | 미터의 요금이 부과 되는 단위 유형입니다. | *1GB/월* |
 | AlternateId | 참조 된 주문 라인 항목의 대체 ID입니다. | *6dc5c039750a* |
 | BillableQuantity | 청구 되는 총 수량입니다.  | *0.005001* |

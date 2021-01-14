@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007393"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182531"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Marketplace란 무엇인가요?
 
@@ -59,11 +59,11 @@ Azure Marketplace에서 소프트웨어를 배포 하려면 연결 된 결제 �
 - 신용 카드
 - 청구서 (기존 Microsoft 구매 계약 포함)
 
-Azure Marketplace 구매는 Azure 청구서에 자동으로 추가 되 고 계정에 연결 된 지불 방법으로 청구 됩니다. 다른 결제 계정 연결에 대 한 도움말은 **Azure external 요금** 항목에서 [청구 계정 유형 확인](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) 을 참조 하세요.
+Azure Marketplace 구매는 Azure 청구서에 자동으로 추가 되 고 계정에 연결 된 지불 방법으로 청구 됩니다. 다른 결제 계정 연결에 대 한 도움말은 **Azure external 요금** 항목에서 [청구 계정 유형 확인](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type) 을 참조 하세요.
 
 ## <a name="certification-and-security"></a>인증 및 보안
 
-Azure Marketplace에서 사용할 수 있는 모든 제품은 특정 조건에 따라 인증 되었습니다. 각 제품을 신중 하 게 검토 하 여 조직의 고유한 요구 사항을 충족 하는지 확인 하는 것이 좋습니다. 각 제품 유형에 대해 검토 하는 인증 정책에 대 한 자세한 내용은 상용 marketplace [인증 정책](https://docs.microsoft.com/legal/marketplace/certification-policies)을 참조 하세요.
+Azure Marketplace에서 사용할 수 있는 모든 제품은 특정 조건에 따라 인증 되었습니다. 각 제품을 신중 하 게 검토 하 여 조직의 고유한 요구 사항을 충족 하는지 확인 하는 것이 좋습니다. 각 제품 유형에 대해 검토 하는 인증 정책에 대 한 자세한 내용은 상용 marketplace [인증 정책](/legal/marketplace/certification-policies)을 참조 하세요.
 
 ## <a name="terms-and-conditions"></a>사용 약관
 
@@ -78,4 +78,4 @@ Azure Marketplace에서 사용할 수 있는 모든 제품은 특정 조건에 �
 ## <a name="next-steps"></a>다음 단계
 
 - [Azure Marketplace 구매](azure-purchasing-invoicing.md)
-- [Microsoft AppSource 이란?](appsource-overview.md)
+- [Microsoft AppSource란?](appsource-overview.md)

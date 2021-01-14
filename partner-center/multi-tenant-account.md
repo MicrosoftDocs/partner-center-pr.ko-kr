@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105558"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182439"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>파트너 센터 계정에서 여러 테 넌 트 추가 및 관리
 
@@ -22,8 +22,9 @@ ms.locfileid: "98105558"
 **적절한 역할**
 
 - 글로벌 관리자
+- 계정 관리자
 
-이 기능을 사용하여 회사의 여러 테넌트를 관리하고 파트너 센터 계정에 통합할 수 있습니다. 파트너 센터 계정에서 여러 Azure AD 테 넌 트를 관리 해야 하는 이유는 여러 가지가 있습니다. 예를 들어:
+이 기능을 사용하여 회사의 여러 테넌트를 관리하고 파트너 센터 계정에 통합할 수 있습니다. 파트너 센터 계정에서 여러 Azure AD 테 넌 트를 관리 해야 하는 이유는 여러 가지가 있습니다. 예를 들면 다음과 같습니다.
 
 - 회사에서 다른 회사를 구입할 수 있으며, 새 회사 직원 들이 파트너 센터를 사용할 수 있도록 하려고 합니다. 그러나 두 회사를 분리 하는 것이 좋습니다. 이 경우 새 회사의 Azure AD 테 넌 트를 파트너의 글로벌 계정 (표준)과 연결 합니다. 이 연결을 통해 두 회사의 사용자가 파트너 센터에서 작업을 수행할 수 있습니다.
 

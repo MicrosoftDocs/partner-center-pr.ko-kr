@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691353"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182497"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure reserved VM instances (RI) + 고객을 위한 서버 구독 획득, 프로 비전, & 관리
 
@@ -47,7 +47,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 뛰어난 가격과 일치 하지 않는 배포 유연성의 조합을 사용 하는 경우 고객은 Azure Reservations를 선택할 때 최상의 전체 가치를 볼 수 있습니다.
 
-- Azure Portal에서 [구매 예약](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) 을 참조 하세요.
+- Azure Portal에서 [구매 예약](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) 을 참조 하세요.
 
 - 소프트웨어 구독 및 Linux ISV 연간 구독에 대 한 파트너 센터의 [가격 책정 및 제품](https://partner.microsoft.com/dashboard/sell/pricingandoffers) 페이지에서 **Microsoft Azure 예약 인스턴스** 범주 아래의 **Azure RI CSP 상용 가격 목록을** 참조 하세요.
 
@@ -69,24 +69,24 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 1. [파트너 센터 새 상거래 운영 가이드](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)를 검토 하 고 이해 합니다.
 
-2. [파트너 센터 api (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)의 Azure Reservations 및 서버 구독에 대 한 업데이트를 이해 합니다.
+2. [파트너 센터 api (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)의 Azure Reservations 및 서버 구독에 대 한 업데이트를 이해 합니다.
 
 
 ### <a name="sales-readiness"></a>판매 준비
 
 - [RDS (원격 데스크톱 서비스) CAL (클라이언트 액세스 라이선스) (알림)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure Reserved VM Instances (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Reserved VM Instances (Azure Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [서버 구독](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [서버 구독](./csp-software-subscriptions.md)
 
-- [SQL DB 예약 (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB 예약 (Azure Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL Managed Instance (Azure Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL Managed Instance (Azure Portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE 및 Red Hat Enterprise Linux (Azure Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE 및 Red Hat Enterprise Linux (Azure Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Azure의 Red Hat Linux](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Azure Reservations는 개발 및 테스트, 응용 프로그램 실행, 데이�
 
 - [Azure 가격 계산기](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks 단위 예약](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks 단위 예약](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>학습

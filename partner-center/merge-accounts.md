@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189750"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182599"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
@@ -76,6 +76,8 @@ ms.locfileid: "93189750"
 - 회사에 진행 중인 고급 특수화가 있는 경우 두 계정 간에 유지 됩니다.
 
 - 모든 소프트웨어 보증 바우처는 두 계정에서 모두 유지 됩니다. 
+
+- DPOR PAL 연결에는 영향을 주지 않습니다. 모든 관련 수익 기여는 새 파트너 전역 계정으로 전달 되기 시작 합니다.
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>파트너 센터 계정과 파트너 센터 계정을 병합 하기 위해 회사 초대
 
