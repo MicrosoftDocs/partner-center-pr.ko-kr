@@ -9,91 +9,91 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444984"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215818"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a><span data-ttu-id="83384-104">청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="83384-104">Understand your bill and reconciliation file - learn how to find them in Partner Center</span></span>
-
-<span data-ttu-id="83384-105">**적용 대상**</span><span class="sxs-lookup"><span data-stu-id="83384-105">**Applies to**</span></span>
-
-- <span data-ttu-id="83384-106">파트너 센터</span><span class="sxs-lookup"><span data-stu-id="83384-106">Partner Center</span></span>
-- <span data-ttu-id="83384-107">Microsoft Cloud for US Government 파트너 센터</span><span class="sxs-lookup"><span data-stu-id="83384-107">Partner Center for Microsoft Cloud for US Government</span></span>
-
-<span data-ttu-id="83384-108">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="83384-108">**Appropriate roles**</span></span>
-
-- <span data-ttu-id="83384-109">전역 관리자</span><span class="sxs-lookup"><span data-stu-id="83384-109">Global admin</span></span>
-- <span data-ttu-id="83384-110">청구 관리자</span><span class="sxs-lookup"><span data-stu-id="83384-110">Billing admin</span></span>
-- <span data-ttu-id="83384-111">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="83384-111">Admin agent</span></span>
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a><span data-ttu-id="5ff4d-104">청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-104">Understand your bill and reconciliation file - learn how to find them in Partner Center</span></span>
 
 
-<span data-ttu-id="83384-112">**청구서** 는 **모든 파트너 센터 요금** (프로그램, 모든 제품 및 모든 고객)에 대 한 요약입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-112">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers).</span></span> 
+<span data-ttu-id="5ff4d-105">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="5ff4d-105">**Appropriate roles**</span></span>
 
-## <a name="invoice-types"></a><span data-ttu-id="83384-113">송장 유형</span><span class="sxs-lookup"><span data-stu-id="83384-113">Invoice types</span></span>
+- <span data-ttu-id="5ff4d-106">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="5ff4d-106">Global admin</span></span>
+- <span data-ttu-id="5ff4d-107">청구 관리자</span><span class="sxs-lookup"><span data-stu-id="5ff4d-107">Billing admin</span></span>
+- <span data-ttu-id="5ff4d-108">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="5ff4d-108">Admin agent</span></span>
 
-<span data-ttu-id="83384-114">Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금 (예: Azure RI, Marketplace 또는 Azure 요금제)에 대 한 별도의 송장을 발급 합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-114">Microsoft will issue one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure) and a separate invoice for one-time charges (such as Azure RI, Marketplace, or Azure plan).</span></span>
 
-<span data-ttu-id="83384-115">예를 들면 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-115">For example,</span></span>  
+<span data-ttu-id="5ff4d-109">**청구서** 는 **모든 파트너 센터 요금** (프로그램, 모든 제품 및 모든 고객)에 대 한 요약입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-109">Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers).</span></span> 
 
-<span data-ttu-id="83384-116">**시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-116">**Scenario 1 [Single Currency]**: Partner has purchases for 145P offer and O365 licenses,</span></span>  
+## <a name="invoice-types"></a><span data-ttu-id="5ff4d-110">송장 유형</span><span class="sxs-lookup"><span data-stu-id="5ff4d-110">Invoice types</span></span>
 
-- <span data-ttu-id="83384-117">파트너는 O365 및 Azure (145p) 모두에 대 한 요금을 포함 하는 하나의 송장 PDF 및 2 조정 파일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-117">Partner will get one invoice PDF and 2 reconciliation files covering the charges for both O365 and Azure (145p).</span></span>  
+<span data-ttu-id="5ff4d-111">Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금 (예: Azure RI, Marketplace 또는 Azure 요금제)에 대 한 별도의 송장을 발급 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-111">Microsoft will issue one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure) and a separate invoice for one-time charges (such as Azure RI, Marketplace, or Azure plan).</span></span>
 
-<span data-ttu-id="83384-118">**시나리오 2 [단일 통화]**: 파트너가 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 요금제에 대 한 구매를 보유 하 고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-118">**Scenario 2 [Single Currency]**: Partner has purchases for Azure RI, Marketplace and/or Azure plan along with 145p purchases.</span></span>
+<span data-ttu-id="5ff4d-112">예제:</span><span class="sxs-lookup"><span data-stu-id="5ff4d-112">For example,</span></span>  
 
-- <span data-ttu-id="83384-119">파트너는 Azure (145p)의 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-119">Partner will get one invoice PDF and a reconciliation file covering the charges for Azure (145p).</span></span> 
+<span data-ttu-id="5ff4d-113">**시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-113">**Scenario 1 [Single Currency]**: Partner has purchases for 145P offer and O365 licenses,</span></span>  
 
-- <span data-ttu-id="83384-120">파트너는 Azure RI, Marketplace, Azure 요금제에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="83384-120">Partner will receive another invoice PDF and a reconciliation file covering their charges for Azure RI, Marketplace, Azure plan.</span></span> 
+- <span data-ttu-id="5ff4d-114">파트너는 O365 및 Azure (145p) 모두에 대 한 요금을 포함 하는 하나의 송장 PDF 및 2 조정 파일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-114">Partner will get one invoice PDF and 2 reconciliation files covering the charges for both O365 and Azure (145p).</span></span>  
 
-<span data-ttu-id="83384-121">**시나리오 3 [다중 통화]**: 파트너는 eur의 145p 구매와 함께 DKK의 azure RI 및 Eur의 azure 계획에 대 한 구매를 가집니다.</span><span class="sxs-lookup"><span data-stu-id="83384-121">**Scenario 3 [Multi-Currency]**: Partner has purchases for Azure RI in DKK and Azure plan in EUR along with 145p purchases in EUR.</span></span>
+<span data-ttu-id="5ff4d-115">**시나리오 2 [단일 통화]**: 파트너가 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 요금제에 대 한 구매를 보유 하 고 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-115">**Scenario 2 [Single Currency]**: Partner has purchases for Azure RI, Marketplace and/or Azure plan along with 145p purchases.</span></span>
 
-- <span data-ttu-id="83384-122">파트너는 DKK의 Azure RI에 대 한 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-122">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure RI in DKK.</span></span> 
+- <span data-ttu-id="5ff4d-116">파트너는 Azure (145p)의 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-116">Partner will get one invoice PDF and a reconciliation file covering the charges for Azure (145p).</span></span> 
 
-- <span data-ttu-id="83384-123">파트너는 EUR의 Azure 요금제에 대 한 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="83384-123">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure plan in EUR.</span></span> 
+- <span data-ttu-id="5ff4d-117">파트너는 Azure RI, Marketplace, Azure 요금제에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-117">Partner will receive another invoice PDF and a reconciliation file covering their charges for Azure RI, Marketplace, Azure plan.</span></span> 
 
-- <span data-ttu-id="83384-124">파트너는 EUR (또는 파트너 청구 통화)의 145p 제품에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="83384-124">Partner will receive another invoice PDF and a reconciliation file covering their charges for 145p offer in EUR (or partner billing currency).</span></span> 
+<span data-ttu-id="5ff4d-118">**시나리오 3 [다중 통화]**: 파트너는 eur의 145p 구매와 함께 DKK의 azure RI 및 Eur의 azure 계획에 대 한 구매를 가집니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-118">**Scenario 3 [Multi-Currency]**: Partner has purchases for Azure RI in DKK and Azure plan in EUR along with 145p purchases in EUR.</span></span>
 
-## <a name="find-your-bill"></a><span data-ttu-id="83384-125">청구서 찾기</span><span class="sxs-lookup"><span data-stu-id="83384-125">Find your bill</span></span> 
+- <span data-ttu-id="5ff4d-119">파트너는 DKK의 Azure RI에 대 한 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-119">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure RI in DKK.</span></span> 
 
-<span data-ttu-id="83384-126">파트너 센터에서 대시보드의 청구 페이지에서 송장을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-126">You can find your invoice on the Billing page of the dashboard in Partner Center.</span></span> <span data-ttu-id="83384-127">또한이 페이지에서 청구 내역, 지출 추세 및 조정 파일을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-127">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span> 
+- <span data-ttu-id="5ff4d-120">파트너는 EUR의 Azure 요금제에 대 한 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-120">Partner will receive one invoice PDF and a reconciliation file covering the charges for Azure plan in EUR.</span></span> 
 
-1. <span data-ttu-id="83384-128">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-128">Sign in to the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span> 
+- <span data-ttu-id="5ff4d-121">파트너는 EUR (또는 파트너 청구 통화)의 145p 제품에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-121">Partner will receive another invoice PDF and a reconciliation file covering their charges for 145p offer in EUR (or partner billing currency).</span></span> 
 
-2. <span data-ttu-id="83384-129">왼쪽 메뉴에서 **청구**를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-129">In the left-hand menu, select **Billing**.</span></span> 
+## <a name="find-your-bill"></a><span data-ttu-id="5ff4d-122">청구서 찾기</span><span class="sxs-lookup"><span data-stu-id="5ff4d-122">Find your bill</span></span> 
 
-3. <span data-ttu-id="83384-130">청구 페이지에서 다운로드 하려는 송장을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-130">On the Billing page, select the invoice you want to download.</span></span> 
+<span data-ttu-id="5ff4d-123">파트너 센터에서 대시보드의 청구 페이지에서 송장을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-123">You can find your invoice on the Billing page of the dashboard in Partner Center.</span></span> <span data-ttu-id="5ff4d-124">또한이 페이지에서 청구 내역, 지출 추세 및 조정 파일을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-124">You can also find your billing history, spending trends, and reconciliation files on this page.</span></span> 
 
-<span data-ttu-id="83384-131">마지막 청구서 날짜의 계정 잔액에서 페이지 맨 위에 있는 최신 청구서에 대 한 링크를 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-131">You can find a link to your latest invoice at the top of the page under Account balance as of last invoice date.</span></span> 
+1. <span data-ttu-id="5ff4d-125">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-125">Sign in to the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span> 
 
-<span data-ttu-id="83384-132">청구 내역 섹션에서 이전 송장을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-132">You can find previous invoices in the Billing history section.</span></span> <span data-ttu-id="83384-133">적절 한 연도를 선택 하 고 적절 한 청구 기간 옆에 있는 드롭다운 화살표를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-133">Choose the appropriate year, then select the drop-down arrow next to the appropriate Billing period.</span></span> <span data-ttu-id="83384-134">청구서 (.pdf) 옆의 링크를 선택 하 여 해당 기간의 송장을 다운로드 합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-134">Select the link next to Invoices (.pdf) to download that period's invoice.</span></span> 
+2. <span data-ttu-id="5ff4d-126">왼쪽 메뉴에서 **청구** 를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-126">In the left-hand menu, select **Billing**.</span></span> 
 
-## <a name="understanding-invoice-pdf"></a><span data-ttu-id="83384-135">송장 PDF 이해</span><span class="sxs-lookup"><span data-stu-id="83384-135">Understanding invoice PDF</span></span> 
+3. <span data-ttu-id="5ff4d-127">청구 페이지에서 다운로드 하려는 송장을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-127">On the Billing page, select the invoice you want to download.</span></span> 
 
-<span data-ttu-id="83384-136">**사용량 및 라이선스 기반 요금 청구서**: Office 365 및 Azure와 같은 서비스에 대 한 요금 청구서는 선택한 청구 날짜의 2 일 (UTC) 이내에 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-136">**Invoices for Usage and license-based charges**: Invoices for charges for services such as Office 365 and Azure will be available within two (2) days of your selected billing date [UTC].</span></span>  
+<span data-ttu-id="5ff4d-128">마지막 청구서 날짜의 계정 잔액에서 페이지 맨 위에 있는 최신 청구서에 대 한 링크를 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-128">You can find a link to your latest invoice at the top of the page under Account balance as of last invoice date.</span></span> 
 
-<span data-ttu-id="83384-137">**Onetime 및 반복 요금 청구서**: azure RI, azure 요금제, Marketplace와 같은 서비스에 대 한 요금 청구서는 매월 8 일 이후에는 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-137">**Invoices for onetime and recurring charges**: Invoices for charges for services such as Azure RI, Azure plan, Marketplace will be available not later than 8th of every month.</span></span>  
+<span data-ttu-id="5ff4d-129">청구 내역 섹션에서 이전 송장을 찾을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-129">You can find previous invoices in the Billing history section.</span></span> <span data-ttu-id="5ff4d-130">적절 한 연도를 선택 하 고 적절 한 청구 기간 옆에 있는 드롭다운 화살표를 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-130">Choose the appropriate year, then select the drop-down arrow next to the appropriate Billing period.</span></span> <span data-ttu-id="5ff4d-131">청구서 (.pdf) 옆의 링크를 선택 하 여 해당 기간의 송장을 다운로드 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-131">Select the link next to Invoices (.pdf) to download that period's invoice.</span></span> 
 
-<span data-ttu-id="83384-138">다음은 청구서 PDF 문서에 있는 몇 가지 주요 필드입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-138">Below are some of the key fields on the Invoice PDF document –</span></span>
+## <a name="understanding-invoice-pdf"></a><span data-ttu-id="5ff4d-132">송장 PDF 이해</span><span class="sxs-lookup"><span data-stu-id="5ff4d-132">Understanding invoice PDF</span></span> 
 
-<span data-ttu-id="83384-139">**청구서 번호**: 각 청구 기간에 대해 생성 된 청구서 문서에 대 한 고유 식별자입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-139">**Invoice number**: Unique identifier for the invoice document generated for the respective billing period.</span></span> 
+<span data-ttu-id="5ff4d-133">**사용량 및 라이선스 기반 요금 청구서**: Office 365 및 Azure와 같은 서비스에 대 한 요금 청구서는 선택한 청구 날짜의 2 일 (UTC) 이내에 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-133">**Invoices for Usage and license-based charges**: Invoices for charges for services such as Office 365 and Azure will be available within two (2) days of your selected billing date [UTC].</span></span>  
 
-<span data-ttu-id="83384-140">**청구 기간**: 사용 및 라이선스 기반 서비스를 사용 하는 기간입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-140">**Billing period**: This is the period during which you have usages and license-based services.</span></span> 
+<span data-ttu-id="5ff4d-134">**Onetime 및 반복 요금 청구서**: azure RI, azure 요금제, Marketplace와 같은 서비스에 대 한 요금 청구서는 매월 8 일 이후에는 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-134">**Invoices for onetime and recurring charges**: Invoices for charges for services such as Azure RI, Azure plan, Marketplace will be available not later than 8th of every month.</span></span>  
 
-<span data-ttu-id="83384-141">**청구서 날짜**: 청구서가 매월 생성 되는 청구 날짜 또는 기념일입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-141">**Invoice date**: The billing date or anniversary date on which your invoice is generated each month.</span></span> 
+<span data-ttu-id="5ff4d-135">다음은 청구서 PDF 문서에 있는 몇 가지 주요 필드입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-135">Below are some of the key fields on the Invoice PDF document –</span></span>
 
-<span data-ttu-id="83384-142">**지불 기한**: 지불을 받아야 하는 날짜입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-142">**Payment due date**: The date by which your payment must be received.</span></span> 
+<span data-ttu-id="5ff4d-136">**청구서 번호**: 각 청구 기간에 대해 생성 된 청구서 문서에 대 한 고유 식별자입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-136">**Invoice number**: Unique identifier for the invoice document generated for the respective billing period.</span></span> 
 
-<span data-ttu-id="83384-143">**요금**: 각 청구 기간에 대 한 청구 통화로 인 한 금액입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-143">**Charges**: The amount due in your billing currency for the respective billing period.</span></span> 
+<span data-ttu-id="5ff4d-137">**청구 기간**: 사용 및 라이선스 기반 서비스를 사용 하는 기간입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-137">**Billing period**: This is the period during which you have usages and license-based services.</span></span> 
 
-<span data-ttu-id="83384-144">**크레딧**: 크레딧 (예: SLA) 또는 구독에 대 한 변경 내용 조정 (예: 라이선스의 늘어나거나 감소).</span><span class="sxs-lookup"><span data-stu-id="83384-144">**Credits**: Credits (such as SLA) or adjustments for changes made to subscriptions (for example, license increases or decreases).</span></span> 
+<span data-ttu-id="5ff4d-138">**청구서 날짜**: 청구서가 매월 생성 되는 청구 날짜 또는 기념일입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-138">**Invoice date**: The billing date or anniversary date on which your invoice is generated each month.</span></span> 
 
-<span data-ttu-id="83384-145">**지불 지침**: 지역을 기준으로 청구서를 지불 하는 방법에 대 한 설명입니다.</span><span class="sxs-lookup"><span data-stu-id="83384-145">**Payment instructions**: Description of how to pay your invoice, based on your region.</span></span> <span data-ttu-id="83384-146">지불 시 청구서 번호를 반드시 포함 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="83384-146">Always be sure to include your invoice number when making a payment.</span></span> 
+<span data-ttu-id="5ff4d-139">**지불 기한**: 지불을 받아야 하는 날짜입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-139">**Payment due date**: The date by which your payment must be received.</span></span> 
 
-<span data-ttu-id="83384-147">청구서 파일 (일회성 요금에 대 한 필드 포함)의 모든 필드에 대 한 자세한 설명은 [청구서 파일 필드](invoice-file.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="83384-147">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).</span></span> 
+<span data-ttu-id="5ff4d-140">**요금**: 각 청구 기간에 대 한 청구 통화로 인 한 금액입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-140">**Charges**: The amount due in your billing currency for the respective billing period.</span></span> 
 
-## <a name="understand-reconciliation-files"></a><span data-ttu-id="83384-148">조정 파일 이해</span><span class="sxs-lookup"><span data-stu-id="83384-148">Understand reconciliation files</span></span>
+<span data-ttu-id="5ff4d-141">**크레딧**: 크레딧 (예: SLA) 또는 구독에 대 한 변경 내용 조정 (예: 라이선스의 늘어나거나 감소).</span><span class="sxs-lookup"><span data-stu-id="5ff4d-141">**Credits**: Credits (such as SLA) or adjustments for changes made to subscriptions (for example, license increases or decreases).</span></span> 
 
- <span data-ttu-id="83384-149">요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="83384-149">Reconciliation files, which provides a drill down/itemized details of your charges, are available to download along with the Invoice PDF.</span></span> <span data-ttu-id="83384-150">조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="83384-150">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span> <span data-ttu-id="83384-151">정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md) 을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="83384-151">Please refer to  [How to use the reconciliation files](use-the-reconciliation-files.md) to get more details on the recon files.</span></span> 
+<span data-ttu-id="5ff4d-142">**지불 지침**: 지역을 기준으로 청구서를 지불 하는 방법에 대 한 설명입니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-142">**Payment instructions**: Description of how to pay your invoice, based on your region.</span></span> <span data-ttu-id="5ff4d-143">지불 시 청구서 번호를 반드시 포함 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-143">Always be sure to include your invoice number when making a payment.</span></span> 
+
+<span data-ttu-id="5ff4d-144">청구서 파일 (일회성 요금에 대 한 필드 포함)의 모든 필드에 대 한 자세한 설명은 [청구서 파일 필드](invoice-file.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-144">For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).</span></span> 
+
+## <a name="understand-reconciliation-files"></a><span data-ttu-id="5ff4d-145">조정 파일 이해</span><span class="sxs-lookup"><span data-stu-id="5ff4d-145">Understand reconciliation files</span></span>
+
+ <span data-ttu-id="5ff4d-146">요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-146">Reconciliation files, which provides a drill down/itemized details of your charges, are available to download along with the Invoice PDF.</span></span> <span data-ttu-id="5ff4d-147">조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-147">The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.</span></span> <span data-ttu-id="5ff4d-148">정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md) 을 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="5ff4d-148">Please refer to  [How to use the reconciliation files](use-the-reconciliation-files.md) to get more details on the recon files.</span></span> 
+
+## <a name="next-steps"></a><span data-ttu-id="5ff4d-149">다음 단계</span><span class="sxs-lookup"><span data-stu-id="5ff4d-149">Next steps</span></span>
+
+- [<span data-ttu-id="5ff4d-150">조정 파일을 사용 하는 방법</span><span class="sxs-lookup"><span data-stu-id="5ff4d-150">How to use the reconciliation files</span></span>](use-the-reconciliation-files.md)
