@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 만들기
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 구성원이 파트너 센터 계정을 만들어 네트워크 혜택 및 역량을 관리하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570793"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979739"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>파트너 센터 계정을 만들어 네트워크 혜택 및 역량 관리
 
@@ -55,16 +55,20 @@ ms.locfileid: "96570793"
 
     조직에 회사 계정이 없으면 **계정 만들기** 를 선택하여 회사 계정을 만듭니다. 회사 계정을 만든 후 방금 만든 회사 계정에 글로벌 관리자 자격 증명을 사용하여 로그인합니다.
 
-3.  조직의 법적 회사 프로필 및 기본 연락처 정보를 제공하거나 업데이트한 후 **지금 등록** 을 선택합니다. 
+3.  회사의 법적 비즈니스 프로필을 제공하거나 업데이트합니다.
+
+    회사 프로필을 조회하거나 회사 정보를 수동으로 입력할 수 있습니다. 회사가 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)에 등록된 경우 DUNS ID를 사용하여 회사 정보를 조회합니다. 회사 세부 정보를 직접 제공하려면 **수동** 을 선택합니다.
+
+4. 회사 정보를 입력한 후에는 기본 연락처 정보를 입력하고 **지금 등록** 을 선택합니다.
 
     기본 연락처는 애플리케이션과 관련하여 Microsoft 쪽에서 연락을 취할 수 있는 조직 내 사람이어야 합니다(귀하 또는 조직 내 다른 사람도 가능). 또한 이 정보는 이 사람이 귀하의 조직에서 일하고 있으며 파트너 센터 계정에 등록되었는지 여부를 확인하는 데 사용됩니다.
 
     > [!IMPORTANT]  
     > 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 이메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 가입했는지, (2) 이 이메일 주소가 귀사의 이메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 이메일 주소를 확인하면 귀하가 제공한 정보 검토가 계속 진행됩니다.
 
-4.  Microsoft 파트너 네트워크 계약의 약관을 읽고 동의합니다. 
+5.  Microsoft 파트너 네트워크 계약의 약관을 읽고 동의합니다. 
 
-5.  귀하가 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
+6.  귀하가 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
     a. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home**)에서 **설정** 아이콘을 선택한 다음, **사용자 관리** 를 선택합니다.  
 

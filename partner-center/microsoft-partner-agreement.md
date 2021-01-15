@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916833"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105514"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -54,7 +54,7 @@ CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsof
 
 1. CSP 전역 관리자 계정 자격 증명으로 파트너 센터에 로그인합니다.
 
-1. **설정** 에서 [파트너 프로필](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)을 선택합니다.
+1. **설정** 에서 **계정 설정** 을 선택한 다음, [파트너 프로필](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)을 선택합니다.
 
 1. **프로그램 정보** 섹션을 확인합니다. 정보에 **간접 재판매인** 상태가 표시되지 않는 경우 [간접 재판매인으로 등록](indirect-reseller-tasks-in-partner-center.md)해야 합니다.
 
@@ -80,6 +80,10 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
 >[!NOTE]
 >회사의 글로벌 관리자만 MPA를 보고 서명할 수 있습니다. 글로벌 관리자가 아닌 경우 글로벌 관리자에게 MPA를 확인하도록 요청해야 합니다.
 
+**계정 설정** 에서 **계약** 을 선택하여 계약에 서명했는지 확인할 수도 있습니다.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="MPA가 서명되었다는 표시":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>프로세스의 진행 상황에 적합한 단계별 가이드 다운로드
 
@@ -91,4 +95,4 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
  
 ## <a name="next-steps"></a>다음 단계
 
-- [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
+- [클라우드 솔루션 공급자 프로그램에 등록](indirect-reseller-tasks-in-partner-center.md)

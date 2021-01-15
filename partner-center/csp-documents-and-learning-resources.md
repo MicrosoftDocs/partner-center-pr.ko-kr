@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120057"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979696"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
@@ -68,7 +68,7 @@ ms.locfileid: "87120057"
 
 일회성 구매 가격 책정은 동적이기도 합니다. 일회성 구매의 예로는 Microsoft Azure 예약 및 Windows Server 및 SQL 소프트웨어에 대한 해당 구독이 있습니다.
 
-Azure Marketplace 제품에 대한 가격 책정 정보를 보려면 파트너 센터 왼쪽 탐색 메뉴의 **Marketplace**로 이동합니다. 제품을 선택하여 게시자, SKU 및 가격 책정에 대한 정보를 확인합니다. 이러한 Azure Marketplace 제품 가격은 자주 변동될 수 있습니다. 모든 Marketplace 제품에 대한 현재 가격 정보를 확인하려면 **가격 목록 내보내기**를 선택하여 모든 가격 책정 데이터가 포함된 스프레드시트를 생성하세요. 이 정보는 매일 업데이트되므로 원하는 만큼 자주 확인할 수 있습니다.
+Azure Marketplace 제품에 대한 가격 책정 정보를 보려면 파트너 센터 왼쪽 탐색 메뉴의 **Marketplace** 로 이동합니다. 제품을 선택하여 게시자, SKU 및 가격 책정에 대한 정보를 확인합니다. 이러한 Azure Marketplace 제품 가격은 자주 변동될 수 있습니다. 모든 Marketplace 제품에 대한 현재 가격 정보를 확인하려면 **가격 목록 내보내기** 를 선택하여 모든 가격 책정 데이터가 포함된 스프레드시트를 생성하세요. 이 정보는 매일 업데이트되므로 원하는 만큼 자주 확인할 수 있습니다.
 
 ## <a name="offers"></a>제품
 
@@ -77,3 +77,8 @@ CSP의 파트너로서 Office 365, Enterprise Mobility Suite, Microsoft Dynamics
 Crest Usage Record API를 사용하는 CSP 파트너를 위해 Microsoft는 **가격 및 제품** 페이지에 CSP의 Azure 서비스 목록도 게시합니다.
 
 ISV(Independent Software Vendors)에서 게시한 Azure Marketplace 제품에 대해 알아보려면 왼쪽 탐색 메뉴에서 **Marketplace** 페이지를 방문하세요. 현재 SaaS(Software as a Service) 제품 유형만 파트너 센터에서 구매할 수 있습니다. 다른 유형의 Azure Marketplace 제품을 구하려면 Azure Portal을 방문해야 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [Microsoft 파트너 계약에 대해 알아보기](microsoft-partner-agreement.md)
+- [클라우드 솔루션 공급자 프로그램에 등록](enrolling-in-the-csp-program.md)
