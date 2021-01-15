@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949323"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215937"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>고객에 대 한 청구 지원을 제공 하 고 대금 청구 질문에 답변 해 주세요.
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>고객에 대한 청구 지원 제공 및 청구 질문에 대한 답변 지원
 
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 사용자 관리자
 - 기술 지원팀 상담원
 - 청구 관리자
 - 영업 상담원
 
-고객에 대 한 청구 관계를 소유 하 고 있으며 고객의 청구 관련 질문에 대답할 책임이 있습니다.
+고객에 대 한 청구 관계를 소유 하 고 있으며 고객이 보유 하 고 있는 청구 관련 질문에 대답할 책임이 있습니다.
 
-- Microsoft에 대 한 실시간 결제를 담당 합니다.
+- Microsoft에 대 한 실시간 지불을 담당 합니다.
 
 - 컬렉션 프로세스를 자세히 설명 하 고 고객의 구독, 서비스 또는 소프트웨어에 대 한 액세스가 영향을 받는 경우에는 명확한 컬렉션 정책을 설정 하는 것이 좋습니다.
 
@@ -66,4 +63,7 @@ CSP 모델의 파트너 거래는 고객에 게 신뢰할 수 있는 관리자 �
 - [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [CSP를 통해 판매 되는 Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>다음 단계
+
+- [기술 지원 제공](provide-technical-support.md)

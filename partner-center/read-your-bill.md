@@ -9,23 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444984"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215818"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.
 
-**적용 대상**
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 청구 관리자
 - 관리 에이전트
 
@@ -36,7 +32,7 @@ ms.locfileid: "87444984"
 
 Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금 (예: Azure RI, Marketplace 또는 Azure 요금제)에 대 한 별도의 송장을 발급 합니다.
 
-예를 들면 다음과 같습니다.  
+예제:  
 
 **시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.  
 
@@ -62,7 +58,7 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다. 
 
-2. 왼쪽 메뉴에서 **청구**를 선택 합니다. 
+2. 왼쪽 메뉴에서 **청구** 를 선택 합니다. 
 
 3. 청구 페이지에서 다운로드 하려는 송장을 선택 합니다. 
 
@@ -97,3 +93,7 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 ## <a name="understand-reconciliation-files"></a>조정 파일 이해
 
  요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다. 조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다. 정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md) 을 참조 하세요. 
+
+## <a name="next-steps"></a>다음 단계
+
+- [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md)

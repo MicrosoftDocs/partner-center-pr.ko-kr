@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950589"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215954"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950589"
 - PSC (파트너 판매 연결) 관리자
 - PSC (파트너 판매 연결) 거래 관리자
 
-이 문서에서는 파트너 센터에 파트너 판매 연결에서 마이그레이션할 파트너 센터에서 공동 판매 거래를 계속 만들고 관리할 수 있는 파트너를 안내 합니다.
+이 문서에서는 파트너 센터에 파트너 판매 연결에서 마이그레이션하는 파트너를 위한 지침을 제공 하므로 파트너 센터에서 공동 판매 거래를 계속 만들고 관리할 수 있습니다.
 
 알고 있듯이 회사는 2021 년 3 월 31 일 이후에 PSC에 대 한 액세스 권한을 잃게 됩니다. 그러나 파트너 센터에서 수행할 모든 작업 (예: 공동 판매 거래, 거래 관리 및 Microsoft 판매자에 게 전송 된 거래 조치)을 계속 찾을 수 있습니다.
 
@@ -353,7 +353,6 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 
 ## <a name="next-steps"></a>다음 단계
 
-다음 추가 리소스를 따르세요.
 
 - 파트너 [판매 파트너 센터 통합 문서에 연결](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -파트너 센터 및 파트너 판매 연결을 통해 파트너의 판매 프로세스 및 역할을 새 판매 프로세스와 맞춥니다.
 - [파트너 센터 공동 판매 운영 가이드](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -파트너 센터를 통해 운영 모델을 식별 하 여 잠재 고객 또는 공동 판매 기회를 관리 하 고 거래를 등록 하는 지침을 제공 합니다.
