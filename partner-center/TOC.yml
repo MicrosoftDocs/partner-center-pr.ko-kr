@@ -675,8 +675,12 @@
         - name: 인사이트 데이터 정의
           href: pci-data-definitions.md
     - name: 파트너 기여 지표
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: 클라우드 비즈니스 애플리케이션 역량의 경우
+          href: partner-contribution-indicators.md
+        - name: 중소기업 클라우드 솔루션 역량의 경우
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: 기타 데이터 분석
       items:
         - name: 고객 Azure 사용량
