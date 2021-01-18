@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062436"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235956"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "98062436"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[노르웨이 크로네 상업 가격 책정 업데이트](2021-january.md#7)|1월 14일|
 |제품/시장|[인도 루피화 상업 가격 책정 업데이트](2021-january.md#6)|1월 8일|
 |제품/시장|[2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트](2021-january.md#5)|1월 8일|
 |제품/시장|[2021년 1월 라이선스 기준 가격표 업데이트](2021-january.md#4)|1월 8일|
