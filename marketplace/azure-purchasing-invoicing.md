@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182480"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584203"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 구매
 
@@ -60,6 +60,20 @@ Azure Marketplace에서 제품을 구매할 때 비용을 관리 하는 데 도�
 Azure Cost Management의 비용 분석 도구에서 Azure Marketplace 요금 및 청구서를 볼 수 있습니다.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Azure Cost Management를 사용 하 여 구매한 제품에 대 한 정보를 얻을 수 있습니다.":::
+
+## <a name="purchase-validation-checks"></a>유효성 검사 구매
+
+Azure Marketplace를 통해 제품을 구매 하는 것은 다양 한 이유로 실패할 수 있습니다. Azure Marketplace에서 제공 되지 않거나 표시 되지 않는 제품을 구매 하려고 할 수 있으므로 구매에 CLI (명령줄 인터페이스)를 사용 하면 오류가 발생할 가능성이 높습니다. 다음은 구매가 실패할 수 있는 검사입니다.
+
+1. 구독은 EA (기업계약)에 속하며 EA 관리자는 구매 Azure Marketplace 사용 하지 않도록 설정 했습니다.
+1. EA 관리자는 무료 제품에 대해서만 구매를 사용 하도록 설정 했으며 제품은 유료 제품입니다.
+1. Marketplace에서 제품을 찾을 수 없습니다.
+1. ISV (독립 소프트웨어 공급 업체)가 최소한의 지역에서 제품 판매를 중지 했습니다.
+1. 사용 중인 구독은 제품을 사용할 수 없는 지역의 청구 계정에 속합니다.
+1. 구독/청구 계정이 유효한 결제 방법 (예: 유효한 신용 카드)과 연결 되어 있지 않습니다.
+1. 구독이 CSP (클라우드 솔루션 공급자)에 속하며 ISV가 CSP를 통해 판매 하지 않았습니다.
+1. 구독에 대해 개인 Marketplace가 사용 하도록 설정 되어 있으며 제품이 허용 된 제안 목록에 없습니다.
+1. 제품이 특정 고객에 대 한 비공개/미리 보기 이며, 구독이 허용 된 고객 목록에 없습니다.
 
 ## <a name="next-steps"></a>다음 단계
 
