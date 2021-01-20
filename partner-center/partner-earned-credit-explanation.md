@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622170"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182412"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
@@ -36,7 +36,7 @@ PEC(파트너 획득 크레딧)를 받으려면 다음 요구 사항이 적용�
 
 - 관리하는 Azure 자산에 대해 획득되는 크레딧을 받으려면 활성 MPN 계약 및 유효한 RBAC(역할 기반 액세스 제어) 역할이 있어야 합니다.
 
-- CSP에서 고객의 Azure 리소스 운영을 연중무휴로 제어하고 관리해야 합니다. 즉, 고객의 Azure 구독, Azure 리소스 그룹, Azure 리소스에 대한 관리자 권한이 있어야 합니다. 간접 공급자 및 해당 간접 재판매인의 경우 둘 중 하나 또는 둘 모두에 이 운영에 대한 제어 권한이 있으면 간접 공급자에게 PEC를 받을 자격이 있습니다. 이에 대한 자세한 내용은 [Azure CSP 구독에 대한 관리자 권한 복구](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)를 참조하세요.
+- CSP에서 고객의 Azure 리소스 운영을 연중무휴로 제어하고 관리해야 합니다. 즉, 고객의 Azure 구독, Azure 리소스 그룹, Azure 리소스에 대한 관리자 권한이 있어야 합니다. 간접 공급자 및 해당 간접 재판매인의 경우 둘 중 하나 또는 둘 모두에 이 운영에 대한 제어 권한이 있으면 간접 공급자에게 PEC를 받을 자격이 있습니다. 이에 대한 자세한 내용은 [Azure CSP 구독에 대한 관리자 권한 복구](./revoke-reinstate-csp.md)를 참조하세요.
 
 - 위의 요구 사항 외에도, PEC는 [Azure 플랜 가격 책정](https://partner.microsoft.com/commerce/sales) 페이지에서 내보낼 수 있는 Azure 플랜 사용량 가격 책정에 나열된 서비스에만 적용됩니다.
 
@@ -48,7 +48,7 @@ PEC(파트너 획득 크레딧)를 받으려면 다음 요구 사항이 적용�
 
 - PEC는 Azure 리소스 수준에서 획득됩니다. 구독 또는 리소스 그룹 수준에서 유효한 액세스 권한이 있는 경우 더 높은 엔터티로 롤업되는 각 리소스에서 PEC를 획득합니다.
 
-- PEC에 대한 자세한 내용은 [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) 페이지에서도 확인할 수 있습니다.
+- PEC에 대한 자세한 내용은 [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) 페이지에서도 확인할 수 있습니다.
 
 ### <a name="calculation"></a>계산
 

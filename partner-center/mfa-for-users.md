@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578294"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182378"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>다단계 인증을 사용하여 사용자 설정
 
@@ -39,11 +39,10 @@ Azure AD 테넌트에 사용자를 추가할 때 사용자에 대한 MFA를 사�
 :::image type="content" source="images/MFA/securityverification.png" alt-text="확인 방법 지정":::
 
 >[!NOTE]
->위와 동일한 단계를 사용하고 **적용** 을 선택하여 사용자가 MFA를 사용하도록 **강제** 할 수 있습니다. 자세한 내용은 [사용자별 Azure Multi-Factor Authentication을 사용하여 로그인 이벤트 보호](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates)를 참조하세요. 
+>위와 동일한 단계를 사용하고 **적용** 을 선택하여 사용자가 MFA를 사용하도록 **강제** 할 수 있습니다. 자세한 내용은 [사용자별 Azure Multi-Factor Authentication을 사용하여 로그인 이벤트 보호](/azure/active-directory/authentication/howto-mfa-userstates)를 참조하세요. 
 
 모든 사용자는 처음에  **사용 안 함** 으로 설정되어 있습니다. 사용자별 Azure Multi-Factor Authentication에 사용자를 등록하면 해당 사용자의 상태가  **사용** 으로 변경됩니다. 사용하도록 설정된 사용자가 로그인하고 등록 프로세스를 완료하면 해당 사용자의 상태가  **적용됨** 으로 변경됩니다. 
 
 ## <a name="next-steps"></a>다음 단계
 
 - [사용자에게 역할 및 사용 권한 할당](permissions-overview.md)
-

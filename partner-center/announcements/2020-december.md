@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736543"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182565"
 ---
 # <a name="december-2020-announcements"></a>2020년 12월 공지
 
@@ -152,7 +152,7 @@ IT 관리자, IT 의사 결정자, 최고 정보 관리 책임자 및 최종 사
 **변경의 영향**
 
 - **2020년 11월 30일** 부터 고객은 더 이상 Internet Explorer 11에서 Microsoft Teams 웹 앱에 연결할 수 없습니다. [새로운 Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)를 사용하면 고객이 Microsoft 365를 최대한 활용하고 최신 브라우저를 가장 잘 표현할 수 있습니다.
-- **2021년 3월 9일** 이후 Microsoft Edge 레거시용으로 만든 애플리케이션 및 사이트는 새로운 Microsoft Edge에서 계속 작동하지만, 호환성 문제가 발생하면 [App Assure 약속](https://aka.ms/appassure)에서 지원을 제공합니다.
+- **2021년 3월 9일** 이후 Microsoft Edge 레거시용으로 만든 애플리케이션 및 사이트는 새로운 Microsoft Edge에서 계속 작동하지만, 호환성 문제가 발생하면 [App Assure 약속](/fasttrack/products-and-capabilities#app-assure)에서 지원을 제공합니다.
 - **2021년 8월 17일** 이후 고객은 성능이 저하된 환경을 갖거나 Internet Explorer 11에서 Microsoft 365 앱 및 서비스에 연결할 수 없게 됩니다. [새로운 Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)를 사용하면 고객이 Microsoft 365를 최대한 활용하고 최신 브라우저를 가장 잘 표현할 수 있습니다.
 
 ### <a name="next-steps"></a>다음 단계
@@ -280,7 +280,7 @@ CSP 프로그램에 등록된 모든 파트너는 **2021년 1월 19일** 부터 
 
 - CSP 영구 소프트웨어 가격표가 파트너 센터에 다시 게시됩니다. 이는 [판매 > 가격 책정 및 제안](https://partnercenter.microsoft.com/pcv/sales) 페이지의 **소프트웨어** 섹션에서 찾을 수 있으며, 추가 제품 및 지역이 포함되어 있습니다. 전체 세부 정보는 [여기](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)를 참조하세요.
 
-- 파트너 센터 소프트웨어 및 라이선스 키 처리 기능은 더 이상 사용되지 않으며([공지](https://docs.microsoft.com/partner-center/announcements/2020-september#17) 참조), 파트너는 향후 이 목적으로만 Microsoft 365 관리 센터를 사용합니다. 이를 통해 고객에게 가장 안전하고 효율적인 환경이 보장됩니다. [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
+- 파트너 센터 소프트웨어 및 라이선스 키 처리 기능은 더 이상 사용되지 않으며([공지](./2020-september.md#17) 참조), 파트너는 향후 이 목적으로만 Microsoft 365 관리 센터를 사용합니다. 이를 통해 고객에게 가장 안전하고 효율적인 환경이 보장됩니다. [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
 
 ### <a name="perpetual-software-in-csp"></a>CSP의 영구 소프트웨어
 
@@ -292,7 +292,7 @@ CSP 프로그램에 등록된 모든 파트너는 **2021년 1월 19일** 부터 
 
 - 2021년 1월 19일에 추가되는 [CSP 영구 소프트웨어 제품 및 지역](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 
-- Microsoft 365 관리 센터 [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 관리 센터 [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - [클라우드 솔루션 공급자 프로그램에서 파트너를 위한 기회 확장](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)(파트너 공지)
 
@@ -573,4 +573,4 @@ _ 2020년 8월 31일:  최초 게시 날짜
 
 - 2020년 11월 10일: 테스트 가입 미리 알림 
 
-- 2020년 12월 3일: API 업데이트 라이브 
+- 2020년 12월 3일: API 업데이트 라이브

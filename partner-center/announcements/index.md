@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235956"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560496"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "98235956"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|제품/시장|[2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작](2021-january.md#9)|1월 15일|
+|기능|[MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션](2021-january.md#8)|1월 15일|
 |제품/시장|[노르웨이 크로네 상업 가격 책정 업데이트](2021-january.md#7)|1월 14일|
 |제품/시장|[인도 루피화 상업 가격 책정 업데이트](2021-january.md#6)|1월 8일|
 |제품/시장|[2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트](2021-january.md#5)|1월 8일|

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439083"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182548"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -40,7 +40,7 @@ Microsoft는 클라우드 솔루션 공급자 프로그램의 파트너가 파�
 
 ### <a name="details"></a>세부 정보
 
-Microsoft는 간접 공급자 및 직접 청구 파트너를 포함하여 클라우드 솔루션 공급자 프로그램의 파트너가 파트너 센터에서  [요금제](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) 를 통해 SaaS 제품을 구매할 수 있는 기능을 소개합니다. 현재 클라우드 솔루션 공급자 프로그램의 파트너는  [Azure Portal을 통한 요금제로 SaaS 제품을 보고 구매](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)할 수 있습니다. 이 새로운 경험을 통해 파트너는 다른 SaaS 제안 유형에서와 마찬가지로 파트너 센터의 CSP Marketplace 및 API를 통해 이러한 제품을 구매할 수 있습니다. 
+Microsoft는 간접 공급자 및 직접 청구 파트너를 포함하여 클라우드 솔루션 공급자 프로그램의 파트너가 파트너 센터에서  [요금제](/azure/marketplace/partner-center-portal/saas-metered-billing) 를 통해 SaaS 제품을 구매할 수 있는 기능을 소개합니다. 현재 클라우드 솔루션 공급자 프로그램의 파트너는  [Azure Portal을 통한 요금제로 SaaS 제품을 보고 구매](../csp-commercial-marketplace-purchase.md)할 수 있습니다. 이 새로운 경험을 통해 파트너는 다른 SaaS 제안 유형에서와 마찬가지로 파트너 센터의 CSP Marketplace 및 API를 통해 이러한 제품을 구매할 수 있습니다. 
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -309,23 +309,23 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[고객의 모든 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID별 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[고객의 모든 주문 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID별 주문 가져오기](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[구독 프로비전 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[주문 관리 및 구독 관리](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[구독에 대한 추가 기능 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[구독에 대한 Azure 자격 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[구독 등록 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[고객의 모든 전송 정보 가져오기](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[제품 업그레이드 상태 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[평가판 전환 제품 목록 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[고객의 모든 주문 가져오기](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID별 주문 가져오기](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[구독 프로비전 상태 가져오기](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[주문 관리 및 구독 관리](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[구독에 대한 추가 기능 목록 가져오기](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[구독에 대한 Azure 자격 목록 가져오기](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[구독 등록 상태 가져오기](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[고객의 모든 전송 정보 가져오기](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[제품 업그레이드 상태 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[평가판 전환 제품 목록 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-이 공지는 파트너에게 앞으로 있을 변경 내용에 대해 미리 알려서 적절하게 대비할 수 있도록 돕는 것이 그 목적입니다. 파트너는 이러한 API를 숙지하고 활동 로그 API를 사용하여 효율성을 높이고 제한을 방지하는 것이 좋습니다. 이 기능에 대한 자세한 내용은 [API 제한 지침](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)의 세부 정보를 참조하세요. 
+이 공지는 파트너에게 앞으로 있을 변경 내용에 대해 미리 알려서 적절하게 대비할 수 있도록 돕는 것이 그 목적입니다. 파트너는 이러한 API를 숙지하고 활동 로그 API를 사용하여 효율성을 높이고 제한을 방지하는 것이 좋습니다. 이 기능에 대한 자세한 내용은 [API 제한 지침](/partner-center/develop/api-throttling-guidance)의 세부 정보를 참조하세요. 
 
 ### <a name="next-steps"></a>다음 단계
 
-[API 제한 지침](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)을 검토하고 필요한 단계를 수행합니다. 
+[API 제한 지침](/partner-center/develop/api-throttling-guidance)을 검토하고 필요한 단계를 수행합니다. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Context
 
 - 올해 2월에 파트너에게 MCuA(Microsoft 고객 계약)에 서명하라는 요청이 전달되었습니다. 이는 이전 MCA(Microsoft 클라우드 계약)에서 마이그레이션하기 위한 조치였습니다. 
-- 이 변경 조치의 일환으로 파트너에게 [여기](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)에 설명된 계약 유형 매개 변수를 포함해 달라고 요청했습니다.
+- 이 변경 조치의 일환으로 파트너에게 [여기](/partner-center/develop/get-confirmation-of-customer-agreement)에 설명된 계약 유형 매개 변수를 포함해 달라고 요청했습니다.
 
 ### <a name="what-happened-next"></a>그 후 진행 상황:
 
