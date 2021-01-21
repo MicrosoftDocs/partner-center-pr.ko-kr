@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560496"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571655"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "98560496"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|비즈니스 확장|[이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능](2021-january.md#11)|1월 19일|
+|비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-january.md#10)|1월 19일|
 |제품/시장|[2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작](2021-january.md#9)|1월 15일|
 |기능|[MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션](2021-january.md#8)|1월 15일|
 |제품/시장|[노르웨이 크로네 상업 가격 책정 업데이트](2021-january.md#7)|1월 14일|

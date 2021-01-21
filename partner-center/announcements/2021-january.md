@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062453"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571672"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -23,6 +23,207 @@ ms.locfileid: "98062453"
 2021년 공지: 1월
 
 2020년 공지: [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | [10월](2020-October.md) | [11월](2020-november.md) | [12월](2020-december.md)  
+
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> 이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-19
+- 비즈니스 확장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+모든 CSP 파트너
+
+### <a name="details"></a>세부 정보
+
+오늘 [발표](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)한 대로 이제 모든 CSP 파트너가 판매할 수 있도록 상업용 영구 소프트웨어 라이선스를 일반 공급할 수 있음을 알려 드리게 되어 기쁘게 생각합니다. 파트너 센터 CSP 영구 소프트웨어 가격 목록이 다시 게시되었으며 이제 추가 제품 및 지역이 포함되어 있습니다.
+
+또한 오늘부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되었으며, 앞으로 이 기능을 사용하려면 파트너와 고객은 Microsoft 365 관리 센터를 사용해야 합니다.
+자세한 내용 및 다음 단계는 아래를 참조하세요.
+
+### <a name="next-steps"></a>다음 단계
+
+- 파트너 센터 [가격 및 제품](https://partnercenter.microsoft.com/en-us/pcv/sales) 페이지의 **소프트웨어** 섹션에서 **CSP 영구 소프트웨어** 가격 목록을 다운로드합니다. 새로 추가된 제품 및 지역 목록은 [여기](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)에서 찾을 수 있습니다.
+- [ Microsoft 365 관리 센터 영구 소프트웨어 및 제품 라이선스 키 다운로드 방법 문서](https://go.microsoft.com/fwlink/p/?linkid=2152525)를 검토하고 고객이 소프트웨어 및 라이선스 키를 다운로드할 준비가 되면 공유하세요.
+- [클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](https://partner.microsoft.com/resources/collection/software-in-csp#/) 준비 자료를 검토하세요. 이 [준비 맵](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)을 사용하여 역할에 필요한 정보를 신속하게 찾을 수 있습니다.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> 미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-19
+- 비즈니스 확장
+
+### <a name="summary"></a>요약
+
+Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 API 제한을 구현합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너  
+
+### <a name="details"></a>세부 정보
+
+2021년 2월부터 Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 API 제한을 구현합니다. 이러한 제한은 과도한 리소스 사용을 방지하기 위해 일정 시간 동안 서비스 요청 수를 제한합니다. 제한 임계값을 초과하면 파트너 센터는 해당 클라이언트의 추가 요청을 일정 시간 동안 제한합니다.
+  
+**파트너 혜택:** 파트너 센터는 대량의 요청을 처리하도록 설계되었지만, 소수의 파트너가 너무 많은 요청을 수행할 경우 모든 파트너의 최적 성능과 안정성을 유지하기 위해 요청을 제한합니다.  
+
+- 이를 통해 가동 중지 시간을 최소화합니다.
+- 이러한 제한은 대용량 요청 수를 줄여 모든 파트너에게 일관된 성능을 보장합니다.
+
+**제한되는 API:**
+
+| 작업 | 파트너 센터 설명서 |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [ID별 구독 가져오기](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [모든 고객 주문 가져오기](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [ID별 주문 가져오기](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [구독 프로비전 상태 가져오기](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [주문 관리 및 구독 관리](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [구독에 대한 추가 기능 목록 가져오기](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [구독에 대한 Azure 권리 유형 목록 가져오기](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [구독 등록 상태 가져오기](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [고객의 모든 전송 정보 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [제품 업그레이드 상태 가져오기](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [평가판 전환 제품 목록 가져오기](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+파트너는 효율성을 높이고 제한을 방지하기 위해 활동 로그 API 사용을 고려하는 것이 좋습니다. 이 기능에 대한 자세한 내용은  [여기](/partner-center/develop/api-throttling-guidance)에서 세부 정보를 참조하세요.  
+
+### <a name="next-steps"></a>다음 단계
+
+이 항목에 대한  [리소스](/partner-center/develop/api-throttling-guidance) 를 검토하고 필요한 단계를 수행합니다.  
+
+_____________
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-15
+- 제품/시장
+
+### <a name="summary"></a>요약
+
+여러 Microsoft 365 시작은 1월에 가격표 미리 보기에 포함되며 2021년 2월 1일부터 제공됩니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[정부용 Microsoft 365 G5 규정 준수 구성 요소 SKU](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+2021년 2월 1일부터 GCC(정부 커뮤니티 클라우드) 및 GCC High 고객을 위한 세 가지 새로운 구성 요소 제품을 출시합니다. 이러한 SKU는 현재 상업용으로 제공되는 Microsoft 365 E5 정보 보호 및 거버넌스, M365 E5 내부 위험 관리 및 Microsoft 365 E5 eDiscovery 및 감사에 해당합니다. 
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |GCC용 Microsoft 365 E5 정보 보호 및 거버넌스|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |GCC용 Microsoft 365 E5 eDiscovery 및 감사|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |GCC용 Microsoft 365 E5 내부 위험 관리|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |GCC용 Microsoft 365 E5 정보 보호 및 DLP(추가 기능)|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[10년 감사 로그 보존 추가 기능](/microsoft-365/compliance/)
+
+Microsoft 365 E5의 필수 구성 요소로 제공되는 추가 기능을 통해 고객은 10년 동안 데이터를 보유할 수 있습니다. 
+
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |EDU용 10년 감사 로그 보존 추가 기능|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10년 감사 로그 보존 추가 기능|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>일선 작업자 추가 기능
+
+2021년 2월 1일부터 고객은 [Microsoft 365 F1 및 F3 SKU](https://www.microsoft.com/microsoft-365/firstline-workers)의 추가 기능으로 일선 작업자를 위한 세 가지 새로운 보안 및 규정 준수 프로그램 제품을 구매할 수 있습니다.
+
+이러한 프로그래밍 방식의 제품은 **2021년 2월 28일** 에 만료되는 현재의 [보안 및 규정 준수](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) 프로모션을 대체합니다. 현재 프로모션과 달리 F5 추가 기능은 고객이 일선 작업자가 증가함에 따라 예측 가능성을 높여줍니다.
+
+   
+   |**제품 이름**|**제품 ID**|**소재 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 보안|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5 규정 준수|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 보안 및 규정 준수|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>다음 단계
+
+가격표 미리 보기를 검토하고 조직 내의 해당 담당자와 공유하세요. 자세한 내용은 [Microsoft 보안 및 규정 준수 - Microsoft 기술 커뮤니티](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance)를 참조하세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이러한 제품에 대한 추가 질문은 관련 Yammer 커뮤니티를 확인하세요. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-15
+- 기능
+
+### <a name="summary"></a>요약
+
+Microsoft는 모든 전자 서명 처리를 DocuSign에서 Adobe Sign으로 전환합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+MPA의 기존 직접 및 간접 CSP(클라우드 솔루션 공급자) 파트너. 우크라이나어, 러시아 및 카자흐스탄의 파트너는 매년 물리적 또는 전자적으로 Rider를 다시 서명해야 합니다.
+
+### <a name="details"></a>세부 정보
+
+2021년 2월 Microsoft는 모든 전자 서명 처리를 DocuSign에서 CSP 파트너용 Adobe Sign으로 전환할 것입니다. 
+
+원활한 전환을 기대해 주세요. 마이그레이션 시, 전자 서명이 필요할 때마다 DocuSign 대신 adobesign@adobesign.com에서 이메일을 받게 됩니다. 이 이메일은 서명이 필요한 Adobe Sign 웹 페이지에 대한 링크를 제공합니다. Microsoft 파트너는 기존 계약에 다시 서명할 필요가 없으며, 향후의 채널 계약에만 서명하면 됩니다. 
+
+[리소스 갤러리](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)에서 Adobe Sign 서명 요청 이메일의 예를 찾을 수 있습니다. 
+
+**최상의 환경을 위해서는 다음을 수행해야 합니다.**
+
+1. 이 계정의 이메일이 정크 메일 폴더로 바로 들어가지 않도록 수신 허용 목록에 adobesign@adobesign.com을 추가합니다.
+2. IT 부서와 협력하여 다음을 수행합니다.
+   - 수신 허용 목록에 adobesign@adobesign.com 이메일 주소를 추가하여 미리 설정된 피싱 규칙에 포함되지 않도록 합니다.
+   - 모든 필수 수신자가 Adobe Sign 엔터프라이즈 라이선스에 따라 문서에 서명할 수 있도록 기존 보안 정책을 업데이트합니다.
+
+Adobe Sign은 Microsoft의 기본 설정 ESS(전자 서명 솔루션)입니다. Adobe Sign으로 전환하면 안전하고 효율적인 전자 서명 환경을 보장하여 고객과 파트너에게 더 큰 가치를 제공합니다.
+
+문서 및 전자 서명 위임을 전자 서명하는 방법에 대한 자세한 내용은 다음 **자습서** 를 참조하세요. 
+- [문서에 전자적으로 서명 | Adobe Sign 자습서](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [다른 사람에게 위임하여 문서에 서명 | Adobe Sign 자습서](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>다음 단계
+
+이 정보를 조직의 적절한 관련자와 공유합니다.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+질문이 있는 경우 [CLT(Call Logging Tool)](https://clt.partners.extranet.microsoft.com/CLT)를 이용하거나 [Explore MS](https://www.explore.ms/)에서 지역 운영 센터에 문의하세요. 질문을 최대한 빨리 해결할 수 있도록 표준 CLT 프로세스를 잘 지켜 주세요.
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>노르웨이 크로네 상업 가격 책정 업데이트 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-14
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+노르웨이어 크로네를 사용하는 클라우드 솔루션 공급자 파트너.
+
+### <a name="details"></a>세부 정보
+
+2021년 3월 1일부터 상업용 온-프레미스 소프트웨어 및 온라인 서비스에 대한 노르웨이 크로네 가격이 지역의 일반적인 가격 수준에 맞게 변경됩니다.
+전체 공지는 Microsoft 파트너에게만 제공됩니다. [전체 공지에 액세스하려면 로그인하세요](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 

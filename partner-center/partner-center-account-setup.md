@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 관리
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 파트너 센터에서 회사의 프로필, 은행 및 세금 정보, 역할, 권한 등을 관리하는 방법을 알아봅니다.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011532"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235973"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
-**적절한 역할** – 전역 관리자, MPN 관리자
+**적절한 역할** – 전역 관리자
+- MPN 계정 관리자
 
 등록 시 파트너 센터에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
 
@@ -60,6 +61,10 @@ ms.locfileid: "97011532"
 ### <a name="legal-info"></a>법적 정보
 
 파트너 센터에 처음 가입하면 회사는 Microsoft와의 확인 프로세스를 거칩니다. **법적 정보** 페이지에서 확인 상태를 추적할 수 있습니다. 여기에는 Microsoft가 파트너 질문과 관련하여 연락하는 사람인 기본 연락 담당자와 법적 정보 및 상태를 관리하는 기본 법적 연락 담당자가 표시됩니다. 여기에는 회사의 모든 비즈니스 위치가 나열되고 추가될 수 있습니다.
+
+### <a name="primary-contact-email"></a>기본 연락처 이메일
+
+기본 연락처 이메일은 계정 확인 관련 정보를 알려주는 데 사용됩니다. 기본 연락처에 제공하는 이메일은 정기적으로 관리하고 감시하는 이메일이어야 합니다.  
 
 [확인 및 계정 정보](verification-responses.md)에 대해 자세히 알아보세요.
 
@@ -122,9 +127,9 @@ ms.locfileid: "97011532"
 
 특정 파트너 센터 프로그램에서 등록하는 방법에 대한 자세한 내용은 다음 부분 목록을 참조하세요.
 
-- [상업용 Marketplace 프로그램](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [상업용 Marketplace 프로그램](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft 파트너 네트워크 멤버십 혜택](mpn-overview.md)
-- [CSP 프로그램](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP 프로그램](./enrolling-in-the-csp-program.md)
 - [Office 스토어](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 파트너 센터 프로그램에 등록하는 방법에 대한 자세한 내용은 [파트너 네트워크 리소스](https://partner.microsoft.com/)를 참조하세요.
