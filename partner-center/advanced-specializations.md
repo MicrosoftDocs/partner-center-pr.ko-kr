@@ -1,7 +1,7 @@
 ---
 title: 고급 특수화에 대해 알아보기
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 기존 골드 및 실버 역량에 따라 얻을 수 있는 고급 특수화에 대해 알아보세요.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204022"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658402"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>유효성이 검사 된 기능을 보여 주기 위해 고급 특수화 획득
 
@@ -45,6 +45,7 @@ Microsoft 고급 특수화는 파트너 들이 달성할 수 있는 관련 [골�
 
 **Azure** 고급 특수화는 다음과 같습니다.
 
+- Microsoft Azure에 대 한 분석
 - Microsoft Azure로 데이터 웨어하우스 마이그레이션
 - Microsoft Azure의 Kubernetes
 - Microsoft Azure로의 Linux 및 오픈 소스 데이터베이스 마이그레이션
