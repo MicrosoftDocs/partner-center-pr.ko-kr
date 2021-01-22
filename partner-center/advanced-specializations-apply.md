@@ -1,7 +1,7 @@
 ---
 title: 고급 특수화에 적용
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 파트너 센터를 사용 하 여 고급 특수화를 적용 하 고 획득 하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440050"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658419"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>파트너 센터를 사용 하 여 고급 특수화에 적용 하 고 해당 상태를 확인 합니다.
 
@@ -60,20 +60,21 @@ ms.locfileid: "96440050"
 
 타사 감사자 감사를 필요로 하는 고급 특수화는 다음과 같습니다.
 
+- Microsoft Azure에 대 한 분석
 - Microsoft Azure로 데이터 웨어하우스 마이그레이션
-- Microsoft Azure Kubernetes
-- Microsoft Azure에 대 한 Linux 및 오픈 소스 데이터베이스 마이그레이션
-- Microsoft Windows 가상 데스크톱
-- Microsoft Azure 웹 응용 프로그램 현대화
-- Windows Server 및 Microsoft Azure로 SQL Server 마이그레이션
+- Microsoft Azure의 Kubernetes
+- Microsoft Azure에 대한 Linux 및 오픈 소스 데이터베이스 마이그레이션
+- Microsoft Windows Virtual Desktop
+- 웹 애플리케이션을 Microsoft Azure로 현대화
+- Microsoft Azure로 Windows Server 및 SQL Server 마이그레이션
 
 고객 참조가 필요한 고급 특수화는 다음과 같습니다.
 
 - 채택 및 변경 관리
-- Microsoft 팀에 대 한 호출
+- Microsoft Teams 통화
 - Microsoft 팀을 위한 모임 및 회의실
 - Azure의 SAP
-- Teamwork 배포
+- 팀워크 구축
 - ID 및 액세스 관리
 - Threat Protection
 
