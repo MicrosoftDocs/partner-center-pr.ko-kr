@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166701"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759862"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource란?
 
@@ -46,7 +46,7 @@ AppSource에서 사용할 수 있는 모든 제품은 특정 조건에 따라 �
 
 소프트웨어 공급 업체는 가격, 최종 사용자 사용권 계약 및 개인 정보 취급 방침을 정의 합니다. AppSource의 모든 제품은 게시자의 사용권 계약 및 개인 정보 취급 방침에 대 한 링크를 포함 합니다. 이러한 계약을 보고 승인 하는 것은 구매 흐름의 일부입니다. 자세한 내용은 [법적 계약](legal-contracts.md)을 참조 하세요.
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS 및 M365 통합 앱 검색
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>SaaS 및 Microsoft 365 통합 앱 검색
 
 파트너는 Microsoft 365에 대 한 SaaS 응용 프로그램 및 해당 추가 기능을 연결할 수 있습니다. 그러면 추가 기능과 연결 된 SaaS 앱을 가져올 때 특정 Microsoft 365 서비스 또는 제품의 추가 기능을 다운로드 하 여 사용할 수 있습니다.
 
