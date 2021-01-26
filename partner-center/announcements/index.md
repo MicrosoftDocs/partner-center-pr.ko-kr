@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685908"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717848"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "98685908"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
+|기능|[DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경](2021-january.md#13)|1월 25일|
 |기능|[Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대 한 변경 사항](2021-january.md#12)|1월 21일|
 |비즈니스 확장|[이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능](2021-january.md#11)|1월 19일|
 |비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-january.md#10)|1월 19일|
