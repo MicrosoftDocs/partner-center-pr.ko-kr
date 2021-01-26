@@ -1,7 +1,7 @@
 ---
 title: 파트너 계정의 위치 관리
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 새 위치를 추가하는 방법 및 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514805"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773427"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN 계정 위치 관리 및 새 위치 추가
 
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -38,7 +35,7 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 위치 구조":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>새 CSP 비즈니스 위치를 추가하기 위한 필수 구성 요소
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>CSP 비즈니스에 대한 새 계정 위치를 추가하기 위한 필수 구성 요소
 
 새 CSP 비즈니스 위치를 추가하려면 다음과 같은 몇 가지 필수 구성 요소가 있습니다.
 
