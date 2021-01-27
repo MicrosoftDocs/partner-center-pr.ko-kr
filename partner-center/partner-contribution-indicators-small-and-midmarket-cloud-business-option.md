@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: PCI (파트너 기여 지표) 파트너가 소규모 및 Midmarket 클라우드 솔루션 역량을 얻기 전에 충족 해야 하는 것에 대해 알아보세요.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204122"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861430"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>파트너 기여 지표를 사용 하 여 작고 Midmarket 클라우드 솔루션 역량 얻기
 
@@ -157,11 +157,10 @@ Net new 수익은 [성과 지표](partner-contribution-indicators-small-and-midm
 - Net new 수익은 정식 Dynamics 365 제품에 대 한 모든 판매 채널에서 순으로 새로운 청구 된 수익으로 정의 됩니다.
 - Net new 수익은 10 개 점수를 최대한 획득 하 여 연속 12 개월 동안 합산 됩니다.
 - Net new 수익에 대 한 점수는 청구액에서 크레딧을 뺀 값으로 계산 되 고 12 개월 동안 집계 됩니다.
-- Net new 수익은 고객 참여 경로 또는 재무 및 작업 경로를 따르는 다음과 같은 적격 제품을 기반으로 계산 됩니다.
+- Net new 수익은 다음과 같은 적격 제품의 조합에 따라 계산 됩니다.
   - Dynamics 365 고객 참여-제품 포함: 판매, 마케팅, 고객 서비스, 현장 서비스, Project server, 요금제 1, 자동화, 마케팅, Microsoft Relationship 판매
-  - 재무 및 운영-정식 제품은 비즈니스 중심, 용량 및 저장소, 재무 및 작업 (사기 행위 방지, 작업, 소매, HR, 요금제 2 포함), 혼합 현실, 팀 멤버를 포함 합니다.
-  - Dynamics 365 Business Central
-
+  - 재무 및 운영-정식 제품에는 Dynamics 365 비즈니스 중부, 용량 및 저장소, 재무 및 작업 (사기 행위 방지, 작업, 소매, HR, 요금제 2 포함), 혼합 현실, 팀 멤버 등이 포함 됩니다.
+  
 - 판매 채널에는 EA (기업계약), CSP (클라우드 솔루션 공급자) 및 웹 다이렉트가 포함 됩니다.
 - 기업계약 수익 전용:이 수익에는 계약의 첫 번째 연도의 수익이 포함 됩니다. 두 번째 및 세 번째 해의 반복되는 수익은 포함되지 않습니다.
 
