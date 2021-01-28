@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717848"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924924"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,17 +22,18 @@ ms.locfileid: "98717848"
 
 | **범주** | **2021년 1월 공지** | **발표** |
 |---------|:---------|:---------|
-|기능|[DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경](2021-january.md#13)|1월 25일|
-|기능|[Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대 한 변경 사항](2021-january.md#12)|1월 21일|
-|비즈니스 확장|[이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능](2021-january.md#11)|1월 19일|
-|비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-january.md#10)|1월 19일|
-|제품/시장|[2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작](2021-january.md#9)|1월 15일|
-|기능|[MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션](2021-january.md#8)|1월 15일|
-|제품/시장|[노르웨이 크로네 상업 가격 책정 업데이트](2021-january.md#7)|1월 14일|
-|제품/시장|[인도 루피화 상업 가격 책정 업데이트](2021-january.md#6)|1월 8일|
-|제품/시장|[2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트](2021-january.md#5)|1월 8일|
-|제품/시장|[2021년 1월 라이선스 기준 가격표 업데이트](2021-january.md#4)|1월 8일|
-|최신 작업 공간|[새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경](2021-january.md#3)|1월 7일|
+|최신 작업 공간|[새 상거래 제안에 대한 파트너 청구 통화의 EU/EFTA 변경](2021-january.md#14)|1월 27일|
+|기능|[MPA(Microsoft 파트너 계약) – 간접 재판매인 업데이트 및 새 FAQ](2021-january.md#13)|1월 27일|
+|기능|[DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경](2021-january.md#12)|1월 25일|
+|기능|[Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대 한 변경 사항](2021-january.md#11)|1월 21일|
+|비즈니스 확장|[이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능](2021-january.md#10)|1월 19일|
+|비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-january.md#9)|1월 19일|
+|제품/시장|[2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작](2021-january.md#8)|1월 15일|
+|기능|[MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션](2021-january.md#7)|1월 15일|
+|제품/시장|[노르웨이 크로네 상업 가격 책정 업데이트](2021-january.md#6)|1월 14일|
+|제품/시장|[인도 루피화 상업 가격 책정 업데이트](2021-january.md#5)|1월 8일|
+|제품/시장|[2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트](2021-january.md#4)|1월 8일|
+|제품/시장|[2021년 1월 라이선스 기준 가격표 업데이트](2021-january.md#3)|1월 8일|
 |기능|[교육 고객 유효성 검사 프로세스에 사용되는 기존 GET 및 PUT 검증 API가 2021년 2월 말일에 사용 중단 및 사용 중지](2021-january.md#2)|1월 5일|
 |제품/시장|[2021년 2월 Dynamics 365 제품](2021-january.md#1)|1월 4일|
 | **범주** | **2020년 12월 공지** | **발표** |

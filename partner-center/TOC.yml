@@ -51,6 +51,9 @@
         - name: MPN 혜택 찾기
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: 역량 수수료 지불
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: 역량
       items:
         - name: 역량에 대해 알아보기
