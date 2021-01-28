@@ -1,5 +1,5 @@
 ---
-title: 지급 및 세금 프로필 FAQ
+title: 지급액 및 세금 프로필 FAQ
 description: 파트너 센터에서 지급 및 세금 세부 정보에 대 한 일반적인 질문에 대 한 답변을 받으세요. 소득가 예상과 다른 이유에 대 한 답을 포함 합니다.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492588"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924911"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>지급 및 세금에 대 한 일반적인 질문
 
@@ -128,10 +128,6 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 **지급 결제** 페이지의 **지불 목록** 섹션으로 이동합니다. 서비스 수수료 세금이 있는 지불의 경우 서비스 수수료 세금 양식에 대한 링크가 나타납니다.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>원천징수세 양식을 PDF로 다운로드하려면 어떻게 해야 하나요?
-
-*지급 결제* 페이지의 **지불 목록** 섹션으로 이동합니다. 원천징수세 양식에 대한 링크가 지불 옆에 표시됩니다.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>연말 세금 양식은 어디에서 찾을 수 있나요?
 
 연말 세금 양식을 보려면 [프로필 페이지](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)로 이동합니다.
@@ -170,7 +166,7 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>PDF로 원천 세금 양식을 다운로드 하는 어떻게 할까요?
 
-**지급 결제** 페이지의 **지불 목록** 섹션으로 이동합니다. 원천징수세 양식에 대한 링크가 지불 옆에 표시됩니다.
+**지급 결제** 페이지의 **지불 목록** 섹션으로 이동합니다. 원천징수세 양식에 대한 링크가 지불 옆에 표시됩니다. 원천 세금 양식은 상업적 marketplace 지급이 아닌 선택한 동기 프로그램에만 적용 됩니다.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>연말 세금 양식은 어디에서 찾을 수 있나요?
 
