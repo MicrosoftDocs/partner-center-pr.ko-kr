@@ -1,19 +1,19 @@
 ---
 title: MPN 역량에 대 한 요금 지불
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: 하나 이상의 실버 또는 골드 역량을 실현 하거나 갱신 하는 것과 관련 하 여 요금을 지불 하거나 지불 정보를 업데이트 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921107"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042687"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>실버 또는 골드 역량에 관련 된 요금을 지불 하는 방법
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921107"
 이 문서에서는 실버 또는 골드 Microsoft 파트너 네트워크 역량을 실현 하는 것과 관련 된 요금을 지불 하는 방법 및 시기에 대해 설명 합니다. 또한이 문서에서는 기본 결제 방법, 주문을 취소 하는 방법 및 실버에서 골드 역량으로 이동할 때 25% 요금 할인을 받는 방법에 대해 설명 합니다.
 
 > [!NOTE]
-> 실버 또는 골드 역량을 실현 하는 이점, 사용 가능한 특정 역량 및 고유한 요구 사항에 대 한 자세한 내용을 알아보려면 [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/competencies)역량을 참조 하세요. [역량에 대 한 라이선스 테이블] Microsoft 파트너 네트워크를 확인 하 여 사용 가능한 각 역량의 이점에 대해 자세히 알아볼 수도 있습니다.
+> 실버 또는 골드 역량을 실현 하는 이점, 사용 가능한 특정 역량 및 고유한 요구 사항에 대 한 자세한 내용을 알아보려면 [Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/competencies)역량을 참조 하세요. 또한 역량 [에 대 한 Microsoft 파트너 네트워크 라이선스 테이블](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 을 확인 하 여 사용 가능한 각 역량의 이점에 대해 자세히 알아볼 수 있습니다.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>역량의 요구 사항을 충족 하 고 요금 지불
 
@@ -43,7 +43,7 @@ ms.locfileid: "98921107"
 
 2. 탐색 메뉴에서 [멤버 자격 제공](https://partner.microsoft.com/dashboard/mpn/offers) 을 선택 합니다. 
 
-3. **구매할 수 있는** 제품에서 특정 역량에 연결 된 실버 멤버 자격 * * 타일 또는 **골드 멤버 자격** 타일을 찾습니다. 
+3. **구매할 수 있는** 제품에서 특정 역량에 연결 된 **실버 멤버 자격** 타일 또는 **골드 회원** 타일을 찾습니다. 
 
 4. 특정 실버 또는 골드 구성원 자격 타일의 오른쪽 아래에 있는 **구독** 옵션을 선택 합니다.
 
@@ -130,7 +130,7 @@ ms.locfileid: "98921107"
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="구입한 각 제품에 대해 선택 가능한 옵션, 지불 증명 업로드를 표시 하는 증명을 업로드 하는 필드를 포함 하는 세부 정보 페이지" border="false":::
 
-1. 최근 전자 자금 전송 트랜잭션과 관련 된 다른 필드에 대 한 정보를 입력 합니다 (예: **지불 날짜**, * 유료 계정 번호 * * 및 **transaction/Ref no.**).
+1. **지불 날짜**, **계좌 번호** 및 **트랜잭션/참조 아니요** 와 같이 최근 전자 자금 전송 트랜잭션과 관련 된 다른 필드에 대 한 정보를 작성 합니다.
 
   요청이 성공적으로 완료 되었음을 알리는 녹색 메시지가 표시 될 수 있습니다.
 
