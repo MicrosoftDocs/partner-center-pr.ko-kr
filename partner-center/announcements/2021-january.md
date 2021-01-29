@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571672"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717831"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -23,6 +23,124 @@ ms.locfileid: "98571672"
 2021년 공지: 1월
 
 2020년 공지: [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | [10월](2020-October.md) | [11월](2020-november.md) | [12월](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-25
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+모든 CSP 파트너
+
+### <a name="details"></a>세부 정보
+
+오늘 발표된 대로, 고객이 위임된 관리 관계를 승인하거나 제거할 때 파트너에게 가시성을 제공하기 위해 파트너 센터 활동 로그에서 두 가지 새로운 작업 유형을 공개했음을 알려 드리게 되어 기쁘게 생각합니다.
+
+새로운 작업 유형은 다음과 같습니다.
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>다음 단계
+
+- 새로운 작업 유형을 활용하여 고객이 DAP를 승인하고 고객이 종료한 이벤트를 추적합니다.  
+- [파트너 센터 활동 기록 얻기 - 파트너 센터 앱 개발자 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [감사 리소스 - 파트너 센터 앱 개발자 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대한 변경 사항
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-21
+- 기능
+ 
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>상세 정보:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Azure in CSP를 위한 새로운 상거래 환경
+
+새로운 Microsoft 상거래 경험은 고객에게 일관되고 단순화된 구매 경험을 제공하고 구매 방법과 장소에서 더욱 유연하게 디지털 방식으로 전환할 수 있도록 합니다. 파트너는 고객이 Microsoft와 거래하기로 한 채널에 관계없이 고객의 클라우드 경험에서 중요한 역할을 합니다. 완전히 출시되면 업데이트된 상거래 플랫폼과 모델을 통해 파트너는 대기업 고객은 물론 중소기업을 위한 판매 활동을 통해 참여할 수 있으며, 고객 성공을 위해 참여를 확대할 수 있는 기회를 갖게 됩니다.
+
+클라우드 솔루션 공급자 프로그램의 Azure를 위한 새로운 상거래 환경은 관리형 서비스를 구축 및 제공하고, 고객 기반을 더욱 확장하며, 고객의 디지털 전환에 도움이 되도록 파트너에게 더 많은 기회를 줍니다.
+
+새로운 상거래 환경은 다음과 같은 이점을 제공합니다.
+
+- Azure 플랜을 통해 Azure 구매 프로세스를 단순화합니다.
+- 채널 간 가격 조정을 개선합니다. 고객 및 파트너 피드백을 기반으로 하여 클라우드 솔루션 공급자 프로그램의 새로운 Azure 환경은 USD 단위의 단일 가격표를 사용하여 고객과 파트너에게 전 세계적으로 일관된 가격을 제공합니다.
+- 적절한 거버넌스, 고객 경험 및 정책을 통합하여 클라우드 솔루션 공급업체 프로그램의 새로운 Azure 환경으로 전환하는 도구를 제공함으로써 고객 확보의 장애물을 줄입니다.
+- 파트너가 Azure Lighthouse 및 Azure Cost Management와 같은 기능을 활용하여 고객을 보다 효율적으로 관리할 수 있도록 지원합니다. 
+- Azure Marketplace에 대한 액세스를 확장합니다.
+
+Azure에 대한 새로운 상거래 경험을 확장하여, 전환 도구를 사용하여 고객의 변화하는 비즈니스 요구에 대응하고 고객을 클라우드 솔루션 공급자 프로그램의 새로운 Azure 제품으로 안내하도록 지원하는 방식으로 Azure를 더욱 유연하게 관리할 수 있습니다. 클라우드 솔루션 공급자 프로그램에서 고객 Azure 구독 전환을 지원하는 도구 개요를 봅니다.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>클라우드 솔루션 공급자 프로그램의 새로운 Azure 제품(Azure 플랜)
+
+이 새로운 상거래 환경을 통해 파트너는 Azure 플랜을 통해 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다. 이 플랜은 한 Azure 플랜 내에서 여러 Azure 구독을 만들 수 있도록 구매 환경을 단순화합니다. 더 이상 파트너 센터에서 Azure 구독마다 별도의 주문을 제출할 필요가 없습니다.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 이전 Azure 제품 가용성에 대한 변경 사항
+
+클라우드 솔루션 공급자 프로그램의 새로운 Azure 제품(Azure 플랜)을 발표했을 때, 파트너에게 이전 Azure 제품 및 플랫폼은 새로운 Azure 경험과 함께 당분간 계속 사용할 수 있으며, 이전 Azure 제품을 변경하기 전에 6개월 전에 알리겠다고 밝혔습니다.
+
+클라우드 솔루션 공급자 프로그램의 새로운 Azure 제품(Azure 플랜)은 파트너에게 향상된 경험을 제공하는 동시에 새로운 Azure 기능을 서비스와 통합하고 고객을 새로운 환경으로 전환할 수 있는 시간을 파트너에게 주고자 합니다.
+
+이전 Azure 제품에 대해 세 가지 변경 단계가 있습니다. 현재 이 세 단계에 대한 더 많은 정보를 공유하고 있습니다.
+
+#### <a name="three-phases"></a>세 가지 단계
+
+**1단계 – 2021년 7월 21일부터 시작**
+
+1단계에서 모든 새로운 Azure 클라우드 솔루션 공급자 프로그램 비즈니스는 새로운 Azure 플랜 제품에 포함됩니다. 다음 지침이 적용됩니다.
+
+- 클라우드 솔루션 공급자 프로그램에서 파트너와 고객 간의 모든 기존 재판매인 관계에 대해, 고객이 이전 Azure 제품을 이미 구매한 경우 파트너는 계속해서 거래할 수 있으며, 고객은 해당 파트너의 이전 Azure 제품을 계속 구매할 수 있습니다.
+- 이전 Azure 제품은 더 이상 CSP에서 거래하는 순 신규 파트너에게 제공되지 않습니다.
+- 이전 Azure 제품은 더 이상 CSP에서 파트너를 통해 구매하는 순 신규 파트너에게 제공되지 않습니다.
+- 모든 신규 재판매인 관계 또는 신규 고객 취득에서 파트너는 새로운 Azure 제품(Azure 플랜)만 거래할 수 있습니다.
+- 파트너와 고객 간의 모든 기존 재판매인 관계에서 고객이 이전에 Azure를 구매한 적이 없는 경우 파트너는 거래만 할 수 있으며 고객은 해당 파트너로부터 새 Azure 제품만 구매할 수 있습니다.
+
+**2단계 - 2022년 동안**
+
+2022년 내 언젠가 시작될 2단계에서는 인센티브 및 파트너 마진 기회가 이전 Azure 제품에서 사라집니다. 2단계 시작 날짜는 6개월 전에 파트너에게 알려드립니다.
+
+**3단계 - 날짜 미정(TBD)**
+
+3단계에서 이전 Azure 제품의 나머지 고객은 클라우드 솔루션 공급자 프로그램의 새로운 Azure 제품(Azure 플랜)으로 마이그레이션됩니다. 이전 단계와 마찬가지로 3단계 시작 날짜는 6개월 전에 파트너에게 알려드립니다.
+
+#### <a name="partner-earned-credit-pec"></a>PEC(파트너 획득 크레딧)
+
+새로운 상거래 경험으로 파트너는 파트너 획득 크레딧 모델을 통해 지속적으로 차별화된 부가 가치 서비스를 인정받게 됩니다. 파트너는 지속 가능한 수익성을 창출하는 부가 가치 서비스를 통해 고객 성공에 주력하는 파트너에게 크레딧 보상을 제공합니다.
+
+### <a name="next-steps"></a>다음 단계:
+
+파트너는 다음 리소스를 숙지하는 것이 좋습니다.
+
+#### <a name="partner-earned-credit-pec"></a>PEC(파트너 획득 크레딧)
+
+- [파트너 획득 크레딧 이해(가이드)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [파트너 획득 크레딧 - 개요 | 파트너 센터 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [관리형 서비스를 위한 파트너 획득 크레딧 - 개요 | 파트너 센터 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [파트너 획득 크레딧에 대한 역할, 권한 - 파트너 센터 | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Azure in CSP 모듈에서 파트너 획득 크레딧에 대한 주문형 교육 모듈(eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>새 상거래 환경
+
+- [파트너 리소스 갤러리: Azure용 CSP의 새로운 상거래 환경](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)에 문의하세요.
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> 이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능
@@ -40,12 +158,11 @@ ________________
 
 오늘 [발표](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)한 대로 이제 모든 CSP 파트너가 판매할 수 있도록 상업용 영구 소프트웨어 라이선스를 일반 공급할 수 있음을 알려 드리게 되어 기쁘게 생각합니다. 파트너 센터 CSP 영구 소프트웨어 가격 목록이 다시 게시되었으며 이제 추가 제품 및 지역이 포함되어 있습니다.
 
-또한 오늘부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되었으며, 앞으로 이 기능을 사용하려면 파트너와 고객은 Microsoft 365 관리 센터를 사용해야 합니다.
-자세한 내용 및 다음 단계는 아래를 참조하세요.
+또한 오늘부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되었으며, 앞으로 이 기능을 사용하려면 파트너는 고객을 Microsoft 365 관리 센터로 안내하도록 해야 합니다. 자세한 내용 및 다음 단계는 아래를 참조하세요.
 
 ### <a name="next-steps"></a>다음 단계
 
-- 파트너 센터 [가격 및 제품](https://partnercenter.microsoft.com/en-us/pcv/sales) 페이지의 **소프트웨어** 섹션에서 **CSP 영구 소프트웨어** 가격 목록을 다운로드합니다. 새로 추가된 제품 및 지역 목록은 [여기](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)에서 찾을 수 있습니다.
+- 파트너 센터 [가격 및 제품](https://partnercenter.microsoft.com/pcv/sales) 페이지의 **소프트웨어** 섹션에서 **CSP 영구 소프트웨어** 가격 목록을 다운로드합니다. 새로 추가된 제품 및 지역 목록은 [여기](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)에서 찾을 수 있습니다.
 - [ Microsoft 365 관리 센터 영구 소프트웨어 및 제품 라이선스 키 다운로드 방법 문서](https://go.microsoft.com/fwlink/p/?linkid=2152525)를 검토하고 고객이 소프트웨어 및 라이선스 키를 다운로드할 준비가 되면 공유하세요.
 - [클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](https://partner.microsoft.com/resources/collection/software-in-csp#/) 준비 자료를 검토하세요. 이 [준비 맵](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)을 사용하여 역할에 필요한 정보를 신속하게 찾을 수 있습니다.
 
@@ -431,7 +548,7 @@ Microsoft에서는 2021년 2월에 다음을 위한 새 Dynamics 365 제품을 �
 
 Microsoft에서는 2021년 2월 1일에 1-K 응답을 제공하는 새로운 "추가 응답" 제품을 개발할 예정입니다. 새 제품은 2-K 설문 조사 응답을 제공하는 기존 제품을 대체하며, 기존 제품의 판매는 2021년 2월 1일부로 종료됩니다.
 
-SKU 세부 정보는 [Dynamics CSP 제품 - 2021년 2월 Excel 문서](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)의 "고객의 소리 추가 응답" 탭을 참조하세요. 자세한 내용은 [Microsoft Dynamics 365 고객의 소리 홈 페이지](https://dynamics.microsoft.com/en-us/customer-voice/overview/)를 참조하세요.
+SKU 세부 정보는 [Dynamics CSP 제품 - 2021년 2월 Excel 문서](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)의 "고객의 소리 추가 응답" 탭을 참조하세요. 자세한 내용은 [Microsoft Dynamics 365 고객의 소리 홈 페이지](https://dynamics.microsoft.com/customer-voice/overview/)를 참조하세요.
 
 **Dynamics 365 고객 서비스 인사이트 수명 종료**
 

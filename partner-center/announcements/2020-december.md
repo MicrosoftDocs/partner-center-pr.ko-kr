@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182565"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705048"
 ---
 # <a name="december-2020-announcements"></a>2020년 12월 공지
 
@@ -280,7 +280,7 @@ CSP 프로그램에 등록된 모든 파트너는 **2021년 1월 19일** 부터 
 
 - CSP 영구 소프트웨어 가격표가 파트너 센터에 다시 게시됩니다. 이는 [판매 > 가격 책정 및 제안](https://partnercenter.microsoft.com/pcv/sales) 페이지의 **소프트웨어** 섹션에서 찾을 수 있으며, 추가 제품 및 지역이 포함되어 있습니다. 전체 세부 정보는 [여기](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)를 참조하세요.
 
-- 파트너 센터 소프트웨어 및 라이선스 키 처리 기능은 더 이상 사용되지 않으며([공지](./2020-september.md#17) 참조), 파트너는 향후 이 목적으로만 Microsoft 365 관리 센터를 사용합니다. 이를 통해 고객에게 가장 안전하고 효율적인 환경이 보장됩니다. [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
+- 파트너 센터 소프트웨어 및 라이선스 키 처리 기능은 더 이상 사용되지 않으며([공지](./2020-september.md#17) 참조), 앞으로 이 기능을 사용하려면 파트너는 고객에게 Microsoft 365 관리 센터를 사용하도록 안내합니다. 이를 통해 고객에게 가장 안전하고 효율적인 환경이 보장됩니다. [개요](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [일반적인 작업](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) 및 [라이선스 키 처리 기능](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)을 검토하여 Microsoft 365 관리 센터 소프트웨어에 대해 자세히 알아보세요.
 
 ### <a name="perpetual-software-in-csp"></a>CSP의 영구 소프트웨어
 

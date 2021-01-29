@@ -1,20 +1,20 @@
 ---
 title: CSP 파트너를 위한 MPA(Microsoft 파트너 계약)
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 디지털 방식으로 수락하는 이 통합 MPA(Microsoft 파트너 계약)에 서명하고 확인하기 위한 Microsoft CSP 파트너 요구 사항에 대해 알아봅니다.
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105514"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773474"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -68,6 +68,20 @@ CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsof
 
 간접 공급자와의 CSP 관계 요청을 수락해야 합니다.
 
+## <a name="sign-the-mpa"></a>MPA에 서명
+
+1. CSP 간접 재판매인 계정으로 파트너 센터에 로그인합니다. 전역 관리자여야 합니다.
+1. **[CSP 개요](https://partner.microsoft.com/pcv/dashboard/overview)** 페이지로 이동합니다.  **수락하고 계속** 또는 MPA에 서명했다는 녹색 배너가 표시되지 않으면 MPA에 서명할 올바른 역할이 없는 것입니다. MPA에 서명하려면 전역 관리자에게 문의하세요.
+
+1. 서명하기 전에 **Microsoft 파트너 계약** 을 보고 다운로드하려면 아래의 Microsoft 파트너 계약 링크를 클릭합니다.
+
+:::image type="content" source="images/agreement-three.png" alt-text="새로운 MPA 계약 위치":::
+
+>[!NOTE]
+>**Microsoft 파트너 계약** 링크가 표시되지 않으면 파트너 센터에서 역할을 확인하세요. CSP 테넌트의 전역 관리자만 파트너 센터에서 MPA를 보고 서명할 수 있습니다. 역할을 확인하려면 **사용자 관리** 로 이동하여 로그인한 계정이 **전역 관리자** 로 표시되어 있는지 확인하세요. 그렇지 않은 경우 이 계정은 MPA에 서명하는 데 사용할 수 없습니다. 사용자 관리 페이지에서 회사의 전역 관리자를 검색할 수 있습니다.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="역할을 찾는 방법":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>MPA에 서명했는지 확인합니다.
 
 MPA에 서명했는지 확인하려면 다음을 수행합니다.
@@ -75,17 +89,17 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
  회사의 전역 관리자는 [CSP 개요](https://partner.microsoft.com/pcv/dashboard/overview)로 이동하여 MPA를 수락했음을 알리는 녹색 배너가 표시되는지 확인합니다.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="MPA 수락을 보여주는 녹색 배너":::
+:::image type="content" source="images/banner-boxed.png" alt-text="MPA 수락을 보여주는 녹색 배너":::
 
 >[!NOTE]
 >회사의 글로벌 관리자만 MPA를 보고 서명할 수 있습니다. 글로벌 관리자가 아닌 경우 글로벌 관리자에게 MPA를 확인하도록 요청해야 합니다.
 
 **계정 설정** 에서 **계약** 을 선택하여 계약에 서명했는지 확인할 수도 있습니다.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="MPA가 서명되었다는 표시":::
+:::image type="content" source="images/agreement-new.png" alt-text="MPA가 서명되었다는 표시":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>프로세스의 진행 상황에 적합한 단계별 가이드 다운로드
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>MPA 서명 프로세스에 적합한 단계별 가이드 다운로드
 
 1. MPN 계정을 PMC에서 파트너 센터로 마이그레이션하는 경우: [PMC에서 파트너 센터로 마이그레이션하고 Microsoft 파트너 계약에 동의](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

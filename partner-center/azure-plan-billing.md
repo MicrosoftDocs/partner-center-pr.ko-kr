@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜 청구 - 청구서 및 조정 파일
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 요금제에 대한 청구와 관련된 청구서 및 조정 파일 구조에 액세스하고 이해하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534695"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658436"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
@@ -140,9 +140,7 @@ ms.locfileid: "96534695"
 
 Azure 플랜을 통한 Azure 서비스는 USD로 가격이 책정되며 고객의 국가에 할당된 통화 요금이 청구됩니다. 청구 통화가 USD가 아닌 경우 사용되는 환율은 청구서의 마지막 페이지에 표시됩니다. 환율은 매월 결정되며 다음 청구서부터 적용됩니다. 국가 통화의 전체 목록은 [최신 상거래 제품 사용 가능 국가 및 고객 통화표](https://go.microsoft.com/fwlink/?linkid=2112354)를 참조하세요.
 
-Microsoft는 Thomson Reuters를 사용하여 가격 책정 통화를 청구 통화로 변환하는 데 사용되는 환율을 결정합니다. 환율은 적용되는 월의 첫 번째 날짜 이전에 새로 고쳐지고 사용할 수 있습니다.
-
-**예**:  8월 1일 – 8월 31일의 서비스 기간에 대한 사용량 요금은 7월 31일에 게시된 환율을 사용하여 청구됩니다. 이 요금은 9월 청구서에 표시되며, 청구서의 마지막 페이지에 환율이 표시됩니다.
+Microsoft는 변환을 위해 런던 증권 거래소를 따릅니다. 런던 증권 거래소에서 매월 마지막 영업일의 마지막 초의 환율과 동일한 환율을 사용합니다. 환율은 적용되는 월의 첫 번째 날짜 이전에 새로 고쳐지고 사용할 수 있습니다.
 
 ## <a name="azure-reservations"></a>Azure Reservations
 

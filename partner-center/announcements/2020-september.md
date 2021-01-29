@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878803"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705014"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
-현재 파트너는 CSP 소프트웨어 주문에 대한 소프트웨어 다운로드 및 라이선스 키의 처리에 파트너 센터 또는 Microsoft 365 관리 센터 중 하나를 사용할 수 있습니다. **2021년 1월 19일** 부터 파트너 센터 소프트웨어 및 라이선스 키 처리 기능이 사용 중지될 예정이며, 파트너는 이 목적에 **Microsoft 365 관리 센터** 만 사용해야 합니다. 파트너 센터 내의 고객 소프트웨어 페이지에는 고객 라이선스 및 소프트웨어 다운로드를 얻을 수 있는 Microsoft 365 관리 센터에 대한 "딥 링크"가 제공될 예정입니다. 이 링크를 통해 고객에게 가장 안전하고 효율적인 환경을 제공할 수 있습니다.
+현재 파트너는 CSP 소프트웨어 주문에 대한 소프트웨어 다운로드 및 라이선스 키의 처리에 파트너 센터 또는 Microsoft 365 관리 센터 중 하나를 사용할 수 있습니다. **2021년 1월 19일** 부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되고 이 기능을 사용하려면 파트너는 고객에게 **Microsoft 365 관리 센터** 를 사용하도록 안내합니다. 파트너 센터 내의 고객 소프트웨어 페이지에는 고객 라이선스 및 소프트웨어 다운로드를 얻도록 고객을 안내할 수 있는 Microsoft 365 관리 센터에 연결되는 "딥 링크"가 제공됩니다. 이 링크를 통해 고객에게 가장 안전하고 효율적인 환경을 제공할 수 있습니다.
 
 소프트웨어 라이선스 키와 다운로드 링크는 매우 소중하고 인기가 많은 지적 자산입니다. 유출될 경우 활성화 제한이 빠르게 삭제되어 고객 및 파트너 환경에 부정적인 영향을 미칠 수 있습니다. 따라서 파트너는 이처럼 중요한 자산을 지키고 고객을 보호할 수 있도록 가장 안전한 기술과 모범 사례를 사용하는 것이 중요합니다.
 
