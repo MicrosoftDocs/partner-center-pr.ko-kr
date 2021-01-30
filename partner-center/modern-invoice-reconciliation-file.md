@@ -1,19 +1,19 @@
 ---
 title: CSP 일회성 구매를 위한 정찰 파일 필드
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: 샘플 값을 포함 하 여 파트너 센터에서 CSP 일회성 구매 조정 파일의 모든 항목에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182582"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098808"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 일회성 구매 조정 파일 필드
 
@@ -39,7 +39,7 @@ ms.locfileid: "98182582"
 | AvailabilityId | 가용성 고유 식별자입니다. | *DZH318Z08B80* |
 | SkuName | SKU 이름입니다. | *테이블-LRS* |
 | ProductName | 제품 이름입니다. | *테이블* |
-| ChargeType | 요금 또는 조정 [의 유형](./recon-file-charge-types.md) 입니다. | *새로 만들기* |
+| ChargeType | 요금 또는 조정 [의 유형](./recon-file-charge-types.md) 입니다. | *새 항목* |
 | UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *0.045* |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *1* |
 | 소계 | 세금 앞의 합계입니다. 부분합이 청구 가능한 수량에 유효 단가를 곱한 값과 같아야 합니다. | *0* |
@@ -64,6 +64,9 @@ ms.locfileid: "98182582"
 | PCToBCExchangeRateDate | 청구 통화에 대 한 가격 책정 통화를 결정 하는 날짜입니다. | *2020년 9월 30일* |
 | MeterDescription | 측정기 설명입니다.  | *테이블-저장 된 LRS 데이터 (g b/월)* |
 | ReservationOrderId | 예약 주문 Id입니다. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>일회성 구매 정찰 파일에서 Azure 사용량을 조정할 수 있습니다. 이렇게 하려면 매일 등급 사용 정찰 파일로 이동 하 여 SubscriptionID를 검색 합니다. 그러면 Azure 계획 ID와 관련 된 모든 비용이 표시 됩니다. Azure SubscriptionID가 EntitlementID로 표시 됩니다.
 
 ## <a name="next-steps"></a>다음 단계
 
