@@ -84,7 +84,10 @@
           displayName: mpn
         - name: 혜택 FAQ
           href: benefits-faq.md
-          displayName: 'renew, license, mpn'
+          displayName: 'renew, license,'
+        - name: Azure 및 클라우드 혜택
+          href: mpn-benefits-azure-cloud.md
+          displayname: 'activate, azure license, mpn, renew'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
