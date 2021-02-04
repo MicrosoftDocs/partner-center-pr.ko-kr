@@ -1,7 +1,7 @@
 ---
 title: Microsoft 파트너 네트워크 혜택 FAQ
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Microsoft 파트너 네트워크 혜택에 대 한 정책에 대 한 질문과 대답입니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349517"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552395"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft 파트너 네트워크 혜택 FAQ
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349517"
 
 - MPN 파트너 관리자
 
-
 다음 문서에서는 MPN () 파트너의 MPN 멤버 자격 혜택, 역량 및 제품 라이선스에 대해 설명 하는 몇 가지 주요 Microsoft 파트너 네트워크 질문에 답변 합니다.
+
+## <a name="responding-to-covid-19"></a>COVID-19에 응답
+
+**Q.** **, microsoft의 역량 기념일 날짜는 covid-19와 관련 된 영향 때문에 역량 요구 사항을 충족할 수 없습니다. 무엇을 해야 하나요?**
+
+A. 역량 예정일 날짜가 2021 년 1 월 1 일부 터 6 월 30 일 사이에 있는 경우 2022에서 다음 기념일을 통해 기존 역량 또는 역량 (클라우드 Business Applications 역량 제외)을 확장 합니다. 시험 또는 성능 요구 사항을 충족 하지 않아도 되지만, 계속 해 서 역량 요금을 지불 하 게 됩니다.자세한 내용은 [블로그 게시물](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)을 참조 하세요.
 
 ## <a name="membership"></a>Membership
 
@@ -140,18 +145,7 @@ A. 역량 attainment 및 Action Pack 구매는 파트너 전역 계정을 통해
 
 A. [파트너 센터의 지원 섹션](https://partner.microsoft.com/support) 으로 이동 하 여 도움을 받을 수 있는 리소스에 대 한 링크를 제공 하거나 필요한 경우 파트너 지원 팀과 함께 티켓을 열 수 있습니다.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>COVID-19의 효과를 오프셋 하기 위한 역량 확장
-
-**Q: Microsoft에서 파트너와 피해 파트너에 게 도움을 제공 하나요?**
-
-A: 2020 년 7 월 1 일에서 12 월 31 일 사이에 역량 기념일 날짜가 있는 파트너의 경우 2021에서 다음 기념일 날짜까지 파트너의 기존 역량 또는 역량을 확장 하 게 됩니다. 파트너는이 새 제품을 반영 하는 갱신 미리 알림을 받게 됩니다. 파트너는 30 일 갱신 기간 내에 역량 요금을 지불 해야 합니다.
-
-**Q: 파트너가 30 일의 갱신 기간을 놓친 경우는 어떻게 되나요?**
-
-A: 파트너는 파트너 센터의 멤버 자격 제안 페이지에서 해당 비용을 지불 하 고 기념일을 게시 하 여 리소스 및 혜택에 대 한 역량을 다시 활성화 하 고 리소스와 혜택에 대 한 액세스 권한을 다시 얻을 수 있습니다. 파트너가 30 일의 유예 기간을 게시 하지 않은 경우 30 일의 갱신 기간이 만료 되 면 파트너 센터를 통해 지원 티켓을 제출 하 여 해당 요청에 대 한 세부 정보를 제공 합니다.
-
-자세한 내용은 [갱신 MPN 제품](renew-mpn-offers.md)을 참조 하세요.
-
 ## <a name="next-steps"></a>다음 단계
 
-- [Microsoft 파트너 네트워크 혜택 찾기](mpn-find-benefits.md) 
+- [Microsoft 파트너 네트워크 혜택 찾기](mpn-find-benefits.md)
+- [MPN 제안 갱신](renew-mpn-offers.md)
