@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: 앱 개발 역량 제외
           href: app-dev-isv.md
+        - name: 기술 보고서 사용
+          href: mpn-skills-report.md
     - name: 고급 전문 분야
       items:
         - name: 전문성 소개
