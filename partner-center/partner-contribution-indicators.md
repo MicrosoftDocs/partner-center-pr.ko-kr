@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 실버 또는 골드 클라우드 Business Applications 역량을 얻기 위한 파트너를 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아봅니다.
@@ -9,18 +9,18 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204073"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530819"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>파트너 기여 지표를 사용 하 여 클라우드 Business Applications 역량 얻기
 
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - MPN 파트너 관리자
 - 계정 관리자
 
@@ -125,7 +125,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 | PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: 새 고객이 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 기능 컨설턴트 성장 | 기능 표시기: 개발자 | 고객 성공 지표: 새 대량 배포 | 고객 성공 지표: 월별 활성 사용자 성장 |
 |---|---|---|---|---|---|---|---|
 | **최대 점수** | 10 개 요소 | 10 개 요소 | 15 개 점수 | 15 개 점수 | 5 개 요소 | 20 개 요소 | 25 개 점수 |
-| **만들어** | $300,000 | 10 | 10 | *\* 참고 참조* | 5 | 5 | 25% |
+| **만들어** | $300,000 | 10 | 15 | *\* 참고 참조* | 5 | 5 | 25% |
 | **개발과** | $15만 | 5  | 5  |*\* 참고 참조* | 2 | 1 | 25% |
 
 *\* 참고: 증가 대상은 기준 컨설턴트의 수와 파트너가 점수를 얻는 데 사용 하는 특정 옵션에 따라 다릅니다. 점이 나 각 옵션의 특정 증가 목표를 가져오는 옵션에 대 한 자세한 내용은 [함수형 컨설턴트 성장을 위한 정의](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)를 참조 하세요.*

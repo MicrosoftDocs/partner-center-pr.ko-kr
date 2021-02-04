@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776805"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530836"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>잠재 고객 분석-대상 고객과 잠재적 조회를 얼마나 잘 사용할 수 있는지 확인 합니다.
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>잠재 고객 분석 - 대상 고객과 잠재적 추천을 얼마나 잘 끌어올 수 있는지 확인
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **적절한 역할**
 
 - 조회 관리자
-
-**적용 대상**
-
-- Marketplace 리드
-- 우량 잠재 고객
 
 조회의 **분석** 섹션 아래에 있는 **리드** 페이지를 통해 조회를 수행 하는 방법을 확인할 수 있습니다. 이러한 메트릭을 정기적으로 검토하여 주의가 필요한 추세 또는 영역을 파악하고, 비즈니스 목표를 달성하세요.
 
@@ -115,3 +110,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > 공동 판매 기회가 어떻게 수행 되는지 확인 하려면 [공동 판매 기회 통찰력 페이지](referral-insights.md)를 검토 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [잠재 고객 관리](manage-leads.md)

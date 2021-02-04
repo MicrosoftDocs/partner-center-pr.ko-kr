@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983344"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530666"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
 
@@ -53,7 +53,7 @@ ms.locfileid: "94983344"
 
 2. 파트너 센터는 지원 서비스의 가용성에 대 한 일정을 확인 합니다.
 
-1. 약속을 예약할 때 파트너 센터는 지원 담당자가 연락 하는 방법에 대 한 정보가 포함 된 일정 초대를 보내 사용자의 작업 일정에 따라이 약속을 추적할 수 있습니다.
+1. 약속을 예약할 때 파트너 센터는 지원 담당자가 연락 하는 방법에 대 한 정보가 포함 된 일정 초대를 보내 사용자의 작업 일정에 따라이 약속을 추적할 수 있습니다.  이 기능은 아직 미리 보기 상태 이지만 전자 메일 및 일정 초대가 영어로 표시 되지만 티켓을 만들 때 선택한 언어로 사용자를 지원할 수 있습니다.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="날짜 및 시간":::
 
