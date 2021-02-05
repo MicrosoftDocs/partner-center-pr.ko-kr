@@ -118,6 +118,9 @@
     - name: Microsoft 파트너 계약 - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 위치 관리
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: 간접 공급자가 재판매인이 MPA를 채택하도록 하는 방법
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: 파트너 프로필 업데이트
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: 위치 관리
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: 제어판 공급업체 되기
           href: enroll-as-cpv.md
           displayName: csp
