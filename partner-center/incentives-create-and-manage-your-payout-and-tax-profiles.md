@@ -8,24 +8,21 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492469"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624241"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 성과급 지급 및 세금 프로필 만들기 및 관리
 
-**적용 대상:**
-
-- 파트너 센터
 
 **적절한 역할:**
 
 - 인센티브 관리자
 - 계정 관리자
-- 글로벌 관리자
+- 전역 관리자
 
 특정 MPN 위치에 대한 인센티브 프로그램의 지급금을 받으려면 유효한 지급 및 세금 프로필을 프로그램 및 MPN 위치와 연결하여 등록을 완료해야 합니다. Microsoft는이 지급 및 세금 프로필을 사용하여 지급금을 제공합니다. 인센티브 프로그램의 규칙에 따라 전자 계좌 이체 또는 결제 신용 전표를 사용할 수 있습니다. 
 
@@ -64,7 +61,7 @@ ms.locfileid: "97492469"
    - 도메인을 사용 하 여 로그인 할 수 있는 경우 @onmicrosoft.com 계정 관리자에 게 문의 하 여 AZURE AD 계정에 도메인을 추가 합니다.
    - **회사 또는 학교** 계정 또는 **개인 계정을** 선택 하 라는 메시지가 표시 되 면 **회사 또는 학교 계정** 을 선택 합니다.
 
-2. 기어 아이콘을 선택 하 여 **설정** 메뉴를 열고 **파트너 설정** 을 선택 합니다.
+2. 기어 아이콘을 선택 하 여 **설정** 메뉴를 열고 **계정 설정** 을 선택 합니다.
 
 3. **계정 설정** 메뉴에서 **지급 및 세금** 을 선택 합니다. 
 
@@ -72,7 +69,7 @@ ms.locfileid: "97492469"
 
 1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 하 고 기어 아이콘을 선택 하 여 **설정** 메뉴를 엽니다. 
 
-2. **파트너 설정** 을 선택 하 고 **지급 및 세금 섹션** 을 확장 한 다음 **지급 및 세금 프로필 할당** 을 선택 합니다. 
+2. **계정 설정** 을 선택 하 고 **지급 및 세금 섹션** 을 확장 한 다음 **지급 및 세금 프로필 할당** 을 선택 합니다. 
    
    프로그램 목록이 표시 됩니다. 프로그램 옆의 화살표를 선택 하 여 프로필 세부 정보를 확인 합니다. 
 

@@ -9,22 +9,18 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367177"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624054"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>교육, 비영리 및 정부 사용자와 같은 특수 산업에 판매
 
-**적용 대상**
-
-- 파트너 센터
-
 **적절한 역할**
 
-- 글로벌 관리자
+- 전역 관리자
 - 관리 에이전트
 - 영업 상담원
 
@@ -42,19 +38,19 @@ Microsoft는 교육 고객, 비영리 고객, 중소기업 및 정부 엔터티�
 
 다음 단계는 간접 공급자와 직접 청구 파트너 에게만 적용 됩니다. 간접 대리점은 자격을 갖춘 교육 사용자에 게 교육 가격이 저렴 한 제품을 제공 하기 위해 간접 공급자와 연결 해야 합니다.
 
-1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에서 창의 오른쪽 위 모퉁이에 있는 기어 아이콘을 선택 하 여 **계정 설정을**엽니다.
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에서 창의 오른쪽 위 모퉁이에 있는 기어 아이콘을 선택 하 여 **계정 설정을** 엽니다.
 
-2. **파트너 프로필**의 **프로그램 정보** 섹션에서 **재판매인 자격**을 찾습니다.
+2. **법적 프로필** 의 **프로그램 정보** 섹션에서 **재판매인 자격** 을 찾습니다.
 
-3. **대리점**자격이 표시 되지 않는 경우 특별 제품을 구매할 수 있는 권한이 아직 부여 되지 않은 것입니다.
+3. **대리점** 자격이 표시 되지 않는 경우 특별 제품을 구매할 수 있는 권한이 아직 부여 되지 않은 것입니다.
 
 ## <a name="check-the-customer-qualifications"></a>고객 자격 확인
 
-1. **파트너 센터** 메뉴에서 **고객**을 선택 합니다. 목록에서 고객을 선택합니다.
+1. **파트너 센터** 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 선택합니다.
 
-2. 고객 메뉴에서 **계정**을 선택 합니다. **회사 정보** 섹션에서 **특수 한 자격**을 찾습니다.
+2. 고객 메뉴에서 **계정** 을 선택 합니다. **회사 정보** 섹션에서 **특수 한 자격** 을 찾습니다.
 
-3. **특수 한 자격** 을 **None**으로 설정 했지만 고객이 실제로 자격을 충족 하는 경우에는 해당 자격을 포함 하도록 세부 정보를 **업데이트할** 수 있습니다.
+3. **특수 한 자격** 을 **None** 으로 설정 했지만 고객이 실제로 자격을 충족 하는 경우에는 해당 자격을 포함 하도록 세부 정보를 **업데이트할** 수 있습니다.
 
 ## <a name="where-to-find-special-offers"></a>특별 제안을 찾을 수 있는 위치
 

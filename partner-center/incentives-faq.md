@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133068"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624224"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>성과급에 대 한 질문과 대답
-
-**적용 대상:**
-
-- 파트너 센터
 
 **적절한 역할:**
 
@@ -35,7 +31,7 @@ ms.locfileid: "93133068"
 
 MPN에 가입 하려고 하 고 회사가 이미 구성원 인 경우 MPN는 도메인을 인식 하 고 기존 계정에 연결 합니다. 기존 계정은 동일한 전자 메일 도메인 또는 동일한 Azure AD (Azure 활동 디렉터리)를 사용 하 여 여러 도메인을 관리 하는 동일한 회사 또는 관련 회사 일 수 있습니다.
 
-파트너 프로필 페이지에서 기본 연락처를 식별할 수 있습니다. 사용자의 위치가 MPNHQ 위치인 경우에는 성과급을 관리 하는 데 필요한 권한으로 설정 해야 합니다. 역할 및 사용 권한에 대 한 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
+법적 프로필 페이지에서 기본 연락처를 식별할 수 있습니다. 사용자의 위치가 MPNHQ 위치인 경우에는 성과급을 관리 하는 데 필요한 권한으로 설정 해야 합니다. 역할 및 사용 권한에 대 한 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
 
 MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 한 자세한 내용은 [다중 국가 계정에 대 한 지침](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 을 참조 하세요.
 

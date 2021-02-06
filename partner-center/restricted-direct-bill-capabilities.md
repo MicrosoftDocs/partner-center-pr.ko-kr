@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795774"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623986"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
 
@@ -29,9 +29,9 @@ ms.locfileid: "92795774"
 
 직접 청구 파트너 테 넌 트에서 청구 기능에 대 한 액세스가 제한 되었는지 여부를 확인 하려면 다음 단계를 수행 합니다.
 
-1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. **파트너 설정**  ->  **파트너 프로필** 로 이동 합니다.
+2. **계정 설정**  ->  **법률 프로필** 로 이동 합니다.
 
 3. **프로그램 정보** 에서 **Microsoft 클라우드 솔루션 공급자 상태** 를 찾습니다.
 
@@ -62,7 +62,7 @@ ms.locfileid: "92795774"
     >[!Note] 
     >새 구매로 처리 되는 기존 구독에 새 추가 기능을 추가할 수 없습니다.
 
-- 기존 azure 구독에서 새 Azure 리소스를 배포 하 고 기존 Azure 리소스를 관리 합니다. 여기에는 Azure marketplace 및 Visual Studio 구독을 통해 제공 되는 리소스가 포함 됩니다.
+- 기존 azure 구독에서 새 Azure 리소스를 배포 하 고 기존 Azure 리소스를 관리 합니다. 여기에는 Azure Marketplace 및 Visual Studio 구독을 통해 제공 되는 리소스가 포함 됩니다.
 
 새 구매 외에도 파트너 센터에서 다음과 같은 직접 청구 기능에 액세스할 수 없습니다.
 
