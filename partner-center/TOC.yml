@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft 고객 계약(지역, 언어별)'
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: 제한된 직접 청구 액세스
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
