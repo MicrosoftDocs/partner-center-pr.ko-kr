@@ -1,7 +1,7 @@
 ---
 title: Microsoft 골드, 실버 역량 요구 사항
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 뛰어난 Microsoft 파트너 상태를 획득하고, 역량 요구 사항을 충족함으로써 새 고객을 유치하여 골드 및 실버 멤버십 수준을 획득하는 방법을 알아봅니다.
@@ -9,17 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691336"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912542"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft 역량을 획득하여 비즈니스 차별화
 
 **적절한 역할**
-- 글로벌 관리자
+- 전역 관리자
 - 사용자 관리자
 
 하나 이상의 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
@@ -68,6 +68,8 @@ Silver 및 Gold 역량 수준은 각 영역에 대한 요구 사항이 다릅니
 - 역량에 포함된 [시장 진출 리소스](mpn-learn-about-go-to-market-benefits.md)에 대해 알아보세요.
 
 - [역량의 청구서 및 세금](mpn-view-print-maps-invoice.md)에 대해 알아보세요.
+
+- 실버 또는 골드 역량 멤버 자격과 관련된 [요금 결제](mpn-pay-fee-silver-gold-competency.md) 방법에 대해 알아봅니다.
 
 - 파트너의 현재 역량을 보여주는 파트너 센터 인사이트 [역량 보고서](pci-competencies-report.md)를 살펴보세요.
 

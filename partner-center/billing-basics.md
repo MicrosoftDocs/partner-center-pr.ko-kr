@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 청구 개요
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: CSP 파트너가 파트너 센터에서 이용할 수 있는 기본적인 청구 및 청구서 정보에 대해 알아봅니다. 고객에게 청구하는 방법과 송장을 찾고 읽는 방법이 포함되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570708"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042721"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업하는 CSP 프로그램 파트너용 청구 개요 
 
@@ -53,7 +53,7 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 
 **라이선스 기반 및 사용량 기반 청구**: 제품 대금은 파트너가 현재 위치한 국가 또는 지역의 통화로 청구됩니다. 파트너가 제품을 판매한 고객의 위치와는 관계 없이 동일한 통화로 대금이 청구됩니다.
 
-**일회성 청구**: 청구서는 고객의 통화 컨텍스트에서 생성됩니다. 즉, 청구 가능한 통화가 다른 고객과 거래하는 파트너인 경우 각 고객 통화 형식에 대한 청구서를 받습니다. [일회성 및 반복성](azure-plan-billing.md)에 대해 자세히 알아보세요. 
+**일회성 청구**: 2021년 1월 28일부터 EU/EFTA 및 영국 지역의 파트너 중에서 신규 고객 및 기존 CSP 고객이 2020년 5월 11일 전에 테넌트가 생성된 새 상거래 제품을 처음으로 구매한 파트너의 경우 해당 구매 대금은 파트너 위치 통화로 청구됩니다.  EU/EFTA 및 영국 외부 지역의 파트너는 파트너 위치 통화로 계속 청구됩니다. [일회성 및 반복성](azure-plan-billing.md)에 대해 자세히 알아보세요. 
 
 ## <a name="invoices"></a>송장
 
@@ -86,6 +86,8 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 결제 기간은 60일입니다. 청구서의 청구 기한(청구 날짜로부터 60일 후)까지 요금이 결제되지 않으면 연체 계정으로 취급되며, 이로 인해 CSP 등록에 영향이 있을 수 있습니다. 
 
 기한이 지난 요금을 결제하면 일시 중단된 계정의 전체 기능을 되찾을 수 있습니다.
+
+수정된 청구 정보가 제공되면 5영업일 이내에 파트너 센터 청구 페이지에 결제 정보가 표시됩니다.
 
 ### <a name="taxes-and-vat"></a>세금 및 VAT
 

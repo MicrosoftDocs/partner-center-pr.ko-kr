@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/28/2021
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717831"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098876"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -24,8 +24,166 @@ ms.locfileid: "98717831"
 
 2020년 공지: [5월](2020-may.md) | [6월](2020-june.md) | [7월](2020-july.md) | [8월](2020-august.md) | [9월](2020-september.md) | [10월](2020-October.md) | [11월](2020-november.md) | [12월](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a>1단계 현재 진행 중: EU/EFTA 및 UK 새 상거래 제품에 대한 파트너 청구 통화의 변경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-28
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+- 클라우드 솔루션 공급자 프로그램을 통해 EU/EFTA 및 영국에서 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+EU(유럽 연합)/EFTA(유럽 자유 무역 연합) 및 UK(영국)의 경우 클라우드 솔루션 공급자 프로그램의 모든 신규 상거래에서 고객 청구 위치 대신 파트너 청구 위치가 사용됩니다. 따라서 Microsoft는 고객의 위치가 아닌 파트너의 위치에 해당하는 통화를 기준으로 파트너에게 요금을 청구합니다. 이 변경 내용은 다음과 같은 두 단계로 진행됩니다.
+
+**1단계:**
+
+- CSP에서 새로운 상거래 제품을 구매하는 신규 고객
+
+- 기존 고객이 새로운 상거래 제품을 처음 구매 - 2020년 5월 11일 이전에 생성된 테넌트
+
+2021년 1월 28일부터 새 상거래 제품을 구매하는 순 신규 고객이 있는 파트너 또는 2020년 5월 11일 이전에 생성된 테넌트가 있는 기존 고객이 신규 상거래 제품을 처음 구매하는 경우 해당 구매에 대해 파트너 위치 통화로 청구됩니다.  
+
+파트너의 기존 고객이 CSP에서 새로운 상거래 제품을 이미 구매한 경우 이 단계 동안에는 고객의 청구 위치에 해당하는 통화로 파트너에게 요금이 청구됩니다. 또한 새 상거래 제품을 처음 구매하는 기존 고객이 있는 파트너가 2020년 5월 11일 또는 그 이후에 만들어진 테넌트를 가지고 있는 경우 고객의 통화로 계속 청구됩니다.
+
+**2단계:**
+
+- 1단계 전에 CSP에서 새로운 상거래 제품을 이미 구매한 기존 고객
+- 기존 고객이 새로운 상거래 제품을 처음 구매 - 2020년 5월 11일 또는 그 이후에 생성된 테넌트
+
+1단계가 끝난 후 2021년 내내, Microsoft는 1단계 전에 CSP에서 새로운 상거래 제품을 구매한 기존 고객이 있는 파트너뿐만 아니라 2020년 5월 11일 또는 그 이후에 생성된 테넌트를 가진 고객의 경우 새로운 상거래 제품의 요금을 청구하는 통화를 고객 위치 통화에서 파트너 위치 통화로 전환합니다. 이 변경 내용이 구현되기 전에 파트너에게 미리 통보됩니다.
+
+2단계 후, EU/EFTA 및 영국의 파트너는 모든 고객 및 모든 CSP 구매에 대해 파트너 위치 통화로 요금이 청구됩니다.
+
+>[!NOTE]
+>이 변경 내용은 파트너 청구 통화에만 영향을 주며 CSP의 새로운 상거래 제품 가격에는 영향을 주지 않습니다. 이 변경 내용이 적용되는 새로운 상거래 제품의 범위는 클라우드 솔루션 공급자 프로그램의 Azure 플랜, Azure 예약, 서버 구독, 영구 소프트웨어 및 Microsoft 상업용 Marketplace 구매에 포함되는 Azure 구독입니다.
+
+### <a name="partner-benefits"></a>파트너 혜택
+
+이 업데이트가 적용되면 EU/EFTA 및 영국에서 이루어지는 새로운 상거래 환경의 다중 통화 청구와 관련된 복잡성과 오버헤드가 감소할 것입니다.
+
+- 파트너는 통합된 청구서를 단일 통화로 받게 되며 더 이상 고객의 위치에 따라 다른 통화로 작성된 청구서를 받지 않습니다.
+- 인센티브는 파트너의 청구서와 동일한 통화로 지급됩니다.
+- 파트너는 다중 통화 청구로 인한 복잡성이 감소하므로 현재 계정 조정에 소모되는 시간과 리소스를 절약할 수 있습니다.
+- 새로운 상거래 제품을 아직 채택하지 않은 파트너의 경우 이 변경 내용이 이전 파트너 청구 모델과 일치하므로 파트너가 CSP의 새로운 상거래 환경으로 보다 쉽게 전환할 수 있습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+Microsoft 파트너 웹 사이트의 [작업 갤러리](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/)(로그인 필수)에서 이 토픽에 대한 정보를 검토하세요.  
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)(로그인 필수)에 문의하세요.
+
+### <a name="change-log"></a>로그 변경
+
+- 2020년 11월 17일: 최초 게시 날짜
+- 2021년 1월 7일: 1단계 및 2단계에 포함된 추가 시나리오
+- 2021년 1월 28일: 
+    -    1단계가 라이브 발표됨 
+    -    영국은 EU/EFTA 소속이 아니지만 [Microsoft 유럽 지역 및 시장](https://docs.microsoft.com/partner-center/regional-authorization-overview)에 포함되며 영향을 받게 됩니다.
+
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a>CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-28
+- 보안 및 규정 준수 강화
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+신규 또는 기존 고객이 다음 섹션에 나열된 국가에 있는 CSP 직접 청구 파트너 및 간접 공급자
+
+### <a name="summary"></a>요약
+
+파트너와 고객이 신뢰를 바탕으로 비즈니스를 운영할 수 있도록 지원하기 위한 노력의 일환으로 Microsoft는 2021년 3월 말부터 추가 고객 정보를 요청합니다.
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 말에 다음 조건을 모두 충족하는 파트너에게 영향을 주는 파트너 센터 API 및 UI(사용자 인터페이스)의 향상된 기능이 도입됩니다.
+
+1. 파트너는 Microsoft와 직접 청구 관계를 맺고 있습니다(즉, 파트너가 직접 청구 파트너 또는 간접 공급자임).
+2. 파트너가 다음 국가의 신규 또는 기존 고객과 함께 비즈니스를 수행합니다.
+    - 태국
+    - 베트남
+    - 터키
+    - 폴란드
+    - 남아프리카
+    - 인도
+    - 브라질
+    - 이라크
+    - 미얀마
+    - 남수단
+    - 사우디아라비아
+    - 아랍에미리트연합국
+    - 베네수엘라
+
+조건을 충족하는 파트너는 신규 고객을 등록하거나 기존 고객의 세부 정보를 수정할 때 고객의 **법인 식별자**(고객의 **조직 INN** 이라고도 함) 및 **전화 번호** 를 제출해야 합니다. 이러한 파트너는 고객에 대한 선택적 **중간 이름** 을 입력할 수도 있습니다.
+
+다음 국가에서 신규 또는 기존 고객과 거래하는 파트너는 이미 2020년 11월의 이전 릴리스에 등록되었습니다.
+
+- 아르메니아
+- 아제르바이잔
+- 벨라루스
+- 헝가리
+- 카자흐스탄
+- 키르기스스탄
+- 몰도바
+- 러시아
+- 타지키스탄
+- 우크라이나
+- 우즈베키스탄
+
+전 세계의 나머지 지역에 있는 고객을 대상으로 하는 파트너는 2021년 3월 말에 고객의 **법인 식별자**, **전화 번호** 및 **중간 이름** 을 선택적 세부 정보로 입력할 수 있습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+- 자세한 지침은 전용 [파트너 컬렉션](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)에서(로그인 필요) 기술 설명서 및 질문과 대답을 검토하세요.
+- 파트너 센터 API 및 웹 사용자 환경을 사용하여 변경 내용을 통합할 준비를 합니다. API/SDK는 테스트에 사용할 수 있습니다.
+- 신규 고객을 등록하거나 기존 고객 세부 정보를 수정하는 경우 추가 데이터를 제출해야 합니다.
+- CPV(제어판 공급업체) 솔루션을 사용하는 경우 CPV에 문의하세요.
+
+### <a name="questions"></a>질문이 있으신가요?
+
+법인 식별자(INN 또는 TIN이라고도 함)와 관련된 질문이 있는 경우 세무 고문 또는 지역 세무서에 문의하세요. Microsoft는 세금 문제에 대한 지침을 제공할 수 없습니다.
+
+Microsoft와의 작업에 대한 지원이 필요한 경우 [서비스 요청을 여세요](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)(로그인 필요).
+
+________________
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a>MPA(Microsoft 파트너 계약) – 간접 재판매인 업데이트 및 새 FAQ 
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-01-27
+- 기능
+ 
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 간접 재판매인 및 간접 공급자
+
+### <a name="details"></a>세부 정보
+
+간접 재판매인에 대한 MPA(Microsoft 파트너 계약)를 현재 구현 중입니다. 공급자와 재판매인을 보다 잘 지원하기 위해 여러분의 의견을 수렴해 왔으며, 현재 MPA 동의 방법에 대한 대표적인 질문이 새로운 [질문과 대답 페이지](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)에 통합되었습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+**간접 재판매인:** MPA에 동의하지 않은 경우 [MPA FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)를 검토하고 [여기](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)에 제공된 단계별 지침에 따라 MPA에 동의하세요.
+
+**간접 공급자:** 간접 재판매인과 연락하여 [MPA FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) 및 [여기](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)에 제공된 단계별 지침을 사용하도록 지원해 주세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)에 문의하세요.
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경
 
 ### <a name="categories"></a>범주
 
@@ -57,7 +215,7 @@ ________________
 추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대한 변경 사항
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대한 변경 사항
 
 ### <a name="categories"></a>범주
 
@@ -143,7 +301,7 @@ Azure에 대한 새로운 상거래 경험을 확장하여, 전환 도구를 사
 이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)에 문의하세요.
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> 이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> 이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능
 
 ### <a name="categories"></a>범주
 
@@ -171,7 +329,7 @@ ________________
 추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> 미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> 미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개 
 
 ### <a name="categories"></a>범주
 
@@ -220,7 +378,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작 
 
 ### <a name="categories"></a>범주
 
@@ -280,7 +438,7 @@ Microsoft 365 E5의 필수 구성 요소로 제공되는 추가 기능을 통해
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션 
 
 ### <a name="categories"></a>범주
 
@@ -326,7 +484,7 @@ Adobe Sign은 Microsoft의 기본 설정 ESS(전자 서명 솔루션)입니다. 
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>노르웨이 크로네 상업 가격 책정 업데이트 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>노르웨이 크로네 상업 가격 책정 업데이트 
 
 ### <a name="categories"></a>범주
 
@@ -344,7 +502,7 @@ _____________
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>인도 루피화 상업 가격 책정 업데이트 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>인도 루피화 상업 가격 책정 업데이트 
 
 ### <a name="categories"></a>범주
 
@@ -363,7 +521,7 @@ Microsoft는 인도 및 아시아 지역 내에서 상용 소프트웨어 및 �
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>2021년 2월 1일 통화 플랜 및 전화 시스템 업데이트
 
 ### <a name="categories"></a>범주
 
@@ -403,7 +561,7 @@ Microsoft 365 E1, E3 및 E5 제품에 제공되는 추가 번들 제품에는 �
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>2021년 1월 라이선스 기준 가격표 업데이트 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>2021년 1월 라이선스 기준 가격표 업데이트 
 
 ### <a name="categories"></a>범주
 
@@ -438,69 +596,6 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 - 파트너는 파트너 센터에서 최신 가격표 파일을 다운로드하여 1월과 2월의 가격을 수정해야 합니다. 
 - 영향을 받는 테넌트의 전역 관리자가 1월 1일부터 1월 6일 사이에 구독을 구매한 경우 1월 말 이전에 파트너 센터 이메일을 통해 자세한 내용을 통보해 드립니다. 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> 새 상거래 제품에 대한 파트너 청구 통화의 EU/EFTA 변경
-
-### <a name="categories"></a>범주
-
-- 날짜: 2021-01-07
-- 기능
-
-### <a name="impacted-audience"></a>영향을 받는 대상
-
-- 클라우드 솔루션 공급자 프로그램을 통해 EU/EFTA 지역에서 거래하는 모든 파트너 
-
-### <a name="details"></a>세부 정보
-
-EU(유럽 연합)/EFTA(유럽 자유 무역 연합) 지역의 경우 클라우드 솔루션 공급자 프로그램의 모든 신규 상거래에서 고객 청구 위치 대신 파트너 청구 위치가 사용됩니다. 따라서 Microsoft는 고객의 위치가 아닌 파트너의 위치에 해당하는 통화를 기준으로 파트너에게 요금을 청구합니다. 이 변경 내용은 다음과 같은 두 단계로 진행됩니다.
-
-**1단계:**
-
-- CSP에서 새로운 상거래 제품을 구매하는 신규 고객
-
-- 기존 고객이 새로운 상거래 제품을 처음 구매 - 2020년 5월 11일 이전에 생성된 테넌트
-
-2021년 1월 28일부터 새 상거래 제품을 구매하는 순 신규 고객이 있는 파트너 또는 2020년 5월 11일 이전에 생성된 테넌트가 있는 기존 고객이 신규 상거래 제품을 처음 구매하는 경우 해당 구매에 대해 파트너 위치 통화로 청구됩니다.  
-
-파트너의 기존 고객이 CSP에서 새로운 상거래 제품을 이미 구매한 경우 이 단계 동안에는 고객의 청구 위치에 해당하는 통화로 파트너에게 요금이 청구됩니다. 또한 새 상거래 제품을 처음 구매하는 기존 고객이 있는 파트너가 2020년 5월 11일 또는 그 이후에 만들어진 테넌트를 가지고 있는 경우 고객의 통화로 계속 청구됩니다.
-
-**2단계:**
-
-- 1단계 전에 CSP에서 새로운 상거래 제품을 이미 구매한 기존 고객
-- 기존 고객이 새로운 상거래 제품을 처음 구매 - 2020년 5월 11일 또는 그 이후에 생성된 테넌트
-
-1단계가 끝난 후 2021년 내내, Microsoft는 1단계 전에 CSP에서 새로운 상거래 제품을 구매한 기존 고객이 있는 파트너뿐만 아니라 2020년 5월 11일 또는 그 이후에 생성된 테넌트를 가진 고객의 경우 새로운 상거래 제품의 요금을 청구하는 통화를 고객 위치 통화에서 파트너 위치 통화로 전환합니다. 이 변경 내용이 구현되기 전에 파트너에게 미리 통보됩니다.
-
-2단계 후, EU/EFTA 지역의 파트너는 모든 고객 및 모든 CSP 구매에 대해 파트너 위치 통화로 요금이 청구됩니다.
-
->[!NOTE]
->이 변경 내용은 파트너 청구 통화에만 영향을 주며 CSP의 새로운 상거래 제품 가격에는 영향을 주지 않습니다. 이 변경 내용이 적용되는 새로운 상거래 제품의 범위는 클라우드 솔루션 공급자 프로그램의 Azure 플랜, Azure 예약, 서버 구독, 영구 소프트웨어 및 Microsoft 상업용 Marketplace 구매에 포함되는 Azure 구독입니다.
-
-
-### <a name="partner-benefits"></a>파트너 혜택
-
-이 업데이트가 적용되면 EU/EFTA 지역에서 이루어지는 새로운 상거래 환경의 다중 통화 청구와 관련된 복잡성과 오버헤드가 감소할 것입니다.
-
-- 파트너는 통합된 청구서를 단일 통화로 받게 되며 더 이상 고객의 위치에 따라 다른 통화로 작성된 청구서를 받지 않습니다.
-- 인센티브는 파트너의 청구서와 동일한 통화로 지급됩니다.
-- 파트너는 다중 통화 청구로 인한 복잡성이 감소하므로 현재 계정 조정에 소모되는 시간과 리소스를 절약할 수 있습니다.
-- 새로운 상거래 제품을 아직 채택하지 않은 파트너의 경우 이 변경 내용이 이전 파트너 청구 모델과 일치하므로 파트너가 CSP의 새로운 상거래 환경으로 보다 쉽게 전환할 수 있습니다.
-
-### <a name="next-steps"></a>다음 단계
-
-Microsoft 파트너 웹 사이트의 [작업 갤러리](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/)(로그인 필수)에서 이 토픽에 대한 정보를 검토하세요.  
-
-### <a name="questions"></a>궁금한 점이 더 있나요?
-
-이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)(로그인 필수)에 문의하세요.
-
-### <a name="change-log"></a>로그 변경
-
-- 2020년 11월 17일: 최초 게시 날짜
-- 2021년 1월 7일: 1단계 및 2단계에 포함된 추가 시나리오
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2">교육 고객 유효성 검사 프로세스에 사용되는 기존 GET 및 PUT 검증 API가 2021년 2월 말일에 사용 중단 및 사용 중지</a>

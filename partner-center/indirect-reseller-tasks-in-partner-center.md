@@ -1,7 +1,7 @@
 ---
 title: CSP 프로그램에서 간접 공급자와 협력
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인이 Microsoft 간접 공급자(또는 배포자)와 협력하여 고객 지원 및 청구에 대한 도움을 받는 방법을 알아봅니다.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773451"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065474"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
 
@@ -76,30 +76,38 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
    > [!IMPORTANT]  
    > 귀사의 보안 및 개인 정보 보호를 보장하기 위해 기본 연락처로 이메일을 보내 (1) 기본 연락처 담당자가 파트너 센터 계정에 가입했는지, (2) 이 이메일 주소가 귀사의 이메일 주소가 맞는지 확인할 것입니다. 기본 연락처 담당자가 자신의 이메일 주소를 확인하면 귀하가 제공한 정보 검토가 계속 진행됩니다. 기본 연락처로 등록 상태 업데이트 이메일을 보내드릴 것입니다.
 
-5. MPN ID를 Azure ID 테넌트에 연결합니다.
+5. MPN ID를 CSP 계정에 연결합니다. CSP 계정과 관련 MPN ID가 동일한 국가에 있어야 하고, MPN ID는 파트너 센터에 있어야 합니다.
+  
 
-    1. MPN 계정으로 로그인합니다. **설정** -> **계정 설정** -> **조직 프로필** -> **식별자** 로 이동합니다. MPN ID를 보고 CSP 계정의 국가와 동일한 국가의 MPN ID를 선택합니다. 즉, CSP 계정과 관련 MPN ID가 동일한 국가/지역에 있어야 합니다.
-    
-     
+   a. "MPN" 계정 자격 증명으로 파트너 센터에 로그인합니다(MPN 자격 증명은 CSP 자격 증명과 다를 수 있음).
+   
+   b. **설정** -> **계정 설정** -> **조직 프로필** -> **식별자** 로 이동합니다.
+ 
+    다. 이 CSP 계정의 국가와 일치하는 "위치" 유형의 MPN ID를 찾습니다. 
+
+    d. 사용하려는 CSP 계정과 일치하는 위치 MPN ID를 찾을 수 없는 경우 새 위치를 추가하여 새 MPN ID를 만들 수 있습니다. [위치 관리](manage-locations.md)에 대해 자세히 알아보세요.
+
+    e. 지금은 이 단계를 연기할 수 있습니다. 그러나 MPN ID를 CSP 계정과 연결하기 전에는 CSP로 MPA(Microsoft 파트너 계약)에 서명하거나 거래할 수 없습니다.
+
  > [!IMPORTANT]  
-   > CSP 계정과 동일한 국가/지역에 있는 MPN ID를 선택합니다.
+ > 파트너 센터 및 CSP 계정과 동일한 국가에서 사용할 수 있는 MPN ID를 선택하고 MPN ID가 파트너 센터에 있는지 확인합니다.
 
-6. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
+6. Microsoft에서 등록 확인을 마친 후(3-5영업일 소요) 전역 관리자 자격 증명을 사용하여 [파트너 센터 대시보드 개요](https://partner.microsoft.com/pcv/dashboard/overview)에서 Microsoft 파트너 계약에 서명합니다. 서명하기 전에 **Microsoft 파트너 계약** 을 보고 다운로드하려면 아래의 Microsoft 파트너 계약 링크를 클릭합니다.  5영업일 후에도 계정 확인이 완료되지 않으면 [계정 확인 프로세스](verification-responses.md)을 읽어 보세요.
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="새로운 MPA 계약 위치":::
+
+ 
+7. 파트너 프로필의 **프로그램 정보** 섹션에서 Microsoft 파트너 계약에 서명했는지 확인합니다. 또한 CSP 개요 페이지에는 확인 배너 알림이 표시됩니다. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="녹색 수락 배너":::
+
+
+8. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
    1. 파트너 센터 대시보드에서 **설정** 아이콘을 선택한 다음, **계정 설정** 에서 **사용자 관리** 를 선택합니다.
 
    2. 사용자 목록에서 사용자 이름을 선택합니다. 그런 다음, 아직 선택되지 않은 경우 **관리자 에이전트** 를 선택합니다. **업데이트** 를 선택합니다.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>모든 간접 재판매인은 Microsoft 파트너 계약에 서명해야 합니다.
-
-1.  Partner Membership Center에서 파트너 센터로 아직 이동하지 않은 경우 지금 이동하세요. 파트너 센터로 이동하는 방법에 대한 도움말은 [PMC에서 파트너 센터로 마이그레이션에 대한 가이드](guide-to-migration.md)를 참조하세요. 
-
-2.  파트너 센터 멤버십 계정(MPN ID)이 있는 경우에도 클라우드 솔루션 공급자 프로그램에 공식적으로 등록해야 합니다. 멤버십 상태를 확인하려면 [**파트너 프로필**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)로 이동하여 계정 유형을 확인합니다. 그런 다음, [CSP에 간접 재판매인으로 등록](enrolling-in-the-csp-program.md)합니다. 간접 재판매인으로 등록되면 [간접 공급자와의 CSP 관계 요청을 수락](indirect-reseller-tasks-in-partner-center.md)합니다.
-
-3.  이미 파트너 센터에 간접 재판매인으로 등록된 경우 전역 관리자 자격 증명을 사용하여 [파트너 센터 대시보드 개요](https://partner.microsoft.com/pcv/dashboard/overview)에서 Microsoft 파트너 계약에 동의합니다. 파트너 프로필의 **프로그램 정보** 섹션에서 Microsoft 파트너 계약에 서명했는지 확인합니다. 또한 CSP 개요 페이지에는 확인 배너 알림이 표시됩니다. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="녹색 수락 배너":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>간접 공급자와의 관계 구축
 
@@ -145,3 +153,4 @@ CSP 간접 재판매인의 법적 비즈니스 위치에 따라 협업할 수 �
 - [확인 프로세스에 대해 알아보기](verification-responses.md)
 
 - [직접 청구 파트너 요구 사항 참조](direct-partner-new-requirements.md)
+- [Microsoft 파트너 계약](microsoft-partner-agreement.md)

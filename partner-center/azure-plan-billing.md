@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658436"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924995"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
@@ -36,7 +36,7 @@ ms.locfileid: "98658436"
 
 - **청구서 결제 기간**: 순 60일.
 
-- **청구서 통화** : 파트너는 고객의 국가에 할당된 통화로 계속 요금이 청구됩니다. 예를 들어 청구 파트너가 아일랜드에 있고 고객은 영국, 노르웨이 및 독일에 있는 경우 청구 파트너는 GBP, NOK 및 EUR 청구서/조정 파일을 받습니다.
+- **청구서 통화** : 2021년 1월 28일부터 EU/EFTA 및 영국 지역의 파트너 중에서 신규 고객 및 기존 CSP 고객이 2020년 5월 11일 전에 테넌트가 생성된 새 상거래 제품을 처음으로 구매한 파트너의 경우 해당 구매 대금은 파트너 위치 통화로 청구됩니다. EU/EFTA 및 영국 외부 지역의 파트너는 파트너 위치 통화로 계속 청구됩니다.
 
 - **파트너 인센티브**: 청구 월이 끝나고 45일 후에 결제됩니다.
 

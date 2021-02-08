@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042704"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552421"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-| **범주** | **2021년 1월 공지** | **발표** |
+|**범주**|**2021년 2월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트](2021-february.md#3)|2월 4일|
+|기능|[파트너 센터의 조회 모듈에 대한 새로운 업데이트](2021-february.md#2)|2월 4일|
+|최신 작업 공간|[교육 고객 유효성 검사 프로세스에 사용되는 PUT 검증 API가 2021년 2월 25일에, GET 검증이 2021년 5월 4일에 사용 중단 및 사용 중지](2021-february.md#1)|2월 4일|
+| **범주** | **2021년 1월 공지** | **발표** |
 |최신 작업 공간|[1단계 현재 진행 중: EU/EFTA 및 UK 새 상거래 제품에 대한 파트너 청구 통화의 변경](2021-january.md#15)|1월 28일|
 |최신 작업 공간|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2021-january.md#14)|1월 28일|
 |기능|[MPA(Microsoft 파트너 계약) – 간접 재판매인 업데이트 및 새 FAQ](2021-january.md#13)|1월 27일|

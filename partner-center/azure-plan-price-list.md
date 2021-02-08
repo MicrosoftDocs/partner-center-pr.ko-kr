@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534729"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924957"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure용 CSP의 새로운 상거래 환경에 대한 가격표
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534729"
 - 영업 상담원
 - 사용자 관리 담당자
 
-CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터에 게시되어 있습니다. 가격표는 정확한 실시간 파일을 통해 동적으로 제공되며 가격은 USD로만 표시됩니다. 그러나 청구는 고객의 통화 위치에서 지원하는 통화로 수행됩니다. 고객의 통화 위치에서 요금을 청구하는 방법에 대한 자세한 내용은 [Azure 플랜 - 청구](azure-plan-billing.md)를 참조하세요.
+CSP의 새로운 Azure 상거래 환경에 대한 가격표는 파트너 센터에 게시되어 있습니다. 가격표는 정확한 실시간 파일을 통해 동적으로 제공되며 가격은 USD로만 표시됩니다. 2021년 1월 28일부터 EU/EFTA 및 영국 지역의 파트너 중에서 신규 고객 및 기존 CSP 고객이 2020년 5월 11일 전에 테넌트가 생성된 새 상거래 제품을 처음으로 구매한 파트너의 경우 해당 구매 대금은 파트너 위치 통화로 청구됩니다.  EU/EFTA 및 영국 외부 지역의 파트너는 파트너 위치 통화로 계속 청구됩니다. 자세한 내용은 [Azure 플랜 - 청구](azure-plan-billing.md)를 참조하세요.
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Azure 플랜 가격 책정이 적용되는 구독의 가격표 보기
 
