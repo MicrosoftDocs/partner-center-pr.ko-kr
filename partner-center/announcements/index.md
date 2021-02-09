@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552421"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588736"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "99552421"
 
 |**범주**|**2021년 2월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[Compliance Manager의 추가 기능인 프리미엄 평가는 2021년 3월 1일에 실시됩니다.](2021-february.md#4)|2월 5일|
 |기능|[COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트](2021-february.md#3)|2월 4일|
 |기능|[파트너 센터의 조회 모듈에 대한 새로운 업데이트](2021-february.md#2)|2월 4일|
 |최신 작업 공간|[교육 고객 유효성 검사 프로세스에 사용되는 PUT 검증 API가 2021년 2월 25일에, GET 검증이 2021년 5월 4일에 사용 중단 및 사용 중지](2021-february.md#1)|2월 4일|

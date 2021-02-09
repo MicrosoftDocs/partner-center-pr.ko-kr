@@ -1,7 +1,7 @@
 ---
 title: 파트너 계정의 위치 관리
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 새 위치를 추가하는 방법 및 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098893"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624275"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN 계정 위치 관리 및 새 위치 추가
 
@@ -47,6 +47,8 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
  >**새** CSP 계정에 대해서는 **새** 자격 증명을 사용하여 로그인해야 합니다. 파트너 센터에서 이미 계정이 있는 것으로 인식하므로 기존 자격 증명을 사용하지 마세요.
 
 2. Microsoft 파트너 계약에 동의하고 계정을 활성화합니다.
+
+1. 직접 청구 파트너로 등록하려면 [직접 청구 파트너 요구 사항](direct-partner-new-requirements.md)을 참조하세요.
 
 ## <a name="view-your-mpn-locations"></a>MPN 위치 보기
 
