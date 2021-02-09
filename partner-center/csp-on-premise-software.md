@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098859"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834822"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>CSP (클라우드 솔루션 공급자) 프로그램을 통해 온-프레미스 소프트웨어 판매
 
@@ -37,18 +37,18 @@ CSP의 온-프레미스 소프트웨어는 클라우드 중심 프로그램에�
 
 ## <a name="activate-and-manage-software-subscriptions"></a>소프트웨어 구독 활성화 및 관리
 
-소프트웨어를 구매한 후에는 고객이 다운로드 해야 합니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
+소프트웨어를 구입한 후에는 고객이 소프트웨어를 다운로드해야 합니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
 
 >[!NOTE]
->키 및 다운로드를 얻으려면 관리 에이전트 여야 합니다.
+>키와 다운로드에 대 한 링크를 가져오려면 관리 에이전트 여야 합니다.
 
 1. 고객의 세부 정보 페이지로 이동하여 **소프트웨어** 를 선택합니다. 고객을 대신하여 구입한 모든 소프트웨어 목록이 표시됩니다.
-2. **소프트웨어 제품 키 링크** 에서 "딥 링크"를 복사 하 고 고객에 게 링크를 다운로드 하 여 공유 합니다. 이 링크를 선택 하면 해당 제품 키를 다운로드 하 고 가져오는 Microsoft 관리 센터로 리디렉션됩니다.
+2. **소프트웨어 제품 키 및 다운로드 링크** 에서 "딥 링크"를 복사하여 고객과 링크를 공유합니다. 고객이 이 링크를 선택하면 제품 키를 다운로드하고 받을 수 있는 Microsoft 관리 센터로 리디렉션됩니다.
 
 >[!NOTE]
->고객만 Microsoft 관리 센터에서 제품 키와 다운로드 정보를 볼 수 있습니다. 파트너는이 정보를 볼 수 없습니다.
+>오직 고객만이 Microsoft 관리 센터에서 제품 키와 다운로드 정보를 볼 수 있습니다. 파트너는 이 정보를 볼 수 없습니다.
 
-사용자 또는 고객이 라이선스 키를 다운로드 하는 방법에 대해 자세히 알아보려면 [소프트웨어 및 제품 라이선스 키 다운로드](https://go.microsoft.com/fwlink/p/?linkid=2152525)를 참조 하세요.
+파트너 또는 파트너의 고객이 라이선스 키를 다운로드하는 방법을 자세히 알아보려면 [소프트웨어 및 제품 라이선스 키 다운로드](https://go.microsoft.com/fwlink/p/?linkid=2152525)를 참조하세요.
 
 ## <a name="cancel-a-purchase"></a>구입 취소
 

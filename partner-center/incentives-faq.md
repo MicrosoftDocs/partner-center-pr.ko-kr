@@ -1,19 +1,19 @@
 ---
 title: 성과급 FAQ
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Microsoft 성과급에 대 한 질문과 대답입니다. 이 문서에는 사용자 역할, 등록 방법 또는 오류 메시지에 대해 수행할 작업에 대 한 질문이 포함 되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624224"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835070"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>성과급에 대 한 질문과 대답
 
@@ -67,17 +67,11 @@ MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>성과급 개요 페이지에 일부 등록 없습니다.
 
-성과급 **개요** 페이지에서 예상한 것 보다 많은 등록 표시 되는 경우 다음을 수행할 수 있습니다.
+대시보드에 더 이상 표시 되지 않는 동기 프로그램이 있는 초대를 수신 했거나 등록 한 경우 적절 한 액세스 권한이 있는지 다시 확인 해야 합니다. 동기 사용자 또는 동기 관리자 역할을 가진 사용자만이 프로그램을 볼 수 있습니다. [역할 찾기](https://docs.microsoft.com/partner-center/find-your-role)를 참조 하세요.
 
-1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
+역할 또는 권한을 변경 해야 하는 경우 회사의 전역 또는 계정 관리자에 게 문의 하세요. 이러한 사람에 대 한 자세한 내용은 [전역 관리자 찾기](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)를 참조 하세요.
 
-2. **설정** 에서 [사용자 관리](https://partner.microsoft.com/pcv/users)를 선택 합니다.
-
-3. 사용자의 이름을 선택 하 여 사용 권한을 확인 합니다.
-
-역할 또는 사용 권한을 변경 해야 하는 경우 회사의 전역 또는 계정 관리자를 참조 하세요.
-
-이 페이지에는 Azure AD 테 넌 트와 연결 된 파트너 전역 계정 (표준)과 연결 된 등록만 표시 됩니다. 회사에 둘 이상의 요소가 있는 경우 각각에 대해 서로 다른 자격 증명을 포함 해야 합니다.
+개요 페이지에는 Azure AD 테 넌 트와 연결 된 파트너 전역 계정 (등록)과 연결 된 항목만 표시 됩니다. 회사에 둘 이상의 요소가 있는 경우 각각에 대해 서로 다른 자격 증명을 포함 해야 합니다.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>등록 프로세스 중에 오류 메시지가 표시 되거나 도움이 필요한 경우 누구에 게 연락 해야 하나요?
 
