@@ -59,6 +59,9 @@
         - name: 역량에 대해 알아보기
           href: learn-about-competencies.md
           displayName: mpn
+        - name: 학습 파트너로 등록
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: 역량 FAQ
           href: competencies-faq.md
           displayName: 'renew, mpn'
