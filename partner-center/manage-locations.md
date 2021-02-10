@@ -1,7 +1,7 @@
 ---
 title: 파트너 계정의 위치 관리
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 새 위치를 추가하는 방법 및 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624275"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005907"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN 계정 위치 관리 및 새 위치 추가
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN 계정 위치 관리 및 새 위치 추가(삭제)
 
 
 **적절한 역할**
@@ -80,6 +80,10 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 
 > [!NOTE]
 > 파트너 센터에서 추가한 위치는 제거할 수 없습니다. 올바른 MPN ID를 사용하여 로그인한 경우 파트너 센터의 왼쪽 메뉴에 **MPN** 이 표시됩니다.
+
+## <a name="delete-a-location"></a>위치 삭제
+
+계정에서 위치를 삭제하려면 [파트너 지원](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)에 문의해야 합니다. 이 작업이 미치는 영향을 이해했는지 확인합니다. 삭제된 위치는 검색할 수 없으며 특정 MPN ID에 연결된 모든 항목은 더 이상 인식되지 않거나 회사에 대해 활성화되지 않습니다.
 
 ## <a name="change-country-of-partner-global-account"></a>파트너 전역 계정의 국가 변경 
 
