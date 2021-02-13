@@ -9,7 +9,7 @@
     - name: Microsoft와 파트너 되기
       href: mpn-overview.md
       displayName: mpn
-    - name: 파트너 센터 계정 만들기
+    - name: 파트너 센터에서 MPN 계정 만들기
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: 회사 이메일 주소 가져오기
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: 제품 갱신
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: 환불 요청
+          href: mpn-refund-request.md
           displayName: mpn
         - name: MPN 혜택 찾기
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: 출시 혜택
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: MPN 파트너를 위한 데모
+          href: mpn-demos.md
           displayName: mpn
         - name: 혜택 FAQ
           href: benefits-faq.md
