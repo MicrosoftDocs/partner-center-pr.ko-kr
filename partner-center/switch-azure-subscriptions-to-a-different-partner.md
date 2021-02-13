@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980244"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281253"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에게 고객의 Azure 구독을 전송하는 방법 알아보기
 
@@ -43,27 +43,27 @@ ms.locfileid: "91980244"
 
    파트너 센터에서 Azure 서비스 티켓을 만들어 구독 이전을 요청 합니다.
 
-   1. 파트너 센터 메뉴에서 **고객**을 선택 하 고, 목록에서 고객을 선택한 다음, **서비스 관리**를 선택 합니다. 
+   1. 파트너 센터 메뉴에서 **고객** 을 선택 하 고, 목록에서 고객을 선택한 다음, **서비스 관리** 를 선택 합니다. 
 
-   2. **지원 티켓** 섹션에서 **새 티켓** 드롭다운을 선택 하 고 **Microsoft Azure**를 선택 합니다.
+   2. **지원 티켓** 섹션에서 **새 티켓** 드롭다운을 선택 하 고 **Microsoft Azure** 를 선택 합니다.
    
-   3. [Azure Portal](https://portal.azure.com)에서 **새 지원 요청**을 선택 합니다.
+   3. [Azure Portal](https://portal.azure.com)에서 **새 지원 요청** 을 선택 합니다.
    
    4. 1 단계에서 **구독 관리** 를 문제 유형으로 선택 하 고, 전송 하려는 구독 ID를 지정 하 고, 지원 계획으로 **클라우드 솔루션 공급자** 를 선택 합니다.
    
    5. 2 단계에서 **C-최소 영향** 을 선택 하 고 문제 유형으로 **다른 일반적인 질문** 을 선택 합니다.
    
-   6. [CSP 구독 이전 양식](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)을 다운로드합니다.
+   6. [CSP 구독 이전 양식](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)을 다운로드합니다.
 
-3. 구독에 대 한 파트너: [CSP 구독 전송 양식을](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)입력 하 고 서명한 다음 고객에 게 보냅니다. 
+3. 구독에 대 한 파트너: [CSP 구독 전송 양식을](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)입력 하 고 서명한 다음 고객에 게 보냅니다. 
 
    양식을 작성 하려면 다음 정보가 필요 합니다.
 
-   - 현재 파트너의 연락처 정보 및 Microsoft ID입니다. 파트너 센터 메뉴에서 **계정 설정** &gt; **조직 프로필**을 선택 하 고 여기에 나열 된 **Microsoft ID**, **조직 이름**및 **주소** 를 사용 합니다.
+   - 현재 파트너의 연락처 정보 및 Microsoft ID입니다. 파트너 센터 메뉴에서 **계정 설정** &gt; **조직 프로필** 을 선택 하 고 여기에 나열 된 **Microsoft ID**, **조직 이름** 및 **주소** 를 사용 합니다.
 
-   - 고객의 Microsoft ID. 파트너 센터 메뉴에서 **고객**을 선택한 다음 고객 목록을 확장 하 여 **Microsoft ID**를 확인 합니다.
+   - 고객의 Microsoft ID. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 고객 목록을 확장 하 여 **Microsoft ID** 를 확인 합니다.
 
-   - 전송할 구독 ID입니다. 확장 된 고객 목록에서 구독 **보기**를 선택한 다음, 선택한 구독을 확장 하 여 **구독 ID**를 확인 합니다.
+   - 전송할 구독 ID입니다. 확장 된 고객 목록에서 구독 **보기** 를 선택한 다음, 선택한 구독을 확장 하 여 **구독 ID** 를 확인 합니다.
 
    >[!Note]
    >구독을 전송 하면 전송 된 구독의 **구독 편집** 페이지에 표시 되는 두 개의 구독 id가 생성 됩니다. **1**-파트너 센터 구독 id는 청구 목적으로 사용 됩니다. **2**-원래 AZURE 구독 ID는 유지 되 고 파트너 센터 뿐만 아니라 azure 관리 포털에도 표시 됩니다. 이 ID는 정찰 파일에 표시 됩니다.  **지원 티켓을 기록 하는 경우 두 Id를 모두 사용 해야 합니다.**
@@ -92,7 +92,7 @@ ms.locfileid: "91980244"
      ```
 
      >[!NOTE]
-     > 고객의 **테 넌 트 id** 는 고객의 **Microsoft Id**로 파트너 센터에 표시 됩니다. 특정 고객에 대 한 Microsoft ID (테 넌 트 ID)를 찾으려면 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다. 그런 다음 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 찾습니다. 아래쪽 화살표를 선택 하 여 고객의 목록을 확장 합니다. 고객의 *도메인 이름* 및 고객의 **Microsoft ID**에 대 한 정보가 표시 됩니다. PowerShell 이상에서 16 자리 **MICROSOFT ID** 를 사용 합니다.
+     > 고객의 **테 넌 트 id** 는 고객의 **Microsoft Id** 로 파트너 센터에 표시 됩니다. 특정 고객에 대 한 Microsoft ID (테 넌 트 ID)를 찾으려면 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다. 그런 다음 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 찾습니다. 아래쪽 화살표를 선택 하 여 고객의 목록을 확장 합니다. 고객의 *도메인 이름* 및 고객의 **Microsoft ID** 에 대 한 정보가 표시 됩니다. PowerShell 이상에서 16 자리 **MICROSOFT ID** 를 사용 합니다.
 
    - 이전 CSP 파트너를 포함 하 여 계정에 대 한 역할 보기:
 
@@ -102,10 +102,10 @@ ms.locfileid: "91980244"
 
 7. 오래 된 액세스 권한 제거
 
-   - 파트너 센터 메뉴에서 **고객**을 선택 합니다.
+   - 파트너 센터 메뉴에서 **고객** 을 선택 합니다.
    - 목록에서 고객을 찾습니다. 회사 이름을 선택 (두 번 클릭) 합니다. 그러면 고객 **구독** 페이지가 열립니다.
-   - 고객 정보 메뉴에서 **서비스 관리**를 선택 합니다.
-   - **Microsoft Azure**에서 링크를 클릭 하 여 **Microsoft Azure 관리 포털**으로 이동 합니다.
+   - 고객 정보 메뉴에서 **서비스 관리** 를 선택 합니다.
+   - **Microsoft Azure** 에서 링크를 클릭 하 여 **Microsoft Azure 관리 포털** 으로 이동 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

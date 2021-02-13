@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979824"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281296"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure 등에 대 한 가격 책정 및 제품
 
@@ -82,7 +82,7 @@ ms.locfileid: "97979824"
 
 ## <a name="pricing-and-special-segments"></a>가격 책정 및 특수 세그먼트
 
-CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 시장 부문에 몇 가지 서비스를 제공 합니다. 모든 서비스를 모든 채널에서 사용할 수 있는 것은 아닙니다. 기본적으로 ' 상용 ' 세그먼트를 호출 하는 세그먼트가 없습니다. 모든 라이선스 기반 가격은 가격 책정 및 제품 페이지의 라이선스 기반 가격 목록에서 확인할 수 있습니다. Azure Government 가격은 사용 하도록 설정 된 CSP 테 넌 트에 로그인 Azure Government 하는 경우 사용량 기반 가격 목록에서 사용할 수 있습니다.
+CSP는 교육, 비영리 및 정부 커뮤니티 클라우드와 같은 특수 시장 부문에 몇 가지 서비스를 제공 합니다. 모든 서비스를 모든 채널에서 사용할 수 있는 것은 아닙니다. 기본적으로 ' 상용 ' 세그먼트를 호출 하는 세그먼트가 없습니다. 모든 라이선스 기반 가격은 가격 책정 및 제품 페이지의 라이선스 기반 가격 목록에서 확인할 수 있습니다. Azure Government 가격은 사용 하도록 설정 된 CSP 테 넌 트에 로그인 Azure Government 하는 경우 사용량 기반 가격 목록에서 사용할 수 있습니다. 소프트웨어 구독과 정품 소프트웨어는 이러한 특수 세그먼트를 아직 지원 하지 않습니다.
 
 |**Segment**   |**자격을 획득 해야 하는 사용자**   |**파트너 자격 고객**|**사용 하도록 설정 된 제품 유형**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
@@ -154,7 +154,7 @@ Azure 예약은 특정 리소스 종류-Virtual Machines에 대 한 용어 기�
 
 Microsoft 365 A1 기본 제품에는 6 년 기간이 있습니다.  이 기본 제품을 구매한 후에는 Office 365 A1 추가 기능을 사용할 수 있습니다. 
 
-|**제품 이름**   |**제품 ID**   |**형식**|
+|**제품 이름**   |**제품 ID**   |**유형**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|기본 제안|
 |교직원 용 Office 365 A1 (장치용)|0757d14e-7c57-456f-8dab-47d164f2ff1f|추가 기능|

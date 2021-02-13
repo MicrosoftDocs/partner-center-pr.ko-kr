@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588753"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281367"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -158,7 +158,7 @@ PC에서의 마이그레이션 처리를 시작 하기 전에 다음 지침에 �
     - 예상 되는 종료 날짜
     - 파트너 정보
 
-PSC에서 대량 다운로드 및 업로드 기능을 사용 하 여 적격 한 모든 거래의 데이터를 정리할 수 있습니다.
+PSC에서 대량 다운로드 및 업로드 기능을 사용 하 여 모든 적격 거래에 대 한 거래에 누락 된 세부 정보를 모두 추가할 수 있습니다.
 
 >[!Note]
 > 위의 필수 구성 요소가 충족 되지 않더라도 마이그레이션에 성공 합니다. 그러나 파트너 센터에서 위에 언급 된 필수 필드를 사용할 수 없는 경우에는 거래 상태를 변경할 수 없습니다. 그런 다음 파트너 센터의 거래 센터에서 누락 된 모든 필수 정보를 입력 하 여 작업을 시작 해야 합니다. **파트너 센터로 마이그레이션하기 전에 PSC에서 적격 거래를 정리 하는 것이 좋습니다.**
@@ -178,9 +178,9 @@ PSC에서 대량 다운로드 및 업로드 기능을 사용 하 여 적격 한 
 4. **Psc 거래 ID** -거래의 psc에서 고유 식별자입니다.
 5. **오류** -특정 거래를 마이그레이션하는 동안 오류가 있는지 여부를 표시 합니다.
 
-성공적으로 마이그레이션된 모든 거래는 PSC에 표시 되지 않습니다. PC에서 마이그레이션된 거래 작업을 수행할 수 있습니다. 공동 판매 거래의 경우 Microsoft 판매자와의 상호 작용은 변경 되지 않습니다.
+성공적으로 마이그레이션된 모든 거래는 PSC에 표시 되지 않습니다. Pc에서 등록 완료를 포함 하 여 PC의 마이그레이션된 거래에 대해 계속 작업할 수 있습니다. 공동 판매 거래의 경우 Microsoft 판매자와의 상호 작용은 변경 되지 않습니다.
 
-PSC에서 마이그레이션한 거래는 거래의 원본에 따라 인바운드 및 아웃 바운드 탭에서 사용할 수 있습니다. 모든 파트너 생성 거래는 아웃 바운드 탭에서 사용할 수 있으며, Microsoft에서 시작한 거래는 파트너 센터의 인바운드 탭에서 사용할 수 있습니다. 마이그레이션 후에는 두 가지 유형의 거래를 만들 수 있습니다.
+PSC에서 마이그레이션한 거래는 거래의 원본에 따라 인바운드 및 아웃 바운드 탭에서 사용할 수 있습니다. 회사에서 공유 하는 모든 거래는 아웃 바운드 탭에서 사용할 수 있으며, Microsoft에서 시작한 거래는 파트너 센터의 인바운드 탭에서 제공 됩니다. 마이그레이션 후에는 두 가지 유형의 거래를 만들 수 있습니다.
 
 1. **공동 판매 거래** -PSC에서 공동 판매로 표시 되는 거래는 파트너 센터에서 공동 판매 거래로 생성 됩니다.
 2. 공동 판매로 표시 되지 않은 **파트너 주도** 거래 사항은 파트너 센터에서 파트너 주도 거래로 생성 됩니다. 파트너 주도 거래는 Microsoft 판매자에 게 표시 되며, 터미널 상태 (성공, 손실)에 도달 하기 전에 공동 판매 거래로 업그레이드할 수 있습니다. 또한 거래에 적합 한 솔루션이 있는 경우 파트너 주도 거래는 거래를 등록 하는 데 적합 합니다.
@@ -386,12 +386,20 @@ PSC의 기회 ID는 PC의 거래 ID와 동일 합니다. 거래를 열 때 거�
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>PSC의 계정이 유효한 MPN와 연결 되지 않은 경우 올바른 MPN ID 찾기
 
-여기에 있는 경우 ' PSC 잘못 된 MPN ID 연결 문제 '를 언급 하는에 대 한 배너를 확인 했으므로 올바른 위치에 있습니다.
+여기에 있는 경우 ' PSC 잘못 된 MPN ID 연결 문제 '를 언급 하는에 대 한 배너를 확인 했으므로 올바른 위치에 있습니다. 다음 이유로 인해 계정이 잘못 된 MPN ID에 연결 되었을 수 있습니다.
+
+- 회사에 파트너 센터 계정이 없습니다.
+- 컴퓨터를 파트너 센터 계정 (MPNID)에 연결 하는 내부 시스템에 계정 MPN ID를 입력 하는 동안 PDM에서 실수를 했습니다.
+- 회사에서 PMC (파트너 구성원 센터)에서 PC로의 마이그레이션을 완료 하지 못했습니다.
 
 먼저 아래 단계에 따라 올바른 MPN ID를 찾습니다.
 
 - 파트너 센터 계정에 로그인 합니다.
 - [계정 설정 설명서](./partner-center-account-setup.md#locate-your-mpn-id) 에 제공 된 지침을 사용 하 여 MPN ID를 찾습니다.
+
+다음은 파트너 센터 MPN ID를 찾을 수 있는 정확한 위치를 보여 주는 스크린샷입니다.
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="파트너가 MPN ID를 찾을 수 있는 계정 설정을 보여 주는 이미지입니다."  lightbox="images/pscmigration/findingMPNID.png":::
 
 다음으로,
 

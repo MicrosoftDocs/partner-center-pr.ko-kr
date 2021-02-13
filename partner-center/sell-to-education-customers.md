@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916919"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281313"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 및 파트너 센터에서 교육 고객을 만드는 방법
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916919"
 
 ## <a name="create-an-education-customer"></a>교육 고객 만들기
 
-이 문서에서는 파트너 센터에서 교육 고객을 만들고 교육 제품을 판매 하는 방법을 설명 합니다. 확인 상태를 확인 하 고 필요한 경우 확인 요청을 다시 제출 하는 방법에 대해서도 설명 합니다.
+이 문서에서는 파트너 센터에서 교육 고객을 만들고 교육 제품을 판매 하는 방법을 설명 합니다. 확인 상태를 확인 하 고 필요한 경우 확인 요청을 다시 제출 하는 방법에 대해서도 설명 합니다. 교육 행사는 현재 Microsoft 365, Dynamics, Intune 등 **의 라이선스 기반 서비스 에서만 사용할 수** 있습니다. 다른 형식 (소프트웨어 구독, 영구 소프트웨어 또는 Azure 제품)에는 사용할 수 없습니다.
 
 > [!IMPORTANT]
 > Microsoft는 새로 만든 각 교육 고객 테 넌 트를 확인 하 여 교육 제공을 위해 자격이 있는지 확인 합니다.  확인 프로세스가 지연 되는 것을 방지 하려면 필요한 정보를 가능한 한 정확 하 고 완전히 입력 해야 합니다.
@@ -75,7 +75,7 @@ ms.locfileid: "97916919"
 
 고객이 초기 확인에 실패 한 경우 이제 정보를 수정 하 고 다시 제출할 수 있습니다.
 
-### <a name="correct-the-customer-account-information"></a>고객 계정 정보를 수정 하십시오.
+### <a name="correct-the-customer-account-information"></a>고객 계정 정보 수정
 
 고객 정보를 업데이트 하려면 전역 관리자 권한이 있어야 합니다. 파트너 센터 포털에서이 데이터를 업데이트할 수 없으므로 Office 365 포털에서 정보를 업데이트 합니다.
 

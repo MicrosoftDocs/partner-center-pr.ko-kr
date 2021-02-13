@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182412"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624003"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
@@ -52,7 +52,7 @@ PEC(파트너 획득 크레딧)를 받으려면 다음 요구 사항이 적용�
 
 ### <a name="calculation"></a>계산
 
-PEC는 매일 계산되며 일별 사용량 파일 및 월별 청구서 조정 파일에서 볼 수 있습니다. 파트너(간접 공급자 또는 간접 재판매인)에게는 전체 기간 동안(연중무휴) PEC를 획득할 수 있는 액세스 권한이 있어야 합니다. PEC는 관리되는 Azure 자산을 기준으로 매일 계산됩니다. 주어진 청구 기간(월)의 최대 PEC는 15%입니다. 해당 월(액세스 범위) 및 모든 적격 리소스(액세스 범위)에 대해 권한 있는 영구 액세스를 유지하는 파트너는 15%의 전체 PEC를 획득합니다. 범위 및 범위 축소로 인해 해당 월의 PEC 비율이 낮아집니다. Azure 자산에 대한 일일 정격 사용량 파일은 PEC 적용 여부에 관계없이 매일 표시됩니다. 파트너는 경고에 등록하여 권한 있는 영구 액세스에 대한 변경 내용을 모니터링할 수도 있습니다.
+PEC는 매일 계산되며 일별 사용량 파일 및 월별 청구서 조정 파일에서 볼 수 있습니다. 파트너(간접 공급자 또는 간접 재판매인)에게는 전체 기간 동안(연중무휴) PEC를 획득할 수 있는 액세스 권한이 있어야 합니다. PEC는 관리되는 Azure 자산을 기준으로 매일 계산됩니다. 해당 월(액세스 범위) 및 모든 적격 리소스(액세스 범위)에 대해 권한 있는 영구 액세스를 유지하는 파트너는 전체 PEC를 획득합니다. 범위 및 범위 축소로 인해 해당 월의 PEC 비율이 낮아집니다. Azure 자산에 대한 일일 정격 사용량 파일은 PEC 적용 여부에 관계없이 매일 표시됩니다. 파트너는 경고에 등록하여 권한 있는 영구 액세스에 대한 변경 내용을 모니터링할 수도 있습니다.
 
 ## <a name="azure-cost-management"></a>Azure Cost Management
 

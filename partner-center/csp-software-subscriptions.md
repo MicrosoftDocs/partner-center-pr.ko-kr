@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098842"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834859"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>CSP(클라우드 솔루션 공급자) 프로그램을 통해 소프트웨어 구독 판매
 
@@ -95,7 +95,7 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 소프트웨어를 구입한 후에는 고객이 소프트웨어를 다운로드해야 합니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
 
 >[!NOTE]
->관리자 에이전트만 키와 다운로드를 받을 수 있습니다.
+>키 및 다운로드에 대한 링크를 얻으려면 관리자 에이전트여야 합니다.
 
 1. 고객의 세부 정보 페이지로 이동하여 **소프트웨어** 를 선택합니다. 고객을 대신하여 구입한 모든 소프트웨어 목록이 표시됩니다.
 2. **소프트웨어 제품 키 및 다운로드 링크** 에서 "딥 링크"를 복사하여 고객과 링크를 공유합니다. 고객이 이 링크를 선택하면 제품 키를 다운로드하고 받을 수 있는 Microsoft 관리 센터로 리디렉션됩니다.

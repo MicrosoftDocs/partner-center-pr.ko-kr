@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132966"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624156"
 ---
 # <a name="security-requirements-status-report"></a>보안 요구 사항 상태 보고서
 
-**적용 대상**
-
-- 클라우드 솔루션 공급자 프로그램의 모든 파트너
-- 모든 제어판 공급업체
-- 모든 관리자
-
-**적절한 사용자**
-- 사용하도록 설정된 모든 사용자(게스트 사용자 포함)
+**적절한 역할**
+- 제어판 공급업체
+- 전역 관리자
 
 이 문서는 파트너 센터의 파트너 보안 요구 사항 상태 보고서에 대해 설명합니다. 이 보고서에서는 파트너 테넌트 사용자를 위한 MFA(다단계 인증)의 [파트너 보안 요구 사항](partner-security-requirements.md) 준수 메트릭을 제공합니다.
 
-[파트너 센터](https://partner.microsoft.com/dashboard)에서 이 보고서에 액세스하려면 **설정** > **파트너 설정** > **보안 요구 사항 상태** 로 이동합니다. 보고서는 매일 업데이트되며 지난 7일 간의 로그인 데이터를 반영합니다.
+[파트너 센터](https://partner.microsoft.com/dashboard)에서 이 보고서에 액세스하려면 **설정** > **계정 설정** > **보안 요구 사항 상태** 로 차례로 이동합니다. 보고서는 매일 업데이트되며 지난 7일 간의 로그인 데이터를 반영합니다.
 
 >[!NOTE]
 >보안 요구 사항 상태 보고서는 파트너 센터에서만 지원됩니다. Microsoft Cloud for US Government 또는 Microsoft 클라우드 독일에서는 사용할 수 없습니다. 소버린 클라우드(미국 정부 및 독일)를 통해 거래하는 모든 파트너는 이러한 새 보안 요구 사항을 즉시 채택할 것을 강력하게 권장합니다. 그러나 이러한 파트너는 현재 새로운 보안 요구 사항을 충족할 필요가 없습니다. Microsoft에서는 나중에 소버린 클라우드에 대한 이러한 보안 요구 사항의 적용과 관련된 추가 세부 정보를 제공할 예정입니다.
@@ -107,7 +102,7 @@ MFA를 구현한 일부 파트너는 100% 미만의 보고서 메트릭을 볼 �
 
 타사 MFA 솔루션을 사용하는 경우 이를 Azure AD와 통합하는 방법을 확인합니다. 일반적으로 페더레이션 및 사용자 지정 컨트롤을 포함한 두 가지 방법이 있습니다.
 
-* **ID 페더레이션** – Azure AD가 인증 요청을 수신하면 Azure AD는 인증을 위해 사용자를 페더레이션된 ID 공급자로 리디렉션합니다. 성공적으로 인증되면 페더레이션된 ID 공급자는 SAML 토큰을 사용하여 사용자를 Azure AD로 다시 리디렉션합니다. 사용자가 페더레이션된 ID 공급자에 인증할 때 MFA 확인을 완료한 것으로 Azure AD에서 인식하려면 SAML 토큰에 *authenticationmethodsreferences* 클레임(값은 *multipleauthn* )이 포함되어야 합니다. 페더레이션된 ID 공급자가 이러한 클레임 발급을 지원하는지 확인하세요. 지원한다면 페더레이션된 ID 공급자가 이러한 클레임 발급을 지원하도록 구성되었는지 확인하세요. 클레임이 없는 경우 Azure AD(및 이에 따라 파트너 센터)에서는 사용자가 MFA 확인을 완료했고 클레임이 누락되어 메트릭이 100%가 되지 않을 수 있음을 인식할 수 없습니다.
+* **ID 페더레이션** – Azure AD가 인증 요청을 수신하면 Azure AD는 인증을 위해 사용자를 페더레이션된 ID 공급자로 리디렉션합니다. 성공적으로 인증되면 페더레이션된 ID 공급자는 SAML 토큰을 사용하여 사용자를 Azure AD로 다시 리디렉션합니다. 사용자가 페더레이션된 ID 공급자에 인증할 때 MFA 확인을 완료한 것으로 Azure AD에서 인식하려면 SAML 토큰에 *authenticationmethodsreferences* 클레임(값은 *multipleauthn*)이 포함되어야 합니다. 페더레이션된 ID 공급자가 이러한 클레임 발급을 지원하는지 확인하세요. 지원한다면 페더레이션된 ID 공급자가 이러한 클레임 발급을 지원하도록 구성되었는지 확인하세요. 클레임이 없는 경우 Azure AD(및 이에 따라 파트너 센터)에서는 사용자가 MFA 확인을 완료했고 클레임이 누락되어 메트릭이 100%가 되지 않을 수 있음을 인식할 수 없습니다.
 
 * **사용자 지정 컨트롤** – Azure AD 사용자 지정 컨트롤을 사용하여 사용자가 타사 MFA 솔루션을 통해 MFA 확인을 완료했는지 여부를 확인할 수 없습니다. 따라서 사용자 지정 컨트롤을 통해 MFA 확인을 완료한 사용자는 항상 Azure AD에(그리고 파트너 센터에) MFA 확인을 완료하지 않는 것으로 나타납니다. 가능하다면 Azure AD와 통합할 때 사용자 지정 컨트롤과 반대로 ID 페더레이션을 사용하도록 전환하는 것이 좋습니다.
 
