@@ -1,20 +1,20 @@
 ---
 title: 고객에 대 한 지원 제공
-ms.topic: article
-ms.date: 01/22/2021
+description: CSP 프로그램의 파트너에 대 한 고객 지원 책임에 대해 알아봅니다. 청구, 구독 관리 및 기술 문제에 대 한 지원을 포함 합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP 프로그램의 파트너에 대 한 고객 지원 책임에 대해 알아봅니다. 청구, 구독 관리 및 기술 문제에 대 한 지원을 포함 합니다.
 author: Kim-Davis
 ms.author: kimnich
+ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/22/2021
+ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717677"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541031"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>고객에게 다양한 지원 유형 제공
 
@@ -34,11 +34,15 @@ CSP 고객은 지원 티켓을 직접 만들 수 없습니다. 지원 담당자�
 
 - **상업적** 문제 지원은 CSP 프로그램의 모든 파트너에 게 제공 됩니다.
 
-- **기술** 문제 지원-특정 지원 계획에 대 한 자세한 내용은 [파트너 지원 계획을 비교](https://partner.microsoft.com/support/partnersupport) 하거나 아래에서 확인할 수 있습니다.
+- **기술** 문제 지원- [파트너 지원 계획을 비교할](https://partner.microsoft.com/support/partnersupport) 수 있습니다. 자세한 내용은 특정 지원 계획에 대 한 다음 링크를 참조 하세요.
 
-  - [파트너에 대 한 프리미어 지원](https://partner.microsoft.com/support/microsoft-services-premier-support) (요금 기준)
-  - [파트너에 대 한 고급 지원](https://partner.microsoft.com/support/advanced-cloud-support) (요금 기준)
-  - [서명 클라우드 지원](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits) (골드/실버 역량에 포함 됨)
+  - [파트너 프리미어 지원](https://partner.microsoft.com/support/microsoft-services-premier-support) (요금 기준, 모든 제품에 사용)
+
+  - [파트너에 대 한 고급 지원](https://partner.microsoft.com/support/advanced-cloud-support) (요금 기준, 클라우드 제품에만 사용)
+
+  - [서명 클라우드 지원](manage-your-partner-network-benefits.md) (골드 또는 실버 역량의 MPN 혜택에 포함 됨, 클라우드 제품에만 사용)
+
+  - [제품 지원 인시던트](manage-your-partner-network-benefits.md) (MPN 혜택에 포함 된 골드, 실버 또는 Microsoft Action Pack 파트너에 게는 최근 온-프레미스 제품에만 사용)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
@@ -49,12 +53,3 @@ CSP 고객은 지원 티켓을 직접 만들 수 없습니다. 지원 담당자�
 - [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [CSP를 통해 판매 되는 Microsoft Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
-
-
-
- 
-
- 
-
-
-
