@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974759"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541023"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -348,7 +348,9 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 2021년 2월부터 Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 API 제한을 구현합니다. 이러한 제한은 과도한 리소스 사용을 방지하기 위해 일정 시간 동안 서비스 요청 수를 제한합니다. 제한 임계값을 초과하면 파트너 센터는 해당 클라이언트의 추가 요청을 일정 시간 동안 제한합니다.
   
-**파트너 혜택:** 파트너 센터는 대량의 요청을 처리하도록 설계되었지만, 소수의 파트너가 너무 많은 요청을 수행할 경우 모든 파트너의 최적 성능과 안정성을 유지하기 위해 요청을 제한합니다.  
+**파트너 혜택:**
+
+파트너 센터는 대량의 요청을 처리하도록 설계되었지만, 소수의 파트너가 너무 많은 요청을 수행할 경우 모든 파트너의 최적 성능과 안정성을 유지하기 위해 요청을 제한합니다.  
 
 - 이를 통해 가동 중지 시간을 최소화합니다.
 - 이러한 제한은 대용량 요청 수를 줄여 모든 파트너에게 일관된 성능을 보장합니다.
