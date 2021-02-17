@@ -127,9 +127,6 @@
     - name: Microsoft 파트너 계약 - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: 위치 관리
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: 간접 공급자가 재판매인이 MPA를 채택하도록 하는 방법
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: 회사 계정 연결
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: 위치 관리
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: 도메인 소유권 확인
           href: become-global-admin.md
         - name: 계정 정보 확인
@@ -262,6 +262,8 @@
       items:
         - name: 공동 판매 잠재 고객 정보
           href: manage-co-sell-opportunities.md
+        - name: 대량 작업
+          href: bulk-operations.md
         - name: 공동 판매 CRM 커넥터 사용
           items:
             - name: Dynamics 365용
