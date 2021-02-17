@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588736"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490158"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "99588736"
 
 |**범주**|**2021년 2월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[Microsoft Viva 항목 소개](2021-february.md#7)|2월 12일|
+|제품/시장|[2021년 3월 예정인 Microsoft 365 E3 가격 변경](2021-february.md#6)|2월 11일|
+|제품/시장|[노르웨이 크로네에 대해 업데이트된 라이선스 기반 미리 보기 가격표](2021-february.md#5)|2월 10일|
 |기능|[Compliance Manager의 추가 기능인 프리미엄 평가는 2021년 3월 1일에 실시됩니다.](2021-february.md#4)|2월 5일|
 |기능|[COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트](2021-february.md#3)|2월 4일|
 |기능|[파트너 센터의 조회 모듈에 대한 새로운 업데이트](2021-february.md#2)|2월 4일|
