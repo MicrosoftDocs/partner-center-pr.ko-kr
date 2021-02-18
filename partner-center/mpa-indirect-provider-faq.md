@@ -1,7 +1,7 @@
 ---
 title: 간접 공급자가 Microsoft 파트너 규약을 채택 하는 데 도움을 주는 방법-FAQ
 ms.topic: article
-ms.date: 02/04/2021
+ms.date: 02/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너 계약에 대 한 답변에 대 한 주요 질문
@@ -9,18 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624292"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645897"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>간접 공급자가 Microsoft 파트너 계약 (MPA)을 수락 하는 데 간접적인 도움을 주는 방법
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 관리 에이전트
 - 영업 상담원
 
@@ -117,7 +117,7 @@ Location MPN ID와 연결 된 CSP 계정을 사용 하면 간접 공급자를 �
 
 •[파트너 계정에서 위치 관리](manage-locations.md)
 
-문제가 발생 하는 경우 파트너 센터 내에서 [지원 티켓](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) 을 생성 합니다. 
+문제가 발생 하는 경우 파트너 센터 내에서 [지원 티켓](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) 을 발생 시킵니다. 
 
 
 #### <a name="i-dont-know-which-mpn-id-to-use-while-enrolling-into-csp-indirect-reseller-program"></a>CSP 간접 재판매인 프로그램에 등록 하는 동안 사용할 MPN ID를 알 수 없습니까?
@@ -126,7 +126,7 @@ Location MPN ID와 연결 된 CSP 계정을 사용 하면 간접 공급자를 �
 
 #### <a name="how-do-i-check-which-mpn-id-is-associated-with-my-csp-account"></a>내 CSP 계정과 연결 된 MPN ID를 확인 어떻게 할까요??
 
-**답변** CSP 간접 재판매인 계정에 로그인 합니다. **설정**  ->  **계정 설정**  ->  **조직 프로필**  ->  **식별자** 로 이동 합니다. 페이지의 CSP 영역에서 **연결 된 MPN id** 는 csp 계정과 연결 된 MPN ID 이며 csp 트랜잭션에 대 한 간접 공급자에 게 제공 되어야 합니다. 
+**답변** CSP 간접 재판매인 계정에 로그인 합니다. **설정** -> **계정 설정** -> **조직 프로필** -> **식별자** 로 이동합니다. 페이지의 CSP 영역에서 **연결 된 MPN id** 는 csp 계정과 연결 된 MPN ID 이며 csp 트랜잭션에 대 한 간접 공급자에 게 제공 되어야 합니다. 
 
 #### <a name="how-can-i-view-all-my-mpn-ids"></a>내 MPN Id를 모두 보려면 어떻게 해야 하나요?
 
@@ -142,22 +142,22 @@ CSP 간접 재판매인 인 경우 동일한 지역의 간접 공급자와 파�
 
 #### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>MPN ID를 내 테 넌 트에 연결할 수 없는 이유는 무엇입니까?
 
-**답변**  MPN ID를 테 넌 트에 연결할 수 없고 오류가 표시 되는 경우 MPN ID와 테 넌 트가 동일한 국가에 있지 않음을 의미 합니다. 연결이 작동 하려면 둘 다 동일한 국가에 있어야 합니다. Microsoft 성과급은 country 및 MPN ID 수준에 따라 지불 되기 때문입니다. 예를 들어 프랑스에 CSP 계정이 있는 경우 유료 성과급을 얻기 위해 프랑스에도 MPN location (MPN ID)이 필요 합니다. 영국의 MPN ID 는 동일한 CSP 지역에 있지만 작동 하지 않습니다. 
+**답변**  MPN ID를 테 넌 트에 연결할 수 없고 오류가 표시 되는 경우 MPN ID와 테 넌 트가 동일한 국가에 있지 않음을 의미 합니다. 연결이 작동 하려면 둘 다 동일한 국가에 있어야 합니다. 이 요구 사항은 Microsoft의 성과급이 국가 및 MPN ID 수준에 따라 지불 되기 때문입니다. 예를 들어 프랑스에 CSP 계정이 있는 경우 유료 성과급을 얻기 위해 프랑스에도 MPN location (MPN ID)이 필요 합니다. 영국의 MPN ID 는 동일한 CSP 지역에 있지만 작동 하지 않습니다. 
 
 이 문제를 해결 하려면 CSP country와 동일한 국가에서 MPN 위치를 만듭니다. [MPN 위치를 관리](manage-locations.md)하는 방법에 대해 자세히 알아보세요.
 
 #### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>프랑스에 CSP 간접 재판매인 계정이 있습니다. 독일에서 간접 공급자와 협력 하 여 연결할 수 있나요?
 
-**답변** 예로. Csp 간접 재판매인 계정이 CSP 지역에서 활성 상태인 경우 동일한 계정을 사용 하 여 전체 지역에서 비즈니스를 수행할 수 있습니다. [CSP 지역](regional-authorization-overview.md)에 대해 자세히 알아보세요.
+**답변** 예로. Csp 간접 재판매인 계정이 CSP 지역에서 활성 상태 이면 동일한 계정을 사용 하 여 전체 지역에서 비즈니스를 수행할 수 있습니다. [CSP 지역](regional-authorization-overview.md)에 대해 자세히 알아보세요.
 
 #### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>미국에서 간접적인 재판매인입니다. UK에서 간접 공급자와 파트너 시킬 수 있나요?
 
 **답변** 아니요. CSP는 지역 프로그램입니다. 비즈니스를 수행 하려면 간접 재판매인 및 간접 공급자의 CSP 계정이 동일한 CSP 지역에 있어야 합니다. 이 문제를 해결 하려면 유럽 지역에서 새 CSP 계정을 만들고, CSP 계정 국가와 동일한 국가에서 MPN 위치를 만든 다음, 간접 공급자의 관계 요청을 수락 해야 합니다. 예를 들어 프랑스에서 CSP 간접 재판매인 계정을 만들고 프랑스에서 MPN 위치를 만든 다음, 프랑스 또는 CSP 유럽 지역의 다른 국가 중 하나에 있는 간접 공급자의 초대를 수락할 수 있습니다.
 
-#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>파트너 센터에 MPN 및 CSP 계정이 2 개 이상 있을 수 있나요?
+#### <a name="can-i-have-more-than-one-mpn-and-csp-accounts-in-partner-center"></a>파트너 센터에 둘 이상의 MPN 및 CSP 계정을 사용할 수 있나요?
 
-**답변** 회사에서 수행 하 고 있는 비즈니스의 CSP 영역에 따라 하나의 MPN 계정 (로그인) 및 하나 이상의 CSP 계정 (로그인)을 사용할 수 있습니다. 예를 들어 미국 (계열사), 영국 (자회사) 및 오스트레일리아 (자회사)의 위치를 사용 하 여 미국 (본부)에 MPN 계정을 가질 수 있습니다.
-MPN 계정과 동일한 로그인 자격 증명을 사용 하는 한 명의 CSP 계정 (Office 365 회사 계정)을 미국에 포함할 수 있습니다. 영국의 두 번째 CSP 계정을 사용할 수 있습니다. 유럽 지역에서 CSP 비즈니스를 관리 하는 데 다른 로그인 자격 증명을 포함 하는 다른 두 항목의 다른 로그인 자격 증명을 포함 하는 오스트레일리아의 세 번째 로그인 자격 증명을가지고 있으며 오스트레일리아의 CSP 비즈니스를 관리 합니다.
+**답변** 회사에서 수행 하 고 있는 비즈니스의 CSP 영역에 따라 하나의 MPN 계정 (로그인) 및 하나 이상의 CSP 계정 (로그인)을 사용할 수 있습니다. 예를 들어 미국 (계열사), 영국 (자회사) 및 오스트레일리아 (자회사)의 위치를 사용 하 여 미국 (본부)에서 MPN 계정을 사용할 수 있습니다.
+MPN 계정과 동일한 로그인 자격 증명을 포함 하는 하나의 CSP 계정 (Office 365 회사 계정)을 미국에 포함할 수 있습니다. 영국의 두 번째 CSP 계정을 사용할 수 있습니다. 유럽 지역에서 CSP 비즈니스를 관리 하는 데 다른 로그인 자격 증명이 있고 다른 두 개의 로그인 자격 증명을 포함 하는 오스트레일리아의 세 번째 자격 증명을 통해 오스트레일리아의 CSP 비즈니스를 관리할 수 있습니다.
 
 비즈니스를 수행 하 고 해당 자회사에서 성과급을 획득 하려면 3 개의 CSP 계정을 모두 MPN ID 위치 계정과 연결 해야 합니다. MPN 역량 및 혜택은 MPN 계정 으로만 관리할 수 있습니다.
 
@@ -169,9 +169,9 @@ MPN 계정과 동일한 로그인 자격 증명을 사용 하는 한 명의 CSP 
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>파트너 구성원 센터에서 파트너 센터로 MPN 계정을 마이그레이션하려고 합니다. 어떻게 할 수 있나요? PMC에서 내 MPN 관리자가 누구 인지 알 수 없습니다. 어떻게 마이그레이션할 수 있나요? 
 
-**답변** [MPN를 PMC에서 PC로 마이그레이션하](guide-to-migration.md)는 방법에 대 한 단계별 가이드를 다운로드 합니다. 마이그레이션하는 데 다양 한 링크를 제공 합니다. https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx"
+**답변** [MPN를 PMC에서 PC로 마이그레이션하](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)는 방법에 대 한 단계별 가이드를 다운로드 합니다.
 
-MPN 계정을 마이그레이션한 후에는 MPA에 서명 하는 방법에 대 한 자세한 내용을 확인 하 고 [microsoft 파트너-규약] 9microsoft-파트너-규약을 읽어 보세요.-단계별 가이드-사용자의 적절 한 주문형-in-process 서명 프로세스
+MPN 계정을 마이그레이션한 후에는 MPA에 서명 하는 방법에 대해 자세히 알아보고 [microsoft 파트너 계약](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process)을 읽습니다.
 
 문제가 발생 하는 경우 파트너 센터 내에서 [지원 티켓](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 을 생성 합니다.
 
@@ -204,11 +204,11 @@ MPN 계정을 마이그레이션한 후에는 MPA에 서명 하는 방법에 대
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>MPN program/CSP 간접 재판매인 프로그램에 등록 되어 있지만 합법적인 비즈니스 프로필 확인 상태가 보류 중 상태로 유지 되는 것 같습니다. 어떻게 해야 합니까?
 
-**답변**  5 영업일 이상 지난 자격 증명을 통해 CSP 간접 재판매인의 법적 업무 프로필을 **보류 중인** 경우 파트너 센터 [지원](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)을 클릭 하 여 파트너 센터 내에서 지원 티켓을 발생 시킵니다.
+**답변**  CSP 간접 재판매인 법적 업무 프로필이 5 일 이상 후에도 **보류 중인 정규화** 상태에 있는 경우 파트너 센터 [지원](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)을 클릭 하 여 파트너 센터 내에서 지원 티켓을 제기 합니다.
 
 :::image type="content" source="images/pending.png" alt-text="상태가 보류 중입니다.":::
 
-## <a name="question-about-working-in-partner-center"></a>파트너 센터에서 작업 하는 방법에 대 한 질문
+## <a name="questions-about-working-in-partner-center"></a>파트너 센터에서 작업 하는 방법에 대 한 질문
 
 #### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>파트너 센터 관리자가 MPA를 수락할 수 있는 사람을 알 수 없나요?
 
