@@ -9,16 +9,208 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624173"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541001"
 ---
 # <a name="february-2021-announcements"></a>2021년 2월 공지
 
 이 페이지에서는 2021년 2월 Microsoft 파트너 센터에 대한 공지 사항을 자세히 설명합니다.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a>지금 라이브: MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-02-16
+- 기능
+
+### <a name="summary"></a>요약
+
+Microsoft는 모든 전자 서명 처리를 DocuSign에서 Adobe Sign으로 전환합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+MPA의 기존 직접 및 간접 CSP(클라우드 솔루션 공급자) 파트너.
+
+### <a name="details"></a>세부 정보
+
+2021년 2월 Microsoft는 모든 전자 서명 처리를 DocuSign에서 CSP 파트너용 Adobe Sign으로 전환할 것입니다.
+
+원활한 전환을 기대해 주세요. 마이그레이션 시, 전자 서명이 필요할 때마다 DocuSign 대신 adobesign@adobesign.com에서 이메일을 받게 됩니다. 이 이메일은 서명이 필요한 Adobe Sign 웹 페이지에 대한 링크를 제공합니다. Microsoft 파트너는 기존 계약에 다시 서명할 필요가 없으며, 향후의 채널 계약에만 서명하면 됩니다. 우크라이나어, 러시아 및 카자흐스탄의 파트너는 매년 물리적 또는 전자적으로 Rider를 다시 서명해야 합니다.
+
+[리소스 갤러리](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)에서 Adobe Sign 서명 요청 이메일의 예를 찾을 수 있습니다.
+
+최상의 환경을 위해서는 다음을 수행해야 합니다.
+
+1. 이 계정의 이메일이 정크 메일 폴더로 바로 들어가지 않도록 수신 허용 목록에 adobesign@adobesign.com을 추가합니다.
+2. IT 부서와 협력하여 다음을 수행합니다.
+    - 수신 허용 목록에 adobesign@adobesign.com 이메일 주소를 추가하여 미리 설정된 피싱 규칙에 포함되지 않도록 합니다.
+    - 모든 필수 수신자가 Adobe Sign 엔터프라이즈 라이선스에 따라 문서에 서명할 수 있도록 기존 보안 정책을 업데이트합니다.
+
+온보딩, 기능 및 비즈니스 프로세스 질문과 관련된 리소스는 [Adobe Sign 마이그레이션 파트너 페이지](https://aka.ms/eSignature/External)에서 찾을 수 있습니다.
+
+Adobe Sign은 Microsoft의 기본 설정 ESS(전자 서명 솔루션)입니다. Adobe Sign으로 전환하면 안전하고 효율적인 전자 서명 환경을 보장하여 고객과 파트너에게 더 큰 가치를 제공합니다.
+
+문서 및 전자 서명 위임을 전자 서명하는 방법에 대한 자세한 내용은 다음 자습서를 참조하세요.
+
+- [문서에 전자적으로 서명 | Adobe Sign 자습서](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [다른 사람에게 위임하여 문서에 서명 | Adobe Sign 자습서](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>다음 단계
+
+이 정보를 조직의 적절한 관련자와 공유합니다.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+질문이 있는 경우 [CLT(Call Logging Tool)](https://clt.partners.extranet.microsoft.com/CLT)를 이용하거나 [Explore MS](https://www.explore.ms/)에서 지역 운영 센터에 문의하세요. 질문을 최대한 빨리 해결할 수 있도록 표준 CLT 프로세스를 잘 지켜 주세요.
+
+### <a name="change-log"></a>로그 변경
+
+- 2021년 1월 15일: 원래 게시 날짜 
+- 2021년 2월 16일: 지금 라이브, 새 리소스: Adobe Sign 마이그레이션 파트너 페이지 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> 미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-02-16
+- 비즈니스 확장
+
+### <a name="summary"></a>요약
+
+Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 API 제한을 구현합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너  
+
+### <a name="details"></a>세부 정보
+
+2021년 2월부터 Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 동안 보다 일관적인 성능을 제공하기 위해 API 제한을 구현합니다. 이러한 제한은 과도한 리소스 사용을 방지하기 위해 일정 시간 동안 서비스 요청 수를 제한합니다. 제한 임계값을 초과하면 파트너 센터는 해당 클라이언트의 추가 요청을 일정 시간 동안 제한합니다.
+
+**파트너 혜택:**
+
+파트너 센터는 대량의 요청을 처리하도록 설계되었지만, 소수의 파트너가 너무 많은 요청을 수행할 경우 모든 파트너의 최적 성능과 안정성을 유지하기 위해 요청을 제한합니다.  
+
+- 이를 통해 가동 중지 시간을 최소화합니다.
+- 이러한 제한은 대용량 요청 수를 줄여 모든 파트너에게 일관된 성능을 보장합니다.
+
+**제한되는 API:**
+
+| 작업 | 파트너 센터 설명서 |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Get-all-of-a-customer-s-subscriptions](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [ID별 구독 가져오기](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [모든 고객 주문 가져오기](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [ID별 주문 가져오기](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [구독 프로비전 상태 가져오기](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [주문 관리 및 구독 관리](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [구독에 대한 추가 기능 목록 가져오기](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [구독에 대한 Azure 권리 유형 목록 가져오기](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [구독 등록 상태 가져오기](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [고객의 모든 전송 정보 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [제품 업그레이드 상태 가져오기](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [평가판 전환 제품 목록 가져오기](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+파트너는 효율성을 높이고 제한을 방지하기 위해 활동 로그 API 사용을 고려하는 것이 좋습니다. 이 기능에 대한 자세한 내용은  [여기](/partner-center/develop/api-throttling-guidance)에서 세부 정보를 참조하세요.  
+
+### <a name="next-steps"></a>다음 단계
+
+이 항목에 대한  [리소스](/partner-center/develop/api-throttling-guidance) 를 검토하고 필요한 단계를 수행합니다.  
+
+_______________
+
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Microsoft Viva Topics 소개
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021년 2월 12일
+- 기능
+
+### <a name="affected-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft Viva Topics는 AI(인공 지능)를 적용하여 조직 전체의 지식과 전문성을 파악하고 제품, 고객 또는 프로젝트와 같은 공유 토픽으로 선별합니다. 지식이 몰입도 높은 토픽 카드 및 토픽 페이지를 통해 팀, 프로젝트 및 문서와 관련된 사용자를 찾습니다. AI와 사용자가 협력하여 정보를 개선하고 매일 사용하는 앱에 이를 표시합니다. 
+
+사용자는 다음 중 하나에 대한 라이선스를 획득해야 Viva Topics를 사용할 수 있습니다.   
+- Microsoft 365 F1, F3, E3, A3, E5 또는 A5 
+- Office 365 F3, E1, A1, E3, A3, E5 또는 A5 
+- Microsoft 365 Business Basic, Standard 또는 Premium 
+- SharePoint K, Plan 1 또는 Plan 2 
+
+**제품 세부 정보**
+
+이러한 제품은 2월 1일 가격표에 "Topic Experiences"라는 제품 이름으로 표시됩니다.  3월 1일에 가격표가 업데이트된 후에는 이러한 제품 이름이 "Viva Topics"로 업데이트됩니다.
+
+|**제품 이름**|**제품 ID**|**소재 ID**|
+|------------------|:--------------------|:------------------|
+|Viva Topics|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|교직원용 Viva Topics|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|학생용 Viva Topics|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>다음 단계
+
+- 이 토픽에 대한 리소스를 검토하고, 이 정보를 조직 내의 적절한 관계자와 공유합니다.  
+- 자세한 내용은 [Viva Topics 리소스 센터](https://resources.techcommunity.microsoft.com/viva-topics)에서 확인할 수 있습니다.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>2021년 3월에 예정된 Microsoft 365 E3 가격 변경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021년 2월 11일
+- 제품/시장
+
+### <a name="affected-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 EUR, AUD, GBP 및 JPY로 거래하는 모든 파트너
+
+### <a name="details"></a>세부 정보
+
+2021년 3월 라이선스 기반 미리 보기 가격표가 Microsoft 365 E3의 가격 변경 내용을 포함하도록 업데이트되었습니다. 영향을 받는 제품과 통화는 아래에 나와 있습니다. 
+ 
+제품 이름: Microsoft 365 E3 제품 ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 자료 ID: AAA-35638
+
+이러한 Microsoft 365 E3 가격 업데이트는 다음 통화에만 해당됩니다. JPY(일본 엔화), GBP(영국 파운드), EUR(유럽 연합 유로), AUD(오스트레일리아 달러). 3월 파일에는 다른 가격 변경 내용도 있으며, 예정된 다른 변경 내용을 보려는 파트너는 최신 미리 보기를 받아야 합니다.
+
+### <a name="next-steps"></a>다음 단계
+
+파트너는 파트너 센터에서 최신 가격표 파일을 다운로드하여 3월의 최신 가격을 확인해야 합니다. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>노르웨이 크로네에 대해 업데이트된 라이선스 기반 미리 보기 가격표
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021년 2월 10일
+- 제품/시장
+
+### <a name="affected-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너
+
+### <a name="summary"></a>요약
+
+라이선스 기반 미리 보기 가격표는 2021년 3월 1일에 예정된 노르웨이 크로네 가격 책정을 위해 업데이트되었습니다.
+
+### <a name="details"></a>세부 정보
+
+이전 3월 라이선스 기반 가격표에는 3월의 FX 요금 변경 내용이 포함되지 않았습니다. 이 파일은 예정된 노르웨이 크로네 가격 변경 내용을 반영하도록 업데이트되었습니다. 2021년 3월 1일에 예정된 이러한 변경 내용을 보려는 파트너는 최신 미리 보기 가격 책정 파일을 받아야 합니다. 이러한 변경 내용은 노르웨이 크로네 통화 가격 책정에만 적용됩니다.
+
+### <a name="next-steps"></a>다음 단계
+
+파트너는 현재 가격표 미리 보기 파일을 다운로드하여 2021년 3월 1일에 예정된 변경 내용을 확인해야 합니다.
 
 _______________
 
@@ -26,7 +218,7 @@ _______________
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-02-05
+- 날짜: 2021년 2월 5일
 - 기능
 
 ### <a name="affected-audience"></a>영향을 받는 대상
@@ -61,7 +253,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-02-04
+- 날짜: 2021년 2월 4일
 - 기능
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
@@ -76,7 +268,7 @@ ________________
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-02-03
+- 날짜: 2021년 2월 5일
 - 기능
  
 ### <a name="impacted-audience"></a>영향을 받는 대상
@@ -111,14 +303,14 @@ ________________
 
 새로운 기능을 사용하는 데 도움이 필요한 경우 기술 자료의 [조회 섹션](https://docs.microsoft.com/partner-center/referrals) 또는 [공동 판매 환경 갤러리](https://aka.ms/CoSellExperience)(로그인 필요)에서 제공되는 방법 지원 자료를 확인하세요.
 
-추가 지원이 필요한 경우 [파트너 지원 팀을 통해 티켓을 열 수 있습니다](https://partner.microsoft.com/support/?stage=1).
+지원이 필요한 경우 [파트너 지원 팀을 통해 티켓을 열 수 있습니다](https://partner.microsoft.com/support/?stage=1).
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> 교육 고객 유효성 검사 프로세스에 대한 PUT 자격 API는 2021년 2월 25일, GET 자격 API는 2021년 5월 4일에 사용 중단 및 사용 중지
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-02-04
+- 날짜: 2021년 2월 4일
 - 기능
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
@@ -131,7 +323,7 @@ ________________
 
 ### <a name="next-steps"></a>다음 단계
 
-- 성공적으로 적시에 전환하기 위해 아직 업데이트하지 않은 경우 **새 API로 업데이트** 합니다.
+- 성공적으로 적시에 전환하기 위해 **새 API로 업데이트** 합니다.
 - 운영 준비 상태 리소스인 [향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)에서 **새 파트너 센터 API 변경 내용 및 가이드를 검토** 합니다.
 - 이러한 변경에 대비하는 데 도움이 되도록 **이 정보를 조직 내의 적절한 팀 및 재판매인과 공유** 합니다.
 

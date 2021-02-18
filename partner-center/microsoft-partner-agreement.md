@@ -1,7 +1,7 @@
 ---
 title: CSP 파트너를 위한 MPA(Microsoft 파트너 계약)
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 디지털 방식으로 수락하는 이 통합 MPA(Microsoft 파트너 계약)에 서명하고 확인하기 위한 Microsoft CSP 파트너 요구 사항에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773474"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281320"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -34,6 +34,8 @@ CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsof
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN ID가 활성화되어 있고 파트너 센터로 마이그레이션되었는지 확인
 
 1. MPN 계정을 PMC(Partner Membership Center)에서 파트너 센터로 마이그레이션하지 않은 경우 [MPN 계정을 파트너 센터로 마이그레이션](move-pmc-pc-map.md)해야 합니다. 마이그레이션을 완료한 후 나머지 단계를 완료합니다. 
+
+1. MPN 계정 또는 ID가 없는 경우 먼저 Microsoft 파트너 네트워크 프로그램에 참가해야 합니다. [MPN에 가입하는 방법을 알아보세요](mpn-create-a-partner-center-account.md).
 
 1. MPN 계정 자격 증명으로 파트너 센터에 로그인합니다.
  
@@ -103,7 +105,7 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
 
 1. MPN 계정을 PMC에서 파트너 센터로 마이그레이션하는 경우: [PMC에서 파트너 센터로 마이그레이션하고 Microsoft 파트너 계약에 동의](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. 파트너 센터에 CSP 간접 재판매인으로 등록하려는 경우: [MPN 멤버 및 Microsoft 파트너 계약에 대한 온보딩](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. 파트너 센터에서 CSP Indirect Reseller로 등록하려면: [Microsoft 파트너 계약 및 MPN 구성원에 대한 온보딩](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. 위의 1단계 및/또는 2단계를 완료한 후 파트너 센터에서 MPA 상태를 확인하려면 다음을 수행합니다. [Microsoft 파트너 계약 승인 상태 확인](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  

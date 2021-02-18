@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490158"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540984"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "100490158"
 
 |**범주**|**2021년 2월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[지금 라이브: MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션](2021-february.md#9)|2월 16일|
+|비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-february.md#8)|2월 16일|
 |기능|[Microsoft Viva 항목 소개](2021-february.md#7)|2월 12일|
 |제품/시장|[2021년 3월 예정인 Microsoft 365 E3 가격 변경](2021-february.md#6)|2월 11일|
 |제품/시장|[노르웨이 크로네에 대해 업데이트된 라이선스 기반 미리 보기 가격표](2021-february.md#5)|2월 10일|
