@@ -1,22 +1,22 @@
 ---
-title: 조직 프로필 확인
+title: 회사 프로필 확인
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정보를 확인하는 방법을 알아봅니다. 또한 법률 및 청구 주소를 업데이트할 수 있습니다.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 01/14/2021
-ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 03/03/2021
+ms.localizationpriority: medium
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235922"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755794"
 ---
-# <a name="verify-your-organization-profile-information-in-partner-center"></a>파트너 센터에서 조직 프로필 정보 확인
+# <a name="verify-your-company-profile-information-in-partner-center"></a>파트너 센터에서 회사 프로필 정보 확인
 
 **적절한 역할**
 
@@ -27,9 +27,7 @@ ms.locfileid: "98235922"
 
 파트너 프로필은 법적 비즈니스 정보, 기본 연락처 이름 및 이메일, 회사가 참여하는 프로그램, 법적 비즈니스에 현재 병합된 다른 회사(해당하는 경우)로 구성됩니다. 법률 비즈니스 프로필의 회사 이름과 주소에 맞춤법 오류 및 약어가 없어야 하고 공식 회사 사업자 등록 기록과 정확히 일치해야 합니다. 자영업자로 운영하는 경우 회사 이름을 법적 이름으로 사용해야 합니다.
 
->[!Important]
->- MPN 계정의 경우 전역 관리자와 계정 관리자 모두 법적 회사 이름을 업데이트할 수 있습니다.
->- CSP 간접 재판매인 계정의 경우 전역 관리자는 법적 회사 이름을 업데이트할 수 있습니다. 
+
 
 ## <a name="locate-the-legal-business-profile"></a>법적 비즈니스 프로필 찾기
 
@@ -45,46 +43,48 @@ ms.locfileid: "98235922"
 
 파트너 센터에서 법적 주소를 업데이트합니다.
 
+>[!Important]
+>- MPN 계정의 경우 전역 관리자와 계정 관리자 모두 법적 회사 이름을 업데이트할 수 있습니다.
+>- CSP 간접 재판매인 계정의 경우 전역 관리자만 법적 회사 이름을 업데이트할 수 있습니다. 
+
 1. **설정** 으로 이동하고 **조직 프로필** 을 선택합니다.
 
-
 2. **법적** 을 선택한 다음, 사용하려는 법적 비즈니스 프로필을 선택합니다.
+ 
+1. **제출** 을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.
 
 >[!Important]
->CSP(클라우드 솔루션 공급자) 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 유효성 검사 상태가 "인증됨"인 경우 파트너 센터에서 법적 회사 이름을 업데이트할 수 없습니다. 이름을 변경해야 하는 경우 [지원 티켓을 만들어야](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772) 합니다.
+>CSP(클라우드 솔루션 공급자) 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 유효성 검사 상태가 "승인됨"인 경우 직접 청구 파트너 및 간접 공급자는 회사의 법적 이름을 변경할 수 없습니다. 이름을 변경해야 하는 경우 [지원 티켓을 만들어야](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772) 합니다.
 
-3. **제출** 을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.
+
 
 ## <a name="update-your-mpn-global-business-account"></a>MPN 글로벌 비즈니스 계정 업데이트
 
-Partner Membership Center에서 파트너 센터로 마이그레이션하는 동안 잘못된 회사가 법적 비즈니스로 식별된 경우 올바른 법적 비즈니스로 변경할 수 있습니다.
+Partner Membership Center에서 파트너 센터로 마이그레이션하는 동안 잘못된 비즈니스 계정이 법적 비즈니스로 식별된 경우 올바른 법적 비즈니스 계정으로 변경할 수 있습니다.
 
-1. **계정 설정** 에서 **조직 프로필** 로 이동한 다음, **법적** 으로 이동합니다.
+이러한 업데이트를 수행하려면 전역 관리자이거나 계정 관리자여야 합니다. [MPN 전역 위치 계정 관리](manage-locations.md) 방법에 대해 알아보기
 
-1.  **위치** 까지 아래로 스크롤하여 원하는 회사가 목록에 법적 비즈니스로 있는지 확인합니다. 목록에 없으면 추가할 수 있습니다. **위치 추가** 를 선택합니다. 위치 세부 정보를 추가하고 **저장** 합니다.
-
-2. 그런 다음, **법적 비즈니스 프로필 업데이트** 까지 위로 스크롤합니다.
-
-3. 방금 추가한 위치가 표시됩니다. 이를 선택하고 법적 비즈니스로 사용할 회사를 선택한 후 **저장** 을 선택합니다.
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>CSP 계정과 연결된 MPN ID 업데이트
 
 CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니다.
 
-1. 파트너 센터 대시보드에 로그인한 다음, **설정** 을 선택합니다.
+1. CSP 계정 자격 증명을 사용하여 파트너 센터 [대시 보드](https://partner.microsoft.com/en-us/dashboard/home)에 전역 관리자로 로그인한 다음, **설정** 을 선택합니다. (MPN 및 CSP 자격 증명은 다를 수 있습니다.)
  
 1. **계정 설정** 에서 **식별자** 를 선택합니다.
 
 1. **CSP** 섹션 아래에서 **업데이트** 링크를 사용하여 CSP 계정과 연결된 MPN ID를 업데이트합니다. 
 
 
-## <a name="update-your-billing-address"></a>청구 주소 업데이트
+## <a name="update-your-csp-legal-billing-address"></a>CSP 법적 청구 주소 업데이트
 
 전역 관리자, 청구 관리자 또는 관리 담당자일 경우 **지급액 및 세금 프로필** 에서 송장에 표시되는 주소를 변경할 수 있습니다. 그러나 청구서 시스템의 제한으로 인해 청구서의 회사 이름을 변경할 수는 없습니다.
+
+
 
 ## <a name="next-steps"></a>다음 단계
 
 - [확인 상태 확인](verification-responses.md)
- 
+
 - [MPN 위치 관리](manage-locations.md)
 

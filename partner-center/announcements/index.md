@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540984"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756148"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,11 @@ ms.locfileid: "100540984"
 
 |**범주**|**2021년 2월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[PUT Qualification API는 사용 중지되며 GET은 5월에 사용 중지됨](2021-february.md#14)|2월 25일|
+|기능|[파트너 센터 대량 운영 기능을 사용하여 규모에 맞는 공동 판매 거래 공유](2021-february.md#13)|2월 25일|
+|기능|[새로운 거래 마이그레이션 기능을 사용하여 PSC(파트너 판매 연결)에서 거래 마이그레이션](2021-february.md#12)|2월 25일|
+|기능|[파트너 주도 공동 판매 거래를 통해 유연성 향상](2021-february.md#11)|2월 25일|
+|기능|[CSP(클라우드 솔루션 공급자) 고객 온보딩으로 변경](2021-february.md#10)|2월 25일|
 |기능|[지금 라이브: MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션](2021-february.md#9)|2월 16일|
 |비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-february.md#8)|2월 16일|
 |기능|[Microsoft Viva 항목 소개](2021-february.md#7)|2월 12일|
