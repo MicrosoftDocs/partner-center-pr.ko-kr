@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492724"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755867"
 ---
 # <a name="view-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -37,7 +33,7 @@ ms.locfileid: "97492724"
 
 ## <a name="access-the-incentives-overview-page"></a>성과급 개요 페이지 액세스
 
-1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 1. 메뉴에서 **성과급**, **개요** 를 차례로 선택 합니다.
 1. 페이지의 맨 위에서 소득 및 지불 요약을 확인하고 아래 표에서 세부 정보를 확인합니다. 또한 해당 테이블을 정렬 하 고 그룹화 하 고 확장할 수 있습니다.
 
@@ -76,4 +72,5 @@ ms.locfileid: "97492724"
 또한 [Partner 지급 API](https://apidocs.microsoft.com/services/partnerpayouts) 를 사용 하 여 지급 트랜잭션 및 지불 데이터를 직접 연결 하 고 가져올 수 있습니다. 자세히 알아보려면 [지급 문](payout-statement.md) 을 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계
-- [지급액 명세서](payout-statement.md)
+
+- [지급 명세서](payout-statement.md)

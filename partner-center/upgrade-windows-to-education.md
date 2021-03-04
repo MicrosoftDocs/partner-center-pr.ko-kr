@@ -9,18 +9,14 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556415"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755825"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>일부 교육 고객을 Windows 10 Home에서 Windows 10 교육으로 업그레이드
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -79,7 +75,7 @@ Windows 10 Pro 교육 제품 키를 사용 하 여 Windows 10 Home을 업그레�
 
 2. 장치가 AAD를 통해 테 넌 트 도메인에 가입 된 경우 장치는 Windows 10 교육으로 자동 업그레이드 됩니다.  
 
-## <a name="frequently-asked-questions"></a>자주 묻는 질문
+## <a name="frequently-asked-questions"></a>질문과 대답
 
 **적격 한 고객은 무엇 인가요?**
 아카데미로 인정 하 고 활성 Windows 10 Enterprise A3/A5 또는 Microsoft 365 A3/A5 라이선스 구독이 있는 CSP 고객은 Windows 10 Home 장치를 Windows 10 교육으로 업그레이드할 수 있습니다. VLSC (볼륨 라이선스 서비스 센터)를 통해 이러한 제품에 대 한 라이선스를 받은 다른 교육 고객에 게 직접 제공 합니다.

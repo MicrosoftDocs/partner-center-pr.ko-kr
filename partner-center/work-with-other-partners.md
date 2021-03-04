@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322103"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755712"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>파트너 센터에서 다른 파트너와 함께 작업할 수 있는 다양 한 방법
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
+- 계정 관리자
 
 Microsoft의 CSP (클라우드 솔루션 공급자) 프로그램은 파트너가 이러한 방식으로 함께 작업할 수 있는 기회를 제공 합니다.
 
@@ -55,4 +55,4 @@ Microsoft의 국가별 클라우드 제품 에서도 다중 파트너 지원을 
 멀티 채널 지원은 Microsoft의 국가별 클라우드 제품 에서도 사용할 수 있습니다.
 
 > [!IMPORTANT]  
-> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 트랜잭션을 수행 하는 데 사용 되는 테 넌 트에만 적용 됩니다. 회사에서 사용 하는 csp 이외의 테 넌 트를 사용 하는 CSP 파트너는 다른 CSP 파트너 로부터 온라인 서비스를 구매할 수 있습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 거래 수행에 사용되는 테넌트에만 적용됩니다. 회사용으로 CSP가 아닌 테넌트를 사용하는 CSP 파트너는 다른 CSP 파트너에게서 온라인 서비스를 구입할 수 있습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.

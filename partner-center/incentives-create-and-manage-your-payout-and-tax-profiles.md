@@ -1,19 +1,19 @@
 ---
 title: 파트너 센터에서 지급 및 세금 프로필
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: 지급 및 세금 프로필을 만들고 관리 하 여 성과급 작업에 대해 지불할 수 있습니다. 다른 프로필을 만들고, 관리 하 고, 사용 하는 등의 작업이 포함 됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624241"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756592"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>파트너 센터에서 성과급 지급 및 세금 프로필 만들기 및 관리
 
@@ -22,7 +22,7 @@ ms.locfileid: "99624241"
 
 - 인센티브 관리자
 - 계정 관리자
-- 전역 관리자
+- 글로벌 관리자
 
 특정 MPN 위치에 대한 인센티브 프로그램의 지급금을 받으려면 유효한 지급 및 세금 프로필을 프로그램 및 MPN 위치와 연결하여 등록을 완료해야 합니다. Microsoft는이 지급 및 세금 프로필을 사용하여 지급금을 제공합니다. 인센티브 프로그램의 규칙에 따라 전자 계좌 이체 또는 결제 신용 전표를 사용할 수 있습니다. 
 
@@ -86,10 +86,22 @@ ms.locfileid: "99624241"
 
     >[!NOTE]
     >지불 방법의 가용성은 동기 프로그램의 규칙에 따라 달라 집니다.
+
+    - 특정 동기 프로그램에 대해 로컬 Microsoft 자회사에서 location MPN ID를 지불 하 고 LRD (제한 된 위험 배포자) 신용 메모를 지불 방법으로 허용 하는 경우 지불 프로필은 LRD 신용 메모 지불 방법으로 미리 채워집니다. 각 동기 프로그램 및 위치 MPN ID에 대 한 LRD 신용 메모 지불 방법 행에서 지불 프로필 섹션의 상태로 **확인 또는** **확인 필요** 가 표시 됩니다.
+    
+       신용 메모 지불을 받으려면 location MPN and 결제 방법과 연결 된 CSP 테 넌 트 ID 세부 정보를 확인 하 고 확인 하는 데 **필요한 확인** 을 선택 합니다. **신용 메모 세부 정보** 대화 상자에서 제공 된 CSP 테 넌 트 ID 및 세부 정보가 올바른지 확인 하 고 확인 합니다. 둘 이상의 테 넌 트 ID가 표시 되는 경우 지불액을 받으려는 CSP 테 넌 트 ID를 신중 하 게 선택 합니다. 그런 다음, **확인** 을 선택 하 여 회사 세부 정보가 올바른지 확인 하 고, 선택한 CSP 테 넌 트 ID에 대해 동기를 지불 해야 한다는 것을 승인 합니다.
+ 
+      상태가 **확인** 됨으로 표시 되 면 CSP 테 넌 트 ID의 할당이 완료 된 것 이며 추가 작업이 필요 하지 않습니다. 확인을 선택 하 여 할당에 대 한 세부 정보를 볼 수 있습니다.
+   
+      파트너에 게 세금 면제 적용을 명시적으로 요청 하는 것을 요청 하는 국가에서는 동기 프로그램 및 위치 MPN의 세금 프로필 섹션에서 세금 프로필 옆에 세금 면제를 적용 하는 옵션이 있습니다. 이 확인란을 선택 하면 사용자의 동기 크레딧 메모에 세금 면제 혜택이 적용 됩니다. 
+   
+      현재이 결제 방법은 Microsoft 상거래 동기 프로그램을 위한 오스트레일리아, 뉴질랜드 및 캐나다 파트너 에게만 제공 됩니다. MCI 프로그램에 대해 등록 된이 세 국가에서 직접 청구 파트너 또는 간접 공급자 인 경우 사용 가능한 지불 방법으로 LRD 크레딧 정보를 표시 하지 않으려면 테 넌 트 ID가 관련 파트너 MPN 위치 계정과 연결 되어 있는지 확인 합니다. 이에 대 한 자세한 내용은 [조직 프로필을 업데이트 하는 방법을](update-your-partner-profile.md)참조 하세요.
+
     
 5. **통화** 를 선택 합니다.
 
 6. 지불 필드를 모두 완료 한 후 **제출** 을 선택 합니다.
+
 
 ## <a name="create-your-bank-profile"></a>은행 프로필 만들기
 

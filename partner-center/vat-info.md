@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755642"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755742"
 ---
 # <a name="value-added-tax-vat-information"></a>값 추가 세금 (VAT) 정보
 
-**적용 대상:**
+**적절한 역할**
 
-- 파트너 센터
-- 상용 마켓플레이스
+- 계정 관리자
+
 
 파트너 센터 등록 프로세스 중에 VAT ID 번호를 제공 해야 하는 경우 시작 하는 데 도움이 되는 몇 가지 정보는 다음과 같습니다.
 
@@ -36,7 +36,7 @@ ms.locfileid: "96755642"
 
 Microsoft는 크레딧을 지원 하지 않으며 다시 청구 됩니다. 구독을 판매 하기 전에 파트너 센터에 [VAT ID 번호를 등록](organization-tax-info.md) 해야 합니다.
 
-### <a name="south-africa"></a>남아프리카 공화국
+### <a name="south-africa"></a>남아프리카
 
 이제 Microsoft는 남부 아프리카에서 파트너가 구매한 디지털 콘텐츠 및 서비스에 표준 VAT를 적용 합니다. 청구서에서 VAT를 제외 하 고이를 직접 관리 하려면 [Microsoft VAT ID 번호를 보내](organization-tax-info.md)파트너 청구 프로필을 업데이트 해야 합니다.
 
@@ -78,6 +78,7 @@ Microsoft는 세금 조언을 제공 하지 않으며 다음 표는 참고 자�
 |스페인 |-VAT 숫자 형식: 9 자리<br/>-국가/지역 코드: ES<br/>-예: X12345678, 12345678X 또는 X1234567X<br/>-Note: 1 또는 2 문자를 포함 합니다. first, last 또는 first 및 last 중 하나입니다. |
 |스웨덴 |-VAT 숫자 형식: 12 자리<br/>-국가/지역 코드: SE<br/>-예: 123456789001<br/>-참고: 마지막 두 문자는 ' 01 ' 이어야 합니다. |
 |영국 |-VAT 숫자 형식: 9 또는 12 자리<br/>-국가/지역 번호: GB<br/>-예: 123456789 또는 123456789001<br/>-참고: 일반적으로 9 자리 숫자 이지만 숫자가 그룹 내의 하위 회사를 나타내는 경우 12 자리가 됩니다. |
+
 ## <a name="next-steps"></a>다음 단계
 
 - [회사 세금 정보 및 파트너 센터 구매를 위한 VAT Id를 추가 또는 제출 하는 방법](organization-tax-info.md)

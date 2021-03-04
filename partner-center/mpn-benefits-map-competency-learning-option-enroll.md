@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975669"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756136"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>파트너 센터를 사용 하 여 Microsoft Learning 파트너로 등록
 
@@ -40,7 +40,7 @@ ms.locfileid: "99975669"
 
 **COVID-19 업데이트**
 
-Microsoft는 2021 년 1 월 1 일에서 2021 30 년 6 월 30 일까 지 (AD)가 있는 파트너를 위한 역량 확장 (클라우드 Business Applications 역량 제외) 및 고급 특수화 확장을 제공 합니다. 자세한 내용은 [파트너 블로그 게시물](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) 을 참조 하세요.
+Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에 파트너를 위한 역량 확장(Cloud Business Applications 역량 제외) 및 고급 전문화 확장을 제공합니다. 자세한 내용은 [파트너 블로그 게시물](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)을 검토하세요.
 
 학습 프로그램 공지를 최신 상태로 유지 하려면 [블로그를 읽고](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) [학습 파트너 Yammer 페이지](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)를 확인 하세요. 또한 [학습 리소스 페이지](https://partner.microsoft.com/marketing/learning-resources#/)에서 프로그램 문서 및 월간 커뮤니티 통화 기록을 찾을 수 있습니다.
 
@@ -115,7 +115,7 @@ KPI에 대 한 모임은 학습 기간과는 관련이 없습니다. Kpi를 측�
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>17. Learning Partner 디렉터리에 Microsoft Learning Partner로 나타나지 않는 이유는 무엇 인가요?
 
-사용자를 [학습 파트너 디렉터리](https://docs.microsoft.com/learn/certifications/partners)에 추가 해야 할 수도 있습니다. 그런 다음 학습 파트너 디렉터리 페이지에서 웹 사이트에 연결할 수 있습니다.
+사용자를 [학습 파트너 디렉터리](/learn/certifications/partners)에 추가 해야 할 수도 있습니다. 그런 다음 학습 파트너 디렉터리 페이지에서 웹 사이트에 연결할 수 있습니다.
 
 3 주 동안 한 달에 한 번만 제출 되는 수동 프로세스입니다. 이후 업데이트는 다음 달의 첫 번째 주의 끝에 표시 됩니다. 이 상황을 해결 하려면 [파트너 Frontline 지원](https://partner.microsoft.com/support)에 문의 하세요. 다음 세부 정보를 제공 하도록 준비 해야 합니다.
 

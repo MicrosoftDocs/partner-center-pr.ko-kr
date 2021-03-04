@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835070"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756704"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>성과급에 대 한 질문과 대답
 
@@ -67,9 +67,9 @@ MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>성과급 개요 페이지에 일부 등록 없습니다.
 
-대시보드에 더 이상 표시 되지 않는 동기 프로그램이 있는 초대를 수신 했거나 등록 한 경우 적절 한 액세스 권한이 있는지 다시 확인 해야 합니다. 동기 사용자 또는 동기 관리자 역할을 가진 사용자만이 프로그램을 볼 수 있습니다. [역할 찾기](https://docs.microsoft.com/partner-center/find-your-role)를 참조 하세요.
+대시보드에 더 이상 표시 되지 않는 동기 프로그램이 있는 초대를 수신 했거나 등록 한 경우 적절 한 액세스 권한이 있는지 다시 확인 해야 합니다. 동기 사용자 또는 동기 관리자 역할을 가진 사용자만이 프로그램을 볼 수 있습니다. [역할 찾기](./find-your-role.md)를 참조 하세요.
 
-역할 또는 권한을 변경 해야 하는 경우 회사의 전역 또는 계정 관리자에 게 문의 하세요. 이러한 사람에 대 한 자세한 내용은 [전역 관리자 찾기](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)를 참조 하세요.
+역할 또는 권한을 변경 해야 하는 경우 회사의 전역 또는 계정 관리자에 게 문의 하세요. 이러한 사람에 대 한 자세한 내용은 [전역 관리자 찾기](./find-your-role.md#find-your-global-admin)를 참조 하세요.
 
 개요 페이지에는 Azure AD 테 넌 트와 연결 된 파트너 전역 계정 (등록)과 연결 된 항목만 표시 됩니다. 회사에 둘 이상의 요소가 있는 경우 각각에 대해 서로 다른 자격 증명을 포함 해야 합니다.
 

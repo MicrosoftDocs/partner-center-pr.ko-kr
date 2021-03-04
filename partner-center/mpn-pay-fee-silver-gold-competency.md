@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042687"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757387"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>실버 또는 골드 역량에 관련 된 요금을 지불 하는 방법
 
@@ -37,7 +37,7 @@ ms.locfileid: "99042687"
 
 - 특정 실버 또는 골드 역량을 얻기 위한 [요구 사항을](https://partner.microsoft.com/membership/competencies) 이미 충족 시켰습니다.
 
-- [전역 관리자 또는 MPN partner admin](https://docs.microsoft.com/partner-center/permissions-overview)의 파트너 센터 역할이 할당 되었습니다. 이러한 역할 중 하나가 없는 게스트 사용자의 경우 아래에 설명 된 파트너 센터 페이지 중 일부에 대 한 액세스가 거부 됩니다. 이 문제가 발생 하는 경우 [전역 관리자에 게 문의](https://docs.microsoft.com/partner-center/find-your-role) 하 여 적절 한 역할을 할당 해 달라고 요청 하십시오. 
+- [전역 관리자 또는 MPN partner admin](./permissions-overview.md)의 파트너 센터 역할이 할당 되었습니다. 이러한 역할 중 하나가 없는 게스트 사용자의 경우 아래에 설명 된 파트너 센터 페이지 중 일부에 대 한 액세스가 거부 됩니다. 이 문제가 발생 하는 경우 [전역 관리자에 게 문의](./find-your-role.md) 하 여 적절 한 역할을 할당 해 달라고 요청 하십시오. 
 
 1. 조직의 회사 계정 자격 증명을 사용 하 여 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 합니다.
 
@@ -54,7 +54,7 @@ ms.locfileid: "99042687"
 
 4. **구매 정보** 페이지에서 세부 정보를 검토 하 고 확인 합니다.
 
-   회사 [의 **세금 ID** 정보](https://docs.microsoft.com/partner-center/organization-tax-info) 또는 회사의 [ **청구서를** 회사 주소로](https://docs.microsoft.com/partner-center/mpn-get-action-pack)업데이트 하는 방법에 대해 자세히 알아보세요.
+   회사 [의 **세금 ID** 정보](./organization-tax-info.md) 또는 회사의 [ **청구서를** 회사 주소로](./mpn-get-action-pack.md)업데이트 하는 방법에 대해 자세히 알아보세요.
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="회원은 지불 기본 설정으로 구매 정보 페이지를 제공 합니다." border="false":::
 

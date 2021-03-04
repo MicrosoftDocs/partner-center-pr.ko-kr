@@ -1,7 +1,7 @@
 ---
 title: 고객 계정에 대 한 사용자 관리
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 고객의 사용자 관리-사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 암호를 다시 설정 하 고, 사용자 계정을 삭제 하거나 복원 합니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570742"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756079"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>고객 계정에 대 한 사용자 및 사용자 라이선스 관리 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570742"
 고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다. 삭제 후 30 일 이내에 이전에 삭제 한 사용자 계정을 하나 이상 복원할 수도 있습니다. 사용자의 이전 구독 할당도 복원 됩니다 (이전 할당을 사용할 수 있는 것으로 가정).
 
 고객에 대 한 새 구독을 구입 하는 경우 고객은 계정, 해당 사용자 권한 및 각 사용자가 요구 하는 서비스를 필요로 하는 모든 사용자의 목록을 제공 해야 합니다.  
+
+>[!NOTE]
+>**고객** 탭의 **사용자 및 라이선스** 섹션에는 다른 CSP 파트너 또는 다른 구매 채널에서 구입한 라이선스를 보유 한 사용자를 포함 하 여 특정 고객의 테 넌 트에 만들어진 모든 사용자가 표시 됩니다.
 
 [Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용 하 여 [여러 사용자에 게 한 번에 여러 사용자에 게 구독을 할당할](bulk-license-provisioning-for-multiple-users.md) 수 있습니다.
 

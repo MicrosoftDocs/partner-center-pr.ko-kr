@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM 파트너 센터 용 공동 판매 커넥터
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dynamics 365 CRM 용 공동 판매 커넥터와 파트너 센터의 조회를 동기화 합니다. 그런 다음 판매자는 CRM 시스템 내에서 Microsoft와 공동 판매할 수 있습니다.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645769"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756800"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -35,7 +35,7 @@ ms.locfileid: "100645769"
 |파트너 센터 계정|파트너 센터 테 넌 트와 연결 된 MPN ID는 공동 판매 솔루션과 연결 된 MPN ID와 동일 해야 합니다. 커넥터를 배포 하기 전에 파트너 센터 포털에서 공동 판매 조회를 확인할 수 있는지 확인 합니다.|[계정 관리](create-user-accounts-and-set-permissions.md)|
 |파트너 센터 사용자 역할|커넥터를 설치 하 고 사용 하는 직원은 조회 관리자 여야 합니다.|[사용자 역할 및 권한 할당](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|CRM 사용자 역할은 시스템 관리자 또는 시스템 사용자 지정자입니다.|[Dynamics 365에서 역할 할당](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|전원 자동화 흐름 계정|테스트/준비 및 프로덕션을 위해 데이터베이스를 사용 하 여 새 프로덕션 환경을 만듭니다. 데이터베이스를 사용 하는 기존 프로덕션 환경이 있는 경우 다시 사용할 수 있습니다. 커넥터 솔루션을 설치 하려는 사용자는 전원 자동화 라이선스 및이 환경에 대 한 액세스 권한이 있어야 합니다. 솔루션에서 기록 보기를 클릭 하 여 진행률을 모니터링 하 고 설치에 실패 하는 경우 자세한 [정보를 얻을](https://flow.microsoft.com/) 수 있습니다.|[환경 만들기 또는 관리](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|전원 자동화 흐름 계정|테스트/준비 및 프로덕션을 위해 데이터베이스를 사용 하 여 새 프로덕션 환경을 만듭니다. 데이터베이스를 사용 하는 기존 프로덕션 환경이 있는 경우 다시 사용할 수 있습니다. 커넥터 솔루션을 설치 하려는 사용자는 전원 자동화 라이선스 및이 환경에 대 한 액세스 권한이 있어야 합니다. 솔루션에서 기록 보기를 클릭 하 여 진행률을 모니터링 하 고 설치에 실패 하는 경우 자세한 [정보를 얻을](https://flow.microsoft.com/) 수 있습니다.|[환경 만들기 또는 관리](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365에 대 한 파트너 센터 조회 동기화 설치 (전원 자동화 솔루션)
 
@@ -110,7 +110,7 @@ ms.locfileid: "100645769"
 
 1. **솔루션** 페이지로 돌아가서 **기본 솔루션** 을 선택 합니다. **모두** 를 클릭 하 여 **연결 참조 (미리 보기)** 를 선택 합니다.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="연결":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="연결 편집":::
 
 2. 세 개의 점 아이콘을 선택 하 여 각 연결을 하나씩 편집 합니다. 관련 연결을 추가 합니다.
 
@@ -141,9 +141,9 @@ ms.locfileid: "100645769"
 
 3. **복사** 아이콘을 선택 하 여 제공 된 HTTP POST URL을 복사 합니다.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL 복사":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="웹 후크를 사용 하 여 리소스 변경 내용 등록":::
 
-4. 이제 "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행** 을 선택 합니다.
+4. "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행** 을 선택 합니다.
 
 5. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속** 을 클릭 합니다.
 
@@ -205,7 +205,7 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
 
 3. **새 값** 옵션을 사용 하 여 **현재 값** (기본값 업데이트 안 함)을 업데이트 하 고 값을 제공 합니다. 값은 변수의 데이터 형식과 일치 해야 합니다. 예/아니요 데이터 형식은 예 또는 아니요 값을 허용 합니다.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="기본값에 대 한 입력란":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="환경 변수 업데이트":::
 
 - 종단 간 양방향 공동 판매 참조 동기화
 

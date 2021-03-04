@@ -1,5 +1,5 @@
 ---
-title: 지급액 명세서
+title: 지급 명세서
 description: 지급 문과 요약 및 Microsoft 파트너 센터에서 지불 데이터를 보고 내보내는 방법에 대해 알아봅니다.
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
@@ -7,14 +7,14 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492639"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756168"
 ---
-# <a name="payout-statements"></a>지급액 명세서
+# <a name="payout-statements"></a>지급 명세서
 
 **적절한 역할:**
 
@@ -103,7 +103,7 @@ ms.locfileid: "97492639"
 | ------ | :-----------: |
 |  9 월-2020 |  $7273.99   |
 |  Oct-2020 | $8692.30  |
-|  11 월-2020 | $107.89  |
+|  2020년 11월 | $107.89  |
 
 예상 금액은 다음과 같은 다양 한 이유로 실제 양과 다를 수 있습니다.
 
@@ -138,7 +138,7 @@ ms.locfileid: "97492639"
 | claimId | 클레임에 대한 고유 식별자 | 인센티브 - 일부 프로그램만 해당 |
 | customerCountry | 고객 국가/지역 | marketplaces |
 | customerEmail |  |  |
-| customerName | 항상 비어 있음 | 프로그램에만 동기 (예외: OEM) 및 마켓플레이스 |
+| customerName | 비워 둘 수 있음 | 프로그램을 동기 (예외: OEM) 하 고 마켓플레이스 합니다. CSP 트랜잭션의 경우 마켓플레이스는 CSP의 이름을 표시 합니다. |
 | customerTenantId |  |  |
 | distributorId | 배포자 식별자 | 인센티브 - 일부 프로그램만 해당 |
 | distributorName | 배포자 이름 | 인센티브 - 일부 프로그램만 해당 |
@@ -263,7 +263,7 @@ ms.locfileid: "97492639"
 | 예정 | 지불을 처리 하기 전에 지불 주문에서 내부 검토를 생성 했습니다. | 예 |
 | 세금 계산서 보류 중 | 세금 송장이 불완전 하거나 잘못 되었습니다. | 지급하기 전에 세금 계산서를 업데이트해야 합니다. |
 | 검토 중 거부됨 | 검토 하는 동안 결제를 거부 했습니다. | 자세한 내용은 Microsoft 지원에 문의하세요. |
-| Failed | Microsoft 시스템 오류로 인해 지불 하지 못했습니다. | 자세한 내용은 Microsoft 지원에 문의 하세요. |
+| 실패 | Microsoft 시스템 오류로 인해 지불 하지 못했습니다. | 자세한 내용은 Microsoft 지원에 문의 하세요. |
 | 진행 중 | 지불이 진행 중입니다. | 예 |
 | 잘못된 결제 | 지불 recouping 진행 중입니다. | 예 |
 | 송금 | 요금을 은행으로 보냈습니다. | 예 |

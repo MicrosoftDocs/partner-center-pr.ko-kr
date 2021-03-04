@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488087"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755772"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 품목을 읽는 방법에 대해 알아봅니다.
 
@@ -23,20 +23,20 @@ ms.locfileid: "94488087"
 - 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
-청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 위해 파트너 센터에서 조정 파일을 다운로드할 수 있습니다. 품목 세부 정보에는 각 고객의 구독에 대 한 요금 및 자세한 이벤트 (예: 구독에 대 한 라이선스 추가)가 포함 됩니다.
-
-적절 한 역할:
+**적절한 역할**
 
 - 청구 관리자
 - 글로벌 관리자
+
+청구 주기에서 각 요금에 대 한 자세한 라인 항목 보기를 위해 파트너 센터에서 조정 파일을 다운로드할 수 있습니다. 품목 세부 정보에는 각 고객의 구독에 대 한 요금 및 자세한 이벤트 (예: 구독에 대 한 라이선스 추가)가 포함 됩니다.
 
 **청구서** 를 읽는 방법에 대 한 자세한 내용은 [청구서 읽기](read-your-bill.md)를 참조 하세요.
 
 ## <a name="understand-reconciliation-file-fields"></a>조정 파일 필드 이해
 
 - [라이선스 기반 조정 파일 필드](license-based-recon-files.md)
-- [사용 빈도 기반 조정 파일 필드](usage-based-recon-files.md)
-- [매일 등급 사용 조정 파일 필드](daily-rated-usage-recon-files.md)
+- [사용량 기반 조정 파일 필드](usage-based-recon-files.md)
+- [일일 요금 지정 사용량 조정 파일 필드](daily-rated-usage-recon-files.md)
 - [일회성 구매 CSP 조정 파일 필드](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>조정 파일의 요금 유형 이해
@@ -72,7 +72,7 @@ ms.locfileid: "94488087"
 
 **간접 모델** 의 파트너는 라이선스 기반 조정 파일의 이러한 추가 필드를 사용 하 여 재판매인의 파일을 정리 합니다.
 
-| MPN ID | 설명 |
+| MPN ID | Description |
 | ------ | ----------- |
 | MPN ID | CSP (클라우드 솔루션 공급자) 파트너 (직접 또는 간접)의 Microsoft 파트너 네트워크 (MPN) 식별자입니다. |
 | [대리점 MPN ID](#reseller-mpn-id) | [구독에 대 한 레코드 대리점의 MPN 식별자](#reseller-mpn-id)입니다. 이 필드는 파트너 센터의 특정 구독에 대해 나열 된 재판매인 ID에 해당 합니다. 간접 모델의 파트너에 대 한 조정 파일에만 표시 됩니다. |
@@ -93,3 +93,7 @@ CSP 파트너가 **재판매인 MPN ID** 를 제거 하는 경우이 값은 *-1*
 4. 고객 메뉴에서 **구독** 을 선택 합니다.
 5. 목록에서 구독을 선택 합니다.
 6. **업데이트** 를 선택 하 여 **재판매인 (MPN ID)** 을 변경 합니다.
+
+## <a name="next-steps"></a>다음 단계
+
+- [청구서 & 정찰 파일을 읽는 방법](read-your-bill.md) 

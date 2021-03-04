@@ -1,7 +1,7 @@
 ---
 title: 고객 대신 문제 보고
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 고객 서비스 문제를 Microsoft로 에스컬레이션 하는 시기 및 다른 유형의 Microsoft 서비스에 대 한 지원 티켓을 제출 하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153148"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756442"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -146,8 +146,6 @@ Office 365 관리 센터에 직접 로그인 하는 경우 고객의 컨텍스�
 Dynamics 365 계획 구독, 라이선스, 청구, 재무 & 작업, Dynamics 365 제품 라이선스와 관련 된 문제가 발생 하는 경우, 추가 기술 지원이 필요 합니다.
  
 [Dynamics 지원](/dynamics365/customer-engagement/admin/contact-technical-support)에 문의
-
-[Microsoft Dynamics 지원](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur) 읽어 보기
 
 ## <a name="next-steps"></a>다음 단계
 

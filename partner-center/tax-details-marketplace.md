@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 01/29/2021
-ms.openlocfilehash: 075099d80802352efdf7184a7c550d730945b35f
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: d720b7388cbb814402a2c78d07865e4184dec1ab
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530774"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756830"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>상업용 Marketplace 게시자에 대한 세금 정보
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 이 페이지에서는 [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560) 및 [앱 개발자 계약](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)에 따라 최종 고객의 게시자/개발자 제품 구매와 관련 하 여 상업적 marketplace 게시자 (게시자) 및 소비자 marketplace 개발자 (개발자)에 대 한 세금 책임과 세금 고려 사항을 설정 합니다.  아래 정보는 Microsoft 게시자 계약 및 앱 개발자 계약의 사용 약관에 추가 되는 것이 아니라 대체 하기 위한 것입니다.  별도로 언급 하지 않는 한, 아래 정보는 Microsoft 마켓플레이스을 통해 판매할 수 있는 제품/제품을 제공 하는 상용 마켓플레이스 게시자와 소비자 Marketplace 개발자 모두에 게 적용 됩니다. 
 
@@ -65,7 +65,6 @@ Microsoft는 게시자/개발자가 Microsoft Marketplace를 통해 최종 고�
 
 ## <a name="next-steps"></a>다음 단계
 
-- [게시자 FAQ](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide) 
+- [게시자 FAQ](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [결제 및 세금 프로필을 만들기 위한 지침](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile) 
-
+- [결제 및 세금 프로필을 만들기 위한 지침](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

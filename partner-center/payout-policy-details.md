@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861413"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756852"
 ---
 # <a name="payout-schedules-and-processes"></a>지급 일정 및 프로세스
 
@@ -33,11 +33,10 @@ ms.locfileid: "98861413"
 
 지급는 Microsoft가 고객의 지불을 수집 하기 전에 종종 발생 합니다. 고객이 Microsoft 지불에 실패 했지만 이미 지급를 발급 한 경우 수행 하는 작업에 대해서는 아래에서 [지불 하지 않는 고객에 대 한 프로세스](#process-for-customer-non-payment) 를 참조 하세요.
 
-| 이벤트 | 설명 | 보고 표시 유형 | 타이밍 |
+| 이벤트 | Description | 보고 표시 유형 | 타이밍 |
 | --- | --- | --- | --- |
 | 트랜잭션 사용량 또는 월 | 고객은 서비스를 사용 하거나 구매 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 1** |
 | Microsoft에서 청구 금액을 계산 합니다. | 총 사용량, 총 트랜잭션 확인 | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |
-| 고객별로 지불 된 송장 | Microsoft는 고객의 지불을 수집 합니다. | 변경 내용 없음 | **월 2** |
 | 지급 게시 됨 | 에이전시 요금 및 지급 수익 결정 | [지급 문의](payout-statement.md) 트랜잭션 기록에서 처리 되지 않은 것으로 표시 됨 | **월 3 (1 주)** |
 | 지급 준비 | 수익을 월간 지불에 대비 합니다. | [지급 문의](payout-statement.md) 트랜잭션 기록에 예정 된 것으로 표시 됨 | **월 3 (1 주)** |
 | **지급 전송** | **지불은 게시자에 게 전송 됩니다.** | **트랜잭션 기록에 전송 됨으로 표시 되 고 [지급 문의](payout-statement.md) 지불액 섹션에** | **월 3 (15 분 이후)** |
@@ -52,7 +51,7 @@ ms.locfileid: "98861413"
 
 신용 카드나 월간 청구서를 사용 하는 모든 구매 기간은 고객 으로부터 자금을 수집할 수 있도록 30 일 동안 유지 됩니다.
 
-| 이벤트 | 설명 | 보고 표시 유형 | 타이밍 |
+| 이벤트 | Description | 보고 표시 유형 | 타이밍 |
 | --- | --- | --- | --- |
 | 트랜잭션 사용량 또는 월 | 고객은 서비스를 사용 하거나 구매 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 1** |
 | 고객별로 지불 된 송장 | 총 사용량, 총 트랜잭션 값 및 고객의 지불 청구서를 확인 합니다. | [사용량](/azure/marketplace/partner-center-portal/usage-dashboard) 또는 [주문](/azure/marketplace/partner-center-portal/orders-dashboard) 대시보드 | **월 2** |

@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표-CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 실버 또는 골드 클라우드 Business Applications 역량을 얻기 위한 파트너를 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아봅니다.
@@ -9,18 +9,18 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530819"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756555"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>파트너 기여 지표를 사용 하 여 클라우드 Business Applications 역량 얻기
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 - 계정 관리자
 
@@ -155,7 +155,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 - 고객의 테 넌 트에 속한 유료 구독에 대 한 레코드 (CPOR)의 클레임 파트너입니다.
 - 사용자는 해당 고객의 테 넌 트에 속한 유료 구독의 경우에는 사용자의 디지털 (DPOR) 레코드 파트너입니다.
 
-파트너가 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) 동기 또는 Dynamics 365 [online services 사용](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu) 동기를 통해 구독 수준에서 고객과 연결 하는 경우에는 cpor로 설정 됩니다.
+파트너가 Dynamics 365 Online Services Advisor (OSA) 동기 또는 Dynamics 365 Online Services 사용 (OSU) 동기를 통해 구독 수준에서 고객과 연결 하는 경우에는 CPOR로 설정 됩니다. 자세히 알아보려면 [CPOR 연결 이해](incentives-customer-associations-intro.md)를 참조 하세요.
 
 파트너는 제품 내 구독 수준에서 고객과 연결을 설정한 경우 DPOR이 됩니다.
 

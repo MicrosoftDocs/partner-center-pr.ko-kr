@@ -1,25 +1,22 @@
 ---
 title: Microsoft 라이선스 리소스
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft 파트너는 다른 Microsoft 라이선스 프로그램 사용에 대해 궁금한 점이 있을 수 있습니다. 이 문서에서는 도움이 될 수 있는 리소스를 제공 합니다.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999757"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756806"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft 파트너를 위한 리소스 라이선싱 가이드 
 
-**적용 대상**
-
-- Microsoft MPN 파트너, CSP 파트너 및 기타
 
 이 문서는 파트너 라이선스 질문에 대답할 수 있는 리소스를 공유 합니다.
 
@@ -32,7 +29,7 @@ Microsoft 파트너는 하나 이상의 라이선싱 프로그램, 채널 또는
 > [!NOTE]
 > 자세한 라이선스 질문이 나 고객 견적과 관련 하 여 도움이 필요한 경우 라이선스 프로그램의 할당 된 간접 공급자 (CSP 프로그램의 경우) 또는 프로그램 배포자로 시작 합니다. 특정 라이선스 질문에 대 한 가장 좋은 초기 연락 지점이 나 고객 견적, SKU 구매 또는 필수 구성 요소를 만드는 방법에 대 한 질문이 종종 있습니다. 이 역할을 제공 하는 파트너가 없는 경우 찾을 [파트너 찾기](find-a-partner.md) 를 참조 하세요.
 >
-> Microsoft 연락처에 연락 하 여 내부 라이선스 전문가 팀을 활용할 수도 있습니다. 특정 Microsoft 연락처가 없는 경우 [파트너 지원](https://partner.microsoft.com/support/v2/?stage=1) 으로 이동 하 여 지원 페이지의 **문제** 필드에 **라이선스** 를 입력 합니다. 여기에서 사용할 수 있는 다른 라이선스 지원 리소스에 대해 알아볼 수 있습니다. 여전히 도움이 필요한 경우 지원 티켓을 기록 하 여 특정 라이선스 관련 질문에 대답 하거나 올바른 제품 SKU를 찾을 수 있습니다.
+> Microsoft 연락처에 연락 하 여 내부 라이선스 전문가 팀을 활용할 수도 있습니다. 특정 Microsoft 연락처가 없는 경우 [파트너 지원](https://partner.microsoft.com/support/v2/?stage=1) 으로 이동 하 여 지원 페이지의 **문제** 필드에 **라이선스** 를 입력 합니다. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>라이선스 및 라이선스 교육에 대 한 일반 리소스
 
@@ -43,7 +40,7 @@ Microsoft 파트너는 하나 이상의 라이선싱 프로그램, 채널 또는
 
 |원하는 작업  | 참조 문서  |
 |:------------------|:--------------- |
-|CSP 프로그램 라이선스를 다른 라이선스 모델과 비교 *(상위 수준 개요)* | [CSP 등록 페이지로](https://partner.microsoft.com/licensing/)이동 합니다. *다른 라이선스 모델과 CSP 비교*섹션에 표시 될 때까지 아래로 스크롤합니다.  |
+|CSP 프로그램 라이선스를 다른 라이선스 모델과 비교 *(상위 수준 개요)* | [CSP 등록 페이지로](https://partner.microsoft.com/licensing/)이동 합니다. *다른 라이선스 모델과 CSP 비교* 섹션에 표시 될 때까지 아래로 스크롤합니다.  |
 |Microsoft 클라우드 서비스 및 온-프레미스 소프트웨어에 대 한 서로 다른 파트너 사용권 계약 비교 *(자세히 보기)*  | [Microsoft 라이선싱 계약](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |특정 솔루션에 대 한 VL (볼륨 라이선스) 및 라이선스에 대해 자세히 알아보세요.  | [Microsoft 라이선스-제품 및 솔루션](https://www.microsoft.com/licensing/default) |
 |VL 가격, 견적, 계약, 제품 활성화 및 기타 도구에 도움이 될 수 있는 볼륨 라이선스 교육 및 리소스에 대해 알아봅니다.  | [Microsoft 파트너 네트워크 교육 및 리소스](https://partner.microsoft.com/licensing/training-and-resources) |
