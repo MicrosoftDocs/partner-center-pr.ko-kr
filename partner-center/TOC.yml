@@ -99,6 +99,11 @@
         - name: Azure 및 클라우드 혜택
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Visual Studio 혜택
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: 기술 사전 판매 및 배포 혜택
+          href: technical-benefits.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Microsoft로부터 SLA 크레딧 요청
           href: request-credit.md
+        - name: 세금 정책이 지급액에 미치는 영향
+          href: tax-policies-affect-payout.md
     - name: 고객의 Azure 지출 예산 설정
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
