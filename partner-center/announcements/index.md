@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756148"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029936"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-|**범주**|**2021년 2월 공지**|**발표**|
+|**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[현재 일부 제품군에서 Microsoft 유니버설 인쇄 사용 가능](2021-march.md#1)|3월 3일|
+|**범주**|**2021년 2월 공지**|**발표**|
 |기능|[PUT Qualification API는 사용 중지되며 GET은 5월에 사용 중지됨](2021-february.md#14)|2월 25일|
 |기능|[파트너 센터 대량 운영 기능을 사용하여 규모에 맞는 공동 판매 거래 공유](2021-february.md#13)|2월 25일|
 |기능|[새로운 거래 마이그레이션 기능을 사용하여 PSC(파트너 판매 연결)에서 거래 마이그레이션](2021-february.md#12)|2월 25일|
