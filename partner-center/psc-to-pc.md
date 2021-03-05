@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756177"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124825"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -32,9 +32,9 @@ ms.locfileid: "101756177"
 > 여기에 있는 경우 마이그레이션에 대 한 해당 배너를 볼 수 있기 때문에 올바른 위치에 있습니다. 이 가이드는 PSC에서 해당 거래를 관리 하는 SA (솔루션 평가) 및 OEM 라이선싱 비즈니스 파트너에 게는 적용 되지 않습니다.
 
 >[!Important]
-> 2021 년 5 월 1 일부 터 회사는 PSC에서 거래를 만들거나 편집할 수 없습니다. **계속 해 서 PSC에서 대량 내보내기 기능을 사용 하 여 기존 거래 데이터를 다운로드할 수 있습니다. 이 날짜 이후에는 PSC에서 파트너 센터로 [오픈 거래를 마이그레이션할](psc-to-pc.md#psc-deals-migration) 수도 있습니다.** <br><br> IP 공동 판매에 적합 한 솔루션을 포함 하 고 있는 거래에 대해 적극적으로 작업 하는 경우 다음 두 가지 옵션을 사용할 수 있습니다. <br><br> 1.2021 30 년 4 월 30 일 이전에 PSC에서 거래가 성공 하 고 완료 되는 등록을 완료로 표시 합니다. <br> 2. 거래에 대해 작업을 수행 하 고 등록을 시작할 수 있는 시간을 확보 하기 위해 거래 업체에 거래 센터를 [마이그레이션합니다](psc-to-pc.md#psc-deals-migration) .
+> 2021 년 4 월 1 일부 터는 회사에서 PSC의 거래를 만들거나 편집할 수 없습니다. **계속 해 서 PSC에서 대량 내보내기 기능을 사용 하 여 기존 거래 데이터를 다운로드할 수 있습니다. 이 날짜 이후에는 PSC에서 파트너 센터로 [오픈 거래를 마이그레이션할](psc-to-pc.md#psc-deals-migration) 수도 있습니다.** <br><br> IP 공동 판매에 적합 한 솔루션을 포함 하 고 있는 거래에 대해 적극적으로 작업 하는 경우 다음 두 가지 옵션을 사용할 수 있습니다. <br><br> 1.2021 년 3 월 31 일 이전에 PSC에서 거래가 성공 하 고 완료 되는 등록을 완료로 표시 합니다. <br> 2. 거래에 대해 작업을 수행 하 고 등록을 시작할 수 있는 시간을 확보 하기 위해 거래 업체에 거래 센터를 [마이그레이션합니다](psc-to-pc.md#psc-deals-migration) .
 
-아시다시피 **2021 년 5 월 31 일 이후에는 회사에 대 한 액세스 권한이 손실 됩니다**. 그러나 파트너 센터에서 수행할 모든 작업 (예: 공동 판매 거래, 거래 관리 및 Microsoft 판매자에 게 전송 된 거래 조치)을 계속 찾을 수 있습니다.
+아시다시피 **4 월 30 2021 일 이후에는 회사에 대 한 액세스 권한이 손실 됩니다**. 그러나 파트너 센터에서 수행할 모든 작업 (예: 공동 판매 거래, 거래 관리 및 Microsoft 판매자에 게 전송 된 거래 조치)을 계속 찾을 수 있습니다.
 
 그러나 차이점도 있습니다. 다음 지침은 파트너 센터를 보다 명확 하 고 간단 하 게 전환할 수 있도록 도와줍니다.
 

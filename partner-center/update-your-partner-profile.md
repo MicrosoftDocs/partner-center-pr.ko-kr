@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755794"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124774"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>파트너 센터에서 회사 프로필 정보 확인
 
@@ -69,7 +69,7 @@ Partner Membership Center에서 파트너 센터로 마이그레이션하는 동
 
 CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니다.
 
-1. CSP 계정 자격 증명을 사용하여 파트너 센터 [대시 보드](https://partner.microsoft.com/en-us/dashboard/home)에 전역 관리자로 로그인한 다음, **설정** 을 선택합니다. (MPN 및 CSP 자격 증명은 다를 수 있습니다.)
+1. CSP 계정 자격 증명을 사용하여 파트너 센터 [대시 보드](https://partner.microsoft.com/dashboard/home)에 전역 관리자로 로그인한 다음, **설정** 을 선택합니다. (MPN 및 CSP 자격 증명은 다를 수 있습니다.)
  
 1. **계정 설정** 에서 **식별자** 를 선택합니다.
 
@@ -87,4 +87,3 @@ CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니�
 - [확인 상태 확인](verification-responses.md)
 
 - [MPN 위치 관리](manage-locations.md)
-
