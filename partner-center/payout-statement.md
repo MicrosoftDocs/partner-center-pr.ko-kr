@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756168"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185352"
 ---
 # <a name="payout-statements"></a>지급 명세서
 
@@ -56,8 +56,7 @@ ms.locfileid: "101756168"
 
 ## <a name="transaction-history"></a>거래 기록
 
-**트랜잭션 기록** 페이지에는 수익, 예상 된 다음 지불 및 지난 36 개월 동안의 수입 및 지불 추세에 대 한 요약이 표시 됩니다. 이 섹션에서 트랜잭션 세부 정보를 다운로드할 수도 있습니다.
-
+**트랜잭션 기록** 페이지에는 수익, 예상 된 다음 지불 및 지난 36 개월 동안의 수입 및 지불 추세에 대 한 요약이 표시 됩니다. 이 섹션에서 트랜잭션 세부 정보를 다운로드할 수도 있습니다.<br><br>이 보고서는 아직 보내지 않은 지불을 포함 하 여 지급에 적합 한 모든 수익을 보여 줍니다. 지급는 ISV가 파트너 센터에서 모든 은행 및 세금 정보를 완료 했 $50 >을 때, ISV 계정이 활성 상태이 고, 고객에 게 요금이 청구 되었거나 (EA 거래의 경우) 지불이 수신 된 경우 (ea가 아닌 트랜잭션에 대 한)에 적합 합니다.
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="트랜잭션 개요.":::
 
@@ -129,7 +128,7 @@ ms.locfileid: "101756168"
 >- **lastPaymentCurrency**  현재 로그인 한 파트너에 게 액세스 권한이 있는 모든 MPNs에서 가장 최근의 지불을 받은 통화입니다. 지불이 수신 되지 않으면 마지막 지불 통화는 미국 달러입니다.
 >- **earningAmountInLastPaymentCurrency**  마지막 지불 통화의 양입니다.
 
-| 열 이름 | Description | 동기 프로그램/마켓플레이스에 대 한 적용 가능성 |
+| 열 이름 | 설명 | 동기 프로그램/마켓플레이스에 대 한 적용 가능성 |
 | --- | --- | --- |
 | agreementEndDate | 계약 종료 날짜 | 인센티브 - 일부 프로그램만 해당 |
 | agreementNumber | 계약 번호 | 인센티브 - 일부 프로그램만 해당 |
