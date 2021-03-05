@@ -1,7 +1,7 @@
 ---
 title: CSP를 통해 온-프레미스 소프트웨어 판매
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터에서 고객을 대신 하 여 온-프레미스 소프트웨어 구독을 구매, 관리, 판매 및 취소할 수 있는 방법에 대해 알아봅니다.
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756044"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220247"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>CSP (클라우드 솔루션 공급자) 프로그램을 통해 온-프레미스 소프트웨어 판매
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>CSP (클라우드 솔루션 공급자) 프로그램을 통해 온-프레미스 소프트웨어 판매
 
 **적절한 역할**
 
 - 관리 에이전트
 - 글로벌 관리자
 
-CSP의 온-프레미스 소프트웨어는 클라우드 중심 프로그램에서 온-프레미스 소프트웨어를 도입 하 여 클라우드로 원활 하 게 전환할 수 있도록 지원 합니다.이 새로운 기능을 통해 모든 Microsoft 제품에 단일 플랫폼을 제공 하므로 부가 가치 파트너를 모든 구매 시나리오로 가져올 수 있습니다. 이제 CSP로 서 오픈, EA 및 현재 사용 중인 기타 프로그램 뿐만 아니라 파트너 센터를 통해 온-프레미스 소프트웨어를 판매할 수 있습니다. CSP의 온-프레미스 소프트웨어는 새로운 판매 프로그램으로, Microsoft의 다른 볼륨 라이선스 프로그램을 대체 하기 위한 것이 아닙니다. 
+CSP의 온-프레미스 소프트웨어는 클라우드 중심 프로그램에서 온-프레미스 소프트웨어를 도입 하 여 클라우드로 원활 하 게 전환할 수 있도록 지원 합니다.이 새로운 기능을 통해 모든 Microsoft 제품에 단일 플랫폼을 제공 하므로 부가 가치 파트너를 모든 구매 시나리오로 가져올 수 있습니다. 이제 CSP로 서 오픈, EA 및 현재 사용 중인 기타 프로그램 뿐만 아니라 파트너 센터를 통해 온-프레미스 소프트웨어를 판매할 수 있습니다.  
  
-온-프레미스 소프트웨어 라이선스 옵션을 사용 하 여 전반적으로 최상의 고객 가치를 보장 하는 동시에 비즈니스 모델을 가능한 한 파트너에 게 친숙 하 게 만들어 보았습니다. CSP의 온-프레미스 소프트웨어에 대 한 간단한 라이선스는 비용 예측 가능성 및 간소화 된 판매 프로세스를 의미 합니다. 이 새로운 비즈니스 모델을 통해 고객을 위한 온-프레미스 소프트웨어를 쉽게 조달, 관리 및 가격을 지정할 수 있으므로 IT 관리 부가 가치 솔루션의 확장 된 포트폴리오를 통해 비즈니스에 집중할 수 있습니다. 
-
->[!NOTE]
->온-프레미스 소프트웨어는 현재 제한 된 파트너에 게 제공 됩니다. 적격 한지 확인 하려면 Microsoft 담당자에 게 문의 하세요. 
-
+온-프레미스 소프트웨어 라이선스 옵션을 사용 하 여 전반적으로 최상의 고객 가치를 보장 하는 동시에 비즈니스 모델을 가능한 한 파트너에 게 친숙 하 게 만들어 보았습니다. CSP의 온-프레미스 소프트웨어에 대 한 간단한 라이선스는 비용 예측 가능성 및 간소화 된 판매 프로세스를 의미 합니다. 이 새로운 비즈니스 모델을 통해 고객을 위한 온-프레미스 소프트웨어를 쉽게 조달, 관리 및 가격을 지정할 수 있으므로 IT 관리 부가 가치 솔루션의 확장 된 포트폴리오를 통해 비즈니스에 집중할 수 있습니다.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>고객을 대신하여 소프트웨어 구독 구입
 
@@ -37,18 +33,16 @@ CSP의 온-프레미스 소프트웨어는 클라우드 중심 프로그램에�
 
 ## <a name="activate-and-manage-software-subscriptions"></a>소프트웨어 구독 활성화 및 관리
 
-소프트웨어를 구입한 후에는 고객이 소프트웨어를 다운로드해야 합니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
+소프트웨어를 구매한 후에는 사용자 또는 고객이 다운로드 해야 합니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
 
 >[!NOTE]
 >키 및 다운로드에 대한 링크를 얻으려면 관리자 에이전트여야 합니다.
 
 1. 고객의 세부 정보 페이지로 이동하여 **소프트웨어** 를 선택합니다. 고객을 대신하여 구입한 모든 소프트웨어 목록이 표시됩니다.
-2. **소프트웨어 제품 키 및 다운로드 링크** 에서 "딥 링크"를 복사하여 고객과 링크를 공유합니다. 고객이 이 링크를 선택하면 제품 키를 다운로드하고 받을 수 있는 Microsoft 관리 센터로 리디렉션됩니다.
+2. [파트너 운영 가이드](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) 의 지침에 따라 고객 대신 소프트웨어 구매의 적용을 완료 합니다.
 
 >[!NOTE]
 >오직 고객만이 Microsoft 관리 센터에서 제품 키와 다운로드 정보를 볼 수 있습니다. 파트너는 이 정보를 볼 수 없습니다.
-
-파트너 또는 파트너의 고객이 라이선스 키를 다운로드하는 방법을 자세히 알아보려면 [소프트웨어 및 제품 라이선스 키 다운로드](/microsoft-365/admin/setup/download-software-licenses-csp)를 참조하세요.
 
 ## <a name="cancel-a-purchase"></a>구입 취소
 

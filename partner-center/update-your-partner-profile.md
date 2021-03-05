@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124774"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220267"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>파트너 센터에서 회사 프로필 정보 확인
 
@@ -54,8 +54,7 @@ ms.locfileid: "102124774"
 1. **제출** 을 선택하면 법적 신원 정보가 다시 평가되고, 동의가 필요한 다른 이메일이 수신됩니다.
 
 >[!Important]
->CSP(클라우드 솔루션 공급자) 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. CSP 프로그램에 없으면 법적 주소와 관련된 국가를 변경할 수 있습니다. 유효성 검사 상태가 "승인됨"인 경우 직접 청구 파트너 및 간접 공급자는 회사의 법적 이름을 변경할 수 없습니다. 이름을 변경해야 하는 경우 [지원 티켓을 만들어야](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772) 합니다.
-
+>CSP(클라우드 솔루션 공급자) 파트너인 경우 법적 주소와 관련된 국가는 변경할 수 없습니다. 법적 주소 국가는 사용자가 거래 시 사용하는 통화뿐만 아니라 사용자의 테넌트 및 서비스와 연관되어 있습니다. 유효성 검사 상태가 "승인됨"인 경우 직접 청구 파트너 및 간접 공급자는 회사의 법적 이름을 변경할 수 없습니다. 이름을 변경해야 하는 경우 [지원 티켓을 만들어야](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772) 합니다.
 
 
 ## <a name="update-your-mpn-global-business-account"></a>MPN 글로벌 비즈니스 계정 업데이트
