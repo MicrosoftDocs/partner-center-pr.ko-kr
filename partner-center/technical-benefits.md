@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: c273de275ed2821b9441be69fd29b931992a1982
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758490"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185301"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a>TPD (Technical 예약 판매 and Deployment services) 혜택 살펴보기
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>TPD (Technical 예약 판매 and Deployment services) 살펴보기 
 
 ## <a name="develop-your-technical-know-how"></a>기술 이해
 
-원격 개인 설정 된 일대일 상담에 대해 기술 예약 판매 및 배포 서비스 (TPD)를 사용 하 여 기술 기능을 더 빠르게 구축 하 고, 더 효과적으로 배포 하 고, 앱 개발을 가속화 합니다. [자세히 알아보기](https://aka.ms/TPD).
+원격 개인 설정 된 일대일 상담에 대해 기술 예약 판매 및 배포 서비스 (TPD)를 사용 하 여 기술 기능을 더 빠르게 구축 하 고, 더 효과적으로 배포 하 고, 앱 개발을 가속화 합니다. [자세히 알아봅니다](https://aka.ms/TPD).
 
 모든 클라우드 또는 하이브리드 솔루션은 온-프레미스 Windows 10, Windows Server 및 Microsoft SQL 외에도 지원 됩니다. 
 
@@ -39,7 +39,7 @@ ms.locfileid: "101758490"
 
 MPN 연결 된 사용자 계정으로 로그인 하 여 **[TPD (기술 예약 판매 And Deployment Services) 요청을 만듭니다](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (기술 혜택 활성화는 필요 하지 않음).
 
-  :::image type="content" source="images/technical-benefits.png" alt-text="기술 예약 판매 및 배포 혜택" border="false":::
+  :::image type="content" source="images/technical-benefits.png" alt-text="기술 사전 판매 및 배포 혜택" border="false":::
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>기술 예약 판매 및 배포 서비스 요청 제출 
 

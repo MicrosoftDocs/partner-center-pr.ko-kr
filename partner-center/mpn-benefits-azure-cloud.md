@@ -9,20 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056605"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185335"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>파트너 센터에서 Azure 및 클라우드 제품 혜택 영역 살펴보기
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
-- 관리 에이전트
 - MPN 파트너 관리자
 
 이 문서에서는 파트너 센터 내에서 파트너에 게 제공 되는 특정 Azure 및 클라우드 혜택을 설명 합니다. 또한 특정 유형의 Azure 및 클라우드 구독을 활성화 하는 방법을 알아봅니다.
