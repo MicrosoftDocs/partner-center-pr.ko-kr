@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924911"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247662"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>지급 및 세금에 대 한 일반적인 질문
 
@@ -63,7 +63,14 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>세금 프로필이 만료 되었습니다. 이 문제를 해결하려면 어떻게 해야 합니까?
 
-세금 프로필 [만들기 또는 업데이트](set-up-your-payout-account.md#create-or-update-your-tax-profile) 의 단계를 사용 하 여 세금 프로필을 업데이트 합니다. **세금 프로필** 페이지에서 만료 됨 또는 만료 **날짜** 열에 만료 되는 프로필을 볼 수 있습니다. 
+세금 프로필이 만료 되었거나 곧 만료 되는 경우 Microsoft에 제공한 세금 양식을 업데이트 해야 함을 의미 합니다. 다음 단계를 사용 하 여 세금 프로필을 업데이트 합니다.
+
+1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard/home)로그인 하 고 기어 아이콘을 선택 하 여 **설정** 메뉴를 엽니다.
+2. **계정 설정** 을 선택 하 고 **지급 및 세금** 섹션을 확장 한 다음 **지급 및 세금** 프로필을 선택 합니다.
+3. **세금** 프로필 선택
+4. 만료 **날짜** 열을 확인 하 고 만료 되었거나 곧 만료 될 세금 프로필로 이동 합니다.
+5. **편집** 을 선택 하 여 세금 프로필 편집 프로세스를 시작 합니다.
+6. 세금 양식 섹션에서 업데이트 된 세부 정보를 제공 합니다.
 
 ## <a name="earnings-incorrect-or-missing"></a>소득이 잘못 되었거나 없습니다.
 

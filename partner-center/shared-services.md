@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532041"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247713"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>파트너가 각자의 용도에 맞게 Azure 구독을 구입할 수 있도록 Azure 파트너 공유 서비스를 추가 합니다.
 
@@ -45,7 +45,7 @@ Azure 파트너 공유 서비스는 파트너가 각자의 용도에 맞게 Azur
 
 - Azure-Internal/Shared Services 구독은 파트너가 Azure를 자체적으로 사용 하기 위해 파트너 센터를 통해 액세스 하는 CSP의 새로운 Azure 제품 유형입니다.
 
-- Azure-Internal/Shared Services 제품은 할인 및 성과급을 받을 수 있습니다.  Azure 파트너 공유 서비스 구독은 자격을 받을 수 있으며, RIs를 구매 하는 데 사용할 수 있습니다.
+- Azure 파트너 공유 서비스 구독은 자격을 받을 수 있으며, RIs를 구매 하는 데 사용할 수 있습니다.
 
 - Azure-Internal/Shared Services 제품은 공유 서비스 테 넌 트에만 적용할 수 있습니다.
 
@@ -59,7 +59,7 @@ CSP 청구서 및 조정 파일에 대 한 Azure 사용량을 확인할 수 있�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure 파트너 공유 서비스 가격
 
-Azure 파트너 공유 서비스에 대 한 새 가격 책정 파일을 보려면 **Sell**  >  **가격 책정 및 제품** 판매로 이동 하 여 현재 월의 가격 목록을 선택 합니다. 몇 주 동안 특정 요금 카드 api도 출시 됩니다.
+Azure 파트너 공유 서비스에 대 한 새 가격 책정 파일을 보려면   >  **가격 책정 및 제품** 판매로 이동 하 여 현재 월의 가격 목록을 선택 합니다. 몇 주 동안 특정 요금 카드 api도 출시 됩니다.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 제품 및 Azure 파트너 공유 서비스
 

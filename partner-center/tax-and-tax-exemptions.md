@@ -1,7 +1,7 @@
 ---
 title: 지역별 세금 및 세금 면제
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: CSP 프로그램 파트너의 경우 지역별 세금 책임, CSP 판매에 대 한 세금 면제를 제출 하는 방법 및 세금 질문에 대 한 지원을 받는 방법에 대해 알아보세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755591"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247670"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP 프로그램에서 파트너에 대 한 지역 또는 국가의 세금 및 세금 면제 세부 정보에 대해 알아봅니다.
 
-적용 대상:
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
 
 CSP (클라우드 솔루션 공급자) 프로그램은 제품의 파트너 재판매에 초점을 맞춘 판매 채널입니다. 따라서 Microsoft는 파트너 청구서에 대 한 판매 세금을 항상 청구 해야 하는 것은 아닙니다. 규칙은 국가 및/또는 지역에 따라 다릅니다. [세금 면제에 대 한 국가 및 지역별 세부 정보](#country-and-region-tax-details)를 검토할 수 있습니다.
 
@@ -33,7 +29,6 @@ CSP (클라우드 솔루션 공급자) 프로그램은 제품의 파트너 재�
 
 세금이 청구 되는 다른 국가 또는 지역에 있는 경우 [다른 지역에 대 한 정보](#other-regions)를 참조 하세요.
 
-추가 질문은 [파트너 센터에서 지원을 요청](#support)하세요.
 
 ### <a name="canada"></a>캐나다
 
