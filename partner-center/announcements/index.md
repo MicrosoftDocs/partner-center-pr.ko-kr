@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029936"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185284"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "102029936"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[2021년 4월 1일에 사용 가능한 새로운 Microsoft Dynamics 365 제품 및 제안](2021-march.md#2)|3월 4일|
 |기능|[현재 일부 제품군에서 Microsoft 유니버설 인쇄 사용 가능](2021-march.md#1)|3월 3일|
 |**범주**|**2021년 2월 공지**|**발표**|
 |기능|[PUT Qualification API는 사용 중지되며 GET은 5월에 사용 중지됨](2021-february.md#14)|2월 25일|

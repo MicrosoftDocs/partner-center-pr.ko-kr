@@ -102,8 +102,12 @@
         - name: Visual Studio 혜택
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: 기술 사전 판매 및 배포 혜택
+        - name: 기술 사전 판매 및 배포 서비스
           href: technical-benefits.md
+          displayname: 'TPD, presales, deployment, technical'
+        - name: 기술 혜택
+          href: mpn-benefits-technical-support.md
+          displayname: 'support, incidents, technical'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
