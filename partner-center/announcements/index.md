@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185284"
+ms.locfileid: "102220279"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "102185284"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[파트너 센터 소프트웨어 라이선스 키 및 다운로드 이행](2021-march.md#4)|3월 5일|
+|기능|[PSC(Partner Sales Connect)에서 파트너 센터로 거래 마이그레이션](2021-march.md#3)|3월 5일|
 |기능|[2021년 4월 1일에 사용 가능한 새로운 Microsoft Dynamics 365 제품 및 제안](2021-march.md#2)|3월 4일|
 |기능|[현재 일부 제품군에서 Microsoft 유니버설 인쇄 사용 가능](2021-march.md#1)|3월 3일|
 |**범주**|**2021년 2월 공지**|**발표**|
