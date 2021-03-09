@@ -1,7 +1,7 @@
 ---
 title: Microsoft 제품을 사용한 출시에 대 한 자세한 정보
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 Microsoft 제품 출시에 대해 알아보세요.
@@ -9,19 +9,14 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114652"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475265"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft 파트너 네트워크 구성원
 
 **적절한 역할**
 
@@ -39,18 +34,18 @@ Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 �
 
 시장 출시 제품은 특정 수준의 MPN 멤버 자격, 특수화 [및 사용자가 원하는 역량](learn-about-competencies.md) 에 따라 달라 집니다.
 
-모든 MPN 멤버는 특정 표준 GTM 리소스에 액세스할 수 있습니다. 여기에는 바로 사용할 수 있는 마케팅 자산, 판매 사용 플랫폼 및 주문형 디지털 마케팅에 대 한 액세스가 포함 됩니다. 공동 판매 준비 솔루션을 사용 하 여 실버 또는 골드 역량 및/또는 ISV 파트너를 획득 하는 파트너에 게 더 많은 출시 전 제품 및 프로그램을 사용할 수도 있습니다.
+모든 MPN 멤버는 특정 표준 GTM 리소스에 액세스할 수 있습니다. 여기에는 바로 사용할 수 있는 마케팅 자산, 판매 사용 플랫폼 및 주문형 디지털 마케팅에 대 한 액세스가 포함 됩니다. 또한 공동 판매 준비 제품을 사용 하 여 실버 또는 골드 역량 및/또는 ISV 파트너를 획득 하는 파트너에 게 더 많은 출시 전 제품 및 프로그램을 사용할 수 있습니다.
 
 >[!NOTE]
->시장 출시 리소스, 제품 및 프로그램에는 추가 및 변경 내용이 적용 됩니다. Microsoft 파트너 네트워크 [시장 출시 페이지로](https://partner.microsoft.com/membership/go-to-market) 이동 하 여 공동 판매 준비 솔루션으로 다양 한 역량 수준 및/또는 ISV 파트너를 얻는 파트너에 게 제공 되는 최신 시장 출시 리소스 및 제품에 대해 알아보세요.
+>시장 출시 리소스, 제품 및 프로그램에는 추가 및 변경 내용이 적용 됩니다. Microsoft 파트너 네트워크 [시장 출시 페이지로](https://partner.microsoft.com/membership/go-to-market) 이동 하 여 공동 판매 준비 제품으로 다양 한 역량 수준 및/또는 ISV 파트너를 확보 하는 파트너에 게 제공 되는 최신 시장 출시 리소스 및 제품에 대해 알아보세요.
 
-공동 판매 준비 솔루션을 사용 하는 **실버** 역량 수준 및/또는 ISV 파트너와 함께 추가 출시 출시 제품을 제공 합니다.
+**실버** 역량 수준 및/또는 ISV 파트너와 함께 사용할 수 있는 추가 시장 출시 제품으로 서, 공동 판매를 제공 하는 제품이 있습니다.
 
 - 모든 MPN 표준 출시 간 리소스
 - 비즈니스 프로필 최적화 및 조회 관리
 - Microsoft로 출시 하는 방법
 
-IP 공동 판매 준비 솔루션과 함께 **골드** 역량 수준 및/또는 ISV 파트너와 파트너에 게 제공 되는 추가 시장 출시 제안:
+공동 판매 된 제품을 제공 하는 **골드** 역량 수준 및/또는 ISV 파트너와 함께 파트너에 게 제공 되는 추가 시장 출시 제안:
 
 - 모든 MPN 표준 출시 간 리소스
 - 모든 실버/ISV 공동 판매 준비 출시 제안
@@ -66,26 +61,26 @@ IP 공동 판매 준비 솔루션과 함께 **골드** 역량 수준 및/또는 
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. 왼쪽 메뉴에서 **MPN**를 선택 합니다. 그런 후 다음 단계 중 하나를 수행 합니다.
+2. 왼쪽 메뉴에서 **MPN** 를 선택 합니다. 그런 후 다음 단계 중 하나를 수행 합니다.
 
-   - **개요**를 선택합니다. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
+   - **개요** 를 선택합니다. **빠른 링크** 섹션으로 스크롤한 다음 **시장에서 이동** 탭을 선택 합니다.
 
      또는
 
-   - **혜택** 을 선택 하 고 **출시를 진행**합니다.
+   - **혜택** 을 선택 하 고 **출시를 진행** 합니다.
 
 이미 활성 상태 이거나 활성화 하는 데 사용할 수 있는 시장 출시 제안 목록이 표시 됩니다.
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>파트너 센터에서 시장 진입 제품 관리 또는 활성화
 
-시장 출시 제품을 활성화 하거나 관리 하려면 단계별 제품을 관리 하 [는 방법](manage-your-partner-network-benefits.md#manage-go-to-market-offers)을 참조 하세요. 이 프로세스의 일부를 사용 하려면 마케팅 담당자를 추가 작업 전자 메일에 대 한 연락처로 할당 하 고 활성화 하는 출시 전 제품에 대 한 정보를 전달 해야 합니다.
+시장 출시 제품을 활성화 하거나 관리 하려면 단계별 제품을 관리 하 [는 방법](manage-your-partner-network-benefits.md#manage-go-to-market-offers)을 참조 하세요. 활성화 프로세스 중에는 마케팅 담당자를 추가 작업 전자 메일 및 활성화 하는 출시 전 제품에 대 한 통신의 담당자로 할당 해야 합니다.
 
 >[!IMPORTANT]
->특정 시장 출시 제안을 활성화 하 고 관련 마케팅 연락처를 할당 하려면 전역 관리자 또는 MPN 파트너 관리자 여야 합니다. 필요에 따라 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)(로그인 필요)의 지침에 따라 글로벌 관리자가 될 수 있습니다. 회사에 이미 글로벌 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
+>특정 시장 출시 제안을 활성화 하 고 관련 마케팅 연락처를 할당 하려면 전역 관리자 또는 MPN 파트너 관리자 여야 합니다. 필요한 경우 [ **혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits) (로그인 필요)의 지침에 따라 전역 관리자가 될 수 있습니다. 회사에 이미 글로벌 관리자가 있을 수 있으므로 팀에 꼭 문의해 보세요.
 
 ## <a name="next-steps"></a>다음 단계
 
-- [파트너 네트워크 혜택 관리](manage-your-partner-network-benefits.md)
+- [파트너 네트워크 관리 혜택](manage-your-partner-network-benefits.md)
 
 - [Microsoft Action Pack 구독 구매 또는 갱신](mpn-get-action-pack.md)
 
