@@ -8,12 +8,12 @@ description: Dynamics 365 CRM 용 공동 판매 커넥터와 파트너 센터의
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756800"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532059"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -104,7 +104,7 @@ ms.locfileid: "101756800"
      
       7. 모든 연결을 추가 하면 사용자 환경에 다음 연결이 표시 됩니다.
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="연결":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="연결":::
    
 ## <a name="edit-the-connections"></a>연결 편집
 
@@ -141,7 +141,7 @@ ms.locfileid: "101756800"
 
 3. **복사** 아이콘을 선택 하 여 제공 된 HTTP POST URL을 복사 합니다.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="웹 후크를 사용 하 여 리소스 변경 내용 등록":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="웹 후크를 사용 하 여 리소스 변경 내용 등록":::
 
 4. "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행** 을 선택 합니다.
 
@@ -205,7 +205,7 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
 
 3. **새 값** 옵션을 사용 하 여 **현재 값** (기본값 업데이트 안 함)을 업데이트 하 고 값을 제공 합니다. 값은 변수의 데이터 형식과 일치 해야 합니다. 예/아니요 데이터 형식은 예 또는 아니요 값을 허용 합니다.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="환경 변수 업데이트":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="환경 변수 업데이트":::
 
 - 종단 간 양방향 공동 판매 참조 동기화
 
