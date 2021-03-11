@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9feeb3e40b2113e787dc80baa5ff1f807dc8df04
-ms.sourcegitcommit: 80b703dc10892b5c2140785dd2fc22bbffd887c1
+ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "99224301"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756568"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>MCID(Microsoft 인증 프로필 ID)를 MPN(Microsoft 파트너 네트워크) 계정에 연결하거나 연결을 해제합니다.
 
@@ -82,6 +82,6 @@ MCID(Microsoft 인증 프로필) 병합 프로세스와 관련된 질문은 [인
 
 ## <a name="next-steps"></a>다음 단계
 
-- [사용자 역할 및 권한](https://docs.microsoft.com/partner-center/permissions-overview)
+- [사용자 역할 및 권한](./permissions-overview.md)
 - [역량](https://partner.microsoft.com/membership/competencies)
 - [Microsoft Learn 분석 보고서는 회사의 학습자 상태를 표시합니다.](ms-learn-analytics.md)

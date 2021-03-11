@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755867"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022811"
 ---
 # <a name="view-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755867"
 
 - 동기 관리자
 - 동기 사용자
-- 동기 읽기 전용 뷰어
 - 글로벌 관리자
 - MPN 파트너 관리자
 
-이 문서에서는 각 위치에서 각 프로그램의 상태 뿐만 아니라 동기 프로그램의 전반적인 상태를 보여 주는 **내 성과급 개요** 페이지에 액세스 하는 방법을 설명 합니다. 또한 다양 한 등록 상태를 제공 합니다. 
+이 문서에서는 각 위치에서 각 프로그램의 상태 뿐만 아니라 동기 프로그램의 전반적인 상태를 보여 주는 **내 성과급 개요** 페이지에 대해 설명 합니다. 또한 다양 한 등록 상태를 제공 합니다.
 
 >[!NOTE]
 >파트너 센터의 성과급 및 동기 기능에 대 한 자세한 내용은 [파트너 투자 및 성과급](https://partner.microsoft.com/membership/partner-incentives) (로그인 필요)을 참조 하세요.

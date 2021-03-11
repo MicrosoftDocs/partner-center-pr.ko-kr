@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251057"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619378"
 ---
 # <a name="mpn-benefits---software"></a>MPN 혜택-소프트웨어
 
@@ -33,7 +33,7 @@ ms.locfileid: "102251057"
 
 제품에 설치를 위한 제품 키가 필요한 경우 설치 과정에서 제품 키를 입력 하 라는 메시지가 표시 됩니다. 다운로드 하려는 소프트웨어 버전을 선택한 파트너 센터의 동일한 창에서 가져올 수 있습니다.
 
-정품 인증은 **Windows server** 및 클라이언트 **운영** 체제와 **모든 Microsoft Office 클라이언트 응용 프로그램** 에 필요 합니다. 모든 제품에 제품 활성화가 필요한 것은 아닙니다.
+정품 인증은 **Windows Server** 및 클라이언트 **운영** 체제와 **모든 Microsoft Office 클라이언트 응용 프로그램** 에 필요 합니다. 모든 제품에 제품 활성화가 필요한 것은 아닙니다.
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="소프트웨어 제품 혜택은 MPN에서 사용할 수 있습니다." border="false":::
 

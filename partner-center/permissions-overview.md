@@ -9,18 +9,18 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492707"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756458"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - 사용자 관리자
 - MPN 파트너 관리자
 
@@ -128,9 +128,6 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 ||*    내가 만든 파트너 지원 티켓 보기
 
 ## <a name="manage-referrals"></a>조회 관리
-
-> [!Note]
->새로운 추천 사용자 역할은 2020년 11월 18일부터 사용할 수 있습니다. 기존 추천 관리자는 전체 회사로 범위가 지정된 추천 관리자 역할을 유지합니다.
 
 |**역할** | **수행 가능한 작업**|**자세히 알아보기**
 |------------------------------|:-------------------------|---|

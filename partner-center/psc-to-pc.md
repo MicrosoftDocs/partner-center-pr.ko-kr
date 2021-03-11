@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124825"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770279"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>파트너 센터 (PC)의 공동 판매를 위한 가이드 파트너 판매 연결 (PSC)에서 마이그레이션하는 파트너
 
@@ -81,7 +81,7 @@ ms.locfileid: "102124825"
 
    이 페이지에는 해당 전자 메일 주소가 있는 모든 계정 관리자가 표시 됩니다. 그 중 하나를 전자 메일로 처리 하 고 회사 계정에 대 한 조회 관리자 역할을 할당 하도록 요청 합니다.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="파트너 설정 사용자 관리 페이지에서 계정 관리자를 표시 하는 이미지입니다.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="파트너 설정 사용자 관리 페이지에서 계정 관리자를 표시 하는 이미지입니다.":::
 
 >[!Important]
 >- 역할에 PSC의 사용자 관리만 포함 된 경우 회사의 계정 관리자에 게 문의 하 여 파트너 센터에서 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 역할을 할당 합니다. 
@@ -95,7 +95,7 @@ ms.locfileid: "102124825"
 >[!Note]
 > 사용자 마이그레이션은 회사의 [계정 관리자](permissions-overview.md#manage-mpn-membership-and-your-company) 만 수행할 수 있습니다. 계정 관리자 역할이 없으면 사용자 마이그레이션 마법사를 통해 사용자 계정을 설정 하는 데 도움이 될 수 있는 계정 관리자를 찾습니다.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="사용자 마이그레이션 마법사를 표시 하는 이미지입니다.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="사용자 마이그레이션 마법사를 표시 하는 이미지입니다.":::
 
 계정 관리자가 조회 가이드 옆에 있는 공동 판매 기회 페이지에서 PSC 사용자 마이그레이션 마법사 링크를 볼 수 있습니다. 링크를 선택 하 여 사용자 마이그레이션을 시작할 수 있습니다. 관리자는 사용자 마이그레이션을 시작 하기 위해 링크를 선택할 수 있습니다. 파트너 센터에서 모든 사용자에 게 적절 한 역할이 할당 될 때까지이 사용자 마이그레이션 단계를 여러 번 수행할 수 있습니다.
 

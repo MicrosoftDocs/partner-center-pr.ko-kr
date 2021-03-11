@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM 파트너 센터 용 공동 판매 커넥터
+description: Dynamics 365 CRM 용 공동 판매 커넥터와 파트너 센터의 조회를 동기화 합니다. 그런 다음 판매자는 CRM 시스템 내에서 Microsoft와 공동 판매할 수 있습니다.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 CRM 용 공동 판매 커넥터와 파트너 센터의 조회를 동기화 합니다. 그런 다음 판매자는 CRM 시스템 내에서 Microsoft와 공동 판매할 수 있습니다.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532059"
+ms.locfileid: "102619412"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 용 공동 판매 커넥터-개요
 
@@ -88,7 +88,7 @@ ms.locfileid: "102532059"
 
    - 솔루션에서 흐름을 자동화 하는 CRM admin
 
-      1. 왼쪽 탐색 모음에서 **연결** 을 선택 하 고 목록에서 "파트너 센터 조회" 솔루션을 선택 합니다.
+      1. 왼쪽 탐색 모음에서 **연결** 을 선택 하 고 목록에서 **파트너 센터 조회** 솔루션을 선택 합니다.
 
       2. **연결 만들기** 를 클릭 하 여 연결을 만듭니다.
 
@@ -110,11 +110,11 @@ ms.locfileid: "102532059"
 
 1. **솔루션** 페이지로 돌아가서 **기본 솔루션** 을 선택 합니다. **모두** 를 클릭 하 여 **연결 참조 (미리 보기)** 를 선택 합니다.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="연결 편집":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="연결 편집":::
 
 2. 세 개의 점 아이콘을 선택 하 여 각 연결을 하나씩 편집 합니다. 관련 연결을 추가 합니다.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="연결 나열"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="연결 나열"::: 
 
 3.  솔루션 페이지로 돌아가서, Dynamics 365에 대 한 파트너 센터 조회 동기화를 선택 하 고, 다음 시퀀스의 각 흐름 옆에 있는 세 개의 점 아이콘을 클릭 하 여 흐름을 설정 합니다. 흐름을 설정 하는 동안 문제가 발생 하는 경우 [사용자 지정 단계](connector-dynamics.md#customize-synchronization-steps) 및 [문제 해결 단계](connectors-troubleshoot.md)를 참조 하세요. 
 
@@ -171,19 +171,19 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
 
 - 거래 값: 기본적으로 파트너 센터의 거래 값은 CRM의 **estimatedvalue** 와 동기화 됩니다. 처리할 거래 값에 대 한 다른 필드가 CRM에 있으면 다음을 수행 합니다.
 
-    a.    Dynamics 365 환경 변수의 거래 값 필드 이름을 CRM의 필드 이름으로 업데이트 합니다. 필드의 이름을 표시 이름으로 지정 해야 합니다.
+  a. Dynamics 365 환경 변수의 거래 값 필드 이름을 CRM의 필드 이름으로 업데이트 합니다. 필드의 이름을 표시 이름으로 지정 해야 합니다.
 
-    b.    **[사용자 지정] 편집 [사용자 지정] Dynamics 365 flow에서 세부 정보를 만들거나** 업데이트 하 고 crm에서 기회 **만들기 또는 업데이트** 로 이동 하 고, crm에서 **DealValue** 값을 올바른 필드에 할당 하 **는** **기존 기회** 작업을 업데이트 합니다. 또한 **예상 수익** 필드에서 **DealValue 할당** 을 제거 합니다.
+  b. **[사용자 지정] 편집 [사용자 지정] Dynamics 365 flow에서 세부 정보를 만들거나** 업데이트 하 고 crm에서 기회 **만들기 또는 업데이트** 로 이동 하 고, crm에서 **DealValue** 값을 올바른 필드에 할당 하 **는** **기존 기회** 작업을 업데이트 합니다. 또한 **예상 수익** 필드에서 **DealValue 할당** 을 제거 합니다.
 
 - 고객 계정 국가 코드: 새 조회를 만들 때 두 문자로 된 국가 코드 (ISO 3166)를 제공 해야 합니다. 기본적으로 국가 코드는 CRM의 계정 address1_country 필드와 동기화 됩니다. CRM에서 동기화 할 국가 코드에 다른 필드가 있는 경우:
 
-   a.    두 문자로 된 코드를 포함 하는 계정의 비 조회 국가 코드 필드:
+   a. 두 문자로 된 코드를 포함 하는 계정의 비 조회 국가 코드 필드:
 
    - Dynamics 365 환경 변수의 고객 계정 국가 코드 필드 이름을 CRM의 필드 이름으로 업데이트 합니다. 필드의 이름을 표시 이름으로 지정 해야 합니다.
 
    - 편집 **[사용자 지정] Dynamics 365 flow에서 세부 정보를 만들거나 가져온**  다음 crm에서 고객 계정 만들기 또는 가져오기를 탐색 하 여 crm의 올바른 필드에 국가 값을 할당 합니다. 또한 Address 1: Country/Region 필드에서 Country value 할당을 제거 합니다.
 
-   b.    계정에서 조회 기반 국가 코드 필드:
+   b. 계정에서 조회 기반 국가 코드 필드:
 
    - 계정에 새 사용자 지정 필드를 추가 하 고 조회 기반 필드에서 선택한 값을 기준으로 두 문자 국가 코드 (ISO 3166)로 자동으로 채웁니다.
 
@@ -205,7 +205,7 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
 
 3. **새 값** 옵션을 사용 하 여 **현재 값** (기본값 업데이트 안 함)을 업데이트 하 고 값을 제공 합니다. 값은 변수의 데이터 형식과 일치 해야 합니다. 예/아니요 데이터 형식은 예 또는 아니요 값을 허용 합니다.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="환경 변수 업데이트":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="환경 변수 업데이트":::
 
 - 종단 간 양방향 공동 판매 참조 동기화
 
@@ -242,13 +242,11 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{대체 텍스트}":::
 
-
-
 - Microsoft 솔루션을 추가한 후에 판매자가 추가할 필요가 없도록 공동 판매 준비 된 솔루션 세부 정보를 미리 채울 수 있습니다. 새 솔루션 세부 정보를 추가 하려면 CRM의 Microsoft Solution Details 개체로 이동 하 고 **레코드 추가** 를 클릭 하 여 항목을 하나 추가 하거나 **Excel 업로드** 를 사용 하 여 여러 항목을 추가 합니다.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="솔루션 세부 정보":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="솔루션 세부 정보":::
 
-### <a name="scenarios"></a>에서는
+### <a name="scenarios"></a>시나리오:
 
 1. CRM에서 조회를 만들거나 업데이트 하 고 파트너 센터에서 동기화 하는 경우의 조회 동기화:
 
@@ -265,6 +263,7 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
          :::image type="content" source="images/dynamic-3a.png" alt-text="카드 보기에서 적절 한 필드를 가져오는 방법":::
 
       - **고객 연락처**: 공동 판매 조회를 만들려면 기회에 고객 연락처를 추가 합니다.
+
       - **파트너 센터와 동기화**: 예
 
       - Microsoft 솔루션: Microsoft와의 조회를 공유 하려면 올바른 공동 판매 준비 또는 Microsoft 솔루션을 기회에 추가 합니다.

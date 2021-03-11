@@ -7,19 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755764"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022760"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>파트너 센터에서 사용 빈도 기반 조정 파일 및 해당 특정 필드 이해
-
-적용 대상:
-
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 
@@ -32,7 +27,7 @@ ms.locfileid: "101755764"
 
 다음 필드는 사용 된 서비스와 요금을 설명 합니다.
 
-| 열 | Description | 샘플 값 |
+| 열 | 설명 | 샘플 값 |
 | ------ | ----------- | ------------ |
 | PartnerId | GUID 형식의 파트너 식별자입니다. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | 파트너 이름입니다. | *Contoso, l t d.* |

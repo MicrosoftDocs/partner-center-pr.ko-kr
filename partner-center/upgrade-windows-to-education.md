@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755825"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022743"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>일부 교육 고객을 Windows 10 Home에서 Windows 10 교육으로 업그레이드
 
 **적절한 역할**
 
 - 관리 에이전트
-- 기술 지원팀 상담원
+- 청구 관리자
 
 ## <a name="overview"></a>개요
 
@@ -57,8 +57,8 @@ CSP 파트너는 고객을 대신하여 지원 요청을 제출하여 고객의 
 
 - **제목:** Windows 10 Home에서 Windows 10 교육 업그레이드 제품 키
 - **설명:** Windows 10 교육용으로 업그레이드할 수 있도록 [insert number] 키를 요청 합니다. 요청 된 키 수는 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독 라이선스 보다 크지 않아야 합니다. 고객의 구독 ID [고객 구독 ID GUID 삽입 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 구독.]
-- **연락처 번호:** 이는 사전에 채워집니다. 확인 또는 업데이트를 검토 합니다.
-- **전자 메일:** 이는 미리 채워지고 Microsoft portal 관리자 (전역 관리자 또는 청구 관리자만 해당)로 사용 하는 전자 메일 이어야 합니다.
+- **연락처 번호:** 이는 미리 채워집니다. 확인 또는 업데이트를 검토 합니다.
+- **전자 메일:** 이는 미리 채워지므로 Microsoft portal 관리자 (전역 관리자 또는 청구 관리자만 해당)로 사용 하는 전자 메일 이어야 합니다.
 - **기본 연락 방법**: **전화** 를 선택 하거나 **호출을 다시 예약** 합니다.
 
 8. **연락처** 를 선택 합니다. 예상 되는 대기 시간은 **도움 필요?** 창에 표시 됩니다.
@@ -92,8 +92,9 @@ Windows 10 Pro 교육 제품 키를 사용 하 여 Windows 10 Home을 업그레�
 **지원 담당자에 게 연락 하 여 업그레이드 키를 받을 수 있는 기한이 있나요?**
 Windows 10 교육 업그레이드는 고객의 활성 Microsoft 365 A3/A5 또는 Windows 10 Enterprise A3/A5 라이선스 구독을 기반으로 합니다. 고객이 구독을 확장 하거나 갱신 하지 않으면 업그레이드에 대 한 자격도 종료 됩니다.
 
+## <a name="next-steps"></a>다음 단계
+
 **파트너는 Windows 10 교육에 대해 자세히 알아볼 수 있나요?**
-다음 링크를 따라 자세히 알아보세요.
 
 - [Windows 교육 기능](https://www.microsoft.com/education/products/windows/features)
 - [Windows 교육 허브](/education/windows/)
