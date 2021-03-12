@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표-CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 실버 또는 골드 클라우드 Business Applications 역량을 얻기 위한 파트너를 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756555"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193650"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>파트너 기여 지표를 사용 하 여 클라우드 Business Applications 역량 얻기
 
@@ -274,11 +274,11 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
 
 - **일부 점이 나타나지 않습니다.** 기준 스냅숏 위에 있는 증가는 다음 표에 나와 있는 임계값을 충족 하거나 초과 해야 합니다. 이 표에서는 점수를 획득 하는 데 필요한 함수형 컨설턴트 기준이 포함 된 **개발** 및 **개발** 열을 보여 줍니다.
 
-  | 만들어 | 개발과 | 15 개 점수를 모두 획득 하는 데 필요한 성장 *
+  | 만들어 | 개발과 | 15 개 점수를 모두 획득 하는 데 필요한 성장
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30-49 | 15-24 | 25% |
-  | 50 이상 | 25 이상 | 15% |
+  | 50 이상 | 25 이상 | 아래 옵션 참조 |
 
 **두 옵션은 요소를 가져옵니다.**
 
