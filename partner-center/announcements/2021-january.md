@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 03/08/2021
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541023"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514122"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -86,7 +86,7 @@ Microsoft 파트너 웹 사이트의 [작업 갤러리](https://partner.microsof
 - 2021년 1월 7일: 1단계 및 2단계에 포함된 추가 시나리오
 - 2021년 1월 28일: 
     -    1단계가 라이브 발표됨 
-    -    영국은 EU/EFTA 소속이 아니지만 [Microsoft 유럽 지역 및 시장](https://docs.microsoft.com/partner-center/regional-authorization-overview)에 포함되며 영향을 받게 됩니다.
+    -    영국은 EU/EFTA 소속이 아니지만 [Microsoft 유럽 지역 및 시장](../regional-authorization-overview.md)에 포함되며 영향을 받게 됩니다.
 
 
 ________________
@@ -170,13 +170,13 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 ### <a name="details"></a>세부 정보
 
-간접 재판매인에 대한 MPA(Microsoft 파트너 계약)를 현재 구현 중입니다. 공급자와 재판매인을 보다 잘 지원하기 위해 여러분의 의견을 수렴해 왔으며, 현재 MPA 동의 방법에 대한 대표적인 질문이 새로운 [질문과 대답 페이지](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)에 통합되었습니다.
+간접 재판매인에 대한 MPA(Microsoft 파트너 계약)를 현재 구현 중입니다. 공급자와 재판매인을 보다 잘 지원하기 위해 여러분의 의견을 수렴해 왔으며, 현재 MPA 동의 방법에 대한 대표적인 질문이 새로운 [질문과 대답 페이지](../mpa-indirect-provider-faq.md)에 통합되었습니다.
 
 ### <a name="next-steps"></a>다음 단계
 
-**간접 재판매인:** MPA에 동의하지 않은 경우 [MPA FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)를 검토하고 [여기](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)에 제공된 단계별 지침에 따라 MPA에 동의하세요.
+**간접 재판매인:** MPA에 동의하지 않은 경우 [MPA FAQ](../mpa-indirect-provider-faq.md)를 검토하고 [여기](../microsoft-partner-agreement.md)에 제공된 단계별 지침에 따라 MPA에 동의하세요.
 
-**간접 공급자:** 간접 재판매인과 연락하여 [MPA FAQ](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) 및 [여기](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)에 제공된 단계별 지침을 사용하도록 지원해 주세요.
+**간접 공급자:** 간접 재판매인과 연락하여 [MPA FAQ](../mpa-indirect-provider-faq.md) 및 [여기](../microsoft-partner-agreement.md)에 제공된 단계별 지침을 사용하도록 지원해 주세요.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
@@ -207,8 +207,8 @@ ________________
 ### <a name="next-steps"></a>다음 단계
 
 - 새로운 작업 유형을 활용하여 고객이 DAP를 승인하고 고객이 종료한 이벤트를 추적합니다.  
-- [파트너 센터 활동 기록 얻기 - 파트너 센터 앱 개발자 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [감사 리소스 - 파트너 센터 앱 개발자 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [파트너 센터 활동 기록 얻기 - 파트너 센터 앱 개발자 | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [감사 리소스 - 파트너 센터 앱 개발자 | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
@@ -287,9 +287,9 @@ Azure에 대한 새로운 상거래 경험을 확장하여, 전환 도구를 사
 #### <a name="partner-earned-credit-pec"></a>PEC(파트너 획득 크레딧)
 
 - [파트너 획득 크레딧 이해(가이드)(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [파트너 획득 크레딧 - 개요 | 파트너 센터 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [관리형 서비스를 위한 파트너 획득 크레딧 - 개요 | 파트너 센터 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [파트너 획득 크레딧에 대한 역할, 권한 - 파트너 센터 | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [파트너 획득 크레딧 - 개요 | 파트너 센터 | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [관리형 서비스를 위한 파트너 획득 크레딧 - 개요 | 파트너 센터 | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [파트너 획득 크레딧에 대한 역할, 권한 - 파트너 센터 | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Azure in CSP 모듈에서 파트너 획득 크레딧에 대한 주문형 교육 모듈(eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>새 상거래 환경
@@ -314,6 +314,9 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
+>[!NOTE]
+>파트너의 피드백에 따라 파트너 센터에서 정품 및 서버 구독 소프트웨어 주문의 소프트웨어 및 라이선스 키를 얻을 수 있도록 파트너 센터 이행 기능을 복원 중입니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+
 오늘 [발표](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)한 대로 이제 모든 CSP 파트너가 판매할 수 있도록 상업용 영구 소프트웨어 라이선스를 일반 공급할 수 있음을 알려 드리게 되어 기쁘게 생각합니다. 파트너 센터 CSP 영구 소프트웨어 가격 목록이 다시 게시되었으며 이제 추가 제품 및 지역이 포함되어 있습니다.
 
 또한 오늘부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되었으며, 앞으로 이 기능을 사용하려면 파트너는 고객을 Microsoft 365 관리 센터로 안내하도록 해야 합니다. 자세한 내용 및 다음 단계는 아래를 참조하세요.
@@ -321,12 +324,18 @@ ________________
 ### <a name="next-steps"></a>다음 단계
 
 - 파트너 센터 [가격 및 제품](https://partnercenter.microsoft.com/pcv/sales) 페이지의 **소프트웨어** 섹션에서 **CSP 영구 소프트웨어** 가격 목록을 다운로드합니다. 새로 추가된 제품 및 지역 목록은 [여기](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)에서 찾을 수 있습니다.
-- [ Microsoft 365 관리 센터 영구 소프트웨어 및 제품 라이선스 키 다운로드 방법 문서](https://go.microsoft.com/fwlink/p/?linkid=2152525)를 검토하고 고객이 소프트웨어 및 라이선스 키를 다운로드할 준비가 되면 공유하세요.
+- [ Microsoft 365 관리 센터 영구 소프트웨어 및 제품 라이선스 키 다운로드 방법 문서](/microsoft-365/admin/setup/download-software-licenses-csp)를 검토하고 고객이 소프트웨어 및 라이선스 키를 다운로드할 준비가 되면 공유하세요.
 - [클라우드 솔루션 공급자 프로그램의 영구 소프트웨어](https://partner.microsoft.com/resources/collection/software-in-csp#/) 준비 자료를 검토하세요. 이 [준비 맵](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)을 사용하여 역할에 필요한 정보를 신속하게 찾을 수 있습니다.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
 추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
+
+### <a name="change-log"></a>로그 변경:
+
+- 2021년 1월 19일: 원래 게시 날짜 
+
+- 2021년 3월 5일: 파트너 센터 소프트웨어 및 라이선스 키 이행 기능과 관련된 메모가 맨 위에 추가되었습니다.
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> 미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개 

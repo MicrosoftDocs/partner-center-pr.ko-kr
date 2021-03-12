@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182548"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756400"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -98,7 +98,7 @@ LATAM, 인도 및 APAC의 신흥 시장(APAC 내 선진 시장 제외)으로 제
 위에 나열된 참여 시장에서 CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든 파트너.
 
 ### <a name="details"></a>세부 정보
-프로모션은 CSP용 Office 365 E1의 30% 할인으로 구성되어 있습니다. 2020년 12월 1일에 시작되며 2020년 5월 31일까지 6개월 동안 사용할 수 있습니다. 이 프로모션은 MW 클라우드를 처음 사용하고 최대 500명을 보유한 고객에게만 제공됩니다. 클라우드로 전환하도록 하기 위해 이 프로모션은 LATAM, 인도 및 APAC의 신흥 시장으로 제한됩니다. 
+프로모션은 CSP용 Office 365 E1의 30% 할인으로 구성되어 있습니다. 2020년 12월 1일에 시작되며 2021년 5월 31일까지 6개월 동안 사용할 수 있습니다. 이 프로모션은 MW 클라우드를 처음 사용하고 최대 500명을 보유한 고객에게만 제공됩니다. 클라우드로 전환하도록 하기 위해 이 프로모션은 LATAM, 인도 및 APAC의 신흥 시장으로 제한됩니다. 
 
 #### <a name="offer-details"></a>솔루션 세부 정보
 

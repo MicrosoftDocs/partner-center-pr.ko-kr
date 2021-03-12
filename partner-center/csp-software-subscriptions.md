@@ -1,7 +1,7 @@
 ---
 title: CSP를 통해 소프트웨어 구독 판매
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP 프로그램의 파트너가 파트너 센터를 사용하여 고객의 Azure 예약 인스턴스 및 서버 구독을 구매, 관리, 판매 및 취소하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834859"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475197"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>CSP(클라우드 솔루션 공급자) 프로그램을 통해 소프트웨어 구독 판매
 
@@ -92,18 +92,25 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 ## <a name="activate-and-manage-software-subscriptions"></a>소프트웨어 구독 활성화 및 관리
 
-소프트웨어를 구입한 후에는 고객이 소프트웨어를 다운로드해야 합니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
+소프트웨어를 구매한 후에는 파트너 또는 파트너의 고객이 소프트웨어를 다운로드해야 합니다(파트너 센터를 사용하는 파트너, Microsoft 365 관리 센터를 사용하는 고객). 다음 절차를 사용 하 여이 작업을 수행 합니다. 링크 복사 및 소프트웨어 다운로드와 관련된 위험을 이해하는 것이 중요합니다. 자세한 내용은 [파트너 센터 새 상거래 운영 가이드](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)의 **파트너 센터를 사용하여 고객 소프트웨어 다운로드 및 라이선스 키 가져오기** 를 참조하세요.
 
 >[!NOTE]
->키 및 다운로드에 대한 링크를 얻으려면 관리자 에이전트여야 합니다.
+>키 및 다운로드의 링크를 얻으려면 파트너 센터에서 관리자 에이전트여야 합니다.
 
 1. 고객의 세부 정보 페이지로 이동하여 **소프트웨어** 를 선택합니다. 고객을 대신하여 구입한 모든 소프트웨어 목록이 표시됩니다.
-2. **소프트웨어 제품 키 및 다운로드 링크** 에서 "딥 링크"를 복사하여 고객과 링크를 공유합니다. 고객이 이 링크를 선택하면 제품 키를 다운로드하고 받을 수 있는 Microsoft 관리 센터로 리디렉션됩니다.
+
+2. 제품 **버전**, **언어**, **비트** 를 선택하고 **키 및 다운로드 받기** 를 선택합니다. 
+
+3. **키 받기** 를 선택합니다. 그러면 팝업 대화 상자에 32자리 제품 키가 표시되는데, 이 키를 복사하여 고객에게 전달하면 됩니다. 
+
+4. **다운로드** 를 선택하여 비트를 다운로드합니다. 
+
+5. 고객에게 비트 다운로드 링크를 보내려면 **링크 복사** 를 선택합니다. 
+
+6. 소프트웨어 주문을 **취소** 하고 크레딧을 100% 받을 수도 있습니다(60일 취소 정책 기간 내에 취소하는 경우).
 
 >[!NOTE]
->오직 고객만이 Microsoft 관리 센터에서 제품 키와 다운로드 정보를 볼 수 있습니다. 파트너는 이 정보를 볼 수 없습니다.
-
-파트너 또는 파트너의 고객이 라이선스 키를 다운로드하는 방법을 자세히 알아보려면 [소프트웨어 및 제품 라이선스 키 다운로드](https://go.microsoft.com/fwlink/p/?linkid=2152525)를 참조하세요.
+>오직 고객만이 Microsoft 365 관리 센터에서 제품 키와 다운로드 정보를 볼 수 있습니다(전역 관리자 역할 필요). 파트너는 파트너 센터를 사용하여 이 정보를 볼 수 있습니다.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>서버 구독 다운로드 및 라이선스 키는 Microsoft 365 관리 센터를 통해 고객에게 제공 
 

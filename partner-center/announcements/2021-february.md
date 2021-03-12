@@ -6,19 +6,211 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom:
+- announcement
+- references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541001"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124791"
 ---
 # <a name="february-2021-announcements"></a>2021년 2월 공지
 
 이 페이지에서는 2021년 2월 Microsoft 파트너 센터에 대한 공지 사항을 자세히 설명합니다.
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14">PUT Qualification API는 사용 중지되며 GET은 5월에 사용 중지됨</a>
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021년 2월 25일
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+파트너 센터 API를 사용하여 클라우드 솔루션 공급자 프로그램을 통해 교육, 비영리 및 GCC 제안을 판매하는 파트너
+
+### <a name="details"></a>세부 정보
+
+이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](2020-december.md#1)에 대한 후속 작업입니다. 이 릴리스에서는 새 GET 및 POST Qualification API가 배포되었으며, 그 결과 **기존 PUT Qualification API가 사용 중지되었고 GET Qualification API는 2021년 5월 4일에 사용 중지됩니다**. 이후에 교육 제품을 구매하려면 새 POST 파트너 센터 API를 사용하도록 전환해야 합니다. 마찬가지로, 사전 심사를 마친 비영리 및 GCC 제품을 구매하려면 새로운 GET Qualification API를 사용해야 합니다.
+
+### <a name="next-steps"></a>다음 단계
+
+- 성공적으로 적시에 전환하기 위해 **새 API로 업데이트** 합니다.
+- 운영 준비 상태 리소스인 [향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)에서 **새 파트너 센터 API 변경 내용 및 가이드를 검토** 합니다.
+- 이러한 변경에 대비하는 데 도움이 되도록 **이 정보를 조직 내의 적절한 팀 및 재판매인과 공유** 합니다.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)에 문의하세요.
+
+### <a name="change-log"></a>로그 변경
+
+- 2월: GET 및 PUT 자격의 사용 중단에 대한 업데이트된 타임라인
+- 1월: GET 및 PUT 자격의 향후 사용 중단에 대한 미리 알림
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> 파트너 센터 대량 작업 기능을 사용하여 대규모 공동 판매 거래 공유
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-02-25
+- 보안 및 규정 준수 강화
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+파트너 센터에서 공동 판매하는 파트너
+
+### <a name="summary"></a>요약
+
+이제 공동 판매 파트너는 새 파트너 센터 CSV 파일 대량 작업 기능을 사용하여 기회를 대규모로 내보내고 가져올 수 있습니다.
+
+### <a name="details"></a>세부 정보
+
+이제 공동 판매 파트너는 새 파트너 센터 CSV 파일 대량 작업 기능을 사용하여 기회를 대규모로 내보내고 가져올 수 있습니다. 이를 통해 추천 공유 환경이 통합되고 Partner Sales Connect에서 이동할 때 비즈니스 연속성이 보장됩니다. 파트너 센터 API에 대한 투자의 대안이기도 합니다.
+
+자세한 내용은 다음 섹션에서 언급하는 문서를 참조하세요. 
+
+### <a name="next-steps"></a>다음 단계
+
+[쉼표로 구분된 값(CSV) 파일을 사용하여 공동 판매 기회를 대량으로 작업](https://docs.microsoft.com/partner-center/bulk-operations)을 읽고 대량 작업 기능에 대해 자세히 알아보세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문이 있는 경우 [고객 지원](https://partner.microsoft.com/support/?stage=1)으로 문의하세요.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>새로운 거래 마이그레이션 기능을 사용하여 PSC(Partner Sales Connect)에서 거래 마이그레이션
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-02-25
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+PSC에서 거래하는 파트너
+
+### <a name="summary"></a>요약
+
+PSC(Partner Sales Connect)에서 거래하는 파트너는 거래 마이그레이션 기능을 통해 공동 판매 거래를 마이그레이션하여 파트너 센터 내에서 새로운 공동 판매 환경을 활용할 수 있습니다.
+
+### <a name="details"></a>세부 정보
+
+이제 PSC에서 거래하는 파트너는 파트너 센터 내에서 새로운 공동 판매 환경을 활용할 수 있으며, 거래 마이그레이션 기능을 통해 공동 판매 거래를 파트너 센터로 마이그레이션하면 두 플랫폼에서 작업할 필요가 없습니다.
+
+자세한 내용은 다음 섹션에서 언급하는 문서를 참조하세요.
+
+### <a name="next-steps"></a>다음 단계
+
+[PSC(Partner Sales Connect)에서 마이그레이션하는 파트너를 위한 PC(파트너 센터)의 공동 판매 가이드](https://docs.microsoft.com/partner-center/psc-to-pc)에서 **PSC 거래 마이그레이션** 섹션을 검토하여 거래 마이그레이션에 대해 자세히 알아보세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문이 있는 경우 [고객 지원](https://partner.microsoft.com/support/?stage=1)으로 문의하세요.
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>파트너 주도 공동 판매 거래를 통해 유연성 향상
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-02-25
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+공동 판매가 가능한 솔루션을 보유한 파트너
+
+### <a name="summary"></a>요약
+
+이제 파트너는 파트너 주도 공동 판매 거래를 만든 후 Microsoft 판매자를 초대하여 협업 판매 활동으로 만들 수 있습니다.
+
+### <a name="details"></a>세부 정보
+
+이제 파트너가 파트너 주도 공동 판매 거래를 만든 후 Microsoft 판매자를 초대하여 협업 판매 활동으로 만들 수 있는 옵션이 제공됩니다. 파트너가 Microsoft 판매자의 도움을 명시적으로 요청하기 전에는 거래 세부 정보가 Microsoft 영업 팀과 공유되지 않습니다. 이 시나리오는 Microsoft 판매자 인센티브에도 적합합니다.
+
+거래가 완료되기 전에 언제든지 파트너 주도 공동 판매 거래를 활성 공동 판매로 업그레이드할 수 있습니다.
+
+자세한 내용은 다음 섹션에서 언급하는 문서를 참조하세요.
+
+### <a name="next-steps"></a>다음 단계
+
+[파트너 센터에서 공동 판매 기회 관리](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities) 가이드를 읽고 자세히 알아보세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문이 있는 경우 [고객 지원](https://partner.microsoft.com/support/?stage=1)으로 문의하세요.
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a>CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-02-25
+- 보안 및 규정 준수 강화
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+신규 또는 기존 고객이 다음 섹션에 나열된 국가에 있는 CSP 직접 청구 파트너 및 간접 공급자
+
+### <a name="summary"></a>요약
+
+파트너와 고객이 신뢰를 바탕으로 비즈니스를 운영할 수 있도록 지원하기 위한 노력의 일환으로 Microsoft는 2021년 3월 25일부터 추가 고객 정보를 요청합니다.
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 25일에 다음 조건을 모두 충족하는 파트너에게 영향을 주는 파트너 센터 API 및 UI(사용자 인터페이스)의 향상된 기능이 도입됩니다.
+
+1. 파트너는 Microsoft와 직접 청구 관계를 맺고 있습니다(즉, 파트너가 직접 청구 파트너 또는 간접 공급자임).
+2. 파트너가 다음 국가의 신규 또는 기존 고객과 함께 비즈니스를 수행합니다.
+    - 태국
+    - 베트남
+    - 터키
+    - 폴란드
+    - 남아프리카
+    - 인도
+    - 브라질
+    - 이라크
+    - 미얀마
+    - 남수단
+    - 사우디아라비아
+    - 아랍에미리트연합국
+    - 베네수엘라
+
+조건을 충족하는 파트너는 신규 고객을 등록하거나 기존 고객의 세부 정보를 수정할 때 고객의 **법인 식별자**(고객의 **조직 INN** 이라고도 함) 및 **전화 번호** 를 제출해야 합니다. 이러한 파트너는 고객에 대한 선택적 **중간 이름** 을 입력할 수도 있습니다.
+
+다음 국가에서 신규 또는 기존 고객과 거래하는 파트너는 이미 2020년 11월의 이전 릴리스에 등록되었습니다.
+
+- 아르메니아
+- 아제르바이잔
+- 벨라루스
+- 헝가리
+- 카자흐스탄
+- 키르기스스탄
+- 몰도바
+- 러시아
+- 타지키스탄
+- 우크라이나
+- 우즈베키스탄
+
+전 세계의 나머지 지역에 있는 고객을 대상으로 하는 파트너는 2021년 3월 25일에 고객의 **법인 식별자**, **전화 번호** 및 **중간 이름** 을 선택적 세부 정보로 입력할 수 있습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+- 자세한 지침은 전용 [파트너 컬렉션](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)에서(로그인 필요) 기술 설명서 및 질문과 대답을 검토하세요.
+- 파트너 센터 API 및 웹 사용자 환경을 사용하여 변경 내용을 통합할 준비를 합니다. API/SDK는 테스트에 사용할 수 있습니다.
+- 신규 고객을 등록하거나 기존 고객 세부 정보를 수정하는 경우 추가 데이터를 제출해야 합니다.
+- CPV(제어판 공급업체) 솔루션을 사용하는 경우 CPV에 문의하세요.
+
+### <a name="questions"></a>질문이 있으신가요?
+
+법인 식별자(INN 또는 TIN이라고도 함)와 관련된 질문이 있는 경우 세무 고문 또는 지역 세무서에 문의하세요. Microsoft는 세금 문제에 대한 지침을 제공할 수 없습니다.
+
+Microsoft와의 작업에 대한 지원이 필요한 경우 [서비스 요청을 여세요](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)(로그인 필요).
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a>지금 라이브: MPA(Microsoft 파트너 계약)에 따라 파트너를 위해 DocuSign을 Adobe Sign으로 마이그레이션
@@ -245,7 +437,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 이 항목에 대한 다음 리소스를 검토하고, 해당 정보를 조직의 적절한 관련자와 공유합니다.   
 
 - [Microsoft 365 E5 보안 및 규정 준수](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Microsoft Compliance Manager에서 평가 빌드 및 관리](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [Microsoft Compliance Manager에서 평가 빌드 및 관리](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +477,23 @@ ________________
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>파트너 센터의 조회 모듈을 사용하는 모든 파트너  
 
-- [새 SMB 연결 만들기](https://docs.microsoft.com/partner-center/connect-with-your-customers): Microsoft 판매자와 공동 판매하고 협력하여 SMB 고객과 관련된 인바운드 기회를 얻습니다.
+- [새 SMB 연결 만들기](../connect-with-your-customers.md): Microsoft 판매자와 공동 판매하고 협력하여 SMB 고객과 관련된 인바운드 기회를 얻습니다.
 
-- [조회 권한 확장](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals): 사용자에게 관리자 권한(모든 공동 판매 기회에 대한 액세스 권한) 또는 사용자 권한(사용자의 특정 공동 판매 기회에 대한 액세스 권한)을 부여할 것인지 여부에 따라 사용자의 조회 권한을 할당합니다.
+- [조회 권한 확장](../permissions-overview.md#manage-referrals): 사용자에게 관리자 권한(모든 공동 판매 기회에 대한 액세스 권한) 또는 사용자 권한(사용자의 특정 공동 판매 기회에 대한 액세스 권한)을 부여할 것인지 여부에 따라 사용자의 조회 권한을 할당합니다.
 
-- [파트너 판매 연결 사용자 마이그레이션](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration): 기존 파트너 판매 연결 사용자 권한을 해당 파트너 센터 조회 관리자 및 조회 사용자 권한에 매핑한 다음, 사용자에게 새 권한을 대량으로 적용합니다. 조회 관리에 대한 자세한 내용은 [조회 권한 설명서](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)를 검토하세요.  
+- [파트너 판매 연결 사용자 마이그레이션](../psc-to-pc.md#user-migration): 기존 파트너 판매 연결 사용자 권한을 해당 파트너 센터 조회 관리자 및 조회 사용자 권한에 매핑한 다음, 사용자에게 새 권한을 대량으로 적용합니다. 조회 관리에 대한 자세한 내용은 [조회 권한 설명서](../permissions-overview.md#manage-referrals)를 검토하세요.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>공동 판매 준비 제안이 있는 파트너
 
-- [다른 파트너와 공동 판매](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities): Microsoft의 강력한 파트너 에코시스템에서 다른 파트너를 초대하여 공동 판매하고 추가 고객 대상에 대한 액세스를 잠금 해제합니다.  
+- [다른 파트너와 공동 판매](../manage-co-sell-opportunities.md): Microsoft의 강력한 파트너 에코시스템에서 다른 파트너를 초대하여 공동 판매하고 추가 고객 대상에 대한 액세스를 잠금 해제합니다.  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>상업용 Marketplace에서 Azure 인센티브 적격 솔루션을 사용하는 거래 가능한 제안이 있는 파트너
 
-- [자동 거래 등록 사용](https://docs.microsoft.com/partner-center/register-deals): "이 거래/성공은 Azure Marketplace 또는 AppSource를 통해 거래되었거나 거래될 예정입니다." 확인란을 사용하여 거래 가능한 Microsoft 상업용 Marketplace Azure 제안을 등록함으로써 시간을 절약하고 정확도를 보장합니다. 거래 날짜가 정확하면 Microsoft 상업용 Marketplace에서 거래 등록 정보를 직접 가져옵니다.
+- [자동 거래 등록 사용](../register-deals.md): "이 거래/성공은 Azure Marketplace 또는 AppSource를 통해 거래되었거나 거래될 예정입니다." 확인란을 사용하여 거래 가능한 Microsoft 상업용 Marketplace Azure 제안을 등록함으로써 시간을 절약하고 정확도를 보장합니다. 거래 날짜가 정확하면 Microsoft 상업용 Marketplace에서 거래 등록 정보를 직접 가져옵니다.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
-새로운 기능을 사용하는 데 도움이 필요한 경우 기술 자료의 [조회 섹션](https://docs.microsoft.com/partner-center/referrals) 또는 [공동 판매 환경 갤러리](https://aka.ms/CoSellExperience)(로그인 필요)에서 제공되는 방법 지원 자료를 확인하세요.
+새로운 기능을 사용하는 데 도움이 필요한 경우 기술 자료의 [조회 섹션](../referrals.md) 또는 [공동 판매 환경 갤러리](https://aka.ms/CoSellExperience)(로그인 필요)에서 제공되는 방법 지원 자료를 확인하세요.
 
 지원이 필요한 경우 [파트너 지원 팀을 통해 티켓을 열 수 있습니다](https://partner.microsoft.com/support/?stage=1).
 
@@ -319,7 +511,7 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
-이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](https://docs.microsoft.com/partner-center/announcements/2020-december#1)에 대한 후속 작업입니다. 이 릴리스의 일환으로 새 GET 및 POST 자격 API가 배포되었으며, 그 결과 **기존 PUT 자격 API 파트너 센터 API는 2021년 2월 25일, GET 자격 API는 2021년 5월 4일에 사용 중지됩니다**. 이 시점에서 교육 제안을 구매하려면 새 POST 파트너 센터 API를 사용하고, 사전 자격으로 한정되는 비영리 및 GCC 제안을 구매하려면 새 GET 자격 API를 사용하도록 전환해야 합니다.
+이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](./2020-december.md#1)에 대한 후속 작업입니다. 이 릴리스의 일환으로 새 GET 및 POST 자격 API가 배포되었으며, 그 결과 **기존 PUT 자격 API 파트너 센터 API는 2021년 2월 25일, GET 자격 API는 2021년 5월 4일에 사용 중지됩니다**. 이 시점에서 교육 제안을 구매하려면 새 POST 파트너 센터 API를 사용하고, 사전 자격으로 한정되는 비영리 및 GCC 제안을 구매하려면 새 GET 자격 API를 사용하도록 전환해야 합니다.
 
 ### <a name="next-steps"></a>다음 단계
 

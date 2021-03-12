@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705014"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514088"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
@@ -36,6 +36,9 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
+>[!NOTE]
+>파트너의 피드백에 따라 파트너 센터에서 정품 및 서버 구독 소프트웨어 주문의 소프트웨어 및 라이선스 키를 얻을 수 있도록 파트너 센터 이행 기능을 복원 중입니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+
 현재 파트너는 CSP 소프트웨어 주문에 대한 소프트웨어 다운로드 및 라이선스 키의 처리에 파트너 센터 또는 Microsoft 365 관리 센터 중 하나를 사용할 수 있습니다. **2021년 1월 19일** 부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되고 이 기능을 사용하려면 파트너는 고객에게 **Microsoft 365 관리 센터** 를 사용하도록 안내합니다. 파트너 센터 내의 고객 소프트웨어 페이지에는 고객 라이선스 및 소프트웨어 다운로드를 얻도록 고객을 안내할 수 있는 Microsoft 365 관리 센터에 연결되는 "딥 링크"가 제공됩니다. 이 링크를 통해 고객에게 가장 안전하고 효율적인 환경을 제공할 수 있습니다.
 
 소프트웨어 라이선스 키와 다운로드 링크는 매우 소중하고 인기가 많은 지적 자산입니다. 유출될 경우 활성화 제한이 빠르게 삭제되어 고객 및 파트너 환경에 부정적인 영향을 미칠 수 있습니다. 따라서 파트너는 이처럼 중요한 자산을 지키고 고객을 보호할 수 있도록 가장 안전한 기술과 모범 사례를 사용하는 것이 중요합니다.
@@ -54,6 +57,12 @@ Microsoft 365 관리 센터는 구매한 소프트웨어의 배달 보안을 강
 
 이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)에 문의하세요.
 
+### <a name="change-log"></a>로그 변경:
+
+- 2020년 9월 30일: 최초 게시 날짜 
+
+- 2021년 3월 5일: 파트너 센터 소프트웨어 및 라이선스 키 이행 기능과 관련된 메모가 맨 위에 추가되었습니다.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 내용: 보다 나은 파트너 및 고객 환경으로 전환
 
@@ -68,6 +77,9 @@ CSP 및 오픈 프로그램의 모든 파트너
 
 ### <a name="details"></a>세부 정보
 
+>[!NOTE]
+>파트너의 피드백에 따라 파트너 센터에서 정품 및 서버 구독 소프트웨어 주문의 소프트웨어 및 라이선스 키를 얻을 수 있도록 파트너 센터 이행 기능을 복원 중입니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+
 Microsoft CSP 프로그램은 기하급수적으로 성장하고 있으며, 현재 90,000개가 넘는 회사가 참여하고 있습니다. 이 프로그램은 소기업과 중견 기업 그리고 새로운 상거래 환경의 소규모 기업 고객을 위한 주요 파트너 영업 활동입니다. 오늘 우리는 이 모멘텀을 기반으로 CSP 프로그램의 파트너를 위해 기회를 확장하고 있다고 발표했습니다. 자세한 내용은 [파트너 블로그 게시물](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)을 참조하세요.
 
 ### <a name="next-steps"></a>다음 단계
@@ -80,6 +92,11 @@ Microsoft CSP 프로그램은 기하급수적으로 성장하고 있으며, 현�
 
 이 알림과 관련된 질문은 [파트너 센터 지원](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)에 문의하세요.
 
+### <a name="change-log"></a>로그 변경:
+
+- 2020년 9월 30일: 최초 게시 날짜
+
+- 2021년 3월 5일: 파트너 센터 소프트웨어 및 라이선스 키 이행 기능과 관련된 메모가 맨 위에 추가되었습니다.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Azure 플랜을 위한 파트너 간의 새 구독 전환 도구의 가용성 
