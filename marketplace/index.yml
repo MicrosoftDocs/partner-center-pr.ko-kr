@@ -4,17 +4,17 @@ summary: 온라인 스토어에서 Microsoft 파트너로부터 솔루션, 애�
 metadata:
   title: Microsoft 마켓플레이스 고객 설명서 시작
   description: 온라인 스토어에서 Microsoft 파트너로부터 솔루션, 애플리케이션 및 서비스를 찾고 구매하는 방법을 알아봅니다.
-  ms.service: marketplace
+  ms.service: marketplace-customer
   ms.topic: landing-page
   author: JasonWHowell
   ms.author: jasonh
-  ms.date: 11/17/2020
-  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
-  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+  ms.date: 03/12/2021
+  ms.openlocfilehash: febc75e7dde3441ba96436a85b713d8a03796f21
+  ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 11/21/2020
-  ms.locfileid: "95006925"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "103412542"
 landingContent:
 - title: Microsoft AppSource
   linkLists:
