@@ -1,17 +1,17 @@
 ---
 title: 전송 자격 – 청구 계정 간에 구독을 전송 하기 위한 지침 Azure Marketplace
 description: Azure Portal에서 청구 계정 간에 구독을 전송 하기 전에 상업적 검사에 대 한 지침입니다.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: a6a3c8954643ea982ae5107ae417a900ed51e77d
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007350"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412559"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>청구 계정 간 구독에 대 한 자격 전송
 

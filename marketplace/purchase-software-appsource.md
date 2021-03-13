@@ -1,17 +1,17 @@
 ---
 title: Microsoft AppSource에서 SaaS 제품을 구매 하는 방법
 description: Microsoft AppSource의 Microsoft 파트너에서 SaaS (software as a service) 앱을 구매 하는 방법을 알아봅니다.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007345"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412695"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource에서 SaaS 앱을 구매 하는 방법
 
@@ -54,4 +54,4 @@ SaaS 앱을 구매 하려면 다음이 필요 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 
-- [Microsoft AppSource 이란?](appsource-overview.md)
+- [Microsoft AppSource란?](appsource-overview.md)

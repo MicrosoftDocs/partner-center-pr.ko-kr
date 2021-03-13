@@ -1,17 +1,17 @@
 ---
 title: Microsoft AppSource 개요
 description: Microsoft AppSource 온라인 스토어 및 소프트웨어 및 솔루션의 카탈로그를 찾고 확장 하는 방법에 대해 알아봅니다.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
-ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
+ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "98759862"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412525"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource란?
 

@@ -1,17 +1,17 @@
 ---
 title: Azure Portal에서 개인 Azure Marketplace 만들기 및 관리
 description: Azure Portal에서 개인 Azure Marketplace (미리 보기)를 만들고 관리 하는 방법에 대해 알아봅니다. 관리자는 개인 Azure Marketplace (미리 보기)를 사용 하 여 사용자가 사용할 수 있는 타사 솔루션을 제어할 수 있습니다.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757077"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412712"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure Portal에서 개인 Azure Marketplace 만들기 및 관리
 
@@ -30,7 +30,7 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 >[!IMPORTANT]
 > 개인 Azure Marketplace 관리에 대 한 액세스는 IT 관리자가 Marketplace 관리자 역할이 할당 된 경우에만 사용할 수 있습니다.
 
-### <a name="prerequisites"></a>사전 요구 사항
+### <a name="prerequisites"></a>전제 조건
 
 이러한 필수 구성 요소는 사용자에 게 Marketplace 관리자 역할을 할당 하 여 테 넌 트 범위에서 사용자에 게 할당 해야 합니다.
 

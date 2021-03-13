@@ -1,17 +1,17 @@
 ---
 title: Microsoft AppSource 및 Azure Marketplace에 대 한 환불 정책
 description: Microsoft AppSource 및 Azure Marketplace에서 판매 되는 제품에 대 한 환불 정책에 대해 알아봅니다.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: article
 author: anbene
 ms.author: jeweber
 ms.date: 11/20/2020
-ms.openlocfilehash: 28792f2666f8d7fd2171002dc71b62b151b44c7b
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007399"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412678"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource 및 Azure Marketplace에 대 한 환불 정책
 

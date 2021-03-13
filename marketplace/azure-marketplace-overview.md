@@ -1,17 +1,17 @@
 ---
 title: Azure Marketplace 개요
 description: Azure Marketplace online 스토어 및 소프트웨어 및 솔루션을 찾고 사용해 볼 수 있는 방법에 대해 알아봅니다.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182531"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412593"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Marketplace란 무엇인가요?
 
