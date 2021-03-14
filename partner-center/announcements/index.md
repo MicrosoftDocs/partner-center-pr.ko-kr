@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619429"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193616"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "102619429"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[OCP(One Commercial Partner) GTM (Go-to Market)에서 Microsoft 상업용 Marketplace로 솔루션 마이그레이션](2021-march.md#6)|3월 12일|
 |기능|[Azure용 CSP(클라우드 솔루션 공급자) 프로그램의 새로운 상거래 경험을 러시아로 확장](2021-march.md#5)|3월 10일|
 |기능|[파트너 센터 소프트웨어 라이선스 키 및 다운로드 이행](2021-march.md#4)|3월 5일|
 |기능|[PSC(Partner Sales Connect)에서 파트너 센터로 거래 마이그레이션](2021-march.md#3)|3월 5일|
@@ -47,7 +48,7 @@ ms.locfileid: "102619429"
 |최신 작업 공간|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2021-january.md#14)|1월 28일|
 |기능|[MPA(Microsoft 파트너 계약) – 간접 재판매인 업데이트 및 새 FAQ](2021-january.md#13)|1월 27일|
 |기능|[DAP에 대한 두 가지 새로운 작업 유형을 포함하도록 파트너 센터 감사 로그 변경](2021-january.md#12)|1월 25일|
-|기능|[Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대한 변경 사항](2021-january.md#11)|1월 21일|
+|기능|[Azure용 CSP의 새로운 상거래 환경과 관련된 CSP의 Azure 제품 가용성에 대 한 변경 사항](2021-january.md#11)|1월 21일|
 |비즈니스 확장|[이제 클라우드 솔루션 공급자 프로그램에 영구 소프트웨어 일반 공급 가능](2021-january.md#10)|1월 19일|
 |비즈니스 확장|[미리 알림: 파트너 센터 API를 호출하는 파트너에게 API 제한 소개](2021-january.md#9)|1월 19일|
 |제품/시장|[2021년 2월 1일, SCI(보안, 규정 준수 및 ID) 시작](2021-january.md#8)|1월 15일|
