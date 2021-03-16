@@ -1,5 +1,5 @@
 ---
-title: 파트너 센터에서 문제 보고
+title: 파트너 센터 포털 요청 및 진단 도구
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530666"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582039"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>파트너 센터와 관련 된 문제를 보고 하 고 로그 또는 진단 정보를 제출 하는 방법
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>파트너 센터 포털 요청 및 진단 도구
 
 **적용 대상**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530666"
 **적절한 역할**
 
 모든 로그인 된 파트너 센터 사용자는 파트너 지원 요청을 만들 수 있습니다. 사용자는 파트너 센터에 로그인 한 후 제출한 지원 요청만 볼 수 있습니다.
+파트너 센터 포털 오류에 대 한 문제가 있거나 도움이 필요한 경우 파트너 센터 지원팀에 문의 하세요. 문제를 더 빨리 해결할 수 있도록 진단을 보냅니다.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>파트너 센터의 문제 보고
 
