@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412525"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486877"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource란?
 
@@ -21,13 +22,25 @@ AppSource 카탈로그는 SaaS (software as a service) 응용 프로그램, Micr
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource에 필요한 항목 찾기
 
-AppSource는 빠르게 찾고 있는 항목을 찾는 데 도움이 되는 간단한 검색 및 필터링 옵션을 제공 합니다. 페이지 맨 위에 있는 검색 표시줄을 사용 하 여 공급 업체, 제품 이름 또는 키워드로 솔루션을 찾을 수 있습니다. 페이지 맨 위에 있는 필터를 사용 하 여 무료 평가판 또는 시험 사용, 가격 책정 모델 (무료 또는 유료) 및 등급을 기준으로 결과의 범위를 좁힐 수 있습니다.
+AppSource는 원하는 항목을 빠르게 찾을 수 있도록 간단한 검색 및 필터링 옵션을 제공 합니다. 페이지 맨 위에 있는 **검색** 표시줄을 사용 하 여 공급 업체, 제품 이름 또는 키워드로 솔루션을 찾을 수 있습니다.
 
-가장 왼쪽에 있는 창에서 제품 유형, 범주 및 산업 목록을 기반으로 결과를 필터링 할 수 있습니다. AppSource 제품 유형은 Microsoft 365 및 Power Apps와 같은 제품을 기반으로 합니다. 범주는 공동 작업 및 마케팅과 같은 비즈니스 기능을 기반으로 합니다. 농업 및 제조와 같은 산업 목록에서 선택할 수도 있습니다.
+[![Microsoft Appsource 방문 페이지를 표시 합니다.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+[앱 갤러리](https://appsource.microsoft.com/marketplace/apps)를 탐색할 때 페이지 맨 위에 있는 필터를 사용 하 여 무료 평가판 또는 시험 사용, 가격 책정 모델 (무료 또는 유료) 및 고객 등급을 기준으로 결과의 범위를 좁힐 수 있습니다.
+
+가장 왼쪽에 있는 창에서 제품 유형, 범주 및 산업 목록을 기반으로 결과를 필터링 할 수 있습니다. AppSource 제품 유형은 Microsoft 365, Dynamics 365 및 전원 플랫폼과 같은 제품을 기반으로 합니다. 범주는 판매, 공동 작업, 마케팅 등의 비즈니스 기능을 기반으로 합니다. 금융 서비스, 의료 및 배포와 같은 산업 목록에서 선택할 수도 있습니다.
+
+## <a name="microsoft-preferred-solutions"></a>Microsoft 기본 솔루션
+
+카탈로그를 검색 하거나 필터링 할 때 결과에는 Microsoft 기본 설정 솔루션이 포함 될 수 있습니다 .이 솔루션은 앱 카드의 오른쪽 아래에 있는 기본 솔루션 배지 또는 제품 세부 정보 페이지의 배지를 통해 식별 됩니다.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="AppSource 기본 설정 공급자 배지를 표시 합니다.":::
+
+선호 하는 솔루션은 Microsoft 전문가 팀에서 선택 하며, 범주, 산업 또는 업계 수직에서 특정 고객의 요구를 해결 하기 위해 심층적이 고 검증 된 전문 지식과 기능을 제공 하는 Microsoft 파트너에 의해 게시 됩니다.
 
 ## <a name="take-action-on-a-listing"></a>목록에서 작업을 수행 합니다.
 
-앱 _결과_ 에서 앱을 선택 하면 해당 앱에 대 한 목록 페이지가 나타납니다. AppSource의 모든 목록은 다음 목록 옵션 중 하나 이상을 지원 합니다.
+앱 *결과* 에서 앱을 선택 하 여 해당 앱에 대 한 목록 페이지를 표시 합니다. 목록에서 다음 중 하나 이상을 선택 하 여 작업을 수행 합니다.
 
 - **지금 다운로드**: 솔루션을 즉시 구입 합니다.
 - **시험** 사용해 보세요. 큐 레이트 데모를 살펴보세요. 시험 사용은 프로덕션 데이터 또는 환경을 사용 하지 않지만 솔루션이 비즈니스 요구를 충족 하는지 여부를 확인할 수 있습니다.

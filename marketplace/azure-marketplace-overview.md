@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412593"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486948"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Marketplace란 무엇인가요?
 
-Azure Marketplace은 업계 최고의 기술 회사에서 빌드된 수천 개의 IT 소프트웨어 응용 프로그램 및 서비스를 포함 하는 온라인 스토어입니다. Azure Marketplace에서는 새 솔루션을 구축 하 고 클라우드 인프라를 관리 하는 데 필요한 소프트웨어와 서비스를 찾고, 시도 하 고, 구입 하 고 배포할 수 있습니다. 카탈로그는 다양 한 산업 및 기술 영역, 무료 평가판 및 Microsoft 파트너의 컨설팅 서비스에 대 한 솔루션을 포함 합니다.
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) 은 업계 최고의 기술 회사에서 빌드된 수천 개의 IT 소프트웨어 응용 프로그램 및 서비스를 포함 하는 온라인 스토어입니다. Azure Marketplace에서는 새 솔루션을 구축 하 고 클라우드 인프라를 관리 하는 데 필요한 소프트웨어와 서비스를 찾고, 시도 하 고, 구입 하 고 배포할 수 있습니다. 카탈로그는 다양 한 산업 및 기술 영역, 무료 평가판 및 Microsoft 파트너의 컨설팅 서비스에 대 한 솔루션을 포함 합니다.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Azure Marketplace에서 필요한 항목을 찾습니다.
 
-이름으로 카탈로그를 검색 하거나 분석, 보안, 네트워킹, 저장소, DevOps 등의 범주를 찾아봅니다. Azure Marketplace는 소프트웨어 조달 및 IT 관리 (다양 한 가격 책정 옵션 및 여러 배포 방법 포함)를 간소화 하 여 고유한 비즈니스 요구를 충족 하는 유연성을 제공 합니다. 또한 표준 계약 계약, 통합 된 청구 및 송장, 중앙 집중식 구독 관리를 통해 조달을 간소화 합니다.
+Azure Marketplace은 찾고 있는 항목을 빠르게 찾을 수 있도록 간단한 검색 및 필터링 옵션을 제공 합니다. 페이지 맨 위에 있는 검색 표시줄을 사용 하 여 공급 업체, 제품 이름 또는 키워드로 솔루션을 찾을 수 있습니다.
 
-Azure Marketplace 카탈로그는 온라인 스토어와 Azure Portal를 통해 사용할 수 있습니다.  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="앱 또는 컨설팅 서비스를 찾아볼 지 여부를 선택할 수 있는 주 Azure Marketplace 창을 표시 합니다.":::
 
-### <a name="search-the-online-store"></a>온라인 저장소 검색
+앱 갤러리를 탐색할 때 맨 위에 있는 필터를 사용 하 여 평가판 또는 시험 사용, 운영 체제, 게시자, 가격 책정 모델 또는 제품 유형의 가용성에 따라 결과의 범위를 좁힐 수 있습니다.
 
-[온라인 스토어](https://azuremarketplace.microsoft.com/) 를 방문 하 고 위쪽에서 **앱** 또는 **컨설팅 서비스** 를 찾아볼 지를 선택 합니다. 여기에서 구매한 앱은 Azure Marketplace에 배포 됩니다.
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Azure Marketplace 창의 맨 위에 필터를 표시 합니다.":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Azure Marketplace에서 앱 또는 컨설팅 서비스를 찾아볼 지를 선택 합니다.":::
+가장 왼쪽에 있는 창에서 분석, 보안, 네트워킹, 저장소 및 DevOps와 같은 범주로 카탈로그를 필터링 할 수 있습니다. 범주를 선택 하 여 사용 가능한 하위 범주를 확인 합니다.
 
-화면 맨 위에 있는 검색 표시줄 또는 제품 범주 (위에 표시 되지 않음)를 사용 하 여 요구에 맞는 완벽 한 도구를 찾을 수 있습니다.
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="하위 범주가 있는 범주를 표시 합니다.":::
 
-컨설팅 서비스는 Azure Portal 아니라 온라인 저장소 에서만 사용할 수 있습니다.
+Azure Marketplace는 소프트웨어 조달 및 IT 관리 (다양 한 가격 책정 옵션 및 여러 배포 방법 포함)를 간소화 하 여 고유한 비즈니스 요구를 충족 하는 유연성을 제공 합니다. 또한 표준 계약 계약, 통합 된 청구 및 송장, 중앙 집중식 구독 관리를 통해 조달을 간소화 합니다. Azure Marketplace 카탈로그는 온라인 스토어와 Azure Portal를 통해 사용할 수 있습니다.
 
-### <a name="search-in-the-azure-portal"></a>Azure Portal 검색
+## <a name="microsoft-preferred-solutions"></a>Microsoft 기본 솔루션
+
+카탈로그를 검색 하거나 필터링 할 때 결과에는 Microsoft 기본 설정 솔루션이 포함 될 수 있습니다 .이 솔루션은 앱 카드의 오른쪽 아래에 있는 기본 솔루션 배지 또는 제품 세부 정보 페이지의 배지를 통해 식별 됩니다.
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Azure Marketplace 기본 설정 공급자 배지를 표시 합니다.":::
+
+선호 하는 솔루션은 Microsoft 전문가 팀에서 선택 하며, 범주, 산업 또는 업계 수직에서 특정 고객의 요구를 해결 하기 위해 심층적이 고 검증 된 전문 지식과 기능을 제공 하는 Microsoft 파트너에 의해 게시 됩니다.
+
+## <a name="search-in-the-azure-portal"></a>Azure Portal 검색
 
 Azure Portal에서 **+ 리소스 만들기** 를 선택 하거나 "마켓플레이스"를 검색 합니다. 그런 다음 왼쪽의 범주를 찾아보거나 필터 함수를 포함 하는 검색 표시줄을 사용 합니다.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Azure Portal에서 앱을 선택 합니다.":::
 
+컨설팅 서비스는 Azure Portal 아니라 온라인 저장소 에서만 사용할 수 있습니다.
+
 ## <a name="take-action-on-a-listing"></a>목록에서 작업을 수행 합니다.
 
-Azure Marketplace의 모든 목록은 다음 작업 중 하나 이상을 지원 합니다.
+목록에서 다음 중 하나 이상을 선택 하 여 작업을 수행 합니다.
 
 - **지금 다운로드** – 솔루션을 즉시 구입 합니다.
 - **시험** 사용해 보세요. 큐 레이트 데모를 살펴보세요. 테스트 드라이브에는 구성이 필요 하지 않습니다. 프로덕션 데이터 또는 환경을 사용 하지 않고도 솔루션이 비즈니스 요구를 충족 하는지 확인할 수 있습니다.
