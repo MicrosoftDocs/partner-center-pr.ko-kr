@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705048"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514105"
 ---
 # <a name="december-2020-announcements"></a>2020년 12월 공지
 
@@ -274,6 +274,9 @@ ______________
 
 ### <a name="details"></a>세부 정보
 
+>[!NOTE]
+>파트너 피드백으로 인해 영구 및 서버 구독 소프트웨어 주문을 위한 소프트웨어 및 라이선스 키를 획득할 수 있는 파트너 센터 이행 기능을 복원하고 있습니다. 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+
 CSP 프로그램에 등록된 모든 파트너는 **2021년 1월 19일** 부터 CSP를 통해 온-프레미스 배포에 대한 상업용 영구 소프트웨어 라이선스를 판매할 수 있습니다. 이를 통해 디지털 혁신의 일환으로 필요한 라이선스 유연성이 고객에게 제공됩니다.
 
 동일한 날짜에 다음 사항도 수행됩니다.
@@ -301,6 +304,12 @@ CSP 프로그램에 등록된 모든 파트너는 **2021년 1월 19일** 부터 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
 이러한 제품에 대한 추가 질문은 관련 Yammer 커뮤니티를 확인하세요.
+
+### <a name="change-log"></a>로그 변경:
+
+- 2020년 12월 17일: 최초 게시 날짜 
+
+- 2021년 3월 5일: 파트너 센터 소프트웨어 및 라이선스 키 이행 기능의 복구와 관련된 메모가 맨 위에 추가되었습니다.
 
 ______________
 
