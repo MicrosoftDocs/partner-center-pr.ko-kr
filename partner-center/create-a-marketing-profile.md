@@ -1,72 +1,52 @@
 ---
 title: 판매 잠재 고객 확보하기 - 비즈니스 프로필 만들기
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft에서 판매 잠재 고객을 확보하는 방법에 대해 알아봅니다. 핵심은 파트너 센터에서 비즈니스 프로필을 만들어 고객이 귀하를 쉽게 찾을 수 있도록 하는 것입니다.
 author: rajap-ms
 ms.author: rajap
-ms.localizationpriority: high
+ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000447"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570161"
 ---
-<!--
-FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
-FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
-FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
-FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
-FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
--->
-
-
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>비즈니스 프로필을 만들어 Microsoft 판매 잠재 고객을 확보하고 고객이 귀하를 찾을 수 있도록 하세요.
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft 파트너 네트워크 파트너
-- 클라우드 솔루션 공급자 프로그램 파트너
 
 **적절한 역할**
 
-- 계정 관리자
 - 비즈니스 프로필 관리자
-- 글로벌 관리자
 - 조회 관리자
 
 자격을 갖춘 Microsoft 파트너는 비즈니스 요구 사항을 해결하는 고유한 솔루션과 전문 지식을 찾는 고객에게 회사를 소개하는 비즈니스 프로필을 만들 수 있습니다.
 
 Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 명의 고객과 소통합니다. 대부분의 경우 이러한 소통을 통해 파트너에게 잠재 고객의 형태로 추천을 제공합니다. 
 
-이러한 잠재 고객을 얻기 위한 첫 번째 단계는 비즈니스 프로필 만들기입니다. Microsoft는 다음을 통해 Microsoft 제품 및 솔루션 구현을 지원하는 파트너를 찾고 있는 고객에게 이러한 프로필을 보여줍니다.
+비즈니스 프로필을 만드는 것은 추천을 받기 위한 첫 번째 단계입니다. Microsoft는 다음을 통해 Microsoft 제품 및 솔루션 구현을 지원하는 파트너를 찾고 있는 고객에게 이러한 프로필을 보여줍니다.
 
 - **[솔루션 공급자 찾기](https://www.microsoft.com/solution-providers/home) 검색 환경**. 잠재 고객이 파트너 목록을 직접 검색하여 검색 조건을 충족하는 파트너를 찾을 수 있습니다.
 
 - **Microsoft 영업 및 서비스 직원의 소개**. 클라우드 기반 기술 솔루션을 배포하는 데 관심이 있는 잠재 고객은 비즈니스 요구 사항을 충족할 수 있는 전문가를 찾기 위해 Microsoft에 도움을 요청합니다. 그러면 Microsoft 전문가가 잠재 고객을 파트너에게 소개할 수 있습니다.
 
-> [!IMPORTANT]  
-> 파트너의 비즈니스 운영 간소화를 돕기 위해 이 파트너 센터 사이트에서 여러 도구 및 웹 사이트에 걸쳐 분산되어 있었던 기능들이 통합되었습니다. 해당 노력의 일환으로 모든 추천 관련 기능이 파트너 센터로 이동되었으며 Pinpoint 및 C2PC 사이트의 서비스가 중단되었습니다. Microsoft에서 추천을 가져오고 이를 관리하기 위해 이전에 Pinpoint 또는 C2PC를 사용했다면, 계속 추천을 받기 위해서 파트너 센터에서 새로운 비즈니스 프로필을 만들어야 합니다. 더 이상 해당 사이트에서 프로필 가져오기를 지원하지 않습니다. 
-
 ## <a name="create-a-profile"></a>프로필 만들기
 
 > [!NOTE]  
-> 비즈니스 프로필을 만들려면 파트너 센터 계정이 있어야 합니다. 파트너 센터 계정이 없는 경우 [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)를 참조하여 계정을 만드세요. 
+> 비즈니스 프로필을 만들려면 파트너 센터 계정이 있어야 합니다. 파트너 센터 계정이 없는 경우 [파트너 센터 계정 만들기](mpn-create-a-partner-center-account.md)를 참조하여 계정을 만드세요.
 
-사업 허가를 받은 각 지역에 대한 프로필을 만듭니다. 
+사업 허가를 받은 각 지역에 대한 프로필을 만듭니다.
 
-1. **파트너 센터** 메뉴에서 **추천** &gt; **비즈니스 프로필** &gt; 국가/지역 선택 > **[비즈니스 프로필 만들기](https://partnercenter.microsoft.com/pcv/publishing)** 를 선택합니다.
+1. **파트너 센터** 메뉴에서 **추천** &gt; **비즈니스 프로필** &gt; 국가/지역 선택 > **[비즈니스 프로필 만들기](https://partner.microsoft.com/referrals/businessprofiles/)** 를 선택합니다.
 
 2. **비즈니스 프로필 만들기** 페이지에서 지역을 선택한 다음, 프로필 정보를 입력합니다.
    > [!NOTE]  
    >  파트너 센터에서 여러 언어를 지원하지만 이 항목에 언급된 것처럼 설명, 자유 형식 태그 등의 일부 요소는 여러 언어의 텍스트를 포함해야 할 수도 있습니다.
 
-### <a name="partner-information"></a><a href="" id="partner_info"></a>파트너 정보
+### <a name="partner-information"></a>파트너 정보
 
 회사를 소개합니다. 회사 로고, 간략한 설명 및 웹 사이트 링크를 추가합니다. 
 
@@ -74,7 +54,7 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 
 설명은 최대 2500자까지 입력할 수 있습니다. 멋진 설명을 만드는 팁: 
 
--  **간단명료**하게 맨 처음에 나오는 한두 문장에 중요한 내용을 넣습니다. 제목이 고객의 관심을 끌어야 합니다. 파트너 찾기 검색 환경에서 처음 한두 줄이 검색 결과 미리 보기에 표시됩니다.
+-  **간단명료** 하게 맨 처음에 나오는 한두 문장에 중요한 내용을 넣습니다. 제목이 고객의 관심을 끌어야 합니다. 파트너 찾기 검색 환경에서 처음 한두 줄이 검색 결과 미리 보기에 표시됩니다.
 -  **Microsoft 관련 제품에 대한 회사의 경험에 집중합니다**. 추천을 검색하는 고객은 일반적으로 Microsoft 관련 경험이 있는 파트너를 찾습니다.
 -  **글머리 기호를 사용합니다**. 검색하기 쉽도록 정보를 글머리 기호 목록으로 나누어 표시합니다.
 -  **전문 용어를 사용하지 않습니다**. 간단하고 일상적인 언어를 사용하고, 제품 이름으로는 제품이 해결하는 비즈니스 요구 사항 또는 제품을 통해 고객이 달성할 수 있는 작업이나 목표를 나타내는 이름을 붙입니다.
@@ -83,17 +63,17 @@ Microsoft는 마케팅, 영업 및 서비스 활동을 통해 매년 수백만 �
 -  다른 Microsoft 파트너 회사가 귀사의 자회사 또는 계열사이거나, 귀사가 해당 파트너 회사와 파트너 관계로 행동하거나, 공유 작업 기회를 얻기 위해 서로 홍보하기로 한 현재 계약이 있는 경우 외에는 **이름으로 다른 Microsoft 파트너 회사를 지칭하지 않습니다**.
 -  **여러 언어가 있는 지역의 경우** 설명에 여러 언어의 텍스트를 포함하는 방안을 고려합니다.
 
-#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> LinkedIn 회사 페이지: 더 많은 연결 방법
+#### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn 회사 페이지: 더 많은 연결 방법
 
 LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강화하세요. 
 
 이 링크를 포함하면 고객이 LinkedIn 플랫폼을 통해 신속하게 귀사에 대한 더 많은 정보를 볼 수 있습니다.
 
-아직 LinkedIn 회사 페이지가 없는 경우 [지금 만들 수 있습니다](https://www.linkedin.com/company-beta/setup/new/).
+아직 LinkedIn 회사 페이지가 없는 경우 [지금 만들 수 있습니다](https://www.linkedin.com/company/setup/new/).
 
 ### <a name="partner-expertise"></a>파트너 전문 분야
 
-파트너 찾기 검색 도구는 전문 분야 태그를 검색합니다. 이러한 태그를 최적화하면 더 많은 사람이 프로필을 볼 수 있습니다.
+**파트너 찾기** 검색 도구는 전문 분야 태그를 검색합니다. 이러한 태그를 최적화하면 더 많은 사람이 프로필을 볼 수 있습니다.
 
 먼저 파트너 전문 분야 섹션에 고유의 태그를 추가합니다. 추가할 수 있는 태그: 
 
@@ -103,10 +83,11 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 -  **솔루션, 기술 및 기능**. 이러한 태그는 자유 형식이며, 각 파트너의 기능에 맞는 고유한 검색 키워드를 추가할 수 있는 기능을 제공합니다.
 
 검색에 사용되는 기타 태그:
--  **역량 태그**는 파트너가 획득한 명칭으로써 회사의 능력을 보여줍니다.
--  **보증 태그**는 Microsoft 또는 파트너와 함께 일한 고객이 파트너의 실력을 보증할 때 획득할 수 있습니다.
 
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
+-  **역량 태그** 는 파트너가 획득한 명칭으로써 회사의 능력을 보여줍니다.
+-  **보증 태그** 는 Microsoft 또는 파트너와 함께 일한 고객이 파트너의 실력을 보증할 때 획득할 수 있습니다.
+
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
 
 이 설정을 선택하는 것이 좋습니다. 
 
@@ -116,15 +97,15 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 ### <a name="customer-preferences"></a>고객 기본 설정
 
-#### <a name="target-size"></a><a href="" id="#target_size"></a>대상 크기
+#### <a name="target-size"></a>대상 크기
 
 대상 고객 크기를 충족하지 않은 회사의 추천을 옵트아웃할 수 있습니다.
 
 이렇게 하면 함께 일하고 싶은 회사와 일치하는 회사에 더 많은 시간을 투자할 수 있습니다.
 
-#### <a name="locations"></a><a href="" id="#locations"></a> 위치
+#### <a name="locations"></a>위치
 
-지역마다 최대 5개 위치를 추가할 수 있습니다. 이러한 위치는 고객이 근접성을 기준으로 파트너를 검색할 때 표시됩니다.
+지역별로 회사의 주요 위치를 최대 5개까지 추가할 수 있습니다. 이러한 위치는 고객이 근접성을 기준으로 파트너를 검색할 때 표시됩니다.
 
 확인 가능한 공식 회사 위치를 사용하세요. 사업을 진행하고 있는 지역/국가의 중심부에 위치하고 있고 회사의 역량을 가장 잘 나타내는 위치를 선택하세요.
 
@@ -132,9 +113,9 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 추가하는 각 위치는 별도 프로필 페이지가 됩니다. 프로필 페이지를 업데이트할 때 반드시 각 위치에 대해 프로필 페이지를 업데이트해야 합니다.
 
-위치의 주소를 업데이트하려면 먼저 위치를 **삭제**하고 다시 추가해야 합니다.
+위치의 주소를 업데이트하려면 먼저 위치를 **삭제** 하고 다시 추가해야 합니다.
 
-상위 5개 위치에 있고 하나를 변경해야 하는 경우 기존 위치를 먼저 **삭제**하고 새 위치를 추가하세요.
+상위 5개 위치에 있고 하나를 변경해야 하는 경우 기존 위치를 먼저 **삭제** 하고 새 위치를 추가하세요.
 
 ## <a name="review-your-profile"></a>프로필 검토
 

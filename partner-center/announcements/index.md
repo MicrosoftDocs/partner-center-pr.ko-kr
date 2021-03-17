@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193616"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103480999"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "103193616"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 사항에 대한 업데이트](2021-march.md#8)|3월 15일|
+|비즈니스 확장|[이전 공지에 대한 업데이트: Compliance Manager의 추가 기능인 프리미엄 평가](2021-march.md#7)|3월 15일|
 |기능|[OCP(One Commercial Partner) GTM (Go-to Market)에서 Microsoft 상업용 Marketplace로 솔루션 마이그레이션](2021-march.md#6)|3월 12일|
 |기능|[Azure용 CSP(클라우드 솔루션 공급자) 프로그램의 새로운 상거래 경험을 러시아로 확장](2021-march.md#5)|3월 10일|
 |기능|[파트너 센터 소프트웨어 라이선스 키 및 다운로드 이행](2021-march.md#4)|3월 5일|
@@ -39,7 +41,7 @@ ms.locfileid: "103193616"
 |기능|[Microsoft Viva 항목 소개](2021-february.md#7)|2월 12일|
 |제품/시장|[2021년 3월 예정인 Microsoft 365 E3 가격 변경](2021-february.md#6)|2월 11일|
 |제품/시장|[노르웨이 크로네에 대해 업데이트된 라이선스 기반 미리 보기 가격표](2021-february.md#5)|2월 10일|
-|기능|[Compliance Manager의 추가 기능인 프리미엄 평가는 2021년 3월 1일에 실시됩니다.](2021-february.md#4)|2월 5일|
+|기능|[규정 준수 관리자의 추가 기능인 프리미엄 평가는 2021년 3월 1일에 실시됩니다.](2021-february.md#4)|2월 5일|
 |기능|[COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트](2021-february.md#3)|2월 4일|
 |기능|[파트너 센터의 조회 모듈에 대한 새로운 업데이트](2021-february.md#2)|2월 4일|
 |최신 작업 공간|[교육 고객 유효성 검사 프로세스에 사용되는 PUT 검증 API가 2021년 2월 25일에, GET 검증이 2021년 5월 4일에 사용 중단 및 사용 중지](2021-february.md#1)|2월 4일|
