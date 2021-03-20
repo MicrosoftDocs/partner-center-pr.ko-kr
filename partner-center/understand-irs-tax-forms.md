@@ -4,14 +4,16 @@ description: Microsoft에서 제공 하는 세금 양식에 대해 알아보고�
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487876"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712820"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft에서 발급하는 IRS 세금 양식 이해
 
@@ -23,7 +25,7 @@ ms.locfileid: "94487876"
 
 | IRS 세금 형태 | Description | 가용성 |
 |--------------|-------------|--------------|
-|1099-기타, 1099-K | Microsoft의 마켓플레이스 참여를 위해 판매 활동 및/또는 지불 관련 | 인쇄 된 양식은 **1 월 31** 일 이전에 postmarked 되며, .pdf 복사본은 [파트너 센터](https://partner.microsoft.com/dashboard) 에서 사용할 수 있습니다 ( **파트너 센터 계정 설정** **지급 및 세금 > 지급 및 세금 프로필** ). |
+|1099-기타, 1099-K | Microsoft의 마켓플레이스 참여를 위해 판매 활동 및/또는 지불 관련 | 인쇄 된 양식은 **1 월 31** 일 이전에 postmarked 되며, .pdf 복사본은 [파트너 센터](https://partner.microsoft.com/dashboard) 에서 사용할 수 있습니다 ( **파트너 센터 계정 설정** **지급 및 세금 > 지급 및 세금 프로필**). |
 |1042-S | 미국 원천 세금이 적용 되는 귀하에 대 한 지불액과 관련 | 인쇄 된 양식은 **3 월 15** 일 이전에 postmarked 되며, .pdf 복사본은 파트너 센터에서 사용할 수 있습니다 ( **지급 및 세금 > 지급 및 세금 프로필** 의 **파트너 센터 개발자 설정** ).  |
 
 > [!NOTE]
@@ -55,16 +57,16 @@ ms.locfileid: "94487876"
 |------------------------|-----------------------|
 | **200 개 이상의 앱** **$2만** 판매가 적용 되는 해당 세금 연도 (브라질 및 중국에서 판매 된 **판매를 제외** 하 고 Windows 10의 Microsoft Store를 통해 판매를 제외)| **1099-K:**<br/>필터: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**중요:** 1099-K 폼에는 전체 **구매** 금액이 포함 되어 있으며 지불액은 없습니다.| 
 | (I) Minecraft Marketplace의 Windows 10 또는 (ii) 판매에 대 한 Microsoft Store 통해 브라질과 중국에서 만든 (i) 앱 판매에 대해 **최소 $10** 을 받았습니다.<br/><br/>**OR**<br/><br/>해당 세금 년도 (예: 콘테스트 지불 또는 판촉의 지불 또는 판촉)에서 Microsoft의 앱 판매와 관련 되지 않은 지불로 최소 $600을 받았습니다.| **1099-기타:**<br/>지불자: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**중요:** Microsoft에서 받은 지불 금액에 관계 없이 특정 비즈니스 엔터티에 1099-기타 양식이 수신 되지 않습니다.  자세한 내용은 세금 전문가에 게 문의 하세요.| 
-| 위의 항목이 적용 되지 않습니다.| None |
+| 위의 항목이 적용 되지 않습니다.| 없음 |
 | <br/><br/>**앱에서 광고를 판매 하는 미국 개발자 인 경우** |<br/><br/>**다음 양식을 받게 됩니다.** |
 |해당 하는 세금 연도의 앱에서 광고의 **지불에 최소 $600** 을 받았습니다. | **1099-기타:**<br/>지불자: Microsoft Online Inc.<br/>EIN: \* \* \* \* \* 0505<br/><br/>**중요:** Microsoft에서 받은 지불 금액에 관계 없이 특정 비즈니스 엔터티에 1099-기타 양식이 수신 되지 않습니다.  자세한 내용은 세금 전문가에 게 문의 하세요. |
-| 해당 세금 연도의 앱에서 광고의 **지불에서 $600 미만의 지불을** 받았습니다. | None |
+| 해당 세금 연도의 앱에서 광고의 **지불에서 $600 미만의 지불을** 받았습니다. | 없음 |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>미국 외부에 있는 개발자
 
 
-| | |
+| **지원부** | **답변** |
 |---|---|
 | **Microsoft에서 1042-S 양식을 받았습니다. 무엇 인가요?** | Microsoft는 미국 세금 기관에 보고 가능한 것으로 간주 되 고 원천 세금이 적용 되는 수익을 지불 하기 때문에 1042의 양식이 나 양식을 제공 했습니다.  이 보고 요구 사항에는 1042-S 양식이 사용 됩니다. | 
 | **양식에서 어떻게 해야 하나요?** | 일반적으로 사용자가 특정 작업을 수행 하지 않아도 됩니다. 1042-S 폼은 세금 크레딧의 모든 형식에 대해 현지 세금 기관에 적용 하려는 경우 유용할 수 있습니다.  이 항목에 대 한 자세한 내용은 해당 세금 자문 관리자에 게 문의 하세요. | 

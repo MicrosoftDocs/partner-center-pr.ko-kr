@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186657"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712905"
 ---
 # <a name="technical-support-benefits"></a>기술 지원 혜택
 
@@ -58,12 +58,10 @@ ms.locfileid: "102186657"
 Microsoft 파트너 네트워크 멤버 자격의 일부로 파트너는 다음과 같은 기술 지원을 받을 수 있습니다.
 
 
-|                           기술 지원                          |  Action Pack |                                      실버 역량                                      |                                        골드 역량                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Microsoft 기술 지원<br>최근 온-프레미스의 경우 <br>제품만 | 10 인시던트 | 15 개 인시던트                                                                                | 20 개 인시던트                                                                                  |   |
-| 서명 클라우드 지원<br>클라우드 제품에만 해당                   |              | 클라우드 역량:<br>제한 없음<br>         <br>기타 역량:<br>5 개 인시던트         | 클라우드 역량:<br>제한 없음<br>          <br>기타 역량:<br>10 인시던트   
-
-
+| 기술 지원 |  Action Pack | 실버 역량 | 골드 역량 |
+|:---:|:---:|:---:|:---:|
+| Microsoft 기술 지원<br>최근 온-프레미스의 경우 <br>제품만 | 10 인시던트 | 15 개 인시던트  | 20 개 인시던트 |
+| 서명 클라우드 지원<br>클라우드 제품에만 해당 |  | 클라우드 역량:<br>제한 없음<br><br>기타 역량:<br>5 개 인시던트  | 클라우드 역량:<br>제한 없음<br>          <br>기타 역량:<br>10 인시던트  |
 
 * 클라우드 역량에는 보안 역량, 클라우드 Business Applications, 클라우드 플랫폼, 클라우드 생산성, Enterprise Mobility Management, Small 및 Midmarket 클라우드 솔루션이 포함 됩니다.
 

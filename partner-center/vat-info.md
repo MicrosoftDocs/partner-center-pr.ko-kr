@@ -6,12 +6,14 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
+ms.openlocfilehash: c0778ac4ba4d33dc9e60e33f4d158d264a31946e
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755742"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712140"
 ---
 # <a name="value-added-tax-vat-information"></a>값 추가 세금 (VAT) 정보
 
@@ -36,7 +38,7 @@ ms.locfileid: "101755742"
 
 Microsoft는 크레딧을 지원 하지 않으며 다시 청구 됩니다. 구독을 판매 하기 전에 파트너 센터에 [VAT ID 번호를 등록](organization-tax-info.md) 해야 합니다.
 
-### <a name="south-africa"></a>남아프리카
+### <a name="south-africa"></a>남아프리카 공화국
 
 이제 Microsoft는 남부 아프리카에서 파트너가 구매한 디지털 콘텐츠 및 서비스에 표준 VAT를 적용 합니다. 청구서에서 VAT를 제외 하 고이를 직접 관리 하려면 [Microsoft VAT ID 번호를 보내](organization-tax-info.md)파트너 청구 프로필을 업데이트 해야 합니다.
 

@@ -1,7 +1,7 @@
 ---
-title: 고객에 대 한 Azure 지출 예산 설정
+title: 고객에 대한 Azure 지출 예산 설정
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: 고객에 대 한 월간 Azure 지출 예산을 설정 또는 제거 하는 방법과 Azure 지출 데이터를 보고 예산 관련 알림을 설정 하는 방법을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438990"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712752"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>파트너 센터에서 고객에 대 한 월간 Azure 지출 예산 설정, 확인 또는 제거
 
-적용 대상:
+**적절한 역할**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- 관리 에이전트
 
 파트너 센터에서 [고객에 대 한 월간 Azure 지출 예산을 설정할](#set-azure-spending-budget) 수 있습니다. 이렇게 하면 고객이 Azure 지출를 관리할 수 있습니다. 이 옵션을 사용 하면 고객의 Azure 지출를 해당 월의 예산과 비교할 수 있습니다. 또한 고객은 자신의 Azure 지출에 대 한 비용을 청구 하는 데 도움이 됩니다.
 
@@ -48,7 +47,7 @@ Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수
 
 파트너 센터에서 여러 고객에 대 한 *월간 Azure 지출 예산을 설정할* 수 있습니다.
 
-1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
 2. **CSP** 의 왼쪽 메뉴에서 **Azure 지출** 을 선택 합니다.
 
@@ -76,7 +75,7 @@ Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수
 
 파트너 센터에서 고객에 대 한 *월간 Azure 지출 예산을 제거할* 수 있습니다.
 
-1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
 2. **CSP** 의 왼쪽 메뉴에서 **Azure 지출** 을 선택 합니다.
 
@@ -88,7 +87,7 @@ Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수
 
 언제 든 지 *고객의 현재 Azure 지출 및 월별 예산을 추적할* 수 있습니다.
 
-1. [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/)로그인 합니다.
+1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
 2. **CSP** 의 왼쪽 메뉴에서 **Azure 지출** 을 선택 합니다.
 
@@ -126,3 +125,8 @@ Azure 지출 데이터는 *예상치* 이며 *실제 청구 금액은 다를 수
 4. 고객의 **구독** 페이지의 **사용량 기반 구독** 에서 **구독의** 이름을 선택 합니다.
 
 5. 구독 페이지에서 서비스 별로 **항목별 비용** 및 현재 달의 **예상 사용량** 을 검토할 수 있습니다.
+
+
+## <a name="next-steps"></a>다음 단계
+
+- [CSP의 새로운 상거래 환경 - Azure 청구](azure-plan-billing.md)

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031966"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712242"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
@@ -53,7 +53,7 @@ ms.locfileid: "92031966"
 | ProductName | 제품의 이름입니다. |
 | PublisherName | 게시자 이름입니다. |
 | PublisherId | GUID 형식의 게시자 식별자입니다. |
-| SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이 열은 **OfferName**와 동일한 필드입니다. |
+| SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이 열은 **OfferName** 와 동일한 필드입니다. |
 | SubscriptionId | Microsoft 청구 플랫폼에서 사용되는 구독의 고유 식별자입니다. 조정에 사용 되지 않습니다. *이 식별자는 파트너 관리 콘솔의 **구독 ID** 와 동일 하지 않습니다.* |
 | ChargeStartDate | 청구 주기의 시작 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 하루의 시작인 0:00입니다. |
 | ChargeEndDate | 청구 주기의 종료 날짜입니다 (이전 청구 주기에서 이전에 청구 되지 않은 잠재 사용량 데이터의 날짜를 제시 하는 경우 제외). 시간은 항상 일의 끝 인 23:59입니다. |
@@ -64,13 +64,13 @@ ms.locfileid: "92031966"
 | MeterSubCategory | 요금에 영향을 줄 수 있는 Azure 서비스의 유형입니다. |
 | MeterName | 사용 되는 측정기에 대 한 측정 단위입니다. |
 | MeterRegion | 이 열은 MeterRegion이 적용 되 고 채워진 서비스의 지역 내 데이터 센터의 위치를 식별 합니다. |
-| 단위 | 리소스 **이름의**단위입니다. |
+| 단위 | 리소스 **이름의** 단위입니다. |
 | ResourceLocation | 측정기가 실행 되 고 있는 데이터 센터입니다. |
 | ConsumedService | 사용한 Azure 플랫폼 서비스입니다. |
 | ResourceGroup | Azure 솔루션에 관련 된 리소스를 보유 하는 컨테이너를 나타냅니다. |
 | ResourceURI | 사용 되는 리소스의 URI입니다. |
 | ChargeType | 요금 또는 조정의 유형입니다.  |
-| 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
+| UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다.  |
 | BillingPreTaxTotal | 세금 전 총 청구 금액입니다.<br/> _**BillingPreTaxTotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
@@ -79,7 +79,7 @@ ms.locfileid: "92031966"
 | PricingCurrency | 가격표의 통화입니다. |
 | ServiceInfo1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
 | ServiceInfo2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
-| 태그들 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
+| 태그 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
 | AdditionalInfo | 다른 열에서 다루지 않은 추가 정보입니다. |
 | EffectiveUnitPrice | 할인이 나 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
 | PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |
@@ -87,7 +87,8 @@ ms.locfileid: "92031966"
 | EntitlementId | Azure 구독 ID를 나타냅니다. |
 | EntitlementDescription | Azure 구독 ID의 이름을 나타냅니다. |
 | PartnerEarnedCreditPercentage | 줄 항목에 대 한 표시 크레딧을 표시 합니다. 획득 크레딧은 0 또는 15%입니다. |
-
+| CreditPercentage | Azure 사용량 크레딧을 표시 합니다. 획득 크레딧을 0 또는 100%로 설정할 수 있습니다. |
+| CreditType | 신용의 유형입니다. 예를 들어 **Azure 크레딧을 적용 합니다.** |
 >[!NOTE]
 >매일 등급이 지정 되는 사용량은 일반적으로 파트너 센터에 표시 하거나 API를 통해 액세스 하는 데 24 시간이 걸립니다.
 

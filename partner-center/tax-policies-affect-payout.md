@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758497"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712956"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>세금 정책이 Azure Marketplace 지급에 미치는 영향
 
@@ -47,7 +47,7 @@ Microsoft 상업적 marketplace는 전 세계에 도달 했습니다. 트랜잭�
 
 **시나리오 C** – 고객에 게 원천 세금을 적용 하지 않는 게시자 관리 세금 국가의 게시자와 고객 간에 발생 하는 트랜잭션입니다. 고객은 판매 시점에서 세금을 지불 하지 않으며 해당 세금을 지불 하기 위한 게시자의 의무입니다.
 
-국가별 가격 책정 (예: 예정 된 세금 오프셋)에 대 한 자세한 내용은 [상용 marketplace 제품에 대 한 계획 및 가격 책정](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices)을 참조 하세요.
+국가별 가격 책정 (예: 예정 된 세금 오프셋)에 대 한 자세한 내용은 [상용 marketplace 제품에 대 한 계획 및 가격 책정](/azure/marketplace/plans-pricing#custom-prices)을 참조 하세요.
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="지급 process 시나리오 C에 대 한 워크플로를 표시 합니다.":::
 
@@ -77,5 +77,5 @@ Microsoft 상업적 marketplace는 전 세계에 도달 했습니다. 트랜잭�
 
 ## <a name="next-steps"></a>다음 단계
 
-- [게시자 FAQ](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [결제 및 세금 프로필을 만들기 위한 지침](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [게시자 FAQ](/azure/marketplace/marketplace-faq-publisher-guide)
+- [결제 및 세금 프로필을 만들기 위한 지침](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

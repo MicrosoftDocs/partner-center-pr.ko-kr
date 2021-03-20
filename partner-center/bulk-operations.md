@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619395"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712192"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>쉼표로 구분 된 값 (CSV) 파일을 사용 하 여 공동 판매 기회를 위한 대량 작업
 
@@ -74,7 +74,7 @@ Engagement ID|아니요|Engagement ID는 Microsoft 파트너 센터 조회 시�
 고객 국가|예|고객 조직이 있는 국가/지역입니다. [여기]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)에 설명 된 대로 두 문자 국가 코드를 사용 합니다.|US
 고객 D-U-N-S ID|아니요|고객 조직의 DUNS ID를 인출 해 보세요. 이렇게 하면 Microsoft 쪽에서 고객 조직과 빠르게 일치 하 여 더 빠르게 판매자를 할당 하는 데 도움이 됩니다. 이 [웹 사이트](https://www.dnb.com/duns-number/lookup.html)에서 DUNS ID를 무료로 받을 수 있습니다.|81466849
 고객 연락처 이름|개체|이름은 Microsoft 도움말이 필요한 경우에만 필수입니다. 이 거래에 대해 작업 하는 고객 조직의 기본 연락처 이름입니다.|John
-고객 연락처 성|개체|Last name은 Microsoft 도움말이 필요한 경우에만 필수입니다. 이 거래에 대해 작업 하는 고객 조직의 기본 연락처 이름입니다.|Customer
+고객 연락처 성|개체|Last name은 Microsoft 도움말이 필요한 경우에만 필수입니다. 이 거래에 대해 작업 하는 고객 조직의 기본 연락처 이름입니다.|고객
 고객 연락처 전화 번호|개체|전화 번호는 Microsoft 도움말이 필요한 경우에만 필수입니다. 이 거래에 대해 작업 하는 고객 조직의 기본 연락처 전화 번호입니다.|9999999999
 고객 연락처 전자 메일 주소|개체|전자 메일 주소는 Microsoft 도움말이 필요한 경우에만 필수입니다. 이 거래에 대해 작업 하는 고객 조직의 기본 연락처 전자 메일 주소입니다.|john.customer@contoso.com
 파트너 조회 상태|예|회사 관점에서의 거래 상태를 나타냅니다. 조회를 만들거나 수정 하려는 경우에 필요 합니다. 새 거래를 만들려고 하는 경우 **new** 를 사용 합니다. 허용 되는 값은 [여기](/partner/develop/referral-resources#referralstatus)에 설명 되어 있습니다.|활성
@@ -89,7 +89,7 @@ CRM ID|아니요|CRM 시스템의이 특정 조회에 대 한 식별자입니다
 마케팅 캠페인 ID|아니요|이 필드는이 특정 조회를 발생 시킨 마케팅 캠페인을 나타냅니다. 일반적으로 ROI 계산에 사용 됩니다.|BingSummer2020
 참고|아니요|조회와 관련 된 업데이트를 나타내는 자세한 정보|샘플 노트입니다.
 Microsoft 도움이 필요 하세요?|예|Microsoft에서이 공동 판매 요청을 지원 하도록 할지 여부를 지정 합니다.|예
-Microsoft의 특정 도움말|개체|Microsoft에서 도울 수 있는 6 가지 방법 중 하나입니다. 이는 "Microsoft 도움말이 필요 한가요?" 라는 질문에 대해 아니요를 선택 하는 경우에만 적용 됩니다. " <br/> **아래 옵션에 따라 숫자를 입력 하십시오.** <br/><br/> **1**-워크 로드 별 가치 제안  <br/> **2**-고객 기술 아키텍처  <br/> **3**-개념 증명/데모  <br/> **4**-따옴표 및 라이선스  <br/> **5**-판매 후 고객 성공  <br/> **6**-일반 또는 기타|1|
+Microsoft의 특정 도움말|개체|Microsoft에서 도울 수 있는 6 가지 방법 중 하나입니다. 이는 "Microsoft 도움말 필요" 라는 질문에 대해 예를 선택 하는 경우에만 적용 됩니다. " <br/> **아래 옵션에 따라 숫자를 입력 하십시오.** <br/><br/> **1**-워크 로드 별 가치 제안  <br/> **2**-고객 기술 아키텍처  <br/> **3**-개념 증명/데모  <br/> **4**-따옴표 및 라이선스  <br/> **5**-판매 후 고객 성공  <br/> **6**-일반 또는 기타|1|
 Microsoft 영업 팀과 공유|예|이는 Microsoft 영업 팀과 거래 정보를 공유 하는지 여부를 나타내는 것입니다. 이는 "Microsoft 도움말이 필요 한가요?" 라는 질문에 대해 아니요를 선택 하는 경우에만 적용 됩니다. "|예
 Microsoft에 대 한 참고 사항|아니요|Microsoft에서 도움을 받아야 하는 경우 Microsoft에 대 한 특정 참고 사항|Contoso 고객용 POC에 대 한 도움이 필요
 고객/파트너 연락처 공유에 동의|예|고객 연락처 세부 정보를 공유 하 고 회사 직원에 게 거래에 대해 작업 하는 세부 정보를 공유 하는 데 동의 합니다. **이 열에 대해 아니요를 선택 하는 경우에는 거래를 만들거나 업데이트할 수 없습니다.** |예

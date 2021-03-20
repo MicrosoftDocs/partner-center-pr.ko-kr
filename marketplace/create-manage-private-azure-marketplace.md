@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412712"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712769"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure Portal에서 개인 Azure Marketplace 만들기 및 관리
 
@@ -21,7 +21,7 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 
 > [!NOTE]
 > - 개인 Azure Marketplace 테 넌 트 수준에 있으므로 테 넌 트의 모든 사용자에 게 동일한 큐 레이트 목록이 표시 됩니다.
-> - 모든 Microsoft 솔루션 ( [보증 Linux 배포판](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)포함)은 자동으로 개인 Azure Marketplace에 추가 됩니다.
+> - 모든 Microsoft 솔루션 ( [보증 Linux 배포판](/azure/virtual-machines/linux/endorsed-distros)포함)은 자동으로 개인 Azure Marketplace에 추가 됩니다.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Marketplace 관리자 역할 할당
 
@@ -30,7 +30,7 @@ Marketplace 관리자 (할당 된 역할)로 서 승인 된 제안 및 계획을
 >[!IMPORTANT]
 > 개인 Azure Marketplace 관리에 대 한 액세스는 IT 관리자가 Marketplace 관리자 역할이 할당 된 경우에만 사용할 수 있습니다.
 
-### <a name="prerequisites"></a>전제 조건
+### <a name="prerequisites"></a>필수 조건
 
 이러한 필수 구성 요소는 사용자에 게 Marketplace 관리자 역할을 할당 하 여 테 넌 트 범위에서 사용자에 게 할당 해야 합니다.
 
@@ -187,7 +187,7 @@ Az. Portal PowerShell 모듈에 포함 된 cmdlet에 대 한 자세한 내용은
 4. 선택한 후 왼쪽 아래에서 **완료** 를 선택 합니다.
 
 >[!Note]
-> Marketplace에 **항목 추가** 는 타사 제품에 대해서만 사용할 수 있습니다. Microsoft 솔루션 ( [보증 Linux 배포판](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)포함)은 "기본적으로 승인 됨"으로 태그가 지정 되 고 개인 Marketplace에서 관리할 수 없습니다.
+> Marketplace에 **항목 추가** 는 타사 제품에 대해서만 사용할 수 있습니다. Microsoft 솔루션 ( [보증 Linux 배포판](/azure/virtual-machines/linux/endorsed-distros)포함)은 "기본적으로 승인 됨"으로 태그가 지정 되 고 개인 Marketplace에서 관리할 수 없습니다.
 
 ## <a name="edit-items-plans"></a>항목의 계획 편집
 
@@ -249,7 +249,7 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 개인 Azure Marketplace를 사용 하는 경우 Marketplace 관리자가 승인한 요금제를 사용자에 게 표시 합니다.
 
 - 녹색 **승인** 된 알림은 승인 된 파트너 (타사) 제품을 나타냅니다.
-- 파란색 **승인** 된 알림은 승인 된 Microsoft 제품 ( [보증 Linux 배포판](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)포함)을 나타냅니다.
+- 파란색 **승인** 된 알림은 승인 된 Microsoft 제품 ( [보증 Linux 배포판](/azure/virtual-machines/linux/endorsed-distros)포함)을 나타냅니다.
 
 사용자는 승인 되지 않은 제품을 필터링 할 수 있습니다.
 
@@ -304,7 +304,7 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="E A 포털에서 서비스를 제한 하는 방법을 보여 줍니다.":::
 
-2. 특정 Vm만 허용 하는 Azure policy를 만듭니다. Windows Vm에 정책을 적용 하는 방법에 대 한 자세한 내용은 [Azure Resource Manager를 사용 하 여 Windows vm에 정책 적용](https://docs.microsoft.com/azure/virtual-machines/windows/policy)을 참조 하세요.
+2. 특정 Vm만 허용 하는 Azure policy를 만듭니다. Windows Vm에 정책을 적용 하는 방법에 대 한 자세한 내용은 [Azure Resource Manager를 사용 하 여 Windows vm에 정책 적용](/azure/virtual-machines/windows/policy)을 참조 하세요.
 
 개인 Azure Marketplace 특정 제공 및 계획을 제한 하 고 허용 하는 유연성을 향상 시킬 수 있습니다. 최종 사용자에 게 타사 서비스를 배포 하기 전까지 marketplace 갤러리의 배포에 대 한 가용성을 알립니다. 타사 서비스의 배포를 허용 하려면 Azure Marketplace를 EA 포털에서 설정/사용으로 설정 하 고 Azure Portal 합니다.
 
@@ -314,7 +314,7 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>개인 제품 및 개인 Azure Marketplace 간의 차이점은 무엇 인가요?
 
-**개인 제안을** 통해 게시자는 대상 고객 에게만 표시 되는 계획을 만들 수 있습니다. 이렇게 하면 사용자 지정 된 솔루션을 협상 된 가격 책정, 개인 사용 조건 및 특수 한 구성과 개인적으로 공유할 수 있습니다. 자세한 내용은 [상업적 marketplace의 개인 제품](https://docs.microsoft.com/azure/marketplace/private-offers)을 참조 하세요.
+**개인 제안을** 통해 게시자는 대상 고객 에게만 표시 되는 계획을 만들 수 있습니다. 이렇게 하면 사용자 지정 된 솔루션을 협상 된 가격 책정, 개인 사용 조건 및 특수 한 구성과 개인적으로 공유할 수 있습니다. 자세한 내용은 [상업적 marketplace의 개인 제품](/azure/marketplace/private-offers)을 참조 하세요.
 
 관리자는 Azure Portal의 **개인 Azure Marketplace** 를 사용 하 여 사용자가 배포할 수 있는 타사 솔루션을 미리 승인할 수 있습니다. 사용자는 개인 Azure Marketplace를 사용 하 여 규정 준수 제안을 찾고 구매 하 고 배포 하 여 Azure Marketplace 이점을 누릴 수 있습니다. 개인 Marketplace에서 구독 기반 개인 제안을 관리 하려면 Marketplace 관리자에 게 특정 구독에 대 한 "읽기" 이상의 역할이 있어야 합니다.
 
@@ -326,16 +326,16 @@ Marketplace 관리 페이지에 다음 배너 중 하나가 표시 됩니다 .�
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>개인 Azure Marketplace에 사용자 지정 이미지를 포함할 수 있나요?
 
-아니요. 개인 Azure Marketplace를 사용 하면 IT 관리자가 글로벌 Azure Marketplace에서 타사 솔루션을 관리 하 고 curate 할 수 있습니다. 사용자 지정 이미지는 글로벌 Azure Marketplace에 있지 않으므로 IT 관리자는 사용자 지정 이미지를 선택 하 여 선택할 수 없습니다. 사용자 지정 이미지를 공유 하려면 [공유 이미지 갤러리](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)를 사용 합니다.
+아니요. 개인 Azure Marketplace를 사용 하면 IT 관리자가 글로벌 Azure Marketplace에서 타사 솔루션을 관리 하 고 curate 할 수 있습니다. 사용자 지정 이미지는 글로벌 Azure Marketplace에 있지 않으므로 IT 관리자는 사용자 지정 이미지를 선택 하 여 선택할 수 없습니다. 사용자 지정 이미지를 공유 하려면 [공유 이미지 갤러리](/azure/virtual-machines/shared-image-galleries)를 사용 합니다.
 
-1. 단계별 가이드 SIG (공유 이미지 갤러리) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell))를 만듭니다.
-2. SIG 내에서 이미지 정의를 만듭니다. 고객은 OS 상태 필드에 대해 **일반화** 된을 선택 해야 합니다. ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. 관리 되는 이미지를 공유 이미지 갤러리 ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell))로 가져옵니다.
-4. SIG VM 이미지는 하나의 구독에 상주 합니다. 다른 구독에서 사용할 수 있도록 하려면 앱 등록 ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants))을 사용 합니다.
+1. 단계별 가이드 SIG (공유 이미지 갤러리) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell))를 만듭니다.
+2. SIG 내에서 이미지 정의를 만듭니다. 고객은 OS 상태 필드에 대해 **일반화** 된을 선택 해야 합니다. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. 관리 되는 이미지를 공유 이미지 갤러리 ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell))로 가져옵니다.
+4. SIG VM 이미지는 하나의 구독에 상주 합니다. 다른 구독에서 사용할 수 있도록 하려면 앱 등록 ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants))을 사용 합니다.
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>게시자가 Microsoft가 아닌 경우에도 **기본적으로** 몇 가지 제안이 승인 되는 이유는 무엇 인가요?
 
-Microsoft는 Azure에서 Linux 및 오픈 소스 기술을 지원 합니다. [보증 Linux 배포판](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) 은 Azure에서 지원 되 고 가격은 virtual machines에 통합 됩니다. Azure Linux 에이전트는 이미 Azure Marketplace에 미리 설치 되어 있기 때문에 Microsoft 제품 처럼 취급 됩니다. Microsoft 제공은 기본적으로 승인 되므로 보증 Linux 배포판은 개인 Azure Marketplace에서 관리할 수 없으며 기본적으로 승인 됩니다.
+Microsoft는 Azure에서 Linux 및 오픈 소스 기술을 지원 합니다. [보증 Linux 배포판](/azure/virtual-machines/linux/endorsed-distros) 은 Azure에서 지원 되 고 가격은 virtual machines에 통합 됩니다. Azure Linux 에이전트는 이미 Azure Marketplace에 미리 설치 되어 있기 때문에 Microsoft 제품 처럼 취급 됩니다. Microsoft 제공은 기본적으로 승인 되므로 보증 Linux 배포판은 개인 Azure Marketplace에서 관리할 수 없으며 기본적으로 승인 됩니다.
 
 ## <a name="contact-support"></a>지원에 문의
 

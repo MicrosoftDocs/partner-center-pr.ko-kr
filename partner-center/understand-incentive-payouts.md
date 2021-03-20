@@ -9,19 +9,19 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: a66e32a3c9320ac32b0749c67197c6a27574ce75
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022811"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712616"
 ---
 # <a name="view-your-incentives-program-details"></a>성과급 프로그램 세부 정보 보기
 
 **적절한 역할**
 
-- 동기 관리자
-- 동기 사용자
+- 인센티브 관리자
+- 인센티브 사용자
 - 글로벌 관리자
 - MPN 파트너 관리자
 

@@ -1,25 +1,21 @@
 ---
 title: 성과급 프로그램 자격
-description: 성과급 프로그램이 적합 한지 확인 하 여 유료 프로그램을 받을 수 있습니다. 이 프로세스는 프로그램 가이드의 자격 검사를 포함 합니다.
+description: 성과급 프로그램에 대 한 자격 요구 사항을 충족 했는지 확인 합니다. 이 프로세스는 프로그램 가이드의 자격 검사를 포함 합니다.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175225"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712167"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>성과급 프로그램 자격 확인
-
-**적용**대상:
-
-- 파트너 센터
 
 **적절 한 역할**:
 
@@ -36,11 +32,15 @@ ms.locfileid: "92175225"
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. 왼쪽 탐색 창의 **인센티브**에서 **개요**를 선택합니다. **프로그램 개요** 페이지가 열립니다.
+2. 왼쪽 탐색 창의 **인센티브** 에서 **개요** 를 선택합니다. **프로그램 개요** 페이지가 열립니다.
 
 3. 원하는 프로그램을 선택 합니다.
 
-4. **프로그램 세부 정보** 필드에서 **프로그램 가이드**를 선택합니다.
+4. **상태** 필드에서 **자격 요구 사항** 을 선택 합니다.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="스크린샷은 성과급 요구 사항의 예입니다.":::
+
+5. 자격을 달성 하기 위해 선택 취소 된 모든 영역을 완료 해야 합니다. 각 성과급 프로그램에는 고유한 요구 사항 집합이 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 
