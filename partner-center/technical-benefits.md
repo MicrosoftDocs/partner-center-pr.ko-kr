@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022794"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768723"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>TPD (Technical 예약 판매 and Deployment services) 살펴보기 
 
@@ -46,7 +46,7 @@ MPN 연결 된 사용자 계정으로 로그인 하 여 **[TPD (기술 예약 �
 
 TPD (기술 예약 판매 and Deployment Services) 혜택이 자동으로 활성화 되 고 모든 MPN 연결 된 사용자가 사용할 수 있습니다. 
 
-파트너 센터의 기술 혜택을 확인 하려면
+파트너 센터의 기술 혜택을 보려면 다음을 수행 합니다.
 
 1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)MPN 연결 된 계정으로 로그인 합니다. 
 

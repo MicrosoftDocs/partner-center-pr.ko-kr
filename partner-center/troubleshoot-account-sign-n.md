@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756741"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768706"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>계정 설정 또는 MPN 갱신 문제 해결
 
@@ -28,7 +28,7 @@ ms.locfileid: "101756741"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>파트너 구성원 센터에서 마이그레이션하는 경우에는 어떻게 되나요? 회사 정보 필드는 편집할 수 없습니다.
 
-파트너가 파트너 센터에 이미 존재 하 고 있는 경우 (예를 들어 CSP 계정) 읽기 전용 화면이 표시 됩니다. 이 화면에는 파트너 센터에 존재 하는 회사에 대 한 모든 정보가 표시 됩니다.
+파트너가 파트너 센터에 이미 존재 하는 경우 (예: CSP 계정) 읽기 전용 화면이 표시 됩니다. 이 화면에는 파트너 센터에 존재 하는 회사에 대 한 모든 정보가 표시 됩니다.
 
 이 화면에서는 세부 정보를 변경할 수 없습니다. 이것은 의도적 이며 오류가 아닙니다.
 
@@ -41,7 +41,7 @@ ms.locfileid: "101756741"
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-자세한 내용은 [셀프 서비스 등록](/azure/active-directory/users-groups-roles/directory-self-service-signup) 을 참조 하세요.
+자세한 내용은 [셀프 서비스 등록](/azure/active-directory/users-groups-roles/directory-self-service-signup)을 참조 하세요.
 
 ## <a name="you-forgot-your-password"></a>암호를 잊은 경우
 

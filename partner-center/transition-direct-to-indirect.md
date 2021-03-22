@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624309"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768757"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 >[!Note]
 >이 문서는 간접 대리점으로 전환 하기로 결정 한 직접 청구 파트너를 위한 것입니다. 그러나 간접 재판매인으로 등록 하는 것을 명시적으로 결정 하지 않은 경우에도 CSP 직접 청구 파트너 프로그램의 새 [요구 사항을](direct-partner-new-requirements.md) 충족 하지 않는 직접 청구 파트너는 [직접 청구 기능을 제한할](restricted-direct-bill-capabilities.md)때 Microsoft에서 알려줍니다.
@@ -28,7 +28,7 @@ ms.locfileid: "99624309"
 
 기존 직접 청구 테 넌 트를 사용 하 여 간접 재판매인 프로그램에 등록할 수 있습니다.
 
-## <a name="get-started"></a>시작
+## <a name="get-started"></a>시작하기
 
 1. 파트너 센터의 파트너 프로필 및 MPN ID가 최신 상태 인지 확인 합니다.
 
@@ -127,9 +127,9 @@ ms.locfileid: "99624309"
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>직접 청구 파트너로 구매한 고객을 확인 하려면
 
-1. **고객** 선택
+1. **고객** 을 선택합니다.
 
-2. 세부 정보를 볼 고객 선택
+2. 고객을 선택 하 여 세부 정보를 확인 합니다.
 
 3. 이 고객이 직접 청구 파트너로 구매한 경우 제품을 **추가** 하거나 **볼** 수 있는 옵션이 표시 되 고 해당 구독이 표시 됩니다.
 
@@ -162,7 +162,7 @@ ms.locfileid: "99624309"
 
 - 간접 공급자는 고객 테 넌 트에 [위임 된 관리 권한이](customers-revoke-admin-privileges.md) 제공 되지 않습니다. 간접 공급자에 게 위임 된 관리 권한이 필요한 경우 대신 간접 재판매인 초대를 고객에 게 보내야 합니다.
 
-- 대리점 관계가 설정 되 면 간접 공급자는 [M365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 되 고 [비즈니스에 대 한 Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business)됩니다.
+- 대리점 관계가 설정 되 면 간접 공급자가 [Microsoft 365 관리 센터](https://admin.microsoft.com/AdminPortal/Home#/partners) 및 [Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business)의 파트너 관계 페이지에서 고객에 게 CSP 파트너로 표시 됩니다.
 
     > [!IMPORTANT]
     > 혼동 및 있다면 오해을 방지 하기 위해 관계 확장 기능을 사용 하 여 기존 다이렉트 청구서 고객과 간접 공급자 간의 재판매인 관계를 설정 하기 전에 파트너 계약에 따라 직접 청구 고객 으로부터 동의 하 고 동의할 수 있습니다.
@@ -223,7 +223,7 @@ Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 
 
 CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지 않습니다. 대신 간접 대리점은 간접 공급자를 통해 고객에 대 한 구독을 받습니다. 직접 청구 파트너에서 간접 재판매인으로 전환 하는 동안 직접 청구 파트너 인 기존 구독을 간접 공급자에 게 양도 해야 합니다. 파트너 센터 대시보드에서 자체 제공 되는 구독 전송 기능을 사용 하 여이 작업을 수행할 수 있습니다.
 
-### <a name="pre-requisites"></a>필수 구성 요소
+### <a name="prerequisites"></a>사전 요구 사항
 
 - 이 기능은 기존 직접 청구 파트너 테 넌 트를 사용 하 여 간접 재판매인 등록을 완료 한 파트너를 전환 하는 경우에만 사용할 수 있습니다.
 

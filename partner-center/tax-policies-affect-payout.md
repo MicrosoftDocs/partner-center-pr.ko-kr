@@ -3,21 +3,22 @@ title: 세금 정책이 Azure Marketplace 지급에 미치는 영향
 description: 세금 정책이 Azure Marketplace 지급에 미치는 영향에 대해 알아봅니다.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712956"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768825"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>세금 정책이 Azure Marketplace 지급에 미치는 영향
 
 **적절한 역할**
 -    글로벌 관리자
--    사용자 관리자
+-    사용자 관리 담당자
 -    관리 에이전트
 
 ## <a name="introduction"></a>소개

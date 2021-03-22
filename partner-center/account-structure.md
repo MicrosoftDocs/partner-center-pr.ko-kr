@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474277"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768672"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>파트너 센터에는 MPN 파트너에 대 한 두 가지 수준의 계정이 있습니다.
 
@@ -40,7 +40,7 @@ ms.locfileid: "96474277"
 그 아래에 추가 비즈니스 위치가 있을 수 있습니다. 각 위치에는 고유한 MPN ID 또는 PLA (파트너 위치 계정)가 있습니다. 동기 프로그램에 트랜잭션 비즈니스 및 등록을 위한 location MPN ID를 사용 합니다.
 
 - 각 파트너 위치 계정에는 자체의 법적 주소와 기본 연락처가 있을 수 있습니다. 위치는 올바른 주소를 전역 계정 또는 다른 위치와 공유할 수도 있습니다.
-- 설정 위치에서 파트너 위치 계정 목록을 봅니다 **Settings**  ->  **Locations**.
+- 설정 위치에서 파트너 위치 계정 목록을 봅니다   ->  .
 - 모든 위치 계정은 동일한 수준 및 파트너 전역 계정에 있습니다.
 - 계정 관리자는 위치를 추가할 수 있습니다.
 
