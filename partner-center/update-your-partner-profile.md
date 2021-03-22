@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770246"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712599"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>회사 프로필 정보 확인 또는 업데이트 
 
@@ -55,7 +55,7 @@ ms.locfileid: "102770246"
 
 1. 회사 이름/주소 옆의 **업데이트** 를 클릭하고 세부 정보를 변경합니다.
  
-1. **제출** 을 선택하면 법적 ID가 재평가됩니다.
+1. **제출** 을 선택하면 법적 ID가 재평가됩니다. 변경된 사항만 재평가합니다.
 
 1. 확인에 실패하면 [문제 해결](verification-responses.md) 방법을 알아보세요.
 
