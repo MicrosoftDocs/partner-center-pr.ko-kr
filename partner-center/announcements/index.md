@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570178"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712293"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "103570178"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[CSP 상업용 Marketplace 제품 및 적격 제품에 대한 FY21 CSP 인센티브](2021-march.md#12)|3월 18일|
+|기능|[Power BI Premium 제품 이름 지정 및 필수 구성 요소 업데이트](2021-march.md#11)|3월 18일|
+|제품/시장|[Microsoft 365 F3의 3월 가격 업데이트](2021-march.md#10)|3월 16일|
 |효율성 및 스케일링 향상|[파트너 센터를 통해 법적 회사 이름 업데이트](2021-march.md#9)|3월 16일|
 |기능|[CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 사항에 대한 업데이트](2021-march.md#8)|3월 15일|
 |비즈니스 확장|[이전 공지에 대한 업데이트: Compliance Manager의 추가 기능인 프리미엄 평가](2021-march.md#7)|3월 15일|

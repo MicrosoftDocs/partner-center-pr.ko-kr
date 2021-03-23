@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756568"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022726"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>MCID(Microsoft 인증 프로필 ID)를 MPN(Microsoft 파트너 네트워크) 계정에 연결하거나 연결을 해제합니다.
 
@@ -33,8 +33,7 @@ Microsoft 인증을 연결하려면 파트너 조직에 연결된 파트너 센�
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 2. 오른쪽 위 모서리에서 파란색 **내 프로필** 아이콘을 선택합니다.
-3. **내 학습** 필드에서 **파트너 대학 액세스 권한 얻기** 를 선택합니다.
-이제 파트너 대학 계정이 파트너 센터 사용자 계정에 연결됩니다. 평가 결과는 72시간 이내에 파트너 센터 사용자 기술 보고서에 반영됩니다. 새로 통과한 평가 결과가 보고서에 반영될 때까지 7-10일 정도 걸릴 수 있습니다.
+3. **내 학습** 필드에서 **파트너 대학 액세스 권한 얻기** 를 선택합니다. 파트너 센터 계정이 아닌 파트너 대학 계정 자격 증명을 입력해야 합니다. 이제 파트너 대학 계정이 파트너 센터 사용자 계정에 연결됩니다. 평가 결과는 72시간 이내에 파트너 센터 사용자 기술 보고서에 반영됩니다. 새로 통과한 평가 결과가 보고서에 반영될 때까지 7-10일 정도 걸릴 수 있습니다.
 4. 연결을 제거하려면 **액세스 권한 제거** 를 선택합니다.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Microsoft Learning 계정 연결
@@ -47,6 +46,10 @@ Microsoft Learning 계정을 연결하려면 다음 절차를 따르세요.
 
 >[!NOTE]
 >Microsoft Learning 계정 자격 증명이 파트너 대학 계정 자격 증명과 동일한 경우 **email@address 이메일 주소를 사용하여 Microsoft Learning 계정 연결** 을 선택합니다.
+
+## <a name="download-skills-report-microsoft-certification-list"></a>기술 보고서 다운로드(Microsoft 인증 목록)
+세부 정보가 필요한 경우 파트너 센터에서 전역 관리자 또는 MPN 파트너 관리자가 기술 보고서에 액세스하고 다운로드할 수 있습니다. [자세한 내용](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data)은 다음을 참조하세요.
+
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>계정 연결에 대한 질문과 대답
 

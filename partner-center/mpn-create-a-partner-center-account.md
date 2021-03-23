@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터에서 MPN 계정 만들기
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 구성원이 파트너 센터 계정을 만들어 네트워크 혜택 및 역량을 관리하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013693"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570212"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>파트너 센터에서 MPN 계정을 만들어 네트워크 혜택 및 역량 관리
 
@@ -23,7 +23,7 @@ MPN(Microsoft 파트너 네트워크)을 처음 사용하고 MPN ID가 없는 �
 
 ## <a name="prerequisites"></a>전제 조건 
 
-파트너 센터에서 계정을 만들 준비가 되어 시작하려면 다음 항목이 있어야 합니다.  시작하기 전에 다음 항목을 수집하는 데 몇 분 정도 걸릴 수 있습니다.
+파트너 센터에서 계정을 만들 준비가 되면 다음 항목이 있어야 합니다.  시작하기 전에 다음 항목을 수집하는 데 몇 분 정도 걸릴 수 있습니다.
 
 - 회사 업무 이메일 또는 Office 365 회사 계정. 자세한 내용은 [회사 업무 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요. 
  
@@ -40,7 +40,8 @@ MPN(Microsoft 파트너 네트워크)을 처음 사용하고 MPN ID가 없는 �
 
 ## <a name="get-started"></a>시작
 
-1. 회사에서 제공하는 회사 이메일(예: you@yourcompanyname.com)로 시작합니다.
+1. [**시작**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) 페이지에서 you@yourcompanyname.com과 같이 회사에서 제공하는 회사 이메일로 시작합니다.
+
  
     a.  계속하기 위해 확인 코드를 보내므로 이메일 주소는 유효하고 액세스할 수 있어야 합니다.
 

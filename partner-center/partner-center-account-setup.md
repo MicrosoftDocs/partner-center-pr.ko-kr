@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 관리
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 파트너 센터에서 회사의 프로필, 은행 및 세금 정보, 역할, 권한 등을 관리하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235973"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487013"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
@@ -26,7 +26,7 @@ ms.locfileid: "98235973"
 또한 [파트너 센터에 가입하도록 직원 초대](guide-to-migration.md) 및 [새 사용자 추가](create-user-accounts-and-set-permissions.md) 문서도 참조하세요.
 
 >[!NOTE]
->계정 설정 메뉴는 등록된 프로그램에 따라 변경됩니다. 예를 들어, CSP(클라우드 솔루션 공급자 프로그램)의 파트너인 경우 계정 설정에서 Azure 공유 서비스를 관리할 수 있습니다.
+>계정 설정 메뉴는 등록된 프로그램에 따라 변경됩니다. 예를 들어, CSP(클라우드 솔루션 공급자 프로그램)의 파트너인 경우 **계정 설정** 에서 Azure 공유 서비스를 관리할 수 있습니다.
 
 ## <a name="account-management"></a>계정 관리
 
@@ -51,6 +51,20 @@ ms.locfileid: "98235973"
 파트너 탭에는 회사의 등록된 법적 이름 및 주소, 주 연락처 및 비즈니스 위치와 같은 법적 비즈니스 정보가 모두 포함됩니다. CSP 비즈니스를 수행하는 파트너를 위한 재판매인 탭에는 **고객 지원 프로필** 이 포함되어 있습니다.
 
 회사에서 CSP에 참여하지 않는 경우 기본 보기에 **고객 지원 프로필** 을 포함하는 **파트너** 탭만 표시됩니다.
+
+### <a name="when-you-are-in-more-than-one-account"></a>둘 이상의 계정에 있는 경우
+
+둘 이상의 계정에 속할 수 있습니다. 왼쪽 탐색 메뉴에 "계정 선택기"가 있으면 여러 계정에 속해 있음을 알 수 있습니다.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="계정 선택기 확인":::
+
+계정 선택기가 표시되지 않으면 한 계정에만 속해 있는 것입니다. 
+
+이 선택기를 클릭하면 귀하가 속한 모든 계정이 목록으로 나타납니다. 그중 하나를 클릭하여 해당 계정으로 전환할 수 있습니다. 이후 표시되는 모든 항목은 해당 계정의 컨텍스트에 표시됩니다.  
+
+아래 예제에서 로그인한 사용자는 세 개의 강조 표시된 계정에 속합니다. 사용자는 계정을 클릭하여 이들 사이를 전환할 수 있습니다.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="속해 있는 계정":::
 
 ## <a name="organization-profile"></a>조직 프로필
 
@@ -90,7 +104,7 @@ ms.locfileid: "98235973"
 
 ## <a name="user-management"></a>사용자 관리
 
-파트너 센터에서 수행하는 작업과 업데이트하거나 볼 수 있는 영역은 역할 및 해당 역할에 연결된 권한에 따라 다릅니다. 예를 들어 인센티브 관리자가 아닌 경우 데이터를 볼 수는 있지만 인센티브 페이지의 내용을 변경할 수 없습니다.
+파트너 센터에서 수행하는 작업과 업데이트하거나 볼 수 있는 영역은 역할 및 해당 역할에 연결된 권한에 따라 다릅니다. 예를 들어 인센티브 관리자가 아닌 경우 데이터를 볼 수는 있지만 인센티브 페이지의 내용을 변경할 수 없습니다. [역할 및 사용 권한](permissions-overview.md)에 대해 자세히 알아보세요.
 
 ### <a name="update-preferred-email"></a>기본 설정 이메일 업데이트
 
