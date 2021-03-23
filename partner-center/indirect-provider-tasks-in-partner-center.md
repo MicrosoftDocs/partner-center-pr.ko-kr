@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567052"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880772"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 간접 재판매인과 파트너
 
@@ -98,7 +98,7 @@ ms.locfileid: "94567052"
 
 - 구독 정보 페이지의 **재판매인 (MPN ID)** 필드에 사용할 재판매인을 추가 합니다. 이를 통해 재판매인은 적절 한 성과급을 받게 됩니다.
 
-| **이를 수행 하려면** | **단계** | **Where** |
+| **이를 수행 하려면** | **수행할 작업** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | 재판매인이 고객 계정을 관리 하 고 관리자 권한을 보유 하 여 구독을 관리할 수 있도록 설정 | 새 고객을 추가할 때 대리점을 고객 계정에 연결 | **새 고객** 페이지에서 |
 | 재판매인이 Azure 고객의 계정을 관리할 수 있도록 설정|새 고객을 추가 하는 경우 Azure 고객 계정에 재판매인 연결|**Azure 서비스 포털** 에서 [사용자 설정](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) 을 선택 하 여 간접 재판매인 **테 넌 트 소유자** 권한을 부여 합니다.|
@@ -168,6 +168,10 @@ ms.locfileid: "94567052"
 7. 완료 되 면 **제출** 을 선택 합니다.
 
 ## <a name="next-steps"></a>다음 단계
+
+Microsoft 파트너 규약에 대 한 질문에 대 한 답변 찾기
+
+- [간접 공급자가 Microsoft 파트너 규약을 채택 하는 데 도움을 주는 방법-FAQ](mpa-indirect-provider-faq.md)
 
 고객 계정 및 구독 관리에 대 한 자세한 내용은 다음을 참조 하세요.
 
