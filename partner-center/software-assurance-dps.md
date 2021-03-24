@@ -9,23 +9,23 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926647"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028231"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 
 Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위한 배포 전 계획을 제공 하는 것을 보상 합니다. 이 프로그램에 참여 하면 더 많은 고객을 확보 하 고, 신뢰할 수 있는 계획 파트너가 되며, 추가 고객의 도움을 받을 수 있습니다.
 
-## <a name="get-started"></a>시작하기
+## <a name="get-started"></a>시작
 
 소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다. 계획 서비스 프로그램에서 이미 활성화 되어 있는 경우 아래 4 단계 (4)에서 각각의 새 참여를 시작 합니다.
 

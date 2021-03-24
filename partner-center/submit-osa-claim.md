@@ -9,24 +9,21 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917259"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028318"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 및 Dynamics 365에 대해 요청 된 CPOR (레코드 파트너) 모델을 통한 고객 연결
 
-**적용 대상**
 
-- 파트너 센터
-
-**적절한 역할:**
+**적절한 역할**
 
 - 인센티브 관리자
 
-2019 년 10 월 1 일부 터 Microsoft는 Microsoft에서 Microsoft의 Microsoft Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 하기 위해 Microsoft의 OSA (온라인 서비스 자문) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU-Business 응용 프로그램에 대 한 사용과 관련 된 연결을 관리 하기 시작 했습니다.
+2019 년 10 월 1 일부 터 Microsoft는 Microsoft의 Microsoft Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 하기 위해 Microsoft의 OSA (온라인 서비스 자문) 판매, OSU (온라인 서비스 사용)-Microsoft 365 및 OSU-Business 응용 프로그램에 대 한 사용과 관련 된 연결을 관리 하기 시작 했습니다.
 
 >[!Important]
 > CPOR (고객 연결) 클레임은 OSA (Online services Advise) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU-Business 응용 프로그램 동기 프로그램에만 적용 됩니다. 클라우드 솔루션 공급자, 관리 재판매인, 호스팅 또는 화면과 같은 다른 프로그램에 대 한 공동 작업 클레임을 제출 하는 경우 여기에 설명 된 Co op 클레임 프로세스를 참조 하세요. <br><br>클레임을 제출 하면 Microsoft에서 유효성을 검사 합니다. 이 시점에서 추가 정보를 요청할 수 있습니다. 또한 고객의 연결 요청에 대해 알려줍니다. 고객은 옵트아웃 (opt out)을 5 영업일 이내에 사용할 수 있습니다. 옵트아웃 (opt out) 하지 않으면이 특정 테 넌 트 및 워크 로드와의 연결이 공식적으로 적용 됩니다. 이 시점에서 고객의 사용 현황 데이터에 액세스할 수 있습니다. 
@@ -43,7 +40,7 @@ ms.locfileid: "92917259"
 
 - 수행 된 **작업** 및 수행 하려는 클레임 유형 (예: 판매 전, 사용량 또는 수입 연결)
 
-- 고객의 **연락처 이름** , 제목 및 전자 메일 주소
+- 고객의 **연락처 이름**, 제목 및 전자 메일 주소
 
 - Dynamics 365의 경우 고객의 **기술 담당자** 이름, 제목 및 전자 메일 주소도 제공 해야 합니다.
 
@@ -55,7 +52,7 @@ ms.locfileid: "92917259"
 
 - **PoE (실행 증명) (** 예: 고객이 서명한 작업의 문) PoE 템플릿을 다운로드 하 여 사용할 수도 있습니다.
 
-- 수익 연결만을 주장 하는 파트너의 경우: **Dynamics solution 판매자 이름** , **고객 이름** 및 **ISV 제품/솔루션의 이름** 입니다. 
+- 수익 연결만을 주장 하는 파트너의 경우: **Dynamics solution 판매자 이름**, **고객 이름** 및 **ISV 제품/솔루션의 이름** 입니다. 
 
 또한 다음 사항을 이해 해야 합니다.
 
