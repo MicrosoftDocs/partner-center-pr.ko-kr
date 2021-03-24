@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756400"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712531"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -305,11 +305,11 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 
 ### <a name="apis-to-be-throttled"></a>제한되는 API
 
-|**연산**|**파트너 센터 설명서**|
+| **연산** | **파트너 센터 설명서** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[고객의 모든 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID별 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[고객의 모든 주문 가져오기](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders|[고객의 모든 주문 가져오기](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID별 주문 가져오기](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[구독 프로비전 상태 가져오기](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[주문 관리 및 구독 관리](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[구독 등록 상태 가져오기](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[고객의 모든 전송 정보 가져오기](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[제품 업그레이드 상태 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[평가판 전환 제품 목록 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[평가판 전환 제품 목록 가져오기](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 이 공지는 파트너에게 앞으로 있을 변경 내용에 대해 미리 알려서 적절하게 대비할 수 있도록 돕는 것이 그 목적입니다. 파트너는 이러한 API를 숙지하고 활동 로그 API를 사용하여 효율성을 높이고 제한을 방지하는 것이 좋습니다. 이 기능에 대한 자세한 내용은 [API 제한 지침](/partner-center/develop/api-throttling-guidance)의 세부 정보를 참조하세요. 

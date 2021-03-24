@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514122"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712463"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -315,7 +315,7 @@ ________________
 ### <a name="details"></a>세부 정보
 
 >[!NOTE]
->파트너의 피드백에 따라 파트너 센터에서 정품 및 서버 구독 소프트웨어 주문의 소프트웨어 및 라이선스 키를 얻을 수 있도록 파트너 센터 이행 기능을 복원 중입니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+>파트너 피드백으로 인해 영구 및 서버 구독 소프트웨어 주문을 위한 소프트웨어 및 라이선스 키를 획득할 수 있는 파트너 센터 이행 기능을 복원하고 있습니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](./2021-march.md#4)를 참조하세요.
 
 오늘 [발표](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)한 대로 이제 모든 CSP 파트너가 판매할 수 있도록 상업용 영구 소프트웨어 라이선스를 일반 공급할 수 있음을 알려 드리게 되어 기쁘게 생각합니다. 파트너 센터 CSP 영구 소프트웨어 가격 목록이 다시 게시되었으며 이제 추가 제품 및 지역이 포함되어 있습니다.
 

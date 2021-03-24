@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124791"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712480"
 ---
 # <a name="february-2021-announcements"></a>2021년 2월 공지
 
@@ -77,7 +77,7 @@ ________________
 
 ### <a name="next-steps"></a>다음 단계
 
-[쉼표로 구분된 값(CSV) 파일을 사용하여 공동 판매 기회를 대량으로 작업](https://docs.microsoft.com/partner-center/bulk-operations)을 읽고 대량 작업 기능에 대해 자세히 알아보세요.
+[쉼표로 구분된 값(CSV) 파일을 사용하여 공동 판매 기회를 대량으로 작업](../bulk-operations.md)을 읽고 대량 작업 기능에 대해 자세히 알아보세요.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
@@ -107,7 +107,7 @@ PSC(Partner Sales Connect)에서 거래하는 파트너는 거래 마이그레�
 
 ### <a name="next-steps"></a>다음 단계
 
-[PSC(Partner Sales Connect)에서 마이그레이션하는 파트너를 위한 PC(파트너 센터)의 공동 판매 가이드](https://docs.microsoft.com/partner-center/psc-to-pc)에서 **PSC 거래 마이그레이션** 섹션을 검토하여 거래 마이그레이션에 대해 자세히 알아보세요.
+[PSC(Partner Sales Connect)에서 마이그레이션하는 파트너를 위한 PC(파트너 센터)의 공동 판매 가이드](../psc-to-pc.md)에서 **PSC 거래 마이그레이션** 섹션을 검토하여 거래 마이그레이션에 대해 자세히 알아보세요.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
@@ -139,7 +139,7 @@ ________________
 
 ### <a name="next-steps"></a>다음 단계
 
-[파트너 센터에서 공동 판매 기회 관리](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities) 가이드를 읽고 자세히 알아보세요.
+[파트너 센터에서 공동 판매 기회 관리](../manage-co-sell-opportunities.md) 가이드를 읽고 자세히 알아보세요.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 

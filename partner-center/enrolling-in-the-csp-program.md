@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322086"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712276"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -68,7 +68,7 @@ CSP 프로그램에 간접 재판매인으로 참가하기 위한 조건에 대�
 
 ### <a name="minimum-requirements"></a>최소 요구 사항
 
-|**요구 사항**|                             |
+|**요구 사항**|  **설명**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |제품을 판매하려는 위치의 Microsoft 파트너 네트워크 및 MPN ID의 활성 멤버 자격입니다.    |
 |**인증**   |조직 대신 법적 계약서를 수락하고 서명할 수 있는 권한입니다.|

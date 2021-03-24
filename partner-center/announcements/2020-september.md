@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514088"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712514"
 ---
 # <a name="september-2020-announcements"></a>2020년 9월 공지
 
@@ -37,7 +37,7 @@ ________________
 ### <a name="details"></a>세부 정보
 
 >[!NOTE]
->파트너의 피드백에 따라 파트너 센터에서 정품 및 서버 구독 소프트웨어 주문의 소프트웨어 및 라이선스 키를 얻을 수 있도록 파트너 센터 이행 기능을 복원 중입니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+>파트너 피드백으로 인해 영구 및 서버 구독 소프트웨어 주문을 위한 소프트웨어 및 라이선스 키를 획득할 수 있는 파트너 센터 이행 기능을 복원하고 있습니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](./2021-march.md#4)를 참조하세요.
 
 현재 파트너는 CSP 소프트웨어 주문에 대한 소프트웨어 다운로드 및 라이선스 키의 처리에 파트너 센터 또는 Microsoft 365 관리 센터 중 하나를 사용할 수 있습니다. **2021년 1월 19일** 부터 파트너 센터 소프트웨어 및 라이선스 키 이행 기능이 중단되고 이 기능을 사용하려면 파트너는 고객에게 **Microsoft 365 관리 센터** 를 사용하도록 안내합니다. 파트너 센터 내의 고객 소프트웨어 페이지에는 고객 라이선스 및 소프트웨어 다운로드를 얻도록 고객을 안내할 수 있는 Microsoft 365 관리 센터에 연결되는 "딥 링크"가 제공됩니다. 이 링크를 통해 고객에게 가장 안전하고 효율적인 환경을 제공할 수 있습니다.
 
@@ -78,7 +78,7 @@ CSP 및 오픈 프로그램의 모든 파트너
 ### <a name="details"></a>세부 정보
 
 >[!NOTE]
->파트너의 피드백에 따라 파트너 센터에서 정품 및 서버 구독 소프트웨어 주문의 소프트웨어 및 라이선스 키를 얻을 수 있도록 파트너 센터 이행 기능을 복원 중입니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+>파트너 피드백으로 인해 영구 및 서버 구독 소프트웨어 주문을 위한 소프트웨어 및 라이선스 키를 획득할 수 있는 파트너 센터 이행 기능을 복원하고 있습니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](./2021-march.md#4)를 참조하세요.
 
 Microsoft CSP 프로그램은 기하급수적으로 성장하고 있으며, 현재 90,000개가 넘는 회사가 참여하고 있습니다. 이 프로그램은 소기업과 중견 기업 그리고 새로운 상거래 환경의 소규모 기업 고객을 위한 주요 파트너 영업 활동입니다. 오늘 우리는 이 모멘텀을 기반으로 CSP 프로그램의 파트너를 위해 기회를 확장하고 있다고 발표했습니다. 자세한 내용은 [파트너 블로그 게시물](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)을 참조하세요.
 

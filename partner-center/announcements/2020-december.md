@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514105"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712548"
 ---
 # <a name="december-2020-announcements"></a>2020년 12월 공지
 
@@ -275,7 +275,7 @@ ______________
 ### <a name="details"></a>세부 정보
 
 >[!NOTE]
->파트너 피드백으로 인해 영구 및 서버 구독 소프트웨어 주문을 위한 소프트웨어 및 라이선스 키를 획득할 수 있는 파트너 센터 이행 기능을 복원하고 있습니다. 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](https://docs.microsoft.com/partner-center/announcements/2021-march#4)를 참조하세요.
+>파트너 피드백으로 인해 영구 및 서버 구독 소프트웨어 주문을 위한 소프트웨어 및 라이선스 키를 획득할 수 있는 파트너 센터 이행 기능을 복원하고 있습니다. 이 기능은 2021년 1월 19일에 제거되기 이전 상태로 복원됩니다. 자세한 내용은 [2021년 3월 공지](./2021-march.md#4)를 참조하세요.
 
 CSP 프로그램에 등록된 모든 파트너는 **2021년 1월 19일** 부터 CSP를 통해 온-프레미스 배포에 대한 상업용 영구 소프트웨어 라이선스를 판매할 수 있습니다. 이를 통해 디지털 혁신의 일환으로 필요한 라이선스 유연성이 고객에게 제공됩니다.
 
