@@ -111,6 +111,8 @@
         - name: 기술 혜택
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
+        - name: 로고 작성기를 사용하여 로고 만들기
+          href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Software Assurance
