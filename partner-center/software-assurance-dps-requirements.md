@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286499"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028267"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>서비스 계약 계획에 대 한 자격 요구 사항 보기
 
-**적절 한 역할**
+**적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 - MPN 파트너 관리자
 
-이 항목은 회사에서 Microsoft에 대 한 소프트웨어 보증 계획 서비스를 등록 하거나 제공 하기 위해 충족 해야 하는 자격 요구 사항에 대해 알아보는 데 도움이 됩니다.
+이 문서는 회사에서 Microsoft에 대 한 소프트웨어 보증 계획 서비스를 등록 하거나 제공 하기 위해 충족 해야 하는 자격 요구 사항에 대해 알아보는 데 도움이 됩니다.
 
 >[!NOTE]
 > 계획 서비스 제공에 대 한 자격 요구 사항을 충족 하는 것 외에도 소프트웨어 보증 계획 서비스를 제공 하기 전에 다른 몇 가지 단계를 수행 해야 합니다. 필요한 모든 단계에 대 한 개요는 [파트너 센터의 소프트웨어 보증 계획 서비스](software-assurance-dps.md)를 참조 하세요.

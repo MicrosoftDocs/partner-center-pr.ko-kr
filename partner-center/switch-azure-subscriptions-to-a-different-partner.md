@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645659"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028301"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>다른 파트너에게 고객의 Azure 구독을 전송하는 방법 알아보기
 
 **적용 대상**
 
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 - Microsoft 글로벌 클라우드의 파트너 센터
-- CSP(클라우드 솔루션 공급자) 프로그램의 파트너
 
 이 문서에서는 고객이 Microsoft Azure 서비스를 한 CSP (클라우드 솔루션 공급자)에서 다른 클라우드 솔루션 공급자 (CSP)로 전환할 수 있는 방법을 설명 합니다.
 
@@ -43,7 +42,7 @@ ms.locfileid: "100645659"
 
    파트너 센터에서 Azure 서비스 티켓을 만들어 구독 이전을 요청 합니다.
 
-   1. 파트너 센터 메뉴에서 **고객** 을 선택 하 고, 목록에서 고객을 선택한 다음, **서비스 관리** 를 선택 합니다. 
+   1. 파트너 센터 메뉴에서 **고객** 을 선택 하 고, 목록에서 고객을 선택한 다음, **서비스 관리** 를 선택 합니다.
 
    2. **지원 티켓** 섹션에서 **새 티켓** 드롭다운을 선택 하 고 **Microsoft Azure** 를 선택 합니다.
    
@@ -100,12 +99,12 @@ ms.locfileid: "100645659"
      Get-AzRoleAssignment
      ```
 
-7. 오래 된 액세스 권한 제거
+7. 오래 된 액세스 권한 제거:
 
    - 파트너 센터 메뉴에서 **고객** 을 선택 합니다.
-   - 목록에서 고객을 찾습니다. 회사 이름을 선택 (두 번 클릭) 합니다. 그러면 고객 **구독** 페이지가 열립니다.
+   - 목록에서 고객을 찾습니다. 회사 이름을 선택 (두 번 클릭) 합니다. 이 작업을 수행 하면 고객 **구독** 페이지가 열립니다.
    - 고객 정보 메뉴에서 **서비스 관리** 를 선택 합니다.
-   - **Microsoft Azure** 에서 링크를 클릭 하 여 **Microsoft Azure 관리 포털** 으로 이동 합니다.
+   - **Microsoft Azure** 에서 링크를 선택 하 여 **Microsoft Azure 관리 포털** 이동 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

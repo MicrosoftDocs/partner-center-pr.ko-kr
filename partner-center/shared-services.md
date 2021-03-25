@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247713"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028284"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>파트너가 각자의 용도에 맞게 Azure 구독을 구입할 수 있도록 Azure 파트너 공유 서비스를 추가 합니다.
 
- 
 **적절한 역할**
 
 - 글로벌 관리자
@@ -67,8 +66,8 @@ Azure 파트너 공유 서비스에 대 한 새 가격 책정 파일을 보려�
 
 |**Marketplace 지원**   |**2019 년 3 월 1 일 이전에 지원 되는 APSS**|**2019 년 3 월 1 일 이후**|
 |---------------------------|:----------------------------|:-------------------|
-|BYOL (사용자 라이선스 필요) 및 무료 서비스   | 예   | 아니요|
-|다른 타사 marketplace 제공   | 아니요   |아니요|
+|BYOL (사용자 라이선스 필요) 및 무료 서비스   | 예   | 예|
+|다른 타사 marketplace 제공   | 예   |예|
 
 BYOL 또는 APSS를 사용 하 여 배포 된 무료 서비스를 사용 하는 파트너는 영향을 받지 않습니다. 그러나 2019 년 3 월 1 일 이후에는 새 BYOL 또는 무료 서비스를 구매할 수 없습니다.
 

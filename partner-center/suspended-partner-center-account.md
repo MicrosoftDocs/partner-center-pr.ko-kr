@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365739"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028250"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>일시 중단된 파트너 센터 계정 복원 - 일시 중단의 원인 및 해결 방법 알아보기
 
@@ -22,8 +22,7 @@ ms.locfileid: "87365739"
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 **적절한 역할**
 
@@ -37,7 +36,7 @@ ms.locfileid: "87365739"
 
 Microsoft는 다음과 같은 이유 중 하나로 파트너 센터 계정을 일시 중단 합니다.
 
-- 현재 청구 금액이 60 일을 초과 하는 경우 
+- 현재 청구 금액이 60 일을 초과 하는 경우
 - 중요 한 계정 남용이 검색 되는 경우
 - 문제가 간접 공급자 작업에 영향을 주고 계정에 부정적인 영향을 주는 경우 (간접 대리점에만 해당)
 - 계정 프로필이 실패 또는 거부 된 상태인 경우
@@ -48,7 +47,7 @@ Microsoft는 다음과 같은 이유 중 하나로 파트너 센터 계정을 �
 
 계정이 최신 인지 확실 하지 않은 경우 **파트너 센터** 메뉴에서 **청구** 를 선택 하 여 청구서를 확인 합니다. 청구 페이지에는 청구 기록과 추세, 현재 달의 잔액, 청구서 및 조정 파일에 대 한 링크 및 가장 최근의 지불이 표시 됩니다.
 
-계정이 지연 된 경우 청구서의 지침에 따라 결제를 정렬 한 다음 지원 요청을 제출 하 여 계정을 복원 하도록 요청 하세요. 
+계정이 지연 된 경우 청구서의 지침에 따라 결제를 정렬 한 다음 지원 요청을 제출 하 여 계정을 복원 합니다. 
 
 계정을 다시 활성화 하는 방법에 대 한 추가 지원은 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)담당자에 게 문의 하세요.
 

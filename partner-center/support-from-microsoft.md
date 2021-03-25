@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2531534106f421e7378f1f3f0b29361792b4a4ac
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 72b4952dea16202f3a3b74a295a0c636152cb4cd
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114864"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028223"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft에서 지원-문제를 에스컬레이션 하는 경우, 보고 하는 방법 또는 서비스 상태를 확인 하는 방법
 
 **적용 대상**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 발생 하는 경우 Microsoft로 에스컬레이션 하 여 도움을 내릴 수 있으며 해결 될 때까지 문제를 추적할 수 있습니다.
 
@@ -34,9 +33,9 @@ Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 발생 �
 [Api를 사용 하 여 자동화 된 서비스 알림 받기](get-automated-service-notifications-with-our-apis.md) -클라우드 솔루션 공급자는 고객의 서비스에 대 한 자동화 된 서비스 알림을 받을 수 있습니다.
 
 
- 
+ 
 
- 
+ 
 
 
 
