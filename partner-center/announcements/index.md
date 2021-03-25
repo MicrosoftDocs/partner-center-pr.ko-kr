@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712293"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880755"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "104712293"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|제품/시장|[2021년 3월 1일 영구 소프트웨어 가격표 수정](2021-march.md#14)|3월 23일|
+|기능|[.NET Standard(v1.17.0)의 SDK 릴리스](2021-march.md#13)|3월 23일|
 |기능|[CSP 상업용 Marketplace 제품 및 적격 제품에 대한 FY21 CSP 인센티브](2021-march.md#12)|3월 18일|
 |기능|[Power BI Premium 제품 이름 지정 및 필수 구성 요소 업데이트](2021-march.md#11)|3월 18일|
 |제품/시장|[Microsoft 365 F3의 3월 가격 업데이트](2021-march.md#10)|3월 16일|
