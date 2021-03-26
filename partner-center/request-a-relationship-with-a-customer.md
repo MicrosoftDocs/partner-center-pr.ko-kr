@@ -8,22 +8,18 @@ description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007417"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548974"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객의 재판매인 관계를 요청하는 방법
 
-**적용 대상**
-
-- 파트너 센터
-
 고객의 서비스 또는 구독을 대신 하 여 관리 하려는 경우 고객은 해당 서비스 또는 구독에 대 한 관리자 권한을 부여 하 고 Microsoft 고객 계약에 서명 해야 합니다.
 
-고객과 재판매인 관계를 설정 하 고 프로 비전 하는 Azure 구독만 관리 하려면 관리자 권한을 얻을 필요가 없습니다.
+고객과 대리점 관계를 설정 하 고 프로 비전 하는 Azure 구독만 관리 하려면 관리자 권한을 얻을 필요가 없습니다.
 
 >[!NOTE] 
 >사용 권한을 요청 하지 않는 옵션은 미국 정부 또는 Microsoft 클라우드 독일의 Microsoft 클라우드 작동 하는 파트너에 게 제공 되지 않습니다. 자세한 내용은 [고객이 파트너에 게 관리 권한을 위임](customers-revoke-admin-privileges.md)하는 방법을 참조 하세요.
@@ -32,13 +28,13 @@ ms.locfileid: "91007417"
 
 국가 또는 동일한 지역 내에서 고객과 대리점 관계를 요청할 수 있습니다.
 
-1. **파트너 센터** 메뉴에서 **고객**을 선택한 다음, **재판매인 관계 요청**을 선택합니다.
+1. **파트너 센터** 메뉴에서 **고객** 을 선택한 다음, **재판매인 관계 요청** 을 선택합니다.
 
-2. 이 고객의 관리자 권한을 요청 하려면 **Azure Active Directory 및 Office 365에 대 한 위임 된 관리 권한 포함**을 선택 합니다. 관리자 권한을 요청하지 않고 관계를 형성하려면 이 옵션의 선택을 취소합니다.
+2. 이 고객의 관리자 권한을 요청 하려면 **Azure Active Directory 및 Office 365에 대 한 위임 된 관리 권한 포함** 을 선택 합니다. 관리자 권한을 요청하지 않고 관계를 형성하려면 이 옵션의 선택을 취소합니다.
 
 3. 다음 페이지에서 초안 이메일 메시지를 검토합니다. 기본 이메일 애플리케이션에서 초안 메시지를 열거나 메시지를 클립보드에 복사하여 이메일에 붙여넣을 수 있습니다.
 
-   이메일에서 텍스트를 편집할 수 있지만, 이메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하는 맞춤형 링크입니다. 이 단계를 마쳤으면 **완료**를 선택합니다.
+   이메일에서 텍스트를 편집할 수 있지만, 이메일에 링크를 포함하는 것을 잊지 마세요. 이 링크는 고객을 귀사의 계정에 직접 연결하는 맞춤형 링크입니다. 이 단계를 마쳤으면 **완료** 를 선택합니다.
 
 4. 고객에게 이메일을 보냅니다.
 

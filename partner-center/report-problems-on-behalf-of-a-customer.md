@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756442"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549059"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
 **적용 대상**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 **적절한 역할**
 
@@ -104,7 +103,7 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 ## <a name="faq"></a>FAQ
 
-고객을 대신 하 여 제출할 수 있는 서비스 요청에 대 한 자주 묻는 질문은 다음을 참조 하세요. 
+고객을 대신 하 여 제출할 수 있는 서비스 요청에 대 한 다음 질문과 대답을 참조 하세요. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>지원 권리 유형의 일부로 포함되는 사항은 무엇인가요?
 
@@ -120,9 +119,9 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 **기술 중단-수정 인시던트에** 대 한 초기 응답 시간:
 
-- 심각한 영향 (심각도 A): 2 시간 (심각한 손실 또는 서비스 저하) 프로덕션 서비스의 작동이 중단 되었습니다.)
+- 심각한 영향 (심각도 A): 2 시간 (심각한 손실 또는 서비스 저하)입니다. 프로덕션 서비스의 작동이 중단 되었습니다.)
 - 보통 영향 (심각도 B): 4 시간 (보통 수준의 손실 또는 서비스 저하)입니다. 프로덕션 서비스가 부분적으로 영향을 받습니다.)
-- 최소 영향 (심각도 C): 8 시간 (최소한의 서비스 손실 또는 서비스 저하)입니다. 서비스를 계속 사용할 수 있거나 프로덕션이 아닌 서비스에 영향을 줍니다.)
+- 최소 영향 (심각도 C): 8 시간 (최소한의 손실 또는 서비스 저하)입니다. 서비스를 계속 사용할 수 있거나 프로덕션이 아닌 서비스에 영향을 줍니다.)
 
 초기 응답 시간은 영어를 지 원하는 경우에만 지원 됩니다. 현지 언어 지원은 업무 시간 중에만 제공됩니다.
 지원 권리의 경계 내에 있지만 중단-수정 인시던트에 고려 되지 않는 인시던트의 경우 초기 응답 시간은 영업일 기준으로 최대 1 일이 될 수 있습니다.

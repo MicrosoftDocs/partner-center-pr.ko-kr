@@ -9,21 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582039"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549178"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>파트너 센터 포털 요청 및 진단 도구
 
 **적용 대상**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 **적절한 역할**
+
+- 파트너 센터에 관심이 있는 모든 파트너
 
 모든 로그인 된 파트너 센터 사용자는 파트너 지원 요청을 만들 수 있습니다. 사용자는 파트너 센터에 로그인 한 후 제출한 지원 요청만 볼 수 있습니다.
 파트너 센터 포털 오류에 대 한 문제가 있거나 도움이 필요한 경우 파트너 센터 지원팀에 문의 하세요. 문제를 더 빨리 해결할 수 있도록 진단을 보냅니다.
@@ -77,7 +78,7 @@ ms.locfileid: "103582039"
 
 진단 정보를 미리 본 다음 지원 요청에 첨부할 수 있는 파일에 저장할 수 있습니다. 정보를 보내려면 다음을 수행 합니다.
 
-3. 제거 하려는 개인 식별 정보를 포함할 수 있으므로 파일을 보내기 전에 파일의 정보를 검토 합니다.
+3. 제거 하려는 개인 데이터를 포함할 수 있으므로 파일을 보내기 전에 파일의 정보를 검토 합니다.
 
     >[!NOTE]
     >일부 브라우저에서는 **미리 보기** 페이지의 아래쪽에 있는 **페이지 보기** 섹션이 비어 있는 것으로 표시 될 수 있습니다. 이것은 정상입니다.

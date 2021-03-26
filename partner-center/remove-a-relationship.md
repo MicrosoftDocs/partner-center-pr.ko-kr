@@ -9,18 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
-ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
+ms.openlocfilehash: 133df7a2e6fdcf9aad48d3937b04dac33c93122a
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "88584682"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549093"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>파트너 센터에서 고객과 재판매인 관계를 제거하는 방법
-
-**적용 대상**
-
-- 파트너 센터
 
 이 문서에서는 파트너 센터에서 고객과 대리점 관계를 제거 하는 방법을 설명 합니다.
 
@@ -41,7 +37,7 @@ ms.locfileid: "88584682"
 
    1. 파트너 센터에서 **고객** 으로 이동 하 여 고객을 선택 합니다.
 
-   2. 구독 **에서 구독**을 선택 합니다.
+   2. 구독 **에서 구독** 을 선택 합니다.
 
    3. **일시 중단 됨** 선택
 
@@ -51,9 +47,9 @@ ms.locfileid: "88584682"
 
    a. 파트너 센터에서 **고객** 으로 이동 하 여 고객을 선택 합니다.
 
-   b. **계정**을 선택하세요.
+   b. **계정** 을 선택하세요.
 
-   다. **대리점 관계 제거**를 선택 합니다.
+   다. **대리점 관계 제거** 를 선택 합니다.
 
    > [!NOTE]
    > 구독이 아직 활성 상태 이면 **재판매인 관계 제거** 링크가 비활성 상태가 됩니다.

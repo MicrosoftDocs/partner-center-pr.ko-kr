@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999137"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549212"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Microsoft의 추천을 통해 비즈니스 확장
-
-**적용 대상**
-
-- 파트너 센터
 
 대부분의 고객은 Microsoft 기술 및 비즈니스 솔루션을 구현하는 것을 도울 자격을 갖춘 전문가를 찾고 있습니다. Microsoft는 종종 마케팅 활동 및 내부 판매 담당자를 통해 고객으로부터 도와달라는 직접 요청을 받습니다. 고객은 [**솔루션 공급자 찾기** 환경](https://www.microsoft.com/solution-providers/search)을 사용하여 비즈니스 요구 사항을 충족하는 데 도움이 되는 회사를 찾을 수도 있습니다. 
 

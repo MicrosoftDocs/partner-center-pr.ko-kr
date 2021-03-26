@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185352"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549246"
 ---
 # <a name="payout-statements"></a>지급 명세서
 
@@ -128,7 +128,7 @@ ms.locfileid: "102185352"
 >- **lastPaymentCurrency**  현재 로그인 한 파트너에 게 액세스 권한이 있는 모든 MPNs에서 가장 최근의 지불을 받은 통화입니다. 지불이 수신 되지 않으면 마지막 지불 통화는 미국 달러입니다.
 >- **earningAmountInLastPaymentCurrency**  마지막 지불 통화의 양입니다.
 
-| 열 이름 | 설명 | 동기 프로그램/마켓플레이스에 대 한 적용 가능성 |
+| 열 이름 | Description | 동기 프로그램/마켓플레이스에 대 한 적용 가능성 |
 | --- | --- | --- |
 | agreementEndDate | 계약 종료 날짜 | 인센티브 - 일부 프로그램만 해당 |
 | agreementNumber | 계약 번호 | 인센티브 - 일부 프로그램만 해당 |
@@ -169,7 +169,7 @@ ms.locfileid: "102185352"
 | participantName | 수익 파트너의 이름 | 모두 |
 | partnerCountryCode | 수익 파트너의 위치/국가/지역 | 모두 |
 | partNumber | 항상 비어 있음 | 일부 동기 프로그램 및 마켓플레이스 |
-| paymentId | 결제에 대한 고유 식별자. 이 번호는 일반적으로 은행 거래 내역서에 표시됩니다. | SAP 결제 전용 |
+| paymentId | 트랜잭션 보고서의 모든 트랜잭션과 지불 보고서의 특정 지불을 상호 연결 하는 고유 식별자입니다. | 모두 |
 | paymentStatus | 결제 상태 | 모두 |
 | paymentStatusDescription | 결제 상태에 대한 친숙한 설명 | 모두 |
 | productId | 고유 제품 식별자 | marketplaces |

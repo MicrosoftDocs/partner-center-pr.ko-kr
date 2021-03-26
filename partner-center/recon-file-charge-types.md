@@ -3,31 +3,32 @@ title: 조정 파일 요금 유형
 ms.topic: article
 ms.date: 06/05/2020
 description: '파트너 센터 조정 파일의 요금 유형 (예: 라이선스 기반, 사용량 기반 및 일회성), 크레딧 및 할인을 검색 합니다.'
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479116"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549229"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 다양 한 요금 유형 이해
 
 **적용 대상**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 **적절한 역할**
 
 - 관리 에이전트
 - 청구 관리자
-- 전역 관리자
+- 글로벌 관리자
 
-이 항목에서는 청구서 섹션과 조정 파일에 있을 수 있는 관련 요금 유형 간의 매핑에 대해 설명 합니다. 청구서는 요금 요약을 제공 합니다. 조정 파일은 요금 유형을 포함 하 여 품목 트랜잭션에 대 한 자세한 분석을 제공 합니다. 조정 파일에 대 한 자세한 내용은 [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md)을 참조 하세요.
+이 문서에서는 청구서 섹션과 조정 파일에 있을 수 있는 관련 요금 유형 간의 매핑을 설명 합니다. 청구서는 요금 요약을 제공 합니다. 조정 파일은 요금 유형을 포함 하 여 품목 트랜잭션에 대 한 자세한 분석을 제공 합니다. 조정 파일에 대 한 자세한 내용은 [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md)을 참조 하세요.
 
 [사용 빈도 기반 조정 파일과](usage-based-recon-files.md) [라이선스 기반 조정 파일](license-based-recon-files.md) 은 모두 사용량 관련 트랜잭션과 요금 (사용한 단위 및 관련 요금)만 표시 합니다.
 
