@@ -1,7 +1,7 @@
 ---
 title: 조정 파일 사용
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: 파트너 센터의 조정 파일에 대해 알아보고, 지정 된 청구 주기에 대 한 자세한 라인 항목 항목 보기를 해석 하는 방법에 대해 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022777"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633899"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 품목을 읽는 방법에 대해 알아봅니다.
 
@@ -55,6 +55,27 @@ ms.locfileid: "103022777"
 ## <a name="download-reconciliation-files-programmatically"></a>프로그래밍 방식으로 조정 파일 다운로드
 
 조정 파일은 매우 클 수 있으며 다운로드 하기 어려울 수도 있습니다. 프로그래밍 방식으로 조정 파일을 다운로드 하려면 [청구서 품목 가져오기 항목](/partner-center/develop/get-invoiceline-items)을 참조 하세요.
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>파일이 Excel에서 행 제한을 초과 하는 경우
+
+Microsoft Excel에서 조정 파일을 다운로드할 수 있지만 파일을 열 수 없는 경우에는 파일에 Excel에서 허용 하는 것 보다 많은 행이 포함 되어 있는 것을 의미 합니다. 이 경우 아래 절차 중 하나를 사용 하 여 파일을 열 수 있습니다.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Power BI에서 정찰 파일을 엽니다.
+
+1. 일반적으로 조정 파일을 다운로드 합니다.
+2. Power BI 인스턴스를 다운로드 하 여 설치 하 고 엽니다.
+3. Power BI **홈** 탭에서 **데이터 가져오기** 를 선택 합니다.
+4. **일반 데이터 원본** 목록에서 **Text/CSV** 를 선택 합니다.
+5. 메시지가 표시 되 면 정찰 파일을 엽니다.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Excel 피벗 테이블에서 정찰 파일 열기
+
+1. 일반적으로 조정 파일을 다운로드 합니다.
+2. Microsoft Excel에서 새 파일을 엽니다.
+3. **데이터** 탭에서 **데이터 가져오기** 를 선택 하 고, **파일에서** 를 선택한 다음, **텍스트/CSV** 를 선택 합니다.
+4. 메시지가 표시 되 면 정찰 파일을 엽니다. 데이터가 표시 됩니다.
+5. **로드** 드롭다운 메뉴에서 **로드 대상** 을 선택 하 고 **확인** 을 선택 합니다.
+6. **데이터 가져오기** 대화 상자에서 **피벗 테이블 보고서** 를 선택 하 여 파일을 엽니다.
 
 ## <a name="map-taxes-or-vat"></a>세금 또는 VAT 지도
 
