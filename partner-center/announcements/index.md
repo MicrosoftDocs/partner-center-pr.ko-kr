@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880755"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549042"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "104880755"
 
 |**범주**|**2021년 3월 공지**|**발표**|
 |---------|:---------|:---------|
+|제품/최신 작업 공간|[Microsoft Operations: 제품 출시 일정 소개](2021-march.md#16)|3월 25일|
+|기능|[CSP 고객 등록 요구 사항에 대한 변경 내용](2021-march.md#15)|3월 25일|
 |제품/시장|[2021년 3월 1일 영구 소프트웨어 가격표 수정](2021-march.md#14)|3월 23일|
 |기능|[.NET Standard(v1.17.0)의 SDK 릴리스](2021-march.md#13)|3월 23일|
 |기능|[CSP 상업용 Marketplace 제품 및 적격 제품에 대한 FY21 CSP 인센티브](2021-march.md#12)|3월 18일|
