@@ -167,13 +167,9 @@
     - name: CSP 지역 권한 부여 테넌트 통합에 대한 지침
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Microsoft 고객 계약에 대한 동의를 확인하는 업데이트 방법
-      href: confirm-consent.md
-    - name: Microsoft 고객 계약에 대한 동의 확인
+    - name: Microsoft 고객 계약에 대한 고객의 동의 여부를 확인하는 방법
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: 고객을 대신하여 고객 계약 동의를 증명하는 경우
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: 국가별 클라우드 판매에 적용
       href: csp-national-clouds-overview.md
       items:
