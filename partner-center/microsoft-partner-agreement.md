@@ -1,7 +1,7 @@
 ---
 title: CSP 파트너를 위한 MPA(Microsoft 파트너 계약)
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 디지털 방식으로 수락하는 이 통합 MPA(Microsoft 파트너 계약)에 서명하고 확인하기 위한 Microsoft CSP 파트너 요구 사항에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281320"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880806"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -110,5 +110,7 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
 3. 위의 1단계 및/또는 2단계를 완료한 후 파트너 센터에서 MPA 상태를 확인하려면 다음을 수행합니다. [Microsoft 파트너 계약 승인 상태 확인](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>다음 단계
+
+- [간접 공급자가 재판매인의 Microsoft 파트너 계약 체결에 도움을 주는 방법 - FAQ](mpa-indirect-provider-faq.md)
 
 - [클라우드 솔루션 공급자 프로그램에 등록](indirect-reseller-tasks-in-partner-center.md)

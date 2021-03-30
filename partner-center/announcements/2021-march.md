@@ -8,19 +8,242 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/22/2021
+ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570195"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880738"
 ---
 # <a name="march-2021-announcements"></a>2021년 3월 공지
 
 이 페이지에서는 2021년 3월 Microsoft 파트너 센터에 대한 공지를 제공합니다.
 
 ________________
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>2021년 3월 1일 영구 소프트웨어 가격표 수정
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-03-23
+- 제품/시장
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+클라우드 솔루션 공급자 프로그램에서 영구 소프트웨어를 거래하는 간접 공급자 및 직접 청구 파트너 
+
+### <a name="details"></a>세부 정보
+
+2021년 3월 1일에 게시된 영구 소프트웨어의 가격표에 잘못된 시장이 포함되었습니다. 2021년 3월 17일에 영구 소프트웨어 가격표에 수정 사항이 업데이트되었습니다. 이러한 수정 사항은 다음에만 적용됩니다.
+
+- 제품 ID: DF77X4D43RKT 
+- 제품 이름: Windows 10 Home to Pro Upgrade for Microsoft 365 Business
+- 제거되었거나 지원되지 않는 시장: AE, AF, AL, AM, AO, BA, BB, BD, BH, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, KW, KY, KZ, LB, LK, LY, MA, MC, MD, ME, MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+
+이러한 변경 내용은 위의 제품에만 적용됩니다. 다른 제품은 수정되지 않았습니다. 
+
+### <a name="next-steps-and-resources"></a>다음 단계 및 리소스
+
+- 영구 소프트웨어를 거래하는 파트너는 최신 소프트웨어 가격표를 다운로드해야 합니다.
+- 두 글자로 된 약어와 해당 국가의 간편한 대응표는 [지역 국가 번호](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries)를 참조하세요.
+________________
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a>.NET Standard(v1.17.0)의 SDK 릴리스
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-03-23
+
+- 기능
+ 
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+파트너 센터 .NET SDK를 사용하는 CSP 프로그램에 참여하는 Direct Bill 파트너 및 간접 공급자
+
+### <a name="details"></a>세부 정보
+
+2020년 3월 23일부터 파트너는 업데이트된 퍼블릭 파트너 센터 SDK [GitHub 샘플](https://github.com/Microsoft/Partner-Center-DotNet-Samples)과 함께 [MicrosoftPartnerCenter.NETSDK(NuGet 갤러리 | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)를 다운로드할 수 있습니다. 이 버전에는 다음 방법에 대한 업데이트가 포함됩니다.
+
+#### <a name="audit-updated-new-operation-types"></a>감사 업데이트: 새 작업 유형
+
+고객이 DAP를 승인하고 종료한 시점을 파악하기 위한 새 [작업 유형](https://docs.microsoft.com/partner-center/develop/auditing-resources)이 추가되었습니다.
+
+- DapAdminRelationshipApproved
+
+- DapAdminRelationshipTerminated
+
+#### <a name="audit-updated-new-resource-and-operation-types"></a>감사 업데이트: 새 리소스 및 작업 유형
+
+고객 디렉터리 역할 시나리오를 지원하기 위한 새 [리소스 및 작업 유형](https://docs.microsoft.com/partner-center/develop/auditing-resources)이 추가되었습니다.
+
+- 새 리소스 유형 "CustomerDirectoryRole"
+
+- 작업 유형 "AddUserMember" 및 "RemoveUserMember"
+
+#### <a name="sdk-updates-to-customer-accounts"></a>고객 계정에 대한 SDK 업데이트
+
+- GET /customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus 지원
+
+- GET /customers/{customer-tenant-id}/qualifications
+
+- POST /customers/{customer_id}/qualifications?code={validationCode}
+
+#### <a name="additional-changes"></a>추가 변경 내용
+
+다음 변경 내용은 새 상거래의 일부로 도입되었으며 현재 M365/D365 새 상거래 환경 기술 미리 보기에 속하는 파트너에게만 초대를 통해 제공됩니다. 새 상거래 기술 미리 보기에 속하지 않는 파트너는 영향을 인지할 수 없으며 이전 버전과 호환되어야 합니다.
+
+- 카탈로그 변경:
+
+  - GET /products/{product-id}/skus/{sku-id}
+
+- 구매 및 관리:
+  - GET /customers/{customerId}/subscriptions
+  - GET /customers/{customerId}/subscriptions/{subscriptionId}
+  - PATCH /customers/{customerId}/subscriptions/{subscriptionId}
+  - GET /customers/{customerId}/subscriptions/{subscriptionId}/transitioneligibilities
+  - GET /customers/{customerId}/subscriptions/{subscriptionId}/transitions
+  - POST /customers/{customerId}/subscriptions/{subscriptionId}/transitions
+
+### <a name="next-steps"></a>다음 단계
+
+- 최신 버전의 [MicrosoftPartnerCenter.NETSDK(NuGet 갤러리 | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0) 다운로드
+- [GitHub 샘플](https://github.com/Microsoft/Partner-Center-DotNet-Samples) 다운로드 및 검토
+
+________________
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>CSP 상업용 Marketplace 제품 및 적격 제품에 대한 FY21 CSP 인센티브
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-03-18
+- 기능
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+클라우드 솔루션 공급자 프로그램의 간접 공급자 및 직접 청구 파트너 
+
+### <a name="details"></a>세부 정보
+
+클라우드 솔루션 공급자 프로그램의 간접 공급자 및 직접 청구 파트너는 타사 제품을 판매하고, 파트너 센터 또는 Azure Portal에서 거래한 각 적격 타사 제품에 대한 리베이트 인센티브를 받을 수 있습니다. 이 인센티브는 적격 제품에 청구된 매출에 대한 리베이트 형태로 **2021년 6월 30일까지 제공** 됩니다.  
+
+아래에서 이 CSP 상업용 Marketplace 제품 인센티브에 대해 계속 알아보고, 오늘 고객에게 연락하여 지속적인 성공 및 디지털 변환을 가능하게 해주는 올바른 제품을 확인하세요.
+
+Microsoft는 ISV(독립 소프트웨어 공급업체)와 협력하여 Microsoft 고객을 위한 최신 IaaS 및 SaaS 솔루션을 출시했습니다. ISV 게시자는 Microsoft 파트너 채널을 통해 제품 판매를 가능하게 할 수 있습니다. Microsoft의 인센티브 지급 대상 제품은 다음과 같은 두 가지 범주로 나뉩니다.
+
+- Azure IP 공동 판매 인센티브화 상태의 SaaS 및 IaaS 타사 제품을 선택합니다. 
+
+- PowerPoint, Word, Excel, Outlook 또는 SharePoint 같은 Microsoft 365 생산성 앱 2개 이상 또는 Teams가 통합된 SaaS 애플리케이션
+
+### <a name="next-steps-and-resources"></a>다음 단계 및 리소스
+
+- 인센티브 지급 대상 Marketplace 앱을 판매한 후 [파트너 인센티브](https://partner.microsoft.com/membership/partner-incentives)를 획득하는 방법에 대해 알아봅니다. 새 제품은 매월 추가됩니다.  
+- [클라우드 솔루션 공급자 직접 청구 파트너 인센티브 리소스](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
+- [클라우드 솔루션 공급자 간접 공급자 인센티브 리소스](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
+- 이 [프레젠테이션](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf)을 검토하여 상업용 Marketplace 앱을 판매하는 방법에 대해 자세히 알아보세요. [여기](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/)에서 추가 리소스를 확인하세요. 
+- [파트너 센터](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) 또는 [Azure Portal](https://ms.portal.azure.com/#home)에서 상업용 Marketplace 카탈로그 살펴보기
+- [API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)를 사용하여 회사의 Marketplace에 앱 통합
+- 함께 비즈니스를 수행하고 싶은 ISV에게 연락하세요.
+- 간접 공급자는 API 사용을 통합하고 판매할 앱을 재판매인에게 안내해야 합니다.
+
+### <a name="questions"></a>질문이 있으세요?  
+
+파트너 센터의 상업용 Marketplace에 대한 개요는 [이 문서](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview)를 참조하세요.
+
+추가 지원이 필요한 경우 파트너 센터에서 지원 요청을 만들 수 있습니다. [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1)에서 자세히 알아보세요.
+
+________________
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium 제품 이름 지정 및 필수 구성 요소 업데이트
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-03-18
+- 기능
+
+### <a name="summary"></a>요약
+
+Power BI Premium Per User 제품의 명명 및/또는 필수 구성 요소 정보를 명확히 하기 위해 2021년 4월 1일에 최종 가격표가 업데이트됩니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP(클라우드 솔루션 공급자) 직접 및 간접 파트너
+
+### <a name="details"></a>세부 정보
+
+Power BI Premium Per User 제품의 명명 및/또는 필수 구성 요소 정보를 명확히 하기 위해 2021년 4월 1일에 최종 가격표가 업데이트됩니다.
+
+최종 가격표가 업데이트될 때까지 이 섹션의 정보를 사용하여 올바른 제품을 주문하도록 하세요.
+
+다음 세부 정보는 영향을 받는 SKU 및 필수 구성 요소를 자세히 보여 줍니다.
+
+| 3월 1일 가격표 미리 보기의 제품 표시 이름 |  4월 1일 최종 가격표에서 업데이트된 제품 표시 이름| 제품 ID |
+| ------ | ----------- | ----------- |
+| Power BI Premium Per User Add-On(비영리 직원 가격)  |  Power BI Premium Per User 추가 기능 **(Office)** (비영리 직원 가격)   | 31c03289-47ab-4ab0-8df1-03742c127ac6   |
+
+이 제품을 구매하려는 고객은 다음 필수 구성 요소 중 하나가 있어야 합니다.
+
+| 제품 표시 이름 | 제품 ID |
+| ------ | ----------- |
+| Microsoft 365 E5(비영리 직원 가격)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
+|   오디오 회의 제외 Microsoft 365 E5(비영리 직원 가격)|  b456810a-c414-4e07-98fc-ef74e8175a09|
+|   Office 365 E5(비영리 직원 가격)| ce139fe5-8bd5-47ed-a5be-07c286f8b9e    |
+|   Office 365 E5(비영리 직원 가격) 평가판|  2f192efe-608a-4c9c-9d19-2b0b70b0962e|
+|   오디오 회의 제외 Office 365 E5(비영리 직원 가격)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
+
+다음 Power BI Premium 제품을 구매하려면 필수 구성 요소가 있어야 합니다.
+
+| 제품 표시 이름 | 제품 ID |
+| ------ | ----------- |
+|   Power BI Premium Per User Add-On(비영리 직원 가격)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
+
+이 제품을 구매하려는 고객은 이러한 필수 구성 요소가 있어야 합니다.
+
+| 제품 표시 이름 | 제품 ID |
+| ------ |----------|
+| Power BI Pro(비영리 직원 가격)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
+
+### <a name="next-steps"></a>다음 단계
+
+이 항목에 대한 리소스를 검토하고, 이 정보를 조직 내의 적절한 관련자와 공유합니다.  
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 제품에 대한 질문이 있는 경우 관련 Yammer 커뮤니티를 확인하세요. 
+
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Microsoft 365 F3의 3월 가격 업데이트
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-03-16
+- 제품/시장
+
+### <a name="summary"></a>요약
+
+2021년 3월 가격표에서 Microsoft 365 F3 영국 파운드(GBP) 및 유로(EUR)의 잘못된 가격이 수정되었습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+2021년 3월 1일과 3월 17일 사이에 CSP(클라우드 솔루션 공급자) 프로그램을 통해 GBP 또는 EUR로 Microsoft 365 F3을 구매한 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft에서 Microsoft 365 F3의 잘못된 가격을 수정했습니다. 잘못된 가격은 2021년 3월 1일과 3월 17일 사이에 GBP 및 EUR로 구매한 제품에만 해당됩니다. 영향을 받는 제품과 통화는 아래에 나와 있습니다. 
+
+| Offer name | 통화 | 제품 ID | 소재 ID |
+| ------ |----------- |----------- |----------- |
+| Microsoft 365 F3(자선) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
+| Microsoft 365 F3(상업용) | EUR| 3451a3b0-8cda-44a7-bad7-c30be81c4aaa | AAA-89898 |
+ 
+3월 및 4월 미리 보기 라이선스 기반 가격표는 태평양 표준시를 기준으로 3월 16일 오후 5시에 업데이트되었습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+- 파트너는 해당하는 경우 이러한 가격 수정 사항이 포함된 최신 라이선스 기반 가격표(3월 및 4월 미리 보기 모두)를 다시 다운로드해야 합니다.  
+- Microsoft는 앞으로 몇 주간 이메일을 통해 영향을 받는 파트너에게 연락하여 관련 거래 시정과 관련된 다음 조치를 알려 드릴 예정입니다.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
+
+________________
+
 ## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a>파트너 센터를 통해 법적 회사 이름 업데이트
 
 ### <a name="categories"></a>범주
@@ -38,22 +261,12 @@ MPN 파트너 및 CSP 간접 재판매인(CSP 다이렉트 청구 파트너에�
 
 ### <a name="details"></a>세부 정보
 
-2021년 3월부터 MPN 파트너 및 CSP 간접 재판매인은 규정을 준수하는 셀프 서비스 방식으로 파트너 센터를 통해 법적 회사 이름을 업데이트할 수 있습니다. 이 새로운 기능을 통해 파트너는 더 이상 회사 이름을 업데이트하기 위해 파트너 센터 지원 티켓을 제출할 필요가 없습니다. 따라서 파트너는 이 작업을 수행할 때 상당한 시간을 절약할 수 있습니다.
+2021년 3월부터 MPN 파트너 및 CSP 간접 재판매인은 규정을 준수하는 셀프 서비스 방식으로 파트너 센터를 통해 법적 회사 이름을 업데이트할 수 있습니다. 이 새로운 기능을 통해 파트너는 더 이상 회사 이름을 업데이트하기 위해 파트너 센터 지원 티켓을 제출할 필요가 없습니다. 따라서 파트너는 이 작업을 수행할 때 상당한 시간을 절약할 수 있습니다. 
 
-법적 회사 이름을 업데이트하려면 다음 단계를 따르세요.
-
-1. 전역 관리자 또는 계정 관리자는 파트너 센터에 로그인하고 [계정 설정](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)으로 이동해야 합니다.
-
-2. 법적 회사 이름을 업데이트합니다.
-
-3. 업데이트된 이름이 저장되면 Microsoft에서 제공된 정보를 확인합니다. 확인은 5~7일 동안 보류될 수 있습니다.
-
-4. 확인이 완료되면 업데이트된 법적 이름이 파트너 테넌트와 연결됩니다.
-
-5. 확인 상태가 거부됨으로 변경되면 [계정 정보 확인](https://docs.microsoft.com/partner-center/verification-responses)을 참조하여 문제를 해결하세요.
+자세히 알아보려면 [법적 비즈니스 프로필 업데이트](../update-your-partner-profile.md#update-your-legal-business-profile)를 참조하세요.
 
 >[!NOTE]
->법적 비즈니스 프로필에 있는 회사 이름에 철자 오류와 약어가 없으며 정식 회사 비즈니스 등록 기록과 정확히 일치하는지 확인하세요. 조직 프로필을 업데이트하는 방법에 대한 자세한 내용은 [조직 프로필 확인](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile)을 참조하세요.
+>법적 비즈니스 프로필에 있는 회사 이름에 철자 오류와 약어가 없으며 정식 회사 비즈니스 등록 기록과 정확히 일치하는지 확인하세요. 조직 프로필을 업데이트하는 방법에 대한 자세한 내용은 [조직 프로필 확인](../update-your-partner-profile.md#update-your-legal-business-profile)을 참조하세요.
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -61,7 +274,7 @@ MPN 파트너 및 CSP 간접 재판매인(CSP 다이렉트 청구 파트너에�
 
 ### <a name="questions"></a>질문이 있으세요?
 
-질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a>CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 사항에 대한 업데이트
@@ -87,7 +300,7 @@ ________________
 
 - 2021년 7월 1일: 오픈 라이선스 프로그램 가격 목록에 새 SKU, 제품 또는 프로모션이 추가되지 않습니다.
 
-- 2021년 7월 7일: 두 개의 상용 제품인 Get Genuine Windows 및 Visual Studio Professional과 공공 부문 제품(정부, 교육 및 비영리 – [공지](https://docs.microsoft.com/partner-center/announcements/2020-december#9) 참조)이 CSP 영구 소프트웨어 가격표에 추가됩니다.  가격 목록은 파트너 센터의 [판매 > 가격 및 제안](https://partnercenter.microsoft.com/pcv/sales) 페이지에 있는 소프트웨어 섹션에서 찾을 수 있으며 이 날짜에 다시 게시됩니다.
+- 2021년 7월 7일: 두 개의 상용 제품인 Get Genuine Windows 및 Visual Studio Professional과 공공 부문 제품(정부, 교육 및 비영리 – [공지](./2020-december.md#9) 참조)이 CSP 영구 소프트웨어 가격표에 추가됩니다.  가격 목록은 파트너 센터의 [판매 > 가격 및 제안](https://partnercenter.microsoft.com/pcv/sales) 페이지에 있는 소프트웨어 섹션에서 찾을 수 있으며 이 날짜에 다시 게시됩니다.
 
 CSP 프로그램 발전 및 Open License 프로그램 변경에 대한 자세한 내용은 아래 **다음 단계** 를 참조하세요.
 
@@ -121,13 +334,13 @@ _______________
 
 평가판 제품은 가격 목록에 포함되지 않았어야 했습니다. 이들 제품은 2021년 5월 1일 가격 목록에서 제거됩니다.
 
-원래 공지는 [여기](https://docs.microsoft.com/partner-center/announcements/2021-february#4)에 있습니다.
+원래 공지는 [여기](./2021-february.md#4)에 있습니다.
 
 ### <a name="additional-resources"></a>추가 자료
 
 - [Microsoft 365 E5 보안 및 규정 준수](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
 
-- [Microsoft Compliance Manager에서 평가 빌드 및 관리 - Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+- [Microsoft Compliance Manager에서 평가 빌드 및 관리 - Microsoft 365 Compliance](/microsoft-365/compliance/compliance-manager-assessments)
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -163,7 +376,7 @@ OCP GTM에서 솔루션과 공동 판매하는 조직
 
 ### <a name="next-steps"></a>다음 단계
 
-- 솔루션을 아직 이동하지 않은 경우 [전환 가이드](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration)에 설명된 지침을 따르거나 [단계별 비디오 자습서](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4)를 참조하여 모든 마이그레이션 작업을 완료하고 상업용 Marketplace에 솔루션을 게시하기 시작합니다.
+- 솔루션을 아직 이동하지 않은 경우 [전환 가이드](/azure/marketplace/co-sell-solution-migration)에 설명된 지침을 따르거나 [단계별 비디오 자습서](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4)를 참조하여 모든 마이그레이션 작업을 완료하고 상업용 Marketplace에 솔루션을 게시하기 시작합니다.
 
 - OCP GTM의 제한된 기능 환경과 관련된 질문은 [Microsoft 상업용 Marketplace FAQ에서 게시하기 위한 공동 판매 요구 사항](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf)을 참조하세요. ("2021년 3월 29일부터 시작되는 OCP GTM 제한된 기능" 섹션을 참조하세요.)
 
@@ -217,7 +430,7 @@ ________________
 
 소프트웨어 키 사용 및 배포에 대한 다음 리소스와 중요 지침을 검토하세요.
 
-- [CSP 프로그램을 통해 온-프레미스 소프트웨어 판매](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [CSP 프로그램을 통해 온-프레미스 소프트웨어 판매](../csp-on-premise-software.md)
 - [파트너 센터 새 상거래 운영 가이드](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)(**소프트웨어 키 배포에 대한 지침** 섹션 참조)
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
@@ -252,14 +465,14 @@ PSC에서 거래하는 파트너
 
 또한 최근에는 파트너의 전환을 도와주기 위해 파트너 센터에 새로운 기능을 추가했습니다.
 
-- [공동 판매 기회를 대량으로 작업](https://docs.microsoft.com/partner-center/bulk-operations)
-- [거래 마이그레이션 기능](https://docs.microsoft.com/partner-center/psc-to-pc)(**PSC 거래 마이그레이션** 섹션 참조)
+- [공동 판매 기회를 대량으로 작업](../bulk-operations.md)
+- [거래 마이그레이션 기능](../psc-to-pc.md)(**PSC 거래 마이그레이션** 섹션 참조)
 
 파트너 센터에서 공동 판매 환경을 사용하면 영업 팀은 잠재 고객 및 기회를 창출하고, 거래를 완료하고, 지속적인 고객 관계를 만드는 데 더 많은 시간을 투자할 수 있습니다.
 
 ### <a name="next-steps"></a>다음 단계
 
-파트너 센터 [전환 가이드](https://docs.microsoft.com/partner-center/psc-to-pc)를 사용하여 PSC의 거래를 파트너 센터로 마이그레이션하는 단계를 알아보세요.
+파트너 센터 [전환 가이드](../psc-to-pc.md)를 사용하여 PSC의 거래를 파트너 센터로 마이그레이션하는 단계를 알아보세요.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
@@ -292,7 +505,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 Microsoft 최초의 사용자 단위 Power BI Premium 제품이 곧 출시됩니다. Power BI Premium은 현재 용량 구성으로만 판매됩니다. Power BI Premium Per User는 엔터프라이즈 BI(비즈니스 인텔리전스) 및 분석 기능에 대한 액세스를 제공합니다. 유연한 개별 사용자 단위 라이선스는 중소기업에 적합합니다.
 
-이 제품에 대한 자세한 내용은 [Power BI 릴리스 정보](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features)를 검토하세요.
+이 제품에 대한 자세한 내용은 [Power BI 릴리스 정보](/power-platform-release-plan/2020wave2/power-bi/planned-features)를 검토하세요.
 
 
 **솔루션 세부 정보**

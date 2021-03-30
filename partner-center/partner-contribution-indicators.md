@@ -1,7 +1,7 @@
 ---
 title: 파트너 기여 지표-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 실버 또는 골드 클라우드 Business Applications 역량을 얻기 위한 파트너를 보여 주는 7 개의 PCI (파트너 기여 지표)에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193650"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730266"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>파트너 기여 지표를 사용 하 여 클라우드 Business Applications 역량 얻기
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193650"
 - 계정 관리자
 
 이 문서에서는 실버 또는 골드 클라우드 Business Applications 역량을 실현 하거나 유지 하기 위한 파트너의 진행 상황을 평가 하는 데 사용 되는 7 개의 주요 파트너 기여 지표 (PCI)에 대해 설명 합니다.
+
+파트너 기여 대시보드에서 PCI 진행률을 볼 수 있습니다. 데이터는 매월 20 업데이트 되며 이전 달의 데이터와 함께 업데이트 됩니다. 예를 들어 2 월 데이터는 3 월 20에 게시 됩니다.
 
 > [!NOTE]
 > 파트너가 다른 파트너 기여 지표 메트릭을 사용 하 여 Midmarket Business Applications 클라우드 솔루션 역량을 얻기 위해 다른 파트너 기여 지표 메트릭 집합을 사용 하는 방법에 대해 알아봅니다. 자세한 내용은 [Small 및 Midmarket 클라우드 솔루션 역량을 위한 파트너 기여 지표 사용](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)을 참조 하세요. 또한 역량 및 해당 요구 사항에 대해 [자세히 알아볼](https://partner.microsoft.com/membership/competencies) 수 있습니다.
@@ -109,6 +111,20 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 
 각 PCI 메트릭에는 회사 최대 포인트를 얻을 수 있는 Microsoft 설정 임계값이 있습니다. 이러한 임계값은 클라우드 Business Applications 역량을 얻기 위해 사용 되는 고객 참여 및 재정 및 작업 경로에 따라 다릅니다. 개발 된 시장에서 작동 하는 파트너와 시장 개발 에서만 작동 하는 파트너에 대 한 임계값도 다릅니다. 국가의 **개발** 또는 **개발** 은 [Microsoft 파트너 네트워크 정의](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)를 기준으로 합니다.
 
+4 메트릭은 파트너가 업무를 수행 하는 위치에 따라 측정 되며 MPN 위치가 등록 되지 않습니다. 즉, 개발 된 시장의 고객이 있는 개발 시장에 등록 된 파트너는 개발 된 국가의 PCI 점수를 충족 해야 합니다.
+
+아래 표에서는 메트릭에 의해 적용 되는 위치를 보여 줍니다.
+
+| 메트릭 이름 | 위치 |
+|:-------|:--------|
+| 신규 순수익 | 고객 위치 |
+| Net customer 추가 | 고객 위치 |
+| 기능 컨설턴트 | 파트너 위치 |
+| 개발자 | 파트너 위치 |
+| 기능 컨설턴트 증가 | 파트너 위치 |
+| MAU 증가 | 고객 위치 |
+| 신규 대규모 배포 | 고객 위치 |
+
 각 메트릭의 점수는 고객 참여 및 재정 및 운영에 대 한 별도의 PCI 점수를 생성 하도록 계산 됩니다. 이 점수는 매월 업데이트 됩니다.
 
 파트너는 아래 표시된 임계값을 충족하거나 초과하는 경우 지정된 메트릭에 대한 최대 포인트를 얻을 수 있습니다. 기능적 컨설턴트 성장을 제외 하 고 모든 메트릭에 대해 일부 요소를 사용할 수 있습니다.
@@ -160,7 +176,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 파트너는 제품 내 구독 수준에서 고객과 연결을 설정한 경우 DPOR이 됩니다.
 
 > [!NOTE]
-> 지정 된 고객 구독에 대해 CPOR 및 DPOR가 모두 있는 경우 CPOR는 해당 구독과 연결 된 관련 PCI 메트릭에 대 한 크레딧을 받게 됩니다. OSA를 통해 연결 된 경우 CPOR는 Net new 수익 및 Net customer에 대 한 크레딧을 받습니다. OSU를 통해 연결 된 경우 CPOR는 새 배포 및 월별 활성 사용자 성장을 위한 크레딧을 받습니다.
+> 지정 된 고객 구독에 대해 CPOR 및 DPOR가 모두 있는 경우 CPOR는 해당 구독과 연결 된 관련 PCI 메트릭에 대 한 크레딧을 받게 됩니다. OSA (수익 청구)를 통해 연결 된 경우 CPOR는 Net new 수익 및 Net customer에 대 한 크레딧을 받습니다. OSU (사용 클레임)를 통해 연결 된 경우 CPOR는 새 배포 및 월별 활성 사용자 성장을 위한 크레딧을 받습니다. 사전 판매 클레임은 PCI에 적합 하지 않습니다.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>이 역량에 대 한 자세한 PCI 메트릭 정의
 
@@ -324,9 +340,10 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
   
   (개발 된 및 개발 시장에 대 한 자세한 내용은 이러한 [Microsoft 파트너 네트워크 정의](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)를 참조 하세요.)
 
-- 테 넌 트가 다음과 같은 경우 월별 활성 사용자 임계값을 초과 하는 것으로 간주 됩니다. 
+- 테 넌 트가 다음과 같은 경우 월별 활성 사용자 임계값을 초과 하는 것으로 간주 됩니다.
 
   - 지정 된 임계값 보다 12 개월 전 
+
   - 이후 11 개월 동안 한 번 이상 임계값을 초과 했습니다.
 
 - 월간 활성 사용자는 테 넌 트 수준에서 계산 되 고 테 넌 트의 유료 구독에 대해서만 합산 됩니다.

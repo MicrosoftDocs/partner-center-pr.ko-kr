@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065474"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880789"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
 
@@ -142,6 +142,10 @@ CSP 간접 재판매인의 법적 비즈니스 위치에 따라 협업할 수 �
 
 ## <a name="next-steps"></a>다음 단계
 
+- [간접 공급자가 재판매인의 Microsoft 파트너 계약 체결에 도움을 주는 방법 - FAQ](mpa-indirect-provider-faq.md)
+
+- [Microsoft 파트너 계약](microsoft-partner-agreement.md)
+
 - [계정 확인 프로세스](verification-responses.md)
 
 - [파트너 센터 계정 관리](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ CSP 간접 재판매인의 법적 비즈니스 위치에 따라 협업할 수 �
 - [확인 프로세스에 대해 알아보기](verification-responses.md)
 
 - [직접 청구 파트너 요구 사항 참조](direct-partner-new-requirements.md)
-- [Microsoft 파트너 계약](microsoft-partner-agreement.md)
+

@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터 계정 관리
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 파트너 센터에서 회사의 프로필, 은행 및 세금 정보, 역할, 권한 등을 관리하는 방법을 알아봅니다.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487013"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712857"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
 **적절한 역할** – 전역 관리자
 - MPN 계정 관리자
 
-등록 시 파트너 센터에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사의 계정에는 파트너 센터를 사용하여 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성 작업, 비즈니스 프로필 만들기, 추천 관리, 인센티브 프로그램 작업 및 지원 제공을 수행하는 모든 사용자의 사용자 계정이 포함됩니다.
+등록 시 파트너 센터에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사 계정에는 파트너 센터를 사용하는 팀의 모든 사용자를 위한 사용자 계정이 포함됩니다. 이러한 사용자가 수행하는 작업에는 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성, 비즈니스 프로필 만들기, 추천 관리, 성과급 프로그램 작업, 지원 제공 등이 포함됩니다.
 
 또한 [파트너 센터에 가입하도록 직원 초대](guide-to-migration.md) 및 [새 사용자 추가](create-user-accounts-and-set-permissions.md) 문서도 참조하세요.
 
@@ -30,7 +30,7 @@ ms.locfileid: "103487013"
 
 ## <a name="account-management"></a>계정 관리
 
-모든 파트너, 상업 및 개발자의 파트너 설정에서 계정 관리에 액세스하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고 화면의 오른쪽 위에 있는 **설정**(기어 아이콘)을 선택한 후 **계정 설정** 을 선택합니다. 이제 모든 프로필과 설정이 결합되므로 더 이상 파트너와 개발자 설정 중에서 선택할 필요가 없습니다.
+모든 상업 및 개발자 파트너는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고 화면의 오른쪽 위에 있는 **설정**(기어 아이콘)을 선택한 후 **계정 설정** 을 선택하여 파트너 센터의 **계정 관리** 에 액세스할 수 있습니다. 더 이상 파트너와 개발자 설정 중에서 선택할 필요가 없습니다. 이제 모든 프로필 및 설정이 결합되었습니다.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="설정 아이콘":::
 
@@ -56,7 +56,7 @@ ms.locfileid: "103487013"
 
 둘 이상의 계정에 속할 수 있습니다. 왼쪽 탐색 메뉴에 "계정 선택기"가 있으면 여러 계정에 속해 있음을 알 수 있습니다.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="계정 선택기 확인":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="계정 선택기 확인":::
 
 계정 선택기가 표시되지 않으면 한 계정에만 속해 있는 것입니다. 
 
@@ -64,7 +64,7 @@ ms.locfileid: "103487013"
 
 아래 예제에서 로그인한 사용자는 세 개의 강조 표시된 계정에 속합니다. 사용자는 계정을 클릭하여 이들 사이를 전환할 수 있습니다.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="속해 있는 계정":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="속해 있는 계정":::
 
 ## <a name="organization-profile"></a>조직 프로필
 
@@ -74,11 +74,17 @@ ms.locfileid: "103487013"
 
 ### <a name="legal-info"></a>법적 정보
 
-파트너 센터에 처음 가입하면 회사는 Microsoft와의 확인 프로세스를 거칩니다. **법적 정보** 페이지에서 확인 상태를 추적할 수 있습니다. 여기에는 Microsoft가 파트너 질문과 관련하여 연락하는 사람인 기본 연락 담당자와 법적 정보 및 상태를 관리하는 기본 법적 연락 담당자가 표시됩니다. 여기에는 회사의 모든 비즈니스 위치가 나열되고 추가될 수 있습니다.
+파트너 센터에 처음 가입하면 회사는 Microsoft와의 확인 프로세스를 거칩니다. **법적 정보** 페이지에서 확인 상태를 추적할 수 있습니다. 여기에는 Microsoft가 파트너 질문과 관련하여 연락하는 사람인 주 연락처와 법적 정보 및 상태를 관리하는 사람인 주 법적 연락처가 표시됩니다. 여기에는 회사의 모든 비즈니스 위치가 나열되고 추가될 수 있습니다. 
+
+### <a name="provide-your-companys-legal-business-details"></a>회사의 법적 비즈니스 세부 정보 제공
+
+회사 프로필을 조회하거나 회사 정보를 수동으로 입력할 수 있습니다. 회사가 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)에 등록된 경우 DUNS ID를 사용하여 회사 정보를 조회합니다. 회사 세부 정보를 직접 제공하려면 **수동** 을 선택합니다.
+
+회사가 **아르메니아**, **헝가리**, **키르기스스탄**, **몰도바**, **우즈베키스탄** 또는 **러시아** 에 있고 주소를 수동으로 입력하는 경우 주소의 유효성 검사가 수행됩니다. 입력한 항목이 유효성이 검사된 항목과 다른 경우에는 유효성이 검사된 주소를 사용하는 것이 좋습니다. 인증은 주소가 정확하며 배송 가능한 주소인지 확인합니다.
 
 ### <a name="primary-contact-email"></a>기본 연락처 이메일
 
-기본 연락처 이메일은 계정 확인 관련 정보를 알려주는 데 사용됩니다. 기본 연락처에 제공하는 이메일은 정기적으로 관리하고 감시하는 이메일이어야 합니다.  
+주 연락처 이메일은 계정 인증 관련 정보를 알려주는 데 사용됩니다. 주 연락처에 제공하는 이메일은 정기적으로 관리하고 감시하는 이메일이어야 합니다.  
 
 [확인 및 계정 정보](verification-responses.md)에 대해 자세히 알아보세요.
 

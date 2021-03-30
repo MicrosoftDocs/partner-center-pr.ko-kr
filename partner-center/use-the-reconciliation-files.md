@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633899"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730088"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 품목을 읽는 방법에 대해 알아봅니다.
 
@@ -76,6 +76,15 @@ Microsoft Excel에서 조정 파일을 다운로드할 수 있지만 파일을 �
 4. 메시지가 표시 되 면 정찰 파일을 엽니다. 데이터가 표시 됩니다.
 5. **로드** 드롭다운 메뉴에서 **로드 대상** 을 선택 하 고 **확인** 을 선택 합니다.
 6. **데이터 가져오기** 대화 상자에서 **피벗 테이블 보고서** 를 선택 하 여 파일을 엽니다.
+
+## <a name="negative-amount-displayed"></a>음수 값 표시
+
+조정 파일에 음수 금액이 표시 될 수 있습니다. 이 문제는 다음 중 한 가지 이유로 인해 발생할 수 있습니다.
+
+- 최근에 라이선스 수를 취소 했거나 축소 했습니다.
+- SLA (서비스 사용권 계약) 또는 Azure 사용량에 대 한 크레딧을 받았습니다.
+
+이 트랜잭션에 대 한 자세한 정보를 보려면 조정 파일에서 해당 청구 유형 특성을 검토 합니다.
 
 ## <a name="map-taxes-or-vat"></a>세금 또는 VAT 지도
 
