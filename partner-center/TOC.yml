@@ -93,6 +93,8 @@
         - name: MPN 파트너를 위한 데모
           href: mpn-demos.md
           displayName: mpn
+        - name: 혜택 정책 및 사용량 - FAQ
+          href: benefits-faq-new.md
         - name: 혜택 FAQ
           href: benefits-faq.md
           displayName: 'renew, license,'
