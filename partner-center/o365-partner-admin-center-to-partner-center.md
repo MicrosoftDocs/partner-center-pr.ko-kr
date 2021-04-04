@@ -9,24 +9,19 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: 9e4f67bd7dcea1cc41a7e4400aa0624eb4dbada5
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720818"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132709"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Office 365 파트너 관리 센터 파트너-비즈니스 작업을 파트너 센터로 이동할 준비
-
-**적용 대상** 
-
-- 파트너 센터
-- Office 365 파트너 관리 센터
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 

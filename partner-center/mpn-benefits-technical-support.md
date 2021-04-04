@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712905"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133032"
 ---
 # <a name="technical-support-benefits"></a>기술 지원 혜택
 
 **적절한 역할**
--   글로벌 관리자 
--   MPN 파트너 관리자 
--   관리 에이전트 
+
+- 글로벌 관리자
+- MPN 파트너 관리자
+- 관리 에이전트
 
 ## <a name="overview"></a>개요
 
@@ -38,11 +39,11 @@ ms.locfileid: "104712905"
 2. 왼쪽 탐색 메뉴에서 혜택을 확장 하 고 **기술 혜택** 을 선택 합니다. 골드, 실버 또는 Microsoft Action Pack 회원 혜택에 사용할 수 있는 기술 지원 혜택 목록이 포함 된 기술 혜택 페이지가 나타납니다. 
 
     > [!NOTE]
-    >활성 멤버 자격이 없는 경우 "아직 혜택이 없습니다." 라는 메시지가 표시 됩니다. 회사에 활성 회원 자격이 있지만이를 볼 수 없는 경우 잘못 된 계정을 사용 하 여 로그인 했을 수 있습니다. 계정을 확인 하려면 페이지 오른쪽 위에 있는 **계정** 아이콘을 클릭 하 고 **다른 계정으로 로그인** (필요한 경우)을 클릭 합니다.
+    >활성 멤버 자격이 없는 경우 "아직 혜택이 없습니다." 라는 메시지가 표시 됩니다. 회사에 활성 회원 자격이 있지만이를 볼 수 없는 경우 잘못 된 계정을 사용 하 여 로그인 했을 수 있습니다. 계정을 확인 하려면 페이지의 오른쪽 위에서 **계정** 아이콘을 선택 하 고 **다른 계정으로 로그인** (필요한 경우)을 선택 합니다.
 
 3. Microsoft 기술 지원 또는 서명 제품 지원 사용을 시작 하려면 혜택을 활성화 해야 합니다. 활성화가 완료 되 면 액세스 ID 및 계약 ID가 표시 됩니다. 
 
-    -   혜택을 활성화 하려면 활성화 단추를 클릭 합니다. 활성화에 사용 되는 사용자 계정에는 전역 관리자 또는 MPN Partner Admin 역할이 필요 합니다. 활성화 요청을 처리하는 데 며칠이 걸릴 수 있습니다. 
+    -   혜택을 활성화 하려면 활성화 단추를 선택 합니다. 활성화에 사용 되는 사용자 계정에는 전역 관리자 또는 MPN Partner Admin 역할이 필요 합니다. 활성화 요청을 처리하는 데 며칠이 걸릴 수 있습니다. 
 
     - 액세스 ID 및 계약 ID가 표시 되는 경우 Microsoft 기술 지원 및 서명 제품 지원 (골드 및 실버 구성원)을 사용할 수 있습니다. 
 
@@ -73,7 +74,7 @@ Microsoft 파트너 네트워크 멤버 자격의 일부로 파트너는 다음�
 
 액세스 ID 및 계약 ID가 있는 경우 모든 사용자 계정 (AAD 또는 MSA)에서 온-프레미스 제품에 대 한 기술 지원을 사용할 수 있습니다.
 
-[비즈니스 지원](https://support.serviceshub.microsoft.com/supportforbusiness/create) 을 클릭 하 여 온-프레미스 제품에 대 한 지원 요청을 만듭니다.
+온-프레미스 제품에 대 한 지원 요청을 만들려면 [비즈니스 지원](https://support.serviceshub.microsoft.com/supportforbusiness/create) 을 선택 합니다.
 
 ## <a name="signature-cloud-support-cloud-only"></a>서명 클라우드 지원 (클라우드 전용)
 
@@ -83,7 +84,7 @@ Microsoft 파트너 네트워크 멤버 자격의 일부로 파트너는 다음�
 
 Azure 요청을 만드는 CSP 파트너는 지원 계약을 추가 하지 않고 "클라우드 솔루션 공급자" 지원 계획을 사용할 수 있습니다.
 
-**관리 에이전트** 역할이 있는 사용자는 왼쪽 탐색 메뉴의 CSP에서 [고객](https://partner.microsoft.com/commerce/customers/list) 을 선택 하 고, **서비스 관리** 를 선택 하 고, **새 요청** 을 클릭할 수 있습니다.  관련 작업을 선택 하면 워크 로드 별 포털이 열리고 지원 계약을 추가 하 고 요청을 만듭니다.
+**관리 에이전트** 역할이 있는 사용자는 왼쪽 탐색 메뉴에서 CSP 아래에 있는 [고객](https://partner.microsoft.com/commerce/customers/list) 을 선택 하 고, **서비스 관리** 를 선택 하 고, **새 요청** 을 선택할 수 있습니다.  관련 작업을 선택 하면 워크 로드 별 포털이 열리고 지원 계약을 추가 하 고 요청을 만듭니다.
 
 ## <a name="partner-support-plans"></a>파트너 지원 계획
 

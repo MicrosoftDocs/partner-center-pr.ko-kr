@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175269"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086229"
 ---
 # <a name="download-reports"></a>보고서 다운로드
 
 **적절한 역할**
+
 - 임원 보고서 뷰어
 - 보고서 뷰어
 
@@ -30,11 +31,11 @@ Insights 대시보드의 다운로드 보고서 허브를 사용 하면 파트�
 
 **새 보고서 만들기**
 
-보고서를 생성 하려면 먼저 **보고서 선택** 드롭다운에서 보고서를 선택 합니다. 그런 다음 **날짜 범위 선택** 드롭다운에서 날짜 범위를 선택 합니다. **생성**을 선택합니다. 보고서는 TSV (탭으로 구분 된 값) 형식으로 생성 되며 몇 분 내에 **생성 된 보고서** 섹션에서 다운로드할 수 있습니다. 이전 14 일 동안 생성 된 보고서를 다운로드할 수 있습니다.
+보고서를 생성 하려면 먼저 **보고서 선택** 드롭다운에서 보고서를 선택 합니다. 그런 다음 **날짜 범위 선택** 드롭다운에서 날짜 범위를 선택 합니다. **생성** 을 선택합니다. 보고서는 TSV (탭으로 구분 된 값) 형식으로 생성 되며 몇 분 내에 **생성 된 보고서** 섹션에서 다운로드할 수 있습니다. 이전 14 일 동안 생성 된 보고서를 다운로드할 수 있습니다.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="새 보고서 만들기":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="새 보고서 만들기":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="생성 된 보고서":::
 
 >[!NOTE] 
 >임원 보고서 뷰어 인 사용자만 보고서를 다운로드할 수 있습니다. Insights 대시보드 보고서에 대 한 역할 기반 액세스에 대 한 자세한 내용은 [PCI 역할](pci-roles.md)을 참조 하세요. 
@@ -43,7 +44,7 @@ Insights 대시보드의 다운로드 보고서 허브를 사용 하면 파트�
 
 다운로드 하는 데 사용할 수 있는 보고서는 다음과 같습니다.
 
-**파트너 프로필** 은 파트너와 관련 된 세부 정보를 제공 합니다. 파트너 ID, 파트너 이름, 파트너 도시, 파트너 국가 등의 세부 정보를 보고서에서 사용할 수 있습니다. 이 보고서에 적용 되는 집계 또는 lookback 없습니다.
+**파트너 프로필** 은 파트너와 관련 된 세부 정보를 제공 합니다. 파트너 ID, 파트너 이름, 파트너 도시 및 파트너 국가와 같은 세부 정보를 보고서에서 사용할 수 있습니다. 이 보고서에 적용 되는 집계 또는 lookback 없습니다.
 
 **고객 세부 정보** 는 파트너와 연결 된 고객의 세부 정보를 제공 합니다. 또한 판매 된 라이선스, 집계 된 ACR 등의 주요 메트릭을 제공 합니다. 보고서는 월 기준으로 집계 됩니다.
 

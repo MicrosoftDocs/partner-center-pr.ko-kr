@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757387"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132488"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>실버 또는 골드 역량에 관련 된 요금을 지불 하는 방법
 
 **적절한 역할**
 
 - MPN 파트너 관리자
-- MPN 계정 관리자
+- 계정 관리자
 
 이 문서에서는 실버 또는 골드 Microsoft 파트너 네트워크 역량을 실현 하는 것과 관련 된 요금을 지불 하는 방법 및 시기에 대해 설명 합니다. 또한이 문서에서는 기본 결제 방법, 주문을 취소 하는 방법 및 실버에서 골드 역량으로 이동할 때 25% 요금 할인을 받는 방법에 대해 설명 합니다.
 

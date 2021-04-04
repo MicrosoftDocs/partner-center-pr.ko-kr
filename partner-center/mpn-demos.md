@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082944"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132590"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>MPN 파트너를 위한 데모-Microsoft 365, Dynamics 365, 팀 등
 
-**적절 한 역할**:
+**적절한 역할**
 
 - MPN 파트너 관리자
 - 계정 관리자
 
-Microsoft 파트너 네트워크은 실버, 골드 및 Action Pack 파트너를 위한 다양 한 데모를 제공 합니다.
+MPN (Microsoft 파트너 네트워크)는 실버, 골드 및 Action Pack 파트너를 위한 다양 한 데모를 제공 합니다.
 
 ## <a name="access-mpn-demos"></a>MPN 데모 액세스
 

@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909292"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132403"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>로고 작성기를 사용 하 여 파트너 로고, 인증 된 편지 또는 상장을 만드는 방법
 
 **적절한 역할**
 
-- 로고 작성기에 대해 더 자세히 알고 싶은 모든 파트너 센터 사용자
+- 로고 작성기에 대해 더 자세히 알아보는 데 관심이 있는 모든 파트너
 
 실버 또는 골드 역량 실현의 가치는 고객과 차별화 될 기회입니다. 파트너 센터에서 판매 및 마케팅 자료에 사용할 수 있는 로고와 파트너 센터의 비즈니스 프로필에서 획득 한 역량 또는 역량을 보여 주는 로고는 역량 혜택에 포함 됩니다. 
 
@@ -28,7 +28,7 @@ Azure 전문가 MSP 프로그램에 동의 했거나, 수상 경력의 파트너
 
 ## <a name="what-is-available-in-logo-builder"></a>로고 작성기에서 사용할 수 있는 기능
 
-로고 작성기에서 회사에 사용할 수 있는 항목은 MPN (Microsoft 파트너 네트워크) 멤버 자격에 맞게 정렬 됩니다. MPN 멤버 자격을 변경 하는 데 최대 24 시간이 소요 됩니다. 예를 들어 새로운 역량을 실현 하는 것이 반영 됩니다.  
+로고 작성기에서 회사에 사용할 수 있는 로고는 Microsoft 파트너 네트워크 (MPN) 멤버 자격에 맞춰 정렬 됩니다. MPN 멤버 자격을 변경 하는 데 최대 24 시간이 소요 됩니다. 예를 들어 새로운 역량을 실현 하는 것이 반영 됩니다.
 
 로고 작성기에서 만들 수 있는 자산에는 다음이 포함 됩니다.
 
@@ -44,7 +44,7 @@ Azure 전문가 MSP 프로그램에 동의 했거나, 수상 경력의 파트너
 
 - Microsoft Action Pack를 구매한 파트너를 위한 로고
 
-## <a name="create-a-logo-using-logo-builder"></a>로고 작성기를 사용 하 여 로고 만들기
+## <a name="create-a-logo-using-logo-builder"></a>로고 작성기를 사용하여 로고 만들기
 
 로고 작성기 프로필은 사용자의 조직에 대 한 로고 빌더 정보를 포함 하며 정보를 위한 것입니다.
 

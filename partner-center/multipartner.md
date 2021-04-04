@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322120"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132267"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>둘 이상의 파트너와 함께 작업 하려는 고객에 대 한 다중 파트너 지원
 
 **적용 대상**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 영업 상담원
 
 파트너 센터의 다중 파트너 기능은 고객이 둘 이상의 파트너와 함께 작업 하려는 경우의 시나리오를 지원 합니다. 예를 들어, 고객은 Office 365에서 전문 기술에 대 한 파트너를 고용 하려고 하지만 Microsoft Azure 전문으로 하는 다른 파트너를 고용 하고자 할 수 있습니다.
@@ -46,4 +45,4 @@ Azure CSP 테 넌 트는 다른 CSP 파트너의 추가 Azure 구독을 포함�
 - 구독에 대 한 레코드 파트너 변경
 
 > [!IMPORTANT]  
-> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 트랜잭션을 수행 하는 데 사용 되는 테 넌 트에만 적용 됩니다. 회사에서 사용 하는 csp 이외의 테 넌 트를 사용 하는 CSP 파트너는 다른 CSP 파트너 로부터 온라인 서비스를 구매할 수 있습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.
+> 현재 CSP 프로그램의 파트너는 CSP 프로그램의 다른 파트너에게 온라인 서비스를 재판매할 수 없습니다. 이 제한은 CSP 거래 수행에 사용되는 테넌트에만 적용됩니다. 회사용으로 CSP가 아닌 테넌트를 사용하는 CSP 파트너는 다른 CSP 파트너에게서 온라인 서비스를 구입할 수 있습니다. Microsoft에서는 모든 프로그램의 정책과 기능을 지속적으로 검토하고 있습니다. 기능 릴리스 또는 정책 변경에 대한 뉴스는 [파트너 센터 발표](announcements/index.md)를 포함한 일반적인 통신 채널을 통해 발표될 것입니다.

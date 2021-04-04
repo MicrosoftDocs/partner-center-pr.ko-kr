@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712259"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103777"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 일회성 구매 조정 파일 필드
 
@@ -40,7 +40,7 @@ ms.locfileid: "104712259"
 | SkuName | SKU 이름입니다. | *테이블-LRS* |
 | ProductName | 제품 이름입니다. | *테이블* |
 | ChargeType | 요금 또는 조정 [의 유형](./recon-file-charge-types.md) 입니다. | *새로 만들기* |
-| UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *0.045* |
+| 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *0.045* |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *1* |
 | 소계 | 세금 앞의 합계입니다. 부분합이 청구 가능한 수량에 유효 단가를 곱한 값과 같아야 합니다. | *0* |
 | TaxTotal | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |
@@ -51,8 +51,8 @@ ms.locfileid: "104712259"
 | PublisherId | 파트너 센터가 게시자를 식별 하는 데 사용 하는 고유 식별자입니다. | *수치* |
 | SubscriptionDescription | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. 이 열은 OfferName와 동일한 필드입니다. | *Azure 플랜* |
 | SubscriptionId | Microsoft 청구 플랫폼에서 사용되는 구독의 고유 식별자입니다. 조정에 사용 되지 않습니다. 이 식별자는 파트너 관리 콘솔의 구독 ID와 동일 하지 않습니다. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | 파트너 센터가 구독 요금을 지불 하는 날짜입니다. 연간 청구 기간 및 월간 청구 계획을 사용 하 여 구독을 구매한 경우에는 첫 번째 조정 파일에서 구독을 구매한 날입니다. 다음 조정 파일부터 시작 하 여 30 일이 지나면 증가 합니다. | *9/1/2020* |
-| ChargeEndDate | 구독의 청구 주기에 대 한 비용의 종료 날짜입니다. 연간 청구 기간 및 월간 청구 계획을 사용 하 여 구독을 구매한 경우에는 첫 번째 조정 파일에서 구독이 구매한 후 30 일이 됩니다. 다음 조정 파일부터 시작 하 여 30 일이 지나면 증가 합니다. | *2020년 9월 30일* |
+| ChargeStartDate | 구독의 청구 기간이 시작 되는 날짜입니다. | *9/1/2020* |
+| ChargeEndDate | 구독의 청구 기간이 종료 되는 날짜입니다. | *2020년 9월 30일* |
 | TermAndBillingCycle | 구매 시 구독을 계속 하는 기간입니다. | *저장 된 데이터 (g b/월)* |
 | EffectiveUnitPrice | 청구 주기에 대 한 비용을 계산 하는 데 비례 하는 단가입니다. 할인, 청구 일의 조정 및 기타 요소는 유효 단가를 결정 합니다. 자세한 내용은 [유효 단위 가격 계산](./effective-unit-price-calculation.md)을 참조 하세요.  | *0.03825* |
 | (Unittype.pixel) | 미터의 요금이 부과 되는 단위 유형입니다. | *1GB/월* |

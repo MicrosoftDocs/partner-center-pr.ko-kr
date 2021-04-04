@@ -9,26 +9,23 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869285"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132607"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>PAC(파트너 관리 센터)에서 파트너 센터로 이동
 
-**적용 대상**
-- 파트너 센터
-- 파트너 관리 센터
-
 **적절한 역할**
+
 - 글로벌 관리자
 
-파트너 센터는 Microsoft 및 고객과의 파트너 관계를 관리할 수 있는 단일 공간으로 진화하고 있습니다. 파트너 센터에서 멤버십, 고객 추천, 인센티브 및 CSP(클라우드 솔루션 공급자) 프로그램의 모든 기타 측면을 관리할 수 있습니다. 파트너 센터에서 PAC에서 했던 대부분 작업을 수행할 수 있지만, 일부 기능 및 작업은 다르게 작동할 수 있습니다.
+파트너 센터는 Microsoft 및 고객과의 파트너 관계를 관리할 수 있는 단일 공간으로 진화하고 있습니다. 파트너 센터에서 클라우드 솔루션 공급자 프로그램 (CSP)의 멤버 자격, 고객 조회, 성과급 및 기타 모든 측면을 관리할 수 있습니다. 파트너 센터의 PAC에서 수행 하는 대부분의 작업을 수행할 수 있습니다. 그러나 일부 기능이 다르게 작동 됩니다.
 
 
-|**작업**   |**PAC**   |**파트너 센터**   |
+|**동작**   |**PAC**   |**파트너 센터**   |
 |--------------|:--------------|:---------------|
 |사용자 계정 활동 및 고객의 개요|홈 화면|파트너 센터|
 |새 고객 유치 및 유료 및 평가판 서비스에 대한 견적 제공|비즈니스 구축 -> 견적 전송|파트너 센터-> 평가판 및 구매 제안 |

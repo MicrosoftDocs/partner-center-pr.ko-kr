@@ -8,16 +8,17 @@ description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146701"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086314"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 정보 대시보드에서 사용할 수 있는 Office 365 사용 보고서
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 관리 에이전트
 - 보고서 뷰어
@@ -54,7 +55,7 @@ Office 365 사용량 보고서는 고객이 판매 하거나 관리 하는 Offic
 
 ## <a name="office-365-usage-by-geography"></a>지리 별 Office 365 사용
 
-**지리 별 Office 365 사용** 은 Mau (월간 활성 사용자)와 고객 국가의 Pau (유료 사용 단위) 분포를 보여 줍니다. MAU는 이전 달에 사용 되는 라이선스 수를 참조 하 고 PAU는 선택한 기간 동안 판매 되거나 관리 되는 유료 사용자 수를 나타냅니다. 지도의 밝은 색은 낮은 값을 나타내고, 짙은 색은 더 높은 값을 나타냅니다. 표에서 국가를 검색 하 고 선택할 수 있습니다. 더 자세히 보기 위해 확대할 수도 있습니다.
+**지리 별 Office 365 사용** 은 Mau (월간 활성 사용자)와 고객 국가의 Pau (유료 사용 단위) 분포를 보여 줍니다. MAU는 이전 달에 사용 되는 라이선스 수를 참조 하 고 PAU는 선택한 시간 프레임 동안 판매 되거나 관리 되는 유료 사용자 수를 나타냅니다. 지도의 밝은 색은 낮은 값을 나타내고, 짙은 색은 더 높은 값을 나타냅니다. 표에서 국가를 검색 하 고 선택할 수 있습니다. 더 자세히 보기 위해 확대할 수도 있습니다.
 
 **국가/지역 테이블 수** 에는 Azure 사용 이벤트가 생성 되는 총 국가/지역이 표시 됩니다.
 

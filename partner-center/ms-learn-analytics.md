@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333815"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132318"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn 분석 보고서는 회사의 학습자 상태를 표시 합니다.
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn 분석 보고서는 회사의 학습자 상태를 표시합니다.
 
 **적절한 역할**
--   글로벌 관리자
--   MPN 파트너 관리자
+
+- 글로벌 관리자
+- MPN 파트너 관리자
 
 Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 여 회사의 학습자에 대 한 정보를 제공 합니다. 보고서는 각 개별 학습자의 상태를 표시 합니다. 회사의 전역 관리자와 MPN 관리자는 데이터를 볼 수 있습니다.
 
@@ -73,7 +74,7 @@ Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 �
 
 **모듈 탭**
 
-이 탭에는 회사에서 상위 5 개 모듈 이름으로 완료 된 모듈의 분석이 포함 되어 있습니다. 모듈이 연결 된 제품입니다. 그리고 모듈과 관련 된 사용자 역할을 사용 합니다.  
+이 탭에는 회사에서 4 개의 상위 모듈 이름으로 완료 된 모듈의 분석이 포함 되어 있습니다. 모듈이 연결 된 제품입니다. 그리고 모듈과 관련 된 사용자 역할을 사용 합니다.  
 
 - 모듈 완성 도넛형 차트: 모듈 이름에 따라 모듈 완성 (요약 섹션에 표시 되는 개수)을 분석 합니다.
 
@@ -101,7 +102,7 @@ Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 �
 
 회사의 학습 된 사용자 및 완료 된 모듈 및 학습 경로에 대 한 세부 정보를 나열 합니다.
 
-Microsoft Learn는 사용자 개체 ID를 사용 하 여 학습자를 식별 합니다. **모듈 탭**에서 모든 학습자는 완료 된 모듈을 기준으로 정렬 됩니다. Microsoft Learn 사용자 이름, 개체 ID 및 모듈 수와 함께 표시 됩니다. 사용자 이름을 사용 하 여 검색할 수 있습니다. 
+Microsoft Learn는 사용자 개체 ID를 사용 하 여 학습자를 식별 합니다. **모듈 탭** 에서 모든 학습자는 완료 된 모듈을 기준으로 정렬 됩니다. Microsoft Learn 사용자 이름, 개체 ID 및 모듈 수와 함께 표시 됩니다. 사용자 이름을 사용 하 여 검색할 수 있습니다. 
 
 **학습 경로 탭** 에서 학습 경로를 기준으로 정렬 된 모든 학습자가 학습자 표시 이름, 개체 ID 및 모듈 수와 함께 표시 됩니다.
 
@@ -125,13 +126,13 @@ Microsoft Learn는 사용자 개체 ID를 사용 하 여 학습자를 식별 합
 
 전역 관리자가 새 사용자를 추가 하면 해당 사용자는 자신의 **프로필** 로 이동 하 여 Microsoft Learn 계정을 연결 해야 합니다.
 
-- 대시보드의 오른쪽 모서리에 있는 **계정** 아이콘을 선택 하 고 **내 프로필**을 선택 합니다. 
+- 대시보드의 오른쪽 모서리에 있는 **계정** 아이콘을 선택 하 고 **내 프로필** 을 선택 합니다. 
 
 -  사용자의 **학습** 에 따라 사용자는 자신의 Microsoft learning 계정을 연결 하 고 파트너 대학에 Microsoft 계정를 연결할 수 있습니다.
 
 3. 이 보고서에서 MSA 계정으로 Microsoft Learn에 로그인 하는 회사의 모든 사용자를 볼 수 있나요?
 
-현재이 작업을 수행 하는 가장 좋은 방법은 이러한 사용자를 Azure AD 테 넌 트에 추가 하 고 파트너 센터에 추가 하 여 파트너 센터의 **내 프로필** 을 통해 Microsoft Learn 계정을 연결할 수 있도록 하는 것입니다. 
+현재이 작업을 수행 하는 가장 좋은 방법은 이러한 사용자를 Azure AD 테 넌 트에 추가한 다음 파트너 센터에 추가 하 여 파트너 센터의 **내 프로필** 을 통해 Microsoft Learn 계정을 연결할 수 있도록 하는 것입니다. 
 
 학습을 위해 MSA 계정만 사용 하는 사용자의 경우, 가까운 시간에 Microsoft Learn 팀은 자신의 작업 메일을 Microsoft Learn 프로필에 연결 하는 기능을 사용할 수 있습니다. 
 

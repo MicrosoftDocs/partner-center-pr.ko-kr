@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756136"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133049"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>파트너 센터를 사용 하 여 Microsoft Learning 파트너로 등록
 
 **적절한 역할**
 
 - MPN 파트너 관리자
-- MPN 계정 관리자
+- 계정 관리자
 
 이 문서에서는 Microsoft 파트너 네트워크 파트너가 학습 파트너 프로그램에 등록할 수 있는 다양 한 방법을 설명 합니다.
 
@@ -50,7 +50,7 @@ Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에
 
 학습 Action Pack는 교육 서비스, 교육 과정에 대 한 제품 또는 할인을 제공 하려는 파트너와 파트너 들이 다양 한 Microsoft 제품 라인에서 전문가가 될 수 있는 이점을 지원 합니다.
 
-비 학습 파트너는 내부 교육에 대해서만 전체 가격으로 교육 과정을 구매할 수 있습니다. 조직 외부의 콘텐츠를 배달 하려는 경우 하나의 Microsoft 공인 교육 담당자 (1 MCT)가 필요 하며 학습 Action Pack에 등록 해야 합니다.
+비 학습 파트너는 내부 교육에 대해서만 전체 가격으로 교육 과정을 구매할 수 있습니다. 조직 외부의 콘텐츠를 배달 하려는 경우 하나의 Microsoft 공인 교육 담당자 (MCT)가 필요 하며 학습 Action Pack에 등록 해야 합니다.
 
 필요한 Kpi에 도달 하면 추가 요구 사항을 완료 하 고 실버/골드 학습 옵션으로 업그레이드 하도록 선택할 수 있습니다.
 
@@ -109,7 +109,7 @@ Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에
 
 KPI 보고서는 월 중간에 한 달에 한 번 업데이트 됩니다. 학습 프로그램 갱신 자격은 기념일을 기준으로 이전 12 개월 동안 획득 한 Kpi에 대해 측정 됩니다. 예를 들어 2020 년 1 월 15 일부터 KPI 데이터는 1 월 2019 일에서 12 월 2019 일로 표시 됩니다. 송장이 1 월 2020 일에 해당 하는 Kpi는 2019 년 2 월 15 일부 터 표시 됩니다. **주문 확인 및 파트너 보고서는 허용 되지 않습니다.** 실제 송장은 수락 됩니다.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>17. 1 일 학습은 1 개의 KPI와 동일 하나요?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>17. 1 일 교육이 하나의 KPI와 동일 합니까?
 
 KPI에 대 한 모임은 학습 기간과는 관련이 없습니다. Kpi를 측정 하는 방법에 대 한 자세한 내용은 [학습 파트너 등록 가이드](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)에서 성능 예를 확인 하세요.
 

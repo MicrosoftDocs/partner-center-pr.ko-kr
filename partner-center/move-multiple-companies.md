@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000077"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132658"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>파트너 구성원 센터에서 여러 회사를 파트너 센터로 이동 (PMC)
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 
@@ -33,11 +33,11 @@ ms.locfileid: "91000077"
 
 마이그레이션한 후 잘못 된 회사 계정이 법적 비즈니스로 지정 된 것을 발견 한 경우 해당 지정을 변경할 수 있습니다.
 
-1. **파트너 프로필**로 이동합니다.
+1. **파트너 프로필** 로 이동합니다.
 
 2. 올바른 비즈니스로 지정 하려는 위치가 위치 목록에 있는지 확인 합니다. 그렇지 않은 경우 추가합니다.
 
-3. **법적 비즈니스 프로필 업데이트**를 선택합니다.
+3. **법적 비즈니스 프로필 업데이트** 를 선택합니다.
 
 4. 비즈니스 및 지역을 선택하고 저장합니다.
 
@@ -51,7 +51,7 @@ ms.locfileid: "91000077"
 
 이 화면에는 파트너 센터에서 이미 만든 기존 계정(이름 및 주소)에 대한 세부 정보와 기본 연락처의 세부 정보가 표시됩니다.
 
-**계속**을 선택합니다.
+**계속** 을 선택합니다.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>계정 통합 시 수행되는 작업
 
@@ -80,7 +80,7 @@ ms.locfileid: "91000077"
 
 이동하는 계정이 기존 계정과 동일한 국가 또는 지역에 있는 경우 해당 주소를 사용할지 아니면 다른 계정을 추가할지 결정할 수 있습니다. 다른 주소를 사용하기로 결정한 경우 해당 주소가 인증됩니다. 동일한 주소를 사용하려는 경우 기존 주소와 기본 연락처가 사용됩니다.
 
-이 화면에서 정보를 확인/편집한 후 제출을 클릭하면 계정이 통합됩니다.
+이 화면에서 정보를 확인/편집한 후 **제출** 을 선택 하면 계정이 통합 됩니다.
 
 ## <a name="partner-profile"></a>파트너 프로필
 

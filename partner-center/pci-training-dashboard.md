@@ -1,5 +1,5 @@
 ---
-title: Insights 교육 대시보드.
+title: Insights 교육 대시보드
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175266"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086246"
 ---
 # <a name="trainings-dashboard"></a>학습 대시보드
 
 **적절한 역할**
+
 - 임원 보고서 뷰어
 - 보고서 뷰어
 
@@ -34,7 +35,7 @@ ms.locfileid: "92175266"
 
 ## <a name="summary"></a>요약
 
-요약 섹션에는 학습 관련 된 다양 한 성능 표시기의 숫자 스냅숏 보기가 표시 됩니다. 다양 한 성능 지표는 인증 된 개인, 인증, 시험 자격 증명을 사용 하는 개인, 시험 자격 증명, 평가 자격 증명 및 평가 자격 증명이 있는 개인입니다. 이 섹션의 데이터는 선택 된 날짜 범위를 기준으로 새로 고쳐집니다. 3 개월 (3M), 6 개월 (6M) & 12 개월 (1Y) 또는 사용자 지정 데이터 범위 (사용자 지정) 일 수 있습니다. 
+요약 섹션에는 학습 관련 된 다양 한 성능 표시기의 숫자 스냅숏 보기가 표시 됩니다. 다양 한 성능 지표는 인증 된 개인, 인증, 시험 자격 증명을 사용 하는 개인, 시험 자격 증명, 평가 자격 증명 및 평가 자격 증명이 있는 개인입니다. 이 섹션의 데이터는 선택한 날짜 범위를 기준으로 새로 고쳐집니다. 3 개월 (3M), 6 개월 (6M), 12 개월 (1Y) 또는 사용자 지정 데이터 범위 (사용자 지정) 일 수 있습니다. 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="요약":::
 
@@ -47,15 +48,15 @@ ms.locfileid: "92175266"
 
 ## <a name="training-performance"></a>학습 성능
 
-학습 성능은 회사의 개인에 의해 완료 된 학습 및 개인의 월 단위 수를 제공 합니다. 선택한 날짜 범위에 대 한 차트 형식의 인증, 평가 및 시험으로 분할 됩니다. X 축은 선택한 날짜 범위의 월을 나타냅니다. Y 축은 선택한 학습 유형에 대 한 개인의 고유 수와 사용 된 학습 수를 나타냅니다. 차트 위의 해당 탭을 클릭 하 여 학습 유형별 분석을 볼 수 있습니다. 선택한 날짜 범위에 대 한 tsv 형식의 다운로드 아이콘을 통해 차트 데이터를 다운로드할 수 있습니다.
+학습 성능은 회사의 개인에 의해 완료 된 학습 및 개인의 월 단위 수를 제공 합니다. 선택한 날짜 범위에 대 한 차트 형식의 인증, 평가 및 시험으로 분할 됩니다. X 축은 선택한 날짜 범위의 월을 나타냅니다. Y 축은 선택한 학습 유형에 대 한 개인의 고유 수와 사용 된 학습 수를 나타냅니다. 차트 위의 해당 탭을 선택 하 여 학습 유형별 분석을 볼 수 있습니다. 선택한 날짜 범위에 대 한 tsv 형식의 다운로드 아이콘을 통해 차트 데이터를 다운로드할 수 있습니다.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="요약":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="학습 성능":::
 
 ## <a name="individuals-performance"></a>개인의 성능
 
 개인의 성능 섹션에서는 회사의 개인이 선택한 날짜 범위에 대해 수행한 학습 세부 정보를 제공 합니다. 섹션의 왼쪽 창에서 개별 이름을 검색 하 여 선택 합니다. 선택한 개인의 학습 세부 정보는 섹션의 오른쪽 패널에 표시 됩니다.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="요약":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="개별 성능":::
 
 >[!NOTE] 
 > 개인용 성능 섹션은 임원 보고서 뷰어 인 사용자만 사용할 수 있습니다. 

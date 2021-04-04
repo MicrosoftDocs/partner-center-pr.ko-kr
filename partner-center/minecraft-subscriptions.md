@@ -8,24 +8,21 @@ description: Minecraft 교육용 Microsoft 교육 고객에 게 Microsoft 교육
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000067"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133015"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Minecraft 판매: 교육 기관 고객에 게 교육용 교육 기관 구독
 
-**적용 대상**
-
--  파트너 센터
-
 **적절한 역할**
--   글로벌 관리자
--   사용자 관리자
--   영업 상담원
--   관리 에이전트
+
+- 글로벌 관리자
+- 사용자 관리 담당자
+- 영업 상담원
+- 관리 에이전트
 
 교육 기관에서 근무 하는 파트너는 **Minecraft: 교육용 버전** 구독을 제공할 수 있습니다. 파트너 센터에서 고객을 대신 하 여 구독을 구매 하면 고객이 [교육용 Microsoft Store](https://educationstore.microsoft.com)에서 소프트웨어를 다운로드 합니다. 
 
@@ -40,16 +37,16 @@ ms.locfileid: "91000067"
 
   1.  파트너 센터 메뉴에서 **고객** 을 선택 합니다.
   
-  2.  고객 목록에서 교육 고객을 선택한 다음 **구독 추가**를 선택 합니다.
+  2.  고객 목록에서 교육 고객을 선택한 다음 **구독 추가** 를 선택 합니다.
   
   3.  요구 사항에 가장 적합 한 청구 빈도를 선택 하 고 **카탈로그** 섹션에서 **교육** 을 선택 합니다.
 
-  4.  고객을 대신 하 여 구매할 Minecraft 구독을 선택 하 고 라이선스 수를 입력 합니다. 완료되면 **다음: 검토**를 클릭합니다.
+  4.  고객을 대신 하 여 구매할 Minecraft 구독을 선택 하 고 라이선스 수를 입력 합니다. 완료되면 **다음: 검토** 를 클릭합니다.
 
       >[!NOTE]
       >파트너 센터에서 이러한 라이선스를 보고 관리할 수 있습니다. Cucstomer는 [Minecraft: 교육 버전 세부 정보 페이지](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) 에서 인벤토리에 이러한 라이선스를 보고 관리 합니다 (세부 정보 페이지를 보려면 교육용 스토어에 로그인 해야 함). 
 
-  5.  주문이 올바르면 **제출**을 선택 합니다. 순서를 변경 해야 하는 경우 **취소** 를 선택 하 고 원하는 변경 작업을 수행 합니다.   
+  5.  주문이 올바르면 **제출** 을 선택 합니다. 순서를 변경 해야 하는 경우 **취소** 를 선택 하 고 원하는 변경 작업을 수행 합니다.   
 
   6.  구독을 성공적으로 구매한 후 교육용 [Microsoft Store 교육](https://educationstore.microsoft.com) 을 통해 소프트웨어를 다운로드 하 고 라이선스를 배포할 수 있습니다.
 

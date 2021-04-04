@@ -9,18 +9,14 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21ef2aaa46359570bbf13c12c5fb6c1f5eab080a
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 6ef5373fd9a606cd25345cbe80a55f28fc1f753f
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811243"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028471"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>파트너 센터에서 Azure AD 애플리케이션(서비스 사용자) 추가
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
@@ -33,9 +29,9 @@ ms.locfileid: "87811243"
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Azure AD 애플리케이션(서비스 사용자) 추가
 
-1. 파트너 센터 대시보드에서 **설정**을 선택한 다음, **개발자 설정**을 선택합니다.
+1. 파트너 센터 대시보드에서 **설정** 을 선택한 다음, **개발자 설정** 을 선택합니다.
 
-2. **사용자**를 선택한 다음, **Azure AD 애플리케이션 추가**를 선택합니다.
+2. **사용자** 를 선택한 다음, **Azure AD 애플리케이션 추가** 를 선택합니다.
 
 3. 기존 Azure AD 애플리케이션을 선택하거나 새로 만듭니다.
 

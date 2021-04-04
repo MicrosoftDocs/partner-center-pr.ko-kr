@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: eb92824bf3fc7a2d93435ca89fc70ca303957d1a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082943"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132913"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>MPN 혜택에 대 한 환불 요청
 
-**적절한 역할:**
+**적절한 역할**
 
 - MPN 파트너 관리자
 - 계정 관리자

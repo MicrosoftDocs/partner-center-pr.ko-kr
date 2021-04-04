@@ -9,22 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: c266d3e271cd114bd771f17280e1390fb5f765d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720835"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086501"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>파트너 관리 센터가 파트너 센터로 이동
 
-**적용 대상**
-
-- 파트너 센터
-
 **적절한 역할**
+
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 
@@ -41,7 +38,7 @@ Microsoft는 파트너 센터를 Microsoft와 고객과 파트너 관계를 관�
 
 - 클라우드 솔루션 공급자 파트너: CSP 파트너 인 경우 2018 년 4 월부터 파트너 센터로 자동으로 리디렉션됩니다.
 
-- Advisor 파트너 (CSP를 통해 거래 하지 않고 PAC를 사용 하 여 고객에 게 평가판/견적을 제공 하는 경우): Advisor 파트너인 경우 2020 6 월부터 시작 하는 파트너 센터로 자동으로 리디렉션됩니다.
+- Advisor 파트너 (CSP를 통해 거래 하지 않고 PAC를 사용 하 여 고객에 게 평가판/견적을 제공 하는 경우): Advisor 파트너인 경우 6 월 2020부터 파트너 센터로 자동으로 리디렉션됩니다.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>지금 Microsoft 파트너 센터 사용을 시작 하세요!
 

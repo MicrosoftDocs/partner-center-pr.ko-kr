@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390650"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132726"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>다중 채널 지원-다른 파트너를 사용 하 여 다른 곳에서 구매한 고객 구독을 지원 합니다.
 
 **적용 대상**
 
-- 파트너 센터
-- Microsoft Cloud for US Government 파트너 센터
+- Microsoft 정부 클라우드의 파트너 센터
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 영업 상담원
 
 파트너 센터의 다중 채널 기능은 고객이 다른 곳에서 구매한 구독을 관리 하 고 지원 하기 위해 파트너를 고용 하려는 경우의 시나리오를 지원 합니다. 다중 채널 지원은 고객이 다음과 같이 적용 됩니다.

@@ -1,22 +1,22 @@
 ---
 title: 지급 일정 및 프로세스
 description: 상업적 marketplace 및 기타 트랜잭션에 대 한 지불 일정 및 recoupment 프로세스와 같은 지급 및 트랜잭션에 대해 알아보세요.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756852"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086178"
 ---
 # <a name="payout-schedules-and-processes"></a>지급 일정 및 프로세스
 
-**적절한 역할:**
+**적절한 역할**
 
 - 계정 관리자
 - 글로벌 관리자
@@ -73,7 +73,7 @@ ms.locfileid: "101756852"
 
 Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 지급을 recoup 합니다. (1) Microsoft는 향후 지급에서 미지불 금액을 뺄 수 있습니다. 예를 들어 지급의 $1000이 수집 되지 않는 것으로 간주 되는 경우 $1000이 복구 될 때까지 이후 지급 보안상 이유로, (2) Microsoft는 수집 되지 않은 금액에 대해 환불 또는 송장 게시자를 요청할 수 있습니다.
 
-예제 일정은 다음과 같습니다.
+예를 들면 다음과 같습니다.
 
 | 이벤트 | 대략적인 날짜 * | 파트너 표시 유형 |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Microsoft는 다음 방법 중 하나를 사용 하 여 이미 지불한 모든 
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>지급 계정에 도달 하기 위한 지불 일 수
 
-일반적으로 해당 월의 15 일에 지정 된 월에 지불을 전송 하지만 계정에 도달 하는 데는 추가 시간이 소요 됩니다. 일 수는 아래에 설명 된 대로 계정에 사용 하는 결제 방법에 따라 달라 집니다.
+일반적으로 해당 월의 15 일에 제공 된 월에는 지불을 전송 하지만, 결제는 계정에 도달 하는 데 다른 시간이 소요 됩니다. 일 수는 아래에 설명 된 대로 계정에 사용 하는 결제 방법에 따라 달라 집니다.
 
 > [!NOTE]
 > 아래 표시 된 일은 대략적입니다. 결제는 계정에 도달 하는 데 더 많은 시간이 걸릴 수 있습니다.

@@ -9,23 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120047"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132794"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>IMicrosoft 파트너 네트워크의 송장 및 세금
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - MPN 파트너 관리자
 - 청구 관리자
 - 관리 에이전트
@@ -38,28 +34,28 @@ ms.locfileid: "87120047"
 
 1.  회사 계정을 사용 하 여 [파트너 센터](https://partner.microsoft.com/dashboard/home) 에 로그인 하 고 왼쪽 메뉴에서 **MPN** 를 선택 합니다.
 
-4.  드롭다운 목록에서 **회원 혜택** 을 선택 하 여 구매할 수 있는 제품 및 현재 등록 연도에 사용할 수 있는 청구서를 확인 합니다. 이전 연도의 청구서를 보려면 **만료**를 선택합니다.
+4.  드롭다운 목록에서 **회원 혜택** 을 선택 하 여 구매할 수 있는 제품 및 현재 등록 연도에 사용할 수 있는 송장을 표시 합니다. 이전 연도의 청구서를 보려면 **만료** 를 선택합니다.
 
-6.  원하는 청구서를 선택 하 고 **청구서 다운로드**를 선택 합니다. 
+6.  원하는 청구서를 선택 하 고 **청구서 다운로드** 를 선택 합니다. 
 
 ## <a name="file-a-tax-exemption"></a>세금 면제 파일
 
-1.  파트너 센터에서 **설정**을 선택 합니다.
-    - MPN ID를 찾으려면 **파트너 프로필**을 선택 합니다.
+1.  파트너 센터에서 **설정** 을 선택 합니다.
+    - MPN ID를 찾으려면 **파트너 프로필** 을 선택 합니다.
 
-2.  새 지원 티켓을 만듭니다. 파트너 센터에서 **서비스 요청**을 선택 하 고 **파트너 센터 요청**을 선택한 다음 **새 요청**을 선택 합니다.
+2.  새 지원 티켓을 만듭니다. 파트너 센터에서 **서비스 요청** 을 선택 하 고 **파트너 센터 요청** 을 선택한 다음 **새 요청** 을 선택 합니다.
 
-3.  양식을 작성합니다. **문제 유형에**대해 **내 프로필을 관리할 수 없음**을 선택 합니다. 설명에 MPN ID를 포함 합니다.
+3.  양식을 작성합니다. **문제 유형에** 대해 **내 프로필을 관리할 수 없음** 을 선택 합니다. 설명에 MPN ID를 포함 합니다.
 
 4.  티켓을 제출 하면 Microsoft에서 더 자세한 정보를 얻을 수 있도록 전자 메일을 보냅니다. 회신할 때 면세 증명서에 해당하는 증빙 서류를 첨부하세요.
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Microsoft VAT ID 번호 보내기
 
-1.  파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard/home) **멤버 자격 제안**을 선택 하 고 **사용 가능**을 선택 합니다. 
+1.  파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard/home) **멤버 자격 제안** 을 선택 하 고 **사용 가능** 을 선택 합니다. 
 
-2.  **VAT ID 추가를**선택 합니다. 
+2.  **VAT ID 추가를** 선택 합니다. 
 
-3.  회사에 대 한 VAT ID를 입력 하 고 **추가**를 선택한 후 **다음**을 선택 합니다. 
+3.  회사에 대 한 VAT ID를 입력 하 고 **추가** 를 선택한 후 **다음** 을 선택 합니다. 
 
 ## <a name="next-steps"></a>다음 단계
 

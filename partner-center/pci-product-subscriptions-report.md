@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220331"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086195"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 제공 되는 제품 구독 보고서
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
-제품 구독 보고서는 판매 되었거나 고객을 위해 관리 하는 클라우드 구독에 대 한 분석을 제공 합니다. 이 보고서는 Office 365, Azure, Dynamics 등의 클라우드 제품과 관련 된 구독의 성능을 포함 하는 제품별 보고서입니다.
+제품 구독 보고서는 판매 되었거나 고객을 위해 관리 하는 클라우드 구독에 대 한 분석을 제공 합니다. Office 365, Azure, Dynamics 등의 클라우드 제품과 관련 된 구독의 성능을 포함 하는 제품별 보고서입니다.
 
 제품 구독 보고서에서 다음 섹션을 볼 수 있습니다.
 
@@ -44,7 +45,7 @@ ms.locfileid: "89220331"
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="구독 보고서 요약":::
 
-요약의 각 섹션에 대 한 자세한 내용은 아래를 참조 하세요.
+요약의 각 섹션에 대 한 자세한 내용은 다음을 참조 하세요.
 
 - 구독:
   - 현재 판매 또는 관리 되는 클라우드 제품 구독의 현재 개수입니다.
@@ -82,19 +83,19 @@ ms.locfileid: "89220331"
 
 이 보기는 구독의 추세를 표시 합니다. 이러한 항목은 선택한 날짜 범위에 대 한 여러 범주 (신규, 기존, 변동)로 분류 됩니다. X 축은 선택한 날짜 범위의 월을 나타냅니다. Y 축은 구독 수를 나타냅니다. 변동 구독은 Y 축의 음수 눈금에 표시 됩니다. 
 
-누적 세로 막대형 차트는 해당 월의 신규, 기존 및 변동 구독에 대 한 분석을 제공 합니다. 특정 스택 항목으로 분할 된 세로 막대형 차트를 다시 작성할 수 있습니다. 이렇게 하려면 범례에서 특정 항목을 선택 합니다. 차트 위에 있는 슬라이더를 활용 하 여 특정 기간으로 확대할 수도 있습니다.
+누적 세로 막대형 차트는 해당 월의 신규, 기존 및 변동 구독에 대 한 분석을 제공 합니다. 특정 스택 항목으로 분할 된 세로 막대형 차트를 다시 작성할 수 있습니다. 이렇게 하려면 범례에서 특정 항목을 선택 합니다. 차트 위에 있는 슬라이더를 사용 하 여 특정 기간으로 확대할 수도 있습니다.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="구독 추가 및 변동":::
 
 ## <a name="subscription-distribution"></a>구독 배포
 
-이 보기는 MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 유형 (예: DPOR, DAP 등)에 따라 현재 구독에 대 한 분석을 제공 합니다. 각 탭을 클릭 하 여 이러한 범주별로 분류를 확인 합니다. 특정 항목 범주를 분석 하 여 원형 차트를 작성 하려면 범례에서 해당 항목 범주를 선택 합니다.
+이 보기는 MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 유형 (예: DPOR, DAP 및 기타)에 따라 현재 구독에 대 한 분석을 제공 합니다. 각 탭을 선택 하 여 이러한 범주별로 분류를 확인 합니다. 특정 항목 범주를 분석 하 여 원형 차트를 작성 하려면 범례에서 해당 항목 범주를 선택 합니다.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="구독 배포":::
 
 ## <a name="subscription-state-distribution"></a>구독 상태 배포
 
-이 보기는 구독 상태 또는 상태별로 현재 고객 구독의 배포를 표시 합니다. 여기에는 **활성**, **사용 안 함**, **프로 비전 해제**, **열기**, **InGracePeriod**, **닫힘**및 **기타**구독 상태가 포함 됩니다.
+이 보기는 구독 상태 또는 상태별로 현재 고객 구독의 배포를 표시 합니다. 여기에는 **활성**, **사용 안 함**, **프로 비전 해제**, **열기**, **InGracePeriod**, **닫힘** 및 **기타** 구독 상태가 포함 됩니다.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="구독 상태 배포":::
 

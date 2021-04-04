@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: 파트너 센터 요금 청구를 위한 청구서 파일의 필드를 이해 합니다. 모든 송장 필드와 일회성 요금 필드에 대 한 필드 및 정의를 포함 합니다.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556296"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178904"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>파트너 센터 청구 송장 필드 이해
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 청구 관리자
 - 기술 지원팀 상담원
 
@@ -33,7 +35,7 @@ ms.locfileid: "96556296"
 | ----- | ---------- |
 | US FEIN | 사용자의 연방 고용주 Id 번호 (FEIN) 미국 연방 세금 id 번호입니다. |
 | 고객 번호 | 고객 번호입니다. |
-| 청구지 | 청구서를 보낼 주소입니다. 파트너 센터 청구 프로필에서 회사 이름 및/또는 주소를 변경할 수 있습니다. |
+| 청구지 | 청구서를 보낼 주소입니다. 파트너 센터 청구 프로필에서 회사 이름과 주소를 변경할 수 있습니다. |
 | 라이선스 기반 요금 | 구매한 사용 기반 라이선스에 대 한 월별 월별 또는 연간 요금으로, 서비스를 미리 청구 합니다. 이 숫자는 라이선스 기반 조정 파일의 **부분합** 열 (열 **T**)에 있는 모든 요금 합계입니다. |
 | 사용량 기반 요금 | Azure 사용량입니다. 여기에는 청구 기간 동안 사용 및 사용 되는 새 서비스 또는 응용 프로그램이 포함 됩니다. 이 수는 사용량 기반 조정 파일의 **PretaxCharges** 열 (열 **Z**)에 있는 모든 요금 합계입니다. |
 | 할인 | 고객이 구독의 일반 가격에서 받는 할인입니다. 이 숫자는 단가 또는 라이선스 당 가격이 아니라 *평평한 양만큼* 표시 됩니다. |
@@ -59,10 +61,10 @@ ms.locfileid: "96556296"
 | 필드 | 정의 |
 | ----- | ---------- |
 | Date | 구매한 날짜입니다. |
-| Description | 제품 이름입니다. |
+| 설명 | 제품 이름입니다. |
 | 수량 | 구매한 제품 (예: 예약)의 수입니다. |
 | 단가 | 제품별 가격 (예: 예약). |
 | 할인 | 모든 해당 할인 |
-| 세 전 금액 | 세금 전 구매의 하위 합계입니다. |
+| 세 전 금액 | 세금 이전의 구매 소계입니다. |
 | 판매 세금 | 세액 |
 | 합계 | 총 지불 금액입니다. |

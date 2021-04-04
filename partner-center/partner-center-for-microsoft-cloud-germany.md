@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174985"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086518"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>EU의 고객에 게 판매 하는 파트너를 위한 Microsoft 클라우드 독일 파트너 센터 & EFTA 국가
 
 **적용 대상**
 
--  Microsoft 클라우드 독일 파트너 센터
+- Microsoft 클라우드 독일 파트너 센터
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 - 청구 관리자
@@ -41,7 +41,7 @@ Microsoft 클라우드 독일에서는 독일의 데이터 센터에서 제공 �
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft 클라우드 독일에서 다른 유럽 지역으로 고객 마이그레이션
 
-고객 구독을 Microsoft 클라우드 독일에서 다른 유럽 지역으로 마이그레이션하려면 먼저 해당 지역에 있으며 활성 상태인 기존 CSP 계정이 있어야 합니다. 파트너가 없는 경우 파트너 센터에서 CSP 계정을 선택 하는 동안 계정을 만들라는 메시지가 표시 됩니다. 새 계정을 만든 후에는 선택한 테 넌 트에 고객이 연결 됩니다.
+고객 구독을 Microsoft 클라우드 독일에서 다른 유럽 지역으로 마이그레이션하려면 먼저 해당 지역에 있으며 활성 상태인 기존 CSP (클라우드 솔루션 공급자) 계정이 있어야 합니다. 파트너가 없는 경우 파트너 센터에서 CSP 계정을 선택 하는 동안 계정을 만들라는 메시지가 표시 됩니다. 새 계정을 만든 후에는 선택한 테 넌 트에 고객이 연결 됩니다.
 
 ### <a name="you-already-have-a-csp-account"></a>CSP 계정이 이미 있습니다.
 
@@ -49,11 +49,11 @@ Microsoft 클라우드 독일에서는 독일의 데이터 센터에서 제공 �
 
 1. 왼쪽 메뉴에서 CSP 개요 페이지로 이동 합니다.
  
-1. 메시지가 표시 되 면 **유럽 지역에 테 넌 트가 이미 있음**을 선택 하 고 **다음**을 선택 합니다. 새 테 넌 트에 로그인 하 라는 메시지가 표시 됩니다. 
+1. 메시지가 표시 되 면 **유럽 지역에 테 넌 트가 이미 있음** 을 선택 하 고 **다음** 을 선택 합니다. 새 테 넌 트에 로그인 하 라는 메시지가 표시 됩니다. 
 
 1. 전역 관리자 권한으로 테 넌 트에 로그인 합니다.
  
-1. 확인 페이지에서 정보를 검토 한 다음 **확인**을 선택 합니다.
+1. 확인 페이지에서 정보를 검토 한 다음 **확인** 을 선택 합니다.
  
 6.  성공 하는 경우 자세한 내용을 **보려면 자세히 보기** 또는 **대시보드 보기** 를 선택 하 라는 메시지가 표시 됩니다. 
 
@@ -69,11 +69,11 @@ Microsoft 클라우드 독일에서는 독일의 데이터 센터에서 제공 �
 
 ### <a name="you-dont-already-have-a-csp-account"></a>CSP 계정이 아직 없습니다.
 
-1. 전역 관리자로 CSP Microsoft 클라우드 독일 테 넌 트에 로그인 합니다.
+1. CSP Microsoft 클라우드 독일 테 넌 트에 전역 관리자로 로그인 합니다.
 
 1. 왼쪽 메뉴에서 CSP 개요 페이지로 이동 합니다.
-. 
-1. 메시지가 표시 되 면 **유럽 지역에 테 넌 트가 없습니다**.를 선택 하 고 **새 계정 만들기**를 선택 합니다. 
+ 
+1. 메시지가 표시 되 면 **유럽 지역에 테 넌 트가 없습니다**.를 선택 하 고 **새 계정 만들기** 를 선택 합니다. 
  
 1. 파트너 센터 등록 페이지로 이동 하 여 유럽 지역에서 새 테 넌 트 및 CSP 계정을 만들 수 있습니다.
   

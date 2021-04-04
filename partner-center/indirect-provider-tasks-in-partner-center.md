@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880772"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178955"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 간접 재판매인과 파트너
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 
 이러한 복잡 하 고 신속 하 게 변화 하는 기술 marketplace를 통해 고객은 기술 솔루션이 제공할 수 있는 경쟁력을 원합니다. 이러한 기후에서 파트너는 파트너 간 참여를 투자 하 여 제품을 확장 하 고 고객이 더 많은 작업을 수행할 수 있도록 하는 것이 좋습니다.
 
-새 대리점은 시장의 시장 및 로캘 외부 고객에 게 솔루션을 제공 하는 방법을 제공 합니다. 확립 된 기술 공급자는 시장에 대 한 경로를 지정 하는 데 적합 합니다. CSP (클라우드 솔루션 공급자) 프로그램의 간접 대리점을 사용 하 여 다른 파트너와 연결 하 고, 새로운 솔루션을 출시 하 고, 클라우드 서비스를 사전에 고객에 게 도입할 수 있습니다.
+새 대리점은 시장의 시장 및 로캘 외부 고객에 게 솔루션을 제공 하는 방법을 제공 합니다. 확립 된 기술 공급자는 시장에 대 한 경로입니다. CSP (클라우드 솔루션 공급자) 프로그램의 간접 대리점을 사용 하 여 다른 파트너와 연결 하 고, 새로운 솔루션을 출시 하 고, 클라우드 서비스를 사전에 고객에 게 도입할 수 있습니다.
 
 간접 공급자-재판매인 (2 계층) 모델에서는 간접 대리점과 협력 하 여 고객에 게 Microsoft 클라우드 솔루션을 제공 합니다. Microsoft에서 직접 제품 및 구독을 구매한 다음 대리점을 통해 이러한 솔루션을 고객에 게 제공 합니다.
 
@@ -111,7 +111,7 @@ ms.locfileid: "104880772"
 
 1. 대시보드의 파트너 센터 메뉴에서 **간접 대리점** 을 선택 합니다. 
 
-2. **간접 대리점** 페이지에서 **파트너 관계 제거** 를 선택 합니다. 확인 하 라는 메시지가 표시 되 면 계속 하려면 예를 선택 합니다.
+2. **간접 대리점** 페이지에서 **파트너 관계 제거** 를 선택 합니다. 확인을 요청 하는 메시지가 표시 됩니다. 계속 하려면 **예** 를 선택 합니다.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="파트너 관계 제거":::
 
@@ -151,7 +151,7 @@ ms.locfileid: "104880772"
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>고객 계정에 새 구독 추가
 
-고객이 새 구독을 구입 하거나 기존 구독을 업그레이드 하거나 추가 라이선스를 구입 하려는 경우 M365 포털을 통해 고객의 계정에서 이러한 변경을 수행 합니다. Azure Portal에서이 작업을 수행할 수 없습니다.
+고객이 새 구독을 구입 하거나 기존 구독을 업그레이드 하거나 추가 라이선스를 구입 하려는 경우 Microsoft 365 포털을 통해 고객의 계정에서 이러한 변경을 수행 합니다. Azure Portal에서이 작업을 수행할 수 없습니다.
 
 1. **파트너 센터** 메뉴에서 **고객** 을 선택 합니다.
 
@@ -171,7 +171,7 @@ ms.locfileid: "104880772"
 
 Microsoft 파트너 규약에 대 한 질문에 대 한 답변 찾기
 
-- [간접 공급자가 Microsoft 파트너 규약을 채택 하는 데 도움을 주는 방법-FAQ](mpa-indirect-provider-faq.md)
+- [간접 공급자가 재판매인의 Microsoft 파트너 계약 체결에 도움을 주는 방법 - FAQ](mpa-indirect-provider-faq.md)
 
 고객 계정 및 구독 관리에 대 한 자세한 내용은 다음을 참조 하세요.
 

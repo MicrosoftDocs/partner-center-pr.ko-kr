@@ -8,16 +8,17 @@ description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146702"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086297"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용 가능한 Power BI 사용 보고서
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 관리 에이전트
 - 보고서 뷰어
@@ -38,19 +39,19 @@ Power BI 사용 보고서는 고객이 판매 하거나 관리 하는 Power BI �
 
 요약 섹션에서는 고객을 위해 판매 하거나 관리 하는 Power BI 사용 구독과 관련 된 주요 표시기의 스냅숏 보기를 제공 합니다. 
 
-- 사용 가능한 사용자: 선택한 기간 동안 판매 된 총 라이선스 수입니다.
+- 사용 가능한 사용자: 선택한 시간 프레임 동안 판매 된 총 라이선스 수입니다.
 
    마이크로 차트는 선택한 날짜 범위에 대해 사용 가능한 좌석 수의 월 단위 추세를 제공 합니다.
 
-- 할당 된 사용자: 선택한 기간 동안 할당 된 총 라이선스 수입니다.
+- 할당 된 사용자: 선택한 시간 프레임 동안 할당 된 총 라이선스 수입니다.
 
    마이크로 차트는 선택한 날짜 범위 동안 할당 된 사용자 수의 월 단위 추세를 표시 합니다.
 
-- 활성 사용자: 선택한 기간 동안 사용 된 총 라이선스 수입니다. 
+- 활성 사용자: 선택한 시간 프레임 동안 사용 된 총 라이선스 수입니다. 
 
    마이크로 차트는 선택한 기간 동안 월별 활성 좌석의 월 추세를 표시 합니다.
 
-- 활성 사용%: 선택한 기간 동안 사용 가능한 사용자의 백분율로 표시 된 활성 사용자의 총 수입니다. 
+- 활성 사용%: 선택한 시간 프레임에 대해 사용 가능한 사용자의 백분율로 표시 된 활성 사용자의 총 수입니다. 
 
    마이크로 차트는 선택한 기간에 대 한 활성 사용 비율의 월 추세를 표시 합니다.
 
