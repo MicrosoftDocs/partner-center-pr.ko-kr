@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182327"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086875"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>파트너 통찰력 – 질문과 대답
 
 **적절한 역할**
+
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
-이는 정보를 보고 하는 것과 관련 된 보고서를 보거나 렌더링 하는 알려진 문제와 관련이 있습니다.
+이 문서에서는 Insights와 관련 된 보고서를 보거나 렌더링 하기 위한 알려진 문제를 설명 합니다.
 
 Q) **파트너 센터 계정에 Insights 허브가 표시 되지 않습니다. 어떻게 해야 하나요?**
 

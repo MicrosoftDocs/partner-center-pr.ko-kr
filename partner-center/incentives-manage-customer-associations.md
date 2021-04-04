@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714437"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179482"
 ---
 # <a name="manage-incentives-customer-associations"></a>성과급 고객 연결 관리
 
-**적용 대상:**
-
-- 파트너 센터
-
-**적절한 역할:**
+**적절한 역할**
 
 - 청구 관리자
 - 글로벌 관리자
@@ -79,15 +75,15 @@ CPOR association 클레임이 거부 되 면 거부에 대 한 30 일이 있습�
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 2. 분쟁을 볼 클레임을 엽니다.
-3. 클레임 페이지에서 **분쟁**을 선택 합니다.
+3. 클레임 페이지에서 **분쟁** 을 선택 합니다.
 4. 거부를 고 하는 이유를 설명 하는 비즈니스 근거 및/또는 업데이트 된 PoE를 입력 합니다.
-5. 정보 추가가 완료되면 **이의 제기**를 선택합니다. 검토자는 5 일 이내에 결과를 사용자에 게 연락 해야 합니다.
+5. 정보 추가가 완료되면 **이의 제기** 를 선택합니다. 검토자는 5 일 이내에 결과를 사용자에 게 연락 해야 합니다.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>CPOR 연결 클레임이 거부 된 이유
 
 CPOR 연결 클레임이 거부 되는 세 가지 주요 이유는 다음과 같습니다.
 
-**파트너 요청:** 파트너는 연결을 거부 하도록 요청할 수 있습니다. 이러한 이유는 파트너에서 잘못 된 MPN를 사용 하 여 실수로 CPOR association 클레임을 만들고 잘못 된 작업 (예: ...)을 선택한 경우에 주로 사용 됩니다. 판매 판매량이 아닌 매출 연결을 선택 했거나 고객에 게 더 이상 작업 하지 않습니다.
+**파트너 요청:** 파트너는 연결을 거부 하도록 요청할 수 있습니다. 이러한 이유는 파트너가 잘못 된 MPN를 사용 하 여 실수로 CPOR association 클레임을 만들었거나 잘못 된 활동 (예: 판매 전이 아닌 수익 연결을 선택한 경우)을 선택 하거나 고객에 게 더 이상 작업 하지 않는 경우에 주로 사용 됩니다.
 
 **고객 거부:** PoE 승인 프로세스를 성공적으로 완료 한 후에는 해당 상태가 승인 됨으로 변경 되 고, 고객에 게는 연결 동의를 거부할 수 있는 기회가 제공 됩니다. 고객이 동의를 거부하면 연결이 거부됩니다.
 

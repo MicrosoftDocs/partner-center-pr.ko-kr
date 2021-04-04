@@ -8,22 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626017"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179142"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>성과급 프로그램의 등록 및 사용자 관리
 
-**적용 대상:**
+**적절한 역할**
 
-- 파트너 센터
-
-**적절한 역할:**
-
-- 동기 관리자
+- 인센티브 관리자
 
 >[!NOTE]
 >성과급 프로그램에 등록 하려면 먼저 파트너 구성원 센터에서 파트너 센터 [마이그레이션을](prepare-pmc-pc-migration.md)완료 해야 합니다.

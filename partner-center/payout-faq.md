@@ -1,28 +1,28 @@
 ---
 title: 지급액 및 세금 프로필 FAQ
 description: 파트너 센터에서 지급 및 세금 세부 정보에 대 한 일반적인 질문에 대 한 답변을 받으세요. 소득가 예상과 다른 이유에 대 한 답을 포함 합니다.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247662"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087045"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>지급 및 세금에 대 한 일반적인 질문
 
-**적절 한 역할**:
+**적절한 역할**
 
 - 계정 관리자
 - 글로벌 관리자
 - 인센티브 관리자
 
-이 문서에서는 파트너 센터의 지급 및 세금 세부 정보에 대 한 질문과 대답을 제공 합니다. 다루는 항목에는 지불 타이밍, 소득 자격 확인, 지급 및 세금 프로필을 올바르게 설정 하는 것이 포함 됩니다.
+이 문서에서는 파트너 센터의 지급 및 세금 세부 정보에 대 한 질문과 대답을 확인 합니다. 다루는 주제에는 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 것이 포함 됩니다.
 
 ## <a name="profile-management"></a>프로필 관리
 
@@ -40,9 +40,9 @@ ms.locfileid: "102247662"
 
 적절 한 사용 권한이 없거나 이러한 권한이 없는 계정으로 로그인 했을 수 있습니다. 예를 들어 MPN 위치에 대 한 동기 관리자만 지급 및 세금 프로필을 만들거나 관리할 수 있습니다. 은행 및 세금에 대한 권한을 관리하려면 조직 관리자에게 문의하세요.
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>내 도메인에만 로그인 할 수 있습니다 @onmicrosoft.com . 어떻게 해야 합니까?
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>내 도메인에만 로그인 할 수 있습니다 @onmicrosoft.com .   어떻게 해야 합니까?
 
-계정 관리자에게 문의하여 AAD 계정에 도메인을 추가하세요.
+AAD 계정에 도메인을 추가 하려면 계정 관리자에 게 문의 하세요.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>조직에서 여러 프로그램에 참여 하 고 있습니다. 지불 및 세금 프로필을 여러 번 제공 해야 하나요?
 
@@ -61,7 +61,7 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 이 정보를 편집할 수 있는 권한이 있는 성과급 관리자의 역할은 적절 한 직원 에게만 제공 되는지 확인 하는 것이 회사의 책임입니다.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>세금 프로필이 만료 되었습니다. 이 문제를 해결하려면 어떻게 해야 합니까?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>세금 프로필이 만료 되었습니다. 업데이트를 어떻게 할까요? 수정 하 시겠습니까?
 
 세금 프로필이 만료 되었거나 곧 만료 되는 경우 Microsoft에 제공한 세금 양식을 업데이트 해야 함을 의미 합니다. 다음 단계를 사용 하 여 세금 프로필을 업데이트 합니다.
 
@@ -83,7 +83,7 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>수익 금액이 예상한 것과 다른 이유는 무엇 인가요?
 
 - 주문이 부분적으로 고객에 게 지불 된 경우 빼는 요금 및 적절 한 세금 후에 부분적으로 유료 금액을 기반으로 하 게 됩니다.
-- 국가별 세금을 확인 하세요. 세금을 Microsoft에서 책임지는 국가의 경우 Microsoft는 게시자 소득에서 세금을 수집하고 공제합니다. 명세서에 표시된 거래 금액은 세후 금액입니다. [세금 세부 정보](tax-details-marketplace.md)를 참조하세요.
+- 국가별 세금을 확인 하세요. 세금을 Microsoft에서 담당 하는 국가에서는 Microsoft가 게시자 수익 으로부터 세금을 수집 하 고 deducts 합니다. 명세서에 표시된 거래 금액은 세후 금액입니다. [세금 세부 정보](tax-details-marketplace.md)를 참조하세요.
 - SaaS 및 IaaS 제품은 표준 20% 대신 10%에서 할인 된 에이전시 요금을 부과 하며, 90%의 소득 요금을 유지 합니다. 이 프로모션은 2021년 6월 30일까지 적용됩니다.
 
 **추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 정보](payout-policy-details.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md), [유료](marketplace-get-paid.md), [세금 정보](tax-details-marketplace.md), [지급 문](payout-statement.md)
@@ -113,7 +113,7 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>결제를 수신 하지 않으려면 내 계정을 설정 어떻게 할까요??
-[지급 Profile](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지불을 유지할 수 있습니다. **보류** 중을 선택 하기만 하면 됩니다. Microsoft는 보류를 해제할 때까지 지불을 보유 합니다.
+[지급 Profile](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지불을 유지할 수 있습니다. 이렇게 **하려면 보류를 선택 하** 고 Microsoft는 보류를 해제할 때까지 결제를 유지 합니다.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>구매 통화와 다른 통화로 받는 이유는 무엇인가요?
 
@@ -121,7 +121,7 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 #### <a name="how-do-i-reconcile-adjustments"></a>조정은 어떻게 수정하나요?
 
-지불 조정은 시스템 문제와 같은 보정 조정을 수용하기 위한 지불 수정입니다. 지급 명세서에서 ReasonCode에는 조정 이유를 지정합니다. 이는 개별 거래에 직접 조정하기 위한 것이 아닙니다.
+지불 조정은 시스템 문제와 같은 보정 조정을 수용하기 위한 지불 수정입니다. 지급 문에서 ReasonCode는 조정 이유를 지정 합니다. 이러한 기능은 개별 트랜잭션으로 직접 조정 하는 것이 아닙니다.
 
 **추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>현재 에이전시 수수료 및 지급율을 찾으려면 어떻게 해야 하나요?
 
-- 상업용 Marketplace 게시자 계약을 확인합니다. 표준 에이전시 수수료는 20%입니다. SaaS Co-Sell 적격 트랜잭션에는 10% 할인 된 요금이 부과 됩니다. 프로모션 에이전시 수수료에 대한 공지를 확인합니다.
+- 상업용 Marketplace 게시자 계약을 확인합니다. 표준 에이전시 수수료는 20%입니다. SaaS 공동 판매 적격 거래에는 10% 할인 된 요금이 부과 됩니다. 프로모션 에이전시 수수료에 대한 공지를 확인합니다.
 - 지급 문에서 Rate는 지정 된 트랜잭션에 대 한 실제 지급 rate를 지정 합니다.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>내 명세서에 소득이 표시되면 언제 Microsoft로부터 지불을 받을 수 있나요?

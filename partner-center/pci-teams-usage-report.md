@@ -8,16 +8,17 @@ description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146685"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086722"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 팀 사용 보고서
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 관리 에이전트
 - 보고서 뷰어
@@ -51,19 +52,19 @@ ms.locfileid: "98146685"
 
 ## <a name="conversations-trend"></a>대화 추세
 
-대화 추세는 팀의 월별 추세, 통화 및 전화 시스템과 평균 모임 기간 (분)을 보여 줍니다.
+대화 추세 보고서는 팀 회의, 통화 및 전화 시스템의 월별 추세와 평균 모임 기간 (분)을 보여 줍니다.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="팀 사용 대화 추세":::
 
 ## <a name="teams-usage-by-workloads"></a>워크 로드 별 팀 사용
 
-워크 로드에 따른 팀은 데스크톱, 모바일 및 팀의 웹 사용자를 작업 별로 분할 하는 월별 분할을 보여 줍니다.
+팀이 작업을 통해 사용 하는 팀은 작업 별로 분할 된 팀의 데스크톱, 모바일 및 웹 사용자의 월별 분할을 보여 줍니다.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="워크 로드 별 팀 사용":::
 
 ## <a name="top-customers-by-usage"></a>사용량 별 상위 고객
 
-사용량 별 상위 고객은 팀 회의, 통화 및 전화 시스템과 타사 앱을 기준으로 상위 고객의 사용량을 나타냅니다.
+사용량 별 상위 고객 보고서는 팀 회의, 통화 및 전화 시스템과 타사 앱에 대 한 상위 고객의 사용량을 보여 줍니다.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="사용량 별 상위 고객":::
 

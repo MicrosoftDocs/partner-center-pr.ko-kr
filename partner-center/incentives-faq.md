@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756704"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179499"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>성과급에 대 한 질문과 대답
 
-**적절한 역할:**
+**적절한 역할**
 
 - 인센티브 관리자
-
 - 인센티브 사용자
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>전역 관리자가 성과급으로 등록 해야 하나요?
@@ -31,7 +30,7 @@ ms.locfileid: "101756704"
 
 MPN에 가입 하려고 하 고 회사가 이미 구성원 인 경우 MPN는 도메인을 인식 하 고 기존 계정에 연결 합니다. 기존 계정은 동일한 전자 메일 도메인 또는 동일한 Azure AD (Azure 활동 디렉터리)를 사용 하 여 여러 도메인을 관리 하는 동일한 회사 또는 관련 회사 일 수 있습니다.
 
-법적 프로필 페이지에서 기본 연락처를 식별할 수 있습니다. 사용자의 위치가 MPNHQ 위치인 경우에는 성과급을 관리 하는 데 필요한 권한으로 설정 해야 합니다. 역할 및 사용 권한에 대 한 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
+법적 프로필 페이지에서 기본 연락처를 식별할 수 있습니다. 사용자의 위치가 MPNHQ 위치인 경우에는 성과급을 관리 하는 데 필요한 권한으로 설정 해야 합니다. 역할 및 권한에 대 한 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
 
 MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 한 자세한 내용은 [다중 국가 계정에 대 한 지침](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 을 참조 하세요.
 
@@ -55,7 +54,7 @@ MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>내 자격 증명을 사용 하 여 성과급에 액세스할 수 없습니다.
 
-성과급을 볼 수 없는 이유는 올바른 권한이 없는 것입니다. 다음 절차를 사용 하 여 문제 해결을 참조 하세요.
+성과급을 볼 수 없는 이유는 올바른 권한이 없는 것입니다. 다음 절차를 사용 하 여 문제를 해결할 수 있습니다.
 
 1. Azure AD 테 넌 트 자격 증명 (작업 자격 증명)을 사용 하 여 [파트너 센터 대시보드에](https://partner.microsoft.com/dashboard/) 로그인 합니다. 로그인 할 수 없는 경우 회사의 전역 관리자에 게 문의 하세요.
 
@@ -71,7 +70,7 @@ MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 
 
 역할 또는 권한을 변경 해야 하는 경우 회사의 전역 또는 계정 관리자에 게 문의 하세요. 이러한 사람에 대 한 자세한 내용은 [전역 관리자 찾기](./find-your-role.md#find-your-global-admin)를 참조 하세요.
 
-개요 페이지에는 Azure AD 테 넌 트와 연결 된 파트너 전역 계정 (등록)과 연결 된 항목만 표시 됩니다. 회사에 둘 이상의 요소가 있는 경우 각각에 대해 서로 다른 자격 증명을 포함 해야 합니다.
+개요 페이지에는 Azure AD 테 넌 트와 연결 된 파트너 전역 계정 (표준)과 연결 된 등록만 표시 됩니다. 회사에 둘 이상의 요소가 있는 경우 각각에 대해 서로 다른 자격 증명을 포함 해야 합니다.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>등록 프로세스 중에 오류 메시지가 표시 되거나 도움이 필요한 경우 누구에 게 연락 해야 하나요?
 

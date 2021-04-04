@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712167"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179226"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>성과급 프로그램 자격 확인
 
-**적절 한 역할**:
+**적절한 역할**
 
 - 글로벌 관리자
 - 인센티브 관리자
@@ -40,7 +40,7 @@ ms.locfileid: "104712167"
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="스크린샷은 성과급 요구 사항의 예입니다.":::
 
-5. 자격을 달성 하기 위해 선택 취소 된 모든 영역을 완료 해야 합니다. 각 성과급 프로그램에는 고유한 요구 사항 집합이 있습니다.
+5. 자격을 달성 하기 위해 선택 취소 된 모든 영역을 완료 합니다. 각 성과급 프로그램에는 고유한 요구 사항 집합이 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 

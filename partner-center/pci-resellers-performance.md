@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280546"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086892"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>파트너 센터 정보에서 재판매인 성능 대시보드
 
@@ -68,7 +68,7 @@ ms.locfileid: "89280546"
 
 ## <a name="geographical-spread-of-resellers"></a>대리점의 지리적 확산
 
-* * 지리 별 대리점 보기는 대리점의 지리적 분포를 제공 합니다. 파트너는이 위젯을 사용 하 여 다양 한 지역으로 분할 된 총 **대리점**, **새 대리점**및 **청구 된 수익 (USD)** 을 볼 수 있습니다.
+* * 지리 별 대리점 보기는 대리점의 지리적 분포를 제공 합니다. 파트너는이 위젯을 사용 하 여 다양 한 지역으로 분할 된 총 **대리점**, **새 대리점** 및 **청구 된 수익 (USD)** 을 볼 수 있습니다.
 
 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 **홈** 옵션을 눌러 원래 뷰로 되돌립니다. 지도 위에 마우스를 가져가면 국가별로 **청구 된 수익 (USD)** 을 볼 수 있습니다. 표에서 청구 되는 필드 (USD)를 정렬할 수 있습니다.
 
@@ -76,7 +76,7 @@ ms.locfileid: "89280546"
 
 ## <a name="resellers-addchurns"></a>대리점 추가/변동
 
-이 보기는 **새 대리점**, **변동 대리점**및 **기존 대리점**의 수를 월 단위로 분할 하 여 제공 합니다. 
+이 보기는 **새 대리점**, **변동 대리점** 및 **기존 대리점** 의 수를 월 단위로 분할 하 여 제공 합니다. 
 
 - 새 대리점: 선택한 날짜 범위 동안 간접 공급자에 새로 등록 된 대리점의 수입니다.
 - 변동 재판매인: 현재 월을 제외 하 고 지난 6 개월 동안 트랜잭션이 없는 대리점의 수입니다.
@@ -92,7 +92,7 @@ ms.locfileid: "89280546"
 
 ## <a name="reseller-performance-by-products"></a>제품별로 재판매인 성능
 
-이 보기는 한 달에 한 달에 청구 되는 수익, 구독 개수 및 라이선스 수와 같은 주요 메트릭의 분할을 제공 합니다. 오른쪽의 원형 차트는 다양 한 제품에서 해당 메트릭의 전체적인 분할을 나타내므로 파트너가 판매 하 고 있는 다양 한 제품에 의해 분할을 신속 하 게 살펴볼 수 있습니다.
+이 보기는 한 달에 한 달에 청구 되는 수익, 구독 개수 및 라이선스 수와 같은 주요 메트릭의 분할을 제공 합니다. 오른쪽에 있는 원형 차트는 다양 한 제품에의 한 메트릭의 전반적인 분할을 나타내므로 파트너가 판매 하 고 있는 다양 한 제품에 의해 분할을 신속 하 게 살펴볼 수 있습니다.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="제품별로 재판매인 성능":::
 

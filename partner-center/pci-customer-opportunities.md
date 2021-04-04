@@ -8,20 +8,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175279"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086960"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>파트너 센터 대시보드에서 사용할 수 있는 CloudAscent 성향 보고서
 
 **적절한 역할**
+
 - 임원 보고서 뷰어
 - 보고서 뷰어
 
-파트너 센터 대시보드는 CloudAscent 프로그램에서 다운로드 가능한 성향 데이터를 제공 합니다. 데이터는 고객의 성향 Microsoft 제품 구매를 보여 줍니다.  이 문서에서는 이러한 데이터의 분석, 점수 매기기를 활용 하는 방법 및 의미에 대해 설명 합니다.
+파트너 센터 대시보드는 CloudAscent 프로그램에서 다운로드 가능한 성향 데이터를 제공 합니다. 데이터는 고객의 성향 Microsoft 제품 구매를 보여 줍니다.  이 문서에서는 이러한 데이터의 분석, 점수 매기기 사용 방법 및 의미에 대해 설명 합니다.
 
 ## <a name="summary-definitions"></a>요약 정의
 
@@ -40,22 +41,22 @@ SMB (중소기업) 세그먼트는 세 개의 고유한 하위 세그먼트로 �
 
    다음은 관리 되지 않는 상위 두 가지 방법을 정의 합니다.
 
-   - **상위 관리 되지 않는 사용자 기반**-300 이상의 직원이 포함 된 계정이 포함 되어 있습니다. User-Based 계정은 처음 구매 하거나 M365, D365 또는 Surface와 같은 사용자 기반 구독 제품을 확장 하는 데 적합 한 대상입니다.
+   - **상위 관리 되지 않는 사용자 기반**-300 이상의 직원이 포함 된 계정이 포함 되어 있습니다. User-Based 계정은 처음 구매 하거나 Microsoft 365, Dynamics 365 또는 화면과 같은 사용자 기반 구독 제품을 확장 하는 데 적합 한 대상입니다.
    - **상위 관리 되지 않는 계산 기반** – Azure 잠재력이 $10k 보다 큰 계정을 포함 합니다. 계산 기반 계정에는 기존 Azure가 포함 됩니다. 미래의 연간 잠재력 및 Azure를 아직 구매 했지만 $10k 보다 더 큰 Azure가 있는 계정에 대 한 계정입니다.
 
 2. **중간 규모 비즈니스** 는 기존 고객을 포함 하 고, 25-300 명의 직원이 있는 잠재 고객 계정을 포함 합니다.
 
 3. **소규모 비즈니스** 에는 직원 수가 25 명 미만인 모든 남은 기업이 포함 됩니다.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="SMC 유형별 고객.":::
 
-**상위 관리 되지 않는 상위** 및 **중간 규모 비즈니스** 하위 세그먼트는 microsoft 및 microsoft 파트너에 대 한 ltv (high time value) 고객을 나타냅니다. 따라서이 세그먼트의 증가를 촉진 하는 데 중점을 두는 부분입니다. 이러한 두 개의 하위 세그먼트에서 M365을 사용 하 여 소켓을 획득 하 고, D365/Azure LOB (기간 업무) 앱을 수익 창출 하 고, Microsoft를 위한 고급 앱을 실현 하는 것이 더 좋습니다.
+**상위 관리 되지 않는 상위** 및 **중간 규모 비즈니스** 하위 세그먼트는 microsoft 및 microsoft 파트너에 대 한 ltv (high time value) 고객을 나타냅니다. 이로 인해이 세그먼트의 증가를 추진 하는 데 중점을 두는 부분이 있습니다. 이러한 두 개의 하위 세그먼트에서 Microsoft 365를 사용 하 여 소켓을 획득 하 고 D365/Azure LOB (기간 업무) 앱을 추가로 수익 창출 하 고, Microsoft에 대 한 고급 LTV를 실현 하는 것이 더 좋습니다.
 
-현재는 두 가지 주요 영역인 고객은 성장을 추가 합니다. sr-2. M365를 사용 하는 클라우드 소켓을 잘 활용 하는 동시에 D365와 Azure에서 많은 기회를 얻을 수 있습니다.
+현재는 두 가지 주요 영역인 고객은 성장을 추가 합니다. sr-2. Microsoft 365를 사용 하는 클라우드 소켓을 잘 활용 하는 동시에 D365 및 Azure에서 많은 기회를 얻을 수 있습니다.
 
 다음 스크린샷은 세 가지 SMB 하위 세그먼트와 시장에 최적화 된 경로를 나타냅니다. CloudAscent는 관리 되지 않는 모든 상위 및 중간 규모 비즈니스 계정의 프로 파일링, 점수 매기기 및 모델링 우선 순위를 지정 합니다.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="SMB subsegments의 스크린샷":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
@@ -67,7 +68,7 @@ SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및
 
 - **최적화**: Machine Learning 시스템은 매월 트랜잭션 데이터를 사용 하 고 구독 데이터를 분기별로 사용 하 여 모델을 최적화 합니다.  Machine Learning은 win/손실 데이터를 사용 하 여 알고리즘을 조정 하 고 클러스터 권장 사항을 MSX에서 수행 되는 기회와 비교 하 여 모델이 예상 대로 작동 하는지 확인 합니다.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="SMB machine learning의 스크린샷":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent 성향
 
@@ -91,7 +92,7 @@ SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및
 
    - 의도 점수 매기기는 매월 업데이트 됩니다.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB 예측 모델":::
 
 3. Clustering
 
@@ -110,18 +111,18 @@ SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및
 
          |**분류**|**점수**|
          |---------|:---------|
-         |높은|75-100|
+         |높음|75-100|
          |중간|55-74|
          |낮음|30 - 54|
          |매우 낮음|0 - 29|
 
       2. 위의 규칙을 사용 하 여 회사를 높음, 중간, 낮음으로 분류 하 고 고객에 게 적합 한 신호를 제공 합니다.
 
-      3. 성향를 나타내는 각 교차 영역에 대 한 고객 맞춤 및 의도 신호를 2D 행렬에 표시 합니다.     예를 들어, 최고 성향을 나타내는 높은 맞춤 + 높은 의도 = A1이 있습니다.
+      3. 성향를 나타내는 각 교차 영역에 대 한 고객 맞춤 및 의도 신호를 2D 행렬에 표시 합니다. 예를 들어, 최고 성향을 나타내는 높은 맞춤 + 높은 의도 = A1이 있습니다.
 
       4. 마지막으로 이러한 세그먼트는 클러스터를 형성 하는 그룹입니다.  예를 들어 A1, A2, A3, A4는 이제 Act 클러스터를 형성 합니다.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="CloudAscent 모델.":::
 
    이러한 고객의 경우 이제 Act를 대상으로 지정 하 고 고객을 평가 하는 것이 좋습니다.
 
@@ -129,10 +130,10 @@ SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및
 
 다음 그림은 CloudAscent 내의 각 성향 모델에 대 한 보기를 제공 합니다.
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent 성향 모델입니다.":::
 
 공백 모델은 제품이 없는 기존 Microsoft 고객에 대 한 예측으로 구성 되 고, 그렇지 않은 경우에는 네트워크를 통해 새로운 고객을 대상으로 합니다.
 
-상향 판매 모델은 트랜잭션 데이터를 사용 하 여 Azure 및 M365 Sku에서 상향 판매의 가능성을 예측 합니다.
+상향 판매 모델은 트랜잭션 데이터를 사용 하 여 Azure 및 Microsoft 365 Sku에서 상향 판매의 가능성을 예측 합니다.
 
-EOS는 Win 7, Office 2010, SQL Server 및 Windows Server에 대 한 서비스 고객의 끝을 공유 합니다. EOS 데이터는 MS Sales에서 끌어오고, 사용 가능한 경우 CloudAscent 성향 모델링에 중첩 됩니다. EOS 데이터는 최신 작업 및 Azure Sales가 재생 됩니다.
+EOS는 Windows 7, Office 2010, SQL Server 및 Windows Server에 대 한 서비스 고객의 끝을 공유 합니다. EOS 데이터는 MS Sales에서 끌어오고, 사용 가능한 경우 CloudAscent 성향 모델링에 중첩 됩니다. EOS 데이터는 최신 작업 및 Azure Sales가 재생 됩니다.

@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714397"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179176"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>이러한 리소스를 사용 하 여 성과급 계획 및 실행 증명을 만드는 데 도움을 줍니다.
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft 파트너 네트워크 파트너 (MPN)
 
 **적절한 역할**
 
@@ -40,7 +35,7 @@ ms.locfileid: "90714397"
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>실행 증명 (PoE)은 무엇 인가요?
 
-성과급 작업에 대 한 지불을 받은 후에는 Microsoft에 PoE (자세한 실행 증명)를 제출 해야 합니다. PoE에는 관련 캠페인, 성과급 활동 발생 날짜, 요청한 금액 등에 대 한 세부 정보가 포함 될 수 있습니다. 
+성과급 작업에 대 한 지불을 받은 후에는 Microsoft에 PoE (자세한 실행 증명)를 제출 해야 합니다. PoE에는 관련 캠페인, 성과급 활동이 발생 한 날짜 및 요청 된 금액에 대 한 세부 정보가 포함 될 수 있습니다. 
 
 [실행 증명을 준비 하는](incentives-prepare-your-proof-of-execution.md)방법에 대해 자세히 알아보세요.
 

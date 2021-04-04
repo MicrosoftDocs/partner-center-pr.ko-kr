@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV (독립 소프트웨어 공급 업체)에서 특정 제품을 독점적이 고 특정 CSP 파트너만 사용할 수 있도록 하는 방법에 대해 알아봅니다.
+description: Isv (독립 소프트웨어 공급 업체)가 특정 제품을 독점적이 고 특정 CSP 파트너만 사용할 수 있도록 하는 방법에 대해 알아봅니다.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000117"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179465"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>독립 소프트웨어 공급업체의 마켓플레이스 독점 제품
 
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - 영업 상담원
 
-ISV (독립 소프트웨어 공급 업체)에는 특정 CSP 파트너 에게만 제공 되는 독점적인 제품을 만들 수 있는 옵션이 있습니다.
+ISV (독립 소프트웨어 공급 업체)는 특정 CSP 파트너 에게만 제공 되는 독점적인 제품을 만들 수 있습니다.
 
-CSP 파트너는 파트너 센터 상업적 marketplace의 모든 ISV 제품을 볼 수 있습니다. 그러나 **단독**으로 표시 된 제품은 ISV에서 선택한 특정 파트너만 구매할 수 있습니다. 제품이 **단독**으로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.
+CSP 파트너는 파트너 센터 상업적 marketplace의 모든 ISV 제품을 볼 수 있습니다. 그러나 **단독** 으로 표시 된 제품은 ISV에서 선택한 특정 파트너만 구매할 수 있습니다. 제품이 **단독** 으로 표시 되지 않은 경우 모든 파트너가 구매할 수 있습니다.
 
 ISV에서 식별 하는 특정 CSP 파트너는 다음과 같은 작업을 수행할 수 있습니다.
 

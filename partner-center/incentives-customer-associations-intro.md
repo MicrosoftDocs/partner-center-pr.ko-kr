@@ -1,6 +1,6 @@
 ---
 title: CPOR 연결 개요
-description: 요청 파트너 (CPOR) 모델을 통해 특정 성과급 프로그램에 고객을 연결 하는 데 필요한 파트너 리소스에 대해 읽어 보세요.
+description: 요청 파트너 (CPOR) 모델을 통해 고객을 특정 성과급 프로그램에 연결 해야 하는 파트너를 위한 리소스에 대해 알아보세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 6e420f4aa5353126c705c42836052d340ede6504
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714467"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179193"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>이러한 리소스를 사용 하 여 특정 성과급 프로그램에 대 한 고객 연결 클레임을 만듭니다.
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft 파트너 네트워크 파트너 (MPN)
 
 **적절한 역할**
 
@@ -29,7 +24,7 @@ ms.locfileid: "90714467"
 
 이 문서에서는 다음 조건을 충족 하는 Microsoft 파트너에 대 한 리소스를 공유 합니다.
 
-- Microsoft 성과급 프로그램: OSA (Online Services Advise) 판매의 일부입니다. OSU (온라인 서비스 사용)-Microsoft 365; 그리고 OSU-비즈니스 응용 프로그램의 성과급입니다.
+- OSA (Online Services Advise) 판매, OSU (Online Services Usage) Microsoft 365 및 OSU-Business 응용 프로그램 성과급 등의 Microsoft 성과급 프로그램의 일부입니다.
 
 - Microsoft 365 또는 Dynamics 365 고객의 작업을 수행 하 고 위의 동기 프로그램에서이 작업 중 일부를 참조 하거나 주장 하려고 합니다.
 
@@ -39,7 +34,7 @@ ms.locfileid: "90714467"
 
 이제 Microsoft는 CPOR (Record of Partner) 모델을 사용 하 여 Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 합니다.
 
-이 모델은 다음과 같은 성과급 프로그램의 고객 작업에 적용 됩니다. OSA (Online Services Advise) 판매 OSU (온라인 서비스 사용)-Microsoft 365; 그리고 OSU-비즈니스 응용 프로그램의 성과급입니다.
+이 모델은 OSA (Online Services Advise) 판매, OSU (온라인 서비스 사용) Microsoft 365 및 OSU-Business 응용 프로그램 성과급 등의 성과급 프로그램을 사용 하 여 고객과 작업 하는 데 적용 됩니다.
 
 Microsoft는 모든 성과급 청구의 유효성을 검사 합니다.
 

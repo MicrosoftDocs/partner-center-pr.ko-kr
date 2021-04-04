@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89224714"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087113"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>파트너 센터 외부에서 Microsoft 파트너 네트워크 기술 혜택 활성화
 
+
+**적절한 역할**
+
+- 모든 파트너 센터 사용자
+
 이 문서는 PMC (Partner Membership Center)를 사용 하는 MPN () 멤버 Microsoft 파트너 네트워크를 위한 것입니다. 이러한 멤버는 현재 [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)외부의 기술 이점과 같은 특정 MPN 멤버 자격 혜택을 활성화 하는 데 도움이 필요 합니다.
-
-### <a name="applies-to"></a>적용 대상
-
-- 파트너 구성원 센터 사용자
-
-### <a name="appropriate-roles"></a>적절한 역할
-
-- PMC (Partner Membership Center)를 사용 하는 MPN 파트너
 
 많은 Microsoft 파트너 네트워크 (MPN) 구성원이 이미 [파트너 구성원 센터에서 파트너 센터로 마이그레이션](prepare-pmc-pc-migration.md) 되었으므로 사용자, 고객 및 MPN 혜택을 쉽게 관리할 수 있습니다.
 
@@ -48,7 +45,7 @@ PMC 사용자 인 경우 기술 혜택을 활성화 하는 데 도움이 필요 
 
 \***유럽, 중동 및 아프리카의 파트너에 대해서만:** Regform 전자 메일을 보낼 때 파트너 ID, MPN 연결 된 전자 메일 주소, 이름, 회사 이름, 전화, 도시 및 국가를 포함 합니다. 지원 계약을 만들거나 활성화 하는 데 도움이 필요 하면 Regform를 사용 합니다. 다른 MPN 관련 문제가 있는 경우 [Partner Frontline 지원팀](https://partner.microsoft.com/support?issueid=300-0042)에 문의 하세요.
 
-혜택이 활성화 되 면 회사의 핵심 이점과 관련 된 프로그램 담당자가 해당 혜택에 대 한 제품 지원 Id를 받게 됩니다. 이러한 Id에는 **액세스 id** 및 **계약 ID**가 포함 됩니다. 
+혜택이 활성화 되 면 회사의 핵심 이점과 관련 된 프로그램 담당자가 해당 혜택에 대 한 제품 지원 Id를 받게 됩니다. 이러한 Id에는 **액세스 id** 및 **계약 ID** 가 포함 됩니다. 
 
 특정 유형의 제품 또는 서비스에 대 한 지원 요청을 처음으로 제출할 때 사용자 또는 회사 사용자가 이러한 제품 지원 Id를 공유 해야 할 수 있습니다.
 

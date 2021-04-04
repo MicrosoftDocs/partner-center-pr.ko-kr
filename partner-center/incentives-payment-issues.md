@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834886"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179516"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>누락 된 지불, 잘못 된 소득 및 기타 문제 해결
 
-**적용** 대상:
-
-- 파트너 센터
-
-**적절 한 역할**:
+**적절한 역할**
 
 - 인센티브 관리자
 
-이 문서는 성과급 프로그램의 소득 또는 지불 문제를 해결 하는 데 도움이 됩니다. 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 중요성에 대해 설명 합니다.
+이 문서는 성과급 프로그램의 소득 또는 지불 문제를 해결 하는 데 도움이 됩니다. 다루는 주제에는 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 것이 포함 됩니다.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>내 조직에 대 한 지급 및 세금 프로필을 만들거나 업데이트할 수 있는 사람은 누구 인가요?
 
@@ -122,7 +118,7 @@ ms.locfileid: "99834886"
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="트랜잭션 정보":::
 
-트랜잭션 기록 보기의 월간 획득 금액은 특정 월에 받은 지불 금액에 맞지 않을 수 있습니다. 이는 미래 지불액에 적용 되는 이전 획득 기간에 대 한 다시 계산 및 조정으로 인 한 것입니다.
+트랜잭션 기록 보기의 월간 획득 금액은 특정 월에 받은 지불 금액에 맞지 않을 수 있습니다. 이는 미래 지불액에 적용 되는 이전 획득 기간을 다시 계산 하 고 조정 하기 때문입니다.
 
 예를 들어 9 월 2019에 처리 된 1 월 2019 소득에 대 한 조정은 9 월 2019 일의 소득 금액에 반영 되지 않습니다. 그러나 9 월 2019에 대 한 결제를 받은 경우 9 월에 적용 된 1 월 2019의 조정을 포함 합니다.
 
@@ -141,7 +137,7 @@ ms.locfileid: "99834886"
 | 현지 통화로 획득 및 지불 금액을 포함 하 여 지불 정보를 온라인으로 봅니다.  | **지불 목록** 필드를 확인 합니다.   |
 | 송금 문자 다운로드   |  **지불 송금** 선택  |
 | 특정 지불의 트랜잭션 수준 정보 보기 |  **보기** 선택  |
-| 트랜잭션 세부 정보를 Excel로 내보내기  |  **다운로드 시작** 을 선택한 다음 **데이터 내보내기** 를 클릭 합니다. 선택한 모든 필터가 내보낸 데이터에 적용 됩니다. 상태가 완료 됨으로 변경 되 면 **다운로드** 를 선택 하 고 프롬프트에 따라 상세 트랜잭션 보고서를 내보냅니다. 5 분 내에 상태가 업데이트 되지 않으면 페이지를 새로 고칩니다.  |
+| 트랜잭션 세부 정보를 Excel로 내보내기  |  **다운로드 시작** 을 선택한 다음 **데이터 내보내기** 를 선택 합니다. 선택한 모든 필터가 내보낸 데이터에 적용 됩니다. 상태가 완료 됨으로 변경 되 면 **다운로드** 를 선택 하 고 프롬프트에 따라 상세 트랜잭션 보고서를 내보냅니다. 5 분 내에 상태가 업데이트 되지 않으면 페이지를 새로 고칩니다.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>수익 및 지불 누락 또는 잘못 됨
 

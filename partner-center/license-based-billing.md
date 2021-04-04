@@ -2,31 +2,30 @@
 title: 라이선스 기반 청구
 description: 라이선스 기반 청구는 파트너 센터의 사용량 기준 청구와 어떻게 다른 지에 대해 알아봅니다 (라이선스 사용이 아닌 라이선스 별로 청구 되는 방법 포함).
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367487"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179414"
 ---
 # <a name="license-based-billing-in-partner-center"></a>파트너 센터의 라이선스 기반 요금 청구
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
-- CSP 프로그램의 파트너
-
-**적절 한 역할** -전역 관리자
-- 사용자 관리자
+- 글로벌 관리자
+- 사용자 관리 담당자
 - 청구 관리자
 - 관리 에이전트
 
-**라이선스**를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](billing-different-types.md)을 참조 하세요.
+**라이선스** 를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](billing-different-types.md)을 참조 하세요.
 
 ## <a name="license-billing-frequency"></a>라이선스 청구 빈도
 
@@ -34,9 +33,9 @@ ms.locfileid: "89367487"
 
 ## <a name="billing-date-for-licenses"></a>라이선스의 청구 날짜
 
-라이선스 기반 구독은 구독의 **기념일**에 대해 미리 청구 됩니다. 기념일은 구독을 구매한 월의 날짜입니다.
+라이선스 기반 구독은 구독의 **기념일** 에 대해 미리 청구 됩니다. 기념일은 구독을 구매한 월의 날짜입니다.
 
-예:
+예를 들면 다음과 같습니다.
 
 - 1 월 15 일에 **월간 구독** 을 구매한 경우 기념일은 매월 15 일이 됩니다.
 - 1 월 15 일에 **연간 구독** 을 구매한 경우 기념일은 매년 1 월 15 일이 됩니다.
@@ -51,7 +50,7 @@ ms.locfileid: "89367487"
 
 월 1 일에 구독을 일시 중단 하는 경우 100% 제공한 됩니다.
 
-2-12 월에 구독을 일시 중단 하는 경우 비례에 따라 제공한 됩니다.
+2~12개월 후 구독을 일시 중단하는 경우 비례에 따라 공제됩니다.
 
 ## <a name="license-renewal"></a>라이선스 갱신
 

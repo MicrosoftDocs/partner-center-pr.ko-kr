@@ -1,22 +1,22 @@
 ---
 title: 지급 명세서
 description: 지급 문과 요약 및 Microsoft 파트너 센터에서 지불 데이터를 보고 내보내는 방법에 대해 알아봅니다.
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549246"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087096"
 ---
 # <a name="payout-statements"></a>지급 명세서
 
-**적절한 역할:**
+**적절한 역할**
 
 - 계정 관리자
 - 글로벌 관리자
@@ -73,7 +73,7 @@ ms.locfileid: "105549246"
 
 ### <a name="transaction-history-summary"></a>트랜잭션 기록 요약
 
-이는 판매 된 제품의 날짜, 상태 및 예상 지불 월 획득의 출처를 포함 하 여 자세한 정보를 표시 합니다.
+이 보기에는 판매 된 제품 획득 날짜, 상태 및 예상 지불 월의 출처를 비롯 하 여 세부 정보가 표시 됩니다.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="트랜잭션 기록.":::
 
@@ -111,7 +111,7 @@ ms.locfileid: "105549246"
 - 규칙 변경: 규칙의 변경 내용에 따라 실제 지불 금액의 다시 계산이 반영 될 수 있습니다.
 - 지불 오류가 발생 하는 경우 실제 금액은 다를 수 있습니다.
 
-프로그램의 임계값과 지불 자격 규칙이 충족 되는 경우에만 지불 된 달에 지불 됩니다. 이러한 규칙은 다음 목록에만 포함 되어 있습니다.
+프로그램의 임계값과 지불 자격 규칙이 충족 되는 경우에만 지불 된 달에 지불 됩니다. 이러한 규칙은 다음 목록에 포함 되지만이에 제한 되지 않습니다.
 
 - 세금 프로필은 최신 이어야 합니다.
 - 소득은 프로그램 가이드에 정의 된 최소 획득 임계값을 충족 하거나 초과 해야 합니다.

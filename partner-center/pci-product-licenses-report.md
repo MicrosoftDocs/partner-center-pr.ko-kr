@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220302"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086909"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드의 제품 라이선스 보고서
 
 **적절한 역할**
+
 - 글로벌 관리자
 - 관리 에이전트
 - 보고서 뷰어
 - 임원 보고서 뷰어
 
-제품 라이선스 보고서는 O365, Dynamics, M365, Power BI 등의 라이선스 기반 클라우드 제품에 대 한 라이선스 분석을 제공 합니다. 여기에 제공 된 분석은 판매 했거나 고객을 위해 관리 하는 라이선스의 사용량과 관련 됩니다. 제품 라이선스 보고서에서 다음 섹션을 볼 수 있습니다.
+제품 라이선스 보고서는 Office 365, Dynamics, Microsoft 365, Power BI 등의 라이선스 기반 클라우드 제품에 대 한 라이선스 분석을 제공 합니다. 여기에 제공 된 분석은 판매 했거나 고객을 위해 관리 하는 라이선스의 사용량과 관련 됩니다. 제품 라이선스 보고서에서 다음 섹션을 볼 수 있습니다.
 
 - 요약
 - 지리적 라이선스 분산
@@ -40,10 +41,10 @@ ms.locfileid: "89220302"
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="라이선스 보고서 요약":::
 
-요약의 각 섹션에 대 한 자세한 내용은 아래를 참조 하세요.
+요약의 각 섹션에 대 한 자세한 내용은 다음을 참조 하세요.
 
 - Licenses: 
-  - 라이선스 기반 클라우드 제품 (예: O365, Dynamics, M365, Power BI 등)을 위해 판매 하거나 관리 하는 모든 라이선스의 현재 수입니다.
+  - Office 365, Dynamics, Microsoft 365, Power BI 등의 라이선스 기반 클라우드 제품에 대해 판매 되거나 관리 되는 모든 라이선스의 현재 수입니다.
   - 선택한 날짜 범위에 대 한 이러한 라이선스의 증가율 또는 거부 비율입니다.
   - 라이선스 추세 마이크로 차트: 마이크로 차트는 선택한 날짜 범위 동안 발생 한 라이선스 수의 월 단위 추세를 표시 합니다.
 

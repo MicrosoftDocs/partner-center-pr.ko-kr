@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714564"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179108"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>성과급 사용을 위한 10 가지 essentials
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft 파트너 네트워크 파트너 (MPN)
 
 **적절한 역할**
 
@@ -49,7 +44,7 @@ Microsoft 성과급 프로그램은 고객에 게 Microsoft 제품 및 서비스
 
 ## <a name="5-review-the-incentives-faq"></a>5. 성과급 FAQ 검토
 
-질문을 하기 전에 일반적인 성과급 질문에 대 한 답변을 받으세요. 파트너와의 직접적인 통신 뿐만 아니라 Microsoft 지원의 정보를 사용 하 여 자주의 성과급 FAQ를 업데이트 합니다. [여기](incentives-faq.md)에서 FAQ를 볼 수 있습니다.
+질문을 하기 전에 일반적인 성과급 질문에 대 한 답변을 받으세요. Microsoft 지원에서 정보를 사용 하 고 파트너와 직접 통신 하 여 성과급 FAQ를 자주 업데이트 합니다. [여기](incentives-faq.md)에서 FAQ를 볼 수 있습니다.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. 프로그램 자격 확인
 
