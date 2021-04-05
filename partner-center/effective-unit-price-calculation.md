@@ -1,7 +1,7 @@
 ---
 title: 유효 단가 계산
 ms.topic: how-to
-ms.date: 11/10/2020
+ms.date: 04/02/2021
 description: 유효 단가 및 계산 방법에 대해 알아봅니다. 또한이 문서에는 샘플 계산이 포함 되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556330"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374399"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 계획 소비에 대 한 유효 단위 가격 계산
 
@@ -53,7 +53,7 @@ ms.locfileid: "96556330"
 - **유효 단가** = bcu/BC
 
 >[!NOTE]
->참고:이 예제의 미터는 가격 책정의 계층을 포함 하지 않습니다.
+>이 예제의 미터는 가격 책정의 계층을 포함 하지 않습니다. 할인 비율 및 기타 조정의 유효 단위 가격 요소입니다.
 
 | Date | BCU (청구 가능한 소비 단위) | BC (청구 가능 비용) | 유효 단가 |
 | ------ | ----------- | ----------- | ----------- |  
