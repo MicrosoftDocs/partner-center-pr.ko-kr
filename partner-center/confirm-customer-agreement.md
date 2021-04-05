@@ -1,5 +1,5 @@
 ---
-title: Microsoft 고객 계약에 대한 고객의 동의 확인
+title: 고객이 CSP 프로그램에 대한 Microsoft 고객 계약에 동의했는지 확인하는 방법
 description: CSP(클라우드 솔루션 공급자) 파트너는 고객을 위해 Microsoft 서비스를 주문하기 전에 Microsoft 고객 계약에 대한 고객의 동의를 확인해야 합니다.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,29 +8,23 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/05/2020
-ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.date: 03/24/2021
+ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570572"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633781"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP 파트너 프로그램에서 고객의 Microsoft 고객 계약 동의 확인
-
-**적용 대상**
-
-- 파트너 센터
-- Microsoft 365 관리 센터
+# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>고객이 CSP 프로그램에 대한 Microsoft 고객 계약에 동의했는지 확인하는 방법
 
 **적절한 역할**
 
 - 관리 에이전트
 - 영업 상담원
 
-2019년 10월 1일, Microsoft는 Microsoft 클라우드 계약을 대체하기 위해 **Microsoft 고객 계약** 을 CSP 프로그램에 도입했습니다. 간접 재판매인에 대한 추가 [지침](indirect-reseller-tasks-in-partner-center.md)을 참조하세요. 파트너가 새 계약으로 원활하게 마이그레이션할 수 있도록 두 계약은 2020년 1월 31일까지 CSP 프로그램에서 모두 지원되었습니다. 2020년 2월 1일부터 Microsoft Cloud 계약이 Microsoft 고객 계약으로 바뀌었습니다.
 
-고객은 Microsoft 고객 계약에 동의하는 두 가지 옵션을 사용할 수 있습니다. 
+고객은 두 가지 옵션으로 Microsoft 고객 계약에 동의할 수 있습니다.
 
 **옵션 1**: 파트너의 고객 동의 증명 - 파트너는 파트너 센터 API/SDK 또는 파트너 센터 대시보드를 통해 고객의 동의 여부를 확인할 수 있습니다.
 
@@ -42,7 +36,7 @@ ms.locfileid: "96570572"
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>옵션 1: 파트너 센터에서 고객의 동의 여부 확인
 
-파트너는 새 고객 및 기존 고객을 위해 파트너 센터에서 고객이 Microsoft 고객 계약에 동의했는지 확인할 수 있습니다. 재판매인은 고객을 대신하여 증명할 수 없으며, 간접 공급자와 협력하여 증명해야 합니다.
+직접 청구 파트너는 새 고객 및 기존 고객을 위해 파트너 센터에서 고객이 Microsoft 고객 계약에 동의했는지 확인할 수 있습니다. 간접 재판매인은 고객을 대신하여 증명할 수 없으며, 간접 공급자와 협력하여 증명해야 합니다.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>신규 고객에 대한 고객의 동의 여부 확인
 
@@ -80,7 +74,7 @@ ms.locfileid: "96570572"
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>고객 동의 여부 확인 검색
 
-다음 단계를 따라 기존 고객이 Microsoft 고객 계약에 동의했다는 확인을 검색할 수 있습니다. 관리 담당자 또는 판매 담당자만 이러한 확인이 가능합니다.
+기존 고객이 Microsoft 고객 계약에 동의했다는 확인을 검색하려면 다음 단계를 수행합니다. 관리 담당자 또는 판매 담당자만 이러한 확인이 가능합니다.
 
 1. **고객** 을 선택한 다음, 확인하려는 고객을 찾아서 선택합니다.
 
@@ -121,12 +115,12 @@ ms.locfileid: "96570572"
 
 2. **계정 정보** 아래의 모든 필수 필드에서 고객의 회사 이름 및 기본 연락처를 포함하여 새 고객에 대한 정보를 입력합니다.
 
-3. **고객 계약** 아래에서 첫 번째 옵션인 **Microsoft 365 관리 센터에서 Microsoft 고객 계약에 동의하라는 메시지가 고객에게 표시됩니다.** 를 선택합니다. 페이지에서 다른 필수 필드를 모두 완성합니다.
+3. **고객 계약** 아래에서 **Microsoft 365 관리 센터에서 Microsoft 고객 계약에 동의하라는 메시지가 고객에게 표시됩니다.** 를 선택합니다. 페이지에서 다른 필수 필드를 모두 완성합니다.
 
 4. **다음: 검토** 를 선택한 다음, 고객 테넌트를 만드는 단계를 계속 진행합니다. 
 
 >[!NOTE] 
->새 고객은 Microsoft 고객 계약에 동의할 때까지 새로 구매할 수 없습니다.  
+>새 고객은 Microsoft 고객 계약에 동의할 때까지 구매할 수 없습니다.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="새 고객 만들기":::
 
@@ -136,13 +130,13 @@ ms.locfileid: "96570572"
 
    - 이 [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement)에 대한 링크(로그인 필요)
 
-   - 5단계에서 저장한 고객의 자격 증명
+   - 5단계에서 저장한 고객의 자격 증명.
 
 7. 그런 다음, 고객이 파트너로부터 이메일 초대를 받고 [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement)을 선택합니다.
 
-8. 고객이 이전에 파트너로부터 받은 고객 자격 증명을 사용하여 Microsoft 365 관리 센터에 로그인합니다.
+8. 고객은 받은 고객 자격 증명을 사용하여 Microsoft 365 관리 센터에 로그인합니다.
 
-9. 그런 다음, 고객이 Microsoft 고객 계약에 동의하기 위한 확인란을 선택합니다.
+9. 고객이 Microsoft 고객 계약에 동의하기 위한 확인란을 선택합니다.
 
 ## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>재판매인 관계와 Microsoft 고객 계약을 검토하고 동의하도록 새 고객 초대 
 
@@ -160,7 +154,7 @@ ms.locfileid: "96570572"
 
 5. 고객이 이메일을 통해 초대를 받고, 매개 변수화된 URL을 클릭합니다. 
 
-6. 고객이 파트너로부터 이메일 내에 제공된 자격 증명을 사용하여 Microsoft 365 관리 센터에 로그인합니다.
+6. 고객이 이메일에서 제공된 자격 증명을 사용하여 Microsoft 365 관리 센터에 로그인합니다.
 
 7. 고객이 **재판매인 관계** 및 **Microsoft 고객 계약** 에 동의하기 위한 확인란을 선택합니다. 
 
@@ -186,15 +180,35 @@ ms.locfileid: "96570572"
    :::image type="content" source="images/mca/customeraccept.png" alt-text="고객":::
 
 >[!NOTE]
->특정 시나리오에서는 고객이 Microsoft 고객 계약에 직접 동의하지 않을 수 있습니다. 이러한 상황에 대한 자세한 내용은 [고객을 대신하여 증명해야 하는 두 가지 시나리오](attest-acceptance-customer-agreement.md)를 참조하세요.
+>특정 시나리오에서는 고객이 Microsoft 고객 계약에 직접 동의하지 않을 수 있습니다. 이러한 상황에 대한 자세한 내용은 아래에 있는 고객을 대신하여 증명해야 하는 두 가지 시나리오를 참조하세요.
 
-### <a name="historical-timeline-details"></a>기록 타임라인 세부 정보
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>고객을 대신하여 증명해야 하는 두 가지 시나리오
 
-| 날짜 | 마일스톤 | 세부 정보 |
-|------------|------------|--------------------------------|
-|2019년 8월 1일| 샌드박스 환경에서 UX 미리 보기 사용 가능| 파트너는 CSP 샌드박스 환경에서 파트너 센터 대시보드를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. CSP 샌드박스 환경에 액세스할 수 있는 파트너는 사용자 환경 변경 사항을 미리 볼 수 있습니다. 샌드박스 액세스 권한이 없는 파트너는 이 항목의 변경 사항에 대해 알아볼 수 있습니다.|
-|2019년 9월 3일|샌드박스 환경에서 API 미리 보기를 사용할 수 있습니다.|파트너는 CSP 샌드박스 환경에서 파트너 센터 API를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. API 파트너는 이 기회를 사용하여 API 변경 사항을 미리 보고 API 통합 작업을 시작하여 새 계약을 지원할 수 있습니다.|
-|2019년 9월 20일|샌드박스 환경에서 .NET SDK 미리 보기를 사용할 수 있습니다.|파트너는 CSP 샌드박스 환경에서 파트너 센터 .NET SDK를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. API 파트너는 이 기회를 사용하여 .NET SDK 변경 사항을 미리 보고 API 통합 작업을 시작하여 새 계약을 지원할 수 있습니다.|
-|2019년 10월 1일|프로덕션 환경에서 Microsoft 고객 계약 사용 가능|Microsoft는 CSP 프로그램에 Microsoft 클라우드 계약을 대체하는 Microsoft 고객 계약을 도입합니다. 파트너는 프로덕션 환경에서 파트너 센터 대시보드 및 API를 사용하여 Microsoft 고객 계약에 대한 고객의 동의 여부를 확인할 수 있습니다. Microsoft 클라우드 계약은 CSP 파트너 프로그램 내에서 계속 지원됩니다. 그러나 파트너는 Microsoft 고객 계약으로 마이그레이션을 시작하는 것이 좋습니다. 신규 구매 및 기존 구독의 라이선스 수 변경에는 Microsoft 고객 계약 또는 Microsoft 클라우드 계약의 파트너 확인이 필요합니다. 특정 새 제품(예: 새 Azure 요금제)은 Microsoft 고객 계약을 확인해야 합니다.|
-|2020년 1월 31일|프로덕션 환경에서 Microsoft 클라우드 계약이 제거됨|Microsoft 클라우드 계약은 CSP 파트너 프로그램 내에서 더 이상 허용되지 않습니다. 신규 구매 및 기존 구독의 라이선스 수 변경에는 Microsoft 고객 계약의 파트너 확인이 필요합니다. 이 요구 사항은 새 고객과 이전에 Microsoft 클라우드 계약에 동의한 기존 고객에게 적용됩니다.|
-|2020년 2월 3일|파트너는 이제 URL을 통해 고객을 초대하여 인증된 Microsoft 365 관리 센터에서 계약을 검토하고 동의할 수 있습니다. | 고객은 Microsoft 365 관리 센터에서 Microsoft 고객 계약에 동의할 수 있습니다. 고객이 Microsoft 365 관리 센터에서 계약에 직접 동의하면 약관의 승인이 확인됩니다. 
+고객이 Microsoft 365 관리 센터 내에서 Microsoft 고객 계약에 직접 동의하지 못할 수 있는 두 가지 시나리오가 있습니다.
+
+**시나리오 1**: 기존 고객이 기존 파트너 관계를 통해 제품, 소프트웨어 또는 소프트웨어 구독, 예약된 인스턴스 또는 Azure 플랜을 구매했습니다. 이제 고객이 새로운 구매를 시도하고 있습니다(자동 갱신 제외). 이 고객이 URL을 클릭하면 "파트너에게 연락하여 Microsoft 고객 계약에 동의했는지 확인하세요."라는 메시지가 표시됩니다.  
+
+**해결 방법**: 고객을 대신하여 증명해야 합니다.
+
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="파트너에게 연락하여 Microsoft 고객 계약에 동의를 확인하도록 요청하는 Microsoft 365 관리 센터 페이지의 스크린샷":::
+
+**시나리오 2**: 기존 고객이 다음 제품, 소프트웨어 및 소프트웨어 구독, 예약 인스턴스 및 Azure 플랜을 구입했습니다. 이제 고객이 새 파트너와 함께 새로운 구매를 시도하고 있습니다.
+
+고객이 새 파트너 관계와 계약에 동의하기 위해 Microsoft 365 관리 센터에 대한 URL을 클릭하면 "파트너에게 연락하여 Microsoft 고객 계약에 동의했는지 확인하세요."라는 메시지가 표시됩니다.  
+
+**해결 방법**: 고객을 대신하여 증명해야 합니다.  
+
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>고객이 계약에 동의했는지 확인합니다.
+
+앞서 동의 여부를 확인하지 않은 기존 고객의 신규 주문을 작성하려고 시도하면 확인을 완료하라는 메시지를 받게 됩니다. 다음 절차를 사용 하 여이 작업을 수행 합니다.
+
+1. 계약에 동의한 사용자의 **이름**, **성**, **이메일 주소** 및 **전화 번호**(선택 사항)를 입력합니다.
+
+2. **계약 동의 날짜** 에 해당 날짜를 입력합니다. 이 날짜는 미래의 날짜로 설정할 수 없습니다.
+
+3. **저장하고 계속** 을 선택합니다. 
+
+## <a name="next-steps"></a>다음 단계
+
+- [회사 프로필 정보 확인 또는 업데이트](update-your-partner-profile.md)
+- [Microsoft 고객 계약(지역, 언어별)](Agreements.md)

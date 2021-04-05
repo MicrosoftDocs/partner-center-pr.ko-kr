@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999987"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633882"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
 **적절한 역할**
+
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - 영업 상담원
 - 관리 에이전트
 
@@ -120,11 +121,11 @@ MPN 관리자 또는 전역 관리가 Visual Studio의 사용량 기반 구독�
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>MCP 연결 및 파트너 대학 액세스를 어떻게 관리해야 하나요?
 
-PMC에서 이동하는 MCP 연결은 아무 것도 달라지지 않습니다. 그러나 파트너 센터로 이동한 이후의 신규 직원은 파트너 센터에서 연결해야 합니다. 기존 사용자의 모든 파트너 대학 권한은 그대로 유지되지만, 신규 직원은 [교육 센터](https://partner.microsoft.com/training)로 이동하여 파트너 대학 액세스 권한을 얻는 방법을 확인해야 합니다.
+PMC에서 이동하는 MCP 연결은 아무 것도 달라지지 않습니다. 그러나 파트너 센터로 이동한 이후의 직원은 파트너 센터에서 연결해야 합니다. 기존 사용자의 모든 파트너 대학 권한은 그대로 유지되지만, 신규 직원은 [교육 센터](https://partner.microsoft.com/training)로 이동하여 파트너 대학 액세스 권한을 얻는 방법을 확인해야 합니다.
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>파트너 센터로 이동한 후 MCP 정보를 보려면 어떻게 해야 하나요?
 
-대시보드의 왼쪽 탐색 영역에서 **역량**을 선택합니다. **역량** 페이지에서 기술 보고서를 다운로드할 수 있습니다. 기술 보고서에는 파트너 센터의 역량 및 프로그램과 관련된 기술을 획득한 사용자가 나열됩니다. 사용자가 기술을 획득했지만 해당 기술이 현재 진행 중인 역량과 관련이 없는 경우에는 보고서에 나열되지 않습니다.
+대시보드의 왼쪽 탐색 영역에서 **역량** 을 선택합니다. **역량** 페이지에서 기술 보고서를 다운로드할 수 있습니다. 기술 보고서에는 파트너 센터의 역량 및 프로그램과 관련된 기술을 획득한 사용자가 나열됩니다. 사용자가 기술을 획득했지만 해당 기술이 현재 진행 중인 역량과 관련이 없는 경우에는 보고서에 나열되지 않습니다.
 
 ### <a name="are-customer-references-used-in-partner-center"></a>파트너 센터에서 고객 참조가 사용되나요?
 

@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624139"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549110"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>갱신 기간 중 역량 및 고급 전문화를 위한 MPN 제안 갱신
-
-### <a name="applies-to"></a>적용 대상
-
-- 파트너 센터
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트
 
