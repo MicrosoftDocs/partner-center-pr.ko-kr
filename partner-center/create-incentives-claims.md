@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132949"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502921"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>성과급 공동 op 클레임 만들기 및 관리
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 

@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft에서 게시 한 제품 및 타사 Isv가 게시 한 SaaS 제품에 고객 구독을 판매 하는 방법에 대해 알아봅니다.
+description: 타사 Isv가 게시 한 SaaS 제품 뿐만 아니라 Microsoft에서 게시 한 제품에 대 한 구독을 고객에 게 판매 하는 방법을 알아봅니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038883"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502938"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>고객 구독 만들기, 일시 중단 또는 취소
 
 **적용 대상**
 
-- 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
-- CSP 파트너
 
 **적절한 역할**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038883"
 - 기술 지원팀 상담원
 - 영업 상담원
 
-파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다. 여기에는 타사 Isv (독립 소프트웨어 공급 업체)가 [상업적 marketplace](https://azuremarketplace.microsoft.com/marketplace)에 게시 한 SaaS (Software As a Service) 제품 뿐만 아니라 Microsoft에서 게시 한 제품이 포함 됩니다.
+파트너 센터에서 고객 기록을 만들면 카탈로그에서 제품의 구독을 판매할 수 있습니다. 이러한 제품에는 타사 Isv (독립 소프트웨어 공급 업체)가 [상업적 marketplace](https://azuremarketplace.microsoft.com/marketplace)에 게시 한 Microsoft 및 SaaS (Software As a Service) 제품에서 게시 한 제품이 포함 됩니다.
 
 일부 제안은 고객 당 하나의 구독으로 제한 됩니다. 제한되는 제품 목록을 보려면 파트너 센터 가격 책정 및 제품 페이지를 방문하세요.
 
@@ -80,7 +78,7 @@ ms.locfileid: "96038883"
    
 ## <a name="update-subscriptions-with-add-ons"></a>추가 기능을 사용하여 구독 업데이트 
 
-추가 기능을 구매하려면 고객에게 먼저 활성 기본 구독이 있어야 합니다.  카탈로그를 통해 추가 기능을 구매할 수 없습니다.
+추가 기능을 구매 하려면 먼저 고객이 활성 기본 구독을 보유 하 고 있어야 합니다.  카탈로그를 통해 추가 기능을 구매할 수 없습니다.
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
@@ -93,7 +91,7 @@ ms.locfileid: "96038883"
 5. 필요한 각 추가 기능에 대 한 라이선스의 수량을 업데이트 합니다. 그런 다음, 변경 내용을 **제출** 합니다.
 
 파트너 센터를 통해 추가 기능을 구입 하는 기능은 직접 청구 및 간접 공급자만 사용할 수 있습니다.
-기본 요구 사항 및 지역 가용성에 따라 적합 한 추가 기능만 표시 됩니다. 가격 책정 및 제품에 대한 자세한 내용은 클라우드 재판매인 제품 매트릭스를 참조하세요.  기본 구독을 일시 중단하면 연결된 추가 기능도 일시 중단됩니다.
+기본 요구 사항 및 지역 가용성에 따라 적합 한 추가 기능만 표시 됩니다. 가격 책정 및 제품에 대 한 자세한 내용은 Cloud 재판매인 제품 매트릭스를 참조 하세요. 기본 구독을 일시 중단하면 연결된 추가 기능도 일시 중단됩니다.
 
 추가 기능에 대한 시작 날짜는 기본 구독에 맞춰지며 첫 번째 청구서에서 요금은 청구 시작 날짜와 청구 종료 날짜에 비례한 요금으로 계산됩니다. 자세한 내용은 [라이선스 기반 청구](license-based-billing.md)를 참조 하세요.
 
@@ -120,7 +118,7 @@ ms.locfileid: "96038883"
 
 ### <a name="cancel-a-subscription"></a>구독 취소
 
-파트너 센터 [상업적 marketplace](csp-commercial-marketplace-overview.md)내에서 타사 ISV 게시자의 라이선스 기반 SaaS 구독을 취소 하는 옵션이 있습니다. 취소 기간 내에 취소 하는 동안에는 전체 환불을 받을 수 있습니다.
+파트너 센터 [상업적 marketplace](csp-commercial-marketplace-overview.md)내에서 타사 ISV 게시자의 라이선스 기반 SaaS 구독을 취소할 수 있습니다. 취소 기간 내에 취소 하는 동안에는 전체 환불을 받을 수 있습니다.
 
 매월 청구 되는 ISV 제품의 경우:
 

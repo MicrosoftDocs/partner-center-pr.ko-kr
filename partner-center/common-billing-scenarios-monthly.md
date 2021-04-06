@@ -2,17 +2,19 @@
 title: 일반적인 월간 청구 시나리오
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 월별 청구를 사용할 때 파트너 센터의 일반적인 시나리오-새 구독 추가, 라이선스 수량 변경, 구독 일시 중단 등이 있습니다.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354579"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502517"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>새 구독, 라이선스 금액 변경 또는 일시 중단에 대 한 샘플 월간 청구 시나리오
 
@@ -47,7 +49,7 @@ ms.locfileid: "97354579"
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2018/2/12    |요금 주기   |4.00       |1        |4.00    |
 
-2 월 1 일부 터 라이선스 수량을 1 ~ 2로 늘릴 수 있습니다. 2 월 15 일 라이선스 기반 조정 파일에는 다음 청구 줄이 포함 됩니다.
+2 월 1 일부 터 라이선스 수량을 1 ~ 2로 늘립니다. 2 월 15 일 라이선스 기반 조정 파일에는 다음 청구 줄이 포함 됩니다.
 
 |요금 청구 시작 날짜 |청구 종료 날짜 |요금 청구 유형 |Unit Price |수량 |금액 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |

@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979569"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502904"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP 프로그램의 일부로 Microsoft 국가별 클라우드의 판매에 적용
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 - Microsoft 클라우드 독일 파트너 센터
-
 
 **적절한 역할**
 
 - 글로벌 관리자
 
-Microsoft 파트너는 글로벌 클라우드 솔루션 공급자 프로그램의 일환으로 고객에 게 판매 하는 것 외에도 클라우드 솔루션을 세 가지 별도의 국가별 클라우드로 고객에 게 판매할 수 있습니다. 국가별 클라우드는 특정 국가의 지리적 경계 내에 국한 되 고 로컬 담당자가 운영 하는 Microsoft enterprise cloud services의 논리적 네트워크 격리 인스턴스입니다. 
+Microsoft 파트너는 글로벌 클라우드 솔루션 공급자 프로그램의 일환으로 고객에 게 판매 하는 것 외에도 클라우드 솔루션을 세 가지 별도의 국가별 클라우드로 고객에 게 판매할 수 있습니다. 국가별 클라우드는 특정 국가의 지리적 경계 내에 국한 되 고 로컬 담당자가 운영 하는 Microsoft enterprise cloud services의 논리적 네트워크 격리 인스턴스입니다.
 
 Microsoft의 국가별 클라우드 제품에 대 한 자세한 내용은 [Microsoft 국가별](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud)클라우드를 참조 하세요.
 
@@ -56,7 +55,7 @@ Microsoft는 이러한 서비스를 국가별 클라우드에서 사용할 수 �
     
 -   [**중국의 21vianet에서 운영 하는 Azure 및 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft는 상하이 Blue (Microsoft)를 통해 중국의 클라우드 서비스를 제공 합니다 .이는 베이징 21Vianet 광대역 데이터 센터 공동의 완전 소유 자회사입니다.. t. t. m a t. m a. m a t. 
 
-    Microsoft는 기술 공급자 이지만 서비스를 작동 하지 않습니다. 21Vianet은 Microsoft 클라우드 서비스의 배달을 독립적으로 운영, 제공 및 관리 합니다. Microsoft 기술의 라이선스에 따라 21Vianet은 Azure 및 Office 365 서비스를 제공 하 고 중국에 데이터를 보관 하는 Azure 및 Office 365 데이터 센터를 운영할 수 있습니다. 또한 21Vianet은 지원 뿐만 아니라 구독 및 청구 서비스도 제공 합니다.
+    Microsoft는 기술 공급자 이지만 서비스를 작동 하지 않습니다. 21Vianet은 Microsoft 클라우드 서비스의 배달을 독립적으로 운영, 제공 및 관리 합니다. Microsoft 기술의 라이선스에 따라 21Vianet은 Azure 및 Office 365 서비스를 제공 하 고 중국에 데이터를 보관 하는 Azure 및 Office 365 데이터 센터를 운영할 수 있습니다. 21Vianet은 구독 및 청구 서비스와 지원도 제공 합니다.
 
     Azure의 고객에 게 등록 하 고 판매 하는 방법 및 중국의 21Vianet에서 운영 하는 Office 365에 대 한 자세한 내용은 21Vianet이 운영 하는 [파트너 센터](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))를 참조 하세요.
 
