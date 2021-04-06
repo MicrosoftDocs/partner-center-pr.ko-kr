@@ -3,22 +3,23 @@ title: 매일 등급 사용 조정 파일
 ms.topic: article
 ms.date: 06/12/2020
 description: 파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다. 정찰 파일의 특정 필드에 대 한 설명을 포함 합니다.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712242"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441900"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>파트너 센터에서 매일 등급 사용 조정 파일을 읽는 방법에 대해 알아봅니다.
 
 **적용 대상**
 
-- 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
@@ -35,7 +36,7 @@ ms.locfileid: "104712242"
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>매일 등급 사용 조정 파일의 필드
 
-| 열 | 설명 |
+| 열 | Description |
 | ------ | ----------- |
 | PartnerId | GUID 형식의 파트너 식별자입니다. |
 | PartnerName | 파트너 이름입니다. |
@@ -70,7 +71,7 @@ ms.locfileid: "104712242"
 | ResourceGroup | Azure 솔루션에 관련 된 리소스를 보유 하는 컨테이너를 나타냅니다. |
 | ResourceURI | 사용 되는 리소스의 URI입니다. |
 | ChargeType | 요금 또는 조정의 유형입니다.  |
-| UnitPrice | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
+| 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안이 가격이 청구 시스템에 저장 된 정보와 일치 하는지 확인 합니다. |
 | (Unittype.pixel) | 미터의 요금이 청구 되는 단위 유형입니다.  |
 | BillingPreTaxTotal | 세금 전 총 청구 금액입니다.<br/> _**BillingPreTaxTotal** = FLOOR (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
@@ -79,7 +80,7 @@ ms.locfileid: "104712242"
 | PricingCurrency | 가격표의 통화입니다. |
 | ServiceInfo1 | 지정 된 날짜에 프로 비전 되 고 사용 된 Service Bus 연결의 수입니다. |
 | ServiceInfo2 | 선택적 서비스 특정 메타 데이터를 캡처하는 레거시 필드입니다. |
-| 태그 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
+| 태그들 | 사용자가 설정 하는 Azure 리소스의 논리적 구성을 나타냅니다. |
 | AdditionalInfo | 다른 열에서 다루지 않은 추가 정보입니다. |
 | EffectiveUnitPrice | 할인이 나 획득 크레딧을 비롯 하 여 단위당 청구 되는 실제 값입니다. |
 | PCToBCExchangeRate | 가격 책정 통화에서 청구 통화로 적용 되는 환율 |

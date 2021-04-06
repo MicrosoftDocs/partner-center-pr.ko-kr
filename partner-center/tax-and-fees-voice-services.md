@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594465"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441492"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>지역 세금, PTSN (공개 전환 전화 네트워크) 서비스에 대 한 규정
 
-**적용 대상**
-
-- 파트너 센터
-- Office 365 파트너 거래 Microsoft 365 음성 제품
-
 **적절한 역할**
--    글로벌 관리자
--    사용자 관리자
--    관리 에이전트
+
+- 글로벌 관리자
+- 사용자 관리자
+- 관리 에이전트
 
 일부 관할지의 공개 PSTN (스위치 전화 네트워크) 서비스에는 파트너 주문 및 청구에 영향을 줄 수 있는 특별 한 세금 및 규정 요구 사항이 적용 될 수 있습니다. 푸에르토리코를 비롯 한 미국에서 오디오 회의, 호출 계획 및 통신 크레딧을 포함 하는 PSTN 서비스는 특별 한 세금 및 규정 요구 사항에 따라 결정 됩니다. 미국 및 푸에르토리코에서 Microsoft는 PSTN 서비스를 세금 포함으로 가격으로 포함 합니다.  고유한 PSTN 세금 및 규정은 Microsoft 365 음성 제품 거래 Office 365 파트너에 게 영향을 줍니다.  파트너가 Microsoft PSTN 서비스의 가격을 표시 하는 경우 PSTN 세금 및 수수료를 계산 하 고 remitting 하는 일을 담당할 수 있습니다.
 
@@ -34,7 +30,7 @@ ms.locfileid: "90594465"
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>송장 프레젠테이션 및 파트너 조정 파일
 
-비즈니스 PSTN 및 Microsoft 365 음성 서비스에 대 한 Skype를 포함 하는 미국, 푸에르토리코 및 캐나다의 CSP 청구서 및 CSP 조정 파일은 PSTN 및 비-PSTN 구성 요소에 대 한 별도의 품목을 제공 합니다.
+비즈니스 PSTN 및 Microsoft 365 음성 서비스에 대 한 Skype를 포함 하는 미국, 푸에르토리코 및 캐나다의 csp 청구서 및 CSP 조정 파일은 PSTN 및 비-PSTN 구성 요소에 대 한 별도의 품목을 제공 합니다.
 
 또한 CSP 청구서에는 다음 각주가 표시 됩니다.
 

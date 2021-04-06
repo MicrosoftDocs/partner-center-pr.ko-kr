@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626075"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441883"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>분석을 사용 하 여 구독 수익에 대해 자세히 알아보세요.
 
@@ -36,7 +36,7 @@ CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>TTM (후행 Twelve-Month) CSP 수익
 
-후행 12 개월 CSP 수익은 파트너 전역 계정 수준에서 USD의 후행 클라우드 솔루션 공급자 프로그램 수익을 나타냅니다. 매월 8 일에 데이터를 새로 고쳐 이전 달까지 후행 12 개월 수익을 표시 합니다. 예를 들어 9 월 9 일 9 월 2020 년 9 월 2020 2019 일의 고정 기간에 TTM을 볼 수 있습니다.
+후행 12 개월 CSP 수익은 파트너 전역 계정 수준에서 USD의 후행 클라우드 솔루션 공급자 프로그램 수익을 나타냅니다. 매월 여덟 분에 데이터를 새로 고쳐 이전 달까지 후행 12 개월 수익을 표시 합니다. 예를 들어 9 월 9 일 9 월 2020 년 9 월 2020 2019 일의 고정 기간에 TTM을 볼 수 있습니다.
 
 파트너 센터에 표시 되는 수익은 고정 된 시간 간격으로 12 개월 동안 계산 되며, 더 짧은 시간 프레임으로 수정할 수 없습니다.
 
@@ -51,14 +51,14 @@ CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 
 
 화면의 아래쪽에는 구독 요약이 표시 됩니다. 다음 필터를 사용 하 여 필요한 구독 정보를 확인 합니다.  
 
-1. **기간** :에 대 한 구독 요약을 표시 하도록 선택할 수 있습니다. 
+1. **기간**:에 대 한 구독 요약을 표시 하도록 선택할 수 있습니다. 
 
 - 30D – 지난 30 일
 - 3M – 지난 3 개월
 - 6M – 지난 6 개월
 - 12M – 지난 12 개월
 
-2. **제품 종류** :
+2. **제품 종류**:
  
 - Office 365
 - Microsoft 365

@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028250"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441560"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>일시 중단된 파트너 센터 계정 복원 - 일시 중단의 원인 및 해결 방법 알아보기
 
@@ -22,7 +22,7 @@ ms.locfileid: "105028250"
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 

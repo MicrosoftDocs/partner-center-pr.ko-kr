@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000557"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441475"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
 
@@ -27,11 +27,11 @@ ms.locfileid: "91000557"
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government란 무엇인가요?
 
-처음부터 미국 정부에 맞게 설계 된 정부 Microsoft 클라우드은 미국 연방 기관에서 소규모 정부 기관에 이르는 공공 부문 고객 들이 다양 한 클라우드 컴퓨팅 서비스에서 선택할 수 있도록 합니다. 고객의 특정 요구를 가장 잘 해결 하기 위해 Microsoft는 데이터 센터에 상당한 투자를 하 고 있으며 미국 연방 및 주 정책, 요구 사항 및 요구 사항에 대 한 준수를 전담 합니다.
+미국 정부를 위해 처음부터 미국 정부를 위해 설계 된 Microsoft 클라우드 미국 정부에 대 한 미국 내 공공 부문 고객은 대기업에서 소규모 정부 기관에 이르는 다양 한 클라우드 컴퓨팅 서비스에서 선택할 수 있습니다. 고객의 특정 요구를 가장 잘 해결 하기 위해 Microsoft는 데이터 센터에 상당한 투자를 하 고 있으며 미국 연방 및 주 정책, 요구 사항 및 요구 사항에 대 한 준수를 전담 합니다.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램은 누구 인가요?
 
-정부 용량에서 미국 연방, 주 및 지방 정부 기관에 근무 하는 미국의 파트너는 Microsoft 정부 클라우드의 CSP 프로그램에 적합 합니다. Microsoft는 파트너가 Microsoft 정부 클라우드에 액세스할 수 있기 전에 자격을 확인 하는 엄격한 유효성 검사 프로그램을 갖추고 있습니다. 자격을 얻으려면 정부 고객과 함께 작업 하는 것을 입증 해야 합니다. Microsoft에서 미국 정부 기관에 대 한 등록 프로세스는 유효성 검사를 수행 하기 위해 추가 데이터를 캡처하기 위해 확대 되었습니다. 증명 형식에는 정부 고객의 정부 계약 번호 및 보증 품목이 포함 되지만이에 국한 되지 않습니다.
+정부 용량에서 미국 연방, 주 및 지방 정부 기관에 대해 미국 연방, 주 및 지방 정부 단체를 제공 하는 미국의 파트너는 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 적합 합니다. Microsoft는 파트너가 미국 정부에 대 한 Microsoft 클라우드에 액세스할 수 있을 때 자격을 확인 하기 위한 엄격한 유효성 검사 프로그램을 갖추고 있습니다. 자격을 얻으려면 정부 고객과 함께 작업 하는 것을 입증 해야 합니다. Microsoft에서 미국 정부 기관에 대 한 등록 프로세스는 유효성 검사를 수행 하기 위해 추가 데이터를 캡처하기 위해 확대 되었습니다. 증명 형식에는 정부 고객의 정부 계약 번호 및 보증 품목이 포함 되지만이에 국한 되지 않습니다.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>고객 제시 가격은 CSP Commercial과 동일한가요?
 
@@ -43,13 +43,13 @@ ms.locfileid: "91000557"
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP 상용은 기존 파트너 프로그램입니다. Microsoft 정부 클라우드의 CSP 프로그램은 어떻게 다른 가요?
 
-Microsoft 정부 클라우드의 CSP 프로그램은 다음 영역에서 CSP 상용과 다릅니다.
+미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램은 다음 영역에서 CSP 상용과 다릅니다.
 
-- 자격: Microsoft 정부 클라우드의 CSP 프로그램은 정부 용량에서 미국 연방, 주 및 지방 정부 단체를 제공 하는 미국 주 파트너 에게만 제공 됩니다. Microsoft는 파트너가 미국 정부 클라우드에 액세스할 수 있기 전에 자격을 확인 하는 유효성 검사 프로그램을 갖추고 있습니다.
+- 자격: 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램은 정부 용량에서 미국 연방, 주 및 지방 정부 단체를 제공 하는 미국 주 파트너 에게만 제공 됩니다. Microsoft는 파트너가 미국 정부 클라우드에 액세스할 수 있기 전에 자격을 확인 하는 유효성 검사 프로그램을 갖추고 있습니다.
 
 - 온 보 딩: 파트너는 CSP 상용에서 별도로 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 등록 해야 합니다.
 
-- 제품 가용성: Microsoft 정부 클라우드의 CSP 프로그램에서 Office 365, Enterprise Mobility + Security 및 Dynamics 365와 같은 Azure Government 및 라이선스 기반 서비스를 모두 사용할 수 있습니다.
+- 제품 가용성: 미국 정부에 대 한 Microsoft 클라우드 용 CSP 프로그램에서 Office 365, Enterprise Mobility + Security 및 Dynamics 365과 같은 Azure Government 및 라이선스 기반 서비스를 모두 사용할 수 있습니다.
 
 - 계약: MCRA (Microsoft 클라우드 대리점 계약)는 고유한 정부 용어를 반영 하도록 업데이트 되었습니다.
 
@@ -93,7 +93,7 @@ MCDA (Microsoft 클라우드 배포자 계약)는 CSP를 통해 판매할 수 �
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 판매에 대 한 자격은 무엇 인가요?
 
-Microsoft 정부 클라우드의 CSP 프로그램을 판매 하는 데 필요한 자격 조건은 직접 파트너와 간접 대리점 모두에 게 오픈 CSP 상업적 자격 조건과 동일 합니다. CSP 상업적으로 간접 재판매인으로 승인 된 경우 Microsoft 정부 클라우드의 CSP 프로그램에 대해 간접 재판매인으로 다시 지정할 필요가 없습니다.
+미국 정부에 대 한 Microsoft 클라우드 용 CSP 프로그램을 판매 하는 데 필요한 자격 조건은 직접 파트너와 간접 대리점 모두에 게 오픈 CSP 상용에 대 한 자격 기준과 동일 합니다. CSP 상업적에 대 한 간접 재판매인으로 승인 된 경우 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 간접 재판매인으로 다시 지정할 필요가 없습니다.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>기존 파트너입니다. 미국 정부에 대 한 Microsoft 클라우드를 판매 하려면 어떻게 해야 하나요?
 

@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028335"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441968"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>고객 목록 관리-파트너 센터에서 고객 검색, 업데이트 또는 내보내기
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 고객 레코드는 파트너 센터에서 가장 중요 한 정보 자산 중 하나입니다. 고객 계정의 데이터베이스를 검색 하거나, 전체 고객 데이터베이스를 내보내거나, 하위 집합을 Excel과 호환 되는 쉼표로 구분 된 값 파일 형식 (.csv)으로 내보낼 수 있습니다. 고객의 구독 정보를 .csv 파일로 내보낼 수도 있습니다.
 

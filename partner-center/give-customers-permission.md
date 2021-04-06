@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000467"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441305"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>파트너 센터에서 고객에 게 자신의 제품 또는 서비스를 구매할 수 있는 권한 부여
-
-**적용 대상**
-
-- 파트너 센터
-- CSP 프로그램의 파트너
 
 **적절한 역할**
 
@@ -32,7 +27,7 @@ ms.locfileid: "91000467"
 
 CSP 프로그램의 파트너는 파트너 센터와 상용 마켓플레이스를 사용 하 여 고객을 위한 솔루션 및 서비스를 구입 하는 경우가 많습니다. 파트너는 일부 고객이 Azure Portal에서 직접 이러한 서비스를 프로 비전 할 수 있도록 허용 합니다.
 
-예를 들면 다음과 같습니다. 파트너 센터에서 고객에 대 한 Azure 계획 구독을 구매 한다고 가정해 보겠습니다. 그런 다음 고객을 대신 하 여 해당 구독에 다른 리소스 또는 서비스를 추가 하기로 결정 합니다. 이 경우 고객의 구독 (예: 예약 된 가상 머신 인스턴스 추가)에 Azure 예약을 추가할 수 있습니다. 그런 다음 고객이 Azure Portal에서 Azure 예약 리소스를 추가로 프로 비전 하도록 허용할 수 있습니다.
+예제는 다음과 같습니다. 파트너 센터에서 고객에 대 한 Azure 계획 구독을 구매 한다고 가정해 보겠습니다. 그런 다음 고객을 대신 하 여 해당 구독에 다른 리소스 또는 서비스를 추가 하기로 결정 합니다. 이 경우 고객의 구독 (예: 예약 된 가상 머신 인스턴스 추가)에 Azure 예약을 추가할 수 있습니다. 그런 다음 고객이 Azure Portal에서 Azure 예약 리소스를 추가로 프로 비전 하도록 허용할 수 있습니다.
 
 이제 **고객 권한** 기능을 사용 하 여 고객에 게 Azure 리소스를 통해 더 많은 셀프 서비스 옵션을 제공 합니다. 고객에 대 한 권한을 설정 하 여 고객은 자신의 리소스 (예: 자신의 Azure 예약 구입)를 구매할 수 있습니다.  
 
@@ -78,7 +73,7 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 
 2. 이 구독에 대 한 **소유자** 역할이 사용자에 게 할당 되었는지 확인 합니다.
 
-3. 고객 권한 (이 기능 **을**설정)을 사용 하 여 자신의 Azure 예약을 구매 합니다.
+3. 고객 권한 (이 기능 **을** 설정)을 사용 하 여 자신의 Azure 예약을 구매 합니다.
 
 각 단계가 아래에 나타납니다.
 
@@ -86,7 +81,7 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 
 고객에 게 자신의 Azure 예약을 구매할 수 있는 권한을 부여 하기 전에 고객이 기존 Azure 요금제 또는 Azure Global 구독을 보유 하 고 있는지 확인 해야 합니다. 고객이 파트너 센터에 현재 Azure 구독을 표시 하지 않는 경우 고객 권한을 설정 하기 전에 구독을 구입 해야 합니다.
 
-- 고객이 이미 Azure 구독을 보유 하 고 있는지 확인 하려면 파트너 센터 대시보드에 로그인 한 다음 **CSP** 와 **고객**을 차례로 선택 합니다. 목록에서 특정 고객을 선택 합니다. 그런 다음 **구독** 을 선택 하 고 azure 요금제 또는 azure Global에 대 한 사용 빈도 기반 구독을 찾습니다.
+- 고객이 이미 Azure 구독을 보유 하 고 있는지 확인 하려면 파트너 센터 대시보드에 로그인 한 다음 **CSP** 와 **고객** 을 차례로 선택 합니다. 목록에서 특정 고객을 선택 합니다. 그런 다음 **구독** 을 선택 하 고 azure 요금제 또는 azure Global에 대 한 사용 빈도 기반 구독을 찾습니다.
 
 - 고객이 기존 Azure 구독을 보유 하 고 있지 않은 경우 해당 구독을 구매할 수 있습니다. [Azure 계획 구매를](purchase-azure-plan.md)참조 하세요.
 
@@ -119,7 +114,7 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. 왼쪽 탐색 메뉴에서 **CSP**, **고객**을 차례로 선택 합니다. 고객 목록이 표시 됩니다.
+2. 왼쪽 탐색 메뉴에서 **CSP**, **고객** 을 차례로 선택 합니다. 고객 목록이 표시 됩니다.
 
 3. 특정 고객 이름을 선택 합니다.
 
@@ -129,7 +124,7 @@ Azure 예약은 할인된 요금으로 Azure 서비스를 구입할 수 있는 �
 
    :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="계정 페이지에 대 한 고객 권한입니다." border="true":::
 
-6. **Azure 예약**에서 **고객이 구매할 수 있음** 옵션을 찾습니다.
+6. **Azure 예약** 에서 **고객이 구매할 수 있음** 옵션을 찾습니다.
 
 7. 고객 권한을 설정 하려면이 옵션 옆의 스위치를 **on** 위치로 이동 합니다. 고객 권한을 해제 하려면 스위치를 **off** 위치로 이동 합니다.
 

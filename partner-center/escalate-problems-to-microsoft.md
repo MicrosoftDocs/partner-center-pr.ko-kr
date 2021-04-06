@@ -9,24 +9,23 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545854"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441849"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft로 문제를 에스컬레이션 하 고 Microsoft 에스컬레이션에 보다 적합 한 문제에 대해 알아봅니다.  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Microsoft로 문제를 에스컬레이션하고 Microsoft 에스컬레이션에 더 적합한 문제 알아보기  
 
 **적용 대상**
 
-- 파트너 센터
 - Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 관리자
+- 글로벌 관리자
 - 영업 상담원
 - 기술 지원팀 상담원
 
@@ -48,11 +47,11 @@ ms.locfileid: "87545854"
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. 파트너 센터 메뉴에서 **고객**을 선택한 다음 지원이 필요한 고객을 선택 합니다.
+2. 파트너 센터 메뉴에서 **고객** 을 선택한 다음 지원이 필요한 고객을 선택 합니다.
 
-3. **서비스 관리** 를 선택 하 고 **서비스 요청**을 선택 합니다.
+3. **서비스 관리** 를 선택 하 고 **서비스 요청** 을 선택 합니다.
 
-4. **새 요청** 을 선택한 다음 **Microsoft Office 365**을 선택 합니다.
+4. **새 요청** 을 선택한 다음 **Microsoft Office 365** 을 선택 합니다.
 
 5. 파트너 센터 자격 증명을 사용 하 여 로그인 해야 하는 Office 365 포털로 이동 합니다.
 

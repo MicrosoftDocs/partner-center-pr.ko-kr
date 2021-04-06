@@ -9,18 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132267"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441798"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>둘 이상의 파트너와 함께 작업 하려는 고객에 대 한 다중 파트너 지원
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 

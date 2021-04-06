@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549059"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441951"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 

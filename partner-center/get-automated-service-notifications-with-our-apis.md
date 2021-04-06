@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000457"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441441"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Azure Insights & Office 365 서비스 통신에 대 한 자동화 된 서비스 알림에 Api 사용
-
-**적용 대상**
-
--  파트너 센터
 
 **적절한 역할**
 
 - 관리 에이전트
-- 전역 
+- 글로벌 관리자
 - 영업 상담원
 - 기술 지원팀 상담원
 
@@ -33,11 +29,9 @@ Office 365 및 Microsoft Azure는 파트너가 실시간 서비스 상태, 메�
 
 개발자는 이러한 Api를 사용할 수 있습니다.
 
-[Office 365 서비스 통신 API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Office 365 서비스 통신 API](/office/office-365-management-api/office-365-service-communications-api-reference)
+- Azure Insights REST [API 참조](/rest/api/monitor/)
 
+ 
 
-Azure Insights REST [API 참조](/rest/api/monitor/)
-
- 
-
- 
+ 

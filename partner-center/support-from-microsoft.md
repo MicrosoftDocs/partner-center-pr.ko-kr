@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b4952dea16202f3a3b74a295a0c636152cb4cd
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 6f10d1266d9de0cb166580f070f3d05e8f61092b
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028223"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441608"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft에서 지원-문제를 에스컬레이션 하는 경우, 보고 하는 방법 또는 서비스 상태를 확인 하는 방법
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 발생 하는 경우 Microsoft로 에스컬레이션 하 여 도움을 내릴 수 있으며 해결 될 때까지 문제를 추적할 수 있습니다.
 

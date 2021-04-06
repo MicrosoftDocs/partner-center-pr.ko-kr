@@ -9,18 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132352"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441866"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 미결제, 사기 또는 오용 관리
 
 적용 대상:
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 

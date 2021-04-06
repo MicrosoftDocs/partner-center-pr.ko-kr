@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999337"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442002"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>MPN 프로그램에 대 한 유일한 관리자가 회사를 떠난 경우 어떻게 해야 하나요?
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
+- MPN 파트너 관리자
+- 계정 관리자
+- 글로벌 관리자
 
 다음 문서에서는 MPN 관리자가 회사를 떠난 경우 수행할 작업에 대 한 세 가지 일반적인 시나리오를 안내 합니다.
 
@@ -55,7 +57,7 @@ ms.locfileid: "90999337"
 회사에 회사 계정이 있는지 확실 하지 않은 경우 다음 단계를 수행 하 여 확인 합니다.
 
 1. [Azure 관리 포털](https://ms.portal.azure.com)에 로그인 합니다.
-2. 왼쪽 메뉴에서 **Azure Active Directory** 를 선택한 다음 **도메인 이름**을 선택 합니다.
+2. 왼쪽 메뉴에서 **Azure Active Directory** 를 선택한 다음 **도메인 이름** 을 선택 합니다.
 이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
 
 >[!Note]

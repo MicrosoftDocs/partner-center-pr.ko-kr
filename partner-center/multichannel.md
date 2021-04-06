@@ -9,18 +9,18 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132726"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441985"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>다중 채널 지원-다른 파트너를 사용 하 여 다른 곳에서 구매한 고객 구독을 지원 합니다.
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 

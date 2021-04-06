@@ -9,18 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: f1fb7fdcc4ec56f0d5cf0eb26b62294235a5b908
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549229"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441602"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>파트너 센터 조정 파일의 다양 한 요금 유형 이해
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 
@@ -64,7 +64,7 @@ ms.locfileid: "105549229"
 
 | 요금 설명 (조정 파일의 Chargetcharcolumn) | 요금 청구 설명 |
 | ------------------------------------------------------------- | ------------------ |
-| 단추를 사용하여 새 | 새 구매가 생성 될 때 사용 됩니다. |
+| 새로 생성 | 새 구매가 생성 될 때 사용 됩니다. |
 | addQuantity | 원래 구매 환불 및 증가 후의 새로운 수량 모두에 사용 됩니다. |
 | removeQuantity | 원래 구매 환불 및 감소 후의 새 수량 모두에 사용 됩니다. |
 | 취소 | 구독이 취소 될 때 사용 됩니다. |

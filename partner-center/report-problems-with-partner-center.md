@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549178"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441645"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>파트너 센터 포털 요청 및 진단 도구
 
 **적용 대상**
 
-- Microsoft 정부 클라우드의 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
 
 **적절한 역할**
 

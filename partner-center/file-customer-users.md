@@ -9,22 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87528187"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441424"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>.Csv 파일을 만들어 여러 사용자를 고객 계정에 추가
 
-**적용 대상**
-
-- 파트너 센터
-
 **적절한 역할**
 
-- 전역 관리자
+- 글로벌 관리자
 
 쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가 합니다. 파트너 센터에서 샘플 데이터 파일을 다운로드 한 다음 사용자가 사용할 수 있도록 편집 하거나 아래에 정의 된 데이터 모델을 사용 하 여 새 데이터 파일을 만들 수 있습니다.
 
@@ -35,7 +31,7 @@ ms.locfileid: "87528187"
 - 고객 계정에 대 한 전역 관리자 권한이 있어야 합니다.
 - 각 사용자에 게는 고객의 메일 도메인에 추가 된 고유한 전자 메일 주소가 있어야 합니다.
 - 한 번에 최대 100 개의 레코드를 업로드할 수 있습니다. 100 명 이상의 사용자를 추가 해야 하는 경우 추가 데이터 파일을 만들고 업로드 합니다.
-- 모든 사용자는 동일한 지리적 **위치**에 있어야 합니다.
+- 모든 사용자는 동일한 지리적 **위치** 에 있어야 합니다.
 - 아래에 설명 된 데이터만 입력 합니다. 불필요 한 데이터를 업로드 하면 업로드가 실패 합니다.
 
 데이터 파일에 다음 데이터를 입력 합니다.
@@ -50,4 +46,4 @@ ms.locfileid: "87528187"
 
 ## <a name="next-steps"></a>다음 단계
 
-- [고객에 대해 여러 사용자를 추가 하는 방법](adding-multiple-users-to-a-customer-account.md)
+- [고객에 대해 다수 사용자를 추가하는 방법](adding-multiple-users-to-a-customer-account.md)
