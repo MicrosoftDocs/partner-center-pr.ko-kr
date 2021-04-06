@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730063"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280856"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-|**범주**|**2021년 3월 공지**|**발표**|
+|**범주**|**2021년 4월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2021-april.md#2)|4월 2일|
+|기능|[이번 달 제품 출시 및 제품 보기](2021-april.md#1)|4월 1일|
+|**범주**|**2021년 3월 공지**|**발표**|
+|기능|[이제 업데이트된 CSP 고객 주소 유효성 검사 API를 테스트에 사용 가능](2021-march.md#18)|3월 31일|
 |제품/최신 작업 공간|[새 EAC(Exchange 관리 센터) 환경](2021-march.md#17)|3월 29일|
 |제품/최신 작업 공간|[Microsoft Operations: 제품 출시 일정 소개](2021-march.md#16)|3월 25일|
 |기능|[CSP 고객 등록 요구 사항에 대한 변경 내용](2021-march.md#15)|3월 25일|
