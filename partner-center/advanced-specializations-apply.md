@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658419"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557786"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>파트너 센터를 사용 하 여 고급 특수화에 적용 하 고 해당 상태를 확인 합니다.
 
 **적절한 역할**
 
 - 글로벌 관리자
-- MPN 계정 관리자
+- 계정 관리자
 
 이 문서에서는 파트너 센터 대시보드를 사용 하 여 [고급 특수화](advanced-specializations.md)에 적용 하 고, 진행 상황을 확인 하 고, 필요한 단계 및 유효성 검사를 완료 하는 방법을 설명 합니다. 또한 파트너 센터를 사용 하 여 감사 또는 고객 참조가 필요한 특정 고급 특수화를 사용 하는 예를 확인할 수 있습니다.
 

@@ -9,18 +9,18 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514682"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557701"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
 **적절한 역할**
 
-- MPN 관리자
+- MPN 파트너 관리자
 
 이 문서에서는 MPN (Microsoft 파트너 네트워크) 혜택에 대 한 일반적인 질문을 다룹니다.
 

@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658402"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557769"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>유효성이 검사 된 기능을 보여 주기 위해 고급 특수화 획득
 
 **적절한 역할**
 
 - 글로벌 관리자
-- MPN 계정 관리자
+- 계정 관리자
 
-Microsoft 고급 특수화는 파트너 들이 달성할 수 있는 관련 [골드](learn-about-competencies.md) 역량을 기반으로 합니다. 관련 된 고급 특수화와 함께 골드 역량을 획득 하 여 파트너가 고객에 게 해당 기능을 더 쉽게 구분할 수 있도록 합니다.
+Microsoft 고급 특수화는 파트너가 얻을 수 있는 관련 [골드](learn-about-competencies.md) 역량을 기반으로 합니다. 관련 된 고급 특수화와 함께 골드 역량을 획득 하 여 파트너가 고객에 게 해당 기능을 더 쉽게 구분할 수 있도록 합니다.
 
 고급 특수화를 얻기 위해 파트너는 고객 참조를 받고, 타사 감사를 받고, 관련 기술 집합의 attainment을 입증 하 고, 다른 특정 한 성능 측정을 충족 하는 등의 까다로운 요구 사항을 충족 해야 하는 경우가 많습니다.
 

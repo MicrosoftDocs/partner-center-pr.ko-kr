@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474141"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557752"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>관리자: 구매 제안 만들기
 
  
 **적절한 역할**
 
-- 관리자
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ ms.locfileid: "96474141"
     - **라이선스 수**: 구독을 선택 하는 경우 구매 제안에 포함할 라이선스의 수를 입력 합니다.
     - **위임 된 관리**:이 옵션은 위임 된 관리를 제공 하도록 인증 된 파트너 에게만 사용할 수 있습니다. 클라이언트에서 위임 된 관리를 제공 하려면이 옵션을 선택 합니다. 이렇게 하면 클라이언트는 위임 된 관리를 수락 하거나 수락 하지 않고 구매 제안을 수락할 수 있습니다.
 
-3. **다음** 을 클릭합니다.
+3. **다음** 을 선택합니다.
 
 4. **보내기** 페이지에서 구매 제안 정보 및 URL을 복사한 다음 전자 메일, 문서 또는 웹 페이지에 붙여넣어 사용자 지정 된 구매 제안을 만듭니다.
 
