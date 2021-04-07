@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280856"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374419"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "106280856"
 
 |**범주**|**2021년 4월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[CSP의 새 상거래 PDF 청구서에 대한 새 형식](2021-april.md#3)|4월 5일|
 |기능|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2021-april.md#2)|4월 2일|
 |기능|[이번 달 제품 출시 및 제품 보기](2021-april.md#1)|4월 1일|
 |**범주**|**2021년 3월 공지**|**발표**|

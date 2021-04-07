@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912542"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178870"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft 역량을 획득하여 비즈니스 차별화
 
 **적절한 역할**
-- 전역 관리자
-- 사용자 관리자
+
+- 글로벌 관리자
+- 사용자 관리 담당자
 
 하나 이상의 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 
