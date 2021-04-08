@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570161"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964394"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>비즈니스 프로필을 만들어 Microsoft 판매 잠재 고객을 확보하고 고객이 귀하를 찾을 수 있도록 하세요.
 
@@ -84,16 +84,7 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 검색에 사용되는 기타 태그:
 
--  **역량 태그** 는 파트너가 획득한 명칭으로써 회사의 능력을 보여줍니다.
--  **보증 태그** 는 Microsoft 또는 파트너와 함께 일한 고객이 파트너의 실력을 보증할 때 획득할 수 있습니다.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Microsoft가 내 전문 분야를 보증하도록 허용
-
-이 설정을 선택하는 것이 좋습니다. 
-
-파트너가 파트너 센터를 통해 또는 다른 Microsoft 인증 또는 프로그램에 참여하여 고객과 성공한 사례를 소개할 때 파트너가 성공에 기여한 특정 제품, 서비스 및 산업에 대한 보증이 자동으로 추가됩니다. 보증은 검색 결과에서 중요한 요소입니다.
-
-그러나 서비스를 제공하고 있지만 프로필에 표시하고 싶지 않은 제품이 있는 경우 이 확인란의 선택을 취소하고 프로필을 수동으로 관리할 수 있습니다. 이러한 보증은 고객 보기에서 표시되지 않지만 나중에 언제든지 프로필에 다시 추가할 수 있습니다.
+- **역량 태그** 는 파트너가 획득한 명칭으로써 회사의 능력을 보여줍니다.
 
 ### <a name="customer-preferences"></a>고객 기본 설정
 
@@ -121,13 +112,12 @@ LinkedIn 회사 페이지를 추가하여 잠재 고객에 대한 연결을 강�
 
 프로필을 게시한 후 24시간 내에 [파트너 찾기](https://www.microsoft.com/solution-providers/home) 검색에 업데이트가 나타납니다.
 
-## <a name="improve-the-visibility-of-your-profile"></a>프로필의 가시성 향상 
+## <a name="improve-the-visibility-of-your-profile"></a>프로필의 가시성 향상
 
 - **[요청에 신속하게 응답하세요](manage-leads.md)** . 고객 추천을 받은 후 신속하게 응답할수록 향후 고객의 검색 페이지에서 보다 좋은 결과를 얻을 수 있습니다.
 
 - **태그를 신중하게 선택하세요**.  회사의 제품, 솔루션, 가치 제안 및 일관적으로 성공을 보여줄 수 있는 고유의 포지션을 가장 잘 나타내는 태그를 되도록이면 적게 사용하는 것이 좋습니다.  이렇게 하면 향후 검색 결과에서 좋은 성과를 얻을 수 있습니다.
 - Microsoft를 통해 **역량 태그를 획득하여** Microsoft 제품에 대한 숙련도를 보여줍니다.
-- 협력에 만족한 고객으로부터 **보증 태그를 획득합니다**.
 
 ## <a name="next-steps"></a>다음 단계
 

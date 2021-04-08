@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215818"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964360"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215818"
 
 
 **청구서** 는 **모든 파트너 센터 요금** (프로그램, 모든 제품 및 모든 고객)에 대 한 요약입니다. 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>청구서 및 조정 파일 찾기 
+
+파트너 센터에서 대시보드의 청구 페이지에서 송장을 찾을 수 있습니다. 또한이 페이지에서 청구 내역, 지출 추세 및 조정 파일을 찾을 수 있습니다. 
+
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다. 
+
+2. 왼쪽 메뉴에서 **청구** 를 선택 합니다. 
+
+3. 청구 상태 페이지에서 청구서 또는 조정 파일을 선택하여 자세한 정보를 확인합니다. 
+
+마지막 청구서 날짜의 계정 잔액에서 페이지 맨 위에 있는 최신 청구서에 대 한 링크를 찾을 수 있습니다. 
+
+청구 내역 섹션에서 이전 송장을 찾을 수 있습니다. 적절 한 연도를 선택 하 고 적절 한 청구 기간 옆에 있는 드롭다운 화살표를 선택 합니다. 청구서 (.pdf) 옆의 링크를 선택 하 여 해당 기간의 송장을 다운로드 합니다. 
 
 ## <a name="invoice-types"></a>송장 유형
 
@@ -52,19 +66,6 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 - 파트너는 EUR (또는 파트너 청구 통화)의 145p 제품에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다. 
 
-## <a name="find-your-bill"></a>청구서 찾기 
-
-파트너 센터에서 대시보드의 청구 페이지에서 송장을 찾을 수 있습니다. 또한이 페이지에서 청구 내역, 지출 추세 및 조정 파일을 찾을 수 있습니다. 
-
-1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다. 
-
-2. 왼쪽 메뉴에서 **청구** 를 선택 합니다. 
-
-3. 청구 페이지에서 다운로드 하려는 송장을 선택 합니다. 
-
-마지막 청구서 날짜의 계정 잔액에서 페이지 맨 위에 있는 최신 청구서에 대 한 링크를 찾을 수 있습니다. 
-
-청구 내역 섹션에서 이전 송장을 찾을 수 있습니다. 적절 한 연도를 선택 하 고 적절 한 청구 기간 옆에 있는 드롭다운 화살표를 선택 합니다. 청구서 (.pdf) 옆의 링크를 선택 하 여 해당 기간의 송장을 다운로드 합니다. 
 
 ## <a name="understanding-invoice-pdf"></a>송장 PDF 이해 
 
