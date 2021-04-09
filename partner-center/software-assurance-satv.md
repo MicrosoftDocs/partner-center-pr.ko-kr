@@ -1,28 +1,37 @@
 ---
-title: 소프트웨어 보증 교육 증명서 프로그램
+title: 소프트웨어 보증 교육 증명서 프로그램 사용 중지
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 기업 고객에 게 교육 및 계획을 제공 하기 위해 보정할 수 있도록 소프트웨어 보증 교육 증명서 프로그램에 등록 하는 방법에 대해 알아봅니다.
+description: 소프트웨어 보증 교육 증명서 프로그램을 사용 중지 하 고 있습니다.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926614"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024979"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>파트너 센터의 SATV(Software Assurance Training Voucher) 프로그램
+# <a name="training-vouchers-program-retirement"></a>교육 바우처 프로그램 사용 중지
 
-Software Assurance 파트너 프로그램에 등록하여 비즈니스를 확장하세요. Microsoft는 Software Assurance를 보유한 기업 고객에게 교육, 계획 및 기타 서비스를 제공하는 파트너에게 보상을 제공합니다.
+교육 바우처 소프트웨어 보증 혜택에서 완전히 사용 중지 되지만 고객은 바우처 유효한 동안 강사 진행 교육에 대해 무료 수 일을 계속 사용할 수 있습니다. 프로그램 사용 중지까지 중요 한 날짜는 다음과 같습니다. 
 
-승인된 Software Assurance 교육 파트너인 Microsoft는 기업 고객으로부터 Software Assurance 상품권을 받고 기업 고객에게 기술 교육을 제공하는 파트너에게 보상을 제공합니다. 이 프로그램에 참여하면 더 많은 고객을 유치하고 신뢰할 수 있는 학습 파트너가 될 수 있습니다.
+- 2020 년 2 월 1 일: 교육 상품권 카탈로그에서 사용이 중지 된 Azure 교육입니다.
+- 2020 년 2 월 1 일: 교육 바우처는 더 이상 계획 서비스 일만로 변환할 수 없습니다.  
+- 2021 년 2 월 1 일: 고객은 더 이상 교육 혜택을 얻을 필요가 없습니다. 
+- 2021 년 6 월 30 일: 고객이 교육 바우처를 만들거나 할당 하는 마지막 날입니다. 나머지 모든 교육 증명서는 2021 년 7 월 1 일에 제거 됩니다.
+- 2022 년 1 월 1 일: 파트너가 교육 바우처를 교환 하는 마지막 날입니다. 결제 요청 프로세스를 완료 하는 데는 지불 후 60 일이 지나면 파트너에 게 있습니다.  
 
-## <a name="get-started"></a>시작하기
+>[!NOTE]
+>무료 증명서 수명 주기는 변경 되지 않습니다. 무료 증명서를 만들거나 할당 한 후에는 무료 증명서 만료 전 180 일 이내에 증명서 예약, 교육 세션 및 증명서 상환 기간이 완료 되어야 합니다.  교육 상품권 사용 중지에 대 한 자세한 내용은 [여기](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 에서 찾을 수 있는 faq를 참조 하세요 (로그인 필요).  교육 혜택 제품 카탈로그에서 SATV 적격 교육 과정의 전체 목록을 참조 하세요.  지역별 파트너 지원 팀에 문의 하시기 바랍니다. [EMEA 파트너 지원](mailto:savoucher@msdirectservices.com); [일반 파트너 지원](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>2021 년 6 월 30 일까 지
+
+### <a name="get-started"></a>시작
 
 소프트웨어 보증 교육 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 하세요. 이미 학습 증명서 프로그램에서 활성화 된 경우 아래 4 단계 (4)에서 시작 합니다. 
 

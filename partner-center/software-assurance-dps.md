@@ -1,31 +1,43 @@
 ---
-title: 소프트웨어 보증 계획 서비스
+title: 소프트웨어 보증 계획 서비스 사용 중지
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 소프트웨어 보증을 통해 고객에 게 교육 및 기타 서비스를 제공할 수 있도록 Microsoft 계획 서비스 계약을 등록 하 고 검증 하는 방법에 대해 알아봅니다.
+description: Microsoft 계획 서비스를 사용 중지 하 고 있습니다.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028231"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024996"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>파트너 센터의 Software Assurance 계획 서비스
+# <a name="software-assurance-planning-services-retirement"></a>소프트웨어 보증 계획 서비스 사용 중지
 
 **적절한 역할**
 
 - 글로벌 관리자
 - MPN 파트너 관리자
 
-Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위한 배포 전 계획을 제공 하는 것을 보상 합니다. 이 프로그램에 참여 하면 더 많은 고객을 확보 하 고, 신뢰할 수 있는 계획 파트너가 되며, 추가 고객의 도움을 받을 수 있습니다.
 
-## <a name="get-started"></a>시작
+계획 서비스는 소프트웨어 보증 혜택에서 완전히 사용 중지 되지만 고객은 파트너와 협력 하 여 바우처가 유효한 동안 계약에 대 한 계획 서비스 일을 계속 사용할 수 있습니다. 프로그램 사용 중지까지 중요 한 날짜는 다음과 같습니다. 
+
+- 2020 년 2 월 1 일: 계획 서비스 클라우드 계약이 사용 중지 되었습니다.  
+- 2020 년 2 월 1 일: 교육 바우처는 더 이상 계획 서비스 일만로 변환할 수 없습니다.  
+- 2021 년 2 월 1 일: 고객이 더 이상 계획 서비스 혜택을 계산 하지 않습니다. 
+- 2021 년 6 월 30 일: 고객이 계획 서비스 바우처을 만들고 할당 하는 마지막 날입니다. 나머지 모든 계획 서비스는 2021 년 7 월 1 일에 제거 됩니다.
+- 2022 년 1 월 1 일: 파트너가 계획 서비스 바우처를 교환 하는 마지막 날짜입니다. 결제 요청 프로세스를 완료 하는 데는 지불 후 60 일이 지나면 파트너에 게 있습니다.  
+
+>[!NOTE]
+>무료 증명서 수명 주기는 변경 되지 않습니다. 무료 증명서를 만들거나 할당 한 후에는 무료 증명서 만료 전 180 일 이내에 무료, 고객 참여 및 증명서 상환 기간이 완료 되어야 합니다.  서비스 프로그램 사용 중지에 대 한 자세한 내용은 [여기](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 에서 찾을 수 있는 faq를 참조 하세요 (로그인 필요).  지역별 파트너 지원 팀에 문의 하시기 바랍니다. [EMEA 파트너 지원](mailto:savoucher@msdirectservices.com); [일반 파트너 지원](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>2021 년 6 월 30 일까 지
+
+### <a name="get-started"></a>시작
 
 소프트웨어 보증 계획 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 합니다. 계획 서비스 프로그램에서 이미 활성화 되어 있는 경우 아래 4 단계 (4)에서 각각의 새 참여를 시작 합니다.
 
@@ -62,8 +74,6 @@ Microsoft는 승인 된 계획 서비스 파트너로 서 기업 고객을 위�
 
 먼저 모든 [계획 서비스 프로그램 정책](https://go.microsoft.com/fwlink/?linkid=2115984)을 검토 해야 합니다. 그런 다음 워크플로 [2 단계의](https://go.microsoft.com/fwlink/?linkid=2115983) 지침에 따라 파트너 센터에서 계획 서비스 등록 프로세스를 완료 합니다.
 
->[!NOTE]
-> 매년 계획 서비스 프로그램에서 요구 사항을 갱신 하 고 다시 등록 해야 합니다.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>회사의 비즈니스 프로필 만들기 또는 업데이트 (새 파트너)
 
