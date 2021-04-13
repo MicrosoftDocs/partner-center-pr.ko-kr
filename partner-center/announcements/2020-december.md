@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712548"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280924"
 ---
 # <a name="december-2020-announcements"></a>2020년 12월 공지
 
@@ -189,15 +189,14 @@ ____________
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경
-
 ### <a name="categories"></a>범주
 
-- 날짜: 2020년 12월 17일
+- 날짜: 2021-04-02
 - 제품/시장
- 
+
 ### <a name="summary"></a>요약
 
-파트너와 고객이 신뢰를 기반으로 하여 비즈니스를 운영할 수 있도록 지원하기 위한 노력의 일환으로 Microsoft는 2021년 3월 말에 추가 고객 정보를 요청합니다.
+파트너와 고객이 신뢰를 바탕으로 비즈니스를 운영할 수 있도록 지원하기 위한 노력의 일환으로 Microsoft는 2021년 3월 25일부터 추가 고객 정보를 요청합니다.
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -205,11 +204,12 @@ ______________
 
 ### <a name="details"></a>세부 정보
 
-Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 말에 다음 조건을 모두 충족하는 파트너에게 영향을 주는 파트너 센터 API 및 UI(사용자 인터페이스)의 향상된 기능이 도입됩니다.
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 25일에 다음 조건을 모두 충족하는 파트너에게 영향을 주는 파트너 센터 API 및 UI(사용자 인터페이스)의 향상된 기능이 도입됩니다.
 
 1. 파트너는 Microsoft와 직접 청구 관계를 맺고 있습니다(즉, 파트너가 직접 청구 파트너 또는 간접 공급자임).
 
 2. 파트너가 다음 국가의 신규 또는 기존 고객과 함께 비즈니스를 수행합니다.
+
     - 태국
     - 베트남
     - 터키
@@ -224,7 +224,9 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
     - 아랍에미리트연합국
     - 베네수엘라
 
-조건을 충족하는 파트너는 나중에 고객에 대한 구독을 업데이트하거나 만들 때 해당 고객의 **법인 식별자**(고객의 **조직 INN** 이라고도 함) 및 **전화 번호** 를 제출해야 합니다. 이러한 파트너는 고객에 대한 선택적 **중간 이름** 을 입력할 수도 있습니다.
+조건을 충족하는 파트너는 나중에 고객에 대한 구독을 업데이트하거나 만들 때 해당 고객의 회사 등록 ID(고객의 조직 INN이라고도 함) 및 전화 번호를 제출해야 합니다. 이러한 파트너는 고객에 대한 선택적 중간 이름을 입력할 수도 있습니다.
+
+회사 등록 ID를 추가할 때 고객 개인 ID가 아닌 회사 납세자 식별 번호를 사용해야 합니다.
 
 다음 국가에서 신규 또는 기존 고객과 거래하는 파트너는 이미 2020년 11월의 이전 릴리스에 등록되었습니다.
 
@@ -240,7 +242,7 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 - 우크라이나
 - 우즈베키스탄
 
-전 세계의 나머지 지역에 있는 고객을 대상으로 하는 파트너는 2021년 3월 말에 고객의 **법인 식별자**, **전화 번호** 및 **중간 이름** 을 선택적 세부 정보로 입력할 수 있습니다.
+전 세계의 나머지 지역에 있는 고객을 대상으로 하는 파트너는 2021년 3월 말일에 고객의 회사 등록 ID, 전화 번호 및 중간 이름을 선택적 세부 정보로 입력할 수 있습니다.
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -251,9 +253,19 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 
 ### <a name="questions"></a>질문이 있으신가요?
 
-법인 식별자(INN 또는 TIN이라고도 함)와 관련된 질문이 있는 경우 세무 고문 또는 지역 세무서에 문의하세요. Microsoft는 세금 문제에 대한 지침을 제공할 수 없습니다. 
+회사 등록 ID(INN 또는 TIN이라고도 함)와 관련된 질문이 있는 경우 세무 고문 또는 지역 세무서에 문의하세요. Microsoft는 세금 문제에 대한 지침을 제공할 수 없습니다.
 
-Microsoft와의 작업에 대한 지원이 필요한 경우 [서비스 요청을 여세요](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Microsoft와의 작업에 대한 지원이 필요한 경우 [서비스 요청](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)을 여세요.
+
+### <a name="change-log"></a>로그 변경:
+
+2020년 12월 17일: 최초 게시 날짜
+
+4월 2일 업데이트:
+
+- 제공된 출시 날짜
+- 조직 INN의 제목이 회사 등록 ID로 업데이트됨
+- 회사 등록 ID를 명확하게 설명하기 위해 메모가 추가됨
 
 ______________
 

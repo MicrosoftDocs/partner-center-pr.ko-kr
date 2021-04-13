@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534882"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502500"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
-
-**적용 대상**
-
-- 파트너 센터
 
 **적절한 역할**
 

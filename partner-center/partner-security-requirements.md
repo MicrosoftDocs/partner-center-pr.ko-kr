@@ -9,30 +9,24 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 351d0715645b6e43607279393cdc376d898a7f54
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132981"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087062"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>파트너 센터 또는 파트너 센터 API 사용 시 보안 요구 사항
 
-**적용 대상**
+**적절한 역할**
 
-- 클라우드 솔루션 공급자 프로그램의 모든 파트너
-- 모든 제어판 공급업체
-- 모든 관리자
-
-**적절한 사용자**
-
-- 사용하도록 설정된 모든 사용자(게스트 사용자 포함)
+- 모든 파트너 센터 사용자
 
 이 문서에서는 관리자, 제어판 공급업체 및 클라우드 솔루션 공급자 프로그램에 참여하는 파트너에 대한 필수 보안 요구 사항과 인증 옵션 및 기타 보안 고려 사항에 대해 설명합니다. 개인 정보 보호 및 보안은 최우선 순위입니다. 최선의 방어는 예방이며, 가장 약한 링크를 강화해야 한다는 것을 알고 있습니다. 따라서 에코시스템의 모든 사람이 조치를 취하고, 적절한 보안 보호가 마련되어야 합니다.
 
 ## <a name="mandatory-security-requirements"></a>필수 보안 요구 사항
 
-필수 보안 요구 사항을 구현하지 않는 파트너는 클라우드 솔루션 공급자 프로그램에서 거래하거나 위임된 관리자 권한을 이용하여 고객 테넌트를 관리할 수 없게 됩니다. 또한 보안 요구 사항을 구현하지 않는 파트너는 프로그램 참여가 어려울 수 있습니다. 파트너 보안 요구 사항과 관련된 사용 약관은 Microsoft 파트너 계약에 추가되었습니다. 관리자와 관련이 있으므로 동일한 계약 요구 사항이 적용됩니다.
+필수 보안 요구 사항을 구현하지 않는 파트너는 클라우드 솔루션 공급자 프로그램에서 거래하거나 위임된 관리자 권한을 사용하여 고객 테넌트를 관리할 수 없게 됩니다. 또한 보안 요구 사항을 구현하지 않는 파트너는 프로그램 참여가 어려울 수 있습니다. 파트너 보안 요구 사항과 관련된 사용 약관은 Microsoft 파트너 계약에 추가되었습니다. 관리자와 관련이 있으므로 동일한 계약 요구 사항이 적용됩니다.
 
 사용자와 사용자의 고객을 보호하기 위해 파트너에게 즉시 다음과 같은 조치를 취하도록 하고 있습니다.  
 
@@ -51,7 +45,7 @@ ms.locfileid: "93132981"
 
 - [Azure AD(Azure Active Directory) 보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 구현합니다. [다음 섹션](#security-defaults)에서 자세히 살펴봅니다.
 
-- 각 사용자 계정에 대해 Azure Active Directory Premium을 구매합니다. 자세한 내용은 [Azure Multi-Factor Authentication 배포 계획](/azure/active-directory/authentication/howto-mfa-getstarted)을 참조하세요.
+- 각 사용자 계정에 대해 Azure Active Directory Premium을 구매합니다. 자세한 내용은 [Azure AD Multi-Factor Authentication 배포 계획](/azure/active-directory/authentication/howto-mfa-getstarted)을 참조하세요.
 
 - 타사 솔루션을 사용하여 파트너 테넌트의 각 사용자 계정에 MFA를 적용합니다. 솔루션이 예상 정보를 제공하도록 보장하려면 [보안 요구 사항이 적용되는 방식](#how-the-requirements-are-enforced)을 참조하세요.
 
@@ -74,14 +68,14 @@ ms.locfileid: "93132981"
 
 - Azure AD Connect 동기화 계정은 보안 기본값에서 제외됩니다.
 
-자세한 내용은 [조직에 대한 Azure Multi-Factor Authentication 개요](/azure/active-directory/authentication/concept-mfa-get-started) 및 [보안 기본값이란?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 참조하세요.
+자세한 내용은 [조직에 대한 AD Azure Multi-Factor Authentication 개요](/azure/active-directory/authentication/concept-mfa-get-started) 및 [보안 기본값이란?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 참조하세요.
 
 > [!NOTE]
 > Azure AD 보안 기본값은 기본 보호 정책의 진화를 단순화한 것입니다. 기본 보호 정책을 이미 사용한 경우 [보안 기본값](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)을 사용하는 것이 좋습니다.
 
 ## <a name="implementation-considerations"></a>구현 고려 사항
 
-이러한 요구 사항은 파트너 테넌트의 모든 사용자 계정에 적용되므로 원활한 배포를 위한 몇 가지 사항을 고려해야 합니다. 예를 들어, MFA를 수행할 수 없는 Azure AD의 사용자 계정뿐만 아니라 최신 인증을 지원하지 않는 조직의 애플리케이션 및 디바이스를 확인합니다.
+이러한 요구 사항은 파트너 테넌트의 모든 사용자 계정에 적용되므로 원활한 배포를 위한 몇 가지 사항을 고려해야 합니다. 예를 들어 MFA를 수행할 수 없는 Azure AD의 사용자 계정과 최신 인증을 지원하지 않는 조직의 애플리케이션 및 디바이스를 확인합니다.
 
 작업을 수행하기 전에 다음과 같은 유효성 검사를 완료하는 것이 좋습니다. 
 
@@ -107,19 +101,19 @@ Microsoft Office 2013이 설치된 Windows를 실행하는 모든 디바이스�
 
 #### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>인증에 사용자 자격 증명을 활용하는 자동화 또는 통합이 있나요?
 
-파트너 디렉터리에서 서비스 계정을 비롯한 각 사용자에 대해 MFA를 적용하기 때문에, 인증을 위해 사용자 자격 증명을 활용하는 모든 자동화 또는 통합에 영향을 미칩니다. 따라서 이러한 상황에서 어떤 계정이 사용되는지 식별하는 것이 중요합니다. 고려할 다음 샘플 애플리케이션 또는 서비스 목록을 참조하세요.
+파트너 디렉터리에서 서비스 계정을 비롯한 각 사용자에 대해 MFA를 적용하기 때문에, 인증을 위해 사용자 자격 증명을 사용하는 모든 자동화 또는 통합에 영향을 미칩니다. 따라서 이러한 상황에서 어떤 계정이 사용되는지 식별하는 것이 중요합니다. 고려할 다음 샘플 애플리케이션 또는 서비스 목록을 참조하세요.
 
 - 고객을 대신하여 리소스를 프로비저닝하는 데 사용되는 제어판
 
 - 청구 및 고객 지원에 사용되는 모든 플랫폼(CSP 프로그램 관련)과의 통합
 
-- Az, AzureRM, Azure AD, MS Online 등의 모듈을 활용하는 PowerShell 스크립트
+- Az, AzureRM, Azure AD, MS Online 등의 모듈을 사용하는 PowerShell 스크립트
 
-위의 목록은 포괄적이지 않습니다. 따라서 사용 중인 환경에서 인증에 사용자 자격 증명을 활용하는 애플리케이션 또는 서비스에 대한 완전한 평가를 수행하는 것이 중요합니다. MFA에 대한 요구 사항에 대처하려면 [보안 애플리케이션 모델 프레임워크](/partner-center/develop/enable-secure-app-model)의 지침을 구현해야 합니다(가능한 경우).
+위의 목록은 포괄적이지 않습니다. 따라서 사용 중인 환경에서 인증에 사용자 자격 증명을 사용하는 애플리케이션 또는 서비스에 대한 완전한 평가를 수행하는 것이 중요합니다. MFA에 대한 요구 사항에 대처하려면 [보안 애플리케이션 모델 프레임워크](/partner-center/develop/enable-secure-app-model)의 지침을 구현해야 합니다(가능한 경우).
 
 ## <a name="accessing-your-environment"></a>환경 액세스
 
-MFA를 거치지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 활용할 수 있습니다. 이 주제에 대한 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 로그인 활동을 가져오는 방법을 찾고 있다면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 활용해야 합니다.
+MFA를 거치지 않고 인증하는 대상과 주체를 더 잘 이해하려면 로그인 활동을 검토하는 것이 좋습니다. Azure Active Directory Premium을 통해 로그인 보고서를 사용할 수 있습니다. 이 주제에 대한 자세한 내용은 [Azure Active Directory 포털의 로그인 활동 보고서](/azure/active-directory/reports-monitoring/concept-sign-ins)를 참조하세요. Azure Active Directory Premium이 없거나 PowerShell을 통해 이 로그인 활동을 가져오는 방법을 찾고 있다면 [파트너 센터 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 모듈에서 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet을 사용해야 합니다.
 
 ## <a name="how-the-requirements-are-enforced"></a>요구 사항이 적용되는 방식
 
@@ -127,7 +121,7 @@ MFA를 거치지 않고 인증하는 대상과 주체를 더 잘 이해하려면
 
 이 기능을 활성화하면, 파트너 테넌트의 사용자에게 AOBO(관리자 위임) 작업을 수행하거나, 파트너 센터 포털에 액세스하거나, 파트너 센터 API를 호출할 때 MFA 확인을 완료하라는 메시지가 표시됩니다. 자세한 내용은 [파트너 테넌트에 대한 MFA(Multi-Factor Authentication) 위임](partner-security-requirements-mandating-mfa.md)을 참조하세요. 
 
-요구 사항을 충족하지 못한 파트너는 비즈니스가 중단되지 않도록 가능한 한 빨리 이러한 조치를 구현해야 합니다. Azure Multi-Factor Authentication 또는 Azure AD 보안 기본값을 사용하는 경우 수행해야 하는 추가 작업이 없습니다.
+요구 사항을 충족하지 못한 파트너는 비즈니스가 중단되지 않도록 가능한 한 빨리 이러한 조치를 구현해야 합니다. Azure Active Directory Multi-Factor Authentication 또는 Azure AD 보안 기본값을 사용하는 경우 수행해야 하는 추가 작업이 없습니다.
 
 타사 MFA 솔루션을 사용하는 경우 MFA 클레임이 발급되지 않을 가능성이 있습니다. 이 클레임이 없는 경우 Azure AD는 MFA에서 인증 요청을 요구했는지 확인할 수 없습니다. 솔루션에서 예상 클레임을 발급하는지 확인하는 방법에 대한 자세한 내용은 [파트너 보안 요구 사항 테스트](/powershell/partnercenter/test-partner-security-requirements)를 참조하세요. 
 

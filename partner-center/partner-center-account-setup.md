@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712857"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132284"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
-**적절한 역할** – 전역 관리자
-- MPN 계정 관리자
+**적절한 역할** 
+
+- 글로벌 관리자
+- 계정 관리자
 
 등록 시 파트너 센터에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사 계정에는 파트너 센터를 사용하는 팀의 모든 사용자를 위한 사용자 계정이 포함됩니다. 이러한 사용자가 수행하는 작업에는 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성, 비즈니스 프로필 만들기, 추천 관리, 성과급 프로그램 작업, 지원 제공 등이 포함됩니다.
 
@@ -60,7 +62,7 @@ ms.locfileid: "104712857"
 
 계정 선택기가 표시되지 않으면 한 계정에만 속해 있는 것입니다. 
 
-이 선택기를 클릭하면 귀하가 속한 모든 계정이 목록으로 나타납니다. 그중 하나를 클릭하여 해당 계정으로 전환할 수 있습니다. 이후 표시되는 모든 항목은 해당 계정의 컨텍스트에 표시됩니다.  
+이 선택기를 선택하면 현재 속한 모든 계정이 목록으로 표시됩니다. 그 중 하나를 선택하여 해당 계정으로 전환할 수 있습니다. 이후 표시되는 모든 항목은 해당 계정의 컨텍스트에 표시됩니다.  
 
 아래 예제에서 로그인한 사용자는 세 개의 강조 표시된 계정에 속합니다. 사용자는 계정을 클릭하여 이들 사이를 전환할 수 있습니다.
 

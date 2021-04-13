@@ -12,8 +12,6 @@
     - name: 파트너 센터에서 MPN 계정 만들기
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: 회사 이메일 주소 가져오기
-      href: buy-email-domain.md
     - name: 계정 설정 문제 해결
       href: troubleshoot-account-sign-n.md
     - name: 파트너 센터로 이동
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: 내 암호 재설정
           href: reset-my-pasword.md
-        - name: 사용자가 로그인할 수 없음
+        - name: 로그인 문제 해결
           href: unable-to-sign-in.md
         - name: 사용자에게 MPN 관리자가 없음
           href: no-mpn-admin.md
@@ -390,8 +388,6 @@
     - name: 청구 기본 사항
       href: billing-basics.md
       displayName: invoice
-    - name: 파트너 센터의 청구 유형
-      href: billing-different-types.md
     - name: 요금 청구 방식
       href: read-your-bill.md
       displayName: invoice

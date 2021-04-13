@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024996"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266506"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>소프트웨어 보증 계획 서비스 사용 중지
 
@@ -35,7 +35,6 @@ ms.locfileid: "107024996"
 >[!NOTE]
 >무료 증명서 수명 주기는 변경 되지 않습니다. 무료 증명서를 만들거나 할당 한 후에는 무료 증명서 만료 전 180 일 이내에 무료, 고객 참여 및 증명서 상환 기간이 완료 되어야 합니다.  서비스 프로그램 사용 중지에 대 한 자세한 내용은 [여기](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 에서 찾을 수 있는 faq를 참조 하세요 (로그인 필요).  지역별 파트너 지원 팀에 문의 하시기 바랍니다. [EMEA 파트너 지원](mailto:savoucher@msdirectservices.com); [일반 파트너 지원](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>2021 년 6 월 30 일까 지
 
 ### <a name="get-started"></a>시작
 

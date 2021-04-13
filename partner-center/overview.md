@@ -8,16 +8,16 @@ description: 파트너 센터를 사용하여 Microsoft 및 고객과 거래
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582651"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132250"
 ---
 # <a name="what-is-partner-center"></a>파트너 센터란?
 
-##### <a name="appropriate-roles"></a>적절한 역할
+**적절한 역할**
 
 - 파트너 센터에 관심이 있는 모든 파트너
 
@@ -53,7 +53,7 @@ ms.locfileid: "103582651"
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Microsoft 및 기타 파트너와 공동 판매
 
-공동 판매란 파트너가 공동 판매를 통한 시너지 효과와 긍정적인 고객 성과를 얻기 위해 Microsoft 및 기타 파트너와 공동으로 판매하는 방식을 말합니다. 공동 판매를 통해 글로벌 브랜드, 영업 팀, 수요 창출 기능 및 상업용 Marketplace를 활용하여 전 세계 신규 고객에게 접근할 수 있습니다. 다른 파트너 및 당사와 함께 판매하세요. [공동 판매 기회 관리](manage-co-sell-opportunities.md)에서 자세히 알아보세요.
+공동 판매란 파트너가 공동 판매를 통한 시너지 효과와 긍정적인 고객 성과를 얻기 위해 Microsoft 및 기타 파트너와 공동으로 판매하는 방식을 말합니다. 공동 판매를 통해 글로벌 브랜드, 영업 팀, 수요 창출 기능 및 상업용 Marketplace를 사용하여 전 세계 신규 고객에게 접근할 수 있습니다. 다른 파트너 및 당사와 함께 판매하세요. [공동 판매 기회 관리](manage-co-sell-opportunities.md)에서 자세히 알아보세요.
 
 ## <a name="manage-customer-software-needs"></a>고객 소프트웨어 요구 사항 관리
 

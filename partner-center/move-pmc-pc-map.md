@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436812"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132998"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동
 
 **적절한 역할**
--    전역 관리자
+
+- 글로벌 관리자
 
 Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트너 센터)를 도입하여 보다 쉽게 비즈니스를 수행할 수 있도록 합니다. PMC(Partner Membership Center)에서 수행한 모든 작업을 파트너 센터의 대시보드에서 수행할 수 있습니다. 
 
-또한 한 웹 사이트에서 나가지 않고도 훨씬 더 많은 작업을 모두 수행할 수 있습니다. 일부 용어 및 기능은 다르게 표시될 수 있습니다. 어디에 무엇이 있는지에 대한 걱정을 덜어내려면 대시보드의 사이트 둘러보기를 이용하세요.
+또한 한 웹 사이트에서 나가지 않고도 훨씬 더 많은 작업을 수행할 수 있습니다. 일부 용어 및 기능은 다르게 표시될 수 있습니다. 특정 작업을 수행하는 위치 및 사용 가능한 기능을 알아보려면 대시보드를 둘러보세요.
 
 다음 표에서는 PMC와 파트너 센터 간의 몇 가지 차이점을 보여 줍니다.
 
@@ -43,7 +44,7 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 
 |**PMC**   |**파트너 센터**|
 |----------------------|:-----------------------------|
-|MSA(Microsoft 계정) 또는 개인 계정 자격 증명 joe@outlook.com을 사용할 수 있음|회사 계정 자격 증명(joe@joescompany.com)을 사용해야 합니다. 자세한 내용은 [조직의 회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.|
+|MSA(Microsoft 계정) 또는 개인 계정 자격 증명 joe@outlook.com을 사용할 수 있음|회사 계정 자격 증명(예: joe@joescompany.com)을 사용해야 합니다. 자세한 내용은 [조직의 회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요.|
 
 ## <a name="user-roles"></a>사용자 역할
 
@@ -61,14 +62,14 @@ Microsoft는 중앙 계약 지점 역할을 하는 단일 웹 사이트(파트�
 |2018년 10월 사용 중지될 때까지 ABTK(추가 혜택 도구 키트)를 사용할 수 있습니다.|ABTK 없음, 회사당 하나의 MAPS, 회사당 하나의 실버 역량, 회사당 하나의 골드 역량|
 ||MAPS가 아직 없는 경우 구매할 수 있습니다. MAPS 소유권은 역량에 연결되지 않습니다.  
 |혜택이 PDD(Partner Digital Download)에서 액세스됨 |모든 혜택이 파트너 센터에서 액세스됨|
-|역량 및 혜택이 여러 위치에 분산되고 구분됨|모든 위치의 역량 및 혜택이 회사(PGA) 수준에서 통합되며 갱신일까지 유지됩니다. 이때 회사 수준에서 구매하거나 갱신해야 합니다. 역량뿐만 아니라 성능과 기술이 전체적으로 집계됨|
+|역량 및 혜택이 여러 위치에 분산되고 구분됨|모든 위치의 역량 및 혜택이 회사(PGA) 수준에서 통합되며 갱신일까지 유지됩니다. 이때 회사 수준에서 구매하거나 갱신해야 합니다. 성능, 기술 및 역량이 전역적으로 집계됨|
 |Software Assurance 바우처 클레임이 VVR(Voucher Validation and Redemption) 도구에서 수행됨|이제 파트너 센터 내에서 SATV(Software Assurance Training Voucher) 및/또는 DPS(Deployed Planning Services)에 액세스하고 관리할 수 있습니다.  레거시 VVR 도구는 2019년 10월 1일부터 서비스 해제됩니다.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>파트너 센터에 MCP ID 연결
 
 |**PMC**   |**파트너 센터**   |
 |-------------------------|:-------------------|
-|동일한 MCP ID를 여러 회사에 연결할 수 있습니다.| 한 MCP ID를 하나의 파트너 센터 계정에만 연결할 수 있습니다. 수동으로 연결해야 합니다. 파트너 센터 대시보드에서, 대시보드 오른쪽 모서리에 있는 **계정** 아이콘을 선택한 다음, **내 프로필**을 선택합니다. **학습** 아래에서 Microsoft Learning 계정을 연결할 수 있으며, 또한 Microsoft 계정을 파트너 대학에 연결할 수 있습니다.
+|동일한 MCP ID를 여러 회사에 연결할 수 있습니다.| 한 MCP ID를 하나의 파트너 센터 계정에만 연결할 수 있습니다. 수동으로 연결해야 합니다. 파트너 센터 대시보드에서, 대시보드 오른쪽 모서리에 있는 **계정** 아이콘을 선택한 다음, **내 프로필** 을 선택합니다. **학습** 아래에서 Microsoft Learning 계정을 연결할 수 있으며, 또한 Microsoft 계정을 파트너 대학에 연결할 수 있습니다.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 혜택 및 MSA
 

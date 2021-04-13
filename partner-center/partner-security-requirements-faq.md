@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133051"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087079"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>파트너 보안 요구 사항에 대한 일반적인 질문
 
-**적용 대상**
+**적절한 역할**
 
-- 파트너 센터
-
-**적절한 사용자**
-
-- 사용하도록 설정된 모든 사용자(게스트 사용자 포함)
-
+- 모든 파트너 센터 사용자
 
 이 문서에는 [파트너 보안 요구 사항](partner-security-requirements.md)에 대한 몇 가지 일반적인 질문에 대한 답변이 있습니다.
 
@@ -53,7 +48,7 @@ Microsoft 파트너 계약에서는 다단계 인증을 사용자 계정에 적�
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>파트너 보안 요구 사항을 충족했는지 확인하려면 어떻게 해야 하나요?
 
-다음 단계를 완료해야 합니다.
+다음 단계를 완료합니다.
 
 - [파트너 보안 요구 사항](partner-security-requirements.md)에서 설명하는 모든 요구 사항을 충족해야 합니다.
 - 파트너 테넌트의 모든 사용자 계정에 다단계 인증이 적용되어 있는지 확인해야 합니다.
@@ -77,7 +72,7 @@ CSP 프로그램의 모든 파트너(직접 청구, 간접 공급자 및 간접 
     - 간접 공급자는 간접 재판매인과 협력하여 파트너 센터에 아직 온보딩하지 않은 경우 온보딩하고 재판매인이 요구 사항을 충족하도록 해야 합니다.
     - Azure MFA는 TOTP(시간 기반 일회용 암호)를 지원하는 인증자 애플리케이션의 유일한 확인 방법에서 Azure AD 보안 기본값을 통해 파트너 테넌트의 모든 사용자가 무료로 사용할 수 있습니다.
     - 전화 통화나 문자 메시지 같은 다른 방법이 필요한 경우 추가 검증 방법은 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU를 통해 사용할 수 있습니다.
-    - 또한 파트너는 Microsoft 상용 클라우드 서비스에 액세스할 때 계정마다 타사 MFA 솔루션을 활용할 수 있습니다.
+    - 또한 파트너는 Microsoft 상용 클라우드 서비스에 액세스할 때 계정마다 타사 MFA 솔루션을 사용할 수 있습니다.
 
 2. **보안 애플리케이션 모델 프레임워크 채택**
 
@@ -98,7 +93,7 @@ CSP 프로그램의 모든 파트너(직접 청구, 간접 공급자 및 간접 
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>MFA(다단계 인증)란 무엇인가요?
 
-MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통해 인증되는 보안 메커니즘입니다. 이는 다음 인증 방법을 둘 이상 요청하는 방식으로 작동합니다.
+MFA는 두 가지 이상의 필수 보안 및 유효성 검사 절차를 통해 개인을 인증하는 보안 메커니즘입니다. 이는 다음 인증 방법을 둘 이상 요청하는 방식으로 작동합니다.
 
 - 사용자가 알고 있는 사항(일반적으로 암호)
 - 사용자의 소유물(전화기처럼 쉽게 복제되지 않는 신뢰할 수 있는 디바이스)
@@ -106,7 +101,7 @@ MFA는 개인이 둘 이상의 필수 보안 및 유효성 검사 절차를 통�
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>MFA 사용 비용은 무엇인가요?
 
-Microsoft는 Azure AD 보안 기본값 구현을 통해 무료로 MFA를 제공합니다. 이 버전의 MFA를 통해 사용할 수 있는 유일한 확인 옵션은 인증 애플리케이션입니다. 전화 통화나 SMS 메시지가 필요한 경우 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 라이선스를 구매해야 합니다. 또는 타사 솔루션을 활용하여 파트너 테넌트의 각 사용자에게 MFA를 제공할 수 있습니다. 이 경우 사용자가 MFA 솔루션을 적용하고 이를 준수하는지 확인해야 합니다.
+Microsoft는 Azure AD 보안 기본값 구현을 통해 무료로 MFA를 제공합니다. 이 버전의 MFA를 사용하여 이용 가능한 유일한 확인 옵션은 인증 애플리케이션입니다. 전화 통화나 SMS 메시지가 필요한 경우 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 라이선스를 구매해야 합니다. 또는 타사 솔루션을 활용하여 파트너 테넌트의 각 사용자에게 MFA를 제공할 수 있습니다. 이 경우 사용자가 MFA 솔루션을 적용하고 이를 준수하는지 확인해야 합니다.
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>MFA 솔루션이 이미 있는 경우 수행해야 하는 작업은 무엇인가요?
 
@@ -145,7 +140,7 @@ Microsoft는 Azure Active Directory와의 호환성을 위해 독립 ID 공급�
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>통합 샌드박스에서 MFA를 테스트하려면 어떻게 해야 하나요?
 
-Azure AD 보안 기본값 기능을 사용하거나, 페더레이션을 활용하는 타사 솔루션을 활용할 수 있습니다.
+Azure AD 보안 기본값 기능을 사용하거나, 페더레이션을 사용하는 타사 솔루션을 사용할 수 있습니다.
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>MFA를 사용하도록 설정하면 고객의 테넌트와 상호 작용하는 방법에 영향을 주나요?
 
@@ -165,7 +160,7 @@ Azure AD 보안 기본값 기능을 사용하거나, 페더레이션을 활용�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>응급 액세스(비상) 계정을 구성하려면 어떻게 하나요?
 
-Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 응급 액세스 계정을 만드는 것이 좋습니다. 파트너 보안 요구 사항과 관련하여 각 사용자는 MFA를 사용하여 인증해야 합니다. 이 요구 사항은 응급 액세스 계정의 정의를 수정해야 함을 의미합니다. 이는 MFA에 대해 타사 솔루션을 활용하는 계정일 수 있습니다.
+Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 응급 액세스 계정을 만드는 것이 좋습니다. 파트너 보안 요구 사항과 관련하여 각 사용자는 MFA를 사용하여 인증해야 합니다. 이 요구 사항은 응급 액세스 계정의 정의를 수정해야 함을 의미합니다. 이는 MFA에 대해 타사 솔루션을 사용하는 계정일 수 있습니다.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>타사 솔루션을 사용하는 경우 ADFS(Active Directory Federation Service)가 필요한가요?
 
@@ -177,7 +172,7 @@ Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>MFA 요구 사항을 충족하는 데 조건부 액세스를 사용할 수 있나요?
 
-예, 조건부 액세스를 사용하여 서비스 계정을 포함한 파트너 테넌트의 각 사용자에 대해 MFA를 적용할 수 있습니다. 그러나 파트너가 되려면 매우 높은 권한이 필요하다는 가정하에 각 사용자가 인증할 때마다 MFA 챌린지를 수행하도록 해야 합니다. 즉 MFA 요구 사항을 우회하는 조건부 액세스 기능을 활용할 수 없습니다.
+예, 조건부 액세스를 사용하여 서비스 계정을 포함한 파트너 테넌트의 각 사용자에 대해 MFA를 적용할 수 있습니다. 그러나 파트너가 되려면 매우 높은 권한이 필요하다는 가정하에 각 사용자가 인증할 때마다 MFA 챌린지를 수행하도록 해야 합니다. 즉, MFA 요구 사항을 우회하는 조건부 액세스 기능을 사용할 수 없습니다.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Azure AD Connect에서 사용하는 서비스 계정은 파트너 보안 요구 사항의 영향을 받나요?
 
@@ -187,7 +182,7 @@ Azure AD 테넌트에서 실수로 잠기지 않도록 하나 또는 두 개의 
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>요구 사항을 충족하려면 누가 보안 애플리케이션 모델을 채택해야 하나요?
 
-Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 활용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다.
+Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 공급업체)를 인증하기 위해 Multi-Factor Authentication을 사용하는 안전하고 확장 가능한 프레임워크를 도입하고 있습니다. 자세한 내용은 [보안 애플리케이션 모델 가이드](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)를 참조하세요. 모든 API(예: Azure Resource Manager, Microsoft Graph, 파트너 센터 API 등)를 사용하여 사용자 지정 통합을 개발하거나 PowerShell과 같은 도구를 사용하여 사용자 지정 자동화를 구현한 모든 파트너는 [Secure Application Model framework](/partner-center/develop/enable-secure-app-model)(보안 애플리케이션 모델 프레임워크)를 채택하여 Microsoft 클라우드 서비스와 통합해야 합니다.
 
 ### <a name="what-is-the-secure-application-model"></a>보안 애플리케이션 모델이란 무엇인가요?
 
@@ -210,7 +205,7 @@ Microsoft는 CSP(클라우드 솔루션 공급자) 파트너 및 CPV(제어판 �
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>파트너 센터 API/SDK에 대해서만 보안 애플리케이션 모델을 구현해야 하나요?
 
-다단계 인증을 모든 사용자 계정에 적용하면 비대화형으로 실행되도록 설계된 자동화 또는 통합에 영향을 미칩니다. 파트너 보안 요구 사항에 따라 보안 애플리케이션 모델을 파트너 센터 API에 사용하도록 설정해야 하지만, 이 API는 자동화 및 통합을 통해 두 번째 인증 요소에 대한 요구를 처리하는 데 활용할 수 있습니다.
+다단계 인증을 모든 사용자 계정에 적용하면 비대화형으로 실행되도록 설계된 자동화 또는 통합에 영향을 미칩니다. 파트너 보안 요구 사항에 따라 보안 애플리케이션 모델을 파트너 센터 API에 사용하도록 설정해야 하지만, 이 API는 자동화 및 통합을 통해 두 번째 인증 요소에 대한 요구를 처리하는 데 사용할 수 있습니다.
 
 >[!Note] 
 >액세스되는 리소스는 액세스 토큰 기반 인증을 지원해야 합니다.
@@ -246,7 +241,7 @@ CPV는 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com)에 연결하여 등
 
 파트너 센터에 등록하고 애플리케이션을 등록하면 파트너 센터 API에 액세스할 수 있습니다. 새 CPV인 경우 파트너 센터 알림을 통해 샌드박스 정보를 받게 됩니다. Microsoft CPV로 등록을 완료하고 CPV 계약을 수락했으면 다음을 수행할 수 있습니다.
 
-1. 다중 테넌트 애플리케이션을 관리합니다(Azure Portal에 애플리케이션 추가, 파트너 센터에서 애플리케이션 등록 및 등록 취소).
+1. 다중 테넌트 애플리케이션을 관리합니다(Azure Portal에 애플리케이션을 추가하고 파트너 센터에서 애플리케이션 등록 및 등록 취소).
 
    >[!Note]
    >CPV는 파트너 센터 API에 대한 권한을 얻으려면 파트너 센터에 애플리케이션을 등록해야 합니다. Azure Portal에 애플리케이션을 추가하는 것만으로는 파트너 센터 API에 대한 권한이 CPV 애플리케이션에 부여되지 않습니다.

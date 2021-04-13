@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475197"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502555"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>CSP(클라우드 솔루션 공급자) 프로그램을 통해 소프트웨어 구독 판매
-
-**적용 대상**
-
-- 클라우드 솔루션 공급자
 
 **적절한 역할**
 
@@ -101,7 +97,7 @@ Azure 하이브리드 혜택은 Windows Server 라이선스에서 더 많은 가
 
 2. 제품 **버전**, **언어**, **비트** 를 선택하고 **키 및 다운로드 받기** 를 선택합니다. 
 
-3. **키 받기** 를 선택합니다. 그러면 팝업 대화 상자에 32자리 제품 키가 표시되는데, 이 키를 복사하여 고객에게 전달하면 됩니다. 
+3. **키 받기** 를 선택하면 팝업 대화 상자에 32자리 제품 키가 표시되는데, 이 키를 복사하여 고객에게 전달하면 됩니다. 
 
 4. **다운로드** 를 선택하여 비트를 다운로드합니다. 
 

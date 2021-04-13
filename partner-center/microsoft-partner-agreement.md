@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880806"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441271"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880806"
 
 Microsoft 파트너 계약은 Microsoft 파트너에게 디지털 방식으로 수락하는 통합 파트너 계약을 제공합니다. Microsoft 파트너 계약에는 Microsoft, 파트너 및 고객이 데이터 개인 정보 보호 및 보안을 지원하고, 규정 준수를 촉진하며, 건전한 비즈니스 관행을 장려하는 데 도움이 되는 일단의 영구적인 핵심 조건이 포함되어 있습니다.
 
-간접 공급자, 간접 재판매인 및 직접 청구 파트너를 포함한 클라우드 솔루션 공급자 프로그램 파트너는 모두 파트너 센터에서 온라인으로 MPA에 서명할 수 있습니다. 정부 기관 클라우드를 운영하는 직접 청구 및 간접 공급자 파트너는 파트너 센터 내에서 MPA에 서명할 수도 있습니다.
+간접 공급자, 간접 재판매인 및 직접 청구 파트너를 포함한 클라우드 솔루션 공급자 프로그램 파트너는 모두 파트너 센터에서 온라인으로 MPA에 서명할 수 있습니다. Microsoft Cloud for US Government를 운영하는 직접 청구 및 간접 공급자 파트너는 파트너 센터 내에서 MPA에 서명할 수도 있습니다.
 
 CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsoft 파트너 계약에 서명해야 합니다. 파트너 센터에서는 이제 파트너 센터 내에서 계약에 쉽게 서명할 수 있음을 미리 알려줍니다.
 
@@ -75,7 +75,7 @@ CSP 프로그램에 계속 참여하려면 2020년 1월 31일 이전에 Microsof
 1. CSP 간접 재판매인 계정으로 파트너 센터에 로그인합니다. 전역 관리자여야 합니다.
 1. **[CSP 개요](https://partner.microsoft.com/pcv/dashboard/overview)** 페이지로 이동합니다.  **수락하고 계속** 또는 MPA에 서명했다는 녹색 배너가 표시되지 않으면 MPA에 서명할 올바른 역할이 없는 것입니다. MPA에 서명하려면 전역 관리자에게 문의하세요.
 
-1. 서명하기 전에 **Microsoft 파트너 계약** 을 보고 다운로드하려면 아래의 Microsoft 파트너 계약 링크를 클릭합니다.
+1. 서명하기 전에 **Microsoft 파트너 계약** 을 보고 다운로드하려면 아래의 Microsoft 파트너 계약 링크를 선택합니다.
 
 :::image type="content" source="images/agreement-three.png" alt-text="새로운 MPA 계약 위치":::
 

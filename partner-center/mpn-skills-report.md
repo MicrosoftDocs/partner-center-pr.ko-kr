@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474273"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132437"
 ---
 # <a name="using-the-skills-report"></a>기술 보고서 사용
 
@@ -59,7 +59,7 @@ Microsoft 파트너 네트워크에 속한 파트너는 기술 보고서를 통�
 
 1. 적절한 파트너 센터 역할이 할당된 사용자 계정을 사용하여 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 2. 왼쪽 탐색 메뉴에서 **MPN**, **역량** 을 차례로 선택합니다.
-3. 역량 페이지의 오른쪽 위에서  **역량 성과 보고서** 및 **기술 보고서 다운로드** 옵션을 찾습니다. 파트너 센터 사용자 인터페이스 내에서 기술 보고서 데이터를 볼 수도 있고 스프레드시트를 다운로드하여 볼 수도 있습니다.
+3. 역량 페이지의 오른쪽 위에서 **역량 성과 보고서** 및 **기술 보고서 다운로드** 옵션을 찾습니다. 파트너 센터 사용자 인터페이스 내에서 기술 보고서 데이터를 볼 수도 있고 스프레드시트를 다운로드하여 볼 수도 있습니다.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="오른쪽 위 모서리에 두 가지 옵션이 강조 표시된 파트너 센터 역량 페이지" border="true":::
    - 기술 보고서 데이터를 읽기 쉽게 표시하려면 역량 보고서 페이지의 왼쪽 위에서 **역량 성과 보고서** 를 선택하고 **사용자 기술 데이터** 를 선택합니다. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="왼쪽 위 모서리에 사용자 기술 데이터 옵션이 있는 파트너 센터 역량 보고서 페이지" border="true":::

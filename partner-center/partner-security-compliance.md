@@ -9,18 +9,18 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624156"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086552"
 ---
 # <a name="security-requirements-status-report"></a>보안 요구 사항 상태 보고서
 
 **적절한 역할**
-- 제어판 공급업체
-- 전역 관리자
+- CPV 관리자
+- 글로벌 관리자
 
 이 문서는 파트너 센터의 파트너 보안 요구 사항 상태 보고서에 대해 설명합니다. 이 보고서에서는 파트너 테넌트 사용자를 위한 MFA(다단계 인증)의 [파트너 보안 요구 사항](partner-security-requirements.md) 준수 메트릭을 제공합니다.
 
@@ -46,7 +46,7 @@ ms.locfileid: "99624156"
 
 #### <a name="dashboard-mfa-verification"></a>대시보드 MFA 확인
 
-**파트너 센터 포털을 통해** 메트릭은 파트너 센터 대시보드 내의 활동과 관련이 있습니다. MFA 확인을 완료한 사용자가 수행한 작업의 비율을 측정합니다. 예:
+**파트너 센터 포털을 통해** 메트릭은 파트너 센터 대시보드 내의 활동과 관련이 있습니다. MFA 확인을 완료한 사용자가 수행한 작업의 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 - Contoso는 두 명의 관리 에이전트 Jane과 John이 있는 CSP 파트너입니다.
 - 첫 번째 날에 Jane이 MFA 확인 없이 파트너 센터 대시보드에 로그인하여 3가지 작업을 수행했습니다.
@@ -59,7 +59,7 @@ ms.locfileid: "99624156"
 
 #### <a name="appuser-mfa-verification"></a>앱 + 사용자 MFA 확인
 
-**API 또는 SDK를 통해** 메트릭은 파트너 센터 API 요청을 통한 앱 + 사용자 인증과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예:
+**API 또는 SDK를 통해** 메트릭은 파트너 센터 API 요청을 통한 앱 + 사용자 인증과 관련이 있습니다. 이 메트릭은 MFA 클레임이 포함된 액세스 토큰을 사용하여 작성된 API 요청 비율을 측정합니다. 예를 들어 다음과 같은 가치를 제공해야 합니다.
 
 - Fabrikam은 CSP 파트너이며 앱+사용자 인증과 앱 전용 인증 방법을 혼합해서 사용하는 CSP 애플리케이션을 보유하고 있습니다.
 - 첫 번째 날에 애플리케이션에서 API 요청을 3개 만들었고, 이 요청은 MFA 확인 없이 앱+사용자 인증 방법을 통해 얻은 액세스 토큰을 통해 지원됩니다.

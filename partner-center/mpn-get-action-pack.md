@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514719"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132301"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Action Pack 구독 또는 실버 및 골드 역량 구입 또는 갱신
 
@@ -22,7 +22,7 @@ ms.locfileid: "97514719"
 **적절한 역할**
 
 - 글로벌 관리자
-- 사용자 관리자
+- 사용자 관리 담당자
 - MPN 파트너 관리자
 - 관리 에이전트
 
