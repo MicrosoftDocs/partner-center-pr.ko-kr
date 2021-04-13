@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024979"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266489"
 ---
 # <a name="training-vouchers-program-retirement"></a>교육 바우처 프로그램 사용 중지
 
@@ -29,9 +29,9 @@ ms.locfileid: "107024979"
 >[!NOTE]
 >무료 증명서 수명 주기는 변경 되지 않습니다. 무료 증명서를 만들거나 할당 한 후에는 무료 증명서 만료 전 180 일 이내에 증명서 예약, 교육 세션 및 증명서 상환 기간이 완료 되어야 합니다.  교육 상품권 사용 중지에 대 한 자세한 내용은 [여기](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 에서 찾을 수 있는 faq를 참조 하세요 (로그인 필요).  교육 혜택 제품 카탈로그에서 SATV 적격 교육 과정의 전체 목록을 참조 하세요.  지역별 파트너 지원 팀에 문의 하시기 바랍니다. [EMEA 파트너 지원](mailto:savoucher@msdirectservices.com); [일반 파트너 지원](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>2021 년 6 월 30 일까 지
 
-### <a name="get-started"></a>시작하기
+
+### <a name="get-started"></a>시작
 
 소프트웨어 보증 교육 서비스를 처음 접하는 경우 다음의 모든 단계를 수행 하세요. 이미 학습 증명서 프로그램에서 활성화 된 경우 아래 4 단계 (4)에서 시작 합니다. 
 
