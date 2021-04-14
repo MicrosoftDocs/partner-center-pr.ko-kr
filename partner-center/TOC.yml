@@ -14,14 +14,6 @@
       displayName: mpn
     - name: 계정 설정 문제 해결
       href: troubleshoot-account-sign-n.md
-    - name: 파트너 센터로 이동
-      items:
-        - name: PAC에서 이동 - 개요
-          href: pac-to-pc-overview.md
-        - name: PAC와 PC의 작업 비교
-          href: moving-from-pac-to-pc.md
-        - name: PC에서 PAC 작업 수행
-          href: o365-partner-admin-center-to-partner-center.md
     - name: PMC에서 이동
       items:
         - name: PMC에서 마이그레이션 준비
@@ -159,8 +151,6 @@
     - name: 'CSP 계약, 가격표, 제품'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: CSP용 Cloudyn별 Azure Cost Management
-      href: azure-cost-management-app-for-csp-partners.md
     - name: 'CSP 지역 시장, 통화'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'

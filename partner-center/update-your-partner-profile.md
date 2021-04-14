@@ -6,15 +6,15 @@ description: 기본 연락처, 주소, 프로그램 정보 등 회사 세부 정
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712599"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315877"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>회사 프로필 정보 확인 또는 업데이트 
 
@@ -92,6 +92,17 @@ CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니�
 ## <a name="update-your-csp-legal-billing-address"></a>CSP 법적 청구 주소 업데이트
 
 전역 관리자, 청구 관리자 또는 관리 담당자일 경우 **지급액 및 세금 프로필** 에서 송장에 표시되는 주소를 변경할 수 있습니다. 그러나 청구서 시스템의 제한으로 인해 청구서의 회사 이름을 변경할 수는 없습니다.
+
+:::image type="content" source="images/billing-profile.png" alt-text="청구 정보가 추가된 영역의 화면 캡처":::
+
+|**필드**  |**설명**|  
+|---------------------|:------------------|
+|청구 회사 이름|CSP 청구서의 청구지 정보에 표시되는 회사 이름입니다.  파트너 센터에서 편집할 수 없습니다.  업데이트하려면 지원 티켓을 만듭니다.|
+|청구지 주소|CSP 청구서에 표시되는 청구지 주소입니다. [청구 프로필](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)에서 업데이트할 수 있습니다.|
+|청구지 연락처|CSP 계정에 대한 청구 연락처 세부 정보(이름, 성, 기본 번호)입니다.  [청구 프로필](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)에서 업데이트할 수 있습니다.|
+|PO 번호|파트너 청구서에 표시되는 구매 주문 번호입니다.  [청구 프로필](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)에서 업데이트할 수 있습니다.|
+|회사 세금 ID|일부 국가의 기업은 [VAT(부가가치세) 번호 또는 지역의 해당 번호](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)를 제공할 수 있습니다. 세금/VAT ID를 업데이트하려면 전역 관리자, 대금 청구 관리자 또는 관리 에이전트여야 합니다.|
+|청구 통화|CSP 계정의 청구 통화는 CSP 계정의 법적 국가에 따라 결정됩니다.  CSP 계정을 만든 후에는 변경할 수 없습니다.|
 
 
 ## <a name="next-steps"></a>다음 단계

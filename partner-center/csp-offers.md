@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502870"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964343"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 개요
 
@@ -105,6 +105,15 @@ CSP 고객을 대신하여 제품 및 서비스를 구입하려면 고객이 원
 
 8. 주문 번호를 비롯한 주문 세부 정보는 다음 페이지에 표시됩니다. **완료** 를 선택하여 **주문 기록** 페이지로 이동합니다.
 
+### <a name="customer-order-history"></a>고객 주문 기록
+
+고객의 주문 기록을 보는 방법은 다음과 같습니다.
+
+1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
+2. 왼쪽 메뉴에서 **고객** 을 선택합니다.
+3. **고객** 페이지에서 주문 기록을 보려는 고객을 찾습니다. 아래쪽 화살표를 선택하여 고객의 레코드를 확장합니다.
+4. **주문 보기** 를 선택하여 고객의 주문 기록을 표시합니다.
+ 
 ## <a name="rules-for-special-segments"></a>특수 세그먼트에 대한 규칙
 
 일부 라이선스 기반 제품은 특정 조건에서만 구매할 수 있습니다. 특수 세그먼트 제품으로는 교육, 비영리 또는 GCC(정부 커뮤니티 클라우드) 제품이 있습니다. 이러한 구매 조건에 대한 세부 정보는 [특수 세그먼트에 대한 구매 규칙 항목](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)에서 찾을 수 있습니다.
