@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042721"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964377"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업하는 CSP 프로그램 파트너용 청구 개요 
 
@@ -67,11 +67,7 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 
 가격표는 매월 업데이트됩니다. 미리 보기 가격표는 1개월 전에 미리 제공됩니다.
 
-가격표를 보는 방법은 다음과 같습니다.
-
-1. [파트너 센터 대시보드에 로그인](https://partner.microsoft.com/dashboard/home)합니다.
-2. 왼쪽 메뉴에서 **판매**, **가격 책정 및 제품** 을 차례로 선택합니다.
-3. **가격 책정 및 제품** 페이지에서 6개월 가격표(현재 월 포함) 및 미리 보기 가격표(해당하는 경우)를 볼 수 있습니다.
+최신 클라우드 솔루션 공급자 프로그램 및 제품을 보려면 파트너 포털 대시보드에서 **판매 > 가격 책정 및 제품** 으로 이동하세요. 사용 가능한 다양한 유형의 제품에 대한 별도의 가격표를 찾을 수 있습니다. **가격 책정 및 제품** 페이지에서 다음 가격표를 사용할 수 있습니다.
 
 **라이선스 기준** 가격은 구독 기간(일반적으로 구매 날짜부터 12개월) 동안 보장됩니다. 
 
@@ -99,19 +95,6 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 
 세금 정보가 더 필요하면 현지 세무서 또는 세무사에게 문의하세요.
 
-### <a name="change-billing-frequency"></a>청구 주기 변경
-
-청구 주기는 주문 수준에서 변경되며, 주기가 변경되면 수정된 청구 주기가 해당 주문 내의 모든 구독에 적용됩니다. 
-
-고객의 온라인 서비스 청구 주기를 변경하는 방법은 다음과 같습니다.
-
-1. [파트너 센터 대시보드에 로그인](https://partner.microsoft.com/dashboard/home)합니다.
-2. 왼쪽 메뉴에서 **고객** 을 선택합니다.
-3. 구독 청구 주기를 변경하려는 고객을 선택합니다.
-4. 고객의 **구독** 페이지에서 변경하려는 구독을 선택합니다.
-5. **세부 정보** 페이지의 **청구 주기** 에서 **월별** 또는 **연간** 을 선택합니다. 청구 주기 변경에 대한 중요한 정보와 변경될 구독 목록이 포함된 확인 페이지가 표시됩니다.
-6. 변경하려면 **확인** 을 선택하고, 변경을 취소하려면 **취소** 를 선택합니다.
-
 ### <a name="adjustmentscreditscancellations"></a>조정/크레딧/취소
 
 라이선스 기반 서비스에 대한 취소 크레딧은 주기 중 취소에서 사용되지 않은 일 단위로 비례 배분됩니다(및 다음 수식에 따른 라이선스 감소).
@@ -121,6 +104,7 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 라이선스 기준 서비스를 취소해도 Microsoft는 조기 해지 수수료를 부과하지 않습니다.
 
 ### <a name="billing-rules"></a>청구 규칙
+
 현재 청구 주기에는 연간 및 월간의 두 가지 유형이 있습니다.  
 데이터 통신 서비스 요금은 송장 주기 내에서 변경할 수 있습니다.
 
@@ -146,24 +130,6 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 
 - 받은 청구서에는 해당 월에 발생한 요금만 부과됩니다. 
 
-## <a name="manage-one-time-billing"></a>일회성 청구 관리
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>청구 상태, 청구서 및 조정 파일
-
-현재 청구 상태, 청구서 및 조정 파일을 보는 방법은 다음과 같습니다.
-
-1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
-2. 왼쪽 메뉴에서 **청구**, **반복성 및 일회성 구매** 를 차례로 선택합니다.
-3. 청구 상태 페이지에서 청구서 또는 조정 파일을 선택하여 자세한 정보를 확인합니다.
-
-### <a name="customer-order-history"></a>고객 주문 기록
-
-고객의 주문 기록을 보는 방법은 다음과 같습니다.
-
-1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
-2. 왼쪽 메뉴에서 **고객** 을 선택합니다.
-3. **고객** 페이지에서 주문 기록을 보려는 고객을 찾습니다. 아래쪽 화살표를 선택하여 고객의 레코드를 확장합니다.
-4. **주문 보기** 를 선택하여 고객의 주문 기록을 표시합니다.
 
 ### <a name="credit-notes"></a>크레딧 메모
 
@@ -178,3 +144,6 @@ Microsoft는 파트너의 청구서 처리 방식에 대해 어떠한 요구 사
 
 - [청구서 및 조정 파일 이해](read-your-bill.md)
 - [CSP 프로그램 파트너의 일반적인 청구 시나리오](common-billing-scenarios.md)
+- [청구 주기 변경](common-billing-scenarios.md)
+- [고객 주문 기록](csp-offers.md) 
+- [가격 책정 및 제품](pricing-and-offers.md)

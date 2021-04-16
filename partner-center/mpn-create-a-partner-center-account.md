@@ -1,7 +1,7 @@
 ---
 title: 파트너 센터에서 MPN 계정 만들기
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 네트워크 구성원이 파트너 센터 계정을 만들어 네트워크 혜택 및 역량을 관리하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712922"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266540"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>파트너 센터에서 MPN 계정을 만들어 네트워크 혜택 및 역량 관리
 
@@ -25,7 +25,7 @@ MPN(Microsoft 파트너 네트워크)을 처음 사용하고 MPN ID가 없는 �
 
 파트너 센터에서 계정을 만들 준비가 되면 다음 항목이 있어야 합니다.  시작하기 전에 다음 항목을 수집하는 데 몇 분 정도 걸릴 수 있습니다.
 
-- 회사 업무 이메일 또는 Office 365 회사 계정. 자세한 내용은 [회사 업무 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요. 
+- 회사 업무 이메일 또는 Office 365 회사 계정. 기업에서 직원의 회사 이메일 주소를 설정하려면 이메일 도메인을 구매해야 할 수도 있습니다. 자세한 내용은 [조직의 회사 계정 및 파트너 센터](azure-active-directory-tenants-and-partner-center.md)를 참조하세요. 
  
 - 회사의 법적 회사 이름 및 주소.
 

@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932847"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133100"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>파트너 센터에서 Microsoft 파트너 네트워크 멤버십 혜택 및 제품 관리
 
-**적용 대상**
-
-- 파트너 센터
-
 **적절한 역할**
 
-- 전역 관리자
-- 사용자 관리자
+- 글로벌 관리자
+- 사용자 관리 담당자
 - 관리 에이전트
 - MPN 파트너 관리자
 
@@ -45,7 +41,7 @@ MPN(Microsoft 파트너 네트워크)에 가입하면 비즈니스를 구축하�
 
 모든 멤버십 혜택을 보고 관리하려면 [**혜택** 페이지](https://partnercenter.microsoft.com/pcv/partnership/benefits)로 이동하세요(로그인 필요). 또는 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인하고, 왼쪽 메뉴에서 [**혜택 옵션**]을 선택한 다음, 표시되는 혜택 옵션을 선택할 수 있습니다.  
 
-대부분의 혜택을 활성화하거나 관련 소프트웨어 키 등을 다운로드하려면 일반적으로 전역 관리자 또는 MPN 파트너 관리자 역할이 할당된 사람이 파트너 센터에 필요합니다. 혜택이 보이지 않거나 혜택을 활성화할 수 없으면, 파트너 센터 전역 관리자에게 문의하여 올바른 권한이 있는지 확인하세요. [파트너 센터 역할에 대해 자세히 알아보세요](permissions-overview.md).
+대부분의 혜택을 활성화하거나 관련 소프트웨어 키를 다운로드하려면 일반적으로 전역 관리자 또는 MPN 파트너 관리자 역할이 할당된 사람이 파트너 센터에 필요합니다. 혜택이 보이지 않거나 혜택을 활성화할 수 없으면, 파트너 센터 전역 관리자에게 문의하여 올바른 권한이 있는지 확인하세요. [파트너 센터 역할에 대해 자세히 알아보세요](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>소프트웨어 혜택 관리
 
@@ -81,13 +77,13 @@ MPN 파트너로서 활성화한 제공 유형(MAPS, Silver 및/또는 Gold)인 
 파트너 센터에서 Microsoft Azure 구독을 활성화하려면 Azure Active Directory에 만든 사용자 항목이 있는 회사 내 사용자(게스트 사용자 포함)에게 액세스 권한을 할당합니다.
 $100/월(또는 이에 상응하는 현지 통화) Azure 월별 크레딧의 경우 언제든지 이 구독에서 사용자를 추가하거나 제거할 수 있습니다. 
 
-Azure 대량(매년) 크레딧의 경우 파트너 센터에서 제거 옵션을 사용할 수 없지만 등록 연도 동안 다른 사람에게 대량 크레딧을 양도할 수 있습니다. Azure 대량(매년) 크레딧 구독은 다른 라이선스, 선불 또는 크레딧 제품과 함께 사용할 수 없습니다(예: Microsoft Enterprise Agreement, 클라우드 솔루션 파트너, Azure in Open, Azure Pass, Action Pack 등).
+Azure 대량(매년) 크레딧의 경우 파트너 센터에서 제거 옵션을 사용할 수 없지만 등록 연도 동안 다른 사람에게 대량 크레딧을 양도할 수 있습니다. Azure 대량(매년) 크레딧 구독은 다른 라이선스, 선불 또는 크레딧 제품과 함께 사용할 수 없습니다(즉, Microsoft Enterprise Agreement, 클라우드 솔루션 파트너, Azure in Open, Azure Pass, Action Pack 등).
 
 ## <a name="license-based-subscriptions"></a>라이선스 기반 구독
 
-Azure 및 클라우드 제품 탭의 라이선스 기반 구독 섹션에서 Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI 등과 같이 정품 인증을 위해 제품 키가 필요한 모든 클라우드 제품을 찾을 수 있습니다. MPN 파트너로서 활성화한 제공 유형(MAPS, Silver 또는 Gold)에 따라 제공됩니다.
+Azure & Cloud Products 탭의 라이선스 기반 구독 섹션에는 정품 인증을 위해 제품 키(Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD basic 및 Power BI)가 필요한 모든 클라우드 제품이 나열됩니다. MPN 파트너로서 활성화한 제품 유형(MAPS, Silver 또는 Gold)은 나열되는 제품을 제어합니다.
 
-라이선스 기반 구독을 활성화하려면 관심 있는 제품 옆에 있는 드롭다운 기호를 클릭하고 키 사용 방법에 대한 지침을 읽어보세요. 지침을 읽은 후 포털로 리디렉션되는 링크를 선택하여 키뿐만 아니라 제품에 할당된 키를 사용합니다.
+라이선스 기반 구독을 활성화하려면 관심 있는 제품 옆에 있는 드롭다운 기호를 클릭하고 키 사용 방법에 대한 지침을 읽어보세요. 지침을 읽은 후 포털로 리디렉션되는 링크를 선택하여 키와 제품에 할당된 키를 사용합니다.
 
 >[!IMPORTANT]
 >키를 사용한 후에는 동일한 키를 다시 사용할 수 없으므로 라이선스(시트)를 더 추가해야 하는지 또는 종료 날짜를 연장해야 하는지 명확하게 확인해야 합니다. 더 많은 라이선스를 추가하고 종료 날짜를 연장하지 않기로 한 경우 시스템은 12개월 미만의 활성 구독을 제공합니다. 올바른 테넌트에서 키를 활성화하려면 올바른 자격 증명으로 로그인했는지 확인합니다.

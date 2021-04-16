@@ -10,39 +10,41 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280907"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266472"
 ---
 # <a name="february-2021-announcements"></a>2021년 2월 공지
 
 이 페이지에서는 2021년 2월 Microsoft 파트너 센터에 대한 공지 사항을 자세히 설명합니다.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14">PUT Qualification API는 사용 중지되며 GET은 5월에 사용 중지됨</a>
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>미리 알림: GET 검증이 2021년 5월 4일에 사용 중단
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021년 2월 25일
+- 날짜: 2021-04-09
 - 기능
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
-파트너 센터 API를 사용하여 클라우드 솔루션 공급자 프로그램을 통해 교육, 비영리 및 GCC 제안을 판매하는 파트너
+파트너 센터 API를 사용하여 클라우드 솔루션 공급자 프로그램을 통해 교육, 비영리 및 GCC(정부 커뮤니티 클라우드) 제품을 판매하는 파트너
 
 ### <a name="details"></a>세부 정보
 
-이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](2020-december.md#1)에 대한 후속 작업입니다. 이 릴리스에서는 새 GET 및 POST Qualification API가 배포되었으며, 그 결과 **기존 PUT Qualification API가 사용 중지되었고 GET Qualification API는 2021년 5월 4일에 사용 중지됩니다**. 이후에 교육 제품을 구매하려면 새 POST 파트너 센터 API를 사용하도록 전환해야 합니다. 마찬가지로, 사전 심사를 마친 비영리 및 GCC 제품을 구매하려면 새로운 GET Qualification API를 사용해야 합니다.
+이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](https://docs.microsoft.com/partner-center/announcements/2020-december#1)에 대한 후속 작업입니다. 이 릴리스의 일부로 새로운 GET 및 POST Qualifications API가 배포되었으며 그 결과 기존 GET 자격이 2021년 5월 4일에 사용 중지됩니다. 그때까지는 교육 제품 구매에 새로운 POST 파트너 센터 API를 사용하고, 사전 검증된 비영리 단체 및 GCC 제품을 구매하려면 새로운 GET 자격 API를 사용하도록 전환해야 합니다.
 
 ### <a name="next-steps"></a>다음 단계
 
-- 성공적으로 적시에 전환하기 위해 **새 API로 업데이트** 합니다.
-- 운영 준비 상태 리소스인 [향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)에서 **새 파트너 센터 API 변경 내용 및 가이드를 검토** 합니다.
-- 이러한 변경에 대비하는 데 도움이 되도록 **이 정보를 조직 내의 적절한 팀 및 재판매인과 공유** 합니다.
+- 성공적으로 적시에 전환하기 위해 새 API로 업데이트합니다.
+
+- 운영 준비 상태 리소스인 향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스에서 [새 파트너 센터 API 변경 내용 및 가이드를 검토](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)합니다.
+
+- 이러한 변경에 대비하는 데 도움이 되도록 이 정보를 조직 내의 적절한 팀 및 재판매인과 공유합니다.
 
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
@@ -50,8 +52,10 @@ ________________
 
 ### <a name="change-log"></a>로그 변경
 
+- 4월: GET 자격의 향후 사용 중단에 대한 미리 알림 
 - 2월: GET 및 PUT 자격의 사용 중단에 대한 업데이트된 타임라인
 - 1월: GET 및 PUT 자격의 향후 사용 중단에 대한 미리 알림
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> 파트너 센터 대량 작업 기능을 사용하여 대규모 공동 판매 거래 공유
