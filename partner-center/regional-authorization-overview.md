@@ -1,7 +1,7 @@
 ---
 title: CSP 글로벌 시장
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 회사의 위치에 따라 CSP 제품을 판매할 수 있는 국가, 지역 및 통화를 참조 하세요.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926664"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528599"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP 제품을 판매할 수 있는 클라우드 솔루션 공급자 프로그램 지역 시장 및 통화
 
@@ -24,10 +24,15 @@ ms.locfileid: "96926664"
 
 고객을 대신하여 CSP 제품을 주문하려면 고객이 Microsoft 고객 계약에 동의해야 합니다. 해당 지역/국가에 해당 하는 Microsoft 고객 계약을 [여기](agreements.md)에서 찾을 수 있습니다.
 
+## <a name="azure-plan-for-csp-region-availability"></a>CSP 지역 가용성에 대 한 Azure 요금제  
+
+Csp 용 azure 요금제는 CSP 용 Azure 소프트웨어 보다 더 작은 지역에서 사용할 수 있습니다.  Azure 요금제에 대 한 최신 업데이트를 보려면  [azure 계획 구매](purchase-azure-plan.md) 를 참조 하세요. 
+
 >[!IMPORTANT]
 > 고객이 서명한 사용자에 대 한 정보를 제공 하 여 고객이 Microsoft 고객 계약에 동의 했는지 확인 해야 합니다. 자세한 내용은 [고객의 Microsoft 고객 계약 동의 확인](confirm-consent.md)을 참조하세요.
 
 CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 하나에서 회사의 위치를 찾습니다. 판매 하려는 위치에 대해 활성 Microsoft 파트너 네트워크 (MPN) ID가 있어야 합니다.  
+
 
 ## <a name="for-unsupported-countries"></a>지원 되지 않는 국가
 
@@ -349,7 +354,7 @@ CSP 제품을 판매할 수 있는 위치를 확인 하려면 아래 목록 중 
 |  카타르          |   USD    |
 |  사우디아라비아   |   USD    |
 |  세르비아         |   USD    |
-|  남아프리카 공화국   |   USD    |
+|  남아프리카   |   USD    |
 |  스와질랜드      |   USD    |
 |  타지키스탄     |   USD    |
 |  튀니지        |   USD    |
