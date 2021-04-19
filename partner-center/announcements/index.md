@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266455"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584187"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,8 @@ ms.locfileid: "107266455"
 
 |**범주**|**2021년 4월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[지금 라이브: 글로벌 프로모션 준비 가이드](2021-april.md#6)|4월 16일|
+|커뮤니티: 초대 및 미리 알림|[4월 CSP(클라우드 솔루션 공급자) 커뮤니티 업데이트 및 미리 알림](2021-april.md#5)|4월 16일|
 |기능|[미리 알림: GET 검증이 2021년 5월 4일에 사용 중단](2021-april.md#4)|4월 9일|
 |기능|[CSP의 새 상거래 PDF 청구서에 대한 새 형식](2021-april.md#3)|4월 5일|
 |기능|[CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경 내용](2021-april.md#2)|4월 2일|
