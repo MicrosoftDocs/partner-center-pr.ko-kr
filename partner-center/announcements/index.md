@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584187"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728949"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "107584187"
 
 |**범주**|**2021년 4월 공지**|**발표**|
 |---------|:---------|:---------|
+|비즈니스 확장|[오픈 라이선스 프로그램: 재판매인을 CSP(클라우드 솔루션 공급자) 프로그램으로 전환](2021-april.md#7)|4월 19일|
 |기능|[지금 라이브: 글로벌 프로모션 준비 가이드](2021-april.md#6)|4월 16일|
 |커뮤니티: 초대 및 미리 알림|[4월 CSP(클라우드 솔루션 공급자) 커뮤니티 업데이트 및 미리 알림](2021-april.md#5)|4월 16일|
 |기능|[미리 알림: GET 검증이 2021년 5월 4일에 사용 중단](2021-april.md#4)|4월 9일|

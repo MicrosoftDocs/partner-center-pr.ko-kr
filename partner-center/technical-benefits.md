@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086654"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742123"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>TPD(기술 사전 판매 및 배포 서비스) 살펴보기 
 
@@ -41,6 +41,18 @@ ms.locfileid: "106086654"
 **[TPD(기술 사전 판매 및 배포 서비스) 요청](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (기술 혜택 활성화 불필요)에 MPN 연결 사용자 계정으로 로그인합니다.
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="기술 사전 판매 및 배포 혜택" :::
+
+## <a name="in-scope-products-and-services"></a>범위 내 제품 및 서비스
+
+다음 제품 및 서비스는 기술 사전 판매 및 배포 서비스 범위에 포함됩니다.
+- **Microsoft 365**: Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype for Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection과 같은 모든 Microsoft Office 365 구성 요소
+  - *범위 외: 독점 온-프레미스 Office 서버 – Exchange 및 SharePoint*
+- **비즈니스 애플리케이션**: Microsoft Dynamics 365(온라인), Microsoft Power Platform(Power Apps, Power Automate, Power BI)
+  - *범위 외: Dynamics 365, GP, SL, AX, NAV의 독점 온-프레미스 버전*
+- **Microsoft Azure**: 모든 Microsoft Azure 솔루션 및 관련 서비스(예: 서비스 제공 인프라, PaaS, 데이터 플랫폼, BI 분석, Cognitive Services, Azure Machine Learning, Azure Stack)
+- **Windows Server**: 일반 지원 Windows Server( **[제품 수명주기](https://docs.microsoft.com/lifecycle/policies/fixed)** 에 따라 관리됨)
+  - System Center에는 클라우드 또는 하이브리드 시나리오와 관련된 경우 SCCM과 같은 관련 제품이 포함됩니다.
+- **Windows 10**: Windows 10 운영 체제, 디바이스, 유니버설 앱
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>기술 사전 판매 및 배포 서비스 요청 제출 
 
