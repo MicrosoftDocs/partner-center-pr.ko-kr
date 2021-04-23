@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715921"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894063"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>상업용 Marketplace 게시자에 대한 세금 정보
 
@@ -39,16 +39,16 @@ Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국�
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |미국령 버진 아일랜드|콩고민주공화국|저지|노퍽섬|
-|아프가니스탄|쿡 제도|요르단|우크라이나|
-|알바니아|코스타리카|카자흐스탄|바누아투|
-|알제리|코트디부아르 d'Ivore|케냐|바티칸 시국|
-|아메리칸 사모아|퀴라소|키리바시|베네수엘라|
-|안도라|Dübouti|쿠웨이트|베트남|
-|앙골라|도미니카|키르기스스탄|월리스 & 푸투나|
-|앵귈라|도미니카 공화국|라오스|예멘|
-|남극 대륙|에콰도르|레바논|잠비아|
-|앤티가 & 바부다|이집트|레소토|우루과이||북마케도니아|
-|아루바|엘살바도르|라이베리아|
+|아프가니스탄|쿡 제도|요르단|북마케도니아|
+|알바니아|코스타리카|카자흐스탄|우크라이나|
+|알제리|코트디부아르 d'Ivore|케냐|바누아투|
+|아메리칸 사모아|퀴라소|키리바시|바티칸 시국|
+|안도라|Dübouti|쿠웨이트|베네수엘라|
+|앙골라|도미니카|키르기스스탄|베트남|
+|앵귈라|도미니카 공화국|라오스|월리스 & 푸투나|
+|남극 대륙|에콰도르|레바논|예멘|
+|앤티가 & 바부다|이집트|레소토|잠비아|
+|아루바|엘살바도르|라이베리아|우루과이|
 |아제르바이잔|적도 기니|리비아|
 |방글라데시|에리트리아|마카오 특별행정구 |
 |바베이도스|에티오피아|마다가스카르|
