@@ -10,17 +10,179 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.date: 04/19/2021
+ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266523"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728932"
 ---
 # <a name="april-2021-announcements"></a>2021년 4월 공지
 
 이 페이지에서는 2021년 4월 Microsoft 파트너 센터에 대한 공지를 제공합니다.
+
+________________
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>오픈 라이선스 프로그램: 재판매인을 CSP(클라우드 솔루션 공급자) 프로그램으로 전환
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-04-19
+- 비즈니스 확장
+
+### <a name="summary"></a>요약
+
+이 알림은 곧 오픈 라이선싱 프로그램에 적용될 변경 사항에 대비하는 방법을 자세히 설명합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP 및 오픈 라이선스 파트너
+
+### <a name="details"></a>세부 정보
+
+2020년에 Microsoft는 CSP(Cloud Solution Provider) 프로그램을 통해 파트너와 고객이 영구 소프트웨어 라이선스를 광범위하게 사용할 수 있다고 [발표](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)했습니다. 첫 번째 마일스톤은 상용 영구 소프트웨어가 제공되는 2021년 1월에 달성되었습니다. 다음 주요 마일스톤은 [공공 부문](https://aka.ms/openlicensepublicsector) 제품이 제공되는 2021년 7월에 발생합니다. 또한 2022년 1월 1일부터 오픈 라이선스 프로그램을 통해 새로운 소프트웨어 라이선스를 구매하거나 Software Assurance 또는 온라인 서비스를 갱신할 수 없음을 [알려드렸습니다](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
+
+새로운 상거래 환경에서 영구 소프트웨어를 CSP 프로그램으로 전환하면 파트너가 다양한 솔루션과 관리형 서비스를 제공할 수 있는 기회를 확대할 수 있습니다. 이는 또한 고객의 클라우드 전환을 가속화할 것입니다.  파트너와 고객 모두가 원활하게 전환할 수 있도록 다음과 같은 조정 및 자료를 통해 디지털 전환을 가속화했습니다.
+
+#### <a name="april-2021"></a>2021년 4월
+
+[지금 사용 가능](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): 재판매인용 오픈 라이선스-CSP 전환 자료
+
+#### <a name="july-2021"></a>2021년 7월
+
+##### <a name="csp"></a>CSP
+
+- 7월 1일: 공공 부문 고객이 사용할 수 있는 영구 소프트웨어 라이선스
+
+- 7월 7일: Visual Studio Pro 및 모든 세그먼트에서 사용할 수 있는 Windows 정품 계약 영구 소프트웨어 라이선스 받기
+
+##### <a name="open-value"></a>Open Value
+
+- 7월 1일: 교육 및 비영리 단체용 Open Value 프로그램에서 사용할 수 있는 추가 SKU는 오픈 라이선스 프로그램과 유사한 제품을 제공합니다.
+
+##### <a name="open-license"></a>오픈 라이선스
+
+- 7월 1일: Microsoft는 더 이상 오픈 라이선스 프로그램에서 새로운 제품을 출시하지 않습니다.
+
+#### <a name="january-2022"></a>2022년 1월
+
+- 1월 1일: 오픈 라이선스 프로그램을 통해 새로 구매하거나 갱신할 수 없습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+#### <a name="csp-indirect-providers"></a>CSP 간접 공급자
+
+앞으로 몇 달 동안 파트너 커뮤니티 이벤트에 참석하고 재판매인용 오픈 라이선스-CSP 전환 자료를 사용하여 오픈 라이선스 재판매인이 CSP 프로그램에 참여할 수 있도록 지원합니다.
+
+- [재판매인용 오픈 라이선스-CSP 전환 자료](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/) — 사용자 정의 가능한 개요 프레젠테이션, 이메일 템플릿, CSP 간접 재판매인 온보딩 가이드 등을 통해 재판매인을 대규모로 채택하도록 지원합니다.
+
+- Microsoft Business Operations에서 주최하는 [CSP 파트너 커뮤니티 이벤트](https://globalpbocomm.eventbuilder.com/GlobalCSP).  다양한 세션에 참여하여 CSP 기본 사항(CSP 기초)을 배우거나 최신 정보를 확인하고 CSP의 소프트웨어에 대한 질문(Q&A 세션)을 하세요.
+
+- (예정) Microsoft Business Operations에서 주최하는 CSP 간접 재판매인 중심 교육 세션.
+
+#### <a name="open-license-resellers"></a>오픈 라이선스 재판매인
+
+- 조직이 현재 CSP 프로그램에 등록되어 있지 않은 경우 시작 방법에 대한 정보는 배포자에게 문의하세요. [여기](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)에서 간접 공급자와 연락하세요.
+
+- 조직이 이미 CSP 프로그램에 등록되어 있는 경우 [여기](https://partner.microsoft.com/resources/collection/software-in-csp)에서 CSP의 영구 소프트웨어에 대해 자세히 알아보세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이러한 제품에 대한 추가 질문은 관련 Yammer 커뮤니티를 확인하세요.
+
+________________
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>지금 라이브: 글로벌 프로모션 준비 가이드
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-04-16
+- 기능
+
+### <a name="summary"></a>요약
+
+Launch Readiness는 Operations Readiness 리소스 갤러리에 새로운 [글로벌 프로모션 준비 가이드](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf)를 공개했습니다. 이 가이드는 모든 활성 [글로벌 프로모션](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)에 대한 통합 보기를 제공합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+모든 VL(볼륨 라이선스), DPL(동적 가격표) 및 CSP(클라우드 솔루션 공급자) 파트너
+
+### <a name="details"></a>세부 정보
+
+Microsoft 파트너들은 지원 세부 정보와 함께 모든 글로벌 프로모션에 대한 통합 보기를 제공해야 할 필요성에 공감했습니다. 이 통합 가이드를 통해 중앙의 편리한 장소에서 사용 가능한 모든 정보에 쉽게 액세스할 수 있다는 확신을 가지고 프로모션을 사용할 수 있기를 원했습니다.
+
+2021년 4월부터 Microsoft는 이 가이드를 매월 업데이트하며 Operations Readiness 리소스 갤러리의 전용 글로벌 프로모션 준비 가이드 컬렉션에서 제공합니다.
+
+이 가이드에 대한 링크도 다음 컬렉션에 포함됩니다.
+
+- [일정 시작 컬렉션](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/) - 예정된 변경 사항 및 출시에 대한 중앙 집중식 보기를 제공합니다.
+
+- [커뮤니티 컬렉션](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/) - 월간 파트너 통화에 대한 지원 자료가 포함되어 있으며 향후 변경 사항과 운영상 관심이 있는 시기적절한 토픽이 강조되어 있습니다.
+
+- CSP 월별 업데이트와 같은 [파트너 뉴스레터](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)
+
+매월 알림으로, 글로벌 프로모션 준비 가이드의 새로운 이슈마다 파트너 센터 공지 사항을 게시할 것입니다.
+
+### <a name="next-steps"></a>다음 단계
+
+매월 초 [Operations Readiness 리소스 갤러리](https://partner.microsoft.com/resources)에서 최신 [글로벌 프로모션 준비 가이드](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf)를 확인할 수 있습니다.
+
+이 정보를 조직의 적절한 담당자와 공유하고 각 페이지 끝에 있는 "이 페이지가 도움이 되었습니까?" 단추를 통해 가이드가 얼마나 도움이 되었는지 알려주세요.
+
+________________
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>4월 CSP(클라우드 솔루션 공급자) 커뮤니티 업데이트 및 미리 알림
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-04-16
+- 커뮤니티 | 초대 및 미리 알림
+
+### <a name="summary"></a>요약
+
+CSP 커뮤니티 리소스는 요청 시 제공되며 매월 업데이트되어 정보를 제공하고 CSP 프로그램 변경에 대비할 수 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP 직접 청구 파트너 및 간접 공급자
+
+### <a name="details"></a>세부 정보
+
+이번 달 리소스에는 다음과 같은 주요 토픽이 포함됩니다.
+
+- [CSP 프로그램 진화 및 오픈 라이선스 프로그램 변경 내용에 대한 업데이트](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+
+- [특정 지역의 CSP 고객 온보딩 요구 사항에 대한 변경 내용](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+
+- [CSP 프로그램의 새로운 상거래 PDF 청구서의 새로운 형식](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+
+[CSP 커뮤니티 컬렉션](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)에서는 다음을 찾을 수 있습니다.
+
+- 다운로드 가능한 [CSP 월간 업데이트 뉴스레터](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global) - 최근 CSP 공지 사항, 업데이트, 이벤트 및 미리 알림을 읽기 쉬운 문서로 종합한 것입니다.
+
+- [CSP 발표 일정](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021) - 프로그램에 영향을 미칠 예정된 변경 내용에 대한 타임라인 보기를 제공합니다.
+
+- 새 [제품 출시 일정](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf) - 예정된 제품 출시 및 제안을 볼 수 있습니다.
+
+- [CSP 출시 업데이트 리소스](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) - 주요 운영 변경 내용에 대해 사용하기 쉬운 콘텐츠가 포함되어 있습니다.
+
+- 관심과 질문을 받는 주요 CSP 토픽에 대한 [리프레셔 및 미리 알림](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf).
+
+#### <a name="csp-community-call-qas"></a>CSP Community Call Q&A
+
+Community Call Q&A는 예정된 변경 내용과 관련된 질문을 통해 도움을 받을 수 있습니다. 4월, 5월, 6월에 진행되는 CSP Community Call Q&A에 지금 등록하세요. 이는 최신 출시, 중요한 리프레셔 및 미리 알림에 중점을 둡니다.
+
+[여기에서 등록하세요](https://globalpbocomm.eventbuilder.com/GlobalCSP).
+
+### <a name="next-steps"></a>다음 단계
+
+커뮤니티 리소스를 검토하고 Community Call Q&A에 등록하세요.
+
+Community Call Q&A를 최대한 활용하려면 주문형 커뮤니티 콘텐츠를 검토하고 통화 48시간 전까지 질문을 제출하세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+월간 CSP Community Call Q&A는 CSP 프로그램의 변경 내용과 관련된 질문을 하기에 가장 적합합니다. 매월 자료를 검토하고 질문을 미리 제출하면 자신에게 가장 중요한 토픽에 대한 세션을 진행할 수 있습니다.
+
+자세한 내용은 [고객 지원팀](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
 
 ________________
 ## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>미리 알림: GET 검증이 2021년 5월 4일에 사용 중단
@@ -42,7 +204,7 @@ ________________
 
 - 성공적으로 적시에 전환하기 위해 새 API로 업데이트합니다.
 
-- 운영 준비 상태 리소스인 향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스에서 [새 파트너 센터 API 변경 내용 및 가이드를 검토](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)합니다.
+- Operations Readiness 리소스인 향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스에서 [새 파트너 센터 API 변경 내용 및 가이드를 검토](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)합니다.
 
 - 이러한 변경에 대비하는 데 도움이 되도록 이 정보를 조직 내의 적절한 팀 및 재판매인과 공유합니다.
 
@@ -100,7 +262,7 @@ CSP 프로그램을 통해 거래하는 파트너
 
 ### <a name="next-steps"></a>다음 단계
 
-Microsoft 파트너 웹 사이트의 [Operations 준비 리소스 갤러리](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)에서 이 토픽에 대한 정보를 검토하세요. 청구 리소스, 청구서, CSP 청구 및 세금을 포함하여 청구 및 세금 토픽에 대한 자세한 내용은 파트너 센터의 [청구 섹션](https://docs.microsoft.com/partner-center/billing)을 방문하세요.
+Microsoft 파트너 웹 사이트의 [Operations Readiness 리소스 갤러리](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)에서 이 토픽에 대한 정보를 검토하세요. 청구 리소스, 청구서, CSP 청구 및 세금을 포함하여 청구 및 세금 토픽에 대한 자세한 내용은 파트너 센터의 [청구 섹션](https://docs.microsoft.com/partner-center/billing)을 방문하세요.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경
@@ -190,7 +352,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 ### <a name="details"></a>세부 정보
 
-Operations 준비 리소스 갤러리에서 2021년 4월 [제품 출시 일정](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)을 확인할 수 있습니다. 여기서 예정된 제품 출시 일정과 제품을 확인하세요.
+Operations Readiness 리소스 갤러리에서 2021년 4월 [제품 출시 일정](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)을 확인할 수 있습니다. 여기서 예정된 제품 출시 일정과 제품을 확인하세요.
 
 ### <a name="next-steps"></a>다음 단계
 

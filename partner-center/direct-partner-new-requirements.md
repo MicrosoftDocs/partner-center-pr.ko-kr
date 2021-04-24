@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712209"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528591"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP 직접 청구 파트너로 등록하기 위한 요구 사항
 
@@ -33,7 +33,8 @@ ms.locfileid: "104712209"
 |**MPN ID**   |제품을 판매하려는 위치의 Microsoft 파트너 네트워크 및 MPN ID의 활성 멤버 자격입니다.   |
 |**인증**   |조직 대신 법적 계약서를 수락하고 서명할 수 있는 권한입니다.|
 |**지원**   |고객을 위한 첫 번째 수준의 클라우드 제품 지원을 제공할 수 있는 능력입니다. <br/>Microsoft 지원 플랜이며, 요구 사항에 따라 파트너에 대한 고급 지원(ASfP) 또는 파트너에 대한 프리미어 지원(PSfP)입니다. [지원 플랜을 비교](https://partner.microsoft.com/support/partnersupport)해 보세요.<br/>중요: 지원 플랜을 구입하려면 먼저 신용 평가를 통과해야 합니다. 신용 평가를 통과하면 이메일을 보내 드립니다. |
-|**수익 요구 사항**|간접 재판매인으로서 지난 12개월 동안 클라우드 솔루션 공급자 프로그램 연간 수익에서 최소 USD300K를 충족해야 합니다. 파트너는 파트너 센터에서 지난 12개월 동안의 수익을 검토할 수 있습니다.<br/>지난 12개월 동안 USD300K의 수익을 구성하는 매출은 Microsoft의 검토 및 확인을 거치며 추가 정보를 제공해야 할 수 있습니다. USD300K의 수익 요구 사항은 클라우드 수익을 기반으로 계산되며 CSP의 영구 소프트웨어는 제외됩니다.|
+|**수익 요구 사항**|간접 재판매인으로서 지난 12개월 동안 클라우드 솔루션 공급자 프로그램 연간 수익에서 최소 USD300K를 충족해야 합니다. 조직이 [파트너 센터 분석](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)의 수익 요건을 충족하는지 확인합니다. 파트너는 파트너 센터에서 12개월 후의 수익을 검토할 수 있습니다.<br/>12개월 후 USD300K의 수익을 구성하는 매출은 Microsoft의 검토 및 확인을 거치며 추가 정보를 제공해야 할 수 있습니다. USD300K의 수익 요구 사항은 클라우드 수익을 기반으로 계산되며 CSP의 영구 소프트웨어는 제외됩니다.|
+|**CSP 요구 사항**|최소 12개월 동안 간접 재판매인으로 거래해야 합니다.| 
 |**수취 계정** |고객 청구와 프로비전을 관리하기 위한 조직 인프라입니다.|
 |**권장**|             |
 |**관리형 서비스**   |하나 이상의 관리되는 서비스, IP 서비스 또는 고객 솔루션 애플리케이션입니다. [관리 서비스](https://partner.microsoft.com/business-opportunities/managed-services-provider)를 추가하는 방법에 대해 자세히 알아보세요.|
@@ -41,9 +42,10 @@ ms.locfileid: "104712209"
 
 ### <a name="verify-direct-bill-eligibility"></a>직접 청구 자격 확인
 
-직접 청구 파트너로 등록하기 위한 최소 요구 사항을 충족하는지 확인한 후 [등록 양식](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)으로 진행할 수 있습니다.
+직접 청구 파트너로 등록하기 위한 최소 요구 사항을 충족하는지 확인한 후 [등록 양식](https://forms.office.com/r/0fP4fFT8n8)으로 진행할 수 있습니다.
 
 회사에서 직접 청구 파트너로 등록하기 위한 자격 요건을 충족하는 것이 확인되고 파트너가 등록 신청을 완료하면 저희 쪽에서는 파트너가 등록 프로세스에서 입력한 비즈니스 정보를 검토하고 확인합니다. 이 검토 작업의 일환으로 회사의 신용을 평가합니다. 신용 평가를 통과하면 이메일을 통해 알려드립니다.
+
 >[!IMPORTANT]
 >신용 평가에 며칠 정도 걸릴 수 있습니다. 이 기간에는 Microsoft 지원 플랜을 구매하면 안 됩니다. 반드시 신용 평가를 통과했다는 알림을 받은 후 Microsoft 지원 플랜을 구입해야 합니다.
 
