@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441560"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002827"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>일시 중단된 파트너 센터 계정 복원 - 일시 중단의 원인 및 해결 방법 알아보기
-
-이 문서에서는 파트너 센터 계정이 일시 중단되었을 때 무엇을 해야 하는지 설명합니다.
 
 **적용 대상**
 
@@ -28,6 +26,7 @@ ms.locfileid: "106441560"
 
 - 글로벌 관리자
 
+이 문서에서는 파트너 센터 계정이 일시 중단되었을 때 무엇을 해야 하는지 설명합니다.
 
 > [!IMPORTANT]  
 > 파트너 센터 계정이 일시 중단된 동안 기존 배포, 라이선스 및 서비스를 계속 관리할 수 있습니다. 그러나 계정이 다시 양호한 상태가 될 때까지 새 라이선스 또는 서비스를 승인하거나 재판매할 수 없습니다.

@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028454"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002878"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>파트너 센터를 사용하여 상용 마켓플레이스 제품에 대한 고객 구독 판매
+
+**적절한 역할**
+
+- 영업 상담원
 
 CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에 게시 된 SaaS (Software as a Service) 제품에 고객 구독을 판매할 수 있습니다.
 

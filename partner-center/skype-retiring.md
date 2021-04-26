@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028420"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002861"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>비즈니스용 Skype Online 계획 1 구독을 최신 Office 365 버전으로 마이그레이션
+
+**적절한 역할**
+
+- 영업 상담원
 
 비즈니스용 Skype Online 요금제 1은 2018 년 8 월 1 일부 터 사용이 중지 됩니다. 이 날짜 이후에는 고객이 새 비즈니스용 Skype 요금제 1 구독을 더 이상 구매할 수 없으며 기존 구독은 만료 될 때 자동으로 갱신 되지 않으며 갱신 옵션을 제공 하지 않습니다. 구독의 세부 정보 페이지에서 비즈니스용 Skype Online 계획 1 구독 상태가 "만료 날짜 [날짜]"로 변경 되었습니다.  
 
@@ -76,3 +80,8 @@ Microsoft는 파트너에 게 새로운 제품과 서비스를 지속적으로 �
 
 이전 구독이 일시 중단 되었고 새 구독은 활성 상태입니다. 일시 중단 된 구독은 120 일 후에 자동으로 프로 비전 해제 됩니다. 고객은 이전 구독에 대 한 추가 비용 없이 발생 합니다.
 
+## <a name="next-steps"></a>다음 단계
+
+- [Advisor: 클라이언트에서 Office 365을 사용해 볼 수 있는 평가판 초대 만들기 및 보내기](advisors-create-a-trial-invitation.md)
+- [Advisor: Office 365 평가판 초대 및 구매 제안을 사용 하 여 클라이언트 기반 빌드](advisors-build-your-business.md)
+- [관리자: 구매 제안 만들기](advisor-create-a-purchase-offer.md)

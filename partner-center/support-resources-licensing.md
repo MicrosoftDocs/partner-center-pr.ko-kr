@@ -8,15 +8,18 @@ description: Microsoft 파트너는 다른 Microsoft 라이선스 프로그램 �
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756806"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002905"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft 파트너를 위한 리소스 라이선싱 가이드 
 
+**적절한 역할**
+
+- 도움말 에이전트
 
 이 문서는 파트너 라이선스 질문에 대답할 수 있는 리소스를 공유 합니다.
 
