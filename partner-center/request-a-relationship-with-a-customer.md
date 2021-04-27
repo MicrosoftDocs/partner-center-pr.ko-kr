@@ -8,14 +8,19 @@ description: 다중 파트너, 다중 채널 시나리오에 대해 고객과의
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548974"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018138"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객의 재판매인 관계를 요청하는 방법
+
+**적절한 역할**
+
+- 관리 에이전트
+- 글로벌 관리자
 
 고객의 서비스 또는 구독을 대신 하 여 관리 하려는 경우 고객은 해당 서비스 또는 구독에 대 한 관리자 권한을 부여 하 고 Microsoft 고객 계약에 서명 해야 합니다.
 
@@ -38,7 +43,7 @@ ms.locfileid: "105548974"
 
 4. 고객에게 이메일을 보냅니다.
 
-5. 고객이 초대를 수락하면 **고객** 페이지에 고객이 표시되고, 여기서 고객의 서비스를 프로비저닝하고 관리할 수 있습니다.
+5. 고객이 초대를 수락 하면 고객 페이지에 표시 되 고, **고객에** 대 한 서비스를 프로 비전 하 고 관리할 수 있습니다.
 
    > [!NOTE]
    > 고객이 Microsoft 고객 계약을 아직 수락 하지 않은 경우 초대를 수락 하 라는 메시지가 표시 됩니다. 초대를 수락 하려면 고객이 전역 관리자 여야 합니다.

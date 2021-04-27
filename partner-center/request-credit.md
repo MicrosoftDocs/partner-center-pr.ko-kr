@@ -9,14 +9,19 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103828"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018155"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft의 SLA (서비스 수준 계약) 크레딧을 요청 하는 방법 및 시기
+
+**적절한 역할**
+
+- 관리 에이전트
+- 글로벌 관리자
 
 고객에 대해 제공 하는 서비스의 작동이 중단 되는 경우 Microsoft에서 **SLA (서비스 수준 계약) 크레딧을** 요청할 수 있습니다.
 
@@ -51,7 +56,7 @@ Microsoft의 SLA 크레딧을 영향을 받는 서비스에 따라 결정 됩니
 - 영향을 받는 사용자의 수 및 위치 (해당 하는 경우)
 - 발생할 때 인시던트를 해결 하려는 시도에 대 한 설명
 - 영향을 요청 하는 고객의 전자 메일 및 이후 크레딧
-- 서비스 영향을 해결 하는 것과 관련 하 여 고객의 연락처에 대 한 지원 티켓 번호 및 세부 정보
+- 서비스 영향 해결에 관한 고객 연락처의 지원 티켓 번호 및 세부 정보
 
 
 #### <a name="outage-incident-identifier"></a>중단 인시던트 식별자

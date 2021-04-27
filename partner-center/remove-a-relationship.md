@@ -9,14 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 133df7a2e6fdcf9aad48d3937b04dac33c93122a
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: d6ff07d2c54d006478b290ad53c024a55dea4e18
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549093"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018104"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>파트너 센터에서 고객과 재판매인 관계를 제거하는 방법
+
+**적절한 역할**
+
+- 글로벌 관리자
 
 이 문서에서는 파트너 센터에서 고객과 대리점 관계를 제거 하는 방법을 설명 합니다.
 

@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623986"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018070"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항
+
+**적절한 역할**
+
+- 글로벌 관리자
 
 ## <a name="overview"></a>개요
 
@@ -58,8 +62,8 @@ ms.locfileid: "99623986"
 - 기존 라이선스 기반 구독의 라이선스 수 조정
 
 - 구독에 대 한 기존 추가 기능의 라이선스 수를 조정 합니다. 
- 
-    >[!Note] 
+
+    >[!Note]
     >새 구매로 처리 되는 기존 구독에 새 추가 기능을 추가할 수 없습니다.
 
 - 기존 azure 구독에서 새 Azure 리소스를 배포 하 고 기존 Azure 리소스를 관리 합니다. 여기에는 Azure Marketplace 및 Visual Studio 구독을 통해 제공 되는 리소스가 포함 됩니다.
@@ -73,7 +77,7 @@ ms.locfileid: "99623986"
     >[!NOTE]
     >직접 청구 파트너에서 간접 재판매인으로 전환 하는 과정의 일환으로, 직접 청구 파트너 테 넌 트를 간접 재판매인으로 등록 한 경우 대신 간접 대리점 관계를 요청 하는 고객에 게 초대를 생성할 수 있습니다.
 
-- 새 샌드박스 테 넌 트를 만들 수 없습니다. 각 직접 청구 파트너 테 넌 트는 직접 청구 API 통합을 위해 하나의 샌드박스 테 넌 트를 만들 수 있습니다. 이전에 만든 적이 없는 경우 청구서 파트너 기능이 제한 된 후에는이 작업을 수행할 수 없습니다.  
+- 새 샌드박스 테 넌 트를 만들 수 없습니다. 각 직접 청구서 파트너 테 넌 트는 직접 청구 API 통합을 위해 하나의 샌드박스 테 넌 트를 만들 수 있습니다. 이전에 만든 적이 없는 경우 직접 청구 파트너 기능이 제한 된 후에는이 작업을 수행할 수 없습니다.  
 
 ## <a name="next-steps"></a>다음 단계
 

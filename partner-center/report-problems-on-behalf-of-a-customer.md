@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441951"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018121"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441951"
 
 **적절한 역할**
 
-- 간접 공급자
+- 글로벌 관리자
 
 고객이 해결할 수 없는 서비스 문제가 발생 하 고 [문제를 Microsoft로 에스컬레이션](escalate-problems-to-microsoft.md)에 설명 된 조건을 충족 하는 경우 간접 공급자는 해당 서비스에 대 한 지원 티켓을 파일로 보낼 수 있습니다. 이 프로세스는 청구 문제 또는 분쟁를 에스컬레이션 하는 경우와 사기 문제에도 유용 합니다.
 
@@ -109,7 +109,7 @@ ISV의 연락처 정보를 찾으려면 다음을 수행합니다.
 
 서비스 요청은 파트너 센터를 통해 정리 되어야 합니다. Azure, Microsoft Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite에서 사용할 수 있습니다. 클라우드 솔루션 공급자 프로그램에 참여하는 파트너는 중요한 문제에 대한 우선 응답 시간을 예측할 수 있습니다.
 
-자체 파트너 테 넌 트에 대 한 지원은 CSP 지원 혜택의 일부로 포함 되지 않습니다. 그러나 Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite는 파트너 또는 고객에 대 한 별도의 지원 구독 요금을 청구 하지 않습니다. Azure는 요금을 청구 하지만 클라우드 지원 또는 MPN (기타 Microsoft 파트너 네트워크) 혜택을 서명 하는 데 사용할 수 있는 경우 이러한 요금을 지불 하는 데 사용할 수 있습니다.
+자체 파트너 테 넌 트에 대 한 지원은 CSP 지원 혜택의 일부로 포함 되지 않습니다. 그러나 Office 365, Microsoft Dynamics CRM Online 및 Enterprise Mobility Suite는 파트너 또는 고객에 대 한 별도의 지원 구독 요금을 청구 하지 않습니다. Azure는 요금을 청구 하지만 클라우드 지원 또는 기타 MPN (기타 Microsoft 파트너 네트워크) 혜택을 받을 자격이 있는 경우 이러한 혜택을 통해 요금을 지불할 수 있습니다.
 
 이 혜택은 유료 버전이든, 평가 기간이든 관계없이 클라우드 솔루션 공급자 프로그램에 참여하는 모든 파트너에게 적용됩니다. 청구 및 구독 관리 지원도이 패키지의 무료 구성 요소로 포함 되어 있습니다.
 
