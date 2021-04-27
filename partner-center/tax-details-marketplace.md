@@ -5,13 +5,13 @@ ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/16/2021
-ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
-ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
+ms.date: 04/26/2021
+ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107927750"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067442"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>상업용 Marketplace 게시자에 대한 세금 정보
 
@@ -86,7 +86,7 @@ Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국�
 |벨라루스|독일|몰타|슬로베니아|
 |불가리아|그리스|모나코|남아프리카 공화국|
 |벨기에|헝가리|네덜란드|대한민국|
-|캐나다|아이슬란드|뉴질랜드|스페인|
+|Canada|아이슬란드|뉴질랜드|스페인|
 |칠레|인도|노르웨이|스웨덴|
 |콜롬비아|인도네시아|폴란드|스위스|
 |크로아티아|아일랜드|포르투갈|대만|
@@ -119,11 +119,44 @@ Microsoft는 게시자/개발자가 Microsoft Marketplace를 통해 최종 고�
 |**국가**|**상업적 마켓플레이스**|**소비자 마켓플레이스**|
 |----------------|-----------------------------|-----------------------|
 |오스트레일리아|서비스 요금 세금|서비스 요금 세금|
-|캐나다|서비스 요금 세금|서비스 요금 세금|
+|Canada|서비스 요금 세금|서비스 요금 세금|
 |멕시코|해당 없음|서비스 요금 세금|
 |뉴질랜드|서비스 요금 세금|서비스 요금 세금|
 |싱가포르|서비스 요금 세금|서비스 요금 세금|
 
+## <a name="commercial-marketplace-payout-scenarios"></a>상업적 Marketplace 지급 시나리오
+
+### <a name="end-customer-taxation"></a>최종 고객 세금
+
+- 시나리오 1: 고객이 게시자에서 관리 하는 국가의 구매 제안
+
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="게시자의 지불 방식을 보여 주는 차트입니다.":::
+
+- 시나리오 2: Microsoft에서 관리 하는 국가 구매 제품의 고객 (게시자 국가는 관련이 없음)
+
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft에서 관리 하는 국가의 세금를 보여 주는 차트":::
+
+- 시나리오 3: 외부 게시자는 Microsoft에서 관리 하는 국가에 거주 하는 EU VAT 등록 고객에 게 교차 테두리 판매를 만듭니다.
+
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU VAT의 세금 영향을 보여 주는 차트"::: 
+
+- 시나리오 4: 외부 게시자는 Microsoft에서 관리 하는 국가 또는 스위스의 고객에 게 국내 판매를 사용 하는 고객에 게 국내 판매를 만듭니다.
+
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="VAT를 처리 하는 방법을 보여 주는 차트":::
+
+- 시나리오 5: 고객이 매장 서비스 요금에 대 한 세금을가지고 있는 Microsoft에서 관리 하는 국가의 구매 제안
+
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="매장 서비스 요금이 세금에 미치는 영향을 보여 주는 차트":::
+
+### <a name="withholding-tax"></a>원천 세금
+
+- 시나리오 1: 외부 게시자 (세금 프로필에 적용 되는 세금 협약 혜택 없음)를 미국 고객에 게 판매 합니다. 
+
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="세금 협약을 사용 하지 않는 원천 세금을 보여 주는 차트":::
+
+- 시나리오 2: 외부 게시자 (세금 프로필에 적용 되는 세금 조약에서 0% 요금이 적용 됨), 조약에서 미국 고객에 게 판매를 만듭니다. 
+
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="세금 협약의 원천 세금을 보여 주는 차트":::
 
 ## <a name="next-steps"></a>다음 단계
 
