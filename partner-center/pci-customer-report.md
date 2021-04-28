@@ -9,16 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220501"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120837"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>파트너 센터 정보에서 고객 대시보드 보고서
 
-고객 대시보드는 Office, Azure, Dynamics 등의 클라우드 제품을 구입한 고객의 데이터를 제공 하거나 사용자가 테 넌 트에 이러한 제품을 배포 하 고 관리 하는 데 사용할 수 있습니다. 
+**적절한 역할**
+
+- 글로벌 관리자
+- 관리 에이전트
+- 보고서 뷰어
+- 임원 보고서 뷰어
+
+고객 대시보드는 Office, Azure, Dynamics 등의 클라우드 제품을 구입한 고객의 데이터를 고객에 게 제공 하거나 사용자가 테 넌 트에 배포 하 고 관리 하는 데 사용 했습니다. 
  
 고객 대시보드에는 다음과 같은 섹션이 있습니다. 
 
@@ -56,7 +63,7 @@ ms.locfileid: "89220501"
 
 ### <a name="customers-churned"></a>고객 변동
 - 선택한 기간 동안 매월 변동 모든 고객의 수입니다. 고객이 활성 상태의 단일 구독을 보유 하지 않은 경우 고객은 손실 된 것으로 간주 됩니다. 
-- 선택한 날짜 범위 동안 변동%의 고객 
+- 선택한 날짜 범위 동안 변동 된 고객 비율 
 - 마이크로 차트는 선택한 기간 동안 변동 고객의 월 한 달 추세를 제공 합니다. 
  
 ### <a name="customers-by-products"></a>제품별로 고객
@@ -77,7 +84,7 @@ ms.locfileid: "89220501"
 
 ## <a name="customer-distribution"></a>고객 배포
 
-MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 유형 (예: DPOR, DAP 등)으로 현재 고객을 분석 합니다. 차트 위의 해당 탭을 클릭 하 여 이러한 범주의 분석 결과를 볼 수 있습니다. 범례 항목을 선택 하 여 특정 차원을 선택/선택 취소 하 여 차트를 다시 작성할 수 있습니다. 
+MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 유형 (예: DPOR, DAP)에 따라 현재 고객을 분석 합니다. 차트 위의 각 탭을 선택 하 여 이러한 범주의 분석 결과를 볼 수 있습니다. 범례 항목을 선택 하 여 특정 차원을 선택/선택 취소 하 여 차트를 다시 작성할 수 있습니다. 
 
 ## <a name="customers-by-products"></a>제품별로 고객
 
@@ -87,7 +94,7 @@ MPN 위치, 고객 부문, 판매 채널/Azure 가격 책정 모델 및 특성 �
 
 ## <a name="customer-distribution-trend"></a>고객 분포 추세 
 
-시장, 부문, 고객이 획득 한 MPN 위치 및 제품을 기준으로 선택 된 날짜 범위 동안 고객의 배포에 대 한 월별 추세입니다. 차트에서 해당 탭을 클릭 하면 이러한 범주의 추세를 볼 수 있습니다. X 축은 선택한 날짜 범위의 월을 나타내고 Y 축은 선택한 범주 (탭 선택)에 대 한 고객 수를 포함 합니다. 차트 열을 마우스로 가리키면 각 스택의 분할 값을 볼 수 있습니다. 차트 위에 있는 슬라이더를 활용 하 여 특정 기간으로 확대할 수 있습니다.   
+시장, 부문, 고객이 획득 한 MPN 위치 및 제품을 기준으로 선택 된 날짜 범위 동안 고객의 배포에 대 한 월별 추세입니다. 이러한 범주의 추세를 보려면 차트에서 해당 탭을 선택 합니다. X 축은 선택한 날짜 범위의 월을 나타내고 Y 축은 선택한 범주 (탭 선택)에 대 한 고객 수를 포함 합니다. 차트 열을 마우스로 가리키면 각 스택의 분할 값을 볼 수 있습니다. 차트 위에 있는 슬라이더를 활용 하 여 특정 기간으로 확대할 수 있습니다.   
 
 :::image type="content" source="images/pci/customerdistri.png" alt-text="시장, 부문, 파트너 위치 또는 제품별로 볼 수 있는 가로 막대형 차트를 보여 주는 고객 분포 추세 보고서의 스크린샷":::
 

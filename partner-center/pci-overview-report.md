@@ -4,21 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 라이선스, 구독 및 Azure 사용량에 대 한 판매 및 배포, 고객 성장 및 수익 증가에 대 한 스냅숏을 참조 하세요.
+description: 라이선스, 구독 및 Azure 사용량과 함께 판매 및 배포, 고객 성장 및 수익 증가를 어떻게 수행 하는 방법에 대 한 스냅숏을 참조 하세요.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220491"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120820"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>파트너 센터 정보에서 사용할 수 있는 개요 대시보드 보고서
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>파트너 센터 인사이트에서 사용할 수 있는 개요 대시보드 보고서
  
-Insights 개요 대시보드는 고객, 구독, Azure 소비 수익, 라이선스 등의 핵심 성과 지표에 대 한 스냅숏 보기를 제공 합니다. 개요 보고서에서 다음 차트를 시각화할 수 있습니다.
+**적절한 역할**
+
+- 글로벌 관리자
+- 관리 에이전트
+- 보고서 뷰어
+- 임원 보고서 뷰어
+
+Insights 개요 대시보드에서는 고객, 구독, Azure 소비 수익, 라이선스 등의 핵심 성과 지표에 대 한 스냅숏 보기를 제공 합니다. 개요 보고서에서 다음 차트를 시각화할 수 있습니다.
 
 - 요약  
 - 고객, 구독 및 라이선스의 지리적 확산  
@@ -33,7 +40,7 @@ Insights 개요 대시보드는 고객, 구독, Azure 소비 수익, 라이선�
 
 :::image type="content" source="images/pci/summary.png" alt-text="요약 라이선스":::
 
-요약의 각 섹션에 대 한 자세한 내용은 아래를 참조 하세요.
+요약의 각 섹션에 대 한 자세한 내용은 다음을 따릅니다.
 
 ### <a name="customers"></a>고객
 
@@ -80,7 +87,7 @@ Insights 개요 대시보드는 고객, 구독, Azure 소비 수익, 라이선�
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>고객, 구독 및 라이선스의 지리적 확산
 
-이 보기는 고객 국가의 총 고객, 구독 및 라이선스에 대 한 지리적 분포입니다. 지도에서 이러한 각 정보를 보려면 다른 탭을 클릭 합니다. 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 홈 단추를 눌러 원래 뷰로 되돌립니다. 각 탭 (예: 고객, 구독)을 클릭 하면 각 국가의 메트릭 값 뿐만 아니라 해당 국가의 총%가 표시 됩니다.  
+이 보기는 고객 국가의 총 고객, 구독 및 라이선스에 대 한 지리적 분포입니다. 지도에서 이러한 각 정보를 보려면 다른 탭을 선택 합니다. 표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 홈 단추를 눌러 원래 뷰로 되돌립니다. 각 탭 (예: 고객, 구독)을 클릭 하면 각 국가의 메트릭 값과 해당 국가의 총 백분율이 표시 됩니다.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="지리적 요약":::
 
