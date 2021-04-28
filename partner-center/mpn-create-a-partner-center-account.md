@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266540"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120803"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>파트너 센터에서 MPN 계정을 만들어 네트워크 혜택 및 역량 관리
 
+**적절한 역할**
+
+- MPN 파트너 관리자
 
 MPN(Microsoft 파트너 네트워크)을 처음 사용하고 MPN ID가 없는 경우 [등록 지침](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)에 따라 등록을 시작할 수 있습니다.
 
