@@ -8,18 +8,18 @@ description: Microsoft 파트너는 고객이 나 특정 프로그램에 도움�
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041049"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172339"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>프로그램, 라이선스 또는 고객 거래에 대 한 질문에 대답 하는 파트너 또는 솔루션 공급자를 찾습니다. 
 
-**적용 대상**
+**적절한 역할**
 
-- Microsoft MPN 파트너, CSP 파트너 및 기타
+- 모든 Microsoft 파트너
 
 이 문서는 Microsoft 파트너에 게 Microsoft 제품 및 서비스에 대 한 고객의 성공을 도울 수 있는 다른 파트너를 찾는 방법을 알려줍니다.
 

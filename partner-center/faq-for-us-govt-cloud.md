@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c6625e2e35cee5d410a22c4a384012a294a97b5d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441475"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172373"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 파트너 센터의 질문과 대답 Microsoft 클라우드
 
@@ -21,17 +21,21 @@ ms.locfileid: "106441475"
 
 - Microsoft Cloud for US Government 파트너 센터
 
+**적절한 역할**
+
+- 글로벌 관리자
+
 ## <a name="general-questions"></a>일반적인 질문
 
-이러한 질문과 대답을 사용 하 여 미국 정부에 대 한 Microsoft 클라우드의 CSP (클라우드 솔루션 공급자) 프로그램에 대해 자세히 알아보세요. 추가 정보는 계정 관리자에 게 문의할 수도 있습니다.
+이러한 질문과 대답을 사용 하 여 미국 정부에 대 한 Microsoft 클라우드의 CSP (클라우드 솔루션 공급자) 프로그램에 대해 자세히 알아보세요. 자세한 내용은 계정 관리자에 게 문의할 수도 있습니다.
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government란 무엇인가요?
 
-미국 정부를 위해 처음부터 미국 정부를 위해 설계 된 Microsoft 클라우드 미국 정부에 대 한 미국 내 공공 부문 고객은 대기업에서 소규모 정부 기관에 이르는 다양 한 클라우드 컴퓨팅 서비스에서 선택할 수 있습니다. 고객의 특정 요구를 가장 잘 해결 하기 위해 Microsoft는 데이터 센터에 상당한 투자를 하 고 있으며 미국 연방 및 주 정책, 요구 사항 및 요구 사항에 대 한 준수를 전담 합니다.
+미국 정부를 위해 처음부터 미국 정부를 위해 설계 된 Microsoft 클라우드 미국 정부에 대 한 미국 내 공공 부문 고객은 대기업에서 소규모 정부 기관에 이르는 다양 한 클라우드 컴퓨팅 서비스에서 선택할 수 있습니다. 고객의 특정 요구를 해결 하기 위해 Microsoft는 데이터 센터에 상당한 투자를 했으며 미국 연방 및 주 정책, 요구 사항 및 요구 사항에 대 한 준수를 전담 합니다.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램은 누구 인가요?
 
-정부 용량에서 미국 연방, 주 및 지방 정부 기관에 대해 미국 연방, 주 및 지방 정부 단체를 제공 하는 미국의 파트너는 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 적합 합니다. Microsoft는 파트너가 미국 정부에 대 한 Microsoft 클라우드에 액세스할 수 있을 때 자격을 확인 하기 위한 엄격한 유효성 검사 프로그램을 갖추고 있습니다. 자격을 얻으려면 정부 고객과 함께 작업 하는 것을 입증 해야 합니다. Microsoft에서 미국 정부 기관에 대 한 등록 프로세스는 유효성 검사를 수행 하기 위해 추가 데이터를 캡처하기 위해 확대 되었습니다. 증명 형식에는 정부 고객의 정부 계약 번호 및 보증 품목이 포함 되지만이에 국한 되지 않습니다.
+정부 용량에서 미국 연방, 주 및 지방 정부 기관에 대해 미국 연방, 주 및 지방 정부 단체를 제공 하는 미국의 파트너는 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 적합 합니다. Microsoft는 파트너가 미국 정부에 대 한 Microsoft 클라우드에 액세스할 수 있을 때 자격을 확인 하기 위한 엄격한 유효성 검사 프로그램을 갖추고 있습니다. 자격을 얻으려면 정부 고객과 함께 작업 하는 것을 입증 해야 합니다. Microsoft에서 미국 정부 기관에 대 한 등록 프로세스는 유효성 검사를 수행 하기 위해 더 많은 데이터를 캡처하기 위해 확대 되었습니다. 증명 형식에는 정부 고객의 정부 계약 번호 및 보증 품목이 포함 되지만이에 국한 되지 않습니다.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>고객 제시 가격은 CSP Commercial과 동일한가요?
 
@@ -93,11 +97,11 @@ MCDA (Microsoft 클라우드 배포자 계약)는 CSP를 통해 판매할 수 �
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 판매에 대 한 자격은 무엇 인가요?
 
-미국 정부에 대 한 Microsoft 클라우드 용 CSP 프로그램을 판매 하는 데 필요한 자격 조건은 직접 파트너와 간접 대리점 모두에 게 오픈 CSP 상용에 대 한 자격 기준과 동일 합니다. CSP 상업적에 대 한 간접 재판매인으로 승인 된 경우 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램의 간접 재판매인으로 다시 지정할 필요가 없습니다.
+미국 정부에 대 한 Microsoft 클라우드 용 CSP 프로그램을 판매 하는 데 필요한 자격 조건은 직접 파트너와 간접 대리점 모두에 게 오픈 CSP 상용에 대 한 자격 기준과 동일 합니다. CSP 상용에 대 한 간접 재판매인으로 승인 된 경우 미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에 대 한 간접 재판매인 이라고 할 필요가 없습니다.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>기존 파트너입니다. 미국 정부에 대 한 Microsoft 클라우드를 판매 하려면 어떻게 해야 하나요?
 
-파트너는 규정 및 규정 준수 요구 사항을 충족 하기 위해 미국 정부 기관에 Microsoft 클라우드 위해 CSP 프로그램에 등록 해야 합니다. (미국 정부에 대 한 Microsoft 클라우드 등록은 CSP 상업적 등록에 대 한 온 보 딩과는 별개입니다.) 등록 한 후에는 미국 정부에 대 한 Microsoft 클라우드 내에서 제공 되는 고객 및 거래 제품을 만들 수 있습니다. Api를 활용 하는 경우 [Microsoft 국가별 클라우드의 파트너 센터 개발](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)을 참조 하세요.
+파트너는 규정 및 규정 준수 요구 사항을 충족 하기 위해 미국 정부 기관에 Microsoft 클라우드 위해 CSP 프로그램에 등록 해야 합니다. (미국 정부에 대 한 Microsoft 클라우드 등록은 CSP 상업적 등록에 대 한 온 보 딩과는 별개입니다.) 등록 한 후에는 미국 정부에 대 한 Microsoft 클라우드 내에서 제공 되는 고객 및 거래 제품을 만들 수 있습니다. Api를 사용 하는 경우 [Microsoft 국가별 클라우드의 파트너 센터 개발](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)을 참조 하세요.
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>파트너의 성과급에 차이가 있나요?
 
@@ -150,7 +154,7 @@ IaaS (Infrastructure as a service) 및 기본 플랫폼과 데이터 제공을 �
 
 ### <a name="is-there-a-workaround-for-apis-not-available-in-the-csp-program-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 CSP 프로그램에서 사용할 수 없는 Api에 대 한 해결 방법이 있나요?
 
-파트너는 Azure Portal, Azure AD PowerShell 또는 파트너 사용자 계정 관리에 대 한 Graph API를 사용할 수 있습니다. 추가 기술 정보는 [정부 클라우드의 파트너 센터를 사용 하 여 개발](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)을 참조 하세요.
+파트너는 Azure Portal, Azure AD PowerShell 또는 파트너 사용자 계정 관리에 대 한 Graph API를 사용할 수 있습니다. 자세한 기술 정보는 [정부 클라우드의 파트너 센터를 사용 하 여 개발](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)을 참조 하세요.
 
 ## <a name="questions-about-other-resources"></a>다른 리소스에 대 한 질문
 

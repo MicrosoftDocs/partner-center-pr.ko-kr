@@ -9,14 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528576"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172220"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 계획 소비에 대 한 유효 단위 가격 계산
+
+**적절한 역할**
+
+- 청구 관리자
 
 ## <a name="the-effective-unit-price"></a>유효 단가
 
@@ -57,7 +61,7 @@ ms.locfileid: "107528576"
 >참고:이 예제의 미터에는 가격 책정 또는 기타 할인이 포함 되지 않습니다. 할인 백분율 및 기타 조정의 유효 단가 요소가 있습니다.
 
 
-| 날짜 | BCU (청구 가능한 소비 단위) | BC (청구 가능 비용) | 유효 단가 |
+| Date | BCU (청구 가능한 소비 단위) | BC (청구 가능 비용) | 유효 단가 |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-8 월 | 29 | 21.39 | 0.737586206896552 |
 | 10-8 월 | 210.950039 | 155.63 | 0.737757626107858 |

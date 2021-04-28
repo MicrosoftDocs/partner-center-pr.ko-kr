@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120752"
+ms.locfileid: "108172435"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>나중에 더 많은 기회를 얻을 수 있도록 파트너 센터에서 승리한 거래를 등록 합니다.
+
+**적절한 역할**
+
+- 조회 관리자
 
 파트너 센터에서 계약에 대한 추가 정보를 입력하여 성공한 거래를 등록할 수 있습니다. 이 정보는 향후에 더 많은 기회를 제공하는 데 도움이 됩니다.
 
