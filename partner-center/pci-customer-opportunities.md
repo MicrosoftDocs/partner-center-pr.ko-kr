@@ -7,13 +7,13 @@ ms.subservice: partnercenter-csp
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.date: 09/18/2020
-ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 04/27/2021
+ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086960"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213455"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>파트너 센터 대시보드에서 사용할 수 있는 CloudAscent 성향 보고서
 
@@ -22,47 +22,48 @@ ms.locfileid: "106086960"
 - 임원 보고서 뷰어
 - 보고서 뷰어
 
-파트너 센터 대시보드는 CloudAscent 프로그램에서 다운로드 가능한 성향 데이터를 제공 합니다. 데이터는 고객의 성향 Microsoft 제품 구매를 보여 줍니다.  이 문서에서는 이러한 데이터의 분석, 점수 매기기 사용 방법 및 의미에 대해 설명 합니다.
+파트너 센터 대시보드는 CloudAscent 프로그램에서 다운로드 가능한 성향 데이터를 제공 합니다. 데이터는 고객의 Microsoft 제품 구매 가능성을 보여 줍니다.  이 문서에서는 이러한 데이터의 분석, 점수 매기기 사용 방법 및 의미에 대해 설명 합니다.
 
 ## <a name="summary-definitions"></a>요약 정의
 
 - **SMC 고객**– 성향 다운로드에 있는 고객의 총 수입니다.  고객은 레코드 파트너에 의해 식별 됩니다.
 - **계약 만료**– 현재 회계 연도 내에서 만료 되는 계약 수를 제공 하 고 있습니다.
-- **만료 된 수익**– 만료 되는 계약과 관련 된 수익입니다.
 - 열린 **만료 수익**– 미해결 계약에 연결 된 수익입니다.
 
-:::image type="content" source="images/pci/cust-oppor-1.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
+:::image type="content" source="images/pci/cust-oppor-11.png" alt-text="고객 기회 요약 대시보드의 스크린샷":::
 
 ## <a name="cloudascent-smb-segmentation"></a>CloudAscent SMB 조각화
 
-SMB (중소기업) 세그먼트는 세 개의 고유한 하위 세그먼트로 추가로 나뉩니다.
+SMB (중소기업) 세그먼트는 세 개의 고유한 하위 세그먼트로 나뉩니다.
 
-1. **상위 관리 되지 않음** 에는 Microsoft에 대 한 기회가 가장 많은 대규모 SMB 고객이 포함 됩니다. 일반적으로 상위 관리 되지 않는 고객은 관리 되는 계정, 많은 직원, 대규모 IT 예산 및 지출, Microsoft에 대 한 대량의 잠재적 수익 등의 비슷한 특징을 공유 합니다.
+1. **상위 관리 되지 않음** 에는 Microsoft에 대 한 기회가 가장 많은 대규모 SMB 고객이 포함 됩니다. 일반적으로 관리 되는 상위 관리 되지 않는 고객은 많은 직원, 대규모 IT 예산 및 지출, Microsoft에 대 한 많은 잠재적 수익을 포함 하 여 관리 되는 계정에 유사한 특성을 공유 합니다.
 
-   다음은 관리 되지 않는 상위 두 가지 방법을 정의 합니다.
+   다음 두 가지 방법으로 관리 되지 않는 상위 관리를 정의 합니다.
 
    - **상위 관리 되지 않는 사용자 기반**-300 이상의 직원이 포함 된 계정이 포함 되어 있습니다. User-Based 계정은 처음 구매 하거나 Microsoft 365, Dynamics 365 또는 화면과 같은 사용자 기반 구독 제품을 확장 하는 데 적합 한 대상입니다.
    - **상위 관리 되지 않는 계산 기반** – Azure 잠재력이 $10k 보다 큰 계정을 포함 합니다. 계산 기반 계정에는 기존 Azure가 포함 됩니다. 미래의 연간 잠재력 및 Azure를 아직 구매 했지만 $10k 보다 더 큰 Azure가 있는 계정에 대 한 계정입니다.
 
 2. **중간 규모 비즈니스** 는 기존 고객을 포함 하 고, 25-300 명의 직원이 있는 잠재 고객 계정을 포함 합니다.
 
-3. **소규모 비즈니스** 에는 직원 수가 25 명 미만인 모든 남은 기업이 포함 됩니다.
+3. **중소기업** 은 10-25 직원을 포함 하는 비즈니스를 포함 합니다.
+
+4. **소규모 비즈니스** 는 직원 들이 1-9 인 비즈니스를 포함 합니다.
 
 :::image type="content" source="images/pci/cust-oppor-2.png" alt-text="SMC 유형별 고객.":::
 
 **상위 관리 되지 않는 상위** 및 **중간 규모 비즈니스** 하위 세그먼트는 microsoft 및 microsoft 파트너에 대 한 ltv (high time value) 고객을 나타냅니다. 이로 인해이 세그먼트의 증가를 추진 하는 데 중점을 두는 부분이 있습니다. 이러한 두 개의 하위 세그먼트에서 Microsoft 365를 사용 하 여 소켓을 획득 하 고 D365/Azure LOB (기간 업무) 앱을 추가로 수익 창출 하 고, Microsoft에 대 한 고급 LTV를 실현 하는 것이 더 좋습니다.
 
-현재는 두 가지 주요 영역인 고객은 성장을 추가 합니다. sr-2. Microsoft 365를 사용 하는 클라우드 소켓을 잘 활용 하는 동시에 D365 및 Azure에서 많은 기회를 얻을 수 있습니다.
+현재는 두 가지 주요 영역인 고객은 성장을 추가 합니다. sr-2. Microsoft 365를 사용 하는 클라우드 소켓을 잘 활용 하는 동시에 Dynamics 365 및 Azure에서 많은 기회를 제공 합니다.
 
-다음 스크린샷은 세 가지 SMB 하위 세그먼트와 시장에 최적화 된 경로를 나타냅니다. CloudAscent는 관리 되지 않는 모든 상위 및 중간 규모 비즈니스 계정의 프로 파일링, 점수 매기기 및 모델링 우선 순위를 지정 합니다.
+다음 스크린샷은 4 개의 SMB 하위 세그먼트를 나타냅니다. CloudAscent는 관리 되지 않는 모든 상위 및 중간 규모 비즈니스 계정의 프로 파일링, 점수 매기기 및 모델링 우선 순위를 지정 합니다.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="SMB subsegments의 스크린샷":::
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="SMB subsegments의 스크린샷":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
 SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및 중간 규모 비즈니스 부문에서 판매 및 마케팅 고객 예측을 구동 합니다. 신호가 어떻게 수집 되 고 성향 권장 사항으로 설정 되나요?
 
-- **데이터 수집**: 웹 크롤러는 회사 도메인에 대해 ping을 수행 하 여 수십억 개의 고객 신호를 검색 하 고 수집 하 고, 블로그 게시물, 보도 릴리스, 소셜 스트림 및 기술 포럼을 모니터링 합니다.  수집 된 신호 외에도 firmographics 정보는 D&B, Microsoft 내부 구독 및 트랜잭션 데이터와 같은 내부 및 외부 원본에서 수집 됩니다.
+- **데이터 수집**: 웹 크롤러는 회사 도메인에 대해 ping을 수행 하 고, 블로그 게시물을 모니터링 하 고, 보도, 소셜 스트림 및 기술 포럼을 통해 수십억 개의 고객 신호를 검색 하 고 수집 합니다.  수집 된 신호 외에도 firmographics 정보는 D&B, Microsoft 내부 구독 및 트랜잭션 데이터와 같은 내부 및 외부 원본에서 수집 됩니다.
 
 - **Machine Learning**: 신호는 클라우드 제품 및 클러스터에서 각 고객에 대 한 판매 및 마케팅 예측의 구조화 된 데이터 집합을 출력 하는 기계 학습 모델에 공급 됩니다.  각 고객은 고객의 적합도를 결정 하는 Microsoft의 최고 SMB에 대 한 유사 모델을 사용 하 여 점수가 매겨진 것 이며, 고객의 온라인 동작을 통합 하는 기계 학습 알고리즘이 의도 한 대로 정의 됩니다. 점수 매기기는 Microsoft 클라우드 제품을 구매 하는 고객의 성향을 보여 주는 클러스터로 병합 됩니다.
 
@@ -111,8 +112,8 @@ SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및
 
          |**분류**|**점수**|
          |---------|:---------|
-         |높음|75-100|
-         |중간|55-74|
+         |높은|75-100|
+         |보통|55-74|
          |낮음|30 - 54|
          |매우 낮음|0 - 29|
 
@@ -136,4 +137,6 @@ SMB는 machine learning 기술을 사용 하 여 관리 되지 않는 상위 및
 
 상향 판매 모델은 트랜잭션 데이터를 사용 하 여 Azure 및 Microsoft 365 Sku에서 상향 판매의 가능성을 예측 합니다.
 
-EOS는 Windows 7, Office 2010, SQL Server 및 Windows Server에 대 한 서비스 고객의 끝을 공유 합니다. EOS 데이터는 MS Sales에서 끌어오고, 사용 가능한 경우 CloudAscent 성향 모델링에 중첩 됩니다. EOS 데이터는 최신 작업 및 Azure Sales가 재생 됩니다.
+이러한 고객에 게는 이미 Azure 또는 Microsoft 365이 모두 있고 상향 판매 모델에서 기존 SKU를 추가로 구매할 가능성이 있음을 보여 줍니다.
+
+EOS는 Win 7, Office 2010, SQL Server 및 Windows Server에 대 한 EOS (서비스 종료) 고객을 공유 합니다. EOS 데이터는 MS Sales에서 끌어오고, 사용 가능한 경우 CloudAscent 성향 모델링에 중첩 됩니다. EOS 데이터는 최신 작업 및 Azure Sales가 재생 됩니다.
