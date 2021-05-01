@@ -8,16 +8,16 @@ description: 파트너 센터에서 조회를 Salesforce CRM과 동기화 합니
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960954"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284386"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM용 공동 판매 커넥터 – 개요
 
-### <a name="appropriate-roles"></a>적절한 역할
+**적절한 역할**
 
 - 조회 관리자
 - CRM에서 시스템 관리자 또는 시스템 사용자 지정자
@@ -39,7 +39,7 @@ ms.locfileid: "97960954"
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft 사용자 지정 필드에 대 한 Salesforce 패키지 설치 
 
-파트너 센터 및 Salesforce CRM에서 조회를 동기화 하기 위해 전원 자동화 솔루션은 Microsoft 특정 조회 필드를 명확 하 게 식별 해야 합니다. 이 경계 파트너 판매자 팀에 게 공동 판매를 위해 Microsoft와 공유할 조회를 결정 하는 기능을 제공 합니다.
+파트너 센터 및 Salesforce CRM에서 조회를 동기화 하기 위해 전원 자동화 솔루션은 Microsoft 전용 조회 필드를 명확 하 게 식별 해야 합니다. 이 경계 파트너 판매자 팀에 게 공동 판매를 위해 Microsoft와 공유할 조회를 결정 하는 기능을 제공 합니다.
 
 1. Salesforce에서 **메모** 를 활성화 하 고 기회 관련 목록에 추가 합니다. 
 [참조](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
@@ -49,14 +49,12 @@ ms.locfileid: "97960954"
     - 필요에 따라 설정을 정의 합니다.
 [참조](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. Salesforce에서 아래 패키지 설치 관리자를 사용 하 여 사용자 지정 필드 및 개체를 설치 합니다.
-  
-회사에 패키지를 설치 하려면 [여기](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) 로 이동 하세요.
+3. Salesforce에서 [패키지 설치 관리자](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV)를 사용 하 여 사용자 지정 필드 및 개체를 설치 합니다. 이를 사용 하 여 모든 회사에 패키지를 설치 합니다.
 
+>[!NOTE]
+>Sandbox에를 설치 하는 경우 URL의 초기 부분을 다음으로 바꾸어야 합니다. http://test.salesforce.com
 
-참고: sandbox에를 설치 하는 경우 URL의 초기 부분을 다음으로 바꾸어야 합니다. http://test.salesforce.com
-
-4. Salesforce에서 **기회** 관련 목록에 Microsoft 솔루션을 추가 합니다. 추가 된 후에는 **렌치** 아이콘을 클릭 하 고 속성을 업데이트 합니다.
+4. Salesforce에서 **기회** 관련 목록에 Microsoft 솔루션을 추가 합니다. 추가 되 면 **렌치** 아이콘을 선택 하 고 속성을 업데이트 합니다.
 
 ## <a name="best-practice-test-before-you-go-live"></a>모범 사례: 라이브 상태로 전환 하기 전에 테스트
 
@@ -78,7 +76,7 @@ ms.locfileid: "97960954"
 
 3. 왼쪽 탐색 모음에서 **솔루션** 을 선택 합니다.
 
-4. 상단 메뉴에서 **AppSource 열기** 링크를 클릭 합니다.
+4. 상단 메뉴에서 **AppSource 열기** 링크를 선택 합니다.
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource 열기":::
 
@@ -86,7 +84,7 @@ ms.locfileid: "97960954"
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. **지금 가져오기** 단추를 클릭 한 다음 **계속** 합니다.
+6. **지금 가져오기** 단추를 선택 하 고 **계속** 합니다.
 
 7. 그러면 Salesforce CRM 환경을 선택 하 여 응용 프로그램을 설치할 수 있는 페이지가 열립니다.  사용 약관에 동의 합니다.
 
@@ -135,7 +133,7 @@ ms.locfileid: "97960954"
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="커넥터 편집 시작":::
 
-2. 세 개의 점 아이콘을 선택 하 여 각 연결을 하나씩 편집 합니다. 관련 연결을 추가 합니다.
+2. 세 개의 점 아이콘을 선택 하 여 각 연결을 개별적으로 편집 합니다. 관련 연결을 추가 합니다.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="커넥터 편집":::
 
@@ -177,9 +175,9 @@ ms.locfileid: "97960954"
 
 8. 이제 "파트너 센터 Webhook 등록 (Insider Preview)" 전원 자동화 흐름을 선택 하 고 **실행** 을 선택 합니다.
 
-9. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속** 을 클릭 합니다.
+9. 오른쪽 창에 "흐름 실행" 창이 열려 있는지 확인 하 고 **계속** 을 선택 합니다.
 
-10. 다음 세부 정보를 입력하세요.
+10. 다음 세부 정보를 입력합니다.
 
     1. **Http 트리거 끝점**: 이전 단계에서 복사한 URL
 
@@ -209,7 +207,7 @@ CRM 시스템이 매우 사용자 지정 되는 경우가 많습니다. 전원 �
 
 2. 이벤트 만들기에 대 한 CRM 필드 매핑을 사용자 지정 하려면 **새 공유 기회 인지 여부** 를 선택 합니다. **예 인 경우** 하위 단계를 선택한 다음 **CRM에서 새 기회 만들기** 를 확장 합니다. 필드 매핑 가이드를 사용 하 여이 섹션에서 매핑을 편집할 수 있습니다.
 
-   1. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 "(범위) 잠재 고객 또는 기회 동기화" 단계를 클릭 합니다.
+   1. 업데이트 이벤트에 대해 CRM 필드 매핑을 사용자 지정 하려면 "(범위) 리드 또는 기회 동기화" 단계를 선택 합니다.
 
    2. **기회를 업데이트 하는 경우를** 선택 합니다. **예 인 경우** 하위 단계를 선택 하 고 **파트너 센터와 CRM의 기회 개체 간 차이를** 확장 합니다.  
 

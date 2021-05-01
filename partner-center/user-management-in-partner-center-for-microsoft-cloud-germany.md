@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000627"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284522"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
 **적용 대상**
 
--  Microsoft 클라우드 독일 파트너 센터
+- Microsoft 클라우드 독일 파트너 센터
+
+**적절한 역할**
+
+- 글로벌 관리자
+- 계정 관리자
 
 > [!IMPORTANT]
 > 독일에 대 한 클라우드 전략은 고객의 요구에 따른 혁신을 기반으로 하 여 글로벌 클라우드 제품과 일치 하는 독일에서 새로운 클라우드 지역 제공에 초점을 맞춥니다. 이를 통해 새 고객을 더 이상 수락 하거나 현재 사용할 수 있는 Microsoft 클라우드 독일에서 새로운 서비스를 배포할 수 없습니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 관리할 수 있습니다.
@@ -41,7 +46,7 @@ ms.locfileid: "91000627"
 
 Microsoft 클라우드 독일 파트너 센터에 로그인 한 경우 다시 로그인 하지 않고도 Microsoft 클라우드 독일에 대 한 Azure Portal를 열 수 있습니다. 그러나 Microsoft 클라우드 독일의 Azure Portal에 직접 로그인 해야 하는 경우으로 이동 [https://portal.microsoftazure.de](https://portal.microsoftazure.de) 합니다. 
 
-Microsoft 클라우드 독일의 Azure Portal에 성공적으로 로그인 한 후에 Azure Active Directory (Azure AD) 개요 페이지를 열고 다음 항목의 지침을 따릅니다.
+Microsoft 클라우드 독일의 Azure Portal에 성공적으로 로그인 한 후에 Azure Active Directory (Azure AD) 개요 페이지를 열고 다음 문서의 지침을 따르세요.
 
 > [!NOTE]  
 > 아래 링크를 선택 하면 다른 웹 사이트로 이동 합니다.

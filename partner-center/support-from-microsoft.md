@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002810"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284148"
 ---
 # <a name="support-from-microsoft"></a>Microsoft에서 지원
 
@@ -24,7 +24,7 @@ ms.locfileid: "108002810"
 
 **적절한 역할**
 
-- 도움말 에이전트
+- 기술 지원팀 상담원
 
 Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 있는 경우 문제를 microsoft에 보고 하 고, 문제를 Microsoft로 에스컬레이션 하 고, 해결 될 때까지 문제를 추적할 수 있습니다.
 

@@ -9,14 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768689"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284454"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>다른 채널 & 파트너가 클라우드 솔루션 공급자 프로그램으로 라이선스 기반 고객 이동
+
+**적절한 역할**
+
+- 계정 관리자
+- 영업 상담원
+- 청구 에이전트
 
 고객이 여러 파트너를 고용 하거나 다른 파트너에 게 구독을 양도 하거나 다른 곳에서 구매한 구독을 관리 하려는 경우 해당 구독을 수동으로 이동할 수 있습니다. 다른 채널에서 파트너 센터로 고객을 이동할 수도 있습니다.
 

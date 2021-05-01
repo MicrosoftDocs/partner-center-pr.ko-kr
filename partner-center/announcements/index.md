@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/22/2021
-ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
-ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
+ms.date: 04/27/2021
+ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107917619"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172432"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "107917619"
 
 |**범주**|**2021년 4월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[파트너 센터 API Swagger 설명서의 새 위치](2021-april.md#9)|4월 26일|
 |기능|[CSP(클라우드 솔루션 공급자) 소프트웨어 반품 기간 정책 및 다운로드 링크 만료 알림](2021-april.md#8)|4월 21일|
 |비즈니스 확장|[오픈 라이선스 프로그램: 재판매인을 CSP(클라우드 솔루션 공급자) 프로그램으로 전환](2021-april.md#7)|4월 19일|
 |기능|[지금 라이브: 글로벌 프로모션 준비 가이드](2021-april.md#6)|4월 16일|

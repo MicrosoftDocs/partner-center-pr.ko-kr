@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893209"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284505"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>고객의 Azure 계획 구독을 다른 파트너에 게 전송
 
 **적절한 역할**
 
-- CSP(클라우드 솔루션 공급자) 프로그램의 파트너
+- 계정 관리자
+- 영업 상담원
+- 청구 에이전트
 
 이 문서에서는 고객이 Azure 계획을 통해 azure 구독을 한 클라우드 솔루션 공급자 (CSP)에서 다른 클라우드 솔루션 공급자로 전환할 수 있는 방법을 설명 합니다.
 
@@ -42,7 +44,7 @@ ms.locfileid: "97893209"
 - 타사 marketplace 제품은 제품이 Marketplace 자격 검사를 통과 하는 동안 전송 됩니다.
     - 특별 한 할인이 나 지역 제한은 없습니다.
     - 제품이 비등록 기반입니다.
-    - 이후 파트너는 게시자와 협력 하 여 제품 배포에 대 한 허용 목록에 있는지 확인 해야 합니다.
+    - 이후 파트너는 게시자와 협력 하 여 제품 배포에 대 한 allowlist에 있는지 확인 해야 합니다.
     - Marketplace 제품을 전송 하기 위해 이러한 조건을 모두 충족 하지 않는 경우 Azure 구독을 전송 하 고 새 파트너와 마켓플레이스 제품을 다시 구매 해야 합니다.
 
 **사전 요구 사항:**

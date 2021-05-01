@@ -9,14 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
-ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
+ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "107742123"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284488"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>TPD(기술 사전 판매 및 배포 서비스) 살펴보기 
+
+**적절한 역할**
+
+- MPN 파트너 관리자
 
 컨설팅, 사전 판매 지원, 자문 시간 등을 포함한 기술 사전 판매 및 배포 서비스에 대한 Microsoft MPN(파트너 네트워크)의 혜택에 대해 알아보세요.
 

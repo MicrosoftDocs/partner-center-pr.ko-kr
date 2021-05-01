@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247670"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284471"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP 프로그램에서 파트너에 대 한 지역 또는 국가의 세금 및 세금 면제 세부 정보에 대해 알아봅니다.
 
+**적절한 역할**
+
+- 글로벌 관리자
 
 CSP (클라우드 솔루션 공급자) 프로그램은 제품의 파트너 재판매에 초점을 맞춘 판매 채널입니다. 따라서 Microsoft는 파트너 청구서에 대 한 판매 세금을 항상 청구 해야 하는 것은 아닙니다. 규칙은 국가 및/또는 지역에 따라 다릅니다. [세금 면제에 대 한 국가 및 지역별 세부 정보](#country-and-region-tax-details)를 검토할 수 있습니다.
 
@@ -38,7 +41,7 @@ BC PST 면제의 경우 설명 된 대로 세금 면제를 파일에 만듭니�
 
 ### <a name="united-states"></a>미국
 
-미국의 모든 대리점은 Microsoft 재판매인 계약을 수락 하 고 30 일 이내에 판매 세금 면제 문서를 제공 해야 합니다. 각 상태에는 재판매에 대해 서로 다른 예외 인증서가 있습니다. 세금 advisor를 사용 하 여 법적 주소 및 등록 된 상태와 관련 된 사항을 확인 하세요.
+미국의 모든 대리점은 Microsoft 재판매인 계약을 수락 하 고 30 일 이내에 판매 세금 면제 문서를 제공 해야 합니다. 각 상태에는 재판매에 대해 서로 다른 예외 인증서가 있습니다. 세금 advisor를 사용 하 여 법률 주소 및 등록 된 상태와 관련 된 사항을 확인 하세요.
 
 여기에는 *잠재 고객 간소화* 와 같은 여러 상태에서 작동 하는 재판매 면제 인증서 또는 *MTC Uniform Sales & 세금 면제 인증서를 사용* 하는 *세금 계약* 인증서가 포함 될 수 있습니다.
 

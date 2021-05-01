@@ -9,19 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545834"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284352"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Microsoft와의 성공적인 고객 통신을 위한 지침
 
 **적용 대상**
 
--  파트너 센터
--  Microsoft Cloud for US Government 파트너 센터
+- Microsoft Cloud for US Government 파트너 센터
+
+**적절한 역할**
+
+- 기술 지원팀 상담원
 
 일반적으로 고객에 대 한 모든 통신이 클라우드 솔루션 공급자 파트너에 게 제공 될 것으로 간주 됩니다. 고객 청구 관계를 소유 하기 때문에 Microsoft는 구독과 관련 된 고객에 게 직접 통신을 보내지 않습니다.
 

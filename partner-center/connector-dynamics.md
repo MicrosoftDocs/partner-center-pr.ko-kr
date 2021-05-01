@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768774"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284335"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Dynamics 365 용 공동 판매 커넥터 CRM 개요
 
-### <a name="appropriate-roles"></a>적절한 역할
+**적절한 역할**
 
 - 조회 관리자
 - CRM에서 시스템 관리자 또는 시스템 사용자 지정자
@@ -26,7 +26,7 @@ ms.locfileid: "104768774"
 
 이 솔루션은 전원 자동화를 기반으로 하며 파트너 센터 Api를 사용 합니다.
 
-## <a name="prerequisites"></a>사전 요구 사항
+## <a name="prerequisites"></a>필수 조건
 
 솔루션을 설치 하기 전에 다음 필수 구성 요소를 충족 하는지 확인 합니다.
 
@@ -67,7 +67,7 @@ ms.locfileid: "104768774"
 
 ## <a name="test-before-you-go-live"></a>라이브 상태로 전환 하기 전에 테스트
 
-프로덕션 환경에서 전원 자동화 솔루션을 설치, 구성 및 사용자 지정 하기 전에 스테이징 CRM 인스턴스에서 솔루션을 테스트 해야 합니다. 다음 작업을 수행 해야 합니다.
+프로덕션 환경에서 전원 자동화 솔루션을 설치, 구성 및 사용자 지정 하기 전에 스테이징 CRM 인스턴스에서 솔루션을 테스트 해야 합니다. 다음 작업이 필요합니다.
 
 - 스테이징 환경 CRM 인스턴스에 전원 자동화 솔루션을 설치 합니다.
 - 스테이징 환경에서 전원 자동화 솔루션을 구성 하 고 사용자 지정 합니다.
@@ -110,7 +110,7 @@ ms.locfileid: "104768774"
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="연결 편집을 보여 주는 스크린샷":::
 
-1. 줄임표 아이콘을 선택 하 여 각 연결을 하나씩 편집 합니다. 관련 연결을 추가 합니다.
+1. 줄임표 아이콘을 선택 하 여 각 연결을 개별적으로 편집 합니다. 관련 연결을 추가 합니다.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="나열 된 연결을 보여 주는 스크린샷":::
 
@@ -198,7 +198,7 @@ CRM 시스템은 고도로 사용자 지정 되며 CRM 설정에 따라 전원 �
 
 전원 자동화 솔루션을 설치, 구성 및 사용자 지정한 후 Dynamics 365 및 파트너 센터 간에 공동 판매 된 조회 동기화를 테스트할 수 있습니다.
 
-### <a name="prerequisites"></a>사전 요구 사항
+### <a name="prerequisites"></a>필수 조건
 
 파트너 센터 및 Dynamics 365 CRM에서 조회를 동기화 하기 위해 전원 자동화 솔루션은 Microsoft 전용 조회 필드를 명확 하 게 정하는 합니다. 이 id는 판매자 팀이 공동 판매를 위해 Microsoft와 공유할 조회를 결정 하는 기능을 제공 합니다.
 
