@@ -151,6 +151,8 @@
     - name: 'CSP 계약, 가격표, 제품'
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: 등록 ID 번호 정보
+      href: reg-number-id.md
     - name: 'CSP 지역 시장, 통화'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
