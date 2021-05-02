@@ -514,6 +514,9 @@
         - name: 마켓플레이스 제품 구매
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
+        - name: 마켓플레이스 제품의 라이선스 관리
+          href: csp-commercial-marketplace-licensing.md
+          displayName: csp
         - name: 독립 소프트웨어 공급업체의 마켓플레이스 독점 제품
           href: isv-opt-in.md
         - name: 마켓플레이스 제품 관리
