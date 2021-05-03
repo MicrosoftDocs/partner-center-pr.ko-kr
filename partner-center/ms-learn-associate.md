@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712803"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067510"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>MCID(Microsoft 인증 프로필 ID)를 MPN(Microsoft 파트너 네트워크) 계정에 연결하거나 연결을 해제합니다.
 
@@ -73,9 +73,9 @@ Microsoft Learning 계정을 연결하려면 다음 절차를 따르세요.
 
 관리자는 먼저 사용된 이메일 주소를 확인한 다음, 계정 정보를 받은 사용자에게 연락해야 합니다.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>사용자가 파트너 센터에서 MCP Learning 계정을 자신의 프로필에 연결하려고 시도하면 연결이 제한되었다는 메시지를 받습니다.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>사용자가 파트너 센터에서 MCP Learning 계정을 자신의 프로필에 연결하려고 시도하면 연결이 제한되었다는 메시지를 받습니다. 예를 들면, "파트너 조직과 연결을 시도했습니다. 그러나 연결 사이에 30일의 기간이 필요합니다. 후속 연결이 가능한 날짜는 XXX입니다."라는 메시지입니다.
 
-남용을 방지하기 위해 각 MCP에게 매년 허용되는 연결 수가 제한되어 있습니다. 각 사용자는 프로필의 날짜를 확인하여 새 연결을 시작할 수 있는 시간을 확인할 수 있습니다. 사용자가 해당 날짜 이후에도 연결할 수 없는 경우 지원 담당자에게 문의해야 합니다.  
+악용되는 것을 막기 위해 MCP 개인은 매년 허용되는 연결을 3회로 제한하고, 각 연결 사이에 30일의 냉각 기간이 있으며 이는 연결 시작 시 시작됩니다. 각 사용자는 프로필의 날짜를 확인하여 새 연결을 시작할 수 있는 시간을 확인할 수 있습니다. 사용자가 해당 날짜 이후에도 연결할 수 없는 경우 지원 담당자에게 문의해야 합니다.  
 
 ## <a name="how-to-get-support"></a>지원을 받는 방법
 

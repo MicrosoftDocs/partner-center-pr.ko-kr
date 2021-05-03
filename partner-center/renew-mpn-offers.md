@@ -9,18 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549110"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018087"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>갱신 기간 중 역량 및 고급 전문화를 위한 MPN 제안 갱신
 
+**적절한 역할**
+
+- MPN 파트너 관리자
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트
 
-Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에 파트너를 위한 역량 확장(Cloud Business Applications 역량 제외) 및 고급 전문화 확장을 제공합니다. 자세한 내용은 [파트너 블로그 게시물](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)을 검토하세요.
+Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에 파트너를 위한 역량 확장(Cloud Business Applications 역량 제외) 및 고급 전문화 확장을 제공합니다. 자세한 내용은 [파트너 블로그 게시](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)를 참조하세요.
 
 ## <a name="renewal-reminders"></a>갱신 미리 알림
 

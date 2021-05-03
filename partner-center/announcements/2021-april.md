@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728932"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823387"
 ---
 # <a name="april-2021-announcements"></a>2021년 4월 공지
 
 이 페이지에서는 2021년 4월 Microsoft 파트너 센터에 대한 공지를 제공합니다.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>CSP(클라우드 솔루션 공급자) 소프트웨어 반품 기간 정책 및 다운로드 링크 만료 알림
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-04-21
+- 기능
+
+### <a name="summary"></a>요약
+
+CSP 소프트웨어 반품 기간 정책 및 다운로드 링크 만료에 대한 변경 내용이 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+CSP에서 영구 소프트웨어 또는 소프트웨어 구독 제안을 거래하는 파트너
+
+### <a name="details"></a>세부 정보
+
+파트너 센터를 통한 영구 소프트웨어 및 소프트웨어 구독 구매와 관련하여 다음과 같은 중요한 알림이 있습니다.
+
+#### <a name="software-return-period-policy"></a>소프트웨어 반품 기간 정책
+
+MPA(Microsoft Partner Agreement)에 명시된 대로 2021년 6월 1일부터 CSP의 소프트웨어 제품 반품 기간이 주문일로부터 60일에서 주문일로부터 30일로 변경됩니다.
+
+소프트웨어 제안에 대한 주문이 제출된 후 파트너는 주문일로부터 30일 이내에 해당 주문에 대한 수정 사항을 제출해야 합니다.
+
+- 30일 반품 기간 내에 반품된 모든 영구 소프트웨어 라이선스는 지불한 구매 가격에 해당하는 크레딧을 모두 받게 됩니다.
+
+- 30일 반품 기간 내에 반품된 모든 소프트웨어 구독 제품은 지불한 구매 가격에 해당하는 크레딧을 비례 배분 방식으로 받게 됩니다.
+
+이 메시지는 MPA의 반품 기간 및 기타 업데이트와 관련하여 2020년 12월과 2021년 4월에 모든 CSP 파트너에게 발송된 이메일 통신에 대한 후속 메시지입니다. MPA에 영향을 주는 변경 내용에 대한 자세한 내용은 해당 알림을 참조하세요.
+
+#### <a name="software-download-link-expiry"></a>소프트웨어 다운로드 링크 만료
+
+2021년 6월 3일부터 파트너 센터를 통한 영구 소프트웨어 및 소프트웨어 구독 제품 구매를 위한 소프트웨어 다운로드 링크의 만료 날짜는 최초 다운로드 일로부터 5일입니다. 만료 기간은 2021년 6월 3일 이전과 2021년 6월 3일 이후 모든 구매에 적용됩니다.
+
+### <a name="next-steps"></a>다음 단계
+
+[CSP 반품 기간 및 다운로드 링크 만료 FAQ](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)를 검토하고 조직 내의 모든 해당 팀에 다음과 같은 변경 내용을 알립니다.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 제품에 대한 질문이 있는 경우 관련 Yammer 커뮤니티를 확인하세요.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>오픈 라이선스 프로그램: 재판매인을 CSP(클라우드 솔루션 공급자) 프로그램으로 전환

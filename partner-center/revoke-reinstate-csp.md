@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315850"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018190"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>고객의 Azure CSP 구독에 대한 관리자 권한 복구  
 
-**적용 가능한 역할**
+**적절한 역할**
 
 - 글로벌 관리자
 - 관리 에이전트
@@ -39,7 +39,7 @@ CSP에는 Azure에 대한 다음 두 가지 수준의 관리자 권한이 있습
 
 1. 파트너 센터 대시보드에 로그인하고, 파트너 센터 메뉴에서 **고객** 을 선택합니다.
 
-2. 협력하는 고객을 선택하고, **재판매인 관계를 요청** 합니다. 그러면 테넌트 관리자 권한이 있는 고객에 대한 링크가 생성됩니다.
+2. 협력하는 고객을 선택하고, **재판매인 관계를 요청** 합니다. 이 작업은 테넌트 관리자 권한이 있는 고객에 대한 링크를 생성합니다.
 
 3. 해당 고객은 링크를 선택하고, 재판매인 관계 요청을 승인해야 합니다.
 
