@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/27/2021
-ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172432"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328035"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,7 @@ ms.locfileid: "108172432"
 
 |**범주**|**2021년 4월 공지**|**발표**|
 |---------|:---------|:---------|
+|준비|[업데이트된 CSP 고객 주소 유효성 검사 API가 6월에 라이브로 전환됨. 현재 테스트 기능 사용 가능](2021-april.md#10)|4월 30일|
 |기능|[파트너 센터 API Swagger 설명서의 새 위치](2021-april.md#9)|4월 26일|
 |기능|[CSP(클라우드 솔루션 공급자) 소프트웨어 반품 기간 정책 및 다운로드 링크 만료 알림](2021-april.md#8)|4월 21일|
 |비즈니스 확장|[오픈 라이선스 프로그램: 재판매인을 CSP(클라우드 솔루션 공급자) 프로그램으로 전환](2021-april.md#7)|4월 19일|
