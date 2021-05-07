@@ -8,20 +8,27 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.date: 05/05/2021
+ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328035"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702776"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
 중요한 파트너 센터 업데이트에 대해 알아보세요. 이 정보는 자주 업데이트되므로 자주 방문하시기 바랍니다!
 
-|**범주**|**2021년 4월 공지**|**발표**|
+|**범주**|**2021년 5월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[업데이트: 스케줄러 제품 출시가 지연되었습니다.](2021-may.md#6)|5월 5일|
+|기능|[CSP 영구 소프트웨어가 중국에 곧 출시](2021-may.md#5)|5월 5일|
+|기능|[최종 미리 알림: 2021년 5월 6일 GET 자격 중단](2021-may.md#4)|5월 4일|
+|제품/시장|[2021년 5월 1일 라이선스 기반 서비스 가격표 수정](2021-may.md#3)|5월 4일|
+|기능|[국가 소유 엔터티 자격 공지](2021-may.md#2)|5월 4일|
+| 제품/비즈니스 애플리케이션|[이번 달 제품 출시 및 제품 보기](2021-may.md#1)|5월 3일|
+|**범주**|**2021년 4월 공지**|**발표**|
 |준비|[업데이트된 CSP 고객 주소 유효성 검사 API가 6월에 라이브로 전환됨. 현재 테스트 기능 사용 가능](2021-april.md#10)|4월 30일|
 |기능|[파트너 센터 API Swagger 설명서의 새 위치](2021-april.md#9)|4월 26일|
 |기능|[CSP(클라우드 솔루션 공급자) 소프트웨어 반품 기간 정책 및 다운로드 링크 만료 알림](2021-april.md#8)|4월 21일|

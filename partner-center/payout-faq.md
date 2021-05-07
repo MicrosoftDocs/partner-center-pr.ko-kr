@@ -1,20 +1,20 @@
 ---
 title: 지급액 및 세금 프로필 FAQ
-description: 파트너 센터에서 지급 및 세금 세부 정보에 대 한 일반적인 질문에 대 한 답변을 받으세요. 소득가 예상과 다른 이유에 대 한 답을 포함 합니다.
+description: 파트너 센터 지급액 및 세금 세부 사항에 대한 일반적인 질문에 대한 답변을 얻습니다. 소득이 예상과 다른 이유에 대한 답변을 포함합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087045"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240519"
 ---
-# <a name="common-questions-about-payouts-and-taxes"></a>지급 및 세금에 대 한 일반적인 질문
+# <a name="common-questions-about-payouts-and-taxes"></a>지급 및 세금에 대한 일반적인 질문
 
 **적절한 역할**
 
@@ -22,31 +22,31 @@ ms.locfileid: "106087045"
 - 글로벌 관리자
 - 인센티브 관리자
 
-이 문서에서는 파트너 센터의 지급 및 세금 세부 정보에 대 한 질문과 대답을 확인 합니다. 다루는 주제에는 지불 타이밍, 소득 자격 확인 및 지급 및 세금 프로필을 올바르게 설정 하는 것이 포함 됩니다.
+이 문서에서는 파트너 센터 지급액 및 세금 세부 사항에 대한 질문과 대답을 제공합니다. 적용되는 주제에는 지급 시기, 소득 자격 확인, 지급 및 세금 프로필 설정의 중요성이 포함됩니다.
 
 ## <a name="profile-management"></a>프로필 관리
 
-#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>지급 및/또는 세금 정보를 제공 하거나 업데이트 해야 하는 이유는 무엇 인가요?
+#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>지급 및/또는 세금 세부 정보를 제공하거나 업데이트해야 하는 이유는 무엇인가요?
 
-새 프로그램에서 등록 하는 모든 파트너는 유효한 지급 및 세금 정보를 제공 하 여 등록을 완료 하 고 지불을 받아야 합니다. 등록은 Microsoft가 지급 및 세금 프로필의 유효성을 검사 한 후에만 완료 된 것으로 간주 됩니다.
+새 프로그램에 등록하는 모든 파트너는 등록을 완료하고 지급을 받으려면 유효한 지급 및 세금 세부 정보를 제공해야 합니다. 등록은 Microsoft에서 지급 및 세금 프로필의 유효성을 검사한 후에만 완료된 것으로 간주됩니다.
 
-프로그램에 대 한 규칙이 변경 되거나 프로필의 측면이 만료 되거나 만료 되는 경우 정보를 업데이트 해야 할 수도 있습니다. 이 경우 개요 페이지에 **작업 필요 – 은행 및/또는 세금 프로필 업데이트** 상태가 표시 됩니다.
+프로그램에 대한 규칙이 변경되거나 프로필의 측면이 만료되거나 오래된 경우 정보를 업데이트해야 할 수도 있습니다. 이 경우 개요 페이지에 필요한 작업 **상태(은행 및/또는 세금 프로필 업데이트)가** 표시됩니다.
 
-#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>지급 및 세금 정보를 찾거나 설정 하거나 업데이트 어떻게 할까요??
+#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>지급 및 세금 세부 정보를 찾고 설정하거나 업데이트할 어떻게 할까요? 있나요?
 
-파트너 센터에서 지불 및 세금 정보를 업데이트 하는 방법에 대 한 자세한 내용은 [지급 계정 및 세금 양식 설정](set-up-your-payout-account.md)을 참조 하세요.
+파트너 센터 결제 및 세금 세부 정보를 업데이트하는 방법에 대한 자세한 내용은 [지급 계정 및 세금 양식 설정을 참조하세요.](set-up-your-payout-account.md)
 
 #### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>지급 및 세금 프로필 할당으로 이동할 때 내 등록이 표시되지 않는 이유는 무엇인가요?
 
-적절 한 사용 권한이 없거나 이러한 권한이 없는 계정으로 로그인 했을 수 있습니다. 예를 들어 MPN 위치에 대 한 동기 관리자만 지급 및 세금 프로필을 만들거나 관리할 수 있습니다. 은행 및 세금에 대한 권한을 관리하려면 조직 관리자에게 문의하세요.
+적절한 권한이 없거나 이러한 권한이 없는 계정으로 로그인했을 수 있습니다. 예를 들어 MPN 위치에 대한 인센티브 관리자만 지급 및 세금 프로필을 만들거나 관리할 수 있습니다. 은행 및 세금에 대한 권한을 관리하려면 조직 관리자에게 문의하세요.
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>내 도메인에만 로그인 할 수 있습니다 @onmicrosoft.com .   어떻게 해야 합니까?
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>내 도메인으로만 로그인할 수 @onmicrosoft.com 있습니다.   어떻게 해야 합니까?
 
-AAD 계정에 도메인을 추가 하려면 계정 관리자에 게 문의 하세요.
+AAD 계정에 도메인을 더 추가하려면 계정 관리자에게 문의하세요.
  
-#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>조직에서 여러 프로그램에 참여 하 고 있습니다. 지불 및 세금 프로필을 여러 번 제공 해야 하나요?
+#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>내 조직이 여러 프로그램에 참여하고 있습니다. 결제 및 세금 프로필을 여러 번 제공해야 합니까?
 
-조직의 요구 사항에 따라 달라 집니다. 지불 프로필은 조직 수준에서 만들어지므로 조직 내의 여러 MPN ID 및 프로그램에서 동일한 은행 프로필을 할당할 수 있습니다. 대부분의 경우 기존 프로필을 다시 사용 하거나 새 프로필을 만들 수 있습니다.
+조직의 요구 사항에 따라 달라집니다. 결제 프로필은 조직 수준에서 만들어지며, 조직 내의 여러 MPN ID 및 프로그램에 동일한 은행 프로필을 할당할 수 있습니다. 대부분의 경우 기존 프로필을 다시 사용 하거나 새 프로필을 만들 수 있습니다.
 
 그러나 은행 프로필을 다른 국가 또는 지역에 적용하는 경우에는 현지 은행이나 세금 규칙이 적용될 수 있으므로 예외가 발생할 수 있습니다.
 
@@ -83,37 +83,39 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>수익 금액이 예상한 것과 다른 이유는 무엇 인가요?
 
 - 주문이 부분적으로 고객에 게 지불 된 경우 빼는 요금 및 적절 한 세금 후에 부분적으로 유료 금액을 기반으로 하 게 됩니다.
-- 국가별 세금을 확인 하세요. 세금을 Microsoft에서 담당 하는 국가에서는 Microsoft가 게시자 수익 으로부터 세금을 수집 하 고 deducts 합니다. 명세서에 표시된 거래 금액은 세후 금액입니다. [세금 세부 정보](tax-details-marketplace.md)를 참조하세요.
-- SaaS 및 IaaS 제품은 표준 20% 대신 10%에서 할인 된 에이전시 요금을 부과 하며, 90%의 소득 요금을 유지 합니다. 이 프로모션은 2021년 6월 30일까지 적용됩니다.
+- 국가별 세금 송금 책임을 확인합니다. 세금이 Microsoft에서 담당하는 국가에서 Microsoft는 게시자 소득에서 세금을 수집하고 공제합니다. 명세서에 표시된 거래 금액은 세후 금액입니다. [세금 세부 정보](tax-details-marketplace.md)를 참조하세요.
+- SaaS 및 IaaS 제안에는 표준 20% 대신 10%의 할인된 에이전시 요금이 부과되며 소득 비율은 90%입니다. IP Co-Sell 요구 사항입니다. 이 프로모션은 2021년 6월 30일까지 적용됩니다. 
 
-**추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 정보](payout-policy-details.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md), [유료](marketplace-get-paid.md), [세금 정보](tax-details-marketplace.md), [지급 문](payout-statement.md)
+**추가 정보:** [상업용 Marketplace 게시자 계약,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [지급 정책 세부 정보,](payout-policy-details.md) [결제 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md), 지불 [받기,](marketplace-get-paid.md) [세금 세부 정보,](tax-details-marketplace.md) [지급 명세서](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>소득 조정
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>지급 명세서를 분석의 주문 또는 사용 보고서에 맞게 조정하려면 어떻게 해야 하나요?
-분석 주문 및 사용 현황 보고서를 사용 하 여 지급 트랜잭션 기록 보고서에 표시 되는 AssetID, orderID 및 line item ID를 사용 합니다. 이 매핑을 사용 합니다.
+
+분석 주문 및 사용 현황 보고서와 함께 지급 트랜잭션 기록 보고서에 표시되는 AssetID, orderID 및 품목 ID를 사용합니다. 다음 매핑을 사용합니다.
 
 - Payout Transaction History.AssetID = order.OrderID
 - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>고객 주문에 대한 지불이 언제 지급될지 어떻게 알 수 있나요?
-- 먼저 assetID를 사용 하 여 [주문 보고서](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)에서 고객 주문을 확인 합니다.
-- 고객 [보고서](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)에서 고객 구독에 대 한 고객 채널을 확인 합니다.
-- 기업 고객의 경우 게시자 소득이 구매 주문 날짜의 1-2 일 후에 표시 됩니다.
-- 기업 외 고객의 경우 고객 지불을 받은 후 1-2 일 후에 게시자 소득이 표시 됩니다.
 
-**추가** 정보: [지급 문](payout-statement.md), [상용 marketplace 분석의 주문 대시보드](/azure/marketplace/partner-center-portal/orders-dashboard)
+- 먼저 assetID를 사용하여 Orders 보고서에서 고객 주문을 [확인합니다.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)
+- 고객 보고서에서 고객 구독에 대한 고객 채널을 [확인합니다.](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)
+- 기업 고객의 경우 게시자 소득은 구매 주문 날짜 1~2일 후의 명세서에 표시됩니다.
+- 기업 외 고객의 경우 고객 결제가 수신된 후 1~2일 후에 게시자 소득이 명세서에 표시됩니다.
+
+**추가 정보:** 상업용 [Marketplace 분석의](/azure/marketplace/partner-center-portal/orders-dashboard) [지급 명세서](payout-statement.md), 주문 대시보드
 
 ## <a name="payments-and-adjustments"></a>지불 및 조정
 
 #### <a name="why-is-my-payment-missing"></a>지불이 누락된 이유는 무엇인가요?
 
-- [개요 페이지](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지급 상태 및 세금 프로필 상태가 *유효한* 것으로 표시 되는지 확인 합니다.
+- 개요 [페이지에](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)지급 상태 및 세금 프로필 상태가 *유효한* 것으로 표시되어 있는지 확인합니다.
 - 지불의 최소 임계값을 충족하지 못했을 수 있습니다. 지불을 받으려면 소득이 $50 USD 이상이어야 합니다.
 
 
-#### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>결제를 수신 하지 않으려면 내 계정을 설정 어떻게 할까요??
-[지급 Profile](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지불을 유지할 수 있습니다. 이렇게 **하려면 보류를 선택 하** 고 Microsoft는 보류를 해제할 때까지 결제를 유지 합니다.
+#### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>내 계정이 결제되지 않도록 설정할 어떻게 할까요? 있나요?
+[지급 프로필](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)에서 지급액을 보유할 수 있습니다. 이렇게 하려면 **보류를** 확인하고 보류를 해제할 때까지 Microsoft에서 지급을 보류합니다.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>구매 통화와 다른 통화로 받는 이유는 무엇인가요?
 
@@ -121,9 +123,9 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 #### <a name="how-do-i-reconcile-adjustments"></a>조정은 어떻게 수정하나요?
 
-지불 조정은 시스템 문제와 같은 보정 조정을 수용하기 위한 지불 수정입니다. 지급 문에서 ReasonCode는 조정 이유를 지정 합니다. 이러한 기능은 개별 트랜잭션으로 직접 조정 하는 것이 아닙니다.
+지불 조정은 시스템 문제와 같은 보정 조정을 수용하기 위한 지불 수정입니다. 지급 명세서에서 ReasonCode는 조정 이유를 지정합니다. 이는 개별 트랜잭션과 직접 조정하기 위한 것이 아닙니다.
 
-**추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
+**추가 정보:** [상업용 Marketplace 게시자 계약,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [지급 정책 세부 정보,](payout-policy-details.md) [세금 세부 정보,](tax-details-marketplace.md) [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>세금
 
@@ -193,20 +195,20 @@ MPN 위치에 대해 만들어진 세금 프로필은 재사용 되며 동일한
 
 #### <a name="how-do-i-download-payout-data"></a>지급 데이터를 다운로드하려면 어떻게 해야 하나요?
 
-[Partner 지급 API](https://apidocs.microsoft.com/services/partnerpayouts)를 사용 합니다.
+파트너 [지급 API를](https://apidocs.microsoft.com/services/partnerpayouts)사용합니다.
 
-## <a name="commercial-marketplace-payout-policies"></a>상업적 marketplace 지급 정책
+## <a name="commercial-marketplace-payout-policies"></a>상업용 Marketplace 지급 정책
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>현재 에이전시 수수료 및 지급율을 찾으려면 어떻게 해야 하나요?
 
-- 상업용 Marketplace 게시자 계약을 확인합니다. 표준 에이전시 수수료는 20%입니다. SaaS 공동 판매 적격 거래에는 10% 할인 된 요금이 부과 됩니다. 프로모션 에이전시 수수료에 대한 공지를 확인합니다.
-- 지급 문에서 Rate는 지정 된 트랜잭션에 대 한 실제 지급 rate를 지정 합니다.
+- 상업용 Marketplace 게시자 계약을 확인합니다. 표준 에이전시 수수료는 20%입니다. SaaS 공동 판매 적격 트랜잭션은 10%의 할인된 요금이 부과됩니다. 프로모션 에이전시 수수료에 대한 공지를 확인합니다.
+- 지급 명세서에서 수익 비율은 지정된 트랜잭션에 대한 실제 지급률을 지정합니다.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>내 명세서에 소득이 표시되면 언제 Microsoft로부터 지불을 받을 수 있나요?
-- 소득이 처리되지 않음 상태이면 소득이 지불 처리될 달의 만기일을 확인할 수 있습니다. 지불이 준비 되 면 획득 상태는 "처리 됨"으로 변경 됩니다.  Microsoft는 만기월 15일까지 지불을 지급합니다.
-- 신용 카드로 요금을 지불 하는 주문의 경우 Microsoft는 획득이 성숙 될 때까지 30 일간 지불 합니다.
+- 소득이 처리되지 않음 상태이면 소득이 지불 처리될 달의 만기일을 확인할 수 있습니다. 결제가 준비되면 수익 상태가 "처리"로 변경됩니다.  Microsoft는 만기월 15일까지 지불을 지급합니다.
+- 신용 카드로 결제한 주문의 경우 Microsoft는 수익이 완성될 때까지 30일 동안 결제합니다.
 
- **추가** 정보: [상업적 마켓플레이스 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560), [지급 정책 세부 정보](payout-policy-details.md), [세금 정보](tax-details-marketplace.md), [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
+ **추가 정보:** [상업용 Marketplace 게시자 계약,](https://go.microsoft.com/fwlink/p/?LinkID=699560) [지급 정책 세부 정보,](payout-policy-details.md) [세금 세부 정보,](tax-details-marketplace.md) [지불 임계값, 방법 및 시간 프레임](payment-thresholds-methods-timeframes.md)
 
 ## <a name="next-steps"></a>다음 단계
 

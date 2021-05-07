@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120719"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702793"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 일회성 구매 조정 파일 필드
 
@@ -38,7 +38,7 @@ ms.locfileid: "108120719"
 | MpnId | CSP 파트너의 MPN 식별자입니다. 자세한 내용은 파트너를 기준으로 항목별로 항목을 표시 하 [는 방법](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)을 참조 하세요. | *6034453* |
 | ResellerMpnId | 구독에 대 한 레코드 대리점의 MPN 식별자입니다. | *6048879* |
 | OrderID | Microsoft 청구 플랫폼에서 사용되는 주문의 고유 식별자입니다. 지원에 문의할 때 주문을 식별 하는 데 유용할 수 있습니다. 조정에 사용 되지 않습니다. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | 주문이 배치 된 날짜입니다. | *10/3/2020* |
+| OrderDate | 주문이 배치 된 UTC 날짜입니다. | *10/3/2020* |
 | ProductId | 제품의 고유 식별자입니다. | *DZH318Z0BNZ5* |
 | SkuId | SKU 고유 식별자입니다. | *006G* |
 | AvailabilityId | 가용성 고유 식별자입니다. | *DZH318Z08B80* |

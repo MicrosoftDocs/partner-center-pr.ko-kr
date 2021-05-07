@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램에 등록
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인 또는 직접 청구 파트너와 같이 비즈니스에 가장 적합한 CSP(클라우드 솔루션 공급자) 프로그램 판매 모델에 등록하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441815"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213383"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -92,6 +92,38 @@ CSP 프로그램이 계속 발전하고 확장되면서, 직접 청구 파트너
 
 회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP 제품을 판매할 수 있는 지역 및/또는 국가가 포함됩니다. 시장 위치 및 통화는 [클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)를 참조하세요.
 [새 CSP 비즈니스 위치를 추가하기 위한 필수 구성 요소](manage-locations.md)를 참조하세요.
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>특정 국가의 파트너 등록 ID 번호 제공
+
+간접 공급자, 직접 청구 파트너 또는 간접 재판매인이고 다음 국가의 신규 또는 기존 고객과 사업을 수행하는 경우 비즈니스 등록 ID 번호를 제공해야 합니다. 비즈니스를 수행하는 국가가 아래에 나열되지 않은 경우 등록 ID는 선택 사항입니다.
+
+- 아르메니아 
+- 아제르바이잔 
+- 벨라루스 
+- 브라질 
+- 헝가리 
+- 인도 
+- 이라크 
+- 카자흐스탄 
+- 키르기스스탄 
+- 몰도바 
+- 미얀마 
+- 폴란드 
+- 러시아 
+- 사우디아라비아 
+- 남아프리카 공화국 
+- 남수단  
+- 타지키스탄 
+- 태국
+- 터키 
+- 우크라이나 
+- 아랍에미리트연합국 
+- 우즈베키스탄 
+- 베네수엘라
+- 베트남 
+
+
+자세한 내용은 [등록 ID 번호 정보](reg-number-id.md)를 참조하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

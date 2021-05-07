@@ -10,17 +10,96 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823387"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328052"
 ---
 # <a name="april-2021-announcements"></a>2021년 4월 공지
 
 이 페이지에서는 2021년 4월 Microsoft 파트너 센터에 대한 공지를 제공합니다.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>준비: 업데이트된 CSP 고객 주소 유효성 검사 API가 6월부터 적용. 현재 테스트 기능 사용 가능
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-04-30
+- 준비
+
+### <a name="summary"></a>요약
+
+파트너와 고객이 신뢰를 기반으로 비즈니스를 운영할 수 있도록 전 세계 모든 국가에서 주소 유효성 검사 API의 변경 사항을 테스트하도록 파트너를 초대합니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+새 고객 주소 정보를 만들거나 기존 고객 주소 정보를 업데이트하는 CSP 직접 청구 파트너 및 간접 공급자
+
+### <a name="details"></a>세부 정보
+
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 주소 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 31일부터 주소 유효성 검사 API에 대한 변경 사항을 도입했습니다. 2021년 6월 말에 적용되기 전에 API를 테스트할 파트너를 초대합니다. 
+
+이번 변경 사항은 주소 유효성 검사 API에만 적용됩니다. 고객 만들기 및 청구 프로필 업데이트 API는 영향을 받지 않습니다. 현재 제안된 주소를 고객 만들기 API와 함께 사용할 필요는 없지만 권장되는 주소입니다.
+
+응답에서 다음 상태 메시지 중 하나를 반환합니다.
+
+| 상태     | 설명 |    반환되는 추천 주소 수 |
+|-------|---------------|-------------------|
+|배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | 한 개 |
+|확인됨 | 주소가 확인되었습니다. | 한 개 |
+|상호 작용 필요 | 제안된 주소가 많이 변경되어 사용자 확인이 필요합니다. | 한 개 |
+|거리명 부분 | 주소에 입력된 거리명이 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
+|부지 부분 | 입력된 부지(건물 번호, 다세대 동호수 등)가 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
+|여러 개 | 주소에서 완전하지 않은 필드가 여러 개 있습니다(거리명 부분과 부지 부분 포함). | 여러 개(최대 3개) |
+|없음 | 주소가 올바르지 않습니다. | 없음 |
+|확인 안 함 | 유효성 검사 프로세스를 통해 주소를 보낼 수 없습니다. | 없음 |
+
+미국 우편 번호는 추가 4자리 + 하이픈을 반환합니다(예: 12345-6789).
+
+### <a name="next-steps"></a>다음 단계
+
+- [전용 파트너 컬렉션](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)에서 기술 설명서 및 질문과 대답을 검토하여 자세한 지침을 확인합니다.
+- 파트너 센터 API 및 웹 사용자 환경을 사용하여 변경 내용을 통합할 준비를 합니다. 
+- 업데이트 준비를 시작할 수 있도록 테스트에 참여하는 실무 전문가 Ali Khaki씨와 샌드박스 테넌트 ID를 공유합니다. 
+- CPV(제어판 공급업체) 솔루션을 사용하는 경우 CPV에 문의하세요.
+
+### <a name="questions"></a>질문이 있으신가요?
+
+Microsoft 제품을 사용한 작업에 대해 지원이 필요한 경우 파트너 지원 Yammer 그룹에 문의하거나 [서비스 요청](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)을 엽니다.
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>파트너 센터 API Swagger 설명서의 새 위치
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-04-26
+- 기능
+
+### <a name="summary"></a>요약
+
+파트너 센터 API Swagger 문서가 [이전 Swagger 문서 사이트](https://apidocs.microsoft.com/services/partnercenter)에서 [ 새 Swagger 문서 사이트](https://docs.microsoft.com/rest/api/partner-center-rest/)로 마이그레이션되었습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+파트너 센터 API를 사용하는 CSP(클라우드 솔루션 공급자) 프로그램에 참여하는 직접 청구 파트너 및 간접 공급자
+
+### <a name="details"></a>세부 정보
+
+2021년 4월 26일부터 Rest API 콘텐츠를 포함한 파트너 센터 API Swagger 문서는 [새 사이트](https://docs.microsoft.com/rest/api/partner-center-rest/)에 있습니다. 몇 주 후에는 이전 사이트를 액세스할 수 없습니다.
+
+### <a name="benefits"></a>이점
+
+파트너 센터 API Swagger 문서는 **사용해보기** 기능을 제공합니다. 이 기능을 사용하려면 [파트너 센터 인증](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)에 나열된 단계에 따라 생성할 수 있는 전달자 토큰이 있어야 합니다.
+
+### <a name="next-steps"></a>다음 단계
+
+적절한 팀이 프로세스를 검토하고 업데이트할 수 있도록 조직 내에서 이 정보를 공유하세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+이 제품에 대한 질문이 있는 경우 관련 Yammer 커뮤니티를 확인하세요.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>CSP(클라우드 솔루션 공급자) 소프트웨어 반품 기간 정책 및 다운로드 링크 만료 알림

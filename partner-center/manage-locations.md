@@ -1,7 +1,7 @@
 ---
 title: 파트너 계정의 위치 관리
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 새 위치를 추가하는 방법 및 인센티브 프로그램, CSP 비즈니스, 구독 및 기타 트랜잭션에서 위치 MPN ID를 사용하는 방법을 알아봅니다.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441333"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702895"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN 계정 위치 관리 및 새 위치 추가(삭제)
 
@@ -50,7 +50,7 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 
 1. 직접 청구 파트너로 등록하려면 [직접 청구 파트너 요구 사항](direct-partner-new-requirements.md)을 참조하세요.
 
-## <a name="view-your-mpn-locations"></a>MPN 위치 보기
+## <a name="view-and-update-your-mpn-locations"></a>MPN 위치 보기 및 업데이트
 
 1. MPN 계정 자격 증명으로 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다. (MPN 자격 증명은 CSP 자격 증명과 다를 수 있습니다.) 
  
@@ -100,6 +100,37 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 > [!NOTE]
 > 파트너 센터에서 추가한 위치는 제거할 수 없습니다. 올바른 MPN ID를 사용하여 로그인한 경우 파트너 센터의 왼쪽 메뉴에 **MPN** 이 표시됩니다.
 
+## <a name="add-the-registration-number-id"></a>등록 번호 ID 추가
+
+간접 공급자, 직접 청구 파트너 또는 간접 재판매인이고 다음 국가의 신규 또는 기존 고객과 사업을 수행하는 경우 비즈니스 등록 ID 번호를 제공해야 합니다. 비즈니스를 수행하는 국가가 아래에 나열되지 않은 경우 등록 ID는 선택 사항입니다.
+
+- 아르메니아 
+- 아제르바이잔 
+- 벨라루스 
+- 브라질 
+- 헝가리 
+- 인도 
+- 이라크 
+- 카자흐스탄 
+- 키르기스스탄 
+- 몰도바 
+- 미얀마 
+- 폴란드 
+- 러시아 
+- 사우디아라비아 
+- 남아프리카 공화국 
+- 남수단  
+- 타지키스탄 
+- 태국
+- 터키 
+- 우크라이나 
+- 아랍에미리트연합국 
+- 우즈베키스탄 
+- 베네수엘라
+- 베트남 
+
+
+자세한 내용은 [등록 ID 번호 정보](reg-number-id.md)를 참조하세요.
 
 ## <a name="delete-a-location"></a>위치 삭제
 

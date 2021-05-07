@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441288"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702912"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>파트너 센터 라이선스 기반 조정 파일의 필드 이해
 
@@ -46,14 +46,14 @@ ms.locfileid: "106441288"
 | OfferId | 고유 제품 식별자입니다. 가격 목록에 정의 된 표준 제품 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 하지 않습니다. 대신 **DurableOfferID** 를 참조 하세요.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | 가격 목록에 정의 된 고유한 지 속성 제공 식별자입니다. *이 값은 가격 목록의 **제품 ID** 와 일치 합니다.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | 가격 목록에 정의 된 대로 고객이 구매한 서비스 제공 서비스의 이름입니다. | *Microsoft Office 365 (E3 계획)* |
-| Subscription.subscriptionstartdate | 구독 시작 날짜입니다. 시간은 항상 하루의 시작인 0:00입니다. 이 필드는 주문이 제출 된 후의 일로 설정 됩니다. **Subscription.subscriptionenddate** 와 함께 사용 되어 고객이 아직 구독의 첫 번째 연도 내에 있는지 또는 구독이 다음 연도에 대해 갱신 되었는지 여부를 확인 합니다. | *2/1/2019 0:00* |
-| Subscription.subscriptionenddate | 구독 종료 날짜입니다. 시간은 항상 하루의 시작인 0:00입니다. *시작 날짜 로부터 12 개월 + **x** 일을 더한* 날짜에서 파트너의 청구 날짜 또는 *12 개월을 기준* 으로 합니다. 갱신 시 가격은 현재 가격 목록으로 업데이트 됩니다. 자동 갱신을 사전에 수행 해야 하는 고객 통신 | *2/1/2019 0:00* |
+| Subscription.subscriptionstartdate | 구독 시작 날짜 (UTC)입니다. 시간은 항상 하루의 시작인 0:00입니다. 이 필드는 주문이 제출 된 후의 일로 설정 됩니다. **Subscription.subscriptionenddate** 와 함께 사용 되어 고객이 아직 구독의 첫 번째 연도 내에 있는지 또는 구독이 다음 연도에 대해 갱신 되었는지 여부를 확인 합니다. | *2/1/2019 0:00* |
+| Subscription.subscriptionenddate | 구독 종료 날짜 (UTC)입니다. 시간은 항상 하루의 시작인 0:00입니다. *시작 날짜 로부터 12 개월 + **x** 일을 더한* 날짜에서 파트너의 청구 날짜 또는 *12 개월을 기준* 으로 합니다. 갱신 시 가격은 현재 가격 목록으로 업데이트 됩니다. 자동 갱신을 사전에 수행 해야 하는 고객 통신 | *2/1/2019 0:00* |
 | ChargeStartDate | 요금 시작 날짜입니다. 시간은 항상 하루의 시작인 0:00입니다. 고객이 라이선스 번호를 변경 하는 경우 일별 요금 (*pro 게 유리 하도록* 요금)을 계산 하는 데 사용 됩니다. | *2/1/2019 0:00* |
 | ChargeEndDate | 요금 종료 날짜입니다. 시간은 항상 일의 끝 인 23:59입니다. 고객이 라이선스 번호를 변경 하는 경우 일별 요금 (*pro 게 유리 하도록* 요금)을 계산 하는 데 사용 됩니다. | *2/28/2019 23:59* |
 | ChargeType | 요금 또는 조정 [의 유형](recon-file-charge-types.md) 입니다. | [요금 청구 유형](recon-file-charge-types.md)을 참조 하세요. |
 | 단가 | 구매 시 가격 목록에 게시 된 라이선스 당 가격입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *6.82* |
 | 수량 | 라이선스의 수입니다. 조정 하는 동안 청구 시스템에 저장 된 정보와 일치 해야 합니다. | *2* |
-| 금액 | 수량에 대 한 가격의 합계입니다. 금액 계산이 고객에 대해이 값을 계산 하는 방법과 일치 하는지 확인 하는 데 사용 됩니다. | *13.32* |
+| Amount | 수량에 대 한 가격의 합계입니다. 금액 계산이 고객에 대해이 값을 계산 하는 방법과 일치 하는지 확인 하는 데 사용 됩니다. | *13.32* |
 | TotalOtherDiscount | 이러한 요금에 적용 되는 할인 금액입니다. 역량 또는 맵과 함께 제공 되는 제품 라이선스 또는 동기에 적합 한 새 구독은이 열에 할인 금액을 포함 합니다. | *2.32* |
 | 소계 | 세금 앞의 합계입니다. 할인이 예상 합계와 일치 하는지 확인 합니다. | *11* |
 | 세금 | 세금 금액 요금. 시장의 세금 규칙 및 특정 상황을 기준으로 합니다. | *0* |

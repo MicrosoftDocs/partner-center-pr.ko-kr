@@ -1,7 +1,7 @@
 ---
 title: 조회 인사이트 얻기
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 파트너 센터에서 정기적으로 추천 인사이트를 검토하여 비즈니스 목표를 달성하는 데 도움이 되는 추세 또는 개선 사항 영역을 확인합니다.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120854"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328086"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>파트너 센터에서 추천 인사이트를 얻고 추천이 어떻게 진행되는지 알아보세요.
 
@@ -94,8 +94,7 @@ ms.locfileid: "108120854"
 
 ## <a name="comparison-charts"></a>비교 차트
 
-비교 섹션은 볼륨과 거래 금액(USD)의 여러 요소를 기준으로 추천과 관련된 데이터를 비교하는 데 도움이 됩니다.
-데이터를 비교할 때 선택할 수 있는 세 가지 요소는 다음과 같습니다.
+비교 섹션은 볼륨과 거래 금액(USD)의 여러 요소를 기준으로 추천과 관련된 데이터를 비교하는 데 도움이 됩니다. 데이터를 비교할 때 선택할 수 있는 세 가지 요소는 다음과 같습니다.
 
 - 거래 유형
 - 시장
@@ -128,3 +127,8 @@ ms.locfileid: "108120854"
 
 > [!TIP]
 > [솔루션 공급자 찾기](https://www.microsoft.com/solution-providers/home) 환경에서 비즈니스 프로필이 어떤 성과를 거두는지 알아보려면 [비즈니스 프로필 인사이트 페이지](analyze-your-marketing-profile.md)를 검토하세요.
+
+## <a name="next-steps"></a>다음 단계
+
+- [Microsoft 추천을 통한 비즈니스 성장](referrals.md)
+- [잠재 고객 분석](analyze-your-marketing-profile.md)

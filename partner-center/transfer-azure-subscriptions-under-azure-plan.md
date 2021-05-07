@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284505"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702725"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>고객의 Azure 계획 구독을 다른 파트너에 게 전송
 
@@ -44,7 +44,7 @@ ms.locfileid: "108284505"
 - 타사 marketplace 제품은 제품이 Marketplace 자격 검사를 통과 하는 동안 전송 됩니다.
     - 특별 한 할인이 나 지역 제한은 없습니다.
     - 제품이 비등록 기반입니다.
-    - 이후 파트너는 게시자와 협력 하 여 제품 배포에 대 한 allowlist에 있는지 확인 해야 합니다.
+    - 이후 파트너는 게시자와 협력 하 여 제품 배포에 대 한 허용 목록에 있는지 확인 해야 합니다.
     - Marketplace 제품을 전송 하기 위해 이러한 조건을 모두 충족 하지 않는 경우 Azure 구독을 전송 하 고 새 파트너와 마켓플레이스 제품을 다시 구매 해야 합니다.
 
 **사전 요구 사항:**
@@ -130,6 +130,7 @@ Azure 계획에 따라 Azure 구독을 전송 하려면 고객이 현재 파트�
 >간접 공급자의 경우: 전송 요청이 수락 되었음을 간접 재판매인에 게 알려 주세요.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>전송 된 고객 구독 관리
+
 - Azure RBAC(역할 기반 액세스 제어)를 사용하여 할당된 기존 사용자, 그룹 또는 서비스 주체에 대한 액세스는 전환 중에 영향을 받지 않습니다. Azure [RBAC (](/azure/role-based-access-control/overview) 역할 기반 액세스 제어)를 통해 고객은 azure 리소스에 액세스할 수 있는 사용자, 해당 리소스에서 수행할 수 있는 작업 및 액세스할 수 있는 영역을 관리할 수 있습니다. 새 파트너에 게는 구독 이전에 고객의 리소스에 대 한 RBAC 액세스 권한이 제공 되지 않습니다. 고객의 이전 파트너는 RBAC 액세스를 유지 합니다. 고객에 게 문의 하 여 구독에 대 한 통찰력을 보유 하 고 있는 사람을 파악 하 고 원하는 변경 작업을 수행 하세요.
 
 - 따라서 고객이 이전 파트너에 대 한 Azure RBAC 액세스를 제거 하 고 새 파트너에 대 한 액세스를 추가 하는 것이 중요 합니다. 고객이 새 액세스 권한을 부여 하는 방법에 대 한 자세한 내용은 [azure 역할 기반 액세스 제어 란? (AZURE RBAC)](/azure/role-based-access-control/overview) 을 참조 하세요. 사용자가 이전 파트너의 RBAC 액세스를 제거 하는 방법에 대 한 자세한 내용은 [역할 할당 제거](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)를 참조 하세요.

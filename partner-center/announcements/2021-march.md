@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374393"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328069"
 ---
 # <a name="march-2021-announcements"></a>2021년 3월 공지
 
 이 페이지에서는 2021년 3월 Microsoft 파트너 센터에 대한 공지를 제공합니다.
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>이제 업데이트된 CSP 고객 주소 유효성 검사 API를 테스트에 사용 가능
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>준비: CSP(클라우드 솔루션 공급자) 고객 주소 유효성 검사 API에 대한 변경 사항이 6월부터 적용. 현재 테스트 기능 사용 가능
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-03-31
-- 기능
+- 날짜: 2021-04-30
+- 준비
 
 ### <a name="summary"></a>요약
 
-파트너와 고객이 신뢰를 바탕으로 사업을 영위하도록 도와주기 위한 노력의 일환으로, ValidateAddress API 변경 내용을 테스트하는 자리에 전 세계의 파트너를 초대합니다.
+파트너와 고객이 신뢰를 기반으로 비즈니스를 운영할 수 있도록 전 세계 모든 국가에서 주소 유효성 검사 API의 변경 사항을 테스트하도록 파트너를 초대합니다.
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
-새 고객 주소 정보를 만들거나 기존 고객 주소 정보를 업데이트하는 모든 CSP 직접 청구 파트너 및 간접 공급자
+새 고객 주소 정보를 만들거나 기존 고객 주소 정보를 업데이트하는 CSP 직접 청구 파트너 및 간접 공급자.
 
 ### <a name="details"></a>세부 정보
 
-Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 주소 유효성 검사 제출 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 31일에 ValidateAddress API가 변경되었습니다. 2021년 6월에 변경 내용을 적용하기에 앞서 변경 내용을 테스트하는 자리에 여러분을 초대하려 합니다. 
+Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하고 안전하며 보안이 유지되는 고객 주소 유효성 검사 방법을 제공하여 CSP 프로그램에서 고객 구독을 거래할 수 있도록 최선을 다하고 있습니다. 2021년 3월 31일에 2021년 6월 변경 사항을 적용하기 전에 파트너를 초대하여 테스트한 주소 유효성 검사 API에 대한 변경 사항을 도입했습니다.
 
-이번 변경 내용은 ValidateAddress API에만 적용됩니다. CreateCustomer 및 UpdateBillingProfile API는 영향을 받지 않습니다.
+변경 사항은 주소 유효성 검사 API에만 적용됩니다. 고객 만들기 및 청구 프로필 업데이트 API는 영향을 받지 않습니다.
 
 응답에서 다음 상태 메시지 중 하나를 반환합니다.
 
-| 상태 | Description | 반환되는 추천 주소 수 |
-|----------|-------------|-------------------|
-| VerifiedShippable | 주소가 확인되어 제품을 배송할 수 있습니다. | Single |
-| Verified | 주소가 확인되었습니다. | Single |
-| InteractionRequired | 추천 주소가 많이 변경되어 사용자 확인이 필요합니다. | Single |
-| StreetPartial | 주소에 입력된 거리명이 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개)|
-| PremisesPartial | 입력된 부지(건물 번호, 다세대 동호수 등)가 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
-| 여러 | 주소에서 완전하지 않은 필드가 여러 개 있습니다(StreetPartial 및 PremisesPartial이 포함될 가능성도 있음). | 여러 개(최대 3개) |
-| 없음 | 주소가 올바르지 않습니다. | 없음 |
-| NotValidated | 유효성 검사 프로세스를 통해 주소를 보낼 수 없습니다.  | 없음 |
+| 상태     | 설명 |    반환되는 추천 주소 수 |
+|-------|---------------|-------------------|
+|배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | 한 개 |
+|확인됨 | 주소가 확인되었습니다. | 한 개 |
+|상호 작용 필요 | 제안된 주소가 많이 변경되어 사용자 확인이 필요합니다. | 한 개 |
+|거리명 부분 | 주소에 입력된 거리명이 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
+|부지 부분 | 입력된 부지(건물 번호, 다세대 동호수 등)가 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
+|여러 개 | 주소에서 완전하지 않은 필드가 여러 개 있습니다(거리명 부분과 부지 부분 포함). | 여러 개(최대 3개) |
+|없음 | 주소가 올바르지 않습니다. | 없음 |
+|확인 안 함 | 유효성 검사 프로세스를 통해 주소를 보낼 수 없습니다. | 없음 |
 
-주소를 확인하기 위해 ValidateAddress API를 통해 주소를 제출하면 다음과 같은 응답 스키마가 반환됩니다.
+미국 우편 번호는 추가 4자리 + 하이픈(-)을 반환합니다(예: 12345-6789).
+
+주소 유효성 검사 API를 통해 유효성 검사를 위해 주소가 제출되면 다음 응답 스키마가 반환됩니다.
 
 ```csharp
 
@@ -103,18 +104,18 @@ public class AddressValidationResponse
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ public class AddressValidationResponse
 
 ### <a name="next-steps"></a>다음 단계
 
-- 업데이트 준비를 시작할 수 있도록, 테스트에 참가하는 SME(실무 전문가) Ali Khaki 씨와 샌드박스 테넌트 ID를 공유합니다.
+- 업데이트 준비를 시작할 수 있도록 테스트에 참여하는 실무 전문가 Ali Khaki씨와 샌드박스 테넌트 ID를 공유합니다.
 
 - CPV(제어판 공급업체) 솔루션을 사용하는 경우 CPV에 문의하세요.
 
 ### <a name="questions"></a>질문이 있으신가요?
 
-Microsoft 제품을 사용한 작업에 대해 질문이 있거나 지원이 필요한 경우 파트너 지원 Yammer 그룹에 문의하세요.
+Microsoft 제품을 사용한 작업에 대해 지원이 필요한 경우 파트너 지원 Yammer 그룹에 문의하세요.
+
+### <a name="change-log"></a>로그 변경:
+
+- 2020년 3월 31일: 최초 게시
+
+- 2021년 4월 30일: 샘플 응답 및 우편 번호 정보 업데이트
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>새 EAC(Exchange 관리 센터) 환경

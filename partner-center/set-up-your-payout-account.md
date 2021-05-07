@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028437"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702810"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>지급 계정 및 세금 양식 설정
 
@@ -145,7 +145,7 @@ ms.locfileid: "105028437"
 
 결제 방법으로 PayPal 사용에 관련된 일반적인 질문:
 
-- **지급받기 위해 필요한 PayPal 설정은 무엇인가요?** PayPal 계정이 eCheck 지급을 차단하지 않는지 확인합니다. 이 설정은 PayPal의 지급받기 기본 설정 페이지에서 관리됩니다. 자세한 내용은 [PayPal의 계정 설정 페이지](https://go.microsoft.com/fwlink/p/?linkid=513139)를 참조하세요.
+- **지급받기 위해 필요한 PayPal 설정은 무엇인가요?** PayPal 계정이 eCheck 지급을 차단하지 않는지 확인합니다. 이 설정은 PayPal의 지급받기 기본 설정 페이지에서 관리됩니다. 자세한 내용은 [PayPal의 계정 설정 페이지](https://go.microsoft.com/fwlink/?linkid=2162542)를 참조하세요.
 
 - **내 국가/지역이 지원되나요?** PayPal이 지원되는 결제 방법인 위치를 확인하려면 [최소 결제액, 결제 방법 및 기간](payment-thresholds-methods-timeframes.md)을 참조하세요.
 
