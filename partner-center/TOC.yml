@@ -30,8 +30,11 @@
         - name: PMC용 혜택 활성화
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: 멤버십 제품
+    - name: 멤버십 혜택
       items:
+        - name: 혜택 개요
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: MPN 혜택 찾기
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: 역량 수수료 지불
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: 역량
+        - name: 혜택 정책 및 사용량 - FAQ
+          href: benefits-faq-new.md
+        - name: 혜택 FAQ
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: MPN 청구서 보기 또는 다운로드
+          href: mpn-view-print-maps-invoice.md
+    - name: 이용 가능한 혜택
       items:
-        - name: 역량에 대해 알아보기
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: 학습 파트너로 등록
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: 역량 FAQ
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: 앱 개발 역량 제외
-          href: app-dev-isv.md
-        - name: 기술 보고서 사용
-          href: mpn-skills-report.md
-    - name: 고급 전문 분야
-      items:
-        - name: 전문성 소개
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: 상태 적용 또는 확인
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Azure Expert MSP 되기
-      href: azure-expert-msp.md
-    - name: 이점
-      items:
-        - name: 혜택 개요
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: 출시 혜택
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: MPN 파트너를 위한 데모
           href: mpn-demos.md
           displayName: mpn
-        - name: 혜택 정책 및 사용량 - FAQ
-          href: benefits-faq-new.md
-        - name: 혜택 FAQ
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure 및 클라우드 혜택
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: 자격 요구 사항
               href: software-assurance-dps-requirements.md
-    - name: 송장 및 세금
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: 새 기능 시험 사용
-      href: test-drive-new-features.md
+    - name: 역량
+      items:
+        - name: 역량에 대해 알아보기
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: 학습 파트너로 등록
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: 역량 FAQ
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: 역량 수수료 지불
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: 앱 개발 역량 제외
+          href: app-dev-isv.md
+        - name: 기술 보고서 사용
+          href: mpn-skills-report.md
+    - name: 고급 전문 분야
+      items:
+        - name: 전문성 소개
+          href: advanced-specializations.md
+        - name: 상태 적용 또는 확인
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Azure Expert MSP 되기
+      href: azure-expert-msp.md
 - name: CSP(클라우드 솔루션 공급자)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft 고객 계약(지역, 언어별)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: 제한된 직접 청구 액세스
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Azure 구독 전송
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: 고객의 Azure 플랜 구독을 다른 파트너에게 전송
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: 소프트웨어 구독
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'
