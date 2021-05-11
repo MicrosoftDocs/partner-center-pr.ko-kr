@@ -1,53 +1,53 @@
 ---
-title: 테 넌 트 ID, 도메인 이름, 사용자 개체 ID 찾기
+title: 테넌트 ID, 도메인 이름, 사용자 개체 ID 찾기
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Portal에서 Id를 찾는 방법에 대해 알아봅니다. 조직의 Azure AD 테 넌 트 ID, 도메인 이름 또는 특정 사용자 개체 ID입니다. 일부 작업에는이 정보가 필요 합니다.
+description: 조직의 Azure AD 테넌트 ID, 도메인 이름 또는 특정 사용자 개체 ID인 Azure Portal ID를 찾는 방법을 알아봅니다. 일부 작업에는 이 정보가 필요합니다.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172254"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740287"
 ---
-# <a name="locate-important-ids-for-a-user"></a>사용자에 대 한 중요 한 Id 찾기
+# <a name="locate-important-ids-for-a-user"></a>사용자의 중요한 ID 찾기
 
 **적절한 역할**
 
 - 글로벌 관리자
 
-이 문서에서는 [Azure Portal](https://portal.azure.com/) 를 사용 하 여 사용자에 대 한 다음 정보를 찾는 방법을 설명 합니다.
+이 문서에서는 [Azure Portal](https://portal.azure.com/) 사용하여 사용자에 대한 다음 정보를 찾는 방법을 설명합니다.
 
-- 사용자의 조직 또는 회사의 Microsoft Azure Active Directory (Azure AD) 테 넌 트 ID
+- 사용자 조직 또는 회사의 Microsoft Azure Active Directory(Azure AD) 테넌트 ID
 
-- Azure AD 테 넌 트와 연결 된 조직 또는 회사의 주 도메인 이름
+- Azure AD 테넌트와 연결된 조직 또는 회사의 주 도메인 이름
 
 - 사용자 개체 ID
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Microsoft Azure AD 테 넌 트 ID 및 주 도메인 이름 찾기
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Microsoft Azure AD 테넌트 ID 및 주 도메인 이름 찾기
 
-Azure Portal 내에서 Azure AD 테 넌 트 ID 또는 주 도메인 이름을 찾으려면 다음 단계를 수행 합니다. (테 넌 트 ID를 프로그래밍 방식으로 찾으려면 [PowerShell 또는 CLI를 사용 하 여 테 넌 트 Id 찾기](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)를 참조 하세요.)
+다음 단계에 따라 Azure Portal 내에서 Azure AD 테넌트 ID 또는 주 도메인 이름을 찾습니다. (프로그래밍 방식으로 테넌트 ID를 찾으려면 [PowerShell 또는 CLI를 사용하여 테넌트 ID 찾기를](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)참조하세요.)
 
 > [!NOTE]
-> 테 넌 트 ID는 다른 응용 프로그램 또는 리소스에서 다른 이름으로 호출 될 수 있습니다. 예를 들어 테 넌 트 ID를 디렉터리 ID, Azure Active Directory (Azure AD) 테 넌 트, Microsoft ID 또는 *tenantguid* 를 비롯 한 특정 보고서에 대해 참조할 수 있습니다.
+> 테넌트 ID는 서로 다른 애플리케이션 또는 리소스에서 다른 이름을 호출할 수 있습니다. 예를 들어 테넌트 ID를 디렉터리 ID, azure AD(Azure Active Directory) 테넌트, Microsoft ID 또는 특정 보고서의 경우 *tenantguid라고* 할 수 있습니다.
 
 1. [Azure Portal](https://portal.azure.com/)에 로그인합니다.
 
 2. 메뉴에서 **Azure Active Directory** 를 선택합니다.
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="메뉴에서 Azure Active Directory 옵션을 선택 하 Azure Portal 표시 합니다.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="메뉴에서 Azure Active Directory 옵션을 선택하는 Azure Portal 표시합니다.":::
 
-3. Azure Active Directory **개요** 페이지가 나타납니다. Azure AD 테 넌 트 ID 또는 주 도메인 이름을 찾으려면 **테 넌 트 id** 필드 및 **주 도메인** 필드를 확인 합니다. 이러한 필드는 테 넌 트 정보 섹션에 표시 됩니다.
+3. Azure Active Directory **개요** 페이지가 나타납니다. Azure AD 테넌트 ID 또는 주 도메인 이름을 찾으려면 **테넌트 ID** 필드와 **주 도메인** 필드를 찾습니다. 이러한 필드는 테넌트 정보 섹션에 표시됩니다.
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="두 개의 강조 표시 된 필드, 테 넌 트 ID 및 주 도메인 이름이 있는 개요 페이지를 표시 합니다.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="두 개의 강조 표시된 필드( 테넌트 ID 및 주 도메인 이름)가 있는 개요 페이지를 표시합니다.":::
 
-4. Azure Portal에서 테 넌 트 ID는 몇 가지 다른 방법으로 찾을 수 있습니다. 메뉴에서 **Azure Active Directory** 를 선택합니다. 그런 다음 메뉴에서 **관리** 섹션을 찾아 **속성** 을 선택 합니다.
+4. 몇 가지 다른 방법으로 Azure Portal 테넌트 ID를 찾을 수 있습니다. 메뉴에서 **Azure Active Directory** 를 선택합니다. 그런 다음, 메뉴에서 **관리** 섹션을 찾아 **속성을** 선택합니다.
 
    속성 페이지에는 사용자의 연결 된 테 넌 트 ID도 표시 됩니다.
 
