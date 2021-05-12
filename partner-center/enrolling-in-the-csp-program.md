@@ -1,7 +1,7 @@
 ---
 title: 클라우드 솔루션 공급자 프로그램에 등록
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 간접 재판매인 또는 직접 청구 파트너와 같이 비즈니스에 가장 적합한 CSP(클라우드 솔루션 공급자) 프로그램 판매 모델에 등록하는 방법에 대해 알아봅니다.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213383"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712484"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에 등록
 
@@ -76,7 +76,7 @@ CSP 프로그램에 간접 재판매인으로 참가하기 위한 조건에 대�
 
 ### <a name="verify-direct-bill-eligibility"></a>직접 청구 자격 확인
 
-직접 청구 파트너로 등록하기 위한 최소 요구 사항을 충족하는지 확인한 후 [등록 양식](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)으로 진행할 수 있습니다.
+직접 청구 파트너로 등록하기 위한 최소 요구 사항을 충족하는지 확인한 후 [등록 양식](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu)으로 진행할 수 있습니다.
 
 회사에서 직접 청구 파트너로 등록하기 위한 자격 요건을 충족하는 것이 확인되고 파트너가 등록 신청을 완료하면 저희 쪽에서는 파트너가 등록 프로세스에서 입력한 비즈니스 정보를 검토하고 확인합니다. 이 검토 작업의 일환으로 회사의 신용을 평가합니다. 신용 평가를 통과하면 이메일을 통해 알려드립니다.
 >[!IMPORTANT]

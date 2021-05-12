@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630137"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712518"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "109630137"
 
 |**범주**|**2021년 5월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[파트너 주도 공동 판매 거래를 위한 분석](2021-may.md#9)|5월 10일|
+|기능|[호스팅 및 SPLA 재판매인 인센티브 프로그램이 2021년 9월 30일까지 연장됨](2021-may.md#8)|5월 7일|
+|기능|[인센티브 등록을 위해 파트너 센터에서 기본 은행 프로필 기능을 사용할 수 있습니다.](2021-may.md#7)|5월 7일|
 |기능|[업데이트: 스케줄러 제품 출시가 지연되었습니다.](2021-may.md#6)|5월 5일|
 |기능|[CSP 영구 소프트웨어가 중국에 곧 출시](2021-may.md#5)|5월 5일|
 |기능|[최종 미리 알림: 2021년 5월 6일 GET 자격 중단](2021-may.md#4)|5월 4일|

@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315901"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740389"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
@@ -163,5 +163,5 @@ ms.locfileid: "107315901"
 - [사용자 역할 및 권한 할당](permissions-overview.md)
 - [MPN 계정 관리: 위치](manage-locations.md)
 - [사용자 암호 다시 설정](reset-a-user-password.md)
-- [API: 파트너 법적 비즈니스 프로필 가져오기](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [API: 파트너 법적 비즈니스 프로필 가져오기](/partner-center/develop/get-legal-business-profile)
 - [파트너 센터 상업용 Marketplace에서 제품 및 가격 책정 검색](csp-commercial-marketplace-discover.md)
