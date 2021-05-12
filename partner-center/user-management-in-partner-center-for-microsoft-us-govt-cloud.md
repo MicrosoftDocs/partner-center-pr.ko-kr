@@ -10,22 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb0a1f221f9dd7e938fb43334543801c94c3181
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: ddbc4415dc7ccf524f5e9618b2e787bc4ddb9926
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441458"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794941"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government의 파트너 센터에서 사용자 및 라이선스 관리
 
-**적용 대상**
+**적용 대상**: 파트너 센터 | 미국 정부에 대 한 파트너 센터 Microsoft 클라우드
 
-- Microsoft Cloud for US Government 파트너 센터
-
-**적절한 역할**
-
-- 글로벌 관리자
+**적절 한 역할**: 전역 관리자
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>미국 정부에 대 한 Microsoft 클라우드 Azure Portal에서 사용자를 관리 하는 방법
 
