@@ -9,19 +9,17 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028318"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856103"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 및 Dynamics 365에 대해 요청 된 CPOR (레코드 파트너) 모델을 통한 고객 연결
 
 
-**적절한 역할**
-
-- 인센티브 관리자
+**적절 한 역할**: 성과급 관리자
 
 2019 년 10 월 1 일부 터 Microsoft는 Microsoft의 Microsoft Microsoft 365 및 Dynamics 365 고객과의 연결을 관리 하기 위해 Microsoft의 OSA (온라인 서비스 자문) 판매, OSU (온라인 서비스 사용)-Microsoft 365 및 OSU-Business 응용 프로그램에 대 한 사용과 관련 된 연결을 관리 하기 시작 했습니다.
 

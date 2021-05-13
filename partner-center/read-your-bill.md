@@ -1,60 +1,56 @@
 ---
-title: 청구서 & 정찰 파일을 읽는 방법
+title: 청구 & 재구성 파일을 읽는 방법
 ms.topic: article
 ms.date: 06/05/2020
-description: 청구서 & 조정 파일에 대해 알아봅니다. 청구서에는 해당 월간 기간의 프로그램, 제품 및 고객에 대 한 파트너 센터 요금이 표시 됩니다.
+description: 청구서 & 조정 파일에 대해 알아봅니다. 청구서에는 해당 월별 기간의 프로그램, 제품 및 고객에 대한 파트너 센터 요금이 표시됩니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964360"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855916"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해-파트너 센터에서 해당 파일을 찾는 방법을 알아봅니다.
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>청구서 및 조정 파일 이해 - 파트너 센터 찾는 방법 알아보기
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 청구 관리자
-- 관리 에이전트
+**적절한 역할:** 전역 관리자 | 청구 관리자 | 관리 에이전트
 
 
-**청구서** 는 **모든 파트너 센터 요금** (프로그램, 모든 제품 및 모든 고객)에 대 한 요약입니다. 
+**청구서는** 모든 파트너 센터 요금(프로그램, 모든 제품 및 모든 고객)에 대한 **요약입니다.** 
 
 ## <a name="find-your-bill-and-reconciliation-file"></a>청구서 및 조정 파일 찾기 
 
-파트너 센터에서 대시보드의 청구 페이지에서 송장을 찾을 수 있습니다. 또한이 페이지에서 청구 내역, 지출 추세 및 조정 파일을 찾을 수 있습니다. 
+파트너 센터 대시보드의 청구 페이지에서 청구서를 찾을 수 있습니다. 이 페이지에서 청구 기록, 지출 추세 및 조정 파일을 찾을 수도 있습니다. 
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다. 
 
-2. 왼쪽 메뉴에서 **청구** 를 선택 합니다. 
+2. 왼쪽 메뉴에서 **청구를** 선택합니다. 
 
 3. 청구 상태 페이지에서 청구서 또는 조정 파일을 선택하여 자세한 정보를 확인합니다. 
 
-마지막 청구서 날짜의 계정 잔액에서 페이지 맨 위에 있는 최신 청구서에 대 한 링크를 찾을 수 있습니다. 
+마지막 청구서 날짜를 기준으로 계정 잔액 아래의 페이지 맨 위에서 최신 청구서에 대한 링크를 찾을 수 있습니다. 
 
-청구 내역 섹션에서 이전 송장을 찾을 수 있습니다. 적절 한 연도를 선택 하 고 적절 한 청구 기간 옆에 있는 드롭다운 화살표를 선택 합니다. 청구서 (.pdf) 옆의 링크를 선택 하 여 해당 기간의 송장을 다운로드 합니다. 
+이전 청구서는 청구 기록 섹션에서 찾을 수 있습니다. 적절한 연도를 선택한 다음, 적절한 청구 기간 옆에 있는 드롭다운 화살표를 선택합니다. 청구서(.pdf) 옆에 있는 링크를 선택하여 해당 기간의 청구서를 다운로드합니다. 
 
-## <a name="invoice-types"></a>송장 유형
+## <a name="invoice-types"></a>청구서 유형
 
-Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 요금 (예: Azure)에 대해 하나의 송장을 발급 하 고, 일회성 요금 (예: Azure RI, Marketplace 또는 Azure 요금제)에 대 한 별도의 송장을 발급 합니다.
+Microsoft는 라이선스 기반 요금(예: Office 365) 및 사용량 기반 요금(예: Azure)에 대해 하나의 청구서와 일회성 요금(예: Azure RI, Marketplace 또는 Azure 플랜)에 대한 별도의 청구서를 발급합니다.
 
-예제:  
+예를 들면 다음과 같습니다.  
 
-**시나리오 1 [단일 통화]**: 파트너가 145P 제품 및 O365 라이선스를 구입 했습니다.  
+**시나리오 1 [단일 통화]**: 파트너가 145P 제안 및 O365 라이선스를 구매했습니다.  
 
-- 파트너는 O365 및 Azure (145p) 모두에 대 한 요금을 포함 하는 하나의 송장 PDF 및 2 조정 파일을 받습니다.  
+- 파트너는 O365 및 Azure(145p) 모두에 대한 요금을 포함하는 청구서 PDF 1개와 조정 파일 2개를 받게 됩니다.  
 
-**시나리오 2 [단일 통화]**: 파트너가 145p 구매와 함께 azure RI, Marketplace 및/또는 azure 요금제에 대 한 구매를 보유 하 고 있습니다.
+**시나리오 2 [단일 통화]**: 파트너가 145p 구매와 함께 Azure RI, Marketplace 및/또는 Azure 플랜을 구매했습니다.
 
-- 파트너는 Azure (145p)의 요금을 포함 하는 하나의 송장 PDF 및 조정 파일을 받습니다. 
+- 파트너는 Azure에 대한 요금(145p)을 포함하는 하나의 청구서 PDF 및 조정 파일을 받게 됩니다. 
 
 - 파트너는 Azure RI, Marketplace, Azure 요금제에 대 한 요금을 포함 하는 또 다른 청구서 PDF 및 조정 파일을 받게 됩니다. 
 
@@ -93,8 +89,8 @@ Microsoft는 라이선스 기반 요금 (예: Office 365) 및 사용량 기반 �
 
 ## <a name="understand-reconciliation-files"></a>조정 파일 이해
 
- 요금 드릴 다운/항목별 세부 정보를 제공 하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다. 조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함 됩니다. 정찰 파일에 대 한 자세한 내용을 보려면  [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md) 을 참조 하세요. 
+ 요금에 대한 드릴다운/항목별 세부 정보를 제공하는 조정 파일은 청구서 PDF와 함께 다운로드할 수 있습니다. 조정 파일에는 고객 청구서를 만드는 데 사용할 수 있는 고객 식별자 및 구독 식별자가 포함됩니다.  [조정 파일을 사용하는 방법을 참조하여](use-the-reconciliation-files.md) 조정 파일에 대한 자세한 내용을 확인하세요. 
 
 ## <a name="next-steps"></a>다음 단계
 
-- [조정 파일을 사용 하는 방법](use-the-reconciliation-files.md)
+- [조정 파일을 사용하는 방법](use-the-reconciliation-files.md)
