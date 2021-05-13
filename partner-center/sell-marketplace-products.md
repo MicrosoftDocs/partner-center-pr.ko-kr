@@ -9,23 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002878"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855389"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a><span data-ttu-id="53d74-103">파트너 센터를 사용하여 상용 마켓플레이스 제품에 대한 고객 구독 판매</span><span class="sxs-lookup"><span data-stu-id="53d74-103">Use Partner Center to sell customers subscriptions to commercial marketplace products</span></span>
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a><span data-ttu-id="da244-103">파트너 센터를 사용하여 상용 마켓플레이스 제품에 대한 고객 구독 판매</span><span class="sxs-lookup"><span data-stu-id="da244-103">Use Partner Center to sell customers subscriptions to commercial marketplace products</span></span>
 
-<span data-ttu-id="53d74-104">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="53d74-104">**Appropriate roles**</span></span>
+<span data-ttu-id="da244-104">**적절 한 역할**: 판매 에이전트</span><span class="sxs-lookup"><span data-stu-id="da244-104">**Appropriate roles**: Sales agent</span></span>
 
-- <span data-ttu-id="53d74-105">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="53d74-105">Sales agent</span></span>
+<span data-ttu-id="da244-105">CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에 게시 된 SaaS (Software as a Service) 제품에 고객 구독을 판매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="da244-105">As a partner in the CSP program, you can use Partner Center to sell customers subscriptions to Software as a Service (SaaS) products that have been published to the commercial marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) and [Azure Marketplace](https://azuremarketplace.microsoft.com/)) by Independent Software Vendors (ISVs).</span></span>
 
-<span data-ttu-id="53d74-106">CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 Isv (독립 소프트웨어 공급 업체)에 의해 상업적 marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) 및 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에 게시 된 SaaS (Software as a Service) 제품에 고객 구독을 판매할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="53d74-106">As a partner in the CSP program, you can use Partner Center to sell customers subscriptions to Software as a Service (SaaS) products that have been published to the commercial marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) and [Azure Marketplace](https://azuremarketplace.microsoft.com/)) by Independent Software Vendors (ISVs).</span></span>
+<span data-ttu-id="da244-106">이는 비즈니스를 차별화하고 고객 고유의 비즈니스 요구를 충족하는 소프트웨어 번들을 제공하는 데 도움이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="da244-106">This can help differentiate your business and provide your customers with software bundles that address their specific business needs.</span></span> <span data-ttu-id="da244-107">이러한 Marketplace SaaS 제품의 라이선스 및 구독은 Microsoft 제품과 동일하게 관리합니다.</span><span class="sxs-lookup"><span data-stu-id="da244-107">You manage licenses and subscriptions for these Marketplace SaaS products just as you do for Microsoft products.</span></span>
 
-<span data-ttu-id="53d74-107">이는 비즈니스를 차별화하고 고객 고유의 비즈니스 요구를 충족하는 소프트웨어 번들을 제공하는 데 도움이 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="53d74-107">This can help differentiate your business and provide your customers with software bundles that address their specific business needs.</span></span> <span data-ttu-id="53d74-108">이러한 Marketplace SaaS 제품의 라이선스 및 구독은 Microsoft 제품과 동일하게 관리합니다.</span><span class="sxs-lookup"><span data-stu-id="53d74-108">You manage licenses and subscriptions for these Marketplace SaaS products just as you do for Microsoft products.</span></span>
+<span data-ttu-id="da244-108">CSP 프로그램의 파트너가 상업적 marketplace를 사용 하는 방법에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="da244-108">To learn how partners in the CSP program can use the commercial marketplace, see the [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
 
-<span data-ttu-id="53d74-109">CSP 프로그램의 파트너가 상업적 marketplace를 사용 하는 방법에 대 한 자세한 내용은 [클라우드 솔루션 공급자를 위한 상용 마켓플레이스 개요](csp-commercial-marketplace-overview.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="53d74-109">To learn how partners in the CSP program can use the commercial marketplace, see the [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
-
-<span data-ttu-id="53d74-110">또는 상업적 marketplace의 다양 한 Isv 역할에 대해 알아보려면 [Marketplace faq](/azure/marketplace/marketplace-faq-publisher-guide)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="53d74-110">Or, to learn about the different role of ISVs in the commercial marketplace, see [Marketplace FAQs](/azure/marketplace/marketplace-faq-publisher-guide).</span></span>
+<span data-ttu-id="da244-109">또는 상업적 marketplace의 다양 한 Isv 역할에 대해 알아보려면 [Marketplace faq](/azure/marketplace/marketplace-faq-publisher-guide)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="da244-109">Or, to learn about the different role of ISVs in the commercial marketplace, see [Marketplace FAQs](/azure/marketplace/marketplace-faq-publisher-guide).</span></span>

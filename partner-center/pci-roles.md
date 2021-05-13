@@ -9,31 +9,26 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120786"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854437"
 ---
-# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a><span data-ttu-id="94750-104">파트너 센터 Insights 대시보드에 대 한 역할 기반 액세스 제어</span><span class="sxs-lookup"><span data-stu-id="94750-104">Role-based access control to the Partner Center Insights dashboard</span></span>
+# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a><span data-ttu-id="7fdbb-104">파트너 센터 Insights 대시보드에 대 한 역할 기반 액세스 제어</span><span class="sxs-lookup"><span data-stu-id="7fdbb-104">Role-based access control to the Partner Center Insights dashboard</span></span>
 
-<span data-ttu-id="94750-105">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="94750-105">**Appropriate roles**</span></span>
+<span data-ttu-id="7fdbb-105">**적절 한 역할**: 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="7fdbb-105">**Appropriate roles**: Global admin | Admin agent | Report viewer | Executive report viewer</span></span>
 
-- <span data-ttu-id="94750-106">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="94750-106">Global admin</span></span>
-- <span data-ttu-id="94750-107">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="94750-107">Admin agent</span></span>
-- <span data-ttu-id="94750-108">보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="94750-108">Report viewer</span></span>
-- <span data-ttu-id="94750-109">임원 보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="94750-109">Executive report viewer</span></span>
+<span data-ttu-id="7fdbb-106">Insights 대시보드는 파트너 센터에서 두 개의 새로운 역할을 사용 하 여 보고서-임원 보고서 뷰어와 보고서 뷰어에 대 한 직원 액세스를 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-106">The Insights dashboard uses two new roles in Partner Center to manage employee access to the reports - Executive Report Viewer and Report Viewer.</span></span>  <span data-ttu-id="7fdbb-107">임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있으며, 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요 한 데이터 집합에 액세스할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-107">Users in the Executive Report Viewer role have access to all reporting datasets, while users in the Report Viewer role will not have access to sensitive data sets such as revenue and customer/employee personal data.</span></span>  
 
-<span data-ttu-id="94750-110">Insights 대시보드는 파트너 센터에서 두 개의 새로운 역할을 사용 하 여 보고서-임원 보고서 뷰어와 보고서 뷰어에 대 한 직원 액세스를 관리 합니다.</span><span class="sxs-lookup"><span data-stu-id="94750-110">The Insights dashboard uses two new roles in Partner Center to manage employee access to the reports - Executive Report Viewer and Report Viewer.</span></span>  <span data-ttu-id="94750-111">임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있으며, 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요 한 데이터 집합에 액세스할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="94750-111">Users in the Executive Report Viewer role have access to all reporting datasets, while users in the Report Viewer role will not have access to sensitive data sets such as revenue and customer/employee personal data.</span></span>  
-
-<span data-ttu-id="94750-112">다른 파트너 센터 역할과 마찬가지로 전역 관리자 또는 계정 관리자는 사용자 관리 페이지에서 해당 역할에 사용자를 할당할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="94750-112">As with other Partner Center roles, the Global admin or the Account admin will be able to assign users to those roles on the User management page.</span></span> <span data-ttu-id="94750-113">역할은 전체 회사 또는 특정 MPN 위치에서 적용 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="94750-113">The roles can be applicable across the entire company or for specific MPN location(s).</span></span> <span data-ttu-id="94750-114">특정 MPN 위치에 대해 할당 된 역할은 사용자가 선택한 MPN 위치에만 연결 된 보고 데이터를 볼 수 있도록 제한 합니다.</span><span class="sxs-lookup"><span data-stu-id="94750-114">Roles assigned for specific MPN location(s) limit the user to viewing reporting data associated only with the selected MPN location(s).</span></span> <span data-ttu-id="94750-115">파트너는 아래 보기에서 하나 또는 여러 위치를 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="94750-115">Partner can select one or multiple locations from the below view.</span></span>
+<span data-ttu-id="7fdbb-108">다른 파트너 센터 역할과 마찬가지로 전역 관리자 또는 계정 관리자는 사용자 관리 페이지에서 해당 역할에 사용자를 할당할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-108">As with other Partner Center roles, the Global admin or the Account admin will be able to assign users to those roles on the User management page.</span></span> <span data-ttu-id="7fdbb-109">역할은 전체 회사 또는 특정 MPN 위치에서 적용 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-109">The roles can be applicable across the entire company or for specific MPN location(s).</span></span> <span data-ttu-id="7fdbb-110">특정 MPN 위치에 대해 할당 된 역할은 사용자가 선택한 MPN 위치에만 연결 된 보고 데이터를 볼 수 있도록 제한 합니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-110">Roles assigned for specific MPN location(s) limit the user to viewing reporting data associated only with the selected MPN location(s).</span></span> <span data-ttu-id="7fdbb-111">파트너는 아래 보기에서 하나 또는 여러 위치를 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-111">Partner can select one or multiple locations from the below view.</span></span>
 
 :::image type="content" source="images/pci/roles.png" alt-text="보고서 뷰어 및 임원 보고서 뷰어에 대 한 위치별 파트너 센터 정보 역할 설정을 표시 합니다.":::
 
 >[!Note]
-> <span data-ttu-id="94750-117">MPN 관리자가 1 월 20, 2020 인 사용자는 해당 테 넌 트의 모든 위치에 대 한 회사 전체의 **임원 보고서 뷰어** 역할에 자동으로 추가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="94750-117">Users who are MPN admins as of Jan 20th, 2020 are automatically added to the company-wide **Executive Report Viewer** role for all locations for that tenant.</span></span> <span data-ttu-id="94750-118">따라서 이러한 사용자는 전역 관리자 또는 계정 관리자에 게 필요한 명시적인 조치 없이도 보고서를 임원 보고서 뷰어로 액세스할 수 있습니다. 전역 관리자 및 계정 관리자는 이러한 사용자의 자동 할당 된 역할을 재정의 하 여 해당 기능을 추가로 늘리거나 제한할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="94750-118">These users are thus able to access the reports as an Executive Report viewer without any explicit action required by Global admin or Account admin. The Global admins and Account admins can override the auto-assigned roles of these users to further increase or limit their capabilities.</span></span>
+> <span data-ttu-id="7fdbb-113">MPN 관리자가 1 월 20, 2020 인 사용자는 해당 테 넌 트의 모든 위치에 대 한 회사 전체의 **임원 보고서 뷰어** 역할에 자동으로 추가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-113">Users who are MPN admins as of Jan 20th, 2020 are automatically added to the company-wide **Executive Report Viewer** role for all locations for that tenant.</span></span> <span data-ttu-id="7fdbb-114">따라서 이러한 사용자는 전역 관리자 또는 계정 관리자에 게 필요한 명시적인 조치 없이도 보고서를 임원 보고서 뷰어로 액세스할 수 있습니다. 전역 관리자 및 계정 관리자는 이러한 사용자의 자동 할당 된 역할을 재정의 하 여 해당 기능을 추가로 늘리거나 제한할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-114">These users are thus able to access the reports as an Executive Report viewer without any explicit action required by Global admin or Account admin. The Global admins and Account admins can override the auto-assigned roles of these users to further increase or limit their capabilities.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="94750-119">다음 단계</span><span class="sxs-lookup"><span data-stu-id="94750-119">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="7fdbb-115">다음 단계</span><span class="sxs-lookup"><span data-stu-id="7fdbb-115">Next steps</span></span>
 
-- <span data-ttu-id="94750-120">[파트너 센터](partner-center-insights.md) 정보 및 다양 한 보고서에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="94750-120">Learn more about [Partner Center Insights](partner-center-insights.md) and its various reports.</span></span>
+- <span data-ttu-id="7fdbb-116">[파트너 센터](partner-center-insights.md) 정보 및 다양 한 보고서에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="7fdbb-116">Learn more about [Partner Center Insights](partner-center-insights.md) and its various reports.</span></span>
