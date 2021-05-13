@@ -9,21 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 803c299311f129c4842a92a27abd9b9addb49f17
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120786"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854437"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에 대 한 역할 기반 액세스 제어
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
-- 보고서 뷰어
-- 임원 보고서 뷰어
+**적절 한 역할**: 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어
 
 Insights 대시보드는 파트너 센터에서 두 개의 새로운 역할을 사용 하 여 보고서-임원 보고서 뷰어와 보고서 뷰어에 대 한 직원 액세스를 관리 합니다.  임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있으며, 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요 한 데이터 집합에 액세스할 수 없습니다.  
 

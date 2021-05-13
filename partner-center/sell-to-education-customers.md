@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028370"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855406"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>교육 고객에 게 제품을 판매 하는 방법 및 파트너 센터에서 교육 고객을 만드는 방법
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
-- 영업 상담원
+**적절 한 역할**: 전역 관리자 | 관리 에이전트 | 판매 에이전트
 
 ## <a name="create-an-education-customer"></a>교육 고객 만들기
 
@@ -41,42 +37,42 @@ ms.locfileid: "105028370"
    - **고객 연락처 정보**: 이러한 세부 정보는 확인 프로세스의 일부로 사용 됩니다.
    - **주 도메인 이름**: 고객의 계정 및 전자 메일 주소를 만드는 데 사용 됩니다.  회사 이름과 비슷하게 공백 또는 특수 문자 없이 이름을 선택 합니다.  이 이름은 나중에 변경할 수 없습니다.
 
-3. 완료 되 면 **검토** 를 선택 합니다.
+3. 완료되면 **검토를** 선택합니다.
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="교육 고객 계정":::
 
-4. **검토** 를 확인 한 후 제출 된 정보가 유효한 경우 **inreview** 상태를 받게 됩니다. 
+4. **검토를** 확인한 후 제출된 정보가 유효한 경우 **InReview** 상태가 표시됩니다. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="리뷰의 교육 고객 계정"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="검토하는 교육 고객 계정"lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>교육 고객의 확인 상태 확인
 
-고객 **계정** 페이지에서 **특수 한 한정 상태** 를 참조 하세요.
-상태 예:
+고객의 **계정** 페이지에서 **특별 자격 상태를 참조하세요.**
+상태 예제:
 
-- 고객이 검증을 통과 한 경우: 교육
+- 고객이 확인을 통과한 경우: 교육
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="교육 검증 성공":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="교육 확인에 성공했습니다.":::
 
-- 고객이 검증을 통과 하지 못한 경우: 교육 고객이 아님
+- 고객이 확인을 통과하지 못한 경우: 교육 고객이 아닙니다.
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="교육을 확인 하지 못했습니다." lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="교육 확인에 실패했습니다." lightbox="images/edu/fail-reason-expanded.png":::
 
-- 고객이 교육 고객으로 태그가 지정 되지 않은 경우: 없음
+- 고객이 교육 고객으로 태그가 지정되지 않은 경우: 없음
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="교육 고객에 게 태그가 지정 되지 않은 경우" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="교육 고객은 이와 같이 태그가 지정되지 않습니다." lightbox="images/edu/account-one-expanded.png":::
 
 - 고객이 교육 고객으로 검토 중인 경우: 검토 중
 
     :::image type="content" source="images/edu/in-review.png" alt-text="교육 고객이 검토 중인 경우" lightbox="images/edu/in-review-expanded.png":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>고객 계정 정보를 수정 하 고 확인을 위해 다시 제출 합니다.
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>고객 계정 정보를 수정하고 확인을 위해 다시 제출합니다.
 
-고객이 초기 확인에 실패 한 경우 이제 정보를 수정 하 고 다시 제출할 수 있습니다.
+고객이 초기 확인에 실패하면 이제 정보를 수정하고 다시 제출할 수 있습니다.
 
 ### <a name="correct-the-customer-account-information"></a>고객 계정 정보 수정
 
-고객 정보를 업데이트 하려면 전역 관리자 권한이 있어야 합니다. 파트너 센터 포털에서이 데이터를 업데이트할 수 없으므로 Office 365 포털에서 정보를 업데이트 합니다.
+고객 정보를 업데이트하려면 전역 관리자 권한이 있어야 합니다. 이 데이터는 파트너 센터 포털에서 업데이트할 수 없으므로 Office 365 포털에서 정보를 업데이트합니다.
 
 1. **계정** 페이지에서 고객 자격이 "교육 고객이 아닌" 것으로 간주 됨을 나타내는 정보가 표시 됩니다.
 

@@ -9,23 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215869"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854981"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>홍보를 사용 하 여 새 고객을 모집 하 고 절감 액을 전달 합니다.
 
 
 
-**적절한 역할**
-
-- 관리 에이전트
-- MPN 파트너 관리자
-- 청구 관리자
-- 영업 상담원
+**적절 한 역할**: 관리 에이전트 | MPN 파트너 관리자 | 청구 관리자 | 판매 에이전트
 
 
 Microsoft에서는 가끔 라이선스 기반 구독에 대한 프로모션을 제공하므로 이를 통해 비용을 절감하여 그 혜택을 고객에게 전달하고 비즈니스를 성장시킬 수 있습니다. 
@@ -59,11 +54,11 @@ Microsoft는 CSP (클라우드 솔루션 공급자) 프로그램의 모든 적�
 
 4. 고객이 필요로 하는 라이선스의 수를 입력 합니다. 
 
-5. 순서를 검토 합니다. **할인** 열에 적용 되는 홍보 행사 가격이 표시 됩니다.  
+5. 순서를 검토 합니다. **할인** 열에 적용되는 프로모션 가격이 표시됩니다.  
 
-6. 구매 하려면 **제출** 을 선택 합니다. 고객은 다음 청구서에서 판촉 요금을 볼 수 있습니다.  
+6. **구매하려면 제출을** 선택합니다. 고객은 다음 청구서에서 프로모션 가격을 볼 수 있습니다.  
 
 
 ## <a name="next-steps"></a>다음 단계
 
-- [특수 대상에 판매](sell-to-education-customers.md)
+- [전문 대상에게 판매](sell-to-education-customers.md)

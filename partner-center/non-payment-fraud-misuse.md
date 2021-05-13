@@ -9,25 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686299"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818663"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>파트너 센터에서 미결제, 사기 또는 오용 관리
 
-**적용 대상**
+**적용:** 파트너 센터 | Microsoft Cloud for US Government 대한 파트너 센터
 
-- Microsoft Cloud for US Government 파트너 센터
-
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 청구 관리자
+**적절한 역할:** 전역 관리자 | 사용자 관리 관리자 | 관리 에이전트 | 청구 관리자
 
 귀하는 고객 및/또는 고객이 구매한 서비스의 미결제로 인한 사기성 구매에 대해 재정적 책임이 있습니다. 따라서 *사기 방지 및 탐지 위험 완화 제어를 시행하는 것이 좋습니다.*
 
@@ -52,9 +45,9 @@ Microsoft의 허용 가능한 사용 정책에 대한 이러한 위반의 예는
 - 맬웨어 배포
 - 구독 전매
 
-## <a name="theft-of-service-risks"></a>서비스 위험 도난
+## <a name="theft-of-service-risks"></a>서비스의 도난 위험
 
-서비스 위험 **도난은** 소비된 서비스에 대한 비용을 지불할 의도가 없는 고객을 의미합니다. 도난 당한 요금 청구를 사용 하 고, 거짓 청구 정보를 제공 하 고, 미 불 잔액을 기본값으로 사용 하는 경우이 도난에 관여 합니다.
+**서비스 위험 도난** 은 사용 된 서비스에 대해 지불 하지 않는 고객을 의미 합니다. 도난 당한 요금 청구를 사용 하 고, 거짓 청구 정보를 제공 하 고, 미 불 잔액을 기본값으로 사용 하는 경우이 도난에 관여 합니다.
 
 ### <a name="examples-of-service-theft"></a>서비스 도난 예
 
@@ -79,11 +72,11 @@ Microsoft의 허용 가능한 사용 정책에 대한 이러한 위반의 예는
 - 등록 하는 동안 multi-factor authentication (예: SMS 확인)을 사용 하 여 로봇 계정 만들기 및 구매에 대 한 노출을 최소화 합니다.
 - 디지털 id 서비스와 같은 서비스를 사용 하 여 id를 관리 하 고 추적 합니다.
 - 엄격한 신용 카드 사기 감지 시스템을 통해 고객 재무 강도를 평가 합니다.
-- 컬렉션 지우기 정책을 설정 합니다. 컬렉션 프로세스에 대해 자세히 설명 하 고 구독에 대 한 액세스가 비 지불액의 영향을 받을 수 있습니다. (지불 하지 않도록 액세스를 사용 하지 않도록 설정 하거나 [고객의 구독을 일시 중단할](create-a-new-subscription.md#suspend-a-subscription) 수 있습니다.)
+- 컬렉션 지우기 정책을 설정 합니다. 컬렉션 프로세스 및 구독에 대한 액세스가 미결제의 영향을 받는 시기를 자세히 설명합니다. (미결제에 대한 [고객의 구독에](create-a-new-subscription.md#suspend-a-subscription) 대한 액세스를 사용하지 않도록 설정하거나 일시 중단할 수 있습니다.)
 
 ### <a name="managing-customer-accounts"></a>고객 계정 관리
 
-구매 후 고객 계정을 관리하기 위한 제안 사항:
+구매 후 고객 계정 관리에 대한 제안은 다음과 같습니다.
 
 - Microsoft 알림을 신속하게 수신, 검토, 작업 및 응답하는 프로세스를 구현합니다.
 - 적절한 모니터링 임계값을 설정하면서 고객과 협력하여 클라우드 사용량 비즈니스 요구 사항을 이해합니다. 예를 들어 파트너 센터 [월별 Azure 지출 예산을 설정할](set-an-azure-spending-budget-for-your-customers.md) 수 있습니다. 이러한 이해를 통해 해당 월 동안 고객 사용량을 모니터링하고 고객이 예산에 근접하면 알림을 받을 수 있습니다.)
@@ -97,6 +90,6 @@ Microsoft의 허용 가능한 사용 정책에 대한 이러한 위반의 예는
 
 - 초기 트랜잭션 및 청구 전에 선불을 요청합니다.
 - 위험성이 높은 결제 방법(예: 선불 카드 또는 저장된 값 카드)은 허용하지 않습니다.
-- 고객 지불 및 페이징 계정 수취인을 모니터링합니다. 지연 지불 또는 미결제에 대해 표준화된 결제 프로세스를 적극적으로 적용합니다.
+- 고객 지불 및 미지불금액을 모니터링합니다. 지연 지불 또는 미결제에 대해 표준화된 결제 프로세스를 적극적으로 적용합니다.
 
 온라인 위험을 완화하기 위한 자세한 전략은 [온라인 트랜잭션 위험 관리 가이드를 참조하세요.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

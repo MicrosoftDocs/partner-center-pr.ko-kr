@@ -10,22 +10,17 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 15ee391d6b748b6499700aee321ff4abd85e75d2
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633695"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854488"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI용 파트너 센터 분석 앱 설치 및 미리 보기
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 영업 상담원
-- 관리 에이전트
+**적절 한 역할**: 전역 관리자 | 사용자 관리 관리자 | 판매 에이전트 | 관리 에이전트
 
 ## <a name="before-you-begin"></a>시작하기 전에
 
@@ -65,25 +60,25 @@ ms.locfileid: "105633695"
 
 7. 앱 섹션 아래에 설치 된 템플릿 앱을 찾을 수 있습니다.
 
-8. **앱** 을 선택 하 고 설치 된 앱을 선택 합니다.
+8. **앱을** 선택하고 설치된 앱을 선택합니다.
 
 9. 새 앱 시작 화면이 열립니다.
 
-10. 데이터에 연결 하려면 **연결** 을 선택 합니다.
+10. 데이터에 연결하려면 **연결을** 선택합니다.
 
-11. **파트너 센터 분석에 연결** 팝업 창에서 **인증 방법이** **oAuth2** 으로 설정 되어 있는지 확인 하 고 그렇지 않은 경우 목록에서 **oAuth2** 를 선택 합니다. 
+11. 파트너 센터 **Analytics에 연결** 팝업 창에서 **인증 방법이** **oAuth2로** 설정되어 있는지 확인하거나, 그렇지 않은 경우 목록에서 **oAuth2를** 선택합니다. 
 
 > [!NOTE]  
->  이 창을 표시 하는 데 몇 분 정도 걸릴 수 있습니다.
+>  이 창이 나타나려면 몇 분 정도 걸릴 수 있습니다.
 
-12. **파트너 센터 분석 커넥터** 페이지에서 회사의 Azure AD 테 넌 트에 대 한 전역 관리자, 관리 에이전트 또는 청구 관리자 자격 증명을 사용 하 여 로그인 한 다음 **로그인** 을 선택 합니다.
+12. 파트너 센터 **Analytics Connector** 페이지에서 회사의 Azure AD 테넌트의 전역 관리자, 관리 에이전트 또는 청구 관리자 자격 증명으로 **로그인한** 다음 로그인을 선택합니다.
  
-13. 액세스를 요청 하는 메시지가 표시 되 면 **동의** 를 선택 합니다. 
+13. 액세스하라는 메시지가 표시되면 **동의를** 선택합니다. 
 
-파트너 센터 분석 서비스가 Power BI에 연결 되 면 데이터가 로드 되기 시작 합니다. 데이터 양에 따라 최대 10 분이 소요 될 수 있습니다. 
+파트너 센터 Analytics 서비스가 Power BI 연결되면 데이터가 로드되기 시작합니다. 데이터 양에 따라 최대 10분이 걸릴 수 있습니다. 
 
-데이터가 로드를 완료 한 후 Power BI에서 파트너 센터 분석 앱 대시보드 및 보고서를 사용 하 여 시작할 수 있습니다.
+데이터 로드가 완료되면 Power BI 파트너 센터 Analytics 앱 대시보드 및 보고서를 사용할 수 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 
-[Microsoft Power BI 파트너 센터 분석 앱을 사용 하 여 비즈니스 데이터 보기](power-bi-app-for-direct-partners-use.md)
+[Microsoft Power BI 파트너 센터 Analytics 앱을 사용하여 비즈니스 데이터 보기](power-bi-app-for-direct-partners-use.md)

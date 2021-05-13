@@ -9,18 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: e57ae5a30e3ee4331ae509a0650d09baf4a82590
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768757"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854896"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>CSP(클라우드 솔루션 공급자) 직접 청구 파트너에서 CSP 간접 재판매인으로 전환
 
-**적절한 역할**
-
-- 글로벌 관리자
+**적절 한 역할**: 전역 관리자
 
 >[!Note]
 >이 문서는 간접 대리점으로 전환 하기로 결정 한 직접 청구 파트너를 위한 것입니다. 그러나 간접 재판매인으로 등록 하는 것을 명시적으로 결정 하지 않은 경우에도 CSP 직접 청구 파트너 프로그램의 새 [요구 사항을](direct-partner-new-requirements.md) 충족 하지 않는 직접 청구 파트너는 [직접 청구 기능을 제한할](restricted-direct-bill-capabilities.md)때 Microsoft에서 알려줍니다.
@@ -116,40 +114,40 @@ ms.locfileid: "104768757"
 - 제품에 대 한 주문 만들기
 - Azure 예약 관리
 - 주문 기록 관리
-- 소프트웨어 구입
-- 고객에 게 직접 청구
+- 소프트웨어 구매
+- 고객에게 직접 청구
 
-### <a name="indirect-reseller-customers"></a>간접 재판매인 고객
+### <a name="indirect-reseller-customers"></a>간접 대리점 고객
 
-- 고객을 위한 간접 공급자 주문 제품
+- 간접 공급자가 고객을 위해 제품을 주문합니다.
 - 고객의 라이선스 및 사용자 관리
 - 구독 갱신 처리
 
-### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>직접 청구 파트너로 구매한 고객을 확인 하려면
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>직접 청구 파트너로 획득한 고객을 식별하려면
 
 1. **고객** 을 선택합니다.
 
-2. 고객을 선택 하 여 세부 정보를 확인 합니다.
+2. 세부 정보를 볼 고객을 선택합니다.
 
-3. 이 고객이 직접 청구 파트너로 구매한 경우 제품을 **추가** 하거나 **볼** 수 있는 옵션이 표시 되 고 해당 구독이 표시 됩니다.
+3. 이 고객이 직접 청구 파트너로 획득한 고객인 경우 제품을 **추가하거나** **보는** 옵션이 표시되고 해당 구독이 표시됩니다.
 
-4. 고객에 게 간접 대리점 관계가 있는 경우 해당 옵션을 사용할 수 없습니다.
+4. 고객이 귀하와 간접 대리점 관계를 맺은 경우 해당 옵션을 사용할 수 없습니다.
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>직접 청구 고객을 간접 공급자로 이동
 
-간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문 또는 기존 구독 전송을 제출할 수 없습니다. 간접 공급자와 기존 직접 청구 고객 간에 재판매인 관계를 설정 하려면 다음 방법 중 하나를 사용할 수 있습니다.
+간접 공급자는 기존 직접 청구 고객에 대한 주문 또는 기존 구독 양도를 대리점과 관계를 맺을 때까지 제출할 수 없습니다. 간접 공급자와 기존 직접 청구 고객 간에 대리점 관계를 설정하려면 다음 방법 중 하나를 사용할 수 있습니다.
 
-- [대리점 관계 확장](#reseller-relationship-extension)
+- [Reseller 관계 확장](#reseller-relationship-extension)
 
-- [간접 재판매인 초대를 고객에 게 보내기](#send-an-indirect-reseller-invitation-to-the-customer)
+- [고객에게 간접 대리점 초대 보내기](#send-an-indirect-reseller-invitation-to-the-customer)
 
-[간접 전환 직접 전환 문서](https://partner.microsoft.com/resources/collection/Direct-Bill-transition-to-Indirect-reseller#/) 에서 단계별 프로세스에 대 한 자세한 개요를 찾을 수 있습니다.
+[직접-간접 전환 문서에서](https://partner.microsoft.com/resources/collection/Direct-Bill-transition-to-Indirect-reseller#/) 단계별 프로세스에 대한 자세한 개요를 찾을 수 있습니다.
 
-### <a name="reseller-relationship-extension"></a>대리점 관계 확장
+### <a name="reseller-relationship-extension"></a>Reseller 관계 확장
 
-대리점 관계 확장 기능을 사용 하 여 파트너 센터 대시보드를 사용 하 여 기존 직접 청구 고객 및 간접 공급자 간에 재판매인 관계를 설정할 수 있습니다. 기능을 사용 하기 전에 다음에 유의 하십시오.
+파트너 센터 대시보드를 사용하여 기존 직접 청구 고객과 간접 공급자 간에 대리점 관계를 설정하려면 대리점 관계 확장 기능을 사용할 수 있습니다. 이 기능을 사용하기 전에 다음을 참고하세요.
 
-- 이 기능은 간접 재판매인이 [간접 재판매인 등록](#get-started)을 완료 하는 것으로 전환 중인 직접 청구 파트너 에게만 사용할 수 있습니다.
+- 이 기능은 간접 대리점으로 전환하는 직접 청구 파트너가 간접 대리점 등록을 완료한 경우에만 사용할 수 [있습니다.](#get-started)
 
 - 기존 직접 청구 고객 에게만이 기능을 적용할 수 있습니다. [간접 재판매인 고객](#acquire-new-customers-as-indirect-reseller)에 게는 적용 되지 않습니다.
 
@@ -181,41 +179,41 @@ ms.locfileid: "104768757"
 
 5. **저장 후 계속** 을 클릭합니다.
 
-6. 선택한 간접 공급자가 **간접 공급자** 아래에 표시 되는지 확인 합니다.
+6. 선택한 간접 공급자가 간접 공급자 아래에 **표시되는지 확인합니다.**
 
     :::image type="content" source="images/direct/direct5-2.png" alt-text="간접 공급자 나열":::
 
-### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>간접 재판매인 초대를 고객에 게 보내기
+### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>고객에게 간접 대리점 초대 보내기
 
-간접 공급자는 대리점 관계에 도달할 때까지 기존 직접 청구 고객에 대 한 주문을 제출할 수 없습니다. 기존 고객과 간접 공급자 간의 재판매인 관계를 설정 하려면 간접 재판매인 초대를 사용 하 여 고객을 초대 합니다.
+간접 공급자는 기존 직접 청구 고객과 대리점 관계를 맺을 때까지 주문을 제출할 수 없습니다. 기존 고객과 간접 공급자 간에 대리점 관계를 설정하려면 간접 대리점 초대를 사용하여 고객을 초대합니다.
 
-1. 파트너 센터 왼쪽 탐색에서 **간접 공급자** 를 선택 합니다.
+1. 파트너 센터 왼쪽 탐색에서 **간접 공급자를** 선택합니다.
 
-2. **새 고객 초대** 를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다. 공급자는 고객에 게 대리점 관계가 있어야 하므로 고객이 새 구독을 구입 하거나 기존 구독에 새 라이선스를 추가 하려는 경우 고객을 대신 하 여 주문을 제출할 수 있습니다.
+2. **새 고객 초대** 를 선택하여 귀사 및 간접 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다. 공급자는 고객과 대리점 관계를 맺어야 하므로 고객이 새 구독을 구입하거나 기존 구독에 새 라이선스를 추가하려는 경우 고객을 대신하여 주문을 제출할 수 있습니다.
 
     :::image type="content" source="images/direct/direct6.png" alt-text="새 고객 초대":::
 
-3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나, 메시지를 클립보드에 복사 하 여 전자 메일에 붙여 넣을 수 있습니다.
+3. 다음 페이지에서 임시 이메일 메시지를 검토합니다. 전자 메일로 초안 메시지를 열거나 클립보드에 메시지를 복사하여 메일에 붙여넣을 수 있습니다.
 
-4. 전자 메일의 텍스트를 편집 하 여 필요한 항목을 표시 하 고, 사용자의 계정 및 공급자 계정 모두에 직접 고객을 연결 하도록 개인 설정 된 링크를 포함 해야 합니다. 그런 후 **완료** 를 선택합니다.
+4. 이메일의 텍스트를 편집하여 필요한 내용을 말하지만 고객을 계정과 공급자 계정 모두에 직접 연결하도록 개인 설정될 때 링크를 포함해야 합니다. 그런 후 **완료** 를 선택합니다.
 
 5. 고객이 귀사와 공급자를 공식 재판매인으로 승인하면 귀사에는 고객을 대신하여 고객의 구독, 라이선스 및 사용자를 관리할 관리자 권한이 부여되고 간접 공급자는 고객을 대신하여 주문을 제출할 수 있게 됩니다.
 
 6. 고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.
 
-### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 고객 계약 승인
+### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 고객 계약 동의
 
-Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 이 날짜 이후에는 모든 고객 (기존 및 신규)이 새 [Microsoft 고객 계약](confirm-customer-agreement.md)에 서명 해야 합니다. 고객을 전환 하는 경우에는 다음을 수행 합니다.
+Microsoft 클라우드 계약 2020년 1월 31일까지 유효합니다. 해당 날짜 이후에는 기존 및 신규 고객인 모든 고객이 새 [Microsoft 고객 계약](confirm-customer-agreement.md)서명해야 합니다. 고객 전환의 경우 다음을 수행합니다.
 
-- **고객이 Microsoft 고객 계약을 아직 수락 하지 않았습니다.**
+- **고객이 아직 Microsoft 고객 계약 수락하지 않았습니다.**
 
-   간접 공급자와 협력 하 여 고객이 [Microsoft 고객 계약에 동의](confirm-customer-agreement.md)하도록 하세요.
+   간접 공급자와 협력하여 고객이 [Microsoft 고객 계약 수락하도록](confirm-customer-agreement.md)하세요.
 
-- **고객이 Microsoft 365 관리 센터를 통해 Microsoft 고객 계약에 동의 했습니다.**
+- **고객이 Microsoft 365 관리 센터를 통해 사용자와 Microsoft 고객 계약 수락했습니다.**
 
-   이는 간접 공급자를 사용 하 여 재판매인 관계가 설정 된 후에 보존 됩니다. 수행 해야 할 작업이 없습니다.
+   간접 공급자와 대리점 관계가 설정되면 동의가 유지됩니다. 수행할 필요가 없습니다.
 
-- **고객이 파트너 증명을 통해 Microsoft 고객 계약에 동의 함**
+- **고객이 파트너 증명을 통해 사용자와 Microsoft 고객 계약 수락했습니다.**
 
    수락은 유지 되지 않습니다. 간접 공급자와 협력 하 여 [파트너 센터에서 고객의 동의를 업데이트](confirm-customer-agreement.md#confirm-customer-acceptance-for-existing-customers)하세요.
 
@@ -223,7 +221,7 @@ Microsoft 클라우드 계약은 2020 년 1 월 31 일까 지 유효 합니다. 
 
 CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지 않습니다. 대신 간접 대리점은 간접 공급자를 통해 고객에 대 한 구독을 받습니다. 직접 청구 파트너에서 간접 재판매인으로 전환 하는 동안 직접 청구 파트너 인 기존 구독을 간접 공급자에 게 양도 해야 합니다. 파트너 센터 대시보드에서 자체 제공 되는 구독 전송 기능을 사용 하 여이 작업을 수행할 수 있습니다.
 
-### <a name="prerequisites"></a>사전 요구 사항
+### <a name="prerequisites"></a>필수 조건
 
 - 이 기능은 기존 직접 청구 파트너 테 넌 트를 사용 하 여 간접 재판매인 등록을 완료 한 파트너를 전환 하는 경우에만 사용할 수 있습니다.
 
@@ -296,45 +294,45 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 3. **간접 재판매인** 에서 전환 파트너가 나열 되는지 확인 합니다.
 
-4. **구독 보기** 를 클릭 합니다.
+4. **구독 보기를 클릭합니다.**
 
-5. **구독** 페이지에서 **구독 이전** 을 찾습니다.
+5. 구독 페이지에서 **구독** **이전** 을 찾습니다.
 
     :::image type="content" source="images/direct/direct11.png" alt-text="전송 요청 보기":::
 
-6. **구독 전송** 에서 검토할 전송 요청을 클릭 합니다.
+6. **구독 전송** 에서 검토할 전송 요청을 클릭합니다.
 
-7. 적절 한 **수락** (또는 **거부**)을 클릭 합니다.
+7. **적절하게 수락(또는** **거부)을** 클릭합니다.
 
     :::image type="content" source="images/direct/direct12.png" alt-text="전송 요청 수락":::
 
-8. 전송 요청이 완료 될 때까지 기다립니다.
+8. 전송 요청이 완료되기를 기다립니다.
 
-### <a name="indirect-provider---verify-transfer-request-is-complete"></a>간접 공급자-전송 요청이 완료 되었는지 확인
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>간접 공급자 - 전송 요청이 완료되었는지 확인
 
-1. 전송 요청이 성공적으로 완료 되 면 구독이 **구독** 아래에 표시 되는지 확인 합니다.
+1. 전송 요청이 성공적으로 완료되면 구독 아래에 구독이 표시되는지 **확인합니다.**
 
-2. 전환 파트너에 게 알립니다.
+2. 전환 파트너에게 알릴 수 있습니다.
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>파트너 전환-전송 요청 확인이 완료 되었습니다.
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>전환 파트너 - 전송 요청이 완료되었는지 확인
 
-전환 파트너는 다음을 수행 해야 합니다.
+전환 파트너는 다음을 수행해야 합니다.
 
-1. 파트너 센터에 **관리 에이전트** 또는 **영업 에이전트로** 로그인 합니다.
+1. 관리 에이전트 또는 **판매 에이전트로** 파트너 센터 로그인합니다. 
 
-2. **고객** 페이지에서 원하는 고객을 선택 하 고 **빠른 링크** 아이콘을 클릭 하 여 고객의 요약 뷰를 확장 합니다.
+2. **고객** 페이지에서 원하는 고객을 선택하고 **빠른 링크** 아이콘을 클릭하여 고객의 요약 보기를 확장합니다.
 
-3. **구독 보기** 를 클릭 합니다.
+3. **구독 보기를 클릭합니다.**
 
-4. **구독** 페이지에서 **구독 이전** 을 찾습니다.
+4. 구독 페이지에서 **구독** **이전** 을 찾습니다.
 
-5. 전송 요청이 **완료** 로 표시 되어 있는지 확인 합니다.
+5. 전송 요청이 완료 로 표시되는지 **확인합니다.**
 
-6. 구독 페이지에서 구독이 더 이상 활성으로 표시 되지 않는지 **확인 합니다.**
+6. 구독 페이지에서 구독이 더 이상 활성으로 표시되지 않는지 **확인합니다.**
 
-   1. Azure 구독 (MS MS-AZR-0017P-0145P) 인 경우 더 이상 나열 되지 않습니다.
+   1. Azure 구독(MS-AZR-0145P)인 경우 더 이상 나열되지 않습니다.
 
-   2. 라이선스 기반 구독 (Office 365, Dynamics, Intune) 인 경우 **일시 중단** 됨 상태로 나열 됩니다.
+   2. 라이선스 기반 구독(Office 365, Dynamics, Intune)이면 상태가 **일시 중단으로 나열됩니다.**
 
    :::image type="content" source="images/direct/direct13.png" alt-text="구독 일시 중단 됨":::
 
@@ -348,15 +346,15 @@ CSP 간접 모델에서 간접 대리점은 Microsoft와 청구 관계를 갖지
 
 - **구독에 대 한 라이선스 수 변경 내용은 기존 전송 요청에 반영 되지 않습니다.** 기존 구독이 포함 된 전송 요청을 만든 후에는 구독 (또는 연결 된 addons)의 라이선스 수량을 업데이트 하지 않아야 합니다. 이렇게 하면 새 수량이 전송 요청에 반영 되지 않습니다. 간접 공급자가 전송 요청을 수락 하면 결과 구독은 이전 수량을 갖게 됩니다. 간접 공급자로 새 수량을 전송 하려는 경우 기존 전송 요청을 취소 하 고 새 전송 요청을 다시 만들어야 합니다.
 
-- **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAYG subscription (MS-MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다. 이러한 구독을 전송 하려면 [기존 구독을 취소](create-a-new-subscription.md#suspend-or-cancel-a-subscription) 하 고 간접 공급자를 통해 고객에 대 한 새 제품을 구매 해야 합니다.
+- **모든 구매는 자체 제공 구독 전송을 사용 하 여 전송할 수 없습니다.** 현재이 기능을 사용 하 여 O365 구독과 Azure PAYG subscription (MS-MS-AZR-0017P-0145P)만 전송할 수 있습니다. Azure Marketplace에 대 한 Azure 계획, Azure Reserved Instances, Term 기반 구독 및 SaaS 구독을 비롯 한 다른 구매는 지원 되지 않습니다. 전송 요청 제출 페이지에서 구독을 전송할 수 없는 이유가 표시 됩니다. 이러한 구독을 양도하려면 간접 공급자를 통해 [기존 구독을 취소하고](create-a-new-subscription.md#suspend-or-cancel-a-subscription) 고객을 위한 새 제안을 구매해야 합니다.
 
-- **샌드박스 환경을 사용 하 여 테스트할 수 없습니다.**
+- **샌드박스 환경을 사용하여 테스트할 수 없습니다.**
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>간접 재판매인 성과급 등록
+## <a name="enroll-for-indirect-reseller-incentives"></a>간접 대리점 인센티브 등록
 
-기존 직접 청구 파트너 테 넌 트에 간접 재판매인로 등록 한 후에는 30 일 이내에 간접 대리점에 등록 하 라는 초대를 받게 됩니다. 초대는 현재 CSP 파트너 테 넌 트와 연결 된 partner MPN 계정을 기반으로 합니다. 초대가 partner MPN 계정과 연결 된 전자 메일 주소로 전송 됩니다.
+기존 직접 청구 파트너 테넌트에서 간접 대리점으로 성공적으로 등록한 후에는 30일 이내에 간접 대리점 인센티브에 등록하라는 초대를 받게 됩니다. 초대는 현재 CSP 파트너 테넌트와 연결된 파트너 MPN 계정을 기반으로 합니다. 파트너 MPN 계정과 연결된 이메일 주소로 초대가 전송됩니다.
 
-또한 동일한 파트너 테 넌 트를 사용 하 여 직접 청구 동기 프로그램에 등록할 수 있습니다. 프로그램은 개별적으로 관리 해야 합니다.
+또한 동일한 파트너 테넌트에서 직접 청구 인센티브 프로그램에 등록할 수 있습니다. 프로그램을 별도로 관리해야 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

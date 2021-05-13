@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f3fd7a4adfb3e88b875c8178a260c353e1414f1e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755849"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818714"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>파트너 센터에서 고객 계정 정보, 회사 세부 정보 및 고객 청구 정보 업데이트
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 영업 상담원
+**적절 한 역할**: 전역 관리자 | 판매 에이전트
 
 파트너 센터에서 고객의 청구 정보 및 기타 회사 세부 정보를 업데이트할 수 있습니다. [고객이 자신의 제품 또는 서비스를 구입할 수 있도록 권한을 부여 하거나 제거할](give-customers-permission.md)수도 있습니다.
 

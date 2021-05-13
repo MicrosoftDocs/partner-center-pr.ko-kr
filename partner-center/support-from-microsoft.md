@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284148"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854777"
 ---
 # <a name="support-from-microsoft"></a>Microsoft에서 지원
 
-**적용 대상**
+**적용 대상**: 파트너 센터 | 미국 정부에 대 한 파트너 센터 Microsoft 클라우드
 
-- Microsoft Cloud for US Government 파트너 센터
-
-**적절한 역할**
-
-- 기술 지원팀 상담원
+**적절 한 역할**: 기술 지원팀 에이전트
 
 Microsoft 서비스 또는 파트너 센터와 관련 하 여 문제가 있는 경우 문제를 microsoft에 보고 하 고, 문제를 Microsoft로 에스컬레이션 하 고, 해결 될 때까지 문제를 추적할 수 있습니다.
 

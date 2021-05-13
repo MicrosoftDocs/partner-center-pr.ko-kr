@@ -1,45 +1,42 @@
 ---
-title: 파트너 센터 정보 알려진 문제
+title: 파트너 센터 Insights 알려진 문제
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PCI (파트너 센터 정보) 보고서와 관련 하 여 알려진 문제에 대해 알아보세요. 정보에는 알려진 렌더링 문제 또는 보고 제한이 포함 될 수 있습니다.
+description: PCI(파트너 센터 Insights) 보고서와 관련된 알려진 문제에 대해 읽어보십시오. 정보에는 알려진 렌더링 문제 또는 보고 제한 사항도 포함될 수 있습니다.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086875"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855219"
 ---
-# <a name="partner-insights--frequently-asked-questions"></a>파트너 통찰력 – 질문과 대답
+# <a name="partner-insights--frequently-asked-questions"></a>파트너 인사이트 – 질문과 대답
 
-**적절한 역할**
+**적절한 역할:** 보고서 뷰어 | 임원 보고서 뷰어
 
-- 보고서 뷰어
-- 임원 보고서 뷰어
+이 문서에서는 Insights와 관련된 보고서를 보거나 렌더링하기 위한 알려진 문제를 다룹니다.
 
-이 문서에서는 Insights와 관련 된 보고서를 보거나 렌더링 하기 위한 알려진 문제를 설명 합니다.
+Q) **내 파트너 센터 계정에 Insights 허브가 표시되지 않습니다. 어떻게 해야 합니까?**
 
-Q) **파트너 센터 계정에 Insights 허브가 표시 되지 않습니다. 어떻게 해야 하나요?**
+A) 조직의 MPN 계정에 로그인했는지 확인합니다. CSP 계정에서 Insights 대시보드에 액세스할 수 없습니다. 또한 전역 관리자가 보고서 뷰어 또는 임원 보고서 뷰어 역할 액세스 권한을 제공했는지 확인합니다.  역할에 대한 자세한 내용은 [이 문서를 참조하세요.](./pci-roles.md)
 
-A) 조직의 MPN 계정에 로그인 했는지 확인 합니다. CSP 계정에서 Insights 대시보드에 액세스할 수 없습니다. 또한 전역 관리자가 보고서 뷰어 또는 임원 보고서 뷰어 역할 액세스 권한을 제공 했는지 확인 합니다.  역할에 대 한 자세한 내용은 [이 문서](./pci-roles.md)를 참조 하세요.
+Q) **내 보고서에서 청구 수익 또는 ACR(Azure 소비 수익) 데이터를 볼 수 없습니다. 그 이유는 무엇인가요?**
 
-Q) **내 보고서에서 청구 된 수익 또는 Azure에서 사용 하는 수익 (ACR) 데이터를 확인할 수 없습니다. 무엇 인가요?**
+A) 청구 수익 및 ACR 데이터는 경영진 보고서 뷰어인 사용자만 사용할 수 있습니다.  역할에 대한 자세한 내용은 [이 문서를 참조하세요.](./pci-roles.md)
 
-A) 청구 된 수익과 ACR 데이터는 임원 보고서 뷰어 인 사용자 에게만 제공 됩니다.  역할에 대 한 자세한 내용은 [이 문서](./pci-roles.md)를 참조 하세요.
+Q) **내 보고서에서 청구 수익 또는 ACR(Azure 소비 수익) 데이터를 볼 수 없습니다. 그 이유는 무엇인가요?**
 
-Q) **내 보고서에서 청구 된 수익 또는 Azure에서 사용 하는 수익 (ACR) 데이터를 확인할 수 없습니다. 무엇 인가요?**
+A) 청구 수익 및 ACR 데이터는 경영진 보고서 뷰어인 사용자만 사용할 수 있습니다. 역할에 대한 자세한 내용은 [이 문서를 참조하세요.](./pci-roles.md)
 
-A) 청구 된 수익과 ACR 데이터는 임원 보고서 뷰어 인 사용자 에게만 제공 됩니다. 역할에 대 한 자세한 내용은 [이 문서](./pci-roles.md)를 참조 하세요.
+Q) **내 고객에 대해 보고된 국가가 잘못된 것 같습니다. 그 이유는 무엇인가요?**
 
-Q) **고객에 대해 보고 된 국가가 잘못 된 것 같습니다. 무엇 인가요?**
-
-A) 고객 국가는 해당 고객의 글로벌 부모 조직 국가에서 파생 됩니다. 이 국가는 거래를 할 수 있는 고객의 국가와 다를 수 있습니다. 따라서 고객에 게 보고 된 국가는 원하는 것과 다를 수 있습니다.
+A) 고객 국가 는 해당 고객의 글로벌 부모 조직의 국가에서 파생됩니다. 이 국가가 거래한 고객의 국가와 다를 수 있습니다. 따라서 고객이 보고한 국가가 예상과 다를 수 있습니다.
 
 Q) **일부 고객 이름이 보고서에 난독 처리 되는 것을 볼 수 있습니다. 필요 한가요?**
 

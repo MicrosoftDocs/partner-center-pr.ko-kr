@@ -8,21 +8,16 @@ description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086314"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854606"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 정보 대시보드에서 사용할 수 있는 Office 365 사용 보고서
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
-- 보고서 뷰어
-- 임원 보고서 뷰어
+**적절 한 역할**: 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어
 
 Office 365 사용량 보고서는 고객이 판매 하거나 관리 하는 Office 365 구독에 대 한 사용 데이터를 제공 합니다. Office 365 사용량 보고서에서 다음 섹션을 볼 수 있습니다.
 
@@ -51,34 +46,34 @@ Office 365 사용량 보고서는 고객이 판매 하거나 관리 하는 Offic
 
    마이크로 차트는 선택한 기간 동안 월별 활성 사용자의 월별 추세를 표시 합니다.
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 사용량 요약":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 사용 요약":::
 
-## <a name="office-365-usage-by-geography"></a>지리 별 Office 365 사용
+## <a name="office-365-usage-by-geography"></a>지리별 Office 365 사용량
 
-**지리 별 Office 365 사용** 은 Mau (월간 활성 사용자)와 고객 국가의 Pau (유료 사용 단위) 분포를 보여 줍니다. MAU는 이전 달에 사용 되는 라이선스 수를 참조 하 고 PAU는 선택한 시간 프레임 동안 판매 되거나 관리 되는 유료 사용자 수를 나타냅니다. 지도의 밝은 색은 낮은 값을 나타내고, 짙은 색은 더 높은 값을 나타냅니다. 표에서 국가를 검색 하 고 선택할 수 있습니다. 더 자세히 보기 위해 확대할 수도 있습니다.
+**지리별 Office 365 사용량은** 고객 국가별 MAU(월간 활성 사용자) 및 PAU(유료 사용 가능 단위)의 분포를 나타낸 것입니다. MAU는 이전 달에 사용된 라이선스 수를 의미하며 PAU는 선택한 시간 프레임 동안 판매되거나 관리되는 유료 사용자 수를 나타냅니다. 맵의 밝은 색은 낮은 값을 나타내고 어두운 색은 더 높은 값을 나타냅니다. 그리드에서 국가를 검색하고 선택할 수 있습니다. 더 자세히 살펴보기 위해 확대할 수도 있습니다.
 
-**국가/지역 테이블 수** 에는 Azure 사용 이벤트가 생성 되는 총 국가/지역이 표시 됩니다.
+**국가/지역** 수 테이블에는 Azure 사용량 이벤트가 생성되는 총 국가/지역이 표시됩니다.
 
-표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 **홈** 옵션을 선택 하 여 원래 뷰로 되돌립니다.
+그리드에서 국가를 검색하고 선택하여 지도의 위치를 확대/축소할 수 있습니다. 맵에서 **홈** 옵션을 선택하여 원래 보기로 되돌려야 합니다.
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="지리 별 Office 365 사용":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="지리별 Office 365 사용량":::
 
-## <a name="office-365-usage-by-workload"></a>작업 별 Office 365 사용
+## <a name="office-365-usage-by-workload"></a>워크로드별 Office 365 사용량
 
-워크 로드의 Office 365 사용량은 작업 별로 MAU 및 PAU의 분석을 보여 줍니다.
+워크로드별 Office 365 사용량은 워크로드별 MAU 및 PAU 분석 데이터를 표현합니다.
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="작업 별 Office 365 사용":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="워크로드별 Office 365 사용량":::
 
 ## <a name="subscriptions-performance"></a>구독 성능
 
-구독 성능은 고객 당 작업 별로 MAU 및 PAU의 분석을 보여 줍니다. 청구 된 수입 별 상위 100 고객에 대 한 데이터는 테이블에 표시 되며, 고객을 검색 하거나 원시 데이터를 다운로드 하 여 모든 고객에 대 한 세부 정보를 볼 수 있습니다.
+구독 성능은 고객당 워크로드별 MAU 및 PAU 분석 데이터를 보여 주는 것입니다. 청구된 수익별 상위 100명의 고객에 대한 데이터가 표에 표시되며, 모든 고객을 검색하거나 원시 데이터를 다운로드하여 모든 고객에 대한 세부 정보를 볼 수 있습니다.
 
 :::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Office 365 구독 성능":::
 
 ## <a name="office-365-usage-distribution"></a>Office 365 사용량 분포
 
-Office 365 사용량 분포는 Sku 별 PAU 및 구독의 분석을 보여 줍니다.
+Office 365 사용량 분포는 S SKU별 PAU 및 구독 분석 데이터를 나타낸 것입니다.
 
 :::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 사용량 분포":::
 

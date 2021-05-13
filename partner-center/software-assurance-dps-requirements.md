@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028267"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855253"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>서비스 계약 계획에 대 한 자격 요구 사항 보기
 
-**적절한 역할**
-
-- 글로벌 관리자
-- MPN 파트너 관리자
+**적절 한 역할**: 전역 관리자 | MPN 파트너 관리자
 
 이 문서는 회사에서 Microsoft에 대 한 소프트웨어 보증 계획 서비스를 등록 하거나 제공 하기 위해 충족 해야 하는 자격 요구 사항에 대해 알아보는 데 도움이 됩니다.
 
@@ -38,13 +35,13 @@ ms.locfileid: "105028267"
 |:--- |:--- |:--- |
 | Windows 및 Office 배포 계획  | 실버 또는 골드 Windows 및 장치  |  [DDPS (데스크톱 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116072)
 | 모바일 생산성 배포 계획  | 실버 또는 골드 Enterprise Mobility Management 또는 Windows 및 장치  | [DDPS (데스크톱 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| 최신 IT 엔터프라이즈 보안 개념 증명 |  실버 또는 골드 Enterprise Mobility Management  | [DDPS (데스크톱 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| 고객 Engagement 용 Microsoft Dynamics 365 업그레이드  | 실버 또는 골드 클라우드 Business Applications 또는 클라우드 고객 관계 관리  | [DYDPS (Dynamics Deployment plan Services) 계약](https://go.microsoft.com/fwlink/?linkid=2116073)
-| 고객 참여를 위해 Microsoft Dynamics 365로 마이그레이션  | 실버 또는 골드 클라우드 Business Applications 또는 클라우드 고객 관계 관리  | [DYDPS (Dynamics Deployment plan Services) 계약](https://go.microsoft.com/fwlink/?linkid=2116073)
-| 재무 및 운영에 대 한 Microsoft Dynamics 365 업그레이드  | 골드 (엔터프라이즈 리소스 계획)  | [DYDPS (Dynamics Deployment plan Services) 계약](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Windows Server 플랫폼 현대화 | 실버 또는 골드 데이터 센터 | [사설 클라우드, 관리 및 가상화 계획 서비스 (PVDPS) 계약](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| SharePoint 배포 계획  | 실버 또는 골드 공동 작업 및 콘텐츠  | [SDPS (SharePoint 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| PPM (프로젝트 및 포트폴리오 관리) 솔루션 계획  | 실버 또는 골드 프로젝트 및 포트폴리오 관리 (PPM)  | [SDPS (SharePoint 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| 최신 IT 엔터프라이즈 보안 개념 증명 |  Silver 또는 Gold Enterprise Mobility Management  | [DDPS(데스크톱 배포 계획 서비스) 참여](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Microsoft Dynamics 365 for Customer Engagement 업그레이드  | 실버 또는 골드 클라우드 Business Applications 또는 클라우드 고객 관계 관리  | [DYDPS(Dynamics Deployment Planning Services) 참여](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Microsoft Dynamics 365 for Customer Engagement로 마이그레이션  | 실버 또는 골드 클라우드 Business Applications 또는 클라우드 고객 관계 관리  | [DYDPS(Dynamics Deployment Planning Services) 참여](https://go.microsoft.com/fwlink/?linkid=2116073)
+| 재무 및 운영용 Microsoft Dynamics 365 업그레이드  | 골드 엔터프라이즈 리소스 계획(ERP)  | [DYDPS(Dynamics Deployment Planning Services) 참여](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Windows Server 플랫폼 현대화 | 실버 또는 골드 데이터 센터 | [프라이빗 클라우드, PVDPS(관리 및 가상화 계획 서비스) 참여](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| SharePoint 배포 계획  | 실버 또는 골드 협업 및 콘텐츠  | [SharePoint SDPS(배포 계획 서비스) 참여](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| PPM(프로젝트 및 포트폴리오 관리) 솔루션 계획  | 실버 또는 골드 프로젝트 및 포트폴리오 관리(PPM)  | [SharePoint SDPS(배포 계획 서비스) 참여](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Exchange 배포 계획  | 실버 또는 골드 메시징  | [비즈니스용 Skype 및 Exchange 배포 계획 서비스 (S-EDPS) 계약](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 비즈니스용 Skype 배포 계획  | 실버 또는 골드 통신  | [비즈니스용 Skype 및 Exchange 배포 계획 서비스 (S-EDPS) 계약](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | 데이터 공간 현대화  | 골드 데이터 분석 또는 데이터 플랫폼  | [SSDPS (SQL Server 배포 계획 서비스) 계약](https://go.microsoft.com/fwlink/?linkid=2116076)  |

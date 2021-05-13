@@ -6,18 +6,16 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067442"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854811"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>상업용 Marketplace 게시자에 대한 세금 정보
 
-**적절한 역할**
-
-- 글로벌 관리자
+**적절 한 역할**: 전역 관리자
 
 이 페이지에서는 [Microsoft Azure Marketplace 게시자 계약](https://go.microsoft.com/fwlink/p/?LinkID=699560) 및 [앱 개발자 계약](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)에 따라 최종 고객의 게시자/개발자 제품 구매와 관련 하 여 상업적 marketplace 게시자 (게시자) 및 소비자 marketplace 개발자 (개발자)에 대 한 세금 책임과 세금 고려 사항을 설정 합니다.  아래 정보는 Microsoft 게시자 계약 및 앱 개발자 계약의 사용 약관에 추가 되는 것이 아니라 대체 하기 위한 것입니다.  별도로 언급 하지 않는 한, 아래 정보는 Microsoft 마켓플레이스을 통해 판매할 수 있는 제품/제품을 제공 하는 상용 마켓플레이스 게시자와 소비자 Marketplace 개발자 모두에 게 적용 됩니다. 
 
@@ -25,11 +23,11 @@ ms.locfileid: "108067442"
 
 판매, 사용, 상품 및 서비스, 부가 가치 또는 유사한 세금 (있는 경우)에 대 한 각 Microsoft 및 게시자의 책임 (있는 경우)은 게시자/개발자가 Microsoft Marketplace를 통해 **최종 고객에** 게 판매 하기 위해 제품/제품을 사용할 수 있도록 선택 하는 국가에 따라 다릅니다. 다음 표에서는 Microsoft Marketplace를 통해 적격 판매를 갖춘 국가에서 최종 고객 세금에 대 한 환경 및 책임을 설정 합니다.  아래 정보는 변경 될 수 있으며, 게시자/개발자는이 페이지에서 현재 정확한 정보를 검토할 책임이 있습니다.
 
-**게시자/개발자 관리 국가** 에서 Microsoft는 게시자/개발자의 에이전트 또는 귀하 (해당 하는 경우) 역할을 합니다. 게시자/개발자는 게시자/개발자가 등록, 세금 계산, 세금 수집, 세금 송금, 고객의 비즈니스 상태를 확인 하 고 고객에 게 세금 청구서를 제공 하는 것을 비롯 하 여 최종 고객 세금를 결정 하 고 관리 하는 데 필요한 모든 준수를 결정 하 고이에 동의 합니다. 게시자/개발자는 게시자/개발자 관리 국가의 판매와 관련 하 여 Microsoft에서 현재 게시자/개발자에 게 세금 청구서를 제공 하는 데 필요한 트랜잭션 정보를 제공 하지 못할 수 있습니다. 
+**게시자/개발자 관리 국가** 에서 Microsoft는 게시자/개발자의 에이전트 또는 귀하 (해당 하는 경우) 역할을 합니다. 게시자/개발자는 게시자/개발자가 등록, 세금 계산, 세금 징수, 세금 송금, 고객의 비즈니스 상태 유효성 검사 및 고객에게 세금 송장 제공을 포함하되 이에 국한되지 않는 최종 고객 세금에 필요한 모든 규정 준수를 결정하고 관리할 단독 책임이 있음을 승인하고 동의합니다. 게시자/개발자는 게시자/개발자 관리 국가의 판매와 관련하여 현재 Microsoft가 고객에게 세금 청구서를 제공하는 데 필요한 트랜잭션 세부 정보를 제공하지 못할 수 있음을 인정합니다. 
 
-Microsoft에서 관리 하는 **국가** 에서 Microsoft는 게시자/개발자의 에이전트로 작용 합니다. Microsoft는 특정 세금 계산, 수집 및/또는 remitting를 포함 하 여 최종 고객 세금 관리를 담당 하 고 있다고 가정 합니다. 상업적 Marketplace의 경우 세금 등록 번호 또는 예외 인증서를 받아 최종 고객의 비즈니스 상태를 확인 하는 것도 포함 될 수 있습니다. Microsoft는 로컬 계열사 또는 로컬에서 등록 된 원격 계열사를 통해 최종 고객 세금를 관리 합니다. Microsoft의 등록 번호에 따라 microsoft 청구서를 표시 합니다. Microsoft에는 Microsoft 세금 반품에서 최종 고객 으로부터 수집 된 세금이 포함 되어 있습니다.
+**Microsoft 관리 국가에서** Microsoft는 게시자/개발자의 에이전트 역할을 하며, Microsoft는 특정 세금 계산, 수집 및/또는 송금을 포함하여 최종 고객 세금 관리를 담당합니다. 상업용 Marketplace의 경우 세금 등록 번호 또는 예외 인증서를 획득하여 최종 고객의 비즈니스 상태 유효성 검사를 포함할 수도 있습니다. Microsoft는 로컬에 등록된 로컬 계열사 또는 원격 계열사를 통해 최종 고객 세금 을 관리합니다. Microsoft의 등록 번호 아래에 있는 Microsoft 청구서. Microsoft는 Microsoft의 세금 신고서에 대해 최종 고객으로부터 징수된 모든 세금을 포함합니다.
 
-Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국가의 게시자/개발자 의무를 완전히 충족 한다는 보증도 하지 않습니다.  Microsoft에서 관리 하는 모든 국가의 경우 게시자/개발자가 각자의 세금 관리자와 협력 하 여 Microsoft에서 관리 되는 세금 송금 게시자의 규정 준수 요구 사항을 충분히 해결 하는지 확인 하는 것이 좋습니다. 이는 게시자/개발자가 제품/제품을 판매 하는 모든 Microsoft 관리 국가에서 특히 중요 합니다.  Microsoft는 Microsoft에서 관리 하는 국가의 게시자/개발자 에이전트로 서의 역할을 합니다.
+Microsoft는 Microsoft의 조치가 Microsoft 관리 국가에서 게시자/개발자 의무를 완전히 충족한다는 보증을 하지 않습니다.  Microsoft에서 관리하는 모든 국가의 경우 Microsoft에서 관리하는 세금 송금이 게시자/개발자의 규정 준수 요구 사항을 충분히 충족하는지 확인하기 위해 게시자/개발자가 자체 세금 관리자와 함께 작업할 것을 강력하게 권장합니다. 게시자/개발자가 제품/제품을 판매하는 Microsoft 관리 국가에 특히 중요합니다.  Microsoft는 Microsoft 관리 국가에서 게시자/개발자의 에이전트로 작동합니다.
 
 **대리점 국가** 에서 Microsoft는 게시자/개발자의 에이전트가 아닌 재판매인의 역할을 하 여 Microsoft Marketplace를 통해 최종 고객에 게 판매할 수 있는 게시자/개발자 제품/제품을 만들 수 있습니다.  게시자/개발자는 Microsoft에 대 한 제품/제품 판매에 대 한 판매, 사용, 상품 및 서비스, 부가 가치 또는 유사한 세금 (있는 경우)을 담당 하 고, Microsoft는 고객에 게 세금 고객에 대 한 모든 최종 고객 서비스를 담당 합니다.
 
@@ -86,7 +84,7 @@ Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국�
 |벨라루스|독일|몰타|슬로베니아|
 |불가리아|그리스|모나코|남아프리카 공화국|
 |벨기에|헝가리|네덜란드|대한민국|
-|Canada|아이슬란드|뉴질랜드|스페인|
+|캐나다|아이슬란드|뉴질랜드|스페인|
 |칠레|인도|노르웨이|스웨덴|
 |콜롬비아|인도네시아|폴란드|스위스|
 |크로아티아|아일랜드|포르투갈|대만|
@@ -98,28 +96,28 @@ Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국�
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Marketplace의 차이로 인해 최종 고객 세금
 
-|**국가**|**상업적 Marketplace (Azure Marketplace & AppSource)**| **Consumer Marketplace (Microsoft Store)**|
+|**국가**|**상업용 Marketplace(Azure Marketplace & AppSource)**| **소비자 마켓플레이스(Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|브라질|재판매인 제외: CSP 고객 구매 시나리오를 통해 구매한 게시자 용 게시자 관리|개발자 관리: Windows 10에서 실행 되는 장치를 통해 구매한 대리점: 재판매인|
-|멕시코|Microsoft 관리 제외: 기업 계약 고객 구매 시나리오를 통한 구매를 위한 재판매인|Microsoft 관리|
-|오스트레일리아|Microsoft 관리 제외: 기업 계약 고객 구매 시나리오를 통한 구매를 위한 재판매인|Microsoft 관리|
-중국|Marketplace 사용 안 함|대리점 사용: windows phone 4.x를 실행 하는 모바일 통신 장치 및 Windows 8.x를 실행 하는 개인용 컴퓨터에서 개발자가 관리 합니다.|
-|바레인|게시자 관리 됨|Microsoft 관리|
-|오만|게시자 관리 됨|Microsoft 관리|
+|브라질|대리점 제외: CSP 고객 구매 시나리오를 통해 구매한 판매자 관리|개발자 관리: Windows 10 실행되는 디바이스를 통한 구매에 대한 대리점|
+|멕시코|Microsoft 관리: 기업계약 고객 구매 시나리오를 통한 구매를 위한 대리점|Microsoft 관리|
+|오스트레일리아|Microsoft 관리: 기업계약 고객 구매 시나리오를 통한 구매를 위한 대리점|Microsoft 관리|
+중국|Marketplace를 사용할 수 없습니다.|Windows Phone 7.x를 실행하는 모바일 통신 디바이스 및 Windows 8.x를 실행하는 개인용 컴퓨터에서 관리되는 개발자를 제외하고 Reseller가 사용하도록 설정됨|
+|바레인|게시자 관리|Microsoft 관리|
+|오만|게시자 관리|Microsoft 관리|
 
 
-## <a name="tax-considerations-on-payouts"></a>지급에 대 한 세금 고려 사항
+## <a name="tax-considerations-on-payouts"></a>지급에 대한 세금 고려 사항
 
-게시자/개발자가 관리 하는 국가에서 Microsoft 지급에는 매장 요금 및 해당 세금 (원천 세금 및 판매, 사용, 상품 및 서비스, 부가 매장 요금에 대 한 부가 가치 또는 유사한 세금)이 포함 될 수 있습니다.
+게시자/개발자 관리 국가에서 게시자/개발자에 대한 Microsoft 지급은 상점 요금 및 관련 세금의 순입니다. 여기에는 원천징수세 및 판매, 사용, 상품 및 서비스, 상점 요금에 대한 부가 가치 또는 유사한 세금이 포함될 수 있습니다.
 
-Microsoft에서 관리 하는 국가 및 대리점에서 Microsoft 지급 게시자/개발자에 게는 매장 요금 및 해당 세금 (최종 고객 세금, 원천 세금 및 판매, 사용, 상품 및 서비스, 부가 매장 요금에 대 한 부가 가치 또는 유사한 세금)이 포함 될 수 있습니다. Microsoft에서 게시자/개발자가 사용할 수 있도록 하는 [보고서](payout-statement.md) 는 이러한 세금의 금액을 나타냅니다. 
+해당하는 Microsoft 관리 국가 및 대리점에서 게시자/개발자에 대한 Microsoft 지급액은 상점 요금 및 관련 세금의 순입니다. 여기에는 최종 고객 세금, 원천징수세 및 판매, 사용, 상품 및 서비스, 상점 요금에 대한 부가 가치 또는 유사한 세금이 포함될 수 있습니다. Microsoft에서 게시자/개발자에게 제공하는 [보고서는](payout-statement.md) 이러한 세금의 양을 식별합니다. 
 
-Microsoft는 게시자/개발자가 Microsoft Marketplace를 통해 최종 고객에 게 판매할 수 있는 제품/제품을 제공 하도록 선택 하는 다음 국가에서 매장 세금을 수집 합니다.
+Microsoft는 게시자/개발자가 Microsoft Marketplace 통해 최종 고객에게 제품/제품을 판매할 수 있도록 선택되는 다음 국가에서 매장 요금에 대한 세금을 징수합니다.
 
-|**국가**|**상업적 마켓플레이스**|**소비자 마켓플레이스**|
+|**국가**|**상업용 Marketplace**|**소비자 마켓플레이스**|
 |----------------|-----------------------------|-----------------------|
-|오스트레일리아|서비스 요금 세금|서비스 요금 세금|
-|Canada|서비스 요금 세금|서비스 요금 세금|
+|오스트레일리아|서비스 요금에 대한 세금|서비스 요금에 대한 세금|
+|캐나다|서비스 요금에 대한 세금|서비스 요금 세금|
 |멕시코|해당 없음|서비스 요금 세금|
 |뉴질랜드|서비스 요금 세금|서비스 요금 세금|
 |싱가포르|서비스 요금 세금|서비스 요금 세금|
@@ -152,14 +150,14 @@ Microsoft는 게시자/개발자가 Microsoft Marketplace를 통해 최종 고�
 
 - 시나리오 1: 외부 게시자 (세금 프로필에 적용 되는 세금 협약 혜택 없음)를 미국 고객에 게 판매 합니다. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="세금 협약을 사용 하지 않는 원천 세금을 보여 주는 차트":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="세금 처리가 없는 원천징수세 표시 차트":::
 
-- 시나리오 2: 외부 게시자 (세금 프로필에 적용 되는 세금 조약에서 0% 요금이 적용 됨), 조약에서 미국 고객에 게 판매를 만듭니다. 
+- 시나리오 2: 미국 고객에게 거래처를 판매할 경우 외신 게시자(세금 프로필에 적용되는 세금 처리 혜택이 0%가 적용)입니다. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="세금 협약의 원천 세금을 보여 주는 차트":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="세금 처리가 있는 원천징수세 표시 차트":::
 
 ## <a name="next-steps"></a>다음 단계
 
 - [게시자 FAQ](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [결제 및 세금 프로필을 만들기 위한 지침](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [지불 및 세금 프로필을 만드는 지침](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

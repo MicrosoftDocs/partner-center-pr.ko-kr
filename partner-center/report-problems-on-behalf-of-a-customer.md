@@ -4,66 +4,62 @@ ms.topic: how-to
 ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객 서비스 문제를 Microsoft로 에스컬레이션 하는 시기 및 다른 유형의 Microsoft 서비스에 대 한 지원 티켓을 제출 하는 방법에 대해 알아봅니다.
+description: 고객 서비스 문제를 Microsoft로 에스컬레이션하는 시기와 다양한 유형의 Microsoft 서비스 대한 지원 티켓을 제출하는 방법을 알아봅니다.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018121"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855712"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신 하 여 서비스 문제 보고-이 작업을 수행 하는 시기 및 방법 포함
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>고객을 대신하여 서비스 문제 보고 - 수행 시기 및 방법 포함
 
-**적용 대상**
+**적용:** 파트너 센터 | Microsoft Cloud for US Government 대한 파트너 센터
 
-- Microsoft Cloud for US Government 파트너 센터
+**적절한 역할:** 전역 관리자
 
-**적절한 역할**
-
-- 글로벌 관리자
-
-고객이 해결할 수 없는 서비스 문제가 발생 하 고 [문제를 Microsoft로 에스컬레이션](escalate-problems-to-microsoft.md)에 설명 된 조건을 충족 하는 경우 간접 공급자는 해당 서비스에 대 한 지원 티켓을 파일로 보낼 수 있습니다. 이 프로세스는 청구 문제 또는 분쟁를 에스컬레이션 하는 경우와 사기 문제에도 유용 합니다.
+고객이 해결할 수 없는 서비스 문제가 발생하고 Microsoft로 [문제 에스컬레이션에](escalate-problems-to-microsoft.md)설명된 조건을 충족하는 경우 간접 공급자는 해당 고객에 대한 지원 티켓을 제출할 수 있습니다. 이 프로세스는 청구 문제 또는 분쟁 에스컬레이션 및 사기 문제에도 유용합니다.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>고객 서비스 요청을 제출합니다.
 
-1. CSP의 파트너 센터 메뉴에서 **고객** 을 선택 합니다.
+1. CSP 아래의 파트너 센터 메뉴에서 **고객** 을 선택합니다.
 
-2. 고객 페이지에서 원하는 고객을 선택 하거나 검색 합니다.
+2. 고객 페이지에서 원하는 고객을 선택하거나 검색합니다.
     
-3. 고객 메뉴에서 **서비스 요청** 을 선택 합니다.
+3. 고객 메뉴에서 **서비스 요청** 을 선택합니다.
 
 4. **새 요청** 드롭다운 메뉴에서 **Azure** 또는 **Office 365, Dynamics 365, Enterprise Mobility Suite** 를 선택합니다. Microsoft Azure portal 또는 Office 365 관리 센터로 리디렉션됩니다.
 
 >[!NOTE]
->ASfP (Advanced Support for Partner) 요금제 이상에 대 한 지원 계약을 유지 하려면 CSP의 거래 Dynamics 365 운영 파트너가 지원 되어야 합니다. 이 지원 계약은 CSP 고객을 대신 하 여 Dynamics 365 인시던트를 제출 하는 데 필요 합니다. 지원 계약 옵션에 [대해 자세히 알아보세요](https://partner.microsoft.com/support/partnersupport) .
+>ASfP(Advanced Support for Partner) 플랜 이상에 대한 지원 계약을 유지하려면 CSP에서 Dynamics 365를 거래하는 지원 운영 파트너가 필요합니다. 이 지원 계약은 CSP 고객을 대신하여 Dynamics 365 인시던트 제출에 필요합니다. 지원 계약 옵션에 대해 [자세히 알아보세요.](https://partner.microsoft.com/support/partnersupport)
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > Azure에서 고객에 대한 서비스 요청을 만들어야 하는 경우 다음 사항에 주의해야 합니다.
 >
->- 간접 재판매인이 Azure에서 고객에 대 한 서비스 요청을 만들기 위해 간접 공급자는 고객의 Azure 계정에 대 한 액세스 권한을 부여 해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다.
+>- 간접 대리점이 Azure에서 고객에 대한 서비스 요청을 만들려면 간접 공급자가 고객의 Azure 계정에 대한 액세스 권한을 부여해야 합니다. 이는 Office 365에 대해 고객을 대신하여 관리하는 것과는 다릅니다.
 >
 >- 파트너 센터의 기술 지원팀 관리자는 Azure 서비스 포털에서 서비스 요청을 만들 수는 없지만, Azure 서비스 포털에서 지원 그룹을 만들고 해당 그룹에 지원 요청을 기록하는 권한을 부여할 수 있습니다.
 
 1. **새 지원 요청** 을 선택합니다.
 
-2. 적절 한 정보를 사용 하 여 지원 요청을 작성 한 다음, **만들기** 를 선택 합니다.
+2. 적절한 정보로 지원 요청을 채운 다음, **만들기를** 선택합니다.
 
-   - 지원 요청의 **기본 사항** 섹션에서 **지원 계획** 필드의 **클라우드 솔루션 공급자** 를 선택 해야 합니다.
+   - 지원 요청의 **기본 사항** 섹션에서 지원 **계획** 필드에서 **클라우드 솔루션 공급자** 선택해야 합니다.
 
-   - 지원 요청의 **연락처** 정보 섹션에서 고객의 정보가 아닌 정보를 입력 합니다.
+   - 지원 요청의 **연락처** 정보 섹션에서 고객의 정보가 아닌 정보를 입력합니다.
 
 3. 나중에 **관리 지원 요청** 을 선택하여 Microsoft Azure Portal 내에서 고객의 서비스 요청을 검토하세요.
 
-해당 고객에 대 한 관리자 권한이 없는 경우 고객에 대 한 지원 요청을 만들어야 할 수 있습니다. 이는 다음과 같은 두 시나리오 중 하나에 해당할 수 있습니다.
+해당 고객에 대한 관리자 권한이 없는 경우 고객에 대한 지원 요청을 만들어야 할 수 있습니다. 이는 다음과 같은 두 시나리오 중 하나에 해당할 수 있습니다.
 
-- 먼저 관계를 설정할 때 관리자 권한을 요청 하지 않았습니다.
-- 고객의 Azure 구독을 관리 하므로 관리 권한이 없습니다.
+- 관계를 처음 설정할 때 관리자 권한을 요청하지 않았습니다.
+- 고객의 Azure 구독만 관리하므로 관리 권한이 없습니다.
  
 이러한 경우 다음 절차에 따라 지원 요청을 만들 수 있습니다. 
 

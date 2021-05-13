@@ -1,54 +1,49 @@
 ---
-title: 파트너 센터 insights 팀 사용 보고서
+title: 파트너 센터 인사이트 팀 사용 현황 보고서
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위해 판매 하거나 관리 하는 팀 구독 사용과 관련 하 여 개선할 수 있는 위치를 확인 합니다.
+description: 잘하고 있는 사항과 고객을 위해 판매하거나 관리하는 Teams 구독의 사용량과 관련하여 개선할 수 있는 위치를 확인합니다.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086722"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855185"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 팀 사용 보고서
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Teams 사용 현황 보고서
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어
 
-- 글로벌 관리자
-- 관리 에이전트
-- 보고서 뷰어
-- 임원 보고서 뷰어
-
-팀 사용 보고서는 고객이 판매 하거나 관리 하는 팀 워크 로드와 관련 된 메트릭을 제공 합니다. 팀 사용량 보고서에서 다음 섹션을 볼 수 있습니다.
+Teams 사용 현황 보고서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 메트릭을 제공합니다. Teams 사용량 보고서에서 다음 섹션을 볼 수 있습니다.
 
 - 요약
 - 대화 추세
-- 워크 로드 별 팀 사용
-- 사용량 별 상위 고객
+- 워크로드별 팀 사용량
+- 사용량별 상위 고객
 
  > [!NOTE]
- > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요 .이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
+ > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터 특정 역할이 할당되어야 합니다. 자세한 내용은 회사의 전역 관리자를 참조하세요. 이 보고서의 특정 데이터 형식은 경영진 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
 
 ## <a name="summary"></a>요약
 
-요약 섹션에는 고객을 위해 판매 하거나 관리 하는 팀 워크 로드와 관련 된 주요 표시기의 스냅숏 보기가 표시 됩니다.  
+요약 섹션에서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 핵심 지표의 스냅샷 보기를 제공합니다.  
 
-- 고객: 선택한 기간 동안 팀을 작업으로 사용 하는 고객의 고유 개수입니다.
+- 고객: 선택한 기간 동안 Teams를 워크로드로 사용하는 고객의 고유 수입니다.
 
-- 모임 수: 고객이 수행한 팀 회의 수입니다.
+- 모임 수: 고객이 수행한 Teams 회의 수입니다.
 
-- 고객 당 일일 평균 회의 수: 고객 당 일일 평균 회의 수입니다. 
+- 고객당 일일 평균 모임 수: 고객당 일일 평균 모임 수입니다. 
 
-- 모임 기간 (시간): 총 모임 기간 (시간)입니다. 
+- 모임 기간(시간): 총 회의 기간(시간)입니다. 
 
-- 평균 모임 기간 (분): 평균 모임 기간 (분)입니다. 
+- 평균 모임 기간(분): 평균 회의 기간(분)입니다. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="팀 사용 요약":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Teams 사용 요약":::
 
 ## <a name="conversations-trend"></a>대화 추세
 

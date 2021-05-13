@@ -9,23 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633661"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854131"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>고객에 대한 청구 지원 제공 및 청구 질문에 대한 답변 지원
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 기술 지원팀 상담원
-- 청구 관리자
-- 영업 상담원
+**적절 한 역할**: 전역 관리자 | 사용자 관리 관리자 | 기술 지원팀 에이전트 | 청구 관리자 | 판매 에이전트
 
 고객에 대 한 청구 관계를 소유 하 고 있으며 고객이 보유 하 고 있는 청구 관련 질문에 대답할 책임이 있습니다.
 
@@ -44,25 +38,25 @@ CSP 모델의 파트너 거래는 고객에 게 신뢰할 수 있는 관리자 �
 >[!Note]
 >CSP가 아니고 고객 요금 청구에 대 한 질문이 있는 경우 해당 제품 또는 서비스에 대 한 특정 포털을 참조 하세요.
 
-파트너는 고객 으로부터 들어오는 지원 요청을 받고, 파트너의 가장 적합 한 기능에 대 한 문제를 진단 하 고, 기준 지원 범위 범위 내에 있는 문제를 해결 해야 합니다. 파트너가 문제를 해결할 수 없는 경우 다음 지원 차량을 통해 Microsoft로 문제를 확대할 수 있습니다.
+파트너는 고객 으로부터 들어오는 지원 요청을 받고, 파트너의 가장 적합 한 기능에 대 한 문제를 진단 하 고, 기준 지원 범위 범위 내에 있는 문제를 해결 해야 합니다. 파트너가 문제를 해결할 수 없는 경우 다음 지원 차량을 통해 Microsoft에 문제를 에스컬레이션할 수 있습니다.
 
-- **상업적** 문제 지원은 CSP 프로그램의 모든 파트너에 게 제공 됩니다.
+- **CSP** 프로그램의 모든 파트너가 상업적 문제 지원을 사용할 수 있습니다.
 
-- **기술** 문제 지원은 다음을 통해 제공 됩니다.
+- **기술** 문제 지원은 다음을 통해 사용할 수 있습니다.
 
-  - 파트너에 대 한 프리미어 지원 (요금 기준)
-  - 파트너에 대 한 고급 지원 (요금 기준)
-  - 서명 클라우드 지원 (골드/실버 역량에 포함 됨)
+  - 파트너용 프리미어 지원(요금 기준)
+  - 파트너에 대한 고급 지원(요금 기준)
+  - 시그니처 클라우드 지원(골드/실버 역량에 포함)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
-각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음을 참조하세요.
+각 온라인 서비스에는 고객에게 청구, 구독 관리 및 기술 지원을 제공하기 위한 구체적이고 자세한 요구 사항이 있습니다. 자세한 내용은 다음을 참조하세요.
 
-- [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [CSP를 통해 판매된 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-- [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [CSP를 통해 판매된 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [CSP를 통해 판매 되는 Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [CSP를 통해 판매된 Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 ## <a name="next-steps"></a>다음 단계
 
