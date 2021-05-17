@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328052"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702827"
 ---
 # <a name="april-2021-announcements"></a>2021년 4월 공지
 
@@ -47,7 +47,7 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 
 | 상태     | 설명 |    반환되는 추천 주소 수 |
 |-------|---------------|-------------------|
-|배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | 한 개 |
+|배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | Single |
 |확인됨 | 주소가 확인되었습니다. | 한 개 |
 |상호 작용 필요 | 제안된 주소가 많이 변경되어 사용자 확인이 필요합니다. | 한 개 |
 |거리명 부분 | 주소에 입력된 거리명이 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
@@ -308,11 +308,12 @@ Community Call Q&A를 최대한 활용하려면 주문형 커뮤니티 콘텐츠
 자세한 내용은 [고객 지원팀](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>미리 알림: GET 검증이 2021년 5월 4일에 사용 중단
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>최종 미리 알림: 2021년 5월 6일 GET 자격 중단
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-04-09
+- 날짜: 2021-05-04
+
 - 기능
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
@@ -321,13 +322,13 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
-이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](https://docs.microsoft.com/partner-center/announcements/2020-december#1)에 대한 후속 작업입니다. 이 릴리스의 일부로 새로운 GET 및 POST Qualifications API가 배포되었으며 그 결과 기존 GET 자격이 2021년 5월 4일에 사용 중지됩니다. 그때까지는 교육 제품 구매에 새로운 POST 파트너 센터 API를 사용하고, 사전 검증된 비영리 단체 및 GCC 제품을 구매하려면 새로운 GET 자격 API를 사용하도록 전환해야 합니다.
+이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](https://docs.microsoft.com/partner-center/announcements/2020-december#1)에 대한 후속 작업입니다. 이 릴리스의 일부로 새 GET 및 POST Qualifications API가 배포되었으며 그 결과 **기존 GET 자격이 2021년 5월 6일에 사용 중지됩니다**. 그때까지 새 POST 파트너 센터 API를 사용하도록 전환해야 합니다. 새 POST API를 사용하면 교육 제품을 구매할 수 있으며, 새 GET API를 사용하면 사전에 정규화된 비영리 및 GCC 제품을 구매할 수 있습니다.
 
 ### <a name="next-steps"></a>다음 단계
 
-- 성공적으로 적시에 전환하기 위해 새 API로 업데이트합니다.
+- 성공적으로 적시에 전환하기 위해 **새 API로 업데이트합니다**.
 
-- Operations Readiness 리소스인 향상된 파트너 센터 교육 기관 고객 유효성 검사 프로세스에서 [새 파트너 센터 API 변경 내용 및 가이드를 검토](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)합니다.
+- Operations Readiness 리소스인 [파트너 센터 교육 고객 유효성 검사 프로세스 개선](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)에서 **새 파트너 센터 API 변경 내용 및 가이드를 검토합니다**.
 
 - 이러한 변경에 대비하는 데 도움이 되도록 이 정보를 조직 내의 적절한 팀 및 재판매인과 공유합니다.
 
@@ -337,8 +338,12 @@ ________________
 
 ### <a name="change-log"></a>로그 변경
 
-- 4월: GET 자격의 향후 사용 중단에 대한 미리 알림 
+- 2021년 5월 4일: GET 자격의 향후 사용 중단에 대한 미리 알림
+
+- 2021년 4월 9일: GET 자격의 향후 사용 중단에 대한 미리 알림 
+
 - 2월: GET 및 PUT 자격의 사용 중단에 대한 업데이트된 타임라인
+
 - 1월: GET 및 PUT 자격의 향후 사용 중단에 대한 미리 알림
 
 ________________

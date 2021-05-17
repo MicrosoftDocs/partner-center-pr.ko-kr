@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328069"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702878"
 ---
 # <a name="march-2021-announcements"></a>2021년 3월 공지
 
@@ -24,7 +24,7 @@ ms.locfileid: "108328069"
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-04-30
+- 날짜: 2021-03-30
 - 준비
 
 ### <a name="summary"></a>요약
@@ -43,9 +43,9 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 
 응답에서 다음 상태 메시지 중 하나를 반환합니다.
 
-| 상태     | 설명 |    반환되는 추천 주소 수 |
+| 상태     | Description |    반환되는 추천 주소 수 |
 |-------|---------------|-------------------|
-|배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | 한 개 |
+|배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | Single |
 |확인됨 | 주소가 확인되었습니다. | 한 개 |
 |상호 작용 필요 | 제안된 주소가 많이 변경되어 사용자 확인이 필요합니다. | 한 개 |
 |거리명 부분 | 주소에 입력된 거리명이 완전하지 않아 추가 정보가 필요합니다. | 여러 개(최대 3개) |
@@ -203,9 +203,9 @@ Microsoft는 파트너 환경을 지속적으로 개선하기 위해 최선을 �
 
 이러한 피드백에 대응하기 위해 Microsoft는 새 제품과 기존 제품의 제품 출시를 위한 준비 환경을 간소화했습니다.
 
-이제 제품 출시 정보 보기가 한 달에 한 번만 제공되며, Operations 준비 리소스 갤러리에 게시됩니다. 이 월간 [제품 출시 일정 보기](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)는 Operations 준비 리소스 갤러리와 파트너 센터 공지의 개별 제품 출시 통신문을 대체합니다.
+이제 제품 출시 정보 보기가 한 달에 한 번만 제공되며, Operations Readiness 리소스 갤러리에 게시됩니다. 이 월간 [제품 출시 일정 보기](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)는 Operations Readiness 리소스 갤러리와 파트너 센터 공지의 개별 제품 출시 통신문을 대체합니다.
 
-[커뮤니티 컬렉션](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [일정 보기](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)및 [CSP 뉴스레터](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)에서도 이 [제품 출시 일정](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)에 액세스할 수 있습니다. 매월 제품 출시 일정을 게시할 때 Operations 준비 리소스 갤러리에 공지를 올려 소식을 알려 드리겠습니다.
+[커뮤니티 컬렉션](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [일정 보기](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)및 [CSP 뉴스레터](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)에서도 이 [제품 출시 일정](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)에 액세스할 수 있습니다. 매월 제품 출시 일정을 게시할 때 Operations Readiness 리소스 갤러리에 공지를 올려 소식을 알려 드리겠습니다.
 
 가격표 미리 보기 및 가격표 변경 로그뿐 아니라 제품 블로그, 라이선스 가이드 및 제품 마케팅 페이지에서 신제품과 기존 제품에 대한 정보를 계속 찾을 수 있습니다.
 
@@ -219,7 +219,7 @@ Microsoft는 파트너 환경을 지속적으로 개선하기 위해 최선을 �
 - 도구
 - Teams 및 Telco
 
-Operations 준비 정보가 필요한 제품 출시에 대한 공지를 계속 보내 드립니다.
+Operations Readiness 정보가 필요한 제품 출시에 대한 공지를 계속 보내 드립니다.
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -555,7 +555,7 @@ MPN 파트너 및 CSP 간접 재판매인(CSP 다이렉트 청구 파트너에�
 
 적절한 팀이 프로세스를 검토하고 업데이트할 수 있도록 조직 내에서 이 정보를 공유하세요.
 
-### <a name="questions"></a>질문이 있으세요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
 추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
 
@@ -581,9 +581,9 @@ ________________
 
 이와 같은 디지털 전환 과정을 계속 진행하면서 다음과 같은 변경 사항을 발표합니다.
 
-- 2021년 7월 1일: 오픈 라이선스 프로그램 가격 목록에 새 SKU, 제품 또는 프로모션이 추가되지 않습니다.
+- 2021년 7월 1일: 오픈 라이선스 프로그램 가격표에 새 SKU, 제품 또는 프로모션이 추가되지 않습니다.
 
-- 2021년 7월 7일: 두 개의 상용 제품인 Get Genuine Windows 및 Visual Studio Professional과 공공 부문 제품(정부, 교육 및 비영리 – [공지](./2020-december.md#9) 참조)이 CSP 영구 소프트웨어 가격표에 추가됩니다.  가격 목록은 파트너 센터의 [판매 > 가격 및 제안](https://partnercenter.microsoft.com/pcv/sales) 페이지에 있는 소프트웨어 섹션에서 찾을 수 있으며 이 날짜에 다시 게시됩니다.
+- 2021년 7월 7일: 두 개의 상용 제품인 Get Genuine Windows 및 Visual Studio Professional과 공공 부문 제품(정부, 교육 및 비영리 – [공지](./2020-december.md#9) 참조)이 CSP 영구 소프트웨어 가격표에 추가됩니다.  가격표는 파트너 센터의 [판매 > 가격 및 제안](https://partnercenter.microsoft.com/pcv/sales) 페이지에 있는 소프트웨어 섹션에서 찾을 수 있으며 이 날짜에 다시 게시됩니다.
 
 CSP 프로그램 발전 및 Open License 프로그램 변경에 대한 자세한 내용은 아래 **다음 단계** 를 참조하세요.
 
@@ -607,7 +607,7 @@ _______________
 
 ### <a name="summary"></a>요약
 
-평가판 제품은 가격 목록에 나열되지 않으며 제거됩니다.
+평가판 제품은 가격표에 나열되지 않으며 제거됩니다.
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -615,7 +615,7 @@ _______________
 
 ### <a name="details"></a>세부 정보
 
-평가판 제품은 가격 목록에 포함되지 않았어야 했습니다. 이들 제품은 2021년 5월 1일 가격 목록에서 제거됩니다.
+평가판 제품은 가격표에 포함되지 않았어야 했습니다. 이들 제품은 2021년 5월 1일 가격표에서 제거됩니다.
 
 원래 공지는 [여기](./2021-february.md#4)에 있습니다.
 
@@ -833,7 +833,7 @@ ________________
 
 ### <a name="categories"></a>범주
 
-- 날짜: 2021-03-33
+- 날짜: 2021-03-03
 - 기능
 
 ### <a name="summary"></a>요약
