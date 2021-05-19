@@ -1,79 +1,76 @@
 ---
-title: 구독 정보에 대 한 분석 사용
+title: 구독 인사이트에 대한 분석 사용
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 분석을 사용 하 여 비즈니스와 고객이 구매한 라이선스를 사용 하는 방법을 더 잘 이해 하는 방법을 알아보세요.
+description: 파트너 센터 분석을 사용하여 비즈니스를 더 잘 이해하고 고객이 구매한 라이선스를 사용하는 방법을 알아봅니다.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441883"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147210"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a><span data-ttu-id="720ed-103">분석을 사용 하 여 구독 수익에 대해 자세히 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="720ed-103">Use analytics to learn more about subscription revenue</span></span>
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a><span data-ttu-id="5d58d-103">분석을 사용하여 구독 수익에 대해 자세히 알아보기</span><span class="sxs-lookup"><span data-stu-id="5d58d-103">Use analytics to learn more about subscription revenue</span></span>
 
-<span data-ttu-id="720ed-104">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="720ed-104">**Appropriate roles**</span></span>
+<span data-ttu-id="5d58d-104">**적절한 역할:** 전역 관리자 | MPN 파트너 관리자</span><span class="sxs-lookup"><span data-stu-id="5d58d-104">**Appropriate roles**: Global admin | MPN partner admin</span></span>
 
-- <span data-ttu-id="720ed-105">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="720ed-105">Global admin</span></span>
-- <span data-ttu-id="720ed-106">MPN 파트너 관리자</span><span class="sxs-lookup"><span data-stu-id="720ed-106">MPN partner admin</span></span>
+<span data-ttu-id="5d58d-105">CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 어떻게 사용하는지 이해해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-105">Planning ways to develop your CSP business includes understanding how your customers use their Microsoft products.</span></span> <span data-ttu-id="5d58d-106">파트너 센터 데이터를 수집하는 몇 가지 옵션이 있으며, 비즈니스와 고객이 구매한 라이선스를 사용하는 경우 및 방법에 대한 데이터를 수집할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-106">You have several options for gathering data in Partner Center, and you can gather data on both your business and on if and how your customers are using the licenses they've purchased.</span></span> <span data-ttu-id="5d58d-107">CSP 직접 모델에 있는 경우 Power BI용 파트너 센터 분석 앱 설치하고 사용하여 추가 데이터를 수집할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-107">If you are in the CSP direct model, you also have the opportunity to install and use the Partner Center Analytics app for Power BI to gather additional data.</span></span>
 
-<span data-ttu-id="720ed-107">CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 어떻게 사용하는지 이해해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-107">Planning ways to develop your CSP business includes understanding how your customers use their Microsoft products.</span></span> <span data-ttu-id="720ed-108">파트너 센터에서 데이터를 수집 하기 위한 몇 가지 옵션이 있으며, 비즈니스와 고객이 구매한 라이선스를 사용 하 고 있는 경우에는 데이터를 수집할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-108">You have several options for gathering data in Partner Center, and you can gather data on both your business and on if and how your customers are using the licenses they've purchased.</span></span> <span data-ttu-id="720ed-109">CSP 직접 모델을 사용 하는 경우 추가 데이터를 수집 하기 위해 Power BI 위해 파트너 센터 분석 앱을 설치 하 고 사용할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-109">If you are in the CSP direct model, you also have the opportunity to install and use the Partner Center Analytics app for Power BI to gather additional data.</span></span>
+## <a name="access-to-the-subscription-analytics"></a><span data-ttu-id="5d58d-108">구독 분석에 대한 액세스</span><span class="sxs-lookup"><span data-stu-id="5d58d-108">Access to the Subscription Analytics</span></span>
 
-## <a name="access-to-the-subscription-analytics"></a><span data-ttu-id="720ed-110">구독 분석에 대 한 액세스</span><span class="sxs-lookup"><span data-stu-id="720ed-110">Access to the Subscription Analytics</span></span>
+1. <span data-ttu-id="5d58d-109">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-109">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
+1. <span data-ttu-id="5d58d-110">파트너 센터 메뉴의 CSP에서 **분석을** 선택한 **다음, 구독 분석을** 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-110">From CSP in the Partner Center menu, select **Analyze**, and then select **Subscription analytics**.</span></span>
 
-1. <span data-ttu-id="720ed-111">파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-111">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
-1. <span data-ttu-id="720ed-112">파트너 센터 메뉴의 CSP에서 **분석** 을 선택한 다음 **구독 분석** 을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-112">From CSP in the Partner Center menu, select **Analyze**, and then select **Subscription analytics**.</span></span>
-
-1. <span data-ttu-id="720ed-113">마지막 12 개월 CSP 수익이 페이지 맨 위에 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-113">The trailing twelve-month CSP revenue will be displayed at the top of the page</span></span>
+1. <span data-ttu-id="5d58d-111">후행 12개월 CSP 수익이 페이지 맨 위에 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-111">The trailing twelve-month CSP revenue will be displayed at the top of the page</span></span>
 
 :::image type="content" source="images/analytics/subscription1.png" alt-text="구독 화면":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a><span data-ttu-id="720ed-115">TTM (후행 Twelve-Month) CSP 수익</span><span class="sxs-lookup"><span data-stu-id="720ed-115">Trailing Twelve-Month (TTM) CSP Revenue</span></span>
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a><span data-ttu-id="5d58d-113">TTM(후행 Twelve-Month) CSP 수익</span><span class="sxs-lookup"><span data-stu-id="5d58d-113">Trailing Twelve-Month (TTM) CSP Revenue</span></span>
 
-<span data-ttu-id="720ed-116">후행 12 개월 CSP 수익은 파트너 전역 계정 수준에서 USD의 후행 클라우드 솔루션 공급자 프로그램 수익을 나타냅니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-116">Trailing 12-month CSP revenue represents the trailing Cloud Solution Provider program revenue in USD at a Partner Global Account level.</span></span> <span data-ttu-id="720ed-117">매월 여덟 분에 데이터를 새로 고쳐 이전 달까지 후행 12 개월 수익을 표시 합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-117">The data is refreshed on the eighth of every month, to display the trailing twelve-month revenue until the prior month.</span></span> <span data-ttu-id="720ed-118">예를 들어 9 월 9 일 9 월 2020 년 9 월 2020 2019 일의 고정 기간에 TTM을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-118">For example, on 9 September 2020, you should be able to see the TTM for the fixed period of September 2019 to August 2020.</span></span>
+<span data-ttu-id="5d58d-114">후행 12개월 CSP 수익은 파트너 글로벌 계정 수준에서 후행 클라우드 솔루션 공급자 프로그램 수익(USD)을 나타냅니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-114">Trailing 12-month CSP revenue represents the trailing Cloud Solution Provider program revenue in USD at a Partner Global Account level.</span></span> <span data-ttu-id="5d58d-115">데이터는 매월 8일에 새로 고쳐 이전 달까지 후행 12개월 수익을 표시합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-115">The data is refreshed on the eighth of every month, to display the trailing twelve-month revenue until the prior month.</span></span> <span data-ttu-id="5d58d-116">예를 들어 2020년 9월 9일에는 2019년 9월부터 2020년 8월까지의 고정 기간에 대한 TTM을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-116">For example, on 9 September 2020, you should be able to see the TTM for the fixed period of September 2019 to August 2020.</span></span>
 
-<span data-ttu-id="720ed-119">파트너 센터에 표시 되는 수익은 고정 된 시간 간격으로 12 개월 동안 계산 되며, 더 짧은 시간 프레임으로 수정할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-119">The revenue displayed on Partner Center is calculated for a fixed time interval of 12 months, and cannot be modified to a shorter time frame.</span></span>
+<span data-ttu-id="5d58d-117">파트너 센터 표시되는 수익은 12개월의 고정 시간 간격으로 계산되며 더 짧은 시간 프레임으로 수정할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-117">The revenue displayed on Partner Center is calculated for a fixed time interval of 12 months, and cannot be modified to a shorter time frame.</span></span>
 
-<span data-ttu-id="720ed-120">파트너 위치 계정 수준의 수익 분석을 보려면 다음을 수행 합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-120">To see a breakdown of the revenue at your Partner Location Account level:</span></span>
+<span data-ttu-id="5d58d-118">파트너 위치 계정 수준에서 수익에 대한 분석을 보려면 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-118">To see a breakdown of the revenue at your Partner Location Account level:</span></span>
 
-- <span data-ttu-id="720ed-121">' 세부 정보 다운로드 ' 링크를 선택 하 고 모든 위치에서 TTM 수익을 표시 하는 tsv 파일을 다운로드 합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-121">Select the ‘Download Details’ link and download a .tsv file that displays the TTM revenue across all your locations.</span></span>
+- <span data-ttu-id="5d58d-119">'세부 정보 다운로드' 링크를 선택하고 모든 위치에서 TTM 수익을 표시하는 .tsv 파일을 다운로드합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-119">Select the ‘Download Details’ link and download a .tsv file that displays the TTM revenue across all your locations.</span></span>
 
 >[!NOTE] 
-><span data-ttu-id="720ed-122">Tsv 파일의 MPN Id에서 개별 TTM 수익을 합산 하는 것은 파트너 센터에 표시 되는 전체 TTM 수익 보다 큰 것 처럼 보일 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-122">Summing up the individual TTM Revenue numbers across MPN IDs in the .tsv file may appear to be greater than the overall TTM revenue you see displayed on Partner Center.</span></span> <span data-ttu-id="720ed-123">다운로드 한 파일에 여러 파트너 attributions가 있는 구독에 대해 수익이 두 번 계산 될 수 있기 때문입니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-123">This is because the revenue may be double counted for subscriptions with multiple partner attributions in the downloaded file.</span></span>
+><span data-ttu-id="5d58d-120">.tsv 파일의 MPN ID에서 개별 TTM 수익 수를 합산하면 파트너 센터 표시되는 전체 TTM 수익보다 큰 것으로 나타날 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-120">Summing up the individual TTM Revenue numbers across MPN IDs in the .tsv file may appear to be greater than the overall TTM revenue you see displayed on Partner Center.</span></span> <span data-ttu-id="5d58d-121">다운로드한 파일에서 파트너 특성이 여러 개 있는 구독의 수익이 두 배로 계산될 수 있기 때문입니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-121">This is because the revenue may be double counted for subscriptions with multiple partner attributions in the downloaded file.</span></span>
 
-## <a name="subscription-summary"></a><span data-ttu-id="720ed-124">구독 요약</span><span class="sxs-lookup"><span data-stu-id="720ed-124">Subscription Summary</span></span>
+## <a name="subscription-summary"></a><span data-ttu-id="5d58d-122">구독 요약</span><span class="sxs-lookup"><span data-stu-id="5d58d-122">Subscription Summary</span></span>
 
-<span data-ttu-id="720ed-125">화면의 아래쪽에는 구독 요약이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-125">The lower half of the screen displays a summary of the subscriptions.</span></span> <span data-ttu-id="720ed-126">다음 필터를 사용 하 여 필요한 구독 정보를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-126">Use the following filters to see the necessary subscription details:</span></span>  
+<span data-ttu-id="5d58d-123">화면의 아래쪽에는 구독 요약이 표시 됩니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-123">The lower half of the screen displays a summary of the subscriptions.</span></span> <span data-ttu-id="5d58d-124">다음 필터를 사용 하 여 필요한 구독 정보를 확인 합니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-124">Use the following filters to see the necessary subscription details:</span></span>  
 
-1. <span data-ttu-id="720ed-127">**기간**:에 대 한 구독 요약을 표시 하도록 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-127">**Duration**: You may opt to see the subscription summary for</span></span> 
+1. <span data-ttu-id="5d58d-125">**기간**:에 대 한 구독 요약을 표시 하도록 선택할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-125">**Duration**: You may opt to see the subscription summary for</span></span> 
 
-- <span data-ttu-id="720ed-128">30D – 지난 30 일</span><span class="sxs-lookup"><span data-stu-id="720ed-128">30D – Last 30 days</span></span>
-- <span data-ttu-id="720ed-129">3M – 지난 3 개월</span><span class="sxs-lookup"><span data-stu-id="720ed-129">3M – Last 3 months</span></span>
-- <span data-ttu-id="720ed-130">6M – 지난 6 개월</span><span class="sxs-lookup"><span data-stu-id="720ed-130">6M – Last 6 months</span></span>
-- <span data-ttu-id="720ed-131">12M – 지난 12 개월</span><span class="sxs-lookup"><span data-stu-id="720ed-131">12M – Last 12 months</span></span>
+- <span data-ttu-id="5d58d-126">30D – 지난 30 일</span><span class="sxs-lookup"><span data-stu-id="5d58d-126">30D – Last 30 days</span></span>
+- <span data-ttu-id="5d58d-127">3M – 지난 3 개월</span><span class="sxs-lookup"><span data-stu-id="5d58d-127">3M – Last 3 months</span></span>
+- <span data-ttu-id="5d58d-128">6M – 지난 6 개월</span><span class="sxs-lookup"><span data-stu-id="5d58d-128">6M – Last 6 months</span></span>
+- <span data-ttu-id="5d58d-129">12M – 지난 12 개월</span><span class="sxs-lookup"><span data-stu-id="5d58d-129">12M – Last 12 months</span></span>
 
-2. <span data-ttu-id="720ed-132">**제품 종류**:</span><span class="sxs-lookup"><span data-stu-id="720ed-132">**Product Type**:</span></span>
+2. <span data-ttu-id="5d58d-130">**제품 종류**:</span><span class="sxs-lookup"><span data-stu-id="5d58d-130">**Product Type**:</span></span>
  
-- <span data-ttu-id="720ed-133">Office 365</span><span class="sxs-lookup"><span data-stu-id="720ed-133">Office 365</span></span>
-- <span data-ttu-id="720ed-134">Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="720ed-134">Microsoft 365</span></span>
-- <span data-ttu-id="720ed-135">Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="720ed-135">Dynamics 365</span></span>
-- <span data-ttu-id="720ed-136">EMS</span><span class="sxs-lookup"><span data-stu-id="720ed-136">EMS</span></span>
+- <span data-ttu-id="5d58d-131">Office 365</span><span class="sxs-lookup"><span data-stu-id="5d58d-131">Office 365</span></span>
+- <span data-ttu-id="5d58d-132">Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="5d58d-132">Microsoft 365</span></span>
+- <span data-ttu-id="5d58d-133">Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="5d58d-133">Dynamics 365</span></span>
+- <span data-ttu-id="5d58d-134">EMS</span><span class="sxs-lookup"><span data-stu-id="5d58d-134">EMS</span></span>
 
-<span data-ttu-id="720ed-137">이러한 필터를 적용 해도이 보고서 맨 위에 있는 TTM 수익 메트릭에는 영향을 주지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="720ed-137">Applying these filters will not impact the TTM revenue metric at the top of this report.</span></span>
+<span data-ttu-id="5d58d-135">이러한 필터를 적용 해도이 보고서 맨 위에 있는 TTM 수익 메트릭에는 영향을 주지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="5d58d-135">Applying these filters will not impact the TTM revenue metric at the top of this report.</span></span>
 
 
  
-## <a name="next-steps"></a><span data-ttu-id="720ed-138">다음 단계</span><span class="sxs-lookup"><span data-stu-id="720ed-138">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="5d58d-136">다음 단계</span><span class="sxs-lookup"><span data-stu-id="5d58d-136">Next steps</span></span>
 
-- [<span data-ttu-id="720ed-139">고객이 구매한 라이선스를 사용 하는 방법 분석</span><span class="sxs-lookup"><span data-stu-id="720ed-139">Analyze how your customers are using the licenses they purchased</span></span>](increasing-adoption-and-satisfaction.md)  
-- [<span data-ttu-id="720ed-140">고객 활동 로그 보기</span><span class="sxs-lookup"><span data-stu-id="720ed-140">View customer activity logs</span></span>](activity-logs.md)
-- [<span data-ttu-id="720ed-141">Power BI용 파트너 센터 분석 앱</span><span class="sxs-lookup"><span data-stu-id="720ed-141">Partner Center Analytics app for Power BI</span></span>](power-bi-app-for-direct-partners.md)
+- [<span data-ttu-id="5d58d-137">고객이 구매한 라이선스를 사용 하는 방법 분석</span><span class="sxs-lookup"><span data-stu-id="5d58d-137">Analyze how your customers are using the licenses they purchased</span></span>](increasing-adoption-and-satisfaction.md)  
+- [<span data-ttu-id="5d58d-138">고객 활동 로그 보기</span><span class="sxs-lookup"><span data-stu-id="5d58d-138">View customer activity logs</span></span>](activity-logs.md)
+- [<span data-ttu-id="5d58d-139">Power BI용 파트너 센터 분석 앱</span><span class="sxs-lookup"><span data-stu-id="5d58d-139">Partner Center Analytics app for Power BI</span></span>](power-bi-app-for-direct-partners.md)
 
 
 
