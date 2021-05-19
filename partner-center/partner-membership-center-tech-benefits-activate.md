@@ -9,19 +9,17 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 3890f3fe314dcd1bfbbb0d86bf496683d80c5cd9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818646"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145816"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>파트너 센터 외부에서 Microsoft 파트너 네트워크 기술 혜택 활성화
 
 
-**적절한 역할**
-
-- 모든 파트너 센터 사용자
+**적절한 역할:** 모든 파트너 센터 사용자
 
 이 문서는 여전히 PMC(Partner Membership Center)를 사용하는 MPN(Microsoft 파트너 네트워크) 멤버를 위한 것입니다. 이러한 멤버는 현재 [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)외부에서 기술 혜택과 같은 특정 MPN 멤버 자격 혜택을 활성화하는 데 도움이 필요합니다.
 
@@ -45,7 +43,7 @@ PMC 사용자인 경우 기술 혜택 활성화에 대한 도움말은 이 표�
 
 \***유럽, 중동 및 아프리카(EMEA)의 파트너만 해당:** Regform을 메일로 보낼 때 파트너 ID, MPN 관련 메일 주소, 이름, 회사 이름, 전화, 도시 및 국가를 포함합니다. 지원 계약을 만들거나 활성화하는 데 도움이 되는 Regform을 사용합니다. 다른 MPN 관련 문제가 있는 경우 [파트너 일선 지원에 문의합니다.](https://partner.microsoft.com/support?issueid=300-0042)
 
-혜택이 활성화되면 회사의 핵심 혜택과 연결된 프로그램 연락처는 해당 혜택에 대한 제품 지원 ID를 받게 됩니다. 이러한 Id에는 **액세스 id** 및 **계약 ID** 가 포함 됩니다. 
+혜택이 활성화 되 면 회사의 핵심 이점과 관련 된 프로그램 담당자가 해당 혜택에 대 한 제품 지원 Id를 받게 됩니다. 이러한 Id에는 **액세스 id** 및 **계약 ID** 가 포함 됩니다. 
 
 특정 유형의 제품 또는 서비스에 대 한 지원 요청을 처음으로 제출할 때 사용자 또는 회사 사용자가 이러한 제품 지원 Id를 공유 해야 할 수 있습니다.
 

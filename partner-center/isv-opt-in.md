@@ -9,21 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 35a4e08ade5c5dcfb796535ed117e3bf1f33cabd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179465"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151800"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>독립 소프트웨어 공급업체의 마켓플레이스 독점 제품
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
+**적절 한 역할**: 전역 관리자 | 사용자 관리 관리자 | 관리 에이전트 | 판매 에이전트
 
 ISV (독립 소프트웨어 공급 업체)는 특정 CSP 파트너 에게만 제공 되는 독점적인 제품을 만들 수 있습니다.
 

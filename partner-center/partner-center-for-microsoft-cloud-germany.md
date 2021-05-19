@@ -4,42 +4,34 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 클라우드 독일 파트너 센터는 EU 및 EFTA 국가에서 Microsoft 클라우드 솔루션을 고객에 게 제공 하려는 파트너를 위한 비즈니스 포털입니다.
+description: microsoft Cloud Germany용 파트너 센터 EU 및 EFTA 국가의 고객에게 Microsoft 클라우드 솔루션을 제공하려는 파트너를 위한 비즈니스 포털입니다.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086518"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151086"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>EU의 고객에 게 판매 하는 파트너를 위한 Microsoft 클라우드 독일 파트너 센터 & EFTA 국가
+# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>EU & EFTA 국가의 고객에게 판매하는 파트너를 위한 Microsoft 클라우드 독일 파트너 센터
 
-**적용 대상**
+**적용:** Microsoft 클라우드 독일용 파트너 센터
 
-- Microsoft 클라우드 독일 파트너 센터
+**적절한 역할:** 전역 관리자 | 사용자 관리 관리자 | 관리 에이전트 | 영업 에이전트 | 청구 관리자
 
-**적절한 역할**
+Microsoft 클라우드 독일은 엄격한 독일 데이터 보호 요구 사항을 충족하도록 설계되었으며 독일 법률에 따라 고객 데이터에 대한 물리적 및 논리적 액세스를 제어하는 독일 데이터 트러스티를 보유하고 있습니다. 모든 고객 데이터와 고객 데이터에 대한 액세스를 처리하거나 제어하는 시스템은 독일 데이터 센터에 상주합니다. 이러한 데이터 센터 간의 네트워크는 독일 내에서 격리되고 전용입니다.
 
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
-- 청구 관리자
-
-Microsoft 클라우드 독일은 엄격한 독일 데이터 보호 요구 사항을 충족하도록 설계되었으며 독일 법률에 따라 고객 데이터에 대한 물리적 및 논리적 액세스를 제어하는 독일 데이터 트러스티를 보유하고 있습니다. 모든 고객 데이터와 고객 데이터에 대 한 액세스를 처리 하거나 제어 하는 시스템은 독일 데이터 센터에 상주 합니다. 이러한 데이터 센터 간의 네트워크는 격리 되 고 독일 내에서 전용입니다.
-
-Microsoft 클라우드 독일에서는 독일의 데이터 센터에서 제공 되는 별도의 [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)인스턴스를 제공 합니다. 결과적으로 EU (유럽 연합) 및 EFTA (유럽 자유 무역 연합)의 상업적 고객은 주요 국제 표준 뿐만 아니라 해당 하는 독일 법률 및 규정을 준수 하 여 고객 데이터를 저장 하 고 관리할 수 있습니다. Microsoft 직원은 독일어 데이터 트러스티 또는 고객의 승인 없이 고객 데이터에 액세스할 수 없습니다.
+Microsoft Cloud Germany는 독일 데이터 센터에서 제공되는 [별도의 Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)인스턴스를 제공합니다. 따라서 EU(유럽 연합) 및 EFTA(유럽 자유 거래 관계)의 상용 고객은 적용 가능한 독일 법률 및 규정과 주요 국제 표준에 따라 고객 데이터를 저장하고 관리할 수 있습니다. Microsoft 직원은 독일 데이터 보안 담당자 또는 고객의 승인 및 감독 없이 고객 데이터에 액세스할 수 없습니다.
 
 > [!IMPORTANT]
-> 독일에 대 한 클라우드 전략은 고객의 요구에 따른 혁신을 기반으로 하 여 글로벌 클라우드 제품과 일치 하는 독일에서 새로운 클라우드 지역 제공에 초점을 맞춥니다. 이를 통해 새 고객을 더 이상 수락 하거나 현재 사용할 수 있는 Microsoft 클라우드 독일에서 새로운 서비스를 배포할 수 없습니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 필요한 보안 업데이트를 유지 관리할 수 있습니다.
+> 고객의 요구 사항 진화에 따라 독일에 대한 클라우드 전략은 글로벌 클라우드 제품과 일치하는 새로운 클라우드 지역을 독일에 제공하는 데 집중합니다. 이러한 초점을 두고 더 이상 새 고객을 수락하거나 현재 사용 가능한 Microsoft Cloud Germany에서 새 서비스를 배포하지 않습니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 이 서비스는 필요한 보안 업데이트를 통해 유지 관리됩니다.
 >
-> 새 고객은 현재 사용할 수 있는 유럽 지역 또는 독일의 새 지역 (사용할 수 있는 경우)을 사용할 수 있는 옵션이 제공 됩니다. 자세한 내용은 [독일의 새 데이터 센터에서 클라우드 서비스를 제공 하는 Microsoft를](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)참조 하세요. 
+> 앞으로 새 고객은 현재 사용 가능한 유럽 지역 또는 독일에 있는 새 지역을 사용할 수 있습니다. 자세한 내용은 [Microsoft를 참조하여 독일에 있는 새 데이터 센터에서 클라우드 서비스를 제공합니다.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/) 
 
-## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft 클라우드 독일에서 다른 유럽 지역으로 고객 마이그레이션
+## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft Cloud Germany에서 다른 유럽 지역으로 고객 마이그레이션
 
 고객 구독을 Microsoft 클라우드 독일에서 다른 유럽 지역으로 마이그레이션하려면 먼저 해당 지역에 있으며 활성 상태인 기존 CSP (클라우드 솔루션 공급자) 계정이 있어야 합니다. 파트너가 없는 경우 파트너 센터에서 CSP 계정을 선택 하는 동안 계정을 만들라는 메시지가 표시 됩니다. 새 계정을 만든 후에는 선택한 테 넌 트에 고객이 연결 됩니다.
 
@@ -75,29 +67,29 @@ Microsoft 클라우드 독일에서는 독일의 데이터 센터에서 제공 �
  
 1. 메시지가 표시 되 면 **유럽 지역에 테 넌 트가 없습니다**.를 선택 하 고 **새 계정 만들기** 를 선택 합니다. 
  
-1. 파트너 센터 등록 페이지로 이동 하 여 유럽 지역에서 새 테 넌 트 및 CSP 계정을 만들 수 있습니다.
+1. 유럽 지역에서 새 테넌트 및 CSP 계정을 만들 수 있는 파트너 센터 등록 페이지로 이동됩니다.
   
-5. Microsoft 파트너 계약에 서명 하 고 계정이 활성 상태 이면 현재 Microsoft 클라우드 독일 계정으로 로그인 합니다.
+5. Microsoft 파트너 계약 로그인하고 계정이 활성화되면 현재 Microsoft Cloud Germany 계정으로 로그인합니다.
 
-6. 테 넌 트 선택 양식으로 이동 합니다.
+6. 테넌트 선택 양식으로 이동합니다.
 
-7. **유럽 지역에 테 넌 트가 이미 있습니다** .를 선택 하 고 지침을 따릅니다.
+7. **유럽 지역에 테넌트는 이미 있습니다.를** 선택하고 지침을 따릅니다.
 
 
-## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>EU 및 EFTA의 독일 클라우드 솔루션 판매
+## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>EU 및 EFTA에서 독일 클라우드 솔루션 판매
 
-Microsoft 클라우드 독일 프로그램의 CSP (클라우드 솔루션 공급자)에 등록 되 면 파트너 센터를 사용 하 여 독일 클라우드 관련 솔루션 및 서비스를 EU 및 EFTA 국가/지역에 있는 고객에 게 판매 합니다.
+Microsoft 클라우드 독일 클라우드 솔루션 공급자(CSP) 프로그램에 등록되면 파트너 센터 사용하여 EU 및 EFTA 국가/지역의 고객에게 독일어 클라우드 관련 솔루션 및 서비스를 판매합니다.
 
-개인의 데이터 수집 및 사용과 핵심 국제 표준의 수집 및 사용을 제어 하는 독일어 법률 및 규정을 준수 하기 위해 다음과 같은 파트너 센터 작업이 특정 서비스 포털을 사용 하 여 관리 됩니다.
+개인의 데이터 수집 및 사용뿐만 아니라 주요 국제 표준을 제어하는 독일 법률 및 규정을 준수하기 위해 다음 파트너 센터 작업은 특정 서비스 포털을 사용하여 관리됩니다.
 
-기능 또는 기능 | 작업 완료
+기능 또는 기능 | 다음에서 작업 완료
 :--- | :---
-파트너 사용자 관리 | Office 365 관리 센터 또는 Azure Microsoft 클라우드 독일 관리 포털
-고객 사용자 관리 | Office 365 관리 센터 또는 Azure Microsoft 클라우드 독일 관리 포털
-사용자 암호 재설정 | Microsoft 클라우드 독일 관리 포털에 대 한 Azure
-라이선스 관리 | Office 365 관리 센터 또는 Office 365 관리 센터 또는 Microsoft 클라우드 독일 Azure Active Directory 라이선스 포털
+파트너 사용자 관리 | Office 365 관리 센터 또는 Microsoft Cloud 독일 관리 포털용 Azure
+고객 사용자 관리 | Office 365 관리 센터 또는 Microsoft Cloud 독일 관리 포털용 Azure
+사용자 암호 재설정 | Microsoft Cloud 독일 관리 포털용 Azure
+라이선스 관리 | Office 365 관리 센터 또는 Office 365 관리 센터 또는 Microsoft Cloud Germany Azure Active Directory 라이선스 포털
 
 ## <a name="next-steps"></a>다음 단계
 
-- 사용자 및 라이선스 관리에 대 한 자세한 내용은 [Microsoft 클라우드 독일 파트너 센터의 사용자 및 라이선스 관리](user-management-in-partner-center-for-microsoft-cloud-germany.md)를 참조 하세요.
+- 사용자 및 라이선스 관리에 대한 자세한 내용은 [Microsoft Cloud Germany용 파트너 센터 사용자 및 라이선스 관리를](user-management-in-partner-center-for-microsoft-cloud-germany.md)참조하세요.
 

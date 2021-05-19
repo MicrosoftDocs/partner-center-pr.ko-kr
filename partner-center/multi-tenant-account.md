@@ -9,20 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124808"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151205"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>파트너 센터 계정에서 여러 테 넌 트 추가 및 관리
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 계정 관리자
+**적절 한 역할**: 전역 관리자 | 계정 관리자
 
 이 문서에서는 회사에 대해 여러 Azure Active Directory (Azure AD) 테 넌 트를 통합 한 다음 파트너 센터 계정에서 추가 하 고 관리 하는 방법을 설명 합니다. 이 작업을 수행 하는 데는 여러 가지 이유가 있습니다. 예를 들면 다음과 같습니다.
 
@@ -46,32 +43,32 @@ ms.locfileid: "102124808"
 
 1. **연결** 을 선택한 다음 연결 하려는 테 넌 트를 지정 합니다.
 
-1. 프롬프트에서 연결할 테 넌 트에 대 한 전역 관리자로 로그인 한 다음 **확인** 을 선택 합니다. 
+1. 프롬프트에서 연결하려는 테넌트에서 전역 관리자로 로그인한 다음, **확인을** 선택합니다. 
 
-   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="새 Azure AD 연결 확인 창에 있는 확인 단추의 스크린샷"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="새 Azure AD 연결 확인 창의 확인 단추 스크린샷."::: 
 
-   연결을 확인 한 후에는 **모든 설정** 된 메시지가 표시 됩니다. 새로 추가 된 테 넌 트를 보려면 **테 넌 트 관리로 돌아가기** 를 선택 합니다. 
+   연결을 확인하면 **모든 집합** 메시지가 표시됩니다. 새로 추가된 테넌트 를 보려면 **테넌트 관리로 돌아가기를** 선택합니다. 
  
 >[!NOTE]
->다른 파트너 센터 계정에 이미 연결 되어 있는 경우에는 계정과 테 넌 트를 연결할 수 없습니다.
+>테넌트는 이미 다른 파트너 센터 계정에 연결된 경우 계정과 연결할 수 없습니다.
 
 
-## <a name="remove-a-tenant-from-your-account"></a>계정에서 테 넌 트 제거
+## <a name="remove-a-tenant-from-your-account"></a>계정에서 테넌트 제거
  
-1. [Microsoft 파트너 센터](https://partner.microsoft.com/dashboard)에 전역 관리자 권한으로 로그인 합니다.
+1. [Microsoft 파트너 센터](https://partner.microsoft.com/dashboard)전역 관리자로 로그인합니다.
 
-1. 오른쪽 위에서 **설정** 아이콘을 선택 하 고 **계정 설정** 을 선택 합니다.
+1. 오른쪽 위에서 **설정** 아이콘을 선택한 다음, **계정 설정 을** 선택합니다.
 
-1. 왼쪽 창에서 **테 넌 트** 를 선택 합니다. **AZURE AD 테 넌 트 관리** 에서 **파트너** 탭을 선택 합니다.
+1. 왼쪽 창에서 **테넌트 를** 선택합니다. **Azure AD 테넌트 관리에서** **파트너** 탭을 선택합니다.
  
-1. 연결을 제거 하려는 테 넌 트 옆에 있는 **제거** 를 선택 합니다.
+1. **연결을 제거하려는** 테넌트 옆에 있는 제거를 선택합니다.
 
-   :::image type="content" source="images/disassociate.png" alt-text="현재 테 넌 트 연결 및 제거 링크의 스크린샷":::
+   :::image type="content" source="images/disassociate.png" alt-text="현재 테넌트 연결 및 해당 제거 링크의 스크린샷.":::
 
-   앞의 스크린샷에 표시 된 것 처럼, 현재 로그인 한 기본 테 넌 트 및 테 넌 트를 제외 하 고 모든 연결 된 테 넌 트에 대해 **제거** 링크를 사용할 수 있습니다. 
+   앞의 스크린샷에 표시된 것처럼 주 테넌트 및 현재 로그인한 테넌트만 제외하고 연결된 모든 테넌트에서 **제거** 링크를 사용할 수 있습니다. 
 
    > [!NOTE]   
-   > 테 넌 트를 제거 하는 경우 해당 테 넌 트의 사용자는 더 이상 파트너 센터 계정에 액세스할 수 없으며 제거는 역량에 영향을 미칠 수 있습니다. 
+   > 테넌트를 제거하면 해당 테넌트의 사용자는 더 이상 파트너 센터 계정에 액세스할 수 없으며 제거는 역량에 영향을 미칠 수 있습니다. 
 
 ## <a name="next-steps"></a>다음 단계
 

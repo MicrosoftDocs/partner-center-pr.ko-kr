@@ -9,23 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179414"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151834"
 ---
 # <a name="license-based-billing-in-partner-center"></a>파트너 센터의 라이선스 기반 요금 청구
 
-**적절한 역할**
+**적절 한 역할**: 전역 관리자 | 사용자 관리 관리자 | 청구 관리자 | 관리 에이전트
 
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 청구 관리자
-- 관리 에이전트
-
-**라이선스** 를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](billing-different-types.md)을 참조 하세요.
+**라이선스** 를 필요로 하는 파트너 센터에서 제품 또는 온라인 서비스를 구매 하는 경우 구입한 *각 라이선스에 대 한* 요금이 청구 됩니다. 이러한 라이선스에 대 한 사용량에 따라 *요금이 청구 되지 않습니다* . 사용량 기반 청구 및 기타 청구 유형에 대 한 자세한 내용은 [파트너 센터에서 청구 유형](./billing-basics.md)을 참조 하세요.
 
 ## <a name="license-billing-frequency"></a>라이선스 청구 빈도
 
@@ -60,6 +55,6 @@ ms.locfileid: "106179414"
 
 - [파트너 센터 청구 개요](billing-basics.md)
 
-- [파트너 센터의 청구 유형](billing-different-types.md)
+- [파트너 센터의 청구 유형](./billing-basics.md)
 
 - [주요 청구 및 세금 문서](billing.md)

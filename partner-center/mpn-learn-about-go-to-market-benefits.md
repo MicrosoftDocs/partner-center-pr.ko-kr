@@ -1,59 +1,52 @@
 ---
-title: Microsoft 제품을 사용한 출시에 대 한 자세한 정보
+title: Microsoft 제안을 사용하여 시장 진출에 대해 알아보기
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 Microsoft 제품 출시에 대해 알아보세요.
+description: Microsoft 제안으로 시장 진출을 통해 출시 시간을 가속화하고, 잠재 고객을 창출하고, 비즈니스를 확장하는 방법을 알아봅니다.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475265"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152242"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용 하 여 시장 진입 살펴보기
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft 제품을 사용하여 출시 살펴보기
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | MPN 파트너 관리자
 
-- 글로벌 관리자
-- MPN 파트너 관리자
+Microsoft 파트너 네트워크 멤버가 되면 비즈니스를 구축하고 성장시키는 데 도움이 되는 멤버 자격 혜택에 액세스할 수 있습니다. Microsoft 리소스, 제안 및 프로그램을 사용하는 시장 진출은 Microsoft 파트너 네트워크 멤버로 받는 [많은 혜택](https://partner.microsoft.com/manage-your-partner-network-benefits) 중 하나입니다.
 
-Microsoft 파트너 네트워크 멤버가 되 면 비즈니스를 구축 하 고 확장 하는 데 도움이 되는 멤버 자격 혜택에 액세스할 수 있습니다. Microsoft 리소스, 제품 및 프로그램을 사용 하는 시장 출시는 Microsoft 파트너 네트워크 멤버로 받은 [많은 이점](https://partner.microsoft.com/manage-your-partner-network-benefits) 중 하나입니다.
-
-시장 출시를 통해 출시 시간을 단축 하 고, 잠재 고객을 창출 하 고, 비즈니스를 확장 하는 데 도움이 되는 독점적인 판매 및 마케팅 리소스에 액세스할 수 있습니다.
+시장 진출 제안을 통해 출시 시간을 가속화하고, 잠재 고객을 창출하고, 비즈니스를 확장하는 데 도움이 될 수 있는 단독 판매 및 마케팅 리소스에 액세스할 수 있습니다.
 
 >[!NOTE]
->아직 Microsoft 파트너 네트워크의 멤버가 아닌 경우 [Microsoft 파트너 네트워크 사이트](https://partner.microsoft.com/membership)에서 조인 합니다.
+>아직 Microsoft 파트너 네트워크 멤버가 아닌 경우 [Microsoft 파트너 네트워크 사이트에 조인합니다.](https://partner.microsoft.com/membership)
 
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>회원 수준별로 제공 되는 시장 출시 리소스, 제품 및 프로그램
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>멤버 자격 수준에서 사용할 수 있는 시장 진출 리소스, 제안 및 프로그램
 
-시장 출시 제품은 특정 수준의 MPN 멤버 자격, 특수화 [및 사용자가 원하는 역량](learn-about-competencies.md) 에 따라 달라 집니다.
+시장 진출 제안은 특정 수준의 MPN 멤버 자격, 전문 분야 및 달성한 [역량에](learn-about-competencies.md) 따라 다릅니다.
 
-모든 MPN 멤버는 특정 표준 GTM 리소스에 액세스할 수 있습니다. 여기에는 바로 사용할 수 있는 마케팅 자산, 판매 사용 플랫폼 및 주문형 디지털 마케팅에 대 한 액세스가 포함 됩니다. 또한 공동 판매 준비 제품을 사용 하 여 실버 또는 골드 역량 및/또는 ISV 파트너를 획득 하는 파트너에 게 더 많은 출시 전 제품 및 프로그램을 사용할 수 있습니다.
+모든 MPN 멤버는 특정 표준 GTM 리소스에 액세스할 수 있습니다. 여기에는 즉시 사용 가능한 마케팅 자산, 영업 지원 플랫폼 및 주문형 디지털 마케팅에 대한 액세스가 포함됩니다. 실버 또는 골드 역량을 획득한 파트너 및/또는 공동 판매 준비 제품으로 ISV 파트너가 사용할 수 있는 시장 진출 제품 및 프로그램도 훨씬 더 많이 있습니다.
 
 >[!NOTE]
->시장 출시 리소스, 제품 및 프로그램에는 추가 및 변경 내용이 적용 됩니다. Microsoft 파트너 네트워크 [시장 출시 페이지로](https://partner.microsoft.com/membership/go-to-market) 이동 하 여 공동 판매 준비 제품으로 다양 한 역량 수준 및/또는 ISV 파트너를 확보 하는 파트너에 게 제공 되는 최신 시장 출시 리소스 및 제품에 대해 알아보세요.
+>시장 진출 리소스, 제안 및 프로그램에는 추가 및 변경 내용이 적용됩니다. Microsoft 파트너 네트워크 [Go-To-Market 페이지로](https://partner.microsoft.com/membership/go-to-market) 이동하여 공동 판매 준비 제품으로 다양한 역량 수준 및/또는 ISV 파트너를 위해 사용할 수 있는 최신 시장 진출 리소스 및 제안에 대해 알아봅니다.
 
-**실버** 역량 수준 및/또는 ISV 파트너와 함께 사용할 수 있는 추가 시장 출시 제품으로 서, 공동 판매를 제공 하는 제품이 있습니다.
+**실버** 역량 수준이 있는 제품 및/또는 공동 판매 인센티브 적격 제품인 ISV 파트너가 사용할 수 있는 추가 시장 진출 제품:
 
-- 모든 MPN 표준 출시 간 리소스
+- 모든 MPN 표준 출시 리소스
 - 비즈니스 프로필 최적화 및 조회 관리
-- Microsoft로 출시 하는 방법
+- Microsoft를 사용하여 마케팅하는 방법
 
 공동 판매 된 제품을 제공 하는 **골드** 역량 수준 및/또는 ISV 파트너와 함께 파트너에 게 제공 되는 추가 시장 출시 제안:
 
 - 모든 MPN 표준 출시 간 리소스
 - 모든 실버/ISV 공동 판매 준비 출시 제안
-- 공동 브랜드 one-호출기
-- 공동 브랜드 프레젠테이션
-- 공동 사례 연구
-- Microsoft 임원 견적으로 릴리스 누르기
-- 공동 회사 소셜 마케팅
+- 파트너 시장 출시 도구 상자 
 
 ## <a name="view-go-to-market-membership-offers-in-partner-center"></a>파트너 센터에서 시장 간 회원 혜택 보기
 

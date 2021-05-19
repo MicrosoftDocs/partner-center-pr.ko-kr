@@ -1,6 +1,6 @@
 ---
 title: 파트너 센터 인사이트
-description: 이 파트너 센터 통합 보고 대시보드를 살펴보세요. 판매 및 배포, 고객 개발 등에 대 한 Kpi에서 수행 하는 방법을 확인 하세요.
+description: 이 파트너 센터 통합 보고 대시보드를 탐색합니다. 영업 및 배포, 고객 개발 등을 위해 KPI에서 수행하는 방법을 확인합니다.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,40 +9,35 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086586"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151018"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 정보-Microsoft 상업적 파트너의 작업 방식을 보여 주는 대시보드
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 Insights - Microsoft 상용 파트너가 수행하는 작업을 보여 주는 대시보드
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 계정 관리자
-- 임원 보고서 뷰어
-- 보고서 뷰어
+**적절한 역할:** 전역 관리자 | 계정 관리자 | 임원 보고서 뷰어 | 보고서 뷰어
 
 ## <a name="introduction"></a>소개
 
-Insights 대시보드는 Microsoft 파트너 네트워크 (MPN) 프로그램에 등록 된 Microsoft 상업적 파트너를 위한 파트너 센터의 통합 된 보고 대시보드입니다. Insights 대시보드는 Office, Azure, Dynamics 및 라이선스 모델 (예: CSP 및 EA)에서 제공 하는 클라우드 제품의 KPI (핵심 성과 지표)를 360 수준으로 표시 합니다. 조직의 데이터 기반 결정을 내리는 데 도움이 되는 다양 한 KPI 보고서를 제공 합니다. 
+Insights 대시보드는 MPN(Microsoft 파트너 네트워크) 프로그램에 등록된 Microsoft 상업용 파트너를 위한 파트너 센터 통합 보고 대시보드입니다. Insights 대시보드는 Office, Azure, Dynamics와 같은 클라우드 제품 및 CSP 및 EA와 같은 라이선스 모델에서 KPI(핵심 성과 지표)를 360도로 표시합니다. 조직에 대한 데이터 기반 결정을 내리는 데 도움이 될 수 있는 풍부한 KPI 보고서 집합을 노출합니다. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Insights 대시보드에 대 한 역할 기반 액세스 제어
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Insights 대시보드에 대한 역할 기반 액세스 제어
 
-파트너 센터에는 정보에 대 한 액세스를 위해 특별히 설계 된 두 개의 새로운 역할인 **보고서 뷰어** 및 **임원 보고서 뷰어가** 있습니다. 임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있으며, 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요 한 데이터 집합에 액세스할 수 없습니다. 
+인사이트에 대한 액세스를 위해 특별히 설계된 파트너 센터 **보고서 뷰어** 및 임원 보고서 **뷰어** 의 두 가지 새로운 역할이 있습니다. 임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있지만 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요한 데이터 집합에 액세스할 수 없습니다. 
 
-전역 관리자 또는 계정 관리자는 이러한 역할을 사용자에 게 할당할 수 있으며 전체 회사 또는 특정 MPN 위치에 할당 됩니다.  
+전역 관리자 또는 계정 관리자는 사용자에게 이러한 역할을 할당할 수 있으며 전체 회사 또는 특정 MPN 위치에 할당됩니다.  
 
 >[!Note] 
->MPN 관리자가 1 월 20, 2020 인 사용자는 회사 전체의 보고서 뷰어 역할에 자동으로 추가 됩니다. 전역 관리자 또는 계정 관리자에 게 필요한 명시적인 조치 없이 보고서를 보고서 뷰어로 액세스할 수 있습니다. 전역 관리자 또는 계정 관리자는 필요한 경우 이러한 할당을 재정의할 수 있습니다. 
+>2020년 1월 20일 현재 MPN 관리자였던 사용자는 회사 전체 보고서 뷰어 역할에 자동으로 추가되었습니다. 전역 관리자 또는 계정 관리자가 요구하는 명시적 작업 없이 보고서 뷰어로 보고서에 액세스할 수 있습니다. 전역 관리자 또는 계정 관리자는 필요한 경우 이러한 할당을 재정의할 수 있습니다. 
 
 ## <a name="reports-available"></a>사용 가능한 보고서
 
 다음 보고서는 Insights 대시보드의 일부로 사용할 수 있습니다.
 
-**개요**: 개요 보고서는 고객 수, 활성 구독 수, Azure 소비 수익, 활성 라이선스 등 관심 있는 다양 한 kpi의 스냅숏 뷰를 제공 합니다.
+**개요:** 개요 보고서는 고객 수, 활성 구독 수, Azure 소비 수익, 활성 라이선스 등 관심 있는 다양한 KPI의 스냅샷 보기를 제공합니다.
 
 **고객**: 고객 보고서는 고객 취득 데이터, 활성 고객 등 고객에 대 한 분석을 제공 합니다.
 
@@ -73,28 +68,28 @@ Insights 대시보드는 Microsoft 파트너 네트워크 (MPN) 프로그램에 
 
 - 선택한 필터가 페이지 맨 위에 표시 됩니다. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="제품, 고객 시장, 파트너 attributions 및 판매 채널에 대 한 필터를 선택할 때 적용 된 필터 표시줄을 보여 주는 부분 스크린샷.":::
+:::image type="content" source="images/pci/filters.png" alt-text="제품, 고객 시장, 파트너 특성 및 판매 채널에 대한 필터 선택 항목이 있는 적용된 필터 표시줄을 보여주는 부분 스크린샷":::
 
 ### <a name="filters-definitions"></a>필터 정의:
 
-- 제품: 조직에서 판매/관리 하는 모든 Microsoft 클라우드 제품의 목록 (예: O365, Azure, D365, EMS, Power BI 등)입니다.
+- 제품: 조직에서 판매/관리하는 모든 Microsoft 클라우드 제품 목록입니다(예: O365, Azure, D365, EMS, Power BI 등).
 - 고객 시장: 고객 국가 목록
-- Partner attributions: 고객의 구독과 연결 형식 (예: DPOR (Digital partner of record), DAP (위임 된 관리자 권한) 및 PAL (파트너 관리자 링크)). 
-- 파트너 위치: 조직의 MPN 위치를 모두 나열 합니다.
-- 판매 채널: 제품 및 서비스를 구매/프로 비전 하는 데 사용할 수 있는 모든 판매 채널/가격, CSP, EA, CSP 간접, 직접, Advisor, 오픈, 기타
-- 고객 부문: 파트너 고객 기반의 고객 세그먼트 목록입니다.
+- 파트너 특성: 고객 구독과 연결 유형(예: DPOR(디지털 파트너), DAP(위임된 관리자 권한) 및 PAL(파트너 관리자 링크)) 
+- 파트너 위치: 조직의 모든 MPN 위치 목록입니다.
+- 판매 채널: 제품 및 서비스를 구매/프로비저닝하는 모든 판매 채널/가격 책정(예: CSP, EA, CSP 간접, Direct, Advisor, Open, 기타)
+- 고객 세그먼트: 파트너 고객 기반의 고객 세그먼트 목록입니다.
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>각 대시보드 및 보고서에 대해 읽어 보십시오.
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>각 대시보드 및 보고서에 대해 읽어 보세요.
 
-- [파트너 센터 정보-개요 대시보드](pci-overview-report.md)
+- [파트너 센터 Insights - 개요 대시보드](pci-overview-report.md)
 
 - [파트너 센터 인사이트 - 고객 대시보드](pci-customer-report.md)
 
-- [파트너 센터 정보-구독 보고서](pci-product-subscriptions-report.md)
+- [파트너 센터 Insights - 구독 보고서](pci-product-subscriptions-report.md)
 
-- [파트너 센터 정보-라이선스 보고서](pci-product-licenses-report.md)
+- [파트너 센터 Insights - 라이선스 보고서](pci-product-licenses-report.md)
 
-- [파트너 센터 정보-Azure 사용량 보고서](pci-azure-usage-report.md)
+- [파트너 센터 Insights - Azure 사용 현황 보고서](pci-azure-usage-report.md)
 
 - [파트너 센터 인사이트 - 역량 보고서](pci-competencies-report.md)
 

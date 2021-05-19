@@ -1,6 +1,6 @@
 ---
-title: 성과급 고객 연결
-description: 요청 된 레코드 파트너 (CPOR) 고객 연결을 관리 하기 위한 중요 한 프로세스 및 타임 라인을 이해 합니다.
+title: 인센티브 고객 연결
+description: CPOR(클레임된 레코드 파트너) 고객 연결을 관리하기 위한 중요한 프로세스 및 타임라인을 이해합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
@@ -8,52 +8,48 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e0c79fb70c5b439968302353c70907f37aaa09a7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179482"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151936"
 ---
-# <a name="manage-incentives-customer-associations"></a>성과급 고객 연결 관리
+# <a name="manage-incentives-customer-associations"></a>인센티브 고객 연결 관리
 
-**적절한 역할**
+**적절한 역할:** 청구 관리자 | 전역 관리자 | 인센티브 관리자
 
-- 청구 관리자
-- 글로벌 관리자
-- 인센티브 관리자
+CPOR(클레임된 파트너) 플랫폼은 파트너가 Microsoft 제품의 사용 또는 구매에 영향을 미치는 최종 고객에게 자신을 연결하는 데 사용됩니다. 현재 CPOR 플랫폼은 Business Applications 및 Microsoft 365 제품을 지원합니다. 파트너는 이 연결 방법을 사용하여 고객 성과에 대한 인사이트를 얻고, OSU 및 OSA 프로그램을 통해 인센티브 지급을 받고, 비즈니스 영향 주체로서 수익 연결을 획득합니다.  
 
-요청 된 레코드 파트너 (CPOR) 플랫폼은 파트너에 게 Microsoft 제품 사용 또는 구매에 영향을 주는 최종 고객에 게 자신을 연결 하는 데 사용 됩니다. 현재 CPOR 플랫폼은 Business Applications 및 Microsoft 365 제품을 지원 합니다. 파트너는이 연결 방법을 사용 하 여 고객의 성능에 대 한 통찰력을 얻고 OSU 및 OSA 프로그램을 통한 성과급 지불액을 받고 비즈니스 주는 요인은 수익 연결을 획득 합니다.  
+## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>CPOR 연결 클레임과 인센티브의 관계
 
-## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>CPOR association 클레임이 성과급과 어떻게 관련 되는지에 대 한
+CPOR 연결 클레임을 만들고 승인한 경우 이제 고객과 연결됩니다. 클레임이 인센티브 소득 또는 지급에 대해 승인되었다는 의미는 아닙니다. 인센티브 프로그램 가이드에서는 승인된 클레임에 따라 지급할 인센티브에 대한 자격 요구 사항을 간략하게 설명합니다.
 
-CPOR association 클레임을 만든 후 승인 된 경우 이제 고객과 연결 됩니다. 이는 클레임을 동기 수입 또는 지급에 게 승인 한다는 의미는 아닙니다. 사용자의 동기 프로그램 가이드에서는 승인 된 클레임을 기준으로 성과급을 지불 하기 위한 자격 요구 사항을 간략하게 설명 합니다.
+[Microsoft 파트너 네트워크](https://aka.ms/partnerincentives)인센티브 프로그램 가이드를 찾을 수 있습니다.
 
-[Microsoft 파트너 네트워크](https://aka.ms/partnerincentives)에서 동기 프로그램 가이드를 찾을 수 있습니다.
+CPOR 연결 클레임이 승인되고 인센티브에 적합한 경우 소득 및 지급 보고에서 구독 또는 테넌트 ID의 유효성을 검사할 수 있습니다. 
 
-CPOR 연결 클레임이 승인 되 고 성과급으로 적합 한 경우에는 소득 및 지급 보고에서 구독 또는 테 넌 트 ID의 유효성을 검사할 수 있습니다. 
+## <a name="cpor-association-claims-timeline"></a>CPOR 연결 클레임 타임라인
 
-## <a name="cpor-association-claims-timeline"></a>CPOR 연결 클레임 타임 라인
+- 제출: Microsoft에서 승인 프로세스를 시작할 때까지 영업일이 최대 5일 동안 제출된 상태입니다.
+- 검토 중: Microsoft는 제공한 실행 증명에 따라 결정을 내리기 위해 영업일 기준 5일이 있습니다.
+- 파트너 작업 필요: 검토자가 추가 정보에 대한 의견과 요청을 보내는 경우 영업일 5일이면 응답할 수 있습니다. 검토자의 SLA에 따라 10일 이내에 CPOR 연결 클레임을 결정하고 PoE(실행 증명) 검토자에게 추가 정보를 제공하는 데 걸리는 시간을 결정해야 합니다.
+- 승인: CPOR 연결 클레임이 승인되었습니다. 연결이 승인되면 고객에게 연결을 거부할 수 있는 기회를 제공하는 알림이 전송됩니다. 그러면 고객은 7일 동안 옵트아웃할 수 있습니다. 이 동의 기간이 지나면 인센티브 프로그램의 자격을 평가하기 위해 클레임이 전송됩니다.
 
-- 제출 됨: Microsoft에서 승인 프로세스를 시작할 때까지 최대 5 영업일 동안 전송 됨 상태가 됩니다.
-- 검토 중: Microsoft에서 제공 하는 실행 증명에 따라 결정을 내리는 데 영업일 5 일이 있습니다.
-- 파트너 작업 필요: 검토자가 의견과 추가 정보에 대 한 요청을 보내면 영업일 5 영업일 동안 응답할 수 있습니다. PoE (실행 증명) 검토자에 게 추가 정보를 제공 하는 데 걸리는 시간을 더한 SLA에 따라 10 일 이내에 CPOR 연결 클레임에 대 한 결정을 내려야 합니다.
-- 승인 됨: CPOR 연결 클레임이 승인 되었습니다. 연결이 승인 되 면 사용자에 게 연결을 거부할 기회를 제공 하는 알림이 전송 됩니다. 그러면 고객은 옵트아웃 (opt out) 하는 데 7 일이 걸립니다. 이 동의 기간이 지나면 클레임은 동기 프로그램의 자격을 평가 하기 위해 전송 됩니다.
+## <a name="view-the-status-of-your-cpor-association-claim"></a>CPOR 연결 클레임의 상태 보기
 
-## <a name="view-the-status-of-your-cpor-association-claim"></a>CPOR association 클레임의 상태 보기
+고객 연결 [대시보드(로그인](https://partner.microsoft.com/dashboard/incentives/claims/associations) 필요)를 사용하여 언제든지 CPOR 연결 클레임의 상태를 확인할 수 있습니다.
 
-[고객 연결 대시보드](https://partner.microsoft.com/dashboard/incentives/claims/associations) (로그인 필요)를 사용 하 여 언제 든 지 cpor association 클레임의 상태를 확인할 수 있습니다.
+다음은 상태 및 해당 의미입니다.
 
-상태 및 해당 의미는 다음과 같습니다.
-
-| 클레임 상태 | 표시 되는 경우 |
+| 클레임 상태 | 표시되는 경우 |
 | ------ | ----------- | 
-|  편집 중  | CPOR 연결 클레임이 생성 되었습니다. 실행 문서 증명을 업로드 하 고 승인을 위해 클레임을 제출할 때까지이 상태로 유지 됩니다.   |
-|  제출됨  | 파트너가 CPOR association 클레임을 성공적으로 제출 했지만 Microsoft에서 아직 검토 프로세스를 시작 하지 않았습니다.   |
-|  검토 중  | Microsoft에서 PoE 설명서의 유효성 검사를 시작 했습니다. 자세한 내용은 사용자에 게 문의할 수 있습니다. 검토 프로세스 SLA는 영업일 기준으로 5 일입니다.  |
-|  거부됨  | PoE이 부족 하거나 PoE 검토 지침에 따라 영업일 5 일 이내에 응답 하지 않았고 클레임이 거부 되었습니다.   |
-|  승인됨  | 클레임이 승인 되었습니다. Microsoft 승인 후 고객은 연결을 거부할 수 있는 기회를 제공 합니다. 고객은 Microsoft 승인 후 옵트아웃 (opt in) 하는 데 7 일이 있습니다. 클레임은 승인 된 것으로 표시 되지만 동의 기간이 지난 후에는 동기 평가에 대해서만 전송 됩니다.   |
-|  파트너 작업 필요  | Microsoft는 CPOR association 클레임 PoE을 검토 하 고 사용자가 요청한 제품/워크 로드에 대 한 PoE와 관련 된 추가 정보를 요구 합니다. 영업일 5 일 이내에 요청 된 정보를 제공 하 고 클레임을 다시 제출 하거나 거부 됩니다. 추가 정보가 필요한 잠재적인 이유는 다음과 같습니다.
+|  편집 중  | CPOR 연결 클레임이 만들어졌습니다. 실행 증명 문서를 업로드하고 승인을 위해 클레임을 제출할 때까지 이 상태로 유지됩니다.   |
+|  제출됨  | 파트너가 CPOR 연결 클레임을 성공적으로 제출했지만 Microsoft는 아직 검토 프로세스를 시작하지 않았습니다.   |
+|  검토 중  | Microsoft는 PoE 설명서의 유효성 검사를 시작했습니다. 자세한 내용은 귀하에게 문의할 수 있습니다. 검토 프로세스 SLA는 영업일이 5일입니다.  |
+|  거부됨  | PoE가 부족하거나 PoE 검토 지침에 따라 영업일 기준 5일 이내에 응답하지 않았으며 클레임이 거부되었습니다.   |
+|  승인됨  | 클레임이 승인되었습니다. Microsoft 승인 후 고객은 연결을 거부할 수 있는 기회를 제공했습니다. 고객은 Microsoft 승인 후 7일 동안 옵트아웃해야 합니다. 클레임이 승인된 것으로 표시되지만 동의 기간이 경과한 후에만 인센티브 평가를 위해 전송됩니다.   |
+|  파트너 작업 필요  | Microsoft는 CPOR 연결 클레임 PoE를 검토했으며 클레임한 제품/워크로드에 대한 PoE와 관련된 자세한 정보가 필요합니다. 요청된 정보를 제공하고 클레임을 다시 제출하는 데 영업일이 5일이 있거나 거부됩니다. 추가 정보가 필요한 잠재적인 이유는 다음과 같습니다.
 
 - 모든 PoE 누락 - 잘못된 파일이 업로드되었거나 CPOR 연결 클레임과 관련이 없어서 PoE가 누락되었습니다.
 
@@ -94,9 +90,9 @@ CPOR 연결 클레임이 거부 되는 세 가지 주요 이유는 다음과 같
 - PoE에 대 한 고객 동의가 누락 됨
 - 누락 된 제품
 - 파트너 응답 없음
-- PoE 사용할 수 없음
+- PoE를 사용할 수 없음
 
-## <a name="edit-your-cpor-association-claim"></a>CPOR association 클레임 편집
+## <a name="edit-your-cpor-association-claim"></a>CPOR 연결 클레임 편집
 
 CPOR 연결 클레임에서 특정 필드를 편집할 수 있습니다. 검토자가 제출된 PoE의 정보가 부족하다는 지침을 제공하는 경우 제품/워크로드를 제거할지 묻는 메시지가 표시될 수 있습니다. 편집하려면 CPOR 연결 클레임이 '제출됨' 또는 '파트너 조치 필요' 상태여야 합니다.
 
@@ -109,15 +105,15 @@ CPOR 연결 클레임에서 특정 필드를 편집할 수 있습니다. 검토�
 
 ## <a name="customer-consent-notification"></a>고객 동의 알림
 
-CPOR 연결 클레임이 승인 된 후에는 연결을 거부할 수 있는 기회를 고객에 게 제공 합니다. 그러면 고객은 옵트아웃 (opt out) 하는 데 7 일이 걸립니다. 이 기간 동안의 상태는 승인 됨으로 표시 됩니다. 고객이 동의를 거부하면 연결이 거부됩니다. 동의 기간이 경과 하 고 고객에 게 동의가 거부 되지 않은 경우, 해당 클레임은 동기 프로그램의 자격을 평가 하기 위해 전송 됩니다.
+CPOR 연결 클레임이 승인되면 고객에게 연결을 거부할 수 있는 기회를 제공하는 알림이 전송됩니다. 그러면 고객은 7일 동안 옵트아웃할 수 있습니다. 이 기간 동안의 상태는 승인으로 표시됩니다. 고객이 동의를 거부하면 연결이 거부됩니다. 동의 기간이 지났고 고객이 동의를 거부하지 않은 경우 인센티브 프로그램의 자격을 평가하기 위해 클레임이 전송됩니다.
 
-## <a name="how-to-communicate-with-poe-reviewers"></a>PoE 검토자와 통신 하는 방법
+## <a name="how-to-communicate-with-poe-reviewers"></a>PoE 검토자와 통신하는 방법
 
-검토자가 PoE를 받은 후에는 추가 정보가 필요 하다 고 판단할 수 있습니다. 이 경우 클레임의 설명 섹션을 통해 연락을 드리겠습니다. 의견 섹션 에서도 회신할 수 있습니다.
+검토자가 PoE를 통과하면 추가 정보가 필요하다고 판단할 수 있습니다. 그렇다면 클레임의 주석 섹션을 통해 연락합니다. 주석 섹션에서 회신할 수도 있습니다.
 
 ## <a name="view-claim-history"></a>클레임 기록 보기
 
-CPOR association 클레임의 오른쪽 위에는 파트너 및 검토자 관점에서이 클레임에 대해 수행 된 모든 변경 내용, 설명 및 작업을 볼 수 있는 **기록** 단추가 있습니다.
+CPOR 연결 클레임의 오른쪽 위에는 파트너 및 검토자 관점에서 이 클레임에 대해 수행된 모든 변경 내용, 설명 및 작업을 볼 수 있는 **기록** 단추가 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 

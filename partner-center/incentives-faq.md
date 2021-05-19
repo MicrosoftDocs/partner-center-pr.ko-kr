@@ -1,44 +1,41 @@
 ---
-title: 성과급 FAQ
+title: 인센티브 FAQ
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Microsoft 성과급에 대 한 질문과 대답입니다. 이 문서에는 사용자 역할, 등록 방법 또는 오류 메시지에 대해 수행할 작업에 대 한 질문이 포함 되어 있습니다.
+description: Microsoft 인센티브에 대한 질문과 대답입니다. 이 문서에는 사용자 역할, 등록 방법 또는 오류 메시지에 대해 수행할 수 있는 방법에 대한 질문이 포함되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179499"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152021"
 ---
-# <a name="frequently-asked-questions-on-incentives"></a>성과급에 대 한 질문과 대답
+# <a name="frequently-asked-questions-on-incentives"></a>인센티브에 대한 질문과 대답
 
-**적절한 역할**
+**적절한 역할:** 인센티브 관리자 | 인센티브 사용자
 
-- 인센티브 관리자
-- 인센티브 사용자
+## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>인센티브에 등록하려면 전역 관리자가 되어야 합니까?
 
-## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>전역 관리자가 성과급으로 등록 해야 하나요?
+아니요. 전역 관리자와 계정 관리자는 모두 사용자를 인센티브 관리자로 할당할 수 있습니다. 인센티브 관리자는 파트너 센터 통해 회사의 인센티브 프로그램을 관리합니다. 자세한 내용은 [사용 권한 개요를 참조하세요.](permissions-overview.md)
 
-아니요. 전역 관리자와 계정 관리자는 모두 사용자를 성과급 관리자로 할당할 수 있습니다. 성과급 관리자는 파트너 센터를 통해 회사의 성과급 프로그램을 관리 합니다. 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>회사가 이미 MPN(Microsoft 파트너 네트워크)의 멤버인 경우 어떻게 해야 합니까?
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>회사에서 이미 Microsoft 파트너 네트워크 (MPN)의 멤버인 경우에는 어떻게 해야 하나요?
+MPN에 가입하려고 하고 회사가 이미 구성원인 경우 MPN은 도메인을 인식하고 기존 계정에 연결합니다. 기존 계정은 동일한 이메일 도메인을 사용하는 동일한 회사 또는 관련 회사이거나 여러 도메인을 관리하는 데 동일한 Azure AD(Azure Activity Directory)일 수 있습니다.
 
-MPN에 가입 하려고 하 고 회사가 이미 구성원 인 경우 MPN는 도메인을 인식 하 고 기존 계정에 연결 합니다. 기존 계정은 동일한 전자 메일 도메인 또는 동일한 Azure AD (Azure 활동 디렉터리)를 사용 하 여 여러 도메인을 관리 하는 동일한 회사 또는 관련 회사 일 수 있습니다.
+법적 프로필 페이지에서 기본 연락처를 식별할 수 있습니다. 위치가 MPNHQ 위치인 경우 인센티브 관리에 필요한 권한으로 설정하기만 하면 됩니다. 역할 및 권한에 대한 자세한 내용은 [사용 권한 개요를 참조하세요.](permissions-overview.md)
 
-법적 프로필 페이지에서 기본 연락처를 식별할 수 있습니다. 사용자의 위치가 MPNHQ 위치인 경우에는 성과급을 관리 하는 데 필요한 권한으로 설정 해야 합니다. 역할 및 권한에 대 한 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
+MPNHQ 위치와 동일한 국가에 있지 않은 경우 이 시나리오에 대한 자세한 내용은 다중 국가 계정 지침을 [참조하세요.](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso)
 
-MPNHQ 위치와 동일한 국가에 있지 않은 경우이 시나리오에 대 한 자세한 내용은 [다중 국가 계정에 대 한 지침](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 을 참조 하세요.
+## <a name="what-user-roles-are-available"></a>사용할 수 있는 사용자 역할은 무엇인가요?
 
-## <a name="what-user-roles-are-available"></a>사용할 수 있는 사용자 역할은 무엇 인가요?
+파트너 센터 회사를 등록하는 사람은 기본적으로 기본 연락처 및 전역 관리자가 됩니다. 관리자는 포털에서 사용자를 초대하고 관리할 수 있습니다.
 
-파트너 센터에서 회사를 등록 하는 사용자는 기본적으로 기본 연락처 및 전역 관리자가 됩니다. 관리자는 포털에서 사용자를 초대 하 고 관리할 수 있습니다.
-
-성과급의 핵심 역할은 성과급 관리자 및 성과급 사용자입니다. 성과급 관리자는 동기 프로그램에 등록 하 고 파트너에 대 한 은행 및 세금 세부 정보를 관리할 수 있습니다. 성과급 사용자는 도구에서 보고서를 보고 지불 된 항목 및 각 지불의 분석을 확인할 수 있지만, 은행 정보를 보거나 편집할 수는 없습니다. 파트너 전역 계정의 모든 위치에 두 역할을 모두 적용할 수 있습니다.
+인센티브의 주요 역할은 인센티브 관리자 및 인센티브 사용자입니다. 성과급 관리자는 동기 프로그램에 등록 하 고 파트너에 대 한 은행 및 세금 세부 정보를 관리할 수 있습니다. 성과급 사용자는 도구에서 보고서를 보고 지불 된 항목 및 각 지불의 분석을 확인할 수 있지만, 은행 정보를 보거나 편집할 수는 없습니다. 파트너 전역 계정의 모든 위치에 두 역할을 모두 적용할 수 있습니다.
 
 자세한 내용은 [사용 권한 개요](permissions-overview.md)를 참조 하세요.
 

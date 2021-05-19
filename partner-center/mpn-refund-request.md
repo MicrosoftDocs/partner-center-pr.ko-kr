@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132913"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151324"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>MPN 혜택에 대 한 환불 요청
 
-**적절한 역할**
-
-- MPN 파트너 관리자
-- 계정 관리자
+**적절 한 역할**: MPN partner admin | 계정 관리자
 
 이 문서에서는 MPN 혜택에 대 한 환불을 요청 하는 경우 충족 해야 하는 조건을 나열 합니다.
 

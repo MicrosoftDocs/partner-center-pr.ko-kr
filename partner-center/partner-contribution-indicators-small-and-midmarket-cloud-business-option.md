@@ -1,51 +1,47 @@
 ---
-title: 파트너 기여 지표-SMMCS
+title: 파트너 기여 지표 - SMMCS
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: PCI (파트너 기여 지표) 파트너가 소규모 및 Midmarket 클라우드 솔루션 역량을 얻기 전에 충족 해야 하는 것에 대해 알아보세요.
+description: 소규모 및 중간급 클라우드 솔루션 역량을 획득하기 전에 충족해야 하는 PCI(파트너 기여 지표)에 대해 알아봅니다.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861430"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145901"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>파트너 기여 지표를 사용 하 여 작고 Midmarket 클라우드 솔루션 역량 얻기
+# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>파트너 기여 지표를 사용하여 중소기업 클라우드 솔루션 역량 확보
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | MPN 파트너 관리자 | 계정 관리자
 
-- 글로벌 관리자
-- MPN 파트너 관리자
-- 계정 관리자
-
-이 문서에서는 클라우드 Business Applications SMB 옵션을 통해 실버 또는 Gold Small 및 Midmarket 클라우드 솔루션 역량을 실현 하거나 유지 하는 파트너의 진행 상황을 평가 하는 데 사용 되는 6 가지 핵심 PCI (파트너 기여 지표)를 설명 합니다.
+이 문서에서는 Cloud Business Applications SMB 옵션을 통해 Silver 또는 Gold Small and Midmarket Cloud Solutions 역량을 획득하거나 유지하는 파트너의 진행 상황을 평가하는 데 사용되는 6가지 주요 PCI(파트너 기여 지표)에 대해 설명합니다.
 
 > [!NOTE]
-> 파트너가 다른 파트너 기여 지표 메트릭 집합을 사용 하 여 실버 또는 골드 클라우드 Business Applications 역량을 얻기 위한 방법을 알아보세요. 자세한 내용은 [클라우드 Business Applications 역량을 위한 파트너 기여 지표 사용](partner-contribution-indicators.md)을 참조 하세요. 사용 가능한 다른 역량 및 요구 사항에 대해 [자세히 알아볼](https://partner.microsoft.com/membership/competencies) 수도 있습니다.
+> 파트너가 다른 파트너 기여 지표 메트릭 집합을 사용하여 실버 또는 골드 클라우드 Business Applications 역량을 획득하는 방법을 알아봅니다. 자세한 내용은 [클라우드 Business Applications 역량에 파트너 기여 지표 사용을 참조하세요.](partner-contribution-indicators.md) 사용 가능한 다양한 역량 및 요구 사항에 대해 [자세히 읽을](https://partner.microsoft.com/membership/competencies) 수도 있습니다.
 
-이 문서에는 다음에 대 한 정보가 포함 되어 있습니다.
+이 문서에는 다음 정보가 포함되어 있습니다.
 
-- [각 PCI 표시기의 점수가 매겨진 방법](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
+- [각 PCI 표시기 점수 매기기 방법](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
 
-- [각 PCI 표시기의 임계값](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
+- [각 PCI 표시기 임계값](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
 
-- [각 PCI 표시기의 세부 정의](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#detailed-pci-metrics-definitions-for-this-competency)
+- [각 PCI 지표의 자세한 정의](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- [파트너 센터의이 영역에 액세스 하는 방법](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
+- [이 파트너 센터 영역에 액세스하는 방법](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
 
-## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>이 역량의 파트너 기여 지표 개요
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>이 역량에 대한 파트너 기여 지표 개요
 
-파트너 기여 지표는 파트너에 게 성공적인 고객 결과를 제공 하는 경우 파트너에 게 미치는 영향을 전체적으로 측정 하 여 파트너가 클라우드 Business Applications SMB 옵션을 통해 Small 및 Midmarket 클라우드 솔루션 역량을 고성능과 하거나 유지 하는 경우 시장에서 더 많은 차별화를 제공 합니다.
+파트너 기여 지표는 성공적인 고객 결과를 이끌어내는 파트너의 영향에 대한 전체적인 측정값을 제공하므로, 파트너가 Cloud Business Applications SMB 옵션을 통해 Small and Midmarket Cloud Solutions 역량을 획득하거나 유지하는 경우 시장에서 더 큰 차별화를 제공합니다.
 
-PCI를 사용 하는 경우 파트너는 성공적인 배포 및 사용량 증가로 인 한 고객 성공의 주요 측정을 위해 크레딧을 받습니다. 이들은 기술 기능을 계속 투자 하 고 확장할 수 있는 보상입니다.
+PCI를 사용하면 파트너는 성공적인 배포 및 사용량 증가와 같은 고객 성공의 주요 측정값에 대한 크레딧을 받습니다. 기술 역량에 지속적으로 투자하고 규모를 확장한 것에 대한 보상을 받습니다.
 
-파트너는 키 표시기에 특정 수준의 영향을 줄 수 있습니다. 예를 들어 파트너는 클라우드 Business Applications SMB 옵션을 통해 소형 및 Midmarket 클라우드 솔루션 역량을 가져오거나 유지할 수 있습니다.
+예를 들어 파트너가 핵심 지표에서 특정 수준의 영향을 얻는 경우 파트너는 Cloud Business Applications SMB 옵션을 통해 Small and Midmarket Cloud Solutions 역량을 획득(또는 유지)할 수 있습니다.
 
 > [!NOTE]
 > 실현 능력의 이점에 대 한 자세한 내용은 [Microsoft 파트너](https://partner.microsoft.com/membership/competencies)역량을 참조 하세요.
@@ -73,27 +69,27 @@ PCI는 파트너의 기술 기능, 고객 성공 여부를 확인 하는 기능 
 6. **월별 활성 사용자 증가**: 지난 12 개월 동안 모든 고객의 월간 활성 사용자 성장 (이 메트릭에 대 한 자세한 내용은 [월별 활성 사용자 증가에 대 한 정의](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)를 참조 하세요.)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 점수가 역량 자격에 주는 영향
-점수는 획득 된 각 표시기에 대해 부여 되며,이로 인해 단일 숫자 PCI 점수가 발생 합니다. 100 최대 점수를 사용할 수 있습니다. 
+달성된 각 표시기마다 점수가 부여되어 단일 숫자 PCI 점수가 생성됩니다. 최대 100개 지점이 가능합니다. 
 
-PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
+PCI 점수는 다음과 같이 역량 자격을 결정합니다.
 
 |PCI 점수가 인 경우  | 사용자  |
 |:----------------------|:-----------------|
-|1-59 점수  | 실버 또는 골드 역량에 적합 **하지 않습니다** . |
-|60-79 점수  | 실버 역량 요구 사항 충족  |
-|80-100 점수  | 골드 역량 요구 사항 충족
+|1-59포인트  | 실버 또는 골드 역량에 대한 자격이 **없습니다.** |
+|60-79포인트  | 실버 역량에 대한 요구 사항 충족  |
+|80-100포인트  | 골드 역량에 대한 요구 사항 충족
 
-다음 이미지는 빠른 시각적 참조를 제공 합니다.
-:::image type="content" source="images/pcinew1.png" alt-text="실버 또는 골드 역량을 얻기 위해 PCI 점수를 표시 합니다." border="false":::
+다음 이미지는 빠른 시각적 참조를 제공합니다.
+:::image type="content" source="images/pcinew1.png" alt-text="실버 또는 골드 역량을 달성하기 위한 PCI 점수를 표시합니다." border="false":::
 
-### <a name="maximum-pci-indicator-scores-for-this-competency"></a>이 역량의 최대 PCI 표시기 점수
+### <a name="maximum-pci-indicator-scores-for-this-competency"></a>이 역량에 대한 최대 PCI 표시기 점수
 
-각 표시기는 합계에 추가 되는 점수를 가져옵니다. 다음은 클라우드 Business Applications SMB 옵션을 통해 실버 또는 Gold Small 및 Midmarket 클라우드 솔루션 역량을 얻기 위해 각 표시기에 대해 얻을 수 있는 최대 점수입니다.
+각 지표는 합계에 추가되는 점수를 가져옵니다. Cloud Business Applications SMB 옵션을 통해 Silver 또는 Gold Small and Midmarket Cloud Solutions 역량을 획득하기 위해 각 지표에 대해 얻을 수 있는 최대 점수는 다음과 같습니다.
 
-|이 표시기의 경우 | 이 역량의 최대 점수는 다음과 같습니다.  |
+|이 표시기 | 이 역량의 최대 점수는 다음과 입니다.  |
 |:------------|:--------------:|
-|성능-네트워크 새 수익  | 10 개 요소  |
-|성능-Net customer 추가  | 10 개 요소  |
+|성능 - 순 신규 수익  | 10포인트  |
+|성능 - 순 고객 추가  | 10 개 요소  |
 |기능 컨설턴트  | 30 개 점수  |
 |기능-개발자  | 5 개 요소 |
 |고객 성공-새 배포  | 20 개 요소  |
@@ -111,31 +107,31 @@ PCI 점수는 다음과 같이 역량 자격을 결정 합니다.
 
 다음 표에서는 클라우드 Business Applications SMB 옵션을 통해 실버 또는 Gold Small 및 Midmarket 클라우드 솔루션 역량을 실현 하기 위한 최대 점수를 얻기 위해 도달할 수 있는 특정 파트너 기여 지표 임계값을 설명 합니다.
 
-| PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: Net customer 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 개발자 | 고객 성공 지표: 새 배포 | 고객 성공 지표: 월별 활성 사용자 성장 |
+| PCI 메트릭 | 성능 표시기: Net new 수익 | 성능 표시기: Net customer 추가 | 기능 표시기: 함수형 컨설턴트 | 기능 표시기: 개발자 | 고객 성공 지표: 새 배포 | 고객 성공 지표: 월별 활성 사용자 증가 |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
-| **최대 점수** | 10 개 요소 | 10 개 요소 | 30 개 점수 | 5 개 요소 | 20 개 요소 | 25 개 점수 |
+| **최대 포인트** | 10포인트 | 10포인트 | 30포인트 | 5포인트 | 20포인트 | 25포인트 |
 | **조건**       | $30,000  | 10  | 5    | 2  | 10  | 35% |
 
-## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>고객에 대 한 PCI 크레딧을 받기 위한 필수 구성 요소
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>고객에 대한 PCI 크레딧을 받기 위한 필수 조건
 
-특정 파트너 참여 지표를 사용 하면 특정 파트너와 고객 간의 연결이 있는 경우 특정 고객에 대 한 크레딧을 받을 수 있습니다. 이러한 필수 구성 요소의 영향을 받는 표시기 또는 PCI 메트릭은 다음과 같습니다.
+특정 파트너 기여 지표는 특정 파트너-고객 연결이 있는 경우에만 지정된 고객에 대한 크레딧을 받을 수 있습니다. 이러한 필수 조건의 영향을 받는 지표 또는 PCI 메트릭은 다음과 같습니다.
 
 - 신규 순수익
 - 순 고객 추가
 - 새 배포
 - 월별 활성 사용자 증가
 
-다음 파트너-고객 연결 중 하나가 있는 경우 지정 된 고객에 대해 이러한 PCI 메트릭에 대 한 크레딧을 받을 수 있습니다.
-- 고객의 테 넌 트에 속한 유료 구독에 대 한 CSP (클라우드 솔루션 공급자)입니다.
-- 고객의 테 넌 트에 속한 유료 구독에 대 한 레코드 (CPOR)의 클레임 파트너입니다.
-- 사용자는 해당 고객의 테 넌 트에 속한 유료 구독의 경우에는 사용자의 디지털 (DPOR) 레코드 파트너입니다.
+다음 파트너-고객 연결 중 하나가 있는 경우 지정된 고객에 대해 이러한 PCI 메트릭에 대한 크레딧만 받을 수 있습니다.
+- 해당 고객의 테넌트에서 속한 유료 구독에 대한 CSP(클라우드 솔루션 공급자)입니다.
+- 해당 고객의 테넌트에서 속한 유료 구독에 대한 CPOR(Claiming Partner of Record)입니다.
+- 해당 고객의 테넌트에게 속한 유료 구독에 대한 DPOR(디지털 레코드 파트너)입니다.
 
-파트너가 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) 동기 또는 Dynamics 365 [online services 사용](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (osu) 동기를 통해 구독 수준에서 고객과 연결 하는 경우에는 cpor로 설정 됩니다.
+파트너가 Dynamics 365 [OSA(Online Services Advisor)](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) 인센티브 또는 Dynamics 365 OSU(Online [Services Usage)](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) 인센티브를 통해 구독 수준에서 고객과 관계를 맺은 경우 CPOR가 됩니다.
 
 파트너는 제품 내 구독 수준에서 고객과 연결을 설정한 경우 DPOR이 됩니다.
 
 > [!NOTE]
-> 지정 된 고객 구독에 대해 CPOR 및 DPOR가 모두 있는 경우 CPOR는 해당 구독과 연결 된 관련 PCI 메트릭에 대 한 크레딧을 받게 됩니다. OSA를 통해 연결 된 경우 CPOR는 Net new 수익 및 Net customer에 대 한 크레딧을 받습니다. OSU를 통해 연결 된 경우 CPOR는 새 배포 및 월별 활성 사용자 성장을 위한 크레딧을 받습니다.
+> 지정된 고객 구독에 대해 CPOR 및 DPOR가 모두 있는 경우 CPOR는 해당 구독과 연결된 관련 PCI 메트릭에 대한 크레딧을 받습니다. 연결이 OSA를 통해 이루어지면 CPOR는 순 신규 수익에 대한 크레딧을 받고 순 고객은 추가합니다. OSU를 통해 연결 된 경우 CPOR는 새 배포 및 월별 활성 사용자 성장을 위한 크레딧을 받습니다.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>이 역량에 대 한 자세한 PCI 메트릭 정의
 
@@ -190,34 +186,34 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators-small-and
 
   - 고객과 연결 된 모든 파트너는 고객이 추가 된 달에 새 고객에 대 한 크레딧을 받게 됩니다.
   
-  - 이전 또는 새 구독을 통해 동일한 고객과 연결 하는 후속 파트너는 해당 고객에 대 한 신규 고객 추가 크레딧을 얻지 못합니다.
+  - 이전 또는 새 구독을 통해 동일한 고객과 연결된 후속 파트너는 해당 고객에 대한 새 고객 추가 크레딧을 받지 않습니다.
   
-  - 고객에 게 연결 된 모든 파트너는 고객이 분실 한 달에 새 고객에 대 한 크레딧을 잃게 됩니다.
+  - 고객과 연결된 모든 파트너는 고객이 손실된 달에 새 고객 추가에 대한 크레딧을 잃게 됩니다.
   
-  - 이후에 이전 또는 새 구독을 통해 동일한 고객과 연결 하는 파트너는 해당 고객에 대 한 새로운 고객 추가 크레딧을 받게 됩니다.
+  - 이후에 이전 또는 새 구독을 통해 동일한 고객과 연결된 파트너는 새 고객에게 해당 고객에 대한 크레딧을 추가합니다.
   
-  **고객이 이미 Microsoft와 직접 작업 하 고 있는 경우:**
+  **고객이 이미 Microsoft와 직접 작업 중인 경우:**
 
-   - 고객이 이미 Microsoft와 직접 작업 하 고 새로운 고객 조건을 충족 하는 경우, 이전 또는 새 구독을 통해 동일한 고객과 연결 하는 파트너는 해당 고객에 대 한 새로운 고객 추가 크레딧을 받지 못합니다.
+   - 고객이 이미 Microsoft와 직접 작업 중이고 새 고객 추가 기준을 충족하는 경우 이전 또는 새 구독을 통해 동일한 고객과 연결된 파트너는 해당 고객에 대한 크레딧을 새로 추가하지 않습니다.
 
-### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI 메트릭에 대 한 정의 #3 기능 컨설턴트
+### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI 메트릭 #3 대한 정의 - 기능 컨설턴트
 
-기능 컨설턴트는 [기능 표시기](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)입니다. 이 지표의 점수는 다음과 같이이 역량에 대해 계산 됩니다.
+기능 컨설턴트는 [기능 지표](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)입니다. 이 지표의 포인트는 다음과 같이 이 역량에 대해 계산됩니다.
 
-- 함수형 컨설턴트 지표 지점은 가능한 최대 소득 인 30 포인트로 현재 월 스냅숏을 기반으로 합니다.
+- 기능 컨설턴트 지표 포인트는 현재 월 스냅샷을 기반으로 하며 가능한 최대 소득은 30포인트입니다.
 
-- 함수형 컨설턴트는 고객 참여 기능 컨설턴트 인증 또는 재무 및 운영 기능 컨설턴트 인증과 같은 현재 활성 기능 컨설턴트가 인증을 연결 하는 개인의 수로 정의 됩니다.
+- 기능 컨설턴트는 고객 참여 기능 컨설턴트 인증 또는 재무 및 운영 기능 컨설턴트 인증과 같이 현재 활성 기능 컨설턴트 연결 인증을 보유한 개인 수로 정의됩니다.
 
-이 역량을 실현 하는 **데 필요한 최대** **30** 개의 기능 컨설턴트 점수를 얻기 위해 파트너는
+이 역량을 획득하기 위해 최대 **30개의** 기능 컨설턴트 포인트를 획득하려면 파트너에게 다음 중 하나를 보유하는 **5명의** 컨설턴트가 있어야 합니다.
 - 고객 참여 기능 컨설턴트 인증
 - 재무 및 운영 기능 컨설턴트 인증
-- 비즈니스 중심 기능 컨설턴트 인증
+- Business Central 기능 컨설턴트 인증
 
-5 개 컨설턴트에 도달 하기 위해 파트너는 세 가지 인증 유형 중 하나를 보유 하는 컨설턴트를 혼합 하 고 일치 시킬 수 있습니다.
+5명의 컨설턴트에게 연락하기 위해 파트너는 세 가지 인증 유형 중 어느 것을 보유하는 컨설턴트를 혼합하고 일치시킬 수 있습니다.
 
-고객 관계 기능 컨설턴트가 인증을 연결 하려면 개인이 다음 시험을 통과 해야 합니다.
+고객 참여 기능 컨설턴트 연결 인증을 받으려면 개인이 다음 시험을 통과해야 합니다.
   - PL-200<br/>
-  **그리고** 다음 시험 중 하나를 수행 합니다.
+  **및** 다음 시험 중 하나:
   - MB-210, MB-220, MB-230 또는 MB-240
 
 재무 및 운영 기능 컨설턴트가 인증을 연결 하려면 개인이 이러한 시험을 통과 해야 합니다.
@@ -249,36 +245,36 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators-small-and
 
 ### <a name="definitions-for-pci-metric-5---new-deployments"></a>PCI 메트릭에 대 한 정의 #5-새 배포
 
-새 배포는 [고객 성공 지표](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)입니다. 이 지표의 점수는 다음과 같이이 역량에 대해 계산 됩니다.
+새 배포는 [고객 성공 지표](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)입니다. 이 지표의 포인트는 다음과 같이 이 역량에 대해 계산됩니다.
 
-- 새 배포는 12 개월 동안 사용할 수 있는 최대 20 개의 포인트로 합산 됩니다. 부분 지점도 사용할 수도 있습니다.
+- 새 배포는 최대 20포인트를 사용할 수 있는 후행 12개월 동안 합산됩니다. 부분 포인트를 획득할 수도 있습니다.
 
-- 이 역량 옵션에 대 한 최대 점수를 확보 하려면 파트너에 게 지난 12 개월 동안 최대 **5** 명의 월간 활성 사용자 임계값을 초과 하는 **10 개의** 프로덕션 테 넌 트가 있어야 합니다.
+- 이 역량 옵션에 대한 최대 포인트를 얻으려면 파트너는 **10개의** 프로덕션 테넌트를 가지고 있어야 하며, 각 테넌트는 지난 12개월 동안 **5명의** 월간 활성 사용자 임계값을 초과했습니다.
 
-- 테 넌 트가 다음과 같은 경우 월별 활성 사용자 임계값을 초과 하는 것으로 간주 됩니다.
+- 테넌트는 다음과 같은 경우 월별 활성 사용자 임계값을 초과한 것으로 간주됩니다.
 
-  - 지정 된 임계값 (테 넌 트 아래에 있는 특정 수의 프로덕션 인스턴스) 12 개월 전<br/> *and*
-  - 이후 11 개월 동안 한 번 이상 임계값을 초과 했습니다.
+  - 12개월 전에 지정된 임계값(테넌트에서 특정 수의 프로덕션 인스턴스) 미만<br/> *and*
+  - 이후 11개월 동안 해당 임계값을 한 번 이상 초과했습니다.
 
-- 월간 활성 사용자는 테 넌 트 수준에서 계산 되 고 테 넌 트의 유료 구독에 대해서만 합산 됩니다.
+- 월간 활성 사용자는 테넌트 수준에서 계산되며 테넌트 아래의 유료 구독에서만 합산됩니다.
 
 - 월별 활성 사용자 수는 매월 말에 계산됩니다.
 
-- 파트너는 구독 수준에서 테 넌 트에 연결 됩니다. 구독은 다음과 같은 적격 제품에 매핑됩니다.
-  - Dynamics 365 고객 참여-제품 포함: 판매, 마케팅, 고객 서비스, 현장 서비스, Project server, 요금제 1, 자동화, 마케팅, Microsoft Relationship 판매
-  - 재무 및 운영-정식 제품은 비즈니스 중심, 용량 및 저장소, 재무 및 작업 (사기 행위 방지, 작업, 소매, HR, 요금제 2 포함), 혼합 현실, 팀 멤버를 포함 합니다.
+- 파트너는 구독 수준에서 테넌트와 연결됩니다. 구독은 다음과 같은 적격 제품에 매핑됩니다.
+  - Dynamics 365 Customer Engagement 적격 제품에는 Sales, Marketing, Customer Service, Field Service, Project Server, Plan 1, Automation, Marketing, Microsoft Relationship Sales가 포함됩니다.
+  - 재무 및 운영 적격 제품에는 Business Central, 용량 및 스토리지, 재무 및 운영(사기 방지, 운영, 소매, HR, 계획 2 포함), 혼합 현실, 팀 멤버가 포함됩니다.
 
-- 테 넌 트의 모든 유료 구독과 연결 된 모든 파트너는 해당 테 넌 트 아래의 모든 프로덕션 인스턴스에 대해 크레딧을 받게 됩니다. 
+- 테넌트에서 유료 구독에 연결된 모든 파트너는 해당 테넌트 아래의 모든 프로덕션 인스턴스에 대한 크레딧을 받습니다. 
 
-### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>PCI 메트릭 #6에 대 한 정의-월별 활성 사용자 증가
+### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>PCI 메트릭 #6 대한 정의 - 월별 활성 사용자 증가
 
-월별 활성 사용자 증가는 [고객 성공 지표](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)입니다. 이 지표의 점수는 다음과 같이이 역량에 대해 계산 됩니다.
+월별 활성 사용자 증가는 [고객 성공 지표입니다.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) 이 지표의 포인트는 다음과 같이 이 역량에 대해 계산됩니다.
 
-- 월간 활성 사용자 증가는 지난 12 개월 동안 전체 고객 기반에 걸친 월간 활성 사용자의 성장으로 정의 됩니다. 
+- 월별 활성 사용자 증가는 지난 12개월 동안 전체 고객 기반에서 월별 활성 사용자의 증가로 정의됩니다. 
 
-- 월간 활성 사용자는 테 넌 트 수준에서 계산 되 고 테 넌 트의 유료 구독에 대해서만 합산 됩니다.
+- 월간 활성 사용자는 테넌트 수준에서 계산되며 테넌트 아래의 유료 구독에서만 합계가 계산됩니다.
 
-- 월별 활성 사용자 성장 지표는 현재 월을 12 개월 전 기준에 대해 비교 합니다. 클라우드 Business Applications SMB 옵션을 통해 골드 또는 실버 소형 및 Midmarket 클라우드 솔루션 역량을 실현 하는 데 적용할 수 있는 25 개의 최대 점수가 있습니다.
+- 월별 활성 사용자 증가 지표는 현재 월을 12개월 전의 기준과 비교합니다. 클라우드 Business Applications SMB 옵션을 통해 골드 또는 실버 소형 및 Midmarket 클라우드 솔루션 역량을 실현 하는 데 적용할 수 있는 25 개의 최대 점수가 있습니다.
 
 - 월별 활성 사용자 수는 매월 말에 계산됩니다.
 

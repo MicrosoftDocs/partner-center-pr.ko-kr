@@ -1,44 +1,40 @@
 ---
-title: 고객의 Microsoft 제품 평가판 제공
+title: 고객에게 Microsoft 제품의 평가판 제공
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 고객이 30 일간 Microsoft 구독 제품을 사용해 볼 수 있습니다. 다른 많은 온라인 서비스와 마찬가지로 카탈로그에서 이러한 무료 평가판에 등록 합니다.
+description: 고객이 30일 동안 Microsoft 구독 제품을 사용해 보도록 합니다. 다른 많은 온라인 서비스 마찬가지로 카탈로그에서 이러한 평가판에 등록합니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1d6fda82464b9abc30714798a2ee3999d8f93db5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132334"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151137"
 ---
-# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>고객에 게 30 일간의 Microsoft 제품 무료 평가판 제공
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>고객에게 Microsoft 제품의 30일 무료 평가판 제공
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | 사용자 관리 관리자 | 판매 에이전트
 
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 영업 상담원
-
-신규 Microsoft 제품을 고객에 게 제공 하는 좋은 방법은 30 일 무료 평가판을 제공 하는 것입니다. 다른 많은 온라인 서비스 마찬가지로 카탈로그에서 평가판에 등록할 수 있습니다. 모든 파트너가 참여할 수 있습니다.
+고객에게 새 Microsoft 제품을 소개하는 좋은 방법은 30일 평가판을 제공하는 것입니다. 다른 많은 온라인 서비스 마찬가지로 카탈로그에서 평가판에 등록할 수 있습니다. 모든 파트너가 참여할 수 있습니다.
 
 ## <a name="available-trial-offers"></a>사용 가능한 평가판 제안
 
-**고객** 페이지에서 모든 미해결 평가판 제안을 찾을 수 있습니다. 이 페이지에는 무료 평가판 및 유료 구독을 비롯 한 모든 구독이 나열 됩니다. (이 기능은 현재 중국에서 사용할 수 없습니다.)
+**고객** 페이지에서 모든 미해결 평가판 제안을 찾을 수 있습니다. 이 페이지에는 평가판 및 유료 구독을 포함한 모든 구독이 나열됩니다. (이 기능은 현재 중국에서 사용할 수 없습니다.)
 
-각 고객은 사용 가능한 각 제품에 대해 하나의 무료 평가판을 받을 수 있습니다. 예를 들어 Microsoft 365 Business 표준에 대 한 무료 평가판과 Office 365 E3에 대 한 평가판을 하나씩 받을 수 있습니다. 그러나 고객이 제품을 이미 소유 하 고 있는 경우 해당 제품에 대 한 무료 평가판을 사용할 수 없습니다.
+각 고객은 사용 가능한 각 제안에 대해 하나의 무료 평가판을 받을 수 있습니다. 예를 들어 Microsoft 365 Business Standard에 대한 평가판 하나와 Office 365 E3 평가판 하나를 얻을 수 있습니다. 그러나 고객이 이미 제안을 소유하고 있는 경우 해당 제안에 대해 평가판을 사용할 수 없습니다.
 
 ### <a name="available-products"></a>사용 가능한 제품
 
-무료 평가판은 가장 포괄적이 고 인기 있는 licesen 기반 제품에 사용할 수 있습니다. 새 평가판 제품은 월별로 도입 될 수 있습니다.
+무료 평가판은 가장 포괄적이고 인기 있는 한정자 기반 제안에 사용할 수 있습니다. 새 평가판 제안은 매월 도입될 수 있습니다.
 
-파트너는 파트너 센터의 **가격 책정 및 제품** 페이지에 있는 월간 가격 목록에서 평가판을 찾을 수 있습니다. 평가판 제품에는 가격 목록 **보조 라이선스 유형** 열에 "평가판"이 나열 됩니다.
+파트너는 파트너 센터 **가격 책정 및 제품** 페이지의 월별 가격표에서 평가판을 찾을 수 있습니다. 평가판 제안에는 가격표 보조 라이선스 **유형** 열에 "평가판"이 나열됩니다.
 
-현재 정부 제품, 교육 제품 또는 추가 기능 제품에 대 한 **무료 평가판은 없습니다** .
+현재 정부 제안, 교육 제안 또는 추가 기능 제안에 대한 **평가판은 없습니다.**
 
 ## <a name="licenses-for-free-trial-offers"></a>무료 평가판 제품에 대 한 라이선스
 
@@ -58,34 +54,34 @@ ms.locfileid: "106132334"
 
 무료 평가판은 자동으로 유료 구독으로 변환 되지 않습니다. 30 일 후에는 무료 평가판을 유료 구독으로 변환 해야 합니다. 그렇지 않으면 [만료](#expiring-offers)됩니다. 무료 평가판은 확장할 수 없습니다.
 
-평가판을 유료 구독으로 변환 해야 합니다. [파트너 센터를 사용](#convert-trials-using-partner-center) 하거나 [파트너 센터 api를 통해](#convert-trials-using-apis)이 작업을 수행할 수 있습니다.
+평가판을 유료 구독으로 변환 해야 합니다. [파트너 센터 사용하거나 파트너 센터](#convert-trials-using-partner-center) [API를 통해](#convert-trials-using-apis)이 작업을 수행할 수 있습니다.
 
 > [!NOTE]
-> CSP (클라우드 솔루션 공급자) 프로그램에 대 한 고객 무료 평가판을 다른 프로그램 테 넌 트 (예: EA, Open 또는 MOSP)로 변환할 수 없습니다.
+> CSP(클라우드 솔루션 공급자) 프로그램에 대한 고객 평가판은 다른 프로그램 테넌트(예: EA, Open 또는 MOSP)로 변환할 수 없습니다.
 
-### <a name="convert-trials-using-partner-center"></a>파트너 센터를 사용 하 여 평가판 변환
+### <a name="convert-trials-using-partner-center"></a>파트너 센터 사용하여 평가판 변환
 
-파트너 센터를 사용 하 여 평가판을 유료 구독으로 변환할 수 있습니다.
+파트너 센터 사용하여 평가판을 유료 구독으로 변환할 수 있습니다.
 
-1. 고객의 구독 페이지로 이동 하 여 무료 평가판을 선택 합니다.
-2. **평가판을 유료 구독으로 변환을** 선택 합니다.
-3. 원하는 라이선스 수량 및 청구 빈도를 입력 하 고 **적용** 을 선택 합니다.
-4. 유료 구독에 대 한 청구는 변환 날짜에 시작 되 고 구독은 변환 날짜 로부터 12 개월 후에 자동 갱신 됩니다. 
+1. 고객의 구독 페이지로 이동하여 평가판을 선택합니다.
+2. **평가판을 유료 구독으로 변환을** 선택합니다.
+3. 원하는 라이선스 수량 및 청구 빈도를 입력하고 **적용을** 선택합니다.
+4. 유료 구독에 대한 청구는 변환 날짜에 시작되고 구독은 변환 날짜로부터 12개월 후 자동 갱신됩니다. 
 
-### <a name="convert-trials-using-apis"></a>Api를 사용 하 여 평가판 변환
+### <a name="convert-trials-using-apis"></a>API를 사용하여 평가판 변환
 
-무료 평가판을 유료 구독으로 변환 하기 위해 Api를 변경 해야 할 수 있습니다. 자세한 내용은 다음 개발자 설명서를 참조 하세요.
+평가판을 유료 구독으로 변환할 수 있도록 API를 변경해야 할 수 있습니다. 자세한 내용은 다음 개발자 설명서를 참조하세요.
 
 - [평가판 구독을 유료로 전환](/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [평가판 전환 제품 목록 가져오기](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
-### <a name="trials-without-conversions"></a>변환 하지 않고 평가판 사용
+### <a name="trials-without-conversions"></a>변환이 없는 평가판
 
-모든 평가판을 유료 구독으로 변환할 수 있는 것은 아닙니다. 파트너는 만료 날짜가 될 때까지 변환이 없는 평가판을 사용할 수 있습니다. 파트너는 평가판 제품과 동일한 서비스를 지 원하는 호환 가능한 제품을 구매할 수 있습니다.  새로 구매한 제품의 서비스가 평가판 서비스와 일치 하는지 확인 하기 위해 평가판이 만료 되기 전에이 작업을 수행 해야 합니다. 
+모든 평가판을 유료 구독으로 변환할 수 있는 것은 아닙니다. 파트너는 만료 날짜까지 변환이 없는 평가판을 사용할 수 있습니다. 파트너는 평가판 제품과 동일한 서비스를 지원하는 호환되는 제안을 구매할 수 있습니다.  새로 구매한 제품 서비스가 평가판의 서비스와 일치하도록 평가판이 만료되기 전에 이 작업을 수행해야 합니다. 
 
-|**평가판**   |**호환 되는 소규모 비즈니스 제품**   |**호환 되는 엔터프라이즈 제품**   |
+|**평가판**   |**호환되는 중소기업 제품**   |**호환되는 엔터프라이즈 제품**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Microsoft 팀 상용 클라우드 (사용자 시작) 평가판   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business 프리미엄   | F3 (이전에는 F1), Enterprise 365 for Enterprise (E1, E3 및 E5) Microsoft 365 F1/F3 Microsoft 365 Enterprise (E3)   |
+|Microsoft Teams 상업용 클라우드(사용자 시작) 평가판   |Microsoft 365 Business Basic, Microsoft 365 Business Standard Microsoft 365 Business Premium   | F3 (이전에는 F1), Enterprise 365 for Enterprise (E1, E3 및 E5) Microsoft 365 F1/F3 Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >위의 제품에는 비슷한 기능을 가진 비슷한 서비스 계획이 있지만 제품 간에 약간의 차이가 있을 수 있습니다.

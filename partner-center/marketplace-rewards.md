@@ -9,22 +9,18 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686248"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151681"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>마케팅, 영업 및 기술 혜택을 활성화하는 파트너 센터 & Marketplace Rewards 관리
 
-**적절한 역할**
+**적절한 역할:** MPN 파트너 관리자 | 전역 관리자 | 관리 에이전트
 
-- MPN 파트너 관리자
-- 전역 관리자
-- 관리 에이전트
-
-상업용 Marketplace에 소프트웨어 제안을 게시하는 경우 Marketplace Rewards 마케팅, 영업 및 기술 혜택을 통해 모든 제안에 대한 대상 지원을 제공합니다.
+상업용 Marketplace에 소프트웨어 제안을 게시하는 경우 Marketplace Rewards 마케팅, 판매 및 기술 혜택을 통해 모든 제안에 대한 대상 지원을 제공합니다.
 
 Marketplace Rewards 자격은 PGA MPN 회사에 연결된 모든 게시자 프로필을 기반으로 계산됩니다. Marketplace Rewards 프로그램의 자격을 확인하려면 파트너 센터 [Marketplace Rewards 페이지로](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)이동합니다.
 
@@ -58,7 +54,7 @@ Marketplace Rewards 자격은 PGA MPN 회사에 연결된 모든 게시자 프�
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>회사의 PGA와 Azure AD 테넌트 연결
 
-1. 전역 관리자 또는 계정 관리자로 파트너 센터 PGA에 로그인합니다.
+1. 전역 관리자 또는 계정 관리자로서 파트너 센터 PGA에 로그인합니다.
 
 2. **설정(오른쪽** 위), **계정 설정**, **테넌트** 를 선택합니다. 
 

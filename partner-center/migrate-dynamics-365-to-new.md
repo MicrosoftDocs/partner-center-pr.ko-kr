@@ -4,49 +4,44 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 정식 Dynamics 365 Business Edition 제품을 최신 버전으로 마이그레이션하는 방법에 대해 알아봅니다.
+description: 정규화된 Dynamics 365 Business Edition 제안을 만료되기 전에 최신 버전으로 마이그레이션하는 방법을 알아봅니다.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132641"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151528"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition 제품을 최신 버전으로 마이그레이션
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | 사용자 관리 관리자 | 관리 에이전트 | 판매 에이전트
 
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
+2019년 1월 1일부터 Dynamics 365 Business Edition 구독을 보유한 고객은 더 이상 이러한 레거시 제품으로 갱신할 수 없습니다. 기존 구독은 만료될 때 자동으로 갱신되지 않습니다. 구독의 세부 정보 페이지에서 구독 상태가 "[날짜]에 자동 갱신"에서 "[날짜]에 만료됨"으로 변경됩니다.
 
-2019 년 1 월 1 일부 터 Dynamics 365 Business Edition 구독이 있는 고객은 더 이상 이러한 레거시 제품으로 갱신할 수 없습니다. 기존 구독은 만료 될 때 자동으로 갱신 되지 않습니다. 구독의 세부 정보 페이지에서 구독 상태는 "[date]에 대 한 자동 갱신 [날짜]"에서 "만료 날짜 [날짜]"로 변경 됩니다.
+고객의 연속성을 보장하려면 만료된 구독이 있는 고객을 아래에 나열된 지원되는 옵션으로 전환해야 합니다. 고객의 서비스 중단을 방지하려면 구독의 연간 종료 날짜 이전에 고객을 새 구독으로 이동하는 것이 좋습니다.
 
-고객의 연속성을 보장 하려면 구독 만료를 포함 하는 항목을 아래 나열 된 지원 되는 옵션으로 전환 해야 합니다. 고객에 대 한 서비스 중단을 방지 하려면 구독의 연간 종료 날짜 이전에 새 구독으로 고객을 이동 하는 것이 좋습니다.
+API(CREST 또는 파트너 센터)를 사용하는 경우 자동 갱신 = False 속성과 함께 구독의 종료 날짜를 평가하여 만료되는 구독을 찾을 수 있습니다. 해당 구독은 2019년 1월 1일에 자동 갱신=False로 설정됩니다. 언제든지 고객을 새 플랜으로 이동할 수 있습니다. 
 
-API (CREST 또는 파트너 센터)를 사용 하는 경우 자동 갱신 = False 속성과 함께 구독의 종료 날짜를 평가 하 여 만료 된 구독을 찾을 수 있습니다. 문제의 구독은 2019 년 1 월 1 일에 자동 갱신 = False로 설정 됩니다. 언제 든 지 새 요금제로 고객을 이동할 수 있습니다. 
-
-## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 비즈니스 버전이 사용 중지 됨
+## <a name="the-dynamics-365-business-editions-being-retired"></a>사용 중지 중인 Dynamics 365 Business Edition
 
 - Dynamics 365 for Finance and Operations, Business Edition
-- Team Members, Business edition 용 Dynamics 365
+- Dynamics 365 for Team Members, Business Edition
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 비즈니스 버전 새 제품
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central - Dynamics 365 Business Edition 새 제안
 
-새 Dynamics Business Central 제품을 통해 고객은 financials, 영업, 서비스 및 작업을 연결 하 여 비즈니스 프로세스를 간소화 하 고 고객 상호 작용을 개선 하 고 더 나은 결정을 내릴 수 있습니다. Dynamics 365 비즈니스 중부는 클라우드를 기반으로 하며, CSP (클라우드 솔루션 공급자) 프로그램 파트너를 통해서만 사용할 수 있습니다.
-Dynamics 365 Business Edition 고객은 2020 30 년 6 월 30 일까 지 새로운 비즈니스 중앙 제품에 대해 할인 된 전환 가격을 받을 수 있습니다.
+새 Dynamics Business Central 제안을 통해 고객은 재무, 영업, 서비스 및 운영을 연결하여 비즈니스 프로세스를 간소화하고, 고객 상호 작용을 개선하고, 더 나은 의사 결정을 내릴 수 있습니다. Dynamics 365 Business Central은 클라우드 기반이며 CSP(클라우드 솔루션 공급자) 프로그램 파트너를 통해서만 사용할 수 있습니다.
+Dynamics 365 Business Edition 고객은 2020년 6월 30일까지 새 Business Central 제품에서 할인된 전환 가격을 받을 수 있습니다.
 
-## <a name="transition-customers-to-new-product-plans"></a>고객을 새 제품 요금제로 전환
+## <a name="transition-customers-to-new-product-plans"></a>고객을 새 제품 플랜으로 전환
 
- 사용 중지 된 Sku에서 최신 버전으로 고객을 이동 하려면 다음 단계를 순서 대로 수행 해야 합니다.
+ 사용 중지된 S SKU에서 최신 S SKU로 고객을 이동하려면 다음 단계를 순서대로 수행해야 합니다.
 
 - 새 구독 구매
-- 현재 사용자 라이선스 다시 할당
+- 현재 사용자 라이선스 재할당
 - 이전 구독 취소
 
 ## <a name="purchase-the-new-plan-for-your-customer"></a>고객에 대 한 새 요금제 구매

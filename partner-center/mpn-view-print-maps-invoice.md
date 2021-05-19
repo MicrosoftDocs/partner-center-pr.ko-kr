@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132794"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151290"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>IMicrosoft 파트너 네트워크의 송장 및 세금
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- MPN 파트너 관리자
-- 청구 관리자
-- 관리 에이전트
+**적절 한 역할**: 전역 관리자 | 사용자 관리 관리자 | MPN 파트너 관리자 | 청구 관리자 | 관리 에이전트
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>MPN 멤버 자격 청구서 보기 또는 다운로드
 
@@ -53,12 +47,12 @@ ms.locfileid: "106132794"
 
 1.  파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard/home) **멤버 자격 제안** 을 선택 하 고 **사용 가능** 을 선택 합니다. 
 
-2.  **VAT ID 추가를** 선택 합니다. 
+2.  **VAT ID 추가를** 선택합니다. 
 
-3.  회사에 대 한 VAT ID를 입력 하 고 **추가** 를 선택한 후 **다음** 을 선택 합니다. 
+3.  회사의 VAT ID 입력하고 **추가를** 선택한 후 **다음을** 선택합니다. 
 
 ## <a name="next-steps"></a>다음 단계
 
 - [파트너 센터 청구 개요](billing-basics.md)
 
-- [원천 세금에 대 한 제공한 가져오기](withholding-tax-credit-form.md)
+- [원천징수세 크레딧 받기](withholding-tax-credit-form.md)

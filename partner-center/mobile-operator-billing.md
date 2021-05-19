@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, 모바일 운영자, 모바일 청구, 모바일 운영자 요금 청구
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172390"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151545"
 ---
 # <a name="mobile-operator-billing"></a>통신사 청구
 
-**적절한 역할**
-
-- 글로벌 관리자
+**적절한 역할**: 전역 관리자
 
 > [!NOTE]
 > 지급 계정 구성, 지급 누락, 지급 보류 등을 포함하여 지급과 관련된 지원이 필요한 경우 [여기](https://developer.microsoft.com/windows/support)의 지원에 문의하세요.
@@ -57,12 +55,12 @@ Microsoft Store은 Windows 10을 실행 하는 장치, Windows 10 Mobile을 실�
 | 사우디아라비아         | STC                                                     |
 | 싱가포르            | M1 제한 된 StarHub                                     |
 | 슬로바키아             | 슬로바키아어 Telekom                                          |
-| 남아프리카 공화국         | Vodacom                                                 |
+| 남아프리카         | Vodacom                                                 |
 | 스페인                | Orange                                                  |
 | 스웨덴               | 3, 통신 또는                                              |
 | 스위스          | 일출, Swisscom                                       |
 | 대만               | FarEasTone                                              |
 | 터키               | Turkcell                                                |
-| 아랍에미리트연합국 | Etisalat                                                |
+| 아랍에미리트 | Etisalat                                                |
 | 미국        | 스 프린트, Verizon                                         |
 | 영국       | 3 영국, EE, O2, Vodafone                                 |

@@ -1,52 +1,50 @@
 ---
-title: 로고 작성기를 사용 하 여 파트너 로고, 인증 된 편지 또는 상장을 만드는 방법
+title: 로고 작성기를 사용하여 파트너 로고, 인증된 편지 또는 지급을 만드는 방법
 ms.topic: article
 ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 회사에서 골드 또는 실버 역량을 보유 하 고 있는 경우 회사에 맞게 사용자 지정 된 로고를 생성 하거나 파트너 센터의 로고 작성기 도구를 사용 하 여 사용자 지정 인증 된 인증 된 편지를 요청 합니다.
+description: 회사에 골드 또는 실버 역량이 있는 경우 회사에 맞게 사용자 지정된 로고를 생성하거나 파트너 센터 Logo Builder 도구를 사용하여 인증된 사용자 지정 인증 문자를 요청합니다.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132403"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152259"
 ---
-# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>로고 작성기를 사용 하 여 파트너 로고, 인증 된 편지 또는 상장을 만드는 방법
+# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Logo Builder를 사용하여 파트너 로고, 인증된 편지 또는 지급을 만드는 방법
 
-**적절한 역할**
+**적절한 역할:** 로고 빌더에 대해 자세히 알아보는 데 관심이 있는 모든 파트너
 
-- 로고 작성기에 대해 더 자세히 알아보는 데 관심이 있는 모든 파트너
+실버 또는 골드 역량 획득의 가치는 고객과 차별화할 수 있는 기회입니다. 영업 및 마케팅 자료와 파트너 센터 비즈니스 프로필에 사용하여 달성한 역량 또는 역량을 보여 줄 수 있는 로고가 역량 혜택에 포함됩니다. 
 
-실버 또는 골드 역량 실현의 가치는 고객과 차별화 될 기회입니다. 파트너 센터에서 판매 및 마케팅 자료에 사용할 수 있는 로고와 파트너 센터의 비즈니스 프로필에서 획득 한 역량 또는 역량을 보여 주는 로고는 역량 혜택에 포함 됩니다. 
+Azure Expert MSP 프로그램에 참여했거나, 해당 연도의 파트너를 받거나, Microsoft Action Pack 구매한 경우 해당 프로그램에 참가하기 위한 로고도 Logo Builder에서 사용할 수 있습니다. Logo Builder의 라이브러리를 사용하여 자산을 저장하고 판매 및 마케팅 자료를 만들 준비가 되면 다운로드할 수 있습니다. 
 
-Azure 전문가 MSP 프로그램에 동의 했거나, 수상 경력의 파트너를 받았거나, Microsoft Action Pack를 구매한 경우 해당 프로그램에 참여 하는 로고가 로고 작성기 에서도 제공 됩니다. 로고 작성기에서 라이브러리를 사용 하 여 자산을 저장 하 고, 판매 및 마케팅 자료를 만들 준비가 되 면 해당 라이브러리를 다운로드할 수 있습니다. 
+## <a name="what-is-available-in-logo-builder"></a>로고 작성기에서 사용할 수 있는 내용
 
-## <a name="what-is-available-in-logo-builder"></a>로고 작성기에서 사용할 수 있는 기능
+로고 작성기에서 회사에서 사용할 수 있는 로고는 MPN(Microsoft 파트너 네트워크) 멤버 자격에 맞춰 정렬됩니다. MPN 멤버 자격 변경(예: 새 역량 획득)이 반영되는 데 최대 24시간이 걸립니다.
 
-로고 작성기에서 회사에 사용할 수 있는 로고는 Microsoft 파트너 네트워크 (MPN) 멤버 자격에 맞춰 정렬 됩니다. MPN 멤버 자격을 변경 하는 데 최대 24 시간이 소요 됩니다. 예를 들어 새로운 역량을 실현 하는 것이 반영 됩니다.
+Logo Builder에서 만들 수 있는 자산은 다음과 같습니다.
 
-로고 작성기에서 만들 수 있는 자산에는 다음이 포함 됩니다.
-
-- 회사에서 획득 한 역량 및 고급 특수화를 확인 하는 인증 된 편지
+- 회사에서 얻은 역량 및 고급 전문 분야를 확인하는 인증된 편지
 
 - 골드 역량 로고가 있는 파트너
 
 - 실버 역량 로고가 있는 파트너
 
-- Azure 전문가 용 MSP 로고
+- Azure Expert MSP 로고
 
-- 파트너 수상 로고
+- 파트너 보상 로고
 
-- Microsoft Action Pack를 구매한 파트너를 위한 로고
+- Microsoft Action Pack 구매한 파트너의 로고
 
 ## <a name="create-a-logo-using-logo-builder"></a>로고 작성기를 사용하여 로고 만들기
 
-로고 작성기 프로필은 사용자의 조직에 대 한 로고 빌더 정보를 포함 하며 정보를 위한 것입니다.
+로고 작성기 프로필은 Logo Builder가 조직에 대해 저장하는 정보를 포함하며 사용자 정보에만 해당합니다.
 
 비즈니스 위치 마다 다른 로고를 만든 경우 MPNID 선택기를 사용 하 여 보거나 만들 비즈니스 위치를 선택할 수 있습니다.
 
