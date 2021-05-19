@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979433"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147805"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>자격을 갖춘 고객에 게 CSP 구독을 위한 Office 365 정부 GCC 판매
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절 한 역할**: 전역 관리자 | 관리 에이전트
 
 
 ## <a name="overview"></a>개요

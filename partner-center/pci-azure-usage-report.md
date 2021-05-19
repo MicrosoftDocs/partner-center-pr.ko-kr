@@ -1,53 +1,48 @@
 ---
-title: 파트너 센터 Insights Azure 사용량 보고서
+title: 파트너 센터 Insights Azure 사용 현황 보고서
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위해 판매 하거나 관리 하는 Azure 구독 사용을 개선할 수 있습니다.
+description: 잘하고 있는 사항과 고객을 위해 판매하거나 관리하는 Azure 구독의 사용을 개선할 수 있는 위치를 확인합니다.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086212"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146853"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Azure 사용 보고서
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Azure 사용량 보고서
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어
 
-- 글로벌 관리자
-- 관리 에이전트
-- 보고서 뷰어
-- 임원 보고서 뷰어
-
-Azure 사용량 보고서는 고객의 Azure 구독과 관련 된 메트릭을 제공 합니다. 이 보고서에는 Azure 사용량 수익 및 측정기 별 사용 현황이 포함 됩니다. Azure 사용량 보고서에서 다음 섹션을 볼 수 있습니다.
+Azure 사용량 보고서는 고객의 Azure 구독과 관련된 메트릭을 제공합니다. 이 보고서에는 미터 범주별 Azure 소비 수익 및 사용량이 포함됩니다. Azure 사용량 보고서에서 다음 섹션을 볼 수 있습니다.
 
 - 요약
-- 지리 별 Azure 사용량
+- 지역별 Azure 사용량
 - Azure 사용률
 
  > [!NOTE]
- > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터에서 특정 역할을 할당 받아야 합니다. 자세한 내용은 회사의 전역 관리자를 참조 하세요 .이 보고서의 특정 데이터 형식은 임원 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
+ > 이 보고서는 Insights 대시보드에서 사용할 수 있습니다. 이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터 특정 역할이 할당되어야 합니다. 자세한 내용은 회사의 전역 관리자를 참조하세요. 이 보고서의 특정 데이터 형식은 경영진 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.
 
 ## <a name="summary"></a>요약
 
-요약 섹션에서는 고객이 판매 하거나 관리 하는 Azure 구독과 관련 된 Kpi (핵심 성과 지표)의 스냅숏 뷰를 제공 합니다.  
+요약 섹션에서는 고객을 위해 판매하거나 관리하는 Azure 구독과 관련된 KPI(핵심 성과 지표)의 스냅샷 보기를 제공합니다.  
 
-- Azure 구독: 현재 판매 하거나 관리 하는 Azure 고객 구독 수입니다.
-선택한 날짜 범위 동안 이러한 Azure 구독의 증가율 또는 거부 비율입니다.
+- Azure 구독: 판매하거나 관리하는 Azure 고객 구독의 현재 수입니다.
+선택한 날짜 범위 동안 이러한 Azure 구독의 증가 또는 감소율입니다.
 
-마이크로 차트는 선택한 날짜 범위에 대 한 Azure 구독 수의 월 단위 추세를 제공 합니다.
-- 활성 Azure 구독: 지난 30 일 동안 활성 사용량이 있는 사용자가 판매 하거나 관리 하는 현재 Azure 구독 수입니다.
-선택한 날짜 범위 동안 이러한 구독에 대 한 증가율 또는 거부 비율입니다.
+마이크로 차트는 선택한 날짜 범위에 대한 Azure 구독 수의 월별 추세를 표시합니다.
+- 활성 Azure 구독: 지난 30일 동안 활성 사용량이 있었던 현재 판매 또는 관리되는 Azure 구독 수입니다.
+선택한 날짜 범위 동안 이러한 구독의 증가 또는 감소율입니다.
 
-마이크로 차트는 선택한 날짜 범위 동안 Azure 활성 구독 수의 월 단위 추세를 표시 합니다.
+마이크로 차트는 선택한 날짜 범위 동안 Azure 활성 구독 수의 월별 추세를 표시합니다.
 
-- Azure에서 사용 하는 수익 (ACR): 선택한 날짜 범위에 대해 사용자가 사용 하는 총 Azure 사용 수익 (US $)입니다.
+- ACR(Azure 소비 수익): 선택한 날짜 범위를 기준으로 하는 총 Azure 소비 수익(US$)
 선택한 날짜 범위 동안 특성 ACR US $의 증가 또는 거부 비율입니다. 
 
 마이크로 차트는 선택한 기간 동안 사용자에 대 한 사용자의 특성을 사용 하 여 사용자에 게 한 ACR의 월 추세를 제공 합니다.

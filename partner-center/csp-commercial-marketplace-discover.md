@@ -9,19 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: ab30f8391df58155c8511dc628b1fefd94c8d768
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979603"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147975"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>파트너 센터 상업적 marketplace에서 제품 및 가격 책정 검색
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절 한 역할**: 전역 관리자 | 관리 에이전트
 
 Isv (독립 소프트웨어 공급 업체)가 상업적 marketplace에서 제품을 게시 하도록 선택할 때 CSP 프로그램에서 제품을 사용할 수 있도록 할지 여부를 결정할 수도 있습니다. CSP 프로그램을 통해 제품을 판매 하도록 선택 하는 경우 CSP 파트너는 파트너 센터 마켓플레이스 영역에 제품을 표시 해야 합니다.
 
@@ -45,37 +42,37 @@ CSP 프로그램에서 사용 가능한 상용 marketplace 제품을 보려면 �
 
 3. 유형 또는 범주별로 필터를 선택 합니다. 또한 **검색** 을 사용 하 여 특정 키워드, 제품 이름 또는 ISV 게시자의 이름을 찾을 수 있습니다.
 
-4. 목록에서 특정 제품 제품을 선택 합니다. 제품 개요 탭으로 이동 하 여 제품에 대해 자세히 알아볼 수 있습니다. 이 탭에는 다음과 같은 정보가 포함 될 수 있습니다. 
+4. 목록에서 특정 제품 제품을 선택합니다. 그러면 제품에 대해 자세히 알아볼 수 있는 제품 개요 탭으로 이뤄질 수 있습니다. 이 탭의 정보에는 다음이 포함될 수 있습니다. 
 
-    - 제품 또는 제안에 대 한 설명
+    - 제품 또는 제품에 대한 설명
 
-    - ISV 게시자에 대 한 자세한 정보
+    - ISV 게시자에 대한 자세한 정보
 
-    - ISV 게시자가 업로드 한 설명서 또는 마케팅 자료에 대 한 링크
+    - ISV 게시자가 업로드한 설명서 또는 마케팅 자료에 대한 링크
 
-    - 고객 지원, 엔지니어링 또는 CSP 프로그램의 연락처에 대 한 기타 가능한 ISV 연락처
+    - 고객 지원, 엔지니어링 또는 CSP 프로그램에 대한 연락처에 대한 기타 가능한 ISV 연락처
 
-5. 제품의 사용 가능한 요금제, Sku 또는 가격에 대 한 자세한 내용을 보려면 **요금제 + 가격 책정** 탭을 선택 합니다. 이 탭에는 다음이 표시 됩니다.
+5. 제안의 사용 가능한 플랜, S SKU 또는 가격 책정에 대한 자세한 내용을 보려면 **계획 + 가격 책정** 탭을 선택합니다. 이 탭에는 다음이 표시됩니다.
 
-    - 이 제품을 사용할 수 있는 시장
+    - 이 제안을 사용할 수 있는 시장
 
-    - 제품에 사용할 수 있는 Sku 또는 요금제 목록
+    - 제안에 사용할 수 있는 S SKU 또는 플랜 목록
 
-    - 사용 가능한 각 SKU 또는 요금제에 대 한 가격 책정
+    - 사용 가능한 각 SKU 또는 플랜에 대한 가격 책정
 
-## <a name="view-marketplace-offers-via-partner-center-apis"></a>파트너 센터 Api를 통해 Marketplace 제품 보기
+## <a name="view-marketplace-offers-via-partner-center-apis"></a>파트너 센터 API를 통해 Marketplace 제안 보기
 
-CSP 프로그램 파트너는 Api를 사용 하 여 적격 제안 목록을 반환할 수도 있습니다. 적격 제품은 파트너가 파트너 센터 marketplace를 통해 판매할 수 있는 SaaS ISV 제품에만 제공 됩니다. Api를 사용 하 여 카탈로그에서 제품을 식별 하는 파트너에 대 한 지침을 참조 하 여 [시장에 대 한 제안 목록을 가져옵니다](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+CSP 프로그램 파트너는 API를 사용하여 적격 제안 목록을 반환할 수도 있습니다. 적격 제안은 파트너가 마켓플레이스를 통해 판매할 수 있는 SaaS ISV 제품만 파트너 센터. API를 사용하여 카탈로그에서 제안을 식별하는 파트너의 경우 지침을 참조하여 [시장 에 대한 제품 목록을 가져옵니다.](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)
 
-## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>파트너 센터에서 최신 마켓플레이스 제공 가격 책정 보기
+## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>파트너 센터 최신 Marketplace 제품 가격 책정 보기
 
-제품에 연결 된 최신 가격 정보를 보려면 다음 단계를 따르세요.
+제품과 관련된 최신 가격 책정 세부 정보는 다음 단계를 수행합니다.
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음, 왼쪽 탐색 메뉴에서 **CSP** 를 선택 합니다.
+1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인한 다음, 왼쪽 탐색 메뉴에서 **CSP를** 선택합니다.
 
-2. **판매**, **가격 책정 및 제품** 을 차례로 선택 합니다.
+2. **판매를** 선택한 **다음, 가격 책정 및 제안을** 선택합니다.
 
-3. **Marketplace** 섹션으로 스크롤하고, 위치를 선택 하 고, **marketplace 가격** 을 다운로드 합니다. 그러면 SaaS, 라이선스 기반 제품 및 ISV 게시자 로부터 제공 되는 요금제에 대 한 최신 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 일부 Azure 응용 프로그램 가격은 여기에 표시 될 수 있습니다. 이 정보는 매일 업데이트 되므로 선택 하는 빈도에 따라 현재 가격을 확인할 수 있습니다.
+3. **Marketplace** 섹션으로 Scroll down 위치를 선택하고 **Marketplace 가격 책정** 을 다운로드합니다. 그러면 SaaS, 라이선스 기반 제품 및 ISV 게시자 로부터 제공 되는 요금제에 대 한 최신 가격 책정 데이터가 포함 된 스프레드시트가 생성 됩니다. 일부 Azure 응용 프로그램 가격은 여기에 표시 될 수 있습니다. 이 정보는 매일 업데이트 되므로 선택 하는 빈도에 따라 현재 가격을 확인할 수 있습니다.
 
 4. ISV 제품에 무료 평가 기간이 포함 되어 있으면 스프레드시트에 해당 제품에 대 한 두 개의 행이 표시 됩니다.
 

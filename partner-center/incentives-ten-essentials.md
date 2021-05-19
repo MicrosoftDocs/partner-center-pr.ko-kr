@@ -1,6 +1,6 @@
 ---
-title: 성과급 사용을 위한 10 가지 essentials
-description: 이러한 10 가지 제안에 따라 동기 프로그램 환경을 개선 하 고 지급를 더 빨리 받습니다.
+title: 인센티브 작업을 위한 10가지 필수 요소
+description: 인센티브 프로그램 환경을 개선하고 지급을 더 빨리 받으려면 이러한 10가지 제안을 따르세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,35 +8,32 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179108"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146717"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>성과급 사용을 위한 10 가지 essentials
+# <a name="the-10-essentials-for-working-with-incentives"></a>인센티브 작업을 위한 10가지 필수 요소
 
-**적절한 역할**
+**적절한 역할:** 인센티브 관리자 | 인센티브 사용자
 
-- 인센티브 관리자
-- 인센티브 사용자
+Microsoft 인센티브 프로그램 Microsoft 제품 및 서비스에 고객을 참여시키는 파트너에게 보상을 주는 강력한 도구입니다. 프로그램을 더 많이 이해할수록 성공 가능성이 높아질 수 있습니다.
 
-Microsoft 성과급 프로그램은 고객에 게 Microsoft 제품 및 서비스를 이용 하기 위해 파트너에 게 보상을 주는 강력한 도구입니다. 프로그램을 더 잘 이해 하면 성공 가능성이 높아집니다.
+인센티브 프로그램을 시작하기 **전에** 아래에 나열된 10개의 필수를 수행하는 것이 좋습니다. 인센티브 환경이 좋은 환경인지 확인하고 인센티브 지급 지연을 방지하는 데 도움이 됩니다.
 
-성과급 프로그램을 시작 **하기 전에** 아래에 나열 된 10 가지 essentials를 사용 하는 것이 좋습니다. 이를 통해 사용자의 성과급 환경이 양호한 지 확인 하 고 동기 지급의 지연을 방지할 수 있습니다.
+## <a name="1-join-the-microsoft-partner-network"></a>1. Microsoft 파트너 네트워크 조인
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. Microsoft 파트너 네트워크 참여
+아직 Microsoft 파트너가 아닌 경우 인센티브 및 기타 혜택을 활용하기 위해 MPN에 가입해야 합니다. 자세한 내용은 [Microsoft 파트너 네트워크 멤버 자격을 참조하세요.](https://partner.microsoft.com/membership)
 
-아직 Microsoft 파트너가 아닌 경우에는 MPN에 참여 하 여 성과급 및 기타 혜택을 활용 해야 합니다. 자세히 알아보려면 [Microsoft 파트너 네트워크 멤버 자격](https://partner.microsoft.com/membership)을 참조 하세요.
+## <a name="2-read-your-incentives-program-guide"></a>2. 인센티브 프로그램 가이드 읽기
 
-## <a name="2-read-your-incentives-program-guide"></a>2. 성과급 프로그램 가이드 읽기
-
-각 동기 프로그램에는 고유한 프로그램 가이드가 있습니다. 이 가이드에서는 자격 및 등록 요구 사항을 알아보고 프로그램에 고유한 기회와 기타 정보를 제공 합니다. 프로그램 가이드에 액세스 하려면 다음 [절차](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)를 따르세요.
+각 인센티브 프로그램에는 고유한 자세한 프로그램 가이드가 있습니다. 이 가이드에서는 자격 및 등록 요구 사항, 수익 기회 및 프로그램에 고유한 기타 정보를 찾을 수 있습니다. 프로그램 가이드에 액세스하려면 [다음 절차를 따르세요.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
 
 ## <a name="3-set-up-your-tax-and-banking-profile"></a>3. 세금 및 은행 프로필 설정
 
-거의 모든 지급 지연 또는 성과급 프로세스의 다른 중단은 부정확 하거나 완전 하지 않은 세금 및 은행 프로필의 결과입니다. 성과급 프로그램을 시작 하기 전에 프로필이 좋은 셰이프 인지 확인 합니다. 자세히 알아보려면 [파트너 센터에서 지급 및 세금 프로필](incentives-create-and-manage-your-payout-and-tax-profiles.md)을 참조 하세요.
+인센티브 프로세스의 거의 모든 지급 지연 또는 기타 중단은 부정확하거나 불완전한 세금 및 은행 프로필의 결과입니다. 인센티브 프로그램을 시작하기 전에 프로필의 모양이 양호한지 확인합니다. 자세한 내용은 [파트너 센터 지급 및 세금 프로필을](incentives-create-and-manage-your-payout-and-tax-profiles.md)참조하세요.
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. 역할 및 권한에 대해 알아보기
 

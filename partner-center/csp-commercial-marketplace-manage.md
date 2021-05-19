@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979679"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147907"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>고객을 위한 상업적 마켓플레이스 제품 및 제품 관리
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절 한 역할**: 전역 관리자 | 관리 에이전트
 
 CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 센터 포털을 사용 하 여 상업적 marketplace에서 고객에 대 한 여러 ISV SaaS 제품 또는 구독을 구입할 수 있습니다. 제품을 구매한 후에는 다양 한 방법으로 관리할 수 있습니다.
 
@@ -78,39 +75,39 @@ CSP (클라우드 솔루션 공급자) 프로그램의 파트너는 파트너 �
 
 4. 게시자에 게 필요한 정보를 제공 하면 게시자가 적절 한 라이선스를 프로 비전 하 고 할당 합니다. 구독 요금은 다음 이벤트가 발생 한 후에만 시작 됩니다.
 
-    - ISV 게시자가 적절 한 라이선스를 할당 했습니다.
+    - ISV 게시자가 적절한 라이선스를 할당했습니다.
 
-    - ISV 게시자가 계정 설정이 성공적으로 완료 되었음을 Microsoft에서 별도의 SaaS 처리 API를 통해 확인 했습니다.
+    - ISV 게시자는 계정 설정이 성공적으로 완료되었는지 Microsoft에 확인했습니다(별도의 SaaS 처리 API를 통해).
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>ISV 게시자의 라이선스 기반 SaaS 구독 취소
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>ISV 게시자에서 라이선스 기반 SaaS 구독 취소
 
-상업적 marketplace 내에서 ISV 게시자가 제공 하는 라이선스 기반 SaaS 제품을 구독 하는 경우 지정 된 취소 기간 내에 구독을 취소 하는 옵션이 제공 됩니다. 이 취소 기간은 월별 또는 연간 구독이 있는지 여부에 따라 달라 집니다. 또한 구독을 자동으로 갱신할지 여부를 선택할 수도 있습니다.
+상업용 Marketplace 내에서 ISV 게시자가 제공하는 라이선스 기반 SaaS 제품을 구독하는 경우 지정된 취소 기간 내에 구독을 취소할 수 있습니다. 이 취소 기간은 월간 구독 또는 연간 구독 여부에 따라 변경됩니다. 또한 구독을 자동으로 갱신할지 여부를 선택할 수도 있습니다.
 
-적용 되는 취소 기간, 취소 방법 또는 구독 자동 갱신 방법에 대 한 자세한 내용은 다음을 참조 하세요.
+적용되는 취소 기간, 취소 방법 또는 구독 자동 갱신 방법에 대한 자세한 내용은 다음을 참조하세요.
 
 - [구독 취소](create-a-new-subscription.md#cancel-a-subscription)
 
-- [상업적 marketplace 구독 자동 갱신](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+- [상업용 Marketplace 구독 자동 갱신](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
-## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>SaaS 구독의 라이선스 추가 또는 제거
+## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>SaaS 구독에 대한 라이선스 추가 또는 제거
 
-SaaS 상업적 marketplace 제품의 경우 고객 구독에 대 한 사용자 라이선스를 추가 하거나 제거할 수 있습니다.
+SaaS 상업용 Marketplace 제안의 경우 고객 구독에 대한 사용자 라이선스를 추가하거나 제거할 수 있습니다.
 
-1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인 한 다음 왼쪽 탐색 메뉴에서 **고객** 을 선택 합니다.
+1. 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard)로그인한 다음, 왼쪽 탐색 메뉴에서 **고객을** 선택합니다.
 
-2. 적절 한 고객을 선택한 다음 **구독** 을 선택 합니다. 고객에 대해 구매한 라이선스 기반 구독을 나열 합니다.
+2. 적절한 고객을 선택한 다음, **구독을 선택합니다.** 고객에 대해 구매한 라이선스 기반 구독이 나열됩니다.
 
-3. **구독** 열에서 수정 하려는 구독을 선택 합니다.
+3. **구독** 열에서 수정하려는 구독을 선택합니다.
 
-4. 구독 정보 페이지에서 **수량** 필드를 찾습니다. 이 경우 라이선스 수를 늘리거나 줄일 수 있습니다.
+4. 구독 세부 정보 페이지에서 **수량** 필드를 찾습니다. 여기서 라이선스 수를 늘리거나 줄일 수 있습니다.
 
-5. 수량을 변경 하 고 **제출** 을 선택 합니다.
+5. 수량을 변경한 다음, **제출을** 선택합니다.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>파트너 센터 API를 사용하여 구독 관리
 
-파트너 센터 Api를 사용 하 여 수명 주기 관리를 수행 하 고 구독에 대 한 송장을 관리할 수도 있습니다. 자세한 내용은 [상용 marketplace 제품에 대 한 구독 만들기](/partner-center/develop/create-subscription-azure-marketplace-products)를 참조 하세요.
+파트너 센터 API를 사용하여 수명 주기 관리를 수행하고 구독에 대한 청구서를 관리할 수도 있습니다. 자세한 내용은 [상업용 Marketplace 제품에 대한 구독 만들기를 참조하세요.](/partner-center/develop/create-subscription-azure-marketplace-products)
 
 ## <a name="next-steps"></a>다음 단계
 
-- [상업적 marketplace 제품 구매](csp-commercial-marketplace-purchase.md)
-- [상업적 marketplace의 요금 청구에 대해 알아보기](csp-commercial-marketplace-billing.md)
+- [상업용 마켓플레이스 제안 구매](csp-commercial-marketplace-purchase.md)
+- [상업용 Marketplace의 청구에 대해 알아보기](csp-commercial-marketplace-billing.md)

@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179278"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146819"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>성과급 소득 자격 확인
 
-**적절한 역할**
-
-- 인센티브 관리자
-- 글로벌 관리자
+**적절 한 역할**: 성과급 관리자 | 전역 관리자
 
 성과급 프로그램에서 작업에 대 한 지불을 받으려면 먼저 필요한 모든 자격 요구 사항을 완료 해야 합니다.
 

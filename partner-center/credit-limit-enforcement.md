@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819215"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148111"
 ---
 # <a name="credit-limit-enforcement-cle"></a>신용 한도 적용 (CLE)
 
-**적절한 역할**
-
-- 청구 관리자
+**적절 한 역할**: 대금 청구 관리자
 
 ## <a name="your-credit-limit-and-how-it-works"></a>신용 한도 및 작동 방식
 
@@ -40,39 +38,39 @@ ms.locfileid: "109819215"
 
 ### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>내 신용 한도를 초과 하는 경우 모든 권한으로 기존 고객 및 구독 서비스를 계속 제공할 수 있나요?
 
-예. 고객의 기존 구독은 중단 없이 계속 됩니다. 그러나 고객에 대 한 새 구독은 구매할 수 없습니다.
+예. 고객의 기존 구독은 중단 없이 계속됩니다. 그러나 고객에 대한 새 구독은 구입할 수 없습니다.
 
-### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>CLE는 직접 청구 파트너와 간접 공급자 모두에 적용 되나요?
+### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>직접 청구 파트너 및 간접 공급자 모두에 대한 CLE가 적용됩니까?
 
-예, 둘 다에 적용 됩니다.
+예, 둘 다에 적용됩니다.
 
-### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>내 계정 복원에 대 한 지불을 제출한 후 추가 구독을 언제 구매할 수 있나요? 
+### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>내 계정을 복구하기 위해 지급액을 제출한 후 언제 더 많은 구독을 구매할 수 있나요? 
 
-Microsoft에서 신용 확인 프로세스를 계속 하기 위한 모든 요구 사항을 받은 경우 지불의 24 시간 이내에 구매를 재개할 수 있습니다.
+Microsoft가 신용 조회 프로세스를 진행하기 위한 모든 요구 사항을 수신했다고 가정하면 결제 후 24시간 이내에 구매를 다시 시작할 수 있어야 합니다.
 
-### <a name="how-can-i-check-my-credit-limit"></a>내 크레딧 한도를 확인 하려면 어떻게 해야 하나요?
+### <a name="how-can-i-check-my-credit-limit"></a>크레딧 한도를 확인하려면 어떻게 해야 합니까?
 
-에 연락 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 하 여 신용 한도를 확인 하 고 최근 구매에 대 한 정보를 받으세요.
+[ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com)크레딧 한도를 확인하고 최근 구매에 대한 정보를 얻으려면 에 문의하세요.
 
-### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>크레딧 한도에 대해 분쟁 수가 있는 청구서를 하나요?
+### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>분쟁에 있는 청구서는 신용 한도에 대해 계산합니까?
 
-예. 그러나 Microsoft에 문의 하 여 문제를 해결할 수 있습니다 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) .
+예. 그러나 에서 Microsoft에 문의하여 문제를 해결할 수 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 있습니다.
 
-### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>에 기록 하는 경우 잠시 후에 다시 말 ucmwrcsp@microsoft.com 까 요?
+### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>에 쓰면 얼마나 빨리 다시 들 수 ucmwrcsp@microsoft.com 있나요?
 
-24 시간 이내에 응답이 있어야 합니다. 
+24시간 이내에 응답이 있어야 합니다. 
 
-### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft에서 파트너의 신용 한도를 설정 하는 데 사용 하는 기준은 무엇 인가요?
+### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft는 파트너의 크레딧 한도를 설정하는 데 어떤 기준을 사용하나요?
 
-예측 수익, 구매 prowess 및 지불 내역에 따라 신용 한도를 결정 합니다.
+예상 수익, 구매 장점 및 지불 내역에 따라 크레딧 한도를 결정합니다.
 
-### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>현재 신용 한도가 새 상거래 환경에 적용 되나요?
+### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>신용 한도가 현재 새 상거래 경험에 적용되고 있나요?
 
-예. 신용 한도는 파트너 센터의 모든 CSP 프로그램 및 제품에 적용 됩니다.
+예. 크레딧 한도는 파트너 센터 모든 CSP 프로그램 및 제품에 적용됩니다.
 
-### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>조직에서 신용 한도에 근접 한 경우 알림을 받는 사람은 누구 인가요?
+### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>조직에서 크레딧 한도에 근접할 때 알림을 받는 사람은 누구인가요?
 
-조직의 재무 계좌 매입금 담당자가 알림을 받게 됩니다.
+조직의 재무 계정 지불 가능 연락처가 알림을 받아야 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

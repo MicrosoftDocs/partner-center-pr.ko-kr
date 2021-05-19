@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 1a758129a2610cbc42a6cc031d8527ed874d083b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979552"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147822"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP 프로그램의 상용 마켓플레이스 제품 지원
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절 한 역할**: 전역 관리자 | 관리 에이전트
 
 CSP 프로그램의 파트너는 상업적 marketplace에서 고객을 위해 구매한 제품 또는 타사 ISV 구독과 관련 된 구독 관리 질문이 나 고객 요금 청구에 대 한 첫 번째 연락 지점입니다.
 

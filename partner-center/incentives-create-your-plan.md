@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179261"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146802"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>성과급 프로그램에 대 한 마케팅 계획 생성
 
-**적절한 역할**
-
-- 인센티브 관리자
-- 청구 관리자
-- 글로벌 관리자
+**적절 한 역할**: 성과급 관리자 | 청구 관리자 | 전역 관리자
 
 공동 작업 클레임 계획은 일련의 마케팅 캠페인, 작업 및 프로그램을 성공적으로 만드는 방법을 설명 하는 기타 세부 정보를 제공 합니다. 계획을 만든 후에는 승인을 위해 Microsoft에 제출 합니다.
 
@@ -58,7 +54,7 @@ ms.locfileid: "106179261"
 
 이제 계획이 제출되었습니다. Microsoft는 계획이 승인되거나 추가 정보가 필요한 경우 인센티브 관리자에게 알립니다. 상태 페이지의 상태 창에서 계획의 진행 상태를 볼 수 있습니다.
 
-## <a name="view-the-status-of-your-plan"></a>요금제 상태 보기
+## <a name="view-the-status-of-your-plan"></a>계획의 상태 보기
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
@@ -66,7 +62,7 @@ ms.locfileid: "106179261"
 
 3. **계획** 섹션에서 **상태** 열에 각 계획의 상태가 나열됩니다.
 
-   다음은 공동 op 클레임 계획에 사용할 수 있는 다양 한 상태입니다.
+   다음은 공동 클레임 계획에 대해 가능한 다양한 상태입니다.
 
    - 제출됨
    - 검토 중
@@ -75,20 +71,20 @@ ms.locfileid: "106179261"
    - 승인됨
    - 거부됨
 
-## <a name="plan-submission-timelines"></a>제출 일정 계획
+## <a name="plan-submission-timelines"></a>계획 제출 타임라인
 
 프로그램 연도의 마지막 날까지 계획을 만들고 제출해야 합니다. 필요한 경우 그 이후 추가 90일에 대한 계획을 편집하고 다시 제출할 수 있지만 프로그램 연도 동안 계획을 만들고 처음 제출해야 합니다.
 
 >[!NOTE]
-> 프로그램 년에 대 한 기금 유형별 요금제는 하나만 만들 수 있습니다.
+> 프로그램 연도에 대한 자금 유형당 하나의 플랜만 만들 수 있습니다.
 
 ## <a name="plan-payments"></a>계획 지급
 
 Microsoft는 실적 및 계획의 한도를 기준으로 매월 지급금을 제공합니다. 지급은 익월 15일에 이루어집니다.
 
-예를 들어 요금제가 $1만에 대해 승인 되 고 4 월에 $5000을 획득 한 경우 5 월 15 일에 $5000를 받게 됩니다.
+예를 들어 계획이 $10,000에 대해 승인되고 4월에 $5,000를 획득한 경우 5월 15일에 $5,000를 받게 됩니다.
 
-동일한 요금제에서 4 월에 $15000을 획득 하면 $1만가 계획에 대 한 한도 이므로 5 월 15 일에 $1만을 받게 됩니다. 더 많은 지급금을 받으려면 다음 달의 계획 제한을 올려야 합니다.
+동일한 플랜에서 4월에 $15,000를 받는 경우 5월 15일에 $10,000가 플랜의 한도이므로 $10,000를 받게 됩니다. 더 많은 지급금을 받으려면 다음 달의 계획 제한을 올려야 합니다.
 
 ## <a name="next-steps"></a>다음 단계
 

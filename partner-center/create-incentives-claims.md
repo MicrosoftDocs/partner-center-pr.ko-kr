@@ -9,20 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502921"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148162"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>성과급 공동 op 클레임 만들기 및 관리
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 인센티브 관리자
-- 인센티브 사용자
+**적절 한 역할**: 전역 관리자 | 성과급 관리자 | 성과급 사용자
 
 파트너 센터 내에서 성과급 클레임을 시작할 수 있습니다.
 

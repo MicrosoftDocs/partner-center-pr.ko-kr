@@ -1,37 +1,34 @@
 ---
-title: 상업적 marketplace 제품에 대 한 청구
+title: 상업용 마켓플레이스 제품에 대한 청구
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터 내에서 상업적 marketplace의 고객을 위해 구매한 ISV SaaS 제품 또는 구독에 대 한 청구 작동 방식을 알아봅니다.
+description: 파트너 센터 내 상업용 Marketplace에서 고객을 위해 구매한 ISV SaaS 제품 또는 구독에 대해 청구가 작동하는 방식을 알아봅니다.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979535"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148026"
 ---
-# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터에서 상업용 마켓플레이스 제품 및 구독에 대 한 청구
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>파트너 센터 상업용 Marketplace 제품 및 구독에 대한 청구
 
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | 청구 관리자
 
-- 글로벌 관리자
-- 청구 관리자
+CSP 프로그램의 파트너는 파트너 센터 사용하여 상업용 Marketplace의 ISV 게시자로부터 라이선스 기반 SaaS 제품을 구매할 수 있습니다. 이렇게 하면 이러한 유형의 구매에 대한 청구서에 액세스할 수 있습니다. 청구 기간은 해당 월의 첫째 날에 시작하여 해당 월의 마지막 날에 끝납니다. 청구서는 다음 달 8일에 제공됩니다.
 
-CSP 프로그램에서 파트너는 파트너 센터를 사용 하 여 상업적 marketplace의 ISV 게시자 로부터 라이선스 기반 SaaS 제품을 구매할 수 있습니다. 이렇게 하면 이러한 유형의 구매 청구서에 액세스할 수 있습니다. 청구 기간은 해당 월의 첫 번째 날부터 시작 하 여 월의 마지막 날에 끝납니다. 청구서는 다음 달의 여덟 번째 날에 사용할 수 있습니다.
+파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard/) 또는 파트너 센터 API를 사용하여 청구서에 액세스할 수 [있습니다.](/partner-center/develop/)
 
-파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/) 또는 [파트너 센터 api](/partner-center/develop/)를 사용 하 여 청구서에 액세스할 수 있습니다.
-
-CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의 이전 CSP 구매한 Azure 테 넌 트를 사용 하 여)에서 해당 제품을 구매할 때 고객이 구매한 ISV 상용 marketplace 솔루션에 대 한 요금이 청구 됩니다.
+CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal 제품을 구매할 때(고객의 이전 CSP 구매 Azure 테넌트 사용) 고객에게 구매한 ISV 상업용 Marketplace 솔루션에 대해 요금이 청구됩니다.
 
 >[!NOTE]
->고객이 자신의 Azure AD 테 넌 트를 사용 하는 경우 (CSP 프로그램에서 파트너 로부터 구매한 것이 아닌 경우), 고객은 ([Microsoft AppSource](https://appsource.microsoft.com/) 또는 [Azure Marketplace](https://azuremarketplace.microsoft.com/))에서 직접 자체 ISV SaaS 솔루션을 구매할 수도 있습니다. 이러한 작업을 수행 하는 경우 Microsoft에서 직접 자신의 청구서를 받게 됩니다. 마찬가지로, CSP 프로그램의 파트너가 Azure 구독 또는 새 Azure 계획을 고객에 게 판매 하 고 해당 테 넌 트에 대해 고객 (또는 간접 재판매인)의 [역할 기반 액세스](/azure/role-based-access-control/built-in-roles) 권한을 부여 하는 경우 (또는 간접 **재판매인)는** csp 파트너에 게 사전 승인 또는 알림 없이 상업적 마켓플레이스 제품을 구매할 수도 있습니다. 이러한 경우 Microsoft는 CSP 프로그램에서 고객의 구매에 대 한 파트너에 게 직접 알리지 않습니다. 그러나 Microsoft는 Azure 구독에 대 한 작업에 대 한 알림 또는 알림을 설정 하는 데 사용할 수 있는 선택적 [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) 메커니즘을 제공 합니다.
+>고객이 자신의 Azure AD 테넌트(CSP 프로그램의 파트너에서 구매하지 않음)를 사용하는 경우 고객은 ( Microsoft AppSource 또는[Azure Marketplace](https://appsource.microsoft.com/) )에서 [](https://azuremarketplace.microsoft.com/)직접 자신의 ISV SaaS 솔루션을 구매하도록 선택할 수도 있습니다. 이렇게 하면 Microsoft에서 직접 자신의 청구서를 받게 됩니다. 마찬가지로 CSP 프로그램의 파트너가 Azure 구독 또는 새 Azure 플랜을 고객에게 판매하여 고객(또는 간접 대리점)에게 해당 테넌트(읽기 권한자 외의 고객에게 역할 할당)에 [대한 역할 기반 액세스 권한을](/azure/role-based-access-control/built-in-roles) 부여하는 경우 해당 고객(또는 간접 대리점)은 CSP 파트너에게 사전 승인이나 알림 없이 상업용 Marketplace 제안을 구매할 수도 있습니다. 이러한 경우 Microsoft는 CSP 프로그램의 파트너에게 고객의 구매에 대해 직접 알리지 않습니다. 그러나 Microsoft는 Azure 구독에 대 한 작업에 대 한 알림 또는 알림을 설정 하는 데 사용할 수 있는 선택적 [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) 메커니즘을 제공 합니다.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>상용 marketplace 제품에 대 한 청구 정보 액세스
 
@@ -47,7 +44,7 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
 
     - **되풀이 및 일회성 구매** 탭: azure 요금제, azure 예약, 소프트웨어 및 상업적 marketplace 제품에 대 한 송장 및 조정 파일이 표시 됩니다.
   
-3. **되풀이 및 일회성 구매** 탭을 선택 합니다. 다른 통화로 고객에 대 한 구독을 구매한 경우 각 통화에 대 한 탭이 표시 됩니다. 이 페이지에서는 다음과 같은 몇 가지 작업을 수행할 수 있습니다.
+3. **되풀이 및 일회성 구매** 탭을 선택 합니다. 다른 통화로 고객에 대 한 구독을 구매한 경우 각 통화에 대 한 탭이 표시 됩니다. 이 페이지에서 몇 가지 작업을 수행할 수 있습니다.
 
     - 최신 청구서 및 조정 파일을 보려면 **청구서** 또는 **조정 파일** 을 선택 합니다. 원할 경우 [파트너 센터 api](/partner-center/develop/)를 사용 하 여 최신 청구서 및 정찰 파일 데이터에 액세스할 수도 있습니다.
 
@@ -85,23 +82,23 @@ CSP 프로그램의 파트너는 파트너 센터 또는 Azure Portal (고객의
 
 - **청구서의 1 페이지:** CSP 프로그램 파트너의 청구 정보에 대 한 요약 개요를 포함 합니다. 여기에는 청구 기간에 대 한 요금, 청구서 번호, 지불 약관 (순 60 일) 및 요금 청구 지불 방법에 대 한 요약 (통신 또는 확인)이 포함 됩니다.
 
-- **청구서의 2 페이지 (및 모든 후속 페이지):** 상업적 marketplace의 자사 Microsoft 구매 및 타사 ISV (라이선스 기반) 구매에 대 한 요금을 청구 합니다. 각 제품 이름 아래의 **게시자** 줄에서 ISV 라이선스 기반 구매를 식별할 수 있습니다. 관련 조정 파일은 특정 송장 요금에 대 한 더 많은 청구 정보를 제공 합니다.
+- **청구서의 2 페이지 (및 모든 후속 페이지):** 상업적 marketplace의 자사 Microsoft 구매 및 타사 ISV (라이선스 기반) 구매에 대 한 요금을 청구 합니다. 각 제품 이름 아래의 **게시자** 줄에서 ISV 라이선스 기반 구매를 식별할 수 있습니다. 관련 조정 파일은 특정 청구서 요금에 대한 더 많은 청구 세부 정보를 제공합니다.
 
-- **청구서의 마지막 페이지:** ISV의 라이선스 기반 marketplace 제품에 대 한 요금이 청구 되는 경우이 마지막 페이지에 ISV 게시자 이름 및 주소에 대 한 자세한 정보가 표시 됩니다.
+- **청구서의 마지막 페이지:** ISV에서 라이선스 기반 마켓플레이스 제품에 대한 요금이 청구된 경우 이 마지막 페이지에 ISV 게시자의 이름 및 주소에 대한 자세한 정보가 표시됩니다.
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>조정 파일을 읽는 방법에 대 한 팁
+### <a name="tips-on-reading-your-reconciliation-file"></a>조정 파일 읽기에 대한 팁
 
-**되풀이 및 일회성 구매** 조정 파일에는 청구서의 요금에 매핑되는 추가 세부 정보를 포함 하는 여러 열이 포함 되어 있습니다. 가 나 **ername** 열은 Microsoft 또는 타사 ISV 게시자의 구매 여부를 표시 합니다.
+**되풀이 및 일회성 구매** 조정 파일에는 청구서의 요금에 매핑되는 추가 세부 정보가 포함된 여러 열이 포함되어 있습니다. **PublisherName** 열에는 구매가 Microsoft인지 타사 ISV 게시자인지가 표시됩니다.
 
-조정 파일의 일부 요금은 비용은 $0로 표시 될 수 있습니다. ISV "무료 평가판" 제안 (일반적으로 30 또는 60 일) 또는 사용자 라이선스 제품을 제공 하기 때문일 수 있습니다.
+조정 파일의 일부 요금은 $0의 비용으로 표시할 수 있습니다. ISV "평가판" 제안(일반적으로 30일 또는 60일) 또는 사용자 라이선스 가져오기 제안 때문일 수 있습니다.
 
-무료 평가판 ISV의 경우 다음을 제공 합니다.
+평가판 ISV 제안의 경우:
 
-- 무료 평가판 기간은 해당 시간 동안 ISV의 라이선스 기반 SaaS 제품 비용을 포함 합니다. 또한 해당 SaaS 제품의 관련 Azure 인프라 사용에 대 한 요금이 청구 되지 않습니다.  그러나 사용량 기반 ISV 제품을 사용 하는 경우 무료 평가판에는 기본 Azure 인프라 사용량의 비용이 포함 되지 않습니다. 이 경우 Azure 인프라 사용 요금은 별도의 Azure 조정 파일에 표시 됩니다.
+- 평가판 기간에는 해당 기간 동안 ISV 라이선스 기반 SaaS 제품의 비용이 포함됩니다. 또한 해당 SaaS 제품의 연결된 Azure 인프라 사용에 대해서도 요금이 청구되지 않습니다.  그러나 사용량 기반 ISV 제안을 사용하는 경우 평가판에는 기본 Azure 인프라 사용 비용이 포함되지 않습니다. 이 경우 Azure 인프라 사용 요금은 별도의 Azure 조정 파일에 표시됩니다.
 
-- 고객을 위해 ISV의 무료 평가판 적격 제품을 구매 하 여 배포할 경우 ISV 게시자는 평가판에 자동으로 등록 됩니다. ISV 게시자가 정의한 기간 후에는 무료 평가판 기간이 자동으로 종료 됩니다. 기간이 종료 되 면 고객에 게 요금이 청구 됩니다. 즉, 조정 파일은 평가 기간을 추적 하는 제품 및 유료 제품을 추적 하는 제품 (평가 기간이 종료 될 때까지 $0 비용을 표시 함)에 대 한 2 개의 행을 표시할 수 있습니다. 평가판이 종료 되 면 유료 제품을 표시 하는 행이 요금을 표시 하기 시작 합니다. 
+- 고객을 위해 ISV의 평가판 제품을 구매하고 배포하는 경우 고객은 ISV 게시자에 의해 평가판에 자동으로 등록됩니다. 평가판 기간은 ISV 게시자가 정의한 기간이 지나면 자동으로 종료됩니다. 기간이 끝나면 고객에게 요금이 청구됩니다. 즉, 조정 파일에 평가판 적격 제품에 대한 두 개의 행이 표시될 수 있습니다. 하나는 평가 기간을 추적하고 다른 하나는 유료 제품을 추적합니다(평가 기간이 종료될 때까지 $0의 비용이 표시). 평가판이 종료되면 유료 제안을 보여주는 행이 요금을 표시하기 시작합니다. 
 
-각 열이 나타내는 내용에 대 한 자세한 내용은 [조정 파일 사용](use-the-reconciliation-files.md)을 참조 하세요. [파트너 센터에서 청구 유형](billing-different-types.md) 도 참조 하세요.
+각 열이 나타내는 항목에 대한 자세한 내용은 [조정 파일 사용을 참조하세요.](use-the-reconciliation-files.md) 파트너 센터 [청구 유형도](./billing-basics.md) 참조하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

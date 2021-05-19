@@ -2,51 +2,49 @@
 title: 유효 단가 계산
 ms.topic: how-to
 ms.date: 04/02/2021
-description: 유효 단가 및 계산 방법에 대해 알아봅니다. 또한이 문서에는 샘플 계산이 포함 되어 있습니다.
+description: 유효 단가 및 계산 방법에 대해 알아봅니다. 이 문서에는 샘플 계산도 포함되어 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172220"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147125"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 계획 소비에 대 한 유효 단위 가격 계산
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 플랜 사용량에 대한 유효 단가 계산
 
-**적절한 역할**
-
-- 청구 관리자
+**적절한 역할:** 청구 관리자
 
 ## <a name="the-effective-unit-price"></a>유효 단가
 
-유효 단가는 리소스 수준과 달리 미터 수준에서 계산 되며 미터 사용에 따라 매일 조정 됩니다.
+유효 단가는 리소스 수준과 달리 미터 수준에서 계산되며 측정기 사용량에 따라 매일 조정됩니다.
 
-다음 세 가지 요소를 사용 하 여 유효 단가를 계산 합니다.
+다음 세 가지 요소를 사용하여 유효 단가를 계산합니다.
 
-- 사용량-청구 주기 전체에 걸쳐 매일 모니터링 됩니다.
-- 측정기에 대 한 청구 가능 비용
-- 계층화 (해당 하는 경우)
+- 사용량- 청구 주기 전체에서 매일 모니터링됩니다.
+- 미터에 대한 청구 가능 비용
+- 계층화(해당하는 경우)
 
-청구 주기 동안 매일 사용량을 모니터링 하므로 유효 단가가 변동 됩니다. 지정 된 청구 주기에 대 한 최종 가격은 소비 계산을 중지 하 고 청구 기간을 종결 한 후에 사용할 수 있습니다. 네 번째 또는 다섯 번째 소수 자릿수 뒤의 소비에 대 한 대부분의 변경 내용이 표시 됩니다.
+청구 주기 동안 매일 사용량을 모니터링하기 때문에 유효 단가가 변동됩니다. 사용량 계산을 중지하고 청구 기간을 닫으면 지정된 청구 주기에 대한 최종 가격을 사용할 수 있습니다. 네 번째 또는 다섯 번째 소수점 이하의 사용량에 대부분의 변경 내용이 표시됩니다.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>측정기에서 계층화 된 가격 책정을 사용 하는지 확인
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>미터에서 계층형 가격 책정을 사용하는지 확인
 
-측정기에서 계층화 된 가격 책정을 사용 하는지 여부를 모르는 경우 아래 절차를 사용 하 여 확인 합니다. 
+측정기에서 계층형 가격 책정을 사용하는지 여부를 모르는 경우 아래 절차를 사용하여 확인합니다. 
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
-2. **판매** 를 선택 하 고 **가격 책정 및 제품** 을 선택한 후 **Azure 계획 가격 책정** 을 선택 합니다.
-3. ID로 측정기를 찾은 후 가격 데이터를 다운로드 합니다. 
+2. **판매를** 선택하고 **가격 책정 및 제안을** 선택한 **다음, Azure 플랜 가격 책정을** 선택합니다.
+3. ID로 미터를 찾은 다음 가격 책정 데이터를 다운로드합니다. 
 
 ## <a name="sample-calculation"></a>샘플 계산
 
-아래 표에서는 여는 기간 동안 유효 단가를 계산 하는 방법의 예를 제공 합니다.
+아래 표에서는 오픈 기간 동안 유효 단가를 계산하는 방법의 예를 제공합니다.
 
-테이블에서 다음 값이 적용 됩니다. 
+표에서 다음 값이 적용합니다. 
 
 - **UP** = 리소스의 단가 = 0.868
 
