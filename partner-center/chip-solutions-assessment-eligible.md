@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354477"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148808"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>솔루션 평가 성과급 프로그램에 대 한 자격 요구 사항
 
-**적절한 역할**
-
-- 기본 연락처 또는 프로그램 관리자
+**적절 한 역할**: 기본 연락처 또는 프로그램 관리자
 
 FY20의 솔루션 평가 동기 프로그램에서 활성 및 등록 상태가 있는 파트너는 활성 MPN 멤버 자격과 활성 실버 또는 골드 MPN 역량을 보유 하 고 있는 경우 FY21의 성과급을 계속 사용할 수 있습니다. 파트너 자격은 매년 자격을 위해 검토 됩니다. 설정 된 파트너가 현재 연도에서 자격 및 참여 요구 사항을 달성 하지 않으면 다음 연간 검토에서 제거 됩니다. 모든 새 파트너는 해당 지역의 SAS (로컬 솔루션 평가 전문가)를 통해 등록 됩니다. SAS는 파트너 회사의 기술 및 전문 지식과 SAS에서 지 원하는 자회사의 비즈니스 요구 사항에 따라 등록 될 파트너를 식별 합니다.
 
@@ -38,13 +36,13 @@ FY20의 솔루션 평가 동기 프로그램에서 활성 및 등록 상태가 �
 
 |**참가 요구 사항**|**조건**|
 |-------------------------|-------------------------------------|
-|동기 활동|파트너는 현재 회계 연도의 솔루션 평가 동기 프로그램에 적극적으로 참여 하 여 다음 회계 연도에 솔루션 평가 성과급을 얻을 수 있는 상태를 유지 해야 합니다. 이는 하나 이상의 승인 된 솔루션 평가를 처리 하는 것과 같습니다.|
+|동기 활동|파트너는 다음 회계 연도에 솔루션 평가 인센티브 자격을 얻으려면 현재 회계 연도의 솔루션 평가 인센티브 프로그램에 적극적으로 참여해야 합니다. 이는 하나 이상의 승인된 솔루션 평가 인센티브 거래와 동일합니다.|
 
-## <a name="work-with-solution-assessment-specialist"></a>솔루션 평가 전문가로 작업
+## <a name="work-with-solution-assessment-specialist"></a>솔루션 평가 전문가와 협력
 
-솔루션 평가 동기 프로그램에 참여 하기 위한 파트너 자격을 확인 한 후에는 월간 온 보 딩 프로세스에 참여 하기 위한 SAS (Solution 평가용 전문가)의 초대를 받게 됩니다.
+솔루션 평가 인센티브 프로그램에 참여할 수 있는 파트너의 자격이 확인되면 해당 SAS(솔루션 평가 전문가)로부터 월간 온보딩 프로세스에 참여하라는 초대를 받게 됩니다.
 
-솔루션 평가 성과급 프로그램에 대 한 자세한 내용 또는 정보는 SAS (Solution 평가 전문가)에 게 문의 하세요.
+Solution Assessment Incentives 프로그램에 대한 추가 세부 정보 또는 정보는 SAS(솔루션 평가 전문가)에 문의하세요.
 
 ## <a name="next-steps"></a>다음 단계
 

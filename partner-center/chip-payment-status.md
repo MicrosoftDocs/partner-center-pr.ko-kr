@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570538"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148893"
 ---
 # <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>채널 성과급 플랫폼 (칩)에서 지불 상태를 확인 합니다.
 
-**적절한 역할**
-
-- 칩 관리자
+**적절 한 역할**: 칩 관리자
 
 >[!NOTE]
 >칩 플랫폼은 2021의 끝에서 사용이 중지 됩니다.

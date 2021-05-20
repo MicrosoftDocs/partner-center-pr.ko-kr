@@ -1,6 +1,6 @@
 ---
 title: 고객과의 관계 구축
-description: CSP 프로그램의 간접적인 재판매인 인 경우이 문서를 통해 신규 및 기존 고객에 게 연결할 수 있습니다.
+description: CSP 프로그램의 간접 대리점인 경우 이 문서는 신규 및 기존 고객과 연결하는 데 도움이 됩니다.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,20 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686197"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148434"
 ---
 # <a name="connect-with-customers"></a>고객과의 관계 구축
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절한 역할:** 전역 관리자 | 관리 에이전트
 
 
 파트너 센터에서 고객과 거래하려면 고객에게 파트너 센터 계정이 있어야 하며 귀사는 해당 고객과 재판매인 관계를 설정해야 합니다. 또한 간접 공급자가 귀사의 고객을 대신하여 구독 및 서비스를 구매하도록 허용하려면 공급자가 귀사의 고객과 재판매인 관계를 맺어야 합니다.
@@ -59,7 +56,7 @@ ms.locfileid: "109686197"
 
 신규 고객의 구독 및 서비스를 관리하기 위한 관리자 권한을 얻고 간접 공급자가 고객을 대신하여 신규 주문을 제출하는 것 **또한** 허용하려면 고객이 귀사 및 귀사의 공급자와 동시에 재판매인 관계를 맺도록 고객을 초대합니다.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>고객을 초대 하 여 사용자 및 간접 공급자와 동시에 대리점 관계 설정
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>고객과 간접 공급자와 동시에 대리점 관계를 설정하도록 고객을 초대합니다.
 
 1. **파트너 센터 메뉴** 에서 **간접 공급자** 를 선택합니다.
 

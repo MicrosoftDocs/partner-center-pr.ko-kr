@@ -9,21 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: cd7567a53f517d770bf51c734f5a1ace7b6ec94b
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941778"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150559"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>파트너 센터에서 신규 고객 레코드를 추가하는 방법
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
+**적절 한 역할**: 전역 관리자 | 사용자 관리 관리자 | 관리 에이전트 | 판매 에이전트
 
 이 문서에서는 파트너 센터의 고객 목록에 새 고객을 추가 하는 방법을 설명 합니다. 이러한 단계는 구독을 판매 하거나, 대금 청구를 관리 하거나, 고객에 게 지원을 제공 하기 전에 필요 합니다.
 

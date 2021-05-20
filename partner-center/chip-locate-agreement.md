@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e433b44f158c3e4cefe22027e7f7d3b845991308
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 64dbbbae0087275fa8d0c5fd4f364079623efe63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756108"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148995"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>계약에 대한 데스크톱 수 및 요금 수준 찾기
 
-**적절한 역할**
-
-- 기본 연락처 또는 프로그램 관리자
+**적절 한 역할**: 기본 연락처 또는 프로그램 관리자
 
 [Explore.ms](https://www.explore.ms/) 에 로그인 하 여 규약을 검토 하거나 데스크톱 수와 요금 수준에 대 한 계약 정보를 제공 하는 파일을 다운로드할 수 있습니다.
 
@@ -52,31 +50,31 @@ ms.locfileid: "101756108"
 |  A | 0 – 2399    |
 |  b | 2400 – 5999    |
 |  C | 6000 – 14999    |
-|  D | 15000 이상   |
+|  D | 15,000+   |
 
 >[!NOTE]
->엔터프라이즈 동기 수준은 상용 및 PS (공개 섹터) 등록의 데스크톱 또는 사용자 수 (어느 쪽 이상)를 기반으로 합니다. 자연 스러운 데스크톱 또는 사용자 수가 없는 등록의 경우 Microsoft는 해당 EA의 데스크톱 수 또는 사용자 수에 따라 데스크톱 수를 적용 합니다. <br><br>해당 EA가 없는 경우 요금 수준은 등록의 가격 책정 수준을 기준으로 합니다. [Www.explore.ms](https://www.explore.ms/)에서 거래 가격 수준을 볼 수도 있습니다. <br><br>기존 EA/EAS에 여러 개의 풀 및/또는 가격 책정 수준이 있는 경우 Microsoft는 가장 높은 할당 된 가격/풀 수준에서 성과급을 지불 하 고 수준이 가장 낮은 것 이며 수준 D가 가장 높습니다.
+>엔터프라이즈 인센티브 수준은 PS(상용 및 공공 부문) 등록의 데스크톱 또는 사용자 수(둘 중 더 높음)를 기반으로 합니다. 자연스럽게 연결된 데스크톱 또는 사용자 수가 없는 등록의 경우 Microsoft는 함께 제공되는 EA의 데스크톱 수 또는 사용자 수에 따라 데스크톱 수를 적용합니다. <br><br>함께 제공되는 EA가 없는 경우 요금 수준은 등록의 가격 책정 수준을 기반으로 합니다. www.explore.ms 거래 가격 책정 수준을 볼 수도 [있습니다.](https://www.explore.ms/) <br><br>기존 EA/EAS에 여러 풀 및/또는 가격 책정 수준이 있는 경우 Microsoft는 가장 높은 할당 가격 책정/풀 수준에서 인센티브 비용을 지불하며, 수준 A는 가장 낮고 수준 D는 가장 높습니다.
 
 #### <a name="pool-and-pricing-levels"></a>풀 및 가격 책정 수준
 
-위에 설명 된 단계를 사용 하 여 explore.ms에서 계약 번호를 검색 한 후 계약 번호를 선택 합니다. 그러면 계약 **요약** 및 **제품** 을 표시 하는 계약 정보 페이지로 이동 합니다. 제품 섹션에는 가격 책정 수준이 포함 되어 있습니다.
+위에서 설명한 단계를 사용하여 explore.ms 계약 번호를 검색한 후 계약 번호를 선택합니다. 이렇게 하면 계약 요약 및 제품 이 표시된 **계약** 세부 정보 **페이지로 열립니다.** 제품 섹션에는 가격 책정 수준이 포함되어 있습니다.
 
-## <a name="method-2---chip"></a>방법 2-칩
+## <a name="method-2---chip"></a>방법 2 - CHIP
 
-1. 칩에 로그인 하 고 LSP 성과급을 선택 합니다.
+1. CHIP에 로그인하고 LSP 인센티브를 선택합니다.
 
-2. **파트너 지불 요약** 페이지에서 보려는 보고 월을 선택 하 고 **Excel로 내보내기** 아래의 드롭다운에서 **계산 세부 정보** 를 선택 합니다.
+2. 파트너 **결제 요약** 페이지에서 보려는 보고 월을 선택한 다음 **Excel로 내보내기** 아래의 드롭다운에서 **계산 세부 정보를** 선택합니다.
 
 :::image type="content" source="images/chip/chiplocate.png" alt-text="프로그램 세부 정보 찾기":::
 
-3. 내보내기가 시작 되 고 파일을 열거나 대상에 저장/저장할 수 있습니다.
+3. 내보내기가 시작되고 파일을 열거나 다른 이름으로 대상에 저장/저장할 수 있습니다.
 
-4. 보고서가 열리면 왼쪽 아래에 있는 **DetailReport-FlatFile** 탭으로 이동 합니다.
+4. 보고서가 열리면 맨 아래 왼쪽에 있는 **DetailReport-FlatFile** 탭으로 이동합니다.
 
 :::image type="content" source="images/chip/flatfile.png" alt-text="플랫 파일 다운로드":::
 
-이제 J 열에서 찾고 있는 계약 번호를 검색할 수 있습니다. 그러면 Agreement_DesktopCount 레이블이 지정 된 R 열에 할당 된 데스크톱 수가 표시 됩니다. ' AI ' 계층 이라는 열에서이 규약의 요금 수준을 확인할 수도 있습니다.
+이제 J열에서 찾고 있는 계약 번호를 검색할 수 있습니다. 할당된 데스크톱 수는 Agreement_DesktopCount 레이블이 지정된 R 열에서 찾을 수 있습니다. 'AI' 레이블이 계층인 열에서 이 계약의 요금 수준을 확인할 수도 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 
-- [칩 액세스 문제 해결](chip-access-trouble.md)
+- [CHIP 액세스 문제 해결](chip-access-trouble.md)

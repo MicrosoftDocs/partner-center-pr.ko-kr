@@ -2,63 +2,61 @@
 title: 혜택 FAQ
 ms.topic: article
 ms.date: 12/15/2020
-description: Azure, 클라우드, Visual Studio 및 기술 및 지원 혜택에 대 한 혜택 만료, 갱신 및 정품 인증에 대 한 질문에 대 한 답변
+description: Azure, 클라우드, Visual Studio 및 기술 및 지원 혜택에 대한 혜택 만료, 갱신 및 라이선스 활성화에 대한 질문에 대한 답변
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557701"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149284"
 ---
 # <a name="benefits-faq"></a>혜택 FAQ
 
-**적절한 역할**
+**적절한 역할:** MPN 파트너 관리자
 
-- MPN 파트너 관리자
-
-이 문서에서는 MPN (Microsoft 파트너 네트워크) 혜택에 대 한 일반적인 질문을 다룹니다.
+MPN(Microsoft 파트너 네트워크) 혜택에 대한 일반적인 질문은 이 문서에서 다룹니다.
 
 
 ## <a name="general-questions"></a>일반적인 질문
 
 ### <a name="q-what-does-benefit-expiry-date-mean"></a>17. "혜택 만료 날짜"의 의미
 
-혜택 만료 날짜는 혜택을 활성화 하는 마지막 날짜를 의미 합니다.
+혜택 만료 날짜는 혜택을 활성화하는 마지막 날짜를 의미합니다.
 
-1 년 등록 기간 동안 사용 가능한 혜택을 사용 하기 위해 갱신 날짜를 사용할 수 있습니다. MPN 대시보드의 [멤버 자격 제안](https://partner.microsoft.com/dashboard/mpn/offers) 페이지에서 갱신 시작 날짜를 찾을 수 있습니다.
+갱신 날짜까지 1년 등록 기간 동안 사용할 수 있는 혜택을 사용할 수 있습니다. 갱신 시작 날짜는 MPN 대시보드의 [멤버 자격 제안](https://partner.microsoft.com/dashboard/mpn/offers) 페이지에서 찾을 수 있습니다.
 
-그러나 해당 클라우드 포털에서 키를 사용 하는 날부터 1 년 동안 제품 키를 사용할 수 있습니다.
+그러나 해당 클라우드 포털에서 키를 사용한 날부터 1년 동안 제품 키를 사용할 수 있습니다.
 
-예를 들어 혜택 만료 날짜가 2021 년 1 월 31 일 이면 2021 년 1 월 31 일까 지 적절 한 클라우드 포털에서 키를 교환 해야 합니다. 2020 년 12 월 1 일에 제품 키를 사용 하는 경우 혜택 만료 날짜가 1 월 31 일 이더라도 2021 년 12 월 1 일까 지 해당 키를 사용할 수 있습니다.
+예를 들어 혜택 만료 날짜가 2021년 1월 31일인 경우 2021년 1월 31일 이전에 적절한 클라우드 포털에서 키를 사용해야 합니다. 또한 2020년 12월 1일에 제품 키를 사용하는 경우 혜택 만료 날짜가 1월 31일인 경우에도 2021년 12월 1일까지 해당 키를 사용할 수 있습니다.
 
 >[!NOTE]
->사용자 할당을 요구 하는 혜택이 있는 경우 (예: Visual Studio 구독) 등록 갱신 날짜 이후 30 일 동안 추가 된 혜택을 활성화 하 고 사용할 수 있습니다.
+>사용자 할당이 필요한 혜택(예: Visual Studio 구독)이 있는 경우 등록 갱신 날짜 이후 30일 동안 이러한 혜택을 활성화하고 사용할 수 있습니다.
 
-### <a name="q-how-do-i-renew-my-benefits"></a>17. 내 혜택 갱신 어떻게 할까요?
+### <a name="q-how-do-i-renew-my-benefits"></a>17. 혜택 갱신 어떻게 할까요?
 
-다음 절차를 사용 하 여 혜택을 갱신 하세요.
+다음 절차에 따라 혜택을 갱신합니다.
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. 왼쪽 탐색 영역에서 **MPN** 를 선택 합니다.
+2. 왼쪽 탐색에서 **MPN** 을 선택합니다.
 
-3. **MPN** 탭에서 **혜택** 옵션을 선택 합니다.
+3. **MPN** 탭에서 **혜택** 옵션을 선택합니다.
 
-4. 원하는 혜택을 활성화 합니다.
+4. 원하는 혜택을 활성화합니다.
 
-원하는 혜택을 사용할 수 없는 경우 파트너 센터 구성원 자격을 갱신 하 고 위의 프로세스를 반복 해야 합니다.
+원하는 혜택을 사용할 수 없는 경우 파트너 센터 멤버 자격을 갱신하고 위의 프로세스를 반복해야 합니다.
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>17. 내가 구독을 곧 만료 한다고 알려주는 알림을 받았습니다.
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>17. 내 구독이 곧 만료된다는 알림이 수신되었습니다. 어떻게 해야 합니까?
 
-알림을 생성 한 클라우드 포털에 로그인 하 고, 기존 구독의 만료 날짜를 검토 한 후 만료 구독에 라이선스를 추가 하거나, 등록의 다음 해에 대 한 기존 구독을 연장 합니다.
+알림을 생성한 클라우드 포털에 로그인하고, 기존 구독의 만료 날짜를 검토한 다음, 만료되는 구독에 라이선스를 추가하거나 등록의 다음 연도에 대한 기존 구독을 확장합니다.
 
-### <a name="q-when-can-i-renew-my-membership"></a>17. 내 멤버 자격을 갱신할 수 있는 경우
+### <a name="q-when-can-i-renew-my-membership"></a>17. 내 멤버 자격을 갱신할 수 있는 시기
 
 갱신 시작 날짜가 시작된 후에는 언제든지 기존 멤버 자격을 갱신할 수 있습니다.
 
@@ -95,29 +93,29 @@ Azure 대량 신용 제품을 다른 제품에 결합할 수 없습니다. 사�
 
 4. 사용 가능한 기존 Visual Studio 구독에 원하는 사용자를 할당 합니다.
 
-구독을 할당 한 후에는 사용자가 Visual Studio에 로그인 하 여 관리 해야 합니다.
+구독을 할당한 후에는 사용자가 Visual Studio 로그인하여 관리해야 합니다.
 
 >[!Note]
-> 원래 할당 시간 이후 90 일이 경과한 경우에는 한 구독자에서 다른 구독자로 Visual Studio 구독을 다시 할당할 수 있습니다.
+> Visual Studio 구독은 원래 할당 시간 이후 90일이 경과한 경우 한 구독자에서 다른 구독으로 재할당될 수 있습니다.
 
-## <a name="technical-benefits-and-support"></a>기술적 이점 및 지원
+## <a name="technical-benefits-and-support"></a>기술 혜택 및 지원
 
-### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>17. 파트너 센터에서 다운로드 한 소프트웨어를 설치할 수 없습니다. 어떻게 할까요? 도움말 보기
+### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>17. 파트너 센터 다운로드한 소프트웨어를 설치할 수 없습니다. 도움말 어떻게 할까요?
 
-설치, 활성화 및 기타 제품 관련 도움말은 Microsoft 지원를 통해 제공 됩니다. 도움을 받으려면 다음 단계를 수행 합니다.
+설치, 정품 인증 및 기타 제품 관련 도움말은 Microsoft 지원 통해 제공됩니다. 지원을 받으려면 다음 단계를 수행합니다.
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
 
-2. 파트너 센터 메뉴에서 **MPN** 를 선택 합니다.
+2. 파트너 센터 메뉴에서 **MPN을** 선택합니다.
 
-3. **혜택** 을 선택 하 고 **기술 혜택** 을 선택 합니다.
+3. **혜택을** 선택한 다음, **기술 혜택** 을 선택합니다.
 
-4. 기술 혜택 섹션을 사용 하 여 액세스 ID/계약 ID를 활성화 하 고 받을 수 있습니다.
+4. 기술 혜택 섹션을 사용하여 액세스 ID/계약 ID를 활성화하고 받습니다.
 
-5. [Microsoft 지원](https://support.microsoft.com/supportforbusiness/productselection)에 로그인 합니다.
+5. [Microsoft 지원](https://support.microsoft.com/supportforbusiness/productselection)로그인합니다.
 
-6. 설치 하려는 제품을 선택 하 고 기술 지원 티켓을 만듭니다.
+6. 설치하려는 제품을 선택한 다음 기술 지원 티켓을 만듭니다.
 
 ## <a name="next-steps"></a>다음 단계
 
-- [전문 지식을 보여 주기 위해 고급 전문화 획득](advanced-specializations.md)
+- [전문 지식을 소개하는 고급 전문 분야 획득](advanced-specializations.md)

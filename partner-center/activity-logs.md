@@ -9,23 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474243"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150593"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>고객 거래에 대 한 자세한 정보를 보려면 고객 활동 로그 보기 또는 내보내기
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 청구 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
-- 기술 지원팀 상담원
+**적절 한 역할**: 전역 관리자 | 청구 관리자 | 사용자 관리 관리자 | 관리 에이전트 | 판매 에이전트 | 기술 지원팀 에이전트
 
 활동 로그는 거래에 대 한 정보 및 고객에 대 한 파트너 관리 작업을 제공 합니다. 트랜잭션에 대 한 로그는 구매한 구독을 포함 하 여 트랜잭션에 대 한 자세한 정보를 제공 합니다. 활동 로그를 Excel과 호환 되는 쉼표로 구분 된 값 파일 형식 (.csv)으로 내보낼 수도 있습니다.
 

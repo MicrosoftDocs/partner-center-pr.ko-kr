@@ -2,43 +2,41 @@
 title: Microsoft 파트너 네트워크 혜택 FAQ
 ms.topic: article
 ms.date: 02/04/2021
-description: Microsoft 파트너 네트워크 혜택에 대 한 정책에 대 한 질문과 대답입니다.
+description: Microsoft 파트너 네트워크 혜택과 관련된 정책에 대한 질문에 대답합니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552395"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149318"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft 파트너 네트워크 혜택 FAQ
 
-**적절한 역할**
+**적절한 역할:** MPN 파트너 관리자
 
-- MPN 파트너 관리자
+다음 문서에서는 MPN(Microsoft 파트너 네트워크) 파트너가 MPN 멤버십 혜택, 역량 및 제품 라이선스에 대해 가지고 있는 몇 가지 주요 질문에 답변합니다.
 
-다음 문서에서는 MPN () 파트너의 MPN 멤버 자격 혜택, 역량 및 제품 라이선스에 대해 설명 하는 몇 가지 주요 Microsoft 파트너 네트워크 질문에 답변 합니다.
+## <a name="responding-to-covid-19"></a>코로나19에 응답
 
-## <a name="responding-to-covid-19"></a>COVID-19에 응답
+**Q.** **역량 1주년 날짜가 올 예정이며 코로나19와 관련된 영향으로 인해 역량 요구 사항을 충족할 수 없습니다. 어떻게 해야 할까요?**
 
-**Q.** **, microsoft의 역량 기념일 날짜는 covid-19와 관련 된 영향 때문에 역량 요구 사항을 충족할 수 없습니다. 무엇을 해야 하나요?**
-
-A. 역량 예정일 날짜가 2021 년 1 월 1 일부 터 6 월 30 일 사이에 있는 경우 2022에서 다음 기념일을 통해 기존 역량 또는 역량 (클라우드 Business Applications 역량 제외)을 확장 합니다. 시험 또는 성능 요구 사항을 충족 하지 않아도 되지만, 계속 해 서 역량 요금을 지불 하 게 됩니다.자세한 내용은 [블로그 게시물](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)을 참조 하세요.
+A. 역량 1주년 날짜가 2021년 1월 1일부터 6월 30일 사이인 경우 2022년 다음 1주년 날짜를 통해 기존 역량 또는 역량(Cloud Business Applications 역량 제외)을 확장하고 있습니다. 시험 또는 성능 요구 사항을 충족할 필요는 없지만 여전히 역량 요금을 지불합니다.자세한 내용은 [블로그 게시물](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)를 참조하세요.
 
 ## <a name="membership"></a>Membership
 
-**Q: 역량을 갱신 하는 프로세스와 타이밍은 무엇 인가요?**
+**Q: 역량을 갱신하기 위한 프로세스 및 타이밍은 무엇인가요?**
 
-A: 회사는 파트너 센터에서 역량을 갱신할 수 있습니다. 역량 성능 요구 사항을 충족 하 고, 매년 필요한 시험 및 기술의 유효성을 검사 하 고, 갱신 기간 내에 연간 요금을 지불 하 여 역량 상태와 관련 혜택에 대 한 액세스를 유지 해야 합니다.
+A: 회사에서 파트너 센터 역량을 갱신할 수 있습니다. 역량 성능 요구 사항을 충족하고, 매년 필요한 시험 및 기술의 유효성을 검사하고, 갱신 기간 내에서 연간 요금을 지불하여 역량 상태를 유지하고 관련 혜택에 액세스해야 합니다.
 
- 역량을 갱신 하기 전에 회사의 전역 관리자 또는 계정 관리자는 비즈니스 정보를 검토 하 고 업데이트 해야 합니다. 파트너 센터의 회사 프로필에 액세스 하 여 상태를 확인 하 고 업데이트 해야 하는 정보를 검토할 수 있습니다. 정보를 확인 하려면 추가 설명서가 필요할 수 있습니다.  
+ 역량을 갱신하기 전에 회사의 전역 관리자 또는 계정 관리자는 비즈니스 정보를 검토하고 업데이트해야 합니다. 파트너 센터 회사 프로필에 액세스하여 상태를 확인하고 업데이트해야 하는 정보를 검토할 수 있습니다. 정보를 확인하려면 추가 설명서가 필요할 수 있습니다.  
 
- 갱신 기간은 구매 1주년 다음날에 시작됩니다. 예를 들어 2020 년 9 월 1 일에 Microsoft Action Pack를 구매한 경우 30 일 갱신 기간은 2021 년 9 월 2 일에 시작 됩니다. 회사의 전역 관리자 및 MPN 관리자 역할은 기념일 및 30 일 후에 갱신 통신을 받습니다. 갱신 기간 중에는 연결 된 혜택에 계속 액세스할 수 있습니다.
+ 갱신 기간은 구매 1주년 다음날에 시작됩니다. 예를 들어 2020년 9월 1일에 Microsoft Action Pack 구매한 경우 30일 갱신 기간이 2021년 9월 2일에 시작됩니다. 회사의 전역 관리자 및 MPN 관리자 역할은 1주년 날짜 및 30일 이후까지 갱신 통신을 받습니다. 갱신 기간 동안 연결된 혜택에 계속 액세스할 수 있습니다.
 
  자세한 내용은 [갱신 MPN 제품](renew-mpn-offers.md)을 참조 하세요.
 
@@ -67,58 +65,58 @@ A: MPN 규약에 따라 구성원이 활성 상태인 한 프로그램 혜택에
 
 ## <a name="product-licenses"></a>제품 라이선스
 
-**Q: 제품 라이선스에 대 한 Microsoft 파트너 네트워크의 파트너에 대 한 현재 제안은 무엇입니까?**
+**Q: 제품 라이선스에 대한 Microsoft 파트너 네트워크 파트너의 현재 제품은 무엇인가요?**
 
-A: 제품 라이선스 (내부 사용 라이선스 또는 내부 사용 권한이 라고도 함)는 역량을 확보 하거나 Microsoft Action Pack를 구매 하는 파트너의 혜택에 포함 됩니다. [Microsoft 파트너 네트워크 프로그램 가이드](https://aka.ms/partner-benefits-use-guide)에서 제품 라이선스의 현재 제안 목록을 가져옵니다.
+A: 제품 라이선스(내부 사용 라이선스 또는 내부 사용 권한이라고도 함)는 역량을 획득하거나 Microsoft Action Pack 구매하는 파트너의 혜택에 포함됩니다. Microsoft 파트너 네트워크 프로그램 가이드에서 제품 라이선스의 현재 제품 목록을 [확인합니다.](https://aka.ms/partner-benefits-use-guide)
 
-**Q: 단일 토큰을 사용 하 여 여러 구독을 잠금 해제할 수 있나요?**
+**Q: 단일 토큰을 사용하여 여러 구독의 잠금을 해제할 수 있나요?**
 
-A: 아니요, 여러 구독의 잠금을 해제 하기 위해 토큰을 분할할 수 없습니다. 토큰은 제공 된 형식으로 사용 해야 합니다. 예를 들어 25 자리 토큰은 5 개의 서로 다른 토큰으로 나눌 수 없습니다.
+A: 아니요, 토큰을 분할하여 여러 구독의 잠금을 해제할 수 없습니다. 토큰은 제공된 형식으로 사용해야 합니다. 예를 들어 25자리 토큰은 5개의 서로 다른 5자리 토큰으로 분할할 수 없습니다.
 
-자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q:** **잘못 된 테 넌 트에서 cloud services에 대 한 토큰을 활성화 하거나 확장 하는 대신 사용자를 추가 하는 경우 대체 토큰을 얻을 수 있나요?**
+**Q:** **잘못된 테넌트에서 클라우드 서비스에 대한 토큰을 활성화했거나 확장하는 대신 시트를 추가한 경우 대체 토큰을 얻을 수 있나요?**
 
-A: 잘못 된 테 넌 트의 클라우드 서비스 활성화 및 기존 구독에서 실수로 추가 된 사용자에 대 한 대체 토큰은 원래 토큰 활성화 후 30 일 내에 한 번만 실행할 수 있습니다.
+A: 잘못된 테넌트에서 클라우드 서비스 활성화 및 기존 구독에서 실수로 추가된 시트에 대한 대체 토큰은 원래 토큰을 활성화한 후 30일 이내에 한 번만 발급할 수 있습니다.
 
-자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: 온-프레미스 소프트웨어 제품 라이선스의 경우 설치를 위한 제품 키가 필요 한가요?**
+**Q: 온-프레미스 소프트웨어 제품 라이선스의 경우 설치할 제품 키가 있어야 합니까?**
 
-A: 일부 제품에는 제품 키가 필요 하지 않습니다. 정품 인증은 Windows server 및 클라이언트 운영 체제와 모든 Microsoft Office 클라이언트 응용 프로그램에 필요 합니다.
+A: 모든 제품에 제품 키가 필요한 것은 아닙니다. Windows 서버 및 클라이언트 운영 체제와 모든 Microsoft Office 클라이언트 애플리케이션에는 제품 정품 인증이 필요합니다.
 
- 자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+ 자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: 모든 설치 및 활성화를 사용 하는 경우 제품 키를 더 얻을 수 있나요?**
+**Q: 모든 설치 및 정품 인증을 사용하는 경우 더 많은 제품 키를 얻을 수 있나요?**
 
-A: 발급 된 일부 제품 키는 MAK (복수 정품 인증 키)입니다. 이러한 제품은 한정 된 수의 설치, 활성화 또는 사용자를 포함 합니다. 모든 설치 및 활성화를 사용 하는 경우 제품 키가 작동 하지 않습니다. 이러한 제품 키에 대 한 추가 활성화는 허용 되지 않습니다.
+A: 발급된 일부 제품 키는 MAK(복수 정품 인증 키)입니다. 이러한 제품에는 한정된 수의 설치, 정품 인증 또는 시트가 있습니다. 모든 설치 및 정품 인증이 사용되면 제품 키의 작동이 중지됩니다. 이러한 제품 키에 대한 추가 활성화는 부여되지 않습니다.
 
- 자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+ 자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: 역량 또는 Microsoft Action Pack를 갱신 하지 않기로 결정 한 경우 여전히 온-프레미스 소프트웨어 제품 라이선스를 사용할 수 있나요?**
+**Q: 역량 또는 Microsoft Action Pack 갱신하지 않기로 결정한 경우 온-프레미스 소프트웨어 제품 라이선스를 계속 사용할 수 있나요?**
 
-A: 아니요. 역량 attainment 및 Microsoft Action Pack와 함께 제공 되는 온-프레미스 소프트웨어 제품 라이선스는 영구적인 기능이 아닙니다.
-회원 자격 중에만 이러한 라이선스를 사용할 수 있는 권한이 부여 됩니다. 역량 또는 Action Pack를 갱신 하지 않도록 선택 하는 경우 상업적 라이선스를 통해 라이선스 권한을 얻거나 Microsoft 파트너 네트워크를 통해 가져온 온-프레미스 소프트웨어를 제거 해야 합니다.
+A: 아니요. 역량 획득 및 Microsoft Action Pack 포함된 온-프레미스 소프트웨어 제품 라이선스는 영구적이지 않습니다.
+사용자는 자격이 있으며, 멤버 자격 중에만 이러한 라이선스를 사용할 수 있는 권한이 있습니다. 역량 또는 Action Pack 갱신하지 않도록 선택하는 경우 상업용 라이선스를 통해 라이선스 권한을 얻거나 Microsoft 파트너 네트워크 통해 얻은 온-프레미스 소프트웨어를 제거해야 합니다.
 
-자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: Microsoft Action Pack Visual Studio Enterprise 구독을 포함 합니까?**
+**Q: Microsoft Action Pack Visual Studio Enterprise 구독을 포함하나요?**
 
-A: 아니요, Microsoft Action Pack는 Visual Studio Professional 구독만 포함 합니다.
+A: 아니요, Microsoft Action Pack Visual Studio Professional 구독만 포함합니다.
 
-자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+자세한 내용은 Microsoft 파트너 프로그램 [가이드를 참조하세요 aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q: 역량 attainment 또는 Microsoft Action Pack와 함께 제공 되는 Visual Studio 구독을 공유할 수 있나요?**
+**Q: 역량 획득 또는 Microsoft Action Pack 포함된 Visual Studio 구독을 공유할 수 있나요?**
 
-A: 아니요, Visual Studio 구독은 사용자별로 사용이 허가 되며, 유효 하려면 할당 및 활성화 되어야 합니다. 로그인 자격 증명 공유가 허용 되지 않습니다.
+A: 아니요, Visual Studio 구독은 사용자별로 사용이 허가되며, 유효하려면 할당되고 활성화되어야 합니다. 로그인 자격 증명 공유는 금지됩니다.
 
-자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide) 를 참조 하세요.
+자세한 내용은 Microsoft 파트너 프로그램 가이드 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q.** 회사에서 제공 하는 **제품 라이선스의 수를 어떻게 알 수** **있나요?**
+**Q.** 회사에서 보유하고 있는 **제품 라이선스의 개수를 어떻게 알** 수 **있나요?**
 
-A. 파트너 센터에서 역량 attainment 또는 Action Pack에 포함 된 제품 라이선스 및 기타 혜택을 보고 관리할 수 있습니다. [파트너 네트워크 혜택 관리](manage-your-partner-network-benefits.md)에 대해 자세히 알아보세요.
+A. 파트너 센터 역량 획득 또는 Action Pack 포함된 제품 라이선스 및 기타 혜택을 보고 관리할 수 있습니다. [파트너 네트워크 혜택 관리에서](manage-your-partner-network-benefits.md)자세히 알아보세요.
 
-**대답. 회사에서 역량 attainment 또는 Action Pack를 통해 제공 되는 제품 라이선스를 어떻게 사용할 수 있나요?**
+**Q. 회사에서 역량 획득 또는 Action Pack 통해 제공되는 제품 라이선스를 어떻게 사용할 수 있나요?**
 
 A. Microsoft는 혁신적인 솔루션을 구축 하 고 Microsoft 제품 및 기술에 익숙해질 수 있도록 Microsoft Action Pack를 구매 하거나 하나 이상의 역량을 확보 하는 Microsoft 파트너 네트워크 파트너를 위한 제품 라이선스를 포함 합니다. 역량 attainment 및 Action Pack에 포함 된 제품 라이선스에 대 한 사용 약관은 [Microsoft 파트너 네트워크 프로그램 가이드](https://aka.ms/partner-benefits-use-guide)에 설명 되어 있습니다.
 
@@ -133,17 +131,17 @@ A. 역량 attainment에 포함 된 제품 라이선스 및 Action Pack에는 Mic
 
 **대답. 최근이 역량을 가진 Microsoft 파트너 네트워크에서 다른 회사와 병합 했습니다. 파트너 센터의 계정 병합 기능을 사용할 때 현재 제품 라이선스를 모두 유지 하 시겠습니까?**
 
-A. 역량 attainment 및 Action Pack 구매는 파트너 전역 계정을 통해 파트너 센터에서 완료 됩니다. 파트너 센터에서 계정 병합 기능을 사용 하는 경우 각 계정의 기존 혜택은 다음 갱신까지 그대로 유지 됩니다. 갱신할 때 역량 attainment 및 Action Pack에 포함 된 혜택은 파트너 회사의 파트너 전역 계정에 대해 구현 됩니다.
+A. 역량 attainment 및 Action Pack 구매는 파트너 전역 계정을 통해 파트너 센터에서 완료 됩니다. 파트너 센터에서 계정 병합 기능을 사용 하는 경우 각 계정의 기존 혜택은 다음 갱신까지 그대로 유지 됩니다. 갱신 시 역량 획득 및 Action Pack 포함된 혜택은 파트너 회사의 파트너 글로벌 계정에 대해 구현됩니다.
 
--   Microsoft Action Pack: 파트너 회사는 파트너 전역 계정 마다 하나의 Action Pack를 구매할 수 있습니다.
+-   Microsoft Action Pack: 파트너 회사는 파트너 글로벌 계정당 하나의 Action Pack 구매할 수 있습니다.
 
--   역량: 파트너 회사는 최고 attainment에 연결 된 핵심 혜택의 패키지 하나를 받고 파트너의 글로벌 계정에 대 한 역량 별 혜택을 받습니다.
+-   역량: 파트너 회사는 파트너 글로벌 계정에서 파트너가 받을 수 있는 가장 높은 획득과 관련된 핵심 혜택 패키지 하나와 역량별 혜택을 받게 됩니다.
 
- [계정 병합](merge-accounts.md) 정보를 검토 하 여 기능이 작동 하는 방식 및 회사의 요구 사항에 적합 한지 결정 하는 방법에 대해 자세히 알아보세요.
+ [계정 병합에](merge-accounts.md) 대한 정보를 검토하여 기능의 작동 방식과 회사 요구 사항에 적합한지 여부를 결정하는 방법에 대해 자세히 알아보세요.
 
-**Q.** 파트너 센터의 회사 제품 라이선스 **에 대 한 질문이 있습니다** **. 어디에서 도움을 받을 수 있나요?**
+**Q.** 파트너 센터 회사의 제품 라이선스에 **대한 질문이** **있습니다. 어디에서 도움을 받을 수 있나요?**
 
-A. [파트너 센터의 지원 섹션](https://partner.microsoft.com/support) 으로 이동 하 여 도움을 받을 수 있는 리소스에 대 한 링크를 제공 하거나 필요한 경우 파트너 지원 팀과 함께 티켓을 열 수 있습니다.
+A. 도움이 될 수 있는 리소스에 대한 링크를 [파트너 센터 지원 섹션으로](https://partner.microsoft.com/support) 이동하거나 필요한 경우 파트너 지원 팀과 티켓을 열 수 있습니다.
 
 ## <a name="next-steps"></a>다음 단계
 

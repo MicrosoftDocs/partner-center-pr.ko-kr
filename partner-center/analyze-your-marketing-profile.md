@@ -9,21 +9,19 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530836"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150219"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>잠재 고객 분석 - 대상 고객과 잠재적 추천을 얼마나 잘 끌어올 수 있는지 확인
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**적절한 역할**
-
-- 조회 관리자
+**적절 한 역할**: 조회 관리자
 
 조회의 **분석** 섹션 아래에 있는 **리드** 페이지를 통해 조회를 수행 하는 방법을 확인할 수 있습니다. 이러한 메트릭을 정기적으로 검토하여 주의가 필요한 추세 또는 영역을 파악하고, 비즈니스 목표를 달성하세요.
 
@@ -68,48 +66,48 @@ https://go.microsoft.com/fwlink/?linkid=849120
 ## <a name="leads-by-program"></a>프로그램별 잠재 고객
 
 이 테이블 및 차트 조합을 사용 하면 조회 프로그램 리더가 가장 많은 조회와 가장 높은 가치를 구동 하는 것을 확인할 수 있습니다.
-이 테이블에는 총 잠재 고객이 있고, SLA (24 시간)의 SLA (24 시간)에 대 한 승인 된 잠재 고객, 만료 된 잠재 고객 및 성공한 상태로 전환 된 잠재 고객은 모두 USD 통화로 전달 되는 총 잠재 고객 값과 함께 포함 됩니다. 또한 총 거래 횟수와 선택 된 프로그램을 기준으로 USD 통화에서 승리한 통화 값을 표시 하는 리드 추세 그래프가 있습니다. 기본적으로 모든 솔루션이 선택됩니다.
+테이블에는 총 잠재 고객, SLA에서 수락된 잠재 고객(24시간)(백분율 및 절대 조건 모두), 만료된 잠재 고객 및 획득 상태로 들어간 잠재 고객 및 총 잠재 고객 값(USD 통화)이 있습니다. 테이블 오른쪽에는 선택한 프로그램에 따라 총 거래 수와 거래 금액이 USD 통화로 표시되는 잠재 고객 추세 그래프도 있습니다. 기본적으로 모든 솔루션이 선택됩니다.
 
-:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="정규화 된 조회 프로그램의 성능을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="적격 조회 프로그램이 성능을 선도하는 것을 보여주는 이미지.":::
 
 ## <a name="declined--lost-reasons"></a>거절 및 실패 이유
 
-이 섹션은 잠재 고객이 회사에서 **거부** 또는 **분실** 된 것으로 표시 되는 이유를 분석 하는 데 도움이 됩니다. 이러한 표현의 옵션은 판매자가 거부 되거나 손실 된 잠재 고객을 닫는 동안 선택한 것과 동일한 이유입니다.
+이 섹션에서는 잠재 고객을 회사에서 **거부** 또는 **손실로** 표시하는 이유를 분석하는 데 도움이 됩니다. 이러한 표현의 옵션은 잠재 고객 닫는 동안 판매자가 거부 또는 손실로 선택한 것과 동일한 이유입니다.
 
-:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="잠재 고객을 거절 하거나이를 잃을 때 파트너가 선택한 이유를 보여 주는 이미지":::
+:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="잠재 고객 거부 또는 손실로 만들 때 파트너가 선택한 이유를 보여주는 이미지.":::
 
 ## <a name="comparison-charts"></a>비교 차트
 
-비교 섹션에서는 볼륨의 여러 차원과 USD pivot의 리드 승 값을 기준으로 잠재 고객과 관련 된 데이터를 비교 하는 데 도움이 됩니다.
+비교 섹션은 볼륨의 여러 차원과 USD 피벗의 잠재 고객 획득 값을 기반으로 잠재 고객 관련 데이터를 비교하는 데 도움이 됩니다.
 데이터를 비교할 때 선택할 수 있는 세 가지 요소는 다음과 같습니다.
 
-- 자격 유형
+- 한정 유형
 - 시장
-- 추천 프로그램
+- 조회 프로그램
 
-자격 유형을 선택 하는 경우 marketplace 리드 및 우량 리더와 관련 하 여의 조회 성능을 비교 하는 옵션이 있습니다. 시장 및 조회 프로그램 모두에 대해 최대 세 가지 옵션을 선택 하 여 성능을 비교할 수 있습니다. 가로 막대형 차트인 첫 번째 그래프에는 주 피벗(볼륨 또는 거래 금액)을 기준으로 전달 대비 추세를 보여주는 데이터가 포함됩니다. 가로 막대형 차트의 오른쪽에는 동일한 데이터의 백분율로 분포를 표시하는 원형 차트도 있습니다.
+자격 유형을 선택하면 의 추천 성과를 마켓플레이스 잠재 고객 및 적격 잠재 고객과 비교할 수 있습니다. 시장 및 추천 프로그램 모두에 대해 성능을 비교하기 위해 최대 세 가지 옵션을 선택할 수 있습니다. 가로 막대형 차트인 첫 번째 그래프에는 주 피벗(볼륨 또는 거래 금액)을 기준으로 전달 대비 추세를 보여주는 데이터가 포함됩니다. 가로 막대형 차트의 오른쪽에는 동일한 데이터의 백분율로 분포를 표시하는 원형 차트도 있습니다.
 
 :::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="비교 섹션을 보여주는 이미지":::
 
 ## <a name="raw-data-table"></a>원시 데이터 테이블
 
-아래 표에서는 잠재 고객과 관련 된 모든 원시 데이터를 사용 하 여 수행 하려는 상세 분석 또는 사용자 지정 분석을 위해 데이터를 신속 하 게 **내보낼** 수 있습니다.
+잠재 고객과 관련된 모든 원시 데이터가 있는 아래 표는 수행하려는 세부 또는 사용자 지정 분석을 위해 데이터를 신속하게 **내보내는** 데 도움이 됩니다.
 
-:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="잠재 고객에 대 한 원시 데이터 테이블을 보여 주는 이미지입니다.":::
+:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="잠재 고객에 대한 원시 데이터 테이블을 보여주는 이미지":::
 
 ## <a name="no-data"></a>데이터 없음
 
-아래에 설명 된 대로 잠재 고객 분석에 액세스할 때 아래와 같은 빈 차트를 가져오는 여러 가지 이유가 있을 수 있습니다.
+아래 설명된 대로 잠재 고객 분석에 액세스할 때 아래와 같은 빈 차트를 얻는 데는 여러 가지 이유가 있을 수 있습니다.
 
 - 이 계정에 대한 데이터가 없습니다. 거래를 만들어서 이 보고서를 채워 보세요.
 - 네트워크 연결 문제가 있습니다. 인터넷 연결을 확인하고 다시 시도하세요.
 - 적용한 필터와 일치하는 레코드가 없습니다. 필터를 다시 설정해 보세요.
-- 분석 보고서에서 잠재 고객 상태 변경 내용과 동일 하 게 업데이트 되는 지연 시간이 있습니다. 24시간 후에 보고서를 확인하세요.
+- 잠재 고객 상태 변경과 분석 보고서에서 동일한 내용이 업데이트되는 사이에 지연이 있습니다. 24시간 후에 보고서를 확인하세요.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="잠재 고객에 대 한 데이터 시각화를 표시 하지 않는 이미지입니다.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="잠재 고객에 대한 데이터 시각화를 표시하지 않는 이미지":::
 
 > [!TIP]
-> 공동 판매 기회가 어떻게 수행 되는지 확인 하려면 [공동 판매 기회 통찰력 페이지](referral-insights.md)를 검토 합니다.
+> 공동 판매 기회가 어떻게 수행되는지 확인하려면 [공동 판매 기회 인사이트 페이지를 검토하세요.](referral-insights.md)
 
 ## <a name="next-steps"></a>다음 단계
 

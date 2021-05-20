@@ -1,49 +1,46 @@
 ---
-title: 고급 특수화에 적용
+title: 고급 전문 분야에 적용
 ms.topic: how-to
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 파트너 센터를 사용 하 여 고급 특수화를 적용 하 고 획득 하는 방법을 알아봅니다.
+description: Microsoft 파트너 디렉터리에서 비즈니스 프로필을 강화합니다. 파트너 센터 사용하여 고급 전문 분야를 신청하고 획득하는 방법을 알아봅니다.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557786"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150508"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>파트너 센터를 사용 하 여 고급 특수화에 적용 하 고 해당 상태를 확인 합니다.
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>파트너 센터 사용하여 고급 전문화를 신청하고 해당 상태 확인
 
-**적절한 역할**
+**적절한 역할:** 전역 관리자 | 계정 관리자
 
-- 글로벌 관리자
-- 계정 관리자
+이 문서에서는 파트너 센터 대시보드를 사용하여 [고급 전문화를](advanced-specializations.md)적용하고, 진행 상황을 확인하고, 필요한 단계 및 유효성 검사를 완료하는 방법을 설명합니다. 파트너 센터 사용하여 감사 또는 고객 참조가 필요한 특정 고급 전문 분야를 획득하는 예제도 확인할 수 있습니다.
 
-이 문서에서는 파트너 센터 대시보드를 사용 하 여 [고급 특수화](advanced-specializations.md)에 적용 하 고, 진행 상황을 확인 하 고, 필요한 단계 및 유효성 검사를 완료 하는 방법을 설명 합니다. 또한 파트너 센터를 사용 하 여 감사 또는 고객 참조가 필요한 특정 고급 특수화를 사용 하는 예를 확인할 수 있습니다.
+고급 전문화의 이점 및 특정 요구 사항에 대한 자세한 내용은 [Microsoft 파트너 네트워크 고급 전문화를 참조하세요.](https://partner.microsoft.com/membership/advanced-specialization)
 
-고급 특수화 및 특정 요구 사항의 이점에 대 한 자세한 내용은 [고급 특수화 Microsoft 파트너 네트워크](https://partner.microsoft.com/membership/advanced-specialization)를 참조 하세요.
+## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>파트너 센터 사용하여 고급 전문화를 신청하거나 해당 상태 확인
 
-## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>파트너 센터를 사용 하 여 고급 특수화에 적용 하거나 해당 상태를 확인 합니다.
+고급 전문 분야를 갖추려면 먼저 관련 영역의 골드 [역량과](https://partner.microsoft.com/membership/competencies) 같은 특정 필수 구성을 충족해야 합니다. 그런 다음 파트너 센터 적용하고 해당 고급 전문화에 대한 주요 단계, 요구 사항 및 Microsoft 유효성 검사를 완료해야 합니다.
 
-고급 특수화를 위해 먼저 관련 된 영역에서 골드 [역량](https://partner.microsoft.com/membership/competencies) 과 같은 특정 필수 구성 요소를 충족 해야 합니다. 그런 다음 파트너 센터에서 적용 하 고 해당 고급 특수화에 대해 핵심 단계, 요구 사항 및 Microsoft 유효성 검사를 완료 해야 합니다.
+대부분의 프로세스는 파트너 센터 대시보드 내에서 사용할 수 있습니다. 그러나 특정 파트너 센터 [역할이](permissions-overview.md) 있는 사용자만 이 파트너 센터 영역에 액세스할 수 있습니다.
 
-파트너 센터 대시보드 내에서 많은 프로세스를 사용할 수 있습니다. 그러나 특정 파트너 센터 [역할](permissions-overview.md) 의 사용자만이 파트너 센터 영역에 액세스할 수 있습니다.
+이 영역에 액세스하려면 조직의 Microsoft 파트너 계정에 대한 **MPN 계정 관리자** 또는 **전역 관리자의** 역할을 부여받아야 합니다.
 
-이 영역에 액세스 하려면 조직의 Microsoft 파트너 계정에 대 한 **MPN 계정 관리자** 또는 **전역 관리자** 의 역할을 부여 받아야 합니다.
-
-### <a name="follow-these-steps-to-access-this-area"></a>이 영역에 액세스 하려면 다음 단계를 따르세요.
+### <a name="follow-these-steps-to-access-this-area"></a>이 영역에 액세스하려면 다음 단계를 수행합니다.
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard/home)에 로그인합니다.
 
-2. 파트너 센터 메뉴의 **MPN** 섹션을 선택 하 고 그 뒤에 **고급** 를 선택 합니다. 메뉴를 확장 하 여 사용할 수 있는 모든 고급 특수화를 표시 합니다.
+2. 파트너 센터 메뉴의 **MPN** 섹션과 **Adv. 전문화** 를 선택합니다. 메뉴가 확장되면서 사용 가능한 모든 고급 특수화가 표시됩니다.
 
-3. 세부 정보를 보려면 고급 특수화의 이름을 선택 합니다. 특정 요구 사항 및 단계, 현재 상태 및 추가 단계 또는 리소스에 대 한 링크가 표시 됩니다.
+3. 세부 정보를 보려면 고급 특수화의 이름을 선택합니다. 특정 요구 사항 및 단계, 현재 상태 및 추가 단계 또는 리소스에 대한 링크가 표시됩니다.
 
-   파트너 센터의이 영역으로 돌아와서 고급 특수화를 위한 현재 상태를 확인할 수 있습니다.
+   이 파트너 센터 영역으로 돌아가서 고급 전문화를 얻기 위한 현재 상태를 확인할 수 있습니다.
 
 4. 고급 특수화에 대 한 모든 요구 사항을 완료 한 후에는 파트너 센터의이 영역을 다시 확인 하 여 특정 고급 특수화에 대해 상태가 **활성** 으로 변경 되었는지 확인 합니다.
 

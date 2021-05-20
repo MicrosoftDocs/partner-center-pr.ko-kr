@@ -1,47 +1,42 @@
 ---
-title: 청구-라이선스 기반 SaaS 트랜잭션
+title: 청구 - 라이선스 기반 SaaS 트랜잭션
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 라이선스 기반 SaaS (software as a service) 트랜잭션에 대 한 파트너 센터의 일반적인 청구 시나리오에 대해 알아봅니다.
+description: 라이선스 기반 SaaS(Software-as-a-Service) 트랜잭션에 대한 파트너 센터 일반적인 청구 시나리오에 대해 알아봅니다.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502466"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148638"
 ---
-# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>파트너 센터의 라이선스 기반 SaaS 트랜잭션에 대 한 일반적인 청구 시나리오
+# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>파트너 센터 라이선스 기반 SaaS 트랜잭션에 대한 일반적인 청구 시나리오
 
-**적절한 역할**
-
-- 관리 에이전트
-- 청구 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
+**적절한 역할:** 관리 에이전트 | 청구 관리자 | Helpdesk 에이전트 | 판매 에이전트
 
 
-이러한 예제 [일반적인 청구 시나리오](common-billing-scenarios.md) 는 파트너 센터의 라이선스 기반 SaaS (software as a service) 구독에 적용 됩니다.
+이러한 일반적인 [청구 시나리오](common-billing-scenarios.md) 예제는 파트너 센터 라이선스 기반 SaaS(Software as a Service) 구독에 적용할 수 있습니다.
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>무료 평가판 SaaS 구독을 유료 구독으로 변환
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>평가판 SaaS 구독을 유료 구독으로 변환
 
-이 시나리오에서는 라이선스 기반 무료 평가판 SaaS 구독의 갱신에 대 한 요금 청구를 설명 합니다. 갱신은 무료 평가판 기간이 끝날 때 무료 평가판을 유료 구독으로 변환 합니다.
+이 시나리오에서는 라이선스 기반 평가판 SaaS 구독 갱신에 대한 청구를 설명합니다. 갱신은 평가판 기간이 끝나면 평가판을 유료 구독으로 변환합니다.
 
-이 예에서는 6 월 10 일에 라이선스 기반 SaaS (software as a service) 구독의 무료 평가판을 구매 했습니다. 이 무료 평가판은 무료 평가판 기간이 종료 되 면 유료 구독으로 자동 갱신 됩니다.
+이 예제에서는 6월 10일에 라이선스 기반 SaaS(Software as a Service) 구독의 평가판을 구입했습니다. 이 무료 평가판은 평가판 기간이 종료될 때 유료 구독으로 자동으로 갱신됩니다.
 
-정찰 파일에는 다음 요금이 포함 됩니다.
+정찰 파일에는 다음 요금이 포함됩니다.
 
-| 구매 날짜 | 요금 청구 시작 날짜 | 청구 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 요금 유형 | 구독 설명 |
+| 구매 날짜 | 요금 시작 날짜 | 요금 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 요금 유형 | 구독 설명 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 1 | $0 | 새로 생성 | 평가판 |
 | 07/10/2019 | 07/10/2019 | 2019년 8월 9일 | $2 | 1 | $2 | 갱신 | 유료 구독 |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>무료 평가판 SaaS 구독 취소
+## <a name="cancel-a-free-trial-saas-subscription"></a>평가판 SaaS 구독 취소
 
 > [!TIP]
 > 무료 평가 기간 동안에도 언제 든 지 라이선스 기반 무료 평가판 SaaS 구독을 취소할 수 있습니다.
@@ -65,8 +60,8 @@ ms.locfileid: "106502466"
 
 | 구매 날짜 | SKU | 요금 청구 시작 날짜 | 청구 종료 날짜 | 단가 | 단위 수량 | 총 금액 | 요금 유형 | 구독 설명 |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | $20 | 새로 생성 | 사용자 지정 측정기 SaaS 구독 |
-| 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 변환 | 사용자 지정 측정기 SaaS 구독의 비례 재조정 |
+| 2019/06/10 | 은 | 2019/06/10 | 2019/06/10 | $20 | 1 | $20 | 새로 생성 | 사용자 지정 측정기 SaaS 구독 |
+| 2019/06/10 | 은 | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 변환 | 사용자 지정 측정기 SaaS 구독의 비례 재조정 |
 | 2019/06/10 | 동 | 2019/06/10 | 2019/06/10 | $10 | 1 | $10 | 변환 | 사용자 지정 측정기 SaaS 구독 |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>동일한 날짜에 고객 측정기 SaaS 구독 구매 및 취소

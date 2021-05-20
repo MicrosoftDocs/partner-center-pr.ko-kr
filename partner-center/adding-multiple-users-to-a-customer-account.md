@@ -9,19 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f1d6e2a59bd892b7b79a1e3aa532242cdd0e302
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 268cc9cb42bc72a444da6aec99425c2b29b71cb4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474192"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150474"
 ---
 # <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>고객의 계정에 사용자의 .csv 파일 업로드
 
 
-**적절한 역할**
-
-- 글로벌 관리자
+**적절한 역할**: 전역 관리자
 
 쉼표로 구분 된 값 파일 형식 (.csv)의 데이터 파일을 파트너 센터에 업로드 하 여 한 번에 여러 사용자를 고객 계정에 추가 합니다. 
 

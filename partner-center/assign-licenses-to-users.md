@@ -1,38 +1,34 @@
 ---
-title: 고객 계정에 대 한 사용자 관리
+title: 고객 계정에 대한 사용자 관리
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 파트너 센터에서 고객의 사용자 관리-사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거 하 고, 암호를 다시 설정 하 고, 사용자 계정을 삭제 하거나 복원 합니다.
+description: 파트너 센터 고객에 대한 사용자 관리 - 사용자 계정을 만들고, 사용자 라이선스를 추가 또는 제거하고, 암호를 재설정하고, 사용자 계정을 삭제하거나 복원합니다.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756079"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149896"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>고객 계정에 대 한 사용자 및 사용자 라이선스 관리 
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>고객 계정에 대한 사용자 및 사용자 라이선스 관리 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
+**적절한 역할:** 전역 관리자 | 사용자 관리 관리자 | 관리 에이전트
 
 
-고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다. 삭제 후 30 일 이내에 이전에 삭제 한 사용자 계정을 하나 이상 복원할 수도 있습니다. 사용자의 이전 구독 할당도 복원 됩니다 (이전 할당을 사용할 수 있는 것으로 가정).
+고객의 계정에서 새 사용자를 만들고 삭제할 수 있습니다. 삭제 후 30일 이내에 이전에 삭제한 사용자 계정을 하나 이상 복원할 수도 있습니다. 사용자의 이전 구독 할당도 복원됩니다(이전 할당을 사용할 수 있다고 가정).
 
-고객에 대 한 새 구독을 구입 하는 경우 고객은 계정, 해당 사용자 권한 및 각 사용자가 요구 하는 서비스를 필요로 하는 모든 사용자의 목록을 제공 해야 합니다.  
+고객에 대한 새 구독을 구입하는 경우 고객은 계정이 필요한 모든 사용자 목록, 사용자 권한 및 각 사용자에게 필요한 서비스를 제공해야 합니다.  
 
 >[!NOTE]
->**고객** 탭의 **사용자 및 라이선스** 섹션에는 다른 CSP 파트너 또는 다른 구매 채널에서 구입한 라이선스를 보유 한 사용자를 포함 하 여 특정 고객의 테 넌 트에 만들어진 모든 사용자가 표시 됩니다.
+>**고객** 탭의 **사용자 및 라이선스** 섹션에는 다른 CSP 파트너 또는 다른 구매 채널에서 구매한 라이선스가 있는 사용자를 포함하여 특정 고객의 테넌트에서 만든 모든 사용자가 표시됩니다.
 
-[Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)을 사용 하 여 [여러 사용자에 게 한 번에 여러 사용자에 게 구독을 할당할](bulk-license-provisioning-for-multiple-users.md) 수 있습니다.
+[Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)를 사용하여 이름을 가져와서 한 번에 여러 사용자에게 [구독을 할당할](bulk-license-provisioning-for-multiple-users.md) 수 있습니다.
 
 <a href="" id="createuseraccounts"></a>
 
@@ -42,31 +38,31 @@ ms.locfileid: "101756079"
 
 2. 파트너 센터 메뉴에서 **고객** 을 선택한 다음, 목록에서 고객을 선택합니다.
 
-3. 고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다.
+3. 고객 메뉴에서 사용자 **및 라이선스를 선택합니다.**
 
-4. 추가 하는 각 사용자에 대해 **구독 추가** 를 선택 하 고 사용 권한 및 라이선스를 포함 한 정보를 입력 합니다. 변경 내용을 **저장** 합니다.
+4. 추가하는 각 사용자에 대해 **구독 추가를** 선택한 다음, 사용 권한 및 라이선스를 포함한 정보를 입력합니다. 변경 내용을 **저장** 합니다.
 
-5. 사용자에 게 보낼 사용자 이름 및 임시 암호를 기록해 두어야 합니다.
+5. 사용자에게 보낼 사용자 이름과 임시 암호를 기록해야 합니다.
 
-6. 한 번에 여러 사용자를 추가 하는 경우 **다른 사용자 추가** 를 사용 합니다.
+6. 여러 사용자를 한 번에 하나씩 추가하는 경우 **다른 사용자 추가** 를 사용합니다.
 
-7. [Excel 호환 .csv 스프레드시트 파일을 가져오면](adding-multiple-users-to-a-customer-account.md)여러 사용자를 한 번에 추가할 수도 있습니다. 전자 메일을 보내거나 확인 화면에서 이름 및 암호를 인쇄 하기 전에 전체 설정이 완료 될 때까지 기다릴 수 있습니다.
+7. [Excel 호환 .csv 스프레드시트 파일](adding-multiple-users-to-a-customer-account.md)를 가져와서 한 번에 여러 사용자를 추가할 수도 있습니다. 확인 화면에서 이름과 암호를 전자 메일로 보내거나 인쇄하기 전에 전체 집합을 완료할 때까지 기다릴 수 있습니다.
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a>고객에 대 한 사용자 라이선스 추가 또는 제거
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>고객에 대한 사용자 라이선스 추가 또는 제거
 
-다음 단계는 Microsoft 제품에 대 한 사용자 라이선스를 추가 하거나 제거 하는 경우에 적용 됩니다. 상업적 marketplace에서 라이선스 기반 SaaS 구독의 사용자 라이선스를 추가 하거나 제거 하려면 [SaaS 구독에 대 한 라이선스 추가 또는 제거](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)를 참조 하세요.
+다음 단계는 Microsoft 제품에 대한 사용자 라이선스를 추가하거나 제거하는 데 적용됩니다. 상업용 Marketplace에서 라이선스 기반 SaaS 구독에 대한 사용자 라이선스를 추가하거나 제거하려면 [SaaS 구독에 대한 라이선스 추가 또는 제거를](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)참조하세요.
 
 1. 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
 2. 파트너 센터 메뉴에서 **고객** 을 선택한 다음, 목록에서 고객을 선택합니다.
 
-3. 고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다.
+3. 고객 메뉴에서 **사용자 및 라이선스** 를 선택 합니다.
 
-4. 목록에서 하나 이상의 사용자를 선택 합니다. 예를 들어 고객이 새 라이선스를 구매 했 고 아직 없는 사용자에 게 해당 라이선스를 할당 하려는 경우 **사용자 필터** ... 옵션을 사용 하 여 올바른 그룹을 찾을 수 있습니다.
+4. 목록에서 한 명 이상의 사용자를 선택합니다. 예를 들어 고객이 새 라이선스를 구매 했 고 아직 없는 사용자에 게 해당 라이선스를 할당 하려는 경우 **사용자 필터** ... 옵션을 사용 하 여 올바른 그룹을 찾을 수 있습니다.
 
-5. **라이선스 관리** 를 선택 합니다. 변경한 후 **저장** 을 클릭 합니다.
+5. **라이선스 관리** 를 선택합니다. 변경한 후 **저장** 을 클릭 합니다.
 
 > [!NOTE]
 > 제품을 게시 한 ISV (독립 소프트웨어 공급 업체)를 통해 라이선스 할당 및 활성화를 관리 하는 [Azure Marketplace 제품](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)입니다.
@@ -79,7 +75,7 @@ ms.locfileid: "101756079"
 
 2. 파트너 센터 메뉴에서 **고객** 을 선택한 다음, 목록에서 고객을 선택합니다.
 
-3. 고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다. 목록에서 사용자를 선택합니다.
+3. 고객 메뉴에서 **사용자 및 라이선스** 를 선택 합니다. 목록에서 사용자를 선택합니다.
 
 4. 화면 아래쪽에서 **암호 재설정** 을 선택 합니다. 
 
@@ -91,7 +87,7 @@ ms.locfileid: "101756079"
 
 1. **파트너 센터** 메뉴에서 **고객** 을 선택 합니다. 목록에서 고객을 선택합니다.
 
-2. 고객 메뉴에서 **사용자 및 라이선스** 를 선택합니다. 목록에서 사용자를 선택합니다.
+2. 고객 메뉴에서 **사용자 및 라이선스** 를 선택 합니다. 목록에서 사용자를 선택합니다.
 
 3. 화면 맨 아래에서 **사용자 계정 삭제** 를 선택합니다.
 

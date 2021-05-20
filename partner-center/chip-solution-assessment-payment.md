@@ -2,45 +2,43 @@
 title: 솔루션 평가 지불 상태
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 채널 성과급 플랫폼 (칩)을 사용 하 여 솔루션 평가 기회, 해당 계산 및 지불 상태에 대 한 정보를 찾을 수 있습니다.
+description: CHIP(채널 인센티브 플랫폼)을 사용하여 솔루션 평가 기회, 해당 계산 및 지불 상태에 대한 정보를 찾을 수 있습니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354409"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148876"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>솔루션 평가 지불 상태 및 계산 정보
 
-**적절한 역할**
+**적절한 역할:** 기본 연락처 또는 프로그램 관리자
 
-- 기본 연락처 또는 프로그램 관리자
+CHIP에서 솔루션 평가 기회 상태의 지불 상태를 검토할 수 있습니다.
 
-칩에서 솔루션 평가 기회 상태의 지불 상태를 검토할 수 있습니다.
+## <a name="how-to-review-your-payment-status"></a>결제 상태를 검토하는 방법
 
-## <a name="how-to-review-your-payment-status"></a>지불 상태를 검토 하는 방법
-
-1. 칩을 열고 Microsoft 계정 (이전 Live ID)으로 로그인 합니다.
-2. **기회 id** 필드에 기회의 id 번호를 입력 하거나 붙여 넣습니다.
+1. CHIP을 열고 Microsoft 계정(이전 라이브 ID)으로 로그인합니다.
+2. 기회 ID 필드에 **기회의** ID 번호를 입력하거나 붙여넣습니다.
 3. **검색** 을 클릭합니다.
-4. 기회 이름을 선택 하 여 기회 세부 정보를 확인 합니다.
-5. 지불 요청이 생성 되었는지 확인 하려면 **지불 요청** 섹션을 확인 하세요.
-6. 기회의 상태를 검토 합니다.
+4. 기회 이름을 선택하여 기회 세부 정보를 확인합니다.
+5. 결제 **요청 섹션을** 확인하여 결제 요청이 만들어졌는지 확인합니다.
+6. 기회의 상태를 검토합니다.
 
-    - 지불 요청을 만들지 않은 경우 기회가 자격 기준을 충족 하는지 확인 하 여 솔루션 평가 동기를 획득 합니다. [솔루션 평가](chip-solution-assessment.md)에서 자격 조건을 확인 하는 방법에 대 한 자세한 정보를 찾을 수 있습니다.
-    - 지불 요청이 만들어지면 7 단계로 이동 합니다.
-7. 지불 요청의 상태를 확인 합니다.
+    - 결제 요청이 생성되지 않은 경우 솔루션 평가 인센티브 획득을 위한 자격 기준을 충족하는지 확인합니다. [솔루션 평가](chip-solution-assessment.md)에서 자격 조건을 확인하는 자세한 내용을 확인할 수 있습니다.
+    - 결제 요청이 만들어지면 7단계로 진행합니다.
+7. 결제 요청의 상태를 확인합니다.
 
-    - 지불 검토 보류 중: 추가 조사를 위해 채널 성과급 팀에 게 문의 하세요. 아래에 나열 된 연락처 정보입니다.
-    - 지불 승인 됨: 지불 요청을 만든 칩에서의 참여 완전성을 다음 EM 인증 후에 Microsoft에서 35 일 이내에 Microsoft에 의해 렌더링 됩니다.
-    -  지불 전송: 결제 릴리스 정보를 보려면 상태 하이퍼링크를 클릭 합니다.
-    - 지불 취소 됨: 상태 하이퍼링크를 클릭 하 여 거부 이유를 확인 합니다. 자세한 내용은 채널 성과급 팀에 문의 하세요.
+    - 보류 중인 결제 검토: 추가 조사를 위해 채널 인센티브 팀에 문의하세요. 연락처 세부 정보는 아래에 나열되어 있습니다.
+    - 결제 승인: 결제 요청이 만들어진 CHIP의 Engagement 완료에 대한 EM 인증에 따라 월말로부터 35일 이내에 Microsoft에서 결제가 렌더링됩니다.
+    -  결제 전송: 상태 하이퍼링크를 클릭하여 결제 릴리스 세부 정보를 확인합니다.
+    - 결제 취소됨: 상태 하이퍼링크를 클릭하여 거부 이유를 확인합니다. 자세한 내용은 채널 인센티브 팀에 문의하세요.
 
 ## <a name="calculations-for-solutions-assessment"></a>솔루션 평가 계산
 
