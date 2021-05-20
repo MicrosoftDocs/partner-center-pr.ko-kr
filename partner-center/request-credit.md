@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855559"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152956"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft에서 SLA(서비스 수준 계약) 크레딧을 요청하는 방법 및 시기
 
@@ -34,7 +34,7 @@ Microsoft의 SLA 크레딧은 영향을 받은 서비스에 따라 결정됩니�
 *CSP(클라우드 솔루션 공급자) 파트너는 인시던트 발생 월 이후 월말까지 클레임 및 모든 필수 정보를 제출해야 합니다.* 예를 들어 2월 15일에 인시던트 발생 시 Microsoft는 3월 31일까지 클레임 및 모든 필수 정보를 받아야 합니다. 최종 고객 및 간접 대리점은 SLA 크레딧 클레임을 제출할 수 없습니다. 간접 공급자 또는 직접 청구 파트너는 대신 클레임을 제출해야 합니다.
 
 >[!NOTE]
->권고 인시던트(Microsoft 365[서비스 상태를 확인하는 방법)는](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)SLA 크레딧을 받을 수 없습니다.
+>권고 인시던트(Microsoft 365[서비스 상태를 확인하는 방법)는](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)SLA 크레딧을 받을 수 없습니다.
 
 ### <a name="required-information"></a>필요한 정보
 
@@ -80,7 +80,7 @@ Microsoft 365 관리 센터의 **Service Health** 페이지에서 중단 인시�
 3. 파트너 **요청** 페이지에서 **새 요청** 를 선택합니다.
 4. 요청 **시작** 페이지에서 **CSP - 고객, 주문 및 구독 섹션을 찾습니다.** 이 **섹션에서는 문제 유형 선택을 선택한** **다음, 고객 서비스 크레딧 요청을 선택합니다.**
 5. 권장 **솔루션** 페이지의 도움이 **더 필요하세요?** 아래에서 **예를** 선택합니다.
-6. 세부 **정보** 페이지에서 문제 **세부 정보** 섹션을 작성합니다. 세부 **정보** 텍스트 상자에 이전에 수집한 [필수 정보를](#required-information) 입력해야 합니다.
+6. 세부 **정보** 페이지에서 문제 **세부 정보** 섹션을 입력합니다. 세부 **정보** 텍스트 상자에 이전에 수집한 [필수 정보를](#required-information) 입력해야 합니다.
 7. **제출을** 선택하여 SLA 크레딧 요청을 보냅니다.
 
 ## <a name="next-steps"></a>다음 단계

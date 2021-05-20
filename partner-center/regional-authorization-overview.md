@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855780"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153007"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>클라우드 솔루션 공급자 CSP 제안을 판매할 수 있는 지역 시장 및 통화 프로그램
 
-**적절한 역할:** 전역 관리자
+**적절한 역할**: 전역 관리자
 
 회사의 위치에 따라 시장이 결정됩니다. 시장에는 CSP(클라우드 솔루션 공급자) 프로그램 제안을 판매할 수 있는 지역 및/또는 국가가 포함됩니다.
 
@@ -31,7 +31,7 @@ ms.locfileid: "109855780"
 CSP용 Azure 플랜은 Azure Software for CSP보다 적은 지역에서 사용할 수 있습니다. Azure 플랜의 지역별 가용성에 대한 최신 업데이트는 [Azure 플랜 구매를 참조하세요.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> 고객이 서명한 사용자에 대한 정보를 제공하여 Microsoft 고객 계약 수락했는지 확인해야 합니다. 자세한 내용은 [고객의 Microsoft 고객 계약 동의 확인](confirm-consent.md)을 참조하세요.
+> 고객이 서명한 사용자에 대한 정보를 제공하여 Microsoft 고객 계약 수락했는지 확인해야 합니다. 자세한 내용은 [고객의 Microsoft 고객 계약 동의 확인](./confirm-customer-agreement.md)을 참조하세요.
 
 CSP 제안을 판매할 수 있는 위치를 확인하려면 아래 목록 중 하나에서 회사의 위치를 찾습니다. 판매하려는 위치에 대한 MPN(활성 Microsoft 파트너 네트워크) ID가 있어야 합니다.  
 
@@ -42,7 +42,7 @@ CSP 제안을 판매할 수 있는 위치를 확인하려면 아래 목록 중 �
 
 - 직접 청구 파트너는 URL을 https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 사용합니다. **partnertenantguid를** 테넌트 ID로 대체합니다. 
 
-- 간접 대리점의 URL은 https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 입니다. **Irtenantguid** 를 테 넌 트 ID로 바꿉니다. **IRMPNID** 을 MPN ID로 바꾸고, **iptenantguid** 를 간접 공급자 테 넌 트 ID로 바꿉니다.
+- 간접 대리점의 URL은 https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 입니다. **IRtenantguid를** 테넌트 ID로 대체합니다. **IRMPNID** 을 MPN ID로 바꾸고, **iptenantguid** 를 간접 공급자 테 넌 트 ID로 바꿉니다.
 
 ## <a name="africa-region-and-market"></a>아프리카 지역 및 시장
 
@@ -255,7 +255,7 @@ CSP 제안을 판매할 수 있는 위치를 확인하려면 아래 목록 중 �
 |  한국|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>라틴 아메리카 및 지방 지역 및 시장
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>라틴 아메리카 및 카리브 해 지역 및 시장
 
 회사의 위치가 아래 목록에 있는 경우 목록의 모든 위치에 있는 고객에게 CSP 제안을 판매할 수 있습니다.
 
@@ -300,11 +300,11 @@ CSP 제안을 판매할 수 있는 위치를 확인하려면 아래 목록 중 �
 |  페루           |   USD    |
 |  푸에르토리코    |   USD    |
 |  사바           |   USD    |
-|  세인트 바르텔레미|  USD    |
+|  생바르텔레미|  USD    |
 |  세인트키츠 네비스|    |
 |  세인트루시아    |   USD    |
 |  생마르탱   |   USD    |
-|  세인트빈센트그레나딘| USD |
+|  세인트 빈센트 그레나딘| USD |
 |  신트외스타티위스 |   USD    |
 |  신트마르턴   |   USD    |
 |  사우스 조지아 및 사우스 샌드위치 제도| USD|
@@ -356,8 +356,8 @@ CSP 제안을 판매할 수 있는 위치를 확인하려면 아래 목록 중 �
 |  카타르          |   USD    |
 |  사우디아라비아   |   USD    |
 |  세르비아         |   USD    |
-|  남아프리카 공화국   |   USD    |
-|  스와질랜드      |   USD    |
+|  남아프리카   |   USD    |
+|  스와질란드      |   USD    |
 |  타지키스탄     |   USD    |
 |  튀니지        |   USD    |
 |  터키         |   USD    |

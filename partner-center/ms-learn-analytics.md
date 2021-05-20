@@ -9,19 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132318"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152633"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn 분석 보고서는 회사의 학습자 상태를 표시합니다.
 
-**적절한 역할**
-
-- 글로벌 관리자
-- MPN 파트너 관리자
+**적절 한 역할**: 전역 관리자 | MPN 파트너 관리자
 
 Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 여 회사의 학습자에 대 한 정보를 제공 합니다. 보고서는 각 개별 학습자의 상태를 표시 합니다. 회사의 전역 관리자와 MPN 관리자는 데이터를 볼 수 있습니다.
 
@@ -48,35 +45,35 @@ Microsoft Learn 보고서는 완료 된 모듈과 학습 경로를 포함 하 �
 
 ### <a name="trained-individuals-monthly-trend"></a>학습 된 개인의 월간 추세
 
-이 데이터는 해당 월에 처음으로 모듈을 완료 한 회사 사용자의 추세입니다. 
+이 데이터는 해당 월에 처음으로 모듈을 완료한 회사 사용자의 추세입니다. 
 
-선택한 시간 필터에 대 한 **X 축** 이 월입니다. 
+**X축은** 선택한 시간 필터의 월입니다. 
 
-**Y 축은** 해당 월에 등록 된 (모듈의 첫 번째 완료)를 등록 한 활성 학습자의 수입니다. 이는 누적 되지 않습니다.
+**Y축은** 해당 월 동안 등록(모듈의 첫 번째 완료)한 활성 학습자의 수입니다. 이는 누적되지 않습니다.
 
 ### <a name="module-completions-monthly-trend"></a>모듈 완성 월별 추세
 
-이 데이터는 해당 월에 모든 회사 사용자가 완료 한 모듈의 추세입니다. (누적 안 함) 
+이 데이터는 해당 월 동안 모든 회사 사용자가 완료한 모듈의 추세입니다. (누적되지 않음) 
 
-선택한 시간 필터에 대 한 **X 축** 이 월입니다. 
+**X축은** 선택한 시간 필터의 월입니다. 
 
-**Y 축은** 해당 월 동안의 모듈 완성 개수입니다. 이는 누적 되지 않습니다.
+**Y축은** 해당 월 동안의 모듈 완성 횟수입니다. 이는 누적되지 않습니다.
 
-### <a name="learning-path-completions-monthly-trend"></a>학습 경로 완료 월별 추세
+### <a name="learning-path-completions-monthly-trend"></a>학습 경로 완성 월별 추세
 
-이 데이터는 해당 월에 회사 사용자가 완료 한 학습 경로의 추세입니다. (누적 안 함) 
+이 데이터는 해당 월 동안 회사 사용자가 완료한 학습 경로의 추세입니다. (누적되지 않음) 
 
-선택한 시간 필터에 대 한 **X 축** 이 월입니다. 
+**X축은** 선택한 시간 필터의 월입니다. 
 
-**Y 축은** 해당 월의 모듈 완성 개수입니다. 이는 누적 되지 않습니다.
+**Y축은** 해당 월의 모듈 완성 횟수입니다. 이는 누적되지 않습니다.
 
-### <a name="learning-path-completion-tabs"></a>학습 경로 완료 탭 
+### <a name="learning-path-completion-tabs"></a>학습 경로 완성 탭 
 
 **모듈 탭**
 
-이 탭에는 회사에서 4 개의 상위 모듈 이름으로 완료 된 모듈의 분석이 포함 되어 있습니다. 모듈이 연결 된 제품입니다. 그리고 모듈과 관련 된 사용자 역할을 사용 합니다.  
+이 탭에는 상위 5개 모듈 이름으로 회사에서 완료된 모듈에 대한 분석이 포함됩니다. 모듈이 연결된 제품입니다. 및 사용자 역할은 모듈과 관련이 있습니다.  
 
-- 모듈 완성 도넛형 차트: 모듈 이름에 따라 모듈 완성 (요약 섹션에 표시 되는 개수)을 분석 합니다.
+- 모듈 완성 도넛형 차트: 모듈 이름별 모듈 완성(요약 섹션에 표시된 개수)의 분석입니다.
 
 차트의 가운데에 표시 되는 숫자는 완료 된 모듈의 합계입니다.
 

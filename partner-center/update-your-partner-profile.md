@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818612"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153058"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>회사 프로필 정보 확인 또는 업데이트 
 
@@ -98,9 +98,8 @@ CSP 계정과 연결된 MPN ID를 업데이트하려면 다음을 수행합니�
 |청구지 주소|CSP 청구서에 표시되는 청구지 주소입니다. [청구 프로필](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)에서 업데이트할 수 있습니다.|
 |청구지 연락처|CSP 계정에 대한 청구 연락처 세부 정보(이름, 성, 기본 번호)입니다.  [청구 프로필](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)에서 업데이트할 수 있습니다.|
 |PO 번호|파트너 청구서에 표시되는 구매 주문 번호입니다.  [청구 프로필](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)에서 업데이트할 수 있습니다.|
-|회사 세금 ID|일부 국가의 기업은 [VAT(부가가치세) 번호 또는 지역의 해당 번호](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)를 제공할 수 있습니다. 세금/VAT ID를 업데이트하려면 전역 관리자, 대금 청구 관리자 또는 관리 에이전트여야 합니다.|
+|회사 세금 ID|일부 국가의 기업은 [VAT(부가가치세) 번호 또는 지역의 해당 번호](./organization-tax-info.md)를 제공할 수 있습니다. 세금/VAT ID를 업데이트하려면 전역 관리자, 대금 청구 관리자 또는 관리 에이전트여야 합니다.|
 |청구 통화|CSP 계정의 청구 통화는 CSP 계정의 법적 국가에 따라 결정됩니다.  CSP 계정을 만든 후에는 변경할 수 없습니다.|
-
 
 ## <a name="next-steps"></a>다음 단계
 

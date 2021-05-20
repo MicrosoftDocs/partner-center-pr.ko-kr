@@ -1,7 +1,7 @@
 ---
 title: 사용자 - 라이선스 관리
 titleSuffix: Microsoft Cloud Germany - Partner Center
-description: 암호 재설정뿐만 아니라 Microsoft 클라우드 독일 파트너, 고객 및 라이선스에 대한 파트너 센터 관리하는 방법과 위치를 알아봅니다.
+description: 암호 재설정뿐만 아니라 Microsoft Cloud Germany 파트너, 고객 및 라이선스에 대한 파트너 센터 관리하는 방법 및 위치를 알아봅니다.
 ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,25 +10,25 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: bca5c5ff58ae222d06ac0de5f4aebde13cd87b0c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794975"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153024"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft 클라우드 독일 파트너 센터에서 사용자 및 라이선스 관리
 
-**적용된 내용:** 파트너 센터 | Microsoft 클라우드 독일용 파트너 센터
+**적용:** Microsoft 클라우드 독일용 파트너 센터
 
 **적절한 역할:** 전역 관리자 | 계정 관리자
 
 > [!IMPORTANT]
-> 고객의 요구 사항 진화에 따라 독일에 대한 클라우드 전략은 글로벌 클라우드 제품과 일치하는 새로운 클라우드 지역을 독일에 제공하는 데 집중합니다. 이 집중을 통해 더 이상 새 고객을 수락하거나 현재 사용 가능한 Microsoft Cloud Germany에서 새 서비스를 배포하지 않습니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 이 서비스는 필요한 보안 업데이트를 통해 유지 관리됩니다.
+> 고객의 요구 사항 진화에 따라 독일에 대한 클라우드 전략은 글로벌 클라우드 제품과 일치하는 새로운 클라우드 지역을 독일에 제공하는 데 집중합니다. 이러한 초점을 두고 더 이상 새 고객을 수락하거나 현재 사용 가능한 Microsoft Cloud Germany에서 새 서비스를 배포하지 않습니다. 기존 고객은 현재 사용 가능한 현재 클라우드 서비스를 계속 사용할 수 있으며, 이 서비스는 필요한 보안 업데이트를 통해 유지 관리됩니다.
 >  
 > 앞으로 새 고객은 현재 사용 가능한 유럽 지역 또는 독일에 있는 새 지역을 사용할 수 있습니다. 자세한 내용은 [Microsoft를 참조하여 독일에 있는 새 데이터 센터에서 클라우드 서비스를 제공합니다.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)
 
-개인의 데이터 수집 및 사용뿐만 아니라 주요 국제 표준을 제어하는 독일 법률 및 규정을 준수하기 위해 Microsoft 클라우드 독일에 대한 파트너 센터 다음과 같은 사용자 및 라이선스 관리 기능을 사용할 수 없습니다. 대신 Microsoft Cloud Germany 또는 Office 365 관리 센터의 Azure Portal 사용자 및 라이선스를 추가하고 관리합니다.
+개인의 데이터 수집 및 사용뿐만 아니라 주요 국제 표준을 제어하는 독일 법률 및 규정을 준수하기 위해 Microsoft 클라우드 독일에 대한 파트너 센터 다음과 같은 사용자 및 라이선스 관리 기능을 사용할 수 없습니다. 대신 Microsoft 클라우드 독일 또는 Office 365 관리 센터의 Azure Portal 사용자 및 라이선스를 추가하고 관리합니다.
 
 기능 또는 기능 | 다음에서 작업 완료
 :--- | :---
