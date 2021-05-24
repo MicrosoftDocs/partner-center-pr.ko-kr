@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328086"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855951"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>파트너 센터에서 추천 인사이트를 얻고 추천이 어떻게 진행되는지 알아보세요.
 
-**적절한 역할**
-
-- 조회 관리자
+**적절한 역할**: 조회 관리자
 
 [추천]의 **분석** 섹션 아래에 있는 **공동 판매 기회** 페이지에서 추천이 어떻게 진행되고 있는지 살펴볼 수 있습니다. 이러한 메트릭을 정기적으로 검토하여 주의가 필요한 추세 또는 영역을 파악하고, 비즈니스 목표를 달성하세요.
 

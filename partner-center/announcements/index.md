@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/07/2021
-ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.date: 05/14/2021
+ms.openlocfilehash: 9f3447aad20f32a236f2e52e108de50e391b8969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712518"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150015"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,10 @@ ms.locfileid: "109712518"
 
 |**범주**|**2021년 5월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[CSP에서 거래하는 영구 소프트웨어에 대한 업데이트 및 오픈 라이선스 프로그램 변경 사항](2021-may.md#13)|5월 17일|
+|기능|[2단계 출시 예정: EU/EFTA 및 UK에서 새로운 상거래 제품에 대한 파트너 청구 통화 변경](2021-may.md#12)|5월 17일|
+|기능|[Microsoft 365 Business Voice GSW(시작 마법사) 사용 중단](2021-may.md#11)|5월 14일|
+|기능|[5월 CSP(클라우드 솔루션 공급자) 커뮤니티 업데이트 및 미리 알림](2021-may.md#10)|5월 13일|
 |기능|[파트너 주도 공동 판매 거래를 위한 분석](2021-may.md#9)|5월 10일|
 |기능|[호스팅 및 SPLA 재판매인 인센티브 프로그램이 2021년 9월 30일까지 연장됨](2021-may.md#8)|5월 7일|
 |기능|[인센티브 등록을 위해 파트너 센터에서 기본 은행 프로필 기능을 사용할 수 있습니다.](2021-may.md#7)|5월 7일|

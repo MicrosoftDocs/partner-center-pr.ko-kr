@@ -9,19 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018190"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855423"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>고객의 Azure CSP 구독에 대한 관리자 권한 복구  
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절한 역할**: 전역 관리자 | 관리자 에이전트
 
 CSP 파트너로서 고객은 Azure 사용량과 해당 시스템을 관리할 것으로 기대하는 경우가 많습니다. 이렇게 하려면 관리자 권한이 있어야 합니다. 고객과의 재판매인 관계가 설정되면 일부 권한이 부여됩니다. 다른 권한은 고객이 사용자에게 부여합니다.
 

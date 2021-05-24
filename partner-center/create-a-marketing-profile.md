@@ -9,19 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964394"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148210"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>비즈니스 프로필을 만들어 Microsoft 판매 잠재 고객을 확보하고 고객이 귀하를 찾을 수 있도록 하세요.
 
-**적절한 역할**
-
-- 비즈니스 프로필 관리자
-- 조회 관리자
+**적절한 역할**: 비즈니스 프로필 관리자 | 조회 관리자
 
 자격을 갖춘 Microsoft 파트너는 비즈니스 요구 사항을 해결하는 고유한 솔루션과 전문 지식을 찾는 고객에게 회사를 소개하는 비즈니스 프로필을 만들 수 있습니다.
 

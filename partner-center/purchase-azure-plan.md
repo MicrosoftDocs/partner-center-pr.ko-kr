@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441628"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854964"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>고객에 대한 Azure 플랜을 구매하고 종량제 요금으로 최신 Azure 서비스에 액세스합니다.
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 영업 상담원
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 판매 에이전트
 
 Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 하나의 Azure 플랜에서 여러 Azure 구독을 가질 수 있습니다. 
 

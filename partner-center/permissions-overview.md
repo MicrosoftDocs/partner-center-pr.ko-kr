@@ -9,20 +9,16 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a6e6424dfb787bbe9510d47299f945309dd00528
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633916"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855134"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>파트너 센터에서 작업해야 하는 회사 사용자에 대한 사용자 역할 및 사용 권한 할당
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- MPN 파트너 관리자
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | MPN 파트너 관리자
 
 법적 이름과 주소, 지원 세부 정보, 면세 정보, 은행 정보, 회사의 기본 연락처를 비롯한 파트너 프로필을 설정했습니다. 다음 단계: 사용자가 파트너 센터에서 작업을 시작할 수 있도록 암호와 역할을 사용하여 사용자를 설정합니다.
 
@@ -37,7 +33,7 @@ ms.locfileid: "105633916"
 
 |**역할**|**수행할 수 있는 작업**|**자세히 알아보기**|
 |----------------------------------|---|:---------------------------------|
-|글로벌 관리자|*    전체 권한으로 모든 Microsoft 계정/서비스에 액세스할 수 있음|[파트너 센터 계정 관리](partner-center-account-setup.md)
+|전역 관리자|*    전체 권한으로 모든 Microsoft 계정/서비스에 액세스할 수 있음|[파트너 센터 계정 관리](partner-center-account-setup.md)
 |      |*    파트너 센터에 대한 지원 티켓 만들기
 ||*    내가 만든 파트너 지원 티켓 보기
 ||*    계약, 가격표 및 제품 보기
@@ -89,7 +85,7 @@ CPV는 CSP(클라우드 솔루션 공급자) 파트너가 사용하는 앱을 �
 
 |**역할**   |**수행 가능한 작업**|**자세히 알아보기**|
 |------------------------------|:----------------------------|----|
-|글로벌 관리자| CPV 프로필을 보고 관리합니다.|[CSP 파트너 시스템을 파트너 센터 API와 통합하는 데 도움이 되도록 제어판 공급업체로 등록](enroll-as-cpv.md)
+|전역 관리자| CPV 프로필을 보고 관리합니다.|[CSP 파트너 시스템을 파트너 센터 API와 통합하는 데 도움이 되도록 제어판 공급업체로 등록](enroll-as-cpv.md)
 ||CPV 기능에 액세스해야 하는 사용자를 보고 관리합니다.|
 
 ### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>게스트 사용자(Azure Active Directory 테넌트에 추가해야 함)

@@ -134,6 +134,8 @@
     - name: CSP 직접 청구에서 간접 재판매인으로 전환
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: 파트너는 더 이상 Advisor로 등록할 수 없음
+      href: advisors-no-csp.md
 - name: CSP 계약
   href: microsoft-partner-agreement.md
   items:

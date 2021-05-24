@@ -9,22 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492537"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148145"
 ---
 # <a name="create-user-accounts"></a>사용자 계정 만들기  
 
-**적절한 역할**
+**적절한 역할**: 계정 관리자 | 전역 관리자 | 사용자 관리 담당자
 
-- 계정 관리자
-- 글로벌 관리자
-- 사용자 관리 담당자
-
-파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 글로벌 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 글로벌 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
+파트너 센터에 액세스해야 하는 직원의 사용자 계정을 만듭니다. 이러한 작업은 사용자 관리, 계정 관리 또는 전역 관리 권한이 있는 관리자가 수행해야 합니다. 이러한 작업을 수행하는 사용자에게는 사용자 관리자 또는 전역 관리자의 AAD(Azure Active Directory) 역할도 할당되어야 합니다. AAD 역할에 대한 자세한 내용은 [Azure Active Directory의 관리자 역할 권한](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)을 참조하세요.
 
 ## <a name="add-a-new-user"></a>새 사용자 추가
 
@@ -34,7 +30,7 @@ ms.locfileid: "97492537"
 
 3. 사용자의 전체 이름과 고유의 이메일 주소를 입력합니다.
 
-4. 에이전트 유형 및/또는 사용자에게 할당할 관리자 유형을 선택합니다. 파트너 센터 액세스는 역할 기반이므로 사용자가 특정 작업을 완료하는 데 필요한 기능만 표시하도록 사용자의 보기를 사용자 지정하는 권한을 할당할 수 있습니다.  역할 할당을 원하는 사용자는 **사용자 관리** 로 이동하여 글로벌 관리자에 대한 필터링을 수행하여 연락할 글로벌 관리자를 찾을 수 있습니다.
+4. 에이전트 유형 및/또는 사용자에게 할당할 관리자 유형을 선택합니다. 파트너 센터 액세스는 역할 기반이므로 사용자가 특정 작업을 완료하는 데 필요한 기능만 표시하도록 사용자의 보기를 사용자 지정하는 권한을 할당할 수 있습니다.  역할 할당을 원하는 사용자는 **사용자 관리** 로 이동하여 전역 관리자에 대한 필터링을 수행하여 연락할 전역 관리자를 찾을 수 있습니다.
 
 5. **추가** 를 선택하여 사용자 계정을 만듭니다. 다음 페이지에서 사용자의 세부 정보를 확인합니다.
 

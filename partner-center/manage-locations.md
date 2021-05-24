@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702895"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151783"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN 계정 위치 관리 및 새 위치 추가(삭제)
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 계정 관리자
+**적절한 역할**: 전역 관리자 | 계정 관리자
 
 위치 MPN ID는 회사의 각 특정 위치를 식별합니다. 위치 MPN ID를 사용하여 인센티브 프로그램에 등록하고, CSP(클라우드 솔루션 공급자) 비즈니스와 기타 비즈니스 트랜잭션을 처리합니다. 글로벌 MPN ID는 지원 요청과 같은 비 트랜잭션 작업에 사용됩니다.
 
@@ -89,11 +86,11 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 
 1. **설정 아이콘** 에서 **계정 설정** 을 선택한 다음, **조직 프로필** 을 선택합니다.
 
-2. **법무** 를 선택한 다음, **파트너** 탭에서 **비즈니스 위치** 를 선택하고 **위치 추가** 를 클릭합니다.
+2. **법무** 를 선택한 다음, **파트너** 탭에서 **비즈니스 위치** 를 선택하고 **위치 추가** 를 선택합니다.
 
 3. 회사에 추가하려는 위치 정보 즉, 회사 이름, 주소 및 연락처 등 필요한 세부 정보를 입력합니다.
  
-1. **위치 추가** 를 클릭합니다. 그러면 CSP 트랜잭션 및 성과급에 사용할 수 있는 새 위치에 대한 새 MPN ID가 만들어집니다.
+1. **위치 추가** 를 선택합니다. 그러면 CSP 트랜잭션 및 성과급에 사용할 수 있는 새 위치에 대한 새 MPN ID가 만들어집니다.
 
 :::image type="content" source="images/legal-biz.png" alt-text="새로운 법적 비즈니스 추가":::
 
@@ -144,11 +141,11 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
  
 1. 위치를 추가하려면 **위치 추가** 를 클릭하고, 플라이 아웃에서 회사에 추가하려는 위치 정보 즉, 회사 이름, 주소 및 연락처 등 필요한 세부 정보를 입력합니다. 
  
-1. **국가/지역** 드롭다운 옆에 있는 **국가 변경** 을 선택하고 단계를 따릅니다. 
+1. **국가/지역** 드롭다운 목록 옆에 있는 **국가 변경** 을 선택하고 단계를 따릅니다. 
 
 :::image type="content" source="images/lbp.png" alt-text="법적 비즈니스 프로필 데이터 플라이 아웃":::
 
-5. **저장** 을 클릭합니다.
+5. **저장** 을 선택합니다.
 
 6. MPN 전역 계정 국가는 새로운 법적 국가로 변경됩니다.
   

@@ -9,21 +9,16 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 7f533240d5236f03fe277d4c6dfa02ed1c58b63c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633882"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855015"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>PMC(Partner Membership Center)에서 파트너 센터로 이동 준비
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 영업 상담원
-- 관리 에이전트
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 판매 에이전트 | 관리자 에이전트
 
 멤버십 관리를 PMC(파트너 구성원 센터)에서 파트너 센터(Microsoft와의 비즈니스 관계를 관리하는 단일 대상)로 이전할 예정입니다. 파트너가 쉽고 효율적으로 파트너 센터로 이전할 수 있도록 도와드리고자 합니다. 저희는 파트너 센터가 PMC와 다른 몇 가지 부분을 확인했으며, 파트너 센터로 이전하기 전에 이러한 부분을 이해하고 미리 대비한다면 도움이 될 것이라 생각합니다.
 
@@ -50,15 +45,15 @@ CSP 계정 또는 MPN 회사 이메일 계정으로 파트너 센터에 로그�
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>파트너 센터에 기존 Office 365 Azure AD 테넌트를 사용하지 않으려는 경우에는 PMC에서 마이그레이션하기 전에 새 테넌트를 만들면 됩니다.
 
-파트너 센터 계정 설정에 기존 Azure AD 테넌트를 사용하지 않으려는 여러 가지 이유가 있습니다. 파트너 센터로 마이그레이션하기 전에 [Azure Portal](https://ms.portal.azure.com/#home)로 이동하여 새 Azure AD 테넌트를 만듭니다. [Azure Active Directory에서 새 테넌트 만들기](/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 AAD 테넌트를 사용하여 파트너 센터 계정을 설정합니다. 테넌트를 만들려면 글로벌 관리자여야 합니다. 
+파트너 센터 계정 설정에 기존 Azure AD 테넌트를 사용하지 않으려는 여러 가지 이유가 있습니다. 파트너 센터로 마이그레이션하기 전에 [Azure Portal](https://ms.portal.azure.com/#home)로 이동하여 새 Azure AD 테넌트를 만듭니다. [Azure Active Directory에서 새 테넌트 만들기](/azure/active-directory/develop/quickstart-create-new-tenant)의 지침을 따릅니다. 새 AAD 테넌트를 사용하여 파트너 센터 계정을 설정합니다. 테넌트를 만들려면 전역 관리자여야 합니다. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>파트너 센터의 게스트 사용자 역할을 비롯한 사용자 역할
 
-파트너 센터에는 수행할 작업 유형에 따라 여러 가지 유형의 역할이 있습니다. Azure AD 역할인 글로벌 관리자와 같은 역할이 있습니다. 클라우드 서비스 공급자 프로그램 또는 인센티브와 같은 프로그램에만 적용되는 역할도 있고, MPN에만 적용되는 역할도 있습니다. 모든 파트너 센터 역할을 확인하려면 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요.
+파트너 센터에는 수행할 작업 유형에 따라 여러 가지 유형의 역할이 있습니다. Azure AD 역할인 전역 관리자와 같은 역할이 있습니다. 클라우드 서비스 공급자 프로그램 또는 인센티브와 같은 프로그램에만 적용되는 역할도 있고, MPN에만 적용되는 역할도 있습니다. 모든 파트너 센터 역할을 확인하려면 [사용자 역할 및 권한 할당](permissions-overview.md)을 참조하세요.
 
 ### <a name="what-happens-to-my-users-roles-when-they-move-from-pmc-to-partner-center"></a>사용자가 PMC에서 파트너 센터로 이동하면 사용자의 역할은 어떻게 되나요?
 
-마이그레이션을 수행하는 MPN 글로벌 관리자 또는 기본 프로그램 담당자를 제외하고, PMC의 모든 사용자는 관리자 역할을 잃게 됩니다. 마이그레이션을 완료하는 개인은 파트너 센터에서 역할을 할당해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당]\(permissions-overview.md) 및 [PMC에서 파트너 센터로 이동](move-pmc-pc-map.md#user-roles)을 참조하세요.
+마이그레이션을 수행하는 MPN 전역 관리자 또는 기본 프로그램 담당자를 제외하고, PMC의 모든 사용자는 관리자 역할을 잃게 됩니다. 마이그레이션을 완료하는 개인은 파트너 센터에서 역할을 할당해야 합니다. 파트너 센터의 역할은 PMC의 역할과 다릅니다. 파트너 센터의 사용자 역할에 대한 자세한 내용은 [사용자 역할 및 권한 할당]\(permissions-overview.md) 및 [PMC에서 파트너 센터로 이동](move-pmc-pc-map.md#user-roles)을 참조하세요.
 
 ### <a name="whats-the-difference-between-my-company-profile-and-my-business-profile"></a>회사 프로필과 비즈니스 프로필 간의 차이점은 무엇인가요?
 
@@ -87,7 +82,7 @@ MPN 멤버십 마이그레이션 관련 일반적인 질문에 대한 다음 답
 
 ### <a name="who-can-perform-the-move-from-pmc-to-partner-center"></a>PMC에서 파트너 센터로 이동할 수 있는 사람은 누구인가요?
 
-회사의 MPN 글로벌 관리자 또는 기본 프로그램 담당자(이 두 역할을 같은 사람이 수행하는 경우가 많음)는 이동을 시작하고 수행할 수 있습니다.
+회사의 MPN 전역 관리자 또는 기본 프로그램 담당자(이 두 역할을 같은 사람이 수행하는 경우가 많음)는 이동을 시작하고 수행할 수 있습니다.
 
 ### <a name="will-the-person-completing-the-migration-become-the-primary-contact-on-the-company-legal-profile-in-partner-center"></a>마이그레이션을 완료하는 사람이 파트너 센터에서 회사 법적 프로필의 기본 담당자가 되나요?
 
