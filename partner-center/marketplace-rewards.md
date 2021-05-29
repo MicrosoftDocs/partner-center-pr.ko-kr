@@ -1,7 +1,7 @@
 ---
 title: Marketplace Rewards 관리
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 상업용 Marketplace에 제안을 게시하는 파트너는 마케팅 지원을 제공하는 혜택을 받을 수 있습니다.
@@ -9,28 +9,28 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
+ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151681"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "110687730"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>마케팅, 영업 및 기술 혜택을 활성화하는 파트너 센터 & Marketplace Rewards 관리
 
 **적절한 역할:** MPN 파트너 관리자 | 전역 관리자 | 관리 에이전트
 
-상업용 Marketplace에 소프트웨어 제안을 게시하는 경우 Marketplace Rewards 마케팅, 판매 및 기술 혜택을 통해 모든 제안에 대한 대상 지원을 제공합니다.
+상업용 Marketplace에 소프트웨어 제안을 게시하는 경우 Marketplace Rewards 마케팅, 영업 및 기술 혜택을 통해 모든 제안에 대한 대상 지원을 제공합니다. 프로그램 및 이점에 대한 자세한 내용은 [PPT(Marketplace Rewards)를](https://aka.ms/marketplacerewards) 참조하세요.
 
 Marketplace Rewards 자격은 PGA MPN 회사에 연결된 모든 게시자 프로필을 기반으로 계산됩니다. Marketplace Rewards 프로그램의 자격을 확인하려면 파트너 센터 [Marketplace Rewards 페이지로](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)이동합니다.
 
 ## <a name="sales-and-marketing-benefits"></a>판매 및 마케팅 혜택
 
-1. 파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard)Marketplace Rewards 페이지의 **영업 및 마케팅 혜택 탭을** 선택하여 혜택 목록을 확인합니다. 
+1. 파트너 센터 [대시보드에서](https://partner.microsoft.com/dashboard)Marketplace Rewards 페이지의 **영업 및 마케팅 혜택 탭을** 선택하여 혜택 목록을 확인합니다.
 
 2. 판매 및 마케팅 혜택을 활성화하려면 먼저 회사 마케팅 담당자를 할당해야 합니다. 이 담당자는 Marketplace Rewards에 대한 추가 연락을 받게 됩니다.
 
-3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 Marketplace Rewards 페이지의 영업 및 마케팅 혜택 탭 맨 위로 이동한 다음 **추가, 업데이트 또는 변경** 을 선택합니다. 
+3. 마케팅 담당자 정보를 추가하거나 업데이트하려면 Marketplace Rewards 페이지의 영업 및 마케팅 혜택 탭 맨 위로 이동한 다음 **추가, 업데이트 또는 변경** 을 선택합니다.
 
    다음으로, 아래 작업을 수행합니다.
 
@@ -54,9 +54,9 @@ Marketplace Rewards 자격은 PGA MPN 회사에 연결된 모든 게시자 프�
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>회사의 PGA와 Azure AD 테넌트 연결
 
-1. 전역 관리자 또는 계정 관리자로서 파트너 센터 PGA에 로그인합니다.
+1. 전역 관리자 또는 계정 관리자로 파트너 센터 PGA에 로그인합니다.
 
-2. **설정(오른쪽** 위), **계정 설정**, **테넌트** 를 선택합니다. 
+2. **설정(오른쪽** 위), **계정 설정**, **테넌트** 를 선택합니다.
 
 3. **다른 Azure AD 테넌트 연결** 을 선택하고 PGA와 연결할 Azure AD 테넌트 를 선택합니다.
 
@@ -64,5 +64,4 @@ Marketplace Rewards 자격은 PGA MPN 회사에 연결된 모든 게시자 프�
 
 5. 파트너 센터 로그아웃한 다음, 방금 PGA에 연결한 테넌트에서 사용자 이름 및 암호를 사용하여 로그인합니다.
 
-6. 이제 왼쪽 탐색 메뉴에서 상업용 Rewards Marketplace 프로그램 정보를 볼 수 있습니다.
-
+6. 이제 왼쪽 탐색 메뉴에서 상업용 보상 마켓플레이스 프로그램 정보를 볼 수 있습니다.
