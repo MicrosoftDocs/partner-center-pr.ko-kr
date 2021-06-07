@@ -1,50 +1,46 @@
 ---
-title: Azure Marketplace의 개인 제품
-description: Azure Marketplace의 개인 제품에 대해 알아봅니다.
+title: Azure Marketplace 프라이빗 제안
+description: Azure Marketplace 프라이빗 제안에 대해 알아봅니다.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 72e886a7cfad067b40674f30a9a21810d832994a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/03/2021
+ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
+ms.sourcegitcommit: 9cb6bc9df20540f812b7932f88e520976c1aa85a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412661"
+ms.lasthandoff: 06/06/2021
+ms.locfileid: "111534146"
 ---
-# <a name="private-offers-in-azure-marketplace"></a>Azure Marketplace의 개인 제품
+# <a name="private-plans-in-azure-marketplace"></a>Azure Marketplace 프라이빗 계획
 
-개인 제공은 게시자가 특정 고객에 게 사용자 지정 계획을 제공 하는 방법입니다. 이 옵션은 현재 Azure Portal의 Azure Marketplace 환경 에서만 지원 됩니다. 개인 제공은 Azure Portal에서 구입 하 고 직접 설치할 수 있는 유료 제품에만 사용할 수 있습니다. 게시자는 포털에서 설치할 수 있는지 여부에 관계 없이 연락에 대 한 호출 또는 무료 서비스로 **연락** 하는 컨설팅 서비스에 대 한 개인 제품을 만들 수 없습니다.
+프라이빗 플랜은 게시자가 특정 고객에게 사용자 지정 플랜을 제공하는 방법입니다. 프라이빗 플랜은 Azure Portal 구매하여 직접 설치할 수 있는 유료 제안에만 사용할 수 있습니다. 게시자는 포털에서 설치할 수 있는지 여부에 관계없이  컨설팅 서비스, 연락처를 호출로 연락하는 서비스 또는 무료 서비스에 대한 프라이빗 플랜을 만들 수 없습니다.
 
-## <a name="find-private-offers-in-the-azure-portal"></a>Azure Portal에서 개인 제품 찾기
+## <a name="find-private-plans-in-the-azure-portal"></a>Azure Portal 프라이빗 플랜 찾기
 
-파트너가 비공개 제품을 게시 하는 경우 Azure Portal의 **Marketplace** 섹션에서 적격 사용자 에게만 표시 됩니다. 이러한 사용자는 제안 유형에 따라 구독 ID 또는 테 넌 트 ID로 정의 됩니다. 개인 제품에 대 한 자격이 있는 경우 두 가지 방법으로 포털에서 찾을 수 있습니다.
+파트너가 프라이빗 플랜을 게시하면 Azure Portal **Marketplace** 섹션에서 적격 사용자에게만 표시됩니다. 이러한 사용자는 제품 유형에 따라 구독 ID 또는 테넌트 ID로 정의됩니다. 프라이빗 플랜에 적합한 경우 포털에서 두 가지 방법으로 찾을 수 있습니다.
 
 > [!NOTE]
-> 개인 제공은 현재 Azure Portal에서 검색할 수 없거나 범주별로 필터링 할 수 없습니다.
+> 프라이빗 플랜은 검색할 수 있지만 Azure Portal 필터링할 수 없습니다(범주별).
 
-Azure Portal에서 **+ 리소스 만들기** 를 선택 하거나 "마켓플레이스"를 검색 하 여 **marketplace** 페이지로 이동 합니다. 개인 제품에 대 한 자격이 있는 경우 페이지 맨 위에 **개인 제품 사용 가능** 배너가 표시 됩니다. 비공개 제안 **보기** 를 선택 하 여 개인 제품 페이지로 이동 합니다.
+Azure Portal **+ 리소스 만들기를** 선택하거나 "마켓플레이스"를 검색하여 **Marketplace** 페이지로 이동합니다. 프라이빗 플랜을 사용할 수 있는 경우 페이지 맨 위에 **프라이빗 플랜 사용 가능** 배너가 표시됩니다. **프라이빗 제안 보기 + 플랜을** 선택하여 프라이빗 플랜 페이지로 이동합니다.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="비공개 제품을 사용할 수 있는 경우 표시 되는 배너입니다.":::
+:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="프라이빗 플랜을 사용할 수 있는 경우 표시되는 배너입니다.":::
 
-또는 비공개 제품 배너가 표시 되는 경우 제품 갤러리 페이지의 아래쪽으로 스크롤하여 개인 제품의 하위 집합을 볼 수도 있습니다. **자세히 보기** 링크를 선택 하 여 개인 제품 페이지로 이동 합니다.
+## <a name="review-private-plans"></a>프라이빗 플랜 검토
 
-:::image type="content" source="media/private-offers/see-more-link.png" alt-text="자세히 보기 링크와 함께 화면 아래쪽에 개인 제안을 표시 합니다.":::
+프라이빗 플랜은 제안의 여러 계획에 속합니다. 각 제안에는 여러 플랜(퍼블릭 및 프라이빗)이 있을 수 있지만 프라이빗 플랜은 퍼블릭 플랜과 별도의 목록에 표시됩니다.
 
-## <a name="review-private-plans"></a>비공개 요금제 검토
+고유한 프라이빗 배지로 표시된 계획 탭에서 사용 가능한 **프라이빗** **플랜을** 볼 수 있습니다.
 
-개인 제품은 실제로 제품 내에서 비공개 요금제입니다. 각 제품에는 공용 및 개인의 계획을 여러 개 포함할 수 있지만 비공개 요금제는 공용 계획의 개별 목록에 표시 됩니다.
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="프라이빗으로 표시된 계획의 페이지입니다.":::
 
-특수 **비공개** 배지로 표시 된 **계획** 탭에서 사용 가능한 개인 계획을 볼 수 있습니다.
+구독이 두 개 이상인 경우 모든 구독에 사용할 수 있는 모든 프라이빗 플랜이 표시됩니다. **만들기를** 선택하면 리소스 만들기 페이지로 라우팅되어 리소스 구성을 시작합니다.
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="비공개로 표시 된 계획의 페이지입니다.":::
+**만들기를** 선택하고 여러 구독이 있지만 모두 프라이빗 플랜에 추가되는 것은 아닌 경우 기본 구독이 이 프라이빗 플랜에 적합한 구독이 아닐 수 있습니다. 이 경우 올바른 구독을 선택합니다.
 
-둘 이상의 구독이 있는 경우 모든 구독에 대 한 모든 개인 제안이 표시 됩니다. **만들기** 를 선택 하면 리소스를 구성 하기 시작 하는 리소스 만들기 페이지로 라우팅됩니다.
-
-**만들기** 를 선택 하 고 구독을 여러 개 포함 하지만 일부는 비공개 계획에 추가 되지 않은 경우 기본 구독은이 개인 제품에 적합 한 구독이 아닐 수 있습니다. 이 경우 올바른 구독을 선택 합니다.
-
-:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="표시 되는 링크를 통해 더 많은 개인 제공이 제공 됩니다.":::
+:::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="더 많은 프라이빗 플랜을 사용할 수 있음을 보여주는 링크입니다.":::
 
 ## <a name="next-steps"></a>다음 단계
 
