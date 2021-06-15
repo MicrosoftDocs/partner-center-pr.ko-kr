@@ -1,47 +1,47 @@
 ---
-title: Azure 및 클라우드 혜택-MPN
+title: Azure 및 클라우드 혜택 - MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 구독을 활성화 하는 방법을 비롯 하 여 Azure 및 클라우드 제품에 대 한 Microsoft 파트너 네트워크 (MPN) 혜택에 대해 알아봅니다.
+description: 구독을 활성화하는 방법을 포함하여 Azure 및 클라우드 제품의 MPN(Microsoft 파트너 네트워크) 혜택에 대해 알아봅니다.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146360"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066491"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>파트너 센터에서 Azure 및 클라우드 제품 혜택 영역 살펴보기
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>파트너 센터 Azure 및 클라우드 제품 혜택 영역 살펴보기
 
-**적절 한 역할**: 전역 관리자 | MPN 파트너 관리자
+**적절한 역할:** 전역 관리자 | MPN 파트너 관리자
 
-이 문서에서는 파트너 센터 내에서 파트너에 게 제공 되는 특정 Azure 및 클라우드 혜택을 설명 합니다. 또한 특정 유형의 Azure 및 클라우드 구독을 활성화 하는 방법을 알아봅니다.
+이 문서에서는 파트너 센터 내에서 파트너가 사용할 수 있는 특정 Azure 및 클라우드 혜택에 대해 설명합니다. 또한 특정 유형의 Azure 및 클라우드 구독을 활성화하는 방법도 알아봅니다.
  
 ## <a name="overview"></a>개요
 
-Microsoft 파트너 네트워크 파트너는 다양 한 영역에 대 한 여러 기술 및 시장 출시 혜택에 액세스할 수 있습니다. 파트너 센터에서 위의 역할 중 하나를 할당 한 경우 파트너 센터 대시보드에서 직접 이러한 많은 혜택을 직접 탐색할 수 있습니다.
+Microsoft 파트너 네트워크 파트너는 다양한 영역에 대한 많은 기술 [및 시장 진출 혜택에](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 액세스할 수 있습니다. 파트너 센터 위의 역할 중 하나가 할당된 경우 파트너 센터 대시보드에서 직접 이러한 많은 이점을 탐색할 수 있습니다. 
 
 > [!NOTE]
-> 파트너 센터 혜택 영역에 액세스 하려면 파트너 센터 [대시보드](https://partner.microsoft.com/dashboard) 에 로그인 하 고 왼쪽 탐색 메뉴에서 **MPN** 을 선택 하기만 하면 됩니다. 그런 다음 메뉴에서 **혜택** 을 선택 하 고, 탐색 하려는 특정 혜택 옵션 또는 영역을 선택 합니다.
+> 파트너 센터 혜택 영역에 액세스하려면 파트너 센터 [대시보드에](https://partner.microsoft.com/dashboard) 로그인하고 왼쪽 탐색 메뉴에서 **MPN을** 선택하기만 하면 됩니다. 그런 다음, 메뉴에서 **혜택을** 선택한 다음, 탐색하려는 특정 혜택 옵션 또는 영역을 선택합니다.
 
-사용할 수 있는 이점 옵션 중 하나는 **Azure & 클라우드 제품** 입니다. 파트너 센터 **혜택** 메뉴에서 **azure & 클라우드** 를 선택 하면 **azure & 클라우드 제품** 페이지가 나타납니다.
+사용할 수 있는 이점 옵션 중 하나는 **Azure & 클라우드 제품입니다.** 파트너 센터 **혜택** 메뉴에서 **Azure & 클라우드를** 선택하면 Azure & **클라우드 제품** 페이지가 나타납니다.
 
-이 페이지에는 다음과 같은 세부 정보가 표시 됩니다.
+이 페이지에는 다음과 같은 세부 정보가 표시됩니다.
 
-- 라이선스 기반 구독 또는 사용 기반 구독에 관계 없이 다양 한 Azure & 클라우드 제품 구독 혜택을 이용할 수 있습니다.
-- 각 제품에 대해 할당 된 라이선스 수량
-- 특정 혜택 제품을 사용자에 게 프로 비전 한 제안 유형
-- 혜택 유형 (코어 또는 증분의 제공 여부)
-- 특정 혜택이 만료 되는 날짜
+- 라이선스 기반 구독 또는 사용량 기반 구독에 관계없이 사용할 수 있는 다양한 Azure & 클라우드 제품 구독 혜택
+- 각 제품에 할당된 라이선스 수량
+- 특정 혜택 제품을 프로비전한 제품 유형
+- 혜택 유형(코어 또는 증분에서 제공)입니다.
+- 특정 혜택이 만료된 날짜
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="제공 되는 구독 혜택을 나열 하는 Azure 및 클라우드 제품 페이지" border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="사용할 수 있는 구독 혜택을 나열하는 Azure 및 클라우드 제품 페이지입니다." border="false":::
 
-## <a name="usage-based-vs-license-based-subscriptions"></a>사용 빈도 기반 및 라이선스 기반 구독
+## <a name="usage-based-vs-license-based-subscriptions"></a>사용량 기반 구독과 라이선스 기반 구독
 
 **Azure & 클라우드 제품** 페이지에는 프로비전되는 두 가지 유형의 구독 혜택이 나열됩니다.
 - 사용량 기반 구독(Microsoft Azure 크레딧) 
@@ -63,37 +63,41 @@ Microsoft 파트너 네트워크 멤버 자격에 사용할 수 있는 활성 �
 
 1. 왼쪽 탐색 메뉴에서 **MPN을** 선택한 다음, **혜택**, **Azure 및 클라우드** 를 선택합니다.
 
-1. 활성화하려는 사용량 기반 구독의 **세부 정보 보기** 열 오른쪽에 있는 아래쪽 화살표를 선택합니다. 
+1. 활성화하려는 사용량 기반 구독에 대한 **세부 정보 보기** 열 오른쪽에서 아래쪽 화살표를 선택합니다. 
 
-1. Azure 및 클라우드 제품 파트너 센터 페이지에서 **사용자 할당** 영역을 찾습니다(아래).  그런 **다음, 사용자 할당** 옵션을 선택하여 해당 사용자에게 원하는 사용량 기반 구독 혜택을 할당합니다. 
+1. 파트너 센터 Azure 및 클라우드 제품 페이지(아래)에서 **사용자 할당** 영역을 **찾습니다.** 그런 **다음, 사용자 할당** 옵션을 선택하여 해당 사용자에게 원하는 사용량 기반 구독 혜택을 할당합니다. 
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="사용자 할당 영역을 보여주는 Azure 및 클라우드 제품 페이지입니다." border="false":::
 
-- 월 $100 (또는 현지 통화)와 같은 Azure 월간 크레딧을 할당 하면 언제 든 지이 구독에서 사용자를 추가 하거나 제거할 수 있습니다.
+- 매월 $100(또는 현지 통화에 해당)와 같은 Azure 월간 크레딧을 할당하는 경우 언제든지 이 구독에서 사용자를 추가하거나 제거할 수 있습니다.
 
-- Azure 대량 (매년) 크레딧을 할당 하는 경우 파트너 센터에서 **제거** 옵션을 사용할 수 없습니다. 대신, 등록 연도 중에 다른 사람에 게 대량 크레딧을 양도 해야 합니다. Azure 대량 (매년) 크레딧 구독은 다른 라이선스, 선불 또는 신용 제품과 함께 사용할 수 없습니다 (예: Microsoft 기업계약, 클라우드 솔루션 공급자, Azure in Open, Azure Pass, Microsoft Action Pack 등).
+- Azure 대량(매년) 크레딧을 할당하는 경우 **파트너 센터 제거** 옵션을 사용할 수 없습니다. 대신 등록 연도 중에 다른 사람에게 대량 크레딧을 양도해야 합니다. Azure 대량(매년) 신용 구독은 다른 라이선스, 선불 또는 크레딧 제안(예: Microsoft 기업계약, 클라우드 솔루션 공급자, Azure in Open, Azure Pass, Microsoft Action Pack 등)과 결합할 수 없습니다.
 
 ### <a name="license-based-subscriptions"></a>라이선스 기반 구독
 
-Azure 및 클라우드 제품 페이지의 라이선스 기반 구독 섹션에는 Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI 등 정품 인증을 위해 제품 키가 필요한 모든 클라우드 제품이 있습니다. 이러한 제품은 Microsoft 파트너 네트워크에서 파트너에 게 제공 되는 활성 제품의 유형을 기반으로 제공 됩니다. 이러한 제품에는 Microsoft Action Pack, 실버 역량 구성원 또는 골드 역량 멤버 자격이 포함 될 수 있습니다.
+Azure 및 클라우드 제품 페이지의 라이선스 기반 구독 섹션에서 활성화를 위해 제품 키가 필요한 모든 클라우드 제품(예: Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD basic, Power BI 등)을 찾을 수 있습니다. 이러한 제품은 Microsoft 파트너 네트워크 파트너로 사용할 수 있는 활성 제품의 유형에 따라 제공됩니다. 이러한 제안에는 Microsoft Action Pack, 실버 역량 멤버십 또는 골드 역량 멤버 자격이 포함될 수 있습니다.
 
-라이선스 기반 구독을 활성화 하려면: 
+라이선스 기반 구독을 활성화하려면 다음을 수행합니다. 
 
 1. Azure 및 클라우드 제품 페이지에서 특정 구독을 찾습니다. 
 
-1. 오른쪽에 있는 드롭다운 화살표를 선택 하 고 해당 구독에 대 한 **세부 정보** 열을 표시 합니다. 
+1. 오른쪽의 드롭다운 화살표, 해당 구독에 대한 **세부 정보 보기** 열을 선택합니다. 
 
-1. 다음 페이지의 지침을 읽습니다. 이렇게 하면 키를 교환 하는 방법에 대 한 자세한 정보를 확인할 수 있습니다. 
+1. 후속 페이지에서 지침을 읽습니다. 이렇게 하면 키를 사용하는 방법에 대한 자세한 내용이 알려 줍니다. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="세부 정보 보기를 포함 하는 Azure 및 클라우드 제품 페이지" border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="보기 세부 정보가 있는 Azure 및 클라우드 제품 페이지입니다." border="false":::
 
 
-1. 키를 사용할 준비가 되 면이 페이지의 맨 아래에 있는 **활성화 연습** 옵션을 선택 합니다.
-   - 새 구독을 활성화 하거나 기존 구독을 사용 하지 않거나 사용 하지 않도록 설정 하려는 경우 **개인 또는 incognito 브라우저** 를 열고 다음 링크를 복사 하 여 붙여넣고 지침을 따릅니다.
+1. 키를 사용할 준비가 되면 이 페이지 아래쪽에 있는 **활성화 연습** 옵션을 선택합니다.
+   - 새 구독을 활성화하려는 경우 또는 기존 구독이 비활성화/만료된 경우 **프라이빗 또는 incognito 브라우저를** 연 다음, 다음 링크를 복사하여 붙여넣고 지침을 따릅니다.
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune 및 Windows 10 Enterprise 혜택은 더 이상 역량 혜택 패키지의 일부가 아닙니다. 중단된 독립 실행형 혜택 패키지의 대체 역할을 하는 Microsoft 365 E3 또는 Microsoft 365 E5 혜택을 활성화할 수 있습니다.
+M365 혜택의 설치 또는 배포에 대한 도움이 필요한 경우 기술 혜택을 사용하여 [기술 지원 티켓을](mpn-benefits-technical-support.md) 제기하세요.
       
-   - 종료 날짜를 연장하거나 기존 구독 복사본에 사용자/라이선스를 더 추가하려는 경우 아래 링크를 **프라이빗 또는 incognito 브라우저 창에** 붙여넣고 지침을 따릅니다.
+   - 종료 날짜를 연장하거나 기존 구독 복사본에 더 많은 사용자/라이선스를 추가하려는 경우 아래 링크를 **프라이빗 또는 incognito 브라우저 창에** 붙여넣고 지침을 따릅니다.
  
       [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
@@ -108,7 +112,7 @@ Azure 및 클라우드 제품 페이지의 라이선스 기반 구독 섹션에�
 
 ## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>종료 날짜 연장 또는 기존 구독에 라이선스 추가
 
-다음 단계에 따라 라이선스를 더 추가하거나 기존 구독의 종료 날짜를 연장합니다.
+다음 단계에 따라 더 많은 라이선스를 추가하거나 기존 구독의 종료 날짜를 연장합니다.
 
 1. 아래 링크를 복사하여 프라이빗 **또는 incognito 브라우저 창에** 붙여넣습니다.
 
@@ -118,33 +122,33 @@ Azure 및 클라우드 제품 페이지의 라이선스 기반 구독 섹션에�
 
    - 기존 구독을 갱신하려면 라이선스 영역에서 **종료 날짜 연장** 옵션을 선택합니다. 종료 날짜를 연장하면 라이선스/사용자 수를 동일하게 유지하면서 구독 기간이 늘어나게 됩니다. 
 
-   - 기존 구독에 더 많은 라이선스 (사용자)를 추가 하려면 라이선스 영역에서 **라이선스 추가** 옵션을 선택 합니다. 기존 구독을 갱신 하려면 **라이선스 추가** 를 선택 하지 않아야 합니다. **라이선스 추가** 를 선택 하면 구독 기간이 줄어들고 구독의 라이선스 수가 늘어납니다.
+   - 기존 구독에 더 많은 라이선스(사용자)를 추가하려면 라이선스 영역에서 **라이선스 추가** 옵션을 선택합니다. 기존 구독을 갱신하려는 경우에도 **라이선스 추가를** 선택하지 않도록 합니다. 라이선스 **추가를** 선택하면 구독 기간이 줄어들고 구독의 라이선스 수가 증가합니다.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="라이선스를 추가 하는 방법을 보여 주는 Azure 및 클라우드 제품 페이지" border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="라이선스를 추가하는 방법을 보여주는 Azure 및 클라우드 제품 페이지입니다." border="false":::
 
-1. 측면 패널에서 **제품 키** 를 선택 합니다. 
+1. 사이드 패널에서 **제품 키 사용** 을 선택합니다. 
 
-1. 제품 키를 입력 하 고 **유효성 검사** 를 선택 하 여 키 세부 정보를 확인 합니다. 
+1. 제품 키를 입력한 **다음, 유효성 검사를** 선택하여 키 세부 정보를 확인합니다. 
 
-1. 처리 **를 선택 하 여 프로세스** 를 완료 합니다.
+1. **사용** 을 선택하여 프로세스를 완료합니다.
 
    > [!NOTE]
-   > 각 제품 키는 제품 키를 사용한 날짜부터 12 개월 분량의 서비스를 제공 합니다. 그러나 기존 사용자가 초기 갱신 날짜를 사용 하는 경우에는 모든 사용자에 대해 단일 종료 날짜를 기준으로 구독을 보다 쉽게 관리할 수 있도록 두 날짜의 평균이 계산 됩니다. 계산 하는 동안 시간이 추가 되거나 손실 되지 않습니다. 두 날짜의 평균을 계산 하는 데 사용 되는 계산은 다음과 같습니다.
+   > 각 제품 키는 제품 키를 사용하는 날짜로부터 12개월 동안의 서비스를 사용자에게 제공합니다. 그러나 기존 사용자에게 조기 갱신 날짜가 있는 경우 모든 사용자의 단일 종료 날짜에 따라 구독을 보다 쉽게 관리할 수 있도록 두 날짜의 평균이 정해집니다. 계산하는 동안 시간이 추가되거나 손실되지 않습니다. 두 날짜의 평균을 계산하는 데 사용되는 계산은 다음과 같습니다.
    >
-   > **계산:** \[ (초기 사용자) x B (구독의 남은 시간) \+ C (새 사용자) x (12 개월) \] ÷ 총 사용자 수 = 남은 시간 (남은 시간)입니다.
+   > **계산:** \[ A (초기 사용자) x B(구독에 남은 시간) \+ C(새 사용자) x(12개월) \] ÷ 총 사용자 수 = 남은 새 시간.
 
 ## <a name="activate-a-subscription-for-the-first-time"></a>처음으로 구독 활성화
 
-처음으로 구독을 활성화 하는 경우 다음 단계를 수행 합니다. 구독이 사용 하지 않도록 설정 되거나 만료 된 상태에 있는 경우 다음 단계를 사용할 수도 있습니다.
+구독을 처음으로 활성화하는 경우 다음 단계를 수행합니다. 구독이 사용 안 함 또는 만료된 상태인 경우에도 다음 단계를 사용할 수 있습니다.
 
-1. 아래 링크를 복사 하 여 **개인 또는 incognito 브라우저 창** 에 붙여 넣습니다.
+1. 아래 링크를 복사하여 프라이빗 **또는 incognito 브라우저 창에** 붙여넣습니다.
    
    [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
-1. 올바른 Azure Active Directory 테 넌 트 계정에 로그인 했는지 확인 합니다. 로그인 하면 테 넌 트 세부 정보를 확인 합니다.
+1. 올바른 Azure Active Directory 테넌트 계정에 로그인했는지 확인합니다. 로그인한 후 테넌트 세부 정보를 확인합니다.
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="키를 추가할 위치를 보여 주는 Azure 및 클라우드 제품 페이지" border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-5.png" alt-text="키를 추가할 위치를 보여주는 Azure 및 클라우드 제품 페이지입니다." border="false":::
 
-1. 파트너 센터에서 가져온 25 자리 키를 입력 하 고 **다음** 을 선택 합니다.
+1. 파트너 센터 가져온 25자리 키를 입력한 후 **다음을** 선택합니다.
 
 2. 표시된 제품 세부 정보, 라이선스 수 및 구독 기간을 확인합니다. 준비가 되면 **사용** 을 선택하여 구독을 활성화합니다.
 
@@ -179,3 +183,5 @@ Azure 및 클라우드 제품 페이지의 라이선스 기반 구독 섹션에�
 - [Microsoft 365 Business Voice에](/microsoftteams/business-voice/whats-business-voice) 대해 자세히 알아보기
   
 - Business [Voice의 국가 및 지역 가용성에](/microsoftteams/business-voice/country-region-availability) 대해 알아보기
+
+- Microsoft 365 [Windows 10 배포하는](/windows/deployment/deploy-m365) 방법을 알아봅니다.
