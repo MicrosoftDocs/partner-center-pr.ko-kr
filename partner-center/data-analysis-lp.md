@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147210"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276861"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>분석을 사용하여 구독 수익에 대해 자세히 알아보기
 
@@ -29,11 +29,11 @@ CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 
 
 1. 후행 12개월 CSP 수익이 페이지 맨 위에 표시됩니다.
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="구독 화면":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="구독 화면.":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>TTM(후행 Twelve-Month) CSP 수익
 
-후행 12개월 CSP 수익은 파트너 글로벌 계정 수준에서 후행 클라우드 솔루션 공급자 프로그램 수익(USD)을 나타냅니다. 데이터는 매월 8일에 새로 고쳐 이전 달까지 후행 12개월 수익을 표시합니다. 예를 들어 2020년 9월 9일에는 2019년 9월부터 2020년 8월까지의 고정 기간에 대한 TTM을 볼 수 있습니다.
+후행 12개월 CSP 수익은 파트너 글로벌 계정 수준에서 후행 클라우드 솔루션 공급자 프로그램 수익(USD)을 나타냅니다. 데이터는 매월 8일에 새로 고쳐 전월까지 후행 12개월 수익을 표시합니다. 예를 들어 2020년 9월 9일에는 2019년 9월부터 2020년 8월까지의 고정 기간에 대한 TTM을 볼 수 있습니다.
 
 파트너 센터 표시되는 수익은 12개월의 고정 시간 간격으로 계산되며 더 짧은 시간 프레임으로 수정할 수 없습니다.
 
@@ -46,14 +46,14 @@ CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 
 
 ## <a name="subscription-summary"></a>구독 요약
 
-화면의 아래쪽에는 구독 요약이 표시 됩니다. 다음 필터를 사용 하 여 필요한 구독 정보를 확인 합니다.  
+화면의 아래쪽에는 구독 요약이 표시됩니다. 다음 필터를 사용하여 필요한 구독 세부 정보를 확인합니다.  
 
-1. **기간**:에 대 한 구독 요약을 표시 하도록 선택할 수 있습니다. 
+1. **기간:** 에 대한 구독 요약을 확인하도록 선택할 수 있습니다. 
 
-- 30D – 지난 30 일
-- 3M – 지난 3 개월
-- 6M – 지난 6 개월
-- 12M – 지난 12 개월
+- 30D – 지난 30일
+- 3M – 지난 3개월
+- 6M – 지난 6개월
+- 12M – 지난 12개월
 
 2. **제품 종류**:
  
@@ -62,13 +62,13 @@ CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 
 - Dynamics 365
 - EMS
 
-이러한 필터를 적용 해도이 보고서 맨 위에 있는 TTM 수익 메트릭에는 영향을 주지 않습니다.
+이러한 필터를 적용해도 이 보고서의 맨 위에 있는 TTM 수익 메트릭에는 영향을 미치지 않습니다.
 
 
  
 ## <a name="next-steps"></a>다음 단계
 
-- [고객이 구매한 라이선스를 사용 하는 방법 분석](increasing-adoption-and-satisfaction.md)  
+- [고객이 구매한 라이선스를 사용하는 방법 분석](increasing-adoption-and-satisfaction.md)  
 - [고객 활동 로그 보기](activity-logs.md)
 - [Power BI용 파트너 센터 분석 앱](power-bi-app-for-direct-partners.md)
 

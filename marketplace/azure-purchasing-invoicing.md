@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 04/15/2021
-ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.date: 01/18/2021
+ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630086"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276504"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 구매
 
@@ -35,40 +35,40 @@ Azure Portal의 Azure Marketplace 환경에서 구매할 응용 프로그램을 
 
 :::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="설정 + 구독 단추입니다.":::
 
-Azure Marketplace 온라인 스토어에서 솔루션을 배포하려면 제품 설명 페이지에서 **지금 받기를** 선택한 다음, Azure 계정 자격 증명으로 로그인합니다.
+Azure Marketplace online 스토어에서 솔루션을 배포 하려면 제품 설명 페이지에서 **지금 가져오기** 를 선택 하 고 Azure 계정 자격 증명을 사용 하 여 로그인 합니다.
 
 :::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Azure Marketplace 로그인 대화 상자입니다.":::
 
-로그인하면 구매를 완료하기 위해 Azure Portal 제품으로 리디렉션됩니다.
+로그인 하면 Azure Portal의 제품으로 리디렉션되고 구매를 완료할 수 있습니다.
 
 ## <a name="purchase-policy-management"></a>구매 정책 관리
 
-Microsoft에서는 Azure 구독 관리자로서 청구 프로필을 통해 사용자 구매를 관리할 수 있습니다. 다음 세 가지 옵션 중에서 선택합니다.
+Microsoft에서는 청구 프로필을 통해 Azure 구독 관리자로 사용자 구매를 관리할 수 있습니다. 다음 세 가지 옵션 중에서 선택합니다.
 
-- **무료 + 유료** – 사용자가 Azure Marketplace 소프트웨어 애플리케이션을 획득할 수 있습니다.
-- **무료** – 사용자가 Azure Marketplace 무료 소프트웨어만 배포할 수 있습니다.
-- **아니요** – 사용자가 Azure Marketplace 소프트웨어를 배포할 수 없습니다.
+- **무료 + 유료** – 사용자가 모든 Azure Marketplace 소프트웨어 응용 프로그램을 확보할 수 있습니다.
+- **무료** – 사용자가 Azure Marketplace에서 무료 소프트웨어만 배포할 수 있습니다.
+- **아니요** – 사용자가 Azure Marketplace에서 소프트웨어를 배포 하지 못하도록 합니다.
 
-이러한 설정은 Azure 구독에 액세스할 수 있는 모든 사용자에게 적용되며, 이를 통해 Azure Portal 통해 IT 조달을 제어할 수 있습니다.
+이러한 설정은 Azure 구독에 대 한 액세스 권한이 있는 모든 사용자에 게 적용 되어 Azure Portal를 통해 IT 조달을 제어 하는 기능을 제공 합니다.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Azure Portal 통해 IT 조달 제어":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Azure Portal를 통해 IT 조달을 제어 합니다.":::
 
 ## <a name="cost-management"></a>비용 관리
 
-Azure Marketplace 제품을 구매할 때 비용을 관리하는 데 도움이 되는 인사이트를 얻고자 합니다. Azure Cost Management 구매한 제품에 대한 정보를 볼 수 있는 무료 도구입니다. Cost Management 사용하여 시간에 따른 비용을 지출하는 서비스와 해당 비용이 설정한 예산에 대해 어떻게 추적되는지에 대한 세부 정보를 볼 수 있습니다. 예산을 설정하는 것 외에도 보고서를 예약하고 구독 비용을 분석할 수 있습니다. 비용 분석 및 Azure Cost Management 사용하여 [예산 만들기에서](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)Microsoft Learn 모듈을 완료하여 Azure Cost Management 대해 자세히 알아봅니다.
+Azure Marketplace에서 제품을 구매할 때 비용을 관리 하는 데 도움이 되는 정보를 얻을 수 있습니다. Azure Cost Management은 구매한 제품에 대 한 정보를 볼 수 있는 무료 도구입니다. Cost Management를 사용 하 여 시간에 따라 비용을 지불 하는 서비스 및 설정 된 예산에 대해 해당 비용을 추적 하는 방법에 대 한 세부 정보를 볼 수 있습니다. 예산을 설정 하는 것 외에도 보고서를 예약 하 고 구독 비용을 분석할 수 있습니다. [비용 분석 및 Azure Cost Management를 사용 하 여 예산 만들기](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)에서 Microsoft Learn 모듈을 완료 하 여 Azure Cost Management에 대해 자세히 알아보세요.
 
 Azure Cost Management의 비용 분석 도구에서 Azure Marketplace 요금 및 청구서를 볼 수 있습니다.
 
-:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Azure Cost Management 사용하여 구매한 제품에 대한 인사이트를 얻습니다.":::
+:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Azure Cost Management를 사용 하 여 구매한 제품에 대 한 정보를 얻을 수 있습니다.":::
 
-## <a name="purchase-validation-checks"></a>구매 유효성 검사
+## <a name="purchase-validation-checks"></a>유효성 검사 구매
 
-Azure Marketplace 통해 제품을 구매하는 것은 여러 가지 이유로 실패할 수 있습니다. 구매에 CLI(명령줄 인터페이스)를 사용하면 Azure Marketplace 사용할 수 없거나 표시되지 않는 제안을 구매하려고 할 수 있기 때문에 오류가 발생할 가능성이 높습니다. 다음은 구매가 실패할 수 있는 검사입니다.
+Azure Marketplace를 통해 제품을 구매 하는 것은 다양 한 이유로 실패할 수 있습니다. Azure Marketplace에서 제공 되지 않거나 표시 되지 않는 제품을 구매 하려고 할 수 있으므로 구매에 CLI (명령줄 인터페이스)를 사용 하면 오류가 발생할 가능성이 높습니다. 다음은 구매가 실패할 수 있는 검사입니다.
 
 1. 구독은 EA (기업계약)에 속하며 EA 관리자는 구매 Azure Marketplace 사용 하지 않도록 설정 했습니다.
 1. EA 관리자는 무료 제품에 대해서만 구매를 사용 하도록 설정 했으며 제품은 유료 제품입니다.
 1. Marketplace에서 제품을 찾을 수 없습니다.
-1. ISV (독립 소프트웨어 공급 업체)는 최소한 해당 지역의 제품을 사용 하지 않습니다 (이전에는 판매 중지).
+1. ISV (독립 소프트웨어 공급 업체)가 최소한의 지역에서 제품 판매를 중지 했습니다.
 1. 사용 중인 구독은 제품을 사용할 수 없는 지역의 청구 계정에 속합니다.
 1. 구독/청구 계정이 유효한 결제 방법 (예: 유효한 신용 카드)과 연결 되어 있지 않습니다.
 1. 구독이 CSP (클라우드 솔루션 공급자)에 속하며 ISV가 CSP를 통해 판매 하지 않았습니다.

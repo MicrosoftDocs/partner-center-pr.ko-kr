@@ -2,18 +2,18 @@
 title: 결제 및 소득 문제 해결
 ms.topic: article
 ms.date: 02/05/2021
-description: 누락되거나 잘못된 소득과 같은 문제를 해결하는 방법, 자격 문제 및 인센티브 수익을 조정하는 방법을 알아봅니다.
+description: 누락 또는 잘못된 소득, 자격 문제와 같은 문제를 해결하는 방법 및 인센티브 수익을 조정하는 방법을 알아봅니다.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151953"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277864"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>누락된 지불, 잘못된 소득 및 기타 문제 해결
 
@@ -27,7 +27,7 @@ ms.locfileid: "110151953"
 
 ## <a name="how-long-does-it-take-for-microsoft-to-approve-my-pending-payout-andor-tax-profiles"></a>Microsoft에서 보류 중인 지급 및/또는 세금 프로필을 승인하는 데 얼마나 걸리나요?
 
-유효성을 검사하는 데 최대 48시간이 걸릴 수 있습니다. 유효성을 검사하는 동안 개요 페이지의 프로필 상태는 '등록 유효성 검사 중'으로 표시됩니다. 프로세스가 완료되면 상태가 등록된 **경우** 또는 작업 필요 – 필요한 경우 **지불 및/또는 세금 세부 정보 업데이트로** 표시됩니다.
+유효성을 검사하는 데 최대 48시간이 걸릴 수 있습니다. 유효성을 검사하는 동안 개요 페이지의 프로필 상태는 '등록 유효성 검사 중'으로 표시됩니다. 프로세스가 완료되면 상태가 등록된 **경우** 또는 작업 필요 – **결제 및/또는 세금 세부 정보 업데이트(필요한** 경우)로 표시됩니다.
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>지급 및 세금 프로필을 올바르게 작성했는지 어떻게 알 수 있나요?
 
@@ -73,9 +73,9 @@ ms.locfileid: "110151953"
 수익 및 트랜잭션 세부 정보를 다운로드하여 조정을 찾고 조정할 수 있습니다.
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard/)에 로그인합니다.
-2. 위쪽 탐색 모음에서 money 아이콘을 선택한 다음, **트랜잭션 기록** 을 선택합니다.
+2. 위쪽 탐색 모음에서 money 아이콘을 선택한 다음, **트랜잭션 기록 을** 선택합니다.
 3. 적절한 필터를 적용합니다. (아래 **중요** 참고를 참조하세요.)
-4. 데이터를 필터링했으면 **다운로드 시작을** 선택한 다음, **데이터 내보내기** 를 선택합니다. 데이터가 CSV 파일에서 열립니다.
+4. 데이터를 필터링한 후 **다운로드 시작을** 선택한 다음, **데이터 내보내기** 를 선택합니다. 데이터가 CSV 파일에서 열립니다.
 5. CSV 파일에서 열 P, **수익 유형으로** 이동합니다.
 6. **조정-다시 요청** 에 대해 이 열을 필터링합니다. 열 S에서 각 조정의 월을 볼 수 있습니다.
 
@@ -84,7 +84,7 @@ ms.locfileid: "110151953"
 >
 >예를 들어 2019년 9월에 처리된 2019년 1월 소득 조정은 2019년 9월의 소득 금액에 반영되지 않습니다. 그러나 2019년 9월 지급이 수신되면 9월에 적용된 2019년 1월에 대한 조정이 포함됩니다. 이 시나리오에서는 적용된 조정을 보려면 2019년 1월의 트랜잭션 세부 정보를 다운로드해야 합니다.
 >
->날짜 필터를 설정할 때이 점을 염두에 두어야 합니다. 위에서 설명한 것 처럼 이전 기간에 대 한 조정은 조정을 적용 한 달에만 표시 됩니다. 선택한 날짜 범위가 찾으려고 하는 조정의 월에 해당 하는지 다시 한 번 확인 합니다. **모두 지우기** 를 선택 하 여 필터를 제거한 다음 새 필터를 적용 해야 할 수도 있습니다.
+>날짜 필터를 설정할 때는 이 점을 염두에 두어야 합니다. 위에서 설명한 대로 이전 기간에 대한 조정은 조정이 적용된 달에만 표시됩니다. 선택한 날짜 범위가 찾으려는 조정 월과 일치하는지 다시 확인합니다. 필터를 제거한 다음 새 필터를 적용하려면 **모두 지우기를** 선택해야 할 수 있습니다.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>공동 클레임 지급금이 두 가지 통화로 제공되는 이유는 무엇인가요?
 
@@ -94,33 +94,33 @@ ms.locfileid: "110151953"
 
 모든 인센티브 프로그램에는 설치 중에 생성된 은행 프로필이 있습니다. 해당 프로필에 지정된 통화가 지급 시 적용되는 통화입니다.
 
-## <a name="i-dont-see-earnings-for-a-certain-period"></a>특정 기간의 소득이 표시 되지 않습니다.
+## <a name="i-dont-see-earnings-for-a-certain-period"></a>특정 기간 동안 소득이 표시되지 않습니다.
 
-예상 되는 기간에 대 한 소득이 표시 되지 않을 경우 일반적으로 다음 문제 중 하나로 인해 발생 합니다.
+예상되는 기간 동안 소득이 표시되지 않는 경우 일반적으로 다음 문제 중 하나 때문입니다.
 
-- **적합 하지 않을 수 있습니다.**  소득은 운영 자격 요건을 충족하는 경우, 즉 관련 프로그램 소득 기간에 등록된 경우에만 제공됩니다.
+- **자격이 없을 수 있습니다.**  소득은 운영 자격 요건을 충족하는 경우, 즉 관련 프로그램 소득 기간에 등록된 경우에만 제공됩니다.
 
-- **지불 프로필이 불완전할 수 있습니다.**  모든 자격 요건(예: 지급 및 세금 세부 정보 온보딩)을 충족한 달의 첫날이 인센티브 소득 시작 날짜가 됩니다. 지급 및 세금 세부 정보를 작성한 날의 이전 달에 대한 소득은 제공되지 않습니다. 예를 들어 2020년 4월 중에 모든 요구 사항을 완료하는 경우 소득 시작 날짜는 2020년 4월 1일입니다.
+- **결제 프로필이 불완전할 수 있습니다.**  모든 자격 요건(예: 지급 및 세금 세부 정보 온보딩)을 충족한 달의 첫날이 인센티브 소득 시작 날짜가 됩니다. 지급 및 세금 세부 정보를 작성한 날의 이전 달에 대한 소득은 제공되지 않습니다. 예를 들어 2020년 4월 중에 모든 요구 사항을 완료하는 경우 소득 시작 날짜는 2020년 4월 1일입니다.
 
-지급 및 세금 세부 정보를 사용 하 여 등록을 포함 하 여 자격 요구 사항을 완료 했 고 소득이 아직 없는 경우 [지원](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)담당자에 게 문의 하세요.
+정시에 지급 및 세금 세부 정보를 포함하는 자격 요구 사항을 완료했으며 소득이 여전히 누락된 경우 [지원 담당자에게](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)문의하세요.
 
-## <a name="my-earnings-are-missing-or-incorrect"></a>내 소득이 없거나 잘못 되었습니다.
+## <a name="my-earnings-are-missing-or-incorrect"></a>내 소득이 누락되거나 잘못되었습니다.
 
 누락되거나 잘못된 소득은 다음 문제 중 하나로 인해 발생할 수 있습니다.
 
 - **요구 사항을 충족하지 못한 경우**  원하는 인센티브의 [자격](#my-payment-is-missing-or-incorrect) 및 적격 수익 규칙을 충족했는지 확인합니다.
 
-- **불일치가 있을 수 있습니다.**  [프로그램 자격](incentives-determined-your-program-eligibility.md) 및 [소득 자격](incentives-confirm-your-earnings-eligibility.md) 요구 사항을 모두 충족 하 고 소득이 잘못 된 것으로 나타나는 경우 다음 정보를 참조 하 여 데이터를 검색할 수 있습니다.
+- **불일치가 있을 수 있습니다.**  [프로그램 자격](incentives-determined-your-program-eligibility.md) 및 소득 [자격](incentives-confirm-your-earnings-eligibility.md) 요구 사항을 모두 충족하고 소득이 여전히 잘못된 것으로 표시되는 경우 다음 정보를 통해 데이터를 검색할 수 있습니다.
 
-소득은 **트랜잭션 기록** 페이지와 **지불** 페이지에 모두 표시 됩니다. 파트너 센터의 탐색 모음에서 **지급** 아이콘을 선택 하 여 두 페이지에 모두 액세스할 수 있습니다.
+수익은 **거래 기록** 페이지와 **결제** 페이지에 모두 표시됩니다. 파트너 센터 탐색 모음에서 **지급** 아이콘을 선택하여 두 페이지에 모두 액세스할 수 있습니다.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="트랜잭션 정보":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="트랜잭션 정보입니다.":::
 
-트랜잭션 기록 보기의 월간 획득 금액은 특정 월에 받은 지불 금액에 맞지 않을 수 있습니다. 이는 미래 지불액에 적용 되는 이전 획득 기간을 다시 계산 하 고 조정 하기 때문입니다.
+트랜잭션 기록 보기의 월별 수익 금액은 특정 월에 받은 지불 금액과 일치하지 않을 수 있습니다. 이는 향후 지불에 적용되는 이전 수익 기간에 대한 다시 계산 및 조정 때문입니다.
 
-예를 들어 9 월 2019에 처리 된 1 월 2019 소득에 대 한 조정은 9 월 2019 일의 소득 금액에 반영 되지 않습니다. 그러나 9 월 2019에 대 한 결제를 받은 경우 9 월에 적용 된 1 월 2019의 조정을 포함 합니다.
+예를 들어 2019년 9월에 처리된 2019년 1월 소득 조정은 2019년 9월 소득 금액에 반영되지 않습니다. 그러나 2019년 9월 지급이 수신되면 9월에 적용된 2019년 1월에 대한 조정이 포함됩니다.
 
-이 시나리오에서는 지불에 포함 된 모든 소득의 전체 보기를 얻기 위해 트랜잭션 세부 정보를 다운로드 해야 합니다.  또한 지불 보기로 이동 하 여 각 지불에 대 한 트랜잭션을 다운로드할 수 있습니다.
+이 시나리오에서는 결제에 포함된 모든 소득의 전체 보기를 얻으려면 트랜잭션 세부 정보를 다운로드해야 합니다.  또한 결제 보기로 이동하여 각 결제에 대한 트랜잭션을 다운로드할 수 있습니다.
 
 ### <a name="transaction-history"></a>거래 기록
 
@@ -147,23 +147,23 @@ ms.locfileid: "110151953"
 
 소득에 불일치가 있는 경우 다음 단계를 완료합니다.
 
-1. **소득에 대한 자격이 있는지 확인합니다.**  수입은 [프로그램 자격](incentives-determined-your-program-eligibility.md) 및 [소득 자격](incentives-confirm-your-earnings-eligibility.md)을 모두 충족 하는 경우에만 사용할 수 있습니다.
+1. **소득에 대한 자격이 있는지 확인합니다.**  소득은 [프로그램 자격](incentives-determined-your-program-eligibility.md) 및 소득 자격을 모두 충족하는 경우에만 사용할 수 [있습니다.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **지불 프로필이 완료되었는지 확인합니다.**  모든 자격 요건(예: 지급 및 세금 세부 정보 온보딩)을 충족한 달의 첫날이 인센티브 소득 시작 날짜가 됩니다. 지급 및 세금 세부 정보를 작성한 날의 이전 달에 대한 소득은 제공되지 않습니다. 예를 들어 2020년 4월 중에 모든 요구 사항을 완료하는 경우 소득 시작 날짜는 2020년 4월 1일입니다. 
 
-3. **요구 사항을 충족했는지 확인합니다.**  동기 프로그램에 대 한 [적격 및 적격 수익 규칙을 충족](#my-payment-is-missing-or-incorrect) 했는지 확인 합니다.
+3. **요구 사항을 충족했는지 확인합니다.**  인센티브 프로그램에 대한 [자격](#my-payment-is-missing-or-incorrect) 및 적격 수익 규칙을 충족했는지 확인합니다.
 
-이러한 작업이 도움이 되지 않고 소득이 아직 조정 되지 않은 경우 [지원](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)담당자에 게 문의 하세요.
+이러한 작업이 도움이 되지 않고 소득이 여전히 조정되지 않는 경우 지원 에 [문의하세요.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="where-can-i-find-my-rates"></a>내 요금을 어디서 찾을 수 있나요?
 
-1. [파트너 성과급](https://partner.microsoft.com/membership/partner-incentives)에 로그인 합니다.
+1. 파트너 인센티브 에 [로그인합니다.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. 아래로 스크롤하여 프로그램의 문서에 액세스 합니다.
+2. 프로그램에 대한 문서에 액세스하는 Scroll down.
 
-3. 해당 프로그램에 대 한 문서 링크를 선택 합니다.
+3. 해당 프로그램에 대한 문서 링크를 선택합니다.
 
-4. 문서에서 **프로그램 구조 및 속도** 섹션을 참조 하세요.
+4. 문서에서 프로그램 구조 및 요금 섹션을 **참조하세요.**
 
 ## <a name="next-steps"></a>다음 단계
 

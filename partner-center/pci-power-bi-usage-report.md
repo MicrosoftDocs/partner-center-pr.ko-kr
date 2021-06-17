@@ -8,12 +8,12 @@ description: 사용자가 수행 하는 작업을 확인 하 고 고객을 위�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854591"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276300"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용 가능한 Power BI 사용 보고서
 
@@ -46,39 +46,39 @@ Power BI 사용 보고서는 고객이 판매 하거나 관리 하는 Power BI �
 
    마이크로 차트는 선택한 기간 동안 월별 활성 좌석의 월 추세를 표시 합니다.
 
-- 활성 사용량 %: 선택한 시간 프레임에 사용 가능한 시트의 백분율로 표현된 활성 시트의 총 수입니다. 
+- 활성 사용%: 선택한 시간 프레임에 대해 사용 가능한 사용자의 백분율로 표시 된 활성 사용자의 총 수입니다. 
 
-   마이크로 차트는 선택한 기간 동안 활성 사용률의 월별 추세를 표시합니다.
+   마이크로 차트는 선택한 기간에 대 한 활성 사용 비율의 월 추세를 표시 합니다.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI 사용 요약":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI 사용 요약입니다.":::
 
-## <a name="power-bi-usage-by-geography"></a>지리별 사용량 Power BI
+## <a name="power-bi-usage-by-geography"></a>지리 별 Power BI 사용
 
-**지리별 Power BI 사용량은** 고객 국가별 사용 가능한 사용자 및 활성 사용자 분포를 표현합니다. 맵의 밝은 색은 낮은 값을 나타내고 어두운 색은 더 높은 값을 나타냅니다. 확대/축소할 그리드에서 국가를 검색하고 선택할 수 있습니다.
+**Geography에의 한 사용 Power BI** 사용 가능한 사용자의 배포 및 고객 국가의 활성 사용자 수를 보여 줍니다. 지도의 밝은 색은 낮은 값을 나타내고, 짙은 색은 더 높은 값을 나타냅니다. 표에서 국가를 검색 하 고 선택 하 여 확대할 수 있습니다.
 
-**국가/지역** 수 테이블에는 Azure 사용량 이벤트가 생성되는 총 국가/지역이 표시됩니다.
+**국가/지역 테이블 수** 에는 Azure 사용 이벤트가 생성 되는 총 국가/지역이 표시 됩니다.
 
-그리드에서 국가를 검색하고 선택하여 지도의 위치를 확대/축소할 수 있습니다. 맵에서 **홈** 옵션을 선택하여 원래 보기로 되돌려야 합니다.
+표에서 국가를 검색 하 고 선택 하 여 지도의 위치를 확대할 수 있습니다. 맵의 **홈** 옵션을 선택 하 여 원래 뷰로 되돌립니다.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="지리별 사용량 Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="지리 별 사용을 Power BI 합니다.":::
 
-## <a name="power-bi-usage-by-sku"></a>SKU별 Power BI 사용량
+## <a name="power-bi-usage-by-sku"></a>SKU에서 Power BI 사용
 
-SKU별 Power BI 사용량은 사용 가능한 시트, 활성 시트 및 SKU별 할당된 시트의 월별 추세를 표현합니다.
+SKU에의 한 Power BI 사용량은 사용 가능한 사용자 수, 활성 사용자 수 및 Sku 별 할당 된 사용자의 월간 추세를 보여 줍니다.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="SKU별 Power BI 사용량":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="SKU에의 한 사용을 Power BI 합니다.":::
 
 ## <a name="subscriptions-performance"></a>구독 성능
 
-구독 성능은 고객 구독당 활성 사용량의 월별 추세를 보여 줍니다. 청구된 수익별 상위 100명의 고객에 대한 데이터가 표에 표시되며, 모든 고객을 검색하거나 원시 데이터를 다운로드하여 모든 구독에 대한 세부 정보를 볼 수 있습니다.
+구독 성능은 고객 구독 당 활성 사용의 월간 추세를 나타냅니다. 청구 된 수입 별 상위 100 고객에 대 한 데이터는 테이블에 표시 되며, 고객을 검색 하거나 원시 데이터를 다운로드 하 여 모든 구독에 대 한 세부 정보를 볼 수 있습니다.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="구독 성능 Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI 구독 성능.":::
 
 ## <a name="power-bi-usage-distribution"></a>Power BI 사용량 분포
 
-Power BI 사용량 분포는 사용 가능한 사용자, 활성 사용자 및 S SKU별 할당된 사용자에 대한 분석을 제공합니다.
+Power BI 사용량 분포는 사용 가능한 사용자, 활성 사용자 및 Sku 별 할당 된 사용자의 분석을 보여 줍니다.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI 사용량 분포":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Power BI 사용 분포입니다.":::
 
 ## <a name="next-steps"></a>다음 단계
 

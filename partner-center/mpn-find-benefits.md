@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152395"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276572"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft 파트너 네트워크 혜택 찾기 
 
@@ -41,25 +41,25 @@ Microsoft 파트너 네트워크 멤버로서 회사는 비즈니스 성장을 �
    - [Marketplace 보상](marketplace-rewards.md)
    - [로고 작성기](mpn-logo-builder.md)
 
-3. 혜택을 확장 (+) 하면 특정 혜택을 활성화 하는 데 도움이 되는 추가 정보를 찾을 수 있습니다.
+3. 혜택( + )을 확장하면 특정 혜택을 활성화하는 데 도움이 되는 추가 정보를 찾을 수 있습니다.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="확장 된 이점":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="확장된 이점.":::
 
    > [!NOTE]
-   > 혜택을 활성화 하려면 파트너 센터에서 Global admin 또는 MPN partner admin의 역할을 할당 받아야 합니다. 그러나 회사의 다른 모든 사용자는 제품 지원 Id와 같은 파트너 센터에서 혜택 세부 정보를 볼 수 있어야 합니다. 파트너 센터 역할에 대 한 자세한 내용은 [파트너 센터에서 사용자 역할 및 사용 권한 할당](permissions-overview.md)을 참조 하세요.
+   > 혜택을 활성화하려면 파트너 센터 전역 관리자 또는 MPN 파트너 관리자 역할이 할당되어야 합니다. 그러나 회사의 다른 모든 사용자는 제품 지원 파트너 센터 같은 혜택 세부 정보를 볼 수 있어야 합니다. 파트너 센터 역할에 대한 자세한 내용은 파트너 센터 [사용자 역할 및 권한 할당을 참조하세요.](permissions-overview.md)
 
 ## <a name="specific-benefit-offers"></a>특정 혜택 제안
 
-Microsoft Action Pack, 실버 및/또는 골드 역량에서 사용할 수 있는 혜택을 확인 하려면 다음 리소스를 참조 하세요.
+Microsoft Action Pack, Silver 및/또는 Gold 역량에서 사용할 수 있는 혜택을 확인하려면 다음 리소스를 참조하세요.
 
-- [Microsoft Action Pack 파트너에 대 한 라이선스 테이블](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
+- [Microsoft Action Pack 파트너를 위한 라이선스 테이블](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
-- [역량 파트너에 대 한 라이선스 테이블](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
+- [역량 파트너에 대한 라이선스 테이블](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
-이러한 이점을 활용 하는 방법에 대 한 자세한 내용은 [제품 사용 가이드](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)를 참조 하세요.
+이러한 혜택을 사용하는 방법을 알아보려면 제품 사용 가이드 를 [참조하세요.](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)
 
 ## <a name="next-steps"></a>다음 단계
 
 - [직원 Microsoft Learn 계정 연결](ms-learn-associate.md)
 - [Microsoft 파트너 네트워크 혜택 및 제품 관리](manage-your-partner-network-benefits.md)
-- [PMC (파트너 구성원 센터)의 구성원에 대 한 기술 혜택 활성화](partner-membership-center-tech-benefits-activate.md)
+- [PMC(Partner Membership Center 멤버의 기술 혜택 활성화)](partner-membership-center-tech-benefits-activate.md)

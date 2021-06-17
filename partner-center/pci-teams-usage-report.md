@@ -8,12 +8,12 @@ description: 잘하고 있는 사항과 고객을 위해 판매하거나 관리�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855185"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277337"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Teams 사용 현황 보고서
 
@@ -31,7 +31,7 @@ Teams 사용 현황 보고서는 고객을 위해 판매하거나 관리하는 T
 
 ## <a name="summary"></a>요약
 
-요약 섹션에서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 핵심 지표의 스냅샷 보기를 제공합니다.  
+요약 섹션에서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 주요 지표의 스냅샷 보기를 제공합니다.  
 
 - 고객: 선택한 기간 동안 Teams를 워크로드로 사용하는 고객의 고유 수입니다.
 
@@ -43,28 +43,28 @@ Teams 사용 현황 보고서는 고객을 위해 판매하거나 관리하는 T
 
 - 평균 모임 기간(분): 평균 회의 기간(분)입니다. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Teams 사용 요약":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Teams 사용 요약.":::
 
 ## <a name="conversations-trend"></a>대화 추세
 
-대화 추세 보고서는 팀 회의, 통화 및 전화 시스템의 월별 추세와 평균 모임 기간 (분)을 보여 줍니다.
+대화 추세 보고서는 평균 회의 기간(분)과 함께 Teams 모임, 통화 및 전화 시스템의 월별 추세를 보여 줍니다.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="팀 사용 대화 추세":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="teams 사용량 대화 추세.":::
 
-## <a name="teams-usage-by-workloads"></a>워크 로드 별 팀 사용
+## <a name="teams-usage-by-workloads"></a>워크로드별 팀 사용량
 
-팀이 작업을 통해 사용 하는 팀은 작업 별로 분할 된 팀의 데스크톱, 모바일 및 웹 사용자의 월별 분할을 보여 줍니다.
+워크로드별 Teams 사용량 보고서에는 워크로드별로 분할된 Teams의 데스크톱, 모바일 및 웹 사용자의 월별 분할이 표시됩니다.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="워크 로드 별 팀 사용":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="워크로드별 팀 사용량.":::
 
-## <a name="top-customers-by-usage"></a>사용량 별 상위 고객
+## <a name="top-customers-by-usage"></a>사용량별 상위 고객
 
-사용량 별 상위 고객 보고서는 팀 회의, 통화 및 전화 시스템과 타사 앱에 대 한 상위 고객의 사용량을 보여 줍니다.
+사용량별 상위 고객 보고서에는 Teams 회의, 통화, 전화 시스템 및 타사 앱에 대한 상위 고객의 사용량이 표시됩니다.
 
-:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="사용량 별 상위 고객":::
+:::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="사용량별 상위 고객.":::
 
 ## <a name="next-steps"></a>다음 단계
 
-- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
+- 자세한 보고서는 [파트너 센터 Insights를 참조하세요.](partner-center-insights.md)
 
-- Insights 대시보드의 보고서 다운로드 섹션에서 원시 데이터를 다운로드 하 여이 보고서를 켤 수 있습니다. [자세한 내용](pci-download-reports.md) 
+- 인사이트 대시보드의 보고서 다운로드 섹션에서 이 보고서를 구동하는 원시 데이터를 다운로드할 수 있습니다. [자세한 내용](pci-download-reports.md) 

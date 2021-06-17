@@ -1,6 +1,6 @@
 ---
 title: 파트너 계정을 다른 파트너 계정과 병합
-description: 파트너 센터 활성 Microsoft 파트너인 회사를 위해 파트너 계정을 파트너 센터 다른 파트너 계정과 병합하는 방법을 알아봅니다.
+description: 파트너 센터의 활성 Microsoft 파트너인 회사의 파트너 센터에서 파트너 계정을 다른 파트너 계정에 병합 하는 방법에 대해 알아봅니다.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -8,48 +8,48 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146513"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276640"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>파트너 계정을 다른 파트너 계정과 병합
 
-**적절한 역할:** 계정 관리자
+**적절 한 역할**: 계정 관리자
 
-활성 Microsoft 파트너이며 파트너 센터 계정이 있는 둘 이상의 회사에서 해당 계정을 병합하도록 선택할 수 있습니다.
+활성 Microsoft 파트너 이며 파트너 센터에 계정이 있는 두 개 이상의 회사는 자신의 계정을 병합 하도록 선택할 수 있습니다.
 
-## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>두 파트너가 파트너 센터 계정을 병합하도록 선택하면 어떻게 되나요?
+## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>두 파트너가 파트너 센터 계정을 병합 하도록 선택 하면 어떻게 되나요?
 
-- 병합을 시작하는 파트너 조직은 PGA(파트너 글로벌 계정)가 됩니다.
+- 병합을 시작 하는 파트너 조직은 해당 하는 파트너 전역 계정 (표준)이 됩니다.
 
-- 초대된 조직의 PGA는 시작 회사의 위치가 됩니다.
+- 초대 된 조직의 고가 시작 하는 회사의 위치가 됩니다.
 
-- 병합 계정의 모든 위치는 PGA 아래의 위치가 됩니다.
+- 병합 계정의 모든 위치는 이러한 위치에서 위치가 됩니다.
 
-- 계정 병합이 완료되면 PGA 프로필 내의 위치 및 사용자와 같은 계정의 세부 정보가 모두 표시됩니다. 이 프로세스는 되돌릴 수 없습니다.
+- 계정 합병이 완료 되 면 해당 계정에 대 한 세부 정보 (예: 위치 및 사용자 프로필 내 사용자)가 모두 표시 됩니다. 이 프로세스는 되돌릴 수 없습니다.
 
-- 이 통합 중에 위치에 대한 모든 MPN ID가 유지됩니다.
+- 위치에 대 한 모든 MPN Id는이 통합을 수행 하는 동안 보존 됩니다.
 
-- 사용자의 역할이 인계됩니다. 예를 들어 사용자가 특정 위치에 대한 인센티브 관리자인 경우 합병 후에도 해당 역할을 맡게 되며 합병 전에 본 인센티브도 볼 수 있습니다.
+- 사용자의 역할을 가져옵니다. 예를 들어 사용자가 특정 위치에 대 한 성과급 관리자 인 경우 해당 역할은 병합 후에도 해당 역할을 수행 하 고 합병 전에 표시 되는 성과급을 볼 수 있습니다.
 
-- Azure AD 테넌트 및 CSP 계정은 병합되지 않으며 아무런 영향을 미치지 않습니다.
+- Azure AD 테 넌 트 및 CSP 계정은 병합 되지 않으며 효과가 없습니다.
 
-- 두 회사에 연결된 게시된 제품 및 공동 판매 파이프라인 데이터가 유지됩니다.
+- 두 회사에 연결 된 게시 된 제안 및 공동 판매 파이프라인 데이터는 유지 됩니다.
 
-### <a name="view-of-merged-accounts"></a>병합된 계정 보기
+### <a name="view-of-merged-accounts"></a>병합 된 계정 보기
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="계정 병합기":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="계정 병합.":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>파트너 센터 계정을 다른 파트너 센터 계정과 병합하도록 초대된 경우 예상되는 예상 내용
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>파트너 센터 계정을 다른 파트너 센터 계정과 병합 하기 위해 초대 된 경우에 발생할 수 있는 것입니다.
 
-병합 계정에 대한 초대를 수락하기로 결정한 경우: ' MPN ID 및 위치는 초대한 파트너 계정의 PGA에 병합됩니다.
+계정 병합 초대를 수락 하기로 결정 한 경우: · MPN ID와 위치는 사용자가 초대한 파트너 계정에 병합 됩니다.
 
-- 사용자는 역할이 그대로 유지된 병합된 계정으로 전환됩니다.
+- 사용자는 해당 역할이 그대로 유지 되는 병합 된 계정으로 전환 됩니다.
 
-- 기존 혜택 및 역량은 합병 후 갱신될 때까지 두 회사에 대해 유지됩니다. 갱신 시 계정이 한 회사로 처리 되 고 표준 갱신 규칙이 적용 됩니다.
+- 기존 혜택 및 역량은 갱신할 때까지 합병 후 두 회사 모두에 대해 유지 됩니다. 갱신 시 계정이 한 회사로 처리 되 고 표준 갱신 규칙이 적용 됩니다.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>파트너가 계정을 병합 하도록 선택 하는 경우 프로그램 및 이점에 대 한 영향 이해
 
@@ -128,4 +128,4 @@ ms.locfileid: "110146513"
 
 - [파트너 프로필 정보 확인](update-your-partner-profile.md)
 
-- [파트너가 자신의 용도로 Azure 구독을 구매할 수 있도록 Azure Partner Shared Services 추가](shared-services.md)
+- [파트너가 각자의 용도에 맞게 Azure 구독을 구입할 수 있도록 Azure 파트너 공유 서비스를 추가 합니다.](shared-services.md)

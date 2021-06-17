@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e480481304bda816afe0bf08c66fcb4b063f1f49
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152888"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277541"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 역량 보고서
 
@@ -52,40 +52,40 @@ ms.locfileid: "110152888"
 요약 뷰는 역량 수명 주기의 모든 단계에서 각 역량 수준 (금색/실버)에 해당 이름으로 역량 수를 제공 합니다. 역량 수명 주기의 단계에는 **시작 됨**, **정규화** 됨, **활성** 및 **위험이** 있습니다. 예: 클라우드 역량 요구 사항은 두 가지 범주인 기술 및 성능으로 분류 됩니다.
 
 - 시작: 기본 요구 사항 중 하나 이상이 진행 중인 역량의 수입니다.
-역량 이름을 사용하는 역량 수준(실버/골드)을 통해 시작된 역량을 분석합니다.
+역량 수준 (실버/골드)에 따라 역량 이름이 있는 시작 된 역량 수를 분석 합니다.
 
-- 적격: 요구 사항을 충족했지만 관련 실버/골드 제안을 구매했거나 아직 구매하지 않았을 수 있는 역량입니다. 역량 이름을 사용하는 역량 수준(실버/골드)을 통해 적격 역량 수를 분석합니다.
+- 우량: 요구 사항을 충족 했지만 관련 된 실버/골드 제안을 아직 구매할 수도 있지만 구매할 수도 있습니다. 역량 이름을 사용 하는 역량 수준 (실버/골드) 별 정규화 된 역량 수를 분석 합니다.
 
-- 활성: 요구 사항을 충족하고 실버/골드 제안을 구매한 역량입니다. 역량 이름을 사용하는 역량 수준(실버/골드)을 통해 활성 역량 수를 분석합니다.
+- 활성: 요구 사항을 충족 하 고 실버/골드 제품을 구매한 사용자의 능력입니다. 역량 이름이 포함 된 역량 수준 (실버/골드) 별 활성 역량 수를 분석 합니다.
 
-- 위험(내년): 현재 **활성 상태이지만** 다음 연도에 대한 요구 사항을 충족하지 못할 **위험이** 있는 역량의 수입니다.
-다음 연도에 적격하지 않을 위험이 있는 역량 분석(역량 이름 포함 실버/골드와 같은 역량 수준별).
+- 위험 (다음 연도): 현재 **활성화** 되어 있지만 다음 연도의 요구 사항을 충족 하지 못하는 **위험에 노출** 되는 역량의 수입니다.
+다음 해에 한정 되지 않을 위험이 있는 역량 수준 (예: 실버/골드, 역량 이름)의 분석입니다.
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="역량 요약":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="역량 요약.":::
 
 ### <a name="competency-metric-analysis"></a>역량 메트릭 분석
 
-이 보기는 파트너가 실버/골드 수준에서 역량을 획득/유지하는 데 필요한 임계값에 대한 역량 메트릭의 상태를 보여줍니다. 
+이 보기는 파트너에 게 실버/골드 수준에서 역량을 달성/보유 하는 데 필요한 임계값에 대 한 역량 메트릭의 상태를 표시 합니다. 
 
-보고서는 다음 두 날짜 범위로 피벗할 수 있습니다.
+보고서는 다음과 같은 두 개의 날짜 범위로 피벗 될 수 있습니다.
 
-1. TTM 보기: 지난 12개월(TTM)에 대한 파트너 성능을 열거합니다.
-2. 1주년 보기: 이전 1주년 날짜부터 다음 1주년 날짜까지 파트너 성과를 열거합니다.
+1. TTM 보기: TTM (지난 12 개월) 동안의 파트너 성과를 열거 합니다.
+2. 기념일 년 보기: 이전 기념일에서 다음 기념일 날짜 까지의 파트너 성과를 열거 합니다.
 
 :::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="역량 메트릭 분석":::
 
 > [!NOTE]
- > 모든 메트릭이 분석에서 다루지는 않습니다. 현재 학습 및 인증과 관련된 메트릭은 역량 보고서에서 지원되지 않습니다. 또한 현재 **활성** 역량 상태에 대한 메트릭 분석에서는 CBA(클라우드 Business Applications) 역량이 지원되지 않습니다.
+ > 모든 메트릭이 분석에서 적용 되는 것은 아닙니다. 현재 학습 및 인증과 관련 된 메트릭은 역량 보고서에서 지원 되지 않습니다. CBA (Cloud Business Applications) 역량도 현재 **활성** 역량 상태에 대 한 메트릭 분석에서 지원 되지 않습니다.
 
 ### <a name="competency-history"></a>역량 기록
 
-이 보기는 역량 수준 및 역량 스테이지를 통해 지금까지 달성한 모든 역량에 대한 자세한 표를 보여줍니다.
+이 보기에는 역량 수준 및 역량 단계를 사용 하 여 지금까지 획득 한 모든 역량의 상세 테이블이 표시 됩니다.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="역량 기록":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="역량 기록.":::
 
 ## <a name="next-steps"></a>다음 단계
 
-- 자세한 보고서는 [파트너 센터 Insights를 참조하세요.](partner-center-insights.md)
+- 자세한 보고서는 [파트너 센터 정보](partner-center-insights.md)를 참조 하세요.
 
 >[!NOTE] 
-> 인사이트 대시보드의 보고서 다운로드 섹션에서 이 보고서를 구동하는 원시 데이터를 다운로드할 수 있습니다. [자세한 내용](pci-download-reports.md) 
+> Insights 대시보드의 보고서 다운로드 섹션에서 원시 데이터를 다운로드 하 여이 보고서를 켤 수 있습니다. [자세한 내용](pci-download-reports.md) 
