@@ -9,16 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276385"
+ms.locfileid: "112318098"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>TPD(기술 사전 판매 및 배포 서비스) 살펴보기 
 
-**적절한 역할**: MPN 파트너 관리자
+**적절 한 역할**: 조직에 활성 역량 또는 Microsoft Action Pack 있는 경우 모든 MPN 사용자 계정
 
 컨설팅, 사전 판매 지원, 자문 시간 등을 포함한 기술 사전 판매 및 배포 서비스에 대한 Microsoft MPN(파트너 네트워크)의 혜택에 대해 알아보세요.
 
@@ -44,14 +44,14 @@ ms.locfileid: "112276385"
 
 ## <a name="delivery-scenarios"></a>배달 시나리오
 
-- **기술 예약 판매 상담** 는 가치 제안을 정의 하 고, 비용 예측을 제공 하 고, 고객 objections를 관리 하 고, 경쟁 업체에 대응 하 여 기술 솔루션, 개념 증명, 아키텍처 계획 및 디자인을 보여 주는 데 사용 됩니다.
+- **기술 예약 판매 상담** 는 가치 제안을 정의 하 고, 비용 예상치를 제공 하 고, 기술 라이선스를 제공 하 고, 고객 관리를 관리 하 고, 경쟁 솔루션, 개념 증명, 아키텍처 계획 및 디자인을 설명 하는 작업을 제공 하는 데 사용 됩니다.
 
-  - *지원 되지 않음:* 판매 파이프라인 계획, 가격 책정 및 가격 목록.
+  - *지원 되지 않음:* 판매 파이프라인 계획, 최종 고객 토론, 라이선스 가격 및 가격 목록.
 
 
 - **Deployment 상담** 는 아키텍처 계획 및 디자인 지침, 모범 사례, 배포 지침, 제품 참조 및 설명서에 사용 됩니다.
 
-  - *지원 되지 않음:* 지원/문제 해결, 현장 서비스, 장기적인 컨설팅, 고객 지원 또는 프로덕션 환경에 대 한 실습 지원을 중단 합니다. 
+  - *지원 되지 않음:* 중단-수정 지원/문제 해결, 핫픽스, 현장 서비스, 장기적인 컨설팅 (engagement 당 25 시간 미만), 고객 지원 또는 프로덕션 환경에서의 실습 지원. 
 
 
 - **Marketplace 상담** 은 Microsoft 상업적 Marketplace에서 진행 중인 리드 생성을 위해 솔루션을 게시 하는 방법에 사용 됩니다. 개발자, 서비스 구성, 아키텍처 또는 디자인 참조, 온-프레미스 솔루션에서의 마이그레이션, 코드 검토 및 응용 프로그램 게시 지원.
@@ -66,7 +66,7 @@ ms.locfileid: "112276385"
 - **비즈니스 애플리케이션**: Microsoft Dynamics 365(온라인), Microsoft Power Platform(Power Apps, Power Automate, Power BI)
   - *범위 외: Dynamics 365, GP, SL, AX, NAV의 독점 온-프레미스 버전*
 - **Microsoft Azure**: 모든 Microsoft Azure 솔루션 및 관련 서비스(예: 서비스 제공 인프라, PaaS, 데이터 플랫폼, BI 분석, Cognitive Services, Azure Machine Learning, Azure Stack)
-- **Windows Server**: 일반 지원 Windows Server( **[제품 수명주기](/lifecycle/policies/fixed)** 에 따라 관리됨)
+- **Windows Server 및 SQL Server**: **[제품 수명 주기](/lifecycle/policies/fixed)** 를 적용 하는 기본 지원 내에서
   - System Center에는 클라우드 또는 하이브리드 시나리오와 관련된 경우 SCCM과 같은 관련 제품이 포함됩니다.
 - **Windows 10**: Windows 10 운영 체제, 디바이스, 유니버설 앱
 - **비공개 또는 공개 미리 보기로** 제공 되는 제품: 프로덕션 환경이 아닌 환경 및 정보 가용성 또는 응답 시간에 대 한 보장을 받지 않는 최상의 노력으로 도움말이 제공 됩니다.
@@ -106,5 +106,6 @@ TPD(기술 사전 판매 및 배포 서비스) 혜택은 자동으로 활성화�
 6. 확인 페이지에 지원 요청 번호와 설명이 표시됩니다. 또한 파트너 센터로부터 케이스 번호와 함께 확인 이메일을 받게 됩니다.
 
 ## <a name="next-steps"></a>다음 단계
+[온-프레미스 또는 클라우드 제품에 대 한 기술 지원](/mpn-benefits-technical-support.md)
 
 [Microsoft 파트너 네트워크 혜택 및 제품 관리](manage-your-partner-network-benefits.md)
