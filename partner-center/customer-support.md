@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147346"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450750"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>고객에게 다양한 지원 유형 제공
 
@@ -34,20 +34,20 @@ CSP 고객은 지원 티켓을 직접 만들 수 없습니다. 지원 담당자�
 
 - **기술** 문제 지원- [파트너 지원 계획을 비교할](https://partner.microsoft.com/support/partnersupport) 수 있습니다. 자세한 내용은 특정 지원 계획에 대 한 다음 링크를 참조 하세요.
 
-  - [파트너용 프리미어 지원(요금](https://partner.microsoft.com/support/microsoft-services-premier-support) 기준, 모든 제품에 사용)
+  - [PSfP (파트너 프리미어 지원 (](https://partner.microsoft.com/support/microsoft-services-premier-support) 요금 기준, 모든 제품에 사용)
 
-  - [파트너에 대한 고급 지원(요금](https://partner.microsoft.com/support/advanced-cloud-support) 기준, 클라우드 제품에만 사용)
+  - [파트너에 대 한 고급 지원 (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (요금 기준, 클라우드 제품에만 사용)
 
-  - [시그니처 클라우드 지원(골드](manage-your-partner-network-benefits.md) 또는 실버 역량에 대한 MPN 혜택에 포함됨, 클라우드 제품에만 사용)
+  - [서명 클라우드 지원](manage-your-partner-network-benefits.md) (골드 또는 실버 역량에 대 한 MPN 혜택을 포함 하 여 클라우드 제품에만 사용 합니다. [기술 혜택](mpn-benefits-technical-support.md)참조)
 
-  - [제품 지원 인시던트(골드,](manage-your-partner-network-benefits.md) 실버 또는 Microsoft Action Pack 파트너의 MPN 혜택에 포함됨, 최근 온-프레미스 제품에만 사용)
+  - MPN 혜택에 포함 된 [기술 지원 인시던트](manage-your-partner-network-benefits.md) (Microsoft Action Pack 파트너에 게는 최근 온-프레미스 제품에만 사용 합니다. [기술 혜택](mpn-benefits-technical-support.md)참조)
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>청구, 구독 관리 및 기술 지원 제공 
 
-각 온라인 서비스에는 고객에게 청구, 구독 관리 및 기술 지원을 제공하기 위한 구체적이고 자세한 요구 사항이 있습니다. 자세한 내용은 다음 문서를 참조하세요.
+각 온라인 서비스에는 고객에 게 청구, 구독 관리 및 기술 지원을 제공 하기 위한 구체적인 요구 사항과 세부적인 요구 사항이 있습니다. 자세한 내용은 다음 문서를 참조 하세요.
 
-- [CSP를 통해 판매된 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [CSP를 통해 판매 되는 Dynamics 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
-- [CSP를 통해 판매된 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [CSP를 통해 판매 되는 Azure 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [CSP를 통해 판매된 Microsoft Office 365개 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [CSP를 통해 판매 되는 Microsoft Office 365 구독](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
