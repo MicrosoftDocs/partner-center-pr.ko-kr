@@ -1,47 +1,47 @@
 ---
-title: 파트너 센터 계정 또는 MPN 갱신 문제 설정 문제 해결
+title: 파트너 센터 계정 설정 또는 MPN 갱신 문제 해결
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 파트너 센터 등록하려고 할 때의 문제를 해결합니다. 답변은 결제 방법, 암호 잊기 등의 문제를 해결합니다.
+description: 파트너 센터에 등록 하려고 할 때 발생 하는 문제를 해결 합니다. 지불 방법, 잊어버린 암호 등을 사용 하 여 문제를 해결 합니다.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5e8a292ad8593dc0b94179d5f0ee418344ef9af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 4fc1a43b4d525d9221ac7e4db56f5f278404e3f5
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854692"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431760"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>계정 설정 또는 MPN 갱신 문제 해결
 
-**적절한 역할:** 전역 관리자 | MPN 파트너 관리자
+**적절 한 역할**: 전역 관리자 | MPN 파트너 관리자
  
-다음은 파트너 센터 계정을 설정하는 경우 발생하는 일반적인 문제를 해결하기 위한 몇 가지 제안 사항입니다.
+파트너 센터 계정을 설정할 때 발생 하는 일반적인 문제를 해결 하기 위한 몇 가지 제안 사항은 다음과 같습니다.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Partner Membership Center 마이그레이션하고 회사 정보 필드를 편집할 수 없는 경우 어떻게 되나요?
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>파트너 구성원 센터에서 마이그레이션하는 경우에는 어떻게 되나요? 회사 정보 필드는 편집할 수 없습니다.
 
-회사에 이미 파트너 센터 있는 경우(예: CSP 계정) 읽기 전용 화면이 표시됩니다. 이 화면에는 회사에 대한 모든 정보가 파트너 센터 표시됩니다.
+회사에 파트너 센터 (예: CSP (클라우드 솔루션 공급자) 계정)가 이미 있는 경우에는 읽기 전용 화면이 표시 됩니다. 이 화면에는 파트너 센터에 존재 하는 회사에 대 한 모든 정보가 표시 됩니다.
 
-이 화면에서는 세부 정보를 변경할 수 없습니다. 이는 오류가 아니라 의도적으로 한 것입니다.
+이 화면에서는 세부 정보를 변경할 수 없습니다. 이것은 의도적 이며 오류가 아닙니다.
 
-**수락** 및 **계속을** 선택하여 계속합니다.
+계속 하려면 **동의** 를 선택 하 고 **계속** 을 선택 합니다.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 부서에서 **파트너 센터 등록을** 해제한 경우
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT 부서가 **파트너 센터 등록을 해제 한** 경우
 
-바이럴 사용자가 비활성화되거나 Azure AD 테넌트에서 바이럴 등록이 비활성화되어 있으므로 이 메시지가 표시됩니다. Azure AD 계정의 전역 관리자는 다음 PowerShell 명령을 실행하여 필요한 기능을 사용하도록 설정할 수 있습니다.
+바 이럴 사용자를 사용할 수 없거나 AD (Azure Active Directory) 테 넌 트에서 바 이럴 등록을 사용할 수 없기 때문에이 메시지가 표시 됩니다. Azure AD 계정에 대 한 전역 관리자는 다음 PowerShell 명령을 실행 하 여 필요한 기능을 사용 하도록 설정할 수 있습니다.
 
-**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
+**Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-자세한 내용은 [셀프 서비스 등록을 읽어보십시오.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+자세한 내용은 [셀프 서비스 등록](/azure/active-directory/users-groups-roles/directory-self-service-signup)을 참조 하세요.
 
-## <a name="you-forgot-your-password"></a>암호를 잊어버렸습니다.
+## <a name="you-forgot-your-password"></a>암호를 잊은 경우
 
-암호를 잊어버린 경우 로그인 페이지에서 **계정에 액세스할 수 없나요?** 링크를 선택합니다. 이 옵션을 사용하면 암호를 재설정하거나 전역 관리자에게 새 자격 증명을 할당하도록 요청할 수 있습니다.
+암호를 잊은 경우 로그인 페이지에서 **계정에 액세스할 수 없습니까?** 를 선택 합니다. 이 옵션을 사용 하면 암호를 재설정 하거나 전역 관리자에 게 새 자격 증명을 할당 하도록 요청할 수 있습니다.
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>"회사에 대해 알려주세요." 화면에서 "오류가 발생 했습니다." 오류가 표시 됩니다.
 
@@ -59,7 +59,7 @@ ms.locfileid: "109854692"
 
 주문을 취소 하려면:
 
-1. 대시보드에서 **멤버 자격 제안** 탭을 선택 합니다.
+1. 파트너 센터 대시보드에서 **멤버 자격 제안** 탭을 선택 합니다.
 
 2. **취소 순서** 선택
 
