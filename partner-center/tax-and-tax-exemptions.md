@@ -1,45 +1,45 @@
 ---
-title: 지역 세금 및 면세
+title: 지역별 세금 및 세금 면제
 ms.topic: article
 ms.date: 03/05/2021
-description: CSP 프로그램 파트너의 경우 지역별 세금 책임, CSP 판매에 대한 면세서를 제출하는 방법 및 세금 질문에 대한 지원을 받는 방법에 대해 알아봅니다.
+description: CSP 프로그램 파트너의 경우 지역별 세금 책임, CSP 판매에 대 한 세금 면제를 제출 하는 방법 및 세금 질문에 대 한 지원을 받는 방법에 대해 알아보세요.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 93d2f4c2a1fb1f4c6de1cb8759cab0df85c3ceea
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856035"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489920"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP 프로그램의 파트너에 대한 지역 또는 국가별 세금 및 면세 세부 정보 읽기
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP 프로그램에서 파트너에 대 한 지역 또는 국가의 세금 및 세금 면제 세부 정보에 대해 알아봅니다.
 
-**적절한 역할:** 전역 관리자
+**적절한 역할**: 전역 관리자
 
-CSP(클라우드 솔루션 공급자) 프로그램은 파트너의 제품 재판매에 초점을 맞춘 판매 채널입니다. 따라서 Microsoft가 파트너 청구서에 대한 판매세 청구를 항상 요구하지는 않습니다. 규칙은 국가 및/또는 지역에 따라 다릅니다. [면세에 대한 국가별 및 지역별 세부 정보를](#country-and-region-tax-details)검토할 수 있습니다.
+CSP (클라우드 솔루션 공급자) 프로그램은 제품의 파트너 재판매에 초점을 맞춘 판매 채널입니다. 따라서 Microsoft는 파트너 청구서에 대 한 판매 세금을 항상 청구 해야 하는 것은 아닙니다. 규칙은 국가 및/또는 지역에 따라 다릅니다. [세금 면제에 대 한 국가 및 지역별 세부 정보](#country-and-region-tax-details)를 검토할 수 있습니다.
 
-세금 관리자와 협력하여 고객의 위치 및 위치에 따라 [면세서를 제출합니다.](#file-a-tax-exemption)
+세금 advisor를 사용 하 여 사용자의 위치와 고객의 위치에 따라 [세금 면제를 파일](#file-a-tax-exemption) 에 포함 합니다.
 
-## <a name="country-and-region-tax-details"></a>국가 및 지역 세금 세부 정보
+## <a name="country-and-region-tax-details"></a>국가 및 지역 세금 정보
 
-특정 세금 관련 정보는 캐나다 및 미국 사용할 수 있습니다. 대만 및 한국에 대한 자세한 내용은 [세금 영수증 세부 정보를 참조하세요.](#tax-receipts-and-daf)
+특정 세금 관련 정보는 캐나다 및 미국에서 사용할 수 있습니다. 대만 및 대한민국의 경우 [세금 영수증 정보](#tax-receipts-and-daf)를 참조 하세요.
 
-세금을 청구하는 다른 국가 또는 지역에 있는 경우 [다른 지역에 대한 정보를 참조하세요.](#other-regions)
+세금이 청구 되는 다른 국가 또는 지역에 있는 경우 [다른 지역에 대 한 정보](#other-regions)를 참조 하세요.
 
 
-### <a name="canada"></a>캐나다
+### <a name="canada"></a>Canada
 
-대부분의 대리점은 WAS/HST/QST에서 제외되지 않습니다. 면세 자격이 있는지 여부와 Microsoft에 제공해야 하는 설명서를 확인하려면 세금 관리자에게 문의하세요.
+대부분의 대리점은 상품 및 서비스 세금 (GST)/harmonized HST (/Quebec sales 세금) (QST)에서 제외 됩니다. 예외에 대 한 자격이 있는지 여부와 Microsoft에 제공 해야 하는 설명서를 확인 하려면 세금 advisor를 참조 하세요.
 
-BC PST 예외의 경우 설명된 대로 면세서를 제출합니다. BC PST#을 제공하거나 완료되고 서명된 *예외 일반 인증서 를* 제공합니다.
+BC 세무서 sales 세금 (PST) 면제의 경우 설명 된 대로 세금 면제를 파일에 만듭니다. BC PST # 또는 *예외 일반의* 완전 하 고 서명 된 인증서를 제공 합니다.
 
 ### <a name="united-states"></a>미국
 
-미국 모든 대리점은 Microsoft Reseller Agreement에 동의한 후 30일 이내에 판매 면세 설명서를 제공해야 합니다. 각 주에는 재판매에 대한 다른 예외 인증서가 있습니다. 법률 주소 및 등록된 상태와 관련된 사항을 확인하려면 세금 관리자에게 요청하세요.
+미국의 모든 대리점은 Microsoft 재판매인 계약을 수락 하 고 30 일 이내에 판매 세금 면제 문서를 제공 해야 합니다. 각 상태에는 재판매에 대해 서로 다른 예외 인증서가 있습니다. 세금 advisor를 사용 하 여 법률 주소 및 등록 된 상태와 관련 된 사항을 확인 하세요.
 
 여기에는 *잠재 고객 간소화* 와 같은 여러 상태에서 작동 하는 재판매 면제 인증서 또는 *MTC Uniform Sales & 세금 면제 인증서를 사용* 하는 *세금 계약* 인증서가 포함 될 수 있습니다.
 

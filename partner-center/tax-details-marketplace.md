@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277762"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490022"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>상업용 Marketplace 게시자에 대한 세금 정보
 
@@ -54,7 +54,7 @@ Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국�
 |베냉|페로 제도|몰디브|
 |버뮤다|피지|말리|
 |부탄|가봉|마셜 제도|
-|볼리비아|가나|Martinque|
+|볼리비아|가나|마르티니크|
 |보네르|조지아|모리타니|
 |보스니아 & 헤르체고비나|지브롤터|모리셔스|
 |보츠와나|그린란드|Ma Ote|
@@ -91,73 +91,73 @@ Microsoft에서 microsoft의 조치를 통해 Microsoft에서 관리 하는 국�
 |키프로스|이탈리아|루마니아|터키|
 체코|라트비아|러시아|아랍에미리트|
 |덴마크|리히텐슈타인|사우디아라비아|영국|
-|에스토니아|리투아니아|세르비아|미국 포함|
+|에스토니아|리투아니아|세르비아|푸에르토리코를 포함 하는 미국|
 
 
-### <a name="end-customer-taxation-with-differences-in-marketplace"></a>마켓플레이스의 차이점이 있는 최종 고객 세금
+### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Marketplace의 차이로 인해 최종 고객 세금
 
-|**국가**|**상업용 Marketplace(Azure Marketplace & AppSource)**| **소비자 마켓플레이스(Microsoft Store)**|
+|**국가**|**상업적 Marketplace (Azure Marketplace & AppSource)**| **Consumer Marketplace (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|브라질|Reseller except: CSP 고객 구매 시나리오를 통해 구매한 판매자 관리|개발자 관리: Windows 10 실행되는 디바이스를 통한 구매에 대한 대리점|
-|멕시코|Microsoft 관리: 기업계약 고객 구매 시나리오를 통한 구매를 위한 대리점|Microsoft 관리|
-|오스트레일리아|Microsoft 관리: 기업계약 고객 구매 시나리오를 통한 구매를 위한 대리점|Microsoft 관리|
-중국|Marketplace를 사용할 수 없습니다.|Windows Phone 7.x를 실행하는 모바일 통신 디바이스 및 Windows 8.x를 실행하는 개인용 컴퓨터에서 관리되는 개발자를 제외하고 Reseller가 사용하도록 설정됨|
-|바레인|게시자 관리|Microsoft 관리|
-|오만|게시자 관리|Microsoft 관리|
+|브라질|재판매인 제외: CSP (클라우드 솔루션 공급자) 고객 구매 시나리오를 통해 구매한 게시자 관리|개발자 관리: Windows 10에서 실행 되는 장치를 통해 구매한 대리점: 재판매인|
+|멕시코|Microsoft 관리 제외: 기업 계약 고객 구매 시나리오를 통한 구매를 위한 재판매인|Microsoft 관리|
+|오스트레일리아|Microsoft 관리 제외: 기업 계약 고객 구매 시나리오를 통한 구매를 위한 재판매인|Microsoft 관리|
+중국|Marketplace 사용 안 함|대리점 사용: windows phone 4.x를 실행 하는 모바일 통신 장치 및 Windows 8.x를 실행 하는 개인용 컴퓨터에서 개발자가 관리 합니다.|
+|바레인|게시자 관리 됨|Microsoft 관리|
+|오만|게시자 관리 됨|Microsoft 관리|
 
 
-## <a name="tax-considerations-on-payouts"></a>지급에 대한 세금 고려 사항
+## <a name="tax-considerations-on-payouts"></a>지급에 대 한 세금 고려 사항
 
-게시자/개발자 관리 국가에서 게시자/개발자에 대한 Microsoft 지급은 상점 요금 및 관련 세금의 순입니다. 여기에는 원천징수세 및 판매, 사용, 상품 및 서비스, 상점 요금에 대한 부가 가치 또는 유사한 세금이 포함될 수 있습니다.
+게시자/개발자가 관리 하는 국가에서 Microsoft 지급에는 매장 요금 및 해당 세금 (원천 세금 및 판매, 사용, 상품 및 서비스, 부가 매장 요금에 대 한 부가 가치 또는 유사한 세금)이 포함 될 수 있습니다.
 
-해당하는 Microsoft 관리 국가 및 대리점에서 게시자/개발자에 대한 Microsoft 지급액은 상점 요금 및 관련 세금의 순입니다. 여기에는 최종 고객 세금, 원천징수세 및 판매, 사용, 상품 및 서비스, 상점 수수료에 대한 부가 가치 또는 유사한 세금이 포함될 수 있습니다. Microsoft에서 게시자/개발자에게 제공하는 [보고서는](payout-statement.md) 이러한 세금의 양을 식별합니다. 
+Microsoft에서 관리 하는 국가 및 대리점에서 Microsoft 지급 게시자/개발자에 게는 매장 요금 및 해당 세금 (최종 고객 세금, 원천 세금 및 판매, 사용, 상품 및 서비스, 부가 매장 요금에 대 한 부가 가치 또는 유사한 세금)이 포함 될 수 있습니다. Microsoft에서 게시자/개발자가 사용할 수 있도록 하는 [보고서](payout-statement.md) 는 이러한 세금의 금액을 나타냅니다. 
 
-Microsoft는 게시자/개발자가 Microsoft Marketplace 통해 최종 고객에게 제품/제품을 판매할 수 있도록 선택되는 다음 국가에서 매장 요금에 대한 세금을 징수합니다.
+Microsoft는 게시자/개발자가 Microsoft Marketplace를 통해 최종 고객에 게 판매할 수 있는 제품/제품을 제공 하도록 선택 하는 다음 국가에서 매장 세금을 수집 합니다.
 
-|**국가**|**상업용 Marketplace**|**소비자 마켓플레이스**|
+|**국가**|**상업적 마켓플레이스**|**소비자 마켓플레이스**|
 |----------------|-----------------------------|-----------------------|
-|오스트레일리아|서비스 요금에 대한 세금|서비스 요금에 대한 세금|
-|Canada|서비스 요금에 대한 세금|서비스 요금에 대한 세금|
-|멕시코|해당 없음|서비스 요금에 대한 세금|
-|뉴질랜드|서비스 요금에 대한 세금|서비스 요금에 대한 세금|
-|싱가포르|서비스 요금에 대한 세금|서비스 요금에 대한 세금|
+|오스트레일리아|서비스 요금 세금|서비스 요금 세금|
+|Canada|서비스 요금 세금|서비스 요금 세금|
+|멕시코|해당 없음|서비스 요금 세금|
+|뉴질랜드|서비스 요금 세금|서비스 요금 세금|
+|싱가포르|서비스 요금 세금|서비스 요금 세금|
 
-## <a name="commercial-marketplace-payout-scenarios"></a>상업용 Marketplace 지급 시나리오
+## <a name="commercial-marketplace-payout-scenarios"></a>상업적 Marketplace 지급 시나리오
 
 ### <a name="end-customer-taxation"></a>최종 고객 세금
 
-- 시나리오 1: 게시자 관리 국가 구매 제안의 고객
+- 시나리오 1: 게시자에서 관리 하는 국가의 고객이 제품 구매
 
-  :::image type="content" source="images/tax/scenario-one.png" alt-text="게시자 지불 방법을 보여주는 차트입니다.":::
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="게시자의 지불 방식을 보여 주는 차트입니다.":::
 
-- 시나리오 2: Microsoft 관리형 국가 구매 제안의 고객(게시자 국가 관련없음)
+- 시나리오 2: Microsoft에서 관리 하는 국가의 고객은 제품 구매 (게시자 국가는 관련이 없음)
 
-  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft 관리 국가의 세금이 표시된 차트입니다.":::
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft에서 관리 하는 국가의 세금를 보여 주는 차트입니다.":::
 
-- 시나리오 3: 외신 게시자가 Microsoft 관리 국가에 있는 EU-VAT 등록 고객에게 테두리 간 판매를 수행합니다.
+- 시나리오 3: 외부 게시자는 Microsoft에서 관리 하는 국가에 거주 하는 EU-부가 지역 (VAT) 등록 고객에 게 교차 테두리 판매를 만듭니다.
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU-VAT가 세금에 미치는 영향을 보여 주는 차트입니다."::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU VAT가 세금에 미치는 영향을 보여 주는 차트입니다."::: 
 
-- 시나리오 4: 외신 판매자가 Microsoft 관리 국가에 있는 고객에게 국내 판매를 하거나 스위스의 고객에게 국내 이외의 판매를 수행합니다.
+- 시나리오 4: 외부 게시자는 Microsoft에서 관리 하는 국가 또는 스위스의 고객에 게 국내 판매를 사용 하는 고객에 게 국내 판매를 만듭니다.
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="VAT가 처리되는 방법을 보여주는 차트입니다.":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="VAT를 처리 하는 방법을 보여 주는 차트입니다.":::
 
-- 시나리오 5: 스토어 서비스 요금에 대한 세금이 있는 Microsoft 관리 국가 구매 제안의 고객
+- 시나리오 5: Microsoft에서 관리 하는 국가의 고객이 매장 서비스 요금에 대 한 세금을가지고 있는 제품 구매
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="스토어 서비스 요금이 세금에 미치는 영향을 보여 주는 차트입니다.":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="매장 서비스 요금이 세금에 미치는 영향을 보여 주는 차트입니다.":::
 
-### <a name="withholding-tax"></a>원천징수세
+### <a name="withholding-tax"></a>원천 세금
 
-- 시나리오 1: 외신 게시자(세금 프로필에 대한 세금 처리 혜택 없음)는 미국 고객에게 판매를 수행합니다. 
+- 시나리오 1: 외부 게시자 (세금 프로필에 적용 되는 세금 협약 혜택 없음)는 미국 고객에 게 판매를 만듭니다. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="세금 처리가 없는 원천징수세가 표시된 차트입니다.":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="세금 협약을 사용 하지 않는 원천 세금을 보여 주는 차트":::
 
-- 시나리오 2: 미국 고객에게 거래처를 판매할 경우 외신 게시자(세금 프로필에 적용되는 세금 처리 혜택이 0%가 적용)입니다. 
+- 시나리오 2: 외부 게시자 (세금 프로필에 적용 되는 세금 조약 혜택을 사용 하 여 세금 프로필에 대 한 세금을 0%)로 설정 하면 미국 고객에 게 판매 됩니다. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="세금 처리가 있는 원천징수세(With Tax)를 보여주는 차트입니다.":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="세금 조약이 포함 된 원천 세금을 보여 주는 차트":::
 
 ## <a name="next-steps"></a>다음 단계
 
 - [게시자 FAQ](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [지불 및 세금 프로필을 만드는 지침](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [결제 및 세금 프로필을 만들기 위한 지침](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
