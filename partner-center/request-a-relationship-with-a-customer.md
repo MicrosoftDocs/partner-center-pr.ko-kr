@@ -1,5 +1,5 @@
 ---
-title: 고객과의 관계 요청
+title: 고객과 재판매인 관계 요청
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
@@ -8,12 +8,12 @@ description: 다중 파트너, 다중 채널 시나리오 또는 고객에 대�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856120"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551642"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>파트너 센터에서 고객의 재판매인 관계를 요청하는 방법
 
@@ -40,7 +40,7 @@ ms.locfileid: "109856120"
 
 4. 고객에게 이메일을 보냅니다.
 
-5. 고객이 초대를 수락하면 **고객** 페이지에 표시되고 해당 위치에서 고객을 위해 서비스를 프로비전하고 관리할 수 있습니다.
+5. 고객이 초대를 수락하면 **고객** 페이지에 표시되며, 해당 페이지에서 고객을 위해 서비스를 프로비전하고 관리할 수 있습니다.
 
    > [!NOTE]
    > 고객이 아직 Microsoft 고객 계약 수락하지 않은 경우 초대를 수락하면 수락하라는 메시지가 표시됩니다. 고객은 초대를 수락하려면 전역 관리자여야 합니다.
@@ -48,11 +48,11 @@ ms.locfileid: "109856120"
 6. 고객의 계정, 서비스, 사용자 및 라이선스를 관리하려면 고객 이름 옆에 있는 아래쪽 화살표를 선택하여 고객의 기록을 확장합니다.
 
 > [!IMPORTANT]  
-> 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객과 계약을 재협상하지 않는 한, 고객이 관리자 권한을 재할당하거나 제거한 후에도 고객 지원을 제공하고 Microsoft 파트너 계약 조건을 준수할 책임이 계속 있습니다. 이 경우 고객에게 도움이 필요한 경우 Microsoft 지원에 문의하여 고객을 대신하여 서비스 요청을 열 수 있습니다.
+> 고객이 서비스의 관리 포털에서 관리자 권한을 다시 할당하거나 제거할 수 있습니다. 그러나 고객과 계약을 다시 협상하지 않는 한, 고객이 관리자 권한을 재할당하거나 제거한 후에도 고객 지원을 제공하고 Microsoft 파트너 계약 조건을 준수할 책임이 계속 있습니다. 이 경우 고객에게 도움이 필요한 경우 Microsoft 지원에 문의하여 고객을 대신하여 서비스 요청을 열 수 있습니다.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>고객 초대 환경 변경
 
-클라우드 솔루션 공급자 파트너의 대리점 관계 초대를 수락하기 위한 고객 환경은 서로 다른 고객 관련 포털에서 호스팅됩니다. 포털 위치는 고객이 Microsoft 퍼블릭 클라우드 또는 국가별 클라우드에 있는지 여부에 따라 달라집니다.
+CSP(클라우드 솔루션 공급자) 파트너의 대리점 관계 초대를 수락하기 위한 고객 환경은 서로 다른 고객 관련 포털에서 호스팅됩니다. 포털 위치는 고객이 Microsoft 퍼블릭 클라우드 또는 국가별 클라우드에 있는지 여부에 따라 달라집니다.
 
 |클라우드 고객 유형  | 고객이 대리점 관계 초대를 수락하는 위치는 어디인가요? |
 |---------|---------

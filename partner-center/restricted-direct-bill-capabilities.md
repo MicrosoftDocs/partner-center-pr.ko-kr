@@ -4,56 +4,56 @@ ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP 직접 청구 파트너 요구 사항 및 기능이 제한 되는 것을 방지 하기 위해 수행할 작업에 대해 알아봅니다. 기능이 제한 되었는지 확인 합니다.
+description: CSP(클라우드 솔루션 공급자) 직접 청구 파트너 요구 사항 및 기능이 제한되지 않도록 하기 위해 수행할 작업을 알아봅니다. 기능이 제한되었는지 확인합니다.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855491"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551421"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한 된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>제한된 직접 청구 기능 및 CSP 직접 청구 파트너에 필요한 요구 사항
 
-**적절 한 역할**: 전역 관리자
+**적절한 역할**: 전역 관리자
 
 ## <a name="overview"></a>개요
 
-직접 청구 파트너는 CSP 직접 청구 파트너 프로그램에 남아 있어야 하는 새 [요구 사항을](direct-partner-new-requirements.md) 충족 해야 합니다. 충족하지 못하면 직접 청구 기능에 대한 액세스 권한이 제한되며 고객의 신규 구매와 같은 특정 작업을 더 이상 수행할 수 없습니다.
+직접 청구 파트너는 CSP(클라우드 솔루션 공급자) 직접 청구 파트너 프로그램에 남아 있는 새로운 [요구 사항을](direct-partner-new-requirements.md) 충족해야 합니다. 충족하지 못하면 직접 청구 기능에 대한 액세스 권한이 제한되며 고객의 신규 구매와 같은 특정 작업을 더 이상 수행할 수 없습니다.
 
 > [!Note]
-> CSP 직접 청구 파트너 프로그램에 대 한 새로운 요구 사항을 충족 하지 않는 직접 청구 파트너는 직접적인 청구 기능을 제한할 때 Microsoft에서 알려줍니다. 이는 [직접 청구 파트너에서 간접 대리점으로의 전환이](transition-direct-to-indirect.md) 옵트인 되었는지 여부에 관계 없이 모든 직접 청구 파트너에 적용 됩니다.  
+> CSP 직접 청구 파트너 프로그램에 대한 새로운 요구 사항을 충족하지 않는 직접 청구 파트너는 직접 청구 기능이 제한될 때 Microsoft에서 알 수 있습니다. 이는 직접 청구 파트너에서 간접 대리점으로의 전환을 선택했는지 여부에 관계없이 모든 [직접 청구 파트너에게 적용됩니다.](transition-direct-to-indirect.md)  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>직접 청구 기능이 제한 되었는지 여부를 확인 하는 방법
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>직접 청구 기능이 제한되었는지를 알려주는 방법
 
-직접 청구 파트너 테 넌 트에서 청구 기능에 대 한 액세스가 제한 되었는지 여부를 확인 하려면 다음 단계를 수행 합니다.
+직접 청구 파트너 테넌트에서 직접 청구 기능으로의 액세스가 제한되었는지 확인하려면 다음 단계를 수행합니다.
 
 1. [파트너 센터 대시보드](https://partner.microsoft.com/dashboard)에 로그인합니다.
 
-2. **계정 설정**  ->  **법률 프로필** 로 이동 합니다.
+2. 계정 **설정** 법적 프로필 로  >  이동합니다.
 
-3. **프로그램 정보** 에서 **Microsoft 클라우드 솔루션 공급자 상태** 를 찾습니다.
+3. **프로그램 정보** 에서 **Microsoft 클라우드 솔루션 공급자 상태를** 찾습니다.
 
-4. 프로그램 상태에 값이 **제한** 되어 있는 경우 직접 청구 기능에 대 한 직접 청구 파트너 테 넌 트의 액세스가 제한 되어 있음을 의미 합니다.
+4. 프로그램 상태에 값이 **제한된** 경우 직접 청구 파트너 테넌트의 직접 청구 기능에 대한 액세스가 제한되었습니다.
 
 ## <a name="affected-direct-bill-capabilities"></a>영향을 받는 직접 청구 기능
 
-직접 청구 기능이 제한 된 경우 더 이상 파트너 센터에서 고객에 대 한 새로운 구매를 수행할 수 없습니다. 이 제한 사항에는 다음이 포함 됩니다.
+직접 청구 기능이 제한된 경우 더 이상 파트너 센터 고객을 위해 새 구매를 할 수 없습니다. 이 제한에는 다음이 포함됩니다.
 
 - Azure 구독
 
 - 라이선스 기반 구독
 
-- 기존 라이선스 기반 구독에 새 추가 기능을 추가 합니다.
+- 기존 라이선스 기반 구독에 새 추가 기능 추가
 
-- 소프트웨어 및 예약 제품 (예: 소프트웨어 구독, 영구 소프트웨어 및 Azure Reserved Virtual Machines 인스턴스)에 대 한 일회성 구매를 수행 합니다.
+- 소프트웨어 및 예약 제품(예: 소프트웨어 구독, 영구 소프트웨어 및 Azure Reserved Virtual Machine 인스턴스)을 한 번 구매합니다.
 
-또한 CSP 프로그램의 [azure partner shared services 제품](shared-services.md) 을 사용 하 여 새 azure 구독을 직접 구매할 수 없습니다.
+또한 CSP 프로그램에서 [Azure 파트너 공유 서비스 제안을](shared-services.md) 사용하여 사용자 고유의 용도로 새 Azure 구독을 구매할 수 없습니다.
 
-기존 직접 청구 구독은 영향을 받지 않습니다. 이는 유효한 상태로 유지 되 고 자동 갱신 됩니다. 취소될 때까지 Microsoft에서 직접 요금이 계속 청구됩니다. 다음과 같은 방법으로 기존 구독을 계속 관리할 수 있습니다.
+기존 직접 청구 구독은 영향을 받지 않습니다. 유효한 상태로 유지되고 자동 새로 고침됩니다. 취소될 때까지 Microsoft에서 직접 요금이 계속 청구됩니다. 다음과 같은 방법으로 기존 구독을 계속 관리할 수 있습니다.
 
 - 기존 구독 일시 중단
 
