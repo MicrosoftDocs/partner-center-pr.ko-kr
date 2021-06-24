@@ -8,63 +8,63 @@ description: 잘하고 있는 사항과 고객을 위해 판매하거나 관리�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277337"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565018"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="5f014-103">파트너 센터 Insights 대시보드에서 사용할 수 있는 Teams 사용 현황 보고서</span><span class="sxs-lookup"><span data-stu-id="5f014-103">Teams usage report available from the Partner Center Insights dashboard</span></span>
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a><span data-ttu-id="a157e-103">파트너 센터 Insights 대시보드에서 사용할 수 있는 Teams 사용 현황 보고서</span><span class="sxs-lookup"><span data-stu-id="a157e-103">Teams usage report available from the Partner Center Insights dashboard</span></span>
 
-<span data-ttu-id="5f014-104">**적절한 역할:** 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="5f014-104">**Appropriate roles**: Global admin | Admin agent | Report viewer | Executive report viewer</span></span>
+<span data-ttu-id="a157e-104">**적절한 역할:** 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어</span><span class="sxs-lookup"><span data-stu-id="a157e-104">**Appropriate roles**: Global admin | Admin agent | Report viewer | Executive report viewer</span></span>
 
-<span data-ttu-id="5f014-105">Teams 사용 현황 보고서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 메트릭을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-105">The Teams Usage report presents metrics related to your Teams workloads that you sold or manage for your customers.</span></span> <span data-ttu-id="5f014-106">Teams 사용량 보고서에서 다음 섹션을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-106">You can view the following sections from the Teams Usage report.</span></span>
+<span data-ttu-id="a157e-105">Teams 사용 현황 보고서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 메트릭을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-105">The Teams Usage report presents metrics related to your Teams workloads that you sold or manage for your customers.</span></span> <span data-ttu-id="a157e-106">Teams 사용량 보고서에서 다음 섹션을 볼 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-106">You can view the following sections from the Teams Usage report.</span></span>
 
-- <span data-ttu-id="5f014-107">요약</span><span class="sxs-lookup"><span data-stu-id="5f014-107">Summary</span></span>
-- <span data-ttu-id="5f014-108">대화 추세</span><span class="sxs-lookup"><span data-stu-id="5f014-108">Conversations trend</span></span>
-- <span data-ttu-id="5f014-109">워크로드별 팀 사용량</span><span class="sxs-lookup"><span data-stu-id="5f014-109">Teams usage by workloads</span></span>
-- <span data-ttu-id="5f014-110">사용량별 상위 고객</span><span class="sxs-lookup"><span data-stu-id="5f014-110">Top customers by usage</span></span>
+- <span data-ttu-id="a157e-107">요약</span><span class="sxs-lookup"><span data-stu-id="a157e-107">Summary</span></span>
+- <span data-ttu-id="a157e-108">대화 추세</span><span class="sxs-lookup"><span data-stu-id="a157e-108">Conversations trend</span></span>
+- <span data-ttu-id="a157e-109">워크로드별 팀 사용량</span><span class="sxs-lookup"><span data-stu-id="a157e-109">Teams usage by workloads</span></span>
+- <span data-ttu-id="a157e-110">사용량별 상위 고객</span><span class="sxs-lookup"><span data-stu-id="a157e-110">Top customers by usage</span></span>
 
  > [!NOTE]
- > <span data-ttu-id="5f014-111">이 보고서는 Insights 대시보드에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-111">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="5f014-112">이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터 특정 역할이 할당되어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-112">To view this report, you must be assigned a specific role in Partner Center, such as Global Admin, Account Admin, Report Viewer or Executive Report Viewer.</span></span> <span data-ttu-id="5f014-113">자세한 내용은 회사의 전역 관리자를 참조하세요. 이 보고서의 특정 데이터 형식은 경영진 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-113">For more information, see your company's Global Admin. Specific types of data in this report may also be available only to users with Executive Report Viewer privileges.</span></span>
+ > <span data-ttu-id="a157e-111">이 보고서는 Insights 대시보드에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-111">This report is available from the Insights dashboard.</span></span> <span data-ttu-id="a157e-112">이 보고서를 보려면 전역 관리자, 계정 관리자, 보고서 뷰어 또는 임원 보고서 뷰어와 같은 파트너 센터 특정 역할이 할당되어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-112">To view this report, you must be assigned a specific role in Partner Center, such as Global admin, Account admin, Report viewer, or Executive report viewer.</span></span> <span data-ttu-id="a157e-113">자세한 내용은 회사의 전역 관리자를 참조하세요. 이 보고서의 특정 데이터 형식은 경영진 보고서 뷰어 권한이 있는 사용자만 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-113">For more information, see your company's Global admin. Specific types of data in this report may also be available only to users with Executive report viewer privileges.</span></span>
 
-## <a name="summary"></a><span data-ttu-id="5f014-114">요약</span><span class="sxs-lookup"><span data-stu-id="5f014-114">Summary</span></span>
+## <a name="summary"></a><span data-ttu-id="a157e-114">요약</span><span class="sxs-lookup"><span data-stu-id="a157e-114">Summary</span></span>
 
-<span data-ttu-id="5f014-115">요약 섹션에서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 주요 지표의 스냅샷 보기를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-115">The summary section presents a snapshot view of the key indicators related to Teams workloads sold or managed by you for your customers.</span></span>  
+<span data-ttu-id="a157e-115">요약 섹션에서는 고객을 위해 판매하거나 관리하는 Teams 워크로드와 관련된 주요 지표의 스냅샷 보기를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-115">The summary section presents a snapshot view of the key indicators related to Teams workloads sold or managed by you for your customers.</span></span>  
 
-- <span data-ttu-id="5f014-116">고객: 선택한 기간 동안 Teams를 워크로드로 사용하는 고객의 고유 수입니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-116">Customers: Distinct count of customers using Teams as a workload for the selected duration.</span></span>
+- <span data-ttu-id="a157e-116">고객: 선택한 기간 동안 Teams를 워크로드로 사용하는 고객의 고유 수입니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-116">Customers: Distinct count of customers using Teams as a workload for the selected duration.</span></span>
 
-- <span data-ttu-id="5f014-117">모임 수: 고객이 수행한 Teams 회의 수입니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-117">Meeting count: Number of Teams meetings conducted by your customers.</span></span>
+- <span data-ttu-id="a157e-117">모임 수: 고객이 수행한 Teams 회의 수입니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-117">Meeting count: Number of Teams meetings conducted by your customers.</span></span>
 
-- <span data-ttu-id="5f014-118">고객당 일일 평균 모임 수: 고객당 일일 평균 모임 수입니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-118">Daily average meeting count per customer: Daily average meeting count per customer.</span></span> 
+- <span data-ttu-id="a157e-118">고객당 일일 평균 모임 수: 고객당 일일 평균 모임 수입니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-118">Daily average meeting count per customer: Daily average meeting count per customer.</span></span> 
 
-- <span data-ttu-id="5f014-119">모임 기간(시간): 총 회의 기간(시간)입니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-119">Meeting duration (hours): Total meeting duration in hours.</span></span> 
+- <span data-ttu-id="a157e-119">모임 기간(시간): 총 회의 기간(시간)입니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-119">Meeting duration (hours): Total meeting duration in hours.</span></span> 
 
-- <span data-ttu-id="5f014-120">평균 모임 기간(분): 평균 회의 기간(분)입니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-120">Average meeting duration (minutes): Average meeting duration in minutes.</span></span> 
+- <span data-ttu-id="a157e-120">평균 모임 기간(분): 평균 회의 기간(분)입니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-120">Average meeting duration (minutes): Average meeting duration in minutes.</span></span> 
 
 :::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Teams 사용 요약.":::
 
-## <a name="conversations-trend"></a><span data-ttu-id="5f014-122">대화 추세</span><span class="sxs-lookup"><span data-stu-id="5f014-122">Conversations trend</span></span>
+## <a name="conversations-trend"></a><span data-ttu-id="a157e-122">대화 추세</span><span class="sxs-lookup"><span data-stu-id="a157e-122">Conversations trend</span></span>
 
-<span data-ttu-id="5f014-123">대화 추세 보고서는 평균 회의 기간(분)과 함께 Teams 모임, 통화 및 전화 시스템의 월별 추세를 보여 줍니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-123">The Conversations trend report shows the monthly trend of Teams meetings, calls, and phone systems along with average meeting duration in minutes.</span></span>
+<span data-ttu-id="a157e-123">대화 추세 보고서는 평균 회의 기간(분)과 함께 Teams 회의, 통화 및 전화 시스템의 월별 추세를 보여 줍니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-123">The Conversations trend report shows the monthly trend of Teams meetings, calls, and phone systems along with average meeting duration in minutes.</span></span>
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="teams 사용량 대화 추세.":::
 
-## <a name="teams-usage-by-workloads"></a><span data-ttu-id="5f014-125">워크로드별 팀 사용량</span><span class="sxs-lookup"><span data-stu-id="5f014-125">Teams usage by workloads</span></span>
+## <a name="teams-usage-by-workloads"></a><span data-ttu-id="a157e-125">워크로드별 팀 사용량</span><span class="sxs-lookup"><span data-stu-id="a157e-125">Teams usage by workloads</span></span>
 
-<span data-ttu-id="5f014-126">워크로드별 Teams 사용량 보고서에는 워크로드별로 분할된 Teams의 데스크톱, 모바일 및 웹 사용자의 월별 분할이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-126">The Teams usage by workloads report shows the monthly split of desktop, mobile, and web users of Teams split by workloads.</span></span>
+<span data-ttu-id="a157e-126">워크로드별 Teams 사용량 보고서에는 워크로드별로 분할된 Teams의 데스크톱, 모바일 및 웹 사용자의 월별 분할이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-126">The Teams usage by workloads report shows the monthly split of desktop, mobile, and web users of Teams split by workloads.</span></span>
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="워크로드별 팀 사용량.":::
 
-## <a name="top-customers-by-usage"></a><span data-ttu-id="5f014-128">사용량별 상위 고객</span><span class="sxs-lookup"><span data-stu-id="5f014-128">Top customers by usage</span></span>
+## <a name="top-customers-by-usage"></a><span data-ttu-id="a157e-128">사용량별 상위 고객</span><span class="sxs-lookup"><span data-stu-id="a157e-128">Top customers by usage</span></span>
 
-<span data-ttu-id="5f014-129">사용량별 상위 고객 보고서에는 Teams 회의, 통화, 전화 시스템 및 타사 앱에 대한 상위 고객의 사용량이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-129">The Top customers by usage report shows the usage of top customers for Teams meetings, calls, and phone systems and third-party apps.</span></span>
+<span data-ttu-id="a157e-129">사용량별 상위 고객 보고서에는 Teams 회의, 통화, 전화 시스템 및 타사 앱에 대한 상위 고객의 사용량이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-129">The Top customers by usage report shows the usage of top customers for Teams meetings, calls, and phone systems and third-party apps.</span></span>
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="사용량별 상위 고객.":::
 
-## <a name="next-steps"></a><span data-ttu-id="5f014-131">다음 단계</span><span class="sxs-lookup"><span data-stu-id="5f014-131">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="a157e-131">다음 단계</span><span class="sxs-lookup"><span data-stu-id="a157e-131">Next steps</span></span>
 
-- <span data-ttu-id="5f014-132">자세한 보고서는 [파트너 센터 Insights를 참조하세요.](partner-center-insights.md)</span><span class="sxs-lookup"><span data-stu-id="5f014-132">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+- <span data-ttu-id="a157e-132">자세한 보고서는 [파트너 센터 Insights를 참조하세요.](partner-center-insights.md)</span><span class="sxs-lookup"><span data-stu-id="a157e-132">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
 
-- <span data-ttu-id="5f014-133">인사이트 대시보드의 보고서 다운로드 섹션에서 이 보고서를 구동하는 원시 데이터를 다운로드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="5f014-133">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="5f014-134">자세한 내용</span><span class="sxs-lookup"><span data-stu-id="5f014-134">Learn More</span></span>](pci-download-reports.md) 
+- <span data-ttu-id="a157e-133">인사이트 대시보드의 보고서 다운로드 섹션에서 이 보고서를 구동하는 원시 데이터를 다운로드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="a157e-133">You can download the raw data powering this report from the Download Reports section in the Insights dashboard.</span></span> [<span data-ttu-id="a157e-134">자세한 내용</span><span class="sxs-lookup"><span data-stu-id="a157e-134">Learn More</span></span>](pci-download-reports.md) 
