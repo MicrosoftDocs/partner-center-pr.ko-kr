@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277490"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565409"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>파트너 센터 인사이트에서 사용할 수 있는 개요 대시보드 보고서
  
 **적절 한 역할**: 전역 관리자 | 관리 에이전트 | 보고서 뷰어 | 임원 보고서 뷰어
 
-Insights 개요 대시보드에서는 고객, 구독, Azure 소비 수익, 라이선스 등의 핵심 성과 지표에 대 한 스냅숏 보기를 제공 합니다. 개요 보고서에서 다음 차트를 시각화할 수 있습니다.
+Insights 개요 대시보드는 고객, 구독, Azure 소비 수익 및 라이선스와 같은 Kpi (핵심 성과 지표)의 스냅숏 보기를 제공 합니다. 개요 보고서에서 다음 차트를 시각화할 수 있습니다.
 
 - 요약  
 - 고객, 구독 및 라이선스의 지리적 확산  
@@ -49,12 +49,12 @@ Insights 개요 대시보드에서는 고객, 구독, Azure 소비 수익, 라�
 
 요약의 **Azure 사용 수익 (ACR)** 영역에는 다음이 포함 됩니다.
 
-- 선택한 날짜 범위에 대 한 사용자의 특성으로 사용 된 총 Azure 수익 (미국 $)입니다.
-- 선택한 날짜 범위 동안 특성 사용 ACR (US $)의 증가율 또는 거부 비율입니다.
-- 마이크로 차트는 선택한 날짜 범위에 대 한 사용자의 특성을 사용 하 여 사용자에 대 한 ACR의 월간 추세를 제공 합니다. 
+- 선택한 날짜 범위에 대 한 사용자의 특성을 가진 총 ACR (미국 달러)입니다.
+- 선택한 날짜 범위에서 특성 사용 ACR (미국 달러)의 증가율 또는 거부 비율입니다.
+- 마이크로 차트는 선택한 날짜 범위를 대상으로 하는 미국 달러의 ACR에 대 한 월간 추세를 제공 합니다. 
 
 > [!NOTE]
-> 임원 보고서 뷰어 역할이 할당 된 사용자는 ACR (Azure 사용 수익) 데이터를 사용할 수 있습니다. 
+> ACR 데이터는 임원 보고서 뷰어 역할이 할당 된 사용자에 게 제공 됩니다.
  
 ### <a name="subscriptions-sold"></a>판매 구독
 
@@ -68,7 +68,7 @@ Insights 개요 대시보드에서는 고객, 구독, Azure 소비 수익, 라�
 
 요약의 **활성 구독** 영역에는 다음이 포함 됩니다.
 
-- 제품 원격 분석에 따라 활성 사용량이 측정 된 현재 클라우드 제품 구독 수입니다. 이렇게 하면 Azure 구독에 대 한 모든 평가판 구독이 제외 됩니다.  
+- 제품 원격 분석에 따라 활성 사용량이 측정 된 현재 클라우드 제품 구독 수입니다. 이렇게 하면 평가판 Azure 구독이 모두 제외 됩니다.  
 - 선택한 날짜 범위에 대 한 활성 구독의 증가율입니다.
 - 마이크로 차트는 선택한 날짜 범위에 대해 활성 구독의 월 단위 추세를 표시 합니다.
  
@@ -100,10 +100,10 @@ Insights 개요 대시보드에서는 고객, 구독, Azure 소비 수익, 라�
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Azure에서 사용 하는 수익 증가 추세
 
-선택한 날짜 범위에 대 한 사용자의 특성을 사용 하는 Azure 수익의 월간 추세입니다. X 축은 선택한 날짜 범위의 월을 나타내며 Y 축은 월 중에 사용자가 사용 하는 총 Azure 수익 미국 $ 수익을 나타냅니다.
+선택한 날짜 범위에 대해 미국 달러로 소비 되는 Azure의 월간 추세입니다. X 축은 선택한 날짜 범위의 월을 나타내며 Y 축은 월 중에 사용 된 미국 달러의 총 Azure 사용 수익을 나타냅니다.
 
 > [!NOTE]
-> Azure에서 사용 하는 수익 (ACR)은 임원 보고서 뷰어 역할이 할당 된 사용자 에게만 표시 됩니다. 
+> ACR은 임원 보고서 뷰어 역할이 할당 된 사용자 에게만 표시 됩니다. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure 사용량.":::
 

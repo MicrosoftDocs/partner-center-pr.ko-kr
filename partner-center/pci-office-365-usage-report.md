@@ -8,12 +8,12 @@ description: 잘하고 있는 사항과 고객을 위해 판매하거나 관리�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 43ac7763b32eed5c63fd3766262ad1649ae81e11
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277813"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565375"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Office 365 사용 현황 보고서
 
@@ -32,7 +32,7 @@ Office 365 사용량 보고서는 고객을 위해 판매하거나 관리하는 
 
 ## <a name="summary"></a>요약
 
-요약 섹션에서는 고객을 위해 판매하거나 관리하는 Office 365 구독과 관련된 주요 지표의 스냅샷 보기를 제공합니다.  
+요약 섹션에서는 고객을 위해 판매하거나 관리하는 Office 365 구독과 관련된 핵심 지표의 스냅샷 보기를 제공합니다.  
 
 - 새 구독: 선택한 기간 동안 판매되거나 관리되는 총 구독 수입니다.
 
@@ -61,7 +61,7 @@ Office 365 사용량 보고서는 고객을 위해 판매하거나 관리하는 
 
 ## <a name="office-365-usage-by-workload"></a>워크로드별 Office 365 사용량
 
-워크로드별 Office 365 사용량은 워크로드별 MAU 및 PAU 분석 분석을 표현합니다.
+워크로드별 Office 365 사용량은 워크로드별 MAU 및 PAU 분석 데이터를 표현합니다.
 
 :::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="워크로드별 Office 365 사용량.":::
 

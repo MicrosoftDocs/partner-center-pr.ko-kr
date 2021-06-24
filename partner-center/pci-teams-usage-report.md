@@ -8,12 +8,12 @@ description: 잘하고 있는 사항과 고객을 위해 판매하거나 관리�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 230419aa1142dc8c4dd58dc8effee9678527c923
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 4148848984a541eca4eee9e71785660aa6402bc7
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277337"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565018"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>파트너 센터 Insights 대시보드에서 사용할 수 있는 Teams 사용 현황 보고서
 
@@ -47,7 +47,7 @@ Teams 사용 현황 보고서는 고객을 위해 판매하거나 관리하는 T
 
 ## <a name="conversations-trend"></a>대화 추세
 
-대화 추세 보고서는 평균 회의 기간(분)과 함께 Teams 모임, 통화 및 전화 시스템의 월별 추세를 보여 줍니다.
+대화 추세 보고서는 평균 회의 기간(분)과 함께 Teams 회의, 통화 및 전화 시스템의 월별 추세를 보여 줍니다.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="teams 사용량 대화 추세.":::
 

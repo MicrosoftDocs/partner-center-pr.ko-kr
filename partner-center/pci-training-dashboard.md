@@ -9,18 +9,18 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276283"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565103"
 ---
 # <a name="trainings-dashboard"></a>학습 대시보드
 
 **적절한 역할:** 경영진 보고서 뷰어 | 보고서 뷰어
 
-학습 대시보드는 회사 직원 회사에서 수행된 인증, 평가 및 검사에 대한 인사이트를 제공합니다. 학습 대시보드에는 다음 섹션이 포함되어 있습니다.
+교육 대시보드는 회사 직원 회사에서 수행된 인증, 평가 및 검사에 대한 인사이트를 제공합니다. 학습 대시보드에는 다음 섹션이 포함되어 있습니다.
 
 - 요약
 - 인증, 평가, 시험별로 학습 성능 분할
@@ -32,7 +32,7 @@ ms.locfileid: "112276283"
 
 ## <a name="summary"></a>요약
 
-요약 섹션에는 학습과 관련된 다양한 성능 지표의 숫자 스냅샷 보기가 표시됩니다. 다양한 성능 지표는 인증된 개인, 인증, 시험 자격 증명이 있는 개인, 시험 자격 증명, 평가 자격 증명이 있는 개인 및 평가 자격 증명입니다. 이 섹션의 데이터는 3개월(3M), 6개월(6M), 12개월(1Y) 또는 사용자 지정 데이터 범위(사용자 지정)일 수 있는 선택한 날짜 범위에 따라 새로 고쳐집니다. 
+요약 섹션에는 학습과 관련된 다양한 성능 지표의 숫자 스냅샷 보기가 표시됩니다. 다양한 성능 지표는 인증된 개인, 인증, 시험 자격 증명이 있는 개인, 시험 자격 증명, 평가 자격 증명이 있는 개인 및 평가 자격 증명입니다. 이 섹션의 데이터는 선택한 날짜 범위에 따라 새로 고쳐집니다. 이 날짜 범위는 3개월(3M), 6개월(6M), 12개월(1Y) 또는 사용자 지정 데이터 범위(사용자 지정)일 수 있습니다. 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="요약.":::
 
@@ -56,7 +56,7 @@ ms.locfileid: "112276283"
 :::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Indiviual Performance.":::
 
 >[!NOTE] 
-> 개인 성과 섹션은 임원 보고서 뷰어인 사용자만 사용할 수 있습니다. 
+> 개인 성능 섹션은 임원 보고서 뷰어인 사용자만 사용할 수 있습니다. 
 
 ## <a name="next-steps"></a>다음 단계
 

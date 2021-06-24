@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431555"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565188"
 ---
 # <a name="azure-marketplace-purchasing"></a>구매 Azure Marketplace
 
@@ -77,6 +77,8 @@ Azure Marketplace 통해 제품을 구매하는 것은 여러 가지 이유로 �
 1. 구독이 CSP(클라우드 솔루션 공급자)에 속하고 ISV가 CSP를 통한 판매를 거부했습니다.
 1. 프라이빗 마켓플레이스는 구독에 대해 사용하도록 설정되며 허용된 제품 목록에는 없습니다.
 1. 이 제안은 특정 고객에 대한 프라이빗/미리 보기이며 구독은 허용된 고객 목록에 없습니다.
+
+조직의 Azure 관리자가 정의한 Azure Policy 충돌하는 경우 마켓플레이스 제품을 구매하지 못할 수 있습니다. 예를 들어 조직의 **허용** 목록에 없는 경우 Microsoft.SaaS를 구매할 수 없습니다. 자세한 내용은 [Azure Policy 설명서를 참조하세요.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>다음 단계
 
