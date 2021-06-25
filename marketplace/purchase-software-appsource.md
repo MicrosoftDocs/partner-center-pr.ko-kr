@@ -1,19 +1,19 @@
 ---
-title: Microsoft AppSource에서 SaaS 제품을 구매 하는 방법
-description: Microsoft AppSource의 Microsoft 파트너에서 SaaS (software as a service) 앱을 구매 하는 방법을 알아봅니다.
+title: Microsoft AppSource에서 SaaS 앱 구입
+description: Microsoft AppSource의 Microsoft 파트너에서 SaaS (software as a service) 앱을 구매 하세요.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412695"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896801"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource에서 SaaS 앱을 구매 하는 방법
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource에서 SaaS 앱 구입
 
 [Microsoft AppSource](https://appsource.microsoft.com/) 에는 SaaS (software as a service) 앱을 비롯 한 수천 개의 비즈니스 응용 프로그램과 Dynamics 365, Microsoft 365, Power BI 및 Power apps 용 추가 기능이 포함 되어 있습니다. AppSource는 무료 앱, 평가판 및 유료 구독을 포함 하며, [Microsoft 365 관리 센터](/microsoft-365/admin/admin-overview/about-the-admin-center)를 사용 하 여 단일 장소에서 요금, 업그레이드, 다운 그레이드 및 취소를 관리할 수 있습니다. 이 문서에서는 AppSource에서 유료 SaaS 구독을 구매 하는 방법을 설명 합니다.
 
@@ -37,9 +37,9 @@ SaaS 앱을 구매 하려면 다음이 필요 합니다.
 
     1. 실제 사용자 수를 설정합니다.
     1. 청구 기간을 설정합니다.
-    
+
 1. 청구 주소를 입력합니다.
-1. 지불 방법 (신용 카드 정보)을 입력 합니다.    
+1. 지불 방법 (신용 카드 정보)을 입력 합니다.
 1. **주문** 을 선택합니다.
 
 ## <a name="configure-the-application"></a>애플리케이션 구성
