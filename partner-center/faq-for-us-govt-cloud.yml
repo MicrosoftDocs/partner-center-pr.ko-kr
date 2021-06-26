@@ -1,0 +1,216 @@
+### YamlMime:FAQ
+metadata:
+  title: FAQ - 파트너 센터 - Microsoft Cloud for US Government
+  description: Microsoft Cloud for US Government CSP(클라우드 솔루션 공급자) 프로그램에 대한 FAQ(질문과 대답)를 참조하세요.
+  ms.topic: article
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  author: mowree
+  ms.author: mowrim
+  ms.localizationpriority: medium
+  ms.date: 6/17/2021
+  ms.openlocfilehash: 84d3b39f3518558924166fc2619190b4cd06891b
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: ko-KR
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112916716"
+title: Microsoft Cloud for US Government 파트너 센터 대한 질문과 대답
+summary: >
+  **적용:** Microsoft Cloud for US Government 파트너 센터
+
+
+  **적절한 역할**: 전역 관리자
+
+
+  ## <a name="general-questions"></a>일반적인 질문
+
+
+  이러한 질문과 대답을 사용하여 Microsoft Cloud for US Government CSP(클라우드 솔루션 공급자) 프로그램에 대해 자세히 알아보세요. 자세한 내용은 계정 관리자에게 문의할 수도 있습니다.
+sections:
+- name: 일반
+  questions:
+  - question: >
+      Microsoft Cloud for US Government란 무엇인가요?
+    answer: >
+      처음부터 미국 정부용으로 설계된 Microsoft Cloud for US Government 대규모 연방 기관에서 소규모 지방 정부까지 미국 공공 부문 고객이 다양한 클라우드 컴퓨팅 서비스 중에서 선택할 수 있도록 합니다. 고객의 특정 요구 사항을 해결하기 위해 Microsoft는 데이터 센터에 상당한 투자를 했으며 미국 연방 및 주 정책, 위임 및 요구 사항 준수를 충족하는 데 최선을 다하고 있습니다.
+  - question: >
+      Microsoft Cloud for US Government CSP 프로그램에 적합한 사람은 누구인가요?
+    answer: >
+      정부 용량에서 미국 연방, 주 및 지방 정부 기관을 제공하는 미국 파트너는 Microsoft Cloud for US Government CSP 프로그램에 적합합니다. Microsoft에는 파트너가 Microsoft Cloud for US Government 액세스하기 전에 자격을 확인하는 엄격한 유효성 검사 프로그램이 있습니다. 자격을 얻으려면 정부 고객과 협력한다는 것을 증명해야 합니다. 미국 정부용 Microsoft Could의 CSP 프로그램에 대한 등록 프로세스가 유효성 검사를 수행하기 위해 더 많은 데이터를 캡처하도록 확대되었습니다. 증명 유형에는 정부 계약 번호 및 정부 고객의 후원서가 포함될 수 있지만 이에 국한되지 않습니다.
+  - question: >
+      고객 제시 가격은 CSP Commercial과 동일한가요?
+    answer: >
+      아니요. 가격 책정에는 Microsoft Cloud for US Government 고유한 가치를 제공하기 위한 추가 비용이 반영됩니다.
+  - question: >
+      파트너 할인 모델은 동일한가요?
+    answer: >
+      예. Microsoft Cloud for US Government CSP 프로그램의 파트너 할인 모델은 CSP 상업용 파트너 할인 모델과 동일합니다.
+  - question: >
+      CSP Commercial은 기존 파트너 프로그램입니다. Microsoft Government 클라우드용 CSP 프로그램은 어떻게 다른가요?
+    answer: >
+      Microsoft Cloud for US Government 대한 CSP 프로그램은 다음 영역에서 CSP 상업용과 다릅니다.
+
+
+      - 자격: Microsoft Cloud for US Government 대한 CSP 프로그램은 미국 연방, 주 및 지방 정부 기관에게 정부 용량을 제공하는 미국 파트너만 사용할 수 있습니다. Microsoft에는 파트너가 미국 정부 클라우드에 액세스하기 전에 자격을 확인하는 유효성 검사 프로그램이 있습니다.
+
+
+      - 온보딩: 파트너는 CSP 상업용과 별도로 Microsoft Cloud for US Government 위해 CSP 프로그램에 온보딩해야 합니다.
+
+
+      - 제품 가용성: Office 365, Enterprise Mobility + Security 및 Dynamics 365와 같은 Azure Government 및 라이선스 기반 서비스는 모두 CSP 프로그램에서 Microsoft Cloud for US Government 사용할 수 있습니다.
+
+
+      - 계약: MCRA(Microsoft Cloud Reseller Agreement)가 고유한 정부 조건을 반영하도록 업데이트되었습니다.
+
+
+      - 파트너 센터 기능: Microsoft Cloud for US Government 규정 및 규정 준수 요구 사항을 충족하기 위해 CSP 프로그램에서 파트너 센터 특정 기능을 사용할 수 없습니다. 파트너는 대신 Azure AD(Azure Active Directory) 또는 [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) 사용하여 사용자 및 그룹 관리와 관련된 작업을 수행할 수 있습니다. 자동화된 관계 요청 기능은 2021년 10월까지 사용할 수 있도록 지정됩니다.
+  - question: >
+      아직 CSP 파트너가 아닙니다. CSP 파트너가 되는 방법에 대한 자세한 내용은 어디에서 확인할 수 있나요?
+    answer: >
+      파트너가 사용할 수 있는 등록 모델에 대한 자세한 내용은 [Microsoft 파트너 네트워크 클라우드 솔루션 공급자](https://partner.microsoft.com/cloud-solution-provider)참조하세요.
+  - question: >
+      라이선스 작동 방식
+    answer: >
+      *MCRA(Microsoft Cloud Reseller Agreement)*
+
+
+      MCRA는 파트너에게 CSP를 사용하여 재판매할 수 있는 권한을 부여합니다. Microsoft Cloud for US Government 온보딩할 때 이 계약의 미국 정부 클라우드 버전이 수락됩니다. 이 버전에는 표준 클라우드 대리점 계약 이후 미국 정부 클라우드 부록 및 출고 A가 있습니다.
+
+
+      Microsoft Cloud for US Government MCRA는 다음 두 가지 방법으로 표준 MCRA와 다릅니다.
+
+
+      - 미국 정부 클라우드 추록에는 미국 정부 클라우드 서비스를 거래하기 위한 추가 파트너 책임이 포함됩니다.
+
+
+      - 출품작 A에는 CSP와 고객 간에 입력한 미국 정부 클라우드 서비스의 모든 계약에 통합되어야 하는 Microsoft 고객 계약(Microsoft 고객 계약)가 포함되어 있습니다.
+
+
+      *MCRA에서 A로 제공된 Microsoft 고객 계약(Microsoft 고객 계약)*
+
+
+      CSP는 CSP와 Microsoft Cloud for US Government 구매하는 고객 간에 입력한 정부 계약에 증분 A를 통합해야 합니다. 계약은 파트너 센터 게시되며 영어로 제공됩니다.
+
+
+      미국 정부 클라우드에 대한 Microsoft 고객 계약 다음 두 가지 방법으로 표준 Microsoft 고객 계약 다릅니다.
+
+
+      - 고객과 CSP의 계약에 통합해야 합니다.
+
+
+      - 연방, 주 및 현지 법률 및 규정을 준수하도록 조정되었습니다.
+
+
+      *MCDA(Microsoft 클라우드 배포자 계약)*
+
+
+      MCDA(Microsoft 클라우드 배포자 계약)는 배포자에 CSP를 통해 판매할 수 있는 권한을 부여합니다. MCDA의 미국 정부 클라우드 버전에는 표준 MCRA(Microsoft Cloud Reseller Agreement) 이후 미국 정부 클라우드 부록 및 A가 있습니다.
+
+
+      Microsoft Cloud for US Government MCDA는 다음 두 가지 방법으로 표준 MCDA와 다릅니다.
+
+
+      - Microsoft Cloud for US Government 추록에는 미국 정부 클라우드 서비스 거래와 관련된 추가 파트너 책임이 포함됩니다.
+
+
+      - A에는 CSP와 고객 간에 입력한 미국 정부 클라우드 서비스의 모든 계약에 통합되어야 하는 Microsoft 고객 계약(Microsoft 고객 계약)가 포함되어 있습니다.
+  - question: >
+      Microsoft Cloud for US Government 판매할 자격은 무엇인가요?
+    answer: >
+      Microsoft Cloud for US Government CSP 프로그램을 판매하기 위한 자격 기준은 직접 파트너 및 간접 대리점 모두에 열려 있는 CSP 상업용의 자격 기준과 동일합니다. CSP Commercial에 대한 간접 대리점으로 승인된 경우 Microsoft Cloud for US Government 위해 CSP 프로그램의 간접 대리점으로 다시 표시할 필요가 없습니다.
+  - question: >
+      저는 기존 파트너입니다. Microsoft Cloud for US Government 판매하려면 어떻게 해야 합니까?
+    answer: >
+      파트너는 규정 및 규정 준수 요구 사항을 충족하기 위해 Microsoft Cloud for US Government 위해 CSP 프로그램에 온보딩해야 합니다. (Microsoft Cloud for US Government 온보딩은 CSP 상업용 온보딩과 별개입니다.) 온보딩한 후에는 Microsoft Cloud for US Government 내에서 사용할 수 있는 고객 및 거래 제안을 만들 수 있습니다. API를 사용하는 경우 [Microsoft National Cloud용 파트너 센터 개발을 참조하세요.](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+  - question: >
+      파트너 인센티브에 차이가 있나요?
+    answer: >
+      아니요. Microsoft Cloud for US Government CSP 프로그램에 대한 파트너 인센티브는 CSP 상업용에 대한 파트너 인센티브와 동일합니다. 파트너 인센티브에 대해 자세히 알아보려면 Microsoft 파트너 네트워크 포털 에 [로그인합니다.](https://partner.microsoft.com/membership/partner-incentives)
+  - question: >
+      청구에 변경 내용이 있나요?
+    answer: >
+      아니요. Microsoft Cloud for US Government 대한 CSP 프로그램의 청구 기준 및 요구 사항은 CSP 상업용에 대한 청구 기준 및 요구 사항과 동일합니다. 청구에 대한 자세한 내용은 [Microsoft 파트너 네트워크](https://partner.microsoft.com/cloud-solution-provider/resources)리소스를 검토합니다.
+  - question: >
+      상용 데이터 센터에서 호스트되는 데이터의 경우 Microsoft Cloud for US Government 변경할 수 있나요?
+    answer: >
+      Microsoft Cloud for US Government 격리의 무결성을 용이하게 하고 유지하기 위해 고객의 기존 서비스를 Microsoft Cloud for US Government 이동하는 메커니즘이 없습니다. 고객 또는 파트너에게 Azure가 있는 경우 Microsoft Cloud for US Government 내의 새 환경으로 이동하는 모든 데이터에 대한 책임이 있습니다.
+- name: Azure용 Microsoft Cloud for US Government 대한 질문
+  questions:
+  - question: >
+      Azure에 대한 Microsoft Cloud for US Government 무엇인가요?
+    answer: >
+      Azure Government 클라우드는 보안, 개인 정보 보호 및 제어, 규정 준수 및 투명성의 기본 원칙을 기반으로 하는 클라우드 플랫폼을 제공합니다. 공공 부문 엔터티는 아키텍처를 기반으로 구축된 모든 시스템 및 애플리케이션에 대해 미국 정부에게 중요한 세계적 수준의 보안 및 규정 준수 서비스를 사용하는 물리적으로 격리된 Microsoft Azure 인스턴스를 받습니다. 이러한 서비스는 FedRAMP 및 DoD 규정 준수 인증서, CJIS 상태 수준 계약, HIPAA 비즈니스 연결 규약을 실행하는 기능 및 IRS 1075에 대한 지원을 포함합니다. 선별된 미국 사람이 운영하는 Azure Government 온-프레미스 또는 클라우드에서 솔루션을 빌드하고 배포하기 위한 여러 하이브리드 시나리오를 지원합니다. 공공 부문 엔터티는 인스턴트 확장성을 활용하여 대규모 클라우드 서비스가 작동하도록 할 수 있습니다.
+  - question: >
+      Microsoft Cloud for US Government CSP 프로그램에서 모든 Azure 서비스를 제공하나요?
+    answer: >
+      IaaS(Infrastructure as a Service) 및 기본 플랫폼 및 데이터 제품을 지금 사용할 수 있습니다. 로드맵은 지속적으로 업데이트되며 파트너 센터(인증 필요) 내에서 CSP 상업용에 대한 설명서와 유사한 설명서를 제공합니다. 현재 여기에서 사용할 수 있는 Azure Government 서비스를 검토할 수 있지만 클래식 컴퓨팅, 네트워킹, 스토리지 및 클라우드 서비스와 같은 일부 서비스는 CSP용으로 설계되지 않았으며 작동하지 않습니다.
+  - question: >
+      Microsoft Cloud for US Government CSP 프로그램을 사용하여 개발하려면 어떻게 해야 합니까?
+    answer: >
+      Microsoft Cloud for US Government 파트너 센터 사용하여 개발하는 자세한 내용은 Microsoft Government 클라우드용 파트너 센터 사용하여 [개발을 참조하세요.](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+  - question: >
+      API에 차이점이 있나요?
+    answer: >
+      Microsoft Cloud for US Government CSP 프로그램에 대한 API 및 통합 요구 사항은 CSP Commercial의 API 및 통합 요구 사항과 동일합니다. Microsoft Cloud for US Government 엔드포인트에 대한 자세한 내용은 파트너 센터 [REST URL을 참조하세요.](/partner-center/develop/partner-center-rest-urls)
+
+
+      >[!NOTE]
+
+      >CREST API는 CSP 프로그램에서 Microsoft Cloud for US Government 사용할 수 없습니다. 이러한 API는 CSP에서 더 이상 사용되지 않으므로 Microsoft Cloud for US Government 사용할 수 없습니다. 규정 및 규정 준수 요구 사항을 충족하기 위해 CSP 프로그램에서 Microsoft Cloud for US Government 다음 API를 사용할 수 없습니다.
+
+      >
+
+      > **사용자 계정 관리**
+
+      >- 고객의 사용자 계정 만들기
+
+      >- 고객에 대한 사용자 계정 삭제
+
+      >- 고객의 사용자 계정 업데이트
+
+      >- 고객의 모든 사용자 계정 목록 가져오기
+
+      >- 고객의 사용자 암호 다시 설정
+
+      >- 고객의 사용자 역할 가져오기
+
+      >- 고객의 삭제된 사용자 역할 설정
+
+      >- 고객의 삭제된 사용자 보기
+
+      >- 고객의 사용자 복원
+
+      >
+
+      > **라이선스 관리**
+
+      >- 사용 가능한 라이선스 목록 가져오기
+
+      >- 사용자에게 라이선스 할당
+
+      >-  사용자에게 할당된 라이선스 확인
+  - question: >
+      CSP 프로그램에서 Microsoft Cloud for US Government 사용할 수 없는 API에 대한 해결 방법이 있나요?
+    answer: >
+      파트너는 파트너 사용자 계정 관리에 Azure Portal, Azure AD PowerShell 또는 Graph API 사용할 수 있습니다. 자세한 기술 정보는 [정부 클라우드용 파트너 센터 개발()을 참조하세요.](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)
+- name: 다른 리소스에 대한 질문
+  questions:
+  - question: >
+      자세한 내용을 알아보려면 어떤 정보를 참조해야 하나요?
+    answer: >
+      다음 링크를 사용하여 CSP 프로그램을 숙지하고 Microsoft Cloud for US Government 위한 파트너 센터 개발하는 방법을 알아봅니다.
+
+
+      - [Azure Government 대해 알아보려면](https://azure.microsoft.com/overview/clouds/government/)
+
+
+      - [CSP에 대해 알아보려면](https://partner.microsoft.com/cloud-solution-provider)
+
+
+      - [파트너 센터 for Microsoft Cloud for US Government 사용하여 개발하는 방법에 대해 알아보려면](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+  - question: >
+      다른 질문이 있는 경우 어디로 문의해야 하나요?
+    answer: >
+      자세한 내용은 계정 관리자에게 문의하세요. 또한 [Azure Government CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)관련 Yammer 그룹에 조인합니다.
+additionalContent: "\n## <a name=\"next-steps\"></a>다음 단계\n\n- [Microsoft Cloud for US Government 클라우드 솔루션 공급자 프로그램에 등록합니다.](enroll-in-csp-for-microsoft-us-govt-cloud.md)\n- [Microsoft Cloud for US Government 파트너 센터 대해 자세히 알아보세요.](partner-center-for-microsoft-us-govt-cloud.md)"
