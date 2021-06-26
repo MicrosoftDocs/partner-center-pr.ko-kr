@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373459"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970194"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>청구 및 청구서 Azure Marketplace
 
@@ -49,7 +49,7 @@ Azure Marketplace 제안의 가격은 다음과 같은 17개 통화로 청구됩
 > 서비스 기간은 서비스를 사용하기 위해 지불한 기간입니다. 미리 취소하지 않는 한 서비스 기간의 및 에 자동 갱신됩니다.
 
 > [!NOTE]
-> 갱신 월 날짜가 구매 월 날짜와 같지 않으면 청구 월의 마지막 날짜로 조정됩니다. 즉, 1/31에 구독하는 경우 2월의 청구 종료 날짜는 2/27이며, 새 청구 기간은 2/28(2/28 및 윤년부터 시작하는 경우 2/29)입니다.
+> 갱신 월 날짜가 구매 월 날짜와 같을 수 없는 경우 청구 기간(또는 청구 월의 마지막 날짜)을 조정합니다. 즉, 1/31에 구독하는 경우 청구 종료 날짜는 2/27로 조정되고 갱신 날짜는 2/28(윤년에서 시작하는 경우 각각 2/28 및 2/29)입니다.
 
 ## <a name="invoices"></a>송장
 
