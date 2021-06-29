@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276861"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013321"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>분석을 사용하여 구독 수익에 대해 자세히 알아보기
 
@@ -33,7 +33,7 @@ CSP 비즈니스 개발 계획을 작성하려면 고객이 Microsoft 제품을 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>TTM(후행 Twelve-Month) CSP 수익
 
-후행 12개월 CSP 수익은 파트너 글로벌 계정 수준에서 후행 클라우드 솔루션 공급자 프로그램 수익(USD)을 나타냅니다. 데이터는 매월 8일에 새로 고쳐 전월까지 후행 12개월 수익을 표시합니다. 예를 들어 2020년 9월 9일에는 2019년 9월부터 2020년 8월까지의 고정 기간에 대한 TTM을 볼 수 있습니다.
+후행 12개월 CSP 수익은 파트너 글로벌 계정 수준에서 후행 클라우드 솔루션 공급자 프로그램 수익(USD)을 나타냅니다. 데이터는 매월 8일에 새로 고쳐 전월까지 후행 12개월 수익을 표시합니다. 예를 들어 2020년 9월 9일에는 2019년 9월부터 2020년 8월까지의 고정 기간에 대한 TTM을 볼 수 있습니다. 소프트웨어 구독은 제외됩니다. TTM 수익은 청구서가 이미 지불된 적격 수익만 반영합니다. 
 
 파트너 센터 표시되는 수익은 12개월의 고정 시간 간격으로 계산되며 더 짧은 시간 프레임으로 수정할 수 없습니다.
 
