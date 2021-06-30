@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373309"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105042"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>온-프레미스 또는 클라우드 제품에 대한 기술 지원
 
@@ -52,7 +52,7 @@ ms.locfileid: "112373309"
    > [!NOTE]
    > 계정이 CSP에만 연결되고 MPN에 연결되지 않은 경우 "이 작업에 대한 권한이 없습니다."라는 오류 메시지가 표시됩니다. MPN 연결 계정이 있어야 합니다.
 
-2. 왼쪽 탐색 메뉴에서 **혜택** 을 확장하고 **기술 혜택** 을 선택합니다. 기술 혜택 페이지에는 조직의 활성 골드, 실버 또는 Microsoft Action Pack 멤버 자격 제안이 표시됩니다.
+2. 왼쪽 탐색 메뉴에서 **혜택을** 확장하고 [**기술 혜택을**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical)선택합니다. 기술 혜택 페이지에는 조직의 활성 골드, 실버 또는 Microsoft Action Pack 멤버 자격 제안이 표시됩니다.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="기술 혜택, 혜택 확장" :::
 
