@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151783"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276827"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN 계정 위치 관리 및 새 위치 추가(삭제)
 
@@ -30,7 +30,7 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
 >[!NOTE]
 >CSP 테넌트와 MPN 위치 ID 사이에는 일대일 관계가 있습니다.
 
-:::image type="content" source="images/locations/locations1.png" alt-text="MPN 위치 구조":::
+:::image type="content" source="images/locations/locations1.png" alt-text="MPN 위치 구조.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>CSP 비즈니스에 대한 새 위치를 추가하기 위한 필수 구성 요소
 
@@ -92,7 +92,7 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
  
 1. **위치 추가** 를 선택합니다. 그러면 CSP 트랜잭션 및 성과급에 사용할 수 있는 새 위치에 대한 새 MPN ID가 만들어집니다.
 
-:::image type="content" source="images/legal-biz.png" alt-text="새로운 법적 비즈니스 추가":::
+:::image type="content" source="images/legal-biz.png" alt-text="새로운 법적 비즈니스 추가.":::
 
 > [!NOTE]
 > 파트너 센터에서 추가한 위치는 제거할 수 없습니다. 올바른 MPN ID를 사용하여 로그인한 경우 파트너 센터의 왼쪽 메뉴에 **MPN** 이 표시됩니다.
@@ -143,7 +143,7 @@ Contoso는 영국에 PGA(파트너 글로벌 계정)를 가지고 있습니다. 
  
 1. **국가/지역** 드롭다운 목록 옆에 있는 **국가 변경** 을 선택하고 단계를 따릅니다. 
 
-:::image type="content" source="images/lbp.png" alt-text="법적 비즈니스 프로필 데이터 플라이 아웃":::
+:::image type="content" source="images/lbp.png" alt-text="법적 비즈니스 프로필 데이터 플라이 아웃.":::
 
 5. **저장** 을 선택합니다.
 

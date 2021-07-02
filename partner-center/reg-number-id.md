@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855831"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551166"
 ---
 # <a name="registration-id-number-information"></a>등록 ID 번호 정보
 
@@ -26,7 +26,7 @@ ms.locfileid: "109855831"
 
 | **국가 또는 지역** | **세부 정보** |
 |:--|:--|
-| **아르메니아** | INN – 납세자 식별 번호<br>VAT 번호 – VAT 등록 번호라고도 합니다. 이 값은 VAT에 등록된 과세 대상자(사업자) 또는 비과세 법인을 식별하는 고유 번호입니다.<br>공용 서비스 번호 |
+| **아르메니아** | INN – 납세자 식별 번호<br>VAT(부가가치세) 번호 – VAT 등록 번호라고도 합니다. 이 값은 VAT에 등록된 과세 대상자(사업자) 또는 비과세 법인을 식별하는 고유 번호입니다.<br>공용 서비스 번호 |
 | **아제르바이잔**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – 납세자 식별 번호<br>INN – 납세자 식별 번호 |
 | **벨라루스**  | UNP – 이 값은 지역 식별자, 지역별 일련 번호 및 검사 숫자가 포함된 9자리 숫자(조직의 경우 숫자, 개인의 경우 영숫자)입니다. |
 |**브라질** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional Da Pessoa Jurídica 또는 법인 국가 등록 번호). 이 값은 브라질 연방 세무부가 브라질 기업에 발급한 식별 번호입니다.  |

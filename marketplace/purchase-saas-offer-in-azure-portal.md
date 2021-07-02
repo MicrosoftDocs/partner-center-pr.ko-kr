@@ -7,17 +7,32 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/04/2021
-ms.openlocfilehash: 8dba9f95607a4172e6d5d0bc2ec148a25b599cd1
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/29/2021
+ms.openlocfilehash: a124e4c5bb31a1fbb744bf2c5e1ea65a356bdd54
+ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431441"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "113221443"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Azure Portal에서 SaaS 제품 구매
 
 이 문서에서는 Azure Portal에서 SaaS (software as a service) 제품을 검색, 시도 및 구매 하기 위한 다양 한 옵션 및 요구 사항에 대해 설명 합니다.
+
+## <a name="create-a-saas-subscription"></a>SaaS 구독 만들기
+
+SaaS 구독을 구매 하려면 적절 한 Azure 구독에 대 한 액세스 권한이 있는 Azure 사용자 계정이 필요 합니다. 이 구독은 대금 청구 뿐만 아니라 구매한 클라우드 리소스를 compartmentalization 하는 데 사용 됩니다. Azure 구독에 대해 자세히 알아보려면 [추가 azure 구독 만들기](/azure/cost-management-billing/manage/create-subscription)를 참조 하세요.
+
+Azure Portal의 **Marketplace** 섹션에서 원하는 SaaS 제품을 선택 합니다.
+
+Software as a Service 구독은 개별 컴퓨터에 로컬로 설치 하는 대신 온라인 구독을 통해 지정 된 시간 동안 서비스를 사용할 수 있는 권한을 제공 합니다. 구독은 하나 이상의 클라우드 플랫폼 또는 서비스를 사용 하는 규약으로, 사용자 당 라이선스 요금 또는 클라우드 기반 리소스 사용량을 기준으로 요금이 청구 됩니다. 조직에는 여러 SaaS 구독이 있을 수 있습니다.
+
+SaaS 구독에 대 한 제한 사항은 다음과 같습니다.
+
+- 학생 구독 없음.
+- Visual Studio Enterprise 구독이 없습니다.
+- 무료 크레딧 구독은 없습니다.
+- 유료 제품의 경우 결제 수단이 필요 합니다.
 
 ## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS는 Azure Portal에서 검색을 제공 합니다.
 
@@ -36,7 +51,7 @@ Azure Portal 되 면 SaaS 제품에 초점을 맞추기 위해 검색 범위를 
 
 - 개요 – 서비스, 마케팅 및 학습 자료에 대 한 세부 정보
 - 요금제 + 가격 책정 – 각 제품은 청구 사용 약관 및 가격이 다른 계획을 하나 이상 포함 합니다.
-- 사용 정보 + 지원 – 게시자 ID, 제품 ID 및 계획 ID를 포함 합니다.
+- 사용 정보 + 지원 – Publisher id, 제품 id 및 계획 id를 포함 합니다.
 - 특정 SaaS 제품의 등급 및 리뷰
 
 ## <a name="available-billing-models-plansskus-for-saas-offers"></a>SaaS 제품에 대 한 사용 가능한 청구 모델 (요금제/Sku)
@@ -93,18 +108,18 @@ Azure Portal 되 면 SaaS 제품에 초점을 맞추기 위해 검색 범위를 
   - IT 관리자에 게 문의
 
 - 요청한 청구 기간이 비어 있거나 잘못 되어 구매 하지 못했습니다.
-  - 다른 요금제/청구 기간을 구매 하세요.
+  - 다른 플랜/청구 기간을 구매해 보세요.
 
-- 법률 계약에 대 한 로그인을 확인할 수 없어 구매 하지 못했습니다.
-  - 다시 시도 오류가 계속 발생 하면 다른 Azure 구독을 사용 하 여 구매 하거나 지원 담당자에 게 문의 하세요.
+- 법적 계약에 대한 서명을 확인할 수 없어 구매에 실패했습니다.
+  - 다시 시도 오류가 지속되면 다른 Azure 구독을 사용하여 구매하거나 고객 지원 담당자에게 문의하세요.
 
-- 게시자 *publisherID* 제공 *offerID* 를 구매 하지 못했습니다. 현재이 제품은 구매할 수 없습니다.
-  - 나중에 다시 시도하십시오. 한 시간 후에이 오류 메시지가 표시 되 면 지원 담당자에 게 문의 하세요.  
+- publisher *publisherID별 제안* *제안ID를* 구매하지 못했습니다. 이 제안은 현재 구매할 수 없습니다.
+  - 나중에 다시 시도하십시오. 1시간 후에도 이 오류 메시지가 계속 발생하면 고객 지원 담당자에게 문의하세요.  
 
-- 게시자 *publisherID* 의 *planID* *offerID* 계획을 구매 하지 못했습니다. 이 요금제는 현재 구매할 수 없습니다.
-  - 나중에 다시 시도하십시오. 한 시간 후에이 오류 메시지가 표시 되 면 지원 담당자에 게 문의 하세요. 
+- 게시자 *publisherID에* 의한 제안  *제안의 planID* 구매에 실패했습니다. 이 플랜은 현재 구매할 수 없습니다.
+  - 나중에 다시 시도하십시오. 1시간 후에도 이 오류 메시지가 계속 발생하면 고객 지원 담당자에게 문의하세요. 
 
-- 개체 id가 *ObjectID* 인 클라이언트 *전자 메일 주소* 에는 범위 ResourceGroup에 대해 작업 *deploymentvalidationaction* 을 수행할 수 있는 권한이 없습니다 *. DeploymentScope* 또는 scope가 잘못 되었습니다.  
+- 개체 *ID가 ObjectID인* 클라이언트 *이메일 주소에는* ResourceGroup 범위에 대해 *DeploymentValidationAction* 작업을 수행할 수 있는 권한이 없습니다. *DeploymentScope* 또는 범위가 잘못되었습니다.  
   - Azure 구독/리소스 그룹에 대한 올바른 권한이 없는 경우 이 메시지가 표시됩니다.  
     액세스 권한이 최근에 부여된 경우 자격 증명을 새로 고치세요.  
     리소스 그룹에 리소스를 배포하려면 기여자 이상의 액세스 권한이 있어야 합니다. **리소스 그룹에서** 액세스 상태를 확인한 다음, **를 Access Control.** 그러면 '소유자'가 누구인지, '참가자'로 할당하도록 요청할 수 있는 사람이 표시됩니다.
