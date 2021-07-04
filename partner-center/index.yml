@@ -6,15 +6,15 @@ metadata:
   description: 파트너 센터는 MPN(Microsoft 파트너 네트워크), CSP(클라우드 솔루션 공급자) 프로그램 등을 통해 비즈니스를 성장시키는 곳입니다.
   ms.service: partner-dashboard
   ms.topic: landing-page
-  author: LauraBrenner
-  ms.author: labrenne
+  author: JasonGroce
+  ms.author: jasongroce
   ms.date: 02/01/2021
-  ms.openlocfilehash: 95a3e09cd265b9e09970b3f7c57261efb9b21221
-  ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+  ms.openlocfilehash: 430f009e1fd7391ae06e49cb90611346a02b9f6c
+  ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
   ms.translationtype: HT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 04/16/2021
-  ms.locfileid: "107528525"
+  ms.lasthandoff: 06/04/2021
+  ms.locfileid: "111446875"
 landingContent:
 - title: 파트너 센터 시작
   linkLists:

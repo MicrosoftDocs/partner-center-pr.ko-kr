@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570725"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149301"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>전역 관리자가 되기 위한 도메인 소유권 확인 
 
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 계정 관리자
+**적절한 역할**: 전역 관리자 | 계정 관리자
 
 파트너 센터에서 작업하려면 먼저 도메인의 소유권을 확인하고 회사의 전역 관리자가 되어야 합니다. 또한 직원에게는 작업을 시작하는 데 필요한 역할이 할당되지 않습니다.  파트너 센터에서 작업하려면 모두에게 사용 권한을 포함한 역할이 할당되어야 합니다.  
 

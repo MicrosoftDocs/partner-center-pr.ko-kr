@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702827"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150134"
 ---
 # <a name="april-2021-announcements"></a>2021년 4월 공지
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>요약
 
-파트너 센터 API Swagger 문서가 [이전 Swagger 문서 사이트](https://apidocs.microsoft.com/services/partnercenter)에서 [ 새 Swagger 문서 사이트](https://docs.microsoft.com/rest/api/partner-center-rest/)로 마이그레이션되었습니다.
+파트너 센터 API Swagger 문서가 [이전 Swagger 문서 사이트](https://apidocs.microsoft.com/services/partnercenter)에서 [ 새 Swagger 문서 사이트](/rest/api/partner-center-rest/)로 마이그레이션되었습니다.
 
 ### <a name="impacted-audience"></a>영향을 받는 대상
 
@@ -87,11 +87,11 @@ _______________
 
 ### <a name="details"></a>세부 정보
 
-2021년 4월 26일부터 Rest API 콘텐츠를 포함한 파트너 센터 API Swagger 문서는 [새 사이트](https://docs.microsoft.com/rest/api/partner-center-rest/)에 있습니다. 몇 주 후에는 이전 사이트를 액세스할 수 없습니다.
+2021년 4월 26일부터 Rest API 콘텐츠를 포함한 파트너 센터 API Swagger 문서는 [새 사이트](/rest/api/partner-center-rest/)에 있습니다. 몇 주 후에는 이전 사이트를 액세스할 수 없습니다.
 
 ### <a name="benefits"></a>이점
 
-파트너 센터 API Swagger 문서는 **사용해보기** 기능을 제공합니다. 이 기능을 사용하려면 [파트너 센터 인증](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)에 나열된 단계에 따라 생성할 수 있는 전달자 토큰이 있어야 합니다.
+파트너 센터 API Swagger 문서는 **사용해보기** 기능을 제공합니다. 이 기능을 사용하려면 [파트너 센터 인증](/partner-center/develop/partner-center-authentication#app--user-authentication)에 나열된 단계에 따라 생성할 수 있는 전달자 토큰이 있어야 합니다.
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -322,7 +322,7 @@ ________________
 
 ### <a name="details"></a>세부 정보
 
-이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](https://docs.microsoft.com/partner-center/announcements/2020-december#1)에 대한 후속 작업입니다. 이 릴리스의 일부로 새 GET 및 POST Qualifications API가 배포되었으며 그 결과 **기존 GET 자격이 2021년 5월 6일에 사용 중지됩니다**. 그때까지 새 POST 파트너 센터 API를 사용하도록 전환해야 합니다. 새 POST API를 사용하면 교육 제품을 구매할 수 있으며, 새 GET API를 사용하면 사전에 정규화된 비영리 및 GCC 제품을 구매할 수 있습니다.
+이 공지는 [12월에 릴리스된 파트너 센터 고급 기능](./2020-december.md#1)에 대한 후속 작업입니다. 이 릴리스의 일부로 새 GET 및 POST Qualifications API가 배포되었으며 그 결과 **기존 GET 자격이 2021년 5월 6일에 사용 중지됩니다**. 그때까지 새 POST 파트너 센터 API를 사용하도록 전환해야 합니다. 새 POST API를 사용하면 교육 제품을 구매할 수 있으며, 새 GET API를 사용하면 사전에 정규화된 비영리 및 GCC 제품을 구매할 수 있습니다.
 
 ### <a name="next-steps"></a>다음 단계
 
@@ -390,7 +390,7 @@ CSP 프로그램을 통해 거래하는 파트너
 
 ### <a name="next-steps"></a>다음 단계
 
-Microsoft 파트너 웹 사이트의 [Operations Readiness 리소스 갤러리](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)에서 이 토픽에 대한 정보를 검토하세요. 청구 리소스, 청구서, CSP 청구 및 세금을 포함하여 청구 및 세금 토픽에 대한 자세한 내용은 파트너 센터의 [청구 섹션](https://docs.microsoft.com/partner-center/billing)을 방문하세요.
+Microsoft 파트너 웹 사이트의 [Operations Readiness 리소스 갤러리](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)에서 이 토픽에 대한 정보를 검토하세요. 청구 리소스, 청구서, CSP 청구 및 세금을 포함하여 청구 및 세금 토픽에 대한 자세한 내용은 파트너 센터의 [청구 섹션](../billing.md)을 방문하세요.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>CSP(클라우드 솔루션 공급자) 고객 등록 요구 사항에 대한 변경

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712531"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575837"
 ---
 # <a name="november-2020-announcements"></a>2020년 11월 공지
 
@@ -307,8 +307,8 @@ Microsoft는 파트너 센터 API를 호출하는 파트너에게 특정 시간 
 
 | **연산** | **파트너 센터 설명서** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/customers/{customer_id}/subscriptions|[고객의 모든 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID별 구독 가져오기](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[고객의 모든 구독 가져오기](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[ID별 구독 가져오기](/partner-center/develop/get-a-subscription-by-id) | 
 |{baseURL}/v1/customers/{customer_id}/orders|[고객의 모든 주문 가져오기](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[ID별 주문 가져오기](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[구독 프로비전 상태 가져오기](/partner-center/develop/get-subscription-provisioning-status)|  
