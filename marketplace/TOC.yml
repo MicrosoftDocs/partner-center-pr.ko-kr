@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: Microsoft AppSource 정보
+    - name: 정보
       href: appsource-overview.md
-    - name: AppSource에서 소프트웨어 구매
+    - name: 소프트웨어 구매
       href: purchase-software-appsource.md
+    - name: 비공개 플랜
+      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
-    - name: Azure Marketplace 정보
+    - name: 정보
       href: azure-marketplace-overview.md
     - name: 구매
       href: azure-purchasing-invoicing.md
+    - name: Azure Portal에서 SaaS 제품 구매
+      href: purchase-saas-offer-in-azure-portal.md
     - name: 청구 및 송장 작성
       href: billing-invoicing.md
-    - name: 프라이빗 제품
+    - name: Azure 사용량 약정 혜택
+      href: azure-consumption-commitment-benefit.md
+    - name: 비공개 플랜
       href: private-offers.md
     - name: 구독 이전 자격
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: 프라이빗 Azure Marketplace 관리 - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Azure Marketplace 파트너 통합
-      href: partner-integrations.md
+    - name: 파트너의 솔루션을 통해 Azure 확장
+      href: /azure/partner-solutions/overview
 - name: 일반 리소스
   items:
     - name: 환불 정책
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: 기본 설정 솔루션
-      href: preferred-solutions.md
