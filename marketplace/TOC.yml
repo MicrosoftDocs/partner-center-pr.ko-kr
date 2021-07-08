@@ -6,8 +6,6 @@
       href: appsource-overview.md
     - name: 소프트웨어 구매
       href: purchase-software-appsource.md
-    - name: 비공개 플랜
-      href: appsource-private-plans.md
 - name: Azure Marketplace
   items:
     - name: 정보
