@@ -1,7 +1,7 @@
 ---
 title: 고급 특수화에 대해 알아보기
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 파트너 디렉터리에서 비즈니스 프로필을 강화 합니다. 기존 골드 및 실버 역량에 따라 얻을 수 있는 고급 특수화에 대해 알아보세요.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125925"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489812"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>유효성이 검사 된 기능을 보여 주기 위해 고급 특수화 획득
 
@@ -53,7 +53,10 @@ Microsoft 고급 특수화는 파트너가 얻을 수 있는 관련 [골드](lea
 - Microsoft Azure의 AI 및 Machine Learning
 - Microsoft Azure Stack HCI를 사용 하는 하이브리드 클라우드 인프라
 - Microsoft Azure 호로 하이브리드 운영 및 관리
-- VMware 솔루션 Microsoft Azure
+- Microsoft Azure VMware 솔루션
+- Microsoft Azure에서 GitHub를 사용 하 여 DevOps
+- Microsoft Azure 네트워킹 서비스
+
 
 **Business Applications** 고급 특수화는 다음과 같습니다.
 
