@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086365"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276011"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>파트너 테넌트에 대한 MFA(다단계 인증) 위임
 
-**적절한 역할**
-
-- 관리 에이전트
-- 영업 상담원
-- 기술 지원팀 상담원
-- 청구 관리자
-- 글로벌 관리자
+**적절한 역할**: 관리 에이전트 | 영업 에이전트 | Helpdesk 에이전트 | 청구 관리자 | 전역 관리자
 
 이 문서에는 파트너 센터에서 MFA(다단계 인증)를 의무화하는 데 대한 자세한 예제와 지침이 나와 있습니다. 이 기능은 파트너가 자격 증명을 손상시키지 않도록 고객 리소스에 대한 액세스를 보호하기 위한 것입니다. 파트너는 게스트 사용자를 포함한 파트너 테넌트의 모든 사용자 계정에 MFA를 적용해야 합니다. 사용자는 다음 영역에 대한 MFA 확인을 완료해야 합니다.
 

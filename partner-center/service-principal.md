@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854930"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551557"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>파트너 센터에서 Azure AD 애플리케이션(서비스 사용자) 추가
 
 **적절한 역할**: 전역 관리자
 
-파트너 센터의 상용 마켓플레이스 프로그램에서 이제 Azure AD 애플리케이션(서비스 사용자)을 파트너 센터 계정의 사용자로 추가할 수 있습니다. (이전에 Cloud 파트너 포털 또는 CPP 계정에서 이 작업을 수행할 수 있었습니다. 파트너 센터로 마이그레이션되었으므로 CPP 계정은 읽기 전용입니다.)
+파트너 센터의 상업용 Marketplace 프로그램에서 이제 Microsoft Azure AD(Azure Active Directory) 애플리케이션(서비스 사용자)을 파트너 센터 계정의 사용자로 추가할 수 있습니다. (이전에 CPP(Cloud 파트너 포털) 계정에서 이 작업을 수행할 수 있었습니다. 파트너 센터로 마이그레이션되었으므로 CPP 계정은 읽기 전용입니다.)
  
 >[!Note] 
 >서비스 사용자는 Azure AD 애플리케이션과 동의어입니다.

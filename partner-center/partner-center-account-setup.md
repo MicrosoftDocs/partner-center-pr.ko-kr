@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740389"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277711"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>파트너 센터 계정 관리 - 회사 프로필, 은행 정보, 역할, 권한 등
 
-**적절한 역할** 
-
-- 글로벌 관리자
-- 계정 관리자
+**적절한 역할**: 전역 관리자 | 계정 관리자
 
 등록 시 파트너 센터에서 생성한 계정은 직장 이메일과 비즈니스 정보를 조합한 것입니다. 계정을 만든 후에는 사용자가 지원 세부 사항, 면세 정보 제출(해당하는 경우), 기본 연락처 정보를 포함하여 회사의 전체 프로필 설정을 완료하게 됩니다. 또한 회사 계정에는 파트너 센터를 사용하는 팀의 모든 사용자를 위한 사용자 계정이 포함됩니다. 이러한 사용자가 수행하는 작업에는 고객 추가 또는 관리, 구독 판매, 청구 및 송장 작성, 비즈니스 프로필 만들기, 추천 관리, 성과급 프로그램 작업, 지원 제공 등이 포함됩니다.
 

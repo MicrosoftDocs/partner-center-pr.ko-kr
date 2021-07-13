@@ -9,20 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534746"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013304"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>소개: 파트너가 Azure 플랜을 통해 고객을 위한 종량제 요금으로 Azure 구매 가능
 
-**적절한 역할**
+**적용 대상**: 파트너 센터
 
-- 관리 에이전트
-- 영업 상담원
-- 글로벌 관리자
+**적절한 역할**: 관리자 에이전트 | 영업 에이전트 | 전역 관리자
 
 Microsoft는 파트너 센터에서 새로운 상거래 환경인 Azure 플랜을 도입했습니다.  이 새로운 상거래 환경을 통해 파트너는 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다.
 

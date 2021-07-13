@@ -9,23 +9,16 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534967"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149743"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure CSP(클라우드 솔루션 공급자) 프로그램에서 사용할 수 있는 Azure 서비스
 
-**적절한 역할**
-
-- 관리 에이전트
-- 청구 관리자
-- 글로벌 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
-- 사용자 관리 담당자
+**적절한 역할**: 관리 에이전트 | 청구 관리자 | 전역 관리자 | Helpdesk 에이전트 | 영업 에이전트 | 사용자 관리 관리자
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP에서 사용 가능한 Azure 서비스
 

@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086535"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152616"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>파트너 획득 크레딧 - CSP의 새로운 상거래 경험에서 어떻게 작동하는지에 대한 개요
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 청구 관리자
-- 영업 상담원
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 관리자 에이전트 | 청구 관리자 | 영업 에이전트
 
 CSP의 새로운 상거래 환경에서 제공하는 파트너 획득 크레딧은 Microsoft의 모든 Go-To-Market 수단에 걸쳐 간단하고 일관적인 Azure 가격 책정을 구현하는 한편, 부가 가치 관리형 서비스를 제공하는 파트너 에코시스템을 육성하는 비즈니스 모델입니다. 또한 파트너 획득 크레딧은 수익에 대한 경쟁을 없애는 데 도움이 됩니다.
 

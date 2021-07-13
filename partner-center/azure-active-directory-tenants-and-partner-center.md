@@ -8,20 +8,17 @@ author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.date: 6/17/2021
+ms.openlocfilehash: 69aa45de55a4356eaab1bcd4cd309feb14de9f6e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534797"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112318064"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>회사를 파트너 센터 계정에 연결하는 회사 계정 만들기
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자
 
 ## <a name="why-you-need-a-work-account"></a>회사 계정이 필요한 이유
 
@@ -34,7 +31,7 @@ Microsoft에서는 회사 계정을 새 파트너 센터 계정에 연결하도�
 유효한 업무용 메일 주소가 여러 개 있는 경우 지역 부서가 아닌 본사에 연결된 메일 주소를 사용합니다. 예를 들어 `contoso.uk` 주소가 아닌 `contoso.com` 이메일을 사용합니다.
 
 > [!NOTE]  
-> 기존 회사 계정을 사용하기로 결정하기 전에 계정의 사용자 중 파트너 센터에서 작업해야 하는 인원이 몇 명인지 생각해 보세요. 파트너 센터에서 작업할 필요가 없는 사용자가 계정에 포함된 경우 파트너 센터에서 작업해야 하는 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
+> 기존 회사 계정을 사용하기 전에 회사 계정의 사용자 중 파트너 센터에 액세스해야 하는 인원이 몇 명인지 생각해 보세요. 파트너 센터에 액세스할 필요가 없는 사용자가 회사 계정에 포함된 경우 파트너 센터 액세스가 필요한 사용자만을 위한 새 계정을 만드는 방안을 고려해 볼 수 있습니다.
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>회사 계정이 있는지 확실하지 않은가요?
 
@@ -42,7 +39,7 @@ Microsoft에서는 회사 계정을 새 파트너 센터 계정에 연결하도�
 
 1. [Azure Portal](https://portal.azure.com)에 로그인합니다.
 
-2. 메뉴에서 Azure Active Directory를 선택하고 도메인 이름을 선택합니다.
+2. 탐색 메뉴에서 Azure Active Directory를 선택하고 **사용자 지정 도메인 이름** 을 선택합니다.
 
 3. 이미 회사 계정이 있는 경우 도메인 이름이 나열됩니다.
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855678"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551676"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>갱신 기간 중 역량 및 고급 전문화를 위한 MPN 제안 갱신
 
@@ -22,7 +22,7 @@ ms.locfileid: "109855678"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>COVID-19에 대한 대응: Microsoft 파트너 네트워크 업데이트
 
-Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에 파트너를 위한 역량 확장(Cloud Business Applications 역량 제외) 및 고급 전문화 확장을 제공합니다. 자세한 내용은 [파트너 블로그 게시](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)를 참조하세요.
+Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 갱신일에 파트너를 위한 역량 확장(Cloud Business Applications 역량 제외) 및 고급 전문화 확장을 제공합니다. 자세한 내용은 [파트너 블로그 게시](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)를 참조하세요.
 
 ## <a name="renewal-reminders"></a>갱신 미리 알림
 
@@ -40,7 +40,7 @@ Microsoft는 2021년 1월 1일 및 2021년 6월 30일 사이의 AD(갱신일)에
 
 4. 이 제품을 활용하려면 **멤버십 제품** 으로 이동합니다. 역량 구매 또는 갱신 상태에 따라 프로세스를 완료하려면 역량 요금을 지불해야 할 수도 있습니다.
 
-연장을 활용하려면 멤버십을 갱신하고 요금을 지불하기 위해 PMC(Partner Membership Center)에서 파트너 센터로 멤버십을 이동해야 합니다. 사용자의 멤버십을 이동하지 않은 경우, 지금 [자세히 알아보고](prepare-pmc-pc-migration.md)   [이전합니다](https://partners.microsoft.com/partnerprogram/Welcome.aspx) .  
+연장을 활용하려면 멤버십을 갱신하고 요금을 지불하기 위해 PMC(Partner Membership Center)에서 파트너 센터로 멤버십을 이동해야 합니다. 사용자의 멤버십을 이동하지 않은 경우, 지금 [자세히 알아보고](partner-membership-center-retirement-faq.md)   [이전합니다](https://partners.microsoft.com/partnerprogram/Welcome.aspx) .  
 
 ## <a name="next-steps"></a>다음 단계
 

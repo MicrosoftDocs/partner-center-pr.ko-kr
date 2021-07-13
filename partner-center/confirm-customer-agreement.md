@@ -9,19 +9,16 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633781"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277014"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>고객이 CSP 프로그램에 대한 Microsoft 고객 계약에 동의했는지 확인하는 방법
 
-**적절한 역할**
-
-- 관리 에이전트
-- 영업 상담원
+**적절한 역할**: 관리 에이전트 | 영업 에이전트
 
 
 고객은 두 가지 옵션으로 Microsoft 고객 계약에 동의할 수 있습니다.

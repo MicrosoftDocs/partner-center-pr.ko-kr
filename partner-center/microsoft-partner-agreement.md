@@ -9,18 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441271"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276623"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP 프로그램 파트너를 위한 MPA(Microsoft 파트너 계약)에 대해 알아보기
 
-**적절한 역할**
-
-- 글로벌 관리자
+**적절한 역할**: 전역 관리자
 
 Microsoft 파트너 계약은 Microsoft 파트너에게 디지털 방식으로 수락하는 통합 파트너 계약을 제공합니다. Microsoft 파트너 계약에는 Microsoft, 파트너 및 고객이 데이터 개인 정보 보호 및 보안을 지원하고, 규정 준수를 촉진하며, 건전한 비즈니스 관행을 장려하는 데 도움이 되는 일단의 영구적인 핵심 조건이 포함되어 있습니다.
 
@@ -91,7 +89,7 @@ MPA에 서명했는지 확인하려면 다음을 수행합니다.
  회사의 전역 관리자는 [CSP 개요](https://partner.microsoft.com/pcv/dashboard/overview)로 이동하여 MPA를 수락했음을 알리는 녹색 배너가 표시되는지 확인합니다.
 
  
-:::image type="content" source="images/banner-boxed.png" alt-text="MPA 수락을 보여주는 녹색 배너":::
+:::image type="content" source="images/banner-boxed.png" alt-text="MPA 수락을 보여 주는 녹색 배너":::
 
 >[!NOTE]
 >회사의 글로벌 관리자만 MPA를 보고 서명할 수 있습니다. 글로벌 관리자가 아닌 경우 글로벌 관리자에게 MPA를 확인하도록 요청해야 합니다.

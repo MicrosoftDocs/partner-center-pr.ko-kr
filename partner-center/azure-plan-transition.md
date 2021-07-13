@@ -9,23 +9,18 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534814"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013270"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>기존 CSP Azure 제품에서 Azure 플랜으로 고객 전환
 
-**적절한 역할**
+**적용 대상**: 파트너 센터 
 
-- 관리 에이전트
-- 청구 관리자
-- 글로벌 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
-- 사용자 관리 담당자
+**적절한 역할**: 관리 에이전트 | 청구 관리자 | 전역 관리자 | Helpdesk 에이전트 | 영업 에이전트 | 사용자 관리 관리자
 
 이 문서에서는 CSP 파트너가 파트너 센터를 통해 기존 CSP Azure 제품의 고객을 Azure 플랜이 적용되는 Azure 서비스로 이동하는 방법을 설명합니다. 간접 공급자와 직접 청구 파트너는 Azure용 CSP(클라우드 서비스 공급자) 프로그램에서 사용할 수 있는 새로운 상거래 환경으로 전환할 수 있습니다. (직접 재판매인은 간접 공급자를 통해 작업해야 합니다.) 고객은 파트너 또는 Microsoft 판매자에게 구입하든 아니면 웹에서 직접 구입하든, 간편하게 클라우드 서비스를 구입할 수 있습니다.
 

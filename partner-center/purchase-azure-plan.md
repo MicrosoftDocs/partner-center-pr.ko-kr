@@ -9,18 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854964"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013338"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>고객에 대한 Azure 플랜을 구매하고 종량제 요금으로 최신 Azure 서비스에 액세스합니다.
 
+**적용 대상**: 파트너 센터 
+
 **적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 판매 에이전트
 
-Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 하나의 Azure 플랜에서 여러 Azure 구독을 가질 수 있습니다. 
+Microsoft 고객 계약에 따라 고객의 Azure 플랜을 구입할 때 최신 Azure 서비스의 전체 카탈로그에 종량제 요금으로 액세스할 수 있습니다. 이제 CSP(클라우드 솔루션 공급자) 파트너는 일반 공급되는 Azure 서비스에 액세스할 수 있습니다. 파트너는 하나의 Azure 플랜에서 여러 Azure 구독을 가질 수 있습니다. 
 
 ## <a name="countryregion-availability"></a>국가/지역 가용성
 
@@ -95,7 +97,7 @@ Azure Portal에서 고객의 예약을 관리하는 방법은 다음과 같습�
 
 ## <a name="add-subscriptions-and-configure-resources"></a>구독 추가 및 리소스 구성
 
-Azure Portal에서 고객 대신 구독을 추가하고 리소스를 구성할 것입니다. 고객의 환경을 워크로드 또는 프로젝트별로 분리할 수도 있습니다. Azure Portal뿐 아니라 [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/)를 통해 구독을 관리할 수 있습니다. 
+Azure Portal에서 고객 대신 구독을 추가하고 리소스를 구성할 것입니다. 고객의 환경을 워크로드 또는 프로젝트별로 분리할 수도 있습니다. [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) 및 Azure Portal을 통해 구독을 관리할 수 있습니다. 
 
 고객의 리소스 및 구독을 관리하려면 **AOBO(대신 관리)** 권한이 필요합니다. 액세스 관리에 대한 자세한 내용은 [Azure 플랜 하에서 구독 및 리소스 관리](azure-plan-manage.md)를 참조하세요.
 

@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178870"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989345"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft 역량을 획득하여 비즈니스 차별화
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자
 
 하나 이상의 전문 비즈니스 영역에서 고품질 솔루션을 제공하는 검증된 귀사의 전문 지식을 보여주세요. Microsoft 역량은 귀사가 고객의 요구 사항을 충족할 수 있도록 준비하고 Microsoft 인증 솔루션 공급자를 찾는 신규 고객을 유치하는 데 도움을 제공하도록 고안되었습니다. Microsoft 파트너의 엘리트 계층에 참여하여 역량을 홍보하세요.
 
@@ -74,4 +71,4 @@ Silver 및 Gold 역량 수준은 각 영역에 대한 요구 사항이 다릅니
 
 - 파트너의 현재 역량을 보여주는 파트너 센터 인사이트 [역량 보고서](pci-competencies-report.md)를 살펴보세요.
 
-- 역량에 대한 [질문과 대답](competencies-faq.md)을 확인하세요.
+- 역량에 대한 [질문과 대답](competencies-faq.yml)을 확인하세요.

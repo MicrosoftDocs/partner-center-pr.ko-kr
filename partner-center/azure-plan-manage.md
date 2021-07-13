@@ -9,18 +9,16 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a885d8bbbd7541e199365a7c732aba0b67128053
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534933"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277150"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure 플랜 하에서 구독 및 리소스 관리
 
-**적절한 역할**
-
-- 관리 에이전트
+**적절한 역할**: 관리 에이전트
 
 
 이 문서에서는 CSP 파트너가 다양한 RBAC(역할 기반 액세스 제어) 옵션을 사용하여 고객의 Azure 리소스를 운영 제어하고 관리하는 방법을 설명합니다. 고객을 Azure 플랜으로 전환하면 기본적으로 Azure에서 권한 있는 관리자 권한(대신 관리를 통한 구독 소유자 권한)이 할당됩니다.
@@ -38,7 +36,7 @@ ms.locfileid: "96534933"
 
 보안을 위해 사용자에게 작업 수행에 필요한 최소한의 권한만 부여하는 것이 좋습니다. [Azure Active Directory 권한 있는 ID 관리 리소스](/azure/active-directory/privileged-identity-management/pim-configure)를 참조하세요.
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>고객의 Azure 리소스를 관리할 수 있도록 파트너 ID(MPN ID)를 자격 증명에 연결하세요.
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>고객의 Azure 리소스를 관리할 수 있도록 파트너 ID(MPN ID)를 자격 증명에 연결합니다.
 
 다음 표에서는 파트너 ID를 다양한 RBAC 액세스 옵션과 연결하는 데 사용되는 방법을 보여줍니다.
 
@@ -61,7 +59,7 @@ ms.locfileid: "96534933"
 
 1. 경고를 만듭니다.
 
-   :::image type="content" source="images/azure/azurealert1.png" alt-text="azure 경고":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 경고":::
 
 2. 경고를 발생시킬 작업 유형을 선택합니다. 예를 들어 이메일을 원하는 것으로 지정하는 경우 역할 할당 삭제가 발생하면 알려주는 이메일을 받게 됩니다.
 

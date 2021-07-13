@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 52db2c8ee7652633ee5d73a534e8c73daead867e
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702878"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896818"
 ---
 # <a name="march-2021-announcements"></a>2021년 3월 공지
 
 이 페이지에서는 2021년 3월 Microsoft 파트너 센터에 대한 공지를 제공합니다.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>준비: CSP(클라우드 솔루션 공급자) 고객 주소 유효성 검사 API에 대한 변경 사항이 6월부터 적용. 현재 테스트 기능 사용 가능
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>준비: CSP(클라우드 솔루션 공급자) 고객 주소 유효성 검사 API에 대한 변경 사항이 6월부터 적용. 현재 테스트 기능 사용 가능
 
 ### <a name="categories"></a>범주
 
@@ -43,7 +43,7 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 
 응답에서 다음 상태 메시지 중 하나를 반환합니다.
 
-| 상태     | Description |    반환되는 추천 주소 수 |
+| 상태     | 설명 |    반환되는 추천 주소 수 |
 |-------|---------------|-------------------|
 |배송 가능 확인됨 | 주소가 확인되어 제품을 배송할 수 있습니다. | Single |
 |확인됨 | 주소가 확인되었습니다. | 한 개 |
@@ -139,7 +139,7 @@ Microsoft 제품을 사용한 작업에 대해 지원이 필요한 경우 파트
 - 2021년 4월 30일: 샘플 응답 및 우편 번호 정보 업데이트
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>새 EAC(Exchange 관리 센터) 환경
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>새 EAC(Exchange 관리 센터) 환경
 
 ### <a name="categories"></a>범주
 
@@ -182,7 +182,7 @@ ________________
 이 변경 내용에 대해 궁금한 점이 있는 경우 관련 Yammer 커뮤니티를 확인하세요.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Operations: 제품 출시 일정 소개
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Operations: 제품 출시 일정 소개
 
 ### <a name="categories"></a>범주
 
@@ -230,7 +230,7 @@ Operations Readiness 정보가 필요한 제품 출시에 대한 공지를 계�
 이러한 제품에 대한 추가 질문은 관련 Yammer 커뮤니티를 확인하세요.
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>CSP 고객 등록 요구 사항에 대한 변경 내용
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>CSP 고객 등록 요구 사항에 대한 변경 내용
 
 ### <a name="categories"></a>범주
 
@@ -304,7 +304,7 @@ Microsoft는 신뢰할 수 있는 방식으로 운영되며, 규정을 준수하
 Microsoft와의 작업에 대한 지원이 필요한 경우 [서비스 요청을 여세요](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>2021년 3월 1일 영구 소프트웨어 가격표 수정
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>2021년 3월 1일 영구 소프트웨어 가격표 수정
 
 ### <a name="categories"></a>범주
 
@@ -328,9 +328,9 @@ ________________
 ### <a name="next-steps-and-resources"></a>다음 단계 및 리소스
 
 - 영구 소프트웨어를 거래하는 파트너는 최신 소프트웨어 가격표를 다운로드해야 합니다.
-- 두 글자로 된 약어와 해당 국가의 간편한 대응표는 [지역 국가 번호](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries)를 참조하세요.
+- 두 글자로 된 약어와 해당 국가의 간편한 대응표는 [지역 국가 번호](/azure/marketplace/commercial-marketplace-co-sell-countries)를 참조하세요.
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a>.NET Standard(v1.17.0)의 SDK 릴리스
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a>.NET Standard(v1.17.0)의 SDK 릴리스
 
 ### <a name="categories"></a>범주
 
@@ -348,7 +348,7 @@ ________________
 
 #### <a name="audit-updated-new-operation-types"></a>감사 업데이트: 새 작업 유형
 
-고객이 DAP를 승인하고 종료한 시점을 파악하기 위한 새 [작업 유형](https://docs.microsoft.com/partner-center/develop/auditing-resources)이 추가되었습니다.
+고객이 DAP를 승인하고 종료한 시점을 파악하기 위한 새 [작업 유형](/partner-center/develop/auditing-resources)이 추가되었습니다.
 
 - DapAdminRelationshipApproved
 
@@ -356,7 +356,7 @@ ________________
 
 #### <a name="audit-updated-new-resource-and-operation-types"></a>감사 업데이트: 새 리소스 및 작업 유형
 
-고객 디렉터리 역할 시나리오를 지원하기 위한 새 [리소스 및 작업 유형](https://docs.microsoft.com/partner-center/develop/auditing-resources)이 추가되었습니다.
+고객 디렉터리 역할 시나리오를 지원하기 위한 새 [리소스 및 작업 유형](/partner-center/develop/auditing-resources)이 추가되었습니다.
 
 - 새 리소스 유형 "CustomerDirectoryRole"
 
@@ -392,7 +392,7 @@ ________________
 - [GitHub 샘플](https://github.com/Microsoft/Partner-Center-DotNet-Samples) 다운로드 및 검토
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>CSP 상업용 Marketplace 제품 및 적격 제품에 대한 FY21 CSP 인센티브
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>CSP 상업용 Marketplace 제품 및 적격 제품에 대한 FY21 CSP 인센티브
 
 ### <a name="categories"></a>범주
 
@@ -421,19 +421,19 @@ Microsoft는 ISV(독립 소프트웨어 공급업체)와 협력하여 Microsoft 
 - [클라우드 솔루션 공급자 직접 청구 파트너 인센티브 리소스](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [클라우드 솔루션 공급자 간접 공급자 인센티브 리소스](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - 이 [프레젠테이션](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf)을 검토하여 상업용 Marketplace 앱을 판매하는 방법에 대해 자세히 알아보세요. [여기](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/)에서 추가 리소스를 확인하세요. 
-- [파트너 센터](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) 또는 [Azure Portal](https://ms.portal.azure.com/#home)에서 상업용 Marketplace 카탈로그 살펴보기
-- [API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)를 사용하여 회사의 Marketplace에 앱 통합
+- [파트너 센터](../csp-commercial-marketplace-discover.md) 또는 [Azure Portal](https://ms.portal.azure.com/#home)에서 상업용 Marketplace 카탈로그 살펴보기
+- [API](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market)를 사용하여 회사의 Marketplace에 앱 통합
 - 함께 비즈니스를 수행하고 싶은 ISV에게 연락하세요.
 - 간접 공급자는 API 사용을 통합하고 판매할 앱을 재판매인에게 안내해야 합니다.
 
 ### <a name="questions"></a>질문이 있으세요?  
 
-파트너 센터의 상업용 Marketplace에 대한 개요는 [이 문서](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview)를 참조하세요.
+파트너 센터의 상업용 Marketplace에 대한 개요는 [이 문서](../csp-commercial-marketplace-overview.md)를 참조하세요.
 
 추가 지원이 필요한 경우 파트너 센터에서 지원 요청을 만들 수 있습니다. [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1)에서 자세히 알아보세요.
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium 제품 이름 지정 및 필수 구성 요소 업데이트
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Power BI Premium 제품 이름 지정 및 필수 구성 요소 업데이트
 
 ### <a name="categories"></a>범주
 
@@ -490,7 +490,7 @@ Power BI Premium Per User 제품의 명명 및/또는 필수 구성 요소 정�
 
 이 제품에 대한 질문이 있는 경우 관련 Yammer 커뮤니티를 확인하세요. 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Microsoft 365 F3의 3월 가격 업데이트
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a> Microsoft 365 F3의 3월 가격 업데이트
 
 ### <a name="categories"></a>범주
 
@@ -527,7 +527,7 @@ Microsoft에서 Microsoft 365 F3의 잘못된 가격을 수정했습니다. 잘�
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a>파트너 센터를 통해 법적 회사 이름 업데이트
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a>파트너 센터를 통해 법적 회사 이름 업데이트
 
 ### <a name="categories"></a>범주
 
@@ -560,7 +560,7 @@ MPN 파트너 및 CSP 간접 재판매인(CSP 다이렉트 청구 파트너에�
 추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a>CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 사항에 대한 업데이트
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>CSP(클라우드 솔루션 공급자) 프로그램 진화 및 오픈 라이선스 프로그램 변경 사항에 대한 업데이트
 
 ### <a name="categories"></a>범주
 
@@ -598,7 +598,7 @@ CSP 프로그램 발전 및 Open License 프로그램 변경에 대한 자세한
 추가 질문은 관련 CSP Yammer 커뮤니티를 확인하세요.
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>이전 공지에 대한 업데이트: Compliance Manager의 추가 기능인 프리미엄 평가
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>이전 공지에 대한 업데이트: Compliance Manager의 추가 기능인 프리미엄 평가
 
 ### <a name="categories"></a>범주
 
@@ -634,7 +634,7 @@ _______________
 이 제품에 대한 질문이 있는 경우 관련 Yammer 커뮤니티를 확인하세요.
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a>OCP(One Commercial Partner) GTM(Go-to Market)에서 Microsoft 상업용 Marketplace로 솔루션 마이그레이션
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a>OCP(One Commercial Partner) GTM(Go-to Market)에서 Microsoft 상업용 Marketplace로 솔루션 마이그레이션
 
 ### <a name="categories"></a>범주
 
@@ -653,7 +653,7 @@ OCP GTM에서 솔루션과 공동 판매하는 조직
 
 2020년 12월에 Microsoft OCP GTM 도구에서 파트너 센터의 Microsoft 상업 시장으로 이동하기 시작했습니다. 이러한 전환은 수백만 고객에게 솔루션을 선보이고 다른 Microsoft 및 파트너 판매자와 양방향으로 기회를 공유하며 혁신적인 솔루션을 공동 판매할 수 있는 상용 시장의 기능을 확장합니다.
 
-전환의 다음 마일스톤은 2021년 3월 29일에 진행됩니다. 이때 일부 필드가 읽기 전용으로 되는 제한된 OCP GTM 기능을 경험하게 됩니다. 현재 OCP GTM의 솔루션과 공동 판매 중인 경우 솔루션을 상용 시장으로 마이그레이션하여 기능을 활용하고 게시 환경을 단순화하는 것이 좋습니다. 
+전환의 다음 마일스톤은 2021년 3월 29일에 진행됩니다. 이때 일부 필드가 읽기 전용으로 되는 제한된 OCP GTM 기능을 경험하게 됩니다. 현재 OCP GTM의 솔루션과 공동 판매 중인 경우 솔루션을 상용 시장으로 마이그레이션하여 기능을 활용하고 게시 환경을 단순화하는 것이 좋습니다.
 
 상업용 Marketplace로 전환하면 파트너 센터가 공동 판매 게시 환경의 주 대상이 됩니다. Microsoft 제품에 사용되는 것과 동일한 채널 및 제품 내 환경을 통해 솔루션을 공유 고객과 연결하여 비즈니스를 계속 성장시킬 수 있습니다. [상업용 Marketplace에 대해 자세히 알아보세요](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
 
@@ -666,6 +666,36 @@ OCP GTM에서 솔루션과 공동 판매하는 조직
 ### <a name="questions"></a>궁금한 점이 더 있나요?
 
 궁금한 사항이 있거나 추가 정보가 필요한 경우 [지원 팀](https://partner.microsoft.com/support/?stage=1)에게 문의하세요.
+
+________________
+## <a name="programmatic-access-to-commercial-marketplace-analytics"></a><a name="6"></a>상업용 Marketplace 분석에 대한 프로그래매틱 액세스
+
+### <a name="categories"></a>범주
+
+- 날짜: 2021-03-10
+- 기능
+
+### <a name="summary"></a>요약
+
+파트너는 이제 분석 보고서에 프로그래밍 방식으로 액세스하여 상업용 Marketplace에서 판매를 모니터링하고, 성능을 평가하고, 제품을 최적화할 수 있습니다.
+
+### <a name="impacted-audience"></a>영향을 받는 대상
+
+상업용 Marketplace의 제품을 사용하는 파트너
+
+### <a name="details"></a>세부 정보
+
+상업적 마켓플레이스 보고서에 액세스하기 위한 API를 사용하면 분석 데이터의 사용자 지정 보고서를 비동기적으로 예약할 수 있습니다.
+
+이 기능을 사용하면 사용자의 요구에 따라 보고 쿼리 및 템플릿을 정의하고, 일정을 설정하고, 예약된 주기로 적시에 신뢰할 수 있는 보고서를 가져올 수 있습니다.
+
+### <a name="next-steps"></a>다음 단계
+
+자세한 내용은 [분석에 대한 프로그래매틱 액세스 시작](/azure/marketplace/analytics-get-started)을 참조하세요.
+
+### <a name="questions"></a>궁금한 점이 더 있나요?
+
+추가 질문이 있는 경우 [고객 지원](https://go.microsoft.com/fwlink/?linkid=2165533)으로 문의하세요.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Azure용 CSP(클라우드 솔루션 공급자) 프로그램의 새로운 상거래 경험을 러시아로 확장

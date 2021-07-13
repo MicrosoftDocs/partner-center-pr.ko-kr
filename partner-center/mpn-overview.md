@@ -9,21 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132947"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152225"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft와 파트너 관계를 맺고 멤버십 혜택 알아보기
 
-**적절한 역할**
-
-- 글로벌 관리자
-- MPN 파트너 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
+**적절한 역할**: 전역 관리자 | MPN 파트너 관리자 | 사용자 관리 관리자 | 관리자 에이전트
 
 MPN(Microsoft 파트너 네트워크)은 업계에서 가장 광범위한 제품과 프로그램 옵션을 제공하여 회사의 비즈니스를 차별화하고, 시장에 진출하여 솔루션을 판매할 수 있습니다. 무료로 가입하고 Microsoft 작업 팩, 시작 키트 또는 역량을 사용하여 파트너 관계에 투자하는 방법을 선택하세요.
 

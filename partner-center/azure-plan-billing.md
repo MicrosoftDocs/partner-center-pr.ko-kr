@@ -1,7 +1,7 @@
 ---
 title: Azure 플랜 청구 - 청구서 및 조정 파일
 ms.topic: article
-ms.date: 01/20/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure 요금제에 대한 청구와 관련된 청구서 및 조정 파일 구조에 액세스하고 이해하는 방법을 알아봅니다.
@@ -9,20 +9,16 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: c7c06f5ed7b147625afb5020f63ead411ef58fa8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924995"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551523"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP의 새로운 상거래 환경 - Azure 청구 
 
-**적절한 역할**
-
-- 관리 에이전트
-- 청구 관리자
-- 글로벌 관리자
+**적절한 역할**: 관리 에이전트 | 청구 관리자 | 전역 관리자
 
 이 문서에서는 Azure 플랜의 대금 청구와 관련된 청구서 및 조정 파일 구조에 액세스하고 이해하는 방법을 설명합니다. Azure 플랜에 따른 청구는 잘 조정된 단일 청구 날짜와 월별 청구 기간을 사용하는 간소화된 청구 환경입니다.
 
@@ -118,6 +114,9 @@ ms.locfileid: "98924995"
 
 4. 측정기 또는 해당 측정기를 내보내는 리소스가 월의 일부 동안 **관리형 서비스에 대한 파트너 획득 크레딧** 에 적합한 경우 조정 파일에는 두 줄의 청구가 포함됩니다. 하나는 미터가 자격을 획득한 날을 표시하고 다른 하나는 미터가 자격을 획득하지 못한 날을 나타냅니다.
 
+>[!NOTE]
+>일회성 구매 조정 파일에서 Azure 사용량을 조정할 수 있습니다. 이렇게 하려면 일별 사용량 조정 파일로 이동하여 SubscriptionID를 검색합니다. 그러면 Azure 플랜 ID와 관련된 모든 비용이 표시됩니다. Azure SubscriptionID가 EntitlementID로 표시됩니다.
+
 ## <a name="read-the-daily-usage-file"></a>일일 사용량 파일 읽기
 
 - Azure 플랜 하의 구독 미터는 날마다 평가하여 누적됩니다.
@@ -140,7 +139,9 @@ ms.locfileid: "98924995"
 
 Azure 플랜을 통한 Azure 서비스는 USD로 가격이 책정되며 고객의 국가에 할당된 통화 요금이 청구됩니다. 청구 통화가 USD가 아닌 경우 사용되는 환율은 청구서의 마지막 페이지에 표시됩니다. 환율은 매월 결정되며 다음 청구서부터 적용됩니다. 국가 통화의 전체 목록은 [최신 상거래 제품 사용 가능 국가 및 고객 통화표](https://go.microsoft.com/fwlink/?linkid=2112354)를 참조하세요.
 
-Microsoft는 변환을 위해 런던 증권 거래소를 따릅니다. 런던 증권 거래소에서 매월 마지막 영업일의 마지막 초의 환율과 동일한 환율을 사용합니다. 환율은 적용되는 월의 첫 번째 날짜 이전에 새로 고쳐지고 사용할 수 있습니다.
+Microsoft는 매월 구매 또는 소비되는 Azure 서비스에 대해 발생한 총 비용에 도달하기 위해 기준 USD 가격에 미리 결정된 환율을 적용합니다. 월별 환율은 Thomson Reuters(일반적으로)에서 지난달 말 오후 4시(GMT)의 영업일 2일 전에 발행한 중간 비율입니다. 
+
+**예를 들어** Microsoft의 12월 환율은 특정 통화의 경우 11월 29일 경에 Thomson Reuters 중간 비율이 됩니다. 이 비율은 12월 1일부터 12월 31일까지 해당 통화의 모든 구매에 적용됩니다. 
 
 ## <a name="azure-reservations"></a>Azure Reservations
 
