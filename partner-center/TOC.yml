@@ -273,7 +273,7 @@
     - name: 인센티브 시작
       items:
         - name: 인센티브에 대한 FAQ
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: 인센티브 시작
           href: incentives-get-started-intro.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: 지급액 및 세금 프로필 FAQ
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: 고객과의 관계 구축
   items:
     - name: 고객과의 관계 구축
