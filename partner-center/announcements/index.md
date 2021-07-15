@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/30/2021
-ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.date: 07/09/2021
+ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221460"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599774"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,10 @@ ms.locfileid: "113221460"
 
 |**범주**|**2021년 7월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[파트너 센터의 도움을 받아 Microsoft 인증을 활성 상태로 유지](2021-july.md#6)| 7월 9일 |
+|기능|[.NET Standard(v2.0.1)의 SDK 릴리스](2021-july.md#5)| 7월 7일 |
+|기능|[고객 할인 투명성 공지](2021-july.md#4)| 7월 7일 |
+|기능|[Windows 7 ESU(확장 보안 업데이트) 2년 차(2021년) 제품 키 문제가 해결됨](2021-july.md#3)|7월 2일 |
 |기능|[이번 달 제품 출시 및 제품 보기](2021-july.md#2)|7월 1일|
 |기능|[Dynamics 365 클라우드 마이그레이션 프로모션 및 할인된 제품 폐기](2021-july.md#1)|7월 1일|
 |**범주**|**2021년 6월 공지**|**발표**|

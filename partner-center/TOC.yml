@@ -14,22 +14,8 @@
       displayName: mpn
     - name: 계정 설정 문제 해결
       href: troubleshoot-account-sign-n.md
-    - name: PMC에서 이동
-      items:
-        - name: PMC에서 마이그레이션 준비
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: PMC에서 이동 가이드
-          href: guide-to-migration.md
-        - name: PMC 및 PC 비교
-          href: move-pmc-pc-map.md
-        - name: 여러 회사 이동
-          href: move-multiple-companies.md
-        - name: 회사 통합
-          href: consolidate-accounts.md
-        - name: PMC용 혜택 활성화
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Partner Membership Center 사용 중지
+      href: partner-membership-center-retirement-faq.md
     - name: 멤버십 혜택
       items:
         - name: 혜택 개요
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: 혜택 정책 및 사용량 - FAQ
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: 혜택 FAQ
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: MPN 청구서 보기 또는 다운로드
           href: mpn-view-print-maps-invoice.md
@@ -101,7 +87,7 @@
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: 역량 FAQ
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: 역량 수수료 지불
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,9 +100,10 @@
       items:
         - name: 전문성 소개
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: 상태 적용 또는 확인
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Azure Expert MSP 되기
       href: azure-expert-msp.md
 - name: CSP(클라우드 솔루션 공급자 프로그램)
@@ -161,7 +148,7 @@
         - name: Microsoft Cloud for US Government 파트너 센터
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: FAQ - Microsoft Cloud for US Government
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Microsoft 클라우드 독일 파트너 센터
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: 파트너 프로필 업데이트
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: 파트너 찾기 목록 인증
+          href: partner-finder-certification.md
         - name: 등록 ID 번호 정보
           href: reg-number-id.md
         - name: 제어판 공급업체 되기
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: 공동 판매 CRM 커넥터 사용
           items:
-            - name: Dynamics 365용
+            - name: Dynamics 365용 커넥터
               href: connector-dynamics.md
-            - name: Salesforce용
+            - name: Salesforce용 커넥터
               href: connector-salesforce.md
-        - name: 커넥터 문제 해결
-          href: connectors-troubleshoot.md
+            - name: 커넥터 문제 해결
+              href: connectors-troubleshoot.md
         - name: 공동 판매 - PSC에서 PC로 마이그레이션
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: 솔루션 평가 결제 상태
           href: chip-solution-assessment-payment.md
         - name: 솔루션 평가 FAQ
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: CHIP 액세스 문제
           href: chip-access-trouble.md
 - name: 청구 및 세금
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: 질문과 대답
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
