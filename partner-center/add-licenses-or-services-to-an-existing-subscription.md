@@ -9,69 +9,63 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474226"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150525"
 ---
-# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a><span data-ttu-id="8ff7e-104">고객의 구독에 라이선스 또는 서비스 추가</span><span class="sxs-lookup"><span data-stu-id="8ff7e-104">Add licenses or more services to a customer's subscription</span></span>
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a><span data-ttu-id="7b960-104">고객의 구독에 라이선스 또는 서비스 추가</span><span class="sxs-lookup"><span data-stu-id="7b960-104">Add licenses or more services to a customer's subscription</span></span>
 
-<span data-ttu-id="8ff7e-105">**적절한 역할**</span><span class="sxs-lookup"><span data-stu-id="8ff7e-105">**Appropriate roles**</span></span>
+<span data-ttu-id="7b960-105">**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 관리자 에이전트 | 영업 에이전트 | 기술 지원팀 에이전트</span><span class="sxs-lookup"><span data-stu-id="7b960-105">**Appropriate roles**: Global admin | User management admin | Admin agent | Sales agent | Helpdesk agent</span></span>
 
-- <span data-ttu-id="8ff7e-106">글로벌 관리자</span><span class="sxs-lookup"><span data-stu-id="8ff7e-106">Global admin</span></span>
-- <span data-ttu-id="8ff7e-107">사용자 관리 담당자</span><span class="sxs-lookup"><span data-stu-id="8ff7e-107">User management admin</span></span>
-- <span data-ttu-id="8ff7e-108">관리 에이전트</span><span class="sxs-lookup"><span data-stu-id="8ff7e-108">Admin agent</span></span>
-- <span data-ttu-id="8ff7e-109">영업 상담원</span><span class="sxs-lookup"><span data-stu-id="8ff7e-109">Sales agent</span></span>
-- <span data-ttu-id="8ff7e-110">기술 지원팀 상담원</span><span class="sxs-lookup"><span data-stu-id="8ff7e-110">Helpdesk agent</span></span>
+<span data-ttu-id="7b960-106">고객이 현재 구독에서 제공하는 것보다 많은 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-106">If your customer needs more licenses than their current subscription provides, or a different version with additional services, you may be able to upgrade the subscription.</span></span> <span data-ttu-id="7b960-107">자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="7b960-107">For more information, see [Switch to a different Microsoft 365 Apps for business plan](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).</span></span>
 
-<span data-ttu-id="8ff7e-111">고객이 현재 구독에서 제공하는 것보다 많은 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-111">If your customer needs more licenses than their current subscription provides, or a different version with additional services, you may be able to upgrade the subscription.</span></span> <span data-ttu-id="8ff7e-112">자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-112">For more information, see [Switch to a different Microsoft 365 Apps for business plan](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).</span></span>
+## <a name="upgrades-supported-in-the-csp-program"></a><span data-ttu-id="7b960-108">CSP 프로그램에서 지원되는 업그레이드 <a id="upgradesubscription"></a></span><span class="sxs-lookup"><span data-stu-id="7b960-108">Upgrades supported in the CSP program <a id="upgradesubscription"></a></span></span>
 
-## <a name="upgrades-supported-in-the-csp-program"></a><span data-ttu-id="8ff7e-113">CSP 프로그램에서 지원되는 업그레이드 <a id="upgradesubscription"></a></span><span class="sxs-lookup"><span data-stu-id="8ff7e-113">Upgrades supported in the CSP program <a id="upgradesubscription"></a></span></span>
+<span data-ttu-id="7b960-109">클라우드 솔루션 공급자 프로그램에서 지원하는 업그레이드는 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-109">The following upgrades are supported in the Cloud Solution Provider program:</span></span>
 
-<span data-ttu-id="8ff7e-114">클라우드 솔루션 공급자 프로그램에서 지원하는 업그레이드는 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-114">The following upgrades are supported in the Cloud Solution Provider program:</span></span>
-
-| <span data-ttu-id="8ff7e-115">제품</span><span class="sxs-lookup"><span data-stu-id="8ff7e-115">Offer</span></span> | <span data-ttu-id="8ff7e-116">가능한 업그레이드</span><span class="sxs-lookup"><span data-stu-id="8ff7e-116">Possible upgrades</span></span>|
+| <span data-ttu-id="7b960-110">제품</span><span class="sxs-lookup"><span data-stu-id="7b960-110">Offer</span></span> | <span data-ttu-id="7b960-111">가능한 업그레이드</span><span class="sxs-lookup"><span data-stu-id="7b960-111">Possible upgrades</span></span>|
 |---:|:---|
-| <span data-ttu-id="8ff7e-117">비즈니스용 Microsoft 365 앱</span><span class="sxs-lookup"><span data-stu-id="8ff7e-117">Microsoft 365 Apps for business</span></span>   | <span data-ttu-id="8ff7e-118">- Microsoft 365 Business Premium¹</span><span class="sxs-lookup"><span data-stu-id="8ff7e-118">- Microsoft 365 Business Premium¹</span></span> <br/>  <span data-ttu-id="8ff7e-119">- 엔터프라이즈용 Microsoft 365 앱</span><span class="sxs-lookup"><span data-stu-id="8ff7e-119">- Microsoft 365 Apps for enterprise</span></span> <br/> <span data-ttu-id="8ff7e-120">- Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="8ff7e-120">- Office 365 Enterprise E3</span></span> <br/> <span data-ttu-id="8ff7e-121">- Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="8ff7e-121">- Office 365 Enterprise E5</span></span> <br/> |
-| <span data-ttu-id="8ff7e-122">Microsoft 365 Business Standard</span><span class="sxs-lookup"><span data-stu-id="8ff7e-122">Microsoft 365 Business Standard</span></span>    | <span data-ttu-id="8ff7e-123">- Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="8ff7e-123">- Office 365 Enterprise E3</span></span> <br/> <span data-ttu-id="8ff7e-124">- Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="8ff7e-124">- Office 365 Enterprise E5</span></span> <br/> |
-| <span data-ttu-id="8ff7e-125">Microsoft 365 Business Basic</span><span class="sxs-lookup"><span data-stu-id="8ff7e-125">Microsoft 365 Business Basic</span></span> | <span data-ttu-id="8ff7e-126">- Microsoft 365 Business Standard¹</span><span class="sxs-lookup"><span data-stu-id="8ff7e-126">- Microsoft 365 Business Standard¹</span></span> <br/> <span data-ttu-id="8ff7e-127">- Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="8ff7e-127">- Office 365 Enterprise E1</span></span> <br/> <span data-ttu-id="8ff7e-128">- Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="8ff7e-128">- Office 365 Enterprise E3</span></span><br/> <span data-ttu-id="8ff7e-129">- Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="8ff7e-129">- Office 365 Enterprise E5</span></span> <br/> |
+| <span data-ttu-id="7b960-112">비즈니스용 Microsoft 365 앱</span><span class="sxs-lookup"><span data-stu-id="7b960-112">Microsoft 365 Apps for business</span></span>   | <span data-ttu-id="7b960-113">- Microsoft 365 Business Premium¹</span><span class="sxs-lookup"><span data-stu-id="7b960-113">- Microsoft 365 Business Premium¹</span></span> <br/>  <span data-ttu-id="7b960-114">- 엔터프라이즈용 Microsoft 365 앱</span><span class="sxs-lookup"><span data-stu-id="7b960-114">- Microsoft 365 Apps for enterprise</span></span> <br/> <span data-ttu-id="7b960-115">- Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="7b960-115">- Office 365 Enterprise E3</span></span> <br/> <span data-ttu-id="7b960-116">- Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="7b960-116">- Office 365 Enterprise E5</span></span> <br/> |
+| <span data-ttu-id="7b960-117">Microsoft 365 Business Standard</span><span class="sxs-lookup"><span data-stu-id="7b960-117">Microsoft 365 Business Standard</span></span>    | <span data-ttu-id="7b960-118">- Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="7b960-118">- Office 365 Enterprise E3</span></span> <br/> <span data-ttu-id="7b960-119">- Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="7b960-119">- Office 365 Enterprise E5</span></span> <br/> |
+| <span data-ttu-id="7b960-120">Microsoft 365 Business Basic</span><span class="sxs-lookup"><span data-stu-id="7b960-120">Microsoft 365 Business Basic</span></span> | <span data-ttu-id="7b960-121">- Microsoft 365 Business Standard¹</span><span class="sxs-lookup"><span data-stu-id="7b960-121">- Microsoft 365 Business Standard¹</span></span> <br/> <span data-ttu-id="7b960-122">- Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="7b960-122">- Office 365 Enterprise E1</span></span> <br/> <span data-ttu-id="7b960-123">- Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="7b960-123">- Office 365 Enterprise E3</span></span><br/> <span data-ttu-id="7b960-124">- Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="7b960-124">- Office 365 Enterprise E5</span></span> <br/> |
 
-<span data-ttu-id="8ff7e-130">¹ 비즈니스용 Microsoft 365 Apps India 및 Microsoft 365 Business Basic India는 Microsoft 365 Business Standard India로 업그레이드할 수 있으나 Microsoft 365 Business Standard로 업그레이드할 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-130">¹ Microsoft 365 Apps for business India and Microsoft 365 Business Basic India can be upgraded to Microsoft 365 Business Standard India, not to Microsoft 365 Business Standard.</span></span>
-
-
-## <a name="conditions"></a><span data-ttu-id="8ff7e-131">조건</span><span class="sxs-lookup"><span data-stu-id="8ff7e-131">Conditions</span></span>
-
-<span data-ttu-id="8ff7e-132">이러한 조건이 적용되는 경우 구독을 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-132">Subscriptions can be upgraded if these conditions apply:</span></span>
-
-- <span data-ttu-id="8ff7e-133">구독이 활성 상태(일시 중단되거나 취소된 상태 아님)여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-133">The subscription must be active (not suspended or canceled).</span></span>
-
-- <span data-ttu-id="8ff7e-134">이 고객과 서비스에 대해 위임된 관리자 권한이 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-134">You must have delegated admin privileges for this customer and service.</span></span> <span data-ttu-id="8ff7e-135">[위임된 관리자 권한 요청](request-a-relationship-with-a-customer.md) 방법을 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-135">Learn how to [Request delegated admin privileges](request-a-relationship-with-a-customer.md).</span></span>
-
-- <span data-ttu-id="8ff7e-136">고객이 추가 서비스가 포함된 구독을 이미 보유하고 있으면 안 됩니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-136">The customer can't already have subscriptions that include the additional services.</span></span>
-
-- <span data-ttu-id="8ff7e-137">고객이 업그레이드하려는 구독을 이미 보유하고 있으면 안 됩니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-137">The customer can't already have the subscriptions you are trying to upgrade them to.</span></span>
-
-<span data-ttu-id="8ff7e-138">후자의 두 경우에는 고객이 다른 파트너나 다른 채널에서 해당 구독 또는 서비스를 구입했을 수 있으며, 기존 구독을 먼저 취소하지 않으면 구독을 구입할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-138">It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first.</span></span> <span data-ttu-id="8ff7e-139">자세한 내용은 [다중 채널](multichannel.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-139">For more information, see [multi-channel](multichannel.md).</span></span>
-
-<span data-ttu-id="8ff7e-140">청구에 미치는 영향에 대한 자세한 내용은 [일반적인 청구 시나리오](common-billing-scenarios.md)에서 구독을 취소하는 방법 및 새 구독을 추가하는 방법을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-140">For more information about the impact on billing, see how to cancel a subscription and adding a new subscription in [Common billing scenarios](common-billing-scenarios.md).</span></span>
-
-## <a name="upgrade-a-subscription"></a><span data-ttu-id="8ff7e-141">구독 업그레이드</span><span class="sxs-lookup"><span data-stu-id="8ff7e-141">Upgrade a subscription</span></span>
-
-1. <span data-ttu-id="8ff7e-142">구독을 업그레이드할 자격이 있는지 확인하려면 고객을 선택한 다음 구독 목록을 엽니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-142">To see if a subscription is eligible for upgrading, choose your customer, then open their list of subscriptions.</span></span>
-
-2. <span data-ttu-id="8ff7e-143">구독을 업그레이드할 수 있는 경우 구독 이름 바로 뒤에 정보 아이콘이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-143">If the subscription can be upgraded, you will see an informational icon right after the subscription name.</span></span> <span data-ttu-id="8ff7e-144">이 아이콘을 마우스로 가리킨 다음 **지금 업그레이드** 를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-144">Hover over this icon, then select **Upgrade now**.</span></span>
-
-3. <span data-ttu-id="8ff7e-145">새 제품을 선택하고 **제출** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-145">Select the new offer, then choose **Submit**.</span></span>
-
-4. <span data-ttu-id="8ff7e-146">특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-146">There may be additional work to transition some user accounts for certain services.</span></span> <span data-ttu-id="8ff7e-147">이 경우 파트너 센터에서 영향을 받은 계정 및 서비스 목록을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-147">If so, the Partner Center provides a list of accounts and services that were affected.</span></span> <span data-ttu-id="8ff7e-148">도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="8ff7e-148">For help, see the knowledge base article [Problems in reassigning licenses while you switch plans in Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).</span></span>
+<span data-ttu-id="7b960-125">¹ 비즈니스용 Microsoft 365 Apps India 및 Microsoft 365 Business Basic India는 Microsoft 365 Business Standard India로 업그레이드할 수 있으나 Microsoft 365 Business Standard로 업그레이드할 수는 없습니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-125">¹ Microsoft 365 Apps for business India and Microsoft 365 Business Basic India can be upgraded to Microsoft 365 Business Standard India, not to Microsoft 365 Business Standard.</span></span>
 
 
-## <a name="next-steps"></a><span data-ttu-id="8ff7e-149">다음 단계</span><span class="sxs-lookup"><span data-stu-id="8ff7e-149">Next steps</span></span>
+## <a name="conditions"></a><span data-ttu-id="7b960-126">조건</span><span class="sxs-lookup"><span data-stu-id="7b960-126">Conditions</span></span>
 
-- [<span data-ttu-id="8ff7e-150">다른 비즈니스용 Microsoft 365 계획으로 전환</span><span class="sxs-lookup"><span data-stu-id="8ff7e-150">Switch to a different Microsoft 365 for business plan</span></span>](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+<span data-ttu-id="7b960-127">이러한 조건이 적용되는 경우 구독을 업그레이드할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-127">Subscriptions can be upgraded if these conditions apply:</span></span>
 
-- [<span data-ttu-id="8ff7e-151">위임된 관리자 권한 요청</span><span class="sxs-lookup"><span data-stu-id="8ff7e-151">Request delegated admin privileges</span></span>](request-a-relationship-with-a-customer.md)
+- <span data-ttu-id="7b960-128">구독이 활성 상태(일시 중단되거나 취소된 상태 아님)여야 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-128">The subscription must be active (not suspended or canceled).</span></span>
 
-- [<span data-ttu-id="8ff7e-152">일반적인 청구 시나리오에 대해 자세히 알아보기</span><span class="sxs-lookup"><span data-stu-id="8ff7e-152">Learn about common billing scenarios</span></span>](common-billing-scenarios.md)
+- <span data-ttu-id="7b960-129">이 고객과 서비스에 대해 위임된 관리자 권한이 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-129">You must have delegated admin privileges for this customer and service.</span></span> <span data-ttu-id="7b960-130">[위임된 관리자 권한 요청](request-a-relationship-with-a-customer.md) 방법을 알아보세요.</span><span class="sxs-lookup"><span data-stu-id="7b960-130">Learn how to [Request delegated admin privileges](request-a-relationship-with-a-customer.md).</span></span>
+
+- <span data-ttu-id="7b960-131">고객이 추가 서비스가 포함된 구독을 이미 보유하고 있으면 안 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-131">The customer can't already have subscriptions that include the additional services.</span></span>
+
+- <span data-ttu-id="7b960-132">고객이 업그레이드하려는 구독을 이미 보유하고 있으면 안 됩니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-132">The customer can't already have the subscriptions you are trying to upgrade them to.</span></span>
+
+<span data-ttu-id="7b960-133">후자의 두 경우에는 고객이 다른 파트너나 다른 채널에서 해당 구독 또는 서비스를 구입했을 수 있으며, 기존 구독을 먼저 취소하지 않으면 구독을 구입할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-133">It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first.</span></span> <span data-ttu-id="7b960-134">자세한 내용은 [다중 채널](multichannel.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="7b960-134">For more information, see [multi-channel](multichannel.md).</span></span>
+
+<span data-ttu-id="7b960-135">청구에 미치는 영향에 대한 자세한 내용은 [일반적인 청구 시나리오](common-billing-scenarios.md)에서 구독을 취소하는 방법 및 새 구독을 추가하는 방법을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="7b960-135">For more information about the impact on billing, see how to cancel a subscription and adding a new subscription in [Common billing scenarios](common-billing-scenarios.md).</span></span>
+
+## <a name="upgrade-a-subscription"></a><span data-ttu-id="7b960-136">구독 업그레이드</span><span class="sxs-lookup"><span data-stu-id="7b960-136">Upgrade a subscription</span></span>
+
+1. <span data-ttu-id="7b960-137">구독을 업그레이드할 자격이 있는지 확인하려면 고객을 선택한 다음 구독 목록을 엽니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-137">To see if a subscription is eligible for upgrading, choose your customer, then open their list of subscriptions.</span></span>
+
+2. <span data-ttu-id="7b960-138">구독을 업그레이드할 수 있는 경우 구독 이름 바로 뒤에 정보 아이콘이 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-138">If the subscription can be upgraded, you will see an informational icon right after the subscription name.</span></span> <span data-ttu-id="7b960-139">이 아이콘을 마우스로 가리킨 다음 **지금 업그레이드** 를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-139">Hover over this icon, then select **Upgrade now**.</span></span>
+
+3. <span data-ttu-id="7b960-140">새 제품을 선택하고 **제출** 을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-140">Select the new offer, then choose **Submit**.</span></span>
+
+4. <span data-ttu-id="7b960-141">특정 서비스에 대해 일부 사용자 계정을 전환하기 위해 추가 작업이 필요할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-141">There may be additional work to transition some user accounts for certain services.</span></span> <span data-ttu-id="7b960-142">이 경우 파트너 센터에서 영향을 받은 계정 및 서비스 목록을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="7b960-142">If so, the Partner Center provides a list of accounts and services that were affected.</span></span> <span data-ttu-id="7b960-143">도움말은 기술 자료 문서 [Office 365 계획을 전환하는 동안 라이선스 재할당 시 문제 발생](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="7b960-143">For help, see the knowledge base article [Problems in reassigning licenses while you switch plans in Office 365](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).</span></span>
+
+
+## <a name="next-steps"></a><span data-ttu-id="7b960-144">다음 단계</span><span class="sxs-lookup"><span data-stu-id="7b960-144">Next steps</span></span>
+
+- [<span data-ttu-id="7b960-145">다른 비즈니스용 Microsoft 365 계획으로 전환</span><span class="sxs-lookup"><span data-stu-id="7b960-145">Switch to a different Microsoft 365 for business plan</span></span>](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+
+- [<span data-ttu-id="7b960-146">위임된 관리자 권한 요청</span><span class="sxs-lookup"><span data-stu-id="7b960-146">Request delegated admin privileges</span></span>](request-a-relationship-with-a-customer.md)
+
+- [<span data-ttu-id="7b960-147">일반적인 청구 시나리오에 대해 자세히 알아보기</span><span class="sxs-lookup"><span data-stu-id="7b960-147">Learn about common billing scenarios</span></span>](common-billing-scenarios.md)
