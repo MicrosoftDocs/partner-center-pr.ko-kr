@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8177222d2c39732ac36543e523f268313fb8c4e
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 7ee6f0cb6019dc68e4303a95bfa4f89727338b64
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795060"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353740"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>파트너 센터에서 MPN 계정을 만들어 네트워크 혜택 및 역량 관리
 
-**적절한 역할**
-
-- MPN 파트너 관리자
+**적절한 역할**: MPN 파트너 관리자
 
 MPN(Microsoft 파트너 네트워크)을 처음 사용하고 MPN ID가 없는 경우 [등록 지침](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)에 따라 등록을 시작할 수 있습니다.
 
@@ -38,8 +36,8 @@ MPN(Microsoft 파트너 네트워크)을 처음 사용하고 MPN ID가 없는 �
 
 - 확인 프로세스에 대한 자세한 내용은 [계정 확인](verification-responses.md)을 참조하세요.
 
->[!NOTE]
->Microsoft 파트너 네트워크 멤버 자격이 아직 PMC(Partner Membership Center)에 있는 경우 계정을 파트너 센터로 즉시 마이그레이션해야 합니다. [마이그레이션을 위한 단계별 가이드](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)를 다운로드하세요.
+> [!NOTE]
+> PMC(Partner Membership Center)에 계정이 있는 경우 계정이 마이그레이션되었습니다. [Partner Membership Center 사용 중지](partner-membership-center-retirement-faq.md)에 대한 자세한 내용을 보려면 클릭하세요.
 
 ## <a name="get-started"></a>시작
 
@@ -112,7 +110,7 @@ MPN 자격 증명으로 파트너 센터에 로그인합니다. [**파트너 프
 
 또한 다음 스크린샷과 같이 왼쪽 메뉴 링크를 사용하여 MPN ID와 같은 다른 중요한 정보를 보고, MPN 위치를 관리하며, Microsoft 파트너 계약을 볼 수 있습니다.
 
-:::image type="content" source="images/mpn-new.png" alt-text="파트너 프로필":::
+:::image type="content" source="images/mpn-new.png" alt-text="파트너 프로필.":::
 
 
 ## <a name="next-steps"></a>다음 단계

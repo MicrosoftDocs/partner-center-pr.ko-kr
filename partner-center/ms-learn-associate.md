@@ -9,18 +9,16 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: b5487addd5bf4cd53eacaa95c4e2e602a7279bad
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067510"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151239"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>MCID(Microsoft 인증 프로필 ID)를 MPN(Microsoft 파트너 네트워크) 계정에 연결하거나 연결을 해제합니다.
 
-**적절한 역할**
-
-- 모든 파트너 센터 사용자
+**적절한 역할**: 모든 파트너 센터 사용자
 
 이 문서에서는 Microsoft 인증 프로그램에서 활성 인증을 보유한 고객이 MCID(Microsoft 인증 프로필 ID)를 MPN(Microsoft 파트너 네트워크) 조직과 연결하는 방법 또는 연결을 해제하는 방법을 설명합니다.
 

@@ -5,23 +5,21 @@ ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 파트너 센터를 사용하여 Microsoft 및 고객과 거래
-author: laurabrenner
-ms.author: labrenne
+author: jasongroce
+ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: cd9400915861667378ccf5545a6a8827a699d465
+ms.sourcegitcommit: a84c83bbd95156344b3d9b2778973f47a9f83141
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132250"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "113353723"
 ---
 # <a name="what-is-partner-center"></a>파트너 센터란?
 
-**적절한 역할**
+**적절한 역할**: 파트너 센터에 관심이 있는 모든 파트너
 
-- 파트너 센터에 관심이 있는 모든 파트너
-
-[파트너 센터](https://partner.microsoft.com/dashboard/home)는 여러 비즈니스 프로세스를 간소화하여 Microsoft 파트너가 Microsoft 및 고객과의 관계를 보다 쉽게 관리할 수 있게 해줍니다. 파트너 센터를 사용하면 작업을 수행하는 데 필요한 도구에 쉽게 액세스할 수 있습니다. 파트너 센터 활용 방안:
+[파트너 센터](https://partner.microsoft.com/dashboard/home)는 여러 비즈니스 프로세스를 간소화하여 Microsoft 파트너가 Microsoft 및 고객과의 관계를 보다 쉽게 관리할 수 있게 해줍니다. 파트너 센터를 사용하면 작업을 수행하는 데 필요한 도구에 액세스할 수 있습니다. 파트너 센터 활용 방안:
 
 - Microsoft 계정 및 사용자 관리
 - 고객과의 소통
@@ -33,7 +31,7 @@ ms.locfileid: "106132250"
 - 기술 지원 서비스에 문의하십시오.
 - ISV(Independent Software Vendor) 파트너가 빌드하여 제공하는 수천 개의 거래 가능한 고객용 서비스 및 애플리케이션으로 구성된 카탈로그인 [Microsoft 상업용 Marketplace](/azure/marketplace)에서 제품을 게시하거나 살펴봅니다.
 
-:::image type="content" source="images/home.png" alt-text="파트너 센터 개요":::
+:::image type="content" source="images/home.png" alt-text="파트너 센터 개요.":::
 
 ## <a name="manage-your-account"></a>계정 관리
 
@@ -70,7 +68,7 @@ ms.locfileid: "106132250"
 - PCI(파트너 기여 지표)는 고객 성공의 7가지 주요 측정값에 대한 파트너의 영향을 보여 줍니다.
 - 파트너 인사이트 데이터 보고서는 판매량이 많은 위치를 식별하고, 구독을 배포했거나 지원이 필요한 고객을 파악하고, 제품이 얼마나 잘 팔리는지를 보여줍니다.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="라이선스의 위치 확인":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="라이선스의 위치 확인.":::
 
 ## <a name="next-steps"></a>다음 단계
 

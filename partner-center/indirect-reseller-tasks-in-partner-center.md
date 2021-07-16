@@ -1,21 +1,20 @@
 ---
 title: CSP 프로그램에서 간접 공급자와 협력
+description: 간접 재판매인이 Microsoft 간접 공급자(또는 배포자)와 협력하여 고객 지원 및 청구에 대한 도움을 받는 방법을 알아봅니다.
 ms.topic: how-to
-ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 간접 재판매인이 Microsoft 간접 공급자(또는 배포자)와 협력하여 고객 지원 및 청구에 대한 도움을 받는 방법을 알아봅니다.
-ms.prod: ''
 ms.custom: contperf-fy21q2
+ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 01/27/2021
+ms.openlocfilehash: f460ab4a692c9e8b515e361f3a18c4c240177b62
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880789"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450844"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램에서 간접 공급자의 파트너가 되는 방법에 대해 알아보기
 
@@ -67,7 +66,6 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 2. **시작** 페이지를 검토하여 등록하는 데 필요한 정보가 모두 있는지 확인하고, **다음** 을 선택합니다.
 
 3. 회사 계정을 사용하여 로그인 - Office 365, Microsoft Azure 또는 Microsoft Dynamics CRM에 대한 전역 관리자로 로그인하는 데 사용하는 사용자 이름과 암호를 입력합니다. 회사 계정이 없는 경우 **만들기** 를 선택하여 지금 설정합니다. 회사 계정을 만든 후 새 계정의 전역 관리자 자격 증명을 사용하여 로그인합니다.
-  
 
 4. 회사의 법적 비즈니스 프로필, 기본 연락처 정보 및 고객 지원 정보를 제공하거나 업데이트합니다. 법적 비즈니스 정보를 찾으려면 **조직 프로필** 을 선택한 다음, **법적 정보** 를 선택합니다. **지금 등록** 을 선택합니다.
 
@@ -78,30 +76,26 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 
 5. MPN ID를 CSP 계정에 연결합니다. CSP 계정과 관련 MPN ID가 동일한 국가에 있어야 하고, MPN ID는 파트너 센터에 있어야 합니다.
   
+   1. "MPN" 계정 자격 증명으로 파트너 센터에 로그인합니다(MPN 자격 증명은 CSP 자격 증명과 다를 수 있음).
 
-   a. "MPN" 계정 자격 증명으로 파트너 센터에 로그인합니다(MPN 자격 증명은 CSP 자격 증명과 다를 수 있음).
-   
-   b. **설정** -> **계정 설정** -> **조직 프로필** -> **식별자** 로 이동합니다.
- 
-    다. 이 CSP 계정의 국가와 일치하는 "위치" 유형의 MPN ID를 찾습니다. 
+   2. **설정** -> **계정 설정** -> **조직 프로필** -> **식별자** 로 이동합니다.
 
-    d. 사용하려는 CSP 계정과 일치하는 위치 MPN ID를 찾을 수 없는 경우 새 위치를 추가하여 새 MPN ID를 만들 수 있습니다. [위치 관리](manage-locations.md)에 대해 자세히 알아보세요.
+   3. 이 CSP 계정의 국가와 일치하는 "위치" 유형의 MPN ID를 찾습니다.
 
-    e. 지금은 이 단계를 연기할 수 있습니다. 그러나 MPN ID를 CSP 계정과 연결하기 전에는 CSP로 MPA(Microsoft 파트너 계약)에 서명하거나 거래할 수 없습니다.
+   4. 사용하려는 CSP 계정과 일치하는 위치 MPN ID를 찾을 수 없는 경우 새 위치를 추가하여 새 MPN ID를 만들 수 있습니다. [위치 관리](manage-locations.md)에 대해 자세히 알아보세요.
 
- > [!IMPORTANT]  
- > 파트너 센터 및 CSP 계정과 동일한 국가에서 사용할 수 있는 MPN ID를 선택하고 MPN ID가 파트너 센터에 있는지 확인합니다.
+   5. 지금은 이 단계를 연기할 수 있습니다. 그러나 MPN ID를 CSP 계정과 연결하기 전에는 CSP로 MPA(Microsoft 파트너 계약)에 서명하거나 거래할 수 없습니다.
+
+   > [!IMPORTANT]
+   > 파트너 센터 및 CSP 계정과 동일한 국가에서 사용할 수 있는 MPN ID를 선택하고 MPN ID가 파트너 센터에 있는지 확인합니다.
 
 6. Microsoft에서 등록 확인을 마친 후(3-5영업일 소요) 전역 관리자 자격 증명을 사용하여 [파트너 센터 대시보드 개요](https://partner.microsoft.com/pcv/dashboard/overview)에서 Microsoft 파트너 계약에 서명합니다. 서명하기 전에 **Microsoft 파트너 계약** 을 보고 다운로드하려면 아래의 Microsoft 파트너 계약 링크를 클릭합니다.  5영업일 후에도 계정 확인이 완료되지 않으면 [계정 확인 프로세스](verification-responses.md)을 읽어 보세요.
 
+   :::image type="content" source="images/agreement-three.png" alt-text="새로운 MPA 계약 위치":::
 
-:::image type="content" source="images/agreement-three.png" alt-text="새로운 MPA 계약 위치":::
+7. 파트너 프로필의 **프로그램 정보** 섹션에서 Microsoft 파트너 계약에 서명했는지 확인합니다. 또한 CSP 개요 페이지에는 확인 배너 알림이 표시됩니다.
 
- 
-7. 파트너 프로필의 **프로그램 정보** 섹션에서 Microsoft 파트너 계약에 서명했는지 확인합니다. 또한 CSP 개요 페이지에는 확인 배너 알림이 표시됩니다. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="녹색 수락 배너":::
-
+   :::image type="content" source="images/microsoft-partner-agreement-green.png" alt-text="녹색 수락 배너":::
 
 8. 파트너 센터 계정을 사용할 준비가 완료되면 관리 담당자 그룹에 추가되었는지 확인합니다. 다른 사용자 추가를 포함하여 계정 설정을 완료하려면 관리 담당자 권한이 있어야 합니다. 다음 단계에 따라 권한을 보거나 업데이트합니다.
 
@@ -139,7 +133,6 @@ CSP의 간접 재판매인은 Microsoft과 직접 관계를 맺고 있고 고객
 
 CSP 간접 재판매인의 법적 비즈니스 위치에 따라 협업할 수 있는 간접 공급자와 CSP 비즈니스를 수행할 수 있는 지역이 결정됩니다. 자세한 내용은 [CSP 제품을 판매할 수 있는 클라우드 솔루션 공급자 프로그램 지역 시장 및 통화](regional-authorization-overview.md)를 참조하세요.
 
-
 ## <a name="next-steps"></a>다음 단계
 
 - [간접 공급자가 재판매인의 Microsoft 파트너 계약 체결에 도움을 주는 방법 - FAQ](mpa-indirect-provider-faq.md)
@@ -157,4 +150,3 @@ CSP 간접 재판매인의 법적 비즈니스 위치에 따라 협업할 수 �
 - [확인 프로세스에 대해 알아보기](verification-responses.md)
 
 - [직접 청구 파트너 요구 사항 참조](direct-partner-new-requirements.md)
-

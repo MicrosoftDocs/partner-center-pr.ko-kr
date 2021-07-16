@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2020
-ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 05/21/2021
+ms.openlocfilehash: fedc0b348d2e5e7e9e1ea90b43e8c510fb2b5376
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439130"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915612"
 ---
 # <a name="april-2020-announcements"></a>2020년 4월 공지
 
@@ -48,7 +48,7 @@ Microsoft는 2020년 5월 4일에 신규 고객에 대해 Office 365 E1 및 Micr
 
 이 프로모션은 현재 Office 365 E1 평가판 제품을 대체하며, 다음과 같은 차이가 있습니다.
 
-- 파트너는 고유한 6개월 평가판 SKU 대신 처음 6개월 동안 100% 할인을 적용하는 CSP 프로모션을 활용하여 Office 365 E1 또는 Microsoft 365 Business Basic SKU를 거래합니다. [CSP 프로모션에 대해 자세히 알아보세요](../promotions.md).
+- 파트너는 고유한 6개월 평가판 SKU 대신 처음 6개월 동안 100% 할인을 적용하는 CSP 프로모션을 사용하여 Office 365 E1 또는 Microsoft 365 Business Basic SKU를 거래합니다. [CSP 프로모션에 대해 자세히 알아보세요](../promotions.md).
 - 주문은 엄밀히 말하면 서면 정책을 통해 신규 고객으로만 제한되었던 Office 365 E1 평가판이 아닌 "신규 고객만"으로 제한됩니다. 
 - SMB 고객의 경우 이 프로모션에 Microsoft 365 Business Basic이 포함됩니다. 따라서 파트너는 비즈니스용 Microsoft 365가 포함된 올바른 제품군에서 실제 사용자 수가 300명 미만인 고객을 시작할 수 있습니다.
 현재 Office 365 E1 평가판(2020년 5월 4일까지 사용 가능)으로 라이선스가 부여된 고객은 현재 플랜을 그대로 유지합니다. 이 변경 사항은 순 신규 고객에게만 영향을 줍니다.
@@ -70,7 +70,7 @@ Microsoft는 2020년 5월 4일에 신규 고객에 대해 Office 365 E1 및 Micr
 
 위의 변경 사항과 2020년 5월 가격표를 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
 
-### <a name="questions"></a>질문이 있으세요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
 이러한 제품에 관한 추가 질문이 있으면 관련 Yammer 파트너 커뮤니티를 확인하거나 Microsoft 계정 팀의 담당자에게 문의하세요.
 
@@ -173,7 +173,7 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 
 ### <a name="next-steps"></a>다음 단계
 
-- **테넌트 및 사용자를 보호하기 위해 권장되는 보안 요구 사항을 활성화하지 않은 경우** 즉시 활성화하여 규정 준수 상태를 유지하고 CSP에서 고객을 관리하거나 거래할 때 비즈니스 중단이 발생하지 않게 하세요. 보안 요구 사항을 구현하지 않는 파트너가 CSP 프로그램에 참여하면 위험에 노출될 수 있습니다.
+- **테넌트 및 사용자를 보호하기 위해 권장되는 보안 요구 사항을 활성화하지 않은 경우** 즉시 활성화하여 규정 준수 상태를 유지하고 CSP에서 고객을 관리하거나 거래할 때 비즈니스 중단이 발생하지 않도록 해야 합니다. 보안 요구 사항을 구현하지 않는 파트너가 CSP 프로그램에 참여하면 위험에 노출될 수 있습니다.
 - 간접 공급자는 관련 이메일 템플릿을 사용하여 각자의 비즈니스에 대해 이 보안 요구 사항을 구현하고 재판매인과 협력하여 재판매인도 이 요구 사항을 구현하도록 해야 합니다. 또한 이메일 통신을 통해 재판매인에게 직접 연락합니다.
 - [파트너 센터 보안 요구 사항 상태 페이지](https://partner.microsoft.com/commerce/security/compliance)를 방문하여 진행 상황과 수행할 주요 작업을 확인하세요. 전역 관리자와 협력하여 각 테넌트의 보안 요구 사항 진행 상황을 정기적으로 확인하세요.
 - CPV(제어판 공급업체) 솔루션을 사용 중인 경우 CPV에게 문의하세요.
@@ -183,7 +183,7 @@ Microsoft는 최근 모든 파트너 테넌트에 대해 AOBO(관리자 위임) 
 보안 요구 사항을 구현하는 데 도움이 되도록 다음 리소스를 검토하세요.
 
 - 파트너 보안 요구 사항을 구현하려면 [단계별 가이드](../partner-security-requirements.md)를 확인합니다.
-- 파트너 보안 요구 사항에 관해 [자주 묻는 질문](../partner-security-requirements-faq.md)과 대답을 참조합니다.
+- 파트너 보안 요구 사항에 관해 [자주 묻는 질문](../partner-security-requirements-faq.yml)과 대답을 참조합니다.
 - [보안 요구 사항 상태 확인 가이드](../partner-security-compliance.md)를 살펴봅니다.
 - [파트너 보안 요구 사항 구현](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) 컬렉션의 추가 리소스에 액세스합니다.
 - [파트너 센터 보안 지침 커뮤니티 그룹](https://aka.ms/MPCSecurityGuidance)에 책갈피를 지정합니다.
@@ -236,7 +236,7 @@ Microsoft 고객 계약 표준 수정계약
 - 3단계: 해당 항목을 선택하고 "솔루션 검토"를 클릭합니다.
 - 4단계: 필요한 수정계약을 클릭합니다.
 
-또는 파트너 센터에 로그인하고 [이 URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb)로 이동합니다.
+또는 파트너 센터에 로그인하고 [이 URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)로 이동합니다.
 
 ### <a name="additional-resources"></a>추가 리소스
 
@@ -277,7 +277,7 @@ MDATP for Servers 350158a2-f253-4ea3-988e-eef9d1b828cf
 
 ### <a name="next-steps"></a>다음 단계
 
-이 정보를 조직 내의 해당 담당자와 공유하세요. 해당하는 경우 고객과 1:1로 공유할 수 있습니다.
+이 정보를 조직 내의 해당 담당자와 공유합니다. 해당하는 경우 고객과 1:1로 공유할 수 있습니다.
 
 고객과 공유할 추가 공개 정보가 올해 안에 제공될 예정입니다.
 
@@ -334,7 +334,7 @@ Americas Operations Center와 커뮤니케이션 및 거래하는 모든 사람
 
 ### <a name="questions"></a>질문이 있으세요?
 
-질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+질문, 쿼리 또는 자세한 내용은 [지원에 문의](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)하세요.
 
 _________________
 
@@ -377,7 +377,7 @@ Microsoft 365 E3 - 무인 라이선스를 사용하면 자동화 프로세스를
 
 이 정보를 조직의 모든 관련 담당자와 공유하시기 바랍니다. 계속해서 [partner.microsoft.com](https://partner.microsoft.com)의 공지에서 업데이트 사항을 확인하세요.
 
-### <a name="questions"></a>질문이 있으세요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
 위 제품에 대한 추가 질문은 Microsoft 계정 팀의 담당자에게 문의하거나 관련 Yammer 커뮤니티를 확인하세요.
 
@@ -455,7 +455,7 @@ Microsoft 파트너는 2020년 4월 1일부터 다음과 같은 미니 도구 �
 
 가격표를 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
 
-### <a name="questions"></a>질문이 있으세요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
 위 제품에 대한 추가 질문은 Microsoft 계정 팀의 담당에게 문의하세요. Microsoft 오퍼레이션에 문제가 있으면 [서비스 요청](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)을 제출하세요.
 
@@ -577,9 +577,9 @@ CSP의 승인된 교육 파트너 프로그램 변경 사항에 대해 자세히
 
 이 정보를 조직 내의 해당하는 연락처와 공유하세요. 라이선싱 업데이트 및 가치 제안에 대한 자세한 내용은 "추가 리소스" 섹션 및 PartnerSource의 준비 상태 콘텐츠를 참조하세요.
 
-### <a name="questions"></a>질문이 있으세요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
-Microsoft에 대한 작업과 관련하여 도움이 필요한 경우 [고객 지원에 문의하세요](https://partner.microsoft.com/pcv/servicerequests/create).
+Microsoft에 대한 작업과 관련하여 지원이 필요한 경우 [고객 지원에 문의하세요](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________
 
@@ -626,7 +626,7 @@ partner.microsoft.com의 작업 준비 리소스 사이트는 기존의 CSP 프�
 
 ### <a name="questions"></a>질문이 있으세요?
 
-질문, 쿼리 또는 자세한 내용을 보려면 [지원](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)에 문의하세요.
+질문, 쿼리 또는 자세한 내용은 [지원에 문의](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)하세요.
 
 ### <a name="change-log"></a>로그 변경
 
@@ -715,10 +715,10 @@ Microsoft 365 Business Voice는 다음 플랜에 대한 추가 기능으로 사�
 ### <a name="next-steps"></a>다음 단계
 
 - 이 제품의 가치 제안에 대해 자세히 알아보고 Microsoft Teams 실무를 설정하고 통합하려면 파트너 갤러리를 확인하세요. [CSP의 Microsoft 365 Business Voice 가용성](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
-- 미리 보기 가격표를 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
+- 미리 보기 가격 목록을 숙지하고 이 정보를 조직 내의 모든 해당 담당자와 공유하세요.
 - 이 제품과 효과적으로 시장에 진출하는 방법에 대해 자세히 알아보려면 현지 One Commercial Partner 팀과 소통하세요.
 
-### <a name="questions"></a>질문이 있으세요?
+### <a name="questions"></a>궁금한 점이 더 있나요?
 
 이 제품에 대한 추가 질문이 있는 경우 Microsoft One Commercial Partner 팀의 담당자에게 문의하세요.
 

@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb81cf9caaaf9d5c64168b39e52ad010c50630cd
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d69c72984ecf6e87c5ad119d188021c34d0fa801
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276028"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373837"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>파트너 기여 지표를 사용하여 클라우드 Business Applications 역량 확보
 
@@ -54,7 +54,7 @@ PCI는 파트너의 기술 기능, 고객의 성공을 촉진하는 능력 및 �
 
 *성능 지표:*
 
-1. **순 신규 수익:** Microsoft Dynamics 365 제품의 모든 판매 채널에서 순 신규 수익입니다. (이 메트릭에 대한 자세한 내용은 [순 신규 수익에 대한 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)
+1. **순 신규 수익:** Microsoft Dynamics 365 제품에 대한 모든 판매 채널의 순 신규 수익입니다. (이 메트릭에 대한 자세한 내용은 [순 신규 수익에 대한 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)
 
 2. **순 고객 추가:** 모든 판매 채널에서 Dynamics 365에 대해 획득한 순 고객입니다. (이 메트릭에 대한 자세한 내용은 [순 고객 추가에 대한 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
 
@@ -62,9 +62,9 @@ PCI는 파트너의 기술 기능, 고객의 성공을 촉진하는 능력 및 �
 
 3. **기능 컨설턴트:** 현재 활성 기능 컨설턴트 Dynamics 365에 대한 연결 인증을 보유하는 개인 수입니다. (이 메트릭에 대한 자세한 내용은 [기능 컨설턴트에 대한 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
 
-4. **기능 컨설턴트 증가:** 기능 컨설턴트 어소시에이츠의 수가 증가합니다. 이 표시기에서 포인트를 가져오는 몇 가지 옵션이 있습니다. 한 가지 옵션을 사용하려면 2020년 10월 1일에 PCI의 기능 컨설턴트 증가 메트릭에 대한 기준 스냅샷이 필요합니다. (이 메트릭에 대한 포인트를 가져오는 모든 옵션에 대한 자세한 내용은 [기능 컨설턴트 증가에 대한 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+4. **기능 컨설턴트 증가:** 기능 컨설턴트 어소시에이츠의 수 증가입니다. 이 표시기에서 포인트를 가져오는 몇 가지 옵션이 있습니다. 한 가지 옵션을 사용하려면 2020년 10월 1일에 PCI의 기능 컨설턴트 증가 메트릭에 대한 기준 스냅샷이 필요합니다. (이 메트릭에 대한 포인트를 가져오는 모든 옵션에 대한 자세한 내용은 [기능 컨설턴트 증가에 대한 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
 
-5. **개발자: Dynamics** 365에 대한 현재 활성 Developer Associate 인증을 보유하고 있는 개인 수입니다. (이 메트릭에 대한 자세한 내용은 [개발자용 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
+5. **개발자: Dynamics** 365에 대해 현재 활성 개발자 연결 인증을 보유하고 있는 개인 수입니다. (이 메트릭에 대한 자세한 내용은 [개발자용 정의를 참조하세요.)](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
 
 *고객 성공 지표:*
 
@@ -96,22 +96,22 @@ PCI 점수는 다음과 같이 역량 자격을 결정합니다.
 |성능 - 순 고객 추가  | 10포인트  |
 |기능 - 기능 컨설턴트  | 15포인트  |
 |기능 - 기능 컨설턴트 성장  | 15포인트  |
-|기능 - 개발자  | 5포인트 |
+|기능 - 개발자  | 5점 |
 |고객 성공 - 새로운 대규모 배포  | 20포인트  |
 |고객 성공 - 월별 활성 사용자 증가  | 25포인트 |
 
 다음 이미지는 빠른 시각적 참조를 제공합니다.
-:::image type="content" source="images/pci/perfnew.png" alt-text="7개의 PCI(파트너 기여 지표)에 대해 가능한 최대 점수가 있는 차트를 표시합니다." border="false":::
+:::image type="content" source="images/insights/perfnew.png" alt-text="7개의 PCI(파트너 기여 지표)에 대해 가능한 최대 점수가 있는 차트를 표시합니다." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>이 역량에 대한 각 PCI 메트릭에 대한 임계값
 
-각 PCI 메트릭에는 회사 최대 포인트를 얻을 수 있는 Microsoft 설정 임계값이 있습니다. 이러한 임계값은 클라우드 Business Applications 역량을 획득하는 데 사용되는 고객 참여 및 재무 및 운영 경로에 따라 다릅니다. 또한 임계값은 개발 시장에서 운영하는 파트너와 개발 시장에서 단독으로 작동하는 파트너에 대해서도 다릅니다. 국가의 **개발** 또는 **개발** 시장 분류는 Microsoft 파트너 네트워크 정의를 기반으로 [합니다.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+각 PCI 메트릭에는 회사 최대 포인트를 얻을 수 있는 Microsoft 설정 임계값이 있습니다. 이러한 임계값은 클라우드 Business Applications 역량을 획득하는 데 사용되는 고객 참여 및 재무 및 운영 경로에 따라 다릅니다. 또한 임계값은 개발 시장에서 운영하는 파트너와 개발 시장에서 단독으로 운영하는 파트너에 대해서도 다릅니다. 국가의 **개발** 또는 **개발** 시장 분류는 Microsoft 파트너 네트워크 정의를 기반으로 [합니다.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 4개의 메트릭은 MPN 위치가 등록된 위치가 아니라 파트너가 비즈니스를 수행하는 위치에 따라 측정됩니다. 즉, 개발 시장에서 고객이 있는 개발 시장에 등록된 파트너는 개발 국가의 PCI 점수를 충족해야 합니다.
 
 아래 표에서는 메트릭에 의해 적용되는 위치를 보여 주며,
 
-| 메트릭 이름 | Location |
+| 메트릭 이름 | 위치 |
 |:-------|:--------|
 | 신규 순수익 | 고객 위치 |
 | 순 고객 추가 | 고객 위치 |
@@ -163,7 +163,7 @@ PCI 점수는 다음과 같이 역량 자격을 결정합니다.
 - 월별 활성 사용자 증가
 
 다음 파트너-고객 연결 중 하나가 있는 경우 지정 된 고객에 대해 이러한 PCI 메트릭에 대 한 크레딧을 받을 수 있습니다.
-- 고객의 테 넌 트에 속한 유료 구독에 대 한 CSP (클라우드 솔루션 공급자)입니다.
+- 해당 고객의 테 넌 트에 속한 유료 구독의 클라우드 솔루션 공급자 (CSP)입니다.
 - 고객의 테 넌 트에 속한 유료 구독에 대 한 레코드 (CPOR)의 클레임 파트너입니다.
 - 사용자는 해당 고객의 테 넌 트에 속한 유료 구독의 경우에는 사용자의 디지털 (DPOR) 레코드 파트너입니다.
 
@@ -196,10 +196,10 @@ Net new 수익은 [성과 지표](partner-contribution-indicators.md#pci-scoring
 - Net new 수익은 10 개 점수를 최대한 획득 하 여 연속 12 개월 동안 합산 됩니다.
 - Net new 수익에 대 한 점수는 청구액에서 크레딧을 뺀 값으로 계산 되 고 12 개월 동안 집계 됩니다.
 - Net new 수익은 다음과 같이 한정 된 제품을 기반으로 계산 됩니다.
-  - 고객 참여 제품에는 판매, 고객 서비스, 현장 서비스, Project Service Automation, 마케팅, Microsoft Relationship 판매, 요금제 1, 인재 및 Enterprise 팀 멤버가 포함 됩니다.
-  - 재무 및 운영-정식 제품은 통합 작업, 재무, 공급망 관리, 소매, 상거래, 요금제 2, Mixed Reality, 인재 및 Enterprise 팀 멤버를 포함 합니다.
+  - 고객 참여 제품에는 Sales, customer service, Field Service, Project service Automation, Marketing, Microsoft Relationship Sales, Plan 1, 인재 및 Enterprise 팀 멤버가 포함 됩니다.
+  - 재무 및 운영-정식 제품에는 통합 된 작업, 재무, 공급망 관리, 소매, 상거래, 요금제 2, Mixed Reality, 인재 및 Enterprise 팀 멤버가 포함 됩니다.
 
-- 판매 채널에는 EA (기업계약), CSP (클라우드 솔루션 공급자) 및 웹 다이렉트가 포함 됩니다.
+- 판매 채널에는 기업계약 (EA), 클라우드 솔루션 공급자 (CSP) 및 웹 다이렉트가 포함 됩니다.
 - 기업계약 수익 전용:이 수익에는 계약의 첫 번째 연도의 수익이 포함 됩니다. 두 번째 및 세 번째 해의 반복되는 수익은 포함되지 않습니다.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI 메트릭 #2에 대 한 정의-Net customer 추가
@@ -226,7 +226,7 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
   > [!NOTE]
   > 개발 된 및 개발 시장에 대 한 자세한 내용은 이러한 [Microsoft 파트너 네트워크 정의](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)를 참조 하세요.
 
-- 판매 채널에는 EA (기업계약), CSP (클라우드 솔루션 공급자) 및 웹 다이렉트가 포함 됩니다.
+- 판매 채널에는 기업계약 (EA), 클라우드 솔루션 공급자 (CSP) 및 웹 다이렉트가 포함 됩니다.
 
 - Microsoft와 직접 작업 하는 여러 파트너/동일한 고객 또는 고객의 경우: 여러 파트너를 서로 다른 구독을 통해 동일한 고객에 게 연결 하거나 고객이 이미 Microsoft와 직접 작업 하 고 있는 경우 고객 **추가** 및 **고객** 에 대 한 계산에는 여러 가지가 있습니다. 이러한 계산은 다음과 같습니다.
 
@@ -317,16 +317,16 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
 > [!NOTE]
 > 별표()로 표시된 \* 시험이 향후 몇 개월 내에 사용 중지되거나 교체될 예정입니다. 자세한 내용은 아래를 참조하세요.
 >
-> - 단일 별표()로 표시된 \* 시험이 2020년 12월 31일에 사용 중지되었습니다. 2020년 12월 31일에 사용 중지된 시험의 경우 사용 중지되기 전까지는 2021년 12월 31일까지 역량 획득 및 갱신 자격이 유지됩니다.
+> - 단일 별표()로 표시된 \* 시험이 2020년 12월 31일에 사용 중지되었습니다. 2020년 12월 31일에 사용 중지된 시험의 경우 사용 중지되기 전에 2021년 12월 31일까지 역량 획득 및 갱신에 대한 자격이 남아 있습니다.
 > - 두 개의 별표()로 표시된 \* \* 시험이 2021년 1월 31일에 사용 중지됩니다. 2021년 1월 31일에 사용 중지되는 시험의 경우 사용 중지되기 전에 2022년 1월 31일까지 역량 획득 및 갱신 자격이 유지됩니다.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI 메트릭 #6 대한 정의 - 새로운 대규모 배포
 
 새로운 대규모 배포는 [고객 성공 지표입니다.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) 이 지표의 포인트는 다음과 같이 클라우드 Business Applications 역량에 대해 계산됩니다.
 
-- 새로운 대규모 배포는 최대 20포인트를 사용할 수 있는 후행 12개월 동안 합산됩니다.
+- 새로운 대규모 배포는 후행 12개월 동안 최대 20포인트를 사용할 수 있는 합계로 합산됩니다.
 
-- 새로운 대규모 배포는 고객 참여와 재무 및 운영에 대해 다르게 *정의되며, 선진* 시장에서 운영하는 파트너 및 *개발* 시장에 대해 다르게 정의됩니다.
+- 새로운 대규모 배포는 고객 참여와 재무 및 운영, *개발* 시장 및 개발 *시장에서* 운영하는 파트너에 대해 다르게 정의됩니다.
 
   - Customer Engagement의 경우 새로운 대규모 배포는 월간 활성 사용자 250명(개발 시장 파트너용) 및 월간 활성 사용자 **150명(개발** 시장 파트너용)을 넘은 테넌트에서 프로덕션 인스턴스 수로 정의됩니다. 
 
@@ -345,7 +345,7 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
 - 월별 활성 사용자 수는 매월 말에 계산됩니다.
 
 - 파트너는 구독 수준에서 테넌트와 연결됩니다. 구독은 다음과 같은 고객 참여 제품 또는 Finance and Operations 제품에 매핑됩니다.
-  - 고객 참여 자격이 있는 제품에는 Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent 및 Enterprise Team Member가 포함됩니다.
+  - 고객 참여 자격을 갖춘 제품에는 영업, 고객 서비스, 현장 서비스, Project Service Automation, 마케팅, Microsoft 관계 영업, 플랜 1, 성, Enterprise 팀 멤버가 포함됩니다.
   - 재무 및 운영 자격을 갖춘 제품에는 Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent 및 Enterprise Team Member가 포함됩니다.
 - 테넌트 아래의 유료 구독에 연결된 모든 파트너는 해당 테넌트 아래의 모든 고객 참여 또는 재무 및 운영 프로덕션 인스턴스에 대한 크레딧을 받게 됩니다.
 
@@ -363,7 +363,7 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
 
 - 월별 활성 사용자 증가는 고객 참여와 재무 및 운영 경로 및 *선진* 시장에서 운영하는 파트너 및 *개발* 시장에 대해 다르게 정의됩니다.
 
-  - 고객 참여가 포인트를 받을 수 있도록 개발된 시장 파트너는 **250명** 이상의 월간 활성 사용자 기준이 있어야 하며, 개발 시장 파트너는 12개월 전에 전체 고객 기반에서 **150명의** 월간 활성 사용자 기준이 있어야 합니다.
+  - 고객 참여가 포인트를 받을 수 있도록 개발된 시장 파트너는 **250명** 이상의 월간 활성 사용자 기준이 있어야 하며, 개발 시장 파트너는 12개월 전 전체 고객 기반에서 월간 활성 사용자 **150명의** 기준이 있어야 합니다.
 
   - 재무 및 운영이 포인트에 적합하려면 개발된 시장 파트너의 기준이 **100명** 이상의 월간 활성 사용자여야 하며, 개발 시장 파트너는 12개월 전 전체 고객 기반에서 월간 활성 사용자 **50명의** 기준이 있어야 합니다.
   
@@ -385,10 +385,10 @@ Net customer 추가는 [성능 지표](partner-contribution-indicators.md#pci-sc
 
    연결된 차트가 있는 파트너 기여 지표 대시보드가 표시됩니다.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="차트를 읽는 방법":::
+   :::image type="content" source="images/insights/howto.png" alt-text="차트를 읽는 방법":::
 
    > [!NOTE]
-   > 이러한 옵션이 표시되지 않으면 메뉴에서 **MPN을** 선택한 다음, 파트너 **기여 표시기** 를 선택합니다. 이러한 옵션을 여전히 찾을 수 없는 경우 파트너 센터 할당된 적절한 사용자 역할이 없을 수 있습니다. 도움이 파트너 센터 전역 관리자 또는 MPN 파트너 관리자에게 문의하세요.
+   > 이러한 옵션이 표시되지 않으면 메뉴에서 **MPN을** 선택한 다음, 파트너 **기여 지표를 선택합니다.** 이러한 옵션을 여전히 찾을 수 없는 경우 파트너 센터 할당된 적절한 사용자 역할이 없을 수 있습니다. 도움이 파트너 센터 전역 관리자 또는 MPN 파트너 관리자에게 문의하세요.
 
 이 영역 사용에 대한 자세한 내용은 이 문서의 끝에 있는 리소스 및 비디오 컬렉션을 참조하세요.
 

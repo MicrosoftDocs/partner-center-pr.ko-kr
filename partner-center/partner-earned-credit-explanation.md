@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087130"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145867"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>파트너 획득 크레딧을 계산 및 지불하는 방법
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 청구 관리자
-- 영업 상담원
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 관리자 에이전트 | 청구 관리자 | 영업 에이전트
 
 관리형 서비스에 대한 PEC(파트너 획득 크레딧)는 고객의 Azure 환경 일부 또는 전체에 대한 연중무휴 IT 운영 제어 및 관리를 담당하는 파트너를 알아내서 보상하는 제도입니다. 기본적으로 CSP에서는 파트너가 연중무휴 운영을 관리하고 구독의 리소스를 제어할 수 있도록 파트너에게 고객의 구독에 대한 필수 액세스 권한을 부여합니다. 고객이 거래 파트너에 대한 액세스를 프로비저닝하는 다른 방법은 다음 섹션에 설명되어 있습니다. 월별 청구서 금액은 순 파트너 획득 크레딧입니다. 파트너는 월별 조정 파일에서 PEC 세부 정보를 볼 수 있습니다. 고객이 거래 파트너에 대한 액세스를 프로비저닝하는 추가적인 방법은 [Azure 플랜에서 구독 및 리소스 관리](azure-plan-manage.md)를 참조하세요.
 

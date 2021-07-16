@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 57cddcaf13431b0e61ef1573a4dd54b229c7e097
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964343"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147635"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램의 파트너 옵션 개요
 
-**적절한 역할**
-
-- 관리 에이전트
-- 글로벌 관리자
-- 영업 상담원
+**적절한 역할**: 관리자 에이전트 | 전역 관리자 | 영업 에이전트
 
 CSP(클라우드 솔루션 공급자) 프로그램의 Microsoft 파트너에게 제공되는 옵션의 카탈로그가 계속 확장되고 있습니다. 모든 [Microsoft 클라우드 서비스](https://partner.microsoft.com/cloud-solution-provider/products-and-services) 및 자주 변경되는 여러 기타 제품을 판매할 수 있습니다. 이번 달의 CSP 제품을 보려면 파트너 센터에 로그인한 다음, [**가격 책정 및 제품**](https://partnercenter.microsoft.com/pcv/sales) 페이지로 이동합니다.  
 

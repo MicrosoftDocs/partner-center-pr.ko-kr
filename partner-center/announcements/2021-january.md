@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 07/02/2021
+ms.openlocfilehash: d0cf7815a38f5f98349cc67aecd2567cef906d43
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740304"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297689"
 ---
 # <a name="january-2021-announcements"></a>2021년 1월 공지
 
@@ -541,9 +541,7 @@ _____________
 
 ### <a name="details"></a>세부 정보 
 
-Microsoft는 인도 및 아시아 지역 내에서 상용 소프트웨어 및 온라인 서비스의 가격을 맞추기 위해 인도 루피 가격표를 변경하고 있습니다.
-
-전체 공지는 Microsoft 파트너에게만 제공됩니다. [전체 공지에 액세스하려면 로그인하세요](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).
+Microsoft는 인도 및 아시아 지역 내에서 상용 소프트웨어 및 온라인 서비스의 가격을 맞추기 위해 인도 루피 가격표를 변경하고 있습니다. 자세한 내용은 제공되는 대로 게시하겠습니다. 그동안 도움이 필요하면 [파트너 센터 지원](https://partner.microsoft.com/support/?stage=1)에 문의하세요.
 
 ________________
 

@@ -9,18 +9,16 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087062"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145850"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>파트너 센터 또는 파트너 센터 API 사용 시 보안 요구 사항
 
-**적절한 역할**
-
-- 모든 파트너 센터 사용자
+**적절한 역할**: 모든 파트너 센터 사용자
 
 이 문서에서는 관리자, 제어판 공급업체 및 클라우드 솔루션 공급자 프로그램에 참여하는 파트너에 대한 필수 보안 요구 사항과 인증 옵션 및 기타 보안 고려 사항에 대해 설명합니다. 개인 정보 보호 및 보안은 최우선 순위입니다. 최선의 방어는 예방이며, 가장 약한 링크를 강화해야 한다는 것을 알고 있습니다. 따라서 에코시스템의 모든 사람이 조치를 취하고, 적절한 보안 보호가 마련되어야 합니다.
 

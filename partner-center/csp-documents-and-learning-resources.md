@@ -9,23 +9,18 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: d7811decea89ecee8bc1db565fb9952a8d62e572
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686231"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147788"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>클라우드 솔루션 공급자 프로그램 가이드, 계약, 가격 목록 및 제품
 
-**적용 대상**
+**적용 대상**: 파트너 센터 | Microsoft Cloud for US Government 파트너 센터
 
-- Microsoft Cloud for US Government 파트너 센터
-
-**적절한 역할**
-
-- 글로벌 관리자
-- 관리 에이전트
+**적절한 역할**: 전역 관리자 | 관리자 에이전트
 
 이 문서의 정보를 검토하여 Microsoft의 CSP(클라우드 솔루션 공급자) 프로그램에 참여하기 위한 요구 사항을 이해하세요.
 

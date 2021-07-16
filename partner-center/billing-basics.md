@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964377"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149233"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>파트너 센터에서 작업하는 CSP 프로그램 파트너용 청구 개요 
 
-**적절한 역할**
-
-- 관리 에이전트
-- 청구 관리자
-- 글로벌 관리자
-- 기술 지원팀 상담원
-- 영업 상담원
+**적절한 역할**: 관리 에이전트 | 청구 관리자 | 전역 관리자 | 기술 지원팀 에이전트 | 영업 에이전트
 
 이 문서에서는 고객에게 요금을 청구하는 방법과 청구서를 찾아서 읽는 방법을 포함하여 파트너 센터의 CSP 파트너에 대한 기본 청구 및 청구서 정보를 제공합니다.
 

@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502500"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147295"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>고객의 서비스 또는 구독을 관리하는 권한 얻기
 
-**적절한 역할**
-
-- 관리 에이전트
-- 영업 상담원
+**적절한 역할**: 관리 에이전트 | 영업 에이전트
 
 고객을 대신하여 고객 서비스 또는 구독을 관리하려면 고객이 해당 서비스에 대한 관리자 권한을 부여해야 합니다. 고객으로부터 관리자 권한을 얻으려면 고객에게 이메일로 재판매인 관계 요청을 보내야 합니다. 고객이 요청을 승인하면 해당 서비스의 관리 포털에 로그인하여 고객 대신 서비스를 관리할 수 있습니다. 
 

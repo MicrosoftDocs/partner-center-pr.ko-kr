@@ -9,18 +9,16 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 8afa7b060d2d78c7f2dfaee7007bb13756917d13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147567"
 ---
 # <a name="cloud-solution-provider-program"></a>클라우드 솔루션 공급자 프로그램 
 
-**적용 대상**
-
-- 파트너 센터
+**적절한 역할**: CSP에 대해 자세히 알아보고자 하는 모든 파트너
 
 이 문서에서는 CSP(클라우드 솔루션 공급자) 프로그램에 대한 개요를 설명하고 다양한 운영 모델과 요구 사항 그리고 이 프로그램을 통한 판매에 대한 기타 세부 사항을 설명합니다.  CSP 프로그램은 재판매 라이선스 외에 고객의 비즈니스에 더 많이 관여할 수 있도록 지원하며 다음과 같은 이점을 포함할 수 있습니다. 
 

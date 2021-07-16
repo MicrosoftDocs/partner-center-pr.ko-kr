@@ -9,22 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474226"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150525"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>고객의 구독에 라이선스 또는 서비스 추가
 
-**적절한 역할**
-
-- 글로벌 관리자
-- 사용자 관리 담당자
-- 관리 에이전트
-- 영업 상담원
-- 기술 지원팀 상담원
+**적절한 역할**: 전역 관리자 | 사용자 관리 관리자 | 관리자 에이전트 | 영업 에이전트 | 기술 지원팀 에이전트
 
 고객이 현재 구독에서 제공하는 것보다 많은 라이선스를 요구하거나 추가 서비스가 포함된 다른 버전을 요구하는 경우 구독을 업그레이드할 수 있습니다. 자세한 내용은 [다른 비즈니스용 Microsoft 365 앱 플랜으로 전환](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)을 참조하세요.
 

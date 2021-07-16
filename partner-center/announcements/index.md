@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599774"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684273"
 ---
 # <a name="partner-center-announcements"></a>파트너 센터 공지
 
@@ -22,6 +22,9 @@ ms.locfileid: "113599774"
 
 |**범주**|**2021년 7월 공지**|**발표**|
 |---------|:---------|:---------|
+|기능|[MCCL(Microsoft China Corporation Limited) CSP(클라우드 솔루션 공급자)의 소프트웨어 및 오픈 라이선스 변경](2021-july.md#9)| 7월 13일 |
+|준비|[2021년 7월 13일에 적용되는 CSP(클라우드 솔루션 공급자) 고객 주소 유효성 검사 API에 대한 변경 사항](2021-july.md#8)| 7월 12일 |
+|기능|[7월 CSP(클라우드 솔루션 공급자) 커뮤니티 업데이트 및 미리 알림](2021-july.md#7)| 7월 12일 |
 |기능|[파트너 센터의 도움을 받아 Microsoft 인증을 활성 상태로 유지](2021-july.md#6)| 7월 9일 |
 |기능|[.NET Standard(v2.0.1)의 SDK 릴리스](2021-july.md#5)| 7월 7일 |
 |기능|[고객 할인 투명성 공지](2021-july.md#4)| 7월 7일 |

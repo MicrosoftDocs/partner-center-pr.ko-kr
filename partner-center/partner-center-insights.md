@@ -1,6 +1,6 @@
 ---
 title: 파트너 센터 인사이트
-description: 이 파트너 센터 통합 보고 대시보드를 탐색합니다. 영업 및 배포, 고객 개발 등을 위해 KPI에서 수행하는 방법을 참조하세요.
+description: 이 파트너 센터 통합 보고 대시보드를 탐색합니다. 영업 및 배포, 고객 개발 등을 위해 KPI에서 수행하는 방법을 확인합니다.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: a16cca546142d3a8091643607534697e0403fff9
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277626"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373753"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>파트너 센터 Insights - Microsoft 상용 파트너가 수행하는 작업을 보여 주는 대시보드
 
@@ -22,11 +22,11 @@ ms.locfileid: "112277626"
 
 ## <a name="introduction"></a>소개
 
-Insights 대시보드는 MPN(Microsoft 파트너 네트워크) 프로그램에 등록된 Microsoft 상업용 파트너를 위한 파트너 센터 통합 보고 대시보드입니다. Insights 대시보드는 Office, Azure, Dynamics와 같은 클라우드 제품 및 CSP 및 EA와 같은 라이선스 모델에서 KPI(핵심 성과 지표)를 360도로 표시합니다. 조직에 대한 데이터 기반 결정을 내리는 데 도움이 될 수 있는 풍부한 KPI 보고서 집합을 노출합니다. 
+Insights 대시보드는 MPN(Microsoft 파트너 네트워크) 프로그램에 등록된 Microsoft 상업용 파트너를 위한 파트너 센터 통합 보고 대시보드입니다. Insights 대시보드는 Office, Azure, Dynamics 및 CSP 및 EA와 같은 라이선스 모델과 같은 클라우드 제품에서 KPI(핵심 성과 지표)를 360도로 표시합니다. 조직에 대한 데이터 기반 결정을 내리는 데 도움이 될 수 있는 풍부한 KPI 보고서 집합을 노출합니다. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Insights 대시보드에 대한 역할 기반 액세스 제어
 
-인사이트에 대한 액세스를 위해 특별히 설계된 파트너 센터 **보고서 뷰어** 및 임원 보고서 **뷰어** 의 두 가지 새로운 역할이 있습니다. 임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있지만 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요한 데이터 집합에 액세스할 수 없습니다. 
+Insights 액세스하기 위해 특별히 설계된 파트너 센터 **보고서 뷰어** 및 임원 보고서 **뷰어** 의 두 가지 새로운 역할이 있습니다. 임원 보고서 뷰어 역할의 사용자는 모든 보고 데이터 집합에 액세스할 수 있지만 보고서 뷰어 역할의 사용자는 수익 및 고객/직원 개인 데이터와 같은 중요한 데이터 집합에 액세스할 수 없습니다. 
 
 전역 관리자 또는 계정 관리자는 사용자에게 이러한 역할을 할당할 수 있으며 전체 회사 또는 특정 MPN 위치에 할당됩니다.  
 
@@ -49,13 +49,13 @@ Insights 대시보드는 MPN(Microsoft 파트너 네트워크) 프로그램에 �
 
 **역량:** 역량 보고서는 활성, 적격 및 위험 수준의 역량에 대한 메트릭을 제공합니다.
 
-**혜택: 혜택** 보고서는 획득한 파트너 혜택과 소비한 파트너 혜택에 대한 분석을 제공합니다.
+**혜택: 혜택** 보고서는 획득한 혜택과 소비한 파트너 혜택에 대한 분석을 제공합니다.
 
-## <a name="navigating-the-insights-reports"></a>인사이트 보고서 탐색
+## <a name="navigating-the-insights-reports"></a>Insights 보고서 탐색
 
 **날짜 범위 필터:** 각 페이지의 오른쪽 위 모서리에서 날짜 범위 선택을 찾을 수 있습니다. 개요 페이지 그래프의 출력은 지난 3개월, 6개월 또는 12개월을 기준으로 날짜 범위를 선택하거나 사용자 지정 날짜 범위를 선택하여 사용자 지정할 수 있습니다. 기본 날짜 범위 선택은 12개월입니다. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="소개 맵.":::
+:::image type="content" source="images/insights/introduction.png" alt-text="소개 맵.":::
 
 **피드백 단추:** 모든 Insights 보고서의 각 차트/컨트롤이 피드백 단추와 통합되어 보고서 기능에 대한 인스턴스 피드백을 제공할 수 있습니다. 
 
@@ -68,7 +68,7 @@ Insights 대시보드는 MPN(Microsoft 파트너 네트워크) 프로그램에 �
 
 - 선택한 필터가 페이지 맨 위에 표시됩니다. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="제품, 고객 시장, 파트너 특성 및 판매 채널에 대한 필터 선택 항목이 있는 적용된 필터 표시줄을 보여주는 부분 스크린샷":::
+:::image type="content" source="images/insights/filters.png" alt-text="제품, 고객 시장, 파트너 특성 및 판매 채널에 대한 필터 선택 항목이 있는 적용된 필터 표시줄을 보여주는 부분 스크린샷":::
 
 ### <a name="filters-definitions"></a>필터 정의:
 
@@ -81,16 +81,16 @@ Insights 대시보드는 MPN(Microsoft 파트너 네트워크) 프로그램에 �
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>각 대시보드 및 보고서에 대해 읽어 보세요.
 
-- [파트너 센터 Insights - 개요 대시보드](pci-overview-report.md)
+- [파트너 센터 Insights - 개요 대시보드](insights-overview-report.md)
 
-- [파트너 센터 인사이트 - 고객 대시보드](pci-customer-report.md)
+- [파트너 센터 인사이트 - 고객 대시보드](insights-customer-report.md)
 
-- [파트너 센터 Insights - 구독 보고서](pci-product-subscriptions-report.md)
+- [파트너 센터 Insights - 구독 보고서](insights-product-subscriptions-report.md)
 
-- [파트너 센터 Insights - 라이선스 보고서](pci-product-licenses-report.md)
+- [파트너 센터 Insights - 라이선스 보고서](insights-product-licenses-report.md)
 
-- [파트너 센터 Insights - Azure 사용 현황 보고서](pci-azure-usage-report.md)
+- [파트너 센터 Insights - Azure 사용량 보고서](insights-azure-usage-report.md)
 
-- [파트너 센터 인사이트 - 역량 보고서](pci-competencies-report.md)
+- [파트너 센터 인사이트 - 역량 보고서](insights-competencies-report.md)
 
-- [파트너 센터 인사이트 - 혜택 보고서](pci-benefits-report.md)
+- [파트너 센터 인사이트 - 혜택 보고서](insights-benefits-report.md)

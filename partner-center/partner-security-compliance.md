@@ -9,19 +9,16 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a429706848a469aace2704d4eaf3d57898ae578f
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686282"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915629"
 ---
 # <a name="security-requirements-status-report"></a>보안 요구 사항 상태 보고서
 
-**적절한 역할**
-
-- CPV 관리자
-- 글로벌 관리자
+**적절한 역할**: CPV 관리자 | 전역 관리자
 
 이 문서는 파트너 센터의 파트너 보안 요구 사항 상태 보고서에 대해 설명합니다. 이 보고서에서는 파트너 테넌트 사용자를 위한 MFA(다단계 인증)의 [파트너 보안 요구 사항](partner-security-requirements.md) 준수 메트릭을 제공합니다.
 
@@ -115,4 +112,4 @@ MFA 확인 없이 파트너 센터에 로그인한 사용자를 파악하여 현
 
 - [파트너 센터 보안 지침 그룹 커뮤니티](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [파트너 센터 보안 요구 사항](partner-security-requirements.md)
-- [파트너 센터 보안 요구 사항 FAQ](partner-security-requirements-faq.md)
+- [파트너 센터 보안 요구 사항 FAQ](partner-security-requirements-faq.yml)

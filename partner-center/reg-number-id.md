@@ -9,16 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551166"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712501"
 ---
 # <a name="registration-id-number-information"></a>등록 ID 번호 정보
 
-**적절한 역할**: 전역 관리자
+**적절한 역할**
+
+- 글로벌 관리자
  
 간접 공급자, 직접 청구 파트너 또는 간접 재판매인이고 다음 국가의 신규 또는 기존 고객과 사업을 수행하는 경우 비즈니스 등록 ID 번호를 제공해야 합니다. 등록 ID를 사용하여 귀하의 계정 세부 정보를 검토합니다. 비즈니스를 수행하는 국가가 아래에 나열되지 않은 경우 등록 ID는 선택 사항입니다.
 
@@ -26,10 +28,10 @@ ms.locfileid: "112551166"
 
 | **국가 또는 지역** | **세부 정보** |
 |:--|:--|
-| **아르메니아** | INN – 납세자 식별 번호<br>VAT(부가가치세) 번호 – VAT 등록 번호라고도 합니다. 이 값은 VAT에 등록된 과세 대상자(사업자) 또는 비과세 법인을 식별하는 고유 번호입니다.<br>공용 서비스 번호 |
+| **아르메니아** | INN – 납세자 식별 번호<br>VAT 번호 – VAT 등록 번호라고도 합니다. VAT에 등록된 과세 대상자(사업자) 또는 비과세 법인을 식별하는 고유 번호입니다.<br>공용 서비스 번호 |
 | **아제르바이잔**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – 납세자 식별 번호<br>INN – 납세자 식별 번호 |
-| **벨라루스**  | UNP – 이 값은 지역 식별자, 지역별 일련 번호 및 검사 숫자가 포함된 9자리 숫자(조직의 경우 숫자, 개인의 경우 영숫자)입니다. |
-|**브라질** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional Da Pessoa Jurídica 또는 법인 국가 등록 번호). 이 값은 브라질 연방 세무부가 브라질 기업에 발급한 식별 번호입니다.  |
+| **벨라루스**  | UNP – 지역 식별자, 지역별 일련 번호 및 검사 숫자가 포함된 9자리 숫자(조직의 경우 숫자, 개인의 경우 영숫자)입니다. |
+|**브라질** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional Da Pessoa Jurídica 또는 법인 국가 등록 번호). 브라질 연방 세무부가 브라질 기업에 발급한 식별 번호입니다.  |
 | **중국** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – 납세자 식별 번호 |
 | **헝가리**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – 납세자 식별 번호 |
 | **인도** | 세금 ID<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (전국에 분포) PAN India Investment는 인도의 여러 곳에서 운영되고 있는 하나의 조직을 의미합니다. |
@@ -43,11 +45,11 @@ ms.locfileid: "112551166"
 | **사우디아라비아** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – 납세자 식별 번호 |
 | **남아프리카 공화국** | TRN – 교통 등록 번호 |
 | **남수단** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – 납세자 식별 번호 |
-| **타지키스탄**  | INN – 납세자 식별 번호<br>EIN – 사업자 등록 번호<br>KPP – 이 값은 조직 등록 사유를 반영한 코드입니다. |
+| **타지키스탄**  | INN – 납세자 식별 번호<br>EIN – 사업자 등록 번호<br>KPP – 조직 등록 사유를 반영한 코드입니다. |
 | **태국** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – 납세자 식별 번호 |
 | **터키** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – 납세자 식별 번호<br>NIN |
 | **우크라이나**  | EGRPOU<br>EDRPOU – 지역 ID |
-| **아랍에미리트연합국** | 세금 ID<br>[VAT 번호](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – VAT 등록 번호라고도 합니다. 이 값은 VAT에 등록된 과세 대상자(사업자) 또는 비과세 법인을 식별하는 고유 번호입니다. |
+| **아랍에미리트연합국** | 세금 ID<br>[VAT 번호](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) – VAT 등록 번호라고도 합니다. VAT에 등록된 과세 대상자(사업자) 또는 비과세 법인을 식별하는 고유 번호입니다. |
 | **미국** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – 사업자 등록 번호 |
 | **우즈베키스탄**  | INN – 납세자 식별 번호 |
 | **베트남** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – 납세자 식별 번호 |

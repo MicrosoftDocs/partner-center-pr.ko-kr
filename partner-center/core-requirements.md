@@ -9,19 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47a670c97acce757270076cf0ae01067db544e2f
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502955"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148298"
 ---
 # <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>인센티브 프로그램의 활동에 대한 핵심 요구 사항
 
-**적절한 역할**
-
-- 인센티브 관리자
-- 인센티브 사용자
+**적절한 역할**: 인센티브 관리자 | 인센티브 사용자
 
 인센티브 클레임을 제출하는 활동 유형마다 핵심 요구 사항이 있습니다. 실행 증명서에서 이러한 요구 사항을 충족했다는 것을 보여주어야 합니다. 일부 활동은 특정 통신 유형과 메트릭을 요구합니다.
 

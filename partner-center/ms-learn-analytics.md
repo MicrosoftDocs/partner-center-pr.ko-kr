@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 개별 학습, 완료된 모듈, 완료된 학습 경로 등에 대한 데이터를 활용하여 회사의 학습자를 추적합니다.
+description: 개별 교육, 완료된 모듈, 완료된 학습 경로 등에 대한 데이터를 활용하여 회사의 학습자를 추적합니다.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989760"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373872"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Microsoft Learn 분석 보고서 사용
 
@@ -98,7 +98,7 @@ ms.locfileid: "113989760"
 
 여기에는 회사의 학습된 사용자와 완료된 모듈 및 학습 경로에 대한 세부 정보가 나열됩니다.
 
-Microsoft Learn 사용자 개체 ID를 가진 학습자를 식별합니다. **모듈 탭** 아래에서 모든 학습자는 완료된 모듈별로 정렬됩니다. Microsoft Learn 사용자 이름, 개체 ID 및 모듈 수와 함께 표시됩니다. 사용자 이름을 사용하여 검색할 수 있습니다. 
+Microsoft Learn 사용자 개체 ID를 가진 학습자를 식별합니다. **모듈 탭** 아래에서 모든 학습자는 완료된 모듈을 따라 정렬됩니다. Microsoft Learn 사용자 이름, 개체 ID 및 모듈 수와 함께 표시됩니다. 사용자 이름을 사용하여 검색할 수 있습니다. 
 
 Learning 경로 탭 아래에 학습 **경로별로** 정렬된 모든 학습자가 학습자 표시 이름, 개체 ID 및 모듈 수와 함께 표시됩니다.
 
@@ -133,11 +133,11 @@ Learning 경로 탭 아래에 학습 **경로별로** 정렬된 모든 학습자
 
    현재 이 작업을 수행하는 가장 좋은 방법은 이러한 사용자를 Azure AD 테넌트에 추가한 다음 파트너 센터 추가하여 파트너 센터 내 프로필 **통해** Microsoft Learn 계정을 연결할 수 있도록 하는 것입니다. 
 
-   학습에 MSA 계정만 사용하는 사용자의 경우 가까운 시일 안에 Microsoft Learn 팀에서 회사 메일을 Microsoft Learn 프로필에 연결할 수 있습니다. 
+   MSA 계정을 학습에만 사용하는 사용자의 경우 가까운 시일 안에 Microsoft Learn 팀에서 업무용 메일을 Microsoft Learn 프로필에 연결할 수 있습니다. 
 
 ## <a name="next-steps"></a>다음 단계
 
 자세한 보고서는 [파트너 센터 Insights](partner-center-insights.md)참조하세요.
 
 >[!NOTE] 
-> 이 보고서를 구동하는 원시 데이터는 Insights 대시보드의 보고서 다운로드 섹션에서 다운로드할 수 있습니다. [자세한 내용](pci-download-reports.md) 
+> 이 보고서를 구동하는 원시 데이터는 Insights 대시보드의 보고서 다운로드 섹션에서 다운로드할 수 있습니다. [자세한 내용](insights-download-reports.md) 

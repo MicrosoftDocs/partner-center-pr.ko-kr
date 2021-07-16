@@ -9,19 +9,16 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534916"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149658"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure 요금제로 종량제 요금 사용 시작
 
-**적절한 역할**
-
-- 관리 에이전트
-- 영업 상담원
+**적절한 역할**: 관리 에이전트 | 영업 에이전트
 
 
 Microsoft는 새로운 상거래 환경을 파트너 센터에 도입했습니다.  이 새로운 상거래 환경을 통해 파트너는 Microsoft 고객 계약을 맺은 고객의 Azure 서비스에 종량제 요금으로 액세스할 수 있습니다.

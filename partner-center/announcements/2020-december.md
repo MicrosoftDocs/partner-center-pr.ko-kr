@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: 9d34a8e7674d178dc3217e36cee25b2d9ad6c36a
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.date: 06/18/2021
+ms.openlocfilehash: 101d67e42970e0aab4b2ea8bf0bc230cf57109d1
+ms.sourcegitcommit: b7203f1393c3d8f8db4683acdebd09a89e086c3c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740355"
+ms.lasthandoff: 06/21/2021
+ms.locfileid: "112424995"
 ---
 # <a name="december-2020-announcements"></a>2020년 12월 공지
 
@@ -397,8 +397,7 @@ CSP(클라우드 솔루션 공급자) 프로그램을 통해 거래하는 모든
 
 ### <a name="next-steps"></a>다음 단계
 
-- 프로모션 제안은 2021년 1월 1일 공식 CSP 파트너 센터 라이선스 기반 가격표 및 제안 목록 행렬에서 제공됩니다. 
-- 이 프로모션에 대한 질문은 [Microsoft 커뮤니티 공지](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)에 게시할 수 있습니다.
+- 프로모션 제안은 2021년 1월 1일 공식 CSP 파트너 센터 라이선스 기반 가격표 및 제안 목록 행렬에서 제공됩니다.
 
 ______________
 
