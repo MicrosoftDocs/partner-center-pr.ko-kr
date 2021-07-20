@@ -127,7 +127,7 @@
   href: microsoft-partner-agreement.md
   items:
     - name: 간접 공급자가 재판매인이 MPA를 채택하도록 하는 방법
-      href: mpa-indirect-provider-faq.md
+      href: mpa-indirect-provider-faq.yml
       displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP 계약, 가격표, 제품'
       href: csp-documents-and-learning-resources.md
@@ -647,48 +647,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: 인사이트 역할 기반 액세스
-          href: pci-roles.md
+          href: insights-roles.md
         - name: 인사이트 보고서
           items:
             - name: 개요
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Customer
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: 재판매인 성과
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: 제품 구독
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Azure 사용량
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Teams 사용량
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: Office 365 사용량
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Dynamics 사용량
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Enterprise Mobility + Security 사용량
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: Power BI 사용량
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: 학습
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Microsoft Learn 분석
               href: ms-learn-analytics.md
             - name: 역량
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: 이점
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: CloudAscent 성향
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: 제품 라이선스
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: 인사이트-FAQ
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: 인사이트 보고서 다운로드
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: 분석에 프로그래밍 방식 액세스
+          items:
+            - name: 시작
+              href: insights-programmatic-get-started.md
+            - name: 프로그래밍 방식 액세스의 분석을 위한 필수 구성 요소
+              href: insights-programmatic-prerequisites.md
+            - name: 프로그래밍 방식 액세스 페러다임
+              href: insights-programmatic-access-paradigm.md
+            - name: 첫 번째 프로그래밍 방식 API 호출
+              href: insights-programmatic-first-api-call.md
+            - name: 시스템 쿼리 목록
+              href: insights-programmatic-system-queries.md
+            - name: 샘플 쿼리
+              href: insights-programmatic-sample-queries.md
+            - name: 사용자 지정 쿼리 사양
+              href: insights-programmatic-custom-query.md
+            - name: 애플리케이션 예제
+              href: insights-programmatic-sample-application.md
+            - name: 질문과 대답
+              href: insights-programmatic-faq.md
+            - name: API 참조
+              items:
+                - name: 사용 가능한 API
+                  href: insights-programmatic-analytics-available-api.md
+                - name: 모든 데이터 세트 가져오기
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: 보고서 쿼리 가져오기
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: 보고서 쿼리 삭제
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: 보고서 쿼리 사용해 보기
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: 보고서 보기
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: 보고서 업데이트
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: 보고서 삭제
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: 보고서 실행 일시 중지
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: 보고서 실행 다시 시작
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: 인사이트 데이터 정의
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: 파트너 기여 지표
       items:
         - name: 클라우드 비즈니스 애플리케이션 역량의 경우
